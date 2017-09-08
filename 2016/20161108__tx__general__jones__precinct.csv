@@ -1,0 +1,241 @@
+county,precinct,office,district,candidate,party,votes,absentee,early voting,election day,provisional
+Jones,101,Ballots Cast,,,,841,74,504,263,0
+Jones,102,Ballots Cast,,,,99,9,23,67,0
+Jones,103,Ballots Cast,,,,303,20,135,148,0
+Jones,201,Ballots Cast,,,,1049,72,483,494,0
+Jones,202,Ballots Cast,,,,186,14,32,140,0
+Jones,203,Ballots Cast,,,,185,15,99,70,0
+Jones,301,Ballots Cast,,,,176,13,77,86,0
+Jones,302,Ballots Cast,,,,652,61,206,383,2
+Jones,303,Ballots Cast,,,,793,38,270,484,1
+Jones,401,Ballots Cast,,,,938,84,367,486,1
+Jones,402,Ballots Cast,,,,820,71,409,340,0
+Jones,Total,Ballots Cast,,,,6042,,,,
+Jones,101,Straight Party,,,REP,420,33,265,122,0
+Jones,102,Straight Party,,,REP,27,1,10,16,0
+Jones,103,Straight Party,,,REP,91,8,34,49,0
+Jones,201,Straight Party,,,REP,329,31,157,141,0
+Jones,202,Straight Party,,,REP,84,6,13,65,0
+Jones,203,Straight Party,,,REP,96,10,46,40,0
+Jones,301,Straight Party,,,REP,94,2,43,49,0
+Jones,302,Straight Party,,,REP,359,32,113,212,2
+Jones,303,Straight Party,,,REP,364,18,128,218,0
+Jones,401,Straight Party,,,REP,459,37,199,222,1
+Jones,402,Straight Party,,,REP,284,26,149,109,0
+Jones,Total,Straight Party,,,REP,2607,,,,
+Jones,101,Straight Party,,,DEM,79,8,44,27,0
+Jones,102,Straight Party,,,DEM,25,4,2,19,0
+Jones,103,Straight Party,,,DEM,34,1,18,15,0
+Jones,201,Straight Party,,,DEM,130,6,45,79,0
+Jones,202,Straight Party,,,DEM,19,1,7,11,0
+Jones,203,Straight Party,,,DEM,8,3,3,2,0
+Jones,301,Straight Party,,,DEM,7,2,2,3,0
+Jones,302,Straight Party,,,DEM,28,2,12,14,0
+Jones,303,Straight Party,,,DEM,43,3,16,23,1
+Jones,401,Straight Party,,,DEM,43,3,20,20,0
+Jones,402,Straight Party,,,DEM,68,8,33,27,0
+Jones,Total,Straight Party,,,DEM,484,,,,
+Jones,101,Straight Party,,,LIB,3,1,2,0,0
+Jones,102,Straight Party,,,LIB,0,0,0,0,0
+Jones,103,Straight Party,,,LIB,5,0,3,2,0
+Jones,201,Straight Party,,,LIB,6,0,1,5,0
+Jones,202,Straight Party,,,LIB,6,0,0,6,0
+Jones,203,Straight Party,,,LIB,1,0,0,1,0
+Jones,301,Straight Party,,,LIB,1,0,0,1,0
+Jones,302,Straight Party,,,LIB,2,0,0,2,0
+Jones,303,Straight Party,,,LIB,2,1,0,1,0
+Jones,401,Straight Party,,,LIB,4,2,0,2,0
+Jones,402,Straight Party,,,LIB,3,0,2,1,0
+Jones,Total,Straight Party,,,LIB,33,,,,
+Jones,101,Straight Party,,,GRN,0,0,0,0,0
+Jones,102,Straight Party,,,GRN,0,0,0,0,0
+Jones,103,Straight Party,,,GRN,0,0,0,0,0
+Jones,201,Straight Party,,,GRN,1,0,0,1,0
+Jones,202,Straight Party,,,GRN,0,0,0,0,0
+Jones,203,Straight Party,,,GRN,0,0,0,0,0
+Jones,301,Straight Party,,,GRN,0,0,0,0,0
+Jones,302,Straight Party,,,GRN,1,0,0,1,0
+Jones,303,Straight Party,,,GRN,0,0,0,0,0
+Jones,401,Straight Party,,,GRN,2,0,1,1,0
+Jones,402,Straight Party,,,GRN,2,0,0,2,0
+Jones,Total,Straight Party,,,GRN,6,,,,
+Jones,101,President,,Donald Trump,REP,658,49,416,193,0
+Jones,102,President,,Donald Trump,REP,54,2,16,36,0
+Jones,103,President,,Donald Trump,REP,203,15,88,100,0
+Jones,201,President,,Donald Trump,REP,753,48,359,336,0
+Jones,202,President,,Donald Trump,REP,147,10,24,113,0
+Jones,203,President,,Donald Trump,REP,161,12,89,60,0
+Jones,301,President,,Donald Trump,REP,158,8,71,79,0
+Jones,302,President,,Donald Trump,REP,568,49,181,336,2
+Jones,303,President,,Donald Trump,REP,693,29,233,431,0
+Jones,401,President,,Donald Trump,REP,792,67,315,409,1
+Jones,402,President,,Donald Trump,REP,632,52,329,251,0
+Jones,Total,President,,Donald Trump,REP,4819,,,,
+Jones,101,President,,Hillary Clinton,DEM,137,16,64,57,0
+Jones,102,President,,Hillary Clinton,DEM,40,6,7,27,0
+Jones,103,President,,Hillary Clinton,DEM,78,4,38,36,0
+Jones,201,President,,Hillary Clinton,DEM,236,18,86,132,0
+Jones,202,President,,Hillary Clinton,DEM,27,2,7,18,0
+Jones,203,President,,Hillary Clinton,DEM,17,3,8,6,0
+Jones,301,President,,Hillary Clinton,DEM,15,3,5,7,0
+Jones,302,President,,Hillary Clinton,DEM,66,7,21,38,0
+Jones,303,President,,Hillary Clinton,DEM,77,7,31,38,1
+Jones,401,President,,Hillary Clinton,DEM,101,7,40,54,0
+Jones,402,President,,Hillary Clinton,DEM,142,16,69,57,0
+Jones,Total,President,,Hillary Clinton,DEM,936,,,,
+Jones,101,President,,Gary Johnson,LIB,21,6,10,5,0
+Jones,102,President,,Gary Johnson,LIB,3,0,0,3,0
+Jones,103,President,,Gary Johnson,LIB,13,0,7,6,0
+Jones,201,President,,Gary Johnson,LIB,40,3,16,21,0
+Jones,202,President,,Gary Johnson,LIB,7,0,0,7,0
+Jones,203,President,,Gary Johnson,LIB,4,1,1,2,0
+Jones,301,President,,Gary Johnson,LIB,2,2,0,0,0
+Jones,302,President,,Gary Johnson,LIB,16,5,3,8,0
+Jones,303,President,,Gary Johnson,LIB,11,1,2,8,0
+Jones,401,President,,Gary Johnson,LIB,23,7,3,13,0
+Jones,402,President,,Gary Johnson,LIB,22,0,6,16,0
+Jones,Total,President,,Gary Johnson,LIB,162,,,,
+Jones,101,President,,Jill Stein,GRN,0,0,0,0,0
+Jones,102,President,,Jill Stein,GRN,0,0,0,0,0
+Jones,103,President,,Jill Stein,GRN,0,0,0,0,0
+Jones,201,President,,Jill Stein,GRN,3,0,1,2,0
+Jones,202,President,,Jill Stein,GRN,3,1,1,1,0
+Jones,203,President,,Jill Stein,GRN,0,0,0,0,0
+Jones,301,President,,Jill Stein,GRN,0,0,0,0,0
+Jones,302,President,,Jill Stein,GRN,0,0,0,0,0
+Jones,303,President,,Jill Stein,GRN,2,0,1,1,0
+Jones,401,President,,Jill Stein,GRN,2,1,1,0,0
+Jones,402,President,,Jill Stein,GRN,11,0,4,7,0
+Jones,Total,President,,Jill Stein,GRN,21,,,,
+Jones,101,President,,Write-In,,5,2,1,2,0
+Jones,102,President,,Write-In,,1,0,0,1,0
+Jones,103,President,,Write-In,,4,0,2,2,0
+Jones,201,President,,Write-In,,6,0,5,1,0
+Jones,202,President,,Write-In,,0,0,0,0,0
+Jones,203,President,,Write-In,,2,0,1,1,0
+Jones,301,President,,Write-In,,0,0,0,0,0
+Jones,302,President,,Write-In,,2,0,1,1,0
+Jones,303,President,,Write-In,,9,1,2,6,0
+Jones,401,President,,Write-In,,14,1,5,8,0
+Jones,402,President,,Write-In,,8,1,0,7,0
+Jones,Total,President,,Write-In,,51,,,,
+Jones,101,U.S House,13,Jodey Arrington,REP,655,59,404,192,0
+Jones,102,U.S House,13,Jodey Arrington,REP,58,4,15,39,0
+Jones,103,U.S House,13,Jodey Arrington,REP,212,14,92,106,0
+Jones,201,U.S House,13,Jodey Arrington,REP,794,53,389,352,0
+Jones,202,U.S House,13,Jodey Arrington,REP,141,10,23,108,0
+Jones,203,U.S House,13,Jodey Arrington,REP,158,12,86,60,0
+Jones,301,U.S House,13,Jodey Arrington,REP,154,9,70,75,0
+Jones,302,U.S House,13,Jodey Arrington,REP,569,53,180,334,2
+Jones,303,U.S House,13,Jodey Arrington,REP,668,28,228,412,0
+Jones,401,U.S House,13,Jodey Arrington,REP,793,67,314,411,1
+Jones,402,U.S House,13,Jodey Arrington,REP,646,51,329,266,0
+Jones,Total,U.S House,13,Jodey Arrington,REP,4848,,,,
+Jones,101,U.S House,13,Troy Bonar,LIB,39,3,19,17,0
+Jones,102,U.S House,13,Troy Bonar,LIB,7,0,0,7,0
+Jones,103,U.S House,13,Troy Bonar,LIB,41,3,21,17,0
+Jones,201,U.S House,13,Troy Bonar,LIB,56,6,14,36,0
+Jones,202,U.S House,13,Troy Bonar,LIB,17,1,2,14,0
+Jones,203,U.S House,13,Troy Bonar,LIB,10,1,5,4,0
+Jones,301,U.S House,13,Troy Bonar,LIB,9,1,2,6,0
+Jones,302,U.S House,13,Troy Bonar,LIB,26,4,11,11,0
+Jones,303,U.S House,13,Troy Bonar,LIB,39,3,6,30,0
+Jones,401,U.S House,13,Troy Bonar,LIB,57,7,21,29,0
+Jones,402,U.S House,13,Troy Bonar,LIB,53,4,20,29,0
+Jones,Total,U.S House,13,Troy Bonar,LIB,354,,,,
+Jones,101,U.S House,13,Mark Lawson,GRN,20,2,13,5,0
+Jones,102,U.S House,13,Mark Lawson,GRN,8,1,3,4,0
+Jones,103,U.S House,13,Mark Lawson,GRN,12,1,4,7,0
+Jones,201,U.S House,13,Mark Lawson,GRN,37,1,14,22,0
+Jones,202,U.S House,13,Mark Lawson,GRN,4,1,0,3,0
+Jones,203,U.S House,13,Mark Lawson,GRN,7,0,4,3,0
+Jones,301,U.S House,13,Mark Lawson,GRN,6,1,3,2,0
+Jones,302,U.S House,13,Mark Lawson,GRN,23,1,5,17,0
+Jones,303,U.S House,13,Mark Lawson,GRN,27,1,12,14,0
+Jones,401,U.S House,13,Mark Lawson,GRN,32,4,7,21,0
+Jones,402,U.S House,13,Mark Lawson,GRN,35,6,9,20,0
+Jones,Total,U.S House,13,Mark Lawson,GRN,211,,,,
+Jones,101,Railroad Commissioner,,Wayne Christian,REP,602,50,376,176,0
+Jones,102,Railroad Commissioner,,Wayne Christian,REP,43,3,13,27,0
+Jones,103,Railroad Commissioner,,Wayne Christian,REP,181,13,81,87,0
+Jones,201,Railroad Commissioner,,Wayne Christian,REP,661,43,331,287,0
+Jones,202,Railroad Commissioner,,Wayne Christian,REP,130,8,22,100,0
+Jones,203,Railroad Commissioner,,Wayne Christian,REP,149,12,81,56,0
+Jones,301,Railroad Commissioner,,Wayne Christian,REP,146,9,65,72,0
+Jones,302,Railroad Commissioner,,Wayne Christian,REP,531,47,174,308,2
+Jones,303,Railroad Commissioner,,Wayne Christian,REP,633,26,216,391,0
+Jones,401,Railroad Commissioner,,Wayne Christian,REP,764,62,299,402,1
+Jones,402,Railroad Commissioner,,Wayne Christian,REP,561,48,282,231,0
+Jones,Total,Railroad Commissioner,,Wayne Christian,REP,4401,,,,
+Jones,101,Railroad Commissioner,,Grady Yarbrough,DEM,139,16,75,48,0
+Jones,102,Railroad Commissioner,,Grady Yarbrough,DEM,37,5,5,27,0
+Jones,103,Railroad Commissioner,,Grady Yarbrough,DEM,75,5,32,38,0
+Jones,201,Railroad Commissioner,,Grady Yarbrough,DEM,237,18,85,134,0
+Jones,202,Railroad Commissioner,,Grady Yarbrough,DEM,31,3,7,21,0
+Jones,203,Railroad Commissioner,,Grady Yarbrough,DEM,22,4,12,6,0
+Jones,301,Railroad Commissioner,,Grady Yarbrough,DEM,18,3,8,7,0
+Jones,302,Railroad Commissioner,,Grady Yarbrough,DEM,59,5,15,39,0
+Jones,303,Railroad Commissioner,,Grady Yarbrough,DEM,96,6,35,54,1
+Jones,401,Railroad Commissioner,,Grady Yarbrough,DEM,107,10,40,57,0
+Jones,402,Railroad Commissioner,,Grady Yarbrough,DEM,144,13,70,61,0
+Jones,Total,Railroad Commissioner,,Grady Yarbrough,DEM,965,,,,
+Jones,101,Railroad Commissioner,,Mark Miller,LIB,25,2,14,9,0
+Jones,102,Railroad Commissioner,,Mark Miller,LIB,5,0,2,3,0
+Jones,103,Railroad Commissioner,,Mark Miller,LIB,17,0,13,4,0
+Jones,201,Railroad Commissioner,,Mark Miller,LIB,66,4,24,38,0
+Jones,202,Railroad Commissioner,,Mark Miller,LIB,11,1,1,9,0
+Jones,203,Railroad Commissioner,,Mark Miller,LIB,5,0,1,4,0
+Jones,301,Railroad Commissioner,,Mark Miller,LIB,9,1,2,6,0
+Jones,302,Railroad Commissioner,,Mark Miller,LIB,31,7,9,15,0
+Jones,303,Railroad Commissioner,,Mark Miller,LIB,28,3,4,21,0
+Jones,401,Railroad Commissioner,,Mark Miller,LIB,50,9,15,26,0
+Jones,402,Railroad Commissioner,,Mark Miller,LIB,50,5,23,22,0
+Jones,Total,Railroad Commissioner,,Mark Miller,LIB,297,,,,
+Jones,101,Railroad Commissioner,,Martina Salinas,GRN,12,1,8,3,0
+Jones,102,Railroad Commissioner,,Martina Salinas,GRN,5,1,1,3,0
+Jones,103,Railroad Commissioner,,Martina Salinas,GRN,14,0,6,8,0
+Jones,201,Railroad Commissioner,,Martina Salinas,GRN,14,0,5,9,0
+Jones,202,Railroad Commissioner,,Martina Salinas,GRN,3,0,1,2,0
+Jones,203,Railroad Commissioner,,Martina Salinas,GRN,4,0,1,3,0
+Jones,301,Railroad Commissioner,,Martina Salinas,GRN,2,0,1,1,0
+Jones,302,Railroad Commissioner,,Martina Salinas,GRN,13,2,2,9,0
+Jones,303,Railroad Commissioner,,Martina Salinas,GRN,9,0,3,6,0
+Jones,401,Railroad Commissioner,,Martina Salinas,GRN,9,1,5,3,0
+Jones,402,Railroad Commissioner,,Martina Salinas,GRN,24,2,11,11,0
+Jones,Total,Railroad Commissioner,,Martina Salinas,GRN,109,,,,
+Jones,101,State Senate,28,Charles Perry,REP,672,63,412,197,0
+Jones,102,State Senate,28,Charles Perry,REP,56,3,13,40,0
+Jones,103,State Senate,28,Charles Perry,REP,238,15,104,119,0
+Jones,201,State Senate,28,Charles Perry,REP,788,47,376,365,0
+Jones,202,State Senate,28,Charles Perry,REP,148,9,22,117,0
+Jones,203,State Senate,28,Charles Perry,REP,163,12,88,61,0
+Jones,301,State Senate,28,Charles Perry,REP,157,9,70,78,0
+Jones,302,State Senate,28,Charles Perry,REP,580,52,183,343,2
+Jones,303,State Senate,28,Charles Perry,REP,703,30,235,438,0
+Jones,401,State Senate,28,Charles Perry,REP,817,70,317,429,1
+Jones,402,State Senate,28,Charles Perry,REP,649,53,315,281,0
+Jones,Total,State Senate,28,Charles Perry,REP,4971,,,,
+Jones,101,State Representative,71,Stan Lambert,REP,651,59,407,185,0
+Jones,102,State Representative,71,Stan Lambert,REP,49,2,14,33,0
+Jones,103,State Representative,71,Stan Lambert,REP,210,14,94,102,0
+Jones,201,State Representative,71,Stan Lambert,REP,767,48,377,342,0
+Jones,202,State Representative,71,Stan Lambert,REP,143,9,23,111,0
+Jones,203,State Representative,71,Stan Lambert,REP,159,12,87,60,0
+Jones,301,State Representative,71,Stan Lambert,REP,157,9,69,79,0
+Jones,302,State Representative,71,Stan Lambert,REP,583,54,184,343,2
+Jones,303,State Representative,71,Stan Lambert,REP,686,28,229,429,0
+Jones,401,State Representative,71,Stan Lambert,REP,819,70,323,425,1
+Jones,402,State Representative,71,Stan Lambert,REP,647,51,322,274,0
+Jones,Total,State Representative,71,Stan Lambert,REP,4871,,,,
+Jones,101,State Representative,71,Pierce LoPachin,DEM,129,12,67,50,0
+Jones,102,State Representative,71,Pierce LoPachin,DEM,42,7,6,29,0
+Jones,103,State Representative,71,Pierce LoPachin,DEM,72,4,36,32,0
+Jones,201,State Representative,71,Pierce LoPachin,DEM,216,16,76,124,0
+Jones,202,State Representative,71,Pierce LoPachin,DEM,33,3,7,23,0
+Jones,203,State Representative,71,Pierce LoPachin,DEM,21,4,8,9,0
+Jones,301,State Representative,71,Pierce LoPachin,DEM,19,4,8,7,0
+Jones,302,State Representative,71,Pierce LoPachin,DEM,51,6,16,29,0
+Jones,303,State Representative,71,Pierce LoPachin,DEM,82,7,28,46,1
+Jones,401,State Representative,71,Pierce LoPachin,DEM,96,9,35,52,0
+Jones,402,State Representative,71,Pierce LoPachin,DEM,130,15,59,56,0
+Jones,Total,State Representative,71,Pierce LoPachin,DEM,891,,,,
