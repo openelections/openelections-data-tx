@@ -20,10 +20,10 @@ convert <- function(
   col_positions=fwf_positions(
     start=c(12,c(18,28,84,122)+posBase),
     end=c(17,c(20,83,121,176)+posBase),
-    col_names=c('vote','party','office','candidate','precinct')
+    col_names=c('votes','party','office','candidate','precinct')
   )
 ) %>%
-  mutate(vote=as.integer(vote),
+  mutate(votes=as.integer(votes),
          party=trimws(party),
          office=trimws(office),
          candidate=trimws(candidate),
@@ -39,7 +39,7 @@ convert <- function(
     district=ifelse(grepl(x=office, pattern=stateSenateRegex), gsub(x=office, pattern=stateSenateRegex, replacement='\\1'), district),
     office=ifelse(grepl(x=office, pattern=stateSenateRegex), 'State Senator', office)
   ) %>%
-  select(county, precinct, office, district, party, candidate, vote)
+  select(county, precinct, office, district, party, candidate, votes)
   
 }
 
@@ -123,5 +123,25 @@ yoakum <- convert(
 )
 write_csv(yoakum, '../20161108__tx__general__yoakum__precinct.csv', na='')
 
+angelina <- convert(
+  'https://raw.githubusercontent.com/openelections/openelections-sources-tx/master/2016/ANGELINA_COUNTY-2016_General_Election_1182016-ASCII%20FILE%20FOR%20GENERAL%20ELECTION%202016%20%20PCT%20by%20PCT.ASC',
+  'Angelina',
+  houseRegex='United States Representative, District (.+)'
+)
+write_csv(angelina, '../20161108__tx__general__angelina__precinct.csv', na='')
+
+crane <- convert(
+  'https://raw.githubusercontent.com/openelections/openelections-sources-tx/master/2016/CRANE_COUNTY-2016_General_Election_1182016-16GCRANE.ASC',
+  'Crane',
+  houseRegex='United States Representative, District (.+)'
+)
+write_csv(crane, '../20161108__tx__general__crane__precinct.csv', na='')
+
+tyler <- convert(
+  'https://raw.githubusercontent.com/openelections/openelections-sources-tx/master/2016/TYLER_COUNTY-2016_General_Election_1182016-16GTYLER.ASC',
+  'Tyler',
+  houseRegex='United States Representative, District (.+)'
+)
+write_csv(tyler, '../20161108__tx__general__tyler__precinct.csv', na='')
 
 
