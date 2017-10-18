@@ -1,0 +1,924 @@
+county,precinct,office,district,candidate,party,votes,early_votes_650,early_votes_ivo,election_day_650,election_day_ivo
+Polk,1,Registered Voters,,,,402,,,,
+Polk,2,Registered Voters,,,,544,,,,
+Polk,3,Registered Voters,,,,1856,,,,
+Polk,4,Registered Voters,,,,574,,,,
+Polk,5,Registered Voters,,,,722,,,,
+Polk,6,Registered Voters,,,,4745,,,,
+Polk,7,Registered Voters,,,,743,,,,
+Polk,8,Registered Voters,,,,1138,,,,
+Polk,9,Registered Voters,,,,817,,,,
+Polk,10,Registered Voters,,,,2422,,,,
+Polk,11,Registered Voters,,,,385,,,,
+Polk,12,Registered Voters,,,,335,,,,
+Polk,13,Registered Voters,,,,408,,,,
+Polk,14,Registered Voters,,,,1024,,,,
+Polk,15,Registered Voters,,,,1155,,,,
+Polk,16,Registered Voters,,,,4351,,,,
+Polk,17,Registered Voters,,,,1239,,,,
+Polk,18,Registered Voters,,,,761,,,,
+Polk,19,Registered Voters,,,,5291,,,,
+Polk,20,Registered Voters,,,,5333,,,,
+Polk,21,Registered Voters,,,,1288,,,,
+Polk,Total,Registered Voters,,,,35533,,,,
+Polk,1,Ballots Cast,,,,209,88,12,103,6
+Polk,2,Ballots Cast,,,,283,16,119,37,111
+Polk,3,Ballots Cast,,,,943,60,492,75,316
+Polk,4,Ballots Cast,,,,875,62,609,11,193
+Polk,5,Ballots Cast,,,,1557,135,1027,14,381
+Polk,6,Ballots Cast,,,,2646,144,2020,27,455
+Polk,7,Ballots Cast,,,,404,37,274,7,86
+Polk,8,Ballots Cast,,,,558,66,253,87,152
+Polk,9,Ballots Cast,,,,448,36,227,28,157
+Polk,10,Ballots Cast,,,,1196,176,624,86,310
+Polk,11,Ballots Cast,,,,207,14,110,40,43
+Polk,12,Ballots Cast,,,,109,1,7,52,49
+Polk,13,Ballots Cast,,,,268,20,80,27,141
+Polk,14,Ballots Cast,,,,539,51,175,155,158
+Polk,15,Ballots Cast,,,,608,37,330,16,225
+Polk,16,Ballots Cast,,,,2409,257,1555,137,460
+Polk,17,Ballots Cast,,,,678,31,466,26,155
+Polk,18,Ballots Cast,,,,325,34,156,91,44
+Polk,19,Ballots Cast,,,,2497,195,327,97,123
+Polk,20,Ballots Cast,,,,2568,1932,375,49,212
+Polk,21,Ballots Cast,,,,699,49,464,3,183
+Polk,Total,Ballots Cast,,,,20026,3441,9702,1168,3960
+Polk,1,Straight Party,,,REP,95,43,4,45,3
+Polk,2,Straight Party,,,REP,154,11,68,18,57
+Polk,3,Straight Party,,,REP,391,23,220,23,125
+Polk,4,Straight Party,,,REP,364,20,262,0,82
+Polk,5,Straight Party,,,REP,699,73,458,0,168
+Polk,6,Straight Party,,,REP,1412,75,1092,4,241
+Polk,7,Straight Party,,,REP,125,12,82,0,31
+Polk,8,Straight Party,,,REP,195,21,98,21,55
+Polk,9,Straight Party,,,REP,204,20,113,5,66
+Polk,10,Straight Party,,,REP,468,65,269,24,110
+Polk,11,Straight Party,,,REP,82,4,48,12,18
+Polk,12,Straight Party,,,REP,14,0,0,9,5
+Polk,13,Straight Party,,,REP,136,6,45,12,73
+Polk,14,Straight Party,,,REP,237,23,95,57,62
+Polk,15,Straight Party,,,REP,292,18,148,7,119
+Polk,16,Straight Party,,,REP,903,94,605,46,158
+Polk,17,Straight Party,,,REP,307,9,209,8,81
+Polk,18,Straight Party,,,REP,57,8,34,7,8
+Polk,19,Straight Party,,,REP,1113,903,142,23,45
+Polk,20,Straight Party,,,REP,1214,913,198,8,95
+Polk,21,Straight Party,,,REP,255,28,168,0,59
+Polk,Total,Straight Party,,,REP,8717,2369,4358,329,1661
+Polk,1,Straight Party,,,DEM,9,1,3,5,0
+Polk,2,Straight Party,,,DEM,20,0,4,7,9
+Polk,3,Straight Party,,,DEM,139,3,59,20,57
+Polk,4,Straight Party,,,DEM,96,11,61,1,23
+Polk,5,Straight Party,,,DEM,146,8,99,0,39
+Polk,6,Straight Party,,,DEM,233,13,187,1,32
+Polk,7,Straight Party,,,DEM,42,2,28,0,12
+Polk,8,Straight Party,,,DEM,115,20,29,30,36
+Polk,9,Straight Party,,,DEM,83,6,23,9,45
+Polk,10,Straight Party,,,DEM,294,40,118,25,111
+Polk,11,Straight Party,,,DEM,30,4,16,5,5
+Polk,12,Straight Party,,,DEM,23,1,0,11,11
+Polk,13,Straight Party,,,DEM,8,1,4,0,3
+Polk,14,Straight Party,,,DEM,47,3,10,12,22
+Polk,15,Straight Party,,,DEM,33,3,20,1,9
+Polk,16,Straight Party,,,DEM,141,23,71,11,36
+Polk,17,Straight Party,,,DEM,64,2,39,3,20
+Polk,18,Straight Party,,,DEM,135,11,53,50,21
+Polk,19,Straight Party,,,DEM,307,240,50,8,9
+Polk,20,Straight Party,,,DEM,289,240,36,0,13
+Polk,21,Straight Party,,,DEM,73,4,33,0,36
+Polk,Total,Straight Party,,,DEM,2327,636,943,199,549
+Polk,1,Straight Party,,,LIB,1,1,0,0,0
+Polk,2,Straight Party,,,LIB,1,0,0,0,1
+Polk,3,Straight Party,,,LIB,2,0,1,0,1
+Polk,4,Straight Party,,,LIB,5,1,1,0,3
+Polk,5,Straight Party,,,LIB,3,0,1,0,2
+Polk,6,Straight Party,,,LIB,8,0,5,0,3
+Polk,7,Straight Party,,,LIB,1,0,1,0,0
+Polk,8,Straight Party,,,LIB,4,0,2,0,2
+Polk,9,Straight Party,,,LIB,0,0,0,0,0
+Polk,10,Straight Party,,,LIB,2,1,0,1,0
+Polk,11,Straight Party,,,LIB,0,0,0,0,0
+Polk,12,Straight Party,,,LIB,1,0,0,1,0
+Polk,13,Straight Party,,,LIB,3,0,0,0,3
+Polk,14,Straight Party,,,LIB,3,0,2,1,0
+Polk,15,Straight Party,,,LIB,3,0,3,0,0
+Polk,16,Straight Party,,,LIB,7,1,5,0,1
+Polk,17,Straight Party,,,LIB,5,0,4,0,1
+Polk,18,Straight Party,,,LIB,4,0,0,1,3
+Polk,19,Straight Party,,,LIB,12,8,2,1,1
+Polk,20,Straight Party,,,LIB,11,7,1,0,3
+Polk,21,Straight Party,,,LIB,3,0,2,0,1
+Polk,Total,Straight Party,,,LIB,79,19,30,5,25
+Polk,1,Straight Party,,,GRN,0,0,0,0,0
+Polk,2,Straight Party,,,GRN,0,0,0,0,0
+Polk,3,Straight Party,,,GRN,4,0,0,1,3
+Polk,4,Straight Party,,,GRN,2,0,2,0,0
+Polk,5,Straight Party,,,GRN,3,1,0,0,2
+Polk,6,Straight Party,,,GRN,6,0,3,0,3
+Polk,7,Straight Party,,,GRN,1,0,1,0,0
+Polk,8,Straight Party,,,GRN,1,0,0,0,1
+Polk,9,Straight Party,,,GRN,1,0,1,0,0
+Polk,10,Straight Party,,,GRN,4,0,2,1,1
+Polk,11,Straight Party,,,GRN,0,0,0,0,0
+Polk,12,Straight Party,,,GRN,1,0,0,0,1
+Polk,13,Straight Party,,,GRN,1,0,1,0,0
+Polk,14,Straight Party,,,GRN,3,0,0,2,1
+Polk,15,Straight Party,,,GRN,1,1,0,0,0
+Polk,16,Straight Party,,,GRN,5,0,3,0,2
+Polk,17,Straight Party,,,GRN,0,0,0,0,0
+Polk,18,Straight Party,,,GRN,0,0,0,0,0
+Polk,19,Straight Party,,,GRN,4,4,0,0,0
+Polk,20,Straight Party,,,GRN,3,3,0,0,0
+Polk,21,Straight Party,,,GRN,2,0,0,0,2
+Polk,Total,Straight Party,,,GRN,42,9,13,4,16
+Polk,1,Straight Party,,Over Votes,,0,0,0,0,0
+Polk,2,Straight Party,,Over Votes,,0,0,0,0,0
+Polk,3,Straight Party,,Over Votes,,0,0,0,0,0
+Polk,4,Straight Party,,Over Votes,,0,0,0,0,0
+Polk,5,Straight Party,,Over Votes,,0,0,0,0,0
+Polk,6,Straight Party,,Over Votes,,0,0,0,0,0
+Polk,7,Straight Party,,Over Votes,,0,0,0,0,0
+Polk,8,Straight Party,,Over Votes,,0,0,0,0,0
+Polk,9,Straight Party,,Over Votes,,0,0,0,0,0
+Polk,10,Straight Party,,Over Votes,,0,0,0,0,0
+Polk,11,Straight Party,,Over Votes,,0,0,0,0,0
+Polk,12,Straight Party,,Over Votes,,0,0,0,0,0
+Polk,13,Straight Party,,Over Votes,,0,0,0,0,0
+Polk,14,Straight Party,,Over Votes,,0,0,0,0,0
+Polk,15,Straight Party,,Over Votes,,0,0,0,0,0
+Polk,16,Straight Party,,Over Votes,,0,0,0,0,0
+Polk,17,Straight Party,,Over Votes,,0,0,0,0,0
+Polk,18,Straight Party,,Over Votes,,0,0,0,0,0
+Polk,19,Straight Party,,Over Votes,,0,0,0,0,0
+Polk,20,Straight Party,,Over Votes,,0,0,0,0,0
+Polk,21,Straight Party,,Over Votes,,0,0,0,0,0
+Polk,Total,Straight Party,,Over Votes,,0,0,0,0,0
+Polk,1,Straight Party,,Under Votes,,103,43,5,52,3
+Polk,2,Straight Party,,Under Votes,,104,5,47,8,44
+Polk,3,Straight Party,,Under Votes,,405,34,212,29,130
+Polk,4,Straight Party,,Under Votes,,405,30,283,7,85
+Polk,5,Straight Party,,Under Votes,,692,53,469,0,170
+Polk,6,Straight Party,,Under Votes,,978,56,733,13,176
+Polk,7,Straight Party,,Under Votes,,230,23,162,2,43
+Polk,8,Straight Party,,Under Votes,,242,25,124,35,58
+Polk,9,Straight Party,,Under Votes,,160,10,90,14,46
+Polk,10,Straight Party,,Under Votes,,421,70,235,28,88
+Polk,11,Straight Party,,Under Votes,,95,6,46,23,20
+Polk,12,Straight Party,,Under Votes,,69,0,7,30,32
+Polk,13,Straight Party,,Under Votes,,120,13,30,15,62
+Polk,14,Straight Party,,Under Votes,,245,25,68,79,73
+Polk,15,Straight Party,,Under Votes,,278,15,159,7,97
+Polk,16,Straight Party,,Under Votes,,1347,139,871,74,263
+Polk,17,Straight Party,,Under Votes,,299,20,214,12,53
+Polk,18,Straight Party,,Under Votes,,126,15,69,30,12
+Polk,19,Straight Party,,Under Votes,,1030,795,133,34,68
+Polk,20,Straight Party,,Under Votes,,1026,769,140,16,101
+Polk,21,Straight Party,,Under Votes,,363,17,261,0,85
+Polk,Total,Straight Party,,Under Votes,,8738,2163,4358,508,1709
+Polk,1,President,,Donald Trump,REP,185,82,8,89,6
+Polk,2,President,,Donald Trump,REP,241,14,103,30,94
+Polk,3,President,,Donald Trump,REP,701,44,393,46,218
+Polk,4,President,,Donald Trump,REP,677,45,480,8,144
+Polk,5,President,,Donald Trump,REP,1231,107,825,10,289
+Polk,6,President,,Donald Trump,REP,2175,110,1671,19,375
+Polk,7,President,,Donald Trump,REP,285,28,199,5,53
+Polk,8,President,,Donald Trump,REP,375,36,196,42,101
+Polk,9,President,,Donald Trump,REP,342,29,191,18,104
+Polk,10,President,,Donald Trump,REP,796,118,459,47,172
+Polk,11,President,,Donald Trump,REP,147,9,81,25,32
+Polk,12,President,,Donald Trump,REP,36,0,2,20,14
+Polk,13,President,,Donald Trump,REP,238,19,68,25,126
+Polk,14,President,,Donald Trump,REP,429,43,151,124,111
+Polk,15,President,,Donald Trump,REP,545,30,295,15,205
+Polk,16,President,,Donald Trump,REP,1990,204,1319,106,361
+Polk,17,President,,Donald Trump,REP,557,24,392,20,121
+Polk,18,President,,Donald Trump,REP,110,13,66,18,13
+Polk,19,President,,Donald Trump,REP,1747,1362,234,59,92
+Polk,20,President,,Donald Trump,REP,182,1324,286,31,179
+Polk,21,President,,Donald Trump,REP,549,41,380,2,126
+Polk,Total,President,,Donald Trump,REP,13538,3682,7799,759,2936
+Polk,1,President,,Hillary Clinton,DEM,22,6,4,12,0
+Polk,2,President,,Hillary Clinton,DEM,35,2,11,7,15
+Polk,3,President,,Hillary Clinton,DEM,210,11,91,26,82
+Polk,4,President,,Hillary Clinton,DEM,171,17,115,3,36
+Polk,5,President,,Hillary Clinton,DEM,280,22,182,2,74
+Polk,6,President,,Hillary Clinton,DEM,405,33,308,5,59
+Polk,7,President,,Hillary Clinton,DEM,93,7,61,1,24
+Polk,8,President,,Hillary Clinton,DEM,167,26,48,44,49
+Polk,9,President,,Hillary Clinton,DEM,97,7,30,10,50
+Polk,10,President,,Hillary Clinton,DEM,379,55,156,34,134
+Polk,11,President,,Hillary Clinton,DEM,56,5,26,14,11
+Polk,12,President,,Hillary Clinton,DEM,61,1,3,31,26
+Polk,13,President,,Hillary Clinton,DEM,22,1,10,2,9
+Polk,14,President,,Hillary Clinton,DEM,80,5,20,19,36
+Polk,15,President,,Hillary Clinton,DEM,52,6,30,1,15
+Polk,16,President,,Hillary Clinton,DEM,329,48,179,24,78
+Polk,17,President,,Hillary Clinton,DEM,104,4,64,6,30
+Polk,18,President,,Hillary Clinton,DEM,203,21,84,70,28
+Polk,19,President,,Hillary Clinton,DEM,654,517,82,31,24
+Polk,20,President,,Hillary Clinton,DEM,642,531,74,12,25
+Polk,21,President,,Hillary Clinton,DEM,125,6,68,1,50
+Polk,Total,President,,Hillary Clinton,DEM,4187,1331,1646,355,855
+Polk,1,President,,Gary Johnson,LIB,1,0,0,1,0
+Polk,2,President,,Gary Johnson,LIB,3,0,3,0,0
+Polk,3,President,,Gary Johnson,LIB,15,2,4,0,9
+Polk,4,President,,Gary Johnson,LIB,17,0,7,0,10
+Polk,5,President,,Gary Johnson,LIB,25,2,12,0,11
+Polk,6,President,,Gary Johnson,LIB,36,0,21,1,14
+Polk,7,President,,Gary Johnson,LIB,14,0,10,1,3
+Polk,8,President,,Gary Johnson,LIB,8,2,5,0,1
+Polk,9,President,,Gary Johnson,LIB,5,0,3,0,2
+Polk,10,President,,Gary Johnson,LIB,8,1,4,1,2
+Polk,11,President,,Gary Johnson,LIB,3,0,2,1,0
+Polk,12,President,,Gary Johnson,LIB,7,0,2,1,4
+Polk,13,President,,Gary Johnson,LIB,7,0,1,0,6
+Polk,14,President,,Gary Johnson,LIB,16,2,3,7,4
+Polk,15,President,,Gary Johnson,LIB,6,0,4,0,2
+Polk,16,President,,Gary Johnson,LIB,47,2,30,3,12
+Polk,17,President,,Gary Johnson,LIB,12,1,9,0,2
+Polk,18,President,,Gary Johnson,LIB,7,0,2,3,2
+Polk,19,President,,Gary Johnson,LIB,55,40,6,4,5
+Polk,20,President,,Gary Johnson,LIB,64,48,5,3,8
+Polk,21,President,,Gary Johnson,LIB,11,1,6,0,4
+Polk,Total,President,,Gary Johnson,LIB,367,101,139,26,101
+Polk,1,President,,Jill Stein,GRN,0,0,0,0,0
+Polk,2,President,,Jill Stein,GRN,0,0,0,0,0
+Polk,3,President,,Jill Stein,GRN,9,0,3,2,4
+Polk,4,President,,Jill Stein,GRN,4,0,2,0,2
+Polk,5,President,,Jill Stein,GRN,3,1,1,0,1
+Polk,6,President,,Jill Stein,GRN,7,0,3,0,4
+Polk,7,President,,Jill Stein,GRN,5,1,2,0,2
+Polk,8,President,,Jill Stein,GRN,3,1,1,0,1
+Polk,9,President,,Jill Stein,GRN,1,0,1,0,0
+Polk,10,President,,Jill Stein,GRN,3,0,3,0,0
+Polk,11,President,,Jill Stein,GRN,1,0,1,0,0
+Polk,12,President,,Jill Stein,GRN,2,0,0,0,2
+Polk,13,President,,Jill Stein,GRN,1,0,1,0,0
+Polk,14,President,,Jill Stein,GRN,3,0,0,2,1
+Polk,15,President,,Jill Stein,GRN,4,1,0,0,3
+Polk,16,President,,Jill Stein,GRN,12,2,5,2,3
+Polk,17,President,,Jill Stein,GRN,1,0,1,0,0
+Polk,18,President,,Jill Stein,GRN,2,0,2,0,0
+Polk,19,President,,Jill Stein,GRN,9,7,0,2,0
+Polk,20,President,,Jill Stein,GRN,13,7,4,2,0
+Polk,21,President,,Jill Stein,GRN,3,0,1,0,2
+Polk,Total,President,,Jill Stein,GRN,86,20,31,10,25
+Polk,1,President,,Write-In,,0,0,0,0,0
+Polk,2,President,,Write-In,,0,0,0,0,0
+Polk,3,President,,Write-In,,4,2,1,1,0
+Polk,4,President,,Write-In,,4,0,3,0,1
+Polk,5,President,,Write-In,,12,3,7,0,2
+Polk,6,President,,Write-In,,11,1,6,2,2
+Polk,7,President,,Write-In,,3,0,0,0,3
+Polk,8,President,,Write-In,,2,0,1,1,0
+Polk,9,President,,Write-In,,2,0,2,0,0
+Polk,10,President,,Write-In,,2,1,0,0,1
+Polk,11,President,,Write-In,,0,0,0,0,0
+Polk,12,President,,Write-In,,3,0,0,0,3
+Polk,13,President,,Write-In,,0,0,0,0,0
+Polk,14,President,,Write-In,,6,1,1,1,3
+Polk,15,President,,Write-In,,0,0,0,0,0
+Polk,16,President,,Write-In,,17,0,10,1,6
+Polk,17,President,,Write-In,,2,1,0,0,1
+Polk,18,President,,Write-In,,1,0,1,0,0
+Polk,19,President,,Write-In,,21,17,2,1,1
+Polk,20,President,,Write-In,,21,17,3,1,0
+Polk,21,President,,Write-In,,5,1,4,0,0
+Polk,Total,President,,Write-In,,116,44,41,8,23
+Polk,1,President,,Over Votes,,0,0,0,0,0
+Polk,2,President,,Over Votes,,0,0,0,0,0
+Polk,3,President,,Over Votes,,0,0,0,0,0
+Polk,4,President,,Over Votes,,0,0,0,0,0
+Polk,5,President,,Over Votes,,0,0,0,0,0
+Polk,6,President,,Over Votes,,0,0,0,0,0
+Polk,7,President,,Over Votes,,0,0,0,0,0
+Polk,8,President,,Over Votes,,0,0,0,0,0
+Polk,9,President,,Over Votes,,0,0,0,0,0
+Polk,10,President,,Over Votes,,0,0,0,0,0
+Polk,11,President,,Over Votes,,0,0,0,0,0
+Polk,12,President,,Over Votes,,0,0,0,0,0
+Polk,13,President,,Over Votes,,0,0,0,0,0
+Polk,14,President,,Over Votes,,0,0,0,0,0
+Polk,15,President,,Over Votes,,0,0,0,0,0
+Polk,16,President,,Over Votes,,0,0,0,0,0
+Polk,17,President,,Over Votes,,0,0,0,0,0
+Polk,18,President,,Over Votes,,0,0,0,0,0
+Polk,19,President,,Over Votes,,0,0,0,0,0
+Polk,20,President,,Over Votes,,0,0,0,0,0
+Polk,21,President,,Over Votes,,0,0,0,0,0
+Polk,Total,President,,Over Votes,,0,0,0,0,0
+Polk,1,President,,Under Votes,,1,0,0,1,0
+Polk,2,President,,Under Votes,,4,0,2,0,2
+Polk,3,President,,Under Votes,,4,1,0,0,3
+Polk,4,President,,Under Votes,,2,0,2,0,0
+Polk,5,President,,Under Votes,,4,0,0,0,4
+Polk,6,President,,Under Votes,,12,0,11,0,1
+Polk,7,President,,Under Votes,,4,1,2,0,1
+Polk,8,President,,Under Votes,,3,1,2,0,0
+Polk,9,President,,Under Votes,,1,0,0,0,1
+Polk,10,President,,Under Votes,,8,1,2,4,1
+Polk,11,President,,Under Votes,,0,0,0,0,0
+Polk,12,President,,Under Votes,,0,0,0,0,0
+Polk,13,President,,Under Votes,,0,0,0,0,0
+Polk,14,President,,Under Votes,,5,0,0,2,3
+Polk,15,President,,Under Votes,,1,0,1,0,0
+Polk,16,President,,Under Votes,,14,1,12,1,0
+Polk,17,President,,Under Votes,,2,1,0,0,1
+Polk,18,President,,Under Votes,,2,0,1,0,1
+Polk,19,President,,Under Votes,,11,7,3,0,1
+Polk,20,President,,Under Votes,,8,5,3,0,0
+Polk,21,President,,Under Votes,,6,0,5,0,1
+Polk,Total,President,,Under Votes,,92,18,46,8,20
+Polk,1,US House,36,Brian Babin,REP,181,78,9,88,6
+Polk,2,US House,36,Brian Babin,REP,237,16,101,29,91
+Polk,3,US House,36,Brian Babin,REP,724,50,394,49,231
+Polk,4,US House,36,Brian Babin,REP,697,49,491,7,150
+Polk,5,US House,36,Brian Babin,REP,1257,116,833,11,297
+Polk,6,US House,36,Brian Babin,REP,2169,116,1680,15,358
+Polk,7,US House,36,Brian Babin,REP,311,33,214,4,60
+Polk,8,US House,36,Brian Babin,REP,386,36,202,43,105
+Polk,9,US House,36,Brian Babin,REP,337,29,194,14,100
+Polk,10,US House,36,Brian Babin,REP,818,125,465,47,181
+Polk,11,US House,36,Brian Babin,REP,160,9,89,28,34
+Polk,12,US House,36,Brian Babin,REP,76,1,6,38,31
+Polk,13,US House,36,Brian Babin,REP,235,19,69,25,122
+Polk,14,US House,36,Brian Babin,REP,441,43,152,127,119
+Polk,15,US House,36,Brian Babin,REP,524,29,283,16,196
+Polk,16,US House,36,Brian Babin,REP,2029,205,1347,106,371
+Polk,17,US House,36,Brian Babin,REP,555,24,396,17,118
+Polk,18,US House,36,Brian Babin,REP,131,17,76,23,15
+Polk,19,US House,36,Brian Babin,REP,1756,1365,241,55,95
+Polk,20,US House,36,Brian Babin,REP,1815,1317,289,33,176
+Polk,21,US House,36,Brian Babin,REP,558,42,391,2,123
+Polk,Total,US House,36,Brian Babin,REP,15397,3719,7922,777,2979
+Polk,1,US House,36,Hal J Ridley Jr,GRN,10,7,0,3,0
+Polk,2,US House,36,Hal J Ridley Jr,GRN,16,0,10,0,6
+Polk,3,US House,36,Hal J Ridley Jr,GRN,63,4,23,12,24
+Polk,4,US House,36,Hal J Ridley Jr,GRN,57,3,42,1,11
+Polk,5,US House,36,Hal J Ridley Jr,GRN,106,9,65,1,31
+Polk,6,US House,36,Hal J Ridley Jr,GRN,167,10,111,4,42
+Polk,7,US House,36,Hal J Ridley Jr,GRN,31,1,18,2,10
+Polk,8,US House,36,Hal J Ridley Jr,GRN,40,8,12,10,10
+Polk,9,US House,36,Hal J Ridley Jr,GRN,29,2,7,9,11
+Polk,10,US House,36,Hal J Ridley Jr,GRN,69,8,32,5,24
+Polk,11,US House,36,Hal J Ridley Jr,GRN,12,1,6,1,4
+Polk,12,US House,36,Hal J Ridley Jr,GRN,17,0,1,7,9
+Polk,13,US House,36,Hal J Ridley Jr,GRN,9,1,5,0,3
+Polk,14,US House,36,Hal J Ridley Jr,GRN,44,3,12,11,18
+Polk,15,US House,36,Hal J Ridley Jr,GRN,31,3,15,0,13
+Polk,16,US House,36,Hal J Ridley Jr,GRN,157,20,90,12,35
+Polk,17,US House,36,Hal J Ridley Jr,GRN,36,3,22,2,9
+Polk,18,US House,36,Hal J Ridley Jr,GRN,50,6,14,18,12
+Polk,19,US House,36,Hal J Ridley Jr,GRN,291,236,27,15,13
+Polk,20,US House,36,Hal J Ridley Jr,GRN,315,260,33,9,13
+Polk,21,US House,36,Hal J Ridley Jr,GRN,42,2,25,1,14
+Polk,Total,US House,36,Hal J Ridley Jr,GRN,1592,587,570,123,312
+Polk,1,US House,36,Over Votes,,0,0,0,0,0
+Polk,2,US House,36,Over Votes,,0,0,0,0,0
+Polk,3,US House,36,Over Votes,,0,0,0,0,0
+Polk,4,US House,36,Over Votes,,0,0,0,0,0
+Polk,5,US House,36,Over Votes,,0,0,0,0,0
+Polk,6,US House,36,Over Votes,,0,0,0,0,0
+Polk,7,US House,36,Over Votes,,0,0,0,0,0
+Polk,8,US House,36,Over Votes,,0,0,0,0,0
+Polk,9,US House,36,Over Votes,,0,0,0,0,0
+Polk,10,US House,36,Over Votes,,0,0,0,0,0
+Polk,11,US House,36,Over Votes,,0,0,0,0,0
+Polk,12,US House,36,Over Votes,,0,0,0,0,0
+Polk,13,US House,36,Over Votes,,0,0,0,0,0
+Polk,14,US House,36,Over Votes,,0,0,0,0,0
+Polk,15,US House,36,Over Votes,,0,0,0,0,0
+Polk,16,US House,36,Over Votes,,0,0,0,0,0
+Polk,17,US House,36,Over Votes,,0,0,0,0,0
+Polk,18,US House,36,Over Votes,,0,0,0,0,0
+Polk,19,US House,36,Over Votes,,0,0,0,0,0
+Polk,20,US House,36,Over Votes,,0,0,0,0,0
+Polk,21,US House,36,Over Votes,,0,0,0,0,0
+Polk,Total,US House,36,Over Votes,,0,0,0,0,0
+Polk,1,US House,36,Under Votes,,18,3,3,12,0
+Polk,2,US House,36,Under Votes,,30,0,8,8,14
+Polk,3,US House,36,Under Votes,,156,6,75,14,61
+Polk,4,US House,36,Under Votes,,120,10,76,2,32
+Polk,5,US House,36,Under Votes,,192,10,129,0,53
+Polk,6,US House,36,Under Votes,,305,18,229,3,55
+Polk,7,US House,36,Under Votes,,62,3,42,1,16
+Polk,8,US House,36,Under Votes,,131,22,39,33,37
+Polk,9,US House,36,Under Votes,,82,5,26,5,46
+Polk,10,US House,36,Under Votes,,305,43,127,30,105
+Polk,11,US House,36,Under Votes,,35,4,15,11,5
+Polk,12,US House,36,Under Votes,,15,0,0,6,9
+Polk,13,US House,36,Under Votes,,24,0,6,2,16
+Polk,14,US House,36,Under Votes,,51,5,11,14,21
+Polk,15,US House,36,Under Votes,,53,5,32,0,16
+Polk,16,US House,36,Under Votes,,221,32,118,17,54
+Polk,17,US House,36,Under Votes,,86,4,48,6,28
+Polk,18,US House,36,Under Votes,,144,11,66,50,17
+Polk,19,US House,36,Under Votes,,431,349,59,8,15
+Polk,20,US House,36,Under Votes,,431,355,53,0,23
+Polk,21,US House,36,Under Votes,,99,5,48,0,46
+Polk,Total,US House,36,Under Votes,,2991,890,1210,222,669
+Polk,1,Railroad Commissioner,,Wayne Christian,REP,154,70,7,73,4
+Polk,2,Railroad Commissioner,,Wayne Christian,REP,214,14,94,27,79
+Polk,3,Railroad Commissioner,,Wayne Christian,REP,641,41,360,37,203
+Polk,4,Railroad Commissioner,,Wayne Christian,REP,633,44,448,4,137
+Polk,5,Railroad Commissioner,,Wayne Christian,REP,1149,106,775,9,259
+Polk,6,Railroad Commissioner,,Wayne Christian,REP,2005,105,1561,10,329
+Polk,7,Railroad Commissioner,,Wayne Christian,REP,269,30,182,5,52
+Polk,8,Railroad Commissioner,,Wayne Christian,REP,333,30,180,35,88
+Polk,9,Railroad Commissioner,,Wayne Christian,REP,317,26,184,14,93
+Polk,10,Railroad Commissioner,,Wayne Christian,REP,742,111,434,40,157
+Polk,11,Railroad Commissioner,,Wayne Christian,REP,145,9,81,24,31
+Polk,12,Railroad Commissioner,,Wayne Christian,REP,26,0,2,14,10
+Polk,13,Railroad Commissioner,,Wayne Christian,REP,207,14,65,22,106
+Polk,14,Railroad Commissioner,,Wayne Christian,REP,382,42,141,108,91
+Polk,15,Railroad Commissioner,,Wayne Christian,REP,484,27,267,15,175
+Polk,16,Railroad Commissioner,,Wayne Christian,REP,1798,184,1216,86,312
+Polk,17,Railroad Commissioner,,Wayne Christian,REP,512,21,365,16,110
+Polk,18,Railroad Commissioner,,Wayne Christian,REP,99,10,65,14,10
+Polk,19,Railroad Commissioner,,Wayne Christian,REP,1583,1240,211,52,80
+Polk,20,Railroad Commissioner,,Wayne Christian,REP,1650,1205,265,25,155
+Polk,21,Railroad Commissioner,,Wayne Christian,REP,512,42,359,2,109
+Polk,Total,Railroad Commissioner,,Wayne Christian,REP,13855,3371,7262,632,2590
+Polk,1,Railroad Commissioner,,Grady Yarbrough,DEM,34,10,4,20,0
+Polk,2,Railroad Commissioner,,Grady Yarbrough,DEM,39,1,13,8,17
+Polk,3,Railroad Commissioner,,Grady Yarbrough,DEM,208,13,86,26,83
+Polk,4,Railroad Commissioner,,Grady Yarbrough,DEM,149,15,99,5,30
+Polk,5,Railroad Commissioner,,Grady Yarbrough,DEM,257,20,161,2,74
+Polk,6,Railroad Commissioner,,Grady Yarbrough,DEM,382,26,294,2,60
+Polk,7,Railroad Commissioner,,Grady Yarbrough,DEM,78,6,52,0,20
+Polk,8,Railroad Commissioner,,Grady Yarbrough,DEM,169,31,49,41,48
+Polk,9,Railroad Commissioner,,Grady Yarbrough,DEM,100,8,28,11,53
+Polk,10,Railroad Commissioner,,Grady Yarbrough,DEM,372,51,154,34,133
+Polk,11,Railroad Commissioner,,Grady Yarbrough,DEM,51,5,24,11,11
+Polk,12,Railroad Commissioner,,Grady Yarbrough,DEM,61,1,3,33,24
+Polk,13,Railroad Commissioner,,Grady Yarbrough,DEM,26,1,9,2,14
+Polk,14,Railroad Commissioner,,Grady Yarbrough,DEM,99,6,21,30,42
+Polk,15,Railroad Commissioner,,Grady Yarbrough,DEM,61,7,32,1,21
+Polk,16,Railroad Commissioner,,Grady Yarbrough,DEM,322,50,171,27,74
+Polk,17,Railroad Commissioner,,Grady Yarbrough,DEM,106,5,63,7,31
+Polk,18,Railroad Commissioner,,Grady Yarbrough,DEM,185,18,74,67,26
+Polk,19,Railroad Commissioner,,Grady Yarbrough,DEM,545,429,77,19,20
+Polk,20,Railroad Commissioner,,Grady Yarbrough,DEM,529,430,66,5,28
+Polk,21,Railroad Commissioner,,Grady Yarbrough,DEM,114,7,62,0,45
+Polk,Total,Railroad Commissioner,,Grady Yarbrough,DEM,3887,1140,1542,351,854
+Polk,1,Railroad Commissioner,,Mark Miller,LIB,6,3,1,2,0
+Polk,2,Railroad Commissioner,,Mark Miller,LIB,14,1,7,2,4
+Polk,3,Railroad Commissioner,,Mark Miller,LIB,34,3,16,5,10
+Polk,4,Railroad Commissioner,,Mark Miller,LIB,36,3,24,1,8
+Polk,5,Railroad Commissioner,,Mark Miller,LIB,63,3,38,0,22
+Polk,6,Railroad Commissioner,,Mark Miller,LIB,107,4,74,5,24
+Polk,7,Railroad Commissioner,,Mark Miller,LIB,20,1,13,0,6
+Polk,8,Railroad Commissioner,,Mark Miller,LIB,19,1,9,2,7
+Polk,9,Railroad Commissioner,,Mark Miller,LIB,5,0,4,0,1
+Polk,10,Railroad Commissioner,,Mark Miller,LIB,17,1,9,3,4
+Polk,11,Railroad Commissioner,,Mark Miller,LIB,2,0,0,2,0
+Polk,12,Railroad Commissioner,,Mark Miller,LIB,8,0,0,4,4
+Polk,13,Railroad Commissioner,,Mark Miller,LIB,13,2,2,1,8
+Polk,14,Railroad Commissioner,,Mark Miller,LIB,33,1,9,9,14
+Polk,15,Railroad Commissioner,,Mark Miller,LIB,24,0,11,0,13
+Polk,16,Railroad Commissioner,,Mark Miller,LIB,96,10,55,10,21
+Polk,17,Railroad Commissioner,,Mark Miller,LIB,22,3,13,1,5
+Polk,18,Railroad Commissioner,,Mark Miller,LIB,16,6,2,2,6
+Polk,19,Railroad Commissioner,,Mark Miller,LIB,118,80,21,8,9
+Polk,20,Railroad Commissioner,,Mark Miller,LIB,95,61,16,6,12
+Polk,21,Railroad Commissioner,,Mark Miller,LIB,23,0,14,0,9
+Polk,Total,Railroad Commissioner,,Mark Miller,LIB,771,183,338,63,187
+Polk,1,Railroad Commissioner,,Martina Salinas,GRN,3,2,0,1,0
+Polk,2,Railroad Commissioner,,Martina Salinas,GRN,2,0,0,0,2
+Polk,3,Railroad Commissioner,,Martina Salinas,GRN,15,1,6,3,5
+Polk,4,Railroad Commissioner,,Martina Salinas,GRN,6,0,5,0,1
+Polk,5,Railroad Commissioner,,Martina Salinas,GRN,17,4,8,0,5
+Polk,6,Railroad Commissioner,,Martina Salinas,GRN,41,3,23,1,14
+Polk,7,Railroad Commissioner,,Martina Salinas,GRN,5,0,3,0,2
+Polk,8,Railroad Commissioner,,Martina Salinas,GRN,4,0,0,2,2
+Polk,9,Railroad Commissioner,,Martina Salinas,GRN,5,0,2,0,3
+Polk,10,Railroad Commissioner,,Martina Salinas,GRN,15,1,6,1,7
+Polk,11,Railroad Commissioner,,Martina Salinas,GRN,2,0,2,0,0
+Polk,12,Railroad Commissioner,,Martina Salinas,GRN,7,0,1,0,6
+Polk,13,Railroad Commissioner,,Martina Salinas,GRN,1,0,1,0,0
+Polk,14,Railroad Commissioner,,Martina Salinas,GRN,7,0,0,3,4
+Polk,15,Railroad Commissioner,,Martina Salinas,GRN,9,2,3,0,4
+Polk,16,Railroad Commissioner,,Martina Salinas,GRN,28,2,15,1,10
+Polk,17,Railroad Commissioner,,Martina Salinas,GRN,3,0,2,0,1
+Polk,18,Railroad Commissioner,,Martina Salinas,GRN,7,0,6,1,0
+Polk,19,Railroad Commissioner,,Martina Salinas,GRN,33,27,3,1,2
+Polk,20,Railroad Commissioner,,Martina Salinas,GRN,58,43,6,5,4
+Polk,21,Railroad Commissioner,,Martina Salinas,GRN,16,0,7,1,8
+Polk,Total,Railroad Commissioner,,Martina Salinas,GRN,284,85,99,20,80
+Polk,1,Railroad Commissioner,,Over Votes,,0,0,0,0,0
+Polk,2,Railroad Commissioner,,Over Votes,,0,0,0,0,0
+Polk,3,Railroad Commissioner,,Over Votes,,0,0,0,0,0
+Polk,4,Railroad Commissioner,,Over Votes,,0,0,0,0,0
+Polk,5,Railroad Commissioner,,Over Votes,,0,0,0,0,0
+Polk,6,Railroad Commissioner,,Over Votes,,0,0,0,0,0
+Polk,7,Railroad Commissioner,,Over Votes,,0,0,0,0,0
+Polk,8,Railroad Commissioner,,Over Votes,,0,0,0,0,0
+Polk,9,Railroad Commissioner,,Over Votes,,0,0,0,0,0
+Polk,10,Railroad Commissioner,,Over Votes,,0,0,0,0,0
+Polk,11,Railroad Commissioner,,Over Votes,,0,0,0,0,0
+Polk,12,Railroad Commissioner,,Over Votes,,0,0,0,0,0
+Polk,13,Railroad Commissioner,,Over Votes,,0,0,0,0,0
+Polk,14,Railroad Commissioner,,Over Votes,,0,0,0,0,0
+Polk,15,Railroad Commissioner,,Over Votes,,0,0,0,0,0
+Polk,16,Railroad Commissioner,,Over Votes,,0,0,0,0,0
+Polk,17,Railroad Commissioner,,Over Votes,,0,0,0,0,0
+Polk,18,Railroad Commissioner,,Over Votes,,0,0,0,0,0
+Polk,19,Railroad Commissioner,,Over Votes,,0,0,0,0,0
+Polk,20,Railroad Commissioner,,Over Votes,,0,0,0,0,0
+Polk,21,Railroad Commissioner,,Over Votes,,0,0,0,0,0
+Polk,Total,Railroad Commissioner,,Over Votes,,0,0,0,0,0
+Polk,1,Railroad Commissioner,,Under Votes,,12,3,0,7,2
+Polk,2,Railroad Commissioner,,Under Votes,,14,0,5,0,9
+Polk,3,Railroad Commissioner,,Under Votes,,45,2,24,4,15
+Polk,4,Railroad Commissioner,,Under Votes,,50,0,33,0,17
+Polk,5,Railroad Commissioner,,Under Votes,,68,2,45,0,21
+Polk,6,Railroad Commissioner,,Under Votes,,105,6,68,3,28
+Polk,7,Railroad Commissioner,,Under Votes,,31,0,24,1,6
+Polk,8,Railroad Commissioner,,Under Votes,,32,4,15,6,7
+Polk,9,Railroad Commissioner,,Under Votes,,21,2,9,3,7
+Polk,10,Railroad Commissioner,,Under Votes,,46,12,21,4,9
+Polk,11,Railroad Commissioner,,Under Votes,,7,0,3,3,1
+Polk,12,Railroad Commissioner,,Under Votes,,7,0,1,1,5
+Polk,13,Railroad Commissioner,,Under Votes,,21,3,3,2,13
+Polk,14,Railroad Commissioner,,Under Votes,,18,2,4,5,7
+Polk,15,Railroad Commissioner,,Under Votes,,30,1,17,0,12
+Polk,16,Railroad Commissioner,,Under Votes,,163,11,98,11,43
+Polk,17,Railroad Commissioner,,Under Votes,,34,2,23,1,8
+Polk,18,Railroad Commissioner,,Under Votes,,18,0,9,7,2
+Polk,19,Railroad Commissioner,,Under Votes,,204,174,15,3,12
+Polk,20,Railroad Commissioner,,Under Votes,,228,193,22,0,13
+Polk,21,Railroad Commissioner,,Under Votes,,34,0,22,0,12
+Polk,Total,Railroad Commissioner,,Under Votes,,1188,417,461,61,249
+Polk,1,State Representative,19,James White,REP,175,78,7,85,5
+Polk,2,State Representative,19,James White,REP,231,13,100,28,90
+Polk,3,State Representative,19,James White,REP,735,50,395,53,237
+Polk,4,State Representative,19,James White,REP,694,46,497,6,145
+Polk,5,State Representative,19,James White,REP,1263,116,843,8,296
+Polk,6,State Representative,19,James White,REP,2191,112,1689,16,374
+Polk,7,State Representative,19,James White,REP,315,31,216,5,63
+Polk,8,State Representative,19,James White,REP,402,38,203,44,117
+Polk,9,State Representative,19,James White,REP,344,27,191,20,106
+Polk,10,State Representative,19,James White,REP,839,123,477,49,190
+Polk,11,State Representative,19,James White,REP,157,8,90,28,31
+Polk,12,State Representative,19,James White,REP,91,1,6,46,38
+Polk,13,State Representative,19,James White,REP,236,18,74,24,120
+Polk,14,State Representative,19,James White,REP,455,44,156,132,123
+Polk,15,State Representative,19,James White,REP,523,31,283,15,194
+Polk,16,State Representative,19,James White,REP,2015,203,1327,110,375
+Polk,17,State Representative,19,James White,REP,560,26,389,19,126
+Polk,18,State Representative,19,James White,REP,159,18,83,35,23
+Polk,19,State Representative,19,James White,REP,1753,1352,248,63,90
+Polk,20,State Representative,19,James White,REP,1779,1295,290,30,0
+Polk,21,State Representative,19,James White,REP,561,42,389,3,127
+Polk,Total,State Representative,19,James White,REP,15478,3672,7953,819,2870
+Polk,1,State Representative,19,Over Votes,,0,0,0,0,0
+Polk,2,State Representative,19,Over Votes,,0,0,0,0,0
+Polk,3,State Representative,19,Over Votes,,0,0,0,0,0
+Polk,4,State Representative,19,Over Votes,,0,0,0,0,0
+Polk,5,State Representative,19,Over Votes,,0,0,0,0,0
+Polk,6,State Representative,19,Over Votes,,0,0,0,0,0
+Polk,7,State Representative,19,Over Votes,,0,0,0,0,0
+Polk,8,State Representative,19,Over Votes,,0,0,0,0,0
+Polk,9,State Representative,19,Over Votes,,0,0,0,0,0
+Polk,10,State Representative,19,Over Votes,,0,0,0,0,0
+Polk,11,State Representative,19,Over Votes,,0,0,0,0,0
+Polk,12,State Representative,19,Over Votes,,0,0,0,0,0
+Polk,13,State Representative,19,Over Votes,,0,0,0,0,0
+Polk,14,State Representative,19,Over Votes,,0,0,0,0,0
+Polk,15,State Representative,19,Over Votes,,0,0,0,0,0
+Polk,16,State Representative,19,Over Votes,,0,0,0,0,0
+Polk,17,State Representative,19,Over Votes,,0,0,0,0,0
+Polk,18,State Representative,19,Over Votes,,0,0,0,0,0
+Polk,19,State Representative,19,Over Votes,,0,0,0,0,0
+Polk,20,State Representative,19,Over Votes,,0,0,0,0,0
+Polk,21,State Representative,19,Over Votes,,0,0,0,0,0
+Polk,Total,State Representative,19,Over Votes,,0,0,0,0,0
+Polk,1,State Representative,19,Under Votes,,34,10,5,18,1
+Polk,2,State Representative,19,Under Votes,,51,3,19,8,21
+Polk,3,State Representative,19,Under Votes,,208,10,97,22,79
+Polk,4,State Representative,19,Under Votes,,179,16,112,3,48
+Polk,5,State Representative,19,Under Votes,,78,2,45,0,31
+Polk,6,State Representative,19,Under Votes,,450,32,331,6,81
+Polk,7,State Representative,19,Under Votes,,88,6,58,1,23
+Polk,8,State Representative,19,Under Votes,,155,28,50,42,35
+Polk,9,State Representative,19,Under Votes,,104,9,36,8,51
+Polk,10,State Representative,19,Under Votes,,353,53,147,33,120
+Polk,11,State Representative,19,Under Votes,,50,6,20,12,12
+Polk,12,State Representative,19,Under Votes,,18,0,1,6,11
+Polk,13,State Representative,19,Under Votes,,32,2,6,3,21
+Polk,14,State Representative,19,Under Votes,,81,7,19,20,35
+Polk,15,State Representative,19,Under Votes,,85,6,47,1,31
+Polk,16,State Representative,19,Under Votes,,391,54,228,24,85
+Polk,17,State Representative,19,Under Votes,,33,2,21,1,9
+Polk,18,State Representative,19,Under Votes,,165,16,73,55,21
+Polk,19,State Representative,19,Under Votes,,727,598,79,17,33
+Polk,20,State Representative,19,Under Votes,,773,637,85,3,48
+Polk,21,State Representative,19,Under Votes,,138,7,75,0,56
+Polk,Total,State Representative,19,Under Votes,,4193,1504,1554,283,852
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
