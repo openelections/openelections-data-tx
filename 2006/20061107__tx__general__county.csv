@@ -67,8 +67,8 @@ ANDERSON,Judge Court of Criminal Appeals,8,Total,,,8596,
 ANDERSON,Member State Board of Education,9,Don McLeroy,True,REP,5477,54.96
 ANDERSON,Member State Board of Education,9,Maggie Charleton,False,DEM,4489,45.04
 ANDERSON,Member State Board of Education,9,Total,,,9966,
-ANDERSON,State Senator,3,Robert Nichols,False,REP,7235,100.00
-ANDERSON,State Senator,3,Total,,,7235,
+ANDERSON,State Senate,3,Robert Nichols,False,REP,7235,100.00
+ANDERSON,State Senate,3,Total,,,7235,
 ANDERSON,State Representative,8,Byron Cook,True,REP,5511,52.91
 ANDERSON,State Representative,8,Sharon Cade Davis,False,DEM,4905,47.09
 ANDERSON,State Representative,8,Total,,,10416,
@@ -222,8 +222,8 @@ ANGELINA,Judge Court of Criminal Appeals,7,Total,,,16413,
 ANGELINA,Judge Court of Criminal Appeals,8,Charles Holcomb,True,REP,13343,81.44
 ANGELINA,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,3041,18.56
 ANGELINA,Judge Court of Criminal Appeals,8,Total,,,16384,
-ANGELINA,State Senator,3,Robert Nichols,False,REP,14031,100.00
-ANGELINA,State Senator,3,Total,,,14031,
+ANGELINA,State Senate,3,Robert Nichols,False,REP,14031,100.00
+ANGELINA,State Senate,3,Total,,,14031,
 ANGELINA,State Representative,12,Jody Anderson,False,REP,9395,43.19
 ANGELINA,State Representative,12,Jim McReynolds,True,DEM,11964,55.00
 ANGELINA,State Representative,12,Donald B. Keith,False,LIB,395,1.82
@@ -300,9 +300,9 @@ ARANSAS,Judge Court of Criminal Appeals,7,Total,,,5715,
 ARANSAS,Judge Court of Criminal Appeals,8,Charles Holcomb,True,REP,4418,77.62
 ARANSAS,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,1274,22.38
 ARANSAS,Judge Court of Criminal Appeals,8,Total,,,5692,
-ARANSAS,State Senator,18,Glenn Hegar,False,REP,4415,77.43
-ARANSAS,State Senator,18,"Roy O. Wright, II",False,LIB,1287,22.57
-ARANSAS,State Senator,18,Total,,,5702,
+ARANSAS,State Senate,18,Glenn Hegar,False,REP,4415,77.43
+ARANSAS,State Senate,18,"Roy O. Wright, II",False,LIB,1287,22.57
+ARANSAS,State Senate,18,Total,,,5702,
 ARANSAS,State Representative,32,Gene Seaman,True,REP,3204,47.56
 ARANSAS,State Representative,32,Juan M. Garcia,False,DEM,3028,44.95
 ARANSAS,State Representative,32,Lenard L. Nelson,False,LIB,505,7.50
@@ -635,9 +635,9 @@ AUSTIN,Judge Court of Criminal Appeals,8,Total,,,6557,
 AUSTIN,Member State Board of Education,10,Cynthia Dunbar,False,REP,5469,83.20
 AUSTIN,Member State Board of Education,10,Martin Thomen,False,LIB,1104,16.80
 AUSTIN,Member State Board of Education,10,Total,,,6573,
-AUSTIN,State Senator,18,Glenn Hegar,False,REP,5650,83.53
-AUSTIN,State Senator,18,"Roy O. Wright, II",False,LIB,1114,16.47
-AUSTIN,State Senator,18,Total,,,6764,
+AUSTIN,State Senate,18,Glenn Hegar,False,REP,5650,83.53
+AUSTIN,State Senate,18,"Roy O. Wright, II",False,LIB,1114,16.47
+AUSTIN,State Senate,18,Total,,,6764,
 AUSTIN,State Representative,13,Lois W. Kolkhorst,True,REP,5899,83.77
 AUSTIN,State Representative,13,Charles Stigall,False,LIB,1143,16.23
 AUSTIN,State Representative,13,Total,,,7042,
@@ -810,9 +810,9 @@ BANDERA,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,1085,19.11
 BANDERA,Judge Court of Criminal Appeals,8,Total,,,5679,
 BANDERA,Member State Board of Education,1,René  Nuñez,True,DEM,2838,100.00
 BANDERA,Member State Board of Education,1,Total,,,2838,
-BANDERA,State Senator,19,Dick Bowen,False,REP,4322,70.16
-BANDERA,State Senator,19,Carlos I. Uresti,False,DEM,1838,29.84
-BANDERA,State Senator,19,Total,,,6160,
+BANDERA,State Senate,19,Dick Bowen,False,REP,4322,70.16
+BANDERA,State Senate,19,Carlos I. Uresti,False,DEM,1838,29.84
+BANDERA,State Senate,19,Total,,,6160,
 BANDERA,State Representative,73,Nathan Macias,False,REP,4487,78.14
 BANDERA,State Representative,73,Charles B. Ellis,False,LIB,1185,20.64
 BANDERA,State Representative,73,Daniel C. Boone,False,WI,70,1.22
@@ -899,9 +899,9 @@ BASTROP,Judge Court of Criminal Appeals,8,Total,,,13786,
 BASTROP,Member State Board of Education,10,Cynthia Dunbar,False,REP,9032,65.36
 BASTROP,Member State Board of Education,10,Martin Thomen,False,LIB,4786,34.64
 BASTROP,Member State Board of Education,10,Total,,,13818,
-BASTROP,State Senator,18,Glenn Hegar,False,REP,8711,63.06
-BASTROP,State Senator,18,"Roy O. Wright, II",False,LIB,5102,36.94
-BASTROP,State Senator,18,Total,,,13813,
+BASTROP,State Senate,18,Glenn Hegar,False,REP,8711,63.06
+BASTROP,State Senate,18,"Roy O. Wright, II",False,LIB,5102,36.94
+BASTROP,State Senate,18,Total,,,13813,
 BASTROP,State Representative,17,Tim Kleinschmidt,False,REP,6986,41.74
 BASTROP,State Representative,17,Robby Cook,True,DEM,8939,53.41
 BASTROP,State Representative,17,Roderick (Rod) Gibbs,False,LIB,811,4.85
@@ -1236,13 +1236,13 @@ BEXAR,Member State Board of Education,3,Total,,,137160,
 BEXAR,Member State Board of Education,5,Ken Mercer,False,REP,83019,76.07
 BEXAR,Member State Board of Education,5,Bill Oliver,False,LIB,26123,23.93
 BEXAR,Member State Board of Education,5,Total,,,109142,
-BEXAR,State Senator,19,Dick Bowen,False,REP,15492,31.61
-BEXAR,State Senator,19,Carlos I. Uresti,False,DEM,33517,68.39
-BEXAR,State Senator,19,Total,,,49009,
-BEXAR,State Senator,25,Jeff Wentworth,True,REP,60621,64.93
-BEXAR,State Senator,25,"Kathleen ""Kathi""  Thomas",False,DEM,29463,31.56
-BEXAR,State Senator,25,James R. (Bob) Thompson,False,LIB,3284,3.52
-BEXAR,State Senator,25,Total,,,93368,
+BEXAR,State Senate,19,Dick Bowen,False,REP,15492,31.61
+BEXAR,State Senate,19,Carlos I. Uresti,False,DEM,33517,68.39
+BEXAR,State Senate,19,Total,,,49009,
+BEXAR,State Senate,25,Jeff Wentworth,True,REP,60621,64.93
+BEXAR,State Senate,25,"Kathleen ""Kathi""  Thomas",False,DEM,29463,31.56
+BEXAR,State Senate,25,James R. (Bob) Thompson,False,LIB,3284,3.52
+BEXAR,State Senate,25,Total,,,93368,
 BEXAR,State Representative,116,Trey  Martinez Fischer,True,DEM,14276,85.30
 BEXAR,State Representative,116,John T. Tennison,False,LIB,2461,14.70
 BEXAR,State Representative,116,Total,,,16737,
@@ -1553,9 +1553,9 @@ BOSQUE,Judge Court of Criminal Appeals,7,Total,,,4674,
 BOSQUE,Judge Court of Criminal Appeals,8,Charles Holcomb,True,REP,3629,78.19
 BOSQUE,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,1012,21.81
 BOSQUE,Judge Court of Criminal Appeals,8,Total,,,4641,
-BOSQUE,State Senator,22,Kip Averitt,True,REP,3857,78.62
-BOSQUE,State Senator,22,Phil Smart,False,LIB,1049,21.38
-BOSQUE,State Senator,22,Total,,,4906,
+BOSQUE,State Senate,22,Kip Averitt,True,REP,3857,78.62
+BOSQUE,State Senate,22,Phil Smart,False,LIB,1049,21.38
+BOSQUE,State Senate,22,Total,,,4906,
 BOSQUE,State Representative,58,Rob Orr,True,REP,3295,61.19
 BOSQUE,State Representative,58,Greg A. Kauffman,False,DEM,1874,34.80
 BOSQUE,State Representative,58,Tom Stewart,False,LIB,216,4.01
@@ -1629,9 +1629,9 @@ BOWIE,Judge Court of Criminal Appeals,7,Total,,,13889,
 BOWIE,Judge Court of Criminal Appeals,8,Charles Holcomb,True,REP,10490,75.84
 BOWIE,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,3341,24.16
 BOWIE,Judge Court of Criminal Appeals,8,Total,,,13831,
-BOWIE,State Senator,1,Kevin P. Eltife,True,REP,11009,76.96
-BOWIE,State Senator,1,Jason Albers,False,LIB,3295,23.04
-BOWIE,State Senator,1,Total,,,14304,
+BOWIE,State Senate,1,Kevin P. Eltife,True,REP,11009,76.96
+BOWIE,State Senate,1,Jason Albers,False,LIB,3295,23.04
+BOWIE,State Senate,1,Total,,,14304,
 BOWIE,State Representative,1,Stephen J. Frost,True,DEM,12484,84.74
 BOWIE,State Representative,1,Tim Eason,False,LIB,2248,15.26
 BOWIE,State Representative,1,Total,,,14732,
@@ -1715,9 +1715,9 @@ BRAZORIA,Judge Court of Criminal Appeals,8,Total,,,46267,
 BRAZORIA,Member State Board of Education,10,Cynthia Dunbar,False,REP,6677,80.17
 BRAZORIA,Member State Board of Education,10,Martin Thomen,False,LIB,1652,19.83
 BRAZORIA,Member State Board of Education,10,Total,,,8329,
-BRAZORIA,State Senator,17,Kyle  Janek,True,REP,11852,79.99
-BRAZORIA,State Senator,17,Phil Kurtz,False,LIB,2964,20.01
-BRAZORIA,State Senator,17,Total,,,14816,
+BRAZORIA,State Senate,17,Kyle  Janek,True,REP,11852,79.99
+BRAZORIA,State Senate,17,Phil Kurtz,False,LIB,2964,20.01
+BRAZORIA,State Senate,17,Total,,,14816,
 BRAZORIA,State Representative,25,Dennis Bonnen,True,REP,21867,100.00
 BRAZORIA,State Representative,25,Total,,,21867,
 BRAZORIA,State Representative,29,Glenda Dawson,True,REP,17094,61.67
@@ -1823,10 +1823,10 @@ BRAZOS,Judge Court of Criminal Appeals,8,Total,,,24386,
 BRAZOS,Member State Board of Education,9,Don McLeroy,True,REP,17292,59.90
 BRAZOS,Member State Board of Education,9,Maggie Charleton,False,DEM,11574,40.10
 BRAZOS,Member State Board of Education,9,Total,,,28866,
-BRAZOS,State Senator,5,Steve  Ogden,True,REP,21377,71.66
-BRAZOS,State Senator,5,Stephen Wyman,False,DEM,7564,25.36
-BRAZOS,State Senator,5,Darrell R. Grear,False,LIB,889,2.98
-BRAZOS,State Senator,5,Total,,,29830,
+BRAZOS,State Senate,5,Steve  Ogden,True,REP,21377,71.66
+BRAZOS,State Senate,5,Stephen Wyman,False,DEM,7564,25.36
+BRAZOS,State Senate,5,Darrell R. Grear,False,LIB,889,2.98
+BRAZOS,State Senate,5,Total,,,29830,
 BRAZOS,State Representative,14,Fred Brown,True,REP,22056,100.00
 BRAZOS,State Representative,14,Total,,,22056,
 BRAZOS,State Representative,17,Tim Kleinschmidt,False,REP,526,34.79
@@ -1902,9 +1902,9 @@ BREWSTER,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,814,41.11
 BREWSTER,Judge Court of Criminal Appeals,8,Total,,,1980,
 BREWSTER,Member State Board of Education,1,René  Nuñez,True,DEM,1539,100.00
 BREWSTER,Member State Board of Education,1,Total,,,1539,
-BREWSTER,State Senator,19,Dick Bowen,False,REP,1046,45.52
-BREWSTER,State Senator,19,Carlos I. Uresti,False,DEM,1252,54.48
-BREWSTER,State Senator,19,Total,,,2298,
+BREWSTER,State Senate,19,Dick Bowen,False,REP,1046,45.52
+BREWSTER,State Senate,19,Carlos I. Uresti,False,DEM,1252,54.48
+BREWSTER,State Senate,19,Total,,,2298,
 BREWSTER,State Representative,74,Pete P. Gallego,True,DEM,1884,100.00
 BREWSTER,State Representative,74,Total,,,1884,
 BREWSTER,Justice 8th Court of Appeals District,2,Ann Crawford McClure,True,DEM,1561,100.00
@@ -2213,10 +2213,10 @@ BURLESON,Judge Court of Criminal Appeals,8,Total,,,3227,
 BURLESON,Member State Board of Education,10,Cynthia Dunbar,False,REP,2687,82.68
 BURLESON,Member State Board of Education,10,Martin Thomen,False,LIB,563,17.32
 BURLESON,Member State Board of Education,10,Total,,,3250,
-BURLESON,State Senator,5,Steve  Ogden,True,REP,2890,65.22
-BURLESON,State Senator,5,Stephen Wyman,False,DEM,1433,32.34
-BURLESON,State Senator,5,Darrell R. Grear,False,LIB,108,2.44
-BURLESON,State Senator,5,Total,,,4431,
+BURLESON,State Senate,5,Steve  Ogden,True,REP,2890,65.22
+BURLESON,State Senate,5,Stephen Wyman,False,DEM,1433,32.34
+BURLESON,State Senate,5,Darrell R. Grear,False,LIB,108,2.44
+BURLESON,State Senate,5,Total,,,4431,
 BURLESON,State Representative,17,Tim Kleinschmidt,False,REP,2087,47.14
 BURLESON,State Representative,17,Robby Cook,True,DEM,2244,50.69
 BURLESON,State Representative,17,Roderick (Rod) Gibbs,False,LIB,96,2.17
@@ -2371,9 +2371,9 @@ CALDWELL,Judge Court of Criminal Appeals,8,Total,,,6051,
 CALDWELL,Member State Board of Education,5,Ken Mercer,False,REP,4019,66.64
 CALDWELL,Member State Board of Education,5,Bill Oliver,False,LIB,2012,33.36
 CALDWELL,Member State Board of Education,5,Total,,,6031,
-CALDWELL,State Senator,18,Glenn Hegar,False,REP,3975,65.69
-CALDWELL,State Senator,18,"Roy O. Wright, II",False,LIB,2076,34.31
-CALDWELL,State Senator,18,Total,,,6051,
+CALDWELL,State Senate,18,Glenn Hegar,False,REP,3975,65.69
+CALDWELL,State Senate,18,"Roy O. Wright, II",False,LIB,2076,34.31
+CALDWELL,State Senate,18,Total,,,6051,
 CALDWELL,State Representative,45,Jim Neuhaus,False,REP,2342,30.76
 CALDWELL,State Representative,45,Patrick M. Rose,True,DEM,4988,65.50
 CALDWELL,State Representative,45,Tom Gleinser,False,LIB,285,3.74
@@ -2459,9 +2459,9 @@ CALHOUN,Judge Court of Criminal Appeals,7,Total,,,3093,
 CALHOUN,Judge Court of Criminal Appeals,8,Charles Holcomb,True,REP,2271,73.31
 CALHOUN,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,827,26.69
 CALHOUN,Judge Court of Criminal Appeals,8,Total,,,3098,
-CALHOUN,State Senator,18,Glenn Hegar,False,REP,2291,73.88
-CALHOUN,State Senator,18,"Roy O. Wright, II",False,LIB,810,26.12
-CALHOUN,State Senator,18,Total,,,3101,
+CALHOUN,State Senate,18,Glenn Hegar,False,REP,2291,73.88
+CALHOUN,State Senate,18,"Roy O. Wright, II",False,LIB,810,26.12
+CALHOUN,State Senate,18,Total,,,3101,
 CALHOUN,State Representative,32,Gene Seaman,True,REP,2013,46.14
 CALHOUN,State Representative,32,Juan M. Garcia,False,DEM,2164,49.60
 CALHOUN,State Representative,32,Lenard L. Nelson,False,LIB,186,4.26
@@ -2716,9 +2716,9 @@ CAMP,Judge Court of Criminal Appeals,8,Total,,,2262,
 CAMP,Member State Board of Education,9,Don McLeroy,True,REP,1400,49.21
 CAMP,Member State Board of Education,9,Maggie Charleton,False,DEM,1445,50.79
 CAMP,Member State Board of Education,9,Total,,,2845,
-CAMP,State Senator,1,Kevin P. Eltife,True,REP,1850,77.93
-CAMP,State Senator,1,Jason Albers,False,LIB,524,22.07
-CAMP,State Senator,1,Total,,,2374,
+CAMP,State Senate,1,Kevin P. Eltife,True,REP,1850,77.93
+CAMP,State Senate,1,Jason Albers,False,LIB,524,22.07
+CAMP,State Senate,1,Total,,,2374,
 CAMP,State Representative,5,Bryan Hughes,True,REP,1842,78.25
 CAMP,State Representative,5,Tim Carmichael,False,LIB,512,21.75
 CAMP,State Representative,5,Total,,,2354,
@@ -2872,9 +2872,9 @@ CASS,Judge Court of Criminal Appeals,7,Total,,,4933,
 CASS,Judge Court of Criminal Appeals,8,Charles Holcomb,True,REP,3945,80.02
 CASS,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,985,19.98
 CASS,Judge Court of Criminal Appeals,8,Total,,,4930,
-CASS,State Senator,1,Kevin P. Eltife,True,REP,4118,80.56
-CASS,State Senator,1,Jason Albers,False,LIB,994,19.44
-CASS,State Senator,1,Total,,,5112,
+CASS,State Senate,1,Kevin P. Eltife,True,REP,4118,80.56
+CASS,State Senate,1,Jason Albers,False,LIB,994,19.44
+CASS,State Senate,1,Total,,,5112,
 CASS,State Representative,1,Stephen J. Frost,True,DEM,5748,91.18
 CASS,State Representative,1,Tim Eason,False,LIB,556,8.82
 CASS,State Representative,1,Total,,,6304,
@@ -3124,8 +3124,8 @@ CHEROKEE,Judge Court of Criminal Appeals,8,Total,,,9122,
 CHEROKEE,Member State Board of Education,9,Don McLeroy,True,REP,6173,59.83
 CHEROKEE,Member State Board of Education,9,Maggie Charleton,False,DEM,4145,40.17
 CHEROKEE,Member State Board of Education,9,Total,,,10318,
-CHEROKEE,State Senator,3,Robert Nichols,False,REP,7821,100.00
-CHEROKEE,State Senator,3,Total,,,7821,
+CHEROKEE,State Senate,3,Robert Nichols,False,REP,7821,100.00
+CHEROKEE,State Senate,3,Total,,,7821,
 CHEROKEE,State Representative,11,Larry K. Durrett,False,REP,4630,41.61
 CHEROKEE,State Representative,11,Chuck Hopson,True,DEM,6130,55.09
 CHEROKEE,State Representative,11,Paul (Blue) Story,False,LIB,368,3.31
@@ -3597,8 +3597,8 @@ COLLIN,Member State Board of Education,9,Total,,,93228,
 COLLIN,Member State Board of Education,12,Geraldine 'Tincy'  Miller,True,REP,25000,76.09
 COLLIN,Member State Board of Education,12,Matthew Havener,False,LIB,7854,23.91
 COLLIN,Member State Board of Education,12,Total,,,32854,
-COLLIN,State Senator,8,Florence Shapiro,True,REP,89985,100.00
-COLLIN,State Senator,8,Total,,,89985,
+COLLIN,State Senate,8,Florence Shapiro,True,REP,89985,100.00
+COLLIN,State Senate,8,Total,,,89985,
 COLLIN,State Representative,66,Brian McCall,True,REP,24399,80.34
 COLLIN,State Representative,66,Benjamin Westfried,False,LIB,5972,19.66
 COLLIN,State Representative,66,Total,,,30371,
@@ -3779,9 +3779,9 @@ COLORADO,Judge Court of Criminal Appeals,8,Total,,,4243,
 COLORADO,Member State Board of Education,10,Cynthia Dunbar,False,REP,3519,82.28
 COLORADO,Member State Board of Education,10,Martin Thomen,False,LIB,758,17.72
 COLORADO,Member State Board of Education,10,Total,,,4277,
-COLORADO,State Senator,18,Glenn Hegar,False,REP,3593,82.35
-COLORADO,State Senator,18,"Roy O. Wright, II",False,LIB,770,17.65
-COLORADO,State Senator,18,Total,,,4363,
+COLORADO,State Senate,18,Glenn Hegar,False,REP,3593,82.35
+COLORADO,State Senate,18,"Roy O. Wright, II",False,LIB,770,17.65
+COLORADO,State Senate,18,Total,,,4363,
 COLORADO,State Representative,17,Tim Kleinschmidt,False,REP,2902,52.34
 COLORADO,State Representative,17,Robby Cook,True,DEM,2517,45.40
 COLORADO,State Representative,17,Roderick (Rod) Gibbs,False,LIB,125,2.25
@@ -3872,10 +3872,10 @@ COMAL,Judge Court of Criminal Appeals,8,Total,,,24849,
 COMAL,Member State Board of Education,5,Ken Mercer,False,REP,20025,80.51
 COMAL,Member State Board of Education,5,Bill Oliver,False,LIB,4848,19.49
 COMAL,Member State Board of Education,5,Total,,,24873,
-COMAL,State Senator,25,Jeff Wentworth,True,REP,19224,69.21
-COMAL,State Senator,25,"Kathleen ""Kathi""  Thomas",False,DEM,7240,26.07
-COMAL,State Senator,25,James R. (Bob) Thompson,False,LIB,1312,4.72
-COMAL,State Senator,25,Total,,,27776,
+COMAL,State Senate,25,Jeff Wentworth,True,REP,19224,69.21
+COMAL,State Senate,25,"Kathleen ""Kathi""  Thomas",False,DEM,7240,26.07
+COMAL,State Senate,25,James R. (Bob) Thompson,False,LIB,1312,4.72
+COMAL,State Senate,25,Total,,,27776,
 COMAL,State Representative,73,Nathan Macias,False,REP,18528,73.30
 COMAL,State Representative,73,Charles B. Ellis,False,LIB,5194,20.55
 COMAL,State Representative,73,Daniel C. Boone,False,WI,1555,6.15
@@ -4195,9 +4195,9 @@ CORYELL,Judge Court of Criminal Appeals,7,Total,,,8188,
 CORYELL,Judge Court of Criminal Appeals,8,Charles Holcomb,True,REP,6433,79.19
 CORYELL,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,1690,20.81
 CORYELL,Judge Court of Criminal Appeals,8,Total,,,8123,
-CORYELL,State Senator,22,Kip Averitt,True,REP,6615,78.99
-CORYELL,State Senator,22,Phil Smart,False,LIB,1760,21.01
-CORYELL,State Senator,22,Total,,,8375,
+CORYELL,State Senate,22,Kip Averitt,True,REP,6615,78.99
+CORYELL,State Senate,22,Phil Smart,False,LIB,1760,21.01
+CORYELL,State Senate,22,Total,,,8375,
 CORYELL,State Representative,59,Sid Miller,True,REP,5300,55.29
 CORYELL,State Representative,59,Ernie Casbeer,False,DEM,4285,44.71
 CORYELL,State Representative,59,Total,,,9585,
@@ -4415,9 +4415,9 @@ CROCKETT,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,151,20.38
 CROCKETT,Judge Court of Criminal Appeals,8,Total,,,741,
 CROCKETT,Member State Board of Education,1,René  Nuñez,True,DEM,533,100.00
 CROCKETT,Member State Board of Education,1,Total,,,533,
-CROCKETT,State Senator,19,Dick Bowen,False,REP,526,58.31
-CROCKETT,State Senator,19,Carlos I. Uresti,False,DEM,376,41.69
-CROCKETT,State Senator,19,Total,,,902,
+CROCKETT,State Senate,19,Dick Bowen,False,REP,526,58.31
+CROCKETT,State Senate,19,Carlos I. Uresti,False,DEM,376,41.69
+CROCKETT,State Senate,19,Total,,,902,
 CROCKETT,State Representative,53,Harvey Hilderbran,True,REP,677,83.58
 CROCKETT,State Representative,53,B.W. Holk,False,LIB,133,16.42
 CROCKETT,State Representative,53,Total,,,810,
@@ -4570,9 +4570,9 @@ CULBERSON,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,63,28.00
 CULBERSON,Judge Court of Criminal Appeals,8,Total,,,225,
 CULBERSON,Member State Board of Education,1,René  Nuñez,True,DEM,247,100.00
 CULBERSON,Member State Board of Education,1,Total,,,247,
-CULBERSON,State Senator,19,Dick Bowen,False,REP,160,37.30
-CULBERSON,State Senator,19,Carlos I. Uresti,False,DEM,269,62.70
-CULBERSON,State Senator,19,Total,,,429,
+CULBERSON,State Senate,19,Dick Bowen,False,REP,160,37.30
+CULBERSON,State Senate,19,Carlos I. Uresti,False,DEM,269,62.70
+CULBERSON,State Senate,19,Total,,,429,
 CULBERSON,State Representative,74,Pete P. Gallego,True,DEM,317,100.00
 CULBERSON,State Representative,74,Total,,,317,
 CULBERSON,Justice 8th Court of Appeals District,2,Ann Crawford McClure,True,DEM,253,100.00
@@ -4748,11 +4748,11 @@ DALLAS,Judge Court of Criminal Appeals,8,Total,,,269340,
 DALLAS,Member State Board of Education,12,Geraldine 'Tincy'  Miller,True,REP,150086,77.74
 DALLAS,Member State Board of Education,12,Matthew Havener,False,LIB,42976,22.26
 DALLAS,Member State Board of Education,12,Total,,,193062,
-DALLAS,State Senator,2,Bob Deuell,True,REP,33791,76.20
-DALLAS,State Senator,2,Dennis Kaptain,False,LIB,10553,23.80
-DALLAS,State Senator,2,Total,,,44344,
-DALLAS,State Senator,8,Florence Shapiro,True,REP,37605,100.00
-DALLAS,State Senator,8,Total,,,37605,
+DALLAS,State Senate,2,Bob Deuell,True,REP,33791,76.20
+DALLAS,State Senate,2,Dennis Kaptain,False,LIB,10553,23.80
+DALLAS,State Senate,2,Total,,,44344,
+DALLAS,State Senate,8,Florence Shapiro,True,REP,37605,100.00
+DALLAS,State Senate,8,Total,,,37605,
 DALLAS,State Representative,100,Terri Hodge,True,DEM,12523,88.81
 DALLAS,State Representative,100,Robert M. Pritchett,False,LIB,1578,11.19
 DALLAS,State Representative,100,Total,,,14101,
@@ -5144,9 +5144,9 @@ DELTA,Judge Court of Criminal Appeals,8,Total,,,1039,
 DELTA,Member State Board of Education,9,Don McLeroy,True,REP,690,51.88
 DELTA,Member State Board of Education,9,Maggie Charleton,False,DEM,640,48.12
 DELTA,Member State Board of Education,9,Total,,,1330,
-DELTA,State Senator,2,Bob Deuell,True,REP,916,81.86
-DELTA,State Senator,2,Dennis Kaptain,False,LIB,203,18.14
-DELTA,State Senator,2,Total,,,1119,
+DELTA,State Senate,2,Bob Deuell,True,REP,916,81.86
+DELTA,State Senate,2,Dennis Kaptain,False,LIB,203,18.14
+DELTA,State Senate,2,Total,,,1119,
 DELTA,State Representative,3,Kirby Hollingsworth,False,REP,649,43.07
 DELTA,State Representative,3,Mark S. Homer,True,DEM,858,56.93
 DELTA,State Representative,3,Total,,,1507,
@@ -5222,10 +5222,10 @@ DENTON,Judge Court of Criminal Appeals,7,Total,,,90629,
 DENTON,Judge Court of Criminal Appeals,8,Charles Holcomb,True,REP,71302,78.98
 DENTON,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,18978,21.02
 DENTON,Judge Court of Criminal Appeals,8,Total,,,90280,
-DENTON,State Senator,12,Jane Nelson,True,REP,29094,69.35
-DENTON,State Senator,12,Dwight B. Fullingim,False,DEM,11454,27.30
-DENTON,State Senator,12,Morgan Ware,False,LIB,1406,3.35
-DENTON,State Senator,12,Total,,,41954,
+DENTON,State Senate,12,Jane Nelson,True,REP,29094,69.35
+DENTON,State Senate,12,Dwight B. Fullingim,False,DEM,11454,27.30
+DENTON,State Senate,12,Morgan Ware,False,LIB,1406,3.35
+DENTON,State Senate,12,Total,,,41954,
 DENTON,State Representative,63,Tan Parker,False,REP,31958,100.00
 DENTON,State Representative,63,Total,,,31958,
 DENTON,State Representative,64,Myra Crownover,True,REP,19266,59.92
@@ -5314,9 +5314,9 @@ DEWITT,Judge Court of Criminal Appeals,8,Total,,,3281,
 DEWITT,Member State Board of Education,10,Cynthia Dunbar,False,REP,2777,84.13
 DEWITT,Member State Board of Education,10,Martin Thomen,False,LIB,524,15.87
 DEWITT,Member State Board of Education,10,Total,,,3301,
-DEWITT,State Senator,18,Glenn Hegar,False,REP,2784,83.60
-DEWITT,State Senator,18,"Roy O. Wright, II",False,LIB,546,16.40
-DEWITT,State Senator,18,Total,,,3330,
+DEWITT,State Senate,18,Glenn Hegar,False,REP,2784,83.60
+DEWITT,State Senate,18,"Roy O. Wright, II",False,LIB,546,16.40
+DEWITT,State Senate,18,Total,,,3330,
 DEWITT,State Representative,30,Geanie W. Morrison,True,REP,3161,100.00
 DEWITT,State Representative,30,Total,,,3161,
 DEWITT,"Chief Justice, 13th Court of Appeals District",,Roy Valdez,True,DEM,2212,100.00
@@ -5867,9 +5867,9 @@ EDWARDS,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,93,16.52
 EDWARDS,Judge Court of Criminal Appeals,8,Total,,,563,
 EDWARDS,Member State Board of Education,1,René  Nuñez,True,DEM,312,100.00
 EDWARDS,Member State Board of Education,1,Total,,,312,
-EDWARDS,State Senator,19,Dick Bowen,False,REP,458,70.46
-EDWARDS,State Senator,19,Carlos I. Uresti,False,DEM,192,29.54
-EDWARDS,State Senator,19,Total,,,650,
+EDWARDS,State Senate,19,Dick Bowen,False,REP,458,70.46
+EDWARDS,State Senate,19,Carlos I. Uresti,False,DEM,192,29.54
+EDWARDS,State Senate,19,Total,,,650,
 EDWARDS,State Representative,74,Pete P. Gallego,True,DEM,404,100.00
 EDWARDS,State Representative,74,Total,,,404,
 EDWARDS,Justice 4th Court of Appeals District,2,Catherine Stone,True,DEM,322,100.00
@@ -5952,12 +5952,12 @@ EL PASO,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,24103,36.99
 EL PASO,Judge Court of Criminal Appeals,8,Total,,,65154,
 EL PASO,Member State Board of Education,1,René  Nuñez,True,DEM,63796,100.00
 EL PASO,Member State Board of Education,1,Total,,,63796,
-EL PASO,State Senator,19,Dick Bowen,False,REP,645,26.21
-EL PASO,State Senator,19,Carlos I. Uresti,False,DEM,1816,73.79
-EL PASO,State Senator,19,Total,,,2461,
-EL PASO,State Senator,29,"Donald R. ""Dee"" Margo",False,REP,36127,41.21
-EL PASO,State Senator,29,Eliot Shapleigh,True,DEM,51531,58.79
-EL PASO,State Senator,29,Total,,,87658,
+EL PASO,State Senate,19,Dick Bowen,False,REP,645,26.21
+EL PASO,State Senate,19,Carlos I. Uresti,False,DEM,1816,73.79
+EL PASO,State Senate,19,Total,,,2461,
+EL PASO,State Senate,29,"Donald R. ""Dee"" Margo",False,REP,36127,41.21
+EL PASO,State Senate,29,Eliot Shapleigh,True,DEM,51531,58.79
+EL PASO,State Senate,29,Total,,,87658,
 EL PASO,State Representative,75,"Paul Johnson, Jr.",False,REP,5435,34.29
 EL PASO,State Representative,75,Chente Quintanilla,True,DEM,10413,65.71
 EL PASO,State Representative,75,Total,,,15848,
@@ -6052,9 +6052,9 @@ ELLIS,Judge Court of Criminal Appeals,7,Total,,,24681,
 ELLIS,Judge Court of Criminal Appeals,8,Charles Holcomb,True,REP,19648,80.04
 ELLIS,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,4900,19.96
 ELLIS,Judge Court of Criminal Appeals,8,Total,,,24548,
-ELLIS,State Senator,22,Kip Averitt,True,REP,19775,78.89
-ELLIS,State Senator,22,Phil Smart,False,LIB,5292,21.11
-ELLIS,State Senator,22,Total,,,25067,
+ELLIS,State Senate,22,Kip Averitt,True,REP,19775,78.89
+ELLIS,State Senate,22,Phil Smart,False,LIB,5292,21.11
+ELLIS,State Senate,22,Total,,,25067,
 ELLIS,State Representative,10,Jim Pitts,True,REP,19514,67.87
 ELLIS,State Representative,10,Kerry L. Horn,False,DEM,9240,32.13
 ELLIS,State Representative,10,Total,,,28754,
@@ -6204,9 +6204,9 @@ FALLS,Judge Court of Criminal Appeals,8,Total,,,2618,
 FALLS,Member State Board of Education,9,Don McLeroy,True,REP,1542,46.32
 FALLS,Member State Board of Education,9,Maggie Charleton,False,DEM,1787,53.68
 FALLS,Member State Board of Education,9,Total,,,3329,
-FALLS,State Senator,22,Kip Averitt,True,REP,2180,77.00
-FALLS,State Senator,22,Phil Smart,False,LIB,651,23.00
-FALLS,State Senator,22,Total,,,2831,
+FALLS,State Senate,22,Kip Averitt,True,REP,2180,77.00
+FALLS,State Senate,22,Phil Smart,False,LIB,651,23.00
+FALLS,State Senate,22,Total,,,2831,
 FALLS,State Representative,57,Jim  Dunnam,True,DEM,2568,82.89
 FALLS,State Representative,57,Neill Snider,False,LIB,530,17.11
 FALLS,State Representative,57,Total,,,3098,
@@ -6282,9 +6282,9 @@ FANNIN,Judge Court of Criminal Appeals,8,Total,,,5538,
 FANNIN,Member State Board of Education,9,Don McLeroy,True,REP,3692,51.85
 FANNIN,Member State Board of Education,9,Maggie Charleton,False,DEM,3429,48.15
 FANNIN,Member State Board of Education,9,Total,,,7121,
-FANNIN,State Senator,2,Bob Deuell,True,REP,4509,78.47
-FANNIN,State Senator,2,Dennis Kaptain,False,LIB,1237,21.53
-FANNIN,State Senator,2,Total,,,5746,
+FANNIN,State Senate,2,Bob Deuell,True,REP,4509,78.47
+FANNIN,State Senate,2,Dennis Kaptain,False,LIB,1237,21.53
+FANNIN,State Senate,2,Total,,,5746,
 FANNIN,State Representative,62,Larry Phillips,True,REP,4129,56.32
 FANNIN,State Representative,62,"Peter ""Pete"" Veeck",False,DEM,3202,43.68
 FANNIN,State Representative,62,Total,,,7331,
@@ -6355,9 +6355,9 @@ FAYETTE,Judge Court of Criminal Appeals,8,Total,,,6238,
 FAYETTE,Member State Board of Education,10,Cynthia Dunbar,False,REP,4994,79.57
 FAYETTE,Member State Board of Education,10,Martin Thomen,False,LIB,1282,20.43
 FAYETTE,Member State Board of Education,10,Total,,,6276,
-FAYETTE,State Senator,18,Glenn Hegar,False,REP,5074,79.22
-FAYETTE,State Senator,18,"Roy O. Wright, II",False,LIB,1331,20.78
-FAYETTE,State Senator,18,Total,,,6405,
+FAYETTE,State Senate,18,Glenn Hegar,False,REP,5074,79.22
+FAYETTE,State Senate,18,"Roy O. Wright, II",False,LIB,1331,20.78
+FAYETTE,State Senate,18,Total,,,6405,
 FAYETTE,State Representative,17,Tim Kleinschmidt,False,REP,3980,51.67
 FAYETTE,State Representative,17,Robby Cook,True,DEM,3571,46.36
 FAYETTE,State Representative,17,Roderick (Rod) Gibbs,False,LIB,152,1.97
@@ -6692,14 +6692,14 @@ FORT BEND,Member State Board of Education,4,Total,,,8764,
 FORT BEND,Member State Board of Education,10,Cynthia Dunbar,False,REP,56476,80.80
 FORT BEND,Member State Board of Education,10,Martin Thomen,False,LIB,13416,19.20
 FORT BEND,Member State Board of Education,10,Total,,,69892,
-FORT BEND,State Senator,13,Rodney Ellis,True,DEM,13251,100.00
-FORT BEND,State Senator,13,Total,,,13251,
-FORT BEND,State Senator,17,Kyle  Janek,True,REP,24989,80.37
-FORT BEND,State Senator,17,Phil Kurtz,False,LIB,6105,19.63
-FORT BEND,State Senator,17,Total,,,31094,
-FORT BEND,State Senator,18,Glenn Hegar,False,REP,29335,82.27
-FORT BEND,State Senator,18,"Roy O. Wright, II",False,LIB,6322,17.73
-FORT BEND,State Senator,18,Total,,,35657,
+FORT BEND,State Senate,13,Rodney Ellis,True,DEM,13251,100.00
+FORT BEND,State Senate,13,Total,,,13251,
+FORT BEND,State Senate,17,Kyle  Janek,True,REP,24989,80.37
+FORT BEND,State Senate,17,Phil Kurtz,False,LIB,6105,19.63
+FORT BEND,State Senate,17,Total,,,31094,
+FORT BEND,State Senate,18,Glenn Hegar,False,REP,29335,82.27
+FORT BEND,State Senate,18,"Roy O. Wright, II",False,LIB,6322,17.73
+FORT BEND,State Senate,18,Total,,,35657,
 FORT BEND,State Representative,26,Charlie Howard,True,REP,26374,100.00
 FORT BEND,State Representative,26,Total,,,26374,
 FORT BEND,State Representative,27,Ken Bryant,False,REP,13475,39.20
@@ -6807,9 +6807,9 @@ FRANKLIN,Judge Court of Criminal Appeals,8,Total,,,2467,
 FRANKLIN,Member State Board of Education,9,Don McLeroy,True,REP,1694,60.16
 FRANKLIN,Member State Board of Education,9,Maggie Charleton,False,DEM,1122,39.84
 FRANKLIN,Member State Board of Education,9,Total,,,2816,
-FRANKLIN,State Senator,1,Kevin P. Eltife,True,REP,2187,84.05
-FRANKLIN,State Senator,1,Jason Albers,False,LIB,415,15.95
-FRANKLIN,State Senator,1,Total,,,2602,
+FRANKLIN,State Senate,1,Kevin P. Eltife,True,REP,2187,84.05
+FRANKLIN,State Senate,1,Jason Albers,False,LIB,415,15.95
+FRANKLIN,State Senate,1,Total,,,2602,
 FRANKLIN,State Representative,3,Kirby Hollingsworth,False,REP,1657,53.56
 FRANKLIN,State Representative,3,Mark S. Homer,True,DEM,1437,46.44
 FRANKLIN,State Representative,3,Total,,,3094,
@@ -6884,10 +6884,10 @@ FREESTONE,Judge Court of Criminal Appeals,8,Total,,,3473,
 FREESTONE,Member State Board of Education,9,Don McLeroy,True,REP,2480,59.73
 FREESTONE,Member State Board of Education,9,Maggie Charleton,False,DEM,1672,40.27
 FREESTONE,Member State Board of Education,9,Total,,,4152,
-FREESTONE,State Senator,5,Steve  Ogden,True,REP,2683,62.47
-FREESTONE,State Senator,5,Stephen Wyman,False,DEM,1504,35.02
-FREESTONE,State Senator,5,Darrell R. Grear,False,LIB,108,2.51
-FREESTONE,State Senator,5,Total,,,4295,
+FREESTONE,State Senate,5,Steve  Ogden,True,REP,2683,62.47
+FREESTONE,State Senate,5,Stephen Wyman,False,DEM,1504,35.02
+FREESTONE,State Senate,5,Darrell R. Grear,False,LIB,108,2.51
+FREESTONE,State Senate,5,Total,,,4295,
 FREESTONE,State Representative,8,Byron Cook,True,REP,2612,60.48
 FREESTONE,State Representative,8,Sharon Cade Davis,False,DEM,1707,39.52
 FREESTONE,State Representative,8,Total,,,4319,
@@ -7128,9 +7128,9 @@ GALVESTON,Judge Court of Criminal Appeals,7,Total,,,46911,
 GALVESTON,Judge Court of Criminal Appeals,8,Charles Holcomb,True,REP,34434,73.66
 GALVESTON,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,12312,26.34
 GALVESTON,Judge Court of Criminal Appeals,8,Total,,,46746,
-GALVESTON,State Senator,17,Kyle  Janek,True,REP,4581,69.57
-GALVESTON,State Senator,17,Phil Kurtz,False,LIB,2004,30.43
-GALVESTON,State Senator,17,Total,,,6585,
+GALVESTON,State Senate,17,Kyle  Janek,True,REP,4581,69.57
+GALVESTON,State Senate,17,Phil Kurtz,False,LIB,2004,30.43
+GALVESTON,State Senate,17,Total,,,6585,
 GALVESTON,State Representative,23,Craig Eiland,True,DEM,18476,85.69
 GALVESTON,State Representative,23,Raymond Lloyd,False,LIB,3085,14.31
 GALVESTON,State Representative,23,Total,,,21561,
@@ -7472,9 +7472,9 @@ GOLIAD,Judge Court of Criminal Appeals,7,Total,,,1745,
 GOLIAD,Judge Court of Criminal Appeals,8,Charles Holcomb,True,REP,1347,77.46
 GOLIAD,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,392,22.54
 GOLIAD,Judge Court of Criminal Appeals,8,Total,,,1739,
-GOLIAD,State Senator,18,Glenn Hegar,False,REP,1336,76.43
-GOLIAD,State Senator,18,"Roy O. Wright, II",False,LIB,412,23.57
-GOLIAD,State Senator,18,Total,,,1748,
+GOLIAD,State Senate,18,Glenn Hegar,False,REP,1336,76.43
+GOLIAD,State Senate,18,"Roy O. Wright, II",False,LIB,412,23.57
+GOLIAD,State Senate,18,Total,,,1748,
 GOLIAD,State Representative,35,Michael  Esparza,False,REP,1115,48.12
 GOLIAD,State Representative,35,Yvonne Gonzalez Toureilles,True,DEM,1028,44.37
 GOLIAD,State Representative,35,Edward Elmer,False,LIB,174,7.51
@@ -7554,9 +7554,9 @@ GONZALES,Judge Court of Criminal Appeals,8,Total,,,3269,
 GONZALES,Member State Board of Education,10,Cynthia Dunbar,False,REP,2678,81.05
 GONZALES,Member State Board of Education,10,Martin Thomen,False,LIB,626,18.95
 GONZALES,Member State Board of Education,10,Total,,,3304,
-GONZALES,State Senator,18,Glenn Hegar,False,REP,2581,78.88
-GONZALES,State Senator,18,"Roy O. Wright, II",False,LIB,691,21.12
-GONZALES,State Senator,18,Total,,,3272,
+GONZALES,State Senate,18,Glenn Hegar,False,REP,2581,78.88
+GONZALES,State Senate,18,"Roy O. Wright, II",False,LIB,691,21.12
+GONZALES,State Senate,18,Total,,,3272,
 GONZALES,State Representative,44,Edmund Kuempel,True,REP,2838,100.00
 GONZALES,State Representative,44,Total,,,2838,
 GONZALES,"Chief Justice, 13th Court of Appeals District",,Roy Valdez,True,DEM,2502,100.00
@@ -7800,9 +7800,9 @@ GREGG,Judge Court of Criminal Appeals,7,Total,,,17800,
 GREGG,Judge Court of Criminal Appeals,8,Charles Holcomb,True,REP,15580,87.43
 GREGG,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,2239,12.57
 GREGG,Judge Court of Criminal Appeals,8,Total,,,17819,
-GREGG,State Senator,1,Kevin P. Eltife,True,REP,16437,88.92
-GREGG,State Senator,1,Jason Albers,False,LIB,2049,11.08
-GREGG,State Senator,1,Total,,,18486,
+GREGG,State Senate,1,Kevin P. Eltife,True,REP,16437,88.92
+GREGG,State Senate,1,Jason Albers,False,LIB,2049,11.08
+GREGG,State Senate,1,Total,,,18486,
 GREGG,State Representative,7,Tommy Merritt,True,REP,14942,67.76
 GREGG,State Representative,7,Patrick Franklin,False,DEM,6482,29.40
 GREGG,State Representative,7,Jonathan A. Rasco,False,LIB,627,2.84
@@ -7888,10 +7888,10 @@ GRIMES,Judge Court of Criminal Appeals,8,Total,,,3908,
 GRIMES,Member State Board of Education,9,Don McLeroy,True,REP,2759,55.75
 GRIMES,Member State Board of Education,9,Maggie Charleton,False,DEM,2190,44.25
 GRIMES,Member State Board of Education,9,Total,,,4949,
-GRIMES,State Senator,5,Steve  Ogden,True,REP,3307,62.98
-GRIMES,State Senator,5,Stephen Wyman,False,DEM,1781,33.92
-GRIMES,State Senator,5,Darrell R. Grear,False,LIB,163,3.10
-GRIMES,State Senator,5,Total,,,5251,
+GRIMES,State Senate,5,Steve  Ogden,True,REP,3307,62.98
+GRIMES,State Senate,5,Stephen Wyman,False,DEM,1781,33.92
+GRIMES,State Senate,5,Darrell R. Grear,False,LIB,163,3.10
+GRIMES,State Senate,5,Total,,,5251,
 GRIMES,State Representative,13,Lois W. Kolkhorst,True,REP,3531,82.04
 GRIMES,State Representative,13,Charles Stigall,False,LIB,773,17.96
 GRIMES,State Representative,13,Total,,,4304,
@@ -7983,10 +7983,10 @@ GUADALUPE,Judge Court of Criminal Appeals,8,Total,,,21149,
 GUADALUPE,Member State Board of Education,5,Ken Mercer,False,REP,16500,77.91
 GUADALUPE,Member State Board of Education,5,Bill Oliver,False,LIB,4679,22.09
 GUADALUPE,Member State Board of Education,5,Total,,,21179,
-GUADALUPE,State Senator,25,Jeff Wentworth,True,REP,15434,63.54
-GUADALUPE,State Senator,25,"Kathleen ""Kathi""  Thomas",False,DEM,7764,31.96
-GUADALUPE,State Senator,25,James R. (Bob) Thompson,False,LIB,1092,4.50
-GUADALUPE,State Senator,25,Total,,,24290,
+GUADALUPE,State Senate,25,Jeff Wentworth,True,REP,15434,63.54
+GUADALUPE,State Senate,25,"Kathleen ""Kathi""  Thomas",False,DEM,7764,31.96
+GUADALUPE,State Senate,25,James R. (Bob) Thompson,False,LIB,1092,4.50
+GUADALUPE,State Senate,25,Total,,,24290,
 GUADALUPE,State Representative,44,Edmund Kuempel,True,REP,18951,100.00
 GUADALUPE,State Representative,44,Total,,,18951,
 GUADALUPE,Justice 4th Court of Appeals District,2,Catherine Stone,True,DEM,13480,100.00
@@ -8459,8 +8459,8 @@ HARDIN,Judge Court of Criminal Appeals,7,Total,,,8360,
 HARDIN,Judge Court of Criminal Appeals,8,Charles Holcomb,True,REP,6801,81.38
 HARDIN,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,1556,18.62
 HARDIN,Judge Court of Criminal Appeals,8,Total,,,8357,
-HARDIN,State Senator,3,Robert Nichols,False,REP,6811,100.00
-HARDIN,State Senator,3,Total,,,6811,
+HARDIN,State Senate,3,Robert Nichols,False,REP,6811,100.00
+HARDIN,State Senate,3,Total,,,6811,
 HARDIN,State Representative,19,Mike  Hamilton,True,REP,6848,66.99
 HARDIN,State Representative,19,Paul Clayton,False,DEM,3375,33.01
 HARDIN,State Representative,19,Total,,,10223,
@@ -8559,17 +8559,17 @@ HARRIS,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,101759,24.00
 HARRIS,Judge Court of Criminal Appeals,8,Total,,,424015,
 HARRIS,Member State Board of Education,4,Lawrence A. Allen,True,DEM,117488,100.00
 HARRIS,Member State Board of Education,4,Total,,,117488,
-HARRIS,State Senator,7,Dan Patrick,False,REP,118067,69.19
-HARRIS,State Senator,7,F. Michael Kubosh,False,DEM,52586,30.81
-HARRIS,State Senator,7,Total,,,170653,
-HARRIS,State Senator,13,Rodney Ellis,True,DEM,76897,100.00
-HARRIS,State Senator,13,Total,,,76897,
-HARRIS,State Senator,15,Angel DeLaRosa,False,REP,33396,36.99
-HARRIS,State Senator,15,John Whitmire,True,DEM,56884,63.01
-HARRIS,State Senator,15,Total,,,90280,
-HARRIS,State Senator,17,Kyle  Janek,True,REP,44691,77.57
-HARRIS,State Senator,17,Phil Kurtz,False,LIB,12923,22.43
-HARRIS,State Senator,17,Total,,,57614,
+HARRIS,State Senate,7,Dan Patrick,False,REP,118067,69.19
+HARRIS,State Senate,7,F. Michael Kubosh,False,DEM,52586,30.81
+HARRIS,State Senate,7,Total,,,170653,
+HARRIS,State Senate,13,Rodney Ellis,True,DEM,76897,100.00
+HARRIS,State Senate,13,Total,,,76897,
+HARRIS,State Senate,15,Angel DeLaRosa,False,REP,33396,36.99
+HARRIS,State Senate,15,John Whitmire,True,DEM,56884,63.01
+HARRIS,State Senate,15,Total,,,90280,
+HARRIS,State Senate,17,Kyle  Janek,True,REP,44691,77.57
+HARRIS,State Senate,17,Phil Kurtz,False,LIB,12923,22.43
+HARRIS,State Senate,17,Total,,,57614,
 HARRIS,State Representative,126,Patricia Harless,False,REP,18112,64.77
 HARRIS,State Representative,126,Chad Khan,False,DEM,9114,32.59
 HARRIS,State Representative,126,"Oscar J. Palma, Jr.",False,LIB,736,2.63
@@ -8815,9 +8815,9 @@ HARRISON,Judge Court of Criminal Appeals,7,Total,,,11546,
 HARRISON,Judge Court of Criminal Appeals,8,Charles Holcomb,True,REP,8857,77.01
 HARRISON,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,2644,22.99
 HARRISON,Judge Court of Criminal Appeals,8,Total,,,11501,
-HARRISON,State Senator,1,Kevin P. Eltife,True,REP,9341,78.18
-HARRISON,State Senator,1,Jason Albers,False,LIB,2607,21.82
-HARRISON,State Senator,1,Total,,,11948,
+HARRISON,State Senate,1,Kevin P. Eltife,True,REP,9341,78.18
+HARRISON,State Senate,1,Jason Albers,False,LIB,2607,21.82
+HARRISON,State Senate,1,Total,,,11948,
 HARRISON,State Representative,5,Bryan Hughes,True,REP,9637,79.80
 HARRISON,State Representative,5,Tim Carmichael,False,LIB,2439,20.20
 HARRISON,State Representative,5,Total,,,12076,
@@ -9045,10 +9045,10 @@ HAYS,Judge Court of Criminal Appeals,8,Total,,,25599,
 HAYS,Member State Board of Education,5,Ken Mercer,False,REP,16723,65.42
 HAYS,Member State Board of Education,5,Bill Oliver,False,LIB,8838,34.58
 HAYS,Member State Board of Education,5,Total,,,25561,
-HAYS,State Senator,25,Jeff Wentworth,True,REP,15037,49.80
-HAYS,State Senator,25,"Kathleen ""Kathi""  Thomas",False,DEM,13527,44.80
-HAYS,State Senator,25,James R. (Bob) Thompson,False,LIB,1633,5.41
-HAYS,State Senator,25,Total,,,30197,
+HAYS,State Senate,25,Jeff Wentworth,True,REP,15037,49.80
+HAYS,State Senate,25,"Kathleen ""Kathi""  Thomas",False,DEM,13527,44.80
+HAYS,State Senate,25,James R. (Bob) Thompson,False,LIB,1633,5.41
+HAYS,State Senate,25,Total,,,30197,
 HAYS,State Representative,45,Jim Neuhaus,False,REP,11041,35.81
 HAYS,State Representative,45,Patrick M. Rose,True,DEM,18529,60.09
 HAYS,State Representative,45,Tom Gleinser,False,LIB,1263,4.10
@@ -9224,8 +9224,8 @@ HENDERSON,Judge Court of Criminal Appeals,8,Total,,,14619,
 HENDERSON,Member State Board of Education,9,Don McLeroy,True,REP,10168,59.76
 HENDERSON,Member State Board of Education,9,Maggie Charleton,False,DEM,6847,40.24
 HENDERSON,Member State Board of Education,9,Total,,,17015,
-HENDERSON,State Senator,3,Robert Nichols,False,REP,11864,100.00
-HENDERSON,State Senator,3,Total,,,11864,
+HENDERSON,State Senate,3,Robert Nichols,False,REP,11864,100.00
+HENDERSON,State Senate,3,Total,,,11864,
 HENDERSON,State Representative,4,Betty Brown,True,REP,10409,58.53
 HENDERSON,State Representative,4,"K.J. ""Bear"" Gleason",False,DEM,6646,37.37
 HENDERSON,State Representative,4,Rick E. Carter,False,LIB,728,4.09
@@ -9392,9 +9392,9 @@ HILL,Judge Court of Criminal Appeals,7,Total,,,7283,
 HILL,Judge Court of Criminal Appeals,8,Charles Holcomb,True,REP,5766,79.48
 HILL,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,1489,20.52
 HILL,Judge Court of Criminal Appeals,8,Total,,,7255,
-HILL,State Senator,22,Kip Averitt,True,REP,6107,80.58
-HILL,State Senator,22,Phil Smart,False,LIB,1472,19.42
-HILL,State Senator,22,Total,,,7579,
+HILL,State Senate,22,Kip Averitt,True,REP,6107,80.58
+HILL,State Senate,22,Phil Smart,False,LIB,1472,19.42
+HILL,State Senate,22,Total,,,7579,
 HILL,State Representative,10,Jim Pitts,True,REP,5682,63.43
 HILL,State Representative,10,Kerry L. Horn,False,DEM,3276,36.57
 HILL,State Representative,10,Total,,,8958,
@@ -9547,9 +9547,9 @@ HOOD,Judge Court of Criminal Appeals,7,Total,,,11945,
 HOOD,Judge Court of Criminal Appeals,8,Charles Holcomb,True,REP,9828,82.76
 HOOD,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,2048,17.24
 HOOD,Judge Court of Criminal Appeals,8,Total,,,11876,
-HOOD,State Senator,22,Kip Averitt,True,REP,10039,82.76
-HOOD,State Senator,22,Phil Smart,False,LIB,2091,17.24
-HOOD,State Senator,22,Total,,,12130,
+HOOD,State Senate,22,Kip Averitt,True,REP,10039,82.76
+HOOD,State Senate,22,Phil Smart,False,LIB,2091,17.24
+HOOD,State Senate,22,Total,,,12130,
 HOOD,State Representative,60,James L. ,True,REP,9320,68.47
 HOOD,State Representative,60,Robert McKelvain,False,DEM,3823,28.09
 HOOD,State Representative,60,Al Barrera,False,LIB,468,3.44
@@ -9632,9 +9632,9 @@ HOPKINS,Judge Court of Criminal Appeals,8,Total,,,6061,
 HOPKINS,Member State Board of Education,9,Don McLeroy,True,REP,4070,53.94
 HOPKINS,Member State Board of Education,9,Maggie Charleton,False,DEM,3475,46.06
 HOPKINS,Member State Board of Education,9,Total,,,7545,
-HOPKINS,State Senator,2,Bob Deuell,True,REP,5304,82.44
-HOPKINS,State Senator,2,Dennis Kaptain,False,LIB,1130,17.56
-HOPKINS,State Senator,2,Total,,,6434,
+HOPKINS,State Senate,2,Bob Deuell,True,REP,5304,82.44
+HOPKINS,State Senate,2,Dennis Kaptain,False,LIB,1130,17.56
+HOPKINS,State Senate,2,Total,,,6434,
 HOPKINS,State Representative,3,Kirby Hollingsworth,False,REP,3717,44.47
 HOPKINS,State Representative,3,Mark S. Homer,True,DEM,4641,55.53
 HOPKINS,State Representative,3,Total,,,8358,
@@ -9709,10 +9709,10 @@ HOUSTON,Judge Court of Criminal Appeals,8,Total,,,4588,
 HOUSTON,Member State Board of Education,9,Don McLeroy,True,REP,3173,58.05
 HOUSTON,Member State Board of Education,9,Maggie Charleton,False,DEM,2293,41.95
 HOUSTON,Member State Board of Education,9,Total,,,5466,
-HOUSTON,State Senator,5,Steve  Ogden,True,REP,3729,64.67
-HOUSTON,State Senator,5,Stephen Wyman,False,DEM,1933,33.52
-HOUSTON,State Senator,5,Darrell R. Grear,False,LIB,104,1.80
-HOUSTON,State Senator,5,Total,,,5766,
+HOUSTON,State Senate,5,Steve  Ogden,True,REP,3729,64.67
+HOUSTON,State Senate,5,Stephen Wyman,False,DEM,1933,33.52
+HOUSTON,State Senate,5,Darrell R. Grear,False,LIB,104,1.80
+HOUSTON,State Senate,5,Total,,,5766,
 HOUSTON,State Representative,11,Larry K. Durrett,False,REP,2617,44.26
 HOUSTON,State Representative,11,Chuck Hopson,True,DEM,3146,53.20
 HOUSTON,State Representative,11,Paul (Blue) Story,False,LIB,150,2.54
@@ -9863,9 +9863,9 @@ HUDSPETH,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,106,24.59
 HUDSPETH,Judge Court of Criminal Appeals,8,Total,,,431,
 HUDSPETH,Member State Board of Education,1,René  Nuñez,True,DEM,251,100.00
 HUDSPETH,Member State Board of Education,1,Total,,,251,
-HUDSPETH,State Senator,19,Dick Bowen,False,REP,334,61.74
-HUDSPETH,State Senator,19,Carlos I. Uresti,False,DEM,207,38.26
-HUDSPETH,State Senator,19,Total,,,541,
+HUDSPETH,State Senate,19,Dick Bowen,False,REP,334,61.74
+HUDSPETH,State Senate,19,Carlos I. Uresti,False,DEM,207,38.26
+HUDSPETH,State Senate,19,Total,,,541,
 HUDSPETH,State Representative,74,Pete P. Gallego,True,DEM,304,100.00
 HUDSPETH,State Representative,74,Total,,,304,
 HUDSPETH,Justice 8th Court of Appeals District,2,Ann Crawford McClure,True,DEM,304,100.00
@@ -9942,9 +9942,9 @@ HUNT,Judge Court of Criminal Appeals,8,Total,,,14675,
 HUNT,Member State Board of Education,9,Don McLeroy,True,REP,9886,59.59
 HUNT,Member State Board of Education,9,Maggie Charleton,False,DEM,6703,40.41
 HUNT,Member State Board of Education,9,Total,,,16589,
-HUNT,State Senator,2,Bob Deuell,True,REP,12140,78.52
-HUNT,State Senator,2,Dennis Kaptain,False,LIB,3322,21.48
-HUNT,State Senator,2,Total,,,15462,
+HUNT,State Senate,2,Bob Deuell,True,REP,12140,78.52
+HUNT,State Senate,2,Dennis Kaptain,False,LIB,3322,21.48
+HUNT,State Senate,2,Total,,,15462,
 HUNT,State Representative,2,Dan Flynn,True,REP,9682,56.01
 HUNT,State Representative,2,Scott Cornuaud,False,DEM,6859,39.68
 HUNT,State Representative,2,Dawn M. Childs,False,LIB,746,4.32
@@ -10271,9 +10271,9 @@ JACKSON,Judge Court of Criminal Appeals,7,Total,,,2393,
 JACKSON,Judge Court of Criminal Appeals,8,Charles Holcomb,True,REP,1926,80.65
 JACKSON,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,462,19.35
 JACKSON,Judge Court of Criminal Appeals,8,Total,,,2388,
-JACKSON,State Senator,18,Glenn Hegar,False,REP,1981,81.32
-JACKSON,State Senator,18,"Roy O. Wright, II",False,LIB,455,18.68
-JACKSON,State Senator,18,Total,,,2436,
+JACKSON,State Senate,18,Glenn Hegar,False,REP,1981,81.32
+JACKSON,State Senate,18,"Roy O. Wright, II",False,LIB,455,18.68
+JACKSON,State Senate,18,Total,,,2436,
 JACKSON,State Representative,30,Geanie W. Morrison,True,REP,2264,100.00
 JACKSON,State Representative,30,Total,,,2264,
 JACKSON,"Chief Justice, 13th Court of Appeals District",,Roy Valdez,True,DEM,1832,100.00
@@ -10353,8 +10353,8 @@ JASPER,Judge Court of Criminal Appeals,7,Total,,,5725,
 JASPER,Judge Court of Criminal Appeals,8,Charles Holcomb,True,REP,4408,77.35
 JASPER,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,1291,22.65
 JASPER,Judge Court of Criminal Appeals,8,Total,,,5699,
-JASPER,State Senator,3,Robert Nichols,False,REP,4835,100.00
-JASPER,State Senator,3,Total,,,4835,
+JASPER,State Senate,3,Robert Nichols,False,REP,4835,100.00
+JASPER,State Senate,3,Total,,,4835,
 JASPER,State Representative,9,Wayne Christian,False,REP,5035,100.00
 JASPER,State Representative,9,Total,,,5035,
 JASPER,Justice 9th Court of Appeals District,3,David Gaultney,True,REP,4725,100.00
@@ -10428,9 +10428,9 @@ JEFF DAVIS,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,262,31.12
 JEFF DAVIS,Judge Court of Criminal Appeals,8,Total,,,842,
 JEFF DAVIS,Member State Board of Education,1,René  Nuñez,True,DEM,620,100.00
 JEFF DAVIS,Member State Board of Education,1,Total,,,620,
-JEFF DAVIS,State Senator,19,Dick Bowen,False,REP,534,54.66
-JEFF DAVIS,State Senator,19,Carlos I. Uresti,False,DEM,443,45.34
-JEFF DAVIS,State Senator,19,Total,,,977,
+JEFF DAVIS,State Senate,19,Dick Bowen,False,REP,534,54.66
+JEFF DAVIS,State Senate,19,Carlos I. Uresti,False,DEM,443,45.34
+JEFF DAVIS,State Senate,19,Total,,,977,
 JEFF DAVIS,State Representative,74,Pete P. Gallego,True,DEM,841,100.00
 JEFF DAVIS,State Representative,74,Total,,,841,
 JEFF DAVIS,Justice 8th Court of Appeals District,2,Ann Crawford McClure,True,DEM,655,100.00
@@ -10502,9 +10502,9 @@ JEFFERSON,Judge Court of Criminal Appeals,7,Total,,,29315,
 JEFFERSON,Judge Court of Criminal Appeals,8,Charles Holcomb,True,REP,22377,76.54
 JEFFERSON,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,6858,23.46
 JEFFERSON,Judge Court of Criminal Appeals,8,Total,,,29235,
-JEFFERSON,State Senator,17,Kyle  Janek,True,REP,2370,66.09
-JEFFERSON,State Senator,17,Phil Kurtz,False,LIB,1216,33.91
-JEFFERSON,State Senator,17,Total,,,3586,
+JEFFERSON,State Senate,17,Kyle  Janek,True,REP,2370,66.09
+JEFFERSON,State Senate,17,Phil Kurtz,False,LIB,1216,33.91
+JEFFERSON,State Senate,17,Total,,,3586,
 JEFFERSON,State Representative,21,Allan B. Ritter,True,DEM,20811,100.00
 JEFFERSON,State Representative,21,Total,,,20811,
 JEFFERSON,State Representative,22,Joe  Deshotel,True,DEM,12862,91.79
@@ -10757,9 +10757,9 @@ JOHNSON,Judge Court of Criminal Appeals,7,Total,,,25350,
 JOHNSON,Judge Court of Criminal Appeals,8,Charles Holcomb,True,REP,19787,78.51
 JOHNSON,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,5415,21.49
 JOHNSON,Judge Court of Criminal Appeals,8,Total,,,25202,
-JOHNSON,State Senator,22,Kip Averitt,True,REP,20050,78.13
-JOHNSON,State Senator,22,Phil Smart,False,LIB,5611,21.87
-JOHNSON,State Senator,22,Total,,,25661,
+JOHNSON,State Senate,22,Kip Averitt,True,REP,20050,78.13
+JOHNSON,State Senate,22,Phil Smart,False,LIB,5611,21.87
+JOHNSON,State Senate,22,Total,,,25661,
 JOHNSON,State Representative,58,Rob Orr,True,REP,18471,63.05
 JOHNSON,State Representative,58,Greg A. Kauffman,False,DEM,9545,32.58
 JOHNSON,State Representative,58,Tom Stewart,False,LIB,1281,4.37
@@ -11000,9 +11000,9 @@ KAUFMAN,Judge Court of Criminal Appeals,8,Total,,,14719,
 KAUFMAN,Member State Board of Education,9,Don McLeroy,True,REP,10499,59.84
 KAUFMAN,Member State Board of Education,9,Maggie Charleton,False,DEM,7046,40.16
 KAUFMAN,Member State Board of Education,9,Total,,,17545,
-KAUFMAN,State Senator,2,Bob Deuell,True,REP,12244,80.44
-KAUFMAN,State Senator,2,Dennis Kaptain,False,LIB,2978,19.56
-KAUFMAN,State Senator,2,Total,,,15222,
+KAUFMAN,State Senate,2,Bob Deuell,True,REP,12244,80.44
+KAUFMAN,State Senate,2,Dennis Kaptain,False,LIB,2978,19.56
+KAUFMAN,State Senate,2,Total,,,15222,
 KAUFMAN,State Representative,4,Betty Brown,True,REP,11138,60.34
 KAUFMAN,State Representative,4,"K.J. ""Bear"" Gleason",False,DEM,6482,35.12
 KAUFMAN,State Representative,4,Rick E. Carter,False,LIB,839,4.55
@@ -11091,10 +11091,10 @@ KENDALL,Judge Court of Criminal Appeals,8,Total,,,9073,
 KENDALL,Member State Board of Education,5,Ken Mercer,False,REP,7538,82.96
 KENDALL,Member State Board of Education,5,Bill Oliver,False,LIB,1548,17.04
 KENDALL,Member State Board of Education,5,Total,,,9086,
-KENDALL,State Senator,25,Jeff Wentworth,True,REP,7441,74.05
-KENDALL,State Senator,25,"Kathleen ""Kathi""  Thomas",False,DEM,2102,20.92
-KENDALL,State Senator,25,James R. (Bob) Thompson,False,LIB,506,5.04
-KENDALL,State Senator,25,Total,,,10049,
+KENDALL,State Senate,25,Jeff Wentworth,True,REP,7441,74.05
+KENDALL,State Senate,25,"Kathleen ""Kathi""  Thomas",False,DEM,2102,20.92
+KENDALL,State Senate,25,James R. (Bob) Thompson,False,LIB,506,5.04
+KENDALL,State Senate,25,Total,,,10049,
 KENDALL,State Representative,73,Nathan Macias,False,REP,7210,77.75
 KENDALL,State Representative,73,Charles B. Ellis,False,LIB,1571,16.94
 KENDALL,State Representative,73,Daniel C. Boone,False,WI,492,5.31
@@ -11577,9 +11577,9 @@ KINNEY,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,200,24.30
 KINNEY,Judge Court of Criminal Appeals,8,Total,,,823,
 KINNEY,Member State Board of Education,1,René  Nuñez,True,DEM,576,100.00
 KINNEY,Member State Board of Education,1,Total,,,576,
-KINNEY,State Senator,19,Dick Bowen,False,REP,531,52.63
-KINNEY,State Senator,19,Carlos I. Uresti,False,DEM,478,47.37
-KINNEY,State Senator,19,Total,,,1009,
+KINNEY,State Senate,19,Dick Bowen,False,REP,531,52.63
+KINNEY,State Senate,19,Carlos I. Uresti,False,DEM,478,47.37
+KINNEY,State Senate,19,Total,,,1009,
 KINNEY,State Representative,80,Tracy O. King,True,DEM,722,100.00
 KINNEY,State Representative,80,Total,,,722,
 KINNEY,Justice 4th Court of Appeals District,2,Catherine Stone,True,DEM,603,100.00
@@ -11816,9 +11816,9 @@ LAMAR,Judge Court of Criminal Appeals,8,Total,,,8818,
 LAMAR,Member State Board of Education,9,Don McLeroy,True,REP,5318,49.57
 LAMAR,Member State Board of Education,9,Maggie Charleton,False,DEM,5410,50.43
 LAMAR,Member State Board of Education,9,Total,,,10728,
-LAMAR,State Senator,1,Kevin P. Eltife,True,REP,7238,77.76
-LAMAR,State Senator,1,Jason Albers,False,LIB,2070,22.24
-LAMAR,State Senator,1,Total,,,9308,
+LAMAR,State Senate,1,Kevin P. Eltife,True,REP,7238,77.76
+LAMAR,State Senate,1,Jason Albers,False,LIB,2070,22.24
+LAMAR,State Senate,1,Total,,,9308,
 LAMAR,State Representative,3,Kirby Hollingsworth,False,REP,4310,37.38
 LAMAR,State Representative,3,Mark S. Homer,True,DEM,7219,62.62
 LAMAR,State Representative,3,Total,,,11529,
@@ -12131,9 +12131,9 @@ LAVACA,Judge Court of Criminal Appeals,8,Total,,,3926,
 LAVACA,Member State Board of Education,10,Cynthia Dunbar,False,REP,3215,81.66
 LAVACA,Member State Board of Education,10,Martin Thomen,False,LIB,722,18.34
 LAVACA,Member State Board of Education,10,Total,,,3937,
-LAVACA,State Senator,18,Glenn Hegar,False,REP,3265,81.69
-LAVACA,State Senator,18,"Roy O. Wright, II",False,LIB,732,18.31
-LAVACA,State Senator,18,Total,,,3997,
+LAVACA,State Senate,18,Glenn Hegar,False,REP,3265,81.69
+LAVACA,State Senate,18,"Roy O. Wright, II",False,LIB,732,18.31
+LAVACA,State Senate,18,Total,,,3997,
 LAVACA,State Representative,30,Geanie W. Morrison,True,REP,3546,100.00
 LAVACA,State Representative,30,Total,,,3546,
 LAVACA,"Chief Justice, 13th Court of Appeals District",,Roy Valdez,True,DEM,2675,100.00
@@ -12213,10 +12213,10 @@ LEE,Judge Court of Criminal Appeals,8,Total,,,3124,
 LEE,Member State Board of Education,10,Cynthia Dunbar,False,REP,2512,79.64
 LEE,Member State Board of Education,10,Martin Thomen,False,LIB,642,20.36
 LEE,Member State Board of Education,10,Total,,,3154,
-LEE,State Senator,5,Steve  Ogden,True,REP,2457,60.82
-LEE,State Senator,5,Stephen Wyman,False,DEM,1455,36.01
-LEE,State Senator,5,Darrell R. Grear,False,LIB,128,3.17
-LEE,State Senator,5,Total,,,4040,
+LEE,State Senate,5,Steve  Ogden,True,REP,2457,60.82
+LEE,State Senate,5,Stephen Wyman,False,DEM,1455,36.01
+LEE,State Senate,5,Darrell R. Grear,False,LIB,128,3.17
+LEE,State Senate,5,Total,,,4040,
 LEE,State Representative,17,Tim Kleinschmidt,False,REP,2744,64.93
 LEE,State Representative,17,Robby Cook,True,DEM,1426,33.74
 LEE,State Representative,17,Roderick (Rod) Gibbs,False,LIB,56,1.33
@@ -12301,10 +12301,10 @@ LEON,Judge Court of Criminal Appeals,8,Total,,,3500,
 LEON,Member State Board of Education,9,Don McLeroy,True,REP,2761,68.36
 LEON,Member State Board of Education,9,Maggie Charleton,False,DEM,1278,31.64
 LEON,Member State Board of Education,9,Total,,,4039,
-LEON,State Senator,5,Steve  Ogden,True,REP,3083,72.78
-LEON,State Senator,5,Stephen Wyman,False,DEM,1064,25.12
-LEON,State Senator,5,Darrell R. Grear,False,LIB,89,2.10
-LEON,State Senator,5,Total,,,4236,
+LEON,State Senate,5,Steve  Ogden,True,REP,3083,72.78
+LEON,State Senate,5,Stephen Wyman,False,DEM,1064,25.12
+LEON,State Senate,5,Darrell R. Grear,False,LIB,89,2.10
+LEON,State Senate,5,Total,,,4236,
 LEON,State Representative,57,Jim  Dunnam,True,DEM,2195,79.76
 LEON,State Representative,57,Neill Snider,False,LIB,557,20.24
 LEON,State Representative,57,Total,,,2752,
@@ -12465,10 +12465,10 @@ LIMESTONE,Judge Court of Criminal Appeals,8,Total,,,3861,
 LIMESTONE,Member State Board of Education,9,Don McLeroy,True,REP,2602,52.52
 LIMESTONE,Member State Board of Education,9,Maggie Charleton,False,DEM,2352,47.48
 LIMESTONE,Member State Board of Education,9,Total,,,4954,
-LIMESTONE,State Senator,5,Steve  Ogden,True,REP,2992,57.93
-LIMESTONE,State Senator,5,Stephen Wyman,False,DEM,2073,40.14
-LIMESTONE,State Senator,5,Darrell R. Grear,False,LIB,100,1.94
-LIMESTONE,State Senator,5,Total,,,5165,
+LIMESTONE,State Senate,5,Steve  Ogden,True,REP,2992,57.93
+LIMESTONE,State Senate,5,Stephen Wyman,False,DEM,2073,40.14
+LIMESTONE,State Senate,5,Darrell R. Grear,False,LIB,100,1.94
+LIMESTONE,State Senate,5,Total,,,5165,
 LIMESTONE,State Representative,8,Byron Cook,True,REP,2876,55.64
 LIMESTONE,State Representative,8,Sharon Cade Davis,False,DEM,2293,44.36
 LIMESTONE,State Representative,8,Total,,,5169,
@@ -12786,9 +12786,9 @@ LOVING,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,10,15.15
 LOVING,Judge Court of Criminal Appeals,8,Total,,,66,
 LOVING,Member State Board of Education,1,René  Nuñez,True,DEM,39,100.00
 LOVING,Member State Board of Education,1,Total,,,39,
-LOVING,State Senator,19,Dick Bowen,False,REP,58,79.45
-LOVING,State Senator,19,Carlos I. Uresti,False,DEM,15,20.55
-LOVING,State Senator,19,Total,,,73,
+LOVING,State Senate,19,Dick Bowen,False,REP,58,79.45
+LOVING,State Senate,19,Carlos I. Uresti,False,DEM,15,20.55
+LOVING,State Senate,19,Total,,,73,
 LOVING,State Representative,74,Pete P. Gallego,True,DEM,45,100.00
 LOVING,State Representative,74,Total,,,45,
 LOVING,Justice 8th Court of Appeals District,2,Ann Crawford McClure,True,DEM,38,100.00
@@ -13038,10 +13038,10 @@ MADISON,Judge Court of Criminal Appeals,8,Total,,,2159,
 MADISON,Member State Board of Education,9,Don McLeroy,True,REP,1579,58.76
 MADISON,Member State Board of Education,9,Maggie Charleton,False,DEM,1108,41.24
 MADISON,Member State Board of Education,9,Total,,,2687,
-MADISON,State Senator,5,Steve  Ogden,True,REP,1902,66.97
-MADISON,State Senator,5,Stephen Wyman,False,DEM,870,30.63
-MADISON,State Senator,5,Darrell R. Grear,False,LIB,68,2.39
-MADISON,State Senator,5,Total,,,2840,
+MADISON,State Senate,5,Steve  Ogden,True,REP,1902,66.97
+MADISON,State Senate,5,Stephen Wyman,False,DEM,870,30.63
+MADISON,State Senate,5,Darrell R. Grear,False,LIB,68,2.39
+MADISON,State Senate,5,Total,,,2840,
 MADISON,State Representative,57,Jim  Dunnam,True,DEM,1862,85.53
 MADISON,State Representative,57,Neill Snider,False,LIB,315,14.47
 MADISON,State Representative,57,Total,,,2177,
@@ -13116,9 +13116,9 @@ MARION,Judge Court of Criminal Appeals,7,Total,,,1462,
 MARION,Judge Court of Criminal Appeals,8,Charles Holcomb,True,REP,1144,78.57
 MARION,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,312,21.43
 MARION,Judge Court of Criminal Appeals,8,Total,,,1456,
-MARION,State Senator,1,Kevin P. Eltife,True,REP,1162,78.67
-MARION,State Senator,1,Jason Albers,False,LIB,315,21.33
-MARION,State Senator,1,Total,,,1477,
+MARION,State Senate,1,Kevin P. Eltife,True,REP,1162,78.67
+MARION,State Senate,1,Jason Albers,False,LIB,315,21.33
+MARION,State Senate,1,Total,,,1477,
 MARION,State Representative,1,Stephen J. Frost,True,DEM,1520,86.66
 MARION,State Representative,1,Tim Eason,False,LIB,234,13.34
 MARION,State Representative,1,Total,,,1754,
@@ -13351,9 +13351,9 @@ MATAGORDA,Judge Court of Criminal Appeals,7,Total,,,5966,
 MATAGORDA,Judge Court of Criminal Appeals,8,Charles Holcomb,True,REP,4455,75.28
 MATAGORDA,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,1463,24.72
 MATAGORDA,Judge Court of Criminal Appeals,8,Total,,,5918,
-MATAGORDA,State Senator,18,Glenn Hegar,False,REP,4499,74.92
-MATAGORDA,State Senator,18,"Roy O. Wright, II",False,LIB,1506,25.08
-MATAGORDA,State Senator,18,Total,,,6005,
+MATAGORDA,State Senate,18,Glenn Hegar,False,REP,4499,74.92
+MATAGORDA,State Senate,18,"Roy O. Wright, II",False,LIB,1506,25.08
+MATAGORDA,State Senate,18,Total,,,6005,
 MATAGORDA,State Representative,29,Glenda Dawson,True,REP,4127,55.70
 MATAGORDA,State Representative,29,Anthony A. Dinovo,False,DEM,3283,44.30
 MATAGORDA,State Representative,29,Total,,,7410,
@@ -13429,9 +13429,9 @@ MAVERICK,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,1117,42.76
 MAVERICK,Judge Court of Criminal Appeals,8,Total,,,2612,
 MAVERICK,Member State Board of Education,1,René  Nuñez,True,DEM,3114,100.00
 MAVERICK,Member State Board of Education,1,Total,,,3114,
-MAVERICK,State Senator,19,Dick Bowen,False,REP,734,19.29
-MAVERICK,State Senator,19,Carlos I. Uresti,False,DEM,3072,80.71
-MAVERICK,State Senator,19,Total,,,3806,
+MAVERICK,State Senate,19,Dick Bowen,False,REP,734,19.29
+MAVERICK,State Senate,19,Carlos I. Uresti,False,DEM,3072,80.71
+MAVERICK,State Senate,19,Total,,,3806,
 MAVERICK,State Representative,80,Tracy O. King,True,DEM,3403,100.00
 MAVERICK,State Representative,80,Total,,,3403,
 MAVERICK,Justice 4th Court of Appeals District,2,Catherine Stone,True,DEM,3104,100.00
@@ -13600,9 +13600,9 @@ MCLENNAN,Judge Court of Criminal Appeals,7,Total,,,41058,
 MCLENNAN,Judge Court of Criminal Appeals,8,Charles Holcomb,True,REP,33458,82.16
 MCLENNAN,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,7266,17.84
 MCLENNAN,Judge Court of Criminal Appeals,8,Total,,,40724,
-MCLENNAN,State Senator,22,Kip Averitt,True,REP,35418,82.95
-MCLENNAN,State Senator,22,Phil Smart,False,LIB,7279,17.05
-MCLENNAN,State Senator,22,Total,,,42697,
+MCLENNAN,State Senate,22,Kip Averitt,True,REP,35418,82.95
+MCLENNAN,State Senate,22,Phil Smart,False,LIB,7279,17.05
+MCLENNAN,State Senate,22,Total,,,42697,
 MCLENNAN,State Representative,56,"Charles ""Doc"" Anderson",True,REP,27961,78.73
 MCLENNAN,State Representative,56,Tom Kilbride,False,LIB,7556,21.27
 MCLENNAN,State Representative,56,Total,,,35517,
@@ -13771,9 +13771,9 @@ MEDINA,Judge Court of Criminal Appeals,8,Total,,,8401,
 MEDINA,Member State Board of Education,3,Tony  Cunningham,False,REP,5996,65.00
 MEDINA,Member State Board of Education,3,Rick Agosto,False,DEM,3229,35.00
 MEDINA,Member State Board of Education,3,Total,,,9225,
-MEDINA,State Senator,19,Dick Bowen,False,REP,4268,58.57
-MEDINA,State Senator,19,Carlos I. Uresti,False,DEM,3019,41.43
-MEDINA,State Senator,19,Total,,,7287,
+MEDINA,State Senate,19,Dick Bowen,False,REP,4268,58.57
+MEDINA,State Senate,19,Carlos I. Uresti,False,DEM,3019,41.43
+MEDINA,State Senate,19,Total,,,7287,
 MEDINA,State Representative,80,Tracy O. King,True,DEM,7161,100.00
 MEDINA,State Representative,80,Total,,,7161,
 MEDINA,Justice 4th Court of Appeals District,2,Catherine Stone,True,DEM,6101,100.00
@@ -14019,10 +14019,10 @@ MILAM,Judge Court of Criminal Appeals,8,Total,,,4059,
 MILAM,Member State Board of Education,10,Cynthia Dunbar,False,REP,3167,77.41
 MILAM,Member State Board of Education,10,Martin Thomen,False,LIB,924,22.59
 MILAM,Member State Board of Education,10,Total,,,4091,
-MILAM,State Senator,5,Steve  Ogden,True,REP,2987,55.12
-MILAM,State Senator,5,Stephen Wyman,False,DEM,2282,42.11
-MILAM,State Senator,5,Darrell R. Grear,False,LIB,150,2.77
-MILAM,State Senator,5,Total,,,5419,
+MILAM,State Senate,5,Steve  Ogden,True,REP,2987,55.12
+MILAM,State Senate,5,Stephen Wyman,False,DEM,2282,42.11
+MILAM,State Senate,5,Darrell R. Grear,False,LIB,150,2.77
+MILAM,State Senate,5,Total,,,5419,
 MILAM,State Representative,20,Dan M. Gattis,True,REP,2913,53.94
 MILAM,State Representative,20,Jim Stauber,False,DEM,2487,46.06
 MILAM,State Representative,20,Total,,,5400,
@@ -14328,8 +14328,8 @@ MONTGOMERY,Judge Court of Criminal Appeals,7,Total,,,70672,
 MONTGOMERY,Judge Court of Criminal Appeals,8,Charles Holcomb,True,REP,59535,84.74
 MONTGOMERY,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,10718,15.26
 MONTGOMERY,Judge Court of Criminal Appeals,8,Total,,,70253,
-MONTGOMERY,State Senator,3,Robert Nichols,False,REP,27458,100.00
-MONTGOMERY,State Senator,3,Total,,,27458,
+MONTGOMERY,State Senate,3,Robert Nichols,False,REP,27458,100.00
+MONTGOMERY,State Senate,3,Total,,,27458,
 MONTGOMERY,State Representative,15,Rob  Eissler,True,REP,30880,73.33
 MONTGOMERY,State Representative,15,Sammie Miller,False,DEM,9597,22.79
 MONTGOMERY,State Representative,15,Brian J. Drake,False,LIB,1633,3.88
@@ -14494,9 +14494,9 @@ MORRIS,Judge Court of Criminal Appeals,7,Total,,,1854,
 MORRIS,Judge Court of Criminal Appeals,8,Charles Holcomb,True,REP,1327,71.54
 MORRIS,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,528,28.46
 MORRIS,Judge Court of Criminal Appeals,8,Total,,,1855,
-MORRIS,State Senator,1,Kevin P. Eltife,True,REP,1412,73.24
-MORRIS,State Senator,1,Jason Albers,False,LIB,516,26.76
-MORRIS,State Senator,1,Total,,,1928,
+MORRIS,State Senate,1,Kevin P. Eltife,True,REP,1412,73.24
+MORRIS,State Senate,1,Jason Albers,False,LIB,516,26.76
+MORRIS,State Senate,1,Total,,,1928,
 MORRIS,State Representative,1,Stephen J. Frost,True,DEM,2089,87.96
 MORRIS,State Representative,1,Tim Eason,False,LIB,286,12.04
 MORRIS,State Representative,1,Total,,,2375,
@@ -14648,8 +14648,8 @@ NACOGDOCHES,Judge Court of Criminal Appeals,7,Total,,,9939,
 NACOGDOCHES,Judge Court of Criminal Appeals,8,Charles Holcomb,True,REP,7896,79.87
 NACOGDOCHES,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,1990,20.13
 NACOGDOCHES,Judge Court of Criminal Appeals,8,Total,,,9886,
-NACOGDOCHES,State Senator,3,Robert Nichols,False,REP,8045,100.00
-NACOGDOCHES,State Senator,3,Total,,,8045,
+NACOGDOCHES,State Senate,3,Robert Nichols,False,REP,8045,100.00
+NACOGDOCHES,State Senate,3,Total,,,8045,
 NACOGDOCHES,State Representative,9,Wayne Christian,False,REP,8280,100.00
 NACOGDOCHES,State Representative,9,Total,,,8280,
 NACOGDOCHES,Justice 12th Court of Appeals District,2  Unexpired Term,Brian Hoyle,False,REP,8060,100.00
@@ -14724,9 +14724,9 @@ NAVARRO,Judge Court of Criminal Appeals,8,Total,,,8180,
 NAVARRO,Member State Board of Education,9,Don McLeroy,True,REP,5584,55.47
 NAVARRO,Member State Board of Education,9,Maggie Charleton,False,DEM,4483,44.53
 NAVARRO,Member State Board of Education,9,Total,,,10067,
-NAVARRO,State Senator,22,Kip Averitt,True,REP,6994,81.97
-NAVARRO,State Senator,22,Phil Smart,False,LIB,1538,18.03
-NAVARRO,State Senator,22,Total,,,8532,
+NAVARRO,State Senate,22,Kip Averitt,True,REP,6994,81.97
+NAVARRO,State Senate,22,Phil Smart,False,LIB,1538,18.03
+NAVARRO,State Senate,22,Total,,,8532,
 NAVARRO,State Representative,8,Byron Cook,True,REP,6768,62.66
 NAVARRO,State Representative,8,Sharon Cade Davis,False,DEM,4033,37.34
 NAVARRO,State Representative,8,Total,,,10801,
@@ -14798,8 +14798,8 @@ NEWTON,Judge Court of Criminal Appeals,7,Total,,,1915,
 NEWTON,Judge Court of Criminal Appeals,8,Charles Holcomb,True,REP,1369,71.49
 NEWTON,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,546,28.51
 NEWTON,Judge Court of Criminal Appeals,8,Total,,,1915,
-NEWTON,State Senator,3,Robert Nichols,False,REP,1526,100.00
-NEWTON,State Senator,3,Total,,,1526,
+NEWTON,State Senate,3,Robert Nichols,False,REP,1526,100.00
+NEWTON,State Senate,3,Total,,,1526,
 NEWTON,State Representative,19,Mike  Hamilton,True,REP,1296,45.00
 NEWTON,State Representative,19,Paul Clayton,False,DEM,1584,55.00
 NEWTON,State Representative,19,Total,,,2880,
@@ -15357,9 +15357,9 @@ PANOLA,Judge Court of Criminal Appeals,7,Total,,,4548,
 PANOLA,Judge Court of Criminal Appeals,8,Charles Holcomb,True,REP,3769,82.64
 PANOLA,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,792,17.36
 PANOLA,Judge Court of Criminal Appeals,8,Total,,,4561,
-PANOLA,State Senator,1,Kevin P. Eltife,True,REP,3807,81.77
-PANOLA,State Senator,1,Jason Albers,False,LIB,849,18.23
-PANOLA,State Senator,1,Total,,,4656,
+PANOLA,State Senate,1,Kevin P. Eltife,True,REP,3807,81.77
+PANOLA,State Senate,1,Jason Albers,False,LIB,849,18.23
+PANOLA,State Senate,1,Total,,,4656,
 PANOLA,State Representative,11,Larry K. Durrett,False,REP,2742,47.14
 PANOLA,State Representative,11,Chuck Hopson,True,DEM,2964,50.95
 PANOLA,State Representative,11,Paul (Blue) Story,False,LIB,111,1.91
@@ -15588,9 +15588,9 @@ PECOS,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,597,25.62
 PECOS,Judge Court of Criminal Appeals,8,Total,,,2330,
 PECOS,Member State Board of Education,1,René  Nuñez,True,DEM,2026,100.00
 PECOS,Member State Board of Education,1,Total,,,2026,
-PECOS,State Senator,19,Dick Bowen,False,REP,1416,47.14
-PECOS,State Senator,19,Carlos I. Uresti,False,DEM,1588,52.86
-PECOS,State Senator,19,Total,,,3004,
+PECOS,State Senate,19,Dick Bowen,False,REP,1416,47.14
+PECOS,State Senate,19,Carlos I. Uresti,False,DEM,1588,52.86
+PECOS,State Senate,19,Total,,,3004,
 PECOS,State Representative,74,Pete P. Gallego,True,DEM,2349,100.00
 PECOS,State Representative,74,Total,,,2349,
 PECOS,Justice 8th Court of Appeals District,2,Ann Crawford McClure,True,DEM,2038,100.00
@@ -15666,8 +15666,8 @@ POLK,Judge Court of Criminal Appeals,7,Total,,,9052,
 POLK,Judge Court of Criminal Appeals,8,Charles Holcomb,True,REP,6946,76.62
 POLK,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,2119,23.38
 POLK,Judge Court of Criminal Appeals,8,Total,,,9065,
-POLK,State Senator,3,Robert Nichols,False,REP,7473,100.00
-POLK,State Senator,3,Total,,,7473,
+POLK,State Senate,3,Robert Nichols,False,REP,7473,100.00
+POLK,State Senate,3,Total,,,7473,
 POLK,State Representative,18,John  Otto,True,REP,7281,75.99
 POLK,State Representative,18,Kris Overstreet,False,LIB,2300,24.01
 POLK,State Representative,18,Total,,,9581,
@@ -15828,9 +15828,9 @@ PRESIDIO,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,303,51.01
 PRESIDIO,Judge Court of Criminal Appeals,8,Total,,,594,
 PRESIDIO,Member State Board of Education,1,René  Nuñez,True,DEM,693,100.00
 PRESIDIO,Member State Board of Education,1,Total,,,693,
-PRESIDIO,State Senator,19,Dick Bowen,False,REP,240,27.27
-PRESIDIO,State Senator,19,Carlos I. Uresti,False,DEM,640,72.73
-PRESIDIO,State Senator,19,Total,,,880,
+PRESIDIO,State Senate,19,Dick Bowen,False,REP,240,27.27
+PRESIDIO,State Senate,19,Carlos I. Uresti,False,DEM,640,72.73
+PRESIDIO,State Senate,19,Total,,,880,
 PRESIDIO,State Representative,74,Pete P. Gallego,True,DEM,777,100.00
 PRESIDIO,State Representative,74,Total,,,777,
 PRESIDIO,Justice 8th Court of Appeals District,2,Ann Crawford McClure,True,DEM,671,100.00
@@ -15905,9 +15905,9 @@ RAINS,Judge Court of Criminal Appeals,8,Total,,,2238,
 RAINS,Member State Board of Education,9,Don McLeroy,True,REP,1448,56.30
 RAINS,Member State Board of Education,9,Maggie Charleton,False,DEM,1124,43.70
 RAINS,Member State Board of Education,9,Total,,,2572,
-RAINS,State Senator,2,Bob Deuell,True,REP,1773,75.25
-RAINS,State Senator,2,Dennis Kaptain,False,LIB,583,24.75
-RAINS,State Senator,2,Total,,,2356,
+RAINS,State Senate,2,Bob Deuell,True,REP,1773,75.25
+RAINS,State Senate,2,Dennis Kaptain,False,LIB,583,24.75
+RAINS,State Senate,2,Total,,,2356,
 RAINS,State Representative,2,Dan Flynn,True,REP,1489,54.58
 RAINS,State Representative,2,Scott Cornuaud,False,DEM,1103,40.43
 RAINS,State Representative,2,Dawn M. Childs,False,LIB,136,4.99
@@ -16140,9 +16140,9 @@ REAL,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,157,17.27
 REAL,Judge Court of Criminal Appeals,8,Total,,,909,
 REAL,Member State Board of Education,1,René  Nuñez,True,DEM,414,100.00
 REAL,Member State Board of Education,1,Total,,,414,
-REAL,State Senator,19,Dick Bowen,False,REP,709,70.55
-REAL,State Senator,19,Carlos I. Uresti,False,DEM,296,29.45
-REAL,State Senator,19,Total,,,1005,
+REAL,State Senate,19,Dick Bowen,False,REP,709,70.55
+REAL,State Senate,19,Carlos I. Uresti,False,DEM,296,29.45
+REAL,State Senate,19,Total,,,1005,
 REAL,State Representative,53,Harvey Hilderbran,True,REP,817,85.10
 REAL,State Representative,53,B.W. Holk,False,LIB,143,14.90
 REAL,State Representative,53,Total,,,960,
@@ -16228,9 +16228,9 @@ RED RIVER,Judge Court of Criminal Appeals,8,Total,,,2239,
 RED RIVER,Member State Board of Education,9,Don McLeroy,True,REP,1313,43.45
 RED RIVER,Member State Board of Education,9,Maggie Charleton,False,DEM,1709,56.55
 RED RIVER,Member State Board of Education,9,Total,,,3022,
-RED RIVER,State Senator,1,Kevin P. Eltife,True,REP,1716,73.87
-RED RIVER,State Senator,1,Jason Albers,False,LIB,607,26.13
-RED RIVER,State Senator,1,Total,,,2323,
+RED RIVER,State Senate,1,Kevin P. Eltife,True,REP,1716,73.87
+RED RIVER,State Senate,1,Jason Albers,False,LIB,607,26.13
+RED RIVER,State Senate,1,Total,,,2323,
 RED RIVER,State Representative,3,Kirby Hollingsworth,False,REP,1253,37.45
 RED RIVER,State Representative,3,Mark S. Homer,True,DEM,2093,62.55
 RED RIVER,State Representative,3,Total,,,3346,
@@ -16302,9 +16302,9 @@ REEVES,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,406,30.92
 REEVES,Judge Court of Criminal Appeals,8,Total,,,1313,
 REEVES,Member State Board of Education,1,René  Nuñez,True,DEM,1422,100.00
 REEVES,Member State Board of Education,1,Total,,,1422,
-REEVES,State Senator,19,Dick Bowen,False,REP,646,32.41
-REEVES,State Senator,19,Carlos I. Uresti,False,DEM,1347,67.59
-REEVES,State Senator,19,Total,,,1993,
+REEVES,State Senate,19,Dick Bowen,False,REP,646,32.41
+REEVES,State Senate,19,Carlos I. Uresti,False,DEM,1347,67.59
+REEVES,State Senate,19,Total,,,1993,
 REEVES,State Representative,74,Pete P. Gallego,True,DEM,1565,100.00
 REEVES,State Representative,74,Total,,,1565,
 REEVES,Justice 8th Court of Appeals District,2,Ann Crawford McClure,True,DEM,1386,100.00
@@ -16372,9 +16372,9 @@ REFUGIO,Judge Court of Criminal Appeals,7,Total,,,1376,
 REFUGIO,Judge Court of Criminal Appeals,8,Charles Holcomb,True,REP,1098,80.20
 REFUGIO,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,271,19.80
 REFUGIO,Judge Court of Criminal Appeals,8,Total,,,1369,
-REFUGIO,State Senator,18,Glenn Hegar,False,REP,1087,78.31
-REFUGIO,State Senator,18,"Roy O. Wright, II",False,LIB,301,21.69
-REFUGIO,State Senator,18,Total,,,1388,
+REFUGIO,State Senate,18,Glenn Hegar,False,REP,1087,78.31
+REFUGIO,State Senate,18,"Roy O. Wright, II",False,LIB,301,21.69
+REFUGIO,State Senate,18,Total,,,1388,
 REFUGIO,State Representative,30,Geanie W. Morrison,True,REP,1245,100.00
 REFUGIO,State Representative,30,Total,,,1245,
 REFUGIO,"Chief Justice, 13th Court of Appeals District",,Roy Valdez,True,DEM,1187,100.00
@@ -16541,10 +16541,10 @@ ROBERTSON,Judge Court of Criminal Appeals,8,Total,,,3209,
 ROBERTSON,Member State Board of Education,9,Don McLeroy,True,REP,1975,42.25
 ROBERTSON,Member State Board of Education,9,Maggie Charleton,False,DEM,2700,57.75
 ROBERTSON,Member State Board of Education,9,Total,,,4675,
-ROBERTSON,State Senator,5,Steve  Ogden,True,REP,2542,51.68
-ROBERTSON,State Senator,5,Stephen Wyman,False,DEM,2294,46.64
-ROBERTSON,State Senator,5,Darrell R. Grear,False,LIB,83,1.69
-ROBERTSON,State Senator,5,Total,,,4919,
+ROBERTSON,State Senate,5,Steve  Ogden,True,REP,2542,51.68
+ROBERTSON,State Senate,5,Stephen Wyman,False,DEM,2294,46.64
+ROBERTSON,State Senate,5,Darrell R. Grear,False,LIB,83,1.69
+ROBERTSON,State Senate,5,Total,,,4919,
 ROBERTSON,State Representative,57,Jim  Dunnam,True,DEM,3721,87.37
 ROBERTSON,State Representative,57,Neill Snider,False,LIB,538,12.63
 ROBERTSON,State Representative,57,Total,,,4259,
@@ -16620,9 +16620,9 @@ ROCKWALL,Judge Court of Criminal Appeals,8,Total,,,13398,
 ROCKWALL,Member State Board of Education,12,Geraldine 'Tincy'  Miller,True,REP,11209,83.70
 ROCKWALL,Member State Board of Education,12,Matthew Havener,False,LIB,2183,16.30
 ROCKWALL,Member State Board of Education,12,Total,,,13392,
-ROCKWALL,State Senator,2,Bob Deuell,True,REP,11595,83.76
-ROCKWALL,State Senator,2,Dennis Kaptain,False,LIB,2248,16.24
-ROCKWALL,State Senator,2,Total,,,13843,
+ROCKWALL,State Senate,2,Bob Deuell,True,REP,11595,83.76
+ROCKWALL,State Senate,2,Dennis Kaptain,False,LIB,2248,16.24
+ROCKWALL,State Senate,2,Total,,,13843,
 ROCKWALL,State Representative,89,Jodie Laubenberg,True,REP,11028,73.13
 ROCKWALL,State Representative,89,Lehman Harris,False,DEM,3496,23.18
 ROCKWALL,State Representative,89,Helen Rhine,False,LIB,555,3.68
@@ -16791,9 +16791,9 @@ RUSK,Judge Court of Criminal Appeals,7,Total,,,9049,
 RUSK,Judge Court of Criminal Appeals,8,Charles Holcomb,True,REP,7621,84.04
 RUSK,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,1447,15.96
 RUSK,Judge Court of Criminal Appeals,8,Total,,,9068,
-RUSK,State Senator,1,Kevin P. Eltife,True,REP,8257,85.45
-RUSK,State Senator,1,Jason Albers,False,LIB,1406,14.55
-RUSK,State Senator,1,Total,,,9663,
+RUSK,State Senate,1,Kevin P. Eltife,True,REP,8257,85.45
+RUSK,State Senate,1,Jason Albers,False,LIB,1406,14.55
+RUSK,State Senate,1,Total,,,9663,
 RUSK,State Representative,11,Larry K. Durrett,False,REP,5929,50.84
 RUSK,State Representative,11,Chuck Hopson,True,DEM,5363,45.99
 RUSK,State Representative,11,Paul (Blue) Story,False,LIB,369,3.16
@@ -16870,8 +16870,8 @@ SABINE,Judge Court of Criminal Appeals,7,Total,,,2386,
 SABINE,Judge Court of Criminal Appeals,8,Charles Holcomb,True,REP,1854,77.41
 SABINE,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,541,22.59
 SABINE,Judge Court of Criminal Appeals,8,Total,,,2395,
-SABINE,State Senator,3,Robert Nichols,False,REP,2003,100.00
-SABINE,State Senator,3,Total,,,2003,
+SABINE,State Senate,3,Robert Nichols,False,REP,2003,100.00
+SABINE,State Senate,3,Total,,,2003,
 SABINE,State Representative,9,Wayne Christian,False,REP,2040,100.00
 SABINE,State Representative,9,Total,,,2040,
 SABINE,Justice 12th Court of Appeals District,2  Unexpired Term,Brian Hoyle,False,REP,1945,100.00
@@ -16945,8 +16945,8 @@ SAN AUGUSTINE,Judge Court of Criminal Appeals,7,Total,,,1632,
 SAN AUGUSTINE,Judge Court of Criminal Appeals,8,Charles Holcomb,True,REP,1180,72.66
 SAN AUGUSTINE,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,444,27.34
 SAN AUGUSTINE,Judge Court of Criminal Appeals,8,Total,,,1624,
-SAN AUGUSTINE,State Senator,3,Robert Nichols,False,REP,1378,100.00
-SAN AUGUSTINE,State Senator,3,Total,,,1378,
+SAN AUGUSTINE,State Senate,3,Robert Nichols,False,REP,1378,100.00
+SAN AUGUSTINE,State Senate,3,Total,,,1378,
 SAN AUGUSTINE,State Representative,9,Wayne Christian,False,REP,1443,100.00
 SAN AUGUSTINE,State Representative,9,Total,,,1443,
 SAN AUGUSTINE,Justice 12th Court of Appeals District,2  Unexpired Term,Brian Hoyle,False,REP,1333,100.00
@@ -17019,8 +17019,8 @@ SAN JACINTO,Judge Court of Criminal Appeals,7,Total,,,4852,
 SAN JACINTO,Judge Court of Criminal Appeals,8,Charles Holcomb,True,REP,3742,77.17
 SAN JACINTO,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,1107,22.83
 SAN JACINTO,Judge Court of Criminal Appeals,8,Total,,,4849,
-SAN JACINTO,State Senator,3,Robert Nichols,False,REP,4053,100.00
-SAN JACINTO,State Senator,3,Total,,,4053,
+SAN JACINTO,State Senate,3,Robert Nichols,False,REP,4053,100.00
+SAN JACINTO,State Senate,3,Total,,,4053,
 SAN JACINTO,State Representative,12,Jody Anderson,False,REP,2790,44.47
 SAN JACINTO,State Representative,12,Jim McReynolds,True,DEM,3270,52.12
 SAN JACINTO,State Representative,12,Donald B. Keith,False,LIB,214,3.41
@@ -17497,8 +17497,8 @@ SHELBY,Judge Court of Criminal Appeals,7,Total,,,4424,
 SHELBY,Judge Court of Criminal Appeals,8,Charles Holcomb,True,REP,3587,80.52
 SHELBY,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,868,19.48
 SHELBY,Judge Court of Criminal Appeals,8,Total,,,4455,
-SHELBY,State Senator,3,Robert Nichols,False,REP,3871,100.00
-SHELBY,State Senator,3,Total,,,3871,
+SHELBY,State Senate,3,Robert Nichols,False,REP,3871,100.00
+SHELBY,State Senate,3,Total,,,3871,
 SHELBY,State Representative,9,Wayne Christian,False,REP,4040,100.00
 SHELBY,State Representative,9,Total,,,4040,
 SHELBY,Justice 12th Court of Appeals District,2  Unexpired Term,Brian Hoyle,False,REP,3688,100.00
@@ -17650,14 +17650,14 @@ SMITH,Judge Court of Criminal Appeals,7,Total,,,35509,
 SMITH,Judge Court of Criminal Appeals,8,Charles Holcomb,True,REP,30818,86.46
 SMITH,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,4825,13.54
 SMITH,Judge Court of Criminal Appeals,8,Total,,,35643,
-SMITH,State Senator,1,Kevin P. Eltife,True,REP,22451,89.19
-SMITH,State Senator,1,Jason Albers,False,LIB,2722,10.81
-SMITH,State Senator,1,Total,,,25173,
-SMITH,State Senator,2,Bob Deuell,True,REP,1846,71.69
-SMITH,State Senator,2,Dennis Kaptain,False,LIB,729,28.31
-SMITH,State Senator,2,Total,,,2575,
-SMITH,State Senator,3,Robert Nichols,False,REP,8053,100.00
-SMITH,State Senator,3,Total,,,8053,
+SMITH,State Senate,1,Kevin P. Eltife,True,REP,22451,89.19
+SMITH,State Senate,1,Jason Albers,False,LIB,2722,10.81
+SMITH,State Senate,1,Total,,,25173,
+SMITH,State Senate,2,Bob Deuell,True,REP,1846,71.69
+SMITH,State Senate,2,Dennis Kaptain,False,LIB,729,28.31
+SMITH,State Senate,2,Total,,,2575,
+SMITH,State Senate,3,Robert Nichols,False,REP,8053,100.00
+SMITH,State Senate,3,Total,,,8053,
 SMITH,State Representative,6,Leo  Berman,True,REP,25496,100.00
 SMITH,State Representative,6,Total,,,25496,
 SMITH,State Representative,7,Tommy Merritt,True,REP,5868,70.22
@@ -17739,9 +17739,9 @@ SOMERVELL,Judge Court of Criminal Appeals,7,Total,,,2032,
 SOMERVELL,Judge Court of Criminal Appeals,8,Charles Holcomb,True,REP,1626,80.61
 SOMERVELL,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,391,19.39
 SOMERVELL,Judge Court of Criminal Appeals,8,Total,,,2017,
-SOMERVELL,State Senator,22,Kip Averitt,True,REP,1730,81.30
-SOMERVELL,State Senator,22,Phil Smart,False,LIB,398,18.70
-SOMERVELL,State Senator,22,Total,,,2128,
+SOMERVELL,State Senate,22,Kip Averitt,True,REP,1730,81.30
+SOMERVELL,State Senate,22,Phil Smart,False,LIB,398,18.70
+SOMERVELL,State Senate,22,Total,,,2128,
 SOMERVELL,State Representative,59,Sid Miller,True,REP,1592,65.41
 SOMERVELL,State Representative,59,Ernie Casbeer,False,DEM,842,34.59
 SOMERVELL,State Representative,59,Total,,,2434,
@@ -18132,9 +18132,9 @@ SUTTON,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,138,15.79
 SUTTON,Judge Court of Criminal Appeals,8,Total,,,874,
 SUTTON,Member State Board of Education,1,René  Nuñez,True,DEM,591,100.00
 SUTTON,Member State Board of Education,1,Total,,,591,
-SUTTON,State Senator,19,Dick Bowen,False,REP,675,65.66
-SUTTON,State Senator,19,Carlos I. Uresti,False,DEM,353,34.34
-SUTTON,State Senator,19,Total,,,1028,
+SUTTON,State Senate,19,Dick Bowen,False,REP,675,65.66
+SUTTON,State Senate,19,Carlos I. Uresti,False,DEM,353,34.34
+SUTTON,State Senate,19,Total,,,1028,
 SUTTON,State Representative,53,Harvey Hilderbran,True,REP,785,87.42
 SUTTON,State Representative,53,B.W. Holk,False,LIB,113,12.58
 SUTTON,State Representative,53,Total,,,898,
@@ -18312,10 +18312,10 @@ TARRANT,Judge Court of Criminal Appeals,7,Total,,,249382,
 TARRANT,Judge Court of Criminal Appeals,8,Charles Holcomb,True,REP,191933,77.42
 TARRANT,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,55992,22.58
 TARRANT,Judge Court of Criminal Appeals,8,Total,,,247925,
-TARRANT,State Senator,12,Jane Nelson,True,REP,80419,62.24
-TARRANT,State Senator,12,Dwight B. Fullingim,False,DEM,43926,34.00
-TARRANT,State Senator,12,Morgan Ware,False,LIB,4867,3.77
-TARRANT,State Senator,12,Total,,,129212,
+TARRANT,State Senate,12,Jane Nelson,True,REP,80419,62.24
+TARRANT,State Senate,12,Dwight B. Fullingim,False,DEM,43926,34.00
+TARRANT,State Senate,12,Morgan Ware,False,LIB,4867,3.77
+TARRANT,State Senate,12,Total,,,129212,
 TARRANT,State Representative,90,Lon Burnam,True,DEM,9650,86.43
 TARRANT,State Representative,90,Rod Wingo,False,LIB,1515,13.57
 TARRANT,State Representative,90,Total,,,11165,
@@ -18535,9 +18535,9 @@ TERRELL,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,111,30.58
 TERRELL,Judge Court of Criminal Appeals,8,Total,,,363,
 TERRELL,Member State Board of Education,1,René  Nuñez,True,DEM,332,100.00
 TERRELL,Member State Board of Education,1,Total,,,332,
-TERRELL,State Senator,19,Dick Bowen,False,REP,222,45.59
-TERRELL,State Senator,19,Carlos I. Uresti,False,DEM,265,54.41
-TERRELL,State Senator,19,Total,,,487,
+TERRELL,State Senate,19,Dick Bowen,False,REP,222,45.59
+TERRELL,State Senate,19,Carlos I. Uresti,False,DEM,265,54.41
+TERRELL,State Senate,19,Total,,,487,
 TERRELL,State Representative,74,Pete P. Gallego,True,DEM,425,100.00
 TERRELL,State Representative,74,Total,,,425,
 TERRELL,Justice 8th Court of Appeals District,2,Ann Crawford McClure,True,DEM,339,100.00
@@ -18770,9 +18770,9 @@ TITUS,Judge Court of Criminal Appeals,8,Total,,,4391,
 TITUS,Member State Board of Education,9,Don McLeroy,True,REP,2777,50.69
 TITUS,Member State Board of Education,9,Maggie Charleton,False,DEM,2701,49.31
 TITUS,Member State Board of Education,9,Total,,,5478,
-TITUS,State Senator,1,Kevin P. Eltife,True,REP,3588,78.07
-TITUS,State Senator,1,Jason Albers,False,LIB,1008,21.93
-TITUS,State Senator,1,Total,,,4596,
+TITUS,State Senate,1,Kevin P. Eltife,True,REP,3588,78.07
+TITUS,State Senate,1,Jason Albers,False,LIB,1008,21.93
+TITUS,State Senate,1,Total,,,4596,
 TITUS,State Representative,3,Kirby Hollingsworth,False,REP,2446,41.96
 TITUS,State Representative,3,Mark S. Homer,True,DEM,3384,58.04
 TITUS,State Representative,3,Total,,,5830,
@@ -18933,13 +18933,13 @@ TRAVIS,Member State Board of Education,5,Total,,,76416,
 TRAVIS,Member State Board of Education,10,Cynthia Dunbar,False,REP,55212,54.76
 TRAVIS,Member State Board of Education,10,Martin Thomen,False,LIB,45612,45.24
 TRAVIS,Member State Board of Education,10,Total,,,100824,
-TRAVIS,State Senator,14,Kirk Watson,False,DEM,127223,80.32
-TRAVIS,State Senator,14,"Robert ""Rock"" Howard",False,LIB,31180,19.68
-TRAVIS,State Senator,14,Total,,,158403,
-TRAVIS,State Senator,25,Jeff Wentworth,True,REP,15115,35.86
-TRAVIS,State Senator,25,"Kathleen ""Kathi""  Thomas",False,DEM,24720,58.65
-TRAVIS,State Senator,25,James R. (Bob) Thompson,False,LIB,2310,5.48
-TRAVIS,State Senator,25,Total,,,42145,
+TRAVIS,State Senate,14,Kirk Watson,False,DEM,127223,80.32
+TRAVIS,State Senate,14,"Robert ""Rock"" Howard",False,LIB,31180,19.68
+TRAVIS,State Senate,14,Total,,,158403,
+TRAVIS,State Senate,25,Jeff Wentworth,True,REP,15115,35.86
+TRAVIS,State Senate,25,"Kathleen ""Kathi""  Thomas",False,DEM,24720,58.65
+TRAVIS,State Senate,25,James R. (Bob) Thompson,False,LIB,2310,5.48
+TRAVIS,State Senate,25,Total,,,42145,
 TRAVIS,State Representative,46,Dawnna Dukes,True,DEM,17343,85.34
 TRAVIS,State Representative,46,Richard Wedeikes,False,LIB,2980,14.66
 TRAVIS,State Representative,46,Total,,,20323,
@@ -19058,10 +19058,10 @@ TRINITY,Judge Court of Criminal Appeals,7,Total,,,3086,
 TRINITY,Judge Court of Criminal Appeals,8,Charles Holcomb,True,REP,2255,73.52
 TRINITY,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,812,26.48
 TRINITY,Judge Court of Criminal Appeals,8,Total,,,3067,
-TRINITY,State Senator,5,Steve  Ogden,True,REP,2127,52.26
-TRINITY,State Senator,5,Stephen Wyman,False,DEM,1831,44.99
-TRINITY,State Senator,5,Darrell R. Grear,False,LIB,112,2.75
-TRINITY,State Senator,5,Total,,,4070,
+TRINITY,State Senate,5,Steve  Ogden,True,REP,2127,52.26
+TRINITY,State Senate,5,Stephen Wyman,False,DEM,1831,44.99
+TRINITY,State Senate,5,Darrell R. Grear,False,LIB,112,2.75
+TRINITY,State Senate,5,Total,,,4070,
 TRINITY,State Representative,12,Jody Anderson,False,REP,1402,33.59
 TRINITY,State Representative,12,Jim McReynolds,True,DEM,2655,63.61
 TRINITY,State Representative,12,Donald B. Keith,False,LIB,117,2.80
@@ -19137,8 +19137,8 @@ TYLER,Judge Court of Criminal Appeals,7,Total,,,3949,
 TYLER,Judge Court of Criminal Appeals,8,Charles Holcomb,True,REP,2913,73.92
 TYLER,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,1028,26.08
 TYLER,Judge Court of Criminal Appeals,8,Total,,,3941,
-TYLER,State Senator,3,Robert Nichols,False,REP,3172,100.00
-TYLER,State Senator,3,Total,,,3172,
+TYLER,State Senate,3,Robert Nichols,False,REP,3172,100.00
+TYLER,State Senate,3,Total,,,3172,
 TYLER,State Representative,12,Jody Anderson,False,REP,2120,41.37
 TYLER,State Representative,12,Jim McReynolds,True,DEM,2858,55.77
 TYLER,State Representative,12,Donald B. Keith,False,LIB,147,2.87
@@ -19219,9 +19219,9 @@ UPSHUR,Judge Court of Criminal Appeals,8,Total,,,7503,
 UPSHUR,Member State Board of Education,9,Don McLeroy,True,REP,5222,59.03
 UPSHUR,Member State Board of Education,9,Maggie Charleton,False,DEM,3624,40.97
 UPSHUR,Member State Board of Education,9,Total,,,8846,
-UPSHUR,State Senator,1,Kevin P. Eltife,True,REP,6572,83.32
-UPSHUR,State Senator,1,Jason Albers,False,LIB,1316,16.68
-UPSHUR,State Senator,1,Total,,,7888,
+UPSHUR,State Senate,1,Kevin P. Eltife,True,REP,6572,83.32
+UPSHUR,State Senate,1,Jason Albers,False,LIB,1316,16.68
+UPSHUR,State Senate,1,Total,,,7888,
 UPSHUR,State Representative,5,Bryan Hughes,True,REP,6405,82.42
 UPSHUR,State Representative,5,Tim Carmichael,False,LIB,1366,17.58
 UPSHUR,State Representative,5,Total,,,7771,
@@ -19373,9 +19373,9 @@ UVALDE,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,1073,25.68
 UVALDE,Judge Court of Criminal Appeals,8,Total,,,4179,
 UVALDE,Member State Board of Education,1,René  Nuñez,True,DEM,3251,100.00
 UVALDE,Member State Board of Education,1,Total,,,3251,
-UVALDE,State Senator,19,Dick Bowen,False,REP,2655,51.64
-UVALDE,State Senator,19,Carlos I. Uresti,False,DEM,2486,48.36
-UVALDE,State Senator,19,Total,,,5141,
+UVALDE,State Senate,19,Dick Bowen,False,REP,2655,51.64
+UVALDE,State Senate,19,Carlos I. Uresti,False,DEM,2486,48.36
+UVALDE,State Senate,19,Total,,,5141,
 UVALDE,State Representative,74,Pete P. Gallego,True,DEM,3428,100.00
 UVALDE,State Representative,74,Total,,,3428,
 UVALDE,Justice 4th Court of Appeals District,2,Catherine Stone,True,DEM,3321,100.00
@@ -19455,9 +19455,9 @@ VAL VERDE,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,1460,27.78
 VAL VERDE,Judge Court of Criminal Appeals,8,Total,,,5255,
 VAL VERDE,Member State Board of Education,1,René  Nuñez,True,DEM,5041,100.00
 VAL VERDE,Member State Board of Education,1,Total,,,5041,
-VAL VERDE,State Senator,19,Dick Bowen,False,REP,2810,40.20
-VAL VERDE,State Senator,19,Carlos I. Uresti,False,DEM,4180,59.80
-VAL VERDE,State Senator,19,Total,,,6990,
+VAL VERDE,State Senate,19,Dick Bowen,False,REP,2810,40.20
+VAL VERDE,State Senate,19,Carlos I. Uresti,False,DEM,4180,59.80
+VAL VERDE,State Senate,19,Total,,,6990,
 VAL VERDE,State Representative,74,Pete P. Gallego,True,DEM,5591,100.00
 VAL VERDE,State Representative,74,Total,,,5591,
 VAL VERDE,Justice 4th Court of Appeals District,2,Catherine Stone,True,DEM,5106,100.00
@@ -19545,9 +19545,9 @@ VAN ZANDT,Judge Court of Criminal Appeals,8,Total,,,9995,
 VAN ZANDT,Member State Board of Education,9,Don McLeroy,True,REP,7096,61.66
 VAN ZANDT,Member State Board of Education,9,Maggie Charleton,False,DEM,4413,38.34
 VAN ZANDT,Member State Board of Education,9,Total,,,11509,
-VAN ZANDT,State Senator,2,Bob Deuell,True,REP,8313,80.14
-VAN ZANDT,State Senator,2,Dennis Kaptain,False,LIB,2060,19.86
-VAN ZANDT,State Senator,2,Total,,,10373,
+VAN ZANDT,State Senate,2,Bob Deuell,True,REP,8313,80.14
+VAN ZANDT,State Senate,2,Dennis Kaptain,False,LIB,2060,19.86
+VAN ZANDT,State Senate,2,Total,,,10373,
 VAN ZANDT,State Representative,2,Dan Flynn,True,REP,7612,62.92
 VAN ZANDT,State Representative,2,Scott Cornuaud,False,DEM,3964,32.77
 VAN ZANDT,State Representative,2,Dawn M. Childs,False,LIB,522,4.31
@@ -19624,9 +19624,9 @@ VICTORIA,Judge Court of Criminal Appeals,7,Total,,,14845,
 VICTORIA,Judge Court of Criminal Appeals,8,Charles Holcomb,True,REP,11889,83.15
 VICTORIA,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,2410,16.85
 VICTORIA,Judge Court of Criminal Appeals,8,Total,,,14299,
-VICTORIA,State Senator,18,Glenn Hegar,False,REP,12207,83.72
-VICTORIA,State Senator,18,"Roy O. Wright, II",False,LIB,2373,16.28
-VICTORIA,State Senator,18,Total,,,14580,
+VICTORIA,State Senate,18,Glenn Hegar,False,REP,12207,83.72
+VICTORIA,State Senate,18,"Roy O. Wright, II",False,LIB,2373,16.28
+VICTORIA,State Senate,18,Total,,,14580,
 VICTORIA,State Representative,30,Geanie W. Morrison,True,REP,14509,100.00
 VICTORIA,State Representative,30,Total,,,14509,
 VICTORIA,"Chief Justice, 13th Court of Appeals District",,Roy Valdez,True,DEM,10055,100.00
@@ -19713,10 +19713,10 @@ WALKER,Judge Court of Criminal Appeals,8,Total,,,8943,
 WALKER,Member State Board of Education,9,Don McLeroy,True,REP,5860,56.57
 WALKER,Member State Board of Education,9,Maggie Charleton,False,DEM,4499,43.43
 WALKER,Member State Board of Education,9,Total,,,10359,
-WALKER,State Senator,5,Steve  Ogden,True,REP,6816,62.97
-WALKER,State Senator,5,Stephen Wyman,False,DEM,3597,33.23
-WALKER,State Senator,5,Darrell R. Grear,False,LIB,411,3.80
-WALKER,State Senator,5,Total,,,10824,
+WALKER,State Senate,5,Steve  Ogden,True,REP,6816,62.97
+WALKER,State Senate,5,Stephen Wyman,False,DEM,3597,33.23
+WALKER,State Senate,5,Darrell R. Grear,False,LIB,411,3.80
+WALKER,State Senate,5,Total,,,10824,
 WALKER,State Representative,13,Lois W. Kolkhorst,True,REP,7612,80.13
 WALKER,State Representative,13,Charles Stigall,False,LIB,1887,19.87
 WALKER,State Representative,13,Total,,,9499,
@@ -19794,9 +19794,9 @@ WALLER,Judge Court of Criminal Appeals,8,Total,,,6217,
 WALLER,Member State Board of Education,10,Cynthia Dunbar,False,REP,5010,79.82
 WALLER,Member State Board of Education,10,Martin Thomen,False,LIB,1267,20.18
 WALLER,Member State Board of Education,10,Total,,,6277,
-WALLER,State Senator,18,Glenn Hegar,False,REP,5273,80.79
-WALLER,State Senator,18,"Roy O. Wright, II",False,LIB,1254,19.21
-WALLER,State Senator,18,Total,,,6527,
+WALLER,State Senate,18,Glenn Hegar,False,REP,5273,80.79
+WALLER,State Senate,18,"Roy O. Wright, II",False,LIB,1254,19.21
+WALLER,State Senate,18,Total,,,6527,
 WALLER,State Representative,28,John Zerwas,False,REP,4433,56.61
 WALLER,State Representative,28,Dorothy Bottos,False,DEM,3398,43.39
 WALLER,State Representative,28,Total,,,7831,
@@ -19892,9 +19892,9 @@ WARD,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,314,19.28
 WARD,Judge Court of Criminal Appeals,8,Total,,,1629,
 WARD,Member State Board of Education,1,René  Nuñez,True,DEM,1179,100.00
 WARD,Member State Board of Education,1,Total,,,1179,
-WARD,State Senator,19,Dick Bowen,False,REP,1199,60.49
-WARD,State Senator,19,Carlos I. Uresti,False,DEM,783,39.51
-WARD,State Senator,19,Total,,,1982,
+WARD,State Senate,19,Dick Bowen,False,REP,1199,60.49
+WARD,State Senate,19,Carlos I. Uresti,False,DEM,783,39.51
+WARD,State Senate,19,Total,,,1982,
 WARD,State Representative,74,Pete P. Gallego,True,DEM,1394,100.00
 WARD,State Representative,74,Total,,,1394,
 WARD,Justice 8th Court of Appeals District,2,Ann Crawford McClure,True,DEM,1457,100.00
@@ -19969,9 +19969,9 @@ WASHINGTON,Judge Court of Criminal Appeals,8,Total,,,7639,
 WASHINGTON,Member State Board of Education,10,Cynthia Dunbar,False,REP,6466,83.79
 WASHINGTON,Member State Board of Education,10,Martin Thomen,False,LIB,1251,16.21
 WASHINGTON,Member State Board of Education,10,Total,,,7717,
-WASHINGTON,State Senator,18,Glenn Hegar,False,REP,6598,84.01
-WASHINGTON,State Senator,18,"Roy O. Wright, II",False,LIB,1256,15.99
-WASHINGTON,State Senator,18,Total,,,7854,
+WASHINGTON,State Senate,18,Glenn Hegar,False,REP,6598,84.01
+WASHINGTON,State Senate,18,"Roy O. Wright, II",False,LIB,1256,15.99
+WASHINGTON,State Senate,18,Total,,,7854,
 WASHINGTON,State Representative,13,Lois W. Kolkhorst,True,REP,7128,85.56
 WASHINGTON,State Representative,13,Charles Stigall,False,LIB,1203,14.44
 WASHINGTON,State Representative,13,Total,,,8331,
@@ -20146,9 +20146,9 @@ WHARTON,Judge Court of Criminal Appeals,7,Total,,,6602,
 WHARTON,Judge Court of Criminal Appeals,8,Charles Holcomb,True,REP,5314,80.47
 WHARTON,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,1290,19.53
 WHARTON,Judge Court of Criminal Appeals,8,Total,,,6604,
-WHARTON,State Senator,18,Glenn Hegar,False,REP,5857,83.31
-WHARTON,State Senator,18,"Roy O. Wright, II",False,LIB,1173,16.69
-WHARTON,State Senator,18,Total,,,7030,
+WHARTON,State Senate,18,Glenn Hegar,False,REP,5857,83.31
+WHARTON,State Senate,18,"Roy O. Wright, II",False,LIB,1173,16.69
+WHARTON,State Senate,18,Total,,,7030,
 WHARTON,State Representative,28,John Zerwas,False,REP,4965,58.50
 WHARTON,State Representative,28,Dorothy Bottos,False,DEM,3522,41.50
 WHARTON,State Representative,28,Total,,,8487,
@@ -20552,10 +20552,10 @@ WILLIAMSON,Judge Court of Criminal Appeals,8,Total,,,70284,
 WILLIAMSON,Member State Board of Education,10,Cynthia Dunbar,False,REP,51917,73.68
 WILLIAMSON,Member State Board of Education,10,Martin Thomen,False,LIB,18550,26.32
 WILLIAMSON,Member State Board of Education,10,Total,,,70467,
-WILLIAMSON,State Senator,5,Steve  Ogden,True,REP,47087,57.93
-WILLIAMSON,State Senator,5,Stephen Wyman,False,DEM,29990,36.90
-WILLIAMSON,State Senator,5,Darrell R. Grear,False,LIB,4206,5.17
-WILLIAMSON,State Senator,5,Total,,,81283,
+WILLIAMSON,State Senate,5,Steve  Ogden,True,REP,47087,57.93
+WILLIAMSON,State Senate,5,Stephen Wyman,False,DEM,29990,36.90
+WILLIAMSON,State Senate,5,Darrell R. Grear,False,LIB,4206,5.17
+WILLIAMSON,State Senate,5,Total,,,81283,
 WILLIAMSON,State Representative,20,Dan M. Gattis,True,REP,28245,64.54
 WILLIAMSON,State Representative,20,Jim Stauber,False,DEM,15519,35.46
 WILLIAMSON,State Representative,20,Total,,,43764,
@@ -20728,9 +20728,9 @@ WINKLER,Judge Court of Criminal Appeals,8,Dave Howard,False,LIB,216,18.15
 WINKLER,Judge Court of Criminal Appeals,8,Total,,,1190,
 WINKLER,Member State Board of Education,1,René  Nuñez,True,DEM,886,100.00
 WINKLER,Member State Board of Education,1,Total,,,886,
-WINKLER,State Senator,19,Dick Bowen,False,REP,941,67.94
-WINKLER,State Senator,19,Carlos I. Uresti,False,DEM,444,32.06
-WINKLER,State Senator,19,Total,,,1385,
+WINKLER,State Senate,19,Dick Bowen,False,REP,941,67.94
+WINKLER,State Senate,19,Carlos I. Uresti,False,DEM,444,32.06
+WINKLER,State Senate,19,Total,,,1385,
 WINKLER,State Representative,81,"G.E. ""Buddy"" West",True,REP,1084,83.13
 WINKLER,State Representative,81,Billy Grimes,False,LIB,220,16.87
 WINKLER,State Representative,81,Total,,,1304,
@@ -20886,9 +20886,9 @@ WOOD,Judge Court of Criminal Appeals,8,Total,,,9386,
 WOOD,Member State Board of Education,9,Don McLeroy,True,REP,6860,64.86
 WOOD,Member State Board of Education,9,Maggie Charleton,False,DEM,3717,35.14
 WOOD,Member State Board of Education,9,Total,,,10577,
-WOOD,State Senator,1,Kevin P. Eltife,True,REP,8305,84.55
-WOOD,State Senator,1,Jason Albers,False,LIB,1518,15.45
-WOOD,State Senator,1,Total,,,9823,
+WOOD,State Senate,1,Kevin P. Eltife,True,REP,8305,84.55
+WOOD,State Senate,1,Jason Albers,False,LIB,1518,15.45
+WOOD,State Senate,1,Total,,,9823,
 WOOD,State Representative,5,Bryan Hughes,True,REP,8402,85.04
 WOOD,State Representative,5,Tim Carmichael,False,LIB,1478,14.96
 WOOD,State Representative,5,Total,,,9880,
