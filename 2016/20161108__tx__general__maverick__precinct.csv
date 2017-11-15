@@ -1,0 +1,511 @@
+county,precinct,office,district,candidate,party,early_votes,election_day,votes
+Maverick,1A,Registered Voters,,,,0,0,0
+Maverick,1B,Registered Voters,,,,0,0,0
+Maverick,1C,Registered Voters,,,,0,0,0
+Maverick,2A,Registered Voters,,,,0,0,0
+Maverick,2B,Registered Voters,,,,0,0,0
+Maverick,2C,Registered Voters,,,,0,0,0
+Maverick,2D,Registered Voters,,,,0,0,0
+Maverick,3A,Registered Voters,,,,0,0,0
+Maverick,3B,Registered Voters,,,,0,0,0
+Maverick,3C,Registered Voters,,,,0,0,0
+Maverick,4A,Registered Voters,,,,0,0,0
+Maverick,4B,Registered Voters,,,,0,0,0
+Maverick,4C,Registered Voters,,,,0,0,0
+Maverick,4D,Registered Voters,,,,0,0,0
+Maverick,Total,Registered Voters,,,,0,0,0
+Maverick,1A,Ballots Cast,,,,278,109,387
+Maverick,1B,Ballots Cast,,,,795,439,1234
+Maverick,1C,Ballots Cast,,,,1431,668,2099
+Maverick,2A,Ballots Cast,,,,272,115,387
+Maverick,2B,Ballots Cast,,,,1066,458,1524
+Maverick,2C,Ballots Cast,,,,491,447,938
+Maverick,2D,Ballots Cast,,,,36,56,92
+Maverick,3A,Ballots Cast,,,,1166,402,1568
+Maverick,3B,Ballots Cast,,,,1232,702,1934
+Maverick,3C,Ballots Cast,,,,109,232,341
+Maverick,4A,Ballots Cast,,,,355,130,485
+Maverick,4B,Ballots Cast,,,,996,437,1433
+Maverick,4C,Ballots Cast,,,,390,185,575
+Maverick,4D,Ballots Cast,,,,645,394,1039
+Maverick,Total,Ballots Cast,,,,9262,4774,14036
+Maverick,1A,Straight Party,,,REP,16,11,27
+Maverick,1B,Straight Party,,,REP,79,73,152
+Maverick,1C,Straight Party,,,REP,135,64,199
+Maverick,2A,Straight Party,,,REP,13,7,20
+Maverick,2B,Straight Party,,,REP,88,46,134
+Maverick,2C,Straight Party,,,REP,40,36,76
+Maverick,2D,Straight Party,,,REP,9,9,18
+Maverick,3A,Straight Party,,,REP,93,47,140
+Maverick,3B,Straight Party,,,REP,132,73,205
+Maverick,3C,Straight Party,,,REP,39,24,63
+Maverick,4A,Straight Party,,,REP,11,10,21
+Maverick,4B,Straight Party,,,REP,111,53,164
+Maverick,4C,Straight Party,,,REP,31,11,42
+Maverick,4D,Straight Party,,,REP,48,39,87
+Maverick,Total,Straight Party,,,REP,845,503,1348
+Maverick,1A,Straight Party,,,DEM,140,54,194
+Maverick,1B,Straight Party,,,DEM,347,159,506
+Maverick,1C,Straight Party,,,DEM,701,345,1046
+Maverick,2A,Straight Party,,,DEM,146,63,209
+Maverick,2B,Straight Party,,,DEM,492,224,716
+Maverick,2C,Straight Party,,,DEM,270,245,515
+Maverick,2D,Straight Party,,,DEM,13,18,31
+Maverick,3A,Straight Party,,,DEM,532,153,685
+Maverick,3B,Straight Party,,,DEM,611,301,912
+Maverick,3C,Straight Party,,,DEM,22,67,89
+Maverick,4A,Straight Party,,,DEM,191,55,246
+Maverick,4B,Straight Party,,,DEM,390,191,581
+Maverick,4C,Straight Party,,,DEM,178,82,260
+Maverick,4D,Straight Party,,,DEM,376,214,590
+Maverick,Total,Straight Party,,,DEM,4409,2171,6580
+Maverick,1A,Straight Party,,,LIB,2,4,6
+Maverick,1B,Straight Party,,,LIB,4,3,7
+Maverick,1C,Straight Party,,,LIB,16,14,30
+Maverick,2A,Straight Party,,,LIB,4,0,4
+Maverick,2B,Straight Party,,,LIB,13,8,21
+Maverick,2C,Straight Party,,,LIB,7,11,18
+Maverick,2D,Straight Party,,,LIB,0,0,0
+Maverick,3A,Straight Party,,,LIB,9,5,14
+Maverick,3B,Straight Party,,,LIB,5,9,14
+Maverick,3C,Straight Party,,,LIB,0,4,4
+Maverick,4A,Straight Party,,,LIB,3,1,4
+Maverick,4B,Straight Party,,,LIB,4,1,5
+Maverick,4C,Straight Party,,,LIB,6,7,13
+Maverick,4D,Straight Party,,,LIB,8,10,18
+Maverick,Total,Straight Party,,,LIB,81,77,158
+Maverick,1A,Straight Party,,,GRN,2,2,4
+Maverick,1B,Straight Party,,,GRN,3,1,4
+Maverick,1C,Straight Party,,,GRN,6,4,10
+Maverick,2A,Straight Party,,,GRN,3,0,3
+Maverick,2B,Straight Party,,,GRN,3,3,6
+Maverick,2C,Straight Party,,,GRN,6,9,15
+Maverick,2D,Straight Party,,,GRN,0,0,0
+Maverick,3A,Straight Party,,,GRN,3,2,5
+Maverick,3B,Straight Party,,,GRN,4,5,9
+Maverick,3C,Straight Party,,,GRN,0,2,2
+Maverick,4A,Straight Party,,,GRN,1,2,3
+Maverick,4B,Straight Party,,,GRN,3,4,7
+Maverick,4C,Straight Party,,,GRN,1,1,2
+Maverick,4D,Straight Party,,,GRN,11,5,16
+Maverick,Total,Straight Party,,,GRN,46,40,86
+Maverick,1A,Straight Party,,Over Votes,,160,0,160
+Maverick,1B,Straight Party,,Over Votes,,0,1,1
+Maverick,1C,Straight Party,,Over Votes,,1,1,2
+Maverick,2A,Straight Party,,Over Votes,,0,0,0
+Maverick,2B,Straight Party,,Over Votes,,0,1,1
+Maverick,2C,Straight Party,,Over Votes,,2,1,3
+Maverick,2D,Straight Party,,Over Votes,,0,0,0
+Maverick,3A,Straight Party,,Over Votes,,4,0,4
+Maverick,3B,Straight Party,,Over Votes,,0,1,1
+Maverick,3C,Straight Party,,Over Votes,,0,0,0
+Maverick,4A,Straight Party,,Over Votes,,1,0,1
+Maverick,4B,Straight Party,,Over Votes,,0,1,1
+Maverick,4C,Straight Party,,Over Votes,,1,1,2
+Maverick,4D,Straight Party,,Over Votes,,2,0,2
+Maverick,Total,Straight Party,,Over Votes,,171,7,178
+Maverick,1A,Straight Party,,Under Votes,,116,38,154
+Maverick,1B,Straight Party,,Under Votes,,362,202,564
+Maverick,1C,Straight Party,,Under Votes,,572,240,812
+Maverick,2A,Straight Party,,Under Votes,,106,45,151
+Maverick,2B,Straight Party,,Under Votes,,410,176,586
+Maverick,2C,Straight Party,,Under Votes,,166,145,311
+Maverick,2D,Straight Party,,Under Votes,,14,29,43
+Maverick,3A,Straight Party,,Under Votes,,525,195,720
+Maverick,3B,Straight Party,,Under Votes,,480,313,793
+Maverick,3C,Straight Party,,Under Votes,,48,135,183
+Maverick,4A,Straight Party,,Under Votes,,148,62,210
+Maverick,4B,Straight Party,,Under Votes,,488,187,675
+Maverick,4C,Straight Party,,Under Votes,,173,83,256
+Maverick,4D,Straight Party,,Under Votes,,200,126,326
+Maverick,Total,Straight Party,,Under Votes,,3808,1976,5784
+Maverick,1A,President,,Donald J. Trump,REP,43,15,58
+Maverick,1B,President,,Donald J. Trump,REP,192,131,323
+Maverick,1C,President,,Donald J. Trump,REP,244,109,353
+Maverick,2A,President,,Donald J. Trump,REP,33,15,48
+Maverick,2B,President,,Donald J. Trump,REP,178,98,276
+Maverick,2C,President,,Donald J. Trump,REP,69,70,139
+Maverick,2D,President,,Donald J. Trump,REP,15,21,36
+Maverick,3A,President,,Donald J. Trump,REP,255,106,361
+Maverick,3B,President,,Donald J. Trump,REP,248,152,400
+Maverick,3C,President,,Donald J. Trump,REP,69,87,156
+Maverick,4A,President,,Donald J. Trump,REP,36,21,57
+Maverick,4B,President,,Donald J. Trump,REP,263,121,384
+Maverick,4C,President,,Donald J. Trump,REP,56,33,89
+Maverick,4D,President,,Donald J. Trump,REP,79,57,136
+Maverick,Total,President,,Donald J. Trump,REP,1780,1036,2816
+Maverick,1A,President,,Hillary Clinton,DEM,216,83,299
+Maverick,1B,President,,Hillary Clinton,DEM,571,296,867
+Maverick,1C,President,,Hillary Clinton,DEM,1117,518,1635
+Maverick,2A,President,,Hillary Clinton,DEM,219,95,314
+Maverick,2B,President,,Hillary Clinton,DEM,787,329,1116
+Maverick,2C,President,,Hillary Clinton,DEM,381,339,720
+Maverick,2D,President,,Hillary Clinton,DEM,20,32,52
+Maverick,3A,President,,Hillary Clinton,DEM,845,280,1125
+Maverick,3B,President,,Hillary Clinton,DEM,920,504,1424
+Maverick,3C,President,,Hillary Clinton,DEM,38,131,169
+Maverick,4A,President,,Hillary Clinton,DEM,299,96,395
+Maverick,4B,President,,Hillary Clinton,DEM,689,300,989
+Maverick,4C,President,,Hillary Clinton,DEM,310,140,450
+Maverick,4D,President,,Hillary Clinton,DEM,524,318,842
+Maverick,Total,President,,Hillary Clinton,DEM,6936,3461,10397
+Maverick,1A,President,,Gary Johnson,LIB,2,7,9
+Maverick,1B,President,,Gary Johnson,LIB,15,9,24
+Maverick,1C,President,,Gary Johnson,LIB,25,19,44
+Maverick,2A,President,,Gary Johnson,LIB,6,1,7
+Maverick,2B,President,,Gary Johnson,LIB,14,14,28
+Maverick,2C,President,,Gary Johnson,LIB,14,17,31
+Maverick,2D,President,,Gary Johnson,LIB,0,0,0
+Maverick,3A,President,,Gary Johnson,LIB,23,6,29
+Maverick,3B,President,,Gary Johnson,LIB,20,18,38
+Maverick,3C,President,,Gary Johnson,LIB,2,4,6
+Maverick,4A,President,,Gary Johnson,LIB,2,4,6
+Maverick,4B,President,,Gary Johnson,LIB,20,3,23
+Maverick,4C,President,,Gary Johnson,LIB,3,6,9
+Maverick,4D,President,,Gary Johnson,LIB,6,6,12
+Maverick,Total,President,,Gary Johnson,LIB,152,114,266
+Maverick,1A,President,,Jill Stein,GRN,3,0,3
+Maverick,1B,President,,Jill Stein,GRN,3,2,5
+Maverick,1C,President,,Jill Stein,GRN,11,6,17
+Maverick,2A,President,,Jill Stein,GRN,1,0,1
+Maverick,2B,President,,Jill Stein,GRN,1,9,10
+Maverick,2C,President,,Jill Stein,GRN,8,8,16
+Maverick,2D,President,,Jill Stein,GRN,1,0,1
+Maverick,3A,President,,Jill Stein,GRN,7,4,11
+Maverick,3B,President,,Jill Stein,GRN,4,7,11
+Maverick,3C,President,,Jill Stein,GRN,0,2,2
+Maverick,4A,President,,Jill Stein,GRN,0,3,3
+Maverick,4B,President,,Jill Stein,GRN,9,5,14
+Maverick,4C,President,,Jill Stein,GRN,0,2,2
+Maverick,4D,President,,Jill Stein,GRN,10,3,13
+Maverick,Total,President,,Jill Stein,GRN,58,51,109
+Maverick,1A,President,,Write In,,3,0,3
+Maverick,1B,President,,Write In,,1,0,1
+Maverick,1C,President,,Write In,,10,8,18
+Maverick,2A,President,,Write In,,4,1,5
+Maverick,2B,President,,Write In,,5,1,6
+Maverick,2C,President,,Write In,,8,5,13
+Maverick,2D,President,,Write In,,0,1,1
+Maverick,3A,President,,Write In,,9,1,10
+Maverick,3B,President,,Write In,,4,7,11
+Maverick,3C,President,,Write In,,0,3,3
+Maverick,4A,President,,Write In,,4,1,5
+Maverick,4B,President,,Write In,,6,4,10
+Maverick,4C,President,,Write In,,5,1,6
+Maverick,4D,President,,Write In,,3,6,9
+Maverick,Total,President,,Write In,,62,39,101
+Maverick,1A,President,,Over Votes,,2,1,3
+Maverick,1B,President,,Over Votes,,2,1,3
+Maverick,1C,President,,Over Votes,,6,3,9
+Maverick,2A,President,,Over Votes,,2,0,2
+Maverick,2B,President,,Over Votes,,2,3,5
+Maverick,2C,President,,Over Votes,,2,2,4
+Maverick,2D,President,,Over Votes,,0,0,0
+Maverick,3A,President,,Over Votes,,2,0,2
+Maverick,3B,President,,Over Votes,,4,2,6
+Maverick,3C,President,,Over Votes,,0,0,0
+Maverick,4A,President,,Over Votes,,2,0,2
+Maverick,4B,President,,Over Votes,,0,1,1
+Maverick,4C,President,,Over Votes,,3,0,3
+Maverick,4D,President,,Over Votes,,3,2,5
+Maverick,Total,President,,Over Votes,,30,15,45
+Maverick,1A,President,,Under Votes,,9,3,12
+Maverick,1B,President,,Under Votes,,11,0,11
+Maverick,1C,President,,Under Votes,,18,5,23
+Maverick,2A,President,,Under Votes,,7,3,10
+Maverick,2B,President,,Under Votes,,19,4,23
+Maverick,2C,President,,Under Votes,,9,6,15
+Maverick,2D,President,,Under Votes,,0,2,2
+Maverick,3A,President,,Under Votes,,25,5,30
+Maverick,3B,President,,Under Votes,,32,12,44
+Maverick,3C,President,,Under Votes,,0,5,5
+Maverick,4A,President,,Under Votes,,12,5,17
+Maverick,4B,President,,Under Votes,,9,3,12
+Maverick,4C,President,,Under Votes,,13,3,16
+Maverick,4D,President,,Under Votes,,20,2,22
+Maverick,Total,President,,Under Votes,,184,58,242
+Maverick,1A,U.S. House,23,Will Hurd,REP,47,19,66
+Maverick,1B,U.S. House,23,Will Hurd,REP,188,135,323
+Maverick,1C,U.S. House,23,Will Hurd,REP,236,111,347
+Maverick,2A,U.S. House,23,Will Hurd,REP,29,10,39
+Maverick,2B,U.S. House,23,Will Hurd,REP,188,81,269
+Maverick,2C,U.S. House,23,Will Hurd,REP,80,69,149
+Maverick,2D,U.S. House,23,Will Hurd,REP,11,19,30
+Maverick,3A,U.S. House,23,Will Hurd,REP,264,101,365
+Maverick,3B,U.S. House,23,Will Hurd,REP,246,137,383
+Maverick,3C,U.S. House,23,Will Hurd,REP,61,76,137
+Maverick,4A,U.S. House,23,Will Hurd,REP,48,23,71
+Maverick,4B,U.S. House,23,Will Hurd,REP,285,112,397
+Maverick,4C,U.S. House,23,Will Hurd,REP,77,31,108
+Maverick,4D,U.S. House,23,Will Hurd,REP,83,53,136
+Maverick,Total,U.S. House,23,Will Hurd,REP,1843,977,2820
+Maverick,1A,U.S. House,23,Pete P. Gallego,DEM,206,79,285
+Maverick,1B,U.S. House,23,Pete P. Gallego,DEM,555,270,825
+Maverick,1C,U.S. House,23,Pete P. Gallego,DEM,1066,484,1550
+Maverick,2A,U.S. House,23,Pete P. Gallego,DEM,214,87,301
+Maverick,2B,U.S. House,23,Pete P. Gallego,DEM,732,337,1069
+Maverick,2C,U.S. House,23,Pete P. Gallego,DEM,362,303,665
+Maverick,2D,U.S. House,23,Pete P. Gallego,DEM,23,28,51
+Maverick,3A,U.S. House,23,Pete P. Gallego,DEM,805,264,1069
+Maverick,3B,U.S. House,23,Pete P. Gallego,DEM,902,485,1387
+Maverick,3C,U.S. House,23,Pete P. Gallego,DEM,42,130,172
+Maverick,4A,U.S. House,23,Pete P. Gallego,DEM,274,90,364
+Maverick,4B,U.S. House,23,Pete P. Gallego,DEM,667,279,946
+Maverick,4C,U.S. House,23,Pete P. Gallego,DEM,270,124,394
+Maverick,4D,U.S. House,23,Pete P. Gallego,DEM,497,305,802
+Maverick,Total,U.S. House,23,Pete P. Gallego,DEM,6615,3265,9880
+Maverick,1A,U.S. House,23,Ruben S. Corvalan,LIB,9,2,11
+Maverick,1B,U.S. House,23,Ruben S. Corvalan,LIB,20,26,46
+Maverick,1C,U.S. House,23,Ruben S. Corvalan,LIB,60,52,112
+Maverick,2A,U.S. House,23,Ruben S. Corvalan,LIB,7,5,12
+Maverick,2B,U.S. House,23,Ruben S. Corvalan,LIB,32,16,48
+Maverick,2C,U.S. House,23,Ruben S. Corvalan,LIB,24,33,57
+Maverick,2D,U.S. House,23,Ruben S. Corvalan,LIB,1,3,4
+Maverick,3A,U.S. House,23,Ruben S. Corvalan,LIB,52,14,66
+Maverick,3B,U.S. House,23,Ruben S. Corvalan,LIB,35,43,78
+Maverick,3C,U.S. House,23,Ruben S. Corvalan,LIB,2,16,18
+Maverick,4A,U.S. House,23,Ruben S. Corvalan,LIB,10,4,14
+Maverick,4B,U.S. House,23,Ruben S. Corvalan,LIB,27,21,48
+Maverick,4C,U.S. House,23,Ruben S. Corvalan,LIB,15,12,27
+Maverick,4D,U.S. House,23,Ruben S. Corvalan,LIB,25,16,41
+Maverick,Total,U.S. House,23,Ruben S. Corvalan,LIB,319,263,582
+Maverick,1A,U.S. House,23,Over Votes,,0,0,0
+Maverick,1B,U.S. House,23,Over Votes,,1,0,1
+Maverick,1C,U.S. House,23,Over Votes,,0,0,0
+Maverick,2A,U.S. House,23,Over Votes,,0,0,0
+Maverick,2B,U.S. House,23,Over Votes,,0,1,1
+Maverick,2C,U.S. House,23,Over Votes,,0,0,0
+Maverick,2D,U.S. House,23,Over Votes,,0,0,0
+Maverick,3A,U.S. House,23,Over Votes,,1,0,1
+Maverick,3B,U.S. House,23,Over Votes,,1,0,1
+Maverick,3C,U.S. House,23,Over Votes,,0,0,0
+Maverick,4A,U.S. House,23,Over Votes,,0,0,0
+Maverick,4B,U.S. House,23,Over Votes,,0,1,1
+Maverick,4C,U.S. House,23,Over Votes,,2,1,3
+Maverick,4D,U.S. House,23,Over Votes,,0,0,0
+Maverick,Total,U.S. House,23,Over Votes,,5,3,8
+Maverick,1A,U.S. House,23,Under Votes,,16,9,25
+Maverick,1B,U.S. House,23,Under Votes,,31,8,39
+Maverick,1C,U.S. House,23,Under Votes,,69,21,90
+Maverick,2A,U.S. House,23,Under Votes,,22,13,35
+Maverick,2B,U.S. House,23,Under Votes,,54,23,77
+Maverick,2C,U.S. House,23,Under Votes,,25,42,67
+Maverick,2D,U.S. House,23,Under Votes,,1,6,7
+Maverick,3A,U.S. House,23,Under Votes,,44,23,67
+Maverick,3B,U.S. House,23,Under Votes,,48,37,85
+Maverick,3C,U.S. House,23,Under Votes,,4,10,14
+Maverick,4A,U.S. House,23,Under Votes,,23,12,35
+Maverick,4B,U.S. House,23,Under Votes,,17,24,41
+Maverick,4C,U.S. House,23,Under Votes,,26,17,43
+Maverick,4D,U.S. House,23,Under Votes,,40,20,60
+Maverick,Total,U.S. House,23,Under Votes,,420,265,685
+Maverick,1A,Railroad Commissioner,,Wayne Christian,REP,34,12,46
+Maverick,1B,Railroad Commissioner,,Wayne Christian,REP,154,126,280
+Maverick,1C,Railroad Commissioner,,Wayne Christian,REP,205,94,299
+Maverick,2A,Railroad Commissioner,,Wayne Christian,REP,20,9,29
+Maverick,2B,Railroad Commissioner,,Wayne Christian,REP,134,80,214
+Maverick,2C,Railroad Commissioner,,Wayne Christian,REP,62,63,125
+Maverick,2D,Railroad Commissioner,,Wayne Christian,REP,12,15,27
+Maverick,3A,Railroad Commissioner,,Wayne Christian,REP,214,84,298
+Maverick,3B,Railroad Commissioner,,Wayne Christian,REP,217,121,338
+Maverick,3C,Railroad Commissioner,,Wayne Christian,REP,57,71,128
+Maverick,4A,Railroad Commissioner,,Wayne Christian,REP,31,24,55
+Maverick,4B,Railroad Commissioner,,Wayne Christian,REP,215,105,320
+Maverick,4C,Railroad Commissioner,,Wayne Christian,REP,52,23,75
+Maverick,4D,Railroad Commissioner,,Wayne Christian,REP,70,44,114
+Maverick,Total,Railroad Commissioner,,Wayne Christian,REP,1477,871,2348
+Maverick,1A,Railroad Commissioner,,Grady Yarbrough,DEM,161,61,222
+Maverick,1B,Railroad Commissioner,,Grady Yarbrough,DEM,453,216,669
+Maverick,1C,Railroad Commissioner,,Grady Yarbrough,DEM,826,359,1185
+Maverick,2A,Railroad Commissioner,,Grady Yarbrough,DEM,161,66,227
+Maverick,2B,Railroad Commissioner,,Grady Yarbrough,DEM,586,254,840
+Maverick,2C,Railroad Commissioner,,Grady Yarbrough,DEM,294,232,526
+Maverick,2D,Railroad Commissioner,,Grady Yarbrough,DEM,12,23,35
+Maverick,3A,Railroad Commissioner,,Grady Yarbrough,DEM,677,214,891
+Maverick,3B,Railroad Commissioner,,Grady Yarbrough,DEM,722,351,1073
+Maverick,3C,Railroad Commissioner,,Grady Yarbrough,DEM,32,98,130
+Maverick,4A,Railroad Commissioner,,Grady Yarbrough,DEM,232,68,300
+Maverick,4B,Railroad Commissioner,,Grady Yarbrough,DEM,558,225,783
+Maverick,4C,Railroad Commissioner,,Grady Yarbrough,DEM,224,105,329
+Maverick,4D,Railroad Commissioner,,Grady Yarbrough,DEM,394,242,636
+Maverick,Total,Railroad Commissioner,,Grady Yarbrough,DEM,5332,2514,7846
+Maverick,1A,Railroad Commissioner,,Mark Miller,LIB,13,8,21
+Maverick,1B,Railroad Commissioner,,Mark Miller,LIB,32,28,60
+Maverick,1C,Railroad Commissioner,,Mark Miller,LIB,83,47,130
+Maverick,2A,Railroad Commissioner,,Mark Miller,LIB,13,6,19
+Maverick,2B,Railroad Commissioner,,Mark Miller,LIB,49,29,78
+Maverick,2C,Railroad Commissioner,,Mark Miller,LIB,28,31,59
+Maverick,2D,Railroad Commissioner,,Mark Miller,LIB,3,2,5
+Maverick,3A,Railroad Commissioner,,Mark Miller,LIB,57,26,83
+Maverick,3B,Railroad Commissioner,,Mark Miller,LIB,60,69,129
+Maverick,3C,Railroad Commissioner,,Mark Miller,LIB,9,14,23
+Maverick,4A,Railroad Commissioner,,Mark Miller,LIB,12,5,17
+Maverick,4B,Railroad Commissioner,,Mark Miller,LIB,39,23,62
+Maverick,4C,Railroad Commissioner,,Mark Miller,LIB,19,13,32
+Maverick,4D,Railroad Commissioner,,Mark Miller,LIB,29,25,54
+Maverick,Total,Railroad Commissioner,,Mark Miller,LIB,446,326,772
+Maverick,1A,Railroad Commissioner,,Martina Salinas,GRN,33,14,47
+Maverick,1B,Railroad Commissioner,,Martina Salinas,GRN,84,44,128
+Maverick,1C,Railroad Commissioner,,Martina Salinas,GRN,161,100,261
+Maverick,2A,Railroad Commissioner,,Martina Salinas,GRN,30,10,40
+Maverick,2B,Railroad Commissioner,,Martina Salinas,GRN,98,51,149
+Maverick,2C,Railroad Commissioner,,Martina Salinas,GRN,57,55,112
+Maverick,2D,Railroad Commissioner,,Martina Salinas,GRN,4,6,10
+Maverick,3A,Railroad Commissioner,,Martina Salinas,GRN,114,43,157
+Maverick,3B,Railroad Commissioner,,Martina Salinas,GRN,109,80,189
+Maverick,3C,Railroad Commissioner,,Martina Salinas,GRN,4,24,28
+Maverick,4A,Railroad Commissioner,,Martina Salinas,GRN,32,12,44
+Maverick,4B,Railroad Commissioner,,Martina Salinas,GRN,125,50,175
+Maverick,4C,Railroad Commissioner,,Martina Salinas,GRN,41,16,57
+Maverick,4D,Railroad Commissioner,,Martina Salinas,GRN,73,39,112
+Maverick,Total,Railroad Commissioner,,Martina Salinas,GRN,965,544,1509
+Maverick,1A,Railroad Commissioner,,Over Votes,,241,0,241
+Maverick,1B,Railroad Commissioner,,Over Votes,,1,0,1
+Maverick,1C,Railroad Commissioner,,Over Votes,,1,0,1
+Maverick,2A,Railroad Commissioner,,Over Votes,,0,0,0
+Maverick,2B,Railroad Commissioner,,Over Votes,,0,1,1
+Maverick,2C,Railroad Commissioner,,Over Votes,,1,1,2
+Maverick,2D,Railroad Commissioner,,Over Votes,,0,0,0
+Maverick,3A,Railroad Commissioner,,Over Votes,,1,0,1
+Maverick,3B,Railroad Commissioner,,Over Votes,,1,0,1
+Maverick,3C,Railroad Commissioner,,Over Votes,,0,0,0
+Maverick,4A,Railroad Commissioner,,Over Votes,,0,0,0
+Maverick,4B,Railroad Commissioner,,Over Votes,,0,0,0
+Maverick,4C,Railroad Commissioner,,Over Votes,,2,0,2
+Maverick,4D,Railroad Commissioner,,Over Votes,,1,0,1
+Maverick,Total,Railroad Commissioner,,Over Votes,,249,2,251
+Maverick,1A,Railroad Commissioner,,Under Votes,,36,14,50
+Maverick,1B,Railroad Commissioner,,Under Votes,,71,25,96
+Maverick,1C,Railroad Commissioner,,Under Votes,,155,68,223
+Maverick,2A,Railroad Commissioner,,Under Votes,,48,24,72
+Maverick,2B,Railroad Commissioner,,Under Votes,,139,43,182
+Maverick,2C,Railroad Commissioner,,Under Votes,,49,65,114
+Maverick,2D,Railroad Commissioner,,Under Votes,,5,10,15
+Maverick,3A,Railroad Commissioner,,Under Votes,,103,55,158
+Maverick,3B,Railroad Commissioner,,Under Votes,,123,81,204
+Maverick,3C,Railroad Commissioner,,Under Votes,,7,25,32
+Maverick,4A,Railroad Commissioner,,Under Votes,,48,21,69
+Maverick,4B,Railroad Commissioner,,Under Votes,,59,34,93
+Maverick,4C,Railroad Commissioner,,Under Votes,,52,28,80
+Maverick,4D,Railroad Commissioner,,Under Votes,,78,44,122
+Maverick,Total,Railroad Commissioner,,Under Votes,,973,537,1510
+Maverick,1A,State Senate ,19,Peter P. fFlores,REP,37,13,50
+Maverick,1B,State Senate ,19,Peter P. fFlores,REP,158,114,272
+Maverick,1C,State Senate ,19,Peter P. fFlores,REP,228,115,343
+Maverick,2A,State Senate ,19,Peter P. fFlores,REP,24,17,41
+Maverick,2B,State Senate ,19,Peter P. fFlores,REP,163,85,248
+Maverick,2C,State Senate ,19,Peter P. fFlores,REP,74,69,143
+Maverick,2D,State Senate ,19,Peter P. fFlores,REP,13,14,27
+Maverick,3A,State Senate ,19,Peter P. fFlores,REP,218,88,306
+Maverick,3B,State Senate ,19,Peter P. fFlores,REP,225,134,359
+Maverick,3C,State Senate ,19,Peter P. fFlores,REP,57,65,122
+Maverick,4A,State Senate ,19,Peter P. fFlores,REP,37,23,60
+Maverick,4B,State Senate ,19,Peter P. fFlores,REP,239,99,338
+Maverick,4C,State Senate ,19,Peter P. fFlores,REP,60,29,89
+Maverick,4D,State Senate ,19,Peter P. fFlores,REP,86,50,136
+Maverick,Total,State Senate ,19,Peter P. fFlores,REP,1619,915,2534
+Maverick,1A,State Senate ,19,Carlos I. Uresti,DEM,205,80,285
+Maverick,1B,State Senate ,19,Carlos I. Uresti,DEM,576,293,869
+Maverick,1C,State Senate ,19,Carlos I. Uresti,DEM,1048,483,1531
+Maverick,2A,State Senate ,19,Carlos I. Uresti,DEM,203,70,273
+Maverick,2B,State Senate ,19,Carlos I. Uresti,DEM,701,318,1019
+Maverick,2C,State Senate ,19,Carlos I. Uresti,DEM,365,301,666
+Maverick,2D,State Senate ,19,Carlos I. Uresti,DEM,19,33,52
+Maverick,3A,State Senate ,19,Carlos I. Uresti,DEM,839,277,1116
+Maverick,3B,State Senate ,19,Carlos I. Uresti,DEM,878,473,1351
+Maverick,3C,State Senate ,19,Carlos I. Uresti,DEM,39,137,176
+Maverick,4A,State Senate ,19,Carlos I. Uresti,DEM,265,85,350
+Maverick,4B,State Senate ,19,Carlos I. Uresti,DEM,681,298,979
+Maverick,4C,State Senate ,19,Carlos I. Uresti,DEM,277,132,409
+Maverick,4D,State Senate ,19,Carlos I. Uresti,DEM,466,299,765
+Maverick,Total,State Senate ,19,Carlos I. Uresti,DEM,6562,3279,9841
+Maverick,1A,State Senate ,19,Maximillian Martin,LIB,6,5,11
+Maverick,1B,State Senate ,19,Maximillian Martin,LIB,12,11,23
+Maverick,1C,State Senate ,19,Maximillian Martin,LIB,28,22,50
+Maverick,2A,State Senate ,19,Maximillian Martin,LIB,7,1,8
+Maverick,2B,State Senate ,19,Maximillian Martin,LIB,29,17,46
+Maverick,2C,State Senate ,19,Maximillian Martin,LIB,16,17,33
+Maverick,2D,State Senate ,19,Maximillian Martin,LIB,0,2,2
+Maverick,3A,State Senate ,19,Maximillian Martin,LIB,35,12,47
+Maverick,3B,State Senate ,19,Maximillian Martin,LIB,17,24,41
+Maverick,3C,State Senate ,19,Maximillian Martin,LIB,6,8,14
+Maverick,4A,State Senate ,19,Maximillian Martin,LIB,12,6,18
+Maverick,4B,State Senate ,19,Maximillian Martin,LIB,29,12,41
+Maverick,4C,State Senate ,19,Maximillian Martin,LIB,6,8,14
+Maverick,4D,State Senate ,19,Maximillian Martin,LIB,19,12,31
+Maverick,Total,State Senate ,19,Maximillian Martin,LIB,222,157,379
+Maverick,1A,State Senate ,19,Over Votes,,0,0,0
+Maverick,1B,State Senate ,19,Over Votes,,1,0,1
+Maverick,1C,State Senate ,19,Over Votes,,0,1,1
+Maverick,2A,State Senate ,19,Over Votes,,1,0,1
+Maverick,2B,State Senate ,19,Over Votes,,0,0,0
+Maverick,2C,State Senate ,19,Over Votes,,0,0,0
+Maverick,2D,State Senate ,19,Over Votes,,0,0,0
+Maverick,3A,State Senate ,19,Over Votes,,0,0,0
+Maverick,3B,State Senate ,19,Over Votes,,1,0,1
+Maverick,3C,State Senate ,19,Over Votes,,0,0,0
+Maverick,4A,State Senate ,19,Over Votes,,1,0,1
+Maverick,4B,State Senate ,19,Over Votes,,9,0,9
+Maverick,4C,State Senate ,19,Over Votes,,2,1,3
+Maverick,4D,State Senate ,19,Over Votes,,0,0,0
+Maverick,Total,State Senate ,19,Over Votes,,15,2,17
+Maverick,1A,State Senate ,19,Under Votes,,30,11,41
+Maverick,1B,State Senate ,19,Under Votes,,48,21,69
+Maverick,1C,State Senate ,19,Under Votes,,127,47,174
+Maverick,2A,State Senate ,19,Under Votes,,37,19,56
+Maverick,2B,State Senate ,19,Under Votes,,113,38,151
+Maverick,2C,State Senate ,19,Under Votes,,36,60,96
+Maverick,2D,State Senate ,19,Under Votes,,4,7,11
+Maverick,3A,State Senate ,19,Under Votes,,74,25,99
+Maverick,3B,State Senate ,19,Under Votes,,111,71,182
+Maverick,3C,State Senate ,19,Under Votes,,7,22,29
+Maverick,4A,State Senate ,19,Under Votes,,40,16,56
+Maverick,4B,State Senate ,19,Under Votes,,47,27,74
+Maverick,4C,State Senate ,19,Under Votes,,45,15,60
+Maverick,4D,State Senate ,19,Under Votes,,74,33,107
+Maverick,Total,State Senate ,19,Under Votes,,793,412,1205
+Maverick,1A,State Representative,74,Poncho Nevarez,DEM,211,82,293
+Maverick,1B,State Representative,74,Poncho Nevarez,DEM,639,345,984
+Maverick,1C,State Representative,74,Poncho Nevarez,DEM,1148,552,1700
+Maverick,2A,State Representative,74,Poncho Nevarez,DEM,214,90,304
+Maverick,2B,State Representative,74,Poncho Nevarez,DEM,778,364,1142
+Maverick,2C,State Representative,74,Poncho Nevarez,DEM,390,338,728
+Maverick,2D,State Representative,74,Poncho Nevarez,DEM,24,37,61
+Maverick,3A,State Representative,74,Poncho Nevarez,DEM,968,312,1280
+Maverick,3B,State Representative,74,Poncho Nevarez,DEM,978,540,1518
+Maverick,3C,State Representative,74,Poncho Nevarez,DEM,55,165,220
+Maverick,4A,State Representative,74,Poncho Nevarez,DEM,286,101,387
+Maverick,4B,State Representative,74,Poncho Nevarez,DEM,821,351,1172
+Maverick,4C,State Representative,74,Poncho Nevarez,DEM,292,140,432
+Maverick,4D,State Representative,74,Poncho Nevarez,DEM,517,327,844
+Maverick,Total,State Representative,74,Poncho Nevarez,DEM,7321,3744,11065
+Maverick,1A,State Representative,74,Over Votes,,0,0,0
+Maverick,1B,State Representative,74,Over Votes,,0,0,0
+Maverick,1C,State Representative,74,Over Votes,,0,0,0
+Maverick,2A,State Representative,74,Over Votes,,0,0,0
+Maverick,2B,State Representative,74,Over Votes,,0,0,0
+Maverick,2C,State Representative,74,Over Votes,,0,0,0
+Maverick,2D,State Representative,74,Over Votes,,0,0,0
+Maverick,3A,State Representative,74,Over Votes,,0,0,0
+Maverick,3B,State Representative,74,Over Votes,,0,0,0
+Maverick,3C,State Representative,74,Over Votes,,0,0,0
+Maverick,4A,State Representative,74,Over Votes,,0,0,0
+Maverick,4B,State Representative,74,Over Votes,,0,0,0
+Maverick,4C,State Representative,74,Over Votes,,0,0,0
+Maverick,4D,State Representative,74,Over Votes,,0,0,0
+Maverick,Total,State Representative,74,Over Votes,,0,0,0
+Maverick,1A,State Representative,74,Under Votes,,67,27,94
+Maverick,1B,State Representative,74,Under Votes,,156,94,250
+Maverick,1C,State Representative,74,Under Votes,,283,116,399
+Maverick,2A,State Representative,74,Under Votes,,58,25,83
+Maverick,2B,State Representative,74,Under Votes,,228,94,322
+Maverick,2C,State Representative,74,Under Votes,,101,109,210
+Maverick,2D,State Representative,74,Under Votes,,12,19,31
+Maverick,3A,State Representative,74,Under Votes,,198,90,288
+Maverick,3B,State Representative,74,Under Votes,,254,162,416
+Maverick,3C,State Representative,74,Under Votes,,54,67,121
+Maverick,4A,State Representative,74,Under Votes,,69,29,98
+Maverick,4B,State Representative,74,Under Votes,,175,86,261
+Maverick,4C,State Representative,74,Under Votes,,98,45,143
+Maverick,4D,State Representative,74,Under Votes,,122,67,189
+Maverick,Total,State Representative,74,Under Votes,,1875,1030,2905
