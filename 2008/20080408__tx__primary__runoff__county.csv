@@ -1,1 +1,868 @@
-county,office,district,candidate,incumbent,party,votes,pctANDREWS,State Representative,81,Tryon D. Lewis,FALSE,REP,251,68.02ANDREWS,State Representative,81,"G.E. ""Buddy"" West",TRUE,REP,118,31.98ANDREWS,State Representative,81,Total,,,369,BELL,State Representative,55,Ralph Sheffield,FALSE,REP,4204,63.49BELL,State Representative,55,Martha Tyroch,FALSE,REP,2418,36.51BELL,State Representative,55,Total,,,6622,BRAZORIA,U. S. Representative,22,Pete Olson,FALSE,REP,1217,66.58BRAZORIA,U. S. Representative,22,Shelley Sekula Gibbs,FALSE,REP,611,33.42BRAZORIA,U. S. Representative,22,Total,,,1828,COOKE,District Attorney, 235th Judicial District,Cindy Stormer,TRUE,REP,981,32.28COOKE,District Attorney, 235th Judicial District,Janice Warder,FALSE,REP,2058,67.72COOKE,District Attorney, 235th Judicial District,Total,,,3039,DALLAS,State Representative,112,Angie Chen Button,FALSE,REP,3103,53.18DALLAS,State Representative,112,Randy Dunning,FALSE,REP,2732,46.82DALLAS,State Representative,112,Total,,,5835,DENTON,District Judge,393rd Judicial District,Steve Burgess,FALSE,REP,1141,36.91DENTON,District Judge,393rd Judicial District,Doug Robison,FALSE,REP,1950,63.09DENTON,District Judge,393rd Judicial District,Total,,,3091,ECTOR,State Representative,81,Tryon D. Lewis,FALSE,REP,4656,76.1ECTOR,State Representative,81,"G.E. ""Buddy"" West",TRUE,REP,1462,23.9ECTOR,State Representative,81,Total,,,6118,FORT BEND,U. S. Representative,22,Pete Olson,FALSE,REP,8395,77.35FORT BEND,U. S. Representative,22,Shelley Sekula Gibbs,FALSE,REP,2458,22.65FORT BEND,U. S. Representative,22,Total,,,10853,GALVESTON,U. S. Representative,22,Pete Olson,FALSE,REP,236,48.86GALVESTON,U. S. Representative,22,Shelley Sekula Gibbs,FALSE,REP,247,51.14GALVESTON,U. S. Representative,22,Total,,,483,HARRIS,U. S. Representative,22,Pete Olson,FALSE,REP,5663,59.79HARRIS,U. S. Representative,22,Shelley Sekula Gibbs,FALSE,REP,3809,40.21HARRIS,U. S. Representative,22,Total,,,9472,HARRIS,State Representative,144,Ken Legler,FALSE,REP,1593,51.62HARRIS,State Representative,144,Fred Roberts,FALSE,REP,1493,48.38HARRIS,State Representative,144,Total,,,3086,HARRIS,District Judge,174th Judicial District,Kevin Keating,FALSE,REP,11420,33.99HARRIS,District Judge,174th Judicial District,Bill Moore,FALSE,REP,22176,66.01HARRIS,District Judge,174th Judicial District,Total,,,33596,HARRIS,Harris County,Attorney,Pat Lykos,FALSE,REP,21106,52.68HARRIS,Harris County,Attorney,Kelly Siegler,FALSE,REP,18962,47.32HARRIS,Harris County,Attorney,Total,,,40068,MEDINA,District Attorney, 38th Judicial District,Daniel J. Kindred,TRUE,REP,980,68.48MEDINA,District Attorney, 38th Judicial District,Tony Reyes,FALSE,REP,451,31.52MEDINA,District Attorney, 38th Judicial District,Total,,,1431,MONTGOMERY,District Judge,418th Judicial District,Tracy A. Gilbert,FALSE,REP,8037,68.89MONTGOMERY,District Judge,418th Judicial District,Robert Rosenquist,TRUE,REP,3630,31.11MONTGOMERY,District Judge,418th Judicial District,Total,,,11667,MONTGOMERY,District Judge,435th Judicial District,Scott Golemon,FALSE,REP,5495,46.34MONTGOMERY,District Judge,435th Judicial District,Mike Seiler,FALSE,REP,6363,53.66MONTGOMERY,District Judge,435th Judicial District,Total,,,11858,MONTGOMERY,District Attorney, 9th Judicial District,Brett Ligon,FALSE,REP,7164,56.94MONTGOMERY,District Attorney, 9th Judicial District,Michael McDougal,TRUE,REP,5417,43.06MONTGOMERY,District Attorney, 9th Judicial District,Total,,,12581,REAL,District Attorney, 38th Judicial District,Daniel J. Kindred,TRUE,REP,147,60.25REAL,District Attorney, 38th Judicial District,Tony Reyes,FALSE,REP,97,39.75REAL,District Attorney, 38th Judicial District,Total,,,244,TARRANT,District Judge,17th Judicial District,Mike Hrabal,FALSE,REP,5267,49.91TARRANT,District Judge,17th Judicial District,Melody Wilkinson,FALSE,REP,5286,50.09TARRANT,District Judge,17th Judicial District,Total,,,10553,TARRANT,District Judge,213th Judicial District,Lisa Callaghan,FALSE,REP,4646,43.57TARRANT,District Judge,213th Judicial District,Louis Sturns,TRUE,REP,6018,56.43TARRANT,District Judge,213th Judicial District,Total,,,10664,UVALDE,District Attorney, 38th Judicial District,Daniel J. Kindred,TRUE,REP,199,53.07UVALDE,District Attorney, 38th Judicial District,Tony Reyes,FALSE,REP,176,46.93UVALDE,District Attorney, 38th Judicial District,Total,,,375,WILLIAMSON,State Representative,52,Bryan Daniel,FALSE,REP,1657,53.62WILLIAMSON,State Representative,52,Dee Hobbs,FALSE,REP,1433,46.38WILLIAMSON,State Representative,52,Total,,,3090,WINKLER,State Representative,81,Tryon D. Lewis,FALSE,REP,274,82.78WINKLER,State Representative,81,"G.E. ""Buddy"" West",TRUE,REP,57,17.22WINKLER,State Representative,81,Total,,,331,ANDERSON,Railroad Commissioner,,Dale Henry,FALSE,DEM,31,56.36ANDERSON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,24,43.64ANDERSON,Railroad Commissioner,,Total,,,55,ANDREWS,Railroad Commissioner,,Dale Henry,FALSE,DEM,20,45.45ANDREWS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,24,54.55ANDREWS,Railroad Commissioner,,Total,,,44,ANGELINA,Railroad Commissioner,,Dale Henry,FALSE,DEM,175,31.53ANGELINA,Railroad Commissioner,,Mark Thompson,FALSE,DEM,380,68.47ANGELINA,Railroad Commissioner,,Total,,,555,ARANSAS,Railroad Commissioner,,Dale Henry,FALSE,DEM,32,57.14ARANSAS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,24,42.86ARANSAS,Railroad Commissioner,,Total,,,56,ARCHER,Railroad Commissioner,,Dale Henry,FALSE,DEM,15,65.22ARCHER,Railroad Commissioner,,Mark Thompson,FALSE,DEM,8,34.78ARCHER,Railroad Commissioner,,Total,,,23,ARMSTRONG,Railroad Commissioner,,Dale Henry,FALSE,DEM,0,0ARMSTRONG,Railroad Commissioner,,Mark Thompson,FALSE,DEM,0,0ARMSTRONG,Railroad Commissioner,,Total,,,0,ATASCOSA,Railroad Commissioner,,Dale Henry,FALSE,DEM,49,45.79ATASCOSA,Railroad Commissioner,,Mark Thompson,FALSE,DEM,58,54.21ATASCOSA,Railroad Commissioner,,Total,,,107,AUSTIN,Railroad Commissioner,,Dale Henry,FALSE,DEM,33,57.89AUSTIN,Railroad Commissioner,,Mark Thompson,FALSE,DEM,24,42.11AUSTIN,Railroad Commissioner,,Total,,,57,BAILEY,Railroad Commissioner,,Dale Henry,FALSE,DEM,2,50BAILEY,Railroad Commissioner,,Mark Thompson,FALSE,DEM,2,50BAILEY,Railroad Commissioner,,Total,,,4,BANDERA,Railroad Commissioner,,Dale Henry,FALSE,DEM,30,78.95BANDERA,Railroad Commissioner,,Mark Thompson,FALSE,DEM,8,21.05BANDERA,Railroad Commissioner,,Total,,,38,BASTROP,Railroad Commissioner,,Dale Henry,FALSE,DEM,802,38.1BASTROP,Railroad Commissioner,,Mark Thompson,FALSE,DEM,1303,61.9BASTROP,Railroad Commissioner,,Total,,,2105,BAYLOR,Railroad Commissioner,,Dale Henry,FALSE,DEM,2,100BAYLOR,Railroad Commissioner,,Mark Thompson,FALSE,DEM,0,0BAYLOR,Railroad Commissioner,,Total,,,2,BEE,Railroad Commissioner,,Dale Henry,FALSE,DEM,23,36.51BEE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,40,63.49BEE,Railroad Commissioner,,Total,,,63,BELL,Railroad Commissioner,,Dale Henry,FALSE,DEM,113,45.56BELL,Railroad Commissioner,,Mark Thompson,FALSE,DEM,135,54.44BELL,Railroad Commissioner,,Total,,,248,BEXAR,Railroad Commissioner,,Dale Henry,FALSE,DEM,4266,46.12BEXAR,Railroad Commissioner,,Mark Thompson,FALSE,DEM,4983,53.88BEXAR,Railroad Commissioner,,Total,,,9249,BLANCO,Railroad Commissioner,,Dale Henry,FALSE,DEM,13,46.43BLANCO,Railroad Commissioner,,Mark Thompson,FALSE,DEM,15,53.57BLANCO,Railroad Commissioner,,Total,,,28,BORDEN,Railroad Commissioner,,Dale Henry,FALSE,DEM,8,34.78BORDEN,Railroad Commissioner,,Mark Thompson,FALSE,DEM,15,65.22BORDEN,Railroad Commissioner,,Total,,,23,BOSQUE,Railroad Commissioner,,Dale Henry,FALSE,DEM,564,39.77BOSQUE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,854,60.23BOSQUE,Railroad Commissioner,,Total,,,1418,BOWIE,Railroad Commissioner,,Dale Henry,FALSE,DEM,97,48.99BOWIE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,101,51.01BOWIE,Railroad Commissioner,,Total,,,198,BRAZORIA,Railroad Commissioner,,Dale Henry,FALSE,DEM,196,49.37BRAZORIA,Railroad Commissioner,,Mark Thompson,FALSE,DEM,201,50.63BRAZORIA,Railroad Commissioner,,Total,,,397,BRAZOS,Railroad Commissioner,,Dale Henry,FALSE,DEM,132,68.39BRAZOS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,61,31.61BRAZOS,Railroad Commissioner,,Total,,,193,BREWSTER,Railroad Commissioner,,Dale Henry,FALSE,DEM,54,66.67BREWSTER,Railroad Commissioner,,Mark Thompson,FALSE,DEM,27,33.33BREWSTER,Railroad Commissioner,,Total,,,81,BRISCOE,Railroad Commissioner,,Dale Henry,FALSE,DEM,7,35BRISCOE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,13,65BRISCOE,Railroad Commissioner,,Total,,,20,BROOKS,Railroad Commissioner,,Dale Henry,FALSE,DEM,120,30.93BROOKS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,268,69.07BROOKS,Railroad Commissioner,,Total,,,388,BROWN,Railroad Commissioner,,Dale Henry,FALSE,DEM,50,70.42BROWN,Railroad Commissioner,,Mark Thompson,FALSE,DEM,21,29.58BROWN,Railroad Commissioner,,Total,,,71,BURLESON,Railroad Commissioner,,Dale Henry,FALSE,DEM,44,60.27BURLESON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,29,39.73BURLESON,Railroad Commissioner,,Total,,,73,BURNET,Railroad Commissioner,,Dale Henry,FALSE,DEM,142,82.08BURNET,Railroad Commissioner,,Mark Thompson,FALSE,DEM,31,17.92BURNET,Railroad Commissioner,,Total,,,173,CALDWELL,Railroad Commissioner,,Dale Henry,FALSE,DEM,47,43.93CALDWELL,Railroad Commissioner,,Mark Thompson,FALSE,DEM,60,56.07CALDWELL,Railroad Commissioner,,Total,,,107,CALHOUN,Railroad Commissioner,,Dale Henry,FALSE,DEM,27,28.42CALHOUN,Railroad Commissioner,,Mark Thompson,FALSE,DEM,68,71.58CALHOUN,Railroad Commissioner,,Total,,,95,CALLAHAN,Railroad Commissioner,,Dale Henry,FALSE,DEM,4,28.57CALLAHAN,Railroad Commissioner,,Mark Thompson,FALSE,DEM,10,71.43CALLAHAN,Railroad Commissioner,,Total,,,14,CAMERON,Railroad Commissioner,,Dale Henry,FALSE,DEM,2263,40.32CAMERON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,3349,59.68CAMERON,Railroad Commissioner,,Total,,,5612,CAMERON,District Judge,444th Judicial District,Gilberto E. Rosas,FALSE,DEM,3517,48.51CAMERON,District Judge,444th Judicial District,David A. Sanchez,FALSE,DEM,3733,51.49CAMERON,District Judge,444th Judicial District,Total,,,7250,CAMP,Railroad Commissioner,,Dale Henry,FALSE,DEM,5,33.33CAMP,Railroad Commissioner,,Mark Thompson,FALSE,DEM,10,66.67CAMP,Railroad Commissioner,,Total,,,15,CARSON,Railroad Commissioner,,Dale Henry,FALSE,DEM,10,47.62CARSON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,11,52.38CARSON,Railroad Commissioner,,Total,,,21,CASS,Railroad Commissioner,,Dale Henry,FALSE,DEM,367,51.04CASS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,352,48.96CASS,Railroad Commissioner,,Total,,,719,CASTRO,Railroad Commissioner,,Dale Henry,FALSE,DEM,4,30.77CASTRO,Railroad Commissioner,,Mark Thompson,FALSE,DEM,9,69.23CASTRO,Railroad Commissioner,,Total,,,13,CHAMBERS,Railroad Commissioner,,Dale Henry,FALSE,DEM,14,51.85CHAMBERS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,13,48.15CHAMBERS,Railroad Commissioner,,Total,,,27,CHEROKEE,Railroad Commissioner,,Dale Henry,FALSE,DEM,124,26CHEROKEE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,353,74CHEROKEE,Railroad Commissioner,,Total,,,477,CHILDRESS,Railroad Commissioner,,Dale Henry,FALSE,DEM,0,0CHILDRESS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,2,100CHILDRESS,Railroad Commissioner,,Total,,,2,CLAY,Railroad Commissioner,,Dale Henry,FALSE,DEM,27,44.26CLAY,Railroad Commissioner,,Mark Thompson,FALSE,DEM,34,55.74CLAY,Railroad Commissioner,,Total,,,61,COCHRAN,Railroad Commissioner,,Dale Henry,FALSE,DEM,3,100COCHRAN,Railroad Commissioner,,Mark Thompson,FALSE,DEM,0,0COCHRAN,Railroad Commissioner,,Total,,,3,COKE,Railroad Commissioner,,Dale Henry,FALSE,DEM,4,57.14COKE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,3,42.86COKE,Railroad Commissioner,,Total,,,7,COLEMAN,Railroad Commissioner,,Dale Henry,FALSE,DEM,9,60COLEMAN,Railroad Commissioner,,Mark Thompson,FALSE,DEM,6,40COLEMAN,Railroad Commissioner,,Total,,,15,COLLIN,Railroad Commissioner,,Dale Henry,FALSE,DEM,427,56.56COLLIN,Railroad Commissioner,,Mark Thompson,FALSE,DEM,328,43.44COLLIN,Railroad Commissioner,,Total,,,755,COLLINGSWORTH,Railroad Commissioner,,Dale Henry,FALSE,DEM,4,40COLLINGSWORTH,Railroad Commissioner,,Mark Thompson,FALSE,DEM,6,60COLLINGSWORTH,Railroad Commissioner,,Total,,,10,COLORADO,Railroad Commissioner,,Dale Henry,FALSE,DEM,15,55.56COLORADO,Railroad Commissioner,,Mark Thompson,FALSE,DEM,12,44.44COLORADO,Railroad Commissioner,,Total,,,27,COMAL,Railroad Commissioner,,Dale Henry,FALSE,DEM,94,74.6COMAL,Railroad Commissioner,,Mark Thompson,FALSE,DEM,32,25.4COMAL,Railroad Commissioner,,Total,,,126,COMANCHE,Railroad Commissioner,,Dale Henry,FALSE,DEM,36,53.73COMANCHE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,31,46.27COMANCHE,Railroad Commissioner,,Total,,,67,CONCHO,Railroad Commissioner,,Dale Henry,FALSE,DEM,11,52.38CONCHO,Railroad Commissioner,,Mark Thompson,FALSE,DEM,10,47.62CONCHO,Railroad Commissioner,,Total,,,21,COOKE,Railroad Commissioner,,Dale Henry,FALSE,DEM,34,48.57COOKE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,36,51.43COOKE,Railroad Commissioner,,Total,,,70,CORYELL,Railroad Commissioner,,Dale Henry,FALSE,DEM,36,66.67CORYELL,Railroad Commissioner,,Mark Thompson,FALSE,DEM,18,33.33CORYELL,Railroad Commissioner,,Total,,,54,COTTLE,Railroad Commissioner,,Dale Henry,FALSE,DEM,3,23.08COTTLE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,10,76.92COTTLE,Railroad Commissioner,,Total,,,13,CRANE,Railroad Commissioner,,Dale Henry,FALSE,DEM,24,22.64CRANE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,82,77.36CRANE,Railroad Commissioner,,Total,,,106,CROCKETT,Railroad Commissioner,,Dale Henry,FALSE,DEM,2,28.57CROCKETT,Railroad Commissioner,,Mark Thompson,FALSE,DEM,5,71.43CROCKETT,Railroad Commissioner,,Total,,,7,CROSBY,Railroad Commissioner,,Dale Henry,FALSE,DEM,210,34.54CROSBY,Railroad Commissioner,,Mark Thompson,FALSE,DEM,398,65.46CROSBY,Railroad Commissioner,,Total,,,608,CULBERSON,Railroad Commissioner,,Dale Henry,FALSE,DEM,5,50CULBERSON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,5,50CULBERSON,Railroad Commissioner,,Total,,,10,DALLAM,Railroad Commissioner,,Dale Henry,FALSE,DEM,1,50DALLAM,Railroad Commissioner,,Mark Thompson,FALSE,DEM,1,50DALLAM,Railroad Commissioner,,Total,,,2,DALLAS,U. S. Representative,32,Steve Love,FALSE,DEM,753,27.54DALLAS,U. S. Representative,32,Eric Roberson,FALSE,DEM,1981,72.46DALLAS,U. S. Representative,32,Total,,,2734,DALLAS,Railroad Commissioner,,Dale Henry,FALSE,DEM,4688,47.08DALLAS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,5269,52.92DALLAS,Railroad Commissioner,,Total,,,9957,DALLAS,"Criminal District Judge, Dallas County",3,David Jordan,FALSE,DEM,3338,32.02DALLAS,"Criminal District Judge, Dallas County",3,Gracie Lewis,FALSE,DEM,7088,67.98DALLAS,"Criminal District Judge, Dallas County",3,Total,,,10426,DAWSON,Railroad Commissioner,,Dale Henry,FALSE,DEM,0,0DAWSON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,3,100DAWSON,Railroad Commissioner,,Total,,,3,DEAF SMITH,Railroad Commissioner,,Dale Henry,FALSE,DEM,8,66.67DEAF SMITH,Railroad Commissioner,,Mark Thompson,FALSE,DEM,4,33.33DEAF SMITH,Railroad Commissioner,,Total,,,12,DELTA,Railroad Commissioner,,Dale Henry,FALSE,DEM,76,36.71DELTA,Railroad Commissioner,,Mark Thompson,FALSE,DEM,131,63.29DELTA,Railroad Commissioner,,Total,,,207,DENTON,Railroad Commissioner,,Dale Henry,FALSE,DEM,145,36.34DENTON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,254,63.66DENTON,Railroad Commissioner,,Total,,,399,DEWITT,Railroad Commissioner,,Dale Henry,FALSE,DEM,11,36.67DEWITT,Railroad Commissioner,,Mark Thompson,FALSE,DEM,19,63.33DEWITT,Railroad Commissioner,,Total,,,30,DICKENS,Railroad Commissioner,,Dale Henry,FALSE,DEM,65,21.24DICKENS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,241,78.76DICKENS,Railroad Commissioner,,Total,,,306,DIMMIT,Railroad Commissioner,,Dale Henry,FALSE,DEM,671,39.38DIMMIT,Railroad Commissioner,,Mark Thompson,FALSE,DEM,1033,60.62DIMMIT,Railroad Commissioner,,Total,,,1704,DONLEY,Railroad Commissioner,,Dale Henry,FALSE,DEM,4,36.36DONLEY,Railroad Commissioner,,Mark Thompson,FALSE,DEM,7,63.64DONLEY,Railroad Commissioner,,Total,,,11,DUVAL,Railroad Commissioner,,Dale Henry,FALSE,DEM,40,38.83DUVAL,Railroad Commissioner,,Mark Thompson,FALSE,DEM,63,61.17DUVAL,Railroad Commissioner,,Total,,,103,EASTLAND,Railroad Commissioner,,Dale Henry,FALSE,DEM,27,52.94EASTLAND,Railroad Commissioner,,Mark Thompson,FALSE,DEM,24,47.06EASTLAND,Railroad Commissioner,,Total,,,51,ECTOR,Railroad Commissioner,,Dale Henry,FALSE,DEM,124,44.6ECTOR,Railroad Commissioner,,Mark Thompson,FALSE,DEM,154,55.4ECTOR,Railroad Commissioner,,Total,,,278,EDWARDS,Railroad Commissioner,,Dale Henry,FALSE,DEM,3,42.86EDWARDS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,4,57.14EDWARDS,Railroad Commissioner,,Total,,,7,EL PASO,Railroad Commissioner,,Dale Henry,FALSE,DEM,3674,37.51EL PASO,Railroad Commissioner,,Mark Thompson,FALSE,DEM,6122,62.49EL PASO,Railroad Commissioner,,Total,,,9796,EL PASO,District Judge,448th Judicial District,Regina B. Arditti,FALSE,DEM,8138,69.17EL PASO,District Judge,448th Judicial District,Edward Hernandez,FALSE,DEM,3627,30.83EL PASO,District Judge,448th Judicial District,Total,,,11765,EL PASO,District Judge,65th Judicial District,Alfredo Chavez,TRUE,DEM,4636,39.41EL PASO,District Judge,65th Judicial District,Yahara Lisa Gutierrez,FALSE,DEM,7127,60.59EL PASO,District Judge,65th Judicial District,Total,,,11763,ELLIS,Railroad Commissioner,,Dale Henry,FALSE,DEM,121,38.17ELLIS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,196,61.83ELLIS,Railroad Commissioner,,Total,,,317,ERATH,Railroad Commissioner,,Dale Henry,FALSE,DEM,45,71.43ERATH,Railroad Commissioner,,Mark Thompson,FALSE,DEM,18,28.57ERATH,Railroad Commissioner,,Total,,,63,FALLS,Railroad Commissioner,,Dale Henry,FALSE,DEM,46,39.66FALLS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,70,60.34FALLS,Railroad Commissioner,,Total,,,116,FANNIN,Railroad Commissioner,,Dale Henry,FALSE,DEM,124,40.26FANNIN,Railroad Commissioner,,Mark Thompson,FALSE,DEM,184,59.74FANNIN,Railroad Commissioner,,Total,,,308,FANNIN,District Judge,6th Judicial District,David Hamilton,FALSE,DEM,121,31.11FANNIN,District Judge,6th Judicial District,Dave Turner,FALSE,DEM,268,68.89FANNIN,District Judge,6th Judicial District,Total,,,389,FAYETTE,Railroad Commissioner,,Dale Henry,FALSE,DEM,46,46FAYETTE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,54,54FAYETTE,Railroad Commissioner,,Total,,,100,FISHER,Railroad Commissioner,,Dale Henry,FALSE,DEM,85,31.25FISHER,Railroad Commissioner,,Mark Thompson,FALSE,DEM,187,68.75FISHER,Railroad Commissioner,,Total,,,272,FLOYD,Railroad Commissioner,,Dale Henry,FALSE,DEM,5,26.32FLOYD,Railroad Commissioner,,Mark Thompson,FALSE,DEM,14,73.68FLOYD,Railroad Commissioner,,Total,,,19,FOARD,Railroad Commissioner,,Dale Henry,FALSE,DEM,35,71.43FOARD,Railroad Commissioner,,Mark Thompson,FALSE,DEM,14,28.57FOARD,Railroad Commissioner,,Total,,,49,FORT BEND,Railroad Commissioner,,Dale Henry,FALSE,DEM,515,37.24FORT BEND,Railroad Commissioner,,Mark Thompson,FALSE,DEM,868,62.76FORT BEND,Railroad Commissioner,,Total,,,1383,FRANKLIN,Railroad Commissioner,,Dale Henry,FALSE,DEM,9,40.91FRANKLIN,Railroad Commissioner,,Mark Thompson,FALSE,DEM,13,59.09FRANKLIN,Railroad Commissioner,,Total,,,22,FREESTONE,Railroad Commissioner,,Dale Henry,FALSE,DEM,15,53.57FREESTONE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,13,46.43FREESTONE,Railroad Commissioner,,Total,,,28,FRIO,Railroad Commissioner,,Dale Henry,FALSE,DEM,727,34.1FRIO,Railroad Commissioner,,Mark Thompson,FALSE,DEM,1405,65.9FRIO,Railroad Commissioner,,Total,,,2132,GAINES,Railroad Commissioner,,Dale Henry,FALSE,DEM,2,18.18GAINES,Railroad Commissioner,,Mark Thompson,FALSE,DEM,9,81.82GAINES,Railroad Commissioner,,Total,,,11,GALVESTON,Railroad Commissioner,,Dale Henry,FALSE,DEM,634,33.44GALVESTON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,1262,66.56GALVESTON,Railroad Commissioner,,Total,,,1896,GARZA,Railroad Commissioner,,Dale Henry,FALSE,DEM,0,0GARZA,Railroad Commissioner,,Mark Thompson,FALSE,DEM,1,100GARZA,Railroad Commissioner,,Total,,,1,GILLESPIE,Railroad Commissioner,,Dale Henry,FALSE,DEM,78,72.22GILLESPIE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,30,27.78GILLESPIE,Railroad Commissioner,,Total,,,108,GLASSCOCK,Railroad Commissioner,,Dale Henry,FALSE,DEM,0,0GLASSCOCK,Railroad Commissioner,,Mark Thompson,FALSE,DEM,0,0GLASSCOCK,Railroad Commissioner,,Total,,,0,GOLIAD,Railroad Commissioner,,Dale Henry,FALSE,DEM,6,37.5GOLIAD,Railroad Commissioner,,Mark Thompson,FALSE,DEM,10,62.5GOLIAD,Railroad Commissioner,,Total,,,16,GONZALES,Railroad Commissioner,,Dale Henry,FALSE,DEM,21,45.65GONZALES,Railroad Commissioner,,Mark Thompson,FALSE,DEM,25,54.35GONZALES,Railroad Commissioner,,Total,,,46,GRAY,Railroad Commissioner,,Dale Henry,FALSE,DEM,11,36.67GRAY,Railroad Commissioner,,Mark Thompson,FALSE,DEM,19,63.33GRAY,Railroad Commissioner,,Total,,,30,GRAYSON,Railroad Commissioner,,Dale Henry,FALSE,DEM,54,39.71GRAYSON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,82,60.29GRAYSON,Railroad Commissioner,,Total,,,136,GREGG,Railroad Commissioner,,Dale Henry,FALSE,DEM,58,35.15GREGG,Railroad Commissioner,,Mark Thompson,FALSE,DEM,107,64.85GREGG,Railroad Commissioner,,Total,,,165,GRIMES,Railroad Commissioner,,Dale Henry,FALSE,DEM,49,54.44GRIMES,Railroad Commissioner,,Mark Thompson,FALSE,DEM,41,45.56GRIMES,Railroad Commissioner,,Total,,,90,GUADALUPE,Railroad Commissioner,,Dale Henry,FALSE,DEM,51,45.54GUADALUPE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,61,54.46GUADALUPE,Railroad Commissioner,,Total,,,112,HALE,Railroad Commissioner,,Dale Henry,FALSE,DEM,20,32.79HALE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,41,67.21HALE,Railroad Commissioner,,Total,,,61,HALL,Railroad Commissioner,,Dale Henry,FALSE,DEM,46,22.44HALL,Railroad Commissioner,,Mark Thompson,FALSE,DEM,159,77.56HALL,Railroad Commissioner,,Total,,,205,HAMILTON,Railroad Commissioner,,Dale Henry,FALSE,DEM,36,65.45HAMILTON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,19,34.55HAMILTON,Railroad Commissioner,,Total,,,55,HANSFORD,Railroad Commissioner,,Dale Henry,FALSE,DEM,0,0HANSFORD,Railroad Commissioner,,Mark Thompson,FALSE,DEM,0,0HANSFORD,Railroad Commissioner,,Total,,,0,HARDEMAN,Railroad Commissioner,,Dale Henry,FALSE,DEM,12,54.55HARDEMAN,Railroad Commissioner,,Mark Thompson,FALSE,DEM,10,45.45HARDEMAN,Railroad Commissioner,,Total,,,22,HARDIN,Railroad Commissioner,,Dale Henry,FALSE,DEM,248,38.27HARDIN,Railroad Commissioner,,Mark Thompson,FALSE,DEM,400,61.73HARDIN,Railroad Commissioner,,Total,,,648,HARRIS,Railroad Commissioner,,Dale Henry,FALSE,DEM,4312,47.21HARRIS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,4822,52.79HARRIS,Railroad Commissioner,,Total,,,9134,HARRIS,District Judge,80th Judicial District,Marc Isenberg,FALSE,DEM,3835,40.91HARRIS,District Judge,80th Judicial District,Larry Weiman,FALSE,DEM,5539,59.09HARRIS,District Judge,80th Judicial District,Total,,,9374,HARRISON,Railroad Commissioner,,Dale Henry,FALSE,DEM,69,28.63HARRISON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,172,71.37HARRISON,Railroad Commissioner,,Total,,,241,HARTLEY,Railroad Commissioner,,Dale Henry,FALSE,DEM,0,0HARTLEY,Railroad Commissioner,,Mark Thompson,FALSE,DEM,1,100HARTLEY,Railroad Commissioner,,Total,,,1,HASKELL,Railroad Commissioner,,Dale Henry,FALSE,DEM,14,58.33HASKELL,Railroad Commissioner,,Mark Thompson,FALSE,DEM,10,41.67HASKELL,Railroad Commissioner,,Total,,,24,HAYS,Railroad Commissioner,,Dale Henry,FALSE,DEM,140,61.95HAYS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,86,38.05HAYS,Railroad Commissioner,,Total,,,226,HEMPHILL,Railroad Commissioner,,Dale Henry,FALSE,DEM,2,66.67HEMPHILL,Railroad Commissioner,,Mark Thompson,FALSE,DEM,1,33.33HEMPHILL,Railroad Commissioner,,Total,,,3,HENDERSON,Railroad Commissioner,,Dale Henry,FALSE,DEM,65,51.59HENDERSON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,61,48.41HENDERSON,Railroad Commissioner,,Total,,,126,HIDALGO,Railroad Commissioner,,Dale Henry,FALSE,DEM,2742,33.95HIDALGO,Railroad Commissioner,,Mark Thompson,FALSE,DEM,5335,66.05HIDALGO,Railroad Commissioner,,Total,,,8077,HILL,Railroad Commissioner,,Dale Henry,FALSE,DEM,41,46.07HILL,Railroad Commissioner,,Mark Thompson,FALSE,DEM,48,53.93HILL,Railroad Commissioner,,Total,,,89,HOCKLEY,Railroad Commissioner,,Dale Henry,FALSE,DEM,4,50HOCKLEY,Railroad Commissioner,,Mark Thompson,FALSE,DEM,4,50HOCKLEY,Railroad Commissioner,,Total,,,8,HOOD,Railroad Commissioner,,Dale Henry,FALSE,DEM,154,61.85HOOD,Railroad Commissioner,,Mark Thompson,FALSE,DEM,95,38.15HOOD,Railroad Commissioner,,Total,,,249,HOPKINS,Railroad Commissioner,,Dale Henry,FALSE,DEM,39,61.9HOPKINS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,24,38.1HOPKINS,Railroad Commissioner,,Total,,,63,HOUSTON,Railroad Commissioner,,Dale Henry,FALSE,DEM,72,47.37HOUSTON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,80,52.63HOUSTON,Railroad Commissioner,,Total,,,152,HOWARD,Railroad Commissioner,,Dale Henry,FALSE,DEM,24,41.38HOWARD,Railroad Commissioner,,Mark Thompson,FALSE,DEM,34,58.62HOWARD,Railroad Commissioner,,Total,,,58,HUDSPETH,Railroad Commissioner,,Dale Henry,FALSE,DEM,15,57.69HUDSPETH,Railroad Commissioner,,Mark Thompson,FALSE,DEM,11,42.31HUDSPETH,Railroad Commissioner,,Total,,,26,HUNT,Railroad Commissioner,,Dale Henry,FALSE,DEM,115,55.56HUNT,Railroad Commissioner,,Mark Thompson,FALSE,DEM,92,44.44HUNT,Railroad Commissioner,,Total,,,207,HUTCHINSON,Railroad Commissioner,,Dale Henry,FALSE,DEM,22,34.92HUTCHINSON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,41,65.08HUTCHINSON,Railroad Commissioner,,Total,,,63,IRION,Railroad Commissioner,,Dale Henry,FALSE,DEM,33,34.38IRION,Railroad Commissioner,,Mark Thompson,FALSE,DEM,63,65.63IRION,Railroad Commissioner,,Total,,,96,JACK,Railroad Commissioner,,Dale Henry,FALSE,DEM,3,16.67JACK,Railroad Commissioner,,Mark Thompson,FALSE,DEM,15,83.33JACK,Railroad Commissioner,,Total,,,18,JACKSON,Railroad Commissioner,,Dale Henry,FALSE,DEM,24,38.71JACKSON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,38,61.29JACKSON,Railroad Commissioner,,Total,,,62,JASPER,Railroad Commissioner,,Dale Henry,FALSE,DEM,878,26.23JASPER,Railroad Commissioner,,Mark Thompson,FALSE,DEM,2469,73.77JASPER,Railroad Commissioner,,Total,,,3347,JEFF DAVIS,Railroad Commissioner,,Dale Henry,FALSE,DEM,18,52.94JEFF DAVIS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,16,47.06JEFF DAVIS,Railroad Commissioner,,Total,,,34,JEFFERSON,Railroad Commissioner,,Dale Henry,FALSE,DEM,709,26.16JEFFERSON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,2001,73.84JEFFERSON,Railroad Commissioner,,Total,,,2710,JIM HOGG,Railroad Commissioner,,Dale Henry,FALSE,DEM,28,50JIM HOGG,Railroad Commissioner,,Mark Thompson,FALSE,DEM,28,50JIM HOGG,Railroad Commissioner,,Total,,,56,JIM WELLS,Railroad Commissioner,,Dale Henry,FALSE,DEM,308,31.65JIM WELLS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,665,68.35JIM WELLS,Railroad Commissioner,,Total,,,973,JOHNSON,Railroad Commissioner,,Dale Henry,FALSE,DEM,68,54.4JOHNSON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,57,45.6JOHNSON,Railroad Commissioner,,Total,,,125,JONES,Railroad Commissioner,,Dale Henry,FALSE,DEM,21,65.63JONES,Railroad Commissioner,,Mark Thompson,FALSE,DEM,11,34.38JONES,Railroad Commissioner,,Total,,,32,KARNES,Railroad Commissioner,,Dale Henry,FALSE,DEM,18,23.38KARNES,Railroad Commissioner,,Mark Thompson,FALSE,DEM,59,76.62KARNES,Railroad Commissioner,,Total,,,77,KAUFMAN,Railroad Commissioner,,Dale Henry,FALSE,DEM,246,34.02KAUFMAN,Railroad Commissioner,,Mark Thompson,FALSE,DEM,477,65.98KAUFMAN,Railroad Commissioner,,Total,,,723,KENDALL,Railroad Commissioner,,Dale Henry,FALSE,DEM,49,80.33KENDALL,Railroad Commissioner,,Mark Thompson,FALSE,DEM,12,19.67KENDALL,Railroad Commissioner,,Total,,,61,KENEDY,Railroad Commissioner,,Dale Henry,FALSE,DEM,13,68.42KENEDY,Railroad Commissioner,,Mark Thompson,FALSE,DEM,6,31.58KENEDY,Railroad Commissioner,,Total,,,19,KENT,Railroad Commissioner,,Dale Henry,FALSE,DEM,9,52.94KENT,Railroad Commissioner,,Mark Thompson,FALSE,DEM,8,47.06KENT,Railroad Commissioner,,Total,,,17,KERR,Railroad Commissioner,,Dale Henry,FALSE,DEM,62,81.58KERR,Railroad Commissioner,,Mark Thompson,FALSE,DEM,14,18.42KERR,Railroad Commissioner,,Total,,,76,KIMBLE,Railroad Commissioner,,Dale Henry,FALSE,DEM,1,14.29KIMBLE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,6,85.71KIMBLE,Railroad Commissioner,,Total,,,7,KING,Railroad Commissioner,,Dale Henry,FALSE,DEM,7,100KING,Railroad Commissioner,,Mark Thompson,FALSE,DEM,0,0KING,Railroad Commissioner,,Total,,,7,KINNEY,Railroad Commissioner,,Dale Henry,FALSE,DEM,68,28.94KINNEY,Railroad Commissioner,,Mark Thompson,FALSE,DEM,167,71.06KINNEY,Railroad Commissioner,,Total,,,235,KLEBERG,Railroad Commissioner,,Dale Henry,FALSE,DEM,482,39.28KLEBERG,Railroad Commissioner,,Mark Thompson,FALSE,DEM,745,60.72KLEBERG,Railroad Commissioner,,Total,,,1227,KNOX,Railroad Commissioner,,Dale Henry,FALSE,DEM,10,58.82KNOX,Railroad Commissioner,,Mark Thompson,FALSE,DEM,7,41.18KNOX,Railroad Commissioner,,Total,,,17,LAMAR,Railroad Commissioner,,Dale Henry,FALSE,DEM,1500,39.88LAMAR,Railroad Commissioner,,Mark Thompson,FALSE,DEM,2261,60.12LAMAR,Railroad Commissioner,,Total,,,3761,LAMAR,District Judge,6th Judicial District,David Hamilton,FALSE,DEM,1509,33.74LAMAR,District Judge,6th Judicial District,Dave Turner,FALSE,DEM,2964,66.26LAMAR,District Judge,6th Judicial District,Total,,,4473,LAMB,Railroad Commissioner,,Dale Henry,FALSE,DEM,28,42.42LAMB,Railroad Commissioner,,Mark Thompson,FALSE,DEM,38,57.58LAMB,Railroad Commissioner,,Total,,,66,LAMPASAS,Railroad Commissioner,,Dale Henry,FALSE,DEM,104,96.3LAMPASAS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,4,3.7LAMPASAS,Railroad Commissioner,,Total,,,108,LASALLE,Railroad Commissioner,,Dale Henry,FALSE,DEM,31,39.74LASALLE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,47,60.26LASALLE,Railroad Commissioner,,Total,,,78,LAVACA,Railroad Commissioner,,Dale Henry,FALSE,DEM,185,31.84LAVACA,Railroad Commissioner,,Mark Thompson,FALSE,DEM,396,68.16LAVACA,Railroad Commissioner,,Total,,,581,LEE,Railroad Commissioner,,Dale Henry,FALSE,DEM,21,40.38LEE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,31,59.62LEE,Railroad Commissioner,,Total,,,52,LEON,Railroad Commissioner,,Dale Henry,FALSE,DEM,17,31.48LEON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,37,68.52LEON,Railroad Commissioner,,Total,,,54,LIBERTY,Railroad Commissioner,,Dale Henry,FALSE,DEM,33,46.48LIBERTY,Railroad Commissioner,,Mark Thompson,FALSE,DEM,38,53.52LIBERTY,Railroad Commissioner,,Total,,,71,LIMESTONE,Railroad Commissioner,,Dale Henry,FALSE,DEM,36,32.14LIMESTONE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,76,67.86LIMESTONE,Railroad Commissioner,,Total,,,112,LIPSCOMB,Railroad Commissioner,,Dale Henry,FALSE,DEM,7,53.85LIPSCOMB,Railroad Commissioner,,Mark Thompson,FALSE,DEM,6,46.15LIPSCOMB,Railroad Commissioner,,Total,,,13,LIVE OAK,Railroad Commissioner,,Dale Henry,FALSE,DEM,12,29.27LIVE OAK,Railroad Commissioner,,Mark Thompson,FALSE,DEM,29,70.73LIVE OAK,Railroad Commissioner,,Total,,,41,LLANO,Railroad Commissioner,,Dale Henry,FALSE,DEM,33,55.93LLANO,Railroad Commissioner,,Mark Thompson,FALSE,DEM,26,44.07LLANO,Railroad Commissioner,,Total,,,59,LOVING,Railroad Commissioner,,Dale Henry,FALSE,DEM,3,60LOVING,Railroad Commissioner,,Mark Thompson,FALSE,DEM,2,40LOVING,Railroad Commissioner,,Total,,,5,LUBBOCK,Railroad Commissioner,,Dale Henry,FALSE,DEM,197,41.47LUBBOCK,Railroad Commissioner,,Mark Thompson,FALSE,DEM,278,58.53LUBBOCK,Railroad Commissioner,,Total,,,475,LYNN,Railroad Commissioner,,Dale Henry,FALSE,DEM,1,33.33LYNN,Railroad Commissioner,,Mark Thompson,FALSE,DEM,2,66.67LYNN,Railroad Commissioner,,Total,,,3,MADISON,Railroad Commissioner,,Dale Henry,FALSE,DEM,16,57.14MADISON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,12,42.86MADISON,Railroad Commissioner,,Total,,,28,MARION,Railroad Commissioner,,Dale Henry,FALSE,DEM,18,23.38MARION,Railroad Commissioner,,Mark Thompson,FALSE,DEM,59,76.62MARION,Railroad Commissioner,,Total,,,77,MARTIN,Railroad Commissioner,,Dale Henry,FALSE,DEM,0,0MARTIN,Railroad Commissioner,,Mark Thompson,FALSE,DEM,0,0MARTIN,Railroad Commissioner,,Total,,,0,MASON,Railroad Commissioner,,Dale Henry,FALSE,DEM,18,81.82MASON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,4,18.18MASON,Railroad Commissioner,,Total,,,22,MATAGORDA,Railroad Commissioner,,Dale Henry,FALSE,DEM,70,34.31MATAGORDA,Railroad Commissioner,,Mark Thompson,FALSE,DEM,134,65.69MATAGORDA,Railroad Commissioner,,Total,,,204,MAVERICK,Railroad Commissioner,,Dale Henry,FALSE,DEM,1779,35.35MAVERICK,Railroad Commissioner,,Mark Thompson,FALSE,DEM,3253,64.65MAVERICK,Railroad Commissioner,,Total,,,5032,MCCULLOCH,Railroad Commissioner,,Dale Henry,FALSE,DEM,2,13.33MCCULLOCH,Railroad Commissioner,,Mark Thompson,FALSE,DEM,13,86.67MCCULLOCH,Railroad Commissioner,,Total,,,15,MCLENNAN,Railroad Commissioner,,Dale Henry,FALSE,DEM,200,54.35MCLENNAN,Railroad Commissioner,,Mark Thompson,FALSE,DEM,168,45.65MCLENNAN,Railroad Commissioner,,Total,,,368,MCMULLEN,Railroad Commissioner,,Dale Henry,FALSE,DEM,0,0MCMULLEN,Railroad Commissioner,,Mark Thompson,FALSE,DEM,1,100MCMULLEN,Railroad Commissioner,,Total,,,1,MEDINA,Railroad Commissioner,,Dale Henry,FALSE,DEM,43,42.57MEDINA,Railroad Commissioner,,Mark Thompson,FALSE,DEM,58,57.43MEDINA,Railroad Commissioner,,Total,,,101,MENARD,Railroad Commissioner,,Dale Henry,FALSE,DEM,0,0MENARD,Railroad Commissioner,,Mark Thompson,FALSE,DEM,0,0MENARD,Railroad Commissioner,,Total,,,0,MIDLAND,Railroad Commissioner,,Dale Henry,FALSE,DEM,40,52.63MIDLAND,Railroad Commissioner,,Mark Thompson,FALSE,DEM,36,47.37MIDLAND,Railroad Commissioner,,Total,,,76,MILAM,Railroad Commissioner,,Dale Henry,FALSE,DEM,254,47.83MILAM,Railroad Commissioner,,Mark Thompson,FALSE,DEM,277,52.17MILAM,Railroad Commissioner,,Total,,,531,MILLS,Railroad Commissioner,,Dale Henry,FALSE,DEM,50,67.57MILLS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,24,32.43MILLS,Railroad Commissioner,,Total,,,74,MITCHELL,Railroad Commissioner,,Dale Henry,FALSE,DEM,14,41.18MITCHELL,Railroad Commissioner,,Mark Thompson,FALSE,DEM,20,58.82MITCHELL,Railroad Commissioner,,Total,,,34,MONTAGUE,Railroad Commissioner,,Dale Henry,FALSE,DEM,57,60MONTAGUE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,38,40MONTAGUE,Railroad Commissioner,,Total,,,95,MONTGOMERY,Railroad Commissioner,,Dale Henry,FALSE,DEM,289,46.09MONTGOMERY,Railroad Commissioner,,Mark Thompson,FALSE,DEM,338,53.91MONTGOMERY,Railroad Commissioner,,Total,,,627,MOORE,Railroad Commissioner,,Dale Henry,FALSE,DEM,12,42.86MOORE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,16,57.14MOORE,Railroad Commissioner,,Total,,,28,MORRIS,Railroad Commissioner,,Dale Henry,FALSE,DEM,278,24.32MORRIS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,865,75.68MORRIS,Railroad Commissioner,,Total,,,1143,MOTLEY,Railroad Commissioner,,Dale Henry,FALSE,DEM,6,66.67MOTLEY,Railroad Commissioner,,Mark Thompson,FALSE,DEM,3,33.33MOTLEY,Railroad Commissioner,,Total,,,9,NACOGDOCHES,Railroad Commissioner,,Dale Henry,FALSE,DEM,114,64.77NACOGDOCHES,Railroad Commissioner,,Mark Thompson,FALSE,DEM,62,35.23NACOGDOCHES,Railroad Commissioner,,Total,,,176,NAVARRO,Railroad Commissioner,,Dale Henry,FALSE,DEM,15,22.39NAVARRO,Railroad Commissioner,,Mark Thompson,FALSE,DEM,52,77.61NAVARRO,Railroad Commissioner,,Total,,,67,NEWTON,Railroad Commissioner,,Dale Henry,FALSE,DEM,50,24.39NEWTON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,155,75.61NEWTON,Railroad Commissioner,,Total,,,205,NOLAN,Railroad Commissioner,,Dale Henry,FALSE,DEM,441,25.55NOLAN,Railroad Commissioner,,Mark Thompson,FALSE,DEM,1285,74.45NOLAN,Railroad Commissioner,,Total,,,1726,NUECES,Railroad Commissioner,,Dale Henry,FALSE,DEM,1144,34.78NUECES,Railroad Commissioner,,Mark Thompson,FALSE,DEM,2145,65.22NUECES,Railroad Commissioner,,Total,,,3289,OCHILTREE,Railroad Commissioner,,Dale Henry,FALSE,DEM,4,80OCHILTREE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,1,20OCHILTREE,Railroad Commissioner,,Total,,,5,OLDHAM,Railroad Commissioner,,Dale Henry,FALSE,DEM,0,0OLDHAM,Railroad Commissioner,,Mark Thompson,FALSE,DEM,0,0OLDHAM,Railroad Commissioner,,Total,,,0,ORANGE,Railroad Commissioner,,Dale Henry,FALSE,DEM,1485,23.55ORANGE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,4820,76.45ORANGE,Railroad Commissioner,,Total,,,6305,PALO PINTO,Railroad Commissioner,,Dale Henry,FALSE,DEM,11,34.38PALO PINTO,Railroad Commissioner,,Mark Thompson,FALSE,DEM,21,65.63PALO PINTO,Railroad Commissioner,,Total,,,32,PANOLA,Railroad Commissioner,,Dale Henry,FALSE,DEM,329,30.81PANOLA,Railroad Commissioner,,Mark Thompson,FALSE,DEM,739,69.19PANOLA,Railroad Commissioner,,Total,,,1068,PARKER,Railroad Commissioner,,Dale Henry,FALSE,DEM,84,56.76PARKER,Railroad Commissioner,,Mark Thompson,FALSE,DEM,64,43.24PARKER,Railroad Commissioner,,Total,,,148,PARMER,Railroad Commissioner,,Dale Henry,FALSE,DEM,5,62.5PARMER,Railroad Commissioner,,Mark Thompson,FALSE,DEM,3,37.5PARMER,Railroad Commissioner,,Total,,,8,PECOS,Railroad Commissioner,,Dale Henry,FALSE,DEM,19,35.85PECOS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,34,64.15PECOS,Railroad Commissioner,,Total,,,53,POLK,Railroad Commissioner,,Dale Henry,FALSE,DEM,64,38.32POLK,Railroad Commissioner,,Mark Thompson,FALSE,DEM,103,61.68POLK,Railroad Commissioner,,Total,,,167,POTTER,Railroad Commissioner,,Dale Henry,FALSE,DEM,77,40.96POTTER,Railroad Commissioner,,Mark Thompson,FALSE,DEM,111,59.04POTTER,Railroad Commissioner,,Total,,,188,PRESIDIO,Railroad Commissioner,,Dale Henry,FALSE,DEM,18,50PRESIDIO,Railroad Commissioner,,Mark Thompson,FALSE,DEM,18,50PRESIDIO,Railroad Commissioner,,Total,,,36,RAINS,Railroad Commissioner,,Dale Henry,FALSE,DEM,24,45.28RAINS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,29,54.72RAINS,Railroad Commissioner,,Total,,,53,RANDALL,Railroad Commissioner,,Dale Henry,FALSE,DEM,52,52RANDALL,Railroad Commissioner,,Mark Thompson,FALSE,DEM,48,48RANDALL,Railroad Commissioner,,Total,,,100,REAGAN,Railroad Commissioner,,Dale Henry,FALSE,DEM,1,50REAGAN,Railroad Commissioner,,Mark Thompson,FALSE,DEM,1,50REAGAN,Railroad Commissioner,,Total,,,2,REAL,Railroad Commissioner,,Dale Henry,FALSE,DEM,3,50REAL,Railroad Commissioner,,Mark Thompson,FALSE,DEM,3,50REAL,Railroad Commissioner,,Total,,,6,RED RIVER,Railroad Commissioner,,Dale Henry,FALSE,DEM,379,27.09RED RIVER,Railroad Commissioner,,Mark Thompson,FALSE,DEM,1020,72.91RED RIVER,Railroad Commissioner,,Total,,,1399,RED RIVER,District Judge,6th Judicial District,David Hamilton,FALSE,DEM,727,36.74RED RIVER,District Judge,6th Judicial District,Dave Turner,FALSE,DEM,1252,63.26RED RIVER,District Judge,6th Judicial District,Total,,,1979,REEVES,Railroad Commissioner,,Dale Henry,FALSE,DEM,89,61.38REEVES,Railroad Commissioner,,Mark Thompson,FALSE,DEM,56,38.62REEVES,Railroad Commissioner,,Total,,,145,REFUGIO,Railroad Commissioner,,Dale Henry,FALSE,DEM,20,36.36REFUGIO,Railroad Commissioner,,Mark Thompson,FALSE,DEM,35,63.64REFUGIO,Railroad Commissioner,,Total,,,55,ROBERTS,Railroad Commissioner,,Dale Henry,FALSE,DEM,0,0ROBERTS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,0,0ROBERTS,Railroad Commissioner,,Total,,,0,ROBERTSON,Railroad Commissioner,,Dale Henry,FALSE,DEM,252,43.75ROBERTSON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,324,56.25ROBERTSON,Railroad Commissioner,,Total,,,576,ROCKWALL,Railroad Commissioner,,Dale Henry,FALSE,DEM,57,74.03ROCKWALL,Railroad Commissioner,,Mark Thompson,FALSE,DEM,20,25.97ROCKWALL,Railroad Commissioner,,Total,,,77,RUNNELS,Railroad Commissioner,,Dale Henry,FALSE,DEM,3,17.65RUNNELS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,14,82.35RUNNELS,Railroad Commissioner,,Total,,,17,RUSK,Railroad Commissioner,,Dale Henry,FALSE,DEM,44,31.43RUSK,Railroad Commissioner,,Mark Thompson,FALSE,DEM,96,68.57RUSK,Railroad Commissioner,,Total,,,140,SABINE,Railroad Commissioner,,Dale Henry,FALSE,DEM,416,29.57SABINE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,991,70.43SABINE,Railroad Commissioner,,Total,,,1407,SAN AUGUSTINE,Railroad Commissioner,,Dale Henry,FALSE,DEM,434,30.37SAN AUGUSTINE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,995,69.63SAN AUGUSTINE,Railroad Commissioner,,Total,,,1429,SAN JACINTO,Railroad Commissioner,,Dale Henry,FALSE,DEM,31,54.39SAN JACINTO,Railroad Commissioner,,Mark Thompson,FALSE,DEM,26,45.61SAN JACINTO,Railroad Commissioner,,Total,,,57,SAN PATRICIO,Railroad Commissioner,,Dale Henry,FALSE,DEM,620,38.77SAN PATRICIO,Railroad Commissioner,,Mark Thompson,FALSE,DEM,979,61.23SAN PATRICIO,Railroad Commissioner,,Total,,,1599,SAN SABA,Railroad Commissioner,,Dale Henry,FALSE,DEM,7,63.64SAN SABA,Railroad Commissioner,,Mark Thompson,FALSE,DEM,4,36.36SAN SABA,Railroad Commissioner,,Total,,,11,SCHLEICHER,Railroad Commissioner,,Dale Henry,FALSE,DEM,11,45.83SCHLEICHER,Railroad Commissioner,,Mark Thompson,FALSE,DEM,13,54.17SCHLEICHER,Railroad Commissioner,,Total,,,24,SCURRY,Railroad Commissioner,,Dale Henry,FALSE,DEM,11,55SCURRY,Railroad Commissioner,,Mark Thompson,FALSE,DEM,9,45SCURRY,Railroad Commissioner,,Total,,,20,SHACKELFORD,Railroad Commissioner,,Dale Henry,FALSE,DEM,3,50SHACKELFORD,Railroad Commissioner,,Mark Thompson,FALSE,DEM,3,50SHACKELFORD,Railroad Commissioner,,Total,,,6,SHELBY,Railroad Commissioner,,Dale Henry,FALSE,DEM,15,53.57SHELBY,Railroad Commissioner,,Mark Thompson,FALSE,DEM,13,46.43SHELBY,Railroad Commissioner,,Total,,,28,SHERMAN,Railroad Commissioner,,Dale Henry,FALSE,DEM,3,42.86SHERMAN,Railroad Commissioner,,Mark Thompson,FALSE,DEM,4,57.14SHERMAN,Railroad Commissioner,,Total,,,7,SMITH,Railroad Commissioner,,Dale Henry,FALSE,DEM,73,51.77SMITH,Railroad Commissioner,,Mark Thompson,FALSE,DEM,68,48.23SMITH,Railroad Commissioner,,Total,,,141,SOMERVELL,Railroad Commissioner,,Dale Henry,FALSE,DEM,21,61.76SOMERVELL,Railroad Commissioner,,Mark Thompson,FALSE,DEM,13,38.24SOMERVELL,Railroad Commissioner,,Total,,,34,STARR,Railroad Commissioner,,Dale Henry,FALSE,DEM,27,45STARR,Railroad Commissioner,,Mark Thompson,FALSE,DEM,33,55STARR,Railroad Commissioner,,Total,,,60,STEPHENS,Railroad Commissioner,,Dale Henry,FALSE,DEM,26,63.41STEPHENS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,15,36.59STEPHENS,Railroad Commissioner,,Total,,,41,STERLING,Railroad Commissioner,,Dale Henry,FALSE,DEM,1,50STERLING,Railroad Commissioner,,Mark Thompson,FALSE,DEM,1,50STERLING,Railroad Commissioner,,Total,,,2,STONEWALL,Railroad Commissioner,,Dale Henry,FALSE,DEM,7,46.67STONEWALL,Railroad Commissioner,,Mark Thompson,FALSE,DEM,8,53.33STONEWALL,Railroad Commissioner,,Total,,,15,SUTTON,Railroad Commissioner,,Dale Henry,FALSE,DEM,5,45.45SUTTON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,6,54.55SUTTON,Railroad Commissioner,,Total,,,11,SWISHER,Railroad Commissioner,,Dale Henry,FALSE,DEM,10,43.48SWISHER,Railroad Commissioner,,Mark Thompson,FALSE,DEM,13,56.52SWISHER,Railroad Commissioner,,Total,,,23,TARRANT,Railroad Commissioner,,Dale Henry,FALSE,DEM,1929,49.84TARRANT,Railroad Commissioner,,Mark Thompson,FALSE,DEM,1941,50.16TARRANT,Railroad Commissioner,,Total,,,3870,TAYLOR,Railroad Commissioner,,Dale Henry,FALSE,DEM,54,46.15TAYLOR,Railroad Commissioner,,Mark Thompson,FALSE,DEM,63,53.85TAYLOR,Railroad Commissioner,,Total,,,117,TERRELL,Railroad Commissioner,,Dale Henry,FALSE,DEM,6,40TERRELL,Railroad Commissioner,,Mark Thompson,FALSE,DEM,9,60TERRELL,Railroad Commissioner,,Total,,,15,TERRY,Railroad Commissioner,,Dale Henry,FALSE,DEM,379,36.65TERRY,Railroad Commissioner,,Mark Thompson,FALSE,DEM,655,63.35TERRY,Railroad Commissioner,,Total,,,1034,THROCKMORTON,Railroad Commissioner,,Dale Henry,FALSE,DEM,12,60THROCKMORTON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,8,40THROCKMORTON,Railroad Commissioner,,Total,,,20,TITUS,Railroad Commissioner,,Dale Henry,FALSE,DEM,643,25TITUS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,1929,75TITUS,Railroad Commissioner,,Total,,,2572,TOM GREEN,Railroad Commissioner,,Dale Henry,FALSE,DEM,193,76.89TOM GREEN,Railroad Commissioner,,Mark Thompson,FALSE,DEM,58,23.11TOM GREEN,Railroad Commissioner,,Total,,,251,TRAVIS,Railroad Commissioner,,Dale Henry,FALSE,DEM,11000,48.92TRAVIS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,11486,51.08TRAVIS,Railroad Commissioner,,Total,,,22486,TRAVIS,District Attorney, 53rd Judicial District,Rosemary Lehmberg,FALSE,DEM,19217,65.22TRAVIS,District Attorney, 53rd Judicial District,Mindy Montford,FALSE,DEM,10250,34.78TRAVIS,District Attorney, 53rd Judicial District,Total,,,29467,TRINITY,Railroad Commissioner,,Dale Henry,FALSE,DEM,1603,71.66TRINITY,Railroad Commissioner,,Mark Thompson,FALSE,DEM,634,28.34TRINITY,Railroad Commissioner,,Total,,,2237,TYLER,Railroad Commissioner,,Dale Henry,FALSE,DEM,665,26.38TYLER,Railroad Commissioner,,Mark Thompson,FALSE,DEM,1856,73.62TYLER,Railroad Commissioner,,Total,,,2521,UPSHUR,Railroad Commissioner,,Dale Henry,FALSE,DEM,177,35.26UPSHUR,Railroad Commissioner,,Mark Thompson,FALSE,DEM,325,64.74UPSHUR,Railroad Commissioner,,Total,,,502,UPTON,Railroad Commissioner,,Dale Henry,FALSE,DEM,163,35.28UPTON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,299,64.72UPTON,Railroad Commissioner,,Total,,,462,UVALDE,Railroad Commissioner,,Dale Henry,FALSE,DEM,629,33.37UVALDE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,1256,66.63UVALDE,Railroad Commissioner,,Total,,,1885,VAL VERDE,Railroad Commissioner,,Dale Henry,FALSE,DEM,43,49.43VAL VERDE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,44,50.57VAL VERDE,Railroad Commissioner,,Total,,,87,VAN ZANDT,Railroad Commissioner,,Dale Henry,FALSE,DEM,187,31.64VAN ZANDT,Railroad Commissioner,,Mark Thompson,FALSE,DEM,404,68.36VAN ZANDT,Railroad Commissioner,,Total,,,591,VICTORIA,Railroad Commissioner,,Dale Henry,FALSE,DEM,387,36.48VICTORIA,Railroad Commissioner,,Mark Thompson,FALSE,DEM,674,63.52VICTORIA,Railroad Commissioner,,Total,,,1061,WALKER,Railroad Commissioner,,Dale Henry,FALSE,DEM,29,52.73WALKER,Railroad Commissioner,,Mark Thompson,FALSE,DEM,26,47.27WALKER,Railroad Commissioner,,Total,,,55,WALLER,Railroad Commissioner,,Dale Henry,FALSE,DEM,115,37.46WALLER,Railroad Commissioner,,Mark Thompson,FALSE,DEM,192,62.54WALLER,Railroad Commissioner,,Total,,,307,WARD,Railroad Commissioner,,Dale Henry,FALSE,DEM,12,30.77WARD,Railroad Commissioner,,Mark Thompson,FALSE,DEM,27,69.23WARD,Railroad Commissioner,,Total,,,39,WASHINGTON,Railroad Commissioner,,Dale Henry,FALSE,DEM,30,44.78WASHINGTON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,37,55.22WASHINGTON,Railroad Commissioner,,Total,,,67,WEBB,Railroad Commissioner,,Dale Henry,FALSE,DEM,9865,44.1WEBB,Railroad Commissioner,,Mark Thompson,FALSE,DEM,12504,55.9WEBB,Railroad Commissioner,,Total,,,22369,WEBB,District Attorney, 49th Judicial District,"Isidro R. ""Chilo"" Alaniz",FALSE,DEM,18360,70.78WEBB,District Attorney, 49th Judicial District,Maria Elena Morales,FALSE,DEM,7579,29.22WEBB,District Attorney, 49th Judicial District,Total,,,25939,WHARTON,Railroad Commissioner,,Dale Henry,FALSE,DEM,32,55.17WHARTON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,26,44.83WHARTON,Railroad Commissioner,,Total,,,58,WHEELER,Railroad Commissioner,,Dale Henry,FALSE,DEM,9,90WHEELER,Railroad Commissioner,,Mark Thompson,FALSE,DEM,1,10WHEELER,Railroad Commissioner,,Total,,,10,WICHITA,Railroad Commissioner,,Dale Henry,FALSE,DEM,335,35.34WICHITA,Railroad Commissioner,,Mark Thompson,FALSE,DEM,613,64.66WICHITA,Railroad Commissioner,,Total,,,948,WILBARGER,Railroad Commissioner,,Dale Henry,FALSE,DEM,166,35.78WILBARGER,Railroad Commissioner,,Mark Thompson,FALSE,DEM,298,64.22WILBARGER,Railroad Commissioner,,Total,,,464,WILLACY,Railroad Commissioner,,Dale Henry,FALSE,DEM,825,35.21WILLACY,Railroad Commissioner,,Mark Thompson,FALSE,DEM,1518,64.79WILLACY,Railroad Commissioner,,Total,,,2343,WILLIAMSON,Railroad Commissioner,,Dale Henry,FALSE,DEM,322,51.94WILLIAMSON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,298,48.06WILLIAMSON,Railroad Commissioner,,Total,,,620,WILSON,Railroad Commissioner,,Dale Henry,FALSE,DEM,42,48.28WILSON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,45,51.72WILSON,Railroad Commissioner,,Total,,,87,WINKLER,Railroad Commissioner,,Dale Henry,FALSE,DEM,6,60WINKLER,Railroad Commissioner,,Mark Thompson,FALSE,DEM,4,40WINKLER,Railroad Commissioner,,Total,,,10,WISE,Railroad Commissioner,,Dale Henry,FALSE,DEM,54,56.25WISE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,42,43.75WISE,Railroad Commissioner,,Total,,,96,WOOD,Railroad Commissioner,,Dale Henry,FALSE,DEM,66,52.8WOOD,Railroad Commissioner,,Mark Thompson,FALSE,DEM,59,47.2WOOD,Railroad Commissioner,,Total,,,125,YOAKUM,Railroad Commissioner,,Dale Henry,FALSE,DEM,5,35.71YOAKUM,Railroad Commissioner,,Mark Thompson,FALSE,DEM,9,64.29YOAKUM,Railroad Commissioner,,Total,,,14,YOUNG,Railroad Commissioner,,Dale Henry,FALSE,DEM,40,48.78YOUNG,Railroad Commissioner,,Mark Thompson,FALSE,DEM,42,51.22YOUNG,Railroad Commissioner,,Total,,,82,ZAPATA,Railroad Commissioner,,Dale Henry,FALSE,DEM,272,51.71ZAPATA,Railroad Commissioner,,Mark Thompson,FALSE,DEM,254,48.29ZAPATA,Railroad Commissioner,,Total,,,526,ZAPATA,District Attorney, 49th Judicial District,"Isidro R. ""Chilo"" Alaniz",FALSE,DEM,554,82.44ZAPATA,District Attorney, 49th Judicial District,Maria Elena Morales,FALSE,DEM,118,17.56ZAPATA,District Attorney, 49th Judicial District,Total,,,672,ZAVALA,Railroad Commissioner,,Dale Henry,FALSE,DEM,78,38.81ZAVALA,Railroad Commissioner,,Mark Thompson,FALSE,DEM,123,61.19ZAVALA,Railroad Commissioner,,Total,,,201,
+county,office,district,candidate,incumbent,party,votes,pct
+ANDREWS,State Representative,81,Tryon D. Lewis,FALSE,REP,251,68.02
+ANDREWS,State Representative,81,"G.E. ""Buddy"" West",TRUE,REP,118,31.98
+ANDREWS,State Representative,81,Total,,,369,
+BELL,State Representative,55,Ralph Sheffield,FALSE,REP,4204,63.49
+BELL,State Representative,55,Martha Tyroch,FALSE,REP,2418,36.51
+BELL,State Representative,55,Total,,,6622,
+BRAZORIA,U. S. Representative,22,Pete Olson,FALSE,REP,1217,66.58
+BRAZORIA,U. S. Representative,22,Shelley Sekula Gibbs,FALSE,REP,611,33.42
+BRAZORIA,U. S. Representative,22,Total,,,1828,
+COOKE,District Attorney,235th Judicial District,Cindy Stormer,TRUE,REP,981,32.28
+COOKE,District Attorney,235th Judicial District,Janice Warder,FALSE,REP,2058,67.72
+COOKE,District Attorney,235th Judicial District,Total,,,3039,
+DALLAS,State Representative,112,Angie Chen Button,FALSE,REP,3103,53.18
+DALLAS,State Representative,112,Randy Dunning,FALSE,REP,2732,46.82
+DALLAS,State Representative,112,Total,,,5835,
+DENTON,District Judge,393rd Judicial District,Steve Burgess,FALSE,REP,1141,36.91
+DENTON,District Judge,393rd Judicial District,Doug Robison,FALSE,REP,1950,63.09
+DENTON,District Judge,393rd Judicial District,Total,,,3091,
+ECTOR,State Representative,81,Tryon D. Lewis,FALSE,REP,4656,76.1
+ECTOR,State Representative,81,"G.E. ""Buddy"" West",TRUE,REP,1462,23.9
+ECTOR,State Representative,81,Total,,,6118,
+FORT BEND,U. S. Representative,22,Pete Olson,FALSE,REP,8395,77.35
+FORT BEND,U. S. Representative,22,Shelley Sekula Gibbs,FALSE,REP,2458,22.65
+FORT BEND,U. S. Representative,22,Total,,,10853,
+GALVESTON,U. S. Representative,22,Pete Olson,FALSE,REP,236,48.86
+GALVESTON,U. S. Representative,22,Shelley Sekula Gibbs,FALSE,REP,247,51.14
+GALVESTON,U. S. Representative,22,Total,,,483,
+HARRIS,U. S. Representative,22,Pete Olson,FALSE,REP,5663,59.79
+HARRIS,U. S. Representative,22,Shelley Sekula Gibbs,FALSE,REP,3809,40.21
+HARRIS,U. S. Representative,22,Total,,,9472,
+HARRIS,State Representative,144,Ken Legler,FALSE,REP,1593,51.62
+HARRIS,State Representative,144,Fred Roberts,FALSE,REP,1493,48.38
+HARRIS,State Representative,144,Total,,,3086,
+HARRIS,District Judge,174th Judicial District,Kevin Keating,FALSE,REP,11420,33.99
+HARRIS,District Judge,174th Judicial District,Bill Moore,FALSE,REP,22176,66.01
+HARRIS,District Judge,174th Judicial District,Total,,,33596,
+HARRIS,Harris County,Attorney,Pat Lykos,FALSE,REP,21106,52.68
+HARRIS,Harris County,Attorney,Kelly Siegler,FALSE,REP,18962,47.32
+HARRIS,Harris County,Attorney,Total,,,40068,
+MEDINA,District Attorney,38th Judicial District,Daniel J. Kindred,TRUE,REP,980,68.48
+MEDINA,District Attorney,38th Judicial District,Tony Reyes,FALSE,REP,451,31.52
+MEDINA,District Attorney,38th Judicial District,Total,,,1431,
+MONTGOMERY,District Judge,418th Judicial District,Tracy A. Gilbert,FALSE,REP,8037,68.89
+MONTGOMERY,District Judge,418th Judicial District,Robert Rosenquist,TRUE,REP,3630,31.11
+MONTGOMERY,District Judge,418th Judicial District,Total,,,11667,
+MONTGOMERY,District Judge,435th Judicial District,Scott Golemon,FALSE,REP,5495,46.34
+MONTGOMERY,District Judge,435th Judicial District,Mike Seiler,FALSE,REP,6363,53.66
+MONTGOMERY,District Judge,435th Judicial District,Total,,,11858,
+MONTGOMERY,District Attorney,9th Judicial District,Brett Ligon,FALSE,REP,7164,56.94
+MONTGOMERY,District Attorney,9th Judicial District,Michael McDougal,TRUE,REP,5417,43.06
+MONTGOMERY,District Attorney,9th Judicial District,Total,,,12581,
+REAL,District Attorney,38th Judicial District,Daniel J. Kindred,TRUE,REP,147,60.25
+REAL,District Attorney,38th Judicial District,Tony Reyes,FALSE,REP,97,39.75
+REAL,District Attorney,38th Judicial District,Total,,,244,
+TARRANT,District Judge,17th Judicial District,Mike Hrabal,FALSE,REP,5267,49.91
+TARRANT,District Judge,17th Judicial District,Melody Wilkinson,FALSE,REP,5286,50.09
+TARRANT,District Judge,17th Judicial District,Total,,,10553,
+TARRANT,District Judge,213th Judicial District,Lisa Callaghan,FALSE,REP,4646,43.57
+TARRANT,District Judge,213th Judicial District,Louis Sturns,TRUE,REP,6018,56.43
+TARRANT,District Judge,213th Judicial District,Total,,,10664,
+UVALDE,District Attorney,38th Judicial District,Daniel J. Kindred,TRUE,REP,199,53.07
+UVALDE,District Attorney,38th Judicial District,Tony Reyes,FALSE,REP,176,46.93
+UVALDE,District Attorney,38th Judicial District,Total,,,375,
+WILLIAMSON,State Representative,52,Bryan Daniel,FALSE,REP,1657,53.62
+WILLIAMSON,State Representative,52,Dee Hobbs,FALSE,REP,1433,46.38
+WILLIAMSON,State Representative,52,Total,,,3090,
+WINKLER,State Representative,81,Tryon D. Lewis,FALSE,REP,274,82.78
+WINKLER,State Representative,81,"G.E. ""Buddy"" West",TRUE,REP,57,17.22
+WINKLER,State Representative,81,Total,,,331,
+ANDERSON,Railroad Commissioner,,Dale Henry,FALSE,DEM,31,56.36
+ANDERSON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,24,43.64
+ANDERSON,Railroad Commissioner,,Total,,,55,
+ANDREWS,Railroad Commissioner,,Dale Henry,FALSE,DEM,20,45.45
+ANDREWS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,24,54.55
+ANDREWS,Railroad Commissioner,,Total,,,44,
+ANGELINA,Railroad Commissioner,,Dale Henry,FALSE,DEM,175,31.53
+ANGELINA,Railroad Commissioner,,Mark Thompson,FALSE,DEM,380,68.47
+ANGELINA,Railroad Commissioner,,Total,,,555,
+ARANSAS,Railroad Commissioner,,Dale Henry,FALSE,DEM,32,57.14
+ARANSAS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,24,42.86
+ARANSAS,Railroad Commissioner,,Total,,,56,
+ARCHER,Railroad Commissioner,,Dale Henry,FALSE,DEM,15,65.22
+ARCHER,Railroad Commissioner,,Mark Thompson,FALSE,DEM,8,34.78
+ARCHER,Railroad Commissioner,,Total,,,23,
+ARMSTRONG,Railroad Commissioner,,Dale Henry,FALSE,DEM,0,0
+ARMSTRONG,Railroad Commissioner,,Mark Thompson,FALSE,DEM,0,0
+ARMSTRONG,Railroad Commissioner,,Total,,,0,
+ATASCOSA,Railroad Commissioner,,Dale Henry,FALSE,DEM,49,45.79
+ATASCOSA,Railroad Commissioner,,Mark Thompson,FALSE,DEM,58,54.21
+ATASCOSA,Railroad Commissioner,,Total,,,107,
+AUSTIN,Railroad Commissioner,,Dale Henry,FALSE,DEM,33,57.89
+AUSTIN,Railroad Commissioner,,Mark Thompson,FALSE,DEM,24,42.11
+AUSTIN,Railroad Commissioner,,Total,,,57,
+BAILEY,Railroad Commissioner,,Dale Henry,FALSE,DEM,2,50
+BAILEY,Railroad Commissioner,,Mark Thompson,FALSE,DEM,2,50
+BAILEY,Railroad Commissioner,,Total,,,4,
+BANDERA,Railroad Commissioner,,Dale Henry,FALSE,DEM,30,78.95
+BANDERA,Railroad Commissioner,,Mark Thompson,FALSE,DEM,8,21.05
+BANDERA,Railroad Commissioner,,Total,,,38,
+BASTROP,Railroad Commissioner,,Dale Henry,FALSE,DEM,802,38.1
+BASTROP,Railroad Commissioner,,Mark Thompson,FALSE,DEM,1303,61.9
+BASTROP,Railroad Commissioner,,Total,,,2105,
+BAYLOR,Railroad Commissioner,,Dale Henry,FALSE,DEM,2,100
+BAYLOR,Railroad Commissioner,,Mark Thompson,FALSE,DEM,0,0
+BAYLOR,Railroad Commissioner,,Total,,,2,
+BEE,Railroad Commissioner,,Dale Henry,FALSE,DEM,23,36.51
+BEE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,40,63.49
+BEE,Railroad Commissioner,,Total,,,63,
+BELL,Railroad Commissioner,,Dale Henry,FALSE,DEM,113,45.56
+BELL,Railroad Commissioner,,Mark Thompson,FALSE,DEM,135,54.44
+BELL,Railroad Commissioner,,Total,,,248,
+BEXAR,Railroad Commissioner,,Dale Henry,FALSE,DEM,4266,46.12
+BEXAR,Railroad Commissioner,,Mark Thompson,FALSE,DEM,4983,53.88
+BEXAR,Railroad Commissioner,,Total,,,9249,
+BLANCO,Railroad Commissioner,,Dale Henry,FALSE,DEM,13,46.43
+BLANCO,Railroad Commissioner,,Mark Thompson,FALSE,DEM,15,53.57
+BLANCO,Railroad Commissioner,,Total,,,28,
+BORDEN,Railroad Commissioner,,Dale Henry,FALSE,DEM,8,34.78
+BORDEN,Railroad Commissioner,,Mark Thompson,FALSE,DEM,15,65.22
+BORDEN,Railroad Commissioner,,Total,,,23,
+BOSQUE,Railroad Commissioner,,Dale Henry,FALSE,DEM,564,39.77
+BOSQUE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,854,60.23
+BOSQUE,Railroad Commissioner,,Total,,,1418,
+BOWIE,Railroad Commissioner,,Dale Henry,FALSE,DEM,97,48.99
+BOWIE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,101,51.01
+BOWIE,Railroad Commissioner,,Total,,,198,
+BRAZORIA,Railroad Commissioner,,Dale Henry,FALSE,DEM,196,49.37
+BRAZORIA,Railroad Commissioner,,Mark Thompson,FALSE,DEM,201,50.63
+BRAZORIA,Railroad Commissioner,,Total,,,397,
+BRAZOS,Railroad Commissioner,,Dale Henry,FALSE,DEM,132,68.39
+BRAZOS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,61,31.61
+BRAZOS,Railroad Commissioner,,Total,,,193,
+BREWSTER,Railroad Commissioner,,Dale Henry,FALSE,DEM,54,66.67
+BREWSTER,Railroad Commissioner,,Mark Thompson,FALSE,DEM,27,33.33
+BREWSTER,Railroad Commissioner,,Total,,,81,
+BRISCOE,Railroad Commissioner,,Dale Henry,FALSE,DEM,7,35
+BRISCOE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,13,65
+BRISCOE,Railroad Commissioner,,Total,,,20,
+BROOKS,Railroad Commissioner,,Dale Henry,FALSE,DEM,120,30.93
+BROOKS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,268,69.07
+BROOKS,Railroad Commissioner,,Total,,,388,
+BROWN,Railroad Commissioner,,Dale Henry,FALSE,DEM,50,70.42
+BROWN,Railroad Commissioner,,Mark Thompson,FALSE,DEM,21,29.58
+BROWN,Railroad Commissioner,,Total,,,71,
+BURLESON,Railroad Commissioner,,Dale Henry,FALSE,DEM,44,60.27
+BURLESON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,29,39.73
+BURLESON,Railroad Commissioner,,Total,,,73,
+BURNET,Railroad Commissioner,,Dale Henry,FALSE,DEM,142,82.08
+BURNET,Railroad Commissioner,,Mark Thompson,FALSE,DEM,31,17.92
+BURNET,Railroad Commissioner,,Total,,,173,
+CALDWELL,Railroad Commissioner,,Dale Henry,FALSE,DEM,47,43.93
+CALDWELL,Railroad Commissioner,,Mark Thompson,FALSE,DEM,60,56.07
+CALDWELL,Railroad Commissioner,,Total,,,107,
+CALHOUN,Railroad Commissioner,,Dale Henry,FALSE,DEM,27,28.42
+CALHOUN,Railroad Commissioner,,Mark Thompson,FALSE,DEM,68,71.58
+CALHOUN,Railroad Commissioner,,Total,,,95,
+CALLAHAN,Railroad Commissioner,,Dale Henry,FALSE,DEM,4,28.57
+CALLAHAN,Railroad Commissioner,,Mark Thompson,FALSE,DEM,10,71.43
+CALLAHAN,Railroad Commissioner,,Total,,,14,
+CAMERON,Railroad Commissioner,,Dale Henry,FALSE,DEM,2263,40.32
+CAMERON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,3349,59.68
+CAMERON,Railroad Commissioner,,Total,,,5612,
+CAMERON,District Judge,444th Judicial District,Gilberto E. Rosas,FALSE,DEM,3517,48.51
+CAMERON,District Judge,444th Judicial District,David A. Sanchez,FALSE,DEM,3733,51.49
+CAMERON,District Judge,444th Judicial District,Total,,,7250,
+CAMP,Railroad Commissioner,,Dale Henry,FALSE,DEM,5,33.33
+CAMP,Railroad Commissioner,,Mark Thompson,FALSE,DEM,10,66.67
+CAMP,Railroad Commissioner,,Total,,,15,
+CARSON,Railroad Commissioner,,Dale Henry,FALSE,DEM,10,47.62
+CARSON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,11,52.38
+CARSON,Railroad Commissioner,,Total,,,21,
+CASS,Railroad Commissioner,,Dale Henry,FALSE,DEM,367,51.04
+CASS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,352,48.96
+CASS,Railroad Commissioner,,Total,,,719,
+CASTRO,Railroad Commissioner,,Dale Henry,FALSE,DEM,4,30.77
+CASTRO,Railroad Commissioner,,Mark Thompson,FALSE,DEM,9,69.23
+CASTRO,Railroad Commissioner,,Total,,,13,
+CHAMBERS,Railroad Commissioner,,Dale Henry,FALSE,DEM,14,51.85
+CHAMBERS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,13,48.15
+CHAMBERS,Railroad Commissioner,,Total,,,27,
+CHEROKEE,Railroad Commissioner,,Dale Henry,FALSE,DEM,124,26
+CHEROKEE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,353,74
+CHEROKEE,Railroad Commissioner,,Total,,,477,
+CHILDRESS,Railroad Commissioner,,Dale Henry,FALSE,DEM,0,0
+CHILDRESS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,2,100
+CHILDRESS,Railroad Commissioner,,Total,,,2,
+CLAY,Railroad Commissioner,,Dale Henry,FALSE,DEM,27,44.26
+CLAY,Railroad Commissioner,,Mark Thompson,FALSE,DEM,34,55.74
+CLAY,Railroad Commissioner,,Total,,,61,
+COCHRAN,Railroad Commissioner,,Dale Henry,FALSE,DEM,3,100
+COCHRAN,Railroad Commissioner,,Mark Thompson,FALSE,DEM,0,0
+COCHRAN,Railroad Commissioner,,Total,,,3,
+COKE,Railroad Commissioner,,Dale Henry,FALSE,DEM,4,57.14
+COKE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,3,42.86
+COKE,Railroad Commissioner,,Total,,,7,
+COLEMAN,Railroad Commissioner,,Dale Henry,FALSE,DEM,9,60
+COLEMAN,Railroad Commissioner,,Mark Thompson,FALSE,DEM,6,40
+COLEMAN,Railroad Commissioner,,Total,,,15,
+COLLIN,Railroad Commissioner,,Dale Henry,FALSE,DEM,427,56.56
+COLLIN,Railroad Commissioner,,Mark Thompson,FALSE,DEM,328,43.44
+COLLIN,Railroad Commissioner,,Total,,,755,
+COLLINGSWORTH,Railroad Commissioner,,Dale Henry,FALSE,DEM,4,40
+COLLINGSWORTH,Railroad Commissioner,,Mark Thompson,FALSE,DEM,6,60
+COLLINGSWORTH,Railroad Commissioner,,Total,,,10,
+COLORADO,Railroad Commissioner,,Dale Henry,FALSE,DEM,15,55.56
+COLORADO,Railroad Commissioner,,Mark Thompson,FALSE,DEM,12,44.44
+COLORADO,Railroad Commissioner,,Total,,,27,
+COMAL,Railroad Commissioner,,Dale Henry,FALSE,DEM,94,74.6
+COMAL,Railroad Commissioner,,Mark Thompson,FALSE,DEM,32,25.4
+COMAL,Railroad Commissioner,,Total,,,126,
+COMANCHE,Railroad Commissioner,,Dale Henry,FALSE,DEM,36,53.73
+COMANCHE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,31,46.27
+COMANCHE,Railroad Commissioner,,Total,,,67,
+CONCHO,Railroad Commissioner,,Dale Henry,FALSE,DEM,11,52.38
+CONCHO,Railroad Commissioner,,Mark Thompson,FALSE,DEM,10,47.62
+CONCHO,Railroad Commissioner,,Total,,,21,
+COOKE,Railroad Commissioner,,Dale Henry,FALSE,DEM,34,48.57
+COOKE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,36,51.43
+COOKE,Railroad Commissioner,,Total,,,70,
+CORYELL,Railroad Commissioner,,Dale Henry,FALSE,DEM,36,66.67
+CORYELL,Railroad Commissioner,,Mark Thompson,FALSE,DEM,18,33.33
+CORYELL,Railroad Commissioner,,Total,,,54,
+COTTLE,Railroad Commissioner,,Dale Henry,FALSE,DEM,3,23.08
+COTTLE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,10,76.92
+COTTLE,Railroad Commissioner,,Total,,,13,
+CRANE,Railroad Commissioner,,Dale Henry,FALSE,DEM,24,22.64
+CRANE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,82,77.36
+CRANE,Railroad Commissioner,,Total,,,106,
+CROCKETT,Railroad Commissioner,,Dale Henry,FALSE,DEM,2,28.57
+CROCKETT,Railroad Commissioner,,Mark Thompson,FALSE,DEM,5,71.43
+CROCKETT,Railroad Commissioner,,Total,,,7,
+CROSBY,Railroad Commissioner,,Dale Henry,FALSE,DEM,210,34.54
+CROSBY,Railroad Commissioner,,Mark Thompson,FALSE,DEM,398,65.46
+CROSBY,Railroad Commissioner,,Total,,,608,
+CULBERSON,Railroad Commissioner,,Dale Henry,FALSE,DEM,5,50
+CULBERSON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,5,50
+CULBERSON,Railroad Commissioner,,Total,,,10,
+DALLAM,Railroad Commissioner,,Dale Henry,FALSE,DEM,1,50
+DALLAM,Railroad Commissioner,,Mark Thompson,FALSE,DEM,1,50
+DALLAM,Railroad Commissioner,,Total,,,2,
+DALLAS,U. S. Representative,32,Steve Love,FALSE,DEM,753,27.54
+DALLAS,U. S. Representative,32,Eric Roberson,FALSE,DEM,1981,72.46
+DALLAS,U. S. Representative,32,Total,,,2734,
+DALLAS,Railroad Commissioner,,Dale Henry,FALSE,DEM,4688,47.08
+DALLAS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,5269,52.92
+DALLAS,Railroad Commissioner,,Total,,,9957,
+DALLAS,"Criminal District Judge, Dallas County",3,David Jordan,FALSE,DEM,3338,32.02
+DALLAS,"Criminal District Judge, Dallas County",3,Gracie Lewis,FALSE,DEM,7088,67.98
+DALLAS,"Criminal District Judge, Dallas County",3,Total,,,10426,
+DAWSON,Railroad Commissioner,,Dale Henry,FALSE,DEM,0,0
+DAWSON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,3,100
+DAWSON,Railroad Commissioner,,Total,,,3,
+DEAF SMITH,Railroad Commissioner,,Dale Henry,FALSE,DEM,8,66.67
+DEAF SMITH,Railroad Commissioner,,Mark Thompson,FALSE,DEM,4,33.33
+DEAF SMITH,Railroad Commissioner,,Total,,,12,
+DELTA,Railroad Commissioner,,Dale Henry,FALSE,DEM,76,36.71
+DELTA,Railroad Commissioner,,Mark Thompson,FALSE,DEM,131,63.29
+DELTA,Railroad Commissioner,,Total,,,207,
+DENTON,Railroad Commissioner,,Dale Henry,FALSE,DEM,145,36.34
+DENTON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,254,63.66
+DENTON,Railroad Commissioner,,Total,,,399,
+DEWITT,Railroad Commissioner,,Dale Henry,FALSE,DEM,11,36.67
+DEWITT,Railroad Commissioner,,Mark Thompson,FALSE,DEM,19,63.33
+DEWITT,Railroad Commissioner,,Total,,,30,
+DICKENS,Railroad Commissioner,,Dale Henry,FALSE,DEM,65,21.24
+DICKENS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,241,78.76
+DICKENS,Railroad Commissioner,,Total,,,306,
+DIMMIT,Railroad Commissioner,,Dale Henry,FALSE,DEM,671,39.38
+DIMMIT,Railroad Commissioner,,Mark Thompson,FALSE,DEM,1033,60.62
+DIMMIT,Railroad Commissioner,,Total,,,1704,
+DONLEY,Railroad Commissioner,,Dale Henry,FALSE,DEM,4,36.36
+DONLEY,Railroad Commissioner,,Mark Thompson,FALSE,DEM,7,63.64
+DONLEY,Railroad Commissioner,,Total,,,11,
+DUVAL,Railroad Commissioner,,Dale Henry,FALSE,DEM,40,38.83
+DUVAL,Railroad Commissioner,,Mark Thompson,FALSE,DEM,63,61.17
+DUVAL,Railroad Commissioner,,Total,,,103,
+EASTLAND,Railroad Commissioner,,Dale Henry,FALSE,DEM,27,52.94
+EASTLAND,Railroad Commissioner,,Mark Thompson,FALSE,DEM,24,47.06
+EASTLAND,Railroad Commissioner,,Total,,,51,
+ECTOR,Railroad Commissioner,,Dale Henry,FALSE,DEM,124,44.6
+ECTOR,Railroad Commissioner,,Mark Thompson,FALSE,DEM,154,55.4
+ECTOR,Railroad Commissioner,,Total,,,278,
+EDWARDS,Railroad Commissioner,,Dale Henry,FALSE,DEM,3,42.86
+EDWARDS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,4,57.14
+EDWARDS,Railroad Commissioner,,Total,,,7,
+EL PASO,Railroad Commissioner,,Dale Henry,FALSE,DEM,3674,37.51
+EL PASO,Railroad Commissioner,,Mark Thompson,FALSE,DEM,6122,62.49
+EL PASO,Railroad Commissioner,,Total,,,9796,
+EL PASO,District Judge,448th Judicial District,Regina B. Arditti,FALSE,DEM,8138,69.17
+EL PASO,District Judge,448th Judicial District,Edward Hernandez,FALSE,DEM,3627,30.83
+EL PASO,District Judge,448th Judicial District,Total,,,11765,
+EL PASO,District Judge,65th Judicial District,Alfredo Chavez,TRUE,DEM,4636,39.41
+EL PASO,District Judge,65th Judicial District,Yahara Lisa Gutierrez,FALSE,DEM,7127,60.59
+EL PASO,District Judge,65th Judicial District,Total,,,11763,
+ELLIS,Railroad Commissioner,,Dale Henry,FALSE,DEM,121,38.17
+ELLIS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,196,61.83
+ELLIS,Railroad Commissioner,,Total,,,317,
+ERATH,Railroad Commissioner,,Dale Henry,FALSE,DEM,45,71.43
+ERATH,Railroad Commissioner,,Mark Thompson,FALSE,DEM,18,28.57
+ERATH,Railroad Commissioner,,Total,,,63,
+FALLS,Railroad Commissioner,,Dale Henry,FALSE,DEM,46,39.66
+FALLS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,70,60.34
+FALLS,Railroad Commissioner,,Total,,,116,
+FANNIN,Railroad Commissioner,,Dale Henry,FALSE,DEM,124,40.26
+FANNIN,Railroad Commissioner,,Mark Thompson,FALSE,DEM,184,59.74
+FANNIN,Railroad Commissioner,,Total,,,308,
+FANNIN,District Judge,6th Judicial District,David Hamilton,FALSE,DEM,121,31.11
+FANNIN,District Judge,6th Judicial District,Dave Turner,FALSE,DEM,268,68.89
+FANNIN,District Judge,6th Judicial District,Total,,,389,
+FAYETTE,Railroad Commissioner,,Dale Henry,FALSE,DEM,46,46
+FAYETTE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,54,54
+FAYETTE,Railroad Commissioner,,Total,,,100,
+FISHER,Railroad Commissioner,,Dale Henry,FALSE,DEM,85,31.25
+FISHER,Railroad Commissioner,,Mark Thompson,FALSE,DEM,187,68.75
+FISHER,Railroad Commissioner,,Total,,,272,
+FLOYD,Railroad Commissioner,,Dale Henry,FALSE,DEM,5,26.32
+FLOYD,Railroad Commissioner,,Mark Thompson,FALSE,DEM,14,73.68
+FLOYD,Railroad Commissioner,,Total,,,19,
+FOARD,Railroad Commissioner,,Dale Henry,FALSE,DEM,35,71.43
+FOARD,Railroad Commissioner,,Mark Thompson,FALSE,DEM,14,28.57
+FOARD,Railroad Commissioner,,Total,,,49,
+FORT BEND,Railroad Commissioner,,Dale Henry,FALSE,DEM,515,37.24
+FORT BEND,Railroad Commissioner,,Mark Thompson,FALSE,DEM,868,62.76
+FORT BEND,Railroad Commissioner,,Total,,,1383,
+FRANKLIN,Railroad Commissioner,,Dale Henry,FALSE,DEM,9,40.91
+FRANKLIN,Railroad Commissioner,,Mark Thompson,FALSE,DEM,13,59.09
+FRANKLIN,Railroad Commissioner,,Total,,,22,
+FREESTONE,Railroad Commissioner,,Dale Henry,FALSE,DEM,15,53.57
+FREESTONE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,13,46.43
+FREESTONE,Railroad Commissioner,,Total,,,28,
+FRIO,Railroad Commissioner,,Dale Henry,FALSE,DEM,727,34.1
+FRIO,Railroad Commissioner,,Mark Thompson,FALSE,DEM,1405,65.9
+FRIO,Railroad Commissioner,,Total,,,2132,
+GAINES,Railroad Commissioner,,Dale Henry,FALSE,DEM,2,18.18
+GAINES,Railroad Commissioner,,Mark Thompson,FALSE,DEM,9,81.82
+GAINES,Railroad Commissioner,,Total,,,11,
+GALVESTON,Railroad Commissioner,,Dale Henry,FALSE,DEM,634,33.44
+GALVESTON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,1262,66.56
+GALVESTON,Railroad Commissioner,,Total,,,1896,
+GARZA,Railroad Commissioner,,Dale Henry,FALSE,DEM,0,0
+GARZA,Railroad Commissioner,,Mark Thompson,FALSE,DEM,1,100
+GARZA,Railroad Commissioner,,Total,,,1,
+GILLESPIE,Railroad Commissioner,,Dale Henry,FALSE,DEM,78,72.22
+GILLESPIE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,30,27.78
+GILLESPIE,Railroad Commissioner,,Total,,,108,
+GLASSCOCK,Railroad Commissioner,,Dale Henry,FALSE,DEM,0,0
+GLASSCOCK,Railroad Commissioner,,Mark Thompson,FALSE,DEM,0,0
+GLASSCOCK,Railroad Commissioner,,Total,,,0,
+GOLIAD,Railroad Commissioner,,Dale Henry,FALSE,DEM,6,37.5
+GOLIAD,Railroad Commissioner,,Mark Thompson,FALSE,DEM,10,62.5
+GOLIAD,Railroad Commissioner,,Total,,,16,
+GONZALES,Railroad Commissioner,,Dale Henry,FALSE,DEM,21,45.65
+GONZALES,Railroad Commissioner,,Mark Thompson,FALSE,DEM,25,54.35
+GONZALES,Railroad Commissioner,,Total,,,46,
+GRAY,Railroad Commissioner,,Dale Henry,FALSE,DEM,11,36.67
+GRAY,Railroad Commissioner,,Mark Thompson,FALSE,DEM,19,63.33
+GRAY,Railroad Commissioner,,Total,,,30,
+GRAYSON,Railroad Commissioner,,Dale Henry,FALSE,DEM,54,39.71
+GRAYSON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,82,60.29
+GRAYSON,Railroad Commissioner,,Total,,,136,
+GREGG,Railroad Commissioner,,Dale Henry,FALSE,DEM,58,35.15
+GREGG,Railroad Commissioner,,Mark Thompson,FALSE,DEM,107,64.85
+GREGG,Railroad Commissioner,,Total,,,165,
+GRIMES,Railroad Commissioner,,Dale Henry,FALSE,DEM,49,54.44
+GRIMES,Railroad Commissioner,,Mark Thompson,FALSE,DEM,41,45.56
+GRIMES,Railroad Commissioner,,Total,,,90,
+GUADALUPE,Railroad Commissioner,,Dale Henry,FALSE,DEM,51,45.54
+GUADALUPE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,61,54.46
+GUADALUPE,Railroad Commissioner,,Total,,,112,
+HALE,Railroad Commissioner,,Dale Henry,FALSE,DEM,20,32.79
+HALE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,41,67.21
+HALE,Railroad Commissioner,,Total,,,61,
+HALL,Railroad Commissioner,,Dale Henry,FALSE,DEM,46,22.44
+HALL,Railroad Commissioner,,Mark Thompson,FALSE,DEM,159,77.56
+HALL,Railroad Commissioner,,Total,,,205,
+HAMILTON,Railroad Commissioner,,Dale Henry,FALSE,DEM,36,65.45
+HAMILTON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,19,34.55
+HAMILTON,Railroad Commissioner,,Total,,,55,
+HANSFORD,Railroad Commissioner,,Dale Henry,FALSE,DEM,0,0
+HANSFORD,Railroad Commissioner,,Mark Thompson,FALSE,DEM,0,0
+HANSFORD,Railroad Commissioner,,Total,,,0,
+HARDEMAN,Railroad Commissioner,,Dale Henry,FALSE,DEM,12,54.55
+HARDEMAN,Railroad Commissioner,,Mark Thompson,FALSE,DEM,10,45.45
+HARDEMAN,Railroad Commissioner,,Total,,,22,
+HARDIN,Railroad Commissioner,,Dale Henry,FALSE,DEM,248,38.27
+HARDIN,Railroad Commissioner,,Mark Thompson,FALSE,DEM,400,61.73
+HARDIN,Railroad Commissioner,,Total,,,648,
+HARRIS,Railroad Commissioner,,Dale Henry,FALSE,DEM,4312,47.21
+HARRIS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,4822,52.79
+HARRIS,Railroad Commissioner,,Total,,,9134,
+HARRIS,District Judge,80th Judicial District,Marc Isenberg,FALSE,DEM,3835,40.91
+HARRIS,District Judge,80th Judicial District,Larry Weiman,FALSE,DEM,5539,59.09
+HARRIS,District Judge,80th Judicial District,Total,,,9374,
+HARRISON,Railroad Commissioner,,Dale Henry,FALSE,DEM,69,28.63
+HARRISON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,172,71.37
+HARRISON,Railroad Commissioner,,Total,,,241,
+HARTLEY,Railroad Commissioner,,Dale Henry,FALSE,DEM,0,0
+HARTLEY,Railroad Commissioner,,Mark Thompson,FALSE,DEM,1,100
+HARTLEY,Railroad Commissioner,,Total,,,1,
+HASKELL,Railroad Commissioner,,Dale Henry,FALSE,DEM,14,58.33
+HASKELL,Railroad Commissioner,,Mark Thompson,FALSE,DEM,10,41.67
+HASKELL,Railroad Commissioner,,Total,,,24,
+HAYS,Railroad Commissioner,,Dale Henry,FALSE,DEM,140,61.95
+HAYS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,86,38.05
+HAYS,Railroad Commissioner,,Total,,,226,
+HEMPHILL,Railroad Commissioner,,Dale Henry,FALSE,DEM,2,66.67
+HEMPHILL,Railroad Commissioner,,Mark Thompson,FALSE,DEM,1,33.33
+HEMPHILL,Railroad Commissioner,,Total,,,3,
+HENDERSON,Railroad Commissioner,,Dale Henry,FALSE,DEM,65,51.59
+HENDERSON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,61,48.41
+HENDERSON,Railroad Commissioner,,Total,,,126,
+HIDALGO,Railroad Commissioner,,Dale Henry,FALSE,DEM,2742,33.95
+HIDALGO,Railroad Commissioner,,Mark Thompson,FALSE,DEM,5335,66.05
+HIDALGO,Railroad Commissioner,,Total,,,8077,
+HILL,Railroad Commissioner,,Dale Henry,FALSE,DEM,41,46.07
+HILL,Railroad Commissioner,,Mark Thompson,FALSE,DEM,48,53.93
+HILL,Railroad Commissioner,,Total,,,89,
+HOCKLEY,Railroad Commissioner,,Dale Henry,FALSE,DEM,4,50
+HOCKLEY,Railroad Commissioner,,Mark Thompson,FALSE,DEM,4,50
+HOCKLEY,Railroad Commissioner,,Total,,,8,
+HOOD,Railroad Commissioner,,Dale Henry,FALSE,DEM,154,61.85
+HOOD,Railroad Commissioner,,Mark Thompson,FALSE,DEM,95,38.15
+HOOD,Railroad Commissioner,,Total,,,249,
+HOPKINS,Railroad Commissioner,,Dale Henry,FALSE,DEM,39,61.9
+HOPKINS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,24,38.1
+HOPKINS,Railroad Commissioner,,Total,,,63,
+HOUSTON,Railroad Commissioner,,Dale Henry,FALSE,DEM,72,47.37
+HOUSTON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,80,52.63
+HOUSTON,Railroad Commissioner,,Total,,,152,
+HOWARD,Railroad Commissioner,,Dale Henry,FALSE,DEM,24,41.38
+HOWARD,Railroad Commissioner,,Mark Thompson,FALSE,DEM,34,58.62
+HOWARD,Railroad Commissioner,,Total,,,58,
+HUDSPETH,Railroad Commissioner,,Dale Henry,FALSE,DEM,15,57.69
+HUDSPETH,Railroad Commissioner,,Mark Thompson,FALSE,DEM,11,42.31
+HUDSPETH,Railroad Commissioner,,Total,,,26,
+HUNT,Railroad Commissioner,,Dale Henry,FALSE,DEM,115,55.56
+HUNT,Railroad Commissioner,,Mark Thompson,FALSE,DEM,92,44.44
+HUNT,Railroad Commissioner,,Total,,,207,
+HUTCHINSON,Railroad Commissioner,,Dale Henry,FALSE,DEM,22,34.92
+HUTCHINSON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,41,65.08
+HUTCHINSON,Railroad Commissioner,,Total,,,63,
+IRION,Railroad Commissioner,,Dale Henry,FALSE,DEM,33,34.38
+IRION,Railroad Commissioner,,Mark Thompson,FALSE,DEM,63,65.63
+IRION,Railroad Commissioner,,Total,,,96,
+JACK,Railroad Commissioner,,Dale Henry,FALSE,DEM,3,16.67
+JACK,Railroad Commissioner,,Mark Thompson,FALSE,DEM,15,83.33
+JACK,Railroad Commissioner,,Total,,,18,
+JACKSON,Railroad Commissioner,,Dale Henry,FALSE,DEM,24,38.71
+JACKSON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,38,61.29
+JACKSON,Railroad Commissioner,,Total,,,62,
+JASPER,Railroad Commissioner,,Dale Henry,FALSE,DEM,878,26.23
+JASPER,Railroad Commissioner,,Mark Thompson,FALSE,DEM,2469,73.77
+JASPER,Railroad Commissioner,,Total,,,3347,
+JEFF DAVIS,Railroad Commissioner,,Dale Henry,FALSE,DEM,18,52.94
+JEFF DAVIS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,16,47.06
+JEFF DAVIS,Railroad Commissioner,,Total,,,34,
+JEFFERSON,Railroad Commissioner,,Dale Henry,FALSE,DEM,709,26.16
+JEFFERSON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,2001,73.84
+JEFFERSON,Railroad Commissioner,,Total,,,2710,
+JIM HOGG,Railroad Commissioner,,Dale Henry,FALSE,DEM,28,50
+JIM HOGG,Railroad Commissioner,,Mark Thompson,FALSE,DEM,28,50
+JIM HOGG,Railroad Commissioner,,Total,,,56,
+JIM WELLS,Railroad Commissioner,,Dale Henry,FALSE,DEM,308,31.65
+JIM WELLS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,665,68.35
+JIM WELLS,Railroad Commissioner,,Total,,,973,
+JOHNSON,Railroad Commissioner,,Dale Henry,FALSE,DEM,68,54.4
+JOHNSON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,57,45.6
+JOHNSON,Railroad Commissioner,,Total,,,125,
+JONES,Railroad Commissioner,,Dale Henry,FALSE,DEM,21,65.63
+JONES,Railroad Commissioner,,Mark Thompson,FALSE,DEM,11,34.38
+JONES,Railroad Commissioner,,Total,,,32,
+KARNES,Railroad Commissioner,,Dale Henry,FALSE,DEM,18,23.38
+KARNES,Railroad Commissioner,,Mark Thompson,FALSE,DEM,59,76.62
+KARNES,Railroad Commissioner,,Total,,,77,
+KAUFMAN,Railroad Commissioner,,Dale Henry,FALSE,DEM,246,34.02
+KAUFMAN,Railroad Commissioner,,Mark Thompson,FALSE,DEM,477,65.98
+KAUFMAN,Railroad Commissioner,,Total,,,723,
+KENDALL,Railroad Commissioner,,Dale Henry,FALSE,DEM,49,80.33
+KENDALL,Railroad Commissioner,,Mark Thompson,FALSE,DEM,12,19.67
+KENDALL,Railroad Commissioner,,Total,,,61,
+KENEDY,Railroad Commissioner,,Dale Henry,FALSE,DEM,13,68.42
+KENEDY,Railroad Commissioner,,Mark Thompson,FALSE,DEM,6,31.58
+KENEDY,Railroad Commissioner,,Total,,,19,
+KENT,Railroad Commissioner,,Dale Henry,FALSE,DEM,9,52.94
+KENT,Railroad Commissioner,,Mark Thompson,FALSE,DEM,8,47.06
+KENT,Railroad Commissioner,,Total,,,17,
+KERR,Railroad Commissioner,,Dale Henry,FALSE,DEM,62,81.58
+KERR,Railroad Commissioner,,Mark Thompson,FALSE,DEM,14,18.42
+KERR,Railroad Commissioner,,Total,,,76,
+KIMBLE,Railroad Commissioner,,Dale Henry,FALSE,DEM,1,14.29
+KIMBLE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,6,85.71
+KIMBLE,Railroad Commissioner,,Total,,,7,
+KING,Railroad Commissioner,,Dale Henry,FALSE,DEM,7,100
+KING,Railroad Commissioner,,Mark Thompson,FALSE,DEM,0,0
+KING,Railroad Commissioner,,Total,,,7,
+KINNEY,Railroad Commissioner,,Dale Henry,FALSE,DEM,68,28.94
+KINNEY,Railroad Commissioner,,Mark Thompson,FALSE,DEM,167,71.06
+KINNEY,Railroad Commissioner,,Total,,,235,
+KLEBERG,Railroad Commissioner,,Dale Henry,FALSE,DEM,482,39.28
+KLEBERG,Railroad Commissioner,,Mark Thompson,FALSE,DEM,745,60.72
+KLEBERG,Railroad Commissioner,,Total,,,1227,
+KNOX,Railroad Commissioner,,Dale Henry,FALSE,DEM,10,58.82
+KNOX,Railroad Commissioner,,Mark Thompson,FALSE,DEM,7,41.18
+KNOX,Railroad Commissioner,,Total,,,17,
+LAMAR,Railroad Commissioner,,Dale Henry,FALSE,DEM,1500,39.88
+LAMAR,Railroad Commissioner,,Mark Thompson,FALSE,DEM,2261,60.12
+LAMAR,Railroad Commissioner,,Total,,,3761,
+LAMAR,District Judge,6th Judicial District,David Hamilton,FALSE,DEM,1509,33.74
+LAMAR,District Judge,6th Judicial District,Dave Turner,FALSE,DEM,2964,66.26
+LAMAR,District Judge,6th Judicial District,Total,,,4473,
+LAMB,Railroad Commissioner,,Dale Henry,FALSE,DEM,28,42.42
+LAMB,Railroad Commissioner,,Mark Thompson,FALSE,DEM,38,57.58
+LAMB,Railroad Commissioner,,Total,,,66,
+LAMPASAS,Railroad Commissioner,,Dale Henry,FALSE,DEM,104,96.3
+LAMPASAS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,4,3.7
+LAMPASAS,Railroad Commissioner,,Total,,,108,
+LASALLE,Railroad Commissioner,,Dale Henry,FALSE,DEM,31,39.74
+LASALLE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,47,60.26
+LASALLE,Railroad Commissioner,,Total,,,78,
+LAVACA,Railroad Commissioner,,Dale Henry,FALSE,DEM,185,31.84
+LAVACA,Railroad Commissioner,,Mark Thompson,FALSE,DEM,396,68.16
+LAVACA,Railroad Commissioner,,Total,,,581,
+LEE,Railroad Commissioner,,Dale Henry,FALSE,DEM,21,40.38
+LEE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,31,59.62
+LEE,Railroad Commissioner,,Total,,,52,
+LEON,Railroad Commissioner,,Dale Henry,FALSE,DEM,17,31.48
+LEON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,37,68.52
+LEON,Railroad Commissioner,,Total,,,54,
+LIBERTY,Railroad Commissioner,,Dale Henry,FALSE,DEM,33,46.48
+LIBERTY,Railroad Commissioner,,Mark Thompson,FALSE,DEM,38,53.52
+LIBERTY,Railroad Commissioner,,Total,,,71,
+LIMESTONE,Railroad Commissioner,,Dale Henry,FALSE,DEM,36,32.14
+LIMESTONE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,76,67.86
+LIMESTONE,Railroad Commissioner,,Total,,,112,
+LIPSCOMB,Railroad Commissioner,,Dale Henry,FALSE,DEM,7,53.85
+LIPSCOMB,Railroad Commissioner,,Mark Thompson,FALSE,DEM,6,46.15
+LIPSCOMB,Railroad Commissioner,,Total,,,13,
+LIVE OAK,Railroad Commissioner,,Dale Henry,FALSE,DEM,12,29.27
+LIVE OAK,Railroad Commissioner,,Mark Thompson,FALSE,DEM,29,70.73
+LIVE OAK,Railroad Commissioner,,Total,,,41,
+LLANO,Railroad Commissioner,,Dale Henry,FALSE,DEM,33,55.93
+LLANO,Railroad Commissioner,,Mark Thompson,FALSE,DEM,26,44.07
+LLANO,Railroad Commissioner,,Total,,,59,
+LOVING,Railroad Commissioner,,Dale Henry,FALSE,DEM,3,60
+LOVING,Railroad Commissioner,,Mark Thompson,FALSE,DEM,2,40
+LOVING,Railroad Commissioner,,Total,,,5,
+LUBBOCK,Railroad Commissioner,,Dale Henry,FALSE,DEM,197,41.47
+LUBBOCK,Railroad Commissioner,,Mark Thompson,FALSE,DEM,278,58.53
+LUBBOCK,Railroad Commissioner,,Total,,,475,
+LYNN,Railroad Commissioner,,Dale Henry,FALSE,DEM,1,33.33
+LYNN,Railroad Commissioner,,Mark Thompson,FALSE,DEM,2,66.67
+LYNN,Railroad Commissioner,,Total,,,3,
+MADISON,Railroad Commissioner,,Dale Henry,FALSE,DEM,16,57.14
+MADISON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,12,42.86
+MADISON,Railroad Commissioner,,Total,,,28,
+MARION,Railroad Commissioner,,Dale Henry,FALSE,DEM,18,23.38
+MARION,Railroad Commissioner,,Mark Thompson,FALSE,DEM,59,76.62
+MARION,Railroad Commissioner,,Total,,,77,
+MARTIN,Railroad Commissioner,,Dale Henry,FALSE,DEM,0,0
+MARTIN,Railroad Commissioner,,Mark Thompson,FALSE,DEM,0,0
+MARTIN,Railroad Commissioner,,Total,,,0,
+MASON,Railroad Commissioner,,Dale Henry,FALSE,DEM,18,81.82
+MASON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,4,18.18
+MASON,Railroad Commissioner,,Total,,,22,
+MATAGORDA,Railroad Commissioner,,Dale Henry,FALSE,DEM,70,34.31
+MATAGORDA,Railroad Commissioner,,Mark Thompson,FALSE,DEM,134,65.69
+MATAGORDA,Railroad Commissioner,,Total,,,204,
+MAVERICK,Railroad Commissioner,,Dale Henry,FALSE,DEM,1779,35.35
+MAVERICK,Railroad Commissioner,,Mark Thompson,FALSE,DEM,3253,64.65
+MAVERICK,Railroad Commissioner,,Total,,,5032,
+MCCULLOCH,Railroad Commissioner,,Dale Henry,FALSE,DEM,2,13.33
+MCCULLOCH,Railroad Commissioner,,Mark Thompson,FALSE,DEM,13,86.67
+MCCULLOCH,Railroad Commissioner,,Total,,,15,
+MCLENNAN,Railroad Commissioner,,Dale Henry,FALSE,DEM,200,54.35
+MCLENNAN,Railroad Commissioner,,Mark Thompson,FALSE,DEM,168,45.65
+MCLENNAN,Railroad Commissioner,,Total,,,368,
+MCMULLEN,Railroad Commissioner,,Dale Henry,FALSE,DEM,0,0
+MCMULLEN,Railroad Commissioner,,Mark Thompson,FALSE,DEM,1,100
+MCMULLEN,Railroad Commissioner,,Total,,,1,
+MEDINA,Railroad Commissioner,,Dale Henry,FALSE,DEM,43,42.57
+MEDINA,Railroad Commissioner,,Mark Thompson,FALSE,DEM,58,57.43
+MEDINA,Railroad Commissioner,,Total,,,101,
+MENARD,Railroad Commissioner,,Dale Henry,FALSE,DEM,0,0
+MENARD,Railroad Commissioner,,Mark Thompson,FALSE,DEM,0,0
+MENARD,Railroad Commissioner,,Total,,,0,
+MIDLAND,Railroad Commissioner,,Dale Henry,FALSE,DEM,40,52.63
+MIDLAND,Railroad Commissioner,,Mark Thompson,FALSE,DEM,36,47.37
+MIDLAND,Railroad Commissioner,,Total,,,76,
+MILAM,Railroad Commissioner,,Dale Henry,FALSE,DEM,254,47.83
+MILAM,Railroad Commissioner,,Mark Thompson,FALSE,DEM,277,52.17
+MILAM,Railroad Commissioner,,Total,,,531,
+MILLS,Railroad Commissioner,,Dale Henry,FALSE,DEM,50,67.57
+MILLS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,24,32.43
+MILLS,Railroad Commissioner,,Total,,,74,
+MITCHELL,Railroad Commissioner,,Dale Henry,FALSE,DEM,14,41.18
+MITCHELL,Railroad Commissioner,,Mark Thompson,FALSE,DEM,20,58.82
+MITCHELL,Railroad Commissioner,,Total,,,34,
+MONTAGUE,Railroad Commissioner,,Dale Henry,FALSE,DEM,57,60
+MONTAGUE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,38,40
+MONTAGUE,Railroad Commissioner,,Total,,,95,
+MONTGOMERY,Railroad Commissioner,,Dale Henry,FALSE,DEM,289,46.09
+MONTGOMERY,Railroad Commissioner,,Mark Thompson,FALSE,DEM,338,53.91
+MONTGOMERY,Railroad Commissioner,,Total,,,627,
+MOORE,Railroad Commissioner,,Dale Henry,FALSE,DEM,12,42.86
+MOORE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,16,57.14
+MOORE,Railroad Commissioner,,Total,,,28,
+MORRIS,Railroad Commissioner,,Dale Henry,FALSE,DEM,278,24.32
+MORRIS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,865,75.68
+MORRIS,Railroad Commissioner,,Total,,,1143,
+MOTLEY,Railroad Commissioner,,Dale Henry,FALSE,DEM,6,66.67
+MOTLEY,Railroad Commissioner,,Mark Thompson,FALSE,DEM,3,33.33
+MOTLEY,Railroad Commissioner,,Total,,,9,
+NACOGDOCHES,Railroad Commissioner,,Dale Henry,FALSE,DEM,114,64.77
+NACOGDOCHES,Railroad Commissioner,,Mark Thompson,FALSE,DEM,62,35.23
+NACOGDOCHES,Railroad Commissioner,,Total,,,176,
+NAVARRO,Railroad Commissioner,,Dale Henry,FALSE,DEM,15,22.39
+NAVARRO,Railroad Commissioner,,Mark Thompson,FALSE,DEM,52,77.61
+NAVARRO,Railroad Commissioner,,Total,,,67,
+NEWTON,Railroad Commissioner,,Dale Henry,FALSE,DEM,50,24.39
+NEWTON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,155,75.61
+NEWTON,Railroad Commissioner,,Total,,,205,
+NOLAN,Railroad Commissioner,,Dale Henry,FALSE,DEM,441,25.55
+NOLAN,Railroad Commissioner,,Mark Thompson,FALSE,DEM,1285,74.45
+NOLAN,Railroad Commissioner,,Total,,,1726,
+NUECES,Railroad Commissioner,,Dale Henry,FALSE,DEM,1144,34.78
+NUECES,Railroad Commissioner,,Mark Thompson,FALSE,DEM,2145,65.22
+NUECES,Railroad Commissioner,,Total,,,3289,
+OCHILTREE,Railroad Commissioner,,Dale Henry,FALSE,DEM,4,80
+OCHILTREE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,1,20
+OCHILTREE,Railroad Commissioner,,Total,,,5,
+OLDHAM,Railroad Commissioner,,Dale Henry,FALSE,DEM,0,0
+OLDHAM,Railroad Commissioner,,Mark Thompson,FALSE,DEM,0,0
+OLDHAM,Railroad Commissioner,,Total,,,0,
+ORANGE,Railroad Commissioner,,Dale Henry,FALSE,DEM,1485,23.55
+ORANGE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,4820,76.45
+ORANGE,Railroad Commissioner,,Total,,,6305,
+PALO PINTO,Railroad Commissioner,,Dale Henry,FALSE,DEM,11,34.38
+PALO PINTO,Railroad Commissioner,,Mark Thompson,FALSE,DEM,21,65.63
+PALO PINTO,Railroad Commissioner,,Total,,,32,
+PANOLA,Railroad Commissioner,,Dale Henry,FALSE,DEM,329,30.81
+PANOLA,Railroad Commissioner,,Mark Thompson,FALSE,DEM,739,69.19
+PANOLA,Railroad Commissioner,,Total,,,1068,
+PARKER,Railroad Commissioner,,Dale Henry,FALSE,DEM,84,56.76
+PARKER,Railroad Commissioner,,Mark Thompson,FALSE,DEM,64,43.24
+PARKER,Railroad Commissioner,,Total,,,148,
+PARMER,Railroad Commissioner,,Dale Henry,FALSE,DEM,5,62.5
+PARMER,Railroad Commissioner,,Mark Thompson,FALSE,DEM,3,37.5
+PARMER,Railroad Commissioner,,Total,,,8,
+PECOS,Railroad Commissioner,,Dale Henry,FALSE,DEM,19,35.85
+PECOS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,34,64.15
+PECOS,Railroad Commissioner,,Total,,,53,
+POLK,Railroad Commissioner,,Dale Henry,FALSE,DEM,64,38.32
+POLK,Railroad Commissioner,,Mark Thompson,FALSE,DEM,103,61.68
+POLK,Railroad Commissioner,,Total,,,167,
+POTTER,Railroad Commissioner,,Dale Henry,FALSE,DEM,77,40.96
+POTTER,Railroad Commissioner,,Mark Thompson,FALSE,DEM,111,59.04
+POTTER,Railroad Commissioner,,Total,,,188,
+PRESIDIO,Railroad Commissioner,,Dale Henry,FALSE,DEM,18,50
+PRESIDIO,Railroad Commissioner,,Mark Thompson,FALSE,DEM,18,50
+PRESIDIO,Railroad Commissioner,,Total,,,36,
+RAINS,Railroad Commissioner,,Dale Henry,FALSE,DEM,24,45.28
+RAINS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,29,54.72
+RAINS,Railroad Commissioner,,Total,,,53,
+RANDALL,Railroad Commissioner,,Dale Henry,FALSE,DEM,52,52
+RANDALL,Railroad Commissioner,,Mark Thompson,FALSE,DEM,48,48
+RANDALL,Railroad Commissioner,,Total,,,100,
+REAGAN,Railroad Commissioner,,Dale Henry,FALSE,DEM,1,50
+REAGAN,Railroad Commissioner,,Mark Thompson,FALSE,DEM,1,50
+REAGAN,Railroad Commissioner,,Total,,,2,
+REAL,Railroad Commissioner,,Dale Henry,FALSE,DEM,3,50
+REAL,Railroad Commissioner,,Mark Thompson,FALSE,DEM,3,50
+REAL,Railroad Commissioner,,Total,,,6,
+RED RIVER,Railroad Commissioner,,Dale Henry,FALSE,DEM,379,27.09
+RED RIVER,Railroad Commissioner,,Mark Thompson,FALSE,DEM,1020,72.91
+RED RIVER,Railroad Commissioner,,Total,,,1399,
+RED RIVER,District Judge,6th Judicial District,David Hamilton,FALSE,DEM,727,36.74
+RED RIVER,District Judge,6th Judicial District,Dave Turner,FALSE,DEM,1252,63.26
+RED RIVER,District Judge,6th Judicial District,Total,,,1979,
+REEVES,Railroad Commissioner,,Dale Henry,FALSE,DEM,89,61.38
+REEVES,Railroad Commissioner,,Mark Thompson,FALSE,DEM,56,38.62
+REEVES,Railroad Commissioner,,Total,,,145,
+REFUGIO,Railroad Commissioner,,Dale Henry,FALSE,DEM,20,36.36
+REFUGIO,Railroad Commissioner,,Mark Thompson,FALSE,DEM,35,63.64
+REFUGIO,Railroad Commissioner,,Total,,,55,
+ROBERTS,Railroad Commissioner,,Dale Henry,FALSE,DEM,0,0
+ROBERTS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,0,0
+ROBERTS,Railroad Commissioner,,Total,,,0,
+ROBERTSON,Railroad Commissioner,,Dale Henry,FALSE,DEM,252,43.75
+ROBERTSON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,324,56.25
+ROBERTSON,Railroad Commissioner,,Total,,,576,
+ROCKWALL,Railroad Commissioner,,Dale Henry,FALSE,DEM,57,74.03
+ROCKWALL,Railroad Commissioner,,Mark Thompson,FALSE,DEM,20,25.97
+ROCKWALL,Railroad Commissioner,,Total,,,77,
+RUNNELS,Railroad Commissioner,,Dale Henry,FALSE,DEM,3,17.65
+RUNNELS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,14,82.35
+RUNNELS,Railroad Commissioner,,Total,,,17,
+RUSK,Railroad Commissioner,,Dale Henry,FALSE,DEM,44,31.43
+RUSK,Railroad Commissioner,,Mark Thompson,FALSE,DEM,96,68.57
+RUSK,Railroad Commissioner,,Total,,,140,
+SABINE,Railroad Commissioner,,Dale Henry,FALSE,DEM,416,29.57
+SABINE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,991,70.43
+SABINE,Railroad Commissioner,,Total,,,1407,
+SAN AUGUSTINE,Railroad Commissioner,,Dale Henry,FALSE,DEM,434,30.37
+SAN AUGUSTINE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,995,69.63
+SAN AUGUSTINE,Railroad Commissioner,,Total,,,1429,
+SAN JACINTO,Railroad Commissioner,,Dale Henry,FALSE,DEM,31,54.39
+SAN JACINTO,Railroad Commissioner,,Mark Thompson,FALSE,DEM,26,45.61
+SAN JACINTO,Railroad Commissioner,,Total,,,57,
+SAN PATRICIO,Railroad Commissioner,,Dale Henry,FALSE,DEM,620,38.77
+SAN PATRICIO,Railroad Commissioner,,Mark Thompson,FALSE,DEM,979,61.23
+SAN PATRICIO,Railroad Commissioner,,Total,,,1599,
+SAN SABA,Railroad Commissioner,,Dale Henry,FALSE,DEM,7,63.64
+SAN SABA,Railroad Commissioner,,Mark Thompson,FALSE,DEM,4,36.36
+SAN SABA,Railroad Commissioner,,Total,,,11,
+SCHLEICHER,Railroad Commissioner,,Dale Henry,FALSE,DEM,11,45.83
+SCHLEICHER,Railroad Commissioner,,Mark Thompson,FALSE,DEM,13,54.17
+SCHLEICHER,Railroad Commissioner,,Total,,,24,
+SCURRY,Railroad Commissioner,,Dale Henry,FALSE,DEM,11,55
+SCURRY,Railroad Commissioner,,Mark Thompson,FALSE,DEM,9,45
+SCURRY,Railroad Commissioner,,Total,,,20,
+SHACKELFORD,Railroad Commissioner,,Dale Henry,FALSE,DEM,3,50
+SHACKELFORD,Railroad Commissioner,,Mark Thompson,FALSE,DEM,3,50
+SHACKELFORD,Railroad Commissioner,,Total,,,6,
+SHELBY,Railroad Commissioner,,Dale Henry,FALSE,DEM,15,53.57
+SHELBY,Railroad Commissioner,,Mark Thompson,FALSE,DEM,13,46.43
+SHELBY,Railroad Commissioner,,Total,,,28,
+SHERMAN,Railroad Commissioner,,Dale Henry,FALSE,DEM,3,42.86
+SHERMAN,Railroad Commissioner,,Mark Thompson,FALSE,DEM,4,57.14
+SHERMAN,Railroad Commissioner,,Total,,,7,
+SMITH,Railroad Commissioner,,Dale Henry,FALSE,DEM,73,51.77
+SMITH,Railroad Commissioner,,Mark Thompson,FALSE,DEM,68,48.23
+SMITH,Railroad Commissioner,,Total,,,141,
+SOMERVELL,Railroad Commissioner,,Dale Henry,FALSE,DEM,21,61.76
+SOMERVELL,Railroad Commissioner,,Mark Thompson,FALSE,DEM,13,38.24
+SOMERVELL,Railroad Commissioner,,Total,,,34,
+STARR,Railroad Commissioner,,Dale Henry,FALSE,DEM,27,45
+STARR,Railroad Commissioner,,Mark Thompson,FALSE,DEM,33,55
+STARR,Railroad Commissioner,,Total,,,60,
+STEPHENS,Railroad Commissioner,,Dale Henry,FALSE,DEM,26,63.41
+STEPHENS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,15,36.59
+STEPHENS,Railroad Commissioner,,Total,,,41,
+STERLING,Railroad Commissioner,,Dale Henry,FALSE,DEM,1,50
+STERLING,Railroad Commissioner,,Mark Thompson,FALSE,DEM,1,50
+STERLING,Railroad Commissioner,,Total,,,2,
+STONEWALL,Railroad Commissioner,,Dale Henry,FALSE,DEM,7,46.67
+STONEWALL,Railroad Commissioner,,Mark Thompson,FALSE,DEM,8,53.33
+STONEWALL,Railroad Commissioner,,Total,,,15,
+SUTTON,Railroad Commissioner,,Dale Henry,FALSE,DEM,5,45.45
+SUTTON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,6,54.55
+SUTTON,Railroad Commissioner,,Total,,,11,
+SWISHER,Railroad Commissioner,,Dale Henry,FALSE,DEM,10,43.48
+SWISHER,Railroad Commissioner,,Mark Thompson,FALSE,DEM,13,56.52
+SWISHER,Railroad Commissioner,,Total,,,23,
+TARRANT,Railroad Commissioner,,Dale Henry,FALSE,DEM,1929,49.84
+TARRANT,Railroad Commissioner,,Mark Thompson,FALSE,DEM,1941,50.16
+TARRANT,Railroad Commissioner,,Total,,,3870,
+TAYLOR,Railroad Commissioner,,Dale Henry,FALSE,DEM,54,46.15
+TAYLOR,Railroad Commissioner,,Mark Thompson,FALSE,DEM,63,53.85
+TAYLOR,Railroad Commissioner,,Total,,,117,
+TERRELL,Railroad Commissioner,,Dale Henry,FALSE,DEM,6,40
+TERRELL,Railroad Commissioner,,Mark Thompson,FALSE,DEM,9,60
+TERRELL,Railroad Commissioner,,Total,,,15,
+TERRY,Railroad Commissioner,,Dale Henry,FALSE,DEM,379,36.65
+TERRY,Railroad Commissioner,,Mark Thompson,FALSE,DEM,655,63.35
+TERRY,Railroad Commissioner,,Total,,,1034,
+THROCKMORTON,Railroad Commissioner,,Dale Henry,FALSE,DEM,12,60
+THROCKMORTON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,8,40
+THROCKMORTON,Railroad Commissioner,,Total,,,20,
+TITUS,Railroad Commissioner,,Dale Henry,FALSE,DEM,643,25
+TITUS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,1929,75
+TITUS,Railroad Commissioner,,Total,,,2572,
+TOM GREEN,Railroad Commissioner,,Dale Henry,FALSE,DEM,193,76.89
+TOM GREEN,Railroad Commissioner,,Mark Thompson,FALSE,DEM,58,23.11
+TOM GREEN,Railroad Commissioner,,Total,,,251,
+TRAVIS,Railroad Commissioner,,Dale Henry,FALSE,DEM,11000,48.92
+TRAVIS,Railroad Commissioner,,Mark Thompson,FALSE,DEM,11486,51.08
+TRAVIS,Railroad Commissioner,,Total,,,22486,
+TRAVIS,District Attorney,53rd Judicial District,Rosemary Lehmberg,FALSE,DEM,19217,65.22
+TRAVIS,District Attorney,53rd Judicial District,Mindy Montford,FALSE,DEM,10250,34.78
+TRAVIS,District Attorney,53rd Judicial District,Total,,,29467,
+TRINITY,Railroad Commissioner,,Dale Henry,FALSE,DEM,1603,71.66
+TRINITY,Railroad Commissioner,,Mark Thompson,FALSE,DEM,634,28.34
+TRINITY,Railroad Commissioner,,Total,,,2237,
+TYLER,Railroad Commissioner,,Dale Henry,FALSE,DEM,665,26.38
+TYLER,Railroad Commissioner,,Mark Thompson,FALSE,DEM,1856,73.62
+TYLER,Railroad Commissioner,,Total,,,2521,
+UPSHUR,Railroad Commissioner,,Dale Henry,FALSE,DEM,177,35.26
+UPSHUR,Railroad Commissioner,,Mark Thompson,FALSE,DEM,325,64.74
+UPSHUR,Railroad Commissioner,,Total,,,502,
+UPTON,Railroad Commissioner,,Dale Henry,FALSE,DEM,163,35.28
+UPTON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,299,64.72
+UPTON,Railroad Commissioner,,Total,,,462,
+UVALDE,Railroad Commissioner,,Dale Henry,FALSE,DEM,629,33.37
+UVALDE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,1256,66.63
+UVALDE,Railroad Commissioner,,Total,,,1885,
+VAL VERDE,Railroad Commissioner,,Dale Henry,FALSE,DEM,43,49.43
+VAL VERDE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,44,50.57
+VAL VERDE,Railroad Commissioner,,Total,,,87,
+VAN ZANDT,Railroad Commissioner,,Dale Henry,FALSE,DEM,187,31.64
+VAN ZANDT,Railroad Commissioner,,Mark Thompson,FALSE,DEM,404,68.36
+VAN ZANDT,Railroad Commissioner,,Total,,,591,
+VICTORIA,Railroad Commissioner,,Dale Henry,FALSE,DEM,387,36.48
+VICTORIA,Railroad Commissioner,,Mark Thompson,FALSE,DEM,674,63.52
+VICTORIA,Railroad Commissioner,,Total,,,1061,
+WALKER,Railroad Commissioner,,Dale Henry,FALSE,DEM,29,52.73
+WALKER,Railroad Commissioner,,Mark Thompson,FALSE,DEM,26,47.27
+WALKER,Railroad Commissioner,,Total,,,55,
+WALLER,Railroad Commissioner,,Dale Henry,FALSE,DEM,115,37.46
+WALLER,Railroad Commissioner,,Mark Thompson,FALSE,DEM,192,62.54
+WALLER,Railroad Commissioner,,Total,,,307,
+WARD,Railroad Commissioner,,Dale Henry,FALSE,DEM,12,30.77
+WARD,Railroad Commissioner,,Mark Thompson,FALSE,DEM,27,69.23
+WARD,Railroad Commissioner,,Total,,,39,
+WASHINGTON,Railroad Commissioner,,Dale Henry,FALSE,DEM,30,44.78
+WASHINGTON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,37,55.22
+WASHINGTON,Railroad Commissioner,,Total,,,67,
+WEBB,Railroad Commissioner,,Dale Henry,FALSE,DEM,9865,44.1
+WEBB,Railroad Commissioner,,Mark Thompson,FALSE,DEM,12504,55.9
+WEBB,Railroad Commissioner,,Total,,,22369,
+WEBB,District Attorney,49th Judicial District,"Isidro R. ""Chilo"" Alaniz",FALSE,DEM,18360,70.78
+WEBB,District Attorney,49th Judicial District,Maria Elena Morales,FALSE,DEM,7579,29.22
+WEBB,District Attorney,49th Judicial District,Total,,,25939,
+WHARTON,Railroad Commissioner,,Dale Henry,FALSE,DEM,32,55.17
+WHARTON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,26,44.83
+WHARTON,Railroad Commissioner,,Total,,,58,
+WHEELER,Railroad Commissioner,,Dale Henry,FALSE,DEM,9,90
+WHEELER,Railroad Commissioner,,Mark Thompson,FALSE,DEM,1,10
+WHEELER,Railroad Commissioner,,Total,,,10,
+WICHITA,Railroad Commissioner,,Dale Henry,FALSE,DEM,335,35.34
+WICHITA,Railroad Commissioner,,Mark Thompson,FALSE,DEM,613,64.66
+WICHITA,Railroad Commissioner,,Total,,,948,
+WILBARGER,Railroad Commissioner,,Dale Henry,FALSE,DEM,166,35.78
+WILBARGER,Railroad Commissioner,,Mark Thompson,FALSE,DEM,298,64.22
+WILBARGER,Railroad Commissioner,,Total,,,464,
+WILLACY,Railroad Commissioner,,Dale Henry,FALSE,DEM,825,35.21
+WILLACY,Railroad Commissioner,,Mark Thompson,FALSE,DEM,1518,64.79
+WILLACY,Railroad Commissioner,,Total,,,2343,
+WILLIAMSON,Railroad Commissioner,,Dale Henry,FALSE,DEM,322,51.94
+WILLIAMSON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,298,48.06
+WILLIAMSON,Railroad Commissioner,,Total,,,620,
+WILSON,Railroad Commissioner,,Dale Henry,FALSE,DEM,42,48.28
+WILSON,Railroad Commissioner,,Mark Thompson,FALSE,DEM,45,51.72
+WILSON,Railroad Commissioner,,Total,,,87,
+WINKLER,Railroad Commissioner,,Dale Henry,FALSE,DEM,6,60
+WINKLER,Railroad Commissioner,,Mark Thompson,FALSE,DEM,4,40
+WINKLER,Railroad Commissioner,,Total,,,10,
+WISE,Railroad Commissioner,,Dale Henry,FALSE,DEM,54,56.25
+WISE,Railroad Commissioner,,Mark Thompson,FALSE,DEM,42,43.75
+WISE,Railroad Commissioner,,Total,,,96,
+WOOD,Railroad Commissioner,,Dale Henry,FALSE,DEM,66,52.8
+WOOD,Railroad Commissioner,,Mark Thompson,FALSE,DEM,59,47.2
+WOOD,Railroad Commissioner,,Total,,,125,
+YOAKUM,Railroad Commissioner,,Dale Henry,FALSE,DEM,5,35.71
+YOAKUM,Railroad Commissioner,,Mark Thompson,FALSE,DEM,9,64.29
+YOAKUM,Railroad Commissioner,,Total,,,14,
+YOUNG,Railroad Commissioner,,Dale Henry,FALSE,DEM,40,48.78
+YOUNG,Railroad Commissioner,,Mark Thompson,FALSE,DEM,42,51.22
+YOUNG,Railroad Commissioner,,Total,,,82,
+ZAPATA,Railroad Commissioner,,Dale Henry,FALSE,DEM,272,51.71
+ZAPATA,Railroad Commissioner,,Mark Thompson,FALSE,DEM,254,48.29
+ZAPATA,Railroad Commissioner,,Total,,,526,
+ZAPATA,District Attorney,49th Judicial District,"Isidro R. ""Chilo"" Alaniz",FALSE,DEM,554,82.44
+ZAPATA,District Attorney,49th Judicial District,Maria Elena Morales,FALSE,DEM,118,17.56
+ZAPATA,District Attorney,49th Judicial District,Total,,,672,
+ZAVALA,Railroad Commissioner,,Dale Henry,FALSE,DEM,78,38.81
+ZAVALA,Railroad Commissioner,,Mark Thompson,FALSE,DEM,123,61.19
+ZAVALA,Railroad Commissioner,,Total,,,201,
