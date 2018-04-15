@@ -1,431 +1,743 @@
-county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
-Bandera,101,Ballots Cast,,,,676,40,389,247
-Bandera,102,Ballots Cast,,,,1075,71,464,540
-Bandera,203,Ballots Cast,,,,846,48,470,328
-Bandera,204,Ballots Cast,,,,666,55,336,275
-Bandera,305,Ballots Cast,,,,1019,57,578,384
-Bandera,306,Ballots Cast,,,,650,33,374,243
-Bandera,407,Ballots Cast,,,,850,54,513,283
-Bandera,408,Ballots Cast,,,,135,8,63,64
-Bandera,409,Ballots Cast,,,,234,16,106,112
-Bandera,410,Ballots Cast,,,,280,32,66,182
-Bandera,101,Registered Voters,,,,1640,,,
-Bandera,102,Registered Voters,,,,2353,,,
-Bandera,203,Registered Voters,,,,2035,,,
-Bandera,204,Registered Voters,,,,1611,,,
-Bandera,305,Registered Voters,,,,3247,,,
-Bandera,306,Registered Voters,,,,1314,,,
-Bandera,407,Registered Voters,,,,1839,,,
-Bandera,408,Registered Voters,,,,299,,,
-Bandera,409,Registered Voters,,,,783,,,
-Bandera,410,Registered Voters,,,,477,,,
-Bandera,101,Straight Party,,REP,Republican,333,,,
-Bandera,102,Straight Party,,REP,Republican,476,,,
-Bandera,203,Straight Party,,REP,Republican,416,,,
-Bandera,204,Straight Party,,REP,Republican,304,,,
-Bandera,305,Straight Party,,REP,Republican,460,,,
-Bandera,306,Straight Party,,REP,Republican,328,,,
-Bandera,407,Straight Party,,REP,Republican,457,,,
-Bandera,408,Straight Party,,REP,Republican,59,,,
-Bandera,409,Straight Party,,REP,Republican,112,,,
-Bandera,410,Straight Party,,REP,Republican,160,,,
-Bandera,101,Straight Party,,DEM,Democratic,43,,,
-Bandera,102,Straight Party,,DEM,Democratic,85,,,
-Bandera,203,Straight Party,,DEM,Democratic,77,,,
-Bandera,204,Straight Party,,DEM,Democratic,71,,,
-Bandera,305,Straight Party,,DEM,Democratic,77,,,
-Bandera,306,Straight Party,,DEM,Democratic,32,,,
-Bandera,407,Straight Party,,DEM,Democratic,48,,,
-Bandera,408,Straight Party,,DEM,Democratic,20,,,
-Bandera,409,Straight Party,,DEM,Democratic,29,,,
-Bandera,410,Straight Party,,DEM,Democratic,13,,,
-Bandera,101,Straight Party,,LIB,Libertarian,2,,,
-Bandera,102,Straight Party,,LIB,Libertarian,8,,,
-Bandera,203,Straight Party,,LIB,Libertarian,7,,,
-Bandera,204,Straight Party,,LIB,Libertarian,9,,,
-Bandera,305,Straight Party,,LIB,Libertarian,9,,,
-Bandera,306,Straight Party,,LIB,Libertarian,2,,,
-Bandera,407,Straight Party,,LIB,Libertarian,1,,,
-Bandera,408,Straight Party,,LIB,Libertarian,0,,,
-Bandera,409,Straight Party,,LIB,Libertarian,1,,,
-Bandera,410,Straight Party,,LIB,Libertarian,1,,,
-Bandera,101,Straight Party,,GRN,Green,1,,,
-Bandera,102,Straight Party,,GRN,Green,2,,,
-Bandera,203,Straight Party,,GRN,Green,4,,,
-Bandera,204,Straight Party,,GRN,Green,1,,,
-Bandera,305,Straight Party,,GRN,Green,4,,,
-Bandera,306,Straight Party,,GRN,Green,0,,,
-Bandera,407,Straight Party,,GRN,Green,0,,,
-Bandera,408,Straight Party,,GRN,Green,0,,,
-Bandera,409,Straight Party,,GRN,Green,2,,,
-Bandera,410,Straight Party,,GRN,Green,0,,,
-Bandera,101,U.S. Senate,,REP,John Cornyn,529,,,
-Bandera,102,U.S. Senate,,REP,John Cornyn,809,,,
-Bandera,203,U.S. Senate,,REP,John Cornyn,622,,,
-Bandera,204,U.S. Senate,,REP,John Cornyn,490,,,
-Bandera,305,U.S. Senate,,REP,John Cornyn,797,,,
-Bandera,306,U.S. Senate,,REP,John Cornyn,539,,,
-Bandera,407,U.S. Senate,,REP,John Cornyn,722,,,
-Bandera,408,U.S. Senate,,REP,John Cornyn,93,,,
-Bandera,409,U.S. Senate,,REP,John Cornyn,163,,,
-Bandera,410,U.S. Senate,,REP,John Cornyn,228,,,
-Bandera,101,U.S. Senate,,DEM,David M. Alameel,91,,,
-Bandera,102,U.S. Senate,,DEM,David M. Alameel,170,,,
-Bandera,203,U.S. Senate,,DEM,David M. Alameel,140,,,
-Bandera,204,U.S. Senate,,DEM,David M. Alameel,112,,,
-Bandera,305,U.S. Senate,,DEM,David M. Alameel,136,,,
-Bandera,306,U.S. Senate,,DEM,David M. Alameel,68,,,
-Bandera,407,U.S. Senate,,DEM,David M. Alameel,91,,,
-Bandera,408,U.S. Senate,,DEM,David M. Alameel,31,,,
-Bandera,409,U.S. Senate,,DEM,David M. Alameel,50,,,
-Bandera,410,U.S. Senate,,DEM,David M. Alameel,31,,,
-Bandera,101,U.S. Senate,,LIB,Rebecca Paddock,26,,,
-Bandera,102,U.S. Senate,,LIB,Rebecca Paddock,54,,,
-Bandera,203,U.S. Senate,,LIB,Rebecca Paddock,49,,,
-Bandera,204,U.S. Senate,,LIB,Rebecca Paddock,40,,,
-Bandera,305,U.S. Senate,,LIB,Rebecca Paddock,49,,,
-Bandera,306,U.S. Senate,,LIB,Rebecca Paddock,18,,,
-Bandera,407,U.S. Senate,,LIB,Rebecca Paddock,23,,,
-Bandera,408,U.S. Senate,,LIB,Rebecca Paddock,2,,,
-Bandera,409,U.S. Senate,,LIB,Rebecca Paddock,11,,,
-Bandera,410,U.S. Senate,,LIB,Rebecca Paddock,11,,,
-Bandera,101,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",9,,,
-Bandera,102,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",11,,,
-Bandera,203,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",18,,,
-Bandera,204,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",6,,,
-Bandera,305,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",13,,,
-Bandera,306,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",3,,,
-Bandera,407,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",8,,,
-Bandera,408,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",5,,,
-Bandera,409,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",3,,,
-Bandera,410,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",5,,,
-Bandera,101,U.S. House,21,REP,Lamar Smith,538,,,
-Bandera,102,U.S. House,21,REP,Lamar Smith,836,,,
-Bandera,203,U.S. House,21,REP,Lamar Smith,654,,,
-Bandera,204,U.S. House,21,REP,Lamar Smith,492,,,
-Bandera,305,U.S. House,21,REP,Lamar Smith,806,,,
-Bandera,306,U.S. House,21,REP,Lamar Smith,548,,,
-Bandera,407,U.S. House,21,REP,Lamar Smith,721,,,
-Bandera,408,U.S. House,21,REP,Lamar Smith,100,,,
-Bandera,409,U.S. House,21,REP,Lamar Smith,172,,,
-Bandera,410,U.S. House,21,REP,Lamar Smith,231,,,
-Bandera,101,U.S. House,21,LIB,Ryan Shields,59,,,
-Bandera,102,U.S. House,21,LIB,Ryan Shields,86,,,
-Bandera,203,U.S. House,21,LIB,Ryan Shields,78,,,
-Bandera,204,U.S. House,21,LIB,Ryan Shields,73,,,
-Bandera,305,U.S. House,21,LIB,Ryan Shields,92,,,
-Bandera,306,U.S. House,21,LIB,Ryan Shields,44,,,
-Bandera,407,U.S. House,21,LIB,Ryan Shields,55,,,
-Bandera,408,U.S. House,21,LIB,Ryan Shields,8,,,
-Bandera,409,U.S. House,21,LIB,Ryan Shields,29,,,
-Bandera,410,U.S. House,21,LIB,Ryan Shields,17,,,
-Bandera,101,U.S. House,21,GRN,Antonio Diaz,25,,,
-Bandera,102,U.S. House,21,GRN,Antonio Diaz,67,,,
-Bandera,203,U.S. House,21,GRN,Antonio Diaz,43,,,
-Bandera,204,U.S. House,21,GRN,Antonio Diaz,35,,,
-Bandera,305,U.S. House,21,GRN,Antonio Diaz,37,,,
-Bandera,306,U.S. House,21,GRN,Antonio Diaz,25,,,
-Bandera,407,U.S. House,21,GRN,Antonio Diaz,23,,,
-Bandera,408,U.S. House,21,GRN,Antonio Diaz,7,,,
-Bandera,409,U.S. House,21,GRN,Antonio Diaz,7,,,
-Bandera,410,U.S. House,21,GRN,Antonio Diaz,11,,,
-Bandera,101,Governor,,REP,Greg Abbott,511,,,
-Bandera,102,Governor,,REP,Greg Abbott,814,,,
-Bandera,203,Governor,,REP,Greg Abbott,621,,,
-Bandera,204,Governor,,REP,Greg Abbott,478,,,
-Bandera,305,Governor,,REP,Greg Abbott,778,,,
-Bandera,306,Governor,,REP,Greg Abbott,523,,,
-Bandera,407,Governor,,REP,Greg Abbott,701,,,
-Bandera,408,Governor,,REP,Greg Abbott,90,,,
-Bandera,409,Governor,,REP,Greg Abbott,162,,,
-Bandera,410,Governor,,REP,Greg Abbott,233,,,
-Bandera,101,Governor,,DEM,Wendy R. Davis,134,,,
-Bandera,102,Governor,,DEM,Wendy R. Davis,225,,,
-Bandera,203,Governor,,DEM,Wendy R. Davis,184,,,
-Bandera,204,Governor,,DEM,Wendy R. Davis,155,,,
-Bandera,305,Governor,,DEM,Wendy R. Davis,188,,,
-Bandera,306,Governor,,DEM,Wendy R. Davis,100,,,
-Bandera,407,Governor,,DEM,Wendy R. Davis,131,,,
-Bandera,408,Governor,,DEM,Wendy R. Davis,42,,,
-Bandera,409,Governor,,DEM,Wendy R. Davis,58,,,
-Bandera,410,Governor,,DEM,Wendy R. Davis,40,,,
-Bandera,101,Governor,,LIB,Kathie Glass,17,,,
-Bandera,102,Governor,,LIB,Kathie Glass,22,,,
-Bandera,203,Governor,,LIB,Kathie Glass,23,,,
-Bandera,204,Governor,,LIB,Kathie Glass,19,,,
-Bandera,305,Governor,,LIB,Kathie Glass,33,,,
-Bandera,306,Governor,,LIB,Kathie Glass,15,,,
-Bandera,407,Governor,,LIB,Kathie Glass,7,,,
-Bandera,408,Governor,,LIB,Kathie Glass,2,,,
-Bandera,409,Governor,,LIB,Kathie Glass,6,,,
-Bandera,410,Governor,,LIB,Kathie Glass,2,,,
-Bandera,101,Governor,,GRN,Brandon Parmer,1,,,
-Bandera,102,Governor,,GRN,Brandon Parmer,4,,,
-Bandera,203,Governor,,GRN,Brandon Parmer,3,,,
-Bandera,204,Governor,,GRN,Brandon Parmer,6,,,
-Bandera,305,Governor,,GRN,Brandon Parmer,7,,,
-Bandera,306,Governor,,GRN,Brandon Parmer,2,,,
-Bandera,407,Governor,,GRN,Brandon Parmer,4,,,
-Bandera,408,Governor,,GRN,Brandon Parmer,0,,,
-Bandera,409,Governor,,GRN,Brandon Parmer,4,,,
-Bandera,410,Governor,,GRN,Brandon Parmer,1,,,
-Bandera,101,Lieutenant Governor,,REP,Dan Patrick,511,,,
-Bandera,102,Lieutenant Governor,,REP,Dan Patrick,803,,,
-Bandera,203,Lieutenant Governor,,REP,Dan Patrick,596,,,
-Bandera,204,Lieutenant Governor,,REP,Dan Patrick,472,,,
-Bandera,305,Lieutenant Governor,,REP,Dan Patrick,774,,,
-Bandera,306,Lieutenant Governor,,REP,Dan Patrick,518,,,
-Bandera,407,Lieutenant Governor,,REP,Dan Patrick,693,,,
-Bandera,408,Lieutenant Governor,,REP,Dan Patrick,91,,,
-Bandera,409,Lieutenant Governor,,REP,Dan Patrick,162,,,
-Bandera,410,Lieutenant Governor,,REP,Dan Patrick,233,,,
-Bandera,101,Lieutenant Governor,,DEM,Leticia Van de Putte,132,,,
-Bandera,102,Lieutenant Governor,,DEM,Leticia Van de Putte,228,,,
-Bandera,203,Lieutenant Governor,,DEM,Leticia Van de Putte,198,,,
-Bandera,204,Lieutenant Governor,,DEM,Leticia Van de Putte,157,,,
-Bandera,305,Lieutenant Governor,,DEM,Leticia Van de Putte,178,,,
-Bandera,306,Lieutenant Governor,,DEM,Leticia Van de Putte,97,,,
-Bandera,407,Lieutenant Governor,,DEM,Leticia Van de Putte,134,,,
-Bandera,408,Lieutenant Governor,,DEM,Leticia Van de Putte,40,,,
-Bandera,409,Lieutenant Governor,,DEM,Leticia Van de Putte,58,,,
-Bandera,410,Lieutenant Governor,,DEM,Leticia Van de Putte,39,,,
-Bandera,101,Lieutenant Governor,,LIB,Robert D. Butler,21,,,
-Bandera,102,Lieutenant Governor,,LIB,Robert D. Butler,30,,,
-Bandera,203,Lieutenant Governor,,LIB,Robert D. Butler,32,,,
-Bandera,204,Lieutenant Governor,,LIB,Robert D. Butler,30,,,
-Bandera,305,Lieutenant Governor,,LIB,Robert D. Butler,38,,,
-Bandera,306,Lieutenant Governor,,LIB,Robert D. Butler,21,,,
-Bandera,407,Lieutenant Governor,,LIB,Robert D. Butler,10,,,
-Bandera,408,Lieutenant Governor,,LIB,Robert D. Butler,2,,,
-Bandera,409,Lieutenant Governor,,LIB,Robert D. Butler,6,,,
-Bandera,410,Lieutenant Governor,,LIB,Robert D. Butler,3,,,
-Bandera,101,Lieutenant Governor,,GRN,Chandrakant Courtney,2,,,
-Bandera,102,Lieutenant Governor,,GRN,Chandrakant Courtney,5,,,
-Bandera,203,Lieutenant Governor,,GRN,Chandrakant Courtney,8,,,
-Bandera,204,Lieutenant Governor,,GRN,Chandrakant Courtney,2,,,
-Bandera,305,Lieutenant Governor,,GRN,Chandrakant Courtney,10,,,
-Bandera,306,Lieutenant Governor,,GRN,Chandrakant Courtney,2,,,
-Bandera,407,Lieutenant Governor,,GRN,Chandrakant Courtney,6,,,
-Bandera,408,Lieutenant Governor,,GRN,Chandrakant Courtney,0,,,
-Bandera,409,Lieutenant Governor,,GRN,Chandrakant Courtney,4,,,
-Bandera,410,Lieutenant Governor,,GRN,Chandrakant Courtney,1,,,
-Bandera,101,Attorney General,,REP,Ken Paxton,516,,,
-Bandera,102,Attorney General,,REP,Ken Paxton,803,,,
-Bandera,203,Attorney General,,REP,Ken Paxton,611,,,
-Bandera,204,Attorney General,,REP,Ken Paxton,480,,,
-Bandera,305,Attorney General,,REP,Ken Paxton,781,,,
-Bandera,306,Attorney General,,REP,Ken Paxton,529,,,
-Bandera,407,Attorney General,,REP,Ken Paxton,700,,,
-Bandera,408,Attorney General,,REP,Ken Paxton,91,,,
-Bandera,409,Attorney General,,REP,Ken Paxton,159,,,
-Bandera,410,Attorney General,,REP,Ken Paxton,229,,,
-Bandera,101,Attorney General,,DEM,Sam Houston,119,,,
-Bandera,102,Attorney General,,DEM,Sam Houston,211,,,
-Bandera,203,Attorney General,,DEM,Sam Houston,165,,,
-Bandera,204,Attorney General,,DEM,Sam Houston,143,,,
-Bandera,305,Attorney General,,DEM,Sam Houston,162,,,
-Bandera,306,Attorney General,,DEM,Sam Houston,96,,,
-Bandera,407,Attorney General,,DEM,Sam Houston,120,,,
-Bandera,408,Attorney General,,DEM,Sam Houston,39,,,
-Bandera,409,Attorney General,,DEM,Sam Houston,60,,,
-Bandera,410,Attorney General,,DEM,Sam Houston,39,,,
-Bandera,101,Attorney General,,LIB,Jamie Balagia,17,,,
-Bandera,102,Attorney General,,LIB,Jamie Balagia,29,,,
-Bandera,203,Attorney General,,LIB,Jamie Balagia,43,,,
-Bandera,204,Attorney General,,LIB,Jamie Balagia,28,,,
-Bandera,305,Attorney General,,LIB,Jamie Balagia,38,,,
-Bandera,306,Attorney General,,LIB,Jamie Balagia,8,,,
-Bandera,407,Attorney General,,LIB,Jamie Balagia,17,,,
-Bandera,408,Attorney General,,LIB,Jamie Balagia,1,,,
-Bandera,409,Attorney General,,LIB,Jamie Balagia,6,,,
-Bandera,410,Attorney General,,LIB,Jamie Balagia,4,,,
-Bandera,101,Attorney General,,GRN,Jamar Osborne,4,,,
-Bandera,102,Attorney General,,GRN,Jamar Osborne,7,,,
-Bandera,203,Attorney General,,GRN,Jamar Osborne,10,,,
-Bandera,204,Attorney General,,GRN,Jamar Osborne,3,,,
-Bandera,305,Attorney General,,GRN,Jamar Osborne,12,,,
-Bandera,306,Attorney General,,GRN,Jamar Osborne,2,,,
-Bandera,407,Attorney General,,GRN,Jamar Osborne,1,,,
-Bandera,408,Attorney General,,GRN,Jamar Osborne,2,,,
-Bandera,409,Attorney General,,GRN,Jamar Osborne,4,,,
-Bandera,410,Attorney General,,GRN,Jamar Osborne,2,,,
-Bandera,101,Comptroller,,REP,Glenn Hegar,509,,,
-Bandera,102,Comptroller,,REP,Glenn Hegar,791,,,
-Bandera,203,Comptroller,,REP,Glenn Hegar,598,,,
-Bandera,204,Comptroller,,REP,Glenn Hegar,463,,,
-Bandera,305,Comptroller,,REP,Glenn Hegar,769,,,
-Bandera,306,Comptroller,,REP,Glenn Hegar,527,,,
-Bandera,407,Comptroller,,REP,Glenn Hegar,685,,,
-Bandera,408,Comptroller,,REP,Glenn Hegar,91,,,
-Bandera,409,Comptroller,,REP,Glenn Hegar,160,,,
-Bandera,410,Comptroller,,REP,Glenn Hegar,223,,,
-Bandera,101,Comptroller,,DEM,Mike Collier,111,,,
-Bandera,102,Comptroller,,DEM,Mike Collier,199,,,
-Bandera,203,Comptroller,,DEM,Mike Collier,161,,,
-Bandera,204,Comptroller,,DEM,Mike Collier,141,,,
-Bandera,305,Comptroller,,DEM,Mike Collier,153,,,
-Bandera,306,Comptroller,,DEM,Mike Collier,80,,,
-Bandera,407,Comptroller,,DEM,Mike Collier,114,,,
-Bandera,408,Comptroller,,DEM,Mike Collier,38,,,
-Bandera,409,Comptroller,,DEM,Mike Collier,55,,,
-Bandera,410,Comptroller,,DEM,Mike Collier,38,,,
-Bandera,101,Comptroller,,LIB,Ben Sanders,27,,,
-Bandera,102,Comptroller,,LIB,Ben Sanders,47,,,
-Bandera,203,Comptroller,,LIB,Ben Sanders,46,,,
-Bandera,204,Comptroller,,LIB,Ben Sanders,36,,,
-Bandera,305,Comptroller,,LIB,Ben Sanders,47,,,
-Bandera,306,Comptroller,,LIB,Ben Sanders,20,,,
-Bandera,407,Comptroller,,LIB,Ben Sanders,24,,,
-Bandera,408,Comptroller,,LIB,Ben Sanders,2,,,
-Bandera,409,Comptroller,,LIB,Ben Sanders,8,,,
-Bandera,410,Comptroller,,LIB,Ben Sanders,8,,,
-Bandera,101,Comptroller,,GRN,Deb Shafto,6,,,
-Bandera,102,Comptroller,,GRN,Deb Shafto,12,,,
-Bandera,203,Comptroller,,GRN,Deb Shafto,20,,,
-Bandera,204,Comptroller,,GRN,Deb Shafto,9,,,
-Bandera,305,Comptroller,,GRN,Deb Shafto,12,,,
-Bandera,306,Comptroller,,GRN,Deb Shafto,4,,,
-Bandera,407,Comptroller,,GRN,Deb Shafto,8,,,
-Bandera,408,Comptroller,,GRN,Deb Shafto,2,,,
-Bandera,409,Comptroller,,GRN,Deb Shafto,6,,,
-Bandera,410,Comptroller,,GRN,Deb Shafto,3,,,
-Bandera,101,Land Commissioner,,REP,George P. Bush,509,,,
-Bandera,102,Land Commissioner,,REP,George P. Bush,812,,,
-Bandera,203,Land Commissioner,,REP,George P. Bush,613,,,
-Bandera,204,Land Commissioner,,REP,George P. Bush,478,,,
-Bandera,305,Land Commissioner,,REP,George P. Bush,780,,,
-Bandera,306,Land Commissioner,,REP,George P. Bush,535,,,
-Bandera,407,Land Commissioner,,REP,George P. Bush,712,,,
-Bandera,408,Land Commissioner,,REP,George P. Bush,97,,,
-Bandera,409,Land Commissioner,,REP,George P. Bush,163,,,
-Bandera,410,Land Commissioner,,REP,George P. Bush,227,,,
-Bandera,101,Land Commissioner,,DEM,John Cook,101,,,
-Bandera,102,Land Commissioner,,DEM,John Cook,187,,,
-Bandera,203,Land Commissioner,,DEM,John Cook,149,,,
-Bandera,204,Land Commissioner,,DEM,John Cook,127,,,
-Bandera,305,Land Commissioner,,DEM,John Cook,147,,,
-Bandera,306,Land Commissioner,,DEM,John Cook,73,,,
-Bandera,407,Land Commissioner,,DEM,John Cook,101,,,
-Bandera,408,Land Commissioner,,DEM,John Cook,33,,,
-Bandera,409,Land Commissioner,,DEM,John Cook,51,,,
-Bandera,410,Land Commissioner,,DEM,John Cook,33,,,
-Bandera,101,Land Commissioner,,LIB,Justin Knight,39,,,
-Bandera,102,Land Commissioner,,LIB,Justin Knight,41,,,
-Bandera,203,Land Commissioner,,LIB,Justin Knight,41,,,
-Bandera,204,Land Commissioner,,LIB,Justin Knight,41,,,
-Bandera,305,Land Commissioner,,LIB,Justin Knight,54,,,
-Bandera,306,Land Commissioner,,LIB,Justin Knight,20,,,
-Bandera,407,Land Commissioner,,LIB,Justin Knight,24,,,
-Bandera,408,Land Commissioner,,LIB,Justin Knight,3,,,
-Bandera,409,Land Commissioner,,LIB,Justin Knight,12,,,
-Bandera,410,Land Commissioner,,LIB,Justin Knight,11,,,
-Bandera,101,Land Commissioner,,GRN,Valerie Alessi,4,,,
-Bandera,102,Land Commissioner,,GRN,Valerie Alessi,15,,,
-Bandera,203,Land Commissioner,,GRN,Valerie Alessi,24,,,
-Bandera,204,Land Commissioner,,GRN,Valerie Alessi,10,,,
-Bandera,305,Land Commissioner,,GRN,Valerie Alessi,15,,,
-Bandera,306,Land Commissioner,,GRN,Valerie Alessi,7,,,
-Bandera,407,Land Commissioner,,GRN,Valerie Alessi,5,,,
-Bandera,408,Land Commissioner,,GRN,Valerie Alessi,0,,,
-Bandera,409,Land Commissioner,,GRN,Valerie Alessi,4,,,
-Bandera,410,Land Commissioner,,GRN,Valerie Alessi,3,,,
-Bandera,101,Agriculture Commissioner,,REP,Sid Miller,508,,,
-Bandera,102,Agriculture Commissioner,,REP,Sid Miller,791,,,
-Bandera,203,Agriculture Commissioner,,REP,Sid Miller,607,,,
-Bandera,204,Agriculture Commissioner,,REP,Sid Miller,466,,,
-Bandera,305,Agriculture Commissioner,,REP,Sid Miller,770,,,
-Bandera,306,Agriculture Commissioner,,REP,Sid Miller,526,,,
-Bandera,407,Agriculture Commissioner,,REP,Sid Miller,694,,,
-Bandera,408,Agriculture Commissioner,,REP,Sid Miller,92,,,
-Bandera,409,Agriculture Commissioner,,REP,Sid Miller,157,,,
-Bandera,410,Agriculture Commissioner,,REP,Sid Miller,234,,,
-Bandera,101,Agriculture Commissioner,,DEM,Jim Hogan,108,,,
-Bandera,102,Agriculture Commissioner,,DEM,Jim Hogan,182,,,
-Bandera,203,Agriculture Commissioner,,DEM,Jim Hogan,156,,,
-Bandera,204,Agriculture Commissioner,,DEM,Jim Hogan,138,,,
-Bandera,305,Agriculture Commissioner,,DEM,Jim Hogan,152,,,
-Bandera,306,Agriculture Commissioner,,DEM,Jim Hogan,74,,,
-Bandera,407,Agriculture Commissioner,,DEM,Jim Hogan,113,,,
-Bandera,408,Agriculture Commissioner,,DEM,Jim Hogan,39,,,
-Bandera,409,Agriculture Commissioner,,DEM,Jim Hogan,55,,,
-Bandera,410,Agriculture Commissioner,,DEM,Jim Hogan,33,,,
-Bandera,101,Agriculture Commissioner,,LIB,David (Rocky) Palmquist,28,,,
-Bandera,102,Agriculture Commissioner,,LIB,David (Rocky) Palmquist,52,,,
-Bandera,203,Agriculture Commissioner,,LIB,David (Rocky) Palmquist,47,,,
-Bandera,204,Agriculture Commissioner,,LIB,David (Rocky) Palmquist,35,,,
-Bandera,305,Agriculture Commissioner,,LIB,David (Rocky) Palmquist,48,,,
-Bandera,306,Agriculture Commissioner,,LIB,David (Rocky) Palmquist,20,,,
-Bandera,407,Agriculture Commissioner,,LIB,David (Rocky) Palmquist,19,,,
-Bandera,408,Agriculture Commissioner,,LIB,David (Rocky) Palmquist,1,,,
-Bandera,409,Agriculture Commissioner,,LIB,David (Rocky) Palmquist,10,,,
-Bandera,410,Agriculture Commissioner,,LIB,David (Rocky) Palmquist,7,,,
-Bandera,101,Agriculture Commissioner,,GRN,Kenneth Kendrick,10,,,
-Bandera,102,Agriculture Commissioner,,GRN,Kenneth Kendrick,25,,,
-Bandera,203,Agriculture Commissioner,,GRN,Kenneth Kendrick,18,,,
-Bandera,204,Agriculture Commissioner,,GRN,Kenneth Kendrick,13,,,
-Bandera,305,Agriculture Commissioner,,GRN,Kenneth Kendrick,14,,,
-Bandera,306,Agriculture Commissioner,,GRN,Kenneth Kendrick,14,,,
-Bandera,407,Agriculture Commissioner,,GRN,Kenneth Kendrick,10,,,
-Bandera,408,Agriculture Commissioner,,GRN,Kenneth Kendrick,1,,,
-Bandera,409,Agriculture Commissioner,,GRN,Kenneth Kendrick,6,,,
-Bandera,410,Agriculture Commissioner,,GRN,Kenneth Kendrick,2,,,
-Bandera,101,Railroad Commissioner,,REP,Ryan Sitton,500,,,
-Bandera,102,Railroad Commissioner,,REP,Ryan Sitton,788,,,
-Bandera,203,Railroad Commissioner,,REP,Ryan Sitton,598,,,
-Bandera,204,Railroad Commissioner,,REP,Ryan Sitton,449,,,
-Bandera,305,Railroad Commissioner,,REP,Ryan Sitton,764,,,
-Bandera,306,Railroad Commissioner,,REP,Ryan Sitton,524,,,
-Bandera,407,Railroad Commissioner,,REP,Ryan Sitton,682,,,
-Bandera,408,Railroad Commissioner,,REP,Ryan Sitton,91,,,
-Bandera,409,Railroad Commissioner,,REP,Ryan Sitton,157,,,
-Bandera,410,Railroad Commissioner,,REP,Ryan Sitton,226,,,
-Bandera,101,Railroad Commissioner,,DEM,Steve Brown,109,,,
-Bandera,102,Railroad Commissioner,,DEM,Steve Brown,185,,,
-Bandera,203,Railroad Commissioner,,DEM,Steve Brown,148,,,
-Bandera,204,Railroad Commissioner,,DEM,Steve Brown,142,,,
-Bandera,305,Railroad Commissioner,,DEM,Steve Brown,157,,,
-Bandera,306,Railroad Commissioner,,DEM,Steve Brown,80,,,
-Bandera,407,Railroad Commissioner,,DEM,Steve Brown,114,,,
-Bandera,408,Railroad Commissioner,,DEM,Steve Brown,39,,,
-Bandera,409,Railroad Commissioner,,DEM,Steve Brown,55,,,
-Bandera,410,Railroad Commissioner,,DEM,Steve Brown,34,,,
-Bandera,101,Railroad Commissioner,,LIB,Mark A. Miller,36,,,
-Bandera,102,Railroad Commissioner,,LIB,Mark A. Miller,48,,,
-Bandera,203,Railroad Commissioner,,LIB,Mark A. Miller,52,,,
-Bandera,204,Railroad Commissioner,,LIB,Mark A. Miller,47,,,
-Bandera,305,Railroad Commissioner,,LIB,Mark A. Miller,56,,,
-Bandera,306,Railroad Commissioner,,LIB,Mark A. Miller,20,,,
-Bandera,407,Railroad Commissioner,,LIB,Mark A. Miller,24,,,
-Bandera,408,Railroad Commissioner,,LIB,Mark A. Miller,3,,,
-Bandera,409,Railroad Commissioner,,LIB,Mark A. Miller,11,,,
-Bandera,410,Railroad Commissioner,,LIB,Mark A. Miller,11,,,
-Bandera,101,Railroad Commissioner,,GRN,Martina Salinas,6,,,
-Bandera,102,Railroad Commissioner,,GRN,Martina Salinas,25,,,
-Bandera,203,Railroad Commissioner,,GRN,Martina Salinas,22,,,
-Bandera,204,Railroad Commissioner,,GRN,Martina Salinas,8,,,
-Bandera,305,Railroad Commissioner,,GRN,Martina Salinas,10,,,
-Bandera,306,Railroad Commissioner,,GRN,Martina Salinas,7,,,
-Bandera,407,Railroad Commissioner,,GRN,Martina Salinas,10,,,
-Bandera,408,Railroad Commissioner,,GRN,Martina Salinas,0,,,
-Bandera,409,Railroad Commissioner,,GRN,Martina Salinas,4,,,
-Bandera,410,Railroad Commissioner,,GRN,Martina Salinas,1,,,
-Bandera,101,State Representative,53,REP,Andrew S. Murr,550,,,
-Bandera,102,State Representative,53,REP,Andrew S. Murr,840,,,
-Bandera,203,State Representative,53,REP,Andrew S. Murr,635,,,
-Bandera,204,State Representative,53,REP,Andrew S. Murr,494,,,
-Bandera,305,State Representative,53,REP,Andrew S. Murr,811,,,
-Bandera,306,State Representative,53,REP,Andrew S. Murr,550,,,
-Bandera,407,State Representative,53,REP,Andrew S. Murr,721,,,
-Bandera,408,State Representative,53,REP,Andrew S. Murr,98,,,
-Bandera,409,State Representative,53,REP,Andrew S. Murr,166,,,
-Bandera,410,State Representative,53,REP,Andrew S. Murr,234,,,
-Bandera,101,State Representative,53,LIB,Maximilian Martin,66,,,
-Bandera,102,State Representative,53,LIB,Maximilian Martin,133,,,
-Bandera,203,State Representative,53,LIB,Maximilian Martin,118,,,
-Bandera,204,State Representative,53,LIB,Maximilian Martin,95,,,
-Bandera,305,State Representative,53,LIB,Maximilian Martin,100,,,
-Bandera,306,State Representative,53,LIB,Maximilian Martin,54,,,
-Bandera,407,State Representative,53,LIB,Maximilian Martin,67,,,
-Bandera,408,State Representative,53,LIB,Maximilian Martin,13,,,
-Bandera,409,State Representative,53,LIB,Maximilian Martin,39,,,
-Bandera,410,State Representative,53,LIB,Maximilian Martin,20,,,
+county,precinct,office,district,party,candidate,votes,early_votes,election_day
+Bandera,101.0,STRAIGHT PARTY,,REP,REPUBLICAN PARTY,333.0,210.0,247.0
+Bandera,101.0,STRAIGHT PARTY,,DEM,DEMOCRATIC PARTY,43.0,32.0,247.0
+Bandera,101.0,STRAIGHT PARTY,,LIB,LIBERTARIAN PARTY,2.0,0.0,247.0
+Bandera,101.0,STRAIGHT PARTY,,GRN,GREEN PARTY,1.0,0.0,247.0
+Bandera,101.0,U.S. SENATOR,,REP,JOHN CORNYN,529.0,334.0,247.0
+Bandera,101.0,U.S. SENATOR,,DEM,DAVID M. ALAMEEL,91.0,61.0,247.0
+Bandera,101.0,U.S. SENATOR,,LIB,REBECCA PADDOCK,26.0,15.0,247.0
+Bandera,101.0,U.S. SENATOR,,GRN,"EMILY ""SPICYBROWN"" SANCHEZ",9.0,4.0,247.0
+Bandera,101.0,U.S. REPRESENTATIVE DISTRICT 21,,REP,LAMAR SMITH,538.0,338.0,247.0
+Bandera,101.0,U.S. REPRESENTATIVE DISTRICT 21,,LIB,RYAN SHIELDS,59.0,43.0,247.0
+Bandera,101.0,U.S. REPRESENTATIVE DISTRICT 21,,GRN,ANTONIO DIAZ,25.0,11.0,247.0
+Bandera,101.0,GOVERNOR,,REP,GREG ABBOTT,511.0,320.0,247.0
+Bandera,101.0,GOVERNOR,,DEM,WENDY R. DAVIS,134.0,90.0,247.0
+Bandera,101.0,GOVERNOR,,LIB,KATHIE GLASS,17.0,9.0,247.0
+Bandera,101.0,GOVERNOR,,GRN,BRANDON PARMER,1.0,0.0,247.0
+Bandera,101.0,LIEUTENANT GOVERNOR,,REP,DAN PATRICK,511.0,326.0,247.0
+Bandera,101.0,LIEUTENANT GOVERNOR,,DEM,LETICIA VAN DE PUTTE,132.0,83.0,247.0
+Bandera,101.0,LIEUTENANT GOVERNOR,,LIB,ROBERT D. BUTLER,21.0,12.0,247.0
+Bandera,101.0,LIEUTENANT GOVERNOR,,GRN,CHANDRAKANTHA COURTNEY,2.0,1.0,247.0
+Bandera,101.0,ATTORNEY GENERAL,,REP,KEN PAXTON,516.0,330.0,247.0
+Bandera,101.0,ATTORNEY GENERAL,,DEM,SAM HOUSTON,119.0,77.0,247.0
+Bandera,101.0,ATTORNEY GENERAL,,LIB,JAMIE BALAGIA,17.0,9.0,247.0
+Bandera,101.0,ATTORNEY GENERAL,,GRN,JAMAR OSBORNE,4.0,0.0,247.0
+Bandera,101.0,COMPTROLLER OF PUBLIC ACCOUNTS,,REP,GLENN HEGAR,509.0,326.0,247.0
+Bandera,101.0,COMPTROLLER OF PUBLIC ACCOUNTS,,DEM,MIKE COLLIER,111.0,75.0,247.0
+Bandera,101.0,COMPTROLLER OF PUBLIC ACCOUNTS,,LIB,BEN SANDERS,27.0,13.0,247.0
+Bandera,101.0,COMPTROLLER OF PUBLIC ACCOUNTS,,GRN,DEB SHAFTO,6.0,0.0,247.0
+Bandera,101.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,REP,GEORGE P. BUSH,509.0,323.0,247.0
+Bandera,101.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,DEM,JOHN COOK,101.0,70.0,247.0
+Bandera,101.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,LIB,JUSTIN KNIGHT,39.0,21.0,247.0
+Bandera,101.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,GRN,VALERIE ALESSI,4.0,1.0,247.0
+Bandera,101.0,COMMISSIONER OF AGRICULTURE,,REP,SID MILLER,508.0,326.0,247.0
+Bandera,101.0,COMMISSIONER OF AGRICULTURE,,DEM,JIM HOGAN,108.0,75.0,247.0
+Bandera,101.0,COMMISSIONER OF AGRICULTURE,,LIB,DAVID (ROCKY) PALMQUIST,28.0,16.0,247.0
+Bandera,101.0,COMMISSIONER OF AGRICULTURE,,GRN,KENNETH KENDRICK,10.0,0.0,247.0
+Bandera,101.0,RAILROAD COMMISSIONER,,REP,RYAN SITTON,500.0,319.0,247.0
+Bandera,101.0,RAILROAD COMMISSIONER,,DEM,STEVE BROWN,109.0,76.0,247.0
+Bandera,101.0,RAILROAD COMMISSIONER,,LIB,MARK A. MILLER,36.0,19.0,247.0
+Bandera,101.0,RAILROAD COMMISSIONER,,GRN,MARTINA SALINAS,6.0,1.0,247.0
+Bandera,101.0,"CHIEF JUSTICE, SUPREME COURT",,REP,NATHAN HECHT,509.0,326.0,247.0
+Bandera,101.0,"CHIEF JUSTICE, SUPREME COURT",,DEM,WILLIAM MOODY,111.0,73.0,247.0
+Bandera,101.0,"CHIEF JUSTICE, SUPREME COURT",,LIB,TOM OXFORD,33.0,17.0,247.0
+Bandera,101.0,"JUSTICE, SUPREME COURT, PLACE 6 - UNEXPIRED TERM",,REP,JEFF BROWN,507.0,325.0,247.0
+Bandera,101.0,"JUSTICE, SUPREME COURT, PLACE 6 - UNEXPIRED TERM",,DEM,LAWRENCE EDWARD MEYERS,109.0,69.0,247.0
+Bandera,101.0,"JUSTICE, SUPREME COURT, PLACE 6 - UNEXPIRED TERM",,LIB,MARK ASH,32.0,17.0,247.0
+Bandera,101.0,"JUSTICE, SUPREME COURT, PLACE 7",,REP,JEFF BOYD,503.0,317.0,247.0
+Bandera,101.0,"JUSTICE, SUPREME COURT, PLACE 7",,DEM,GINA BENAVIDES,111.0,77.0,247.0
+Bandera,101.0,"JUSTICE, SUPREME COURT, PLACE 7",,LIB,DON FULTON,35.0,20.0,247.0
+Bandera,101.0,"JUSTICE, SUPREME COURT, PLACE 7",,GRN,CHARLES E. WATERBURY,4.0,0.0,247.0
+Bandera,101.0,"JUSTICE, SUPREME COURT, PLACE 8",,REP,PHIL JOHNSON,529.0,336.0,247.0
+Bandera,101.0,"JUSTICE, SUPREME COURT, PLACE 8",,LIB,RS ROBERTO KOELSCH,50.0,32.0,247.0
+Bandera,101.0,"JUSTICE, SUPREME COURT, PLACE 8",,GRN,JIM CHISOLM,32.0,19.0,247.0
+Bandera,101.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 3",,REP,BERT RICHARDSON,506.0,324.0,247.0
+Bandera,101.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 3",,DEM,JOHN GRANBERG,102.0,66.0,247.0
+Bandera,101.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 3",,LIB,MARK W. BENNETT,36.0,21.0,247.0
+Bandera,101.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 4",,REP,KEVIN PATRICK YEARY,515.0,325.0,247.0
+Bandera,101.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 4",,LIB,QUANAH PARKER,67.0,47.0,247.0
+Bandera,101.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 4",,GRN,JUDITH SANDERS-CASTRO,32.0,18.0,247.0
+Bandera,101.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 9",,REP,DAVID NEWELL,525.0,335.0,247.0
+Bandera,101.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 9",,LIB,"WILLIAM BRYAN STRANGE, III",64.0,42.0,247.0
+Bandera,101.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 9",,GRN,GEORGE JOSEPH ALTGELT,23.0,12.0,247.0
+Bandera,101.0,STATE REPRESENTATIVE DISTRICT 53,,REP,ANDREW S. MURR,550.0,348.0,247.0
+Bandera,101.0,STATE REPRESENTATIVE DISTRICT 53,,LIB,MAXIMILIAN MARTIN,66.0,42.0,247.0
+Bandera,101.0,"CHIEF JUSTICE, 4TH COURT OF APPEALS DISTRICT",,REP,SANDEE BRYAN MARION,544.0,346.0,247.0
+Bandera,101.0,"CHIEF JUSTICE, 4TH COURT OF APPEALS DISTRICT",,DEM,IRENE RIOS,97.0,66.0,247.0
+Bandera,101.0,"DISTRICT JUDGE, 198TH JUDICIAL DISTRICT",,REP,REX EMERSON,548.0,351.0,247.0
+Bandera,101.0,PROPOSITION 1,,"",FOR,435.0,288.0,247.0
+Bandera,101.0,PROPOSITION 1,,"",AGAINST,106.0,57.0,247.0
+Bandera,101.0,"TRUSTEE, PLACE #1",,"",JOHN JUNKER,283.0,184.0,247.0
+Bandera,101.0,"TRUSTEE, PLACE #1",,"",DANNI MACNEIL,162.0,102.0,247.0
+Bandera,101.0,"TRUSTEE, PLACE #2",,"",GREG BUTLER,206.0,128.0,247.0
+Bandera,101.0,"TRUSTEE, PLACE #2",,"",LAURIE NEFF,253.0,161.0,247.0
+Bandera,102.0,STRAIGHT PARTY,,REP,REPUBLICAN PARTY,476.0,258.0,540.0
+Bandera,102.0,STRAIGHT PARTY,,DEM,DEMOCRATIC PARTY,85.0,48.0,540.0
+Bandera,102.0,STRAIGHT PARTY,,LIB,LIBERTARIAN PARTY,8.0,2.0,540.0
+Bandera,102.0,STRAIGHT PARTY,,GRN,GREEN PARTY,2.0,1.0,540.0
+Bandera,102.0,U.S. SENATOR,,REP,JOHN CORNYN,809.0,401.0,540.0
+Bandera,102.0,U.S. SENATOR,,DEM,DAVID M. ALAMEEL,170.0,89.0,540.0
+Bandera,102.0,U.S. SENATOR,,LIB,REBECCA PADDOCK,54.0,20.0,540.0
+Bandera,102.0,U.S. SENATOR,,GRN,"EMILY ""SPICYBROWN"" SANCHEZ",11.0,4.0,540.0
+Bandera,102.0,U.S. REPRESENTATIVE DISTRICT 21,,REP,LAMAR SMITH,836.0,412.0,540.0
+Bandera,102.0,U.S. REPRESENTATIVE DISTRICT 21,,LIB,RYAN SHIELDS,86.0,40.0,540.0
+Bandera,102.0,U.S. REPRESENTATIVE DISTRICT 21,,GRN,ANTONIO DIAZ,67.0,30.0,540.0
+Bandera,102.0,GOVERNOR,,REP,GREG ABBOTT,814.0,404.0,540.0
+Bandera,102.0,GOVERNOR,,DEM,WENDY R. DAVIS,225.0,113.0,540.0
+Bandera,102.0,GOVERNOR,,LIB,KATHIE GLASS,22.0,12.0,540.0
+Bandera,102.0,GOVERNOR,,GRN,BRANDON PARMER,4.0,2.0,540.0
+Bandera,102.0,LIEUTENANT GOVERNOR,,REP,DAN PATRICK,803.0,407.0,540.0
+Bandera,102.0,LIEUTENANT GOVERNOR,,DEM,LETICIA VAN DE PUTTE,228.0,113.0,540.0
+Bandera,102.0,LIEUTENANT GOVERNOR,,LIB,ROBERT D. BUTLER,30.0,11.0,540.0
+Bandera,102.0,LIEUTENANT GOVERNOR,,GRN,CHANDRAKANTHA COURTNEY,5.0,3.0,540.0
+Bandera,102.0,ATTORNEY GENERAL,,REP,KEN PAXTON,803.0,405.0,540.0
+Bandera,102.0,ATTORNEY GENERAL,,DEM,SAM HOUSTON,211.0,104.0,540.0
+Bandera,102.0,ATTORNEY GENERAL,,LIB,JAMIE BALAGIA,29.0,10.0,540.0
+Bandera,102.0,ATTORNEY GENERAL,,GRN,JAMAR OSBORNE,7.0,5.0,540.0
+Bandera,102.0,COMPTROLLER OF PUBLIC ACCOUNTS,,REP,GLENN HEGAR,791.0,401.0,540.0
+Bandera,102.0,COMPTROLLER OF PUBLIC ACCOUNTS,,DEM,MIKE COLLIER,199.0,98.0,540.0
+Bandera,102.0,COMPTROLLER OF PUBLIC ACCOUNTS,,LIB,BEN SANDERS,47.0,17.0,540.0
+Bandera,102.0,COMPTROLLER OF PUBLIC ACCOUNTS,,GRN,DEB SHAFTO,12.0,8.0,540.0
+Bandera,102.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,REP,GEORGE P. BUSH,812.0,402.0,540.0
+Bandera,102.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,DEM,JOHN COOK,187.0,95.0,540.0
+Bandera,102.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,LIB,JUSTIN KNIGHT,41.0,19.0,540.0
+Bandera,102.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,GRN,VALERIE ALESSI,15.0,10.0,540.0
+Bandera,102.0,COMMISSIONER OF AGRICULTURE,,REP,SID MILLER,791.0,398.0,540.0
+Bandera,102.0,COMMISSIONER OF AGRICULTURE,,DEM,JIM HOGAN,182.0,94.0,540.0
+Bandera,102.0,COMMISSIONER OF AGRICULTURE,,LIB,DAVID (ROCKY) PALMQUIST,52.0,20.0,540.0
+Bandera,102.0,COMMISSIONER OF AGRICULTURE,,GRN,KENNETH KENDRICK,25.0,13.0,540.0
+Bandera,102.0,RAILROAD COMMISSIONER,,REP,RYAN SITTON,788.0,399.0,540.0
+Bandera,102.0,RAILROAD COMMISSIONER,,DEM,STEVE BROWN,185.0,92.0,540.0
+Bandera,102.0,RAILROAD COMMISSIONER,,LIB,MARK A. MILLER,48.0,19.0,540.0
+Bandera,102.0,RAILROAD COMMISSIONER,,GRN,MARTINA SALINAS,25.0,14.0,540.0
+Bandera,102.0,"CHIEF JUSTICE, SUPREME COURT",,REP,NATHAN HECHT,812.0,410.0,540.0
+Bandera,102.0,"CHIEF JUSTICE, SUPREME COURT",,DEM,WILLIAM MOODY,189.0,96.0,540.0
+Bandera,102.0,"CHIEF JUSTICE, SUPREME COURT",,LIB,TOM OXFORD,46.0,18.0,540.0
+Bandera,102.0,"JUSTICE, SUPREME COURT, PLACE 6 - UNEXPIRED TERM",,REP,JEFF BROWN,810.0,409.0,540.0
+Bandera,102.0,"JUSTICE, SUPREME COURT, PLACE 6 - UNEXPIRED TERM",,DEM,LAWRENCE EDWARD MEYERS,189.0,95.0,540.0
+Bandera,102.0,"JUSTICE, SUPREME COURT, PLACE 6 - UNEXPIRED TERM",,LIB,MARK ASH,47.0,20.0,540.0
+Bandera,102.0,"JUSTICE, SUPREME COURT, PLACE 7",,REP,JEFF BOYD,796.0,403.0,540.0
+Bandera,102.0,"JUSTICE, SUPREME COURT, PLACE 7",,DEM,GINA BENAVIDES,201.0,99.0,540.0
+Bandera,102.0,"JUSTICE, SUPREME COURT, PLACE 7",,LIB,DON FULTON,44.0,18.0,540.0
+Bandera,102.0,"JUSTICE, SUPREME COURT, PLACE 7",,GRN,CHARLES E. WATERBURY,7.0,5.0,540.0
+Bandera,102.0,"JUSTICE, SUPREME COURT, PLACE 8",,REP,PHIL JOHNSON,821.0,405.0,540.0
+Bandera,102.0,"JUSTICE, SUPREME COURT, PLACE 8",,LIB,RS ROBERTO KOELSCH,71.0,32.0,540.0
+Bandera,102.0,"JUSTICE, SUPREME COURT, PLACE 8",,GRN,JIM CHISOLM,85.0,48.0,540.0
+Bandera,102.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 3",,REP,BERT RICHARDSON,811.0,407.0,540.0
+Bandera,102.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 3",,DEM,JOHN GRANBERG,184.0,95.0,540.0
+Bandera,102.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 3",,LIB,MARK W. BENNETT,52.0,22.0,540.0
+Bandera,102.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 4",,REP,KEVIN PATRICK YEARY,804.0,398.0,540.0
+Bandera,102.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 4",,LIB,QUANAH PARKER,109.0,48.0,540.0
+Bandera,102.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 4",,GRN,JUDITH SANDERS-CASTRO,75.0,45.0,540.0
+Bandera,102.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 9",,REP,DAVID NEWELL,823.0,410.0,540.0
+Bandera,102.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 9",,LIB,"WILLIAM BRYAN STRANGE, III",90.0,41.0,540.0
+Bandera,102.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 9",,GRN,GEORGE JOSEPH ALTGELT,74.0,40.0,540.0
+Bandera,102.0,STATE REPRESENTATIVE DISTRICT 53,,REP,ANDREW S. MURR,840.0,412.0,540.0
+Bandera,102.0,STATE REPRESENTATIVE DISTRICT 53,,LIB,MAXIMILIAN MARTIN,133.0,71.0,540.0
+Bandera,102.0,"CHIEF JUSTICE, 4TH COURT OF APPEALS DISTRICT",,REP,SANDEE BRYAN MARION,840.0,413.0,540.0
+Bandera,102.0,"CHIEF JUSTICE, 4TH COURT OF APPEALS DISTRICT",,DEM,IRENE RIOS,200.0,107.0,540.0
+Bandera,102.0,"DISTRICT JUDGE, 198TH JUDICIAL DISTRICT",,REP,REX EMERSON,880.0,433.0,540.0
+Bandera,102.0,PROPOSITION 1,,"",FOR,715.0,369.0,540.0
+Bandera,102.0,PROPOSITION 1,,"",AGAINST,158.0,68.0,540.0
+Bandera,102.0,"TRUSTEE, PLACE #1",,"",JOHN JUNKER,389.0,197.0,540.0
+Bandera,102.0,"TRUSTEE, PLACE #1",,"",DANNI MACNEIL,314.0,155.0,540.0
+Bandera,102.0,"TRUSTEE, PLACE #2",,"",GREG BUTLER,349.0,169.0,540.0
+Bandera,102.0,"TRUSTEE, PLACE #2",,"",LAURIE NEFF,367.0,189.0,540.0
+Bandera,203.0,STRAIGHT PARTY,,REP,REPUBLICAN PARTY,416.0,257.0,328.0
+Bandera,203.0,STRAIGHT PARTY,,DEM,DEMOCRATIC PARTY,77.0,44.0,328.0
+Bandera,203.0,STRAIGHT PARTY,,LIB,LIBERTARIAN PARTY,7.0,6.0,328.0
+Bandera,203.0,STRAIGHT PARTY,,GRN,GREEN PARTY,4.0,1.0,328.0
+Bandera,203.0,U.S. SENATOR,,REP,JOHN CORNYN,622.0,390.0,328.0
+Bandera,203.0,U.S. SENATOR,,DEM,DAVID M. ALAMEEL,140.0,80.0,328.0
+Bandera,203.0,U.S. SENATOR,,LIB,REBECCA PADDOCK,49.0,30.0,328.0
+Bandera,203.0,U.S. SENATOR,,GRN,"EMILY ""SPICYBROWN"" SANCHEZ",18.0,6.0,328.0
+Bandera,203.0,U.S. REPRESENTATIVE DISTRICT 21,,REP,LAMAR SMITH,654.0,413.0,328.0
+Bandera,203.0,U.S. REPRESENTATIVE DISTRICT 21,,LIB,RYAN SHIELDS,78.0,44.0,328.0
+Bandera,203.0,U.S. REPRESENTATIVE DISTRICT 21,,GRN,ANTONIO DIAZ,43.0,18.0,328.0
+Bandera,203.0,GOVERNOR,,REP,GREG ABBOTT,621.0,389.0,328.0
+Bandera,203.0,GOVERNOR,,DEM,WENDY R. DAVIS,184.0,105.0,328.0
+Bandera,203.0,GOVERNOR,,LIB,KATHIE GLASS,23.0,12.0,328.0
+Bandera,203.0,GOVERNOR,,GRN,BRANDON PARMER,3.0,1.0,328.0
+Bandera,203.0,LIEUTENANT GOVERNOR,,REP,DAN PATRICK,596.0,377.0,328.0
+Bandera,203.0,LIEUTENANT GOVERNOR,,DEM,LETICIA VAN DE PUTTE,198.0,110.0,328.0
+Bandera,203.0,LIEUTENANT GOVERNOR,,LIB,ROBERT D. BUTLER,32.0,21.0,328.0
+Bandera,203.0,LIEUTENANT GOVERNOR,,GRN,CHANDRAKANTHA COURTNEY,8.0,2.0,328.0
+Bandera,203.0,ATTORNEY GENERAL,,REP,KEN PAXTON,611.0,383.0,328.0
+Bandera,203.0,ATTORNEY GENERAL,,DEM,SAM HOUSTON,165.0,98.0,328.0
+Bandera,203.0,ATTORNEY GENERAL,,LIB,JAMIE BALAGIA,43.0,25.0,328.0
+Bandera,203.0,ATTORNEY GENERAL,,GRN,JAMAR OSBORNE,10.0,3.0,328.0
+Bandera,203.0,COMPTROLLER OF PUBLIC ACCOUNTS,,REP,GLENN HEGAR,598.0,372.0,328.0
+Bandera,203.0,COMPTROLLER OF PUBLIC ACCOUNTS,,DEM,MIKE COLLIER,161.0,96.0,328.0
+Bandera,203.0,COMPTROLLER OF PUBLIC ACCOUNTS,,LIB,BEN SANDERS,46.0,30.0,328.0
+Bandera,203.0,COMPTROLLER OF PUBLIC ACCOUNTS,,GRN,DEB SHAFTO,20.0,8.0,328.0
+Bandera,203.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,REP,GEORGE P. BUSH,613.0,383.0,328.0
+Bandera,203.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,DEM,JOHN COOK,149.0,91.0,328.0
+Bandera,203.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,LIB,JUSTIN KNIGHT,41.0,24.0,328.0
+Bandera,203.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,GRN,VALERIE ALESSI,24.0,10.0,328.0
+Bandera,203.0,COMMISSIONER OF AGRICULTURE,,REP,SID MILLER,607.0,378.0,328.0
+Bandera,203.0,COMMISSIONER OF AGRICULTURE,,DEM,JIM HOGAN,156.0,93.0,328.0
+Bandera,203.0,COMMISSIONER OF AGRICULTURE,,LIB,DAVID (ROCKY) PALMQUIST,47.0,26.0,328.0
+Bandera,203.0,COMMISSIONER OF AGRICULTURE,,GRN,KENNETH KENDRICK,18.0,9.0,328.0
+Bandera,203.0,RAILROAD COMMISSIONER,,REP,RYAN SITTON,598.0,375.0,328.0
+Bandera,203.0,RAILROAD COMMISSIONER,,DEM,STEVE BROWN,148.0,88.0,328.0
+Bandera,203.0,RAILROAD COMMISSIONER,,LIB,MARK A. MILLER,52.0,33.0,328.0
+Bandera,203.0,RAILROAD COMMISSIONER,,GRN,MARTINA SALINAS,22.0,7.0,328.0
+Bandera,203.0,"CHIEF JUSTICE, SUPREME COURT",,REP,NATHAN HECHT,616.0,386.0,328.0
+Bandera,203.0,"CHIEF JUSTICE, SUPREME COURT",,DEM,WILLIAM MOODY,158.0,92.0,328.0
+Bandera,203.0,"CHIEF JUSTICE, SUPREME COURT",,LIB,TOM OXFORD,52.0,28.0,328.0
+Bandera,203.0,"JUSTICE, SUPREME COURT, PLACE 6 - UNEXPIRED TERM",,REP,JEFF BROWN,609.0,385.0,328.0
+Bandera,203.0,"JUSTICE, SUPREME COURT, PLACE 6 - UNEXPIRED TERM",,DEM,LAWRENCE EDWARD MEYERS,157.0,90.0,328.0
+Bandera,203.0,"JUSTICE, SUPREME COURT, PLACE 6 - UNEXPIRED TERM",,LIB,MARK ASH,55.0,31.0,328.0
+Bandera,203.0,"JUSTICE, SUPREME COURT, PLACE 7",,REP,JEFF BOYD,597.0,375.0,328.0
+Bandera,203.0,"JUSTICE, SUPREME COURT, PLACE 7",,DEM,GINA BENAVIDES,164.0,98.0,328.0
+Bandera,203.0,"JUSTICE, SUPREME COURT, PLACE 7",,LIB,DON FULTON,46.0,24.0,328.0
+Bandera,203.0,"JUSTICE, SUPREME COURT, PLACE 7",,GRN,CHARLES E. WATERBURY,14.0,6.0,328.0
+Bandera,203.0,"JUSTICE, SUPREME COURT, PLACE 8",,REP,PHIL JOHNSON,633.0,400.0,328.0
+Bandera,203.0,"JUSTICE, SUPREME COURT, PLACE 8",,LIB,RS ROBERTO KOELSCH,77.0,39.0,328.0
+Bandera,203.0,"JUSTICE, SUPREME COURT, PLACE 8",,GRN,JIM CHISOLM,54.0,29.0,328.0
+Bandera,203.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 3",,REP,BERT RICHARDSON,604.0,375.0,328.0
+Bandera,203.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 3",,DEM,JOHN GRANBERG,161.0,93.0,328.0
+Bandera,203.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 3",,LIB,MARK W. BENNETT,53.0,33.0,328.0
+Bandera,203.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 4",,REP,KEVIN PATRICK YEARY,618.0,393.0,328.0
+Bandera,203.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 4",,LIB,QUANAH PARKER,93.0,48.0,328.0
+Bandera,203.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 4",,GRN,JUDITH SANDERS-CASTRO,56.0,26.0,328.0
+Bandera,203.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 9",,REP,DAVID NEWELL,628.0,395.0,328.0
+Bandera,203.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 9",,LIB,"WILLIAM BRYAN STRANGE, III",88.0,47.0,328.0
+Bandera,203.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 9",,GRN,GEORGE JOSEPH ALTGELT,49.0,25.0,328.0
+Bandera,203.0,STATE REPRESENTATIVE DISTRICT 53,,REP,ANDREW S. MURR,635.0,397.0,328.0
+Bandera,203.0,STATE REPRESENTATIVE DISTRICT 53,,LIB,MAXIMILIAN MARTIN,118.0,62.0,328.0
+Bandera,203.0,"CHIEF JUSTICE, 4TH COURT OF APPEALS DISTRICT",,REP,SANDEE BRYAN MARION,648.0,401.0,328.0
+Bandera,203.0,"CHIEF JUSTICE, 4TH COURT OF APPEALS DISTRICT",,DEM,IRENE RIOS,170.0,97.0,328.0
+Bandera,203.0,"DISTRICT JUDGE, 198TH JUDICIAL DISTRICT",,REP,REX EMERSON,676.0,417.0,328.0
+Bandera,203.0,PROPOSITION 1,,"",FOR,542.0,331.0,328.0
+Bandera,203.0,PROPOSITION 1,,"",AGAINST,149.0,96.0,328.0
+Bandera,203.0,"TRUSTEE, PLACE #1",,"",JOHN JUNKER,252.0,148.0,328.0
+Bandera,203.0,"TRUSTEE, PLACE #1",,"",DANNI MACNEIL,263.0,157.0,328.0
+Bandera,203.0,"TRUSTEE, PLACE #2",,"",GREG BUTLER,264.0,168.0,328.0
+Bandera,203.0,"TRUSTEE, PLACE #2",,"",LAURIE NEFF,264.0,146.0,328.0
+Bandera,204.0,STRAIGHT PARTY,,REP,REPUBLICAN PARTY,304.0,183.0,275.0
+Bandera,204.0,STRAIGHT PARTY,,DEM,DEMOCRATIC PARTY,71.0,38.0,275.0
+Bandera,204.0,STRAIGHT PARTY,,LIB,LIBERTARIAN PARTY,9.0,4.0,275.0
+Bandera,204.0,STRAIGHT PARTY,,GRN,GREEN PARTY,1.0,0.0,275.0
+Bandera,204.0,U.S. SENATOR,,REP,JOHN CORNYN,490.0,303.0,275.0
+Bandera,204.0,U.S. SENATOR,,DEM,DAVID M. ALAMEEL,112.0,59.0,275.0
+Bandera,204.0,U.S. SENATOR,,LIB,REBECCA PADDOCK,40.0,18.0,275.0
+Bandera,204.0,U.S. SENATOR,,GRN,"EMILY ""SPICYBROWN"" SANCHEZ",6.0,2.0,275.0
+Bandera,204.0,U.S. REPRESENTATIVE DISTRICT 21,,REP,LAMAR SMITH,492.0,300.0,275.0
+Bandera,204.0,U.S. REPRESENTATIVE DISTRICT 21,,LIB,RYAN SHIELDS,73.0,39.0,275.0
+Bandera,204.0,U.S. REPRESENTATIVE DISTRICT 21,,GRN,ANTONIO DIAZ,35.0,17.0,275.0
+Bandera,204.0,GOVERNOR,,REP,GREG ABBOTT,478.0,298.0,275.0
+Bandera,204.0,GOVERNOR,,DEM,WENDY R. DAVIS,155.0,78.0,275.0
+Bandera,204.0,GOVERNOR,,LIB,KATHIE GLASS,19.0,7.0,275.0
+Bandera,204.0,GOVERNOR,,GRN,BRANDON PARMER,6.0,3.0,275.0
+Bandera,204.0,LIEUTENANT GOVERNOR,,REP,DAN PATRICK,472.0,292.0,275.0
+Bandera,204.0,LIEUTENANT GOVERNOR,,DEM,LETICIA VAN DE PUTTE,157.0,84.0,275.0
+Bandera,204.0,LIEUTENANT GOVERNOR,,LIB,ROBERT D. BUTLER,30.0,12.0,275.0
+Bandera,204.0,LIEUTENANT GOVERNOR,,GRN,CHANDRAKANTHA COURTNEY,2.0,1.0,275.0
+Bandera,204.0,ATTORNEY GENERAL,,REP,KEN PAXTON,480.0,296.0,275.0
+Bandera,204.0,ATTORNEY GENERAL,,DEM,SAM HOUSTON,143.0,78.0,275.0
+Bandera,204.0,ATTORNEY GENERAL,,LIB,JAMIE BALAGIA,28.0,9.0,275.0
+Bandera,204.0,ATTORNEY GENERAL,,GRN,JAMAR OSBORNE,3.0,1.0,275.0
+Bandera,204.0,COMPTROLLER OF PUBLIC ACCOUNTS,,REP,GLENN HEGAR,463.0,287.0,275.0
+Bandera,204.0,COMPTROLLER OF PUBLIC ACCOUNTS,,DEM,MIKE COLLIER,141.0,75.0,275.0
+Bandera,204.0,COMPTROLLER OF PUBLIC ACCOUNTS,,LIB,BEN SANDERS,36.0,13.0,275.0
+Bandera,204.0,COMPTROLLER OF PUBLIC ACCOUNTS,,GRN,DEB SHAFTO,9.0,4.0,275.0
+Bandera,204.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,REP,GEORGE P. BUSH,478.0,298.0,275.0
+Bandera,204.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,DEM,JOHN COOK,127.0,67.0,275.0
+Bandera,204.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,LIB,JUSTIN KNIGHT,41.0,16.0,275.0
+Bandera,204.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,GRN,VALERIE ALESSI,10.0,4.0,275.0
+Bandera,204.0,COMMISSIONER OF AGRICULTURE,,REP,SID MILLER,466.0,290.0,275.0
+Bandera,204.0,COMMISSIONER OF AGRICULTURE,,DEM,JIM HOGAN,138.0,74.0,275.0
+Bandera,204.0,COMMISSIONER OF AGRICULTURE,,LIB,DAVID (ROCKY) PALMQUIST,35.0,14.0,275.0
+Bandera,204.0,COMMISSIONER OF AGRICULTURE,,GRN,KENNETH KENDRICK,13.0,3.0,275.0
+Bandera,204.0,RAILROAD COMMISSIONER,,REP,RYAN SITTON,449.0,278.0,275.0
+Bandera,204.0,RAILROAD COMMISSIONER,,DEM,STEVE BROWN,142.0,78.0,275.0
+Bandera,204.0,RAILROAD COMMISSIONER,,LIB,MARK A. MILLER,47.0,19.0,275.0
+Bandera,204.0,RAILROAD COMMISSIONER,,GRN,MARTINA SALINAS,8.0,2.0,275.0
+Bandera,204.0,"CHIEF JUSTICE, SUPREME COURT",,REP,NATHAN HECHT,471.0,290.0,275.0
+Bandera,204.0,"CHIEF JUSTICE, SUPREME COURT",,DEM,WILLIAM MOODY,139.0,75.0,275.0
+Bandera,204.0,"CHIEF JUSTICE, SUPREME COURT",,LIB,TOM OXFORD,40.0,16.0,275.0
+Bandera,204.0,"JUSTICE, SUPREME COURT, PLACE 6 - UNEXPIRED TERM",,REP,JEFF BROWN,470.0,287.0,275.0
+Bandera,204.0,"JUSTICE, SUPREME COURT, PLACE 6 - UNEXPIRED TERM",,DEM,LAWRENCE EDWARD MEYERS,132.0,69.0,275.0
+Bandera,204.0,"JUSTICE, SUPREME COURT, PLACE 6 - UNEXPIRED TERM",,LIB,MARK ASH,42.0,19.0,275.0
+Bandera,204.0,"JUSTICE, SUPREME COURT, PLACE 7",,REP,JEFF BOYD,469.0,288.0,275.0
+Bandera,204.0,"JUSTICE, SUPREME COURT, PLACE 7",,DEM,GINA BENAVIDES,134.0,69.0,275.0
+Bandera,204.0,"JUSTICE, SUPREME COURT, PLACE 7",,LIB,DON FULTON,39.0,20.0,275.0
+Bandera,204.0,"JUSTICE, SUPREME COURT, PLACE 7",,GRN,CHARLES E. WATERBURY,7.0,1.0,275.0
+Bandera,204.0,"JUSTICE, SUPREME COURT, PLACE 8",,REP,PHIL JOHNSON,483.0,295.0,275.0
+Bandera,204.0,"JUSTICE, SUPREME COURT, PLACE 8",,LIB,RS ROBERTO KOELSCH,62.0,30.0,275.0
+Bandera,204.0,"JUSTICE, SUPREME COURT, PLACE 8",,GRN,JIM CHISOLM,44.0,22.0,275.0
+Bandera,204.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 3",,REP,BERT RICHARDSON,462.0,282.0,275.0
+Bandera,204.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 3",,DEM,JOHN GRANBERG,141.0,76.0,275.0
+Bandera,204.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 3",,LIB,MARK W. BENNETT,39.0,16.0,275.0
+Bandera,204.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 4",,REP,KEVIN PATRICK YEARY,476.0,293.0,275.0
+Bandera,204.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 4",,LIB,QUANAH PARKER,71.0,33.0,275.0
+Bandera,204.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 4",,GRN,JUDITH SANDERS-CASTRO,45.0,20.0,275.0
+Bandera,204.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 9",,REP,DAVID NEWELL,478.0,292.0,275.0
+Bandera,204.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 9",,LIB,"WILLIAM BRYAN STRANGE, III",73.0,32.0,275.0
+Bandera,204.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 9",,GRN,GEORGE JOSEPH ALTGELT,38.0,19.0,275.0
+Bandera,204.0,STATE REPRESENTATIVE DISTRICT 53,,REP,ANDREW S. MURR,494.0,302.0,275.0
+Bandera,204.0,STATE REPRESENTATIVE DISTRICT 53,,LIB,MAXIMILIAN MARTIN,95.0,42.0,275.0
+Bandera,204.0,"CHIEF JUSTICE, 4TH COURT OF APPEALS DISTRICT",,REP,SANDEE BRYAN MARION,490.0,301.0,275.0
+Bandera,204.0,"CHIEF JUSTICE, 4TH COURT OF APPEALS DISTRICT",,DEM,IRENE RIOS,143.0,70.0,275.0
+Bandera,204.0,"DISTRICT JUDGE, 198TH JUDICIAL DISTRICT",,REP,REX EMERSON,527.0,312.0,275.0
+Bandera,204.0,PROPOSITION 1,,"",FOR,448.0,274.0,275.0
+Bandera,204.0,PROPOSITION 1,,"",AGAINST,103.0,60.0,275.0
+Bandera,204.0,"TRUSTEE, PLACE #1",,"",JOHN JUNKER,219.0,134.0,275.0
+Bandera,204.0,"TRUSTEE, PLACE #1",,"",DANNI MACNEIL,221.0,117.0,275.0
+Bandera,204.0,"TRUSTEE, PLACE #2",,"",GREG BUTLER,224.0,131.0,275.0
+Bandera,204.0,"TRUSTEE, PLACE #2",,"",LAURIE NEFF,222.0,127.0,275.0
+Bandera,305.0,STRAIGHT PARTY,,REP,REPUBLICAN PARTY,460.0,300.0,384.0
+Bandera,305.0,STRAIGHT PARTY,,DEM,DEMOCRATIC PARTY,77.0,53.0,384.0
+Bandera,305.0,STRAIGHT PARTY,,LIB,LIBERTARIAN PARTY,9.0,3.0,384.0
+Bandera,305.0,STRAIGHT PARTY,,GRN,GREEN PARTY,4.0,3.0,384.0
+Bandera,305.0,U.S. SENATOR,,REP,JOHN CORNYN,797.0,492.0,384.0
+Bandera,305.0,U.S. SENATOR,,DEM,DAVID M. ALAMEEL,136.0,94.0,384.0
+Bandera,305.0,U.S. SENATOR,,LIB,REBECCA PADDOCK,49.0,24.0,384.0
+Bandera,305.0,U.S. SENATOR,,GRN,"EMILY ""SPICYBROWN"" SANCHEZ",13.0,8.0,384.0
+Bandera,305.0,U.S. REPRESENTATIVE DISTRICT 21,,REP,LAMAR SMITH,806.0,503.0,384.0
+Bandera,305.0,U.S. REPRESENTATIVE DISTRICT 21,,LIB,RYAN SHIELDS,92.0,54.0,384.0
+Bandera,305.0,U.S. REPRESENTATIVE DISTRICT 21,,GRN,ANTONIO DIAZ,37.0,21.0,384.0
+Bandera,305.0,GOVERNOR,,REP,GREG ABBOTT,778.0,480.0,384.0
+Bandera,305.0,GOVERNOR,,DEM,WENDY R. DAVIS,188.0,131.0,384.0
+Bandera,305.0,GOVERNOR,,LIB,KATHIE GLASS,33.0,12.0,384.0
+Bandera,305.0,GOVERNOR,,GRN,BRANDON PARMER,7.0,4.0,384.0
+Bandera,305.0,LIEUTENANT GOVERNOR,,REP,DAN PATRICK,774.0,482.0,384.0
+Bandera,305.0,LIEUTENANT GOVERNOR,,DEM,LETICIA VAN DE PUTTE,178.0,121.0,384.0
+Bandera,305.0,LIEUTENANT GOVERNOR,,LIB,ROBERT D. BUTLER,38.0,16.0,384.0
+Bandera,305.0,LIEUTENANT GOVERNOR,,GRN,CHANDRAKANTHA COURTNEY,10.0,6.0,384.0
+Bandera,305.0,ATTORNEY GENERAL,,REP,KEN PAXTON,781.0,480.0,384.0
+Bandera,305.0,ATTORNEY GENERAL,,DEM,SAM HOUSTON,162.0,112.0,384.0
+Bandera,305.0,ATTORNEY GENERAL,,LIB,JAMIE BALAGIA,38.0,21.0,384.0
+Bandera,305.0,ATTORNEY GENERAL,,GRN,JAMAR OSBORNE,12.0,8.0,384.0
+Bandera,305.0,COMPTROLLER OF PUBLIC ACCOUNTS,,REP,GLENN HEGAR,769.0,477.0,384.0
+Bandera,305.0,COMPTROLLER OF PUBLIC ACCOUNTS,,DEM,MIKE COLLIER,153.0,107.0,384.0
+Bandera,305.0,COMPTROLLER OF PUBLIC ACCOUNTS,,LIB,BEN SANDERS,47.0,22.0,384.0
+Bandera,305.0,COMPTROLLER OF PUBLIC ACCOUNTS,,GRN,DEB SHAFTO,12.0,7.0,384.0
+Bandera,305.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,REP,GEORGE P. BUSH,780.0,487.0,384.0
+Bandera,305.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,DEM,JOHN COOK,147.0,98.0,384.0
+Bandera,305.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,LIB,JUSTIN KNIGHT,54.0,26.0,384.0
+Bandera,305.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,GRN,VALERIE ALESSI,15.0,11.0,384.0
+Bandera,305.0,COMMISSIONER OF AGRICULTURE,,REP,SID MILLER,770.0,476.0,384.0
+Bandera,305.0,COMMISSIONER OF AGRICULTURE,,DEM,JIM HOGAN,152.0,105.0,384.0
+Bandera,305.0,COMMISSIONER OF AGRICULTURE,,LIB,DAVID (ROCKY) PALMQUIST,48.0,24.0,384.0
+Bandera,305.0,COMMISSIONER OF AGRICULTURE,,GRN,KENNETH KENDRICK,14.0,10.0,384.0
+Bandera,305.0,RAILROAD COMMISSIONER,,REP,RYAN SITTON,764.0,471.0,384.0
+Bandera,305.0,RAILROAD COMMISSIONER,,DEM,STEVE BROWN,157.0,109.0,384.0
+Bandera,305.0,RAILROAD COMMISSIONER,,LIB,MARK A. MILLER,56.0,30.0,384.0
+Bandera,305.0,RAILROAD COMMISSIONER,,GRN,MARTINA SALINAS,10.0,5.0,384.0
+Bandera,305.0,"CHIEF JUSTICE, SUPREME COURT",,REP,NATHAN HECHT,771.0,478.0,384.0
+Bandera,305.0,"CHIEF JUSTICE, SUPREME COURT",,DEM,WILLIAM MOODY,156.0,105.0,384.0
+Bandera,305.0,"CHIEF JUSTICE, SUPREME COURT",,LIB,TOM OXFORD,52.0,28.0,384.0
+Bandera,305.0,"JUSTICE, SUPREME COURT, PLACE 6 - UNEXPIRED TERM",,REP,JEFF BROWN,776.0,481.0,384.0
+Bandera,305.0,"JUSTICE, SUPREME COURT, PLACE 6 - UNEXPIRED TERM",,DEM,LAWRENCE EDWARD MEYERS,150.0,102.0,384.0
+Bandera,305.0,"JUSTICE, SUPREME COURT, PLACE 6 - UNEXPIRED TERM",,LIB,MARK ASH,53.0,28.0,384.0
+Bandera,305.0,"JUSTICE, SUPREME COURT, PLACE 7",,REP,JEFF BOYD,766.0,474.0,384.0
+Bandera,305.0,"JUSTICE, SUPREME COURT, PLACE 7",,DEM,GINA BENAVIDES,157.0,108.0,384.0
+Bandera,305.0,"JUSTICE, SUPREME COURT, PLACE 7",,LIB,DON FULTON,53.0,25.0,384.0
+Bandera,305.0,"JUSTICE, SUPREME COURT, PLACE 7",,GRN,CHARLES E. WATERBURY,6.0,4.0,384.0
+Bandera,305.0,"JUSTICE, SUPREME COURT, PLACE 8",,REP,PHIL JOHNSON,791.0,492.0,384.0
+Bandera,305.0,"JUSTICE, SUPREME COURT, PLACE 8",,LIB,RS ROBERTO KOELSCH,69.0,36.0,384.0
+Bandera,305.0,"JUSTICE, SUPREME COURT, PLACE 8",,GRN,JIM CHISOLM,48.0,33.0,384.0
+Bandera,305.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 3",,REP,BERT RICHARDSON,767.0,474.0,384.0
+Bandera,305.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 3",,DEM,JOHN GRANBERG,146.0,100.0,384.0
+Bandera,305.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 3",,LIB,MARK W. BENNETT,57.0,31.0,384.0
+Bandera,305.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 4",,REP,KEVIN PATRICK YEARY,765.0,473.0,384.0
+Bandera,305.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 4",,LIB,QUANAH PARKER,105.0,62.0,384.0
+Bandera,305.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 4",,GRN,JUDITH SANDERS-CASTRO,38.0,27.0,384.0
+Bandera,305.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 9",,REP,DAVID NEWELL,780.0,489.0,384.0
+Bandera,305.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 9",,LIB,"WILLIAM BRYAN STRANGE, III",91.0,51.0,384.0
+Bandera,305.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 9",,GRN,GEORGE JOSEPH ALTGELT,31.0,18.0,384.0
+Bandera,305.0,STATE REPRESENTATIVE DISTRICT 53,,REP,ANDREW S. MURR,811.0,502.0,384.0
+Bandera,305.0,STATE REPRESENTATIVE DISTRICT 53,,LIB,MAXIMILIAN MARTIN,100.0,60.0,384.0
+Bandera,305.0,"CHIEF JUSTICE, 4TH COURT OF APPEALS DISTRICT",,REP,SANDEE BRYAN MARION,810.0,493.0,384.0
+Bandera,305.0,"CHIEF JUSTICE, 4TH COURT OF APPEALS DISTRICT",,DEM,IRENE RIOS,157.0,109.0,384.0
+Bandera,305.0,"DISTRICT JUDGE, 198TH JUDICIAL DISTRICT",,REP,REX EMERSON,820.0,503.0,384.0
+Bandera,305.0,PROPOSITION 1,,"",FOR,662.0,423.0,384.0
+Bandera,305.0,PROPOSITION 1,,"",AGAINST,185.0,114.0,384.0
+Bandera,305.0,"TRUSTEE, PLACE #1",,"",JOHN JUNKER,494.0,304.0,384.0
+Bandera,305.0,"TRUSTEE, PLACE #1",,"",DANNI MACNEIL,209.0,123.0,384.0
+Bandera,305.0,"TRUSTEE, PLACE #2",,"",GREG BUTLER,364.0,224.0,384.0
+Bandera,305.0,"TRUSTEE, PLACE #2",,"",LAURIE NEFF,363.0,211.0,384.0
+Bandera,305.0,"TRUSTEE, PLACE #1",,"",JESSE FAGLIE,7.0,4.0,384.0
+Bandera,305.0,"TRUSTEE, PLACE #1",,"",DR. JAMES LINDSTROM,31.0,23.0,384.0
+Bandera,305.0,"TRUSTEE, PLACE #4",,"",LAURA ORTIZ,13.0,10.0,384.0
+Bandera,305.0,"TRUSTEE, PLACE #4",,"",HEATH W. LESTOURGEON,25.0,17.0,384.0
+Bandera,305.0,"TRUSTEE, PLACE #5",,"",JENNIFER EVANS,31.0,23.0,384.0
+Bandera,305.0,"TRUSTEE, PLACE #5",,"",ROBERT DELEON,8.0,4.0,384.0
+Bandera,305.0,MAYOR,,"",BRIAN BLACK,111.0,60.0,384.0
+Bandera,305.0,MAYOR,,"",MAGGIE SCHUMACHER,32.0,22.0,384.0
+Bandera,305.0,MAYOR,,"",JOHN HEGEMIER,117.0,77.0,384.0
+Bandera,305.0,CITY COUNCIL MEMBER,,"",JIM HANNAH,147.0,92.0,384.0
+Bandera,305.0,CITY COUNCIL MEMBER,,"",CHARLOTTE BROWNING,96.0,56.0,384.0
+Bandera,305.0,CITY COUNCIL MEMBER-UNEXPIRED TERM,,"",SHEILA PUMPHREY,172.0,103.0,384.0
+Bandera,306.0,STRAIGHT PARTY,,REP,REPUBLICAN PARTY,328.0,194.0,243.0
+Bandera,306.0,STRAIGHT PARTY,,DEM,DEMOCRATIC PARTY,32.0,23.0,243.0
+Bandera,306.0,STRAIGHT PARTY,,LIB,LIBERTARIAN PARTY,2.0,1.0,243.0
+Bandera,306.0,STRAIGHT PARTY,,GRN,GREEN PARTY,0.0,0.0,243.0
+Bandera,306.0,U.S. SENATOR,,REP,JOHN CORNYN,539.0,331.0,243.0
+Bandera,306.0,U.S. SENATOR,,DEM,DAVID M. ALAMEEL,68.0,44.0,243.0
+Bandera,306.0,U.S. SENATOR,,LIB,REBECCA PADDOCK,18.0,13.0,243.0
+Bandera,306.0,U.S. SENATOR,,GRN,"EMILY ""SPICYBROWN"" SANCHEZ",3.0,2.0,243.0
+Bandera,306.0,U.S. REPRESENTATIVE DISTRICT 21,,REP,LAMAR SMITH,548.0,340.0,243.0
+Bandera,306.0,U.S. REPRESENTATIVE DISTRICT 21,,LIB,RYAN SHIELDS,44.0,28.0,243.0
+Bandera,306.0,U.S. REPRESENTATIVE DISTRICT 21,,GRN,ANTONIO DIAZ,25.0,15.0,243.0
+Bandera,306.0,GOVERNOR,,REP,GREG ABBOTT,523.0,326.0,243.0
+Bandera,306.0,GOVERNOR,,DEM,WENDY R. DAVIS,100.0,63.0,243.0
+Bandera,306.0,GOVERNOR,,LIB,KATHIE GLASS,15.0,11.0,243.0
+Bandera,306.0,GOVERNOR,,GRN,BRANDON PARMER,2.0,1.0,243.0
+Bandera,306.0,LIEUTENANT GOVERNOR,,REP,DAN PATRICK,518.0,320.0,243.0
+Bandera,306.0,LIEUTENANT GOVERNOR,,DEM,LETICIA VAN DE PUTTE,97.0,64.0,243.0
+Bandera,306.0,LIEUTENANT GOVERNOR,,LIB,ROBERT D. BUTLER,21.0,14.0,243.0
+Bandera,306.0,LIEUTENANT GOVERNOR,,GRN,CHANDRAKANTHA COURTNEY,2.0,1.0,243.0
+Bandera,306.0,ATTORNEY GENERAL,,REP,KEN PAXTON,529.0,330.0,243.0
+Bandera,306.0,ATTORNEY GENERAL,,DEM,SAM HOUSTON,96.0,59.0,243.0
+Bandera,306.0,ATTORNEY GENERAL,,LIB,JAMIE BALAGIA,8.0,6.0,243.0
+Bandera,306.0,ATTORNEY GENERAL,,GRN,JAMAR OSBORNE,2.0,1.0,243.0
+Bandera,306.0,COMPTROLLER OF PUBLIC ACCOUNTS,,REP,GLENN HEGAR,527.0,326.0,243.0
+Bandera,306.0,COMPTROLLER OF PUBLIC ACCOUNTS,,DEM,MIKE COLLIER,80.0,53.0,243.0
+Bandera,306.0,COMPTROLLER OF PUBLIC ACCOUNTS,,LIB,BEN SANDERS,20.0,13.0,243.0
+Bandera,306.0,COMPTROLLER OF PUBLIC ACCOUNTS,,GRN,DEB SHAFTO,4.0,3.0,243.0
+Bandera,306.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,REP,GEORGE P. BUSH,535.0,331.0,243.0
+Bandera,306.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,DEM,JOHN COOK,73.0,47.0,243.0
+Bandera,306.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,LIB,JUSTIN KNIGHT,20.0,15.0,243.0
+Bandera,306.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,GRN,VALERIE ALESSI,7.0,5.0,243.0
+Bandera,306.0,COMMISSIONER OF AGRICULTURE,,REP,SID MILLER,526.0,325.0,243.0
+Bandera,306.0,COMMISSIONER OF AGRICULTURE,,DEM,JIM HOGAN,74.0,50.0,243.0
+Bandera,306.0,COMMISSIONER OF AGRICULTURE,,LIB,DAVID (ROCKY) PALMQUIST,20.0,13.0,243.0
+Bandera,306.0,COMMISSIONER OF AGRICULTURE,,GRN,KENNETH KENDRICK,14.0,9.0,243.0
+Bandera,306.0,RAILROAD COMMISSIONER,,REP,RYAN SITTON,524.0,324.0,243.0
+Bandera,306.0,RAILROAD COMMISSIONER,,DEM,STEVE BROWN,80.0,53.0,243.0
+Bandera,306.0,RAILROAD COMMISSIONER,,LIB,MARK A. MILLER,20.0,14.0,243.0
+Bandera,306.0,RAILROAD COMMISSIONER,,GRN,MARTINA SALINAS,7.0,5.0,243.0
+Bandera,306.0,"CHIEF JUSTICE, SUPREME COURT",,REP,NATHAN HECHT,522.0,322.0,243.0
+Bandera,306.0,"CHIEF JUSTICE, SUPREME COURT",,DEM,WILLIAM MOODY,89.0,60.0,243.0
+Bandera,306.0,"CHIEF JUSTICE, SUPREME COURT",,LIB,TOM OXFORD,18.0,12.0,243.0
+Bandera,306.0,"JUSTICE, SUPREME COURT, PLACE 6 - UNEXPIRED TERM",,REP,JEFF BROWN,513.0,320.0,243.0
+Bandera,306.0,"JUSTICE, SUPREME COURT, PLACE 6 - UNEXPIRED TERM",,DEM,LAWRENCE EDWARD MEYERS,85.0,55.0,243.0
+Bandera,306.0,"JUSTICE, SUPREME COURT, PLACE 6 - UNEXPIRED TERM",,LIB,MARK ASH,26.0,17.0,243.0
+Bandera,306.0,"JUSTICE, SUPREME COURT, PLACE 7",,REP,JEFF BOYD,521.0,325.0,243.0
+Bandera,306.0,"JUSTICE, SUPREME COURT, PLACE 7",,DEM,GINA BENAVIDES,81.0,53.0,243.0
+Bandera,306.0,"JUSTICE, SUPREME COURT, PLACE 7",,LIB,DON FULTON,24.0,17.0,243.0
+Bandera,306.0,"JUSTICE, SUPREME COURT, PLACE 7",,GRN,CHARLES E. WATERBURY,3.0,1.0,243.0
+Bandera,306.0,"JUSTICE, SUPREME COURT, PLACE 8",,REP,PHIL JOHNSON,534.0,334.0,243.0
+Bandera,306.0,"JUSTICE, SUPREME COURT, PLACE 8",,LIB,RS ROBERTO KOELSCH,38.0,21.0,243.0
+Bandera,306.0,"JUSTICE, SUPREME COURT, PLACE 8",,GRN,JIM CHISOLM,33.0,23.0,243.0
+Bandera,306.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 3",,REP,BERT RICHARDSON,520.0,322.0,243.0
+Bandera,306.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 3",,DEM,JOHN GRANBERG,78.0,53.0,243.0
+Bandera,306.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 3",,LIB,MARK W. BENNETT,28.0,20.0,243.0
+Bandera,306.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 4",,REP,KEVIN PATRICK YEARY,528.0,330.0,243.0
+Bandera,306.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 4",,LIB,QUANAH PARKER,51.0,33.0,243.0
+Bandera,306.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 4",,GRN,JUDITH SANDERS-CASTRO,27.0,17.0,243.0
+Bandera,306.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 9",,REP,DAVID NEWELL,537.0,336.0,243.0
+Bandera,306.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 9",,LIB,"WILLIAM BRYAN STRANGE, III",43.0,26.0,243.0
+Bandera,306.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 9",,GRN,GEORGE JOSEPH ALTGELT,23.0,15.0,243.0
+Bandera,306.0,STATE REPRESENTATIVE DISTRICT 53,,REP,ANDREW S. MURR,550.0,343.0,243.0
+Bandera,306.0,STATE REPRESENTATIVE DISTRICT 53,,LIB,MAXIMILIAN MARTIN,54.0,33.0,243.0
+Bandera,306.0,"CHIEF JUSTICE, 4TH COURT OF APPEALS DISTRICT",,REP,SANDEE BRYAN MARION,543.0,340.0,243.0
+Bandera,306.0,"CHIEF JUSTICE, 4TH COURT OF APPEALS DISTRICT",,DEM,IRENE RIOS,82.0,53.0,243.0
+Bandera,306.0,"DISTRICT JUDGE, 198TH JUDICIAL DISTRICT",,REP,REX EMERSON,560.0,348.0,243.0
+Bandera,306.0,PROPOSITION 1,,"",FOR,414.0,270.0,243.0
+Bandera,306.0,PROPOSITION 1,,"",AGAINST,125.0,76.0,243.0
+Bandera,306.0,"TRUSTEE, PLACE #1",,"",JESSE FAGLIE,202.0,108.0,243.0
+Bandera,306.0,"TRUSTEE, PLACE #1",,"",DR. JAMES LINDSTROM,347.0,236.0,243.0
+Bandera,306.0,"TRUSTEE, PLACE #4",,"",LAURA ORTIZ,305.0,182.0,243.0
+Bandera,306.0,"TRUSTEE, PLACE #4",,"",HEATH W. LESTOURGEON,242.0,166.0,243.0
+Bandera,306.0,"TRUSTEE, PLACE #5",,"",JENNIFER EVANS,370.0,239.0,243.0
+Bandera,306.0,"TRUSTEE, PLACE #5",,"",ROBERT DELEON,169.0,103.0,243.0
+Bandera,407.0,STRAIGHT PARTY,,REP,REPUBLICAN PARTY,457.0,296.0,283.0
+Bandera,407.0,STRAIGHT PARTY,,DEM,DEMOCRATIC PARTY,48.0,30.0,283.0
+Bandera,407.0,STRAIGHT PARTY,,LIB,LIBERTARIAN PARTY,1.0,1.0,283.0
+Bandera,407.0,STRAIGHT PARTY,,GRN,GREEN PARTY,0.0,0.0,283.0
+Bandera,407.0,U.S. SENATOR,,REP,JOHN CORNYN,722.0,487.0,283.0
+Bandera,407.0,U.S. SENATOR,,DEM,DAVID M. ALAMEEL,91.0,60.0,283.0
+Bandera,407.0,U.S. SENATOR,,LIB,REBECCA PADDOCK,23.0,13.0,283.0
+Bandera,407.0,U.S. SENATOR,,GRN,"EMILY ""SPICYBROWN"" SANCHEZ",8.0,4.0,283.0
+Bandera,407.0,U.S. REPRESENTATIVE DISTRICT 21,,REP,LAMAR SMITH,721.0,483.0,283.0
+Bandera,407.0,U.S. REPRESENTATIVE DISTRICT 21,,LIB,RYAN SHIELDS,55.0,36.0,283.0
+Bandera,407.0,U.S. REPRESENTATIVE DISTRICT 21,,GRN,ANTONIO DIAZ,23.0,14.0,283.0
+Bandera,407.0,GOVERNOR,,REP,GREG ABBOTT,701.0,473.0,283.0
+Bandera,407.0,GOVERNOR,,DEM,WENDY R. DAVIS,131.0,82.0,283.0
+Bandera,407.0,GOVERNOR,,LIB,KATHIE GLASS,7.0,3.0,283.0
+Bandera,407.0,GOVERNOR,,GRN,BRANDON PARMER,4.0,4.0,283.0
+Bandera,407.0,LIEUTENANT GOVERNOR,,REP,DAN PATRICK,693.0,471.0,283.0
+Bandera,407.0,LIEUTENANT GOVERNOR,,DEM,LETICIA VAN DE PUTTE,134.0,87.0,283.0
+Bandera,407.0,LIEUTENANT GOVERNOR,,LIB,ROBERT D. BUTLER,10.0,5.0,283.0
+Bandera,407.0,LIEUTENANT GOVERNOR,,GRN,CHANDRAKANTHA COURTNEY,6.0,3.0,283.0
+Bandera,407.0,ATTORNEY GENERAL,,REP,KEN PAXTON,700.0,469.0,283.0
+Bandera,407.0,ATTORNEY GENERAL,,DEM,SAM HOUSTON,120.0,80.0,283.0
+Bandera,407.0,ATTORNEY GENERAL,,LIB,JAMIE BALAGIA,17.0,10.0,283.0
+Bandera,407.0,ATTORNEY GENERAL,,GRN,JAMAR OSBORNE,1.0,1.0,283.0
+Bandera,407.0,COMPTROLLER OF PUBLIC ACCOUNTS,,REP,GLENN HEGAR,685.0,460.0,283.0
+Bandera,407.0,COMPTROLLER OF PUBLIC ACCOUNTS,,DEM,MIKE COLLIER,114.0,76.0,283.0
+Bandera,407.0,COMPTROLLER OF PUBLIC ACCOUNTS,,LIB,BEN SANDERS,24.0,16.0,283.0
+Bandera,407.0,COMPTROLLER OF PUBLIC ACCOUNTS,,GRN,DEB SHAFTO,8.0,4.0,283.0
+Bandera,407.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,REP,GEORGE P. BUSH,712.0,480.0,283.0
+Bandera,407.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,DEM,JOHN COOK,101.0,68.0,283.0
+Bandera,407.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,LIB,JUSTIN KNIGHT,24.0,15.0,283.0
+Bandera,407.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,GRN,VALERIE ALESSI,5.0,2.0,283.0
+Bandera,407.0,COMMISSIONER OF AGRICULTURE,,REP,SID MILLER,694.0,466.0,283.0
+Bandera,407.0,COMMISSIONER OF AGRICULTURE,,DEM,JIM HOGAN,113.0,76.0,283.0
+Bandera,407.0,COMMISSIONER OF AGRICULTURE,,LIB,DAVID (ROCKY) PALMQUIST,19.0,10.0,283.0
+Bandera,407.0,COMMISSIONER OF AGRICULTURE,,GRN,KENNETH KENDRICK,10.0,7.0,283.0
+Bandera,407.0,RAILROAD COMMISSIONER,,REP,RYAN SITTON,682.0,456.0,283.0
+Bandera,407.0,RAILROAD COMMISSIONER,,DEM,STEVE BROWN,114.0,78.0,283.0
+Bandera,407.0,RAILROAD COMMISSIONER,,LIB,MARK A. MILLER,24.0,13.0,283.0
+Bandera,407.0,RAILROAD COMMISSIONER,,GRN,MARTINA SALINAS,10.0,6.0,283.0
+Bandera,407.0,"CHIEF JUSTICE, SUPREME COURT",,REP,NATHAN HECHT,692.0,463.0,283.0
+Bandera,407.0,"CHIEF JUSTICE, SUPREME COURT",,DEM,WILLIAM MOODY,114.0,75.0,283.0
+Bandera,407.0,"CHIEF JUSTICE, SUPREME COURT",,LIB,TOM OXFORD,27.0,19.0,283.0
+Bandera,407.0,"JUSTICE, SUPREME COURT, PLACE 6 - UNEXPIRED TERM",,REP,JEFF BROWN,690.0,461.0,283.0
+Bandera,407.0,"JUSTICE, SUPREME COURT, PLACE 6 - UNEXPIRED TERM",,DEM,LAWRENCE EDWARD MEYERS,106.0,70.0,283.0
+Bandera,407.0,"JUSTICE, SUPREME COURT, PLACE 6 - UNEXPIRED TERM",,LIB,MARK ASH,34.0,24.0,283.0
+Bandera,407.0,"JUSTICE, SUPREME COURT, PLACE 7",,REP,JEFF BOYD,686.0,460.0,283.0
+Bandera,407.0,"JUSTICE, SUPREME COURT, PLACE 7",,DEM,GINA BENAVIDES,120.0,76.0,283.0
+Bandera,407.0,"JUSTICE, SUPREME COURT, PLACE 7",,LIB,DON FULTON,25.0,18.0,283.0
+Bandera,407.0,"JUSTICE, SUPREME COURT, PLACE 7",,GRN,CHARLES E. WATERBURY,5.0,5.0,283.0
+Bandera,407.0,"JUSTICE, SUPREME COURT, PLACE 8",,REP,PHIL JOHNSON,716.0,484.0,283.0
+Bandera,407.0,"JUSTICE, SUPREME COURT, PLACE 8",,LIB,RS ROBERTO KOELSCH,47.0,27.0,283.0
+Bandera,407.0,"JUSTICE, SUPREME COURT, PLACE 8",,GRN,JIM CHISOLM,31.0,20.0,283.0
+Bandera,407.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 3",,REP,BERT RICHARDSON,696.0,469.0,283.0
+Bandera,407.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 3",,DEM,JOHN GRANBERG,108.0,69.0,283.0
+Bandera,407.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 3",,LIB,MARK W. BENNETT,27.0,18.0,283.0
+Bandera,407.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 4",,REP,KEVIN PATRICK YEARY,694.0,467.0,283.0
+Bandera,407.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 4",,LIB,QUANAH PARKER,64.0,41.0,283.0
+Bandera,407.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 4",,GRN,JUDITH SANDERS-CASTRO,32.0,19.0,283.0
+Bandera,407.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 9",,REP,DAVID NEWELL,714.0,481.0,283.0
+Bandera,407.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 9",,LIB,"WILLIAM BRYAN STRANGE, III",52.0,30.0,283.0
+Bandera,407.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 9",,GRN,GEORGE JOSEPH ALTGELT,25.0,17.0,283.0
+Bandera,407.0,STATE REPRESENTATIVE DISTRICT 53,,REP,ANDREW S. MURR,721.0,486.0,283.0
+Bandera,407.0,STATE REPRESENTATIVE DISTRICT 53,,LIB,MAXIMILIAN MARTIN,67.0,38.0,283.0
+Bandera,407.0,"CHIEF JUSTICE, 4TH COURT OF APPEALS DISTRICT",,REP,SANDEE BRYAN MARION,711.0,480.0,283.0
+Bandera,407.0,"CHIEF JUSTICE, 4TH COURT OF APPEALS DISTRICT",,DEM,IRENE RIOS,112.0,71.0,283.0
+Bandera,407.0,"DISTRICT JUDGE, 198TH JUDICIAL DISTRICT",,REP,REX EMERSON,720.0,486.0,283.0
+Bandera,407.0,PROPOSITION 1,,"",FOR,558.0,373.0,283.0
+Bandera,407.0,PROPOSITION 1,,"",AGAINST,131.0,93.0,283.0
+Bandera,407.0,"TRUSTEE, PLACE #1",,"",JOHN JUNKER,404.0,268.0,283.0
+Bandera,407.0,"TRUSTEE, PLACE #1",,"",DANNI MACNEIL,181.0,131.0,283.0
+Bandera,407.0,"TRUSTEE, PLACE #2",,"",GREG BUTLER,307.0,206.0,283.0
+Bandera,407.0,"TRUSTEE, PLACE #2",,"",LAURIE NEFF,293.0,196.0,283.0
+Bandera,407.0,"TRUSTEE, PLACE #1",,"",JESSE FAGLIE,2.0,2.0,283.0
+Bandera,407.0,"TRUSTEE, PLACE #1",,"",DR. JAMES LINDSTROM,4.0,0.0,283.0
+Bandera,407.0,"TRUSTEE, PLACE #4",,"",LAURA ORTIZ,5.0,2.0,283.0
+Bandera,407.0,"TRUSTEE, PLACE #4",,"",HEATH W. LESTOURGEON,1.0,0.0,283.0
+Bandera,407.0,"TRUSTEE, PLACE #5",,"",JENNIFER EVANS,4.0,2.0,283.0
+Bandera,407.0,"TRUSTEE, PLACE #5",,"",ROBERT DELEON,2.0,0.0,283.0
+Bandera,408.0,STRAIGHT PARTY,,REP,REPUBLICAN PARTY,59.0,36.0,64.0
+Bandera,408.0,STRAIGHT PARTY,,DEM,DEMOCRATIC PARTY,20.0,6.0,64.0
+Bandera,408.0,STRAIGHT PARTY,,LIB,LIBERTARIAN PARTY,0.0,0.0,64.0
+Bandera,408.0,STRAIGHT PARTY,,GRN,GREEN PARTY,0.0,0.0,64.0
+Bandera,408.0,U.S. SENATOR,,REP,JOHN CORNYN,93.0,52.0,64.0
+Bandera,408.0,U.S. SENATOR,,DEM,DAVID M. ALAMEEL,31.0,13.0,64.0
+Bandera,408.0,U.S. SENATOR,,LIB,REBECCA PADDOCK,2.0,0.0,64.0
+Bandera,408.0,U.S. SENATOR,,GRN,"EMILY ""SPICYBROWN"" SANCHEZ",5.0,2.0,64.0
+Bandera,408.0,U.S. REPRESENTATIVE DISTRICT 21,,REP,LAMAR SMITH,100.0,56.0,64.0
+Bandera,408.0,U.S. REPRESENTATIVE DISTRICT 21,,LIB,RYAN SHIELDS,8.0,4.0,64.0
+Bandera,408.0,U.S. REPRESENTATIVE DISTRICT 21,,GRN,ANTONIO DIAZ,7.0,4.0,64.0
+Bandera,408.0,GOVERNOR,,REP,GREG ABBOTT,90.0,51.0,64.0
+Bandera,408.0,GOVERNOR,,DEM,WENDY R. DAVIS,42.0,19.0,64.0
+Bandera,408.0,GOVERNOR,,LIB,KATHIE GLASS,2.0,1.0,64.0
+Bandera,408.0,GOVERNOR,,GRN,BRANDON PARMER,0.0,0.0,64.0
+Bandera,408.0,LIEUTENANT GOVERNOR,,REP,DAN PATRICK,91.0,52.0,64.0
+Bandera,408.0,LIEUTENANT GOVERNOR,,DEM,LETICIA VAN DE PUTTE,40.0,18.0,64.0
+Bandera,408.0,LIEUTENANT GOVERNOR,,LIB,ROBERT D. BUTLER,2.0,1.0,64.0
+Bandera,408.0,LIEUTENANT GOVERNOR,,GRN,CHANDRAKANTHA COURTNEY,0.0,0.0,64.0
+Bandera,408.0,ATTORNEY GENERAL,,REP,KEN PAXTON,91.0,53.0,64.0
+Bandera,408.0,ATTORNEY GENERAL,,DEM,SAM HOUSTON,39.0,18.0,64.0
+Bandera,408.0,ATTORNEY GENERAL,,LIB,JAMIE BALAGIA,1.0,0.0,64.0
+Bandera,408.0,ATTORNEY GENERAL,,GRN,JAMAR OSBORNE,2.0,0.0,64.0
+Bandera,408.0,COMPTROLLER OF PUBLIC ACCOUNTS,,REP,GLENN HEGAR,91.0,52.0,64.0
+Bandera,408.0,COMPTROLLER OF PUBLIC ACCOUNTS,,DEM,MIKE COLLIER,38.0,17.0,64.0
+Bandera,408.0,COMPTROLLER OF PUBLIC ACCOUNTS,,LIB,BEN SANDERS,2.0,1.0,64.0
+Bandera,408.0,COMPTROLLER OF PUBLIC ACCOUNTS,,GRN,DEB SHAFTO,2.0,1.0,64.0
+Bandera,408.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,REP,GEORGE P. BUSH,97.0,57.0,64.0
+Bandera,408.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,DEM,JOHN COOK,33.0,14.0,64.0
+Bandera,408.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,LIB,JUSTIN KNIGHT,3.0,0.0,64.0
+Bandera,408.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,GRN,VALERIE ALESSI,0.0,0.0,64.0
+Bandera,408.0,COMMISSIONER OF AGRICULTURE,,REP,SID MILLER,92.0,52.0,64.0
+Bandera,408.0,COMMISSIONER OF AGRICULTURE,,DEM,JIM HOGAN,39.0,19.0,64.0
+Bandera,408.0,COMMISSIONER OF AGRICULTURE,,LIB,DAVID (ROCKY) PALMQUIST,1.0,0.0,64.0
+Bandera,408.0,COMMISSIONER OF AGRICULTURE,,GRN,KENNETH KENDRICK,1.0,0.0,64.0
+Bandera,408.0,RAILROAD COMMISSIONER,,REP,RYAN SITTON,91.0,52.0,64.0
+Bandera,408.0,RAILROAD COMMISSIONER,,DEM,STEVE BROWN,39.0,18.0,64.0
+Bandera,408.0,RAILROAD COMMISSIONER,,LIB,MARK A. MILLER,3.0,1.0,64.0
+Bandera,408.0,RAILROAD COMMISSIONER,,GRN,MARTINA SALINAS,0.0,0.0,64.0
+Bandera,408.0,"CHIEF JUSTICE, SUPREME COURT",,REP,NATHAN HECHT,96.0,55.0,64.0
+Bandera,408.0,"CHIEF JUSTICE, SUPREME COURT",,DEM,WILLIAM MOODY,34.0,15.0,64.0
+Bandera,408.0,"CHIEF JUSTICE, SUPREME COURT",,LIB,TOM OXFORD,3.0,1.0,64.0
+Bandera,408.0,"JUSTICE, SUPREME COURT, PLACE 6 - UNEXPIRED TERM",,REP,JEFF BROWN,94.0,54.0,64.0
+Bandera,408.0,"JUSTICE, SUPREME COURT, PLACE 6 - UNEXPIRED TERM",,DEM,LAWRENCE EDWARD MEYERS,34.0,14.0,64.0
+Bandera,408.0,"JUSTICE, SUPREME COURT, PLACE 6 - UNEXPIRED TERM",,LIB,MARK ASH,4.0,2.0,64.0
+Bandera,408.0,"JUSTICE, SUPREME COURT, PLACE 7",,REP,JEFF BOYD,88.0,52.0,64.0
+Bandera,408.0,"JUSTICE, SUPREME COURT, PLACE 7",,DEM,GINA BENAVIDES,38.0,17.0,64.0
+Bandera,408.0,"JUSTICE, SUPREME COURT, PLACE 7",,LIB,DON FULTON,4.0,1.0,64.0
+Bandera,408.0,"JUSTICE, SUPREME COURT, PLACE 7",,GRN,CHARLES E. WATERBURY,1.0,0.0,64.0
+Bandera,408.0,"JUSTICE, SUPREME COURT, PLACE 8",,REP,PHIL JOHNSON,94.0,54.0,64.0
+Bandera,408.0,"JUSTICE, SUPREME COURT, PLACE 8",,LIB,RS ROBERTO KOELSCH,6.0,2.0,64.0
+Bandera,408.0,"JUSTICE, SUPREME COURT, PLACE 8",,GRN,JIM CHISOLM,12.0,6.0,64.0
+Bandera,408.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 3",,REP,BERT RICHARDSON,89.0,52.0,64.0
+Bandera,408.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 3",,DEM,JOHN GRANBERG,38.0,16.0,64.0
+Bandera,408.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 3",,LIB,MARK W. BENNETT,3.0,1.0,64.0
+Bandera,408.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 4",,REP,KEVIN PATRICK YEARY,89.0,52.0,64.0
+Bandera,408.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 4",,LIB,QUANAH PARKER,11.0,6.0,64.0
+Bandera,408.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 4",,GRN,JUDITH SANDERS-CASTRO,11.0,4.0,64.0
+Bandera,408.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 9",,REP,DAVID NEWELL,93.0,54.0,64.0
+Bandera,408.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 9",,LIB,"WILLIAM BRYAN STRANGE, III",7.0,3.0,64.0
+Bandera,408.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 9",,GRN,GEORGE JOSEPH ALTGELT,10.0,5.0,64.0
+Bandera,408.0,STATE REPRESENTATIVE DISTRICT 53,,REP,ANDREW S. MURR,98.0,55.0,64.0
+Bandera,408.0,STATE REPRESENTATIVE DISTRICT 53,,LIB,MAXIMILIAN MARTIN,13.0,5.0,64.0
+Bandera,408.0,"CHIEF JUSTICE, 4TH COURT OF APPEALS DISTRICT",,REP,SANDEE BRYAN MARION,92.0,53.0,64.0
+Bandera,408.0,"CHIEF JUSTICE, 4TH COURT OF APPEALS DISTRICT",,DEM,IRENE RIOS,38.0,15.0,64.0
+Bandera,408.0,"DISTRICT JUDGE, 198TH JUDICIAL DISTRICT",,REP,REX EMERSON,95.0,52.0,64.0
+Bandera,408.0,PROPOSITION 1,,"",FOR,96.0,58.0,64.0
+Bandera,408.0,PROPOSITION 1,,"",AGAINST,15.0,6.0,64.0
+Bandera,408.0,"TRUSTEE, PLACE #1",,"",JOHN JUNKER,36.0,16.0,64.0
+Bandera,408.0,"TRUSTEE, PLACE #1",,"",DANNI MACNEIL,17.0,10.0,64.0
+Bandera,408.0,"TRUSTEE, PLACE #2",,"",GREG BUTLER,22.0,11.0,64.0
+Bandera,408.0,"TRUSTEE, PLACE #2",,"",LAURIE NEFF,37.0,17.0,64.0
+Bandera,408.0,"TRUSTEE, PLACE #1",,"",JESSE FAGLIE,5.0,2.0,64.0
+Bandera,408.0,"TRUSTEE, PLACE #1",,"",DR. JAMES LINDSTROM,20.0,15.0,64.0
+Bandera,408.0,"TRUSTEE, PLACE #4",,"",LAURA ORTIZ,8.0,7.0,64.0
+Bandera,408.0,"TRUSTEE, PLACE #4",,"",HEATH W. LESTOURGEON,17.0,10.0,64.0
+Bandera,408.0,"TRUSTEE, PLACE #5",,"",JENNIFER EVANS,22.0,13.0,64.0
+Bandera,408.0,"TRUSTEE, PLACE #5",,"",ROBERT DELEON,4.0,3.0,64.0
+Bandera,409.0,STRAIGHT PARTY,,REP,REPUBLICAN PARTY,112.0,64.0,112.0
+Bandera,409.0,STRAIGHT PARTY,,DEM,DEMOCRATIC PARTY,29.0,14.0,112.0
+Bandera,409.0,STRAIGHT PARTY,,LIB,LIBERTARIAN PARTY,1.0,1.0,112.0
+Bandera,409.0,STRAIGHT PARTY,,GRN,GREEN PARTY,2.0,0.0,112.0
+Bandera,409.0,U.S. SENATOR,,REP,JOHN CORNYN,163.0,94.0,112.0
+Bandera,409.0,U.S. SENATOR,,DEM,DAVID M. ALAMEEL,50.0,21.0,112.0
+Bandera,409.0,U.S. SENATOR,,LIB,REBECCA PADDOCK,11.0,5.0,112.0
+Bandera,409.0,U.S. SENATOR,,GRN,"EMILY ""SPICYBROWN"" SANCHEZ",3.0,0.0,112.0
+Bandera,409.0,U.S. REPRESENTATIVE DISTRICT 21,,REP,LAMAR SMITH,172.0,97.0,112.0
+Bandera,409.0,U.S. REPRESENTATIVE DISTRICT 21,,LIB,RYAN SHIELDS,29.0,13.0,112.0
+Bandera,409.0,U.S. REPRESENTATIVE DISTRICT 21,,GRN,ANTONIO DIAZ,7.0,2.0,112.0
+Bandera,409.0,GOVERNOR,,REP,GREG ABBOTT,162.0,94.0,112.0
+Bandera,409.0,GOVERNOR,,DEM,WENDY R. DAVIS,58.0,24.0,112.0
+Bandera,409.0,GOVERNOR,,LIB,KATHIE GLASS,6.0,1.0,112.0
+Bandera,409.0,GOVERNOR,,GRN,BRANDON PARMER,4.0,2.0,112.0
+Bandera,409.0,LIEUTENANT GOVERNOR,,REP,DAN PATRICK,162.0,94.0,112.0
+Bandera,409.0,LIEUTENANT GOVERNOR,,DEM,LETICIA VAN DE PUTTE,58.0,25.0,112.0
+Bandera,409.0,LIEUTENANT GOVERNOR,,LIB,ROBERT D. BUTLER,6.0,2.0,112.0
+Bandera,409.0,LIEUTENANT GOVERNOR,,GRN,CHANDRAKANTHA COURTNEY,4.0,0.0,112.0
+Bandera,409.0,ATTORNEY GENERAL,,REP,KEN PAXTON,159.0,96.0,112.0
+Bandera,409.0,ATTORNEY GENERAL,,DEM,SAM HOUSTON,60.0,24.0,112.0
+Bandera,409.0,ATTORNEY GENERAL,,LIB,JAMIE BALAGIA,6.0,0.0,112.0
+Bandera,409.0,ATTORNEY GENERAL,,GRN,JAMAR OSBORNE,4.0,1.0,112.0
+Bandera,409.0,COMPTROLLER OF PUBLIC ACCOUNTS,,REP,GLENN HEGAR,160.0,93.0,112.0
+Bandera,409.0,COMPTROLLER OF PUBLIC ACCOUNTS,,DEM,MIKE COLLIER,55.0,26.0,112.0
+Bandera,409.0,COMPTROLLER OF PUBLIC ACCOUNTS,,LIB,BEN SANDERS,8.0,2.0,112.0
+Bandera,409.0,COMPTROLLER OF PUBLIC ACCOUNTS,,GRN,DEB SHAFTO,6.0,0.0,112.0
+Bandera,409.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,REP,GEORGE P. BUSH,163.0,92.0,112.0
+Bandera,409.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,DEM,JOHN COOK,51.0,21.0,112.0
+Bandera,409.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,LIB,JUSTIN KNIGHT,12.0,8.0,112.0
+Bandera,409.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,GRN,VALERIE ALESSI,4.0,0.0,112.0
+Bandera,409.0,COMMISSIONER OF AGRICULTURE,,REP,SID MILLER,157.0,93.0,112.0
+Bandera,409.0,COMMISSIONER OF AGRICULTURE,,DEM,JIM HOGAN,55.0,23.0,112.0
+Bandera,409.0,COMMISSIONER OF AGRICULTURE,,LIB,DAVID (ROCKY) PALMQUIST,10.0,2.0,112.0
+Bandera,409.0,COMMISSIONER OF AGRICULTURE,,GRN,KENNETH KENDRICK,6.0,3.0,112.0
+Bandera,409.0,RAILROAD COMMISSIONER,,REP,RYAN SITTON,157.0,93.0,112.0
+Bandera,409.0,RAILROAD COMMISSIONER,,DEM,STEVE BROWN,55.0,24.0,112.0
+Bandera,409.0,RAILROAD COMMISSIONER,,LIB,MARK A. MILLER,11.0,4.0,112.0
+Bandera,409.0,RAILROAD COMMISSIONER,,GRN,MARTINA SALINAS,4.0,0.0,112.0
+Bandera,409.0,"CHIEF JUSTICE, SUPREME COURT",,REP,NATHAN HECHT,166.0,96.0,112.0
+Bandera,409.0,"CHIEF JUSTICE, SUPREME COURT",,DEM,WILLIAM MOODY,52.0,22.0,112.0
+Bandera,409.0,"CHIEF JUSTICE, SUPREME COURT",,LIB,TOM OXFORD,8.0,2.0,112.0
+Bandera,409.0,"JUSTICE, SUPREME COURT, PLACE 6 - UNEXPIRED TERM",,REP,JEFF BROWN,162.0,95.0,112.0
+Bandera,409.0,"JUSTICE, SUPREME COURT, PLACE 6 - UNEXPIRED TERM",,DEM,LAWRENCE EDWARD MEYERS,51.0,19.0,112.0
+Bandera,409.0,"JUSTICE, SUPREME COURT, PLACE 6 - UNEXPIRED TERM",,LIB,MARK ASH,12.0,5.0,112.0
+Bandera,409.0,"JUSTICE, SUPREME COURT, PLACE 7",,REP,JEFF BOYD,157.0,93.0,112.0
+Bandera,409.0,"JUSTICE, SUPREME COURT, PLACE 7",,DEM,GINA BENAVIDES,52.0,22.0,112.0
+Bandera,409.0,"JUSTICE, SUPREME COURT, PLACE 7",,LIB,DON FULTON,14.0,5.0,112.0
+Bandera,409.0,"JUSTICE, SUPREME COURT, PLACE 7",,GRN,CHARLES E. WATERBURY,3.0,0.0,112.0
+Bandera,409.0,"JUSTICE, SUPREME COURT, PLACE 8",,REP,PHIL JOHNSON,165.0,95.0,112.0
+Bandera,409.0,"JUSTICE, SUPREME COURT, PLACE 8",,LIB,RS ROBERTO KOELSCH,23.0,9.0,112.0
+Bandera,409.0,"JUSTICE, SUPREME COURT, PLACE 8",,GRN,JIM CHISOLM,15.0,7.0,112.0
+Bandera,409.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 3",,REP,BERT RICHARDSON,162.0,94.0,112.0
+Bandera,409.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 3",,DEM,JOHN GRANBERG,49.0,20.0,112.0
+Bandera,409.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 3",,LIB,MARK W. BENNETT,13.0,6.0,112.0
+Bandera,409.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 4",,REP,KEVIN PATRICK YEARY,163.0,96.0,112.0
+Bandera,409.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 4",,LIB,QUANAH PARKER,31.0,14.0,112.0
+Bandera,409.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 4",,GRN,JUDITH SANDERS-CASTRO,16.0,5.0,112.0
+Bandera,409.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 9",,REP,DAVID NEWELL,165.0,92.0,112.0
+Bandera,409.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 9",,LIB,"WILLIAM BRYAN STRANGE, III",31.0,18.0,112.0
+Bandera,409.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 9",,GRN,GEORGE JOSEPH ALTGELT,12.0,5.0,112.0
+Bandera,409.0,STATE REPRESENTATIVE DISTRICT 53,,REP,ANDREW S. MURR,166.0,96.0,112.0
+Bandera,409.0,STATE REPRESENTATIVE DISTRICT 53,,LIB,MAXIMILIAN MARTIN,39.0,17.0,112.0
+Bandera,409.0,"CHIEF JUSTICE, 4TH COURT OF APPEALS DISTRICT",,REP,SANDEE BRYAN MARION,168.0,96.0,112.0
+Bandera,409.0,"CHIEF JUSTICE, 4TH COURT OF APPEALS DISTRICT",,DEM,IRENE RIOS,55.0,24.0,112.0
+Bandera,409.0,"DISTRICT JUDGE, 198TH JUDICIAL DISTRICT",,REP,REX EMERSON,179.0,101.0,112.0
+Bandera,409.0,PROPOSITION 1,,"",FOR,159.0,84.0,112.0
+Bandera,409.0,PROPOSITION 1,,"",AGAINST,38.0,22.0,112.0
+Bandera,409.0,"TRUSTEE, PLACE #1",,"",JOHN JUNKER,84.0,45.0,112.0
+Bandera,409.0,"TRUSTEE, PLACE #1",,"",DANNI MACNEIL,76.0,38.0,112.0
+Bandera,409.0,"TRUSTEE, PLACE #2",,"",GREG BUTLER,71.0,39.0,112.0
+Bandera,409.0,"TRUSTEE, PLACE #2",,"",LAURIE NEFF,96.0,50.0,112.0
+Bandera,410.0,STRAIGHT PARTY,,REP,REPUBLICAN PARTY,160.0,57.0,182.0
+Bandera,410.0,STRAIGHT PARTY,,DEM,DEMOCRATIC PARTY,13.0,3.0,182.0
+Bandera,410.0,STRAIGHT PARTY,,LIB,LIBERTARIAN PARTY,1.0,0.0,182.0
+Bandera,410.0,STRAIGHT PARTY,,GRN,GREEN PARTY,0.0,0.0,182.0
+Bandera,410.0,U.S. SENATOR,,REP,JOHN CORNYN,228.0,85.0,182.0
+Bandera,410.0,U.S. SENATOR,,DEM,DAVID M. ALAMEEL,31.0,10.0,182.0
+Bandera,410.0,U.S. SENATOR,,LIB,REBECCA PADDOCK,11.0,1.0,182.0
+Bandera,410.0,U.S. SENATOR,,GRN,"EMILY ""SPICYBROWN"" SANCHEZ",5.0,0.0,182.0
+Bandera,410.0,U.S. REPRESENTATIVE DISTRICT 21,,REP,LAMAR SMITH,231.0,84.0,182.0
+Bandera,410.0,U.S. REPRESENTATIVE DISTRICT 21,,LIB,RYAN SHIELDS,17.0,4.0,182.0
+Bandera,410.0,U.S. REPRESENTATIVE DISTRICT 21,,GRN,ANTONIO DIAZ,11.0,5.0,182.0
+Bandera,410.0,GOVERNOR,,REP,GREG ABBOTT,233.0,85.0,182.0
+Bandera,410.0,GOVERNOR,,DEM,WENDY R. DAVIS,40.0,11.0,182.0
+Bandera,410.0,GOVERNOR,,LIB,KATHIE GLASS,2.0,0.0,182.0
+Bandera,410.0,GOVERNOR,,GRN,BRANDON PARMER,1.0,0.0,182.0
+Bandera,410.0,LIEUTENANT GOVERNOR,,REP,DAN PATRICK,233.0,83.0,182.0
+Bandera,410.0,LIEUTENANT GOVERNOR,,DEM,LETICIA VAN DE PUTTE,39.0,11.0,182.0
+Bandera,410.0,LIEUTENANT GOVERNOR,,LIB,ROBERT D. BUTLER,3.0,1.0,182.0
+Bandera,410.0,LIEUTENANT GOVERNOR,,GRN,CHANDRAKANTHA COURTNEY,1.0,0.0,182.0
+Bandera,410.0,ATTORNEY GENERAL,,REP,KEN PAXTON,229.0,80.0,182.0
+Bandera,410.0,ATTORNEY GENERAL,,DEM,SAM HOUSTON,39.0,11.0,182.0
+Bandera,410.0,ATTORNEY GENERAL,,LIB,JAMIE BALAGIA,4.0,1.0,182.0
+Bandera,410.0,ATTORNEY GENERAL,,GRN,JAMAR OSBORNE,2.0,1.0,182.0
+Bandera,410.0,COMPTROLLER OF PUBLIC ACCOUNTS,,REP,GLENN HEGAR,223.0,78.0,182.0
+Bandera,410.0,COMPTROLLER OF PUBLIC ACCOUNTS,,DEM,MIKE COLLIER,38.0,11.0,182.0
+Bandera,410.0,COMPTROLLER OF PUBLIC ACCOUNTS,,LIB,BEN SANDERS,8.0,3.0,182.0
+Bandera,410.0,COMPTROLLER OF PUBLIC ACCOUNTS,,GRN,DEB SHAFTO,3.0,0.0,182.0
+Bandera,410.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,REP,GEORGE P. BUSH,227.0,84.0,182.0
+Bandera,410.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,DEM,JOHN COOK,33.0,10.0,182.0
+Bandera,410.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,LIB,JUSTIN KNIGHT,11.0,0.0,182.0
+Bandera,410.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,GRN,VALERIE ALESSI,3.0,0.0,182.0
+Bandera,410.0,COMMISSIONER OF AGRICULTURE,,REP,SID MILLER,234.0,84.0,182.0
+Bandera,410.0,COMMISSIONER OF AGRICULTURE,,DEM,JIM HOGAN,33.0,10.0,182.0
+Bandera,410.0,COMMISSIONER OF AGRICULTURE,,LIB,DAVID (ROCKY) PALMQUIST,7.0,1.0,182.0
+Bandera,410.0,COMMISSIONER OF AGRICULTURE,,GRN,KENNETH KENDRICK,2.0,0.0,182.0
+Bandera,410.0,RAILROAD COMMISSIONER,,REP,RYAN SITTON,226.0,80.0,182.0
+Bandera,410.0,RAILROAD COMMISSIONER,,DEM,STEVE BROWN,34.0,10.0,182.0
+Bandera,410.0,RAILROAD COMMISSIONER,,LIB,MARK A. MILLER,11.0,2.0,182.0
+Bandera,410.0,RAILROAD COMMISSIONER,,GRN,MARTINA SALINAS,1.0,0.0,182.0
+Bandera,410.0,"CHIEF JUSTICE, SUPREME COURT",,REP,NATHAN HECHT,225.0,79.0,182.0
+Bandera,410.0,"CHIEF JUSTICE, SUPREME COURT",,DEM,WILLIAM MOODY,38.0,11.0,182.0
+Bandera,410.0,"CHIEF JUSTICE, SUPREME COURT",,LIB,TOM OXFORD,9.0,2.0,182.0
+Bandera,410.0,"JUSTICE, SUPREME COURT, PLACE 6 - UNEXPIRED TERM",,REP,JEFF BROWN,227.0,80.0,182.0
+Bandera,410.0,"JUSTICE, SUPREME COURT, PLACE 6 - UNEXPIRED TERM",,DEM,LAWRENCE EDWARD MEYERS,37.0,11.0,182.0
+Bandera,410.0,"JUSTICE, SUPREME COURT, PLACE 6 - UNEXPIRED TERM",,LIB,MARK ASH,8.0,1.0,182.0
+Bandera,410.0,"JUSTICE, SUPREME COURT, PLACE 7",,REP,JEFF BOYD,227.0,80.0,182.0
+Bandera,410.0,"JUSTICE, SUPREME COURT, PLACE 7",,DEM,GINA BENAVIDES,35.0,10.0,182.0
+Bandera,410.0,"JUSTICE, SUPREME COURT, PLACE 7",,LIB,DON FULTON,8.0,1.0,182.0
+Bandera,410.0,"JUSTICE, SUPREME COURT, PLACE 7",,GRN,CHARLES E. WATERBURY,2.0,0.0,182.0
+Bandera,410.0,"JUSTICE, SUPREME COURT, PLACE 8",,REP,PHIL JOHNSON,231.0,82.0,182.0
+Bandera,410.0,"JUSTICE, SUPREME COURT, PLACE 8",,LIB,RS ROBERTO KOELSCH,16.0,4.0,182.0
+Bandera,410.0,"JUSTICE, SUPREME COURT, PLACE 8",,GRN,JIM CHISOLM,15.0,8.0,182.0
+Bandera,410.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 3",,REP,BERT RICHARDSON,227.0,83.0,182.0
+Bandera,410.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 3",,DEM,JOHN GRANBERG,35.0,9.0,182.0
+Bandera,410.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 3",,LIB,MARK W. BENNETT,10.0,1.0,182.0
+Bandera,410.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 4",,REP,KEVIN PATRICK YEARY,226.0,79.0,182.0
+Bandera,410.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 4",,LIB,QUANAH PARKER,27.0,10.0,182.0
+Bandera,410.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 4",,GRN,JUDITH SANDERS-CASTRO,9.0,5.0,182.0
+Bandera,410.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 9",,REP,DAVID NEWELL,226.0,79.0,182.0
+Bandera,410.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 9",,LIB,"WILLIAM BRYAN STRANGE, III",22.0,5.0,182.0
+Bandera,410.0,"JUDGE, COURT OF CRIMINAL APPEALS PLACE 9",,GRN,GEORGE JOSEPH ALTGELT,11.0,7.0,182.0
+Bandera,410.0,STATE REPRESENTATIVE DISTRICT 53,,REP,ANDREW S. MURR,234.0,83.0,182.0
+Bandera,410.0,STATE REPRESENTATIVE DISTRICT 53,,LIB,MAXIMILIAN MARTIN,20.0,5.0,182.0
+Bandera,410.0,"CHIEF JUSTICE, 4TH COURT OF APPEALS DISTRICT",,REP,SANDEE BRYAN MARION,235.0,83.0,182.0
+Bandera,410.0,"CHIEF JUSTICE, 4TH COURT OF APPEALS DISTRICT",,DEM,IRENE RIOS,38.0,10.0,182.0
+Bandera,410.0,"DISTRICT JUDGE, 198TH JUDICIAL DISTRICT",,REP,REX EMERSON,237.0,80.0,182.0
+Bandera,410.0,PROPOSITION 1,,"",FOR,171.0,60.0,182.0
+Bandera,410.0,PROPOSITION 1,,"",AGAINST,62.0,20.0,182.0
