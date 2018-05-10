@@ -1,925 +1,1420 @@
 county,precinct,office,district,party,candidate,early_voting,election_day,votes
-Wichita,10,Straight Party,,,Republican,42,30,
-Wichita,11,Straight Party,,,Republican,174,103,
-Wichita,12,Straight Party,,,Republican,352,304,
-Wichita,13,Straight Party,,,Republican,268,126,
-Wichita,14,Straight Party,,,Republican,325,172,
-Wichita,15,Straight Party,,,Republican,78,72,
-Wichita,16,Straight Party,,,Republican,13,4,
-Wichita,17,Straight Party,,,Republican,420,285,
-Wichita,18,Straight Party,,,Republican,371,272,
-Wichita,20,Straight Party,,,Republican,154,121,
-Wichita,21,Straight Party,,,Republican,91,142,
-Wichita,22,Straight Party,,,Republican,74,71,
-Wichita,23,Straight Party,,,Republican,103,75,
-Wichita,24,Straight Party,,,Republican,369,296,
-Wichita,25,Straight Party,,,Republican,239,187,
-Wichita,26,Straight Party,,,Republican,48,23,
-Wichita,30,Straight Party,,,Republican,56,34,
-Wichita,31,Straight Party,,,Republican,112,86,
-Wichita,32,Straight Party,,,Republican,32,22,
-Wichita,33,Straight Party,,,Republican,28,33,
-Wichita,34,Straight Party,,,Republican,19,15,
-Wichita,35,Straight Party,,,Republican,26,38,
-Wichita,36,Straight Party,,,Republican,379,323,
-Wichita,37,Straight Party,,,Republican,203,122,
-Wichita,38,Straight Party,,,Republican,29,20,
-Wichita,40,Straight Party,,,Republican,436,207,
-Wichita,41,Straight Party,,,Republican,236,194,
-Wichita,42,Straight Party,,,Republican,406,215,
-Wichita,43,Straight Party,,,Republican,302,246,
-Wichita,44,Straight Party,,,Republican,238,184,
-Wichita,45,Straight Party,,,Republican,105,59,
-Wichita,46,Straight Party,,,Republican,88,70,
-Wichita,47,Straight Party,,,Republican,55,53,
-Wichita,10,Straight Party,,,Democratic,6,3,
-Wichita,11,Straight Party,,,Democratic,30,17,
-Wichita,12,Straight Party,,,Democratic,65,43,
-Wichita,13,Straight Party,,,Democratic,47,11,
-Wichita,14,Straight Party,,,Democratic,73,51,
-Wichita,15,Straight Party,,,Democratic,2,10,
-Wichita,16,Straight Party,,,Democratic,1,0,
-Wichita,17,Straight Party,,,Democratic,66,43,
-Wichita,18,Straight Party,,,Democratic,75,53,
-Wichita,20,Straight Party,,,Democratic,64,40,
-Wichita,21,Straight Party,,,Democratic,42,39,
-Wichita,22,Straight Party,,,Democratic,58,43,
-Wichita,23,Straight Party,,,Democratic,13,16,
-Wichita,24,Straight Party,,,Democratic,48,37,
-Wichita,25,Straight Party,,,Democratic,53,42,
-Wichita,26,Straight Party,,,Democratic,25,35,
-Wichita,30,Straight Party,,,Democratic,15,8,
-Wichita,31,Straight Party,,,Democratic,64,54,
-Wichita,32,Straight Party,,,Democratic,101,138,
-Wichita,33,Straight Party,,,Democratic,8,13,
-Wichita,34,Straight Party,,,Democratic,83,83,
-Wichita,35,Straight Party,,,Democratic,7,2,
-Wichita,36,Straight Party,,,Democratic,44,22,
-Wichita,37,Straight Party,,,Democratic,15,8,
-Wichita,38,Straight Party,,,Democratic,95,121,
-Wichita,40,Straight Party,,,Democratic,81,46,
-Wichita,41,Straight Party,,,Democratic,79,37,
-Wichita,42,Straight Party,,,Democratic,42,21,
-Wichita,43,Straight Party,,,Democratic,75,29,
-Wichita,44,Straight Party,,,Democratic,102,56,
-Wichita,45,Straight Party,,,Democratic,6,0,
-Wichita,46,Straight Party,,,Democratic,10,14,
-Wichita,47,Straight Party,,,Democratic,10,11,
-Wichita,10,Straight Party,,,Libertarian,0,1,
-Wichita,11,Straight Party,,,Libertarian,2,1,
-Wichita,12,Straight Party,,,Libertarian,2,1,
-Wichita,13,Straight Party,,,Libertarian,0,1,
-Wichita,14,Straight Party,,,Libertarian,1,2,
-Wichita,15,Straight Party,,,Libertarian,1,0,
-Wichita,16,Straight Party,,,Libertarian,0,0,
-Wichita,17,Straight Party,,,Libertarian,1,2,
-Wichita,18,Straight Party,,,Libertarian,1,5,
-Wichita,20,Straight Party,,,Libertarian,1,2,
-Wichita,21,Straight Party,,,Libertarian,1,1,
-Wichita,22,Straight Party,,,Libertarian,0,5,
-Wichita,23,Straight Party,,,Libertarian,0,0,
-Wichita,24,Straight Party,,,Libertarian,2,1,
-Wichita,25,Straight Party,,,Libertarian,2,1,
-Wichita,26,Straight Party,,,Libertarian,0,1,
-Wichita,30,Straight Party,,,Libertarian,0,1,
-Wichita,31,Straight Party,,,Libertarian,0,5,
-Wichita,32,Straight Party,,,Libertarian,1,1,
-Wichita,33,Straight Party,,,Libertarian,0,0,
-Wichita,34,Straight Party,,,Libertarian,0,0,
-Wichita,35,Straight Party,,,Libertarian,0,0,
-Wichita,36,Straight Party,,,Libertarian,1,0,
-Wichita,37,Straight Party,,,Libertarian,1,0,
-Wichita,38,Straight Party,,,Libertarian,1,0,
-Wichita,40,Straight Party,,,Libertarian,2,4,
-Wichita,41,Straight Party,,,Libertarian,2,3,
-Wichita,42,Straight Party,,,Libertarian,3,2,
-Wichita,43,Straight Party,,,Libertarian,1,6,
-Wichita,44,Straight Party,,,Libertarian,0,6,
-Wichita,45,Straight Party,,,Libertarian,0,2,
-Wichita,46,Straight Party,,,Libertarian,0,1,
-Wichita,47,Straight Party,,,Libertarian,0,0,
-Wichita,10,Straight Party,,,Green,0,0,
-Wichita,11,Straight Party,,,Green,0,0,
-Wichita,12,Straight Party,,,Green,0,0,
-Wichita,13,Straight Party,,,Green,1,0,
-Wichita,14,Straight Party,,,Green,1,0,
-Wichita,15,Straight Party,,,Green,0,0,
-Wichita,16,Straight Party,,,Green,0,0,
-Wichita,17,Straight Party,,,Green,0,2,
-Wichita,18,Straight Party,,,Green,2,0,
-Wichita,20,Straight Party,,,Green,0,1,
-Wichita,21,Straight Party,,,Green,1,1,
-Wichita,22,Straight Party,,,Green,0,0,
-Wichita,23,Straight Party,,,Green,0,0,
-Wichita,24,Straight Party,,,Green,2,0,
-Wichita,25,Straight Party,,,Green,1,1,
-Wichita,26,Straight Party,,,Green,1,0,
-Wichita,30,Straight Party,,,Green,0,0,
-Wichita,31,Straight Party,,,Green,1,1,
-Wichita,32,Straight Party,,,Green,0,0,
-Wichita,33,Straight Party,,,Green,0,0,
-Wichita,34,Straight Party,,,Green,0,0,
-Wichita,35,Straight Party,,,Green,0,0,
-Wichita,36,Straight Party,,,Green,1,1,
-Wichita,37,Straight Party,,,Green,0,0,
-Wichita,38,Straight Party,,,Green,0,0,
-Wichita,40,Straight Party,,,Green,0,0,
-Wichita,41,Straight Party,,,Green,1,1,
-Wichita,42,Straight Party,,,Green,1,0,
-Wichita,43,Straight Party,,,Green,1,1,
-Wichita,44,Straight Party,,,Green,1,0,
-Wichita,45,Straight Party,,,Green,0,0,
-Wichita,46,Straight Party,,,Green,0,0,
-Wichita,47,Straight Party,,,Green,1,0,
-Wichita,10,U.S. Senate,,REP,John Cornyn,68,33,
-Wichita,10,U.S. Senate,,DEM,David M. Alameel,14,6,
-Wichita,10,U.S. Senate,,LIB,Rebecca Paddock,6,2,
-Wichita,10,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",0,1,
-Wichita,11,U.S. Senate,,REP,John Cornyn,207,189,
-Wichita,11,U.S. Senate,,DEM,David M. Alameel,62,34,
-Wichita,11,U.S. Senate,,LIB,Rebecca Paddock,9,3,
-Wichita,11,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",0,2,
-Wichita,12,U.S. Senate,,REP,John Cornyn,567,524,
-Wichita,12,U.S. Senate,,DEM,David M. Alameel,109,77,
-Wichita,12,U.S. Senate,,LIB,Rebecca Paddock,16,18,
-Wichita,12,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",4,5,
-Wichita,13,U.S. Senate,,REP,John Cornyn,392,206,
-Wichita,13,U.S. Senate,,DEM,David M. Alameel,74,31,
-Wichita,13,U.S. Senate,,LIB,Rebecca Paddock,4,5,
-Wichita,13,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",2,1,
-Wichita,14,U.S. Senate,,REP,John Cornyn,507,308,
-Wichita,14,U.S. Senate,,DEM,David M. Alameel,129,91,
-Wichita,14,U.S. Senate,,LIB,Rebecca Paddock,11,8,
-Wichita,14,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",6,4,
-Wichita,15,U.S. Senate,,REP,John Cornyn,119,116,
-Wichita,15,U.S. Senate,,DEM,David M. Alameel,6,15,
-Wichita,15,U.S. Senate,,LIB,Rebecca Paddock,2,1,
-Wichita,15,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",3,0,
-Wichita,16,U.S. Senate,,REP,John Cornyn,23,8,
-Wichita,16,U.S. Senate,,DEM,David M. Alameel,2,0,
-Wichita,16,U.S. Senate,,LIB,Rebecca Paddock,0,0,
-Wichita,16,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",0,0,
-Wichita,17,U.S. Senate,,REP,John Cornyn,636,453,
-Wichita,17,U.S. Senate,,DEM,David M. Alameel,124,75,
-Wichita,17,U.S. Senate,,LIB,Rebecca Paddock,13,14,
-Wichita,17,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",3,4,
-Wichita,18,U.S. Senate,,REP,John Cornyn,562,440,
-Wichita,18,U.S. Senate,,DEM,David M. Alameel,131,82,
-Wichita,18,U.S. Senate,,LIB,Rebecca Paddock,22,15,
-Wichita,18,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",3,4,
-Wichita,20,U.S. Senate,,REP,John Cornyn,236,221,
-Wichita,20,U.S. Senate,,DEM,David M. Alameel,107,68,
-Wichita,20,U.S. Senate,,LIB,Rebecca Paddock,5,8,
-Wichita,20,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",3,5,
-Wichita,21,U.S. Senate,,REP,John Cornyn,139,229,
-Wichita,21,U.S. Senate,,DEM,David M. Alameel,55,60,
-Wichita,21,U.S. Senate,,LIB,Rebecca Paddock,5,7,
-Wichita,21,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",3,3,
-Wichita,22,U.S. Senate,,REP,John Cornyn,115,119,
-Wichita,22,U.S. Senate,,DEM,David M. Alameel,76,55,
-Wichita,22,U.S. Senate,,LIB,Rebecca Paddock,4,7,
-Wichita,22,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",1,3,
-Wichita,23,U.S. Senate,,REP,John Cornyn,134,107,
-Wichita,23,U.S. Senate,,DEM,David M. Alameel,19,21,
-Wichita,23,U.S. Senate,,LIB,Rebecca Paddock,6,4,
-Wichita,23,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",0,0,
-Wichita,24,U.S. Senate,,REP,John Cornyn,605,523,
-Wichita,24,U.S. Senate,,DEM,David M. Alameel,92,75,
-Wichita,24,U.S. Senate,,LIB,Rebecca Paddock,15,16,
-Wichita,24,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",1,4,
-Wichita,25,U.S. Senate,,REP,John Cornyn,406,293,
-Wichita,25,U.S. Senate,,DEM,David M. Alameel,91,61,
-Wichita,25,U.S. Senate,,LIB,Rebecca Paddock,14,12,
-Wichita,25,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",2,3,
-Wichita,26,U.S. Senate,,REP,John Cornyn,70,41,
-Wichita,26,U.S. Senate,,DEM,David M. Alameel,36,38,
-Wichita,26,U.S. Senate,,LIB,Rebecca Paddock,1,2,
-Wichita,26,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",1,1,
-Wichita,30,U.S. Senate,,REP,John Cornyn,74,58,
-Wichita,30,U.S. Senate,,DEM,David M. Alameel,25,12,
-Wichita,30,U.S. Senate,,LIB,Rebecca Paddock,4,8,
-Wichita,30,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",1,1,
-Wichita,31,U.S. Senate,,REP,John Cornyn,159,142,
-Wichita,31,U.S. Senate,,DEM,David M. Alameel,101,66,
-Wichita,31,U.S. Senate,,LIB,Rebecca Paddock,10,16,
-Wichita,31,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",4,2,
-Wichita,32,U.S. Senate,,REP,John Cornyn,60,45,
-Wichita,32,U.S. Senate,,DEM,David M. Alameel,116,155,
-Wichita,32,U.S. Senate,,LIB,Rebecca Paddock,4,4,
-Wichita,32,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",4,2,
-Wichita,33,U.S. Senate,,REP,John Cornyn,40,55,
-Wichita,33,U.S. Senate,,DEM,David M. Alameel,16,22,
-Wichita,33,U.S. Senate,,LIB,Rebecca Paddock,3,5,
-Wichita,33,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",0,2,
-Wichita,34,U.S. Senate,,REP,John Cornyn,30,31,
-Wichita,34,U.S. Senate,,DEM,David M. Alameel,97,98,
-Wichita,34,U.S. Senate,,LIB,Rebecca Paddock,5,1,
-Wichita,34,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",2,3,
-Wichita,35,U.S. Senate,,REP,John Cornyn,38,64,
-Wichita,35,U.S. Senate,,DEM,David M. Alameel,7,5,
-Wichita,35,U.S. Senate,,LIB,Rebecca Paddock,1,4,
-Wichita,35,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",0,1,
-Wichita,36,U.S. Senate,,REP,John Cornyn,614,534,
-Wichita,36,U.S. Senate,,DEM,David M. Alameel,80,40,
-Wichita,36,U.S. Senate,,LIB,Rebecca Paddock,14,23,
-Wichita,36,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",3,2,
-Wichita,37,U.S. Senate,,REP,John Cornyn,270,188,
-Wichita,37,U.S. Senate,,DEM,David M. Alameel,22,17,
-Wichita,37,U.S. Senate,,LIB,Rebecca Paddock,5,5,
-Wichita,37,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",0,1,
-Wichita,38,U.S. Senate,,REP,John Cornyn,43,38,
-Wichita,38,U.S. Senate,,DEM,David M. Alameel,108,134,
-Wichita,38,U.S. Senate,,LIB,Rebecca Paddock,1,2,
-Wichita,38,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",2,1,
-Wichita,40,U.S. Senate,,REP,John Cornyn,643,347,
-Wichita,40,U.S. Senate,,DEM,David M. Alameel,144,70,
-Wichita,40,U.S. Senate,,LIB,Rebecca Paddock,16,16,
-Wichita,40,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",6,2,
-Wichita,41,U.S. Senate,,REP,John Cornyn,368,318,
-Wichita,41,U.S. Senate,,DEM,David M. Alameel,125,68,
-Wichita,41,U.S. Senate,,LIB,Rebecca Paddock,16,18,
-Wichita,41,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",2,4,
-Wichita,42,U.S. Senate,,REP,John Cornyn,617,361,
-Wichita,42,U.S. Senate,,DEM,David M. Alameel,78,45,
-Wichita,42,U.S. Senate,,LIB,Rebecca Paddock,18,7,
-Wichita,42,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",3,1,
-Wichita,43,U.S. Senate,,REP,John Cornyn,485,390,
-Wichita,43,U.S. Senate,,DEM,David M. Alameel,127,70,
-Wichita,43,U.S. Senate,,LIB,Rebecca Paddock,10,14,
-Wichita,43,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",3,6,
-Wichita,44,U.S. Senate,,REP,John Cornyn,368,296,
-Wichita,44,U.S. Senate,,DEM,David M. Alameel,175,95,
-Wichita,44,U.S. Senate,,LIB,Rebecca Paddock,14,24,
-Wichita,44,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",4,5,
-Wichita,45,U.S. Senate,,REP,John Cornyn,165,110,
-Wichita,45,U.S. Senate,,DEM,David M. Alameel,15,6,
-Wichita,45,U.S. Senate,,LIB,Rebecca Paddock,1,5,
-Wichita,45,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",4,1,
-Wichita,46,U.S. Senate,,REP,John Cornyn,138,118,
-Wichita,46,U.S. Senate,,DEM,David M. Alameel,19,24,
-Wichita,46,U.S. Senate,,LIB,Rebecca Paddock,4,5,
-Wichita,46,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",1,0,
-Wichita,47,U.S. Senate,,REP,John Cornyn,86,80,
-Wichita,47,U.S. Senate,,DEM,David M. Alameel,21,14,
-Wichita,47,U.S. Senate,,LIB,Rebecca Paddock,0,1,
-Wichita,47,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",1,0,
-Wichita,10,U.S. House,13,REP,Mac Thornberry,69,34,
-Wichita,10,U.S. House,13,DEM,Mike Minter,14,7,
-Wichita,10,U.S. House,13,LIB,Emily Pivoda,3,3,
-Wichita,10,U.S. House,13,GRN,Don Cook,2,0,
-Wichita,11,U.S. House,13,REP,Mac Thornberry,291,199,
-Wichita,11,U.S. House,13,DEM,Mike Minter,51,31,
-Wichita,11,U.S. House,13,LIB,Emily Pivoda,6,4,
-Wichita,11,U.S. House,13,GRN,Don Cook,1,0,
-Wichita,12,U.S. House,13,REP,Mac Thornberry,560,552,
-Wichita,12,U.S. House,13,DEM,Mike Minter,119,69,
-Wichita,12,U.S. House,13,LIB,Emily Pivoda,16,11,
-Wichita,12,U.S. House,13,GRN,Don Cook,5,3,
-Wichita,13,U.S. House,13,REP,Mac Thornberry,393,209,
-Wichita,13,U.S. House,13,DEM,Mike Minter,77,29,
-Wichita,13,U.S. House,13,LIB,Emily Pivoda,3,9,
-Wichita,13,U.S. House,13,GRN,Don Cook,3,0,
-Wichita,14,U.S. House,13,REP,Mac Thornberry,522,319,
-Wichita,14,U.S. House,13,DEM,Mike Minter,127,84,
-Wichita,14,U.S. House,13,LIB,Emily Pivoda,10,8,
-Wichita,14,U.S. House,13,GRN,Don Cook,3,4,
-Wichita,15,U.S. House,13,REP,Mac Thornberry,119,115,
-Wichita,15,U.S. House,13,DEM,Mike Minter,7,18,
-Wichita,15,U.S. House,13,LIB,Emily Pivoda,3,1,
-Wichita,15,U.S. House,13,GRN,Don Cook,3,1,
-Wichita,16,U.S. House,13,REP,Mac Thornberry,24,8,
-Wichita,16,U.S. House,13,DEM,Mike Minter,1,0,
-Wichita,16,U.S. House,13,LIB,Emily Pivoda,0,0,
-Wichita,16,U.S. House,13,GRN,Don Cook,0,0,
-Wichita,17,U.S. House,13,REP,Mac Thornberry,643,460,
-Wichita,17,U.S. House,13,DEM,Mike Minter,125,76,
-Wichita,17,U.S. House,13,LIB,Emily Pivoda,14,9,
-Wichita,17,U.S. House,13,GRN,Don Cook,1,3,
-Wichita,18,U.S. House,13,REP,Mac Thornberry,572,451,
-Wichita,18,U.S. House,13,DEM,Mike Minter,133,86,
-Wichita,18,U.S. House,13,LIB,Emily Pivoda,18,13,
-Wichita,18,U.S. House,13,GRN,Don Cook,7,2,
-Wichita,20,U.S. House,13,REP,Mac Thornberry,236,222,
-Wichita,20,U.S. House,13,DEM,Mike Minter,111,74,
-Wichita,20,U.S. House,13,LIB,Emily Pivoda,4,5,
-Wichita,20,U.S. House,13,GRN,Don Cook,4,6,
-Wichita,21,U.S. House,13,REP,Mac Thornberry,143,239,
-Wichita,21,U.S. House,13,DEM,Mike Minter,54,60,
-Wichita,21,U.S. House,13,LIB,Emily Pivoda,6,7,
-Wichita,21,U.S. House,13,GRN,Don Cook,4,3,
-Wichita,22,U.S. House,13,REP,Mac Thornberry,114,124,
-Wichita,22,U.S. House,13,DEM,Mike Minter,79,52,
-Wichita,22,U.S. House,13,LIB,Emily Pivoda,4,8,
-Wichita,22,U.S. House,13,GRN,Don Cook,2,5,
-Wichita,23,U.S. House,13,REP,Mac Thornberry,132,109,
-Wichita,23,U.S. House,13,DEM,Mike Minter,20,19,
-Wichita,23,U.S. House,13,LIB,Emily Pivoda,5,3,
-Wichita,23,U.S. House,13,GRN,Don Cook,2,2,
-Wichita,24,U.S. House,13,REP,Mac Thornberry,607,538,
-Wichita,24,U.S. House,13,DEM,Mike Minter,91,71,
-Wichita,24,U.S. House,13,LIB,Emily Pivoda,16,11,
-Wichita,24,U.S. House,13,GRN,Don Cook,4,4,
-Wichita,25,U.S. House,13,REP,Mac Thornberry,422,305,
-Wichita,25,U.S. House,13,DEM,Mike Minter,94,64,
-Wichita,25,U.S. House,13,LIB,Emily Pivoda,8,9,
-Wichita,25,U.S. House,13,GRN,Don Cook,2,2,
-Wichita,26,U.S. House,13,REP,Mac Thornberry,68,43,
-Wichita,26,U.S. House,13,DEM,Mike Minter,38,39,
-Wichita,26,U.S. House,13,LIB,Emily Pivoda,1,1,
-Wichita,26,U.S. House,13,GRN,Don Cook,1,0,
-Wichita,30,U.S. House,13,REP,Mac Thornberry,76,63,
-Wichita,30,U.S. House,13,DEM,Mike Minter,26,12,
-Wichita,30,U.S. House,13,LIB,Emily Pivoda,4,6,
-Wichita,30,U.S. House,13,GRN,Don Cook,3,0,
-Wichita,31,U.S. House,13,REP,Mac Thornberry,168,141,
-Wichita,31,U.S. House,13,DEM,Mike Minter,101,71,
-Wichita,31,U.S. House,13,LIB,Emily Pivoda,8,13,
-Wichita,31,U.S. House,13,GRN,Don Cook,4,3,
-Wichita,32,U.S. House,13,REP,Mac Thornberry,63,49,
-Wichita,32,U.S. House,13,DEM,Mike Minter,120,155,
-Wichita,32,U.S. House,13,LIB,Emily Pivoda,4,2,
-Wichita,32,U.S. House,13,GRN,Don Cook,2,2,
-Wichita,33,U.S. House,13,REP,Mac Thornberry,41,60,
-Wichita,33,U.S. House,13,DEM,Mike Minter,16,20,
-Wichita,33,U.S. House,13,LIB,Emily Pivoda,3,5,
-Wichita,33,U.S. House,13,GRN,Don Cook,0,1,
-Wichita,34,U.S. House,13,REP,Mac Thornberry,32,32,
-Wichita,34,U.S. House,13,DEM,Mike Minter,102,100,
-Wichita,34,U.S. House,13,LIB,Emily Pivoda,2,3,
-Wichita,34,U.S. House,13,GRN,Don Cook,0,0,
-Wichita,35,U.S. House,13,REP,Mac Thornberry,37,66,
-Wichita,35,U.S. House,13,DEM,Mike Minter,8,4,
-Wichita,35,U.S. House,13,LIB,Emily Pivoda,0,2,
-Wichita,35,U.S. House,13,GRN,Don Cook,0,1,
-Wichita,36,U.S. House,13,REP,Mac Thornberry,624,542,
-Wichita,36,U.S. House,13,DEM,Mike Minter,79,41,
-Wichita,36,U.S. House,13,LIB,Emily Pivoda,16,15,
-Wichita,36,U.S. House,13,GRN,Don Cook,3,4,
-Wichita,37,U.S. House,13,REP,Mac Thornberry,271,195,
-Wichita,37,U.S. House,13,DEM,Mike Minter,28,15,
-Wichita,37,U.S. House,13,LIB,Emily Pivoda,7,4,
-Wichita,37,U.S. House,13,GRN,Don Cook,3,1,
-Wichita,38,U.S. House,13,REP,Mac Thornberry,49,39,
-Wichita,38,U.S. House,13,DEM,Mike Minter,110,141,
-Wichita,38,U.S. House,13,LIB,Emily Pivoda,1,1,
-Wichita,38,U.S. House,13,GRN,Don Cook,2,1,
-Wichita,40,U.S. House,13,REP,Mac Thornberry,655,345,
-Wichita,40,U.S. House,13,DEM,Mike Minter,154,75,
-Wichita,40,U.S. House,13,LIB,Emily Pivoda,12,16,
-Wichita,40,U.S. House,13,GRN,Don Cook,3,2,
-Wichita,41,U.S. House,13,REP,Mac Thornberry,369,329,
-Wichita,41,U.S. House,13,DEM,Mike Minter,123,63,
-Wichita,41,U.S. House,13,LIB,Emily Pivoda,14,16,
-Wichita,41,U.S. House,13,GRN,Don Cook,8,3,
-Wichita,42,U.S. House,13,REP,Mac Thornberry,624,367,
-Wichita,42,U.S. House,13,DEM,Mike Minter,92,43,
-Wichita,42,U.S. House,13,LIB,Emily Pivoda,9,7,
-Wichita,42,U.S. House,13,GRN,Don Cook,4,3,
-Wichita,43,U.S. House,13,REP,Mac Thornberry,489,401,
-Wichita,43,U.S. House,13,DEM,Mike Minter,125,65,
-Wichita,43,U.S. House,13,LIB,Emily Pivoda,11,14,
-Wichita,43,U.S. House,13,GRN,Don Cook,3,1,
-Wichita,44,U.S. House,13,REP,Mac Thornberry,382,313,
-Wichita,44,U.S. House,13,DEM,Mike Minter,176,97,
-Wichita,44,U.S. House,13,LIB,Emily Pivoda,10,14,
-Wichita,44,U.S. House,13,GRN,Don Cook,4,5,
-Wichita,45,U.S. House,13,REP,Mac Thornberry,164,111,
-Wichita,45,U.S. House,13,DEM,Mike Minter,16,7,
-Wichita,45,U.S. House,13,LIB,Emily Pivoda,2,4,
-Wichita,45,U.S. House,13,GRN,Don Cook,2,3,
-Wichita,46,U.S. House,13,REP,Mac Thornberry,138,123,
-Wichita,46,U.S. House,13,DEM,Mike Minter,23,21,
-Wichita,46,U.S. House,13,LIB,Emily Pivoda,5,4,
-Wichita,46,U.S. House,13,GRN,Don Cook,2,1,
-Wichita,47,U.S. House,13,REP,Mac Thornberry,88,84,
-Wichita,47,U.S. House,13,DEM,Mike Minter,21,11,
-Wichita,47,U.S. House,13,LIB,Emily Pivoda,0,0,
-Wichita,47,U.S. House,13,GRN,Don Cook,1,0,
-Wichita,10,Governor,,REP,Greg Abbott,76,36,
-Wichita,10,Governor,,DEM,Wendy R. Davis,14,5,
-Wichita,10,Governor,,LIB,Kathie Glass,0,2,
-Wichita,10,Governor,,GRN,Brandon Parmer,0,0,
-Wichita,11,Governor,,REP,Greg Abbott,272,187,
-Wichita,11,Governor,,DEM,Wendy R. Davis,74,42,
-Wichita,11,Governor,,LIB,Kathie Glass,6,5,
-Wichita,11,Governor,,GRN,Brandon Parmer,0,0,
-Wichita,12,Governor,,REP,Greg Abbott,559,527,
-Wichita,12,Governor,,DEM,Wendy R. Davis,137,99,
-Wichita,12,Governor,,LIB,Kathie Glass,8,7,
-Wichita,12,Governor,,GRN,Brandon Parmer,0,3,
-Wichita,13,Governor,,REP,Greg Abbott,391,207,
-Wichita,13,Governor,,DEM,Wendy R. Davis,86,38,
-Wichita,13,Governor,,LIB,Kathie Glass,0,3,
-Wichita,13,Governor,,GRN,Brandon Parmer,0,0,
-Wichita,14,Governor,,REP,Greg Abbott,518,306,
-Wichita,14,Governor,,DEM,Wendy R. Davis,136,103,
-Wichita,14,Governor,,LIB,Kathie Glass,11,5,
-Wichita,14,Governor,,GRN,Brandon Parmer,1,0,
-Wichita,15,Governor,,REP,Greg Abbott,122,113,
-Wichita,15,Governor,,DEM,Wendy R. Davis,9,20,
-Wichita,15,Governor,,LIB,Kathie Glass,1,1,
-Wichita,15,Governor,,GRN,Brandon Parmer,0,0,
-Wichita,16,Governor,,REP,Greg Abbott,25,8,
-Wichita,16,Governor,,DEM,Wendy R. Davis,0,0,
-Wichita,16,Governor,,LIB,Kathie Glass,0,0,
-Wichita,16,Governor,,GRN,Brandon Parmer,0,0,
-Wichita,17,Governor,,REP,Greg Abbott,646,451,
-Wichita,17,Governor,,DEM,Wendy R. Davis,142,95,
-Wichita,17,Governor,,LIB,Kathie Glass,5,3,
-Wichita,17,Governor,,GRN,Brandon Parmer,1,1,
-Wichita,18,Governor,,REP,Greg Abbott,565,435,
-Wichita,18,Governor,,DEM,Wendy R. Davis,157,110,
-Wichita,18,Governor,,LIB,Kathie Glass,9,8,
-Wichita,18,Governor,,GRN,Brandon Parmer,3,1,
-Wichita,20,Governor,,REP,Greg Abbott,237,217,
-Wichita,20,Governor,,DEM,Wendy R. Davis,119,78,
-Wichita,20,Governor,,LIB,Kathie Glass,3,11,
-Wichita,20,Governor,,GRN,Brandon Parmer,0,1,
-Wichita,21,Governor,,REP,Greg Abbott,146,230,
-Wichita,21,Governor,,DEM,Wendy R. Davis,57,70,
-Wichita,21,Governor,,LIB,Kathie Glass,2,4,
-Wichita,21,Governor,,GRN,Brandon Parmer,1,2,
-Wichita,22,Governor,,REP,Greg Abbott,114,122,
-Wichita,22,Governor,,DEM,Wendy R. Davis,83,63,
-Wichita,22,Governor,,LIB,Kathie Glass,2,5,
-Wichita,22,Governor,,GRN,Brandon Parmer,0,0,
-Wichita,23,Governor,,REP,Greg Abbott,136,109,
-Wichita,23,Governor,,DEM,Wendy R. Davis,23,23,
-Wichita,23,Governor,,LIB,Kathie Glass,1,2,
-Wichita,23,Governor,,GRN,Brandon Parmer,0,0,
-Wichita,24,Governor,,REP,Greg Abbott,603,528,
-Wichita,24,Governor,,DEM,Wendy R. Davis,104,97,
-Wichita,24,Governor,,LIB,Kathie Glass,7,2,
-Wichita,24,Governor,,GRN,Brandon Parmer,4,0,
-Wichita,25,Governor,,REP,Greg Abbott,418,295,
-Wichita,25,Governor,,DEM,Wendy R. Davis,107,76,
-Wichita,25,Governor,,LIB,Kathie Glass,5,8,
-Wichita,25,Governor,,GRN,Brandon Parmer,2,2,
-Wichita,26,Governor,,REP,Greg Abbott,71,43,
-Wichita,26,Governor,,DEM,Wendy R. Davis,38,40,
-Wichita,26,Governor,,LIB,Kathie Glass,1,1,
-Wichita,26,Governor,,GRN,Brandon Parmer,0,0,
-Wichita,30,Governor,,REP,Greg Abbott,76,62,
-Wichita,30,Governor,,DEM,Wendy R. Davis,31,13,
-Wichita,30,Governor,,LIB,Kathie Glass,2,6,
-Wichita,30,Governor,,GRN,Brandon Parmer,0,0,
-Wichita,31,Governor,,REP,Greg Abbott,167,144,
-Wichita,31,Governor,,DEM,Wendy R. Davis,111,80,
-Wichita,31,Governor,,LIB,Kathie Glass,3,6,
-Wichita,31,Governor,,GRN,Brandon Parmer,1,1,
-Wichita,32,Governor,,REP,Greg Abbott,61,47,
-Wichita,32,Governor,,DEM,Wendy R. Davis,125,158,
-Wichita,32,Governor,,LIB,Kathie Glass,4,1,
-Wichita,32,Governor,,GRN,Brandon Parmer,0,1,
-Wichita,33,Governor,,REP,Greg Abbott,42,56,
-Wichita,33,Governor,,DEM,Wendy R. Davis,17,26,
-Wichita,33,Governor,,LIB,Kathie Glass,1,4,
-Wichita,33,Governor,,GRN,Brandon Parmer,0,0,
-Wichita,34,Governor,,REP,Greg Abbott,29,29,
-Wichita,34,Governor,,DEM,Wendy R. Davis,105,106,
-Wichita,34,Governor,,LIB,Kathie Glass,1,0,
-Wichita,34,Governor,,GRN,Brandon Parmer,1,1,
-Wichita,35,Governor,,REP,Greg Abbott,37,64,
-Wichita,35,Governor,,DEM,Wendy R. Davis,9,11,
-Wichita,35,Governor,,LIB,Kathie Glass,0,0,
-Wichita,35,Governor,,GRN,Brandon Parmer,1,0,
-Wichita,36,Governor,,REP,Greg Abbott,622,544,
-Wichita,36,Governor,,DEM,Wendy R. Davis,97,51,
-Wichita,36,Governor,,LIB,Kathie Glass,5,7,
-Wichita,36,Governor,,GRN,Brandon Parmer,1,2,
-Wichita,37,Governor,,REP,Greg Abbott,278,190,
-Wichita,37,Governor,,DEM,Wendy R. Davis,29,23,
-Wichita,37,Governor,,LIB,Kathie Glass,2,3,
-Wichita,37,Governor,,GRN,Brandon Parmer,0,0,
-Wichita,38,Governor,,REP,Greg Abbott,42,36,
-Wichita,38,Governor,,DEM,Wendy R. Davis,118,145,
-Wichita,38,Governor,,LIB,Kathie Glass,0,1,
-Wichita,38,Governor,,GRN,Brandon Parmer,1,0,
-Wichita,40,Governor,,REP,Greg Abbott,647,336,
-Wichita,40,Governor,,DEM,Wendy R. Davis,176,93,
-Wichita,40,Governor,,LIB,Kathie Glass,8,7,
-Wichita,40,Governor,,GRN,Brandon Parmer,0,1,
-Wichita,41,Governor,,REP,Greg Abbott,374,318,
-Wichita,41,Governor,,DEM,Wendy R. Davis,137,82,
-Wichita,41,Governor,,LIB,Kathie Glass,5,13,
-Wichita,41,Governor,,GRN,Brandon Parmer,2,0,
-Wichita,42,Governor,,REP,Greg Abbott,616,356,
-Wichita,42,Governor,,DEM,Wendy R. Davis,103,59,
-Wichita,42,Governor,,LIB,Kathie Glass,11,5,
-Wichita,42,Governor,,GRN,Brandon Parmer,0,2,
-Wichita,43,Governor,,REP,Greg Abbott,480,390,
-Wichita,43,Governor,,DEM,Wendy R. Davis,145,86,
-Wichita,43,Governor,,LIB,Kathie Glass,2,7,
-Wichita,43,Governor,,GRN,Brandon Parmer,2,2,
-Wichita,44,Governor,,REP,Greg Abbott,372,299,
-Wichita,44,Governor,,DEM,Wendy R. Davis,200,121,
-Wichita,44,Governor,,LIB,Kathie Glass,4,11,
-Wichita,44,Governor,,GRN,Brandon Parmer,2,1,
-Wichita,45,Governor,,REP,Greg Abbott,165,109,
-Wichita,45,Governor,,DEM,Wendy R. Davis,20,13,
-Wichita,45,Governor,,LIB,Kathie Glass,0,3,
-Wichita,45,Governor,,GRN,Brandon Parmer,2,2,
-Wichita,46,Governor,,REP,Greg Abbott,143,118,
-Wichita,46,Governor,,DEM,Wendy R. Davis,24,28,
-Wichita,46,Governor,,LIB,Kathie Glass,1,4,
-Wichita,46,Governor,,GRN,Brandon Parmer,0,0,
-Wichita,47,Governor,,REP,Greg Abbott,89,79,
-Wichita,47,Governor,,DEM,Wendy R. Davis,19,16,
-Wichita,47,Governor,,LIB,Kathie Glass,0,0,
-Wichita,47,Governor,,GRN,Brandon Parmer,0,0,
-Wichita,10,Lieutenant Governor,,REP,Dan Patrick,75,37,
-Wichita,10,Lieutenant Governor,,DEM,Leticia Van De Putte,15,3,
-Wichita,10,Lieutenant Governor,,LIB,Robert D. Butler,0,3,
-Wichita,10,Lieutenant Governor,,GRN,Chandrakantha Courtney,0,0,
-Wichita,11,Lieutenant Governor,,REP,Dan Patrick,264,178,
-Wichita,11,Lieutenant Governor,,DEM,Leticia Van De Putte,74,45,
-Wichita,11,Lieutenant Governor,,LIB,Robert D. Butler,10,5,
-Wichita,11,Lieutenant Governor,,GRN,Chandrakantha Courtney,2,1,
-Wichita,12,Lieutenant Governor,,REP,Dan Patrick,557,520,
-Wichita,12,Lieutenant Governor,,DEM,Leticia Van De Putte,129,97,
-Wichita,12,Lieutenant Governor,,LIB,Robert D. Butler,14,15,
-Wichita,12,Lieutenant Governor,,GRN,Chandrakantha Courtney,0,2,
-Wichita,13,Lieutenant Governor,,REP,Dan Patrick,387,204,
-Wichita,13,Lieutenant Governor,,DEM,Leticia Van De Putte,89,38,
-Wichita,13,Lieutenant Governor,,LIB,Robert D. Butler,1,3,
-Wichita,13,Lieutenant Governor,,GRN,Chandrakantha Courtney,0,0,
-Wichita,14,Lieutenant Governor,,REP,Dan Patrick,505,305,
-Wichita,14,Lieutenant Governor,,DEM,Leticia Van De Putte,141,98,
-Wichita,14,Lieutenant Governor,,LIB,Robert D. Butler,16,10,
-Wichita,14,Lieutenant Governor,,GRN,Chandrakantha Courtney,2,2,
-Wichita,15,Lieutenant Governor,,REP,Dan Patrick,121,112,
-Wichita,15,Lieutenant Governor,,DEM,Leticia Van De Putte,7,16,
-Wichita,15,Lieutenant Governor,,LIB,Robert D. Butler,2,5,
-Wichita,15,Lieutenant Governor,,GRN,Chandrakantha Courtney,2,0,
-Wichita,16,Lieutenant Governor,,REP,Dan Patrick,25,8,
-Wichita,16,Lieutenant Governor,,DEM,Leticia Van De Putte,0,0,
-Wichita,16,Lieutenant Governor,,LIB,Robert D. Butler,0,0,
-Wichita,16,Lieutenant Governor,,GRN,Chandrakantha Courtney,0,0,
-Wichita,17,Lieutenant Governor,,REP,Dan Patrick,633,451,
-Wichita,17,Lieutenant Governor,,DEM,Leticia Van De Putte,142,79,
-Wichita,17,Lieutenant Governor,,LIB,Robert D. Butler,9,11,
-Wichita,17,Lieutenant Governor,,GRN,Chandrakantha Courtney,0,5,
-Wichita,18,Lieutenant Governor,,REP,Dan Patrick,566,434,
-Wichita,18,Lieutenant Governor,,DEM,Leticia Van De Putte,146,104,
-Wichita,18,Lieutenant Governor,,LIB,Robert D. Butler,15,11,
-Wichita,18,Lieutenant Governor,,GRN,Chandrakantha Courtney,3,3,
-Wichita,20,Lieutenant Governor,,REP,Dan Patrick,235,223,
-Wichita,20,Lieutenant Governor,,DEM,Leticia Van De Putte,115,72,
-Wichita,20,Lieutenant Governor,,LIB,Robert D. Butler,8,7,
-Wichita,20,Lieutenant Governor,,GRN,Chandrakantha Courtney,1,4,
-Wichita,21,Lieutenant Governor,,REP,Dan Patrick,142,239,
-Wichita,21,Lieutenant Governor,,DEM,Leticia Van De Putte,58,59,
-Wichita,21,Lieutenant Governor,,LIB,Robert D. Butler,4,7,
-Wichita,21,Lieutenant Governor,,GRN,Chandrakantha Courtney,0,3,
-Wichita,22,Lieutenant Governor,,REP,Dan Patrick,112,119,
-Wichita,22,Lieutenant Governor,,DEM,Leticia Van De Putte,81,60,
-Wichita,22,Lieutenant Governor,,LIB,Robert D. Butler,4,10,
-Wichita,22,Lieutenant Governor,,GRN,Chandrakantha Courtney,2,2,
-Wichita,23,Lieutenant Governor,,REP,Dan Patrick,139,111,
-Wichita,23,Lieutenant Governor,,DEM,Leticia Van De Putte,20,20,
-Wichita,23,Lieutenant Governor,,LIB,Robert D. Butler,1,3,
-Wichita,23,Lieutenant Governor,,GRN,Chandrakantha Courtney,1,0,
-Wichita,24,Lieutenant Governor,,REP,Dan Patrick,612,520,
-Wichita,24,Lieutenant Governor,,DEM,Leticia Van De Putte,92,78,
-Wichita,24,Lieutenant Governor,,LIB,Robert D. Butler,10,20,
-Wichita,24,Lieutenant Governor,,GRN,Chandrakantha Courtney,1,3,
-Wichita,25,Lieutenant Governor,,REP,Dan Patrick,418,294,
-Wichita,25,Lieutenant Governor,,DEM,Leticia Van De Putte,94,69,
-Wichita,25,Lieutenant Governor,,LIB,Robert D. Butler,12,18,
-Wichita,25,Lieutenant Governor,,GRN,Chandrakantha Courtney,1,1,
-Wichita,26,Lieutenant Governor,,REP,Dan Patrick,71,42,
-Wichita,26,Lieutenant Governor,,DEM,Leticia Van De Putte,36,39,
-Wichita,26,Lieutenant Governor,,LIB,Robert D. Butler,0,2,
-Wichita,26,Lieutenant Governor,,GRN,Chandrakantha Courtney,1,0,
-Wichita,30,Lieutenant Governor,,REP,Dan Patrick,77,59,
-Wichita,30,Lieutenant Governor,,DEM,Leticia Van De Putte,27,12,
-Wichita,30,Lieutenant Governor,,LIB,Robert D. Butler,3,10,
-Wichita,30,Lieutenant Governor,,GRN,Chandrakantha Courtney,1,0,
-Wichita,31,Lieutenant Governor,,REP,Dan Patrick,168,141,
-Wichita,31,Lieutenant Governor,,DEM,Leticia Van De Putte,103,75,
-Wichita,31,Lieutenant Governor,,LIB,Robert D. Butler,7,12,
-Wichita,31,Lieutenant Governor,,GRN,Chandrakantha Courtney,1,2,
-Wichita,32,Lieutenant Governor,,REP,Dan Patrick,66,49,
-Wichita,32,Lieutenant Governor,,DEM,Leticia Van De Putte,125,155,
-Wichita,32,Lieutenant Governor,,LIB,Robert D. Butler,1,3,
-Wichita,32,Lieutenant Governor,,GRN,Chandrakantha Courtney,0,1,
-Wichita,33,Lieutenant Governor,,REP,Dan Patrick,41,55,
-Wichita,33,Lieutenant Governor,,DEM,Leticia Van De Putte,18,25,
-Wichita,33,Lieutenant Governor,,LIB,Robert D. Butler,1,5,
-Wichita,33,Lieutenant Governor,,GRN,Chandrakantha Courtney,0,1,
-Wichita,34,Lieutenant Governor,,REP,Dan Patrick,32,29,
-Wichita,34,Lieutenant Governor,,DEM,Leticia Van De Putte,102,103,
-Wichita,34,Lieutenant Governor,,LIB,Robert D. Butler,2,2,
-Wichita,34,Lieutenant Governor,,GRN,Chandrakantha Courtney,0,0,
-Wichita,35,Lieutenant Governor,,REP,Dan Patrick,35,68,
-Wichita,35,Lieutenant Governor,,DEM,Leticia Van De Putte,9,3,
-Wichita,35,Lieutenant Governor,,LIB,Robert D. Butler,2,3,
-Wichita,35,Lieutenant Governor,,GRN,Chandrakantha Courtney,0,1,
-Wichita,36,Lieutenant Governor,,REP,Dan Patrick,614,548,
-Wichita,36,Lieutenant Governor,,DEM,Leticia Van De Putte,85,34,
-Wichita,36,Lieutenant Governor,,LIB,Robert D. Butler,18,18,
-Wichita,36,Lieutenant Governor,,GRN,Chandrakantha Courtney,5,1,
-Wichita,37,Lieutenant Governor,,REP,Dan Patrick,280,191,
-Wichita,37,Lieutenant Governor,,DEM,Leticia Van De Putte,24,18,
-Wichita,37,Lieutenant Governor,,LIB,Robert D. Butler,5,5,
-Wichita,37,Lieutenant Governor,,GRN,Chandrakantha Courtney,1,0,
-Wichita,38,Lieutenant Governor,,REP,Dan Patrick,40,36,
-Wichita,38,Lieutenant Governor,,DEM,Leticia Van De Putte,117,143,
-Wichita,38,Lieutenant Governor,,LIB,Robert D. Butler,3,2,
-Wichita,38,Lieutenant Governor,,GRN,Chandrakantha Courtney,1,2,
-Wichita,40,Lieutenant Governor,,REP,Dan Patrick,639,333,
-Wichita,40,Lieutenant Governor,,DEM,Leticia Van De Putte,170,84,
-Wichita,40,Lieutenant Governor,,LIB,Robert D. Butler,11,13,
-Wichita,40,Lieutenant Governor,,GRN,Chandrakantha Courtney,2,3,
-Wichita,41,Lieutenant Governor,,REP,Dan Patrick,376,320,
-Wichita,41,Lieutenant Governor,,DEM,Leticia Van De Putte,126,78,
-Wichita,41,Lieutenant Governor,,LIB,Robert D. Butler,16,12,
-Wichita,41,Lieutenant Governor,,GRN,Chandrakantha Courtney,0,2,
-Wichita,42,Lieutenant Governor,,REP,Dan Patrick,617,361,
-Wichita,42,Lieutenant Governor,,DEM,Leticia Van De Putte,102,44,
-Wichita,42,Lieutenant Governor,,LIB,Robert D. Butler,8,10,
-Wichita,42,Lieutenant Governor,,GRN,Chandrakantha Courtney,2,4,
-Wichita,43,Lieutenant Governor,,REP,Dan Patrick,480,384,
-Wichita,43,Lieutenant Governor,,DEM,Leticia Van De Putte,138,81,
-Wichita,43,Lieutenant Governor,,LIB,Robert D. Butler,8,14,
-Wichita,43,Lieutenant Governor,,GRN,Chandrakantha Courtney,1,0,
-Wichita,44,Lieutenant Governor,,REP,Dan Patrick,373,301,
-Wichita,44,Lieutenant Governor,,DEM,Leticia Van De Putte,183,110,
-Wichita,44,Lieutenant Governor,,LIB,Robert D. Butler,14,15,
-Wichita,44,Lieutenant Governor,,GRN,Chandrakantha Courtney,3,5,
-Wichita,45,Lieutenant Governor,,REP,Dan Patrick,164,108,
-Wichita,45,Lieutenant Governor,,DEM,Leticia Van De Putte,18,9,
-Wichita,45,Lieutenant Governor,,LIB,Robert D. Butler,2,7,
-Wichita,45,Lieutenant Governor,,GRN,Chandrakantha Courtney,2,2,
-Wichita,46,Lieutenant Governor,,REP,Dan Patrick,144,117,
-Wichita,46,Lieutenant Governor,,DEM,Leticia Van De Putte,21,26,
-Wichita,46,Lieutenant Governor,,LIB,Robert D. Butler,1,6,
-Wichita,46,Lieutenant Governor,,GRN,Chandrakantha Courtney,1,0,
-Wichita,47,Lieutenant Governor,,REP,Dan Patrick,89,76,
-Wichita,47,Lieutenant Governor,,DEM,Leticia Van De Putte,16,17,
-Wichita,47,Lieutenant Governor,,LIB,Robert D. Butler,1,0,
-Wichita,47,Lieutenant Governor,,GRN,Chandrakantha Courtney,2,0,
-Wichita,10,Attorney General,,REP,Ken Paxton,71,36,
-Wichita,10,Attorney General,,DEM,Sam Houston,19,7,
-Wichita,10,Attorney General,,LIB,Jamie Balagia,0,1,
-Wichita,10,Attorney General,,GRN,Jamar Osborne,0,0,
-Wichita,11,Attorney General,,REP,Ken Paxton,271,185,
-Wichita,11,Attorney General,,DEM,Sam Houston,73,41,
-Wichita,11,Attorney General,,LIB,Jamie Balagia,7,4,
-Wichita,11,Attorney General,,GRN,Jamar Osborne,1,1,
-Wichita,12,Attorney General,,REP,Ken Paxton,536,520,
-Wichita,12,Attorney General,,DEM,Sam Houston,146,95,
-Wichita,12,Attorney General,,LIB,Jamie Balagia,16,14,
-Wichita,12,Attorney General,,GRN,Jamar Osborne,1,5,
-Wichita,13,Attorney General,,REP,Ken Paxton,388,202,
-Wichita,13,Attorney General,,DEM,Sam Houston,86,37,
-Wichita,13,Attorney General,,LIB,Jamie Balagia,2,4,
-Wichita,13,Attorney General,,GRN,Jamar Osborne,1,2,
-Wichita,14,Attorney General,,REP,Ken Paxton,509,300,
-Wichita,14,Attorney General,,DEM,Sam Houston,138,101,
-Wichita,14,Attorney General,,LIB,Jamie Balagia,13,11,
-Wichita,14,Attorney General,,GRN,Jamar Osborne,2,0,
-Wichita,15,Attorney General,,REP,Ken Paxton,120,108,
-Wichita,15,Attorney General,,DEM,Sam Houston,8,22,
-Wichita,15,Attorney General,,LIB,Jamie Balagia,3,4,
-Wichita,15,Attorney General,,GRN,Jamar Osborne,1,0,
-Wichita,16,Attorney General,,REP,Ken Paxton,23,8,
-Wichita,16,Attorney General,,DEM,Sam Houston,1,0,
-Wichita,16,Attorney General,,LIB,Jamie Balagia,0,0,
-Wichita,16,Attorney General,,GRN,Jamar Osborne,1,0,
-Wichita,17,Attorney General,,REP,Ken Paxton,621,446,
-Wichita,17,Attorney General,,DEM,Sam Houston,150,85,
-Wichita,17,Attorney General,,LIB,Jamie Balagia,12,10,
-Wichita,17,Attorney General,,GRN,Jamar Osborne,1,3,
-Wichita,18,Attorney General,,REP,Ken Paxton,555,428,
-Wichita,18,Attorney General,,DEM,Sam Houston,155,109,
-Wichita,18,Attorney General,,LIB,Jamie Balagia,15,11,
-Wichita,18,Attorney General,,GRN,Jamar Osborne,4,1,
-Wichita,20,Attorney General,,REP,Ken Paxton,233,215,
-Wichita,20,Attorney General,,DEM,Sam Houston,120,77,
-Wichita,20,Attorney General,,LIB,Jamie Balagia,6,8,
-Wichita,20,Attorney General,,GRN,Jamar Osborne,1,4,
-Wichita,21,Attorney General,,REP,Ken Paxton,139,229,
-Wichita,21,Attorney General,,DEM,Sam Houston,59,74,
-Wichita,21,Attorney General,,LIB,Jamie Balagia,3,5,
-Wichita,21,Attorney General,,GRN,Jamar Osborne,0,2,
-Wichita,22,Attorney General,,REP,Ken Paxton,106,117,
-Wichita,22,Attorney General,,DEM,Sam Houston,88,61,
-Wichita,22,Attorney General,,LIB,Jamie Balagia,3,13,
-Wichita,22,Attorney General,,GRN,Jamar Osborne,1,0,
-Wichita,23,Attorney General,,REP,Ken Paxton,138,109,
-Wichita,23,Attorney General,,DEM,Sam Houston,24,24,
-Wichita,23,Attorney General,,LIB,Jamie Balagia,1,1,
-Wichita,23,Attorney General,,GRN,Jamar Osborne,2,0,
-Wichita,24,Attorney General,,REP,Ken Paxton,582,506,
-Wichita,24,Attorney General,,DEM,Sam Houston,119,98,
-Wichita,24,Attorney General,,LIB,Jamie Balagia,10,16,
-Wichita,24,Attorney General,,GRN,Jamar Osborne,2,1,
-Wichita,25,Attorney General,,REP,Ken Paxton,398,286,
-Wichita,25,Attorney General,,DEM,Sam Houston,113,81,
-Wichita,25,Attorney General,,LIB,Jamie Balagia,9,11,
-Wichita,25,Attorney General,,GRN,Jamar Osborne,1,4,
-Wichita,26,Attorney General,,REP,Ken Paxton,67,39,
-Wichita,26,Attorney General,,DEM,Sam Houston,37,43,
-Wichita,26,Attorney General,,LIB,Jamie Balagia,2,2,
-Wichita,26,Attorney General,,GRN,Jamar Osborne,1,0,
-Wichita,30,Attorney General,,REP,Ken Paxton,71,59,
-Wichita,30,Attorney General,,DEM,Sam Houston,30,15,
-Wichita,30,Attorney General,,LIB,Jamie Balagia,2,7,
-Wichita,30,Attorney General,,GRN,Jamar Osborne,3,0,
-Wichita,31,Attorney General,,REP,Ken Paxton,159,132,
-Wichita,31,Attorney General,,DEM,Sam Houston,112,81,
-Wichita,31,Attorney General,,LIB,Jamie Balagia,7,15,
-Wichita,31,Attorney General,,GRN,Jamar Osborne,2,3,
-Wichita,32,Attorney General,,REP,Ken Paxton,59,41,
-Wichita,32,Attorney General,,DEM,Sam Houston,130,163,
-Wichita,32,Attorney General,,LIB,Jamie Balagia,2,2,
-Wichita,32,Attorney General,,GRN,Jamar Osborne,1,1,
-Wichita,33,Attorney General,,REP,Ken Paxton,41,55,
-Wichita,33,Attorney General,,DEM,Sam Houston,18,27,
-Wichita,33,Attorney General,,LIB,Jamie Balagia,1,4,
-Wichita,33,Attorney General,,GRN,Jamar Osborne,0,0,
-Wichita,34,Attorney General,,REP,Ken Paxton,27,29,
-Wichita,34,Attorney General,,DEM,Sam Houston,104,102,
-Wichita,34,Attorney General,,LIB,Jamie Balagia,4,1,
-Wichita,34,Attorney General,,GRN,Jamar Osborne,1,3,
-Wichita,35,Attorney General,,REP,Ken Paxton,39,63,
-Wichita,35,Attorney General,,DEM,Sam Houston,8,1,
-Wichita,35,Attorney General,,LIB,Jamie Balagia,0,1,
-Wichita,35,Attorney General,,GRN,Jamar Osborne,0,1,
-Wichita,36,Attorney General,,REP,Ken Paxton,608,532,
-Wichita,36,Attorney General,,DEM,Sam Houston,99,59,
-Wichita,36,Attorney General,,LIB,Jamie Balagia,11,14,
-Wichita,36,Attorney General,,GRN,Jamar Osborne,3,3,
-Wichita,37,Attorney General,,REP,Ken Paxton,273,189,
-Wichita,37,Attorney General,,DEM,Sam Houston,34,23,
-Wichita,37,Attorney General,,LIB,Jamie Balagia,3,3,
-Wichita,37,Attorney General,,GRN,Jamar Osborne,0,0,
-Wichita,38,Attorney General,,REP,Ken Paxton,43,37,
-Wichita,38,Attorney General,,DEM,Sam Houston,116,144,
-Wichita,38,Attorney General,,LIB,Jamie Balagia,2,1,
-Wichita,38,Attorney General,,GRN,Jamar Osborne,1,1,
-Wichita,40,Attorney General,,REP,Ken Paxton,627,328,
-Wichita,40,Attorney General,,DEM,Sam Houston,180,96,
-Wichita,40,Attorney General,,LIB,Jamie Balagia,9,10,
-Wichita,40,Attorney General,,GRN,Jamar Osborne,1,1,
-Wichita,41,Attorney General,,REP,Ken Paxton,358,314,
-Wichita,41,Attorney General,,DEM,Sam Houston,140,85,
-Wichita,41,Attorney General,,LIB,Jamie Balagia,15,13,
-Wichita,41,Attorney General,,GRN,Jamar Osborne,2,1,
-Wichita,42,Attorney General,,REP,Ken Paxton,609,352,
-Wichita,42,Attorney General,,DEM,Sam Houston,102,55,
-Wichita,42,Attorney General,,LIB,Jamie Balagia,11,10,
-Wichita,42,Attorney General,,GRN,Jamar Osborne,4,1,
-Wichita,43,Attorney General,,REP,Ken Paxton,471,382,
-Wichita,43,Attorney General,,DEM,Sam Houston,147,84,
-Wichita,43,Attorney General,,LIB,Jamie Balagia,8,14,
-Wichita,43,Attorney General,,GRN,Jamar Osborne,2,2,
-Wichita,44,Attorney General,,REP,Ken Paxton,356,288,
-Wichita,44,Attorney General,,DEM,Sam Houston,194,120,
-Wichita,44,Attorney General,,LIB,Jamie Balagia,16,16,
-Wichita,44,Attorney General,,GRN,Jamar Osborne,4,5,
-Wichita,45,Attorney General,,REP,Ken Paxton,159,107,
-Wichita,45,Attorney General,,DEM,Sam Houston,25,15,
-Wichita,45,Attorney General,,LIB,Jamie Balagia,1,2,
-Wichita,45,Attorney General,,GRN,Jamar Osborne,1,0,
-Wichita,46,Attorney General,,REP,Ken Paxton,134,113,
-Wichita,46,Attorney General,,DEM,Sam Houston,28,31,
-Wichita,46,Attorney General,,LIB,Jamie Balagia,2,5,
-Wichita,46,Attorney General,,GRN,Jamar Osborne,1,0,
-Wichita,47,Attorney General,,REP,Ken Paxton,82,78,
-Wichita,47,Attorney General,,DEM,Sam Houston,24,16,
-Wichita,47,Attorney General,,LIB,Jamie Balagia,1,0,
-Wichita,47,Attorney General,,GRN,Jamar Osborne,1,0,
-Wichita,10,Comptroller,,REP,Glenn Hegar,,,
-Wichita,10,Comptroller,,DEM,Mike Collier,,,
-Wichita,10,Comptroller,,LIB,Ben Sanders,,,
-Wichita,10,Comptroller,,GRN,Deb Shafto,,,
-Wichita,11,Comptroller,,REP,Glenn Hegar,,,
-Wichita,11,Comptroller,,DEM,Mike Collier,,,
-Wichita,11,Comptroller,,LIB,Ben Sanders,,,
-Wichita,11,Comptroller,,GRN,Deb Shafto,,,
-Wichita,12,Comptroller,,REP,Glenn Hegar,,,
-Wichita,12,Comptroller,,DEM,Mike Collier,,,
-Wichita,12,Comptroller,,LIB,Ben Sanders,,,
-Wichita,12,Comptroller,,GRN,Deb Shafto,,,
-Wichita,13,Comptroller,,REP,Glenn Hegar,,,
-Wichita,13,Comptroller,,DEM,Mike Collier,,,
-Wichita,13,Comptroller,,LIB,Ben Sanders,,,
-Wichita,13,Comptroller,,GRN,Deb Shafto,,,
-Wichita,14,Comptroller,,REP,Glenn Hegar,,,
-Wichita,14,Comptroller,,DEM,Mike Collier,,,
-Wichita,14,Comptroller,,LIB,Ben Sanders,,,
-Wichita,14,Comptroller,,GRN,Deb Shafto,,,
-Wichita,15,Comptroller,,REP,Glenn Hegar,,,
-Wichita,15,Comptroller,,DEM,Mike Collier,,,
-Wichita,15,Comptroller,,LIB,Ben Sanders,,,
-Wichita,15,Comptroller,,GRN,Deb Shafto,,,
-Wichita,16,Comptroller,,REP,Glenn Hegar,,,
-Wichita,16,Comptroller,,DEM,Mike Collier,,,
-Wichita,16,Comptroller,,LIB,Ben Sanders,,,
-Wichita,16,Comptroller,,GRN,Deb Shafto,,,
-Wichita,17,Comptroller,,REP,Glenn Hegar,,,
-Wichita,17,Comptroller,,DEM,Mike Collier,,,
-Wichita,17,Comptroller,,LIB,Ben Sanders,,,
-Wichita,17,Comptroller,,GRN,Deb Shafto,,,
-Wichita,18,Comptroller,,REP,Glenn Hegar,,,
-Wichita,18,Comptroller,,DEM,Mike Collier,,,
-Wichita,18,Comptroller,,LIB,Ben Sanders,,,
-Wichita,18,Comptroller,,GRN,Deb Shafto,,,
-Wichita,20,Comptroller,,REP,Glenn Hegar,,,
-Wichita,20,Comptroller,,DEM,Mike Collier,,,
-Wichita,20,Comptroller,,LIB,Ben Sanders,,,
-Wichita,20,Comptroller,,GRN,Deb Shafto,,,
-Wichita,21,Comptroller,,REP,Glenn Hegar,,,
-Wichita,21,Comptroller,,DEM,Mike Collier,,,
-Wichita,21,Comptroller,,LIB,Ben Sanders,,,
-Wichita,21,Comptroller,,GRN,Deb Shafto,,,
-Wichita,22,Comptroller,,REP,Glenn Hegar,,,
-Wichita,22,Comptroller,,DEM,Mike Collier,,,
-Wichita,22,Comptroller,,LIB,Ben Sanders,,,
-Wichita,22,Comptroller,,GRN,Deb Shafto,,,
-Wichita,23,Comptroller,,REP,Glenn Hegar,,,
-Wichita,23,Comptroller,,DEM,Mike Collier,,,
-Wichita,23,Comptroller,,LIB,Ben Sanders,,,
-Wichita,23,Comptroller,,GRN,Deb Shafto,,,
-Wichita,24,Comptroller,,REP,Glenn Hegar,,,
-Wichita,24,Comptroller,,DEM,Mike Collier,,,
-Wichita,24,Comptroller,,LIB,Ben Sanders,,,
-Wichita,24,Comptroller,,GRN,Deb Shafto,,,
-Wichita,25,Comptroller,,REP,Glenn Hegar,,,
-Wichita,25,Comptroller,,DEM,Mike Collier,,,
-Wichita,25,Comptroller,,LIB,Ben Sanders,,,
-Wichita,25,Comptroller,,GRN,Deb Shafto,,,
-Wichita,26,Comptroller,,REP,Glenn Hegar,,,
-Wichita,26,Comptroller,,DEM,Mike Collier,,,
-Wichita,26,Comptroller,,LIB,Ben Sanders,,,
-Wichita,26,Comptroller,,GRN,Deb Shafto,,,
-Wichita,30,Comptroller,,REP,Glenn Hegar,,,
-Wichita,30,Comptroller,,DEM,Mike Collier,,,
-Wichita,30,Comptroller,,LIB,Ben Sanders,,,
-Wichita,30,Comptroller,,GRN,Deb Shafto,,,
-Wichita,31,Comptroller,,REP,Glenn Hegar,,,
-Wichita,31,Comptroller,,DEM,Mike Collier,,,
-Wichita,31,Comptroller,,LIB,Ben Sanders,,,
-Wichita,31,Comptroller,,GRN,Deb Shafto,,,
-Wichita,32,Comptroller,,REP,Glenn Hegar,,,
-Wichita,32,Comptroller,,DEM,Mike Collier,,,
-Wichita,32,Comptroller,,LIB,Ben Sanders,,,
-Wichita,32,Comptroller,,GRN,Deb Shafto,,,
-Wichita,33,Comptroller,,REP,Glenn Hegar,,,
-Wichita,33,Comptroller,,DEM,Mike Collier,,,
-Wichita,33,Comptroller,,LIB,Ben Sanders,,,
-Wichita,33,Comptroller,,GRN,Deb Shafto,,,
-Wichita,34,Comptroller,,REP,Glenn Hegar,,,
-Wichita,34,Comptroller,,DEM,Mike Collier,,,
-Wichita,34,Comptroller,,LIB,Ben Sanders,,,
-Wichita,34,Comptroller,,GRN,Deb Shafto,,,
-Wichita,35,Comptroller,,REP,Glenn Hegar,,,
-Wichita,35,Comptroller,,DEM,Mike Collier,,,
-Wichita,35,Comptroller,,LIB,Ben Sanders,,,
-Wichita,35,Comptroller,,GRN,Deb Shafto,,,
-Wichita,36,Comptroller,,REP,Glenn Hegar,,,
-Wichita,36,Comptroller,,DEM,Mike Collier,,,
-Wichita,36,Comptroller,,LIB,Ben Sanders,,,
-Wichita,36,Comptroller,,GRN,Deb Shafto,,,
-Wichita,37,Comptroller,,REP,Glenn Hegar,,,
-Wichita,37,Comptroller,,DEM,Mike Collier,,,
-Wichita,37,Comptroller,,LIB,Ben Sanders,,,
-Wichita,37,Comptroller,,GRN,Deb Shafto,,,
-Wichita,38,Comptroller,,REP,Glenn Hegar,,,
-Wichita,38,Comptroller,,DEM,Mike Collier,,,
-Wichita,38,Comptroller,,LIB,Ben Sanders,,,
-Wichita,38,Comptroller,,GRN,Deb Shafto,,,
-Wichita,40,Comptroller,,REP,Glenn Hegar,,,
-Wichita,40,Comptroller,,DEM,Mike Collier,,,
-Wichita,40,Comptroller,,LIB,Ben Sanders,,,
-Wichita,40,Comptroller,,GRN,Deb Shafto,,,
-Wichita,41,Comptroller,,REP,Glenn Hegar,,,
-Wichita,41,Comptroller,,DEM,Mike Collier,,,
-Wichita,41,Comptroller,,LIB,Ben Sanders,,,
-Wichita,41,Comptroller,,GRN,Deb Shafto,,,
-Wichita,42,Comptroller,,REP,Glenn Hegar,,,
-Wichita,42,Comptroller,,DEM,Mike Collier,,,
-Wichita,42,Comptroller,,LIB,Ben Sanders,,,
-Wichita,42,Comptroller,,GRN,Deb Shafto,,,
-Wichita,43,Comptroller,,REP,Glenn Hegar,,,
-Wichita,43,Comptroller,,DEM,Mike Collier,,,
-Wichita,43,Comptroller,,LIB,Ben Sanders,,,
-Wichita,43,Comptroller,,GRN,Deb Shafto,,,
-Wichita,44,Comptroller,,REP,Glenn Hegar,,,
-Wichita,44,Comptroller,,DEM,Mike Collier,,,
-Wichita,44,Comptroller,,LIB,Ben Sanders,,,
-Wichita,44,Comptroller,,GRN,Deb Shafto,,,
-Wichita,45,Comptroller,,REP,Glenn Hegar,,,
-Wichita,45,Comptroller,,DEM,Mike Collier,,,
-Wichita,45,Comptroller,,LIB,Ben Sanders,,,
-Wichita,45,Comptroller,,GRN,Deb Shafto,,,
-Wichita,46,Comptroller,,REP,Glenn Hegar,,,
-Wichita,46,Comptroller,,DEM,Mike Collier,,,
-Wichita,46,Comptroller,,LIB,Ben Sanders,,,
-Wichita,46,Comptroller,,GRN,Deb Shafto,,,
-Wichita,47,Comptroller,,REP,Glenn Hegar,,,
-Wichita,47,Comptroller,,DEM,Mike Collier,,,
-Wichita,47,Comptroller,,LIB,Ben Sanders,,,
-Wichita,47,Comptroller,,GRN,Deb Shafto,,,
+Wichita,10,Straight Party,,,Republican,42,30,72
+Wichita,11,Straight Party,,,Republican,174,103,277
+Wichita,12,Straight Party,,,Republican,352,304,656
+Wichita,13,Straight Party,,,Republican,268,126,394
+Wichita,14,Straight Party,,,Republican,325,172,497
+Wichita,15,Straight Party,,,Republican,78,72,150
+Wichita,16,Straight Party,,,Republican,13,4,17
+Wichita,17,Straight Party,,,Republican,420,285,705
+Wichita,18,Straight Party,,,Republican,371,272,643
+Wichita,20,Straight Party,,,Republican,154,121,275
+Wichita,21,Straight Party,,,Republican,91,142,233
+Wichita,22,Straight Party,,,Republican,74,71,145
+Wichita,23,Straight Party,,,Republican,103,75,178
+Wichita,24,Straight Party,,,Republican,369,296,665
+Wichita,25,Straight Party,,,Republican,239,187,426
+Wichita,26,Straight Party,,,Republican,48,23,71
+Wichita,30,Straight Party,,,Republican,56,34,90
+Wichita,31,Straight Party,,,Republican,112,86,198
+Wichita,32,Straight Party,,,Republican,32,22,54
+Wichita,33,Straight Party,,,Republican,28,33,61
+Wichita,34,Straight Party,,,Republican,19,15,34
+Wichita,35,Straight Party,,,Republican,26,38,64
+Wichita,36,Straight Party,,,Republican,379,323,702
+Wichita,37,Straight Party,,,Republican,203,122,325
+Wichita,38,Straight Party,,,Republican,29,20,49
+Wichita,40,Straight Party,,,Republican,436,207,643
+Wichita,41,Straight Party,,,Republican,236,194,430
+Wichita,42,Straight Party,,,Republican,406,215,621
+Wichita,43,Straight Party,,,Republican,302,246,548
+Wichita,44,Straight Party,,,Republican,238,184,422
+Wichita,45,Straight Party,,,Republican,105,59,164
+Wichita,46,Straight Party,,,Republican,88,70,158
+Wichita,47,Straight Party,,,Republican,55,53,108
+Wichita,10,Straight Party,,,Democratic,6,3,9
+Wichita,11,Straight Party,,,Democratic,30,17,47
+Wichita,12,Straight Party,,,Democratic,65,43,108
+Wichita,13,Straight Party,,,Democratic,47,11,58
+Wichita,14,Straight Party,,,Democratic,73,51,124
+Wichita,15,Straight Party,,,Democratic,2,10,12
+Wichita,16,Straight Party,,,Democratic,1,0,1
+Wichita,17,Straight Party,,,Democratic,66,43,109
+Wichita,18,Straight Party,,,Democratic,75,53,128
+Wichita,20,Straight Party,,,Democratic,64,40,104
+Wichita,21,Straight Party,,,Democratic,42,39,81
+Wichita,22,Straight Party,,,Democratic,58,43,101
+Wichita,23,Straight Party,,,Democratic,13,16,29
+Wichita,24,Straight Party,,,Democratic,48,37,85
+Wichita,25,Straight Party,,,Democratic,53,42,95
+Wichita,26,Straight Party,,,Democratic,25,35,60
+Wichita,30,Straight Party,,,Democratic,15,8,23
+Wichita,31,Straight Party,,,Democratic,64,54,118
+Wichita,32,Straight Party,,,Democratic,101,138,239
+Wichita,33,Straight Party,,,Democratic,8,13,21
+Wichita,34,Straight Party,,,Democratic,83,83,166
+Wichita,35,Straight Party,,,Democratic,7,2,9
+Wichita,36,Straight Party,,,Democratic,44,22,66
+Wichita,37,Straight Party,,,Democratic,15,8,23
+Wichita,38,Straight Party,,,Democratic,95,121,216
+Wichita,40,Straight Party,,,Democratic,81,46,127
+Wichita,41,Straight Party,,,Democratic,79,37,116
+Wichita,42,Straight Party,,,Democratic,42,21,63
+Wichita,43,Straight Party,,,Democratic,75,29,104
+Wichita,44,Straight Party,,,Democratic,102,56,158
+Wichita,45,Straight Party,,,Democratic,6,0,6
+Wichita,46,Straight Party,,,Democratic,10,14,24
+Wichita,47,Straight Party,,,Democratic,10,11,21
+Wichita,10,Straight Party,,,Libertarian,0,1,1
+Wichita,11,Straight Party,,,Libertarian,2,1,3
+Wichita,12,Straight Party,,,Libertarian,2,1,3
+Wichita,13,Straight Party,,,Libertarian,0,1,1
+Wichita,14,Straight Party,,,Libertarian,1,2,3
+Wichita,15,Straight Party,,,Libertarian,1,0,1
+Wichita,16,Straight Party,,,Libertarian,0,0,0
+Wichita,17,Straight Party,,,Libertarian,1,2,3
+Wichita,18,Straight Party,,,Libertarian,1,5,6
+Wichita,20,Straight Party,,,Libertarian,1,2,3
+Wichita,21,Straight Party,,,Libertarian,1,1,2
+Wichita,22,Straight Party,,,Libertarian,0,5,5
+Wichita,23,Straight Party,,,Libertarian,0,0,0
+Wichita,24,Straight Party,,,Libertarian,2,1,3
+Wichita,25,Straight Party,,,Libertarian,2,1,3
+Wichita,26,Straight Party,,,Libertarian,0,1,1
+Wichita,30,Straight Party,,,Libertarian,0,1,1
+Wichita,31,Straight Party,,,Libertarian,0,5,5
+Wichita,32,Straight Party,,,Libertarian,1,1,2
+Wichita,33,Straight Party,,,Libertarian,0,0,0
+Wichita,34,Straight Party,,,Libertarian,0,0,0
+Wichita,35,Straight Party,,,Libertarian,0,0,0
+Wichita,36,Straight Party,,,Libertarian,1,0,1
+Wichita,37,Straight Party,,,Libertarian,1,0,1
+Wichita,38,Straight Party,,,Libertarian,1,0,1
+Wichita,40,Straight Party,,,Libertarian,2,4,6
+Wichita,41,Straight Party,,,Libertarian,2,3,5
+Wichita,42,Straight Party,,,Libertarian,3,2,5
+Wichita,43,Straight Party,,,Libertarian,1,6,7
+Wichita,44,Straight Party,,,Libertarian,0,6,6
+Wichita,45,Straight Party,,,Libertarian,0,2,2
+Wichita,46,Straight Party,,,Libertarian,0,1,1
+Wichita,47,Straight Party,,,Libertarian,0,0,0
+Wichita,10,Straight Party,,,Green,0,0,0
+Wichita,11,Straight Party,,,Green,0,0,0
+Wichita,12,Straight Party,,,Green,0,0,0
+Wichita,13,Straight Party,,,Green,1,0,1
+Wichita,14,Straight Party,,,Green,1,0,1
+Wichita,15,Straight Party,,,Green,0,0,0
+Wichita,16,Straight Party,,,Green,0,0,0
+Wichita,17,Straight Party,,,Green,0,2,2
+Wichita,18,Straight Party,,,Green,2,0,2
+Wichita,20,Straight Party,,,Green,0,1,1
+Wichita,21,Straight Party,,,Green,1,1,2
+Wichita,22,Straight Party,,,Green,0,0,0
+Wichita,23,Straight Party,,,Green,0,0,0
+Wichita,24,Straight Party,,,Green,2,0,2
+Wichita,25,Straight Party,,,Green,1,1,2
+Wichita,26,Straight Party,,,Green,1,0,1
+Wichita,30,Straight Party,,,Green,0,0,0
+Wichita,31,Straight Party,,,Green,1,1,2
+Wichita,32,Straight Party,,,Green,0,0,0
+Wichita,33,Straight Party,,,Green,0,0,0
+Wichita,34,Straight Party,,,Green,0,0,0
+Wichita,35,Straight Party,,,Green,0,0,0
+Wichita,36,Straight Party,,,Green,1,1,2
+Wichita,37,Straight Party,,,Green,0,0,0
+Wichita,38,Straight Party,,,Green,0,0,0
+Wichita,40,Straight Party,,,Green,0,0,0
+Wichita,41,Straight Party,,,Green,1,1,2
+Wichita,42,Straight Party,,,Green,1,0,1
+Wichita,43,Straight Party,,,Green,1,1,2
+Wichita,44,Straight Party,,,Green,1,0,1
+Wichita,45,Straight Party,,,Green,0,0,0
+Wichita,46,Straight Party,,,Green,0,0,0
+Wichita,47,Straight Party,,,Green,1,0,1
+Wichita,10,U.S. Senate,,REP,John Cornyn,68,33,101
+Wichita,10,U.S. Senate,,DEM,David M. Alameel,14,6,20
+Wichita,10,U.S. Senate,,LIB,Rebecca Paddock,6,2,8
+Wichita,10,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",0,1,1
+Wichita,11,U.S. Senate,,REP,John Cornyn,207,189,396
+Wichita,11,U.S. Senate,,DEM,David M. Alameel,62,34,96
+Wichita,11,U.S. Senate,,LIB,Rebecca Paddock,9,3,12
+Wichita,11,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",0,2,2
+Wichita,12,U.S. Senate,,REP,John Cornyn,567,524,1091
+Wichita,12,U.S. Senate,,DEM,David M. Alameel,109,77,186
+Wichita,12,U.S. Senate,,LIB,Rebecca Paddock,16,18,34
+Wichita,12,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",4,5,9
+Wichita,13,U.S. Senate,,REP,John Cornyn,392,206,598
+Wichita,13,U.S. Senate,,DEM,David M. Alameel,74,31,105
+Wichita,13,U.S. Senate,,LIB,Rebecca Paddock,4,5,9
+Wichita,13,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",2,1,3
+Wichita,14,U.S. Senate,,REP,John Cornyn,507,308,815
+Wichita,14,U.S. Senate,,DEM,David M. Alameel,129,91,220
+Wichita,14,U.S. Senate,,LIB,Rebecca Paddock,11,8,19
+Wichita,14,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",6,4,10
+Wichita,15,U.S. Senate,,REP,John Cornyn,119,116,235
+Wichita,15,U.S. Senate,,DEM,David M. Alameel,6,15,21
+Wichita,15,U.S. Senate,,LIB,Rebecca Paddock,2,1,3
+Wichita,15,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",3,0,3
+Wichita,16,U.S. Senate,,REP,John Cornyn,23,8,31
+Wichita,16,U.S. Senate,,DEM,David M. Alameel,2,0,2
+Wichita,16,U.S. Senate,,LIB,Rebecca Paddock,0,0,0
+Wichita,16,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",0,0,0
+Wichita,17,U.S. Senate,,REP,John Cornyn,636,453,1089
+Wichita,17,U.S. Senate,,DEM,David M. Alameel,124,75,199
+Wichita,17,U.S. Senate,,LIB,Rebecca Paddock,13,14,27
+Wichita,17,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",3,4,7
+Wichita,18,U.S. Senate,,REP,John Cornyn,562,440,1002
+Wichita,18,U.S. Senate,,DEM,David M. Alameel,131,82,213
+Wichita,18,U.S. Senate,,LIB,Rebecca Paddock,22,15,37
+Wichita,18,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",3,4,7
+Wichita,20,U.S. Senate,,REP,John Cornyn,236,221,457
+Wichita,20,U.S. Senate,,DEM,David M. Alameel,107,68,175
+Wichita,20,U.S. Senate,,LIB,Rebecca Paddock,5,8,13
+Wichita,20,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",3,5,8
+Wichita,21,U.S. Senate,,REP,John Cornyn,139,229,368
+Wichita,21,U.S. Senate,,DEM,David M. Alameel,55,60,115
+Wichita,21,U.S. Senate,,LIB,Rebecca Paddock,5,7,12
+Wichita,21,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",3,3,6
+Wichita,22,U.S. Senate,,REP,John Cornyn,115,119,234
+Wichita,22,U.S. Senate,,DEM,David M. Alameel,76,55,131
+Wichita,22,U.S. Senate,,LIB,Rebecca Paddock,4,7,11
+Wichita,22,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",1,3,4
+Wichita,23,U.S. Senate,,REP,John Cornyn,134,107,241
+Wichita,23,U.S. Senate,,DEM,David M. Alameel,19,21,40
+Wichita,23,U.S. Senate,,LIB,Rebecca Paddock,6,4,10
+Wichita,23,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",0,0,0
+Wichita,24,U.S. Senate,,REP,John Cornyn,605,523,1128
+Wichita,24,U.S. Senate,,DEM,David M. Alameel,92,75,167
+Wichita,24,U.S. Senate,,LIB,Rebecca Paddock,15,16,31
+Wichita,24,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",1,4,5
+Wichita,25,U.S. Senate,,REP,John Cornyn,406,293,699
+Wichita,25,U.S. Senate,,DEM,David M. Alameel,91,61,152
+Wichita,25,U.S. Senate,,LIB,Rebecca Paddock,14,12,26
+Wichita,25,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",2,3,5
+Wichita,26,U.S. Senate,,REP,John Cornyn,70,41,111
+Wichita,26,U.S. Senate,,DEM,David M. Alameel,36,38,74
+Wichita,26,U.S. Senate,,LIB,Rebecca Paddock,1,2,3
+Wichita,26,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",1,1,2
+Wichita,30,U.S. Senate,,REP,John Cornyn,74,58,132
+Wichita,30,U.S. Senate,,DEM,David M. Alameel,25,12,37
+Wichita,30,U.S. Senate,,LIB,Rebecca Paddock,4,8,12
+Wichita,30,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",1,1,2
+Wichita,31,U.S. Senate,,REP,John Cornyn,159,142,301
+Wichita,31,U.S. Senate,,DEM,David M. Alameel,101,66,167
+Wichita,31,U.S. Senate,,LIB,Rebecca Paddock,10,16,26
+Wichita,31,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",4,2,6
+Wichita,32,U.S. Senate,,REP,John Cornyn,60,45,105
+Wichita,32,U.S. Senate,,DEM,David M. Alameel,116,155,271
+Wichita,32,U.S. Senate,,LIB,Rebecca Paddock,4,4,8
+Wichita,32,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",4,2,6
+Wichita,33,U.S. Senate,,REP,John Cornyn,40,55,95
+Wichita,33,U.S. Senate,,DEM,David M. Alameel,16,22,38
+Wichita,33,U.S. Senate,,LIB,Rebecca Paddock,3,5,8
+Wichita,33,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",0,2,2
+Wichita,34,U.S. Senate,,REP,John Cornyn,30,31,61
+Wichita,34,U.S. Senate,,DEM,David M. Alameel,97,98,195
+Wichita,34,U.S. Senate,,LIB,Rebecca Paddock,5,1,6
+Wichita,34,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",2,3,5
+Wichita,35,U.S. Senate,,REP,John Cornyn,38,64,102
+Wichita,35,U.S. Senate,,DEM,David M. Alameel,7,5,12
+Wichita,35,U.S. Senate,,LIB,Rebecca Paddock,1,4,5
+Wichita,35,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",0,1,1
+Wichita,36,U.S. Senate,,REP,John Cornyn,614,534,1148
+Wichita,36,U.S. Senate,,DEM,David M. Alameel,80,40,120
+Wichita,36,U.S. Senate,,LIB,Rebecca Paddock,14,23,37
+Wichita,36,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",3,2,5
+Wichita,37,U.S. Senate,,REP,John Cornyn,270,188,458
+Wichita,37,U.S. Senate,,DEM,David M. Alameel,22,17,39
+Wichita,37,U.S. Senate,,LIB,Rebecca Paddock,5,5,10
+Wichita,37,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",0,1,1
+Wichita,38,U.S. Senate,,REP,John Cornyn,43,38,81
+Wichita,38,U.S. Senate,,DEM,David M. Alameel,108,134,242
+Wichita,38,U.S. Senate,,LIB,Rebecca Paddock,1,2,3
+Wichita,38,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",2,1,3
+Wichita,40,U.S. Senate,,REP,John Cornyn,643,347,990
+Wichita,40,U.S. Senate,,DEM,David M. Alameel,144,70,214
+Wichita,40,U.S. Senate,,LIB,Rebecca Paddock,16,16,32
+Wichita,40,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",6,2,8
+Wichita,41,U.S. Senate,,REP,John Cornyn,368,318,686
+Wichita,41,U.S. Senate,,DEM,David M. Alameel,125,68,193
+Wichita,41,U.S. Senate,,LIB,Rebecca Paddock,16,18,34
+Wichita,41,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",2,4,6
+Wichita,42,U.S. Senate,,REP,John Cornyn,617,361,978
+Wichita,42,U.S. Senate,,DEM,David M. Alameel,78,45,123
+Wichita,42,U.S. Senate,,LIB,Rebecca Paddock,18,7,25
+Wichita,42,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",3,1,4
+Wichita,43,U.S. Senate,,REP,John Cornyn,485,390,875
+Wichita,43,U.S. Senate,,DEM,David M. Alameel,127,70,197
+Wichita,43,U.S. Senate,,LIB,Rebecca Paddock,10,14,24
+Wichita,43,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",3,6,9
+Wichita,44,U.S. Senate,,REP,John Cornyn,368,296,664
+Wichita,44,U.S. Senate,,DEM,David M. Alameel,175,95,270
+Wichita,44,U.S. Senate,,LIB,Rebecca Paddock,14,24,38
+Wichita,44,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",4,5,9
+Wichita,45,U.S. Senate,,REP,John Cornyn,165,110,275
+Wichita,45,U.S. Senate,,DEM,David M. Alameel,15,6,21
+Wichita,45,U.S. Senate,,LIB,Rebecca Paddock,1,5,6
+Wichita,45,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",4,1,5
+Wichita,46,U.S. Senate,,REP,John Cornyn,138,118,256
+Wichita,46,U.S. Senate,,DEM,David M. Alameel,19,24,43
+Wichita,46,U.S. Senate,,LIB,Rebecca Paddock,4,5,9
+Wichita,46,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",1,0,1
+Wichita,47,U.S. Senate,,REP,John Cornyn,86,80,166
+Wichita,47,U.S. Senate,,DEM,David M. Alameel,21,14,35
+Wichita,47,U.S. Senate,,LIB,Rebecca Paddock,0,1,1
+Wichita,47,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",1,0,1
+Wichita,10,U.S. House,13,REP,Mac Thornberry,69,34,103
+Wichita,10,U.S. House,13,DEM,Mike Minter,14,7,21
+Wichita,10,U.S. House,13,LIB,Emily Pivoda,3,3,6
+Wichita,10,U.S. House,13,GRN,Don Cook,2,0,2
+Wichita,11,U.S. House,13,REP,Mac Thornberry,291,199,490
+Wichita,11,U.S. House,13,DEM,Mike Minter,51,31,82
+Wichita,11,U.S. House,13,LIB,Emily Pivoda,6,4,10
+Wichita,11,U.S. House,13,GRN,Don Cook,1,0,1
+Wichita,12,U.S. House,13,REP,Mac Thornberry,560,552,1112
+Wichita,12,U.S. House,13,DEM,Mike Minter,119,69,188
+Wichita,12,U.S. House,13,LIB,Emily Pivoda,16,11,27
+Wichita,12,U.S. House,13,GRN,Don Cook,5,3,8
+Wichita,13,U.S. House,13,REP,Mac Thornberry,393,209,602
+Wichita,13,U.S. House,13,DEM,Mike Minter,77,29,106
+Wichita,13,U.S. House,13,LIB,Emily Pivoda,3,9,12
+Wichita,13,U.S. House,13,GRN,Don Cook,3,0,3
+Wichita,14,U.S. House,13,REP,Mac Thornberry,522,319,841
+Wichita,14,U.S. House,13,DEM,Mike Minter,127,84,211
+Wichita,14,U.S. House,13,LIB,Emily Pivoda,10,8,18
+Wichita,14,U.S. House,13,GRN,Don Cook,3,4,7
+Wichita,15,U.S. House,13,REP,Mac Thornberry,119,115,234
+Wichita,15,U.S. House,13,DEM,Mike Minter,7,18,25
+Wichita,15,U.S. House,13,LIB,Emily Pivoda,3,1,4
+Wichita,15,U.S. House,13,GRN,Don Cook,3,1,4
+Wichita,16,U.S. House,13,REP,Mac Thornberry,24,8,32
+Wichita,16,U.S. House,13,DEM,Mike Minter,1,0,1
+Wichita,16,U.S. House,13,LIB,Emily Pivoda,0,0,0
+Wichita,16,U.S. House,13,GRN,Don Cook,0,0,0
+Wichita,17,U.S. House,13,REP,Mac Thornberry,643,460,1103
+Wichita,17,U.S. House,13,DEM,Mike Minter,125,76,201
+Wichita,17,U.S. House,13,LIB,Emily Pivoda,14,9,23
+Wichita,17,U.S. House,13,GRN,Don Cook,1,3,4
+Wichita,18,U.S. House,13,REP,Mac Thornberry,572,451,1023
+Wichita,18,U.S. House,13,DEM,Mike Minter,133,86,219
+Wichita,18,U.S. House,13,LIB,Emily Pivoda,18,13,31
+Wichita,18,U.S. House,13,GRN,Don Cook,7,2,9
+Wichita,20,U.S. House,13,REP,Mac Thornberry,236,222,458
+Wichita,20,U.S. House,13,DEM,Mike Minter,111,74,185
+Wichita,20,U.S. House,13,LIB,Emily Pivoda,4,5,9
+Wichita,20,U.S. House,13,GRN,Don Cook,4,6,10
+Wichita,21,U.S. House,13,REP,Mac Thornberry,143,239,382
+Wichita,21,U.S. House,13,DEM,Mike Minter,54,60,114
+Wichita,21,U.S. House,13,LIB,Emily Pivoda,6,7,13
+Wichita,21,U.S. House,13,GRN,Don Cook,4,3,7
+Wichita,22,U.S. House,13,REP,Mac Thornberry,114,124,238
+Wichita,22,U.S. House,13,DEM,Mike Minter,79,52,131
+Wichita,22,U.S. House,13,LIB,Emily Pivoda,4,8,12
+Wichita,22,U.S. House,13,GRN,Don Cook,2,5,7
+Wichita,23,U.S. House,13,REP,Mac Thornberry,132,109,241
+Wichita,23,U.S. House,13,DEM,Mike Minter,20,19,39
+Wichita,23,U.S. House,13,LIB,Emily Pivoda,5,3,8
+Wichita,23,U.S. House,13,GRN,Don Cook,2,2,4
+Wichita,24,U.S. House,13,REP,Mac Thornberry,607,538,1145
+Wichita,24,U.S. House,13,DEM,Mike Minter,91,71,162
+Wichita,24,U.S. House,13,LIB,Emily Pivoda,16,11,27
+Wichita,24,U.S. House,13,GRN,Don Cook,4,4,8
+Wichita,25,U.S. House,13,REP,Mac Thornberry,422,305,727
+Wichita,25,U.S. House,13,DEM,Mike Minter,94,64,158
+Wichita,25,U.S. House,13,LIB,Emily Pivoda,8,9,17
+Wichita,25,U.S. House,13,GRN,Don Cook,2,2,4
+Wichita,26,U.S. House,13,REP,Mac Thornberry,68,43,111
+Wichita,26,U.S. House,13,DEM,Mike Minter,38,39,77
+Wichita,26,U.S. House,13,LIB,Emily Pivoda,1,1,2
+Wichita,26,U.S. House,13,GRN,Don Cook,1,0,1
+Wichita,30,U.S. House,13,REP,Mac Thornberry,76,63,139
+Wichita,30,U.S. House,13,DEM,Mike Minter,26,12,38
+Wichita,30,U.S. House,13,LIB,Emily Pivoda,4,6,10
+Wichita,30,U.S. House,13,GRN,Don Cook,3,0,3
+Wichita,31,U.S. House,13,REP,Mac Thornberry,168,141,309
+Wichita,31,U.S. House,13,DEM,Mike Minter,101,71,172
+Wichita,31,U.S. House,13,LIB,Emily Pivoda,8,13,21
+Wichita,31,U.S. House,13,GRN,Don Cook,4,3,7
+Wichita,32,U.S. House,13,REP,Mac Thornberry,63,49,112
+Wichita,32,U.S. House,13,DEM,Mike Minter,120,155,275
+Wichita,32,U.S. House,13,LIB,Emily Pivoda,4,2,6
+Wichita,32,U.S. House,13,GRN,Don Cook,2,2,4
+Wichita,33,U.S. House,13,REP,Mac Thornberry,41,60,101
+Wichita,33,U.S. House,13,DEM,Mike Minter,16,20,36
+Wichita,33,U.S. House,13,LIB,Emily Pivoda,3,5,8
+Wichita,33,U.S. House,13,GRN,Don Cook,0,1,1
+Wichita,34,U.S. House,13,REP,Mac Thornberry,32,32,64
+Wichita,34,U.S. House,13,DEM,Mike Minter,102,100,202
+Wichita,34,U.S. House,13,LIB,Emily Pivoda,2,3,5
+Wichita,34,U.S. House,13,GRN,Don Cook,0,0,0
+Wichita,35,U.S. House,13,REP,Mac Thornberry,37,66,103
+Wichita,35,U.S. House,13,DEM,Mike Minter,8,4,12
+Wichita,35,U.S. House,13,LIB,Emily Pivoda,0,2,2
+Wichita,35,U.S. House,13,GRN,Don Cook,0,1,1
+Wichita,36,U.S. House,13,REP,Mac Thornberry,624,542,1166
+Wichita,36,U.S. House,13,DEM,Mike Minter,79,41,120
+Wichita,36,U.S. House,13,LIB,Emily Pivoda,16,15,31
+Wichita,36,U.S. House,13,GRN,Don Cook,3,4,7
+Wichita,37,U.S. House,13,REP,Mac Thornberry,271,195,466
+Wichita,37,U.S. House,13,DEM,Mike Minter,28,15,43
+Wichita,37,U.S. House,13,LIB,Emily Pivoda,7,4,11
+Wichita,37,U.S. House,13,GRN,Don Cook,3,1,4
+Wichita,38,U.S. House,13,REP,Mac Thornberry,49,39,88
+Wichita,38,U.S. House,13,DEM,Mike Minter,110,141,251
+Wichita,38,U.S. House,13,LIB,Emily Pivoda,1,1,2
+Wichita,38,U.S. House,13,GRN,Don Cook,2,1,3
+Wichita,40,U.S. House,13,REP,Mac Thornberry,655,345,1000
+Wichita,40,U.S. House,13,DEM,Mike Minter,154,75,229
+Wichita,40,U.S. House,13,LIB,Emily Pivoda,12,16,28
+Wichita,40,U.S. House,13,GRN,Don Cook,3,2,5
+Wichita,41,U.S. House,13,REP,Mac Thornberry,369,329,698
+Wichita,41,U.S. House,13,DEM,Mike Minter,123,63,186
+Wichita,41,U.S. House,13,LIB,Emily Pivoda,14,16,30
+Wichita,41,U.S. House,13,GRN,Don Cook,8,3,11
+Wichita,42,U.S. House,13,REP,Mac Thornberry,624,367,991
+Wichita,42,U.S. House,13,DEM,Mike Minter,92,43,135
+Wichita,42,U.S. House,13,LIB,Emily Pivoda,9,7,16
+Wichita,42,U.S. House,13,GRN,Don Cook,4,3,7
+Wichita,43,U.S. House,13,REP,Mac Thornberry,489,401,890
+Wichita,43,U.S. House,13,DEM,Mike Minter,125,65,190
+Wichita,43,U.S. House,13,LIB,Emily Pivoda,11,14,25
+Wichita,43,U.S. House,13,GRN,Don Cook,3,1,4
+Wichita,44,U.S. House,13,REP,Mac Thornberry,382,313,695
+Wichita,44,U.S. House,13,DEM,Mike Minter,176,97,273
+Wichita,44,U.S. House,13,LIB,Emily Pivoda,10,14,24
+Wichita,44,U.S. House,13,GRN,Don Cook,4,5,9
+Wichita,45,U.S. House,13,REP,Mac Thornberry,164,111,275
+Wichita,45,U.S. House,13,DEM,Mike Minter,16,7,23
+Wichita,45,U.S. House,13,LIB,Emily Pivoda,2,4,6
+Wichita,45,U.S. House,13,GRN,Don Cook,2,3,5
+Wichita,46,U.S. House,13,REP,Mac Thornberry,138,123,261
+Wichita,46,U.S. House,13,DEM,Mike Minter,23,21,44
+Wichita,46,U.S. House,13,LIB,Emily Pivoda,5,4,9
+Wichita,46,U.S. House,13,GRN,Don Cook,2,1,3
+Wichita,47,U.S. House,13,REP,Mac Thornberry,88,84,172
+Wichita,47,U.S. House,13,DEM,Mike Minter,21,11,32
+Wichita,47,U.S. House,13,LIB,Emily Pivoda,0,0,0
+Wichita,47,U.S. House,13,GRN,Don Cook,1,0,1
+Wichita,10,Governor,,REP,Greg Abbott,76,36,112
+Wichita,10,Governor,,DEM,Wendy R. Davis,14,5,19
+Wichita,10,Governor,,LIB,Kathie Glass,0,2,2
+Wichita,10,Governor,,GRN,Brandon Parmer,0,0,0
+Wichita,11,Governor,,REP,Greg Abbott,272,187,459
+Wichita,11,Governor,,DEM,Wendy R. Davis,74,42,116
+Wichita,11,Governor,,LIB,Kathie Glass,6,5,11
+Wichita,11,Governor,,GRN,Brandon Parmer,0,0,0
+Wichita,12,Governor,,REP,Greg Abbott,559,527,1086
+Wichita,12,Governor,,DEM,Wendy R. Davis,137,99,236
+Wichita,12,Governor,,LIB,Kathie Glass,8,7,15
+Wichita,12,Governor,,GRN,Brandon Parmer,0,3,3
+Wichita,13,Governor,,REP,Greg Abbott,391,207,598
+Wichita,13,Governor,,DEM,Wendy R. Davis,86,38,124
+Wichita,13,Governor,,LIB,Kathie Glass,0,3,3
+Wichita,13,Governor,,GRN,Brandon Parmer,0,0,0
+Wichita,14,Governor,,REP,Greg Abbott,518,306,824
+Wichita,14,Governor,,DEM,Wendy R. Davis,136,103,239
+Wichita,14,Governor,,LIB,Kathie Glass,11,5,16
+Wichita,14,Governor,,GRN,Brandon Parmer,1,0,1
+Wichita,15,Governor,,REP,Greg Abbott,122,113,235
+Wichita,15,Governor,,DEM,Wendy R. Davis,9,20,29
+Wichita,15,Governor,,LIB,Kathie Glass,1,1,2
+Wichita,15,Governor,,GRN,Brandon Parmer,0,0,0
+Wichita,16,Governor,,REP,Greg Abbott,25,8,33
+Wichita,16,Governor,,DEM,Wendy R. Davis,0,0,0
+Wichita,16,Governor,,LIB,Kathie Glass,0,0,0
+Wichita,16,Governor,,GRN,Brandon Parmer,0,0,0
+Wichita,17,Governor,,REP,Greg Abbott,646,451,1097
+Wichita,17,Governor,,DEM,Wendy R. Davis,142,95,237
+Wichita,17,Governor,,LIB,Kathie Glass,5,3,8
+Wichita,17,Governor,,GRN,Brandon Parmer,1,1,2
+Wichita,18,Governor,,REP,Greg Abbott,565,435,1000
+Wichita,18,Governor,,DEM,Wendy R. Davis,157,110,267
+Wichita,18,Governor,,LIB,Kathie Glass,9,8,17
+Wichita,18,Governor,,GRN,Brandon Parmer,3,1,4
+Wichita,20,Governor,,REP,Greg Abbott,237,217,454
+Wichita,20,Governor,,DEM,Wendy R. Davis,119,78,197
+Wichita,20,Governor,,LIB,Kathie Glass,3,11,14
+Wichita,20,Governor,,GRN,Brandon Parmer,0,1,1
+Wichita,21,Governor,,REP,Greg Abbott,146,230,376
+Wichita,21,Governor,,DEM,Wendy R. Davis,57,70,127
+Wichita,21,Governor,,LIB,Kathie Glass,2,4,6
+Wichita,21,Governor,,GRN,Brandon Parmer,1,2,3
+Wichita,22,Governor,,REP,Greg Abbott,114,122,236
+Wichita,22,Governor,,DEM,Wendy R. Davis,83,63,146
+Wichita,22,Governor,,LIB,Kathie Glass,2,5,7
+Wichita,22,Governor,,GRN,Brandon Parmer,0,0,0
+Wichita,23,Governor,,REP,Greg Abbott,136,109,245
+Wichita,23,Governor,,DEM,Wendy R. Davis,23,23,46
+Wichita,23,Governor,,LIB,Kathie Glass,1,2,3
+Wichita,23,Governor,,GRN,Brandon Parmer,0,0,0
+Wichita,24,Governor,,REP,Greg Abbott,603,528,1131
+Wichita,24,Governor,,DEM,Wendy R. Davis,104,97,201
+Wichita,24,Governor,,LIB,Kathie Glass,7,2,9
+Wichita,24,Governor,,GRN,Brandon Parmer,4,0,4
+Wichita,25,Governor,,REP,Greg Abbott,418,295,713
+Wichita,25,Governor,,DEM,Wendy R. Davis,107,76,183
+Wichita,25,Governor,,LIB,Kathie Glass,5,8,13
+Wichita,25,Governor,,GRN,Brandon Parmer,2,2,4
+Wichita,26,Governor,,REP,Greg Abbott,71,43,114
+Wichita,26,Governor,,DEM,Wendy R. Davis,38,40,78
+Wichita,26,Governor,,LIB,Kathie Glass,1,1,2
+Wichita,26,Governor,,GRN,Brandon Parmer,0,0,0
+Wichita,30,Governor,,REP,Greg Abbott,76,62,138
+Wichita,30,Governor,,DEM,Wendy R. Davis,31,13,44
+Wichita,30,Governor,,LIB,Kathie Glass,2,6,8
+Wichita,30,Governor,,GRN,Brandon Parmer,0,0,0
+Wichita,31,Governor,,REP,Greg Abbott,167,144,311
+Wichita,31,Governor,,DEM,Wendy R. Davis,111,80,191
+Wichita,31,Governor,,LIB,Kathie Glass,3,6,9
+Wichita,31,Governor,,GRN,Brandon Parmer,1,1,2
+Wichita,32,Governor,,REP,Greg Abbott,61,47,108
+Wichita,32,Governor,,DEM,Wendy R. Davis,125,158,283
+Wichita,32,Governor,,LIB,Kathie Glass,4,1,5
+Wichita,32,Governor,,GRN,Brandon Parmer,0,1,1
+Wichita,33,Governor,,REP,Greg Abbott,42,56,98
+Wichita,33,Governor,,DEM,Wendy R. Davis,17,26,43
+Wichita,33,Governor,,LIB,Kathie Glass,1,4,5
+Wichita,33,Governor,,GRN,Brandon Parmer,0,0,0
+Wichita,34,Governor,,REP,Greg Abbott,29,29,58
+Wichita,34,Governor,,DEM,Wendy R. Davis,105,106,211
+Wichita,34,Governor,,LIB,Kathie Glass,1,0,1
+Wichita,34,Governor,,GRN,Brandon Parmer,1,1,2
+Wichita,35,Governor,,REP,Greg Abbott,37,64,101
+Wichita,35,Governor,,DEM,Wendy R. Davis,9,11,20
+Wichita,35,Governor,,LIB,Kathie Glass,0,0,0
+Wichita,35,Governor,,GRN,Brandon Parmer,1,0,1
+Wichita,36,Governor,,REP,Greg Abbott,622,544,1166
+Wichita,36,Governor,,DEM,Wendy R. Davis,97,51,148
+Wichita,36,Governor,,LIB,Kathie Glass,5,7,12
+Wichita,36,Governor,,GRN,Brandon Parmer,1,2,3
+Wichita,37,Governor,,REP,Greg Abbott,278,190,468
+Wichita,37,Governor,,DEM,Wendy R. Davis,29,23,52
+Wichita,37,Governor,,LIB,Kathie Glass,2,3,5
+Wichita,37,Governor,,GRN,Brandon Parmer,0,0,0
+Wichita,38,Governor,,REP,Greg Abbott,42,36,78
+Wichita,38,Governor,,DEM,Wendy R. Davis,118,145,263
+Wichita,38,Governor,,LIB,Kathie Glass,0,1,1
+Wichita,38,Governor,,GRN,Brandon Parmer,1,0,1
+Wichita,40,Governor,,REP,Greg Abbott,647,336,983
+Wichita,40,Governor,,DEM,Wendy R. Davis,176,93,269
+Wichita,40,Governor,,LIB,Kathie Glass,8,7,15
+Wichita,40,Governor,,GRN,Brandon Parmer,0,1,1
+Wichita,41,Governor,,REP,Greg Abbott,374,318,692
+Wichita,41,Governor,,DEM,Wendy R. Davis,137,82,219
+Wichita,41,Governor,,LIB,Kathie Glass,5,13,18
+Wichita,41,Governor,,GRN,Brandon Parmer,2,0,2
+Wichita,42,Governor,,REP,Greg Abbott,616,356,972
+Wichita,42,Governor,,DEM,Wendy R. Davis,103,59,162
+Wichita,42,Governor,,LIB,Kathie Glass,11,5,16
+Wichita,42,Governor,,GRN,Brandon Parmer,0,2,2
+Wichita,43,Governor,,REP,Greg Abbott,480,390,870
+Wichita,43,Governor,,DEM,Wendy R. Davis,145,86,231
+Wichita,43,Governor,,LIB,Kathie Glass,2,7,9
+Wichita,43,Governor,,GRN,Brandon Parmer,2,2,4
+Wichita,44,Governor,,REP,Greg Abbott,372,299,671
+Wichita,44,Governor,,DEM,Wendy R. Davis,200,121,321
+Wichita,44,Governor,,LIB,Kathie Glass,4,11,15
+Wichita,44,Governor,,GRN,Brandon Parmer,2,1,3
+Wichita,45,Governor,,REP,Greg Abbott,165,109,274
+Wichita,45,Governor,,DEM,Wendy R. Davis,20,13,33
+Wichita,45,Governor,,LIB,Kathie Glass,0,3,3
+Wichita,45,Governor,,GRN,Brandon Parmer,2,2,4
+Wichita,46,Governor,,REP,Greg Abbott,143,118,261
+Wichita,46,Governor,,DEM,Wendy R. Davis,24,28,52
+Wichita,46,Governor,,LIB,Kathie Glass,1,4,5
+Wichita,46,Governor,,GRN,Brandon Parmer,0,0,0
+Wichita,47,Governor,,REP,Greg Abbott,89,79,168
+Wichita,47,Governor,,DEM,Wendy R. Davis,19,16,35
+Wichita,47,Governor,,LIB,Kathie Glass,0,0,0
+Wichita,47,Governor,,GRN,Brandon Parmer,0,0,0
+Wichita,10,Lieutenant Governor,,REP,Dan Patrick,75,37,112
+Wichita,10,Lieutenant Governor,,DEM,Leticia Van De Putte,15,3,18
+Wichita,10,Lieutenant Governor,,LIB,Robert D. Butler,0,3,3
+Wichita,10,Lieutenant Governor,,GRN,Chandrakantha Courtney,0,0,0
+Wichita,11,Lieutenant Governor,,REP,Dan Patrick,264,178,442
+Wichita,11,Lieutenant Governor,,DEM,Leticia Van De Putte,74,45,119
+Wichita,11,Lieutenant Governor,,LIB,Robert D. Butler,10,5,15
+Wichita,11,Lieutenant Governor,,GRN,Chandrakantha Courtney,2,1,3
+Wichita,12,Lieutenant Governor,,REP,Dan Patrick,557,520,1077
+Wichita,12,Lieutenant Governor,,DEM,Leticia Van De Putte,129,97,226
+Wichita,12,Lieutenant Governor,,LIB,Robert D. Butler,14,15,29
+Wichita,12,Lieutenant Governor,,GRN,Chandrakantha Courtney,0,2,2
+Wichita,13,Lieutenant Governor,,REP,Dan Patrick,387,204,591
+Wichita,13,Lieutenant Governor,,DEM,Leticia Van De Putte,89,38,127
+Wichita,13,Lieutenant Governor,,LIB,Robert D. Butler,1,3,4
+Wichita,13,Lieutenant Governor,,GRN,Chandrakantha Courtney,0,0,0
+Wichita,14,Lieutenant Governor,,REP,Dan Patrick,505,305,810
+Wichita,14,Lieutenant Governor,,DEM,Leticia Van De Putte,141,98,239
+Wichita,14,Lieutenant Governor,,LIB,Robert D. Butler,16,10,26
+Wichita,14,Lieutenant Governor,,GRN,Chandrakantha Courtney,2,2,4
+Wichita,15,Lieutenant Governor,,REP,Dan Patrick,121,112,233
+Wichita,15,Lieutenant Governor,,DEM,Leticia Van De Putte,7,16,23
+Wichita,15,Lieutenant Governor,,LIB,Robert D. Butler,2,5,7
+Wichita,15,Lieutenant Governor,,GRN,Chandrakantha Courtney,2,0,2
+Wichita,16,Lieutenant Governor,,REP,Dan Patrick,25,8,33
+Wichita,16,Lieutenant Governor,,DEM,Leticia Van De Putte,0,0,0
+Wichita,16,Lieutenant Governor,,LIB,Robert D. Butler,0,0,0
+Wichita,16,Lieutenant Governor,,GRN,Chandrakantha Courtney,0,0,0
+Wichita,17,Lieutenant Governor,,REP,Dan Patrick,633,451,1084
+Wichita,17,Lieutenant Governor,,DEM,Leticia Van De Putte,142,79,221
+Wichita,17,Lieutenant Governor,,LIB,Robert D. Butler,9,11,20
+Wichita,17,Lieutenant Governor,,GRN,Chandrakantha Courtney,0,5,5
+Wichita,18,Lieutenant Governor,,REP,Dan Patrick,566,434,1000
+Wichita,18,Lieutenant Governor,,DEM,Leticia Van De Putte,146,104,250
+Wichita,18,Lieutenant Governor,,LIB,Robert D. Butler,15,11,26
+Wichita,18,Lieutenant Governor,,GRN,Chandrakantha Courtney,3,3,6
+Wichita,20,Lieutenant Governor,,REP,Dan Patrick,235,223,458
+Wichita,20,Lieutenant Governor,,DEM,Leticia Van De Putte,115,72,187
+Wichita,20,Lieutenant Governor,,LIB,Robert D. Butler,8,7,15
+Wichita,20,Lieutenant Governor,,GRN,Chandrakantha Courtney,1,4,5
+Wichita,21,Lieutenant Governor,,REP,Dan Patrick,142,239,381
+Wichita,21,Lieutenant Governor,,DEM,Leticia Van De Putte,58,59,117
+Wichita,21,Lieutenant Governor,,LIB,Robert D. Butler,4,7,11
+Wichita,21,Lieutenant Governor,,GRN,Chandrakantha Courtney,0,3,3
+Wichita,22,Lieutenant Governor,,REP,Dan Patrick,112,119,231
+Wichita,22,Lieutenant Governor,,DEM,Leticia Van De Putte,81,60,141
+Wichita,22,Lieutenant Governor,,LIB,Robert D. Butler,4,10,14
+Wichita,22,Lieutenant Governor,,GRN,Chandrakantha Courtney,2,2,4
+Wichita,23,Lieutenant Governor,,REP,Dan Patrick,139,111,250
+Wichita,23,Lieutenant Governor,,DEM,Leticia Van De Putte,20,20,40
+Wichita,23,Lieutenant Governor,,LIB,Robert D. Butler,1,3,4
+Wichita,23,Lieutenant Governor,,GRN,Chandrakantha Courtney,1,0,1
+Wichita,24,Lieutenant Governor,,REP,Dan Patrick,612,520,1132
+Wichita,24,Lieutenant Governor,,DEM,Leticia Van De Putte,92,78,170
+Wichita,24,Lieutenant Governor,,LIB,Robert D. Butler,10,20,30
+Wichita,24,Lieutenant Governor,,GRN,Chandrakantha Courtney,1,3,4
+Wichita,25,Lieutenant Governor,,REP,Dan Patrick,418,294,712
+Wichita,25,Lieutenant Governor,,DEM,Leticia Van De Putte,94,69,163
+Wichita,25,Lieutenant Governor,,LIB,Robert D. Butler,12,18,30
+Wichita,25,Lieutenant Governor,,GRN,Chandrakantha Courtney,1,1,2
+Wichita,26,Lieutenant Governor,,REP,Dan Patrick,71,42,113
+Wichita,26,Lieutenant Governor,,DEM,Leticia Van De Putte,36,39,75
+Wichita,26,Lieutenant Governor,,LIB,Robert D. Butler,0,2,2
+Wichita,26,Lieutenant Governor,,GRN,Chandrakantha Courtney,1,0,1
+Wichita,30,Lieutenant Governor,,REP,Dan Patrick,77,59,136
+Wichita,30,Lieutenant Governor,,DEM,Leticia Van De Putte,27,12,39
+Wichita,30,Lieutenant Governor,,LIB,Robert D. Butler,3,10,13
+Wichita,30,Lieutenant Governor,,GRN,Chandrakantha Courtney,1,0,1
+Wichita,31,Lieutenant Governor,,REP,Dan Patrick,168,141,309
+Wichita,31,Lieutenant Governor,,DEM,Leticia Van De Putte,103,75,178
+Wichita,31,Lieutenant Governor,,LIB,Robert D. Butler,7,12,19
+Wichita,31,Lieutenant Governor,,GRN,Chandrakantha Courtney,1,2,3
+Wichita,32,Lieutenant Governor,,REP,Dan Patrick,66,49,115
+Wichita,32,Lieutenant Governor,,DEM,Leticia Van De Putte,125,155,280
+Wichita,32,Lieutenant Governor,,LIB,Robert D. Butler,1,3,4
+Wichita,32,Lieutenant Governor,,GRN,Chandrakantha Courtney,0,1,1
+Wichita,33,Lieutenant Governor,,REP,Dan Patrick,41,55,96
+Wichita,33,Lieutenant Governor,,DEM,Leticia Van De Putte,18,25,43
+Wichita,33,Lieutenant Governor,,LIB,Robert D. Butler,1,5,6
+Wichita,33,Lieutenant Governor,,GRN,Chandrakantha Courtney,0,1,1
+Wichita,34,Lieutenant Governor,,REP,Dan Patrick,32,29,61
+Wichita,34,Lieutenant Governor,,DEM,Leticia Van De Putte,102,103,205
+Wichita,34,Lieutenant Governor,,LIB,Robert D. Butler,2,2,4
+Wichita,34,Lieutenant Governor,,GRN,Chandrakantha Courtney,0,0,0
+Wichita,35,Lieutenant Governor,,REP,Dan Patrick,35,68,103
+Wichita,35,Lieutenant Governor,,DEM,Leticia Van De Putte,9,3,12
+Wichita,35,Lieutenant Governor,,LIB,Robert D. Butler,2,3,5
+Wichita,35,Lieutenant Governor,,GRN,Chandrakantha Courtney,0,1,1
+Wichita,36,Lieutenant Governor,,REP,Dan Patrick,614,548,1162
+Wichita,36,Lieutenant Governor,,DEM,Leticia Van De Putte,85,34,119
+Wichita,36,Lieutenant Governor,,LIB,Robert D. Butler,18,18,36
+Wichita,36,Lieutenant Governor,,GRN,Chandrakantha Courtney,5,1,6
+Wichita,37,Lieutenant Governor,,REP,Dan Patrick,280,191,471
+Wichita,37,Lieutenant Governor,,DEM,Leticia Van De Putte,24,18,42
+Wichita,37,Lieutenant Governor,,LIB,Robert D. Butler,5,5,10
+Wichita,37,Lieutenant Governor,,GRN,Chandrakantha Courtney,1,0,1
+Wichita,38,Lieutenant Governor,,REP,Dan Patrick,40,36,76
+Wichita,38,Lieutenant Governor,,DEM,Leticia Van De Putte,117,143,260
+Wichita,38,Lieutenant Governor,,LIB,Robert D. Butler,3,2,5
+Wichita,38,Lieutenant Governor,,GRN,Chandrakantha Courtney,1,2,3
+Wichita,40,Lieutenant Governor,,REP,Dan Patrick,639,333,972
+Wichita,40,Lieutenant Governor,,DEM,Leticia Van De Putte,170,84,254
+Wichita,40,Lieutenant Governor,,LIB,Robert D. Butler,11,13,24
+Wichita,40,Lieutenant Governor,,GRN,Chandrakantha Courtney,2,3,5
+Wichita,41,Lieutenant Governor,,REP,Dan Patrick,376,320,696
+Wichita,41,Lieutenant Governor,,DEM,Leticia Van De Putte,126,78,204
+Wichita,41,Lieutenant Governor,,LIB,Robert D. Butler,16,12,28
+Wichita,41,Lieutenant Governor,,GRN,Chandrakantha Courtney,0,2,2
+Wichita,42,Lieutenant Governor,,REP,Dan Patrick,617,361,978
+Wichita,42,Lieutenant Governor,,DEM,Leticia Van De Putte,102,44,146
+Wichita,42,Lieutenant Governor,,LIB,Robert D. Butler,8,10,18
+Wichita,42,Lieutenant Governor,,GRN,Chandrakantha Courtney,2,4,6
+Wichita,43,Lieutenant Governor,,REP,Dan Patrick,480,384,864
+Wichita,43,Lieutenant Governor,,DEM,Leticia Van De Putte,138,81,219
+Wichita,43,Lieutenant Governor,,LIB,Robert D. Butler,8,14,22
+Wichita,43,Lieutenant Governor,,GRN,Chandrakantha Courtney,1,0,1
+Wichita,44,Lieutenant Governor,,REP,Dan Patrick,373,301,674
+Wichita,44,Lieutenant Governor,,DEM,Leticia Van De Putte,183,110,293
+Wichita,44,Lieutenant Governor,,LIB,Robert D. Butler,14,15,29
+Wichita,44,Lieutenant Governor,,GRN,Chandrakantha Courtney,3,5,8
+Wichita,45,Lieutenant Governor,,REP,Dan Patrick,164,108,272
+Wichita,45,Lieutenant Governor,,DEM,Leticia Van De Putte,18,9,27
+Wichita,45,Lieutenant Governor,,LIB,Robert D. Butler,2,7,9
+Wichita,45,Lieutenant Governor,,GRN,Chandrakantha Courtney,2,2,4
+Wichita,46,Lieutenant Governor,,REP,Dan Patrick,144,117,261
+Wichita,46,Lieutenant Governor,,DEM,Leticia Van De Putte,21,26,47
+Wichita,46,Lieutenant Governor,,LIB,Robert D. Butler,1,6,7
+Wichita,46,Lieutenant Governor,,GRN,Chandrakantha Courtney,1,0,1
+Wichita,47,Lieutenant Governor,,REP,Dan Patrick,89,76,165
+Wichita,47,Lieutenant Governor,,DEM,Leticia Van De Putte,16,17,33
+Wichita,47,Lieutenant Governor,,LIB,Robert D. Butler,1,0,1
+Wichita,47,Lieutenant Governor,,GRN,Chandrakantha Courtney,2,0,2
+Wichita,10,Attorney General,,REP,Ken Paxton,71,36,107
+Wichita,10,Attorney General,,DEM,Sam Houston,19,7,26
+Wichita,10,Attorney General,,LIB,Jamie Balagia,0,1,1
+Wichita,10,Attorney General,,GRN,Jamar Osborne,0,0,0
+Wichita,11,Attorney General,,REP,Ken Paxton,271,185,456
+Wichita,11,Attorney General,,DEM,Sam Houston,73,41,114
+Wichita,11,Attorney General,,LIB,Jamie Balagia,7,4,11
+Wichita,11,Attorney General,,GRN,Jamar Osborne,1,1,2
+Wichita,12,Attorney General,,REP,Ken Paxton,536,520,1056
+Wichita,12,Attorney General,,DEM,Sam Houston,146,95,241
+Wichita,12,Attorney General,,LIB,Jamie Balagia,16,14,30
+Wichita,12,Attorney General,,GRN,Jamar Osborne,1,5,6
+Wichita,13,Attorney General,,REP,Ken Paxton,388,202,590
+Wichita,13,Attorney General,,DEM,Sam Houston,86,37,123
+Wichita,13,Attorney General,,LIB,Jamie Balagia,2,4,6
+Wichita,13,Attorney General,,GRN,Jamar Osborne,1,2,3
+Wichita,14,Attorney General,,REP,Ken Paxton,509,300,809
+Wichita,14,Attorney General,,DEM,Sam Houston,138,101,239
+Wichita,14,Attorney General,,LIB,Jamie Balagia,13,11,24
+Wichita,14,Attorney General,,GRN,Jamar Osborne,2,0,2
+Wichita,15,Attorney General,,REP,Ken Paxton,120,108,228
+Wichita,15,Attorney General,,DEM,Sam Houston,8,22,30
+Wichita,15,Attorney General,,LIB,Jamie Balagia,3,4,7
+Wichita,15,Attorney General,,GRN,Jamar Osborne,1,0,1
+Wichita,16,Attorney General,,REP,Ken Paxton,23,8,31
+Wichita,16,Attorney General,,DEM,Sam Houston,1,0,1
+Wichita,16,Attorney General,,LIB,Jamie Balagia,0,0,0
+Wichita,16,Attorney General,,GRN,Jamar Osborne,1,0,1
+Wichita,17,Attorney General,,REP,Ken Paxton,621,446,1067
+Wichita,17,Attorney General,,DEM,Sam Houston,150,85,235
+Wichita,17,Attorney General,,LIB,Jamie Balagia,12,10,22
+Wichita,17,Attorney General,,GRN,Jamar Osborne,1,3,4
+Wichita,18,Attorney General,,REP,Ken Paxton,555,428,983
+Wichita,18,Attorney General,,DEM,Sam Houston,155,109,264
+Wichita,18,Attorney General,,LIB,Jamie Balagia,15,11,26
+Wichita,18,Attorney General,,GRN,Jamar Osborne,4,1,5
+Wichita,20,Attorney General,,REP,Ken Paxton,233,215,448
+Wichita,20,Attorney General,,DEM,Sam Houston,120,77,197
+Wichita,20,Attorney General,,LIB,Jamie Balagia,6,8,14
+Wichita,20,Attorney General,,GRN,Jamar Osborne,1,4,5
+Wichita,21,Attorney General,,REP,Ken Paxton,139,229,368
+Wichita,21,Attorney General,,DEM,Sam Houston,59,74,133
+Wichita,21,Attorney General,,LIB,Jamie Balagia,3,5,8
+Wichita,21,Attorney General,,GRN,Jamar Osborne,0,2,2
+Wichita,22,Attorney General,,REP,Ken Paxton,106,117,223
+Wichita,22,Attorney General,,DEM,Sam Houston,88,61,149
+Wichita,22,Attorney General,,LIB,Jamie Balagia,3,13,16
+Wichita,22,Attorney General,,GRN,Jamar Osborne,1,0,1
+Wichita,23,Attorney General,,REP,Ken Paxton,138,109,247
+Wichita,23,Attorney General,,DEM,Sam Houston,24,24,48
+Wichita,23,Attorney General,,LIB,Jamie Balagia,1,1,2
+Wichita,23,Attorney General,,GRN,Jamar Osborne,2,0,2
+Wichita,24,Attorney General,,REP,Ken Paxton,582,506,1088
+Wichita,24,Attorney General,,DEM,Sam Houston,119,98,217
+Wichita,24,Attorney General,,LIB,Jamie Balagia,10,16,26
+Wichita,24,Attorney General,,GRN,Jamar Osborne,2,1,3
+Wichita,25,Attorney General,,REP,Ken Paxton,398,286,684
+Wichita,25,Attorney General,,DEM,Sam Houston,113,81,194
+Wichita,25,Attorney General,,LIB,Jamie Balagia,9,11,20
+Wichita,25,Attorney General,,GRN,Jamar Osborne,1,4,5
+Wichita,26,Attorney General,,REP,Ken Paxton,67,39,106
+Wichita,26,Attorney General,,DEM,Sam Houston,37,43,80
+Wichita,26,Attorney General,,LIB,Jamie Balagia,2,2,4
+Wichita,26,Attorney General,,GRN,Jamar Osborne,1,0,1
+Wichita,30,Attorney General,,REP,Ken Paxton,71,59,130
+Wichita,30,Attorney General,,DEM,Sam Houston,30,15,45
+Wichita,30,Attorney General,,LIB,Jamie Balagia,2,7,9
+Wichita,30,Attorney General,,GRN,Jamar Osborne,3,0,3
+Wichita,31,Attorney General,,REP,Ken Paxton,159,132,291
+Wichita,31,Attorney General,,DEM,Sam Houston,112,81,193
+Wichita,31,Attorney General,,LIB,Jamie Balagia,7,15,22
+Wichita,31,Attorney General,,GRN,Jamar Osborne,2,3,5
+Wichita,32,Attorney General,,REP,Ken Paxton,59,41,100
+Wichita,32,Attorney General,,DEM,Sam Houston,130,163,293
+Wichita,32,Attorney General,,LIB,Jamie Balagia,2,2,4
+Wichita,32,Attorney General,,GRN,Jamar Osborne,1,1,2
+Wichita,33,Attorney General,,REP,Ken Paxton,41,55,96
+Wichita,33,Attorney General,,DEM,Sam Houston,18,27,45
+Wichita,33,Attorney General,,LIB,Jamie Balagia,1,4,5
+Wichita,33,Attorney General,,GRN,Jamar Osborne,0,0,0
+Wichita,34,Attorney General,,REP,Ken Paxton,27,29,56
+Wichita,34,Attorney General,,DEM,Sam Houston,104,102,206
+Wichita,34,Attorney General,,LIB,Jamie Balagia,4,1,5
+Wichita,34,Attorney General,,GRN,Jamar Osborne,1,3,4
+Wichita,35,Attorney General,,REP,Ken Paxton,39,63,102
+Wichita,35,Attorney General,,DEM,Sam Houston,8,1,9
+Wichita,35,Attorney General,,LIB,Jamie Balagia,0,1,1
+Wichita,35,Attorney General,,GRN,Jamar Osborne,0,1,1
+Wichita,36,Attorney General,,REP,Ken Paxton,608,532,1140
+Wichita,36,Attorney General,,DEM,Sam Houston,99,59,158
+Wichita,36,Attorney General,,LIB,Jamie Balagia,11,14,25
+Wichita,36,Attorney General,,GRN,Jamar Osborne,3,3,6
+Wichita,37,Attorney General,,REP,Ken Paxton,273,189,462
+Wichita,37,Attorney General,,DEM,Sam Houston,34,23,57
+Wichita,37,Attorney General,,LIB,Jamie Balagia,3,3,6
+Wichita,37,Attorney General,,GRN,Jamar Osborne,0,0,0
+Wichita,38,Attorney General,,REP,Ken Paxton,43,37,80
+Wichita,38,Attorney General,,DEM,Sam Houston,116,144,260
+Wichita,38,Attorney General,,LIB,Jamie Balagia,2,1,3
+Wichita,38,Attorney General,,GRN,Jamar Osborne,1,1,2
+Wichita,40,Attorney General,,REP,Ken Paxton,627,328,955
+Wichita,40,Attorney General,,DEM,Sam Houston,180,96,276
+Wichita,40,Attorney General,,LIB,Jamie Balagia,9,10,19
+Wichita,40,Attorney General,,GRN,Jamar Osborne,1,1,2
+Wichita,41,Attorney General,,REP,Ken Paxton,358,314,672
+Wichita,41,Attorney General,,DEM,Sam Houston,140,85,225
+Wichita,41,Attorney General,,LIB,Jamie Balagia,15,13,28
+Wichita,41,Attorney General,,GRN,Jamar Osborne,2,1,3
+Wichita,42,Attorney General,,REP,Ken Paxton,609,352,961
+Wichita,42,Attorney General,,DEM,Sam Houston,102,55,157
+Wichita,42,Attorney General,,LIB,Jamie Balagia,11,10,21
+Wichita,42,Attorney General,,GRN,Jamar Osborne,4,1,5
+Wichita,43,Attorney General,,REP,Ken Paxton,471,382,853
+Wichita,43,Attorney General,,DEM,Sam Houston,147,84,231
+Wichita,43,Attorney General,,LIB,Jamie Balagia,8,14,22
+Wichita,43,Attorney General,,GRN,Jamar Osborne,2,2,4
+Wichita,44,Attorney General,,REP,Ken Paxton,356,288,644
+Wichita,44,Attorney General,,DEM,Sam Houston,194,120,314
+Wichita,44,Attorney General,,LIB,Jamie Balagia,16,16,32
+Wichita,44,Attorney General,,GRN,Jamar Osborne,4,5,9
+Wichita,45,Attorney General,,REP,Ken Paxton,159,107,266
+Wichita,45,Attorney General,,DEM,Sam Houston,25,15,40
+Wichita,45,Attorney General,,LIB,Jamie Balagia,1,2,3
+Wichita,45,Attorney General,,GRN,Jamar Osborne,1,0,1
+Wichita,46,Attorney General,,REP,Ken Paxton,134,113,247
+Wichita,46,Attorney General,,DEM,Sam Houston,28,31,59
+Wichita,46,Attorney General,,LIB,Jamie Balagia,2,5,7
+Wichita,46,Attorney General,,GRN,Jamar Osborne,1,0,1
+Wichita,47,Attorney General,,REP,Ken Paxton,82,78,160
+Wichita,47,Attorney General,,DEM,Sam Houston,24,16,40
+Wichita,47,Attorney General,,LIB,Jamie Balagia,1,0,1
+Wichita,47,Attorney General,,GRN,Jamar Osborne,1,0,1
+Wichita,10,Comptroller,,REP,Glenn Hegar,72,36,108
+Wichita,10,Comptroller,,DEM,Mike Collier,16,6,22
+Wichita,10,Comptroller,,LIB,Ben Sanders,2,2,4
+Wichita,10,Comptroller,,GRN,Deb Shafto,1,0,1
+Wichita,11,Comptroller,,REP,Glenn Hegar,267,186,453
+Wichita,11,Comptroller,,DEM,Mike Collier,73,34,107
+Wichita,11,Comptroller,,LIB,Ben Sanders,6,8,14
+Wichita,11,Comptroller,,GRN,Deb Shafto,1,0,1
+Wichita,12,Comptroller,,REP,Glenn Hegar,536,512,1048
+Wichita,12,Comptroller,,DEM,Mike Collier,136,93,229
+Wichita,12,Comptroller,,LIB,Ben Sanders,17,15,32
+Wichita,12,Comptroller,,GRN,Deb Shafto,3,7,10
+Wichita,13,Comptroller,,REP,Glenn Hegar,377,198,575
+Wichita,13,Comptroller,,DEM,Mike Collier,89,39,128
+Wichita,13,Comptroller,,LIB,Ben Sanders,2,4,6
+Wichita,13,Comptroller,,GRN,Deb Shafto,4,1,5
+Wichita,14,Comptroller,,REP,Glenn Hegar,490,300,790
+Wichita,14,Comptroller,,DEM,Mike Collier,139,97,236
+Wichita,14,Comptroller,,LIB,Ben Sanders,20,11,31
+Wichita,14,Comptroller,,GRN,Deb Shafto,3,1,4
+Wichita,15,Comptroller,,REP,Glenn Hegar,115,106,221
+Wichita,15,Comptroller,,DEM,Mike Collier,8,18,26
+Wichita,15,Comptroller,,LIB,Ben Sanders,7,9,16
+Wichita,15,Comptroller,,GRN,Deb Shafto,1,0,1
+Wichita,16,Comptroller,,REP,Glenn Hegar,18,7,25
+Wichita,16,Comptroller,,DEM,Mike Collier,4,0,4
+Wichita,16,Comptroller,,LIB,Ben Sanders,3,0,3
+Wichita,16,Comptroller,,GRN,Deb Shafto,0,0,0
+Wichita,17,Comptroller,,REP,Glenn Hegar,619,440,1059
+Wichita,17,Comptroller,,DEM,Mike Collier,139,84,223
+Wichita,17,Comptroller,,LIB,Ben Sanders,19,9,28
+Wichita,17,Comptroller,,GRN,Deb Shafto,3,2,5
+Wichita,18,Comptroller,,REP,Glenn Hegar,537,417,954
+Wichita,18,Comptroller,,DEM,Mike Collier,153,106,259
+Wichita,18,Comptroller,,LIB,Ben Sanders,24,18,42
+Wichita,18,Comptroller,,GRN,Deb Shafto,5,3,8
+Wichita,20,Comptroller,,REP,Glenn Hegar,229,214,443
+Wichita,20,Comptroller,,DEM,Mike Collier,114,76,190
+Wichita,20,Comptroller,,LIB,Ben Sanders,7,9,16
+Wichita,20,Comptroller,,GRN,Deb Shafto,2,6,8
+Wichita,21,Comptroller,,REP,Glenn Hegar,130,224,354
+Wichita,21,Comptroller,,DEM,Mike Collier,58,73,131
+Wichita,21,Comptroller,,LIB,Ben Sanders,10,11,21
+Wichita,21,Comptroller,,GRN,Deb Shafto,2,1,3
+Wichita,22,Comptroller,,REP,Glenn Hegar,104,113,217
+Wichita,22,Comptroller,,DEM,Mike Collier,84,59,143
+Wichita,22,Comptroller,,LIB,Ben Sanders,5,13,18
+Wichita,22,Comptroller,,GRN,Deb Shafto,2,2,4
+Wichita,23,Comptroller,,REP,Glenn Hegar,135,102,237
+Wichita,23,Comptroller,,DEM,Mike Collier,22,26,48
+Wichita,23,Comptroller,,LIB,Ben Sanders,3,5,8
+Wichita,23,Comptroller,,GRN,Deb Shafto,1,0,1
+Wichita,24,Comptroller,,REP,Glenn Hegar,573,495,1068
+Wichita,24,Comptroller,,DEM,Mike Collier,111,89,200
+Wichita,24,Comptroller,,LIB,Ben Sanders,11,28,39
+Wichita,24,Comptroller,,GRN,Deb Shafto,5,3,8
+Wichita,25,Comptroller,,REP,Glenn Hegar,385,281,666
+Wichita,25,Comptroller,,DEM,Mike Collier,113,72,185
+Wichita,25,Comptroller,,LIB,Ben Sanders,17,13,30
+Wichita,25,Comptroller,,GRN,Deb Shafto,3,6,9
+Wichita,26,Comptroller,,REP,Glenn Hegar,66,40,106
+Wichita,26,Comptroller,,DEM,Mike Collier,37,41,78
+Wichita,26,Comptroller,,LIB,Ben Sanders,3,2,5
+Wichita,26,Comptroller,,GRN,Deb Shafto,1,0,1
+Wichita,30,Comptroller,,REP,Glenn Hegar,70,55,125
+Wichita,30,Comptroller,,DEM,Mike Collier,27,14,41
+Wichita,30,Comptroller,,LIB,Ben Sanders,4,10,14
+Wichita,30,Comptroller,,GRN,Deb Shafto,5,0,5
+Wichita,31,Comptroller,,REP,Glenn Hegar,158,131,289
+Wichita,31,Comptroller,,DEM,Mike Collier,104,77,181
+Wichita,31,Comptroller,,LIB,Ben Sanders,12,14,26
+Wichita,31,Comptroller,,GRN,Deb Shafto,4,5,9
+Wichita,32,Comptroller,,REP,Glenn Hegar,56,44,100
+Wichita,32,Comptroller,,DEM,Mike Collier,131,157,288
+Wichita,32,Comptroller,,LIB,Ben Sanders,1,5,6
+Wichita,32,Comptroller,,GRN,Deb Shafto,3,1,4
+Wichita,33,Comptroller,,REP,Glenn Hegar,40,54,94
+Wichita,33,Comptroller,,DEM,Mike Collier,18,26,44
+Wichita,33,Comptroller,,LIB,Ben Sanders,1,5,6
+Wichita,33,Comptroller,,GRN,Deb Shafto,0,1,1
+Wichita,34,Comptroller,,REP,Glenn Hegar,27,28,55
+Wichita,34,Comptroller,,DEM,Mike Collier,101,103,204
+Wichita,34,Comptroller,,LIB,Ben Sanders,5,1,6
+Wichita,34,Comptroller,,GRN,Deb Shafto,2,3,5
+Wichita,35,Comptroller,,REP,Glenn Hegar,36,62,98
+Wichita,35,Comptroller,,DEM,Mike Collier,8,8,16
+Wichita,35,Comptroller,,LIB,Ben Sanders,1,2,3
+Wichita,35,Comptroller,,GRN,Deb Shafto,0,3,3
+Wichita,36,Comptroller,,REP,Glenn Hegar,587,508,1095
+Wichita,36,Comptroller,,DEM,Mike Collier,98,67,165
+Wichita,36,Comptroller,,LIB,Ben Sanders,21,20,41
+Wichita,36,Comptroller,,GRN,Deb Shafto,5,4,9
+Wichita,37,Comptroller,,REP,Glenn Hegar,264,186,450
+Wichita,37,Comptroller,,DEM,Mike Collier,33,22,55
+Wichita,37,Comptroller,,LIB,Ben Sanders,8,6,14
+Wichita,37,Comptroller,,GRN,Deb Shafto,2,0,2
+Wichita,38,Comptroller,,REP,Glenn Hegar,39,35,74
+Wichita,38,Comptroller,,DEM,Mike Collier,117,145,262
+Wichita,38,Comptroller,,LIB,Ben Sanders,3,2,5
+Wichita,38,Comptroller,,GRN,Deb Shafto,1,2,3
+Wichita,40,Comptroller,,REP,Glenn Hegar,610,316,926
+Wichita,40,Comptroller,,DEM,Mike Collier,171,91,262
+Wichita,40,Comptroller,,LIB,Ben Sanders,17,18,35
+Wichita,40,Comptroller,,GRN,Deb Shafto,8,3,11
+Wichita,41,Comptroller,,REP,Glenn Hegar,351,301,652
+Wichita,41,Comptroller,,DEM,Mike Collier,136,86,222
+Wichita,41,Comptroller,,LIB,Ben Sanders,15,16,31
+Wichita,41,Comptroller,,GRN,Deb Shafto,5,4,9
+Wichita,42,Comptroller,,REP,Glenn Hegar,602,347,949
+Wichita,42,Comptroller,,DEM,Mike Collier,102,48,150
+Wichita,42,Comptroller,,LIB,Ben Sanders,14,14,28
+Wichita,42,Comptroller,,GRN,Deb Shafto,3,3,6
+Wichita,43,Comptroller,,REP,Glenn Hegar,463,378,841
+Wichita,43,Comptroller,,DEM,Mike Collier,147,83,230
+Wichita,43,Comptroller,,LIB,Ben Sanders,12,13,25
+Wichita,43,Comptroller,,GRN,Deb Shafto,3,2,5
+Wichita,44,Comptroller,,REP,Glenn Hegar,355,289,644
+Wichita,44,Comptroller,,DEM,Mike Collier,191,112,303
+Wichita,44,Comptroller,,LIB,Ben Sanders,21,13,34
+Wichita,44,Comptroller,,GRN,Deb Shafto,4,9,13
+Wichita,45,Comptroller,,REP,Glenn Hegar,157,102,259
+Wichita,45,Comptroller,,DEM,Mike Collier,20,11,31
+Wichita,45,Comptroller,,LIB,Ben Sanders,2,6,8
+Wichita,45,Comptroller,,GRN,Deb Shafto,3,1,4
+Wichita,46,Comptroller,,REP,Glenn Hegar,137,108,245
+Wichita,46,Comptroller,,DEM,Mike Collier,25,29,54
+Wichita,46,Comptroller,,LIB,Ben Sanders,3,8,11
+Wichita,46,Comptroller,,GRN,Deb Shafto,0,0,0
+Wichita,47,Comptroller,,REP,Glenn Hegar,78,77,155
+Wichita,47,Comptroller,,DEM,Mike Collier,27,15,42
+Wichita,47,Comptroller,,LIB,Ben Sanders,0,0,0
+Wichita,47,Comptroller,,GRN,Deb Shafto,1,0,1
+Wichita,10,Land Commissioner,,REP,George P. Bush,68,34,102
+Wichita,10,Land Commissioner,,DEM,John Cook,15,6,21
+Wichita,10,Land Commissioner,,LIB,Justin Knight,5,3,8
+Wichita,10,Land Commissioner,,GRN,Valerie Alessi,1,0,1
+Wichita,11,Land Commissioner,,REP,George P. Bush,273,193,466
+Wichita,11,Land Commissioner,,DEM,John Cook,68,32,100
+Wichita,11,Land Commissioner,,LIB,Justin Knight,7,4,11
+Wichita,11,Land Commissioner,,GRN,Valerie Alessi,3,1,4
+Wichita,12,Land Commissioner,,REP,George P. Bush,548,519,1067
+Wichita,12,Land Commissioner,,DEM,John Cook,124,93,217
+Wichita,12,Land Commissioner,,LIB,Justin Knight,24,13,37
+Wichita,12,Land Commissioner,,GRN,Valerie Alessi,2,6,8
+Wichita,13,Land Commissioner,,REP,George P. Bush,394,206,600
+Wichita,13,Land Commissioner,,DEM,John Cook,80,33,113
+Wichita,13,Land Commissioner,,LIB,Justin Knight,4,6,10
+Wichita,13,Land Commissioner,,GRN,Valerie Alessi,2,0,2
+Wichita,14,Land Commissioner,,REP,George P. Bush,511,310,821
+Wichita,14,Land Commissioner,,DEM,John Cook,133,90,223
+Wichita,14,Land Commissioner,,LIB,Justin Knight,15,11,26
+Wichita,14,Land Commissioner,,GRN,Valerie Alessi,3,3,6
+Wichita,15,Land Commissioner,,REP,George P. Bush,117,109,226
+Wichita,15,Land Commissioner,,DEM,John Cook,8,20,28
+Wichita,15,Land Commissioner,,LIB,Justin Knight,5,5,10
+Wichita,15,Land Commissioner,,GRN,Valerie Alessi,2,0,2
+Wichita,16,Land Commissioner,,REP,George P. Bush,23,8,31
+Wichita,16,Land Commissioner,,DEM,John Cook,2,0,2
+Wichita,16,Land Commissioner,,LIB,Justin Knight,0,0,0
+Wichita,16,Land Commissioner,,GRN,Valerie Alessi,0,0,0
+Wichita,17,Land Commissioner,,REP,George P. Bush,638,445,1083
+Wichita,17,Land Commissioner,,DEM,John Cook,126,79,205
+Wichita,17,Land Commissioner,,LIB,Justin Knight,19,12,31
+Wichita,17,Land Commissioner,,GRN,Valerie Alessi,2,5,7
+Wichita,18,Land Commissioner,,REP,George P. Bush,555,429,984
+Wichita,18,Land Commissioner,,DEM,John Cook,146,97,243
+Wichita,18,Land Commissioner,,LIB,Justin Knight,17,15,32
+Wichita,18,Land Commissioner,,GRN,Valerie Alessi,6,6,12
+Wichita,20,Land Commissioner,,REP,George P. Bush,239,218,457
+Wichita,20,Land Commissioner,,DEM,John Cook,106,75,181
+Wichita,20,Land Commissioner,,LIB,Justin Knight,6,11,17
+Wichita,20,Land Commissioner,,GRN,Valerie Alessi,3,4,7
+Wichita,21,Land Commissioner,,REP,George P. Bush,137,230,367
+Wichita,21,Land Commissioner,,DEM,John Cook,57,63,120
+Wichita,21,Land Commissioner,,LIB,Justin Knight,6,12,18
+Wichita,21,Land Commissioner,,GRN,Valerie Alessi,2,4,6
+Wichita,22,Land Commissioner,,REP,George P. Bush,107,116,223
+Wichita,22,Land Commissioner,,DEM,John Cook,85,58,143
+Wichita,22,Land Commissioner,,LIB,Justin Knight,2,8,10
+Wichita,22,Land Commissioner,,GRN,Valerie Alessi,4,4,8
+Wichita,23,Land Commissioner,,REP,George P. Bush,131,106,237
+Wichita,23,Land Commissioner,,DEM,John Cook,23,21,44
+Wichita,23,Land Commissioner,,LIB,Justin Knight,5,5,10
+Wichita,23,Land Commissioner,,GRN,Valerie Alessi,0,1,1
+Wichita,24,Land Commissioner,,REP,George P. Bush,594,511,1105
+Wichita,24,Land Commissioner,,DEM,John Cook,102,87,189
+Wichita,24,Land Commissioner,,LIB,Justin Knight,12,20,32
+Wichita,24,Land Commissioner,,GRN,Valerie Alessi,5,4,9
+Wichita,25,Land Commissioner,,REP,George P. Bush,409,287,696
+Wichita,25,Land Commissioner,,DEM,John Cook,93,71,164
+Wichita,25,Land Commissioner,,LIB,Justin Knight,16,15,31
+Wichita,25,Land Commissioner,,GRN,Valerie Alessi,4,3,7
+Wichita,26,Land Commissioner,,REP,George P. Bush,67,42,109
+Wichita,26,Land Commissioner,,DEM,John Cook,38,39,77
+Wichita,26,Land Commissioner,,LIB,Justin Knight,2,2,4
+Wichita,26,Land Commissioner,,GRN,Valerie Alessi,2,0,2
+Wichita,30,Land Commissioner,,REP,George P. Bush,72,62,134
+Wichita,30,Land Commissioner,,DEM,John Cook,26,11,37
+Wichita,30,Land Commissioner,,LIB,Justin Knight,2,7,9
+Wichita,30,Land Commissioner,,GRN,Valerie Alessi,4,1,5
+Wichita,31,Land Commissioner,,REP,George P. Bush,159,136,295
+Wichita,31,Land Commissioner,,DEM,John Cook,104,73,177
+Wichita,31,Land Commissioner,,LIB,Justin Knight,11,14,25
+Wichita,31,Land Commissioner,,GRN,Valerie Alessi,6,5,11
+Wichita,32,Land Commissioner,,REP,George P. Bush,59,46,105
+Wichita,32,Land Commissioner,,DEM,John Cook,127,153,280
+Wichita,32,Land Commissioner,,LIB,Justin Knight,1,5,6
+Wichita,32,Land Commissioner,,GRN,Valerie Alessi,4,2,6
+Wichita,33,Land Commissioner,,REP,George P. Bush,42,54,96
+Wichita,33,Land Commissioner,,DEM,John Cook,17,24,41
+Wichita,33,Land Commissioner,,LIB,Justin Knight,0,5,5
+Wichita,33,Land Commissioner,,GRN,Valerie Alessi,1,2,3
+Wichita,34,Land Commissioner,,REP,George P. Bush,28,29,57
+Wichita,34,Land Commissioner,,DEM,John Cook,101,104,205
+Wichita,34,Land Commissioner,,LIB,Justin Knight,2,1,3
+Wichita,34,Land Commissioner,,GRN,Valerie Alessi,3,2,5
+Wichita,35,Land Commissioner,,REP,George P. Bush,38,69,107
+Wichita,35,Land Commissioner,,DEM,John Cook,8,4,12
+Wichita,35,Land Commissioner,,LIB,Justin Knight,1,1,2
+Wichita,35,Land Commissioner,,GRN,Valerie Alessi,0,2,2
+Wichita,36,Land Commissioner,,REP,George P. Bush,602,525,1127
+Wichita,36,Land Commissioner,,DEM,John Cook,88,55,143
+Wichita,36,Land Commissioner,,LIB,Justin Knight,23,19,42
+Wichita,36,Land Commissioner,,GRN,Valerie Alessi,5,3,8
+Wichita,37,Land Commissioner,,REP,George P. Bush,267,185,452
+Wichita,37,Land Commissioner,,DEM,John Cook,32,25,57
+Wichita,37,Land Commissioner,,LIB,Justin Knight,8,4,12
+Wichita,37,Land Commissioner,,GRN,Valerie Alessi,1,0,1
+Wichita,38,Land Commissioner,,REP,George P. Bush,45,40,85
+Wichita,38,Land Commissioner,,DEM,John Cook,115,141,256
+Wichita,38,Land Commissioner,,LIB,Justin Knight,0,1,1
+Wichita,38,Land Commissioner,,GRN,Valerie Alessi,1,2,3
+Wichita,40,Land Commissioner,,REP,George P. Bush,634,330,964
+Wichita,40,Land Commissioner,,DEM,John Cook,158,80,238
+Wichita,40,Land Commissioner,,LIB,Justin Knight,17,19,36
+Wichita,40,Land Commissioner,,GRN,Valerie Alessi,8,4,12
+Wichita,41,Land Commissioner,,REP,George P. Bush,357,319,676
+Wichita,41,Land Commissioner,,DEM,John Cook,133,70,203
+Wichita,41,Land Commissioner,,LIB,Justin Knight,15,18,33
+Wichita,41,Land Commissioner,,GRN,Valerie Alessi,5,4,9
+Wichita,42,Land Commissioner,,REP,George P. Bush,618,352,970
+Wichita,42,Land Commissioner,,DEM,John Cook,93,49,142
+Wichita,42,Land Commissioner,,LIB,Justin Knight,11,10,21
+Wichita,42,Land Commissioner,,GRN,Valerie Alessi,3,3,6
+Wichita,43,Land Commissioner,,REP,George P. Bush,475,395,870
+Wichita,43,Land Commissioner,,DEM,John Cook,143,70,213
+Wichita,43,Land Commissioner,,LIB,Justin Knight,10,10,20
+Wichita,43,Land Commissioner,,GRN,Valerie Alessi,3,4,7
+Wichita,44,Land Commissioner,,REP,George P. Bush,358,296,654
+Wichita,44,Land Commissioner,,DEM,John Cook,188,105,293
+Wichita,44,Land Commissioner,,LIB,Justin Knight,19,17,36
+Wichita,44,Land Commissioner,,GRN,Valerie Alessi,7,11,18
+Wichita,45,Land Commissioner,,REP,George P. Bush,159,103,262
+Wichita,45,Land Commissioner,,DEM,John Cook,20,13,33
+Wichita,45,Land Commissioner,,LIB,Justin Knight,3,5,8
+Wichita,45,Land Commissioner,,GRN,Valerie Alessi,2,1,3
+Wichita,46,Land Commissioner,,REP,George P. Bush,134,115,249
+Wichita,46,Land Commissioner,,DEM,John Cook,25,27,52
+Wichita,46,Land Commissioner,,LIB,Justin Knight,4,5,9
+Wichita,46,Land Commissioner,,GRN,Valerie Alessi,0,0,0
+Wichita,47,Land Commissioner,,REP,George P. Bush,86,76,162
+Wichita,47,Land Commissioner,,DEM,John Cook,19,16,35
+Wichita,47,Land Commissioner,,LIB,Justin Knight,0,1,1
+Wichita,47,Land Commissioner,,GRN,Valerie Alessi,2,0,2
+Wichita,10,Commissioner of Agriculture,,REP,Sid Miller,71,36,107
+Wichita,10,Commissioner of Agriculture,,DEM,Jim Hogan,18,5,23
+Wichita,10,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,1,1,2
+Wichita,10,Commissioner of Agriculture,,GRN,Kenneth Kendrick,1,1,2
+Wichita,11,Commissioner of Agriculture,,REP,Sid Miller,257,177,434
+Wichita,11,Commissioner of Agriculture,,DEM,Jim Hogan,78,41,119
+Wichita,11,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,10,8,18
+Wichita,11,Commissioner of Agriculture,,GRN,Kenneth Kendrick,1,1,2
+Wichita,12,Commissioner of Agriculture,,REP,Sid Miller,516,499,1015
+Wichita,12,Commissioner of Agriculture,,DEM,Jim Hogan,151,103,254
+Wichita,12,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,17,14,31
+Wichita,12,Commissioner of Agriculture,,GRN,Kenneth Kendrick,6,6,12
+Wichita,13,Commissioner of Agriculture,,REP,Sid Miller,371,199,570
+Wichita,13,Commissioner of Agriculture,,DEM,Jim Hogan,91,38,129
+Wichita,13,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,3,4,7
+Wichita,13,Commissioner of Agriculture,,GRN,Kenneth Kendrick,5,1,6
+Wichita,14,Commissioner of Agriculture,,REP,Sid Miller,493,300,793
+Wichita,14,Commissioner of Agriculture,,DEM,Jim Hogan,131,99,230
+Wichita,14,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,19,8,27
+Wichita,14,Commissioner of Agriculture,,GRN,Kenneth Kendrick,7,1,8
+Wichita,15,Commissioner of Agriculture,,REP,Sid Miller,119,106,225
+Wichita,15,Commissioner of Agriculture,,DEM,Jim Hogan,5,22,27
+Wichita,15,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,6,6,12
+Wichita,15,Commissioner of Agriculture,,GRN,Kenneth Kendrick,2,0,2
+Wichita,16,Commissioner of Agriculture,,REP,Sid Miller,22,6,28
+Wichita,16,Commissioner of Agriculture,,DEM,Jim Hogan,3,1,4
+Wichita,16,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,0,0,0
+Wichita,16,Commissioner of Agriculture,,GRN,Kenneth Kendrick,0,0,0
+Wichita,17,Commissioner of Agriculture,,REP,Sid Miller,605,429,1034
+Wichita,17,Commissioner of Agriculture,,DEM,Jim Hogan,153,87,240
+Wichita,17,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,13,9,22
+Wichita,17,Commissioner of Agriculture,,GRN,Kenneth Kendrick,9,7,16
+Wichita,18,Commissioner of Agriculture,,REP,Sid Miller,537,416,953
+Wichita,18,Commissioner of Agriculture,,DEM,Jim Hogan,158,104,262
+Wichita,18,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,17,20,37
+Wichita,18,Commissioner of Agriculture,,GRN,Kenneth Kendrick,6,4,10
+Wichita,20,Commissioner of Agriculture,,REP,Sid Miller,221,212,433
+Wichita,20,Commissioner of Agriculture,,DEM,Jim Hogan,116,78,194
+Wichita,20,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,7,11,18
+Wichita,20,Commissioner of Agriculture,,GRN,Kenneth Kendrick,9,4,13
+Wichita,21,Commissioner of Agriculture,,REP,Sid Miller,132,225,357
+Wichita,21,Commissioner of Agriculture,,DEM,Jim Hogan,61,76,137
+Wichita,21,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,4,5,9
+Wichita,21,Commissioner of Agriculture,,GRN,Kenneth Kendrick,3,3,6
+Wichita,22,Commissioner of Agriculture,,REP,Sid Miller,103,112,215
+Wichita,22,Commissioner of Agriculture,,DEM,Jim Hogan,86,60,146
+Wichita,22,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,2,9,11
+Wichita,22,Commissioner of Agriculture,,GRN,Kenneth Kendrick,4,6,10
+Wichita,23,Commissioner of Agriculture,,REP,Sid Miller,136,101,237
+Wichita,23,Commissioner of Agriculture,,DEM,Jim Hogan,22,25,47
+Wichita,23,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,2,4,6
+Wichita,23,Commissioner of Agriculture,,GRN,Kenneth Kendrick,1,3,4
+Wichita,24,Commissioner of Agriculture,,REP,Sid Miller,569,488,1057
+Wichita,24,Commissioner of Agriculture,,DEM,Jim Hogan,111,95,206
+Wichita,24,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,12,26,38
+Wichita,24,Commissioner of Agriculture,,GRN,Kenneth Kendrick,8,5,13
+Wichita,25,Commissioner of Agriculture,,REP,Sid Miller,382,272,654
+Wichita,25,Commissioner of Agriculture,,DEM,Jim Hogan,116,83,199
+Wichita,25,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,11,15,26
+Wichita,25,Commissioner of Agriculture,,GRN,Kenneth Kendrick,5,3,8
+Wichita,26,Commissioner of Agriculture,,REP,Sid Miller,64,36,100
+Wichita,26,Commissioner of Agriculture,,DEM,Jim Hogan,40,42,82
+Wichita,26,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,3,3,6
+Wichita,26,Commissioner of Agriculture,,GRN,Kenneth Kendrick,2,1,3
+Wichita,30,Commissioner of Agriculture,,REP,Sid Miller,70,59,129
+Wichita,30,Commissioner of Agriculture,,DEM,Jim Hogan,33,13,46
+Wichita,30,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,1,9,10
+Wichita,30,Commissioner of Agriculture,,GRN,Kenneth Kendrick,2,0,2
+Wichita,31,Commissioner of Agriculture,,REP,Sid Miller,152,134,286
+Wichita,31,Commissioner of Agriculture,,DEM,Jim Hogan,112,76,188
+Wichita,31,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,7,13,20
+Wichita,31,Commissioner of Agriculture,,GRN,Kenneth Kendrick,8,4,12
+Wichita,32,Commissioner of Agriculture,,REP,Sid Miller,50,41,91
+Wichita,32,Commissioner of Agriculture,,DEM,Jim Hogan,133,159,292
+Wichita,32,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,3,5,8
+Wichita,32,Commissioner of Agriculture,,GRN,Kenneth Kendrick,4,2,6
+Wichita,33,Commissioner of Agriculture,,REP,Sid Miller,40,55,95
+Wichita,33,Commissioner of Agriculture,,DEM,Jim Hogan,18,24,42
+Wichita,33,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,1,5,6
+Wichita,33,Commissioner of Agriculture,,GRN,Kenneth Kendrick,1,1,2
+Wichita,34,Commissioner of Agriculture,,REP,Sid Miller,27,28,55
+Wichita,34,Commissioner of Agriculture,,DEM,Jim Hogan,106,103,209
+Wichita,34,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,1,2,3
+Wichita,34,Commissioner of Agriculture,,GRN,Kenneth Kendrick,1,1,2
+Wichita,35,Commissioner of Agriculture,,REP,Sid Miller,34,64,98
+Wichita,35,Commissioner of Agriculture,,DEM,Jim Hogan,9,8,17
+Wichita,35,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,0,0,0
+Wichita,35,Commissioner of Agriculture,,GRN,Kenneth Kendrick,2,3,5
+Wichita,36,Commissioner of Agriculture,,REP,Sid Miller,589,508,1097
+Wichita,36,Commissioner of Agriculture,,DEM,Jim Hogan,98,64,162
+Wichita,36,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,19,22,41
+Wichita,36,Commissioner of Agriculture,,GRN,Kenneth Kendrick,7,2,9
+Wichita,37,Commissioner of Agriculture,,REP,Sid Miller,261,177,438
+Wichita,37,Commissioner of Agriculture,,DEM,Jim Hogan,36,27,63
+Wichita,37,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,8,9,17
+Wichita,37,Commissioner of Agriculture,,GRN,Kenneth Kendrick,3,0,3
+Wichita,38,Commissioner of Agriculture,,REP,Sid Miller,39,32,71
+Wichita,38,Commissioner of Agriculture,,DEM,Jim Hogan,117,147,264
+Wichita,38,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,2,4,6
+Wichita,38,Commissioner of Agriculture,,GRN,Kenneth Kendrick,3,1,4
+Wichita,40,Commissioner of Agriculture,,REP,Sid Miller,606,313,919
+Wichita,40,Commissioner of Agriculture,,DEM,Jim Hogan,181,92,273
+Wichita,40,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,15,15,30
+Wichita,40,Commissioner of Agriculture,,GRN,Kenneth Kendrick,7,7,14
+Wichita,41,Commissioner of Agriculture,,REP,Sid Miller,346,301,647
+Wichita,41,Commissioner of Agriculture,,DEM,Jim Hogan,135,86,221
+Wichita,41,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,18,15,33
+Wichita,41,Commissioner of Agriculture,,GRN,Kenneth Kendrick,10,7,17
+Wichita,42,Commissioner of Agriculture,,REP,Sid Miller,599,343,942
+Wichita,42,Commissioner of Agriculture,,DEM,Jim Hogan,106,55,161
+Wichita,42,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,14,14,28
+Wichita,42,Commissioner of Agriculture,,GRN,Kenneth Kendrick,3,2,5
+Wichita,43,Commissioner of Agriculture,,REP,Sid Miller,458,375,833
+Wichita,43,Commissioner of Agriculture,,DEM,Jim Hogan,145,80,225
+Wichita,43,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,7,14,21
+Wichita,43,Commissioner of Agriculture,,GRN,Kenneth Kendrick,6,5,11
+Wichita,44,Commissioner of Agriculture,,REP,Sid Miller,349,272,621
+Wichita,44,Commissioner of Agriculture,,DEM,Jim Hogan,195,115,310
+Wichita,44,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,23,24,47
+Wichita,44,Commissioner of Agriculture,,GRN,Kenneth Kendrick,4,11,15
+Wichita,45,Commissioner of Agriculture,,REP,Sid Miller,162,108,270
+Wichita,45,Commissioner of Agriculture,,DEM,Jim Hogan,16,11,27
+Wichita,45,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,3,1,4
+Wichita,45,Commissioner of Agriculture,,GRN,Kenneth Kendrick,2,2,4
+Wichita,46,Commissioner of Agriculture,,REP,Sid Miller,130,111,241
+Wichita,46,Commissioner of Agriculture,,DEM,Jim Hogan,28,30,58
+Wichita,46,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,3,4,7
+Wichita,46,Commissioner of Agriculture,,GRN,Kenneth Kendrick,2,2,4
+Wichita,47,Commissioner of Agriculture,,REP,Sid Miller,79,77,156
+Wichita,47,Commissioner of Agriculture,,DEM,Jim Hogan,24,16,40
+Wichita,47,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,0,0,0
+Wichita,47,Commissioner of Agriculture,,GRN,Kenneth Kendrick,1,0,1
+Wichita,10,Railroad Commissioner,,REP,Ryan Sitton,70,34,104
+Wichita,10,Railroad Commissioner,,DEM,Steve Brown,14,5,19
+Wichita,10,Railroad Commissioner,,LIB,Mark A. Miller,5,3,8
+Wichita,10,Railroad Commissioner,,GRN,Martina Salinas,2,1,3
+Wichita,11,Railroad Commissioner,,REP,Ryan Sitton,265,178,443
+Wichita,11,Railroad Commissioner,,DEM,Steve Brown,65,37,102
+Wichita,11,Railroad Commissioner,,LIB,Mark A. Miller,11,8,19
+Wichita,11,Railroad Commissioner,,GRN,Martina Salinas,4,4,8
+Wichita,12,Railroad Commissioner,,REP,Ryan Sitton,532,500,1032
+Wichita,12,Railroad Commissioner,,DEM,Steve Brown,138,96,234
+Wichita,12,Railroad Commissioner,,LIB,Mark A. Miller,18,17,35
+Wichita,12,Railroad Commissioner,,GRN,Martina Salinas,2,9,11
+Wichita,13,Railroad Commissioner,,REP,Ryan Sitton,383,198,581
+Wichita,13,Railroad Commissioner,,DEM,Steve Brown,81,39,120
+Wichita,13,Railroad Commissioner,,LIB,Mark A. Miller,2,4,6
+Wichita,13,Railroad Commissioner,,GRN,Martina Salinas,5,2,7
+Wichita,14,Railroad Commissioner,,REP,Ryan Sitton,492,304,796
+Wichita,14,Railroad Commissioner,,DEM,Steve Brown,130,90,220
+Wichita,14,Railroad Commissioner,,LIB,Mark A. Miller,20,11,31
+Wichita,14,Railroad Commissioner,,GRN,Martina Salinas,5,3,8
+Wichita,15,Railroad Commissioner,,REP,Ryan Sitton,116,105,221
+Wichita,15,Railroad Commissioner,,DEM,Steve Brown,9,21,30
+Wichita,15,Railroad Commissioner,,LIB,Mark A. Miller,6,9,15
+Wichita,15,Railroad Commissioner,,GRN,Martina Salinas,1,0,1
+Wichita,16,Railroad Commissioner,,REP,Ryan Sitton,22,5,27
+Wichita,16,Railroad Commissioner,,DEM,Steve Brown,2,1,3
+Wichita,16,Railroad Commissioner,,LIB,Mark A. Miller,0,1,1
+Wichita,16,Railroad Commissioner,,GRN,Martina Salinas,0,0,0
+Wichita,17,Railroad Commissioner,,REP,Ryan Sitton,619,441,1060
+Wichita,17,Railroad Commissioner,,DEM,Steve Brown,140,76,216
+Wichita,17,Railroad Commissioner,,LIB,Mark A. Miller,16,15,31
+Wichita,17,Railroad Commissioner,,GRN,Martina Salinas,3,3,6
+Wichita,18,Railroad Commissioner,,REP,Ryan Sitton,544,421,965
+Wichita,18,Railroad Commissioner,,DEM,Steve Brown,144,101,245
+Wichita,18,Railroad Commissioner,,LIB,Mark A. Miller,20,21,41
+Wichita,18,Railroad Commissioner,,GRN,Martina Salinas,10,3,13
+Wichita,20,Railroad Commissioner,,REP,Ryan Sitton,218,211,429
+Wichita,20,Railroad Commissioner,,DEM,Steve Brown,117,73,190
+Wichita,20,Railroad Commissioner,,LIB,Mark A. Miller,7,13,20
+Wichita,20,Railroad Commissioner,,GRN,Martina Salinas,10,6,16
+Wichita,21,Railroad Commissioner,,REP,Ryan Sitton,132,224,356
+Wichita,21,Railroad Commissioner,,DEM,Steve Brown,57,72,129
+Wichita,21,Railroad Commissioner,,LIB,Mark A. Miller,8,11,19
+Wichita,21,Railroad Commissioner,,GRN,Martina Salinas,4,3,7
+Wichita,22,Railroad Commissioner,,REP,Ryan Sitton,99,118,217
+Wichita,22,Railroad Commissioner,,DEM,Steve Brown,87,58,145
+Wichita,22,Railroad Commissioner,,LIB,Mark A. Miller,5,9,14
+Wichita,22,Railroad Commissioner,,GRN,Martina Salinas,4,2,6
+Wichita,23,Railroad Commissioner,,REP,Ryan Sitton,133,106,239
+Wichita,23,Railroad Commissioner,,DEM,Steve Brown,22,23,45
+Wichita,23,Railroad Commissioner,,LIB,Mark A. Miller,5,3,8
+Wichita,23,Railroad Commissioner,,GRN,Martina Salinas,0,0,0
+Wichita,24,Railroad Commissioner,,REP,Ryan Sitton,575,495,1070
+Wichita,24,Railroad Commissioner,,DEM,Steve Brown,104,93,197
+Wichita,24,Railroad Commissioner,,LIB,Mark A. Miller,14,22,36
+Wichita,24,Railroad Commissioner,,GRN,Martina Salinas,6,5,11
+Wichita,25,Railroad Commissioner,,REP,Ryan Sitton,385,278,663
+Wichita,25,Railroad Commissioner,,DEM,Steve Brown,106,73,179
+Wichita,25,Railroad Commissioner,,LIB,Mark A. Miller,24,19,43
+Wichita,25,Railroad Commissioner,,GRN,Martina Salinas,2,3,5
+Wichita,26,Railroad Commissioner,,REP,Ryan Sitton,65,36,101
+Wichita,26,Railroad Commissioner,,DEM,Steve Brown,37,42,79
+Wichita,26,Railroad Commissioner,,LIB,Mark A. Miller,3,4,7
+Wichita,26,Railroad Commissioner,,GRN,Martina Salinas,2,0,2
+Wichita,30,Railroad Commissioner,,REP,Ryan Sitton,69,58,127
+Wichita,30,Railroad Commissioner,,DEM,Steve Brown,30,13,43
+Wichita,30,Railroad Commissioner,,LIB,Mark A. Miller,5,10,15
+Wichita,30,Railroad Commissioner,,GRN,Martina Salinas,1,0,1
+Wichita,31,Railroad Commissioner,,REP,Ryan Sitton,153,133,286
+Wichita,31,Railroad Commissioner,,DEM,Steve Brown,105,70,175
+Wichita,31,Railroad Commissioner,,LIB,Mark A. Miller,9,16,25
+Wichita,31,Railroad Commissioner,,GRN,Martina Salinas,10,7,17
+Wichita,32,Railroad Commissioner,,REP,Ryan Sitton,53,40,93
+Wichita,32,Railroad Commissioner,,DEM,Steve Brown,131,160,291
+Wichita,32,Railroad Commissioner,,LIB,Mark A. Miller,5,4,9
+Wichita,32,Railroad Commissioner,,GRN,Martina Salinas,2,3,5
+Wichita,33,Railroad Commissioner,,REP,Ryan Sitton,41,55,96
+Wichita,33,Railroad Commissioner,,DEM,Steve Brown,17,24,41
+Wichita,33,Railroad Commissioner,,LIB,Mark A. Miller,1,5,6
+Wichita,33,Railroad Commissioner,,GRN,Martina Salinas,1,1,2
+Wichita,34,Railroad Commissioner,,REP,Ryan Sitton,25,28,53
+Wichita,34,Railroad Commissioner,,DEM,Steve Brown,102,100,202
+Wichita,34,Railroad Commissioner,,LIB,Mark A. Miller,4,2,6
+Wichita,34,Railroad Commissioner,,GRN,Martina Salinas,3,4,7
+Wichita,35,Railroad Commissioner,,REP,Ryan Sitton,36,62,98
+Wichita,35,Railroad Commissioner,,DEM,Steve Brown,8,5,13
+Wichita,35,Railroad Commissioner,,LIB,Mark A. Miller,1,5,6
+Wichita,35,Railroad Commissioner,,GRN,Martina Salinas,0,3,3
+Wichita,36,Railroad Commissioner,,REP,Ryan Sitton,592,504,1096
+Wichita,36,Railroad Commissioner,,DEM,Steve Brown,95,62,157
+Wichita,36,Railroad Commissioner,,LIB,Mark A. Miller,19,26,45
+Wichita,36,Railroad Commissioner,,GRN,Martina Salinas,5,4,9
+Wichita,37,Railroad Commissioner,,REP,Ryan Sitton,265,180,445
+Wichita,37,Railroad Commissioner,,DEM,Steve Brown,35,20,55
+Wichita,37,Railroad Commissioner,,LIB,Mark A. Miller,8,11,19
+Wichita,37,Railroad Commissioner,,GRN,Martina Salinas,1,1,2
+Wichita,38,Railroad Commissioner,,REP,Ryan Sitton,39,32,71
+Wichita,38,Railroad Commissioner,,DEM,Steve Brown,116,145,261
+Wichita,38,Railroad Commissioner,,LIB,Mark A. Miller,2,5,7
+Wichita,38,Railroad Commissioner,,GRN,Martina Salinas,3,2,5
+Wichita,40,Railroad Commissioner,,REP,Ryan Sitton,623,318,941
+Wichita,40,Railroad Commissioner,,DEM,Steve Brown,148,84,232
+Wichita,40,Railroad Commissioner,,LIB,Mark A. Miller,22,21,43
+Wichita,40,Railroad Commissioner,,GRN,Martina Salinas,9,4,13
+Wichita,41,Railroad Commissioner,,REP,Ryan Sitton,352,308,660
+Wichita,41,Railroad Commissioner,,DEM,Steve Brown,133,78,211
+Wichita,41,Railroad Commissioner,,LIB,Mark A. Miller,15,20,35
+Wichita,41,Railroad Commissioner,,GRN,Martina Salinas,7,3,10
+Wichita,42,Railroad Commissioner,,REP,Ryan Sitton,607,342,949
+Wichita,42,Railroad Commissioner,,DEM,Steve Brown,97,47,144
+Wichita,42,Railroad Commissioner,,LIB,Mark A. Miller,15,20,35
+Wichita,42,Railroad Commissioner,,GRN,Martina Salinas,2,3,5
+Wichita,43,Railroad Commissioner,,REP,Ryan Sitton,455,379,834
+Wichita,43,Railroad Commissioner,,DEM,Steve Brown,148,74,222
+Wichita,43,Railroad Commissioner,,LIB,Mark A. Miller,13,14,27
+Wichita,43,Railroad Commissioner,,GRN,Martina Salinas,5,7,12
+Wichita,44,Railroad Commissioner,,REP,Ryan Sitton,355,278,633
+Wichita,44,Railroad Commissioner,,DEM,Steve Brown,182,111,293
+Wichita,44,Railroad Commissioner,,LIB,Mark A. Miller,25,24,49
+Wichita,44,Railroad Commissioner,,GRN,Martina Salinas,9,8,17
+Wichita,45,Railroad Commissioner,,REP,Ryan Sitton,161,103,264
+Wichita,45,Railroad Commissioner,,DEM,Steve Brown,18,10,28
+Wichita,45,Railroad Commissioner,,LIB,Mark A. Miller,1,5,6
+Wichita,45,Railroad Commissioner,,GRN,Martina Salinas,2,2,4
+Wichita,46,Railroad Commissioner,,REP,Ryan Sitton,132,109,241
+Wichita,46,Railroad Commissioner,,DEM,Steve Brown,25,28,53
+Wichita,46,Railroad Commissioner,,LIB,Mark A. Miller,6,5,11
+Wichita,46,Railroad Commissioner,,GRN,Martina Salinas,0,3,3
+Wichita,47,Railroad Commissioner,,REP,Ryan Sitton,78,74,152
+Wichita,47,Railroad Commissioner,,DEM,Steve Brown,25,16,41
+Wichita,47,Railroad Commissioner,,LIB,Mark A. Miller,0,1,1
+Wichita,47,Railroad Commissioner,,GRN,Martina Salinas,1,0,1
+Wichita,10,State Senate,30,REP,Craig Estes,76,34,110
+Wichita,10,State Senate,30,LIB,Cory Lane,10,6,16
+Wichita,11,State Senate,30,REP,Craig Estes,283,190,473
+Wichita,11,State Senate,30,LIB,Cory Lane,38,31,69
+Wichita,12,State Senate,30,REP,Craig Estes,563,520,1083
+Wichita,12,State Senate,30,LIB,Cory Lane,84,73,157
+Wichita,13,State Senate,30,REP,Craig Estes,382,206,588
+Wichita,13,State Senate,30,LIB,Cory Lane,51,25,76
+Wichita,14,State Senate,30,REP,Craig Estes,502,308,810
+Wichita,14,State Senate,30,LIB,Cory Lane,83,69,152
+Wichita,15,State Senate,30,REP,Craig Estes,116,110,226
+Wichita,15,State Senate,30,LIB,Cory Lane,14,17,31
+Wichita,16,State Senate,30,REP,Craig Estes,23,8,31
+Wichita,16,State Senate,30,LIB,Cory Lane,2,0,2
+Wichita,17,State Senate,30,REP,Craig Estes,629,454,1083
+Wichita,17,State Senate,30,LIB,Cory Lane,90,50,140
+Wichita,18,State Senate,30,REP,Craig Estes,574,432,1006
+Wichita,18,State Senate,30,LIB,Cory Lane,91,82,173
+Wichita,20,State Senate,30,REP,Craig Estes,248,225,473
+Wichita,20,State Senate,30,LIB,Cory Lane,55,42,97
+Wichita,21,State Senate,30,REP,Craig Estes,144,243,387
+Wichita,21,State Senate,30,LIB,Cory Lane,29,36,65
+Wichita,22,State Senate,30,REP,Craig Estes,115,125,240
+Wichita,22,State Senate,30,LIB,Cory Lane,28,28,56
+Wichita,23,State Senate,30,REP,Craig Estes,134,111,245
+Wichita,23,State Senate,30,LIB,Cory Lane,20,10,30
+Wichita,24,State Senate,30,REP,Craig Estes,603,537,1140
+Wichita,24,State Senate,30,LIB,Cory Lane,67,61,128
+Wichita,25,State Senate,30,REP,Craig Estes,413,298,711
+Wichita,25,State Senate,30,LIB,Cory Lane,67,49,116
+Wichita,26,State Senate,30,REP,Craig Estes,70,45,115
+Wichita,26,State Senate,30,LIB,Cory Lane,13,12,25
+Wichita,30,State Senate,30,REP,Craig Estes,79,62,141
+Wichita,30,State Senate,30,LIB,Cory Lane,13,14,27
+Wichita,31,State Senate,30,REP,Craig Estes,169,156,325
+Wichita,31,State Senate,30,LIB,Cory Lane,62,31,93
+Wichita,32,State Senate,30,REP,Craig Estes,78,50,128
+Wichita,32,State Senate,30,LIB,Cory Lane,28,21,49
+Wichita,33,State Senate,30,REP,Craig Estes,46,59,105
+Wichita,33,State Senate,30,LIB,Cory Lane,10,19,29
+Wichita,34,State Senate,30,REP,Craig Estes,41,37,78
+Wichita,34,State Senate,30,LIB,Cory Lane,21,21,42
+Wichita,35,State Senate,30,REP,Craig Estes,35,68,103
+Wichita,35,State Senate,30,LIB,Cory Lane,4,5,9
+Wichita,36,State Senate,30,REP,Craig Estes,607,537,1144
+Wichita,36,State Senate,30,LIB,Cory Lane,61,46,107
+Wichita,37,State Senate,30,REP,Craig Estes,272,193,465
+Wichita,37,State Senate,30,LIB,Cory Lane,22,16,38
+Wichita,38,State Senate,30,REP,Craig Estes,54,44,98
+Wichita,38,State Senate,30,LIB,Cory Lane,26,23,49
+Wichita,40,State Senate,30,REP,Craig Estes,647,346,993
+Wichita,40,State Senate,30,LIB,Cory Lane,94,58,152
+Wichita,41,State Senate,30,REP,Craig Estes,369,323,692
+Wichita,41,State Senate,30,LIB,Cory Lane,73,60,133
+Wichita,42,State Senate,30,REP,Craig Estes,610,365,975
+Wichita,42,State Senate,30,LIB,Cory Lane,71,40,111
+Wichita,43,State Senate,30,REP,Craig Estes,481,391,872
+Wichita,43,State Senate,30,LIB,Cory Lane,71,68,139
+Wichita,44,State Senate,30,REP,Craig Estes,379,320,699
+Wichita,44,State Senate,30,LIB,Cory Lane,94,70,164
+Wichita,45,State Senate,30,REP,Craig Estes,159,107,266
+Wichita,45,State Senate,30,LIB,Cory Lane,23,20,43
+Wichita,46,State Senate,30,REP,Craig Estes,141,124,265
+Wichita,46,State Senate,30,LIB,Cory Lane,16,13,29
+Wichita,47,State Senate,30,REP,Craig Estes,88,81,169
+Wichita,47,State Senate,30,LIB,Cory Lane,10,5,15
+Wichita,10,State Representative,69,REP,James Frank,80,36,116
+Wichita,11,State Representative,69,REP,James Frank,294,204,498
+Wichita,12,State Representative,69,REP,James Frank,599,560,1159
+Wichita,13,State Representative,69,REP,James Frank,401,217,618
+Wichita,14,State Representative,69,REP,James Frank,553,330,883
+Wichita,15,State Representative,69,REP,James Frank,118,118,236
+Wichita,16,State Representative,69,REP,James Frank,25,8,33
+Wichita,17,State Representative,69,REP,James Frank,678,485,1163
+Wichita,18,State Representative,69,REP,James Frank,606,482,1088
+Wichita,20,State Representative,69,REP,James Frank,260,238,498
+Wichita,21,State Representative,69,REP,James Frank,147,263,410
+Wichita,22,State Representative,69,REP,James Frank,117,133,250
+Wichita,23,State Representative,69,REP,James Frank,141,113,254
+Wichita,24,State Representative,69,REP,James Frank,633,557,1190
+Wichita,25,State Representative,69,REP,James Frank,435,308,743
+Wichita,26,State Representative,69,REP,James Frank,76,48,124
+Wichita,30,State Representative,69,REP,James Frank,82,70,152
+Wichita,31,State Representative,69,REP,James Frank,189,161,350
+Wichita,32,State Representative,69,REP,James Frank,83,63,146
+Wichita,33,State Representative,69,REP,James Frank,46,67,113
+Wichita,34,State Representative,69,REP,James Frank,41,45,86
+Wichita,35,State Representative,69,REP,James Frank,39,70,109
+Wichita,36,State Representative,69,REP,James Frank,633,565,1198
+Wichita,37,State Representative,69,REP,James Frank,279,202,481
+Wichita,38,State Representative,69,REP,James Frank,65,49,114
+Wichita,40,State Representative,69,REP,James Frank,671,370,1041
+Wichita,41,State Representative,69,REP,James Frank,402,357,759
+Wichita,42,State Representative,69,REP,James Frank,650,385,1035
+Wichita,43,State Representative,69,REP,James Frank,519,423,942
+Wichita,44,State Representative,69,REP,James Frank,415,337,752
+Wichita,45,State Representative,69,REP,James Frank,170,116,286
+Wichita,46,State Representative,69,REP,James Frank,149,124,273
+Wichita,47,State Representative,69,REP,James Frank,89,80,169
