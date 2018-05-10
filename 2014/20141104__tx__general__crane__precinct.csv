@@ -1,0 +1,417 @@
+county,precinct,office,district,party,candidate,votes
+Crane,Precinct 1,United States Senator,,REP,John Cornyn,253
+Crane,Precinct 2,United States Senator,,REP,John Cornyn,197
+Crane,Precinct 3,United States Senator,,REP,John Cornyn,81
+Crane,Precinct 4,United States Senator,,REP,John Cornyn,133
+Crane,Precinct 1,United States Senator,,DEM,David M. Alameel,25
+Crane,Precinct 2,United States Senator,,DEM,David M. Alameel,34
+Crane,Precinct 3,United States Senator,,DEM,David M. Alameel,44
+Crane,Precinct 4,United States Senator,,DEM,David M. Alameel,17
+Crane,Precinct 1,United States Senator,,LIB,Rebecca Paddock,9
+Crane,Precinct 2,United States Senator,,LIB,Rebecca Paddock,2
+Crane,Precinct 3,United States Senator,,LIB,Rebecca Paddock,4
+Crane,Precinct 4,United States Senator,,LIB,Rebecca Paddock,6
+Crane,Precinct 1,United States Senator,,GRN,"Emily ""Spicybrown"" Sanchez",3
+Crane,Precinct 2,United States Senator,,GRN,"Emily ""Spicybrown"" Sanchez",5
+Crane,Precinct 3,United States Senator,,GRN,"Emily ""Spicybrown"" Sanchez",4
+Crane,Precinct 4,United States Senator,,GRN,"Emily ""Spicybrown"" Sanchez",3
+Crane,Precinct 1,United States Senator,,NON,WRITE-IN,1
+Crane,Precinct 2,United States Senator,,NON,WRITE-IN,0
+Crane,Precinct 3,United States Senator,,NON,WRITE-IN,1
+Crane,Precinct 4,United States Senator,,NON,WRITE-IN,0
+Crane,Precinct 1,United States Senator,,,OVER VOTES,0
+Crane,Precinct 2,United States Senator,,,OVER VOTES,0
+Crane,Precinct 3,United States Senator,,,OVER VOTES,0
+Crane,Precinct 4,United States Senator,,,OVER VOTES,0
+Crane,Precinct 1,United States Senator,,,UNDER VOTES,14
+Crane,Precinct 2,United States Senator,,,UNDER VOTES,13
+Crane,Precinct 3,United States Senator,,,UNDER VOTES,15
+Crane,Precinct 4,United States Senator,,,UNDER VOTES,6
+Crane,Precinct 1,U.S. House,23,REP,Will Hurd,238
+Crane,Precinct 2,U.S. House,23,REP,Will Hurd,171
+Crane,Precinct 3,U.S. House,23,REP,Will Hurd,71
+Crane,Precinct 4,U.S. House,23,REP,Will Hurd,124
+Crane,Precinct 1,U.S. House,23,DEM,Pete P. Gallego,56
+Crane,Precinct 2,U.S. House,23,DEM,Pete P. Gallego,61
+Crane,Precinct 3,U.S. House,23,DEM,Pete P. Gallego,63
+Crane,Precinct 4,U.S. House,23,DEM,Pete P. Gallego,31
+Crane,Precinct 1,U.S. House,23,LIB,Ruben Corvalan,1
+Crane,Precinct 2,U.S. House,23,LIB,Ruben Corvalan,3
+Crane,Precinct 3,U.S. House,23,LIB,Ruben Corvalan,3
+Crane,Precinct 4,U.S. House,23,LIB,Ruben Corvalan,4
+Crane,Precinct 1,U.S. House,23,,OVER VOTES,0
+Crane,Precinct 2,U.S. House,23,,OVER VOTES,0
+Crane,Precinct 3,U.S. House,23,,OVER VOTES,0
+Crane,Precinct 4,U.S. House,23,,OVER VOTES,0
+Crane,Precinct 1,U.S. House,23,,UNDER VOTES,10
+Crane,Precinct 2,U.S. House,23,,UNDER VOTES,16
+Crane,Precinct 3,U.S. House,23,,UNDER VOTES,12
+Crane,Precinct 4,U.S. House,23,,UNDER VOTES,6
+Crane,Precinct 1,Governor,,REP,Greg Abbott,277
+Crane,Precinct 2,Governor,,REP,Greg Abbott,208
+Crane,Precinct 3,Governor,,REP,Greg Abbott,89
+Crane,Precinct 4,Governor,,REP,Greg Abbott,139
+Crane,Precinct 1,Governor,,DEM,Wendy R. Davis,25
+Crane,Precinct 2,Governor,,DEM,Wendy R. Davis,34
+Crane,Precinct 3,Governor,,DEM,Wendy R. Davis,47
+Crane,Precinct 4,Governor,,DEM,Wendy R. Davis,21
+Crane,Precinct 1,Governor,,LIB,Kathie Glass,1
+Crane,Precinct 2,Governor,,LIB,Kathie Glass,2
+Crane,Precinct 3,Governor,,LIB,Kathie Glass,1
+Crane,Precinct 4,Governor,,LIB,Kathie Glass,2
+Crane,Precinct 1,Governor,,GRN,Brandon Parmer,0
+Crane,Precinct 2,Governor,,GRN,Brandon Parmer,2
+Crane,Precinct 3,Governor,,GRN,Brandon Parmer,1
+Crane,Precinct 4,Governor,,GRN,Brandon Parmer,0
+Crane,Precinct 1,Governor,,NON,WRITE-IN,0
+Crane,Precinct 2,Governor,,NON,WRITE-IN,0
+Crane,Precinct 3,Governor,,NON,WRITE-IN,2
+Crane,Precinct 4,Governor,,NON,WRITE-IN,0
+Crane,Precinct 1,Governor,,,OVER VOTES,0
+Crane,Precinct 2,Governor,,,OVER VOTES,0
+Crane,Precinct 3,Governor,,,OVER VOTES,0
+Crane,Precinct 4,Governor,,,OVER VOTES,0
+Crane,Precinct 1,Governor,,,UNDER VOTES,2
+Crane,Precinct 2,Governor,,,UNDER VOTES,5
+Crane,Precinct 3,Governor,,,UNDER VOTES,9
+Crane,Precinct 4,Governor,,,UNDER VOTES,3
+Crane,Precinct 1,Lieutenant Governor,,REP,Dan Patrick,264
+Crane,Precinct 2,Lieutenant Governor,,REP,Dan Patrick,194
+Crane,Precinct 3,Lieutenant Governor,,REP,Dan Patrick,81
+Crane,Precinct 4,Lieutenant Governor,,REP,Dan Patrick,134
+Crane,Precinct 1,Lieutenant Governor,,DEM,Leticia Van de Putte,25
+Crane,Precinct 2,Lieutenant Governor,,DEM,Leticia Van de Putte,35
+Crane,Precinct 3,Lieutenant Governor,,DEM,Leticia Van de Putte,46
+Crane,Precinct 4,Lieutenant Governor,,DEM,Leticia Van de Putte,21
+Crane,Precinct 1,Lieutenant Governor,,LIB,Robert D. Butler,4
+Crane,Precinct 2,Lieutenant Governor,,LIB,Robert D. Butler,8
+Crane,Precinct 3,Lieutenant Governor,,LIB,Robert D. Butler,8
+Crane,Precinct 4,Lieutenant Governor,,LIB,Robert D. Butler,6
+Crane,Precinct 1,Lieutenant Governor,,GRN,Chandrakantha Courtney,1
+Crane,Precinct 2,Lieutenant Governor,,GRN,Chandrakantha Courtney,1
+Crane,Precinct 3,Lieutenant Governor,,GRN,Chandrakantha Courtney,0
+Crane,Precinct 4,Lieutenant Governor,,GRN,Chandrakantha Courtney,0
+Crane,Precinct 1,Lieutenant Governor,,,OVER VOTES,0
+Crane,Precinct 2,Lieutenant Governor,,,OVER VOTES,0
+Crane,Precinct 3,Lieutenant Governor,,,OVER VOTES,0
+Crane,Precinct 4,Lieutenant Governor,,,OVER VOTES,0
+Crane,Precinct 1,Lieutenant Governor,,,UNDER VOTES,11
+Crane,Precinct 2,Lieutenant Governor,,,UNDER VOTES,13
+Crane,Precinct 3,Lieutenant Governor,,,UNDER VOTES,14
+Crane,Precinct 4,Lieutenant Governor,,,UNDER VOTES,4
+Crane,Precinct 1,Attorney General,,REP,Ken Paxton,255
+Crane,Precinct 2,Attorney General,,REP,Ken Paxton,184
+Crane,Precinct 3,Attorney General,,REP,Ken Paxton,77
+Crane,Precinct 4,Attorney General,,REP,Ken Paxton,134
+Crane,Precinct 1,Attorney General,,DEM,Sam Houston,33
+Crane,Precinct 2,Attorney General,,DEM,Sam Houston,48
+Crane,Precinct 3,Attorney General,,DEM,Sam Houston,53
+Crane,Precinct 4,Attorney General,,DEM,Sam Houston,19
+Crane,Precinct 1,Attorney General,,LIB,Jamie Balagia,5
+Crane,Precinct 2,Attorney General,,LIB,Jamie Balagia,6
+Crane,Precinct 3,Attorney General,,LIB,Jamie Balagia,6
+Crane,Precinct 4,Attorney General,,LIB,Jamie Balagia,6
+Crane,Precinct 1,Attorney General,,GRN,Jamar Osborne,1
+Crane,Precinct 2,Attorney General,,GRN,Jamar Osborne,2
+Crane,Precinct 3,Attorney General,,GRN,Jamar Osborne,0
+Crane,Precinct 4,Attorney General,,GRN,Jamar Osborne,0
+Crane,Precinct 1,Attorney General,,,OVER VOTES,0
+Crane,Precinct 2,Attorney General,,,OVER VOTES,0
+Crane,Precinct 3,Attorney General,,,OVER VOTES,0
+Crane,Precinct 4,Attorney General,,,OVER VOTES,0
+Crane,Precinct 1,Attorney General,,,UNDER VOTES,11
+Crane,Precinct 2,Attorney General,,,UNDER VOTES,11
+Crane,Precinct 3,Attorney General,,,UNDER VOTES,13
+Crane,Precinct 4,Attorney General,,,UNDER VOTES,6
+Crane,Precinct 1,Comptroller of Public Accounts,,REP,Glenn Hegar,246
+Crane,Precinct 2,Comptroller of Public Accounts,,REP,Glenn Hegar,176
+Crane,Precinct 3,Comptroller of Public Accounts,,REP,Glenn Hegar,71
+Crane,Precinct 4,Comptroller of Public Accounts,,REP,Glenn Hegar,125
+Crane,Precinct 1,Comptroller of Public Accounts,,DEM,Mike Collier,36
+Crane,Precinct 2,Comptroller of Public Accounts,,DEM,Mike Collier,47
+Crane,Precinct 3,Comptroller of Public Accounts,,DEM,Mike Collier,53
+Crane,Precinct 4,Comptroller of Public Accounts,,DEM,Mike Collier,24
+Crane,Precinct 1,Comptroller of Public Accounts,,LIB,Ben Sanders,9
+Crane,Precinct 2,Comptroller of Public Accounts,,LIB,Ben Sanders,6
+Crane,Precinct 3,Comptroller of Public Accounts,,LIB,Ben Sanders,8
+Crane,Precinct 4,Comptroller of Public Accounts,,LIB,Ben Sanders,7
+Crane,Precinct 1,Comptroller of Public Accounts,,GRN,Deb Shafto,1
+Crane,Precinct 2,Comptroller of Public Accounts,,GRN,Deb Shafto,5
+Crane,Precinct 3,Comptroller of Public Accounts,,GRN,Deb Shafto,0
+Crane,Precinct 4,Comptroller of Public Accounts,,GRN,Deb Shafto,0
+Crane,Precinct 1,Comptroller of Public Accounts,,,OVER VOTES,0
+Crane,Precinct 2,Comptroller of Public Accounts,,,OVER VOTES,0
+Crane,Precinct 3,Comptroller of Public Accounts,,,OVER VOTES,0
+Crane,Precinct 4,Comptroller of Public Accounts,,,OVER VOTES,0
+Crane,Precinct 1,Comptroller of Public Accounts,,,UNDER VOTES,13
+Crane,Precinct 2,Comptroller of Public Accounts,,,UNDER VOTES,17
+Crane,Precinct 3,Comptroller of Public Accounts,,,UNDER VOTES,17
+Crane,Precinct 4,Comptroller of Public Accounts,,,UNDER VOTES,9
+Crane,Precinct 1,Commissioner of the General Land Office,,REP,George P. Bush,253
+Crane,Precinct 2,Commissioner of the General Land Office,,REP,George P. Bush,193
+Crane,Precinct 3,Commissioner of the General Land Office,,REP,George P. Bush,83
+Crane,Precinct 4,Commissioner of the General Land Office,,REP,George P. Bush,134
+Crane,Precinct 1,Commissioner of the General Land Office,,DEM,John Cook,27
+Crane,Precinct 2,Commissioner of the General Land Office,,DEM,John Cook,38
+Crane,Precinct 3,Commissioner of the General Land Office,,DEM,John Cook,46
+Crane,Precinct 4,Commissioner of the General Land Office,,DEM,John Cook,20
+Crane,Precinct 1,Commissioner of the General Land Office,,LIB,Justin Knight,14
+Crane,Precinct 2,Commissioner of the General Land Office,,LIB,Justin Knight,7
+Crane,Precinct 3,Commissioner of the General Land Office,,LIB,Justin Knight,5
+Crane,Precinct 4,Commissioner of the General Land Office,,LIB,Justin Knight,5
+Crane,Precinct 1,Commissioner of the General Land Office,,GRN,Valerie Alessi,2
+Crane,Precinct 2,Commissioner of the General Land Office,,GRN,Valerie Alessi,1
+Crane,Precinct 3,Commissioner of the General Land Office,,GRN,Valerie Alessi,2
+Crane,Precinct 4,Commissioner of the General Land Office,,GRN,Valerie Alessi,0
+Crane,Precinct 1,Commissioner of the General Land Office,,,OVER VOTES,0
+Crane,Precinct 2,Commissioner of the General Land Office,,,OVER VOTES,0
+Crane,Precinct 3,Commissioner of the General Land Office,,,OVER VOTES,0
+Crane,Precinct 4,Commissioner of the General Land Office,,,OVER VOTES,0
+Crane,Precinct 1,Commissioner of the General Land Office,,,UNDER VOTES,9
+Crane,Precinct 2,Commissioner of the General Land Office,,,UNDER VOTES,12
+Crane,Precinct 3,Commissioner of the General Land Office,,,UNDER VOTES,13
+Crane,Precinct 4,Commissioner of the General Land Office,,,UNDER VOTES,6
+Crane,Precinct 1,Commissioner of Agriculture,,REP,Sid Miller,241
+Crane,Precinct 2,Commissioner of Agriculture,,REP,Sid Miller,181
+Crane,Precinct 3,Commissioner of Agriculture,,REP,Sid Miller,69
+Crane,Precinct 4,Commissioner of Agriculture,,REP,Sid Miller,125
+Crane,Precinct 1,Commissioner of Agriculture,,DEM,Jim Hogan,39
+Crane,Precinct 2,Commissioner of Agriculture,,DEM,Jim Hogan,45
+Crane,Precinct 3,Commissioner of Agriculture,,DEM,Jim Hogan,55
+Crane,Precinct 4,Commissioner of Agriculture,,DEM,Jim Hogan,23
+Crane,Precinct 1,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,7
+Crane,Precinct 2,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,8
+Crane,Precinct 3,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,7
+Crane,Precinct 4,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,6
+Crane,Precinct 1,Commissioner of Agriculture,,GRN,Kenneth Kendrick,2
+Crane,Precinct 2,Commissioner of Agriculture,,GRN,Kenneth Kendrick,2
+Crane,Precinct 3,Commissioner of Agriculture,,GRN,Kenneth Kendrick,1
+Crane,Precinct 4,Commissioner of Agriculture,,GRN,Kenneth Kendrick,1
+Crane,Precinct 1,Commissioner of Agriculture,,,OVER VOTES,0
+Crane,Precinct 2,Commissioner of Agriculture,,,OVER VOTES,0
+Crane,Precinct 3,Commissioner of Agriculture,,,OVER VOTES,0
+Crane,Precinct 4,Commissioner of Agriculture,,,OVER VOTES,0
+Crane,Precinct 1,Commissioner of Agriculture,,,UNDER VOTES,16
+Crane,Precinct 2,Commissioner of Agriculture,,,UNDER VOTES,15
+Crane,Precinct 3,Commissioner of Agriculture,,,UNDER VOTES,17
+Crane,Precinct 4,Commissioner of Agriculture,,,UNDER VOTES,10
+Crane,Precinct 1,Railroad Commissioner,,REP,Ryan Sitton,241
+Crane,Precinct 2,Railroad Commissioner,,REP,Ryan Sitton,177
+Crane,Precinct 3,Railroad Commissioner,,REP,Ryan Sitton,66
+Crane,Precinct 4,Railroad Commissioner,,REP,Ryan Sitton,125
+Crane,Precinct 1,Railroad Commissioner,,DEM,Steve Brown,33
+Crane,Precinct 2,Railroad Commissioner,,DEM,Steve Brown,39
+Crane,Precinct 3,Railroad Commissioner,,DEM,Steve Brown,54
+Crane,Precinct 4,Railroad Commissioner,,DEM,Steve Brown,21
+Crane,Precinct 1,Railroad Commissioner,,LIB,Mark A. Miller,9
+Crane,Precinct 2,Railroad Commissioner,,LIB,Mark A. Miller,13
+Crane,Precinct 3,Railroad Commissioner,,LIB,Mark A. Miller,6
+Crane,Precinct 4,Railroad Commissioner,,LIB,Mark A. Miller,6
+Crane,Precinct 1,Railroad Commissioner,,GRN,Martina Salinas,7
+Crane,Precinct 2,Railroad Commissioner,,GRN,Martina Salinas,6
+Crane,Precinct 3,Railroad Commissioner,,GRN,Martina Salinas,7
+Crane,Precinct 4,Railroad Commissioner,,GRN,Martina Salinas,2
+Crane,Precinct 1,Railroad Commissioner,,,OVER VOTES,0
+Crane,Precinct 2,Railroad Commissioner,,,OVER VOTES,0
+Crane,Precinct 3,Railroad Commissioner,,,OVER VOTES,0
+Crane,Precinct 4,Railroad Commissioner,,,OVER VOTES,0
+Crane,Precinct 1,Railroad Commissioner,,,UNDER VOTES,15
+Crane,Precinct 2,Railroad Commissioner,,,UNDER VOTES,16
+Crane,Precinct 3,Railroad Commissioner,,,UNDER VOTES,16
+Crane,Precinct 4,Railroad Commissioner,,,UNDER VOTES,11
+Crane,Precinct 1,"Chief Justice, Supreme Court",,REP,Nathan Hecht,247
+Crane,Precinct 2,"Chief Justice, Supreme Court",,REP,Nathan Hecht,171
+Crane,Precinct 3,"Chief Justice, Supreme Court",,REP,Nathan Hecht,72
+Crane,Precinct 4,"Chief Justice, Supreme Court",,REP,Nathan Hecht,126
+Crane,Precinct 1,"Chief Justice, Supreme Court",,DEM,William Moody,34
+Crane,Precinct 2,"Chief Justice, Supreme Court",,DEM,William Moody,50
+Crane,Precinct 3,"Chief Justice, Supreme Court",,DEM,William Moody,57
+Crane,Precinct 4,"Chief Justice, Supreme Court",,DEM,William Moody,23
+Crane,Precinct 1,"Chief Justice, Supreme Court",,LIB,Tom Oxford,8
+Crane,Precinct 2,"Chief Justice, Supreme Court",,LIB,Tom Oxford,11
+Crane,Precinct 3,"Chief Justice, Supreme Court",,LIB,Tom Oxford,4
+Crane,Precinct 4,"Chief Justice, Supreme Court",,LIB,Tom Oxford,5
+Crane,Precinct 1,"Chief Justice, Supreme Court",,,OVER VOTES,0
+Crane,Precinct 2,"Chief Justice, Supreme Court",,,OVER VOTES,0
+Crane,Precinct 3,"Chief Justice, Supreme Court",,,OVER VOTES,0
+Crane,Precinct 4,"Chief Justice, Supreme Court",,,OVER VOTES,0
+Crane,Precinct 1,"Chief Justice, Supreme Court",,,UNDER VOTES,16
+Crane,Precinct 2,"Chief Justice, Supreme Court",,,UNDER VOTES,19
+Crane,Precinct 3,"Chief Justice, Supreme Court",,,UNDER VOTES,16
+Crane,Precinct 4,"Chief Justice, Supreme Court",,,UNDER VOTES,11
+Crane,Precinct 1,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,252
+Crane,Precinct 2,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,178
+Crane,Precinct 3,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,77
+Crane,Precinct 4,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,127
+Crane,Precinct 1,"Justice, Supreme Court, Place 6",,DEM,Lawrence Edward Meyers,33
+Crane,Precinct 2,"Justice, Supreme Court, Place 6",,DEM,Lawrence Edward Meyers,42
+Crane,Precinct 3,"Justice, Supreme Court, Place 6",,DEM,Lawrence Edward Meyers,48
+Crane,Precinct 4,"Justice, Supreme Court, Place 6",,DEM,Lawrence Edward Meyers,20
+Crane,Precinct 1,"Justice, Supreme Court, Place 6",,LIB,Mark Ash,5
+Crane,Precinct 2,"Justice, Supreme Court, Place 6",,LIB,Mark Ash,10
+Crane,Precinct 3,"Justice, Supreme Court, Place 6",,LIB,Mark Ash,8
+Crane,Precinct 4,"Justice, Supreme Court, Place 6",,LIB,Mark Ash,7
+Crane,Precinct 1,"Justice, Supreme Court, Place 6",,,OVER VOTES,0
+Crane,Precinct 2,"Justice, Supreme Court, Place 6",,,OVER VOTES,0
+Crane,Precinct 3,"Justice, Supreme Court, Place 6",,,OVER VOTES,0
+Crane,Precinct 4,"Justice, Supreme Court, Place 6",,,OVER VOTES,1
+Crane,Precinct 1,"Justice, Supreme Court, Place 6",,,UNDER VOTES,15
+Crane,Precinct 2,"Justice, Supreme Court, Place 6",,,UNDER VOTES,21
+Crane,Precinct 3,"Justice, Supreme Court, Place 6",,,UNDER VOTES,16
+Crane,Precinct 4,"Justice, Supreme Court, Place 6",,,UNDER VOTES,11
+Crane,Precinct 1,"Justice, Supreme Court, Place 7",,REP,Jeff Boyd,254
+Crane,Precinct 2,"Justice, Supreme Court, Place 7",,REP,Jeff Boyd,179
+Crane,Precinct 3,"Justice, Supreme Court, Place 7",,REP,Jeff Boyd,73
+Crane,Precinct 4,"Justice, Supreme Court, Place 7",,REP,Jeff Boyd,126
+Crane,Precinct 1,"Justice, Supreme Court, Place 7",,DEM,Gina Benavides,28
+Crane,Precinct 2,"Justice, Supreme Court, Place 7",,DEM,Gina Benavides,43
+Crane,Precinct 3,"Justice, Supreme Court, Place 7",,DEM,Gina Benavides,53
+Crane,Precinct 4,"Justice, Supreme Court, Place 7",,DEM,Gina Benavides,21
+Crane,Precinct 1,"Justice, Supreme Court, Place 7",,LIB,Don Fulton,8
+Crane,Precinct 2,"Justice, Supreme Court, Place 7",,LIB,Don Fulton,8
+Crane,Precinct 3,"Justice, Supreme Court, Place 7",,LIB,Don Fulton,6
+Crane,Precinct 4,"Justice, Supreme Court, Place 7",,LIB,Don Fulton,5
+Crane,Precinct 1,"Justice, Supreme Court, Place 7",,GRN,Charles E. Waterbury,2
+Crane,Precinct 2,"Justice, Supreme Court, Place 7",,GRN,Charles E. Waterbury,3
+Crane,Precinct 3,"Justice, Supreme Court, Place 7",,GRN,Charles E. Waterbury,4
+Crane,Precinct 4,"Justice, Supreme Court, Place 7",,GRN,Charles E. Waterbury,1
+Crane,Precinct 1,"Justice, Supreme Court, Place 7",,,OVER VOTES,0
+Crane,Precinct 2,"Justice, Supreme Court, Place 7",,,OVER VOTES,0
+Crane,Precinct 3,"Justice, Supreme Court, Place 7",,,OVER VOTES,0
+Crane,Precinct 4,"Justice, Supreme Court, Place 7",,,OVER VOTES,0
+Crane,Precinct 1,"Justice, Supreme Court, Place 7",,,UNDER VOTES,13
+Crane,Precinct 2,"Justice, Supreme Court, Place 7",,,UNDER VOTES,18
+Crane,Precinct 3,"Justice, Supreme Court, Place 7",,,UNDER VOTES,13
+Crane,Precinct 4,"Justice, Supreme Court, Place 7",,,UNDER VOTES,12
+Crane,Precinct 1,"Justice, Supreme Court, Place 8",,REP,Phil Johnson,263
+Crane,Precinct 2,"Justice, Supreme Court, Place 8",,REP,Phil Johnson,186
+Crane,Precinct 3,"Justice, Supreme Court, Place 8",,REP,Phil Johnson,80
+Crane,Precinct 4,"Justice, Supreme Court, Place 8",,REP,Phil Johnson,136
+Crane,Precinct 1,"Justice, Supreme Court, Place 8",,LIB,RS Roberto Koelsch,9
+Crane,Precinct 2,"Justice, Supreme Court, Place 8",,LIB,RS Roberto Koelsch,10
+Crane,Precinct 3,"Justice, Supreme Court, Place 8",,LIB,RS Roberto Koelsch,15
+Crane,Precinct 4,"Justice, Supreme Court, Place 8",,LIB,RS Roberto Koelsch,4
+Crane,Precinct 1,"Justice, Supreme Court, Place 8",,GRN,Jim Chisolm,5
+Crane,Precinct 2,"Justice, Supreme Court, Place 8",,GRN,Jim Chisolm,11
+Crane,Precinct 3,"Justice, Supreme Court, Place 8",,GRN,Jim Chisolm,11
+Crane,Precinct 4,"Justice, Supreme Court, Place 8",,GRN,Jim Chisolm,2
+Crane,Precinct 1,"Justice, Supreme Court, Place 8",,,OVER VOTES,0
+Crane,Precinct 2,"Justice, Supreme Court, Place 8",,,OVER VOTES,0
+Crane,Precinct 3,"Justice, Supreme Court, Place 8",,,OVER VOTES,0
+Crane,Precinct 4,"Justice, Supreme Court, Place 8",,,OVER VOTES,0
+Crane,Precinct 1,"Justice, Supreme Court, Place 8",,,UNDER VOTES,28
+Crane,Precinct 2,"Justice, Supreme Court, Place 8",,,UNDER VOTES,44
+Crane,Precinct 3,"Justice, Supreme Court, Place 8",,,UNDER VOTES,43
+Crane,Precinct 4,"Justice, Supreme Court, Place 8",,,UNDER VOTES,23
+Crane,Precinct 1,"Judge, Court of Criminal Appeals, Pl 3",,REP,Bert Richardson,249
+Crane,Precinct 2,"Judge, Court of Criminal Appeals, Pl 3",,REP,Bert Richardson,178
+Crane,Precinct 3,"Judge, Court of Criminal Appeals, Pl 3",,REP,Bert Richardson,73
+Crane,Precinct 4,"Judge, Court of Criminal Appeals, Pl 3",,REP,Bert Richardson,125
+Crane,Precinct 1,"Judge, Court of Criminal Appeals, Pl 3",,DEM,John Granberg,32
+Crane,Precinct 2,"Judge, Court of Criminal Appeals, Pl 3",,DEM,John Granberg,45
+Crane,Precinct 3,"Judge, Court of Criminal Appeals, Pl 3",,DEM,John Granberg,51
+Crane,Precinct 4,"Judge, Court of Criminal Appeals, Pl 3",,DEM,John Granberg,22
+Crane,Precinct 1,"Judge, Court of Criminal Appeals, Pl 3",,LIB,Mark W. Bennett,9
+Crane,Precinct 2,"Judge, Court of Criminal Appeals, Pl 3",,LIB,Mark W. Bennett,9
+Crane,Precinct 3,"Judge, Court of Criminal Appeals, Pl 3",,LIB,Mark W. Bennett,9
+Crane,Precinct 4,"Judge, Court of Criminal Appeals, Pl 3",,LIB,Mark W. Bennett,6
+Crane,Precinct 1,"Judge, Court of Criminal Appeals, Pl 3",,,OVER VOTES,0
+Crane,Precinct 2,"Judge, Court of Criminal Appeals, Pl 3",,,OVER VOTES,0
+Crane,Precinct 3,"Judge, Court of Criminal Appeals, Pl 3",,,OVER VOTES,0
+Crane,Precinct 4,"Judge, Court of Criminal Appeals, Pl 3",,,OVER VOTES,0
+Crane,Precinct 1,"Judge, Court of Criminal Appeals, Pl 3",,,UNDER VOTES,15
+Crane,Precinct 2,"Judge, Court of Criminal Appeals, Pl 3",,,UNDER VOTES,19
+Crane,Precinct 3,"Judge, Court of Criminal Appeals, Pl 3",,,UNDER VOTES,16
+Crane,Precinct 4,"Judge, Court of Criminal Appeals, Pl 3",,,UNDER VOTES,12
+Crane,Precinct 1,"Judge, Court of Criminal Appeals, Pl 4",,REP,Kevin Patrick Yeary,255
+Crane,Precinct 2,"Judge, Court of Criminal Appeals, Pl 4",,REP,Kevin Patrick Yeary,180
+Crane,Precinct 3,"Judge, Court of Criminal Appeals, Pl 4",,REP,Kevin Patrick Yeary,77
+Crane,Precinct 4,"Judge, Court of Criminal Appeals, Pl 4",,REP,Kevin Patrick Yeary,134
+Crane,Precinct 1,"Judge, Court of Criminal Appeals, Pl 4",,LIB,Quanah Parker,16
+Crane,Precinct 2,"Judge, Court of Criminal Appeals, Pl 4",,LIB,Quanah Parker,18
+Crane,Precinct 3,"Judge, Court of Criminal Appeals, Pl 4",,LIB,Quanah Parker,18
+Crane,Precinct 4,"Judge, Court of Criminal Appeals, Pl 4",,LIB,Quanah Parker,5
+Crane,Precinct 1,"Judge, Court of Criminal Appeals, Pl 4",,GRN,Judith Sanders-Castro,6
+Crane,Precinct 2,"Judge, Court of Criminal Appeals, Pl 4",,GRN,Judith Sanders-Castro,13
+Crane,Precinct 3,"Judge, Court of Criminal Appeals, Pl 4",,GRN,Judith Sanders-Castro,13
+Crane,Precinct 4,"Judge, Court of Criminal Appeals, Pl 4",,GRN,Judith Sanders-Castro,5
+Crane,Precinct 1,"Judge, Court of Criminal Appeals, Pl 4",,,OVER VOTES,0
+Crane,Precinct 2,"Judge, Court of Criminal Appeals, Pl 4",,,OVER VOTES,0
+Crane,Precinct 3,"Judge, Court of Criminal Appeals, Pl 4",,,OVER VOTES,0
+Crane,Precinct 4,"Judge, Court of Criminal Appeals, Pl 4",,,OVER VOTES,0
+Crane,Precinct 1,"Judge, Court of Criminal Appeals, Pl 4",,,UNDER VOTES,28
+Crane,Precinct 2,"Judge, Court of Criminal Appeals, Pl 4",,,UNDER VOTES,40
+Crane,Precinct 3,"Judge, Court of Criminal Appeals, Pl 4",,,UNDER VOTES,41
+Crane,Precinct 4,"Judge, Court of Criminal Appeals, Pl 4",,,UNDER VOTES,21
+Crane,Precinct 1,"Judge, Court of Criminal Appeals, Pl 9",,REP,David Newell,260
+Crane,Precinct 2,"Judge, Court of Criminal Appeals, Pl 9",,REP,David Newell,184
+Crane,Precinct 3,"Judge, Court of Criminal Appeals, Pl 9",,REP,David Newell,81
+Crane,Precinct 4,"Judge, Court of Criminal Appeals, Pl 9",,REP,David Newell,136
+Crane,Precinct 1,"Judge, Court of Criminal Appeals, Pl 9",,LIB,"William Bryan Strange, III",10
+Crane,Precinct 2,"Judge, Court of Criminal Appeals, Pl 9",,LIB,"William Bryan Strange, III",14
+Crane,Precinct 3,"Judge, Court of Criminal Appeals, Pl 9",,LIB,"William Bryan Strange, III",18
+Crane,Precinct 4,"Judge, Court of Criminal Appeals, Pl 9",,LIB,"William Bryan Strange, III",3
+Crane,Precinct 1,"Judge, Court of Criminal Appeals, Pl 9",,GRN,George Joseph Altgelt,3
+Crane,Precinct 2,"Judge, Court of Criminal Appeals, Pl 9",,GRN,George Joseph Altgelt,9
+Crane,Precinct 3,"Judge, Court of Criminal Appeals, Pl 9",,GRN,George Joseph Altgelt,7
+Crane,Precinct 4,"Judge, Court of Criminal Appeals, Pl 9",,GRN,George Joseph Altgelt,3
+Crane,Precinct 1,"Judge, Court of Criminal Appeals, Pl 9",,,OVER VOTES,0
+Crane,Precinct 2,"Judge, Court of Criminal Appeals, Pl 9",,,OVER VOTES,0
+Crane,Precinct 3,"Judge, Court of Criminal Appeals, Pl 9",,,OVER VOTES,0
+Crane,Precinct 4,"Judge, Court of Criminal Appeals, Pl 9",,,OVER VOTES,0
+Crane,Precinct 1,"Judge, Court of Criminal Appeals, Pl 9",,,UNDER VOTES,32
+Crane,Precinct 2,"Judge, Court of Criminal Appeals, Pl 9",,,UNDER VOTES,44
+Crane,Precinct 3,"Judge, Court of Criminal Appeals, Pl 9",,,UNDER VOTES,43
+Crane,Precinct 4,"Judge, Court of Criminal Appeals, Pl 9",,,UNDER VOTES,23
+Crane,Precinct 1,State Representative,82,REP,Tom Craddick,274
+Crane,Precinct 2,State Representative,82,REP,Tom Craddick,206
+Crane,Precinct 3,State Representative,82,REP,Tom Craddick,101
+Crane,Precinct 4,State Representative,82,REP,Tom Craddick,142
+Crane,Precinct 1,State Representative,82,,OVER VOTES,0
+Crane,Precinct 2,State Representative,82,,OVER VOTES,0
+Crane,Precinct 3,State Representative,82,,OVER VOTES,0
+Crane,Precinct 4,State Representative,82,,OVER VOTES,0
+Crane,Precinct 1,State Representative,82,,UNDER VOTES,31
+Crane,Precinct 2,State Representative,82,,UNDER VOTES,45
+Crane,Precinct 3,State Representative,82,,UNDER VOTES,48
+Crane,Precinct 4,State Representative,82,,UNDER VOTES,23
+Crane,Precinct 1,"Chief Justice, 8th Court of Appeals Dist",,DEM,Ann Crawford McClure,97
+Crane,Precinct 2,"Chief Justice, 8th Court of Appeals Dist",,DEM,Ann Crawford McClure,98
+Crane,Precinct 3,"Chief Justice, 8th Court of Appeals Dist",,DEM,Ann Crawford McClure,77
+Crane,Precinct 4,"Chief Justice, 8th Court of Appeals Dist",,DEM,Ann Crawford McClure,47
+Crane,Precinct 1,"Chief Justice, 8th Court of Appeals Dist",,,OVER VOTES,0
+Crane,Precinct 2,"Chief Justice, 8th Court of Appeals Dist",,,OVER VOTES,0
+Crane,Precinct 3,"Chief Justice, 8th Court of Appeals Dist",,,OVER VOTES,0
+Crane,Precinct 4,"Chief Justice, 8th Court of Appeals Dist",,,OVER VOTES,0
+Crane,Precinct 1,"Chief Justice, 8th Court of Appeals Dist",,,UNDER VOTES,208
+Crane,Precinct 2,"Chief Justice, 8th Court of Appeals Dist",,,UNDER VOTES,153
+Crane,Precinct 3,"Chief Justice, 8th Court of Appeals Dist",,,UNDER VOTES,72
+Crane,Precinct 4,"Chief Justice, 8th Court of Appeals Dist",,,UNDER VOTES,118
+Crane,Precinct 1,"District Judge, 109th Judicial District",,REP,Martin B. Muncy,254
+Crane,Precinct 2,"District Judge, 109th Judicial District",,REP,Martin B. Muncy,189
+Crane,Precinct 3,"District Judge, 109th Judicial District",,REP,Martin B. Muncy,91
+Crane,Precinct 4,"District Judge, 109th Judicial District",,REP,Martin B. Muncy,131
+Crane,Precinct 1,"District Judge, 109th Judicial District",,,OVER VOTES,0
+Crane,Precinct 2,"District Judge, 109th Judicial District",,,OVER VOTES,0
+Crane,Precinct 3,"District Judge, 109th Judicial District",,,OVER VOTES,0
+Crane,Precinct 4,"District Judge, 109th Judicial District",,,OVER VOTES,0
+Crane,Precinct 1,"District Judge, 109th Judicial District",,,UNDER VOTES,51
+Crane,Precinct 2,"District Judge, 109th Judicial District",,,UNDER VOTES,62
+Crane,Precinct 3,"District Judge, 109th Judicial District",,,UNDER VOTES,58
+Crane,Precinct 4,"District Judge, 109th Judicial District",,,UNDER VOTES,34
+Crane,Precinct 1,Proposed Constitutional Amendment,,NON,FOR (A FAVOR),207
+Crane,Precinct 2,Proposed Constitutional Amendment,,NON,FOR (A FAVOR),168
+Crane,Precinct 3,Proposed Constitutional Amendment,,NON,FOR (A FAVOR),100
+Crane,Precinct 4,Proposed Constitutional Amendment,,NON,FOR (A FAVOR),108
+Crane,Precinct 1,Proposed Constitutional Amendment,,NON,AGAINST (EN CONTRA),61
+Crane,Precinct 2,Proposed Constitutional Amendment,,NON,AGAINST (EN CONTRA),37
+Crane,Precinct 3,Proposed Constitutional Amendment,,NON,AGAINST (EN CONTRA),20
+Crane,Precinct 4,Proposed Constitutional Amendment,,NON,AGAINST (EN CONTRA),28
+Crane,Precinct 1,Proposed Constitutional Amendment,,,OVER VOTES,0
+Crane,Precinct 2,Proposed Constitutional Amendment,,,OVER VOTES,0
+Crane,Precinct 3,Proposed Constitutional Amendment,,,OVER VOTES,0
+Crane,Precinct 4,Proposed Constitutional Amendment,,,OVER VOTES,0
+Crane,Precinct 1,Proposed Constitutional Amendment,,,UNDER VOTES,37
+Crane,Precinct 2,Proposed Constitutional Amendment,,,UNDER VOTES,46
+Crane,Precinct 3,Proposed Constitutional Amendment,,,UNDER VOTES,29
+Crane,Precinct 4,Proposed Constitutional Amendment,,,UNDER VOTES,29
