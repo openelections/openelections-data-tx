@@ -1,289 +1,633 @@
 county,precinct,office,district,candidate,party,votes
-,100,Straight Party,,,REP,38
-,101,Straight Party,,,REP,73
-,102,Straight Party,,,REP,75
-,103,Straight Party,,,REP,200
-,104,Straight Party,,,REP,43
-,105,Straight Party,,,REP,8
-,108,Straight Party,,,REP,13
-,109,Straight Party,,,REP,5
-,110,Straight Party,,,REP,13
-,111,Straight Party,,,REP,92
-,118,Straight Party,,,REP,9
-,201,Straight Party,,,REP,122
-,202,Straight Party,,,REP,196
-,203,Straight Party,,,REP,175
-,204,Straight Party,,,REP,175
-,205,Straight Party,,,REP,72
-,206,Straight Party,,,REP,124
-,301,Straight Party,,,REP,146
-,302,Straight Party,,,REP,162
-,303,Straight Party,,,REP,113
-,305,Straight Party,,,REP,69
-,306,Straight Party,,,REP,45
-,400,Straight Party,,,REP,5
-,401,Straight Party,,,REP,46
-,402,Straight Party,,,REP,100
-,404,Straight Party,,,REP,148
-,405,Straight Party,,,REP,113
-,407,Straight Party,,,REP,0
-,408,Straight Party,,,REP,1
-,409,Straight Party,,,REP,5
-,412,Straight Party,,,REP,24
-,Total,Straight Party,,,REP,2410
-,100,Straight Party,,,DEM,61
-,101,Straight Party,,,DEM,91
-,102,Straight Party,,,DEM,45
-,103,Straight Party,,,DEM,184
-,104,Straight Party,,,DEM,26
-,105,Straight Party,,,DEM,18
-,108,Straight Party,,,DEM,9
-,109,Straight Party,,,DEM,1
-,110,Straight Party,,,DEM,15
-,111,Straight Party,,,DEM,114
-,118,Straight Party,,,DEM,10
-,201,Straight Party,,,DEM,108
-,202,Straight Party,,,DEM,120
-,203,Straight Party,,,DEM,80
-,204,Straight Party,,,DEM,64
-,205,Straight Party,,,DEM,15
-,206,Straight Party,,,DEM,145
-,301,Straight Party,,,DEM,182
-,302,Straight Party,,,DEM,222
-,303,Straight Party,,,DEM,91
-,305,Straight Party,,,DEM,35
-,306,Straight Party,,,DEM,45
-,400,Straight Party,,,DEM,6
-,401,Straight Party,,,DEM,158
-,402,Straight Party,,,DEM,282
-,404,Straight Party,,,DEM,203
-,405,Straight Party,,,DEM,94
-,407,Straight Party,,,DEM,1
-,408,Straight Party,,,DEM,1
-,409,Straight Party,,,DEM,2
-,412,Straight Party,,,DEM,37
-,Total,Straight Party,,,DEM,2465
-,100,Straight Party,,,LIB,2
-,101,Straight Party,,,LIB,1
-,102,Straight Party,,,LIB,2
-,103,Straight Party,,,LIB,7
-,104,Straight Party,,,LIB,3
-,105,Straight Party,,,LIB,0
-,108,Straight Party,,,LIB,0
-,109,Straight Party,,,LIB,0
-,110,Straight Party,,,LIB,1
-,111,Straight Party,,,LIB,2
-,118,Straight Party,,,LIB,2
-,201,Straight Party,,,LIB,5
-,202,Straight Party,,,LIB,3
-,203,Straight Party,,,LIB,2
-,204,Straight Party,,,LIB,8
-,205,Straight Party,,,LIB,0
-,206,Straight Party,,,LIB,6
-,301,Straight Party,,,LIB,16
-,302,Straight Party,,,LIB,4
-,303,Straight Party,,,LIB,1
-,305,Straight Party,,,LIB,4
-,306,Straight Party,,,LIB,2
-,400,Straight Party,,,LIB,0
-,401,Straight Party,,,LIB,5
-,402,Straight Party,,,LIB,8
-,404,Straight Party,,,LIB,9
-,405,Straight Party,,,LIB,5
-,407,Straight Party,,,LIB,0
-,408,Straight Party,,,LIB,0
-,409,Straight Party,,,LIB,0
-,412,Straight Party,,,LIB,2
-,Total,Straight Party,,,LIB,100
-,100,Straight Party,,,GRN,0
-,101,Straight Party,,,GRN,3
-,102,Straight Party,,,GRN,1
-,103,Straight Party,,,GRN,6
-,104,Straight Party,,,GRN,0
-,105,Straight Party,,,GRN,0
-,108,Straight Party,,,GRN,0
-,109,Straight Party,,,GRN,0
-,110,Straight Party,,,GRN,0
-,111,Straight Party,,,GRN,0
-,118,Straight Party,,,GRN,0
-,201,Straight Party,,,GRN,1
-,202,Straight Party,,,GRN,1
-,203,Straight Party,,,GRN,2
-,204,Straight Party,,,GRN,0
-,205,Straight Party,,,GRN,0
-,206,Straight Party,,,GRN,2
-,301,Straight Party,,,GRN,11
-,302,Straight Party,,,GRN,6
-,303,Straight Party,,,GRN,1
-,305,Straight Party,,,GRN,1
-,306,Straight Party,,,GRN,1
-,400,Straight Party,,,GRN,0
-,401,Straight Party,,,GRN,4
-,402,Straight Party,,,GRN,1
-,404,Straight Party,,,GRN,0
-,405,Straight Party,,,GRN,2
-,407,Straight Party,,,GRN,0
-,408,Straight Party,,,GRN,0
-,409,Straight Party,,,GRN,0
-,412,Straight Party,,,GRN,0
-,Total,Straight Party,,,GRN,43
-,100,President,,Donald Trump,REP,126
-,101,President,,Donald Trump,REP,207
-,102,President,,Donald Trump,REP,303
-,103,President,,Donald Trump,REP,691
-,104,President,,Donald Trump,REP,188
-,105,President,,Donald Trump,REP,26
-,108,President,,Donald Trump,REP,26
-,109,President,,Donald Trump,REP,19
-,110,President,,Donald Trump,REP,44
-,111,President,,Donald Trump,REP,283
-,118,President,,Donald Trump,REP,44
-,201,President,,Donald Trump,REP,336
-,202,President,,Donald Trump,REP,452
-,203,President,,Donald Trump,REP,438
-,204,President,,Donald Trump,REP,580
-,205,President,,Donald Trump,REP,168
-,206,President,,Donald Trump,REP,287
-,301,President,,Donald Trump,REP,288
-,302,President,,Donald Trump,REP,397
-,303,President,,Donald Trump,REP,259
-,305,President,,Donald Trump,REP,154
-,306,President,,Donald Trump,REP,99
-,400,President,,Donald Trump,REP,23
-,401,President,,Donald Trump,REP,119
-,402,President,,Donald Trump,REP,279
-,404,President,,Donald Trump,REP,401
-,405,President,,Donald Trump,REP,378
-,407,President,,Donald Trump,REP,2
-,408,President,,Donald Trump,REP,5
-,409,President,,Donald Trump,REP,14
-,412,President,,Donald Trump,REP,55
-,Total,President,,Donald Trump,REP,6691
-,100,President,,Hillary Clinton,DEM,139
-,101,President,,Hillary Clinton,DEM,194
-,102,President,,Hillary Clinton,DEM,108
-,103,President,,Hillary Clinton,DEM,548
-,104,President,,Hillary Clinton,DEM,77
-,105,President,,Hillary Clinton,DEM,29
-,108,President,,Hillary Clinton,DEM,24
-,109,President,,Hillary Clinton,DEM,1
-,110,President,,Hillary Clinton,DEM,24
-,111,President,,Hillary Clinton,DEM,247
-,118,President,,Hillary Clinton,DEM,33
-,201,President,,Hillary Clinton,DEM,187
-,202,President,,Hillary Clinton,DEM,209
-,203,President,,Hillary Clinton,DEM,153
-,204,President,,Hillary Clinton,DEM,164
-,205,President,,Hillary Clinton,DEM,32
-,206,President,,Hillary Clinton,DEM,201
-,301,President,,Hillary Clinton,DEM,309
-,302,President,,Hillary Clinton,DEM,377
-,303,President,,Hillary Clinton,DEM,152
-,305,President,,Hillary Clinton,DEM,80
-,306,President,,Hillary Clinton,DEM,90
-,400,President,,Hillary Clinton,DEM,18
-,401,President,,Hillary Clinton,DEM,290
-,402,President,,Hillary Clinton,DEM,468
-,404,President,,Hillary Clinton,DEM,360
-,405,President,,Hillary Clinton,DEM,196
-,407,President,,Hillary Clinton,DEM,1
-,408,President,,Hillary Clinton,DEM,3
-,409,President,,Hillary Clinton,DEM,5
-,412,President,,Hillary Clinton,DEM,76
-,Total,President,,Hillary Clinton,DEM,4795
-,100,President,,Gary Johnson,LIB,10
-,101,President,,Gary Johnson,LIB,16
-,102,President,,Gary Johnson,LIB,10
-,103,President,,Gary Johnson,LIB,46
-,104,President,,Gary Johnson,LIB,14
-,105,President,,Gary Johnson,LIB,0
-,108,President,,Gary Johnson,LIB,4
-,109,President,,Gary Johnson,LIB,0
-,110,President,,Gary Johnson,LIB,4
-,111,President,,Gary Johnson,LIB,28
-,118,President,,Gary Johnson,LIB,2
-,201,President,,Gary Johnson,LIB,18
-,202,President,,Gary Johnson,LIB,19
-,203,President,,Gary Johnson,LIB,13
-,204,President,,Gary Johnson,LIB,32
-,205,President,,Gary Johnson,LIB,4
-,206,President,,Gary Johnson,LIB,14
-,301,President,,Gary Johnson,LIB,38
-,302,President,,Gary Johnson,LIB,27
-,303,President,,Gary Johnson,LIB,16
-,305,President,,Gary Johnson,LIB,12
-,306,President,,Gary Johnson,LIB,10
-,400,President,,Gary Johnson,LIB,1
-,401,President,,Gary Johnson,LIB,17
-,402,President,,Gary Johnson,LIB,35
-,404,President,,Gary Johnson,LIB,29
-,405,President,,Gary Johnson,LIB,22
-,407,President,,Gary Johnson,LIB,0
-,408,President,,Gary Johnson,LIB,0
-,409,President,,Gary Johnson,LIB,0
-,412,President,,Gary Johnson,LIB,5
-,Total,President,,Gary Johnson,LIB,446
-,100,President,,Jill Stein,GRN,1
-,101,President,,Jill Stein,GRN,5
-,102,President,,Jill Stein,GRN,5
-,103,President,,Jill Stein,GRN,9
-,104,President,,Jill Stein,GRN,2
-,105,President,,Jill Stein,GRN,2
-,108,President,,Jill Stein,GRN,0
-,109,President,,Jill Stein,GRN,0
-,110,President,,Jill Stein,GRN,0
-,111,President,,Jill Stein,GRN,6
-,118,President,,Jill Stein,GRN,0
-,201,President,,Jill Stein,GRN,5
-,202,President,,Jill Stein,GRN,4
-,203,President,,Jill Stein,GRN,0
-,204,President,,Jill Stein,GRN,2
-,205,President,,Jill Stein,GRN,1
-,206,President,,Jill Stein,GRN,7
-,301,President,,Jill Stein,GRN,17
-,302,President,,Jill Stein,GRN,5
-,303,President,,Jill Stein,GRN,6
-,305,President,,Jill Stein,GRN,0
-,306,President,,Jill Stein,GRN,1
-,400,President,,Jill Stein,GRN,0
-,401,President,,Jill Stein,GRN,3
-,402,President,,Jill Stein,GRN,6
-,404,President,,Jill Stein,GRN,9
-,405,President,,Jill Stein,GRN,7
-,407,President,,Jill Stein,GRN,0
-,408,President,,Jill Stein,GRN,0
-,409,President,,Jill Stein,GRN,0
-,412,President,,Jill Stein,GRN,2
-,Total,President,,Jill Stein,GRN,105
-,100,President,,Write-In,,7
-,101,President,,Write-In,,7
-,102,President,,Write-In,,5
-,103,President,,Write-In,,13
-,104,President,,Write-In,,3
-,105,President,,Write-In,,2
-,108,President,,Write-In,,2
-,109,President,,Write-In,,0
-,110,President,,Write-In,,0
-,111,President,,Write-In,,15
-,118,President,,Write-In,,0
-,201,President,,Write-In,,2
-,202,President,,Write-In,,4
-,203,President,,Write-In,,2
-,204,President,,Write-In,,13
-,205,President,,Write-In,,1
-,206,President,,Write-In,,6
-,301,President,,Write-In,,12
-,302,President,,Write-In,,5
-,303,President,,Write-In,,5
-,305,President,,Write-In,,5
-,306,President,,Write-In,,2
-,400,President,,Write-In,,1
-,401,President,,Write-In,,6
-,402,President,,Write-In,,10
-,404,President,,Write-In,,7
-,405,President,,Write-In,,4
-,407,President,,Write-In,,0
-,408,President,,Write-In,,0
-,409,President,,Write-In,,0
-,412,President,,Write-In,,2
-,Total,President,,Write-In,,141
+Caldwell,100,Straight Party,,,REP,38
+Caldwell,101,Straight Party,,,REP,73
+Caldwell,102,Straight Party,,,REP,75
+Caldwell,103,Straight Party,,,REP,200
+Caldwell,104,Straight Party,,,REP,43
+Caldwell,105,Straight Party,,,REP,8
+Caldwell,108,Straight Party,,,REP,13
+Caldwell,109,Straight Party,,,REP,5
+Caldwell,110,Straight Party,,,REP,13
+Caldwell,111,Straight Party,,,REP,92
+Caldwell,118,Straight Party,,,REP,9
+Caldwell,201,Straight Party,,,REP,122
+Caldwell,202,Straight Party,,,REP,196
+Caldwell,203,Straight Party,,,REP,175
+Caldwell,204,Straight Party,,,REP,175
+Caldwell,205,Straight Party,,,REP,72
+Caldwell,206,Straight Party,,,REP,124
+Caldwell,301,Straight Party,,,REP,146
+Caldwell,302,Straight Party,,,REP,162
+Caldwell,303,Straight Party,,,REP,113
+Caldwell,305,Straight Party,,,REP,69
+Caldwell,306,Straight Party,,,REP,45
+Caldwell,400,Straight Party,,,REP,5
+Caldwell,401,Straight Party,,,REP,46
+Caldwell,402,Straight Party,,,REP,100
+Caldwell,404,Straight Party,,,REP,148
+Caldwell,405,Straight Party,,,REP,113
+Caldwell,407,Straight Party,,,REP,0
+Caldwell,408,Straight Party,,,REP,1
+Caldwell,409,Straight Party,,,REP,5
+Caldwell,412,Straight Party,,,REP,24
+Caldwell,Total,Straight Party,,,REP,2410
+Caldwell,100,Straight Party,,,DEM,61
+Caldwell,101,Straight Party,,,DEM,91
+Caldwell,102,Straight Party,,,DEM,45
+Caldwell,103,Straight Party,,,DEM,184
+Caldwell,104,Straight Party,,,DEM,26
+Caldwell,105,Straight Party,,,DEM,18
+Caldwell,108,Straight Party,,,DEM,9
+Caldwell,109,Straight Party,,,DEM,1
+Caldwell,110,Straight Party,,,DEM,15
+Caldwell,111,Straight Party,,,DEM,114
+Caldwell,118,Straight Party,,,DEM,10
+Caldwell,201,Straight Party,,,DEM,108
+Caldwell,202,Straight Party,,,DEM,120
+Caldwell,203,Straight Party,,,DEM,80
+Caldwell,204,Straight Party,,,DEM,64
+Caldwell,205,Straight Party,,,DEM,15
+Caldwell,206,Straight Party,,,DEM,145
+Caldwell,301,Straight Party,,,DEM,182
+Caldwell,302,Straight Party,,,DEM,222
+Caldwell,303,Straight Party,,,DEM,91
+Caldwell,305,Straight Party,,,DEM,35
+Caldwell,306,Straight Party,,,DEM,45
+Caldwell,400,Straight Party,,,DEM,6
+Caldwell,401,Straight Party,,,DEM,158
+Caldwell,402,Straight Party,,,DEM,282
+Caldwell,404,Straight Party,,,DEM,203
+Caldwell,405,Straight Party,,,DEM,94
+Caldwell,407,Straight Party,,,DEM,1
+Caldwell,408,Straight Party,,,DEM,1
+Caldwell,409,Straight Party,,,DEM,2
+Caldwell,412,Straight Party,,,DEM,37
+Caldwell,Total,Straight Party,,,DEM,2465
+Caldwell,100,Straight Party,,,LIB,2
+Caldwell,101,Straight Party,,,LIB,1
+Caldwell,102,Straight Party,,,LIB,2
+Caldwell,103,Straight Party,,,LIB,7
+Caldwell,104,Straight Party,,,LIB,3
+Caldwell,105,Straight Party,,,LIB,0
+Caldwell,108,Straight Party,,,LIB,0
+Caldwell,109,Straight Party,,,LIB,0
+Caldwell,110,Straight Party,,,LIB,1
+Caldwell,111,Straight Party,,,LIB,2
+Caldwell,118,Straight Party,,,LIB,2
+Caldwell,201,Straight Party,,,LIB,5
+Caldwell,202,Straight Party,,,LIB,3
+Caldwell,203,Straight Party,,,LIB,2
+Caldwell,204,Straight Party,,,LIB,8
+Caldwell,205,Straight Party,,,LIB,0
+Caldwell,206,Straight Party,,,LIB,6
+Caldwell,301,Straight Party,,,LIB,16
+Caldwell,302,Straight Party,,,LIB,4
+Caldwell,303,Straight Party,,,LIB,1
+Caldwell,305,Straight Party,,,LIB,4
+Caldwell,306,Straight Party,,,LIB,2
+Caldwell,400,Straight Party,,,LIB,0
+Caldwell,401,Straight Party,,,LIB,5
+Caldwell,402,Straight Party,,,LIB,8
+Caldwell,404,Straight Party,,,LIB,9
+Caldwell,405,Straight Party,,,LIB,5
+Caldwell,407,Straight Party,,,LIB,0
+Caldwell,408,Straight Party,,,LIB,0
+Caldwell,409,Straight Party,,,LIB,0
+Caldwell,412,Straight Party,,,LIB,2
+Caldwell,Total,Straight Party,,,LIB,100
+Caldwell,100,Straight Party,,,GRN,0
+Caldwell,101,Straight Party,,,GRN,3
+Caldwell,102,Straight Party,,,GRN,1
+Caldwell,103,Straight Party,,,GRN,6
+Caldwell,104,Straight Party,,,GRN,0
+Caldwell,105,Straight Party,,,GRN,0
+Caldwell,108,Straight Party,,,GRN,0
+Caldwell,109,Straight Party,,,GRN,0
+Caldwell,110,Straight Party,,,GRN,0
+Caldwell,111,Straight Party,,,GRN,0
+Caldwell,118,Straight Party,,,GRN,0
+Caldwell,201,Straight Party,,,GRN,1
+Caldwell,202,Straight Party,,,GRN,1
+Caldwell,203,Straight Party,,,GRN,2
+Caldwell,204,Straight Party,,,GRN,0
+Caldwell,205,Straight Party,,,GRN,0
+Caldwell,206,Straight Party,,,GRN,2
+Caldwell,301,Straight Party,,,GRN,11
+Caldwell,302,Straight Party,,,GRN,6
+Caldwell,303,Straight Party,,,GRN,1
+Caldwell,305,Straight Party,,,GRN,1
+Caldwell,306,Straight Party,,,GRN,1
+Caldwell,400,Straight Party,,,GRN,0
+Caldwell,401,Straight Party,,,GRN,4
+Caldwell,402,Straight Party,,,GRN,1
+Caldwell,404,Straight Party,,,GRN,0
+Caldwell,405,Straight Party,,,GRN,2
+Caldwell,407,Straight Party,,,GRN,0
+Caldwell,408,Straight Party,,,GRN,0
+Caldwell,409,Straight Party,,,GRN,0
+Caldwell,412,Straight Party,,,GRN,0
+Caldwell,Total,Straight Party,,,GRN,43
+Caldwell,100,President,,Donald Trump,REP,126
+Caldwell,101,President,,Donald Trump,REP,207
+Caldwell,102,President,,Donald Trump,REP,303
+Caldwell,103,President,,Donald Trump,REP,691
+Caldwell,104,President,,Donald Trump,REP,188
+Caldwell,105,President,,Donald Trump,REP,26
+Caldwell,108,President,,Donald Trump,REP,26
+Caldwell,109,President,,Donald Trump,REP,19
+Caldwell,110,President,,Donald Trump,REP,44
+Caldwell,111,President,,Donald Trump,REP,283
+Caldwell,118,President,,Donald Trump,REP,44
+Caldwell,201,President,,Donald Trump,REP,336
+Caldwell,202,President,,Donald Trump,REP,452
+Caldwell,203,President,,Donald Trump,REP,438
+Caldwell,204,President,,Donald Trump,REP,580
+Caldwell,205,President,,Donald Trump,REP,168
+Caldwell,206,President,,Donald Trump,REP,287
+Caldwell,301,President,,Donald Trump,REP,288
+Caldwell,302,President,,Donald Trump,REP,397
+Caldwell,303,President,,Donald Trump,REP,259
+Caldwell,305,President,,Donald Trump,REP,154
+Caldwell,306,President,,Donald Trump,REP,99
+Caldwell,400,President,,Donald Trump,REP,23
+Caldwell,401,President,,Donald Trump,REP,119
+Caldwell,402,President,,Donald Trump,REP,279
+Caldwell,404,President,,Donald Trump,REP,401
+Caldwell,405,President,,Donald Trump,REP,378
+Caldwell,407,President,,Donald Trump,REP,2
+Caldwell,408,President,,Donald Trump,REP,5
+Caldwell,409,President,,Donald Trump,REP,14
+Caldwell,412,President,,Donald Trump,REP,55
+Caldwell,Total,President,,Donald Trump,REP,6691
+Caldwell,100,President,,Hillary Clinton,DEM,139
+Caldwell,101,President,,Hillary Clinton,DEM,194
+Caldwell,102,President,,Hillary Clinton,DEM,108
+Caldwell,103,President,,Hillary Clinton,DEM,548
+Caldwell,104,President,,Hillary Clinton,DEM,77
+Caldwell,105,President,,Hillary Clinton,DEM,29
+Caldwell,108,President,,Hillary Clinton,DEM,24
+Caldwell,109,President,,Hillary Clinton,DEM,1
+Caldwell,110,President,,Hillary Clinton,DEM,24
+Caldwell,111,President,,Hillary Clinton,DEM,247
+Caldwell,118,President,,Hillary Clinton,DEM,33
+Caldwell,201,President,,Hillary Clinton,DEM,187
+Caldwell,202,President,,Hillary Clinton,DEM,209
+Caldwell,203,President,,Hillary Clinton,DEM,153
+Caldwell,204,President,,Hillary Clinton,DEM,164
+Caldwell,205,President,,Hillary Clinton,DEM,32
+Caldwell,206,President,,Hillary Clinton,DEM,201
+Caldwell,301,President,,Hillary Clinton,DEM,309
+Caldwell,302,President,,Hillary Clinton,DEM,377
+Caldwell,303,President,,Hillary Clinton,DEM,152
+Caldwell,305,President,,Hillary Clinton,DEM,80
+Caldwell,306,President,,Hillary Clinton,DEM,90
+Caldwell,400,President,,Hillary Clinton,DEM,18
+Caldwell,401,President,,Hillary Clinton,DEM,290
+Caldwell,402,President,,Hillary Clinton,DEM,468
+Caldwell,404,President,,Hillary Clinton,DEM,360
+Caldwell,405,President,,Hillary Clinton,DEM,196
+Caldwell,407,President,,Hillary Clinton,DEM,1
+Caldwell,408,President,,Hillary Clinton,DEM,3
+Caldwell,409,President,,Hillary Clinton,DEM,5
+Caldwell,412,President,,Hillary Clinton,DEM,76
+Caldwell,Total,President,,Hillary Clinton,DEM,4795
+Caldwell,100,President,,Gary Johnson,LIB,10
+Caldwell,101,President,,Gary Johnson,LIB,16
+Caldwell,102,President,,Gary Johnson,LIB,10
+Caldwell,103,President,,Gary Johnson,LIB,46
+Caldwell,104,President,,Gary Johnson,LIB,14
+Caldwell,105,President,,Gary Johnson,LIB,0
+Caldwell,108,President,,Gary Johnson,LIB,4
+Caldwell,109,President,,Gary Johnson,LIB,0
+Caldwell,110,President,,Gary Johnson,LIB,4
+Caldwell,111,President,,Gary Johnson,LIB,28
+Caldwell,118,President,,Gary Johnson,LIB,2
+Caldwell,201,President,,Gary Johnson,LIB,18
+Caldwell,202,President,,Gary Johnson,LIB,19
+Caldwell,203,President,,Gary Johnson,LIB,13
+Caldwell,204,President,,Gary Johnson,LIB,32
+Caldwell,205,President,,Gary Johnson,LIB,4
+Caldwell,206,President,,Gary Johnson,LIB,14
+Caldwell,301,President,,Gary Johnson,LIB,38
+Caldwell,302,President,,Gary Johnson,LIB,27
+Caldwell,303,President,,Gary Johnson,LIB,16
+Caldwell,305,President,,Gary Johnson,LIB,12
+Caldwell,306,President,,Gary Johnson,LIB,10
+Caldwell,400,President,,Gary Johnson,LIB,1
+Caldwell,401,President,,Gary Johnson,LIB,17
+Caldwell,402,President,,Gary Johnson,LIB,35
+Caldwell,404,President,,Gary Johnson,LIB,29
+Caldwell,405,President,,Gary Johnson,LIB,22
+Caldwell,407,President,,Gary Johnson,LIB,0
+Caldwell,408,President,,Gary Johnson,LIB,0
+Caldwell,409,President,,Gary Johnson,LIB,0
+Caldwell,412,President,,Gary Johnson,LIB,5
+Caldwell,Total,President,,Gary Johnson,LIB,446
+Caldwell,100,President,,Jill Stein,GRN,1
+Caldwell,101,President,,Jill Stein,GRN,5
+Caldwell,102,President,,Jill Stein,GRN,5
+Caldwell,103,President,,Jill Stein,GRN,9
+Caldwell,104,President,,Jill Stein,GRN,2
+Caldwell,105,President,,Jill Stein,GRN,2
+Caldwell,108,President,,Jill Stein,GRN,0
+Caldwell,109,President,,Jill Stein,GRN,0
+Caldwell,110,President,,Jill Stein,GRN,0
+Caldwell,111,President,,Jill Stein,GRN,6
+Caldwell,118,President,,Jill Stein,GRN,0
+Caldwell,201,President,,Jill Stein,GRN,5
+Caldwell,202,President,,Jill Stein,GRN,4
+Caldwell,203,President,,Jill Stein,GRN,0
+Caldwell,204,President,,Jill Stein,GRN,2
+Caldwell,205,President,,Jill Stein,GRN,1
+Caldwell,206,President,,Jill Stein,GRN,7
+Caldwell,301,President,,Jill Stein,GRN,17
+Caldwell,302,President,,Jill Stein,GRN,5
+Caldwell,303,President,,Jill Stein,GRN,6
+Caldwell,305,President,,Jill Stein,GRN,0
+Caldwell,306,President,,Jill Stein,GRN,1
+Caldwell,400,President,,Jill Stein,GRN,0
+Caldwell,401,President,,Jill Stein,GRN,3
+Caldwell,402,President,,Jill Stein,GRN,6
+Caldwell,404,President,,Jill Stein,GRN,9
+Caldwell,405,President,,Jill Stein,GRN,7
+Caldwell,407,President,,Jill Stein,GRN,0
+Caldwell,408,President,,Jill Stein,GRN,0
+Caldwell,409,President,,Jill Stein,GRN,0
+Caldwell,412,President,,Jill Stein,GRN,2
+Caldwell,Total,President,,Jill Stein,GRN,105
+Caldwell,100,President,,Write-In,,7
+Caldwell,101,President,,Write-In,,7
+Caldwell,102,President,,Write-In,,5
+Caldwell,103,President,,Write-In,,13
+Caldwell,104,President,,Write-In,,3
+Caldwell,105,President,,Write-In,,2
+Caldwell,108,President,,Write-In,,2
+Caldwell,109,President,,Write-In,,0
+Caldwell,110,President,,Write-In,,0
+Caldwell,111,President,,Write-In,,15
+Caldwell,118,President,,Write-In,,0
+Caldwell,201,President,,Write-In,,2
+Caldwell,202,President,,Write-In,,4
+Caldwell,203,President,,Write-In,,2
+Caldwell,204,President,,Write-In,,13
+Caldwell,205,President,,Write-In,,1
+Caldwell,206,President,,Write-In,,6
+Caldwell,301,President,,Write-In,,12
+Caldwell,302,President,,Write-In,,5
+Caldwell,303,President,,Write-In,,5
+Caldwell,305,President,,Write-In,,5
+Caldwell,306,President,,Write-In,,2
+Caldwell,400,President,,Write-In,,1
+Caldwell,401,President,,Write-In,,6
+Caldwell,402,President,,Write-In,,10
+Caldwell,404,President,,Write-In,,7
+Caldwell,405,President,,Write-In,,4
+Caldwell,407,President,,Write-In,,0
+Caldwell,408,President,,Write-In,,0
+Caldwell,409,President,,Write-In,,0
+Caldwell,412,President,,Write-In,,2
+Caldwell,Total,President,,Write-In,,141
+Caldwell,100,U.S. House,35,Susan Narvaiz,REP,107
+Caldwell,100,U.S. House,35,Lloyd Doggett,DEM,157
+Caldwell,100,U.S. House,35,Rhett Rosenquest Smith,LIB,12
+Caldwell,100,U.S. House,35,Scott Trimble,GRN,1
+Caldwell,100,Railroad Commissioner,,Wayne Christian,REP,115
+Caldwell,100,Railroad Commissioner,,Grady Yarbrough,DEM,123
+Caldwell,100,Railroad Commissioner,,Mark Miller,LIB,19
+Caldwell,100,Railroad Commissioner,,Martina Salinas,GRN,10
+Caldwell,100,State Senate,21,Judith Zaffirini,DEM,191
+Caldwell,100,State Representative,17,John Cyrier,REP,181
+Caldwell,101,U.S. House,35,Susan Narvaiz,REP,184
+Caldwell,101,U.S. House,35,Lloyd Doggett,DEM,231
+Caldwell,101,U.S. House,35,Rhett Rosenquest Smith,LIB,4
+Caldwell,101,U.S. House,35,Scott Trimble,GRN,2
+Caldwell,101,Railroad Commissioner,,Wayne Christian,REP,186
+Caldwell,101,Railroad Commissioner,,Grady Yarbrough,DEM,182
+Caldwell,101,Railroad Commissioner,,Mark Miller,LIB,20
+Caldwell,101,Railroad Commissioner,,Martina Salinas,GRN,20
+Caldwell,101,State Senate,21,Judith Zaffirini,DEM,287
+Caldwell,101,State Representative,17,John Cyrier,REP,292
+Caldwell,102,U.S. House,27,Blake Farenthold,REP,304
+Caldwell,102,U.S. House,27,Raul (Roy) Barrera,DEM,115
+Caldwell,102,Railroad Commissioner,,Wayne Christian,REP,270
+Caldwell,102,Railroad Commissioner,,Grady Yarbrough,DEM,111
+Caldwell,102,Railroad Commissioner,,Mark Miller,LIB,21
+Caldwell,102,Railroad Commissioner,,Martina Salinas,GRN,11
+Caldwell,102,State Senate,21,Judith Zaffirini,DEM,227
+Caldwell,102,State Representative,17,John Cyrier,REP,330
+Caldwell,103,U.S. House,35,Susan Narvaiz,REP,621
+Caldwell,103,U.S. House,35,Lloyd Doggett,DEM,635
+Caldwell,103,U.S. House,35,Rhett Rosenquest Smith,LIB,28
+Caldwell,103,U.S. House,35,Scott Trimble,GRN,12
+Caldwell,103,Railroad Commissioner,,Wayne Christian,REP,649
+Caldwell,103,Railroad Commissioner,,Grady Yarbrough,DEM,481
+Caldwell,103,Railroad Commissioner,,Mark Miller,LIB,70
+Caldwell,103,Railroad Commissioner,,Martina Salinas,GRN,63
+Caldwell,103,State Senate,21,Judith Zaffirini,DEM,833
+Caldwell,103,State Representative,17,John Cyrier,REP,973
+Caldwell,104,U.S. House,27,Blake Farenthold,REP,188
+Caldwell,104,U.S. House,27,Raul (Roy) Barrera,DEM,83
+Caldwell,104,Railroad Commissioner,,Wayne Christian,REP,176
+Caldwell,104,Railroad Commissioner,,Grady Yarbrough,DEM,73
+Caldwell,104,Railroad Commissioner,,Mark Miller,LIB,6
+Caldwell,104,Railroad Commissioner,,Martina Salinas,GRN,15
+Caldwell,104,State Senate,21,Judith Zaffirini,DEM,161
+Caldwell,104,State Representative,17,John Cyrier,REP,235
+Caldwell,105,U.S. House,35,Susan Narvaiz,REP,21
+Caldwell,105,U.S. House,35,Lloyd Doggett,DEM,35
+Caldwell,105,U.S. House,35,Rhett Rosenquest Smith,LIB,0
+Caldwell,105,U.S. House,35,Scott Trimble,GRN,2
+Caldwell,105,Railroad Commissioner,,Wayne Christian,REP,18
+Caldwell,105,Railroad Commissioner,,Grady Yarbrough,DEM,33
+Caldwell,105,Railroad Commissioner,,Mark Miller,LIB,3
+Caldwell,105,Railroad Commissioner,,Martina Salinas,GRN,3
+Caldwell,105,State Senate,21,Judith Zaffirini,DEM,43
+Caldwell,105,State Representative,17,John Cyrier,REP,34
+Caldwell,108,U.S. House,35,Susan Narvaiz,REP,21
+Caldwell,108,U.S. House,35,Lloyd Doggett,DEM,33
+Caldwell,108,U.S. House,35,Rhett Rosenquest Smith,LIB,1
+Caldwell,108,U.S. House,35,Scott Trimble,GRN,2
+Caldwell,108,Railroad Commissioner,,Wayne Christian,REP,25
+Caldwell,108,Railroad Commissioner,,Grady Yarbrough,DEM,26
+Caldwell,108,Railroad Commissioner,,Mark Miller,LIB,2
+Caldwell,108,Railroad Commissioner,,Martina Salinas,GRN,3
+Caldwell,108,State Senate,21,Judith Zaffirini,DEM,39
+Caldwell,108,State Representative,17,John Cyrier,REP,42
+Caldwell,109,U.S. House,35,Susan Narvaiz,REP,14
+Caldwell,109,U.S. House,35,Lloyd Doggett,DEM,6
+Caldwell,109,U.S. House,35,Rhett Rosenquest Smith,LIB,0
+Caldwell,109,U.S. House,35,Scott Trimble,GRN,0
+Caldwell,109,Railroad Commissioner,,Wayne Christian,REP,14
+Caldwell,109,Railroad Commissioner,,Grady Yarbrough,DEM,3
+Caldwell,109,Railroad Commissioner,,Mark Miller,LIB,3
+Caldwell,109,Railroad Commissioner,,Martina Salinas,GRN,0
+Caldwell,109,State Senate,21,Judith Zaffirini,DEM,8
+Caldwell,109,State Representative,17,John Cyrier,REP,19
+Caldwell,110,U.S. House,27,Blake Farenthold,REP,44
+Caldwell,110,U.S. House,27,Raul (Roy) Barrera,DEM,28
+Caldwell,110,Railroad Commissioner,,Wayne Christian,REP,40
+Caldwell,110,Railroad Commissioner,,Grady Yarbrough,DEM,25
+Caldwell,110,Railroad Commissioner,,Mark Miller,LIB,3
+Caldwell,110,Railroad Commissioner,,Martina Salinas,GRN,4
+Caldwell,110,State Senate,21,Judith Zaffirini,DEM,52
+Caldwell,110,State Representative,17,John Cyrier,REP,57
+Caldwell,111,U.S. House,27,Blake Farenthold,REP,306
+Caldwell,111,U.S. House,27,Raul (Roy) Barrera,DEM,258
+Caldwell,111,Railroad Commissioner,,Wayne Christian,REP,264
+Caldwell,111,Railroad Commissioner,,Grady Yarbrough,DEM,240
+Caldwell,111,Railroad Commissioner,,Mark Miller,LIB,37
+Caldwell,111,Railroad Commissioner,,Martina Salinas,GRN,26
+Caldwell,111,State Senate,21,Judith Zaffirini,DEM,374
+Caldwell,111,State Representative,17,John Cyrier,REP,405
+Caldwell,118,U.S. House,35,Susan Narvaiz,REP,36
+Caldwell,118,U.S. House,35,Lloyd Doggett,DEM,41
+Caldwell,118,U.S. House,35,Rhett Rosenquest Smith,LIB,1
+Caldwell,118,U.S. House,35,Scott Trimble,GRN,0
+Caldwell,118,Railroad Commissioner,,Wayne Christian,REP,34
+Caldwell,118,Railroad Commissioner,,Grady Yarbrough,DEM,30
+Caldwell,118,Railroad Commissioner,,Mark Miller,LIB,8
+Caldwell,118,Railroad Commissioner,,Martina Salinas,GRN,6
+Caldwell,118,State Senate,21,Judith Zaffirini,DEM,61
+Caldwell,118,State Representative,17,John Cyrier,REP,58
+Caldwell,201,U.S. House,27,Blake Farenthold,REP,334
+Caldwell,201,U.S. House,27,Raul (Roy) Barrera,DEM,186
+Caldwell,201,Railroad Commissioner,,Wayne Christian,REP,302
+Caldwell,201,Railroad Commissioner,,Grady Yarbrough,DEM,177
+Caldwell,201,Railroad Commissioner,,Mark Miller,LIB,24
+Caldwell,201,Railroad Commissioner,,Martina Salinas,GRN,14
+Caldwell,201,State Senate,21,Judith Zaffirini,DEM,320
+Caldwell,201,State Representative,17,John Cyrier,REP,391
+Caldwell,202,U.S. House,27,Blake Farenthold,REP,449
+Caldwell,202,U.S. House,27,Raul (Roy) Barrera,DEM,223
+Caldwell,202,Railroad Commissioner,,Wayne Christian,REP,412
+Caldwell,202,Railroad Commissioner,,Grady Yarbrough,DEM,211
+Caldwell,202,Railroad Commissioner,,Mark Miller,LIB,21
+Caldwell,202,Railroad Commissioner,,Martina Salinas,GRN,24
+Caldwell,202,State Senate,21,Judith Zaffirini,DEM,393
+Caldwell,202,State Representative,17,John Cyrier,REP,516
+Caldwell,203,U.S. House,27,Blake Farenthold,REP,435
+Caldwell,203,U.S. House,27,Raul (Roy) Barrera,DEM,153
+Caldwell,203,Railroad Commissioner,,Wayne Christian,REP,396
+Caldwell,203,Railroad Commissioner,,Grady Yarbrough,DEM,147
+Caldwell,203,Railroad Commissioner,,Mark Miller,LIB,35
+Caldwell,203,Railroad Commissioner,,Martina Salinas,GRN,10
+Caldwell,203,State Senate,21,Judith Zaffirini,DEM,315
+Caldwell,203,State Representative,17,John Cyrier,REP,465
+Caldwell,204,U.S. House,27,Blake Farenthold,REP,577
+Caldwell,204,U.S. House,27,Raul (Roy) Barrera,DEM,180
+Caldwell,204,Railroad Commissioner,,Wayne Christian,REP,508
+Caldwell,204,Railroad Commissioner,,Grady Yarbrough,DEM,162
+Caldwell,204,Railroad Commissioner,,Mark Miller,LIB,76
+Caldwell,204,Railroad Commissioner,,Martina Salinas,GRN,19
+Caldwell,204,State Senate,21,Judith Zaffirini,DEM,392
+Caldwell,204,State Representative,17,John Cyrier,REP,631
+Caldwell,205,U.S. House,27,Blake Farenthold,REP,169
+Caldwell,205,U.S. House,27,Raul (Roy) Barrera,DEM,33
+Caldwell,205,Railroad Commissioner,,Wayne Christian,REP,157
+Caldwell,205,Railroad Commissioner,,Grady Yarbrough,DEM,30
+Caldwell,205,Railroad Commissioner,,Mark Miller,LIB,13
+Caldwell,205,Railroad Commissioner,,Martina Salinas,GRN,2
+Caldwell,205,State Senate,21,Judith Zaffirini,DEM,87
+Caldwell,205,State Representative,17,John Cyrier,REP,175
+Caldwell,206,U.S. House,27,Blake Farenthold,REP,284
+Caldwell,206,U.S. House,27,Raul (Roy) Barrera,DEM,213
+Caldwell,206,Railroad Commissioner,,Wayne Christian,REP,266
+Caldwell,206,Railroad Commissioner,,Grady Yarbrough,DEM,198
+Caldwell,206,Railroad Commissioner,,Mark Miller,LIB,24
+Caldwell,206,Railroad Commissioner,,Martina Salinas,GRN,13
+Caldwell,206,State Senate,21,Judith Zaffirini,DEM,332
+Caldwell,206,State Representative,17,John Cyrier,REP,338
+Caldwell,301,U.S. House,35,Susan Narvaiz,REP,297
+Caldwell,301,U.S. House,35,Lloyd Doggett,DEM,322
+Caldwell,301,U.S. House,35,Rhett Rosenquest Smith,LIB,28
+Caldwell,301,U.S. House,35,Scott Trimble,GRN,13
+Caldwell,301,Railroad Commissioner,,Wayne Christian,REP,277
+Caldwell,301,Railroad Commissioner,,Grady Yarbrough,DEM,289
+Caldwell,301,Railroad Commissioner,,Mark Miller,LIB,48
+Caldwell,301,Railroad Commissioner,,Martina Salinas,GRN,37
+Caldwell,301,State Senate,21,Judith Zaffirini,DEM,452
+Caldwell,301,State Representative,17,John Cyrier,REP,428
+Caldwell,302,U.S. House,35,Susan Narvaiz,REP,389
+Caldwell,302,U.S. House,35,Lloyd Doggett,DEM,389
+Caldwell,302,U.S. House,35,Rhett Rosenquest Smith,LIB,12
+Caldwell,302,U.S. House,35,Scott Trimble,GRN,9
+Caldwell,302,Railroad Commissioner,,Wayne Christian,REP,353
+Caldwell,302,Railroad Commissioner,,Grady Yarbrough,DEM,335
+Caldwell,302,Railroad Commissioner,,Mark Miller,LIB,40
+Caldwell,302,Railroad Commissioner,,Martina Salinas,GRN,44
+Caldwell,302,State Senate,21,Judith Zaffirini,DEM,525
+Caldwell,302,State Representative,17,John Cyrier,REP,513
+Caldwell,303,U.S. House,35,Susan Narvaiz,REP,239
+Caldwell,303,U.S. House,35,Lloyd Doggett,DEM,179
+Caldwell,303,U.S. House,35,Rhett Rosenquest Smith,LIB,8
+Caldwell,303,U.S. House,35,Scott Trimble,GRN,9
+Caldwell,303,Railroad Commissioner,,Wayne Christian,REP,238
+Caldwell,303,Railroad Commissioner,,Grady Yarbrough,DEM,153
+Caldwell,303,Railroad Commissioner,,Mark Miller,LIB,24
+Caldwell,303,Railroad Commissioner,,Martina Salinas,GRN,10
+Caldwell,303,State Senate,21,Judith Zaffirini,DEM,243
+Caldwell,303,State Representative,17,John Cyrier,REP,321
+Caldwell,305,U.S. House,27,Blake Farenthold,REP,152
+Caldwell,305,U.S. House,27,Raul (Roy) Barrera,DEM,91
+Caldwell,305,Railroad Commissioner,,Wayne Christian,REP,139
+Caldwell,305,Railroad Commissioner,,Grady Yarbrough,DEM,80
+Caldwell,305,Railroad Commissioner,,Mark Miller,LIB,14
+Caldwell,305,Railroad Commissioner,,Martina Salinas,GRN,10
+Caldwell,305,State Senate,21,Judith Zaffirini,DEM,143
+Caldwell,305,State Representative,17,John Cyrier,REP,193
+Caldwell,306,U.S. House,27,Blake Farenthold,REP,101
+Caldwell,306,U.S. House,27,Raul (Roy) Barrera,DEM,88
+Caldwell,306,Railroad Commissioner,,Wayne Christian,REP,82
+Caldwell,306,Railroad Commissioner,,Grady Yarbrough,DEM,81
+Caldwell,306,Railroad Commissioner,,Mark Miller,LIB,13
+Caldwell,306,Railroad Commissioner,,Martina Salinas,GRN,13
+Caldwell,306,State Senate,21,Judith Zaffirini,DEM,122
+Caldwell,306,State Representative,17,John Cyrier,REP,128
+Caldwell,400,U.S. House,35,Susan Narvaiz,REP,20
+Caldwell,400,U.S. House,35,Lloyd Doggett,DEM,22
+Caldwell,400,U.S. House,35,Rhett Rosenquest Smith,LIB,1
+Caldwell,400,U.S. House,35,Scott Trimble,GRN,0
+Caldwell,400,Railroad Commissioner,,Wayne Christian,REP,22
+Caldwell,400,Railroad Commissioner,,Grady Yarbrough,DEM,18
+Caldwell,400,Railroad Commissioner,,Mark Miller,LIB,1
+Caldwell,400,Railroad Commissioner,,Martina Salinas,GRN,1
+Caldwell,400,State Senate,21,Judith Zaffirini,DEM,32
+Caldwell,400,State Representative,17,John Cyrier,REP,34
+Caldwell,401,U.S. House,35,Susan Narvaiz,REP,112
+Caldwell,401,U.S. House,35,Lloyd Doggett,DEM,305
+Caldwell,401,U.S. House,35,Rhett Rosenquest Smith,LIB,8
+Caldwell,401,U.S. House,35,Scott Trimble,GRN,4
+Caldwell,401,Railroad Commissioner,,Wayne Christian,REP,99
+Caldwell,401,Railroad Commissioner,,Grady Yarbrough,DEM,273
+Caldwell,401,Railroad Commissioner,,Mark Miller,LIB,17
+Caldwell,401,Railroad Commissioner,,Martina Salinas,GRN,32
+Caldwell,401,State Senate,21,Judith Zaffirini,DEM,336
+Caldwell,401,State Representative,17,John Cyrier,REP,204
+Caldwell,402,U.S. House,35,Susan Narvaiz,REP,243
+Caldwell,402,U.S. House,35,Lloyd Doggett,DEM,517
+Caldwell,402,U.S. House,35,Rhett Rosenquest Smith,LIB,16
+Caldwell,402,U.S. House,35,Scott Trimble,GRN,7
+Caldwell,402,Railroad Commissioner,,Wayne Christian,REP,244
+Caldwell,402,Railroad Commissioner,,Grady Yarbrough,DEM,442
+Caldwell,402,Railroad Commissioner,,Mark Miller,LIB,37
+Caldwell,402,Railroad Commissioner,,Martina Salinas,GRN,46
+Caldwell,402,State Senate,21,Judith Zaffirini,DEM,611
+Caldwell,402,State Representative,17,John Cyrier,REP,450
+Caldwell,404,U.S. House,27,Blake Farenthold,REP,386
+Caldwell,404,U.S. House,27,Raul (Roy) Barrera,DEM,396
+Caldwell,404,Railroad Commissioner,,Wayne Christian,REP,338
+Caldwell,404,Railroad Commissioner,,Grady Yarbrough,DEM,338
+Caldwell,404,Railroad Commissioner,,Mark Miller,LIB,79
+Caldwell,404,Railroad Commissioner,,Martina Salinas,GRN,33
+Caldwell,404,State Senate,21,Judith Zaffirini,DEM,527
+Caldwell,404,State Representative,17,John Cyrier,REP,511
+Caldwell,405,U.S. House,27,Blake Farenthold,REP,364
+Caldwell,405,U.S. House,27,Raul (Roy) Barrera,DEM,221
+Caldwell,405,Railroad Commissioner,,Wayne Christian,REP,328
+Caldwell,405,Railroad Commissioner,,Grady Yarbrough,DEM,190
+Caldwell,405,Railroad Commissioner,,Mark Miller,LIB,51
+Caldwell,405,Railroad Commissioner,,Martina Salinas,GRN,23
+Caldwell,405,State Senate,21,Judith Zaffirini,DEM,346
+Caldwell,405,State Representative,17,John Cyrier,REP,438
+Caldwell,407,U.S. House,35,Susan Narvaiz,REP,2
+Caldwell,407,U.S. House,35,Lloyd Doggett,DEM,1
+Caldwell,407,U.S. House,35,Rhett Rosenquest Smith,LIB,0
+Caldwell,407,U.S. House,35,Scott Trimble,GRN,0
+Caldwell,407,Railroad Commissioner,,Wayne Christian,REP,2
+Caldwell,407,Railroad Commissioner,,Grady Yarbrough,DEM,1
+Caldwell,407,Railroad Commissioner,,Mark Miller,LIB,0
+Caldwell,407,Railroad Commissioner,,Martina Salinas,GRN,0
+Caldwell,407,State Senate,21,Judith Zaffirini,DEM,1
+Caldwell,407,State Representative,17,John Cyrier,REP,3
+Caldwell,408,U.S. House,35,Susan Narvaiz,REP,4
+Caldwell,408,U.S. House,35,Lloyd Doggett,DEM,4
+Caldwell,408,U.S. House,35,Rhett Rosenquest Smith,LIB,0
+Caldwell,408,U.S. House,35,Scott Trimble,GRN,0
+Caldwell,408,Railroad Commissioner,,Wayne Christian,REP,3
+Caldwell,408,Railroad Commissioner,,Grady Yarbrough,DEM,3
+Caldwell,408,Railroad Commissioner,,Mark Miller,LIB,0
+Caldwell,408,Railroad Commissioner,,Martina Salinas,GRN,1
+Caldwell,408,State Senate,21,Judith Zaffirini,DEM,5
+Caldwell,408,State Representative,17,John Cyrier,REP,5
+Caldwell,409,U.S. House,35,Susan Narvaiz,REP,13
+Caldwell,409,U.S. House,35,Lloyd Doggett,DEM,6
+Caldwell,409,U.S. House,35,Rhett Rosenquest Smith,LIB,0
+Caldwell,409,U.S. House,35,Scott Trimble,GRN,0
+Caldwell,409,Railroad Commissioner,,Wayne Christian,REP,11
+Caldwell,409,Railroad Commissioner,,Grady Yarbrough,DEM,4
+Caldwell,409,Railroad Commissioner,,Mark Miller,LIB,3
+Caldwell,409,Railroad Commissioner,,Martina Salinas,GRN,1
+Caldwell,409,State Senate,21,Judith Zaffirini,DEM,7
+Caldwell,409,State Representative,17,John Cyrier,REP,14
+Caldwell,412,U.S. House,35,Susan Narvaiz,REP,51
+Caldwell,412,U.S. House,35,Lloyd Doggett,DEM,86
+Caldwell,412,U.S. House,35,Rhett Rosenquest Smith,LIB,2
+Caldwell,412,U.S. House,35,Scott Trimble,GRN,1
+Caldwell,412,Railroad Commissioner,,Wayne Christian,REP,52
+Caldwell,412,Railroad Commissioner,,Grady Yarbrough,DEM,71
+Caldwell,412,Railroad Commissioner,,Mark Miller,LIB,7
+Caldwell,412,Railroad Commissioner,,Martina Salinas,GRN,8
+Caldwell,412,State Senate,21,Judith Zaffirini,DEM,100
+Caldwell,412,State Representative,17,John Cyrier,REP,87
+Caldwell,100,Registered Voters,,,,456
+Caldwell,101,Registered Voters,,,,755
+Caldwell,102,Registered Voters,,,,670
+Caldwell,103,Registered Voters,,,,1909
+Caldwell,104,Registered Voters,,,,424
+Caldwell,105,Registered Voters,,,,112
+Caldwell,108,Registered Voters,,,,101
+Caldwell,109,Registered Voters,,,,34
+Caldwell,110,Registered Voters,,,,156
+Caldwell,111,Registered Voters,,,,977
+Caldwell,118,Registered Voters,,,,110
+Caldwell,201,Registered Voters,,,,1093
+Caldwell,202,Registered Voters,,,,1204
+Caldwell,203,Registered Voters,,,,1067
+Caldwell,204,Registered Voters,,,,1155
+Caldwell,205,Registered Voters,,,,292
+Caldwell,206,Registered Voters,,,,1064
+Caldwell,301,Registered Voters,,,,2204
+Caldwell,302,Registered Voters,,,,1627
+Caldwell,303,Registered Voters,,,,736
+Caldwell,305,Registered Voters,,,,447
+Caldwell,306,Registered Voters,,,,412
+Caldwell,400,Registered Voters,,,,58
+Caldwell,401,Registered Voters,,,,997
+Caldwell,402,Registered Voters,,,,1794
+Caldwell,404,Registered Voters,,,,1411
+Caldwell,405,Registered Voters,,,,971
+Caldwell,407,Registered Voters,,,,3
+Caldwell,408,Registered Voters,,,,10
+Caldwell,409,Registered Voters,,,,21
+Caldwell,412,Registered Voters,,,,277
+Caldwell,100,Ballots Cast,,,,288
+Caldwell,101,Ballots Cast,,,,432
+Caldwell,102,Ballots Cast,,,,438
+Caldwell,103,Ballots Cast,,,,1323
+Caldwell,104,Ballots Cast,,,,287
+Caldwell,105,Ballots Cast,,,,59
+Caldwell,108,Ballots Cast,,,,57
+Caldwell,109,Ballots Cast,,,,20
+Caldwell,110,Ballots Cast,,,,73
+Caldwell,111,Ballots Cast,,,,584
+Caldwell,118,Ballots Cast,,,,80
+Caldwell,201,Ballots Cast,,,,551
+Caldwell,202,Ballots Cast,,,,692
+Caldwell,203,Ballots Cast,,,,612
+Caldwell,204,Ballots Cast,,,,801
+Caldwell,205,Ballots Cast,,,,208
+Caldwell,206,Ballots Cast,,,,519
+Caldwell,301,Ballots Cast,,,,670
+Caldwell,302,Ballots Cast,,,,817
+Caldwell,303,Ballots Cast,,,,441
+Caldwell,305,Ballots Cast,,,,254
+Caldwell,306,Ballots Cast,,,,202
+Caldwell,400,Ballots Cast,,,,43
+Caldwell,401,Ballots Cast,,,,438
+Caldwell,402,Ballots Cast,,,,807
+Caldwell,404,Ballots Cast,,,,810
+Caldwell,405,Ballots Cast,,,,617
+Caldwell,407,Ballots Cast,,,,3
+Caldwell,408,Ballots Cast,,,,8
+Caldwell,409,Ballots Cast,,,,19
+Caldwell,412,Ballots Cast,,,,141
