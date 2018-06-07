@@ -2,24 +2,24 @@ require 'remote_table'
 require 'roo-xls'
 require 'csv'
 
-county = 'Tarrant'
-t = RemoteTable.new("/Users/derekwillis/code/openelections-sources-tx/2014/TARRANT_COUNTY-2014_General_Election_1142014-1114_01-Tarrant.xlsx")
+county = 'Wilbarger'
+t = RemoteTable.new("/Users/dwillis/code/openelections-sources-tx/2014/WILBARGER_COUNTY-2014_General_Election_1142014-votes 11-4-2014 final.csv")
 rows = t.entries
 results = []
 headers = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes', 'early_votes', 'election_day']
 
 rows.each do |row|
-  if row['Contest_title'].include?(", District")
-    office, district = row['Contest_title'].split(", District ")
+  if row['race_name'].include?(", District")
+    office, district = row['race_name'].split(", District ")
   else
-    office = row['Contest_title']
+    office = row['race_name']
     district = nil
   end
-  if row['Contest_title'] == 'Straight Party' and row['candidate_name'].upcase == 'REPUBLICAN PARTY'
+  if row['race_name'] == 'Straight Party' and row['candidate_name'].upcase == 'REPUBLICAN PARTY'
     results << [county, row['Precinct_name'], 'Registered Voters', nil, nil, nil, row['Reg_voters'], nil, nil]
   end
-  total_votes = row['Early_votes'].to_i + row['election_votes'].to_i
-  results << [county, row['Precinct_name'], office, district, row['Party_Code'], row['candidate_name'], total_votes, row['Early_votes'], row['election_votes']]
+  total_votes = row['early_votes'].to_i + row['election_votes'].to_i
+  results << [county, row['Precinct_name'], office, district, row['Party_Code'], row['candidate_name'], total_votes, row['early_votes'], row['election_votes']]
 end
 
 CSV.open("20141104__tx__general__#{county.downcase.gsub(' ','_')}__precinct.csv", "w") do |csv|
