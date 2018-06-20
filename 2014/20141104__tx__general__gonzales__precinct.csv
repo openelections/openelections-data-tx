@@ -993,7 +993,7 @@ Gonzales,15,Governor,,Greg Abbott,REP,113
 Gonzales,15,Governor,,Wendy R. Davis,DEM,17
 Gonzales,15,Governor,,Kathie Glass,LIB,4
 Gonzales,15,Governor,,Brandon Parmer,GRN,0
-Gonzales,15,Governor,,Write-ins,,0
+Gonzales,15,Governor,,Write-ins,demographic_pd['last_gub_%_dem'] = demographic_pd['last_gub_total_dem'] / demographic_pd['last_gub_total_votes'],0
 Gonzales,15,Lieutenant Governor,,Dan Patrick,REP,107
 Gonzales,15,Lieutenant Governor,,Leticia Van de Putte,DEM,18
 Gonzales,15,Lieutenant Governor,,Robert D. Butler,LIB,3
@@ -1070,3 +1070,4 @@ Gonzales,12,Registered Voters,,,,82
 Gonzales,13,Registered Voters,,,,117
 Gonzales,14,Registered Voters,,,,46
 Gonzales,15,Registered Voters,,,,138
+Gonzales,,Registered Voters,,,,8322
