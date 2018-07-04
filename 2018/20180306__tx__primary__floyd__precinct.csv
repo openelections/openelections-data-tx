@@ -1,13 +1,13 @@
 county,precinct,office,district,party,candidate,votes,early_votes,election_day
-Floyd,1,United States Senator,,REP,"Bruce Jacobson, Jr.",24,16,8
-Floyd,1,United States Senator,,REP,Over Votes,0,0,0
-Floyd,1,United States Senator,,REP,Under Votes,19,9,10
+Floyd,1,U.S. Senate,,REP,"Bruce Jacobson, Jr.",24,16,8
+Floyd,1,U.S. Senate,,REP,Over Votes,0,0,0
+Floyd,1,U.S. Senate,,REP,Under Votes,19,9,10
 Floyd,1,Registered Voters,,REP,,1167,,
 Floyd,1,Ballots Cast,,REP,,346,200,2
-Floyd,1,United States Senator,,REP,Geraldine Sam,5,3,2
-Floyd,1,United States Senator,,REP,Mary Miller,7,6,1
-Floyd,1,United States Senator,,REP,Stefano de Stefano,7,5,2
-Floyd,1,United States Senator,,REP,Ted Cruz,263,151,112
+Floyd,1,U.S. Senate,,REP,Geraldine Sam,5,3,2
+Floyd,1,U.S. Senate,,REP,Mary Miller,7,6,1
+Floyd,1,U.S. Senate,,REP,Stefano de Stefano,7,5,2
+Floyd,1,U.S. Senate,,REP,Ted Cruz,263,151,112
 Floyd,1,United States Representative,19,REP,Jodey Arrington,289,171,118
 Floyd,1,Governor,,REP,Barbara Krueger,23,18,5
 Floyd,1,Governor,,REP,Greg Abbott,278,161,117
@@ -45,13 +45,13 @@ Floyd,1,County Treasurer,,REP,Elva Martinez,150,91,59
 Floyd,1,County Treasurer,,REP,Lori Morales,162,93,69
 Floyd,1,"Justice of the Peace, Precinct No. 1 and 4",,REP,Tali Jackson,290,174,116
 Floyd,1,County Chairman,,REP,Kerry D. Pratt,283,165,118
-Floyd,1,United States Senator,,DEM,Over Votes,0,0,0
-Floyd,1,United States Senator,,DEM,Under Votes,3,2,1
+Floyd,1,U.S. Senate,,DEM,Over Votes,0,0,0
+Floyd,1,U.S. Senate,,DEM,Under Votes,3,2,1
 Floyd,1,Registered Voters,,DEM,,1167,,
 Floyd,1,Ballots Cast,,DEM,,346,200,6
-Floyd,1,United States Senator,,DEM,Beto O'Rourke,6,0,6
-Floyd,1,United States Senator,,DEM,Edward Kimbrough,3,1,2
-Floyd,1,United States Senator,,DEM,Sema Hernandez,6,4,2
+Floyd,1,U.S. Senate,,DEM,Beto O'Rourke,6,0,6
+Floyd,1,U.S. Senate,,DEM,Edward Kimbrough,3,1,2
+Floyd,1,U.S. Senate,,DEM,Sema Hernandez,6,4,2
 Floyd,1,United States Representative,19,DEM,Miguel Levario,14,4,10
 Floyd,1,Governor,,DEM,Lupe Valdez,5,2,3
 Floyd,1,Governor,,DEM,Tom Wakely,1,0,1
@@ -123,15 +123,15 @@ Floyd,1,Proposition 10,,,YES,255,149,106
 Floyd,1,Proposition 10,,,NO,22,15,7
 Floyd,1,Proposition 11,,,YES,259,157,102
 Floyd,1,Proposition 11,,,NO,39,21,18
-Floyd,9,United States Senator,,REP,"Bruce Jacobson, Jr.",1,0,1
-Floyd,9,United States Senator,,REP,Over Votes,0,0,0
-Floyd,9,United States Senator,,REP,Under Votes,1,0,1
+Floyd,9,U.S. Senate,,REP,"Bruce Jacobson, Jr.",1,0,1
+Floyd,9,U.S. Senate,,REP,Over Votes,0,0,0
+Floyd,9,U.S. Senate,,REP,Under Votes,1,0,1
 Floyd,9,Registered Voters,,REP,,105,,
 Floyd,9,Ballots Cast,,REP,,28,12,1
-Floyd,9,United States Senator,,REP,Geraldine Sam,1,0,1
-Floyd,9,United States Senator,,REP,Mary Miller,1,0,1
-Floyd,9,United States Senator,,REP,Stefano de Stefano,0,0,0
-Floyd,9,United States Senator,,REP,Ted Cruz,24,12,12
+Floyd,9,U.S. Senate,,REP,Geraldine Sam,1,0,1
+Floyd,9,U.S. Senate,,REP,Mary Miller,1,0,1
+Floyd,9,U.S. Senate,,REP,Stefano de Stefano,0,0,0
+Floyd,9,U.S. Senate,,REP,Ted Cruz,24,12,12
 Floyd,9,United States Representative,13,REP,Mac Thornberry,24,11,13
 Floyd,9,Governor,,REP,Barbara Krueger,3,0,3
 Floyd,9,Governor,,REP,Greg Abbott,23,12,11
@@ -169,13 +169,13 @@ Floyd,9,County Treasurer,,REP,Elva Martinez,11,6,5
 Floyd,9,County Treasurer,,REP,Lori Morales,14,5,9
 Floyd,9,"Justice of the Peace, Precinct No. 2 and 3",,REP,Ed Marks,22,10,12
 Floyd,9,County Chairman,,REP,Kerry D. Pratt,22,11,11
-Floyd,9,United States Senator,,DEM,Over Votes,0,0,0
-Floyd,9,United States Senator,,DEM,Under Votes,0,0,0
+Floyd,9,U.S. Senate,,DEM,Over Votes,0,0,0
+Floyd,9,U.S. Senate,,DEM,Under Votes,0,0,0
 Floyd,9,Registered Voters,,DEM,,105,,
 Floyd,9,Ballots Cast,,DEM,,28,12,0
-Floyd,9,United States Senator,,DEM,Beto O'Rourke,0,0,0
-Floyd,9,United States Senator,,DEM,Edward Kimbrough,0,0,0
-Floyd,9,United States Senator,,DEM,Sema Hernandez,0,0,0
+Floyd,9,U.S. Senate,,DEM,Beto O'Rourke,0,0,0
+Floyd,9,U.S. Senate,,DEM,Edward Kimbrough,0,0,0
+Floyd,9,U.S. Senate,,DEM,Sema Hernandez,0,0,0
 Floyd,9,United States Representative,13,DEM,Greg Sagan,0,0,0
 Floyd,9,Governor,,DEM,Lupe Valdez,0,0,0
 Floyd,9,Governor,,DEM,Tom Wakely,0,0,0
@@ -247,15 +247,15 @@ Floyd,9,Proposition 10,,,YES,27,12,15
 Floyd,9,Proposition 10,,,NO,0,0,0
 Floyd,9,Proposition 11,,,YES,23,9,14
 Floyd,9,Proposition 11,,,NO,4,3,1
-Floyd,18,United States Senator,,REP,"Bruce Jacobson, Jr.",21,14,7
-Floyd,18,United States Senator,,REP,Over Votes,0,0,0
-Floyd,18,United States Senator,,REP,Under Votes,26,10,16
+Floyd,18,U.S. Senate,,REP,"Bruce Jacobson, Jr.",21,14,7
+Floyd,18,U.S. Senate,,REP,Over Votes,0,0,0
+Floyd,18,U.S. Senate,,REP,Under Votes,26,10,16
 Floyd,18,Registered Voters,,REP,,1104,,
 Floyd,18,Ballots Cast,,REP,,367,199,1
-Floyd,18,United States Senator,,REP,Geraldine Sam,4,3,1
-Floyd,18,United States Senator,,REP,Mary Miller,12,6,6
-Floyd,18,United States Senator,,REP,Stefano de Stefano,5,2,3
-Floyd,18,United States Senator,,REP,Ted Cruz,296,163,133
+Floyd,18,U.S. Senate,,REP,Geraldine Sam,4,3,1
+Floyd,18,U.S. Senate,,REP,Mary Miller,12,6,6
+Floyd,18,U.S. Senate,,REP,Stefano de Stefano,5,2,3
+Floyd,18,U.S. Senate,,REP,Ted Cruz,296,163,133
 Floyd,18,United States Representative,13,REP,Mac Thornberry,315,174,141
 Floyd,18,Governor,,REP,Barbara Krueger,27,14,13
 Floyd,18,Governor,,REP,Greg Abbott,288,165,123
@@ -295,13 +295,13 @@ Floyd,18,"County Commissioner, Precinct No. 2",,REP,Lindan Morris,145,83,62
 Floyd,18,"County Commissioner, Precinct No. 2",,REP,Clint Bigham,213,114,99
 Floyd,18,"Justice of the Peace, Precinct No. 2 and 3",,REP,Ed Marks,312,171,141
 Floyd,18,County Chairman,,REP,Kerry D. Pratt,284,160,124
-Floyd,18,United States Senator,,DEM,Over Votes,0,0,0
-Floyd,18,United States Senator,,DEM,Under Votes,0,0,0
+Floyd,18,U.S. Senate,,DEM,Over Votes,0,0,0
+Floyd,18,U.S. Senate,,DEM,Under Votes,0,0,0
 Floyd,18,Registered Voters,,DEM,,1104,,
 Floyd,18,Ballots Cast,,DEM,,367,199,1
-Floyd,18,United States Senator,,DEM,Beto O'Rourke,1,0,1
-Floyd,18,United States Senator,,DEM,Edward Kimbrough,0,0,0
-Floyd,18,United States Senator,,DEM,Sema Hernandez,2,1,1
+Floyd,18,U.S. Senate,,DEM,Beto O'Rourke,1,0,1
+Floyd,18,U.S. Senate,,DEM,Edward Kimbrough,0,0,0
+Floyd,18,U.S. Senate,,DEM,Sema Hernandez,2,1,1
 Floyd,18,United States Representative,13,DEM,Greg Sagan,3,1,2
 Floyd,18,Governor,,DEM,Lupe Valdez,2,1,1
 Floyd,18,Governor,,DEM,Tom Wakely,0,0,0
@@ -373,15 +373,15 @@ Floyd,18,Proposition 10,,,YES,305,171,134
 Floyd,18,Proposition 10,,,NO,17,11,6
 Floyd,18,Proposition 11,,,YES,286,160,126
 Floyd,18,Proposition 11,,,NO,47,24,23
-Floyd,23,United States Senator,,REP,"Bruce Jacobson, Jr.",6,4,2
-Floyd,23,United States Senator,,REP,Over Votes,0,0,0
-Floyd,23,United States Senator,,REP,Under Votes,24,18,6
+Floyd,23,U.S. Senate,,REP,"Bruce Jacobson, Jr.",6,4,2
+Floyd,23,U.S. Senate,,REP,Over Votes,0,0,0
+Floyd,23,U.S. Senate,,REP,Under Votes,24,18,6
 Floyd,23,Registered Voters,,REP,,833,,
 Floyd,23,Ballots Cast,,REP,,158,91,0
-Floyd,23,United States Senator,,REP,Geraldine Sam,0,0,0
-Floyd,23,United States Senator,,REP,Mary Miller,4,3,1
-Floyd,23,United States Senator,,REP,Stefano de Stefano,1,0,1
-Floyd,23,United States Senator,,REP,Ted Cruz,104,54,50
+Floyd,23,U.S. Senate,,REP,Geraldine Sam,0,0,0
+Floyd,23,U.S. Senate,,REP,Mary Miller,4,3,1
+Floyd,23,U.S. Senate,,REP,Stefano de Stefano,1,0,1
+Floyd,23,U.S. Senate,,REP,Ted Cruz,104,54,50
 Floyd,23,United States Representative,19,REP,Jodey Arrington,108,60,48
 Floyd,23,Governor,,REP,Barbara Krueger,9,5,4
 Floyd,23,Governor,,REP,Greg Abbott,106,57,49
@@ -420,13 +420,13 @@ Floyd,23,County Treasurer,,REP,Lori Morales,62,41,21
 Floyd,23,"County Commissioner, Precinct No. 4",,REP,David Martinez,110,60,50
 Floyd,23,"Justice of the Peace, Precinct No. 1 and 4",,REP,Tali Jackson,114,65,49
 Floyd,23,County Chairman,,REP,Kerry D. Pratt,109,60,49
-Floyd,23,United States Senator,,DEM,Over Votes,0,0,0
-Floyd,23,United States Senator,,DEM,Under Votes,4,2,2
+Floyd,23,U.S. Senate,,DEM,Over Votes,0,0,0
+Floyd,23,U.S. Senate,,DEM,Under Votes,4,2,2
 Floyd,23,Registered Voters,,DEM,,833,,
 Floyd,23,Ballots Cast,,DEM,,158,91,0
-Floyd,23,United States Senator,,DEM,Beto O'Rourke,4,4,0
-Floyd,23,United States Senator,,DEM,Edward Kimbrough,5,3,2
-Floyd,23,United States Senator,,DEM,Sema Hernandez,6,3,3
+Floyd,23,U.S. Senate,,DEM,Beto O'Rourke,4,4,0
+Floyd,23,U.S. Senate,,DEM,Edward Kimbrough,5,3,2
+Floyd,23,U.S. Senate,,DEM,Sema Hernandez,6,3,3
 Floyd,23,United States Representative,19,DEM,Miguel Levario,14,10,4
 Floyd,23,Governor,,DEM,Lupe Valdez,9,5,4
 Floyd,23,Governor,,DEM,Tom Wakely,0,0,0
@@ -499,15 +499,15 @@ Floyd,23,Proposition 10,,,YES,103,59,44
 Floyd,23,Proposition 10,,,NO,10,5,5
 Floyd,23,Proposition 11,,,YES,100,56,44
 Floyd,23,Proposition 11,,,NO,14,9,5
-Floyd,24,United States Senator,,REP,"Bruce Jacobson, Jr.",3,2,1
-Floyd,24,United States Senator,,REP,Over Votes,0,0,0
-Floyd,24,United States Senator,,REP,Under Votes,4,3,1
+Floyd,24,U.S. Senate,,REP,"Bruce Jacobson, Jr.",3,2,1
+Floyd,24,U.S. Senate,,REP,Over Votes,0,0,0
+Floyd,24,U.S. Senate,,REP,Under Votes,4,3,1
 Floyd,24,Registered Voters,,REP,,409,,
 Floyd,24,Ballots Cast,,REP,,47,27,0
-Floyd,24,United States Senator,,REP,Geraldine Sam,0,0,0
-Floyd,24,United States Senator,,REP,Mary Miller,2,1,1
-Floyd,24,United States Senator,,REP,Stefano de Stefano,0,0,0
-Floyd,24,United States Senator,,REP,Ted Cruz,37,20,17
+Floyd,24,U.S. Senate,,REP,Geraldine Sam,0,0,0
+Floyd,24,U.S. Senate,,REP,Mary Miller,2,1,1
+Floyd,24,U.S. Senate,,REP,Stefano de Stefano,0,0,0
+Floyd,24,U.S. Senate,,REP,Ted Cruz,37,20,17
 Floyd,24,United States Representative,13,REP,Mac Thornberry,39,22,17
 Floyd,24,Governor,,REP,Barbara Krueger,3,3,0
 Floyd,24,Governor,,REP,Greg Abbott,40,21,19
@@ -545,13 +545,13 @@ Floyd,24,County Treasurer,,REP,Elva Martinez,24,14,10
 Floyd,24,County Treasurer,,REP,Lori Morales,21,12,9
 Floyd,24,"Justice of the Peace, Precinct No. 2 and 3",,REP,Ed Marks,40,22,18
 Floyd,24,County Chairman,,REP,Kerry D. Pratt,36,18,18
-Floyd,24,United States Senator,,DEM,Over Votes,0,0,0
-Floyd,24,United States Senator,,DEM,Under Votes,0,0,0
+Floyd,24,U.S. Senate,,DEM,Over Votes,0,0,0
+Floyd,24,U.S. Senate,,DEM,Under Votes,0,0,0
 Floyd,24,Registered Voters,,DEM,,409,,
 Floyd,24,Ballots Cast,,DEM,,47,27,0
-Floyd,24,United States Senator,,DEM,Beto O'Rourke,0,0,0
-Floyd,24,United States Senator,,DEM,Edward Kimbrough,1,1,0
-Floyd,24,United States Senator,,DEM,Sema Hernandez,0,0,0
+Floyd,24,U.S. Senate,,DEM,Beto O'Rourke,0,0,0
+Floyd,24,U.S. Senate,,DEM,Edward Kimbrough,1,1,0
+Floyd,24,U.S. Senate,,DEM,Sema Hernandez,0,0,0
 Floyd,24,United States Representative,13,DEM,Greg Sagan,1,1,0
 Floyd,24,Governor,,DEM,Lupe Valdez,0,0,0
 Floyd,24,Governor,,DEM,Tom Wakely,0,0,0
@@ -623,15 +623,15 @@ Floyd,24,Proposition 10,,,YES,39,21,18
 Floyd,24,Proposition 10,,,NO,4,2,2
 Floyd,24,Proposition 11,,,YES,36,19,17
 Floyd,24,Proposition 11,,,NO,8,5,3
-Floyd,24B,United States Senator,,REP,"Bruce Jacobson, Jr.",0,0,0
-Floyd,24B,United States Senator,,REP,Over Votes,0,0,0
-Floyd,24B,United States Senator,,REP,Under Votes,4,1,3
+Floyd,24B,U.S. Senate,,REP,"Bruce Jacobson, Jr.",0,0,0
+Floyd,24B,U.S. Senate,,REP,Over Votes,0,0,0
+Floyd,24B,U.S. Senate,,REP,Under Votes,4,1,3
 Floyd,24B,Registered Voters,,REP,,301,,
 Floyd,24B,Ballots Cast,,REP,,29,19,1
-Floyd,24B,United States Senator,,REP,Geraldine Sam,1,0,1
-Floyd,24B,United States Senator,,REP,Mary Miller,2,2,0
-Floyd,24B,United States Senator,,REP,Stefano de Stefano,0,0,0
-Floyd,24B,United States Senator,,REP,Ted Cruz,13,8,5
+Floyd,24B,U.S. Senate,,REP,Geraldine Sam,1,0,1
+Floyd,24B,U.S. Senate,,REP,Mary Miller,2,2,0
+Floyd,24B,U.S. Senate,,REP,Stefano de Stefano,0,0,0
+Floyd,24B,U.S. Senate,,REP,Ted Cruz,13,8,5
 Floyd,24B,United States Representative,19,REP,Jodey Arrington,15,9,6
 Floyd,24B,Governor,,REP,Barbara Krueger,1,1,0
 Floyd,24B,Governor,,REP,Greg Abbott,15,9,6
@@ -669,13 +669,13 @@ Floyd,24B,County Treasurer,,REP,Elva Martinez,7,0,7
 Floyd,24B,County Treasurer,,REP,Lori Morales,13,11,2
 Floyd,24B,"Justice of the Peace, Precinct No. 2 and 3",,REP,Ed Marks,14,8,6
 Floyd,24B,County Chairman,,REP,Kerry D. Pratt,15,8,7
-Floyd,24B,United States Senator,,DEM,Over Votes,0,0,0
-Floyd,24B,United States Senator,,DEM,Under Votes,0,0,0
+Floyd,24B,U.S. Senate,,DEM,Over Votes,0,0,0
+Floyd,24B,U.S. Senate,,DEM,Under Votes,0,0,0
 Floyd,24B,Registered Voters,,DEM,,301,,
 Floyd,24B,Ballots Cast,,DEM,,29,19,0
-Floyd,24B,United States Senator,,DEM,Beto O'Rourke,4,4,0
-Floyd,24B,United States Senator,,DEM,Edward Kimbrough,0,0,0
-Floyd,24B,United States Senator,,DEM,Sema Hernandez,5,4,1
+Floyd,24B,U.S. Senate,,DEM,Beto O'Rourke,4,4,0
+Floyd,24B,U.S. Senate,,DEM,Edward Kimbrough,0,0,0
+Floyd,24B,U.S. Senate,,DEM,Sema Hernandez,5,4,1
 Floyd,24B,United States Representative,19,DEM,Miguel Levario,7,6,1
 Floyd,24B,Governor,,DEM,Lupe Valdez,3,3,0
 Floyd,24B,Governor,,DEM,Tom Wakely,1,1,0

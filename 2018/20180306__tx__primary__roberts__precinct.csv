@@ -1,13 +1,13 @@
 county,precinct,office,district,party,candidate,votes,early_votes,election_day
-Roberts,1,United States Senator,,REP,Mary Miller,6,3,3
-Roberts,1,United States Senator,,REP,"Bruce Jacobson, Jr.",1,0,1
-Roberts,1,United States Senator,,REP,Stefano de Stefano,0,0,0
-Roberts,1,United States Senator,,REP,Over Votes,0,0,0
-Roberts,1,United States Senator,,REP,Under Votes,3,2,1
+Roberts,1,U.S. Senate,,REP,Mary Miller,6,3,3
+Roberts,1,U.S. Senate,,REP,"Bruce Jacobson, Jr.",1,0,1
+Roberts,1,U.S. Senate,,REP,Stefano de Stefano,0,0,0
+Roberts,1,U.S. Senate,,REP,Over Votes,0,0,0
+Roberts,1,U.S. Senate,,REP,Under Votes,3,2,1
 Roberts,1,Registered Voters,,REP,,358,,
 Roberts,1,Ballots Cast,,REP,,76,27,0
-Roberts,1,United States Senator,,REP,Geraldine Sam,0,0,0
-Roberts,1,United States Senator,,REP,Ted Cruz,65,22,43
+Roberts,1,U.S. Senate,,REP,Geraldine Sam,0,0,0
+Roberts,1,U.S. Senate,,REP,Ted Cruz,65,22,43
 Roberts,1,United States Representative,13,REP,MacThornberry,64,25,39
 Roberts,1,Governor,,REP,SECEDE Kilgore,3,2,1
 Roberts,1,Governor,,REP,Barbara Krueger,3,1,2
@@ -48,13 +48,13 @@ Roberts,1,District and County Clerk,,REP,Toni Rankin,69,25,44
 Roberts,1,County Treasurer,,REP,Amy Tennant,66,25,41
 Roberts,1,Justice of the Peace,,REP,"Tresa ""Teda"" Seuhs",67,23,44
 Roberts,1,County Chairman,,REP,Steve Hale,66,23,43
-Roberts,1,United States Senator,,DEM,Over Votes,0,0,0
-Roberts,1,United States Senator,,DEM,Under Votes,0,0,0
+Roberts,1,U.S. Senate,,DEM,Over Votes,0,0,0
+Roberts,1,U.S. Senate,,DEM,Under Votes,0,0,0
 Roberts,1,Registered Voters,,DEM,,358,,
 Roberts,1,Ballots Cast,,DEM,,76,27,0
-Roberts,1,United States Senator,,DEM,Beto O'Rourke,0,0,0
-Roberts,1,United States Senator,,DEM,Sema Hernandez,0,0,0
-Roberts,1,United States Senator,,DEM,Edward Kimbrough,1,0,1
+Roberts,1,U.S. Senate,,DEM,Beto O'Rourke,0,0,0
+Roberts,1,U.S. Senate,,DEM,Sema Hernandez,0,0,0
+Roberts,1,U.S. Senate,,DEM,Edward Kimbrough,1,0,1
 Roberts,1,United States Representative,13,DEM,Greg Sagan,0,0,0
 Roberts,1,Governor,,DEM,James Jolly Clark,0,0,0
 Roberts,1,Governor,,DEM,Tom Wakely,0,0,0
@@ -127,15 +127,15 @@ Roberts,1,Proposition 10,,REP,YES,62,21,41
 Roberts,1,Proposition 10,,REP,NO,6,2,4
 Roberts,1,Proposition 11,,REP,YES,63,25,38
 Roberts,1,Proposition 11,,REP,NO,12,2,10
-Roberts,2,United States Senator,,REP,Mary Miller,1,0,1
-Roberts,2,United States Senator,,REP,"Bruce Jacobson, Jr.",4,1,3
-Roberts,2,United States Senator,,REP,Stefano de Stefano,1,0,1
-Roberts,2,United States Senator,,REP,Over Votes,0,0,0
-Roberts,2,United States Senator,,REP,Under Votes,3,0,3
+Roberts,2,U.S. Senate,,REP,Mary Miller,1,0,1
+Roberts,2,U.S. Senate,,REP,"Bruce Jacobson, Jr.",4,1,3
+Roberts,2,U.S. Senate,,REP,Stefano de Stefano,1,0,1
+Roberts,2,U.S. Senate,,REP,Over Votes,0,0,0
+Roberts,2,U.S. Senate,,REP,Under Votes,3,0,3
 Roberts,2,Registered Voters,,REP,,324,,
 Roberts,2,Ballots Cast,,REP,,80,34,0
-Roberts,2,United States Senator,,REP,Geraldine Sam,1,1,0
-Roberts,2,United States Senator,,REP,Ted Cruz,70,32,38
+Roberts,2,U.S. Senate,,REP,Geraldine Sam,1,1,0
+Roberts,2,U.S. Senate,,REP,Ted Cruz,70,32,38
 Roberts,2,United States Representative,13,REP,MacThornberry,62,26,36
 Roberts,2,Governor,,REP,SECEDE Kilgore,2,0,2
 Roberts,2,Governor,,REP,Barbara Krueger,10,3,7
@@ -177,13 +177,13 @@ Roberts,2,County Treasurer,,REP,Amy Tennant,66,29,37
 Roberts,2,"County Commissioner, Precinct No. 2",,REP,Ken Gill,63,28,35
 Roberts,2,Justice of the Peace,,REP,"Tresa ""Teda"" Seuhs",71,31,40
 Roberts,2,County Chairman,,REP,Steve Hale,69,29,40
-Roberts,2,United States Senator,,DEM,Over Votes,0,0,0
-Roberts,2,United States Senator,,DEM,Under Votes,0,0,0
+Roberts,2,U.S. Senate,,DEM,Over Votes,0,0,0
+Roberts,2,U.S. Senate,,DEM,Under Votes,0,0,0
 Roberts,2,Registered Voters,,DEM,,324,,
 Roberts,2,Ballots Cast,,DEM,,80,34,0
-Roberts,2,United States Senator,,DEM,Beto O'Rourke,0,0,0
-Roberts,2,United States Senator,,DEM,Sema Hernandez,0,0,0
-Roberts,2,United States Senator,,DEM,Edward Kimbrough,0,0,0
+Roberts,2,U.S. Senate,,DEM,Beto O'Rourke,0,0,0
+Roberts,2,U.S. Senate,,DEM,Sema Hernandez,0,0,0
+Roberts,2,U.S. Senate,,DEM,Edward Kimbrough,0,0,0
 Roberts,2,United States Representative,13,DEM,Greg Sagan,0,0,0
 Roberts,2,Governor,,DEM,James Jolly Clark,0,0,0
 Roberts,2,Governor,,DEM,Tom Wakely,0,0,0
@@ -256,15 +256,15 @@ Roberts,2,Proposition 10,,REP,YES,70,29,41
 Roberts,2,Proposition 10,,REP,NO,8,5,3
 Roberts,2,Proposition 11,,REP,YES,73,32,41
 Roberts,2,Proposition 11,,REP,NO,5,2,3
-Roberts,3,United States Senator,,REP,Mary Miller,0,0,0
-Roberts,3,United States Senator,,REP,"Bruce Jacobson, Jr.",2,0,2
-Roberts,3,United States Senator,,REP,Stefano de Stefano,0,0,0
-Roberts,3,United States Senator,,REP,Over Votes,0,0,0
-Roberts,3,United States Senator,,REP,Under Votes,0,0,0
+Roberts,3,U.S. Senate,,REP,Mary Miller,0,0,0
+Roberts,3,U.S. Senate,,REP,"Bruce Jacobson, Jr.",2,0,2
+Roberts,3,U.S. Senate,,REP,Stefano de Stefano,0,0,0
+Roberts,3,U.S. Senate,,REP,Over Votes,0,0,0
+Roberts,3,U.S. Senate,,REP,Under Votes,0,0,0
 Roberts,3,Registered Voters,,REP,,348,,
 Roberts,3,Ballots Cast,,REP,,46,17,0
-Roberts,3,United States Senator,,REP,Geraldine Sam,0,0,0
-Roberts,3,United States Senator,,REP,Ted Cruz,44,17,27
+Roberts,3,U.S. Senate,,REP,Geraldine Sam,0,0,0
+Roberts,3,U.S. Senate,,REP,Ted Cruz,44,17,27
 Roberts,3,United States Representative,13,REP,MacThornberry,41,15,26
 Roberts,3,Governor,,REP,SECEDE Kilgore,5,4,1
 Roberts,3,Governor,,REP,Barbara Krueger,3,0,3
@@ -305,13 +305,13 @@ Roberts,3,District and County Clerk,,REP,Toni Rankin,44,16,28
 Roberts,3,County Treasurer,,REP,Amy Tennant,44,16,28
 Roberts,3,Justice of the Peace,,REP,"Tresa ""Teda"" Seuhs",44,16,28
 Roberts,3,County Chairman,,REP,Steve Hale,39,15,24
-Roberts,3,United States Senator,,DEM,Over Votes,0,0,0
-Roberts,3,United States Senator,,DEM,Under Votes,0,0,0
+Roberts,3,U.S. Senate,,DEM,Over Votes,0,0,0
+Roberts,3,U.S. Senate,,DEM,Under Votes,0,0,0
 Roberts,3,Registered Voters,,DEM,,348,,
 Roberts,3,Ballots Cast,,DEM,,46,17,0
-Roberts,3,United States Senator,,DEM,Beto O'Rourke,0,0,0
-Roberts,3,United States Senator,,DEM,Sema Hernandez,0,0,0
-Roberts,3,United States Senator,,DEM,Edward Kimbrough,0,0,0
+Roberts,3,U.S. Senate,,DEM,Beto O'Rourke,0,0,0
+Roberts,3,U.S. Senate,,DEM,Sema Hernandez,0,0,0
+Roberts,3,U.S. Senate,,DEM,Edward Kimbrough,0,0,0
 Roberts,3,United States Representative,13,DEM,Greg Sagan,0,0,0
 Roberts,3,Governor,,DEM,James Jolly Clark,0,0,0
 Roberts,3,Governor,,DEM,Tom Wakely,0,0,0
@@ -384,15 +384,15 @@ Roberts,3,Proposition 10,,REP,YES,39,13,26
 Roberts,3,Proposition 10,,REP,NO,4,1,3
 Roberts,3,Proposition 11,,REP,YES,36,12,24
 Roberts,3,Proposition 11,,REP,NO,6,2,4
-Roberts,4,United States Senator,,REP,Mary Miller,2,1,1
-Roberts,4,United States Senator,,REP,"Bruce Jacobson, Jr.",0,0,0
-Roberts,4,United States Senator,,REP,Stefano de Stefano,1,0,1
-Roberts,4,United States Senator,,REP,Over Votes,0,0,0
-Roberts,4,United States Senator,,REP,Under Votes,5,1,4
+Roberts,4,U.S. Senate,,REP,Mary Miller,2,1,1
+Roberts,4,U.S. Senate,,REP,"Bruce Jacobson, Jr.",0,0,0
+Roberts,4,U.S. Senate,,REP,Stefano de Stefano,1,0,1
+Roberts,4,U.S. Senate,,REP,Over Votes,0,0,0
+Roberts,4,U.S. Senate,,REP,Under Votes,5,1,4
 Roberts,4,Registered Voters,,REP,,202,,
 Roberts,4,Ballots Cast,,REP,,47,15,0
-Roberts,4,United States Senator,,REP,Geraldine Sam,0,0,0
-Roberts,4,United States Senator,,REP,Ted Cruz,37,11,26
+Roberts,4,U.S. Senate,,REP,Geraldine Sam,0,0,0
+Roberts,4,U.S. Senate,,REP,Ted Cruz,37,11,26
 Roberts,4,United States Representative,13,REP,MacThornberry,39,11,28
 Roberts,4,Governor,,REP,SECEDE Kilgore,2,0,2
 Roberts,4,Governor,,REP,Barbara Krueger,2,0,2
@@ -434,13 +434,13 @@ Roberts,4,County Treasurer,,REP,Amy Tennant,38,11,27
 Roberts,4,"County Commissioner, Precinct No. 4",,REP,"James F. (Jim) Duvall, Jr.",38,13,25
 Roberts,4,Justice of the Peace,,REP,"Tresa ""Teda"" Seuhs",40,13,27
 Roberts,4,County Chairman,,REP,Steve Hale,41,13,28
-Roberts,4,United States Senator,,DEM,Over Votes,0,0,0
-Roberts,4,United States Senator,,DEM,Under Votes,0,0,0
+Roberts,4,U.S. Senate,,DEM,Over Votes,0,0,0
+Roberts,4,U.S. Senate,,DEM,Under Votes,0,0,0
 Roberts,4,Registered Voters,,DEM,,202,,
 Roberts,4,Ballots Cast,,DEM,,47,15,0
-Roberts,4,United States Senator,,DEM,Beto O'Rourke,0,0,0
-Roberts,4,United States Senator,,DEM,Sema Hernandez,0,0,0
-Roberts,4,United States Senator,,DEM,Edward Kimbrough,2,2,0
+Roberts,4,U.S. Senate,,DEM,Beto O'Rourke,0,0,0
+Roberts,4,U.S. Senate,,DEM,Sema Hernandez,0,0,0
+Roberts,4,U.S. Senate,,DEM,Edward Kimbrough,2,2,0
 Roberts,4,United States Representative,13,DEM,Greg Sagan,2,2,0
 Roberts,4,Governor,,DEM,James Jolly Clark,0,0,0
 Roberts,4,Governor,,DEM,Tom Wakely,0,0,0
@@ -513,15 +513,15 @@ Roberts,4,Proposition 10,,DEM,YES,36,11,25
 Roberts,4,Proposition 10,,DEM,NO,2,1,1
 Roberts,4,Proposition 11,,DEM,YES,37,9,28
 Roberts,4,Proposition 11,,DEM,NO,4,3,1
-Roberts,4,United States Senator,,REP,Mary Miller,1,1,0
-Roberts,4,United States Senator,,REP,"Bruce Jacobson, Jr.",0,0,0
-Roberts,4,United States Senator,,REP,Stefano de Stefano,0,0,0
-Roberts,4,United States Senator,,REP,Over Votes,0,0,0
-Roberts,4,United States Senator,,REP,Under Votes,2,1,1
+Roberts,4,U.S. Senate,,REP,Mary Miller,1,1,0
+Roberts,4,U.S. Senate,,REP,"Bruce Jacobson, Jr.",0,0,0
+Roberts,4,U.S. Senate,,REP,Stefano de Stefano,0,0,0
+Roberts,4,U.S. Senate,,REP,Over Votes,0,0,0
+Roberts,4,U.S. Senate,,REP,Under Votes,2,1,1
 Roberts,4,Registered Voters,,REP,,192,,
 Roberts,4,Ballots Cast,,REP,,41,7,0
-Roberts,4,United States Senator,,REP,Geraldine Sam,0,0,0
-Roberts,4,United States Senator,,REP,Ted Cruz,38,5,33
+Roberts,4,U.S. Senate,,REP,Geraldine Sam,0,0,0
+Roberts,4,U.S. Senate,,REP,Ted Cruz,38,5,33
 Roberts,4,United States Representative,13,REP,MacThornberry,37,7,30
 Roberts,4,Governor,,REP,SECEDE Kilgore,1,1,0
 Roberts,4,Governor,,REP,Barbara Krueger,1,0,1
@@ -563,13 +563,13 @@ Roberts,4,County Treasurer,,REP,Amy Tennant,36,6,30
 Roberts,4,"County Commissioner, Precinct No. 4",,REP,"James F. (Jim) Duvall, Jr.",40,6,34
 Roberts,4,Justice of the Peace,,REP,"Tresa ""Teda"" Seuhs",37,6,31
 Roberts,4,County Chairman,,REP,Steve Hale,37,6,31
-Roberts,4,United States Senator,,DEM,Over Votes,0,0,0
-Roberts,4,United States Senator,,DEM,Under Votes,0,0,0
+Roberts,4,U.S. Senate,,DEM,Over Votes,0,0,0
+Roberts,4,U.S. Senate,,DEM,Under Votes,0,0,0
 Roberts,4,Registered Voters,,DEM,,192,,
 Roberts,4,Ballots Cast,,DEM,,41,7,0
-Roberts,4,United States Senator,,DEM,Beto O'Rourke,0,0,0
-Roberts,4,United States Senator,,DEM,Sema Hernandez,0,0,0
-Roberts,4,United States Senator,,DEM,Edward Kimbrough,0,0,0
+Roberts,4,U.S. Senate,,DEM,Beto O'Rourke,0,0,0
+Roberts,4,U.S. Senate,,DEM,Sema Hernandez,0,0,0
+Roberts,4,U.S. Senate,,DEM,Edward Kimbrough,0,0,0
 Roberts,4,United States Representative,13,DEM,Greg Sagan,0,0,0
 Roberts,4,Governor,,DEM,James Jolly Clark,0,0,0
 Roberts,4,Governor,,DEM,Tom Wakely,0,0,0
