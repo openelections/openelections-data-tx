@@ -494,48 +494,498 @@ Hill,13,Railroad Commissioner,,LIB,Mark A. Miller,37,6,5,14,12,0
 Hill,13,Railroad Commissioner,,GRN,Martina Salinas,12,4,0,6,2,0
 Hill,13,State Representative,8,REP,Byron Cook,894,126,145,270,353,0
 Hill,13,State Representative,8,LIB,John Wilford,87,16,11,34,26,0
-Hill,14,Registered Voters,,,,,,,,,
-Hill,14,Ballots Cast,,,,,,,,,
-Hill,14,Straight Party,,,Republican,,,,,,
-Hill,14,Straight Party,,,Democratic,,,,,,
-Hill,14,Straight Party,,,Libertarian,,,,,,
-Hill,14,Straight Party,,,Green,,,,,,
-Hill,14,U.S. Senate,,REP,John Cornyn,,,,,,
-Hill,14,U.S. Senate,,DEM,David M. Alameel,,,,,,
-Hill,14,U.S. Senate,,LIB,Rebecca Paddock,,,,,,
-Hill,14,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",,,,,,
-Hill,14,U.S. Senate,,,Write-ins,,,,,,
-Hill,14,U.S. House,25,REP,Roger Williams,,,,,,
-Hill,14,U.S. House,25,DEM,Marco Montoya,,,,,,
-Hill,14,U.S. House,25,LIB,John Betz,,,,,,
-Hill,14,Governor,,REP,Greg Abbott,,,,,,
-Hill,14,Governor,,DEM,Wendy R. Davis,,,,,,
-Hill,14,Governor,,LIB,Kathie Glass,,,,,,
-Hill,14,Governor,,GRN,Brandon Parmer,,,,,,
-Hill,14,Governor,,,Write-ins,,,,,,
-Hill,14,Lieutenant Governor,,REP,Dan Patrick,,,,,,
-Hill,14,Lieutenant Governor,,DEM,Leticia Van de Putte,,,,,,
-Hill,14,Lieutenant Governor,,LIB,Robert D. Butler,,,,,,
-Hill,14,Lieutenant Governor,,GRN,Chandrakantha Courtney,,,,,,
-Hill,14,Attorney General,,REP,Ken Paxton,,,,,,
-Hill,14,Attorney General,,DEM,Sam Houston,,,,,,
-Hill,14,Attorney General,,LIB,Jamie Balagia,,,,,,
-Hill,14,Attorney General,,GRN,Jamar Osborne,,,,,,
-Hill,14,Comptroller of Public Accounts,,REP,Glenn Hegar,,,,,,
-Hill,14,Comptroller of Public Accounts,,DEM,Mike Collier,,,,,,
-Hill,14,Comptroller of Public Accounts,,LIB,Ben Sanders,,,,,,
-Hill,14,Comptroller of Public Accounts,,GRN,Deb Shafto,,,,,,
-Hill,14,Commissioner of the General Land Office,,REP,George P. Bush,,,,,,
-Hill,14,Commissioner of the General Land Office,,DEM,John Cook,,,,,,
-Hill,14,Commissioner of the General Land Office,,LIB,Justin Knight,,,,,,
-Hill,14,Commissioner of the General Land Office,,GRN,Valerie Alesi,,,,,,
-Hill,14,Commissioner of Agriculture,,REP,Sid Miller,,,,,,
-Hill,14,Commissioner of Agriculture,,DEM,Jim Hogan,,,,,,
-Hill,14,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,,,,,,
-Hill,14,Commissioner of Agriculture,,GRN,Kenneth Kendrick,,,,,,
-Hill,14,Railroad Commissioner,,REP,Ryan Sitton,,,,,,
-Hill,14,Railroad Commissioner,,DEM,Steve Brown,,,,,,
-Hill,14,Railroad Commissioner,,LIB,Mark A. Miller,,,,,,
-Hill,14,Railroad Commissioner,,GRN,Martina Salinas,,,,,,
-Hill,14,State Representative,8,REP,Byron Cook,,,,,,
-Hill,14,State Representative,8,LIB,John Wilford,,,,,,
+Hill,14,Registered Voters,,,,970,,,,,
+Hill,14,Ballots Cast,,,,451,60,47,169,175,0
+Hill,14,Straight Party,,,Republican,240,34,19,92,95,0
+Hill,14,Straight Party,,,Democratic,11,1,0,5,5,0
+Hill,14,Straight Party,,,Libertarian,1,0,0,0,1,0
+Hill,14,Straight Party,,,Green,0,0,0,0,0,0
+Hill,14,U.S. Senate,,REP,John Cornyn,394,51,41,142,160,0
+Hill,14,U.S. Senate,,DEM,David M. Alameel,38,7,3,18,10,0
+Hill,14,U.S. Senate,,LIB,Rebecca Paddock,12,2,1,6,3,0
+Hill,14,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",1,0,0,0,1,0
+Hill,14,U.S. Senate,,,Write-ins,0,0,0,0,0,0
+Hill,14,U.S. House,25,REP,Roger Williams,383,48,42,139,154,0
+Hill,14,U.S. House,25,DEM,Marco Montoya,46,10,4,18,14,0
+Hill,14,U.S. House,25,LIB,John Betz,11,1,0,6,4,0
+Hill,14,Governor,,REP,Greg Abbott,393,49,42,143,159,0
+Hill,14,Governor,,DEM,Wendy R. Davis,50,10,3,24,13,0
+Hill,14,Governor,,LIB,Kathie Glass,6,1,2,1,2,0
+Hill,14,Governor,,GRN,Brandon Parmer,1,0,0,0,1,0
+Hill,14,Governor,,,Write-ins,0,0,0,0,0,0
+Hill,14,Lieutenant Governor,,REP,Dan Patrick,379,49,36,138,156,0
+Hill,14,Lieutenant Governor,,DEM,Leticia Van de Putte,54,11,6,25,12,0
+Hill,14,Lieutenant Governor,,LIB,Robert D. Butler,11,0,2,3,6,0
+Hill,14,Lieutenant Governor,,GRN,Chandrakantha Courtney,1,0,0,1,0,0
+Hill,14,Attorney General,,REP,Ken Paxton,376,45,40,136,155,0
+Hill,14,Attorney General,,DEM,Sam Houston,67,15,7,30,15,0
+Hill,14,Attorney General,,LIB,Jamie Balagia,2,0,0,0,2,0
+Hill,14,Attorney General,,GRN,Jamar Osborne,1,0,0,0,1,0
+Hill,14,Comptroller of Public Accounts,,REP,Glenn Hegar,374,47,40,135,152,0
+Hill,14,Comptroller of Public Accounts,,DEM,Mike Collier,58,11,6,26,15,0
+Hill,14,Comptroller of Public Accounts,,LIB,Ben Sanders,12,2,0,5,5,0
+Hill,14,Comptroller of Public Accounts,,GRN,Deb Shafto,0,0,0,0,0,0
+Hill,14,Commissioner of the General Land Office,,REP,George P. Bush,367,44,42,128,153,0
+Hill,14,Commissioner of the General Land Office,,DEM,John Cook,57,12,4,28,13,0
+Hill,14,Commissioner of the General Land Office,,LIB,Justin Knight,19,3,1,8,7,0
+Hill,14,Commissioner of the General Land Office,,GRN,Valerie Alesi,2,1,0,1,0,0
+Hill,14,Commissioner of Agriculture,,REP,Sid Miller,378,47,43,136,152,0
+Hill,14,Commissioner of Agriculture,,DEM,Jim Hogan,54,11,3,27,13,0
+Hill,14,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,5,0,0,0,5,0
+Hill,14,Commissioner of Agriculture,,GRN,Kenneth Kendrick,5,1,0,2,2,0
+Hill,14,Railroad Commissioner,,REP,Ryan Sitton,368,45,40,132,151,0
+Hill,14,Railroad Commissioner,,DEM,Steve Brown,62,13,5,29,15,0
+Hill,14,Railroad Commissioner,,LIB,Mark A. Miller,11,1,0,3,7,0
+Hill,14,Railroad Commissioner,,GRN,Martina Salinas,4,1,1,2,0,0
+Hill,14,State Representative,8,REP,Byron Cook,397,52,41,144,160,0
+Hill,14,State Representative,8,LIB,John Wilford,37,7,5,16,9,0
+Hill,15,Registered Voters,,,,426,,,,,
+Hill,15,Ballots Cast,,,,152,17,8,70,57,0
+Hill,15,Straight Party,,,Republican,61,7,4,20,30,0
+Hill,15,Straight Party,,,Democratic,12,2,0,6,4,0
+Hill,15,Straight Party,,,Libertarian,2,0,0,2,0,0
+Hill,15,Straight Party,,,Green,0,0,0,0,0,0
+Hill,15,U.S. Senate,,REP,John Cornyn,129,15,8,58,48,0
+Hill,15,U.S. Senate,,DEM,David M. Alameel,15,2,0,8,5,0
+Hill,15,U.S. Senate,,LIB,Rebecca Paddock,2,0,0,2,0,0
+Hill,15,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",2,0,0,1,1,0
+Hill,15,U.S. Senate,,,Write-ins,0,0,0,0,0,0
+Hill,15,U.S. House,25,REP,Roger Williams,123,15,7,56,45,0
+Hill,15,U.S. House,25,DEM,Marco Montoya,23,2,0,13,8,0
+Hill,15,U.S. House,25,LIB,John Betz,1,0,0,0,1,0
+Hill,15,Governor,,REP,Greg Abbott,123,14,7,55,47,0
+Hill,15,Governor,,DEM,Wendy R. Davis,28,3,1,14,10,0
+Hill,15,Governor,,LIB,Kathie Glass,1,0,0,1,0,0
+Hill,15,Governor,,GRN,Brandon Parmer,0,0,0,0,0,0
+Hill,15,Governor,,,Write-ins,0,0,0,0,0,0
+Hill,15,Lieutenant Governor,,REP,Dan Patrick,114,14,7,52,41,0
+Hill,15,Lieutenant Governor,,DEM,Leticia Van de Putte,25,2,1,12,10,0
+Hill,15,Lieutenant Governor,,LIB,Robert D. Butler,8,1,0,4,3,0
+Hill,15,Lieutenant Governor,,GRN,Chandrakantha Courtney,0,0,0,0,0,0
+Hill,15,Attorney General,,REP,Ken Paxton,113,14,7,52,40,0
+Hill,15,Attorney General,,DEM,Sam Houston,33,3,1,17,12,0
+Hill,15,Attorney General,,LIB,Jamie Balagia,2,0,0,0,2,0
+Hill,15,Attorney General,,GRN,Jamar Osborne,0,0,0,0,0,0
+Hill,15,Comptroller of Public Accounts,,REP,Glenn Hegar,116,14,7,54,41,0
+Hill,15,Comptroller of Public Accounts,,DEM,Mike Collier,29,3,1,13,12,0
+Hill,15,Comptroller of Public Accounts,,LIB,Ben Sanders,3,0,0,2,1,0
+Hill,15,Comptroller of Public Accounts,,GRN,Deb Shafto,0,0,0,0,0,0
+Hill,15,Commissioner of the General Land Office,,REP,George P. Bush,117,14,8,48,47,0
+Hill,15,Commissioner of the General Land Office,,DEM,John Cook,28,3,0,17,8,0
+Hill,15,Commissioner of the General Land Office,,LIB,Justin Knight,3,0,0,3,0,0
+Hill,15,Commissioner of the General Land Office,,GRN,Valerie Alesi,1,0,0,1,0,0
+Hill,15,Commissioner of Agriculture,,REP,Sid Miller,111,14,7,49,41,0
+Hill,15,Commissioner of Agriculture,,DEM,Jim Hogan,33,3,1,18,11,0
+Hill,15,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,0,0,0,0,0,0
+Hill,15,Commissioner of Agriculture,,GRN,Kenneth Kendrick,4,0,0,2,2,0
+Hill,15,Railroad Commissioner,,REP,Ryan Sitton,111,13,7,48,43,0
+Hill,15,Railroad Commissioner,,DEM,Steve Brown,28,3,1,16,8,0
+Hill,15,Railroad Commissioner,,LIB,Mark A. Miller,5,0,0,2,3,0
+Hill,15,Railroad Commissioner,,GRN,Martina Salinas,2,1,0,1,0,0
+Hill,15,State Representative,8,REP,Byron Cook,132,15,8,58,51,0
+Hill,15,State Representative,8,LIB,John Wilford,8,0,0,5,3,0
+Hill,16,Registered Voters,,,,376,,,,,
+Hill,16,Ballots Cast,,,,157,18,11,117,11,0
+Hill,16,Straight Party,,,Republican,64,7,1,55,1,0
+Hill,16,Straight Party,,,Democratic,9,2,1,5,1,0
+Hill,16,Straight Party,,,Libertarian,1,0,0,1,0,0
+Hill,16,Straight Party,,,Green,0,0,0,0,0,0
+Hill,16,U.S. Senate,,REP,John Cornyn,108,9,7,85,7,0
+Hill,16,U.S. Senate,,DEM,David M. Alameel,29,5,3,18,3,0
+Hill,16,U.S. Senate,,LIB,Rebecca Paddock,12,4,1,7,0,0
+Hill,16,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",0,0,0,0,0,0
+Hill,16,U.S. Senate,,,Write-ins,0,0,0,0,0,0
+Hill,16,U.S. House,25,REP,Roger Williams,108,11,8,83,6,0
+Hill,16,U.S. House,25,DEM,Marco Montoya,25,3,3,16,3,0
+Hill,16,U.S. House,25,LIB,John Betz,6,1,0,5,0,0
+Hill,16,Governor,,REP,Greg Abbott,113,11,8,87,7,0
+Hill,16,Governor,,DEM,Wendy R. Davis,35,5,3,23,4,0
+Hill,16,Governor,,LIB,Kathie Glass,5,2,0,3,0,0
+Hill,16,Governor,,GRN,Brandon Parmer,0,0,0,0,0,0
+Hill,16,Governor,,,Write-ins,0,0,0,0,0,0
+Hill,16,Lieutenant Governor,,REP,Dan Patrick,111,11,8,87,5,0
+Hill,16,Lieutenant Governor,,DEM,Leticia Van de Putte,31,4,3,20,4,0
+Hill,16,Lieutenant Governor,,LIB,Robert D. Butler,9,3,0,5,1,0
+Hill,16,Lieutenant Governor,,GRN,Chandrakantha Courtney,0,0,0,0,0,0
+Hill,16,Attorney General,,REP,Ken Paxton,108,11,8,83,6,0
+Hill,16,Attorney General,,DEM,Sam Houston,37,6,3,24,4,0
+Hill,16,Attorney General,,LIB,Jamie Balagia,2,0,0,2,0,0
+Hill,16,Attorney General,,GRN,Jamar Osborne,2,1,0,1,0,0
+Hill,16,Comptroller of Public Accounts,,REP,Glenn Hegar,104,11,6,82,5,0
+Hill,16,Comptroller of Public Accounts,,DEM,Mike Collier,33,5,3,21,4,0
+Hill,16,Comptroller of Public Accounts,,LIB,Ben Sanders,9,2,1,5,1,0
+Hill,16,Comptroller of Public Accounts,,GRN,Deb Shafto,1,0,0,1,0,0
+Hill,16,Commissioner of the General Land Office,,REP,George P. Bush,109,12,9,83,5,0
+Hill,16,Commissioner of the General Land Office,,DEM,John Cook,30,4,2,21,3,0
+Hill,16,Commissioner of the General Land Office,,LIB,Justin Knight,10,2,0,6,2,0
+Hill,16,Commissioner of the General Land Office,,GRN,Valerie Alesi,0,0,0,0,0,0
+Hill,16,Commissioner of Agriculture,,REP,Sid Miller,108,11,8,82,7,0
+Hill,16,Commissioner of Agriculture,,DEM,Jim Hogan,29,3,3,20,3,0
+Hill,16,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,8,3,0,5,0,0
+Hill,16,Commissioner of Agriculture,,GRN,Kenneth Kendrick,3,1,0,2,0,0
+Hill,16,Railroad Commissioner,,REP,Ryan Sitton,106,12,7,81,6,0
+Hill,16,Railroad Commissioner,,DEM,Steve Brown,29,3,2,21,3,0
+Hill,16,Railroad Commissioner,,LIB,Mark A. Miller,8,2,1,5,0,0
+Hill,16,Railroad Commissioner,,GRN,Martina Salinas,2,1,0,1,0,0
+Hill,16,State Representative,8,REP,Byron Cook,115,10,9,88,8,0
+Hill,16,State Representative,8,LIB,John Wilford,23,5,1,16,1,0
+Hill,18,Registered Voters,,,,183,,,,,
+Hill,18,Ballots Cast,,,,68,7,7,42,12,0
+Hill,18,Straight Party,,,Republican,29,4,3,17,5,0
+Hill,18,Straight Party,,,Democratic,4,1,0,3,0,0
+Hill,18,Straight Party,,,Libertarian,0,0,0,0,0,0
+Hill,18,Straight Party,,,Green,0,0,0,0,0,0
+Hill,18,U.S. Senate,,REP,John Cornyn,56,6,7,34,9,0
+Hill,18,U.S. Senate,,DEM,David M. Alameel,9,1,0,6,2,0
+Hill,18,U.S. Senate,,LIB,Rebecca Paddock,0,0,0,0,0,0
+Hill,18,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",0,0,0,0,0,0
+Hill,18,U.S. Senate,,,Write-ins,0,0,0,0,0,0
+Hill,18,U.S. House,25,REP,Roger Williams,53,6,7,32,8,0
+Hill,18,U.S. House,25,DEM,Marco Montoya,7,1,0,5,1,0
+Hill,18,U.S. House,25,LIB,John Betz,1,0,0,1,0,0
+Hill,18,Governor,,REP,Greg Abbott,55,6,5,34,10,0
+Hill,18,Governor,,DEM,Wendy R. Davis,13,1,2,8,2,0
+Hill,18,Governor,,LIB,Kathie Glass,0,0,0,0,0,0
+Hill,18,Governor,,GRN,Brandon Parmer,0,0,0,0,0,0
+Hill,18,Governor,,,Write-ins,0,0,0,0,0,0
+Hill,18,Lieutenant Governor,,REP,Dan Patrick,57,6,7,33,11,0
+Hill,18,Lieutenant Governor,,DEM,Leticia Van de Putte,7,1,0,6,0,0
+Hill,18,Lieutenant Governor,,LIB,Robert D. Butler,2,0,0,2,0,0
+Hill,18,Lieutenant Governor,,GRN,Chandrakantha Courtney,1,0,0,0,1,0
+Hill,18,Attorney General,,REP,Ken Paxton,52,6,7,31,8,0
+Hill,18,Attorney General,,DEM,Sam Houston,13,1,0,9,3,0
+Hill,18,Attorney General,,LIB,Jamie Balagia,0,0,0,0,0,0
+Hill,18,Attorney General,,GRN,Jamar Osborne,0,0,0,0,0,0
+Hill,18,Comptroller of Public Accounts,,REP,Glenn Hegar,49,6,7,29,7,0
+Hill,18,Comptroller of Public Accounts,,DEM,Mike Collier,12,1,0,8,3,0
+Hill,18,Comptroller of Public Accounts,,LIB,Ben Sanders,2,0,0,2,0,0
+Hill,18,Comptroller of Public Accounts,,GRN,Deb Shafto,1,0,0,1,0,0
+Hill,18,Commissioner of the General Land Office,,REP,George P. Bush,50,6,6,30,8,0
+Hill,18,Commissioner of the General Land Office,,DEM,John Cook,10,1,1,7,1,0
+Hill,18,Commissioner of the General Land Office,,LIB,Justin Knight,4,0,0,4,0,0
+Hill,18,Commissioner of the General Land Office,,GRN,Valerie Alesi,0,0,0,0,0,0
+Hill,18,Commissioner of Agriculture,,REP,Sid Miller,50,5,7,30,8,0
+Hill,18,Commissioner of Agriculture,,DEM,Jim Hogan,10,1,0,8,1,0
+Hill,18,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,3,1,0,2,0,0
+Hill,18,Commissioner of Agriculture,,GRN,Kenneth Kendrick,0,0,0,0,0,0
+Hill,18,Railroad Commissioner,,REP,Ryan Sitton,48,5,7,29,7,0
+Hill,18,Railroad Commissioner,,DEM,Steve Brown,8,1,0,6,1,0
+Hill,18,Railroad Commissioner,,LIB,Mark A. Miller,5,1,0,4,0,0
+Hill,18,Railroad Commissioner,,GRN,Martina Salinas,1,0,0,0,1,0
+Hill,18,State Representative,8,REP,Byron Cook,55,5,6,35,9,0
+Hill,18,State Representative,8,LIB,John Wilford,7,1,1,3,2,0
+Hill,19,Registered Voters,,,,372,,,,,
+Hill,19,Ballots Cast,,,,144,15,10,66,53,0
+Hill,19,Straight Party,,,Republican,64,4,7,26,27,0
+Hill,19,Straight Party,,,Democratic,8,0,0,6,2,0
+Hill,19,Straight Party,,,Libertarian,1,0,0,0,1,0
+Hill,19,Straight Party,,,Green,0,0,0,0,0,0
+Hill,19,U.S. Senate,,REP,John Cornyn,110,9,9,51,41,0
+Hill,19,U.S. Senate,,DEM,David M. Alameel,24,3,1,12,8,0
+Hill,19,U.S. Senate,,LIB,Rebecca Paddock,8,3,0,3,2,0
+Hill,19,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",0,0,0,0,0,0
+Hill,19,U.S. Senate,,,Write-ins,1,0,0,0,1,0
+Hill,19,U.S. House,25,REP,Roger Williams,121,14,9,56,42,0
+Hill,19,U.S. House,25,DEM,Marco Montoya,17,1,0,9,7,0
+Hill,19,U.S. House,25,LIB,John Betz,3,0,0,0,3,0
+Hill,19,Governor,,REP,Greg Abbott,107,11,9,48,39,0
+Hill,19,Governor,,DEM,Wendy R. Davis,29,2,1,14,12,0
+Hill,19,Governor,,LIB,Kathie Glass,5,2,0,2,1,0
+Hill,19,Governor,,GRN,Brandon Parmer,1,0,0,1,0,0
+Hill,19,Governor,,,Write-ins,0,0,0,0,0,0
+Hill,19,Lieutenant Governor,,REP,Dan Patrick,115,13,9,52,41,0
+Hill,19,Lieutenant Governor,,DEM,Leticia Van de Putte,25,2,1,13,9,0
+Hill,19,Lieutenant Governor,,LIB,Robert D. Butler,4,0,0,1,3,0
+Hill,19,Lieutenant Governor,,GRN,Chandrakantha Courtney,0,0,0,0,0,0
+Hill,19,Attorney General,,REP,Ken Paxton,116,12,9,55,40,0
+Hill,19,Attorney General,,DEM,Sam Houston,25,3,1,10,11,0
+Hill,19,Attorney General,,LIB,Jamie Balagia,2,0,0,0,2,0
+Hill,19,Attorney General,,GRN,Jamar Osborne,1,0,0,1,0,0
+Hill,19,Comptroller of Public Accounts,,REP,Glenn Hegar,109,11,9,50,39,0
+Hill,19,Comptroller of Public Accounts,,DEM,Mike Collier,26,3,1,12,10,0
+Hill,19,Comptroller of Public Accounts,,LIB,Ben Sanders,5,0,0,1,4,0
+Hill,19,Comptroller of Public Accounts,,GRN,Deb Shafto,2,1,0,1,0,0
+Hill,19,Commissioner of the General Land Office,,REP,George P. Bush,116,14,9,52,41,0
+Hill,19,Commissioner of the General Land Office,,DEM,John Cook,20,0,0,10,10,0
+Hill,19,Commissioner of the General Land Office,,LIB,Justin Knight,6,1,0,3,2,0
+Hill,19,Commissioner of the General Land Office,,GRN,Valerie Alesi,1,0,1,0,0,0
+Hill,19,Commissioner of Agriculture,,REP,Sid Miller,101,9,9,46,37,0
+Hill,19,Commissioner of Agriculture,,DEM,Jim Hogan,32,3,1,15,13,0
+Hill,19,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,9,3,0,3,3,0
+Hill,19,Commissioner of Agriculture,,GRN,Kenneth Kendrick,2,0,0,2,0,0
+Hill,19,Railroad Commissioner,,REP,Ryan Sitton,111,12,9,50,40,0
+Hill,19,Railroad Commissioner,,DEM,Steve Brown,28,3,1,14,10,0
+Hill,19,Railroad Commissioner,,LIB,Mark A. Miller,4,0,0,2,2,0
+Hill,19,Railroad Commissioner,,GRN,Martina Salinas,1,0,0,0,1,0
+Hill,19,State Representative,8,REP,Byron Cook,119,11,10,55,43,0
+Hill,19,State Representative,8,LIB,John Wilford,22,4,0,9,9,0
+Hill,20,Registered Voters,,,,953,,,,,
+Hill,20,Ballots Cast,,,,359,45,21,236,57,0
+Hill,20,Straight Party,,,Republican,199,30,17,125,27,0
+Hill,20,Straight Party,,,Democratic,37,3,0,25,9,0
+Hill,20,Straight Party,,,Libertarian,2,1,0,1,0,0
+Hill,20,Straight Party,,,Green,0,0,0,0,0,0
+Hill,20,U.S. Senate,,REP,John Cornyn,290,38,20,190,42,0
+Hill,20,U.S. Senate,,DEM,David M. Alameel,54,6,0,35,13,0
+Hill,20,U.S. Senate,,LIB,Rebecca Paddock,11,1,0,9,1,0
+Hill,20,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",1,0,0,1,0,0
+Hill,20,U.S. Senate,,,Write-ins,0,0,0,0,0,0
+Hill,20,U.S. House,25,REP,Roger Williams,295,39,21,194,41,0
+Hill,20,U.S. House,25,DEM,Marco Montoya,57,6,0,37,14,0
+Hill,20,U.S. House,25,LIB,John Betz,5,0,0,4,1,0
+Hill,20,Governor,,REP,Greg Abbott,284,39,20,185,40,0
+Hill,20,Governor,,DEM,Wendy R. Davis,67,6,1,44,16,0
+Hill,20,Governor,,LIB,Kathie Glass,4,0,0,4,0,0
+Hill,20,Governor,,GRN,Brandon Parmer,1,0,0,0,1,0
+Hill,20,Governor,,,Write-ins,2,0,0,2,0,0
+Hill,20,Lieutenant Governor,,REP,Dan Patrick,288,38,21,189,40,0
+Hill,20,Lieutenant Governor,,DEM,Leticia Van de Putte,60,6,0,39,15,0
+Hill,20,Lieutenant Governor,,LIB,Robert D. Butler,7,1,0,5,1,0
+Hill,20,Lieutenant Governor,,GRN,Chandrakantha Courtney,1,0,0,1,0,0
+Hill,20,Attorney General,,REP,Ken Paxton,287,38,21,188,40,0
+Hill,20,Attorney General,,DEM,Sam Houston,65,6,0,43,16,0
+Hill,20,Attorney General,,LIB,Jamie Balagia,4,1,0,3,0,0
+Hill,20,Attorney General,,GRN,Jamar Osborne,2,0,0,1,1,0
+Hill,20,Comptroller of Public Accounts,,REP,Glenn Hegar,282,38,21,184,39,0
+Hill,20,Comptroller of Public Accounts,,DEM,Mike Collier,62,6,0,41,15,0
+Hill,20,Comptroller of Public Accounts,,LIB,Ben Sanders,11,1,0,8,2,0
+Hill,20,Comptroller of Public Accounts,,GRN,Deb Shafto,1,0,0,0,1,0
+Hill,20,Commissioner of the General Land Office,,REP,George P. Bush,287,37,21,186,43,0
+Hill,20,Commissioner of the General Land Office,,DEM,John Cook,59,7,0,40,12,0
+Hill,20,Commissioner of the General Land Office,,LIB,Justin Knight,6,0,0,5,1,0
+Hill,20,Commissioner of the General Land Office,,GRN,Valerie Alesi,2,0,0,1,1,0
+Hill,20,Commissioner of Agriculture,,REP,Sid Miller,269,38,20,174,37,0
+Hill,20,Commissioner of Agriculture,,DEM,Jim Hogan,75,7,0,51,17,0
+Hill,20,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,6,0,1,4,1,0
+Hill,20,Commissioner of Agriculture,,GRN,Kenneth Kendrick,5,0,0,4,1,0
+Hill,20,Railroad Commissioner,,REP,Ryan Sitton,278,39,20,181,38,0
+Hill,20,Railroad Commissioner,,DEM,Steve Brown,64,6,0,42,16,0
+Hill,20,Railroad Commissioner,,LIB,Mark A. Miller,12,0,1,9,2,0
+Hill,20,Railroad Commissioner,,GRN,Martina Salinas,1,0,0,1,0,0
+Hill,20,State Representative,8,REP,Byron Cook,287,37,21,189,40,0
+Hill,20,State Representative,8,LIB,John Wilford,31,4,0,19,8,0
+Hill,21,Registered Voters,,,,1841,,,,,
+Hill,21,Ballots Cast,,,,924,152,228,270,274,0
+Hill,21,Straight Party,,,Republican,517,100,122,150,145,0
+Hill,21,Straight Party,,,Democratic,70,11,12,32,15,0
+Hill,21,Straight Party,,,Libertarian,0,0,0,0,0,0
+Hill,21,Straight Party,,,Green,0,0,0,0,0,0
+Hill,21,U.S. Senate,,REP,John Cornyn,765,129,198,208,230,0
+Hill,21,U.S. Senate,,DEM,David M. Alameel,128,19,25,52,32,0
+Hill,21,U.S. Senate,,LIB,Rebecca Paddock,14,2,3,6,3,0
+Hill,21,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",1,0,0,0,1,0
+Hill,21,U.S. Senate,,,Write-ins,1,0,0,1,0,0
+Hill,21,U.S. House,25,REP,Roger Williams,769,132,202,211,224,0
+Hill,21,U.S. House,25,DEM,Marco Montoya,128,18,22,52,36,0
+Hill,21,U.S. House,25,LIB,John Betz,5,0,1,4,0,0
+Hill,21,Governor,,REP,Greg Abbott,738,122,193,198,225,0
+Hill,21,Governor,,DEM,Wendy R. Davis,165,24,31,64,46,0
+Hill,21,Governor,,LIB,Kathie Glass,6,1,2,2,1,0
+Hill,21,Governor,,GRN,Brandon Parmer,3,1,0,2,0,0
+Hill,21,Governor,,,Write-ins,5,2,1,2,0,0
+Hill,21,Lieutenant Governor,,REP,Dan Patrick,744,125,188,208,223,0
+Hill,21,Lieutenant Governor,,DEM,Leticia Van de Putte,160,26,32,59,43,0
+Hill,21,Lieutenant Governor,,LIB,Robert D. Butler,11,1,5,3,2,0
+Hill,21,Lieutenant Governor,,GRN,Chandrakantha Courtney,2,0,1,0,1,0
+Hill,21,Attorney General,,REP,Ken Paxton,741,122,196,202,221,0
+Hill,21,Attorney General,,DEM,Sam Houston,163,27,31,62,43,0
+Hill,21,Attorney General,,LIB,Jamie Balagia,3,0,1,2,0,0
+Hill,21,Attorney General,,GRN,Jamar Osborne,2,0,0,1,1,0
+Hill,21,Comptroller of Public Accounts,,REP,Glenn Hegar,745,125,194,205,221,0
+Hill,21,Comptroller of Public Accounts,,DEM,Mike Collier,147,21,30,55,41,0
+Hill,21,Comptroller of Public Accounts,,LIB,Ben Sanders,4,0,2,1,1,0
+Hill,21,Comptroller of Public Accounts,,GRN,Deb Shafto,3,0,0,1,2,0
+Hill,21,Commissioner of the General Land Office,,REP,George P. Bush,769,131,201,206,231,0
+Hill,21,Commissioner of the General Land Office,,DEM,John Cook,126,19,19,56,32,0
+Hill,21,Commissioner of the General Land Office,,LIB,Justin Knight,15,2,3,7,3,0
+Hill,21,Commissioner of the General Land Office,,GRN,Valerie Alesi,3,0,1,1,1,0
+Hill,21,Commissioner of Agriculture,,REP,Sid Miller,729,121,190,198,220,0
+Hill,21,Commissioner of Agriculture,,DEM,Jim Hogan,156,25,31,61,39,0
+Hill,21,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,10,1,3,1,5,0
+Hill,21,Commissioner of Agriculture,,GRN,Kenneth Kendrick,8,1,1,5,1,0
+Hill,21,Railroad Commissioner,,REP,Ryan Sitton,734,123,196,198,217,0
+Hill,21,Railroad Commissioner,,DEM,Steve Brown,144,21,25,55,43,0
+Hill,21,Railroad Commissioner,,LIB,Mark A. Miller,19,3,4,9,3,0
+Hill,21,Railroad Commissioner,,GRN,Martina Salinas,4,0,0,2,2,0
+Hill,21,State Representative,8,REP,Byron Cook,782,132,202,215,233,0
+Hill,21,State Representative,8,LIB,John Wilford,59,8,10,23,18,0
+Hill,22,Registered Voters,,,,1578,,,,,
+Hill,22,Ballots Cast,,,,723,124,115,324,160,0
+Hill,22,Straight Party,,,Republican,359,66,55,154,84,0
+Hill,22,Straight Party,,,Democratic,49,6,9,22,12,0
+Hill,22,Straight Party,,,Libertarian,3,0,0,2,1,0
+Hill,22,Straight Party,,,Green,1,0,0,1,0,0
+Hill,22,U.S. Senate,,REP,John Cornyn,565,100,91,245,129,0
+Hill,22,U.S. Senate,,DEM,David M. Alameel,116,17,18,59,22,0
+Hill,22,U.S. Senate,,LIB,Rebecca Paddock,30,5,5,16,4,0
+Hill,22,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",4,1,0,2,1,0
+Hill,22,U.S. Senate,,,Write-ins,1,0,0,0,1,0
+Hill,22,U.S. House,25,REP,Roger Williams,570,100,89,248,133,0
+Hill,22,U.S. House,25,DEM,Marco Montoya,119,19,19,60,21,0
+Hill,22,U.S. House,25,LIB,John Betz,18,3,4,9,2,0
+Hill,22,Governor,,REP,Greg Abbott,563,97,92,243,131,0
+Hill,22,Governor,,DEM,Wendy R. Davis,136,20,20,69,27,0
+Hill,22,Governor,,LIB,Kathie Glass,11,2,2,6,1,0
+Hill,22,Governor,,GRN,Brandon Parmer,6,2,1,3,0,0
+Hill,22,Governor,,,Write-ins,4,2,0,2,0,0
+Hill,22,Lieutenant Governor,,REP,Dan Patrick,563,99,89,244,131,0
+Hill,22,Lieutenant Governor,,DEM,Leticia Van de Putte,119,17,19,60,23,0
+Hill,22,Lieutenant Governor,,LIB,Robert D. Butler,28,6,4,14,4,0
+Hill,22,Lieutenant Governor,,GRN,Chandrakantha Courtney,4,0,1,3,0,0
+Hill,22,Attorney General,,REP,Ken Paxton,555,100,90,236,129,0
+Hill,22,Attorney General,,DEM,Sam Houston,136,21,20,69,26,0
+Hill,22,Attorney General,,LIB,Jamie Balagia,24,3,4,14,3,0
+Hill,22,Attorney General,,GRN,Jamar Osborne,2,0,0,2,0,0
+Hill,22,Comptroller of Public Accounts,,REP,Glenn Hegar,541,96,88,230,127,0
+Hill,22,Comptroller of Public Accounts,,DEM,Mike Collier,135,21,20,68,26,0
+Hill,22,Comptroller of Public Accounts,,LIB,Ben Sanders,29,5,6,15,3,0
+Hill,22,Comptroller of Public Accounts,,GRN,Deb Shafto,3,0,0,2,1,0
+Hill,22,Commissioner of the General Land Office,,REP,George P. Bush,560,99,89,243,129,0
+Hill,22,Commissioner of the General Land Office,,DEM,John Cook,126,19,20,65,22,0
+Hill,22,Commissioner of the General Land Office,,LIB,Justin Knight,27,4,4,11,8,0
+Hill,22,Commissioner of the General Land Office,,GRN,Valerie Alesi,3,1,0,2,0,0
+Hill,22,Commissioner of Agriculture,,REP,Sid Miller,543,97,88,229,129,0
+Hill,22,Commissioner of Agriculture,,DEM,Jim Hogan,141,22,20,75,24,0
+Hill,22,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,19,1,5,9,4,0
+Hill,22,Commissioner of Agriculture,,GRN,Kenneth Kendrick,10,3,1,6,0,0
+Hill,22,Railroad Commissioner,,REP,Ryan Sitton,547,99,89,232,127,0
+Hill,22,Railroad Commissioner,,DEM,Steve Brown,124,17,18,67,22,0
+Hill,22,Railroad Commissioner,,LIB,Mark A. Miller,32,4,7,14,7,0
+Hill,22,Railroad Commissioner,,GRN,Martina Salinas,9,2,0,6,1,0
+Hill,22,State Representative,8,REP,Byron Cook,574,101,91,246,136,0
+Hill,22,State Representative,8,LIB,John Wilford,95,13,15,54,13,0
+Hill,23,Registered Voters,,,,426,,,,,
+Hill,23,Ballots Cast,,,,198,11,12,126,49,0
+Hill,23,Straight Party,,,Republican,71,2,5,43,21,0
+Hill,23,Straight Party,,,Democratic,19,1,1,14,3,0
+Hill,23,Straight Party,,,Libertarian,0,0,0,0,0,0
+Hill,23,Straight Party,,,Green,0,0,0,0,0,0
+Hill,23,U.S. Senate,,REP,John Cornyn,125,5,10,77,33,0
+Hill,23,U.S. Senate,,DEM,David M. Alameel,59,5,2,38,14,0
+Hill,23,U.S. Senate,,LIB,Rebecca Paddock,8,1,0,6,1,0
+Hill,23,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",0,0,0,0,0,0
+Hill,23,U.S. Senate,,,Write-ins,0,0,0,0,0,0
+Hill,23,U.S. House,25,REP,Roger Williams,122,6,10,78,28,0
+Hill,23,U.S. House,25,DEM,Marco Montoya,63,5,2,38,18,0
+Hill,23,U.S. House,25,LIB,John Betz,3,0,0,3,0,0
+Hill,23,Governor,,REP,Greg Abbott,126,5,10,80,31,0
+Hill,23,Governor,,DEM,Wendy R. Davis,65,6,2,41,16,0
+Hill,23,Governor,,LIB,Kathie Glass,2,0,0,1,1,0
+Hill,23,Governor,,GRN,Brandon Parmer,0,0,0,0,0,0
+Hill,23,Governor,,,Write-ins,0,0,0,0,0,0
+Hill,23,Lieutenant Governor,,REP,Dan Patrick,124,5,10,77,32,0
+Hill,23,Lieutenant Governor,,DEM,Leticia Van de Putte,66,6,2,42,16,0
+Hill,23,Lieutenant Governor,,LIB,Robert D. Butler,2,0,0,2,0,0
+Hill,23,Lieutenant Governor,,GRN,Chandrakantha Courtney,0,0,0,0,0,0
+Hill,23,Attorney General,,REP,Ken Paxton,121,6,10,74,31,0
+Hill,23,Attorney General,,DEM,Sam Houston,63,5,2,40,16,0
+Hill,23,Attorney General,,LIB,Jamie Balagia,4,0,0,4,0,0
+Hill,23,Attorney General,,GRN,Jamar Osborne,1,0,0,1,0,0
+Hill,23,Comptroller of Public Accounts,,REP,Glenn Hegar,115,7,9,72,27,0
+Hill,23,Comptroller of Public Accounts,,DEM,Mike Collier,63,4,2,40,17,0
+Hill,23,Comptroller of Public Accounts,,LIB,Ben Sanders,7,0,1,5,1,0
+Hill,23,Comptroller of Public Accounts,,GRN,Deb Shafto,1,0,0,1,0,0
+Hill,23,Commissioner of the General Land Office,,REP,George P. Bush,125,7,10,77,31,0
+Hill,23,Commissioner of the General Land Office,,DEM,John Cook,59,4,2,38,15,0
+Hill,23,Commissioner of the General Land Office,,LIB,Justin Knight,3,0,0,3,0,0
+Hill,23,Commissioner of the General Land Office,,GRN,Valerie Alesi,1,0,0,1,0,0
+Hill,23,Commissioner of Agriculture,,REP,Sid Miller,117,6,8,73,30,0
+Hill,23,Commissioner of Agriculture,,DEM,Jim Hogan,61,5,3,41,12,0
+Hill,23,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,5,0,0,3,2,0
+Hill,23,Commissioner of Agriculture,,GRN,Kenneth Kendrick,3,0,0,2,1,0
+Hill,23,Railroad Commissioner,,REP,Ryan Sitton,117,6,9,72,30,0
+Hill,23,Railroad Commissioner,,DEM,Steve Brown,62,5,2,41,14,0
+Hill,23,Railroad Commissioner,,LIB,Mark A. Miller,6,0,1,4,1,0
+Hill,23,Railroad Commissioner,,GRN,Martina Salinas,3,0,0,2,1,0
+Hill,23,State Representative,8,REP,Byron Cook,138,7,9,88,34,0
+Hill,23,State Representative,8,LIB,John Wilford,34,4,2,21,7,0
+Hill,24,Registered Voters,,,,1306,,,,,
+Hill,24,Ballots Cast,,,,469,50,23,146,250,0
+Hill,24,Straight Party,,,Republican,179,14,11,48,106,0
+Hill,24,Straight Party,,,Democratic,85,13,3,30,39,0
+Hill,24,Straight Party,,,Libertarian,1,0,0,0,1,0
+Hill,24,Straight Party,,,Green,0,0,0,0,0,0
+Hill,24,U.S. Senate,,REP,John Cornyn,340,29,19,100,192,0
+Hill,24,U.S. Senate,,DEM,David M. Alameel,110,18,3,37,52,0
+Hill,24,U.S. Senate,,LIB,Rebecca Paddock,7,1,1,4,1,0
+Hill,24,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",3,1,0,2,0,0
+Hill,24,U.S. Senate,,,Write-ins,0,0,0,0,0,0
+Hill,24,U.S. House,25,REP,Roger Williams,326,28,17,95,186,0
+Hill,24,U.S. House,25,DEM,Marco Montoya,110,16,4,38,52,0
+Hill,24,U.S. House,25,LIB,John Betz,10,1,0,5,4,0
+Hill,24,Governor,,REP,Greg Abbott,321,26,18,96,181,0
+Hill,24,Governor,,DEM,Wendy R. Davis,131,20,4,43,64,0
+Hill,24,Governor,,LIB,Kathie Glass,8,3,0,4,1,0
+Hill,24,Governor,,GRN,Brandon Parmer,3,1,0,1,1,0
+Hill,24,Governor,,,Write-ins,1,0,0,1,0,0
+Hill,24,Lieutenant Governor,,REP,Dan Patrick,331,30,18,98,185,0
+Hill,24,Lieutenant Governor,,DEM,Leticia Van de Putte,118,16,5,40,57,0
+Hill,24,Lieutenant Governor,,LIB,Robert D. Butler,13,2,0,5,6,0
+Hill,24,Lieutenant Governor,,GRN,Chandrakantha Courtney,3,1,0,1,1,0
+Hill,24,Attorney General,,REP,Ken Paxton,320,27,18,97,178,0
+Hill,24,Attorney General,,DEM,Sam Houston,133,20,4,44,65,0
+Hill,24,Attorney General,,LIB,Jamie Balagia,4,2,0,2,0,0
+Hill,24,Attorney General,,GRN,Jamar Osborne,2,0,0,0,2,0
+Hill,24,Comptroller of Public Accounts,,REP,Glenn Hegar,307,25,18,88,176,0
+Hill,24,Comptroller of Public Accounts,,DEM,Mike Collier,124,19,4,44,57,0
+Hill,24,Comptroller of Public Accounts,,LIB,Ben Sanders,11,1,0,6,4,0
+Hill,24,Comptroller of Public Accounts,,GRN,Deb Shafto,4,1,0,1,2,0
+Hill,24,Commissioner of the General Land Office,,REP,George P. Bush,329,29,18,95,187,0
+Hill,24,Commissioner of the General Land Office,,DEM,John Cook,125,21,4,45,55,0
+Hill,24,Commissioner of the General Land Office,,LIB,Justin Knight,7,0,0,5,2,0
+Hill,24,Commissioner of the General Land Office,,GRN,Valerie Alesi,1,0,0,0,1,0
+Hill,24,Commissioner of Agriculture,,REP,Sid Miller,316,28,18,91,179,0
+Hill,24,Commissioner of Agriculture,,DEM,Jim Hogan,131,20,4,46,61,0
+Hill,24,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,9,1,0,4,4,0
+Hill,24,Commissioner of Agriculture,,GRN,Kenneth Kendrick,2,0,0,1,1,0
+Hill,24,Railroad Commissioner,,REP,Ryan Sitton,311,26,18,91,176,0
+Hill,24,Railroad Commissioner,,DEM,Steve Brown,122,18,4,42,58,0
+Hill,24,Railroad Commissioner,,LIB,Mark A. Miller,10,1,0,4,5,0
+Hill,24,Railroad Commissioner,,GRN,Martina Salinas,7,2,0,2,3,0
+Hill,24,State Representative,8,REP,Byron Cook,349,29,20,102,198,0
+Hill,24,State Representative,8,LIB,John Wilford,41,6,1,13,21,0
+Hill,27,Registered Voters,,,,669,,,,,
+Hill,27,Ballots Cast,,,,292,45,28,171,48,0
+Hill,27,Straight Party,,,Republican,126,18,18,68,22,0
+Hill,27,Straight Party,,,Democratic,37,4,2,21,10,0
+Hill,27,Straight Party,,,Libertarian,3,0,1,1,1,0
+Hill,27,Straight Party,,,Green,0,0,0,0,0,0
+Hill,27,U.S. Senate,,REP,John Cornyn,227,40,24,134,29,0
+Hill,27,U.S. Senate,,DEM,David M. Alameel,52,5,2,34,11,0
+Hill,27,U.S. Senate,,LIB,Rebecca Paddock,5,0,1,1,3,0
+Hill,27,U.S. Senate,,GRN,"Emily ""Spicybrown"" Sanchez",1,0,0,0,1,0
+Hill,27,U.S. Senate,,,Write-ins,0,0,0,0,0,0
+Hill,27,U.S. House,25,REP,Roger Williams,226,37,24,132,33,0
+Hill,27,U.S. House,25,DEM,Marco Montoya,54,6,2,34,12,0
+Hill,27,U.S. House,25,LIB,John Betz,9,2,1,4,2,0
+Hill,27,Governor,,REP,Greg Abbott,214,35,23,124,32,0
+Hill,27,Governor,,DEM,Wendy R. Davis,65,8,3,41,13,0
+Hill,27,Governor,,LIB,Kathie Glass,6,1,1,3,1,0
+Hill,27,Governor,,GRN,Brandon Parmer,3,1,0,2,0,0
+Hill,27,Governor,,,Write-ins,0,0,0,0,0,0
+Hill,27,Lieutenant Governor,,REP,Dan Patrick,223,39,25,128,31,0
+Hill,27,Lieutenant Governor,,DEM,Leticia Van de Putte,61,6,2,38,15,0
+Hill,27,Lieutenant Governor,,LIB,Robert D. Butler,3,0,0,2,1,0
+Hill,27,Lieutenant Governor,,GRN,Chandrakantha Courtney,4,0,1,2,1,0
+Hill,27,Attorney General,,REP,Ken Paxton,221,36,25,128,32,0
+Hill,27,Attorney General,,DEM,Sam Houston,61,7,2,39,13,0
+Hill,27,Attorney General,,LIB,Jamie Balagia,4,0,1,0,3,0
+Hill,27,Attorney General,,GRN,Jamar Osborne,1,0,0,1,0,0
+Hill,27,Comptroller of Public Accounts,,REP,Glenn Hegar,213,34,24,123,32,0
+Hill,27,Comptroller of Public Accounts,,DEM,Mike Collier,60,7,4,38,11,0
+Hill,27,Comptroller of Public Accounts,,LIB,Ben Sanders,6,0,0,3,3,0
+Hill,27,Comptroller of Public Accounts,,GRN,Deb Shafto,6,3,0,3,0,0
+Hill,27,Commissioner of the General Land Office,,REP,George P. Bush,213,31,25,121,36,0
+Hill,27,Commissioner of the General Land Office,,DEM,John Cook,56,8,2,36,10,0
+Hill,27,Commissioner of the General Land Office,,LIB,Justin Knight,9,2,1,5,1,0
+Hill,27,Commissioner of the General Land Office,,GRN,Valerie Alesi,8,3,0,5,0,0
+Hill,27,Commissioner of Agriculture,,REP,Sid Miller,196,30,22,113,31,0
+Hill,27,Commissioner of Agriculture,,DEM,Jim Hogan,75,10,5,48,12,0
+Hill,27,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,6,0,1,2,3,0
+Hill,27,Commissioner of Agriculture,,GRN,Kenneth Kendrick,8,4,0,4,0,0
+Hill,27,Railroad Commissioner,,REP,Ryan Sitton,207,35,23,118,31,0
+Hill,27,Railroad Commissioner,,DEM,Steve Brown,59,7,2,39,11,0
+Hill,27,Railroad Commissioner,,LIB,Mark A. Miller,12,1,2,7,2,0
+Hill,27,Railroad Commissioner,,GRN,Martina Salinas,8,2,1,4,1,0
+Hill,27,State Representative,8,REP,Byron Cook,228,38,26,129,35,0
+Hill,27,State Representative,8,LIB,John Wilford,19,2,1,12,4,0
