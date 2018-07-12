@@ -1,0 +1,1999 @@
+county,precinct,office,district,party,candidate,election_day,early_voting,mail,votes
+Lee,101,US Senator,,REP,Mary Miller,13,10,1,24
+Lee,101,US Senator,,REP,"Bruce Jacobson, Jr.",13,8,2,23
+Lee,101,US Senator,,REP,Ted Cruz,154,115,11,280
+Lee,101,US Senator,,REP,Stefano de Stefano,1,2,0,3
+Lee,101,US Senator,,REP,Geraldine Sam,1,2,0,3
+Lee,101,US Senator,,DEM,Edward Kimbrough,10,9,3,22
+Lee,101,US Senator,,DEM,Beto O'Rourke,12,14,1,27
+Lee,101,US Senator,,DEM,Sema Hernandez,7,3,2,12
+Lee,101,US Representative,10,REP,Michael T. McCaul,151,116,12,279
+Lee,101,US Representative,10,REP,John W. Cook,26,20,2,48
+Lee,101,US Representative,10,DEM,Matt Harris,4,5,1,10
+Lee,101,US Representative,10,DEM,Mike Siegel,8,6,2,16
+Lee,101,US Representative,10,DEM,Kevin Nelson,1,5,0,6
+Lee,101,US Representative,10,DEM,Richie DeGrow,0,1,1,2
+Lee,101,US Representative,10,DEM,Tawana WalteCadien,5,3,1,9
+Lee,101,US Representative,10,DEM,Madeline K. Eden,4,3,0,7
+Lee,101,US Representative,10,DEM,Tami Walker,6,4,1,11
+Lee,101,Governor,,REP,Greg Abbott,167,126,13,306
+Lee,101,Governor,,REP,Barbara Krueger,10,15,0,25
+Lee,101,Governor,,REP,SECEDE Kilgore,3,2,1,6
+Lee,101,Governor,,DEM,Jeffrey Payne,5,7,1,13
+Lee,101,Governor,,DEM,Joe Mumbach,1,0,0,1
+Lee,101,Governor,,DEM,Adrian Ocegueda,2,0,0,2
+Lee,101,Governor,,DEM,"Cedric Davis, Sr.",2,3,1,6
+Lee,101,Governor,,DEM,Andrew White,7,10,1,18
+Lee,101,Governor,,DEM,Tom Wakely,1,0,0,1
+Lee,101,Governor,,DEM,James Jolly Clark,0,0,0,0
+Lee,101,Governor,,DEM,Lupe Valdez,7,6,2,15
+Lee,101,Governor,,DEM,Grady Yarbrough,3,1,1,5
+Lee,101,Lt. Governor,,REP,Scott Milder,56,42,1,99
+Lee,101,Lt. Governor,,REP,Dan Patrick,121,96,13,230
+Lee,101,Lt. Governor,,DEM,Mike Collier,11,14,2,27
+Lee,101,Lt. Governor,,DEM,Michael Cooper,15,12,4,31
+Lee,101,Attorney General,,REP,Ken Paxton,149,118,12,279
+Lee,101,Attorney General,,DEM,Justin Nelson,26,22,5,53
+Lee,101,Comptroller Public Accts,,REP,Glenn Hegar,146,113,12,271
+Lee,101,Comptroller Public Accts,,DEM,Tim Mahoney,16,17,2,35
+Lee,101,Comptroller Public Accts,,DEM,Joi Chevalier,9,7,3,19
+Lee,101,Commissioner Gen Land Office,,REP,Davey Edwards,13,13,4,30
+Lee,101,Commissioner Gen Land Office,,REP,Rick Range,3,5,0,8
+Lee,101,Commissioner Gen Land Office,,REP,George P. Bush,111,74,8,193
+Lee,101,Commissioner Gen Land Office,,REP,Jerry Patterson,49,33,2,84
+Lee,101,Commissioner Gen Land Office,,DEM,Tex Morgan,14,10,3,27
+Lee,101,Commissioner Gen Land Office,,DEM,Miguel Suazo,11,14,3,28
+Lee,101,Commissioner of Agriculture,,REP,Trey Blocker,34,34,2,70
+Lee,101,Commissioner of Agriculture,,REP,Jim Hogan,42,34,4,80
+Lee,101,Commissioner of Agriculture,,REP,Sid Miller,91,59,6,156
+Lee,101,Commissioner of Agriculture,,DEM,Kim Olson,26,22,5,53
+Lee,101,Railroad Commissioner,,REP,Weston Martinez,50,35,3,88
+Lee,101,Railroad Commissioner,,REP,Christi Craddick,102,83,10,195
+Lee,101,Railroad Commissioner,,DEM,Chris Spellmon,16,16,2,34
+Lee,101,Railroad Commissioner,,DEM,Roman McAllen,10,11,3,24
+Lee,101,"Justice, Supreme Court P2",,REP,Jimmy Blacklock,132,108,8,248
+Lee,101,"Justice, Supreme Court P2",,DEM,Steven Kirkland,26,23,4,53
+Lee,101,"Justice, Supreme Court P4",,REP,John Devine,135,108,12,255
+Lee,101,"Justice, Supreme Court P4",,DEM,R.K. Sandill,23,19,4,46
+Lee,101,"Justice, Supreme Court P6",,REP,Jeff Brown,133,106,12,251
+Lee,101,"Justice, Supreme Court P6",,DEM,Kathy Cheng,24,22,5,51
+Lee,101,Presiding Criminal Appeals,,REP,David Bridges,79,65,7,151
+Lee,101,Presiding Criminal Appeals,,REP,Sharon Keller,67,52,4,123
+Lee,101,Presiding Criminal Appeals,,DEM,Maria T. Jackson,25,21,5,51
+Lee,101,"Judge, Court of Criminal Appeals P7",,REP,B. Parker Hervey,129,101,12,242
+Lee,101,"Judge, Court of Criminal Appeals P7",,DEM,Ramona Franklin,25,20,5,50
+Lee,101,"Judge, Court of Criminal Appeals P8",,REP,Jay Brandon,62,43,4,109
+Lee,101,"Judge, Court of Criminal Appeals P8",,REP,Dib Waldrip,18,19,5,42
+Lee,101,"Judge, Court of Criminal Appeals P8",,REP,Michelle Slaughter,59,44,1,104
+Lee,101,State Representative,17,REP,John P. Cyrier,140,116,12,268
+Lee,101,State Representative,17,DEM,Michelle Ryan,25,21,6,52
+Lee,101,Justice Court of Appeals D3 P2,,REP,C. Olson Bourland,133,107,12,252
+Lee,101,Justice Court of Appeals D3 P2,,DEM,Edward Smith,24,20,5,49
+Lee,101,Justice Court of Appeals D3 P3,,REP,Scott Field,134,105,11,250
+Lee,101,Justice Court of Appeals D3 P3,,DEM,Chari Kelly,24,20,5,49
+Lee,101,Justice Court of Appeals D3 P5,,REP,David Puryear,130,104,12,246
+Lee,101,Justice Court of Appeals D3 P5,,DEM,Thomas J. Baker,25,20,5,50
+Lee,101,Justice Court of Appeals D3 P6,,REP,Kristofer Monson,31,20,1,52
+Lee,101,Justice Court of Appeals D3 P6,,REP,Donna Davidson,42,23,3,68
+Lee,101,Justice Court of Appeals D3 P6,,REP,Jennifer S. Freel,21,22,0,43
+Lee,101,Justice Court of Appeals D3 P6,,REP,"Michael ""Mike"" Toth",45,42,9,96
+Lee,101,Justice Court of Appeals D3 P6,,DEM,Gisela D. Triana,24,20,5,49
+Lee,101,County Judge,,REP,Paul E Fischer,126,92,11,229
+Lee,101,County Judge,,REP,Michael R Morgan,60,56,4,120
+Lee,101,District Clerk,,REP,Lisa Teinert,156,126,13,295
+Lee,101,County Clerk,,REP,Sharon Blasig,155,128,13,296
+Lee,101,County Treasurer,,REP,S. Blasig Kessler,89,81,12,182
+Lee,101,County Treasurer,,REP,Melinda Krause,86,62,3,151
+Lee,101,Justice Peace P2,,REP,Michael York,157,126,13,296
+Lee,101,County Chairman,,REP,David Porter,135,110,12,257
+Lee,101,Proposition 1,,REP,YES,124,93,7,224
+Lee,101,Proposition 1,,REP,NO,49,35,6,90
+Lee,101,Proposition 2,,REP,YES,170,129,11,310
+Lee,101,Proposition 2,,REP,NO,14,9,2,25
+Lee,101,Proposition 3,,REP,YES,155,110,13,278
+Lee,101,Proposition 3,,REP,NO,21,21,0,42
+Lee,101,Proposition 4,,REP,YES,168,125,14,307
+Lee,101,Proposition 4,,REP,NO,11,10,0,21
+Lee,101,Proposition 5,,REP,YES,139,99,13,251
+Lee,101,Proposition 5,,REP,NO,41,32,1,74
+Lee,101,Proposition 6,,REP,YES,173,130,14,317
+Lee,101,Proposition 6,,REP,NO,10,7,0,17
+Lee,101,Proposition 7,,REP,YES,120,81,11,212
+Lee,101,Proposition 7,,REP,NO,61,50,3,114
+Lee,101,Proposition 8,,REP,YES,176,130,14,320
+Lee,101,Proposition 8,,REP,NO,7,5,0,12
+Lee,101,Proposition 9,,REP,YES,170,122,11,303
+Lee,101,Proposition 9,,REP,NO,14,14,2,30
+Lee,101,Proposition 10,,REP,YES,167,126,12,305
+Lee,101,Proposition 10,,REP,NO,11,8,0,19
+Lee,101,Proposition 11,,REP,YES,168,128,11,307
+Lee,101,Proposition 11,,REP,NO,16,7,1,24
+Lee,101,Proposition 1,,DEM,FOR,26,24,6,56
+Lee,101,Proposition 1,,DEM,AGAINST,2,3,0,5
+Lee,101,Proposition 2,,DEM,FOR,26,26,0,52
+Lee,101,Proposition 2,,DEM,AGAINST,2,2,5,9
+Lee,101,Proposition 3,,DEM,FOR,25,25,6,56
+Lee,101,Proposition 3,,DEM,AGAINST,3,3,0,6
+Lee,101,Proposition 4,,DEM,FOR,26,26,6,58
+Lee,101,Proposition 4,,DEM,AGAINST,2,2,0,4
+Lee,101,Proposition 5,,DEM,FOR,27,20,5,52
+Lee,101,Proposition 5,,DEM,AGAINST,1,6,0,7
+Lee,101,Proposition 6,,DEM,FOR,27,26,5,58
+Lee,101,Proposition 6,,DEM,AGAINST,1,1,0,2
+Lee,101,Proposition 7,,DEM,FOR,27,26,6,59
+Lee,101,Proposition 7,,DEM,AGAINST,2,0,0,2
+Lee,101,Proposition 8,,DEM,FOR,27,24,6,57
+Lee,101,Proposition 8,,DEM,AGAINST,2,3,0,5
+Lee,101,Proposition 9,,DEM,FOR,22,26,6,54
+Lee,101,Proposition 9,,DEM,AGAINST,7,1,0,8
+Lee,101,Proposition 10,,DEM,FOR,27,24,6,57
+Lee,101,Proposition 10,,DEM,AGAINST,2,2,0,4
+Lee,101,Proposition 11,,DEM,FOR,27,25,6,58
+Lee,101,Proposition 11,,DEM,AGAINST,2,3,0,5
+Lee,101,Proposition 12,,DEM,FOR,28,24,6,58
+Lee,101,Proposition 12,,DEM,AGAINST,1,1,0,2
+Lee,102,US Senator,,REP,Mary Miller,2,2,0,4
+Lee,102,US Senator,,REP,"Bruce Jacobson, Jr.",2,0,0,2
+Lee,102,US Senator,,REP,Ted Cruz,24,19,1,44
+Lee,102,US Senator,,REP,Stefano de Stefano,1,0,0,1
+Lee,102,US Senator,,REP,Geraldine Sam,0,0,0,0
+Lee,102,US Senator,,DEM,Edward Kimbrough,2,1,1,4
+Lee,102,US Senator,,DEM,Beto O'Rourke,2,2,2,6
+Lee,102,US Senator,,DEM,Sema Hernandez,1,0,1,2
+Lee,102,US Representative,10,REP,Michael T. McCaul,24,13,0,37
+Lee,102,US Representative,10,REP,John W. Cook,4,6,1,11
+Lee,102,US Representative,10,DEM,Matt Harris,2,0,1,3
+Lee,102,US Representative,10,DEM,Mike Siegel,2,1,0,3
+Lee,102,US Representative,10,DEM,Kevin Nelson,0,0,0,0
+Lee,102,US Representative,10,DEM,Richie DeGrow,0,0,0,0
+Lee,102,US Representative,10,DEM,Tawana WalteCadien,1,1,0,2
+Lee,102,US Representative,10,DEM,Madeline K. Eden,0,0,1,1
+Lee,102,US Representative,10,DEM,Tami Walker,0,0,1,1
+Lee,102,Governor,,REP,Greg Abbott,25,17,1,43
+Lee,102,Governor,,REP,Barbara Krueger,4,2,0,6
+Lee,102,Governor,,REP,SECEDE Kilgore,1,1,0,2
+Lee,102,Governor,,DEM,Jeffrey Payne,1,0,0,1
+Lee,102,Governor,,DEM,Joe Mumbach,0,0,1,1
+Lee,102,Governor,,DEM,Adrian Ocegueda,0,0,0,0
+Lee,102,Governor,,DEM,"Cedric Davis, Sr.",1,0,1,2
+Lee,102,Governor,,DEM,Andrew White,1,1,2,4
+Lee,102,Governor,,DEM,Tom Wakely,0,0,0,0
+Lee,102,Governor,,DEM,James Jolly Clark,0,0,0,0
+Lee,102,Governor,,DEM,Lupe Valdez,2,2,0,4
+Lee,102,Governor,,DEM,Grady Yarbrough,0,0,0,0
+Lee,102,Lt. Governor,,REP,Scott Milder,9,10,0,19
+Lee,102,Lt. Governor,,REP,Dan Patrick,18,11,1,30
+Lee,102,Lt. Governor,,DEM,Mike Collier,3,1,1,5
+Lee,102,Lt. Governor,,DEM,Michael Cooper,2,2,2,6
+Lee,102,Attorney General,,REP,Ken Paxton,22,13,1,36
+Lee,102,Attorney General,,DEM,Justin Nelson,5,1,4,10
+Lee,102,Comptroller Public Accts,,REP,Glenn Hegar,19,16,0,35
+Lee,102,Comptroller Public Accts,,DEM,Tim Mahoney,3,1,1,5
+Lee,102,Comptroller Public Accts,,DEM,Joi Chevalier,2,1,3,6
+Lee,102,Commissioner Gen Land Office,,REP,Davey Edwards,1,2,0,3
+Lee,102,Commissioner Gen Land Office,,REP,Rick Range,1,1,0,2
+Lee,102,Commissioner Gen Land Office,,REP,George P. Bush,18,10,0,28
+Lee,102,Commissioner Gen Land Office,,REP,Jerry Patterson,6,5,1,12
+Lee,102,Commissioner Gen Land Office,,DEM,Tex Morgan,2,1,3,6
+Lee,102,Commissioner Gen Land Office,,DEM,Miguel Suazo,3,1,1,5
+Lee,102,Commissioner of Agriculture,,REP,Trey Blocker,6,3,0,9
+Lee,102,Commissioner of Agriculture,,REP,Jim Hogan,4,4,0,8
+Lee,102,Commissioner of Agriculture,,REP,Sid Miller,13,12,1,26
+Lee,102,Commissioner of Agriculture,,DEM,Kim Olson,5,1,4,10
+Lee,102,Railroad Commissioner,,REP,Weston Martinez,7,7,0,14
+Lee,102,Railroad Commissioner,,REP,Christi Craddick,17,12,1,30
+Lee,102,Railroad Commissioner,,DEM,Chris Spellmon,5,1,2,8
+Lee,102,Railroad Commissioner,,DEM,Roman McAllen,0,1,2,3
+Lee,102,"Justice, Supreme Court P2",,REP,Jimmy Blacklock,20,14,1,35
+Lee,102,"Justice, Supreme Court P2",,DEM,Steven Kirkland,5,1,4,10
+Lee,102,"Justice, Supreme Court P4",,REP,John Devine,20,15,1,36
+Lee,102,"Justice, Supreme Court P4",,DEM,R.K. Sandill,5,1,4,10
+Lee,102,"Justice, Supreme Court P6",,REP,Jeff Brown,20,15,1,36
+Lee,102,"Justice, Supreme Court P6",,DEM,Kathy Cheng,5,1,4,10
+Lee,102,Presiding Criminal Appeals,,REP,David Bridges,10,8,1,19
+Lee,102,Presiding Criminal Appeals,,REP,Sharon Keller,7,10,0,17
+Lee,102,Presiding Criminal Appeals,,DEM,Maria T. Jackson,5,1,4,10
+Lee,102,"Judge, Court of Criminal Appeals P7",,REP,B. Parker Hervey,18,12,1,31
+Lee,102,"Judge, Court of Criminal Appeals P7",,DEM,Ramona Franklin,5,1,4,10
+Lee,102,"Judge, Court of Criminal Appeals P8",,REP,Jay Brandon,5,6,0,11
+Lee,102,"Judge, Court of Criminal Appeals P8",,REP,Dib Waldrip,4,2,1,7
+Lee,102,"Judge, Court of Criminal Appeals P8",,REP,Michelle Slaughter,10,11,0,21
+Lee,102,State Representative,17,REP,John P. Cyrier,20,14,1,35
+Lee,102,State Representative,17,DEM,Michelle Ryan,5,1,4,10
+Lee,102,Justice Court of Appeals D3 P2,,REP,C. Olson Bourland,18,11,1,30
+Lee,102,Justice Court of Appeals D3 P2,,DEM,Edward Smith,5,1,4,10
+Lee,102,Justice Court of Appeals D3 P3,,REP,Scott Field,18,11,1,30
+Lee,102,Justice Court of Appeals D3 P3,,DEM,Chari Kelly,5,1,4,10
+Lee,102,Justice Court of Appeals D3 P5,,REP,David Puryear,18,12,1,31
+Lee,102,Justice Court of Appeals D3 P5,,DEM,Thomas J. Baker,5,1,4,10
+Lee,102,Justice Court of Appeals D3 P6,,REP,Kristofer Monson,2,1,0,3
+Lee,102,Justice Court of Appeals D3 P6,,REP,Donna Davidson,6,6,0,12
+Lee,102,Justice Court of Appeals D3 P6,,REP,Jennifer S. Freel,5,0,0,5
+Lee,102,Justice Court of Appeals D3 P6,,REP,"Michael ""Mike"" Toth",9,11,1,21
+Lee,102,Justice Court of Appeals D3 P6,,DEM,Gisela D. Triana,5,1,4,10
+Lee,102,County Judge,,REP,Paul E Fischer,21,11,0,32
+Lee,102,County Judge,,REP,Michael R Morgan,9,11,1,21
+Lee,102,District Clerk,,REP,Lisa Teinert,23,17,1,41
+Lee,102,County Clerk,,REP,Sharon Blasig,24,17,1,42
+Lee,102,County Treasurer,,REP,S. Blasig Kessler,15,11,0,26
+Lee,102,County Treasurer,,REP,Melinda Krause,14,11,1,26
+Lee,102,Justice Peace P2,,REP,Michael York,23,17,1,41
+Lee,102,County Chairman,,REP,David Porter,17,16,1,34
+Lee,102,Proposition 1,,REP,YES,20,14,1,35
+Lee,102,Proposition 1,,REP,NO,5,7,0,12
+Lee,102,Proposition 2,,REP,YES,26,21,1,48
+Lee,102,Proposition 2,,REP,NO,2,0,0,2
+Lee,102,Proposition 3,,REP,YES,21,17,0,38
+Lee,102,Proposition 3,,REP,NO,4,3,1,8
+Lee,102,Proposition 4,,REP,YES,23,21,1,45
+Lee,102,Proposition 4,,REP,NO,3,0,0,3
+Lee,102,Proposition 5,,REP,YES,22,14,1,37
+Lee,102,Proposition 5,,REP,NO,7,9,0,16
+Lee,102,Proposition 6,,REP,YES,24,23,1,48
+Lee,102,Proposition 6,,REP,NO,3,0,0,3
+Lee,102,Proposition 7,,REP,YES,21,19,0,40
+Lee,102,Proposition 7,,REP,NO,7,3,1,11
+Lee,102,Proposition 8,,REP,YES,26,21,1,48
+Lee,102,Proposition 8,,REP,NO,2,2,0,4
+Lee,102,Proposition 9,,REP,YES,24,21,1,46
+Lee,102,Proposition 9,,REP,NO,4,2,0,6
+Lee,102,Proposition 10,,REP,YES,27,22,1,50
+Lee,102,Proposition 10,,REP,NO,0,0,0,0
+Lee,102,Proposition 11,,REP,YES,24,22,0,46
+Lee,102,Proposition 11,,REP,NO,4,1,1,6
+Lee,102,Proposition 1,,DEM,FOR,6,3,4,13
+Lee,102,Proposition 1,,DEM,AGAINST,0,0,0,0
+Lee,102,Proposition 2,,DEM,FOR,6,3,4,13
+Lee,102,Proposition 2,,DEM,AGAINST,0,0,0,0
+Lee,102,Proposition 3,,DEM,FOR,6,3,4,13
+Lee,102,Proposition 3,,DEM,AGAINST,0,0,0,0
+Lee,102,Proposition 4,,DEM,FOR,6,3,4,13
+Lee,102,Proposition 4,,DEM,AGAINST,0,0,0,0
+Lee,102,Proposition 5,,DEM,FOR,6,2,4,12
+Lee,102,Proposition 5,,DEM,AGAINST,0,0,0,0
+Lee,102,Proposition 6,,DEM,FOR,6,3,4,13
+Lee,102,Proposition 6,,DEM,AGAINST,0,0,0,0
+Lee,102,Proposition 7,,DEM,FOR,6,2,4,12
+Lee,102,Proposition 7,,DEM,AGAINST,0,0,0,0
+Lee,102,Proposition 8,,DEM,FOR,6,2,4,12
+Lee,102,Proposition 8,,DEM,AGAINST,0,0,0,0
+Lee,102,Proposition 9,,DEM,FOR,5,2,4,11
+Lee,102,Proposition 9,,DEM,AGAINST,1,0,0,1
+Lee,102,Proposition 10,,DEM,FOR,6,2,4,12
+Lee,102,Proposition 10,,DEM,AGAINST,0,0,0,0
+Lee,102,Proposition 11,,DEM,FOR,6,2,4,12
+Lee,102,Proposition 11,,DEM,AGAINST,0,0,0,0
+Lee,102,Proposition 12,,DEM,FOR,6,2,4,12
+Lee,102,Proposition 12,,DEM,AGAINST,0,0,0,0
+Lee,103,US Senator,,REP,Mary Miller,3,0,0,3
+Lee,103,US Senator,,REP,"Bruce Jacobson, Jr.",3,2,0,5
+Lee,103,US Senator,,REP,Ted Cruz,42,22,2,66
+Lee,103,US Senator,,REP,Stefano de Stefano,0,1,0,1
+Lee,103,US Senator,,REP,Geraldine Sam,1,1,0,2
+Lee,103,US Senator,,DEM,Edward Kimbrough,3,0,0,3
+Lee,103,US Senator,,DEM,Beto O'Rourke,2,0,1,3
+Lee,103,US Senator,,DEM,Sema Hernandez,0,0,0,0
+Lee,103,US Representative,10,REP,Michael T. McCaul,43,22,2,67
+Lee,103,US Representative,10,REP,John W. Cook,4,4,0,8
+Lee,103,US Representative,10,DEM,Matt Harris,1,0,0,1
+Lee,103,US Representative,10,DEM,Mike Siegel,2,0,0,2
+Lee,103,US Representative,10,DEM,Kevin Nelson,0,0,0,0
+Lee,103,US Representative,10,DEM,Richie DeGrow,0,0,0,0
+Lee,103,US Representative,10,DEM,Tawana WalteCadien,0,0,0,0
+Lee,103,US Representative,10,DEM,Madeline K. Eden,0,0,0,0
+Lee,103,US Representative,10,DEM,Tami Walker,2,0,1,3
+Lee,103,Governor,,REP,Greg Abbott,47,23,2,72
+Lee,103,Governor,,REP,Barbara Krueger,2,1,0,3
+Lee,103,Governor,,REP,SECEDE Kilgore,0,1,0,1
+Lee,103,Governor,,DEM,Jeffrey Payne,1,0,0,1
+Lee,103,Governor,,DEM,Joe Mumbach,0,0,0,0
+Lee,103,Governor,,DEM,Adrian Ocegueda,0,0,0,0
+Lee,103,Governor,,DEM,"Cedric Davis, Sr.",0,0,0,0
+Lee,103,Governor,,DEM,Andrew White,3,0,1,4
+Lee,103,Governor,,DEM,Tom Wakely,0,0,0,0
+Lee,103,Governor,,DEM,James Jolly Clark,0,0,0,0
+Lee,103,Governor,,DEM,Lupe Valdez,0,0,0,0
+Lee,103,Governor,,DEM,Grady Yarbrough,1,0,0,1
+Lee,103,Lt. Governor,,REP,Scott Milder,13,2,0,15
+Lee,103,Lt. Governor,,REP,Dan Patrick,35,24,2,61
+Lee,103,Lt. Governor,,DEM,Mike Collier,2,0,0,2
+Lee,103,Lt. Governor,,DEM,Michael Cooper,3,0,1,4
+Lee,103,Attorney General,,REP,Ken Paxton,40,19,2,61
+Lee,103,Attorney General,,DEM,Justin Nelson,5,0,1,6
+Lee,103,Comptroller Public Accts,,REP,Glenn Hegar,41,21,2,64
+Lee,103,Comptroller Public Accts,,DEM,Tim Mahoney,3,0,0,3
+Lee,103,Comptroller Public Accts,,DEM,Joi Chevalier,2,0,1,3
+Lee,103,Commissioner Gen Land Office,,REP,Davey Edwards,1,4,0,5
+Lee,103,Commissioner Gen Land Office,,REP,Rick Range,5,2,0,7
+Lee,103,Commissioner Gen Land Office,,REP,George P. Bush,27,8,1,36
+Lee,103,Commissioner Gen Land Office,,REP,Jerry Patterson,10,8,1,19
+Lee,103,Commissioner Gen Land Office,,DEM,Tex Morgan,3,0,0,3
+Lee,103,Commissioner Gen Land Office,,DEM,Miguel Suazo,2,0,1,3
+Lee,103,Commissioner of Agriculture,,REP,Trey Blocker,6,5,0,11
+Lee,103,Commissioner of Agriculture,,REP,Jim Hogan,13,2,0,15
+Lee,103,Commissioner of Agriculture,,REP,Sid Miller,24,16,0,40
+Lee,103,Commissioner of Agriculture,,DEM,Kim Olson,5,0,1,6
+Lee,103,Railroad Commissioner,,REP,Weston Martinez,10,6,0,16
+Lee,103,Railroad Commissioner,,REP,Christi Craddick,34,11,0,45
+Lee,103,Railroad Commissioner,,DEM,Chris Spellmon,2,0,1,3
+Lee,103,Railroad Commissioner,,DEM,Roman McAllen,3,0,0,3
+Lee,103,"Justice, Supreme Court P2",,REP,Jimmy Blacklock,38,18,2,58
+Lee,103,"Justice, Supreme Court P2",,DEM,Steven Kirkland,5,0,1,6
+Lee,103,"Justice, Supreme Court P4",,REP,John Devine,37,18,2,57
+Lee,103,"Justice, Supreme Court P4",,DEM,R.K. Sandill,5,0,1,6
+Lee,103,"Justice, Supreme Court P6",,REP,Jeff Brown,38,18,2,58
+Lee,103,"Justice, Supreme Court P6",,DEM,Kathy Cheng,5,0,1,6
+Lee,103,Presiding Criminal Appeals,,REP,David Bridges,15,12,0,27
+Lee,103,Presiding Criminal Appeals,,REP,Sharon Keller,23,4,0,27
+Lee,103,Presiding Criminal Appeals,,DEM,Maria T. Jackson,5,0,1,6
+Lee,103,"Judge, Court of Criminal Appeals P7",,REP,B. Parker Hervey,40,17,2,59
+Lee,103,"Judge, Court of Criminal Appeals P7",,DEM,Ramona Franklin,5,0,1,6
+Lee,103,"Judge, Court of Criminal Appeals P8",,REP,Jay Brandon,14,9,0,23
+Lee,103,"Judge, Court of Criminal Appeals P8",,REP,Dib Waldrip,6,3,0,9
+Lee,103,"Judge, Court of Criminal Appeals P8",,REP,Michelle Slaughter,16,3,0,19
+Lee,103,State Representative,17,REP,John P. Cyrier,41,20,2,63
+Lee,103,State Representative,17,DEM,Michelle Ryan,5,0,1,6
+Lee,103,Justice Court of Appeals D3 P2,,REP,C. Olson Bourland,37,17,2,56
+Lee,103,Justice Court of Appeals D3 P2,,DEM,Edward Smith,5,0,1,6
+Lee,103,Justice Court of Appeals D3 P3,,REP,Scott Field,37,16,2,55
+Lee,103,Justice Court of Appeals D3 P3,,DEM,Chari Kelly,5,0,1,6
+Lee,103,Justice Court of Appeals D3 P5,,REP,David Puryear,37,16,2,55
+Lee,103,Justice Court of Appeals D3 P5,,DEM,Thomas J. Baker,5,0,1,6
+Lee,103,Justice Court of Appeals D3 P6,,REP,Kristofer Monson,4,3,0,7
+Lee,103,Justice Court of Appeals D3 P6,,REP,Donna Davidson,17,5,0,22
+Lee,103,Justice Court of Appeals D3 P6,,REP,Jennifer S. Freel,3,0,0,3
+Lee,103,Justice Court of Appeals D3 P6,,REP,"Michael ""Mike"" Toth",14,8,2,24
+Lee,103,Justice Court of Appeals D3 P6,,DEM,Gisela D. Triana,5,0,1,6
+Lee,103,County Judge,,REP,Paul E Fischer,34,12,2,48
+Lee,103,County Judge,,REP,Michael R Morgan,15,14,0,29
+Lee,103,District Clerk,,REP,Lisa Teinert,44,22,2,68
+Lee,103,County Clerk,,REP,Sharon Blasig,45,21,2,68
+Lee,103,County Treasurer,,REP,S. Blasig Kessler,29,11,0,40
+Lee,103,County Treasurer,,REP,Melinda Krause,20,12,2,34
+Lee,103,Justice Peace P4,,REP,Lee Dobos,19,7,0,26
+Lee,103,Justice Peace P4,,REP,Danita Smith,27,13,2,42
+Lee,103,Justice Peace P4,,REP,Philip E. McInturff,2,2,0,4
+Lee,103,County Chairman,,REP,David Porter,38,16,2,56
+Lee,103,Proposition 1,,REP,YES,30,12,0,42
+Lee,103,Proposition 1,,REP,NO,15,8,2,25
+Lee,103,Proposition 2,,REP,YES,48,21,2,71
+Lee,103,Proposition 2,,REP,NO,0,2,0,2
+Lee,103,Proposition 3,,REP,YES,36,18,2,56
+Lee,103,Proposition 3,,REP,NO,11,1,0,12
+Lee,103,Proposition 4,,REP,YES,43,21,2,66
+Lee,103,Proposition 4,,REP,NO,5,2,0,7
+Lee,103,Proposition 5,,REP,YES,45,20,2,67
+Lee,103,Proposition 5,,REP,NO,4,1,0,5
+Lee,103,Proposition 6,,REP,YES,48,22,2,72
+Lee,103,Proposition 6,,REP,NO,2,1,0,3
+Lee,103,Proposition 7,,REP,YES,29,17,2,48
+Lee,103,Proposition 7,,REP,NO,17,7,0,24
+Lee,103,Proposition 8,,REP,YES,48,21,2,71
+Lee,103,Proposition 8,,REP,NO,0,0,0,0
+Lee,103,Proposition 9,,REP,YES,42,19,2,63
+Lee,103,Proposition 9,,REP,NO,6,4,0,10
+Lee,103,Proposition 10,,REP,YES,46,22,2,70
+Lee,103,Proposition 10,,REP,NO,1,0,0,1
+Lee,103,Proposition 11,,REP,YES,47,20,2,69
+Lee,103,Proposition 11,,REP,NO,4,2,0,6
+Lee,103,Proposition 1,,DEM,FOR,3,0,1,4
+Lee,103,Proposition 1,,DEM,AGAINST,1,0,0,1
+Lee,103,Proposition 2,,DEM,FOR,3,0,1,4
+Lee,103,Proposition 2,,DEM,AGAINST,1,0,0,1
+Lee,103,Proposition 3,,DEM,FOR,3,0,1,4
+Lee,103,Proposition 3,,DEM,AGAINST,1,0,0,1
+Lee,103,Proposition 4,,DEM,FOR,3,0,1,4
+Lee,103,Proposition 4,,DEM,AGAINST,1,0,0,1
+Lee,103,Proposition 5,,DEM,FOR,3,0,1,4
+Lee,103,Proposition 5,,DEM,AGAINST,1,0,0,1
+Lee,103,Proposition 6,,DEM,FOR,3,0,1,4
+Lee,103,Proposition 6,,DEM,AGAINST,0,0,0,0
+Lee,103,Proposition 7,,DEM,FOR,4,0,1,5
+Lee,103,Proposition 7,,DEM,AGAINST,0,0,0,0
+Lee,103,Proposition 8,,DEM,FOR,2,0,1,3
+Lee,103,Proposition 8,,DEM,AGAINST,2,0,0,2
+Lee,103,Proposition 9,,DEM,FOR,4,0,1,5
+Lee,103,Proposition 9,,DEM,AGAINST,0,0,0,0
+Lee,103,Proposition 10,,DEM,FOR,3,0,1,4
+Lee,103,Proposition 10,,DEM,AGAINST,1,0,0,1
+Lee,103,Proposition 11,,DEM,FOR,3,0,1,4
+Lee,103,Proposition 11,,DEM,AGAINST,1,0,0,1
+Lee,103,Proposition 12,,DEM,FOR,3,0,1,4
+Lee,103,Proposition 12,,DEM,AGAINST,1,0,0,1
+Lee,201,US Senator,,REP,Mary Miller,5,2,0,7
+Lee,201,US Senator,,REP,"Bruce Jacobson, Jr.",6,1,0,7
+Lee,201,US Senator,,REP,Ted Cruz,142,78,3,223
+Lee,201,US Senator,,REP,Stefano de Stefano,0,0,0,0
+Lee,201,US Senator,,REP,Geraldine Sam,0,2,0,2
+Lee,201,US Senator,,DEM,Edward Kimbrough,3,1,0,4
+Lee,201,US Senator,,DEM,Beto O'Rourke,4,1,0,5
+Lee,201,US Senator,,DEM,Sema Hernandez,0,0,0,0
+Lee,201,US Representative,10,REP,Michael T. McCaul,132,77,3,212
+Lee,201,US Representative,10,REP,John W. Cook,20,4,0,24
+Lee,201,US Representative,10,DEM,Matt Harris,4,0,0,4
+Lee,201,US Representative,10,DEM,Mike Siegel,0,1,0,1
+Lee,201,US Representative,10,DEM,Kevin Nelson,1,0,0,1
+Lee,201,US Representative,10,DEM,Richie DeGrow,0,0,0,0
+Lee,201,US Representative,10,DEM,Tawana WalteCadien,0,0,0,0
+Lee,201,US Representative,10,DEM,Madeline K. Eden,1,0,0,1
+Lee,201,US Representative,10,DEM,Tami Walker,0,1,0,1
+Lee,201,Governor,,REP,Greg Abbott,145,82,3,230
+Lee,201,Governor,,REP,Barbara Krueger,8,2,0,10
+Lee,201,Governor,,REP,SECEDE Kilgore,0,0,0,0
+Lee,201,Governor,,DEM,Jeffrey Payne,2,1,0,3
+Lee,201,Governor,,DEM,Joe Mumbach,0,0,0,0
+Lee,201,Governor,,DEM,Adrian Ocegueda,0,0,0,0
+Lee,201,Governor,,DEM,"Cedric Davis, Sr.",0,0,0,0
+Lee,201,Governor,,DEM,Andrew White,4,1,0,5
+Lee,201,Governor,,DEM,Tom Wakely,0,0,0,0
+Lee,201,Governor,,DEM,James Jolly Clark,0,0,0,0
+Lee,201,Governor,,DEM,Lupe Valdez,0,0,0,0
+Lee,201,Governor,,DEM,Grady Yarbrough,1,0,0,1
+Lee,201,Lt. Governor,,REP,Scott Milder,42,24,0,66
+Lee,201,Lt. Governor,,REP,Dan Patrick,107,61,3,171
+Lee,201,Lt. Governor,,DEM,Mike Collier,5,1,0,6
+Lee,201,Lt. Governor,,DEM,Michael Cooper,1,1,0,2
+Lee,201,Attorney General,,REP,Ken Paxton,138,78,3,219
+Lee,201,Attorney General,,DEM,Justin Nelson,7,2,0,9
+Lee,201,Comptroller Public Accts,,REP,Glenn Hegar,138,78,3,219
+Lee,201,Comptroller Public Accts,,DEM,Tim Mahoney,4,2,0,6
+Lee,201,Comptroller Public Accts,,DEM,Joi Chevalier,1,0,0,1
+Lee,201,Commissioner Gen Land Office,,REP,Davey Edwards,10,2,0,12
+Lee,201,Commissioner Gen Land Office,,REP,Rick Range,9,7,0,16
+Lee,201,Commissioner Gen Land Office,,REP,George P. Bush,85,47,3,135
+Lee,201,Commissioner Gen Land Office,,REP,Jerry Patterson,39,24,0,63
+Lee,201,Commissioner Gen Land Office,,DEM,Tex Morgan,5,2,0,7
+Lee,201,Commissioner Gen Land Office,,DEM,Miguel Suazo,0,0,0,0
+Lee,201,Commissioner of Agriculture,,REP,Trey Blocker,30,12,0,42
+Lee,201,Commissioner of Agriculture,,REP,Jim Hogan,37,19,0,56
+Lee,201,Commissioner of Agriculture,,REP,Sid Miller,69,46,3,118
+Lee,201,Commissioner of Agriculture,,DEM,Kim Olson,6,2,0,8
+Lee,201,Railroad Commissioner,,REP,Weston Martinez,43,17,0,60
+Lee,201,Railroad Commissioner,,REP,Christi Craddick,82,56,3,141
+Lee,201,Railroad Commissioner,,DEM,Chris Spellmon,4,1,0,5
+Lee,201,Railroad Commissioner,,DEM,Roman McAllen,1,1,0,2
+Lee,201,"Justice, Supreme Court P2",,REP,Jimmy Blacklock,126,69,3,198
+Lee,201,"Justice, Supreme Court P2",,DEM,Steven Kirkland,6,2,0,8
+Lee,201,"Justice, Supreme Court P4",,REP,John Devine,126,69,3,198
+Lee,201,"Justice, Supreme Court P4",,DEM,R.K. Sandill,6,2,0,8
+Lee,201,"Justice, Supreme Court P6",,REP,Jeff Brown,127,69,3,199
+Lee,201,"Justice, Supreme Court P6",,DEM,Kathy Cheng,6,2,0,8
+Lee,201,Presiding Criminal Appeals,,REP,David Bridges,71,42,1,114
+Lee,201,Presiding Criminal Appeals,,REP,Sharon Keller,53,32,2,87
+Lee,201,Presiding Criminal Appeals,,DEM,Maria T. Jackson,5,2,0,7
+Lee,201,"Judge, Court of Criminal Appeals P7",,REP,B. Parker Hervey,122,68,3,193
+Lee,201,"Judge, Court of Criminal Appeals P7",,DEM,Ramona Franklin,6,2,0,8
+Lee,201,"Judge, Court of Criminal Appeals P8",,REP,Jay Brandon,54,28,3,85
+Lee,201,"Judge, Court of Criminal Appeals P8",,REP,Dib Waldrip,16,6,0,22
+Lee,201,"Judge, Court of Criminal Appeals P8",,REP,Michelle Slaughter,52,36,0,88
+Lee,201,State Representative,17,REP,John P. Cyrier,135,73,3,211
+Lee,201,State Representative,17,DEM,Michelle Ryan,6,2,0,8
+Lee,201,Justice Court of Appeals D3 P2,,REP,C. Olson Bourland,123,68,3,194
+Lee,201,Justice Court of Appeals D3 P2,,DEM,Edward Smith,6,2,0,8
+Lee,201,Justice Court of Appeals D3 P3,,REP,Scott Field,125,67,3,195
+Lee,201,Justice Court of Appeals D3 P3,,DEM,Chari Kelly,6,2,0,8
+Lee,201,Justice Court of Appeals D3 P5,,REP,David Puryear,126,68,3,197
+Lee,201,Justice Court of Appeals D3 P5,,DEM,Thomas J. Baker,6,2,0,8
+Lee,201,Justice Court of Appeals D3 P6,,REP,Kristofer Monson,24,8,0,32
+Lee,201,Justice Court of Appeals D3 P6,,REP,Donna Davidson,34,28,0,62
+Lee,201,Justice Court of Appeals D3 P6,,REP,Jennifer S. Freel,16,11,0,27
+Lee,201,Justice Court of Appeals D3 P6,,REP,"Michael ""Mike"" Toth",47,22,3,72
+Lee,201,Justice Court of Appeals D3 P6,,DEM,Gisela D. Triana,6,2,0,8
+Lee,201,County Judge,,REP,Paul E Fischer,105,49,3,157
+Lee,201,County Judge,,REP,Michael R Morgan,56,36,0,92
+Lee,201,District Clerk,,REP,Lisa Teinert,150,81,3,234
+Lee,201,County Clerk,,REP,Sharon Blasig,147,77,3,227
+Lee,201,County Treasurer,,REP,S. Blasig Kessler,61,31,0,92
+Lee,201,County Treasurer,,REP,Melinda Krause,97,54,3,154
+Lee,201,County Commissioner Pct 2,,REP,JW Riza,24,8,0,32
+Lee,201,County Commissioner Pct 2,,REP,Charles Murray,12,6,1,19
+Lee,201,County Commissioner Pct 2,,REP,Richard Wagner,122,72,2,196
+Lee,201,Justice Peace P2,,REP,Michael York,139,76,3,218
+Lee,201,County Chairman,,REP,David Porter,131,70,3,204
+Lee,201,Proposition 1,,REP,YES,113,59,2,174
+Lee,201,Proposition 1,,REP,NO,35,19,1,55
+Lee,201,Proposition 2,,REP,YES,146,77,2,225
+Lee,201,Proposition 2,,REP,NO,7,5,0,12
+Lee,201,Proposition 3,,REP,YES,134,75,3,212
+Lee,201,Proposition 3,,REP,NO,18,7,0,25
+Lee,201,Proposition 4,,REP,YES,137,78,3,218
+Lee,201,Proposition 4,,REP,NO,15,4,0,19
+Lee,201,Proposition 5,,REP,YES,136,64,3,203
+Lee,201,Proposition 5,,REP,NO,16,16,0,32
+Lee,201,Proposition 6,,REP,YES,149,81,3,233
+Lee,201,Proposition 6,,REP,NO,4,1,0,5
+Lee,201,Proposition 7,,REP,YES,109,69,3,181
+Lee,201,Proposition 7,,REP,NO,47,14,0,61
+Lee,201,Proposition 8,,REP,YES,152,81,3,236
+Lee,201,Proposition 8,,REP,NO,4,1,0,5
+Lee,201,Proposition 9,,REP,YES,141,78,3,222
+Lee,201,Proposition 9,,REP,NO,15,3,0,18
+Lee,201,Proposition 10,,REP,YES,147,80,3,230
+Lee,201,Proposition 10,,REP,NO,3,2,0,5
+Lee,201,Proposition 11,,REP,YES,141,79,3,223
+Lee,201,Proposition 11,,REP,NO,13,4,0,17
+Lee,201,Proposition 1,,DEM,FOR,6,2,0,8
+Lee,201,Proposition 1,,DEM,AGAINST,1,0,0,1
+Lee,201,Proposition 2,,DEM,FOR,5,1,0,6
+Lee,201,Proposition 2,,DEM,AGAINST,2,1,0,3
+Lee,201,Proposition 3,,DEM,FOR,6,1,0,7
+Lee,201,Proposition 3,,DEM,AGAINST,1,1,0,2
+Lee,201,Proposition 4,,DEM,FOR,6,1,0,7
+Lee,201,Proposition 4,,DEM,AGAINST,1,1,0,2
+Lee,201,Proposition 5,,DEM,FOR,4,2,0,6
+Lee,201,Proposition 5,,DEM,AGAINST,2,0,0,2
+Lee,201,Proposition 6,,DEM,FOR,6,2,0,8
+Lee,201,Proposition 6,,DEM,AGAINST,0,0,0,0
+Lee,201,Proposition 7,,DEM,FOR,6,2,0,8
+Lee,201,Proposition 7,,DEM,AGAINST,0,0,0,0
+Lee,201,Proposition 8,,DEM,FOR,6,1,0,7
+Lee,201,Proposition 8,,DEM,AGAINST,0,1,0,1
+Lee,201,Proposition 9,,DEM,FOR,6,2,0,8
+Lee,201,Proposition 9,,DEM,AGAINST,0,0,0,0
+Lee,201,Proposition 10,,DEM,FOR,6,2,0,8
+Lee,201,Proposition 10,,DEM,AGAINST,0,0,0,0
+Lee,201,Proposition 11,,DEM,FOR,6,2,0,8
+Lee,201,Proposition 11,,DEM,AGAINST,0,0,0,0
+Lee,201,Proposition 12,,DEM,FOR,6,2,0,8
+Lee,201,Proposition 12,,DEM,AGAINST,0,0,0,0
+Lee,202,US Senator,,REP,Mary Miller,14,22,2,38
+Lee,202,US Senator,,REP,"Bruce Jacobson, Jr.",12,17,3,32
+Lee,202,US Senator,,REP,Ted Cruz,204,227,16,447
+Lee,202,US Senator,,REP,Stefano de Stefano,4,4,1,9
+Lee,202,US Senator,,REP,Geraldine Sam,3,4,0,7
+Lee,202,US Senator,,DEM,Edward Kimbrough,6,4,1,11
+Lee,202,US Senator,,DEM,Beto O'Rourke,12,10,0,22
+Lee,202,US Senator,,DEM,Sema Hernandez,1,3,0,4
+Lee,202,US Representative,10,REP,Michael T. McCaul,196,236,19,451
+Lee,202,US Representative,10,REP,John W. Cook,36,38,2,76
+Lee,202,US Representative,10,DEM,Matt Harris,1,1,0,2
+Lee,202,US Representative,10,DEM,Mike Siegel,9,4,0,13
+Lee,202,US Representative,10,DEM,Kevin Nelson,1,3,0,4
+Lee,202,US Representative,10,DEM,Richie DeGrow,0,0,0,0
+Lee,202,US Representative,10,DEM,Tawana WalteCadien,4,3,0,7
+Lee,202,US Representative,10,DEM,Madeline K. Eden,1,1,0,2
+Lee,202,US Representative,10,DEM,Tami Walker,3,3,0,6
+Lee,202,Governor,,REP,Greg Abbott,225,253,21,499
+Lee,202,Governor,,REP,Barbara Krueger,17,35,1,53
+Lee,202,Governor,,REP,SECEDE Kilgore,3,0,0,3
+Lee,202,Governor,,DEM,Jeffrey Payne,5,2,0,7
+Lee,202,Governor,,DEM,Joe Mumbach,0,0,0,0
+Lee,202,Governor,,DEM,Adrian Ocegueda,0,0,0,0
+Lee,202,Governor,,DEM,"Cedric Davis, Sr.",3,0,0,3
+Lee,202,Governor,,DEM,Andrew White,4,4,0,8
+Lee,202,Governor,,DEM,Tom Wakely,1,0,0,1
+Lee,202,Governor,,DEM,James Jolly Clark,0,1,0,1
+Lee,202,Governor,,DEM,Lupe Valdez,6,5,0,11
+Lee,202,Governor,,DEM,Grady Yarbrough,0,3,0,3
+Lee,202,Lt. Governor,,REP,Scott Milder,65,99,4,168
+Lee,202,Lt. Governor,,REP,Dan Patrick,169,184,17,370
+Lee,202,Lt. Governor,,DEM,Mike Collier,14,8,1,23
+Lee,202,Lt. Governor,,DEM,Michael Cooper,3,7,0,10
+Lee,202,Attorney General,,REP,Ken Paxton,205,238,20,463
+Lee,202,Attorney General,,DEM,Justin Nelson,17,16,0,33
+Lee,202,Comptroller Public Accts,,REP,Glenn Hegar,194,232,20,446
+Lee,202,Comptroller Public Accts,,DEM,Tim Mahoney,11,12,0,23
+Lee,202,Comptroller Public Accts,,DEM,Joi Chevalier,6,3,0,9
+Lee,202,Commissioner Gen Land Office,,REP,Davey Edwards,15,16,4,35
+Lee,202,Commissioner Gen Land Office,,REP,Rick Range,14,15,0,29
+Lee,202,Commissioner Gen Land Office,,REP,George P. Bush,138,167,10,315
+Lee,202,Commissioner Gen Land Office,,REP,Jerry Patterson,56,63,7,126
+Lee,202,Commissioner Gen Land Office,,DEM,Tex Morgan,7,7,1,15
+Lee,202,Commissioner Gen Land Office,,DEM,Miguel Suazo,10,8,0,18
+Lee,202,Commissioner of Agriculture,,REP,Trey Blocker,47,65,7,119
+Lee,202,Commissioner of Agriculture,,REP,Jim Hogan,52,53,2,107
+Lee,202,Commissioner of Agriculture,,REP,Sid Miller,111,129,12,252
+Lee,202,Commissioner of Agriculture,,DEM,Kim Olson,18,16,2,36
+Lee,202,Railroad Commissioner,,REP,Weston Martinez,70,57,5,132
+Lee,202,Railroad Commissioner,,REP,Christi Craddick,131,169,16,316
+Lee,202,Railroad Commissioner,,DEM,Chris Spellmon,7,6,0,13
+Lee,202,Railroad Commissioner,,DEM,Roman McAllen,10,9,0,19
+Lee,202,"Justice, Supreme Court P2",,REP,Jimmy Blacklock,180,203,19,402
+Lee,202,"Justice, Supreme Court P2",,DEM,Steven Kirkland,17,16,1,34
+Lee,202,"Justice, Supreme Court P4",,REP,John Devine,178,203,19,400
+Lee,202,"Justice, Supreme Court P4",,DEM,R.K. Sandill,17,16,1,34
+Lee,202,"Justice, Supreme Court P6",,REP,Jeff Brown,175,200,19,394
+Lee,202,"Justice, Supreme Court P6",,DEM,Kathy Cheng,17,16,1,34
+Lee,202,Presiding Criminal Appeals,,REP,David Bridges,104,117,8,229
+Lee,202,Presiding Criminal Appeals,,REP,Sharon Keller,87,98,12,197
+Lee,202,Presiding Criminal Appeals,,DEM,Maria T. Jackson,18,16,1,35
+Lee,202,"Judge, Court of Criminal Appeals P7",,REP,B. Parker Hervey,173,192,19,384
+Lee,202,"Judge, Court of Criminal Appeals P7",,DEM,Ramona Franklin,18,16,1,35
+Lee,202,"Judge, Court of Criminal Appeals P8",,REP,Jay Brandon,73,91,8,172
+Lee,202,"Judge, Court of Criminal Appeals P8",,REP,Dib Waldrip,24,28,1,53
+Lee,202,"Judge, Court of Criminal Appeals P8",,REP,Michelle Slaughter,84,79,11,174
+Lee,202,State Representative,17,REP,John P. Cyrier,189,225,21,435
+Lee,202,State Representative,17,DEM,Michelle Ryan,19,15,1,35
+Lee,202,Justice Court of Appeals D3 P2,,REP,C. Olson Bourland,174,199,19,392
+Lee,202,Justice Court of Appeals D3 P2,,DEM,Edward Smith,18,15,1,34
+Lee,202,Justice Court of Appeals D3 P3,,REP,Scott Field,175,200,19,394
+Lee,202,Justice Court of Appeals D3 P3,,DEM,Chari Kelly,19,16,1,36
+Lee,202,Justice Court of Appeals D3 P5,,REP,David Puryear,173,196,19,388
+Lee,202,Justice Court of Appeals D3 P5,,DEM,Thomas J. Baker,19,15,1,35
+Lee,202,Justice Court of Appeals D3 P6,,REP,Kristofer Monson,32,33,1,66
+Lee,202,Justice Court of Appeals D3 P6,,REP,Donna Davidson,59,58,5,122
+Lee,202,Justice Court of Appeals D3 P6,,REP,Jennifer S. Freel,31,30,2,63
+Lee,202,Justice Court of Appeals D3 P6,,REP,"Michael ""Mike"" Toth",54,79,11,144
+Lee,202,Justice Court of Appeals D3 P6,,DEM,Gisela D. Triana,18,15,1,34
+Lee,202,County Judge,,REP,Paul E Fischer,153,211,19,383
+Lee,202,County Judge,,REP,Michael R Morgan,98,87,2,187
+Lee,202,District Clerk,,REP,Lisa Teinert,211,251,21,483
+Lee,202,County Clerk,,REP,Sharon Blasig,209,248,21,478
+Lee,202,County Treasurer,,REP,S. Blasig Kessler,103,146,13,262
+Lee,202,County Treasurer,,REP,Melinda Krause,139,140,6,285
+Lee,202,County Commissioner Pct 2,,REP,JW Riza,73,92,3,168
+Lee,202,County Commissioner Pct 2,,REP,Charles Murray,47,81,10,138
+Lee,202,County Commissioner Pct 2,,REP,Richard Wagner,126,115,7,248
+Lee,202,Justice Peace P2,,REP,Michael York,210,232,21,463
+Lee,202,County Chairman,,REP,David Porter,186,209,20,415
+Lee,202,Proposition 1,,REP,YES,152,191,11,354
+Lee,202,Proposition 1,,REP,NO,77,75,10,162
+Lee,202,Proposition 2,,REP,YES,217,247,20,484
+Lee,202,Proposition 2,,REP,NO,18,29,1,48
+Lee,202,Proposition 3,,REP,YES,192,244,19,455
+Lee,202,Proposition 3,,REP,NO,30,33,3,66
+Lee,202,Proposition 4,,REP,YES,210,253,17,480
+Lee,202,Proposition 4,,REP,NO,17,23,4,44
+Lee,202,Proposition 5,,REP,YES,185,203,18,406
+Lee,202,Proposition 5,,REP,NO,47,78,4,129
+Lee,202,Proposition 6,,REP,YES,219,267,19,505
+Lee,202,Proposition 6,,REP,NO,16,16,3,35
+Lee,202,Proposition 7,,REP,YES,152,176,18,346
+Lee,202,Proposition 7,,REP,NO,76,98,3,177
+Lee,202,Proposition 8,,REP,YES,220,274,21,515
+Lee,202,Proposition 8,,REP,NO,10,11,1,22
+Lee,202,Proposition 9,,REP,YES,208,257,20,485
+Lee,202,Proposition 9,,REP,NO,25,27,2,54
+Lee,202,Proposition 10,,REP,YES,214,254,21,489
+Lee,202,Proposition 10,,REP,NO,13,18,1,32
+Lee,202,Proposition 11,,REP,YES,206,250,22,478
+Lee,202,Proposition 11,,REP,NO,28,33,0,61
+Lee,202,Proposition 1,,DEM,FOR,20,16,4,40
+Lee,202,Proposition 1,,DEM,AGAINST,2,1,0,3
+Lee,202,Proposition 2,,DEM,FOR,17,16,0,33
+Lee,202,Proposition 2,,DEM,AGAINST,4,1,4,9
+Lee,202,Proposition 3,,DEM,FOR,18,15,1,34
+Lee,202,Proposition 3,,DEM,AGAINST,4,2,1,7
+Lee,202,Proposition 4,,DEM,FOR,20,16,1,37
+Lee,202,Proposition 4,,DEM,AGAINST,2,1,2,5
+Lee,202,Proposition 5,,DEM,FOR,18,15,3,36
+Lee,202,Proposition 5,,DEM,AGAINST,3,2,0,5
+Lee,202,Proposition 6,,DEM,FOR,22,16,4,42
+Lee,202,Proposition 6,,DEM,AGAINST,0,1,0,1
+Lee,202,Proposition 7,,DEM,FOR,20,16,1,37
+Lee,202,Proposition 7,,DEM,AGAINST,2,1,2,5
+Lee,202,Proposition 8,,DEM,FOR,15,16,1,32
+Lee,202,Proposition 8,,DEM,AGAINST,6,1,2,9
+Lee,202,Proposition 9,,DEM,FOR,18,16,2,36
+Lee,202,Proposition 9,,DEM,AGAINST,3,1,1,5
+Lee,202,Proposition 10,,DEM,FOR,19,16,2,37
+Lee,202,Proposition 10,,DEM,AGAINST,2,1,1,4
+Lee,202,Proposition 11,,DEM,FOR,20,15,1,36
+Lee,202,Proposition 11,,DEM,AGAINST,1,2,2,5
+Lee,202,Proposition 12,,DEM,FOR,18,16,1,35
+Lee,202,Proposition 12,,DEM,AGAINST,3,1,2,6
+Lee,203,US Senator,,REP,Mary Miller,3,2,0,5
+Lee,203,US Senator,,REP,"Bruce Jacobson, Jr.",2,2,0,4
+Lee,203,US Senator,,REP,Ted Cruz,44,47,2,93
+Lee,203,US Senator,,REP,Stefano de Stefano,1,0,0,1
+Lee,203,US Senator,,REP,Geraldine Sam,1,0,0,1
+Lee,203,US Senator,,DEM,Edward Kimbrough,2,0,0,2
+Lee,203,US Senator,,DEM,Beto O'Rourke,2,1,2,5
+Lee,203,US Senator,,DEM,Sema Hernandez,0,0,0,0
+Lee,203,US Representative,10,REP,Michael T. McCaul,42,49,1,92
+Lee,203,US Representative,10,REP,John W. Cook,10,2,0,12
+Lee,203,US Representative,10,DEM,Matt Harris,2,0,0,2
+Lee,203,US Representative,10,DEM,Mike Siegel,1,0,2,3
+Lee,203,US Representative,10,DEM,Kevin Nelson,0,0,0,0
+Lee,203,US Representative,10,DEM,Richie DeGrow,0,0,0,0
+Lee,203,US Representative,10,DEM,Tawana WalteCadien,0,0,0,0
+Lee,203,US Representative,10,DEM,Madeline K. Eden,1,0,0,1
+Lee,203,US Representative,10,DEM,Tami Walker,0,0,0,0
+Lee,203,Governor,,REP,Greg Abbott,49,47,2,98
+Lee,203,Governor,,REP,Barbara Krueger,2,4,0,6
+Lee,203,Governor,,REP,SECEDE Kilgore,0,0,0,0
+Lee,203,Governor,,DEM,Jeffrey Payne,2,0,0,2
+Lee,203,Governor,,DEM,Joe Mumbach,0,0,0,0
+Lee,203,Governor,,DEM,Adrian Ocegueda,0,0,0,0
+Lee,203,Governor,,DEM,"Cedric Davis, Sr.",0,0,0,0
+Lee,203,Governor,,DEM,Andrew White,1,0,0,1
+Lee,203,Governor,,DEM,Tom Wakely,0,0,0,0
+Lee,203,Governor,,DEM,James Jolly Clark,0,0,0,0
+Lee,203,Governor,,DEM,Lupe Valdez,1,1,2,4
+Lee,203,Governor,,DEM,Grady Yarbrough,0,0,0,0
+Lee,203,Lt. Governor,,REP,Scott Milder,15,14,0,29
+Lee,203,Lt. Governor,,REP,Dan Patrick,37,38,1,76
+Lee,203,Lt. Governor,,DEM,Mike Collier,2,0,0,2
+Lee,203,Lt. Governor,,DEM,Michael Cooper,2,1,0,3
+Lee,203,Attorney General,,REP,Ken Paxton,41,43,2,86
+Lee,203,Attorney General,,DEM,Justin Nelson,4,1,2,7
+Lee,203,Comptroller Public Accts,,REP,Glenn Hegar,41,43,2,86
+Lee,203,Comptroller Public Accts,,DEM,Tim Mahoney,4,0,2,6
+Lee,203,Comptroller Public Accts,,DEM,Joi Chevalier,0,1,0,1
+Lee,203,Commissioner Gen Land Office,,REP,Davey Edwards,9,3,0,12
+Lee,203,Commissioner Gen Land Office,,REP,Rick Range,1,3,0,4
+Lee,203,Commissioner Gen Land Office,,REP,George P. Bush,19,25,0,44
+Lee,203,Commissioner Gen Land Office,,REP,Jerry Patterson,18,19,1,38
+Lee,203,Commissioner Gen Land Office,,DEM,Tex Morgan,2,0,0,2
+Lee,203,Commissioner Gen Land Office,,DEM,Miguel Suazo,2,1,2,5
+Lee,203,Commissioner of Agriculture,,REP,Trey Blocker,6,8,1,15
+Lee,203,Commissioner of Agriculture,,REP,Jim Hogan,12,10,0,22
+Lee,203,Commissioner of Agriculture,,REP,Sid Miller,26,28,0,54
+Lee,203,Commissioner of Agriculture,,DEM,Kim Olson,4,1,2,7
+Lee,203,Railroad Commissioner,,REP,Weston Martinez,15,8,1,24
+Lee,203,Railroad Commissioner,,REP,Christi Craddick,26,35,0,61
+Lee,203,Railroad Commissioner,,DEM,Chris Spellmon,3,0,0,3
+Lee,203,Railroad Commissioner,,DEM,Roman McAllen,1,1,2,4
+Lee,203,"Justice, Supreme Court P2",,REP,Jimmy Blacklock,39,37,1,77
+Lee,203,"Justice, Supreme Court P2",,DEM,Steven Kirkland,4,1,2,7
+Lee,203,"Justice, Supreme Court P4",,REP,John Devine,40,38,1,79
+Lee,203,"Justice, Supreme Court P4",,DEM,R.K. Sandill,4,1,2,7
+Lee,203,"Justice, Supreme Court P6",,REP,Jeff Brown,40,39,1,80
+Lee,203,"Justice, Supreme Court P6",,DEM,Kathy Cheng,4,1,2,7
+Lee,203,Presiding Criminal Appeals,,REP,David Bridges,25,23,0,48
+Lee,203,Presiding Criminal Appeals,,REP,Sharon Keller,15,20,1,36
+Lee,203,Presiding Criminal Appeals,,DEM,Maria T. Jackson,4,1,2,7
+Lee,203,"Judge, Court of Criminal Appeals P7",,REP,B. Parker Hervey,37,38,1,76
+Lee,203,"Judge, Court of Criminal Appeals P7",,DEM,Ramona Franklin,4,1,2,7
+Lee,203,"Judge, Court of Criminal Appeals P8",,REP,Jay Brandon,21,25,0,46
+Lee,203,"Judge, Court of Criminal Appeals P8",,REP,Dib Waldrip,6,1,0,7
+Lee,203,"Judge, Court of Criminal Appeals P8",,REP,Michelle Slaughter,12,16,1,29
+Lee,203,State Representative,17,REP,John P. Cyrier,39,46,2,87
+Lee,203,State Representative,17,DEM,Michelle Ryan,4,1,2,7
+Lee,203,Justice Court of Appeals D3 P2,,REP,C. Olson Bourland,37,39,1,77
+Lee,203,Justice Court of Appeals D3 P2,,DEM,Edward Smith,4,1,2,7
+Lee,203,Justice Court of Appeals D3 P3,,REP,Scott Field,37,38,1,76
+Lee,203,Justice Court of Appeals D3 P3,,DEM,Chari Kelly,4,1,2,7
+Lee,203,Justice Court of Appeals D3 P5,,REP,David Puryear,37,39,1,77
+Lee,203,Justice Court of Appeals D3 P5,,DEM,Thomas J. Baker,4,1,2,7
+Lee,203,Justice Court of Appeals D3 P6,,REP,Kristofer Monson,11,6,0,17
+Lee,203,Justice Court of Appeals D3 P6,,REP,Donna Davidson,9,15,1,25
+Lee,203,Justice Court of Appeals D3 P6,,REP,Jennifer S. Freel,4,4,0,8
+Lee,203,Justice Court of Appeals D3 P6,,REP,"Michael ""Mike"" Toth",15,17,0,32
+Lee,203,Justice Court of Appeals D3 P6,,DEM,Gisela D. Triana,4,1,2,7
+Lee,203,County Judge,,REP,Paul E Fischer,32,30,2,64
+Lee,203,County Judge,,REP,Michael R Morgan,23,22,0,45
+Lee,203,District Clerk,,REP,Lisa Teinert,43,45,2,90
+Lee,203,County Clerk,,REP,Sharon Blasig,41,45,2,88
+Lee,203,County Treasurer,,REP,S. Blasig Kessler,28,23,2,53
+Lee,203,County Treasurer,,REP,Melinda Krause,24,26,0,50
+Lee,203,County Commissioner Pct 2,,REP,JW Riza,5,13,0,18
+Lee,203,County Commissioner Pct 2,,REP,Charles Murray,8,10,0,18
+Lee,203,County Commissioner Pct 2,,REP,Richard Wagner,44,29,1,74
+Lee,203,Justice Peace P2,,REP,Michael York,46,49,1,96
+Lee,203,County Chairman,,REP,David Porter,39,40,1,80
+Lee,203,Proposition 1,,REP,YES,37,39,0,76
+Lee,203,Proposition 1,,REP,NO,11,11,2,24
+Lee,203,Proposition 2,,REP,YES,52,47,2,101
+Lee,203,Proposition 2,,REP,NO,1,4,0,5
+Lee,203,Proposition 3,,REP,YES,38,43,2,83
+Lee,203,Proposition 3,,REP,NO,9,5,0,14
+Lee,203,Proposition 4,,REP,YES,47,45,2,94
+Lee,203,Proposition 4,,REP,NO,6,3,0,9
+Lee,203,Proposition 5,,REP,YES,42,43,2,87
+Lee,203,Proposition 5,,REP,NO,10,8,0,18
+Lee,203,Proposition 6,,REP,YES,48,47,2,97
+Lee,203,Proposition 6,,REP,NO,5,3,0,8
+Lee,203,Proposition 7,,REP,YES,36,40,2,78
+Lee,203,Proposition 7,,REP,NO,17,10,0,27
+Lee,203,Proposition 8,,REP,YES,49,48,2,99
+Lee,203,Proposition 8,,REP,NO,2,1,0,3
+Lee,203,Proposition 9,,REP,YES,48,44,2,94
+Lee,203,Proposition 9,,REP,NO,5,4,0,9
+Lee,203,Proposition 10,,REP,YES,51,47,2,100
+Lee,203,Proposition 10,,REP,NO,2,1,0,3
+Lee,203,Proposition 11,,REP,YES,47,47,2,96
+Lee,203,Proposition 11,,REP,NO,7,2,0,9
+Lee,203,Proposition 1,,DEM,FOR,3,0,2,5
+Lee,203,Proposition 1,,DEM,AGAINST,1,2,0,3
+Lee,203,Proposition 2,,DEM,FOR,3,0,2,5
+Lee,203,Proposition 2,,DEM,AGAINST,1,2,0,3
+Lee,203,Proposition 3,,DEM,FOR,3,0,2,5
+Lee,203,Proposition 3,,DEM,AGAINST,1,2,0,3
+Lee,203,Proposition 4,,DEM,FOR,3,0,2,5
+Lee,203,Proposition 4,,DEM,AGAINST,1,2,0,3
+Lee,203,Proposition 5,,DEM,FOR,3,0,2,5
+Lee,203,Proposition 5,,DEM,AGAINST,1,2,0,3
+Lee,203,Proposition 6,,DEM,FOR,4,0,2,6
+Lee,203,Proposition 6,,DEM,AGAINST,0,2,0,2
+Lee,203,Proposition 7,,DEM,FOR,2,0,2,4
+Lee,203,Proposition 7,,DEM,AGAINST,2,2,0,4
+Lee,203,Proposition 8,,DEM,FOR,2,0,1,3
+Lee,203,Proposition 8,,DEM,AGAINST,2,2,0,4
+Lee,203,Proposition 9,,DEM,FOR,3,0,2,5
+Lee,203,Proposition 9,,DEM,AGAINST,1,2,0,3
+Lee,203,Proposition 10,,DEM,FOR,3,0,2,5
+Lee,203,Proposition 10,,DEM,AGAINST,1,2,0,3
+Lee,203,Proposition 11,,DEM,FOR,3,0,2,5
+Lee,203,Proposition 11,,DEM,AGAINST,1,2,0,3
+Lee,203,Proposition 12,,DEM,FOR,4,0,2,6
+Lee,203,Proposition 12,,DEM,AGAINST,0,2,0,2
+Lee,301,US Senator,,REP,Mary Miller,2,1,1,4
+Lee,301,US Senator,,REP,"Bruce Jacobson, Jr.",2,1,0,3
+Lee,301,US Senator,,REP,Ted Cruz,24,5,0,29
+Lee,301,US Senator,,REP,Stefano de Stefano,0,0,0,0
+Lee,301,US Senator,,REP,Geraldine Sam,0,1,0,1
+Lee,301,US Senator,,DEM,Edward Kimbrough,1,0,0,1
+Lee,301,US Senator,,DEM,Beto O'Rourke,2,0,0,2
+Lee,301,US Senator,,DEM,Sema Hernandez,1,0,0,1
+Lee,301,US Representative,17,REP,Bill Flores,24,6,1,31
+Lee,301,US Representative,17,DEM,Rick Kennedy,3,0,0,3
+Lee,301,US Representative,17,DEM,Dale Mantey,1,0,0,1
+Lee,301,Governor,,REP,Greg Abbott,21,7,1,29
+Lee,301,Governor,,REP,Barbara Krueger,5,0,0,5
+Lee,301,Governor,,REP,SECEDE Kilgore,0,1,0,1
+Lee,301,Governor,,DEM,Jeffrey Payne,1,0,0,1
+Lee,301,Governor,,DEM,Joe Mumbach,0,0,0,0
+Lee,301,Governor,,DEM,Adrian Ocegueda,0,0,0,0
+Lee,301,Governor,,DEM,"Cedric Davis, Sr.",0,0,0,0
+Lee,301,Governor,,DEM,Andrew White,2,0,0,2
+Lee,301,Governor,,DEM,Tom Wakely,0,0,0,0
+Lee,301,Governor,,DEM,James Jolly Clark,0,0,0,0
+Lee,301,Governor,,DEM,Lupe Valdez,1,0,0,1
+Lee,301,Governor,,DEM,Grady Yarbrough,0,0,0,0
+Lee,301,Lt. Governor,,REP,Scott Milder,15,3,0,18
+Lee,301,Lt. Governor,,REP,Dan Patrick,16,5,1,22
+Lee,301,Lt. Governor,,DEM,Mike Collier,4,0,0,4
+Lee,301,Lt. Governor,,DEM,Michael Cooper,0,0,0,0
+Lee,301,Attorney General,,REP,Ken Paxton,24,7,1,32
+Lee,301,Attorney General,,DEM,Justin Nelson,3,0,0,3
+Lee,301,Comptroller Public Accts,,REP,Glenn Hegar,23,7,1,31
+Lee,301,Comptroller Public Accts,,DEM,Tim Mahoney,2,0,0,2
+Lee,301,Comptroller Public Accts,,DEM,Joi Chevalier,1,0,0,1
+Lee,301,Commissioner Gen Land Office,,REP,Davey Edwards,3,0,0,3
+Lee,301,Commissioner Gen Land Office,,REP,Rick Range,4,0,0,4
+Lee,301,Commissioner Gen Land Office,,REP,George P. Bush,15,5,1,21
+Lee,301,Commissioner Gen Land Office,,REP,Jerry Patterson,6,2,0,8
+Lee,301,Commissioner Gen Land Office,,DEM,Tex Morgan,1,0,0,1
+Lee,301,Commissioner Gen Land Office,,DEM,Miguel Suazo,2,0,0,2
+Lee,301,Commissioner of Agriculture,,REP,Trey Blocker,6,1,1,8
+Lee,301,Commissioner of Agriculture,,REP,Jim Hogan,11,4,0,15
+Lee,301,Commissioner of Agriculture,,REP,Sid Miller,13,3,0,16
+Lee,301,Commissioner of Agriculture,,DEM,Kim Olson,4,0,0,4
+Lee,301,Railroad Commissioner,,REP,Weston Martinez,8,3,0,11
+Lee,301,Railroad Commissioner,,REP,Christi Craddick,19,4,1,24
+Lee,301,Railroad Commissioner,,DEM,Chris Spellmon,3,0,0,3
+Lee,301,Railroad Commissioner,,DEM,Roman McAllen,1,0,0,1
+Lee,301,"Justice, Supreme Court P2",,REP,Jimmy Blacklock,21,7,1,29
+Lee,301,"Justice, Supreme Court P2",,DEM,Steven Kirkland,4,0,0,4
+Lee,301,"Justice, Supreme Court P4",,REP,John Devine,21,7,1,29
+Lee,301,"Justice, Supreme Court P4",,DEM,R.K. Sandill,4,0,0,4
+Lee,301,"Justice, Supreme Court P6",,REP,Jeff Brown,22,7,1,30
+Lee,301,"Justice, Supreme Court P6",,DEM,Kathy Cheng,4,0,0,4
+Lee,301,Presiding Criminal Appeals,,REP,David Bridges,17,5,1,23
+Lee,301,Presiding Criminal Appeals,,REP,Sharon Keller,9,3,0,12
+Lee,301,Presiding Criminal Appeals,,DEM,Maria T. Jackson,4,0,0,4
+Lee,301,"Judge, Court of Criminal Appeals P7",,REP,B. Parker Hervey,21,7,1,29
+Lee,301,"Judge, Court of Criminal Appeals P7",,DEM,Ramona Franklin,4,0,0,4
+Lee,301,"Judge, Court of Criminal Appeals P8",,REP,Jay Brandon,11,4,1,16
+Lee,301,"Judge, Court of Criminal Appeals P8",,REP,Dib Waldrip,6,1,0,7
+Lee,301,"Judge, Court of Criminal Appeals P8",,REP,Michelle Slaughter,9,3,0,12
+Lee,301,State Representative,17,REP,John P. Cyrier,22,7,1,30
+Lee,301,State Representative,17,DEM,Michelle Ryan,4,0,0,4
+Lee,301,Justice Court of Appeals D3 P2,,REP,C. Olson Bourland,21,7,1,29
+Lee,301,Justice Court of Appeals D3 P2,,DEM,Edward Smith,4,0,0,4
+Lee,301,Justice Court of Appeals D3 P3,,REP,Scott Field,21,7,1,29
+Lee,301,Justice Court of Appeals D3 P3,,DEM,Chari Kelly,4,0,0,4
+Lee,301,Justice Court of Appeals D3 P5,,REP,David Puryear,21,7,1,29
+Lee,301,Justice Court of Appeals D3 P5,,DEM,Thomas J. Baker,4,0,0,4
+Lee,301,Justice Court of Appeals D3 P6,,REP,Kristofer Monson,6,2,1,9
+Lee,301,Justice Court of Appeals D3 P6,,REP,Donna Davidson,8,2,0,10
+Lee,301,Justice Court of Appeals D3 P6,,REP,Jennifer S. Freel,3,1,0,4
+Lee,301,Justice Court of Appeals D3 P6,,REP,"Michael ""Mike"" Toth",7,2,0,9
+Lee,301,Justice Court of Appeals D3 P6,,DEM,Gisela D. Triana,4,0,0,4
+Lee,301,County Judge,,REP,Paul E Fischer,20,7,1,28
+Lee,301,County Judge,,REP,Michael R Morgan,9,1,0,10
+Lee,301,District Clerk,,REP,Lisa Teinert,24,8,1,33
+Lee,301,County Clerk,,REP,Sharon Blasig,24,8,1,33
+Lee,301,County Treasurer,,REP,S. Blasig Kessler,16,6,1,23
+Lee,301,County Treasurer,,REP,Melinda Krause,13,2,0,15
+Lee,301,Justice Peace P3,,REP,Don Milburn,23,7,1,31
+Lee,301,Constable P3 Unexp,,REP,Farah Ramsey,25,6,1,32
+Lee,301,County Chairman,,REP,David Porter,24,6,1,31
+Lee,301,Proposition 1,,REP,YES,19,5,1,25
+Lee,301,Proposition 1,,REP,NO,12,3,0,15
+Lee,301,Proposition 2,,REP,YES,29,8,1,38
+Lee,301,Proposition 2,,REP,NO,2,0,0,2
+Lee,301,Proposition 3,,REP,YES,25,8,1,34
+Lee,301,Proposition 3,,REP,NO,6,0,0,6
+Lee,301,Proposition 4,,REP,YES,28,8,1,37
+Lee,301,Proposition 4,,REP,NO,3,0,0,3
+Lee,301,Proposition 5,,REP,YES,17,6,1,24
+Lee,301,Proposition 5,,REP,NO,14,2,0,16
+Lee,301,Proposition 6,,REP,YES,29,8,1,38
+Lee,301,Proposition 6,,REP,NO,2,0,0,2
+Lee,301,Proposition 7,,REP,YES,18,4,0,22
+Lee,301,Proposition 7,,REP,NO,13,4,1,18
+Lee,301,Proposition 8,,REP,YES,29,8,1,38
+Lee,301,Proposition 8,,REP,NO,2,0,0,2
+Lee,301,Proposition 9,,REP,YES,30,6,1,37
+Lee,301,Proposition 9,,REP,NO,0,2,0,2
+Lee,301,Proposition 10,,REP,YES,28,7,1,36
+Lee,301,Proposition 10,,REP,NO,2,1,0,3
+Lee,301,Proposition 11,,REP,YES,26,6,1,33
+Lee,301,Proposition 11,,REP,NO,4,2,0,6
+Lee,301,Proposition 1,,DEM,FOR,4,0,0,4
+Lee,301,Proposition 1,,DEM,AGAINST,0,0,0,0
+Lee,301,Proposition 2,,DEM,FOR,4,0,0,4
+Lee,301,Proposition 2,,DEM,AGAINST,0,0,0,0
+Lee,301,Proposition 3,,DEM,FOR,4,0,0,4
+Lee,301,Proposition 3,,DEM,AGAINST,0,0,0,0
+Lee,301,Proposition 4,,DEM,FOR,4,0,0,4
+Lee,301,Proposition 4,,DEM,AGAINST,0,0,0,0
+Lee,301,Proposition 5,,DEM,FOR,4,0,0,4
+Lee,301,Proposition 5,,DEM,AGAINST,0,0,0,0
+Lee,301,Proposition 6,,DEM,FOR,4,0,0,4
+Lee,301,Proposition 6,,DEM,AGAINST,0,0,0,0
+Lee,301,Proposition 7,,DEM,FOR,4,0,0,4
+Lee,301,Proposition 7,,DEM,AGAINST,0,0,0,0
+Lee,301,Proposition 8,,DEM,FOR,3,0,0,3
+Lee,301,Proposition 8,,DEM,AGAINST,1,0,0,1
+Lee,301,Proposition 9,,DEM,FOR,3,0,0,3
+Lee,301,Proposition 9,,DEM,AGAINST,1,0,0,1
+Lee,301,Proposition 10,,DEM,FOR,4,0,0,4
+Lee,301,Proposition 10,,DEM,AGAINST,0,0,0,0
+Lee,301,Proposition 11,,DEM,FOR,4,0,0,4
+Lee,301,Proposition 11,,DEM,AGAINST,0,0,0,0
+Lee,301,Proposition 12,,DEM,FOR,4,0,0,4
+Lee,301,Proposition 12,,DEM,AGAINST,0,0,0,0
+Lee,302,US Senator,,REP,Mary Miller,7,8,0,15
+Lee,302,US Senator,,REP,"Bruce Jacobson, Jr.",6,3,0,9
+Lee,302,US Senator,,REP,Ted Cruz,148,41,7,196
+Lee,302,US Senator,,REP,Stefano de Stefano,5,0,0,5
+Lee,302,US Senator,,REP,Geraldine Sam,2,0,0,2
+Lee,302,US Senator,,DEM,Edward Kimbrough,10,2,4,16
+Lee,302,US Senator,,DEM,Beto O'Rourke,16,2,3,21
+Lee,302,US Senator,,DEM,Sema Hernandez,4,0,2,6
+Lee,302,US Representative,17,REP,Bill Flores,138,38,7,183
+Lee,302,US Representative,17,DEM,Rick Kennedy,18,2,6,26
+Lee,302,US Representative,17,DEM,Dale Mantey,12,2,3,17
+Lee,302,Governor,,REP,Greg Abbott,154,49,7,210
+Lee,302,Governor,,REP,Barbara Krueger,15,4,0,19
+Lee,302,Governor,,REP,SECEDE Kilgore,2,0,0,2
+Lee,302,Governor,,DEM,Jeffrey Payne,5,0,0,5
+Lee,302,Governor,,DEM,Joe Mumbach,0,0,0,0
+Lee,302,Governor,,DEM,Adrian Ocegueda,1,0,0,1
+Lee,302,Governor,,DEM,"Cedric Davis, Sr.",1,0,1,2
+Lee,302,Governor,,DEM,Andrew White,15,3,5,23
+Lee,302,Governor,,DEM,Tom Wakely,0,0,0,0
+Lee,302,Governor,,DEM,James Jolly Clark,1,0,0,1
+Lee,302,Governor,,DEM,Lupe Valdez,4,1,2,7
+Lee,302,Governor,,DEM,Grady Yarbrough,1,0,1,2
+Lee,302,Lt. Governor,,REP,Scott Milder,49,15,1,65
+Lee,302,Lt. Governor,,REP,Dan Patrick,126,37,6,169
+Lee,302,Lt. Governor,,DEM,Mike Collier,14,1,2,17
+Lee,302,Lt. Governor,,DEM,Michael Cooper,11,2,6,19
+Lee,302,Attorney General,,REP,Ken Paxton,144,40,7,191
+Lee,302,Attorney General,,DEM,Justin Nelson,25,4,7,36
+Lee,302,Comptroller Public Accts,,REP,Glenn Hegar,141,40,7,188
+Lee,302,Comptroller Public Accts,,DEM,Tim Mahoney,15,1,3,19
+Lee,302,Comptroller Public Accts,,DEM,Joi Chevalier,10,3,5,18
+Lee,302,Commissioner Gen Land Office,,REP,Davey Edwards,16,5,3,24
+Lee,302,Commissioner Gen Land Office,,REP,Rick Range,5,0,0,5
+Lee,302,Commissioner Gen Land Office,,REP,George P. Bush,85,28,2,115
+Lee,302,Commissioner Gen Land Office,,REP,Jerry Patterson,56,12,2,70
+Lee,302,Commissioner Gen Land Office,,DEM,Tex Morgan,14,4,5,23
+Lee,302,Commissioner Gen Land Office,,DEM,Miguel Suazo,11,0,4,15
+Lee,302,Commissioner of Agriculture,,REP,Trey Blocker,37,12,0,49
+Lee,302,Commissioner of Agriculture,,REP,Jim Hogan,31,6,2,39
+Lee,302,Commissioner of Agriculture,,REP,Sid Miller,88,30,5,123
+Lee,302,Commissioner of Agriculture,,DEM,Kim Olson,24,4,7,35
+Lee,302,Railroad Commissioner,,REP,Weston Martinez,47,10,0,57
+Lee,302,Railroad Commissioner,,REP,Christi Craddick,99,29,6,134
+Lee,302,Railroad Commissioner,,DEM,Chris Spellmon,15,4,3,22
+Lee,302,Railroad Commissioner,,DEM,Roman McAllen,11,0,5,16
+Lee,302,"Justice, Supreme Court P2",,REP,Jimmy Blacklock,131,37,7,175
+Lee,302,"Justice, Supreme Court P2",,DEM,Steven Kirkland,24,4,7,35
+Lee,302,"Justice, Supreme Court P4",,REP,John Devine,130,35,7,172
+Lee,302,"Justice, Supreme Court P4",,DEM,R.K. Sandill,24,4,7,35
+Lee,302,"Justice, Supreme Court P6",,REP,Jeff Brown,136,35,7,178
+Lee,302,"Justice, Supreme Court P6",,DEM,Kathy Cheng,24,4,8,36
+Lee,302,Presiding Criminal Appeals,,REP,David Bridges,74,17,5,96
+Lee,302,Presiding Criminal Appeals,,REP,Sharon Keller,70,19,1,90
+Lee,302,Presiding Criminal Appeals,,DEM,Maria T. Jackson,24,4,8,36
+Lee,302,"Judge, Court of Criminal Appeals P7",,REP,B. Parker Hervey,130,34,7,171
+Lee,302,"Judge, Court of Criminal Appeals P7",,DEM,Ramona Franklin,23,4,7,34
+Lee,302,"Judge, Court of Criminal Appeals P8",,REP,Jay Brandon,56,14,3,73
+Lee,302,"Judge, Court of Criminal Appeals P8",,REP,Dib Waldrip,17,8,2,27
+Lee,302,"Judge, Court of Criminal Appeals P8",,REP,Michelle Slaughter,59,13,1,73
+Lee,302,State Representative,17,REP,John P. Cyrier,139,44,7,190
+Lee,302,State Representative,17,DEM,Michelle Ryan,25,4,7,36
+Lee,302,Justice Court of Appeals D3 P2,,REP,C. Olson Bourland,128,33,7,168
+Lee,302,Justice Court of Appeals D3 P2,,DEM,Edward Smith,24,4,7,35
+Lee,302,Justice Court of Appeals D3 P3,,REP,Scott Field,129,35,7,171
+Lee,302,Justice Court of Appeals D3 P3,,DEM,Chari Kelly,24,4,8,36
+Lee,302,Justice Court of Appeals D3 P5,,REP,David Puryear,128,34,7,169
+Lee,302,Justice Court of Appeals D3 P5,,DEM,Thomas J. Baker,24,4,7,35
+Lee,302,Justice Court of Appeals D3 P6,,REP,Kristofer Monson,25,7,0,32
+Lee,302,Justice Court of Appeals D3 P6,,REP,Donna Davidson,55,20,1,76
+Lee,302,Justice Court of Appeals D3 P6,,REP,Jennifer S. Freel,27,3,0,30
+Lee,302,Justice Court of Appeals D3 P6,,REP,"Michael ""Mike"" Toth",34,9,5,48
+Lee,302,Justice Court of Appeals D3 P6,,DEM,Gisela D. Triana,24,4,8,36
+Lee,302,County Judge,,REP,Paul E Fischer,119,48,3,170
+Lee,302,County Judge,,REP,Michael R Morgan,51,8,4,63
+Lee,302,District Clerk,,REP,Lisa Teinert,140,45,7,192
+Lee,302,County Clerk,,REP,Sharon Blasig,147,41,7,195
+Lee,302,County Treasurer,,REP,S. Blasig Kessler,67,18,4,89
+Lee,302,County Treasurer,,REP,Melinda Krause,92,36,3,131
+Lee,302,Justice Peace P3,,REP,Don Milburn,150,44,7,201
+Lee,302,Constable P3 Unexp,,REP,Farah Ramsey,137,41,7,185
+Lee,302,County Chairman,,REP,David Porter,130,36,7,173
+Lee,302,Proposition 1,,REP,YES,101,31,4,136
+Lee,302,Proposition 1,,REP,NO,60,18,2,80
+Lee,302,Proposition 2,,REP,YES,155,44,7,206
+Lee,302,Proposition 2,,REP,NO,15,6,0,21
+Lee,302,Proposition 3,,REP,YES,146,45,7,198
+Lee,302,Proposition 3,,REP,NO,22,5,0,27
+Lee,302,Proposition 4,,REP,YES,157,47,7,211
+Lee,302,Proposition 4,,REP,NO,13,5,0,18
+Lee,302,Proposition 5,,REP,YES,130,35,7,172
+Lee,302,Proposition 5,,REP,NO,41,16,0,57
+Lee,302,Proposition 6,,REP,YES,158,47,7,212
+Lee,302,Proposition 6,,REP,NO,18,7,0,25
+Lee,302,Proposition 7,,REP,YES,116,37,5,158
+Lee,302,Proposition 7,,REP,NO,56,17,1,74
+Lee,302,Proposition 8,,REP,YES,164,51,7,222
+Lee,302,Proposition 8,,REP,NO,12,3,0,15
+Lee,302,Proposition 9,,REP,YES,150,51,7,208
+Lee,302,Proposition 9,,REP,NO,19,4,0,23
+Lee,302,Proposition 10,,REP,YES,157,46,6,209
+Lee,302,Proposition 10,,REP,NO,12,3,1,16
+Lee,302,Proposition 11,,REP,YES,151,48,7,206
+Lee,302,Proposition 11,,REP,NO,21,6,0,27
+Lee,302,Proposition 1,,DEM,FOR,28,3,9,40
+Lee,302,Proposition 1,,DEM,AGAINST,5,1,0,6
+Lee,302,Proposition 2,,DEM,FOR,30,4,9,43
+Lee,302,Proposition 2,,DEM,AGAINST,3,0,0,3
+Lee,302,Proposition 3,,DEM,FOR,27,4,7,38
+Lee,302,Proposition 3,,DEM,AGAINST,4,0,2,6
+Lee,302,Proposition 4,,DEM,FOR,26,4,9,39
+Lee,302,Proposition 4,,DEM,AGAINST,5,0,0,5
+Lee,302,Proposition 5,,DEM,FOR,26,4,9,39
+Lee,302,Proposition 5,,DEM,AGAINST,4,0,0,4
+Lee,302,Proposition 6,,DEM,FOR,29,4,9,42
+Lee,302,Proposition 6,,DEM,AGAINST,3,0,0,3
+Lee,302,Proposition 7,,DEM,FOR,27,4,9,40
+Lee,302,Proposition 7,,DEM,AGAINST,5,0,0,5
+Lee,302,Proposition 8,,DEM,FOR,22,4,5,31
+Lee,302,Proposition 8,,DEM,AGAINST,9,0,3,12
+Lee,302,Proposition 9,,DEM,FOR,26,4,9,39
+Lee,302,Proposition 9,,DEM,AGAINST,6,0,0,6
+Lee,302,Proposition 10,,DEM,FOR,27,4,9,40
+Lee,302,Proposition 10,,DEM,AGAINST,5,0,0,5
+Lee,302,Proposition 11,,DEM,FOR,25,2,8,35
+Lee,302,Proposition 11,,DEM,AGAINST,7,2,0,9
+Lee,302,Proposition 12,,DEM,FOR,27,4,7,38
+Lee,302,Proposition 12,,DEM,AGAINST,4,0,1,5
+Lee,303,US Senator,,REP,Mary Miller,11,1,1,13
+Lee,303,US Senator,,REP,"Bruce Jacobson, Jr.",8,0,0,8
+Lee,303,US Senator,,REP,Ted Cruz,112,18,6,136
+Lee,303,US Senator,,REP,Stefano de Stefano,2,0,0,2
+Lee,303,US Senator,,REP,Geraldine Sam,0,0,0,0
+Lee,303,US Senator,,DEM,Edward Kimbrough,8,2,0,10
+Lee,303,US Senator,,DEM,Beto O'Rourke,39,6,4,49
+Lee,303,US Senator,,DEM,Sema Hernandez,2,0,1,3
+Lee,303,US Representative,17,REP,Bill Flores,110,19,6,135
+Lee,303,US Representative,17,DEM,Rick Kennedy,28,3,2,33
+Lee,303,US Representative,17,DEM,Dale Mantey,19,5,3,27
+Lee,303,Governor,,REP,Greg Abbott,122,19,5,146
+Lee,303,Governor,,REP,Barbara Krueger,14,0,2,16
+Lee,303,Governor,,REP,SECEDE Kilgore,2,0,0,2
+Lee,303,Governor,,DEM,Jeffrey Payne,7,0,0,7
+Lee,303,Governor,,DEM,Joe Mumbach,2,0,0,2
+Lee,303,Governor,,DEM,Adrian Ocegueda,3,0,0,3
+Lee,303,Governor,,DEM,"Cedric Davis, Sr.",0,0,0,0
+Lee,303,Governor,,DEM,Andrew White,19,1,1,21
+Lee,303,Governor,,DEM,Tom Wakely,1,0,0,1
+Lee,303,Governor,,DEM,James Jolly Clark,0,0,0,0
+Lee,303,Governor,,DEM,Lupe Valdez,17,6,3,26
+Lee,303,Governor,,DEM,Grady Yarbrough,0,0,1,1
+Lee,303,Lt. Governor,,REP,Scott Milder,38,4,2,44
+Lee,303,Lt. Governor,,REP,Dan Patrick,100,15,3,118
+Lee,303,Lt. Governor,,DEM,Mike Collier,34,7,3,44
+Lee,303,Lt. Governor,,DEM,Michael Cooper,12,1,2,15
+Lee,303,Attorney General,,REP,Ken Paxton,118,19,6,143
+Lee,303,Attorney General,,DEM,Justin Nelson,47,8,4,59
+Lee,303,Comptroller Public Accts,,REP,Glenn Hegar,115,19,6,140
+Lee,303,Comptroller Public Accts,,DEM,Tim Mahoney,23,5,2,30
+Lee,303,Comptroller Public Accts,,DEM,Joi Chevalier,23,3,3,29
+Lee,303,Commissioner Gen Land Office,,REP,Davey Edwards,7,0,0,7
+Lee,303,Commissioner Gen Land Office,,REP,Rick Range,8,0,1,9
+Lee,303,Commissioner Gen Land Office,,REP,George P. Bush,66,10,3,79
+Lee,303,Commissioner Gen Land Office,,REP,Jerry Patterson,49,9,2,60
+Lee,303,Commissioner Gen Land Office,,DEM,Tex Morgan,16,4,0,20
+Lee,303,Commissioner Gen Land Office,,DEM,Miguel Suazo,31,4,5,40
+Lee,303,Commissioner of Agriculture,,REP,Trey Blocker,28,2,1,31
+Lee,303,Commissioner of Agriculture,,REP,Jim Hogan,26,4,2,32
+Lee,303,Commissioner of Agriculture,,REP,Sid Miller,68,13,3,84
+Lee,303,Commissioner of Agriculture,,DEM,Kim Olson,48,8,4,60
+Lee,303,Railroad Commissioner,,REP,Weston Martinez,33,2,3,38
+Lee,303,Railroad Commissioner,,REP,Christi Craddick,87,16,3,106
+Lee,303,Railroad Commissioner,,DEM,Chris Spellmon,20,2,1,23
+Lee,303,Railroad Commissioner,,DEM,Roman McAllen,27,6,4,37
+Lee,303,"Justice, Supreme Court P2",,REP,Jimmy Blacklock,107,18,6,131
+Lee,303,"Justice, Supreme Court P2",,DEM,Steven Kirkland,48,8,4,60
+Lee,303,"Justice, Supreme Court P4",,REP,John Devine,106,18,6,130
+Lee,303,"Justice, Supreme Court P4",,DEM,R.K. Sandill,47,8,4,59
+Lee,303,"Justice, Supreme Court P6",,REP,Jeff Brown,108,18,6,132
+Lee,303,"Justice, Supreme Court P6",,DEM,Kathy Cheng,48,8,4,60
+Lee,303,Presiding Criminal Appeals,,REP,David Bridges,70,6,5,81
+Lee,303,Presiding Criminal Appeals,,REP,Sharon Keller,45,12,2,59
+Lee,303,Presiding Criminal Appeals,,DEM,Maria T. Jackson,47,8,4,59
+Lee,303,"Judge, Court of Criminal Appeals P7",,REP,B. Parker Hervey,104,17,6,127
+Lee,303,"Judge, Court of Criminal Appeals P7",,DEM,Ramona Franklin,48,8,4,60
+Lee,303,"Judge, Court of Criminal Appeals P8",,REP,Jay Brandon,44,4,2,50
+Lee,303,"Judge, Court of Criminal Appeals P8",,REP,Dib Waldrip,21,5,2,28
+Lee,303,"Judge, Court of Criminal Appeals P8",,REP,Michelle Slaughter,43,8,2,53
+Lee,303,State Representative,17,REP,John P. Cyrier,118,19,6,143
+Lee,303,State Representative,17,DEM,Michelle Ryan,48,8,4,60
+Lee,303,Justice Court of Appeals D3 P2,,REP,C. Olson Bourland,107,18,6,131
+Lee,303,Justice Court of Appeals D3 P2,,DEM,Edward Smith,47,8,4,59
+Lee,303,Justice Court of Appeals D3 P3,,REP,Scott Field,107,19,6,132
+Lee,303,Justice Court of Appeals D3 P3,,DEM,Chari Kelly,48,8,4,60
+Lee,303,Justice Court of Appeals D3 P5,,REP,David Puryear,106,18,6,130
+Lee,303,Justice Court of Appeals D3 P5,,DEM,Thomas J. Baker,47,8,3,58
+Lee,303,Justice Court of Appeals D3 P6,,REP,Kristofer Monson,15,2,1,18
+Lee,303,Justice Court of Appeals D3 P6,,REP,Donna Davidson,45,8,3,56
+Lee,303,Justice Court of Appeals D3 P6,,REP,Jennifer S. Freel,12,4,1,17
+Lee,303,Justice Court of Appeals D3 P6,,REP,"Michael ""Mike"" Toth",44,5,1,50
+Lee,303,Justice Court of Appeals D3 P6,,DEM,Gisela D. Triana,48,8,4,60
+Lee,303,County Judge,,REP,Paul E Fischer,82,17,3,102
+Lee,303,County Judge,,REP,Michael R Morgan,40,1,2,43
+Lee,303,District Clerk,,REP,Lisa Teinert,115,19,5,139
+Lee,303,County Clerk,,REP,Sharon Blasig,113,19,5,137
+Lee,303,County Treasurer,,REP,S. Blasig Kessler,49,14,1,64
+Lee,303,County Treasurer,,REP,Melinda Krause,69,5,5,79
+Lee,303,Justice Peace P3,,REP,Don Milburn,121,19,5,145
+Lee,303,Constable P3 Unexp,,REP,Farah Ramsey,111,19,6,136
+Lee,303,County Chairman,,REP,David Porter,106,19,6,131
+Lee,303,Proposition 1,,REP,YES,88,14,4,106
+Lee,303,Proposition 1,,REP,NO,41,4,3,48
+Lee,303,Proposition 2,,REP,YES,134,19,7,160
+Lee,303,Proposition 2,,REP,NO,8,0,0,8
+Lee,303,Proposition 3,,REP,YES,114,16,6,136
+Lee,303,Proposition 3,,REP,NO,20,3,1,24
+Lee,303,Proposition 4,,REP,YES,125,19,4,148
+Lee,303,Proposition 4,,REP,NO,12,0,3,15
+Lee,303,Proposition 5,,REP,YES,107,16,5,128
+Lee,303,Proposition 5,,REP,NO,31,3,2,36
+Lee,303,Proposition 6,,REP,YES,128,18,6,152
+Lee,303,Proposition 6,,REP,NO,12,1,1,14
+Lee,303,Proposition 7,,REP,YES,98,12,3,113
+Lee,303,Proposition 7,,REP,NO,37,6,4,47
+Lee,303,Proposition 8,,REP,YES,132,19,6,157
+Lee,303,Proposition 8,,REP,NO,6,0,1,7
+Lee,303,Proposition 9,,REP,YES,128,19,6,153
+Lee,303,Proposition 9,,REP,NO,12,0,1,13
+Lee,303,Proposition 10,,REP,YES,131,19,7,157
+Lee,303,Proposition 10,,REP,NO,3,0,0,3
+Lee,303,Proposition 11,,REP,YES,129,17,5,151
+Lee,303,Proposition 11,,REP,NO,10,2,2,14
+Lee,303,Proposition 1,,DEM,FOR,46,8,5,59
+Lee,303,Proposition 1,,DEM,AGAINST,2,0,0,2
+Lee,303,Proposition 2,,DEM,FOR,44,8,4,56
+Lee,303,Proposition 2,,DEM,AGAINST,4,0,1,5
+Lee,303,Proposition 3,,DEM,FOR,43,7,5,55
+Lee,303,Proposition 3,,DEM,AGAINST,6,1,0,7
+Lee,303,Proposition 4,,DEM,FOR,46,8,5,59
+Lee,303,Proposition 4,,DEM,AGAINST,2,0,0,2
+Lee,303,Proposition 5,,DEM,FOR,43,7,5,55
+Lee,303,Proposition 5,,DEM,AGAINST,5,0,0,5
+Lee,303,Proposition 6,,DEM,FOR,47,7,5,59
+Lee,303,Proposition 6,,DEM,AGAINST,2,0,0,2
+Lee,303,Proposition 7,,DEM,FOR,44,7,5,56
+Lee,303,Proposition 7,,DEM,AGAINST,4,0,0,4
+Lee,303,Proposition 8,,DEM,FOR,41,6,5,52
+Lee,303,Proposition 8,,DEM,AGAINST,7,1,0,8
+Lee,303,Proposition 9,,DEM,FOR,44,7,5,56
+Lee,303,Proposition 9,,DEM,AGAINST,4,0,0,4
+Lee,303,Proposition 10,,DEM,FOR,45,8,5,58
+Lee,303,Proposition 10,,DEM,AGAINST,3,0,0,3
+Lee,303,Proposition 11,,DEM,FOR,44,7,5,56
+Lee,303,Proposition 11,,DEM,AGAINST,4,0,0,4
+Lee,303,Proposition 12,,DEM,FOR,45,8,5,58
+Lee,303,Proposition 12,,DEM,AGAINST,3,0,0,3
+Lee,304,US Senator,,REP,Mary Miller,3,3,0,6
+Lee,304,US Senator,,REP,"Bruce Jacobson, Jr.",1,0,0,1
+Lee,304,US Senator,,REP,Ted Cruz,31,11,2,44
+Lee,304,US Senator,,REP,Stefano de Stefano,0,0,0,0
+Lee,304,US Senator,,REP,Geraldine Sam,1,0,0,1
+Lee,304,US Senator,,DEM,Edward Kimbrough,1,1,0,2
+Lee,304,US Senator,,DEM,Beto O'Rourke,7,0,2,9
+Lee,304,US Senator,,DEM,Sema Hernandez,0,0,2,2
+Lee,304,US Representative,10,REP,Michael T. McCaul,32,10,2,44
+Lee,304,US Representative,10,REP,John W. Cook,2,4,0,6
+Lee,304,US Representative,10,DEM,Matt Harris,2,0,0,2
+Lee,304,US Representative,10,DEM,Mike Siegel,3,0,2,5
+Lee,304,US Representative,10,DEM,Kevin Nelson,0,0,1,1
+Lee,304,US Representative,10,DEM,Richie DeGrow,0,0,0,0
+Lee,304,US Representative,10,DEM,Tawana WalteCadien,1,0,0,1
+Lee,304,US Representative,10,DEM,Madeline K. Eden,0,0,1,1
+Lee,304,US Representative,10,DEM,Tami Walker,0,1,0,1
+Lee,304,Governor,,REP,Greg Abbott,34,12,2,48
+Lee,304,Governor,,REP,Barbara Krueger,1,2,0,3
+Lee,304,Governor,,REP,SECEDE Kilgore,0,0,0,0
+Lee,304,Governor,,DEM,Jeffrey Payne,1,0,0,1
+Lee,304,Governor,,DEM,Joe Mumbach,1,0,0,1
+Lee,304,Governor,,DEM,Adrian Ocegueda,0,0,0,0
+Lee,304,Governor,,DEM,"Cedric Davis, Sr.",0,0,0,0
+Lee,304,Governor,,DEM,Andrew White,1,0,1,2
+Lee,304,Governor,,DEM,Tom Wakely,0,0,0,0
+Lee,304,Governor,,DEM,James Jolly Clark,0,0,0,0
+Lee,304,Governor,,DEM,Lupe Valdez,4,0,2,6
+Lee,304,Governor,,DEM,Grady Yarbrough,1,1,1,3
+Lee,304,Lt. Governor,,REP,Scott Milder,13,4,0,17
+Lee,304,Lt. Governor,,REP,Dan Patrick,23,9,2,34
+Lee,304,Lt. Governor,,DEM,Mike Collier,5,1,3,9
+Lee,304,Lt. Governor,,DEM,Michael Cooper,2,0,1,3
+Lee,304,Attorney General,,REP,Ken Paxton,30,13,1,44
+Lee,304,Attorney General,,DEM,Justin Nelson,6,1,3,10
+Lee,304,Comptroller Public Accts,,REP,Glenn Hegar,28,13,1,42
+Lee,304,Comptroller Public Accts,,DEM,Tim Mahoney,4,0,1,5
+Lee,304,Comptroller Public Accts,,DEM,Joi Chevalier,3,1,3,7
+Lee,304,Commissioner Gen Land Office,,REP,Davey Edwards,4,4,0,8
+Lee,304,Commissioner Gen Land Office,,REP,Rick Range,2,2,0,4
+Lee,304,Commissioner Gen Land Office,,REP,George P. Bush,8,3,0,11
+Lee,304,Commissioner Gen Land Office,,REP,Jerry Patterson,17,4,1,22
+Lee,304,Commissioner Gen Land Office,,DEM,Tex Morgan,3,1,3,7
+Lee,304,Commissioner Gen Land Office,,DEM,Miguel Suazo,4,0,1,5
+Lee,304,Commissioner of Agriculture,,REP,Trey Blocker,6,5,0,11
+Lee,304,Commissioner of Agriculture,,REP,Jim Hogan,6,1,0,7
+Lee,304,Commissioner of Agriculture,,REP,Sid Miller,17,7,1,25
+Lee,304,Commissioner of Agriculture,,DEM,Kim Olson,6,1,4,11
+Lee,304,Railroad Commissioner,,REP,Weston Martinez,10,2,0,12
+Lee,304,Railroad Commissioner,,REP,Christi Craddick,18,11,1,30
+Lee,304,Railroad Commissioner,,DEM,Chris Spellmon,4,1,1,6
+Lee,304,Railroad Commissioner,,DEM,Roman McAllen,3,0,1,4
+Lee,304,"Justice, Supreme Court P2",,REP,Jimmy Blacklock,25,13,1,39
+Lee,304,"Justice, Supreme Court P2",,DEM,Steven Kirkland,7,1,3,11
+Lee,304,"Justice, Supreme Court P4",,REP,John Devine,25,13,1,39
+Lee,304,"Justice, Supreme Court P4",,DEM,R.K. Sandill,7,1,4,12
+Lee,304,"Justice, Supreme Court P6",,REP,Jeff Brown,25,13,1,39
+Lee,304,"Justice, Supreme Court P6",,DEM,Kathy Cheng,7,1,4,12
+Lee,304,Presiding Criminal Appeals,,REP,David Bridges,11,4,0,15
+Lee,304,Presiding Criminal Appeals,,REP,Sharon Keller,16,7,1,24
+Lee,304,Presiding Criminal Appeals,,DEM,Maria T. Jackson,7,1,4,12
+Lee,304,"Judge, Court of Criminal Appeals P7",,REP,B. Parker Hervey,25,13,1,39
+Lee,304,"Judge, Court of Criminal Appeals P7",,DEM,Ramona Franklin,7,1,4,12
+Lee,304,"Judge, Court of Criminal Appeals P8",,REP,Jay Brandon,15,4,0,19
+Lee,304,"Judge, Court of Criminal Appeals P8",,REP,Dib Waldrip,4,0,0,4
+Lee,304,"Judge, Court of Criminal Appeals P8",,REP,Michelle Slaughter,7,7,1,15
+Lee,304,State Representative,17,REP,John P. Cyrier,27,13,2,42
+Lee,304,State Representative,17,DEM,Michelle Ryan,7,1,4,12
+Lee,304,Justice Court of Appeals D3 P2,,REP,C. Olson Bourland,24,12,1,37
+Lee,304,Justice Court of Appeals D3 P2,,DEM,Edward Smith,7,1,4,12
+Lee,304,Justice Court of Appeals D3 P3,,REP,Scott Field,24,13,1,38
+Lee,304,Justice Court of Appeals D3 P3,,DEM,Chari Kelly,7,1,3,11
+Lee,304,Justice Court of Appeals D3 P5,,REP,David Puryear,25,12,1,38
+Lee,304,Justice Court of Appeals D3 P5,,DEM,Thomas J. Baker,7,1,4,12
+Lee,304,Justice Court of Appeals D3 P6,,REP,Kristofer Monson,5,2,0,7
+Lee,304,Justice Court of Appeals D3 P6,,REP,Donna Davidson,3,5,0,8
+Lee,304,Justice Court of Appeals D3 P6,,REP,Jennifer S. Freel,6,3,0,9
+Lee,304,Justice Court of Appeals D3 P6,,REP,"Michael ""Mike"" Toth",11,0,1,12
+Lee,304,Justice Court of Appeals D3 P6,,DEM,Gisela D. Triana,7,1,4,12
+Lee,304,County Judge,,REP,Paul E Fischer,33,12,2,47
+Lee,304,County Judge,,REP,Michael R Morgan,5,2,0,7
+Lee,304,District Clerk,,REP,Lisa Teinert,30,12,2,44
+Lee,304,County Clerk,,REP,Sharon Blasig,31,13,2,46
+Lee,304,County Treasurer,,REP,S. Blasig Kessler,15,7,2,24
+Lee,304,County Treasurer,,REP,Melinda Krause,20,6,0,26
+Lee,304,Justice Peace P3,,REP,Don Milburn,32,12,2,46
+Lee,304,Constable P3 Unexp,,REP,Farah Ramsey,30,12,2,44
+Lee,304,County Chairman,,REP,David Porter,29,10,2,41
+Lee,304,Proposition 1,,REP,YES,28,8,1,37
+Lee,304,Proposition 1,,REP,NO,7,6,1,14
+Lee,304,Proposition 2,,REP,YES,34,10,2,46
+Lee,304,Proposition 2,,REP,NO,3,4,0,7
+Lee,304,Proposition 3,,REP,YES,30,11,2,43
+Lee,304,Proposition 3,,REP,NO,6,2,0,8
+Lee,304,Proposition 4,,REP,YES,33,14,2,49
+Lee,304,Proposition 4,,REP,NO,4,0,0,4
+Lee,304,Proposition 5,,REP,YES,28,9,2,39
+Lee,304,Proposition 5,,REP,NO,7,4,0,11
+Lee,304,Proposition 6,,REP,YES,32,12,2,46
+Lee,304,Proposition 6,,REP,NO,4,1,0,5
+Lee,304,Proposition 7,,REP,YES,22,6,1,29
+Lee,304,Proposition 7,,REP,NO,14,6,1,21
+Lee,304,Proposition 8,,REP,YES,35,13,1,49
+Lee,304,Proposition 8,,REP,NO,1,1,1,3
+Lee,304,Proposition 9,,REP,YES,32,10,1,43
+Lee,304,Proposition 9,,REP,NO,3,4,1,8
+Lee,304,Proposition 10,,REP,YES,32,11,2,45
+Lee,304,Proposition 10,,REP,NO,3,3,0,6
+Lee,304,Proposition 11,,REP,YES,30,13,1,44
+Lee,304,Proposition 11,,REP,NO,6,1,1,8
+Lee,304,Proposition 1,,DEM,FOR,7,1,4,12
+Lee,304,Proposition 1,,DEM,AGAINST,1,0,0,1
+Lee,304,Proposition 2,,DEM,FOR,6,1,4,11
+Lee,304,Proposition 2,,DEM,AGAINST,2,0,0,2
+Lee,304,Proposition 3,,DEM,FOR,6,1,3,10
+Lee,304,Proposition 3,,DEM,AGAINST,2,0,0,2
+Lee,304,Proposition 4,,DEM,FOR,7,1,4,12
+Lee,304,Proposition 4,,DEM,AGAINST,1,0,0,1
+Lee,304,Proposition 5,,DEM,FOR,6,1,4,11
+Lee,304,Proposition 5,,DEM,AGAINST,2,0,0,2
+Lee,304,Proposition 6,,DEM,FOR,7,1,4,12
+Lee,304,Proposition 6,,DEM,AGAINST,1,0,0,1
+Lee,304,Proposition 7,,DEM,FOR,7,1,4,12
+Lee,304,Proposition 7,,DEM,AGAINST,1,0,0,1
+Lee,304,Proposition 8,,DEM,FOR,5,1,4,10
+Lee,304,Proposition 8,,DEM,AGAINST,3,0,0,3
+Lee,304,Proposition 9,,DEM,FOR,7,1,4,12
+Lee,304,Proposition 9,,DEM,AGAINST,1,0,0,1
+Lee,304,Proposition 10,,DEM,FOR,7,1,4,12
+Lee,304,Proposition 10,,DEM,AGAINST,1,0,0,1
+Lee,304,Proposition 11,,DEM,FOR,7,0,4,11
+Lee,304,Proposition 11,,DEM,AGAINST,1,1,0,2
+Lee,304,Proposition 12,,DEM,FOR,7,1,4,12
+Lee,304,Proposition 12,,DEM,AGAINST,1,0,0,1
+Lee,401,US Senator,,REP,Mary Miller,8,8,1,17
+Lee,401,US Senator,,REP,"Bruce Jacobson, Jr.",3,6,0,9
+Lee,401,US Senator,,REP,Ted Cruz,88,41,8,137
+Lee,401,US Senator,,REP,Stefano de Stefano,1,0,0,1
+Lee,401,US Senator,,REP,Geraldine Sam,0,2,0,2
+Lee,401,US Senator,,DEM,Edward Kimbrough,5,0,1,6
+Lee,401,US Senator,,DEM,Beto O'Rourke,7,1,0,8
+Lee,401,US Senator,,DEM,Sema Hernandez,11,0,0,11
+Lee,401,US Representative,10,REP,Michael T. McCaul,73,40,8,121
+Lee,401,US Representative,10,REP,John W. Cook,21,21,0,42
+Lee,401,US Representative,10,DEM,Matt Harris,3,0,0,3
+Lee,401,US Representative,10,DEM,Mike Siegel,4,0,0,4
+Lee,401,US Representative,10,DEM,Kevin Nelson,3,0,0,3
+Lee,401,US Representative,10,DEM,Richie DeGrow,2,0,1,3
+Lee,401,US Representative,10,DEM,Tawana WalteCadien,2,0,0,2
+Lee,401,US Representative,10,DEM,Madeline K. Eden,3,1,0,4
+Lee,401,US Representative,10,DEM,Tami Walker,5,0,0,5
+Lee,401,Governor,,REP,Greg Abbott,93,53,8,154
+Lee,401,Governor,,REP,Barbara Krueger,4,10,1,15
+Lee,401,Governor,,REP,SECEDE Kilgore,2,1,0,3
+Lee,401,Governor,,DEM,Jeffrey Payne,5,0,0,5
+Lee,401,Governor,,DEM,Joe Mumbach,1,0,0,1
+Lee,401,Governor,,DEM,Adrian Ocegueda,0,0,0,0
+Lee,401,Governor,,DEM,"Cedric Davis, Sr.",5,0,0,5
+Lee,401,Governor,,DEM,Andrew White,5,0,1,6
+Lee,401,Governor,,DEM,Tom Wakely,0,0,0,0
+Lee,401,Governor,,DEM,James Jolly Clark,0,0,0,0
+Lee,401,Governor,,DEM,Lupe Valdez,6,0,0,6
+Lee,401,Governor,,DEM,Grady Yarbrough,2,1,0,3
+Lee,401,Lt. Governor,,REP,Scott Milder,23,25,3,51
+Lee,401,Lt. Governor,,REP,Dan Patrick,74,36,6,116
+Lee,401,Lt. Governor,,DEM,Mike Collier,6,0,1,7
+Lee,401,Lt. Governor,,DEM,Michael Cooper,17,1,0,18
+Lee,401,Attorney General,,REP,Ken Paxton,78,43,7,128
+Lee,401,Attorney General,,DEM,Justin Nelson,20,1,1,22
+Lee,401,Comptroller Public Accts,,REP,Glenn Hegar,75,43,7,125
+Lee,401,Comptroller Public Accts,,DEM,Tim Mahoney,13,1,1,15
+Lee,401,Comptroller Public Accts,,DEM,Joi Chevalier,9,0,0,9
+Lee,401,Commissioner Gen Land Office,,REP,Davey Edwards,15,9,0,24
+Lee,401,Commissioner Gen Land Office,,REP,Rick Range,6,6,0,12
+Lee,401,Commissioner Gen Land Office,,REP,George P. Bush,42,19,6,67
+Lee,401,Commissioner Gen Land Office,,REP,Jerry Patterson,25,20,3,48
+Lee,401,Commissioner Gen Land Office,,DEM,Tex Morgan,15,0,1,16
+Lee,401,Commissioner Gen Land Office,,DEM,Miguel Suazo,8,1,0,9
+Lee,401,Commissioner of Agriculture,,REP,Trey Blocker,24,19,1,44
+Lee,401,Commissioner of Agriculture,,REP,Jim Hogan,16,14,1,31
+Lee,401,Commissioner of Agriculture,,REP,Sid Miller,43,23,6,72
+Lee,401,Commissioner of Agriculture,,DEM,Kim Olson,20,1,1,22
+Lee,401,Railroad Commissioner,,REP,Weston Martinez,24,19,3,46
+Lee,401,Railroad Commissioner,,REP,Christi Craddick,57,30,4,91
+Lee,401,Railroad Commissioner,,DEM,Chris Spellmon,13,1,1,15
+Lee,401,Railroad Commissioner,,DEM,Roman McAllen,9,0,0,9
+Lee,401,"Justice, Supreme Court P2",,REP,Jimmy Blacklock,72,40,6,118
+Lee,401,"Justice, Supreme Court P2",,DEM,Steven Kirkland,19,1,1,21
+Lee,401,"Justice, Supreme Court P4",,REP,John Devine,71,40,6,117
+Lee,401,"Justice, Supreme Court P4",,DEM,R.K. Sandill,18,1,1,20
+Lee,401,"Justice, Supreme Court P6",,REP,Jeff Brown,70,40,6,116
+Lee,401,"Justice, Supreme Court P6",,DEM,Kathy Cheng,19,1,1,21
+Lee,401,Presiding Criminal Appeals,,REP,David Bridges,46,20,5,71
+Lee,401,Presiding Criminal Appeals,,REP,Sharon Keller,29,24,3,56
+Lee,401,Presiding Criminal Appeals,,DEM,Maria T. Jackson,17,0,1,18
+Lee,401,"Judge, Court of Criminal Appeals P7",,REP,B. Parker Hervey,67,39,6,112
+Lee,401,"Judge, Court of Criminal Appeals P7",,DEM,Ramona Franklin,18,0,1,19
+Lee,401,"Judge, Court of Criminal Appeals P8",,REP,Jay Brandon,34,13,2,49
+Lee,401,"Judge, Court of Criminal Appeals P8",,REP,Dib Waldrip,8,7,3,18
+Lee,401,"Judge, Court of Criminal Appeals P8",,REP,Michelle Slaughter,28,26,3,57
+Lee,401,State Representative,17,REP,John P. Cyrier,77,48,7,132
+Lee,401,State Representative,17,DEM,Michelle Ryan,20,1,1,22
+Lee,401,Justice Court of Appeals D3 P2,,REP,C. Olson Bourland,66,39,6,111
+Lee,401,Justice Court of Appeals D3 P2,,DEM,Edward Smith,18,1,1,20
+Lee,401,Justice Court of Appeals D3 P3,,REP,Scott Field,66,41,6,113
+Lee,401,Justice Court of Appeals D3 P3,,DEM,Chari Kelly,19,1,1,21
+Lee,401,Justice Court of Appeals D3 P5,,REP,David Puryear,67,41,6,114
+Lee,401,Justice Court of Appeals D3 P5,,DEM,Thomas J. Baker,17,1,1,19
+Lee,401,Justice Court of Appeals D3 P6,,REP,Kristofer Monson,14,5,3,22
+Lee,401,Justice Court of Appeals D3 P6,,REP,Donna Davidson,26,15,3,44
+Lee,401,Justice Court of Appeals D3 P6,,REP,Jennifer S. Freel,8,11,2,21
+Lee,401,Justice Court of Appeals D3 P6,,REP,"Michael ""Mike"" Toth",20,14,0,34
+Lee,401,Justice Court of Appeals D3 P6,,DEM,Gisela D. Triana,19,1,1,21
+Lee,401,County Judge,,REP,Paul E Fischer,75,41,5,121
+Lee,401,County Judge,,REP,Michael R Morgan,32,26,4,62
+Lee,401,District Clerk,,REP,Lisa Teinert,79,49,6,134
+Lee,401,County Clerk,,REP,Sharon Blasig,82,50,6,138
+Lee,401,County Treasurer,,REP,S. Blasig Kessler,37,25,2,64
+Lee,401,County Treasurer,,REP,Melinda Krause,63,38,7,108
+Lee,401,County Commissioner Pct 4,,REP,Steven W. Knobloch,83,50,7,140
+Lee,401,Justice Peace P4,,REP,Lee Dobos,19,14,0,33
+Lee,401,Justice Peace P4,,REP,Danita Smith,90,51,9,150
+Lee,401,Justice Peace P4,,REP,Philip E. McInturff,2,6,0,8
+Lee,401,County Chairman,,REP,David Porter,67,40,7,114
+Lee,401,Proposition 1,,REP,YES,66,36,5,107
+Lee,401,Proposition 1,,REP,NO,24,16,4,44
+Lee,401,Proposition 2,,REP,YES,89,56,9,154
+Lee,401,Proposition 2,,REP,NO,10,3,0,13
+Lee,401,Proposition 3,,REP,YES,82,49,8,139
+Lee,401,Proposition 3,,REP,NO,10,8,0,18
+Lee,401,Proposition 4,,REP,YES,92,54,9,155
+Lee,401,Proposition 4,,REP,NO,4,4,0,8
+Lee,401,Proposition 5,,REP,YES,75,41,6,122
+Lee,401,Proposition 5,,REP,NO,17,16,3,36
+Lee,401,Proposition 6,,REP,YES,94,54,7,155
+Lee,401,Proposition 6,,REP,NO,5,6,0,11
+Lee,401,Proposition 7,,REP,YES,68,39,5,112
+Lee,401,Proposition 7,,REP,NO,28,22,3,53
+Lee,401,Proposition 8,,REP,YES,93,60,8,161
+Lee,401,Proposition 8,,REP,NO,4,1,0,5
+Lee,401,Proposition 9,,REP,YES,92,49,8,149
+Lee,401,Proposition 9,,REP,NO,7,9,1,17
+Lee,401,Proposition 10,,REP,YES,92,56,8,156
+Lee,401,Proposition 10,,REP,NO,5,2,1,8
+Lee,401,Proposition 11,,REP,YES,91,58,8,157
+Lee,401,Proposition 11,,REP,NO,9,3,1,13
+Lee,401,Proposition 1,,DEM,FOR,22,1,1,24
+Lee,401,Proposition 1,,DEM,AGAINST,1,0,0,1
+Lee,401,Proposition 2,,DEM,FOR,21,1,1,23
+Lee,401,Proposition 2,,DEM,AGAINST,1,0,0,1
+Lee,401,Proposition 3,,DEM,FOR,23,1,1,25
+Lee,401,Proposition 3,,DEM,AGAINST,1,0,0,1
+Lee,401,Proposition 4,,DEM,FOR,23,1,1,25
+Lee,401,Proposition 4,,DEM,AGAINST,0,0,0,0
+Lee,401,Proposition 5,,DEM,FOR,21,0,1,22
+Lee,401,Proposition 5,,DEM,AGAINST,0,1,0,1
+Lee,401,Proposition 6,,DEM,FOR,23,1,1,25
+Lee,401,Proposition 6,,DEM,AGAINST,0,0,0,0
+Lee,401,Proposition 7,,DEM,FOR,21,1,1,23
+Lee,401,Proposition 7,,DEM,AGAINST,0,0,0,0
+Lee,401,Proposition 8,,DEM,FOR,20,1,1,22
+Lee,401,Proposition 8,,DEM,AGAINST,1,0,0,1
+Lee,401,Proposition 9,,DEM,FOR,19,0,1,20
+Lee,401,Proposition 9,,DEM,AGAINST,1,1,0,2
+Lee,401,Proposition 10,,DEM,FOR,20,1,1,22
+Lee,401,Proposition 10,,DEM,AGAINST,1,0,0,1
+Lee,401,Proposition 11,,DEM,FOR,18,1,1,20
+Lee,401,Proposition 11,,DEM,AGAINST,1,0,0,1
+Lee,401,Proposition 12,,DEM,FOR,21,1,1,23
+Lee,401,Proposition 12,,DEM,AGAINST,0,0,0,0
+Lee,402,US Senator,,REP,Mary Miller,1,0,0,1
+Lee,402,US Senator,,REP,"Bruce Jacobson, Jr.",1,0,0,1
+Lee,402,US Senator,,REP,Ted Cruz,11,3,1,15
+Lee,402,US Senator,,REP,Stefano de Stefano,0,0,0,0
+Lee,402,US Senator,,REP,Geraldine Sam,1,0,0,1
+Lee,402,US Senator,,DEM,Edward Kimbrough,0,1,2,3
+Lee,402,US Senator,,DEM,Beto O'Rourke,3,0,0,3
+Lee,402,US Senator,,DEM,Sema Hernandez,4,0,0,4
+Lee,402,US Representative,10,REP,Michael T. McCaul,14,3,1,18
+Lee,402,US Representative,10,REP,John W. Cook,1,0,0,1
+Lee,402,US Representative,10,DEM,Matt Harris,0,0,0,0
+Lee,402,US Representative,10,DEM,Mike Siegel,0,1,0,1
+Lee,402,US Representative,10,DEM,Kevin Nelson,1,0,0,1
+Lee,402,US Representative,10,DEM,Richie DeGrow,0,0,0,0
+Lee,402,US Representative,10,DEM,Tawana WalteCadien,1,0,0,1
+Lee,402,US Representative,10,DEM,Madeline K. Eden,1,0,0,1
+Lee,402,US Representative,10,DEM,Tami Walker,3,0,2,5
+Lee,402,Governor,,REP,Greg Abbott,13,3,1,17
+Lee,402,Governor,,REP,Barbara Krueger,1,0,0,1
+Lee,402,Governor,,REP,SECEDE Kilgore,0,0,0,0
+Lee,402,Governor,,DEM,Jeffrey Payne,2,0,0,2
+Lee,402,Governor,,DEM,Joe Mumbach,0,0,0,0
+Lee,402,Governor,,DEM,Adrian Ocegueda,1,0,0,1
+Lee,402,Governor,,DEM,"Cedric Davis, Sr.",0,0,0,0
+Lee,402,Governor,,DEM,Andrew White,0,1,0,1
+Lee,402,Governor,,DEM,Tom Wakely,0,0,0,0
+Lee,402,Governor,,DEM,James Jolly Clark,0,0,0,0
+Lee,402,Governor,,DEM,Lupe Valdez,3,0,0,3
+Lee,402,Governor,,DEM,Grady Yarbrough,1,0,2,3
+Lee,402,Lt. Governor,,REP,Scott Milder,3,0,0,3
+Lee,402,Lt. Governor,,REP,Dan Patrick,11,3,1,15
+Lee,402,Lt. Governor,,DEM,Mike Collier,2,0,0,2
+Lee,402,Lt. Governor,,DEM,Michael Cooper,4,1,2,7
+Lee,402,Attorney General,,REP,Ken Paxton,13,3,0,16
+Lee,402,Attorney General,,DEM,Justin Nelson,5,1,2,8
+Lee,402,Comptroller Public Accts,,REP,Glenn Hegar,14,3,1,18
+Lee,402,Comptroller Public Accts,,DEM,Tim Mahoney,3,1,0,4
+Lee,402,Comptroller Public Accts,,DEM,Joi Chevalier,3,0,2,5
+Lee,402,Commissioner Gen Land Office,,REP,Davey Edwards,1,0,0,1
+Lee,402,Commissioner Gen Land Office,,REP,Rick Range,0,0,0,0
+Lee,402,Commissioner Gen Land Office,,REP,George P. Bush,8,2,0,10
+Lee,402,Commissioner Gen Land Office,,REP,Jerry Patterson,4,1,1,6
+Lee,402,Commissioner Gen Land Office,,DEM,Tex Morgan,5,1,0,6
+Lee,402,Commissioner Gen Land Office,,DEM,Miguel Suazo,2,0,2,4
+Lee,402,Commissioner of Agriculture,,REP,Trey Blocker,2,0,0,2
+Lee,402,Commissioner of Agriculture,,REP,Jim Hogan,3,1,0,4
+Lee,402,Commissioner of Agriculture,,REP,Sid Miller,9,2,0,11
+Lee,402,Commissioner of Agriculture,,DEM,Kim Olson,5,1,2,8
+Lee,402,Railroad Commissioner,,REP,Weston Martinez,2,0,0,2
+Lee,402,Railroad Commissioner,,REP,Christi Craddick,11,3,1,15
+Lee,402,Railroad Commissioner,,DEM,Chris Spellmon,2,1,1,4
+Lee,402,Railroad Commissioner,,DEM,Roman McAllen,4,0,1,5
+Lee,402,"Justice, Supreme Court P2",,REP,Jimmy Blacklock,12,2,1,15
+Lee,402,"Justice, Supreme Court P2",,DEM,Steven Kirkland,4,1,2,7
+Lee,402,"Justice, Supreme Court P4",,REP,John Devine,12,2,1,15
+Lee,402,"Justice, Supreme Court P4",,DEM,R.K. Sandill,5,1,2,8
+Lee,402,"Justice, Supreme Court P6",,REP,Jeff Brown,12,2,1,15
+Lee,402,"Justice, Supreme Court P6",,DEM,Kathy Cheng,5,1,2,8
+Lee,402,Presiding Criminal Appeals,,REP,David Bridges,7,0,1,8
+Lee,402,Presiding Criminal Appeals,,REP,Sharon Keller,5,3,0,8
+Lee,402,Presiding Criminal Appeals,,DEM,Maria T. Jackson,5,1,2,8
+Lee,402,"Judge, Court of Criminal Appeals P7",,REP,B. Parker Hervey,12,2,1,15
+Lee,402,"Judge, Court of Criminal Appeals P7",,DEM,Ramona Franklin,5,1,2,8
+Lee,402,"Judge, Court of Criminal Appeals P8",,REP,Jay Brandon,3,1,0,4
+Lee,402,"Judge, Court of Criminal Appeals P8",,REP,Dib Waldrip,2,0,0,2
+Lee,402,"Judge, Court of Criminal Appeals P8",,REP,Michelle Slaughter,8,2,0,10
+Lee,402,State Representative,17,REP,John P. Cyrier,13,2,1,16
+Lee,402,State Representative,17,DEM,Michelle Ryan,5,1,2,8
+Lee,402,Justice Court of Appeals D3 P2,,REP,C. Olson Bourland,12,2,1,15
+Lee,402,Justice Court of Appeals D3 P2,,DEM,Edward Smith,5,1,2,8
+Lee,402,Justice Court of Appeals D3 P3,,REP,Scott Field,12,2,1,15
+Lee,402,Justice Court of Appeals D3 P3,,DEM,Chari Kelly,5,1,2,8
+Lee,402,Justice Court of Appeals D3 P5,,REP,David Puryear,12,2,1,15
+Lee,402,Justice Court of Appeals D3 P5,,DEM,Thomas J. Baker,5,1,2,8
+Lee,402,Justice Court of Appeals D3 P6,,REP,Kristofer Monson,1,0,0,1
+Lee,402,Justice Court of Appeals D3 P6,,REP,Donna Davidson,6,2,0,8
+Lee,402,Justice Court of Appeals D3 P6,,REP,Jennifer S. Freel,2,0,0,2
+Lee,402,Justice Court of Appeals D3 P6,,REP,"Michael ""Mike"" Toth",4,1,1,6
+Lee,402,Justice Court of Appeals D3 P6,,DEM,Gisela D. Triana,6,1,2,9
+Lee,402,County Judge,,REP,Paul E Fischer,9,2,1,12
+Lee,402,County Judge,,REP,Michael R Morgan,6,1,0,7
+Lee,402,District Clerk,,REP,Lisa Teinert,13,2,1,16
+Lee,402,County Clerk,,REP,Sharon Blasig,13,2,1,16
+Lee,402,County Treasurer,,REP,S. Blasig Kessler,7,1,1,9
+Lee,402,County Treasurer,,REP,Melinda Krause,7,2,0,9
+Lee,402,County Commissioner Pct 4,,REP,Steven W. Knobloch,13,2,1,16
+Lee,402,Justice Peace P4,,REP,Lee Dobos,1,0,0,1
+Lee,402,Justice Peace P4,,REP,Danita Smith,12,2,0,14
+Lee,402,Justice Peace P4,,REP,Philip E. McInturff,1,1,1,3
+Lee,402,County Chairman,,REP,David Porter,12,2,0,14
+Lee,402,Proposition 1,,REP,YES,15,3,1,19
+Lee,402,Proposition 1,,REP,NO,0,0,0,0
+Lee,402,Proposition 2,,REP,YES,15,3,1,19
+Lee,402,Proposition 2,,REP,NO,0,0,0,0
+Lee,402,Proposition 3,,REP,YES,11,2,0,13
+Lee,402,Proposition 3,,REP,NO,3,1,0,4
+Lee,402,Proposition 4,,REP,YES,10,3,1,14
+Lee,402,Proposition 4,,REP,NO,4,0,0,4
+Lee,402,Proposition 5,,REP,YES,13,2,1,16
+Lee,402,Proposition 5,,REP,NO,2,1,0,3
+Lee,402,Proposition 6,,REP,YES,14,3,1,18
+Lee,402,Proposition 6,,REP,NO,1,0,0,1
+Lee,402,Proposition 7,,REP,YES,8,2,1,11
+Lee,402,Proposition 7,,REP,NO,7,1,0,8
+Lee,402,Proposition 8,,REP,YES,13,3,1,17
+Lee,402,Proposition 8,,REP,NO,2,0,0,2
+Lee,402,Proposition 9,,REP,YES,12,3,1,16
+Lee,402,Proposition 9,,REP,NO,3,0,0,3
+Lee,402,Proposition 10,,REP,YES,14,3,0,17
+Lee,402,Proposition 10,,REP,NO,0,0,0,0
+Lee,402,Proposition 11,,REP,YES,14,3,1,18
+Lee,402,Proposition 11,,REP,NO,1,0,0,1
+Lee,402,Proposition 1,,DEM,FOR,6,1,2,9
+Lee,402,Proposition 1,,DEM,AGAINST,0,0,0,0
+Lee,402,Proposition 2,,DEM,FOR,6,1,2,9
+Lee,402,Proposition 2,,DEM,AGAINST,0,0,0,0
+Lee,402,Proposition 3,,DEM,FOR,7,1,2,10
+Lee,402,Proposition 3,,DEM,AGAINST,0,0,0,0
+Lee,402,Proposition 4,,DEM,FOR,7,1,2,10
+Lee,402,Proposition 4,,DEM,AGAINST,0,0,0,0
+Lee,402,Proposition 5,,DEM,FOR,6,1,2,9
+Lee,402,Proposition 5,,DEM,AGAINST,1,0,0,1
+Lee,402,Proposition 6,,DEM,FOR,7,1,2,10
+Lee,402,Proposition 6,,DEM,AGAINST,0,0,0,0
+Lee,402,Proposition 7,,DEM,FOR,6,1,2,9
+Lee,402,Proposition 7,,DEM,AGAINST,0,0,0,0
+Lee,402,Proposition 8,,DEM,FOR,7,1,2,10
+Lee,402,Proposition 8,,DEM,AGAINST,0,0,0,0
+Lee,402,Proposition 9,,DEM,FOR,6,1,2,9
+Lee,402,Proposition 9,,DEM,AGAINST,0,0,0,0
+Lee,402,Proposition 10,,DEM,FOR,7,1,2,10
+Lee,402,Proposition 10,,DEM,AGAINST,0,0,0,0
+Lee,402,Proposition 11,,DEM,FOR,6,1,2,9
+Lee,402,Proposition 11,,DEM,AGAINST,0,0,0,0
+Lee,402,Proposition 12,,DEM,FOR,6,1,2,9
+Lee,402,Proposition 12,,DEM,AGAINST,0,0,0,0
+Lee,403,US Senator,,REP,Mary Miller,4,0,0,4
+Lee,403,US Senator,,REP,"Bruce Jacobson, Jr.",1,0,0,1
+Lee,403,US Senator,,REP,Ted Cruz,50,16,1,67
+Lee,403,US Senator,,REP,Stefano de Stefano,1,1,0,2
+Lee,403,US Senator,,REP,Geraldine Sam,0,0,0,0
+Lee,403,US Senator,,DEM,Edward Kimbrough,1,1,0,2
+Lee,403,US Senator,,DEM,Beto O'Rourke,4,4,2,10
+Lee,403,US Senator,,DEM,Sema Hernandez,0,0,0,0
+Lee,403,US Representative,10,REP,Michael T. McCaul,47,14,1,62
+Lee,403,US Representative,10,REP,John W. Cook,9,2,0,11
+Lee,403,US Representative,10,DEM,Matt Harris,1,2,0,3
+Lee,403,US Representative,10,DEM,Mike Siegel,4,1,1,6
+Lee,403,US Representative,10,DEM,Kevin Nelson,0,0,0,0
+Lee,403,US Representative,10,DEM,Richie DeGrow,0,0,0,0
+Lee,403,US Representative,10,DEM,Tawana WalteCadien,0,0,1,1
+Lee,403,US Representative,10,DEM,Madeline K. Eden,0,0,0,0
+Lee,403,US Representative,10,DEM,Tami Walker,0,2,0,2
+Lee,403,Governor,,REP,Greg Abbott,54,18,1,73
+Lee,403,Governor,,REP,Barbara Krueger,3,0,0,3
+Lee,403,Governor,,REP,SECEDE Kilgore,0,0,0,0
+Lee,403,Governor,,DEM,Jeffrey Payne,1,0,0,1
+Lee,403,Governor,,DEM,Joe Mumbach,0,0,0,0
+Lee,403,Governor,,DEM,Adrian Ocegueda,0,1,0,1
+Lee,403,Governor,,DEM,"Cedric Davis, Sr.",0,0,0,0
+Lee,403,Governor,,DEM,Andrew White,1,0,0,1
+Lee,403,Governor,,DEM,Tom Wakely,0,0,0,0
+Lee,403,Governor,,DEM,James Jolly Clark,0,0,0,0
+Lee,403,Governor,,DEM,Lupe Valdez,3,0,2,5
+Lee,403,Governor,,DEM,Grady Yarbrough,0,3,0,3
+Lee,403,Lt. Governor,,REP,Scott Milder,15,3,0,18
+Lee,403,Lt. Governor,,REP,Dan Patrick,41,12,1,54
+Lee,403,Lt. Governor,,DEM,Mike Collier,2,0,2,4
+Lee,403,Lt. Governor,,DEM,Michael Cooper,3,5,0,8
+Lee,403,Attorney General,,REP,Ken Paxton,48,14,1,63
+Lee,403,Attorney General,,DEM,Justin Nelson,4,3,2,9
+Lee,403,Comptroller Public Accts,,REP,Glenn Hegar,46,12,1,59
+Lee,403,Comptroller Public Accts,,DEM,Tim Mahoney,5,4,1,10
+Lee,403,Comptroller Public Accts,,DEM,Joi Chevalier,0,1,1,2
+Lee,403,Commissioner Gen Land Office,,REP,Davey Edwards,3,0,1,4
+Lee,403,Commissioner Gen Land Office,,REP,Rick Range,3,2,0,5
+Lee,403,Commissioner Gen Land Office,,REP,George P. Bush,27,11,0,38
+Lee,403,Commissioner Gen Land Office,,REP,Jerry Patterson,21,3,0,24
+Lee,403,Commissioner Gen Land Office,,DEM,Tex Morgan,2,3,0,5
+Lee,403,Commissioner Gen Land Office,,DEM,Miguel Suazo,3,2,2,7
+Lee,403,Commissioner of Agriculture,,REP,Trey Blocker,11,4,1,16
+Lee,403,Commissioner of Agriculture,,REP,Jim Hogan,13,3,0,16
+Lee,403,Commissioner of Agriculture,,REP,Sid Miller,31,7,0,38
+Lee,403,Commissioner of Agriculture,,DEM,Kim Olson,4,4,2,10
+Lee,403,Railroad Commissioner,,REP,Weston Martinez,17,2,0,19
+Lee,403,Railroad Commissioner,,REP,Christi Craddick,35,12,1,48
+Lee,403,Railroad Commissioner,,DEM,Chris Spellmon,5,1,1,7
+Lee,403,Railroad Commissioner,,DEM,Roman McAllen,0,3,1,4
+Lee,403,"Justice, Supreme Court P2",,REP,Jimmy Blacklock,46,13,1,60
+Lee,403,"Justice, Supreme Court P2",,DEM,Steven Kirkland,4,4,2,10
+Lee,403,"Justice, Supreme Court P4",,REP,John Devine,45,12,1,58
+Lee,403,"Justice, Supreme Court P4",,DEM,R.K. Sandill,3,3,2,8
+Lee,403,"Justice, Supreme Court P6",,REP,Jeff Brown,44,12,1,57
+Lee,403,"Justice, Supreme Court P6",,DEM,Kathy Cheng,3,3,2,8
+Lee,403,Presiding Criminal Appeals,,REP,David Bridges,31,9,1,41
+Lee,403,Presiding Criminal Appeals,,REP,Sharon Keller,18,4,0,22
+Lee,403,Presiding Criminal Appeals,,DEM,Maria T. Jackson,4,3,2,9
+Lee,403,"Judge, Court of Criminal Appeals P7",,REP,B. Parker Hervey,45,11,1,57
+Lee,403,"Judge, Court of Criminal Appeals P7",,DEM,Ramona Franklin,4,3,1,8
+Lee,403,"Judge, Court of Criminal Appeals P8",,REP,Jay Brandon,23,6,0,29
+Lee,403,"Judge, Court of Criminal Appeals P8",,REP,Dib Waldrip,5,6,0,11
+Lee,403,"Judge, Court of Criminal Appeals P8",,REP,Michelle Slaughter,20,2,1,23
+Lee,403,State Representative,17,REP,John P. Cyrier,50,13,1,64
+Lee,403,State Representative,17,DEM,Michelle Ryan,4,3,1,8
+Lee,403,Justice Court of Appeals D3 P2,,REP,C. Olson Bourland,47,11,1,59
+Lee,403,Justice Court of Appeals D3 P2,,DEM,Edward Smith,3,3,2,8
+Lee,403,Justice Court of Appeals D3 P3,,REP,Scott Field,47,11,1,59
+Lee,403,Justice Court of Appeals D3 P3,,DEM,Chari Kelly,3,2,2,7
+Lee,403,Justice Court of Appeals D3 P5,,REP,David Puryear,48,11,1,60
+Lee,403,Justice Court of Appeals D3 P5,,DEM,Thomas J. Baker,3,2,2,7
+Lee,403,Justice Court of Appeals D3 P6,,REP,Kristofer Monson,8,1,0,9
+Lee,403,Justice Court of Appeals D3 P6,,REP,Donna Davidson,25,4,0,29
+Lee,403,Justice Court of Appeals D3 P6,,REP,Jennifer S. Freel,5,2,0,7
+Lee,403,Justice Court of Appeals D3 P6,,REP,"Michael ""Mike"" Toth",10,8,1,19
+Lee,403,Justice Court of Appeals D3 P6,,DEM,Gisela D. Triana,3,2,2,7
+Lee,403,County Judge,,REP,Paul E Fischer,47,8,1,56
+Lee,403,County Judge,,REP,Michael R Morgan,12,10,0,22
+Lee,403,District Clerk,,REP,Lisa Teinert,51,11,1,63
+Lee,403,County Clerk,,REP,Sharon Blasig,51,11,1,63
+Lee,403,County Treasurer,,REP,S. Blasig Kessler,22,3,0,25
+Lee,403,County Treasurer,,REP,Melinda Krause,36,12,1,49
+Lee,403,County Commissioner Pct 4,,REP,Steven W. Knobloch,50,12,1,63
+Lee,403,Justice Peace P4,,REP,Lee Dobos,20,2,0,22
+Lee,403,Justice Peace P4,,REP,Danita Smith,37,11,1,49
+Lee,403,Justice Peace P4,,REP,Philip E. McInturff,1,2,0,3
+Lee,403,County Chairman,,REP,David Porter,46,13,1,60
+Lee,403,Proposition 1,,REP,YES,38,11,1,50
+Lee,403,Proposition 1,,REP,NO,15,5,0,20
+Lee,403,Proposition 2,,REP,YES,51,15,1,67
+Lee,403,Proposition 2,,REP,NO,4,1,0,5
+Lee,403,Proposition 3,,REP,YES,40,17,1,58
+Lee,403,Proposition 3,,REP,NO,14,0,0,14
+Lee,403,Proposition 4,,REP,YES,43,15,1,59
+Lee,403,Proposition 4,,REP,NO,11,0,0,11
+Lee,403,Proposition 5,,REP,YES,47,14,1,62
+Lee,403,Proposition 5,,REP,NO,9,2,0,11
+Lee,403,Proposition 6,,REP,YES,52,16,1,69
+Lee,403,Proposition 6,,REP,NO,4,0,0,4
+Lee,403,Proposition 7,,REP,YES,38,12,0,50
+Lee,403,Proposition 7,,REP,NO,18,2,1,21
+Lee,403,Proposition 8,,REP,YES,55,17,1,73
+Lee,403,Proposition 8,,REP,NO,1,0,0,1
+Lee,403,Proposition 9,,REP,YES,51,13,0,64
+Lee,403,Proposition 9,,REP,NO,6,2,1,9
+Lee,403,Proposition 10,,REP,YES,49,16,1,66
+Lee,403,Proposition 10,,REP,NO,4,1,0,5
+Lee,403,Proposition 11,,REP,YES,47,16,1,64
+Lee,403,Proposition 11,,REP,NO,9,0,0,9
+Lee,403,Proposition 1,,DEM,FOR,5,5,2,12
+Lee,403,Proposition 1,,DEM,AGAINST,0,0,0,0
+Lee,403,Proposition 2,,DEM,FOR,4,3,2,9
+Lee,403,Proposition 2,,DEM,AGAINST,1,2,0,3
+Lee,403,Proposition 3,,DEM,FOR,5,5,2,12
+Lee,403,Proposition 3,,DEM,AGAINST,0,0,0,0
+Lee,403,Proposition 4,,DEM,FOR,5,4,2,11
+Lee,403,Proposition 4,,DEM,AGAINST,0,1,0,1
+Lee,403,Proposition 5,,DEM,FOR,5,5,2,12
+Lee,403,Proposition 5,,DEM,AGAINST,0,0,0,0
+Lee,403,Proposition 6,,DEM,FOR,5,5,2,12
+Lee,403,Proposition 6,,DEM,AGAINST,0,0,0,0
+Lee,403,Proposition 7,,DEM,FOR,5,4,2,11
+Lee,403,Proposition 7,,DEM,AGAINST,0,1,0,1
+Lee,403,Proposition 8,,DEM,FOR,5,4,2,11
+Lee,403,Proposition 8,,DEM,AGAINST,0,1,0,1
+Lee,403,Proposition 9,,DEM,FOR,4,5,2,11
+Lee,403,Proposition 9,,DEM,AGAINST,1,0,0,1
+Lee,403,Proposition 10,,DEM,FOR,5,5,2,12
+Lee,403,Proposition 10,,DEM,AGAINST,0,0,0,0
+Lee,403,Proposition 11,,DEM,FOR,5,4,2,11
+Lee,403,Proposition 11,,DEM,AGAINST,0,1,0,1
+Lee,403,Proposition 12,,DEM,FOR,5,4,2,11
+Lee,403,Proposition 12,,DEM,AGAINST,0,1,0,1
+Lee,404,US Senator,,REP,Mary Miller,4,6,0,10
+Lee,404,US Senator,,REP,"Bruce Jacobson, Jr.",5,5,0,10
+Lee,404,US Senator,,REP,Ted Cruz,93,53,0,146
+Lee,404,US Senator,,REP,Stefano de Stefano,1,1,0,2
+Lee,404,US Senator,,REP,Geraldine Sam,2,1,0,3
+Lee,404,US Senator,,DEM,Edward Kimbrough,6,3,3,12
+Lee,404,US Senator,,DEM,Beto O'Rourke,11,1,2,14
+Lee,404,US Senator,,DEM,Sema Hernandez,5,1,0,6
+Lee,404,US Representative,10,REP,Michael T. McCaul,91,50,0,141
+Lee,404,US Representative,10,REP,John W. Cook,12,12,0,24
+Lee,404,US Representative,10,DEM,Matt Harris,4,3,1,8
+Lee,404,US Representative,10,DEM,Mike Siegel,5,2,2,9
+Lee,404,US Representative,10,DEM,Kevin Nelson,1,0,1,2
+Lee,404,US Representative,10,DEM,Richie DeGrow,1,0,0,1
+Lee,404,US Representative,10,DEM,Tawana WalteCadien,7,1,0,8
+Lee,404,US Representative,10,DEM,Madeline K. Eden,0,1,0,1
+Lee,404,US Representative,10,DEM,Tami Walker,4,0,2,6
+Lee,404,Governor,,REP,Greg Abbott,103,61,0,164
+Lee,404,Governor,,REP,Barbara Krueger,4,6,0,10
+Lee,404,Governor,,REP,SECEDE Kilgore,1,1,0,2
+Lee,404,Governor,,DEM,Jeffrey Payne,3,0,1,4
+Lee,404,Governor,,DEM,Joe Mumbach,0,0,0,0
+Lee,404,Governor,,DEM,Adrian Ocegueda,1,0,0,1
+Lee,404,Governor,,DEM,"Cedric Davis, Sr.",6,3,0,9
+Lee,404,Governor,,DEM,Andrew White,2,0,1,3
+Lee,404,Governor,,DEM,Tom Wakely,0,0,0,0
+Lee,404,Governor,,DEM,James Jolly Clark,0,0,0,0
+Lee,404,Governor,,DEM,Lupe Valdez,5,2,0,7
+Lee,404,Governor,,DEM,Grady Yarbrough,7,2,3,12
+Lee,404,Lt. Governor,,REP,Scott Milder,33,24,0,57
+Lee,404,Lt. Governor,,REP,Dan Patrick,69,39,0,108
+Lee,404,Lt. Governor,,DEM,Mike Collier,9,2,2,13
+Lee,404,Lt. Governor,,DEM,Michael Cooper,13,3,3,19
+Lee,404,Attorney General,,REP,Ken Paxton,87,56,0,143
+Lee,404,Attorney General,,DEM,Justin Nelson,21,4,6,31
+Lee,404,Comptroller Public Accts,,REP,Glenn Hegar,87,56,0,143
+Lee,404,Comptroller Public Accts,,DEM,Tim Mahoney,15,3,5,23
+Lee,404,Comptroller Public Accts,,DEM,Joi Chevalier,7,2,0,9
+Lee,404,Commissioner Gen Land Office,,REP,Davey Edwards,8,4,0,12
+Lee,404,Commissioner Gen Land Office,,REP,Rick Range,2,3,0,5
+Lee,404,Commissioner Gen Land Office,,REP,George P. Bush,60,34,0,94
+Lee,404,Commissioner Gen Land Office,,REP,Jerry Patterson,28,21,0,49
+Lee,404,Commissioner Gen Land Office,,DEM,Tex Morgan,8,2,5,15
+Lee,404,Commissioner Gen Land Office,,DEM,Miguel Suazo,14,3,0,17
+Lee,404,Commissioner of Agriculture,,REP,Trey Blocker,27,7,0,34
+Lee,404,Commissioner of Agriculture,,REP,Jim Hogan,23,20,0,43
+Lee,404,Commissioner of Agriculture,,REP,Sid Miller,46,28,0,74
+Lee,404,Commissioner of Agriculture,,DEM,Kim Olson,22,6,6,34
+Lee,404,Railroad Commissioner,,REP,Weston Martinez,39,16,0,55
+Lee,404,Railroad Commissioner,,REP,Christi Craddick,51,41,0,92
+Lee,404,Railroad Commissioner,,DEM,Chris Spellmon,15,2,5,22
+Lee,404,Railroad Commissioner,,DEM,Roman McAllen,7,3,0,10
+Lee,404,"Justice, Supreme Court P2",,REP,Jimmy Blacklock,79,56,0,135
+Lee,404,"Justice, Supreme Court P2",,DEM,Steven Kirkland,21,5,6,32
+Lee,404,"Justice, Supreme Court P4",,REP,John Devine,78,56,0,134
+Lee,404,"Justice, Supreme Court P4",,DEM,R.K. Sandill,21,5,6,32
+Lee,404,"Justice, Supreme Court P6",,REP,Jeff Brown,77,57,0,134
+Lee,404,"Justice, Supreme Court P6",,DEM,Kathy Cheng,21,5,6,32
+Lee,404,Presiding Criminal Appeals,,REP,David Bridges,48,27,0,75
+Lee,404,Presiding Criminal Appeals,,REP,Sharon Keller,35,29,0,64
+Lee,404,Presiding Criminal Appeals,,DEM,Maria T. Jackson,21,5,6,32
+Lee,404,"Judge, Court of Criminal Appeals P7",,REP,B. Parker Hervey,76,54,0,130
+Lee,404,"Judge, Court of Criminal Appeals P7",,DEM,Ramona Franklin,21,6,6,33
+Lee,404,"Judge, Court of Criminal Appeals P8",,REP,Jay Brandon,32,16,0,48
+Lee,404,"Judge, Court of Criminal Appeals P8",,REP,Dib Waldrip,15,8,0,23
+Lee,404,"Judge, Court of Criminal Appeals P8",,REP,Michelle Slaughter,31,26,0,57
+Lee,404,State Representative,17,REP,John P. Cyrier,82,60,0,142
+Lee,404,State Representative,17,DEM,Michelle Ryan,21,5,6,32
+Lee,404,Justice Court of Appeals D3 P2,,REP,C. Olson Bourland,74,56,0,130
+Lee,404,Justice Court of Appeals D3 P2,,DEM,Edward Smith,21,5,6,32
+Lee,404,Justice Court of Appeals D3 P3,,REP,Scott Field,74,57,0,131
+Lee,404,Justice Court of Appeals D3 P3,,DEM,Chari Kelly,21,5,6,32
+Lee,404,Justice Court of Appeals D3 P5,,REP,David Puryear,75,55,0,130
+Lee,404,Justice Court of Appeals D3 P5,,DEM,Thomas J. Baker,21,6,6,33
+Lee,404,Justice Court of Appeals D3 P6,,REP,Kristofer Monson,22,9,0,31
+Lee,404,Justice Court of Appeals D3 P6,,REP,Donna Davidson,23,15,0,38
+Lee,404,Justice Court of Appeals D3 P6,,REP,Jennifer S. Freel,12,8,0,20
+Lee,404,Justice Court of Appeals D3 P6,,REP,"Michael ""Mike"" Toth",17,18,0,35
+Lee,404,Justice Court of Appeals D3 P6,,DEM,Gisela D. Triana,21,5,6,32
+Lee,404,County Judge,,REP,Paul E Fischer,57,27,0,84
+Lee,404,County Judge,,REP,Michael R Morgan,55,41,0,96
+Lee,404,District Clerk,,REP,Lisa Teinert,88,64,0,152
+Lee,404,County Clerk,,REP,Sharon Blasig,86,62,0,148
+Lee,404,County Treasurer,,REP,S. Blasig Kessler,53,39,0,92
+Lee,404,County Treasurer,,REP,Melinda Krause,55,28,0,83
+Lee,404,County Commissioner Pct 4,,REP,Steven W. Knobloch,89,65,0,154
+Lee,404,Justice Peace P2,,REP,Michael York,85,60,0,145
+Lee,404,County Chairman,,REP,David Porter,80,57,0,137
+Lee,404,Proposition 1,,REP,YES,76,47,0,123
+Lee,404,Proposition 1,,REP,NO,19,13,0,32
+Lee,404,Proposition 2,,REP,YES,100,65,0,165
+Lee,404,Proposition 2,,REP,NO,6,1,0,7
+Lee,404,Proposition 3,,REP,YES,86,50,0,136
+Lee,404,Proposition 3,,REP,NO,16,13,0,29
+Lee,404,Proposition 4,,REP,YES,97,61,0,158
+Lee,404,Proposition 4,,REP,NO,6,3,0,9
+Lee,404,Proposition 5,,REP,YES,88,54,0,142
+Lee,404,Proposition 5,,REP,NO,18,11,0,29
+Lee,404,Proposition 6,,REP,YES,101,63,0,164
+Lee,404,Proposition 6,,REP,NO,5,3,0,8
+Lee,404,Proposition 7,,REP,YES,76,44,0,120
+Lee,404,Proposition 7,,REP,NO,27,21,0,48
+Lee,404,Proposition 8,,REP,YES,105,65,0,170
+Lee,404,Proposition 8,,REP,NO,3,2,0,5
+Lee,404,Proposition 9,,REP,YES,96,62,0,158
+Lee,404,Proposition 9,,REP,NO,10,4,0,14
+Lee,404,Proposition 10,,REP,YES,102,63,0,165
+Lee,404,Proposition 10,,REP,NO,5,2,0,7
+Lee,404,Proposition 11,,REP,YES,101,58,0,159
+Lee,404,Proposition 11,,REP,NO,7,7,0,14
+Lee,404,Proposition 1,,DEM,FOR,24,5,6,35
+Lee,404,Proposition 1,,DEM,AGAINST,1,0,0,1
+Lee,404,Proposition 2,,DEM,FOR,20,6,6,32
+Lee,404,Proposition 2,,DEM,AGAINST,3,0,0,3
+Lee,404,Proposition 3,,DEM,FOR,21,6,6,33
+Lee,404,Proposition 3,,DEM,AGAINST,3,0,0,3
+Lee,404,Proposition 4,,DEM,FOR,21,5,6,32
+Lee,404,Proposition 4,,DEM,AGAINST,2,0,0,2
+Lee,404,Proposition 5,,DEM,FOR,21,5,5,31
+Lee,404,Proposition 5,,DEM,AGAINST,3,0,1,4
+Lee,404,Proposition 6,,DEM,FOR,23,5,6,34
+Lee,404,Proposition 6,,DEM,AGAINST,1,0,0,1
+Lee,404,Proposition 7,,DEM,FOR,23,6,5,34
+Lee,404,Proposition 7,,DEM,AGAINST,1,0,1,2
+Lee,404,Proposition 8,,DEM,FOR,23,6,5,34
+Lee,404,Proposition 8,,DEM,AGAINST,2,0,1,3
+Lee,404,Proposition 9,,DEM,FOR,22,6,6,34
+Lee,404,Proposition 9,,DEM,AGAINST,2,0,0,2
+Lee,404,Proposition 10,,DEM,FOR,23,5,6,34
+Lee,404,Proposition 10,,DEM,AGAINST,2,0,0,2
+Lee,404,Proposition 11,,DEM,FOR,24,5,5,34
+Lee,404,Proposition 11,,DEM,AGAINST,1,0,1,2
+Lee,404,Proposition 12,,DEM,FOR,21,5,6,32
+Lee,404,Proposition 12,,DEM,AGAINST,3,0,0,3
+Lee,405,US Senator,,REP,Mary Miller,14,2,0,16
+Lee,405,US Senator,,REP,"Bruce Jacobson, Jr.",5,2,0,7
+Lee,405,US Senator,,REP,Ted Cruz,53,13,8,74
+Lee,405,US Senator,,REP,Stefano de Stefano,0,0,0,0
+Lee,405,US Senator,,REP,Geraldine Sam,0,0,0,0
+Lee,405,US Senator,,DEM,Edward Kimbrough,6,0,3,9
+Lee,405,US Senator,,DEM,Beto O'Rourke,6,0,0,6
+Lee,405,US Senator,,DEM,Sema Hernandez,4,0,0,4
+Lee,405,US Representative,17,REP,Bill Flores,59,14,8,81
+Lee,405,US Representative,17,DEM,Rick Kennedy,9,0,2,11
+Lee,405,US Representative,17,DEM,Dale Mantey,8,0,1,9
+Lee,405,Governor,,REP,Greg Abbott,64,16,8,88
+Lee,405,Governor,,REP,Barbara Krueger,8,1,0,9
+Lee,405,Governor,,REP,SECEDE Kilgore,1,0,0,1
+Lee,405,Governor,,DEM,Jeffrey Payne,3,0,0,3
+Lee,405,Governor,,DEM,Joe Mumbach,0,0,0,0
+Lee,405,Governor,,DEM,Adrian Ocegueda,1,0,0,1
+Lee,405,Governor,,DEM,"Cedric Davis, Sr.",1,0,0,1
+Lee,405,Governor,,DEM,Andrew White,6,0,3,9
+Lee,405,Governor,,DEM,Tom Wakely,0,0,0,0
+Lee,405,Governor,,DEM,James Jolly Clark,0,0,0,0
+Lee,405,Governor,,DEM,Lupe Valdez,1,0,0,1
+Lee,405,Governor,,DEM,Grady Yarbrough,3,0,0,3
+Lee,405,Lt. Governor,,REP,Scott Milder,25,3,0,28
+Lee,405,Lt. Governor,,REP,Dan Patrick,48,14,8,70
+Lee,405,Lt. Governor,,DEM,Mike Collier,11,0,3,14
+Lee,405,Lt. Governor,,DEM,Michael Cooper,5,0,0,5
+Lee,405,Attorney General,,REP,Ken Paxton,63,15,7,85
+Lee,405,Attorney General,,DEM,Justin Nelson,14,0,1,15
+Lee,405,Comptroller Public Accts,,REP,Glenn Hegar,59,13,7,79
+Lee,405,Comptroller Public Accts,,DEM,Tim Mahoney,7,0,3,10
+Lee,405,Comptroller Public Accts,,DEM,Joi Chevalier,7,0,0,7
+Lee,405,Commissioner Gen Land Office,,REP,Davey Edwards,6,2,0,8
+Lee,405,Commissioner Gen Land Office,,REP,Rick Range,2,1,0,3
+Lee,405,Commissioner Gen Land Office,,REP,George P. Bush,42,7,8,57
+Lee,405,Commissioner Gen Land Office,,REP,Jerry Patterson,17,6,0,23
+Lee,405,Commissioner Gen Land Office,,DEM,Tex Morgan,10,0,3,13
+Lee,405,Commissioner Gen Land Office,,DEM,Miguel Suazo,4,0,0,4
+Lee,405,Commissioner of Agriculture,,REP,Trey Blocker,16,5,2,23
+Lee,405,Commissioner of Agriculture,,REP,Jim Hogan,7,0,2,9
+Lee,405,Commissioner of Agriculture,,REP,Sid Miller,42,12,2,56
+Lee,405,Commissioner of Agriculture,,DEM,Kim Olson,14,0,2,16
+Lee,405,Railroad Commissioner,,REP,Weston Martinez,23,1,1,25
+Lee,405,Railroad Commissioner,,REP,Christi Craddick,41,16,7,64
+Lee,405,Railroad Commissioner,,DEM,Chris Spellmon,9,0,3,12
+Lee,405,Railroad Commissioner,,DEM,Roman McAllen,6,0,0,6
+Lee,405,"Justice, Supreme Court P2",,REP,Jimmy Blacklock,53,13,6,72
+Lee,405,"Justice, Supreme Court P2",,DEM,Steven Kirkland,12,0,3,15
+Lee,405,"Justice, Supreme Court P4",,REP,John Devine,53,13,5,71
+Lee,405,"Justice, Supreme Court P4",,DEM,R.K. Sandill,12,0,3,15
+Lee,405,"Justice, Supreme Court P6",,REP,Jeff Brown,53,13,6,72
+Lee,405,"Justice, Supreme Court P6",,DEM,Kathy Cheng,12,0,3,15
+Lee,405,Presiding Criminal Appeals,,REP,David Bridges,29,4,3,36
+Lee,405,Presiding Criminal Appeals,,REP,Sharon Keller,31,10,3,44
+Lee,405,Presiding Criminal Appeals,,DEM,Maria T. Jackson,11,0,3,14
+Lee,405,"Judge, Court of Criminal Appeals P7",,REP,B. Parker Hervey,52,10,5,67
+Lee,405,"Judge, Court of Criminal Appeals P7",,DEM,Ramona Franklin,11,0,3,14
+Lee,405,"Judge, Court of Criminal Appeals P8",,REP,Jay Brandon,14,6,2,22
+Lee,405,"Judge, Court of Criminal Appeals P8",,REP,Dib Waldrip,13,5,0,18
+Lee,405,"Judge, Court of Criminal Appeals P8",,REP,Michelle Slaughter,29,5,5,39
+Lee,405,State Representative,17,REP,John P. Cyrier,53,13,7,73
+Lee,405,State Representative,17,DEM,Michelle Ryan,11,0,3,14
+Lee,405,Justice Court of Appeals D3 P2,,REP,C. Olson Bourland,52,13,5,70
+Lee,405,Justice Court of Appeals D3 P2,,DEM,Edward Smith,11,0,3,14
+Lee,405,Justice Court of Appeals D3 P3,,REP,Scott Field,52,13,5,70
+Lee,405,Justice Court of Appeals D3 P3,,DEM,Chari Kelly,12,0,3,15
+Lee,405,Justice Court of Appeals D3 P5,,REP,David Puryear,50,12,5,67
+Lee,405,Justice Court of Appeals D3 P5,,DEM,Thomas J. Baker,11,0,3,14
+Lee,405,Justice Court of Appeals D3 P6,,REP,Kristofer Monson,7,1,0,8
+Lee,405,Justice Court of Appeals D3 P6,,REP,Donna Davidson,21,6,3,30
+Lee,405,Justice Court of Appeals D3 P6,,REP,Jennifer S. Freel,11,3,1,15
+Lee,405,Justice Court of Appeals D3 P6,,REP,"Michael ""Mike"" Toth",18,6,1,25
+Lee,405,Justice Court of Appeals D3 P6,,DEM,Gisela D. Triana,11,0,3,14
+Lee,405,County Judge,,REP,Paul E Fischer,37,13,5,55
+Lee,405,County Judge,,REP,Michael R Morgan,29,2,2,33
+Lee,405,District Clerk,,REP,Lisa Teinert,54,13,6,73
+Lee,405,County Clerk,,REP,Sharon Blasig,56,13,6,75
+Lee,405,County Treasurer,,REP,S. Blasig Kessler,36,5,5,46
+Lee,405,County Treasurer,,REP,Melinda Krause,28,9,2,39
+Lee,405,County Commissioner Pct 4,,REP,Steven W. Knobloch,54,13,7,74
+Lee,405,Justice Peace P3,,REP,Don Milburn,56,13,7,76
+Lee,405,Constable P3 Unexp,,REP,Farah Ramsey,59,10,6,75
+Lee,405,County Chairman,,REP,David Porter,51,13,6,70
+Lee,405,Proposition 1,,REP,YES,49,11,7,67
+Lee,405,Proposition 1,,REP,NO,20,6,0,26
+Lee,405,Proposition 2,,REP,YES,67,14,8,89
+Lee,405,Proposition 2,,REP,NO,5,3,0,8
+Lee,405,Proposition 3,,REP,YES,58,12,7,77
+Lee,405,Proposition 3,,REP,NO,12,5,0,17
+Lee,405,Proposition 4,,REP,YES,60,17,7,84
+Lee,405,Proposition 4,,REP,NO,9,0,0,9
+Lee,405,Proposition 5,,REP,YES,52,12,7,71
+Lee,405,Proposition 5,,REP,NO,20,5,0,25
+Lee,405,Proposition 6,,REP,YES,67,13,8,88
+Lee,405,Proposition 6,,REP,NO,7,3,0,10
+Lee,405,Proposition 7,,REP,YES,51,9,8,68
+Lee,405,Proposition 7,,REP,NO,21,6,0,27
+Lee,405,Proposition 8,,REP,YES,69,17,8,94
+Lee,405,Proposition 8,,REP,NO,4,0,0,4
+Lee,405,Proposition 9,,REP,YES,67,14,8,89
+Lee,405,Proposition 9,,REP,NO,5,3,0,8
+Lee,405,Proposition 10,,REP,YES,70,15,8,93
+Lee,405,Proposition 10,,REP,NO,3,2,0,5
+Lee,405,Proposition 11,,REP,YES,67,14,8,89
+Lee,405,Proposition 11,,REP,NO,7,3,0,10
+Lee,405,Proposition 1,,DEM,FOR,11,0,3,14
+Lee,405,Proposition 1,,DEM,AGAINST,3,0,0,3
+Lee,405,Proposition 2,,DEM,FOR,13,0,2,15
+Lee,405,Proposition 2,,DEM,AGAINST,3,0,0,3
+Lee,405,Proposition 3,,DEM,FOR,13,0,3,16
+Lee,405,Proposition 3,,DEM,AGAINST,2,0,0,2
+Lee,405,Proposition 4,,DEM,FOR,10,0,3,13
+Lee,405,Proposition 4,,DEM,AGAINST,5,0,0,5
+Lee,405,Proposition 5,,DEM,FOR,11,0,3,14
+Lee,405,Proposition 5,,DEM,AGAINST,4,0,0,4
+Lee,405,Proposition 6,,DEM,FOR,15,0,3,18
+Lee,405,Proposition 6,,DEM,AGAINST,1,0,0,1
+Lee,405,Proposition 7,,DEM,FOR,12,0,2,14
+Lee,405,Proposition 7,,DEM,AGAINST,3,0,0,3
+Lee,405,Proposition 8,,DEM,FOR,10,0,2,12
+Lee,405,Proposition 8,,DEM,AGAINST,4,0,0,4
+Lee,405,Proposition 9,,DEM,FOR,11,0,2,13
+Lee,405,Proposition 9,,DEM,AGAINST,6,0,0,6
+Lee,405,Proposition 10,,DEM,FOR,12,0,2,14
+Lee,405,Proposition 10,,DEM,AGAINST,3,0,0,3
+Lee,405,Proposition 11,,DEM,FOR,10,0,2,12
+Lee,405,Proposition 11,,DEM,AGAINST,6,0,0,6
+Lee,405,Proposition 12,,DEM,FOR,15,0,2,17
+Lee,405,Proposition 12,,DEM,AGAINST,1,0,0,1
