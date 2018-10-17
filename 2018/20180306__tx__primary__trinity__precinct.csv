@@ -1,5 +1,5 @@
 county,precinct,office,district,party,candidate,votes
-Trinity,Early,U.S. Senate,,DEM,Beto O'Rourke,64
+Trinity,EARLY,U.S. Senate,,DEM,Beto O'Rourke,64
 Trinity,1,U.S. Senate,,DEM,Beto O'Rourke,5
 Trinity,2,U.S. Senate,,DEM,Beto O'Rourke,2
 Trinity,3,U.S. Senate,,DEM,Beto O'Rourke,2
@@ -21,7 +21,7 @@ Trinity,19,U.S. Senate,,DEM,Beto O'Rourke,7
 Trinity,20,U.S. Senate,,DEM,Beto O'Rourke,1
 Trinity,21,U.S. Senate,,DEM,Beto O'Rourke,3
 Trinity,PROV,U.S. Senate,,DEM,Beto O'Rourke,1
-Trinity,Early,U.S. Senate,,DEM,Edward Kimbrough,33
+Trinity,EARLY,U.S. Senate,,DEM,Edward Kimbrough,33
 Trinity,1,U.S. Senate,,DEM,Edward Kimbrough,2
 Trinity,2,U.S. Senate,,DEM,Edward Kimbrough,1
 Trinity,3,U.S. Senate,,DEM,Edward Kimbrough,0
@@ -87,3 +87,994 @@ Trinity,19,U.S. House,8,DEM,Steven David,10
 Trinity,20,U.S. House,8,DEM,Steven David,2
 Trinity,21,U.S. House,8,DEM,Steven David,3
 Trinity,PROV,U.S. House,8,DEM,Steven David,2
+Trinity,EARLY,Governor,,DEM,Joe Mumbach,3
+Trinity,1,Governor,,DEM,Joe Mumbach,0
+Trinity,2,Governor,,DEM,Joe Mumbach,0
+Trinity,3,Governor,,DEM,Joe Mumbach,0
+Trinity,4,Governor,,DEM,Joe Mumbach,0
+Trinity,5,Governor,,DEM,Joe Mumbach,0
+Trinity,6,Governor,,DEM,Joe Mumbach,0
+Trinity,7,Governor,,DEM,Joe Mumbach,0
+Trinity,8,Governor,,DEM,Joe Mumbach,0
+Trinity,9,Governor,,DEM,Joe Mumbach,0
+Trinity,10,Governor,,DEM,Joe Mumbach,0
+Trinity,11,Governor,,DEM,Joe Mumbach,0
+Trinity,12,Governor,,DEM,Joe Mumbach,0
+Trinity,14,Governor,,DEM,Joe Mumbach,0
+Trinity,15,Governor,,DEM,Joe Mumbach,0
+Trinity,16,Governor,,DEM,Joe Mumbach,1
+Trinity,17,Governor,,DEM,Joe Mumbach,1
+Trinity,18,Governor,,DEM,Joe Mumbach,1
+Trinity,19,Governor,,DEM,Joe Mumbach,1
+Trinity,20,Governor,,DEM,Joe Mumbach,0
+Trinity,21,Governor,,DEM,Joe Mumbach,1
+Trinity,PROV & RES,Governor,,DEM,Joe Mumbach,0
+Trinity,EARLY,Governor,,DEM,Andrew White,60
+Trinity,1,Governor,,DEM,Andrew White,6
+Trinity,2,Governor,,DEM,Andrew White,2
+Trinity,3,Governor,,DEM,Andrew White,0
+Trinity,4,Governor,,DEM,Andrew White,0
+Trinity,5,Governor,,DEM,Andrew White,1
+Trinity,6,Governor,,DEM,Andrew White,0
+Trinity,7,Governor,,DEM,Andrew White,0
+Trinity,8,Governor,,DEM,Andrew White,0
+Trinity,9,Governor,,DEM,Andrew White,2
+Trinity,10,Governor,,DEM,Andrew White,0
+Trinity,11,Governor,,DEM,Andrew White,6
+Trinity,12,Governor,,DEM,Andrew White,0
+Trinity,14,Governor,,DEM,Andrew White,6
+Trinity,15,Governor,,DEM,Andrew White,1
+Trinity,16,Governor,,DEM,Andrew White,1
+Trinity,17,Governor,,DEM,Andrew White,8
+Trinity,18,Governor,,DEM,Andrew White,2
+Trinity,19,Governor,,DEM,Andrew White,4
+Trinity,20,Governor,,DEM,Andrew White,0
+Trinity,21,Governor,,DEM,Andrew White,0
+Trinity,PROV & RES,Governor,,DEM,Andrew White,1
+Trinity,EARLY,Governor,,DEM,Jeffrey Payne,9
+Trinity,1,Governor,,DEM,Jeffrey Payne,0
+Trinity,2,Governor,,DEM,Jeffrey Payne,0
+Trinity,3,Governor,,DEM,Jeffrey Payne,1
+Trinity,4,Governor,,DEM,Jeffrey Payne,0
+Trinity,5,Governor,,DEM,Jeffrey Payne,0
+Trinity,6,Governor,,DEM,Jeffrey Payne,0
+Trinity,7,Governor,,DEM,Jeffrey Payne,0
+Trinity,8,Governor,,DEM,Jeffrey Payne,0
+Trinity,9,Governor,,DEM,Jeffrey Payne,0
+Trinity,10,Governor,,DEM,Jeffrey Payne,0
+Trinity,11,Governor,,DEM,Jeffrey Payne,0
+Trinity,12,Governor,,DEM,Jeffrey Payne,0
+Trinity,14,Governor,,DEM,Jeffrey Payne,0
+Trinity,15,Governor,,DEM,Jeffrey Payne,0
+Trinity,16,Governor,,DEM,Jeffrey Payne,0
+Trinity,17,Governor,,DEM,Jeffrey Payne,0
+Trinity,18,Governor,,DEM,Jeffrey Payne,9
+Trinity,19,Governor,,DEM,Jeffrey Payne,0
+Trinity,20,Governor,,DEM,Jeffrey Payne,1
+Trinity,21,Governor,,DEM,Jeffrey Payne,0
+Trinity,PROV & RES,Governor,,DEM,Jeffrey Payne,0
+Trinity,EARLY,Governor,,DEM,Adrian Ocegueda,1
+Trinity,1,Governor,,DEM,Adrian Ocegueda,0
+Trinity,2,Governor,,DEM,Adrian Ocegueda,0
+Trinity,3,Governor,,DEM,Adrian Ocegueda,1
+Trinity,4,Governor,,DEM,Adrian Ocegueda,0
+Trinity,5,Governor,,DEM,Adrian Ocegueda,0
+Trinity,6,Governor,,DEM,Adrian Ocegueda,0
+Trinity,7,Governor,,DEM,Adrian Ocegueda,0
+Trinity,8,Governor,,DEM,Adrian Ocegueda,0
+Trinity,9,Governor,,DEM,Adrian Ocegueda,0
+Trinity,10,Governor,,DEM,Adrian Ocegueda,0
+Trinity,11,Governor,,DEM,Adrian Ocegueda,0
+Trinity,12,Governor,,DEM,Adrian Ocegueda,0
+Trinity,14,Governor,,DEM,Adrian Ocegueda,0
+Trinity,15,Governor,,DEM,Adrian Ocegueda,0
+Trinity,16,Governor,,DEM,Adrian Ocegueda,0
+Trinity,17,Governor,,DEM,Adrian Ocegueda,0
+Trinity,18,Governor,,DEM,Adrian Ocegueda,2
+Trinity,19,Governor,,DEM,Adrian Ocegueda,0
+Trinity,20,Governor,,DEM,Adrian Ocegueda,0
+Trinity,21,Governor,,DEM,Adrian Ocegueda,0
+Trinity,PROV & RES,Governor,,DEM,Adrian Ocegueda,0
+Trinity,EARLY,Governor,,DEM,Tom Wakely,5
+Trinity,1,Governor,,DEM,Tom Wakely,0
+Trinity,2,Governor,,DEM,Tom Wakely,0
+Trinity,3,Governor,,DEM,Tom Wakely,0
+Trinity,4,Governor,,DEM,Tom Wakely,0
+Trinity,5,Governor,,DEM,Tom Wakely,0
+Trinity,6,Governor,,DEM,Tom Wakely,0
+Trinity,7,Governor,,DEM,Tom Wakely,0
+Trinity,8,Governor,,DEM,Tom Wakely,0
+Trinity,9,Governor,,DEM,Tom Wakely,0
+Trinity,10,Governor,,DEM,Tom Wakely,0
+Trinity,11,Governor,,DEM,Tom Wakely,0
+Trinity,12,Governor,,DEM,Tom Wakely,0
+Trinity,14,Governor,,DEM,Tom Wakely,0
+Trinity,15,Governor,,DEM,Tom Wakely,0
+Trinity,16,Governor,,DEM,Tom Wakely,0
+Trinity,17,Governor,,DEM,Tom Wakely,0
+Trinity,18,Governor,,DEM,Tom Wakely,1
+Trinity,19,Governor,,DEM,Tom Wakely,1
+Trinity,20,Governor,,DEM,Tom Wakely,0
+Trinity,21,Governor,,DEM,Tom Wakely,0
+Trinity,PROV & RES,Governor,,DEM,Tom Wakely,0
+Trinity,EARLY,Governor,,DEM,Grady Yarbrough,9
+Trinity,1,Governor,,DEM,Grady Yarbrough,1
+Trinity,2,Governor,,DEM,Grady Yarbrough,0
+Trinity,3,Governor,,DEM,Grady Yarbrough,2
+Trinity,4,Governor,,DEM,Grady Yarbrough,0
+Trinity,5,Governor,,DEM,Grady Yarbrough,1
+Trinity,6,Governor,,DEM,Grady Yarbrough,0
+Trinity,7,Governor,,DEM,Grady Yarbrough,0
+Trinity,8,Governor,,DEM,Grady Yarbrough,0
+Trinity,9,Governor,,DEM,Grady Yarbrough,1
+Trinity,10,Governor,,DEM,Grady Yarbrough,1
+Trinity,11,Governor,,DEM,Grady Yarbrough,0
+Trinity,12,Governor,,DEM,Grady Yarbrough,0
+Trinity,14,Governor,,DEM,Grady Yarbrough,0
+Trinity,15,Governor,,DEM,Grady Yarbrough,0
+Trinity,16,Governor,,DEM,Grady Yarbrough,2
+Trinity,17,Governor,,DEM,Grady Yarbrough,1
+Trinity,18,Governor,,DEM,Grady Yarbrough,2
+Trinity,19,Governor,,DEM,Grady Yarbrough,0
+Trinity,20,Governor,,DEM,Grady Yarbrough,0
+Trinity,21,Governor,,DEM,Grady Yarbrough,0
+Trinity,PROV & RES,Governor,,DEM,Grady Yarbrough,0
+Trinity,EARLY,Governor,,DEM,James Jolly Clark,3
+Trinity,1,Governor,,DEM,James Jolly Clark,0
+Trinity,2,Governor,,DEM,James Jolly Clark,0
+Trinity,3,Governor,,DEM,James Jolly Clark,0
+Trinity,4,Governor,,DEM,James Jolly Clark,0
+Trinity,5,Governor,,DEM,James Jolly Clark,0
+Trinity,6,Governor,,DEM,James Jolly Clark,0
+Trinity,7,Governor,,DEM,James Jolly Clark,0
+Trinity,8,Governor,,DEM,James Jolly Clark,0
+Trinity,9,Governor,,DEM,James Jolly Clark,0
+Trinity,10,Governor,,DEM,James Jolly Clark,0
+Trinity,11,Governor,,DEM,James Jolly Clark,0
+Trinity,12,Governor,,DEM,James Jolly Clark,0
+Trinity,14,Governor,,DEM,James Jolly Clark,0
+Trinity,15,Governor,,DEM,James Jolly Clark,0
+Trinity,16,Governor,,DEM,James Jolly Clark,0
+Trinity,17,Governor,,DEM,James Jolly Clark,1
+Trinity,18,Governor,,DEM,James Jolly Clark,0
+Trinity,19,Governor,,DEM,James Jolly Clark,2
+Trinity,20,Governor,,DEM,James Jolly Clark,0
+Trinity,21,Governor,,DEM,James Jolly Clark,0
+Trinity,PROV & RES,Governor,,DEM,James Jolly Clark,0
+Trinity,EARLY,Governor,,DEM,Lupe Valdez,15
+Trinity,1,Governor,,DEM,Lupe Valdez,2
+Trinity,2,Governor,,DEM,Lupe Valdez,2
+Trinity,3,Governor,,DEM,Lupe Valdez,2
+Trinity,4,Governor,,DEM,Lupe Valdez,0
+Trinity,5,Governor,,DEM,Lupe Valdez,1
+Trinity,6,Governor,,DEM,Lupe Valdez,0
+Trinity,7,Governor,,DEM,Lupe Valdez,0
+Trinity,8,Governor,,DEM,Lupe Valdez,0
+Trinity,9,Governor,,DEM,Lupe Valdez,0
+Trinity,10,Governor,,DEM,Lupe Valdez,0
+Trinity,11,Governor,,DEM,Lupe Valdez,2
+Trinity,12,Governor,,DEM,Lupe Valdez,0
+Trinity,14,Governor,,DEM,Lupe Valdez,1
+Trinity,15,Governor,,DEM,Lupe Valdez,0
+Trinity,16,Governor,,DEM,Lupe Valdez,0
+Trinity,17,Governor,,DEM,Lupe Valdez,3
+Trinity,18,Governor,,DEM,Lupe Valdez,4
+Trinity,19,Governor,,DEM,Lupe Valdez,1
+Trinity,20,Governor,,DEM,Lupe Valdez,1
+Trinity,21,Governor,,DEM,Lupe Valdez,1
+Trinity,PROV & RES,Governor,,DEM,Lupe Valdez,0
+Trinity,EARLY,Governor,,DEM,Cedric Davis Sr.,10
+Trinity,1,Governor,,DEM,Cedric Davis Sr.,2
+Trinity,2,Governor,,DEM,Cedric Davis Sr.,0
+Trinity,3,Governor,,DEM,Cedric Davis Sr.,0
+Trinity,4,Governor,,DEM,Cedric Davis Sr.,0
+Trinity,5,Governor,,DEM,Cedric Davis Sr.,0
+Trinity,6,Governor,,DEM,Cedric Davis Sr.,0
+Trinity,7,Governor,,DEM,Cedric Davis Sr.,0
+Trinity,8,Governor,,DEM,Cedric Davis Sr.,0
+Trinity,9,Governor,,DEM,Cedric Davis Sr.,0
+Trinity,10,Governor,,DEM,Cedric Davis Sr.,0
+Trinity,11,Governor,,DEM,Cedric Davis Sr.,0
+Trinity,12,Governor,,DEM,Cedric Davis Sr.,0
+Trinity,14,Governor,,DEM,Cedric Davis Sr.,0
+Trinity,15,Governor,,DEM,Cedric Davis Sr.,0
+Trinity,16,Governor,,DEM,Cedric Davis Sr.,1
+Trinity,17,Governor,,DEM,Cedric Davis Sr.,2
+Trinity,18,Governor,,DEM,Cedric Davis Sr.,0
+Trinity,19,Governor,,DEM,Cedric Davis Sr.,0
+Trinity,20,Governor,,DEM,Cedric Davis Sr.,0
+Trinity,21,Governor,,DEM,Cedric Davis Sr.,0
+Trinity,PROV & RES,Governor,,DEM,Cedric Davis Sr.,0
+Trinity,EARLY,Lieutenant Governor,,DEM,Michael Cooper,51
+Trinity,1,Lieutenant Governor,,DEM,Michael Cooper,8
+Trinity,2,Lieutenant Governor,,DEM,Michael Cooper,2
+Trinity,3,Lieutenant Governor,,DEM,Michael Cooper,1
+Trinity,4,Lieutenant Governor,,DEM,Michael Cooper,0
+Trinity,5,Lieutenant Governor,,DEM,Michael Cooper,2
+Trinity,6,Lieutenant Governor,,DEM,Michael Cooper,0
+Trinity,7,Lieutenant Governor,,DEM,Michael Cooper,0
+Trinity,8,Lieutenant Governor,,DEM,Michael Cooper,0
+Trinity,9,Lieutenant Governor,,DEM,Michael Cooper,1
+Trinity,10,Lieutenant Governor,,DEM,Michael Cooper,0
+Trinity,11,Lieutenant Governor,,DEM,Michael Cooper,4
+Trinity,12,Lieutenant Governor,,DEM,Michael Cooper,0
+Trinity,14,Lieutenant Governor,,DEM,Michael Cooper,3
+Trinity,15,Lieutenant Governor,,DEM,Michael Cooper,1
+Trinity,16,Lieutenant Governor,,DEM,Michael Cooper,4
+Trinity,17,Lieutenant Governor,,DEM,Michael Cooper,10
+Trinity,18,Lieutenant Governor,,DEM,Michael Cooper,8
+Trinity,19,Lieutenant Governor,,DEM,Michael Cooper,3
+Trinity,20,Lieutenant Governor,,DEM,Michael Cooper,1
+Trinity,21,Lieutenant Governor,,DEM,Michael Cooper,1
+Trinity,PROV & RES,Lieutenant Governor,,DEM,Michael Cooper,0
+Trinity,EARLY,Lieutenant Governor,,DEM,Mike Collier,54
+Trinity,1,Lieutenant Governor,,DEM,Mike Collier,3
+Trinity,2,Lieutenant Governor,,DEM,Mike Collier,2
+Trinity,3,Lieutenant Governor,,DEM,Mike Collier,5
+Trinity,4,Lieutenant Governor,,DEM,Mike Collier,0
+Trinity,5,Lieutenant Governor,,DEM,Mike Collier,1
+Trinity,6,Lieutenant Governor,,DEM,Mike Collier,0
+Trinity,7,Lieutenant Governor,,DEM,Mike Collier,0
+Trinity,8,Lieutenant Governor,,DEM,Mike Collier,0
+Trinity,9,Lieutenant Governor,,DEM,Mike Collier,2
+Trinity,10,Lieutenant Governor,,DEM,Mike Collier,1
+Trinity,11,Lieutenant Governor,,DEM,Mike Collier,4
+Trinity,12,Lieutenant Governor,,DEM,Mike Collier,0
+Trinity,14,Lieutenant Governor,,DEM,Mike Collier,4
+Trinity,15,Lieutenant Governor,,DEM,Mike Collier,0
+Trinity,16,Lieutenant Governor,,DEM,Mike Collier,1
+Trinity,17,Lieutenant Governor,,DEM,Mike Collier,4
+Trinity,18,Lieutenant Governor,,DEM,Mike Collier,12
+Trinity,19,Lieutenant Governor,,DEM,Mike Collier,6
+Trinity,20,Lieutenant Governor,,DEM,Mike Collier,1
+Trinity,21,Lieutenant Governor,,DEM,Mike Collier,1
+Trinity,PROV & RES,Lieutenant Governor,,DEM,Mike Collier,1
+Trinity,EARLY,Attorney General,,DEM,Justin Nelson,98
+Trinity,1,Attorney General,,DEM,Justin Nelson,7
+Trinity,2,Attorney General,,DEM,Justin Nelson,4
+Trinity,3,Attorney General,,DEM,Justin Nelson,5
+Trinity,4,Attorney General,,DEM,Justin Nelson,0
+Trinity,5,Attorney General,,DEM,Justin Nelson,2
+Trinity,6,Attorney General,,DEM,Justin Nelson,0
+Trinity,7,Attorney General,,DEM,Justin Nelson,0
+Trinity,8,Attorney General,,DEM,Justin Nelson,0
+Trinity,9,Attorney General,,DEM,Justin Nelson,3
+Trinity,10,Attorney General,,DEM,Justin Nelson,0
+Trinity,11,Attorney General,,DEM,Justin Nelson,8
+Trinity,12,Attorney General,,DEM,Justin Nelson,0
+Trinity,14,Attorney General,,DEM,Justin Nelson,7
+Trinity,15,Attorney General,,DEM,Justin Nelson,0
+Trinity,16,Attorney General,,DEM,Justin Nelson,3
+Trinity,17,Attorney General,,DEM,Justin Nelson,9
+Trinity,18,Attorney General,,DEM,Justin Nelson,13
+Trinity,19,Attorney General,,DEM,Justin Nelson,10
+Trinity,20,Attorney General,,DEM,Justin Nelson,2
+Trinity,21,Attorney General,,DEM,Justin Nelson,3
+Trinity,PROV & RES,Attorney General,,DEM,Justin Nelson,2
+Trinity,EARLY,Comptroller of Public Accounts,,DEM,Joi Chevalier,55
+Trinity,1,Comptroller of Public Accounts,,DEM,Joi Chevalier,4
+Trinity,2,Comptroller of Public Accounts,,DEM,Joi Chevalier,2
+Trinity,3,Comptroller of Public Accounts,,DEM,Joi Chevalier,4
+Trinity,4,Comptroller of Public Accounts,,DEM,Joi Chevalier,0
+Trinity,5,Comptroller of Public Accounts,,DEM,Joi Chevalier,1
+Trinity,6,Comptroller of Public Accounts,,DEM,Joi Chevalier,0
+Trinity,7,Comptroller of Public Accounts,,DEM,Joi Chevalier,0
+Trinity,8,Comptroller of Public Accounts,,DEM,Joi Chevalier,0
+Trinity,9,Comptroller of Public Accounts,,DEM,Joi Chevalier,1
+Trinity,10,Comptroller of Public Accounts,,DEM,Joi Chevalier,0
+Trinity,11,Comptroller of Public Accounts,,DEM,Joi Chevalier,5
+Trinity,12,Comptroller of Public Accounts,,DEM,Joi Chevalier,0
+Trinity,14,Comptroller of Public Accounts,,DEM,Joi Chevalier,2
+Trinity,15,Comptroller of Public Accounts,,DEM,Joi Chevalier,1
+Trinity,16,Comptroller of Public Accounts,,DEM,Joi Chevalier,1
+Trinity,17,Comptroller of Public Accounts,,DEM,Joi Chevalier,9
+Trinity,18,Comptroller of Public Accounts,,DEM,Joi Chevalier,8
+Trinity,19,Comptroller of Public Accounts,,DEM,Joi Chevalier,5
+Trinity,20,Comptroller of Public Accounts,,DEM,Joi Chevalier,0
+Trinity,21,Comptroller of Public Accounts,,DEM,Joi Chevalier,1
+Trinity,PROV & RES,Comptroller of Public Accounts,,DEM,Joi Chevalier,2
+Trinity,EARLY,Comptroller of Public Accounts,,DEM,Tim Mahoney,54
+Trinity,1,Comptroller of Public Accounts,,DEM,Tim Mahoney,6
+Trinity,2,Comptroller of Public Accounts,,DEM,Tim Mahoney,2
+Trinity,3,Comptroller of Public Accounts,,DEM,Tim Mahoney,2
+Trinity,4,Comptroller of Public Accounts,,DEM,Tim Mahoney,0
+Trinity,5,Comptroller of Public Accounts,,DEM,Tim Mahoney,2
+Trinity,6,Comptroller of Public Accounts,,DEM,Tim Mahoney,0
+Trinity,7,Comptroller of Public Accounts,,DEM,Tim Mahoney,0
+Trinity,8,Comptroller of Public Accounts,,DEM,Tim Mahoney,0
+Trinity,9,Comptroller of Public Accounts,,DEM,Tim Mahoney,2
+Trinity,10,Comptroller of Public Accounts,,DEM,Tim Mahoney,1
+Trinity,11,Comptroller of Public Accounts,,DEM,Tim Mahoney,3
+Trinity,12,Comptroller of Public Accounts,,DEM,Tim Mahoney,0
+Trinity,14,Comptroller of Public Accounts,,DEM,Tim Mahoney,4
+Trinity,15,Comptroller of Public Accounts,,DEM,Tim Mahoney,0
+Trinity,16,Comptroller of Public Accounts,,DEM,Tim Mahoney,3
+Trinity,17,Comptroller of Public Accounts,,DEM,Tim Mahoney,5
+Trinity,18,Comptroller of Public Accounts,,DEM,Tim Mahoney,13
+Trinity,19,Comptroller of Public Accounts,,DEM,Tim Mahoney,5
+Trinity,20,Comptroller of Public Accounts,,DEM,Tim Mahoney,2
+Trinity,21,Comptroller of Public Accounts,,DEM,Tim Mahoney,2
+Trinity,PROV & RES,Comptroller of Public Accounts,,DEM,Tim Mahoney,0
+Trinity,EARLY,Commissioner of the General Land Office,,DEM,Miguel Suazo,61
+Trinity,1,Commissioner of the General Land Office,,DEM,Miguel Suazo,7
+Trinity,2,Commissioner of the General Land Office,,DEM,Miguel Suazo,3
+Trinity,3,Commissioner of the General Land Office,,DEM,Miguel Suazo,3
+Trinity,4,Commissioner of the General Land Office,,DEM,Miguel Suazo,0
+Trinity,5,Commissioner of the General Land Office,,DEM,Miguel Suazo,2
+Trinity,6,Commissioner of the General Land Office,,DEM,Miguel Suazo,0
+Trinity,7,Commissioner of the General Land Office,,DEM,Miguel Suazo,0
+Trinity,8,Commissioner of the General Land Office,,DEM,Miguel Suazo,0
+Trinity,9,Commissioner of the General Land Office,,DEM,Miguel Suazo,1
+Trinity,10,Commissioner of the General Land Office,,DEM,Miguel Suazo,0
+Trinity,11,Commissioner of the General Land Office,,DEM,Miguel Suazo,6
+Trinity,12,Commissioner of the General Land Office,,DEM,Miguel Suazo,0
+Trinity,14,Commissioner of the General Land Office,,DEM,Miguel Suazo,2
+Trinity,15,Commissioner of the General Land Office,,DEM,Miguel Suazo,0
+Trinity,16,Commissioner of the General Land Office,,DEM,Miguel Suazo,2
+Trinity,17,Commissioner of the General Land Office,,DEM,Miguel Suazo,9
+Trinity,18,Commissioner of the General Land Office,,DEM,Miguel Suazo,6
+Trinity,19,Commissioner of the General Land Office,,DEM,Miguel Suazo,7
+Trinity,20,Commissioner of the General Land Office,,DEM,Miguel Suazo,1
+Trinity,21,Commissioner of the General Land Office,,DEM,Miguel Suazo,3
+Trinity,PROV & RES,Commissioner of the General Land Office,,DEM,Miguel Suazo,1
+Trinity,EARLY,Commissioner of the General Land Office,,DEM,Tex Morgan,46
+Trinity,1,Commissioner of the General Land Office,,DEM,Tex Morgan,3
+Trinity,2,Commissioner of the General Land Office,,DEM,Tex Morgan,1
+Trinity,3,Commissioner of the General Land Office,,DEM,Tex Morgan,3
+Trinity,4,Commissioner of the General Land Office,,DEM,Tex Morgan,0
+Trinity,5,Commissioner of the General Land Office,,DEM,Tex Morgan,1
+Trinity,6,Commissioner of the General Land Office,,DEM,Tex Morgan,0
+Trinity,7,Commissioner of the General Land Office,,DEM,Tex Morgan,0
+Trinity,8,Commissioner of the General Land Office,,DEM,Tex Morgan,0
+Trinity,9,Commissioner of the General Land Office,,DEM,Tex Morgan,2
+Trinity,10,Commissioner of the General Land Office,,DEM,Tex Morgan,1
+Trinity,11,Commissioner of the General Land Office,,DEM,Tex Morgan,2
+Trinity,12,Commissioner of the General Land Office,,DEM,Tex Morgan,0
+Trinity,14,Commissioner of the General Land Office,,DEM,Tex Morgan,4
+Trinity,15,Commissioner of the General Land Office,,DEM,Tex Morgan,1
+Trinity,16,Commissioner of the General Land Office,,DEM,Tex Morgan,3
+Trinity,17,Commissioner of the General Land Office,,DEM,Tex Morgan,4
+Trinity,18,Commissioner of the General Land Office,,DEM,Tex Morgan,12
+Trinity,19,Commissioner of the General Land Office,,DEM,Tex Morgan,3
+Trinity,20,Commissioner of the General Land Office,,DEM,Tex Morgan,1
+Trinity,21,Commissioner of the General Land Office,,DEM,Tex Morgan,0
+Trinity,PROV & RES,Commissioner of the General Land Office,,DEM,Tex Morgan,
+Trinity,EARLY,Commissioner of Agriculture,,DEM,Kim Olson,99
+Trinity,1,Commissioner of Agriculture,,DEM,Kim Olson,7
+Trinity,2,Commissioner of Agriculture,,DEM,Kim Olson,4
+Trinity,3,Commissioner of Agriculture,,DEM,Kim Olson,5
+Trinity,4,Commissioner of Agriculture,,DEM,Kim Olson,0
+Trinity,5,Commissioner of Agriculture,,DEM,Kim Olson,2
+Trinity,6,Commissioner of Agriculture,,DEM,Kim Olson,0
+Trinity,7,Commissioner of Agriculture,,DEM,Kim Olson,0
+Trinity,8,Commissioner of Agriculture,,DEM,Kim Olson,0
+Trinity,9,Commissioner of Agriculture,,DEM,Kim Olson,3
+Trinity,10,Commissioner of Agriculture,,DEM,Kim Olson,0
+Trinity,11,Commissioner of Agriculture,,DEM,Kim Olson,8
+Trinity,12,Commissioner of Agriculture,,DEM,Kim Olson,0
+Trinity,14,Commissioner of Agriculture,,DEM,Kim Olson,7
+Trinity,15,Commissioner of Agriculture,,DEM,Kim Olson,0
+Trinity,16,Commissioner of Agriculture,,DEM,Kim Olson,4
+Trinity,17,Commissioner of Agriculture,,DEM,Kim Olson,12
+Trinity,18,Commissioner of Agriculture,,DEM,Kim Olson,14
+Trinity,19,Commissioner of Agriculture,,DEM,Kim Olson,9
+Trinity,20,Commissioner of Agriculture,,DEM,Kim Olson,2
+Trinity,21,Commissioner of Agriculture,,DEM,Kim Olson,3
+Trinity,PROV & RES,Commissioner of Agriculture,,DEM,Kim Olson,2
+Trinity,EARLY,Railroad Commissioner,,DEM,Roman McAllen,49
+Trinity,1,Railroad Commissioner,,DEM,Roman McAllen,4
+Trinity,2,Railroad Commissioner,,DEM,Roman McAllen,1
+Trinity,3,Railroad Commissioner,,DEM,Roman McAllen,2
+Trinity,4,Railroad Commissioner,,DEM,Roman McAllen,0
+Trinity,5,Railroad Commissioner,,DEM,Roman McAllen,1
+Trinity,6,Railroad Commissioner,,DEM,Roman McAllen,0
+Trinity,7,Railroad Commissioner,,DEM,Roman McAllen,0
+Trinity,8,Railroad Commissioner,,DEM,Roman McAllen,0
+Trinity,9,Railroad Commissioner,,DEM,Roman McAllen,1
+Trinity,10,Railroad Commissioner,,DEM,Roman McAllen,0
+Trinity,11,Railroad Commissioner,,DEM,Roman McAllen,4
+Trinity,12,Railroad Commissioner,,DEM,Roman McAllen,0
+Trinity,14,Railroad Commissioner,,DEM,Roman McAllen,5
+Trinity,15,Railroad Commissioner,,DEM,Roman McAllen,1
+Trinity,16,Railroad Commissioner,,DEM,Roman McAllen,2
+Trinity,17,Railroad Commissioner,,DEM,Roman McAllen,9
+Trinity,18,Railroad Commissioner,,DEM,Roman McAllen,6
+Trinity,19,Railroad Commissioner,,DEM,Roman McAllen,5
+Trinity,20,Railroad Commissioner,,DEM,Roman McAllen,1
+Trinity,21,Railroad Commissioner,,DEM,Roman McAllen,2
+Trinity,PROV & RES,Railroad Commissioner,,DEM,Roman McAllen,1
+Trinity,EARLY,Railroad Commissioner,,DEM,Chris Spellmon,55
+Trinity,1,Railroad Commissioner,,DEM,Chris Spellmon,5
+Trinity,2,Railroad Commissioner,,DEM,Chris Spellmon,3
+Trinity,3,Railroad Commissioner,,DEM,Chris Spellmon,4
+Trinity,4,Railroad Commissioner,,DEM,Chris Spellmon,0
+Trinity,5,Railroad Commissioner,,DEM,Chris Spellmon,2
+Trinity,6,Railroad Commissioner,,DEM,Chris Spellmon,0
+Trinity,7,Railroad Commissioner,,DEM,Chris Spellmon,0
+Trinity,8,Railroad Commissioner,,DEM,Chris Spellmon,0
+Trinity,9,Railroad Commissioner,,DEM,Chris Spellmon,2
+Trinity,10,Railroad Commissioner,,DEM,Chris Spellmon,1
+Trinity,11,Railroad Commissioner,,DEM,Chris Spellmon,3
+Trinity,12,Railroad Commissioner,,DEM,Chris Spellmon,0
+Trinity,14,Railroad Commissioner,,DEM,Chris Spellmon,1
+Trinity,15,Railroad Commissioner,,DEM,Chris Spellmon,0
+Trinity,16,Railroad Commissioner,,DEM,Chris Spellmon,3
+Trinity,17,Railroad Commissioner,,DEM,Chris Spellmon,3
+Trinity,18,Railroad Commissioner,,DEM,Chris Spellmon,12
+Trinity,19,Railroad Commissioner,,DEM,Chris Spellmon,5
+Trinity,20,Railroad Commissioner,,DEM,Chris Spellmon,1
+Trinity,21,Railroad Commissioner,,DEM,Chris Spellmon,0
+Trinity,PROV & RES,Railroad Commissioner,,DEM,Chris Spellmon,
+Trinity,EARLY,State Senate,3,DEM,Shirley Layton,100
+Trinity,1,State Senate,3,DEM,Shirley Layton,8
+Trinity,2,State Senate,3,DEM,Shirley Layton,4
+Trinity,3,State Senate,3,DEM,Shirley Layton,5
+Trinity,4,State Senate,3,DEM,Shirley Layton,0
+Trinity,5,State Senate,3,DEM,Shirley Layton,2
+Trinity,6,State Senate,3,DEM,Shirley Layton,0
+Trinity,7,State Senate,3,DEM,Shirley Layton,0
+Trinity,8,State Senate,3,DEM,Shirley Layton,0
+Trinity,9,State Senate,3,DEM,Shirley Layton,3
+Trinity,10,State Senate,3,DEM,Shirley Layton,0
+Trinity,11,State Senate,3,DEM,Shirley Layton,7
+Trinity,12,State Senate,3,DEM,Shirley Layton,0
+Trinity,14,State Senate,3,DEM,Shirley Layton,7
+Trinity,15,State Senate,3,DEM,Shirley Layton,0
+Trinity,16,State Senate,3,DEM,Shirley Layton,3
+Trinity,17,State Senate,3,DEM,Shirley Layton,12
+Trinity,18,State Senate,3,DEM,Shirley Layton,13
+Trinity,19,State Senate,3,DEM,Shirley Layton,10
+Trinity,20,State Senate,3,DEM,Shirley Layton,2
+Trinity,21,State Senate,3,DEM,Shirley Layton,3
+Trinity,PROV & RES,State Senate,3,DEM,Shirley Layton,2
+Trinity,EARLY,State Representative,57,DEM,Jason Rogers,96
+Trinity,1,State Representative,57,DEM,Jason Rogers,8
+Trinity,2,State Representative,57,DEM,Jason Rogers,4
+Trinity,3,State Representative,57,DEM,Jason Rogers,5
+Trinity,4,State Representative,57,DEM,Jason Rogers,0
+Trinity,5,State Representative,57,DEM,Jason Rogers,2
+Trinity,6,State Representative,57,DEM,Jason Rogers,0
+Trinity,7,State Representative,57,DEM,Jason Rogers,0
+Trinity,8,State Representative,57,DEM,Jason Rogers,0
+Trinity,9,State Representative,57,DEM,Jason Rogers,3
+Trinity,10,State Representative,57,DEM,Jason Rogers,0
+Trinity,11,State Representative,57,DEM,Jason Rogers,8
+Trinity,12,State Representative,57,DEM,Jason Rogers,0
+Trinity,14,State Representative,57,DEM,Jason Rogers,7
+Trinity,15,State Representative,57,DEM,Jason Rogers,0
+Trinity,16,State Representative,57,DEM,Jason Rogers,2
+Trinity,17,State Representative,57,DEM,Jason Rogers,11
+Trinity,18,State Representative,57,DEM,Jason Rogers,13
+Trinity,19,State Representative,57,DEM,Jason Rogers,10
+Trinity,20,State Representative,57,DEM,Jason Rogers,2
+Trinity,21,State Representative,57,DEM,Jason Rogers,3
+Trinity,PROV & RES,State Representative,57,DEM,Jason Rogers,2
+Trinity,EARLY,U.S. Senate,,REP,Bruce Jacobson Jr.,78
+Trinity,1,U.S. Senate,,REP,Bruce Jacobson Jr.,4
+Trinity,2,U.S. Senate,,REP,Bruce Jacobson Jr.,5
+Trinity,3,U.S. Senate,,REP,Bruce Jacobson Jr.,3
+Trinity,4,U.S. Senate,,REP,Bruce Jacobson Jr.,1
+Trinity,5,U.S. Senate,,REP,Bruce Jacobson Jr.,0
+Trinity,6,U.S. Senate,,REP,Bruce Jacobson Jr.,2
+Trinity,7,U.S. Senate,,REP,Bruce Jacobson Jr.,4
+Trinity,8,U.S. Senate,,REP,Bruce Jacobson Jr.,4
+Trinity,9,U.S. Senate,,REP,Bruce Jacobson Jr.,8
+Trinity,10,U.S. Senate,,REP,Bruce Jacobson Jr.,4
+Trinity,11,U.S. Senate,,REP,Bruce Jacobson Jr.,12
+Trinity,12,U.S. Senate,,REP,Bruce Jacobson Jr.,3
+Trinity,14,U.S. Senate,,REP,Bruce Jacobson Jr.,5
+Trinity,15,U.S. Senate,,REP,Bruce Jacobson Jr.,0
+Trinity,16,U.S. Senate,,REP,Bruce Jacobson Jr.,2
+Trinity,17,U.S. Senate,,REP,Bruce Jacobson Jr.,3
+Trinity,18,U.S. Senate,,REP,Bruce Jacobson Jr.,1
+Trinity,19,U.S. Senate,,REP,Bruce Jacobson Jr.,5
+Trinity,20,U.S. Senate,,REP,Bruce Jacobson Jr.,3
+Trinity,21,U.S. Senate,,REP,Bruce Jacobson Jr.,0
+Trinity,PROV & RES,U.S. Senate,,REP,Bruce Jacobson Jr.,1
+Trinity,EARLY,U.S. Senate,,REP,Ted Cruz,1171
+Trinity,1,U.S. Senate,,REP,Ted Cruz,99
+Trinity,2,U.S. Senate,,REP,Ted Cruz,57
+Trinity,3,U.S. Senate,,REP,Ted Cruz,47
+Trinity,4,U.S. Senate,,REP,Ted Cruz,36
+Trinity,5,U.S. Senate,,REP,Ted Cruz,17
+Trinity,6,U.S. Senate,,REP,Ted Cruz,48
+Trinity,7,U.S. Senate,,REP,Ted Cruz,57
+Trinity,8,U.S. Senate,,REP,Ted Cruz,80
+Trinity,9,U.S. Senate,,REP,Ted Cruz,129
+Trinity,10,U.S. Senate,,REP,Ted Cruz,58
+Trinity,11,U.S. Senate,,REP,Ted Cruz,162
+Trinity,12,U.S. Senate,,REP,Ted Cruz,23
+Trinity,14,U.S. Senate,,REP,Ted Cruz,47
+Trinity,15,U.S. Senate,,REP,Ted Cruz,26
+Trinity,16,U.S. Senate,,REP,Ted Cruz,46
+Trinity,17,U.S. Senate,,REP,Ted Cruz,23
+Trinity,18,U.S. Senate,,REP,Ted Cruz,5
+Trinity,19,U.S. Senate,,REP,Ted Cruz,141
+Trinity,20,U.S. Senate,,REP,Ted Cruz,15
+Trinity,21,U.S. Senate,,REP,Ted Cruz,51
+Trinity,PROV & RES,U.S. Senate,,REP,Ted Cruz,21
+Trinity,EARLY,U.S. Senate,,REP,Stefano de Stefano,16
+Trinity,1,U.S. Senate,,REP,Stefano de Stefano,0
+Trinity,2,U.S. Senate,,REP,Stefano de Stefano,1
+Trinity,3,U.S. Senate,,REP,Stefano de Stefano,2
+Trinity,4,U.S. Senate,,REP,Stefano de Stefano,1
+Trinity,5,U.S. Senate,,REP,Stefano de Stefano,0
+Trinity,6,U.S. Senate,,REP,Stefano de Stefano,0
+Trinity,7,U.S. Senate,,REP,Stefano de Stefano,0
+Trinity,8,U.S. Senate,,REP,Stefano de Stefano,0
+Trinity,9,U.S. Senate,,REP,Stefano de Stefano,0
+Trinity,10,U.S. Senate,,REP,Stefano de Stefano,0
+Trinity,11,U.S. Senate,,REP,Stefano de Stefano,0
+Trinity,12,U.S. Senate,,REP,Stefano de Stefano,1
+Trinity,14,U.S. Senate,,REP,Stefano de Stefano,0
+Trinity,15,U.S. Senate,,REP,Stefano de Stefano,0
+Trinity,16,U.S. Senate,,REP,Stefano de Stefano,2
+Trinity,17,U.S. Senate,,REP,Stefano de Stefano,5
+Trinity,18,U.S. Senate,,REP,Stefano de Stefano,0
+Trinity,19,U.S. Senate,,REP,Stefano de Stefano,3
+Trinity,20,U.S. Senate,,REP,Stefano de Stefano,0
+Trinity,21,U.S. Senate,,REP,Stefano de Stefano,0
+Trinity,PROV & RES,U.S. Senate,,REP,Stefano de Stefano,1
+Trinity,EARLY,U.S. Senate,,REP,Geraldine Sam,27
+Trinity,1,U.S. Senate,,REP,Geraldine Sam,0
+Trinity,2,U.S. Senate,,REP,Geraldine Sam,0
+Trinity,3,U.S. Senate,,REP,Geraldine Sam,1
+Trinity,4,U.S. Senate,,REP,Geraldine Sam,0
+Trinity,5,U.S. Senate,,REP,Geraldine Sam,1
+Trinity,6,U.S. Senate,,REP,Geraldine Sam,2
+Trinity,7,U.S. Senate,,REP,Geraldine Sam,1
+Trinity,8,U.S. Senate,,REP,Geraldine Sam,0
+Trinity,9,U.S. Senate,,REP,Geraldine Sam,4
+Trinity,10,U.S. Senate,,REP,Geraldine Sam,3
+Trinity,11,U.S. Senate,,REP,Geraldine Sam,3
+Trinity,12,U.S. Senate,,REP,Geraldine Sam,0
+Trinity,14,U.S. Senate,,REP,Geraldine Sam,0
+Trinity,15,U.S. Senate,,REP,Geraldine Sam,1
+Trinity,16,U.S. Senate,,REP,Geraldine Sam,1
+Trinity,17,U.S. Senate,,REP,Geraldine Sam,2
+Trinity,18,U.S. Senate,,REP,Geraldine Sam,0
+Trinity,19,U.S. Senate,,REP,Geraldine Sam,3
+Trinity,20,U.S. Senate,,REP,Geraldine Sam,0
+Trinity,21,U.S. Senate,,REP,Geraldine Sam,0
+Trinity,PROV & RES,U.S. Senate,,REP,Geraldine Sam,1
+Trinity,EARLY,U.S. Senate,,REP,Mary Miller,67
+Trinity,1,U.S. Senate,,REP,Mary Miller,6
+Trinity,2,U.S. Senate,,REP,Mary Miller,6
+Trinity,3,U.S. Senate,,REP,Mary Miller,2
+Trinity,4,U.S. Senate,,REP,Mary Miller,1
+Trinity,5,U.S. Senate,,REP,Mary Miller,1
+Trinity,6,U.S. Senate,,REP,Mary Miller,2
+Trinity,7,U.S. Senate,,REP,Mary Miller,6
+Trinity,8,U.S. Senate,,REP,Mary Miller,5
+Trinity,9,U.S. Senate,,REP,Mary Miller,7
+Trinity,10,U.S. Senate,,REP,Mary Miller,1
+Trinity,11,U.S. Senate,,REP,Mary Miller,14
+Trinity,12,U.S. Senate,,REP,Mary Miller,1
+Trinity,14,U.S. Senate,,REP,Mary Miller,1
+Trinity,15,U.S. Senate,,REP,Mary Miller,2
+Trinity,16,U.S. Senate,,REP,Mary Miller,7
+Trinity,17,U.S. Senate,,REP,Mary Miller,9
+Trinity,18,U.S. Senate,,REP,Mary Miller,0
+Trinity,19,U.S. Senate,,REP,Mary Miller,12
+Trinity,20,U.S. Senate,,REP,Mary Miller,5
+Trinity,21,U.S. Senate,,REP,Mary Miller,1
+Trinity,PROV & RES,U.S. Senate,,REP,Mary Miller,4
+Trinity,EARLY,U.S. House,8,REP,Kevin Brady,1155
+Trinity,1,U.S. House,8,REP,Kevin Brady,95
+Trinity,2,U.S. House,8,REP,Kevin Brady,59
+Trinity,3,U.S. House,8,REP,Kevin Brady,42
+Trinity,4,U.S. House,8,REP,Kevin Brady,33
+Trinity,5,U.S. House,8,REP,Kevin Brady,17
+Trinity,6,U.S. House,8,REP,Kevin Brady,46
+Trinity,7,U.S. House,8,REP,Kevin Brady,58
+Trinity,8,U.S. House,8,REP,Kevin Brady,75
+Trinity,9,U.S. House,8,REP,Kevin Brady,118
+Trinity,10,U.S. House,8,REP,Kevin Brady,51
+Trinity,11,U.S. House,8,REP,Kevin Brady,159
+Trinity,12,U.S. House,8,REP,Kevin Brady,24
+Trinity,14,U.S. House,8,REP,Kevin Brady,53
+Trinity,15,U.S. House,8,REP,Kevin Brady,27
+Trinity,16,U.S. House,8,REP,Kevin Brady,42
+Trinity,17,U.S. House,8,REP,Kevin Brady,31
+Trinity,18,U.S. House,8,REP,Kevin Brady,3
+Trinity,19,U.S. House,8,REP,Kevin Brady,134
+Trinity,20,U.S. House,8,REP,Kevin Brady,18
+Trinity,21,U.S. House,8,REP,Kevin Brady,47
+Trinity,PROV & RES,U.S. House,8,REP,Kevin Brady,21
+Trinity,EARLY,Governor,,REP,SECEDE Kilgore,29
+Trinity,1,Governor,,REP,SECEDE Kilgore,1
+Trinity,2,Governor,,REP,SECEDE Kilgore,2
+Trinity,3,Governor,,REP,SECEDE Kilgore,0
+Trinity,4,Governor,,REP,SECEDE Kilgore,2
+Trinity,5,Governor,,REP,SECEDE Kilgore,0
+Trinity,6,Governor,,REP,SECEDE Kilgore,3
+Trinity,7,Governor,,REP,SECEDE Kilgore,1
+Trinity,8,Governor,,REP,SECEDE Kilgore,0
+Trinity,9,Governor,,REP,SECEDE Kilgore,1
+Trinity,10,Governor,,REP,SECEDE Kilgore,0
+Trinity,11,Governor,,REP,SECEDE Kilgore,4
+Trinity,12,Governor,,REP,SECEDE Kilgore,0
+Trinity,14,Governor,,REP,SECEDE Kilgore,0
+Trinity,15,Governor,,REP,SECEDE Kilgore,0
+Trinity,16,Governor,,REP,SECEDE Kilgore,1
+Trinity,17,Governor,,REP,SECEDE Kilgore,5
+Trinity,18,Governor,,REP,SECEDE Kilgore,0
+Trinity,19,Governor,,REP,SECEDE Kilgore,3
+Trinity,20,Governor,,REP,SECEDE Kilgore,0
+Trinity,21,Governor,,REP,SECEDE Kilgore,1
+Trinity,PROV & RES,Governor,,REP,SECEDE Kilgore,1
+Trinity,EARLY,Governor,,REP,Greg Abbott,1242
+Trinity,1,Governor,,REP,Greg Abbott,103
+Trinity,2,Governor,,REP,Greg Abbott,63
+Trinity,3,Governor,,REP,Greg Abbott,49
+Trinity,4,Governor,,REP,Greg Abbott,37
+Trinity,5,Governor,,REP,Greg Abbott,18
+Trinity,6,Governor,,REP,Greg Abbott,44
+Trinity,7,Governor,,REP,Greg Abbott,65
+Trinity,8,Governor,,REP,Greg Abbott,87
+Trinity,9,Governor,,REP,Greg Abbott,146
+Trinity,10,Governor,,REP,Greg Abbott,60
+Trinity,11,Governor,,REP,Greg Abbott,171
+Trinity,12,Governor,,REP,Greg Abbott,25
+Trinity,14,Governor,,REP,Greg Abbott,51
+Trinity,15,Governor,,REP,Greg Abbott,27
+Trinity,16,Governor,,REP,Greg Abbott,50
+Trinity,17,Governor,,REP,Greg Abbott,25
+Trinity,18,Governor,,REP,Greg Abbott,6
+Trinity,19,Governor,,REP,Greg Abbott,150
+Trinity,20,Governor,,REP,Greg Abbott,20
+Trinity,21,Governor,,REP,Greg Abbott,48
+Trinity,PROV & RES,Governor,,REP,Greg Abbott,25
+Trinity,EARLY,Governor,,REP,Barbara Krueger,106
+Trinity,1,Governor,,REP,Barbara Krueger,10
+Trinity,2,Governor,,REP,Barbara Krueger,5
+Trinity,3,Governor,,REP,Barbara Krueger,5
+Trinity,4,Governor,,REP,Barbara Krueger,1
+Trinity,5,Governor,,REP,Barbara Krueger,2
+Trinity,6,Governor,,REP,Barbara Krueger,5
+Trinity,7,Governor,,REP,Barbara Krueger,4
+Trinity,8,Governor,,REP,Barbara Krueger,7
+Trinity,9,Governor,,REP,Barbara Krueger,7
+Trinity,10,Governor,,REP,Barbara Krueger,5
+Trinity,11,Governor,,REP,Barbara Krueger,23
+Trinity,12,Governor,,REP,Barbara Krueger,4
+Trinity,14,Governor,,REP,Barbara Krueger,1
+Trinity,15,Governor,,REP,Barbara Krueger,2
+Trinity,16,Governor,,REP,Barbara Krueger,6
+Trinity,17,Governor,,REP,Barbara Krueger,13
+Trinity,18,Governor,,REP,Barbara Krueger,0
+Trinity,19,Governor,,REP,Barbara Krueger,14
+Trinity,20,Governor,,REP,Barbara Krueger,5
+Trinity,21,Governor,,REP,Barbara Krueger,3
+Trinity,PROV & RES,Governor,,REP,Barbara Krueger,3
+Trinity,EARLY,Lieutenant Governor,,REP,Scott Milder,285
+Trinity,1,Lieutenant Governor,,REP,Scott Milder,28
+Trinity,2,Lieutenant Governor,,REP,Scott Milder,11
+Trinity,3,Lieutenant Governor,,REP,Scott Milder,13
+Trinity,4,Lieutenant Governor,,REP,Scott Milder,6
+Trinity,5,Lieutenant Governor,,REP,Scott Milder,4
+Trinity,6,Lieutenant Governor,,REP,Scott Milder,9
+Trinity,7,Lieutenant Governor,,REP,Scott Milder,10
+Trinity,8,Lieutenant Governor,,REP,Scott Milder,27
+Trinity,9,Lieutenant Governor,,REP,Scott Milder,40
+Trinity,10,Lieutenant Governor,,REP,Scott Milder,30
+Trinity,11,Lieutenant Governor,,REP,Scott Milder,51
+Trinity,12,Lieutenant Governor,,REP,Scott Milder,8
+Trinity,14,Lieutenant Governor,,REP,Scott Milder,4
+Trinity,15,Lieutenant Governor,,REP,Scott Milder,7
+Trinity,16,Lieutenant Governor,,REP,Scott Milder,12
+Trinity,17,Lieutenant Governor,,REP,Scott Milder,24
+Trinity,18,Lieutenant Governor,,REP,Scott Milder,3
+Trinity,19,Lieutenant Governor,,REP,Scott Milder,31
+Trinity,20,Lieutenant Governor,,REP,Scott Milder,5
+Trinity,21,Lieutenant Governor,,REP,Scott Milder,5
+Trinity,PROV & RES,Lieutenant Governor,,REP,Scott Milder,8
+Trinity,EARLY,Lieutenant Governor,,REP,Dan Patrick,1053
+Trinity,1,Lieutenant Governor,,REP,Dan Patrick,76
+Trinity,2,Lieutenant Governor,,REP,Dan Patrick,55
+Trinity,3,Lieutenant Governor,,REP,Dan Patrick,40
+Trinity,4,Lieutenant Governor,,REP,Dan Patrick,34
+Trinity,5,Lieutenant Governor,,REP,Dan Patrick,13
+Trinity,6,Lieutenant Governor,,REP,Dan Patrick,43
+Trinity,7,Lieutenant Governor,,REP,Dan Patrick,53
+Trinity,8,Lieutenant Governor,,REP,Dan Patrick,64
+Trinity,9,Lieutenant Governor,,REP,Dan Patrick,107
+Trinity,10,Lieutenant Governor,,REP,Dan Patrick,34
+Trinity,11,Lieutenant Governor,,REP,Dan Patrick,140
+Trinity,12,Lieutenant Governor,,REP,Dan Patrick,19
+Trinity,14,Lieutenant Governor,,REP,Dan Patrick,49
+Trinity,15,Lieutenant Governor,,REP,Dan Patrick,22
+Trinity,16,Lieutenant Governor,,REP,Dan Patrick,41
+Trinity,17,Lieutenant Governor,,REP,Dan Patrick,18
+Trinity,18,Lieutenant Governor,,REP,Dan Patrick,3
+Trinity,19,Lieutenant Governor,,REP,Dan Patrick,131
+Trinity,20,Lieutenant Governor,,REP,Dan Patrick,17
+Trinity,21,Lieutenant Governor,,REP,Dan Patrick,46
+Trinity,PROV & RES,Lieutenant Governor,,REP,Dan Patrick,19
+Trinity,EARLY,Attorney General,,REP,Ken Paxton,1137
+Trinity,1,Attorney General,,REP,Ken Paxton,94
+Trinity,2,Attorney General,,REP,Ken Paxton,58
+Trinity,3,Attorney General,,REP,Ken Paxton,46
+Trinity,4,Attorney General,,REP,Ken Paxton,32
+Trinity,5,Attorney General,,REP,Ken Paxton,14
+Trinity,6,Attorney General,,REP,Ken Paxton,42
+Trinity,7,Attorney General,,REP,Ken Paxton,50
+Trinity,8,Attorney General,,REP,Ken Paxton,74
+Trinity,9,Attorney General,,REP,Ken Paxton,124
+Trinity,10,Attorney General,,REP,Ken Paxton,51
+Trinity,11,Attorney General,,REP,Ken Paxton,154
+Trinity,12,Attorney General,,REP,Ken Paxton,23
+Trinity,14,Attorney General,,REP,Ken Paxton,47
+Trinity,15,Attorney General,,REP,Ken Paxton,27
+Trinity,16,Attorney General,,REP,Ken Paxton,40
+Trinity,17,Attorney General,,REP,Ken Paxton,30
+Trinity,18,Attorney General,,REP,Ken Paxton,3
+Trinity,19,Attorney General,,REP,Ken Paxton,137
+Trinity,20,Attorney General,,REP,Ken Paxton,17
+Trinity,21,Attorney General,,REP,Ken Paxton,45
+Trinity,PROV & RES,Attorney General,,REP,Ken Paxton,18
+Trinity,EARLY,Comptroller of Public Accounts,,REP,Glenn Hegar,1078
+Trinity,1,Comptroller of Public Accounts,,REP,Glenn Hegar,93
+Trinity,2,Comptroller of Public Accounts,,REP,Glenn Hegar,54
+Trinity,3,Comptroller of Public Accounts,,REP,Glenn Hegar,41
+Trinity,4,Comptroller of Public Accounts,,REP,Glenn Hegar,31
+Trinity,5,Comptroller of Public Accounts,,REP,Glenn Hegar,12
+Trinity,6,Comptroller of Public Accounts,,REP,Glenn Hegar,36
+Trinity,7,Comptroller of Public Accounts,,REP,Glenn Hegar,46
+Trinity,8,Comptroller of Public Accounts,,REP,Glenn Hegar,72
+Trinity,9,Comptroller of Public Accounts,,REP,Glenn Hegar,120
+Trinity,10,Comptroller of Public Accounts,,REP,Glenn Hegar,46
+Trinity,11,Comptroller of Public Accounts,,REP,Glenn Hegar,153
+Trinity,12,Comptroller of Public Accounts,,REP,Glenn Hegar,24
+Trinity,14,Comptroller of Public Accounts,,REP,Glenn Hegar,48
+Trinity,15,Comptroller of Public Accounts,,REP,Glenn Hegar,26
+Trinity,16,Comptroller of Public Accounts,,REP,Glenn Hegar,40
+Trinity,17,Comptroller of Public Accounts,,REP,Glenn Hegar,31
+Trinity,18,Comptroller of Public Accounts,,REP,Glenn Hegar,3
+Trinity,19,Comptroller of Public Accounts,,REP,Glenn Hegar,121
+Trinity,20,Comptroller of Public Accounts,,REP,Glenn Hegar,15
+Trinity,21,Comptroller of Public Accounts,,REP,Glenn Hegar,45
+Trinity,PROV & RES,Comptroller of Public Accounts,,REP,Glenn Hegar,17
+Trinity,EARLY,Commissioner of the General Land Office,,REP,Rick Range,98
+Trinity,1,Commissioner of the General Land Office,,REP,Rick Range,10
+Trinity,2,Commissioner of the General Land Office,,REP,Rick Range,2
+Trinity,3,Commissioner of the General Land Office,,REP,Rick Range,5
+Trinity,4,Commissioner of the General Land Office,,REP,Rick Range,6
+Trinity,5,Commissioner of the General Land Office,,REP,Rick Range,0
+Trinity,6,Commissioner of the General Land Office,,REP,Rick Range,2
+Trinity,7,Commissioner of the General Land Office,,REP,Rick Range,3
+Trinity,8,Commissioner of the General Land Office,,REP,Rick Range,2
+Trinity,9,Commissioner of the General Land Office,,REP,Rick Range,11
+Trinity,10,Commissioner of the General Land Office,,REP,Rick Range,5
+Trinity,11,Commissioner of the General Land Office,,REP,Rick Range,15
+Trinity,12,Commissioner of the General Land Office,,REP,Rick Range,4
+Trinity,14,Commissioner of the General Land Office,,REP,Rick Range,3
+Trinity,15,Commissioner of the General Land Office,,REP,Rick Range,1
+Trinity,16,Commissioner of the General Land Office,,REP,Rick Range,1
+Trinity,17,Commissioner of the General Land Office,,REP,Rick Range,7
+Trinity,18,Commissioner of the General Land Office,,REP,Rick Range,2
+Trinity,19,Commissioner of the General Land Office,,REP,Rick Range,8
+Trinity,20,Commissioner of the General Land Office,,REP,Rick Range,1
+Trinity,21,Commissioner of the General Land Office,,REP,Rick Range,3
+Trinity,PROV & RES,Commissioner of the General Land Office,,REP,Rick Range,1
+Trinity,EARLY,Commissioner of the General Land Office,,REP,George P. Bush,787
+Trinity,1,Commissioner of the General Land Office,,REP,George P. Bush,62
+Trinity,2,Commissioner of the General Land Office,,REP,George P. Bush,45
+Trinity,3,Commissioner of the General Land Office,,REP,George P. Bush,28
+Trinity,4,Commissioner of the General Land Office,,REP,George P. Bush,26
+Trinity,5,Commissioner of the General Land Office,,REP,George P. Bush,13
+Trinity,6,Commissioner of the General Land Office,,REP,George P. Bush,35
+Trinity,7,Commissioner of the General Land Office,,REP,George P. Bush,47
+Trinity,8,Commissioner of the General Land Office,,REP,George P. Bush,59
+Trinity,9,Commissioner of the General Land Office,,REP,George P. Bush,88
+Trinity,10,Commissioner of the General Land Office,,REP,George P. Bush,46
+Trinity,11,Commissioner of the General Land Office,,REP,George P. Bush,121
+Trinity,12,Commissioner of the General Land Office,,REP,George P. Bush,18
+Trinity,14,Commissioner of the General Land Office,,REP,George P. Bush,31
+Trinity,15,Commissioner of the General Land Office,,REP,George P. Bush,13
+Trinity,16,Commissioner of the General Land Office,,REP,George P. Bush,39
+Trinity,17,Commissioner of the General Land Office,,REP,George P. Bush,20
+Trinity,18,Commissioner of the General Land Office,,REP,George P. Bush,1
+Trinity,19,Commissioner of the General Land Office,,REP,George P. Bush,115
+Trinity,20,Commissioner of the General Land Office,,REP,George P. Bush,11
+Trinity,21,Commissioner of the General Land Office,,REP,George P. Bush,36
+Trinity,PROV & RES,Commissioner of the General Land Office,,REP,George P. Bush,18
+Trinity,EARLY,Commissioner of the General Land Office,,REP,Jerry Patterson,268
+Trinity,1,Commissioner of the General Land Office,,REP,Jerry Patterson,23
+Trinity,2,Commissioner of the General Land Office,,REP,Jerry Patterson,18
+Trinity,3,Commissioner of the General Land Office,,REP,Jerry Patterson,16
+Trinity,4,Commissioner of the General Land Office,,REP,Jerry Patterson,5
+Trinity,5,Commissioner of the General Land Office,,REP,Jerry Patterson,0
+Trinity,6,Commissioner of the General Land Office,,REP,Jerry Patterson,13
+Trinity,7,Commissioner of the General Land Office,,REP,Jerry Patterson,8
+Trinity,8,Commissioner of the General Land Office,,REP,Jerry Patterson,23
+Trinity,9,Commissioner of the General Land Office,,REP,Jerry Patterson,33
+Trinity,10,Commissioner of the General Land Office,,REP,Jerry Patterson,7
+Trinity,11,Commissioner of the General Land Office,,REP,Jerry Patterson,43
+Trinity,12,Commissioner of the General Land Office,,REP,Jerry Patterson,3
+Trinity,14,Commissioner of the General Land Office,,REP,Jerry Patterson,11
+Trinity,15,Commissioner of the General Land Office,,REP,Jerry Patterson,11
+Trinity,16,Commissioner of the General Land Office,,REP,Jerry Patterson,7
+Trinity,17,Commissioner of the General Land Office,,REP,Jerry Patterson,7
+Trinity,18,Commissioner of the General Land Office,,REP,Jerry Patterson,1
+Trinity,19,Commissioner of the General Land Office,,REP,Jerry Patterson,24
+Trinity,20,Commissioner of the General Land Office,,REP,Jerry Patterson,3
+Trinity,21,Commissioner of the General Land Office,,REP,Jerry Patterson,11
+Trinity,PROV & RES,Commissioner of the General Land Office,,REP,Jerry Patterson,5
+Trinity,EARLY,Commissioner of the General Land Office,,REP,Davey Edwards,121
+Trinity,1,Commissioner of the General Land Office,,REP,Davey Edwards,4
+Trinity,2,Commissioner of the General Land Office,,REP,Davey Edwards,1
+Trinity,3,Commissioner of the General Land Office,,REP,Davey Edwards,3
+Trinity,4,Commissioner of the General Land Office,,REP,Davey Edwards,1
+Trinity,5,Commissioner of the General Land Office,,REP,Davey Edwards,2
+Trinity,6,Commissioner of the General Land Office,,REP,Davey Edwards,1
+Trinity,7,Commissioner of the General Land Office,,REP,Davey Edwards,3
+Trinity,8,Commissioner of the General Land Office,,REP,Davey Edwards,4
+Trinity,9,Commissioner of the General Land Office,,REP,Davey Edwards,5
+Trinity,10,Commissioner of the General Land Office,,REP,Davey Edwards,2
+Trinity,11,Commissioner of the General Land Office,,REP,Davey Edwards,8
+Trinity,12,Commissioner of the General Land Office,,REP,Davey Edwards,3
+Trinity,14,Commissioner of the General Land Office,,REP,Davey Edwards,4
+Trinity,15,Commissioner of the General Land Office,,REP,Davey Edwards,3
+Trinity,16,Commissioner of the General Land Office,,REP,Davey Edwards,3
+Trinity,17,Commissioner of the General Land Office,,REP,Davey Edwards,8
+Trinity,18,Commissioner of the General Land Office,,REP,Davey Edwards,1
+Trinity,19,Commissioner of the General Land Office,,REP,Davey Edwards,6
+Trinity,20,Commissioner of the General Land Office,,REP,Davey Edwards,3
+Trinity,21,Commissioner of the General Land Office,,REP,Davey Edwards,0
+Trinity,PROV & RES,Commissioner of the General Land Office,,REP,Davey Edwards,1
+Trinity,EARLY,Commissioner of Agriculture,,REP,Jim Hogan,371
+Trinity,1,Commissioner of Agriculture,,REP,Jim Hogan,33
+Trinity,2,Commissioner of Agriculture,,REP,Jim Hogan,24
+Trinity,3,Commissioner of Agriculture,,REP,Jim Hogan,18
+Trinity,4,Commissioner of Agriculture,,REP,Jim Hogan,14
+Trinity,5,Commissioner of Agriculture,,REP,Jim Hogan,5
+Trinity,6,Commissioner of Agriculture,,REP,Jim Hogan,16
+Trinity,7,Commissioner of Agriculture,,REP,Jim Hogan,17
+Trinity,8,Commissioner of Agriculture,,REP,Jim Hogan,24
+Trinity,9,Commissioner of Agriculture,,REP,Jim Hogan,49
+Trinity,10,Commissioner of Agriculture,,REP,Jim Hogan,17
+Trinity,11,Commissioner of Agriculture,,REP,Jim Hogan,43
+Trinity,12,Commissioner of Agriculture,,REP,Jim Hogan,6
+Trinity,14,Commissioner of Agriculture,,REP,Jim Hogan,14
+Trinity,15,Commissioner of Agriculture,,REP,Jim Hogan,9
+Trinity,16,Commissioner of Agriculture,,REP,Jim Hogan,13
+Trinity,17,Commissioner of Agriculture,,REP,Jim Hogan,12
+Trinity,18,Commissioner of Agriculture,,REP,Jim Hogan,2
+Trinity,19,Commissioner of Agriculture,,REP,Jim Hogan,56
+Trinity,20,Commissioner of Agriculture,,REP,Jim Hogan,4
+Trinity,21,Commissioner of Agriculture,,REP,Jim Hogan,15
+Trinity,PROV & RES,Commissioner of Agriculture,,REP,Jim Hogan,9
+Trinity,EARLY,Commissioner of Agriculture,,REP,Trey Blocker,268
+Trinity,1,Commissioner of Agriculture,,REP,Trey Blocker,18
+Trinity,2,Commissioner of Agriculture,,REP,Trey Blocker,11
+Trinity,3,Commissioner of Agriculture,,REP,Trey Blocker,7
+Trinity,4,Commissioner of Agriculture,,REP,Trey Blocker,8
+Trinity,5,Commissioner of Agriculture,,REP,Trey Blocker,5
+Trinity,6,Commissioner of Agriculture,,REP,Trey Blocker,13
+Trinity,7,Commissioner of Agriculture,,REP,Trey Blocker,5
+Trinity,8,Commissioner of Agriculture,,REP,Trey Blocker,14
+Trinity,9,Commissioner of Agriculture,,REP,Trey Blocker,26
+Trinity,10,Commissioner of Agriculture,,REP,Trey Blocker,11
+Trinity,11,Commissioner of Agriculture,,REP,Trey Blocker,53
+Trinity,12,Commissioner of Agriculture,,REP,Trey Blocker,4
+Trinity,14,Commissioner of Agriculture,,REP,Trey Blocker,12
+Trinity,15,Commissioner of Agriculture,,REP,Trey Blocker,5
+Trinity,16,Commissioner of Agriculture,,REP,Trey Blocker,7
+Trinity,17,Commissioner of Agriculture,,REP,Trey Blocker,14
+Trinity,18,Commissioner of Agriculture,,REP,Trey Blocker,1
+Trinity,19,Commissioner of Agriculture,,REP,Trey Blocker,24
+Trinity,20,Commissioner of Agriculture,,REP,Trey Blocker,3
+Trinity,21,Commissioner of Agriculture,,REP,Trey Blocker,11
+Trinity,PROV & RES,Commissioner of Agriculture,,REP,Trey Blocker,7
+Trinity,EARLY,Commissioner of Agriculture,,REP,Sid Miller,529
+Trinity,1,Commissioner of Agriculture,,REP,Sid Miller,44
+Trinity,2,Commissioner of Agriculture,,REP,Sid Miller,30
+Trinity,3,Commissioner of Agriculture,,REP,Sid Miller,18
+Trinity,4,Commissioner of Agriculture,,REP,Sid Miller,9
+Trinity,5,Commissioner of Agriculture,,REP,Sid Miller,2
+Trinity,6,Commissioner of Agriculture,,REP,Sid Miller,12
+Trinity,7,Commissioner of Agriculture,,REP,Sid Miller,33
+Trinity,8,Commissioner of Agriculture,,REP,Sid Miller,34
+Trinity,9,Commissioner of Agriculture,,REP,Sid Miller,51
+Trinity,10,Commissioner of Agriculture,,REP,Sid Miller,23
+Trinity,11,Commissioner of Agriculture,,REP,Sid Miller,72
+Trinity,12,Commissioner of Agriculture,,REP,Sid Miller,17
+Trinity,14,Commissioner of Agriculture,,REP,Sid Miller,24
+Trinity,15,Commissioner of Agriculture,,REP,Sid Miller,13
+Trinity,16,Commissioner of Agriculture,,REP,Sid Miller,27
+Trinity,17,Commissioner of Agriculture,,REP,Sid Miller,11
+Trinity,18,Commissioner of Agriculture,,REP,Sid Miller,2
+Trinity,19,Commissioner of Agriculture,,REP,Sid Miller,53
+Trinity,20,Commissioner of Agriculture,,REP,Sid Miller,7
+Trinity,21,Commissioner of Agriculture,,REP,Sid Miller,20
+Trinity,PROV & RES,Commissioner of Agriculture,,REP,Sid Miller,8
+Trinity,EARLY,Railroad Commissioner,,REP,Christi Craddick,878
+Trinity,1,Railroad Commissioner,,REP,Christi Craddick,63
+Trinity,2,Railroad Commissioner,,REP,Christi Craddick,52
+Trinity,3,Railroad Commissioner,,REP,Christi Craddick,40
+Trinity,4,Railroad Commissioner,,REP,Christi Craddick,29
+Trinity,5,Railroad Commissioner,,REP,Christi Craddick,8
+Trinity,6,Railroad Commissioner,,REP,Christi Craddick,30
+Trinity,7,Railroad Commissioner,,REP,Christi Craddick,33
+Trinity,8,Railroad Commissioner,,REP,Christi Craddick,63
+Trinity,9,Railroad Commissioner,,REP,Christi Craddick,92
+Trinity,10,Railroad Commissioner,,REP,Christi Craddick,40
+Trinity,11,Railroad Commissioner,,REP,Christi Craddick,128
+Trinity,12,Railroad Commissioner,,REP,Christi Craddick,16
+Trinity,14,Railroad Commissioner,,REP,Christi Craddick,36
+Trinity,15,Railroad Commissioner,,REP,Christi Craddick,19
+Trinity,16,Railroad Commissioner,,REP,Christi Craddick,29
+Trinity,17,Railroad Commissioner,,REP,Christi Craddick,23
+Trinity,18,Railroad Commissioner,,REP,Christi Craddick,2
+Trinity,19,Railroad Commissioner,,REP,Christi Craddick,96
+Trinity,20,Railroad Commissioner,,REP,Christi Craddick,10
+Trinity,21,Railroad Commissioner,,REP,Christi Craddick,37
+Trinity,PROV & RES,Railroad Commissioner,,REP,Christi Craddick,21
+Trinity,EARLY,Railroad Commissioner,,REP,Weston Martinez,242
+Trinity,1,Railroad Commissioner,,REP,Weston Martinez,30
+Trinity,2,Railroad Commissioner,,REP,Weston Martinez,9
+Trinity,3,Railroad Commissioner,,REP,Weston Martinez,7
+Trinity,4,Railroad Commissioner,,REP,Weston Martinez,5
+Trinity,5,Railroad Commissioner,,REP,Weston Martinez,3
+Trinity,6,Railroad Commissioner,,REP,Weston Martinez,10
+Trinity,7,Railroad Commissioner,,REP,Weston Martinez,15
+Trinity,8,Railroad Commissioner,,REP,Weston Martinez,14
+Trinity,9,Railroad Commissioner,,REP,Weston Martinez,28
+Trinity,10,Railroad Commissioner,,REP,Weston Martinez,10
+Trinity,11,Railroad Commissioner,,REP,Weston Martinez,39
+Trinity,12,Railroad Commissioner,,REP,Weston Martinez,8
+Trinity,14,Railroad Commissioner,,REP,Weston Martinez,13
+Trinity,15,Railroad Commissioner,,REP,Weston Martinez,8
+Trinity,16,Railroad Commissioner,,REP,Weston Martinez,17
+Trinity,17,Railroad Commissioner,,REP,Weston Martinez,12
+Trinity,18,Railroad Commissioner,,REP,Weston Martinez,3
+Trinity,19,Railroad Commissioner,,REP,Weston Martinez,37
+Trinity,20,Railroad Commissioner,,REP,Weston Martinez,3
+Trinity,21,Railroad Commissioner,,REP,Weston Martinez,6
+Trinity,PROV & RES,Railroad Commissioner,,REP,Weston Martinez,5
+Trinity,EARLY,State Senate,3,REP,Robert Nichols,1069
+Trinity,1,State Senate,3,REP,Robert Nichols,85
+Trinity,2,State Senate,3,REP,Robert Nichols,50
+Trinity,3,State Senate,3,REP,Robert Nichols,39
+Trinity,4,State Senate,3,REP,Robert Nichols,30
+Trinity,5,State Senate,3,REP,Robert Nichols,8
+Trinity,6,State Senate,3,REP,Robert Nichols,37
+Trinity,7,State Senate,3,REP,Robert Nichols,48
+Trinity,8,State Senate,3,REP,Robert Nichols,67
+Trinity,9,State Senate,3,REP,Robert Nichols,115
+Trinity,10,State Senate,3,REP,Robert Nichols,47
+Trinity,11,State Senate,3,REP,Robert Nichols,144
+Trinity,12,State Senate,3,REP,Robert Nichols,23
+Trinity,14,State Senate,3,REP,Robert Nichols,48
+Trinity,15,State Senate,3,REP,Robert Nichols,25
+Trinity,16,State Senate,3,REP,Robert Nichols,38
+Trinity,17,State Senate,3,REP,Robert Nichols,28
+Trinity,18,State Senate,3,REP,Robert Nichols,3
+Trinity,19,State Senate,3,REP,Robert Nichols,127
+Trinity,20,State Senate,3,REP,Robert Nichols,10
+Trinity,21,State Senate,3,REP,Robert Nichols,45
+Trinity,PROV & RES,State Senate,3,REP,Robert Nichols,18
+Trinity,EARLY,State Representative,57,REP,Trent Ashby,1170
+Trinity,1,State Representative,57,REP,Trent Ashby,95
+Trinity,2,State Representative,57,REP,Trent Ashby,52
+Trinity,3,State Representative,57,REP,Trent Ashby,42
+Trinity,4,State Representative,57,REP,Trent Ashby,30
+Trinity,5,State Representative,57,REP,Trent Ashby,13
+Trinity,6,State Representative,57,REP,Trent Ashby,44
+Trinity,7,State Representative,57,REP,Trent Ashby,55
+Trinity,8,State Representative,57,REP,Trent Ashby,74
+Trinity,9,State Representative,57,REP,Trent Ashby,126
+Trinity,10,State Representative,57,REP,Trent Ashby,57
+Trinity,11,State Representative,57,REP,Trent Ashby,152
+Trinity,12,State Representative,57,REP,Trent Ashby,23
+Trinity,14,State Representative,57,REP,Trent Ashby,49
+Trinity,15,State Representative,57,REP,Trent Ashby,26
+Trinity,16,State Representative,57,REP,Trent Ashby,54
+Trinity,17,State Representative,57,REP,Trent Ashby,31
+Trinity,18,State Representative,57,REP,Trent Ashby,3
+Trinity,19,State Representative,57,REP,Trent Ashby,136
+Trinity,20,State Representative,57,REP,Trent Ashby,15
+Trinity,21,State Representative,57,REP,Trent Ashby,45
+Trinity,PROV & RES,State Representative,57,REP,Trent Ashby,20
+>>>>>>> 3f5c34eeb65b4cc9a6a36ddde24aaac76f511cbd
