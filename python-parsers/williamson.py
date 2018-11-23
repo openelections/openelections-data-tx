@@ -103,82 +103,86 @@ class DownloadWilliamson(CountyScraper):
         return all_candidates
 
 def main():
+    election_map = {'2014': {'e-id': '801607', 'date':'20141104'}}
     logging.basicConfig(format='%(asctime)s %(name)s |  %(message)s', level=logging.INFO)
     logger = logging.getLogger(__name__)
     wilco = DownloadWilliamson()
 
-    #Go to main URL
-    main_url = 'https://apps.wilco.org/elections/results/default.aspx?e=801607'
-    content = wilco.download(main_url)
+    for year in election_map.keys():
 
-    #Grab contest ids
-    logger.info('Parsing statewide')
-    parser = etree.HTMLParser(remove_blank_text=True)
-    tree = etree.fromstring(content, parser=parser)
-    elements = tree.findall(".//div[@class='contestBar']")
+        #Go to main URL
+        main_url = 'https://apps.wilco.org/elections/results/default.aspx?e={eid}'.format(eid=election_map[year]['e-id'])
+        content = wilco.download(main_url)
 
-    # Scrape candidates
-    all_candidates = wilco.scrape_candidates(tree)
+        #Grab contest ids
+        logger.info('Parsing statewide')
+        parser = etree.HTMLParser(remove_blank_text=True)
+        tree = etree.fromstring(content, parser=parser)
+        elements = tree.findall(".//div[@class='contestBar']")
 
-    all_ids = {}
-    for element in elements:
-        all_ids[element[0].attrib['id']] = element[0].text.rstrip()
+        # Scrape candidates
+        all_candidates = wilco.scrape_candidates(tree)
 
-    #Loop through contest ids to pull precinct level results
-    dfs = []
-    for id in all_ids.keys():
-        logger.info('Parsing {race}'.format(race=all_ids[id]))
-        contest_precinct_results = 'https://apps.wilco.org/elections/results/contest.aspx?c={id}&e=801607&t=0'.format(id=id)
-        logger.info(contest_precinct_results)
+        all_ids = {}
+        for element in elements:
+            all_ids[element[0].attrib['id']] = element[0].text.rstrip()
 
-        race_content = wilco.download(contest_precinct_results)
-        race_tree = etree.fromstring(race_content, parser=parser)
-        precinct_elements = race_tree.findall(".//div[@class='barWrap']")
-        results_elements = race_tree.findall(".//div[@class='resultAreaDiv']")
-        if (len(precinct_elements)) != (len(results_elements)):
-            logger.error('Results not equal')
-            return
+        #Loop through contest ids to pull precinct level results
+        dfs = []
+        for id in all_ids.keys():
+            logger.info('Parsing {race}'.format(race=all_ids[id]))
+            contest_precinct_results = 'https://apps.wilco.org/elections/results/contest.aspx?' \
+                                       'c={id}&e={eid}&t=0'.format(id=id, eid=election_map[year]['e-id'])
+            logger.info(contest_precinct_results)
 
-        all_race_results = []
-        for i in range(0, len(precinct_elements)):
-            race_results = {}
-            logger.info('Precint: {pct}'.format(pct=precinct_elements[i][0].attrib['id']))
-            race_results['Precinct'] = precinct_elements[i][0].attrib['id']
-            table = results_elements[i][0]
-            headerrows, bodyrows = wilco._parse_table(table)
-            headerrows = dict(zip(headerrows[0], range(len(headerrows[0]))))
+            race_content = wilco.download(contest_precinct_results)
+            race_tree = etree.fromstring(race_content, parser=parser)
+            precinct_elements = race_tree.findall(".//div[@class='barWrap']")
+            results_elements = race_tree.findall(".//div[@class='resultAreaDiv']")
+            if (len(precinct_elements)) != (len(results_elements)):
+                logger.error('Results not equal')
+                return
 
-            for row in bodyrows:
-                race_results = {'precinct': precinct_elements[i][0].attrib['id'],
-                                'party': all_candidates[row[headerrows['Candidate/Choice']]],
-                                'candidate': row[headerrows['Candidate/Choice']], 'votes': row[headerrows['Votes']]}
-                all_race_results.append(race_results)
+            all_race_results = []
+            for i in range(0, len(precinct_elements)):
+                race_results = {}
+                logger.info('Precint: {pct}'.format(pct=precinct_elements[i][0].attrib['id']))
+                race_results['Precinct'] = precinct_elements[i][0].attrib['id']
+                table = results_elements[i][0]
+                headerrows, bodyrows = wilco._parse_table(table)
+                headerrows = dict(zip(headerrows[0], range(len(headerrows[0]))))
 
-        df = pd.DataFrame(all_race_results)
+                for row in bodyrows:
+                    race_results = {'precinct': precinct_elements[i][0].attrib['id'],
+                                    'party': all_candidates[row[headerrows['Candidate/Choice']]],
+                                    'candidate': row[headerrows['Candidate/Choice']], 'votes': row[headerrows['Votes']]}
+                    all_race_results.append(race_results)
 
-        logger.info(list(df))
-        df['county'] = 'Williamson'
-        if all_ids[id] == 'United States Senator US REPRESENTATIVE DISTRICT 31':
-            office = 'United States Senator'
-        else:
-            office = all_ids[id]
+            df = pd.DataFrame(all_race_results)
 
-        office = office.split(', ')
-        df['office'] = office[0]
-        if len(office) == 2:
-            df['district'] = office[1]
-        else:
-            df['district'] = ''
+            logger.info(list(df))
+            df['county'] = 'Williamson'
+            if all_ids[id] == 'United States Senator US REPRESENTATIVE DISTRICT 31':
+                office = 'United States Senator'
+            else:
+                office = all_ids[id]
 
-        df['early_votes'] = 0
-        df['election_day'] = 0
-        print(list(df))
-        df = df[['county','precinct','office','district','party','candidate','votes','early_votes','election_day']]
-        dfs.append(df)
+            office = office.split(', ')
+            df['office'] = office[0]
+            if len(office) == 2:
+                df['district'] = office[1]
+            else:
+                df['district'] = ''
 
-    all_dfs = pd.concat(dfs, sort=True)
-    all_dfs = all_dfs[['county','precinct','office','district','party','candidate','votes','early_votes','election_day']]
-    all_dfs.to_csv('../2014/20141104__tx__general__williamson__precinct.csv', index=False)
+            df['early_votes'] = 0
+            df['election_day'] = 0
+            print(list(df))
+            df = df[['county','precinct','office','district','party','candidate','votes','early_votes','election_day']]
+            dfs.append(df)
+
+        all_dfs = pd.concat(dfs, sort=True)
+        all_dfs = all_dfs[['county','precinct','office','district','party','candidate','votes','early_votes','election_day']]
+        all_dfs.to_csv('../{year}/{date}__tx__general__williamson__precinct.csv'.format(year=year, date=election_map[year]['date']), index=False)
 
 def ensure_dir(file_path):
     if not os.path.exists(file_path):
