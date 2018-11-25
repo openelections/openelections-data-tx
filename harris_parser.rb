@@ -2,7 +2,11 @@ require 'remote_table'
 require 'roo-xls'
 require 'csv'
 
-offices = { 'President and Vice President' => 'President', 'Straight Party' => 'Straight Party', 'United States Representative' => 'U.S. House', 'Railroad Commissioner' => 'Railroad Commissioner', 'State Senator' => 'State Senate', 'State Representative' => 'State Representative'}
+offices = { 'President and Vice President' => 'President', 'United States Senator' => 'United States Senator',
+            'Lieutenant Governor' => 'Lieutenant Governor', 'Attorney General' => 'Attorney General',
+            'Governor' => 'Governor',
+            'Straight Party' => 'Straight Party',
+            'United States Representative' => 'U.S. House', 'Railroad Commissioner' => 'Railroad Commissioner', 'State Senator' => 'State Senate', 'State Representative' => 'State Representative'}
 
 results = []
 file = ARGV[0]
@@ -30,7 +34,7 @@ rows.each do |row|
         candidate = result.split(office).last.strip
       end
       if row[result] != ''
-          results << ['Harris', row['PCT'], office, district, candidate, row[result]]
+        results << ['Harris', row['PCT'], office, district, candidate, row[result], '']
       end
     end
   end
@@ -38,7 +42,7 @@ end
 
 filename = "%s/%s__tx__general__harris__precinct.csv" % [year, eday]
 CSV.open(filename, "w") do |csv|
-  csv << ['county', 'precinct', 'office', 'district', 'candidate', 'votes']
+  csv << ['county', 'precinct', 'office', 'district', 'candidate', 'votes', 'party']
   results.map{|r| csv << r}
 end
 
