@@ -5,8 +5,13 @@ require 'csv'
 offices = { 'President and Vice President' => 'President', 'Straight Party' => 'Straight Party', 'United States Representative' => 'U.S. House', 'Railroad Commissioner' => 'Railroad Commissioner', 'State Senator' => 'State Senate', 'State Representative' => 'State Representative'}
 
 results = []
+file = ARGV[0]
+year = ARGV[1]
+eday = ARGV[2]
 
-t = RemoteTable.new("/Users/DW-admin/code/openelections-sources-tx/2016/Harris\ County\ TX\ 2016\ general\ Total\ Landscape.xlsx")
+puts 'running harris parser with file: %s for year: %s' % [file, year]
+t = RemoteTable.new(file)
+puts 'opened file'
 rows = t.entries
 rows.each do |row|
   row.keys[11..-1].each do |result|
@@ -24,12 +29,17 @@ rows.each do |row|
         district = nil
         candidate = result.split(office).last.strip
       end
-      results << ['Harris', row['PCT'], office, district, candidate, row[result]]
+      if row[result] != ''
+          results << ['Harris', row['PCT'], office, district, candidate, row[result]]
+      end
     end
   end
 end
 
-CSV.open("harris_total.csv", "w") do |csv|
-  csv << ['county', 'precinct', 'office', 'district', 'candidate', 'absentee']
+filename = "%s/%s__tx__general__harris__precinct.csv" % [year, eday]
+CSV.open(filename, "w") do |csv|
+  csv << ['county', 'precinct', 'office', 'district', 'candidate', 'votes']
   results.map{|r| csv << r}
 end
+
+puts 'done parsing'
