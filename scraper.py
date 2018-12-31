@@ -1,6 +1,6 @@
 import requests
-from BeautifulSoup import BeautifulSoup
-import unicodecsv
+from bs4 import BeautifulSoup
+import csv
 
 def get_elections():
     r = requests.get('http://elections.sos.state.tx.us/index.htm')
@@ -42,33 +42,37 @@ def get_results(election_code, county=None, counties=None):
             elif "Criminal District Judge" in office:
                 district = None
             elif "District Judge" in office:
-                district = office.split('District Judge, ')[1]
+                district = office.split('District Judge, ')[1].strip()
                 office = 'District Judge'
+                district = district.strip()
             elif "Chief Justice" in office:
                 district = None
             elif "Justice" in office:
                 district = None
             elif "Judicial District" in office:
                 office, district = office.split(',')
+                district = district.strip()
             elif "Place" in office:
                 office, district = office.split(' Place ')
-                office = office.replace(",","")
+                office = office.replace(",","").strip()
+                district = district.strip()
             elif " District" in office:
                 office, district = office.split(' District ')
-                office = office.replace(",","")
+                office = office.replace(",","").strip()
+                district = district.strip()
             else:
                 district = None
         elif len(cells) == 2:
-            r = [office, district, 'Total', None, None, cells[1].replace(',',''), None]
+            r = [office.strip(), district, 'Total', None, None, cells[1].replace(',',''), None]
             if county:
-                county_name = (c['name'] for c in counties if c['id'] == county).next()
-                r.insert(0, county_name)
+                county_name = next((c['name'] for c in counties if c['id'] == county))
+                r.insert(0, county_name.strip())
             results.append(r)
         elif len(cells) == 3:
-            r = [office, district, cells[0], None, None, cells[1].replace(',',''), cells[2].replace('%','')]
+            r = [office.strip(), district, cells[0], None, None, cells[1].replace(',',''), cells[2].replace('%','')]
             if county:
-                county_name = (c['name'] for c in counties if c['id'] == county).next()
-                r.insert(0, county_name)
+                county_name = next((c['name'] for c in counties if c['id'] == county))
+                r.insert(0, county_name.strip())
             results.append(r)
         else:
             candidate = cells[0]
@@ -80,24 +84,24 @@ def get_results(election_code, county=None, counties=None):
             party = cells[1]
             votes = cells[2].replace(',','')
             pct = cells[3].replace('%','')
-            r = [office, district, candidate, incumbent, party, votes, pct]
+            r = [office.strip(), district, candidate, incumbent, party, votes, pct]
             if county:
-                county_name = (c['name'] for c in counties if c['id'] == county).next()
-                r.insert(0, county_name)
+                county_name = next((c['name'] for c in counties if c['id'] == county))
+                r.insert(0, county_name.strip())
             results.append(r)
     return results
 
 def statewide_results(code, filename):
-    with open(filename, 'wb') as csvfile:
-        w = unicodecsv.writer(csvfile, encoding='utf-8')
+    with open(filename, 'wt') as csvfile:
+        w = csv.writer(csvfile)
         w.writerow(['office', 'district', 'candidate', 'incumbent', 'party', 'votes', 'pct'])
         results = get_results(code, county=False)
         for result in results:
             w.writerow(result)
 
 def county_results(code, filename):
-    with open(filename, 'wb') as csvfile:
-        w = unicodecsv.writer(csvfile, encoding='utf-8')
+    with open(filename, 'wt') as csvfile:
+        w = csv.writer(csvfile)
         w.writerow(['county', 'office', 'district', 'candidate', 'incumbent', 'party', 'votes', 'pct'])
         counties = get_counties()
         county_list = get_countylist(code)
