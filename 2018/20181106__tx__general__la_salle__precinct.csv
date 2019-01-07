@@ -5,9 +5,9 @@ La Salle,1,Straight Party,,LIB,1082,462,233,1,0,0,0,0,266,0,138,0,196,1,95,1,1
 La Salle,1,United States Senator,,REP,1082,462,6,0,0,0,0,0,266,159,2,0,196,87,4,0,246
 La Salle,1,United States Senator,,DEM,1082,462,6,0,0,0,0,0,266,105,2,0,196,105,4,0,210
 La Salle,1,United States Senator,,LIB,1082,462,6,0,0,0,0,0,266,0,2,0,196,0,4,0,0
-La Salle,1,"United States Representative, District 23",,REP,1082,462,5,0,0,0,0,0,266,160,3,0,196,82,2,0,242
-La Salle,1,"United States Representative, District 23",,DEM,1082,462,5,0,0,0,0,0,266,103,3,0,196,109,2,0,212
-La Salle,1,"United States Representative, District 23",,LIB,1082,462,5,0,0,0,0,0,266,0,3,0,196,3,2,0,3
+La Salle,1,United States Representative,23,REP,1082,462,5,0,0,0,0,0,266,160,3,0,196,82,2,0,242
+La Salle,1,United States Representative,23,DEM,1082,462,5,0,0,0,0,0,266,103,3,0,196,109,2,0,212
+La Salle,1,United States Representative,23,LIB,1082,462,5,0,0,0,0,0,266,0,3,0,196,3,2,0,3
 La Salle,1,Governor,,REP,1082,462,11,0,0,0,0,0,266,170,3,0,196,99,8,0,269
 La Salle,1,Governor,,DEM,1082,462,11,0,0,0,0,0,266,92,3,0,196,88,8,0,180
 La Salle,1,Governor,,LIB,1082,462,11,0,0,0,0,0,266,1,3,0,196,1,8,0,2
@@ -42,7 +42,7 @@ La Salle,1,"Judge, Court of Criminal Appeals, Place 7",,REP,1082,462,38,0,0,0,0,
 La Salle,1,"Judge, Court of Criminal Appeals, Place 7",,DEM,1082,462,38,0,0,0,0,0,266,103,22,0,196,101,16,0,204
 La Salle,1,"Judge, Court of Criminal Appeals, Place 8",,REP,1082,462,153,0,0,0,0,0,266,158,82,0,196,93,71,0,251
 La Salle,1,"Judge, Court of Criminal Appeals, Place 8",,LIB,1082,462,153,0,0,0,0,0,266,26,82,0,196,32,71,0,58
-La Salle,1,"State Representative, District No. 31",,DEM,1082,462,174,0,0,0,0,0,266,163,103,0,196,125,71,0,288
+La Salle,1,State Representative,31,DEM,1082,462,174,0,0,0,0,0,266,163,103,0,196,125,71,0,288
 La Salle,1,"Justice, 4th Court of Appeals District, Place No. 2",,REP,1082,462,38,0,0,0,0,0,266,147,20,0,196,74,18,0,221
 La Salle,1,"Justice, 4th Court of Appeals District, Place No. 2",,DEM,1082,462,38,0,0,0,0,0,266,99,20,0,196,104,18,0,203
 La Salle,1,"Justice, 4th Court of Appeals District, Place No. 3",,REP,1082,462,36,0,0,0,0,0,266,142,20,0,196,74,16,0,216
@@ -66,8 +66,8 @@ La Salle,2,Straight Party,,LIB,649,192,86,0,0,0,0,0,51,0,18,0,141,1,68,0,1
 La Salle,2,United States Senator,,REP,649,192,0,0,0,0,0,0,51,16,0,0,141,41,0,0,57
 La Salle,2,United States Senator,,DEM,649,192,0,0,0,0,0,0,51,35,0,0,141,100,0,0,135
 La Salle,2,United States Senator,,LIB,649,192,0,0,0,0,0,0,51,0,0,0,141,0,0,0,0
-La Salle,2,"United States Representative, District 28",,DEM,649,192,19,0,0,0,0,0,51,45,4,0,141,117,15,0,162
-La Salle,2,"United States Representative, District 28",,LIB,649,192,19,0,0,0,0,0,51,2,4,0,141,9,15,0,11
+La Salle,2,United States Representative,28,DEM,649,192,19,0,0,0,0,0,51,45,4,0,141,117,15,0,162
+La Salle,2,United States Representative,28,LIB,649,192,19,0,0,0,0,0,51,2,4,0,141,9,15,0,11
 La Salle,2,Governor,,REP,649,192,8,1,0,0,0,0,51,18,1,0,141,55,7,1,73
 La Salle,2,Governor,,DEM,649,192,8,1,0,0,0,0,51,31,1,0,141,77,7,1,108
 La Salle,2,Governor,,LIB,649,192,8,1,0,0,0,0,51,1,1,0,141,1,7,1,2
@@ -102,7 +102,7 @@ La Salle,2,"Judge, Court of Criminal Appeals, Place 7",,REP,649,192,19,0,0,0,0,0
 La Salle,2,"Judge, Court of Criminal Appeals, Place 7",,DEM,649,192,19,0,0,0,0,0,51,34,3,0,141,86,16,0,120
 La Salle,2,"Judge, Court of Criminal Appeals, Place 8",,REP,649,192,98,0,0,0,0,0,51,15,26,0,141,52,72,0,67
 La Salle,2,"Judge, Court of Criminal Appeals, Place 8",,LIB,649,192,98,0,0,0,0,0,51,10,26,0,141,17,72,0,27
-La Salle,2,"State Representative, District No. 31",,DEM,649,192,49,0,0,0,0,0,51,40,11,0,141,103,38,0,143
+La Salle,2,State Representative,31,DEM,649,192,49,0,0,0,0,0,51,40,11,0,141,103,38,0,143
 La Salle,2,"Justice, 4th Court of Appeals District, Place No. 2",,REP,649,192,22,0,0,0,0,0,51,12,4,0,141,42,18,0,54
 La Salle,2,"Justice, 4th Court of Appeals District, Place No. 2",,DEM,649,192,22,0,0,0,0,0,51,35,4,0,141,81,18,0,116
 La Salle,2,"Justice, 4th Court of Appeals District, Place No. 3",,REP,649,192,17,0,0,0,0,0,51,13,3,0,141,34,14,0,47
@@ -127,9 +127,9 @@ La Salle,3,Straight Party,,LIB,1044,301,125,0,0,0,0,0,175,2,72,0,126,0,53,0,2
 La Salle,3,United States Senator,,REP,1044,301,1,0,0,0,0,0,175,63,0,0,126,41,1,0,104
 La Salle,3,United States Senator,,DEM,1044,301,1,0,0,0,0,0,175,112,0,0,126,84,1,0,196
 La Salle,3,United States Senator,,LIB,1044,301,1,0,0,0,0,0,175,0,0,0,126,0,1,0,0
-La Salle,3,"United States Representative, District 23",,REP,1044,301,5,0,0,0,0,0,175,60,2,0,126,34,3,0,94
-La Salle,3,"United States Representative, District 23",,DEM,1044,301,5,0,0,0,0,0,175,111,2,0,126,88,3,0,199
-La Salle,3,"United States Representative, District 23",,LIB,1044,301,5,0,0,0,0,0,175,2,2,0,126,1,3,0,3
+La Salle,3,United States Representative,23,REP,1044,301,5,0,0,0,0,0,175,60,2,0,126,34,3,0,94
+La Salle,3,United States Representative,23,DEM,1044,301,5,0,0,0,0,0,175,111,2,0,126,88,3,0,199
+La Salle,3,United States Representative,23,LIB,1044,301,5,0,0,0,0,0,175,2,2,0,126,1,3,0,3
 La Salle,3,Governor,,REP,1044,301,7,0,0,0,0,0,175,67,1,0,126,40,6,0,107
 La Salle,3,Governor,,DEM,1044,301,7,0,0,0,0,0,175,107,1,0,126,79,6,0,186
 La Salle,3,Governor,,LIB,1044,301,7,0,0,0,0,0,175,0,1,0,126,1,6,0,1
@@ -164,7 +164,7 @@ La Salle,3,"Judge, Court of Criminal Appeals, Place 7",,REP,1044,301,20,0,0,0,0,
 La Salle,3,"Judge, Court of Criminal Appeals, Place 7",,DEM,1044,301,20,0,0,0,0,0,175,113,6,0,126,79,14,0,192
 La Salle,3,"Judge, Court of Criminal Appeals, Place 8",,REP,1044,301,142,0,0,0,0,0,175,63,78,0,126,43,64,0,106
 La Salle,3,"Judge, Court of Criminal Appeals, Place 8",,LIB,1044,301,142,0,0,0,0,0,175,34,78,0,126,19,64,0,53
-La Salle,3,"State Representative, District No. 31",,DEM,1044,301,90,0,0,0,0,0,175,120,55,0,126,91,35,0,211
+La Salle,3,State Representative,31,DEM,1044,301,90,0,0,0,0,0,175,120,55,0,126,91,35,0,211
 La Salle,3,"Justice, 4th Court of Appeals District, Place No. 2",,REP,1044,301,25,0,0,0,0,0,175,55,8,0,126,32,17,0,87
 La Salle,3,"Justice, 4th Court of Appeals District, Place No. 2",,DEM,1044,301,25,0,0,0,0,0,175,112,8,0,126,77,17,0,189
 La Salle,3,"Justice, 4th Court of Appeals District, Place No. 3",,REP,1044,301,20,0,0,0,0,0,175,50,7,0,126,33,13,0,83
@@ -188,8 +188,8 @@ La Salle,3A,Straight Party,,LIB,16,9,5,0,0,0,0,0,6,0,2,0,3,0,3,0,0
 La Salle,3A,United States Senator,,REP,16,9,0,0,0,0,0,0,6,6,0,0,3,2,0,0,8
 La Salle,3A,United States Senator,,DEM,16,9,0,0,0,0,0,0,6,0,0,0,3,1,0,0,1
 La Salle,3A,United States Senator,,LIB,16,9,0,0,0,0,0,0,6,0,0,0,3,0,0,0,0
-La Salle,3A,"United States Representative, District 28",,DEM,16,9,3,0,0,0,0,0,6,2,3,0,3,1,0,0,3
-La Salle,3A,"United States Representative, District 28",,LIB,16,9,3,0,0,0,0,0,6,1,3,0,3,2,0,0,3
+La Salle,3A,United States Representative,28,DEM,16,9,3,0,0,0,0,0,6,2,3,0,3,1,0,0,3
+La Salle,3A,United States Representative,28,LIB,16,9,3,0,0,0,0,0,6,1,3,0,3,2,0,0,3
 La Salle,3A,Governor,,REP,16,9,0,0,0,0,0,0,6,6,0,0,3,2,0,0,8
 La Salle,3A,Governor,,DEM,16,9,0,0,0,0,0,0,6,0,0,0,3,1,0,0,1
 La Salle,3A,Governor,,LIB,16,9,0,0,0,0,0,0,6,0,0,0,3,0,0,0,0
@@ -224,7 +224,7 @@ La Salle,3A,"Judge, Court of Criminal Appeals, Place 7",,REP,16,9,0,0,0,0,0,0,6,
 La Salle,3A,"Judge, Court of Criminal Appeals, Place 7",,DEM,16,9,0,0,0,0,0,0,6,0,0,0,3,2,0,0,2
 La Salle,3A,"Judge, Court of Criminal Appeals, Place 8",,REP,16,9,1,0,0,0,0,0,6,6,0,0,3,2,1,0,8
 La Salle,3A,"Judge, Court of Criminal Appeals, Place 8",,LIB,16,9,1,0,0,0,0,0,6,0,0,0,3,0,1,0,0
-La Salle,3A,"State Representative, District No. 31",,DEM,16,9,6,0,0,0,0,0,6,2,4,0,3,1,2,0,3
+La Salle,3A,State Representative,31,DEM,16,9,6,0,0,0,0,0,6,2,4,0,3,1,2,0,3
 La Salle,3A,"Justice, 4th Court of Appeals District, Place No. 2",,REP,16,9,0,0,0,0,0,0,6,6,0,0,3,2,0,0,8
 La Salle,3A,"Justice, 4th Court of Appeals District, Place No. 2",,DEM,16,9,0,0,0,0,0,0,6,0,0,0,3,1,0,0,1
 La Salle,3A,"Justice, 4th Court of Appeals District, Place No. 3",,REP,16,9,0,0,0,0,0,0,6,6,0,0,3,2,0,0,8
@@ -248,9 +248,9 @@ La Salle,4,Straight Party,,LIB,99,64,46,0,0,0,0,0,33,0,27,0,31,0,19,0,0
 La Salle,4,United States Senator,,REP,99,64,2,0,0,0,0,0,33,27,2,0,31,28,0,0,55
 La Salle,4,United States Senator,,DEM,99,64,2,0,0,0,0,0,33,4,2,0,31,2,0,0,6
 La Salle,4,United States Senator,,LIB,99,64,2,0,0,0,0,0,33,0,2,0,31,1,0,0,1
-La Salle,4,"United States Representative, District 23",,REP,99,64,7,0,0,0,0,0,33,20,6,0,31,27,1,0,47
-La Salle,4,"United States Representative, District 23",,DEM,99,64,7,0,0,0,0,0,33,6,6,0,31,3,1,0,9
-La Salle,4,"United States Representative, District 23",,LIB,99,64,7,0,0,0,0,0,33,1,6,0,31,0,1,0,1
+La Salle,4,United States Representative,23,REP,99,64,7,0,0,0,0,0,33,20,6,0,31,27,1,0,47
+La Salle,4,United States Representative,23,DEM,99,64,7,0,0,0,0,0,33,6,6,0,31,3,1,0,9
+La Salle,4,United States Representative,23,LIB,99,64,7,0,0,0,0,0,33,1,6,0,31,0,1,0,1
 La Salle,4,Governor,,REP,99,64,5,0,0,0,0,0,33,26,4,0,31,28,1,0,54
 La Salle,4,Governor,,DEM,99,64,5,0,0,0,0,0,33,3,4,0,31,2,1,0,5
 La Salle,4,Governor,,LIB,99,64,5,0,0,0,0,0,33,0,4,0,31,0,1,0,0
@@ -285,7 +285,7 @@ La Salle,4,"Judge, Court of Criminal Appeals, Place 7",,REP,99,64,13,0,0,0,0,0,3
 La Salle,4,"Judge, Court of Criminal Appeals, Place 7",,DEM,99,64,13,0,0,0,0,0,33,5,10,0,31,1,3,0,6
 La Salle,4,"Judge, Court of Criminal Appeals, Place 8",,REP,99,64,15,0,0,0,0,0,33,20,11,0,31,27,4,0,47
 La Salle,4,"Judge, Court of Criminal Appeals, Place 8",,LIB,99,64,15,0,0,0,0,0,33,2,11,0,31,0,4,0,2
-La Salle,4,"State Representative, District No. 31",,DEM,99,64,48,0,0,0,0,0,33,8,25,0,31,8,23,0,16
+La Salle,4,State Representative,31,DEM,99,64,48,0,0,0,0,0,33,8,25,0,31,8,23,0,16
 La Salle,4,"Justice, 4th Court of Appeals District, Place No. 2",,REP,99,64,13,0,0,0,0,0,33,21,10,0,31,27,3,0,48
 La Salle,4,"Justice, 4th Court of Appeals District, Place No. 2",,DEM,99,64,13,0,0,0,0,0,33,2,10,0,31,1,3,0,3
 La Salle,4,"Justice, 4th Court of Appeals District, Place No. 3",,REP,99,64,13,0,0,0,0,0,33,20,10,0,31,27,3,0,47
@@ -311,9 +311,9 @@ La Salle,5,Straight Party,,LIB,956,293,130,0,0,0,0,0,162,0,73,0,131,0,57,0,0
 La Salle,5,United States Senator,,REP,956,293,5,0,0,0,0,0,162,76,3,0,131,44,2,0,120
 La Salle,5,United States Senator,,DEM,956,293,5,0,0,0,0,0,162,82,3,0,131,84,2,0,166
 La Salle,5,United States Senator,,LIB,956,293,5,0,0,0,0,0,162,1,3,0,131,1,2,0,2
-La Salle,5,"United States Representative, District 23",,REP,956,293,0,0,0,0,0,0,162,76,0,0,131,37,0,0,113
-La Salle,5,"United States Representative, District 23",,DEM,956,293,0,0,0,0,0,0,162,82,0,0,131,92,0,0,174
-La Salle,5,"United States Representative, District 23",,LIB,956,293,0,0,0,0,0,0,162,4,0,0,131,2,0,0,6
+La Salle,5,United States Representative,23,REP,956,293,0,0,0,0,0,0,162,76,0,0,131,37,0,0,113
+La Salle,5,United States Representative,23,DEM,956,293,0,0,0,0,0,0,162,82,0,0,131,92,0,0,174
+La Salle,5,United States Representative,23,LIB,956,293,0,0,0,0,0,0,162,4,0,0,131,2,0,0,6
 La Salle,5,Governor,,REP,956,293,4,0,0,0,0,0,162,80,1,0,131,48,3,0,128
 La Salle,5,Governor,,DEM,956,293,4,0,0,0,0,0,162,79,1,0,131,80,3,0,159
 La Salle,5,Governor,,LIB,956,293,4,0,0,0,0,0,162,2,1,0,131,0,3,0,2
@@ -348,7 +348,7 @@ La Salle,5,"Judge, Court of Criminal Appeals, Place 7",,REP,956,293,15,0,0,0,0,0
 La Salle,5,"Judge, Court of Criminal Appeals, Place 7",,DEM,956,293,15,0,0,0,0,0,162,80,8,0,131,86,7,0,166
 La Salle,5,"Judge, Court of Criminal Appeals, Place 8",,REP,956,293,126,0,0,0,0,0,162,78,64,0,131,50,62,0,128
 La Salle,5,"Judge, Court of Criminal Appeals, Place 8",,LIB,956,293,126,0,0,0,0,0,162,20,64,0,131,19,62,0,39
-La Salle,5,"State Representative, District No. 31",,DEM,956,293,99,0,0,0,0,0,162,98,64,0,131,96,35,0,194
+La Salle,5,State Representative,31,DEM,956,293,99,0,0,0,0,0,162,98,64,0,131,96,35,0,194
 La Salle,5,"Justice, 4th Court of Appeals District, Place No. 2",,REP,956,293,15,0,0,0,0,0,162,73,7,0,131,35,8,0,108
 La Salle,5,"Justice, 4th Court of Appeals District, Place No. 2",,DEM,956,293,15,0,0,0,0,0,162,82,7,0,131,88,8,0,170
 La Salle,5,"Justice, 4th Court of Appeals District, Place No. 3",,REP,956,293,14,0,0,0,0,0,162,74,6,0,131,34,8,0,108
@@ -373,9 +373,9 @@ La Salle,6,Straight Party,,LIB,450,183,86,0,0,0,0,0,95,0,45,0,88,0,41,0,0
 La Salle,6,United States Senator,,REP,450,183,1,0,0,0,0,0,95,57,1,0,88,26,0,0,83
 La Salle,6,United States Senator,,DEM,450,183,1,0,0,0,0,0,95,37,1,0,88,62,0,0,99
 La Salle,6,United States Senator,,LIB,450,183,1,0,0,0,0,0,95,0,1,0,88,0,0,0,0
-La Salle,6,"United States Representative, District 23",,REP,450,183,5,0,0,0,0,0,95,54,2,0,88,21,3,0,75
-La Salle,6,"United States Representative, District 23",,DEM,450,183,5,0,0,0,0,0,95,39,2,0,88,63,3,0,102
-La Salle,6,"United States Representative, District 23",,LIB,450,183,5,0,0,0,0,0,95,0,2,0,88,1,3,0,1
+La Salle,6,United States Representative,23,REP,450,183,5,0,0,0,0,0,95,54,2,0,88,21,3,0,75
+La Salle,6,United States Representative,23,DEM,450,183,5,0,0,0,0,0,95,39,2,0,88,63,3,0,102
+La Salle,6,United States Representative,23,LIB,450,183,5,0,0,0,0,0,95,0,2,0,88,1,3,0,1
 La Salle,6,Governor,,REP,450,183,8,0,0,0,0,0,95,59,1,0,88,30,7,0,89
 La Salle,6,Governor,,DEM,450,183,8,0,0,0,0,0,95,35,1,0,88,51,7,0,86
 La Salle,6,Governor,,LIB,450,183,8,0,0,0,0,0,95,0,1,0,88,0,7,0,0
@@ -410,7 +410,7 @@ La Salle,6,"Judge, Court of Criminal Appeals, Place 7",,REP,450,183,17,0,0,0,0,0
 La Salle,6,"Judge, Court of Criminal Appeals, Place 7",,DEM,450,183,17,0,0,0,0,0,95,35,3,0,88,53,14,0,88
 La Salle,6,"Judge, Court of Criminal Appeals, Place 8",,REP,450,183,77,0,0,0,0,0,95,59,28,0,88,26,49,0,85
 La Salle,6,"Judge, Court of Criminal Appeals, Place 8",,LIB,450,183,77,0,0,0,0,0,95,8,28,0,88,13,49,0,21
-La Salle,6,"State Representative, District No. 31",,DEM,450,183,74,0,0,0,0,0,95,52,43,0,88,57,31,0,109
+La Salle,6,State Representative,31,DEM,450,183,74,0,0,0,0,0,95,52,43,0,88,57,31,0,109
 La Salle,6,"Justice, 4th Court of Appeals District, Place No. 2",,REP,450,183,19,0,0,0,0,0,95,57,3,0,88,21,16,0,78
 La Salle,6,"Justice, 4th Court of Appeals District, Place No. 2",,DEM,450,183,19,0,0,0,0,0,95,35,3,0,88,51,16,0,86
 La Salle,6,"Justice, 4th Court of Appeals District, Place No. 3",,REP,450,183,17,0,0,0,0,0,95,58,2,0,88,19,15,0,77
