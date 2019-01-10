@@ -1,431 +1,845 @@
-﻿county,precinct,office,district,party,Reg_voters,total_ballots,total_under_votes,total_over_votes,absentee_ballots,absentee_votes,absentee_under_votes,absentee_over_votes,early_ballots,early_votes,early_under_votes,early_over_votes,election_ballots,election_votes,election_under_votes,election_over_votes,votes
-La Salle,1,Straight Party,,REP,1082,462,233,1,0,0,0,0,266,64,138,0,196,42,95,1,106
-La Salle,1,Straight Party,,DEM,1082,462,233,1,0,0,0,0,266,64,138,0,196,57,95,1,121
-La Salle,1,Straight Party,,LIB,1082,462,233,1,0,0,0,0,266,0,138,0,196,1,95,1,1
-La Salle,1,United States Senator,,REP,1082,462,6,0,0,0,0,0,266,159,2,0,196,87,4,0,246
-La Salle,1,United States Senator,,DEM,1082,462,6,0,0,0,0,0,266,105,2,0,196,105,4,0,210
-La Salle,1,United States Senator,,LIB,1082,462,6,0,0,0,0,0,266,0,2,0,196,0,4,0,0
-La Salle,1,United States Representative,23,REP,1082,462,5,0,0,0,0,0,266,160,3,0,196,82,2,0,242
-La Salle,1,United States Representative,23,DEM,1082,462,5,0,0,0,0,0,266,103,3,0,196,109,2,0,212
-La Salle,1,United States Representative,23,LIB,1082,462,5,0,0,0,0,0,266,0,3,0,196,3,2,0,3
-La Salle,1,Governor,,REP,1082,462,11,0,0,0,0,0,266,170,3,0,196,99,8,0,269
-La Salle,1,Governor,,DEM,1082,462,11,0,0,0,0,0,266,92,3,0,196,88,8,0,180
-La Salle,1,Governor,,LIB,1082,462,11,0,0,0,0,0,266,1,3,0,196,1,8,0,2
-La Salle,1,Lieutenant Governor,,REP,1082,462,21,0,0,0,0,0,266,154,6,0,196,83,15,0,237
-La Salle,1,Lieutenant Governor,,DEM,1082,462,21,0,0,0,0,0,266,101,6,0,196,95,15,0,196
-La Salle,1,Lieutenant Governor,,LIB,1082,462,21,0,0,0,0,0,266,5,6,0,196,3,15,0,8
-La Salle,1,Attorney General,,REP,1082,462,24,0,0,0,0,0,266,147,10,0,196,81,14,0,228
-La Salle,1,Attorney General,,DEM,1082,462,24,0,0,0,0,0,266,106,10,0,196,97,14,0,203
-La Salle,1,Attorney General,,LIB,1082,462,24,0,0,0,0,0,266,3,10,0,196,4,14,0,7
-La Salle,1,Comptroller of Public Accounts,,REP,1082,462,34,1,0,0,0,0,266,144,17,0,196,78,17,1,222
-La Salle,1,Comptroller of Public Accounts,,DEM,1082,462,34,1,0,0,0,0,266,100,17,0,196,94,17,1,194
-La Salle,1,Comptroller of Public Accounts,,LIB,1082,462,34,1,0,0,0,0,266,5,17,0,196,6,17,1,11
-La Salle,1,Commissioner of the General Land Office,,REP,1082,462,29,0,0,0,0,0,266,143,13,0,196,79,16,0,222
-La Salle,1,Commissioner of the General Land Office,,DEM,1082,462,29,0,0,0,0,0,266,99,13,0,196,97,16,0,196
-La Salle,1,Commissioner of the General Land Office,,LIB,1082,462,29,0,0,0,0,0,266,11,13,0,196,4,16,0,15
-La Salle,1,Commissioner of Agriculture,,REP,1082,462,32,0,0,0,0,0,266,142,15,0,196,72,17,0,214
-La Salle,1,Commissioner of Agriculture,,DEM,1082,462,32,0,0,0,0,0,266,102,15,0,196,105,17,0,207
-La Salle,1,Commissioner of Agriculture,,LIB,1082,462,32,0,0,0,0,0,266,7,15,0,196,2,17,0,9
-La Salle,1,Railroad Commissioner,,REP,1082,462,34,0,0,0,0,0,266,145,17,0,196,78,17,0,223
-La Salle,1,Railroad Commissioner,,DEM,1082,462,34,0,0,0,0,0,266,97,17,0,196,101,17,0,198
-La Salle,1,Railroad Commissioner,,LIB,1082,462,34,0,0,0,0,0,266,7,17,0,196,0,17,0,7
-La Salle,1,"Justice, Supreme Court, Place 2",,REP,1082,462,38,0,0,0,0,0,266,145,21,0,196,79,17,0,224
-La Salle,1,"Justice, Supreme Court, Place 2",,DEM,1082,462,38,0,0,0,0,0,266,100,21,0,196,100,17,0,200
-La Salle,1,"Justice, Supreme Court, Place 4",,REP,1082,462,36,0,0,0,0,0,266,147,19,0,196,79,17,0,226
-La Salle,1,"Justice, Supreme Court, Place 4",,DEM,1082,462,36,0,0,0,0,0,266,100,19,0,196,100,17,0,200
-La Salle,1,"Justice, Supreme Court, Place 6",,REP,1082,462,37,0,0,0,0,0,266,144,21,0,196,81,16,0,225
-La Salle,1,"Justice, Supreme Court, Place 6",,DEM,1082,462,37,0,0,0,0,0,266,101,21,0,196,99,16,0,200
-La Salle,1,"Presiding Judge, Court of Criminal Appeals",,REP,1082,462,36,1,0,0,0,0,266,141,19,1,196,80,17,0,221
-La Salle,1,"Presiding Judge, Court of Criminal Appeals",,DEM,1082,462,36,1,0,0,0,0,266,101,19,1,196,98,17,0,199
-La Salle,1,"Presiding Judge, Court of Criminal Appeals",,LIB,1082,462,36,1,0,0,0,0,266,4,19,1,196,1,17,0,5
-La Salle,1,"Judge, Court of Criminal Appeals, Place 7",,REP,1082,462,38,0,0,0,0,0,266,141,22,0,196,79,16,0,220
-La Salle,1,"Judge, Court of Criminal Appeals, Place 7",,DEM,1082,462,38,0,0,0,0,0,266,103,22,0,196,101,16,0,204
-La Salle,1,"Judge, Court of Criminal Appeals, Place 8",,REP,1082,462,153,0,0,0,0,0,266,158,82,0,196,93,71,0,251
-La Salle,1,"Judge, Court of Criminal Appeals, Place 8",,LIB,1082,462,153,0,0,0,0,0,266,26,82,0,196,32,71,0,58
-La Salle,1,State Representative,31,DEM,1082,462,174,0,0,0,0,0,266,163,103,0,196,125,71,0,288
-La Salle,1,"Justice, 4th Court of Appeals District, Place No. 2",,REP,1082,462,38,0,0,0,0,0,266,147,20,0,196,74,18,0,221
-La Salle,1,"Justice, 4th Court of Appeals District, Place No. 2",,DEM,1082,462,38,0,0,0,0,0,266,99,20,0,196,104,18,0,203
-La Salle,1,"Justice, 4th Court of Appeals District, Place No. 3",,REP,1082,462,36,0,0,0,0,0,266,142,20,0,196,74,16,0,216
-La Salle,1,"Justice, 4th Court of Appeals District, Place No. 3",,DEM,1082,462,36,0,0,0,0,0,266,104,20,0,196,106,16,0,210
-La Salle,1,"Justice, 4th Court of Appeals District, Place No. 4",,REP,1082,462,35,0,0,0,0,0,266,143,19,0,196,77,16,0,220
-La Salle,1,"Justice, 4th Court of Appeals District, Place No. 4",,DEM,1082,462,35,0,0,0,0,0,266,104,19,0,196,103,16,0,207
-La Salle,1,"Justice, 4th Court of Appeals District, Place No. 5",,REP,1082,462,38,0,0,0,0,0,266,142,20,0,196,72,18,0,214
-La Salle,1,"Justice, 4th Court of Appeals District, Place No. 5",,DEM,1082,462,38,0,0,0,0,0,266,104,20,0,196,106,18,0,210
-La Salle,1,"Justice, 4th Court of Appeals District, Place No. 7",,REP,1082,462,36,0,0,0,0,0,266,135,19,0,196,70,17,0,205
-La Salle,1,"Justice, 4th Court of Appeals District, Place No. 7",,DEM,1082,462,36,0,0,0,0,0,266,112,19,0,196,109,17,0,221
-La Salle,1,"District Judge, 81st Judicial District",,REP,1082,462,23,1,0,0,0,0,266,159,9,0,196,82,14,1,241
-La Salle,1,"District Judge, 81st Judicial District",,DEM,1082,462,23,1,0,0,0,0,266,98,9,0,196,99,14,1,197
-La Salle,1,"District Judge, 218th Judicial District",,REP,1082,462,201,0,0,0,0,0,266,164,102,0,196,97,99,0,261
-La Salle,1,County Judge,,DEM,1082,462,172,0,0,0,0,0,266,166,100,0,196,124,72,0,290
-La Salle,1,District and County Clerk,,DEM,1082,462,134,0,0,0,0,0,266,193,73,0,196,135,61,0,328
-La Salle,1,County Treasurer,,DEM,1082,462,144,0,0,0,0,0,266,182,84,0,196,136,60,0,318
-La Salle,1,"Justice of the Peace, Precinct No. 1",,DEM,1082,462,174,0,0,0,0,0,266,158,108,0,196,130,66,0,288
-La Salle,2,Straight Party,,REP,649,192,86,0,0,0,0,0,51,8,18,0,141,17,68,0,25
-La Salle,2,Straight Party,,DEM,649,192,86,0,0,0,0,0,51,25,18,0,141,55,68,0,80
-La Salle,2,Straight Party,,LIB,649,192,86,0,0,0,0,0,51,0,18,0,141,1,68,0,1
-La Salle,2,United States Senator,,REP,649,192,0,0,0,0,0,0,51,16,0,0,141,41,0,0,57
-La Salle,2,United States Senator,,DEM,649,192,0,0,0,0,0,0,51,35,0,0,141,100,0,0,135
-La Salle,2,United States Senator,,LIB,649,192,0,0,0,0,0,0,51,0,0,0,141,0,0,0,0
-La Salle,2,United States Representative,28,DEM,649,192,19,0,0,0,0,0,51,45,4,0,141,117,15,0,162
-La Salle,2,United States Representative,28,LIB,649,192,19,0,0,0,0,0,51,2,4,0,141,9,15,0,11
-La Salle,2,Governor,,REP,649,192,8,1,0,0,0,0,51,18,1,0,141,55,7,1,73
-La Salle,2,Governor,,DEM,649,192,8,1,0,0,0,0,51,31,1,0,141,77,7,1,108
-La Salle,2,Governor,,LIB,649,192,8,1,0,0,0,0,51,1,1,0,141,1,7,1,2
-La Salle,2,Lieutenant Governor,,REP,649,192,12,0,0,0,0,0,51,15,1,0,141,44,11,0,59
-La Salle,2,Lieutenant Governor,,DEM,649,192,12,0,0,0,0,0,51,34,1,0,141,85,11,0,119
-La Salle,2,Lieutenant Governor,,LIB,649,192,12,0,0,0,0,0,51,1,1,0,141,1,11,0,2
-La Salle,2,Attorney General,,REP,649,192,13,0,0,0,0,0,51,13,1,0,141,39,12,0,52
-La Salle,2,Attorney General,,DEM,649,192,13,0,0,0,0,0,51,36,1,0,141,88,12,0,124
-La Salle,2,Attorney General,,LIB,649,192,13,0,0,0,0,0,51,1,1,0,141,2,12,0,3
-La Salle,2,Comptroller of Public Accounts,,REP,649,192,21,0,0,0,0,0,51,13,3,0,141,37,18,0,50
-La Salle,2,Comptroller of Public Accounts,,DEM,649,192,21,0,0,0,0,0,51,34,3,0,141,81,18,0,115
-La Salle,2,Comptroller of Public Accounts,,LIB,649,192,21,0,0,0,0,0,51,1,3,0,141,5,18,0,6
-La Salle,2,Commissioner of the General Land Office,,REP,649,192,12,0,0,0,0,0,51,15,2,0,141,51,10,0,66
-La Salle,2,Commissioner of the General Land Office,,DEM,649,192,12,0,0,0,0,0,51,34,2,0,141,78,10,0,112
-La Salle,2,Commissioner of the General Land Office,,LIB,649,192,12,0,0,0,0,0,51,0,2,0,141,2,10,0,2
-La Salle,2,Commissioner of Agriculture,,REP,649,192,16,1,0,0,0,0,51,13,3,0,141,37,13,1,50
-La Salle,2,Commissioner of Agriculture,,DEM,649,192,16,1,0,0,0,0,51,34,3,0,141,85,13,1,119
-La Salle,2,Commissioner of Agriculture,,LIB,649,192,16,1,0,0,0,0,51,1,3,0,141,5,13,1,6
-La Salle,2,Railroad Commissioner,,REP,649,192,20,0,0,0,0,0,51,13,3,0,141,37,17,0,50
-La Salle,2,Railroad Commissioner,,DEM,649,192,20,0,0,0,0,0,51,33,3,0,141,82,17,0,115
-La Salle,2,Railroad Commissioner,,LIB,649,192,20,0,0,0,0,0,51,2,3,0,141,5,17,0,7
-La Salle,2,"Justice, Supreme Court, Place 2",,REP,649,192,20,0,0,0,0,0,51,13,2,0,141,35,18,0,48
-La Salle,2,"Justice, Supreme Court, Place 2",,DEM,649,192,20,0,0,0,0,0,51,36,2,0,141,88,18,0,124
-La Salle,2,"Justice, Supreme Court, Place 4",,REP,649,192,23,0,0,0,0,0,51,14,2,0,141,38,21,0,52
-La Salle,2,"Justice, Supreme Court, Place 4",,DEM,649,192,23,0,0,0,0,0,51,35,2,0,141,82,21,0,117
-La Salle,2,"Justice, Supreme Court, Place 6",,REP,649,192,21,1,0,0,0,0,51,13,3,0,141,42,18,1,55
-La Salle,2,"Justice, Supreme Court, Place 6",,DEM,649,192,21,1,0,0,0,0,51,35,3,0,141,80,18,1,115
-La Salle,2,"Presiding Judge, Court of Criminal Appeals",,REP,649,192,15,1,0,0,0,0,51,13,2,0,141,34,13,1,47
-La Salle,2,"Presiding Judge, Court of Criminal Appeals",,DEM,649,192,15,1,0,0,0,0,51,35,2,0,141,91,13,1,126
-La Salle,2,"Presiding Judge, Court of Criminal Appeals",,LIB,649,192,15,1,0,0,0,0,51,1,2,0,141,2,13,1,3
-La Salle,2,"Judge, Court of Criminal Appeals, Place 7",,REP,649,192,19,0,0,0,0,0,51,14,3,0,141,39,16,0,53
-La Salle,2,"Judge, Court of Criminal Appeals, Place 7",,DEM,649,192,19,0,0,0,0,0,51,34,3,0,141,86,16,0,120
-La Salle,2,"Judge, Court of Criminal Appeals, Place 8",,REP,649,192,98,0,0,0,0,0,51,15,26,0,141,52,72,0,67
-La Salle,2,"Judge, Court of Criminal Appeals, Place 8",,LIB,649,192,98,0,0,0,0,0,51,10,26,0,141,17,72,0,27
-La Salle,2,State Representative,31,DEM,649,192,49,0,0,0,0,0,51,40,11,0,141,103,38,0,143
-La Salle,2,"Justice, 4th Court of Appeals District, Place No. 2",,REP,649,192,22,0,0,0,0,0,51,12,4,0,141,42,18,0,54
-La Salle,2,"Justice, 4th Court of Appeals District, Place No. 2",,DEM,649,192,22,0,0,0,0,0,51,35,4,0,141,81,18,0,116
-La Salle,2,"Justice, 4th Court of Appeals District, Place No. 3",,REP,649,192,17,0,0,0,0,0,51,13,3,0,141,34,14,0,47
-La Salle,2,"Justice, 4th Court of Appeals District, Place No. 3",,DEM,649,192,17,0,0,0,0,0,51,35,3,0,141,93,14,0,128
-La Salle,2,"Justice, 4th Court of Appeals District, Place No. 4",,REP,649,192,17,0,0,0,0,0,51,13,3,0,141,31,14,0,44
-La Salle,2,"Justice, 4th Court of Appeals District, Place No. 4",,DEM,649,192,17,0,0,0,0,0,51,35,3,0,141,96,14,0,131
-La Salle,2,"Justice, 4th Court of Appeals District, Place No. 5",,REP,649,192,16,0,0,0,0,0,51,14,2,0,141,36,14,0,50
-La Salle,2,"Justice, 4th Court of Appeals District, Place No. 5",,DEM,649,192,16,0,0,0,0,0,51,35,2,0,141,91,14,0,126
-La Salle,2,"Justice, 4th Court of Appeals District, Place No. 7",,REP,649,192,16,0,0,0,0,0,51,12,2,0,141,31,14,0,43
-La Salle,2,"Justice, 4th Court of Appeals District, Place No. 7",,DEM,649,192,16,0,0,0,0,0,51,37,2,0,141,96,14,0,133
-La Salle,2,"District Judge, 81st Judicial District",,REP,649,192,15,0,0,0,0,0,51,14,3,0,141,41,12,0,55
-La Salle,2,"District Judge, 81st Judicial District",,DEM,649,192,15,0,0,0,0,0,51,34,3,0,141,88,12,0,122
-La Salle,2,"District Judge, 218th Judicial District",,REP,649,192,114,0,0,0,0,0,51,20,31,0,141,58,83,0,78
-La Salle,2,County Judge,,DEM,649,192,42,0,0,0,0,0,51,43,8,0,141,107,34,0,150
-La Salle,2,District and County Clerk,,DEM,649,192,41,0,0,0,0,0,51,44,7,0,141,107,34,0,151
-La Salle,2,County Treasurer,,DEM,649,192,41,0,0,0,0,0,51,41,10,0,141,110,31,0,151
-La Salle,2,"County Commissioner, Precinct No. 2",,DEM,649,192,41,0,0,0,0,0,51,43,8,0,141,108,33,0,151
-La Salle,2,"Justice of the Peace, Precinct No. 2",,DEM,649,192,40,0,0,0,0,0,51,43,8,0,141,109,32,0,152
-La Salle,3,Straight Party,,REP,1044,301,125,0,0,0,0,0,175,28,72,0,126,15,53,0,43
-La Salle,3,Straight Party,,DEM,1044,301,125,0,0,0,0,0,175,73,72,0,126,58,53,0,131
-La Salle,3,Straight Party,,LIB,1044,301,125,0,0,0,0,0,175,2,72,0,126,0,53,0,2
-La Salle,3,United States Senator,,REP,1044,301,1,0,0,0,0,0,175,63,0,0,126,41,1,0,104
-La Salle,3,United States Senator,,DEM,1044,301,1,0,0,0,0,0,175,112,0,0,126,84,1,0,196
-La Salle,3,United States Senator,,LIB,1044,301,1,0,0,0,0,0,175,0,0,0,126,0,1,0,0
-La Salle,3,United States Representative,23,REP,1044,301,5,0,0,0,0,0,175,60,2,0,126,34,3,0,94
-La Salle,3,United States Representative,23,DEM,1044,301,5,0,0,0,0,0,175,111,2,0,126,88,3,0,199
-La Salle,3,United States Representative,23,LIB,1044,301,5,0,0,0,0,0,175,2,2,0,126,1,3,0,3
-La Salle,3,Governor,,REP,1044,301,7,0,0,0,0,0,175,67,1,0,126,40,6,0,107
-La Salle,3,Governor,,DEM,1044,301,7,0,0,0,0,0,175,107,1,0,126,79,6,0,186
-La Salle,3,Governor,,LIB,1044,301,7,0,0,0,0,0,175,0,1,0,126,1,6,0,1
-La Salle,3,Lieutenant Governor,,REP,1044,301,17,0,0,0,0,0,175,64,5,0,126,35,12,0,99
-La Salle,3,Lieutenant Governor,,DEM,1044,301,17,0,0,0,0,0,175,104,5,0,126,78,12,0,182
-La Salle,3,Lieutenant Governor,,LIB,1044,301,17,0,0,0,0,0,175,2,5,0,126,1,12,0,3
-La Salle,3,Attorney General,,REP,1044,301,21,0,0,0,0,0,175,59,7,0,126,34,14,0,93
-La Salle,3,Attorney General,,DEM,1044,301,21,0,0,0,0,0,175,108,7,0,126,77,14,0,185
-La Salle,3,Attorney General,,LIB,1044,301,21,0,0,0,0,0,175,1,7,0,126,1,14,0,2
-La Salle,3,Comptroller of Public Accounts,,REP,1044,301,25,0,0,0,0,0,175,53,9,0,126,29,16,0,82
-La Salle,3,Comptroller of Public Accounts,,DEM,1044,301,25,0,0,0,0,0,175,105,9,0,126,77,16,0,182
-La Salle,3,Comptroller of Public Accounts,,LIB,1044,301,25,0,0,0,0,0,175,8,9,0,126,4,16,0,12
-La Salle,3,Commissioner of the General Land Office,,REP,1044,301,17,0,0,0,0,0,175,62,6,0,126,32,11,0,94
-La Salle,3,Commissioner of the General Land Office,,DEM,1044,301,17,0,0,0,0,0,175,104,6,0,126,80,11,0,184
-La Salle,3,Commissioner of the General Land Office,,LIB,1044,301,17,0,0,0,0,0,175,3,6,0,126,3,11,0,6
-La Salle,3,Commissioner of Agriculture,,REP,1044,301,22,0,0,0,0,0,175,54,8,0,126,33,14,0,87
-La Salle,3,Commissioner of Agriculture,,DEM,1044,301,22,0,0,0,0,0,175,111,8,0,126,78,14,0,189
-La Salle,3,Commissioner of Agriculture,,LIB,1044,301,22,0,0,0,0,0,175,2,8,0,126,1,14,0,3
-La Salle,3,Railroad Commissioner,,REP,1044,301,22,0,0,0,0,0,175,52,8,0,126,33,14,0,85
-La Salle,3,Railroad Commissioner,,DEM,1044,301,22,0,0,0,0,0,175,110,8,0,126,76,14,0,186
-La Salle,3,Railroad Commissioner,,LIB,1044,301,22,0,0,0,0,0,175,5,8,0,126,3,14,0,8
-La Salle,3,"Justice, Supreme Court, Place 2",,REP,1044,301,23,0,0,0,0,0,175,59,6,0,126,31,17,0,90
-La Salle,3,"Justice, Supreme Court, Place 2",,DEM,1044,301,23,0,0,0,0,0,175,110,6,0,126,78,17,0,188
-La Salle,3,"Justice, Supreme Court, Place 4",,REP,1044,301,23,0,0,0,0,0,175,60,8,0,126,34,15,0,94
-La Salle,3,"Justice, Supreme Court, Place 4",,DEM,1044,301,23,0,0,0,0,0,175,107,8,0,126,77,15,0,184
-La Salle,3,"Justice, Supreme Court, Place 6",,REP,1044,301,23,0,0,0,0,0,175,59,8,0,126,34,15,0,93
-La Salle,3,"Justice, Supreme Court, Place 6",,DEM,1044,301,23,0,0,0,0,0,175,108,8,0,126,77,15,0,185
-La Salle,3,"Presiding Judge, Court of Criminal Appeals",,REP,1044,301,21,0,0,0,0,0,175,55,6,0,126,33,15,0,88
-La Salle,3,"Presiding Judge, Court of Criminal Appeals",,DEM,1044,301,21,0,0,0,0,0,175,113,6,0,126,77,15,0,190
-La Salle,3,"Presiding Judge, Court of Criminal Appeals",,LIB,1044,301,21,0,0,0,0,0,175,1,6,0,126,1,15,0,2
-La Salle,3,"Judge, Court of Criminal Appeals, Place 7",,REP,1044,301,20,0,0,0,0,0,175,56,6,0,126,33,14,0,89
-La Salle,3,"Judge, Court of Criminal Appeals, Place 7",,DEM,1044,301,20,0,0,0,0,0,175,113,6,0,126,79,14,0,192
-La Salle,3,"Judge, Court of Criminal Appeals, Place 8",,REP,1044,301,142,0,0,0,0,0,175,63,78,0,126,43,64,0,106
-La Salle,3,"Judge, Court of Criminal Appeals, Place 8",,LIB,1044,301,142,0,0,0,0,0,175,34,78,0,126,19,64,0,53
-La Salle,3,State Representative,31,DEM,1044,301,90,0,0,0,0,0,175,120,55,0,126,91,35,0,211
-La Salle,3,"Justice, 4th Court of Appeals District, Place No. 2",,REP,1044,301,25,0,0,0,0,0,175,55,8,0,126,32,17,0,87
-La Salle,3,"Justice, 4th Court of Appeals District, Place No. 2",,DEM,1044,301,25,0,0,0,0,0,175,112,8,0,126,77,17,0,189
-La Salle,3,"Justice, 4th Court of Appeals District, Place No. 3",,REP,1044,301,20,0,0,0,0,0,175,50,7,0,126,33,13,0,83
-La Salle,3,"Justice, 4th Court of Appeals District, Place No. 3",,DEM,1044,301,20,0,0,0,0,0,175,118,7,0,126,80,13,0,198
-La Salle,3,"Justice, 4th Court of Appeals District, Place No. 4",,REP,1044,301,22,0,0,0,0,0,175,54,7,0,126,35,15,0,89
-La Salle,3,"Justice, 4th Court of Appeals District, Place No. 4",,DEM,1044,301,22,0,0,0,0,0,175,114,7,0,126,76,15,0,190
-La Salle,3,"Justice, 4th Court of Appeals District, Place No. 5",,REP,1044,301,18,1,0,0,0,0,175,55,5,1,126,32,13,0,87
-La Salle,3,"Justice, 4th Court of Appeals District, Place No. 5",,DEM,1044,301,18,1,0,0,0,0,175,114,5,1,126,81,13,0,195
-La Salle,3,"Justice, 4th Court of Appeals District, Place No. 7",,REP,1044,301,19,0,0,0,0,0,175,50,5,0,126,30,14,0,80
-La Salle,3,"Justice, 4th Court of Appeals District, Place No. 7",,DEM,1044,301,19,0,0,0,0,0,175,120,5,0,126,82,14,0,202
-La Salle,3,"District Judge, 81st Judicial District",,REP,1044,301,16,0,0,0,0,0,175,57,4,0,126,32,12,0,89
-La Salle,3,"District Judge, 81st Judicial District",,DEM,1044,301,16,0,0,0,0,0,175,114,4,0,126,82,12,0,196
-La Salle,3,"District Judge, 218th Judicial District",,REP,1044,301,172,0,0,0,0,0,175,82,93,0,126,47,79,0,129
-La Salle,3,County Judge,,DEM,1044,301,79,0,0,0,0,0,175,132,43,0,126,90,36,0,222
-La Salle,3,District and County Clerk,,DEM,1044,301,61,0,0,0,0,0,175,142,33,0,126,98,28,0,240
-La Salle,3,County Treasurer,,DEM,1044,301,65,0,0,0,0,0,175,139,36,0,126,97,29,0,236
-La Salle,3,"Justice of the Peace, Precinct No. 3",,DEM,1044,301,62,0,0,0,0,0,175,140,35,0,126,99,27,0,239
-La Salle,3A,Straight Party,,REP,16,9,5,0,0,0,0,0,6,4,2,0,3,0,3,0,4
-La Salle,3A,Straight Party,,DEM,16,9,5,0,0,0,0,0,6,0,2,0,3,0,3,0,0
-La Salle,3A,Straight Party,,LIB,16,9,5,0,0,0,0,0,6,0,2,0,3,0,3,0,0
-La Salle,3A,United States Senator,,REP,16,9,0,0,0,0,0,0,6,6,0,0,3,2,0,0,8
-La Salle,3A,United States Senator,,DEM,16,9,0,0,0,0,0,0,6,0,0,0,3,1,0,0,1
-La Salle,3A,United States Senator,,LIB,16,9,0,0,0,0,0,0,6,0,0,0,3,0,0,0,0
-La Salle,3A,United States Representative,28,DEM,16,9,3,0,0,0,0,0,6,2,3,0,3,1,0,0,3
-La Salle,3A,United States Representative,28,LIB,16,9,3,0,0,0,0,0,6,1,3,0,3,2,0,0,3
-La Salle,3A,Governor,,REP,16,9,0,0,0,0,0,0,6,6,0,0,3,2,0,0,8
-La Salle,3A,Governor,,DEM,16,9,0,0,0,0,0,0,6,0,0,0,3,1,0,0,1
-La Salle,3A,Governor,,LIB,16,9,0,0,0,0,0,0,6,0,0,0,3,0,0,0,0
-La Salle,3A,Lieutenant Governor,,REP,16,9,0,0,0,0,0,0,6,6,0,0,3,2,0,0,8
-La Salle,3A,Lieutenant Governor,,DEM,16,9,0,0,0,0,0,0,6,0,0,0,3,1,0,0,1
-La Salle,3A,Lieutenant Governor,,LIB,16,9,0,0,0,0,0,0,6,0,0,0,3,0,0,0,0
-La Salle,3A,Attorney General,,REP,16,9,0,0,0,0,0,0,6,6,0,0,3,2,0,0,8
-La Salle,3A,Attorney General,,DEM,16,9,0,0,0,0,0,0,6,0,0,0,3,1,0,0,1
-La Salle,3A,Attorney General,,LIB,16,9,0,0,0,0,0,0,6,0,0,0,3,0,0,0,0
-La Salle,3A,Comptroller of Public Accounts,,REP,16,9,0,0,0,0,0,0,6,6,0,0,3,2,0,0,8
-La Salle,3A,Comptroller of Public Accounts,,DEM,16,9,0,0,0,0,0,0,6,0,0,0,3,1,0,0,1
-La Salle,3A,Comptroller of Public Accounts,,LIB,16,9,0,0,0,0,0,0,6,0,0,0,3,0,0,0,0
-La Salle,3A,Commissioner of the General Land Office,,REP,16,9,0,0,0,0,0,0,6,6,0,0,3,2,0,0,8
-La Salle,3A,Commissioner of the General Land Office,,DEM,16,9,0,0,0,0,0,0,6,0,0,0,3,1,0,0,1
-La Salle,3A,Commissioner of the General Land Office,,LIB,16,9,0,0,0,0,0,0,6,0,0,0,3,0,0,0,0
-La Salle,3A,Commissioner of Agriculture,,REP,16,9,0,0,0,0,0,0,6,6,0,0,3,2,0,0,8
-La Salle,3A,Commissioner of Agriculture,,DEM,16,9,0,0,0,0,0,0,6,0,0,0,3,1,0,0,1
-La Salle,3A,Commissioner of Agriculture,,LIB,16,9,0,0,0,0,0,0,6,0,0,0,3,0,0,0,0
-La Salle,3A,Railroad Commissioner,,REP,16,9,0,0,0,0,0,0,6,6,0,0,3,2,0,0,8
-La Salle,3A,Railroad Commissioner,,DEM,16,9,0,0,0,0,0,0,6,0,0,0,3,1,0,0,1
-La Salle,3A,Railroad Commissioner,,LIB,16,9,0,0,0,0,0,0,6,0,0,0,3,0,0,0,0
-La Salle,3A,"Justice, Supreme Court, Place 2",,REP,16,9,0,0,0,0,0,0,6,6,0,0,3,2,0,0,8
-La Salle,3A,"Justice, Supreme Court, Place 2",,DEM,16,9,0,0,0,0,0,0,6,0,0,0,3,1,0,0,1
-La Salle,3A,"Justice, Supreme Court, Place 4",,REP,16,9,0,0,0,0,0,0,6,6,0,0,3,2,0,0,8
-La Salle,3A,"Justice, Supreme Court, Place 4",,DEM,16,9,0,0,0,0,0,0,6,0,0,0,3,1,0,0,1
-La Salle,3A,"Justice, Supreme Court, Place 6",,REP,16,9,1,0,0,0,0,0,6,6,0,0,3,2,1,0,8
-La Salle,3A,"Justice, Supreme Court, Place 6",,DEM,16,9,1,0,0,0,0,0,6,0,0,0,3,0,1,0,0
-La Salle,3A,"Presiding Judge, Court of Criminal Appeals",,REP,16,9,0,0,0,0,0,0,6,6,0,0,3,2,0,0,8
-La Salle,3A,"Presiding Judge, Court of Criminal Appeals",,DEM,16,9,0,0,0,0,0,0,6,0,0,0,3,1,0,0,1
-La Salle,3A,"Presiding Judge, Court of Criminal Appeals",,LIB,16,9,0,0,0,0,0,0,6,0,0,0,3,0,0,0,0
-La Salle,3A,"Judge, Court of Criminal Appeals, Place 7",,REP,16,9,0,0,0,0,0,0,6,6,0,0,3,1,0,0,7
-La Salle,3A,"Judge, Court of Criminal Appeals, Place 7",,DEM,16,9,0,0,0,0,0,0,6,0,0,0,3,2,0,0,2
-La Salle,3A,"Judge, Court of Criminal Appeals, Place 8",,REP,16,9,1,0,0,0,0,0,6,6,0,0,3,2,1,0,8
-La Salle,3A,"Judge, Court of Criminal Appeals, Place 8",,LIB,16,9,1,0,0,0,0,0,6,0,0,0,3,0,1,0,0
-La Salle,3A,State Representative,31,DEM,16,9,6,0,0,0,0,0,6,2,4,0,3,1,2,0,3
-La Salle,3A,"Justice, 4th Court of Appeals District, Place No. 2",,REP,16,9,0,0,0,0,0,0,6,6,0,0,3,2,0,0,8
-La Salle,3A,"Justice, 4th Court of Appeals District, Place No. 2",,DEM,16,9,0,0,0,0,0,0,6,0,0,0,3,1,0,0,1
-La Salle,3A,"Justice, 4th Court of Appeals District, Place No. 3",,REP,16,9,0,0,0,0,0,0,6,6,0,0,3,2,0,0,8
-La Salle,3A,"Justice, 4th Court of Appeals District, Place No. 3",,DEM,16,9,0,0,0,0,0,0,6,0,0,0,3,1,0,0,1
-La Salle,3A,"Justice, 4th Court of Appeals District, Place No. 4",,REP,16,9,0,0,0,0,0,0,6,6,0,0,3,2,0,0,8
-La Salle,3A,"Justice, 4th Court of Appeals District, Place No. 4",,DEM,16,9,0,0,0,0,0,0,6,0,0,0,3,1,0,0,1
-La Salle,3A,"Justice, 4th Court of Appeals District, Place No. 5",,REP,16,9,0,0,0,0,0,0,6,6,0,0,3,2,0,0,8
-La Salle,3A,"Justice, 4th Court of Appeals District, Place No. 5",,DEM,16,9,0,0,0,0,0,0,6,0,0,0,3,1,0,0,1
-La Salle,3A,"Justice, 4th Court of Appeals District, Place No. 7",,REP,16,9,0,0,0,0,0,0,6,6,0,0,3,2,0,0,8
-La Salle,3A,"Justice, 4th Court of Appeals District, Place No. 7",,DEM,16,9,0,0,0,0,0,0,6,0,0,0,3,1,0,0,1
-La Salle,3A,"District Judge, 81st Judicial District",,REP,16,9,0,0,0,0,0,0,6,6,0,0,3,2,0,0,8
-La Salle,3A,"District Judge, 81st Judicial District",,DEM,16,9,0,0,0,0,0,0,6,0,0,0,3,1,0,0,1
-La Salle,3A,"District Judge, 218th Judicial District",,REP,16,9,1,0,0,0,0,0,6,6,0,0,3,2,1,0,8
-La Salle,3A,County Judge,,DEM,16,9,5,0,0,0,0,0,6,2,4,0,3,2,1,0,4
-La Salle,3A,District and County Clerk,,DEM,16,9,4,0,0,0,0,0,6,3,3,0,3,2,1,0,5
-La Salle,3A,County Treasurer,,DEM,16,9,5,0,0,0,0,0,6,3,3,0,3,1,2,0,4
-La Salle,3A,"Justice of the Peace, Precinct No. 3",,DEM,16,9,4,0,0,0,0,0,6,4,2,0,3,1,2,0,5
-La Salle,4,Straight Party,,REP,99,64,46,0,0,0,0,0,33,5,27,0,31,11,19,0,16
-La Salle,4,Straight Party,,DEM,99,64,46,0,0,0,0,0,33,1,27,0,31,1,19,0,2
-La Salle,4,Straight Party,,LIB,99,64,46,0,0,0,0,0,33,0,27,0,31,0,19,0,0
-La Salle,4,United States Senator,,REP,99,64,2,0,0,0,0,0,33,27,2,0,31,28,0,0,55
-La Salle,4,United States Senator,,DEM,99,64,2,0,0,0,0,0,33,4,2,0,31,2,0,0,6
-La Salle,4,United States Senator,,LIB,99,64,2,0,0,0,0,0,33,0,2,0,31,1,0,0,1
-La Salle,4,United States Representative,23,REP,99,64,7,0,0,0,0,0,33,20,6,0,31,27,1,0,47
-La Salle,4,United States Representative,23,DEM,99,64,7,0,0,0,0,0,33,6,6,0,31,3,1,0,9
-La Salle,4,United States Representative,23,LIB,99,64,7,0,0,0,0,0,33,1,6,0,31,0,1,0,1
-La Salle,4,Governor,,REP,99,64,5,0,0,0,0,0,33,26,4,0,31,28,1,0,54
-La Salle,4,Governor,,DEM,99,64,5,0,0,0,0,0,33,3,4,0,31,2,1,0,5
-La Salle,4,Governor,,LIB,99,64,5,0,0,0,0,0,33,0,4,0,31,0,1,0,0
-La Salle,4,Lieutenant Governor,,REP,99,64,11,0,0,0,0,0,33,20,8,0,31,24,3,0,44
-La Salle,4,Lieutenant Governor,,DEM,99,64,11,0,0,0,0,0,33,4,8,0,31,3,3,0,7
-La Salle,4,Lieutenant Governor,,LIB,99,64,11,0,0,0,0,0,33,1,8,0,31,1,3,0,2
-La Salle,4,Attorney General,,REP,99,64,13,0,0,0,0,0,33,19,11,0,31,27,2,0,46
-La Salle,4,Attorney General,,DEM,99,64,13,0,0,0,0,0,33,2,11,0,31,2,2,0,4
-La Salle,4,Attorney General,,LIB,99,64,13,0,0,0,0,0,33,1,11,0,31,0,2,0,1
-La Salle,4,Comptroller of Public Accounts,,REP,99,64,11,0,0,0,0,0,33,18,9,0,31,27,2,0,45
-La Salle,4,Comptroller of Public Accounts,,DEM,99,64,11,0,0,0,0,0,33,2,9,0,31,1,2,0,3
-La Salle,4,Comptroller of Public Accounts,,LIB,99,64,11,0,0,0,0,0,33,4,9,0,31,1,2,0,5
-La Salle,4,Commissioner of the General Land Office,,REP,99,64,8,0,0,0,0,0,33,23,7,0,31,27,1,0,50
-La Salle,4,Commissioner of the General Land Office,,DEM,99,64,8,0,0,0,0,0,33,2,7,0,31,3,1,0,5
-La Salle,4,Commissioner of the General Land Office,,LIB,99,64,8,0,0,0,0,0,33,1,7,0,31,0,1,0,1
-La Salle,4,Commissioner of Agriculture,,REP,99,64,10,0,0,0,0,0,33,22,8,0,31,23,2,0,45
-La Salle,4,Commissioner of Agriculture,,DEM,99,64,10,0,0,0,0,0,33,2,8,0,31,6,2,0,8
-La Salle,4,Commissioner of Agriculture,,LIB,99,64,10,0,0,0,0,0,33,1,8,0,31,0,2,0,1
-La Salle,4,Railroad Commissioner,,REP,99,64,10,0,0,0,0,0,33,21,8,0,31,25,2,0,46
-La Salle,4,Railroad Commissioner,,DEM,99,64,10,0,0,0,0,0,33,1,8,0,31,2,2,0,3
-La Salle,4,Railroad Commissioner,,LIB,99,64,10,0,0,0,0,0,33,3,8,0,31,2,2,0,5
-La Salle,4,"Justice, Supreme Court, Place 2",,REP,99,64,11,0,0,0,0,0,33,22,8,0,31,27,3,0,49
-La Salle,4,"Justice, Supreme Court, Place 2",,DEM,99,64,11,0,0,0,0,0,33,3,8,0,31,1,3,0,4
-La Salle,4,"Justice, Supreme Court, Place 4",,REP,99,64,11,0,0,0,0,0,33,18,9,0,31,28,2,0,46
-La Salle,4,"Justice, Supreme Court, Place 4",,DEM,99,64,11,0,0,0,0,0,33,6,9,0,31,1,2,0,7
-La Salle,4,"Justice, Supreme Court, Place 6",,REP,99,64,12,0,0,0,0,0,33,21,9,0,31,27,3,0,48
-La Salle,4,"Justice, Supreme Court, Place 6",,DEM,99,64,12,0,0,0,0,0,33,3,9,0,31,1,3,0,4
-La Salle,4,"Presiding Judge, Court of Criminal Appeals",,REP,99,64,11,0,0,0,0,0,33,20,8,0,31,27,3,0,47
-La Salle,4,"Presiding Judge, Court of Criminal Appeals",,DEM,99,64,11,0,0,0,0,0,33,3,8,0,31,1,3,0,4
-La Salle,4,"Presiding Judge, Court of Criminal Appeals",,LIB,99,64,11,0,0,0,0,0,33,2,8,0,31,0,3,0,2
-La Salle,4,"Judge, Court of Criminal Appeals, Place 7",,REP,99,64,13,0,0,0,0,0,33,18,10,0,31,27,3,0,45
-La Salle,4,"Judge, Court of Criminal Appeals, Place 7",,DEM,99,64,13,0,0,0,0,0,33,5,10,0,31,1,3,0,6
-La Salle,4,"Judge, Court of Criminal Appeals, Place 8",,REP,99,64,15,0,0,0,0,0,33,20,11,0,31,27,4,0,47
-La Salle,4,"Judge, Court of Criminal Appeals, Place 8",,LIB,99,64,15,0,0,0,0,0,33,2,11,0,31,0,4,0,2
-La Salle,4,State Representative,31,DEM,99,64,48,0,0,0,0,0,33,8,25,0,31,8,23,0,16
-La Salle,4,"Justice, 4th Court of Appeals District, Place No. 2",,REP,99,64,13,0,0,0,0,0,33,21,10,0,31,27,3,0,48
-La Salle,4,"Justice, 4th Court of Appeals District, Place No. 2",,DEM,99,64,13,0,0,0,0,0,33,2,10,0,31,1,3,0,3
-La Salle,4,"Justice, 4th Court of Appeals District, Place No. 3",,REP,99,64,13,0,0,0,0,0,33,20,10,0,31,27,3,0,47
-La Salle,4,"Justice, 4th Court of Appeals District, Place No. 3",,DEM,99,64,13,0,0,0,0,0,33,3,10,0,31,1,3,0,4
-La Salle,4,"Justice, 4th Court of Appeals District, Place No. 4",,REP,99,64,14,0,0,0,0,0,33,20,11,0,31,27,3,0,47
-La Salle,4,"Justice, 4th Court of Appeals District, Place No. 4",,DEM,99,64,14,0,0,0,0,0,33,2,11,0,31,1,3,0,3
-La Salle,4,"Justice, 4th Court of Appeals District, Place No. 5",,REP,99,64,13,0,0,0,0,0,33,19,10,0,31,27,3,0,46
-La Salle,4,"Justice, 4th Court of Appeals District, Place No. 5",,DEM,99,64,13,0,0,0,0,0,33,4,10,0,31,1,3,0,5
-La Salle,4,"Justice, 4th Court of Appeals District, Place No. 7",,REP,99,64,13,0,0,0,0,0,33,19,10,0,31,26,3,0,45
-La Salle,4,"Justice, 4th Court of Appeals District, Place No. 7",,DEM,99,64,13,0,0,0,0,0,33,4,10,0,31,2,3,0,6
-La Salle,4,"District Judge, 81st Judicial District",,REP,99,64,12,0,0,0,0,0,33,20,9,0,31,26,3,0,46
-La Salle,4,"District Judge, 81st Judicial District",,DEM,99,64,12,0,0,0,0,0,33,4,9,0,31,2,3,0,6
-La Salle,4,"District Judge, 218th Judicial District",,REP,99,64,20,0,0,0,0,0,33,21,12,0,31,23,8,0,44
-La Salle,4,County Judge,,DEM,99,64,35,0,0,0,0,0,33,17,16,0,31,12,19,0,29
-La Salle,4,District and County Clerk,,DEM,99,64,31,0,0,0,0,0,33,18,15,0,31,15,16,0,33
-La Salle,4,County Treasurer,,DEM,99,64,35,0,0,0,0,0,33,15,18,0,31,14,17,0,29
-La Salle,4,"County Commissioner, Precinct No. 4",,DEM,99,64,27,0,0,0,0,0,33,20,13,0,31,17,14,0,37
-La Salle,4,"Justice of the Peace, Precinct No. 4",,REP,99,64,3,0,0,0,0,0,33,24,0,0,31,20,3,0,44
-La Salle,4,"Justice of the Peace, Precinct No. 4",,DEM,99,64,3,0,0,0,0,0,33,9,0,0,31,8,3,0,17
-La Salle,5,Straight Party,,REP,956,293,130,0,0,0,0,0,162,33,73,0,131,17,57,0,50
-La Salle,5,Straight Party,,DEM,956,293,130,0,0,0,0,0,162,56,73,0,131,57,57,0,113
-La Salle,5,Straight Party,,LIB,956,293,130,0,0,0,0,0,162,0,73,0,131,0,57,0,0
-La Salle,5,United States Senator,,REP,956,293,5,0,0,0,0,0,162,76,3,0,131,44,2,0,120
-La Salle,5,United States Senator,,DEM,956,293,5,0,0,0,0,0,162,82,3,0,131,84,2,0,166
-La Salle,5,United States Senator,,LIB,956,293,5,0,0,0,0,0,162,1,3,0,131,1,2,0,2
-La Salle,5,United States Representative,23,REP,956,293,0,0,0,0,0,0,162,76,0,0,131,37,0,0,113
-La Salle,5,United States Representative,23,DEM,956,293,0,0,0,0,0,0,162,82,0,0,131,92,0,0,174
-La Salle,5,United States Representative,23,LIB,956,293,0,0,0,0,0,0,162,4,0,0,131,2,0,0,6
-La Salle,5,Governor,,REP,956,293,4,0,0,0,0,0,162,80,1,0,131,48,3,0,128
-La Salle,5,Governor,,DEM,956,293,4,0,0,0,0,0,162,79,1,0,131,80,3,0,159
-La Salle,5,Governor,,LIB,956,293,4,0,0,0,0,0,162,2,1,0,131,0,3,0,2
-La Salle,5,Lieutenant Governor,,REP,956,293,11,0,0,0,0,0,162,76,6,0,131,45,5,0,121
-La Salle,5,Lieutenant Governor,,DEM,956,293,11,0,0,0,0,0,162,80,6,0,131,81,5,0,161
-La Salle,5,Lieutenant Governor,,LIB,956,293,11,0,0,0,0,0,162,0,6,0,131,0,5,0,0
-La Salle,5,Attorney General,,REP,956,293,11,0,0,0,0,0,162,76,5,0,131,38,6,0,114
-La Salle,5,Attorney General,,DEM,956,293,11,0,0,0,0,0,162,81,5,0,131,86,6,0,167
-La Salle,5,Attorney General,,LIB,956,293,11,0,0,0,0,0,162,0,5,0,131,1,6,0,1
-La Salle,5,Comptroller of Public Accounts,,REP,956,293,16,0,0,0,0,0,162,74,5,0,131,36,11,0,110
-La Salle,5,Comptroller of Public Accounts,,DEM,956,293,16,0,0,0,0,0,162,78,5,0,131,81,11,0,159
-La Salle,5,Comptroller of Public Accounts,,LIB,956,293,16,0,0,0,0,0,162,5,5,0,131,3,11,0,8
-La Salle,5,Commissioner of the General Land Office,,REP,956,293,10,0,0,0,0,0,162,78,5,0,131,43,5,0,121
-La Salle,5,Commissioner of the General Land Office,,DEM,956,293,10,0,0,0,0,0,162,76,5,0,131,81,5,0,157
-La Salle,5,Commissioner of the General Land Office,,LIB,956,293,10,0,0,0,0,0,162,3,5,0,131,2,5,0,5
-La Salle,5,Commissioner of Agriculture,,REP,956,293,15,0,0,0,0,0,162,75,7,0,131,35,8,0,110
-La Salle,5,Commissioner of Agriculture,,DEM,956,293,15,0,0,0,0,0,162,80,7,0,131,87,8,0,167
-La Salle,5,Commissioner of Agriculture,,LIB,956,293,15,0,0,0,0,0,162,0,7,0,131,1,8,0,1
-La Salle,5,Railroad Commissioner,,REP,956,293,13,0,0,0,0,0,162,76,5,0,131,37,8,0,113
-La Salle,5,Railroad Commissioner,,DEM,956,293,13,0,0,0,0,0,162,80,5,0,131,84,8,0,164
-La Salle,5,Railroad Commissioner,,LIB,956,293,13,0,0,0,0,0,162,1,5,0,131,2,8,0,3
-La Salle,5,"Justice, Supreme Court, Place 2",,REP,956,293,16,0,0,0,0,0,162,76,7,0,131,36,9,0,112
-La Salle,5,"Justice, Supreme Court, Place 2",,DEM,956,293,16,0,0,0,0,0,162,79,7,0,131,86,9,0,165
-La Salle,5,"Justice, Supreme Court, Place 4",,REP,956,293,14,0,0,0,0,0,162,77,5,0,131,38,9,0,115
-La Salle,5,"Justice, Supreme Court, Place 4",,DEM,956,293,14,0,0,0,0,0,162,80,5,0,131,84,9,0,164
-La Salle,5,"Justice, Supreme Court, Place 6",,REP,956,293,14,0,0,0,0,0,162,76,5,0,131,38,9,0,114
-La Salle,5,"Justice, Supreme Court, Place 6",,DEM,956,293,14,0,0,0,0,0,162,81,5,0,131,84,9,0,165
-La Salle,5,"Presiding Judge, Court of Criminal Appeals",,REP,956,293,12,0,0,0,0,0,162,77,4,0,131,37,8,0,114
-La Salle,5,"Presiding Judge, Court of Criminal Appeals",,DEM,956,293,12,0,0,0,0,0,162,80,4,0,131,85,8,0,165
-La Salle,5,"Presiding Judge, Court of Criminal Appeals",,LIB,956,293,12,0,0,0,0,0,162,1,4,0,131,1,8,0,2
-La Salle,5,"Judge, Court of Criminal Appeals, Place 7",,REP,956,293,15,0,0,0,0,0,162,74,8,0,131,38,7,0,112
-La Salle,5,"Judge, Court of Criminal Appeals, Place 7",,DEM,956,293,15,0,0,0,0,0,162,80,8,0,131,86,7,0,166
-La Salle,5,"Judge, Court of Criminal Appeals, Place 8",,REP,956,293,126,0,0,0,0,0,162,78,64,0,131,50,62,0,128
-La Salle,5,"Judge, Court of Criminal Appeals, Place 8",,LIB,956,293,126,0,0,0,0,0,162,20,64,0,131,19,62,0,39
-La Salle,5,State Representative,31,DEM,956,293,99,0,0,0,0,0,162,98,64,0,131,96,35,0,194
-La Salle,5,"Justice, 4th Court of Appeals District, Place No. 2",,REP,956,293,15,0,0,0,0,0,162,73,7,0,131,35,8,0,108
-La Salle,5,"Justice, 4th Court of Appeals District, Place No. 2",,DEM,956,293,15,0,0,0,0,0,162,82,7,0,131,88,8,0,170
-La Salle,5,"Justice, 4th Court of Appeals District, Place No. 3",,REP,956,293,14,0,0,0,0,0,162,74,6,0,131,34,8,0,108
-La Salle,5,"Justice, 4th Court of Appeals District, Place No. 3",,DEM,956,293,14,0,0,0,0,0,162,82,6,0,131,89,8,0,171
-La Salle,5,"Justice, 4th Court of Appeals District, Place No. 4",,REP,956,293,14,0,0,0,0,0,162,74,6,0,131,37,8,0,111
-La Salle,5,"Justice, 4th Court of Appeals District, Place No. 4",,DEM,956,293,14,0,0,0,0,0,162,82,6,0,131,86,8,0,168
-La Salle,5,"Justice, 4th Court of Appeals District, Place No. 5",,REP,956,293,14,0,0,0,0,0,162,74,5,0,131,33,9,0,107
-La Salle,5,"Justice, 4th Court of Appeals District, Place No. 5",,DEM,956,293,14,0,0,0,0,0,162,83,5,0,131,89,9,0,172
-La Salle,5,"Justice, 4th Court of Appeals District, Place No. 7",,REP,956,293,13,0,0,0,0,0,162,74,5,0,131,34,8,0,108
-La Salle,5,"Justice, 4th Court of Appeals District, Place No. 7",,DEM,956,293,13,0,0,0,0,0,162,83,5,0,131,89,8,0,172
-La Salle,5,"District Judge, 81st Judicial District",,REP,956,293,8,0,0,0,0,0,162,76,2,0,131,42,6,0,118
-La Salle,5,"District Judge, 81st Judicial District",,DEM,956,293,8,0,0,0,0,0,162,84,2,0,131,83,6,0,167
-La Salle,5,"District Judge, 218th Judicial District",,REP,956,293,161,0,0,0,0,0,162,81,81,0,131,51,80,0,132
-La Salle,5,County Judge,,DEM,956,293,85,0,0,0,0,0,162,111,51,0,131,97,34,0,208
-La Salle,5,District and County Clerk,,DEM,956,293,80,0,0,0,0,0,162,116,46,0,131,97,34,0,213
-La Salle,5,County Treasurer,,DEM,956,293,82,0,0,0,0,0,162,111,51,0,131,100,31,0,211
-La Salle,5,"County Commissioner, Precinct No. 4",,DEM,956,293,76,0,0,0,0,0,162,119,43,0,131,98,33,0,217
-La Salle,5,"Justice of the Peace, Precinct No. 1",,DEM,956,293,95,0,0,0,0,0,162,103,59,0,131,95,36,0,198
-La Salle,6,Straight Party,,REP,450,183,86,0,0,0,0,0,95,26,45,0,88,12,41,0,38
-La Salle,6,Straight Party,,DEM,450,183,86,0,0,0,0,0,95,24,45,0,88,35,41,0,59
-La Salle,6,Straight Party,,LIB,450,183,86,0,0,0,0,0,95,0,45,0,88,0,41,0,0
-La Salle,6,United States Senator,,REP,450,183,1,0,0,0,0,0,95,57,1,0,88,26,0,0,83
-La Salle,6,United States Senator,,DEM,450,183,1,0,0,0,0,0,95,37,1,0,88,62,0,0,99
-La Salle,6,United States Senator,,LIB,450,183,1,0,0,0,0,0,95,0,1,0,88,0,0,0,0
-La Salle,6,United States Representative,23,REP,450,183,5,0,0,0,0,0,95,54,2,0,88,21,3,0,75
-La Salle,6,United States Representative,23,DEM,450,183,5,0,0,0,0,0,95,39,2,0,88,63,3,0,102
-La Salle,6,United States Representative,23,LIB,450,183,5,0,0,0,0,0,95,0,2,0,88,1,3,0,1
-La Salle,6,Governor,,REP,450,183,8,0,0,0,0,0,95,59,1,0,88,30,7,0,89
-La Salle,6,Governor,,DEM,450,183,8,0,0,0,0,0,95,35,1,0,88,51,7,0,86
-La Salle,6,Governor,,LIB,450,183,8,0,0,0,0,0,95,0,1,0,88,0,7,0,0
-La Salle,6,Lieutenant Governor,,REP,450,183,13,0,0,0,0,0,95,55,2,0,88,25,11,0,80
-La Salle,6,Lieutenant Governor,,DEM,450,183,13,0,0,0,0,0,95,35,2,0,88,52,11,0,87
-La Salle,6,Lieutenant Governor,,LIB,450,183,13,0,0,0,0,0,95,3,2,0,88,0,11,0,3
-La Salle,6,Attorney General,,REP,450,183,13,0,0,0,0,0,95,56,2,0,88,22,11,0,78
-La Salle,6,Attorney General,,DEM,450,183,13,0,0,0,0,0,95,36,2,0,88,54,11,0,90
-La Salle,6,Attorney General,,LIB,450,183,13,0,0,0,0,0,95,1,2,0,88,1,11,0,2
-La Salle,6,Comptroller of Public Accounts,,REP,450,183,16,0,0,0,0,0,95,56,2,0,88,20,14,0,76
-La Salle,6,Comptroller of Public Accounts,,DEM,450,183,16,0,0,0,0,0,95,34,2,0,88,52,14,0,86
-La Salle,6,Comptroller of Public Accounts,,LIB,450,183,16,0,0,0,0,0,95,3,2,0,88,2,14,0,5
-La Salle,6,Commissioner of the General Land Office,,REP,450,183,15,0,0,0,0,0,95,57,3,0,88,24,12,0,81
-La Salle,6,Commissioner of the General Land Office,,DEM,450,183,15,0,0,0,0,0,95,34,3,0,88,48,12,0,82
-La Salle,6,Commissioner of the General Land Office,,LIB,450,183,15,0,0,0,0,0,95,1,3,0,88,4,12,0,5
-La Salle,6,Commissioner of Agriculture,,REP,450,183,16,0,0,0,0,0,95,57,2,0,88,20,14,0,77
-La Salle,6,Commissioner of Agriculture,,DEM,450,183,16,0,0,0,0,0,95,35,2,0,88,52,14,0,87
-La Salle,6,Commissioner of Agriculture,,LIB,450,183,16,0,0,0,0,0,95,1,2,0,88,2,14,0,3
-La Salle,6,Railroad Commissioner,,REP,450,183,17,0,0,0,0,0,95,57,2,0,88,20,15,0,77
-La Salle,6,Railroad Commissioner,,DEM,450,183,17,0,0,0,0,0,95,35,2,0,88,49,15,0,84
-La Salle,6,Railroad Commissioner,,LIB,450,183,17,0,0,0,0,0,95,1,2,0,88,4,15,0,5
-La Salle,6,"Justice, Supreme Court, Place 2",,REP,450,183,19,0,0,0,0,0,95,58,4,0,88,20,15,0,78
-La Salle,6,"Justice, Supreme Court, Place 2",,DEM,450,183,19,0,0,0,0,0,95,33,4,0,88,53,15,0,86
-La Salle,6,"Justice, Supreme Court, Place 4",,REP,450,183,20,0,0,0,0,0,95,59,2,0,88,20,18,0,79
-La Salle,6,"Justice, Supreme Court, Place 4",,DEM,450,183,20,0,0,0,0,0,95,34,2,0,88,50,18,0,84
-La Salle,6,"Justice, Supreme Court, Place 6",,REP,450,183,17,0,0,0,0,0,95,59,3,0,88,20,14,0,79
-La Salle,6,"Justice, Supreme Court, Place 6",,DEM,450,183,17,0,0,0,0,0,95,33,3,0,88,54,14,0,87
-La Salle,6,"Presiding Judge, Court of Criminal Appeals",,REP,450,183,18,0,0,0,0,0,95,57,4,0,88,20,14,0,77
-La Salle,6,"Presiding Judge, Court of Criminal Appeals",,DEM,450,183,18,0,0,0,0,0,95,34,4,0,88,54,14,0,88
-La Salle,6,"Presiding Judge, Court of Criminal Appeals",,LIB,450,183,18,0,0,0,0,0,95,0,4,0,88,0,14,0,0
-La Salle,6,"Judge, Court of Criminal Appeals, Place 7",,REP,450,183,17,0,0,0,0,0,95,57,3,0,88,21,14,0,78
-La Salle,6,"Judge, Court of Criminal Appeals, Place 7",,DEM,450,183,17,0,0,0,0,0,95,35,3,0,88,53,14,0,88
-La Salle,6,"Judge, Court of Criminal Appeals, Place 8",,REP,450,183,77,0,0,0,0,0,95,59,28,0,88,26,49,0,85
-La Salle,6,"Judge, Court of Criminal Appeals, Place 8",,LIB,450,183,77,0,0,0,0,0,95,8,28,0,88,13,49,0,21
-La Salle,6,State Representative,31,DEM,450,183,74,0,0,0,0,0,95,52,43,0,88,57,31,0,109
-La Salle,6,"Justice, 4th Court of Appeals District, Place No. 2",,REP,450,183,19,0,0,0,0,0,95,57,3,0,88,21,16,0,78
-La Salle,6,"Justice, 4th Court of Appeals District, Place No. 2",,DEM,450,183,19,0,0,0,0,0,95,35,3,0,88,51,16,0,86
-La Salle,6,"Justice, 4th Court of Appeals District, Place No. 3",,REP,450,183,17,0,0,0,0,0,95,58,2,0,88,19,15,0,77
-La Salle,6,"Justice, 4th Court of Appeals District, Place No. 3",,DEM,450,183,17,0,0,0,0,0,95,35,2,0,88,54,15,0,89
-La Salle,6,"Justice, 4th Court of Appeals District, Place No. 4",,REP,450,183,18,0,0,0,0,0,95,56,3,0,88,20,15,0,76
-La Salle,6,"Justice, 4th Court of Appeals District, Place No. 4",,DEM,450,183,18,0,0,0,0,0,95,36,3,0,88,53,15,0,89
-La Salle,6,"Justice, 4th Court of Appeals District, Place No. 5",,REP,450,183,16,0,0,0,0,0,95,57,2,0,88,23,14,0,80
-La Salle,6,"Justice, 4th Court of Appeals District, Place No. 5",,DEM,450,183,16,0,0,0,0,0,95,36,2,0,88,51,14,0,87
-La Salle,6,"Justice, 4th Court of Appeals District, Place No. 7",,REP,450,183,16,0,0,0,0,0,95,58,3,0,88,19,13,0,77
-La Salle,6,"Justice, 4th Court of Appeals District, Place No. 7",,DEM,450,183,16,0,0,0,0,0,95,34,3,0,88,56,13,0,90
-La Salle,6,"District Judge, 81st Judicial District",,REP,450,183,15,0,0,0,0,0,95,58,2,0,88,24,13,0,82
-La Salle,6,"District Judge, 81st Judicial District",,DEM,450,183,15,0,0,0,0,0,95,35,2,0,88,51,13,0,86
-La Salle,6,"District Judge, 218th Judicial District",,REP,450,183,89,0,0,0,0,0,95,63,32,0,88,31,57,0,94
-La Salle,6,County Judge,,DEM,450,183,70,0,0,0,0,0,95,55,40,0,88,58,30,0,113
-La Salle,6,District and County Clerk,,DEM,450,183,60,0,0,0,0,0,95,61,34,0,88,62,26,0,123
-La Salle,6,County Treasurer,,DEM,450,183,62,0,0,0,0,0,95,59,36,0,88,62,26,0,121
-La Salle,6,"County Commissioner, Precinct No. 2",,DEM,450,183,60,0,0,0,0,0,95,59,36,0,88,64,24,0,123
-La Salle,6,"Justice of the Peace, Precinct No. 1",,DEM,450,183,65,0,0,0,0,0,95,55,40,0,88,63,25,0,118
+county,precinct,office,district,party,candidate,votes,early_voting,election_day
+La Salle,1,Registered Voters,,,,1082,,
+La Salle,1,Ballots Cast,,,,462,266,196
+La Salle,1,Straight Party,,,Over Votes,1,0,1
+La Salle,1,Straight Party,,,Under Votes,233,138,95
+La Salle,1,Straight Party,,REP,Republican Party,106,64,42
+La Salle,1,Straight Party,,DEM,Democratic Party,121,64,57
+La Salle,1,Straight Party,,LIB,Libertarian Party,1,0,1
+La Salle,1,U.S. Senate,,,Over Votes,0,0,0
+La Salle,1,U.S. Senate,,,Under Votes,6,2,4
+La Salle,1,U.S. Senate,,REP,Ted Cruz,246,159,87
+La Salle,1,U.S. Senate,,DEM,Beto O'Rourke,210,105,105
+La Salle,1,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0
+La Salle,1,U.S. House,23,,Over Votes,0,0,0
+La Salle,1,U.S. House,23,,Under Votes,5,3,2
+La Salle,1,U.S. House,23,REP,Will Hurd,242,160,82
+La Salle,1,U.S. House,23,DEM,Gina Ortiz Jones,212,103,109
+La Salle,1,U.S. House,23,LIB,Ruben Corvalan,3,0,3
+La Salle,1,Governor,,,Over Votes,0,0,0
+La Salle,1,Governor,,,Under Votes,11,3,8
+La Salle,1,Governor,,REP,Greg Abbott,269,170,99
+La Salle,1,Governor,,DEM,Lupe Valdez,180,92,88
+La Salle,1,Governor,,LIB,Mark Jay Tippetts,2,1,1
+La Salle,1,Lieutenant Governor,,,Over Votes,0,0,0
+La Salle,1,Lieutenant Governor,,,Under Votes,21,6,15
+La Salle,1,Lieutenant Governor,,REP,Dan Patrick,237,154,83
+La Salle,1,Lieutenant Governor,,DEM,Mike Collier,196,101,95
+La Salle,1,Lieutenant Governor,,LIB,Kerry Douglas McKennon,8,5,3
+La Salle,1,Attorney General,,,Over Votes,0,0,0
+La Salle,1,Attorney General,,,Under Votes,24,10,14
+La Salle,1,Attorney General,,REP,Ken Paxton,228,147,81
+La Salle,1,Attorney General,,DEM,Justin Nelson,203,106,97
+La Salle,1,Attorney General,,LIB,Michael Ray Harris,7,3,4
+La Salle,1,Comptroller of Public Accounts,,,Over Votes,1,0,1
+La Salle,1,Comptroller of Public Accounts,,,Under Votes,34,17,17
+La Salle,1,Comptroller of Public Accounts,,REP,Glenn Hegar,222,144,78
+La Salle,1,Comptroller of Public Accounts,,DEM,Joi Chevalier,194,100,94
+La Salle,1,Comptroller of Public Accounts,,LIB,Ben Sanders,11,5,6
+La Salle,1,Commissioner of the General Land Office,,,Over Votes,0,0,0
+La Salle,1,Commissioner of the General Land Office,,,Under Votes,29,13,16
+La Salle,1,Commissioner of the General Land Office,,REP,George P. Bush,222,143,79
+La Salle,1,Commissioner of the General Land Office,,DEM,Miguel Suazo,196,99,97
+La Salle,1,Commissioner of the General Land Office,,LIB,Matt Piña,15,11,4
+La Salle,1,Commissioner of Agriculture,,,Over Votes,0,0,0
+La Salle,1,Commissioner of Agriculture,,,Under Votes,32,15,17
+La Salle,1,Commissioner of Agriculture,,REP,Sid Miller,214,142,72
+La Salle,1,Commissioner of Agriculture,,DEM,Kim Olson,207,102,105
+La Salle,1,Commissioner of Agriculture,,LIB,Richard Carpenter,9,7,2
+La Salle,1,Railroad Commissioner,,,Over Votes,0,0,0
+La Salle,1,Railroad Commissioner,,,Under Votes,34,17,17
+La Salle,1,Railroad Commissioner,,REP,Christi Craddick,223,145,78
+La Salle,1,Railroad Commissioner,,DEM,Roman McAllen,198,97,101
+La Salle,1,Railroad Commissioner,,LIB,Mike Wright,7,7,0
+La Salle,1,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0
+La Salle,1,"Justice, Supreme Court, Place 2",,,Under Votes,38,21,17
+La Salle,1,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,224,145,79
+La Salle,1,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,200,100,100
+La Salle,1,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0
+La Salle,1,"Justice, Supreme Court, Place 4",,,Under Votes,36,19,17
+La Salle,1,"Justice, Supreme Court, Place 4",,REP,John Devine,226,147,79
+La Salle,1,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,200,100,100
+La Salle,1,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0
+La Salle,1,"Justice, Supreme Court, Place 6",,,Under Votes,37,21,16
+La Salle,1,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,225,144,81
+La Salle,1,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,200,101,99
+La Salle,1,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,1,1,0
+La Salle,1,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,36,19,17
+La Salle,1,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,221,141,80
+La Salle,1,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,199,101,98
+La Salle,1,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,5,4,1
+La Salle,1,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0
+La Salle,1,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,38,22,16
+La Salle,1,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,220,141,79
+La Salle,1,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,204,103,101
+La Salle,1,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0
+La Salle,1,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,153,82,71
+La Salle,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,251,158,93
+La Salle,1,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,58,26,32
+La Salle,1,State Representative,31,,Over Votes,0,0,0
+La Salle,1,State Representative,31,,Under Votes,174,103,71
+La Salle,1,State Representative,31,DEM,Ryan Guillen,288,163,125
+La Salle,1,"Justice, 4th Court of Appeals District, Place 2",,,Over Votes,0,0,0
+La Salle,1,"Justice, 4th Court of Appeals District, Place 2",,,Under Votes,38,20,18
+La Salle,1,"Justice, 4th Court of Appeals District, Place 2",,REP,Marialyn Barnard,221,147,74
+La Salle,1,"Justice, 4th Court of Appeals District, Place 2",,DEM,Beth Watkins,203,99,104
+La Salle,1,"Justice, 4th Court of Appeals District, Place 3",,,Over Votes,0,0,0
+La Salle,1,"Justice, 4th Court of Appeals District, Place 3",,,Under Votes,36,20,16
+La Salle,1,"Justice, 4th Court of Appeals District, Place 3",,REP,Jason Pulliam,216,142,74
+La Salle,1,"Justice, 4th Court of Appeals District, Place 3",,DEM,Patricia O'Connell Alvarez,210,104,106
+La Salle,1,"Justice, 4th Court of Appeals District, Place 4",,,Over Votes,0,0,0
+La Salle,1,"Justice, 4th Court of Appeals District, Place 4",,,Under Votes,35,19,16
+La Salle,1,"Justice, 4th Court of Appeals District, Place 4",,REP,Patrick Ballantyne,220,143,77
+La Salle,1,"Justice, 4th Court of Appeals District, Place 4",,DEM,Luz Elena Chapa,207,104,103
+La Salle,1,"Justice, 4th Court of Appeals District, Place 5",,,Over Votes,0,0,0
+La Salle,1,"Justice, 4th Court of Appeals District, Place 5",,,Under Votes,38,20,18
+La Salle,1,"Justice, 4th Court of Appeals District, Place 5",,REP,Rebecca Simmons,214,142,72
+La Salle,1,"Justice, 4th Court of Appeals District, Place 5",,DEM,Liza Rodriguez,210,104,106
+La Salle,1,"Justice, 4th Court of Appeals District, Place 7",,,Over Votes,0,0,0
+La Salle,1,"Justice, 4th Court of Appeals District, Place 7",,,Under Votes,36,19,17
+La Salle,1,"Justice, 4th Court of Appeals District, Place 7",,REP,Shane Stolarczyk,205,135,70
+La Salle,1,"Justice, 4th Court of Appeals District, Place 7",,DEM,Rebeca Martinez,221,112,109
+La Salle,1,"District Judge, 81st Judicial District",,,Over Votes,1,0,1
+La Salle,1,"District Judge, 81st Judicial District",,,Under Votes,23,9,14
+La Salle,1,"District Judge, 81st Judicial District",,REP,Lynn Ellison,241,159,82
+La Salle,1,"District Judge, 81st Judicial District",,DEM,Errlinda Castillo,197,98,99
+La Salle,1,"District Judge, 218th Judicial District",,,Over Votes,0,0,0
+La Salle,1,"District Judge, 218th Judicial District",,,Under Votes,201,102,99
+La Salle,1,"District Judge, 218th Judicial District",,REP,Russell Wilson,261,164,97
+La Salle,1,County Judge,,,Over Votes,0,0,0
+La Salle,1,County Judge,,,Under Votes,172,100,72
+La Salle,1,County Judge,,DEM,"Joel Rodriguez, Jr.",290,166,124
+La Salle,1,District and County Clerk,,,Over Votes,0,0,0
+La Salle,1,District and County Clerk,,,Under Votes,134,73,61
+La Salle,1,District and County Clerk,,DEM,"Margarita ""Margie"" Avila Esqueda",328,193,135
+La Salle,1,County Treasurer,,,Over Votes,0,0,0
+La Salle,1,County Treasurer,,,Under Votes,144,84,60
+La Salle,1,County Treasurer,,DEM,"Maria ""Mary"" M. Perez",318,182,136
+La Salle,1,"Justice of the Peace, Precinct 1",,,Over Votes,0,0,0
+La Salle,1,"Justice of the Peace, Precinct 1",,,Under Votes,174,108,66
+La Salle,1,"Justice of the Peace, Precinct 1",,DEM,Roxanna G. Rodriguez,288,158,130
+La Salle,2,Registered Voters,,,,649,,
+La Salle,2,Ballots Cast,,,,192,51,141
+La Salle,2,Straight Party,,,Over Votes,0,0,0
+La Salle,2,Straight Party,,,Under Votes,86,18,68
+La Salle,2,Straight Party,,REP,Republican Party,25,8,17
+La Salle,2,Straight Party,,DEM,Democratic Party,80,25,55
+La Salle,2,Straight Party,,LIB,Libertarian Party,1,0,1
+La Salle,2,U.S. Senate,,,Over Votes,0,0,0
+La Salle,2,U.S. Senate,,,Under Votes,0,0,0
+La Salle,2,U.S. Senate,,REP,Ted Cruz,57,16,41
+La Salle,2,U.S. Senate,,DEM,Beto O'Rourke,135,35,100
+La Salle,2,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0
+La Salle,2,U.S. House,28,,Over Votes,0,0,0
+La Salle,2,U.S. House,28,,Under Votes,19,4,15
+La Salle,2,U.S. House,28,DEM,Henry Cuellar,162,45,117
+La Salle,2,U.S. House,28,LIB,"Arthur Thomas, IV",11,2,9
+La Salle,2,Governor,,,Over Votes,1,0,1
+La Salle,2,Governor,,,Under Votes,8,1,7
+La Salle,2,Governor,,REP,Greg Abbott,73,18,55
+La Salle,2,Governor,,DEM,Lupe Valdez,108,31,77
+La Salle,2,Governor,,LIB,Mark Jay Tippetts,2,1,1
+La Salle,2,Lieutenant Governor,,,Over Votes,0,0,0
+La Salle,2,Lieutenant Governor,,,Under Votes,12,1,11
+La Salle,2,Lieutenant Governor,,REP,Dan Patrick,59,15,44
+La Salle,2,Lieutenant Governor,,DEM,Mike Collier,119,34,85
+La Salle,2,Lieutenant Governor,,LIB,Kerry Douglas McKennon,2,1,1
+La Salle,2,Attorney General,,,Over Votes,0,0,0
+La Salle,2,Attorney General,,,Under Votes,13,1,12
+La Salle,2,Attorney General,,REP,Ken Paxton,52,13,39
+La Salle,2,Attorney General,,DEM,Justin Nelson,124,36,88
+La Salle,2,Attorney General,,LIB,Michael Ray Harris,3,1,2
+La Salle,2,Comptroller of Public Accounts,,,Over Votes,0,0,0
+La Salle,2,Comptroller of Public Accounts,,,Under Votes,21,3,18
+La Salle,2,Comptroller of Public Accounts,,REP,Glenn Hegar,50,13,37
+La Salle,2,Comptroller of Public Accounts,,DEM,Joi Chevalier,115,34,81
+La Salle,2,Comptroller of Public Accounts,,LIB,Ben Sanders,6,1,5
+La Salle,2,Commissioner of the General Land Office,,,Over Votes,0,0,0
+La Salle,2,Commissioner of the General Land Office,,,Under Votes,12,2,10
+La Salle,2,Commissioner of the General Land Office,,REP,George P. Bush,66,15,51
+La Salle,2,Commissioner of the General Land Office,,DEM,Miguel Suazo,112,34,78
+La Salle,2,Commissioner of the General Land Office,,LIB,Matt Piña,2,0,2
+La Salle,2,Commissioner of Agriculture,,,Over Votes,1,0,1
+La Salle,2,Commissioner of Agriculture,,,Under Votes,16,3,13
+La Salle,2,Commissioner of Agriculture,,REP,Sid Miller,50,13,37
+La Salle,2,Commissioner of Agriculture,,DEM,Kim Olson,119,34,85
+La Salle,2,Commissioner of Agriculture,,LIB,Richard Carpenter,6,1,5
+La Salle,2,Railroad Commissioner,,,Over Votes,0,0,0
+La Salle,2,Railroad Commissioner,,,Under Votes,20,3,17
+La Salle,2,Railroad Commissioner,,REP,Christi Craddick,50,13,37
+La Salle,2,Railroad Commissioner,,DEM,Roman McAllen,115,33,82
+La Salle,2,Railroad Commissioner,,LIB,Mike Wright,7,2,5
+La Salle,2,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0
+La Salle,2,"Justice, Supreme Court, Place 2",,,Under Votes,20,2,18
+La Salle,2,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,48,13,35
+La Salle,2,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,124,36,88
+La Salle,2,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0
+La Salle,2,"Justice, Supreme Court, Place 4",,,Under Votes,23,2,21
+La Salle,2,"Justice, Supreme Court, Place 4",,REP,John Devine,52,14,38
+La Salle,2,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,117,35,82
+La Salle,2,"Justice, Supreme Court, Place 6",,,Over Votes,1,0,1
+La Salle,2,"Justice, Supreme Court, Place 6",,,Under Votes,21,3,18
+La Salle,2,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,55,13,42
+La Salle,2,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,115,35,80
+La Salle,2,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,1,0,1
+La Salle,2,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,15,2,13
+La Salle,2,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,47,13,34
+La Salle,2,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,126,35,91
+La Salle,2,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,3,1,2
+La Salle,2,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0
+La Salle,2,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,19,3,16
+La Salle,2,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,53,14,39
+La Salle,2,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,120,34,86
+La Salle,2,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0
+La Salle,2,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,98,26,72
+La Salle,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,67,15,52
+La Salle,2,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,27,10,17
+La Salle,2,State Representative,31,,Over Votes,0,0,0
+La Salle,2,State Representative,31,,Under Votes,49,11,38
+La Salle,2,State Representative,31,DEM,Ryan Guillen,143,40,103
+La Salle,2,"Justice, 4th Court of Appeals District, Place 2",,,Over Votes,0,0,0
+La Salle,2,"Justice, 4th Court of Appeals District, Place 2",,,Under Votes,22,4,18
+La Salle,2,"Justice, 4th Court of Appeals District, Place 2",,REP,Marialyn Barnard,54,12,42
+La Salle,2,"Justice, 4th Court of Appeals District, Place 2",,DEM,Beth Watkins,116,35,81
+La Salle,2,"Justice, 4th Court of Appeals District, Place 3",,,Over Votes,0,0,0
+La Salle,2,"Justice, 4th Court of Appeals District, Place 3",,,Under Votes,17,3,14
+La Salle,2,"Justice, 4th Court of Appeals District, Place 3",,REP,Jason Pulliam,47,13,34
+La Salle,2,"Justice, 4th Court of Appeals District, Place 3",,DEM,Patricia O'Connell Alvarez,128,35,93
+La Salle,2,"Justice, 4th Court of Appeals District, Place 4",,,Over Votes,0,0,0
+La Salle,2,"Justice, 4th Court of Appeals District, Place 4",,,Under Votes,17,3,14
+La Salle,2,"Justice, 4th Court of Appeals District, Place 4",,REP,Patrick Ballantyne,44,13,31
+La Salle,2,"Justice, 4th Court of Appeals District, Place 4",,DEM,Luz Elena Chapa,131,35,96
+La Salle,2,"Justice, 4th Court of Appeals District, Place 5",,,Over Votes,0,0,0
+La Salle,2,"Justice, 4th Court of Appeals District, Place 5",,,Under Votes,16,2,14
+La Salle,2,"Justice, 4th Court of Appeals District, Place 5",,REP,Rebecca Simmons,50,14,36
+La Salle,2,"Justice, 4th Court of Appeals District, Place 5",,DEM,Liza Rodriguez,126,35,91
+La Salle,2,"Justice, 4th Court of Appeals District, Place 7",,,Over Votes,0,0,0
+La Salle,2,"Justice, 4th Court of Appeals District, Place 7",,,Under Votes,16,2,14
+La Salle,2,"Justice, 4th Court of Appeals District, Place 7",,REP,Shane Stolarczyk,43,12,31
+La Salle,2,"Justice, 4th Court of Appeals District, Place 7",,DEM,Rebeca Martinez,133,37,96
+La Salle,2,"District Judge, 81st Judicial District",,,Over Votes,0,0,0
+La Salle,2,"District Judge, 81st Judicial District",,,Under Votes,15,3,12
+La Salle,2,"District Judge, 81st Judicial District",,REP,Lynn Ellison,55,14,41
+La Salle,2,"District Judge, 81st Judicial District",,DEM,Errlinda Castillo,122,34,88
+La Salle,2,"District Judge, 218th Judicial District",,,Over Votes,0,0,0
+La Salle,2,"District Judge, 218th Judicial District",,,Under Votes,114,31,83
+La Salle,2,"District Judge, 218th Judicial District",,REP,Russell Wilson,78,20,58
+La Salle,2,County Judge,,,Over Votes,0,0,0
+La Salle,2,County Judge,,,Under Votes,42,8,34
+La Salle,2,County Judge,,DEM,"Joel Rodriguez, Jr.",150,43,107
+La Salle,2,District and County Clerk,,,Over Votes,0,0,0
+La Salle,2,District and County Clerk,,,Under Votes,41,7,34
+La Salle,2,District and County Clerk,,DEM,"Margarita ""Margie"" Avila Esqueda",151,44,107
+La Salle,2,County Treasurer,,,Over Votes,0,0,0
+La Salle,2,County Treasurer,,,Under Votes,41,10,31
+La Salle,2,County Treasurer,,DEM,"Maria ""Mary"" M. Perez",151,41,110
+La Salle,2,"County Commissioner, Precinct 2",,,Over Votes,0,0,0
+La Salle,2,"County Commissioner, Precinct 2",,,Under Votes,41,8,33
+La Salle,2,"County Commissioner, Precinct 2",,DEM,"Joaquin ""Jack"" Alba",151,43,108
+La Salle,2,"Justice of the Peace, Precinct 2",,,Over Votes,0,0,0
+La Salle,2,"Justice of the Peace, Precinct 2",,,Under Votes,40,8,32
+La Salle,2,"Justice of the Peace, Precinct 2",,DEM,"William ""Frank"" Weikel",152,43,109
+La Salle,3,Registered Voters,,,,1044,,
+La Salle,3,Ballots Cast,,,,301,175,126
+La Salle,3,Straight Party,,,Over Votes,0,0,0
+La Salle,3,Straight Party,,,Under Votes,125,72,53
+La Salle,3,Straight Party,,REP,Republican Party,43,28,15
+La Salle,3,Straight Party,,DEM,Democratic Party,131,73,58
+La Salle,3,Straight Party,,LIB,Libertarian Party,2,2,0
+La Salle,3,U.S. Senate,,,Over Votes,0,0,0
+La Salle,3,U.S. Senate,,,Under Votes,1,0,1
+La Salle,3,U.S. Senate,,REP,Ted Cruz,104,63,41
+La Salle,3,U.S. Senate,,DEM,Beto O'Rourke,196,112,84
+La Salle,3,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0
+La Salle,3,U.S. House,23,,Over Votes,0,0,0
+La Salle,3,U.S. House,23,,Under Votes,5,2,3
+La Salle,3,U.S. House,23,REP,Will Hurd,94,60,34
+La Salle,3,U.S. House,23,DEM,Gina Ortiz Jones,199,111,88
+La Salle,3,U.S. House,23,LIB,Ruben Corvalan,3,2,1
+La Salle,3,Governor,,,Over Votes,0,0,0
+La Salle,3,Governor,,,Under Votes,7,1,6
+La Salle,3,Governor,,REP,Greg Abbott,107,67,40
+La Salle,3,Governor,,DEM,Lupe Valdez,186,107,79
+La Salle,3,Governor,,LIB,Mark Jay Tippetts,1,0,1
+La Salle,3,Lieutenant Governor,,,Over Votes,0,0,0
+La Salle,3,Lieutenant Governor,,,Under Votes,17,5,12
+La Salle,3,Lieutenant Governor,,REP,Dan Patrick,99,64,35
+La Salle,3,Lieutenant Governor,,DEM,Mike Collier,182,104,78
+La Salle,3,Lieutenant Governor,,LIB,Kerry Douglas McKennon,3,2,1
+La Salle,3,Attorney General,,,Over Votes,0,0,0
+La Salle,3,Attorney General,,,Under Votes,21,7,14
+La Salle,3,Attorney General,,REP,Ken Paxton,93,59,34
+La Salle,3,Attorney General,,DEM,Justin Nelson,185,108,77
+La Salle,3,Attorney General,,LIB,Michael Ray Harris,2,1,1
+La Salle,3,Comptroller of Public Accounts,,,Over Votes,0,0,0
+La Salle,3,Comptroller of Public Accounts,,,Under Votes,25,9,16
+La Salle,3,Comptroller of Public Accounts,,REP,Glenn Hegar,82,53,29
+La Salle,3,Comptroller of Public Accounts,,DEM,Joi Chevalier,182,105,77
+La Salle,3,Comptroller of Public Accounts,,LIB,Ben Sanders,12,8,4
+La Salle,3,Commissioner of the General Land Office,,,Over Votes,0,0,0
+La Salle,3,Commissioner of the General Land Office,,,Under Votes,17,6,11
+La Salle,3,Commissioner of the General Land Office,,REP,George P. Bush,94,62,32
+La Salle,3,Commissioner of the General Land Office,,DEM,Miguel Suazo,184,104,80
+La Salle,3,Commissioner of the General Land Office,,LIB,Matt Piña,6,3,3
+La Salle,3,Commissioner of Agriculture,,,Over Votes,0,0,0
+La Salle,3,Commissioner of Agriculture,,,Under Votes,22,8,14
+La Salle,3,Commissioner of Agriculture,,REP,Sid Miller,87,54,33
+La Salle,3,Commissioner of Agriculture,,DEM,Kim Olson,189,111,78
+La Salle,3,Commissioner of Agriculture,,LIB,Richard Carpenter,3,2,1
+La Salle,3,Railroad Commissioner,,,Over Votes,0,0,0
+La Salle,3,Railroad Commissioner,,,Under Votes,22,8,14
+La Salle,3,Railroad Commissioner,,REP,Christi Craddick,85,52,33
+La Salle,3,Railroad Commissioner,,DEM,Roman McAllen,186,110,76
+La Salle,3,Railroad Commissioner,,LIB,Mike Wright,8,5,3
+La Salle,3,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0
+La Salle,3,"Justice, Supreme Court, Place 2",,,Under Votes,23,6,17
+La Salle,3,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,90,59,31
+La Salle,3,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,188,110,78
+La Salle,3,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0
+La Salle,3,"Justice, Supreme Court, Place 4",,,Under Votes,23,8,15
+La Salle,3,"Justice, Supreme Court, Place 4",,REP,John Devine,94,60,34
+La Salle,3,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,184,107,77
+La Salle,3,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0
+La Salle,3,"Justice, Supreme Court, Place 6",,,Under Votes,23,8,15
+La Salle,3,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,93,59,34
+La Salle,3,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,185,108,77
+La Salle,3,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0
+La Salle,3,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,21,6,15
+La Salle,3,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,88,55,33
+La Salle,3,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,190,113,77
+La Salle,3,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,2,1,1
+La Salle,3,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0
+La Salle,3,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,20,6,14
+La Salle,3,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,89,56,33
+La Salle,3,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,192,113,79
+La Salle,3,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0
+La Salle,3,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,142,78,64
+La Salle,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,106,63,43
+La Salle,3,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,53,34,19
+La Salle,3,State Representative,31,,Over Votes,0,0,0
+La Salle,3,State Representative,31,,Under Votes,90,55,35
+La Salle,3,State Representative,31,DEM,Ryan Guillen,211,120,91
+La Salle,3,"Justice, 4th Court of Appeals District, Place 2",,,Over Votes,0,0,0
+La Salle,3,"Justice, 4th Court of Appeals District, Place 2",,,Under Votes,25,8,17
+La Salle,3,"Justice, 4th Court of Appeals District, Place 2",,REP,Marialyn Barnard,87,55,32
+La Salle,3,"Justice, 4th Court of Appeals District, Place 2",,DEM,Beth Watkins,189,112,77
+La Salle,3,"Justice, 4th Court of Appeals District, Place 3",,,Over Votes,0,0,0
+La Salle,3,"Justice, 4th Court of Appeals District, Place 3",,,Under Votes,20,7,13
+La Salle,3,"Justice, 4th Court of Appeals District, Place 3",,REP,Jason Pulliam,83,50,33
+La Salle,3,"Justice, 4th Court of Appeals District, Place 3",,DEM,Patricia O'Connell Alvarez,198,118,80
+La Salle,3,"Justice, 4th Court of Appeals District, Place 4",,,Over Votes,0,0,0
+La Salle,3,"Justice, 4th Court of Appeals District, Place 4",,,Under Votes,22,7,15
+La Salle,3,"Justice, 4th Court of Appeals District, Place 4",,REP,Patrick Ballantyne,89,54,35
+La Salle,3,"Justice, 4th Court of Appeals District, Place 4",,DEM,Luz Elena Chapa,190,114,76
+La Salle,3,"Justice, 4th Court of Appeals District, Place 5",,,Over Votes,1,1,0
+La Salle,3,"Justice, 4th Court of Appeals District, Place 5",,,Under Votes,18,5,13
+La Salle,3,"Justice, 4th Court of Appeals District, Place 5",,REP,Rebecca Simmons,87,55,32
+La Salle,3,"Justice, 4th Court of Appeals District, Place 5",,DEM,Liza Rodriguez,195,114,81
+La Salle,3,"Justice, 4th Court of Appeals District, Place 7",,,Over Votes,0,0,0
+La Salle,3,"Justice, 4th Court of Appeals District, Place 7",,,Under Votes,19,5,14
+La Salle,3,"Justice, 4th Court of Appeals District, Place 7",,REP,Shane Stolarczyk,80,50,30
+La Salle,3,"Justice, 4th Court of Appeals District, Place 7",,DEM,Rebeca Martinez,202,120,82
+La Salle,3,"District Judge, 81st Judicial District",,,Over Votes,0,0,0
+La Salle,3,"District Judge, 81st Judicial District",,,Under Votes,16,4,12
+La Salle,3,"District Judge, 81st Judicial District",,REP,Lynn Ellison,89,57,32
+La Salle,3,"District Judge, 81st Judicial District",,DEM,Errlinda Castillo,196,114,82
+La Salle,3,"District Judge, 218th Judicial District",,,Over Votes,0,0,0
+La Salle,3,"District Judge, 218th Judicial District",,,Under Votes,172,93,79
+La Salle,3,"District Judge, 218th Judicial District",,REP,Russell Wilson,129,82,47
+La Salle,3,County Judge,,,Over Votes,0,0,0
+La Salle,3,County Judge,,,Under Votes,79,43,36
+La Salle,3,County Judge,,DEM,"Joel Rodriguez, Jr.",222,132,90
+La Salle,3,District and County Clerk,,,Over Votes,0,0,0
+La Salle,3,District and County Clerk,,,Under Votes,61,33,28
+La Salle,3,District and County Clerk,,DEM,"Margarita ""Margie"" Avila Esqueda",240,142,98
+La Salle,3,County Treasurer,,,Over Votes,0,0,0
+La Salle,3,County Treasurer,,,Under Votes,65,36,29
+La Salle,3,County Treasurer,,DEM,"Maria ""Mary"" M. Perez",236,139,97
+La Salle,3,"Justice of the Peace, Precinct 3",,,Over Votes,0,0,0
+La Salle,3,"Justice of the Peace, Precinct 3",,,Under Votes,62,35,27
+La Salle,3,"Justice of the Peace, Precinct 3",,DEM,George Trigo,239,140,99
+La Salle,3A,Registered Voters,,,,16,,
+La Salle,3A,Ballots Cast,,,,9,6,3
+La Salle,3A,Straight Party,,,Over Votes,0,0,0
+La Salle,3A,Straight Party,,,Under Votes,5,2,3
+La Salle,3A,Straight Party,,REP,Republican Party,4,4,0
+La Salle,3A,Straight Party,,DEM,Democratic Party,0,0,0
+La Salle,3A,Straight Party,,LIB,Libertarian Party,0,0,0
+La Salle,3A,U.S. Senate,,,Over Votes,0,0,0
+La Salle,3A,U.S. Senate,,,Under Votes,0,0,0
+La Salle,3A,U.S. Senate,,REP,Ted Cruz,8,6,2
+La Salle,3A,U.S. Senate,,DEM,Beto O'Rourke,1,0,1
+La Salle,3A,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0
+La Salle,3A,U.S. House,28,,Over Votes,0,0,0
+La Salle,3A,U.S. House,28,,Under Votes,3,3,0
+La Salle,3A,U.S. House,28,DEM,Henry Cuellar,3,2,1
+La Salle,3A,U.S. House,28,LIB,"Arthur Thomas, IV",3,1,2
+La Salle,3A,Governor,,,Over Votes,0,0,0
+La Salle,3A,Governor,,,Under Votes,0,0,0
+La Salle,3A,Governor,,REP,Greg Abbott,8,6,2
+La Salle,3A,Governor,,DEM,Lupe Valdez,1,0,1
+La Salle,3A,Governor,,LIB,Mark Jay Tippetts,0,0,0
+La Salle,3A,Lieutenant Governor,,,Over Votes,0,0,0
+La Salle,3A,Lieutenant Governor,,,Under Votes,0,0,0
+La Salle,3A,Lieutenant Governor,,REP,Dan Patrick,8,6,2
+La Salle,3A,Lieutenant Governor,,DEM,Mike Collier,1,0,1
+La Salle,3A,Lieutenant Governor,,LIB,Kerry Douglas McKennon,0,0,0
+La Salle,3A,Attorney General,,,Over Votes,0,0,0
+La Salle,3A,Attorney General,,,Under Votes,0,0,0
+La Salle,3A,Attorney General,,REP,Ken Paxton,8,6,2
+La Salle,3A,Attorney General,,DEM,Justin Nelson,1,0,1
+La Salle,3A,Attorney General,,LIB,Michael Ray Harris,0,0,0
+La Salle,3A,Comptroller of Public Accounts,,,Over Votes,0,0,0
+La Salle,3A,Comptroller of Public Accounts,,,Under Votes,0,0,0
+La Salle,3A,Comptroller of Public Accounts,,REP,Glenn Hegar,8,6,2
+La Salle,3A,Comptroller of Public Accounts,,DEM,Joi Chevalier,1,0,1
+La Salle,3A,Comptroller of Public Accounts,,LIB,Ben Sanders,0,0,0
+La Salle,3A,Commissioner of the General Land Office,,,Over Votes,0,0,0
+La Salle,3A,Commissioner of the General Land Office,,,Under Votes,0,0,0
+La Salle,3A,Commissioner of the General Land Office,,REP,George P. Bush,8,6,2
+La Salle,3A,Commissioner of the General Land Office,,DEM,Miguel Suazo,1,0,1
+La Salle,3A,Commissioner of the General Land Office,,LIB,Matt Piña,0,0,0
+La Salle,3A,Commissioner of Agriculture,,,Over Votes,0,0,0
+La Salle,3A,Commissioner of Agriculture,,,Under Votes,0,0,0
+La Salle,3A,Commissioner of Agriculture,,REP,Sid Miller,8,6,2
+La Salle,3A,Commissioner of Agriculture,,DEM,Kim Olson,1,0,1
+La Salle,3A,Commissioner of Agriculture,,LIB,Richard Carpenter,0,0,0
+La Salle,3A,Railroad Commissioner,,,Over Votes,0,0,0
+La Salle,3A,Railroad Commissioner,,,Under Votes,0,0,0
+La Salle,3A,Railroad Commissioner,,REP,Christi Craddick,8,6,2
+La Salle,3A,Railroad Commissioner,,DEM,Roman McAllen,1,0,1
+La Salle,3A,Railroad Commissioner,,LIB,Mike Wright,0,0,0
+La Salle,3A,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0
+La Salle,3A,"Justice, Supreme Court, Place 2",,,Under Votes,0,0,0
+La Salle,3A,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,8,6,2
+La Salle,3A,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,1,0,1
+La Salle,3A,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0
+La Salle,3A,"Justice, Supreme Court, Place 4",,,Under Votes,0,0,0
+La Salle,3A,"Justice, Supreme Court, Place 4",,REP,John Devine,8,6,2
+La Salle,3A,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,1,0,1
+La Salle,3A,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0
+La Salle,3A,"Justice, Supreme Court, Place 6",,,Under Votes,1,0,1
+La Salle,3A,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,8,6,2
+La Salle,3A,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,0,0,0
+La Salle,3A,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0
+La Salle,3A,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,0,0,0
+La Salle,3A,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,8,6,2
+La Salle,3A,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,1,0,1
+La Salle,3A,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,0,0,0
+La Salle,3A,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0
+La Salle,3A,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,0,0,0
+La Salle,3A,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,7,6,1
+La Salle,3A,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,2,0,2
+La Salle,3A,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0
+La Salle,3A,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,1,0,1
+La Salle,3A,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,8,6,2
+La Salle,3A,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,0,0,0
+La Salle,3A,State Representative,31,,Over Votes,0,0,0
+La Salle,3A,State Representative,31,,Under Votes,6,4,2
+La Salle,3A,State Representative,31,DEM,Ryan Guillen,3,2,1
+La Salle,3A,"Justice, 4th Court of Appeals District, Place 2",,,Over Votes,0,0,0
+La Salle,3A,"Justice, 4th Court of Appeals District, Place 2",,,Under Votes,0,0,0
+La Salle,3A,"Justice, 4th Court of Appeals District, Place 2",,REP,Marialyn Barnard,8,6,2
+La Salle,3A,"Justice, 4th Court of Appeals District, Place 2",,DEM,Beth Watkins,1,0,1
+La Salle,3A,"Justice, 4th Court of Appeals District, Place 3",,,Over Votes,0,0,0
+La Salle,3A,"Justice, 4th Court of Appeals District, Place 3",,,Under Votes,0,0,0
+La Salle,3A,"Justice, 4th Court of Appeals District, Place 3",,REP,Jason Pulliam,8,6,2
+La Salle,3A,"Justice, 4th Court of Appeals District, Place 3",,DEM,Patricia O'Connell Alvarez,1,0,1
+La Salle,3A,"Justice, 4th Court of Appeals District, Place 4",,,Over Votes,0,0,0
+La Salle,3A,"Justice, 4th Court of Appeals District, Place 4",,,Under Votes,0,0,0
+La Salle,3A,"Justice, 4th Court of Appeals District, Place 4",,REP,Patrick Ballantyne,8,6,2
+La Salle,3A,"Justice, 4th Court of Appeals District, Place 4",,DEM,Luz Elena Chapa,1,0,1
+La Salle,3A,"Justice, 4th Court of Appeals District, Place 5",,,Over Votes,0,0,0
+La Salle,3A,"Justice, 4th Court of Appeals District, Place 5",,,Under Votes,0,0,0
+La Salle,3A,"Justice, 4th Court of Appeals District, Place 5",,REP,Rebecca Simmons,8,6,2
+La Salle,3A,"Justice, 4th Court of Appeals District, Place 5",,DEM,Liza Rodriguez,1,0,1
+La Salle,3A,"Justice, 4th Court of Appeals District, Place 7",,,Over Votes,0,0,0
+La Salle,3A,"Justice, 4th Court of Appeals District, Place 7",,,Under Votes,0,0,0
+La Salle,3A,"Justice, 4th Court of Appeals District, Place 7",,REP,Shane Stolarczyk,8,6,2
+La Salle,3A,"Justice, 4th Court of Appeals District, Place 7",,DEM,Rebeca Martinez,1,0,1
+La Salle,3A,"District Judge, 81st Judicial District",,,Over Votes,0,0,0
+La Salle,3A,"District Judge, 81st Judicial District",,,Under Votes,0,0,0
+La Salle,3A,"District Judge, 81st Judicial District",,REP,Lynn Ellison,8,6,2
+La Salle,3A,"District Judge, 81st Judicial District",,DEM,Errlinda Castillo,1,0,1
+La Salle,3A,"District Judge, 218th Judicial District",,,Over Votes,0,0,0
+La Salle,3A,"District Judge, 218th Judicial District",,,Under Votes,1,0,1
+La Salle,3A,"District Judge, 218th Judicial District",,REP,Russell Wilson,8,6,2
+La Salle,3A,County Judge,,,Over Votes,0,0,0
+La Salle,3A,County Judge,,,Under Votes,5,4,1
+La Salle,3A,County Judge,,DEM,"Joel Rodriguez, Jr.",4,2,2
+La Salle,3A,District and County Clerk,,,Over Votes,0,0,0
+La Salle,3A,District and County Clerk,,,Under Votes,4,3,1
+La Salle,3A,District and County Clerk,,DEM,"Margarita ""Margie"" Avila Esqueda",5,3,2
+La Salle,3A,County Treasurer,,,Over Votes,0,0,0
+La Salle,3A,County Treasurer,,,Under Votes,5,3,2
+La Salle,3A,County Treasurer,,DEM,"Maria ""Mary"" M. Perez",4,3,1
+La Salle,3A,"Justice of the Peace, Precinct 3",,,Over Votes,0,0,0
+La Salle,3A,"Justice of the Peace, Precinct 3",,,Under Votes,4,2,2
+La Salle,3A,"Justice of the Peace, Precinct 3",,DEM,George Trigo,5,4,1
+La Salle,4,Registered Voters,,,,99,,
+La Salle,4,Ballots Cast,,,,64,33,31
+La Salle,4,Straight Party,,,Over Votes,0,0,0
+La Salle,4,Straight Party,,,Under Votes,46,27,19
+La Salle,4,Straight Party,,REP,Republican Party,16,5,11
+La Salle,4,Straight Party,,DEM,Democratic Party,2,1,1
+La Salle,4,Straight Party,,LIB,Libertarian Party,0,0,0
+La Salle,4,U.S. Senate,,,Over Votes,0,0,0
+La Salle,4,U.S. Senate,,,Under Votes,2,2,0
+La Salle,4,U.S. Senate,,REP,Ted Cruz,55,27,28
+La Salle,4,U.S. Senate,,DEM,Beto O'Rourke,6,4,2
+La Salle,4,U.S. Senate,,LIB,Neal M. Dikeman,1,0,1
+La Salle,4,U.S. House,23,,Over Votes,0,0,0
+La Salle,4,U.S. House,23,,Under Votes,7,6,1
+La Salle,4,U.S. House,23,REP,Will Hurd,47,20,27
+La Salle,4,U.S. House,23,DEM,Gina Ortiz Jones,9,6,3
+La Salle,4,U.S. House,23,LIB,Ruben Corvalan,1,1,0
+La Salle,4,Governor,,,Over Votes,0,0,0
+La Salle,4,Governor,,,Under Votes,5,4,1
+La Salle,4,Governor,,REP,Greg Abbott,54,26,28
+La Salle,4,Governor,,DEM,Lupe Valdez,5,3,2
+La Salle,4,Governor,,LIB,Mark Jay Tippetts,0,0,0
+La Salle,4,Lieutenant Governor,,,Over Votes,0,0,0
+La Salle,4,Lieutenant Governor,,,Under Votes,11,8,3
+La Salle,4,Lieutenant Governor,,REP,Dan Patrick,44,20,24
+La Salle,4,Lieutenant Governor,,DEM,Mike Collier,7,4,3
+La Salle,4,Lieutenant Governor,,LIB,Kerry Douglas McKennon,2,1,1
+La Salle,4,Attorney General,,,Over Votes,0,0,0
+La Salle,4,Attorney General,,,Under Votes,13,11,2
+La Salle,4,Attorney General,,REP,Ken Paxton,46,19,27
+La Salle,4,Attorney General,,DEM,Justin Nelson,4,2,2
+La Salle,4,Attorney General,,LIB,Michael Ray Harris,1,1,0
+La Salle,4,Comptroller of Public Accounts,,,Over Votes,0,0,0
+La Salle,4,Comptroller of Public Accounts,,,Under Votes,11,9,2
+La Salle,4,Comptroller of Public Accounts,,REP,Glenn Hegar,45,18,27
+La Salle,4,Comptroller of Public Accounts,,DEM,Joi Chevalier,3,2,1
+La Salle,4,Comptroller of Public Accounts,,LIB,Ben Sanders,5,4,1
+La Salle,4,Commissioner of the General Land Office,,,Over Votes,0,0,0
+La Salle,4,Commissioner of the General Land Office,,,Under Votes,8,7,1
+La Salle,4,Commissioner of the General Land Office,,REP,George P. Bush,50,23,27
+La Salle,4,Commissioner of the General Land Office,,DEM,Miguel Suazo,5,2,3
+La Salle,4,Commissioner of the General Land Office,,LIB,Matt Piña,1,1,0
+La Salle,4,Commissioner of Agriculture,,,Over Votes,0,0,0
+La Salle,4,Commissioner of Agriculture,,,Under Votes,10,8,2
+La Salle,4,Commissioner of Agriculture,,REP,Sid Miller,45,22,23
+La Salle,4,Commissioner of Agriculture,,DEM,Kim Olson,8,2,6
+La Salle,4,Commissioner of Agriculture,,LIB,Richard Carpenter,1,1,0
+La Salle,4,Railroad Commissioner,,,Over Votes,0,0,0
+La Salle,4,Railroad Commissioner,,,Under Votes,10,8,2
+La Salle,4,Railroad Commissioner,,REP,Christi Craddick,46,21,25
+La Salle,4,Railroad Commissioner,,DEM,Roman McAllen,3,1,2
+La Salle,4,Railroad Commissioner,,LIB,Mike Wright,5,3,2
+La Salle,4,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0
+La Salle,4,"Justice, Supreme Court, Place 2",,,Under Votes,11,8,3
+La Salle,4,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,49,22,27
+La Salle,4,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,4,3,1
+La Salle,4,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0
+La Salle,4,"Justice, Supreme Court, Place 4",,,Under Votes,11,9,2
+La Salle,4,"Justice, Supreme Court, Place 4",,REP,John Devine,46,18,28
+La Salle,4,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,7,6,1
+La Salle,4,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0
+La Salle,4,"Justice, Supreme Court, Place 6",,,Under Votes,12,9,3
+La Salle,4,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,48,21,27
+La Salle,4,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,4,3,1
+La Salle,4,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0
+La Salle,4,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,11,8,3
+La Salle,4,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,47,20,27
+La Salle,4,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,4,3,1
+La Salle,4,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,2,2,0
+La Salle,4,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0
+La Salle,4,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,13,10,3
+La Salle,4,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,45,18,27
+La Salle,4,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,6,5,1
+La Salle,4,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0
+La Salle,4,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,15,11,4
+La Salle,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,47,20,27
+La Salle,4,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,2,2,0
+La Salle,4,State Representative,31,,Over Votes,0,0,0
+La Salle,4,State Representative,31,,Under Votes,48,25,23
+La Salle,4,State Representative,31,DEM,Ryan Guillen,16,8,8
+La Salle,4,"Justice, 4th Court of Appeals District, Place 2",,,Over Votes,0,0,0
+La Salle,4,"Justice, 4th Court of Appeals District, Place 2",,,Under Votes,13,10,3
+La Salle,4,"Justice, 4th Court of Appeals District, Place 2",,REP,Marialyn Barnard,48,21,27
+La Salle,4,"Justice, 4th Court of Appeals District, Place 2",,DEM,Beth Watkins,3,2,1
+La Salle,4,"Justice, 4th Court of Appeals District, Place 3",,,Over Votes,0,0,0
+La Salle,4,"Justice, 4th Court of Appeals District, Place 3",,,Under Votes,13,10,3
+La Salle,4,"Justice, 4th Court of Appeals District, Place 3",,REP,Jason Pulliam,47,20,27
+La Salle,4,"Justice, 4th Court of Appeals District, Place 3",,DEM,Patricia O'Connell Alvarez,4,3,1
+La Salle,4,"Justice, 4th Court of Appeals District, Place 4",,,Over Votes,0,0,0
+La Salle,4,"Justice, 4th Court of Appeals District, Place 4",,,Under Votes,14,11,3
+La Salle,4,"Justice, 4th Court of Appeals District, Place 4",,REP,Patrick Ballantyne,47,20,27
+La Salle,4,"Justice, 4th Court of Appeals District, Place 4",,DEM,Luz Elena Chapa,3,2,1
+La Salle,4,"Justice, 4th Court of Appeals District, Place 5",,,Over Votes,0,0,0
+La Salle,4,"Justice, 4th Court of Appeals District, Place 5",,,Under Votes,13,10,3
+La Salle,4,"Justice, 4th Court of Appeals District, Place 5",,REP,Rebecca Simmons,46,19,27
+La Salle,4,"Justice, 4th Court of Appeals District, Place 5",,DEM,Liza Rodriguez,5,4,1
+La Salle,4,"Justice, 4th Court of Appeals District, Place 7",,,Over Votes,0,0,0
+La Salle,4,"Justice, 4th Court of Appeals District, Place 7",,,Under Votes,13,10,3
+La Salle,4,"Justice, 4th Court of Appeals District, Place 7",,REP,Shane Stolarczyk,45,19,26
+La Salle,4,"Justice, 4th Court of Appeals District, Place 7",,DEM,Rebeca Martinez,6,4,2
+La Salle,4,"District Judge, 81st Judicial District",,,Over Votes,0,0,0
+La Salle,4,"District Judge, 81st Judicial District",,,Under Votes,12,9,3
+La Salle,4,"District Judge, 81st Judicial District",,REP,Lynn Ellison,46,20,26
+La Salle,4,"District Judge, 81st Judicial District",,DEM,Errlinda Castillo,6,4,2
+La Salle,4,"District Judge, 218th Judicial District",,,Over Votes,0,0,0
+La Salle,4,"District Judge, 218th Judicial District",,,Under Votes,20,12,8
+La Salle,4,"District Judge, 218th Judicial District",,REP,Russell Wilson,44,21,23
+La Salle,4,County Judge,,,Over Votes,0,0,0
+La Salle,4,County Judge,,,Under Votes,35,16,19
+La Salle,4,County Judge,,DEM,"Joel Rodriguez, Jr.",29,17,12
+La Salle,4,District and County Clerk,,,Over Votes,0,0,0
+La Salle,4,District and County Clerk,,,Under Votes,31,15,16
+La Salle,4,District and County Clerk,,DEM,"Margarita ""Margie"" Avila Esqueda",33,18,15
+La Salle,4,County Treasurer,,,Over Votes,0,0,0
+La Salle,4,County Treasurer,,,Under Votes,35,18,17
+La Salle,4,County Treasurer,,DEM,"Maria ""Mary"" M. Perez",29,15,14
+La Salle,4,"County Commissioner, Precinct 4",,,Over Votes,0,0,0
+La Salle,4,"County Commissioner, Precinct 4",,,Under Votes,27,13,14
+La Salle,4,"County Commissioner, Precinct 4",,DEM,Raul Ayala,37,20,17
+La Salle,4,"Justice of the Peace, Precinct 4",,,Over Votes,0,0,0
+La Salle,4,"Justice of the Peace, Precinct 4",,,Under Votes,3,0,3
+La Salle,4,"Justice of the Peace, Precinct 4",,REP,Janie Megliorino,44,24,20
+La Salle,4,"Justice of the Peace, Precinct 4",,DEM,Vickie R. Hanks,17,9,8
+La Salle,5,Registered Voters,,,,956,,
+La Salle,5,Ballots Cast,,,,293,162,131
+La Salle,5,Straight Party,,,Over Votes,0,0,0
+La Salle,5,Straight Party,,,Under Votes,130,73,57
+La Salle,5,Straight Party,,REP,Republican Party,50,33,17
+La Salle,5,Straight Party,,DEM,Democratic Party,113,56,57
+La Salle,5,Straight Party,,LIB,Libertarian Party,0,0,0
+La Salle,5,U.S. Senate,,,Over Votes,0,0,0
+La Salle,5,U.S. Senate,,,Under Votes,5,3,2
+La Salle,5,U.S. Senate,,REP,Ted Cruz,120,76,44
+La Salle,5,U.S. Senate,,DEM,Beto O'Rourke,166,82,84
+La Salle,5,U.S. Senate,,LIB,Neal M. Dikeman,2,1,1
+La Salle,5,U.S. House,23,,Over Votes,0,0,0
+La Salle,5,U.S. House,23,,Under Votes,0,0,0
+La Salle,5,U.S. House,23,REP,Will Hurd,113,76,37
+La Salle,5,U.S. House,23,DEM,Gina Ortiz Jones,174,82,92
+La Salle,5,U.S. House,23,LIB,Ruben Corvalan,6,4,2
+La Salle,5,Governor,,,Over Votes,0,0,0
+La Salle,5,Governor,,,Under Votes,4,1,3
+La Salle,5,Governor,,REP,Greg Abbott,128,80,48
+La Salle,5,Governor,,DEM,Lupe Valdez,159,79,80
+La Salle,5,Governor,,LIB,Mark Jay Tippetts,2,2,0
+La Salle,5,Lieutenant Governor,,,Over Votes,0,0,0
+La Salle,5,Lieutenant Governor,,,Under Votes,11,6,5
+La Salle,5,Lieutenant Governor,,REP,Dan Patrick,121,76,45
+La Salle,5,Lieutenant Governor,,DEM,Mike Collier,161,80,81
+La Salle,5,Lieutenant Governor,,LIB,Kerry Douglas McKennon,0,0,0
+La Salle,5,Attorney General,,,Over Votes,0,0,0
+La Salle,5,Attorney General,,,Under Votes,11,5,6
+La Salle,5,Attorney General,,REP,Ken Paxton,114,76,38
+La Salle,5,Attorney General,,DEM,Justin Nelson,167,81,86
+La Salle,5,Attorney General,,LIB,Michael Ray Harris,1,0,1
+La Salle,5,Comptroller of Public Accounts,,,Over Votes,0,0,0
+La Salle,5,Comptroller of Public Accounts,,,Under Votes,16,5,11
+La Salle,5,Comptroller of Public Accounts,,REP,Glenn Hegar,110,74,36
+La Salle,5,Comptroller of Public Accounts,,DEM,Joi Chevalier,159,78,81
+La Salle,5,Comptroller of Public Accounts,,LIB,Ben Sanders,8,5,3
+La Salle,5,Commissioner of the General Land Office,,,Over Votes,0,0,0
+La Salle,5,Commissioner of the General Land Office,,,Under Votes,10,5,5
+La Salle,5,Commissioner of the General Land Office,,REP,George P. Bush,121,78,43
+La Salle,5,Commissioner of the General Land Office,,DEM,Miguel Suazo,157,76,81
+La Salle,5,Commissioner of the General Land Office,,LIB,Matt Piña,5,3,2
+La Salle,5,Commissioner of Agriculture,,,Over Votes,0,0,0
+La Salle,5,Commissioner of Agriculture,,,Under Votes,15,7,8
+La Salle,5,Commissioner of Agriculture,,REP,Sid Miller,110,75,35
+La Salle,5,Commissioner of Agriculture,,DEM,Kim Olson,167,80,87
+La Salle,5,Commissioner of Agriculture,,LIB,Richard Carpenter,1,0,1
+La Salle,5,Railroad Commissioner,,,Over Votes,0,0,0
+La Salle,5,Railroad Commissioner,,,Under Votes,13,5,8
+La Salle,5,Railroad Commissioner,,REP,Christi Craddick,113,76,37
+La Salle,5,Railroad Commissioner,,DEM,Roman McAllen,164,80,84
+La Salle,5,Railroad Commissioner,,LIB,Mike Wright,3,1,2
+La Salle,5,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0
+La Salle,5,"Justice, Supreme Court, Place 2",,,Under Votes,16,7,9
+La Salle,5,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,112,76,36
+La Salle,5,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,165,79,86
+La Salle,5,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0
+La Salle,5,"Justice, Supreme Court, Place 4",,,Under Votes,14,5,9
+La Salle,5,"Justice, Supreme Court, Place 4",,REP,John Devine,115,77,38
+La Salle,5,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,164,80,84
+La Salle,5,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0
+La Salle,5,"Justice, Supreme Court, Place 6",,,Under Votes,14,5,9
+La Salle,5,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,114,76,38
+La Salle,5,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,165,81,84
+La Salle,5,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0
+La Salle,5,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,12,4,8
+La Salle,5,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,114,77,37
+La Salle,5,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,165,80,85
+La Salle,5,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,2,1,1
+La Salle,5,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0
+La Salle,5,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,15,8,7
+La Salle,5,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,112,74,38
+La Salle,5,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,166,80,86
+La Salle,5,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0
+La Salle,5,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,126,64,62
+La Salle,5,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,128,78,50
+La Salle,5,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,39,20,19
+La Salle,5,State Representative,31,,Over Votes,0,0,0
+La Salle,5,State Representative,31,,Under Votes,99,64,35
+La Salle,5,State Representative,31,DEM,Ryan Guillen,194,98,96
+La Salle,5,"Justice, 4th Court of Appeals District, Place 2",,,Over Votes,0,0,0
+La Salle,5,"Justice, 4th Court of Appeals District, Place 2",,,Under Votes,15,7,8
+La Salle,5,"Justice, 4th Court of Appeals District, Place 2",,REP,Marialyn Barnard,108,73,35
+La Salle,5,"Justice, 4th Court of Appeals District, Place 2",,DEM,Beth Watkins,170,82,88
+La Salle,5,"Justice, 4th Court of Appeals District, Place 3",,,Over Votes,0,0,0
+La Salle,5,"Justice, 4th Court of Appeals District, Place 3",,,Under Votes,14,6,8
+La Salle,5,"Justice, 4th Court of Appeals District, Place 3",,REP,Jason Pulliam,108,74,34
+La Salle,5,"Justice, 4th Court of Appeals District, Place 3",,DEM,Patricia O'Connell Alvarez,171,82,89
+La Salle,5,"Justice, 4th Court of Appeals District, Place 4",,,Over Votes,0,0,0
+La Salle,5,"Justice, 4th Court of Appeals District, Place 4",,,Under Votes,14,6,8
+La Salle,5,"Justice, 4th Court of Appeals District, Place 4",,REP,Patrick Ballantyne,111,74,37
+La Salle,5,"Justice, 4th Court of Appeals District, Place 4",,DEM,Luz Elena Chapa,168,82,86
+La Salle,5,"Justice, 4th Court of Appeals District, Place 5",,,Over Votes,0,0,0
+La Salle,5,"Justice, 4th Court of Appeals District, Place 5",,,Under Votes,14,5,9
+La Salle,5,"Justice, 4th Court of Appeals District, Place 5",,REP,Rebecca Simmons,107,74,33
+La Salle,5,"Justice, 4th Court of Appeals District, Place 5",,DEM,Liza Rodriguez,172,83,89
+La Salle,5,"Justice, 4th Court of Appeals District, Place 7",,,Over Votes,0,0,0
+La Salle,5,"Justice, 4th Court of Appeals District, Place 7",,,Under Votes,13,5,8
+La Salle,5,"Justice, 4th Court of Appeals District, Place 7",,REP,Shane Stolarczyk,108,74,34
+La Salle,5,"Justice, 4th Court of Appeals District, Place 7",,DEM,Rebeca Martinez,172,83,89
+La Salle,5,"District Judge, 81st Judicial District",,,Over Votes,0,0,0
+La Salle,5,"District Judge, 81st Judicial District",,,Under Votes,8,2,6
+La Salle,5,"District Judge, 81st Judicial District",,REP,Lynn Ellison,118,76,42
+La Salle,5,"District Judge, 81st Judicial District",,DEM,Errlinda Castillo,167,84,83
+La Salle,5,"District Judge, 218th Judicial District",,,Over Votes,0,0,0
+La Salle,5,"District Judge, 218th Judicial District",,,Under Votes,161,81,80
+La Salle,5,"District Judge, 218th Judicial District",,REP,Russell Wilson,132,81,51
+La Salle,5,County Judge,,,Over Votes,0,0,0
+La Salle,5,County Judge,,,Under Votes,85,51,34
+La Salle,5,County Judge,,DEM,"Joel Rodriguez, Jr.",208,111,97
+La Salle,5,District and County Clerk,,,Over Votes,0,0,0
+La Salle,5,District and County Clerk,,,Under Votes,80,46,34
+La Salle,5,District and County Clerk,,DEM,"Margarita ""Margie"" Avila Esqueda",213,116,97
+La Salle,5,County Treasurer,,,Over Votes,0,0,0
+La Salle,5,County Treasurer,,,Under Votes,82,51,31
+La Salle,5,County Treasurer,,DEM,"Maria ""Mary"" M. Perez",211,111,100
+La Salle,5,"County Commissioner, Precinct 4",,,Over Votes,0,0,0
+La Salle,5,"County Commissioner, Precinct 4",,,Under Votes,76,43,33
+La Salle,5,"County Commissioner, Precinct 4",,DEM,Raul Ayala,217,119,98
+La Salle,5,"Justice of the Peace, Precinct 1",,,Over Votes,0,0,0
+La Salle,5,"Justice of the Peace, Precinct 1",,,Under Votes,95,59,36
+La Salle,5,"Justice of the Peace, Precinct 1",,DEM,Roxanna G. Rodriguez,198,103,95
+La Salle,6,Registered Voters,,,,450,,
+La Salle,6,Ballots Cast,,,,183,95,88
+La Salle,6,Straight Party,,,Over Votes,0,0,0
+La Salle,6,Straight Party,,,Under Votes,86,45,41
+La Salle,6,Straight Party,,REP,Republican Party,38,26,12
+La Salle,6,Straight Party,,DEM,Democratic Party,59,24,35
+La Salle,6,Straight Party,,LIB,Libertarian Party,0,0,0
+La Salle,6,U.S. Senate,,,Over Votes,0,0,0
+La Salle,6,U.S. Senate,,,Under Votes,1,1,0
+La Salle,6,U.S. Senate,,REP,Ted Cruz,83,57,26
+La Salle,6,U.S. Senate,,DEM,Beto O'Rourke,99,37,62
+La Salle,6,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0
+La Salle,6,U.S. House,23,,Over Votes,0,0,0
+La Salle,6,U.S. House,23,,Under Votes,5,2,3
+La Salle,6,U.S. House,23,REP,Will Hurd,75,54,21
+La Salle,6,U.S. House,23,DEM,Gina Ortiz Jones,102,39,63
+La Salle,6,U.S. House,23,LIB,Ruben Corvalan,1,0,1
+La Salle,6,Governor,,,Over Votes,0,0,0
+La Salle,6,Governor,,,Under Votes,8,1,7
+La Salle,6,Governor,,REP,Greg Abbott,89,59,30
+La Salle,6,Governor,,DEM,Lupe Valdez,86,35,51
+La Salle,6,Governor,,LIB,Mark Jay Tippetts,0,0,0
+La Salle,6,Lieutenant Governor,,,Over Votes,0,0,0
+La Salle,6,Lieutenant Governor,,,Under Votes,13,2,11
+La Salle,6,Lieutenant Governor,,REP,Dan Patrick,80,55,25
+La Salle,6,Lieutenant Governor,,DEM,Mike Collier,87,35,52
+La Salle,6,Lieutenant Governor,,LIB,Kerry Douglas McKennon,3,3,0
+La Salle,6,Attorney General,,,Over Votes,0,0,0
+La Salle,6,Attorney General,,,Under Votes,13,2,11
+La Salle,6,Attorney General,,REP,Ken Paxton,78,56,22
+La Salle,6,Attorney General,,DEM,Justin Nelson,90,36,54
+La Salle,6,Attorney General,,LIB,Michael Ray Harris,2,1,1
+La Salle,6,Comptroller of Public Accounts,,,Over Votes,0,0,0
+La Salle,6,Comptroller of Public Accounts,,,Under Votes,16,2,14
+La Salle,6,Comptroller of Public Accounts,,REP,Glenn Hegar,76,56,20
+La Salle,6,Comptroller of Public Accounts,,DEM,Joi Chevalier,86,34,52
+La Salle,6,Comptroller of Public Accounts,,LIB,Ben Sanders,5,3,2
+La Salle,6,Commissioner of the General Land Office,,,Over Votes,0,0,0
+La Salle,6,Commissioner of the General Land Office,,,Under Votes,15,3,12
+La Salle,6,Commissioner of the General Land Office,,REP,George P. Bush,81,57,24
+La Salle,6,Commissioner of the General Land Office,,DEM,Miguel Suazo,82,34,48
+La Salle,6,Commissioner of the General Land Office,,LIB,Matt Piña,5,1,4
+La Salle,6,Commissioner of Agriculture,,,Over Votes,0,0,0
+La Salle,6,Commissioner of Agriculture,,,Under Votes,16,2,14
+La Salle,6,Commissioner of Agriculture,,REP,Sid Miller,77,57,20
+La Salle,6,Commissioner of Agriculture,,DEM,Kim Olson,87,35,52
+La Salle,6,Commissioner of Agriculture,,LIB,Richard Carpenter,3,1,2
+La Salle,6,Railroad Commissioner,,,Over Votes,0,0,0
+La Salle,6,Railroad Commissioner,,,Under Votes,17,2,15
+La Salle,6,Railroad Commissioner,,REP,Christi Craddick,77,57,20
+La Salle,6,Railroad Commissioner,,DEM,Roman McAllen,84,35,49
+La Salle,6,Railroad Commissioner,,LIB,Mike Wright,5,1,4
+La Salle,6,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0
+La Salle,6,"Justice, Supreme Court, Place 2",,,Under Votes,19,4,15
+La Salle,6,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,78,58,20
+La Salle,6,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,86,33,53
+La Salle,6,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0
+La Salle,6,"Justice, Supreme Court, Place 4",,,Under Votes,20,2,18
+La Salle,6,"Justice, Supreme Court, Place 4",,REP,John Devine,79,59,20
+La Salle,6,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,84,34,50
+La Salle,6,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0
+La Salle,6,"Justice, Supreme Court, Place 6",,,Under Votes,17,3,14
+La Salle,6,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,79,59,20
+La Salle,6,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,87,33,54
+La Salle,6,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0
+La Salle,6,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,18,4,14
+La Salle,6,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,77,57,20
+La Salle,6,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,88,34,54
+La Salle,6,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,0,0,0
+La Salle,6,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0
+La Salle,6,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,17,3,14
+La Salle,6,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,78,57,21
+La Salle,6,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,88,35,53
+La Salle,6,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0
+La Salle,6,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,77,28,49
+La Salle,6,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,85,59,26
+La Salle,6,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,21,8,13
+La Salle,6,State Representative,31,,Over Votes,0,0,0
+La Salle,6,State Representative,31,,Under Votes,74,43,31
+La Salle,6,State Representative,31,DEM,Ryan Guillen,109,52,57
+La Salle,6,"Justice, 4th Court of Appeals District, Place 2",,,Over Votes,0,0,0
+La Salle,6,"Justice, 4th Court of Appeals District, Place 2",,,Under Votes,19,3,16
+La Salle,6,"Justice, 4th Court of Appeals District, Place 2",,REP,Marialyn Barnard,78,57,21
+La Salle,6,"Justice, 4th Court of Appeals District, Place 2",,DEM,Beth Watkins,86,35,51
+La Salle,6,"Justice, 4th Court of Appeals District, Place 3",,,Over Votes,0,0,0
+La Salle,6,"Justice, 4th Court of Appeals District, Place 3",,,Under Votes,17,2,15
+La Salle,6,"Justice, 4th Court of Appeals District, Place 3",,REP,Jason Pulliam,77,58,19
+La Salle,6,"Justice, 4th Court of Appeals District, Place 3",,DEM,Patricia O'Connell Alvarez,89,35,54
+La Salle,6,"Justice, 4th Court of Appeals District, Place 4",,,Over Votes,0,0,0
+La Salle,6,"Justice, 4th Court of Appeals District, Place 4",,,Under Votes,18,3,15
+La Salle,6,"Justice, 4th Court of Appeals District, Place 4",,REP,Patrick Ballantyne,76,56,20
+La Salle,6,"Justice, 4th Court of Appeals District, Place 4",,DEM,Luz Elena Chapa,89,36,53
+La Salle,6,"Justice, 4th Court of Appeals District, Place 5",,,Over Votes,0,0,0
+La Salle,6,"Justice, 4th Court of Appeals District, Place 5",,,Under Votes,16,2,14
+La Salle,6,"Justice, 4th Court of Appeals District, Place 5",,REP,Rebecca Simmons,80,57,23
+La Salle,6,"Justice, 4th Court of Appeals District, Place 5",,DEM,Liza Rodriguez,87,36,51
+La Salle,6,"Justice, 4th Court of Appeals District, Place 7",,,Over Votes,0,0,0
+La Salle,6,"Justice, 4th Court of Appeals District, Place 7",,,Under Votes,16,3,13
+La Salle,6,"Justice, 4th Court of Appeals District, Place 7",,REP,Shane Stolarczyk,77,58,19
+La Salle,6,"Justice, 4th Court of Appeals District, Place 7",,DEM,Rebeca Martinez,90,34,56
+La Salle,6,"District Judge, 81st Judicial District",,,Over Votes,0,0,0
+La Salle,6,"District Judge, 81st Judicial District",,,Under Votes,15,2,13
+La Salle,6,"District Judge, 81st Judicial District",,REP,Lynn Ellison,82,58,24
+La Salle,6,"District Judge, 81st Judicial District",,DEM,Errlinda Castillo,86,35,51
+La Salle,6,"District Judge, 218th Judicial District",,,Over Votes,0,0,0
+La Salle,6,"District Judge, 218th Judicial District",,,Under Votes,89,32,57
+La Salle,6,"District Judge, 218th Judicial District",,REP,Russell Wilson,94,63,31
+La Salle,6,County Judge,,,Over Votes,0,0,0
+La Salle,6,County Judge,,,Under Votes,70,40,30
+La Salle,6,County Judge,,DEM,"Joel Rodriguez, Jr.",113,55,58
+La Salle,6,District and County Clerk,,,Over Votes,0,0,0
+La Salle,6,District and County Clerk,,,Under Votes,60,34,26
+La Salle,6,District and County Clerk,,DEM,"Margarita ""Margie"" Avila Esqueda",123,61,62
+La Salle,6,County Treasurer,,,Over Votes,0,0,0
+La Salle,6,County Treasurer,,,Under Votes,62,36,26
+La Salle,6,County Treasurer,,DEM,"Maria ""Mary"" M. Perez",121,59,62
+La Salle,6,"County Commissioner, Precinct 2",,,Over Votes,0,0,0
+La Salle,6,"County Commissioner, Precinct 2",,,Under Votes,60,36,24
+La Salle,6,"County Commissioner, Precinct 2",,DEM,"Joaquin ""Jack"" Alba",123,59,64
+La Salle,6,"Justice of the Peace, Precinct 1",,,Over Votes,0,0,0
+La Salle,6,"Justice of the Peace, Precinct 1",,,Under Votes,65,40,25
+La Salle,6,"Justice of the Peace, Precinct 1",,DEM,Roxanna G. Rodriguez,118,55,63
