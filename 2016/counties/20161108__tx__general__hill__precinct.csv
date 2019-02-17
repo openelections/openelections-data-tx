@@ -1,484 +1,463 @@
-county,precinct,office,district,candidate,party,votes,absentee,ev_paper,ev_ivo,ed_paper,ed_ivo
-Hill,2,,,Registered Voters,,1136,,,,,
-Hill,3,,,Registered Voters,,1650,,,,,
-Hill,4,,,Registered Voters,,2372,,,,,
-Hill,5,,,Registered Voters,,554,,,,,
-Hill,6,,,Registered Voters,,402,,,,,
-Hill,7,,,Registered Voters,,544,,,,,
-Hill,8,,,Registered Voters,,347,,,,,
-Hill,9,,,Registered Voters,,556,,,,,
-Hill,10,,,Registered Voters,,1919,,,,,
-Hill,12,,,Registered Voters,,816,,,,,
-Hill,13,,,Registered Voters,,2940,,,,,
-Hill,14,,,Registered Voters,,1028,,,,,
-Hill,15,,,Registered Voters,,449,,,,,
-Hill,16,,,Registered Voters,,391,,,,,
-Hill,18,,,Registered Voters,,200,,,,,
-Hill,19,,,Registered Voters,,404,,,,,
-Hill,20,,,Registered Voters,,1008,,,,,
-Hill,21,,,Registered Voters,,1893,,,,,
-Hill,22,,,Registered Voters,,1667,,,,,
-Hill,23,,,Registered Voters,,454,,,,,
-Hill,24,,,Registered Voters,,1361,,,,,
-Hill,27,,,Registered Voters,,734,,,,,
-Hill,Total,,,Registered Voters,,22825,,,,,
-Hill,2,,,Ballots Cast,,600,37,178,201,87,97
-Hill,3,,,Ballots Cast,,631,47,164,201,85,134
-Hill,4,,,Ballots Cast,,1389,103,406,514,180,186
-Hill,5,,,Ballots Cast,,359,25,77,101,108,48
-Hill,6,,,Ballots Cast,,256,10,58,61,80,47
-Hill,7,,,Ballots Cast,,379,12,48,58,161,100
-Hill,8,,,Ballots Cast,,220,9,43,53,69,46
-Hill,9,,,Ballots Cast,,288,11,72,89,66,50
-Hill,10,,,Ballots Cast,,1008,30,172,290,258,258
-Hill,12,,,Ballots Cast,,478,26,107,166,83,96
-Hill,13,,,Ballots Cast,,1675,131,273,464,296,511
-Hill,14,,,Ballots Cast,,664,23,70,156,201,214
-Hill,15,,,Ballots Cast,,241,16,19,31,66,109
-Hill,16,,,Ballots Cast,,229,4,26,36,132,31
-Hill,18,,,Ballots Cast,,109,2,26,14,52,15
-Hill,19,,,Ballots Cast,,251,6,45,44,87,69
-Hill,20,,,Ballots Cast,,610,20,81,82,330,97
-Hill,21,,,Ballots Cast,,1192,111,182,443,160,296
-Hill,22,,,Ballots Cast,,1034,104,192,279,253,206
-Hill,23,,,Ballots Cast,,308,12,29,36,144,87
-Hill,24,,,Ballots Cast,,737,44,70,99,155,369
-Hill,27,,,Ballots Cast,,455,20,101,91,174,69
-Hill,Total,,,Ballots Cast,,13113,803,2439,3509,3227,3135
-Hill,2,,,Straight Party,REP,268,18,71,113,24,42
-Hill,3,,,Straight Party,REP,193,18,56,66,17,36
-Hill,4,,,Straight Party,REP,606,52,170,240,70,74
-Hill,5,,,Straight Party,REP,194,15,50,49,52,28
-Hill,6,,,Straight Party,REP,133,4,32,37,30,30
-Hill,7,,,Straight Party,REP,164,6,22,22,73,41
-Hill,8,,,Straight Party,REP,103,6,19,29,27,22
-Hill,9,,,Straight Party,REP,117,6,28,47,18,18
-Hill,10,,,Straight Party,REP,493,19,75,152,132,115
-Hill,12,,,Straight Party,REP,256,13,56,87,44,56
-Hill,13,,,Straight Party,REP,893,68,140,269,149,267
-Hill,14,,,Straight Party,REP,385,16,31,90,116,132
-Hill,15,,,Straight Party,REP,118,8,9,14,27,60
-Hill,16,,,Straight Party,REP,102,0,9,16,59,18
-Hill,18,,,Straight Party,REP,66,0,13,6,37,10
-Hill,19,,,Straight Party,REP,118,3,19,21,40,35
-Hill,20,,,Straight Party,REP,341,17,39,46,183,56
-Hill,21,,,Straight Party,REP,643,69,88,241,75,170
-Hill,22,,,Straight Party,REP,545,60,100,153,113,119
-Hill,23,,,Straight Party,REP,132,3,15,17,64,33
-Hill,24,,,Straight Party,REP,352,23,29,44,77,179
-Hill,27,,,Straight Party,REP,242,7,57,62,78,38
-Hill,Total,,,Straight Party,REP,6464,431,1128,1821,1505,1579
-Hill,2,,,Straight Party,DEM,83,3,22,21,14,23
-Hill,3,,,Straight Party,DEM,213,17,49,62,33,52
-Hill,4,,,Straight Party,DEM,197,21,65,67,19,25
-Hill,5,,,Straight Party,DEM,34,5,7,8,8,6
-Hill,6,,,Straight Party,DEM,17,2,3,9,2,1
-Hill,7,,,Straight Party,DEM,37,3,9,5,14,6
-Hill,8,,,Straight Party,DEM,19,0,0,7,4,8
-Hill,9,,,Straight Party,DEM,48,2,8,16,10,12
-Hill,10,,,Straight Party,DEM,182,1,23,43,46,69
-Hill,12,,,Straight Party,DEM,40,6,10,17,3,4
-Hill,13,,,Straight Party,DEM,173,23,22,50,33,45
-Hill,14,,,Straight Party,DEM,35,3,4,6,15,7
-Hill,15,,,Straight Party,DEM,19,4,0,3,4,8
-Hill,16,,,Straight Party,DEM,20,1,2,3,12,2
-Hill,18,,,Straight Party,DEM,5,0,4,0,0,1
-Hill,19,,,Straight Party,DEM,26,0,4,8,6,8
-Hill,20,,,Straight Party,DEM,64,1,12,11,27,13
-Hill,21,,,Straight Party,DEM,108,12,14,42,17,23
-Hill,22,,,Straight Party,DEM,95,9,15,27,20,24
-Hill,23,,,Straight Party,DEM,46,1,3,10,15,17
-Hill,24,,,Straight Party,DEM,112,10,4,16,21,61
-Hill,27,,,Straight Party,DEM,56,8,10,9,18,11
-Hill,Total,,,Straight Party,DEM,1629,132,290,440,341,426
-Hill,2,,,Straight Party,LIB,6,1,1,3,0,1
-Hill,3,,,Straight Party,LIB,11,0,2,4,0,5
-Hill,4,,,Straight Party,LIB,6,0,0,3,3,0
-Hill,5,,,Straight Party,LIB,2,0,0,2,0,0
-Hill,6,,,Straight Party,LIB,1,0,1,0,0,0
-Hill,7,,,Straight Party,LIB,2,0,0,1,1,0
-Hill,8,,,Straight Party,LIB,0,0,0,0,0,0
-Hill,9,,,Straight Party,LIB,4,1,0,2,0,1
-Hill,10,,,Straight Party,LIB,6,0,1,2,2,1
-Hill,12,,,Straight Party,LIB,1,0,0,1,0,0
-Hill,13,,,Straight Party,LIB,12,0,2,1,3,6
-Hill,14,,,Straight Party,LIB,7,0,1,0,3,3
-Hill,15,,,Straight Party,LIB,3,0,0,2,1,0
-Hill,16,,,Straight Party,LIB,2,0,0,0,2,0
-Hill,18,,,Straight Party,LIB,0,0,0,0,0,0
-Hill,19,,,Straight Party,LIB,2,0,0,0,1,1
-Hill,20,,,Straight Party,LIB,1,0,0,1,0,0
-Hill,21,,,Straight Party,LIB,7,0,0,3,2,2
-Hill,22,,,Straight Party,LIB,4,0,0,0,4,0
-Hill,23,,,Straight Party,LIB,1,0,0,0,1,0
-Hill,24,,,Straight Party,LIB,4,0,2,0,1,1
-Hill,27,,,Straight Party,LIB,5,0,0,0,2,3
-Hill,Total,,,Straight Party,LIB,87,2,10,25,26,24
-Hill,2,,,Straight Party,GRN,1,0,1,0,0,0
-Hill,3,,,Straight Party,GRN,1,0,0,0,0,1
-Hill,4,,,Straight Party,GRN,2,0,1,0,0,1
-Hill,5,,,Straight Party,GRN,0,0,0,0,0,0
-Hill,6,,,Straight Party,GRN,0,0,0,0,0,0
-Hill,7,,,Straight Party,GRN,0,0,0,0,0,0
-Hill,8,,,Straight Party,GRN,0,0,0,0,0,0
-Hill,9,,,Straight Party,GRN,1,0,1,0,0,0
-Hill,10,,,Straight Party,GRN,0,0,0,0,0,0
-Hill,12,,,Straight Party,GRN,2,0,0,2,0,0
-Hill,13,,,Straight Party,GRN,2,0,0,0,1,1
-Hill,14,,,Straight Party,GRN,0,0,0,0,0,0
-Hill,15,,,Straight Party,GRN,0,0,0,0,0,0
-Hill,16,,,Straight Party,GRN,0,0,0,0,0,0
-Hill,18,,,Straight Party,GRN,0,0,0,0,0,0
-Hill,19,,,Straight Party,GRN,0,0,0,0,0,0
-Hill,20,,,Straight Party,GRN,2,0,2,0,0,0
-Hill,21,,,Straight Party,GRN,1,0,0,1,0,0
-Hill,22,,,Straight Party,GRN,2,0,0,0,0,2
-Hill,23,,,Straight Party,GRN,0,0,0,0,0,0
-Hill,24,,,Straight Party,GRN,1,0,0,0,0,1
-Hill,27,,,Straight Party,GRN,0,0,0,0,0,0
-Hill,Total,,,Straight Party,GRN,15,0,5,3,1,6
-Hill,2,President,,Donald J. Trump / Mike Pence,REP,437,27,134,160,52,64
-Hill,3,President,,Donald J. Trump / Mike Pence,REP,288,21,85,103,28,51
-Hill,4,President,,Donald J. Trump / Mike Pence,REP,999,70,291,381,137,120
-Hill,5,President,,Donald J. Trump / Mike Pence,REP,303,19,68,83,93,40
-Hill,6,President,,Donald J. Trump / Mike Pence,REP,216,5,53,49,65,44
-Hill,7,President,,Donald J. Trump / Mike Pence,REP,318,8,37,47,141,85
-Hill,8,President,,Donald J. Trump / Mike Pence,REP,178,8,40,40,56,34
-Hill,9,President,,Donald J. Trump / Mike Pence,REP,207,7,56,67,43,34
-Hill,10,President,,Donald J. Trump / Mike Pence,REP,734,27,135,225,185,162
-Hill,12,President,,Donald J. Trump / Mike Pence,REP,388,19,89,134,68,78
-Hill,13,President,,Donald J. Trump / Mike Pence,REP,1349,91,233,381,229,415
-Hill,14,President,,Donald J. Trump / Mike Pence,REP,588,19,58,139,175,197
-Hill,15,President,,Donald J. Trump / Mike Pence,REP,198,10,19,22,57,90
-Hill,16,President,,Donald J. Trump / Mike Pence,REP,181,0,22,29,104,26
-Hill,18,President,,Donald J. Trump / Mike Pence,REP,95,2,21,12,47,13
-Hill,19,President,,Donald J. Trump / Mike Pence,REP,198,5,39,25,76,53
-Hill,20,President,,Donald J. Trump / Mike Pence,REP,508,17,59,65,291,76
-Hill,21,President,,Donald J. Trump / Mike Pence,REP,956,90,146,356,123,241
-Hill,22,President,,Donald J. Trump / Mike Pence,REP,825,84,153,229,201,158
-Hill,23,President,,Donald J. Trump / Mike Pence,REP,224,5,24,24,111,60
-Hill,24,President,,Donald J. Trump / Mike Pence,REP,558,32,57,66,120,283
-Hill,27,President,,Donald J. Trump / Mike Pence,REP,360,11,89,74,137,49
-Hill,Total,President,,Donald J. Trump / Mike Pence,REP,10108,577,1908,2711,2539,2373
-Hill,2,President,,Hillary Clinton / Tim Kaine,DEM,134,8,37,33,27,29
-Hill,3,President,,Hillary Clinton / Tim Kaine,DEM,306,25,73,88,50,70
-Hill,4,President,,Hillary Clinton / Tim Kaine,DEM,329,30,110,109,29,51
-Hill,5,President,,Hillary Clinton / Tim Kaine,DEM,47,6,9,15,10,7
-Hill,6,President,,Hillary Clinton / Tim Kaine,DEM,35,4,5,11,12,3
-Hill,7,President,,Hillary Clinton / Tim Kaine,DEM,51,4,11,9,16,11
-Hill,8,President,,Hillary Clinton / Tim Kaine,DEM,33,1,2,11,11,8
-Hill,9,President,,Hillary Clinton / Tim Kaine,DEM,67,4,13,20,16,14
-Hill,10,President,,Hillary Clinton / Tim Kaine,DEM,245,1,32,56,64,92
-Hill,12,President,,Hillary Clinton / Tim Kaine,DEM,70,6,15,29,10,10
-Hill,13,President,,Hillary Clinton / Tim Kaine,DEM,276,38,34,68,56,80
-Hill,14,President,,Hillary Clinton / Tim Kaine,DEM,58,3,10,15,20,10
-Hill,15,President,,Hillary Clinton / Tim Kaine,DEM,36,7,0,6,8,15
-Hill,16,President,,Hillary Clinton / Tim Kaine,DEM,44,4,4,6,26,4
-Hill,18,President,,Hillary Clinton / Tim Kaine,DEM,10,0,5,1,3,1
-Hill,19,President,,Hillary Clinton / Tim Kaine,DEM,43,1,5,14,10,13
-Hill,20,President,,Hillary Clinton / Tim Kaine,DEM,87,2,20,12,34,19
-Hill,21,President,,Hillary Clinton / Tim Kaine,DEM,199,19,33,75,33,39
-Hill,22,President,,Hillary Clinton / Tim Kaine,DEM,173,18,34,44,39,38
-Hill,23,President,,Hillary Clinton / Tim Kaine,DEM,76,7,5,12,29,23
-Hill,24,President,,Hillary Clinton / Tim Kaine,DEM,155,12,9,27,30,77
-Hill,27,President,,Hillary Clinton / Tim Kaine,DEM,73,7,12,13,28,13
-Hill,Total,President,,Hillary Clinton / Tim Kaine,DEM,2547,207,478,674,561,627
-Hill,2,President,,Gary Johnson / William Weld,LIB,16,1,2,5,5,3
-Hill,3,President,,Gary Johnson / William Weld,LIB,24,1,3,7,2,11
-Hill,4,President,,Gary Johnson / William Weld,LIB,40,0,1,18,8,13
-Hill,5,President,,Gary Johnson / William Weld,LIB,6,0,0,3,3,0
-Hill,6,President,,Gary Johnson / William Weld,LIB,2,0,0,1,1,0
-Hill,7,President,,Gary Johnson / William Weld,LIB,6,0,0,2,2,2
-Hill,8,President,,Gary Johnson / William Weld,LIB,4,0,0,2,1,1
-Hill,9,President,,Gary Johnson / William Weld,LIB,8,0,1,2,3,2
-Hill,10,President,,Gary Johnson / William Weld,LIB,15,0,1,5,6,3
-Hill,12,President,,Gary Johnson / William Weld,LIB,11,1,0,3,2,5
-Hill,13,President,,Gary Johnson / William Weld,LIB,25,1,4,6,6,8
-Hill,14,President,,Gary Johnson / William Weld,LIB,10,1,0,1,3,5
-Hill,15,President,,Gary Johnson / William Weld,LIB,5,0,0,2,1,2
-Hill,16,President,,Gary Johnson / William Weld,LIB,2,0,0,1,1,0
-Hill,18,President,,Gary Johnson / William Weld,LIB,2,0,0,0,1,1
-Hill,19,President,,Gary Johnson / William Weld,LIB,6,0,1,2,1,2
-Hill,20,President,,Gary Johnson / William Weld,LIB,5,0,0,3,1,1
-Hill,21,President,,Gary Johnson / William Weld,LIB,18,1,1,8,2,6
-Hill,22,President,,Gary Johnson / William Weld,LIB,21,1,4,3,7,6
-Hill,23,President,,Gary Johnson / William Weld,LIB,8,0,0,0,4,4
-Hill,24,President,,Gary Johnson / William Weld,LIB,8,0,1,0,3,4
-Hill,27,President,,Gary Johnson / William Weld,LIB,14,0,0,3,7,4
-Hill,Total,President,,Gary Johnson / William Weld,LIB,256,7,19,77,70,83
-Hill,2,President,,Jill Stein / Ajamu Baraka,GRN,2,0,1,0,0,1
-Hill,3,President,,Jill Stein / Ajamu Baraka,GRN,5,0,2,1,1,1
-Hill,4,President,,Jill Stein / Ajamu Baraka,GRN,4,0,1,0,2,1
-Hill,5,President,,Jill Stein / Ajamu Baraka,GRN,0,0,0,0,0,0
-Hill,6,President,,Jill Stein / Ajamu Baraka,GRN,2,1,0,0,1,0
-Hill,7,President,,Jill Stein / Ajamu Baraka,GRN,0,0,0,0,0,0
-Hill,8,President,,Jill Stein / Ajamu Baraka,GRN,2,0,0,0,0,2
-Hill,9,President,,Jill Stein / Ajamu Baraka,GRN,1,0,1,0,0,0
-Hill,10,President,,Jill Stein / Ajamu Baraka,GRN,5,0,2,1,1,1
-Hill,12,President,,Jill Stein / Ajamu Baraka,GRN,3,0,2,0,0,1
-Hill,13,President,,Jill Stein / Ajamu Baraka,GRN,1,0,1,0,0,0
-Hill,14,President,,Jill Stein / Ajamu Baraka,GRN,0,0,0,0,0,0
-Hill,15,President,,Jill Stein / Ajamu Baraka,GRN,1,0,0,0,0,1
-Hill,16,President,,Jill Stein / Ajamu Baraka,GRN,0,0,0,0,0,0
-Hill,18,President,,Jill Stein / Ajamu Baraka,GRN,0,0,0,0,0,0
-Hill,19,President,,Jill Stein / Ajamu Baraka,GRN,0,0,0,0,0,0
-Hill,20,President,,Jill Stein / Ajamu Baraka,GRN,5,0,2,1,1,1
-Hill,21,President,,Jill Stein / Ajamu Baraka,GRN,3,1,0,0,0,2
-Hill,22,President,,Jill Stein / Ajamu Baraka,GRN,3,0,0,0,0,3
-Hill,23,President,,Jill Stein / Ajamu Baraka,GRN,0,0,0,0,0,0
-Hill,24,President,,Jill Stein / Ajamu Baraka,GRN,2,0,0,1,0,1
-Hill,27,President,,Jill Stein / Ajamu Baraka,GRN,1,0,0,1,0,0
-Hill,Total,President,,Jill Stein / Ajamu Baraka,GRN,40,2,12,5,6,15
-Hill,2,President,,Write-In,,7,1,2,2,2,0
-Hill,3,President,,Write-In,,2,0,0,1,0,1
-Hill,4,President,,Write-In,,10,1,1,4,3,1
-Hill,5,President,,Write-In,,1,0,0,0,0,1
-Hill,6,President,,Write-In,,0,0,0,0,0,0
-Hill,7,President,,Write-In,,3,0,0,0,1,2
-Hill,8,President,,Write-In,,2,0,0,0,1,1
-Hill,9,President,,Write-In,,5,0,1,0,4,0
-Hill,10,President,,Write-In,,6,2,2,0,2,0
-Hill,12,President,,Write-In,,3,0,1,0,2,0
-Hill,13,President,,Write-In,,11,1,0,7,1,2
-Hill,14,President,,Write-In,,5,0,2,1,1,1
-Hill,15,President,,Write-In,,1,0,0,0,0,1
-Hill,16,President,,Write-In,,1,0,0,0,0,1
-Hill,18,President,,Write-In,,1,0,0,1,0,0
-Hill,19,President,,Write-In,,3,0,0,2,0,1
-Hill,20,President,,Write-In,,3,1,0,1,1,0
-Hill,21,President,,Write-In,,8,0,1,2,2,3
-Hill,22,President,,Write-In,,9,1,1,2,4,1
-Hill,23,President,,Write-In,,0,0,0,0,0,0
-Hill,24,President,,Write-In,,10,0,2,3,2,3
-Hill,27,President,,Write-In,,4,2,0,0,0,2
-Hill,Total,President,,Write-In,,95,9,13,26,26,21
-Hill,2,U.S House,25,Roger Williams ,REP,431,26,132,162,52,59
-Hill,3,U.S House,25,Roger Williams ,REP,293,21,86,100,30,56
-Hill,4,U.S House,25,Roger Williams ,REP,1019,72,295,387,133,132
-Hill,5,U.S House,25,Roger Williams ,REP,285,19,64,78,86,38
-Hill,6,U.S House,25,Roger Williams ,REP,209,7,52,48,59,43
-Hill,7,U.S House,25,Roger Williams ,REP,296,8,35,41,132,80
-Hill,8,U.S House,25,Roger Williams ,REP,170,8,35,40,52,35
-Hill,9,U.S House,25,Roger Williams ,REP,205,7,54,65,45,34
-Hill,10,U.S House,25,Roger Williams ,REP,729,27,132,226,186,158
-Hill,12,U.S House,25,Roger Williams ,REP,388,20,85,133,70,80
-Hill,13,U.S House,25,Roger Williams ,REP,1321,88,221,381,218,413
-Hill,14,U.S House,25,Roger Williams ,REP,576,20,54,136,172,194
-Hill,15,U.S House,25,Roger Williams ,REP,197,12,18,23,54,90
-Hill,16,U.S House,25,Roger Williams ,REP,167,2,18,27,93,27
-Hill,18,U.S House,25,Roger Williams ,REP,94,2,21,11,47,13
-Hill,19,U.S House,25,Roger Williams ,REP,192,5,35,29,73,50
-Hill,20,U.S House,25,Roger Williams ,REP,498,19,59,65,280,75
-Hill,21,U.S House,25,Roger Williams ,REP,951,92,141,358,119,241
-Hill,22,U.S House,25,Roger Williams ,REP,803,85,142,224,199,153
-Hill,23,U.S House,25,Roger Williams ,REP,213,5,25,23,103,57
-Hill,24,U.S House,25,Roger Williams ,REP,541,31,55,66,116,273
-Hill,27,U.S House,25,Roger Williams ,REP,351,12,82,72,136,49
-Hill,Total,U.S House,25,Roger Williams ,REP,9929,588,1841,2695,2455,2350
-Hill,2,U.S House,25,Kathi Thomas ,DEM,129,8,37,28,26,30
-Hill,3,U.S House,25,Kathi Thomas ,DEM,296,25,68,87,48,68
-Hill,4,U.S House,25,Kathi Thomas ,DEM,299,28,100,98,32,41
-Hill,5,U.S House,25,Kathi Thomas ,DEM,48,6,8,14,12,8
-Hill,6,U.S House,25,Kathi Thomas ,DEM,33,3,5,11,11,3
-Hill,7,U.S House,25,Kathi Thomas ,DEM,62,4,11,11,21,15
-Hill,8,U.S House,25,Kathi Thomas ,DEM,36,1,5,10,10,10
-Hill,9,U.S House,25,Kathi Thomas ,DEM,60,2,11,20,14,13
-Hill,10,U.S House,25,Kathi Thomas ,DEM,240,1,32,51,64,92
-Hill,12,U.S House,25,Kathi Thomas ,DEM,67,6,16,25,11,9
-Hill,13,U.S House,25,Kathi Thomas ,DEM,267,35,35,66,58,73
-Hill,14,U.S House,25,Kathi Thomas ,DEM,56,3,10,13,20,10
-Hill,15,U.S House,25,Kathi Thomas ,DEM,34,5,1,5,9,14
-Hill,16,U.S House,25,Kathi Thomas ,DEM,43,2,7,7,24,3
-Hill,18,U.S House,25,Kathi Thomas ,DEM,7,0,5,1,0,1
-Hill,19,U.S House,25,Kathi Thomas ,DEM,41,1,7,13,7,13
-Hill,20,U.S House,25,Kathi Thomas ,DEM,91,1,21,14,39,16
-Hill,21,U.S House,25,Kathi Thomas ,DEM,191,18,33,69,32,39
-Hill,22,U.S House,25,Kathi Thomas ,DEM,182,15,40,47,44,36
-Hill,23,U.S House,25,Kathi Thomas ,DEM,79,7,4,12,31,25
-Hill,24,U.S House,25,Kathi Thomas ,DEM,153,13,9,24,30,77
-Hill,27,U.S House,25,Kathi Thomas ,DEM,76,8,13,14,28,13
-Hill,Total,U.S House,25,Kathi Thomas ,DEM,2490,192,478,640,571,609
-Hill,2,U.S House,25,Loren Marc Schneiderman ,LIB,20,1,5,7,3,4
-Hill,3,U.S House,25,Loren Marc Schneiderman ,LIB,23,1,5,9,3,5
-Hill,4,U.S House,25,Loren Marc Schneiderman ,LIB,31,1,4,12,9,5
-Hill,5,U.S House,25,Loren Marc Schneiderman ,LIB,10,0,3,4,3,0
-Hill,6,U.S House,25,Loren Marc Schneiderman ,LIB,2,0,0,0,2,0
-Hill,7,U.S House,25,Loren Marc Schneiderman ,LIB,6,0,1,3,1,1
-Hill,8,U.S House,25,Loren Marc Schneiderman ,LIB,4,0,1,2,1,0
-Hill,9,U.S House,25,Loren Marc Schneiderman ,LIB,13,1,3,4,3,2
-Hill,10,U.S House,25,Loren Marc Schneiderman ,LIB,18,0,4,8,4,2
-Hill,12,U.S House,25,Loren Marc Schneiderman ,LIB,12,0,2,4,0,6
-Hill,13,U.S House,25,Loren Marc Schneiderman ,LIB,41,1,10,6,13,11
-Hill,14,U.S House,25,Loren Marc Schneiderman ,LIB,17,0,3,3,5,6
-Hill,15,U.S House,25,Loren Marc Schneiderman ,LIB,6,0,0,2,1,3
-Hill,16,U.S House,25,Loren Marc Schneiderman ,LIB,3,0,1,1,1,0
-Hill,18,U.S House,25,Loren Marc Schneiderman ,LIB,2,0,0,0,1,1
-Hill,19,U.S House,25,Loren Marc Schneiderman ,LIB,7,0,3,1,1,2
-Hill,20,U.S House,25,Loren Marc Schneiderman ,LIB,7,0,1,3,1,2
-Hill,21,U.S House,25,Loren Marc Schneiderman ,LIB,18,0,0,5,6,7
-Hill,22,U.S House,25,Loren Marc Schneiderman ,LIB,16,1,5,1,3,6
-Hill,23,U.S House,25,Loren Marc Schneiderman ,LIB,7,0,0,1,4,2
-Hill,24,U.S House,25,Loren Marc Schneiderman ,LIB,13,0,0,4,2,7
-Hill,27,U.S House,25,Loren Marc Schneiderman ,LIB,12,0,3,0,3,6
-Hill,Total,U.S House,25,Loren Marc Schneiderman ,LIB,288,6,54,80,70,78
-Hill,2,Railroad Commissioner,,Wayne Christian,REP,414,25,129,156,51,53
-Hill,3,Railroad Commissioner,,Wayne Christian,REP,281,21,83,97,28,52
-Hill,4,Railroad Commissioner,,Wayne Christian,REP,970,71,279,367,129,124
-Hill,5,Railroad Commissioner,,Wayne Christian,REP,283,19,64,74,88,38
-Hill,6,Railroad Commissioner,,Wayne Christian,REP,197,7,48,45,57,40
-Hill,7,Railroad Commissioner,,Wayne Christian,REP,275,8,34,41,122,70
-Hill,8,Railroad Commissioner,,Wayne Christian,REP,166,8,36,38,50,34
-Hill,9,Railroad Commissioner,,Wayne Christian,REP,192,7,49,61,42,33
-Hill,10,Railroad Commissioner,,Wayne Christian,REP,694,27,128,215,173,151
-Hill,12,Railroad Commissioner,,Wayne Christian,REP,375,19,81,131,67,77
-Hill,13,Railroad Commissioner,,Wayne Christian,REP,1297,87,221,375,213,401
-Hill,14,Railroad Commissioner,,Wayne Christian,REP,562,20,53,132,168,189
-Hill,15,Railroad Commissioner,,Wayne Christian,REP,179,12,15,22,46,84
-Hill,16,Railroad Commissioner,,Wayne Christian,REP,166,0,21,26,93,26
-Hill,18,Railroad Commissioner,,Wayne Christian,REP,92,2,20,11,47,12
-Hill,19,Railroad Commissioner,,Wayne Christian,REP,180,5,33,28,65,49
-Hill,20,Railroad Commissioner,,Wayne Christian,REP,477,19,57,62,270,69
-Hill,21,Railroad Commissioner,,Wayne Christian,REP,919,90,140,345,113,231
-Hill,22,Railroad Commissioner,,Wayne Christian,REP,773,81,141,220,183,148
-Hill,23,Railroad Commissioner,,Wayne Christian,REP,202,5,24,22,96,55
-Hill,24,Railroad Commissioner,,Wayne Christian,REP,528,30,55,65,112,266
-Hill,27,Railroad Commissioner,,Wayne Christian,REP,331,10,80,70,123,48
-Hill,Total,Railroad Commissioner,,Wayne Christian,REP,8858,527,1579,2350,2257,2145
-Hill,2,Railroad Commissioner,,Grady Yarbrough,DEM,113,8,33,26,21,25
-Hill,3,Railroad Commissioner,,Grady Yarbrough,DEM,278,25,64,78,47,64
-Hill,4,Railroad Commissioner,,Grady Yarbrough,DEM,286,28,98,91,30,39
-Hill,5,Railroad Commissioner,,Grady Yarbrough,DEM,47,5,10,14,10,8
-Hill,6,Railroad Commissioner,,Grady Yarbrough,DEM,35,3,5,11,14,2
-Hill,7,Railroad Commissioner,,Grady Yarbrough,DEM,65,4,10,10,27,14
-Hill,8,Railroad Commissioner,,Grady Yarbrough,DEM,31,1,3,11,7,9
-Hill,9,Railroad Commissioner,,Grady Yarbrough,DEM,60,2,15,18,12,13
-Hill,10,Railroad Commissioner,,Grady Yarbrough,DEM,244,1,36,54,64,89
-Hill,12,Railroad Commissioner,,Grady Yarbrough,DEM,70,7,17,25,12,9
-Hill,13,Railroad Commissioner,,Grady Yarbrough,DEM,258,36,33,64,55,70
-Hill,14,Railroad Commissioner,,Grady Yarbrough,DEM,62,3,10,12,25,12
-Hill,15,Railroad Commissioner,,Grady Yarbrough,DEM,38,4,3,4,11,16
-Hill,16,Railroad Commissioner,,Grady Yarbrough,DEM,35,2,4,7,21,1
-Hill,18,Railroad Commissioner,,Grady Yarbrough,DEM,8,0,5,1,1,1
-Hill,19,Railroad Commissioner,,Grady Yarbrough,DEM,43,0,8,12,10,13
-Hill,20,Railroad Commissioner,,Grady Yarbrough,DEM,88,1,18,13,38,18
-Hill,21,Railroad Commissioner,,Grady Yarbrough,DEM,185,17,32,69,28,39
-Hill,22,Railroad Commissioner,,Grady Yarbrough,DEM,178,17,35,42,49,35
-Hill,23,Railroad Commissioner,,Grady Yarbrough,DEM,83,6,5,13,33,26
-Hill,24,Railroad Commissioner,,Grady Yarbrough,DEM,156,13,11,25,30,77
-Hill,27,Railroad Commissioner,,Grady Yarbrough,DEM,80,10,14,12,31,13
-Hill,Total,Railroad Commissioner,,Grady Yarbrough,DEM,2443,193,469,612,576,593
-Hill,2,Railroad Commissioner,,Mark Miller,LIB,30,1,7,9,5,8
-Hill,3,Railroad Commissioner,,Mark Miller,LIB,34,1,10,8,4,11
-Hill,4,Railroad Commissioner,,Mark Miller,LIB,63,0,15,27,11,10
-Hill,5,Railroad Commissioner,,Mark Miller,LIB,13,0,2,7,3,1
-Hill,6,Railroad Commissioner,,Mark Miller,LIB,10,0,2,3,2,3
-Hill,7,Railroad Commissioner,,Mark Miller,LIB,16,0,1,4,3,8
-Hill,8,Railroad Commissioner,,Mark Miller,LIB,9,0,2,3,3,1
-Hill,9,Railroad Commissioner,,Mark Miller,LIB,22,1,4,8,7,2
-Hill,10,Railroad Commissioner,,Mark Miller,LIB,30,0,2,8,11,9
-Hill,12,Railroad Commissioner,,Mark Miller,LIB,18,0,5,3,1,9
-Hill,13,Railroad Commissioner,,Mark Miller,LIB,57,1,11,10,13,22
-Hill,14,Railroad Commissioner,,Mark Miller,LIB,25,0,4,8,3,10
-Hill,15,Railroad Commissioner,,Mark Miller,LIB,16,0,1,4,6,5
-Hill,16,Railroad Commissioner,,Mark Miller,LIB,9,2,0,1,6,0
-Hill,18,Railroad Commissioner,,Mark Miller,LIB,2,0,1,0,0,1
-Hill,19,Railroad Commissioner,,Mark Miller,LIB,15,1,3,3,6,2
-Hill,20,Railroad Commissioner,,Mark Miller,LIB,21,0,3,6,8,4
-Hill,21,Railroad Commissioner,,Mark Miller,LIB,40,1,3,14,11,11
-Hill,22,Railroad Commissioner,,Mark Miller,LIB,40,2,11,6,12,9
-Hill,23,Railroad Commissioner,,Mark Miller,LIB,14,1,0,1,8,4
-Hill,24,Railroad Commissioner,,Mark Miller,LIB,20,0,2,6,3,9
-Hill,27,Railroad Commissioner,,Mark Miller,LIB,23,0,4,2,12,5
-Hill,Total,Railroad Commissioner,,Mark Miller,LIB,527,11,93,141,138,144
-Hill,2,Railroad Commissioner,,Martin Salinas,GRN,19,2,3,5,3,6
-Hill,3,Railroad Commissioner,,Martin Salinas,GRN,19,0,3,12,2,2
-Hill,4,Railroad Commissioner,,Martin Salinas,GRN,20,2,4,6,2,6
-Hill,5,Railroad Commissioner,,Martin Salinas,GRN,3,1,1,0,1,0
-Hill,6,Railroad Commissioner,,Martin Salinas,GRN,2,0,1,0,0,1
-Hill,7,Railroad Commissioner,,Martin Salinas,GRN,2,0,1,0,0,1
-Hill,8,Railroad Commissioner,,Martin Salinas,GRN,1,0,0,0,1,0
-Hill,9,Railroad Commissioner,,Martin Salinas,GRN,5,0,1,2,1,1
-Hill,10,Railroad Commissioner,,Martin Salinas,GRN,11,0,1,2,5,3
-Hill,12,Railroad Commissioner,,Martin Salinas,GRN,6,0,2,3,1,0
-Hill,13,Railroad Commissioner,,Martin Salinas,GRN,14,1,3,2,6,2
-Hill,14,Railroad Commissioner,,Martin Salinas,GRN,2,0,1,0,1,0
-Hill,15,Railroad Commissioner,,Martin Salinas,GRN,1,0,0,0,0,1
-Hill,16,Railroad Commissioner,,Martin Salinas,GRN,4,0,1,0,0,3
-Hill,18,Railroad Commissioner,,Martin Salinas,GRN,0,0,0,0,0,0
-Hill,19,Railroad Commissioner,,Martin Salinas,GRN,3,0,1,0,1,1
-Hill,20,Railroad Commissioner,,Martin Salinas,GRN,6,0,3,1,1,1
-Hill,21,Railroad Commissioner,,Martin Salinas,GRN,15,1,3,4,4,3
-Hill,22,Railroad Commissioner,,Martin Salinas,GRN,12,0,4,4,1,3
-Hill,23,Railroad Commissioner,,Martin Salinas,GRN,1,0,0,0,1,0
-Hill,24,Railroad Commissioner,,Martin Salinas,GRN,9,0,1,1,2,5
-Hill,27,Railroad Commissioner,,Martin Salinas,GRN,4,0,1,2,0,1
-Hill,Total,Railroad Commissioner,,Martin Salinas,GRN,159,7,35,44,33,40
-Hill,2,State Senate,30,Brian Birdwell ,REP,442,29,134,167,54,58
-Hill,3,State Senate,30,Brian Birdwell ,REP,311,22,92,106,34,57
-Hill,4,State Senate,30,Brian Birdwell ,REP,1028,71,289,395,139,134
-Hill,5,State Senate,30,Brian Birdwell ,REP,296,19,68,81,90,38
-Hill,6,State Senate,30,Brian Birdwell ,REP,213,7,52,48,63,43
-Hill,7,State Senate,30,Brian Birdwell ,REP,301,8,35,45,131,82
-Hill,8,State Senate,30,Brian Birdwell ,REP,171,8,35,41,53,34
-Hill,9,State Senate,30,Brian Birdwell ,REP,210,7,56,68,46,33
-Hill,10,State Senate,30,Brian Birdwell ,REP,733,27,126,226,190,164
-Hill,12,State Senate,30,Brian Birdwell ,REP,402,19,86,137,73,87
-Hill,13,State Senate,30,Brian Birdwell ,REP,1355,95,230,387,229,414
-Hill,14,State Senate,30,Brian Birdwell ,REP,585,19,56,134,177,199
-Hill,15,State Senate,30,Brian Birdwell ,REP,198,12,16,22,55,93
-Hill,16,State Senate,30,Brian Birdwell ,REP,169,2,19,27,95,26
-Hill,18,State Senate,30,Brian Birdwell ,REP,94,2,21,10,48,13
-Hill,19,State Senate,30,Brian Birdwell ,REP,194,5,38,30,69,52
-Hill,20,State Senate,30,Brian Birdwell ,REP,499,19,59,66,280,75
-Hill,21,State Senate,30,Brian Birdwell ,REP,966,95,145,357,124,245
-Hill,22,State Senate,30,Brian Birdwell ,REP,812,84,151,223,200,154
-Hill,23,State Senate,30,Brian Birdwell ,REP,220,5,25,24,106,60
-Hill,24,State Senate,30,Brian Birdwell ,REP,544,31,56,68,116,273
-Hill,27,State Senate,30,Brian Birdwell ,REP,357,11,87,72,136,51
-Hill,Total,State Senate,30,Brian Birdwell ,REP,10100,597,1876,2734,2508,2385
-Hill,2,State Senate,30,Michael Collins ,DEM,136,8,38,29,27,34
-Hill,3,State Senate,30,Michael Collins ,DEM,290,25,67,85,43,70
-Hill,4,State Senate,30,Michael Collins ,DEM,308,29,101,102,32,44
-Hill,5,State Senate,30,Michael Collins ,DEM,50,6,9,15,12,8
-Hill,6,State Senate,30,Michael Collins ,DEM,35,3,5,11,13,3
-Hill,7,State Senate,30,Michael Collins ,DEM,64,4,12,11,23,14
-Hill,8,State Senate,30,Michael Collins ,DEM,35,1,3,10,10,11
-Hill,9,State Senate,30,Michael Collins ,DEM,69,2,12,21,18,16
-Hill,10,State Senate,30,Michael Collins ,DEM,242,1,38,51,66,86
-Hill,12,State Senate,30,Michael Collins ,DEM,68,7,17,26,9,9
-Hill,13,State Senate,30,Michael Collins ,DEM,263,28,36,68,55,76
-Hill,14,State Senate,30,Michael Collins ,DEM,60,4,12,13,20,11
-Hill,15,State Senate,30,Michael Collins ,DEM,38,4,3,7,9,15
-Hill,16,State Senate,30,Michael Collins ,DEM,44,2,7,7,24,4
-Hill,18,State Senate,30,Michael Collins ,DEM,9,0,5,2,1,1
-Hill,19,State Senate,30,Michael Collins ,DEM,42,1,6,12,11,12
-Hill,20,State Senate,30,Michael Collins ,DEM,91,1,21,16,34,19
-Hill,21,State Senate,30,Michael Collins ,DEM,187,15,31,72,29,40
-Hill,22,State Senate,30,Michael Collins ,DEM,184,17,36,48,42,41
-Hill,23,State Senate,30,Michael Collins ,DEM,78,7,3,12,31,25
-Hill,24,State Senate,30,Michael Collins ,DEM,159,13,7,27,31,81
-Hill,27,State Senate,30,Michael Collins ,DEM,77,9,13,14,27,14
-Hill,Total,State Senate,30,Michael Collins ,DEM,2529,187,482,659,567,634
-Hill,2,State Representative,8,Byron Cook ,REP,483,33,142,179,57,72
-Hill,3,State Representative,8,Byron Cook ,REP,374,25,99,128,41,81
-Hill,4,State Representative,8,Byron Cook ,REP,1092,77,299,412,146,158
-Hill,5,State Representative,8,Byron Cook ,REP,293,20,66,80,87,40
-Hill,6,State Representative,8,Byron Cook ,REP,211,7,50,46,65,43
-Hill,7,State Representative,8,Byron Cook ,REP,312,7,37,48,136,84
-Hill,8,State Representative,8,Byron Cook ,REP,181,9,37,42,54,39
-Hill,9,State Representative,8,Byron Cook ,REP,219,7,53,72,50,37
-Hill,10,State Representative,8,Byron Cook ,REP,782,27,126,238,202,189
-Hill,12,State Representative,8,Byron Cook ,REP,417,20,85,146,75,91
-Hill,13,State Representative,8,Byron Cook ,REP,1419,96,226,409,243,445
-Hill,14,State Representative,8,Byron Cook ,REP,591,20,55,138,178,200
-Hill,15,State Representative,8,Byron Cook ,REP,212,12,19,24,57,100
-Hill,16,State Representative,8,Byron Cook ,REP,175,0,15,30,102,28
-Hill,18,State Representative,8,Byron Cook ,REP,94,2,22,10,47,13
-Hill,19,State Representative,8,Byron Cook ,REP,199,6,37,30,72,54
-Hill,20,State Representative,8,Byron Cook ,REP,511,19,59,73,281,79
-Hill,21,State Representative,8,Byron Cook ,REP,991,95,141,376,129,250
-Hill,22,State Representative,8,Byron Cook ,REP,851,87,160,234,205,165
-Hill,23,State Representative,8,Byron Cook ,REP,244,7,26,27,116,68
-Hill,24,State Representative,8,Byron Cook ,REP,569,34,56,75,114,290
-Hill,27,State Representative,8,Byron Cook ,REP,360,12,84,76,136,52
-Hill,Total,State Representative,8,Byron Cook ,REP,10580,622,1894,2893,2593,2578
+county,precinct,office,district,candidate,party,votes,absentee,ev_paper,ev_ivo,early_voting,ed_paper,ed_ivo,election_day
+Hill,2,,,Registered Voters,,1136,,,,,,,
+Hill,3,,,Registered Voters,,1650,,,,,,,
+Hill,4,,,Registered Voters,,2372,,,,,,,
+Hill,5,,,Registered Voters,,554,,,,,,,
+Hill,6,,,Registered Voters,,402,,,,,,,
+Hill,7,,,Registered Voters,,544,,,,,,,
+Hill,8,,,Registered Voters,,347,,,,,,,
+Hill,9,,,Registered Voters,,556,,,,,,,
+Hill,10,,,Registered Voters,,1919,,,,,,,
+Hill,12,,,Registered Voters,,816,,,,,,,
+Hill,13,,,Registered Voters,,2940,,,,,,,
+Hill,14,,,Registered Voters,,1028,,,,,,,
+Hill,15,,,Registered Voters,,449,,,,,,,
+Hill,16,,,Registered Voters,,391,,,,,,,
+Hill,18,,,Registered Voters,,200,,,,,,,
+Hill,19,,,Registered Voters,,404,,,,,,,
+Hill,20,,,Registered Voters,,1008,,,,,,,
+Hill,21,,,Registered Voters,,1893,,,,,,,
+Hill,22,,,Registered Voters,,1667,,,,,,,
+Hill,23,,,Registered Voters,,454,,,,,,,
+Hill,24,,,Registered Voters,,1361,,,,,,,
+Hill,27,,,Registered Voters,,734,,,,,,,
+Hill,2,,,Ballots Cast,,600,37,178,201,379,87,97,184
+Hill,3,,,Ballots Cast,,631,47,164,201,365,85,134,219
+Hill,4,,,Ballots Cast,,1389,103,406,514,920,180,186,366
+Hill,5,,,Ballots Cast,,359,25,77,101,178,108,48,156
+Hill,6,,,Ballots Cast,,256,10,58,61,119,80,47,127
+Hill,7,,,Ballots Cast,,379,12,48,58,106,161,100,261
+Hill,8,,,Ballots Cast,,220,9,43,53,96,69,46,115
+Hill,9,,,Ballots Cast,,288,11,72,89,161,66,50,116
+Hill,10,,,Ballots Cast,,1008,30,172,290,462,258,258,516
+Hill,12,,,Ballots Cast,,478,26,107,166,273,83,96,179
+Hill,13,,,Ballots Cast,,1675,131,273,464,737,296,511,807
+Hill,14,,,Ballots Cast,,664,23,70,156,226,201,214,415
+Hill,15,,,Ballots Cast,,241,16,19,31,50,66,109,175
+Hill,16,,,Ballots Cast,,229,4,26,36,62,132,31,163
+Hill,18,,,Ballots Cast,,109,2,26,14,40,52,15,67
+Hill,19,,,Ballots Cast,,251,6,45,44,89,87,69,156
+Hill,20,,,Ballots Cast,,610,20,81,82,163,330,97,427
+Hill,21,,,Ballots Cast,,1192,111,182,443,625,160,296,456
+Hill,22,,,Ballots Cast,,1034,104,192,279,471,253,206,459
+Hill,23,,,Ballots Cast,,308,12,29,36,65,144,87,231
+Hill,24,,,Ballots Cast,,737,44,70,99,169,155,369,524
+Hill,27,,,Ballots Cast,,455,20,101,91,192,174,69,243
+Hill,2,,,Straight Party,REP,268,18,71,113,184,24,42,66
+Hill,3,,,Straight Party,REP,193,18,56,66,122,17,36,53
+Hill,4,,,Straight Party,REP,606,52,170,240,410,70,74,144
+Hill,5,,,Straight Party,REP,194,15,50,49,99,52,28,80
+Hill,6,,,Straight Party,REP,133,4,32,37,69,30,30,60
+Hill,7,,,Straight Party,REP,164,6,22,22,44,73,41,114
+Hill,8,,,Straight Party,REP,103,6,19,29,48,27,22,49
+Hill,9,,,Straight Party,REP,117,6,28,47,75,18,18,36
+Hill,10,,,Straight Party,REP,493,19,75,152,227,132,115,247
+Hill,12,,,Straight Party,REP,256,13,56,87,143,44,56,100
+Hill,13,,,Straight Party,REP,893,68,140,269,409,149,267,416
+Hill,14,,,Straight Party,REP,385,16,31,90,121,116,132,248
+Hill,15,,,Straight Party,REP,118,8,9,14,23,27,60,87
+Hill,16,,,Straight Party,REP,102,0,9,16,25,59,18,77
+Hill,18,,,Straight Party,REP,66,0,13,6,19,37,10,47
+Hill,19,,,Straight Party,REP,118,3,19,21,40,40,35,75
+Hill,20,,,Straight Party,REP,341,17,39,46,85,183,56,239
+Hill,21,,,Straight Party,REP,643,69,88,241,329,75,170,245
+Hill,22,,,Straight Party,REP,545,60,100,153,253,113,119,232
+Hill,23,,,Straight Party,REP,132,3,15,17,32,64,33,97
+Hill,24,,,Straight Party,REP,352,23,29,44,73,77,179,256
+Hill,27,,,Straight Party,REP,242,7,57,62,119,78,38,116
+Hill,2,,,Straight Party,DEM,83,3,22,21,43,14,23,37
+Hill,3,,,Straight Party,DEM,213,17,49,62,111,33,52,85
+Hill,4,,,Straight Party,DEM,197,21,65,67,132,19,25,44
+Hill,5,,,Straight Party,DEM,34,5,7,8,15,8,6,14
+Hill,6,,,Straight Party,DEM,17,2,3,9,12,2,1,3
+Hill,7,,,Straight Party,DEM,37,3,9,5,14,14,6,20
+Hill,8,,,Straight Party,DEM,19,0,0,7,7,4,8,12
+Hill,9,,,Straight Party,DEM,48,2,8,16,24,10,12,22
+Hill,10,,,Straight Party,DEM,182,1,23,43,66,46,69,115
+Hill,12,,,Straight Party,DEM,40,6,10,17,27,3,4,7
+Hill,13,,,Straight Party,DEM,173,23,22,50,72,33,45,78
+Hill,14,,,Straight Party,DEM,35,3,4,6,10,15,7,22
+Hill,15,,,Straight Party,DEM,19,4,0,3,3,4,8,12
+Hill,16,,,Straight Party,DEM,20,1,2,3,5,12,2,14
+Hill,18,,,Straight Party,DEM,5,0,4,0,4,0,1,1
+Hill,19,,,Straight Party,DEM,26,0,4,8,12,6,8,14
+Hill,20,,,Straight Party,DEM,64,1,12,11,23,27,13,40
+Hill,21,,,Straight Party,DEM,108,12,14,42,56,17,23,40
+Hill,22,,,Straight Party,DEM,95,9,15,27,42,20,24,44
+Hill,23,,,Straight Party,DEM,46,1,3,10,13,15,17,32
+Hill,24,,,Straight Party,DEM,112,10,4,16,20,21,61,82
+Hill,27,,,Straight Party,DEM,56,8,10,9,19,18,11,29
+Hill,2,,,Straight Party,LIB,6,1,1,3,4,0,1,1
+Hill,3,,,Straight Party,LIB,11,0,2,4,6,0,5,5
+Hill,4,,,Straight Party,LIB,6,0,0,3,3,3,0,3
+Hill,5,,,Straight Party,LIB,2,0,0,2,2,0,0,0
+Hill,6,,,Straight Party,LIB,1,0,1,0,1,0,0,0
+Hill,7,,,Straight Party,LIB,2,0,0,1,1,1,0,1
+Hill,8,,,Straight Party,LIB,0,0,0,0,0,0,0,0
+Hill,9,,,Straight Party,LIB,4,1,0,2,2,0,1,1
+Hill,10,,,Straight Party,LIB,6,0,1,2,3,2,1,3
+Hill,12,,,Straight Party,LIB,1,0,0,1,1,0,0,0
+Hill,13,,,Straight Party,LIB,12,0,2,1,3,3,6,9
+Hill,14,,,Straight Party,LIB,7,0,1,0,1,3,3,6
+Hill,15,,,Straight Party,LIB,3,0,0,2,2,1,0,1
+Hill,16,,,Straight Party,LIB,2,0,0,0,0,2,0,2
+Hill,18,,,Straight Party,LIB,0,0,0,0,0,0,0,0
+Hill,19,,,Straight Party,LIB,2,0,0,0,0,1,1,2
+Hill,20,,,Straight Party,LIB,1,0,0,1,1,0,0,0
+Hill,21,,,Straight Party,LIB,7,0,0,3,3,2,2,4
+Hill,22,,,Straight Party,LIB,4,0,0,0,0,4,0,4
+Hill,23,,,Straight Party,LIB,1,0,0,0,0,1,0,1
+Hill,24,,,Straight Party,LIB,4,0,2,0,2,1,1,2
+Hill,27,,,Straight Party,LIB,5,0,0,0,0,2,3,5
+Hill,2,,,Straight Party,GRN,1,0,1,0,1,0,0,0
+Hill,3,,,Straight Party,GRN,1,0,0,0,0,0,1,1
+Hill,4,,,Straight Party,GRN,2,0,1,0,1,0,1,1
+Hill,5,,,Straight Party,GRN,0,0,0,0,0,0,0,0
+Hill,6,,,Straight Party,GRN,0,0,0,0,0,0,0,0
+Hill,7,,,Straight Party,GRN,0,0,0,0,0,0,0,0
+Hill,8,,,Straight Party,GRN,0,0,0,0,0,0,0,0
+Hill,9,,,Straight Party,GRN,1,0,1,0,1,0,0,0
+Hill,10,,,Straight Party,GRN,0,0,0,0,0,0,0,0
+Hill,12,,,Straight Party,GRN,2,0,0,2,2,0,0,0
+Hill,13,,,Straight Party,GRN,2,0,0,0,0,1,1,2
+Hill,14,,,Straight Party,GRN,0,0,0,0,0,0,0,0
+Hill,15,,,Straight Party,GRN,0,0,0,0,0,0,0,0
+Hill,16,,,Straight Party,GRN,0,0,0,0,0,0,0,0
+Hill,18,,,Straight Party,GRN,0,0,0,0,0,0,0,0
+Hill,19,,,Straight Party,GRN,0,0,0,0,0,0,0,0
+Hill,20,,,Straight Party,GRN,2,0,2,0,2,0,0,0
+Hill,21,,,Straight Party,GRN,1,0,0,1,1,0,0,0
+Hill,22,,,Straight Party,GRN,2,0,0,0,0,0,2,2
+Hill,23,,,Straight Party,GRN,0,0,0,0,0,0,0,0
+Hill,24,,,Straight Party,GRN,1,0,0,0,0,0,1,1
+Hill,27,,,Straight Party,GRN,0,0,0,0,0,0,0,0
+Hill,2,President,,Donald J. Trump / Mike Pence,REP,437,27,134,160,294,52,64,116
+Hill,3,President,,Donald J. Trump / Mike Pence,REP,288,21,85,103,188,28,51,79
+Hill,4,President,,Donald J. Trump / Mike Pence,REP,999,70,291,381,672,137,120,257
+Hill,5,President,,Donald J. Trump / Mike Pence,REP,303,19,68,83,151,93,40,133
+Hill,6,President,,Donald J. Trump / Mike Pence,REP,216,5,53,49,102,65,44,109
+Hill,7,President,,Donald J. Trump / Mike Pence,REP,318,8,37,47,84,141,85,226
+Hill,8,President,,Donald J. Trump / Mike Pence,REP,178,8,40,40,80,56,34,90
+Hill,9,President,,Donald J. Trump / Mike Pence,REP,207,7,56,67,123,43,34,77
+Hill,10,President,,Donald J. Trump / Mike Pence,REP,734,27,135,225,360,185,162,347
+Hill,12,President,,Donald J. Trump / Mike Pence,REP,388,19,89,134,223,68,78,146
+Hill,13,President,,Donald J. Trump / Mike Pence,REP,1349,91,233,381,614,229,415,644
+Hill,14,President,,Donald J. Trump / Mike Pence,REP,588,19,58,139,197,175,197,372
+Hill,15,President,,Donald J. Trump / Mike Pence,REP,198,10,19,22,41,57,90,147
+Hill,16,President,,Donald J. Trump / Mike Pence,REP,181,0,22,29,51,104,26,130
+Hill,18,President,,Donald J. Trump / Mike Pence,REP,95,2,21,12,33,47,13,60
+Hill,19,President,,Donald J. Trump / Mike Pence,REP,198,5,39,25,64,76,53,129
+Hill,20,President,,Donald J. Trump / Mike Pence,REP,508,17,59,65,124,291,76,367
+Hill,21,President,,Donald J. Trump / Mike Pence,REP,956,90,146,356,502,123,241,364
+Hill,22,President,,Donald J. Trump / Mike Pence,REP,825,84,153,229,382,201,158,359
+Hill,23,President,,Donald J. Trump / Mike Pence,REP,224,5,24,24,48,111,60,171
+Hill,24,President,,Donald J. Trump / Mike Pence,REP,558,32,57,66,123,120,283,403
+Hill,27,President,,Donald J. Trump / Mike Pence,REP,360,11,89,74,163,137,49,186
+Hill,2,President,,Hillary Clinton / Tim Kaine,DEM,134,8,37,33,70,27,29,56
+Hill,3,President,,Hillary Clinton / Tim Kaine,DEM,306,25,73,88,161,50,70,120
+Hill,4,President,,Hillary Clinton / Tim Kaine,DEM,329,30,110,109,219,29,51,80
+Hill,5,President,,Hillary Clinton / Tim Kaine,DEM,47,6,9,15,24,10,7,17
+Hill,6,President,,Hillary Clinton / Tim Kaine,DEM,35,4,5,11,16,12,3,15
+Hill,7,President,,Hillary Clinton / Tim Kaine,DEM,51,4,11,9,20,16,11,27
+Hill,8,President,,Hillary Clinton / Tim Kaine,DEM,33,1,2,11,13,11,8,19
+Hill,9,President,,Hillary Clinton / Tim Kaine,DEM,67,4,13,20,33,16,14,30
+Hill,10,President,,Hillary Clinton / Tim Kaine,DEM,245,1,32,56,88,64,92,156
+Hill,12,President,,Hillary Clinton / Tim Kaine,DEM,70,6,15,29,44,10,10,20
+Hill,13,President,,Hillary Clinton / Tim Kaine,DEM,276,38,34,68,102,56,80,136
+Hill,14,President,,Hillary Clinton / Tim Kaine,DEM,58,3,10,15,25,20,10,30
+Hill,15,President,,Hillary Clinton / Tim Kaine,DEM,36,7,0,6,6,8,15,23
+Hill,16,President,,Hillary Clinton / Tim Kaine,DEM,44,4,4,6,10,26,4,30
+Hill,18,President,,Hillary Clinton / Tim Kaine,DEM,10,0,5,1,6,3,1,4
+Hill,19,President,,Hillary Clinton / Tim Kaine,DEM,43,1,5,14,19,10,13,23
+Hill,20,President,,Hillary Clinton / Tim Kaine,DEM,87,2,20,12,32,34,19,53
+Hill,21,President,,Hillary Clinton / Tim Kaine,DEM,199,19,33,75,108,33,39,72
+Hill,22,President,,Hillary Clinton / Tim Kaine,DEM,173,18,34,44,78,39,38,77
+Hill,23,President,,Hillary Clinton / Tim Kaine,DEM,76,7,5,12,17,29,23,52
+Hill,24,President,,Hillary Clinton / Tim Kaine,DEM,155,12,9,27,36,30,77,107
+Hill,27,President,,Hillary Clinton / Tim Kaine,DEM,73,7,12,13,25,28,13,41
+Hill,2,President,,Gary Johnson / William Weld,LIB,16,1,2,5,7,5,3,8
+Hill,3,President,,Gary Johnson / William Weld,LIB,24,1,3,7,10,2,11,13
+Hill,4,President,,Gary Johnson / William Weld,LIB,40,0,1,18,19,8,13,21
+Hill,5,President,,Gary Johnson / William Weld,LIB,6,0,0,3,3,3,0,3
+Hill,6,President,,Gary Johnson / William Weld,LIB,2,0,0,1,1,1,0,1
+Hill,7,President,,Gary Johnson / William Weld,LIB,6,0,0,2,2,2,2,4
+Hill,8,President,,Gary Johnson / William Weld,LIB,4,0,0,2,2,1,1,2
+Hill,9,President,,Gary Johnson / William Weld,LIB,8,0,1,2,3,3,2,5
+Hill,10,President,,Gary Johnson / William Weld,LIB,15,0,1,5,6,6,3,9
+Hill,12,President,,Gary Johnson / William Weld,LIB,11,1,0,3,3,2,5,7
+Hill,13,President,,Gary Johnson / William Weld,LIB,25,1,4,6,10,6,8,14
+Hill,14,President,,Gary Johnson / William Weld,LIB,10,1,0,1,1,3,5,8
+Hill,15,President,,Gary Johnson / William Weld,LIB,5,0,0,2,2,1,2,3
+Hill,16,President,,Gary Johnson / William Weld,LIB,2,0,0,1,1,1,0,1
+Hill,18,President,,Gary Johnson / William Weld,LIB,2,0,0,0,0,1,1,2
+Hill,19,President,,Gary Johnson / William Weld,LIB,6,0,1,2,3,1,2,3
+Hill,20,President,,Gary Johnson / William Weld,LIB,5,0,0,3,3,1,1,2
+Hill,21,President,,Gary Johnson / William Weld,LIB,18,1,1,8,9,2,6,8
+Hill,22,President,,Gary Johnson / William Weld,LIB,21,1,4,3,7,7,6,13
+Hill,23,President,,Gary Johnson / William Weld,LIB,8,0,0,0,0,4,4,8
+Hill,24,President,,Gary Johnson / William Weld,LIB,8,0,1,0,1,3,4,7
+Hill,27,President,,Gary Johnson / William Weld,LIB,14,0,0,3,3,7,4,11
+Hill,2,President,,Jill Stein / Ajamu Baraka,GRN,2,0,1,0,1,0,1,1
+Hill,3,President,,Jill Stein / Ajamu Baraka,GRN,5,0,2,1,3,1,1,2
+Hill,4,President,,Jill Stein / Ajamu Baraka,GRN,4,0,1,0,1,2,1,3
+Hill,5,President,,Jill Stein / Ajamu Baraka,GRN,0,0,0,0,0,0,0,0
+Hill,6,President,,Jill Stein / Ajamu Baraka,GRN,2,1,0,0,0,1,0,1
+Hill,7,President,,Jill Stein / Ajamu Baraka,GRN,0,0,0,0,0,0,0,0
+Hill,8,President,,Jill Stein / Ajamu Baraka,GRN,2,0,0,0,0,0,2,2
+Hill,9,President,,Jill Stein / Ajamu Baraka,GRN,1,0,1,0,1,0,0,0
+Hill,10,President,,Jill Stein / Ajamu Baraka,GRN,5,0,2,1,3,1,1,2
+Hill,12,President,,Jill Stein / Ajamu Baraka,GRN,3,0,2,0,2,0,1,1
+Hill,13,President,,Jill Stein / Ajamu Baraka,GRN,1,0,1,0,1,0,0,0
+Hill,14,President,,Jill Stein / Ajamu Baraka,GRN,0,0,0,0,0,0,0,0
+Hill,15,President,,Jill Stein / Ajamu Baraka,GRN,1,0,0,0,0,0,1,1
+Hill,16,President,,Jill Stein / Ajamu Baraka,GRN,0,0,0,0,0,0,0,0
+Hill,18,President,,Jill Stein / Ajamu Baraka,GRN,0,0,0,0,0,0,0,0
+Hill,19,President,,Jill Stein / Ajamu Baraka,GRN,0,0,0,0,0,0,0,0
+Hill,20,President,,Jill Stein / Ajamu Baraka,GRN,5,0,2,1,3,1,1,2
+Hill,21,President,,Jill Stein / Ajamu Baraka,GRN,3,1,0,0,0,0,2,2
+Hill,22,President,,Jill Stein / Ajamu Baraka,GRN,3,0,0,0,0,0,3,3
+Hill,23,President,,Jill Stein / Ajamu Baraka,GRN,0,0,0,0,0,0,0,0
+Hill,24,President,,Jill Stein / Ajamu Baraka,GRN,2,0,0,1,1,0,1,1
+Hill,27,President,,Jill Stein / Ajamu Baraka,GRN,1,0,0,1,1,0,0,0
+Hill,2,President,,Write-In,,7,1,2,2,4,2,0,2
+Hill,3,President,,Write-In,,2,0,0,1,1,0,1,1
+Hill,4,President,,Write-In,,10,1,1,4,5,3,1,4
+Hill,5,President,,Write-In,,1,0,0,0,0,0,1,1
+Hill,6,President,,Write-In,,0,0,0,0,0,0,0,0
+Hill,7,President,,Write-In,,3,0,0,0,0,1,2,3
+Hill,8,President,,Write-In,,2,0,0,0,0,1,1,2
+Hill,9,President,,Write-In,,5,0,1,0,1,4,0,4
+Hill,10,President,,Write-In,,6,2,2,0,2,2,0,2
+Hill,12,President,,Write-In,,3,0,1,0,1,2,0,2
+Hill,13,President,,Write-In,,11,1,0,7,7,1,2,3
+Hill,14,President,,Write-In,,5,0,2,1,3,1,1,2
+Hill,15,President,,Write-In,,1,0,0,0,0,0,1,1
+Hill,16,President,,Write-In,,1,0,0,0,0,0,1,1
+Hill,18,President,,Write-In,,1,0,0,1,1,0,0,0
+Hill,19,President,,Write-In,,3,0,0,2,2,0,1,1
+Hill,20,President,,Write-In,,3,1,0,1,1,1,0,1
+Hill,21,President,,Write-In,,8,0,1,2,3,2,3,5
+Hill,22,President,,Write-In,,9,1,1,2,3,4,1,5
+Hill,23,President,,Write-In,,0,0,0,0,0,0,0,0
+Hill,24,President,,Write-In,,10,0,2,3,5,2,3,5
+Hill,27,President,,Write-In,,4,2,0,0,0,0,2,2
+Hill,2,U.S House,25,Roger Williams ,REP,431,26,132,162,294,52,59,111
+Hill,3,U.S House,25,Roger Williams ,REP,293,21,86,100,186,30,56,86
+Hill,4,U.S House,25,Roger Williams ,REP,1019,72,295,387,682,133,132,265
+Hill,5,U.S House,25,Roger Williams ,REP,285,19,64,78,142,86,38,124
+Hill,6,U.S House,25,Roger Williams ,REP,209,7,52,48,100,59,43,102
+Hill,7,U.S House,25,Roger Williams ,REP,296,8,35,41,76,132,80,212
+Hill,8,U.S House,25,Roger Williams ,REP,170,8,35,40,75,52,35,87
+Hill,9,U.S House,25,Roger Williams ,REP,205,7,54,65,119,45,34,79
+Hill,10,U.S House,25,Roger Williams ,REP,729,27,132,226,358,186,158,344
+Hill,12,U.S House,25,Roger Williams ,REP,388,20,85,133,218,70,80,150
+Hill,13,U.S House,25,Roger Williams ,REP,1321,88,221,381,602,218,413,631
+Hill,14,U.S House,25,Roger Williams ,REP,576,20,54,136,190,172,194,366
+Hill,15,U.S House,25,Roger Williams ,REP,197,12,18,23,41,54,90,144
+Hill,16,U.S House,25,Roger Williams ,REP,167,2,18,27,45,93,27,120
+Hill,18,U.S House,25,Roger Williams ,REP,94,2,21,11,32,47,13,60
+Hill,19,U.S House,25,Roger Williams ,REP,192,5,35,29,64,73,50,123
+Hill,20,U.S House,25,Roger Williams ,REP,498,19,59,65,124,280,75,355
+Hill,21,U.S House,25,Roger Williams ,REP,951,92,141,358,499,119,241,360
+Hill,22,U.S House,25,Roger Williams ,REP,803,85,142,224,366,199,153,352
+Hill,23,U.S House,25,Roger Williams ,REP,213,5,25,23,48,103,57,160
+Hill,24,U.S House,25,Roger Williams ,REP,541,31,55,66,121,116,273,389
+Hill,27,U.S House,25,Roger Williams ,REP,351,12,82,72,154,136,49,185
+Hill,2,U.S House,25,Kathi Thomas ,DEM,129,8,37,28,65,26,30,56
+Hill,3,U.S House,25,Kathi Thomas ,DEM,296,25,68,87,155,48,68,116
+Hill,4,U.S House,25,Kathi Thomas ,DEM,299,28,100,98,198,32,41,73
+Hill,5,U.S House,25,Kathi Thomas ,DEM,48,6,8,14,22,12,8,20
+Hill,6,U.S House,25,Kathi Thomas ,DEM,33,3,5,11,16,11,3,14
+Hill,7,U.S House,25,Kathi Thomas ,DEM,62,4,11,11,22,21,15,36
+Hill,8,U.S House,25,Kathi Thomas ,DEM,36,1,5,10,15,10,10,20
+Hill,9,U.S House,25,Kathi Thomas ,DEM,60,2,11,20,31,14,13,27
+Hill,10,U.S House,25,Kathi Thomas ,DEM,240,1,32,51,83,64,92,156
+Hill,12,U.S House,25,Kathi Thomas ,DEM,67,6,16,25,41,11,9,20
+Hill,13,U.S House,25,Kathi Thomas ,DEM,267,35,35,66,101,58,73,131
+Hill,14,U.S House,25,Kathi Thomas ,DEM,56,3,10,13,23,20,10,30
+Hill,15,U.S House,25,Kathi Thomas ,DEM,34,5,1,5,6,9,14,23
+Hill,16,U.S House,25,Kathi Thomas ,DEM,43,2,7,7,14,24,3,27
+Hill,18,U.S House,25,Kathi Thomas ,DEM,7,0,5,1,6,0,1,1
+Hill,19,U.S House,25,Kathi Thomas ,DEM,41,1,7,13,20,7,13,20
+Hill,20,U.S House,25,Kathi Thomas ,DEM,91,1,21,14,35,39,16,55
+Hill,21,U.S House,25,Kathi Thomas ,DEM,191,18,33,69,102,32,39,71
+Hill,22,U.S House,25,Kathi Thomas ,DEM,182,15,40,47,87,44,36,80
+Hill,23,U.S House,25,Kathi Thomas ,DEM,79,7,4,12,16,31,25,56
+Hill,24,U.S House,25,Kathi Thomas ,DEM,153,13,9,24,33,30,77,107
+Hill,27,U.S House,25,Kathi Thomas ,DEM,76,8,13,14,27,28,13,41
+Hill,2,U.S House,25,Loren Marc Schneiderman ,LIB,20,1,5,7,12,3,4,7
+Hill,3,U.S House,25,Loren Marc Schneiderman ,LIB,23,1,5,9,14,3,5,8
+Hill,4,U.S House,25,Loren Marc Schneiderman ,LIB,31,1,4,12,16,9,5,14
+Hill,5,U.S House,25,Loren Marc Schneiderman ,LIB,10,0,3,4,7,3,0,3
+Hill,6,U.S House,25,Loren Marc Schneiderman ,LIB,2,0,0,0,0,2,0,2
+Hill,7,U.S House,25,Loren Marc Schneiderman ,LIB,6,0,1,3,4,1,1,2
+Hill,8,U.S House,25,Loren Marc Schneiderman ,LIB,4,0,1,2,3,1,0,1
+Hill,9,U.S House,25,Loren Marc Schneiderman ,LIB,13,1,3,4,7,3,2,5
+Hill,10,U.S House,25,Loren Marc Schneiderman ,LIB,18,0,4,8,12,4,2,6
+Hill,12,U.S House,25,Loren Marc Schneiderman ,LIB,12,0,2,4,6,0,6,6
+Hill,13,U.S House,25,Loren Marc Schneiderman ,LIB,41,1,10,6,16,13,11,24
+Hill,14,U.S House,25,Loren Marc Schneiderman ,LIB,17,0,3,3,6,5,6,11
+Hill,15,U.S House,25,Loren Marc Schneiderman ,LIB,6,0,0,2,2,1,3,4
+Hill,16,U.S House,25,Loren Marc Schneiderman ,LIB,3,0,1,1,2,1,0,1
+Hill,18,U.S House,25,Loren Marc Schneiderman ,LIB,2,0,0,0,0,1,1,2
+Hill,19,U.S House,25,Loren Marc Schneiderman ,LIB,7,0,3,1,4,1,2,3
+Hill,20,U.S House,25,Loren Marc Schneiderman ,LIB,7,0,1,3,4,1,2,3
+Hill,21,U.S House,25,Loren Marc Schneiderman ,LIB,18,0,0,5,5,6,7,13
+Hill,22,U.S House,25,Loren Marc Schneiderman ,LIB,16,1,5,1,6,3,6,9
+Hill,23,U.S House,25,Loren Marc Schneiderman ,LIB,7,0,0,1,1,4,2,6
+Hill,24,U.S House,25,Loren Marc Schneiderman ,LIB,13,0,0,4,4,2,7,9
+Hill,27,U.S House,25,Loren Marc Schneiderman ,LIB,12,0,3,0,3,3,6,9
+Hill,2,Railroad Commissioner,,Wayne Christian,REP,414,25,129,156,285,51,53,104
+Hill,3,Railroad Commissioner,,Wayne Christian,REP,281,21,83,97,180,28,52,80
+Hill,4,Railroad Commissioner,,Wayne Christian,REP,970,71,279,367,646,129,124,253
+Hill,5,Railroad Commissioner,,Wayne Christian,REP,283,19,64,74,138,88,38,126
+Hill,6,Railroad Commissioner,,Wayne Christian,REP,197,7,48,45,93,57,40,97
+Hill,7,Railroad Commissioner,,Wayne Christian,REP,275,8,34,41,75,122,70,192
+Hill,8,Railroad Commissioner,,Wayne Christian,REP,166,8,36,38,74,50,34,84
+Hill,9,Railroad Commissioner,,Wayne Christian,REP,192,7,49,61,110,42,33,75
+Hill,10,Railroad Commissioner,,Wayne Christian,REP,694,27,128,215,343,173,151,324
+Hill,12,Railroad Commissioner,,Wayne Christian,REP,375,19,81,131,212,67,77,144
+Hill,13,Railroad Commissioner,,Wayne Christian,REP,1297,87,221,375,596,213,401,614
+Hill,14,Railroad Commissioner,,Wayne Christian,REP,562,20,53,132,185,168,189,357
+Hill,15,Railroad Commissioner,,Wayne Christian,REP,179,12,15,22,37,46,84,130
+Hill,16,Railroad Commissioner,,Wayne Christian,REP,166,0,21,26,47,93,26,119
+Hill,18,Railroad Commissioner,,Wayne Christian,REP,92,2,20,11,31,47,12,59
+Hill,19,Railroad Commissioner,,Wayne Christian,REP,180,5,33,28,61,65,49,114
+Hill,20,Railroad Commissioner,,Wayne Christian,REP,477,19,57,62,119,270,69,339
+Hill,21,Railroad Commissioner,,Wayne Christian,REP,919,90,140,345,485,113,231,344
+Hill,22,Railroad Commissioner,,Wayne Christian,REP,773,81,141,220,361,183,148,331
+Hill,23,Railroad Commissioner,,Wayne Christian,REP,202,5,24,22,46,96,55,151
+Hill,24,Railroad Commissioner,,Wayne Christian,REP,528,30,55,65,120,112,266,378
+Hill,27,Railroad Commissioner,,Wayne Christian,REP,331,10,80,70,150,123,48,171
+Hill,2,Railroad Commissioner,,Grady Yarbrough,DEM,113,8,33,26,59,21,25,46
+Hill,3,Railroad Commissioner,,Grady Yarbrough,DEM,278,25,64,78,142,47,64,111
+Hill,4,Railroad Commissioner,,Grady Yarbrough,DEM,286,28,98,91,189,30,39,69
+Hill,5,Railroad Commissioner,,Grady Yarbrough,DEM,47,5,10,14,24,10,8,18
+Hill,6,Railroad Commissioner,,Grady Yarbrough,DEM,35,3,5,11,16,14,2,16
+Hill,7,Railroad Commissioner,,Grady Yarbrough,DEM,65,4,10,10,20,27,14,41
+Hill,8,Railroad Commissioner,,Grady Yarbrough,DEM,31,1,3,11,14,7,9,16
+Hill,9,Railroad Commissioner,,Grady Yarbrough,DEM,60,2,15,18,33,12,13,25
+Hill,10,Railroad Commissioner,,Grady Yarbrough,DEM,244,1,36,54,90,64,89,153
+Hill,12,Railroad Commissioner,,Grady Yarbrough,DEM,70,7,17,25,42,12,9,21
+Hill,13,Railroad Commissioner,,Grady Yarbrough,DEM,258,36,33,64,97,55,70,125
+Hill,14,Railroad Commissioner,,Grady Yarbrough,DEM,62,3,10,12,22,25,12,37
+Hill,15,Railroad Commissioner,,Grady Yarbrough,DEM,38,4,3,4,7,11,16,27
+Hill,16,Railroad Commissioner,,Grady Yarbrough,DEM,35,2,4,7,11,21,1,22
+Hill,18,Railroad Commissioner,,Grady Yarbrough,DEM,8,0,5,1,6,1,1,2
+Hill,19,Railroad Commissioner,,Grady Yarbrough,DEM,43,0,8,12,20,10,13,23
+Hill,20,Railroad Commissioner,,Grady Yarbrough,DEM,88,1,18,13,31,38,18,56
+Hill,21,Railroad Commissioner,,Grady Yarbrough,DEM,185,17,32,69,101,28,39,67
+Hill,22,Railroad Commissioner,,Grady Yarbrough,DEM,178,17,35,42,77,49,35,84
+Hill,23,Railroad Commissioner,,Grady Yarbrough,DEM,83,6,5,13,18,33,26,59
+Hill,24,Railroad Commissioner,,Grady Yarbrough,DEM,156,13,11,25,36,30,77,107
+Hill,27,Railroad Commissioner,,Grady Yarbrough,DEM,80,10,14,12,26,31,13,44
+Hill,2,Railroad Commissioner,,Mark Miller,LIB,30,1,7,9,16,5,8,13
+Hill,3,Railroad Commissioner,,Mark Miller,LIB,34,1,10,8,18,4,11,15
+Hill,4,Railroad Commissioner,,Mark Miller,LIB,63,0,15,27,42,11,10,21
+Hill,5,Railroad Commissioner,,Mark Miller,LIB,13,0,2,7,9,3,1,4
+Hill,6,Railroad Commissioner,,Mark Miller,LIB,10,0,2,3,5,2,3,5
+Hill,7,Railroad Commissioner,,Mark Miller,LIB,16,0,1,4,5,3,8,11
+Hill,8,Railroad Commissioner,,Mark Miller,LIB,9,0,2,3,5,3,1,4
+Hill,9,Railroad Commissioner,,Mark Miller,LIB,22,1,4,8,12,7,2,9
+Hill,10,Railroad Commissioner,,Mark Miller,LIB,30,0,2,8,10,11,9,20
+Hill,12,Railroad Commissioner,,Mark Miller,LIB,18,0,5,3,8,1,9,10
+Hill,13,Railroad Commissioner,,Mark Miller,LIB,57,1,11,10,21,13,22,35
+Hill,14,Railroad Commissioner,,Mark Miller,LIB,25,0,4,8,12,3,10,13
+Hill,15,Railroad Commissioner,,Mark Miller,LIB,16,0,1,4,5,6,5,11
+Hill,16,Railroad Commissioner,,Mark Miller,LIB,9,2,0,1,1,6,0,6
+Hill,18,Railroad Commissioner,,Mark Miller,LIB,2,0,1,0,1,0,1,1
+Hill,19,Railroad Commissioner,,Mark Miller,LIB,15,1,3,3,6,6,2,8
+Hill,20,Railroad Commissioner,,Mark Miller,LIB,21,0,3,6,9,8,4,12
+Hill,21,Railroad Commissioner,,Mark Miller,LIB,40,1,3,14,17,11,11,22
+Hill,22,Railroad Commissioner,,Mark Miller,LIB,40,2,11,6,17,12,9,21
+Hill,23,Railroad Commissioner,,Mark Miller,LIB,14,1,0,1,1,8,4,12
+Hill,24,Railroad Commissioner,,Mark Miller,LIB,20,0,2,6,8,3,9,12
+Hill,27,Railroad Commissioner,,Mark Miller,LIB,23,0,4,2,6,12,5,17
+Hill,2,Railroad Commissioner,,Martin Salinas,GRN,19,2,3,5,8,3,6,9
+Hill,3,Railroad Commissioner,,Martin Salinas,GRN,19,0,3,12,15,2,2,4
+Hill,4,Railroad Commissioner,,Martin Salinas,GRN,20,2,4,6,10,2,6,8
+Hill,5,Railroad Commissioner,,Martin Salinas,GRN,3,1,1,0,1,1,0,1
+Hill,6,Railroad Commissioner,,Martin Salinas,GRN,2,0,1,0,1,0,1,1
+Hill,7,Railroad Commissioner,,Martin Salinas,GRN,2,0,1,0,1,0,1,1
+Hill,8,Railroad Commissioner,,Martin Salinas,GRN,1,0,0,0,0,1,0,1
+Hill,9,Railroad Commissioner,,Martin Salinas,GRN,5,0,1,2,3,1,1,2
+Hill,10,Railroad Commissioner,,Martin Salinas,GRN,11,0,1,2,3,5,3,8
+Hill,12,Railroad Commissioner,,Martin Salinas,GRN,6,0,2,3,5,1,0,1
+Hill,13,Railroad Commissioner,,Martin Salinas,GRN,14,1,3,2,5,6,2,8
+Hill,14,Railroad Commissioner,,Martin Salinas,GRN,2,0,1,0,1,1,0,1
+Hill,15,Railroad Commissioner,,Martin Salinas,GRN,1,0,0,0,0,0,1,1
+Hill,16,Railroad Commissioner,,Martin Salinas,GRN,4,0,1,0,1,0,3,3
+Hill,18,Railroad Commissioner,,Martin Salinas,GRN,0,0,0,0,0,0,0,0
+Hill,19,Railroad Commissioner,,Martin Salinas,GRN,3,0,1,0,1,1,1,2
+Hill,20,Railroad Commissioner,,Martin Salinas,GRN,6,0,3,1,4,1,1,2
+Hill,21,Railroad Commissioner,,Martin Salinas,GRN,15,1,3,4,7,4,3,7
+Hill,22,Railroad Commissioner,,Martin Salinas,GRN,12,0,4,4,8,1,3,4
+Hill,23,Railroad Commissioner,,Martin Salinas,GRN,1,0,0,0,0,1,0,1
+Hill,24,Railroad Commissioner,,Martin Salinas,GRN,9,0,1,1,2,2,5,7
+Hill,27,Railroad Commissioner,,Martin Salinas,GRN,4,0,1,2,3,0,1,1
+Hill,2,State Senate,30,Brian Birdwell ,REP,442,29,134,167,301,54,58,112
+Hill,3,State Senate,30,Brian Birdwell ,REP,311,22,92,106,198,34,57,91
+Hill,4,State Senate,30,Brian Birdwell ,REP,1028,71,289,395,684,139,134,273
+Hill,5,State Senate,30,Brian Birdwell ,REP,296,19,68,81,149,90,38,128
+Hill,6,State Senate,30,Brian Birdwell ,REP,213,7,52,48,100,63,43,106
+Hill,7,State Senate,30,Brian Birdwell ,REP,301,8,35,45,80,131,82,213
+Hill,8,State Senate,30,Brian Birdwell ,REP,171,8,35,41,76,53,34,87
+Hill,9,State Senate,30,Brian Birdwell ,REP,210,7,56,68,124,46,33,79
+Hill,10,State Senate,30,Brian Birdwell ,REP,733,27,126,226,352,190,164,354
+Hill,12,State Senate,30,Brian Birdwell ,REP,402,19,86,137,223,73,87,160
+Hill,13,State Senate,30,Brian Birdwell ,REP,1355,95,230,387,617,229,414,643
+Hill,14,State Senate,30,Brian Birdwell ,REP,585,19,56,134,190,177,199,376
+Hill,15,State Senate,30,Brian Birdwell ,REP,198,12,16,22,38,55,93,148
+Hill,16,State Senate,30,Brian Birdwell ,REP,169,2,19,27,46,95,26,121
+Hill,18,State Senate,30,Brian Birdwell ,REP,94,2,21,10,31,48,13,61
+Hill,19,State Senate,30,Brian Birdwell ,REP,194,5,38,30,68,69,52,121
+Hill,20,State Senate,30,Brian Birdwell ,REP,499,19,59,66,125,280,75,355
+Hill,21,State Senate,30,Brian Birdwell ,REP,966,95,145,357,502,124,245,369
+Hill,22,State Senate,30,Brian Birdwell ,REP,812,84,151,223,374,200,154,354
+Hill,23,State Senate,30,Brian Birdwell ,REP,220,5,25,24,49,106,60,166
+Hill,24,State Senate,30,Brian Birdwell ,REP,544,31,56,68,124,116,273,389
+Hill,27,State Senate,30,Brian Birdwell ,REP,357,11,87,72,159,136,51,187
+Hill,2,State Senate,30,Michael Collins ,DEM,136,8,38,29,67,27,34,61
+Hill,3,State Senate,30,Michael Collins ,DEM,290,25,67,85,152,43,70,113
+Hill,4,State Senate,30,Michael Collins ,DEM,308,29,101,102,203,32,44,76
+Hill,5,State Senate,30,Michael Collins ,DEM,50,6,9,15,24,12,8,20
+Hill,6,State Senate,30,Michael Collins ,DEM,35,3,5,11,16,13,3,16
+Hill,7,State Senate,30,Michael Collins ,DEM,64,4,12,11,23,23,14,37
+Hill,8,State Senate,30,Michael Collins ,DEM,35,1,3,10,13,10,11,21
+Hill,9,State Senate,30,Michael Collins ,DEM,69,2,12,21,33,18,16,34
+Hill,10,State Senate,30,Michael Collins ,DEM,242,1,38,51,89,66,86,152
+Hill,12,State Senate,30,Michael Collins ,DEM,68,7,17,26,43,9,9,18
+Hill,13,State Senate,30,Michael Collins ,DEM,263,28,36,68,104,55,76,131
+Hill,14,State Senate,30,Michael Collins ,DEM,60,4,12,13,25,20,11,31
+Hill,15,State Senate,30,Michael Collins ,DEM,38,4,3,7,10,9,15,24
+Hill,16,State Senate,30,Michael Collins ,DEM,44,2,7,7,14,24,4,28
+Hill,18,State Senate,30,Michael Collins ,DEM,9,0,5,2,7,1,1,2
+Hill,19,State Senate,30,Michael Collins ,DEM,42,1,6,12,18,11,12,23
+Hill,20,State Senate,30,Michael Collins ,DEM,91,1,21,16,37,34,19,53
+Hill,21,State Senate,30,Michael Collins ,DEM,187,15,31,72,103,29,40,69
+Hill,22,State Senate,30,Michael Collins ,DEM,184,17,36,48,84,42,41,83
+Hill,23,State Senate,30,Michael Collins ,DEM,78,7,3,12,15,31,25,56
+Hill,24,State Senate,30,Michael Collins ,DEM,159,13,7,27,34,31,81,112
+Hill,27,State Senate,30,Michael Collins ,DEM,77,9,13,14,27,27,14,41
+Hill,2,State Representative,8,Byron Cook ,REP,483,33,142,179,321,57,72,129
+Hill,3,State Representative,8,Byron Cook ,REP,374,25,99,128,227,41,81,122
+Hill,4,State Representative,8,Byron Cook ,REP,1092,77,299,412,711,146,158,304
+Hill,5,State Representative,8,Byron Cook ,REP,293,20,66,80,146,87,40,127
+Hill,6,State Representative,8,Byron Cook ,REP,211,7,50,46,96,65,43,108
+Hill,7,State Representative,8,Byron Cook ,REP,312,7,37,48,85,136,84,220
+Hill,8,State Representative,8,Byron Cook ,REP,181,9,37,42,79,54,39,93
+Hill,9,State Representative,8,Byron Cook ,REP,219,7,53,72,125,50,37,87
+Hill,10,State Representative,8,Byron Cook ,REP,782,27,126,238,364,202,189,391
+Hill,12,State Representative,8,Byron Cook ,REP,417,20,85,146,231,75,91,166
+Hill,13,State Representative,8,Byron Cook ,REP,1419,96,226,409,635,243,445,688
+Hill,14,State Representative,8,Byron Cook ,REP,591,20,55,138,193,178,200,378
+Hill,15,State Representative,8,Byron Cook ,REP,212,12,19,24,43,57,100,157
+Hill,16,State Representative,8,Byron Cook ,REP,175,0,15,30,45,102,28,130
+Hill,18,State Representative,8,Byron Cook ,REP,94,2,22,10,32,47,13,60
+Hill,19,State Representative,8,Byron Cook ,REP,199,6,37,30,67,72,54,126
+Hill,20,State Representative,8,Byron Cook ,REP,511,19,59,73,132,281,79,360
+Hill,21,State Representative,8,Byron Cook ,REP,991,95,141,376,517,129,250,379
+Hill,22,State Representative,8,Byron Cook ,REP,851,87,160,234,394,205,165,370
+Hill,23,State Representative,8,Byron Cook ,REP,244,7,26,27,53,116,68,184
+Hill,24,State Representative,8,Byron Cook ,REP,569,34,56,75,131,114,290,404
+Hill,27,State Representative,8,Byron Cook ,REP,360,12,84,76,160,136,52,188
