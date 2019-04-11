@@ -1,0 +1,595 @@
+county,precinct,office,district,party,candidate,votes
+Van Zandt,1A,Straight Party,,REP,Republican,465
+Van Zandt,1B,Straight Party,,REP,Republican,756
+Van Zandt,1C,Straight Party,,REP,Republican,433
+Van Zandt,1D,Straight Party,,REP,Republican,311
+Van Zandt,1E,Straight Party,,REP,Republican,167
+Van Zandt,2A,Straight Party,,REP,Republican,915
+Van Zandt,2B,Straight Party,,REP,Republican,464
+Van Zandt,2C,Straight Party,,REP,Republican,685
+Van Zandt,2D,Straight Party,,REP,Republican,541
+Van Zandt,3A,Straight Party,,REP,Republican,297
+Van Zandt,3B,Straight Party,,REP,Republican,338
+Van Zandt,3C,Straight Party,,REP,Republican,759
+Van Zandt,3D,Straight Party,,REP,Republican,798
+Van Zandt,4A,Straight Party,,REP,Republican,410
+Van Zandt,4B,Straight Party,,REP,Republican,517
+Van Zandt,4C,Straight Party,,REP,Republican,479
+Van Zandt,4D,Straight Party,,REP,Republican,954
+Van Zandt,4E,Straight Party,,REP,Republican,347
+Van Zandt,1A,Straight Party,,DEM,Democratic,42
+Van Zandt,1B,Straight Party,,DEM,Democratic,94
+Van Zandt,1C,Straight Party,,DEM,Democratic,28
+Van Zandt,1D,Straight Party,,DEM,Democratic,50
+Van Zandt,1E,Straight Party,,DEM,Democratic,51
+Van Zandt,2A,Straight Party,,DEM,Democratic,79
+Van Zandt,2B,Straight Party,,DEM,Democratic,35
+Van Zandt,2C,Straight Party,,DEM,Democratic,44
+Van Zandt,2D,Straight Party,,DEM,Democratic,52
+Van Zandt,3A,Straight Party,,DEM,Democratic,45
+Van Zandt,3B,Straight Party,,DEM,Democratic,127
+Van Zandt,3C,Straight Party,,DEM,Democratic,124
+Van Zandt,3D,Straight Party,,DEM,Democratic,64
+Van Zandt,4A,Straight Party,,DEM,Democratic,49
+Van Zandt,4B,Straight Party,,DEM,Democratic,47
+Van Zandt,4C,Straight Party,,DEM,Democratic,62
+Van Zandt,4D,Straight Party,,DEM,Democratic,128
+Van Zandt,4E,Straight Party,,DEM,Democratic,30
+Van Zandt,1A,Straight Party,,LIB,Libertarian,2
+Van Zandt,1B,Straight Party,,LIB,Libertarian,4
+Van Zandt,1C,Straight Party,,LIB,Libertarian,1
+Van Zandt,1D,Straight Party,,LIB,Libertarian,0
+Van Zandt,1E,Straight Party,,LIB,Libertarian,3
+Van Zandt,2A,Straight Party,,LIB,Libertarian,10
+Van Zandt,2B,Straight Party,,LIB,Libertarian,0
+Van Zandt,2C,Straight Party,,LIB,Libertarian,0
+Van Zandt,2D,Straight Party,,LIB,Libertarian,3
+Van Zandt,3A,Straight Party,,LIB,Libertarian,0
+Van Zandt,3B,Straight Party,,LIB,Libertarian,2
+Van Zandt,3C,Straight Party,,LIB,Libertarian,5
+Van Zandt,3D,Straight Party,,LIB,Libertarian,3
+Van Zandt,4A,Straight Party,,LIB,Libertarian,2
+Van Zandt,4B,Straight Party,,LIB,Libertarian,1
+Van Zandt,4C,Straight Party,,LIB,Libertarian,3
+Van Zandt,4D,Straight Party,,LIB,Libertarian,5
+Van Zandt,4E,Straight Party,,LIB,Libertarian,2
+Van Zandt,1A,U.S. Senate,,REP,Ted Cruz,729
+Van Zandt,1B,U.S. Senate,,REP,Ted Cruz,1168
+Van Zandt,1C,U.S. Senate,,REP,Ted Cruz,712
+Van Zandt,1D,U.S. Senate,,REP,Ted Cruz,528
+Van Zandt,1E,U.S. Senate,,REP,Ted Cruz,289
+Van Zandt,2A,U.S. Senate,,REP,Ted Cruz,1489
+Van Zandt,2B,U.S. Senate,,REP,Ted Cruz,730
+Van Zandt,2C,U.S. Senate,,REP,Ted Cruz,1024
+Van Zandt,2D,U.S. Senate,,REP,Ted Cruz,838
+Van Zandt,3A,U.S. Senate,,REP,Ted Cruz,464
+Van Zandt,3B,U.S. Senate,,REP,Ted Cruz,540
+Van Zandt,3C,U.S. Senate,,REP,Ted Cruz,1208
+Van Zandt,3D,U.S. Senate,,REP,Ted Cruz,1282
+Van Zandt,4A,U.S. Senate,,REP,Ted Cruz,627
+Van Zandt,4B,U.S. Senate,,REP,Ted Cruz,804
+Van Zandt,4C,U.S. Senate,,REP,Ted Cruz,746
+Van Zandt,4D,U.S. Senate,,REP,Ted Cruz,1437
+Van Zandt,4E,U.S. Senate,,REP,Ted Cruz,567
+Van Zandt,1A,U.S. Senate,,DEM,Beto O'Rourke,110
+Van Zandt,1B,U.S. Senate,,DEM,Beto O'Rourke,217
+Van Zandt,1C,U.S. Senate,,DEM,Beto O'Rourke,89
+Van Zandt,1D,U.S. Senate,,DEM,Beto O'Rourke,99
+Van Zandt,1E,U.S. Senate,,DEM,Beto O'Rourke,102
+Van Zandt,2A,U.S. Senate,,DEM,Beto O'Rourke,212
+Van Zandt,2B,U.S. Senate,,DEM,Beto O'Rourke,93
+Van Zandt,2C,U.S. Senate,,DEM,Beto O'Rourke,131
+Van Zandt,2D,U.S. Senate,,DEM,Beto O'Rourke,140
+Van Zandt,3A,U.S. Senate,,DEM,Beto O'Rourke,87
+Van Zandt,3B,U.S. Senate,,DEM,Beto O'Rourke,198
+Van Zandt,3C,U.S. Senate,,DEM,Beto O'Rourke,266
+Van Zandt,3D,U.S. Senate,,DEM,Beto O'Rourke,174
+Van Zandt,4A,U.S. Senate,,DEM,Beto O'Rourke,108
+Van Zandt,4B,U.S. Senate,,DEM,Beto O'Rourke,123
+Van Zandt,4C,U.S. Senate,,DEM,Beto O'Rourke,128
+Van Zandt,4D,U.S. Senate,,DEM,Beto O'Rourke,282
+Van Zandt,4E,U.S. Senate,,DEM,Beto O'Rourke,75
+Van Zandt,1A,U.S. Senate,,LIB,Neal M. Dikeman,6
+Van Zandt,1B,U.S. Senate,,LIB,Neal M. Dikeman,5
+Van Zandt,1C,U.S. Senate,,LIB,Neal M. Dikeman,6
+Van Zandt,1D,U.S. Senate,,LIB,Neal M. Dikeman,9
+Van Zandt,1E,U.S. Senate,,LIB,Neal M. Dikeman,6
+Van Zandt,2A,U.S. Senate,,LIB,Neal M. Dikeman,15
+Van Zandt,2B,U.S. Senate,,LIB,Neal M. Dikeman,2
+Van Zandt,2C,U.S. Senate,,LIB,Neal M. Dikeman,7
+Van Zandt,2D,U.S. Senate,,LIB,Neal M. Dikeman,4
+Van Zandt,3A,U.S. Senate,,LIB,Neal M. Dikeman,0
+Van Zandt,3B,U.S. Senate,,LIB,Neal M. Dikeman,4
+Van Zandt,3C,U.S. Senate,,LIB,Neal M. Dikeman,8
+Van Zandt,3D,U.S. Senate,,LIB,Neal M. Dikeman,8
+Van Zandt,4A,U.S. Senate,,LIB,Neal M. Dikeman,7
+Van Zandt,4B,U.S. Senate,,LIB,Neal M. Dikeman,6
+Van Zandt,4C,U.S. Senate,,LIB,Neal M. Dikeman,8
+Van Zandt,4D,U.S. Senate,,LIB,Neal M. Dikeman,11
+Van Zandt,4E,U.S. Senate,,LIB,Neal M. Dikeman,4
+Van Zandt,1A,U.S. House,5,REP,Lance Gooden,728
+Van Zandt,1B,U.S. House,5,REP,Lance Gooden,1174
+Van Zandt,1C,U.S. House,5,REP,Lance Gooden,705
+Van Zandt,1D,U.S. House,5,REP,Lance Gooden,528
+Van Zandt,1E,U.S. House,5,REP,Lance Gooden,293
+Van Zandt,2A,U.S. House,5,REP,Lance Gooden,1503
+Van Zandt,2B,U.S. House,5,REP,Lance Gooden,721
+Van Zandt,2C,U.S. House,5,REP,Lance Gooden,1041
+Van Zandt,2D,U.S. House,5,REP,Lance Gooden,844
+Van Zandt,3A,U.S. House,5,REP,Lance Gooden,472
+Van Zandt,3B,U.S. House,5,REP,Lance Gooden,539
+Van Zandt,3C,U.S. House,5,REP,Lance Gooden,1198
+Van Zandt,3D,U.S. House,5,REP,Lance Gooden,1287
+Van Zandt,4A,U.S. House,5,REP,Lance Gooden,636
+Van Zandt,4B,U.S. House,5,REP,Lance Gooden,812
+Van Zandt,4C,U.S. House,5,REP,Lance Gooden,750
+Van Zandt,4D,U.S. House,5,REP,Lance Gooden,1448
+Van Zandt,4E,U.S. House,5,REP,Lance Gooden,567
+Van Zandt,1A,U.S. House,5,DEM,Dan Wood,108
+Van Zandt,1B,U.S. House,5,DEM,Dan Wood,205
+Van Zandt,1C,U.S. House,5,DEM,Dan Wood,9
+Van Zandt,1D,U.S. House,5,DEM,Dan Wood,100
+Van Zandt,1E,U.S. House,5,DEM,Dan Wood,97
+Van Zandt,2A,U.S. House,5,DEM,Dan Wood,191
+Van Zandt,2B,U.S. House,5,DEM,Dan Wood,91
+Van Zandt,2C,U.S. House,5,DEM,Dan Wood,111
+Van Zandt,2D,U.S. House,5,DEM,Dan Wood,126
+Van Zandt,3A,U.S. House,5,DEM,Dan Wood,76
+Van Zandt,3B,U.S. House,5,DEM,Dan Wood,196
+Van Zandt,3C,U.S. House,5,DEM,Dan Wood,252
+Van Zandt,3D,U.S. House,5,DEM,Dan Wood,165
+Van Zandt,4A,U.S. House,5,DEM,Dan Wood,99
+Van Zandt,4B,U.S. House,5,DEM,Dan Wood,110
+Van Zandt,4C,U.S. House,5,DEM,Dan Wood,128
+Van Zandt,4D,U.S. House,5,DEM,Dan Wood,264
+Van Zandt,4E,U.S. House,5,DEM,Dan Wood,79
+Van Zandt,1A,Governor,,REP,Greg Abbott,746
+Van Zandt,1B,Governor,,REP,Greg Abbott,1196
+Van Zandt,1C,Governor,,REP,Greg Abbott,731
+Van Zandt,1D,Governor,,REP,Greg Abbott,543
+Van Zandt,1E,Governor,,REP,Greg Abbott,310
+Van Zandt,2A,Governor,,REP,Greg Abbott,1532
+Van Zandt,2B,Governor,,REP,Greg Abbott,751
+Van Zandt,2C,Governor,,REP,Greg Abbott,1061
+Van Zandt,2D,Governor,,REP,Greg Abbott,870
+Van Zandt,3A,Governor,,REP,Greg Abbott,475
+Van Zandt,3B,Governor,,REP,Greg Abbott,565
+Van Zandt,3C,Governor,,REP,Greg Abbott,1242
+Van Zandt,3D,Governor,,REP,Greg Abbott,1307
+Van Zandt,4A,Governor,,REP,Greg Abbott,643
+Van Zandt,4B,Governor,,REP,Greg Abbott,818
+Van Zandt,4C,Governor,,REP,Greg Abbott,773
+Van Zandt,4D,Governor,,REP,Greg Abbott,1474
+Van Zandt,4E,Governor,,REP,Greg Abbott,572
+Van Zandt,1A,Governor,,DEM,Lupe Valdez,89
+Van Zandt,1B,Governor,,DEM,Lupe Valdez,178
+Van Zandt,1C,Governor,,DEM,Lupe Valdez,74
+Van Zandt,1D,Governor,,DEM,Lupe Valdez,87
+Van Zandt,1E,Governor,,DEM,Lupe Valdez,86
+Van Zandt,2A,Governor,,DEM,Lupe Valdez,162
+Van Zandt,2B,Governor,,DEM,Lupe Valdez,70
+Van Zandt,2C,Governor,,DEM,Lupe Valdez,95
+Van Zandt,2D,Governor,,DEM,Lupe Valdez,105
+Van Zandt,3A,Governor,,DEM,Lupe Valdez,79
+Van Zandt,3B,Governor,,DEM,Lupe Valdez,170
+Van Zandt,3C,Governor,,DEM,Lupe Valdez,216
+Van Zandt,3D,Governor,,DEM,Lupe Valdez,137
+Van Zandt,4A,Governor,,DEM,Lupe Valdez,88
+Van Zandt,4B,Governor,,DEM,Lupe Valdez,102
+Van Zandt,4C,Governor,,DEM,Lupe Valdez,104
+Van Zandt,4D,Governor,,DEM,Lupe Valdez,238
+Van Zandt,4E,Governor,,DEM,Lupe Valdez,70
+Van Zandt,1A,Governor,,LIB,Mark Jay Tippetts,12
+Van Zandt,1B,Governor,,LIB,Mark Jay Tippetts,18
+Van Zandt,1C,Governor,,LIB,Mark Jay Tippetts,3
+Van Zandt,1D,Governor,,LIB,Mark Jay Tippetts,6
+Van Zandt,1E,Governor,,LIB,Mark Jay Tippetts,2
+Van Zandt,2A,Governor,,LIB,Mark Jay Tippetts,17
+Van Zandt,2B,Governor,,LIB,Mark Jay Tippetts,8
+Van Zandt,2C,Governor,,LIB,Mark Jay Tippetts,9
+Van Zandt,2D,Governor,,LIB,Mark Jay Tippetts,11
+Van Zandt,3A,Governor,,LIB,Mark Jay Tippetts,1
+Van Zandt,3B,Governor,,LIB,Mark Jay Tippetts,3
+Van Zandt,3C,Governor,,LIB,Mark Jay Tippetts,20
+Van Zandt,3D,Governor,,LIB,Mark Jay Tippetts,17
+Van Zandt,4A,Governor,,LIB,Mark Jay Tippetts,13
+Van Zandt,4B,Governor,,LIB,Mark Jay Tippetts,11
+Van Zandt,4C,Governor,,LIB,Mark Jay Tippetts,10
+Van Zandt,4D,Governor,,LIB,Mark Jay Tippetts,19
+Van Zandt,4E,Governor,,LIB,Mark Jay Tippetts,10
+Van Zandt,1A,Lieutenant Governor,,REP,Dan Patrick,692
+Van Zandt,1B,Lieutenant Governor,,REP,Dan Patrick,1116
+Van Zandt,1C,Lieutenant Governor,,REP,Dan Patrick,684
+Van Zandt,1D,Lieutenant Governor,,REP,Dan Patrick,500
+Van Zandt,1E,Lieutenant Governor,,REP,Dan Patrick,263
+Van Zandt,2A,Lieutenant Governor,,REP,Dan Patrick,1411
+Van Zandt,2B,Lieutenant Governor,,REP,Dan Patrick,704
+Van Zandt,2C,Lieutenant Governor,,REP,Dan Patrick,997
+Van Zandt,2D,Lieutenant Governor,,REP,Dan Patrick,812
+Van Zandt,3A,Lieutenant Governor,,REP,Dan Patrick,448
+Van Zandt,3B,Lieutenant Governor,,REP,Dan Patrick,524
+Van Zandt,3C,Lieutenant Governor,,REP,Dan Patrick,1167
+Van Zandt,3D,Lieutenant Governor,,REP,Dan Patrick,1201
+Van Zandt,4A,Lieutenant Governor,,REP,Dan Patrick,600
+Van Zandt,4B,Lieutenant Governor,,REP,Dan Patrick,762
+Van Zandt,4C,Lieutenant Governor,,REP,Dan Patrick,722
+Van Zandt,4D,Lieutenant Governor,,REP,Dan Patrick,1421
+Van Zandt,4E,Lieutenant Governor,,REP,Dan Patrick,525
+Van Zandt,1A,Lieutenant Governor,,DEM,Mike Collier,137
+Van Zandt,1B,Lieutenant Governor,,DEM,Mike Collier,237
+Van Zandt,1C,Lieutenant Governor,,DEM,Mike Collier,105
+Van Zandt,1D,Lieutenant Governor,,DEM,Mike Collier,120
+Van Zandt,1E,Lieutenant Governor,,DEM,Mike Collier,122
+Van Zandt,2A,Lieutenant Governor,,DEM,Mike Collier,271
+Van Zandt,2B,Lieutenant Governor,,DEM,Mike Collier,112
+Van Zandt,2C,Lieutenant Governor,,DEM,Mike Collier,146
+Van Zandt,2D,Lieutenant Governor,,DEM,Mike Collier,150
+Van Zandt,3A,Lieutenant Governor,,DEM,Mike Collier,100
+Van Zandt,3B,Lieutenant Governor,,DEM,Mike Collier,203
+Van Zandt,3C,Lieutenant Governor,,DEM,Mike Collier,276
+Van Zandt,3D,Lieutenant Governor,,DEM,Mike Collier,243
+Van Zandt,4A,Lieutenant Governor,,DEM,Mike Collier,124
+Van Zandt,4B,Lieutenant Governor,,DEM,Mike Collier,147
+Van Zandt,4C,Lieutenant Governor,,DEM,Mike Collier,142
+Van Zandt,4D,Lieutenant Governor,,DEM,Mike Collier,279
+Van Zandt,4E,Lieutenant Governor,,DEM,Mike Collier,116
+Van Zandt,1A,Lieutenant Governor,,LIB,Kerry Douglas McKennon,14
+Van Zandt,1B,Lieutenant Governor,,LIB,Kerry Douglas McKennon,27
+Van Zandt,1C,Lieutenant Governor,,LIB,Kerry Douglas McKennon,11
+Van Zandt,1D,Lieutenant Governor,,LIB,Kerry Douglas McKennon,15
+Van Zandt,1E,Lieutenant Governor,,LIB,Kerry Douglas McKennon,8
+Van Zandt,2A,Lieutenant Governor,,LIB,Kerry Douglas McKennon,29
+Van Zandt,2B,Lieutenant Governor,,LIB,Kerry Douglas McKennon,14
+Van Zandt,2C,Lieutenant Governor,,LIB,Kerry Douglas McKennon,18
+Van Zandt,2D,Lieutenant Governor,,LIB,Kerry Douglas McKennon,17
+Van Zandt,3A,Lieutenant Governor,,LIB,Kerry Douglas McKennon,5
+Van Zandt,3B,Lieutenant Governor,,LIB,Kerry Douglas McKennon,11
+Van Zandt,3C,Lieutenant Governor,,LIB,Kerry Douglas McKennon,26
+Van Zandt,3D,Lieutenant Governor,,LIB,Kerry Douglas McKennon,18
+Van Zandt,4A,Lieutenant Governor,,LIB,Kerry Douglas McKennon,16
+Van Zandt,4B,Lieutenant Governor,,LIB,Kerry Douglas McKennon,17
+Van Zandt,4C,Lieutenant Governor,,LIB,Kerry Douglas McKennon,16
+Van Zandt,4D,Lieutenant Governor,,LIB,Kerry Douglas McKennon,27
+Van Zandt,4E,Lieutenant Governor,,LIB,Kerry Douglas McKennon,8
+Van Zandt,1A,Attorney General,,REP,Ken Paxton,701
+Van Zandt,1B,Attorney General,,REP,Ken Paxton,1141
+Van Zandt,1C,Attorney General,,REP,Ken Paxton,696
+Van Zandt,1D,Attorney General,,REP,Ken Paxton,508
+Van Zandt,1E,Attorney General,,REP,Ken Paxton,275
+Van Zandt,2A,Attorney General,,REP,Ken Paxton,1437
+Van Zandt,2B,Attorney General,,REP,Ken Paxton,700
+Van Zandt,2C,Attorney General,,REP,Ken Paxton,992
+Van Zandt,2D,Attorney General,,REP,Ken Paxton,804
+Van Zandt,3A,Attorney General,,REP,Ken Paxton,450
+Van Zandt,3B,Attorney General,,REP,Ken Paxton,513
+Van Zandt,3C,Attorney General,,REP,Ken Paxton,1157
+Van Zandt,3D,Attorney General,,REP,Ken Paxton,1232
+Van Zandt,4A,Attorney General,,REP,Ken Paxton,617
+Van Zandt,4B,Attorney General,,REP,Ken Paxton,772
+Van Zandt,4C,Attorney General,,REP,Ken Paxton,724
+Van Zandt,4D,Attorney General,,REP,Ken Paxton,1405
+Van Zandt,4E,Attorney General,,REP,Ken Paxton,547
+Van Zandt,1A,Attorney General,,DEM,Justin Nelson,123
+Van Zandt,1B,Attorney General,,DEM,Justin Nelson,222
+Van Zandt,1C,Attorney General,,DEM,Justin Nelson,91
+Van Zandt,1D,Attorney General,,DEM,Justin Nelson,109
+Van Zandt,1E,Attorney General,,DEM,Justin Nelson,109
+Van Zandt,2A,Attorney General,,DEM,Justin Nelson,229
+Van Zandt,2B,Attorney General,,DEM,Justin Nelson,113
+Van Zandt,2C,Attorney General,,DEM,Justin Nelson,143
+Van Zandt,2D,Attorney General,,DEM,Justin Nelson,150
+Van Zandt,3A,Attorney General,,DEM,Justin Nelson,88
+Van Zandt,3B,Attorney General,,DEM,Justin Nelson,206
+Van Zandt,3C,Attorney General,,DEM,Justin Nelson,272
+Van Zandt,3D,Attorney General,,DEM,Justin Nelson,206
+Van Zandt,4A,Attorney General,,DEM,Justin Nelson,109
+Van Zandt,4B,Attorney General,,DEM,Justin Nelson,132
+Van Zandt,4C,Attorney General,,DEM,Justin Nelson,136
+Van Zandt,4D,Attorney General,,DEM,Justin Nelson,283
+Van Zandt,4E,Attorney General,,DEM,Justin Nelson,91
+Van Zandt,1A,Attorney General,,LIB,Michael Ray Harris,15
+Van Zandt,1B,Attorney General,,LIB,Michael Ray Harris,19
+Van Zandt,1C,Attorney General,,LIB,Michael Ray Harris,12
+Van Zandt,1D,Attorney General,,LIB,Michael Ray Harris,13
+Van Zandt,1E,Attorney General,,LIB,Michael Ray Harris,9
+Van Zandt,2A,Attorney General,,LIB,Michael Ray Harris,35
+Van Zandt,2B,Attorney General,,LIB,Michael Ray Harris,15
+Van Zandt,2C,Attorney General,,LIB,Michael Ray Harris,21
+Van Zandt,2D,Attorney General,,LIB,Michael Ray Harris,21
+Van Zandt,3A,Attorney General,,LIB,Michael Ray Harris,12
+Van Zandt,3B,Attorney General,,LIB,Michael Ray Harris,15
+Van Zandt,3C,Attorney General,,LIB,Michael Ray Harris,34
+Van Zandt,3D,Attorney General,,LIB,Michael Ray Harris,24
+Van Zandt,4A,Attorney General,,LIB,Michael Ray Harris,9
+Van Zandt,4B,Attorney General,,LIB,Michael Ray Harris,13
+Van Zandt,4C,Attorney General,,LIB,Michael Ray Harris,19
+Van Zandt,4D,Attorney General,,LIB,Michael Ray Harris,33
+Van Zandt,4E,Attorney General,,LIB,Michael Ray Harris,9
+Van Zandt,1A,Comptroller of Public Accounts,,REP,Glenn Hegar,718
+Van Zandt,1B,Comptroller of Public Accounts,,REP,Glenn Hegar,1160
+Van Zandt,1C,Comptroller of Public Accounts,,REP,Glenn Hegar,699
+Van Zandt,1D,Comptroller of Public Accounts,,REP,Glenn Hegar,522
+Van Zandt,1E,Comptroller of Public Accounts,,REP,Glenn Hegar,290
+Van Zandt,2A,Comptroller of Public Accounts,,REP,Glenn Hegar,1463
+Van Zandt,2B,Comptroller of Public Accounts,,REP,Glenn Hegar,718
+Van Zandt,2C,Comptroller of Public Accounts,,REP,Glenn Hegar,1029
+Van Zandt,2D,Comptroller of Public Accounts,,REP,Glenn Hegar,835
+Van Zandt,3A,Comptroller of Public Accounts,,REP,Glenn Hegar,462
+Van Zandt,3B,Comptroller of Public Accounts,,REP,Glenn Hegar,537
+Van Zandt,3C,Comptroller of Public Accounts,,REP,Glenn Hegar,1167
+Van Zandt,3D,Comptroller of Public Accounts,,REP,Glenn Hegar,1274
+Van Zandt,4A,Comptroller of Public Accounts,,REP,Glenn Hegar,625
+Van Zandt,4B,Comptroller of Public Accounts,,REP,Glenn Hegar,794
+Van Zandt,4C,Comptroller of Public Accounts,,REP,Glenn Hegar,750
+Van Zandt,4D,Comptroller of Public Accounts,,REP,Glenn Hegar,1433
+Van Zandt,4E,Comptroller of Public Accounts,,REP,Glenn Hegar,563
+Van Zandt,1A,Comptroller of Public Accounts,,DEM,Joi Chevalier,96
+Van Zandt,1B,Comptroller of Public Accounts,,DEM,Joi Chevalier,190
+Van Zandt,1C,Comptroller of Public Accounts,,DEM,Joi Chevalier,75
+Van Zandt,1D,Comptroller of Public Accounts,,DEM,Joi Chevalier,91
+Van Zandt,1E,Comptroller of Public Accounts,,DEM,Joi Chevalier,82
+Van Zandt,2A,Comptroller of Public Accounts,,DEM,Joi Chevalier,166
+Van Zandt,2B,Comptroller of Public Accounts,,DEM,Joi Chevalier,72
+Van Zandt,2C,Comptroller of Public Accounts,,DEM,Joi Chevalier,100
+Van Zandt,2D,Comptroller of Public Accounts,,DEM,Joi Chevalier,122
+Van Zandt,3A,Comptroller of Public Accounts,,DEM,Joi Chevalier,74
+Van Zandt,3B,Comptroller of Public Accounts,,DEM,Joi Chevalier,172
+Van Zandt,3C,Comptroller of Public Accounts,,DEM,Joi Chevalier,235
+Van Zandt,3D,Comptroller of Public Accounts,,DEM,Joi Chevalier,141
+Van Zandt,4A,Comptroller of Public Accounts,,DEM,Joi Chevalier,85
+Van Zandt,4B,Comptroller of Public Accounts,,DEM,Joi Chevalier,100
+Van Zandt,4C,Comptroller of Public Accounts,,DEM,Joi Chevalier,111
+Van Zandt,4D,Comptroller of Public Accounts,,DEM,Joi Chevalier,247
+Van Zandt,4E,Comptroller of Public Accounts,,DEM,Joi Chevalier,63
+Van Zandt,1A,Comptroller of Public Accounts,,LIB,Ben Sanders,19
+Van Zandt,1B,Comptroller of Public Accounts,,LIB,Ben Sanders,28
+Van Zandt,1C,Comptroller of Public Accounts,,LIB,Ben Sanders,17
+Van Zandt,1D,Comptroller of Public Accounts,,LIB,Ben Sanders,11
+Van Zandt,1E,Comptroller of Public Accounts,,LIB,Ben Sanders,14
+Van Zandt,2A,Comptroller of Public Accounts,,LIB,Ben Sanders,40
+Van Zandt,2B,Comptroller of Public Accounts,,LIB,Ben Sanders,24
+Van Zandt,2C,Comptroller of Public Accounts,,LIB,Ben Sanders,22
+Van Zandt,2D,Comptroller of Public Accounts,,LIB,Ben Sanders,27
+Van Zandt,3A,Comptroller of Public Accounts,,LIB,Ben Sanders,8
+Van Zandt,3B,Comptroller of Public Accounts,,LIB,Ben Sanders,17
+Van Zandt,3C,Comptroller of Public Accounts,,LIB,Ben Sanders,44
+Van Zandt,3D,Comptroller of Public Accounts,,LIB,Ben Sanders,25
+Van Zandt,4A,Comptroller of Public Accounts,,LIB,Ben Sanders,20
+Van Zandt,4B,Comptroller of Public Accounts,,LIB,Ben Sanders,20
+Van Zandt,4C,Comptroller of Public Accounts,,LIB,Ben Sanders,19
+Van Zandt,4D,Comptroller of Public Accounts,,LIB,Ben Sanders,38
+Van Zandt,4E,Comptroller of Public Accounts,,LIB,Ben Sanders,14
+Van Zandt,1A,Commissioner of the General Land Office,,REP,George P. Bush,714
+Van Zandt,1B,Commissioner of the General Land Office,,REP,George P. Bush,1155
+Van Zandt,1C,Commissioner of the General Land Office,,REP,George P. Bush,689
+Van Zandt,1D,Commissioner of the General Land Office,,REP,George P. Bush,518
+Van Zandt,1E,Commissioner of the General Land Office,,REP,George P. Bush,294
+Van Zandt,2A,Commissioner of the General Land Office,,REP,George P. Bush,1475
+Van Zandt,2B,Commissioner of the General Land Office,,REP,George P. Bush,706
+Van Zandt,2C,Commissioner of the General Land Office,,REP,George P. Bush,1021
+Van Zandt,2D,Commissioner of the General Land Office,,REP,George P. Bush,830
+Van Zandt,3A,Commissioner of the General Land Office,,REP,George P. Bush,475
+Van Zandt,3B,Commissioner of the General Land Office,,REP,George P. Bush,533
+Van Zandt,3C,Commissioner of the General Land Office,,REP,George P. Bush,1162
+Van Zandt,3D,Commissioner of the General Land Office,,REP,George P. Bush,1265
+Van Zandt,4A,Commissioner of the General Land Office,,REP,George P. Bush,634
+Van Zandt,4B,Commissioner of the General Land Office,,REP,George P. Bush,792
+Van Zandt,4C,Commissioner of the General Land Office,,REP,George P. Bush,738
+Van Zandt,4D,Commissioner of the General Land Office,,REP,George P. Bush,1402
+Van Zandt,4E,Commissioner of the General Land Office,,REP,George P. Bush,566
+Van Zandt,1A,Commissioner of the General Land Office,,DEM,Miguel Suazo,85
+Van Zandt,1B,Commissioner of the General Land Office,,DEM,Miguel Suazo,190
+Van Zandt,1C,Commissioner of the General Land Office,,DEM,Miguel Suazo,76
+Van Zandt,1D,Commissioner of the General Land Office,,DEM,Miguel Suazo,88
+Van Zandt,1E,Commissioner of the General Land Office,,DEM,Miguel Suazo,87
+Van Zandt,2A,Commissioner of the General Land Office,,DEM,Miguel Suazo,165
+Van Zandt,2B,Commissioner of the General Land Office,,DEM,Miguel Suazo,83
+Van Zandt,2C,Commissioner of the General Land Office,,DEM,Miguel Suazo,101
+Van Zandt,2D,Commissioner of the General Land Office,,DEM,Miguel Suazo,107
+Van Zandt,3A,Commissioner of the General Land Office,,DEM,Miguel Suazo,66
+Van Zandt,3B,Commissioner of the General Land Office,,DEM,Miguel Suazo,173
+Van Zandt,3C,Commissioner of the General Land Office,,DEM,Miguel Suazo,221
+Van Zandt,3D,Commissioner of the General Land Office,,DEM,Miguel Suazo,154
+Van Zandt,4A,Commissioner of the General Land Office,,DEM,Miguel Suazo,91
+Van Zandt,4B,Commissioner of the General Land Office,,DEM,Miguel Suazo,97
+Van Zandt,4C,Commissioner of the General Land Office,,DEM,Miguel Suazo,117
+Van Zandt,4D,Commissioner of the General Land Office,,DEM,Miguel Suazo,259
+Van Zandt,4E,Commissioner of the General Land Office,,DEM,Miguel Suazo,67
+Van Zandt,1A,Commissioner of the General Land Office,,LIB,Matt Pina,39
+Van Zandt,1B,Commissioner of the General Land Office,,LIB,Matt Pina,32
+Van Zandt,1C,Commissioner of the General Land Office,,LIB,Matt Pina,34
+Van Zandt,1D,Commissioner of the General Land Office,,LIB,Matt Pina,19
+Van Zandt,1E,Commissioner of the General Land Office,,LIB,Matt Pina,11
+Van Zandt,2A,Commissioner of the General Land Office,,LIB,Matt Pina,43
+Van Zandt,2B,Commissioner of the General Land Office,,LIB,Matt Pina,25
+Van Zandt,2C,Commissioner of the General Land Office,,LIB,Matt Pina,30
+Van Zandt,2D,Commissioner of the General Land Office,,LIB,Matt Pina,39
+Van Zandt,3A,Commissioner of the General Land Office,,LIB,Matt Pina,11
+Van Zandt,3B,Commissioner of the General Land Office,,LIB,Matt Pina,26
+Van Zandt,3C,Commissioner of the General Land Office,,LIB,Matt Pina,69
+Van Zandt,3D,Commissioner of the General Land Office,,LIB,Matt Pina,37
+Van Zandt,4A,Commissioner of the General Land Office,,LIB,Matt Pina,10
+Van Zandt,4B,Commissioner of the General Land Office,,LIB,Matt Pina,31
+Van Zandt,4C,Commissioner of the General Land Office,,LIB,Matt Pina,31
+Van Zandt,4D,Commissioner of the General Land Office,,LIB,Matt Pina,51
+Van Zandt,4E,Commissioner of the General Land Office,,LIB,Matt Pina,15
+Van Zandt,1A,Commissioner of Agriculture,,REP,Sid Miller,703
+Van Zandt,1B,Commissioner of Agriculture,,REP,Sid Miller,1165
+Van Zandt,1C,Commissioner of Agriculture,,REP,Sid Miller,693
+Van Zandt,1D,Commissioner of Agriculture,,REP,Sid Miller,525
+Van Zandt,1E,Commissioner of Agriculture,,REP,Sid Miller,283
+Van Zandt,2A,Commissioner of Agriculture,,REP,Sid Miller,1461
+Van Zandt,2B,Commissioner of Agriculture,,REP,Sid Miller,716
+Van Zandt,2C,Commissioner of Agriculture,,REP,Sid Miller,1010
+Van Zandt,2D,Commissioner of Agriculture,,REP,Sid Miller,828
+Van Zandt,3A,Commissioner of Agriculture,,REP,Sid Miller,461
+Van Zandt,3B,Commissioner of Agriculture,,REP,Sid Miller,518
+Van Zandt,3C,Commissioner of Agriculture,,REP,Sid Miller,1169
+Van Zandt,3D,Commissioner of Agriculture,,REP,Sid Miller,1252
+Van Zandt,4A,Commissioner of Agriculture,,REP,Sid Miller,618
+Van Zandt,4B,Commissioner of Agriculture,,REP,Sid Miller,790
+Van Zandt,4C,Commissioner of Agriculture,,REP,Sid Miller,732
+Van Zandt,4D,Commissioner of Agriculture,,REP,Sid Miller,1416
+Van Zandt,4E,Commissioner of Agriculture,,REP,Sid Miller,562
+Van Zandt,1A,Commissioner of Agriculture,,DEM,Kim Olson,115
+Van Zandt,1B,Commissioner of Agriculture,,DEM,Kim Olson,200
+Van Zandt,1C,Commissioner of Agriculture,,DEM,Kim Olson,92
+Van Zandt,1D,Commissioner of Agriculture,,DEM,Kim Olson,97
+Van Zandt,1E,Commissioner of Agriculture,,DEM,Kim Olson,101
+Van Zandt,2A,Commissioner of Agriculture,,DEM,Kim Olson,194
+Van Zandt,2B,Commissioner of Agriculture,,DEM,Kim Olson,89
+Van Zandt,2C,Commissioner of Agriculture,,DEM,Kim Olson,121
+Van Zandt,2D,Commissioner of Agriculture,,DEM,Kim Olson,128
+Van Zandt,3A,Commissioner of Agriculture,,DEM,Kim Olson,82
+Van Zandt,3B,Commissioner of Agriculture,,DEM,Kim Olson,196
+Van Zandt,3C,Commissioner of Agriculture,,DEM,Kim Olson,251
+Van Zandt,3D,Commissioner of Agriculture,,DEM,Kim Olson,174
+Van Zandt,4A,Commissioner of Agriculture,,DEM,Kim Olson,94
+Van Zandt,4B,Commissioner of Agriculture,,DEM,Kim Olson,109
+Van Zandt,4C,Commissioner of Agriculture,,DEM,Kim Olson,130
+Van Zandt,4D,Commissioner of Agriculture,,DEM,Kim Olson,266
+Van Zandt,4E,Commissioner of Agriculture,,DEM,Kim Olson,72
+Van Zandt,1A,Commissioner of Agriculture,,LIB,Richard Carpenter,16
+Van Zandt,1B,Commissioner of Agriculture,,LIB,Richard Carpenter,14
+Van Zandt,1C,Commissioner of Agriculture,,LIB,Richard Carpenter,14
+Van Zandt,1D,Commissioner of Agriculture,,LIB,Richard Carpenter,5
+Van Zandt,1E,Commissioner of Agriculture,,LIB,Richard Carpenter,
+Van Zandt,2A,Commissioner of Agriculture,,LIB,Richard Carpenter,27
+Van Zandt,2B,Commissioner of Agriculture,,LIB,Richard Carpenter,11
+Van Zandt,2C,Commissioner of Agriculture,,LIB,Richard Carpenter,19
+Van Zandt,2D,Commissioner of Agriculture,,LIB,Richard Carpenter,16
+Van Zandt,3A,Commissioner of Agriculture,,LIB,Richard Carpenter,4
+Van Zandt,3B,Commissioner of Agriculture,,LIB,Richard Carpenter,13
+Van Zandt,3C,Commissioner of Agriculture,,LIB,Richard Carpenter,28
+Van Zandt,3D,Commissioner of Agriculture,,LIB,Richard Carpenter,19
+Van Zandt,4A,Commissioner of Agriculture,,LIB,Richard Carpenter,16
+Van Zandt,4B,Commissioner of Agriculture,,LIB,Richard Carpenter,17
+Van Zandt,4C,Commissioner of Agriculture,,LIB,Richard Carpenter,17
+Van Zandt,4D,Commissioner of Agriculture,,LIB,Richard Carpenter,31
+Van Zandt,4E,Commissioner of Agriculture,,LIB,Richard Carpenter,9
+Van Zandt,1A,Railroad Commissioner,,REP,Christi Craddick,718
+Van Zandt,1B,Railroad Commissioner,,REP,Christi Craddick,1154
+Van Zandt,1C,Railroad Commissioner,,REP,Christi Craddick,695
+Van Zandt,1D,Railroad Commissioner,,REP,Christi Craddick,520
+Van Zandt,1E,Railroad Commissioner,,REP,Christi Craddick,291
+Van Zandt,2A,Railroad Commissioner,,REP,Christi Craddick,1478
+Van Zandt,2B,Railroad Commissioner,,REP,Christi Craddick,716
+Van Zandt,2C,Railroad Commissioner,,REP,Christi Craddick,1027
+Van Zandt,2D,Railroad Commissioner,,REP,Christi Craddick,843
+Van Zandt,3A,Railroad Commissioner,,REP,Christi Craddick,466
+Van Zandt,3B,Railroad Commissioner,,REP,Christi Craddick,540
+Van Zandt,3C,Railroad Commissioner,,REP,Christi Craddick,1182
+Van Zandt,3D,Railroad Commissioner,,REP,Christi Craddick,1275
+Van Zandt,4A,Railroad Commissioner,,REP,Christi Craddick,628
+Van Zandt,4B,Railroad Commissioner,,REP,Christi Craddick,795
+Van Zandt,4C,Railroad Commissioner,,REP,Christi Craddick,749
+Van Zandt,4D,Railroad Commissioner,,REP,Christi Craddick,1436
+Van Zandt,4E,Railroad Commissioner,,REP,Christi Craddick,561
+Van Zandt,1A,Railroad Commissioner,,DEM,Roman McAllen,93
+Van Zandt,1B,Railroad Commissioner,,DEM,Roman McAllen,195
+Van Zandt,1C,Railroad Commissioner,,DEM,Roman McAllen,74
+Van Zandt,1D,Railroad Commissioner,,DEM,Roman McAllen,92
+Van Zandt,1E,Railroad Commissioner,,DEM,Roman McAllen,93
+Van Zandt,2A,Railroad Commissioner,,DEM,Roman McAllen,167
+Van Zandt,2B,Railroad Commissioner,,DEM,Roman McAllen,83
+Van Zandt,2C,Railroad Commissioner,,DEM,Roman McAllen,102
+Van Zandt,2D,Railroad Commissioner,,DEM,Roman McAllen,108
+Van Zandt,3A,Railroad Commissioner,,DEM,Roman McAllen,76
+Van Zandt,3B,Railroad Commissioner,,DEM,Roman McAllen,176
+Van Zandt,3C,Railroad Commissioner,,DEM,Roman McAllen,233
+Van Zandt,3D,Railroad Commissioner,,DEM,Roman McAllen,145
+Van Zandt,4A,Railroad Commissioner,,DEM,Roman McAllen,90
+Van Zandt,4B,Railroad Commissioner,,DEM,Roman McAllen,99
+Van Zandt,4C,Railroad Commissioner,,DEM,Roman McAllen,115
+Van Zandt,4D,Railroad Commissioner,,DEM,Roman McAllen,241
+Van Zandt,4E,Railroad Commissioner,,DEM,Roman McAllen,69
+Van Zandt,1A,Railroad Commissioner,,LIB,Mike Wright,24
+Van Zandt,1B,Railroad Commissioner,,LIB,Mike Wright,26
+Van Zandt,1C,Railroad Commissioner,,LIB,Mike Wright,18
+Van Zandt,1D,Railroad Commissioner,,LIB,Mike Wright,13
+Van Zandt,1E,Railroad Commissioner,,LIB,Mike Wright,5
+Van Zandt,2A,Railroad Commissioner,,LIB,Mike Wright,33
+Van Zandt,2B,Railroad Commissioner,,LIB,Mike Wright,17
+Van Zandt,2C,Railroad Commissioner,,LIB,Mike Wright,24
+Van Zandt,2D,Railroad Commissioner,,LIB,Mike Wright,23
+Van Zandt,3A,Railroad Commissioner,,LIB,Mike Wright,8
+Van Zandt,3B,Railroad Commissioner,,LIB,Mike Wright,12
+Van Zandt,3C,Railroad Commissioner,,LIB,Mike Wright,41
+Van Zandt,3D,Railroad Commissioner,,LIB,Mike Wright,24
+Van Zandt,4A,Railroad Commissioner,,LIB,Mike Wright,14
+Van Zandt,4B,Railroad Commissioner,,LIB,Mike Wright,24
+Van Zandt,4C,Railroad Commissioner,,LIB,Mike Wright,20
+Van Zandt,4D,Railroad Commissioner,,LIB,Mike Wright,43
+Van Zandt,4E,Railroad Commissioner,,LIB,Mike Wright,15
+Van Zandt,1A,State Senate,2,REP,Bob Hall,705
+Van Zandt,1B,State Senate,2,REP,Bob Hall,1153
+Van Zandt,1C,State Senate,2,REP,Bob Hall,690
+Van Zandt,1D,State Senate,2,REP,Bob Hall,509
+Van Zandt,1E,State Senate,2,REP,Bob Hall,272
+Van Zandt,2A,State Senate,2,REP,Bob Hall,1411
+Van Zandt,2B,State Senate,2,REP,Bob Hall,710
+Van Zandt,2C,State Senate,2,REP,Bob Hall,1019
+Van Zandt,2D,State Senate,2,REP,Bob Hall,823
+Van Zandt,3A,State Senate,2,REP,Bob Hall,443
+Van Zandt,3B,State Senate,2,REP,Bob Hall,534
+Van Zandt,3C,State Senate,2,REP,Bob Hall,1176
+Van Zandt,3D,State Senate,2,REP,Bob Hall,1213
+Van Zandt,4A,State Senate,2,REP,Bob Hall,597
+Van Zandt,4B,State Senate,2,REP,Bob Hall,768
+Van Zandt,4C,State Senate,2,REP,Bob Hall,730
+Van Zandt,4D,State Senate,2,REP,Bob Hall,1438
+Van Zandt,4E,State Senate,2,REP,Bob Hall,537
+Van Zandt,1A,State Senate,2,DEM,Kendall Scudder,133
+Van Zandt,1B,State Senate,2,DEM,Kendall Scudder,221
+Van Zandt,1C,State Senate,2,DEM,Kendall Scudder,96
+Van Zandt,1D,State Senate,2,DEM,Kendall Scudder,116
+Van Zandt,1E,State Senate,2,DEM,Kendall Scudder,117
+Van Zandt,2A,State Senate,2,DEM,Kendall Scudder,264
+Van Zandt,2B,State Senate,2,DEM,Kendall Scudder,105
+Van Zandt,2C,State Senate,2,DEM,Kendall Scudder,130
+Van Zandt,2D,State Senate,2,DEM,Kendall Scudder,145
+Van Zandt,3A,State Senate,2,DEM,Kendall Scudder,100
+Van Zandt,3B,State Senate,2,DEM,Kendall Scudder,197
+Van Zandt,3C,State Senate,2,DEM,Kendall Scudder,276
+Van Zandt,3D,State Senate,2,DEM,Kendall Scudder,227
+Van Zandt,4A,State Senate,2,DEM,Kendall Scudder,127
+Van Zandt,4B,State Senate,2,DEM,Kendall Scudder,141
+Van Zandt,4C,State Senate,2,DEM,Kendall Scudder,137
+Van Zandt,4D,State Senate,2,DEM,Kendall Scudder,272
+Van Zandt,4E,State Senate,2,DEM,Kendall Scudder,104
+Van Zandt,1A,State Representative,2,REP,Dan Flynn,723
+Van Zandt,1B,State Representative,2,REP,Dan Flynn,1151
+Van Zandt,1C,State Representative,2,REP,Dan Flynn,699
+Van Zandt,1D,State Representative,2,REP,Dan Flynn,526
+Van Zandt,1E,State Representative,2,REP,Dan Flynn,293
+Van Zandt,2A,State Representative,2,REP,Dan Flynn,1483
+Van Zandt,2B,State Representative,2,REP,Dan Flynn,721
+Van Zandt,2C,State Representative,2,REP,Dan Flynn,1035
+Van Zandt,2D,State Representative,2,REP,Dan Flynn,847
+Van Zandt,3A,State Representative,2,REP,Dan Flynn,469
+Van Zandt,3B,State Representative,2,REP,Dan Flynn,543
+Van Zandt,3C,State Representative,2,REP,Dan Flynn,1189
+Van Zandt,3D,State Representative,2,REP,Dan Flynn,1276
+Van Zandt,4A,State Representative,2,REP,Dan Flynn,625
+Van Zandt,4B,State Representative,2,REP,Dan Flynn,799
+Van Zandt,4C,State Representative,2,REP,Dan Flynn,737
+Van Zandt,4D,State Representative,2,REP,Dan Flynn,1443
+Van Zandt,4E,State Representative,2,REP,Dan Flynn,563
+Van Zandt,1A,State Representative,2,DEM,Bill Brannon,112
+Van Zandt,1B,State Representative,2,DEM,Bill Brannon,217
+Van Zandt,1C,State Representative,2,DEM,Bill Brannon,90
+Van Zandt,1D,State Representative,2,DEM,Bill Brannon,101
+Van Zandt,1E,State Representative,2,DEM,Bill Brannon,97
+Van Zandt,2A,State Representative,2,DEM,Bill Brannon,188
+Van Zandt,2B,State Representative,2,DEM,Bill Brannon,95
+Van Zandt,2C,State Representative,2,DEM,Bill Brannon,107
+Van Zandt,2D,State Representative,2,DEM,Bill Brannon,125
+Van Zandt,3A,State Representative,2,DEM,Bill Brannon,73
+Van Zandt,3B,State Representative,2,DEM,Bill Brannon,184
+Van Zandt,3C,State Representative,2,DEM,Bill Brannon,256
+Van Zandt,3D,State Representative,2,DEM,Bill Brannon,163
+Van Zandt,4A,State Representative,2,DEM,Bill Brannon,101
+Van Zandt,4B,State Representative,2,DEM,Bill Brannon,124
+Van Zandt,4C,State Representative,2,DEM,Bill Brannon,134
+Van Zandt,4D,State Representative,2,DEM,Bill Brannon,264
+Van Zandt,4E,State Representative,2,DEM,Bill Brannon,80
