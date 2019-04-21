@@ -1,0 +1,631 @@
+county,precinct,office,district,candidate,party,absentee,early_voting,election_day,votes
+Rains,101,Straight Party,,Republican Party,REP,22,325,141,488
+Rains,102,Straight Party,,Republican Party,REP,22,135,107,264
+Rains,203,Straight Party,,Republican Party,REP,34,421,156,611
+Rains,204,Straight Party,,Republican Party,REP,23,175,47,245
+Rains,305,Straight Party,,Republican Party,REP,32,235,88,355
+Rains,306,Straight Party,,Republican Party,REP,16,208,91,315
+Rains,407,Straight Party,,Republican Party,REP,20,252,105,377
+Rains,408,Straight Party,,Republican Party,REP,25,160,120,305
+Rains,Total,Straight Party,,Republican Party,REP,194,1911,855,2960
+Rains,101,Straight Party,,Democratic Party,DEM,5,21,15,41
+Rains,102,Straight Party,,Democratic Party,DEM,11,21,16,48
+Rains,203,Straight Party,,Democratic Party,DEM,7,39,9,55
+Rains,204,Straight Party,,Democratic Party,DEM,4,25,4,33
+Rains,305,Straight Party,,Democratic Party,DEM,6,27,18,51
+Rains,306,Straight Party,,Democratic Party,DEM,14,54,34,102
+Rains,407,Straight Party,,Democratic Party,DEM,4,35,17,56
+Rains,408,Straight Party,,Democratic Party,DEM,7,27,21,55
+Rains,Total,Straight Party,,Democratic Party,DEM,58,249,134,441
+Rains,101,Straight Party,,Libertarian Party,LIB,0,0,1,1
+Rains,102,Straight Party,,Libertarian Party,LIB,0,0,1,1
+Rains,203,Straight Party,,Libertarian Party,LIB,0,0,0,0
+Rains,204,Straight Party,,Libertarian Party,LIB,0,0,0,0
+Rains,305,Straight Party,,Libertarian Party,LIB,0,1,0,1
+Rains,306,Straight Party,,Libertarian Party,LIB,0,0,0,0
+Rains,407,Straight Party,,Libertarian Party,LIB,0,0,1,1
+Rains,408,Straight Party,,Libertarian Party,LIB,0,1,1,2
+Rains,Total,Straight Party,,Libertarian Party,LIB,0,2,4,6
+Rains,101,Straight Party,,Cast Votes,,27,346,157,530
+Rains,102,Straight Party,,Cast Votes,,33,156,124,313
+Rains,203,Straight Party,,Cast Votes,,41,460,165,666
+Rains,204,Straight Party,,Cast Votes,,27,200,51,278
+Rains,305,Straight Party,,Cast Votes,,38,263,106,407
+Rains,306,Straight Party,,Cast Votes,,30,262,125,417
+Rains,407,Straight Party,,Cast Votes,,24,287,123,434
+Rains,408,Straight Party,,Cast Votes,,32,188,142,362
+Rains,Total,Straight Party,,Cast Votes,,252,2162,993,3407
+Rains,101,Straight Party,,Undervotes,,14,99,55,168
+Rains,102,Straight Party,,Undervotes,,6,46,30,82
+Rains,203,Straight Party,,Undervotes,,21,111,47,179
+Rains,204,Straight Party,,Undervotes,,8,51,14,73
+Rains,305,Straight Party,,Undervotes,,18,73,36,127
+Rains,306,Straight Party,,Undervotes,,10,100,35,145
+Rains,407,Straight Party,,Undervotes,,4,77,44,125
+Rains,408,Straight Party,,Undervotes,,5,61,49,115
+Rains,Total,Straight Party,,Undervotes,,86,618,310,1014
+Rains,101,Straight Party,,Overvotes,,0,0,0,0
+Rains,102,Straight Party,,Overvotes,,0,0,1,0
+Rains,203,Straight Party,,Overvotes,,0,0,0,0
+Rains,204,Straight Party,,Overvotes,,0,0,0,0
+Rains,305,Straight Party,,Overvotes,,0,0,0,0
+Rains,306,Straight Party,,Overvotes,,0,0,0,0
+Rains,407,Straight Party,,Overvotes,,0,0,0,0
+Rains,408,Straight Party,,Overvotes,,0,0,0,0
+Rains,Total,Straight Party,,Overvotes,,0,0,1,0
+Rains,101,U.S. Senate,,Ted Cruz,REP,32,401,187,620
+Rains,102,U.S. Senate,,Ted Cruz,REP,23,165,127,315
+Rains,203,U.S. Senate,,Ted Cruz,REP,47,497,193,737
+Rains,204,U.S. Senate,,Ted Cruz,REP,29,220,57,306
+Rains,305,U.S. Senate,,Ted Cruz,REP,43,287,111,441
+Rains,306,U.S. Senate,,Ted Cruz,REP,24,282,111,417
+Rains,407,U.S. Senate,,Ted Cruz,REP,22,312,138,472
+Rains,408,U.S. Senate,,Ted Cruz,REP,28,205,161,394
+Rains,Total,U.S. Senate,,Ted Cruz,REP,248,2369,1085,3702
+Rains,101,U.S. Senate,,Beto O'Rourke,DEM,9,39,21,69
+Rains,102,U.S. Senate,,Beto O'Rourke,DEM,16,35,25,76
+Rains,203,U.S. Senate,,Beto O'Rourke,DEM,13,72,16,101
+Rains,204,U.S. Senate,,Beto O'Rourke,DEM,6,31,6,43
+Rains,305,U.S. Senate,,Beto O'Rourke,DEM,13,48,30,91
+Rains,306,U.S. Senate,,Beto O'Rourke,DEM,16,78,49,143
+Rains,407,U.S. Senate,,Beto O'Rourke,DEM,6,47,26,79
+Rains,408,U.S. Senate,,Beto O'Rourke,DEM,9,41,29,79
+Rains,Total,U.S. Senate,,Beto O'Rourke,DEM,88,391,202,681
+Rains,101,U.S. Senate,,Neal M. Dikeman,LIB,0,1,2,3
+Rains,102,U.S. Senate,,Neal M. Dikeman,LIB,0,1,2,3
+Rains,203,U.S. Senate,,Neal M. Dikeman,LIB,2,0,2,4
+Rains,204,U.S. Senate,,Neal M. Dikeman,LIB,0,0,1,1
+Rains,305,U.S. Senate,,Neal M. Dikeman,LIB,0,1,1,2
+Rains,306,U.S. Senate,,Neal M. Dikeman,LIB,0,0,0,0
+Rains,407,U.S. Senate,,Neal M. Dikeman,LIB,0,3,3,6
+Rains,408,U.S. Senate,,Neal M. Dikeman,LIB,0,3,1,4
+Rains,Total,U.S. Senate,,Neal M. Dikeman,LIB,2,9,12,23
+Rains,101,U.S. Senate,,Cast Votes,,41,441,210,692
+Rains,102,U.S. Senate,,Cast Votes,,39,201,154,394
+Rains,203,U.S. Senate,,Cast Votes,,62,569,211,842
+Rains,204,U.S. Senate,,Cast Votes,,35,251,64,350
+Rains,305,U.S. Senate,,Cast Votes,,56,336,142,534
+Rains,306,U.S. Senate,,Cast Votes,,40,360,160,560
+Rains,407,U.S. Senate,,Cast Votes,,28,362,167,557
+Rains,408,U.S. Senate,,Cast Votes,,37,249,191,477
+Rains,Total,U.S. Senate,,Cast Votes,,338,2769,1299,4406
+Rains,101,U.S. Senate,,Undervotes,,0,4,2,6
+Rains,102,U.S. Senate,,Undervotes,,0,1,0,1
+Rains,203,U.S. Senate,,Undervotes,,0,2,1,3
+Rains,204,U.S. Senate,,Undervotes,,0,0,1,1
+Rains,305,U.S. Senate,,Undervotes,,0,0,0,0
+Rains,306,U.S. Senate,,Undervotes,,0,2,0,2
+Rains,407,U.S. Senate,,Undervotes,,0,2,0,0
+Rains,408,U.S. Senate,,Undervotes,,0,0,0,0
+Rains,Total,U.S. Senate,,Undervotes,,0,11,4,13
+Rains,101,U.S. Senate,,Overvotes,,0,0,0,0
+Rains,102,U.S. Senate,,Overvotes,,0,0,0,0
+Rains,203,U.S. Senate,,Overvotes,,0,0,0,0
+Rains,204,U.S. Senate,,Overvotes,,0,0,0,0
+Rains,305,U.S. Senate,,Overvotes,,0,0,0,0
+Rains,306,U.S. Senate,,Overvotes,,0,0,0,0
+Rains,407,U.S. Senate,,Overvotes,,0,0,0,0
+Rains,408,U.S. Senate,,Overvotes,,0,0,0,0
+Rains,Total,U.S. Senate,,Overvotes,,0,0,0,0
+Rains,101,U.S. House,4,John Ratcliffe,REP,31,34,183,608
+Rains,102,U.S. House,4,John Ratcliffe,REP,24,166,126,316
+Rains,203,U.S. House,4,John Ratcliffe,REP,45,487,190,722
+Rains,204,U.S. House,4,John Ratcliffe,REP,29,216,56,301
+Rains,305,U.S. House,4,John Ratcliffe,REP,43,285,114,442
+Rains,306,U.S. House,4,John Ratcliffe,REP,24,276,111,411
+Rains,407,U.S. House,4,John Ratcliffe,REP,22,307,138,467
+Rains,408,U.S. House,4,John Ratcliffe,REP,28,199,161,388
+Rains,Total,U.S. House,4,John Ratcliffe,REP,246,1970,1079,3655
+Rains,101,U.S. House,4,Catherine Krantz,DEM,10,44,21,75
+Rains,102,U.S. House,4,Catherine Krantz,DEM,15,32,24,71
+Rains,203,U.S. House,4,Catherine Krantz,DEM,14,78,18,110
+Rains,204,U.S. House,4,Catherine Krantz,DEM,6,31,8,45
+Rains,305,U.S. House,4,Catherine Krantz,DEM,11,42,25,78
+Rains,306,U.S. House,4,Catherine Krantz,DEM,16,79,47,142
+Rains,407,U.S. House,4,Catherine Krantz,DEM,6,51,24,81
+Rains,408,U.S. House,4,Catherine Krantz,DEM,8,40,28,76
+Rains,Total,U.S. House,4,Catherine Krantz,DEM,86,397,195,678
+Rains,101,U.S. House,4,Ken Ashby,LIB,0,3,4,7
+Rains,102,U.S. House,4,Ken Ashby,LIB,0,1,2,3
+Rains,203,U.S. House,4,Ken Ashby,LIB,3,1,3,7
+Rains,204,U.S. House,4,Ken Ashby,LIB,0,1,0,1
+Rains,305,U.S. House,4,Ken Ashby,LIB,1,4,2,7
+Rains,306,U.S. House,4,Ken Ashby,LIB,0,1,1,2
+Rains,407,U.S. House,4,Ken Ashby,LIB,0,3,2,5
+Rains,408,U.S. House,4,Ken Ashby,LIB,1,4,1,6
+Rains,Total,U.S. House,4,Ken Ashby,LIB,5,18,15,38
+Rains,101,U.S. House,4,Cast Votes,,41,441,208,690
+Rains,102,U.S. House,4,Cast Votes,,39,199,152,390
+Rains,203,U.S. House,4,Cast Votes,,62,566,211,839
+Rains,204,U.S. House,4,Cast Votes,,35,248,64,347
+Rains,305,U.S. House,4,Cast Votes,,55,331,141,527
+Rains,306,U.S. House,4,Cast Votes,,40,356,159,555
+Rains,407,U.S. House,4,Cast Votes,,28,351,164,553
+Rains,408,U.S. House,4,Cast Votes,,37,243,190,470
+Rains,Total,U.S. House,4,Cast Votes,,337,2735,1289,4371
+Rains,101,U.S. House,4,Undervotes,,0,4,4,8
+Rains,102,U.S. House,4,Undervotes,,0,3,2,5
+Rains,203,U.S. House,4,Undervotes,,0,5,1,6
+Rains,204,U.S. House,4,Undervotes,,0,3,1,4
+Rains,305,U.S. House,4,Undervotes,,1,5,1,7
+Rains,306,U.S. House,4,Undervotes,,0,6,1,7
+Rains,407,U.S. House,4,Undervotes,,0,3,3,6
+Rains,408,U.S. House,4,Undervotes,,0,6,1,7
+Rains,Total,U.S. House,4,Undervotes,,1,35,14,50
+Rains,101,U.S. House,4,Overvotes,,0,0,0,0
+Rains,102,U.S. House,4,Overvotes,,0,0,0,0
+Rains,203,U.S. House,4,Overvotes,,0,0,0,0
+Rains,204,U.S. House,4,Overvotes,,0,0,0,0
+Rains,305,U.S. House,4,Overvotes,,0,0,0,0
+Rains,306,U.S. House,4,Overvotes,,0,0,0,0
+Rains,407,U.S. House,4,Overvotes,,0,0,0,0
+Rains,408,U.S. House,4,Overvotes,,0,0,0,0
+Rains,Total,U.S. House,4,Overvotes,,0,0,0,0
+Rains,101,Governor,,Greg Abbott,REP,34,406,192,632
+Rains,102,Governor,,Greg Abbott,REP,27,175,126,328
+Rains,203,Governor,,Greg Abbott,REP,53,504,199,756
+Rains,204,Governor,,Greg Abbott,REP,30,222,61,313
+Rains,305,Governor,,Greg Abbott,REP,45,298,118,461
+Rains,306,Governor,,Greg Abbott,REP,25,286,117,428
+Rains,407,Governor,,Greg Abbott,REP,23,323,143,489
+Rains,408,Governor,,Greg Abbott,REP,28,209,166,403
+Rains,Total,Governor,,Greg Abbott,REP,265,2423,1122,3810
+Rains,101,Governor,,Lupe Valdez,DEM,7,34,18,59
+Rains,102,Governor,,Lupe Valdez,DEM,12,25,26,63
+Rains,203,Governor,,Lupe Valdez,DEM,8,63,11,82
+Rains,204,Governor,,Lupe Valdez,DEM,5,29,4,38
+Rains,305,Governor,,Lupe Valdez,DEM,10,35,20,65
+Rains,306,Governor,,Lupe Valdez,DEM,15,73,42,130
+Rains,407,Governor,,Lupe Valdez,DEM,5,39,21,55
+Rains,408,Governor,,Lupe Valdez,DEM,8,35,21,64
+Rains,Total,Governor,,Lupe Valdez,DEM,70,333,163,556
+Rains,101,Governor,,Mark Jay Tippetts,LIB,0,1,2,3
+Rains,102,Governor,,Mark Jay Tippetts,LIB,0,2,1,3
+Rains,203,Governor,,Mark Jay Tippetts,LIB,0,2,1,3
+Rains,204,Governor,,Mark Jay Tippetts,LIB,0,0,0,0
+Rains,305,Governor,,Mark Jay Tippetts,LIB,0,2,4,6
+Rains,306,Governor,,Mark Jay Tippetts,LIB,0,2,0,2
+Rains,407,Governor,,Mark Jay Tippetts,LIB,0,2,3,5
+Rains,408,Governor,,Mark Jay Tippetts,LIB,1,4,4,9
+Rains,Total,Governor,,Mark Jay Tippetts,LIB,1,15,15,31
+Rains,101,Governor,,Cast Votes,,41,441,212,694
+Rains,102,Governor,,Cast Votes,,39,202,153,394
+Rains,203,Governor,,Cast Votes,,61,569,211,841
+Rains,204,Governor,,Cast Votes,,35,251,65,351
+Rains,305,Governor,,Cast Votes,,55,335,142,532
+Rains,306,Governor,,Cast Votes,,40,361,159,560
+Rains,407,Governor,,Cast Votes,,28,364,167,559
+Rains,408,Governor,,Cast Votes,,37,248,191,476
+Rains,Total,Governor,,Cast Votes,,336,2771,1300,4407
+Rains,101,Governor,,Undervotes,,0,4,0,4
+Rains,102,Governor,,Undervotes,,0,0,1,1
+Rains,203,Governor,,Undervotes,,0,0,1,1
+Rains,204,Governor,,Undervotes,,0,0,0,0
+Rains,305,Governor,,Undervotes,,1,0,2,0
+Rains,306,Governor,,Undervotes,,0,0,1,1
+Rains,407,Governor,,Undervotes,,0,0,0,0
+Rains,408,Governor,,Undervotes,,1,0,1,0
+Rains,Total,Governor,,Undervotes,,2,4,6,7
+Rains,101,Governor,,Overvotes,,0,0,0,0
+Rains,102,Governor,,Overvotes,,0,0,0,0
+Rains,203,Governor,,Overvotes,,1,2,1,0
+Rains,204,Governor,,Overvotes,,0,0,0,0
+Rains,305,Governor,,Overvotes,,0,0,0,0
+Rains,306,Governor,,Overvotes,,1,1,2,0
+Rains,407,Governor,,Overvotes,,0,0,0,0
+Rains,408,Governor,,Overvotes,,0,0,0,0
+Rains,Total,Governor,,Overvotes,,2,3,3,0
+Rains,101,Lieutenant Governor,,Dan Patrick,REP,29,389,179,597
+Rains,102,Lieutenant Governor,,Dan Patrick,REP,26,168,120,314
+Rains,203,Lieutenant Governor,,Dan Patrick,REP,45,493,193,731
+Rains,204,Lieutenant Governor,,Dan Patrick,REP,29,215,58,302
+Rains,305,Lieutenant Governor,,Dan Patrick,REP,45,286,110,441
+Rains,306,Lieutenant Governor,,Dan Patrick,REP,24,272,104,400
+Rains,407,Lieutenant Governor,,Dan Patrick,REP,21,308,139,468
+Rains,408,Lieutenant Governor,,Dan Patrick,REP,28,203,154,385
+Rains,Total,Lieutenant Governor,,Dan Patrick,REP,247,2334,1057,3638
+Rains,101,Lieutenant Governor,,Mike Collier,DEM,11,45,24,80
+Rains,102,Lieutenant Governor,,Mike Collier,DEM,13,32,26,71
+Rains,203,Lieutenant Governor,,Mike Collier,DEM,14,74,15,103
+Rains,204,Lieutenant Governor,,Mike Collier,DEM,6,34,6,46
+Rains,305,Lieutenant Governor,,Mike Collier,DEM,10,42,30,82
+Rains,306,Lieutenant Governor,,Mike Collier,DEM,16,83,52,151
+Rains,407,Lieutenant Governor,,Mike Collier,DEM,6,52,26,84
+Rains,408,Lieutenant Governor,,Mike Collier,DEM,8,42,30,80
+Rains,Total,Lieutenant Governor,,Mike Collier,DEM,84,404,209,697
+Rains,101,Lieutenant Governor,,Kerry Douglas McKennon,LIB,1,4,6,11
+Rains,102,Lieutenant Governor,,Kerry Douglas McKennon,LIB,0,2,6,8
+Rains,203,Lieutenant Governor,,Kerry Douglas McKennon,LIB,2,1,3,6
+Rains,204,Lieutenant Governor,,Kerry Douglas McKennon,LIB,0,2,1,3
+Rains,305,Lieutenant Governor,,Kerry Douglas McKennon,LIB,0,7,2,9
+Rains,306,Lieutenant Governor,,Kerry Douglas McKennon,LIB,0,5,2,7
+Rains,407,Lieutenant Governor,,Kerry Douglas McKennon,LIB,1,2,2,5
+Rains,408,Lieutenant Governor,,Kerry Douglas McKennon,LIB,1,4,4,9
+Rains,Total,Lieutenant Governor,,Kerry Douglas McKennon,LIB,5,27,26,58
+Rains,101,Lieutenant Governor,,Cast Votes,,41,438,209,688
+Rains,102,Lieutenant Governor,,Cast Votes,,39,202,152,393
+Rains,203,Lieutenant Governor,,Cast Votes,,61,568,211,840
+Rains,204,Lieutenant Governor,,Cast Votes,,35,251,65,351
+Rains,305,Lieutenant Governor,,Cast Votes,,55,335,142,532
+Rains,306,Lieutenant Governor,,Cast Votes,,40,360,158,558
+Rains,407,Lieutenant Governor,,Cast Votes,,28,362,167,557
+Rains,408,Lieutenant Governor,,Cast Votes,,37,249,188,474
+Rains,Total,Lieutenant Governor,,Cast Votes,,336,2765,1292,4393
+Rains,101,Lieutenant Governor,,Undervotes,,0,7,3,10
+Rains,102,Lieutenant Governor,,Undervotes,,0,0,7,2
+Rains,203,Lieutenant Governor,,Undervotes,,1,3,1,0
+Rains,204,Lieutenant Governor,,Undervotes,,0,0,0,0
+Rains,305,Lieutenant Governor,,Undervotes,,1,1,2,0
+Rains,306,Lieutenant Governor,,Undervotes,,0,2,2,4
+Rains,407,Lieutenant Governor,,Undervotes,,2,0,2,0
+Rains,408,Lieutenant Governor,,Undervotes,,0,0,3,3
+Rains,Total,Lieutenant Governor,,Undervotes,,4,13,20,19
+Rains,101,Lieutenant Governor,,Overvotes,,0,0,0,0
+Rains,102,Lieutenant Governor,,Overvotes,,0,0,0,0
+Rains,203,Lieutenant Governor,,Overvotes,,0,0,0,0
+Rains,204,Lieutenant Governor,,Overvotes,,0,0,0,0
+Rains,305,Lieutenant Governor,,Overvotes,,0,0,0,0
+Rains,306,Lieutenant Governor,,Overvotes,,0,0,0,0
+Rains,407,Lieutenant Governor,,Overvotes,,0,0,0,0
+Rains,408,Lieutenant Governor,,Overvotes,,0,0,0,0
+Rains,Total,Lieutenant Governor,,Overvotes,,0,0,0,0
+Rains,101,Attorney General,,Ken Paxton,REP,29,387,183,599
+Rains,102,Attorney General,,Ken Paxton,REP,23,161,119,303
+Rains,203,Attorney General,,Ken Paxton,REP,45,490,191,726
+Rains,204,Attorney General,,Ken Paxton,REP,29,213,57,299
+Rains,305,Attorney General,,Ken Paxton,REP,41,275,108,424
+Rains,306,Attorney General,,Ken Paxton,REP,24,276,109,409
+Rains,407,Attorney General,,Ken Paxton,REP,22,303,136,461
+Rains,408,Attorney General,,Ken Paxton,REP,28,197,152,377
+Rains,Total,Attorney General,,Ken Paxton,REP,241,2302,1055,3598
+Rains,101,Attorney General,,Justin Nelson,DEM,11,45,22,78
+Rains,102,Attorney General,,Justin Nelson,DEM,16,39,30,85
+Rains,203,Attorney General,,Justin Nelson,DEM,14,72,18,104
+Rains,204,Attorney General,,Justin Nelson,DEM,6,31,7,44
+Rains,305,Attorney General,,Justin Nelson,DEM,12,49,30,91
+Rains,306,Attorney General,,Justin Nelson,DEM,16,79,47,142
+Rains,407,Attorney General,,Justin Nelson,DEM,6,55,25,86
+Rains,408,Attorney General,,Justin Nelson,DEM,8,45,31,84
+Rains,Total,Attorney General,,Justin Nelson,DEM,89,415,210,714
+Rains,101,Attorney General,,Michael Ray Harris,LIB,1,7,4,12
+Rains,102,Attorney General,,Michael Ray Harris,LIB,0,1,4,5
+Rains,203,Attorney General,,Michael Ray Harris,LIB,2,5,2,9
+Rains,204,Attorney General,,Michael Ray Harris,LIB,0,6,1,7
+Rains,305,Attorney General,,Michael Ray Harris,LIB,2,11,3,16
+Rains,306,Attorney General,,Michael Ray Harris,LIB,0,4,3,7
+Rains,407,Attorney General,,Michael Ray Harris,LIB,0,3,4,7
+Rains,408,Attorney General,,Michael Ray Harris,LIB,1,5,6,12
+Rains,Total,Attorney General,,Michael Ray Harris,LIB,6,42,27,75
+Rains,101,Attorney General,,Cast Votes,,41,439,209,689
+Rains,102,Attorney General,,Cast Votes,,39,201,153,393
+Rains,203,Attorney General,,Cast Votes,,61,567,211,839
+Rains,204,Attorney General,,Cast Votes,,35,250,65,350
+Rains,305,Attorney General,,Cast Votes,,55,335,141,531
+Rains,306,Attorney General,,Cast Votes,,40,359,159,558
+Rains,407,Attorney General,,Cast Votes,,28,361,165,554
+Rains,408,Attorney General,,Cast Votes,,37,247,189,473
+Rains,Total,Attorney General,,Cast Votes,,336,2759,1292,4387
+Rains,101,Attorney General,,Undervotes,,0,6,3,9
+Rains,102,Attorney General,,Undervotes,,0,1,1,2
+Rains,203,Attorney General,,Undervotes,,1,4,1,6
+Rains,204,Attorney General,,Undervotes,,0,1,0,1
+Rains,305,Attorney General,,Undervotes,,1,3,0,0
+Rains,306,Attorney General,,Undervotes,,0,3,1,4
+Rains,407,Attorney General,,Undervotes,,0,3,2,5
+Rains,408,Attorney General,,Undervotes,,0,2,2,4
+Rains,Total,Attorney General,,Undervotes,,2,23,10,31
+Rains,101,Attorney General,,Overvotes,,0,0,0,0
+Rains,102,Attorney General,,Overvotes,,0,0,0,0
+Rains,203,Attorney General,,Overvotes,,0,0,0,0
+Rains,204,Attorney General,,Overvotes,,0,0,0,0
+Rains,305,Attorney General,,Overvotes,,0,0,0,0
+Rains,306,Attorney General,,Overvotes,,0,0,0,0
+Rains,407,Attorney General,,Overvotes,,0,0,0,0
+Rains,408,Attorney General,,Overvotes,,0,0,0,0
+Rains,Total,Attorney General,,Overvotes,,0,0,0,0
+Rains,101,Comptroller of Public Accounts,,Glenn Hegar,REP,32,395,186,613
+Rains,102,Comptroller of Public Accounts,,Glenn Hegar,REP,26,169,124,319
+Rains,203,Comptroller of Public Accounts,,Glenn Hegar,REP,49,498,196,743
+Rains,204,Comptroller of Public Accounts,,Glenn Hegar,REP,29,219,56,304
+Rains,305,Comptroller of Public Accounts,,Glenn Hegar,REP,45,285,110,440
+Rains,306,Comptroller of Public Accounts,,Glenn Hegar,REP,24,276,113,413
+Rains,407,Comptroller of Public Accounts,,Glenn Hegar,REP,22,308,133,463
+Rains,408,Comptroller of Public Accounts,,Glenn Hegar,REP,28,200,156,384
+Rains,Total,Comptroller of Public Accounts,,Glenn Hegar,REP,255,2350,1074,3679
+Rains,101,Comptroller of Public Accounts,,Joi Chevalier,DEM,9,33,17,59
+Rains,102,Comptroller of Public Accounts,,Joi Chevalier,DEM,13,29,23,65
+Rains,203,Comptroller of Public Accounts,,Joi Chevalier,DEM,10,65,12,87
+Rains,204,Comptroller of Public Accounts,,Joi Chevalier,DEM,6,27,7,40
+Rains,305,Comptroller of Public Accounts,,Joi Chevalier,DEM,9,38,24,71
+Rains,306,Comptroller of Public Accounts,,Joi Chevalier,DEM,16,74,44,134
+Rains,407,Comptroller of Public Accounts,,Joi Chevalier,DEM,6,46,23,75
+Rains,408,Comptroller of Public Accounts,,Joi Chevalier,DEM,8,40,26,74
+Rains,Total,Comptroller of Public Accounts,,Joi Chevalier,DEM,77,352,176,605
+Rains,101,Comptroller of Public Accounts,,Ben Sanders,LIB,0,8,4,12
+Rains,102,Comptroller of Public Accounts,,Ben Sanders,LIB,0,2,5,7
+Rains,203,Comptroller of Public Accounts,,Ben Sanders,LIB,2,5,4,11
+Rains,204,Comptroller of Public Accounts,,Ben Sanders,LIB,0,4,2,6
+Rains,305,Comptroller of Public Accounts,,Ben Sanders,LIB,1,9,5,15
+Rains,306,Comptroller of Public Accounts,,Ben Sanders,LIB,0,8,1,9
+Rains,407,Comptroller of Public Accounts,,Ben Sanders,LIB,0,5,5,10
+Rains,408,Comptroller of Public Accounts,,Ben Sanders,LIB,1,8,7,16
+Rains,Total,Comptroller of Public Accounts,,Ben Sanders,LIB,4,49,33,86
+Rains,101,Comptroller of Public Accounts,,Cast Votes,,41,436,207,684
+Rains,102,Comptroller of Public Accounts,,Cast Votes,,39,200,152,391
+Rains,203,Comptroller of Public Accounts,,Cast Votes,,61,568,212,841
+Rains,204,Comptroller of Public Accounts,,Cast Votes,,35,250,65,350
+Rains,305,Comptroller of Public Accounts,,Cast Votes,,55,332,139,526
+Rains,306,Comptroller of Public Accounts,,Cast Votes,,40,358,158,556
+Rains,407,Comptroller of Public Accounts,,Cast Votes,,28,359,161,548
+Rains,408,Comptroller of Public Accounts,,Cast Votes,,37,189,474,700
+Rains,Total,Comptroller of Public Accounts,,Cast Votes,,336,2692,1568,4596
+Rains,101,Comptroller of Public Accounts,,Undervotes,,0,9,5,14
+Rains,102,Comptroller of Public Accounts,,Undervotes,,4,2,2,4
+Rains,203,Comptroller of Public Accounts,,Undervotes,,0,0,0,0
+Rains,204,Comptroller of Public Accounts,,Undervotes,,0,1,0,1
+Rains,305,Comptroller of Public Accounts,,Undervotes,,1,4,3,8
+Rains,306,Comptroller of Public Accounts,,Undervotes,,0,4,2,6
+Rains,407,Comptroller of Public Accounts,,Undervotes,,0,0,0,0
+Rains,408,Comptroller of Public Accounts,,Undervotes,,0,1,2,3
+Rains,Total,Comptroller of Public Accounts,,Undervotes,,5,21,14,36
+Rains,101,Comptroller of Public Accounts,,Overvotes,,0,0,0,0
+Rains,102,Comptroller of Public Accounts,,Overvotes,,0,0,0,0
+Rains,203,Comptroller of Public Accounts,,Overvotes,,1,3,0,4
+Rains,204,Comptroller of Public Accounts,,Overvotes,,0,0,0,0
+Rains,305,Comptroller of Public Accounts,,Overvotes,,0,0,0,0
+Rains,306,Comptroller of Public Accounts,,Overvotes,,0,0,0,0
+Rains,407,Comptroller of Public Accounts,,Overvotes,,0,5,6,11
+Rains,408,Comptroller of Public Accounts,,Overvotes,,0,0,0,0
+Rains,Total,Comptroller of Public Accounts,,Overvotes,,1,8,6,15
+Rains,101,Commissioner of the General Land Office,,George P. Bush,REP,30,397,178,605
+Rains,102,Commissioner of the General Land Office,,George P. Bush,REP,26,174,126,326
+Rains,203,Commissioner of the General Land Office,,George P. Bush,REP,48,497,195,740
+Rains,204,Commissioner of the General Land Office,,George P. Bush,REP,27,213,56,296
+Rains,305,Commissioner of the General Land Office,,George P. Bush,REP,45,284,114,443
+Rains,306,Commissioner of the General Land Office,,George P. Bush,REP,24,281,110,415
+Rains,407,Commissioner of the General Land Office,,George P. Bush,REP,22,310,139,471
+Rains,408,Commissioner of the General Land Office,,George P. Bush,REP,29,206,159,394
+Rains,Total,Commissioner of the General Land Office,,George P. Bush,REP,251,2362,1077,3690
+Rains,101,Commissioner of the General Land Office,,Miguel Suazo,DEM,10,34,20,64
+Rains,102,Commissioner of the General Land Office,,Miguel Suazo,DEM,13,25,23,61
+Rains,203,Commissioner of the General Land Office,,Miguel Suazo,DEM,11,60,13,84
+Rains,204,Commissioner of the General Land Office,,Miguel Suazo,DEM,6,28,6,40
+Rains,305,Commissioner of the General Land Office,,Miguel Suazo,DEM,9,40,24,73
+Rains,306,Commissioner of the General Land Office,,Miguel Suazo,DEM,16,70,45,131
+Rains,407,Commissioner of the General Land Office,,Miguel Suazo,DEM,6,48,22,76
+Rains,408,Commissioner of the General Land Office,,Miguel Suazo,DEM,7,38,27,72
+Rains,Total,Commissioner of the General Land Office,,Miguel Suazo,DEM,78,343,180,601
+Rains,101,Commissioner of the General Land Office,,Matt Piña,LIB,1,7,11,19
+Rains,102,Commissioner of the General Land Office,,Matt Piña,LIB,0,3,4,7
+Rains,203,Commissioner of the General Land Office,,Matt Piña,LIB,1,11,3,15
+Rains,204,Commissioner of the General Land Office,,Matt Piña,LIB,2,6,2,10
+Rains,305,Commissioner of the General Land Office,,Matt Piña,LIB,1,8,3,12
+Rains,306,Commissioner of the General Land Office,,Matt Piña,LIB,0,8,2,10
+Rains,407,Commissioner of the General Land Office,,Matt Piña,LIB,0,5,5,10
+Rains,408,Commissioner of the General Land Office,,Matt Piña,LIB,1,5,4,10
+Rains,Total,Commissioner of the General Land Office,,Matt Piña,LIB,6,53,34,93
+Rains,101,Commissioner of the General Land Office,,Cast Votes,,41,438,209,688
+Rains,102,Commissioner of the General Land Office,,Cast Votes,,39,202,153,394
+Rains,203,Commissioner of the General Land Office,,Cast Votes,,60,568,211,839
+Rains,204,Commissioner of the General Land Office,,Cast Votes,,35,247,64,346
+Rains,305,Commissioner of the General Land Office,,Cast Votes,,55,332,141,528
+Rains,306,Commissioner of the General Land Office,,Cast Votes,,40,359,157,556
+Rains,407,Commissioner of the General Land Office,,Cast Votes,,28,363,166,557
+Rains,408,Commissioner of the General Land Office,,Cast Votes,,37,249,190,476
+Rains,Total,Commissioner of the General Land Office,,Cast Votes,,335,2758,1291,4384
+Rains,101,Commissioner of the General Land Office,,Undervotes,,0,7,3,10
+Rains,102,Commissioner of the General Land Office,,Undervotes,,0,0,1,1
+Rains,203,Commissioner of the General Land Office,,Undervotes,,0,0,0,0
+Rains,204,Commissioner of the General Land Office,,Undervotes,,0,4,1,5
+Rains,305,Commissioner of the General Land Office,,Undervotes,,1,4,1,6
+Rains,306,Commissioner of the General Land Office,,Undervotes,,0,3,3,6
+Rains,407,Commissioner of the General Land Office,,Undervotes,,0,1,1,2
+Rains,408,Commissioner of the General Land Office,,Undervotes,,0,0,1,1
+Rains,Total,Commissioner of the General Land Office,,Undervotes,,1,19,11,31
+Rains,101,Commissioner of the General Land Office,,Overvotes,,0,0,0,0
+Rains,102,Commissioner of the General Land Office,,Overvotes,,0,0,0,0
+Rains,203,Commissioner of the General Land Office,,Overvotes,,2,3,1,6
+Rains,204,Commissioner of the General Land Office,,Overvotes,,0,0,0,0
+Rains,305,Commissioner of the General Land Office,,Overvotes,,0,0,0,0
+Rains,306,Commissioner of the General Land Office,,Overvotes,,0,0,0,0
+Rains,407,Commissioner of the General Land Office,,Overvotes,,0,0,0,0
+Rains,408,Commissioner of the General Land Office,,Overvotes,,0,0,0,0
+Rains,Total,Commissioner of the General Land Office,,Overvotes,,2,3,1,6
+Rains,101,Commissioner of Agriculture,,Sid Miller,REP,30,396,182,608
+Rains,102,Commissioner of Agriculture,,Sid Miller,REP,23,164,122,309
+Rains,203,Commissioner of Agriculture,,Sid Miller,REP,47,500,192,739
+Rains,204,Commissioner of Agriculture,,Sid Miller,REP,29,216,56,301
+Rains,305,Commissioner of Agriculture,,Sid Miller,REP,42,283,110,435
+Rains,306,Commissioner of Agriculture,,Sid Miller,REP,22,280,112,414
+Rains,407,Commissioner of Agriculture,,Sid Miller,REP,22,307,133,462
+Rains,408,Commissioner of Agriculture,,Sid Miller,REP,27,198,155,380
+Rains,Total,Commissioner of Agriculture,,Sid Miller,REP,242,2344,1062,3648
+Rains,101,Commissioner of Agriculture,,Kim Olson,DEM,11,38,19,68
+Rains,102,Commissioner of Agriculture,,Kim Olson,DEM,16,37,26,79
+Rains,203,Commissioner of Agriculture,,Kim Olson,DEM,11,66,17,94
+Rains,204,Commissioner of Agriculture,,Kim Olson,DEM,6,28,8,42
+Rains,305,Commissioner of Agriculture,,Kim Olson,DEM,10,44,26,80
+Rains,306,Commissioner of Agriculture,,Kim Olson,DEM,18,75,46,139
+Rains,407,Commissioner of Agriculture,,Kim Olson,DEM,6,47,26,79
+Rains,408,Commissioner of Agriculture,,Kim Olson,DEM,8,45,30,83
+Rains,Total,Commissioner of Agriculture,,Kim Olson,DEM,86,380,198,664
+Rains,101,Commissioner of Agriculture,,Richard Carpenter,LIB,0,5,8,13
+Rains,102,Commissioner of Agriculture,,Richard Carpenter,LIB,0,0,4,4
+Rains,203,Commissioner of Agriculture,,Richard Carpenter,LIB,3,2,3,8
+Rains,204,Commissioner of Agriculture,,Richard Carpenter,LIB,0,5,1,6
+Rains,305,Commissioner of Agriculture,,Richard Carpenter,LIB,3,5,4,12
+Rains,306,Commissioner of Agriculture,,Richard Carpenter,LIB,0,3,0,3
+Rains,407,Commissioner of Agriculture,,Richard Carpenter,LIB,0,5,3,8
+Rains,408,Commissioner of Agriculture,,Richard Carpenter,LIB,2,6,4,12
+Rains,Total,Commissioner of Agriculture,,Richard Carpenter,LIB,8,31,27,66
+Rains,101,Commissioner of Agriculture,,Cast Votes,,41,439,209,689
+Rains,102,Commissioner of Agriculture,,Cast Votes,,39,201,152,392
+Rains,203,Commissioner of Agriculture,,Cast Votes,,61,568,212,841
+Rains,204,Commissioner of Agriculture,,Cast Votes,,35,249,65,349
+Rains,305,Commissioner of Agriculture,,Cast Votes,,55,332,140,527
+Rains,306,Commissioner of Agriculture,,Cast Votes,,40,358,158,556
+Rains,407,Commissioner of Agriculture,,Cast Votes,,28,359,162,549
+Rains,408,Commissioner of Agriculture,,Cast Votes,,37,249,189,475
+Rains,Total,Commissioner of Agriculture,,Cast Votes,,336,2755,1287,4378
+Rains,101,Commissioner of Agriculture,,Undervotes,,0,6,3,9
+Rains,102,Commissioner of Agriculture,,Undervotes,,0,1,2,3
+Rains,203,Commissioner of Agriculture,,Undervotes,,1,3,0,4
+Rains,204,Commissioner of Agriculture,,Undervotes,,0,2,0,2
+Rains,305,Commissioner of Agriculture,,Undervotes,,1,4,2,7
+Rains,306,Commissioner of Agriculture,,Undervotes,,0,4,2,6
+Rains,407,Commissioner of Agriculture,,Undervotes,,0,5,5,10
+Rains,408,Commissioner of Agriculture,,Undervotes,,0,0,2,2
+Rains,Total,Commissioner of Agriculture,,Undervotes,,2,25,16,43
+Rains,101,Commissioner of Agriculture,,Overvotes,,0,0,0,0
+Rains,102,Commissioner of Agriculture,,Overvotes,,0,0,0,0
+Rains,203,Commissioner of Agriculture,,Overvotes,,0,0,0,0
+Rains,204,Commissioner of Agriculture,,Overvotes,,0,0,0,0
+Rains,305,Commissioner of Agriculture,,Overvotes,,0,0,0,0
+Rains,306,Commissioner of Agriculture,,Overvotes,,0,0,0,0
+Rains,407,Commissioner of Agriculture,,Overvotes,,0,0,0,0
+Rains,408,Commissioner of Agriculture,,Overvotes,,0,0,0,0
+Rains,Total,Commissioner of Agriculture,,Overvotes,,0,0,0,0
+Rains,101,Railroad Commissioner,,Christi Craddick,REP,34,399,181,614
+Rains,102,Railroad Commissioner,,Christi Craddick,REP,24,171,128,323
+Rains,203,Railroad Commissioner,,Christi Craddick,REP,47,496,198,741
+Rains,204,Railroad Commissioner,,Christi Craddick,REP,29,218,57,304
+Rains,305,Railroad Commissioner,,Christi Craddick,REP,43,284,111,438
+Rains,306,Railroad Commissioner,,Christi Craddick,REP,24,279,114,417
+Rains,407,Railroad Commissioner,,Christi Craddick,REP,22,312,134,468
+Rains,408,Railroad Commissioner,,Christi Craddick,REP,28,201,157,386
+Rains,Total,Railroad Commissioner,,Christi Craddick,REP,251,2360,1080,3691
+Rains,101,Railroad Commissioner,,Roman McAllen,DEM,6,35,18,59
+Rains,102,Railroad Commissioner,,Roman McAllen,DEM,15,26,20,61
+Rains,203,Railroad Commissioner,,Roman McAllen,DEM,11,63,12,86
+Rains,204,Railroad Commissioner,,Roman McAllen,DEM,6,29,6,41
+Rains,305,Railroad Commissioner,,Roman McAllen,DEM,10,37,26,73
+Rains,306,Railroad Commissioner,,Roman McAllen,DEM,16,73,43,132
+Rains,407,Railroad Commissioner,,Roman McAllen,DEM,6,46,25,77
+Rains,408,Railroad Commissioner,,Roman McAllen,DEM,8,39,27,74
+Rains,Total,Railroad Commissioner,,Roman McAllen,DEM,78,348,177,603
+Rains,101,Railroad Commissioner,,Mike Wright,LIB,1,6,9,16
+Rains,102,Railroad Commissioner,,Mike Wright,LIB,0,3,5,8
+Rains,203,Railroad Commissioner,,Mike Wright,LIB,3,5,2,10
+Rains,204,Railroad Commissioner,,Mike Wright,LIB,0,4,1,5
+Rains,305,Railroad Commissioner,,Mike Wright,LIB,2,9,4,15
+Rains,306,Railroad Commissioner,,Mike Wright,LIB,0,6,0,6
+Rains,407,Railroad Commissioner,,Mike Wright,LIB,0,2,4,6
+Rains,408,Railroad Commissioner,,Mike Wright,LIB,1,7,5,13
+Rains,Total,Railroad Commissioner,,Mike Wright,LIB,7,42,30,79
+Rains,101,Railroad Commissioner,,Cast Votes,,41,440,208,689
+Rains,102,Railroad Commissioner,,Cast Votes,,39,200,153,392
+Rains,203,Railroad Commissioner,,Cast Votes,,61,564,212,837
+Rains,204,Railroad Commissioner,,Cast Votes,,35,251,64,350
+Rains,305,Railroad Commissioner,,Cast Votes,,55,330,141,526
+Rains,306,Railroad Commissioner,,Cast Votes,,40,358,157,555
+Rains,407,Railroad Commissioner,,Cast Votes,,28,360,163,551
+Rains,408,Railroad Commissioner,,Cast Votes,,37,247,189,473
+Rains,Total,Railroad Commissioner,,Cast Votes,,336,2750,1287,4373
+Rains,101,Railroad Commissioner,,Undervotes,,0,5,4,9
+Rains,102,Railroad Commissioner,,Undervotes,,0,2,1,3
+Rains,203,Railroad Commissioner,,Undervotes,,1,7,0,8
+Rains,204,Railroad Commissioner,,Undervotes,,0,0,1,1
+Rains,305,Railroad Commissioner,,Undervotes,,1,6,1,8
+Rains,306,Railroad Commissioner,,Undervotes,,0,4,3,7
+Rains,407,Railroad Commissioner,,Undervotes,,0,4,4,8
+Rains,408,Railroad Commissioner,,Undervotes,,0,2,2,4
+Rains,Total,Railroad Commissioner,,Undervotes,,2,30,16,48
+Rains,101,Railroad Commissioner,,Overvotes,,0,0,0,0
+Rains,102,Railroad Commissioner,,Overvotes,,0,0,0,0
+Rains,203,Railroad Commissioner,,Overvotes,,0,0,0,0
+Rains,204,Railroad Commissioner,,Overvotes,,0,0,0,0
+Rains,305,Railroad Commissioner,,Overvotes,,0,0,0,0
+Rains,306,Railroad Commissioner,,Overvotes,,0,0,0,0
+Rains,407,Railroad Commissioner,,Overvotes,,0,0,0,0
+Rains,408,Railroad Commissioner,,Overvotes,,0,0,0,0
+Rains,Total,Railroad Commissioner,,Overvotes,,0,0,0,0
+Rains,101,State Senate,2,Bob Hall,REP,32,393,184,609
+Rains,102,State Senate,2,Bob Hall,REP,24,166,126,316
+Rains,203,State Senate,2,Bob Hall,REP,46,494,192,732
+Rains,204,State Senate,2,Bob Hall,REP,29,219,58,306
+Rains,305,State Senate,2,Bob Hall,REP,45,281,115,441
+Rains,306,State Senate,2,Bob Hall,REP,24,278,112,414
+Rains,407,State Senate,2,Bob Hall,REP,22,313,137,472
+Rains,408,State Senate,2,Bob Hall,REP,28,204,161,393
+Rains,Total,State Senate,2,Bob Hall,REP,250,2348,1085,3683
+Rains,101,State Senate,2,Kendall Scudder,DEM,9,45,23,77
+Rains,102,State Senate,2,Kendall Scudder,DEM,33,27,75,0
+Rains,203,State Senate,2,Kendall Scudder,DEM,14,73,18,105
+Rains,204,State Senate,2,Kendall Scudder,DEM,6,30,7,43
+Rains,305,State Senate,2,Kendall Scudder,DEM,10,49,26,85
+Rains,306,State Senate,2,Kendall Scudder,DEM,16,77,46,139
+Rains,407,State Senate,2,Kendall Scudder,DEM,6,48,25,79
+Rains,408,State Senate,2,Kendall Scudder,DEM,9,42,29,80
+Rains,Total,State Senate,2,Kendall Scudder,DEM,103,391,249,608
+Rains,101,State Senate,2,Cast Votes,,41,438,207,586
+Rains,102,State Senate,2,Cast Votes,,39,199,153,391
+Rains,203,State Senate,2,Cast Votes,,60,567,210,837
+Rains,204,State Senate,2,Cast Votes,,35,249,65,349
+Rains,305,State Senate,2,Cast Votes,,55,330,141,526
+Rains,306,State Senate,2,Cast Votes,,40,355,158,553
+Rains,407,State Senate,2,Cast Votes,,28,361,162,551
+Rains,408,State Senate,2,Cast Votes,,37,246,190,473
+Rains,Total,State Senate,2,Cast Votes,,335,2745,1286,4266
+Rains,101,State Senate,2,Undervotes,,0,7,5,12
+Rains,102,State Senate,2,Undervotes,,0,3,1,4
+Rains,203,State Senate,2,Undervotes,,2,4,2,8
+Rains,204,State Senate,2,Undervotes,,0,2,0,2
+Rains,305,State Senate,2,Undervotes,,1,6,8,0
+Rains,306,State Senate,2,Undervotes,,7,2,9,0
+Rains,407,State Senate,2,Undervotes,,0,5,0,0
+Rains,408,State Senate,2,Undervotes,,0,3,1,4
+Rains,Total,State Senate,2,Undervotes,,10,32,26,30
+Rains,101,State Senate,2,Overvotes,,0,0,0,0
+Rains,102,State Senate,2,Overvotes,,0,0,0,0
+Rains,203,State Senate,2,Overvotes,,0,0,0,0
+Rains,204,State Senate,2,Overvotes,,0,0,0,0
+Rains,305,State Senate,2,Overvotes,,0,0,0,0
+Rains,306,State Senate,2,Overvotes,,0,0,0,0
+Rains,407,State Senate,2,Overvotes,,0,0,0,0
+Rains,408,State Senate,2,Overvotes,,0,0,0,0
+Rains,Total,State Senate,2,Overvotes,,0,0,0,0
+Rains,101,State Representative,5,Cole Hefner,REP,34,403,187,624
+Rains,102,State Representative,5,Cole Hefner,REP,24,163,127,314
+Rains,203,State Representative,5,Cole Hefner,REP,47,497,198,742
+Rains,204,State Representative,5,Cole Hefner,REP,29,219,59,307
+Rains,305,State Representative,5,Cole Hefner,REP,45,291,111,447
+Rains,306,State Representative,5,Cole Hefner,REP,24,283,114,421
+Rains,407,State Representative,5,Cole Hefner,REP,22,307,141,470
+Rains,408,State Representative,5,Cole Hefner,REP,28,202,163,393
+Rains,Total,State Representative,5,Cole Hefner,REP,253,2365,1100,3718
+Rains,101,State Representative,5,Bill Liebbe,DEM,7,35,20,62
+Rains,102,State Representative,5,Bill Liebbe,DEM,15,32,26,73
+Rains,203,State Representative,5,Bill Liebbe,DEM,13,66,14,93
+Rains,204,State Representative,5,Bill Liebbe,DEM,6,29,6,41
+Rains,305,State Representative,5,Bill Liebbe,DEM,10,40,27,77
+Rains,306,State Representative,5,Bill Liebbe,DEM,15,75,44,134
+Rains,407,State Representative,5,Bill Liebbe,DEM,6,49,23,78
+Rains,408,State Representative,5,Bill Liebbe,DEM,9,38,27,74
+Rains,Total,State Representative,5,Bill Liebbe,DEM,81,364,187,632
+Rains,101,State Representative,5,Cast Votes,,41,438,207,686
+Rains,102,State Representative,5,Cast Votes,,39,195,153,387
+Rains,203,State Representative,5,Cast Votes,,60,563,212,835
+Rains,204,State Representative,5,Cast Votes,,35,248,65,348
+Rains,305,State Representative,5,Cast Votes,,55,331,138,524
+Rains,306,State Representative,5,Cast Votes,,39,358,158,555
+Rains,407,State Representative,5,Cast Votes,,28,356,164,548
+Rains,408,State Representative,5,Cast Votes,,37,240,190,467
+Rains,Total,State Representative,5,Cast Votes,,334,2729,1287,4350
+Rains,101,State Representative,5,Undervotes,,0,7,12,0
+Rains,102,State Representative,5,Undervotes,,0,7,1,8
+Rains,203,State Representative,5,Undervotes,,2,8,0,10
+Rains,204,State Representative,5,Undervotes,,0,3,0,3
+Rains,305,State Representative,5,Undervotes,,1,5,4,10
+Rains,306,State Representative,5,Undervotes,,1,4,2,7
+Rains,407,State Representative,5,Undervotes,,0,8,3,11
+Rains,408,State Representative,5,Undervotes,,0,0,0,0
+Rains,Total,State Representative,5,Undervotes,,4,42,22,49
+Rains,101,State Representative,5,Overvotes,,0,0,0,0
+Rains,102,State Representative,5,Overvotes,,0,0,0,0
+Rains,203,State Representative,5,Overvotes,,0,0,0,0
+Rains,204,State Representative,5,Overvotes,,0,0,0,0
+Rains,305,State Representative,5,Overvotes,,0,0,0,0
+Rains,306,State Representative,5,Overvotes,,0,0,0,0
+Rains,407,State Representative,5,Overvotes,,0,0,0,0
+Rains,408,State Representative,5,Overvotes,,0,9,1,10
+Rains,Total,State Representative,5,Overvotes,,0,9,1,10
