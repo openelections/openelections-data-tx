@@ -1,0 +1,513 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,provisional
+Mitchell,1,Registered Voters,,,,1155,0,0,0
+Mitchell,2,Registered Voters,,,,298,0,0,0
+Mitchell,25,Registered Voters,,,,768,0,0,0
+Mitchell,3,Registered Voters,,,,1152,0,0,0
+Mitchell,4,Registered Voters,,,,706,0,0,0
+Mitchell,46,Registered Voters,,,,475,0,0,0
+Mitchell,1,Ballots Cast,,,,515,328,187,0
+Mitchell,2,Ballots Cast,,,,131,51,80,0
+Mitchell,25,Ballots Cast,,,,235,145,89,1
+Mitchell,3,Ballots Cast,,,,482,319,163,0
+Mitchell,4,Ballots Cast,,,,330,149,181,0
+Mitchell,46,Ballots Cast,,,,232,142,90,0
+Mitchell,1,Straight Party,,REP,Republican Party,288,183,105,0
+Mitchell,2,Straight Party,,REP,Republican Party,86,33,53,0
+Mitchell,25,Straight Party,,REP,Republican Party,106,68,38,0
+Mitchell,3,Straight Party,,REP,Republican Party,273,184,89,0
+Mitchell,4,Straight Party,,REP,Republican Party,150,70,80,0
+Mitchell,46,Straight Party,,REP,Republican Party,111,69,42,0
+Mitchell,1,Straight Party,,DEM,Democratic Party,47,30,17,0
+Mitchell,2,Straight Party,,DEM,Democratic Party,3,3,0,0
+Mitchell,25,Straight Party,,DEM,Democratic Party,42,20,22,0
+Mitchell,3,Straight Party,,DEM,Democratic Party,62,41,21,0
+Mitchell,4,Straight Party,,DEM,Democratic Party,29,6,23,0
+Mitchell,46,Straight Party,,DEM,Democratic Party,20,13,7,0
+Mitchell,1,Straight Party,,LIB,Libertarian Party,0,0,0,0
+Mitchell,2,Straight Party,,LIB,Libertarian Party,0,0,0,0
+Mitchell,25,Straight Party,,LIB,Libertarian Party,1,0,1,0
+Mitchell,3,Straight Party,,LIB,Libertarian Party,3,3,0,0
+Mitchell,4,Straight Party,,LIB,Libertarian Party,2,0,2,0
+Mitchell,46,Straight Party,,LIB,Libertarian Party,2,0,2,0
+Mitchell,1,Straight Party,,,OVER VOTES,0,0,0,0
+Mitchell,2,Straight Party,,,OVER VOTES,0,0,0,0
+Mitchell,25,Straight Party,,,OVER VOTES,0,0,0,0
+Mitchell,3,Straight Party,,,OVER VOTES,0,0,0,0
+Mitchell,4,Straight Party,,,OVER VOTES,0,0,0,0
+Mitchell,46,Straight Party,,,OVER VOTES,0,0,0,0
+Mitchell,1,Straight Party,,,UNDER VOTES,180,115,65,0
+Mitchell,2,Straight Party,,,UNDER VOTES,42,15,27,0
+Mitchell,25,Straight Party,,,UNDER VOTES,86,57,28,1
+Mitchell,3,Straight Party,,,UNDER VOTES,144,91,53,0
+Mitchell,4,Straight Party,,,UNDER VOTES,149,73,76,0
+Mitchell,46,Straight Party,,,UNDER VOTES,99,60,39,0
+Mitchell,1,U.S. Senate,,REP,Ted Cruz,433,272,161,0
+Mitchell,2,U.S. Senate,,REP,Ted Cruz,126,48,78,0
+Mitchell,25,U.S. Senate,,REP,Ted Cruz,179,118,60,1
+Mitchell,3,U.S. Senate,,REP,Ted Cruz,387,255,132,0
+Mitchell,4,U.S. Senate,,REP,Ted Cruz,261,130,131,0
+Mitchell,46,U.S. Senate,,REP,Ted Cruz,199,123,76,0
+Mitchell,1,U.S. Senate,,DEM,Beto O'Rourke,79,54,25,0
+Mitchell,2,U.S. Senate,,DEM,Beto O'Rourke,4,3,1,0
+Mitchell,25,U.S. Senate,,DEM,Beto O'Rourke,56,27,29,0
+Mitchell,3,U.S. Senate,,DEM,Beto O'Rourke,93,63,30,0
+Mitchell,4,U.S. Senate,,DEM,Beto O'Rourke,59,11,48,0
+Mitchell,46,U.S. Senate,,DEM,Beto O'Rourke,32,19,13,0
+Mitchell,1,U.S. Senate,,LIB,Neal M. Dikeman,2,1,1,0
+Mitchell,2,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0,0
+Mitchell,25,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0,0
+Mitchell,3,U.S. Senate,,LIB,Neal M. Dikeman,2,1,1,0
+Mitchell,4,U.S. Senate,,LIB,Neal M. Dikeman,1,0,1,0
+Mitchell,46,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0,0
+Mitchell,1,U.S. Senate,,,OVER VOTES,0,0,0,0
+Mitchell,2,U.S. Senate,,,OVER VOTES,0,0,0,0
+Mitchell,25,U.S. Senate,,,OVER VOTES,0,0,0,0
+Mitchell,3,U.S. Senate,,,OVER VOTES,0,0,0,0
+Mitchell,4,U.S. Senate,,,OVER VOTES,0,0,0,0
+Mitchell,46,U.S. Senate,,,OVER VOTES,0,0,0,0
+Mitchell,1,U.S. Senate,,,UNDER VOTES,1,1,0,0
+Mitchell,2,U.S. Senate,,,UNDER VOTES,1,0,1,0
+Mitchell,25,U.S. Senate,,,UNDER VOTES,0,0,0,0
+Mitchell,3,U.S. Senate,,,UNDER VOTES,0,0,0,0
+Mitchell,4,U.S. Senate,,,UNDER VOTES,9,8,1,0
+Mitchell,46,U.S. Senate,,,UNDER VOTES,1,0,1,0
+Mitchell,1,U.S. House,11,REP,Mike Conaway,447,283,164,0
+Mitchell,2,U.S. House,11,REP,Mike Conaway,127,49,78,0
+Mitchell,25,U.S. House,11,REP,Mike Conaway,177,116,60,1
+Mitchell,3,U.S. House,11,REP,Mike Conaway,394,256,138,0
+Mitchell,4,U.S. House,11,REP,Mike Conaway,270,127,143,0
+Mitchell,46,U.S. House,11,REP,Mike Conaway,199,121,78,0
+Mitchell,1,U.S. House,11,DEM,Jennie Lou Leeder,65,43,22,0
+Mitchell,2,U.S. House,11,DEM,Jennie Lou Leeder,3,2,1,0
+Mitchell,25,U.S. House,11,DEM,Jennie Lou Leeder,48,21,27,0
+Mitchell,3,U.S. House,11,DEM,Jennie Lou Leeder,81,57,24,0
+Mitchell,4,U.S. House,11,DEM,Jennie Lou Leeder,43,11,32,0
+Mitchell,46,U.S. House,11,DEM,Jennie Lou Leeder,23,15,8,0
+Mitchell,1,U.S. House,11,LIB,Rhett Rosenquest Smith,2,1,1,0
+Mitchell,2,U.S. House,11,LIB,Rhett Rosenquest Smith,0,0,0,0
+Mitchell,25,U.S. House,11,LIB,Rhett Rosenquest Smith,4,3,1,0
+Mitchell,3,U.S. House,11,LIB,Rhett Rosenquest Smith,5,4,1,0
+Mitchell,4,U.S. House,11,LIB,Rhett Rosenquest Smith,1,1,0,0
+Mitchell,46,U.S. House,11,LIB,Rhett Rosenquest Smith,7,4,3,0
+Mitchell,1,U.S. House,11,,OVER VOTES,0,0,0,0
+Mitchell,2,U.S. House,11,,OVER VOTES,0,0,0,0
+Mitchell,25,U.S. House,11,,OVER VOTES,0,0,0,0
+Mitchell,3,U.S. House,11,,OVER VOTES,0,0,0,0
+Mitchell,4,U.S. House,11,,OVER VOTES,0,0,0,0
+Mitchell,46,U.S. House,11,,OVER VOTES,0,0,0,0
+Mitchell,1,U.S. House,11,,UNDER VOTES,1,1,0,0
+Mitchell,2,U.S. House,11,,UNDER VOTES,1,0,1,0
+Mitchell,25,U.S. House,11,,UNDER VOTES,6,5,1,0
+Mitchell,3,U.S. House,11,,UNDER VOTES,2,2,0,0
+Mitchell,4,U.S. House,11,,UNDER VOTES,16,10,6,0
+Mitchell,46,U.S. House,11,,UNDER VOTES,3,2,1,0
+Mitchell,1,Governor,,REP,Greg Abbott,433,271,162,0
+Mitchell,2,Governor,,REP,Greg Abbott,124,48,76,0
+Mitchell,25,Governor,,REP,Greg Abbott,178,118,59,1
+Mitchell,3,Governor,,REP,Greg Abbott,390,256,134,0
+Mitchell,4,Governor,,REP,Greg Abbott,269,128,141,0
+Mitchell,46,Governor,,REP,Greg Abbott,201,122,79,0
+Mitchell,1,Governor,,DEM,Lupe Valdez,75,51,24,0
+Mitchell,2,Governor,,DEM,Lupe Valdez,5,3,2,0
+Mitchell,25,Governor,,DEM,Lupe Valdez,54,25,29,0
+Mitchell,3,Governor,,DEM,Lupe Valdez,81,53,28,0
+Mitchell,4,Governor,,DEM,Lupe Valdez,54,17,37,0
+Mitchell,46,Governor,,DEM,Lupe Valdez,29,19,10,0
+Mitchell,1,Governor,,LIB,Mark Jay Tippetts,3,3,0,0
+Mitchell,2,Governor,,LIB,Mark Jay Tippetts,2,0,2,0
+Mitchell,25,Governor,,LIB,Mark Jay Tippetts,2,1,1,0
+Mitchell,3,Governor,,LIB,Mark Jay Tippetts,7,6,1,0
+Mitchell,4,Governor,,LIB,Mark Jay Tippetts,0,0,0,0
+Mitchell,46,Governor,,LIB,Mark Jay Tippetts,0,0,0,0
+Mitchell,1,Governor,,,OVER VOTES,0,0,0,0
+Mitchell,2,Governor,,,OVER VOTES,0,0,0,0
+Mitchell,25,Governor,,,OVER VOTES,0,0,0,0
+Mitchell,3,Governor,,,OVER VOTES,0,0,0,0
+Mitchell,4,Governor,,,OVER VOTES,0,0,0,0
+Mitchell,46,Governor,,,OVER VOTES,0,0,0,0
+Mitchell,1,Governor,,,UNDER VOTES,4,3,1,0
+Mitchell,2,Governor,,,UNDER VOTES,0,0,0,0
+Mitchell,25,Governor,,,UNDER VOTES,1,1,0,0
+Mitchell,3,Governor,,,UNDER VOTES,4,4,0,0
+Mitchell,4,Governor,,,UNDER VOTES,7,4,3,0
+Mitchell,46,Governor,,,UNDER VOTES,2,1,1,0
+Mitchell,1,Lieutenant Governor,,REP,Dan Patrick,393,247,146,0
+Mitchell,2,Lieutenant Governor,,REP,Dan Patrick,113,40,73,0
+Mitchell,25,Lieutenant Governor,,REP,Dan Patrick,162,105,57,0
+Mitchell,3,Lieutenant Governor,,REP,Dan Patrick,368,244,124,0
+Mitchell,4,Lieutenant Governor,,REP,Dan Patrick,243,115,128,0
+Mitchell,46,Lieutenant Governor,,REP,Dan Patrick,176,109,67,0
+Mitchell,1,Lieutenant Governor,,DEM,Mike Collier,108,72,36,0
+Mitchell,2,Lieutenant Governor,,DEM,Mike Collier,15,9,6,0
+Mitchell,25,Lieutenant Governor,,DEM,Mike Collier,62,33,28,1
+Mitchell,3,Lieutenant Governor,,DEM,Mike Collier,99,66,33,0
+Mitchell,4,Lieutenant Governor,,DEM,Mike Collier,70,25,45,0
+Mitchell,46,Lieutenant Governor,,DEM,Mike Collier,48,28,20,0
+Mitchell,1,Lieutenant Governor,,LIB,Kerry Douglas McKennon,7,4,3,0
+Mitchell,2,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,1,0,0
+Mitchell,25,Lieutenant Governor,,LIB,Kerry Douglas McKennon,5,3,2,0
+Mitchell,3,Lieutenant Governor,,LIB,Kerry Douglas McKennon,9,5,4,0
+Mitchell,4,Lieutenant Governor,,LIB,Kerry Douglas McKennon,2,1,1,0
+Mitchell,46,Lieutenant Governor,,LIB,Kerry Douglas McKennon,5,4,1,0
+Mitchell,1,Lieutenant Governor,,,OVER VOTES,0,0,0,0
+Mitchell,2,Lieutenant Governor,,,OVER VOTES,1,0,1,0
+Mitchell,25,Lieutenant Governor,,,OVER VOTES,0,0,0,0
+Mitchell,3,Lieutenant Governor,,,OVER VOTES,0,0,0,0
+Mitchell,4,Lieutenant Governor,,,OVER VOTES,0,0,0,0
+Mitchell,46,Lieutenant Governor,,,OVER VOTES,0,0,0,0
+Mitchell,1,Lieutenant Governor,,,UNDER VOTES,7,5,2,0
+Mitchell,2,Lieutenant Governor,,,UNDER VOTES,1,1,0,0
+Mitchell,25,Lieutenant Governor,,,UNDER VOTES,6,4,2,0
+Mitchell,3,Lieutenant Governor,,,UNDER VOTES,6,4,2,0
+Mitchell,4,Lieutenant Governor,,,UNDER VOTES,15,8,7,0
+Mitchell,46,Lieutenant Governor,,,UNDER VOTES,3,1,2,0
+Mitchell,1,Attorney General,,REP,Ken Paxton,410,257,153,0
+Mitchell,2,Attorney General,,REP,Ken Paxton,120,46,74,0
+Mitchell,25,Attorney General,,REP,Ken Paxton,168,110,57,1
+Mitchell,3,Attorney General,,REP,Ken Paxton,371,239,132,0
+Mitchell,4,Attorney General,,REP,Ken Paxton,245,116,129,0
+Mitchell,46,Attorney General,,REP,Ken Paxton,190,116,74,0
+Mitchell,1,Attorney General,,DEM,Justin Nelson,92,61,31,0
+Mitchell,2,Attorney General,,DEM,Justin Nelson,8,4,4,0
+Mitchell,25,Attorney General,,DEM,Justin Nelson,57,30,27,0
+Mitchell,3,Attorney General,,DEM,Justin Nelson,95,67,28,0
+Mitchell,4,Attorney General,,DEM,Justin Nelson,63,19,44,0
+Mitchell,46,Attorney General,,DEM,Justin Nelson,37,24,13,0
+Mitchell,1,Attorney General,,LIB,Michael Ray Harris,9,6,3,0
+Mitchell,2,Attorney General,,LIB,Michael Ray Harris,1,0,1,0
+Mitchell,25,Attorney General,,LIB,Michael Ray Harris,4,3,1,0
+Mitchell,3,Attorney General,,LIB,Michael Ray Harris,6,5,1,0
+Mitchell,4,Attorney General,,LIB,Michael Ray Harris,4,2,2,0
+Mitchell,46,Attorney General,,LIB,Michael Ray Harris,2,1,1,0
+Mitchell,1,Attorney General,,,OVER VOTES,0,0,0,0
+Mitchell,2,Attorney General,,,OVER VOTES,0,0,0,0
+Mitchell,25,Attorney General,,,OVER VOTES,0,0,0,0
+Mitchell,3,Attorney General,,,OVER VOTES,0,0,0,0
+Mitchell,4,Attorney General,,,OVER VOTES,0,0,0,0
+Mitchell,46,Attorney General,,,OVER VOTES,0,0,0,0
+Mitchell,1,Attorney General,,,UNDER VOTES,4,4,0,0
+Mitchell,2,Attorney General,,,UNDER VOTES,2,1,1,0
+Mitchell,25,Attorney General,,,UNDER VOTES,6,2,4,0
+Mitchell,3,Attorney General,,,UNDER VOTES,10,8,2,0
+Mitchell,4,Attorney General,,,UNDER VOTES,18,12,6,0
+Mitchell,46,Attorney General,,,UNDER VOTES,3,1,2,0
+Mitchell,1,Comptroller of Public Accounts,,REP,Glenn Hegar,426,271,155,0
+Mitchell,2,Comptroller of Public Accounts,,REP,Glenn Hegar,121,47,74,0
+Mitchell,25,Comptroller of Public Accounts,,REP,Glenn Hegar,168,110,57,1
+Mitchell,3,Comptroller of Public Accounts,,REP,Glenn Hegar,375,243,132,0
+Mitchell,4,Comptroller of Public Accounts,,REP,Glenn Hegar,256,124,132,0
+Mitchell,46,Comptroller of Public Accounts,,REP,Glenn Hegar,187,117,70,0
+Mitchell,1,Comptroller of Public Accounts,,DEM,Joi Chevalier,66,43,23,0
+Mitchell,2,Comptroller of Public Accounts,,DEM,Joi Chevalier,5,3,2,0
+Mitchell,25,Comptroller of Public Accounts,,DEM,Joi Chevalier,50,24,26,0
+Mitchell,3,Comptroller of Public Accounts,,DEM,Joi Chevalier,83,57,26,0
+Mitchell,4,Comptroller of Public Accounts,,DEM,Joi Chevalier,47,11,36,0
+Mitchell,46,Comptroller of Public Accounts,,DEM,Joi Chevalier,32,19,13,0
+Mitchell,1,Comptroller of Public Accounts,,LIB,Ben Sanders,11,6,5,0
+Mitchell,2,Comptroller of Public Accounts,,LIB,Ben Sanders,2,0,2,0
+Mitchell,25,Comptroller of Public Accounts,,LIB,Ben Sanders,5,3,2,0
+Mitchell,3,Comptroller of Public Accounts,,LIB,Ben Sanders,13,10,3,0
+Mitchell,4,Comptroller of Public Accounts,,LIB,Ben Sanders,4,1,3,0
+Mitchell,46,Comptroller of Public Accounts,,LIB,Ben Sanders,9,3,6,0
+Mitchell,1,Comptroller of Public Accounts,,,OVER VOTES,0,0,0,0
+Mitchell,2,Comptroller of Public Accounts,,,OVER VOTES,0,0,0,0
+Mitchell,25,Comptroller of Public Accounts,,,OVER VOTES,0,0,0,0
+Mitchell,3,Comptroller of Public Accounts,,,OVER VOTES,0,0,0,0
+Mitchell,4,Comptroller of Public Accounts,,,OVER VOTES,0,0,0,0
+Mitchell,46,Comptroller of Public Accounts,,,OVER VOTES,0,0,0,0
+Mitchell,1,Comptroller of Public Accounts,,,UNDER VOTES,12,8,4,0
+Mitchell,2,Comptroller of Public Accounts,,,UNDER VOTES,3,1,2,0
+Mitchell,25,Comptroller of Public Accounts,,,UNDER VOTES,12,8,4,0
+Mitchell,3,Comptroller of Public Accounts,,,UNDER VOTES,11,9,2,0
+Mitchell,4,Comptroller of Public Accounts,,,UNDER VOTES,23,13,10,0
+Mitchell,46,Comptroller of Public Accounts,,,UNDER VOTES,4,3,1,0
+Mitchell,1,Commissioner of the General Land Office,,REP,George P. Bush,423,263,160,0
+Mitchell,2,Commissioner of the General Land Office,,REP,George P. Bush,112,41,71,0
+Mitchell,25,Commissioner of the General Land Office,,REP,George P. Bush,159,102,56,1
+Mitchell,3,Commissioner of the General Land Office,,REP,George P. Bush,377,246,131,0
+Mitchell,4,Commissioner of the General Land Office,,REP,George P. Bush,244,115,129,0
+Mitchell,46,Commissioner of the General Land Office,,REP,George P. Bush,175,103,72,0
+Mitchell,1,Commissioner of the General Land Office,,DEM,Miguel Suazo,74,50,24,0
+Mitchell,2,Commissioner of the General Land Office,,DEM,Miguel Suazo,10,4,6,0
+Mitchell,25,Commissioner of the General Land Office,,DEM,Miguel Suazo,54,28,26,0
+Mitchell,3,Commissioner of the General Land Office,,DEM,Miguel Suazo,79,54,25,0
+Mitchell,4,Commissioner of the General Land Office,,DEM,Miguel Suazo,52,17,35,0
+Mitchell,46,Commissioner of the General Land Office,,DEM,Miguel Suazo,33,22,11,0
+Mitchell,1,Commissioner of the General Land Office,,LIB,Matt Pina,12,9,3,0
+Mitchell,2,Commissioner of the General Land Office,,LIB,Matt Pina,8,5,3,0
+Mitchell,25,Commissioner of the General Land Office,,LIB,Matt Pina,15,10,5,0
+Mitchell,3,Commissioner of the General Land Office,,LIB,Matt Pina,14,10,4,0
+Mitchell,4,Commissioner of the General Land Office,,LIB,Matt Pina,11,4,7,0
+Mitchell,46,Commissioner of the General Land Office,,LIB,Matt Pina,20,14,6,0
+Mitchell,1,Commissioner of the General Land Office,,,OVER VOTES,0,0,0,0
+Mitchell,2,Commissioner of the General Land Office,,,OVER VOTES,0,0,0,0
+Mitchell,25,Commissioner of the General Land Office,,,OVER VOTES,0,0,0,0
+Mitchell,3,Commissioner of the General Land Office,,,OVER VOTES,0,0,0,0
+Mitchell,4,Commissioner of the General Land Office,,,OVER VOTES,0,0,0,0
+Mitchell,46,Commissioner of the General Land Office,,,OVER VOTES,0,0,0,0
+Mitchell,1,Commissioner of the General Land Office,,,UNDER VOTES,6,6,0,0
+Mitchell,2,Commissioner of the General Land Office,,,UNDER VOTES,1,1,0,0
+Mitchell,25,Commissioner of the General Land Office,,,UNDER VOTES,7,5,2,0
+Mitchell,3,Commissioner of the General Land Office,,,UNDER VOTES,12,9,3,0
+Mitchell,4,Commissioner of the General Land Office,,,UNDER VOTES,23,13,10,0
+Mitchell,46,Commissioner of the General Land Office,,,UNDER VOTES,4,3,1,0
+Mitchell,1,Commissioner of Agriculture,,REP,Sid Miller,425,268,157,0
+Mitchell,2,Commissioner of Agriculture,,REP,Sid Miller,120,47,73,0
+Mitchell,25,Commissioner of Agriculture,,REP,Sid Miller,163,105,57,1
+Mitchell,3,Commissioner of Agriculture,,REP,Sid Miller,370,241,129,0
+Mitchell,4,Commissioner of Agriculture,,REP,Sid Miller,251,119,132,0
+Mitchell,46,Commissioner of Agriculture,,REP,Sid Miller,198,123,75,0
+Mitchell,1,Commissioner of Agriculture,,DEM,Kim Olson,75,50,25,0
+Mitchell,2,Commissioner of Agriculture,,DEM,Kim Olson,8,4,4,0
+Mitchell,25,Commissioner of Agriculture,,DEM,Kim Olson,58,30,28,0
+Mitchell,3,Commissioner of Agriculture,,DEM,Kim Olson,92,63,29,0
+Mitchell,4,Commissioner of Agriculture,,DEM,Kim Olson,53,15,38,0
+Mitchell,46,Commissioner of Agriculture,,DEM,Kim Olson,27,17,10,0
+Mitchell,1,Commissioner of Agriculture,,LIB,Richard Carpenter,6,4,2,0
+Mitchell,2,Commissioner of Agriculture,,LIB,Richard Carpenter,1,0,1,0
+Mitchell,25,Commissioner of Agriculture,,LIB,Richard Carpenter,4,4,0,0
+Mitchell,3,Commissioner of Agriculture,,LIB,Richard Carpenter,9,7,2,0
+Mitchell,4,Commissioner of Agriculture,,LIB,Richard Carpenter,6,3,3,0
+Mitchell,46,Commissioner of Agriculture,,LIB,Richard Carpenter,5,1,4,0
+Mitchell,1,Commissioner of Agriculture,,,OVER VOTES,0,0,0,0
+Mitchell,2,Commissioner of Agriculture,,,OVER VOTES,0,0,0,0
+Mitchell,25,Commissioner of Agriculture,,,OVER VOTES,0,0,0,0
+Mitchell,3,Commissioner of Agriculture,,,OVER VOTES,0,0,0,0
+Mitchell,4,Commissioner of Agriculture,,,OVER VOTES,0,0,0,0
+Mitchell,46,Commissioner of Agriculture,,,OVER VOTES,0,0,0,0
+Mitchell,1,Commissioner of Agriculture,,,UNDER VOTES,9,6,3,0
+Mitchell,2,Commissioner of Agriculture,,,UNDER VOTES,2,0,2,0
+Mitchell,25,Commissioner of Agriculture,,,UNDER VOTES,10,6,4,0
+Mitchell,3,Commissioner of Agriculture,,,UNDER VOTES,11,8,3,0
+Mitchell,4,Commissioner of Agriculture,,,UNDER VOTES,20,12,8,0
+Mitchell,46,Commissioner of Agriculture,,,UNDER VOTES,2,1,1,0
+Mitchell,1,Railroad Commissioner,,REP,Christi Craddick,428,269,159,0
+Mitchell,2,Railroad Commissioner,,REP,Christi Craddick,121,47,74,0
+Mitchell,25,Railroad Commissioner,,REP,Christi Craddick,165,108,56,1
+Mitchell,3,Railroad Commissioner,,REP,Christi Craddick,375,245,130,0
+Mitchell,4,Railroad Commissioner,,REP,Christi Craddick,254,123,131,0
+Mitchell,46,Railroad Commissioner,,REP,Christi Craddick,190,115,75,0
+Mitchell,1,Railroad Commissioner,,DEM,Roman McAllen,70,48,22,0
+Mitchell,2,Railroad Commissioner,,DEM,Roman McAllen,6,3,3,0
+Mitchell,25,Railroad Commissioner,,DEM,Roman McAllen,54,27,27,0
+Mitchell,3,Railroad Commissioner,,DEM,Roman McAllen,83,57,26,0
+Mitchell,4,Railroad Commissioner,,DEM,Roman McAllen,48,11,37,0
+Mitchell,46,Railroad Commissioner,,DEM,Roman McAllen,28,18,10,0
+Mitchell,1,Railroad Commissioner,,LIB,Mike Wright,7,5,2,0
+Mitchell,2,Railroad Commissioner,,LIB,Mike Wright,3,1,2,0
+Mitchell,25,Railroad Commissioner,,LIB,Mike Wright,5,4,1,0
+Mitchell,3,Railroad Commissioner,,LIB,Mike Wright,9,6,3,0
+Mitchell,4,Railroad Commissioner,,LIB,Mike Wright,4,1,3,0
+Mitchell,46,Railroad Commissioner,,LIB,Mike Wright,8,4,4,0
+Mitchell,1,Railroad Commissioner,,,OVER VOTES,0,0,0,0
+Mitchell,2,Railroad Commissioner,,,OVER VOTES,0,0,0,0
+Mitchell,25,Railroad Commissioner,,,OVER VOTES,0,0,0,0
+Mitchell,3,Railroad Commissioner,,,OVER VOTES,0,0,0,0
+Mitchell,4,Railroad Commissioner,,,OVER VOTES,0,0,0,0
+Mitchell,46,Railroad Commissioner,,,OVER VOTES,0,0,0,0
+Mitchell,1,Railroad Commissioner,,,UNDER VOTES,10,6,4,0
+Mitchell,2,Railroad Commissioner,,,UNDER VOTES,1,0,1,0
+Mitchell,25,Railroad Commissioner,,,UNDER VOTES,11,6,5,0
+Mitchell,3,Railroad Commissioner,,,UNDER VOTES,15,11,4,0
+Mitchell,4,Railroad Commissioner,,,UNDER VOTES,24,14,10,0
+Mitchell,46,Railroad Commissioner,,,UNDER VOTES,6,5,1,0
+Mitchell,1,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,425,267,158,0
+Mitchell,2,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,123,48,75,0
+Mitchell,25,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,168,110,57,1
+Mitchell,3,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,376,243,133,0
+Mitchell,4,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,252,120,132,0
+Mitchell,46,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,192,117,75,0
+Mitchell,1,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,78,53,25,0
+Mitchell,2,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,7,3,4,0
+Mitchell,25,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,55,28,27,0
+Mitchell,3,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,93,64,29,0
+Mitchell,4,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,56,17,39,0
+Mitchell,46,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,33,20,13,0
+Mitchell,1,"Justice, Supreme Court, Place 2",,,OVER VOTES,0,0,0,0
+Mitchell,2,"Justice, Supreme Court, Place 2",,,OVER VOTES,0,0,0,0
+Mitchell,25,"Justice, Supreme Court, Place 2",,,OVER VOTES,0,0,0,0
+Mitchell,3,"Justice, Supreme Court, Place 2",,,OVER VOTES,0,0,0,0
+Mitchell,4,"Justice, Supreme Court, Place 2",,,OVER VOTES,0,0,0,0
+Mitchell,46,"Justice, Supreme Court, Place 2",,,OVER VOTES,0,0,0,0
+Mitchell,1,"Justice, Supreme Court, Place 2",,,UNDER VOTES,12,8,4,0
+Mitchell,2,"Justice, Supreme Court, Place 2",,,UNDER VOTES,1,0,1,0
+Mitchell,25,"Justice, Supreme Court, Place 2",,,UNDER VOTES,12,7,5,0
+Mitchell,3,"Justice, Supreme Court, Place 2",,,UNDER VOTES,13,12,1,0
+Mitchell,4,"Justice, Supreme Court, Place 2",,,UNDER VOTES,22,12,10,0
+Mitchell,46,"Justice, Supreme Court, Place 2",,,UNDER VOTES,7,5,2,0
+Mitchell,1,"Justice, Supreme Court, Place 4",,REP,John Devine,426,270,156,0
+Mitchell,2,"Justice, Supreme Court, Place 4",,REP,John Devine,123,46,77,0
+Mitchell,25,"Justice, Supreme Court, Place 4",,REP,John Devine,168,111,56,1
+Mitchell,3,"Justice, Supreme Court, Place 4",,REP,John Devine,378,246,132,0
+Mitchell,4,"Justice, Supreme Court, Place 4",,REP,John Devine,254,122,132,0
+Mitchell,46,"Justice, Supreme Court, Place 4",,REP,John Devine,194,118,76,0
+Mitchell,1,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,76,50,26,0
+Mitchell,2,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,5,3,2,0
+Mitchell,25,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,53,26,27,0
+Mitchell,3,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,89,60,29,0
+Mitchell,4,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,52,13,39,0
+Mitchell,46,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,30,19,11,0
+Mitchell,1,"Justice, Supreme Court, Place 4",,,OVER VOTES,0,0,0,0
+Mitchell,2,"Justice, Supreme Court, Place 4",,,OVER VOTES,0,0,0,0
+Mitchell,25,"Justice, Supreme Court, Place 4",,,OVER VOTES,0,0,0,0
+Mitchell,3,"Justice, Supreme Court, Place 4",,,OVER VOTES,0,0,0,0
+Mitchell,4,"Justice, Supreme Court, Place 4",,,OVER VOTES,0,0,0,0
+Mitchell,46,"Justice, Supreme Court, Place 4",,,OVER VOTES,0,0,0,0
+Mitchell,1,"Justice, Supreme Court, Place 4",,,UNDER VOTES,13,8,5,0
+Mitchell,2,"Justice, Supreme Court, Place 4",,,UNDER VOTES,3,2,1,0
+Mitchell,25,"Justice, Supreme Court, Place 4",,,UNDER VOTES,14,8,6,0
+Mitchell,3,"Justice, Supreme Court, Place 4",,,UNDER VOTES,15,13,2,0
+Mitchell,4,"Justice, Supreme Court, Place 4",,,UNDER VOTES,24,14,10,0
+Mitchell,46,"Justice, Supreme Court, Place 4",,,UNDER VOTES,8,5,3,0
+Mitchell,1,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,422,266,156,0
+Mitchell,2,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,123,47,76,0
+Mitchell,25,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,169,112,56,1
+Mitchell,3,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,375,244,131,0
+Mitchell,4,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,252,123,129,0
+Mitchell,46,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,191,116,75,0
+Mitchell,1,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,79,53,26,0
+Mitchell,2,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,6,3,3,0
+Mitchell,25,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,54,26,28,0
+Mitchell,3,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,95,63,32,0
+Mitchell,4,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,53,13,40,0
+Mitchell,46,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,34,20,14,0
+Mitchell,1,"Justice, Supreme Court, Place 6",,,OVER VOTES,0,0,0,0
+Mitchell,2,"Justice, Supreme Court, Place 6",,,OVER VOTES,0,0,0,0
+Mitchell,25,"Justice, Supreme Court, Place 6",,,OVER VOTES,0,0,0,0
+Mitchell,3,"Justice, Supreme Court, Place 6",,,OVER VOTES,0,0,0,0
+Mitchell,4,"Justice, Supreme Court, Place 6",,,OVER VOTES,0,0,0,0
+Mitchell,46,"Justice, Supreme Court, Place 6",,,OVER VOTES,0,0,0,0
+Mitchell,1,"Justice, Supreme Court, Place 6",,,UNDER VOTES,14,9,5,0
+Mitchell,2,"Justice, Supreme Court, Place 6",,,UNDER VOTES,2,1,1,0
+Mitchell,25,"Justice, Supreme Court, Place 6",,,UNDER VOTES,12,7,5,0
+Mitchell,3,"Justice, Supreme Court, Place 6",,,UNDER VOTES,12,12,0,0
+Mitchell,4,"Justice, Supreme Court, Place 6",,,UNDER VOTES,25,13,12,0
+Mitchell,46,"Justice, Supreme Court, Place 6",,,UNDER VOTES,7,6,1,0
+Mitchell,1,"Presiding Judge, CT of Criminal Appeals",,REP,Sharon Keller,417,263,154,0
+Mitchell,2,"Presiding Judge, CT of Criminal Appeals",,REP,Sharon Keller,124,47,77,0
+Mitchell,25,"Presiding Judge, CT of Criminal Appeals",,REP,Sharon Keller,164,107,56,1
+Mitchell,3,"Presiding Judge, CT of Criminal Appeals",,REP,Sharon Keller,376,242,134,0
+Mitchell,4,"Presiding Judge, CT of Criminal Appeals",,REP,Sharon Keller,251,121,130,0
+Mitchell,46,"Presiding Judge, CT of Criminal Appeals",,REP,Sharon Keller,194,116,78,0
+Mitchell,1,"Presiding Judge, CT of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,75,49,26,0
+Mitchell,2,"Presiding Judge, CT of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,4,3,1,0
+Mitchell,25,"Presiding Judge, CT of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,51,24,27,0
+Mitchell,3,"Presiding Judge, CT of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,81,55,26,0
+Mitchell,4,"Presiding Judge, CT of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,51,12,39,0
+Mitchell,46,"Presiding Judge, CT of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,29,19,10,0
+Mitchell,1,"Presiding Judge, CT of Criminal Appeals",,LIB,William Bryan Strange III,10,8,2,0
+Mitchell,2,"Presiding Judge, CT of Criminal Appeals",,LIB,William Bryan Strange III,1,0,1,0
+Mitchell,25,"Presiding Judge, CT of Criminal Appeals",,LIB,William Bryan Strange III,7,6,1,0
+Mitchell,3,"Presiding Judge, CT of Criminal Appeals",,LIB,William Bryan Strange III,13,12,1,0
+Mitchell,4,"Presiding Judge, CT of Criminal Appeals",,LIB,William Bryan Strange III,5,2,3,0
+Mitchell,46,"Presiding Judge, CT of Criminal Appeals",,LIB,William Bryan Strange III,2,1,1,0
+Mitchell,1,"Presiding Judge, CT of Criminal Appeals",,,OVER VOTES,0,0,0,0
+Mitchell,2,"Presiding Judge, CT of Criminal Appeals",,,OVER VOTES,0,0,0,0
+Mitchell,25,"Presiding Judge, CT of Criminal Appeals",,,OVER VOTES,0,0,0,0
+Mitchell,3,"Presiding Judge, CT of Criminal Appeals",,,OVER VOTES,0,0,0,0
+Mitchell,4,"Presiding Judge, CT of Criminal Appeals",,,OVER VOTES,0,0,0,0
+Mitchell,46,"Presiding Judge, CT of Criminal Appeals",,,OVER VOTES,0,0,0,0
+Mitchell,1,"Presiding Judge, CT of Criminal Appeals",,,UNDER VOTES,13,8,5,0
+Mitchell,2,"Presiding Judge, CT of Criminal Appeals",,,UNDER VOTES,2,1,1,0
+Mitchell,25,"Presiding Judge, CT of Criminal Appeals",,,UNDER VOTES,13,8,5,0
+Mitchell,3,"Presiding Judge, CT of Criminal Appeals",,,UNDER VOTES,12,10,2,0
+Mitchell,4,"Presiding Judge, CT of Criminal Appeals",,,UNDER VOTES,23,14,9,0
+Mitchell,46,"Presiding Judge, CT of Criminal Appeals",,,UNDER VOTES,7,6,1,0
+Mitchell,1,"Judge, Court of Criminal Appeals, Pl 7",,REP,Barbara Parker Hervey,426,269,157,0
+Mitchell,2,"Judge, Court of Criminal Appeals, Pl 7",,REP,Barbara Parker Hervey,125,47,78,0
+Mitchell,25,"Judge, Court of Criminal Appeals, Pl 7",,REP,Barbara Parker Hervey,170,111,58,1
+Mitchell,3,"Judge, Court of Criminal Appeals, Pl 7",,REP,Barbara Parker Hervey,381,248,133,0
+Mitchell,4,"Judge, Court of Criminal Appeals, Pl 7",,REP,Barbara Parker Hervey,250,119,131,0
+Mitchell,46,"Judge, Court of Criminal Appeals, Pl 7",,REP,Barbara Parker Hervey,196,119,77,0
+Mitchell,1,"Judge, Court of Criminal Appeals, Pl 7",,DEM,Ramona Franklin,73,47,26,0
+Mitchell,2,"Judge, Court of Criminal Appeals, Pl 7",,DEM,Ramona Franklin,5,3,2,0
+Mitchell,25,"Judge, Court of Criminal Appeals, Pl 7",,DEM,Ramona Franklin,53,27,26,0
+Mitchell,3,"Judge, Court of Criminal Appeals, Pl 7",,DEM,Ramona Franklin,88,59,29,0
+Mitchell,4,"Judge, Court of Criminal Appeals, Pl 7",,DEM,Ramona Franklin,56,16,40,0
+Mitchell,46,"Judge, Court of Criminal Appeals, Pl 7",,DEM,Ramona Franklin,30,18,12,0
+Mitchell,1,"Judge, Court of Criminal Appeals, Pl 7",,,OVER VOTES,0,0,0,0
+Mitchell,2,"Judge, Court of Criminal Appeals, Pl 7",,,OVER VOTES,0,0,0,0
+Mitchell,25,"Judge, Court of Criminal Appeals, Pl 7",,,OVER VOTES,0,0,0,0
+Mitchell,3,"Judge, Court of Criminal Appeals, Pl 7",,,OVER VOTES,0,0,0,0
+Mitchell,4,"Judge, Court of Criminal Appeals, Pl 7",,,OVER VOTES,0,0,0,0
+Mitchell,46,"Judge, Court of Criminal Appeals, Pl 7",,,OVER VOTES,0,0,0,0
+Mitchell,1,"Judge, Court of Criminal Appeals, Pl 7",,,UNDER VOTES,16,12,4,0
+Mitchell,2,"Judge, Court of Criminal Appeals, Pl 7",,,UNDER VOTES,1,1,0,0
+Mitchell,25,"Judge, Court of Criminal Appeals, Pl 7",,,UNDER VOTES,12,7,5,0
+Mitchell,3,"Judge, Court of Criminal Appeals, Pl 7",,,UNDER VOTES,13,12,1,0
+Mitchell,4,"Judge, Court of Criminal Appeals, Pl 7",,,UNDER VOTES,24,14,10,0
+Mitchell,46,"Judge, Court of Criminal Appeals, Pl 7",,,UNDER VOTES,6,5,1,0
+Mitchell,1,"Judge, Court of Criminal Appeals, Pl 8",,REP,Michelle Slaughter,437,274,163,0
+Mitchell,2,"Judge, Court of Criminal Appeals, Pl 8",,REP,Michelle Slaughter,124,47,77,0
+Mitchell,25,"Judge, Court of Criminal Appeals, Pl 8",,REP,Michelle Slaughter,179,118,60,1
+Mitchell,3,"Judge, Court of Criminal Appeals, Pl 8",,REP,Michelle Slaughter,382,250,132,0
+Mitchell,4,"Judge, Court of Criminal Appeals, Pl 8",,REP,Michelle Slaughter,258,121,137,0
+Mitchell,46,"Judge, Court of Criminal Appeals, Pl 8",,REP,Michelle Slaughter,203,119,84,0
+Mitchell,1,"Judge, Court of Criminal Appeals, Pl 8",,LIB,Mark Ash,31,21,10,0
+Mitchell,2,"Judge, Court of Criminal Appeals, Pl 8",,LIB,Mark Ash,5,2,3,0
+Mitchell,25,"Judge, Court of Criminal Appeals, Pl 8",,LIB,Mark Ash,14,7,7,0
+Mitchell,3,"Judge, Court of Criminal Appeals, Pl 8",,LIB,Mark Ash,51,34,17,0
+Mitchell,4,"Judge, Court of Criminal Appeals, Pl 8",,LIB,Mark Ash,26,9,17,0
+Mitchell,46,"Judge, Court of Criminal Appeals, Pl 8",,LIB,Mark Ash,7,4,3,0
+Mitchell,1,"Judge, Court of Criminal Appeals, Pl 8",,,OVER VOTES,0,0,0,0
+Mitchell,2,"Judge, Court of Criminal Appeals, Pl 8",,,OVER VOTES,0,0,0,0
+Mitchell,25,"Judge, Court of Criminal Appeals, Pl 8",,,OVER VOTES,0,0,0,0
+Mitchell,3,"Judge, Court of Criminal Appeals, Pl 8",,,OVER VOTES,0,0,0,0
+Mitchell,4,"Judge, Court of Criminal Appeals, Pl 8",,,OVER VOTES,0,0,0,0
+Mitchell,46,"Judge, Court of Criminal Appeals, Pl 8",,,OVER VOTES,0,0,0,0
+Mitchell,1,"Judge, Court of Criminal Appeals, Pl 8",,,UNDER VOTES,47,33,14,0
+Mitchell,2,"Judge, Court of Criminal Appeals, Pl 8",,,UNDER VOTES,2,2,0,0
+Mitchell,25,"Judge, Court of Criminal Appeals, Pl 8",,,UNDER VOTES,42,20,22,0
+Mitchell,3,"Judge, Court of Criminal Appeals, Pl 8",,,UNDER VOTES,49,35,14,0
+Mitchell,4,"Judge, Court of Criminal Appeals, Pl 8",,,UNDER VOTES,46,19,27,0
+Mitchell,46,"Judge, Court of Criminal Appeals, Pl 8",,,UNDER VOTES,22,19,3,0
+Mitchell,1,State Representative,83,REP,Dustin Burrows,423,269,154,0
+Mitchell,2,State Representative,83,REP,Dustin Burrows,125,48,77,0
+Mitchell,25,State Representative,83,REP,Dustin Burrows,170,111,58,1
+Mitchell,3,State Representative,83,REP,Dustin Burrows,378,243,135,0
+Mitchell,4,State Representative,83,REP,Dustin Burrows,245,119,126,0
+Mitchell,46,State Representative,83,REP,Dustin Burrows,189,114,75,0
+Mitchell,1,State Representative,83,DEM,Drew Landry,85,53,32,0
+Mitchell,2,State Representative,83,DEM,Drew Landry,6,3,3,0
+Mitchell,25,State Representative,83,DEM,Drew Landry,57,31,26,0
+Mitchell,3,State Representative,83,DEM,Drew Landry,99,71,28,0
+Mitchell,4,State Representative,83,DEM,Drew Landry,63,17,46,0
+Mitchell,46,State Representative,83,DEM,Drew Landry,39,25,14,0
+Mitchell,1,State Representative,83,,OVER VOTES,0,0,0,0
+Mitchell,2,State Representative,83,,OVER VOTES,0,0,0,0
+Mitchell,25,State Representative,83,,OVER VOTES,0,0,0,0
+Mitchell,3,State Representative,83,,OVER VOTES,0,0,0,0
+Mitchell,4,State Representative,83,,OVER VOTES,0,0,0,0
+Mitchell,46,State Representative,83,,OVER VOTES,0,0,0,0
+Mitchell,1,State Representative,83,,UNDER VOTES,7,6,1,0
+Mitchell,2,State Representative,83,,UNDER VOTES,0,0,0,0
+Mitchell,25,State Representative,83,,UNDER VOTES,8,3,5,0
+Mitchell,3,State Representative,83,,UNDER VOTES,5,5,0,0
+Mitchell,4,State Representative,83,,UNDER VOTES,22,13,9,0
+Mitchell,46,State Representative,83,,UNDER VOTES,4,3,1,0
+Mitchell,1,"Chief Justice, 11th Court of Appeals",,REP,John Bailey,452,286,166,0
+Mitchell,2,"Chief Justice, 11th Court of Appeals",,REP,John Bailey,126,49,77,0
+Mitchell,25,"Chief Justice, 11th Court of Appeals",,REP,John Bailey,175,117,57,1
+Mitchell,3,"Chief Justice, 11th Court of Appeals",,REP,John Bailey,403,267,136,0
+Mitchell,4,"Chief Justice, 11th Court of Appeals",,REP,John Bailey,269,123,146,0
+Mitchell,46,"Chief Justice, 11th Court of Appeals",,REP,John Bailey,204,122,82,0
+Mitchell,1,"Chief Justice, 11th Court of Appeals",,,OVER VOTES,0,0,0,0
+Mitchell,2,"Chief Justice, 11th Court of Appeals",,,OVER VOTES,0,0,0,0
+Mitchell,25,"Chief Justice, 11th Court of Appeals",,,OVER VOTES,0,0,0,0
+Mitchell,3,"Chief Justice, 11th Court of Appeals",,,OVER VOTES,0,0,0,0
+Mitchell,4,"Chief Justice, 11th Court of Appeals",,,OVER VOTES,0,0,0,0
+Mitchell,46,"Chief Justice, 11th Court of Appeals",,,OVER VOTES,0,0,0,0
+Mitchell,1,"Chief Justice, 11th Court of Appeals",,,UNDER VOTES,63,42,21,0
+Mitchell,2,"Chief Justice, 11th Court of Appeals",,,UNDER VOTES,5,2,3,0
+Mitchell,25,"Chief Justice, 11th Court of Appeals",,,UNDER VOTES,60,28,32,0
+Mitchell,3,"Chief Justice, 11th Court of Appeals",,,UNDER VOTES,79,52,27,0
+Mitchell,4,"Chief Justice, 11th Court of Appeals",,,UNDER VOTES,61,26,35,0
+Mitchell,46,"Chief Justice, 11th Court of Appeals",,,UNDER VOTES,28,20,8,0
+Mitchell,4,"County Commissioner, Precinct No. 4",,REP,Ricky W. Bailey,228,105,123,0
+Mitchell,46,"County Commissioner, Precinct No. 4",,REP,Ricky W. Bailey,186,114,72,0
+Mitchell,4,"County Commissioner, Precinct No. 4",,DEM,DeLynn Hackfeld,101,43,58,0
+Mitchell,46,"County Commissioner, Precinct No. 4",,DEM,DeLynn Hackfeld,41,25,16,0
+Mitchell,4,"County Commissioner, Precinct No. 4",,,OVER VOTES,0,0,0,0
+Mitchell,46,"County Commissioner, Precinct No. 4",,,OVER VOTES,0,0,0,0
+Mitchell,4,"County Commissioner, Precinct No. 4",,,UNDER VOTES,1,1,0,0
+Mitchell,46,"County Commissioner, Precinct No. 4",,,UNDER VOTES,5,3,2,0
