@@ -1,15 +1,15 @@
-county,precinct,office,district,Candidate,party,votes,early_voting,mail,election_day
-Lamb,1 - Olton Community ,,,Ballots Cast,,428,63,15,350
-Lamb,2 - Lamb County Ag Center ,,,Ballots Cast,,185,92,16,77
-Lamb,3 - Earth Community ,,,Ballots Cast,,317,49,17,251
-Lamb,4 - Sudan Community ,,,Ballots Cast,,39,10,1,28
-Lamb,5 - Olton Community ,,,Ballots Cast,,195,44,17,134
-Lamb,6 - Lamb County Ag Center ,,,Ballots Cast,,160,75,22,63
-Lamb,7 & 8 - Lamb County Ag,,,Ballots Cast,,1030,630,68,332
-Lamb,9 - Lamb County Ag Center ,,,Ballots Cast,,456,212,108,136
-Lamb,10 - Amherst Community ,,,Ballots Cast,,200,74,20,106
-Lamb,11 - Sudan Community ,,,Ballots Cast,,363,92,23,248
-Lamb,12 - Springlake 1st Bapt,,,Ballots Cast,,105,37,2,66
+county,precinct,office,district,candidate,party,votes,early_voting,mail,election_day
+Lamb,1 - Olton Community ,Ballots Cast,,,,428,63,15,350
+Lamb,2 - Lamb County Ag Center ,Ballots Cast,,,,185,92,16,77
+Lamb,3 - Earth Community ,Ballots Cast,,,,317,49,17,251
+Lamb,4 - Sudan Community ,Ballots Cast,,,,39,10,1,28
+Lamb,5 - Olton Community ,Ballots Cast,,,,195,44,17,134
+Lamb,6 - Lamb County Ag Center ,Ballots Cast,,,,160,75,22,63
+Lamb,7 & 8 - Lamb County Ag,Ballots Cast,,,,1030,630,68,332
+Lamb,9 - Lamb County Ag Center ,Ballots Cast,,,,456,212,108,136
+Lamb,10 - Amherst Community ,Ballots Cast,,,,200,74,20,106
+Lamb,11 - Sudan Community ,Ballots Cast,,,,363,92,23,248
+Lamb,12 - Springlake 1st Bapt,Ballots Cast,,,,105,37,2,66
 Lamb,1 - Olton Community ,Straight Party,,Republican Party,REP,152,20,12,120
 Lamb,2 - Lamb County Ag Center ,Straight Party,,Republican Party,REP,71,36,7,28
 Lamb,3 - Earth Community ,Straight Party,,Republican Party,REP,120,24,10,86
@@ -46,7 +46,7 @@ Lamb,12 - Springlake 1st Bapt,Straight Party,,Libertarian Party,LIB,0,0,0,0
 Lamb,1 - Olton Community ,U.S. Senate,,Ted Cruz,REP,331,39,15,277
 Lamb,2 - Lamb County Ag Center ,U.S. Senate,,Ted Cruz,REP,96,48,8,40
 Lamb,3 - Earth Community ,U.S. Senate,,Ted Cruz,REP,261,42,14,205
-Lamb,4 - Sudan Community ,U.S. Senate,,Ted Cruz,REP,38,9,,29
+Lamb,4 - Sudan Community ,U.S. Senate,,Ted Cruz,REP,38,9,1,28
 Lamb,5 - Olton Community ,U.S. Senate,,Ted Cruz,REP,152,41,10,101
 Lamb,6 - Lamb County Ag Center ,U.S. Senate,,Ted Cruz,REP,126,62,18,46
 Lamb,7 & 8 - Lamb County Ag,U.S. Senate,,Ted Cruz,REP,841,546,47,248
@@ -186,7 +186,7 @@ Lamb,9 - Lamb County Ag Center ,Attorney General,,Justin Nelson,DEM,129,32,62,35
 Lamb,10 - Amherst Community ,Attorney General,,Justin Nelson,DEM,29,3,7,19
 Lamb,11 - Sudan Community ,Attorney General,,Justin Nelson,DEM,55,14,2,39
 Lamb,12 - Springlake 1st Bapt,Attorney General,,Justin Nelson,DEM,17,7,0,10
-Lamb,1 - Olton Community ,Attorney General,,Michael Ray Harris,LIB,7,0,,7
+Lamb,1 - Olton Community ,Attorney General,,Michael Ray Harris,LIB,7,0,0,7
 Lamb,2 - Lamb County Ag Center ,Attorney General,,Michael Ray Harris,LIB,3,3,0,0
 Lamb,3 - Earth Community ,Attorney General,,Michael Ray Harris,LIB,7,0,0,7
 Lamb,4 - Sudan Community ,Attorney General,,Michael Ray Harris,LIB,0,0,0,0
