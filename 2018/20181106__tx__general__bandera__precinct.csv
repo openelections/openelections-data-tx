@@ -1,4 +1,4 @@
-county,precinct,office,district,party,candidate,votes,early_votes,election_day,absentee
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
 Bandera,101 - BISD,Straight Party,,REP,Republican Party REP,662,487,144,31
 Bandera,101 - BISD,Straight Party,,,Over Votes,0,0,0,0
 Bandera,101 - BISD,Straight Party,,,Under Votes,259,198,42,19
@@ -118,11 +118,11 @@ Bandera,101 - BISD,County Treasurer,,,Under Votes,133,93,26,14
 Bandera,101 - BISD,"Justice of the Peace, Precinct No. 1",,REP,Mike Towers,890,664,188,38
 Bandera,101 - BISD,"Justice of the Peace, Precinct No. 1",,,Over Votes,0,0,0,0
 Bandera,101 - BISD,"Justice of the Peace, Precinct No. 1",,,Under Votes,134,94,26,14
-Bandera,101 - BISD,"Trustee, Place 3",,"",Barbara L. Skipper,478,356,103,19
+Bandera,101 - BISD,"Trustee, Place 3",,,Barbara L. Skipper,478,356,103,19
 Bandera,101 - BISD,"Trustee, Place 3",,,Over Votes,0,0,0,0
 Bandera,101 - BISD,"Trustee, Place 3",,,Under Votes,328,235,68,25
-Bandera,101 - BISD,"Trustee, Place 3",,"",Sean Michael,218,167,43,8
-Bandera,101 - BISD,"Trustee, Place 4",,"",Bo Mansfield,679,522,137,20
+Bandera,101 - BISD,"Trustee, Place 3",,,Sean Michael,218,167,43,8
+Bandera,101 - BISD,"Trustee, Place 4",,,Bo Mansfield,679,522,137,20
 Bandera,101 - BISD,"Trustee, Place 4",,,Over Votes,0,0,0,0
 Bandera,101 - BISD,"Trustee, Place 4",,,Under Votes,345,236,77,32
 Bandera,102,Straight Party,,REP,Republican Party REP,6,4,2,0
@@ -363,11 +363,11 @@ Bandera,102 - BISD,County Treasurer,,,Under Votes,220,133,57,30
 Bandera,102 - BISD,"Justice of the Peace, Precinct No. 1",,REP,Mike Towers,1380,927,383,70
 Bandera,102 - BISD,"Justice of the Peace, Precinct No. 1",,,Over Votes,0,0,0,0
 Bandera,102 - BISD,"Justice of the Peace, Precinct No. 1",,,Under Votes,217,134,54,29
-Bandera,102 - BISD,"Trustee, Place 3",,"",Barbara L. Skipper,796,528,223,45
+Bandera,102 - BISD,"Trustee, Place 3",,,Barbara L. Skipper,796,528,223,45
 Bandera,102 - BISD,"Trustee, Place 3",,,Over Votes,0,0,0,0
 Bandera,102 - BISD,"Trustee, Place 3",,,Under Votes,506,321,137,48
-Bandera,102 - BISD,"Trustee, Place 3",,"",Sean Michael,295,212,77,6
-Bandera,102 - BISD,"Trustee, Place 4",,"",Bo Mansfield,1084,733,306,45
+Bandera,102 - BISD,"Trustee, Place 3",,,Sean Michael,295,212,77,6
+Bandera,102 - BISD,"Trustee, Place 4",,,Bo Mansfield,1084,733,306,45
 Bandera,102 - BISD,"Trustee, Place 4",,,Over Votes,0,0,0,0
 Bandera,102 - BISD,"Trustee, Place 4",,,Under Votes,513,328,131,54
 Bandera,203,Straight Party,,REP,Republican Party REP,72,45,19,8
@@ -614,11 +614,11 @@ Bandera,203 - BISD,"County Commissioner, Precinct No. 2",,,Under Votes,210,151,3
 Bandera,203 - BISD,"Justice of the Peace, Precinct No. 2",,REP,Bobbie Jo Basinger,957,692,212,53
 Bandera,203 - BISD,"Justice of the Peace, Precinct No. 2",,,Over Votes,0,0,0,0
 Bandera,203 - BISD,"Justice of the Peace, Precinct No. 2",,,Under Votes,192,141,33,18
-Bandera,203 - BISD,"Trustee, Place 3",,"",Barbara L. Skipper,566,416,120,30
+Bandera,203 - BISD,"Trustee, Place 3",,,Barbara L. Skipper,566,416,120,30
 Bandera,203 - BISD,"Trustee, Place 3",,,Over Votes,0,0,0,0
 Bandera,203 - BISD,"Trustee, Place 3",,,Under Votes,366,263,68,35
-Bandera,203 - BISD,"Trustee, Place 3",,"",Sean Michael,217,154,57,6
-Bandera,203 - BISD,"Trustee, Place 4",,"",Bo Mansfield,751,548,171,32
+Bandera,203 - BISD,"Trustee, Place 3",,,Sean Michael,217,154,57,6
+Bandera,203 - BISD,"Trustee, Place 4",,,Bo Mansfield,751,548,171,32
 Bandera,203 - BISD,"Trustee, Place 4",,,Over Votes,0,0,0,0
 Bandera,203 - BISD,"Trustee, Place 4",,,Under Votes,398,285,74,39
 Bandera,204 - BISD,Straight Party,,REP,Republican Party REP,558,388,139,31
@@ -743,11 +743,11 @@ Bandera,204 - BISD,"County Commissioner, Precinct No. 2",,,Under Votes,170,99,53
 Bandera,204 - BISD,"Justice of the Peace, Precinct No. 2",,REP,Bobbie Jo Basinger,807,547,221,39
 Bandera,204 - BISD,"Justice of the Peace, Precinct No. 2",,,Over Votes,0,0,0,0
 Bandera,204 - BISD,"Justice of the Peace, Precinct No. 2",,,Under Votes,146,84,44,18
-Bandera,204 - BISD,"Trustee, Place 3",,"",Barbara L. Skipper,471,321,138,12
+Bandera,204 - BISD,"Trustee, Place 3",,,Barbara L. Skipper,471,321,138,12
 Bandera,204 - BISD,"Trustee, Place 3",,,Over Votes,0,0,0,0
 Bandera,204 - BISD,"Trustee, Place 3",,,Under Votes,304,191,72,41
-Bandera,204 - BISD,"Trustee, Place 3",,"",Sean Michael,178,119,55,4
-Bandera,204 - BISD,"Trustee, Place 4",,"",Bo Mansfield,607,407,185,15
+Bandera,204 - BISD,"Trustee, Place 3",,,Sean Michael,178,119,55,4
+Bandera,204 - BISD,"Trustee, Place 4",,,Bo Mansfield,607,407,185,15
 Bandera,204 - BISD,"Trustee, Place 4",,,Over Votes,0,0,0,0
 Bandera,204 - BISD,"Trustee, Place 4",,,Under Votes,346,224,80,42
 Bandera,305 - CITY,Straight Party,,REP,Republican Party REP,208,151,44,13
@@ -869,24 +869,24 @@ Bandera,305 - CITY,County Treasurer,,,Under Votes,72,52,13,7
 Bandera,305 - CITY,"Justice of the Peace, Precinct No. 3",,REP,Randall (Randy) Boysen,296,215,66,15
 Bandera,305 - CITY,"Justice of the Peace, Precinct No. 3",,,Over Votes,0,0,0,0
 Bandera,305 - CITY,"Justice of the Peace, Precinct No. 3",,,Under Votes,68,49,12,7
-Bandera,305 - CITY,"Trustee, Place 3",,"",Barbara L. Skipper,190,138,44,8
+Bandera,305 - CITY,"Trustee, Place 3",,,Barbara L. Skipper,190,138,44,8
 Bandera,305 - CITY,"Trustee, Place 3",,,Over Votes,0,0,0,0
 Bandera,305 - CITY,"Trustee, Place 3",,,Under Votes,93,62,20,11
-Bandera,305 - CITY,"Trustee, Place 3",,"",Sean Michael,81,64,14,3
-Bandera,305 - CITY,"Trustee, Place 4",,"",Bo Mansfield,276,202,65,9
+Bandera,305 - CITY,"Trustee, Place 3",,,Sean Michael,81,64,14,3
+Bandera,305 - CITY,"Trustee, Place 4",,,Bo Mansfield,276,202,65,9
 Bandera,305 - CITY,"Trustee, Place 4",,,Over Votes,0,0,0,0
 Bandera,305 - CITY,"Trustee, Place 4",,,Under Votes,88,62,13,13
-Bandera,305 - CITY,Mayor,,"",Suzanne Schauman,193,143,39,11
+Bandera,305 - CITY,Mayor,,,Suzanne Schauman,193,143,39,11
 Bandera,305 - CITY,Mayor,,,Over Votes,0,0,0,0
 Bandera,305 - CITY,Mayor,,,Under Votes,53,39,9,5
-Bandera,305 - CITY,Mayor,,"",Cindy Lou Coffey,118,82,30,6
-Bandera,305 - CITY,City Council 2 Year Term,,"",Brice Cavanaugh,146,116,27,3
+Bandera,305 - CITY,Mayor,,,Cindy Lou Coffey,118,82,30,6
+Bandera,305 - CITY,City Council 2 Year Term,,,Brice Cavanaugh,146,116,27,3
 Bandera,305 - CITY,City Council 2 Year Term,,,Over Votes,0,0,0,0
 Bandera,305 - CITY,City Council 2 Year Term,,,Under Votes,267,193,55,19
-Bandera,305 - CITY,City Council 2 Year Term,,"",Glenn Clark,135,94,31,10
-Bandera,305 - CITY,City Council 2 Year Term,,"",Toni Kunz,96,66,23,7
-Bandera,305 - CITY,City Council 2 Year Term,,"",Gregory A. Gibson,84,59,20,5
-Bandera,305 - CITY,City Council 1 Year Term,,"",Thomas McEachin,233,176,50,7
+Bandera,305 - CITY,City Council 2 Year Term,,,Glenn Clark,135,94,31,10
+Bandera,305 - CITY,City Council 2 Year Term,,,Toni Kunz,96,66,23,7
+Bandera,305 - CITY,City Council 2 Year Term,,,Gregory A. Gibson,84,59,20,5
+Bandera,305 - CITY,City Council 1 Year Term,,,Thomas McEachin,233,176,50,7
 Bandera,305 - CITY,City Council 1 Year Term,,,Over Votes,0,0,0,0
 Bandera,305 - CITY,City Council 1 Year Term,,,Under Votes,131,88,28,15
 Bandera,305 - BISD,Straight Party,,REP,Republican Party REP,629,470,137,22
@@ -1008,11 +1008,11 @@ Bandera,305 - BISD,County Treasurer,,,Under Votes,105,68,19,18
 Bandera,305 - BISD,"Justice of the Peace, Precinct No. 3",,REP,Randall (Randy) Boysen,867,634,198,35
 Bandera,305 - BISD,"Justice of the Peace, Precinct No. 3",,,Over Votes,0,0,0,0
 Bandera,305 - BISD,"Justice of the Peace, Precinct No. 3",,,Under Votes,105,70,17,18
-Bandera,305 - BISD,"Trustee, Place 3",,"",Barbara L. Skipper,469,336,111,22
+Bandera,305 - BISD,"Trustee, Place 3",,,Barbara L. Skipper,469,336,111,22
 Bandera,305 - BISD,"Trustee, Place 3",,,Over Votes,0,0,0,0
 Bandera,305 - BISD,"Trustee, Place 3",,,Under Votes,300,213,59,28
-Bandera,305 - BISD,"Trustee, Place 3",,"",Sean Michael,203,155,45,3
-Bandera,305 - BISD,"Trustee, Place 4",,"",Bo Mansfield,683,494,168,21
+Bandera,305 - BISD,"Trustee, Place 3",,,Sean Michael,203,155,45,3
+Bandera,305 - BISD,"Trustee, Place 4",,,Bo Mansfield,683,494,168,21
 Bandera,305 - BISD,"Trustee, Place 4",,,Over Votes,0,0,0,0
 Bandera,305 - BISD,"Trustee, Place 4",,,Under Votes,289,210,47,32
 Bandera,305 - MISD,Straight Party,,REP,Republican Party REP,58,46,7,5
@@ -1134,15 +1134,15 @@ Bandera,305 - MISD,County Treasurer,,,Under Votes,11,5,6,0
 Bandera,305 - MISD,"Justice of the Peace, Precinct No. 3",,REP,Randall (Randy) Boysen,81,57,17,7
 Bandera,305 - MISD,"Justice of the Peace, Precinct No. 3",,,Over Votes,0,0,0,0
 Bandera,305 - MISD,"Justice of the Peace, Precinct No. 3",,,Under Votes,9,5,4,0
-Bandera,305 - MISD,Trustee. Place 1,,"",Beaux Cook,35,23,8,4
+Bandera,305 - MISD,Trustee. Place 1,,,Beaux Cook,35,23,8,4
 Bandera,305 - MISD,Trustee. Place 1,,,Over Votes,0,0,0,0
 Bandera,305 - MISD,Trustee. Place 1,,,Under Votes,27,20,6,1
-Bandera,305 - MISD,Trustee. Place 1,,"",Robert Ashley,28,19,7,2
-Bandera,305 - MISD,"Trustee, Place 4",,"",Marissa Gonzalez,27,15,8,4
+Bandera,305 - MISD,Trustee. Place 1,,,Robert Ashley,28,19,7,2
+Bandera,305 - MISD,"Trustee, Place 4",,,Marissa Gonzalez,27,15,8,4
 Bandera,305 - MISD,"Trustee, Place 4",,,Over Votes,0,0,0,0
 Bandera,305 - MISD,"Trustee, Place 4",,,Under Votes,28,21,6,1
-Bandera,305 - MISD,"Trustee, Place 4",,"",Tony Watson,35,26,7,2
-Bandera,305 - MISD,"Trustee, Place 5",,"",Jack McHaney,64,43,15,6
+Bandera,305 - MISD,"Trustee, Place 4",,,Tony Watson,35,26,7,2
+Bandera,305 - MISD,"Trustee, Place 5",,,Jack McHaney,64,43,15,6
 Bandera,305 - MISD,"Trustee, Place 5",,,Over Votes,0,0,0,0
 Bandera,305 - MISD,"Trustee, Place 5",,,Under Votes,26,19,6,1
 Bandera,306 - MISD,Straight Party,,REP,Republican Party REP,554,447,88,19
@@ -1264,15 +1264,15 @@ Bandera,306 - MISD,County Treasurer,,,Under Votes,116,80,21,15
 Bandera,306 - MISD,"Justice of the Peace, Precinct No. 3",,REP,Randall (Randy) Boysen,829,649,145,35
 Bandera,306 - MISD,"Justice of the Peace, Precinct No. 3",,,Over Votes,0,0,0,0
 Bandera,306 - MISD,"Justice of the Peace, Precinct No. 3",,,Under Votes,106,72,19,15
-Bandera,306 - MISD,Trustee. Place 1,,"",Beaux Cook,362,286,65,11
+Bandera,306 - MISD,Trustee. Place 1,,,Beaux Cook,362,286,65,11
 Bandera,306 - MISD,Trustee. Place 1,,,Over Votes,0,0,0,0
 Bandera,306 - MISD,Trustee. Place 1,,,Under Votes,210,163,29,18
-Bandera,306 - MISD,Trustee. Place 1,,"",Robert Ashley,363,272,70,21
-Bandera,306 - MISD,"Trustee, Place 4",,"",Marissa Gonzalez,281,216,57,8
+Bandera,306 - MISD,Trustee. Place 1,,,Robert Ashley,363,272,70,21
+Bandera,306 - MISD,"Trustee, Place 4",,,Marissa Gonzalez,281,216,57,8
 Bandera,306 - MISD,"Trustee, Place 4",,,Over Votes,0,0,0,0
 Bandera,306 - MISD,"Trustee, Place 4",,,Under Votes,210,160,32,18
-Bandera,306 - MISD,"Trustee, Place 4",,"",Tony Watson,444,345,75,24
-Bandera,306 - MISD,"Trustee, Place 5",,"",Jack McHaney,635,492,117,26
+Bandera,306 - MISD,"Trustee, Place 4",,,Tony Watson,444,345,75,24
+Bandera,306 - MISD,"Trustee, Place 5",,,Jack McHaney,635,492,117,26
 Bandera,306 - MISD,"Trustee, Place 5",,,Over Votes,0,0,0,0
 Bandera,306 - MISD,"Trustee, Place 5",,,Under Votes,300,229,47,24
 Bandera,407 - BISD,Straight Party,,REP,Republican Party REP,913,675,175,63
@@ -1397,11 +1397,11 @@ Bandera,407 - BISD,"County Commissioner, Precinct No. 4",,,Under Votes,188,136,2
 Bandera,407 - BISD,"Justice of the Peace, Precinct No. 4",,REP,Lynn D. Holt,1234,904,251,79
 Bandera,407 - BISD,"Justice of the Peace, Precinct No. 4",,,Over Votes,0,0,0,0
 Bandera,407 - BISD,"Justice of the Peace, Precinct No. 4",,,Under Votes,184,131,26,27
-Bandera,407 - BISD,"Trustee, Place 3",,"",Barbara L. Skipper,689,516,142,31
+Bandera,407 - BISD,"Trustee, Place 3",,,Barbara L. Skipper,689,516,142,31
 Bandera,407 - BISD,"Trustee, Place 3",,,Over Votes,0,0,0,0
 Bandera,407 - BISD,"Trustee, Place 3",,,Under Votes,462,311,89,62
-Bandera,407 - BISD,"Trustee, Place 3",,"",Sean Michael,267,208,46,13
-Bandera,407 - BISD,"Trustee, Place 4",,"",Bo Mansfield,954,719,188,47
+Bandera,407 - BISD,"Trustee, Place 3",,,Sean Michael,267,208,46,13
+Bandera,407 - BISD,"Trustee, Place 4",,,Bo Mansfield,954,719,188,47
 Bandera,407 - BISD,"Trustee, Place 4",,,Over Votes,0,0,0,0
 Bandera,407 - BISD,"Trustee, Place 4",,,Under Votes,464,316,89,59
 Bandera,407 - MISD,Straight Party,,REP,Republican Party REP,5,3,2,0
@@ -1526,15 +1526,15 @@ Bandera,407 - MISD,"County Commissioner, Precinct No. 4",,,Under Votes,2,2,0,0
 Bandera,407 - MISD,"Justice of the Peace, Precinct No. 4",,REP,Lynn D. Holt,11,7,4,0
 Bandera,407 - MISD,"Justice of the Peace, Precinct No. 4",,,Over Votes,0,0,0,0
 Bandera,407 - MISD,"Justice of the Peace, Precinct No. 4",,,Under Votes,2,2,0,0
-Bandera,407 - MISD,Trustee. Place 1,,"",Beaux Cook,8,5,3,0
+Bandera,407 - MISD,Trustee. Place 1,,,Beaux Cook,8,5,3,0
 Bandera,407 - MISD,Trustee. Place 1,,,Over Votes,0,0,0,0
 Bandera,407 - MISD,Trustee. Place 1,,,Under Votes,1,1,0,0
-Bandera,407 - MISD,Trustee. Place 1,,"",Robert Ashley,4,3,1,0
-Bandera,407 - MISD,"Trustee, Place 4",,"",Marissa Gonzalez,7,6,1,0
+Bandera,407 - MISD,Trustee. Place 1,,,Robert Ashley,4,3,1,0
+Bandera,407 - MISD,"Trustee, Place 4",,,Marissa Gonzalez,7,6,1,0
 Bandera,407 - MISD,"Trustee, Place 4",,,Over Votes,0,0,0,0
 Bandera,407 - MISD,"Trustee, Place 4",,,Under Votes,1,1,0,0
-Bandera,407 - MISD,"Trustee, Place 4",,"",Tony Watson,5,2,3,0
-Bandera,407 - MISD,"Trustee, Place 5",,"",Jack McHaney,9,5,4,0
+Bandera,407 - MISD,"Trustee, Place 4",,,Tony Watson,5,2,3,0
+Bandera,407 - MISD,"Trustee, Place 5",,,Jack McHaney,9,5,4,0
 Bandera,407 - MISD,"Trustee, Place 5",,,Over Votes,0,0,0,0
 Bandera,407 - MISD,"Trustee, Place 5",,,Under Votes,4,4,0,0
 Bandera,408 - BISD,Straight Party,,REP,Republican Party REP,53,21,29,3
@@ -1659,11 +1659,11 @@ Bandera,408 - BISD,"County Commissioner, Precinct No. 4",,,Under Votes,19,10,6,3
 Bandera,408 - BISD,"Justice of the Peace, Precinct No. 4",,REP,Lynn D. Holt,83,31,42,10
 Bandera,408 - BISD,"Justice of the Peace, Precinct No. 4",,,Over Votes,0,0,0,0
 Bandera,408 - BISD,"Justice of the Peace, Precinct No. 4",,,Under Votes,16,8,5,3
-Bandera,408 - BISD,"Trustee, Place 3",,"",Barbara L. Skipper,57,25,26,6
+Bandera,408 - BISD,"Trustee, Place 3",,,Barbara L. Skipper,57,25,26,6
 Bandera,408 - BISD,"Trustee, Place 3",,,Over Votes,0,0,0,0
 Bandera,408 - BISD,"Trustee, Place 3",,,Under Votes,27,11,11,5
-Bandera,408 - BISD,"Trustee, Place 3",,"",Sean Michael,15,3,10,2
-Bandera,408 - BISD,"Trustee, Place 4",,"",Bo Mansfield,75,29,38,8
+Bandera,408 - BISD,"Trustee, Place 3",,,Sean Michael,15,3,10,2
+Bandera,408 - BISD,"Trustee, Place 4",,,Bo Mansfield,75,29,38,8
 Bandera,408 - BISD,"Trustee, Place 4",,,Over Votes,0,0,0,0
 Bandera,408 - BISD,"Trustee, Place 4",,,Under Votes,24,10,9,5
 Bandera,408 - MISD,Straight Party,,REP,Republican Party REP,32,17,10,5
@@ -1788,15 +1788,15 @@ Bandera,408 - MISD,"County Commissioner, Precinct No. 4",,,Under Votes,8,3,3,2
 Bandera,408 - MISD,"Justice of the Peace, Precinct No. 4",,REP,Lynn D. Holt,38,20,12,6
 Bandera,408 - MISD,"Justice of the Peace, Precinct No. 4",,,Over Votes,0,0,0,0
 Bandera,408 - MISD,"Justice of the Peace, Precinct No. 4",,,Under Votes,8,4,2,2
-Bandera,408 - MISD,Trustee. Place 1,,"",Beaux Cook,15,9,5,1
+Bandera,408 - MISD,Trustee. Place 1,,,Beaux Cook,15,9,5,1
 Bandera,408 - MISD,Trustee. Place 1,,,Over Votes,0,0,0,0
 Bandera,408 - MISD,Trustee. Place 1,,,Under Votes,14,5,3,6
-Bandera,408 - MISD,Trustee. Place 1,,"",Robert Ashley,17,10,6,1
-Bandera,408 - MISD,"Trustee, Place 4",,"",Marissa Gonzalez,17,10,6,1
+Bandera,408 - MISD,Trustee. Place 1,,,Robert Ashley,17,10,6,1
+Bandera,408 - MISD,"Trustee, Place 4",,,Marissa Gonzalez,17,10,6,1
 Bandera,408 - MISD,"Trustee, Place 4",,,Over Votes,0,0,0,0
 Bandera,408 - MISD,"Trustee, Place 4",,,Under Votes,15,6,3,6
-Bandera,408 - MISD,"Trustee, Place 4",,"",Tony Watson,14,8,5,1
-Bandera,408 - MISD,"Trustee, Place 5",,"",Jack McHaney,25,14,9,2
+Bandera,408 - MISD,"Trustee, Place 4",,,Tony Watson,14,8,5,1
+Bandera,408 - MISD,"Trustee, Place 5",,,Jack McHaney,25,14,9,2
 Bandera,408 - MISD,"Trustee, Place 5",,,Over Votes,0,0,0,0
 Bandera,408 - MISD,"Trustee, Place 5",,,Under Votes,21,10,5,6
 Bandera,408 - UISD,Straight Party,,REP,Republican Party REP,24,12,9,3
@@ -1921,13 +1921,13 @@ Bandera,408 - UISD,"County Commissioner, Precinct No. 4",,,Under Votes,13,6,5,2
 Bandera,408 - UISD,"Justice of the Peace, Precinct No. 4",,REP,Lynn D. Holt,35,17,15,3
 Bandera,408 - UISD,"Justice of the Peace, Precinct No. 4",,,Over Votes,0,0,0,0
 Bandera,408 - UISD,"Justice of the Peace, Precinct No. 4",,,Under Votes,10,4,4,2
-Bandera,408 - UISD,Trustee - At Large,,"",Steve Darden,10,7,3,0
+Bandera,408 - UISD,Trustee - At Large,,,Steve Darden,10,7,3,0
 Bandera,408 - UISD,Trustee - At Large,,,Over Votes,0,0,0,0
 Bandera,408 - UISD,Trustee - At Large,,,Under Votes,125,48,58,19
-Bandera,408 - UISD,Trustee - At Large,,"",Betty Boyce,15,9,5,1
-Bandera,408 - UISD,Trustee - At Large,,"",Tanya Cox,8,5,3,0
-Bandera,408 - UISD,Trustee - At Large,,"",Shirley Dibbens,12,8,4,0
-Bandera,408 - UISD,Trustee - At Large,,"",Amanda McBeth,10,7,3,0
+Bandera,408 - UISD,Trustee - At Large,,,Betty Boyce,15,9,5,1
+Bandera,408 - UISD,Trustee - At Large,,,Tanya Cox,8,5,3,0
+Bandera,408 - UISD,Trustee - At Large,,,Shirley Dibbens,12,8,4,0
+Bandera,408 - UISD,Trustee - At Large,,,Amanda McBeth,10,7,3,0
 Bandera,409 - BISD,Straight Party,,REP,Republican Party REP,255,156,86,13
 Bandera,409 - BISD,Straight Party,,,Over Votes,0,0,0,0
 Bandera,409 - BISD,Straight Party,,,Under Votes,111,62,36,13
@@ -2050,11 +2050,11 @@ Bandera,409 - BISD,"County Commissioner, Precinct No. 4",,,Under Votes,76,43,18,
 Bandera,409 - BISD,"Justice of the Peace, Precinct No. 4",,REP,Lynn D. Holt,358,216,123,19
 Bandera,409 - BISD,"Justice of the Peace, Precinct No. 4",,,Over Votes,0,0,0,0
 Bandera,409 - BISD,"Justice of the Peace, Precinct No. 4",,,Under Votes,75,42,19,14
-Bandera,409 - BISD,"Trustee, Place 3",,"",Barbara L. Skipper,219,120,90,9
+Bandera,409 - BISD,"Trustee, Place 3",,,Barbara L. Skipper,219,120,90,9
 Bandera,409 - BISD,"Trustee, Place 3",,,Over Votes,0,0,0,0
 Bandera,409 - BISD,"Trustee, Place 3",,,Under Votes,136,84,29,23
-Bandera,409 - BISD,"Trustee, Place 3",,"",Sean Michael,78,54,23,1
-Bandera,409 - BISD,"Trustee, Place 4",,"",Bo Mansfield,289,172,108,9
+Bandera,409 - BISD,"Trustee, Place 3",,,Sean Michael,78,54,23,1
+Bandera,409 - BISD,"Trustee, Place 4",,,Bo Mansfield,289,172,108,9
 Bandera,409 - BISD,"Trustee, Place 4",,,Over Votes,0,0,0,0
 Bandera,409 - BISD,"Trustee, Place 4",,,Under Votes,144,86,34,24
 Bandera,410 - UISD,Straight Party,,REP,Republican Party REP,210,70,113,27
@@ -2179,10 +2179,10 @@ Bandera,410 - UISD,"County Commissioner, Precinct No. 4",,,Under Votes,42,22,12,
 Bandera,410 - UISD,"Justice of the Peace, Precinct No. 4",,REP,Lynn D. Holt,304,100,164,40
 Bandera,410 - UISD,"Justice of the Peace, Precinct No. 4",,,Over Votes,0,0,0,0
 Bandera,410 - UISD,"Justice of the Peace, Precinct No. 4",,,Under Votes,54,25,19,10
-Bandera,410 - UISD,Trustee - At Large,,"",Steve Darden,134,44,69,21
+Bandera,410 - UISD,Trustee - At Large,,,Steve Darden,134,44,69,21
 Bandera,410 - UISD,Trustee - At Large,,,Over Votes,0,0,0,0
 Bandera,410 - UISD,Trustee - At Large,,,Under Votes,709,254,353,102
-Bandera,410 - UISD,Trustee - At Large,,"",Betty Boyce,198,64,103,31
-Bandera,410 - UISD,Trustee - At Large,,"",Tanya Cox,123,43,67,13
-Bandera,410 - UISD,Trustee - At Large,,"",Shirley Dibbens,187,63,100,24
-Bandera,410 - UISD,Trustee - At Large,,"",Amanda McBeth,81,32,40,9
+Bandera,410 - UISD,Trustee - At Large,,,Betty Boyce,198,64,103,31
+Bandera,410 - UISD,Trustee - At Large,,,Tanya Cox,123,43,67,13
+Bandera,410 - UISD,Trustee - At Large,,,Shirley Dibbens,187,63,100,24
+Bandera,410 - UISD,Trustee - At Large,,,Amanda McBeth,81,32,40,9
