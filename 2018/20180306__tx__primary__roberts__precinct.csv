@@ -8,7 +8,7 @@ Roberts,1,Registered Voters,,REP,,358,,
 Roberts,1,Ballots Cast,,REP,,76,27,0
 Roberts,1,U.S. Senate,,REP,Geraldine Sam,0,0,0
 Roberts,1,U.S. Senate,,REP,Ted Cruz,65,22,43
-Roberts,1,United States Representative,13,REP,MacThornberry,64,25,39
+Roberts,1,U.S. House,13,REP,MacThornberry,64,25,39
 Roberts,1,Governor,,REP,SECEDE Kilgore,3,2,1
 Roberts,1,Governor,,REP,Barbara Krueger,3,1,2
 Roberts,1,Governor,,REP,Greg Abbott,65,22,43
@@ -55,7 +55,7 @@ Roberts,1,Ballots Cast,,DEM,,76,27,0
 Roberts,1,U.S. Senate,,DEM,Beto O'Rourke,0,0,0
 Roberts,1,U.S. Senate,,DEM,Sema Hernandez,0,0,0
 Roberts,1,U.S. Senate,,DEM,Edward Kimbrough,1,0,1
-Roberts,1,United States Representative,13,DEM,Greg Sagan,0,0,0
+Roberts,1,U.S. House,13,DEM,Greg Sagan,0,0,0
 Roberts,1,Governor,,DEM,James Jolly Clark,0,0,0
 Roberts,1,Governor,,DEM,Tom Wakely,0,0,0
 Roberts,1,Governor,,DEM,Grady Yarbrough,0,0,0
@@ -136,7 +136,7 @@ Roberts,2,Registered Voters,,REP,,324,,
 Roberts,2,Ballots Cast,,REP,,80,34,0
 Roberts,2,U.S. Senate,,REP,Geraldine Sam,1,1,0
 Roberts,2,U.S. Senate,,REP,Ted Cruz,70,32,38
-Roberts,2,United States Representative,13,REP,MacThornberry,62,26,36
+Roberts,2,U.S. House,13,REP,MacThornberry,62,26,36
 Roberts,2,Governor,,REP,SECEDE Kilgore,2,0,2
 Roberts,2,Governor,,REP,Barbara Krueger,10,3,7
 Roberts,2,Governor,,REP,Greg Abbott,65,31,34
@@ -184,7 +184,7 @@ Roberts,2,Ballots Cast,,DEM,,80,34,0
 Roberts,2,U.S. Senate,,DEM,Beto O'Rourke,0,0,0
 Roberts,2,U.S. Senate,,DEM,Sema Hernandez,0,0,0
 Roberts,2,U.S. Senate,,DEM,Edward Kimbrough,0,0,0
-Roberts,2,United States Representative,13,DEM,Greg Sagan,0,0,0
+Roberts,2,U.S. House,13,DEM,Greg Sagan,0,0,0
 Roberts,2,Governor,,DEM,James Jolly Clark,0,0,0
 Roberts,2,Governor,,DEM,Tom Wakely,0,0,0
 Roberts,2,Governor,,DEM,Grady Yarbrough,0,0,0
@@ -265,7 +265,7 @@ Roberts,3,Registered Voters,,REP,,348,,
 Roberts,3,Ballots Cast,,REP,,46,17,0
 Roberts,3,U.S. Senate,,REP,Geraldine Sam,0,0,0
 Roberts,3,U.S. Senate,,REP,Ted Cruz,44,17,27
-Roberts,3,United States Representative,13,REP,MacThornberry,41,15,26
+Roberts,3,U.S. House,13,REP,MacThornberry,41,15,26
 Roberts,3,Governor,,REP,SECEDE Kilgore,5,4,1
 Roberts,3,Governor,,REP,Barbara Krueger,3,0,3
 Roberts,3,Governor,,REP,Greg Abbott,38,13,25
@@ -312,7 +312,7 @@ Roberts,3,Ballots Cast,,DEM,,46,17,0
 Roberts,3,U.S. Senate,,DEM,Beto O'Rourke,0,0,0
 Roberts,3,U.S. Senate,,DEM,Sema Hernandez,0,0,0
 Roberts,3,U.S. Senate,,DEM,Edward Kimbrough,0,0,0
-Roberts,3,United States Representative,13,DEM,Greg Sagan,0,0,0
+Roberts,3,U.S. House,13,DEM,Greg Sagan,0,0,0
 Roberts,3,Governor,,DEM,James Jolly Clark,0,0,0
 Roberts,3,Governor,,DEM,Tom Wakely,0,0,0
 Roberts,3,Governor,,DEM,Grady Yarbrough,0,0,0
@@ -393,7 +393,7 @@ Roberts,4,Registered Voters,,REP,,202,,
 Roberts,4,Ballots Cast,,REP,,47,15,0
 Roberts,4,U.S. Senate,,REP,Geraldine Sam,0,0,0
 Roberts,4,U.S. Senate,,REP,Ted Cruz,37,11,26
-Roberts,4,United States Representative,13,REP,MacThornberry,39,11,28
+Roberts,4,U.S. House,13,REP,MacThornberry,39,11,28
 Roberts,4,Governor,,REP,SECEDE Kilgore,2,0,2
 Roberts,4,Governor,,REP,Barbara Krueger,2,0,2
 Roberts,4,Governor,,REP,Greg Abbott,39,13,26
@@ -441,7 +441,7 @@ Roberts,4,Ballots Cast,,DEM,,47,15,0
 Roberts,4,U.S. Senate,,DEM,Beto O'Rourke,0,0,0
 Roberts,4,U.S. Senate,,DEM,Sema Hernandez,0,0,0
 Roberts,4,U.S. Senate,,DEM,Edward Kimbrough,2,2,0
-Roberts,4,United States Representative,13,DEM,Greg Sagan,2,2,0
+Roberts,4,U.S. House,13,DEM,Greg Sagan,2,2,0
 Roberts,4,Governor,,DEM,James Jolly Clark,0,0,0
 Roberts,4,Governor,,DEM,Tom Wakely,0,0,0
 Roberts,4,Governor,,DEM,Grady Yarbrough,0,0,0
@@ -522,7 +522,7 @@ Roberts,4,Registered Voters,,REP,,192,,
 Roberts,4,Ballots Cast,,REP,,41,7,0
 Roberts,4,U.S. Senate,,REP,Geraldine Sam,0,0,0
 Roberts,4,U.S. Senate,,REP,Ted Cruz,38,5,33
-Roberts,4,United States Representative,13,REP,MacThornberry,37,7,30
+Roberts,4,U.S. House,13,REP,MacThornberry,37,7,30
 Roberts,4,Governor,,REP,SECEDE Kilgore,1,1,0
 Roberts,4,Governor,,REP,Barbara Krueger,1,0,1
 Roberts,4,Governor,,REP,Greg Abbott,38,6,32
@@ -570,7 +570,7 @@ Roberts,4,Ballots Cast,,DEM,,41,7,0
 Roberts,4,U.S. Senate,,DEM,Beto O'Rourke,0,0,0
 Roberts,4,U.S. Senate,,DEM,Sema Hernandez,0,0,0
 Roberts,4,U.S. Senate,,DEM,Edward Kimbrough,0,0,0
-Roberts,4,United States Representative,13,DEM,Greg Sagan,0,0,0
+Roberts,4,U.S. House,13,DEM,Greg Sagan,0,0,0
 Roberts,4,Governor,,DEM,James Jolly Clark,0,0,0
 Roberts,4,Governor,,DEM,Tom Wakely,0,0,0
 Roberts,4,Governor,,DEM,Grady Yarbrough,0,0,0

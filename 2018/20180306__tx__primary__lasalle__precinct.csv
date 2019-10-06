@@ -8,8 +8,8 @@ LaSalle,1,Ballots Cast,,REP,,524,343,0
 LaSalle,1,U.S. Senate,,REP,Geraldine Sam,1,1,0
 LaSalle,1,U.S. Senate,,REP,Stefano de Stefano,0,0,0
 LaSalle,1,U.S. Senate,,REP,Ted Cruz,25,23,2
-LaSalle,1,United States Representative,23,REP,Will Hurd,25,22,3
-LaSalle,1,United States Representative,23,REP,Alma Arredondo-Lynch,4,4,0
+LaSalle,1,U.S. House,23,REP,Will Hurd,25,22,3
+LaSalle,1,U.S. House,23,REP,Alma Arredondo-Lynch,4,4,0
 LaSalle,1,Governor,,REP,SECEDE Kilgore,0,0,0
 LaSalle,1,Governor,,REP,Barbara Krueger,5,5,0
 LaSalle,1,Governor,,REP,Greg Abbott,24,21,3
@@ -50,11 +50,11 @@ LaSalle,1,U.S. Senate,,DEM,Under Votes,198,131,67
 LaSalle,1,Registered Voters,,DEM,,1025,,
 LaSalle,1,Ballots Cast,,DEM,,524,343,41
 LaSalle,1,U.S. Senate,,DEM,Beto O'Rourke,95,54,41
-LaSalle,1,United States Representative,23,DEM,Rick Treviño,103,61,42
-LaSalle,1,United States Representative,23,DEM,Jay Hulings,61,46,15
-LaSalle,1,United States Representative,23,DEM,Gina Ortiz Jones,103,57,46
-LaSalle,1,United States Representative,23,DEM,"Angela ""Angie"" Villescaz",16,12,4
-LaSalle,1,United States Representative,23,DEM,Judy Canales,33,21,12
+LaSalle,1,U.S. House,23,DEM,Rick Treviño,103,61,42
+LaSalle,1,U.S. House,23,DEM,Jay Hulings,61,46,15
+LaSalle,1,U.S. House,23,DEM,Gina Ortiz Jones,103,57,46
+LaSalle,1,U.S. House,23,DEM,"Angela ""Angie"" Villescaz",16,12,4
+LaSalle,1,U.S. House,23,DEM,Judy Canales,33,21,12
 LaSalle,1,Governor,,DEM,Lupe Valdez,101,67,34
 LaSalle,1,Governor,,DEM,James Jolly Clark,15,10,5
 LaSalle,1,Governor,,DEM,"Cedric Davis, Sr.",8,1,7
@@ -192,7 +192,7 @@ LaSalle,2,U.S. Senate,,DEM,Under Votes,138,70,68
 LaSalle,2,Registered Voters,,DEM,,626,,
 LaSalle,2,Ballots Cast,,DEM,,334,156,33
 LaSalle,2,U.S. Senate,,DEM,Beto O'Rourke,67,34,33
-LaSalle,2,United States Representative,28,DEM,Henry Cuellar,169,69,100
+LaSalle,2,U.S. House,28,DEM,Henry Cuellar,169,69,100
 LaSalle,2,Governor,,DEM,Lupe Valdez,100,54,46
 LaSalle,2,Governor,,DEM,James Jolly Clark,7,1,6
 LaSalle,2,Governor,,DEM,"Cedric Davis, Sr.",6,3,3
@@ -292,8 +292,8 @@ LaSalle,3,Ballots Cast,,REP,,470,255,0
 LaSalle,3,U.S. Senate,,REP,Geraldine Sam,0,0,0
 LaSalle,3,U.S. Senate,,REP,Stefano de Stefano,0,0,0
 LaSalle,3,U.S. Senate,,REP,Ted Cruz,7,6,1
-LaSalle,3,United States Representative,23,REP,Will Hurd,7,6,1
-LaSalle,3,United States Representative,23,REP,Alma Arredondo-Lynch,2,1,1
+LaSalle,3,U.S. House,23,REP,Will Hurd,7,6,1
+LaSalle,3,U.S. House,23,REP,Alma Arredondo-Lynch,2,1,1
 LaSalle,3,Governor,,REP,SECEDE Kilgore,1,0,1
 LaSalle,3,Governor,,REP,Barbara Krueger,1,1,0
 LaSalle,3,Governor,,REP,Greg Abbott,7,6,1
@@ -334,11 +334,11 @@ LaSalle,3,U.S. Senate,,DEM,Under Votes,204,110,94
 LaSalle,3,Registered Voters,,DEM,,1033,,
 LaSalle,3,Ballots Cast,,DEM,,470,255,39
 LaSalle,3,U.S. Senate,,DEM,Beto O'Rourke,89,50,39
-LaSalle,3,United States Representative,23,DEM,Rick Treviño,95,35,60
-LaSalle,3,United States Representative,23,DEM,Jay Hulings,53,33,20
-LaSalle,3,United States Representative,23,DEM,Gina Ortiz Jones,95,51,44
-LaSalle,3,United States Representative,23,DEM,"Angela ""Angie"" Villescaz",21,10,11
-LaSalle,3,United States Representative,23,DEM,Judy Canales,20,15,5
+LaSalle,3,U.S. House,23,DEM,Rick Treviño,95,35,60
+LaSalle,3,U.S. House,23,DEM,Jay Hulings,53,33,20
+LaSalle,3,U.S. House,23,DEM,Gina Ortiz Jones,95,51,44
+LaSalle,3,U.S. House,23,DEM,"Angela ""Angie"" Villescaz",21,10,11
+LaSalle,3,U.S. House,23,DEM,Judy Canales,20,15,5
 LaSalle,3,Governor,,DEM,Lupe Valdez,142,72,70
 LaSalle,3,Governor,,DEM,James Jolly Clark,8,6,2
 LaSalle,3,Governor,,DEM,"Cedric Davis, Sr.",8,3,5
@@ -476,7 +476,7 @@ LaSalle,3A,U.S. Senate,,DEM,Under Votes,0,0,0
 LaSalle,3A,Registered Voters,,DEM,,17,,
 LaSalle,3A,Ballots Cast,,DEM,,3,3,0
 LaSalle,3A,U.S. Senate,,DEM,Beto O'Rourke,0,0,0
-LaSalle,3A,United States Representative,28,DEM,Henry Cuellar,1,1,0
+LaSalle,3A,U.S. House,28,DEM,Henry Cuellar,1,1,0
 LaSalle,3A,Governor,,DEM,Lupe Valdez,0,0,0
 LaSalle,3A,Governor,,DEM,James Jolly Clark,0,0,0
 LaSalle,3A,Governor,,DEM,"Cedric Davis, Sr.",0,0,0
@@ -574,8 +574,8 @@ LaSalle,4,Ballots Cast,,REP,,54,13,1
 LaSalle,4,U.S. Senate,,REP,Geraldine Sam,1,0,1
 LaSalle,4,U.S. Senate,,REP,Stefano de Stefano,0,0,0
 LaSalle,4,U.S. Senate,,REP,Ted Cruz,10,1,9
-LaSalle,4,United States Representative,23,REP,Will Hurd,7,1,6
-LaSalle,4,United States Representative,23,REP,Alma Arredondo-Lynch,4,0,4
+LaSalle,4,U.S. House,23,REP,Will Hurd,7,1,6
+LaSalle,4,U.S. House,23,REP,Alma Arredondo-Lynch,4,0,4
 LaSalle,4,Governor,,REP,SECEDE Kilgore,0,0,0
 LaSalle,4,Governor,,REP,Barbara Krueger,2,0,2
 LaSalle,4,Governor,,REP,Greg Abbott,9,1,8
@@ -617,11 +617,11 @@ LaSalle,4,U.S. Senate,,DEM,Under Votes,27,10,17
 LaSalle,4,Registered Voters,,DEM,,96,,
 LaSalle,4,Ballots Cast,,DEM,,54,13,1
 LaSalle,4,U.S. Senate,,DEM,Beto O'Rourke,2,1,1
-LaSalle,4,United States Representative,23,DEM,Rick Treviño,5,1,4
-LaSalle,4,United States Representative,23,DEM,Jay Hulings,6,1,5
-LaSalle,4,United States Representative,23,DEM,Gina Ortiz Jones,2,1,1
-LaSalle,4,United States Representative,23,DEM,"Angela ""Angie"" Villescaz",0,0,0
-LaSalle,4,United States Representative,23,DEM,Judy Canales,1,0,1
+LaSalle,4,U.S. House,23,DEM,Rick Treviño,5,1,4
+LaSalle,4,U.S. House,23,DEM,Jay Hulings,6,1,5
+LaSalle,4,U.S. House,23,DEM,Gina Ortiz Jones,2,1,1
+LaSalle,4,U.S. House,23,DEM,"Angela ""Angie"" Villescaz",0,0,0
+LaSalle,4,U.S. House,23,DEM,Judy Canales,1,0,1
 LaSalle,4,Governor,,DEM,Lupe Valdez,2,1,1
 LaSalle,4,Governor,,DEM,James Jolly Clark,1,0,1
 LaSalle,4,Governor,,DEM,"Cedric Davis, Sr.",0,0,0
@@ -721,8 +721,8 @@ LaSalle,5,Ballots Cast,,REP,,514,322,0
 LaSalle,5,U.S. Senate,,REP,Geraldine Sam,0,0,0
 LaSalle,5,U.S. Senate,,REP,Stefano de Stefano,0,0,0
 LaSalle,5,U.S. Senate,,REP,Ted Cruz,11,9,2
-LaSalle,5,United States Representative,23,REP,Will Hurd,9,7,2
-LaSalle,5,United States Representative,23,REP,Alma Arredondo-Lynch,0,0,0
+LaSalle,5,U.S. House,23,REP,Will Hurd,9,7,2
+LaSalle,5,U.S. House,23,REP,Alma Arredondo-Lynch,0,0,0
 LaSalle,5,Governor,,REP,SECEDE Kilgore,0,0,0
 LaSalle,5,Governor,,REP,Barbara Krueger,0,0,0
 LaSalle,5,Governor,,REP,Greg Abbott,9,7,2
@@ -763,11 +763,11 @@ LaSalle,5,U.S. Senate,,DEM,Under Votes,246,160,86
 LaSalle,5,Registered Voters,,DEM,,900,,
 LaSalle,5,Ballots Cast,,DEM,,514,322,30
 LaSalle,5,U.S. Senate,,DEM,Beto O'Rourke,62,32,30
-LaSalle,5,United States Representative,23,DEM,Rick Treviño,107,65,42
-LaSalle,5,United States Representative,23,DEM,Jay Hulings,55,38,17
-LaSalle,5,United States Representative,23,DEM,Gina Ortiz Jones,69,44,25
-LaSalle,5,United States Representative,23,DEM,"Angela ""Angie"" Villescaz",18,11,7
-LaSalle,5,United States Representative,23,DEM,Judy Canales,41,21,20
+LaSalle,5,U.S. House,23,DEM,Rick Treviño,107,65,42
+LaSalle,5,U.S. House,23,DEM,Jay Hulings,55,38,17
+LaSalle,5,U.S. House,23,DEM,Gina Ortiz Jones,69,44,25
+LaSalle,5,U.S. House,23,DEM,"Angela ""Angie"" Villescaz",18,11,7
+LaSalle,5,U.S. House,23,DEM,Judy Canales,41,21,20
 LaSalle,5,Governor,,DEM,Lupe Valdez,120,73,47
 LaSalle,5,Governor,,DEM,James Jolly Clark,14,9,5
 LaSalle,5,Governor,,DEM,"Cedric Davis, Sr.",3,0,3
@@ -869,8 +869,8 @@ LaSalle,6,Ballots Cast,,REP,,210,115,0
 LaSalle,6,U.S. Senate,,REP,Geraldine Sam,0,0,0
 LaSalle,6,U.S. Senate,,REP,Stefano de Stefano,0,0,0
 LaSalle,6,U.S. Senate,,REP,Ted Cruz,7,7,0
-LaSalle,6,United States Representative,23,REP,Will Hurd,8,8,0
-LaSalle,6,United States Representative,23,REP,Alma Arredondo-Lynch,0,0,0
+LaSalle,6,U.S. House,23,REP,Will Hurd,8,8,0
+LaSalle,6,U.S. House,23,REP,Alma Arredondo-Lynch,0,0,0
 LaSalle,6,Governor,,REP,SECEDE Kilgore,0,0,0
 LaSalle,6,Governor,,REP,Barbara Krueger,0,0,0
 LaSalle,6,Governor,,REP,Greg Abbott,8,8,0
@@ -911,11 +911,11 @@ LaSalle,6,U.S. Senate,,DEM,Under Votes,90,53,37
 LaSalle,6,Registered Voters,,DEM,,438,,
 LaSalle,6,Ballots Cast,,DEM,,210,115,17
 LaSalle,6,U.S. Senate,,DEM,Beto O'Rourke,34,17,17
-LaSalle,6,United States Representative,23,DEM,Rick Treviño,35,17,18
-LaSalle,6,United States Representative,23,DEM,Jay Hulings,24,18,6
-LaSalle,6,United States Representative,23,DEM,Gina Ortiz Jones,38,13,25
-LaSalle,6,United States Representative,23,DEM,"Angela ""Angie"" Villescaz",8,4,4
-LaSalle,6,United States Representative,23,DEM,Judy Canales,19,6,13
+LaSalle,6,U.S. House,23,DEM,Rick Treviño,35,17,18
+LaSalle,6,U.S. House,23,DEM,Jay Hulings,24,18,6
+LaSalle,6,U.S. House,23,DEM,Gina Ortiz Jones,38,13,25
+LaSalle,6,U.S. House,23,DEM,"Angela ""Angie"" Villescaz",8,4,4
+LaSalle,6,U.S. House,23,DEM,Judy Canales,19,6,13
 LaSalle,6,Governor,,DEM,Lupe Valdez,55,25,30
 LaSalle,6,Governor,,DEM,James Jolly Clark,1,0,1
 LaSalle,6,Governor,,DEM,"Cedric Davis, Sr.",2,2,0

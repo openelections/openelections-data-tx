@@ -9,7 +9,7 @@ Milam,101,U.S. Senate,,REP,"Bruce Jacobson, Jr.",37,27,10,0
 Milam,101,U.S. Senate,,REP,Geraldine Sam,8,6,2,0
 Milam,101,U.S. Senate,,REP,Ted Cruz,574,323,201,50
 Milam,101,U.S. Senate,,REP,Mary Miller,61,39,19,3
-Milam,101,United States Representative,17,REP,Bill Flores,615,352,214,49
+Milam,101,U.S. House,17,REP,Bill Flores,615,352,214,49
 Milam,101,Governor,,REP,Barbara Krueger,60,39,19,2
 Milam,101,Governor,,REP,Greg Abbott,626,358,215,53
 Milam,101,Governor,,REP,SECEDE Kilgore,10,5,5,0
@@ -79,8 +79,8 @@ Milam,101,Proposition 11,,"",NO,90,52,33,5
 Milam,101,U.S. Senate,,DEM,Beto O'Rourke,33,16,11,6
 Milam,101,U.S. Senate,,DEM,Edward Kimbrough,29,12,10,7
 Milam,101,U.S. Senate,,DEM,Sema Hernandez,21,8,10,3
-Milam,101,United States Representative,17,DEM,Rick Kennedy,57,24,17,16
-Milam,101,United States Representative,17,DEM,Dale Mantey,28,12,14,2
+Milam,101,U.S. House,17,DEM,Rick Kennedy,57,24,17,16
+Milam,101,U.S. House,17,DEM,Dale Mantey,28,12,14,2
 Milam,101,Governor,,DEM,Andrew White,26,14,5,7
 Milam,101,Governor,,DEM,James Jolly Clark,3,1,1,1
 Milam,101,Governor,,DEM,Joe Mumbach,2,1,1,0
@@ -148,7 +148,7 @@ Milam,105,U.S. Senate,,REP,"Bruce Jacobson, Jr.",6,3,3,0
 Milam,105,U.S. Senate,,REP,Geraldine Sam,4,2,2,0
 Milam,105,U.S. Senate,,REP,Ted Cruz,192,71,93,28
 Milam,105,U.S. Senate,,REP,Mary Miller,28,10,15,3
-Milam,105,United States Representative,17,REP,Bill Flores,196,75,97,24
+Milam,105,U.S. House,17,REP,Bill Flores,196,75,97,24
 Milam,105,Governor,,REP,Barbara Krueger,22,9,10,3
 Milam,105,Governor,,REP,Greg Abbott,200,75,98,27
 Milam,105,Governor,,REP,SECEDE Kilgore,10,4,4,2
@@ -218,8 +218,8 @@ Milam,105,Proposition 11,,"",NO,14,3,9,2
 Milam,105,U.S. Senate,,DEM,Beto O'Rourke,14,3,11,0
 Milam,105,U.S. Senate,,DEM,Edward Kimbrough,3,1,1,1
 Milam,105,U.S. Senate,,DEM,Sema Hernandez,3,1,1,1
-Milam,105,United States Representative,17,DEM,Rick Kennedy,11,2,8,1
-Milam,105,United States Representative,17,DEM,Dale Mantey,8,3,4,1
+Milam,105,U.S. House,17,DEM,Rick Kennedy,11,2,8,1
+Milam,105,U.S. House,17,DEM,Dale Mantey,8,3,4,1
 Milam,105,Governor,,DEM,Andrew White,12,1,11,0
 Milam,105,Governor,,DEM,James Jolly Clark,0,0,0,0
 Milam,105,Governor,,DEM,Joe Mumbach,0,0,0,0
@@ -287,7 +287,7 @@ Milam,203,U.S. Senate,,REP,"Bruce Jacobson, Jr.",11,6,1,4
 Milam,203,U.S. Senate,,REP,Geraldine Sam,2,2,0,0
 Milam,203,U.S. Senate,,REP,Ted Cruz,99,52,46,1
 Milam,203,U.S. Senate,,REP,Mary Miller,3,2,1,0
-Milam,203,United States Representative,17,REP,Bill Flores,102,56,43,3
+Milam,203,U.S. House,17,REP,Bill Flores,102,56,43,3
 Milam,203,Governor,,REP,Barbara Krueger,12,8,2,2
 Milam,203,Governor,,REP,Greg Abbott,103,54,45,4
 Milam,203,Governor,,REP,SECEDE Kilgore,1,0,1,0
@@ -360,8 +360,8 @@ Milam,203,Proposition 11,,"",NO,7,4,3,0
 Milam,203,U.S. Senate,,DEM,Beto O'Rourke,9,4,3,2
 Milam,203,U.S. Senate,,DEM,Edward Kimbrough,1,0,1,0
 Milam,203,U.S. Senate,,DEM,Sema Hernandez,6,1,5,0
-Milam,203,United States Representative,17,DEM,Rick Kennedy,3,0,3,0
-Milam,203,United States Representative,17,DEM,Dale Mantey,13,5,6,2
+Milam,203,U.S. House,17,DEM,Rick Kennedy,3,0,3,0
+Milam,203,U.S. House,17,DEM,Dale Mantey,13,5,6,2
 Milam,203,Governor,,DEM,Andrew White,3,2,0,1
 Milam,203,Governor,,DEM,James Jolly Clark,1,0,1,0
 Milam,203,Governor,,DEM,Joe Mumbach,0,0,0,0
@@ -429,7 +429,7 @@ Milam,207,U.S. Senate,,REP,"Bruce Jacobson, Jr.",13,7,4,2
 Milam,207,U.S. Senate,,REP,Geraldine Sam,2,0,2,0
 Milam,207,U.S. Senate,,REP,Ted Cruz,70,27,37,6
 Milam,207,U.S. Senate,,REP,Mary Miller,7,6,1,0
-Milam,207,United States Representative,17,REP,Bill Flores,86,35,43,8
+Milam,207,U.S. House,17,REP,Bill Flores,86,35,43,8
 Milam,207,Governor,,REP,Barbara Krueger,14,7,5,2
 Milam,207,Governor,,REP,Greg Abbott,78,34,38,6
 Milam,207,Governor,,REP,SECEDE Kilgore,1,0,1,0
@@ -502,8 +502,8 @@ Milam,207,Proposition 11,,"",NO,12,5,6,1
 Milam,207,U.S. Senate,,DEM,Beto O'Rourke,10,5,1,4
 Milam,207,U.S. Senate,,DEM,Edward Kimbrough,7,4,3,0
 Milam,207,U.S. Senate,,DEM,Sema Hernandez,8,1,4,3
-Milam,207,United States Representative,17,DEM,Rick Kennedy,12,5,3,4
-Milam,207,United States Representative,17,DEM,Dale Mantey,12,5,5,2
+Milam,207,U.S. House,17,DEM,Rick Kennedy,12,5,3,4
+Milam,207,U.S. House,17,DEM,Dale Mantey,12,5,5,2
 Milam,207,Governor,,DEM,Andrew White,9,5,2,2
 Milam,207,Governor,,DEM,James Jolly Clark,2,0,1,1
 Milam,207,Governor,,DEM,Joe Mumbach,1,1,0,0
@@ -571,7 +571,7 @@ Milam,210,U.S. Senate,,REP,"Bruce Jacobson, Jr.",1,1,0,0
 Milam,210,U.S. Senate,,REP,Geraldine Sam,1,0,1,0
 Milam,210,U.S. Senate,,REP,Ted Cruz,126,74,38,14
 Milam,210,U.S. Senate,,REP,Mary Miller,9,5,3,1
-Milam,210,United States Representative,17,REP,Bill Flores,116,69,33,14
+Milam,210,U.S. House,17,REP,Bill Flores,116,69,33,14
 Milam,210,Governor,,REP,Barbara Krueger,8,5,3,0
 Milam,210,Governor,,REP,Greg Abbott,131,76,40,15
 Milam,210,Governor,,REP,SECEDE Kilgore,1,1,0,0
@@ -644,8 +644,8 @@ Milam,210,Proposition 11,,"",NO,12,8,4,0
 Milam,210,U.S. Senate,,DEM,Beto O'Rourke,3,0,1,2
 Milam,210,U.S. Senate,,DEM,Edward Kimbrough,10,1,6,3
 Milam,210,U.S. Senate,,DEM,Sema Hernandez,1,1,0,0
-Milam,210,United States Representative,17,DEM,Rick Kennedy,12,2,6,4
-Milam,210,United States Representative,17,DEM,Dale Mantey,3,0,1,2
+Milam,210,U.S. House,17,DEM,Rick Kennedy,12,2,6,4
+Milam,210,U.S. House,17,DEM,Dale Mantey,3,0,1,2
 Milam,210,Governor,,DEM,Andrew White,6,0,2,4
 Milam,210,Governor,,DEM,James Jolly Clark,0,0,0,0
 Milam,210,Governor,,DEM,Joe Mumbach,1,0,1,0
@@ -713,7 +713,7 @@ Milam,212,U.S. Senate,,REP,"Bruce Jacobson, Jr.",19,9,9,1
 Milam,212,U.S. Senate,,REP,Geraldine Sam,7,4,3,0
 Milam,212,U.S. Senate,,REP,Ted Cruz,349,204,119,26
 Milam,212,U.S. Senate,,REP,Mary Miller,28,16,12,0
-Milam,212,United States Representative,17,REP,Bill Flores,370,219,125,26
+Milam,212,U.S. House,17,REP,Bill Flores,370,219,125,26
 Milam,212,Governor,,REP,Barbara Krueger,35,25,10,0
 Milam,212,Governor,,REP,Greg Abbott,372,212,131,29
 Milam,212,Governor,,REP,SECEDE Kilgore,11,8,3,0
@@ -786,8 +786,8 @@ Milam,212,Proposition 11,,"",NO,44,27,12,5
 Milam,212,U.S. Senate,,DEM,Beto O'Rourke,34,8,20,6
 Milam,212,U.S. Senate,,DEM,Edward Kimbrough,34,4,17,13
 Milam,212,U.S. Senate,,DEM,Sema Hernandez,19,7,9,3
-Milam,212,United States Representative,17,DEM,Rick Kennedy,60,15,30,15
-Milam,212,United States Representative,17,DEM,Dale Mantey,25,4,14,7
+Milam,212,U.S. House,17,DEM,Rick Kennedy,60,15,30,15
+Milam,212,U.S. House,17,DEM,Dale Mantey,25,4,14,7
 Milam,212,Governor,,DEM,Andrew White,26,5,10,11
 Milam,212,Governor,,DEM,James Jolly Clark,3,0,2,1
 Milam,212,Governor,,DEM,Joe Mumbach,0,0,0,0
@@ -855,7 +855,7 @@ Milam,316,U.S. Senate,,REP,"Bruce Jacobson, Jr.",6,1,5,0
 Milam,316,U.S. Senate,,REP,Geraldine Sam,2,2,0,0
 Milam,316,U.S. Senate,,REP,Ted Cruz,100,21,72,7
 Milam,316,U.S. Senate,,REP,Mary Miller,9,1,7,1
-Milam,316,United States Representative,17,REP,Bill Flores,108,24,77,7
+Milam,316,U.S. House,17,REP,Bill Flores,108,24,77,7
 Milam,316,Governor,,REP,Barbara Krueger,11,3,7,1
 Milam,316,Governor,,REP,Greg Abbott,112,24,81,7
 Milam,316,Governor,,REP,SECEDE Kilgore,0,0,0,0
@@ -924,8 +924,8 @@ Milam,316,Proposition 11,,"",NO,12,4,8,0
 Milam,316,U.S. Senate,,DEM,Beto O'Rourke,16,5,9,2
 Milam,316,U.S. Senate,,DEM,Edward Kimbrough,9,0,9,0
 Milam,316,U.S. Senate,,DEM,Sema Hernandez,11,1,8,2
-Milam,316,United States Representative,17,DEM,Rick Kennedy,20,3,15,2
-Milam,316,United States Representative,17,DEM,Dale Mantey,16,3,11,2
+Milam,316,U.S. House,17,DEM,Rick Kennedy,20,3,15,2
+Milam,316,U.S. House,17,DEM,Dale Mantey,16,3,11,2
 Milam,316,Governor,,DEM,Andrew White,9,1,8,0
 Milam,316,Governor,,DEM,James Jolly Clark,0,0,0,0
 Milam,316,Governor,,DEM,Joe Mumbach,1,0,1,0
@@ -993,7 +993,7 @@ Milam,317,U.S. Senate,,REP,"Bruce Jacobson, Jr.",21,8,11,2
 Milam,317,U.S. Senate,,REP,Geraldine Sam,5,1,4,0
 Milam,317,U.S. Senate,,REP,Ted Cruz,212,71,127,14
 Milam,317,U.S. Senate,,REP,Mary Miller,16,6,10,0
-Milam,317,United States Representative,17,REP,Bill Flores,230,76,138,16
+Milam,317,U.S. House,17,REP,Bill Flores,230,76,138,16
 Milam,317,Governor,,REP,Barbara Krueger,34,10,23,1
 Milam,317,Governor,,REP,Greg Abbott,226,81,129,16
 Milam,317,Governor,,REP,SECEDE Kilgore,4,1,3,0
@@ -1062,8 +1062,8 @@ Milam,317,Proposition 11,,"",NO,35,12,22,1
 Milam,317,U.S. Senate,,DEM,Beto O'Rourke,13,4,9,0
 Milam,317,U.S. Senate,,DEM,Edward Kimbrough,8,4,3,1
 Milam,317,U.S. Senate,,DEM,Sema Hernandez,5,2,2,1
-Milam,317,United States Representative,17,DEM,Rick Kennedy,16,7,8,1
-Milam,317,United States Representative,17,DEM,Dale Mantey,10,3,7,0
+Milam,317,U.S. House,17,DEM,Rick Kennedy,16,7,8,1
+Milam,317,U.S. House,17,DEM,Dale Mantey,10,3,7,0
 Milam,317,Governor,,DEM,Andrew White,10,4,6,0
 Milam,317,Governor,,DEM,James Jolly Clark,2,0,0,2
 Milam,317,Governor,,DEM,Joe Mumbach,1,1,0,0
@@ -1131,7 +1131,7 @@ Milam,318,U.S. Senate,,REP,"Bruce Jacobson, Jr.",33,19,12,2
 Milam,318,U.S. Senate,,REP,Geraldine Sam,16,8,7,1
 Milam,318,U.S. Senate,,REP,Ted Cruz,332,160,143,29
 Milam,318,U.S. Senate,,REP,Mary Miller,55,34,20,1
-Milam,318,United States Representative,17,REP,Bill Flores,389,193,168,28
+Milam,318,U.S. House,17,REP,Bill Flores,389,193,168,28
 Milam,318,Governor,,REP,Barbara Krueger,67,31,32,4
 Milam,318,Governor,,REP,Greg Abbott,348,172,150,26
 Milam,318,Governor,,REP,SECEDE Kilgore,9,4,3,2
@@ -1200,8 +1200,8 @@ Milam,318,Proposition 11,,"",NO,54,33,20,1
 Milam,318,U.S. Senate,,DEM,Beto O'Rourke,56,21,26,9
 Milam,318,U.S. Senate,,DEM,Edward Kimbrough,33,7,14,12
 Milam,318,U.S. Senate,,DEM,Sema Hernandez,16,6,8,2
-Milam,318,United States Representative,17,DEM,Rick Kennedy,30,5,8,17
-Milam,318,United States Representative,17,DEM,Dale Mantey,78,29,43,6
+Milam,318,U.S. House,17,DEM,Rick Kennedy,30,5,8,17
+Milam,318,U.S. House,17,DEM,Dale Mantey,78,29,43,6
 Milam,318,Governor,,DEM,Andrew White,47,15,19,13
 Milam,318,Governor,,DEM,James Jolly Clark,6,2,4,0
 Milam,318,Governor,,DEM,Joe Mumbach,1,1,0,0
@@ -1269,7 +1269,7 @@ Milam,419,U.S. Senate,,REP,"Bruce Jacobson, Jr.",17,7,10,0
 Milam,419,U.S. Senate,,REP,Geraldine Sam,6,3,3,0
 Milam,419,U.S. Senate,,REP,Ted Cruz,226,116,92,18
 Milam,419,U.S. Senate,,REP,Mary Miller,26,16,9,1
-Milam,419,United States Representative,17,REP,Bill Flores,263,142,101,20
+Milam,419,U.S. House,17,REP,Bill Flores,263,142,101,20
 Milam,419,Governor,,REP,Barbara Krueger,36,20,16,0
 Milam,419,Governor,,REP,Greg Abbott,229,115,95,19
 Milam,419,Governor,,REP,SECEDE Kilgore,5,5,0,0
@@ -1338,8 +1338,8 @@ Milam,419,Proposition 11,,"",NO,35,23,12,0
 Milam,419,U.S. Senate,,DEM,Beto O'Rourke,42,16,20,6
 Milam,419,U.S. Senate,,DEM,Edward Kimbrough,20,8,10,2
 Milam,419,U.S. Senate,,DEM,Sema Hernandez,25,9,14,2
-Milam,419,United States Representative,17,DEM,Rick Kennedy,25,10,12,3
-Milam,419,United States Representative,17,DEM,Dale Mantey,62,26,30,6
+Milam,419,U.S. House,17,DEM,Rick Kennedy,25,10,12,3
+Milam,419,U.S. House,17,DEM,Dale Mantey,62,26,30,6
 Milam,419,Governor,,DEM,Andrew White,31,11,15,5
 Milam,419,Governor,,DEM,James Jolly Clark,2,1,1,0
 Milam,419,Governor,,DEM,Joe Mumbach,2,2,0,0
@@ -1408,7 +1408,7 @@ Milam,420,U.S. Senate,,REP,"Bruce Jacobson, Jr.",18,10,8,0
 Milam,420,U.S. Senate,,REP,Geraldine Sam,1,1,0,0
 Milam,420,U.S. Senate,,REP,Ted Cruz,267,122,131,14
 Milam,420,U.S. Senate,,REP,Mary Miller,33,16,16,1
-Milam,420,United States Representative,17,REP,Bill Flores,284,132,137,15
+Milam,420,U.S. House,17,REP,Bill Flores,284,132,137,15
 Milam,420,Governor,,REP,Barbara Krueger,28,17,11,0
 Milam,420,Governor,,REP,Greg Abbott,287,132,140,15
 Milam,420,Governor,,REP,SECEDE Kilgore,7,4,2,1
@@ -1477,8 +1477,8 @@ Milam,420,Proposition 11,,"",NO,37,18,17,2
 Milam,420,U.S. Senate,,DEM,Beto O'Rourke,40,17,22,1
 Milam,420,U.S. Senate,,DEM,Edward Kimbrough,36,16,16,4
 Milam,420,U.S. Senate,,DEM,Sema Hernandez,11,6,4,1
-Milam,420,United States Representative,17,DEM,Rick Kennedy,42,13,23,6
-Milam,420,United States Representative,17,DEM,Dale Mantey,47,26,21,0
+Milam,420,U.S. House,17,DEM,Rick Kennedy,42,13,23,6
+Milam,420,U.S. House,17,DEM,Dale Mantey,47,26,21,0
 Milam,420,Governor,,DEM,Andrew White,35,15,17,3
 Milam,420,Governor,,DEM,James Jolly Clark,3,1,2,0
 Milam,420,Governor,,DEM,Joe Mumbach,2,2,0,0

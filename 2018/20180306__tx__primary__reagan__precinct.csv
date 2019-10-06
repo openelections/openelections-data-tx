@@ -10,10 +10,10 @@ Reagan,1,U.S. Senate,,REP,Over Votes,0,0,0
 Reagan,1,U.S. Senate,,REP,Under Votes,10,3,7
 Reagan,1,U.S. Senate,,REP,"Bruce Jacobson, Jr.",0,0,0
 Reagan,1,U.S. Senate,,REP,Ted Cruz,44,20,24
-Reagan,1,United States Representative,23,REP,Will Hurd,39,19,20
-Reagan,1,United States Representative,23,REP,Over Votes,0,0,0
-Reagan,1,United States Representative,23,REP,Under Votes,13,3,10
-Reagan,1,United States Representative,23,REP,Alma Arredondo-Lynch,16,9,7
+Reagan,1,U.S. House,23,REP,Will Hurd,39,19,20
+Reagan,1,U.S. House,23,REP,Over Votes,0,0,0
+Reagan,1,U.S. House,23,REP,Under Votes,13,3,10
+Reagan,1,U.S. House,23,REP,Alma Arredondo-Lynch,16,9,7
 Reagan,1,Governor,,REP,Barbara Krueger,17,11,6
 Reagan,1,Governor,,REP,SECEDE Kilgore,2,1,1
 Reagan,1,Governor,,REP,Greg Abbott,37,15,22
@@ -90,13 +90,13 @@ Reagan,1,U.S. Senate,,DEM,Over Votes,0,0,0
 Reagan,1,U.S. Senate,,DEM,Under Votes,0,0,0
 Reagan,1,U.S. Senate,,DEM,Edward Kimbrough,0,0,0
 Reagan,1,U.S. Senate,,DEM,Sema Hernandez,1,1,0
-Reagan,1,United States Representative,23,DEM,"Angela ""Angie"" Villescaz",0,0,0
-Reagan,1,United States Representative,23,DEM,Over Votes,0,0,0
-Reagan,1,United States Representative,23,DEM,Under Votes,0,0,0
-Reagan,1,United States Representative,23,DEM,Rick Treviño,0,0,0
-Reagan,1,United States Representative,23,DEM,Jay Hulings,1,1,0
-Reagan,1,United States Representative,23,DEM,Judy Canales,0,0,0
-Reagan,1,United States Representative,23,DEM,Gina Ortiz Jones,0,0,0
+Reagan,1,U.S. House,23,DEM,"Angela ""Angie"" Villescaz",0,0,0
+Reagan,1,U.S. House,23,DEM,Over Votes,0,0,0
+Reagan,1,U.S. House,23,DEM,Under Votes,0,0,0
+Reagan,1,U.S. House,23,DEM,Rick Treviño,0,0,0
+Reagan,1,U.S. House,23,DEM,Jay Hulings,1,1,0
+Reagan,1,U.S. House,23,DEM,Judy Canales,0,0,0
+Reagan,1,U.S. House,23,DEM,Gina Ortiz Jones,0,0,0
 Reagan,1,Governor,,DEM,Grady Yarbrough,0,0,0
 Reagan,1,Governor,,DEM,"Cedric Davis, Sr.",0,0,0
 Reagan,1,Governor,,DEM,Lupe Valdez,1,1,0
@@ -257,10 +257,10 @@ Reagan,2,U.S. Senate,,REP,Over Votes,0,0,0
 Reagan,2,U.S. Senate,,REP,Under Votes,17,7,10
 Reagan,2,U.S. Senate,,REP,"Bruce Jacobson, Jr.",9,6,3
 Reagan,2,U.S. Senate,,REP,Ted Cruz,154,74,80
-Reagan,2,United States Representative,23,REP,Will Hurd,148,78,70
-Reagan,2,United States Representative,23,REP,Over Votes,0,0,0
-Reagan,2,United States Representative,23,REP,Under Votes,22,10,12
-Reagan,2,United States Representative,23,REP,Alma Arredondo-Lynch,29,9,20
+Reagan,2,U.S. House,23,REP,Will Hurd,148,78,70
+Reagan,2,U.S. House,23,REP,Over Votes,0,0,0
+Reagan,2,U.S. House,23,REP,Under Votes,22,10,12
+Reagan,2,U.S. House,23,REP,Alma Arredondo-Lynch,29,9,20
 Reagan,2,Governor,,REP,Barbara Krueger,30,14,16
 Reagan,2,Governor,,REP,SECEDE Kilgore,2,1,1
 Reagan,2,Governor,,REP,Greg Abbott,148,74,74
@@ -337,13 +337,13 @@ Reagan,2,U.S. Senate,,DEM,Over Votes,0,0,0
 Reagan,2,U.S. Senate,,DEM,Under Votes,1,0,1
 Reagan,2,U.S. Senate,,DEM,Edward Kimbrough,0,0,0
 Reagan,2,U.S. Senate,,DEM,Sema Hernandez,0,0,0
-Reagan,2,United States Representative,23,DEM,"Angela ""Angie"" Villescaz",0,0,0
-Reagan,2,United States Representative,23,DEM,Over Votes,0,0,0
-Reagan,2,United States Representative,23,DEM,Under Votes,1,0,1
-Reagan,2,United States Representative,23,DEM,Rick Treviño,0,0,0
-Reagan,2,United States Representative,23,DEM,Jay Hulings,0,0,0
-Reagan,2,United States Representative,23,DEM,Judy Canales,0,0,0
-Reagan,2,United States Representative,23,DEM,Gina Ortiz Jones,1,0,1
+Reagan,2,U.S. House,23,DEM,"Angela ""Angie"" Villescaz",0,0,0
+Reagan,2,U.S. House,23,DEM,Over Votes,0,0,0
+Reagan,2,U.S. House,23,DEM,Under Votes,1,0,1
+Reagan,2,U.S. House,23,DEM,Rick Treviño,0,0,0
+Reagan,2,U.S. House,23,DEM,Jay Hulings,0,0,0
+Reagan,2,U.S. House,23,DEM,Judy Canales,0,0,0
+Reagan,2,U.S. House,23,DEM,Gina Ortiz Jones,1,0,1
 Reagan,2,Governor,,DEM,Grady Yarbrough,1,0,1
 Reagan,2,Governor,,DEM,"Cedric Davis, Sr.",0,0,0
 Reagan,2,Governor,,DEM,Lupe Valdez,0,0,0
@@ -504,10 +504,10 @@ Reagan,3,U.S. Senate,,REP,Over Votes,0,0,0
 Reagan,3,U.S. Senate,,REP,Under Votes,19,13,6
 Reagan,3,U.S. Senate,,REP,"Bruce Jacobson, Jr.",4,3,1
 Reagan,3,U.S. Senate,,REP,Ted Cruz,102,64,38
-Reagan,3,United States Representative,23,REP,Will Hurd,101,69,32
-Reagan,3,United States Representative,23,REP,Over Votes,0,0,0
-Reagan,3,United States Representative,23,REP,Under Votes,16,9,7
-Reagan,3,United States Representative,23,REP,Alma Arredondo-Lynch,17,9,8
+Reagan,3,U.S. House,23,REP,Will Hurd,101,69,32
+Reagan,3,U.S. House,23,REP,Over Votes,0,0,0
+Reagan,3,U.S. House,23,REP,Under Votes,16,9,7
+Reagan,3,U.S. House,23,REP,Alma Arredondo-Lynch,17,9,8
 Reagan,3,Governor,,REP,Barbara Krueger,13,10,3
 Reagan,3,Governor,,REP,SECEDE Kilgore,1,1,0
 Reagan,3,Governor,,REP,Greg Abbott,106,67,39
@@ -581,13 +581,13 @@ Reagan,3,U.S. Senate,,DEM,Over Votes,0,0,0
 Reagan,3,U.S. Senate,,DEM,Under Votes,0,0,0
 Reagan,3,U.S. Senate,,DEM,Edward Kimbrough,1,0,1
 Reagan,3,U.S. Senate,,DEM,Sema Hernandez,1,1,0
-Reagan,3,United States Representative,23,DEM,"Angela ""Angie"" Villescaz",0,0,0
-Reagan,3,United States Representative,23,DEM,Over Votes,0,0,0
-Reagan,3,United States Representative,23,DEM,Under Votes,0,0,0
-Reagan,3,United States Representative,23,DEM,Rick Treviño,0,0,0
-Reagan,3,United States Representative,23,DEM,Jay Hulings,2,1,1
-Reagan,3,United States Representative,23,DEM,Judy Canales,0,0,0
-Reagan,3,United States Representative,23,DEM,Gina Ortiz Jones,0,0,0
+Reagan,3,U.S. House,23,DEM,"Angela ""Angie"" Villescaz",0,0,0
+Reagan,3,U.S. House,23,DEM,Over Votes,0,0,0
+Reagan,3,U.S. House,23,DEM,Under Votes,0,0,0
+Reagan,3,U.S. House,23,DEM,Rick Treviño,0,0,0
+Reagan,3,U.S. House,23,DEM,Jay Hulings,2,1,1
+Reagan,3,U.S. House,23,DEM,Judy Canales,0,0,0
+Reagan,3,U.S. House,23,DEM,Gina Ortiz Jones,0,0,0
 Reagan,3,Governor,,DEM,Grady Yarbrough,1,0,1
 Reagan,3,Governor,,DEM,"Cedric Davis, Sr.",0,0,0
 Reagan,3,Governor,,DEM,Lupe Valdez,1,1,0
@@ -748,10 +748,10 @@ Reagan,4,U.S. Senate,,REP,Over Votes,0,0,0
 Reagan,4,U.S. Senate,,REP,Under Votes,19,14,5
 Reagan,4,U.S. Senate,,REP,"Bruce Jacobson, Jr.",1,0,1
 Reagan,4,U.S. Senate,,REP,Ted Cruz,111,78,33
-Reagan,4,United States Representative,23,REP,Will Hurd,107,76,31
-Reagan,4,United States Representative,23,REP,Over Votes,0,0,0
-Reagan,4,United States Representative,23,REP,Under Votes,17,13,4
-Reagan,4,United States Representative,23,REP,Alma Arredondo-Lynch,23,15,8
+Reagan,4,U.S. House,23,REP,Will Hurd,107,76,31
+Reagan,4,U.S. House,23,REP,Over Votes,0,0,0
+Reagan,4,U.S. House,23,REP,Under Votes,17,13,4
+Reagan,4,U.S. House,23,REP,Alma Arredondo-Lynch,23,15,8
 Reagan,4,Governor,,REP,Barbara Krueger,12,9,3
 Reagan,4,Governor,,REP,SECEDE Kilgore,8,5,3
 Reagan,4,Governor,,REP,Greg Abbott,112,80,32
@@ -832,13 +832,13 @@ Reagan,4,U.S. Senate,,DEM,Over Votes,0,0,0
 Reagan,4,U.S. Senate,,DEM,Under Votes,0,0,0
 Reagan,4,U.S. Senate,,DEM,Edward Kimbrough,0,0,0
 Reagan,4,U.S. Senate,,DEM,Sema Hernandez,1,1,0
-Reagan,4,United States Representative,23,DEM,"Angela ""Angie"" Villescaz",0,0,0
-Reagan,4,United States Representative,23,DEM,Over Votes,0,0,0
-Reagan,4,United States Representative,23,DEM,Under Votes,0,0,0
-Reagan,4,United States Representative,23,DEM,Rick Treviño,1,1,0
-Reagan,4,United States Representative,23,DEM,Jay Hulings,0,0,0
-Reagan,4,United States Representative,23,DEM,Judy Canales,0,0,0
-Reagan,4,United States Representative,23,DEM,Gina Ortiz Jones,0,0,0
+Reagan,4,U.S. House,23,DEM,"Angela ""Angie"" Villescaz",0,0,0
+Reagan,4,U.S. House,23,DEM,Over Votes,0,0,0
+Reagan,4,U.S. House,23,DEM,Under Votes,0,0,0
+Reagan,4,U.S. House,23,DEM,Rick Treviño,1,1,0
+Reagan,4,U.S. House,23,DEM,Jay Hulings,0,0,0
+Reagan,4,U.S. House,23,DEM,Judy Canales,0,0,0
+Reagan,4,U.S. House,23,DEM,Gina Ortiz Jones,0,0,0
 Reagan,4,Governor,,DEM,Grady Yarbrough,0,0,0
 Reagan,4,Governor,,DEM,"Cedric Davis, Sr.",0,0,0
 Reagan,4,Governor,,DEM,Lupe Valdez,1,1,0

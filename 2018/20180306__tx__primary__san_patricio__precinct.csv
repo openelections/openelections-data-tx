@@ -5,12 +5,12 @@ San Patricio,101,U.S. Senate,,REP,Mary Miller,2,1,1
 San Patricio,101,U.S. Senate,,REP,Geraldine Sam,0,0,0
 San Patricio,101,U.S. Senate,,REP,"Bruce Jacobson, Jr.",3,1,2
 San Patricio,101,U.S. Senate,,REP,Ted Cruz,38,10,28
-San Patricio,101,United States Representative,27,REP,John Grunwald,4,2,2
-San Patricio,101,United States Representative,27,REP,Bech Bruun,19,3,16
-San Patricio,101,United States Representative,27,REP,Michael Cloud,9,5,4
-San Patricio,101,United States Representative,27,REP,Christopher K. Mapp,2,0,2
-San Patricio,101,United States Representative,27,REP,Eddie Gassman,2,1,1
-San Patricio,101,United States Representative,27,REP,Jerry Hall,5,1,4
+San Patricio,101,U.S. House,27,REP,John Grunwald,4,2,2
+San Patricio,101,U.S. House,27,REP,Bech Bruun,19,3,16
+San Patricio,101,U.S. House,27,REP,Michael Cloud,9,5,4
+San Patricio,101,U.S. House,27,REP,Christopher K. Mapp,2,0,2
+San Patricio,101,U.S. House,27,REP,Eddie Gassman,2,1,1
+San Patricio,101,U.S. House,27,REP,Jerry Hall,5,1,4
 San Patricio,101,Governor,,REP,SECEDE Kilgore,0,0,0
 San Patricio,101,Governor,,REP,Barbara Krueger,2,1,1
 San Patricio,101,Governor,,REP,Greg Abbott,41,11,30
@@ -82,7 +82,7 @@ San Patricio,102,U.S. Senate,,REP,Mary Miller,12,7,5
 San Patricio,102,U.S. Senate,,REP,Geraldine Sam,1,0,1
 San Patricio,102,U.S. Senate,,REP,"Bruce Jacobson, Jr.",8,3,5
 San Patricio,102,U.S. Senate,,REP,Ted Cruz,160,66,94
-San Patricio,102,United States Representative,34,REP,Rey Gonzalez,148,60,88
+San Patricio,102,U.S. House,34,REP,Rey Gonzalez,148,60,88
 San Patricio,102,Governor,,REP,SECEDE Kilgore,1,1,0
 San Patricio,102,Governor,,REP,Barbara Krueger,18,8,10
 San Patricio,102,Governor,,REP,Greg Abbott,170,70,100
@@ -154,12 +154,12 @@ San Patricio,103,U.S. Senate,,REP,Mary Miller,3,2,1
 San Patricio,103,U.S. Senate,,REP,Geraldine Sam,0,0,0
 San Patricio,103,U.S. Senate,,REP,"Bruce Jacobson, Jr.",2,0,2
 San Patricio,103,U.S. Senate,,REP,Ted Cruz,41,9,32
-San Patricio,103,United States Representative,27,REP,John Grunwald,8,2,6
-San Patricio,103,United States Representative,27,REP,Bech Bruun,21,4,17
-San Patricio,103,United States Representative,27,REP,Michael Cloud,10,4,6
-San Patricio,103,United States Representative,27,REP,Christopher K. Mapp,5,1,4
-San Patricio,103,United States Representative,27,REP,Eddie Gassman,1,0,1
-San Patricio,103,United States Representative,27,REP,Jerry Hall,1,0,1
+San Patricio,103,U.S. House,27,REP,John Grunwald,8,2,6
+San Patricio,103,U.S. House,27,REP,Bech Bruun,21,4,17
+San Patricio,103,U.S. House,27,REP,Michael Cloud,10,4,6
+San Patricio,103,U.S. House,27,REP,Christopher K. Mapp,5,1,4
+San Patricio,103,U.S. House,27,REP,Eddie Gassman,1,0,1
+San Patricio,103,U.S. House,27,REP,Jerry Hall,1,0,1
 San Patricio,103,Governor,,REP,SECEDE Kilgore,0,0,0
 San Patricio,103,Governor,,REP,Barbara Krueger,3,1,2
 San Patricio,103,Governor,,REP,Greg Abbott,44,10,34
@@ -231,7 +231,7 @@ San Patricio,104,U.S. Senate,,REP,Mary Miller,6,2,4
 San Patricio,104,U.S. Senate,,REP,Geraldine Sam,5,4,1
 San Patricio,104,U.S. Senate,,REP,"Bruce Jacobson, Jr.",4,1,3
 San Patricio,104,U.S. Senate,,REP,Ted Cruz,146,55,91
-San Patricio,104,United States Representative,34,REP,Rey Gonzalez,122,43,79
+San Patricio,104,U.S. House,34,REP,Rey Gonzalez,122,43,79
 San Patricio,104,Governor,,REP,SECEDE Kilgore,3,1,2
 San Patricio,104,Governor,,REP,Barbara Krueger,7,4,3
 San Patricio,104,Governor,,REP,Greg Abbott,154,57,97
@@ -303,7 +303,7 @@ San Patricio,105,U.S. Senate,,REP,Mary Miller,2,1,1
 San Patricio,105,U.S. Senate,,REP,Geraldine Sam,2,0,2
 San Patricio,105,U.S. Senate,,REP,"Bruce Jacobson, Jr.",1,0,1
 San Patricio,105,U.S. Senate,,REP,Ted Cruz,38,5,33
-San Patricio,105,United States Representative,34,REP,Rey Gonzalez,34,4,30
+San Patricio,105,U.S. House,34,REP,Rey Gonzalez,34,4,30
 San Patricio,105,Governor,,REP,SECEDE Kilgore,0,0,0
 San Patricio,105,Governor,,REP,Barbara Krueger,0,0,0
 San Patricio,105,Governor,,REP,Greg Abbott,43,5,38
@@ -375,12 +375,12 @@ San Patricio,106,U.S. Senate,,REP,Mary Miller,16,10,6
 San Patricio,106,U.S. Senate,,REP,Geraldine Sam,2,0,2
 San Patricio,106,U.S. Senate,,REP,"Bruce Jacobson, Jr.",10,4,6
 San Patricio,106,U.S. Senate,,REP,Ted Cruz,114,44,70
-San Patricio,106,United States Representative,27,REP,John Grunwald,15,8,7
-San Patricio,106,United States Representative,27,REP,Bech Bruun,59,31,28
-San Patricio,106,United States Representative,27,REP,Michael Cloud,30,10,20
-San Patricio,106,United States Representative,27,REP,Christopher K. Mapp,11,1,10
-San Patricio,106,United States Representative,27,REP,Eddie Gassman,2,0,2
-San Patricio,106,United States Representative,27,REP,Jerry Hall,17,7,10
+San Patricio,106,U.S. House,27,REP,John Grunwald,15,8,7
+San Patricio,106,U.S. House,27,REP,Bech Bruun,59,31,28
+San Patricio,106,U.S. House,27,REP,Michael Cloud,30,10,20
+San Patricio,106,U.S. House,27,REP,Christopher K. Mapp,11,1,10
+San Patricio,106,U.S. House,27,REP,Eddie Gassman,2,0,2
+San Patricio,106,U.S. House,27,REP,Jerry Hall,17,7,10
 San Patricio,106,Governor,,REP,SECEDE Kilgore,2,0,2
 San Patricio,106,Governor,,REP,Barbara Krueger,15,9,6
 San Patricio,106,Governor,,REP,Greg Abbott,129,52,77
@@ -453,12 +453,12 @@ San Patricio,107,U.S. Senate,,REP,Mary Miller,0,0,0
 San Patricio,107,U.S. Senate,,REP,Geraldine Sam,0,0,0
 San Patricio,107,U.S. Senate,,REP,"Bruce Jacobson, Jr.",0,0,0
 San Patricio,107,U.S. Senate,,REP,Ted Cruz,23,6,17
-San Patricio,107,United States Representative,27,REP,John Grunwald,1,0,1
-San Patricio,107,United States Representative,27,REP,Bech Bruun,8,0,8
-San Patricio,107,United States Representative,27,REP,Michael Cloud,6,2,4
-San Patricio,107,United States Representative,27,REP,Christopher K. Mapp,2,0,2
-San Patricio,107,United States Representative,27,REP,Eddie Gassman,0,0,0
-San Patricio,107,United States Representative,27,REP,Jerry Hall,1,1,0
+San Patricio,107,U.S. House,27,REP,John Grunwald,1,0,1
+San Patricio,107,U.S. House,27,REP,Bech Bruun,8,0,8
+San Patricio,107,U.S. House,27,REP,Michael Cloud,6,2,4
+San Patricio,107,U.S. House,27,REP,Christopher K. Mapp,2,0,2
+San Patricio,107,U.S. House,27,REP,Eddie Gassman,0,0,0
+San Patricio,107,U.S. House,27,REP,Jerry Hall,1,1,0
 San Patricio,107,Governor,,REP,SECEDE Kilgore,0,0,0
 San Patricio,107,Governor,,REP,Barbara Krueger,0,0,0
 San Patricio,107,Governor,,REP,Greg Abbott,23,6,17
@@ -533,12 +533,12 @@ San Patricio,108,U.S. Senate,,REP,Mary Miller,61,31,30
 San Patricio,108,U.S. Senate,,REP,Geraldine Sam,2,1,1
 San Patricio,108,U.S. Senate,,REP,"Bruce Jacobson, Jr.",26,11,15
 San Patricio,108,U.S. Senate,,REP,Ted Cruz,464,245,219
-San Patricio,108,United States Representative,27,REP,John Grunwald,48,22,26
-San Patricio,108,United States Representative,27,REP,Bech Bruun,223,103,120
-San Patricio,108,United States Representative,27,REP,Michael Cloud,133,83,50
-San Patricio,108,United States Representative,27,REP,Christopher K. Mapp,41,16,25
-San Patricio,108,United States Representative,27,REP,Eddie Gassman,19,7,12
-San Patricio,108,United States Representative,27,REP,Jerry Hall,64,46,18
+San Patricio,108,U.S. House,27,REP,John Grunwald,48,22,26
+San Patricio,108,U.S. House,27,REP,Bech Bruun,223,103,120
+San Patricio,108,U.S. House,27,REP,Michael Cloud,133,83,50
+San Patricio,108,U.S. House,27,REP,Christopher K. Mapp,41,16,25
+San Patricio,108,U.S. House,27,REP,Eddie Gassman,19,7,12
+San Patricio,108,U.S. House,27,REP,Jerry Hall,64,46,18
 San Patricio,108,Governor,,REP,SECEDE Kilgore,11,5,6
 San Patricio,108,Governor,,REP,Barbara Krueger,47,23,24
 San Patricio,108,Governor,,REP,Greg Abbott,520,277,243
@@ -614,12 +614,12 @@ San Patricio,109,U.S. Senate,,REP,Mary Miller,20,9,11
 San Patricio,109,U.S. Senate,,REP,Geraldine Sam,2,1,1
 San Patricio,109,U.S. Senate,,REP,"Bruce Jacobson, Jr.",11,6,5
 San Patricio,109,U.S. Senate,,REP,Ted Cruz,269,102,167
-San Patricio,109,United States Representative,27,REP,John Grunwald,24,9,15
-San Patricio,109,United States Representative,27,REP,Bech Bruun,117,52,65
-San Patricio,109,United States Representative,27,REP,Michael Cloud,70,30,40
-San Patricio,109,United States Representative,27,REP,Christopher K. Mapp,26,5,21
-San Patricio,109,United States Representative,27,REP,Eddie Gassman,11,4,7
-San Patricio,109,United States Representative,27,REP,Jerry Hall,37,12,25
+San Patricio,109,U.S. House,27,REP,John Grunwald,24,9,15
+San Patricio,109,U.S. House,27,REP,Bech Bruun,117,52,65
+San Patricio,109,U.S. House,27,REP,Michael Cloud,70,30,40
+San Patricio,109,U.S. House,27,REP,Christopher K. Mapp,26,5,21
+San Patricio,109,U.S. House,27,REP,Eddie Gassman,11,4,7
+San Patricio,109,U.S. House,27,REP,Jerry Hall,37,12,25
 San Patricio,109,Governor,,REP,SECEDE Kilgore,6,2,4
 San Patricio,109,Governor,,REP,Barbara Krueger,19,9,10
 San Patricio,109,Governor,,REP,Greg Abbott,281,110,171
@@ -694,12 +694,12 @@ San Patricio,110,U.S. Senate,,REP,Mary Miller,12,4,8
 San Patricio,110,U.S. Senate,,REP,Geraldine Sam,2,1,1
 San Patricio,110,U.S. Senate,,REP,"Bruce Jacobson, Jr.",7,4,3
 San Patricio,110,U.S. Senate,,REP,Ted Cruz,184,78,106
-San Patricio,110,United States Representative,27,REP,John Grunwald,15,9,6
-San Patricio,110,United States Representative,27,REP,Bech Bruun,98,44,54
-San Patricio,110,United States Representative,27,REP,Michael Cloud,36,10,26
-San Patricio,110,United States Representative,27,REP,Christopher K. Mapp,16,7,9
-San Patricio,110,United States Representative,27,REP,Eddie Gassman,1,0,1
-San Patricio,110,United States Representative,27,REP,Jerry Hall,12,6,6
+San Patricio,110,U.S. House,27,REP,John Grunwald,15,9,6
+San Patricio,110,U.S. House,27,REP,Bech Bruun,98,44,54
+San Patricio,110,U.S. House,27,REP,Michael Cloud,36,10,26
+San Patricio,110,U.S. House,27,REP,Christopher K. Mapp,16,7,9
+San Patricio,110,U.S. House,27,REP,Eddie Gassman,1,0,1
+San Patricio,110,U.S. House,27,REP,Jerry Hall,12,6,6
 San Patricio,110,Governor,,REP,SECEDE Kilgore,3,1,2
 San Patricio,110,Governor,,REP,Barbara Krueger,13,7,6
 San Patricio,110,Governor,,REP,Greg Abbott,191,82,109
@@ -771,12 +771,12 @@ San Patricio,111,U.S. Senate,,REP,Mary Miller,0,0,0
 San Patricio,111,U.S. Senate,,REP,Geraldine Sam,0,0,0
 San Patricio,111,U.S. Senate,,REP,"Bruce Jacobson, Jr.",0,0,0
 San Patricio,111,U.S. Senate,,REP,Ted Cruz,12,6,6
-San Patricio,111,United States Representative,27,REP,John Grunwald,1,0,1
-San Patricio,111,United States Representative,27,REP,Bech Bruun,7,3,4
-San Patricio,111,United States Representative,27,REP,Michael Cloud,0,0,0
-San Patricio,111,United States Representative,27,REP,Christopher K. Mapp,2,2,0
-San Patricio,111,United States Representative,27,REP,Eddie Gassman,0,0,0
-San Patricio,111,United States Representative,27,REP,Jerry Hall,1,1,0
+San Patricio,111,U.S. House,27,REP,John Grunwald,1,0,1
+San Patricio,111,U.S. House,27,REP,Bech Bruun,7,3,4
+San Patricio,111,U.S. House,27,REP,Michael Cloud,0,0,0
+San Patricio,111,U.S. House,27,REP,Christopher K. Mapp,2,2,0
+San Patricio,111,U.S. House,27,REP,Eddie Gassman,0,0,0
+San Patricio,111,U.S. House,27,REP,Jerry Hall,1,1,0
 San Patricio,111,Governor,,REP,SECEDE Kilgore,0,0,0
 San Patricio,111,Governor,,REP,Barbara Krueger,0,0,0
 San Patricio,111,Governor,,REP,Greg Abbott,12,6,6
@@ -848,12 +848,12 @@ San Patricio,112,U.S. Senate,,REP,Mary Miller,0,0,0
 San Patricio,112,U.S. Senate,,REP,Geraldine Sam,2,1,1
 San Patricio,112,U.S. Senate,,REP,"Bruce Jacobson, Jr.",0,0,0
 San Patricio,112,U.S. Senate,,REP,Ted Cruz,14,3,11
-San Patricio,112,United States Representative,27,REP,John Grunwald,4,2,2
-San Patricio,112,United States Representative,27,REP,Bech Bruun,1,0,1
-San Patricio,112,United States Representative,27,REP,Michael Cloud,3,0,3
-San Patricio,112,United States Representative,27,REP,Christopher K. Mapp,2,0,2
-San Patricio,112,United States Representative,27,REP,Eddie Gassman,1,0,1
-San Patricio,112,United States Representative,27,REP,Jerry Hall,2,0,2
+San Patricio,112,U.S. House,27,REP,John Grunwald,4,2,2
+San Patricio,112,U.S. House,27,REP,Bech Bruun,1,0,1
+San Patricio,112,U.S. House,27,REP,Michael Cloud,3,0,3
+San Patricio,112,U.S. House,27,REP,Christopher K. Mapp,2,0,2
+San Patricio,112,U.S. House,27,REP,Eddie Gassman,1,0,1
+San Patricio,112,U.S. House,27,REP,Jerry Hall,2,0,2
 San Patricio,112,Governor,,REP,SECEDE Kilgore,1,0,1
 San Patricio,112,Governor,,REP,Barbara Krueger,2,2,0
 San Patricio,112,Governor,,REP,Greg Abbott,14,2,12
@@ -925,12 +925,12 @@ San Patricio,113,U.S. Senate,,REP,Mary Miller,1,1,0
 San Patricio,113,U.S. Senate,,REP,Geraldine Sam,1,0,1
 San Patricio,113,U.S. Senate,,REP,"Bruce Jacobson, Jr.",0,0,0
 San Patricio,113,U.S. Senate,,REP,Ted Cruz,29,13,16
-San Patricio,113,United States Representative,27,REP,John Grunwald,6,2,4
-San Patricio,113,United States Representative,27,REP,Bech Bruun,9,3,6
-San Patricio,113,United States Representative,27,REP,Michael Cloud,7,1,6
-San Patricio,113,United States Representative,27,REP,Christopher K. Mapp,2,1,1
-San Patricio,113,United States Representative,27,REP,Eddie Gassman,2,1,1
-San Patricio,113,United States Representative,27,REP,Jerry Hall,2,1,1
+San Patricio,113,U.S. House,27,REP,John Grunwald,6,2,4
+San Patricio,113,U.S. House,27,REP,Bech Bruun,9,3,6
+San Patricio,113,U.S. House,27,REP,Michael Cloud,7,1,6
+San Patricio,113,U.S. House,27,REP,Christopher K. Mapp,2,1,1
+San Patricio,113,U.S. House,27,REP,Eddie Gassman,2,1,1
+San Patricio,113,U.S. House,27,REP,Jerry Hall,2,1,1
 San Patricio,113,Governor,,REP,SECEDE Kilgore,0,0,0
 San Patricio,113,Governor,,REP,Barbara Krueger,4,2,2
 San Patricio,113,Governor,,REP,Greg Abbott,29,12,17
@@ -1002,12 +1002,12 @@ San Patricio,114,U.S. Senate,,REP,Mary Miller,14,6,8
 San Patricio,114,U.S. Senate,,REP,Geraldine Sam,1,1,0
 San Patricio,114,U.S. Senate,,REP,"Bruce Jacobson, Jr.",14,7,7
 San Patricio,114,U.S. Senate,,REP,Ted Cruz,199,65,134
-San Patricio,114,United States Representative,27,REP,John Grunwald,28,10,18
-San Patricio,114,United States Representative,27,REP,Bech Bruun,82,35,47
-San Patricio,114,United States Representative,27,REP,Michael Cloud,55,12,43
-San Patricio,114,United States Representative,27,REP,Christopher K. Mapp,25,10,15
-San Patricio,114,United States Representative,27,REP,Eddie Gassman,4,1,3
-San Patricio,114,United States Representative,27,REP,Jerry Hall,23,6,17
+San Patricio,114,U.S. House,27,REP,John Grunwald,28,10,18
+San Patricio,114,U.S. House,27,REP,Bech Bruun,82,35,47
+San Patricio,114,U.S. House,27,REP,Michael Cloud,55,12,43
+San Patricio,114,U.S. House,27,REP,Christopher K. Mapp,25,10,15
+San Patricio,114,U.S. House,27,REP,Eddie Gassman,4,1,3
+San Patricio,114,U.S. House,27,REP,Jerry Hall,23,6,17
 San Patricio,114,Governor,,REP,SECEDE Kilgore,3,1,2
 San Patricio,114,Governor,,REP,Barbara Krueger,17,7,10
 San Patricio,114,Governor,,REP,Greg Abbott,209,73,136
@@ -1082,12 +1082,12 @@ San Patricio,115,U.S. Senate,,REP,Mary Miller,38,21,17
 San Patricio,115,U.S. Senate,,REP,Geraldine Sam,6,4,2
 San Patricio,115,U.S. Senate,,REP,"Bruce Jacobson, Jr.",26,13,13
 San Patricio,115,U.S. Senate,,REP,Ted Cruz,501,249,252
-San Patricio,115,United States Representative,27,REP,John Grunwald,60,37,23
-San Patricio,115,United States Representative,27,REP,Bech Bruun,219,102,117
-San Patricio,115,United States Representative,27,REP,Michael Cloud,144,72,72
-San Patricio,115,United States Representative,27,REP,Christopher K. Mapp,45,20,25
-San Patricio,115,United States Representative,27,REP,Eddie Gassman,11,4,7
-San Patricio,115,United States Representative,27,REP,Jerry Hall,79,44,35
+San Patricio,115,U.S. House,27,REP,John Grunwald,60,37,23
+San Patricio,115,U.S. House,27,REP,Bech Bruun,219,102,117
+San Patricio,115,U.S. House,27,REP,Michael Cloud,144,72,72
+San Patricio,115,U.S. House,27,REP,Christopher K. Mapp,45,20,25
+San Patricio,115,U.S. House,27,REP,Eddie Gassman,11,4,7
+San Patricio,115,U.S. House,27,REP,Jerry Hall,79,44,35
 San Patricio,115,Governor,,REP,SECEDE Kilgore,7,4,3
 San Patricio,115,Governor,,REP,Barbara Krueger,36,18,18
 San Patricio,115,Governor,,REP,Greg Abbott,557,279,278
@@ -1162,12 +1162,12 @@ San Patricio,116,U.S. Senate,,REP,Mary Miller,54,23,31
 San Patricio,116,U.S. Senate,,REP,Geraldine Sam,11,5,6
 San Patricio,116,U.S. Senate,,REP,"Bruce Jacobson, Jr.",32,23,9
 San Patricio,116,U.S. Senate,,REP,Ted Cruz,614,334,280
-San Patricio,116,United States Representative,27,REP,John Grunwald,45,23,22
-San Patricio,116,United States Representative,27,REP,Bech Bruun,367,197,170
-San Patricio,116,United States Representative,27,REP,Michael Cloud,152,85,67
-San Patricio,116,United States Representative,27,REP,Christopher K. Mapp,45,21,24
-San Patricio,116,United States Representative,27,REP,Eddie Gassman,17,8,9
-San Patricio,116,United States Representative,27,REP,Jerry Hall,54,35,19
+San Patricio,116,U.S. House,27,REP,John Grunwald,45,23,22
+San Patricio,116,U.S. House,27,REP,Bech Bruun,367,197,170
+San Patricio,116,U.S. House,27,REP,Michael Cloud,152,85,67
+San Patricio,116,U.S. House,27,REP,Christopher K. Mapp,45,21,24
+San Patricio,116,U.S. House,27,REP,Eddie Gassman,17,8,9
+San Patricio,116,U.S. House,27,REP,Jerry Hall,54,35,19
 San Patricio,116,Governor,,REP,SECEDE Kilgore,17,7,10
 San Patricio,116,Governor,,REP,Barbara Krueger,71,40,31
 San Patricio,116,Governor,,REP,Greg Abbott,636,348,288
@@ -1243,7 +1243,7 @@ San Patricio,117,U.S. Senate,,REP,Mary Miller,5,3,2
 San Patricio,117,U.S. Senate,,REP,Geraldine Sam,0,0,0
 San Patricio,117,U.S. Senate,,REP,"Bruce Jacobson, Jr.",3,2,1
 San Patricio,117,U.S. Senate,,REP,Ted Cruz,68,29,39
-San Patricio,117,United States Representative,34,REP,Rey Gonzalez,48,23,25
+San Patricio,117,U.S. House,34,REP,Rey Gonzalez,48,23,25
 San Patricio,117,Governor,,REP,SECEDE Kilgore,0,0,0
 San Patricio,117,Governor,,REP,Barbara Krueger,4,2,2
 San Patricio,117,Governor,,REP,Greg Abbott,71,32,39
@@ -1315,7 +1315,7 @@ San Patricio,118,U.S. Senate,,REP,Mary Miller,2,0,2
 San Patricio,118,U.S. Senate,,REP,Geraldine Sam,0,0,0
 San Patricio,118,U.S. Senate,,REP,"Bruce Jacobson, Jr.",3,2,1
 San Patricio,118,U.S. Senate,,REP,Ted Cruz,62,22,40
-San Patricio,118,United States Representative,34,REP,Rey Gonzalez,58,22,36
+San Patricio,118,U.S. House,34,REP,Rey Gonzalez,58,22,36
 San Patricio,118,Governor,,REP,SECEDE Kilgore,2,0,2
 San Patricio,118,Governor,,REP,Barbara Krueger,5,0,5
 San Patricio,118,Governor,,REP,Greg Abbott,60,23,37
@@ -1387,12 +1387,12 @@ San Patricio,119,U.S. Senate,,REP,Mary Miller,23,9,14
 San Patricio,119,U.S. Senate,,REP,Geraldine Sam,5,4,1
 San Patricio,119,U.S. Senate,,REP,"Bruce Jacobson, Jr.",10,8,2
 San Patricio,119,U.S. Senate,,REP,Ted Cruz,173,96,77
-San Patricio,119,United States Representative,27,REP,John Grunwald,21,11,10
-San Patricio,119,United States Representative,27,REP,Bech Bruun,96,55,41
-San Patricio,119,United States Representative,27,REP,Michael Cloud,42,18,24
-San Patricio,119,United States Representative,27,REP,Christopher K. Mapp,20,11,9
-San Patricio,119,United States Representative,27,REP,Eddie Gassman,9,5,4
-San Patricio,119,United States Representative,27,REP,Jerry Hall,17,11,6
+San Patricio,119,U.S. House,27,REP,John Grunwald,21,11,10
+San Patricio,119,U.S. House,27,REP,Bech Bruun,96,55,41
+San Patricio,119,U.S. House,27,REP,Michael Cloud,42,18,24
+San Patricio,119,U.S. House,27,REP,Christopher K. Mapp,20,11,9
+San Patricio,119,U.S. House,27,REP,Eddie Gassman,9,5,4
+San Patricio,119,U.S. House,27,REP,Jerry Hall,17,11,6
 San Patricio,119,Governor,,REP,SECEDE Kilgore,5,4,1
 San Patricio,119,Governor,,REP,Barbara Krueger,15,9,6
 San Patricio,119,Governor,,REP,Greg Abbott,200,103,97
@@ -1468,12 +1468,12 @@ San Patricio,120,U.S. Senate,,REP,Mary Miller,14,8,6
 San Patricio,120,U.S. Senate,,REP,Geraldine Sam,2,2,0
 San Patricio,120,U.S. Senate,,REP,"Bruce Jacobson, Jr.",7,4,3
 San Patricio,120,U.S. Senate,,REP,Ted Cruz,110,63,47
-San Patricio,120,United States Representative,27,REP,John Grunwald,10,6,4
-San Patricio,120,United States Representative,27,REP,Bech Bruun,57,30,27
-San Patricio,120,United States Representative,27,REP,Michael Cloud,39,25,14
-San Patricio,120,United States Representative,27,REP,Christopher K. Mapp,9,4,5
-San Patricio,120,United States Representative,27,REP,Eddie Gassman,2,2,0
-San Patricio,120,United States Representative,27,REP,Jerry Hall,8,5,3
+San Patricio,120,U.S. House,27,REP,John Grunwald,10,6,4
+San Patricio,120,U.S. House,27,REP,Bech Bruun,57,30,27
+San Patricio,120,U.S. House,27,REP,Michael Cloud,39,25,14
+San Patricio,120,U.S. House,27,REP,Christopher K. Mapp,9,4,5
+San Patricio,120,U.S. House,27,REP,Eddie Gassman,2,2,0
+San Patricio,120,U.S. House,27,REP,Jerry Hall,8,5,3
 San Patricio,120,Governor,,REP,SECEDE Kilgore,3,1,2
 San Patricio,120,Governor,,REP,Barbara Krueger,13,9,4
 San Patricio,120,Governor,,REP,Greg Abbott,117,67,50
@@ -1548,12 +1548,12 @@ San Patricio,121,U.S. Senate,,REP,Mary Miller,23,12,11
 San Patricio,121,U.S. Senate,,REP,Geraldine Sam,3,1,2
 San Patricio,121,U.S. Senate,,REP,"Bruce Jacobson, Jr.",10,6,4
 San Patricio,121,U.S. Senate,,REP,Ted Cruz,183,87,96
-San Patricio,121,United States Representative,27,REP,John Grunwald,23,8,15
-San Patricio,121,United States Representative,27,REP,Bech Bruun,91,47,44
-San Patricio,121,United States Representative,27,REP,Michael Cloud,43,25,18
-San Patricio,121,United States Representative,27,REP,Christopher K. Mapp,21,7,14
-San Patricio,121,United States Representative,27,REP,Eddie Gassman,10,4,6
-San Patricio,121,United States Representative,27,REP,Jerry Hall,24,10,14
+San Patricio,121,U.S. House,27,REP,John Grunwald,23,8,15
+San Patricio,121,U.S. House,27,REP,Bech Bruun,91,47,44
+San Patricio,121,U.S. House,27,REP,Michael Cloud,43,25,18
+San Patricio,121,U.S. House,27,REP,Christopher K. Mapp,21,7,14
+San Patricio,121,U.S. House,27,REP,Eddie Gassman,10,4,6
+San Patricio,121,U.S. House,27,REP,Jerry Hall,24,10,14
 San Patricio,121,Governor,,REP,SECEDE Kilgore,2,1,1
 San Patricio,121,Governor,,REP,Barbara Krueger,7,4,3
 San Patricio,121,Governor,,REP,Greg Abbott,220,103,117
@@ -1629,7 +1629,7 @@ San Patricio,122,U.S. Senate,,REP,Mary Miller,2,1,1
 San Patricio,122,U.S. Senate,,REP,Geraldine Sam,0,0,0
 San Patricio,122,U.S. Senate,,REP,"Bruce Jacobson, Jr.",7,2,5
 San Patricio,122,U.S. Senate,,REP,Ted Cruz,68,15,53
-San Patricio,122,United States Representative,34,REP,Rey Gonzalez,63,11,52
+San Patricio,122,U.S. House,34,REP,Rey Gonzalez,63,11,52
 San Patricio,122,Governor,,REP,SECEDE Kilgore,2,0,2
 San Patricio,122,Governor,,REP,Barbara Krueger,5,2,3
 San Patricio,122,Governor,,REP,Greg Abbott,70,16,54
@@ -1701,12 +1701,12 @@ San Patricio,123,U.S. Senate,,REP,Mary Miller,0,0,0
 San Patricio,123,U.S. Senate,,REP,Geraldine Sam,0,0,0
 San Patricio,123,U.S. Senate,,REP,"Bruce Jacobson, Jr.",0,0,0
 San Patricio,123,U.S. Senate,,REP,Ted Cruz,13,5,8
-San Patricio,123,United States Representative,27,REP,John Grunwald,1,0,1
-San Patricio,123,United States Representative,27,REP,Bech Bruun,10,3,7
-San Patricio,123,United States Representative,27,REP,Michael Cloud,0,0,0
-San Patricio,123,United States Representative,27,REP,Christopher K. Mapp,0,0,0
-San Patricio,123,United States Representative,27,REP,Eddie Gassman,0,0,0
-San Patricio,123,United States Representative,27,REP,Jerry Hall,2,2,0
+San Patricio,123,U.S. House,27,REP,John Grunwald,1,0,1
+San Patricio,123,U.S. House,27,REP,Bech Bruun,10,3,7
+San Patricio,123,U.S. House,27,REP,Michael Cloud,0,0,0
+San Patricio,123,U.S. House,27,REP,Christopher K. Mapp,0,0,0
+San Patricio,123,U.S. House,27,REP,Eddie Gassman,0,0,0
+San Patricio,123,U.S. House,27,REP,Jerry Hall,2,2,0
 San Patricio,123,Governor,,REP,SECEDE Kilgore,0,0,0
 San Patricio,123,Governor,,REP,Barbara Krueger,0,0,0
 San Patricio,123,Governor,,REP,Greg Abbott,13,5,8
@@ -1778,7 +1778,7 @@ San Patricio,124,U.S. Senate,,REP,Mary Miller,34,23,11
 San Patricio,124,U.S. Senate,,REP,Geraldine Sam,3,3,0
 San Patricio,124,U.S. Senate,,REP,"Bruce Jacobson, Jr.",8,3,5
 San Patricio,124,U.S. Senate,,REP,Ted Cruz,239,123,116
-San Patricio,124,United States Representative,34,REP,Rey Gonzalez,232,128,104
+San Patricio,124,U.S. House,34,REP,Rey Gonzalez,232,128,104
 San Patricio,124,Governor,,REP,SECEDE Kilgore,6,4,2
 San Patricio,124,Governor,,REP,Barbara Krueger,39,24,15
 San Patricio,124,Governor,,REP,Greg Abbott,254,125,129
@@ -1850,12 +1850,12 @@ San Patricio,125,U.S. Senate,,REP,Mary Miller,0,0,0
 San Patricio,125,U.S. Senate,,REP,Geraldine Sam,0,0,0
 San Patricio,125,U.S. Senate,,REP,"Bruce Jacobson, Jr.",0,0,0
 San Patricio,125,U.S. Senate,,REP,Ted Cruz,7,3,4
-San Patricio,125,United States Representative,27,REP,John Grunwald,0,0,0
-San Patricio,125,United States Representative,27,REP,Bech Bruun,5,2,3
-San Patricio,125,United States Representative,27,REP,Michael Cloud,0,0,0
-San Patricio,125,United States Representative,27,REP,Christopher K. Mapp,0,0,0
-San Patricio,125,United States Representative,27,REP,Eddie Gassman,0,0,0
-San Patricio,125,United States Representative,27,REP,Jerry Hall,0,0,0
+San Patricio,125,U.S. House,27,REP,John Grunwald,0,0,0
+San Patricio,125,U.S. House,27,REP,Bech Bruun,5,2,3
+San Patricio,125,U.S. House,27,REP,Michael Cloud,0,0,0
+San Patricio,125,U.S. House,27,REP,Christopher K. Mapp,0,0,0
+San Patricio,125,U.S. House,27,REP,Eddie Gassman,0,0,0
+San Patricio,125,U.S. House,27,REP,Jerry Hall,0,0,0
 San Patricio,125,Governor,,REP,SECEDE Kilgore,0,0,0
 San Patricio,125,Governor,,REP,Barbara Krueger,0,0,0
 San Patricio,125,Governor,,REP,Greg Abbott,7,3,4
@@ -1924,10 +1924,10 @@ San Patricio,125,Proposition 11,,REP,NO,2,1,1
 San Patricio,101,U.S. Senate,,DEM,Beto O'Rourke,6,4,2
 San Patricio,101,U.S. Senate,,DEM,Edward Kimbrough,1,1,0
 San Patricio,101,U.S. Senate,,DEM,Sema Hernandez,14,9,5
-San Patricio,101,United States Representative,27,DEM,Ronnie McDonald,1,1,0
-San Patricio,101,United States Representative,27,DEM,Raul (Roy) Barrera,17,11,6
-San Patricio,101,United States Representative,27,DEM,Vanessa Edwards Foster,1,0,1
-San Patricio,101,United States Representative,27,DEM,Eric Holguin,2,2,0
+San Patricio,101,U.S. House,27,DEM,Ronnie McDonald,1,1,0
+San Patricio,101,U.S. House,27,DEM,Raul (Roy) Barrera,17,11,6
+San Patricio,101,U.S. House,27,DEM,Vanessa Edwards Foster,1,0,1
+San Patricio,101,U.S. House,27,DEM,Eric Holguin,2,2,0
 San Patricio,101,Governor,,DEM,"Cedric Davis, Sr.",2,1,1
 San Patricio,101,Governor,,DEM,Adrian Ocegueda,1,0,1
 San Patricio,101,Governor,,DEM,Lupe Valdez,12,8,4
@@ -1989,7 +1989,7 @@ San Patricio,101,Proposition #12,,DEM,No,0,0,0
 San Patricio,102,U.S. Senate,,DEM,Beto O'Rourke,60,13,47
 San Patricio,102,U.S. Senate,,DEM,Edward Kimbrough,13,5,8
 San Patricio,102,U.S. Senate,,DEM,Sema Hernandez,77,30,47
-San Patricio,102,United States Representative,34,DEM,Filemon B. Vela,138,44,94
+San Patricio,102,U.S. House,34,DEM,Filemon B. Vela,138,44,94
 San Patricio,102,Governor,,DEM,"Cedric Davis, Sr.",8,2,6
 San Patricio,102,Governor,,DEM,Adrian Ocegueda,8,3,5
 San Patricio,102,Governor,,DEM,Lupe Valdez,90,22,68
@@ -2051,10 +2051,10 @@ San Patricio,102,Proposition #12,,DEM,No,3,0,3
 San Patricio,103,U.S. Senate,,DEM,Beto O'Rourke,3,1,2
 San Patricio,103,U.S. Senate,,DEM,Edward Kimbrough,0,0,0
 San Patricio,103,U.S. Senate,,DEM,Sema Hernandez,1,0,1
-San Patricio,103,United States Representative,27,DEM,Ronnie McDonald,0,0,0
-San Patricio,103,United States Representative,27,DEM,Raul (Roy) Barrera,2,0,2
-San Patricio,103,United States Representative,27,DEM,Vanessa Edwards Foster,2,1,1
-San Patricio,103,United States Representative,27,DEM,Eric Holguin,0,0,0
+San Patricio,103,U.S. House,27,DEM,Ronnie McDonald,0,0,0
+San Patricio,103,U.S. House,27,DEM,Raul (Roy) Barrera,2,0,2
+San Patricio,103,U.S. House,27,DEM,Vanessa Edwards Foster,2,1,1
+San Patricio,103,U.S. House,27,DEM,Eric Holguin,0,0,0
 San Patricio,103,Governor,,DEM,"Cedric Davis, Sr.",0,0,0
 San Patricio,103,Governor,,DEM,Adrian Ocegueda,1,0,1
 San Patricio,103,Governor,,DEM,Lupe Valdez,2,1,1
@@ -2117,7 +2117,7 @@ San Patricio,103,Proposition #12,,DEM,No,0,0,0
 San Patricio,104,U.S. Senate,,DEM,Beto O'Rourke,63,49,14
 San Patricio,104,U.S. Senate,,DEM,Edward Kimbrough,24,13,11
 San Patricio,104,U.S. Senate,,DEM,Sema Hernandez,67,40,27
-San Patricio,104,United States Representative,34,DEM,Filemon B. Vela,140,91,49
+San Patricio,104,U.S. House,34,DEM,Filemon B. Vela,140,91,49
 San Patricio,104,Governor,,DEM,"Cedric Davis, Sr.",9,6,3
 San Patricio,104,Governor,,DEM,Adrian Ocegueda,12,8,4
 San Patricio,104,Governor,,DEM,Lupe Valdez,66,43,23
@@ -2180,7 +2180,7 @@ San Patricio,104,Proposition #12,,DEM,No,2,0,2
 San Patricio,105,U.S. Senate,,DEM,Beto O'Rourke,59,18,41
 San Patricio,105,U.S. Senate,,DEM,Edward Kimbrough,7,4,3
 San Patricio,105,U.S. Senate,,DEM,Sema Hernandez,31,12,19
-San Patricio,105,United States Representative,34,DEM,Filemon B. Vela,86,30,56
+San Patricio,105,U.S. House,34,DEM,Filemon B. Vela,86,30,56
 San Patricio,105,Governor,,DEM,"Cedric Davis, Sr.",5,2,3
 San Patricio,105,Governor,,DEM,Adrian Ocegueda,14,9,5
 San Patricio,105,Governor,,DEM,Lupe Valdez,46,16,30
@@ -2243,10 +2243,10 @@ San Patricio,105,Proposition #12,,DEM,No,3,2,1
 San Patricio,106,U.S. Senate,,DEM,Beto O'Rourke,24,8,16
 San Patricio,106,U.S. Senate,,DEM,Edward Kimbrough,10,7,3
 San Patricio,106,U.S. Senate,,DEM,Sema Hernandez,23,12,11
-San Patricio,106,United States Representative,27,DEM,Ronnie McDonald,7,3,4
-San Patricio,106,United States Representative,27,DEM,Raul (Roy) Barrera,25,10,15
-San Patricio,106,United States Representative,27,DEM,Vanessa Edwards Foster,14,7,7
-San Patricio,106,United States Representative,27,DEM,Eric Holguin,9,5,4
+San Patricio,106,U.S. House,27,DEM,Ronnie McDonald,7,3,4
+San Patricio,106,U.S. House,27,DEM,Raul (Roy) Barrera,25,10,15
+San Patricio,106,U.S. House,27,DEM,Vanessa Edwards Foster,14,7,7
+San Patricio,106,U.S. House,27,DEM,Eric Holguin,9,5,4
 San Patricio,106,Governor,,DEM,"Cedric Davis, Sr.",6,1,5
 San Patricio,106,Governor,,DEM,Adrian Ocegueda,3,1,2
 San Patricio,106,Governor,,DEM,Lupe Valdez,20,11,9
@@ -2307,10 +2307,10 @@ San Patricio,106,Proposition #12,,DEM,No,4,1,3
 San Patricio,107,U.S. Senate,,DEM,Beto O'Rourke,9,7,2
 San Patricio,107,U.S. Senate,,DEM,Edward Kimbrough,1,1,0
 San Patricio,107,U.S. Senate,,DEM,Sema Hernandez,1,1,0
-San Patricio,107,United States Representative,27,DEM,Ronnie McDonald,1,1,0
-San Patricio,107,United States Representative,27,DEM,Raul (Roy) Barrera,7,6,1
-San Patricio,107,United States Representative,27,DEM,Vanessa Edwards Foster,2,1,1
-San Patricio,107,United States Representative,27,DEM,Eric Holguin,1,1,0
+San Patricio,107,U.S. House,27,DEM,Ronnie McDonald,1,1,0
+San Patricio,107,U.S. House,27,DEM,Raul (Roy) Barrera,7,6,1
+San Patricio,107,U.S. House,27,DEM,Vanessa Edwards Foster,2,1,1
+San Patricio,107,U.S. House,27,DEM,Eric Holguin,1,1,0
 San Patricio,107,Governor,,DEM,"Cedric Davis, Sr.",1,1,0
 San Patricio,107,Governor,,DEM,Adrian Ocegueda,0,0,0
 San Patricio,107,Governor,,DEM,Lupe Valdez,6,4,2
@@ -2372,10 +2372,10 @@ San Patricio,107,Proposition #12,,DEM,No,0,0,0
 San Patricio,108,U.S. Senate,,DEM,Beto O'Rourke,92,47,45
 San Patricio,108,U.S. Senate,,DEM,Edward Kimbrough,11,9,2
 San Patricio,108,U.S. Senate,,DEM,Sema Hernandez,43,18,25
-San Patricio,108,United States Representative,27,DEM,Ronnie McDonald,17,12,5
-San Patricio,108,United States Representative,27,DEM,Raul (Roy) Barrera,51,26,25
-San Patricio,108,United States Representative,27,DEM,Vanessa Edwards Foster,35,11,24
-San Patricio,108,United States Representative,27,DEM,Eric Holguin,40,24,16
+San Patricio,108,U.S. House,27,DEM,Ronnie McDonald,17,12,5
+San Patricio,108,U.S. House,27,DEM,Raul (Roy) Barrera,51,26,25
+San Patricio,108,U.S. House,27,DEM,Vanessa Edwards Foster,35,11,24
+San Patricio,108,U.S. House,27,DEM,Eric Holguin,40,24,16
 San Patricio,108,Governor,,DEM,"Cedric Davis, Sr.",13,4,9
 San Patricio,108,Governor,,DEM,Adrian Ocegueda,16,9,7
 San Patricio,108,Governor,,DEM,Lupe Valdez,50,24,26
@@ -2436,10 +2436,10 @@ San Patricio,108,Proposition #12,,DEM,No,2,1,1
 San Patricio,109,U.S. Senate,,DEM,Beto O'Rourke,62,29,33
 San Patricio,109,U.S. Senate,,DEM,Edward Kimbrough,14,9,5
 San Patricio,109,U.S. Senate,,DEM,Sema Hernandez,28,10,18
-San Patricio,109,United States Representative,27,DEM,Ronnie McDonald,11,7,4
-San Patricio,109,United States Representative,27,DEM,Raul (Roy) Barrera,44,22,22
-San Patricio,109,United States Representative,27,DEM,Vanessa Edwards Foster,28,6,22
-San Patricio,109,United States Representative,27,DEM,Eric Holguin,17,8,9
+San Patricio,109,U.S. House,27,DEM,Ronnie McDonald,11,7,4
+San Patricio,109,U.S. House,27,DEM,Raul (Roy) Barrera,44,22,22
+San Patricio,109,U.S. House,27,DEM,Vanessa Edwards Foster,28,6,22
+San Patricio,109,U.S. House,27,DEM,Eric Holguin,17,8,9
 San Patricio,109,Governor,,DEM,"Cedric Davis, Sr.",10,3,7
 San Patricio,109,Governor,,DEM,Adrian Ocegueda,5,0,5
 San Patricio,109,Governor,,DEM,Lupe Valdez,35,14,21
@@ -2500,10 +2500,10 @@ San Patricio,109,Proposition #12,,DEM,No,5,3,2
 San Patricio,110,U.S. Senate,,DEM,Beto O'Rourke,61,21,40
 San Patricio,110,U.S. Senate,,DEM,Edward Kimbrough,12,6,6
 San Patricio,110,U.S. Senate,,DEM,Sema Hernandez,70,30,40
-San Patricio,110,United States Representative,27,DEM,Ronnie McDonald,7,1,6
-San Patricio,110,United States Representative,27,DEM,Raul (Roy) Barrera,109,41,68
-San Patricio,110,United States Representative,27,DEM,Vanessa Edwards Foster,16,8,8
-San Patricio,110,United States Representative,27,DEM,Eric Holguin,12,5,7
+San Patricio,110,U.S. House,27,DEM,Ronnie McDonald,7,1,6
+San Patricio,110,U.S. House,27,DEM,Raul (Roy) Barrera,109,41,68
+San Patricio,110,U.S. House,27,DEM,Vanessa Edwards Foster,16,8,8
+San Patricio,110,U.S. House,27,DEM,Eric Holguin,12,5,7
 San Patricio,110,Governor,,DEM,"Cedric Davis, Sr.",6,2,4
 San Patricio,110,Governor,,DEM,Adrian Ocegueda,9,5,4
 San Patricio,110,Governor,,DEM,Lupe Valdez,75,26,49
@@ -2567,10 +2567,10 @@ San Patricio,110,Proposition #12,,DEM,No,7,3,4
 San Patricio,111,U.S. Senate,,DEM,Beto O'Rourke,0,0,0
 San Patricio,111,U.S. Senate,,DEM,Edward Kimbrough,0,0,0
 San Patricio,111,U.S. Senate,,DEM,Sema Hernandez,1,0,1
-San Patricio,111,United States Representative,27,DEM,Ronnie McDonald,0,0,0
-San Patricio,111,United States Representative,27,DEM,Raul (Roy) Barrera,1,0,1
-San Patricio,111,United States Representative,27,DEM,Vanessa Edwards Foster,0,0,0
-San Patricio,111,United States Representative,27,DEM,Eric Holguin,0,0,0
+San Patricio,111,U.S. House,27,DEM,Ronnie McDonald,0,0,0
+San Patricio,111,U.S. House,27,DEM,Raul (Roy) Barrera,1,0,1
+San Patricio,111,U.S. House,27,DEM,Vanessa Edwards Foster,0,0,0
+San Patricio,111,U.S. House,27,DEM,Eric Holguin,0,0,0
 San Patricio,111,Governor,,DEM,"Cedric Davis, Sr.",0,0,0
 San Patricio,111,Governor,,DEM,Adrian Ocegueda,0,0,0
 San Patricio,111,Governor,,DEM,Lupe Valdez,1,0,1
@@ -2633,10 +2633,10 @@ San Patricio,111,Proposition #12,,DEM,No,0,0,0
 San Patricio,112,U.S. Senate,,DEM,Beto O'Rourke,51,22,29
 San Patricio,112,U.S. Senate,,DEM,Edward Kimbrough,18,9,9
 San Patricio,112,U.S. Senate,,DEM,Sema Hernandez,81,37,44
-San Patricio,112,United States Representative,27,DEM,Ronnie McDonald,6,3,3
-San Patricio,112,United States Representative,27,DEM,Raul (Roy) Barrera,128,56,72
-San Patricio,112,United States Representative,27,DEM,Vanessa Edwards Foster,10,3,7
-San Patricio,112,United States Representative,27,DEM,Eric Holguin,13,7,6
+San Patricio,112,U.S. House,27,DEM,Ronnie McDonald,6,3,3
+San Patricio,112,U.S. House,27,DEM,Raul (Roy) Barrera,128,56,72
+San Patricio,112,U.S. House,27,DEM,Vanessa Edwards Foster,10,3,7
+San Patricio,112,U.S. House,27,DEM,Eric Holguin,13,7,6
 San Patricio,112,Governor,,DEM,"Cedric Davis, Sr.",5,1,4
 San Patricio,112,Governor,,DEM,Adrian Ocegueda,9,5,4
 San Patricio,112,Governor,,DEM,Lupe Valdez,87,40,47
@@ -2700,10 +2700,10 @@ San Patricio,112,Proposition #12,,DEM,No,1,1,0
 San Patricio,113,U.S. Senate,,DEM,Beto O'Rourke,20,3,17
 San Patricio,113,U.S. Senate,,DEM,Edward Kimbrough,3,2,1
 San Patricio,113,U.S. Senate,,DEM,Sema Hernandez,34,4,30
-San Patricio,113,United States Representative,27,DEM,Ronnie McDonald,2,0,2
-San Patricio,113,United States Representative,27,DEM,Raul (Roy) Barrera,38,6,32
-San Patricio,113,United States Representative,27,DEM,Vanessa Edwards Foster,5,0,5
-San Patricio,113,United States Representative,27,DEM,Eric Holguin,8,3,5
+San Patricio,113,U.S. House,27,DEM,Ronnie McDonald,2,0,2
+San Patricio,113,U.S. House,27,DEM,Raul (Roy) Barrera,38,6,32
+San Patricio,113,U.S. House,27,DEM,Vanessa Edwards Foster,5,0,5
+San Patricio,113,U.S. House,27,DEM,Eric Holguin,8,3,5
 San Patricio,113,Governor,,DEM,"Cedric Davis, Sr.",3,1,2
 San Patricio,113,Governor,,DEM,Adrian Ocegueda,1,0,1
 San Patricio,113,Governor,,DEM,Lupe Valdez,31,2,29
@@ -2767,10 +2767,10 @@ San Patricio,113,Proposition #12,,DEM,No,0,0,0
 San Patricio,114,U.S. Senate,,DEM,Beto O'Rourke,40,22,18
 San Patricio,114,U.S. Senate,,DEM,Edward Kimbrough,12,7,5
 San Patricio,114,U.S. Senate,,DEM,Sema Hernandez,16,5,11
-San Patricio,114,United States Representative,27,DEM,Ronnie McDonald,8,6,2
-San Patricio,114,United States Representative,27,DEM,Raul (Roy) Barrera,21,9,12
-San Patricio,114,United States Representative,27,DEM,Vanessa Edwards Foster,27,10,17
-San Patricio,114,United States Representative,27,DEM,Eric Holguin,10,7,3
+San Patricio,114,U.S. House,27,DEM,Ronnie McDonald,8,6,2
+San Patricio,114,U.S. House,27,DEM,Raul (Roy) Barrera,21,9,12
+San Patricio,114,U.S. House,27,DEM,Vanessa Edwards Foster,27,10,17
+San Patricio,114,U.S. House,27,DEM,Eric Holguin,10,7,3
 San Patricio,114,Governor,,DEM,"Cedric Davis, Sr.",7,4,3
 San Patricio,114,Governor,,DEM,Adrian Ocegueda,6,2,4
 San Patricio,114,Governor,,DEM,Lupe Valdez,20,9,11
@@ -2831,10 +2831,10 @@ San Patricio,114,Proposition #12,,DEM,No,2,1,1
 San Patricio,115,U.S. Senate,,DEM,Beto O'Rourke,63,36,27
 San Patricio,115,U.S. Senate,,DEM,Edward Kimbrough,23,11,12
 San Patricio,115,U.S. Senate,,DEM,Sema Hernandez,22,7,15
-San Patricio,115,United States Representative,27,DEM,Ronnie McDonald,21,12,9
-San Patricio,115,United States Representative,27,DEM,Raul (Roy) Barrera,30,14,16
-San Patricio,115,United States Representative,27,DEM,Vanessa Edwards Foster,30,9,21
-San Patricio,115,United States Representative,27,DEM,Eric Holguin,23,17,6
+San Patricio,115,U.S. House,27,DEM,Ronnie McDonald,21,12,9
+San Patricio,115,U.S. House,27,DEM,Raul (Roy) Barrera,30,14,16
+San Patricio,115,U.S. House,27,DEM,Vanessa Edwards Foster,30,9,21
+San Patricio,115,U.S. House,27,DEM,Eric Holguin,23,17,6
 San Patricio,115,Governor,,DEM,"Cedric Davis, Sr.",9,4,5
 San Patricio,115,Governor,,DEM,Adrian Ocegueda,7,2,5
 San Patricio,115,Governor,,DEM,Lupe Valdez,32,15,17
@@ -2895,10 +2895,10 @@ San Patricio,115,Proposition #12,,DEM,No,0,0,0
 San Patricio,116,U.S. Senate,,DEM,Beto O'Rourke,91,48,43
 San Patricio,116,U.S. Senate,,DEM,Edward Kimbrough,8,3,5
 San Patricio,116,U.S. Senate,,DEM,Sema Hernandez,29,16,13
-San Patricio,116,United States Representative,27,DEM,Ronnie McDonald,16,7,9
-San Patricio,116,United States Representative,27,DEM,Raul (Roy) Barrera,47,22,25
-San Patricio,116,United States Representative,27,DEM,Vanessa Edwards Foster,37,22,15
-San Patricio,116,United States Representative,27,DEM,Eric Holguin,27,15,12
+San Patricio,116,U.S. House,27,DEM,Ronnie McDonald,16,7,9
+San Patricio,116,U.S. House,27,DEM,Raul (Roy) Barrera,47,22,25
+San Patricio,116,U.S. House,27,DEM,Vanessa Edwards Foster,37,22,15
+San Patricio,116,U.S. House,27,DEM,Eric Holguin,27,15,12
 San Patricio,116,Governor,,DEM,"Cedric Davis, Sr.",7,2,5
 San Patricio,116,Governor,,DEM,Adrian Ocegueda,9,5,4
 San Patricio,116,Governor,,DEM,Lupe Valdez,54,25,29
@@ -2959,7 +2959,7 @@ San Patricio,116,Proposition #12,,DEM,No,2,1,1
 San Patricio,117,U.S. Senate,,DEM,Beto O'Rourke,4,2,2
 San Patricio,117,U.S. Senate,,DEM,Edward Kimbrough,5,4,1
 San Patricio,117,U.S. Senate,,DEM,Sema Hernandez,17,9,8
-San Patricio,117,United States Representative,34,DEM,Filemon B. Vela,20,10,10
+San Patricio,117,U.S. House,34,DEM,Filemon B. Vela,20,10,10
 San Patricio,117,Governor,,DEM,"Cedric Davis, Sr.",1,1,0
 San Patricio,117,Governor,,DEM,Adrian Ocegueda,1,0,1
 San Patricio,117,Governor,,DEM,Lupe Valdez,12,5,7
@@ -3022,7 +3022,7 @@ San Patricio,117,Proposition #12,,DEM,No,2,1,1
 San Patricio,118,U.S. Senate,,DEM,Beto O'Rourke,47,15,32
 San Patricio,118,U.S. Senate,,DEM,Edward Kimbrough,5,3,2
 San Patricio,118,U.S. Senate,,DEM,Sema Hernandez,49,24,25
-San Patricio,118,United States Representative,34,DEM,Filemon B. Vela,97,40,57
+San Patricio,118,U.S. House,34,DEM,Filemon B. Vela,97,40,57
 San Patricio,118,Governor,,DEM,"Cedric Davis, Sr.",3,2,1
 San Patricio,118,Governor,,DEM,Adrian Ocegueda,7,3,4
 San Patricio,118,Governor,,DEM,Lupe Valdez,57,25,32
@@ -3085,10 +3085,10 @@ San Patricio,118,Proposition #12,,DEM,No,4,1,3
 San Patricio,119,U.S. Senate,,DEM,Beto O'Rourke,36,20,16
 San Patricio,119,U.S. Senate,,DEM,Edward Kimbrough,9,8,1
 San Patricio,119,U.S. Senate,,DEM,Sema Hernandez,10,3,7
-San Patricio,119,United States Representative,27,DEM,Ronnie McDonald,12,6,6
-San Patricio,119,United States Representative,27,DEM,Raul (Roy) Barrera,14,8,6
-San Patricio,119,United States Representative,27,DEM,Vanessa Edwards Foster,12,7,5
-San Patricio,119,United States Representative,27,DEM,Eric Holguin,17,10,7
+San Patricio,119,U.S. House,27,DEM,Ronnie McDonald,12,6,6
+San Patricio,119,U.S. House,27,DEM,Raul (Roy) Barrera,14,8,6
+San Patricio,119,U.S. House,27,DEM,Vanessa Edwards Foster,12,7,5
+San Patricio,119,U.S. House,27,DEM,Eric Holguin,17,10,7
 San Patricio,119,Governor,,DEM,"Cedric Davis, Sr.",7,2,5
 San Patricio,119,Governor,,DEM,Adrian Ocegueda,1,0,1
 San Patricio,119,Governor,,DEM,Lupe Valdez,19,10,9
@@ -3149,10 +3149,10 @@ San Patricio,119,Proposition #12,,DEM,No,1,0,1
 San Patricio,120,U.S. Senate,,DEM,Beto O'Rourke,19,10,9
 San Patricio,120,U.S. Senate,,DEM,Edward Kimbrough,5,2,3
 San Patricio,120,U.S. Senate,,DEM,Sema Hernandez,4,3,1
-San Patricio,120,United States Representative,27,DEM,Ronnie McDonald,2,1,1
-San Patricio,120,United States Representative,27,DEM,Raul (Roy) Barrera,6,3,3
-San Patricio,120,United States Representative,27,DEM,Vanessa Edwards Foster,9,4,5
-San Patricio,120,United States Representative,27,DEM,Eric Holguin,10,7,3
+San Patricio,120,U.S. House,27,DEM,Ronnie McDonald,2,1,1
+San Patricio,120,U.S. House,27,DEM,Raul (Roy) Barrera,6,3,3
+San Patricio,120,U.S. House,27,DEM,Vanessa Edwards Foster,9,4,5
+San Patricio,120,U.S. House,27,DEM,Eric Holguin,10,7,3
 San Patricio,120,Governor,,DEM,"Cedric Davis, Sr.",0,0,0
 San Patricio,120,Governor,,DEM,Adrian Ocegueda,1,0,1
 San Patricio,120,Governor,,DEM,Lupe Valdez,9,5,4
@@ -3213,10 +3213,10 @@ San Patricio,120,Proposition #12,,DEM,No,0,0,0
 San Patricio,121,U.S. Senate,,DEM,Beto O'Rourke,57,34,23
 San Patricio,121,U.S. Senate,,DEM,Edward Kimbrough,10,2,8
 San Patricio,121,U.S. Senate,,DEM,Sema Hernandez,32,13,19
-San Patricio,121,United States Representative,27,DEM,Ronnie McDonald,4,1,3
-San Patricio,121,United States Representative,27,DEM,Raul (Roy) Barrera,50,21,29
-San Patricio,121,United States Representative,27,DEM,Vanessa Edwards Foster,23,9,14
-San Patricio,121,United States Representative,27,DEM,Eric Holguin,21,17,4
+San Patricio,121,U.S. House,27,DEM,Ronnie McDonald,4,1,3
+San Patricio,121,U.S. House,27,DEM,Raul (Roy) Barrera,50,21,29
+San Patricio,121,U.S. House,27,DEM,Vanessa Edwards Foster,23,9,14
+San Patricio,121,U.S. House,27,DEM,Eric Holguin,21,17,4
 San Patricio,121,Governor,,DEM,"Cedric Davis, Sr.",10,5,5
 San Patricio,121,Governor,,DEM,Adrian Ocegueda,9,5,4
 San Patricio,121,Governor,,DEM,Lupe Valdez,35,18,17
@@ -3277,7 +3277,7 @@ San Patricio,121,Proposition #12,,DEM,No,2,1,1
 San Patricio,122,U.S. Senate,,DEM,Beto O'Rourke,14,2,12
 San Patricio,122,U.S. Senate,,DEM,Edward Kimbrough,6,2,4
 San Patricio,122,U.S. Senate,,DEM,Sema Hernandez,12,8,4
-San Patricio,122,United States Representative,34,DEM,Filemon B. Vela,32,12,20
+San Patricio,122,U.S. House,34,DEM,Filemon B. Vela,32,12,20
 San Patricio,122,Governor,,DEM,"Cedric Davis, Sr.",2,0,2
 San Patricio,122,Governor,,DEM,Adrian Ocegueda,1,0,1
 San Patricio,122,Governor,,DEM,Lupe Valdez,13,7,6
@@ -3340,10 +3340,10 @@ San Patricio,122,Proposition #12,,DEM,No,3,3,0
 San Patricio,123,U.S. Senate,,DEM,Beto O'Rourke,1,0,1
 San Patricio,123,U.S. Senate,,DEM,Edward Kimbrough,1,0,1
 San Patricio,123,U.S. Senate,,DEM,Sema Hernandez,2,0,2
-San Patricio,123,United States Representative,27,DEM,Ronnie McDonald,0,0,0
-San Patricio,123,United States Representative,27,DEM,Raul (Roy) Barrera,1,0,1
-San Patricio,123,United States Representative,27,DEM,Vanessa Edwards Foster,2,0,2
-San Patricio,123,United States Representative,27,DEM,Eric Holguin,1,0,1
+San Patricio,123,U.S. House,27,DEM,Ronnie McDonald,0,0,0
+San Patricio,123,U.S. House,27,DEM,Raul (Roy) Barrera,1,0,1
+San Patricio,123,U.S. House,27,DEM,Vanessa Edwards Foster,2,0,2
+San Patricio,123,U.S. House,27,DEM,Eric Holguin,1,0,1
 San Patricio,123,Governor,,DEM,"Cedric Davis, Sr.",0,0,0
 San Patricio,123,Governor,,DEM,Adrian Ocegueda,1,0,1
 San Patricio,123,Governor,,DEM,Lupe Valdez,2,0,2
@@ -3405,7 +3405,7 @@ San Patricio,123,Proposition #12,,DEM,No,0,0,0
 San Patricio,124,U.S. Senate,,DEM,Beto O'Rourke,189,139,50
 San Patricio,124,U.S. Senate,,DEM,Edward Kimbrough,43,28,15
 San Patricio,124,U.S. Senate,,DEM,Sema Hernandez,201,118,83
-San Patricio,124,United States Representative,34,DEM,Filemon B. Vela,412,274,138
+San Patricio,124,U.S. House,34,DEM,Filemon B. Vela,412,274,138
 San Patricio,124,Governor,,DEM,"Cedric Davis, Sr.",17,8,9
 San Patricio,124,Governor,,DEM,Adrian Ocegueda,23,9,14
 San Patricio,124,Governor,,DEM,Lupe Valdez,232,148,84
@@ -3468,10 +3468,10 @@ San Patricio,124,Proposition #12,,DEM,No,13,5,8
 San Patricio,125,U.S. Senate,,DEM,Beto O'Rourke,4,4,0
 San Patricio,125,U.S. Senate,,DEM,Edward Kimbrough,2,0,2
 San Patricio,125,U.S. Senate,,DEM,Sema Hernandez,0,0,0
-San Patricio,125,United States Representative,27,DEM,Ronnie McDonald,3,2,1
-San Patricio,125,United States Representative,27,DEM,Raul (Roy) Barrera,2,2,0
-San Patricio,125,United States Representative,27,DEM,Vanessa Edwards Foster,1,0,1
-San Patricio,125,United States Representative,27,DEM,Eric Holguin,0,0,0
+San Patricio,125,U.S. House,27,DEM,Ronnie McDonald,3,2,1
+San Patricio,125,U.S. House,27,DEM,Raul (Roy) Barrera,2,2,0
+San Patricio,125,U.S. House,27,DEM,Vanessa Edwards Foster,1,0,1
+San Patricio,125,U.S. House,27,DEM,Eric Holguin,0,0,0
 San Patricio,125,Governor,,DEM,"Cedric Davis, Sr.",0,0,0
 San Patricio,125,Governor,,DEM,Adrian Ocegueda,0,0,0
 San Patricio,125,Governor,,DEM,Lupe Valdez,0,0,0

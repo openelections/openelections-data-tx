@@ -1,10 +1,10 @@
 county,precinct,office,district,party,candidate,election_day,absentee,early_voting,votes
-Young,5,United States Senator,,REP,Ted Cruz,260,88,310,658
-Young,5,United States Senator,,REP,"Bruce Jacobson, Jr.",13,4,16,33
-Young,5,United States Senator,,REP,Geraldine Sam,4,0,4,8
-Young,5,United States Senator,,REP,Stefano de Stefano,1,0,2,3
-Young,5,United States Senator,,REP,Mary Miller,6,4,22,32
-Young,5,United States Representative,19,REP,Jodey Arrington,253,81,325,659
+Young,5,U.S. Senate,,REP,Ted Cruz,260,88,310,658
+Young,5,U.S. Senate,,REP,"Bruce Jacobson, Jr.",13,4,16,33
+Young,5,U.S. Senate,,REP,Geraldine Sam,4,0,4,8
+Young,5,U.S. Senate,,REP,Stefano de Stefano,1,0,2,3
+Young,5,U.S. Senate,,REP,Mary Miller,6,4,22,32
+Young,5,U.S. House,19,REP,Jodey Arrington,253,81,325,659
 Young,5,Governor,,REP,Greg Abbott,262,95,304,661
 Young,5,Governor,,REP,Barbara Krueger,16,1,38,55
 Young,5,Governor,,REP,SECEDE Kilgore,1,0,1,2
@@ -51,10 +51,10 @@ Young,5,"Justice of the Peace,Precinct No. 1",,REP,Randy Saylor,72,21,78,171
 Young,5,"Justice of the Peace,Precinct No. 1",,REP,Norman B. Carpenter,54,19,60,133
 Young,5,"Justice of the Peace,Precinct No. 1",,REP,Jabe Underwood,60,17,49,126
 Young,5,County Chairman,,REP,Kyle Zohn Milam,245,84,326,655
-Young,5,United States Senator,,DEM,Edward Kimbrough,6,4,3,13
-Young,5,United States Senator,,DEM,Beto O'Rourke,7,4,11,22
-Young,5,United States Senator,,DEM,Sema Hernandez,4,4,0,8
-Young,5,United States Representative,19,DEM,Miguel Levario,16,12,13,41
+Young,5,U.S. Senate,,DEM,Edward Kimbrough,6,4,3,13
+Young,5,U.S. Senate,,DEM,Beto O'Rourke,7,4,11,22
+Young,5,U.S. Senate,,DEM,Sema Hernandez,4,4,0,8
+Young,5,U.S. House,19,DEM,Miguel Levario,16,12,13,41
 Young,5,Governor,,DEM,"Cedric Davis, Sr.",4,0,0,4
 Young,5,Governor,,DEM,Joe Mumbach,0,0,1,1
 Young,5,Governor,,DEM,Jeffrey Payne,1,1,0,2
@@ -128,12 +128,12 @@ Young,5,Proposition 10,,DEM,YES,266,93,328,687
 Young,5,Proposition 10,,DEM,NO,9,1,15,25
 Young,5,Proposition 11,,DEM,YES,246,92,308,646
 Young,5,Proposition 11,,DEM,NO,35,3,48,86
-Young,6,United States Senator,,REP,Ted Cruz,33,8,27,68
-Young,6,United States Senator,,REP,"Bruce Jacobson, Jr.",1,0,1,2
-Young,6,United States Senator,,REP,Geraldine Sam,0,0,1,1
-Young,6,United States Senator,,REP,Stefano de Stefano,0,0,0,0
-Young,6,United States Senator,,REP,Mary Miller,2,0,0,2
-Young,6,United States Representative,19,REP,Jodey Arrington,32,7,25,64
+Young,6,U.S. Senate,,REP,Ted Cruz,33,8,27,68
+Young,6,U.S. Senate,,REP,"Bruce Jacobson, Jr.",1,0,1,2
+Young,6,U.S. Senate,,REP,Geraldine Sam,0,0,1,1
+Young,6,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
+Young,6,U.S. Senate,,REP,Mary Miller,2,0,0,2
+Young,6,U.S. House,19,REP,Jodey Arrington,32,7,25,64
 Young,6,Governor,,REP,Greg Abbott,34,8,26,68
 Young,6,Governor,,REP,Barbara Krueger,0,0,2,2
 Young,6,Governor,,REP,SECEDE Kilgore,1,0,0,1
@@ -180,10 +180,10 @@ Young,6,"Justice of the Peace,Precinct No. 1",,REP,Randy Saylor,10,1,5,16
 Young,6,"Justice of the Peace,Precinct No. 1",,REP,Norman B. Carpenter,5,3,11,19
 Young,6,"Justice of the Peace,Precinct No. 1",,REP,Jabe Underwood,11,3,3,17
 Young,6,County Chairman,,REP,Kyle Zohn Milam,31,8,22,61
-Young,6,United States Senator,,DEM,Edward Kimbrough,0,1,0,1
-Young,6,United States Senator,,DEM,Beto O'Rourke,0,0,0,0
-Young,6,United States Senator,,DEM,Sema Hernandez,1,0,0,1
-Young,6,United States Representative,19,DEM,Miguel Levario,1,1,0,2
+Young,6,U.S. Senate,,DEM,Edward Kimbrough,0,1,0,1
+Young,6,U.S. Senate,,DEM,Beto O'Rourke,0,0,0,0
+Young,6,U.S. Senate,,DEM,Sema Hernandez,1,0,0,1
+Young,6,U.S. House,19,DEM,Miguel Levario,1,1,0,2
 Young,6,Governor,,DEM,"Cedric Davis, Sr.",0,0,0,0
 Young,6,Governor,,DEM,Joe Mumbach,0,0,0,0
 Young,6,Governor,,DEM,Jeffrey Payne,0,0,0,0
@@ -257,12 +257,12 @@ Young,6,Proposition 10,,DEM,YES,34,8,24,66
 Young,6,Proposition 10,,DEM,NO,1,0,4,5
 Young,6,Proposition 11,,DEM,YES,30,8,27,65
 Young,6,Proposition 11,,DEM,NO,5,0,1,6
-Young,7,United States Senator,,REP,Ted Cruz,29,3,21,53
-Young,7,United States Senator,,REP,"Bruce Jacobson, Jr.",2,0,0,2
-Young,7,United States Senator,,REP,Geraldine Sam,0,0,0,0
-Young,7,United States Senator,,REP,Stefano de Stefano,1,0,0,1
-Young,7,United States Senator,,REP,Mary Miller,2,0,1,3
-Young,7,United States Representative,19,REP,Jodey Arrington,30,2,18,50
+Young,7,U.S. Senate,,REP,Ted Cruz,29,3,21,53
+Young,7,U.S. Senate,,REP,"Bruce Jacobson, Jr.",2,0,0,2
+Young,7,U.S. Senate,,REP,Geraldine Sam,0,0,0,0
+Young,7,U.S. Senate,,REP,Stefano de Stefano,1,0,0,1
+Young,7,U.S. Senate,,REP,Mary Miller,2,0,1,3
+Young,7,U.S. House,19,REP,Jodey Arrington,30,2,18,50
 Young,7,Governor,,REP,Greg Abbott,29,3,20,52
 Young,7,Governor,,REP,Barbara Krueger,5,0,2,7
 Young,7,Governor,,REP,SECEDE Kilgore,0,0,0,0
@@ -309,10 +309,10 @@ Young,7,"Justice of the Peace,Precinct No. 3",,REP,Becky Perez,17,3,15,35
 Young,7,"Constable, Precinct No. 3Unexpired Term",,REP,Cliff Blackstock,18,2,16,36
 Young,7,"Constable, Precinct No. 3Unexpired Term",,REP,Larry Thacker,14,2,3,19
 Young,7,County Chairman,,REP,Kyle Zohn Milam,24,2,18,44
-Young,7,United States Senator,,DEM,Edward Kimbrough,1,0,0,1
-Young,7,United States Senator,,DEM,Beto O'Rourke,1,0,2,3
-Young,7,United States Senator,,DEM,Sema Hernandez,0,0,0,0
-Young,7,United States Representative,19,DEM,Miguel Levario,1,0,2,3
+Young,7,U.S. Senate,,DEM,Edward Kimbrough,1,0,0,1
+Young,7,U.S. Senate,,DEM,Beto O'Rourke,1,0,2,3
+Young,7,U.S. Senate,,DEM,Sema Hernandez,0,0,0,0
+Young,7,U.S. House,19,DEM,Miguel Levario,1,0,2,3
 Young,7,Governor,,DEM,"Cedric Davis, Sr.",0,0,1,1
 Young,7,Governor,,DEM,Joe Mumbach,0,0,0,0
 Young,7,Governor,,DEM,Jeffrey Payne,0,0,0,0
@@ -386,12 +386,12 @@ Young,7,Proposition 10,,DEM,YES,32,4,20,56
 Young,7,Proposition 10,,DEM,NO,1,0,2,3
 Young,7,Proposition 11,,DEM,YES,31,4,19,54
 Young,7,Proposition 11,,DEM,NO,2,0,3,5
-Young,10,United States Senator,,REP,Ted Cruz,75,15,11,101
-Young,10,United States Senator,,REP,"Bruce Jacobson, Jr.",2,1,1,4
-Young,10,United States Senator,,REP,Geraldine Sam,1,0,0,1
-Young,10,United States Senator,,REP,Stefano de Stefano,0,0,0,0
-Young,10,United States Senator,,REP,Mary Miller,2,0,0,2
-Young,10,United States Representative,19,REP,Jodey Arrington,68,13,8,89
+Young,10,U.S. Senate,,REP,Ted Cruz,75,15,11,101
+Young,10,U.S. Senate,,REP,"Bruce Jacobson, Jr.",2,1,1,4
+Young,10,U.S. Senate,,REP,Geraldine Sam,1,0,0,1
+Young,10,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
+Young,10,U.S. Senate,,REP,Mary Miller,2,0,0,2
+Young,10,U.S. House,19,REP,Jodey Arrington,68,13,8,89
 Young,10,Governor,,REP,Greg Abbott,76,18,12,106
 Young,10,Governor,,REP,Barbara Krueger,4,1,0,5
 Young,10,Governor,,REP,SECEDE Kilgore,0,0,0,0
@@ -435,10 +435,10 @@ Young,10,"Justice of the Peace,Precinct No. 3",,REP,Becky Perez,49,12,9,70
 Young,10,"Constable, Precinct No. 3Unexpired Term",,REP,Cliff Blackstock,44,10,6,60
 Young,10,"Constable, Precinct No. 3Unexpired Term",,REP,Larry Thacker,24,8,5,37
 Young,10,County Chairman,,REP,Kyle Zohn Milam,59,12,10,81
-Young,10,United States Senator,,REP,Edward Kimbrough,2,0,0,2
-Young,10,United States Senator,,REP,Beto O'Rourke,2,0,0,2
-Young,10,United States Senator,,REP,Sema Hernandez,0,0,0,0
-Young,10,United States Representative,19,DEM,Miguel Levario,3,0,0,3
+Young,10,U.S. Senate,,REP,Edward Kimbrough,2,0,0,2
+Young,10,U.S. Senate,,REP,Beto O'Rourke,2,0,0,2
+Young,10,U.S. Senate,,REP,Sema Hernandez,0,0,0,0
+Young,10,U.S. House,19,DEM,Miguel Levario,3,0,0,3
 Young,10,Governor,,DEM,"Cedric Davis, Sr.",1,0,0,1
 Young,10,Governor,,DEM,Joe Mumbach,0,0,0,0
 Young,10,Governor,,DEM,Jeffrey Payne,0,0,0,0
@@ -512,12 +512,12 @@ Young,10,Proposition 10,,DEM,YES,77,16,11,104
 Young,10,Proposition 10,,DEM,NO,2,0,1,3
 Young,10,Proposition 11,,DEM,YES,72,16,8,96
 Young,10,Proposition 11,,DEM,NO,9,0,4,13
-Young,16,United States Senator,,REP,Ted Cruz,57,3,12,72
-Young,16,United States Senator,,REP,"Bruce Jacobson, Jr.",0,0,0,0
-Young,16,United States Senator,,REP,Geraldine Sam,2,0,0,2
-Young,16,United States Senator,,REP,Stefano de Stefano,0,0,1,1
-Young,16,United States Senator,,REP,Mary Miller,3,0,0,3
-Young,16,United States Representative,19,REP,Jodey Arrington,54,2,11,67
+Young,16,U.S. Senate,,REP,Ted Cruz,57,3,12,72
+Young,16,U.S. Senate,,REP,"Bruce Jacobson, Jr.",0,0,0,0
+Young,16,U.S. Senate,,REP,Geraldine Sam,2,0,0,2
+Young,16,U.S. Senate,,REP,Stefano de Stefano,0,0,1,1
+Young,16,U.S. Senate,,REP,Mary Miller,3,0,0,3
+Young,16,U.S. House,19,REP,Jodey Arrington,54,2,11,67
 Young,16,Governor,,REP,Greg Abbott,57,3,13,73
 Young,16,Governor,,REP,Barbara Krueger,4,0,1,5
 Young,16,Governor,,REP,SECEDE Kilgore,0,0,0,0
@@ -562,10 +562,10 @@ Young,16,"Justice of the Peace,Precinct No. 3",,REP,Becky Perez,15,0,2,17
 Young,16,"Constable, Precinct No. 3Unexpired Term",,REP,Cliff Blackstock,34,2,11,47
 Young,16,"Constable, Precinct No. 3Unexpired Term",,REP,Larry Thacker,20,1,2,23
 Young,16,County Chairman,,REP,Kyle Zohn Milam,55,2,12,69
-Young,16,United States Senator,,DEM,Edward Kimbrough,0,0,0,0
-Young,16,United States Senator,,DEM,Beto O'Rourke,0,0,0,0
-Young,16,United States Senator,,DEM,Sema Hernandez,1,0,0,1
-Young,16,United States Representative,19,DEM,Miguel Levario,0,0,0,0
+Young,16,U.S. Senate,,DEM,Edward Kimbrough,0,0,0,0
+Young,16,U.S. Senate,,DEM,Beto O'Rourke,0,0,0,0
+Young,16,U.S. Senate,,DEM,Sema Hernandez,1,0,0,1
+Young,16,U.S. House,19,DEM,Miguel Levario,0,0,0,0
 Young,16,Governor,,DEM,"Cedric Davis, Sr.",0,0,0,0
 Young,16,Governor,,DEM,Joe Mumbach,0,0,0,0
 Young,16,Governor,,DEM,Jeffrey Payne,0,0,0,0
@@ -639,12 +639,12 @@ Young,16,Proposition 10,,DEM,YES,52,3,9,64
 Young,16,Proposition 10,,DEM,NO,7,0,4,11
 Young,16,Proposition 11,,DEM,YES,54,3,7,64
 Young,16,Proposition 11,,DEM,NO,6,0,5,11
-Young,20,United States Senator,,REP,Ted Cruz,15,3,17,35
-Young,20,United States Senator,,REP,"Bruce Jacobson, Jr.",1,0,1,2
-Young,20,United States Senator,,REP,Geraldine Sam,0,0,0,0
-Young,20,United States Senator,,REP,Stefano de Stefano,0,0,1,1
-Young,20,United States Senator,,REP,Mary Miller,0,0,0,0
-Young,20,United States Representative,19,REP,Jodey Arrington,15,2,17,34
+Young,20,U.S. Senate,,REP,Ted Cruz,15,3,17,35
+Young,20,U.S. Senate,,REP,"Bruce Jacobson, Jr.",1,0,1,2
+Young,20,U.S. Senate,,REP,Geraldine Sam,0,0,0,0
+Young,20,U.S. Senate,,REP,Stefano de Stefano,0,0,1,1
+Young,20,U.S. Senate,,REP,Mary Miller,0,0,0,0
+Young,20,U.S. House,19,REP,Jodey Arrington,15,2,17,34
 Young,20,Governor,,REP,Greg Abbott,15,3,16,34
 Young,20,Governor,,REP,Barbara Krueger,0,0,3,3
 Young,20,Governor,,REP,SECEDE Kilgore,0,0,0,0
@@ -689,10 +689,10 @@ Young,20,"Justice of the Peace,Precinct No. 3",,REP,Becky Perez,2,3,8,13
 Young,20,"Constable, Precinct No. 3Unexpired Term",,REP,Cliff Blackstock,6,2,8,16
 Young,20,"Constable, Precinct No. 3Unexpired Term",,REP,Larry Thacker,6,1,6,13
 Young,20,County Chairman,,REP,Kyle Zohn Milam,13,2,15,30
-Young,20,United States Senator,,DEM,Edward Kimbrough,0,2,0,2
-Young,20,United States Senator,,DEM,Beto O'Rourke,2,1,0,3
-Young,20,United States Senator,,DEM,Sema Hernandez,0,0,0,0
-Young,20,United States Representative,19,DEM,Miguel Levario,2,3,0,5
+Young,20,U.S. Senate,,DEM,Edward Kimbrough,0,2,0,2
+Young,20,U.S. Senate,,DEM,Beto O'Rourke,2,1,0,3
+Young,20,U.S. Senate,,DEM,Sema Hernandez,0,0,0,0
+Young,20,U.S. House,19,DEM,Miguel Levario,2,3,0,5
 Young,20,Governor,,DEM,"Cedric Davis, Sr.",1,0,0,1
 Young,20,Governor,,DEM,Joe Mumbach,0,0,0,0
 Young,20,Governor,,DEM,Jeffrey Payne,0,2,0,2
@@ -766,12 +766,12 @@ Young,20,Proposition 10,,DEM,YES,12,3,18,33
 Young,20,Proposition 10,,DEM,NO,2,0,0,2
 Young,20,Proposition 11,,DEM,YES,13,3,17,33
 Young,20,Proposition 11,,DEM,NO,2,0,1,3
-Young,22,United States Senator,,REP,Ted Cruz,319,115,322,756
-Young,22,United States Senator,,REP,"Bruce Jacobson, Jr.",4,12,14,30
-Young,22,United States Senator,,REP,Geraldine Sam,2,3,3,8
-Young,22,United States Senator,,REP,Stefano de Stefano,0,0,7,7
-Young,22,United States Senator,,REP,Mary Miller,14,4,18,36
-Young,22,United States Representative,19,REP,Jodey Arrington,305,119,316,740
+Young,22,U.S. Senate,,REP,Ted Cruz,319,115,322,756
+Young,22,U.S. Senate,,REP,"Bruce Jacobson, Jr.",4,12,14,30
+Young,22,U.S. Senate,,REP,Geraldine Sam,2,3,3,8
+Young,22,U.S. Senate,,REP,Stefano de Stefano,0,0,7,7
+Young,22,U.S. Senate,,REP,Mary Miller,14,4,18,36
+Young,22,U.S. House,19,REP,Jodey Arrington,305,119,316,740
 Young,22,Governor,,REP,Greg Abbott,318,129,328,775
 Young,22,Governor,,REP,Barbara Krueger,16,5,26,47
 Young,22,Governor,,REP,SECEDE Kilgore,0,0,10,10
@@ -815,10 +815,10 @@ Young,22,"Justice of the Peace,Precinct No. 1",,REP,Randy Saylor,94,32,77,203
 Young,22,"Justice of the Peace,Precinct No. 1",,REP,Norman B. Carpenter,66,37,82,185
 Young,22,"Justice of the Peace,Precinct No. 1",,REP,Jabe Underwood,62,24,60,146
 Young,22,County Chairman,,REP,Kyle Zohn Milam,297,113,315,725
-Young,22,United States Senator,,DEM,Edward Kimbrough,2,7,2,11
-Young,22,United States Senator,,DEM,Beto O'Rourke,6,6,12,24
-Young,22,United States Senator,,DEM,Sema Hernandez,5,1,0,6
-Young,22,United States Representative,19,DEM,Miguel Levario,13,11,11,35
+Young,22,U.S. Senate,,DEM,Edward Kimbrough,2,7,2,11
+Young,22,U.S. Senate,,DEM,Beto O'Rourke,6,6,12,24
+Young,22,U.S. Senate,,DEM,Sema Hernandez,5,1,0,6
+Young,22,U.S. House,19,DEM,Miguel Levario,13,11,11,35
 Young,22,Governor,,DEM,"Cedric Davis, Sr.",0,0,1,1
 Young,22,Governor,,DEM,Joe Mumbach,0,0,1,1
 Young,22,Governor,,DEM,Jeffrey Payne,0,1,0,1
@@ -892,12 +892,12 @@ Young,22,Proposition 10,,DEM,YES,323,123,343,789
 Young,22,Proposition 10,,DEM,NO,13,6,22,41
 Young,22,Proposition 11,,DEM,YES,301,119,321,741
 Young,22,Proposition 11,,DEM,NO,43,11,46,100
-Young,23,United States Senator,,REP,Ted Cruz,200,59,209,468
-Young,23,United States Senator,,REP,"Bruce Jacobson, Jr.",13,5,10,28
-Young,23,United States Senator,,REP,Geraldine Sam,2,1,1,4
-Young,23,United States Senator,,REP,Stefano de Stefano,5,0,6,11
-Young,23,United States Senator,,REP,Mary Miller,4,0,13,17
-Young,23,United States Representative,19,REP,Jodey Arrington,198,53,213,464
+Young,23,U.S. Senate,,REP,Ted Cruz,200,59,209,468
+Young,23,U.S. Senate,,REP,"Bruce Jacobson, Jr.",13,5,10,28
+Young,23,U.S. Senate,,REP,Geraldine Sam,2,1,1,4
+Young,23,U.S. Senate,,REP,Stefano de Stefano,5,0,6,11
+Young,23,U.S. Senate,,REP,Mary Miller,4,0,13,17
+Young,23,U.S. House,19,REP,Jodey Arrington,198,53,213,464
 Young,23,Governor,,REP,Greg Abbott,200,62,200,462
 Young,23,Governor,,REP,Barbara Krueger,16,4,31,51
 Young,23,Governor,,REP,SECEDE Kilgore,5,1,2,8
@@ -941,10 +941,10 @@ Young,23,"Justice of the Peace,Precinct No. 3",,REP,Becky Perez,81,20,76,177
 Young,23,"Constable, Precinct No. 3Unexpired Term",,REP,Cliff Blackstock,141,38,154,333
 Young,23,"Constable, Precinct No. 3Unexpired Term",,REP,Larry Thacker,79,22,80,181
 Young,23,County Chairman,,REP,Kyle Zohn Milam,184,47,197,428
-Young,23,United States Senator,,DEM,Edward Kimbrough,2,8,5,15
-Young,23,United States Senator,,DEM,Beto O'Rourke,11,4,5,20
-Young,23,United States Senator,,DEM,Sema Hernandez,4,6,1,11
-Young,23,United States Representative,19,DEM,Miguel Levario,14,16,8,38
+Young,23,U.S. Senate,,DEM,Edward Kimbrough,2,8,5,15
+Young,23,U.S. Senate,,DEM,Beto O'Rourke,11,4,5,20
+Young,23,U.S. Senate,,DEM,Sema Hernandez,4,6,1,11
+Young,23,U.S. House,19,DEM,Miguel Levario,14,16,8,38
 Young,23,Governor,,DEM,"Cedric Davis, Sr.",4,0,1,5
 Young,23,Governor,,DEM,Joe Mumbach,0,0,0,0
 Young,23,Governor,,DEM,Jeffrey Payne,0,1,1,2
@@ -1018,12 +1018,12 @@ Young,23,Proposition 10,,DEM,YES,201,62,205,468
 Young,23,Proposition 10,,DEM,NO,13,2,25,40
 Young,23,Proposition 11,,DEM,YES,196,62,205,463
 Young,23,Proposition 11,,DEM,NO,26,6,35,67
-Young,24,United States Senator,,REP,Ted Cruz,91,39,113,243
-Young,24,United States Senator,,REP,"Bruce Jacobson, Jr.",3,1,5,9
-Young,24,United States Senator,,REP,Geraldine Sam,0,1,0,1
-Young,24,United States Senator,,REP,Stefano de Stefano,2,0,4,6
-Young,24,United States Senator,,REP,Mary Miller,8,2,4,14
-Young,24,United States Representative,19,REP,Jodey Arrington,92,42,115,249
+Young,24,U.S. Senate,,REP,Ted Cruz,91,39,113,243
+Young,24,U.S. Senate,,REP,"Bruce Jacobson, Jr.",3,1,5,9
+Young,24,U.S. Senate,,REP,Geraldine Sam,0,1,0,1
+Young,24,U.S. Senate,,REP,Stefano de Stefano,2,0,4,6
+Young,24,U.S. Senate,,REP,Mary Miller,8,2,4,14
+Young,24,U.S. House,19,REP,Jodey Arrington,92,42,115,249
 Young,24,Governor,,REP,Greg Abbott,90,42,116,248
 Young,24,Governor,,REP,Barbara Krueger,10,2,5,17
 Young,24,Governor,,REP,SECEDE Kilgore,0,0,0,0
@@ -1068,10 +1068,10 @@ Young,24,"Justice of the Peace,Precinct No. 1",,REP,Randy Saylor,14,12,33,59
 Young,24,"Justice of the Peace,Precinct No. 1",,REP,Norman B. Carpenter,21,6,24,51
 Young,24,"Justice of the Peace,Precinct No. 1",,REP,Jabe Underwood,23,12,25,60
 Young,24,County Chairman,,REP,Kyle Zohn Milam,88,40,111,239
-Young,24,United States Senator,,DEM,Edward Kimbrough,4,3,2,9
-Young,24,United States Senator,,DEM,Beto O'Rourke,6,6,16,28
-Young,24,United States Senator,,DEM,Sema Hernandez,6,0,1,7
-Young,24,United States Representative,19,DEM,Miguel Levario,14,8,16,38
+Young,24,U.S. Senate,,DEM,Edward Kimbrough,4,3,2,9
+Young,24,U.S. Senate,,DEM,Beto O'Rourke,6,6,16,28
+Young,24,U.S. Senate,,DEM,Sema Hernandez,6,0,1,7
+Young,24,U.S. House,19,DEM,Miguel Levario,14,8,16,38
 Young,24,Governor,,DEM,"Cedric Davis, Sr.",2,2,1,5
 Young,24,Governor,,DEM,Joe Mumbach,1,0,0,1
 Young,24,Governor,,DEM,Jeffrey Payne,2,1,0,3
