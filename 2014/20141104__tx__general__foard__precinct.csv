@@ -1,376 +1,350 @@
-1,county,precinct,office,district,candidate,party,early_voting,election_day,votes,,,
-2,Foard,101,Ballots Cast,,,,,,49,,,
-3,Foard,201,Ballots Cast,,,,,,133,,,
-4,Foard,301,Ballots Cast,,,,,,73,,,
-5,Foard,401,Ballots Cast,,,,,,76,,,
-6,Foard,Total,Ballots Cast,,,,,,331,,,
-7,Foard,101,Straight Party,,,REP,1,7,8,,,
-8,Foard,201,Straight Party,,,REP,11,9,20,,,
-9,Foard,301,Straight Party,,,REP,8,13,21,,,
-10,Foard,401,Straight Party,,,REP,4,12,16,,,
-11,Foard,Total,Straight Party,,,REP,24,41,65,,,
-12,Foard,101,Straight Party,,,DEM,2,4,6,,,
-13,Foard,201,Straight Party,,,DEM,13,9,22,,,
-14,Foard,301,Straight Party,,,DEM,4,13,17,,,
-15,Foard,401,Straight Party,,,DEM,4,6,10,,,
-16,Foard,Total,Straight Party,,,DEM,23,32,55,,,
-17,Foard,101,Straight Party,,,LIB,0,0,0,,,
-18,Foard,201,Straight Party,,,LIB,0,0,0,,,
-19,Foard,301,Straight Party,,,LIB,0,0,0,,,
-20,Foard,401,Straight Party,,,LIB,0,0,0,,,
-21,Foard,Total,Straight Party,,,LIB,0,0,0,,,
-22,Foard,101,Straight Party,,,GRN,0,0,0,,,
-23,Foard,201,Straight Party,,,GRN,0,0,0,,,
-24,Foard,301,Straight Party,,,GRN,0,0,0,,,
-25,Foard,401,Straight Party,,,GRN,0,0,0,,,
-26,Foard,Total,Straight Party,,,GRN,0,0,0,,,
-27,Foard,101,Straight Party,,Over Votes,,0,0,0,,,
-28,Foard,201,Straight Party,,Over Votes,,0,0,0,,,
-29,Foard,301,Straight Party,,Over Votes,,0,0,0,,,
-30,Foard,401,Straight Party,,Over Votes,,0,0,0,,,
-31,Foard,Total,Straight Party,,Over Votes,,0,0,0,,,
-32,Foard,101,Straight Party,,Under Votes,,14,21,35,,,
-33,Foard,201,Straight Party,,Under Votes,,37,53,90,,,
-34,Foard,301,Straight Party,,Under Votes,,9,26,35,,,
-35,Foard,401,Straight Party,,Under Votes,,19,31,50,,,
-36,Foard,Total,Straight Party,,Under Votes,,79,131,210,,,
-37,Foard,101,U S Senate,,John Comyn,,12,21,33,,,
-38,Foard,201,U S Senate,,John Comyn,,14,24,38,,,
-39,Foard,301,U S Senate,,John Comyn,,4,7,11,,,
-40,Foard,401,U S Senate,,John Comyn,,21,20,41,,,
-41,Foard,Total,U S Senate,,John Comyn,,51,72,123,,,
-42,Foard,101,U S Senate,,David M. Alameel,,2,6,8,,,
-43,Foard,201,U S Senate,,David M. Alameel,,20,16,36,,,
-44,Foard,301,U S Senate,,David M. Alameel,,7,18,25,,,
-45,Foard,401,U S Senate,,David M. Alameel,,12,9,21,,,
-46,Foard,Total,U S Senate,,David M. Alameel,,41,49,90,,,
-47,Foard,101,U S Senate,,Rebecca Paddock,,1,1,2,,,
-48,Foard,201,U S Senate,,Rebecca Paddock,,1,1,2,,,
-49,Foard,301,U S Senate,,Rebecca Paddock,,0,3,3,,,
-50,Foard,401,U S Senate,,Rebecca Paddock,,0,2,2,,,
-51,Foard,Total,U S Senate,,Rebecca Paddock,,2,7,9,,,
-52,Foard,101,U S Senate,,"Emily ""Spicybrown"" Sanchez",,0,0,0,,,
-53,Foard,201,U S Senate,,"Emily ""Spicybrown"" Sanchez",,0,0,0,,,
-54,Foard,301,U S Senate,,"Emily ""Spicybrown"" Sanchez",,0,0,0,,,
-55,Foard,401,U S Senate,,"Emily ""Spicybrown"" Sanchez",,0,0,0,,,
-56,Foard,Total,U S Senate,,"Emily ""Spicybrown"" Sanchez",,0,0,0,,,
-57,Foard,101,U S Senate,,Mohammed Tahiro ,,0,0,0,,,
-58,Foard,201,U S Senate,,Mohammed Tahiro ,,0,0,0,,,
-59,Foard,301,U S Senate,,Mohammed Tahiro ,,0,0,0,,,
-60,Foard,401,U S Senate,,Mohammed Tahiro ,,0,0,0,,,
-61,Foard,Total,U S Senate,,Mohammed Tahiro ,,0,0,0,,,
-62,Foard,101,U S Senate,,Over Votes,,0,0,0,,,
-63,Foard,201,U S Senate,,Over Votes,,0,0,0,,,
-64,Foard,301,U S Senate,,Over Votes,,0,0,0,,,
-65,Foard,401,U S Senate,,Over Votes,,0,0,0,,,
-66,Foard,Total,U S Senate,,Over Votes,,0,0,0,,,
-67,Foard,101,U S Senate,,Under Votes,,2,4,6,,,
-68,Foard,201,U S Senate,,Under Votes,,2,12,14,,,
-69,Foard,301,U S Senate,,Under Votes,,0,7,7,,,
-70,Foard,401,U S Senate,,Under Votes,,4,5,9,,,
-71,Foard,Total,U S Senate,,Under Votes,,8,28,36,,,
-72,Foard,101,U.S. House,13,Mac Thornberry,,14,20,34,,,
-73,Foard,201,U.S. House,13,Mac Thornberry,,41,47,88,,,
-74,Foard,301,U.S. House,13,Mac Thornberry,,14,28,42,,,
-75,Foard,401,U.S. House,13,Mac Thornberry,,16,37,53,,,
-76,Foard,Total,U.S. House,13,Mac Thornberry,,85,132,217,,,
-77,Foard,101,U.S. House,13,Mike Minter,,2,6,8,,,
-78,Foard,201,U.S. House,13,Mike Minter,,18,19,37,,,
-79,Foard,301,U.S. House,13,Mike Minter,,7,20,27,,,
-80,Foard,401,U.S. House,13,Mike Minter,,10,6,16,,,
-81,Foard,Total,U.S. House,13,Mike Minter,,37,51,88,,,
-82,Foard,101,U.S. House,13,Emily Pivoda,,0,2,2,,,
-83,Foard,201,U.S. House,13,Emily Pivoda,,1,0,1,,,
-84,Foard,301,U.S. House,13,Emily Pivoda,,0,1,1,,,
-85,Foard,401,U.S. House,13,Emily Pivoda,,0,0,0,,,
-86,Foard,Total,U.S. House,13,Emily Pivoda,,1,3,4,,,
-87,Foard,101,U.S. House,13,Don Cook,,0,0,0,,,
-88,Foard,201,U.S. House,13,Don Cook,,0,0,0,,,
-89,Foard,301,U.S. House,13,Don Cook,,0,1,1,,,
-90,Foard,401,U.S. House,13,Don Cook,,0,1,1,,,
-91,Foard,Total,U.S. House,13,Don Cook,,0,2,2,,,
-92,Foard,101,U.S. House,13,Over Votes,,0,0,0,,,
-93,Foard,201,U.S. House,13,Over Votes,,0,0,0,,,
-94,Foard,301,U.S. House,13,Over Votes,,0,0,0,,,
-95,Foard,401,U.S. House,13,Over Votes,,0,0,0,,,
-96,Foard,Total,U.S. House,13,Over Votes,,0,0,0,,,
-97,Foard,101,U.S. House,13,Under Votes,,1,4,5,,,
-98,Foard,201,U.S. House,13,Under Votes,,2,5,7,,,
-99,Foard,301,U.S. House,13,Under Votes,,0,2,2,,,
-100,Foard,401,U.S. House,13,Under Votes,,1,5,6,,,
-101,Foard,Total,U.S. House,13,Under Votes,,4,16,20,,,
-102,Foard,101,Governor,,Greg Abbott,,13,22,35,,,
-103,Foard,201,Governor,,Greg Abbott,,38,39,77,,,
-104,Foard,301,Governor,,Greg Abbott,,13,31,44,,,
-105,Foard,401,Governor,,Greg Abbott,,14,35,49,,,
-106,Foard,Total,Governor,,Greg Abbott,,78,127,205,,,
-107,Foard,101,Governor,,Wendy R. Davis,,3,7,10,,,
-108,Foard,201,Governor,,Wendy R. Davis,,22,25,47,,,
-109,Foard,301,Governor,,Wendy R. Davis,,8,16,24,,,
-110,Foard,401,Governor,,Wendy R. Davis,,10,11,21,,,
-111,Foard,Total,Governor,,Wendy R. Davis,,43,59,102,,,
-112,Foard,101,Governor,,Kathie Glass,,0,0,0,,,
-113,Foard,201,Governor,,Kathie Glass,,0,1,1,,,
-114,Foard,301,Governor,,Kathie Glass,,0,2,2,,,
-115,Foard,401,Governor,,Kathie Glass,,0,0,0,,,
-116,Foard,Total,Governor,,Kathie Glass,,0,3,3,,,
-117,Foard,101,Governor,,Brandon Parmer,,0,0,0,,,
-118,Foard,201,Governor,,Brandon Parmer,,0,0,0,,,
-119,Foard,301,Governor,,Brandon Parmer,,0,0,0,,,
-120,Foard,401,Governor,,Brandon Parmer,,0,0,0,,,
-121,Foard,Total,Governor,,Brandon Parmer,,0,0,0,,,
-122,Foard,101,Governor,,Sarah M. Pavitt,,0,0,0,,,
-123,Foard,201,Governor,,Sarah M. Pavitt (W),,0,0,0,,,
-124,Foard,301,Governor,,Sarah M. Pavitt (W),,0,0,0,,,
-125,Foard,401,Governor,,Sarah M. Pavitt (W),,0,0,0,,,
-126,Foard,Total,Governor,,Sarah M. Pavitt (W),,0,0,0,,,
-127,Foard,101,Governor,,Over Votes,,0,0,0,,,
-128,Foard,201,Governor,,Over Votes,,0,0,0,,,
-129,Foard,301,Governor,,Over Votes,,0,0,0,,,
-130,Foard,401,Governor,,Over Votes,,0,0,0,,,
-131,Foard,Total,Governor,,Over Votes,,0,0,0,,,
-132,Foard,101,Governor,,Under Votes,,1,3,4,,,
-133,Foard,201,Governor,,Under Votes,,2,6,8,,,
-134,Foard,301,Governor,,Under Votes,,0,3,3,,,
-135,Foard,401,Governor,,Under Votes,,3,3,6,,,
-136,Foard,Total,Governor,,Under Votes,,6,15,21,,,
-137,Foard,101,Lieutenant Governor,,Dan Patrick,,12,24,36,,,
-138,Foard,201,Lieutenant Governor,,Dan Patrick,,38,43,81,,,
-139,Foard,301,Lieutenant Governor,,Dan Patrick,,13,32,45,,,
-140,Foard,401,Lieutenant Governor,,Dan Patrick,,15,36,51,,,
-141,Foard,Total,Lieutenant Governor,,Dan Patrick,,78,135,213,,,
-142,Foard,101,Lieutenant Governor,,Leticia Van de Putte,,3,3,6,,,
-143,Foard,201,Lieutenant Governor,,Leticia Van de Putte,,20,16,36,,,
-144,Foard,301,Lieutenant Governor,,Leticia Van de Putte,,7,14,21,,,
-145,Foard,401,Lieutenant Governor,,Leticia Van de Putte,,10,8,18,,,
-146,Foard,Total,Lieutenant Governor,,Leticia Van de Putte,,40,41,81,,,
-147,Foard,101,Lieutenant Governor,,Robert D. Butler,,0,0,0,,,
-148,Foard,201,Lieutenant Governor,,Robert D. Butler,,0,1,1,,,
-149,Foard,301,Lieutenant Governor,,Robert D. Butler,,0,2,2,,,
-150,Foard,401,Lieutenant Governor,,Robert D. Butler,,0,0,0,,,
-151,Foard,Total,Lieutenant Governor,,Robert D. Butler,,0,3,3,,,
-152,Foard,101,Lieutenant Governor,,Chandrakantha Courtney,,0,1,1,,,
-153,Foard,201,Lieutenant Governor,,Chandrakantha Courtney,,0,0,0,,,
-154,Foard,301,Lieutenant Governor,,Chandrakantha Courtney,,0,2,2,,,
-155,Foard,401,Lieutenant Governor,,Chandrakantha Courtney,,0,0,0,,,
-156,Foard,Total,Lieutenant Governor,,Chandrakantha Courtney,,0,3,3,,,
-157,Foard,101,Lieutenant Governor,,Over Votes,,0,0,0,,,
-158,Foard,201,Lieutenant Governor,,Over Votes,,0,0,0,,,
-159,Foard,301,Lieutenant Governor,,Over Votes,,0,0,0,,,
-160,Foard,401,Lieutenant Governor,,Over Votes,,0,0,0,,,
-161,Foard,Total,Lieutenant Governor,,Over Votes,,0,0,0,,,
-162,Foard,101,Lieutenant Governor,,Under Votes,,2,4,6,,,
-163,Foard,201,Lieutenant Governor,,Under Votes,,4,11,15,,,
-164,Foard,301,Lieutenant Governor,,Under Votes,,1,2,3,,,
-165,Foard,401,Lieutenant Governor,,Under Votes,,2,5,7,,,
-166,Foard,Total,Lieutenant Governor,,Under Votes,,9,22,31,,,
-167,Foard,101,Attorney General,,Ken Paxton,,9,15,24,,,
-168,Foard,201,Attorney General,,Ken Paxton,,35,36,71,,,
-169,Foard,301,Attorney General,,Ken Paxton,,13,24,37,,,
-170,Foard,401,Attorney General,,Ken Paxton,,13,31,44,,,
-171,Foard,Total,Attorney General,,Ken Paxton,,70,106,176,,,
-172,Foard,101,Attorney General,,Sam Houston,,6,13,19,,,
-173,Foard,201,Attorney General,,Sam Houston,,20,23,43,,,
-174,Foard,301,Attorney General,,Sam Houston,,7,22,29,,,
-175,Foard,401,Attorney General,,Sam Houston,,12,13,25,,,
-176,Foard,Total,Attorney General,,Sam Houston,,45,71,116,,,
-177,Foard,101,Attorney General,,Jamie Balagia,,0,0,0,,,
-178,Foard,201,Attorney General,,Jamie Balagia,,0,2,2,,,
-179,Foard,301,Attorney General,,Jamie Balagia,,0,1,1,,,
-180,Foard,401,Attorney General,,Jamie Balagia,,1,2,3,,,
-181,Foard,Total,Attorney General,,Jamie Balagia,,1,5,6,,,
-182,Foard,101,Attorney General,,Jamar Osborne,,0,0,0,,,
-183,Foard,201,Attorney General,,Jamar Osborne,,0,0,0,,,
-184,Foard,301,Attorney General,,Jamar Osborne,,0,0,0,,,
-185,Foard,401,Attorney General,,Jamar Osborne,,0,0,0,,,
-186,Foard,Total,Attorney General,,Jamar Osborne,,0,0,0,,,
-187,Foard,101,Attorney General,,Over Votes,,0,0,0,,,
-188,Foard,201,Attorney General,,Over Votes,,0,0,0,,,
-189,Foard,301,Attorney General,,Over Votes,,0,0,0,,,
-190,Foard,401,Attorney General,,Over Votes,,0,0,0,,,
-191,Foard,Total,Attorney General,,Over Votes,,0,0,0,,,
-192,Foard,101,Attorney General,,Under Votes,,2,2,4,,,
-193,Foard,201,Attorney General,,Under Votes,,7,11,18,,,
-194,Foard,301,Attorney General,,Under Votes,,0,4,4,,,
-195,Foard,401,Attorney General,,Under Votes,,2,5,7,,,
-196,Foard,Total,Attorney General,,Under Votes,,11,22,33,,,
-197,Foard,101,Comptroller of Public Accounts,,Glenn Hegar,,8,20,28,,,
-198,Foard,201,Comptroller of Public Accounts,,Glenn Hegar,,31,36,67,,,
-199,Foard,301,Comptroller of Public Accounts,,Glenn Hegar,,10,26,36,,,
-200,Foard,401,Comptroller of Public Accounts,,Glenn Hegar,,13,29,42,,,
-201,Foard,Total,Comptroller of Public Accounts,,Glenn Hegar,,62,111,173,,,
-202,Foard,101,Comptroller of Public Accounts,,Mike Collier,,6,9,15,,,
-203,Foard,201,Comptroller of Public Accounts,,Mike Collier,,22,23,45,,,
-204,Foard,301,Comptroller of Public Accounts,,Mike Collier,,11,21,32,,,
-205,Foard,401,Comptroller of Public Accounts,,Mike Collier,,11,13,24,,,
-206,Foard,Total,Comptroller of Public Accounts,,Mike Collier,,50,66,116,,,
-207,Foard,101,Comptroller of Public Accounts,,Ben Sanders,,0,0,0,,,
-208,Foard,201,Comptroller of Public Accounts,,Ben Sanders,,1,1,2,,,
-209,Foard,301,Comptroller of Public Accounts,,Ben Sanders,,0,2,2,,,
-210,Foard,401,Comptroller of Public Accounts,,Ben Sanders,,0,0,0,,,
-211,Foard,Total,Comptroller of Public Accounts,,Ben Sanders,,1,3,4,,,
-212,Foard,101,Comptroller of Public Accounts,,Deb Shafto,,0,0,0,,,
-213,Foard,201,Comptroller of Public Accounts,,Deb Shafto,,0,0,0,,,
-214,Foard,301,Comptroller of Public Accounts,,Deb Shafto,,0,0,0,,,
-215,Foard,401,Comptroller of Public Accounts,,Deb Shafto,,0,0,0,,,
-216,Foard,Total,Comptroller of Public Accounts,,Deb Shafto,,0,0,0,,,
-217,Foard,101,Comptroller of Public Accounts,,Over Votes,,0,0,0,,,
-218,Foard,201,Comptroller of Public Accounts,,Over Votes,,0,0,0,,,
-219,Foard,301,Comptroller of Public Accounts,,Over Votes,,0,0,0,,,
-220,Foard,401,Comptroller of Public Accounts,,Over Votes,,0,0,0,,,
-221,Foard,Total,Comptroller of Public Accounts,,Over Votes,,0,0,0,,,
-222,Foard,101,Comptroller of Public Accounts,,Under Votes,,3,3,6,,,
-223,Foard,201,Comptroller of Public Accounts,,Under Votes,,8,11,19,,,
-224,Foard,301,Comptroller of Public Accounts,,Under Votes,,0,3,3,,,
-225,Foard,401,Comptroller of Public Accounts,,Under Votes,,3,7,10,,,
-226,Foard,Total,Comptroller of Public Accounts,,Under Votes,,14,24,38,,,
-227,Foard,101,Commissioner of the General Land Office,,George P.  Bush,,11,21,32,,,
-228,Foard,201,Commissioner of the General Land Office,,George P.  Bush,,34,42,76,,,
-229,Foard,301,Commissioner of the General Land Office,,George P.  Bush,,10,28,38,,,
-230,Foard,401,Commissioner of the General Land Office,,George P.  Bush,,12,32,44,,,
-231,Foard,Total,Commissioner of the General Land Office,,George P.  Bush,,67,123,190,,,
-232,Foard,101,Commissioner of the General Land Office,,John Cook,,11,19,30,,,
-233,Foard,201,Commissioner of the General Land Office,,John Cook,,13,11,24,,,
-234,Foard,301,Commissioner of the General Land Office,,John Cook,,39,42,81,,,
-235,Foard,401,Commissioner of the General Land Office,,John Cook,,11,33,44,,,
-236,Foard,Total,Commissioner of the General Land Office,,John Cook,,74,105,179,,,
-237,Foard,101,Commissioner of the General Land Office,,Justin Knight,,0,1,1,,,
-238,Foard,201,Commissioner of the General Land Office,,Justin Knight,,0,1,1,,,
-239,Foard,301,Commissioner of the General Land Office,,Justin Knight,,0,3,3,,,
-240,Foard,401,Commissioner of the General Land Office,,Justin Knight,,0,1,1,,,
-241,Foard,Total,Commissioner of the General Land Office,,Justin Knight,,0,6,6,,,
-242,Foard,101,Commissioner of the General Land Office,,Valerie Alessi,,0,0,0,,,
-243,Foard,201,Commissioner of the General Land Office,,Valerie Alessi,,0,0,0,,,
-244,Foard,301,Commissioner of the General Land Office,,Valerie Alessi,,0,0,0,,,
-245,Foard,401,Commissioner of the General Land Office,,Valerie Alessi,,0,0,0,,,
-246,Foard,Total,Commissioner of the General Land Office,,Valerie Alessi,,0,0,0,,,
-247,Foard,101,Commissioner of the General Land Office,,Over Votes,,0,0,0,,,
-248,Foard,201,Commissioner of the General Land Office,,Over Votes,,0,0,0,,,
-249,Foard,301,Commissioner of the General Land Office,,Over Votes,,0,0,0,,,
-250,Foard,401,Commissioner of the General Land Office,,Over Votes,,0,0,0,,,
-251,Foard,Total,Commissioner of the General Land Office,,Over Votes,,0,0,0,,,
-252,Foard,101,Commissioner of the General Land Office,,Under Votes,,2,3,5,,,
-253,Foard,201,Commissioner of the General Land Office,,Under Votes,,7,8,15,,,
-254,Foard,301,Commissioner of the General Land Office,,Under Votes,,0,2,2,,,
-255,Foard,401,Commissioner of the General Land Office,,Under Votes,,2,5,7,,,
-256,Foard,Total,Commissioner of the General Land Office,,Under Votes,,11,18,29,,,
-257,Foard,101,Commissioner of Agriculture,,Sid Miller,,8,18,26,,,
-258,Foard,201,Commissioner of Agriculture,,Sid Miller,,30,35,65,,,
-259,Foard,301,Commissioner of Agriculture,,Sid Miller,,11,25,36,,,
-260,Foard,401,Commissioner of Agriculture,,Sid Miller,,12,29,41,,,
-261,Foard,Total,Commissioner of Agriculture,,Sid Miller,,61,107,168,,,
-262,Foard,101,Commissioner of Agriculture,,Jim Hogan,,6,11,17,,,
-263,Foard,201,Commissioner of Agriculture,,Jim Hogan,,23,23,46,,,
-264,Foard,301,Commissioner of Agriculture,,Jim Hogan,,10,20,30,,,
-265,Foard,401,Commissioner of Agriculture,,Jim Hogan,,12,11,23,,,
-266,Foard,Total,Commissioner of Agriculture,,Jim Hogan,,51,65,116,,,
-267,Foard,101,Commissioner of Agriculture,,David (Rocky) Palnquist,,1,0,1,,,
-268,Foard,201,Commissioner of Agriculture,,David (Rocky) Palnquist,,1,1,2,,,
-269,Foard,301,Commissioner of Agriculture,,David (Rocky) Palnquist,,0,3,3,,,
-270,Foard,401,Commissioner of Agriculture,,David (Rocky) Palnquist,,0,1,1,,,
-271,Foard,Total,Commissioner of Agriculture,,David (Rocky) Palnquist,,2,5,7,,,
-272,Foard,101,Commissioner of Agriculture,,Kenneth Kendrick,,0,0,0,,,
-273,Foard,201,Commissioner of Agriculture,,Kenneth Kendrick,,0,0,0,,,
-274,Foard,301,Commissioner of Agriculture,,Kenneth Kendrick,,0,2,2,,,
-275,Foard,401,Commissioner of Agriculture,,Kenneth Kendrick,,0,1,1,,,
-276,Foard,Total,Commissioner of Agriculture,,Kenneth Kendrick,,0,3,3,,,
-277,Foard,101,Commissioner of Agriculture,,Over Votes,,0,0,0,,,
-278,Foard,201,Commissioner of Agriculture,,Over Votes,,0,0,0,,,
-279,Foard,301,Commissioner of Agriculture,,Over Votes,,0,0,0,,,
-280,Foard,401,Commissioner of Agriculture,,Over Votes,,0,0,0,,,
-281,Foard,Total,Commissioner of Agriculture,,Over Votes,,0,0,0,,,
-282,Foard,101,Commissioner of Agriculture,,Under Votes,,2,3,5,,,
-283,Foard,201,Commissioner of Agriculture,,Under Votes,,8,12,20,,,
-284,Foard,301,Commissioner of Agriculture,,Under Votes,,0,2,2,,,
-285,Foard,401,Commissioner of Agriculture,,Under Votes,,3,7,10,,,
-286,Foard,Total,Commissioner of Agriculture,,Under Votes,,13,24,37,,,
-287,Foard,101,Railroad Commissioner,,Ryan Sitton,,8,17,25,,,
-288,Foard,201,Railroad Commissioner,,Ryan Sitton,,33,32,65,,,
-289,Foard,301,Railroad Commissioner,,Ryan Sitton,,11,27,38,,,
-290,Foard,401,Railroad Commissioner,,Ryan Sitton,,11,27,38,,,
-291,Foard,Total,Railroad Commissioner,,Ryan Sitton,,63,103,166,,,
-292,Foard,101,Railroad Commissioner,,Steve Brown,,5,11,16,,,
-293,Foard,201,Railroad Commissioner,,Steve Brown,,21,24,45,,,
-294,Foard,301,Railroad Commissioner,,Steve Brown,,10,30,44,,,
-295,Foard,401,Railroad Commissioner,,Steve Brown,,13,13,26,,,
-296,Foard,Total,Railroad Commissioner,,Steve Brown,,49,78,131,,,
-297,Foard,101,Railroad Commissioner,,Mark A.  Miller,,1,1,2,,,
-298,Foard,201,Railroad Commissioner,,Mark A.  Miller,,0,3,3,,,
-299,Foard,301,Railroad Commissioner,,Mark A.  Miller,,0,3,0,,,
-300,Foard,401,Railroad Commissioner,,Mark A.  Miller,,0,0,0,,,
-301,Foard,Total,Railroad Commissioner,,Mark A.  Miller,,1,7,5,,,
-302,Foard,101,Railroad Commissioner,,Martina Salinas,,0,0,0,,,
-303,Foard,201,Railroad Commissioner,,Martina Salinas,,0,0,0,,,
-304,Foard,301,Railroad Commissioner,,Martina Salinas,,0,0,0,,,
-305,Foard,401,Railroad Commissioner,,Martina Salinas,,0,0,0,,,
-306,Foard,Total,Railroad Commissioner,,Martina Salinas,,0,0,0,,,
-307,Foard,101,Railroad Commissioner,,Over Votes,,0,0,0,,,
-308,Foard,201,Railroad Commissioner,,Over Votes,,0,0,0,,,
-309,Foard,301,Railroad Commissioner,,Over Votes,,0,0,0,,,
-310,Foard,401,Railroad Commissioner,,Over Votes,,0,0,0,,,
-311,Foard,Total,Railroad Commissioner,,Over Votes,,0,0,0,,,
-312,Foard,101,Railroad Commissioner,,Under Votes,,3,3,6,,,
-313,Foard,201,Railroad Commissioner,,Under Votes,,9,12,20,,,
-314,Foard,301,Railroad Commissioner,,Under Votes,,0,2,2,,,
-315,Foard,401,Railroad Commissioner,,Under Votes,,3,9,12,,,
-316,Foard,Total,Railroad Commissioner,,Under Votes,,15,26,40,,,
-317,Foard,101,State Representative,69,James Frank,,11,23,34,,,
-318,Foard,201,State Representative,69,James Frank,,35,46,81,,,
-319,Foard,301,State Representative,69,James Frank,,13,35,48,,,
-320,Foard,401,State Representative,69,James Frank,,14,32,46,,,
-321,Foard,Total,State Representative,69,James Frank,,73,136,209,,,
-322,Foard,101,State Representative,69,Over Votes,,0,0,0,,,
-323,Foard,201,State Representative,69,Over Votes,,0,0,0,,,
-324,Foard,301,State Representative,69,Over Votes,,0,0,0,,,
-325,Foard,401,State Representative,69,Over Votes,,0,0,0,,,
-326,Foard,Total,State Representative,69,Over Votes,,0,0,0,,,
-327,Foard,101,State Representative,69,Under Votes,,6,9,15,,,
-328,Foard,201,State Representative,69,Under Votes,,27,25,52,,,
-329,Foard,301,State Representative,69,Under Votes,,8,17,25,,,
-330,Foard,401,State Representative,69,Under Votes,,13,17,30,,,
-331,Foard,Total,State Representative,69,Under Votes,,54,68,122,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,Ryan Sitton,,,,
-,,,,,,,,Ryan Sitton,,,,
-,,,,,,,,Ryan Sitton,,,,
-,,,,,,,,Ryan Sitton,,,,
-,,,,,,,,Ryan Sitton,,,,
-,,,,,,,,Steve Brown,,,,
-,,,,,,,,Steve Brown,,,,
-,,,,,,,,Steve Brown,,,,
-,,,,,,,,Steve Brown,,,,
-,,,,,,,,Steve Brown,,,,
-,,,,,,,,Mark A.  Miller,,,,
-,,,,,,,,Mark A.  Miller,,,,
-,,,,,,,,Mark A.  Miller,,,,
-,,,,,,,,Mark A.  Miller,,,,
-,,,,,,,,Mark A.  Miller,,,,
-,,,,,,,,Martina Salinas,,,,
-,,,,,,,,Martina Salinas,,,,
-,,,,,,,,Martina Salinas,,,,
-,,,,,,,,Martina Salinas,,,,
+1,county,precinct,office,district,candidate,party,early_voting,election_day,votes
+2,Foard,101,Ballots Cast,,,,,,49
+3,Foard,201,Ballots Cast,,,,,,133
+4,Foard,301,Ballots Cast,,,,,,73
+5,Foard,401,Ballots Cast,,,,,,76
+6,Foard,Total,Ballots Cast,,,,,,331
+7,Foard,101,Straight Party,,,REP,1,7,8
+8,Foard,201,Straight Party,,,REP,11,9,20
+9,Foard,301,Straight Party,,,REP,8,13,21
+10,Foard,401,Straight Party,,,REP,4,12,16
+11,Foard,Total,Straight Party,,,REP,24,41,65
+12,Foard,101,Straight Party,,,DEM,2,4,6
+13,Foard,201,Straight Party,,,DEM,13,9,22
+14,Foard,301,Straight Party,,,DEM,4,13,17
+15,Foard,401,Straight Party,,,DEM,4,6,10
+16,Foard,Total,Straight Party,,,DEM,23,32,55
+17,Foard,101,Straight Party,,,LIB,0,0,0
+18,Foard,201,Straight Party,,,LIB,0,0,0
+19,Foard,301,Straight Party,,,LIB,0,0,0
+20,Foard,401,Straight Party,,,LIB,0,0,0
+21,Foard,Total,Straight Party,,,LIB,0,0,0
+22,Foard,101,Straight Party,,,GRN,0,0,0
+23,Foard,201,Straight Party,,,GRN,0,0,0
+24,Foard,301,Straight Party,,,GRN,0,0,0
+25,Foard,401,Straight Party,,,GRN,0,0,0
+26,Foard,Total,Straight Party,,,GRN,0,0,0
+27,Foard,101,Straight Party,,Over Votes,,0,0,0
+28,Foard,201,Straight Party,,Over Votes,,0,0,0
+29,Foard,301,Straight Party,,Over Votes,,0,0,0
+30,Foard,401,Straight Party,,Over Votes,,0,0,0
+31,Foard,Total,Straight Party,,Over Votes,,0,0,0
+32,Foard,101,Straight Party,,Under Votes,,14,21,35
+33,Foard,201,Straight Party,,Under Votes,,37,53,90
+34,Foard,301,Straight Party,,Under Votes,,9,26,35
+35,Foard,401,Straight Party,,Under Votes,,19,31,50
+36,Foard,Total,Straight Party,,Under Votes,,79,131,210
+37,Foard,101,U S Senate,,John Comyn,,12,21,33
+38,Foard,201,U S Senate,,John Comyn,,14,24,38
+39,Foard,301,U S Senate,,John Comyn,,4,7,11
+40,Foard,401,U S Senate,,John Comyn,,21,20,41
+41,Foard,Total,U S Senate,,John Comyn,,51,72,123
+42,Foard,101,U S Senate,,David M. Alameel,,2,6,8
+43,Foard,201,U S Senate,,David M. Alameel,,20,16,36
+44,Foard,301,U S Senate,,David M. Alameel,,7,18,25
+45,Foard,401,U S Senate,,David M. Alameel,,12,9,21
+46,Foard,Total,U S Senate,,David M. Alameel,,41,49,90
+47,Foard,101,U S Senate,,Rebecca Paddock,,1,1,2
+48,Foard,201,U S Senate,,Rebecca Paddock,,1,1,2
+49,Foard,301,U S Senate,,Rebecca Paddock,,0,3,3
+50,Foard,401,U S Senate,,Rebecca Paddock,,0,2,2
+51,Foard,Total,U S Senate,,Rebecca Paddock,,2,7,9
+52,Foard,101,U S Senate,,"Emily ""Spicybrown"" Sanchez",,0,0,0
+53,Foard,201,U S Senate,,"Emily ""Spicybrown"" Sanchez",,0,0,0
+54,Foard,301,U S Senate,,"Emily ""Spicybrown"" Sanchez",,0,0,0
+55,Foard,401,U S Senate,,"Emily ""Spicybrown"" Sanchez",,0,0,0
+56,Foard,Total,U S Senate,,"Emily ""Spicybrown"" Sanchez",,0,0,0
+57,Foard,101,U S Senate,,Mohammed Tahiro ,,0,0,0
+58,Foard,201,U S Senate,,Mohammed Tahiro ,,0,0,0
+59,Foard,301,U S Senate,,Mohammed Tahiro ,,0,0,0
+60,Foard,401,U S Senate,,Mohammed Tahiro ,,0,0,0
+61,Foard,Total,U S Senate,,Mohammed Tahiro ,,0,0,0
+62,Foard,101,U S Senate,,Over Votes,,0,0,0
+63,Foard,201,U S Senate,,Over Votes,,0,0,0
+64,Foard,301,U S Senate,,Over Votes,,0,0,0
+65,Foard,401,U S Senate,,Over Votes,,0,0,0
+66,Foard,Total,U S Senate,,Over Votes,,0,0,0
+67,Foard,101,U S Senate,,Under Votes,,2,4,6
+68,Foard,201,U S Senate,,Under Votes,,2,12,14
+69,Foard,301,U S Senate,,Under Votes,,0,7,7
+70,Foard,401,U S Senate,,Under Votes,,4,5,9
+71,Foard,Total,U S Senate,,Under Votes,,8,28,36
+72,Foard,101,U.S. House,13,Mac Thornberry,,14,20,34
+73,Foard,201,U.S. House,13,Mac Thornberry,,41,47,88
+74,Foard,301,U.S. House,13,Mac Thornberry,,14,28,42
+75,Foard,401,U.S. House,13,Mac Thornberry,,16,37,53
+76,Foard,Total,U.S. House,13,Mac Thornberry,,85,132,217
+77,Foard,101,U.S. House,13,Mike Minter,,2,6,8
+78,Foard,201,U.S. House,13,Mike Minter,,18,19,37
+79,Foard,301,U.S. House,13,Mike Minter,,7,20,27
+80,Foard,401,U.S. House,13,Mike Minter,,10,6,16
+81,Foard,Total,U.S. House,13,Mike Minter,,37,51,88
+82,Foard,101,U.S. House,13,Emily Pivoda,,0,2,2
+83,Foard,201,U.S. House,13,Emily Pivoda,,1,0,1
+84,Foard,301,U.S. House,13,Emily Pivoda,,0,1,1
+85,Foard,401,U.S. House,13,Emily Pivoda,,0,0,0
+86,Foard,Total,U.S. House,13,Emily Pivoda,,1,3,4
+87,Foard,101,U.S. House,13,Don Cook,,0,0,0
+88,Foard,201,U.S. House,13,Don Cook,,0,0,0
+89,Foard,301,U.S. House,13,Don Cook,,0,1,1
+90,Foard,401,U.S. House,13,Don Cook,,0,1,1
+91,Foard,Total,U.S. House,13,Don Cook,,0,2,2
+92,Foard,101,U.S. House,13,Over Votes,,0,0,0
+93,Foard,201,U.S. House,13,Over Votes,,0,0,0
+94,Foard,301,U.S. House,13,Over Votes,,0,0,0
+95,Foard,401,U.S. House,13,Over Votes,,0,0,0
+96,Foard,Total,U.S. House,13,Over Votes,,0,0,0
+97,Foard,101,U.S. House,13,Under Votes,,1,4,5
+98,Foard,201,U.S. House,13,Under Votes,,2,5,7
+99,Foard,301,U.S. House,13,Under Votes,,0,2,2
+100,Foard,401,U.S. House,13,Under Votes,,1,5,6
+101,Foard,Total,U.S. House,13,Under Votes,,4,16,20
+102,Foard,101,Governor,,Greg Abbott,,13,22,35
+103,Foard,201,Governor,,Greg Abbott,,38,39,77
+104,Foard,301,Governor,,Greg Abbott,,13,31,44
+105,Foard,401,Governor,,Greg Abbott,,14,35,49
+106,Foard,Total,Governor,,Greg Abbott,,78,127,205
+107,Foard,101,Governor,,Wendy R. Davis,,3,7,10
+108,Foard,201,Governor,,Wendy R. Davis,,22,25,47
+109,Foard,301,Governor,,Wendy R. Davis,,8,16,24
+110,Foard,401,Governor,,Wendy R. Davis,,10,11,21
+111,Foard,Total,Governor,,Wendy R. Davis,,43,59,102
+112,Foard,101,Governor,,Kathie Glass,,0,0,0
+113,Foard,201,Governor,,Kathie Glass,,0,1,1
+114,Foard,301,Governor,,Kathie Glass,,0,2,2
+115,Foard,401,Governor,,Kathie Glass,,0,0,0
+116,Foard,Total,Governor,,Kathie Glass,,0,3,3
+117,Foard,101,Governor,,Brandon Parmer,,0,0,0
+118,Foard,201,Governor,,Brandon Parmer,,0,0,0
+119,Foard,301,Governor,,Brandon Parmer,,0,0,0
+120,Foard,401,Governor,,Brandon Parmer,,0,0,0
+121,Foard,Total,Governor,,Brandon Parmer,,0,0,0
+122,Foard,101,Governor,,Sarah M. Pavitt,,0,0,0
+123,Foard,201,Governor,,Sarah M. Pavitt (W),,0,0,0
+124,Foard,301,Governor,,Sarah M. Pavitt (W),,0,0,0
+125,Foard,401,Governor,,Sarah M. Pavitt (W),,0,0,0
+126,Foard,Total,Governor,,Sarah M. Pavitt (W),,0,0,0
+127,Foard,101,Governor,,Over Votes,,0,0,0
+128,Foard,201,Governor,,Over Votes,,0,0,0
+129,Foard,301,Governor,,Over Votes,,0,0,0
+130,Foard,401,Governor,,Over Votes,,0,0,0
+131,Foard,Total,Governor,,Over Votes,,0,0,0
+132,Foard,101,Governor,,Under Votes,,1,3,4
+133,Foard,201,Governor,,Under Votes,,2,6,8
+134,Foard,301,Governor,,Under Votes,,0,3,3
+135,Foard,401,Governor,,Under Votes,,3,3,6
+136,Foard,Total,Governor,,Under Votes,,6,15,21
+137,Foard,101,Lieutenant Governor,,Dan Patrick,,12,24,36
+138,Foard,201,Lieutenant Governor,,Dan Patrick,,38,43,81
+139,Foard,301,Lieutenant Governor,,Dan Patrick,,13,32,45
+140,Foard,401,Lieutenant Governor,,Dan Patrick,,15,36,51
+141,Foard,Total,Lieutenant Governor,,Dan Patrick,,78,135,213
+142,Foard,101,Lieutenant Governor,,Leticia Van de Putte,,3,3,6
+143,Foard,201,Lieutenant Governor,,Leticia Van de Putte,,20,16,36
+144,Foard,301,Lieutenant Governor,,Leticia Van de Putte,,7,14,21
+145,Foard,401,Lieutenant Governor,,Leticia Van de Putte,,10,8,18
+146,Foard,Total,Lieutenant Governor,,Leticia Van de Putte,,40,41,81
+147,Foard,101,Lieutenant Governor,,Robert D. Butler,,0,0,0
+148,Foard,201,Lieutenant Governor,,Robert D. Butler,,0,1,1
+149,Foard,301,Lieutenant Governor,,Robert D. Butler,,0,2,2
+150,Foard,401,Lieutenant Governor,,Robert D. Butler,,0,0,0
+151,Foard,Total,Lieutenant Governor,,Robert D. Butler,,0,3,3
+152,Foard,101,Lieutenant Governor,,Chandrakantha Courtney,,0,1,1
+153,Foard,201,Lieutenant Governor,,Chandrakantha Courtney,,0,0,0
+154,Foard,301,Lieutenant Governor,,Chandrakantha Courtney,,0,2,2
+155,Foard,401,Lieutenant Governor,,Chandrakantha Courtney,,0,0,0
+156,Foard,Total,Lieutenant Governor,,Chandrakantha Courtney,,0,3,3
+157,Foard,101,Lieutenant Governor,,Over Votes,,0,0,0
+158,Foard,201,Lieutenant Governor,,Over Votes,,0,0,0
+159,Foard,301,Lieutenant Governor,,Over Votes,,0,0,0
+160,Foard,401,Lieutenant Governor,,Over Votes,,0,0,0
+161,Foard,Total,Lieutenant Governor,,Over Votes,,0,0,0
+162,Foard,101,Lieutenant Governor,,Under Votes,,2,4,6
+163,Foard,201,Lieutenant Governor,,Under Votes,,4,11,15
+164,Foard,301,Lieutenant Governor,,Under Votes,,1,2,3
+165,Foard,401,Lieutenant Governor,,Under Votes,,2,5,7
+166,Foard,Total,Lieutenant Governor,,Under Votes,,9,22,31
+167,Foard,101,Attorney General,,Ken Paxton,,9,15,24
+168,Foard,201,Attorney General,,Ken Paxton,,35,36,71
+169,Foard,301,Attorney General,,Ken Paxton,,13,24,37
+170,Foard,401,Attorney General,,Ken Paxton,,13,31,44
+171,Foard,Total,Attorney General,,Ken Paxton,,70,106,176
+172,Foard,101,Attorney General,,Sam Houston,,6,13,19
+173,Foard,201,Attorney General,,Sam Houston,,20,23,43
+174,Foard,301,Attorney General,,Sam Houston,,7,22,29
+175,Foard,401,Attorney General,,Sam Houston,,12,13,25
+176,Foard,Total,Attorney General,,Sam Houston,,45,71,116
+177,Foard,101,Attorney General,,Jamie Balagia,,0,0,0
+178,Foard,201,Attorney General,,Jamie Balagia,,0,2,2
+179,Foard,301,Attorney General,,Jamie Balagia,,0,1,1
+180,Foard,401,Attorney General,,Jamie Balagia,,1,2,3
+181,Foard,Total,Attorney General,,Jamie Balagia,,1,5,6
+182,Foard,101,Attorney General,,Jamar Osborne,,0,0,0
+183,Foard,201,Attorney General,,Jamar Osborne,,0,0,0
+184,Foard,301,Attorney General,,Jamar Osborne,,0,0,0
+185,Foard,401,Attorney General,,Jamar Osborne,,0,0,0
+186,Foard,Total,Attorney General,,Jamar Osborne,,0,0,0
+187,Foard,101,Attorney General,,Over Votes,,0,0,0
+188,Foard,201,Attorney General,,Over Votes,,0,0,0
+189,Foard,301,Attorney General,,Over Votes,,0,0,0
+190,Foard,401,Attorney General,,Over Votes,,0,0,0
+191,Foard,Total,Attorney General,,Over Votes,,0,0,0
+192,Foard,101,Attorney General,,Under Votes,,2,2,4
+193,Foard,201,Attorney General,,Under Votes,,7,11,18
+194,Foard,301,Attorney General,,Under Votes,,0,4,4
+195,Foard,401,Attorney General,,Under Votes,,2,5,7
+196,Foard,Total,Attorney General,,Under Votes,,11,22,33
+197,Foard,101,Comptroller of Public Accounts,,Glenn Hegar,,8,20,28
+198,Foard,201,Comptroller of Public Accounts,,Glenn Hegar,,31,36,67
+199,Foard,301,Comptroller of Public Accounts,,Glenn Hegar,,10,26,36
+200,Foard,401,Comptroller of Public Accounts,,Glenn Hegar,,13,29,42
+201,Foard,Total,Comptroller of Public Accounts,,Glenn Hegar,,62,111,173
+202,Foard,101,Comptroller of Public Accounts,,Mike Collier,,6,9,15
+203,Foard,201,Comptroller of Public Accounts,,Mike Collier,,22,23,45
+204,Foard,301,Comptroller of Public Accounts,,Mike Collier,,11,21,32
+205,Foard,401,Comptroller of Public Accounts,,Mike Collier,,11,13,24
+206,Foard,Total,Comptroller of Public Accounts,,Mike Collier,,50,66,116
+207,Foard,101,Comptroller of Public Accounts,,Ben Sanders,,0,0,0
+208,Foard,201,Comptroller of Public Accounts,,Ben Sanders,,1,1,2
+209,Foard,301,Comptroller of Public Accounts,,Ben Sanders,,0,2,2
+210,Foard,401,Comptroller of Public Accounts,,Ben Sanders,,0,0,0
+211,Foard,Total,Comptroller of Public Accounts,,Ben Sanders,,1,3,4
+212,Foard,101,Comptroller of Public Accounts,,Deb Shafto,,0,0,0
+213,Foard,201,Comptroller of Public Accounts,,Deb Shafto,,0,0,0
+214,Foard,301,Comptroller of Public Accounts,,Deb Shafto,,0,0,0
+215,Foard,401,Comptroller of Public Accounts,,Deb Shafto,,0,0,0
+216,Foard,Total,Comptroller of Public Accounts,,Deb Shafto,,0,0,0
+217,Foard,101,Comptroller of Public Accounts,,Over Votes,,0,0,0
+218,Foard,201,Comptroller of Public Accounts,,Over Votes,,0,0,0
+219,Foard,301,Comptroller of Public Accounts,,Over Votes,,0,0,0
+220,Foard,401,Comptroller of Public Accounts,,Over Votes,,0,0,0
+221,Foard,Total,Comptroller of Public Accounts,,Over Votes,,0,0,0
+222,Foard,101,Comptroller of Public Accounts,,Under Votes,,3,3,6
+223,Foard,201,Comptroller of Public Accounts,,Under Votes,,8,11,19
+224,Foard,301,Comptroller of Public Accounts,,Under Votes,,0,3,3
+225,Foard,401,Comptroller of Public Accounts,,Under Votes,,3,7,10
+226,Foard,Total,Comptroller of Public Accounts,,Under Votes,,14,24,38
+227,Foard,101,Commissioner of the General Land Office,,George P.  Bush,,11,21,32
+228,Foard,201,Commissioner of the General Land Office,,George P.  Bush,,34,42,76
+229,Foard,301,Commissioner of the General Land Office,,George P.  Bush,,10,28,38
+230,Foard,401,Commissioner of the General Land Office,,George P.  Bush,,12,32,44
+231,Foard,Total,Commissioner of the General Land Office,,George P.  Bush,,67,123,190
+232,Foard,101,Commissioner of the General Land Office,,John Cook,,11,19,30
+233,Foard,201,Commissioner of the General Land Office,,John Cook,,13,11,24
+234,Foard,301,Commissioner of the General Land Office,,John Cook,,39,42,81
+235,Foard,401,Commissioner of the General Land Office,,John Cook,,11,33,44
+236,Foard,Total,Commissioner of the General Land Office,,John Cook,,74,105,179
+237,Foard,101,Commissioner of the General Land Office,,Justin Knight,,0,1,1
+238,Foard,201,Commissioner of the General Land Office,,Justin Knight,,0,1,1
+239,Foard,301,Commissioner of the General Land Office,,Justin Knight,,0,3,3
+240,Foard,401,Commissioner of the General Land Office,,Justin Knight,,0,1,1
+241,Foard,Total,Commissioner of the General Land Office,,Justin Knight,,0,6,6
+242,Foard,101,Commissioner of the General Land Office,,Valerie Alessi,,0,0,0
+243,Foard,201,Commissioner of the General Land Office,,Valerie Alessi,,0,0,0
+244,Foard,301,Commissioner of the General Land Office,,Valerie Alessi,,0,0,0
+245,Foard,401,Commissioner of the General Land Office,,Valerie Alessi,,0,0,0
+246,Foard,Total,Commissioner of the General Land Office,,Valerie Alessi,,0,0,0
+247,Foard,101,Commissioner of the General Land Office,,Over Votes,,0,0,0
+248,Foard,201,Commissioner of the General Land Office,,Over Votes,,0,0,0
+249,Foard,301,Commissioner of the General Land Office,,Over Votes,,0,0,0
+250,Foard,401,Commissioner of the General Land Office,,Over Votes,,0,0,0
+251,Foard,Total,Commissioner of the General Land Office,,Over Votes,,0,0,0
+252,Foard,101,Commissioner of the General Land Office,,Under Votes,,2,3,5
+253,Foard,201,Commissioner of the General Land Office,,Under Votes,,7,8,15
+254,Foard,301,Commissioner of the General Land Office,,Under Votes,,0,2,2
+255,Foard,401,Commissioner of the General Land Office,,Under Votes,,2,5,7
+256,Foard,Total,Commissioner of the General Land Office,,Under Votes,,11,18,29
+257,Foard,101,Commissioner of Agriculture,,Sid Miller,,8,18,26
+258,Foard,201,Commissioner of Agriculture,,Sid Miller,,30,35,65
+259,Foard,301,Commissioner of Agriculture,,Sid Miller,,11,25,36
+260,Foard,401,Commissioner of Agriculture,,Sid Miller,,12,29,41
+261,Foard,Total,Commissioner of Agriculture,,Sid Miller,,61,107,168
+262,Foard,101,Commissioner of Agriculture,,Jim Hogan,,6,11,17
+263,Foard,201,Commissioner of Agriculture,,Jim Hogan,,23,23,46
+264,Foard,301,Commissioner of Agriculture,,Jim Hogan,,10,20,30
+265,Foard,401,Commissioner of Agriculture,,Jim Hogan,,12,11,23
+266,Foard,Total,Commissioner of Agriculture,,Jim Hogan,,51,65,116
+267,Foard,101,Commissioner of Agriculture,,David (Rocky) Palnquist,,1,0,1
+268,Foard,201,Commissioner of Agriculture,,David (Rocky) Palnquist,,1,1,2
+269,Foard,301,Commissioner of Agriculture,,David (Rocky) Palnquist,,0,3,3
+270,Foard,401,Commissioner of Agriculture,,David (Rocky) Palnquist,,0,1,1
+271,Foard,Total,Commissioner of Agriculture,,David (Rocky) Palnquist,,2,5,7
+272,Foard,101,Commissioner of Agriculture,,Kenneth Kendrick,,0,0,0
+273,Foard,201,Commissioner of Agriculture,,Kenneth Kendrick,,0,0,0
+274,Foard,301,Commissioner of Agriculture,,Kenneth Kendrick,,0,2,2
+275,Foard,401,Commissioner of Agriculture,,Kenneth Kendrick,,0,1,1
+276,Foard,Total,Commissioner of Agriculture,,Kenneth Kendrick,,0,3,3
+277,Foard,101,Commissioner of Agriculture,,Over Votes,,0,0,0
+278,Foard,201,Commissioner of Agriculture,,Over Votes,,0,0,0
+279,Foard,301,Commissioner of Agriculture,,Over Votes,,0,0,0
+280,Foard,401,Commissioner of Agriculture,,Over Votes,,0,0,0
+281,Foard,Total,Commissioner of Agriculture,,Over Votes,,0,0,0
+282,Foard,101,Commissioner of Agriculture,,Under Votes,,2,3,5
+283,Foard,201,Commissioner of Agriculture,,Under Votes,,8,12,20
+284,Foard,301,Commissioner of Agriculture,,Under Votes,,0,2,2
+285,Foard,401,Commissioner of Agriculture,,Under Votes,,3,7,10
+286,Foard,Total,Commissioner of Agriculture,,Under Votes,,13,24,37
+287,Foard,101,Railroad Commissioner,,Ryan Sitton,,8,17,25
+288,Foard,201,Railroad Commissioner,,Ryan Sitton,,33,32,65
+289,Foard,301,Railroad Commissioner,,Ryan Sitton,,11,27,38
+290,Foard,401,Railroad Commissioner,,Ryan Sitton,,11,27,38
+291,Foard,Total,Railroad Commissioner,,Ryan Sitton,,63,103,166
+292,Foard,101,Railroad Commissioner,,Steve Brown,,5,11,16
+293,Foard,201,Railroad Commissioner,,Steve Brown,,21,24,45
+294,Foard,301,Railroad Commissioner,,Steve Brown,,10,30,44
+295,Foard,401,Railroad Commissioner,,Steve Brown,,13,13,26
+296,Foard,Total,Railroad Commissioner,,Steve Brown,,49,78,131
+297,Foard,101,Railroad Commissioner,,Mark A.  Miller,,1,1,2
+298,Foard,201,Railroad Commissioner,,Mark A.  Miller,,0,3,3
+299,Foard,301,Railroad Commissioner,,Mark A.  Miller,,0,3,0
+300,Foard,401,Railroad Commissioner,,Mark A.  Miller,,0,0,0
+301,Foard,Total,Railroad Commissioner,,Mark A.  Miller,,1,7,5
+302,Foard,101,Railroad Commissioner,,Martina Salinas,,0,0,0
+303,Foard,201,Railroad Commissioner,,Martina Salinas,,0,0,0
+304,Foard,301,Railroad Commissioner,,Martina Salinas,,0,0,0
+305,Foard,401,Railroad Commissioner,,Martina Salinas,,0,0,0
+306,Foard,Total,Railroad Commissioner,,Martina Salinas,,0,0,0
+307,Foard,101,Railroad Commissioner,,Over Votes,,0,0,0
+308,Foard,201,Railroad Commissioner,,Over Votes,,0,0,0
+309,Foard,301,Railroad Commissioner,,Over Votes,,0,0,0
+310,Foard,401,Railroad Commissioner,,Over Votes,,0,0,0
+311,Foard,Total,Railroad Commissioner,,Over Votes,,0,0,0
+312,Foard,101,Railroad Commissioner,,Under Votes,,3,3,6
+313,Foard,201,Railroad Commissioner,,Under Votes,,9,12,20
+314,Foard,301,Railroad Commissioner,,Under Votes,,0,2,2
+315,Foard,401,Railroad Commissioner,,Under Votes,,3,9,12
+316,Foard,Total,Railroad Commissioner,,Under Votes,,15,26,40
+317,Foard,101,State Representative,69,James Frank,,11,23,34
+318,Foard,201,State Representative,69,James Frank,,35,46,81
+319,Foard,301,State Representative,69,James Frank,,13,35,48
+320,Foard,401,State Representative,69,James Frank,,14,32,46
+321,Foard,Total,State Representative,69,James Frank,,73,136,209
+322,Foard,101,State Representative,69,Over Votes,,0,0,0
+323,Foard,201,State Representative,69,Over Votes,,0,0,0
+324,Foard,301,State Representative,69,Over Votes,,0,0,0
+325,Foard,401,State Representative,69,Over Votes,,0,0,0
+326,Foard,Total,State Representative,69,Over Votes,,0,0,0
+327,Foard,101,State Representative,69,Under Votes,,6,9,15
+328,Foard,201,State Representative,69,Under Votes,,27,25,52
+329,Foard,301,State Representative,69,Under Votes,,8,17,25
+330,Foard,401,State Representative,69,Under Votes,,13,17,30
+331,Foard,Total,State Representative,69,Under Votes,,54,68,122
+,,,,,,,,Ryan Sitton,
+,,,,,,,,Ryan Sitton,
+,,,,,,,,Ryan Sitton,
+,,,,,,,,Ryan Sitton,
+,,,,,,,,Ryan Sitton,
+,,,,,,,,Steve Brown,
+,,,,,,,,Steve Brown,
+,,,,,,,,Steve Brown,
+,,,,,,,,Steve Brown,
+,,,,,,,,Steve Brown,
+,,,,,,,,Mark A.  Miller,
+,,,,,,,,Mark A.  Miller,
+,,,,,,,,Mark A.  Miller,
+,,,,,,,,Mark A.  Miller,
+,,,,,,,,Mark A.  Miller,
+,,,,,,,,Martina Salinas,
+,,,,,,,,Martina Salinas,
+,,,,,,,,Martina Salinas,
+,,,,,,,,Martina Salinas,
