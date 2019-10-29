@@ -1,7 +1,7 @@
 county,precinct,office,district,party,candidate,votes,early_votes,election_day,absentee
 Milam,101,U.S. Senate,,REP,Over Votes,0,0,0,0
 Milam,101,U.S. Senate,,REP,Under Votes,64,38,21,5
-Milam,101,Registered Voters,,,,2314,,
+Milam,101,Registered Voters,,,,2314,,,
 Milam,101,Ballots Cast,,REP,,755,,,
 Milam,101,Ballots Cast,,DEM,,89,,,
 Milam,101,U.S. Senate,,REP,Stefano de Stefano,11,8,2,1
@@ -140,7 +140,7 @@ Milam,101,Proposition 12,,"",YES,79,35,29,15
 Milam,101,Proposition 12,,"",NO,3,1,2,0
 Milam,105,U.S. Senate,,REP,Over Votes,0,0,0,0
 Milam,105,U.S. Senate,,REP,Under Votes,9,6,0,3
-Milam,105,Registered Voters,,,,1108,,
+Milam,105,Registered Voters,,,,1108,,,
 Milam,105,Ballots Cast,,REP,,240,,,
 Milam,105,Ballots Cast,,DEM,,21,,,
 Milam,105,U.S. Senate,,REP,Stefano de Stefano,1,0,1,0
@@ -279,7 +279,7 @@ Milam,105,Proposition 12,,"",YES,21,5,13,3
 Milam,105,Proposition 12,,"",NO,0,0,0,0
 Milam,203,U.S. Senate,,REP,Over Votes,0,0,0,0
 Milam,203,U.S. Senate,,REP,Under Votes,6,3,3,0
-Milam,203,Registered Voters,,,,371,,
+Milam,203,Registered Voters,,,,371,,,
 Milam,203,Ballots Cast,,REP,,123,,,
 Milam,203,Ballots Cast,,DEM,,18,,,
 Milam,203,U.S. Senate,,REP,Stefano de Stefano,2,0,0,2
@@ -421,7 +421,7 @@ Milam,203,Proposition 12,,"",YES,15,5,8,2
 Milam,203,Proposition 12,,"",NO,1,0,1,0
 Milam,207,U.S. Senate,,REP,Over Votes,0,0,0,0
 Milam,207,U.S. Senate,,REP,Under Votes,3,2,1,0
-Milam,207,Registered Voters,,,,588,,
+Milam,207,Registered Voters,,,,588,,,
 Milam,207,Ballots Cast,,REP,,96,,,
 Milam,207,Ballots Cast,,DEM,,26,,,
 Milam,207,U.S. Senate,,REP,Stefano de Stefano,1,1,0,0
@@ -563,7 +563,7 @@ Milam,207,Proposition 12,,"",YES,24,10,8,6
 Milam,207,Proposition 12,,"",NO,0,0,0,0
 Milam,210,U.S. Senate,,REP,Over Votes,0,0,0,0
 Milam,210,U.S. Senate,,REP,Under Votes,4,3,1,0
-Milam,210,Registered Voters,,,,519,,
+Milam,210,Registered Voters,,,,519,,,
 Milam,210,Ballots Cast,,REP,,144,,,
 Milam,210,Ballots Cast,,DEM,,16,,,
 Milam,210,U.S. Senate,,REP,Stefano de Stefano,3,1,2,0
@@ -705,7 +705,7 @@ Milam,210,Proposition 12,,"",YES,14,2,7,5
 Milam,210,Proposition 12,,"",NO,0,0,0,0
 Milam,212,U.S. Senate,,REP,Over Votes,0,0,0,0
 Milam,212,U.S. Senate,,REP,Under Votes,48,30,15,3
-Milam,212,Registered Voters,,,,1947,,
+Milam,212,Registered Voters,,,,1947,,,
 Milam,212,Ballots Cast,,REP,,460,,,
 Milam,212,Ballots Cast,,DEM,,94,,,
 Milam,212,U.S. Senate,,REP,Stefano de Stefano,9,7,1,1
@@ -847,7 +847,7 @@ Milam,212,Proposition 12,,"",YES,86,20,48,18
 Milam,212,Proposition 12,,"",NO,3,1,0,2
 Milam,316,U.S. Senate,,REP,Over Votes,0,0,0,0
 Milam,316,U.S. Senate,,REP,Under Votes,4,1,3,0
-Milam,316,Registered Voters,,,,629,,
+Milam,316,Registered Voters,,,,629,,,
 Milam,316,Ballots Cast,,REP,,126,,,
 Milam,316,Ballots Cast,,DEM,,36,,,
 Milam,316,U.S. Senate,,REP,Stefano de Stefano,5,2,3,0
@@ -985,7 +985,7 @@ Milam,316,Proposition 12,,"",YES,32,6,22,4
 Milam,316,Proposition 12,,"",NO,2,0,2,0
 Milam,317,U.S. Senate,,REP,Over Votes,0,0,0,0
 Milam,317,U.S. Senate,,REP,Under Votes,14,5,7,2
-Milam,317,Registered Voters,,,,1053,,
+Milam,317,Registered Voters,,,,1053,,,
 Milam,317,Ballots Cast,,REP,,277,,,
 Milam,317,Ballots Cast,,DEM,,28,,,
 Milam,317,U.S. Senate,,REP,Stefano de Stefano,8,4,4,0
@@ -1123,7 +1123,7 @@ Milam,317,Proposition 12,,"",YES,22,7,12,3
 Milam,317,Proposition 12,,"",NO,1,1,0,0
 Milam,318,U.S. Senate,,REP,Over Votes,0,0,0,0
 Milam,318,U.S. Senate,,REP,Under Votes,44,28,16,0
-Milam,318,Registered Voters,,,,2259,,
+Milam,318,Registered Voters,,,,2259,,,
 Milam,318,Ballots Cast,,REP,,490,,,
 Milam,318,Ballots Cast,,DEM,,114,,,
 Milam,318,U.S. Senate,,REP,Stefano de Stefano,10,5,4,1
@@ -1261,7 +1261,7 @@ Milam,318,Proposition 12,,"",YES,98,33,46,19
 Milam,318,Proposition 12,,"",NO,2,0,2,0
 Milam,419,U.S. Senate,,REP,Over Votes,0,0,0,0
 Milam,419,U.S. Senate,,REP,Under Votes,18,11,6,1
-Milam,419,Registered Voters,,,,1880,,
+Milam,419,Registered Voters,,,,1880,,,
 Milam,419,Ballots Cast,,REP,,301,,,
 Milam,419,Ballots Cast,,DEM,,92,,,
 Milam,419,U.S. Senate,,REP,Stefano de Stefano,8,8,0,0
@@ -1400,7 +1400,7 @@ Milam,419,Proposition 12,,"",YES,86,33,44,9
 Milam,419,Proposition 12,,"",NO,1,0,0,1
 Milam,420,U.S. Senate,,REP,Over Votes,0,0,0,0
 Milam,420,U.S. Senate,,REP,Under Votes,19,8,5,6
-Milam,420,Registered Voters,,,,1988,,
+Milam,420,Registered Voters,,,,1988,,,
 Milam,420,Ballots Cast,,REP,,341,,,
 Milam,420,Ballots Cast,,DEM,,93,,,
 Milam,420,U.S. Senate,,REP,Stefano de Stefano,3,2,1,0
