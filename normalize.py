@@ -115,6 +115,50 @@ def column_names(path, show_unmapped=False):
             writer.writeheader()
             wf.write(row_data)
 
+def column_order(path):
+    with open(path, 'r') as f:
+        csvreader = csv.reader(f, dialect='excel-unix')
+        headers = next(csvreader)
+        
+        pcolorder = []
+        newheaders = []
+        oldheaders = headers.copy()
+        for col in colorder:
+            try:
+                i = oldheaders.index(col)
+                pcolorder.append(i)
+                del oldheaders[i]
+                newheaders.append(col)
+            except:
+                pass
+        else:
+            newheaders.extend(oldheaders)
+        
+        if headers == newheaders:
+            return
+        
+        print(path)
+        print("orig headers: {}".format(headers))
+        print("new headers: {}".format(newheaders))
+        
+        rows = [newheaders]
+        for row in csvreader:
+            newrow = []
+            for i in pcolorder:
+                try:
+                    newrow.append(row[i])
+                    del row[i]
+                except:
+                    print((i, row, newrow))
+                    raise
+            else:
+                newrow.extend(row)
+            rows.append(newrow)
+        
+        with open(path, 'w') as wf:
+            csvwriter = csv.writer(wf, dialect='excel-unix')
+            csvwriter.writerows(rows)
+
 def line_endings(path):
     with open(path, 'rb') as f:
         data = f.read()
@@ -155,6 +199,10 @@ def main():
         description="Ensure column names in csv files passed are normalized.")
     sparser.add_argument('-u', '--show_unmapped', metavar='csvfile')
     sparser.add_argument('paths', nargs='+', metavar='csvfile')
+    
+    sparser = subparsers.add_parser('column_order', help='normalize column order',
+        description="Potentially reorder columns to a more normalized/preferred ordering, as suggested in CONTRIBUTING.md.")
+    sparser.add_argument('paths', nargs='+', metavar='path')
     
     sparser = subparsers.add_parser('line_endings', help='normalize to unix line endings',
         description="Ensure all paths passed are normalized to unix-style line endings.")
