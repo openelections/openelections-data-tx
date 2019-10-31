@@ -1,998 +1,998 @@
-county,precinct,office,district,party,candidate,votes,early_voting,election_day
+county,precinct,office,district,party,candidate,votes,election_day,early_voting
 Castro,101,Registered Voters,,REP,,715,,
-Castro,101,Ballots Cast,,REP,,225,63,162
-Castro,101,Straight Party,,REP,Republican,56,15,41
+Castro,101,Ballots Cast,,REP,,225,162,63
+Castro,101,Straight Party,,REP,Republican,56,41,15
 Castro,101,Straight Party,,REP,Over Votes,0,0,0
-Castro,101,Straight Party,,REP,Under Votes,83,23,60
-Castro,101,Straight Party,,DEM,Democratic,86,25,61
+Castro,101,Straight Party,,REP,Under Votes,83,60,23
+Castro,101,Straight Party,,DEM,Democratic,86,61,25
 Castro,101,Straight Party,,LIB,Libertarian,0,0,0
-Castro,101,U.S. Senate,,REP,Ted Cruz,120,35,85
+Castro,101,U.S. Senate,,REP,Ted Cruz,120,85,35
 Castro,101,U.S. Senate,,REP,Over Votes,0,0,0
-Castro,101,U.S. Senate,,REP,Under Votes,5,0,5
-Castro,101,U.S. Senate,,DEM,Beto O'Rourke,99,27,72
-Castro,101,U.S. Senate,,LIB,Neal M. Dikerman,1,1,0
-Castro,101,U.S. House,19,REP,Jodey Arrington,111,33,78
+Castro,101,U.S. Senate,,REP,Under Votes,5,5,0
+Castro,101,U.S. Senate,,DEM,Beto O'Rourke,99,72,27
+Castro,101,U.S. Senate,,LIB,Neal M. Dikerman,1,0,1
+Castro,101,U.S. House,19,REP,Jodey Arrington,111,78,33
 Castro,101,U.S. House,19,REP,Over Votes,0,0,0
-Castro,101,U.S. House,19,REP,Under Votes,8,3,5
-Castro,101,U.S. House,19,DEM,Miguel Levario,106,27,79
-Castro,101,Governor,,REP,Greg Abbott,119,35,84
+Castro,101,U.S. House,19,REP,Under Votes,8,5,3
+Castro,101,U.S. House,19,DEM,Miguel Levario,106,79,27
+Castro,101,Governor,,REP,Greg Abbott,119,84,35
 Castro,101,Governor,,REP,Over Votes,0,0,0
-Castro,101,Governor,,REP,Under Votes,3,0,3
-Castro,101,Governor,,DEM,Lupe Valdez,102,27,75
-Castro,101,Governor,,LIB,Mark Jay Tippetts,1,1,0
-Castro,101,Lieutenant Governor,,REP,Dan Patrick,100,32,68
+Castro,101,Governor,,REP,Under Votes,3,3,0
+Castro,101,Governor,,DEM,Lupe Valdez,102,75,27
+Castro,101,Governor,,LIB,Mark Jay Tippetts,1,0,1
+Castro,101,Lieutenant Governor,,REP,Dan Patrick,100,68,32
 Castro,101,Lieutenant Governor,,REP,Over Votes,0,0,0
-Castro,101,Lieutenant Governor,,REP,Under Votes,10,1,9
-Castro,101,Lieutenant Governor,,DEM,Mike Collier,109,27,82
+Castro,101,Lieutenant Governor,,REP,Under Votes,10,9,1
+Castro,101,Lieutenant Governor,,DEM,Mike Collier,109,82,27
 Castro,101,Lieutenant Governor,,LIB,Kerry Douglas McKennon,6,3,3
-Castro,101,Attorney General,,REP,Ken Paxton,111,32,79
+Castro,101,Attorney General,,REP,Ken Paxton,111,79,32
 Castro,101,Attorney General,,REP,Over Votes,0,0,0
-Castro,101,Attorney General,,REP,Under Votes,5,1,4
-Castro,101,Attorney General,,DEM,Justin Nelson,108,29,79
-Castro,101,Attorney General,,LIB,Michael Ray Harris,1,1,0
-Castro,101,Comptroller of Public Accounts,,REP,Glenn Hegar,112,35,77
+Castro,101,Attorney General,,REP,Under Votes,5,4,1
+Castro,101,Attorney General,,DEM,Justin Nelson,108,79,29
+Castro,101,Attorney General,,LIB,Michael Ray Harris,1,0,1
+Castro,101,Comptroller of Public Accounts,,REP,Glenn Hegar,112,77,35
 Castro,101,Comptroller of Public Accounts,,REP,Over Votes,0,0,0
-Castro,101,Comptroller of Public Accounts,,REP,Under Votes,3,0,3
-Castro,101,Comptroller of Public Accounts,,DEM,Joi Chevalier,106,28,78
-Castro,101,Comptroller of Public Accounts,,LIB,Ben Sanders,4,0,4
-Castro,101,Commissioner of the General Land Office,,REP,George P. Bush,110,32,78
+Castro,101,Comptroller of Public Accounts,,REP,Under Votes,3,3,0
+Castro,101,Comptroller of Public Accounts,,DEM,Joi Chevalier,106,78,28
+Castro,101,Comptroller of Public Accounts,,LIB,Ben Sanders,4,4,0
+Castro,101,Commissioner of the General Land Office,,REP,George P. Bush,110,78,32
 Castro,101,Commissioner of the General Land Office,,REP,Over Votes,0,0,0
-Castro,101,Commissioner of the General Land Office,,REP,Under Votes,10,4,6
-Castro,101,Commissioner of the General Land Office,,DEM,Miguel Suazo,104,26,78
-Castro,101,Commissioner of the General Land Office,,LIB,Matt Pina,1,1,0
-Castro,101,Commissioner of Agriculture,,REP,Sid Miller,111,33,78
+Castro,101,Commissioner of the General Land Office,,REP,Under Votes,10,6,4
+Castro,101,Commissioner of the General Land Office,,DEM,Miguel Suazo,104,78,26
+Castro,101,Commissioner of the General Land Office,,LIB,Matt Pina,1,0,1
+Castro,101,Commissioner of Agriculture,,REP,Sid Miller,111,78,33
 Castro,101,Commissioner of Agriculture,,REP,Over Votes,0,0,0
-Castro,101,Commissioner of Agriculture,,REP,Under Votes,5,1,4
-Castro,101,Commissioner of Agriculture,,DEM,Kim Olson,107,28,79
+Castro,101,Commissioner of Agriculture,,REP,Under Votes,5,4,1
+Castro,101,Commissioner of Agriculture,,DEM,Kim Olson,107,79,28
 Castro,101,Commissioner of Agriculture,,LIB,Richard Carpenter,2,1,1
-Castro,101,Railroad Commissioner,,REP,Christi Craddick,110,32,78
+Castro,101,Railroad Commissioner,,REP,Christi Craddick,110,78,32
 Castro,101,Railroad Commissioner,,REP,Over Votes,0,0,0
-Castro,101,Railroad Commissioner,,REP,Under Votes,6,1,5
-Castro,101,Railroad Commissioner,,DEM,Roman McAllen,107,29,78
+Castro,101,Railroad Commissioner,,REP,Under Votes,6,5,1
+Castro,101,Railroad Commissioner,,DEM,Roman McAllen,107,78,29
 Castro,101,Railroad Commissioner,,LIB,Mike Wright,2,1,1
-Castro,101,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,108,33,75
+Castro,101,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,108,75,33
 Castro,101,"Justice, Supreme Court, Place 2",,REP,Over Votes,0,0,0
-Castro,101,"Justice, Supreme Court, Place 2",,REP,Under Votes,7,2,5
-Castro,101,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,110,28,82
-Castro,101,"Justice, Supreme Court, Place 4",,REP,John Devine,108,31,77
+Castro,101,"Justice, Supreme Court, Place 2",,REP,Under Votes,7,5,2
+Castro,101,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,110,82,28
+Castro,101,"Justice, Supreme Court, Place 4",,REP,John Devine,108,77,31
 Castro,101,"Justice, Supreme Court, Place 4",,REP,Over Votes,0,0,0
-Castro,101,"Justice, Supreme Court, Place 4",,REP,Under Votes,9,4,5
-Castro,101,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,108,28,80
-Castro,101,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,108,33,75
+Castro,101,"Justice, Supreme Court, Place 4",,REP,Under Votes,9,5,4
+Castro,101,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,108,80,28
+Castro,101,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,108,75,33
 Castro,101,"Justice, Supreme Court, Place 6",,REP,Over Votes,0,0,0
-Castro,101,"Justice, Supreme Court, Place 6",,REP,Under Votes,6,2,4
-Castro,101,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,111,28,83
-Castro,101,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,105,29,76
+Castro,101,"Justice, Supreme Court, Place 6",,REP,Under Votes,6,4,2
+Castro,101,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,111,83,28
+Castro,101,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,105,76,29
 Castro,101,"Presiding Judge, Court of Criminal Appeals",,REP,Over Votes,0,0,0
 Castro,101,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,8,4,4
-Castro,101,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,110,30,80
-Castro,101,"Presiding Judge, Court of Criminal Appeals",,LIB,"William Bryan Strange, III",2,0,2
-Castro,101,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,107,30,77
+Castro,101,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,110,80,30
+Castro,101,"Presiding Judge, Court of Criminal Appeals",,LIB,"William Bryan Strange, III",2,2,0
+Castro,101,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,107,77,30
 Castro,101,"Judge, Court of Criminal Appeals, Place 7",,REP,Over Votes,0,0,0
-Castro,101,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,7,3,4
-Castro,101,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,111,30,81
-Castro,101,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,121,37,84
+Castro,101,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,7,4,3
+Castro,101,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,111,81,30
+Castro,101,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,121,84,37
 Castro,101,"Judge, Court of Criminal Appeals, Place 8",,REP,Over Votes,0,0,0
-Castro,101,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,80,20,60
-Castro,101,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,24,6,18
-Castro,101,State Senate,31,REP,Kel Seilger,121,33,88
+Castro,101,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,80,60,20
+Castro,101,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,24,18,6
+Castro,101,State Senate,31,REP,Kel Seilger,121,88,33
 Castro,101,State Senate,31,REP,Over Votes,0,0,0
-Castro,101,State Senate,31,REP,Under Votes,81,22,59
-Castro,101,State Senate,31,LIB,Jack B. Westbrook,23,8,15
-Castro,101,State Representative,88,REP,Ken King,112,32,80
+Castro,101,State Senate,31,REP,Under Votes,81,59,22
+Castro,101,State Senate,31,LIB,Jack B. Westbrook,23,15,8
+Castro,101,State Representative,88,REP,Ken King,112,80,32
 Castro,101,State Representative,88,REP,Over Votes,0,0,0
 Castro,101,State Representative,88,REP,Under Votes,6,3,3
-Castro,101,State Representative,88,DEM,Ezekiel Barron,107,28,79
-Castro,101,"Justice, 7th Court of Appeals District, Place 2",,REP,Judy Parker,126,37,89
+Castro,101,State Representative,88,DEM,Ezekiel Barron,107,79,28
+Castro,101,"Justice, 7th Court of Appeals District, Place 2",,REP,Judy Parker,126,89,37
 Castro,101,"Justice, 7th Court of Appeals District, Place 2",,REP,Over Votes,0,0,0
-Castro,101,"Justice, 7th Court of Appeals District, Place 2",,REP,Under Votes,99,26,73
-Castro,101,"Justice, 7th Court of Appeals District, Place 3",,REP,Pat Pirtle,127,37,90
+Castro,101,"Justice, 7th Court of Appeals District, Place 2",,REP,Under Votes,99,73,26
+Castro,101,"Justice, 7th Court of Appeals District, Place 3",,REP,Pat Pirtle,127,90,37
 Castro,101,"Justice, 7th Court of Appeals District, Place 3",,REP,Over Votes,0,0,0
-Castro,101,"Justice, 7th Court of Appeals District, Place 3",,REP,Under Votes,98,26,72
-Castro,101,"District Judge, 64th Judicial District",,REP,Danah Zirpoli,125,35,90
+Castro,101,"Justice, 7th Court of Appeals District, Place 3",,REP,Under Votes,98,72,26
+Castro,101,"District Judge, 64th Judicial District",,REP,Danah Zirpoli,125,90,35
 Castro,101,"District Judge, 64th Judicial District",,REP,Over Votes,0,0,0
-Castro,101,"District Judge, 64th Judicial District",,REP,Under Votes,100,28,72
-Castro,101,"District Judge, 242nd Judicial District",,REP,Lowell Kregg Hukill,127,38,89
+Castro,101,"District Judge, 64th Judicial District",,REP,Under Votes,100,72,28
+Castro,101,"District Judge, 242nd Judicial District",,REP,Lowell Kregg Hukill,127,89,38
 Castro,101,"District Judge, 242nd Judicial District",,REP,Over Votes,0,0,0
-Castro,101,"District Judge, 242nd Judicial District",,REP,Under Votes,98,25,73
-Castro,101,County Judge,,REP,Carroll U. Gerber,131,40,91
+Castro,101,"District Judge, 242nd Judicial District",,REP,Under Votes,98,73,25
+Castro,101,County Judge,,REP,Carroll U. Gerber,131,91,40
 Castro,101,County Judge,,REP,Over Votes,0,0,0
-Castro,101,County Judge,,REP,Under Votes,94,23,71
-Castro,101,District and County Clerk,,DEM,JoAnna Blanco,146,40,106
+Castro,101,County Judge,,REP,Under Votes,94,71,23
+Castro,101,District and County Clerk,,DEM,JoAnna Blanco,146,106,40
 Castro,101,District and County Clerk,,DEM,Over Votes,0,0,0
-Castro,101,District and County Clerk,,DEM,Under Votes,79,23,56
-Castro,101,County Treasurer,,REP,Elaine D. Flynt,125,36,89
+Castro,101,District and County Clerk,,DEM,Under Votes,79,56,23
+Castro,101,County Treasurer,,REP,Elaine D. Flynt,125,89,36
 Castro,101,County Treasurer,,REP,Over Votes,0,0,0
-Castro,101,County Treasurer,,REP,Under Votes,100,27,73
-Castro,101,Justice of the Peace,,REP,Flip Taylor,98,27,71
+Castro,101,County Treasurer,,REP,Under Votes,100,73,27
+Castro,101,Justice of the Peace,,REP,Flip Taylor,98,71,27
 Castro,101,Justice of the Peace,,REP,Over Votes,0,0,0
-Castro,101,Justice of the Peace,,REP,Under Votes,7,4,3
-Castro,101,Justice of the Peace,,DEM,Mary Ewing,120,32,88
+Castro,101,Justice of the Peace,,REP,Under Votes,7,3,4
+Castro,101,Justice of the Peace,,DEM,Mary Ewing,120,88,32
 Castro,105,Registered Voters,,REP,,68,,
-Castro,105,Ballots Cast,,REP,,28,18,10
-Castro,105,Straight Party,,REP,Republican,12,10,2
+Castro,105,Ballots Cast,,REP,,28,10,18
+Castro,105,Straight Party,,REP,Republican,12,2,10
 Castro,105,Straight Party,,REP,Over Votes,0,0,0
 Castro,105,Straight Party,,REP,Under Votes,14,7,7
 Castro,105,Straight Party,,DEM,Democratic,2,1,1
 Castro,105,Straight Party,,LIB,Libertarian,0,0,0
-Castro,105,U.S. Senate,,REP,Ted Cruz,23,16,7
+Castro,105,U.S. Senate,,REP,Ted Cruz,23,7,16
 Castro,105,U.S. Senate,,REP,Over Votes,0,0,0
 Castro,105,U.S. Senate,,REP,Under Votes,0,0,0
-Castro,105,U.S. Senate,,DEM,Beto O'Rourke,5,2,3
+Castro,105,U.S. Senate,,DEM,Beto O'Rourke,5,3,2
 Castro,105,U.S. Senate,,LIB,Neal M. Dikerman,0,0,0
-Castro,105,U.S. House,19,REP,Jodey Arrington,24,16,8
+Castro,105,U.S. House,19,REP,Jodey Arrington,24,8,16
 Castro,105,U.S. House,19,REP,Over Votes,0,0,0
 Castro,105,U.S. House,19,REP,Under Votes,0,0,0
 Castro,105,U.S. House,19,DEM,Miguel Levario,4,2,2
-Castro,105,Governor,,REP,Greg Abbott,23,16,7
+Castro,105,Governor,,REP,Greg Abbott,23,7,16
 Castro,105,Governor,,REP,Over Votes,0,0,0
 Castro,105,Governor,,REP,Under Votes,0,0,0
-Castro,105,Governor,,DEM,Lupe Valdez,5,2,3
+Castro,105,Governor,,DEM,Lupe Valdez,5,3,2
 Castro,105,Governor,,LIB,Mark Jay Tippetts,0,0,0
-Castro,105,Lieutenant Governor,,REP,Dan Patrick,21,15,6
+Castro,105,Lieutenant Governor,,REP,Dan Patrick,21,6,15
 Castro,105,Lieutenant Governor,,REP,Over Votes,0,0,0
 Castro,105,Lieutenant Governor,,REP,Under Votes,0,0,0
-Castro,105,Lieutenant Governor,,DEM,Mike Collier,7,3,4
+Castro,105,Lieutenant Governor,,DEM,Mike Collier,7,4,3
 Castro,105,Lieutenant Governor,,LIB,Kerry Douglas McKennon,0,0,0
-Castro,105,Attorney General,,REP,Ken Paxton,22,16,6
+Castro,105,Attorney General,,REP,Ken Paxton,22,6,16
 Castro,105,Attorney General,,REP,Over Votes,0,0,0
 Castro,105,Attorney General,,REP,Under Votes,0,0,0
-Castro,105,Attorney General,,DEM,Justin Nelson,6,2,4
+Castro,105,Attorney General,,DEM,Justin Nelson,6,4,2
 Castro,105,Attorney General,,LIB,Michael Ray Harris,0,0,0
-Castro,105,Comptroller of Public Accounts,,REP,Glenn Hegar,24,17,7
+Castro,105,Comptroller of Public Accounts,,REP,Glenn Hegar,24,7,17
 Castro,105,Comptroller of Public Accounts,,REP,Over Votes,0,0,0
 Castro,105,Comptroller of Public Accounts,,REP,Under Votes,0,0,0
-Castro,105,Comptroller of Public Accounts,,DEM,Joi Chevalier,4,1,3
+Castro,105,Comptroller of Public Accounts,,DEM,Joi Chevalier,4,3,1
 Castro,105,Comptroller of Public Accounts,,LIB,Ben Sanders,0,0,0
-Castro,105,Commissioner of the General Land Office,,REP,George P. Bush,22,16,6
+Castro,105,Commissioner of the General Land Office,,REP,George P. Bush,22,6,16
 Castro,105,Commissioner of the General Land Office,,REP,Over Votes,0,0,0
-Castro,105,Commissioner of the General Land Office,,REP,Under Votes,1,0,1
-Castro,105,Commissioner of the General Land Office,,DEM,Miguel Suazo,5,2,3
+Castro,105,Commissioner of the General Land Office,,REP,Under Votes,1,1,0
+Castro,105,Commissioner of the General Land Office,,DEM,Miguel Suazo,5,3,2
 Castro,105,Commissioner of the General Land Office,,LIB,Matt Pina,0,0,0
-Castro,105,Commissioner of Agriculture,,REP,Sid Miller,25,16,9
+Castro,105,Commissioner of Agriculture,,REP,Sid Miller,25,9,16
 Castro,105,Commissioner of Agriculture,,REP,Over Votes,0,0,0
 Castro,105,Commissioner of Agriculture,,REP,Under Votes,0,0,0
 Castro,105,Commissioner of Agriculture,,DEM,Kim Olson,2,1,1
-Castro,105,Commissioner of Agriculture,,LIB,Richard Carpenter,1,1,0
-Castro,105,Railroad Commissioner,,REP,Christi Craddick,23,16,7
+Castro,105,Commissioner of Agriculture,,LIB,Richard Carpenter,1,0,1
+Castro,105,Railroad Commissioner,,REP,Christi Craddick,23,7,16
 Castro,105,Railroad Commissioner,,REP,Over Votes,0,0,0
 Castro,105,Railroad Commissioner,,REP,Under Votes,0,0,0
-Castro,105,Railroad Commissioner,,DEM,Roman McAllen,5,2,3
+Castro,105,Railroad Commissioner,,DEM,Roman McAllen,5,3,2
 Castro,105,Railroad Commissioner,,LIB,Mike Wright,0,0,0
-Castro,105,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,23,16,7
+Castro,105,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,23,7,16
 Castro,105,"Justice, Supreme Court, Place 2",,REP,Over Votes,0,0,0
 Castro,105,"Justice, Supreme Court, Place 2",,REP,Under Votes,0,0,0
-Castro,105,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,5,2,3
-Castro,105,"Justice, Supreme Court, Place 4",,REP,John Devine,24,17,7
+Castro,105,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,5,3,2
+Castro,105,"Justice, Supreme Court, Place 4",,REP,John Devine,24,7,17
 Castro,105,"Justice, Supreme Court, Place 4",,REP,Over Votes,0,0,0
 Castro,105,"Justice, Supreme Court, Place 4",,REP,Under Votes,0,0,0
-Castro,105,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,4,1,3
-Castro,105,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,23,16,7
+Castro,105,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,4,3,1
+Castro,105,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,23,7,16
 Castro,105,"Justice, Supreme Court, Place 6",,REP,Over Votes,0,0,0
 Castro,105,"Justice, Supreme Court, Place 6",,REP,Under Votes,0,0,0
-Castro,105,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,5,2,3
-Castro,105,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,23,16,7
+Castro,105,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,5,3,2
+Castro,105,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,23,7,16
 Castro,105,"Presiding Judge, Court of Criminal Appeals",,REP,Over Votes,0,0,0
 Castro,105,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,0,0,0
-Castro,105,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,5,2,3
+Castro,105,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,5,3,2
 Castro,105,"Presiding Judge, Court of Criminal Appeals",,LIB,"William Bryan Strange, III",0,0,0
-Castro,105,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,23,16,7
+Castro,105,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,23,7,16
 Castro,105,"Judge, Court of Criminal Appeals, Place 7",,REP,Over Votes,0,0,0
 Castro,105,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,0,0,0
-Castro,105,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,5,2,3
-Castro,105,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,25,17,8
+Castro,105,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,5,3,2
+Castro,105,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,25,8,17
 Castro,105,"Judge, Court of Criminal Appeals, Place 8",,REP,Over Votes,0,0,0
-Castro,105,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,1,0,1
+Castro,105,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,1,1,0
 Castro,105,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,2,1,1
-Castro,105,State Senate,31,REP,Kel Seilger,26,17,9
+Castro,105,State Senate,31,REP,Kel Seilger,26,9,17
 Castro,105,State Senate,31,REP,Over Votes,0,0,0
-Castro,105,State Senate,31,REP,Under Votes,1,0,1
-Castro,105,State Senate,31,LIB,Jack B. Westbrook,1,1,0
-Castro,105,State Representative,88,REP,Ken King,23,16,7
+Castro,105,State Senate,31,REP,Under Votes,1,1,0
+Castro,105,State Senate,31,LIB,Jack B. Westbrook,1,0,1
+Castro,105,State Representative,88,REP,Ken King,23,7,16
 Castro,105,State Representative,88,REP,Over Votes,0,0,0
 Castro,105,State Representative,88,REP,Under Votes,0,0,0
-Castro,105,State Representative,88,DEM,Ezekiel Barron,5,2,3
-Castro,105,"Justice, 7th Court of Appeals District, Place 2",,REP,Judy Parker,26,18,8
+Castro,105,State Representative,88,DEM,Ezekiel Barron,5,3,2
+Castro,105,"Justice, 7th Court of Appeals District, Place 2",,REP,Judy Parker,26,8,18
 Castro,105,"Justice, 7th Court of Appeals District, Place 2",,REP,Over Votes,0,0,0
-Castro,105,"Justice, 7th Court of Appeals District, Place 2",,REP,Under Votes,2,0,2
-Castro,105,"Justice, 7th Court of Appeals District, Place 3",,REP,Pat Pirtle,26,18,8
+Castro,105,"Justice, 7th Court of Appeals District, Place 2",,REP,Under Votes,2,2,0
+Castro,105,"Justice, 7th Court of Appeals District, Place 3",,REP,Pat Pirtle,26,8,18
 Castro,105,"Justice, 7th Court of Appeals District, Place 3",,REP,Over Votes,0,0,0
-Castro,105,"Justice, 7th Court of Appeals District, Place 3",,REP,Under Votes,2,0,2
-Castro,105,"District Judge, 64th Judicial District",,REP,Danah Zirpoli,26,18,8
+Castro,105,"Justice, 7th Court of Appeals District, Place 3",,REP,Under Votes,2,2,0
+Castro,105,"District Judge, 64th Judicial District",,REP,Danah Zirpoli,26,8,18
 Castro,105,"District Judge, 64th Judicial District",,REP,Over Votes,0,0,0
-Castro,105,"District Judge, 64th Judicial District",,REP,Under Votes,2,0,2
-Castro,105,"District Judge, 242nd Judicial District",,REP,Lowell Kregg Hukill,25,17,8
+Castro,105,"District Judge, 64th Judicial District",,REP,Under Votes,2,2,0
+Castro,105,"District Judge, 242nd Judicial District",,REP,Lowell Kregg Hukill,25,8,17
 Castro,105,"District Judge, 242nd Judicial District",,REP,Over Votes,0,0,0
-Castro,105,"District Judge, 242nd Judicial District",,REP,Under Votes,3,1,2
-Castro,105,County Judge,,REP,Carroll U. Gerber,24,17,7
+Castro,105,"District Judge, 242nd Judicial District",,REP,Under Votes,3,2,1
+Castro,105,County Judge,,REP,Carroll U. Gerber,24,7,17
 Castro,105,County Judge,,REP,Over Votes,0,0,0
-Castro,105,County Judge,,REP,Under Votes,4,1,3
-Castro,105,District and County Clerk,,DEM,JoAnna Blanco,11,5,6
+Castro,105,County Judge,,REP,Under Votes,4,3,1
+Castro,105,District and County Clerk,,DEM,JoAnna Blanco,11,6,5
 Castro,105,District and County Clerk,,DEM,Over Votes,0,0,0
-Castro,105,District and County Clerk,,DEM,Under Votes,17,13,4
-Castro,105,County Treasurer,,REP,Elaine D. Flynt,25,17,8
+Castro,105,District and County Clerk,,DEM,Under Votes,17,4,13
+Castro,105,County Treasurer,,REP,Elaine D. Flynt,25,8,17
 Castro,105,County Treasurer,,REP,Over Votes,0,0,0
-Castro,105,County Treasurer,,REP,Under Votes,3,1,2
-Castro,105,Justice of the Peace,,REP,Flip Taylor,14,11,3
+Castro,105,County Treasurer,,REP,Under Votes,3,2,1
+Castro,105,Justice of the Peace,,REP,Flip Taylor,14,3,11
 Castro,105,Justice of the Peace,,REP,Over Votes,0,0,0
 Castro,105,Justice of the Peace,,REP,Under Votes,0,0,0
 Castro,105,Justice of the Peace,,DEM,Mary Ewing,14,7,7
 Castro,201,Registered Voters,,REP,,751,,
-Castro,201,Ballots Cast,,REP,,263,154,109
-Castro,201,Straight Party,,REP,Republican,46,31,15
+Castro,201,Ballots Cast,,REP,,263,109,154
+Castro,201,Straight Party,,REP,Republican,46,15,31
 Castro,201,Straight Party,,REP,Over Votes,0,0,0
-Castro,201,Straight Party,,REP,Under Votes,124,79,45
-Castro,201,Straight Party,,DEM,Democratic,90,43,47
-Castro,201,Straight Party,,LIB,Libertarian,3,1,2
-Castro,201,U.S. Senate,,REP,Ted Cruz,141,89,52
-Castro,201,U.S. Senate,,REP,Over Votes,1,1,0
-Castro,201,U.S. Senate,,REP,Under Votes,12,9,3
-Castro,201,U.S. Senate,,DEM,Beto O'Rourke,109,55,54
+Castro,201,Straight Party,,REP,Under Votes,124,45,79
+Castro,201,Straight Party,,DEM,Democratic,90,47,43
+Castro,201,Straight Party,,LIB,Libertarian,3,2,1
+Castro,201,U.S. Senate,,REP,Ted Cruz,141,52,89
+Castro,201,U.S. Senate,,REP,Over Votes,1,0,1
+Castro,201,U.S. Senate,,REP,Under Votes,12,3,9
+Castro,201,U.S. Senate,,DEM,Beto O'Rourke,109,54,55
 Castro,201,U.S. Senate,,LIB,Neal M. Dikerman,0,0,0
-Castro,201,U.S. House,19,REP,Jodey Arrington,123,76,47
-Castro,201,U.S. House,19,REP,Over Votes,1,1,0
-Castro,201,U.S. House,19,REP,Under Votes,23,16,7
-Castro,201,U.S. House,19,DEM,Miguel Levario,116,61,55
-Castro,201,Governor,,REP,Greg Abbott,137,85,52
-Castro,201,Governor,,REP,Over Votes,1,1,0
-Castro,201,Governor,,REP,Under Votes,17,12,5
-Castro,201,Governor,,DEM,Lupe Valdez,106,55,51
+Castro,201,U.S. House,19,REP,Jodey Arrington,123,47,76
+Castro,201,U.S. House,19,REP,Over Votes,1,0,1
+Castro,201,U.S. House,19,REP,Under Votes,23,7,16
+Castro,201,U.S. House,19,DEM,Miguel Levario,116,55,61
+Castro,201,Governor,,REP,Greg Abbott,137,52,85
+Castro,201,Governor,,REP,Over Votes,1,0,1
+Castro,201,Governor,,REP,Under Votes,17,5,12
+Castro,201,Governor,,DEM,Lupe Valdez,106,51,55
 Castro,201,Governor,,LIB,Mark Jay Tippetts,2,1,1
-Castro,201,Lieutenant Governor,,REP,Dan Patrick,116,72,44
-Castro,201,Lieutenant Governor,,REP,Over Votes,1,1,0
-Castro,201,Lieutenant Governor,,REP,Under Votes,19,16,3
-Castro,201,Lieutenant Governor,,DEM,Mike Collier,117,62,55
-Castro,201,Lieutenant Governor,,LIB,Kerry Douglas McKennon,10,3,7
-Castro,201,Attorney General,,REP,Ken Paxton,124,77,47
-Castro,201,Attorney General,,REP,Over Votes,1,1,0
-Castro,201,Attorney General,,REP,Under Votes,20,14,6
-Castro,201,Attorney General,,DEM,Justin Nelson,115,61,54
-Castro,201,Attorney General,,LIB,Michael Ray Harris,3,1,2
-Castro,201,Comptroller of Public Accounts,,REP,Glenn Hegar,120,76,44
-Castro,201,Comptroller of Public Accounts,,REP,Over Votes,1,1,0
-Castro,201,Comptroller of Public Accounts,,REP,Under Votes,21,16,5
-Castro,201,Comptroller of Public Accounts,,DEM,Joi Chevalier,111,59,52
-Castro,201,Comptroller of Public Accounts,,LIB,Ben Sanders,10,2,8
-Castro,201,Commissioner of the General Land Office,,REP,George P. Bush,124,78,46
-Castro,201,Commissioner of the General Land Office,,REP,Over Votes,1,1,0
-Castro,201,Commissioner of the General Land Office,,REP,Under Votes,19,15,4
-Castro,201,Commissioner of the General Land Office,,DEM,Miguel Suazo,112,57,55
-Castro,201,Commissioner of the General Land Office,,LIB,Matt Pina,7,3,4
-Castro,201,Commissioner of Agriculture,,REP,Sid Miller,118,73,45
-Castro,201,Commissioner of Agriculture,,REP,Over Votes,1,1,0
-Castro,201,Commissioner of Agriculture,,REP,Under Votes,23,18,5
-Castro,201,Commissioner of Agriculture,,DEM,Kim Olson,117,60,57
+Castro,201,Lieutenant Governor,,REP,Dan Patrick,116,44,72
+Castro,201,Lieutenant Governor,,REP,Over Votes,1,0,1
+Castro,201,Lieutenant Governor,,REP,Under Votes,19,3,16
+Castro,201,Lieutenant Governor,,DEM,Mike Collier,117,55,62
+Castro,201,Lieutenant Governor,,LIB,Kerry Douglas McKennon,10,7,3
+Castro,201,Attorney General,,REP,Ken Paxton,124,47,77
+Castro,201,Attorney General,,REP,Over Votes,1,0,1
+Castro,201,Attorney General,,REP,Under Votes,20,6,14
+Castro,201,Attorney General,,DEM,Justin Nelson,115,54,61
+Castro,201,Attorney General,,LIB,Michael Ray Harris,3,2,1
+Castro,201,Comptroller of Public Accounts,,REP,Glenn Hegar,120,44,76
+Castro,201,Comptroller of Public Accounts,,REP,Over Votes,1,0,1
+Castro,201,Comptroller of Public Accounts,,REP,Under Votes,21,5,16
+Castro,201,Comptroller of Public Accounts,,DEM,Joi Chevalier,111,52,59
+Castro,201,Comptroller of Public Accounts,,LIB,Ben Sanders,10,8,2
+Castro,201,Commissioner of the General Land Office,,REP,George P. Bush,124,46,78
+Castro,201,Commissioner of the General Land Office,,REP,Over Votes,1,0,1
+Castro,201,Commissioner of the General Land Office,,REP,Under Votes,19,4,15
+Castro,201,Commissioner of the General Land Office,,DEM,Miguel Suazo,112,55,57
+Castro,201,Commissioner of the General Land Office,,LIB,Matt Pina,7,4,3
+Castro,201,Commissioner of Agriculture,,REP,Sid Miller,118,45,73
+Castro,201,Commissioner of Agriculture,,REP,Over Votes,1,0,1
+Castro,201,Commissioner of Agriculture,,REP,Under Votes,23,5,18
+Castro,201,Commissioner of Agriculture,,DEM,Kim Olson,117,57,60
 Castro,201,Commissioner of Agriculture,,LIB,Richard Carpenter,4,2,2
-Castro,201,Railroad Commissioner,,REP,Christi Craddick,119,74,45
+Castro,201,Railroad Commissioner,,REP,Christi Craddick,119,45,74
 Castro,201,Railroad Commissioner,,REP,Over Votes,0,0,0
-Castro,201,Railroad Commissioner,,REP,Under Votes,22,17,5
-Castro,201,Railroad Commissioner,,DEM,Roman McAllen,117,61,56
-Castro,201,Railroad Commissioner,,LIB,Mike Wright,5,2,3
-Castro,201,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,119,74,45
+Castro,201,Railroad Commissioner,,REP,Under Votes,22,5,17
+Castro,201,Railroad Commissioner,,DEM,Roman McAllen,117,56,61
+Castro,201,Railroad Commissioner,,LIB,Mike Wright,5,3,2
+Castro,201,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,119,45,74
 Castro,201,"Justice, Supreme Court, Place 2",,REP,Over Votes,0,0,0
-Castro,201,"Justice, Supreme Court, Place 2",,REP,Under Votes,23,19,4
-Castro,201,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,121,61,60
-Castro,201,"Justice, Supreme Court, Place 4",,REP,John Devine,122,75,47
+Castro,201,"Justice, Supreme Court, Place 2",,REP,Under Votes,23,4,19
+Castro,201,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,121,60,61
+Castro,201,"Justice, Supreme Court, Place 4",,REP,John Devine,122,47,75
 Castro,201,"Justice, Supreme Court, Place 4",,REP,Over Votes,0,0,0
-Castro,201,"Justice, Supreme Court, Place 4",,REP,Under Votes,24,19,5
-Castro,201,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,117,60,57
-Castro,201,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,125,78,47
+Castro,201,"Justice, Supreme Court, Place 4",,REP,Under Votes,24,5,19
+Castro,201,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,117,57,60
+Castro,201,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,125,47,78
 Castro,201,"Justice, Supreme Court, Place 6",,REP,Over Votes,0,0,0
-Castro,201,"Justice, Supreme Court, Place 6",,REP,Under Votes,21,16,5
-Castro,201,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,117,60,57
-Castro,201,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,125,75,50
+Castro,201,"Justice, Supreme Court, Place 6",,REP,Under Votes,21,5,16
+Castro,201,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,117,57,60
+Castro,201,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,125,50,75
 Castro,201,"Presiding Judge, Court of Criminal Appeals",,REP,Over Votes,0,0,0
-Castro,201,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,19,14,5
-Castro,201,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,118,64,54
-Castro,201,"Presiding Judge, Court of Criminal Appeals",,LIB,"William Bryan Strange, III",1,1,0
-Castro,201,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,125,77,48
+Castro,201,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,19,5,14
+Castro,201,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,118,54,64
+Castro,201,"Presiding Judge, Court of Criminal Appeals",,LIB,"William Bryan Strange, III",1,0,1
+Castro,201,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,125,48,77
 Castro,201,"Judge, Court of Criminal Appeals, Place 7",,REP,Over Votes,0,0,0
-Castro,201,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,22,17,5
-Castro,201,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,116,60,56
-Castro,201,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,145,90,55
+Castro,201,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,22,5,17
+Castro,201,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,116,56,60
+Castro,201,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,145,55,90
 Castro,201,"Judge, Court of Criminal Appeals, Place 8",,REP,Over Votes,0,0,0
-Castro,201,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,98,53,45
-Castro,201,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,20,11,9
-Castro,201,State Senate,31,REP,Kel Seilger,144,87,57
+Castro,201,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,98,45,53
+Castro,201,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,20,9,11
+Castro,201,State Senate,31,REP,Kel Seilger,144,57,87
 Castro,201,State Senate,31,REP,Over Votes,0,0,0
-Castro,201,State Senate,31,REP,Under Votes,93,51,42
-Castro,201,State Senate,31,LIB,Jack B. Westbrook,26,16,10
-Castro,201,State Representative,88,REP,Ken King,131,80,51
+Castro,201,State Senate,31,REP,Under Votes,93,42,51
+Castro,201,State Senate,31,LIB,Jack B. Westbrook,26,10,16
+Castro,201,State Representative,88,REP,Ken King,131,51,80
 Castro,201,State Representative,88,REP,Over Votes,0,0,0
-Castro,201,State Representative,88,REP,Under Votes,19,14,5
-Castro,201,State Representative,88,DEM,Ezekiel Barron,113,60,53
-Castro,201,"Justice, 7th Court of Appeals District, Place 2",,REP,Judy Parker,144,85,59
+Castro,201,State Representative,88,REP,Under Votes,19,5,14
+Castro,201,State Representative,88,DEM,Ezekiel Barron,113,53,60
+Castro,201,"Justice, 7th Court of Appeals District, Place 2",,REP,Judy Parker,144,59,85
 Castro,201,"Justice, 7th Court of Appeals District, Place 2",,REP,Over Votes,0,0,0
-Castro,201,"Justice, 7th Court of Appeals District, Place 2",,REP,Under Votes,119,69,50
-Castro,201,"Justice, 7th Court of Appeals District, Place 3",,REP,Pat Pirtle,145,85,60
+Castro,201,"Justice, 7th Court of Appeals District, Place 2",,REP,Under Votes,119,50,69
+Castro,201,"Justice, 7th Court of Appeals District, Place 3",,REP,Pat Pirtle,145,60,85
 Castro,201,"Justice, 7th Court of Appeals District, Place 3",,REP,Over Votes,0,0,0
-Castro,201,"Justice, 7th Court of Appeals District, Place 3",,REP,Under Votes,118,69,49
-Castro,201,"District Judge, 64th Judicial District",,REP,Danah Zirpoli,144,85,59
+Castro,201,"Justice, 7th Court of Appeals District, Place 3",,REP,Under Votes,118,49,69
+Castro,201,"District Judge, 64th Judicial District",,REP,Danah Zirpoli,144,59,85
 Castro,201,"District Judge, 64th Judicial District",,REP,Over Votes,0,0,0
-Castro,201,"District Judge, 64th Judicial District",,REP,Under Votes,119,69,50
-Castro,201,"District Judge, 242nd Judicial District",,REP,Lowell Kregg Hukill,149,90,59
+Castro,201,"District Judge, 64th Judicial District",,REP,Under Votes,119,50,69
+Castro,201,"District Judge, 242nd Judicial District",,REP,Lowell Kregg Hukill,149,59,90
 Castro,201,"District Judge, 242nd Judicial District",,REP,Over Votes,0,0,0
-Castro,201,"District Judge, 242nd Judicial District",,REP,Under Votes,114,64,50
-Castro,201,County Judge,,REP,Carroll U. Gerber,155,95,60
+Castro,201,"District Judge, 242nd Judicial District",,REP,Under Votes,114,50,64
+Castro,201,County Judge,,REP,Carroll U. Gerber,155,60,95
 Castro,201,County Judge,,REP,Over Votes,0,0,0
-Castro,201,County Judge,,REP,Under Votes,108,59,49
-Castro,201,District and County Clerk,,DEM,JoAnna Blanco,197,106,91
+Castro,201,County Judge,,REP,Under Votes,108,49,59
+Castro,201,District and County Clerk,,DEM,JoAnna Blanco,197,91,106
 Castro,201,District and County Clerk,,DEM,Over Votes,0,0,0
-Castro,201,District and County Clerk,,DEM,Under Votes,66,48,18
-Castro,201,County Treasurer,,REP,Elaine D. Flynt,150,88,62
+Castro,201,District and County Clerk,,DEM,Under Votes,66,18,48
+Castro,201,County Treasurer,,REP,Elaine D. Flynt,150,62,88
 Castro,201,County Treasurer,,REP,Over Votes,0,0,0
-Castro,201,County Treasurer,,REP,Under Votes,113,66,47
-Castro,201,Justice of the Peace,,REP,Flip Taylor,66,39,27
+Castro,201,County Treasurer,,REP,Under Votes,113,47,66
+Castro,201,Justice of the Peace,,REP,Flip Taylor,66,27,39
 Castro,201,Justice of the Peace,,REP,Over Votes,0,0,0
-Castro,201,Justice of the Peace,,REP,Under Votes,3,2,1
-Castro,201,Justice of the Peace,,DEM,Mary Ewing,194,113,81
-Castro,201,"County Commissioner, Precinct 2",,REP,Landon Porsch,96,61,35
+Castro,201,Justice of the Peace,,REP,Under Votes,3,1,2
+Castro,201,Justice of the Peace,,DEM,Mary Ewing,194,81,113
+Castro,201,"County Commissioner, Precinct 2",,REP,Landon Porsch,96,35,61
 Castro,201,"County Commissioner, Precinct 2",,REP,Over Votes,0,0,0
-Castro,201,"County Commissioner, Precinct 2",,REP,Under Votes,5,4,1
-Castro,201,"County Commissioner, Precinct 2",,DEM,Tim Elliott,162,89,73
+Castro,201,"County Commissioner, Precinct 2",,REP,Under Votes,5,1,4
+Castro,201,"County Commissioner, Precinct 2",,DEM,Tim Elliott,162,73,89
 Castro,206,Registered Voters,,REP,,137,,
-Castro,206,Ballots Cast,,REP,,82,39,43
-Castro,206,Straight Party,,REP,Republican,37,10,27
+Castro,206,Ballots Cast,,REP,,82,43,39
+Castro,206,Straight Party,,REP,Republican,37,27,10
 Castro,206,Straight Party,,REP,Over Votes,0,0,0
-Castro,206,Straight Party,,REP,Under Votes,40,24,16
-Castro,206,Straight Party,,DEM,Democratic,5,5,0
+Castro,206,Straight Party,,REP,Under Votes,40,16,24
+Castro,206,Straight Party,,DEM,Democratic,5,0,5
 Castro,206,Straight Party,,LIB,Libertarian,0,0,0
-Castro,206,U.S. Senate,,REP,Ted Cruz,67,26,41
+Castro,206,U.S. Senate,,REP,Ted Cruz,67,41,26
 Castro,206,U.S. Senate,,REP,Over Votes,0,0,0
-Castro,206,U.S. Senate,,REP,Under Votes,3,1,2
-Castro,206,U.S. Senate,,DEM,Beto O'Rourke,12,12,0
+Castro,206,U.S. Senate,,REP,Under Votes,3,2,1
+Castro,206,U.S. Senate,,DEM,Beto O'Rourke,12,0,12
 Castro,206,U.S. Senate,,LIB,Neal M. Dikerman,0,0,0
-Castro,206,U.S. House,19,REP,Jodey Arrington,69,28,41
+Castro,206,U.S. House,19,REP,Jodey Arrington,69,41,28
 Castro,206,U.S. House,19,REP,Over Votes,0,0,0
-Castro,206,U.S. House,19,REP,Under Votes,3,1,2
-Castro,206,U.S. House,19,DEM,Miguel Levario,10,10,0
-Castro,206,Governor,,REP,Greg Abbott,69,27,42
+Castro,206,U.S. House,19,REP,Under Votes,3,2,1
+Castro,206,U.S. House,19,DEM,Miguel Levario,10,0,10
+Castro,206,Governor,,REP,Greg Abbott,69,42,27
 Castro,206,Governor,,REP,Over Votes,0,0,0
 Castro,206,Governor,,REP,Under Votes,2,1,1
-Castro,206,Governor,,DEM,Lupe Valdez,11,11,0
+Castro,206,Governor,,DEM,Lupe Valdez,11,0,11
 Castro,206,Governor,,LIB,Mark Jay Tippetts,0,0,0
-Castro,206,Lieutenant Governor,,REP,Dan Patrick,65,25,40
+Castro,206,Lieutenant Governor,,REP,Dan Patrick,65,40,25
 Castro,206,Lieutenant Governor,,REP,Over Votes,0,0,0
 Castro,206,Lieutenant Governor,,REP,Under Votes,2,1,1
-Castro,206,Lieutenant Governor,,DEM,Mike Collier,14,12,2
-Castro,206,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,1,0
-Castro,206,Attorney General,,REP,Ken Paxton,64,26,38
+Castro,206,Lieutenant Governor,,DEM,Mike Collier,14,2,12
+Castro,206,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,0,1
+Castro,206,Attorney General,,REP,Ken Paxton,64,38,26
 Castro,206,Attorney General,,REP,Over Votes,0,0,0
-Castro,206,Attorney General,,REP,Under Votes,4,1,3
-Castro,206,Attorney General,,DEM,Justin Nelson,13,12,1
-Castro,206,Attorney General,,LIB,Michael Ray Harris,1,0,1
-Castro,206,Comptroller of Public Accounts,,REP,Glenn Hegar,65,25,40
+Castro,206,Attorney General,,REP,Under Votes,4,3,1
+Castro,206,Attorney General,,DEM,Justin Nelson,13,1,12
+Castro,206,Attorney General,,LIB,Michael Ray Harris,1,1,0
+Castro,206,Comptroller of Public Accounts,,REP,Glenn Hegar,65,40,25
 Castro,206,Comptroller of Public Accounts,,REP,Over Votes,0,0,0
-Castro,206,Comptroller of Public Accounts,,REP,Under Votes,3,0,3
-Castro,206,Comptroller of Public Accounts,,DEM,Joi Chevalier,13,13,0
-Castro,206,Comptroller of Public Accounts,,LIB,Ben Sanders,1,1,0
-Castro,206,Commissioner of the General Land Office,,REP,George P. Bush,61,22,39
+Castro,206,Comptroller of Public Accounts,,REP,Under Votes,3,3,0
+Castro,206,Comptroller of Public Accounts,,DEM,Joi Chevalier,13,0,13
+Castro,206,Comptroller of Public Accounts,,LIB,Ben Sanders,1,0,1
+Castro,206,Commissioner of the General Land Office,,REP,George P. Bush,61,39,22
 Castro,206,Commissioner of the General Land Office,,REP,Over Votes,0,0,0
-Castro,206,Commissioner of the General Land Office,,REP,Under Votes,4,1,3
-Castro,206,Commissioner of the General Land Office,,DEM,Miguel Suazo,13,13,0
-Castro,206,Commissioner of the General Land Office,,LIB,Matt Pina,4,3,1
-Castro,206,Commissioner of Agriculture,,REP,Sid Miller,68,27,41
+Castro,206,Commissioner of the General Land Office,,REP,Under Votes,4,3,1
+Castro,206,Commissioner of the General Land Office,,DEM,Miguel Suazo,13,0,13
+Castro,206,Commissioner of the General Land Office,,LIB,Matt Pina,4,1,3
+Castro,206,Commissioner of Agriculture,,REP,Sid Miller,68,41,27
 Castro,206,Commissioner of Agriculture,,REP,Over Votes,0,0,0
-Castro,206,Commissioner of Agriculture,,REP,Under Votes,1,0,1
-Castro,206,Commissioner of Agriculture,,DEM,Kim Olson,12,11,1
-Castro,206,Commissioner of Agriculture,,LIB,Richard Carpenter,1,1,0
-Castro,206,Railroad Commissioner,,REP,Christi Craddick,67,27,40
+Castro,206,Commissioner of Agriculture,,REP,Under Votes,1,1,0
+Castro,206,Commissioner of Agriculture,,DEM,Kim Olson,12,1,11
+Castro,206,Commissioner of Agriculture,,LIB,Richard Carpenter,1,0,1
+Castro,206,Railroad Commissioner,,REP,Christi Craddick,67,40,27
 Castro,206,Railroad Commissioner,,REP,Over Votes,0,0,0
-Castro,206,Railroad Commissioner,,REP,Under Votes,2,0,2
-Castro,206,Railroad Commissioner,,DEM,Roman McAllen,13,12,1
+Castro,206,Railroad Commissioner,,REP,Under Votes,2,2,0
+Castro,206,Railroad Commissioner,,DEM,Roman McAllen,13,1,12
 Castro,206,Railroad Commissioner,,LIB,Mike Wright,0,0,0
-Castro,206,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,67,26,41
+Castro,206,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,67,41,26
 Castro,206,"Justice, Supreme Court, Place 2",,REP,Over Votes,0,0,0
-Castro,206,"Justice, Supreme Court, Place 2",,REP,Under Votes,2,0,2
-Castro,206,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,13,13,0
-Castro,206,"Justice, Supreme Court, Place 4",,REP,John Devine,66,26,40
+Castro,206,"Justice, Supreme Court, Place 2",,REP,Under Votes,2,2,0
+Castro,206,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,13,0,13
+Castro,206,"Justice, Supreme Court, Place 4",,REP,John Devine,66,40,26
 Castro,206,"Justice, Supreme Court, Place 4",,REP,Over Votes,0,0,0
-Castro,206,"Justice, Supreme Court, Place 4",,REP,Under Votes,3,0,3
-Castro,206,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,13,13,0
-Castro,206,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,64,25,39
+Castro,206,"Justice, Supreme Court, Place 4",,REP,Under Votes,3,3,0
+Castro,206,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,13,0,13
+Castro,206,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,64,39,25
 Castro,206,"Justice, Supreme Court, Place 6",,REP,Over Votes,0,0,0
-Castro,206,"Justice, Supreme Court, Place 6",,REP,Under Votes,4,1,3
-Castro,206,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,14,13,1
-Castro,206,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,67,27,40
+Castro,206,"Justice, Supreme Court, Place 6",,REP,Under Votes,4,3,1
+Castro,206,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,14,1,13
+Castro,206,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,67,40,27
 Castro,206,"Presiding Judge, Court of Criminal Appeals",,REP,Over Votes,0,0,0
-Castro,206,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,3,0,3
-Castro,206,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,12,12,0
+Castro,206,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,3,3,0
+Castro,206,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,12,0,12
 Castro,206,"Presiding Judge, Court of Criminal Appeals",,LIB,"William Bryan Strange, III",0,0,0
-Castro,206,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,67,28,39
+Castro,206,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,67,39,28
 Castro,206,"Judge, Court of Criminal Appeals, Place 7",,REP,Over Votes,0,0,0
-Castro,206,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,3,0,3
-Castro,206,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,12,11,1
-Castro,206,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,69,29,40
+Castro,206,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,3,3,0
+Castro,206,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,12,1,11
+Castro,206,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,69,40,29
 Castro,206,"Judge, Court of Criminal Appeals, Place 8",,REP,Over Votes,0,0,0
-Castro,206,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,8,5,3
-Castro,206,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,5,5,0
-Castro,206,State Senate,31,REP,Kel Seilger,67,29,38
+Castro,206,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,8,3,5
+Castro,206,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,5,0,5
+Castro,206,State Senate,31,REP,Kel Seilger,67,38,29
 Castro,206,State Senate,31,REP,Over Votes,0,0,0
-Castro,206,State Senate,31,REP,Under Votes,9,6,3
-Castro,206,State Senate,31,LIB,Jack B. Westbrook,6,4,2
-Castro,206,State Representative,88,REP,Ken King,68,29,39
+Castro,206,State Senate,31,REP,Under Votes,9,3,6
+Castro,206,State Senate,31,LIB,Jack B. Westbrook,6,2,4
+Castro,206,State Representative,88,REP,Ken King,68,39,29
 Castro,206,State Representative,88,REP,Over Votes,0,0,0
-Castro,206,State Representative,88,REP,Under Votes,5,1,4
-Castro,206,State Representative,88,DEM,Ezekiel Barron,9,9,0
-Castro,206,"Justice, 7th Court of Appeals District, Place 2",,REP,Judy Parker,67,27,40
+Castro,206,State Representative,88,REP,Under Votes,5,4,1
+Castro,206,State Representative,88,DEM,Ezekiel Barron,9,0,9
+Castro,206,"Justice, 7th Court of Appeals District, Place 2",,REP,Judy Parker,67,40,27
 Castro,206,"Justice, 7th Court of Appeals District, Place 2",,REP,Over Votes,0,0,0
-Castro,206,"Justice, 7th Court of Appeals District, Place 2",,REP,Under Votes,15,12,3
-Castro,206,"Justice, 7th Court of Appeals District, Place 3",,REP,Pat Pirtle,68,28,40
+Castro,206,"Justice, 7th Court of Appeals District, Place 2",,REP,Under Votes,15,3,12
+Castro,206,"Justice, 7th Court of Appeals District, Place 3",,REP,Pat Pirtle,68,40,28
 Castro,206,"Justice, 7th Court of Appeals District, Place 3",,REP,Over Votes,0,0,0
-Castro,206,"Justice, 7th Court of Appeals District, Place 3",,REP,Under Votes,14,11,3
-Castro,206,"District Judge, 64th Judicial District",,REP,Danah Zirpoli,69,29,40
+Castro,206,"Justice, 7th Court of Appeals District, Place 3",,REP,Under Votes,14,3,11
+Castro,206,"District Judge, 64th Judicial District",,REP,Danah Zirpoli,69,40,29
 Castro,206,"District Judge, 64th Judicial District",,REP,Over Votes,0,0,0
-Castro,206,"District Judge, 64th Judicial District",,REP,Under Votes,13,10,3
-Castro,206,"District Judge, 242nd Judicial District",,REP,Lowell Kregg Hukill,71,30,41
+Castro,206,"District Judge, 64th Judicial District",,REP,Under Votes,13,3,10
+Castro,206,"District Judge, 242nd Judicial District",,REP,Lowell Kregg Hukill,71,41,30
 Castro,206,"District Judge, 242nd Judicial District",,REP,Over Votes,0,0,0
-Castro,206,"District Judge, 242nd Judicial District",,REP,Under Votes,11,9,2
-Castro,206,County Judge,,REP,Carroll U. Gerber,68,28,40
+Castro,206,"District Judge, 242nd Judicial District",,REP,Under Votes,11,2,9
+Castro,206,County Judge,,REP,Carroll U. Gerber,68,40,28
 Castro,206,County Judge,,REP,Over Votes,0,0,0
-Castro,206,County Judge,,REP,Under Votes,14,11,3
-Castro,206,District and County Clerk,,DEM,JoAnna Blanco,35,27,8
+Castro,206,County Judge,,REP,Under Votes,14,3,11
+Castro,206,District and County Clerk,,DEM,JoAnna Blanco,35,8,27
 Castro,206,District and County Clerk,,DEM,Over Votes,0,0,0
-Castro,206,District and County Clerk,,DEM,Under Votes,47,12,35
-Castro,206,County Treasurer,,REP,Elaine D. Flynt,71,30,41
+Castro,206,District and County Clerk,,DEM,Under Votes,47,35,12
+Castro,206,County Treasurer,,REP,Elaine D. Flynt,71,41,30
 Castro,206,County Treasurer,,REP,Over Votes,0,0,0
-Castro,206,County Treasurer,,REP,Under Votes,11,9,2
-Castro,206,Justice of the Peace,,REP,Flip Taylor,54,18,36
+Castro,206,County Treasurer,,REP,Under Votes,11,2,9
+Castro,206,Justice of the Peace,,REP,Flip Taylor,54,36,18
 Castro,206,Justice of the Peace,,REP,Over Votes,0,0,0
-Castro,206,Justice of the Peace,,REP,Under Votes,3,0,3
-Castro,206,Justice of the Peace,,DEM,Mary Ewing,25,21,4
-Castro,206,"County Commissioner, Precinct 2",,REP,Landon Porsch,68,29,39
+Castro,206,Justice of the Peace,,REP,Under Votes,3,3,0
+Castro,206,Justice of the Peace,,DEM,Mary Ewing,25,4,21
+Castro,206,"County Commissioner, Precinct 2",,REP,Landon Porsch,68,39,29
 Castro,206,"County Commissioner, Precinct 2",,REP,Over Votes,0,0,0
-Castro,206,"County Commissioner, Precinct 2",,REP,Under Votes,3,0,3
-Castro,206,"County Commissioner, Precinct 2",,DEM,Tim Elliott,11,10,1
+Castro,206,"County Commissioner, Precinct 2",,REP,Under Votes,3,3,0
+Castro,206,"County Commissioner, Precinct 2",,DEM,Tim Elliott,11,1,10
 Castro,301,Registered Voters,,REP,,864,,
-Castro,301,Ballots Cast,,REP,,481,321,160
-Castro,301,Straight Party,,REP,Republican,111,62,49
+Castro,301,Ballots Cast,,REP,,481,160,321
+Castro,301,Straight Party,,REP,Republican,111,49,62
 Castro,301,Straight Party,,REP,Over Votes,0,0,0
-Castro,301,Straight Party,,REP,Under Votes,321,229,92
-Castro,301,Straight Party,,DEM,Democratic,47,29,18
+Castro,301,Straight Party,,REP,Under Votes,321,92,229
+Castro,301,Straight Party,,DEM,Democratic,47,18,29
 Castro,301,Straight Party,,LIB,Libertarian,2,1,1
-Castro,301,U.S. Senate,,REP,Ted Cruz,375,244,131
+Castro,301,U.S. Senate,,REP,Ted Cruz,375,131,244
 Castro,301,U.S. Senate,,REP,Over Votes,0,0,0
-Castro,301,U.S. Senate,,REP,Under Votes,9,7,2
-Castro,301,U.S. Senate,,DEM,Beto O'Rourke,93,70,23
-Castro,301,U.S. Senate,,LIB,Neal M. Dikerman,4,0,4
-Castro,301,U.S. House,19,REP,Jodey Arrington,397,262,135
+Castro,301,U.S. Senate,,REP,Under Votes,9,2,7
+Castro,301,U.S. Senate,,DEM,Beto O'Rourke,93,23,70
+Castro,301,U.S. Senate,,LIB,Neal M. Dikerman,4,4,0
+Castro,301,U.S. House,19,REP,Jodey Arrington,397,135,262
 Castro,301,U.S. House,19,REP,Over Votes,0,0,0
-Castro,301,U.S. House,19,REP,Under Votes,15,12,3
-Castro,301,U.S. House,19,DEM,Miguel Levario,69,47,22
-Castro,301,Governor,,REP,Greg Abbott,385,249,136
+Castro,301,U.S. House,19,REP,Under Votes,15,3,12
+Castro,301,U.S. House,19,DEM,Miguel Levario,69,22,47
+Castro,301,Governor,,REP,Greg Abbott,385,136,249
 Castro,301,Governor,,REP,Over Votes,0,0,0
-Castro,301,Governor,,REP,Under Votes,14,13,1
-Castro,301,Governor,,DEM,Lupe Valdez,71,52,19
-Castro,301,Governor,,LIB,Mark Jay Tippetts,11,7,4
-Castro,301,Lieutenant Governor,,REP,Dan Patrick,291,183,108
+Castro,301,Governor,,REP,Under Votes,14,1,13
+Castro,301,Governor,,DEM,Lupe Valdez,71,19,52
+Castro,301,Governor,,LIB,Mark Jay Tippetts,11,4,7
+Castro,301,Lieutenant Governor,,REP,Dan Patrick,291,108,183
 Castro,301,Lieutenant Governor,,REP,Over Votes,0,0,0
-Castro,301,Lieutenant Governor,,REP,Under Votes,14,11,3
-Castro,301,Lieutenant Governor,,DEM,Mike Collier,162,120,42
+Castro,301,Lieutenant Governor,,REP,Under Votes,14,3,11
+Castro,301,Lieutenant Governor,,DEM,Mike Collier,162,42,120
 Castro,301,Lieutenant Governor,,LIB,Kerry Douglas McKennon,14,7,7
-Castro,301,Attorney General,,REP,Ken Paxton,350,220,130
+Castro,301,Attorney General,,REP,Ken Paxton,350,130,220
 Castro,301,Attorney General,,REP,Over Votes,0,0,0
-Castro,301,Attorney General,,REP,Under Votes,14,13,1
-Castro,301,Attorney General,,DEM,Justin Nelson,110,83,27
-Castro,301,Attorney General,,LIB,Michael Ray Harris,7,5,2
-Castro,301,Comptroller of Public Accounts,,REP,Glenn Hegar,362,233,129
+Castro,301,Attorney General,,REP,Under Votes,14,1,13
+Castro,301,Attorney General,,DEM,Justin Nelson,110,27,83
+Castro,301,Attorney General,,LIB,Michael Ray Harris,7,2,5
+Castro,301,Comptroller of Public Accounts,,REP,Glenn Hegar,362,129,233
 Castro,301,Comptroller of Public Accounts,,REP,Over Votes,0,0,0
-Castro,301,Comptroller of Public Accounts,,REP,Under Votes,20,18,2
-Castro,301,Comptroller of Public Accounts,,DEM,Joi Chevalier,85,61,24
-Castro,301,Comptroller of Public Accounts,,LIB,Ben Sanders,14,9,5
-Castro,301,Commissioner of the General Land Office,,REP,George P. Bush,371,241,130
+Castro,301,Comptroller of Public Accounts,,REP,Under Votes,20,2,18
+Castro,301,Comptroller of Public Accounts,,DEM,Joi Chevalier,85,24,61
+Castro,301,Comptroller of Public Accounts,,LIB,Ben Sanders,14,5,9
+Castro,301,Commissioner of the General Land Office,,REP,George P. Bush,371,130,241
 Castro,301,Commissioner of the General Land Office,,REP,Over Votes,0,0,0
-Castro,301,Commissioner of the General Land Office,,REP,Under Votes,22,21,1
-Castro,301,Commissioner of the General Land Office,,DEM,Miguel Suazo,80,54,26
-Castro,301,Commissioner of the General Land Office,,LIB,Matt Pina,8,5,3
-Castro,301,Commissioner of Agriculture,,REP,Sid Miller,359,232,127
+Castro,301,Commissioner of the General Land Office,,REP,Under Votes,22,1,21
+Castro,301,Commissioner of the General Land Office,,DEM,Miguel Suazo,80,26,54
+Castro,301,Commissioner of the General Land Office,,LIB,Matt Pina,8,3,5
+Castro,301,Commissioner of Agriculture,,REP,Sid Miller,359,127,232
 Castro,301,Commissioner of Agriculture,,REP,Over Votes,0,0,0
-Castro,301,Commissioner of Agriculture,,REP,Under Votes,17,15,2
-Castro,301,Commissioner of Agriculture,,DEM,Kim Olson,93,66,27
-Castro,301,Commissioner of Agriculture,,LIB,Richard Carpenter,12,8,4
-Castro,301,Railroad Commissioner,,REP,Christi Craddick,373,242,131
+Castro,301,Commissioner of Agriculture,,REP,Under Votes,17,2,15
+Castro,301,Commissioner of Agriculture,,DEM,Kim Olson,93,27,66
+Castro,301,Commissioner of Agriculture,,LIB,Richard Carpenter,12,4,8
+Castro,301,Railroad Commissioner,,REP,Christi Craddick,373,131,242
 Castro,301,Railroad Commissioner,,REP,Over Votes,0,0,0
-Castro,301,Railroad Commissioner,,REP,Under Votes,19,18,1
-Castro,301,Railroad Commissioner,,DEM,Roman McAllen,80,56,24
-Castro,301,Railroad Commissioner,,LIB,Mike Wright,9,5,4
-Castro,301,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,371,242,129
+Castro,301,Railroad Commissioner,,REP,Under Votes,19,1,18
+Castro,301,Railroad Commissioner,,DEM,Roman McAllen,80,24,56
+Castro,301,Railroad Commissioner,,LIB,Mike Wright,9,4,5
+Castro,301,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,371,129,242
 Castro,301,"Justice, Supreme Court, Place 2",,REP,Over Votes,0,0,0
-Castro,301,"Justice, Supreme Court, Place 2",,REP,Under Votes,23,19,4
-Castro,301,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,87,60,27
-Castro,301,"Justice, Supreme Court, Place 4",,REP,John Devine,371,240,131
+Castro,301,"Justice, Supreme Court, Place 2",,REP,Under Votes,23,4,19
+Castro,301,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,87,27,60
+Castro,301,"Justice, Supreme Court, Place 4",,REP,John Devine,371,131,240
 Castro,301,"Justice, Supreme Court, Place 4",,REP,Over Votes,0,0,0
-Castro,301,"Justice, Supreme Court, Place 4",,REP,Under Votes,24,20,4
-Castro,301,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,86,61,25
-Castro,301,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,374,241,133
+Castro,301,"Justice, Supreme Court, Place 4",,REP,Under Votes,24,4,20
+Castro,301,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,86,25,61
+Castro,301,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,374,133,241
 Castro,301,"Justice, Supreme Court, Place 6",,REP,Over Votes,0,0,0
-Castro,301,"Justice, Supreme Court, Place 6",,REP,Under Votes,23,20,3
-Castro,301,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,84,60,24
-Castro,301,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,368,238,130
+Castro,301,"Justice, Supreme Court, Place 6",,REP,Under Votes,23,3,20
+Castro,301,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,84,24,60
+Castro,301,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,368,130,238
 Castro,301,"Presiding Judge, Court of Criminal Appeals",,REP,Over Votes,0,0,0
-Castro,301,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,23,21,2
-Castro,301,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,83,59,24
-Castro,301,"Presiding Judge, Court of Criminal Appeals",,LIB,"William Bryan Strange, III",7,3,4
-Castro,301,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,372,239,133
+Castro,301,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,23,2,21
+Castro,301,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,83,24,59
+Castro,301,"Presiding Judge, Court of Criminal Appeals",,LIB,"William Bryan Strange, III",7,4,3
+Castro,301,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,372,133,239
 Castro,301,"Judge, Court of Criminal Appeals, Place 7",,REP,Over Votes,0,0,0
-Castro,301,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,25,22,3
-Castro,301,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,84,60,24
-Castro,301,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,388,254,134
+Castro,301,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,25,3,22
+Castro,301,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,84,24,60
+Castro,301,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,388,134,254
 Castro,301,"Judge, Court of Criminal Appeals, Place 8",,REP,Over Votes,0,0,0
-Castro,301,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,65,47,18
-Castro,301,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,28,20,8
-Castro,301,State Senate,31,REP,Kel Seilger,406,269,137
+Castro,301,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,65,18,47
+Castro,301,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,28,8,20
+Castro,301,State Senate,31,REP,Kel Seilger,406,137,269
 Castro,301,State Senate,31,REP,Over Votes,0,0,0
-Castro,301,State Senate,31,REP,Under Votes,49,34,15
-Castro,301,State Senate,31,LIB,Jack B. Westbrook,26,18,8
-Castro,301,State Representative,88,REP,Ken King,396,262,134
+Castro,301,State Senate,31,REP,Under Votes,49,15,34
+Castro,301,State Senate,31,LIB,Jack B. Westbrook,26,8,18
+Castro,301,State Representative,88,REP,Ken King,396,134,262
 Castro,301,State Representative,88,REP,Over Votes,0,0,0
-Castro,301,State Representative,88,REP,Under Votes,9,8,1
-Castro,301,State Representative,88,DEM,Ezekiel Barron,76,51,25
-Castro,301,"Justice, 7th Court of Appeals District, Place 2",,REP,Judy Parker,389,250,139
+Castro,301,State Representative,88,REP,Under Votes,9,1,8
+Castro,301,State Representative,88,DEM,Ezekiel Barron,76,25,51
+Castro,301,"Justice, 7th Court of Appeals District, Place 2",,REP,Judy Parker,389,139,250
 Castro,301,"Justice, 7th Court of Appeals District, Place 2",,REP,Over Votes,0,0,0
-Castro,301,"Justice, 7th Court of Appeals District, Place 2",,REP,Under Votes,92,71,21
-Castro,301,"Justice, 7th Court of Appeals District, Place 3",,REP,Pat Pirtle,388,251,137
+Castro,301,"Justice, 7th Court of Appeals District, Place 2",,REP,Under Votes,92,21,71
+Castro,301,"Justice, 7th Court of Appeals District, Place 3",,REP,Pat Pirtle,388,137,251
 Castro,301,"Justice, 7th Court of Appeals District, Place 3",,REP,Over Votes,0,0,0
-Castro,301,"Justice, 7th Court of Appeals District, Place 3",,REP,Under Votes,93,70,23
-Castro,301,"District Judge, 64th Judicial District",,REP,Danah Zirpoli,388,252,136
+Castro,301,"Justice, 7th Court of Appeals District, Place 3",,REP,Under Votes,93,23,70
+Castro,301,"District Judge, 64th Judicial District",,REP,Danah Zirpoli,388,136,252
 Castro,301,"District Judge, 64th Judicial District",,REP,Over Votes,0,0,0
-Castro,301,"District Judge, 64th Judicial District",,REP,Under Votes,93,69,24
-Castro,301,"District Judge, 242nd Judicial District",,REP,Lowell Kregg Hukill,392,256,136
+Castro,301,"District Judge, 64th Judicial District",,REP,Under Votes,93,24,69
+Castro,301,"District Judge, 242nd Judicial District",,REP,Lowell Kregg Hukill,392,136,256
 Castro,301,"District Judge, 242nd Judicial District",,REP,Over Votes,0,0,0
-Castro,301,"District Judge, 242nd Judicial District",,REP,Under Votes,89,65,24
-Castro,301,County Judge,,REP,Carroll U. Gerber,390,257,133
+Castro,301,"District Judge, 242nd Judicial District",,REP,Under Votes,89,24,65
+Castro,301,County Judge,,REP,Carroll U. Gerber,390,133,257
 Castro,301,County Judge,,REP,Over Votes,0,0,0
-Castro,301,County Judge,,REP,Under Votes,91,64,27
-Castro,301,District and County Clerk,,DEM,JoAnna Blanco,308,213,95
+Castro,301,County Judge,,REP,Under Votes,91,27,64
+Castro,301,District and County Clerk,,DEM,JoAnna Blanco,308,95,213
 Castro,301,District and County Clerk,,DEM,Over Votes,0,0,0
-Castro,301,District and County Clerk,,DEM,Under Votes,173,108,65
-Castro,301,County Treasurer,,REP,Elaine D. Flynt,404,266,138
+Castro,301,District and County Clerk,,DEM,Under Votes,173,65,108
+Castro,301,County Treasurer,,REP,Elaine D. Flynt,404,138,266
 Castro,301,County Treasurer,,REP,Over Votes,0,0,0
-Castro,301,County Treasurer,,REP,Under Votes,77,55,22
-Castro,301,Justice of the Peace,,REP,Flip Taylor,238,147,91
+Castro,301,County Treasurer,,REP,Under Votes,77,22,55
+Castro,301,Justice of the Peace,,REP,Flip Taylor,238,91,147
 Castro,301,Justice of the Peace,,REP,Over Votes,0,0,0
-Castro,301,Justice of the Peace,,REP,Under Votes,11,9,2
-Castro,301,Justice of the Peace,,DEM,Mary Ewing,232,165,67
+Castro,301,Justice of the Peace,,REP,Under Votes,11,2,9
+Castro,301,Justice of the Peace,,DEM,Mary Ewing,232,67,165
 Castro,307,Registered Voters,,REP,,140,,
-Castro,307,Ballots Cast,,REP,,46,26,20
-Castro,307,Straight Party,,REP,Republican,15,8,7
+Castro,307,Ballots Cast,,REP,,46,20,26
+Castro,307,Straight Party,,REP,Republican,15,7,8
 Castro,307,Straight Party,,REP,Over Votes,0,0,0
-Castro,307,Straight Party,,REP,Under Votes,25,14,11
-Castro,307,Straight Party,,DEM,Democratic,6,4,2
+Castro,307,Straight Party,,REP,Under Votes,25,11,14
+Castro,307,Straight Party,,DEM,Democratic,6,2,4
 Castro,307,Straight Party,,LIB,Libertarian,0,0,0
-Castro,307,U.S. Senate,,REP,Ted Cruz,38,21,17
+Castro,307,U.S. Senate,,REP,Ted Cruz,38,17,21
 Castro,307,U.S. Senate,,REP,Over Votes,0,0,0
-Castro,307,U.S. Senate,,REP,Under Votes,2,2,0
+Castro,307,U.S. Senate,,REP,Under Votes,2,0,2
 Castro,307,U.S. Senate,,DEM,Beto O'Rourke,6,3,3
 Castro,307,U.S. Senate,,LIB,Neal M. Dikerman,0,0,0
-Castro,307,U.S. House,19,REP,Jodey Arrington,36,20,16
+Castro,307,U.S. House,19,REP,Jodey Arrington,36,16,20
 Castro,307,U.S. House,19,REP,Over Votes,0,0,0
-Castro,307,U.S. House,19,REP,Under Votes,1,1,0
-Castro,307,U.S. House,19,DEM,Miguel Levario,9,5,4
-Castro,307,Governor,,REP,Greg Abbott,38,22,16
+Castro,307,U.S. House,19,REP,Under Votes,1,0,1
+Castro,307,U.S. House,19,DEM,Miguel Levario,9,4,5
+Castro,307,Governor,,REP,Greg Abbott,38,16,22
 Castro,307,Governor,,REP,Over Votes,0,0,0
-Castro,307,Governor,,REP,Under Votes,1,1,0
-Castro,307,Governor,,DEM,Lupe Valdez,7,3,4
+Castro,307,Governor,,REP,Under Votes,1,0,1
+Castro,307,Governor,,DEM,Lupe Valdez,7,4,3
 Castro,307,Governor,,LIB,Mark Jay Tippetts,0,0,0
-Castro,307,Lieutenant Governor,,REP,Dan Patrick,30,17,13
+Castro,307,Lieutenant Governor,,REP,Dan Patrick,30,13,17
 Castro,307,Lieutenant Governor,,REP,Over Votes,0,0,0
-Castro,307,Lieutenant Governor,,REP,Under Votes,2,2,0
-Castro,307,Lieutenant Governor,,DEM,Mike Collier,12,5,7
-Castro,307,Lieutenant Governor,,LIB,Kerry Douglas McKennon,2,2,0
-Castro,307,Attorney General,,REP,Ken Paxton,35,19,16
+Castro,307,Lieutenant Governor,,REP,Under Votes,2,0,2
+Castro,307,Lieutenant Governor,,DEM,Mike Collier,12,7,5
+Castro,307,Lieutenant Governor,,LIB,Kerry Douglas McKennon,2,0,2
+Castro,307,Attorney General,,REP,Ken Paxton,35,16,19
 Castro,307,Attorney General,,REP,Over Votes,0,0,0
-Castro,307,Attorney General,,REP,Under Votes,2,2,0
+Castro,307,Attorney General,,REP,Under Votes,2,0,2
 Castro,307,Attorney General,,DEM,Justin Nelson,8,4,4
-Castro,307,Attorney General,,LIB,Michael Ray Harris,1,1,0
-Castro,307,Comptroller of Public Accounts,,REP,Glenn Hegar,38,21,17
+Castro,307,Attorney General,,LIB,Michael Ray Harris,1,0,1
+Castro,307,Comptroller of Public Accounts,,REP,Glenn Hegar,38,17,21
 Castro,307,Comptroller of Public Accounts,,REP,Over Votes,0,0,0
-Castro,307,Comptroller of Public Accounts,,REP,Under Votes,1,1,0
-Castro,307,Comptroller of Public Accounts,,DEM,Joi Chevalier,6,4,2
-Castro,307,Comptroller of Public Accounts,,LIB,Ben Sanders,1,0,1
-Castro,307,Commissioner of the General Land Office,,REP,George P. Bush,31,16,15
+Castro,307,Comptroller of Public Accounts,,REP,Under Votes,1,0,1
+Castro,307,Comptroller of Public Accounts,,DEM,Joi Chevalier,6,2,4
+Castro,307,Comptroller of Public Accounts,,LIB,Ben Sanders,1,1,0
+Castro,307,Commissioner of the General Land Office,,REP,George P. Bush,31,15,16
 Castro,307,Commissioner of the General Land Office,,REP,Over Votes,0,0,0
-Castro,307,Commissioner of the General Land Office,,REP,Under Votes,4,4,0
-Castro,307,Commissioner of the General Land Office,,DEM,Miguel Suazo,9,5,4
+Castro,307,Commissioner of the General Land Office,,REP,Under Votes,4,0,4
+Castro,307,Commissioner of the General Land Office,,DEM,Miguel Suazo,9,4,5
 Castro,307,Commissioner of the General Land Office,,LIB,Matt Pina,2,1,1
-Castro,307,Commissioner of Agriculture,,REP,Sid Miller,35,20,15
+Castro,307,Commissioner of Agriculture,,REP,Sid Miller,35,15,20
 Castro,307,Commissioner of Agriculture,,REP,Over Votes,0,0,0
 Castro,307,Commissioner of Agriculture,,REP,Under Votes,0,0,0
-Castro,307,Commissioner of Agriculture,,DEM,Kim Olson,11,6,5
+Castro,307,Commissioner of Agriculture,,DEM,Kim Olson,11,5,6
 Castro,307,Commissioner of Agriculture,,LIB,Richard Carpenter,0,0,0
-Castro,307,Railroad Commissioner,,REP,Christi Craddick,38,21,17
+Castro,307,Railroad Commissioner,,REP,Christi Craddick,38,17,21
 Castro,307,Railroad Commissioner,,REP,Over Votes,0,0,0
 Castro,307,Railroad Commissioner,,REP,Under Votes,0,0,0
-Castro,307,Railroad Commissioner,,DEM,Roman McAllen,8,5,3
+Castro,307,Railroad Commissioner,,DEM,Roman McAllen,8,3,5
 Castro,307,Railroad Commissioner,,LIB,Mike Wright,0,0,0
-Castro,307,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,38,20,18
+Castro,307,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,38,18,20
 Castro,307,"Justice, Supreme Court, Place 2",,REP,Over Votes,0,0,0
 Castro,307,"Justice, Supreme Court, Place 2",,REP,Under Votes,0,0,0
-Castro,307,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,8,6,2
-Castro,307,"Justice, Supreme Court, Place 4",,REP,John Devine,40,22,18
+Castro,307,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,8,2,6
+Castro,307,"Justice, Supreme Court, Place 4",,REP,John Devine,40,18,22
 Castro,307,"Justice, Supreme Court, Place 4",,REP,Over Votes,0,0,0
 Castro,307,"Justice, Supreme Court, Place 4",,REP,Under Votes,0,0,0
-Castro,307,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,6,4,2
-Castro,307,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,39,21,18
+Castro,307,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,6,2,4
+Castro,307,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,39,18,21
 Castro,307,"Justice, Supreme Court, Place 6",,REP,Over Votes,0,0,0
-Castro,307,"Justice, Supreme Court, Place 6",,REP,Under Votes,1,1,0
-Castro,307,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,6,4,2
-Castro,307,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,37,20,17
+Castro,307,"Justice, Supreme Court, Place 6",,REP,Under Votes,1,0,1
+Castro,307,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,6,2,4
+Castro,307,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,37,17,20
 Castro,307,"Presiding Judge, Court of Criminal Appeals",,REP,Over Votes,0,0,0
-Castro,307,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,1,1,0
-Castro,307,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,7,5,2
-Castro,307,"Presiding Judge, Court of Criminal Appeals",,LIB,"William Bryan Strange, III",1,0,1
-Castro,307,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,39,21,18
+Castro,307,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,1,0,1
+Castro,307,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,7,2,5
+Castro,307,"Presiding Judge, Court of Criminal Appeals",,LIB,"William Bryan Strange, III",1,1,0
+Castro,307,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,39,18,21
 Castro,307,"Judge, Court of Criminal Appeals, Place 7",,REP,Over Votes,0,0,0
 Castro,307,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,0,0,0
-Castro,307,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,7,5,2
-Castro,307,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,39,21,18
+Castro,307,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,7,2,5
+Castro,307,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,39,18,21
 Castro,307,"Judge, Court of Criminal Appeals, Place 8",,REP,Over Votes,0,0,0
-Castro,307,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,7,5,2
+Castro,307,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,7,2,5
 Castro,307,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,0,0,0
-Castro,307,State Senate,31,REP,Kel Seilger,40,22,18
+Castro,307,State Senate,31,REP,Kel Seilger,40,18,22
 Castro,307,State Senate,31,REP,Over Votes,0,0,0
-Castro,307,State Senate,31,REP,Under Votes,6,4,2
+Castro,307,State Senate,31,REP,Under Votes,6,2,4
 Castro,307,State Senate,31,LIB,Jack B. Westbrook,0,0,0
-Castro,307,State Representative,88,REP,Ken King,38,20,18
+Castro,307,State Representative,88,REP,Ken King,38,18,20
 Castro,307,State Representative,88,REP,Over Votes,0,0,0
 Castro,307,State Representative,88,REP,Under Votes,0,0,0
-Castro,307,State Representative,88,DEM,Ezekiel Barron,8,6,2
-Castro,307,"Justice, 7th Court of Appeals District, Place 2",,REP,Judy Parker,40,22,18
+Castro,307,State Representative,88,DEM,Ezekiel Barron,8,2,6
+Castro,307,"Justice, 7th Court of Appeals District, Place 2",,REP,Judy Parker,40,18,22
 Castro,307,"Justice, 7th Court of Appeals District, Place 2",,REP,Over Votes,0,0,0
-Castro,307,"Justice, 7th Court of Appeals District, Place 2",,REP,Under Votes,6,4,2
-Castro,307,"Justice, 7th Court of Appeals District, Place 3",,REP,Pat Pirtle,39,21,18
+Castro,307,"Justice, 7th Court of Appeals District, Place 2",,REP,Under Votes,6,2,4
+Castro,307,"Justice, 7th Court of Appeals District, Place 3",,REP,Pat Pirtle,39,18,21
 Castro,307,"Justice, 7th Court of Appeals District, Place 3",,REP,Over Votes,0,0,0
-Castro,307,"Justice, 7th Court of Appeals District, Place 3",,REP,Under Votes,7,5,2
-Castro,307,"District Judge, 64th Judicial District",,REP,Danah Zirpoli,39,21,18
+Castro,307,"Justice, 7th Court of Appeals District, Place 3",,REP,Under Votes,7,2,5
+Castro,307,"District Judge, 64th Judicial District",,REP,Danah Zirpoli,39,18,21
 Castro,307,"District Judge, 64th Judicial District",,REP,Over Votes,0,0,0
-Castro,307,"District Judge, 64th Judicial District",,REP,Under Votes,7,5,2
-Castro,307,"District Judge, 242nd Judicial District",,REP,Lowell Kregg Hukill,39,21,18
+Castro,307,"District Judge, 64th Judicial District",,REP,Under Votes,7,2,5
+Castro,307,"District Judge, 242nd Judicial District",,REP,Lowell Kregg Hukill,39,18,21
 Castro,307,"District Judge, 242nd Judicial District",,REP,Over Votes,0,0,0
-Castro,307,"District Judge, 242nd Judicial District",,REP,Under Votes,7,5,2
+Castro,307,"District Judge, 242nd Judicial District",,REP,Under Votes,7,2,5
 Castro,307,County Judge,,REP,Carroll U. Gerber,34,17,17
 Castro,307,County Judge,,REP,Over Votes,0,0,0
-Castro,307,County Judge,,REP,Under Votes,12,9,3
-Castro,307,District and County Clerk,,DEM,JoAnna Blanco,27,14,13
+Castro,307,County Judge,,REP,Under Votes,12,3,9
+Castro,307,District and County Clerk,,DEM,JoAnna Blanco,27,13,14
 Castro,307,District and County Clerk,,DEM,Over Votes,0,0,0
-Castro,307,District and County Clerk,,DEM,Under Votes,19,12,7
-Castro,307,County Treasurer,,REP,Elaine D. Flynt,39,21,18
+Castro,307,District and County Clerk,,DEM,Under Votes,19,7,12
+Castro,307,County Treasurer,,REP,Elaine D. Flynt,39,18,21
 Castro,307,County Treasurer,,REP,Over Votes,0,0,0
-Castro,307,County Treasurer,,REP,Under Votes,7,5,2
+Castro,307,County Treasurer,,REP,Under Votes,7,2,5
 Castro,307,Justice of the Peace,,REP,Flip Taylor,30,15,15
 Castro,307,Justice of the Peace,,REP,Over Votes,0,0,0
 Castro,307,Justice of the Peace,,REP,Under Votes,0,0,0
-Castro,307,Justice of the Peace,,DEM,Mary Ewing,16,11,5
+Castro,307,Justice of the Peace,,DEM,Mary Ewing,16,5,11
 Castro,307HISD,Registered Voters,,REP,,60,,
-Castro,307HISD,Ballots Cast,,REP,,38,21,17
-Castro,307HISD,Straight Party,,REP,Republican,27,13,14
+Castro,307HISD,Ballots Cast,,REP,,38,17,21
+Castro,307HISD,Straight Party,,REP,Republican,27,14,13
 Castro,307HISD,Straight Party,,REP,Over Votes,0,0,0
-Castro,307HISD,Straight Party,,REP,Under Votes,10,7,3
-Castro,307HISD,Straight Party,,DEM,Democratic,1,1,0
+Castro,307HISD,Straight Party,,REP,Under Votes,10,3,7
+Castro,307HISD,Straight Party,,DEM,Democratic,1,0,1
 Castro,307HISD,Straight Party,,LIB,Libertarian,0,0,0
-Castro,307HISD,U.S. Senate,,REP,Ted Cruz,37,20,17
+Castro,307HISD,U.S. Senate,,REP,Ted Cruz,37,17,20
 Castro,307HISD,U.S. Senate,,REP,Over Votes,0,0,0
 Castro,307HISD,U.S. Senate,,REP,Under Votes,0,0,0
-Castro,307HISD,U.S. Senate,,DEM,Beto O'Rourke,1,1,0
+Castro,307HISD,U.S. Senate,,DEM,Beto O'Rourke,1,0,1
 Castro,307HISD,U.S. Senate,,LIB,Neal M. Dikerman,0,0,0
-Castro,307HISD,U.S. House,19,REP,Jodey Arrington,37,20,17
+Castro,307HISD,U.S. House,19,REP,Jodey Arrington,37,17,20
 Castro,307HISD,U.S. House,19,REP,Over Votes,0,0,0
 Castro,307HISD,U.S. House,19,REP,Under Votes,0,0,0
-Castro,307HISD,U.S. House,19,DEM,Miguel Levario,1,1,0
-Castro,307HISD,Governor,,REP,Greg Abbott,37,20,17
+Castro,307HISD,U.S. House,19,DEM,Miguel Levario,1,0,1
+Castro,307HISD,Governor,,REP,Greg Abbott,37,17,20
 Castro,307HISD,Governor,,REP,Over Votes,0,0,0
 Castro,307HISD,Governor,,REP,Under Votes,0,0,0
-Castro,307HISD,Governor,,DEM,Lupe Valdez,1,1,0
+Castro,307HISD,Governor,,DEM,Lupe Valdez,1,0,1
 Castro,307HISD,Governor,,LIB,Mark Jay Tippetts,0,0,0
-Castro,307HISD,Lieutenant Governor,,REP,Dan Patrick,36,20,16
+Castro,307HISD,Lieutenant Governor,,REP,Dan Patrick,36,16,20
 Castro,307HISD,Lieutenant Governor,,REP,Over Votes,0,0,0
 Castro,307HISD,Lieutenant Governor,,REP,Under Votes,0,0,0
-Castro,307HISD,Lieutenant Governor,,DEM,Mike Collier,1,1,0
-Castro,307HISD,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,0,1
-Castro,307HISD,Attorney General,,REP,Ken Paxton,36,20,16
+Castro,307HISD,Lieutenant Governor,,DEM,Mike Collier,1,0,1
+Castro,307HISD,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,1,0
+Castro,307HISD,Attorney General,,REP,Ken Paxton,36,16,20
 Castro,307HISD,Attorney General,,REP,Over Votes,0,0,0
 Castro,307HISD,Attorney General,,REP,Under Votes,0,0,0
-Castro,307HISD,Attorney General,,DEM,Justin Nelson,1,1,0
-Castro,307HISD,Attorney General,,LIB,Michael Ray Harris,1,0,1
-Castro,307HISD,Comptroller of Public Accounts,,REP,Glenn Hegar,35,19,16
+Castro,307HISD,Attorney General,,DEM,Justin Nelson,1,0,1
+Castro,307HISD,Attorney General,,LIB,Michael Ray Harris,1,1,0
+Castro,307HISD,Comptroller of Public Accounts,,REP,Glenn Hegar,35,16,19
 Castro,307HISD,Comptroller of Public Accounts,,REP,Over Votes,0,0,0
-Castro,307HISD,Comptroller of Public Accounts,,REP,Under Votes,1,1,0
-Castro,307HISD,Comptroller of Public Accounts,,DEM,Joi Chevalier,1,1,0
-Castro,307HISD,Comptroller of Public Accounts,,LIB,Ben Sanders,1,0,1
-Castro,307HISD,Commissioner of the General Land Office,,REP,George P. Bush,36,19,17
+Castro,307HISD,Comptroller of Public Accounts,,REP,Under Votes,1,0,1
+Castro,307HISD,Comptroller of Public Accounts,,DEM,Joi Chevalier,1,0,1
+Castro,307HISD,Comptroller of Public Accounts,,LIB,Ben Sanders,1,1,0
+Castro,307HISD,Commissioner of the General Land Office,,REP,George P. Bush,36,17,19
 Castro,307HISD,Commissioner of the General Land Office,,REP,Over Votes,0,0,0
-Castro,307HISD,Commissioner of the General Land Office,,REP,Under Votes,1,1,0
-Castro,307HISD,Commissioner of the General Land Office,,DEM,Miguel Suazo,1,1,0
+Castro,307HISD,Commissioner of the General Land Office,,REP,Under Votes,1,0,1
+Castro,307HISD,Commissioner of the General Land Office,,DEM,Miguel Suazo,1,0,1
 Castro,307HISD,Commissioner of the General Land Office,,LIB,Matt Pina,0,0,0
-Castro,307HISD,Commissioner of Agriculture,,REP,Sid Miller,34,18,16
+Castro,307HISD,Commissioner of Agriculture,,REP,Sid Miller,34,16,18
 Castro,307HISD,Commissioner of Agriculture,,REP,Over Votes,0,0,0
-Castro,307HISD,Commissioner of Agriculture,,REP,Under Votes,2,2,0
-Castro,307HISD,Commissioner of Agriculture,,DEM,Kim Olson,1,1,0
-Castro,307HISD,Commissioner of Agriculture,,LIB,Richard Carpenter,1,0,1
-Castro,307HISD,Railroad Commissioner,,REP,Christi Craddick,37,20,17
+Castro,307HISD,Commissioner of Agriculture,,REP,Under Votes,2,0,2
+Castro,307HISD,Commissioner of Agriculture,,DEM,Kim Olson,1,0,1
+Castro,307HISD,Commissioner of Agriculture,,LIB,Richard Carpenter,1,1,0
+Castro,307HISD,Railroad Commissioner,,REP,Christi Craddick,37,17,20
 Castro,307HISD,Railroad Commissioner,,REP,Over Votes,0,0,0
 Castro,307HISD,Railroad Commissioner,,REP,Under Votes,0,0,0
-Castro,307HISD,Railroad Commissioner,,DEM,Roman McAllen,1,1,0
+Castro,307HISD,Railroad Commissioner,,DEM,Roman McAllen,1,0,1
 Castro,307HISD,Railroad Commissioner,,LIB,Mike Wright,0,0,0
-Castro,307HISD,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,36,19,17
+Castro,307HISD,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,36,17,19
 Castro,307HISD,"Justice, Supreme Court, Place 2",,REP,Over Votes,0,0,0
-Castro,307HISD,"Justice, Supreme Court, Place 2",,REP,Under Votes,1,1,0
-Castro,307HISD,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,1,1,0
-Castro,307HISD,"Justice, Supreme Court, Place 4",,REP,John Devine,36,19,17
+Castro,307HISD,"Justice, Supreme Court, Place 2",,REP,Under Votes,1,0,1
+Castro,307HISD,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,1,0,1
+Castro,307HISD,"Justice, Supreme Court, Place 4",,REP,John Devine,36,17,19
 Castro,307HISD,"Justice, Supreme Court, Place 4",,REP,Over Votes,0,0,0
-Castro,307HISD,"Justice, Supreme Court, Place 4",,REP,Under Votes,1,1,0
-Castro,307HISD,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,1,1,0
-Castro,307HISD,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,36,19,17
+Castro,307HISD,"Justice, Supreme Court, Place 4",,REP,Under Votes,1,0,1
+Castro,307HISD,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,1,0,1
+Castro,307HISD,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,36,17,19
 Castro,307HISD,"Justice, Supreme Court, Place 6",,REP,Over Votes,0,0,0
-Castro,307HISD,"Justice, Supreme Court, Place 6",,REP,Under Votes,1,1,0
-Castro,307HISD,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,1,1,0
-Castro,307HISD,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,35,19,16
+Castro,307HISD,"Justice, Supreme Court, Place 6",,REP,Under Votes,1,0,1
+Castro,307HISD,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,1,0,1
+Castro,307HISD,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,35,16,19
 Castro,307HISD,"Presiding Judge, Court of Criminal Appeals",,REP,Over Votes,0,0,0
-Castro,307HISD,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,1,1,0
-Castro,307HISD,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,1,1,0
-Castro,307HISD,"Presiding Judge, Court of Criminal Appeals",,LIB,"William Bryan Strange, III",1,0,1
-Castro,307HISD,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,36,19,17
+Castro,307HISD,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,1,0,1
+Castro,307HISD,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,1,0,1
+Castro,307HISD,"Presiding Judge, Court of Criminal Appeals",,LIB,"William Bryan Strange, III",1,1,0
+Castro,307HISD,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,36,17,19
 Castro,307HISD,"Judge, Court of Criminal Appeals, Place 7",,REP,Over Votes,0,0,0
-Castro,307HISD,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,1,1,0
-Castro,307HISD,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,1,1,0
-Castro,307HISD,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,35,19,16
+Castro,307HISD,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,1,0,1
+Castro,307HISD,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,1,0,1
+Castro,307HISD,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,35,16,19
 Castro,307HISD,"Judge, Court of Criminal Appeals, Place 8",,REP,Over Votes,0,0,0
-Castro,307HISD,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,2,2,0
-Castro,307HISD,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,1,0,1
-Castro,307HISD,State Senate,31,REP,Kel Seilger,36,20,16
+Castro,307HISD,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,2,0,2
+Castro,307HISD,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,1,1,0
+Castro,307HISD,State Senate,31,REP,Kel Seilger,36,16,20
 Castro,307HISD,State Senate,31,REP,Over Votes,0,0,0
-Castro,307HISD,State Senate,31,REP,Under Votes,1,1,0
-Castro,307HISD,State Senate,31,LIB,Jack B. Westbrook,1,0,1
-Castro,307HISD,State Representative,88,REP,Ken King,37,20,17
+Castro,307HISD,State Senate,31,REP,Under Votes,1,0,1
+Castro,307HISD,State Senate,31,LIB,Jack B. Westbrook,1,1,0
+Castro,307HISD,State Representative,88,REP,Ken King,37,17,20
 Castro,307HISD,State Representative,88,REP,Over Votes,0,0,0
 Castro,307HISD,State Representative,88,REP,Under Votes,0,0,0
-Castro,307HISD,State Representative,88,DEM,Ezekiel Barron,1,1,0
-Castro,307HISD,"Justice, 7th Court of Appeals District, Place 2",,REP,Judy Parker,36,19,17
+Castro,307HISD,State Representative,88,DEM,Ezekiel Barron,1,0,1
+Castro,307HISD,"Justice, 7th Court of Appeals District, Place 2",,REP,Judy Parker,36,17,19
 Castro,307HISD,"Justice, 7th Court of Appeals District, Place 2",,REP,Over Votes,0,0,0
-Castro,307HISD,"Justice, 7th Court of Appeals District, Place 2",,REP,Under Votes,2,2,0
-Castro,307HISD,"Justice, 7th Court of Appeals District, Place 3",,REP,Pat Pirtle,36,19,17
+Castro,307HISD,"Justice, 7th Court of Appeals District, Place 2",,REP,Under Votes,2,0,2
+Castro,307HISD,"Justice, 7th Court of Appeals District, Place 3",,REP,Pat Pirtle,36,17,19
 Castro,307HISD,"Justice, 7th Court of Appeals District, Place 3",,REP,Over Votes,0,0,0
-Castro,307HISD,"Justice, 7th Court of Appeals District, Place 3",,REP,Under Votes,2,2,0
-Castro,307HISD,"District Judge, 64th Judicial District",,REP,Danah Zirpoli,36,19,17
+Castro,307HISD,"Justice, 7th Court of Appeals District, Place 3",,REP,Under Votes,2,0,2
+Castro,307HISD,"District Judge, 64th Judicial District",,REP,Danah Zirpoli,36,17,19
 Castro,307HISD,"District Judge, 64th Judicial District",,REP,Over Votes,0,0,0
-Castro,307HISD,"District Judge, 64th Judicial District",,REP,Under Votes,2,2,0
-Castro,307HISD,"District Judge, 242nd Judicial District",,REP,Lowell Kregg Hukill,36,19,17
+Castro,307HISD,"District Judge, 64th Judicial District",,REP,Under Votes,2,0,2
+Castro,307HISD,"District Judge, 242nd Judicial District",,REP,Lowell Kregg Hukill,36,17,19
 Castro,307HISD,"District Judge, 242nd Judicial District",,REP,Over Votes,0,0,0
-Castro,307HISD,"District Judge, 242nd Judicial District",,REP,Under Votes,2,2,0
-Castro,307HISD,County Judge,,REP,Carroll U. Gerber,36,19,17
+Castro,307HISD,"District Judge, 242nd Judicial District",,REP,Under Votes,2,0,2
+Castro,307HISD,County Judge,,REP,Carroll U. Gerber,36,17,19
 Castro,307HISD,County Judge,,REP,Over Votes,0,0,0
-Castro,307HISD,County Judge,,REP,Under Votes,2,2,0
-Castro,307HISD,District and County Clerk,,DEM,JoAnna Blanco,7,3,4
+Castro,307HISD,County Judge,,REP,Under Votes,2,0,2
+Castro,307HISD,District and County Clerk,,DEM,JoAnna Blanco,7,4,3
 Castro,307HISD,District and County Clerk,,DEM,Over Votes,0,0,0
-Castro,307HISD,District and County Clerk,,DEM,Under Votes,31,18,13
-Castro,307HISD,County Treasurer,,REP,Elaine D. Flynt,36,19,17
+Castro,307HISD,District and County Clerk,,DEM,Under Votes,31,13,18
+Castro,307HISD,County Treasurer,,REP,Elaine D. Flynt,36,17,19
 Castro,307HISD,County Treasurer,,REP,Over Votes,0,0,0
-Castro,307HISD,County Treasurer,,REP,Under Votes,2,2,0
-Castro,307HISD,Justice of the Peace,,REP,Flip Taylor,35,19,16
+Castro,307HISD,County Treasurer,,REP,Under Votes,2,0,2
+Castro,307HISD,Justice of the Peace,,REP,Flip Taylor,35,16,19
 Castro,307HISD,Justice of the Peace,,REP,Over Votes,0,0,0
-Castro,307HISD,Justice of the Peace,,REP,Under Votes,1,1,0
+Castro,307HISD,Justice of the Peace,,REP,Under Votes,1,0,1
 Castro,307HISD,Justice of the Peace,,DEM,Mary Ewing,2,1,1
-Castro,307HISD,Hereford ISD Proposition A,,,For,15,6,9
-Castro,307HISD,Hereford ISD Proposition A,,,Against,16,11,5
+Castro,307HISD,Hereford ISD Proposition A,,,For,15,9,6
+Castro,307HISD,Hereford ISD Proposition A,,,Against,16,5,11
 Castro,401,Registered Voters,,REP,,530,,
-Castro,401,Ballots Cast,,REP,,140,79,61
-Castro,401,Straight Party,,REP,Republican,35,24,11
+Castro,401,Ballots Cast,,REP,,140,61,79
+Castro,401,Straight Party,,REP,Republican,35,11,24
 Castro,401,Straight Party,,REP,Over Votes,0,0,0
-Castro,401,Straight Party,,REP,Under Votes,71,41,30
-Castro,401,Straight Party,,DEM,Democratic,31,13,18
-Castro,401,Straight Party,,LIB,Libertarian,3,1,2
-Castro,401,U.S. Senate,,REP,Ted Cruz,87,57,30
+Castro,401,Straight Party,,REP,Under Votes,71,30,41
+Castro,401,Straight Party,,DEM,Democratic,31,18,13
+Castro,401,Straight Party,,LIB,Libertarian,3,2,1
+Castro,401,U.S. Senate,,REP,Ted Cruz,87,30,57
 Castro,401,U.S. Senate,,REP,Over Votes,0,0,0
-Castro,401,U.S. Senate,,REP,Under Votes,5,3,2
-Castro,401,U.S. Senate,,DEM,Beto O'Rourke,47,19,28
-Castro,401,U.S. Senate,,LIB,Neal M. Dikerman,1,0,1
-Castro,401,U.S. House,19,REP,Jodey Arrington,85,54,31
+Castro,401,U.S. Senate,,REP,Under Votes,5,2,3
+Castro,401,U.S. Senate,,DEM,Beto O'Rourke,47,28,19
+Castro,401,U.S. Senate,,LIB,Neal M. Dikerman,1,1,0
+Castro,401,U.S. House,19,REP,Jodey Arrington,85,31,54
 Castro,401,U.S. House,19,REP,Over Votes,0,0,0
-Castro,401,U.S. House,19,REP,Under Votes,8,6,2
-Castro,401,U.S. House,19,DEM,Miguel Levario,47,19,28
-Castro,401,Governor,,REP,Greg Abbott,87,57,30
+Castro,401,U.S. House,19,REP,Under Votes,8,2,6
+Castro,401,U.S. House,19,DEM,Miguel Levario,47,28,19
+Castro,401,Governor,,REP,Greg Abbott,87,30,57
 Castro,401,Governor,,REP,Over Votes,0,0,0
-Castro,401,Governor,,REP,Under Votes,6,4,2
-Castro,401,Governor,,DEM,Lupe Valdez,46,17,29
-Castro,401,Governor,,LIB,Mark Jay Tippetts,1,1,0
-Castro,401,Lieutenant Governor,,REP,Dan Patrick,75,45,30
+Castro,401,Governor,,REP,Under Votes,6,2,4
+Castro,401,Governor,,DEM,Lupe Valdez,46,29,17
+Castro,401,Governor,,LIB,Mark Jay Tippetts,1,0,1
+Castro,401,Lieutenant Governor,,REP,Dan Patrick,75,30,45
 Castro,401,Lieutenant Governor,,REP,Over Votes,0,0,0
-Castro,401,Lieutenant Governor,,REP,Under Votes,7,6,1
+Castro,401,Lieutenant Governor,,REP,Under Votes,7,1,6
 Castro,401,Lieutenant Governor,,DEM,Mike Collier,56,28,28
-Castro,401,Lieutenant Governor,,LIB,Kerry Douglas McKennon,2,0,2
-Castro,401,Attorney General,,REP,Ken Paxton,79,49,30
+Castro,401,Lieutenant Governor,,LIB,Kerry Douglas McKennon,2,2,0
+Castro,401,Attorney General,,REP,Ken Paxton,79,30,49
 Castro,401,Attorney General,,REP,Over Votes,0,0,0
-Castro,401,Attorney General,,REP,Under Votes,6,5,1
-Castro,401,Attorney General,,DEM,Justin Nelson,52,24,28
-Castro,401,Attorney General,,LIB,Michael Ray Harris,3,1,2
-Castro,401,Comptroller of Public Accounts,,REP,Glenn Hegar,80,53,27
+Castro,401,Attorney General,,REP,Under Votes,6,1,5
+Castro,401,Attorney General,,DEM,Justin Nelson,52,28,24
+Castro,401,Attorney General,,LIB,Michael Ray Harris,3,2,1
+Castro,401,Comptroller of Public Accounts,,REP,Glenn Hegar,80,27,53
 Castro,401,Comptroller of Public Accounts,,REP,Over Votes,0,0,0
-Castro,401,Comptroller of Public Accounts,,REP,Under Votes,6,4,2
-Castro,401,Comptroller of Public Accounts,,DEM,Joi Chevalier,45,19,26
-Castro,401,Comptroller of Public Accounts,,LIB,Ben Sanders,9,3,6
-Castro,401,Commissioner of the General Land Office,,REP,George P. Bush,82,55,27
+Castro,401,Comptroller of Public Accounts,,REP,Under Votes,6,2,4
+Castro,401,Comptroller of Public Accounts,,DEM,Joi Chevalier,45,26,19
+Castro,401,Comptroller of Public Accounts,,LIB,Ben Sanders,9,6,3
+Castro,401,Commissioner of the General Land Office,,REP,George P. Bush,82,27,55
 Castro,401,Commissioner of the General Land Office,,REP,Over Votes,0,0,0
 Castro,401,Commissioner of the General Land Office,,REP,Under Votes,6,3,3
-Castro,401,Commissioner of the General Land Office,,DEM,Miguel Suazo,48,19,29
+Castro,401,Commissioner of the General Land Office,,DEM,Miguel Suazo,48,29,19
 Castro,401,Commissioner of the General Land Office,,LIB,Matt Pina,4,2,2
-Castro,401,Commissioner of Agriculture,,REP,Sid Miller,78,52,26
+Castro,401,Commissioner of Agriculture,,REP,Sid Miller,78,26,52
 Castro,401,Commissioner of Agriculture,,REP,Over Votes,0,0,0
-Castro,401,Commissioner of Agriculture,,REP,Under Votes,6,4,2
-Castro,401,Commissioner of Agriculture,,DEM,Kim Olson,49,20,29
-Castro,401,Commissioner of Agriculture,,LIB,Richard Carpenter,7,3,4
-Castro,401,Railroad Commissioner,,REP,Christi Craddick,80,51,29
+Castro,401,Commissioner of Agriculture,,REP,Under Votes,6,2,4
+Castro,401,Commissioner of Agriculture,,DEM,Kim Olson,49,29,20
+Castro,401,Commissioner of Agriculture,,LIB,Richard Carpenter,7,4,3
+Castro,401,Railroad Commissioner,,REP,Christi Craddick,80,29,51
 Castro,401,Railroad Commissioner,,REP,Over Votes,0,0,0
-Castro,401,Railroad Commissioner,,REP,Under Votes,9,6,3
-Castro,401,Railroad Commissioner,,DEM,Roman McAllen,46,20,26
-Castro,401,Railroad Commissioner,,LIB,Mike Wright,5,2,3
-Castro,401,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,78,51,27
+Castro,401,Railroad Commissioner,,REP,Under Votes,9,3,6
+Castro,401,Railroad Commissioner,,DEM,Roman McAllen,46,26,20
+Castro,401,Railroad Commissioner,,LIB,Mike Wright,5,3,2
+Castro,401,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,78,27,51
 Castro,401,"Justice, Supreme Court, Place 2",,REP,Over Votes,0,0,0
-Castro,401,"Justice, Supreme Court, Place 2",,REP,Under Votes,7,6,1
-Castro,401,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,55,22,33
-Castro,401,"Justice, Supreme Court, Place 4",,REP,John Devine,82,53,29
+Castro,401,"Justice, Supreme Court, Place 2",,REP,Under Votes,7,1,6
+Castro,401,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,55,33,22
+Castro,401,"Justice, Supreme Court, Place 4",,REP,John Devine,82,29,53
 Castro,401,"Justice, Supreme Court, Place 4",,REP,Over Votes,0,0,0
-Castro,401,"Justice, Supreme Court, Place 4",,REP,Under Votes,8,6,2
-Castro,401,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,50,20,30
-Castro,401,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,80,53,27
+Castro,401,"Justice, Supreme Court, Place 4",,REP,Under Votes,8,2,6
+Castro,401,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,50,30,20
+Castro,401,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,80,27,53
 Castro,401,"Justice, Supreme Court, Place 6",,REP,Over Votes,0,0,0
-Castro,401,"Justice, Supreme Court, Place 6",,REP,Under Votes,7,5,2
-Castro,401,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,53,21,32
-Castro,401,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,80,56,24
+Castro,401,"Justice, Supreme Court, Place 6",,REP,Under Votes,7,2,5
+Castro,401,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,53,32,21
+Castro,401,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,80,24,56
 Castro,401,"Presiding Judge, Court of Criminal Appeals",,REP,Over Votes,0,0,0
-Castro,401,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,6,4,2
-Castro,401,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,53,19,34
-Castro,401,"Presiding Judge, Court of Criminal Appeals",,LIB,"William Bryan Strange, III",1,0,1
-Castro,401,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,81,54,27
+Castro,401,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,6,2,4
+Castro,401,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,53,34,19
+Castro,401,"Presiding Judge, Court of Criminal Appeals",,LIB,"William Bryan Strange, III",1,1,0
+Castro,401,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,81,27,54
 Castro,401,"Judge, Court of Criminal Appeals, Place 7",,REP,Over Votes,0,0,0
-Castro,401,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,9,5,4
-Castro,401,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,50,20,30
-Castro,401,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,95,57,38
+Castro,401,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,9,4,5
+Castro,401,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,50,30,20
+Castro,401,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,95,38,57
 Castro,401,"Judge, Court of Criminal Appeals, Place 8",,REP,Over Votes,0,0,0
-Castro,401,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,34,18,16
-Castro,401,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,11,4,7
-Castro,401,State Senate,31,REP,Kel Seilger,100,60,40
+Castro,401,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,34,16,18
+Castro,401,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,11,7,4
+Castro,401,State Senate,31,REP,Kel Seilger,100,40,60
 Castro,401,State Senate,31,REP,Over Votes,0,0,0
-Castro,401,State Senate,31,REP,Under Votes,31,16,15
-Castro,401,State Senate,31,LIB,Jack B. Westbrook,9,3,6
-Castro,401,State Representative,88,REP,Ken King,85,54,31
+Castro,401,State Senate,31,REP,Under Votes,31,15,16
+Castro,401,State Senate,31,LIB,Jack B. Westbrook,9,6,3
+Castro,401,State Representative,88,REP,Ken King,85,31,54
 Castro,401,State Representative,88,REP,Over Votes,0,0,0
-Castro,401,State Representative,88,REP,Under Votes,5,4,1
-Castro,401,State Representative,88,DEM,Ezekiel Barron,50,21,29
-Castro,401,"Justice, 7th Court of Appeals District, Place 2",,REP,Judy Parker,98,61,37
+Castro,401,State Representative,88,REP,Under Votes,5,1,4
+Castro,401,State Representative,88,DEM,Ezekiel Barron,50,29,21
+Castro,401,"Justice, 7th Court of Appeals District, Place 2",,REP,Judy Parker,98,37,61
 Castro,401,"Justice, 7th Court of Appeals District, Place 2",,REP,Over Votes,0,0,0
-Castro,401,"Justice, 7th Court of Appeals District, Place 2",,REP,Under Votes,42,18,24
-Castro,401,"Justice, 7th Court of Appeals District, Place 3",,REP,Pat Pirtle,96,59,37
+Castro,401,"Justice, 7th Court of Appeals District, Place 2",,REP,Under Votes,42,24,18
+Castro,401,"Justice, 7th Court of Appeals District, Place 3",,REP,Pat Pirtle,96,37,59
 Castro,401,"Justice, 7th Court of Appeals District, Place 3",,REP,Over Votes,0,0,0
-Castro,401,"Justice, 7th Court of Appeals District, Place 3",,REP,Under Votes,44,20,24
-Castro,401,"District Judge, 64th Judicial District",,REP,Danah Zirpoli,96,58,38
+Castro,401,"Justice, 7th Court of Appeals District, Place 3",,REP,Under Votes,44,24,20
+Castro,401,"District Judge, 64th Judicial District",,REP,Danah Zirpoli,96,38,58
 Castro,401,"District Judge, 64th Judicial District",,REP,Over Votes,0,0,0
-Castro,401,"District Judge, 64th Judicial District",,REP,Under Votes,44,21,23
-Castro,401,"District Judge, 242nd Judicial District",,REP,Lowell Kregg Hukill,99,60,39
+Castro,401,"District Judge, 64th Judicial District",,REP,Under Votes,44,23,21
+Castro,401,"District Judge, 242nd Judicial District",,REP,Lowell Kregg Hukill,99,39,60
 Castro,401,"District Judge, 242nd Judicial District",,REP,Over Votes,0,0,0
-Castro,401,"District Judge, 242nd Judicial District",,REP,Under Votes,41,19,22
-Castro,401,County Judge,,REP,Carroll U. Gerber,96,58,38
+Castro,401,"District Judge, 242nd Judicial District",,REP,Under Votes,41,22,19
+Castro,401,County Judge,,REP,Carroll U. Gerber,96,38,58
 Castro,401,County Judge,,REP,Over Votes,0,0,0
-Castro,401,County Judge,,REP,Under Votes,44,21,23
-Castro,401,District and County Clerk,,DEM,JoAnna Blanco,101,50,51
+Castro,401,County Judge,,REP,Under Votes,44,23,21
+Castro,401,District and County Clerk,,DEM,JoAnna Blanco,101,51,50
 Castro,401,District and County Clerk,,DEM,Over Votes,0,0,0
-Castro,401,District and County Clerk,,DEM,Under Votes,39,29,10
-Castro,401,County Treasurer,,REP,Elaine D. Flynt,98,58,40
+Castro,401,District and County Clerk,,DEM,Under Votes,39,10,29
+Castro,401,County Treasurer,,REP,Elaine D. Flynt,98,40,58
 Castro,401,County Treasurer,,REP,Over Votes,0,0,0
 Castro,401,County Treasurer,,REP,Under Votes,42,21,21
-Castro,401,Justice of the Peace,,REP,Flip Taylor,54,32,22
+Castro,401,Justice of the Peace,,REP,Flip Taylor,54,22,32
 Castro,401,Justice of the Peace,,REP,Over Votes,0,0,0
-Castro,401,Justice of the Peace,,REP,Under Votes,4,3,1
-Castro,401,Justice of the Peace,,DEM,Mary Ewing,82,44,38
-Castro,401,"County Commissioner, Precinct 4",,REP,Ralph Brockman,103,62,41
+Castro,401,Justice of the Peace,,REP,Under Votes,4,1,3
+Castro,401,Justice of the Peace,,DEM,Mary Ewing,82,38,44
+Castro,401,"County Commissioner, Precinct 4",,REP,Ralph Brockman,103,41,62
 Castro,401,"County Commissioner, Precinct 4",,REP,Over Votes,0,0,0
-Castro,401,"County Commissioner, Precinct 4",,REP,Under Votes,37,17,20
+Castro,401,"County Commissioner, Precinct 4",,REP,Under Votes,37,20,17
 Castro,408,Registered Voters,,REP,,575,,
-Castro,408,Ballots Cast,,REP,,363,76,287
-Castro,408,Straight Party,,REP,Republican,151,29,122
+Castro,408,Ballots Cast,,REP,,363,287,76
+Castro,408,Straight Party,,REP,Republican,151,122,29
 Castro,408,Straight Party,,REP,Over Votes,0,0,0
-Castro,408,Straight Party,,REP,Under Votes,201,39,162
-Castro,408,Straight Party,,DEM,Democratic,10,7,3
-Castro,408,Straight Party,,LIB,Libertarian,1,1,0
-Castro,408,U.S. Senate,,REP,Ted Cruz,331,61,270
+Castro,408,Straight Party,,REP,Under Votes,201,162,39
+Castro,408,Straight Party,,DEM,Democratic,10,3,7
+Castro,408,Straight Party,,LIB,Libertarian,1,0,1
+Castro,408,U.S. Senate,,REP,Ted Cruz,331,270,61
 Castro,408,U.S. Senate,,REP,Over Votes,0,0,0
-Castro,408,U.S. Senate,,REP,Under Votes,6,1,5
-Castro,408,U.S. Senate,,DEM,Beto O'Rourke,22,13,9
-Castro,408,U.S. Senate,,LIB,Neal M. Dikerman,4,1,3
-Castro,408,U.S. House,19,REP,Jodey Arrington,333,62,271
+Castro,408,U.S. Senate,,REP,Under Votes,6,5,1
+Castro,408,U.S. Senate,,DEM,Beto O'Rourke,22,9,13
+Castro,408,U.S. Senate,,LIB,Neal M. Dikerman,4,3,1
+Castro,408,U.S. House,19,REP,Jodey Arrington,333,271,62
 Castro,408,U.S. House,19,REP,Over Votes,0,0,0
-Castro,408,U.S. House,19,REP,Under Votes,11,1,10
-Castro,408,U.S. House,19,DEM,Miguel Levario,19,13,6
-Castro,408,Governor,,REP,Greg Abbott,331,60,271
+Castro,408,U.S. House,19,REP,Under Votes,11,10,1
+Castro,408,U.S. House,19,DEM,Miguel Levario,19,6,13
+Castro,408,Governor,,REP,Greg Abbott,331,271,60
 Castro,408,Governor,,REP,Over Votes,0,0,0
-Castro,408,Governor,,REP,Under Votes,7,0,7
-Castro,408,Governor,,DEM,Lupe Valdez,22,14,8
-Castro,408,Governor,,LIB,Mark Jay Tippetts,3,2,1
-Castro,408,Lieutenant Governor,,REP,Dan Patrick,276,50,226
+Castro,408,Governor,,REP,Under Votes,7,7,0
+Castro,408,Governor,,DEM,Lupe Valdez,22,8,14
+Castro,408,Governor,,LIB,Mark Jay Tippetts,3,1,2
+Castro,408,Lieutenant Governor,,REP,Dan Patrick,276,226,50
 Castro,408,Lieutenant Governor,,REP,Over Votes,0,0,0
-Castro,408,Lieutenant Governor,,REP,Under Votes,11,1,10
-Castro,408,Lieutenant Governor,,DEM,Mike Collier,69,24,45
-Castro,408,Lieutenant Governor,,LIB,Kerry Douglas McKennon,7,1,6
-Castro,408,Attorney General,,REP,Ken Paxton,310,53,257
+Castro,408,Lieutenant Governor,,REP,Under Votes,11,10,1
+Castro,408,Lieutenant Governor,,DEM,Mike Collier,69,45,24
+Castro,408,Lieutenant Governor,,LIB,Kerry Douglas McKennon,7,6,1
+Castro,408,Attorney General,,REP,Ken Paxton,310,257,53
 Castro,408,Attorney General,,REP,Over Votes,0,0,0
-Castro,408,Attorney General,,REP,Under Votes,9,1,8
+Castro,408,Attorney General,,REP,Under Votes,9,8,1
 Castro,408,Attorney General,,DEM,Justin Nelson,42,21,21
 Castro,408,Attorney General,,LIB,Michael Ray Harris,2,1,1
-Castro,408,Comptroller of Public Accounts,,REP,Glenn Hegar,321,59,262
+Castro,408,Comptroller of Public Accounts,,REP,Glenn Hegar,321,262,59
 Castro,408,Comptroller of Public Accounts,,REP,Over Votes,0,0,0
-Castro,408,Comptroller of Public Accounts,,REP,Under Votes,16,3,13
-Castro,408,Comptroller of Public Accounts,,DEM,Joi Chevalier,18,12,6
-Castro,408,Comptroller of Public Accounts,,LIB,Ben Sanders,8,2,6
-Castro,408,Commissioner of the General Land Office,,REP,George P. Bush,314,56,258
+Castro,408,Comptroller of Public Accounts,,REP,Under Votes,16,13,3
+Castro,408,Comptroller of Public Accounts,,DEM,Joi Chevalier,18,6,12
+Castro,408,Comptroller of Public Accounts,,LIB,Ben Sanders,8,6,2
+Castro,408,Commissioner of the General Land Office,,REP,George P. Bush,314,258,56
 Castro,408,Commissioner of the General Land Office,,REP,Over Votes,0,0,0
-Castro,408,Commissioner of the General Land Office,,REP,Under Votes,13,2,11
-Castro,408,Commissioner of the General Land Office,,DEM,Miguel Suazo,29,16,13
-Castro,408,Commissioner of the General Land Office,,LIB,Matt Pina,7,2,5
-Castro,408,Commissioner of Agriculture,,REP,Sid Miller,322,59,263
+Castro,408,Commissioner of the General Land Office,,REP,Under Votes,13,11,2
+Castro,408,Commissioner of the General Land Office,,DEM,Miguel Suazo,29,13,16
+Castro,408,Commissioner of the General Land Office,,LIB,Matt Pina,7,5,2
+Castro,408,Commissioner of Agriculture,,REP,Sid Miller,322,263,59
 Castro,408,Commissioner of Agriculture,,REP,Over Votes,0,0,0
-Castro,408,Commissioner of Agriculture,,REP,Under Votes,10,1,9
-Castro,408,Commissioner of Agriculture,,DEM,Kim Olson,28,15,13
-Castro,408,Commissioner of Agriculture,,LIB,Richard Carpenter,3,1,2
-Castro,408,Railroad Commissioner,,REP,Christi Craddick,323,59,264
+Castro,408,Commissioner of Agriculture,,REP,Under Votes,10,9,1
+Castro,408,Commissioner of Agriculture,,DEM,Kim Olson,28,13,15
+Castro,408,Commissioner of Agriculture,,LIB,Richard Carpenter,3,2,1
+Castro,408,Railroad Commissioner,,REP,Christi Craddick,323,264,59
 Castro,408,Railroad Commissioner,,REP,Over Votes,0,0,0
-Castro,408,Railroad Commissioner,,REP,Under Votes,15,2,13
-Castro,408,Railroad Commissioner,,DEM,Roman McAllen,20,13,7
-Castro,408,Railroad Commissioner,,LIB,Mike Wright,5,2,3
-Castro,408,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,318,56,262
+Castro,408,Railroad Commissioner,,REP,Under Votes,15,13,2
+Castro,408,Railroad Commissioner,,DEM,Roman McAllen,20,7,13
+Castro,408,Railroad Commissioner,,LIB,Mike Wright,5,3,2
+Castro,408,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,318,262,56
 Castro,408,"Justice, Supreme Court, Place 2",,REP,Over Votes,0,0,0
-Castro,408,"Justice, Supreme Court, Place 2",,REP,Under Votes,18,6,12
-Castro,408,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,27,14,13
-Castro,408,"Justice, Supreme Court, Place 4",,REP,John Devine,316,55,261
+Castro,408,"Justice, Supreme Court, Place 2",,REP,Under Votes,18,12,6
+Castro,408,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,27,13,14
+Castro,408,"Justice, Supreme Court, Place 4",,REP,John Devine,316,261,55
 Castro,408,"Justice, Supreme Court, Place 4",,REP,Over Votes,0,0,0
-Castro,408,"Justice, Supreme Court, Place 4",,REP,Under Votes,24,6,18
-Castro,408,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,23,15,8
-Castro,408,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,321,58,263
+Castro,408,"Justice, Supreme Court, Place 4",,REP,Under Votes,24,18,6
+Castro,408,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,23,8,15
+Castro,408,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,321,263,58
 Castro,408,"Justice, Supreme Court, Place 6",,REP,Over Votes,0,0,0
-Castro,408,"Justice, Supreme Court, Place 6",,REP,Under Votes,25,6,19
-Castro,408,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,17,12,5
-Castro,408,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,320,59,261
+Castro,408,"Justice, Supreme Court, Place 6",,REP,Under Votes,25,19,6
+Castro,408,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,17,5,12
+Castro,408,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,320,261,59
 Castro,408,"Presiding Judge, Court of Criminal Appeals",,REP,Over Votes,0,0,0
-Castro,408,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,20,4,16
-Castro,408,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,21,12,9
+Castro,408,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,20,16,4
+Castro,408,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,21,9,12
 Castro,408,"Presiding Judge, Court of Criminal Appeals",,LIB,"William Bryan Strange, III",2,1,1
-Castro,408,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,314,55,259
+Castro,408,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,314,259,55
 Castro,408,"Judge, Court of Criminal Appeals, Place 7",,REP,Over Votes,0,0,0
-Castro,408,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,23,6,17
-Castro,408,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,26,15,11
-Castro,408,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,324,60,264
+Castro,408,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,23,17,6
+Castro,408,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,26,11,15
+Castro,408,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,324,264,60
 Castro,408,"Judge, Court of Criminal Appeals, Place 8",,REP,Over Votes,0,0,0
-Castro,408,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,33,12,21
-Castro,408,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,6,4,2
-Castro,408,State Senate,31,REP,Kel Seilger,336,61,275
+Castro,408,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,33,21,12
+Castro,408,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,6,2,4
+Castro,408,State Senate,31,REP,Kel Seilger,336,275,61
 Castro,408,State Senate,31,REP,Over Votes,0,0,0
-Castro,408,State Senate,31,REP,Under Votes,17,10,7
+Castro,408,State Senate,31,REP,Under Votes,17,7,10
 Castro,408,State Senate,31,LIB,Jack B. Westbrook,10,5,5
-Castro,408,State Representative,88,REP,Ken King,332,59,273
+Castro,408,State Representative,88,REP,Ken King,332,273,59
 Castro,408,State Representative,88,REP,Over Votes,0,0,0
-Castro,408,State Representative,88,REP,Under Votes,9,2,7
-Castro,408,State Representative,88,DEM,Ezekiel Barron,22,15,7
-Castro,408,"Justice, 7th Court of Appeals District, Place 2",,REP,Judy Parker,316,59,257
+Castro,408,State Representative,88,REP,Under Votes,9,7,2
+Castro,408,State Representative,88,DEM,Ezekiel Barron,22,7,15
+Castro,408,"Justice, 7th Court of Appeals District, Place 2",,REP,Judy Parker,316,257,59
 Castro,408,"Justice, 7th Court of Appeals District, Place 2",,REP,Over Votes,0,0,0
-Castro,408,"Justice, 7th Court of Appeals District, Place 2",,REP,Under Votes,47,17,30
-Castro,408,"Justice, 7th Court of Appeals District, Place 3",,REP,Pat Pirtle,316,60,256
+Castro,408,"Justice, 7th Court of Appeals District, Place 2",,REP,Under Votes,47,30,17
+Castro,408,"Justice, 7th Court of Appeals District, Place 3",,REP,Pat Pirtle,316,256,60
 Castro,408,"Justice, 7th Court of Appeals District, Place 3",,REP,Over Votes,0,0,0
-Castro,408,"Justice, 7th Court of Appeals District, Place 3",,REP,Under Votes,47,16,31
-Castro,408,"District Judge, 64th Judicial District",,REP,Danah Zirpoli,312,59,253
+Castro,408,"Justice, 7th Court of Appeals District, Place 3",,REP,Under Votes,47,31,16
+Castro,408,"District Judge, 64th Judicial District",,REP,Danah Zirpoli,312,253,59
 Castro,408,"District Judge, 64th Judicial District",,REP,Over Votes,0,0,0
-Castro,408,"District Judge, 64th Judicial District",,REP,Under Votes,51,17,34
-Castro,408,"District Judge, 242nd Judicial District",,REP,Lowell Kregg Hukill,313,60,253
+Castro,408,"District Judge, 64th Judicial District",,REP,Under Votes,51,34,17
+Castro,408,"District Judge, 242nd Judicial District",,REP,Lowell Kregg Hukill,313,253,60
 Castro,408,"District Judge, 242nd Judicial District",,REP,Over Votes,0,0,0
-Castro,408,"District Judge, 242nd Judicial District",,REP,Under Votes,50,16,34
-Castro,408,County Judge,,REP,Carroll U. Gerber,327,63,264
+Castro,408,"District Judge, 242nd Judicial District",,REP,Under Votes,50,34,16
+Castro,408,County Judge,,REP,Carroll U. Gerber,327,264,63
 Castro,408,County Judge,,REP,Over Votes,0,0,0
-Castro,408,County Judge,,REP,Under Votes,36,13,23
-Castro,408,District and County Clerk,,DEM,JoAnna Blanco,168,39,129
+Castro,408,County Judge,,REP,Under Votes,36,23,13
+Castro,408,District and County Clerk,,DEM,JoAnna Blanco,168,129,39
 Castro,408,District and County Clerk,,DEM,Over Votes,0,0,0
-Castro,408,District and County Clerk,,DEM,Under Votes,195,37,158
-Castro,408,County Treasurer,,REP,Elaine D. Flynt,328,63,265
+Castro,408,District and County Clerk,,DEM,Under Votes,195,158,37
+Castro,408,County Treasurer,,REP,Elaine D. Flynt,328,265,63
 Castro,408,County Treasurer,,REP,Over Votes,0,0,0
-Castro,408,County Treasurer,,REP,Under Votes,35,13,22
-Castro,408,Justice of the Peace,,REP,Flip Taylor,241,43,198
+Castro,408,County Treasurer,,REP,Under Votes,35,22,13
+Castro,408,Justice of the Peace,,REP,Flip Taylor,241,198,43
 Castro,408,Justice of the Peace,,REP,Over Votes,0,0,0
-Castro,408,Justice of the Peace,,REP,Under Votes,15,3,12
-Castro,408,Justice of the Peace,,DEM,Mary Ewing,107,30,77
-Castro,408,"County Commissioner, Precinct 4",,REP,Ralph Brockman,334,64,270
+Castro,408,Justice of the Peace,,REP,Under Votes,15,12,3
+Castro,408,Justice of the Peace,,DEM,Mary Ewing,107,77,30
+Castro,408,"County Commissioner, Precinct 4",,REP,Ralph Brockman,334,270,64
 Castro,408,"County Commissioner, Precinct 4",,REP,Over Votes,0,0,0
-Castro,408,"County Commissioner, Precinct 4",,REP,Under Votes,29,12,17
+Castro,408,"County Commissioner, Precinct 4",,REP,Under Votes,29,17,12

@@ -1,537 +1,537 @@
-county,precinct,office,district,party,candidate,votes,early_voting,election_day
-Coke,1,U.S. Senate,,REP,Mary Miller,5,1,4
-Coke,1,U.S. Senate,,REP,Ted Cruz,146,66,80
+county,precinct,office,district,party,candidate,votes,election_day,early_voting
+Coke,1,U.S. Senate,,REP,Mary Miller,5,4,1
+Coke,1,U.S. Senate,,REP,Ted Cruz,146,80,66
 Coke,1,U.S. Senate,,REP,Over Votes,0,0,0
-Coke,1,U.S. Senate,,REP,Under Votes,5,2,3
+Coke,1,U.S. Senate,,REP,Under Votes,5,3,2
 Coke,1,Registered Voters,,REP,,1146,,
-Coke,1,Ballots Cast,,REP,,169,74,1
+Coke,1,Ballots Cast,,REP,,169,1,74
 Coke,1,U.S. Senate,,REP,Geraldine Sam,2,1,1
 Coke,1,U.S. Senate,,REP,"Bruce Jacobson, Jr.",6,3,3
-Coke,1,U.S. Senate,,REP,Stefano de Stefano,1,1,0
-Coke,1,U.S. House,11,REP,Mike Conaway,134,62,72
-Coke,1,U.S. House,11,REP,Paul Myers,24,11,13
-Coke,1,Governor,,REP,Barbara Krueger,11,5,6
-Coke,1,Governor,,REP,Greg Abbott,144,66,78
+Coke,1,U.S. Senate,,REP,Stefano de Stefano,1,0,1
+Coke,1,U.S. House,11,REP,Mike Conaway,134,72,62
+Coke,1,U.S. House,11,REP,Paul Myers,24,13,11
+Coke,1,Governor,,REP,Barbara Krueger,11,6,5
+Coke,1,Governor,,REP,Greg Abbott,144,78,66
 Coke,1,Governor,,REP,SECEDE Kilgore,2,1,1
-Coke,1,Lieutenant Governor,,REP,Dan Patrick,89,43,46
-Coke,1,Lieutenant Governor,,REP,Scott Milder,59,27,32
-Coke,1,Attorney General,,REP,Ken Paxton,126,59,67
-Coke,1,Comptroller of Public Accounts,,REP,Glenn Hegar,122,59,63
-Coke,1,Commissioner of the General Land Office,,REP,Davey Edwards,11,3,8
-Coke,1,Commissioner of the General Land Office,,REP,George P. Bush,96,50,46
-Coke,1,Commissioner of the General Land Office,,REP,Jerry Patterson,30,9,21
-Coke,1,Commissioner of the General Land Office,,REP,Rick Range,9,6,3
-Coke,1,Commissioner of Agriculture,,REP,Sid Miller,85,39,46
-Coke,1,Commissioner of Agriculture,,REP,Jim Hogan,26,14,12
-Coke,1,Commissioner of Agriculture,,REP,Trey Blocker,29,12,17
-Coke,1,Railroad Commissioner,,REP,Weston Martinez,38,20,18
-Coke,1,Railroad Commissioner,,REP,Christi Craddick,88,37,51
-Coke,1,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,114,55,59
-Coke,1,"Justice, Supreme Court, Place 4",,REP,John Devine,112,55,57
-Coke,1,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,109,56,53
-Coke,1,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,47,22,25
-Coke,1,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,72,35,37
-Coke,1,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,103,51,52
-Coke,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,51,26,25
-Coke,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,28,13,15
-Coke,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,35,14,21
-Coke,1,State Representative,72,REP,Drew Darby,128,63,65
-Coke,1,"Justice, 3rd Court of Appeals District, Place No. 2",,REP,Cindy Olson Bourland,103,52,51
-Coke,1,"Justice, 3rd Court of Appeals District, Place No. 3",,REP,Scott Field,107,54,53
-Coke,1,"Justice, 3rd Court of Appeals District, Place No. 5",,REP,David Puryear,104,53,51
+Coke,1,Lieutenant Governor,,REP,Dan Patrick,89,46,43
+Coke,1,Lieutenant Governor,,REP,Scott Milder,59,32,27
+Coke,1,Attorney General,,REP,Ken Paxton,126,67,59
+Coke,1,Comptroller of Public Accounts,,REP,Glenn Hegar,122,63,59
+Coke,1,Commissioner of the General Land Office,,REP,Davey Edwards,11,8,3
+Coke,1,Commissioner of the General Land Office,,REP,George P. Bush,96,46,50
+Coke,1,Commissioner of the General Land Office,,REP,Jerry Patterson,30,21,9
+Coke,1,Commissioner of the General Land Office,,REP,Rick Range,9,3,6
+Coke,1,Commissioner of Agriculture,,REP,Sid Miller,85,46,39
+Coke,1,Commissioner of Agriculture,,REP,Jim Hogan,26,12,14
+Coke,1,Commissioner of Agriculture,,REP,Trey Blocker,29,17,12
+Coke,1,Railroad Commissioner,,REP,Weston Martinez,38,18,20
+Coke,1,Railroad Commissioner,,REP,Christi Craddick,88,51,37
+Coke,1,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,114,59,55
+Coke,1,"Justice, Supreme Court, Place 4",,REP,John Devine,112,57,55
+Coke,1,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,109,53,56
+Coke,1,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,47,25,22
+Coke,1,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,72,37,35
+Coke,1,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,103,52,51
+Coke,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,51,25,26
+Coke,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,28,15,13
+Coke,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,35,21,14
+Coke,1,State Representative,72,REP,Drew Darby,128,65,63
+Coke,1,"Justice, 3rd Court of Appeals District, Place No. 2",,REP,Cindy Olson Bourland,103,51,52
+Coke,1,"Justice, 3rd Court of Appeals District, Place No. 3",,REP,Scott Field,107,53,54
+Coke,1,"Justice, 3rd Court of Appeals District, Place No. 5",,REP,David Puryear,104,51,53
 Coke,1,"Justice, 3rd Court of Appeals District, Place No. 6",,REP,Jennifer S. Freel,20,10,10
 Coke,1,"Justice, 3rd Court of Appeals District, Place No. 6",,REP,Kristofer Monson,20,10,10
-Coke,1,"Justice, 3rd Court of Appeals District, Place No. 6",,REP,Donna Davidson,26,16,10
-Coke,1,"Justice, 3rd Court of Appeals District, Place No. 6",,REP,"Michael ""Mike"" Toth",45,17,28
-Coke,1,County Judge,,REP,Hal Spain,145,64,81
-Coke,1,County Judge,,REP,Sherry Davidson,19,10,9
-Coke,1,District and County Clerk,,REP,Monica Reyes,134,64,70
-Coke,1,County Treasurer,,REP,Therese Emert,133,64,69
-Coke,1,Justice of the Peace,,REP,Russell Johnson,54,24,30
-Coke,1,Justice of the Peace,,REP,Jackie Walker,104,46,58
+Coke,1,"Justice, 3rd Court of Appeals District, Place No. 6",,REP,Donna Davidson,26,10,16
+Coke,1,"Justice, 3rd Court of Appeals District, Place No. 6",,REP,"Michael ""Mike"" Toth",45,28,17
+Coke,1,County Judge,,REP,Hal Spain,145,81,64
+Coke,1,County Judge,,REP,Sherry Davidson,19,9,10
+Coke,1,District and County Clerk,,REP,Monica Reyes,134,70,64
+Coke,1,County Treasurer,,REP,Therese Emert,133,69,64
+Coke,1,Justice of the Peace,,REP,Russell Johnson,54,30,24
+Coke,1,Justice of the Peace,,REP,Jackie Walker,104,58,46
 Coke,1,U.S. Senate,,DEM,Over Votes,0,0,0
 Coke,1,U.S. Senate,,DEM,Under Votes,0,0,0
 Coke,1,Registered Voters,,DEM,,1146,,
-Coke,1,Ballots Cast,,DEM,,169,74,2
-Coke,1,U.S. Senate,,DEM,Beto O'Rourke,2,0,2
-Coke,1,U.S. Senate,,DEM,Sema Hernandez,2,0,2
+Coke,1,Ballots Cast,,DEM,,169,2,74
+Coke,1,U.S. Senate,,DEM,Beto O'Rourke,2,2,0
+Coke,1,U.S. Senate,,DEM,Sema Hernandez,2,2,0
 Coke,1,U.S. Senate,,DEM,Edward Kimbrough,0,0,0
-Coke,1,U.S. House,11,DEM,Jennie Lou Leeder,1,0,1
-Coke,1,U.S. House,11,DEM,Eric Pfalzgraf,1,0,1
+Coke,1,U.S. House,11,DEM,Jennie Lou Leeder,1,1,0
+Coke,1,U.S. House,11,DEM,Eric Pfalzgraf,1,1,0
 Coke,1,Governor,,DEM,Joe Mumbach,0,0,0
-Coke,1,Governor,,DEM,Lupe Valdez,1,0,1
+Coke,1,Governor,,DEM,Lupe Valdez,1,1,0
 Coke,1,Governor,,DEM,Jeffrey Payne,0,0,0
 Coke,1,Governor,,DEM,"Cedric Davis, Sr.",0,0,0
-Coke,1,Governor,,DEM,Grady Yarbrough,1,0,1
+Coke,1,Governor,,DEM,Grady Yarbrough,1,1,0
 Coke,1,Governor,,DEM,Tom Wakely,0,0,0
-Coke,1,Governor,,DEM,Andrew White,1,0,1
+Coke,1,Governor,,DEM,Andrew White,1,1,0
 Coke,1,Governor,,DEM,James Jolly Clark,0,0,0
 Coke,1,Governor,,DEM,Adrian Ocegueda,0,0,0
-Coke,1,Lieutenant Governor,,DEM,Michael Cooper,2,0,2
-Coke,1,Lieutenant Governor,,DEM,Mike Collier,1,0,1
-Coke,1,Attorney General,,DEM,Justin Nelson,3,0,3
-Coke,1,Comptroller of Public Accounts,,DEM,Tim Mahoney,1,0,1
-Coke,1,Comptroller of Public Accounts,,DEM,Joi Chevalier,1,0,1
-Coke,1,Commissioner of the General Land Office,,DEM,Miguel Suazo,3,0,3
+Coke,1,Lieutenant Governor,,DEM,Michael Cooper,2,2,0
+Coke,1,Lieutenant Governor,,DEM,Mike Collier,1,1,0
+Coke,1,Attorney General,,DEM,Justin Nelson,3,3,0
+Coke,1,Comptroller of Public Accounts,,DEM,Tim Mahoney,1,1,0
+Coke,1,Comptroller of Public Accounts,,DEM,Joi Chevalier,1,1,0
+Coke,1,Commissioner of the General Land Office,,DEM,Miguel Suazo,3,3,0
 Coke,1,Commissioner of the General Land Office,,DEM,Tex Morgan,0,0,0
-Coke,1,Commissioner of Agriculture,,DEM,Kim Olson,2,0,2
-Coke,1,Railroad Commissioner,,DEM,Chris Spellmon,2,0,2
+Coke,1,Commissioner of Agriculture,,DEM,Kim Olson,2,2,0
+Coke,1,Railroad Commissioner,,DEM,Chris Spellmon,2,2,0
 Coke,1,Railroad Commissioner,,DEM,Roman McAllen,0,0,0
-Coke,1,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,2,0,2
-Coke,1,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,1,0,1
-Coke,1,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,1,0,1
-Coke,1,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,2,0,2
-Coke,1,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,2,0,2
-Coke,1,"Justice, 3rd Court of Appeals District, Place No. 2",,DEM,Edward Smith,2,0,2
-Coke,1,"Justice, 3rd Court of Appeals District, Place No. 3",,DEM,Chari Kelly,1,0,1
-Coke,1,"Justice, 3rd Court of Appeals District, Place No. 5",,DEM,Thomas J. Baker,2,0,2
-Coke,1,"Justice, 3rd Court of Appeals District, Place No. 6",,DEM,Gisela D. Triana,2,0,2
-Coke,1,Proposition #1 Right to a 21st Century Public Education:,,,Yes,3,0,3
+Coke,1,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,2,2,0
+Coke,1,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,1,1,0
+Coke,1,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,1,1,0
+Coke,1,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,2,2,0
+Coke,1,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,2,2,0
+Coke,1,"Justice, 3rd Court of Appeals District, Place No. 2",,DEM,Edward Smith,2,2,0
+Coke,1,"Justice, 3rd Court of Appeals District, Place No. 3",,DEM,Chari Kelly,1,1,0
+Coke,1,"Justice, 3rd Court of Appeals District, Place No. 5",,DEM,Thomas J. Baker,2,2,0
+Coke,1,"Justice, 3rd Court of Appeals District, Place No. 6",,DEM,Gisela D. Triana,2,2,0
+Coke,1,Proposition #1 Right to a 21st Century Public Education:,,,Yes,3,3,0
 Coke,1,Proposition #1 Right to a 21st Century Public Education:,,,No,0,0,0
-Coke,1,Proposition #2 Student Loan Debt:,,,Yes,3,0,3
+Coke,1,Proposition #2 Student Loan Debt:,,,Yes,3,3,0
 Coke,1,Proposition #2 Student Loan Debt:,,,No,0,0,0
-Coke,1,Proposition #3 Right to Healthcare:,,,Yes,3,0,3
+Coke,1,Proposition #3 Right to Healthcare:,,,Yes,3,3,0
 Coke,1,Proposition #3 Right to Healthcare:,,,No,0,0,0
-Coke,1,Proposition #4 Right to Economic Security:,,,Yes,3,0,3
+Coke,1,Proposition #4 Right to Economic Security:,,,Yes,3,3,0
 Coke,1,Proposition #4 Right to Economic Security:,,,No,0,0,0
-Coke,1,Proposition #5 National Jobs Program:,,,Yes,3,0,3
+Coke,1,Proposition #5 National Jobs Program:,,,Yes,3,3,0
 Coke,1,Proposition #5 National Jobs Program:,,,No,0,0,0
-Coke,1,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,3,0,3
+Coke,1,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,3,3,0
 Coke,1,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,0,0,0
-Coke,1,Proposition #7 Right to Dignity & Respect:,,,Yes,3,0,3
+Coke,1,Proposition #7 Right to Dignity & Respect:,,,Yes,3,3,0
 Coke,1,Proposition #7 Right to Dignity & Respect:,,,No,0,0,0
-Coke,1,Proposition #8 Right to Housing:,,,Yes,3,0,3
+Coke,1,Proposition #8 Right to Housing:,,,Yes,3,3,0
 Coke,1,Proposition #8 Right to Housing:,,,No,0,0,0
-Coke,1,Proposition #9 Right to Vote:,,,Yes,2,0,2
+Coke,1,Proposition #9 Right to Vote:,,,Yes,2,2,0
 Coke,1,Proposition #9 Right to Vote:,,,No,0,0,0
-Coke,1,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,3,0,3
+Coke,1,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,3,3,0
 Coke,1,Proposition #10 Right to a Fair Criminal Justice System:,,,No,0,0,0
-Coke,1,Proposition #11 Immigrant Rights:,,,Yes,3,0,3
+Coke,1,Proposition #11 Immigrant Rights:,,,Yes,3,3,0
 Coke,1,Proposition #11 Immigrant Rights:,,,No,0,0,0
-Coke,1,Proposition #12 Right to Fair Taxation:,,,Yes,3,0,3
+Coke,1,Proposition #12 Right to Fair Taxation:,,,Yes,3,3,0
 Coke,1,Proposition #12 Right to Fair Taxation:,,,No,0,0,0
-Coke,1,Proposition 1,,,YES,87,37,50
-Coke,1,Proposition 1,,,NO,58,26,32
-Coke,1,Proposition 2,,,YES,127,56,71
-Coke,1,Proposition 2,,,NO,12,1,11
-Coke,1,Proposition 3,,,YES,132,61,71
-Coke,1,Proposition 3,,,NO,17,8,9
-Coke,1,Proposition 4,,,YES,136,64,72
-Coke,1,Proposition 4,,,NO,16,6,10
-Coke,1,Proposition 5,,,YES,119,55,64
-Coke,1,Proposition 5,,,NO,34,13,21
-Coke,1,Proposition 6,,,YES,152,72,80
-Coke,1,Proposition 6,,,NO,7,2,5
-Coke,1,Proposition 7,,,YES,125,56,69
-Coke,1,Proposition 7,,,NO,31,13,18
-Coke,1,Proposition 8,,,YES,157,72,85
-Coke,1,Proposition 8,,,NO,3,0,3
-Coke,1,Proposition 9,,,YES,144,66,78
-Coke,1,Proposition 9,,,NO,13,4,9
-Coke,1,Proposition 10,,,YES,131,61,70
-Coke,1,Proposition 10,,,NO,19,8,11
-Coke,1,Proposition 11,,,YES,133,62,71
-Coke,1,Proposition 11,,,NO,24,8,16
-Coke,2,U.S. Senate,,REP,Mary Miller,14,5,9
-Coke,2,U.S. Senate,,REP,Ted Cruz,160,47,113
+Coke,1,Proposition 1,,,YES,87,50,37
+Coke,1,Proposition 1,,,NO,58,32,26
+Coke,1,Proposition 2,,,YES,127,71,56
+Coke,1,Proposition 2,,,NO,12,11,1
+Coke,1,Proposition 3,,,YES,132,71,61
+Coke,1,Proposition 3,,,NO,17,9,8
+Coke,1,Proposition 4,,,YES,136,72,64
+Coke,1,Proposition 4,,,NO,16,10,6
+Coke,1,Proposition 5,,,YES,119,64,55
+Coke,1,Proposition 5,,,NO,34,21,13
+Coke,1,Proposition 6,,,YES,152,80,72
+Coke,1,Proposition 6,,,NO,7,5,2
+Coke,1,Proposition 7,,,YES,125,69,56
+Coke,1,Proposition 7,,,NO,31,18,13
+Coke,1,Proposition 8,,,YES,157,85,72
+Coke,1,Proposition 8,,,NO,3,3,0
+Coke,1,Proposition 9,,,YES,144,78,66
+Coke,1,Proposition 9,,,NO,13,9,4
+Coke,1,Proposition 10,,,YES,131,70,61
+Coke,1,Proposition 10,,,NO,19,11,8
+Coke,1,Proposition 11,,,YES,133,71,62
+Coke,1,Proposition 11,,,NO,24,16,8
+Coke,2,U.S. Senate,,REP,Mary Miller,14,9,5
+Coke,2,U.S. Senate,,REP,Ted Cruz,160,113,47
 Coke,2,U.S. Senate,,REP,Over Votes,0,0,0
-Coke,2,U.S. Senate,,REP,Under Votes,17,3,14
+Coke,2,U.S. Senate,,REP,Under Votes,17,14,3
 Coke,2,Registered Voters,,REP,,1108,,
-Coke,2,Ballots Cast,,REP,,208,63,1
+Coke,2,Ballots Cast,,REP,,208,1,63
 Coke,2,U.S. Senate,,REP,Geraldine Sam,2,1,1
 Coke,2,U.S. Senate,,REP,"Bruce Jacobson, Jr.",6,3,3
-Coke,2,U.S. Senate,,REP,Stefano de Stefano,1,0,1
-Coke,2,U.S. House,11,REP,Mike Conaway,158,43,115
-Coke,2,U.S. House,11,REP,Paul Myers,34,15,19
+Coke,2,U.S. Senate,,REP,Stefano de Stefano,1,1,0
+Coke,2,U.S. House,11,REP,Mike Conaway,158,115,43
+Coke,2,U.S. House,11,REP,Paul Myers,34,19,15
 Coke,2,Governor,,REP,Barbara Krueger,8,4,4
-Coke,2,Governor,,REP,Greg Abbott,171,53,118
-Coke,2,Governor,,REP,SECEDE Kilgore,4,1,3
-Coke,2,Lieutenant Governor,,REP,Dan Patrick,105,34,71
-Coke,2,Lieutenant Governor,,REP,Scott Milder,78,21,57
-Coke,2,Attorney General,,REP,Ken Paxton,156,47,109
-Coke,2,Comptroller of Public Accounts,,REP,Glenn Hegar,150,43,107
-Coke,2,Commissioner of the General Land Office,,REP,Davey Edwards,14,4,10
-Coke,2,Commissioner of the General Land Office,,REP,George P. Bush,123,32,91
-Coke,2,Commissioner of the General Land Office,,REP,Jerry Patterson,29,14,15
-Coke,2,Commissioner of the General Land Office,,REP,Rick Range,14,2,12
-Coke,2,Commissioner of Agriculture,,REP,Sid Miller,93,27,66
-Coke,2,Commissioner of Agriculture,,REP,Jim Hogan,31,10,21
-Coke,2,Commissioner of Agriculture,,REP,Trey Blocker,28,9,19
-Coke,2,Railroad Commissioner,,REP,Weston Martinez,42,8,34
-Coke,2,Railroad Commissioner,,REP,Christi Craddick,101,31,70
-Coke,2,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,142,40,102
-Coke,2,"Justice, Supreme Court, Place 4",,REP,John Devine,135,38,97
-Coke,2,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,137,39,98
-Coke,2,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,74,23,51
-Coke,2,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,63,14,49
-Coke,2,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,131,38,93
-Coke,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,47,14,33
-Coke,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,37,7,30
-Coke,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,48,16,32
-Coke,2,State Representative,72,REP,Drew Darby,162,42,120
-Coke,2,"Justice, 3rd Court of Appeals District, Place No. 2",,REP,Cindy Olson Bourland,136,39,97
-Coke,2,"Justice, 3rd Court of Appeals District, Place No. 3",,REP,Scott Field,135,39,96
-Coke,2,"Justice, 3rd Court of Appeals District, Place No. 5",,REP,David Puryear,139,39,100
-Coke,2,"Justice, 3rd Court of Appeals District, Place No. 6",,REP,Jennifer S. Freel,29,8,21
-Coke,2,"Justice, 3rd Court of Appeals District, Place No. 6",,REP,Kristofer Monson,15,4,11
-Coke,2,"Justice, 3rd Court of Appeals District, Place No. 6",,REP,Donna Davidson,43,13,30
-Coke,2,"Justice, 3rd Court of Appeals District, Place No. 6",,REP,"Michael ""Mike"" Toth",41,11,30
-Coke,2,County Judge,,REP,Hal Spain,128,39,89
-Coke,2,County Judge,,REP,Sherry Davidson,62,16,46
-Coke,2,District and County Clerk,,REP,Monica Reyes,164,51,113
-Coke,2,County Treasurer,,REP,Therese Emert,156,49,107
-Coke,2,"County Commissioner, Precinct No. 2",,REP,Robert Feil,38,12,26
-Coke,2,"County Commissioner, Precinct No. 2",,REP,Paul Williams,97,30,67
-Coke,2,"County Commissioner, Precinct No. 2",,REP,Henry Chisholm,60,15,45
-Coke,2,Justice of the Peace,,REP,Russell Johnson,137,38,99
-Coke,2,Justice of the Peace,,REP,Jackie Walker,54,17,37
+Coke,2,Governor,,REP,Greg Abbott,171,118,53
+Coke,2,Governor,,REP,SECEDE Kilgore,4,3,1
+Coke,2,Lieutenant Governor,,REP,Dan Patrick,105,71,34
+Coke,2,Lieutenant Governor,,REP,Scott Milder,78,57,21
+Coke,2,Attorney General,,REP,Ken Paxton,156,109,47
+Coke,2,Comptroller of Public Accounts,,REP,Glenn Hegar,150,107,43
+Coke,2,Commissioner of the General Land Office,,REP,Davey Edwards,14,10,4
+Coke,2,Commissioner of the General Land Office,,REP,George P. Bush,123,91,32
+Coke,2,Commissioner of the General Land Office,,REP,Jerry Patterson,29,15,14
+Coke,2,Commissioner of the General Land Office,,REP,Rick Range,14,12,2
+Coke,2,Commissioner of Agriculture,,REP,Sid Miller,93,66,27
+Coke,2,Commissioner of Agriculture,,REP,Jim Hogan,31,21,10
+Coke,2,Commissioner of Agriculture,,REP,Trey Blocker,28,19,9
+Coke,2,Railroad Commissioner,,REP,Weston Martinez,42,34,8
+Coke,2,Railroad Commissioner,,REP,Christi Craddick,101,70,31
+Coke,2,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,142,102,40
+Coke,2,"Justice, Supreme Court, Place 4",,REP,John Devine,135,97,38
+Coke,2,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,137,98,39
+Coke,2,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,74,51,23
+Coke,2,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,63,49,14
+Coke,2,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,131,93,38
+Coke,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,47,33,14
+Coke,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,37,30,7
+Coke,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,48,32,16
+Coke,2,State Representative,72,REP,Drew Darby,162,120,42
+Coke,2,"Justice, 3rd Court of Appeals District, Place No. 2",,REP,Cindy Olson Bourland,136,97,39
+Coke,2,"Justice, 3rd Court of Appeals District, Place No. 3",,REP,Scott Field,135,96,39
+Coke,2,"Justice, 3rd Court of Appeals District, Place No. 5",,REP,David Puryear,139,100,39
+Coke,2,"Justice, 3rd Court of Appeals District, Place No. 6",,REP,Jennifer S. Freel,29,21,8
+Coke,2,"Justice, 3rd Court of Appeals District, Place No. 6",,REP,Kristofer Monson,15,11,4
+Coke,2,"Justice, 3rd Court of Appeals District, Place No. 6",,REP,Donna Davidson,43,30,13
+Coke,2,"Justice, 3rd Court of Appeals District, Place No. 6",,REP,"Michael ""Mike"" Toth",41,30,11
+Coke,2,County Judge,,REP,Hal Spain,128,89,39
+Coke,2,County Judge,,REP,Sherry Davidson,62,46,16
+Coke,2,District and County Clerk,,REP,Monica Reyes,164,113,51
+Coke,2,County Treasurer,,REP,Therese Emert,156,107,49
+Coke,2,"County Commissioner, Precinct No. 2",,REP,Robert Feil,38,26,12
+Coke,2,"County Commissioner, Precinct No. 2",,REP,Paul Williams,97,67,30
+Coke,2,"County Commissioner, Precinct No. 2",,REP,Henry Chisholm,60,45,15
+Coke,2,Justice of the Peace,,REP,Russell Johnson,137,99,38
+Coke,2,Justice of the Peace,,REP,Jackie Walker,54,37,17
 Coke,2,U.S. Senate,,DEM,Over Votes,0,0,0
 Coke,2,U.S. Senate,,DEM,Under Votes,0,0,0
 Coke,2,Registered Voters,,DEM,,1108,,
-Coke,2,Ballots Cast,,DEM,,208,63,3
-Coke,2,U.S. Senate,,DEM,Beto O'Rourke,4,1,3
+Coke,2,Ballots Cast,,DEM,,208,3,63
+Coke,2,U.S. Senate,,DEM,Beto O'Rourke,4,3,1
 Coke,2,U.S. Senate,,DEM,Sema Hernandez,2,1,1
 Coke,2,U.S. Senate,,DEM,Edward Kimbrough,0,0,0
-Coke,2,U.S. House,11,DEM,Jennie Lou Leeder,6,2,4
+Coke,2,U.S. House,11,DEM,Jennie Lou Leeder,6,4,2
 Coke,2,U.S. House,11,DEM,Eric Pfalzgraf,0,0,0
-Coke,2,Governor,,DEM,Joe Mumbach,1,0,1
-Coke,2,Governor,,DEM,Lupe Valdez,1,1,0
-Coke,2,Governor,,DEM,Jeffrey Payne,1,1,0
+Coke,2,Governor,,DEM,Joe Mumbach,1,1,0
+Coke,2,Governor,,DEM,Lupe Valdez,1,0,1
+Coke,2,Governor,,DEM,Jeffrey Payne,1,0,1
 Coke,2,Governor,,DEM,"Cedric Davis, Sr.",0,0,0
 Coke,2,Governor,,DEM,Grady Yarbrough,0,0,0
 Coke,2,Governor,,DEM,Tom Wakely,0,0,0
-Coke,2,Governor,,DEM,Andrew White,4,1,3
+Coke,2,Governor,,DEM,Andrew White,4,3,1
 Coke,2,Governor,,DEM,James Jolly Clark,0,0,0
 Coke,2,Governor,,DEM,Adrian Ocegueda,0,0,0
-Coke,2,Lieutenant Governor,,DEM,Michael Cooper,3,1,2
-Coke,2,Lieutenant Governor,,DEM,Mike Collier,3,2,1
-Coke,2,Attorney General,,DEM,Justin Nelson,4,1,3
+Coke,2,Lieutenant Governor,,DEM,Michael Cooper,3,2,1
+Coke,2,Lieutenant Governor,,DEM,Mike Collier,3,1,2
+Coke,2,Attorney General,,DEM,Justin Nelson,4,3,1
 Coke,2,Comptroller of Public Accounts,,DEM,Tim Mahoney,4,2,2
-Coke,2,Comptroller of Public Accounts,,DEM,Joi Chevalier,3,1,2
-Coke,2,Commissioner of the General Land Office,,DEM,Miguel Suazo,5,2,3
-Coke,2,Commissioner of the General Land Office,,DEM,Tex Morgan,1,1,0
-Coke,2,Commissioner of Agriculture,,DEM,Kim Olson,5,1,4
-Coke,2,Railroad Commissioner,,DEM,Chris Spellmon,4,1,3
-Coke,2,Railroad Commissioner,,DEM,Roman McAllen,2,2,0
-Coke,2,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,5,2,3
-Coke,2,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,5,2,3
-Coke,2,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,6,2,4
-Coke,2,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,6,2,4
-Coke,2,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,6,2,4
-Coke,2,"Justice, 3rd Court of Appeals District, Place No. 2",,DEM,Edward Smith,5,2,3
-Coke,2,"Justice, 3rd Court of Appeals District, Place No. 3",,DEM,Chari Kelly,6,2,4
-Coke,2,"Justice, 3rd Court of Appeals District, Place No. 5",,DEM,Thomas J. Baker,5,2,3
-Coke,2,"Justice, 3rd Court of Appeals District, Place No. 6",,DEM,Gisela D. Triana,6,2,4
+Coke,2,Comptroller of Public Accounts,,DEM,Joi Chevalier,3,2,1
+Coke,2,Commissioner of the General Land Office,,DEM,Miguel Suazo,5,3,2
+Coke,2,Commissioner of the General Land Office,,DEM,Tex Morgan,1,0,1
+Coke,2,Commissioner of Agriculture,,DEM,Kim Olson,5,4,1
+Coke,2,Railroad Commissioner,,DEM,Chris Spellmon,4,3,1
+Coke,2,Railroad Commissioner,,DEM,Roman McAllen,2,0,2
+Coke,2,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,5,3,2
+Coke,2,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,5,3,2
+Coke,2,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,6,4,2
+Coke,2,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,6,4,2
+Coke,2,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,6,4,2
+Coke,2,"Justice, 3rd Court of Appeals District, Place No. 2",,DEM,Edward Smith,5,3,2
+Coke,2,"Justice, 3rd Court of Appeals District, Place No. 3",,DEM,Chari Kelly,6,4,2
+Coke,2,"Justice, 3rd Court of Appeals District, Place No. 5",,DEM,Thomas J. Baker,5,3,2
+Coke,2,"Justice, 3rd Court of Appeals District, Place No. 6",,DEM,Gisela D. Triana,6,4,2
 Coke,2,Proposition #1 Right to a 21st Century Public Education:,,,Yes,6,3,3
-Coke,2,Proposition #1 Right to a 21st Century Public Education:,,,No,1,0,1
+Coke,2,Proposition #1 Right to a 21st Century Public Education:,,,No,1,1,0
 Coke,2,Proposition #2 Student Loan Debt:,,,Yes,6,3,3
-Coke,2,Proposition #2 Student Loan Debt:,,,No,1,0,1
-Coke,2,Proposition #3 Right to Healthcare:,,,Yes,7,3,4
+Coke,2,Proposition #2 Student Loan Debt:,,,No,1,1,0
+Coke,2,Proposition #3 Right to Healthcare:,,,Yes,7,4,3
 Coke,2,Proposition #3 Right to Healthcare:,,,No,0,0,0
-Coke,2,Proposition #4 Right to Economic Security:,,,Yes,7,3,4
+Coke,2,Proposition #4 Right to Economic Security:,,,Yes,7,4,3
 Coke,2,Proposition #4 Right to Economic Security:,,,No,0,0,0
-Coke,2,Proposition #5 National Jobs Program:,,,Yes,6,2,4
-Coke,2,Proposition #5 National Jobs Program:,,,No,1,1,0
-Coke,2,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,7,3,4
+Coke,2,Proposition #5 National Jobs Program:,,,Yes,6,4,2
+Coke,2,Proposition #5 National Jobs Program:,,,No,1,0,1
+Coke,2,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,7,4,3
 Coke,2,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,0,0,0
-Coke,2,Proposition #7 Right to Dignity & Respect:,,,Yes,7,3,4
+Coke,2,Proposition #7 Right to Dignity & Respect:,,,Yes,7,4,3
 Coke,2,Proposition #7 Right to Dignity & Respect:,,,No,0,0,0
-Coke,2,Proposition #8 Right to Housing:,,,Yes,5,2,3
+Coke,2,Proposition #8 Right to Housing:,,,Yes,5,3,2
 Coke,2,Proposition #8 Right to Housing:,,,No,2,1,1
-Coke,2,Proposition #9 Right to Vote:,,,Yes,7,3,4
+Coke,2,Proposition #9 Right to Vote:,,,Yes,7,4,3
 Coke,2,Proposition #9 Right to Vote:,,,No,0,0,0
-Coke,2,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,7,3,4
+Coke,2,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,7,4,3
 Coke,2,Proposition #10 Right to a Fair Criminal Justice System:,,,No,0,0,0
-Coke,2,Proposition #11 Immigrant Rights:,,,Yes,6,2,4
-Coke,2,Proposition #11 Immigrant Rights:,,,No,1,1,0
-Coke,2,Proposition #12 Right to Fair Taxation:,,,Yes,7,3,4
+Coke,2,Proposition #11 Immigrant Rights:,,,Yes,6,4,2
+Coke,2,Proposition #11 Immigrant Rights:,,,No,1,0,1
+Coke,2,Proposition #12 Right to Fair Taxation:,,,Yes,7,4,3
 Coke,2,Proposition #12 Right to Fair Taxation:,,,No,0,0,0
-Coke,2,Proposition 1,,,YES,107,34,73
-Coke,2,Proposition 1,,,NO,64,16,48
-Coke,2,Proposition 2,,,YES,165,46,119
-Coke,2,Proposition 2,,,NO,20,7,13
-Coke,2,Proposition 3,,,YES,142,40,102
-Coke,2,Proposition 3,,,NO,35,9,26
-Coke,2,Proposition 4,,,YES,168,54,114
-Coke,2,Proposition 4,,,NO,19,4,15
-Coke,2,Proposition 5,,,YES,130,43,87
-Coke,2,Proposition 5,,,NO,52,11,41
-Coke,2,Proposition 6,,,YES,168,44,124
-Coke,2,Proposition 6,,,NO,10,2,8
-Coke,2,Proposition 7,,,YES,134,37,97
-Coke,2,Proposition 7,,,NO,48,19,29
-Coke,2,Proposition 8,,,YES,181,56,125
-Coke,2,Proposition 8,,,NO,8,2,6
-Coke,2,Proposition 9,,,YES,172,52,120
-Coke,2,Proposition 9,,,NO,18,5,13
-Coke,2,Proposition 10,,,YES,168,50,118
-Coke,2,Proposition 10,,,NO,18,6,12
-Coke,2,Proposition 11,,,YES,165,50,115
-Coke,2,Proposition 11,,,NO,26,9,17
-Coke,3,U.S. Senate,,REP,Mary Miller,10,3,7
-Coke,3,U.S. Senate,,REP,Ted Cruz,124,71,53
+Coke,2,Proposition 1,,,YES,107,73,34
+Coke,2,Proposition 1,,,NO,64,48,16
+Coke,2,Proposition 2,,,YES,165,119,46
+Coke,2,Proposition 2,,,NO,20,13,7
+Coke,2,Proposition 3,,,YES,142,102,40
+Coke,2,Proposition 3,,,NO,35,26,9
+Coke,2,Proposition 4,,,YES,168,114,54
+Coke,2,Proposition 4,,,NO,19,15,4
+Coke,2,Proposition 5,,,YES,130,87,43
+Coke,2,Proposition 5,,,NO,52,41,11
+Coke,2,Proposition 6,,,YES,168,124,44
+Coke,2,Proposition 6,,,NO,10,8,2
+Coke,2,Proposition 7,,,YES,134,97,37
+Coke,2,Proposition 7,,,NO,48,29,19
+Coke,2,Proposition 8,,,YES,181,125,56
+Coke,2,Proposition 8,,,NO,8,6,2
+Coke,2,Proposition 9,,,YES,172,120,52
+Coke,2,Proposition 9,,,NO,18,13,5
+Coke,2,Proposition 10,,,YES,168,118,50
+Coke,2,Proposition 10,,,NO,18,12,6
+Coke,2,Proposition 11,,,YES,165,115,50
+Coke,2,Proposition 11,,,NO,26,17,9
+Coke,3,U.S. Senate,,REP,Mary Miller,10,7,3
+Coke,3,U.S. Senate,,REP,Ted Cruz,124,53,71
 Coke,3,U.S. Senate,,REP,Over Votes,0,0,0
 Coke,3,U.S. Senate,,REP,Under Votes,14,7,7
 Coke,3,Registered Voters,,REP,,1156,,
-Coke,3,Ballots Cast,,REP,,168,93,1
-Coke,3,U.S. Senate,,REP,Geraldine Sam,3,2,1
-Coke,3,U.S. Senate,,REP,"Bruce Jacobson, Jr.",1,0,1
+Coke,3,Ballots Cast,,REP,,168,1,93
+Coke,3,U.S. Senate,,REP,Geraldine Sam,3,1,2
+Coke,3,U.S. Senate,,REP,"Bruce Jacobson, Jr.",1,1,0
 Coke,3,U.S. Senate,,REP,Stefano de Stefano,0,0,0
-Coke,3,U.S. House,11,REP,Mike Conaway,135,74,61
-Coke,3,U.S. House,11,REP,Paul Myers,9,4,5
-Coke,3,Governor,,REP,Barbara Krueger,11,5,6
-Coke,3,Governor,,REP,Greg Abbott,126,70,56
-Coke,3,Governor,,REP,SECEDE Kilgore,1,0,1
-Coke,3,Lieutenant Governor,,REP,Dan Patrick,86,51,35
-Coke,3,Lieutenant Governor,,REP,Scott Milder,54,25,29
-Coke,3,Attorney General,,REP,Ken Paxton,120,65,55
-Coke,3,Comptroller of Public Accounts,,REP,Glenn Hegar,116,63,53
-Coke,3,Commissioner of the General Land Office,,REP,Davey Edwards,19,9,10
-Coke,3,Commissioner of the General Land Office,,REP,George P. Bush,91,45,46
-Coke,3,Commissioner of the General Land Office,,REP,Jerry Patterson,21,11,10
-Coke,3,Commissioner of the General Land Office,,REP,Rick Range,6,5,1
+Coke,3,U.S. House,11,REP,Mike Conaway,135,61,74
+Coke,3,U.S. House,11,REP,Paul Myers,9,5,4
+Coke,3,Governor,,REP,Barbara Krueger,11,6,5
+Coke,3,Governor,,REP,Greg Abbott,126,56,70
+Coke,3,Governor,,REP,SECEDE Kilgore,1,1,0
+Coke,3,Lieutenant Governor,,REP,Dan Patrick,86,35,51
+Coke,3,Lieutenant Governor,,REP,Scott Milder,54,29,25
+Coke,3,Attorney General,,REP,Ken Paxton,120,55,65
+Coke,3,Comptroller of Public Accounts,,REP,Glenn Hegar,116,53,63
+Coke,3,Commissioner of the General Land Office,,REP,Davey Edwards,19,10,9
+Coke,3,Commissioner of the General Land Office,,REP,George P. Bush,91,46,45
+Coke,3,Commissioner of the General Land Office,,REP,Jerry Patterson,21,10,11
+Coke,3,Commissioner of the General Land Office,,REP,Rick Range,6,1,5
 Coke,3,Commissioner of Agriculture,,REP,Sid Miller,84,42,42
-Coke,3,Commissioner of Agriculture,,REP,Jim Hogan,22,14,8
-Coke,3,Commissioner of Agriculture,,REP,Trey Blocker,20,12,8
-Coke,3,Railroad Commissioner,,REP,Weston Martinez,30,13,17
-Coke,3,Railroad Commissioner,,REP,Christi Craddick,90,51,39
-Coke,3,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,111,56,55
-Coke,3,"Justice, Supreme Court, Place 4",,REP,John Devine,106,54,52
-Coke,3,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,109,56,53
-Coke,3,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,49,23,26
-Coke,3,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,63,36,27
-Coke,3,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,106,56,50
-Coke,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,54,31,23
-Coke,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,20,9,11
+Coke,3,Commissioner of Agriculture,,REP,Jim Hogan,22,8,14
+Coke,3,Commissioner of Agriculture,,REP,Trey Blocker,20,8,12
+Coke,3,Railroad Commissioner,,REP,Weston Martinez,30,17,13
+Coke,3,Railroad Commissioner,,REP,Christi Craddick,90,39,51
+Coke,3,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,111,55,56
+Coke,3,"Justice, Supreme Court, Place 4",,REP,John Devine,106,52,54
+Coke,3,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,109,53,56
+Coke,3,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,49,26,23
+Coke,3,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,63,27,36
+Coke,3,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,106,50,56
+Coke,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,54,23,31
+Coke,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,20,11,9
 Coke,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,34,17,17
-Coke,3,State Representative,72,REP,Drew Darby,133,77,56
-Coke,3,"Justice, 3rd Court of Appeals District, Place No. 2",,REP,Cindy Olson Bourland,105,55,50
-Coke,3,"Justice, 3rd Court of Appeals District, Place No. 3",,REP,Scott Field,110,57,53
-Coke,3,"Justice, 3rd Court of Appeals District, Place No. 5",,REP,David Puryear,108,55,53
-Coke,3,"Justice, 3rd Court of Appeals District, Place No. 6",,REP,Jennifer S. Freel,25,14,11
+Coke,3,State Representative,72,REP,Drew Darby,133,56,77
+Coke,3,"Justice, 3rd Court of Appeals District, Place No. 2",,REP,Cindy Olson Bourland,105,50,55
+Coke,3,"Justice, 3rd Court of Appeals District, Place No. 3",,REP,Scott Field,110,53,57
+Coke,3,"Justice, 3rd Court of Appeals District, Place No. 5",,REP,David Puryear,108,53,55
+Coke,3,"Justice, 3rd Court of Appeals District, Place No. 6",,REP,Jennifer S. Freel,25,11,14
 Coke,3,"Justice, 3rd Court of Appeals District, Place No. 6",,REP,Kristofer Monson,12,6,6
-Coke,3,"Justice, 3rd Court of Appeals District, Place No. 6",,REP,Donna Davidson,32,14,18
-Coke,3,"Justice, 3rd Court of Appeals District, Place No. 6",,REP,"Michael ""Mike"" Toth",32,20,12
-Coke,3,County Judge,,REP,Hal Spain,125,74,51
-Coke,3,County Judge,,REP,Sherry Davidson,23,7,16
-Coke,3,District and County Clerk,,REP,Monica Reyes,131,73,58
-Coke,3,County Treasurer,,REP,Therese Emert,121,67,54
-Coke,3,Justice of the Peace,,REP,Russell Johnson,38,23,15
-Coke,3,Justice of the Peace,,REP,Jackie Walker,111,61,50
+Coke,3,"Justice, 3rd Court of Appeals District, Place No. 6",,REP,Donna Davidson,32,18,14
+Coke,3,"Justice, 3rd Court of Appeals District, Place No. 6",,REP,"Michael ""Mike"" Toth",32,12,20
+Coke,3,County Judge,,REP,Hal Spain,125,51,74
+Coke,3,County Judge,,REP,Sherry Davidson,23,16,7
+Coke,3,District and County Clerk,,REP,Monica Reyes,131,58,73
+Coke,3,County Treasurer,,REP,Therese Emert,121,54,67
+Coke,3,Justice of the Peace,,REP,Russell Johnson,38,15,23
+Coke,3,Justice of the Peace,,REP,Jackie Walker,111,50,61
 Coke,3,U.S. Senate,,DEM,Over Votes,0,0,0
 Coke,3,U.S. Senate,,DEM,Under Votes,0,0,0
 Coke,3,Registered Voters,,DEM,,1156,,
-Coke,3,Ballots Cast,,DEM,,168,93,4
-Coke,3,U.S. Senate,,DEM,Beto O'Rourke,7,3,4
-Coke,3,U.S. Senate,,DEM,Sema Hernandez,5,4,1
-Coke,3,U.S. Senate,,DEM,Edward Kimbrough,1,0,1
-Coke,3,U.S. House,11,DEM,Jennie Lou Leeder,11,6,5
+Coke,3,Ballots Cast,,DEM,,168,4,93
+Coke,3,U.S. Senate,,DEM,Beto O'Rourke,7,4,3
+Coke,3,U.S. Senate,,DEM,Sema Hernandez,5,1,4
+Coke,3,U.S. Senate,,DEM,Edward Kimbrough,1,1,0
+Coke,3,U.S. House,11,DEM,Jennie Lou Leeder,11,5,6
 Coke,3,U.S. House,11,DEM,Eric Pfalzgraf,2,1,1
 Coke,3,Governor,,DEM,Joe Mumbach,0,0,0
-Coke,3,Governor,,DEM,Lupe Valdez,3,2,1
-Coke,3,Governor,,DEM,Jeffrey Payne,1,0,1
-Coke,3,Governor,,DEM,"Cedric Davis, Sr.",1,1,0
-Coke,3,Governor,,DEM,Grady Yarbrough,2,0,2
+Coke,3,Governor,,DEM,Lupe Valdez,3,1,2
+Coke,3,Governor,,DEM,Jeffrey Payne,1,1,0
+Coke,3,Governor,,DEM,"Cedric Davis, Sr.",1,0,1
+Coke,3,Governor,,DEM,Grady Yarbrough,2,2,0
 Coke,3,Governor,,DEM,Tom Wakely,0,0,0
-Coke,3,Governor,,DEM,Andrew White,4,3,1
+Coke,3,Governor,,DEM,Andrew White,4,1,3
 Coke,3,Governor,,DEM,James Jolly Clark,0,0,0
-Coke,3,Governor,,DEM,Adrian Ocegueda,1,1,0
-Coke,3,Lieutenant Governor,,DEM,Michael Cooper,5,3,2
-Coke,3,Lieutenant Governor,,DEM,Mike Collier,6,4,2
-Coke,3,Attorney General,,DEM,Justin Nelson,11,7,4
-Coke,3,Comptroller of Public Accounts,,DEM,Tim Mahoney,6,4,2
-Coke,3,Comptroller of Public Accounts,,DEM,Joi Chevalier,5,3,2
-Coke,3,Commissioner of the General Land Office,,DEM,Miguel Suazo,8,5,3
-Coke,3,Commissioner of the General Land Office,,DEM,Tex Morgan,3,2,1
-Coke,3,Commissioner of Agriculture,,DEM,Kim Olson,11,7,4
-Coke,3,Railroad Commissioner,,DEM,Chris Spellmon,5,3,2
-Coke,3,Railroad Commissioner,,DEM,Roman McAllen,6,4,2
-Coke,3,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,10,7,3
-Coke,3,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,10,7,3
-Coke,3,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,10,7,3
-Coke,3,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,10,7,3
-Coke,3,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,10,7,3
-Coke,3,"Justice, 3rd Court of Appeals District, Place No. 2",,DEM,Edward Smith,10,7,3
-Coke,3,"Justice, 3rd Court of Appeals District, Place No. 3",,DEM,Chari Kelly,10,7,3
-Coke,3,"Justice, 3rd Court of Appeals District, Place No. 5",,DEM,Thomas J. Baker,10,7,3
-Coke,3,"Justice, 3rd Court of Appeals District, Place No. 6",,DEM,Gisela D. Triana,10,7,3
+Coke,3,Governor,,DEM,Adrian Ocegueda,1,0,1
+Coke,3,Lieutenant Governor,,DEM,Michael Cooper,5,2,3
+Coke,3,Lieutenant Governor,,DEM,Mike Collier,6,2,4
+Coke,3,Attorney General,,DEM,Justin Nelson,11,4,7
+Coke,3,Comptroller of Public Accounts,,DEM,Tim Mahoney,6,2,4
+Coke,3,Comptroller of Public Accounts,,DEM,Joi Chevalier,5,2,3
+Coke,3,Commissioner of the General Land Office,,DEM,Miguel Suazo,8,3,5
+Coke,3,Commissioner of the General Land Office,,DEM,Tex Morgan,3,1,2
+Coke,3,Commissioner of Agriculture,,DEM,Kim Olson,11,4,7
+Coke,3,Railroad Commissioner,,DEM,Chris Spellmon,5,2,3
+Coke,3,Railroad Commissioner,,DEM,Roman McAllen,6,2,4
+Coke,3,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,10,3,7
+Coke,3,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,10,3,7
+Coke,3,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,10,3,7
+Coke,3,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,10,3,7
+Coke,3,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,10,3,7
+Coke,3,"Justice, 3rd Court of Appeals District, Place No. 2",,DEM,Edward Smith,10,3,7
+Coke,3,"Justice, 3rd Court of Appeals District, Place No. 3",,DEM,Chari Kelly,10,3,7
+Coke,3,"Justice, 3rd Court of Appeals District, Place No. 5",,DEM,Thomas J. Baker,10,3,7
+Coke,3,"Justice, 3rd Court of Appeals District, Place No. 6",,DEM,Gisela D. Triana,10,3,7
 Coke,3,Proposition #1 Right to a 21st Century Public Education:,,,Yes,12,6,6
-Coke,3,Proposition #1 Right to a 21st Century Public Education:,,,No,2,2,0
+Coke,3,Proposition #1 Right to a 21st Century Public Education:,,,No,2,0,2
 Coke,3,Proposition #2 Student Loan Debt:,,,Yes,12,6,6
-Coke,3,Proposition #2 Student Loan Debt:,,,No,2,2,0
+Coke,3,Proposition #2 Student Loan Debt:,,,No,2,0,2
 Coke,3,Proposition #3 Right to Healthcare:,,,Yes,12,6,6
-Coke,3,Proposition #3 Right to Healthcare:,,,No,2,2,0
+Coke,3,Proposition #3 Right to Healthcare:,,,No,2,0,2
 Coke,3,Proposition #4 Right to Economic Security:,,,Yes,12,6,6
-Coke,3,Proposition #4 Right to Economic Security:,,,No,2,2,0
-Coke,3,Proposition #5 National Jobs Program:,,,Yes,10,6,4
-Coke,3,Proposition #5 National Jobs Program:,,,No,2,2,0
-Coke,3,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,12,7,5
-Coke,3,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,1,1,0
-Coke,3,Proposition #7 Right to Dignity & Respect:,,,Yes,11,7,4
-Coke,3,Proposition #7 Right to Dignity & Respect:,,,No,1,1,0
-Coke,3,Proposition #8 Right to Housing:,,,Yes,11,7,4
-Coke,3,Proposition #8 Right to Housing:,,,No,1,1,0
-Coke,3,Proposition #9 Right to Vote:,,,Yes,11,6,5
-Coke,3,Proposition #9 Right to Vote:,,,No,2,2,0
-Coke,3,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,11,6,5
-Coke,3,Proposition #10 Right to a Fair Criminal Justice System:,,,No,2,2,0
-Coke,3,Proposition #11 Immigrant Rights:,,,Yes,11,6,5
-Coke,3,Proposition #11 Immigrant Rights:,,,No,2,2,0
-Coke,3,Proposition #12 Right to Fair Taxation:,,,Yes,11,6,5
-Coke,3,Proposition #12 Right to Fair Taxation:,,,No,2,2,0
-Coke,3,Proposition 1,,,YES,82,47,35
-Coke,3,Proposition 1,,,NO,50,21,29
-Coke,3,Proposition 2,,,YES,130,73,57
-Coke,3,Proposition 2,,,NO,17,6,11
-Coke,3,Proposition 3,,,YES,125,71,54
-Coke,3,Proposition 3,,,NO,21,7,14
-Coke,3,Proposition 4,,,YES,132,73,59
-Coke,3,Proposition 4,,,NO,13,5,8
-Coke,3,Proposition 5,,,YES,109,59,50
-Coke,3,Proposition 5,,,NO,35,17,18
-Coke,3,Proposition 6,,,YES,138,73,65
-Coke,3,Proposition 6,,,NO,8,6,2
-Coke,3,Proposition 7,,,YES,99,52,47
-Coke,3,Proposition 7,,,NO,43,23,20
-Coke,3,Proposition 8,,,YES,141,75,66
-Coke,3,Proposition 8,,,NO,7,4,3
-Coke,3,Proposition 9,,,YES,134,69,65
-Coke,3,Proposition 9,,,NO,9,6,3
-Coke,3,Proposition 10,,,YES,126,66,60
-Coke,3,Proposition 10,,,NO,17,10,7
-Coke,3,Proposition 11,,,YES,123,65,58
+Coke,3,Proposition #4 Right to Economic Security:,,,No,2,0,2
+Coke,3,Proposition #5 National Jobs Program:,,,Yes,10,4,6
+Coke,3,Proposition #5 National Jobs Program:,,,No,2,0,2
+Coke,3,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,12,5,7
+Coke,3,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,1,0,1
+Coke,3,Proposition #7 Right to Dignity & Respect:,,,Yes,11,4,7
+Coke,3,Proposition #7 Right to Dignity & Respect:,,,No,1,0,1
+Coke,3,Proposition #8 Right to Housing:,,,Yes,11,4,7
+Coke,3,Proposition #8 Right to Housing:,,,No,1,0,1
+Coke,3,Proposition #9 Right to Vote:,,,Yes,11,5,6
+Coke,3,Proposition #9 Right to Vote:,,,No,2,0,2
+Coke,3,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,11,5,6
+Coke,3,Proposition #10 Right to a Fair Criminal Justice System:,,,No,2,0,2
+Coke,3,Proposition #11 Immigrant Rights:,,,Yes,11,5,6
+Coke,3,Proposition #11 Immigrant Rights:,,,No,2,0,2
+Coke,3,Proposition #12 Right to Fair Taxation:,,,Yes,11,5,6
+Coke,3,Proposition #12 Right to Fair Taxation:,,,No,2,0,2
+Coke,3,Proposition 1,,,YES,82,35,47
+Coke,3,Proposition 1,,,NO,50,29,21
+Coke,3,Proposition 2,,,YES,130,57,73
+Coke,3,Proposition 2,,,NO,17,11,6
+Coke,3,Proposition 3,,,YES,125,54,71
+Coke,3,Proposition 3,,,NO,21,14,7
+Coke,3,Proposition 4,,,YES,132,59,73
+Coke,3,Proposition 4,,,NO,13,8,5
+Coke,3,Proposition 5,,,YES,109,50,59
+Coke,3,Proposition 5,,,NO,35,18,17
+Coke,3,Proposition 6,,,YES,138,65,73
+Coke,3,Proposition 6,,,NO,8,2,6
+Coke,3,Proposition 7,,,YES,99,47,52
+Coke,3,Proposition 7,,,NO,43,20,23
+Coke,3,Proposition 8,,,YES,141,66,75
+Coke,3,Proposition 8,,,NO,7,3,4
+Coke,3,Proposition 9,,,YES,134,65,69
+Coke,3,Proposition 9,,,NO,9,3,6
+Coke,3,Proposition 10,,,YES,126,60,66
+Coke,3,Proposition 10,,,NO,17,7,10
+Coke,3,Proposition 11,,,YES,123,58,65
 Coke,3,Proposition 11,,,NO,22,11,11
-Coke,4,U.S. Senate,,REP,Mary Miller,11,2,9
-Coke,4,U.S. Senate,,REP,Ted Cruz,101,28,73
+Coke,4,U.S. Senate,,REP,Mary Miller,11,9,2
+Coke,4,U.S. Senate,,REP,Ted Cruz,101,73,28
 Coke,4,U.S. Senate,,REP,Over Votes,0,0,0
-Coke,4,U.S. Senate,,REP,Under Votes,7,0,7
+Coke,4,U.S. Senate,,REP,Under Votes,7,7,0
 Coke,4,Registered Voters,,REP,,1046,,
-Coke,4,Ballots Cast,,REP,,139,41,4
-Coke,4,U.S. Senate,,REP,Geraldine Sam,6,2,4
-Coke,4,U.S. Senate,,REP,"Bruce Jacobson, Jr.",3,0,3
+Coke,4,Ballots Cast,,REP,,139,4,41
+Coke,4,U.S. Senate,,REP,Geraldine Sam,6,4,2
+Coke,4,U.S. Senate,,REP,"Bruce Jacobson, Jr.",3,3,0
 Coke,4,U.S. Senate,,REP,Stefano de Stefano,0,0,0
-Coke,4,U.S. House,11,REP,Mike Conaway,105,27,78
-Coke,4,U.S. House,11,REP,Paul Myers,18,5,13
-Coke,4,Governor,,REP,Barbara Krueger,16,5,11
-Coke,4,Governor,,REP,Greg Abbott,105,27,78
+Coke,4,U.S. House,11,REP,Mike Conaway,105,78,27
+Coke,4,U.S. House,11,REP,Paul Myers,18,13,5
+Coke,4,Governor,,REP,Barbara Krueger,16,11,5
+Coke,4,Governor,,REP,Greg Abbott,105,78,27
 Coke,4,Governor,,REP,SECEDE Kilgore,0,0,0
-Coke,4,Lieutenant Governor,,REP,Dan Patrick,63,19,44
-Coke,4,Lieutenant Governor,,REP,Scott Milder,58,13,45
-Coke,4,Attorney General,,REP,Ken Paxton,93,26,67
-Coke,4,Comptroller of Public Accounts,,REP,Glenn Hegar,90,25,65
+Coke,4,Lieutenant Governor,,REP,Dan Patrick,63,44,19
+Coke,4,Lieutenant Governor,,REP,Scott Milder,58,45,13
+Coke,4,Attorney General,,REP,Ken Paxton,93,67,26
+Coke,4,Comptroller of Public Accounts,,REP,Glenn Hegar,90,65,25
 Coke,4,Commissioner of the General Land Office,,REP,Davey Edwards,4,2,2
-Coke,4,Commissioner of the General Land Office,,REP,George P. Bush,76,19,57
-Coke,4,Commissioner of the General Land Office,,REP,Jerry Patterson,32,8,24
-Coke,4,Commissioner of the General Land Office,,REP,Rick Range,1,0,1
-Coke,4,Commissioner of Agriculture,,REP,Sid Miller,58,13,45
-Coke,4,Commissioner of Agriculture,,REP,Jim Hogan,26,9,17
-Coke,4,Commissioner of Agriculture,,REP,Trey Blocker,14,5,9
-Coke,4,Railroad Commissioner,,REP,Weston Martinez,23,7,16
-Coke,4,Railroad Commissioner,,REP,Christi Craddick,66,18,48
-Coke,4,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,77,21,56
-Coke,4,"Justice, Supreme Court, Place 4",,REP,John Devine,75,21,54
-Coke,4,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,76,21,55
-Coke,4,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,40,8,32
-Coke,4,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,43,15,28
-Coke,4,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,77,21,56
-Coke,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,34,10,24
-Coke,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,20,8,12
-Coke,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,28,6,22
-Coke,4,State Representative,72,REP,Drew Darby,104,31,73
-Coke,4,"Justice, 3rd Court of Appeals District, Place No. 2",,REP,Cindy Olson Bourland,76,23,53
-Coke,4,"Justice, 3rd Court of Appeals District, Place No. 3",,REP,Scott Field,77,23,54
-Coke,4,"Justice, 3rd Court of Appeals District, Place No. 5",,REP,David Puryear,77,23,54
-Coke,4,"Justice, 3rd Court of Appeals District, Place No. 6",,REP,Jennifer S. Freel,18,8,10
-Coke,4,"Justice, 3rd Court of Appeals District, Place No. 6",,REP,Kristofer Monson,13,5,8
-Coke,4,"Justice, 3rd Court of Appeals District, Place No. 6",,REP,Donna Davidson,27,7,20
-Coke,4,"Justice, 3rd Court of Appeals District, Place No. 6",,REP,"Michael ""Mike"" Toth",22,4,18
-Coke,4,County Judge,,REP,Hal Spain,76,23,53
-Coke,4,County Judge,,REP,Sherry Davidson,44,6,38
-Coke,4,District and County Clerk,,REP,Monica Reyes,93,27,66
-Coke,4,County Treasurer,,REP,Therese Emert,90,26,64
-Coke,4,"County Commissioner, Precinct No. 4",,REP,Joe Sefcik,89,22,67
-Coke,4,Justice of the Peace,,REP,Russell Johnson,87,26,61
-Coke,4,Justice of the Peace,,REP,Jackie Walker,33,2,31
-Coke,4,U.S. Senate,,DEM,Over Votes,4,4,0
+Coke,4,Commissioner of the General Land Office,,REP,George P. Bush,76,57,19
+Coke,4,Commissioner of the General Land Office,,REP,Jerry Patterson,32,24,8
+Coke,4,Commissioner of the General Land Office,,REP,Rick Range,1,1,0
+Coke,4,Commissioner of Agriculture,,REP,Sid Miller,58,45,13
+Coke,4,Commissioner of Agriculture,,REP,Jim Hogan,26,17,9
+Coke,4,Commissioner of Agriculture,,REP,Trey Blocker,14,9,5
+Coke,4,Railroad Commissioner,,REP,Weston Martinez,23,16,7
+Coke,4,Railroad Commissioner,,REP,Christi Craddick,66,48,18
+Coke,4,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,77,56,21
+Coke,4,"Justice, Supreme Court, Place 4",,REP,John Devine,75,54,21
+Coke,4,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,76,55,21
+Coke,4,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,40,32,8
+Coke,4,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,43,28,15
+Coke,4,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,77,56,21
+Coke,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,34,24,10
+Coke,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,20,12,8
+Coke,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,28,22,6
+Coke,4,State Representative,72,REP,Drew Darby,104,73,31
+Coke,4,"Justice, 3rd Court of Appeals District, Place No. 2",,REP,Cindy Olson Bourland,76,53,23
+Coke,4,"Justice, 3rd Court of Appeals District, Place No. 3",,REP,Scott Field,77,54,23
+Coke,4,"Justice, 3rd Court of Appeals District, Place No. 5",,REP,David Puryear,77,54,23
+Coke,4,"Justice, 3rd Court of Appeals District, Place No. 6",,REP,Jennifer S. Freel,18,10,8
+Coke,4,"Justice, 3rd Court of Appeals District, Place No. 6",,REP,Kristofer Monson,13,8,5
+Coke,4,"Justice, 3rd Court of Appeals District, Place No. 6",,REP,Donna Davidson,27,20,7
+Coke,4,"Justice, 3rd Court of Appeals District, Place No. 6",,REP,"Michael ""Mike"" Toth",22,18,4
+Coke,4,County Judge,,REP,Hal Spain,76,53,23
+Coke,4,County Judge,,REP,Sherry Davidson,44,38,6
+Coke,4,District and County Clerk,,REP,Monica Reyes,93,66,27
+Coke,4,County Treasurer,,REP,Therese Emert,90,64,26
+Coke,4,"County Commissioner, Precinct No. 4",,REP,Joe Sefcik,89,67,22
+Coke,4,Justice of the Peace,,REP,Russell Johnson,87,61,26
+Coke,4,Justice of the Peace,,REP,Jackie Walker,33,31,2
+Coke,4,U.S. Senate,,DEM,Over Votes,4,0,4
 Coke,4,U.S. Senate,,DEM,Under Votes,0,0,0
 Coke,4,Registered Voters,,DEM,,1046,,
-Coke,4,Ballots Cast,,DEM,,139,41,2
-Coke,4,U.S. Senate,,DEM,Beto O'Rourke,5,3,2
+Coke,4,Ballots Cast,,DEM,,139,2,41
+Coke,4,U.S. Senate,,DEM,Beto O'Rourke,5,2,3
 Coke,4,U.S. Senate,,DEM,Sema Hernandez,0,0,0
 Coke,4,U.S. Senate,,DEM,Edward Kimbrough,0,0,0
-Coke,4,U.S. House,11,DEM,Jennie Lou Leeder,7,5,2
-Coke,4,U.S. House,11,DEM,Eric Pfalzgraf,1,1,0
+Coke,4,U.S. House,11,DEM,Jennie Lou Leeder,7,2,5
+Coke,4,U.S. House,11,DEM,Eric Pfalzgraf,1,0,1
 Coke,4,Governor,,DEM,Joe Mumbach,0,0,0
-Coke,4,Governor,,DEM,Lupe Valdez,3,2,1
+Coke,4,Governor,,DEM,Lupe Valdez,3,1,2
 Coke,4,Governor,,DEM,Jeffrey Payne,0,0,0
-Coke,4,Governor,,DEM,"Cedric Davis, Sr.",1,1,0
+Coke,4,Governor,,DEM,"Cedric Davis, Sr.",1,0,1
 Coke,4,Governor,,DEM,Grady Yarbrough,0,0,0
-Coke,4,Governor,,DEM,Tom Wakely,3,2,1
+Coke,4,Governor,,DEM,Tom Wakely,3,1,2
 Coke,4,Governor,,DEM,Andrew White,0,0,0
-Coke,4,Governor,,DEM,James Jolly Clark,1,1,0
+Coke,4,Governor,,DEM,James Jolly Clark,1,0,1
 Coke,4,Governor,,DEM,Adrian Ocegueda,0,0,0
-Coke,4,Lieutenant Governor,,DEM,Michael Cooper,6,5,1
-Coke,4,Lieutenant Governor,,DEM,Mike Collier,3,2,1
-Coke,4,Attorney General,,DEM,Justin Nelson,8,6,2
-Coke,4,Comptroller of Public Accounts,,DEM,Tim Mahoney,4,3,1
-Coke,4,Comptroller of Public Accounts,,DEM,Joi Chevalier,5,4,1
+Coke,4,Lieutenant Governor,,DEM,Michael Cooper,6,1,5
+Coke,4,Lieutenant Governor,,DEM,Mike Collier,3,1,2
+Coke,4,Attorney General,,DEM,Justin Nelson,8,2,6
+Coke,4,Comptroller of Public Accounts,,DEM,Tim Mahoney,4,1,3
+Coke,4,Comptroller of Public Accounts,,DEM,Joi Chevalier,5,1,4
 Coke,4,Commissioner of the General Land Office,,DEM,Miguel Suazo,2,1,1
-Coke,4,Commissioner of the General Land Office,,DEM,Tex Morgan,7,6,1
-Coke,4,Commissioner of Agriculture,,DEM,Kim Olson,8,6,2
-Coke,4,Railroad Commissioner,,DEM,Chris Spellmon,5,4,1
-Coke,4,Railroad Commissioner,,DEM,Roman McAllen,4,3,1
-Coke,4,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,8,6,2
-Coke,4,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,8,6,2
-Coke,4,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,8,6,2
-Coke,4,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,8,6,2
-Coke,4,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,8,6,2
-Coke,4,"Justice, 3rd Court of Appeals District, Place No. 2",,DEM,Edward Smith,8,6,2
-Coke,4,"Justice, 3rd Court of Appeals District, Place No. 3",,DEM,Chari Kelly,9,7,2
-Coke,4,"Justice, 3rd Court of Appeals District, Place No. 5",,DEM,Thomas J. Baker,8,6,2
-Coke,4,"Justice, 3rd Court of Appeals District, Place No. 6",,DEM,Gisela D. Triana,8,6,2
-Coke,4,Proposition #1 Right to a 21st Century Public Education:,,,Yes,9,7,2
+Coke,4,Commissioner of the General Land Office,,DEM,Tex Morgan,7,1,6
+Coke,4,Commissioner of Agriculture,,DEM,Kim Olson,8,2,6
+Coke,4,Railroad Commissioner,,DEM,Chris Spellmon,5,1,4
+Coke,4,Railroad Commissioner,,DEM,Roman McAllen,4,1,3
+Coke,4,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,8,2,6
+Coke,4,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,8,2,6
+Coke,4,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,8,2,6
+Coke,4,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,8,2,6
+Coke,4,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,8,2,6
+Coke,4,"Justice, 3rd Court of Appeals District, Place No. 2",,DEM,Edward Smith,8,2,6
+Coke,4,"Justice, 3rd Court of Appeals District, Place No. 3",,DEM,Chari Kelly,9,2,7
+Coke,4,"Justice, 3rd Court of Appeals District, Place No. 5",,DEM,Thomas J. Baker,8,2,6
+Coke,4,"Justice, 3rd Court of Appeals District, Place No. 6",,DEM,Gisela D. Triana,8,2,6
+Coke,4,Proposition #1 Right to a 21st Century Public Education:,,,Yes,9,2,7
 Coke,4,Proposition #1 Right to a 21st Century Public Education:,,,No,0,0,0
-Coke,4,Proposition #2 Student Loan Debt:,,,Yes,9,7,2
+Coke,4,Proposition #2 Student Loan Debt:,,,Yes,9,2,7
 Coke,4,Proposition #2 Student Loan Debt:,,,No,0,0,0
-Coke,4,Proposition #3 Right to Healthcare:,,,Yes,9,7,2
+Coke,4,Proposition #3 Right to Healthcare:,,,Yes,9,2,7
 Coke,4,Proposition #3 Right to Healthcare:,,,No,0,0,0
-Coke,4,Proposition #4 Right to Economic Security:,,,Yes,9,7,2
+Coke,4,Proposition #4 Right to Economic Security:,,,Yes,9,2,7
 Coke,4,Proposition #4 Right to Economic Security:,,,No,0,0,0
-Coke,4,Proposition #5 National Jobs Program:,,,Yes,7,5,2
-Coke,4,Proposition #5 National Jobs Program:,,,No,2,2,0
-Coke,4,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,9,7,2
+Coke,4,Proposition #5 National Jobs Program:,,,Yes,7,2,5
+Coke,4,Proposition #5 National Jobs Program:,,,No,2,0,2
+Coke,4,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,9,2,7
 Coke,4,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,0,0,0
-Coke,4,Proposition #7 Right to Dignity & Respect:,,,Yes,9,7,2
+Coke,4,Proposition #7 Right to Dignity & Respect:,,,Yes,9,2,7
 Coke,4,Proposition #7 Right to Dignity & Respect:,,,No,0,0,0
-Coke,4,Proposition #8 Right to Housing:,,,Yes,8,6,2
-Coke,4,Proposition #8 Right to Housing:,,,No,1,1,0
-Coke,4,Proposition #9 Right to Vote:,,,Yes,9,7,2
+Coke,4,Proposition #8 Right to Housing:,,,Yes,8,2,6
+Coke,4,Proposition #8 Right to Housing:,,,No,1,0,1
+Coke,4,Proposition #9 Right to Vote:,,,Yes,9,2,7
 Coke,4,Proposition #9 Right to Vote:,,,No,0,0,0
-Coke,4,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,8,6,2
-Coke,4,Proposition #10 Right to a Fair Criminal Justice System:,,,No,1,1,0
-Coke,4,Proposition #11 Immigrant Rights:,,,Yes,8,6,2
-Coke,4,Proposition #11 Immigrant Rights:,,,No,1,1,0
-Coke,4,Proposition #12 Right to Fair Taxation:,,,Yes,9,7,2
+Coke,4,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,8,2,6
+Coke,4,Proposition #10 Right to a Fair Criminal Justice System:,,,No,1,0,1
+Coke,4,Proposition #11 Immigrant Rights:,,,Yes,8,2,6
+Coke,4,Proposition #11 Immigrant Rights:,,,No,1,0,1
+Coke,4,Proposition #12 Right to Fair Taxation:,,,Yes,9,2,7
 Coke,4,Proposition #12 Right to Fair Taxation:,,,No,0,0,0
-Coke,4,Proposition 1,,,YES,64,14,50
-Coke,4,Proposition 1,,,NO,45,15,30
-Coke,4,Proposition 2,,,YES,106,30,76
-Coke,4,Proposition 2,,,NO,11,1,10
-Coke,4,Proposition 3,,,YES,101,28,73
-Coke,4,Proposition 3,,,NO,20,4,16
-Coke,4,Proposition 4,,,YES,110,30,80
-Coke,4,Proposition 4,,,NO,9,1,8
-Coke,4,Proposition 5,,,YES,84,19,65
-Coke,4,Proposition 5,,,NO,37,13,24
-Coke,4,Proposition 6,,,YES,112,29,83
-Coke,4,Proposition 6,,,NO,11,3,8
-Coke,4,Proposition 7,,,YES,83,19,64
-Coke,4,Proposition 7,,,NO,39,14,25
-Coke,4,Proposition 8,,,YES,124,33,91
+Coke,4,Proposition 1,,,YES,64,50,14
+Coke,4,Proposition 1,,,NO,45,30,15
+Coke,4,Proposition 2,,,YES,106,76,30
+Coke,4,Proposition 2,,,NO,11,10,1
+Coke,4,Proposition 3,,,YES,101,73,28
+Coke,4,Proposition 3,,,NO,20,16,4
+Coke,4,Proposition 4,,,YES,110,80,30
+Coke,4,Proposition 4,,,NO,9,8,1
+Coke,4,Proposition 5,,,YES,84,65,19
+Coke,4,Proposition 5,,,NO,37,24,13
+Coke,4,Proposition 6,,,YES,112,83,29
+Coke,4,Proposition 6,,,NO,11,8,3
+Coke,4,Proposition 7,,,YES,83,64,19
+Coke,4,Proposition 7,,,NO,39,25,14
+Coke,4,Proposition 8,,,YES,124,91,33
 Coke,4,Proposition 8,,,NO,2,1,1
-Coke,4,Proposition 9,,,YES,108,26,82
-Coke,4,Proposition 9,,,NO,15,6,9
-Coke,4,Proposition 10,,,YES,104,26,78
-Coke,4,Proposition 10,,,NO,11,6,5
-Coke,4,Proposition 11,,,YES,101,28,73
-Coke,4,Proposition 11,,,NO,22,4,18
+Coke,4,Proposition 9,,,YES,108,82,26
+Coke,4,Proposition 9,,,NO,15,9,6
+Coke,4,Proposition 10,,,YES,104,78,26
+Coke,4,Proposition 10,,,NO,11,5,6
+Coke,4,Proposition 11,,,YES,101,73,28
+Coke,4,Proposition 11,,,NO,22,18,4

@@ -1,1539 +1,1539 @@
-county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+county,precinct,office,district,party,candidate,votes,election_day,early_voting,absentee
 Milam,101,U.S. Senate,,REP,Over Votes,0,0,0,0
-Milam,101,U.S. Senate,,REP,Under Votes,64,38,21,5
+Milam,101,U.S. Senate,,REP,Under Votes,64,21,38,5
 Milam,101,Registered Voters,,,,2314,,,
 Milam,101,Ballots Cast,,REP,,755,,,
 Milam,101,Ballots Cast,,DEM,,89,,,
-Milam,101,U.S. Senate,,REP,Stefano de Stefano,11,8,2,1
-Milam,101,U.S. Senate,,REP,"Bruce Jacobson, Jr.",37,27,10,0
-Milam,101,U.S. Senate,,REP,Geraldine Sam,8,6,2,0
-Milam,101,U.S. Senate,,REP,Ted Cruz,574,323,201,50
-Milam,101,U.S. Senate,,REP,Mary Miller,61,39,19,3
-Milam,101,U.S. House,17,REP,Bill Flores,615,352,214,49
-Milam,101,Governor,,REP,Barbara Krueger,60,39,19,2
-Milam,101,Governor,,REP,Greg Abbott,626,358,215,53
+Milam,101,U.S. Senate,,REP,Stefano de Stefano,11,2,8,1
+Milam,101,U.S. Senate,,REP,"Bruce Jacobson, Jr.",37,10,27,0
+Milam,101,U.S. Senate,,REP,Geraldine Sam,8,2,6,0
+Milam,101,U.S. Senate,,REP,Ted Cruz,574,201,323,50
+Milam,101,U.S. Senate,,REP,Mary Miller,61,19,39,3
+Milam,101,U.S. House,17,REP,Bill Flores,615,214,352,49
+Milam,101,Governor,,REP,Barbara Krueger,60,19,39,2
+Milam,101,Governor,,REP,Greg Abbott,626,215,358,53
 Milam,101,Governor,,REP,SECEDE Kilgore,10,5,5,0
-Milam,101,Lieutenant Governor,,REP,Scott Milder,216,128,80,8
-Milam,101,Lieutenant Governor,,REP,Dan Patrick,461,259,154,48
-Milam,101,Attorney General,,REP,Ken Paxton,576,323,202,51
-Milam,101,Comptroller of Public Accounts,,REP,Glenn Hegar,557,310,197,50
-Milam,101,Commissioner of the General Land Office,,REP,Rick Range,32,18,12,2
-Milam,101,Commissioner of the General Land Office,,REP,George P. Bush,413,224,156,33
-Milam,101,Commissioner of the General Land Office,,REP,Jerry Patterson,192,122,54,16
-Milam,101,Commissioner of the General Land Office,,REP,Davey Edwards,22,15,6,1
-Milam,101,Commissioner of Agriculture,,REP,Jim Hogan,160,87,61,12
-Milam,101,Commissioner of Agriculture,,REP,Sid Miller,332,185,119,28
-Milam,101,Commissioner of Agriculture,,REP,Trey Blocker,93,57,27,9
-Milam,101,Railroad Commissioner,,REP,Weston Martinez,135,79,48,8
-Milam,101,Railroad Commissioner,,REP,Christi Craddick,440,237,159,44
-Milam,101,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,545,299,198,48
-Milam,101,"Justice, Supreme Court, Place 4",,REP,John Devine,544,298,199,47
-Milam,101,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,530,289,194,47
-Milam,101,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,345,198,111,36
-Milam,101,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,234,126,95,13
-Milam,101,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,535,294,193,48
-Milam,101,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,86,51,30,5
-Milam,101,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,232,136,75,21
-Milam,101,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,216,111,86,19
-Milam,101,State Senator,5,REP,Harold Ramm,128,77,49,2
-Milam,101,State Senator,5,REP,Charles Schwertner,526,299,176,51
-Milam,101,State Representative,20,REP,Terry M. Wilson,564,316,201,47
-Milam,101,"Justice, 3rd Court of Appeals District, Place 2",,REP,Cynthia Olson Bourland,520,285,189,46
-Milam,101,"Justice, 3rd Court of Appeals District, Place 3",,REP,Scott Field,525,289,190,46
-Milam,101,"Justice, 3rd Court of Appeals District, Place 5",,REP,David Puryear,521,285,191,45
-Milam,101,"Justice, 3rd Court of Appeals District, Place 6",,REP,Donna Davidson,168,81,70,17
-Milam,101,"Justice, 3rd Court of Appeals District, Place 6",,REP,Kristofer Monson,48,28,16,4
-Milam,101,"Justice, 3rd Court of Appeals District, Place 6",,REP,"Michael ""Mike"" Toth",200,119,64,17
-Milam,101,"Justice, 3rd Court of Appeals District, Place 6",,REP,Jennifer S. Freel,129,75,45,9
-Milam,101,County Judge,,REP,Steve Young,362,199,130,33
-Milam,101,County Judge,,REP,Frank Summers,384,235,124,25
-Milam,101,District Clerk,,REP,Karen Berry,607,345,211,51
-Milam,101,County Clerk,,REP,Jodi Morgan,629,364,211,54
-Milam,101,County Treasurer,,REP,"Jennifer ""Jenger"" Epperson-Moran",176,91,67,18
-Milam,101,County Treasurer,,REP,Linda Acosta,548,332,178,38
-Milam,101,"Justice of the Peace, Precinct No. 1",,REP,Greg Hoelscher,361,204,130,27
-Milam,101,"Justice of the Peace, Precinct No. 1",,REP,Robert Hollas,365,221,117,27
-Milam,101,County Chairman,,REP,Bill Whitmire,610,346,215,49
-Milam,101,Proposition 1,,"",YES,412,229,137,46
-Milam,101,Proposition 1,,"",NO,231,136,86,9
-Milam,101,Proposition 2,,"",YES,589,339,200,50
-Milam,101,Proposition 2,,"",NO,95,52,37,6
-Milam,101,Proposition 3,,"",YES,549,306,192,51
-Milam,101,Proposition 3,,"",NO,118,77,37,4
-Milam,101,Proposition 4,,"",YES,625,359,215,51
-Milam,101,Proposition 4,,"",NO,70,42,24,4
-Milam,101,Proposition 5,,"",YES,522,293,181,48
-Milam,101,Proposition 5,,"",NO,164,103,55,6
-Milam,101,Proposition 6,,"",YES,669,387,230,52
-Milam,101,Proposition 6,,"",NO,36,22,12,2
-Milam,101,Proposition 7,,"",YES,427,239,157,31
-Milam,101,Proposition 7,,"",NO,251,150,79,22
-Milam,101,Proposition 8,,"",YES,685,394,237,54
-Milam,101,Proposition 8,,"",NO,23,16,6,1
-Milam,101,Proposition 9,,"",YES,609,338,220,51
-Milam,101,Proposition 9,,"",NO,84,57,23,4
-Milam,101,Proposition 10,,"",YES,615,337,224,54
-Milam,101,Proposition 10,,"",NO,60,46,13,1
-Milam,101,Proposition 11,,"",YES,607,349,208,50
-Milam,101,Proposition 11,,"",NO,90,52,33,5
-Milam,101,U.S. Senate,,DEM,Beto O'Rourke,33,16,11,6
-Milam,101,U.S. Senate,,DEM,Edward Kimbrough,29,12,10,7
-Milam,101,U.S. Senate,,DEM,Sema Hernandez,21,8,10,3
-Milam,101,U.S. House,17,DEM,Rick Kennedy,57,24,17,16
-Milam,101,U.S. House,17,DEM,Dale Mantey,28,12,14,2
-Milam,101,Governor,,DEM,Andrew White,26,14,5,7
+Milam,101,Lieutenant Governor,,REP,Scott Milder,216,80,128,8
+Milam,101,Lieutenant Governor,,REP,Dan Patrick,461,154,259,48
+Milam,101,Attorney General,,REP,Ken Paxton,576,202,323,51
+Milam,101,Comptroller of Public Accounts,,REP,Glenn Hegar,557,197,310,50
+Milam,101,Commissioner of the General Land Office,,REP,Rick Range,32,12,18,2
+Milam,101,Commissioner of the General Land Office,,REP,George P. Bush,413,156,224,33
+Milam,101,Commissioner of the General Land Office,,REP,Jerry Patterson,192,54,122,16
+Milam,101,Commissioner of the General Land Office,,REP,Davey Edwards,22,6,15,1
+Milam,101,Commissioner of Agriculture,,REP,Jim Hogan,160,61,87,12
+Milam,101,Commissioner of Agriculture,,REP,Sid Miller,332,119,185,28
+Milam,101,Commissioner of Agriculture,,REP,Trey Blocker,93,27,57,9
+Milam,101,Railroad Commissioner,,REP,Weston Martinez,135,48,79,8
+Milam,101,Railroad Commissioner,,REP,Christi Craddick,440,159,237,44
+Milam,101,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,545,198,299,48
+Milam,101,"Justice, Supreme Court, Place 4",,REP,John Devine,544,199,298,47
+Milam,101,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,530,194,289,47
+Milam,101,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,345,111,198,36
+Milam,101,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,234,95,126,13
+Milam,101,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,535,193,294,48
+Milam,101,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,86,30,51,5
+Milam,101,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,232,75,136,21
+Milam,101,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,216,86,111,19
+Milam,101,State Senator,5,REP,Harold Ramm,128,49,77,2
+Milam,101,State Senator,5,REP,Charles Schwertner,526,176,299,51
+Milam,101,State Representative,20,REP,Terry M. Wilson,564,201,316,47
+Milam,101,"Justice, 3rd Court of Appeals District, Place 2",,REP,Cynthia Olson Bourland,520,189,285,46
+Milam,101,"Justice, 3rd Court of Appeals District, Place 3",,REP,Scott Field,525,190,289,46
+Milam,101,"Justice, 3rd Court of Appeals District, Place 5",,REP,David Puryear,521,191,285,45
+Milam,101,"Justice, 3rd Court of Appeals District, Place 6",,REP,Donna Davidson,168,70,81,17
+Milam,101,"Justice, 3rd Court of Appeals District, Place 6",,REP,Kristofer Monson,48,16,28,4
+Milam,101,"Justice, 3rd Court of Appeals District, Place 6",,REP,"Michael ""Mike"" Toth",200,64,119,17
+Milam,101,"Justice, 3rd Court of Appeals District, Place 6",,REP,Jennifer S. Freel,129,45,75,9
+Milam,101,County Judge,,REP,Steve Young,362,130,199,33
+Milam,101,County Judge,,REP,Frank Summers,384,124,235,25
+Milam,101,District Clerk,,REP,Karen Berry,607,211,345,51
+Milam,101,County Clerk,,REP,Jodi Morgan,629,211,364,54
+Milam,101,County Treasurer,,REP,"Jennifer ""Jenger"" Epperson-Moran",176,67,91,18
+Milam,101,County Treasurer,,REP,Linda Acosta,548,178,332,38
+Milam,101,"Justice of the Peace, Precinct No. 1",,REP,Greg Hoelscher,361,130,204,27
+Milam,101,"Justice of the Peace, Precinct No. 1",,REP,Robert Hollas,365,117,221,27
+Milam,101,County Chairman,,REP,Bill Whitmire,610,215,346,49
+Milam,101,Proposition 1,,,YES,412,137,229,46
+Milam,101,Proposition 1,,,NO,231,86,136,9
+Milam,101,Proposition 2,,,YES,589,200,339,50
+Milam,101,Proposition 2,,,NO,95,37,52,6
+Milam,101,Proposition 3,,,YES,549,192,306,51
+Milam,101,Proposition 3,,,NO,118,37,77,4
+Milam,101,Proposition 4,,,YES,625,215,359,51
+Milam,101,Proposition 4,,,NO,70,24,42,4
+Milam,101,Proposition 5,,,YES,522,181,293,48
+Milam,101,Proposition 5,,,NO,164,55,103,6
+Milam,101,Proposition 6,,,YES,669,230,387,52
+Milam,101,Proposition 6,,,NO,36,12,22,2
+Milam,101,Proposition 7,,,YES,427,157,239,31
+Milam,101,Proposition 7,,,NO,251,79,150,22
+Milam,101,Proposition 8,,,YES,685,237,394,54
+Milam,101,Proposition 8,,,NO,23,6,16,1
+Milam,101,Proposition 9,,,YES,609,220,338,51
+Milam,101,Proposition 9,,,NO,84,23,57,4
+Milam,101,Proposition 10,,,YES,615,224,337,54
+Milam,101,Proposition 10,,,NO,60,13,46,1
+Milam,101,Proposition 11,,,YES,607,208,349,50
+Milam,101,Proposition 11,,,NO,90,33,52,5
+Milam,101,U.S. Senate,,DEM,Beto O'Rourke,33,11,16,6
+Milam,101,U.S. Senate,,DEM,Edward Kimbrough,29,10,12,7
+Milam,101,U.S. Senate,,DEM,Sema Hernandez,21,10,8,3
+Milam,101,U.S. House,17,DEM,Rick Kennedy,57,17,24,16
+Milam,101,U.S. House,17,DEM,Dale Mantey,28,14,12,2
+Milam,101,Governor,,DEM,Andrew White,26,5,14,7
 Milam,101,Governor,,DEM,James Jolly Clark,3,1,1,1
 Milam,101,Governor,,DEM,Joe Mumbach,2,1,1,0
-Milam,101,Governor,,DEM,Tom Wakely,7,3,4,0
-Milam,101,Governor,,DEM,Lupe Valdez,24,12,10,2
-Milam,101,Governor,,DEM,Jeffrey Payne,2,0,2,0
-Milam,101,Governor,,DEM,Grady Yarbrough,14,3,6,5
+Milam,101,Governor,,DEM,Tom Wakely,7,4,3,0
+Milam,101,Governor,,DEM,Lupe Valdez,24,10,12,2
+Milam,101,Governor,,DEM,Jeffrey Payne,2,2,0,0
+Milam,101,Governor,,DEM,Grady Yarbrough,14,6,3,5
 Milam,101,Governor,,DEM,"Cedric Davis, Sr.",0,0,0,0
-Milam,101,Governor,,DEM,Adrian Ocegueda,4,2,0,2
-Milam,101,Lieutenant Governor,,DEM,Michael Cooper,36,17,12,7
-Milam,101,Lieutenant Governor,,DEM,Mike Collier,46,19,16,11
-Milam,101,Attorney General,,DEM,Justin Nelson,75,33,25,17
-Milam,101,Comptroller of Public Accounts,,DEM,Joi Chevalier,25,17,6,2
-Milam,101,Comptroller of Public Accounts,,DEM,Tim Mahoney,53,18,20,15
-Milam,101,Commissioner of the General Land Office,,"",Tex Morgan,35,11,9,15
-Milam,101,Commissioner of the General Land Office,,DEM,Miguel Suazo,44,25,17,2
-Milam,101,Commissioner of Agriculture,,DEM,Kim Olson,78,35,27,16
-Milam,101,Railroad Commissioner,,DEM,Roman McAllen,48,23,14,11
-Milam,101,Railroad Commissioner,,DEM,Chris Spellmon,30,13,11,6
-Milam,101,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,75,36,24,15
-Milam,101,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,75,35,25,15
-Milam,101,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,74,34,26,14
-Milam,101,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,76,35,27,14
-Milam,101,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,77,34,28,15
-Milam,101,State Senator,5,DEM,Meg Walsh,49,26,13,10
-Milam,101,State Senator,5,DEM,"Glenn ""Grumpy"" Williams",17,4,8,5
-Milam,101,State Senator,5,DEM,Brian E. Cronin,11,4,5,2
-Milam,101,State Representative,20,DEM,Stephen M. Wyman,73,33,25,15
-Milam,101,"Justice, 3rd Court of Appeals District, Place 2",,DEM,Edward Smith,76,36,25,15
-Milam,101,"Justice, 3rd Court of Appeals District, Place 3",,DEM,Chari Kelly,75,35,26,14
-Milam,101,"Justice, 3rd Court of Appeals District, Place 5",,DEM,Thomas J. Baker,75,35,25,15
-Milam,101,"Justice, 3rd Court of Appeals District, Place 6",,DEM,Gisela D. Triana,74,36,25,13
-Milam,101,County Judge,,DEM,Jared Melde,71,32,25,14
-Milam,101,Proposition 1,,"",YES,78,36,29,13
-Milam,101,Proposition 1,,"",NO,4,0,1,3
-Milam,101,Proposition 2,,"",YES,71,32,26,13
-Milam,101,Proposition 2,,"",NO,11,4,4,3
-Milam,101,Proposition 3,,"",YES,72,32,27,13
-Milam,101,Proposition 3,,"",NO,10,4,3,3
-Milam,101,Proposition 4,,"",YES,79,33,30,16
-Milam,101,Proposition 4,,"",NO,3,2,0,1
-Milam,101,Proposition 5,,"",YES,75,34,27,14
-Milam,101,Proposition 5,,"",NO,6,1,3,2
-Milam,101,Proposition 6,,"",YES,83,36,30,17
-Milam,101,Proposition 6,,"",NO,0,0,0,0
-Milam,101,Proposition 7,,"",YES,80,35,29,16
-Milam,101,Proposition 7,,"",NO,3,1,1,1
-Milam,101,Proposition 8,,"",YES,69,33,25,11
-Milam,101,Proposition 8,,"",NO,11,2,4,5
-Milam,101,Proposition 9,,"",YES,75,32,28,15
-Milam,101,Proposition 9,,"",NO,6,3,2,1
-Milam,101,Proposition 10,,"",YES,76,33,30,13
-Milam,101,Proposition 10,,"",NO,6,2,1,3
-Milam,101,Proposition 11,,"",YES,69,33,25,11
-Milam,101,Proposition 11,,"",NO,13,3,5,5
-Milam,101,Proposition 12,,"",YES,79,35,29,15
-Milam,101,Proposition 12,,"",NO,3,1,2,0
+Milam,101,Governor,,DEM,Adrian Ocegueda,4,0,2,2
+Milam,101,Lieutenant Governor,,DEM,Michael Cooper,36,12,17,7
+Milam,101,Lieutenant Governor,,DEM,Mike Collier,46,16,19,11
+Milam,101,Attorney General,,DEM,Justin Nelson,75,25,33,17
+Milam,101,Comptroller of Public Accounts,,DEM,Joi Chevalier,25,6,17,2
+Milam,101,Comptroller of Public Accounts,,DEM,Tim Mahoney,53,20,18,15
+Milam,101,Commissioner of the General Land Office,,,Tex Morgan,35,9,11,15
+Milam,101,Commissioner of the General Land Office,,DEM,Miguel Suazo,44,17,25,2
+Milam,101,Commissioner of Agriculture,,DEM,Kim Olson,78,27,35,16
+Milam,101,Railroad Commissioner,,DEM,Roman McAllen,48,14,23,11
+Milam,101,Railroad Commissioner,,DEM,Chris Spellmon,30,11,13,6
+Milam,101,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,75,24,36,15
+Milam,101,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,75,25,35,15
+Milam,101,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,74,26,34,14
+Milam,101,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,76,27,35,14
+Milam,101,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,77,28,34,15
+Milam,101,State Senator,5,DEM,Meg Walsh,49,13,26,10
+Milam,101,State Senator,5,DEM,"Glenn ""Grumpy"" Williams",17,8,4,5
+Milam,101,State Senator,5,DEM,Brian E. Cronin,11,5,4,2
+Milam,101,State Representative,20,DEM,Stephen M. Wyman,73,25,33,15
+Milam,101,"Justice, 3rd Court of Appeals District, Place 2",,DEM,Edward Smith,76,25,36,15
+Milam,101,"Justice, 3rd Court of Appeals District, Place 3",,DEM,Chari Kelly,75,26,35,14
+Milam,101,"Justice, 3rd Court of Appeals District, Place 5",,DEM,Thomas J. Baker,75,25,35,15
+Milam,101,"Justice, 3rd Court of Appeals District, Place 6",,DEM,Gisela D. Triana,74,25,36,13
+Milam,101,County Judge,,DEM,Jared Melde,71,25,32,14
+Milam,101,Proposition 1,,,YES,78,29,36,13
+Milam,101,Proposition 1,,,NO,4,1,0,3
+Milam,101,Proposition 2,,,YES,71,26,32,13
+Milam,101,Proposition 2,,,NO,11,4,4,3
+Milam,101,Proposition 3,,,YES,72,27,32,13
+Milam,101,Proposition 3,,,NO,10,3,4,3
+Milam,101,Proposition 4,,,YES,79,30,33,16
+Milam,101,Proposition 4,,,NO,3,0,2,1
+Milam,101,Proposition 5,,,YES,75,27,34,14
+Milam,101,Proposition 5,,,NO,6,3,1,2
+Milam,101,Proposition 6,,,YES,83,30,36,17
+Milam,101,Proposition 6,,,NO,0,0,0,0
+Milam,101,Proposition 7,,,YES,80,29,35,16
+Milam,101,Proposition 7,,,NO,3,1,1,1
+Milam,101,Proposition 8,,,YES,69,25,33,11
+Milam,101,Proposition 8,,,NO,11,4,2,5
+Milam,101,Proposition 9,,,YES,75,28,32,15
+Milam,101,Proposition 9,,,NO,6,2,3,1
+Milam,101,Proposition 10,,,YES,76,30,33,13
+Milam,101,Proposition 10,,,NO,6,1,2,3
+Milam,101,Proposition 11,,,YES,69,25,33,11
+Milam,101,Proposition 11,,,NO,13,5,3,5
+Milam,101,Proposition 12,,,YES,79,29,35,15
+Milam,101,Proposition 12,,,NO,3,2,1,0
 Milam,105,U.S. Senate,,REP,Over Votes,0,0,0,0
-Milam,105,U.S. Senate,,REP,Under Votes,9,6,0,3
+Milam,105,U.S. Senate,,REP,Under Votes,9,0,6,3
 Milam,105,Registered Voters,,,,1108,,,
 Milam,105,Ballots Cast,,REP,,240,,,
 Milam,105,Ballots Cast,,DEM,,21,,,
-Milam,105,U.S. Senate,,REP,Stefano de Stefano,1,0,1,0
+Milam,105,U.S. Senate,,REP,Stefano de Stefano,1,1,0,0
 Milam,105,U.S. Senate,,REP,"Bruce Jacobson, Jr.",6,3,3,0
 Milam,105,U.S. Senate,,REP,Geraldine Sam,4,2,2,0
-Milam,105,U.S. Senate,,REP,Ted Cruz,192,71,93,28
-Milam,105,U.S. Senate,,REP,Mary Miller,28,10,15,3
-Milam,105,U.S. House,17,REP,Bill Flores,196,75,97,24
-Milam,105,Governor,,REP,Barbara Krueger,22,9,10,3
-Milam,105,Governor,,REP,Greg Abbott,200,75,98,27
+Milam,105,U.S. Senate,,REP,Ted Cruz,192,93,71,28
+Milam,105,U.S. Senate,,REP,Mary Miller,28,15,10,3
+Milam,105,U.S. House,17,REP,Bill Flores,196,97,75,24
+Milam,105,Governor,,REP,Barbara Krueger,22,10,9,3
+Milam,105,Governor,,REP,Greg Abbott,200,98,75,27
 Milam,105,Governor,,REP,SECEDE Kilgore,10,4,4,2
-Milam,105,Lieutenant Governor,,REP,Scott Milder,53,20,27,6
-Milam,105,Lieutenant Governor,,REP,Dan Patrick,177,68,83,26
-Milam,105,Attorney General,,REP,Ken Paxton,203,77,101,25
-Milam,105,Comptroller of Public Accounts,,REP,Glenn Hegar,200,74,103,23
-Milam,105,Commissioner of the General Land Office,,REP,Rick Range,13,8,2,3
-Milam,105,Commissioner of the General Land Office,,REP,George P. Bush,105,40,54,11
-Milam,105,Commissioner of the General Land Office,,REP,Jerry Patterson,82,29,43,10
-Milam,105,Commissioner of the General Land Office,,REP,Davey Edwards,17,5,9,3
-Milam,105,Commissioner of Agriculture,,REP,Jim Hogan,44,15,16,13
-Milam,105,Commissioner of Agriculture,,REP,Sid Miller,135,47,75,13
-Milam,105,Commissioner of Agriculture,,REP,Trey Blocker,32,17,14,1
-Milam,105,Railroad Commissioner,,REP,Weston Martinez,42,16,22,4
-Milam,105,Railroad Commissioner,,REP,Christi Craddick,161,63,75,23
-Milam,105,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,191,71,99,21
-Milam,105,"Justice, Supreme Court, Place 4",,REP,John Devine,185,70,94,21
-Milam,105,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,184,69,94,21
-Milam,105,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,127,56,58,13
-Milam,105,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,69,22,38,9
-Milam,105,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,179,67,92,20
-Milam,105,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,31,17,13,1
-Milam,105,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,77,24,41,12
-Milam,105,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,81,31,41,9
+Milam,105,Lieutenant Governor,,REP,Scott Milder,53,27,20,6
+Milam,105,Lieutenant Governor,,REP,Dan Patrick,177,83,68,26
+Milam,105,Attorney General,,REP,Ken Paxton,203,101,77,25
+Milam,105,Comptroller of Public Accounts,,REP,Glenn Hegar,200,103,74,23
+Milam,105,Commissioner of the General Land Office,,REP,Rick Range,13,2,8,3
+Milam,105,Commissioner of the General Land Office,,REP,George P. Bush,105,54,40,11
+Milam,105,Commissioner of the General Land Office,,REP,Jerry Patterson,82,43,29,10
+Milam,105,Commissioner of the General Land Office,,REP,Davey Edwards,17,9,5,3
+Milam,105,Commissioner of Agriculture,,REP,Jim Hogan,44,16,15,13
+Milam,105,Commissioner of Agriculture,,REP,Sid Miller,135,75,47,13
+Milam,105,Commissioner of Agriculture,,REP,Trey Blocker,32,14,17,1
+Milam,105,Railroad Commissioner,,REP,Weston Martinez,42,22,16,4
+Milam,105,Railroad Commissioner,,REP,Christi Craddick,161,75,63,23
+Milam,105,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,191,99,71,21
+Milam,105,"Justice, Supreme Court, Place 4",,REP,John Devine,185,94,70,21
+Milam,105,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,184,94,69,21
+Milam,105,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,127,58,56,13
+Milam,105,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,69,38,22,9
+Milam,105,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,179,92,67,20
+Milam,105,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,31,13,17,1
+Milam,105,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,77,41,24,12
+Milam,105,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,81,41,31,9
 Milam,105,State Senator,5,REP,Harold Ramm,45,20,20,5
-Milam,105,State Senator,5,REP,Charles Schwertner,174,64,87,23
-Milam,105,State Representative,20,REP,Terry M. Wilson,190,74,93,23
-Milam,105,"Justice, 3rd Court of Appeals District, Place 2",,REP,Cynthia Olson Bourland,179,68,92,19
-Milam,105,"Justice, 3rd Court of Appeals District, Place 3",,REP,Scott Field,179,68,91,20
-Milam,105,"Justice, 3rd Court of Appeals District, Place 5",,REP,David Puryear,176,67,89,20
-Milam,105,"Justice, 3rd Court of Appeals District, Place 6",,REP,Donna Davidson,54,19,29,6
-Milam,105,"Justice, 3rd Court of Appeals District, Place 6",,REP,Kristofer Monson,20,7,9,4
-Milam,105,"Justice, 3rd Court of Appeals District, Place 6",,REP,"Michael ""Mike"" Toth",73,26,41,6
-Milam,105,"Justice, 3rd Court of Appeals District, Place 6",,REP,Jennifer S. Freel,39,13,18,8
-Milam,105,County Judge,,REP,Steve Young,130,46,64,20
-Milam,105,County Judge,,REP,Frank Summers,94,40,45,9
-Milam,105,District Clerk,,REP,Karen Berry,191,74,97,20
-Milam,105,County Clerk,,REP,Jodi Morgan,189,72,95,22
-Milam,105,County Treasurer,,REP,"Jennifer ""Jenger"" Epperson-Moran",92,36,41,15
-Milam,105,County Treasurer,,REP,Linda Acosta,113,44,59,10
-Milam,105,"Justice of the Peace, Precinct No. 1",,REP,Greg Hoelscher,119,53,52,14
-Milam,105,"Justice of the Peace, Precinct No. 1",,REP,Robert Hollas,88,26,47,15
-Milam,105,County Chairman,,REP,Bill Whitmire,187,73,94,20
-Milam,105,Proposition 1,,"",YES,153,59,74,20
-Milam,105,Proposition 1,,"",NO,65,25,32,8
-Milam,105,Proposition 2,,"",YES,219,82,104,33
-Milam,105,Proposition 2,,"",NO,10,5,5,0
-Milam,105,Proposition 3,,"",YES,191,74,90,27
-Milam,105,Proposition 3,,"",NO,32,11,16,5
-Milam,105,Proposition 4,,"",YES,215,83,102,30
-Milam,105,Proposition 4,,"",NO,13,4,6,3
-Milam,105,Proposition 5,,"",YES,186,68,91,27
-Milam,105,Proposition 5,,"",NO,37,15,17,5
-Milam,105,Proposition 6,,"",YES,222,82,107,33
-Milam,105,Proposition 6,,"",NO,6,4,2,0
-Milam,105,Proposition 7,,"",YES,152,51,80,21
-Milam,105,Proposition 7,,"",NO,74,31,31,12
-Milam,105,Proposition 8,,"",YES,215,82,105,28
-Milam,105,Proposition 8,,"",NO,12,3,4,5
-Milam,105,Proposition 9,,"",YES,199,75,97,27
-Milam,105,Proposition 9,,"",NO,23,7,11,5
-Milam,105,Proposition 10,,"",YES,224,87,105,32
-Milam,105,Proposition 10,,"",NO,4,1,2,1
-Milam,105,Proposition 11,,"",YES,215,84,100,31
-Milam,105,Proposition 11,,"",NO,14,3,9,2
-Milam,105,U.S. Senate,,DEM,Beto O'Rourke,14,3,11,0
+Milam,105,State Senator,5,REP,Charles Schwertner,174,87,64,23
+Milam,105,State Representative,20,REP,Terry M. Wilson,190,93,74,23
+Milam,105,"Justice, 3rd Court of Appeals District, Place 2",,REP,Cynthia Olson Bourland,179,92,68,19
+Milam,105,"Justice, 3rd Court of Appeals District, Place 3",,REP,Scott Field,179,91,68,20
+Milam,105,"Justice, 3rd Court of Appeals District, Place 5",,REP,David Puryear,176,89,67,20
+Milam,105,"Justice, 3rd Court of Appeals District, Place 6",,REP,Donna Davidson,54,29,19,6
+Milam,105,"Justice, 3rd Court of Appeals District, Place 6",,REP,Kristofer Monson,20,9,7,4
+Milam,105,"Justice, 3rd Court of Appeals District, Place 6",,REP,"Michael ""Mike"" Toth",73,41,26,6
+Milam,105,"Justice, 3rd Court of Appeals District, Place 6",,REP,Jennifer S. Freel,39,18,13,8
+Milam,105,County Judge,,REP,Steve Young,130,64,46,20
+Milam,105,County Judge,,REP,Frank Summers,94,45,40,9
+Milam,105,District Clerk,,REP,Karen Berry,191,97,74,20
+Milam,105,County Clerk,,REP,Jodi Morgan,189,95,72,22
+Milam,105,County Treasurer,,REP,"Jennifer ""Jenger"" Epperson-Moran",92,41,36,15
+Milam,105,County Treasurer,,REP,Linda Acosta,113,59,44,10
+Milam,105,"Justice of the Peace, Precinct No. 1",,REP,Greg Hoelscher,119,52,53,14
+Milam,105,"Justice of the Peace, Precinct No. 1",,REP,Robert Hollas,88,47,26,15
+Milam,105,County Chairman,,REP,Bill Whitmire,187,94,73,20
+Milam,105,Proposition 1,,,YES,153,74,59,20
+Milam,105,Proposition 1,,,NO,65,32,25,8
+Milam,105,Proposition 2,,,YES,219,104,82,33
+Milam,105,Proposition 2,,,NO,10,5,5,0
+Milam,105,Proposition 3,,,YES,191,90,74,27
+Milam,105,Proposition 3,,,NO,32,16,11,5
+Milam,105,Proposition 4,,,YES,215,102,83,30
+Milam,105,Proposition 4,,,NO,13,6,4,3
+Milam,105,Proposition 5,,,YES,186,91,68,27
+Milam,105,Proposition 5,,,NO,37,17,15,5
+Milam,105,Proposition 6,,,YES,222,107,82,33
+Milam,105,Proposition 6,,,NO,6,2,4,0
+Milam,105,Proposition 7,,,YES,152,80,51,21
+Milam,105,Proposition 7,,,NO,74,31,31,12
+Milam,105,Proposition 8,,,YES,215,105,82,28
+Milam,105,Proposition 8,,,NO,12,4,3,5
+Milam,105,Proposition 9,,,YES,199,97,75,27
+Milam,105,Proposition 9,,,NO,23,11,7,5
+Milam,105,Proposition 10,,,YES,224,105,87,32
+Milam,105,Proposition 10,,,NO,4,2,1,1
+Milam,105,Proposition 11,,,YES,215,100,84,31
+Milam,105,Proposition 11,,,NO,14,9,3,2
+Milam,105,U.S. Senate,,DEM,Beto O'Rourke,14,11,3,0
 Milam,105,U.S. Senate,,DEM,Edward Kimbrough,3,1,1,1
 Milam,105,U.S. Senate,,DEM,Sema Hernandez,3,1,1,1
-Milam,105,U.S. House,17,DEM,Rick Kennedy,11,2,8,1
-Milam,105,U.S. House,17,DEM,Dale Mantey,8,3,4,1
-Milam,105,Governor,,DEM,Andrew White,12,1,11,0
+Milam,105,U.S. House,17,DEM,Rick Kennedy,11,8,2,1
+Milam,105,U.S. House,17,DEM,Dale Mantey,8,4,3,1
+Milam,105,Governor,,DEM,Andrew White,12,11,1,0
 Milam,105,Governor,,DEM,James Jolly Clark,0,0,0,0
 Milam,105,Governor,,DEM,Joe Mumbach,0,0,0,0
-Milam,105,Governor,,DEM,Tom Wakely,1,1,0,0
-Milam,105,Governor,,DEM,Lupe Valdez,7,3,1,3
+Milam,105,Governor,,DEM,Tom Wakely,1,0,1,0
+Milam,105,Governor,,DEM,Lupe Valdez,7,1,3,3
 Milam,105,Governor,,DEM,Jeffrey Payne,0,0,0,0
 Milam,105,Governor,,DEM,Grady Yarbrough,0,0,0,0
 Milam,105,Governor,,DEM,"Cedric Davis, Sr.",0,0,0,0
 Milam,105,Governor,,DEM,Adrian Ocegueda,0,0,0,0
-Milam,105,Lieutenant Governor,,DEM,Michael Cooper,5,1,3,1
-Milam,105,Lieutenant Governor,,DEM,Mike Collier,14,4,9,1
-Milam,105,Attorney General,,DEM,Justin Nelson,19,5,12,2
-Milam,105,Comptroller of Public Accounts,,DEM,Joi Chevalier,10,1,7,2
-Milam,105,Comptroller of Public Accounts,,DEM,Tim Mahoney,10,4,5,1
-Milam,105,Commissioner of the General Land Office,,"",Tex Morgan,4,2,1,1
-Milam,105,Commissioner of the General Land Office,,DEM,Miguel Suazo,15,3,11,1
-Milam,105,Commissioner of Agriculture,,DEM,Kim Olson,18,5,11,2
-Milam,105,Railroad Commissioner,,DEM,Roman McAllen,8,1,6,1
-Milam,105,Railroad Commissioner,,DEM,Chris Spellmon,11,4,6,1
-Milam,105,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,18,4,12,2
-Milam,105,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,18,5,11,2
-Milam,105,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,18,5,11,2
-Milam,105,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,18,4,12,2
-Milam,105,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,18,4,12,2
-Milam,105,State Senator,5,DEM,Meg Walsh,17,4,11,2
+Milam,105,Lieutenant Governor,,DEM,Michael Cooper,5,3,1,1
+Milam,105,Lieutenant Governor,,DEM,Mike Collier,14,9,4,1
+Milam,105,Attorney General,,DEM,Justin Nelson,19,12,5,2
+Milam,105,Comptroller of Public Accounts,,DEM,Joi Chevalier,10,7,1,2
+Milam,105,Comptroller of Public Accounts,,DEM,Tim Mahoney,10,5,4,1
+Milam,105,Commissioner of the General Land Office,,,Tex Morgan,4,1,2,1
+Milam,105,Commissioner of the General Land Office,,DEM,Miguel Suazo,15,11,3,1
+Milam,105,Commissioner of Agriculture,,DEM,Kim Olson,18,11,5,2
+Milam,105,Railroad Commissioner,,DEM,Roman McAllen,8,6,1,1
+Milam,105,Railroad Commissioner,,DEM,Chris Spellmon,11,6,4,1
+Milam,105,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,18,12,4,2
+Milam,105,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,18,11,5,2
+Milam,105,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,18,11,5,2
+Milam,105,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,18,12,4,2
+Milam,105,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,18,12,4,2
+Milam,105,State Senator,5,DEM,Meg Walsh,17,11,4,2
 Milam,105,State Senator,5,DEM,"Glenn ""Grumpy"" Williams",2,1,1,0
 Milam,105,State Senator,5,DEM,Brian E. Cronin,0,0,0,0
-Milam,105,State Representative,20,DEM,Stephen M. Wyman,19,5,12,2
-Milam,105,"Justice, 3rd Court of Appeals District, Place 2",,DEM,Edward Smith,18,5,11,2
-Milam,105,"Justice, 3rd Court of Appeals District, Place 3",,DEM,Chari Kelly,18,4,12,2
-Milam,105,"Justice, 3rd Court of Appeals District, Place 5",,DEM,Thomas J. Baker,17,4,11,2
-Milam,105,"Justice, 3rd Court of Appeals District, Place 6",,DEM,Gisela D. Triana,18,4,12,2
-Milam,105,County Judge,,DEM,Jared Melde,19,5,11,3
-Milam,105,Proposition 1,,"",YES,21,5,13,3
-Milam,105,Proposition 1,,"",NO,0,0,0,0
-Milam,105,Proposition 2,,"",YES,20,4,13,3
-Milam,105,Proposition 2,,"",NO,1,1,0,0
-Milam,105,Proposition 3,,"",YES,20,5,12,3
-Milam,105,Proposition 3,,"",NO,1,0,1,0
-Milam,105,Proposition 4,,"",YES,21,5,13,3
-Milam,105,Proposition 4,,"",NO,0,0,0,0
-Milam,105,Proposition 5,,"",YES,18,4,12,2
-Milam,105,Proposition 5,,"",NO,2,1,1,0
-Milam,105,Proposition 6,,"",YES,19,4,12,3
-Milam,105,Proposition 6,,"",NO,1,1,0,0
-Milam,105,Proposition 7,,"",YES,21,5,13,3
-Milam,105,Proposition 7,,"",NO,0,0,0,0
-Milam,105,Proposition 8,,"",YES,19,5,11,3
-Milam,105,Proposition 8,,"",NO,2,0,2,0
-Milam,105,Proposition 9,,"",YES,20,5,12,3
-Milam,105,Proposition 9,,"",NO,1,0,1,0
-Milam,105,Proposition 10,,"",YES,20,5,12,3
-Milam,105,Proposition 10,,"",NO,1,0,1,0
-Milam,105,Proposition 11,,"",YES,20,5,12,3
-Milam,105,Proposition 11,,"",NO,1,0,1,0
-Milam,105,Proposition 12,,"",YES,21,5,13,3
-Milam,105,Proposition 12,,"",NO,0,0,0,0
+Milam,105,State Representative,20,DEM,Stephen M. Wyman,19,12,5,2
+Milam,105,"Justice, 3rd Court of Appeals District, Place 2",,DEM,Edward Smith,18,11,5,2
+Milam,105,"Justice, 3rd Court of Appeals District, Place 3",,DEM,Chari Kelly,18,12,4,2
+Milam,105,"Justice, 3rd Court of Appeals District, Place 5",,DEM,Thomas J. Baker,17,11,4,2
+Milam,105,"Justice, 3rd Court of Appeals District, Place 6",,DEM,Gisela D. Triana,18,12,4,2
+Milam,105,County Judge,,DEM,Jared Melde,19,11,5,3
+Milam,105,Proposition 1,,,YES,21,13,5,3
+Milam,105,Proposition 1,,,NO,0,0,0,0
+Milam,105,Proposition 2,,,YES,20,13,4,3
+Milam,105,Proposition 2,,,NO,1,0,1,0
+Milam,105,Proposition 3,,,YES,20,12,5,3
+Milam,105,Proposition 3,,,NO,1,1,0,0
+Milam,105,Proposition 4,,,YES,21,13,5,3
+Milam,105,Proposition 4,,,NO,0,0,0,0
+Milam,105,Proposition 5,,,YES,18,12,4,2
+Milam,105,Proposition 5,,,NO,2,1,1,0
+Milam,105,Proposition 6,,,YES,19,12,4,3
+Milam,105,Proposition 6,,,NO,1,0,1,0
+Milam,105,Proposition 7,,,YES,21,13,5,3
+Milam,105,Proposition 7,,,NO,0,0,0,0
+Milam,105,Proposition 8,,,YES,19,11,5,3
+Milam,105,Proposition 8,,,NO,2,2,0,0
+Milam,105,Proposition 9,,,YES,20,12,5,3
+Milam,105,Proposition 9,,,NO,1,1,0,0
+Milam,105,Proposition 10,,,YES,20,12,5,3
+Milam,105,Proposition 10,,,NO,1,1,0,0
+Milam,105,Proposition 11,,,YES,20,12,5,3
+Milam,105,Proposition 11,,,NO,1,1,0,0
+Milam,105,Proposition 12,,,YES,21,13,5,3
+Milam,105,Proposition 12,,,NO,0,0,0,0
 Milam,203,U.S. Senate,,REP,Over Votes,0,0,0,0
 Milam,203,U.S. Senate,,REP,Under Votes,6,3,3,0
 Milam,203,Registered Voters,,,,371,,,
 Milam,203,Ballots Cast,,REP,,123,,,
 Milam,203,Ballots Cast,,DEM,,18,,,
 Milam,203,U.S. Senate,,REP,Stefano de Stefano,2,0,0,2
-Milam,203,U.S. Senate,,REP,"Bruce Jacobson, Jr.",11,6,1,4
-Milam,203,U.S. Senate,,REP,Geraldine Sam,2,2,0,0
-Milam,203,U.S. Senate,,REP,Ted Cruz,99,52,46,1
-Milam,203,U.S. Senate,,REP,Mary Miller,3,2,1,0
-Milam,203,U.S. House,17,REP,Bill Flores,102,56,43,3
-Milam,203,Governor,,REP,Barbara Krueger,12,8,2,2
-Milam,203,Governor,,REP,Greg Abbott,103,54,45,4
-Milam,203,Governor,,REP,SECEDE Kilgore,1,0,1,0
-Milam,203,Lieutenant Governor,,REP,Scott Milder,28,14,10,4
-Milam,203,Lieutenant Governor,,REP,Dan Patrick,87,47,37,3
-Milam,203,Attorney General,,REP,Ken Paxton,99,53,42,4
-Milam,203,Comptroller of Public Accounts,,REP,Glenn Hegar,95,49,42,4
-Milam,203,Commissioner of the General Land Office,,REP,Rick Range,7,5,2,0
-Milam,203,Commissioner of the General Land Office,,REP,George P. Bush,63,28,34,1
-Milam,203,Commissioner of the General Land Office,,REP,Jerry Patterson,37,23,10,4
-Milam,203,Commissioner of the General Land Office,,REP,Davey Edwards,8,4,2,2
-Milam,203,Commissioner of Agriculture,,REP,Jim Hogan,31,10,19,2
-Milam,203,Commissioner of Agriculture,,REP,Sid Miller,53,33,17,3
-Milam,203,Commissioner of Agriculture,,REP,Trey Blocker,17,8,7,2
-Milam,203,Railroad Commissioner,,REP,Weston Martinez,38,20,16,2
-Milam,203,Railroad Commissioner,,REP,Christi Craddick,62,29,28,5
-Milam,203,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,86,43,40,3
-Milam,203,"Justice, Supreme Court, Place 4",,REP,John Devine,88,45,40,3
-Milam,203,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,86,44,39,3
-Milam,203,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,63,31,28,4
-Milam,203,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,37,21,15,1
-Milam,203,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,85,43,39,3
-Milam,203,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,17,9,6,2
-Milam,203,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,41,18,21,2
-Milam,203,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,39,23,16,0
+Milam,203,U.S. Senate,,REP,"Bruce Jacobson, Jr.",11,1,6,4
+Milam,203,U.S. Senate,,REP,Geraldine Sam,2,0,2,0
+Milam,203,U.S. Senate,,REP,Ted Cruz,99,46,52,1
+Milam,203,U.S. Senate,,REP,Mary Miller,3,1,2,0
+Milam,203,U.S. House,17,REP,Bill Flores,102,43,56,3
+Milam,203,Governor,,REP,Barbara Krueger,12,2,8,2
+Milam,203,Governor,,REP,Greg Abbott,103,45,54,4
+Milam,203,Governor,,REP,SECEDE Kilgore,1,1,0,0
+Milam,203,Lieutenant Governor,,REP,Scott Milder,28,10,14,4
+Milam,203,Lieutenant Governor,,REP,Dan Patrick,87,37,47,3
+Milam,203,Attorney General,,REP,Ken Paxton,99,42,53,4
+Milam,203,Comptroller of Public Accounts,,REP,Glenn Hegar,95,42,49,4
+Milam,203,Commissioner of the General Land Office,,REP,Rick Range,7,2,5,0
+Milam,203,Commissioner of the General Land Office,,REP,George P. Bush,63,34,28,1
+Milam,203,Commissioner of the General Land Office,,REP,Jerry Patterson,37,10,23,4
+Milam,203,Commissioner of the General Land Office,,REP,Davey Edwards,8,2,4,2
+Milam,203,Commissioner of Agriculture,,REP,Jim Hogan,31,19,10,2
+Milam,203,Commissioner of Agriculture,,REP,Sid Miller,53,17,33,3
+Milam,203,Commissioner of Agriculture,,REP,Trey Blocker,17,7,8,2
+Milam,203,Railroad Commissioner,,REP,Weston Martinez,38,16,20,2
+Milam,203,Railroad Commissioner,,REP,Christi Craddick,62,28,29,5
+Milam,203,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,86,40,43,3
+Milam,203,"Justice, Supreme Court, Place 4",,REP,John Devine,88,40,45,3
+Milam,203,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,86,39,44,3
+Milam,203,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,63,28,31,4
+Milam,203,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,37,15,21,1
+Milam,203,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,85,39,43,3
+Milam,203,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,17,6,9,2
+Milam,203,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,41,21,18,2
+Milam,203,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,39,16,23,0
 Milam,203,State Senator,5,REP,Harold Ramm,28,13,13,2
-Milam,203,State Senator,5,REP,Charles Schwertner,83,46,32,5
-Milam,203,State Representative,20,REP,Terry M. Wilson,91,49,38,4
-Milam,203,"Justice, 3rd Court of Appeals District, Place 2",,REP,Cynthia Olson Bourland,84,43,38,3
-Milam,203,"Justice, 3rd Court of Appeals District, Place 3",,REP,Scott Field,83,42,38,3
-Milam,203,"Justice, 3rd Court of Appeals District, Place 5",,REP,David Puryear,81,40,38,3
+Milam,203,State Senator,5,REP,Charles Schwertner,83,32,46,5
+Milam,203,State Representative,20,REP,Terry M. Wilson,91,38,49,4
+Milam,203,"Justice, 3rd Court of Appeals District, Place 2",,REP,Cynthia Olson Bourland,84,38,43,3
+Milam,203,"Justice, 3rd Court of Appeals District, Place 3",,REP,Scott Field,83,38,42,3
+Milam,203,"Justice, 3rd Court of Appeals District, Place 5",,REP,David Puryear,81,38,40,3
 Milam,203,"Justice, 3rd Court of Appeals District, Place 6",,REP,Donna Davidson,32,15,15,2
-Milam,203,"Justice, 3rd Court of Appeals District, Place 6",,REP,Kristofer Monson,8,7,1,0
+Milam,203,"Justice, 3rd Court of Appeals District, Place 6",,REP,Kristofer Monson,8,1,7,0
 Milam,203,"Justice, 3rd Court of Appeals District, Place 6",,REP,"Michael ""Mike"" Toth",42,19,19,4
 Milam,203,"Justice, 3rd Court of Appeals District, Place 6",,REP,Jennifer S. Freel,16,8,8,0
-Milam,203,County Judge,,REP,Steve Young,68,34,33,1
-Milam,203,County Judge,,REP,Frank Summers,52,29,17,6
-Milam,203,District Clerk,,REP,Karen Berry,91,49,39,3
-Milam,203,County Clerk,,REP,Jodi Morgan,95,52,39,4
+Milam,203,County Judge,,REP,Steve Young,68,33,34,1
+Milam,203,County Judge,,REP,Frank Summers,52,17,29,6
+Milam,203,District Clerk,,REP,Karen Berry,91,39,49,3
+Milam,203,County Clerk,,REP,Jodi Morgan,95,39,52,4
 Milam,203,County Treasurer,,REP,"Jennifer ""Jenger"" Epperson-Moran",31,13,13,5
-Milam,203,County Treasurer,,REP,Linda Acosta,74,41,31,2
-Milam,203,"County Commissioner, Precinct No. 2",,REP,Donald R. Shuffield,42,22,19,1
-Milam,203,"County Commissioner, Precinct No. 2",,REP,James Condry,9,6,3,0
-Milam,203,"County Commissioner, Precinct No. 2",,REP,Doug Baker,57,29,23,5
-Milam,203,"Justice of the Peace, Precinct No. 2",,REP,Don Schuerman,55,32,21,2
-Milam,203,"Justice of the Peace, Precinct No. 2",,REP,Sam Berry,51,24,22,5
-Milam,203,County Chairman,,REP,Bill Whitmire,94,50,40,4
-Milam,203,Proposition 1,,"",YES,69,35,28,6
-Milam,203,Proposition 1,,"",NO,40,20,20,0
-Milam,203,Proposition 2,,"",YES,104,52,45,7
-Milam,203,Proposition 2,,"",NO,5,3,2,0
-Milam,203,Proposition 3,,"",YES,86,44,38,4
-Milam,203,Proposition 3,,"",NO,18,7,8,3
-Milam,203,Proposition 4,,"",YES,93,46,43,4
-Milam,203,Proposition 4,,"",NO,16,8,5,3
-Milam,203,Proposition 5,,"",YES,84,41,38,5
-Milam,203,Proposition 5,,"",NO,26,14,10,2
-Milam,203,Proposition 6,,"",YES,108,55,49,4
-Milam,203,Proposition 6,,"",NO,4,1,1,2
-Milam,203,Proposition 7,,"",YES,76,37,33,6
-Milam,203,Proposition 7,,"",NO,33,19,13,1
-Milam,203,Proposition 8,,"",YES,104,52,48,4
-Milam,203,Proposition 8,,"",NO,6,3,1,2
-Milam,203,Proposition 9,,"",YES,101,50,47,4
-Milam,203,Proposition 9,,"",NO,11,7,2,2
-Milam,203,Proposition 10,,"",YES,106,53,46,7
-Milam,203,Proposition 10,,"",NO,5,3,2,0
-Milam,203,Proposition 11,,"",YES,108,55,46,7
-Milam,203,Proposition 11,,"",NO,7,4,3,0
-Milam,203,U.S. Senate,,DEM,Beto O'Rourke,9,4,3,2
-Milam,203,U.S. Senate,,DEM,Edward Kimbrough,1,0,1,0
-Milam,203,U.S. Senate,,DEM,Sema Hernandez,6,1,5,0
-Milam,203,U.S. House,17,DEM,Rick Kennedy,3,0,3,0
-Milam,203,U.S. House,17,DEM,Dale Mantey,13,5,6,2
-Milam,203,Governor,,DEM,Andrew White,3,2,0,1
-Milam,203,Governor,,DEM,James Jolly Clark,1,0,1,0
+Milam,203,County Treasurer,,REP,Linda Acosta,74,31,41,2
+Milam,203,"County Commissioner, Precinct No. 2",,REP,Donald R. Shuffield,42,19,22,1
+Milam,203,"County Commissioner, Precinct No. 2",,REP,James Condry,9,3,6,0
+Milam,203,"County Commissioner, Precinct No. 2",,REP,Doug Baker,57,23,29,5
+Milam,203,"Justice of the Peace, Precinct No. 2",,REP,Don Schuerman,55,21,32,2
+Milam,203,"Justice of the Peace, Precinct No. 2",,REP,Sam Berry,51,22,24,5
+Milam,203,County Chairman,,REP,Bill Whitmire,94,40,50,4
+Milam,203,Proposition 1,,,YES,69,28,35,6
+Milam,203,Proposition 1,,,NO,40,20,20,0
+Milam,203,Proposition 2,,,YES,104,45,52,7
+Milam,203,Proposition 2,,,NO,5,2,3,0
+Milam,203,Proposition 3,,,YES,86,38,44,4
+Milam,203,Proposition 3,,,NO,18,8,7,3
+Milam,203,Proposition 4,,,YES,93,43,46,4
+Milam,203,Proposition 4,,,NO,16,5,8,3
+Milam,203,Proposition 5,,,YES,84,38,41,5
+Milam,203,Proposition 5,,,NO,26,10,14,2
+Milam,203,Proposition 6,,,YES,108,49,55,4
+Milam,203,Proposition 6,,,NO,4,1,1,2
+Milam,203,Proposition 7,,,YES,76,33,37,6
+Milam,203,Proposition 7,,,NO,33,13,19,1
+Milam,203,Proposition 8,,,YES,104,48,52,4
+Milam,203,Proposition 8,,,NO,6,1,3,2
+Milam,203,Proposition 9,,,YES,101,47,50,4
+Milam,203,Proposition 9,,,NO,11,2,7,2
+Milam,203,Proposition 10,,,YES,106,46,53,7
+Milam,203,Proposition 10,,,NO,5,2,3,0
+Milam,203,Proposition 11,,,YES,108,46,55,7
+Milam,203,Proposition 11,,,NO,7,3,4,0
+Milam,203,U.S. Senate,,DEM,Beto O'Rourke,9,3,4,2
+Milam,203,U.S. Senate,,DEM,Edward Kimbrough,1,1,0,0
+Milam,203,U.S. Senate,,DEM,Sema Hernandez,6,5,1,0
+Milam,203,U.S. House,17,DEM,Rick Kennedy,3,3,0,0
+Milam,203,U.S. House,17,DEM,Dale Mantey,13,6,5,2
+Milam,203,Governor,,DEM,Andrew White,3,0,2,1
+Milam,203,Governor,,DEM,James Jolly Clark,1,1,0,0
 Milam,203,Governor,,DEM,Joe Mumbach,0,0,0,0
-Milam,203,Governor,,DEM,Tom Wakely,3,3,0,0
-Milam,203,Governor,,DEM,Lupe Valdez,3,0,2,1
-Milam,203,Governor,,DEM,Jeffrey Payne,1,0,1,0
-Milam,203,Governor,,DEM,Grady Yarbrough,5,0,5,0
+Milam,203,Governor,,DEM,Tom Wakely,3,0,3,0
+Milam,203,Governor,,DEM,Lupe Valdez,3,2,0,1
+Milam,203,Governor,,DEM,Jeffrey Payne,1,1,0,0
+Milam,203,Governor,,DEM,Grady Yarbrough,5,5,0,0
 Milam,203,Governor,,DEM,"Cedric Davis, Sr.",0,0,0,0
 Milam,203,Governor,,DEM,Adrian Ocegueda,0,0,0,0
-Milam,203,Lieutenant Governor,,DEM,Michael Cooper,7,5,2,0
-Milam,203,Lieutenant Governor,,DEM,Mike Collier,9,0,7,2
-Milam,203,Attorney General,,DEM,Justin Nelson,16,5,9,2
-Milam,203,Comptroller of Public Accounts,,DEM,Joi Chevalier,8,1,5,2
+Milam,203,Lieutenant Governor,,DEM,Michael Cooper,7,2,5,0
+Milam,203,Lieutenant Governor,,DEM,Mike Collier,9,7,0,2
+Milam,203,Attorney General,,DEM,Justin Nelson,16,9,5,2
+Milam,203,Comptroller of Public Accounts,,DEM,Joi Chevalier,8,5,1,2
 Milam,203,Comptroller of Public Accounts,,DEM,Tim Mahoney,8,4,4,0
-Milam,203,Commissioner of the General Land Office,,"",Tex Morgan,9,2,5,2
-Milam,203,Commissioner of the General Land Office,,DEM,Miguel Suazo,7,3,4,0
-Milam,203,Commissioner of Agriculture,,DEM,Kim Olson,17,5,10,2
+Milam,203,Commissioner of the General Land Office,,,Tex Morgan,9,5,2,2
+Milam,203,Commissioner of the General Land Office,,DEM,Miguel Suazo,7,4,3,0
+Milam,203,Commissioner of Agriculture,,DEM,Kim Olson,17,10,5,2
 Milam,203,Railroad Commissioner,,DEM,Roman McAllen,6,3,3,0
-Milam,203,Railroad Commissioner,,DEM,Chris Spellmon,10,2,6,2
-Milam,203,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,15,5,8,2
-Milam,203,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,16,5,9,2
-Milam,203,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,16,5,9,2
-Milam,203,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,16,5,9,2
-Milam,203,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,16,5,9,2
-Milam,203,State Senator,5,DEM,Meg Walsh,12,4,7,1
-Milam,203,State Senator,5,DEM,"Glenn ""Grumpy"" Williams",3,0,2,1
-Milam,203,State Senator,5,DEM,Brian E. Cronin,1,1,0,0
-Milam,203,State Representative,20,DEM,Stephen M. Wyman,17,5,10,2
-Milam,203,"Justice, 3rd Court of Appeals District, Place 2",,DEM,Edward Smith,16,5,9,2
-Milam,203,"Justice, 3rd Court of Appeals District, Place 3",,DEM,Chari Kelly,16,5,9,2
-Milam,203,"Justice, 3rd Court of Appeals District, Place 5",,DEM,Thomas J. Baker,16,5,9,2
-Milam,203,"Justice, 3rd Court of Appeals District, Place 6",,DEM,Gisela D. Triana,16,5,9,2
-Milam,203,County Judge,,DEM,Jared Melde,16,5,9,2
-Milam,203,Proposition 1,,"",YES,16,6,8,2
-Milam,203,Proposition 1,,"",NO,1,0,1,0
-Milam,203,Proposition 2,,"",YES,16,6,8,2
-Milam,203,Proposition 2,,"",NO,1,0,1,0
-Milam,203,Proposition 3,,"",YES,15,6,7,2
-Milam,203,Proposition 3,,"",NO,2,0,2,0
-Milam,203,Proposition 4,,"",YES,16,6,8,2
-Milam,203,Proposition 4,,"",NO,1,0,1,0
-Milam,203,Proposition 5,,"",YES,15,6,7,2
-Milam,203,Proposition 5,,"",NO,1,0,1,0
-Milam,203,Proposition 6,,"",YES,15,6,7,2
-Milam,203,Proposition 6,,"",NO,1,0,1,0
-Milam,203,Proposition 7,,"",YES,13,5,6,2
-Milam,203,Proposition 7,,"",NO,2,0,2,0
-Milam,203,Proposition 8,,"",YES,13,5,6,2
-Milam,203,Proposition 8,,"",NO,2,0,2,0
-Milam,203,Proposition 9,,"",YES,15,5,8,2
-Milam,203,Proposition 9,,"",NO,1,0,1,0
-Milam,203,Proposition 10,,"",YES,14,6,7,1
-Milam,203,Proposition 10,,"",NO,1,0,1,0
-Milam,203,Proposition 11,,"",YES,14,5,7,2
-Milam,203,Proposition 11,,"",NO,3,1,2,0
-Milam,203,Proposition 12,,"",YES,15,5,8,2
-Milam,203,Proposition 12,,"",NO,1,0,1,0
+Milam,203,Railroad Commissioner,,DEM,Chris Spellmon,10,6,2,2
+Milam,203,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,15,8,5,2
+Milam,203,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,16,9,5,2
+Milam,203,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,16,9,5,2
+Milam,203,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,16,9,5,2
+Milam,203,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,16,9,5,2
+Milam,203,State Senator,5,DEM,Meg Walsh,12,7,4,1
+Milam,203,State Senator,5,DEM,"Glenn ""Grumpy"" Williams",3,2,0,1
+Milam,203,State Senator,5,DEM,Brian E. Cronin,1,0,1,0
+Milam,203,State Representative,20,DEM,Stephen M. Wyman,17,10,5,2
+Milam,203,"Justice, 3rd Court of Appeals District, Place 2",,DEM,Edward Smith,16,9,5,2
+Milam,203,"Justice, 3rd Court of Appeals District, Place 3",,DEM,Chari Kelly,16,9,5,2
+Milam,203,"Justice, 3rd Court of Appeals District, Place 5",,DEM,Thomas J. Baker,16,9,5,2
+Milam,203,"Justice, 3rd Court of Appeals District, Place 6",,DEM,Gisela D. Triana,16,9,5,2
+Milam,203,County Judge,,DEM,Jared Melde,16,9,5,2
+Milam,203,Proposition 1,,,YES,16,8,6,2
+Milam,203,Proposition 1,,,NO,1,1,0,0
+Milam,203,Proposition 2,,,YES,16,8,6,2
+Milam,203,Proposition 2,,,NO,1,1,0,0
+Milam,203,Proposition 3,,,YES,15,7,6,2
+Milam,203,Proposition 3,,,NO,2,2,0,0
+Milam,203,Proposition 4,,,YES,16,8,6,2
+Milam,203,Proposition 4,,,NO,1,1,0,0
+Milam,203,Proposition 5,,,YES,15,7,6,2
+Milam,203,Proposition 5,,,NO,1,1,0,0
+Milam,203,Proposition 6,,,YES,15,7,6,2
+Milam,203,Proposition 6,,,NO,1,1,0,0
+Milam,203,Proposition 7,,,YES,13,6,5,2
+Milam,203,Proposition 7,,,NO,2,2,0,0
+Milam,203,Proposition 8,,,YES,13,6,5,2
+Milam,203,Proposition 8,,,NO,2,2,0,0
+Milam,203,Proposition 9,,,YES,15,8,5,2
+Milam,203,Proposition 9,,,NO,1,1,0,0
+Milam,203,Proposition 10,,,YES,14,7,6,1
+Milam,203,Proposition 10,,,NO,1,1,0,0
+Milam,203,Proposition 11,,,YES,14,7,5,2
+Milam,203,Proposition 11,,,NO,3,2,1,0
+Milam,203,Proposition 12,,,YES,15,8,5,2
+Milam,203,Proposition 12,,,NO,1,1,0,0
 Milam,207,U.S. Senate,,REP,Over Votes,0,0,0,0
-Milam,207,U.S. Senate,,REP,Under Votes,3,2,1,0
+Milam,207,U.S. Senate,,REP,Under Votes,3,1,2,0
 Milam,207,Registered Voters,,,,588,,,
 Milam,207,Ballots Cast,,REP,,96,,,
 Milam,207,Ballots Cast,,DEM,,26,,,
-Milam,207,U.S. Senate,,REP,Stefano de Stefano,1,1,0,0
-Milam,207,U.S. Senate,,REP,"Bruce Jacobson, Jr.",13,7,4,2
-Milam,207,U.S. Senate,,REP,Geraldine Sam,2,0,2,0
-Milam,207,U.S. Senate,,REP,Ted Cruz,70,27,37,6
-Milam,207,U.S. Senate,,REP,Mary Miller,7,6,1,0
-Milam,207,U.S. House,17,REP,Bill Flores,86,35,43,8
-Milam,207,Governor,,REP,Barbara Krueger,14,7,5,2
-Milam,207,Governor,,REP,Greg Abbott,78,34,38,6
-Milam,207,Governor,,REP,SECEDE Kilgore,1,0,1,0
-Milam,207,Lieutenant Governor,,REP,Scott Milder,26,15,11,0
-Milam,207,Lieutenant Governor,,REP,Dan Patrick,66,25,33,8
-Milam,207,Attorney General,,REP,Ken Paxton,81,31,42,8
-Milam,207,Comptroller of Public Accounts,,REP,Glenn Hegar,80,31,41,8
+Milam,207,U.S. Senate,,REP,Stefano de Stefano,1,0,1,0
+Milam,207,U.S. Senate,,REP,"Bruce Jacobson, Jr.",13,4,7,2
+Milam,207,U.S. Senate,,REP,Geraldine Sam,2,2,0,0
+Milam,207,U.S. Senate,,REP,Ted Cruz,70,37,27,6
+Milam,207,U.S. Senate,,REP,Mary Miller,7,1,6,0
+Milam,207,U.S. House,17,REP,Bill Flores,86,43,35,8
+Milam,207,Governor,,REP,Barbara Krueger,14,5,7,2
+Milam,207,Governor,,REP,Greg Abbott,78,38,34,6
+Milam,207,Governor,,REP,SECEDE Kilgore,1,1,0,0
+Milam,207,Lieutenant Governor,,REP,Scott Milder,26,11,15,0
+Milam,207,Lieutenant Governor,,REP,Dan Patrick,66,33,25,8
+Milam,207,Attorney General,,REP,Ken Paxton,81,42,31,8
+Milam,207,Comptroller of Public Accounts,,REP,Glenn Hegar,80,41,31,8
 Milam,207,Commissioner of the General Land Office,,REP,Rick Range,8,4,4,0
-Milam,207,Commissioner of the General Land Office,,REP,George P. Bush,42,16,23,3
-Milam,207,Commissioner of the General Land Office,,REP,Jerry Patterson,31,14,12,5
-Milam,207,Commissioner of the General Land Office,,REP,Davey Edwards,5,3,2,0
-Milam,207,Commissioner of Agriculture,,REP,Jim Hogan,20,8,10,2
-Milam,207,Commissioner of Agriculture,,REP,Sid Miller,46,17,25,4
-Milam,207,Commissioner of Agriculture,,REP,Trey Blocker,13,7,4,2
-Milam,207,Railroad Commissioner,,REP,Weston Martinez,31,11,16,4
-Milam,207,Railroad Commissioner,,REP,Christi Craddick,50,22,24,4
-Milam,207,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,77,30,39,8
-Milam,207,"Justice, Supreme Court, Place 4",,REP,John Devine,75,30,37,8
-Milam,207,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,77,32,37,8
-Milam,207,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,45,11,29,5
-Milam,207,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,37,22,12,3
-Milam,207,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,73,29,36,8
-Milam,207,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,18,6,12,0
-Milam,207,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,30,8,17,5
-Milam,207,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,33,18,12,3
-Milam,207,State Senator,5,REP,Harold Ramm,24,15,8,1
-Milam,207,State Senator,5,REP,Charles Schwertner,65,26,32,7
-Milam,207,State Representative,20,REP,Terry M. Wilson,81,36,37,8
-Milam,207,"Justice, 3rd Court of Appeals District, Place 2",,REP,Cynthia Olson Bourland,75,30,37,8
-Milam,207,"Justice, 3rd Court of Appeals District, Place 3",,REP,Scott Field,75,30,37,8
-Milam,207,"Justice, 3rd Court of Appeals District, Place 5",,REP,David Puryear,73,29,36,8
-Milam,207,"Justice, 3rd Court of Appeals District, Place 6",,REP,Donna Davidson,25,13,11,1
-Milam,207,"Justice, 3rd Court of Appeals District, Place 6",,REP,Kristofer Monson,4,0,2,2
-Milam,207,"Justice, 3rd Court of Appeals District, Place 6",,REP,"Michael ""Mike"" Toth",29,9,18,2
-Milam,207,"Justice, 3rd Court of Appeals District, Place 6",,REP,Jennifer S. Freel,24,13,8,3
+Milam,207,Commissioner of the General Land Office,,REP,George P. Bush,42,23,16,3
+Milam,207,Commissioner of the General Land Office,,REP,Jerry Patterson,31,12,14,5
+Milam,207,Commissioner of the General Land Office,,REP,Davey Edwards,5,2,3,0
+Milam,207,Commissioner of Agriculture,,REP,Jim Hogan,20,10,8,2
+Milam,207,Commissioner of Agriculture,,REP,Sid Miller,46,25,17,4
+Milam,207,Commissioner of Agriculture,,REP,Trey Blocker,13,4,7,2
+Milam,207,Railroad Commissioner,,REP,Weston Martinez,31,16,11,4
+Milam,207,Railroad Commissioner,,REP,Christi Craddick,50,24,22,4
+Milam,207,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,77,39,30,8
+Milam,207,"Justice, Supreme Court, Place 4",,REP,John Devine,75,37,30,8
+Milam,207,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,77,37,32,8
+Milam,207,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,45,29,11,5
+Milam,207,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,37,12,22,3
+Milam,207,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,73,36,29,8
+Milam,207,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,18,12,6,0
+Milam,207,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,30,17,8,5
+Milam,207,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,33,12,18,3
+Milam,207,State Senator,5,REP,Harold Ramm,24,8,15,1
+Milam,207,State Senator,5,REP,Charles Schwertner,65,32,26,7
+Milam,207,State Representative,20,REP,Terry M. Wilson,81,37,36,8
+Milam,207,"Justice, 3rd Court of Appeals District, Place 2",,REP,Cynthia Olson Bourland,75,37,30,8
+Milam,207,"Justice, 3rd Court of Appeals District, Place 3",,REP,Scott Field,75,37,30,8
+Milam,207,"Justice, 3rd Court of Appeals District, Place 5",,REP,David Puryear,73,36,29,8
+Milam,207,"Justice, 3rd Court of Appeals District, Place 6",,REP,Donna Davidson,25,11,13,1
+Milam,207,"Justice, 3rd Court of Appeals District, Place 6",,REP,Kristofer Monson,4,2,0,2
+Milam,207,"Justice, 3rd Court of Appeals District, Place 6",,REP,"Michael ""Mike"" Toth",29,18,9,2
+Milam,207,"Justice, 3rd Court of Appeals District, Place 6",,REP,Jennifer S. Freel,24,8,13,3
 Milam,207,County Judge,,REP,Steve Young,47,23,23,1
 Milam,207,County Judge,,REP,Frank Summers,47,20,20,7
-Milam,207,District Clerk,,REP,Karen Berry,80,32,40,8
-Milam,207,County Clerk,,REP,Jodi Morgan,78,31,39,8
-Milam,207,County Treasurer,,REP,"Jennifer ""Jenger"" Epperson-Moran",37,16,17,4
-Milam,207,County Treasurer,,REP,Linda Acosta,47,19,24,4
-Milam,207,"County Commissioner, Precinct No. 2",,REP,Donald R. Shuffield,49,24,21,4
-Milam,207,"County Commissioner, Precinct No. 2",,REP,James Condry,13,5,7,1
-Milam,207,"County Commissioner, Precinct No. 2",,REP,Doug Baker,24,8,13,3
-Milam,207,"Justice of the Peace, Precinct No. 2",,REP,Don Schuerman,47,18,24,5
-Milam,207,"Justice of the Peace, Precinct No. 2",,REP,Sam Berry,42,20,19,3
-Milam,207,County Chairman,,REP,Bill Whitmire,78,31,39,8
-Milam,207,Proposition 1,,"",YES,62,30,26,6
-Milam,207,Proposition 1,,"",NO,31,13,16,2
-Milam,207,Proposition 2,,"",YES,86,39,39,8
-Milam,207,Proposition 2,,"",NO,7,4,3,0
-Milam,207,Proposition 3,,"",YES,81,34,40,7
-Milam,207,Proposition 3,,"",NO,13,9,3,1
-Milam,207,Proposition 4,,"",YES,90,38,44,8
-Milam,207,Proposition 4,,"",NO,6,5,1,0
-Milam,207,Proposition 5,,"",YES,78,29,42,7
-Milam,207,Proposition 5,,"",NO,17,14,2,1
-Milam,207,Proposition 6,,"",YES,92,40,44,8
-Milam,207,Proposition 6,,"",NO,3,3,0,0
-Milam,207,Proposition 7,,"",YES,59,20,33,6
-Milam,207,Proposition 7,,"",NO,31,21,8,2
-Milam,207,Proposition 8,,"",YES,90,38,44,8
-Milam,207,Proposition 8,,"",NO,5,4,1,0
-Milam,207,Proposition 9,,"",YES,78,32,39,7
-Milam,207,Proposition 9,,"",NO,17,11,5,1
-Milam,207,Proposition 10,,"",YES,91,41,42,8
-Milam,207,Proposition 10,,"",NO,3,2,1,0
-Milam,207,Proposition 11,,"",YES,84,38,39,7
-Milam,207,Proposition 11,,"",NO,12,5,6,1
-Milam,207,U.S. Senate,,DEM,Beto O'Rourke,10,5,1,4
-Milam,207,U.S. Senate,,DEM,Edward Kimbrough,7,4,3,0
-Milam,207,U.S. Senate,,DEM,Sema Hernandez,8,1,4,3
-Milam,207,U.S. House,17,DEM,Rick Kennedy,12,5,3,4
+Milam,207,District Clerk,,REP,Karen Berry,80,40,32,8
+Milam,207,County Clerk,,REP,Jodi Morgan,78,39,31,8
+Milam,207,County Treasurer,,REP,"Jennifer ""Jenger"" Epperson-Moran",37,17,16,4
+Milam,207,County Treasurer,,REP,Linda Acosta,47,24,19,4
+Milam,207,"County Commissioner, Precinct No. 2",,REP,Donald R. Shuffield,49,21,24,4
+Milam,207,"County Commissioner, Precinct No. 2",,REP,James Condry,13,7,5,1
+Milam,207,"County Commissioner, Precinct No. 2",,REP,Doug Baker,24,13,8,3
+Milam,207,"Justice of the Peace, Precinct No. 2",,REP,Don Schuerman,47,24,18,5
+Milam,207,"Justice of the Peace, Precinct No. 2",,REP,Sam Berry,42,19,20,3
+Milam,207,County Chairman,,REP,Bill Whitmire,78,39,31,8
+Milam,207,Proposition 1,,,YES,62,26,30,6
+Milam,207,Proposition 1,,,NO,31,16,13,2
+Milam,207,Proposition 2,,,YES,86,39,39,8
+Milam,207,Proposition 2,,,NO,7,3,4,0
+Milam,207,Proposition 3,,,YES,81,40,34,7
+Milam,207,Proposition 3,,,NO,13,3,9,1
+Milam,207,Proposition 4,,,YES,90,44,38,8
+Milam,207,Proposition 4,,,NO,6,1,5,0
+Milam,207,Proposition 5,,,YES,78,42,29,7
+Milam,207,Proposition 5,,,NO,17,2,14,1
+Milam,207,Proposition 6,,,YES,92,44,40,8
+Milam,207,Proposition 6,,,NO,3,0,3,0
+Milam,207,Proposition 7,,,YES,59,33,20,6
+Milam,207,Proposition 7,,,NO,31,8,21,2
+Milam,207,Proposition 8,,,YES,90,44,38,8
+Milam,207,Proposition 8,,,NO,5,1,4,0
+Milam,207,Proposition 9,,,YES,78,39,32,7
+Milam,207,Proposition 9,,,NO,17,5,11,1
+Milam,207,Proposition 10,,,YES,91,42,41,8
+Milam,207,Proposition 10,,,NO,3,1,2,0
+Milam,207,Proposition 11,,,YES,84,39,38,7
+Milam,207,Proposition 11,,,NO,12,6,5,1
+Milam,207,U.S. Senate,,DEM,Beto O'Rourke,10,1,5,4
+Milam,207,U.S. Senate,,DEM,Edward Kimbrough,7,3,4,0
+Milam,207,U.S. Senate,,DEM,Sema Hernandez,8,4,1,3
+Milam,207,U.S. House,17,DEM,Rick Kennedy,12,3,5,4
 Milam,207,U.S. House,17,DEM,Dale Mantey,12,5,5,2
-Milam,207,Governor,,DEM,Andrew White,9,5,2,2
-Milam,207,Governor,,DEM,James Jolly Clark,2,0,1,1
-Milam,207,Governor,,DEM,Joe Mumbach,1,1,0,0
-Milam,207,Governor,,DEM,Tom Wakely,2,0,1,1
-Milam,207,Governor,,DEM,Lupe Valdez,6,1,3,2
-Milam,207,Governor,,DEM,Jeffrey Payne,4,3,1,0
+Milam,207,Governor,,DEM,Andrew White,9,2,5,2
+Milam,207,Governor,,DEM,James Jolly Clark,2,1,0,1
+Milam,207,Governor,,DEM,Joe Mumbach,1,0,1,0
+Milam,207,Governor,,DEM,Tom Wakely,2,1,0,1
+Milam,207,Governor,,DEM,Lupe Valdez,6,3,1,2
+Milam,207,Governor,,DEM,Jeffrey Payne,4,1,3,0
 Milam,207,Governor,,DEM,Grady Yarbrough,1,0,0,1
 Milam,207,Governor,,DEM,"Cedric Davis, Sr.",0,0,0,0
 Milam,207,Governor,,DEM,Adrian Ocegueda,0,0,0,0
-Milam,207,Lieutenant Governor,,DEM,Michael Cooper,11,5,3,3
+Milam,207,Lieutenant Governor,,DEM,Michael Cooper,11,3,5,3
 Milam,207,Lieutenant Governor,,DEM,Mike Collier,14,5,5,4
-Milam,207,Attorney General,,DEM,Justin Nelson,24,9,8,7
-Milam,207,Comptroller of Public Accounts,,DEM,Joi Chevalier,9,3,2,4
-Milam,207,Comptroller of Public Accounts,,DEM,Tim Mahoney,14,7,4,3
-Milam,207,Commissioner of the General Land Office,,"",Tex Morgan,6,2,3,1
-Milam,207,Commissioner of the General Land Office,,DEM,Miguel Suazo,19,8,5,6
-Milam,207,Commissioner of Agriculture,,DEM,Kim Olson,23,9,7,7
-Milam,207,Railroad Commissioner,,DEM,Roman McAllen,13,4,3,6
-Milam,207,Railroad Commissioner,,DEM,Chris Spellmon,12,6,5,1
-Milam,207,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,23,9,7,7
-Milam,207,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,22,9,6,7
-Milam,207,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,22,9,6,7
-Milam,207,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,23,9,7,7
-Milam,207,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,22,9,6,7
-Milam,207,State Senator,5,DEM,Meg Walsh,9,1,5,3
-Milam,207,State Senator,5,DEM,"Glenn ""Grumpy"" Williams",9,5,2,2
-Milam,207,State Senator,5,DEM,Brian E. Cronin,7,4,1,2
-Milam,207,State Representative,20,DEM,Stephen M. Wyman,22,9,6,7
-Milam,207,"Justice, 3rd Court of Appeals District, Place 2",,DEM,Edward Smith,22,9,6,7
-Milam,207,"Justice, 3rd Court of Appeals District, Place 3",,DEM,Chari Kelly,22,9,6,7
-Milam,207,"Justice, 3rd Court of Appeals District, Place 5",,DEM,Thomas J. Baker,23,9,7,7
-Milam,207,"Justice, 3rd Court of Appeals District, Place 6",,DEM,Gisela D. Triana,22,9,6,7
-Milam,207,County Judge,,DEM,Jared Melde,23,9,6,8
-Milam,207,Proposition 1,,"",YES,25,9,8,8
-Milam,207,Proposition 1,,"",NO,1,1,0,0
-Milam,207,Proposition 2,,"",YES,23,9,7,7
-Milam,207,Proposition 2,,"",NO,2,0,1,1
-Milam,207,Proposition 3,,"",YES,23,9,7,7
-Milam,207,Proposition 3,,"",NO,2,1,1,0
-Milam,207,Proposition 4,,"",YES,24,9,8,7
-Milam,207,Proposition 4,,"",NO,0,0,0,0
-Milam,207,Proposition 5,,"",YES,23,10,7,6
-Milam,207,Proposition 5,,"",NO,1,0,1,0
-Milam,207,Proposition 6,,"",YES,26,10,8,8
-Milam,207,Proposition 6,,"",NO,0,0,0,0
-Milam,207,Proposition 7,,"",YES,24,10,8,6
-Milam,207,Proposition 7,,"",NO,0,0,0,0
-Milam,207,Proposition 8,,"",YES,22,10,6,6
-Milam,207,Proposition 8,,"",NO,4,0,2,2
-Milam,207,Proposition 9,,"",YES,25,9,8,8
-Milam,207,Proposition 9,,"",NO,1,1,0,0
-Milam,207,Proposition 10,,"",YES,23,10,7,6
-Milam,207,Proposition 10,,"",NO,1,0,1,0
-Milam,207,Proposition 11,,"",YES,22,9,6,7
-Milam,207,Proposition 11,,"",NO,3,1,2,0
-Milam,207,Proposition 12,,"",YES,24,10,8,6
-Milam,207,Proposition 12,,"",NO,0,0,0,0
+Milam,207,Attorney General,,DEM,Justin Nelson,24,8,9,7
+Milam,207,Comptroller of Public Accounts,,DEM,Joi Chevalier,9,2,3,4
+Milam,207,Comptroller of Public Accounts,,DEM,Tim Mahoney,14,4,7,3
+Milam,207,Commissioner of the General Land Office,,,Tex Morgan,6,3,2,1
+Milam,207,Commissioner of the General Land Office,,DEM,Miguel Suazo,19,5,8,6
+Milam,207,Commissioner of Agriculture,,DEM,Kim Olson,23,7,9,7
+Milam,207,Railroad Commissioner,,DEM,Roman McAllen,13,3,4,6
+Milam,207,Railroad Commissioner,,DEM,Chris Spellmon,12,5,6,1
+Milam,207,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,23,7,9,7
+Milam,207,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,22,6,9,7
+Milam,207,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,22,6,9,7
+Milam,207,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,23,7,9,7
+Milam,207,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,22,6,9,7
+Milam,207,State Senator,5,DEM,Meg Walsh,9,5,1,3
+Milam,207,State Senator,5,DEM,"Glenn ""Grumpy"" Williams",9,2,5,2
+Milam,207,State Senator,5,DEM,Brian E. Cronin,7,1,4,2
+Milam,207,State Representative,20,DEM,Stephen M. Wyman,22,6,9,7
+Milam,207,"Justice, 3rd Court of Appeals District, Place 2",,DEM,Edward Smith,22,6,9,7
+Milam,207,"Justice, 3rd Court of Appeals District, Place 3",,DEM,Chari Kelly,22,6,9,7
+Milam,207,"Justice, 3rd Court of Appeals District, Place 5",,DEM,Thomas J. Baker,23,7,9,7
+Milam,207,"Justice, 3rd Court of Appeals District, Place 6",,DEM,Gisela D. Triana,22,6,9,7
+Milam,207,County Judge,,DEM,Jared Melde,23,6,9,8
+Milam,207,Proposition 1,,,YES,25,8,9,8
+Milam,207,Proposition 1,,,NO,1,0,1,0
+Milam,207,Proposition 2,,,YES,23,7,9,7
+Milam,207,Proposition 2,,,NO,2,1,0,1
+Milam,207,Proposition 3,,,YES,23,7,9,7
+Milam,207,Proposition 3,,,NO,2,1,1,0
+Milam,207,Proposition 4,,,YES,24,8,9,7
+Milam,207,Proposition 4,,,NO,0,0,0,0
+Milam,207,Proposition 5,,,YES,23,7,10,6
+Milam,207,Proposition 5,,,NO,1,1,0,0
+Milam,207,Proposition 6,,,YES,26,8,10,8
+Milam,207,Proposition 6,,,NO,0,0,0,0
+Milam,207,Proposition 7,,,YES,24,8,10,6
+Milam,207,Proposition 7,,,NO,0,0,0,0
+Milam,207,Proposition 8,,,YES,22,6,10,6
+Milam,207,Proposition 8,,,NO,4,2,0,2
+Milam,207,Proposition 9,,,YES,25,8,9,8
+Milam,207,Proposition 9,,,NO,1,0,1,0
+Milam,207,Proposition 10,,,YES,23,7,10,6
+Milam,207,Proposition 10,,,NO,1,1,0,0
+Milam,207,Proposition 11,,,YES,22,6,9,7
+Milam,207,Proposition 11,,,NO,3,2,1,0
+Milam,207,Proposition 12,,,YES,24,8,10,6
+Milam,207,Proposition 12,,,NO,0,0,0,0
 Milam,210,U.S. Senate,,REP,Over Votes,0,0,0,0
-Milam,210,U.S. Senate,,REP,Under Votes,4,3,1,0
+Milam,210,U.S. Senate,,REP,Under Votes,4,1,3,0
 Milam,210,Registered Voters,,,,519,,,
 Milam,210,Ballots Cast,,REP,,144,,,
 Milam,210,Ballots Cast,,DEM,,16,,,
-Milam,210,U.S. Senate,,REP,Stefano de Stefano,3,1,2,0
-Milam,210,U.S. Senate,,REP,"Bruce Jacobson, Jr.",1,1,0,0
-Milam,210,U.S. Senate,,REP,Geraldine Sam,1,0,1,0
-Milam,210,U.S. Senate,,REP,Ted Cruz,126,74,38,14
-Milam,210,U.S. Senate,,REP,Mary Miller,9,5,3,1
-Milam,210,U.S. House,17,REP,Bill Flores,116,69,33,14
-Milam,210,Governor,,REP,Barbara Krueger,8,5,3,0
-Milam,210,Governor,,REP,Greg Abbott,131,76,40,15
-Milam,210,Governor,,REP,SECEDE Kilgore,1,1,0,0
-Milam,210,Lieutenant Governor,,REP,Scott Milder,17,6,10,1
-Milam,210,Lieutenant Governor,,REP,Dan Patrick,113,70,31,12
-Milam,210,Attorney General,,REP,Ken Paxton,123,72,38,13
-Milam,210,Comptroller of Public Accounts,,REP,Glenn Hegar,116,66,37,13
-Milam,210,Commissioner of the General Land Office,,REP,Rick Range,11,5,4,2
-Milam,210,Commissioner of the General Land Office,,REP,George P. Bush,76,43,22,11
-Milam,210,Commissioner of the General Land Office,,REP,Jerry Patterson,29,22,5,2
-Milam,210,Commissioner of the General Land Office,,REP,Davey Edwards,15,7,8,0
-Milam,210,Commissioner of Agriculture,,REP,Jim Hogan,29,20,7,2
-Milam,210,Commissioner of Agriculture,,REP,Sid Miller,78,42,26,10
-Milam,210,Commissioner of Agriculture,,REP,Trey Blocker,16,11,4,1
-Milam,210,Railroad Commissioner,,REP,Weston Martinez,30,16,11,3
-Milam,210,Railroad Commissioner,,REP,Christi Craddick,92,56,26,10
-Milam,210,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,111,64,34,13
-Milam,210,"Justice, Supreme Court, Place 4",,REP,John Devine,109,63,34,12
-Milam,210,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,107,61,33,13
-Milam,210,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,65,39,19,7
-Milam,210,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,59,35,18,6
-Milam,210,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,108,62,33,13
-Milam,210,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,17,6,7,4
-Milam,210,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,51,33,14,4
-Milam,210,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,52,32,15,5
-Milam,210,State Senator,5,REP,Harold Ramm,25,13,9,3
-Milam,210,State Senator,5,REP,Charles Schwertner,103,65,28,10
-Milam,210,State Representative,20,REP,Terry M. Wilson,117,66,38,13
-Milam,210,"Justice, 3rd Court of Appeals District, Place 2",,REP,Cynthia Olson Bourland,112,65,34,13
-Milam,210,"Justice, 3rd Court of Appeals District, Place 3",,REP,Scott Field,110,64,33,13
-Milam,210,"Justice, 3rd Court of Appeals District, Place 5",,REP,David Puryear,107,62,33,12
-Milam,210,"Justice, 3rd Court of Appeals District, Place 6",,REP,Donna Davidson,37,22,12,3
+Milam,210,U.S. Senate,,REP,Stefano de Stefano,3,2,1,0
+Milam,210,U.S. Senate,,REP,"Bruce Jacobson, Jr.",1,0,1,0
+Milam,210,U.S. Senate,,REP,Geraldine Sam,1,1,0,0
+Milam,210,U.S. Senate,,REP,Ted Cruz,126,38,74,14
+Milam,210,U.S. Senate,,REP,Mary Miller,9,3,5,1
+Milam,210,U.S. House,17,REP,Bill Flores,116,33,69,14
+Milam,210,Governor,,REP,Barbara Krueger,8,3,5,0
+Milam,210,Governor,,REP,Greg Abbott,131,40,76,15
+Milam,210,Governor,,REP,SECEDE Kilgore,1,0,1,0
+Milam,210,Lieutenant Governor,,REP,Scott Milder,17,10,6,1
+Milam,210,Lieutenant Governor,,REP,Dan Patrick,113,31,70,12
+Milam,210,Attorney General,,REP,Ken Paxton,123,38,72,13
+Milam,210,Comptroller of Public Accounts,,REP,Glenn Hegar,116,37,66,13
+Milam,210,Commissioner of the General Land Office,,REP,Rick Range,11,4,5,2
+Milam,210,Commissioner of the General Land Office,,REP,George P. Bush,76,22,43,11
+Milam,210,Commissioner of the General Land Office,,REP,Jerry Patterson,29,5,22,2
+Milam,210,Commissioner of the General Land Office,,REP,Davey Edwards,15,8,7,0
+Milam,210,Commissioner of Agriculture,,REP,Jim Hogan,29,7,20,2
+Milam,210,Commissioner of Agriculture,,REP,Sid Miller,78,26,42,10
+Milam,210,Commissioner of Agriculture,,REP,Trey Blocker,16,4,11,1
+Milam,210,Railroad Commissioner,,REP,Weston Martinez,30,11,16,3
+Milam,210,Railroad Commissioner,,REP,Christi Craddick,92,26,56,10
+Milam,210,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,111,34,64,13
+Milam,210,"Justice, Supreme Court, Place 4",,REP,John Devine,109,34,63,12
+Milam,210,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,107,33,61,13
+Milam,210,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,65,19,39,7
+Milam,210,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,59,18,35,6
+Milam,210,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,108,33,62,13
+Milam,210,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,17,7,6,4
+Milam,210,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,51,14,33,4
+Milam,210,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,52,15,32,5
+Milam,210,State Senator,5,REP,Harold Ramm,25,9,13,3
+Milam,210,State Senator,5,REP,Charles Schwertner,103,28,65,10
+Milam,210,State Representative,20,REP,Terry M. Wilson,117,38,66,13
+Milam,210,"Justice, 3rd Court of Appeals District, Place 2",,REP,Cynthia Olson Bourland,112,34,65,13
+Milam,210,"Justice, 3rd Court of Appeals District, Place 3",,REP,Scott Field,110,33,64,13
+Milam,210,"Justice, 3rd Court of Appeals District, Place 5",,REP,David Puryear,107,33,62,12
+Milam,210,"Justice, 3rd Court of Appeals District, Place 6",,REP,Donna Davidson,37,12,22,3
 Milam,210,"Justice, 3rd Court of Appeals District, Place 6",,REP,Kristofer Monson,10,4,4,2
-Milam,210,"Justice, 3rd Court of Appeals District, Place 6",,REP,"Michael ""Mike"" Toth",54,33,15,6
-Milam,210,"Justice, 3rd Court of Appeals District, Place 6",,REP,Jennifer S. Freel,17,9,6,2
-Milam,210,County Judge,,REP,Steve Young,68,44,18,6
-Milam,210,County Judge,,REP,Frank Summers,68,35,24,9
-Milam,210,District Clerk,,REP,Karen Berry,121,70,37,14
-Milam,210,County Clerk,,REP,Jodi Morgan,122,73,35,14
-Milam,210,County Treasurer,,REP,"Jennifer ""Jenger"" Epperson-Moran",43,21,15,7
-Milam,210,County Treasurer,,REP,Linda Acosta,93,59,26,8
-Milam,210,"County Commissioner, Precinct No. 2",,REP,Donald R. Shuffield,60,36,17,7
-Milam,210,"County Commissioner, Precinct No. 2",,REP,James Condry,53,31,16,6
-Milam,210,"County Commissioner, Precinct No. 2",,REP,Doug Baker,26,16,8,2
-Milam,210,"Justice of the Peace, Precinct No. 2",,REP,Don Schuerman,79,45,24,10
-Milam,210,"Justice of the Peace, Precinct No. 2",,REP,Sam Berry,62,39,19,4
-Milam,210,County Chairman,,REP,Bill Whitmire,122,70,39,13
-Milam,210,Proposition 1,,"",YES,94,49,34,11
-Milam,210,Proposition 1,,"",NO,38,28,8,2
-Milam,210,Proposition 2,,"",YES,133,76,43,14
-Milam,210,Proposition 2,,"",NO,6,6,0,0
-Milam,210,Proposition 3,,"",YES,116,72,30,14
-Milam,210,Proposition 3,,"",NO,20,11,9,0
-Milam,210,Proposition 4,,"",YES,129,76,40,13
-Milam,210,Proposition 4,,"",NO,12,7,3,2
-Milam,210,Proposition 5,,"",YES,121,72,38,11
-Milam,210,Proposition 5,,"",NO,14,9,3,2
-Milam,210,Proposition 6,,"",YES,137,77,45,15
-Milam,210,Proposition 6,,"",NO,2,2,0,0
-Milam,210,Proposition 7,,"",YES,100,55,35,10
-Milam,210,Proposition 7,,"",NO,31,21,6,4
-Milam,210,Proposition 8,,"",YES,137,80,42,15
-Milam,210,Proposition 8,,"",NO,4,3,1,0
-Milam,210,Proposition 9,,"",YES,129,77,37,15
-Milam,210,Proposition 9,,"",NO,10,4,6,0
-Milam,210,Proposition 10,,"",YES,132,76,41,15
-Milam,210,Proposition 10,,"",NO,4,3,1,0
-Milam,210,Proposition 11,,"",YES,127,73,39,15
-Milam,210,Proposition 11,,"",NO,12,8,4,0
-Milam,210,U.S. Senate,,DEM,Beto O'Rourke,3,0,1,2
-Milam,210,U.S. Senate,,DEM,Edward Kimbrough,10,1,6,3
-Milam,210,U.S. Senate,,DEM,Sema Hernandez,1,1,0,0
-Milam,210,U.S. House,17,DEM,Rick Kennedy,12,2,6,4
-Milam,210,U.S. House,17,DEM,Dale Mantey,3,0,1,2
-Milam,210,Governor,,DEM,Andrew White,6,0,2,4
+Milam,210,"Justice, 3rd Court of Appeals District, Place 6",,REP,"Michael ""Mike"" Toth",54,15,33,6
+Milam,210,"Justice, 3rd Court of Appeals District, Place 6",,REP,Jennifer S. Freel,17,6,9,2
+Milam,210,County Judge,,REP,Steve Young,68,18,44,6
+Milam,210,County Judge,,REP,Frank Summers,68,24,35,9
+Milam,210,District Clerk,,REP,Karen Berry,121,37,70,14
+Milam,210,County Clerk,,REP,Jodi Morgan,122,35,73,14
+Milam,210,County Treasurer,,REP,"Jennifer ""Jenger"" Epperson-Moran",43,15,21,7
+Milam,210,County Treasurer,,REP,Linda Acosta,93,26,59,8
+Milam,210,"County Commissioner, Precinct No. 2",,REP,Donald R. Shuffield,60,17,36,7
+Milam,210,"County Commissioner, Precinct No. 2",,REP,James Condry,53,16,31,6
+Milam,210,"County Commissioner, Precinct No. 2",,REP,Doug Baker,26,8,16,2
+Milam,210,"Justice of the Peace, Precinct No. 2",,REP,Don Schuerman,79,24,45,10
+Milam,210,"Justice of the Peace, Precinct No. 2",,REP,Sam Berry,62,19,39,4
+Milam,210,County Chairman,,REP,Bill Whitmire,122,39,70,13
+Milam,210,Proposition 1,,,YES,94,34,49,11
+Milam,210,Proposition 1,,,NO,38,8,28,2
+Milam,210,Proposition 2,,,YES,133,43,76,14
+Milam,210,Proposition 2,,,NO,6,0,6,0
+Milam,210,Proposition 3,,,YES,116,30,72,14
+Milam,210,Proposition 3,,,NO,20,9,11,0
+Milam,210,Proposition 4,,,YES,129,40,76,13
+Milam,210,Proposition 4,,,NO,12,3,7,2
+Milam,210,Proposition 5,,,YES,121,38,72,11
+Milam,210,Proposition 5,,,NO,14,3,9,2
+Milam,210,Proposition 6,,,YES,137,45,77,15
+Milam,210,Proposition 6,,,NO,2,0,2,0
+Milam,210,Proposition 7,,,YES,100,35,55,10
+Milam,210,Proposition 7,,,NO,31,6,21,4
+Milam,210,Proposition 8,,,YES,137,42,80,15
+Milam,210,Proposition 8,,,NO,4,1,3,0
+Milam,210,Proposition 9,,,YES,129,37,77,15
+Milam,210,Proposition 9,,,NO,10,6,4,0
+Milam,210,Proposition 10,,,YES,132,41,76,15
+Milam,210,Proposition 10,,,NO,4,1,3,0
+Milam,210,Proposition 11,,,YES,127,39,73,15
+Milam,210,Proposition 11,,,NO,12,4,8,0
+Milam,210,U.S. Senate,,DEM,Beto O'Rourke,3,1,0,2
+Milam,210,U.S. Senate,,DEM,Edward Kimbrough,10,6,1,3
+Milam,210,U.S. Senate,,DEM,Sema Hernandez,1,0,1,0
+Milam,210,U.S. House,17,DEM,Rick Kennedy,12,6,2,4
+Milam,210,U.S. House,17,DEM,Dale Mantey,3,1,0,2
+Milam,210,Governor,,DEM,Andrew White,6,2,0,4
 Milam,210,Governor,,DEM,James Jolly Clark,0,0,0,0
-Milam,210,Governor,,DEM,Joe Mumbach,1,0,1,0
+Milam,210,Governor,,DEM,Joe Mumbach,1,1,0,0
 Milam,210,Governor,,DEM,Tom Wakely,0,0,0,0
-Milam,210,Governor,,DEM,Lupe Valdez,1,0,1,0
+Milam,210,Governor,,DEM,Lupe Valdez,1,1,0,0
 Milam,210,Governor,,DEM,Jeffrey Payne,0,0,0,0
 Milam,210,Governor,,DEM,Grady Yarbrough,5,2,2,1
 Milam,210,Governor,,DEM,"Cedric Davis, Sr.",1,0,0,1
-Milam,210,Governor,,DEM,Adrian Ocegueda,1,0,1,0
-Milam,210,Lieutenant Governor,,DEM,Michael Cooper,9,2,4,3
-Milam,210,Lieutenant Governor,,DEM,Mike Collier,6,0,3,3
-Milam,210,Attorney General,,DEM,Justin Nelson,14,2,7,5
+Milam,210,Governor,,DEM,Adrian Ocegueda,1,1,0,0
+Milam,210,Lieutenant Governor,,DEM,Michael Cooper,9,4,2,3
+Milam,210,Lieutenant Governor,,DEM,Mike Collier,6,3,0,3
+Milam,210,Attorney General,,DEM,Justin Nelson,14,7,2,5
 Milam,210,Comptroller of Public Accounts,,DEM,Joi Chevalier,2,0,0,2
-Milam,210,Comptroller of Public Accounts,,DEM,Tim Mahoney,13,2,7,4
-Milam,210,Commissioner of the General Land Office,,"",Tex Morgan,10,1,5,4
-Milam,210,Commissioner of the General Land Office,,DEM,Miguel Suazo,4,1,2,1
-Milam,210,Commissioner of Agriculture,,DEM,Kim Olson,11,1,5,5
-Milam,210,Railroad Commissioner,,DEM,Roman McAllen,7,1,3,3
-Milam,210,Railroad Commissioner,,DEM,Chris Spellmon,8,1,4,3
-Milam,210,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,13,2,6,5
-Milam,210,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,13,2,6,5
-Milam,210,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,13,2,6,5
-Milam,210,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,13,2,6,5
-Milam,210,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,13,2,6,5
-Milam,210,State Senator,5,DEM,Meg Walsh,8,0,4,4
+Milam,210,Comptroller of Public Accounts,,DEM,Tim Mahoney,13,7,2,4
+Milam,210,Commissioner of the General Land Office,,,Tex Morgan,10,5,1,4
+Milam,210,Commissioner of the General Land Office,,DEM,Miguel Suazo,4,2,1,1
+Milam,210,Commissioner of Agriculture,,DEM,Kim Olson,11,5,1,5
+Milam,210,Railroad Commissioner,,DEM,Roman McAllen,7,3,1,3
+Milam,210,Railroad Commissioner,,DEM,Chris Spellmon,8,4,1,3
+Milam,210,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,13,6,2,5
+Milam,210,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,13,6,2,5
+Milam,210,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,13,6,2,5
+Milam,210,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,13,6,2,5
+Milam,210,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,13,6,2,5
+Milam,210,State Senator,5,DEM,Meg Walsh,8,4,0,4
 Milam,210,State Senator,5,DEM,"Glenn ""Grumpy"" Williams",4,2,2,0
-Milam,210,State Senator,5,DEM,Brian E. Cronin,2,0,1,1
-Milam,210,State Representative,20,DEM,Stephen M. Wyman,12,1,6,5
-Milam,210,"Justice, 3rd Court of Appeals District, Place 2",,DEM,Edward Smith,12,2,5,5
-Milam,210,"Justice, 3rd Court of Appeals District, Place 3",,DEM,Chari Kelly,12,2,5,5
-Milam,210,"Justice, 3rd Court of Appeals District, Place 5",,DEM,Thomas J. Baker,13,2,6,5
-Milam,210,"Justice, 3rd Court of Appeals District, Place 6",,DEM,Gisela D. Triana,12,2,5,5
-Milam,210,County Judge,,DEM,Jared Melde,12,2,5,5
-Milam,210,Proposition 1,,"",YES,15,3,7,5
-Milam,210,Proposition 1,,"",NO,1,0,0,1
-Milam,210,Proposition 2,,"",YES,13,2,6,5
-Milam,210,Proposition 2,,"",NO,2,0,1,1
-Milam,210,Proposition 3,,"",YES,14,2,7,5
-Milam,210,Proposition 3,,"",NO,1,0,0,1
-Milam,210,Proposition 4,,"",YES,13,1,7,5
-Milam,210,Proposition 4,,"",NO,1,0,0,1
-Milam,210,Proposition 5,,"",YES,12,2,5,5
-Milam,210,Proposition 5,,"",NO,2,0,1,1
-Milam,210,Proposition 6,,"",YES,16,3,7,6
-Milam,210,Proposition 6,,"",NO,0,0,0,0
-Milam,210,Proposition 7,,"",YES,14,2,6,6
-Milam,210,Proposition 7,,"",NO,1,0,1,0
-Milam,210,Proposition 8,,"",YES,13,1,7,5
-Milam,210,Proposition 8,,"",NO,2,1,0,1
-Milam,210,Proposition 9,,"",YES,12,2,4,6
-Milam,210,Proposition 9,,"",NO,2,0,2,0
-Milam,210,Proposition 10,,"",YES,11,2,5,4
-Milam,210,Proposition 10,,"",NO,2,0,1,1
-Milam,210,Proposition 11,,"",YES,13,2,5,6
-Milam,210,Proposition 11,,"",NO,2,0,2,0
-Milam,210,Proposition 12,,"",YES,14,2,7,5
-Milam,210,Proposition 12,,"",NO,0,0,0,0
+Milam,210,State Senator,5,DEM,Brian E. Cronin,2,1,0,1
+Milam,210,State Representative,20,DEM,Stephen M. Wyman,12,6,1,5
+Milam,210,"Justice, 3rd Court of Appeals District, Place 2",,DEM,Edward Smith,12,5,2,5
+Milam,210,"Justice, 3rd Court of Appeals District, Place 3",,DEM,Chari Kelly,12,5,2,5
+Milam,210,"Justice, 3rd Court of Appeals District, Place 5",,DEM,Thomas J. Baker,13,6,2,5
+Milam,210,"Justice, 3rd Court of Appeals District, Place 6",,DEM,Gisela D. Triana,12,5,2,5
+Milam,210,County Judge,,DEM,Jared Melde,12,5,2,5
+Milam,210,Proposition 1,,,YES,15,7,3,5
+Milam,210,Proposition 1,,,NO,1,0,0,1
+Milam,210,Proposition 2,,,YES,13,6,2,5
+Milam,210,Proposition 2,,,NO,2,1,0,1
+Milam,210,Proposition 3,,,YES,14,7,2,5
+Milam,210,Proposition 3,,,NO,1,0,0,1
+Milam,210,Proposition 4,,,YES,13,7,1,5
+Milam,210,Proposition 4,,,NO,1,0,0,1
+Milam,210,Proposition 5,,,YES,12,5,2,5
+Milam,210,Proposition 5,,,NO,2,1,0,1
+Milam,210,Proposition 6,,,YES,16,7,3,6
+Milam,210,Proposition 6,,,NO,0,0,0,0
+Milam,210,Proposition 7,,,YES,14,6,2,6
+Milam,210,Proposition 7,,,NO,1,1,0,0
+Milam,210,Proposition 8,,,YES,13,7,1,5
+Milam,210,Proposition 8,,,NO,2,0,1,1
+Milam,210,Proposition 9,,,YES,12,4,2,6
+Milam,210,Proposition 9,,,NO,2,2,0,0
+Milam,210,Proposition 10,,,YES,11,5,2,4
+Milam,210,Proposition 10,,,NO,2,1,0,1
+Milam,210,Proposition 11,,,YES,13,5,2,6
+Milam,210,Proposition 11,,,NO,2,2,0,0
+Milam,210,Proposition 12,,,YES,14,7,2,5
+Milam,210,Proposition 12,,,NO,0,0,0,0
 Milam,212,U.S. Senate,,REP,Over Votes,0,0,0,0
-Milam,212,U.S. Senate,,REP,Under Votes,48,30,15,3
+Milam,212,U.S. Senate,,REP,Under Votes,48,15,30,3
 Milam,212,Registered Voters,,,,1947,,,
 Milam,212,Ballots Cast,,REP,,460,,,
 Milam,212,Ballots Cast,,DEM,,94,,,
-Milam,212,U.S. Senate,,REP,Stefano de Stefano,9,7,1,1
+Milam,212,U.S. Senate,,REP,Stefano de Stefano,9,1,7,1
 Milam,212,U.S. Senate,,REP,"Bruce Jacobson, Jr.",19,9,9,1
-Milam,212,U.S. Senate,,REP,Geraldine Sam,7,4,3,0
-Milam,212,U.S. Senate,,REP,Ted Cruz,349,204,119,26
-Milam,212,U.S. Senate,,REP,Mary Miller,28,16,12,0
-Milam,212,U.S. House,17,REP,Bill Flores,370,219,125,26
-Milam,212,Governor,,REP,Barbara Krueger,35,25,10,0
-Milam,212,Governor,,REP,Greg Abbott,372,212,131,29
-Milam,212,Governor,,REP,SECEDE Kilgore,11,8,3,0
-Milam,212,Lieutenant Governor,,REP,Scott Milder,81,45,33,3
-Milam,212,Lieutenant Governor,,REP,Dan Patrick,314,182,106,26
-Milam,212,Attorney General,,REP,Ken Paxton,345,199,122,24
-Milam,212,Comptroller of Public Accounts,,REP,Glenn Hegar,328,189,117,22
-Milam,212,Commissioner of the General Land Office,,REP,Rick Range,19,15,4,0
-Milam,212,Commissioner of the General Land Office,,REP,George P. Bush,242,139,91,12
-Milam,212,Commissioner of the General Land Office,,REP,Jerry Patterson,100,60,33,7
-Milam,212,Commissioner of the General Land Office,,REP,Davey Edwards,26,10,12,4
-Milam,212,Commissioner of Agriculture,,REP,Jim Hogan,96,54,32,10
-Milam,212,Commissioner of Agriculture,,REP,Sid Miller,198,118,74,6
-Milam,212,Commissioner of Agriculture,,REP,Trey Blocker,50,28,17,5
-Milam,212,Railroad Commissioner,,REP,Weston Martinez,118,67,42,9
-Milam,212,Railroad Commissioner,,REP,Christi Craddick,227,135,77,15
-Milam,212,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,317,182,112,23
-Milam,212,"Justice, Supreme Court, Place 4",,REP,John Devine,304,174,107,23
-Milam,212,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,302,176,105,21
-Milam,212,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,192,106,68,18
-Milam,212,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,145,90,51,4
-Milam,212,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,313,180,110,23
-Milam,212,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,42,22,15,5
-Milam,212,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,115,71,40,4
-Milam,212,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,140,79,51,10
-Milam,212,State Senator,5,REP,Harold Ramm,65,40,23,2
-Milam,212,State Senator,5,REP,Charles Schwertner,303,177,105,21
-Milam,212,State Representative,20,REP,Terry M. Wilson,323,189,112,22
-Milam,212,"Justice, 3rd Court of Appeals District, Place 2",,REP,Cynthia Olson Bourland,295,170,105,20
-Milam,212,"Justice, 3rd Court of Appeals District, Place 3",,REP,Scott Field,296,172,103,21
-Milam,212,"Justice, 3rd Court of Appeals District, Place 5",,REP,David Puryear,294,171,102,21
-Milam,212,"Justice, 3rd Court of Appeals District, Place 6",,REP,Donna Davidson,88,59,24,5
-Milam,212,"Justice, 3rd Court of Appeals District, Place 6",,REP,Kristofer Monson,21,11,8,2
-Milam,212,"Justice, 3rd Court of Appeals District, Place 6",,REP,"Michael ""Mike"" Toth",120,65,47,8
-Milam,212,"Justice, 3rd Court of Appeals District, Place 6",,REP,Jennifer S. Freel,89,55,29,5
-Milam,212,County Judge,,REP,Steve Young,218,129,70,19
-Milam,212,County Judge,,REP,Frank Summers,228,131,86,11
-Milam,212,District Clerk,,REP,Karen Berry,352,205,121,26
-Milam,212,County Clerk,,REP,Jodi Morgan,368,213,128,27
-Milam,212,County Treasurer,,REP,"Jennifer ""Jenger"" Epperson-Moran",88,44,42,2
-Milam,212,County Treasurer,,REP,Linda Acosta,341,209,103,29
-Milam,212,"County Commissioner, Precinct No. 2",,REP,Donald R. Shuffield,238,143,76,19
-Milam,212,"County Commissioner, Precinct No. 2",,REP,James Condry,84,48,36,0
-Milam,212,"County Commissioner, Precinct No. 2",,REP,Doug Baker,113,65,37,11
-Milam,212,"Justice of the Peace, Precinct No. 2",,REP,Don Schuerman,161,83,63,15
-Milam,212,"Justice of the Peace, Precinct No. 2",,REP,Sam Berry,272,173,84,15
-Milam,212,County Chairman,,REP,Bill Whitmire,351,199,126,26
-Milam,212,Proposition 1,,"",YES,256,143,96,17
-Milam,212,Proposition 1,,"",NO,113,71,34,8
-Milam,212,Proposition 2,,"",YES,365,215,124,26
-Milam,212,Proposition 2,,"",NO,36,21,12,3
-Milam,212,Proposition 3,,"",YES,323,186,112,25
-Milam,212,Proposition 3,,"",NO,69,46,23,0
-Milam,212,Proposition 4,,"",YES,357,204,126,27
-Milam,212,Proposition 4,,"",NO,46,32,11,3
-Milam,212,Proposition 5,,"",YES,347,201,121,25
-Milam,212,Proposition 5,,"",NO,64,40,19,5
-Milam,212,Proposition 6,,"",YES,406,235,142,29
-Milam,212,Proposition 6,,"",NO,14,10,3,1
-Milam,212,Proposition 7,,"",YES,269,150,104,15
-Milam,212,Proposition 7,,"",NO,128,86,35,7
-Milam,212,Proposition 8,,"",YES,407,240,141,26
-Milam,212,Proposition 8,,"",NO,13,9,2,2
-Milam,212,Proposition 9,,"",YES,348,205,123,20
-Milam,212,Proposition 9,,"",NO,60,35,18,7
-Milam,212,Proposition 10,,"",YES,371,211,132,28
-Milam,212,Proposition 10,,"",NO,16,15,1,0
-Milam,212,Proposition 11,,"",YES,373,216,132,25
-Milam,212,Proposition 11,,"",NO,44,27,12,5
-Milam,212,U.S. Senate,,DEM,Beto O'Rourke,34,8,20,6
-Milam,212,U.S. Senate,,DEM,Edward Kimbrough,34,4,17,13
-Milam,212,U.S. Senate,,DEM,Sema Hernandez,19,7,9,3
-Milam,212,U.S. House,17,DEM,Rick Kennedy,60,15,30,15
-Milam,212,U.S. House,17,DEM,Dale Mantey,25,4,14,7
-Milam,212,Governor,,DEM,Andrew White,26,5,10,11
-Milam,212,Governor,,DEM,James Jolly Clark,3,0,2,1
+Milam,212,U.S. Senate,,REP,Geraldine Sam,7,3,4,0
+Milam,212,U.S. Senate,,REP,Ted Cruz,349,119,204,26
+Milam,212,U.S. Senate,,REP,Mary Miller,28,12,16,0
+Milam,212,U.S. House,17,REP,Bill Flores,370,125,219,26
+Milam,212,Governor,,REP,Barbara Krueger,35,10,25,0
+Milam,212,Governor,,REP,Greg Abbott,372,131,212,29
+Milam,212,Governor,,REP,SECEDE Kilgore,11,3,8,0
+Milam,212,Lieutenant Governor,,REP,Scott Milder,81,33,45,3
+Milam,212,Lieutenant Governor,,REP,Dan Patrick,314,106,182,26
+Milam,212,Attorney General,,REP,Ken Paxton,345,122,199,24
+Milam,212,Comptroller of Public Accounts,,REP,Glenn Hegar,328,117,189,22
+Milam,212,Commissioner of the General Land Office,,REP,Rick Range,19,4,15,0
+Milam,212,Commissioner of the General Land Office,,REP,George P. Bush,242,91,139,12
+Milam,212,Commissioner of the General Land Office,,REP,Jerry Patterson,100,33,60,7
+Milam,212,Commissioner of the General Land Office,,REP,Davey Edwards,26,12,10,4
+Milam,212,Commissioner of Agriculture,,REP,Jim Hogan,96,32,54,10
+Milam,212,Commissioner of Agriculture,,REP,Sid Miller,198,74,118,6
+Milam,212,Commissioner of Agriculture,,REP,Trey Blocker,50,17,28,5
+Milam,212,Railroad Commissioner,,REP,Weston Martinez,118,42,67,9
+Milam,212,Railroad Commissioner,,REP,Christi Craddick,227,77,135,15
+Milam,212,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,317,112,182,23
+Milam,212,"Justice, Supreme Court, Place 4",,REP,John Devine,304,107,174,23
+Milam,212,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,302,105,176,21
+Milam,212,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,192,68,106,18
+Milam,212,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,145,51,90,4
+Milam,212,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,313,110,180,23
+Milam,212,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,42,15,22,5
+Milam,212,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,115,40,71,4
+Milam,212,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,140,51,79,10
+Milam,212,State Senator,5,REP,Harold Ramm,65,23,40,2
+Milam,212,State Senator,5,REP,Charles Schwertner,303,105,177,21
+Milam,212,State Representative,20,REP,Terry M. Wilson,323,112,189,22
+Milam,212,"Justice, 3rd Court of Appeals District, Place 2",,REP,Cynthia Olson Bourland,295,105,170,20
+Milam,212,"Justice, 3rd Court of Appeals District, Place 3",,REP,Scott Field,296,103,172,21
+Milam,212,"Justice, 3rd Court of Appeals District, Place 5",,REP,David Puryear,294,102,171,21
+Milam,212,"Justice, 3rd Court of Appeals District, Place 6",,REP,Donna Davidson,88,24,59,5
+Milam,212,"Justice, 3rd Court of Appeals District, Place 6",,REP,Kristofer Monson,21,8,11,2
+Milam,212,"Justice, 3rd Court of Appeals District, Place 6",,REP,"Michael ""Mike"" Toth",120,47,65,8
+Milam,212,"Justice, 3rd Court of Appeals District, Place 6",,REP,Jennifer S. Freel,89,29,55,5
+Milam,212,County Judge,,REP,Steve Young,218,70,129,19
+Milam,212,County Judge,,REP,Frank Summers,228,86,131,11
+Milam,212,District Clerk,,REP,Karen Berry,352,121,205,26
+Milam,212,County Clerk,,REP,Jodi Morgan,368,128,213,27
+Milam,212,County Treasurer,,REP,"Jennifer ""Jenger"" Epperson-Moran",88,42,44,2
+Milam,212,County Treasurer,,REP,Linda Acosta,341,103,209,29
+Milam,212,"County Commissioner, Precinct No. 2",,REP,Donald R. Shuffield,238,76,143,19
+Milam,212,"County Commissioner, Precinct No. 2",,REP,James Condry,84,36,48,0
+Milam,212,"County Commissioner, Precinct No. 2",,REP,Doug Baker,113,37,65,11
+Milam,212,"Justice of the Peace, Precinct No. 2",,REP,Don Schuerman,161,63,83,15
+Milam,212,"Justice of the Peace, Precinct No. 2",,REP,Sam Berry,272,84,173,15
+Milam,212,County Chairman,,REP,Bill Whitmire,351,126,199,26
+Milam,212,Proposition 1,,,YES,256,96,143,17
+Milam,212,Proposition 1,,,NO,113,34,71,8
+Milam,212,Proposition 2,,,YES,365,124,215,26
+Milam,212,Proposition 2,,,NO,36,12,21,3
+Milam,212,Proposition 3,,,YES,323,112,186,25
+Milam,212,Proposition 3,,,NO,69,23,46,0
+Milam,212,Proposition 4,,,YES,357,126,204,27
+Milam,212,Proposition 4,,,NO,46,11,32,3
+Milam,212,Proposition 5,,,YES,347,121,201,25
+Milam,212,Proposition 5,,,NO,64,19,40,5
+Milam,212,Proposition 6,,,YES,406,142,235,29
+Milam,212,Proposition 6,,,NO,14,3,10,1
+Milam,212,Proposition 7,,,YES,269,104,150,15
+Milam,212,Proposition 7,,,NO,128,35,86,7
+Milam,212,Proposition 8,,,YES,407,141,240,26
+Milam,212,Proposition 8,,,NO,13,2,9,2
+Milam,212,Proposition 9,,,YES,348,123,205,20
+Milam,212,Proposition 9,,,NO,60,18,35,7
+Milam,212,Proposition 10,,,YES,371,132,211,28
+Milam,212,Proposition 10,,,NO,16,1,15,0
+Milam,212,Proposition 11,,,YES,373,132,216,25
+Milam,212,Proposition 11,,,NO,44,12,27,5
+Milam,212,U.S. Senate,,DEM,Beto O'Rourke,34,20,8,6
+Milam,212,U.S. Senate,,DEM,Edward Kimbrough,34,17,4,13
+Milam,212,U.S. Senate,,DEM,Sema Hernandez,19,9,7,3
+Milam,212,U.S. House,17,DEM,Rick Kennedy,60,30,15,15
+Milam,212,U.S. House,17,DEM,Dale Mantey,25,14,4,7
+Milam,212,Governor,,DEM,Andrew White,26,10,5,11
+Milam,212,Governor,,DEM,James Jolly Clark,3,2,0,1
 Milam,212,Governor,,DEM,Joe Mumbach,0,0,0,0
-Milam,212,Governor,,DEM,Tom Wakely,6,3,2,1
-Milam,212,Governor,,DEM,Lupe Valdez,24,3,14,7
-Milam,212,Governor,,DEM,Jeffrey Payne,5,1,3,1
-Milam,212,Governor,,DEM,Grady Yarbrough,16,7,9,0
-Milam,212,Governor,,DEM,"Cedric Davis, Sr.",5,1,4,0
+Milam,212,Governor,,DEM,Tom Wakely,6,2,3,1
+Milam,212,Governor,,DEM,Lupe Valdez,24,14,3,7
+Milam,212,Governor,,DEM,Jeffrey Payne,5,3,1,1
+Milam,212,Governor,,DEM,Grady Yarbrough,16,9,7,0
+Milam,212,Governor,,DEM,"Cedric Davis, Sr.",5,4,1,0
 Milam,212,Governor,,DEM,Adrian Ocegueda,1,0,0,1
-Milam,212,Lieutenant Governor,,DEM,Michael Cooper,42,11,22,9
-Milam,212,Lieutenant Governor,,DEM,Mike Collier,46,9,23,14
-Milam,212,Attorney General,,DEM,Justin Nelson,81,18,44,19
-Milam,212,Comptroller of Public Accounts,,DEM,Joi Chevalier,31,8,20,3
-Milam,212,Comptroller of Public Accounts,,DEM,Tim Mahoney,55,12,24,19
-Milam,212,Commissioner of the General Land Office,,"",Tex Morgan,40,9,15,16
-Milam,212,Commissioner of the General Land Office,,DEM,Miguel Suazo,48,11,30,7
-Milam,212,Commissioner of Agriculture,,DEM,Kim Olson,84,20,43,21
-Milam,212,Railroad Commissioner,,DEM,Roman McAllen,40,6,22,12
-Milam,212,Railroad Commissioner,,DEM,Chris Spellmon,49,14,25,10
-Milam,212,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,83,19,43,21
-Milam,212,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,81,19,43,19
-Milam,212,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,82,19,43,20
-Milam,212,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,82,19,43,20
-Milam,212,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,81,19,43,19
-Milam,212,State Senator,5,DEM,Meg Walsh,54,13,26,15
-Milam,212,State Senator,5,DEM,"Glenn ""Grumpy"" Williams",10,2,7,1
-Milam,212,State Senator,5,DEM,Brian E. Cronin,22,4,13,5
-Milam,212,State Representative,20,DEM,Stephen M. Wyman,83,19,43,21
-Milam,212,"Justice, 3rd Court of Appeals District, Place 2",,DEM,Edward Smith,85,19,44,22
-Milam,212,"Justice, 3rd Court of Appeals District, Place 3",,DEM,Chari Kelly,80,19,43,18
-Milam,212,"Justice, 3rd Court of Appeals District, Place 5",,DEM,Thomas J. Baker,82,20,43,19
-Milam,212,"Justice, 3rd Court of Appeals District, Place 6",,DEM,Gisela D. Triana,76,18,40,18
-Milam,212,County Judge,,DEM,Jared Melde,80,19,41,20
-Milam,212,Proposition 1,,"",YES,88,19,48,21
-Milam,212,Proposition 1,,"",NO,2,1,0,1
-Milam,212,Proposition 2,,"",YES,83,18,47,18
-Milam,212,Proposition 2,,"",NO,7,3,0,4
-Milam,212,Proposition 3,,"",YES,85,20,43,22
-Milam,212,Proposition 3,,"",NO,5,1,4,0
-Milam,212,Proposition 4,,"",YES,87,20,45,22
-Milam,212,Proposition 4,,"",NO,2,1,1,0
-Milam,212,Proposition 5,,"",YES,83,16,47,20
-Milam,212,Proposition 5,,"",NO,7,5,1,1
-Milam,212,Proposition 6,,"",YES,90,21,48,21
-Milam,212,Proposition 6,,"",NO,0,0,0,0
-Milam,212,Proposition 7,,"",YES,90,21,48,21
-Milam,212,Proposition 7,,"",NO,1,0,0,1
-Milam,212,Proposition 8,,"",YES,83,19,47,17
-Milam,212,Proposition 8,,"",NO,5,2,0,3
-Milam,212,Proposition 9,,"",YES,88,19,49,20
-Milam,212,Proposition 9,,"",NO,3,2,0,1
-Milam,212,Proposition 10,,"",YES,86,20,46,20
-Milam,212,Proposition 10,,"",NO,2,1,0,1
-Milam,212,Proposition 11,,"",YES,81,17,44,20
-Milam,212,Proposition 11,,"",NO,7,4,2,1
-Milam,212,Proposition 12,,"",YES,86,20,48,18
-Milam,212,Proposition 12,,"",NO,3,1,0,2
+Milam,212,Lieutenant Governor,,DEM,Michael Cooper,42,22,11,9
+Milam,212,Lieutenant Governor,,DEM,Mike Collier,46,23,9,14
+Milam,212,Attorney General,,DEM,Justin Nelson,81,44,18,19
+Milam,212,Comptroller of Public Accounts,,DEM,Joi Chevalier,31,20,8,3
+Milam,212,Comptroller of Public Accounts,,DEM,Tim Mahoney,55,24,12,19
+Milam,212,Commissioner of the General Land Office,,,Tex Morgan,40,15,9,16
+Milam,212,Commissioner of the General Land Office,,DEM,Miguel Suazo,48,30,11,7
+Milam,212,Commissioner of Agriculture,,DEM,Kim Olson,84,43,20,21
+Milam,212,Railroad Commissioner,,DEM,Roman McAllen,40,22,6,12
+Milam,212,Railroad Commissioner,,DEM,Chris Spellmon,49,25,14,10
+Milam,212,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,83,43,19,21
+Milam,212,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,81,43,19,19
+Milam,212,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,82,43,19,20
+Milam,212,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,82,43,19,20
+Milam,212,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,81,43,19,19
+Milam,212,State Senator,5,DEM,Meg Walsh,54,26,13,15
+Milam,212,State Senator,5,DEM,"Glenn ""Grumpy"" Williams",10,7,2,1
+Milam,212,State Senator,5,DEM,Brian E. Cronin,22,13,4,5
+Milam,212,State Representative,20,DEM,Stephen M. Wyman,83,43,19,21
+Milam,212,"Justice, 3rd Court of Appeals District, Place 2",,DEM,Edward Smith,85,44,19,22
+Milam,212,"Justice, 3rd Court of Appeals District, Place 3",,DEM,Chari Kelly,80,43,19,18
+Milam,212,"Justice, 3rd Court of Appeals District, Place 5",,DEM,Thomas J. Baker,82,43,20,19
+Milam,212,"Justice, 3rd Court of Appeals District, Place 6",,DEM,Gisela D. Triana,76,40,18,18
+Milam,212,County Judge,,DEM,Jared Melde,80,41,19,20
+Milam,212,Proposition 1,,,YES,88,48,19,21
+Milam,212,Proposition 1,,,NO,2,0,1,1
+Milam,212,Proposition 2,,,YES,83,47,18,18
+Milam,212,Proposition 2,,,NO,7,0,3,4
+Milam,212,Proposition 3,,,YES,85,43,20,22
+Milam,212,Proposition 3,,,NO,5,4,1,0
+Milam,212,Proposition 4,,,YES,87,45,20,22
+Milam,212,Proposition 4,,,NO,2,1,1,0
+Milam,212,Proposition 5,,,YES,83,47,16,20
+Milam,212,Proposition 5,,,NO,7,1,5,1
+Milam,212,Proposition 6,,,YES,90,48,21,21
+Milam,212,Proposition 6,,,NO,0,0,0,0
+Milam,212,Proposition 7,,,YES,90,48,21,21
+Milam,212,Proposition 7,,,NO,1,0,0,1
+Milam,212,Proposition 8,,,YES,83,47,19,17
+Milam,212,Proposition 8,,,NO,5,0,2,3
+Milam,212,Proposition 9,,,YES,88,49,19,20
+Milam,212,Proposition 9,,,NO,3,0,2,1
+Milam,212,Proposition 10,,,YES,86,46,20,20
+Milam,212,Proposition 10,,,NO,2,0,1,1
+Milam,212,Proposition 11,,,YES,81,44,17,20
+Milam,212,Proposition 11,,,NO,7,2,4,1
+Milam,212,Proposition 12,,,YES,86,48,20,18
+Milam,212,Proposition 12,,,NO,3,0,1,2
 Milam,316,U.S. Senate,,REP,Over Votes,0,0,0,0
-Milam,316,U.S. Senate,,REP,Under Votes,4,1,3,0
+Milam,316,U.S. Senate,,REP,Under Votes,4,3,1,0
 Milam,316,Registered Voters,,,,629,,,
 Milam,316,Ballots Cast,,REP,,126,,,
 Milam,316,Ballots Cast,,DEM,,36,,,
-Milam,316,U.S. Senate,,REP,Stefano de Stefano,5,2,3,0
-Milam,316,U.S. Senate,,REP,"Bruce Jacobson, Jr.",6,1,5,0
-Milam,316,U.S. Senate,,REP,Geraldine Sam,2,2,0,0
-Milam,316,U.S. Senate,,REP,Ted Cruz,100,21,72,7
-Milam,316,U.S. Senate,,REP,Mary Miller,9,1,7,1
-Milam,316,U.S. House,17,REP,Bill Flores,108,24,77,7
-Milam,316,Governor,,REP,Barbara Krueger,11,3,7,1
-Milam,316,Governor,,REP,Greg Abbott,112,24,81,7
+Milam,316,U.S. Senate,,REP,Stefano de Stefano,5,3,2,0
+Milam,316,U.S. Senate,,REP,"Bruce Jacobson, Jr.",6,5,1,0
+Milam,316,U.S. Senate,,REP,Geraldine Sam,2,0,2,0
+Milam,316,U.S. Senate,,REP,Ted Cruz,100,72,21,7
+Milam,316,U.S. Senate,,REP,Mary Miller,9,7,1,1
+Milam,316,U.S. House,17,REP,Bill Flores,108,77,24,7
+Milam,316,Governor,,REP,Barbara Krueger,11,7,3,1
+Milam,316,Governor,,REP,Greg Abbott,112,81,24,7
 Milam,316,Governor,,REP,SECEDE Kilgore,0,0,0,0
-Milam,316,Lieutenant Governor,,REP,Scott Milder,29,7,21,1
-Milam,316,Lieutenant Governor,,REP,Dan Patrick,93,21,65,7
-Milam,316,Attorney General,,REP,Ken Paxton,108,24,76,8
-Milam,316,Comptroller of Public Accounts,,REP,Glenn Hegar,105,26,72,7
-Milam,316,Commissioner of the General Land Office,,REP,Rick Range,12,2,9,1
-Milam,316,Commissioner of the General Land Office,,REP,George P. Bush,74,18,55,1
-Milam,316,Commissioner of the General Land Office,,REP,Jerry Patterson,26,6,15,5
-Milam,316,Commissioner of the General Land Office,,REP,Davey Edwards,6,2,3,1
-Milam,316,Commissioner of Agriculture,,REP,Jim Hogan,32,5,24,3
-Milam,316,Commissioner of Agriculture,,REP,Sid Miller,54,16,36,2
-Milam,316,Commissioner of Agriculture,,REP,Trey Blocker,23,5,15,3
-Milam,316,Railroad Commissioner,,REP,Weston Martinez,36,5,28,3
-Milam,316,Railroad Commissioner,,REP,Christi Craddick,83,22,56,5
-Milam,316,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,108,27,73,8
-Milam,316,"Justice, Supreme Court, Place 4",,REP,John Devine,108,27,73,8
-Milam,316,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,108,27,73,8
-Milam,316,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,72,16,52,4
-Milam,316,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,39,12,23,4
-Milam,316,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,108,27,73,8
-Milam,316,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,30,6,22,2
-Milam,316,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,43,11,30,2
-Milam,316,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,42,11,27,4
-Milam,316,State Senator,5,REP,Harold Ramm,36,7,26,3
-Milam,316,State Senator,5,REP,Charles Schwertner,85,21,59,5
-Milam,316,State Representative,20,REP,Terry M. Wilson,107,27,73,7
-Milam,316,"Justice, 3rd Court of Appeals District, Place 2",,REP,Cynthia Olson Bourland,108,27,73,8
-Milam,316,"Justice, 3rd Court of Appeals District, Place 3",,REP,Scott Field,109,27,74,8
-Milam,316,"Justice, 3rd Court of Appeals District, Place 5",,REP,David Puryear,106,27,71,8
-Milam,316,"Justice, 3rd Court of Appeals District, Place 6",,REP,Donna Davidson,33,9,20,4
-Milam,316,"Justice, 3rd Court of Appeals District, Place 6",,REP,Kristofer Monson,10,3,6,1
-Milam,316,"Justice, 3rd Court of Appeals District, Place 6",,REP,"Michael ""Mike"" Toth",54,12,39,3
-Milam,316,"Justice, 3rd Court of Appeals District, Place 6",,REP,Jennifer S. Freel,14,4,10,0
-Milam,316,County Judge,,REP,Steve Young,85,24,54,7
-Milam,316,County Judge,,REP,Frank Summers,32,3,28,1
-Milam,316,District Clerk,,REP,Karen Berry,108,27,74,7
-Milam,316,County Clerk,,REP,Jodi Morgan,105,27,71,7
-Milam,316,County Treasurer,,REP,"Jennifer ""Jenger"" Epperson-Moran",45,10,30,5
-Milam,316,County Treasurer,,REP,Linda Acosta,75,18,54,3
-Milam,316,"Justice of the Peace, Precinct No. 3",,REP,Andy Isaacs,109,26,75,8
-Milam,316,County Chairman,,REP,Bill Whitmire,110,27,75,8
-Milam,316,Proposition 1,,"",YES,81,15,61,5
-Milam,316,Proposition 1,,"",NO,40,12,25,3
-Milam,316,Proposition 2,,"",YES,113,26,79,8
-Milam,316,Proposition 2,,"",NO,10,2,8,0
-Milam,316,Proposition 3,,"",YES,97,23,66,8
-Milam,316,Proposition 3,,"",NO,27,5,22,0
-Milam,316,Proposition 4,,"",YES,109,27,74,8
-Milam,316,Proposition 4,,"",NO,16,1,15,0
-Milam,316,Proposition 5,,"",YES,104,27,71,6
-Milam,316,Proposition 5,,"",NO,21,1,18,2
-Milam,316,Proposition 6,,"",YES,118,27,83,8
-Milam,316,Proposition 6,,"",NO,8,1,7,0
-Milam,316,Proposition 7,,"",YES,87,19,64,4
-Milam,316,Proposition 7,,"",NO,34,9,21,4
-Milam,316,Proposition 8,,"",YES,120,26,86,8
-Milam,316,Proposition 8,,"",NO,6,2,4,0
-Milam,316,Proposition 9,,"",YES,115,27,80,8
-Milam,316,Proposition 9,,"",NO,9,1,8,0
-Milam,316,Proposition 10,,"",YES,119,27,85,7
-Milam,316,Proposition 10,,"",NO,6,1,4,1
-Milam,316,Proposition 11,,"",YES,113,24,81,8
-Milam,316,Proposition 11,,"",NO,12,4,8,0
-Milam,316,U.S. Senate,,DEM,Beto O'Rourke,16,5,9,2
-Milam,316,U.S. Senate,,DEM,Edward Kimbrough,9,0,9,0
-Milam,316,U.S. Senate,,DEM,Sema Hernandez,11,1,8,2
-Milam,316,U.S. House,17,DEM,Rick Kennedy,20,3,15,2
-Milam,316,U.S. House,17,DEM,Dale Mantey,16,3,11,2
-Milam,316,Governor,,DEM,Andrew White,9,1,8,0
+Milam,316,Lieutenant Governor,,REP,Scott Milder,29,21,7,1
+Milam,316,Lieutenant Governor,,REP,Dan Patrick,93,65,21,7
+Milam,316,Attorney General,,REP,Ken Paxton,108,76,24,8
+Milam,316,Comptroller of Public Accounts,,REP,Glenn Hegar,105,72,26,7
+Milam,316,Commissioner of the General Land Office,,REP,Rick Range,12,9,2,1
+Milam,316,Commissioner of the General Land Office,,REP,George P. Bush,74,55,18,1
+Milam,316,Commissioner of the General Land Office,,REP,Jerry Patterson,26,15,6,5
+Milam,316,Commissioner of the General Land Office,,REP,Davey Edwards,6,3,2,1
+Milam,316,Commissioner of Agriculture,,REP,Jim Hogan,32,24,5,3
+Milam,316,Commissioner of Agriculture,,REP,Sid Miller,54,36,16,2
+Milam,316,Commissioner of Agriculture,,REP,Trey Blocker,23,15,5,3
+Milam,316,Railroad Commissioner,,REP,Weston Martinez,36,28,5,3
+Milam,316,Railroad Commissioner,,REP,Christi Craddick,83,56,22,5
+Milam,316,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,108,73,27,8
+Milam,316,"Justice, Supreme Court, Place 4",,REP,John Devine,108,73,27,8
+Milam,316,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,108,73,27,8
+Milam,316,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,72,52,16,4
+Milam,316,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,39,23,12,4
+Milam,316,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,108,73,27,8
+Milam,316,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,30,22,6,2
+Milam,316,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,43,30,11,2
+Milam,316,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,42,27,11,4
+Milam,316,State Senator,5,REP,Harold Ramm,36,26,7,3
+Milam,316,State Senator,5,REP,Charles Schwertner,85,59,21,5
+Milam,316,State Representative,20,REP,Terry M. Wilson,107,73,27,7
+Milam,316,"Justice, 3rd Court of Appeals District, Place 2",,REP,Cynthia Olson Bourland,108,73,27,8
+Milam,316,"Justice, 3rd Court of Appeals District, Place 3",,REP,Scott Field,109,74,27,8
+Milam,316,"Justice, 3rd Court of Appeals District, Place 5",,REP,David Puryear,106,71,27,8
+Milam,316,"Justice, 3rd Court of Appeals District, Place 6",,REP,Donna Davidson,33,20,9,4
+Milam,316,"Justice, 3rd Court of Appeals District, Place 6",,REP,Kristofer Monson,10,6,3,1
+Milam,316,"Justice, 3rd Court of Appeals District, Place 6",,REP,"Michael ""Mike"" Toth",54,39,12,3
+Milam,316,"Justice, 3rd Court of Appeals District, Place 6",,REP,Jennifer S. Freel,14,10,4,0
+Milam,316,County Judge,,REP,Steve Young,85,54,24,7
+Milam,316,County Judge,,REP,Frank Summers,32,28,3,1
+Milam,316,District Clerk,,REP,Karen Berry,108,74,27,7
+Milam,316,County Clerk,,REP,Jodi Morgan,105,71,27,7
+Milam,316,County Treasurer,,REP,"Jennifer ""Jenger"" Epperson-Moran",45,30,10,5
+Milam,316,County Treasurer,,REP,Linda Acosta,75,54,18,3
+Milam,316,"Justice of the Peace, Precinct No. 3",,REP,Andy Isaacs,109,75,26,8
+Milam,316,County Chairman,,REP,Bill Whitmire,110,75,27,8
+Milam,316,Proposition 1,,,YES,81,61,15,5
+Milam,316,Proposition 1,,,NO,40,25,12,3
+Milam,316,Proposition 2,,,YES,113,79,26,8
+Milam,316,Proposition 2,,,NO,10,8,2,0
+Milam,316,Proposition 3,,,YES,97,66,23,8
+Milam,316,Proposition 3,,,NO,27,22,5,0
+Milam,316,Proposition 4,,,YES,109,74,27,8
+Milam,316,Proposition 4,,,NO,16,15,1,0
+Milam,316,Proposition 5,,,YES,104,71,27,6
+Milam,316,Proposition 5,,,NO,21,18,1,2
+Milam,316,Proposition 6,,,YES,118,83,27,8
+Milam,316,Proposition 6,,,NO,8,7,1,0
+Milam,316,Proposition 7,,,YES,87,64,19,4
+Milam,316,Proposition 7,,,NO,34,21,9,4
+Milam,316,Proposition 8,,,YES,120,86,26,8
+Milam,316,Proposition 8,,,NO,6,4,2,0
+Milam,316,Proposition 9,,,YES,115,80,27,8
+Milam,316,Proposition 9,,,NO,9,8,1,0
+Milam,316,Proposition 10,,,YES,119,85,27,7
+Milam,316,Proposition 10,,,NO,6,4,1,1
+Milam,316,Proposition 11,,,YES,113,81,24,8
+Milam,316,Proposition 11,,,NO,12,8,4,0
+Milam,316,U.S. Senate,,DEM,Beto O'Rourke,16,9,5,2
+Milam,316,U.S. Senate,,DEM,Edward Kimbrough,9,9,0,0
+Milam,316,U.S. Senate,,DEM,Sema Hernandez,11,8,1,2
+Milam,316,U.S. House,17,DEM,Rick Kennedy,20,15,3,2
+Milam,316,U.S. House,17,DEM,Dale Mantey,16,11,3,2
+Milam,316,Governor,,DEM,Andrew White,9,8,1,0
 Milam,316,Governor,,DEM,James Jolly Clark,0,0,0,0
-Milam,316,Governor,,DEM,Joe Mumbach,1,0,1,0
-Milam,316,Governor,,DEM,Tom Wakely,3,0,3,0
-Milam,316,Governor,,DEM,Lupe Valdez,15,4,7,4
-Milam,316,Governor,,DEM,Jeffrey Payne,1,0,1,0
-Milam,316,Governor,,DEM,Grady Yarbrough,7,1,6,0
+Milam,316,Governor,,DEM,Joe Mumbach,1,1,0,0
+Milam,316,Governor,,DEM,Tom Wakely,3,3,0,0
+Milam,316,Governor,,DEM,Lupe Valdez,15,7,4,4
+Milam,316,Governor,,DEM,Jeffrey Payne,1,1,0,0
+Milam,316,Governor,,DEM,Grady Yarbrough,7,6,1,0
 Milam,316,Governor,,DEM,"Cedric Davis, Sr.",0,0,0,0
 Milam,316,Governor,,DEM,Adrian Ocegueda,0,0,0,0
-Milam,316,Lieutenant Governor,,DEM,Michael Cooper,14,2,10,2
-Milam,316,Lieutenant Governor,,DEM,Mike Collier,20,4,15,1
-Milam,316,Attorney General,,DEM,Justin Nelson,33,5,24,4
-Milam,316,Comptroller of Public Accounts,,DEM,Joi Chevalier,14,3,10,1
-Milam,316,Comptroller of Public Accounts,,DEM,Tim Mahoney,20,3,15,2
-Milam,316,Commissioner of the General Land Office,,"",Tex Morgan,10,0,10,0
-Milam,316,Commissioner of the General Land Office,,DEM,Miguel Suazo,26,6,16,4
-Milam,316,Commissioner of Agriculture,,DEM,Kim Olson,34,6,24,4
-Milam,316,Railroad Commissioner,,DEM,Roman McAllen,15,3,11,1
-Milam,316,Railroad Commissioner,,DEM,Chris Spellmon,18,3,13,2
-Milam,316,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,33,6,24,3
-Milam,316,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,33,6,24,3
-Milam,316,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,35,6,25,4
-Milam,316,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,35,6,25,4
-Milam,316,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,34,5,25,4
-Milam,316,State Senator,5,DEM,Meg Walsh,21,5,13,3
-Milam,316,State Senator,5,DEM,"Glenn ""Grumpy"" Williams",4,0,4,0
-Milam,316,State Senator,5,DEM,Brian E. Cronin,10,1,8,1
-Milam,316,State Representative,20,DEM,Stephen M. Wyman,33,6,24,3
-Milam,316,"Justice, 3rd Court of Appeals District, Place 2",,DEM,Edward Smith,33,6,24,3
-Milam,316,"Justice, 3rd Court of Appeals District, Place 3",,DEM,Chari Kelly,35,6,25,4
-Milam,316,"Justice, 3rd Court of Appeals District, Place 5",,DEM,Thomas J. Baker,33,6,24,3
-Milam,316,"Justice, 3rd Court of Appeals District, Place 6",,DEM,Gisela D. Triana,33,6,23,4
-Milam,316,County Judge,,DEM,Jared Melde,31,5,22,4
-Milam,316,Proposition 1,,"",YES,35,6,25,4
-Milam,316,Proposition 1,,"",NO,1,0,1,0
-Milam,316,Proposition 2,,"",YES,30,6,20,4
-Milam,316,Proposition 2,,"",NO,4,0,4,0
-Milam,316,Proposition 3,,"",YES,32,6,22,4
-Milam,316,Proposition 3,,"",NO,4,0,4,0
-Milam,316,Proposition 4,,"",YES,33,6,23,4
-Milam,316,Proposition 4,,"",NO,2,0,2,0
-Milam,316,Proposition 5,,"",YES,31,6,21,4
-Milam,316,Proposition 5,,"",NO,4,0,4,0
-Milam,316,Proposition 6,,"",YES,34,6,24,4
-Milam,316,Proposition 6,,"",NO,2,0,2,0
-Milam,316,Proposition 7,,"",YES,34,6,24,4
-Milam,316,Proposition 7,,"",NO,2,0,2,0
-Milam,316,Proposition 8,,"",YES,30,6,20,4
-Milam,316,Proposition 8,,"",NO,5,0,5,0
-Milam,316,Proposition 9,,"",YES,33,6,23,4
-Milam,316,Proposition 9,,"",NO,2,0,2,0
-Milam,316,Proposition 10,,"",YES,33,6,23,4
-Milam,316,Proposition 10,,"",NO,2,0,2,0
-Milam,316,Proposition 11,,"",YES,31,6,21,4
-Milam,316,Proposition 11,,"",NO,5,0,5,0
-Milam,316,Proposition 12,,"",YES,32,6,22,4
-Milam,316,Proposition 12,,"",NO,2,0,2,0
+Milam,316,Lieutenant Governor,,DEM,Michael Cooper,14,10,2,2
+Milam,316,Lieutenant Governor,,DEM,Mike Collier,20,15,4,1
+Milam,316,Attorney General,,DEM,Justin Nelson,33,24,5,4
+Milam,316,Comptroller of Public Accounts,,DEM,Joi Chevalier,14,10,3,1
+Milam,316,Comptroller of Public Accounts,,DEM,Tim Mahoney,20,15,3,2
+Milam,316,Commissioner of the General Land Office,,,Tex Morgan,10,10,0,0
+Milam,316,Commissioner of the General Land Office,,DEM,Miguel Suazo,26,16,6,4
+Milam,316,Commissioner of Agriculture,,DEM,Kim Olson,34,24,6,4
+Milam,316,Railroad Commissioner,,DEM,Roman McAllen,15,11,3,1
+Milam,316,Railroad Commissioner,,DEM,Chris Spellmon,18,13,3,2
+Milam,316,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,33,24,6,3
+Milam,316,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,33,24,6,3
+Milam,316,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,35,25,6,4
+Milam,316,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,35,25,6,4
+Milam,316,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,34,25,5,4
+Milam,316,State Senator,5,DEM,Meg Walsh,21,13,5,3
+Milam,316,State Senator,5,DEM,"Glenn ""Grumpy"" Williams",4,4,0,0
+Milam,316,State Senator,5,DEM,Brian E. Cronin,10,8,1,1
+Milam,316,State Representative,20,DEM,Stephen M. Wyman,33,24,6,3
+Milam,316,"Justice, 3rd Court of Appeals District, Place 2",,DEM,Edward Smith,33,24,6,3
+Milam,316,"Justice, 3rd Court of Appeals District, Place 3",,DEM,Chari Kelly,35,25,6,4
+Milam,316,"Justice, 3rd Court of Appeals District, Place 5",,DEM,Thomas J. Baker,33,24,6,3
+Milam,316,"Justice, 3rd Court of Appeals District, Place 6",,DEM,Gisela D. Triana,33,23,6,4
+Milam,316,County Judge,,DEM,Jared Melde,31,22,5,4
+Milam,316,Proposition 1,,,YES,35,25,6,4
+Milam,316,Proposition 1,,,NO,1,1,0,0
+Milam,316,Proposition 2,,,YES,30,20,6,4
+Milam,316,Proposition 2,,,NO,4,4,0,0
+Milam,316,Proposition 3,,,YES,32,22,6,4
+Milam,316,Proposition 3,,,NO,4,4,0,0
+Milam,316,Proposition 4,,,YES,33,23,6,4
+Milam,316,Proposition 4,,,NO,2,2,0,0
+Milam,316,Proposition 5,,,YES,31,21,6,4
+Milam,316,Proposition 5,,,NO,4,4,0,0
+Milam,316,Proposition 6,,,YES,34,24,6,4
+Milam,316,Proposition 6,,,NO,2,2,0,0
+Milam,316,Proposition 7,,,YES,34,24,6,4
+Milam,316,Proposition 7,,,NO,2,2,0,0
+Milam,316,Proposition 8,,,YES,30,20,6,4
+Milam,316,Proposition 8,,,NO,5,5,0,0
+Milam,316,Proposition 9,,,YES,33,23,6,4
+Milam,316,Proposition 9,,,NO,2,2,0,0
+Milam,316,Proposition 10,,,YES,33,23,6,4
+Milam,316,Proposition 10,,,NO,2,2,0,0
+Milam,316,Proposition 11,,,YES,31,21,6,4
+Milam,316,Proposition 11,,,NO,5,5,0,0
+Milam,316,Proposition 12,,,YES,32,22,6,4
+Milam,316,Proposition 12,,,NO,2,2,0,0
 Milam,317,U.S. Senate,,REP,Over Votes,0,0,0,0
-Milam,317,U.S. Senate,,REP,Under Votes,14,5,7,2
+Milam,317,U.S. Senate,,REP,Under Votes,14,7,5,2
 Milam,317,Registered Voters,,,,1053,,,
 Milam,317,Ballots Cast,,REP,,277,,,
 Milam,317,Ballots Cast,,DEM,,28,,,
 Milam,317,U.S. Senate,,REP,Stefano de Stefano,8,4,4,0
-Milam,317,U.S. Senate,,REP,"Bruce Jacobson, Jr.",21,8,11,2
-Milam,317,U.S. Senate,,REP,Geraldine Sam,5,1,4,0
-Milam,317,U.S. Senate,,REP,Ted Cruz,212,71,127,14
-Milam,317,U.S. Senate,,REP,Mary Miller,16,6,10,0
-Milam,317,U.S. House,17,REP,Bill Flores,230,76,138,16
-Milam,317,Governor,,REP,Barbara Krueger,34,10,23,1
-Milam,317,Governor,,REP,Greg Abbott,226,81,129,16
-Milam,317,Governor,,REP,SECEDE Kilgore,4,1,3,0
-Milam,317,Lieutenant Governor,,REP,Scott Milder,87,32,53,2
-Milam,317,Lieutenant Governor,,REP,Dan Patrick,175,58,102,15
-Milam,317,Attorney General,,REP,Ken Paxton,220,76,129,15
-Milam,317,Comptroller of Public Accounts,,REP,Glenn Hegar,212,76,123,13
-Milam,317,Commissioner of the General Land Office,,REP,Rick Range,14,6,7,1
-Milam,317,Commissioner of the General Land Office,,REP,George P. Bush,147,46,95,6
-Milam,317,Commissioner of the General Land Office,,REP,Jerry Patterson,78,30,40,8
-Milam,317,Commissioner of the General Land Office,,REP,Davey Edwards,9,1,8,0
-Milam,317,Commissioner of Agriculture,,REP,Jim Hogan,60,19,39,2
-Milam,317,Commissioner of Agriculture,,REP,Sid Miller,125,48,71,6
-Milam,317,Commissioner of Agriculture,,REP,Trey Blocker,49,17,27,5
-Milam,317,Railroad Commissioner,,REP,Weston Martinez,75,28,43,4
-Milam,317,Railroad Commissioner,,REP,Christi Craddick,153,54,90,9
-Milam,317,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,206,75,118,13
-Milam,317,"Justice, Supreme Court, Place 4",,REP,John Devine,204,76,115,13
-Milam,317,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,204,75,116,13
-Milam,317,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,151,48,92,11
-Milam,317,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,72,31,39,2
-Milam,317,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,208,77,118,13
-Milam,317,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,28,12,14,2
-Milam,317,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,93,33,55,5
-Milam,317,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,94,34,54,6
-Milam,317,State Senator,5,REP,Harold Ramm,72,29,39,4
-Milam,317,State Senator,5,REP,Charles Schwertner,169,52,105,12
-Milam,317,State Representative,20,REP,Terry M. Wilson,209,76,120,13
-Milam,317,"Justice, 3rd Court of Appeals District, Place 2",,REP,Cynthia Olson Bourland,199,73,112,14
-Milam,317,"Justice, 3rd Court of Appeals District, Place 3",,REP,Scott Field,194,73,109,12
-Milam,317,"Justice, 3rd Court of Appeals District, Place 5",,REP,David Puryear,199,75,112,12
-Milam,317,"Justice, 3rd Court of Appeals District, Place 6",,REP,Donna Davidson,51,14,33,4
+Milam,317,U.S. Senate,,REP,"Bruce Jacobson, Jr.",21,11,8,2
+Milam,317,U.S. Senate,,REP,Geraldine Sam,5,4,1,0
+Milam,317,U.S. Senate,,REP,Ted Cruz,212,127,71,14
+Milam,317,U.S. Senate,,REP,Mary Miller,16,10,6,0
+Milam,317,U.S. House,17,REP,Bill Flores,230,138,76,16
+Milam,317,Governor,,REP,Barbara Krueger,34,23,10,1
+Milam,317,Governor,,REP,Greg Abbott,226,129,81,16
+Milam,317,Governor,,REP,SECEDE Kilgore,4,3,1,0
+Milam,317,Lieutenant Governor,,REP,Scott Milder,87,53,32,2
+Milam,317,Lieutenant Governor,,REP,Dan Patrick,175,102,58,15
+Milam,317,Attorney General,,REP,Ken Paxton,220,129,76,15
+Milam,317,Comptroller of Public Accounts,,REP,Glenn Hegar,212,123,76,13
+Milam,317,Commissioner of the General Land Office,,REP,Rick Range,14,7,6,1
+Milam,317,Commissioner of the General Land Office,,REP,George P. Bush,147,95,46,6
+Milam,317,Commissioner of the General Land Office,,REP,Jerry Patterson,78,40,30,8
+Milam,317,Commissioner of the General Land Office,,REP,Davey Edwards,9,8,1,0
+Milam,317,Commissioner of Agriculture,,REP,Jim Hogan,60,39,19,2
+Milam,317,Commissioner of Agriculture,,REP,Sid Miller,125,71,48,6
+Milam,317,Commissioner of Agriculture,,REP,Trey Blocker,49,27,17,5
+Milam,317,Railroad Commissioner,,REP,Weston Martinez,75,43,28,4
+Milam,317,Railroad Commissioner,,REP,Christi Craddick,153,90,54,9
+Milam,317,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,206,118,75,13
+Milam,317,"Justice, Supreme Court, Place 4",,REP,John Devine,204,115,76,13
+Milam,317,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,204,116,75,13
+Milam,317,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,151,92,48,11
+Milam,317,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,72,39,31,2
+Milam,317,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,208,118,77,13
+Milam,317,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,28,14,12,2
+Milam,317,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,93,55,33,5
+Milam,317,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,94,54,34,6
+Milam,317,State Senator,5,REP,Harold Ramm,72,39,29,4
+Milam,317,State Senator,5,REP,Charles Schwertner,169,105,52,12
+Milam,317,State Representative,20,REP,Terry M. Wilson,209,120,76,13
+Milam,317,"Justice, 3rd Court of Appeals District, Place 2",,REP,Cynthia Olson Bourland,199,112,73,14
+Milam,317,"Justice, 3rd Court of Appeals District, Place 3",,REP,Scott Field,194,109,73,12
+Milam,317,"Justice, 3rd Court of Appeals District, Place 5",,REP,David Puryear,199,112,75,12
+Milam,317,"Justice, 3rd Court of Appeals District, Place 6",,REP,Donna Davidson,51,33,14,4
 Milam,317,"Justice, 3rd Court of Appeals District, Place 6",,REP,Kristofer Monson,21,10,10,1
-Milam,317,"Justice, 3rd Court of Appeals District, Place 6",,REP,"Michael ""Mike"" Toth",100,37,58,5
-Milam,317,"Justice, 3rd Court of Appeals District, Place 6",,REP,Jennifer S. Freel,39,17,20,2
-Milam,317,County Judge,,REP,Steve Young,159,53,95,11
-Milam,317,County Judge,,REP,Frank Summers,109,39,65,5
-Milam,317,District Clerk,,REP,Karen Berry,214,77,124,13
-Milam,317,County Clerk,,REP,Jodi Morgan,220,81,127,12
-Milam,317,County Treasurer,,REP,"Jennifer ""Jenger"" Epperson-Moran",101,31,62,8
-Milam,317,County Treasurer,,REP,Linda Acosta,142,53,85,4
-Milam,317,"Justice of the Peace, Precinct No. 3",,REP,Andy Isaacs,228,79,137,12
-Milam,317,County Chairman,,REP,Bill Whitmire,224,78,133,13
-Milam,317,Proposition 1,,"",YES,154,57,84,13
-Milam,317,Proposition 1,,"",NO,87,24,63,0
-Milam,317,Proposition 2,,"",YES,236,80,139,17
-Milam,317,Proposition 2,,"",NO,21,10,11,0
-Milam,317,Proposition 3,,"",YES,213,75,123,15
-Milam,317,Proposition 3,,"",NO,46,14,29,3
-Milam,317,Proposition 4,,"",YES,226,82,129,15
-Milam,317,Proposition 4,,"",NO,36,8,27,1
-Milam,317,Proposition 5,,"",YES,181,68,99,14
-Milam,317,Proposition 5,,"",NO,74,21,50,3
-Milam,317,Proposition 6,,"",YES,245,83,144,18
-Milam,317,Proposition 6,,"",NO,20,7,13,0
-Milam,317,Proposition 7,,"",YES,165,52,100,13
-Milam,317,Proposition 7,,"",NO,87,34,51,2
-Milam,317,Proposition 8,,"",YES,251,88,145,18
-Milam,317,Proposition 8,,"",NO,14,4,10,0
-Milam,317,Proposition 9,,"",YES,228,79,132,17
-Milam,317,Proposition 9,,"",NO,30,10,20,0
-Milam,317,Proposition 10,,"",YES,242,84,140,18
-Milam,317,Proposition 10,,"",NO,15,5,10,0
-Milam,317,Proposition 11,,"",YES,231,78,136,17
-Milam,317,Proposition 11,,"",NO,35,12,22,1
-Milam,317,U.S. Senate,,DEM,Beto O'Rourke,13,4,9,0
-Milam,317,U.S. Senate,,DEM,Edward Kimbrough,8,4,3,1
+Milam,317,"Justice, 3rd Court of Appeals District, Place 6",,REP,"Michael ""Mike"" Toth",100,58,37,5
+Milam,317,"Justice, 3rd Court of Appeals District, Place 6",,REP,Jennifer S. Freel,39,20,17,2
+Milam,317,County Judge,,REP,Steve Young,159,95,53,11
+Milam,317,County Judge,,REP,Frank Summers,109,65,39,5
+Milam,317,District Clerk,,REP,Karen Berry,214,124,77,13
+Milam,317,County Clerk,,REP,Jodi Morgan,220,127,81,12
+Milam,317,County Treasurer,,REP,"Jennifer ""Jenger"" Epperson-Moran",101,62,31,8
+Milam,317,County Treasurer,,REP,Linda Acosta,142,85,53,4
+Milam,317,"Justice of the Peace, Precinct No. 3",,REP,Andy Isaacs,228,137,79,12
+Milam,317,County Chairman,,REP,Bill Whitmire,224,133,78,13
+Milam,317,Proposition 1,,,YES,154,84,57,13
+Milam,317,Proposition 1,,,NO,87,63,24,0
+Milam,317,Proposition 2,,,YES,236,139,80,17
+Milam,317,Proposition 2,,,NO,21,11,10,0
+Milam,317,Proposition 3,,,YES,213,123,75,15
+Milam,317,Proposition 3,,,NO,46,29,14,3
+Milam,317,Proposition 4,,,YES,226,129,82,15
+Milam,317,Proposition 4,,,NO,36,27,8,1
+Milam,317,Proposition 5,,,YES,181,99,68,14
+Milam,317,Proposition 5,,,NO,74,50,21,3
+Milam,317,Proposition 6,,,YES,245,144,83,18
+Milam,317,Proposition 6,,,NO,20,13,7,0
+Milam,317,Proposition 7,,,YES,165,100,52,13
+Milam,317,Proposition 7,,,NO,87,51,34,2
+Milam,317,Proposition 8,,,YES,251,145,88,18
+Milam,317,Proposition 8,,,NO,14,10,4,0
+Milam,317,Proposition 9,,,YES,228,132,79,17
+Milam,317,Proposition 9,,,NO,30,20,10,0
+Milam,317,Proposition 10,,,YES,242,140,84,18
+Milam,317,Proposition 10,,,NO,15,10,5,0
+Milam,317,Proposition 11,,,YES,231,136,78,17
+Milam,317,Proposition 11,,,NO,35,22,12,1
+Milam,317,U.S. Senate,,DEM,Beto O'Rourke,13,9,4,0
+Milam,317,U.S. Senate,,DEM,Edward Kimbrough,8,3,4,1
 Milam,317,U.S. Senate,,DEM,Sema Hernandez,5,2,2,1
-Milam,317,U.S. House,17,DEM,Rick Kennedy,16,7,8,1
-Milam,317,U.S. House,17,DEM,Dale Mantey,10,3,7,0
-Milam,317,Governor,,DEM,Andrew White,10,4,6,0
+Milam,317,U.S. House,17,DEM,Rick Kennedy,16,8,7,1
+Milam,317,U.S. House,17,DEM,Dale Mantey,10,7,3,0
+Milam,317,Governor,,DEM,Andrew White,10,6,4,0
 Milam,317,Governor,,DEM,James Jolly Clark,2,0,0,2
-Milam,317,Governor,,DEM,Joe Mumbach,1,1,0,0
-Milam,317,Governor,,DEM,Tom Wakely,1,1,0,0
-Milam,317,Governor,,DEM,Lupe Valdez,8,3,4,1
-Milam,317,Governor,,DEM,Jeffrey Payne,1,0,1,0
+Milam,317,Governor,,DEM,Joe Mumbach,1,0,1,0
+Milam,317,Governor,,DEM,Tom Wakely,1,0,1,0
+Milam,317,Governor,,DEM,Lupe Valdez,8,4,3,1
+Milam,317,Governor,,DEM,Jeffrey Payne,1,1,0,0
 Milam,317,Governor,,DEM,Grady Yarbrough,2,1,1,0
 Milam,317,Governor,,DEM,"Cedric Davis, Sr.",0,0,0,0
-Milam,317,Governor,,DEM,Adrian Ocegueda,1,0,1,0
-Milam,317,Lieutenant Governor,,DEM,Michael Cooper,6,2,4,0
-Milam,317,Lieutenant Governor,,DEM,Mike Collier,20,8,10,2
-Milam,317,Attorney General,,DEM,Justin Nelson,24,10,14,0
-Milam,317,Comptroller of Public Accounts,,DEM,Joi Chevalier,18,7,10,1
-Milam,317,Comptroller of Public Accounts,,DEM,Tim Mahoney,9,3,4,2
-Milam,317,Commissioner of the General Land Office,,"",Tex Morgan,7,2,3,2
-Milam,317,Commissioner of the General Land Office,,DEM,Miguel Suazo,18,8,10,0
-Milam,317,Commissioner of Agriculture,,DEM,Kim Olson,26,10,14,2
-Milam,317,Railroad Commissioner,,DEM,Roman McAllen,17,8,9,0
-Milam,317,Railroad Commissioner,,DEM,Chris Spellmon,9,2,5,2
-Milam,317,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,26,10,14,2
-Milam,317,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,25,10,13,2
-Milam,317,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,25,10,13,2
-Milam,317,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,26,10,14,2
-Milam,317,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,26,10,14,2
-Milam,317,State Senator,5,DEM,Meg Walsh,18,6,9,3
-Milam,317,State Senator,5,DEM,"Glenn ""Grumpy"" Williams",3,1,2,0
-Milam,317,State Senator,5,DEM,Brian E. Cronin,7,3,4,0
-Milam,317,State Representative,20,DEM,Stephen M. Wyman,26,10,14,2
-Milam,317,"Justice, 3rd Court of Appeals District, Place 2",,DEM,Edward Smith,25,10,13,2
-Milam,317,"Justice, 3rd Court of Appeals District, Place 3",,DEM,Chari Kelly,25,10,13,2
-Milam,317,"Justice, 3rd Court of Appeals District, Place 5",,DEM,Thomas J. Baker,25,10,13,2
-Milam,317,"Justice, 3rd Court of Appeals District, Place 6",,DEM,Gisela D. Triana,25,10,13,2
-Milam,317,County Judge,,DEM,Jared Melde,25,10,13,2
-Milam,317,Proposition 1,,"",YES,24,10,13,1
-Milam,317,Proposition 1,,"",NO,1,0,0,1
-Milam,317,Proposition 2,,"",YES,24,10,13,1
-Milam,317,Proposition 2,,"",NO,1,0,0,1
-Milam,317,Proposition 3,,"",YES,24,9,13,2
-Milam,317,Proposition 3,,"",NO,1,1,0,0
-Milam,317,Proposition 4,,"",YES,23,8,13,2
-Milam,317,Proposition 4,,"",NO,0,0,0,0
-Milam,317,Proposition 5,,"",YES,23,8,13,2
-Milam,317,Proposition 5,,"",NO,1,1,0,0
-Milam,317,Proposition 6,,"",YES,25,10,13,2
-Milam,317,Proposition 6,,"",NO,0,0,0,0
-Milam,317,Proposition 7,,"",YES,23,9,12,2
-Milam,317,Proposition 7,,"",NO,1,0,1,0
-Milam,317,Proposition 8,,"",YES,22,8,11,3
-Milam,317,Proposition 8,,"",NO,2,0,2,0
-Milam,317,Proposition 9,,"",YES,25,9,13,3
-Milam,317,Proposition 9,,"",NO,0,0,0,0
-Milam,317,Proposition 10,,"",YES,23,7,13,3
-Milam,317,Proposition 10,,"",NO,1,1,0,0
-Milam,317,Proposition 11,,"",YES,24,8,13,3
-Milam,317,Proposition 11,,"",NO,1,1,0,0
-Milam,317,Proposition 12,,"",YES,22,7,12,3
-Milam,317,Proposition 12,,"",NO,1,1,0,0
+Milam,317,Governor,,DEM,Adrian Ocegueda,1,1,0,0
+Milam,317,Lieutenant Governor,,DEM,Michael Cooper,6,4,2,0
+Milam,317,Lieutenant Governor,,DEM,Mike Collier,20,10,8,2
+Milam,317,Attorney General,,DEM,Justin Nelson,24,14,10,0
+Milam,317,Comptroller of Public Accounts,,DEM,Joi Chevalier,18,10,7,1
+Milam,317,Comptroller of Public Accounts,,DEM,Tim Mahoney,9,4,3,2
+Milam,317,Commissioner of the General Land Office,,,Tex Morgan,7,3,2,2
+Milam,317,Commissioner of the General Land Office,,DEM,Miguel Suazo,18,10,8,0
+Milam,317,Commissioner of Agriculture,,DEM,Kim Olson,26,14,10,2
+Milam,317,Railroad Commissioner,,DEM,Roman McAllen,17,9,8,0
+Milam,317,Railroad Commissioner,,DEM,Chris Spellmon,9,5,2,2
+Milam,317,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,26,14,10,2
+Milam,317,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,25,13,10,2
+Milam,317,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,25,13,10,2
+Milam,317,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,26,14,10,2
+Milam,317,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,26,14,10,2
+Milam,317,State Senator,5,DEM,Meg Walsh,18,9,6,3
+Milam,317,State Senator,5,DEM,"Glenn ""Grumpy"" Williams",3,2,1,0
+Milam,317,State Senator,5,DEM,Brian E. Cronin,7,4,3,0
+Milam,317,State Representative,20,DEM,Stephen M. Wyman,26,14,10,2
+Milam,317,"Justice, 3rd Court of Appeals District, Place 2",,DEM,Edward Smith,25,13,10,2
+Milam,317,"Justice, 3rd Court of Appeals District, Place 3",,DEM,Chari Kelly,25,13,10,2
+Milam,317,"Justice, 3rd Court of Appeals District, Place 5",,DEM,Thomas J. Baker,25,13,10,2
+Milam,317,"Justice, 3rd Court of Appeals District, Place 6",,DEM,Gisela D. Triana,25,13,10,2
+Milam,317,County Judge,,DEM,Jared Melde,25,13,10,2
+Milam,317,Proposition 1,,,YES,24,13,10,1
+Milam,317,Proposition 1,,,NO,1,0,0,1
+Milam,317,Proposition 2,,,YES,24,13,10,1
+Milam,317,Proposition 2,,,NO,1,0,0,1
+Milam,317,Proposition 3,,,YES,24,13,9,2
+Milam,317,Proposition 3,,,NO,1,0,1,0
+Milam,317,Proposition 4,,,YES,23,13,8,2
+Milam,317,Proposition 4,,,NO,0,0,0,0
+Milam,317,Proposition 5,,,YES,23,13,8,2
+Milam,317,Proposition 5,,,NO,1,0,1,0
+Milam,317,Proposition 6,,,YES,25,13,10,2
+Milam,317,Proposition 6,,,NO,0,0,0,0
+Milam,317,Proposition 7,,,YES,23,12,9,2
+Milam,317,Proposition 7,,,NO,1,1,0,0
+Milam,317,Proposition 8,,,YES,22,11,8,3
+Milam,317,Proposition 8,,,NO,2,2,0,0
+Milam,317,Proposition 9,,,YES,25,13,9,3
+Milam,317,Proposition 9,,,NO,0,0,0,0
+Milam,317,Proposition 10,,,YES,23,13,7,3
+Milam,317,Proposition 10,,,NO,1,0,1,0
+Milam,317,Proposition 11,,,YES,24,13,8,3
+Milam,317,Proposition 11,,,NO,1,0,1,0
+Milam,317,Proposition 12,,,YES,22,12,7,3
+Milam,317,Proposition 12,,,NO,1,0,1,0
 Milam,318,U.S. Senate,,REP,Over Votes,0,0,0,0
-Milam,318,U.S. Senate,,REP,Under Votes,44,28,16,0
+Milam,318,U.S. Senate,,REP,Under Votes,44,16,28,0
 Milam,318,Registered Voters,,,,2259,,,
 Milam,318,Ballots Cast,,REP,,490,,,
 Milam,318,Ballots Cast,,DEM,,114,,,
-Milam,318,U.S. Senate,,REP,Stefano de Stefano,10,5,4,1
-Milam,318,U.S. Senate,,REP,"Bruce Jacobson, Jr.",33,19,12,2
-Milam,318,U.S. Senate,,REP,Geraldine Sam,16,8,7,1
-Milam,318,U.S. Senate,,REP,Ted Cruz,332,160,143,29
-Milam,318,U.S. Senate,,REP,Mary Miller,55,34,20,1
-Milam,318,U.S. House,17,REP,Bill Flores,389,193,168,28
-Milam,318,Governor,,REP,Barbara Krueger,67,31,32,4
-Milam,318,Governor,,REP,Greg Abbott,348,172,150,26
-Milam,318,Governor,,REP,SECEDE Kilgore,9,4,3,2
-Milam,318,Lieutenant Governor,,REP,Scott Milder,204,121,78,5
-Milam,318,Lieutenant Governor,,REP,Dan Patrick,261,121,113,27
-Milam,318,Attorney General,,REP,Ken Paxton,361,176,157,28
-Milam,318,Comptroller of Public Accounts,,REP,Glenn Hegar,359,173,157,29
-Milam,318,Commissioner of the General Land Office,,REP,Rick Range,26,17,8,1
-Milam,318,Commissioner of the General Land Office,,REP,George P. Bush,232,116,99,17
-Milam,318,Commissioner of the General Land Office,,REP,Jerry Patterson,114,51,52,11
-Milam,318,Commissioner of the General Land Office,,REP,Davey Edwards,49,33,13,3
-Milam,318,Commissioner of Agriculture,,REP,Jim Hogan,116,52,54,10
-Milam,318,Commissioner of Agriculture,,REP,Sid Miller,167,82,75,10
-Milam,318,Commissioner of Agriculture,,REP,Trey Blocker,98,62,33,3
-Milam,318,Railroad Commissioner,,REP,Weston Martinez,134,75,49,10
-Milam,318,Railroad Commissioner,,REP,Christi Craddick,248,126,107,15
-Milam,318,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,349,168,156,25
-Milam,318,"Justice, Supreme Court, Place 4",,REP,John Devine,336,161,150,25
-Milam,318,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,351,174,152,25
-Milam,318,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,201,102,87,12
-Milam,318,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,173,94,68,11
-Milam,318,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,357,176,155,26
-Milam,318,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,68,33,27,8
-Milam,318,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,135,76,55,4
-Milam,318,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,161,81,67,13
-Milam,318,State Senator,5,REP,Harold Ramm,180,107,65,8
-Milam,318,State Senator,5,REP,Charles Schwertner,264,129,116,19
-Milam,318,State Representative,20,REP,Terry M. Wilson,386,202,158,26
-Milam,318,"Justice, 3rd Court of Appeals District, Place 2",,REP,Cynthia Olson Bourland,347,174,148,25
-Milam,318,"Justice, 3rd Court of Appeals District, Place 3",,REP,Scott Field,351,179,148,24
-Milam,318,"Justice, 3rd Court of Appeals District, Place 5",,REP,David Puryear,346,173,148,25
-Milam,318,"Justice, 3rd Court of Appeals District, Place 6",,REP,Donna Davidson,105,59,40,6
-Milam,318,"Justice, 3rd Court of Appeals District, Place 6",,REP,Kristofer Monson,29,13,14,2
-Milam,318,"Justice, 3rd Court of Appeals District, Place 6",,REP,"Michael ""Mike"" Toth",149,68,72,9
-Milam,318,"Justice, 3rd Court of Appeals District, Place 6",,REP,Jennifer S. Freel,69,39,26,4
-Milam,318,County Judge,,REP,Steve Young,341,180,139,22
-Milam,318,County Judge,,REP,Frank Summers,139,70,60,9
-Milam,318,District Clerk,,REP,Karen Berry,368,182,161,25
-Milam,318,County Clerk,,REP,Jodi Morgan,370,186,159,25
-Milam,318,County Treasurer,,REP,"Jennifer ""Jenger"" Epperson-Moran",154,76,65,13
-Milam,318,County Treasurer,,REP,Linda Acosta,237,127,101,9
-Milam,318,"Justice of the Peace, Precinct No. 3",,REP,Andy Isaacs,368,183,161,24
-Milam,318,County Chairman,,REP,Bill Whitmire,374,190,159,25
-Milam,318,Proposition 1,,"",YES,262,122,120,20
-Milam,318,Proposition 1,,"",NO,164,96,60,8
-Milam,318,Proposition 2,,"",YES,383,185,174,24
-Milam,318,Proposition 2,,"",NO,70,48,15,7
-Milam,318,Proposition 3,,"",YES,331,163,143,25
-Milam,318,Proposition 3,,"",NO,102,56,40,6
-Milam,318,Proposition 4,,"",YES,376,181,164,31
-Milam,318,Proposition 4,,"",NO,67,42,24,1
-Milam,318,Proposition 5,,"",YES,279,126,135,18
-Milam,318,Proposition 5,,"",NO,186,115,56,15
-Milam,318,Proposition 6,,"",YES,407,204,175,28
-Milam,318,Proposition 6,,"",NO,52,31,16,5
-Milam,318,Proposition 7,,"",YES,263,124,123,16
-Milam,318,Proposition 7,,"",NO,184,104,65,15
-Milam,318,Proposition 8,,"",YES,426,209,186,31
-Milam,318,Proposition 8,,"",NO,28,22,5,1
-Milam,318,Proposition 9,,"",YES,371,184,159,28
-Milam,318,Proposition 9,,"",NO,75,40,31,4
-Milam,318,Proposition 10,,"",YES,396,186,179,31
-Milam,318,Proposition 10,,"",NO,47,36,9,2
-Milam,318,Proposition 11,,"",YES,388,192,164,32
-Milam,318,Proposition 11,,"",NO,54,33,20,1
-Milam,318,U.S. Senate,,DEM,Beto O'Rourke,56,21,26,9
-Milam,318,U.S. Senate,,DEM,Edward Kimbrough,33,7,14,12
-Milam,318,U.S. Senate,,DEM,Sema Hernandez,16,6,8,2
-Milam,318,U.S. House,17,DEM,Rick Kennedy,30,5,8,17
-Milam,318,U.S. House,17,DEM,Dale Mantey,78,29,43,6
-Milam,318,Governor,,DEM,Andrew White,47,15,19,13
-Milam,318,Governor,,DEM,James Jolly Clark,6,2,4,0
-Milam,318,Governor,,DEM,Joe Mumbach,1,1,0,0
-Milam,318,Governor,,DEM,Tom Wakely,3,0,3,0
-Milam,318,Governor,,DEM,Lupe Valdez,24,9,12,3
-Milam,318,Governor,,DEM,Jeffrey Payne,3,2,1,0
-Milam,318,Governor,,DEM,Grady Yarbrough,16,4,8,4
-Milam,318,Governor,,DEM,"Cedric Davis, Sr.",2,0,2,0
-Milam,318,Governor,,DEM,Adrian Ocegueda,3,1,0,2
-Milam,318,Lieutenant Governor,,DEM,Michael Cooper,46,14,20,12
-Milam,318,Lieutenant Governor,,DEM,Mike Collier,56,18,27,11
-Milam,318,Attorney General,,DEM,Justin Nelson,99,33,45,21
-Milam,318,Comptroller of Public Accounts,,DEM,Joi Chevalier,39,13,16,10
-Milam,318,Comptroller of Public Accounts,,DEM,Tim Mahoney,64,20,31,13
-Milam,318,Commissioner of the General Land Office,,"",Tex Morgan,47,14,18,15
-Milam,318,Commissioner of the General Land Office,,DEM,Miguel Suazo,57,19,30,8
-Milam,318,Commissioner of Agriculture,,DEM,Kim Olson,101,33,45,23
-Milam,318,Railroad Commissioner,,DEM,Roman McAllen,49,10,21,18
-Milam,318,Railroad Commissioner,,DEM,Chris Spellmon,53,23,25,5
-Milam,318,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,103,35,45,23
-Milam,318,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,101,33,45,23
-Milam,318,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,103,35,45,23
-Milam,318,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,102,34,45,23
-Milam,318,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,104,35,47,22
-Milam,318,State Senator,5,DEM,Meg Walsh,61,21,26,14
-Milam,318,State Senator,5,DEM,"Glenn ""Grumpy"" Williams",18,5,6,7
-Milam,318,State Senator,5,DEM,Brian E. Cronin,21,6,13,2
-Milam,318,State Representative,20,DEM,Stephen M. Wyman,99,33,43,23
-Milam,318,"Justice, 3rd Court of Appeals District, Place 2",,DEM,Edward Smith,99,33,43,23
-Milam,318,"Justice, 3rd Court of Appeals District, Place 3",,DEM,Chari Kelly,100,33,44,23
-Milam,318,"Justice, 3rd Court of Appeals District, Place 5",,DEM,Thomas J. Baker,100,33,44,23
-Milam,318,"Justice, 3rd Court of Appeals District, Place 6",,DEM,Gisela D. Triana,99,34,43,22
-Milam,318,County Judge,,DEM,Jared Melde,99,32,45,22
-Milam,318,Proposition 1,,"",YES,100,32,47,21
-Milam,318,Proposition 1,,"",NO,4,1,1,2
-Milam,318,Proposition 2,,"",YES,95,30,46,19
-Milam,318,Proposition 2,,"",NO,9,3,2,4
-Milam,318,Proposition 3,,"",YES,100,31,46,23
-Milam,318,Proposition 3,,"",NO,5,2,3,0
-Milam,318,Proposition 4,,"",YES,95,30,45,20
-Milam,318,Proposition 4,,"",NO,5,2,2,1
-Milam,318,Proposition 5,,"",YES,93,31,41,21
-Milam,318,Proposition 5,,"",NO,9,2,5,2
-Milam,318,Proposition 6,,"",YES,105,34,48,23
-Milam,318,Proposition 6,,"",NO,1,0,1,0
-Milam,318,Proposition 7,,"",YES,102,33,46,23
-Milam,318,Proposition 7,,"",NO,2,0,2,0
-Milam,318,Proposition 8,,"",YES,89,29,43,17
-Milam,318,Proposition 8,,"",NO,10,3,4,3
-Milam,318,Proposition 9,,"",YES,92,30,42,20
-Milam,318,Proposition 9,,"",NO,9,3,5,1
-Milam,318,Proposition 10,,"",YES,101,34,46,21
-Milam,318,Proposition 10,,"",NO,3,0,3,0
-Milam,318,Proposition 11,,"",YES,97,34,43,20
-Milam,318,Proposition 11,,"",NO,6,0,5,1
-Milam,318,Proposition 12,,"",YES,98,33,46,19
-Milam,318,Proposition 12,,"",NO,2,0,2,0
+Milam,318,U.S. Senate,,REP,Stefano de Stefano,10,4,5,1
+Milam,318,U.S. Senate,,REP,"Bruce Jacobson, Jr.",33,12,19,2
+Milam,318,U.S. Senate,,REP,Geraldine Sam,16,7,8,1
+Milam,318,U.S. Senate,,REP,Ted Cruz,332,143,160,29
+Milam,318,U.S. Senate,,REP,Mary Miller,55,20,34,1
+Milam,318,U.S. House,17,REP,Bill Flores,389,168,193,28
+Milam,318,Governor,,REP,Barbara Krueger,67,32,31,4
+Milam,318,Governor,,REP,Greg Abbott,348,150,172,26
+Milam,318,Governor,,REP,SECEDE Kilgore,9,3,4,2
+Milam,318,Lieutenant Governor,,REP,Scott Milder,204,78,121,5
+Milam,318,Lieutenant Governor,,REP,Dan Patrick,261,113,121,27
+Milam,318,Attorney General,,REP,Ken Paxton,361,157,176,28
+Milam,318,Comptroller of Public Accounts,,REP,Glenn Hegar,359,157,173,29
+Milam,318,Commissioner of the General Land Office,,REP,Rick Range,26,8,17,1
+Milam,318,Commissioner of the General Land Office,,REP,George P. Bush,232,99,116,17
+Milam,318,Commissioner of the General Land Office,,REP,Jerry Patterson,114,52,51,11
+Milam,318,Commissioner of the General Land Office,,REP,Davey Edwards,49,13,33,3
+Milam,318,Commissioner of Agriculture,,REP,Jim Hogan,116,54,52,10
+Milam,318,Commissioner of Agriculture,,REP,Sid Miller,167,75,82,10
+Milam,318,Commissioner of Agriculture,,REP,Trey Blocker,98,33,62,3
+Milam,318,Railroad Commissioner,,REP,Weston Martinez,134,49,75,10
+Milam,318,Railroad Commissioner,,REP,Christi Craddick,248,107,126,15
+Milam,318,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,349,156,168,25
+Milam,318,"Justice, Supreme Court, Place 4",,REP,John Devine,336,150,161,25
+Milam,318,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,351,152,174,25
+Milam,318,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,201,87,102,12
+Milam,318,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,173,68,94,11
+Milam,318,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,357,155,176,26
+Milam,318,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,68,27,33,8
+Milam,318,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,135,55,76,4
+Milam,318,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,161,67,81,13
+Milam,318,State Senator,5,REP,Harold Ramm,180,65,107,8
+Milam,318,State Senator,5,REP,Charles Schwertner,264,116,129,19
+Milam,318,State Representative,20,REP,Terry M. Wilson,386,158,202,26
+Milam,318,"Justice, 3rd Court of Appeals District, Place 2",,REP,Cynthia Olson Bourland,347,148,174,25
+Milam,318,"Justice, 3rd Court of Appeals District, Place 3",,REP,Scott Field,351,148,179,24
+Milam,318,"Justice, 3rd Court of Appeals District, Place 5",,REP,David Puryear,346,148,173,25
+Milam,318,"Justice, 3rd Court of Appeals District, Place 6",,REP,Donna Davidson,105,40,59,6
+Milam,318,"Justice, 3rd Court of Appeals District, Place 6",,REP,Kristofer Monson,29,14,13,2
+Milam,318,"Justice, 3rd Court of Appeals District, Place 6",,REP,"Michael ""Mike"" Toth",149,72,68,9
+Milam,318,"Justice, 3rd Court of Appeals District, Place 6",,REP,Jennifer S. Freel,69,26,39,4
+Milam,318,County Judge,,REP,Steve Young,341,139,180,22
+Milam,318,County Judge,,REP,Frank Summers,139,60,70,9
+Milam,318,District Clerk,,REP,Karen Berry,368,161,182,25
+Milam,318,County Clerk,,REP,Jodi Morgan,370,159,186,25
+Milam,318,County Treasurer,,REP,"Jennifer ""Jenger"" Epperson-Moran",154,65,76,13
+Milam,318,County Treasurer,,REP,Linda Acosta,237,101,127,9
+Milam,318,"Justice of the Peace, Precinct No. 3",,REP,Andy Isaacs,368,161,183,24
+Milam,318,County Chairman,,REP,Bill Whitmire,374,159,190,25
+Milam,318,Proposition 1,,,YES,262,120,122,20
+Milam,318,Proposition 1,,,NO,164,60,96,8
+Milam,318,Proposition 2,,,YES,383,174,185,24
+Milam,318,Proposition 2,,,NO,70,15,48,7
+Milam,318,Proposition 3,,,YES,331,143,163,25
+Milam,318,Proposition 3,,,NO,102,40,56,6
+Milam,318,Proposition 4,,,YES,376,164,181,31
+Milam,318,Proposition 4,,,NO,67,24,42,1
+Milam,318,Proposition 5,,,YES,279,135,126,18
+Milam,318,Proposition 5,,,NO,186,56,115,15
+Milam,318,Proposition 6,,,YES,407,175,204,28
+Milam,318,Proposition 6,,,NO,52,16,31,5
+Milam,318,Proposition 7,,,YES,263,123,124,16
+Milam,318,Proposition 7,,,NO,184,65,104,15
+Milam,318,Proposition 8,,,YES,426,186,209,31
+Milam,318,Proposition 8,,,NO,28,5,22,1
+Milam,318,Proposition 9,,,YES,371,159,184,28
+Milam,318,Proposition 9,,,NO,75,31,40,4
+Milam,318,Proposition 10,,,YES,396,179,186,31
+Milam,318,Proposition 10,,,NO,47,9,36,2
+Milam,318,Proposition 11,,,YES,388,164,192,32
+Milam,318,Proposition 11,,,NO,54,20,33,1
+Milam,318,U.S. Senate,,DEM,Beto O'Rourke,56,26,21,9
+Milam,318,U.S. Senate,,DEM,Edward Kimbrough,33,14,7,12
+Milam,318,U.S. Senate,,DEM,Sema Hernandez,16,8,6,2
+Milam,318,U.S. House,17,DEM,Rick Kennedy,30,8,5,17
+Milam,318,U.S. House,17,DEM,Dale Mantey,78,43,29,6
+Milam,318,Governor,,DEM,Andrew White,47,19,15,13
+Milam,318,Governor,,DEM,James Jolly Clark,6,4,2,0
+Milam,318,Governor,,DEM,Joe Mumbach,1,0,1,0
+Milam,318,Governor,,DEM,Tom Wakely,3,3,0,0
+Milam,318,Governor,,DEM,Lupe Valdez,24,12,9,3
+Milam,318,Governor,,DEM,Jeffrey Payne,3,1,2,0
+Milam,318,Governor,,DEM,Grady Yarbrough,16,8,4,4
+Milam,318,Governor,,DEM,"Cedric Davis, Sr.",2,2,0,0
+Milam,318,Governor,,DEM,Adrian Ocegueda,3,0,1,2
+Milam,318,Lieutenant Governor,,DEM,Michael Cooper,46,20,14,12
+Milam,318,Lieutenant Governor,,DEM,Mike Collier,56,27,18,11
+Milam,318,Attorney General,,DEM,Justin Nelson,99,45,33,21
+Milam,318,Comptroller of Public Accounts,,DEM,Joi Chevalier,39,16,13,10
+Milam,318,Comptroller of Public Accounts,,DEM,Tim Mahoney,64,31,20,13
+Milam,318,Commissioner of the General Land Office,,,Tex Morgan,47,18,14,15
+Milam,318,Commissioner of the General Land Office,,DEM,Miguel Suazo,57,30,19,8
+Milam,318,Commissioner of Agriculture,,DEM,Kim Olson,101,45,33,23
+Milam,318,Railroad Commissioner,,DEM,Roman McAllen,49,21,10,18
+Milam,318,Railroad Commissioner,,DEM,Chris Spellmon,53,25,23,5
+Milam,318,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,103,45,35,23
+Milam,318,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,101,45,33,23
+Milam,318,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,103,45,35,23
+Milam,318,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,102,45,34,23
+Milam,318,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,104,47,35,22
+Milam,318,State Senator,5,DEM,Meg Walsh,61,26,21,14
+Milam,318,State Senator,5,DEM,"Glenn ""Grumpy"" Williams",18,6,5,7
+Milam,318,State Senator,5,DEM,Brian E. Cronin,21,13,6,2
+Milam,318,State Representative,20,DEM,Stephen M. Wyman,99,43,33,23
+Milam,318,"Justice, 3rd Court of Appeals District, Place 2",,DEM,Edward Smith,99,43,33,23
+Milam,318,"Justice, 3rd Court of Appeals District, Place 3",,DEM,Chari Kelly,100,44,33,23
+Milam,318,"Justice, 3rd Court of Appeals District, Place 5",,DEM,Thomas J. Baker,100,44,33,23
+Milam,318,"Justice, 3rd Court of Appeals District, Place 6",,DEM,Gisela D. Triana,99,43,34,22
+Milam,318,County Judge,,DEM,Jared Melde,99,45,32,22
+Milam,318,Proposition 1,,,YES,100,47,32,21
+Milam,318,Proposition 1,,,NO,4,1,1,2
+Milam,318,Proposition 2,,,YES,95,46,30,19
+Milam,318,Proposition 2,,,NO,9,2,3,4
+Milam,318,Proposition 3,,,YES,100,46,31,23
+Milam,318,Proposition 3,,,NO,5,3,2,0
+Milam,318,Proposition 4,,,YES,95,45,30,20
+Milam,318,Proposition 4,,,NO,5,2,2,1
+Milam,318,Proposition 5,,,YES,93,41,31,21
+Milam,318,Proposition 5,,,NO,9,5,2,2
+Milam,318,Proposition 6,,,YES,105,48,34,23
+Milam,318,Proposition 6,,,NO,1,1,0,0
+Milam,318,Proposition 7,,,YES,102,46,33,23
+Milam,318,Proposition 7,,,NO,2,2,0,0
+Milam,318,Proposition 8,,,YES,89,43,29,17
+Milam,318,Proposition 8,,,NO,10,4,3,3
+Milam,318,Proposition 9,,,YES,92,42,30,20
+Milam,318,Proposition 9,,,NO,9,5,3,1
+Milam,318,Proposition 10,,,YES,101,46,34,21
+Milam,318,Proposition 10,,,NO,3,3,0,0
+Milam,318,Proposition 11,,,YES,97,43,34,20
+Milam,318,Proposition 11,,,NO,6,5,0,1
+Milam,318,Proposition 12,,,YES,98,46,33,19
+Milam,318,Proposition 12,,,NO,2,2,0,0
 Milam,419,U.S. Senate,,REP,Over Votes,0,0,0,0
-Milam,419,U.S. Senate,,REP,Under Votes,18,11,6,1
+Milam,419,U.S. Senate,,REP,Under Votes,18,6,11,1
 Milam,419,Registered Voters,,,,1880,,,
 Milam,419,Ballots Cast,,REP,,301,,,
 Milam,419,Ballots Cast,,DEM,,92,,,
-Milam,419,U.S. Senate,,REP,Stefano de Stefano,8,8,0,0
-Milam,419,U.S. Senate,,REP,"Bruce Jacobson, Jr.",17,7,10,0
+Milam,419,U.S. Senate,,REP,Stefano de Stefano,8,0,8,0
+Milam,419,U.S. Senate,,REP,"Bruce Jacobson, Jr.",17,10,7,0
 Milam,419,U.S. Senate,,REP,Geraldine Sam,6,3,3,0
-Milam,419,U.S. Senate,,REP,Ted Cruz,226,116,92,18
-Milam,419,U.S. Senate,,REP,Mary Miller,26,16,9,1
-Milam,419,U.S. House,17,REP,Bill Flores,263,142,101,20
-Milam,419,Governor,,REP,Barbara Krueger,36,20,16,0
-Milam,419,Governor,,REP,Greg Abbott,229,115,95,19
-Milam,419,Governor,,REP,SECEDE Kilgore,5,5,0,0
-Milam,419,Lieutenant Governor,,REP,Scott Milder,98,58,38,2
-Milam,419,Lieutenant Governor,,REP,Dan Patrick,186,91,77,18
-Milam,419,Attorney General,,REP,Ken Paxton,239,119,102,18
-Milam,419,Comptroller of Public Accounts,,REP,Glenn Hegar,234,118,97,19
-Milam,419,Commissioner of the General Land Office,,REP,Rick Range,17,9,7,1
-Milam,419,Commissioner of the General Land Office,,REP,George P. Bush,142,74,58,10
-Milam,419,Commissioner of the General Land Office,,REP,Jerry Patterson,84,41,37,6
-Milam,419,Commissioner of the General Land Office,,REP,Davey Edwards,21,14,5,2
-Milam,419,Commissioner of Agriculture,,REP,Jim Hogan,62,33,26,3
-Milam,419,Commissioner of Agriculture,,REP,Sid Miller,152,78,65,9
-Milam,419,Commissioner of Agriculture,,REP,Trey Blocker,48,27,15,6
-Milam,419,Railroad Commissioner,,REP,Weston Martinez,74,39,33,2
-Milam,419,Railroad Commissioner,,REP,Christi Craddick,178,92,70,16
-Milam,419,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,222,111,93,18
-Milam,419,"Justice, Supreme Court, Place 4",,REP,John Devine,217,105,94,18
-Milam,419,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,226,112,95,19
-Milam,419,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,135,66,53,16
-Milam,419,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,107,60,44,3
-Milam,419,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,222,114,90,18
-Milam,419,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,36,22,9,5
-Milam,419,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,96,47,41,8
-Milam,419,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,103,52,47,4
-Milam,419,State Senator,5,REP,Harold Ramm,85,54,29,2
-Milam,419,State Senator,5,REP,Charles Schwertner,191,92,82,17
-Milam,419,State Representative,20,REP,Terry M. Wilson,247,124,104,19
-Milam,419,"Justice, 3rd Court of Appeals District, Place 2",,REP,Cynthia Olson Bourland,222,114,90,18
-Milam,419,"Justice, 3rd Court of Appeals District, Place 3",,REP,Scott Field,222,113,90,19
-Milam,419,"Justice, 3rd Court of Appeals District, Place 5",,REP,David Puryear,217,111,87,19
-Milam,419,"Justice, 3rd Court of Appeals District, Place 6",,REP,Donna Davidson,75,32,38,5
-Milam,419,"Justice, 3rd Court of Appeals District, Place 6",,REP,Kristofer Monson,11,3,8,0
-Milam,419,"Justice, 3rd Court of Appeals District, Place 6",,REP,"Michael ""Mike"" Toth",91,45,34,12
-Milam,419,"Justice, 3rd Court of Appeals District, Place 6",,REP,Jennifer S. Freel,50,35,14,1
-Milam,419,County Judge,,REP,Steve Young,184,106,65,13
-Milam,419,County Judge,,REP,Frank Summers,110,53,50,7
-Milam,419,District Clerk,,REP,Karen Berry,246,125,101,20
-Milam,419,County Clerk,,REP,Jodi Morgan,238,124,96,18
-Milam,419,County Treasurer,,REP,"Jennifer ""Jenger"" Epperson-Moran",97,47,41,9
-Milam,419,County Treasurer,,REP,Linda Acosta,157,87,61,9
-Milam,419,"Justice of the Peace, Precinct No. 4",,REP,Gary Northcott,243,124,99,20
-Milam,419,County Chairman,,REP,Bill Whitmire,239,123,96,20
-Milam,419,Proposition 1,,"",YES,166,80,71,15
-Milam,419,Proposition 1,,"",NO,104,57,42,5
-Milam,419,Proposition 2,,"",YES,254,125,109,20
-Milam,419,Proposition 2,,"",NO,31,21,10,0
-Milam,419,Proposition 3,,"",YES,236,116,101,19
-Milam,419,Proposition 3,,"",NO,41,28,13,0
-Milam,419,Proposition 4,,"",YES,248,122,106,20
-Milam,419,Proposition 4,,"",NO,35,24,11,0
-Milam,419,Proposition 5,,"",YES,191,89,83,19
-Milam,419,Proposition 5,,"",NO,92,57,34,1
-Milam,419,Proposition 6,,"",YES,273,141,112,20
-Milam,419,Proposition 6,,"",NO,17,11,6,0
-Milam,419,Proposition 7,,"",YES,177,88,74,15
-Milam,419,Proposition 7,,"",NO,98,58,36,4
-Milam,419,Proposition 8,,"",YES,270,137,113,20
-Milam,419,Proposition 8,,"",NO,16,13,3,0
-Milam,419,Proposition 9,,"",YES,246,124,104,18
-Milam,419,Proposition 9,,"",NO,40,27,12,1
-Milam,419,Proposition 10,,"",YES,259,131,109,19
-Milam,419,Proposition 10,,"",NO,19,13,6,0
-Milam,419,Proposition 11,,"",YES,253,126,107,20
-Milam,419,Proposition 11,,"",NO,35,23,12,0
-Milam,419,U.S. Senate,,DEM,Beto O'Rourke,42,16,20,6
-Milam,419,U.S. Senate,,DEM,Edward Kimbrough,20,8,10,2
-Milam,419,U.S. Senate,,DEM,Sema Hernandez,25,9,14,2
-Milam,419,U.S. House,17,DEM,Rick Kennedy,25,10,12,3
-Milam,419,U.S. House,17,DEM,Dale Mantey,62,26,30,6
-Milam,419,Governor,,DEM,Andrew White,31,11,15,5
+Milam,419,U.S. Senate,,REP,Ted Cruz,226,92,116,18
+Milam,419,U.S. Senate,,REP,Mary Miller,26,9,16,1
+Milam,419,U.S. House,17,REP,Bill Flores,263,101,142,20
+Milam,419,Governor,,REP,Barbara Krueger,36,16,20,0
+Milam,419,Governor,,REP,Greg Abbott,229,95,115,19
+Milam,419,Governor,,REP,SECEDE Kilgore,5,0,5,0
+Milam,419,Lieutenant Governor,,REP,Scott Milder,98,38,58,2
+Milam,419,Lieutenant Governor,,REP,Dan Patrick,186,77,91,18
+Milam,419,Attorney General,,REP,Ken Paxton,239,102,119,18
+Milam,419,Comptroller of Public Accounts,,REP,Glenn Hegar,234,97,118,19
+Milam,419,Commissioner of the General Land Office,,REP,Rick Range,17,7,9,1
+Milam,419,Commissioner of the General Land Office,,REP,George P. Bush,142,58,74,10
+Milam,419,Commissioner of the General Land Office,,REP,Jerry Patterson,84,37,41,6
+Milam,419,Commissioner of the General Land Office,,REP,Davey Edwards,21,5,14,2
+Milam,419,Commissioner of Agriculture,,REP,Jim Hogan,62,26,33,3
+Milam,419,Commissioner of Agriculture,,REP,Sid Miller,152,65,78,9
+Milam,419,Commissioner of Agriculture,,REP,Trey Blocker,48,15,27,6
+Milam,419,Railroad Commissioner,,REP,Weston Martinez,74,33,39,2
+Milam,419,Railroad Commissioner,,REP,Christi Craddick,178,70,92,16
+Milam,419,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,222,93,111,18
+Milam,419,"Justice, Supreme Court, Place 4",,REP,John Devine,217,94,105,18
+Milam,419,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,226,95,112,19
+Milam,419,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,135,53,66,16
+Milam,419,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,107,44,60,3
+Milam,419,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,222,90,114,18
+Milam,419,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,36,9,22,5
+Milam,419,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,96,41,47,8
+Milam,419,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,103,47,52,4
+Milam,419,State Senator,5,REP,Harold Ramm,85,29,54,2
+Milam,419,State Senator,5,REP,Charles Schwertner,191,82,92,17
+Milam,419,State Representative,20,REP,Terry M. Wilson,247,104,124,19
+Milam,419,"Justice, 3rd Court of Appeals District, Place 2",,REP,Cynthia Olson Bourland,222,90,114,18
+Milam,419,"Justice, 3rd Court of Appeals District, Place 3",,REP,Scott Field,222,90,113,19
+Milam,419,"Justice, 3rd Court of Appeals District, Place 5",,REP,David Puryear,217,87,111,19
+Milam,419,"Justice, 3rd Court of Appeals District, Place 6",,REP,Donna Davidson,75,38,32,5
+Milam,419,"Justice, 3rd Court of Appeals District, Place 6",,REP,Kristofer Monson,11,8,3,0
+Milam,419,"Justice, 3rd Court of Appeals District, Place 6",,REP,"Michael ""Mike"" Toth",91,34,45,12
+Milam,419,"Justice, 3rd Court of Appeals District, Place 6",,REP,Jennifer S. Freel,50,14,35,1
+Milam,419,County Judge,,REP,Steve Young,184,65,106,13
+Milam,419,County Judge,,REP,Frank Summers,110,50,53,7
+Milam,419,District Clerk,,REP,Karen Berry,246,101,125,20
+Milam,419,County Clerk,,REP,Jodi Morgan,238,96,124,18
+Milam,419,County Treasurer,,REP,"Jennifer ""Jenger"" Epperson-Moran",97,41,47,9
+Milam,419,County Treasurer,,REP,Linda Acosta,157,61,87,9
+Milam,419,"Justice of the Peace, Precinct No. 4",,REP,Gary Northcott,243,99,124,20
+Milam,419,County Chairman,,REP,Bill Whitmire,239,96,123,20
+Milam,419,Proposition 1,,,YES,166,71,80,15
+Milam,419,Proposition 1,,,NO,104,42,57,5
+Milam,419,Proposition 2,,,YES,254,109,125,20
+Milam,419,Proposition 2,,,NO,31,10,21,0
+Milam,419,Proposition 3,,,YES,236,101,116,19
+Milam,419,Proposition 3,,,NO,41,13,28,0
+Milam,419,Proposition 4,,,YES,248,106,122,20
+Milam,419,Proposition 4,,,NO,35,11,24,0
+Milam,419,Proposition 5,,,YES,191,83,89,19
+Milam,419,Proposition 5,,,NO,92,34,57,1
+Milam,419,Proposition 6,,,YES,273,112,141,20
+Milam,419,Proposition 6,,,NO,17,6,11,0
+Milam,419,Proposition 7,,,YES,177,74,88,15
+Milam,419,Proposition 7,,,NO,98,36,58,4
+Milam,419,Proposition 8,,,YES,270,113,137,20
+Milam,419,Proposition 8,,,NO,16,3,13,0
+Milam,419,Proposition 9,,,YES,246,104,124,18
+Milam,419,Proposition 9,,,NO,40,12,27,1
+Milam,419,Proposition 10,,,YES,259,109,131,19
+Milam,419,Proposition 10,,,NO,19,6,13,0
+Milam,419,Proposition 11,,,YES,253,107,126,20
+Milam,419,Proposition 11,,,NO,35,12,23,0
+Milam,419,U.S. Senate,,DEM,Beto O'Rourke,42,20,16,6
+Milam,419,U.S. Senate,,DEM,Edward Kimbrough,20,10,8,2
+Milam,419,U.S. Senate,,DEM,Sema Hernandez,25,14,9,2
+Milam,419,U.S. House,17,DEM,Rick Kennedy,25,12,10,3
+Milam,419,U.S. House,17,DEM,Dale Mantey,62,30,26,6
+Milam,419,Governor,,DEM,Andrew White,31,15,11,5
 Milam,419,Governor,,DEM,James Jolly Clark,2,1,1,0
-Milam,419,Governor,,DEM,Joe Mumbach,2,2,0,0
+Milam,419,Governor,,DEM,Joe Mumbach,2,0,2,0
 Milam,419,Governor,,DEM,Tom Wakely,1,0,0,1
-Milam,419,Governor,,DEM,Lupe Valdez,28,11,15,2
+Milam,419,Governor,,DEM,Lupe Valdez,28,15,11,2
 Milam,419,Governor,,DEM,Jeffrey Payne,5,2,2,1
-Milam,419,Governor,,DEM,Grady Yarbrough,15,6,8,1
-Milam,419,Governor,,DEM,"Cedric Davis, Sr.",2,0,2,0
+Milam,419,Governor,,DEM,Grady Yarbrough,15,8,6,1
+Milam,419,Governor,,DEM,"Cedric Davis, Sr.",2,2,0,0
 Milam,419,Governor,,DEM,Adrian Ocegueda,2,1,1,0
-Milam,419,Lieutenant Governor,,DEM,Michael Cooper,38,16,18,4
-Milam,419,Lieutenant Governor,,DEM,Mike Collier,49,18,24,7
-Milam,419,Attorney General,,DEM,Justin Nelson,84,32,41,11
-Milam,419,Comptroller of Public Accounts,,DEM,Joi Chevalier,30,10,15,5
-Milam,419,Comptroller of Public Accounts,,DEM,Tim Mahoney,55,23,26,6
-Milam,419,Commissioner of the General Land Office,,"",Tex Morgan,43,18,19,6
-Milam,419,Commissioner of the General Land Office,,DEM,Miguel Suazo,44,15,24,5
-Milam,419,Commissioner of Agriculture,,DEM,Kim Olson,87,33,43,11
-Milam,419,Railroad Commissioner,,DEM,Roman McAllen,47,19,23,5
-Milam,419,Railroad Commissioner,,DEM,Chris Spellmon,39,14,19,6
-Milam,419,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,86,32,43,11
-Milam,419,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,85,32,43,10
-Milam,419,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,83,31,42,10
-Milam,419,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,85,32,42,11
-Milam,419,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,85,32,42,11
-Milam,419,State Senator,5,DEM,Meg Walsh,52,19,25,8
-Milam,419,State Senator,5,DEM,"Glenn ""Grumpy"" Williams",21,12,8,1
-Milam,419,State Senator,5,DEM,Brian E. Cronin,13,3,8,2
-Milam,419,State Representative,20,DEM,Stephen M. Wyman,85,32,42,11
-Milam,419,"Justice, 3rd Court of Appeals District, Place 2",,DEM,Edward Smith,87,33,43,11
-Milam,419,"Justice, 3rd Court of Appeals District, Place 3",,DEM,Chari Kelly,86,33,42,11
-Milam,419,"Justice, 3rd Court of Appeals District, Place 5",,DEM,Thomas J. Baker,86,33,42,11
-Milam,419,"Justice, 3rd Court of Appeals District, Place 6",,DEM,Gisela D. Triana,85,32,42,11
-Milam,419,County Judge,,DEM,Jared Melde,88,34,43,11
-Milam,419,"County Commissioner, Precinct No. 4",,DEM,Jeff Muegge,87,33,43,11
-Milam,419,Proposition 1,,"",YES,86,32,44,10
-Milam,419,Proposition 1,,"",NO,1,0,0,1
-Milam,419,Proposition 2,,"",YES,83,32,42,9
-Milam,419,Proposition 2,,"",NO,6,2,2,2
-Milam,419,Proposition 3,,"",YES,83,32,41,10
-Milam,419,Proposition 3,,"",NO,5,1,3,1
-Milam,419,Proposition 4,,"",YES,85,33,42,10
-Milam,419,Proposition 4,,"",NO,4,1,2,1
-Milam,419,Proposition 5,,"",YES,80,30,41,9
-Milam,419,Proposition 5,,"",NO,5,1,3,1
-Milam,419,Proposition 6,,"",YES,87,33,44,10
-Milam,419,Proposition 6,,"",NO,2,0,1,1
-Milam,419,Proposition 7,,"",YES,87,34,42,11
-Milam,419,Proposition 7,,"",NO,2,0,2,0
-Milam,419,Proposition 8,,"",YES,80,30,41,9
-Milam,419,Proposition 8,,"",NO,6,3,2,1
-Milam,419,Proposition 9,,"",YES,83,31,43,9
-Milam,419,Proposition 9,,"",NO,3,1,1,1
-Milam,419,Proposition 10,,"",YES,84,33,41,10
-Milam,419,Proposition 10,,"",NO,3,0,3,0
-Milam,419,Proposition 11,,"",YES,81,31,41,9
-Milam,419,Proposition 11,,"",NO,3,1,1,1
-Milam,419,Proposition 12,,"",YES,86,33,44,9
-Milam,419,Proposition 12,,"",NO,1,0,0,1
+Milam,419,Lieutenant Governor,,DEM,Michael Cooper,38,18,16,4
+Milam,419,Lieutenant Governor,,DEM,Mike Collier,49,24,18,7
+Milam,419,Attorney General,,DEM,Justin Nelson,84,41,32,11
+Milam,419,Comptroller of Public Accounts,,DEM,Joi Chevalier,30,15,10,5
+Milam,419,Comptroller of Public Accounts,,DEM,Tim Mahoney,55,26,23,6
+Milam,419,Commissioner of the General Land Office,,,Tex Morgan,43,19,18,6
+Milam,419,Commissioner of the General Land Office,,DEM,Miguel Suazo,44,24,15,5
+Milam,419,Commissioner of Agriculture,,DEM,Kim Olson,87,43,33,11
+Milam,419,Railroad Commissioner,,DEM,Roman McAllen,47,23,19,5
+Milam,419,Railroad Commissioner,,DEM,Chris Spellmon,39,19,14,6
+Milam,419,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,86,43,32,11
+Milam,419,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,85,43,32,10
+Milam,419,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,83,42,31,10
+Milam,419,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,85,42,32,11
+Milam,419,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,85,42,32,11
+Milam,419,State Senator,5,DEM,Meg Walsh,52,25,19,8
+Milam,419,State Senator,5,DEM,"Glenn ""Grumpy"" Williams",21,8,12,1
+Milam,419,State Senator,5,DEM,Brian E. Cronin,13,8,3,2
+Milam,419,State Representative,20,DEM,Stephen M. Wyman,85,42,32,11
+Milam,419,"Justice, 3rd Court of Appeals District, Place 2",,DEM,Edward Smith,87,43,33,11
+Milam,419,"Justice, 3rd Court of Appeals District, Place 3",,DEM,Chari Kelly,86,42,33,11
+Milam,419,"Justice, 3rd Court of Appeals District, Place 5",,DEM,Thomas J. Baker,86,42,33,11
+Milam,419,"Justice, 3rd Court of Appeals District, Place 6",,DEM,Gisela D. Triana,85,42,32,11
+Milam,419,County Judge,,DEM,Jared Melde,88,43,34,11
+Milam,419,"County Commissioner, Precinct No. 4",,DEM,Jeff Muegge,87,43,33,11
+Milam,419,Proposition 1,,,YES,86,44,32,10
+Milam,419,Proposition 1,,,NO,1,0,0,1
+Milam,419,Proposition 2,,,YES,83,42,32,9
+Milam,419,Proposition 2,,,NO,6,2,2,2
+Milam,419,Proposition 3,,,YES,83,41,32,10
+Milam,419,Proposition 3,,,NO,5,3,1,1
+Milam,419,Proposition 4,,,YES,85,42,33,10
+Milam,419,Proposition 4,,,NO,4,2,1,1
+Milam,419,Proposition 5,,,YES,80,41,30,9
+Milam,419,Proposition 5,,,NO,5,3,1,1
+Milam,419,Proposition 6,,,YES,87,44,33,10
+Milam,419,Proposition 6,,,NO,2,1,0,1
+Milam,419,Proposition 7,,,YES,87,42,34,11
+Milam,419,Proposition 7,,,NO,2,2,0,0
+Milam,419,Proposition 8,,,YES,80,41,30,9
+Milam,419,Proposition 8,,,NO,6,2,3,1
+Milam,419,Proposition 9,,,YES,83,43,31,9
+Milam,419,Proposition 9,,,NO,3,1,1,1
+Milam,419,Proposition 10,,,YES,84,41,33,10
+Milam,419,Proposition 10,,,NO,3,3,0,0
+Milam,419,Proposition 11,,,YES,81,41,31,9
+Milam,419,Proposition 11,,,NO,3,1,1,1
+Milam,419,Proposition 12,,,YES,86,44,33,9
+Milam,419,Proposition 12,,,NO,1,0,0,1
 Milam,420,U.S. Senate,,REP,Over Votes,0,0,0,0
-Milam,420,U.S. Senate,,REP,Under Votes,19,8,5,6
+Milam,420,U.S. Senate,,REP,Under Votes,19,5,8,6
 Milam,420,Registered Voters,,,,1988,,,
 Milam,420,Ballots Cast,,REP,,341,,,
 Milam,420,Ballots Cast,,DEM,,93,,,
-Milam,420,U.S. Senate,,REP,Stefano de Stefano,3,2,1,0
-Milam,420,U.S. Senate,,REP,"Bruce Jacobson, Jr.",18,10,8,0
-Milam,420,U.S. Senate,,REP,Geraldine Sam,1,1,0,0
-Milam,420,U.S. Senate,,REP,Ted Cruz,267,122,131,14
+Milam,420,U.S. Senate,,REP,Stefano de Stefano,3,1,2,0
+Milam,420,U.S. Senate,,REP,"Bruce Jacobson, Jr.",18,8,10,0
+Milam,420,U.S. Senate,,REP,Geraldine Sam,1,0,1,0
+Milam,420,U.S. Senate,,REP,Ted Cruz,267,131,122,14
 Milam,420,U.S. Senate,,REP,Mary Miller,33,16,16,1
-Milam,420,U.S. House,17,REP,Bill Flores,284,132,137,15
-Milam,420,Governor,,REP,Barbara Krueger,28,17,11,0
-Milam,420,Governor,,REP,Greg Abbott,287,132,140,15
-Milam,420,Governor,,REP,SECEDE Kilgore,7,4,2,1
-Milam,420,Lieutenant Governor,,REP,Scott Milder,84,46,35,3
-Milam,420,Lieutenant Governor,,REP,Dan Patrick,239,103,121,15
-Milam,420,Attorney General,,REP,Ken Paxton,286,131,137,18
-Milam,420,Comptroller of Public Accounts,,REP,Glenn Hegar,281,128,135,18
-Milam,420,Commissioner of the General Land Office,,REP,Rick Range,26,15,10,1
-Milam,420,Commissioner of the General Land Office,,REP,George P. Bush,147,58,77,12
-Milam,420,Commissioner of the General Land Office,,REP,Jerry Patterson,119,62,52,5
-Milam,420,Commissioner of the General Land Office,,REP,Davey Edwards,13,6,7,0
-Milam,420,Commissioner of Agriculture,,REP,Jim Hogan,71,28,38,5
-Milam,420,Commissioner of Agriculture,,REP,Sid Miller,179,88,79,12
-Milam,420,Commissioner of Agriculture,,REP,Trey Blocker,53,29,24,0
-Milam,420,Railroad Commissioner,,REP,Weston Martinez,62,21,35,6
-Milam,420,Railroad Commissioner,,REP,Christi Craddick,218,112,96,10
-Milam,420,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,271,126,128,17
-Milam,420,"Justice, Supreme Court, Place 4",,REP,John Devine,266,127,122,17
-Milam,420,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,269,127,125,17
-Milam,420,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,158,73,79,6
-Milam,420,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,122,61,50,11
-Milam,420,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,258,121,120,17
-Milam,420,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,38,18,19,1
-Milam,420,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,110,53,52,5
-Milam,420,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,118,57,52,9
-Milam,420,State Senator,5,REP,Harold Ramm,69,37,29,3
-Milam,420,State Senator,5,REP,Charles Schwertner,244,112,118,14
-Milam,420,State Representative,20,REP,Terry M. Wilson,275,129,128,18
-Milam,420,"Justice, 3rd Court of Appeals District, Place 2",,REP,Cynthia Olson Bourland,257,119,121,17
-Milam,420,"Justice, 3rd Court of Appeals District, Place 3",,REP,Scott Field,262,122,123,17
-Milam,420,"Justice, 3rd Court of Appeals District, Place 5",,REP,David Puryear,255,117,121,17
-Milam,420,"Justice, 3rd Court of Appeals District, Place 6",,REP,Donna Davidson,96,47,42,7
-Milam,420,"Justice, 3rd Court of Appeals District, Place 6",,REP,Kristofer Monson,25,12,10,3
-Milam,420,"Justice, 3rd Court of Appeals District, Place 6",,REP,"Michael ""Mike"" Toth",99,43,52,4
-Milam,420,"Justice, 3rd Court of Appeals District, Place 6",,REP,Jennifer S. Freel,50,27,21,2
-Milam,420,County Judge,,REP,Steve Young,206,102,88,16
-Milam,420,County Judge,,REP,Frank Summers,126,52,69,5
-Milam,420,District Clerk,,REP,Karen Berry,276,131,125,20
+Milam,420,U.S. House,17,REP,Bill Flores,284,137,132,15
+Milam,420,Governor,,REP,Barbara Krueger,28,11,17,0
+Milam,420,Governor,,REP,Greg Abbott,287,140,132,15
+Milam,420,Governor,,REP,SECEDE Kilgore,7,2,4,1
+Milam,420,Lieutenant Governor,,REP,Scott Milder,84,35,46,3
+Milam,420,Lieutenant Governor,,REP,Dan Patrick,239,121,103,15
+Milam,420,Attorney General,,REP,Ken Paxton,286,137,131,18
+Milam,420,Comptroller of Public Accounts,,REP,Glenn Hegar,281,135,128,18
+Milam,420,Commissioner of the General Land Office,,REP,Rick Range,26,10,15,1
+Milam,420,Commissioner of the General Land Office,,REP,George P. Bush,147,77,58,12
+Milam,420,Commissioner of the General Land Office,,REP,Jerry Patterson,119,52,62,5
+Milam,420,Commissioner of the General Land Office,,REP,Davey Edwards,13,7,6,0
+Milam,420,Commissioner of Agriculture,,REP,Jim Hogan,71,38,28,5
+Milam,420,Commissioner of Agriculture,,REP,Sid Miller,179,79,88,12
+Milam,420,Commissioner of Agriculture,,REP,Trey Blocker,53,24,29,0
+Milam,420,Railroad Commissioner,,REP,Weston Martinez,62,35,21,6
+Milam,420,Railroad Commissioner,,REP,Christi Craddick,218,96,112,10
+Milam,420,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,271,128,126,17
+Milam,420,"Justice, Supreme Court, Place 4",,REP,John Devine,266,122,127,17
+Milam,420,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,269,125,127,17
+Milam,420,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,158,79,73,6
+Milam,420,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,122,50,61,11
+Milam,420,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,258,120,121,17
+Milam,420,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,38,19,18,1
+Milam,420,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,110,52,53,5
+Milam,420,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,118,52,57,9
+Milam,420,State Senator,5,REP,Harold Ramm,69,29,37,3
+Milam,420,State Senator,5,REP,Charles Schwertner,244,118,112,14
+Milam,420,State Representative,20,REP,Terry M. Wilson,275,128,129,18
+Milam,420,"Justice, 3rd Court of Appeals District, Place 2",,REP,Cynthia Olson Bourland,257,121,119,17
+Milam,420,"Justice, 3rd Court of Appeals District, Place 3",,REP,Scott Field,262,123,122,17
+Milam,420,"Justice, 3rd Court of Appeals District, Place 5",,REP,David Puryear,255,121,117,17
+Milam,420,"Justice, 3rd Court of Appeals District, Place 6",,REP,Donna Davidson,96,42,47,7
+Milam,420,"Justice, 3rd Court of Appeals District, Place 6",,REP,Kristofer Monson,25,10,12,3
+Milam,420,"Justice, 3rd Court of Appeals District, Place 6",,REP,"Michael ""Mike"" Toth",99,52,43,4
+Milam,420,"Justice, 3rd Court of Appeals District, Place 6",,REP,Jennifer S. Freel,50,21,27,2
+Milam,420,County Judge,,REP,Steve Young,206,88,102,16
+Milam,420,County Judge,,REP,Frank Summers,126,69,52,5
+Milam,420,District Clerk,,REP,Karen Berry,276,125,131,20
 Milam,420,County Clerk,,REP,Jodi Morgan,263,122,122,19
-Milam,420,County Treasurer,,REP,"Jennifer ""Jenger"" Epperson-Moran",114,46,60,8
-Milam,420,County Treasurer,,REP,Linda Acosta,193,93,88,12
-Milam,420,"Justice of the Peace, Precinct No. 4",,REP,Gary Northcott,291,136,135,20
-Milam,420,County Chairman,,REP,Bill Whitmire,267,124,125,18
-Milam,420,Proposition 1,,"",YES,207,94,105,8
-Milam,420,Proposition 1,,"",NO,100,47,44,9
-Milam,420,Proposition 2,,"",YES,304,140,147,17
-Milam,420,Proposition 2,,"",NO,17,9,7,1
-Milam,420,Proposition 3,,"",YES,261,118,130,13
-Milam,420,Proposition 3,,"",NO,50,26,20,4
-Milam,420,Proposition 4,,"",YES,283,133,133,17
-Milam,420,Proposition 4,,"",NO,31,14,16,1
-Milam,420,Proposition 5,,"",YES,236,105,115,16
-Milam,420,Proposition 5,,"",NO,83,42,39,2
-Milam,420,Proposition 6,,"",YES,292,137,139,16
-Milam,420,Proposition 6,,"",NO,24,11,12,1
-Milam,420,Proposition 7,,"",YES,206,94,96,16
-Milam,420,Proposition 7,,"",NO,100,49,49,2
-Milam,420,Proposition 8,,"",YES,307,142,148,17
-Milam,420,Proposition 8,,"",NO,12,6,5,1
-Milam,420,Proposition 9,,"",YES,286,130,139,17
-Milam,420,Proposition 9,,"",NO,27,17,9,1
-Milam,420,Proposition 10,,"",YES,292,137,138,17
-Milam,420,Proposition 10,,"",NO,22,11,10,1
-Milam,420,Proposition 11,,"",YES,282,131,135,16
-Milam,420,Proposition 11,,"",NO,37,18,17,2
-Milam,420,U.S. Senate,,DEM,Beto O'Rourke,40,17,22,1
+Milam,420,County Treasurer,,REP,"Jennifer ""Jenger"" Epperson-Moran",114,60,46,8
+Milam,420,County Treasurer,,REP,Linda Acosta,193,88,93,12
+Milam,420,"Justice of the Peace, Precinct No. 4",,REP,Gary Northcott,291,135,136,20
+Milam,420,County Chairman,,REP,Bill Whitmire,267,125,124,18
+Milam,420,Proposition 1,,,YES,207,105,94,8
+Milam,420,Proposition 1,,,NO,100,44,47,9
+Milam,420,Proposition 2,,,YES,304,147,140,17
+Milam,420,Proposition 2,,,NO,17,7,9,1
+Milam,420,Proposition 3,,,YES,261,130,118,13
+Milam,420,Proposition 3,,,NO,50,20,26,4
+Milam,420,Proposition 4,,,YES,283,133,133,17
+Milam,420,Proposition 4,,,NO,31,16,14,1
+Milam,420,Proposition 5,,,YES,236,115,105,16
+Milam,420,Proposition 5,,,NO,83,39,42,2
+Milam,420,Proposition 6,,,YES,292,139,137,16
+Milam,420,Proposition 6,,,NO,24,12,11,1
+Milam,420,Proposition 7,,,YES,206,96,94,16
+Milam,420,Proposition 7,,,NO,100,49,49,2
+Milam,420,Proposition 8,,,YES,307,148,142,17
+Milam,420,Proposition 8,,,NO,12,5,6,1
+Milam,420,Proposition 9,,,YES,286,139,130,17
+Milam,420,Proposition 9,,,NO,27,9,17,1
+Milam,420,Proposition 10,,,YES,292,138,137,17
+Milam,420,Proposition 10,,,NO,22,10,11,1
+Milam,420,Proposition 11,,,YES,282,135,131,16
+Milam,420,Proposition 11,,,NO,37,17,18,2
+Milam,420,U.S. Senate,,DEM,Beto O'Rourke,40,22,17,1
 Milam,420,U.S. Senate,,DEM,Edward Kimbrough,36,16,16,4
-Milam,420,U.S. Senate,,DEM,Sema Hernandez,11,6,4,1
-Milam,420,U.S. House,17,DEM,Rick Kennedy,42,13,23,6
-Milam,420,U.S. House,17,DEM,Dale Mantey,47,26,21,0
-Milam,420,Governor,,DEM,Andrew White,35,15,17,3
-Milam,420,Governor,,DEM,James Jolly Clark,3,1,2,0
-Milam,420,Governor,,DEM,Joe Mumbach,2,2,0,0
-Milam,420,Governor,,DEM,Tom Wakely,2,0,2,0
-Milam,420,Governor,,DEM,Lupe Valdez,17,7,8,2
-Milam,420,Governor,,DEM,Jeffrey Payne,5,2,3,0
-Milam,420,Governor,,DEM,Grady Yarbrough,20,9,10,1
+Milam,420,U.S. Senate,,DEM,Sema Hernandez,11,4,6,1
+Milam,420,U.S. House,17,DEM,Rick Kennedy,42,23,13,6
+Milam,420,U.S. House,17,DEM,Dale Mantey,47,21,26,0
+Milam,420,Governor,,DEM,Andrew White,35,17,15,3
+Milam,420,Governor,,DEM,James Jolly Clark,3,2,1,0
+Milam,420,Governor,,DEM,Joe Mumbach,2,0,2,0
+Milam,420,Governor,,DEM,Tom Wakely,2,2,0,0
+Milam,420,Governor,,DEM,Lupe Valdez,17,8,7,2
+Milam,420,Governor,,DEM,Jeffrey Payne,5,3,2,0
+Milam,420,Governor,,DEM,Grady Yarbrough,20,10,9,1
 Milam,420,Governor,,DEM,"Cedric Davis, Sr.",0,0,0,0
 Milam,420,Governor,,DEM,Adrian Ocegueda,0,0,0,0
-Milam,420,Lieutenant Governor,,DEM,Michael Cooper,33,13,19,1
+Milam,420,Lieutenant Governor,,DEM,Michael Cooper,33,19,13,1
 Milam,420,Lieutenant Governor,,DEM,Mike Collier,51,23,23,5
-Milam,420,Attorney General,,DEM,Justin Nelson,85,36,43,6
-Milam,420,Comptroller of Public Accounts,,DEM,Joi Chevalier,24,8,13,3
+Milam,420,Attorney General,,DEM,Justin Nelson,85,43,36,6
+Milam,420,Comptroller of Public Accounts,,DEM,Joi Chevalier,24,13,8,3
 Milam,420,Comptroller of Public Accounts,,DEM,Tim Mahoney,61,29,29,3
-Milam,420,Commissioner of the General Land Office,,"",Tex Morgan,48,20,23,5
-Milam,420,Commissioner of the General Land Office,,DEM,Miguel Suazo,33,15,17,1
-Milam,420,Commissioner of Agriculture,,DEM,Kim Olson,84,37,41,6
-Milam,420,Railroad Commissioner,,DEM,Roman McAllen,29,11,16,2
-Milam,420,Railroad Commissioner,,DEM,Chris Spellmon,54,24,26,4
-Milam,420,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,79,33,40,6
-Milam,420,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,78,34,38,6
-Milam,420,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,77,32,39,6
-Milam,420,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,79,33,40,6
-Milam,420,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,78,33,39,6
-Milam,420,State Senator,5,DEM,Meg Walsh,52,20,27,5
-Milam,420,State Senator,5,DEM,"Glenn ""Grumpy"" Williams",23,14,9,0
-Milam,420,State Senator,5,DEM,Brian E. Cronin,8,2,5,1
-Milam,420,State Representative,20,DEM,Stephen M. Wyman,79,34,39,6
-Milam,420,"Justice, 3rd Court of Appeals District, Place 2",,DEM,Edward Smith,80,35,39,6
-Milam,420,"Justice, 3rd Court of Appeals District, Place 3",,DEM,Chari Kelly,78,33,39,6
-Milam,420,"Justice, 3rd Court of Appeals District, Place 5",,DEM,Thomas J. Baker,80,35,39,6
-Milam,420,"Justice, 3rd Court of Appeals District, Place 6",,DEM,Gisela D. Triana,77,31,40,6
-Milam,420,County Judge,,DEM,Jared Melde,87,37,44,6
-Milam,420,"County Commissioner, Precinct No. 4",,DEM,Jeff Muegge,91,39,46,6
-Milam,420,Proposition 1,,"",YES,80,35,39,6
-Milam,420,Proposition 1,,"",NO,8,3,5,0
-Milam,420,Proposition 2,,"",YES,80,34,40,6
-Milam,420,Proposition 2,,"",NO,7,3,4,0
-Milam,420,Proposition 3,,"",YES,78,32,40,6
-Milam,420,Proposition 3,,"",NO,9,6,3,0
-Milam,420,Proposition 4,,"",YES,78,33,39,6
-Milam,420,Proposition 4,,"",NO,7,3,4,0
-Milam,420,Proposition 5,,"",YES,75,34,36,5
-Milam,420,Proposition 5,,"",NO,11,4,6,1
-Milam,420,Proposition 6,,"",YES,83,36,41,6
-Milam,420,Proposition 6,,"",NO,3,1,2,0
-Milam,420,Proposition 7,,"",YES,80,35,39,6
-Milam,420,Proposition 7,,"",NO,6,3,3,0
-Milam,420,Proposition 8,,"",YES,69,29,36,4
-Milam,420,Proposition 8,,"",NO,15,9,4,2
-Milam,420,Proposition 9,,"",YES,75,31,38,6
-Milam,420,Proposition 9,,"",NO,9,6,3,0
-Milam,420,Proposition 10,,"",YES,79,33,40,6
-Milam,420,Proposition 10,,"",NO,7,5,2,0
-Milam,420,Proposition 11,,"",YES,71,33,33,5
-Milam,420,Proposition 11,,"",NO,12,5,6,1
-Milam,420,Proposition 12,,"",YES,81,35,40,6
-Milam,420,Proposition 12,,"",NO,4,2,2,0
+Milam,420,Commissioner of the General Land Office,,,Tex Morgan,48,23,20,5
+Milam,420,Commissioner of the General Land Office,,DEM,Miguel Suazo,33,17,15,1
+Milam,420,Commissioner of Agriculture,,DEM,Kim Olson,84,41,37,6
+Milam,420,Railroad Commissioner,,DEM,Roman McAllen,29,16,11,2
+Milam,420,Railroad Commissioner,,DEM,Chris Spellmon,54,26,24,4
+Milam,420,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,79,40,33,6
+Milam,420,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,78,38,34,6
+Milam,420,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,77,39,32,6
+Milam,420,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,79,40,33,6
+Milam,420,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,78,39,33,6
+Milam,420,State Senator,5,DEM,Meg Walsh,52,27,20,5
+Milam,420,State Senator,5,DEM,"Glenn ""Grumpy"" Williams",23,9,14,0
+Milam,420,State Senator,5,DEM,Brian E. Cronin,8,5,2,1
+Milam,420,State Representative,20,DEM,Stephen M. Wyman,79,39,34,6
+Milam,420,"Justice, 3rd Court of Appeals District, Place 2",,DEM,Edward Smith,80,39,35,6
+Milam,420,"Justice, 3rd Court of Appeals District, Place 3",,DEM,Chari Kelly,78,39,33,6
+Milam,420,"Justice, 3rd Court of Appeals District, Place 5",,DEM,Thomas J. Baker,80,39,35,6
+Milam,420,"Justice, 3rd Court of Appeals District, Place 6",,DEM,Gisela D. Triana,77,40,31,6
+Milam,420,County Judge,,DEM,Jared Melde,87,44,37,6
+Milam,420,"County Commissioner, Precinct No. 4",,DEM,Jeff Muegge,91,46,39,6
+Milam,420,Proposition 1,,,YES,80,39,35,6
+Milam,420,Proposition 1,,,NO,8,5,3,0
+Milam,420,Proposition 2,,,YES,80,40,34,6
+Milam,420,Proposition 2,,,NO,7,4,3,0
+Milam,420,Proposition 3,,,YES,78,40,32,6
+Milam,420,Proposition 3,,,NO,9,3,6,0
+Milam,420,Proposition 4,,,YES,78,39,33,6
+Milam,420,Proposition 4,,,NO,7,4,3,0
+Milam,420,Proposition 5,,,YES,75,36,34,5
+Milam,420,Proposition 5,,,NO,11,6,4,1
+Milam,420,Proposition 6,,,YES,83,41,36,6
+Milam,420,Proposition 6,,,NO,3,2,1,0
+Milam,420,Proposition 7,,,YES,80,39,35,6
+Milam,420,Proposition 7,,,NO,6,3,3,0
+Milam,420,Proposition 8,,,YES,69,36,29,4
+Milam,420,Proposition 8,,,NO,15,4,9,2
+Milam,420,Proposition 9,,,YES,75,38,31,6
+Milam,420,Proposition 9,,,NO,9,3,6,0
+Milam,420,Proposition 10,,,YES,79,40,33,6
+Milam,420,Proposition 10,,,NO,7,2,5,0
+Milam,420,Proposition 11,,,YES,71,33,33,5
+Milam,420,Proposition 11,,,NO,12,6,5,1
+Milam,420,Proposition 12,,,YES,81,40,35,6
+Milam,420,Proposition 12,,,NO,4,2,2,0

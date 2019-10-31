@@ -1,221 +1,221 @@
-county,precinct,office,district,party,candidate,early_voting,election_day,votes
-Bailey,1,Ballots Cast,,,,140,165,305
-Bailey,2,Ballots Cast,,,,216,218,434
-Bailey,3,Ballots Cast,,,,88,98,186
-Bailey,4,Ballots Cast,,,,50,60,110
-Bailey,1,Ballots Cast,,REP,,139,160,299
-Bailey,2,Ballots Cast,,REP,,213,212,425
-Bailey,3,Ballots Cast,,REP,,78,92,170
-Bailey,4,Ballots Cast,,REP,,37,55,92
-Bailey,1,Ballots Cast,,DEM,,1,5,6
-Bailey,2,Ballots Cast,,DEM,,3,6,9
-Bailey,3,Ballots Cast,,DEM,,10,6,16
-Bailey,4,Ballots Cast,,DEM,,13,5,18
-Bailey,1,U.S. Senate,,REP,Mary Miller,7,7,14
-Bailey,2,U.S. Senate,,REP,Mary Miller,11,10,21
-Bailey,3,U.S. Senate,,REP,Mary Miller,6,7,13
-Bailey,4,U.S. Senate,,REP,Mary Miller,0,3,3
-Bailey,1,U.S. Senate,,REP,Ted Cruz,122,137,259
-Bailey,2,U.S. Senate,,REP,Ted Cruz,178,181,359
-Bailey,3,U.S. Senate,,REP,Ted Cruz,63,74,137
-Bailey,4,U.S. Senate,,REP,Ted Cruz,28,38,66
+county,precinct,office,district,party,candidate,votes,election_day,early_voting
+Bailey,1,Ballots Cast,,,,305,165,140
+Bailey,2,Ballots Cast,,,,434,218,216
+Bailey,3,Ballots Cast,,,,186,98,88
+Bailey,4,Ballots Cast,,,,110,60,50
+Bailey,1,Ballots Cast,,REP,,299,160,139
+Bailey,2,Ballots Cast,,REP,,425,212,213
+Bailey,3,Ballots Cast,,REP,,170,92,78
+Bailey,4,Ballots Cast,,REP,,92,55,37
+Bailey,1,Ballots Cast,,DEM,,6,5,1
+Bailey,2,Ballots Cast,,DEM,,9,6,3
+Bailey,3,Ballots Cast,,DEM,,16,6,10
+Bailey,4,Ballots Cast,,DEM,,18,5,13
+Bailey,1,U.S. Senate,,REP,Mary Miller,14,7,7
+Bailey,2,U.S. Senate,,REP,Mary Miller,21,10,11
+Bailey,3,U.S. Senate,,REP,Mary Miller,13,7,6
+Bailey,4,U.S. Senate,,REP,Mary Miller,3,3,0
+Bailey,1,U.S. Senate,,REP,Ted Cruz,259,137,122
+Bailey,2,U.S. Senate,,REP,Ted Cruz,359,181,178
+Bailey,3,U.S. Senate,,REP,Ted Cruz,137,74,63
+Bailey,4,U.S. Senate,,REP,Ted Cruz,66,38,28
 Bailey,1,U.S. Senate,,REP,Stefano de Stefano,2,0,2
-Bailey,2,U.S. Senate,,REP,Stefano de Stefano,1,2,3
-Bailey,3,U.S. Senate,,REP,Stefano de Stefano,3,3,6
-Bailey,4,U.S. Senate,,REP,Stefano de Stefano,0,2,2
-Bailey,1,U.S. Senate,,REP,Geraldine Sam,1,2,3
-Bailey,2,U.S. Senate,,REP,Geraldine Sam,1,2,3
-Bailey,3,U.S. Senate,,REP,Geraldine Sam,2,2,4
+Bailey,2,U.S. Senate,,REP,Stefano de Stefano,3,2,1
+Bailey,3,U.S. Senate,,REP,Stefano de Stefano,6,3,3
+Bailey,4,U.S. Senate,,REP,Stefano de Stefano,2,2,0
+Bailey,1,U.S. Senate,,REP,Geraldine Sam,3,2,1
+Bailey,2,U.S. Senate,,REP,Geraldine Sam,3,2,1
+Bailey,3,U.S. Senate,,REP,Geraldine Sam,4,2,2
 Bailey,4,U.S. Senate,,REP,Geraldine Sam,0,0,0
-Bailey,1,U.S. Senate,,REP,Bruce Jacobson Jr.,2,3,5
-Bailey,2,U.S. Senate,,REP,Bruce Jacobson Jr.,6,6,12
+Bailey,1,U.S. Senate,,REP,Bruce Jacobson Jr.,5,3,2
+Bailey,2,U.S. Senate,,REP,Bruce Jacobson Jr.,12,6,6
 Bailey,3,U.S. Senate,,REP,Bruce Jacobson Jr.,1,0,1
-Bailey,4,U.S. Senate,,REP,Bruce Jacobson Jr.,1,7,8
-Bailey,1,U.S. House,19,REP,Jodey Arrington,97,120,217
-Bailey,2,U.S. House,19,REP,Jodey Arrington,170,170,340
-Bailey,3,U.S. House,19,REP,Jodey Arrington,56,64,120
-Bailey,4,U.S. House,19,REP,Jodey Arrington,26,36,62
-Bailey,1,Governor,,REP,Barbara Krueger,9,11,20
-Bailey,2,Governor,,REP,Barbara Krueger,8,13,21
-Bailey,3,Governor,,REP,Barbara Krueger,6,10,16
-Bailey,4,Governor,,REP,Barbara Krueger,2,7,9
-Bailey,1,Governor,,REP,SECEDE Kilgore,2,6,8
-Bailey,2,Governor,,REP,SECEDE Kilgore,3,7,10
-Bailey,3,Governor,,REP,SECEDE Kilgore,4,3,7
-Bailey,4,Governor,,REP,SECEDE Kilgore,0,2,2
-Bailey,1,Governor,,REP,Greg Abbott,123,133,256
-Bailey,2,Governor,,REP,Greg Abbott,191,179,370
-Bailey,3,Governor,,REP,Greg Abbott,64,70,134
-Bailey,4,Governor,,REP,Greg Abbott,27,39,66
-Bailey,1,Lieutenant Governor,,REP,Dan Patrick,88,92,180
-Bailey,2,Lieutenant Governor,,REP,Dan Patrick,134,125,259
-Bailey,3,Lieutenant Governor,,REP,Dan Patrick,47,50,97
-Bailey,4,Lieutenant Governor,,REP,Dan Patrick,20,25,45
-Bailey,1,Lieutenant Governor,,REP,Scott Milder,37,38,75
-Bailey,2,Lieutenant Governor,,REP,Scott Milder,50,67,117
-Bailey,3,Lieutenant Governor,,REP,Scott Milder,20,26,46
-Bailey,4,Lieutenant Governor,,REP,Scott Milder,6,21,27
-Bailey,1,Attorney General,,REP,Ken Paxton,113,119,232
-Bailey,2,Attorney General,,REP,Ken Paxton,164,168,332
-Bailey,3,Attorney General,,REP,Ken Paxton,55,59,114
-Bailey,4,Attorney General,,REP,Ken Paxton,24,34,58
-Bailey,1,Comptroller of Public Accounts,,REP,Glenn Hegar,102,111,213
-Bailey,2,Comptroller of Public Accounts,,REP,Glenn Hegar,158,168,326
-Bailey,3,Comptroller of Public Accounts,,REP,Glenn Hegar,52,56,108
-Bailey,4,Comptroller of Public Accounts,,REP,Glenn Hegar,24,32,56
-Bailey,1,Commissioner of the General Land Office,,REP,George P. Bush,78,100,178
-Bailey,2,Commissioner of the General Land Office,,REP,George P. Bush,116,132,248
-Bailey,3,Commissioner of the General Land Office,,REP,George P. Bush,42,57,99
-Bailey,4,Commissioner of the General Land Office,,REP,George P. Bush,15,31,46
-Bailey,1,Commissioner of the General Land Office,,REP,Jerry Patterson,38,30,68
-Bailey,2,Commissioner of the General Land Office,,REP,Jerry Patterson,55,44,99
-Bailey,3,Commissioner of the General Land Office,,REP,Jerry Patterson,23,12,35
-Bailey,4,Commissioner of the General Land Office,,REP,Jerry Patterson,9,7,16
-Bailey,1,Commissioner of the General Land Office,,REP,Rick Range,8,6,14
-Bailey,2,Commissioner of the General Land Office,,REP,Rick Range,9,7,16
-Bailey,3,Commissioner of the General Land Office,,REP,Rick Range,4,9,13
-Bailey,4,Commissioner of the General Land Office,,REP,Rick Range,3,5,8
-Bailey,1,Commissioner of the General Land Office,,REP,Davey Edwards,2,2,4
-Bailey,2,Commissioner of the General Land Office,,REP,Davey Edwards,7,5,12
-Bailey,3,Commissioner of the General Land Office,,REP,Davey Edwards,2,6,8
-Bailey,4,Commissioner of the General Land Office,,REP,Davey Edwards,0,4,4
-Bailey,1,Commissioner of Agriculture,,REP,Trey Blocker,33,31,64
-Bailey,2,Commissioner of Agriculture,,REP,Trey Blocker,30,35,65
-Bailey,3,Commissioner of Agriculture,,REP,Trey Blocker,11,15,26
-Bailey,4,Commissioner of Agriculture,,REP,Trey Blocker,2,8,10
-Bailey,1,Commissioner of Agriculture,,REP,Sid Miller,74,80,154
-Bailey,2,Commissioner of Agriculture,,REP,Sid Miller,107,118,225
-Bailey,3,Commissioner of Agriculture,,REP,Sid Miller,39,40,79
-Bailey,4,Commissioner of Agriculture,,REP,Sid Miller,18,24,42
-Bailey,1,Commissioner of Agriculture,,REP,Jim Hogan,12,22,34
-Bailey,2,Commissioner of Agriculture,,REP,Jim Hogan,30,30,60
-Bailey,3,Commissioner of Agriculture,,REP,Jim Hogan,11,16,27
-Bailey,4,Commissioner of Agriculture,,REP,Jim Hogan,7,15,22
-Bailey,1,Railroad Commissioner,,REP,Weston Martinez,35,29,64
-Bailey,2,Railroad Commissioner,,REP,Weston Martinez,31,52,83
-Bailey,3,Railroad Commissioner,,REP,Weston Martinez,17,23,40
-Bailey,4,Railroad Commissioner,,REP,Weston Martinez,8,18,26
-Bailey,1,Railroad Commissioner,,REP,Christi Craddock,85,92,177
-Bailey,2,Railroad Commissioner,,REP,Christi Craddock,131,112,243
-Bailey,3,Railroad Commissioner,,REP,Christi Craddock,44,43,87
-Bailey,4,Railroad Commissioner,,REP,Christi Craddock,17,28,45
-Bailey,1,State Senate,31,REP,Mike Canon,10,23,33
-Bailey,2,State Senate,31,REP,Mike Canon,23,21,44
-Bailey,3,State Senate,31,REP,Mike Canon,9,7,16
-Bailey,4,State Senate,31,REP,Mike Canon,4,6,10
-Bailey,1,State Senate,31,REP,Kel Seliger,34,47,81
-Bailey,2,State Senate,31,REP,Kel Seliger,59,59,118
-Bailey,3,State Senate,31,REP,Kel Seliger,20,22,42
-Bailey,4,State Senate,31,REP,Kel Seliger,9,7,16
-Bailey,1,State Senate,31,REP,Victor Leal,92,88,180
-Bailey,2,State Senate,31,REP,Victor Leal,124,129,253
-Bailey,3,State Senate,31,REP,Victor Leal,44,59,103
-Bailey,4,State Senate,31,REP,Victor Leal,21,36,57
-Bailey,1,State Representative,88,REP,Richard Beyea,15,22,37
-Bailey,2,State Representative,88,REP,Richard Beyea,9,25,34
-Bailey,3,State Representative,88,REP,Richard Beyea,6,13,19
-Bailey,4,State Representative,88,REP,Richard Beyea,3,11,14
-Bailey,1,State Representative,88,REP,Ken King,61,63,124
-Bailey,2,State Representative,88,REP,Ken King,79,104,183
-Bailey,3,State Representative,88,REP,Ken King,35,34,69
-Bailey,4,State Representative,88,REP,Ken King,14,18,32
-Bailey,1,State Representative,88,REP,Jason Huddleston,52,62,114
-Bailey,2,State Representative,88,REP,Jason Huddleston,98,69,167
-Bailey,3,State Representative,88,REP,Jason Huddleston,29,32,61
-Bailey,4,State Representative,88,REP,Jason Huddleston,10,19,29
+Bailey,4,U.S. Senate,,REP,Bruce Jacobson Jr.,8,7,1
+Bailey,1,U.S. House,19,REP,Jodey Arrington,217,120,97
+Bailey,2,U.S. House,19,REP,Jodey Arrington,340,170,170
+Bailey,3,U.S. House,19,REP,Jodey Arrington,120,64,56
+Bailey,4,U.S. House,19,REP,Jodey Arrington,62,36,26
+Bailey,1,Governor,,REP,Barbara Krueger,20,11,9
+Bailey,2,Governor,,REP,Barbara Krueger,21,13,8
+Bailey,3,Governor,,REP,Barbara Krueger,16,10,6
+Bailey,4,Governor,,REP,Barbara Krueger,9,7,2
+Bailey,1,Governor,,REP,SECEDE Kilgore,8,6,2
+Bailey,2,Governor,,REP,SECEDE Kilgore,10,7,3
+Bailey,3,Governor,,REP,SECEDE Kilgore,7,3,4
+Bailey,4,Governor,,REP,SECEDE Kilgore,2,2,0
+Bailey,1,Governor,,REP,Greg Abbott,256,133,123
+Bailey,2,Governor,,REP,Greg Abbott,370,179,191
+Bailey,3,Governor,,REP,Greg Abbott,134,70,64
+Bailey,4,Governor,,REP,Greg Abbott,66,39,27
+Bailey,1,Lieutenant Governor,,REP,Dan Patrick,180,92,88
+Bailey,2,Lieutenant Governor,,REP,Dan Patrick,259,125,134
+Bailey,3,Lieutenant Governor,,REP,Dan Patrick,97,50,47
+Bailey,4,Lieutenant Governor,,REP,Dan Patrick,45,25,20
+Bailey,1,Lieutenant Governor,,REP,Scott Milder,75,38,37
+Bailey,2,Lieutenant Governor,,REP,Scott Milder,117,67,50
+Bailey,3,Lieutenant Governor,,REP,Scott Milder,46,26,20
+Bailey,4,Lieutenant Governor,,REP,Scott Milder,27,21,6
+Bailey,1,Attorney General,,REP,Ken Paxton,232,119,113
+Bailey,2,Attorney General,,REP,Ken Paxton,332,168,164
+Bailey,3,Attorney General,,REP,Ken Paxton,114,59,55
+Bailey,4,Attorney General,,REP,Ken Paxton,58,34,24
+Bailey,1,Comptroller of Public Accounts,,REP,Glenn Hegar,213,111,102
+Bailey,2,Comptroller of Public Accounts,,REP,Glenn Hegar,326,168,158
+Bailey,3,Comptroller of Public Accounts,,REP,Glenn Hegar,108,56,52
+Bailey,4,Comptroller of Public Accounts,,REP,Glenn Hegar,56,32,24
+Bailey,1,Commissioner of the General Land Office,,REP,George P. Bush,178,100,78
+Bailey,2,Commissioner of the General Land Office,,REP,George P. Bush,248,132,116
+Bailey,3,Commissioner of the General Land Office,,REP,George P. Bush,99,57,42
+Bailey,4,Commissioner of the General Land Office,,REP,George P. Bush,46,31,15
+Bailey,1,Commissioner of the General Land Office,,REP,Jerry Patterson,68,30,38
+Bailey,2,Commissioner of the General Land Office,,REP,Jerry Patterson,99,44,55
+Bailey,3,Commissioner of the General Land Office,,REP,Jerry Patterson,35,12,23
+Bailey,4,Commissioner of the General Land Office,,REP,Jerry Patterson,16,7,9
+Bailey,1,Commissioner of the General Land Office,,REP,Rick Range,14,6,8
+Bailey,2,Commissioner of the General Land Office,,REP,Rick Range,16,7,9
+Bailey,3,Commissioner of the General Land Office,,REP,Rick Range,13,9,4
+Bailey,4,Commissioner of the General Land Office,,REP,Rick Range,8,5,3
+Bailey,1,Commissioner of the General Land Office,,REP,Davey Edwards,4,2,2
+Bailey,2,Commissioner of the General Land Office,,REP,Davey Edwards,12,5,7
+Bailey,3,Commissioner of the General Land Office,,REP,Davey Edwards,8,6,2
+Bailey,4,Commissioner of the General Land Office,,REP,Davey Edwards,4,4,0
+Bailey,1,Commissioner of Agriculture,,REP,Trey Blocker,64,31,33
+Bailey,2,Commissioner of Agriculture,,REP,Trey Blocker,65,35,30
+Bailey,3,Commissioner of Agriculture,,REP,Trey Blocker,26,15,11
+Bailey,4,Commissioner of Agriculture,,REP,Trey Blocker,10,8,2
+Bailey,1,Commissioner of Agriculture,,REP,Sid Miller,154,80,74
+Bailey,2,Commissioner of Agriculture,,REP,Sid Miller,225,118,107
+Bailey,3,Commissioner of Agriculture,,REP,Sid Miller,79,40,39
+Bailey,4,Commissioner of Agriculture,,REP,Sid Miller,42,24,18
+Bailey,1,Commissioner of Agriculture,,REP,Jim Hogan,34,22,12
+Bailey,2,Commissioner of Agriculture,,REP,Jim Hogan,60,30,30
+Bailey,3,Commissioner of Agriculture,,REP,Jim Hogan,27,16,11
+Bailey,4,Commissioner of Agriculture,,REP,Jim Hogan,22,15,7
+Bailey,1,Railroad Commissioner,,REP,Weston Martinez,64,29,35
+Bailey,2,Railroad Commissioner,,REP,Weston Martinez,83,52,31
+Bailey,3,Railroad Commissioner,,REP,Weston Martinez,40,23,17
+Bailey,4,Railroad Commissioner,,REP,Weston Martinez,26,18,8
+Bailey,1,Railroad Commissioner,,REP,Christi Craddock,177,92,85
+Bailey,2,Railroad Commissioner,,REP,Christi Craddock,243,112,131
+Bailey,3,Railroad Commissioner,,REP,Christi Craddock,87,43,44
+Bailey,4,Railroad Commissioner,,REP,Christi Craddock,45,28,17
+Bailey,1,State Senate,31,REP,Mike Canon,33,23,10
+Bailey,2,State Senate,31,REP,Mike Canon,44,21,23
+Bailey,3,State Senate,31,REP,Mike Canon,16,7,9
+Bailey,4,State Senate,31,REP,Mike Canon,10,6,4
+Bailey,1,State Senate,31,REP,Kel Seliger,81,47,34
+Bailey,2,State Senate,31,REP,Kel Seliger,118,59,59
+Bailey,3,State Senate,31,REP,Kel Seliger,42,22,20
+Bailey,4,State Senate,31,REP,Kel Seliger,16,7,9
+Bailey,1,State Senate,31,REP,Victor Leal,180,88,92
+Bailey,2,State Senate,31,REP,Victor Leal,253,129,124
+Bailey,3,State Senate,31,REP,Victor Leal,103,59,44
+Bailey,4,State Senate,31,REP,Victor Leal,57,36,21
+Bailey,1,State Representative,88,REP,Richard Beyea,37,22,15
+Bailey,2,State Representative,88,REP,Richard Beyea,34,25,9
+Bailey,3,State Representative,88,REP,Richard Beyea,19,13,6
+Bailey,4,State Representative,88,REP,Richard Beyea,14,11,3
+Bailey,1,State Representative,88,REP,Ken King,124,63,61
+Bailey,2,State Representative,88,REP,Ken King,183,104,79
+Bailey,3,State Representative,88,REP,Ken King,69,34,35
+Bailey,4,State Representative,88,REP,Ken King,32,18,14
+Bailey,1,State Representative,88,REP,Jason Huddleston,114,62,52
+Bailey,2,State Representative,88,REP,Jason Huddleston,167,69,98
+Bailey,3,State Representative,88,REP,Jason Huddleston,61,32,29
+Bailey,4,State Representative,88,REP,Jason Huddleston,29,19,10
 Bailey,1,U.S. Senate,,DEM,Edward Kimbrough,0,0,0
-Bailey,2,U.S. Senate,,DEM,Edward Kimbrough,0,1,1
-Bailey,3,U.S. Senate,,DEM,Edward Kimbrough,3,1,4
+Bailey,2,U.S. Senate,,DEM,Edward Kimbrough,1,1,0
+Bailey,3,U.S. Senate,,DEM,Edward Kimbrough,4,1,3
 Bailey,4,U.S. Senate,,DEM,Edward Kimbrough,1,0,1
-Bailey,1,U.S. Senate,,DEM,Beto O'Rourke,0,2,2
-Bailey,2,U.S. Senate,,DEM,Beto O'Rourke,2,2,4
-Bailey,3,U.S. Senate,,DEM,Beto O'Rourke,2,2,4
-Bailey,4,U.S. Senate,,DEM,Beto O'Rourke,4,2,6
-Bailey,1,U.S. Senate,,DEM,Sema Hernandez,1,1,2
-Bailey,2,U.S. Senate,,DEM,Sema Hernandez,1,2,3
-Bailey,3,U.S. Senate,,DEM,Sema Hernandez,2,2,4
-Bailey,4,U.S. Senate,,DEM,Sema Hernandez,8,3,11
-Bailey,1,U.S. House,19,DEM,Miguel Levario,1,2,3
-Bailey,2,U.S. House,19,DEM,Miguel Levario,1,6,7
-Bailey,3,U.S. House,19,DEM,Miguel Levario,5,4,9
-Bailey,4,U.S. House,19,DEM,Miguel Levario,7,5,12
+Bailey,1,U.S. Senate,,DEM,Beto O'Rourke,2,2,0
+Bailey,2,U.S. Senate,,DEM,Beto O'Rourke,4,2,2
+Bailey,3,U.S. Senate,,DEM,Beto O'Rourke,4,2,2
+Bailey,4,U.S. Senate,,DEM,Beto O'Rourke,6,2,4
+Bailey,1,U.S. Senate,,DEM,Sema Hernandez,2,1,1
+Bailey,2,U.S. Senate,,DEM,Sema Hernandez,3,2,1
+Bailey,3,U.S. Senate,,DEM,Sema Hernandez,4,2,2
+Bailey,4,U.S. Senate,,DEM,Sema Hernandez,11,3,8
+Bailey,1,U.S. House,19,DEM,Miguel Levario,3,2,1
+Bailey,2,U.S. House,19,DEM,Miguel Levario,7,6,1
+Bailey,3,U.S. House,19,DEM,Miguel Levario,9,4,5
+Bailey,4,U.S. House,19,DEM,Miguel Levario,12,5,7
 Bailey,1,Governor,,DEM,James Jolly Clark,0,0,0
 Bailey,2,Governor,,DEM,James Jolly Clark,1,0,1
-Bailey,3,Governor,,DEM,James Jolly Clark,1,1,2
+Bailey,3,Governor,,DEM,James Jolly Clark,2,1,1
 Bailey,4,Governor,,DEM,James Jolly Clark,0,0,0
-Bailey,1,Governor,,DEM,Tom Wakely,0,1,1
+Bailey,1,Governor,,DEM,Tom Wakely,1,1,0
 Bailey,2,Governor,,DEM,Tom Wakely,0,0,0
-Bailey,3,Governor,,DEM,Tom Wakely,1,2,3
+Bailey,3,Governor,,DEM,Tom Wakely,3,2,1
 Bailey,4,Governor,,DEM,Tom Wakely,0,0,0
 Bailey,1,Governor,,DEM,Joe Mumbach,0,0,0
-Bailey,2,Governor,,DEM,Joe Mumbach,0,1,1
+Bailey,2,Governor,,DEM,Joe Mumbach,1,1,0
 Bailey,3,Governor,,DEM,Joe Mumbach,0,0,0
 Bailey,4,Governor,,DEM,Joe Mumbach,0,0,0
 Bailey,1,Governor,,DEM,Andrew White,1,0,1
-Bailey,2,Governor,,DEM,Andrew White,1,1,2
-Bailey,3,Governor,,DEM,Andrew White,2,1,3
-Bailey,4,Governor,,DEM,Andrew White,0,2,2
+Bailey,2,Governor,,DEM,Andrew White,2,1,1
+Bailey,3,Governor,,DEM,Andrew White,3,1,2
+Bailey,4,Governor,,DEM,Andrew White,2,2,0
 Bailey,1,Governor,,DEM,Cedric Davis Sr.,0,0,0
 Bailey,2,Governor,,DEM,Cedric Davis Sr.,0,0,0
 Bailey,3,Governor,,DEM,Cedric Davis Sr.,0,0,0
 Bailey,4,Governor,,DEM,Cedric Davis Sr.,0,0,0
-Bailey,1,Governor,,DEM,Lupe Valdez,0,2,2
-Bailey,2,Governor,,DEM,Lupe Valdez,1,2,3
+Bailey,1,Governor,,DEM,Lupe Valdez,2,2,0
+Bailey,2,Governor,,DEM,Lupe Valdez,3,2,1
 Bailey,3,Governor,,DEM,Lupe Valdez,3,0,3
-Bailey,4,Governor,,DEM,Lupe Valdez,9,2,11
+Bailey,4,Governor,,DEM,Lupe Valdez,11,2,9
 Bailey,1,Governor,,DEM,Jeffrey Payne,0,0,0
 Bailey,2,Governor,,DEM,Jeffrey Payne,0,0,0
 Bailey,3,Governor,,DEM,Jeffrey Payne,0,0,0
 Bailey,4,Governor,,DEM,Jeffrey Payne,0,0,0
-Bailey,1,Governor,,DEM,Grady Yarbrough,0,2,2
-Bailey,2,Governor,,DEM,Grady Yarbrough,0,1,1
+Bailey,1,Governor,,DEM,Grady Yarbrough,2,2,0
+Bailey,2,Governor,,DEM,Grady Yarbrough,1,1,0
 Bailey,3,Governor,,DEM,Grady Yarbrough,0,0,0
 Bailey,4,Governor,,DEM,Grady Yarbrough,1,0,1
 Bailey,1,Governor,,DEM,Adrian Ocegueda,0,0,0
 Bailey,2,Governor,,DEM,Adrian Ocegueda,0,0,0
 Bailey,3,Governor,,DEM,Adrian Ocegueda,0,0,0
-Bailey,4,Governor,,DEM,Adrian Ocegueda,2,1,3
-Bailey,1,Lieutenant Governor,,DEM,Michael Cooper,1,5,6
-Bailey,2,Lieutenant Governor,,DEM,Michael Cooper,0,4,4
-Bailey,3,Lieutenant Governor,,DEM,Michael Cooper,4,2,6
-Bailey,4,Lieutenant Governor,,DEM,Michael Cooper,5,1,6
+Bailey,4,Governor,,DEM,Adrian Ocegueda,3,1,2
+Bailey,1,Lieutenant Governor,,DEM,Michael Cooper,6,5,1
+Bailey,2,Lieutenant Governor,,DEM,Michael Cooper,4,4,0
+Bailey,3,Lieutenant Governor,,DEM,Michael Cooper,6,2,4
+Bailey,4,Lieutenant Governor,,DEM,Michael Cooper,6,1,5
 Bailey,1,Lieutenant Governor,,DEM,Mike Collier,0,0,0
-Bailey,2,Lieutenant Governor,,DEM,Mike Collier,3,1,4
-Bailey,3,Lieutenant Governor,,DEM,Mike Collier,2,1,3
-Bailey,4,Lieutenant Governor,,DEM,Mike Collier,6,4,10
-Bailey,1,Attorney General,,DEM,Justin Nelson,1,2,3
-Bailey,2,Attorney General,,DEM,Justin Nelson,2,6,8
-Bailey,3,Attorney General,,DEM,Justin Nelson,6,4,10
-Bailey,4,Attorney General,,DEM,Justin Nelson,8,3,11
-Bailey,1,Comptroller of Public Accounts,,DEM,Tim Mahoney,0,1,1
-Bailey,2,Comptroller of Public Accounts,,DEM,Tim Mahoney,0,3,3
-Bailey,3,Comptroller of Public Accounts,,DEM,Tim Mahoney,4,2,6
-Bailey,4,Comptroller of Public Accounts,,DEM,Tim Mahoney,7,5,12
-Bailey,1,Comptroller of Public Accounts,,DEM,Joi Chevalier,4,1,5
-Bailey,2,Comptroller of Public Accounts,,DEM,Joi Chevalier,3,2,5
-Bailey,3,Comptroller of Public Accounts,,DEM,Joi Chevalier,2,1,3
-Bailey,4,Comptroller of Public Accounts,,DEM,Joi Chevalier,3,2,5
-Bailey,1,Commissioner of the General Land Office,,DEM,Miguel Suazo,0,2,2
-Bailey,2,Commissioner of the General Land Office,,DEM,Miguel Suazo,2,2,4
-Bailey,3,Commissioner of the General Land Office,,DEM,Miguel Suazo,5,2,7
-Bailey,4,Commissioner of the General Land Office,,DEM,Miguel Suazo,9,5,14
-Bailey,1,Commissioner of the General Land Office,,DEM,Tex Morgan,1,2,3
-Bailey,2,Commissioner of the General Land Office,,DEM,Tex Morgan,1,3,4
-Bailey,3,Commissioner of the General Land Office,,DEM,Tex Morgan,2,1,3
+Bailey,2,Lieutenant Governor,,DEM,Mike Collier,4,1,3
+Bailey,3,Lieutenant Governor,,DEM,Mike Collier,3,1,2
+Bailey,4,Lieutenant Governor,,DEM,Mike Collier,10,4,6
+Bailey,1,Attorney General,,DEM,Justin Nelson,3,2,1
+Bailey,2,Attorney General,,DEM,Justin Nelson,8,6,2
+Bailey,3,Attorney General,,DEM,Justin Nelson,10,4,6
+Bailey,4,Attorney General,,DEM,Justin Nelson,11,3,8
+Bailey,1,Comptroller of Public Accounts,,DEM,Tim Mahoney,1,1,0
+Bailey,2,Comptroller of Public Accounts,,DEM,Tim Mahoney,3,3,0
+Bailey,3,Comptroller of Public Accounts,,DEM,Tim Mahoney,6,2,4
+Bailey,4,Comptroller of Public Accounts,,DEM,Tim Mahoney,12,5,7
+Bailey,1,Comptroller of Public Accounts,,DEM,Joi Chevalier,5,1,4
+Bailey,2,Comptroller of Public Accounts,,DEM,Joi Chevalier,5,2,3
+Bailey,3,Comptroller of Public Accounts,,DEM,Joi Chevalier,3,1,2
+Bailey,4,Comptroller of Public Accounts,,DEM,Joi Chevalier,5,2,3
+Bailey,1,Commissioner of the General Land Office,,DEM,Miguel Suazo,2,2,0
+Bailey,2,Commissioner of the General Land Office,,DEM,Miguel Suazo,4,2,2
+Bailey,3,Commissioner of the General Land Office,,DEM,Miguel Suazo,7,2,5
+Bailey,4,Commissioner of the General Land Office,,DEM,Miguel Suazo,14,5,9
+Bailey,1,Commissioner of the General Land Office,,DEM,Tex Morgan,3,2,1
+Bailey,2,Commissioner of the General Land Office,,DEM,Tex Morgan,4,3,1
+Bailey,3,Commissioner of the General Land Office,,DEM,Tex Morgan,3,1,2
 Bailey,4,Commissioner of the General Land Office,,DEM,Tex Morgan,2,0,2
-Bailey,1,Commissioner of Agriculture,,DEM,Kim Olson,1,2,3
-Bailey,2,Commissioner of Agriculture,,DEM,Kim Olson,1,6,7
-Bailey,3,Commissioner of Agriculture,,DEM,Kim Olson,5,5,10
-Bailey,4,Commissioner of Agriculture,,DEM,Kim Olson,4,3,7
-Bailey,1,Railroad Commissioner,,DEM,Chris Spellmon,0,1,1
-Bailey,2,Railroad Commissioner,,DEM,Chris Spellmon,0,3,3
-Bailey,3,Railroad Commissioner,,DEM,Chris Spellmon,0,2,2
+Bailey,1,Commissioner of Agriculture,,DEM,Kim Olson,3,2,1
+Bailey,2,Commissioner of Agriculture,,DEM,Kim Olson,7,6,1
+Bailey,3,Commissioner of Agriculture,,DEM,Kim Olson,10,5,5
+Bailey,4,Commissioner of Agriculture,,DEM,Kim Olson,7,3,4
+Bailey,1,Railroad Commissioner,,DEM,Chris Spellmon,1,1,0
+Bailey,2,Railroad Commissioner,,DEM,Chris Spellmon,3,3,0
+Bailey,3,Railroad Commissioner,,DEM,Chris Spellmon,2,2,0
 Bailey,4,Railroad Commissioner,,DEM,Chris Spellmon,3,0,3
-Bailey,1,Railroad Commissioner,,DEM,Roman McAllen,1,4,5
-Bailey,2,Railroad Commissioner,,DEM,Roman McAllen,3,2,5
-Bailey,3,Railroad Commissioner,,DEM,Roman McAllen,5,1,6
-Bailey,4,Railroad Commissioner,,DEM,Roman McAllen,8,4,12
-Bailey,1,State Representative,88,DEM,Ezekiel Barron,1,1,2
-Bailey,2,State Representative,88,DEM,Ezekiel Barron,3,6,9
-Bailey,3,State Representative,88,DEM,Ezekiel Barron,4,4,8
-Bailey,4,State Representative,88,DEM,Ezekiel Barron,6,4,10
+Bailey,1,Railroad Commissioner,,DEM,Roman McAllen,5,4,1
+Bailey,2,Railroad Commissioner,,DEM,Roman McAllen,5,2,3
+Bailey,3,Railroad Commissioner,,DEM,Roman McAllen,6,1,5
+Bailey,4,Railroad Commissioner,,DEM,Roman McAllen,12,4,8
+Bailey,1,State Representative,88,DEM,Ezekiel Barron,2,1,1
+Bailey,2,State Representative,88,DEM,Ezekiel Barron,9,6,3
+Bailey,3,State Representative,88,DEM,Ezekiel Barron,8,4,4
+Bailey,4,State Representative,88,DEM,Ezekiel Barron,10,4,6

@@ -1,77 +1,77 @@
-county,precinct,office,district,party,candidate,election_day,early_voting_ts,early_voting_os,early_voting,votes
+county,precinct,office,district,party,candidate,votes,election_day,early_voting,early_voting_ts,early_voting_os
 Sherman,101,U.S. Senator,,REP,Stefano de Stefano,0,0,0,0,0
-Sherman,101,U.S. Senator,,REP,"Bruce Jacobson, Jr.",1,0,0,0,1
+Sherman,101,U.S. Senator,,REP,"Bruce Jacobson, Jr.",1,1,0,0,0
 Sherman,101,U.S. Senator,,REP,Geraldine Sam,0,0,0,0,0
-Sherman,101,U.S. Senator,,REP,Ted Cruz,18,11,0,11,29
+Sherman,101,U.S. Senator,,REP,Ted Cruz,29,18,11,11,0
 Sherman,101,U.S. Senator,,REP,Mary Miller,0,0,0,0,0
-Sherman,101,U.S. House,13,REP,Mac Thornberry,20,10,0,10,30
-Sherman,101,Governor,,REP,SECEDE Kilgore,2,0,0,0,2
-Sherman,101,Governor,,REP,Greg Abbott,16,11,0,11,27
-Sherman,101,Governor,,REP,Barbara Krueger,1,0,0,0,1
-Sherman,101,Lt. Governor,,REP,Scott Milder,5,3,0,3,8
-Sherman,101,Lt. Governor,,REP,Dan Patrick,14,7,0,7,21
-Sherman,101,Attorney General,,REP,Ken Paxton,18,9,0,9,27
-Sherman,101,Comptroller of Public Accounts,,REP,Glenn Hegar,17,7,0,7,24
+Sherman,101,U.S. House,13,REP,Mac Thornberry,30,20,10,10,0
+Sherman,101,Governor,,REP,SECEDE Kilgore,2,2,0,0,0
+Sherman,101,Governor,,REP,Greg Abbott,27,16,11,11,0
+Sherman,101,Governor,,REP,Barbara Krueger,1,1,0,0,0
+Sherman,101,Lt. Governor,,REP,Scott Milder,8,5,3,3,0
+Sherman,101,Lt. Governor,,REP,Dan Patrick,21,14,7,7,0
+Sherman,101,Attorney General,,REP,Ken Paxton,27,18,9,9,0
+Sherman,101,Comptroller of Public Accounts,,REP,Glenn Hegar,24,17,7,7,0
 Sherman,101,Comm of the General Land Office,,REP,Davey Edwards,0,0,0,0,0
-Sherman,101,Comm of the General Land Office,,REP,Jerry Patterson,4,3,0,3,7
-Sherman,101,Comm of the General Land Office,,REP,George P. Bush,16,5,0,5,21
+Sherman,101,Comm of the General Land Office,,REP,Jerry Patterson,7,4,3,3,0
+Sherman,101,Comm of the General Land Office,,REP,George P. Bush,21,16,5,5,0
 Sherman,101,Comm of the General Land Office,,REP,Rick Range,0,0,0,0,0
-Sherman,101,Comm of Agriculture,,REP,Jim Hogan,2,3,0,3,5
-Sherman,101,Comm of Agriculture,,REP,Sid Miller,12,1,0,1,13
-Sherman,101,Comm of Agriculture,,REP,Trey Blocker,4,4,0,4,8
-Sherman,101,Railroad Comm,,REP,Weston Martinez,2,1,0,1,3
-Sherman,101,Railroad Comm,,REP,Christi Craddick,15,6,0,6,21
-Sherman,101,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,18,8,0,8,26
-Sherman,101,"Justice, Supreme Court, Place 4",,REP,John Devine,18,8,0,8,26
-Sherman,101,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,18,8,0,8,26
-Sherman,101,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,9,2,0,2,11
-Sherman,101,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,9,4,0,4,13
-Sherman,101,"Judge, Court Of Criminal Appeals, Place 7",,REP,Barbara P. Hervey,18,7,0,7,25
-Sherman,101,"Judge, Court of Criminal Apeals, Place 8",,REP,Jay Brandon,4,2,0,2,6
-Sherman,101,"Judge, Court of Criminal Apeals, Place 8",,REP,Michelle Slaughter,9,2,0,2,11
-Sherman,101,"Judge, Court of Criminal Apeals, Place 8",,REP,Dib Waldrip,3,2,0,2,5
-Sherman,101,State Senator,31,REP,Victor Leal,10,7,0,7,17
-Sherman,101,State Senator,31,REP,Mike Canon,0,1,0,1,1
-Sherman,101,State Senator,31,REP,Kel Seliger,10,3,0,3,13
-Sherman,101,State Representative,87,REP,Drew Brassfield,3,1,0,1,4
-Sherman,101,State Representative,87,REP,Four Price,17,10,0,10,27
-Sherman,101,"Justice, 7th Court of Appeals Dist, Place 2",,REP,Judy Parker,18,7,0,7,25
-Sherman,101,"Justice, 7th Court Of Appeals Dist, Place 3",,REP,Pat Pirtle,18,7,0,7,25
-Sherman,101,"District Judge, 69th Judicial Dist",,REP,Ron Enns,18,9,0,9,27
-Sherman,101,County Judge,,REP,Terri Beth Carter,17,10,0,10,27
-Sherman,101,District and County Clerk,,REP,Laura Rogers,12,6,0,6,18
-Sherman,101,District and County Clerk,,REP,Maida Reyes,5,5,0,5,10
-Sherman,101,District and County Clerk,,REP,Billye Zak,3,1,0,1,4
-Sherman,101,County Treasurer,,REP,Doris Parsons,20,11,0,11,31
-Sherman,101,Justice of the Peace,,REP,Margaret Ewers,8,6,0,6,14
-Sherman,101,Justice of the Peace,,REP,Shannon Sellers,2,0,0,0,2
-Sherman,101,Justice of the Peace,,REP,Brenda J. Acker,10,6,0,6,16
-Sherman,101,County Chairman,,REP,Susie E Spurlock,18,9,0,9,27
-Sherman,101,Proposition 1,,REP,FOR,14,6,0,6,20
-Sherman,101,Proposition 1,,REP,AGAINST,3,3,0,3,6
-Sherman,101,Proposition 2,,REP,FOR,17,8,0,8,25
-Sherman,101,Proposition 2,,REP,AGAINST,1,1,0,1,2
-Sherman,101,Proposition 3,,REP,FOR,18,9,0,9,27
-Sherman,101,Proposition 3,,REP,AGAINST,1,1,0,1,2
-Sherman,101,Proposition 4,,REP,FOR,17,9,0,9,26
-Sherman,101,Proposition 4,,REP,AGAINST,2,0,0,0,2
-Sherman,101,Proposition 5,,REP,FOR,12,6,0,6,18
-Sherman,101,Proposition 5,,REP,AGAINST,7,3,0,3,10
-Sherman,101,Proposition 6,,REP,FOR,19,9,0,9,28
+Sherman,101,Comm of Agriculture,,REP,Jim Hogan,5,2,3,3,0
+Sherman,101,Comm of Agriculture,,REP,Sid Miller,13,12,1,1,0
+Sherman,101,Comm of Agriculture,,REP,Trey Blocker,8,4,4,4,0
+Sherman,101,Railroad Comm,,REP,Weston Martinez,3,2,1,1,0
+Sherman,101,Railroad Comm,,REP,Christi Craddick,21,15,6,6,0
+Sherman,101,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,26,18,8,8,0
+Sherman,101,"Justice, Supreme Court, Place 4",,REP,John Devine,26,18,8,8,0
+Sherman,101,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,26,18,8,8,0
+Sherman,101,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,11,9,2,2,0
+Sherman,101,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,13,9,4,4,0
+Sherman,101,"Judge, Court Of Criminal Appeals, Place 7",,REP,Barbara P. Hervey,25,18,7,7,0
+Sherman,101,"Judge, Court of Criminal Apeals, Place 8",,REP,Jay Brandon,6,4,2,2,0
+Sherman,101,"Judge, Court of Criminal Apeals, Place 8",,REP,Michelle Slaughter,11,9,2,2,0
+Sherman,101,"Judge, Court of Criminal Apeals, Place 8",,REP,Dib Waldrip,5,3,2,2,0
+Sherman,101,State Senator,31,REP,Victor Leal,17,10,7,7,0
+Sherman,101,State Senator,31,REP,Mike Canon,1,0,1,1,0
+Sherman,101,State Senator,31,REP,Kel Seliger,13,10,3,3,0
+Sherman,101,State Representative,87,REP,Drew Brassfield,4,3,1,1,0
+Sherman,101,State Representative,87,REP,Four Price,27,17,10,10,0
+Sherman,101,"Justice, 7th Court of Appeals Dist, Place 2",,REP,Judy Parker,25,18,7,7,0
+Sherman,101,"Justice, 7th Court Of Appeals Dist, Place 3",,REP,Pat Pirtle,25,18,7,7,0
+Sherman,101,"District Judge, 69th Judicial Dist",,REP,Ron Enns,27,18,9,9,0
+Sherman,101,County Judge,,REP,Terri Beth Carter,27,17,10,10,0
+Sherman,101,District and County Clerk,,REP,Laura Rogers,18,12,6,6,0
+Sherman,101,District and County Clerk,,REP,Maida Reyes,10,5,5,5,0
+Sherman,101,District and County Clerk,,REP,Billye Zak,4,3,1,1,0
+Sherman,101,County Treasurer,,REP,Doris Parsons,31,20,11,11,0
+Sherman,101,Justice of the Peace,,REP,Margaret Ewers,14,8,6,6,0
+Sherman,101,Justice of the Peace,,REP,Shannon Sellers,2,2,0,0,0
+Sherman,101,Justice of the Peace,,REP,Brenda J. Acker,16,10,6,6,0
+Sherman,101,County Chairman,,REP,Susie E Spurlock,27,18,9,9,0
+Sherman,101,Proposition 1,,REP,FOR,20,14,6,6,0
+Sherman,101,Proposition 1,,REP,AGAINST,6,3,3,3,0
+Sherman,101,Proposition 2,,REP,FOR,25,17,8,8,0
+Sherman,101,Proposition 2,,REP,AGAINST,2,1,1,1,0
+Sherman,101,Proposition 3,,REP,FOR,27,18,9,9,0
+Sherman,101,Proposition 3,,REP,AGAINST,2,1,1,1,0
+Sherman,101,Proposition 4,,REP,FOR,26,17,9,9,0
+Sherman,101,Proposition 4,,REP,AGAINST,2,2,0,0,0
+Sherman,101,Proposition 5,,REP,FOR,18,12,6,6,0
+Sherman,101,Proposition 5,,REP,AGAINST,10,7,3,3,0
+Sherman,101,Proposition 6,,REP,FOR,28,19,9,9,0
 Sherman,101,Proposition 6,,REP,AGAINST,0,0,0,0,0
-Sherman,101,Proposition 7,,REP,FOR,11,7,0,7,18
-Sherman,101,Proposition 7,,REP,AGAINST,7,2,0,2,9
-Sherman,101,Proposition 8,,REP,FOR,19,11,0,11,30
+Sherman,101,Proposition 7,,REP,FOR,18,11,7,7,0
+Sherman,101,Proposition 7,,REP,AGAINST,9,7,2,2,0
+Sherman,101,Proposition 8,,REP,FOR,30,19,11,11,0
 Sherman,101,Proposition 8,,REP,AGAINST,0,0,0,0,0
-Sherman,101,Proposition 9,,REP,FOR,19,10,0,10,29
-Sherman,101,Proposition 9,,REP,AGAINST,0,1,0,1,1
-Sherman,101,Proposition 10,,REP,FOR,16,9,0,9,25
-Sherman,101,Proposition 10,,REP,AGAINST,2,1,0,1,3
-Sherman,101,Proposition 11,,REP,FOR,15,12,0,12,27
-Sherman,101,Proposition 11,,REP,AGAINST,4,0,0,0,4
+Sherman,101,Proposition 9,,REP,FOR,29,19,10,10,0
+Sherman,101,Proposition 9,,REP,AGAINST,1,0,1,1,0
+Sherman,101,Proposition 10,,REP,FOR,25,16,9,9,0
+Sherman,101,Proposition 10,,REP,AGAINST,3,2,1,1,0
+Sherman,101,Proposition 11,,REP,FOR,27,15,12,12,0
+Sherman,101,Proposition 11,,REP,AGAINST,4,4,0,0,0
 Sherman,101,U.S. Senator,,DEM,Edward Kimbrough,0,0,0,0,0
 Sherman,101,U.S. Senator,,DEM,Beto O'Rourke,0,0,0,0,0
-Sherman,101,U.S. Senator,,DEM,Sema Hernandez,0,1,0,1,1
+Sherman,101,U.S. Senator,,DEM,Sema Hernandez,1,0,1,1,0
 Sherman,101,U.S. House,13,DEM,Greg Sagan,0,0,0,0,0
 Sherman,101,Governor,,DEM,Adrian Ocegueda,0,0,0,0,0
 Sherman,101,Governor,,DEM,Joe Mumbach,0,0,0,0,0
@@ -79,250 +79,250 @@ Sherman,101,Governor,,DEM,James Jolly Clark,0,0,0,0,0
 Sherman,101,Governor,,DEM,"Cedric Davis, Sr.",0,0,0,0,0
 Sherman,101,Governor,,DEM,Jeffrey Payne,0,0,0,0,0
 Sherman,101,Governor,,DEM,Tom Wakely,0,0,0,0,0
-Sherman,101,Governor,,DEM,Lupe Valdez,0,1,0,1,1
+Sherman,101,Governor,,DEM,Lupe Valdez,1,0,1,1,0
 Sherman,101,Governor,,DEM,Grady Yarbrough,0,0,0,0,0
 Sherman,101,Governor,,DEM,Andrew White,0,0,0,0,0
 Sherman,101,Lt. Governor,,DEM,Mike Collier,0,0,0,0,0
-Sherman,101,Lt. Governor,,DEM,Michael Cooper,0,1,0,1,1
-Sherman,101,Attorney General,,DEM,Justin Nelson,0,1,0,1,1
+Sherman,101,Lt. Governor,,DEM,Michael Cooper,1,0,1,1,0
+Sherman,101,Attorney General,,DEM,Justin Nelson,1,0,1,1,0
 Sherman,101,Comptroller of Public Accounts,,DEM,Tim Mahoney,0,0,0,0,0
 Sherman,101,Comptroller of Public Accounts,,DEM,Joi Chevalier,0,0,0,0,0
 Sherman,101,Comm of the General Land Office,,DEM,Miguel Suazo,0,0,0,0,0
 Sherman,101,Comm of the General Land Office,,DEM,Tex Morgan,0,0,0,0,0
 Sherman,101,Comm of Agriculture,,DEM,Kim Olson,0,0,0,0,0
-Sherman,101,Railroad Comm,,DEM,Roman McAllen,0,1,0,1,1
+Sherman,101,Railroad Comm,,DEM,Roman McAllen,1,0,1,1,0
 Sherman,101,Railroad Comm,,DEM,Chris Spellmon,0,0,0,0,0
 Sherman,101,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,0,0,0,0,0
-Sherman,101,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,0,1,0,1,1
+Sherman,101,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,1,0,1,1,0
 Sherman,101,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,0,0,0,0,0
-Sherman,101,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. Jackson,0,1,0,1,1
+Sherman,101,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. Jackson,1,0,1,1,0
 Sherman,101,"Judge, Court Of Criminal Appeals, Place 7",,DEM,Ramona Franklin,0,0,0,0,0
-Sherman,101,County Chair,,DEM,Mildred Hacker,0,1,0,1,1
-Sherman,101,Proposition #1 ,,DEM,FOR,0,1,0,1,1
+Sherman,101,County Chair,,DEM,Mildred Hacker,1,0,1,1,0
+Sherman,101,Proposition #1 ,,DEM,FOR,1,0,1,1,0
 Sherman,101,Proposition #1 ,,DEM,AGAINST,0,0,0,0,0
-Sherman,101,Proposition #2,,DEM,FOR,0,1,0,1,1
+Sherman,101,Proposition #2,,DEM,FOR,1,0,1,1,0
 Sherman,101,Proposition #2,,DEM,AGAINST,0,0,0,0,0
 Sherman,101,Proposition #3,,DEM,FOR,0,0,0,0,0
-Sherman,101,Proposition #3,,DEM,AGAINST,0,1,0,1,1
-Sherman,101,Proposition #4,,DEM,FOR,0,1,0,1,1
+Sherman,101,Proposition #3,,DEM,AGAINST,1,0,1,1,0
+Sherman,101,Proposition #4,,DEM,FOR,1,0,1,1,0
 Sherman,101,Proposition #4,,DEM,AGAINST,0,0,0,0,0
-Sherman,101,Proposition #5,,DEM,FOR,0,1,0,1,1
+Sherman,101,Proposition #5,,DEM,FOR,1,0,1,1,0
 Sherman,101,Proposition #5,,DEM,AGAINST,0,0,0,0,0
-Sherman,101,Proposition #6,,DEM,FOR,0,1,0,1,1
+Sherman,101,Proposition #6,,DEM,FOR,1,0,1,1,0
 Sherman,101,Proposition #6,,DEM,AGAINST,0,0,0,0,0
-Sherman,101,Proposition #7,,DEM,FOR,0,1,0,1,1
+Sherman,101,Proposition #7,,DEM,FOR,1,0,1,1,0
 Sherman,101,Proposition #7,,DEM,AGAINST,0,0,0,0,0
-Sherman,101,Proposition #8,,DEM,FOR,0,1,0,1,1
+Sherman,101,Proposition #8,,DEM,FOR,1,0,1,1,0
 Sherman,101,Proposition #8,,DEM,AGAINST,0,0,0,0,0
-Sherman,101,Proposition #9,,DEM,FOR,0,1,0,1,1
+Sherman,101,Proposition #9,,DEM,FOR,1,0,1,1,0
 Sherman,101,Proposition #9,,DEM,AGAINST,0,0,0,0,0
-Sherman,101,Proposition #10,,DEM,FOR,0,1,0,1,1
+Sherman,101,Proposition #10,,DEM,FOR,1,0,1,1,0
 Sherman,101,Proposition #10,,DEM,AGAINST,0,0,0,0,0
-Sherman,101,Proposition #11,,DEM,FOR,0,1,0,1,1
+Sherman,101,Proposition #11,,DEM,FOR,1,0,1,1,0
 Sherman,101,Proposition #11,,DEM,AGAINST,0,0,0,0,0
-Sherman,101,Proposition #12,,DEM,FOR,0,1,0,1,1
+Sherman,101,Proposition #12,,DEM,FOR,1,0,1,1,0
 Sherman,101,Proposition #12,,DEM,AGAINST,0,0,0,0,0
-Sherman,102,U.S. Senator,,REP,Stefano de Stefano,0,1,0,1,1
-Sherman,102,U.S. Senator,,REP,"Bruce Jacobson, Jr.",0,1,0,1,1
+Sherman,102,U.S. Senator,,REP,Stefano de Stefano,1,0,1,1,0
+Sherman,102,U.S. Senator,,REP,"Bruce Jacobson, Jr.",1,0,1,1,0
 Sherman,102,U.S. Senator,,REP,Geraldine Sam,0,0,0,0,0
-Sherman,102,U.S. Senator,,REP,Ted Cruz,37,39,1,40,77
-Sherman,102,U.S. Senator,,REP,Mary Miller,3,4,0,4,7
-Sherman,102,U.S. House,13,REP,Mac Thornberry,38,45,1,46,84
-Sherman,102,Governor,,REP,SECEDE Kilgore,0,1,0,1,1
-Sherman,102,Governor,,REP,Greg Abbott,32,40,1,41,73
-Sherman,102,Governor,,REP,Barbara Krueger,4,3,0,3,7
-Sherman,102,Lt. Governor,,REP,Scott Milder,17,18,1,19,36
-Sherman,102,Lt. Governor,,REP,Dan Patrick,23,26,0,26,49
-Sherman,102,Attorney General,,REP,Ken Paxton,37,40,1,41,78
-Sherman,102,Comptroller of Public Accounts,,REP,Glenn Hegar,37,35,1,36,73
-Sherman,102,Comm of the General Land Office,,REP,Davey Edwards,0,3,0,3,3
-Sherman,102,Comm of the General Land Office,,REP,Jerry Patterson,4,3,0,3,7
-Sherman,102,Comm of the General Land Office,,REP,George P. Bush,32,31,1,32,64
-Sherman,102,Comm of the General Land Office,,REP,Rick Range,3,1,0,1,4
-Sherman,102,Comm of Agriculture,,REP,Jim Hogan,11,6,0,6,17
-Sherman,102,Comm of Agriculture,,REP,Sid Miller,19,25,1,26,45
-Sherman,102,Comm of Agriculture,,REP,Trey Blocker,8,6,0,6,14
-Sherman,102,Railroad Comm,,REP,Weston Martinez,14,15,1,16,30
-Sherman,102,Railroad Comm,,REP,Christi Craddick,24,22,0,22,46
-Sherman,102,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,36,36,1,37,73
-Sherman,102,"Justice, Supreme Court, Place 4",,REP,John Devine,36,37,1,38,74
-Sherman,102,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,36,37,1,38,74
-Sherman,102,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,14,15,1,16,30
-Sherman,102,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,22,21,0,21,43
-Sherman,102,"Judge, Court Of Criminal Appeals, Place 7",,REP,Barbara P. Hervey,36,35,1,36,72
-Sherman,102,"Judge, Court of Criminal Apeals, Place 8",,REP,Jay Brandon,24,15,0,15,39
-Sherman,102,"Judge, Court of Criminal Apeals, Place 8",,REP,Michelle Slaughter,8,12,1,13,21
-Sherman,102,"Judge, Court of Criminal Apeals, Place 8",,REP,Dib Waldrip,4,6,0,6,10
-Sherman,102,State Senator,31,REP,Victor Leal,12,23,1,24,36
-Sherman,102,State Senator,31,REP,Mike Canon,5,2,0,2,7
-Sherman,102,State Senator,31,REP,Kel Seliger,23,23,0,23,46
-Sherman,102,State Representative,87,REP,Drew Brassfield,6,4,0,4,10
-Sherman,102,State Representative,87,REP,Four Price,31,42,1,43,74
-Sherman,102,"Justice, 7th Court of Appeals Dist, Place 2",,REP,Judy Parker,37,35,1,36,73
-Sherman,102,"Justice, 7th Court Of Appeals Dist, Place 3",,REP,Pat Pirtle,35,36,1,37,72
-Sherman,102,"District Judge, 69th Judicial Dist",,REP,Ron Enns,37,46,1,47,84
-Sherman,102,County Judge,,REP,Terri Beth Carter,38,44,2,46,84
-Sherman,102,District and County Clerk,,REP,Laura Rogers,20,19,1,20,40
-Sherman,102,District and County Clerk,,REP,Maida Reyes,7,23,1,24,31
-Sherman,102,District and County Clerk,,REP,Billye Zak,13,6,0,6,19
-Sherman,102,County Treasurer,,REP,Doris Parsons,39,44,2,46,85
-Sherman,102,Justice of the Peace,,REP,Margaret Ewers,11,16,1,17,28
-Sherman,102,Justice of the Peace,,REP,Shannon Sellers,4,1,0,1,5
-Sherman,102,Justice of the Peace,,REP,Brenda J. Acker,25,31,1,32,57
-Sherman,102,County Chairman,,REP,Susie E Spurlock,39,44,1,45,84
-Sherman,102,Proposition 1,,REP,FOR,21,27,1,28,49
-Sherman,102,Proposition 1,,REP,AGAINST,17,15,0,15,32
-Sherman,102,Proposition 2,,REP,FOR,37,40,1,41,78
-Sherman,102,Proposition 2,,REP,AGAINST,2,3,0,3,5
-Sherman,102,Proposition 3,,REP,FOR,36,35,1,36,72
-Sherman,102,Proposition 3,,REP,AGAINST,4,7,0,7,11
-Sherman,102,Proposition 4,,REP,FOR,36,37,1,38,74
-Sherman,102,Proposition 4,,REP,AGAINST,4,6,0,6,10
-Sherman,102,Proposition 5,,REP,FOR,27,25,0,25,52
-Sherman,102,Proposition 5,,REP,AGAINST,13,19,1,20,33
-Sherman,102,Proposition 6,,REP,FOR,37,42,1,43,80
-Sherman,102,Proposition 6,,REP,AGAINST,3,4,0,4,7
-Sherman,102,Proposition 7,,REP,FOR,29,32,0,32,61
-Sherman,102,Proposition 7,,REP,AGAINST,10,13,1,14,24
-Sherman,102,Proposition 8,,REP,FOR,37,44,1,45,82
-Sherman,102,Proposition 8,,REP,AGAINST,3,1,0,1,4
-Sherman,102,Proposition 9,,REP,FOR,36,41,1,42,78
-Sherman,102,Proposition 9,,REP,AGAINST,4,5,0,5,9
-Sherman,102,Proposition 10,,REP,FOR,36,39,1,40,76
-Sherman,102,Proposition 10,,REP,AGAINST,2,7,0,7,9
-Sherman,102,Proposition 11,,REP,FOR,34,37,1,38,72
-Sherman,102,Proposition 11,,REP,AGAINST,4,7,0,7,11
-Sherman,102,U.S. Senator,,DEM,Edward Kimbrough,0,2,0,2,2
-Sherman,102,U.S. Senator,,DEM,Beto O'Rourke,1,2,0,2,3
-Sherman,102,U.S. Senator,,DEM,Sema Hernandez,0,1,0,1,1
-Sherman,102,U.S. House,13,DEM,Greg Sagan,0,4,0,4,4
+Sherman,102,U.S. Senator,,REP,Ted Cruz,77,37,40,39,1
+Sherman,102,U.S. Senator,,REP,Mary Miller,7,3,4,4,0
+Sherman,102,U.S. House,13,REP,Mac Thornberry,84,38,46,45,1
+Sherman,102,Governor,,REP,SECEDE Kilgore,1,0,1,1,0
+Sherman,102,Governor,,REP,Greg Abbott,73,32,41,40,1
+Sherman,102,Governor,,REP,Barbara Krueger,7,4,3,3,0
+Sherman,102,Lt. Governor,,REP,Scott Milder,36,17,19,18,1
+Sherman,102,Lt. Governor,,REP,Dan Patrick,49,23,26,26,0
+Sherman,102,Attorney General,,REP,Ken Paxton,78,37,41,40,1
+Sherman,102,Comptroller of Public Accounts,,REP,Glenn Hegar,73,37,36,35,1
+Sherman,102,Comm of the General Land Office,,REP,Davey Edwards,3,0,3,3,0
+Sherman,102,Comm of the General Land Office,,REP,Jerry Patterson,7,4,3,3,0
+Sherman,102,Comm of the General Land Office,,REP,George P. Bush,64,32,32,31,1
+Sherman,102,Comm of the General Land Office,,REP,Rick Range,4,3,1,1,0
+Sherman,102,Comm of Agriculture,,REP,Jim Hogan,17,11,6,6,0
+Sherman,102,Comm of Agriculture,,REP,Sid Miller,45,19,26,25,1
+Sherman,102,Comm of Agriculture,,REP,Trey Blocker,14,8,6,6,0
+Sherman,102,Railroad Comm,,REP,Weston Martinez,30,14,16,15,1
+Sherman,102,Railroad Comm,,REP,Christi Craddick,46,24,22,22,0
+Sherman,102,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,73,36,37,36,1
+Sherman,102,"Justice, Supreme Court, Place 4",,REP,John Devine,74,36,38,37,1
+Sherman,102,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,74,36,38,37,1
+Sherman,102,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,30,14,16,15,1
+Sherman,102,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,43,22,21,21,0
+Sherman,102,"Judge, Court Of Criminal Appeals, Place 7",,REP,Barbara P. Hervey,72,36,36,35,1
+Sherman,102,"Judge, Court of Criminal Apeals, Place 8",,REP,Jay Brandon,39,24,15,15,0
+Sherman,102,"Judge, Court of Criminal Apeals, Place 8",,REP,Michelle Slaughter,21,8,13,12,1
+Sherman,102,"Judge, Court of Criminal Apeals, Place 8",,REP,Dib Waldrip,10,4,6,6,0
+Sherman,102,State Senator,31,REP,Victor Leal,36,12,24,23,1
+Sherman,102,State Senator,31,REP,Mike Canon,7,5,2,2,0
+Sherman,102,State Senator,31,REP,Kel Seliger,46,23,23,23,0
+Sherman,102,State Representative,87,REP,Drew Brassfield,10,6,4,4,0
+Sherman,102,State Representative,87,REP,Four Price,74,31,43,42,1
+Sherman,102,"Justice, 7th Court of Appeals Dist, Place 2",,REP,Judy Parker,73,37,36,35,1
+Sherman,102,"Justice, 7th Court Of Appeals Dist, Place 3",,REP,Pat Pirtle,72,35,37,36,1
+Sherman,102,"District Judge, 69th Judicial Dist",,REP,Ron Enns,84,37,47,46,1
+Sherman,102,County Judge,,REP,Terri Beth Carter,84,38,46,44,2
+Sherman,102,District and County Clerk,,REP,Laura Rogers,40,20,20,19,1
+Sherman,102,District and County Clerk,,REP,Maida Reyes,31,7,24,23,1
+Sherman,102,District and County Clerk,,REP,Billye Zak,19,13,6,6,0
+Sherman,102,County Treasurer,,REP,Doris Parsons,85,39,46,44,2
+Sherman,102,Justice of the Peace,,REP,Margaret Ewers,28,11,17,16,1
+Sherman,102,Justice of the Peace,,REP,Shannon Sellers,5,4,1,1,0
+Sherman,102,Justice of the Peace,,REP,Brenda J. Acker,57,25,32,31,1
+Sherman,102,County Chairman,,REP,Susie E Spurlock,84,39,45,44,1
+Sherman,102,Proposition 1,,REP,FOR,49,21,28,27,1
+Sherman,102,Proposition 1,,REP,AGAINST,32,17,15,15,0
+Sherman,102,Proposition 2,,REP,FOR,78,37,41,40,1
+Sherman,102,Proposition 2,,REP,AGAINST,5,2,3,3,0
+Sherman,102,Proposition 3,,REP,FOR,72,36,36,35,1
+Sherman,102,Proposition 3,,REP,AGAINST,11,4,7,7,0
+Sherman,102,Proposition 4,,REP,FOR,74,36,38,37,1
+Sherman,102,Proposition 4,,REP,AGAINST,10,4,6,6,0
+Sherman,102,Proposition 5,,REP,FOR,52,27,25,25,0
+Sherman,102,Proposition 5,,REP,AGAINST,33,13,20,19,1
+Sherman,102,Proposition 6,,REP,FOR,80,37,43,42,1
+Sherman,102,Proposition 6,,REP,AGAINST,7,3,4,4,0
+Sherman,102,Proposition 7,,REP,FOR,61,29,32,32,0
+Sherman,102,Proposition 7,,REP,AGAINST,24,10,14,13,1
+Sherman,102,Proposition 8,,REP,FOR,82,37,45,44,1
+Sherman,102,Proposition 8,,REP,AGAINST,4,3,1,1,0
+Sherman,102,Proposition 9,,REP,FOR,78,36,42,41,1
+Sherman,102,Proposition 9,,REP,AGAINST,9,4,5,5,0
+Sherman,102,Proposition 10,,REP,FOR,76,36,40,39,1
+Sherman,102,Proposition 10,,REP,AGAINST,9,2,7,7,0
+Sherman,102,Proposition 11,,REP,FOR,72,34,38,37,1
+Sherman,102,Proposition 11,,REP,AGAINST,11,4,7,7,0
+Sherman,102,U.S. Senator,,DEM,Edward Kimbrough,2,0,2,2,0
+Sherman,102,U.S. Senator,,DEM,Beto O'Rourke,3,1,2,2,0
+Sherman,102,U.S. Senator,,DEM,Sema Hernandez,1,0,1,1,0
+Sherman,102,U.S. House,13,DEM,Greg Sagan,4,0,4,4,0
 Sherman,102,Governor,,DEM,Adrian Ocegueda,0,0,0,0,0
 Sherman,102,Governor,,DEM,Joe Mumbach,0,0,0,0,0
 Sherman,102,Governor,,DEM,James Jolly Clark,0,0,0,0,0
-Sherman,102,Governor,,DEM,"Cedric Davis, Sr.",0,1,0,1,1
-Sherman,102,Governor,,DEM,Jeffrey Payne,0,1,0,1,1
+Sherman,102,Governor,,DEM,"Cedric Davis, Sr.",1,0,1,1,0
+Sherman,102,Governor,,DEM,Jeffrey Payne,1,0,1,1,0
 Sherman,102,Governor,,DEM,Tom Wakely,0,0,0,0,0
-Sherman,102,Governor,,DEM,Lupe Valdez,1,2,0,2,3
-Sherman,102,Governor,,DEM,Grady Yarbrough,0,1,0,1,1
+Sherman,102,Governor,,DEM,Lupe Valdez,3,1,2,2,0
+Sherman,102,Governor,,DEM,Grady Yarbrough,1,0,1,1,0
 Sherman,102,Governor,,DEM,Andrew White,0,0,0,0,0
-Sherman,102,Lt. Governor,,DEM,Mike Collier,0,3,0,3,3
-Sherman,102,Lt. Governor,,DEM,Michael Cooper,1,2,0,2,3
-Sherman,102,Attorney General,,DEM,Justin Nelson,0,5,0,5,5
-Sherman,102,Comptroller of Public Accounts,,DEM,Tim Mahoney,1,1,0,1,2
-Sherman,102,Comptroller of Public Accounts,,DEM,Joi Chevalier,0,3,0,3,3
-Sherman,102,Comm of the General Land Office,,DEM,Miguel Suazo,1,3,0,3,4
-Sherman,102,Comm of the General Land Office,,DEM,Tex Morgan,0,1,0,1,1
-Sherman,102,Comm of Agriculture,,DEM,Kim Olson,0,4,0,4,4
-Sherman,102,Railroad Comm,,DEM,Roman McAllen,1,2,0,2,3
-Sherman,102,Railroad Comm,,DEM,Chris Spellmon,0,3,0,3,3
-Sherman,102,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,0,4,0,4,4
-Sherman,102,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,0,4,0,4,4
-Sherman,102,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,0,4,0,4,4
-Sherman,102,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. Jackson,1,4,0,4,5
-Sherman,102,"Judge, Court Of Criminal Appeals, Place 7",,DEM,Ramona Franklin,0,4,0,4,4
-Sherman,102,County Chair,,DEM,Mildred Hacker,0,5,0,5,5
-Sherman,102,Proposition #1 ,,DEM,FOR,1,5,0,5,6
+Sherman,102,Lt. Governor,,DEM,Mike Collier,3,0,3,3,0
+Sherman,102,Lt. Governor,,DEM,Michael Cooper,3,1,2,2,0
+Sherman,102,Attorney General,,DEM,Justin Nelson,5,0,5,5,0
+Sherman,102,Comptroller of Public Accounts,,DEM,Tim Mahoney,2,1,1,1,0
+Sherman,102,Comptroller of Public Accounts,,DEM,Joi Chevalier,3,0,3,3,0
+Sherman,102,Comm of the General Land Office,,DEM,Miguel Suazo,4,1,3,3,0
+Sherman,102,Comm of the General Land Office,,DEM,Tex Morgan,1,0,1,1,0
+Sherman,102,Comm of Agriculture,,DEM,Kim Olson,4,0,4,4,0
+Sherman,102,Railroad Comm,,DEM,Roman McAllen,3,1,2,2,0
+Sherman,102,Railroad Comm,,DEM,Chris Spellmon,3,0,3,3,0
+Sherman,102,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,4,0,4,4,0
+Sherman,102,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,4,0,4,4,0
+Sherman,102,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,4,0,4,4,0
+Sherman,102,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. Jackson,5,1,4,4,0
+Sherman,102,"Judge, Court Of Criminal Appeals, Place 7",,DEM,Ramona Franklin,4,0,4,4,0
+Sherman,102,County Chair,,DEM,Mildred Hacker,5,0,5,5,0
+Sherman,102,Proposition #1 ,,DEM,FOR,6,1,5,5,0
 Sherman,102,Proposition #1 ,,DEM,AGAINST,0,0,0,0,0
-Sherman,102,Proposition #2,,DEM,FOR,1,4,0,4,5
-Sherman,102,Proposition #2,,DEM,AGAINST,0,1,0,1,1
-Sherman,102,Proposition #3,,DEM,FOR,1,5,0,5,6
+Sherman,102,Proposition #2,,DEM,FOR,5,1,4,4,0
+Sherman,102,Proposition #2,,DEM,AGAINST,1,0,1,1,0
+Sherman,102,Proposition #3,,DEM,FOR,6,1,5,5,0
 Sherman,102,Proposition #3,,DEM,AGAINST,0,0,0,0,0
-Sherman,102,Proposition #4,,DEM,FOR,1,5,0,5,6
+Sherman,102,Proposition #4,,DEM,FOR,6,1,5,5,0
 Sherman,102,Proposition #4,,DEM,AGAINST,0,0,0,0,0
-Sherman,102,Proposition #5,,DEM,FOR,1,4,0,4,5
-Sherman,102,Proposition #5,,DEM,AGAINST,0,1,0,1,1
-Sherman,102,Proposition #6,,DEM,FOR,1,5,0,5,6
+Sherman,102,Proposition #5,,DEM,FOR,5,1,4,4,0
+Sherman,102,Proposition #5,,DEM,AGAINST,1,0,1,1,0
+Sherman,102,Proposition #6,,DEM,FOR,6,1,5,5,0
 Sherman,102,Proposition #6,,DEM,AGAINST,0,0,0,0,0
-Sherman,102,Proposition #7,,DEM,FOR,1,5,0,5,6
+Sherman,102,Proposition #7,,DEM,FOR,6,1,5,5,0
 Sherman,102,Proposition #7,,DEM,AGAINST,0,0,0,0,0
-Sherman,102,Proposition #8,,DEM,FOR,1,4,0,4,5
-Sherman,102,Proposition #8,,DEM,AGAINST,0,1,0,1,1
-Sherman,102,Proposition #9,,DEM,FOR,0,5,0,5,5
-Sherman,102,Proposition #9,,DEM,AGAINST,1,0,0,0,1
-Sherman,102,Proposition #10,,DEM,FOR,1,4,0,4,5
-Sherman,102,Proposition #10,,DEM,AGAINST,0,1,0,1,1
-Sherman,102,Proposition #11,,DEM,FOR,1,5,0,5,6
+Sherman,102,Proposition #8,,DEM,FOR,5,1,4,4,0
+Sherman,102,Proposition #8,,DEM,AGAINST,1,0,1,1,0
+Sherman,102,Proposition #9,,DEM,FOR,5,0,5,5,0
+Sherman,102,Proposition #9,,DEM,AGAINST,1,1,0,0,0
+Sherman,102,Proposition #10,,DEM,FOR,5,1,4,4,0
+Sherman,102,Proposition #10,,DEM,AGAINST,1,0,1,1,0
+Sherman,102,Proposition #11,,DEM,FOR,6,1,5,5,0
 Sherman,102,Proposition #11,,DEM,AGAINST,0,0,0,0,0
-Sherman,102,Proposition #12,,DEM,FOR,1,5,0,5,6
+Sherman,102,Proposition #12,,DEM,FOR,6,1,5,5,0
 Sherman,102,Proposition #12,,DEM,AGAINST,0,0,0,0,0
-Sherman,201,U.S. Senator,,REP,Stefano de Stefano,0,1,0,1,1
-Sherman,201,U.S. Senator,,REP,"Bruce Jacobson, Jr.",2,2,0,2,4
+Sherman,201,U.S. Senator,,REP,Stefano de Stefano,1,0,1,1,0
+Sherman,201,U.S. Senator,,REP,"Bruce Jacobson, Jr.",4,2,2,2,0
 Sherman,201,U.S. Senator,,REP,Geraldine Sam,0,0,0,0,0
-Sherman,201,U.S. Senator,,REP,Ted Cruz,29,24,3,27,56
-Sherman,201,U.S. Senator,,REP,Mary Miller,0,3,1,4,4
-Sherman,201,U.S. House,13,REP,Mac Thornberry,26,25,4,29,55
+Sherman,201,U.S. Senator,,REP,Ted Cruz,56,29,27,24,3
+Sherman,201,U.S. Senator,,REP,Mary Miller,4,0,4,3,1
+Sherman,201,U.S. House,13,REP,Mac Thornberry,55,26,29,25,4
 Sherman,201,Governor,,REP,SECEDE Kilgore,0,0,0,0,0
-Sherman,201,Governor,,REP,Greg Abbott,27,29,3,32,59
-Sherman,201,Governor,,REP,Barbara Krueger,2,2,0,2,4
-Sherman,201,Lt. Governor,,REP,Scott Milder,8,12,0,12,20
-Sherman,201,Lt. Governor,,REP,Dan Patrick,21,16,2,18,39
-Sherman,201,Attorney General,,REP,Ken Paxton,22,27,2,29,51
-Sherman,201,Comptroller of Public Accounts,,REP,Glenn Hegar,22,25,2,27,49
-Sherman,201,Comm of the General Land Office,,REP,Davey Edwards,2,4,0,4,6
-Sherman,201,Comm of the General Land Office,,REP,Jerry Patterson,6,7,0,7,13
-Sherman,201,Comm of the General Land Office,,REP,George P. Bush,18,17,2,19,37
-Sherman,201,Comm of the General Land Office,,REP,Rick Range,0,2,0,2,2
-Sherman,201,Comm of Agriculture,,REP,Jim Hogan,6,10,0,10,16
-Sherman,201,Comm of Agriculture,,REP,Sid Miller,15,12,2,14,29
-Sherman,201,Comm of Agriculture,,REP,Trey Blocker,4,6,0,6,10
-Sherman,201,Railroad Comm,,REP,Weston Martinez,8,11,0,11,19
-Sherman,201,Railroad Comm,,REP,Christi Craddick,17,19,2,21,38
-Sherman,201,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,23,23,2,25,48
-Sherman,201,"Justice, Supreme Court, Place 4",,REP,John Devine,23,23,2,25,48
-Sherman,201,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,21,25,2,27,48
-Sherman,201,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,12,13,2,15,27
-Sherman,201,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,10,11,0,11,21
-Sherman,201,"Judge, Court Of Criminal Appeals, Place 7",,REP,Barbara P. Hervey,21,23,2,25,46
-Sherman,201,"Judge, Court of Criminal Apeals, Place 8",,REP,Jay Brandon,11,12,0,12,23
-Sherman,201,"Judge, Court of Criminal Apeals, Place 8",,REP,Michelle Slaughter,11,9,1,10,21
-Sherman,201,"Judge, Court of Criminal Apeals, Place 8",,REP,Dib Waldrip,0,1,0,1,1
-Sherman,201,State Senator,31,REP,Victor Leal,13,16,0,16,29
-Sherman,201,State Senator,31,REP,Mike Canon,4,3,0,3,7
-Sherman,201,State Senator,31,REP,Kel Seliger,13,12,4,16,29
-Sherman,201,State Representative,87,REP,Drew Brassfield,9,5,0,5,14
-Sherman,201,State Representative,87,REP,Four Price,20,26,3,29,49
-Sherman,201,"Justice, 7th Court of Appeals Dist, Place 2",,REP,Judy Parker,21,24,2,26,47
-Sherman,201,"Justice, 7th Court Of Appeals Dist, Place 3",,REP,Pat Pirtle,21,23,2,25,46
-Sherman,201,"District Judge, 69th Judicial Dist",,REP,Ron Enns,27,31,4,35,62
-Sherman,201,County Judge,,REP,Terri Beth Carter,26,30,3,33,59
-Sherman,201,District and County Clerk,,REP,Laura Rogers,10,12,2,14,24
-Sherman,201,District and County Clerk,,REP,Maida Reyes,12,14,2,16,28
-Sherman,201,District and County Clerk,,REP,Billye Zak,9,8,0,8,17
-Sherman,201,County Treasurer,,REP,Doris Parsons,27,30,4,34,61
-Sherman,201,"County Comm, Pct No. 2",,REP,Michael T. Helton,3,0,0,0,3
-Sherman,201,"County Comm, Pct No. 2",,REP,Bart Thoreson,5,8,1,9,14
-Sherman,201,"County Comm, Pct No. 2",,REP,Joe Zak,8,8,1,9,17
-Sherman,201,"County Comm, Pct No. 2",,REP,Terry Mathews,17,17,1,18,35
-Sherman,201,Justice of the Peace,,REP,Margaret Ewers,5,14,0,14,19
-Sherman,201,Justice of the Peace,,REP,Shannon Sellers,7,3,0,3,10
-Sherman,201,Justice of the Peace,,REP,Brenda J. Acker,21,17,4,21,42
-Sherman,201,County Chairman,,REP,Susie E Spurlock,29,34,3,37,66
-Sherman,201,Proposition 1,,REP,FOR,21,23,3,26,47
-Sherman,201,Proposition 1,,REP,AGAINST,6,7,1,8,14
-Sherman,201,Proposition 2,,REP,FOR,26,27,4,31,57
-Sherman,201,Proposition 2,,REP,AGAINST,2,3,0,3,5
-Sherman,201,Proposition 3,,REP,FOR,25,23,3,26,51
-Sherman,201,Proposition 3,,REP,AGAINST,4,6,1,7,11
-Sherman,201,Proposition 4,,REP,FOR,22,25,3,28,50
-Sherman,201,Proposition 4,,REP,AGAINST,5,6,1,7,12
-Sherman,201,Proposition 5,,REP,FOR,24,21,4,25,49
-Sherman,201,Proposition 5,,REP,AGAINST,5,11,0,11,16
-Sherman,201,Proposition 6,,REP,FOR,29,30,3,33,62
-Sherman,201,Proposition 6,,REP,AGAINST,0,2,1,3,3
-Sherman,201,Proposition 7,,REP,FOR,24,20,3,23,47
-Sherman,201,Proposition 7,,REP,AGAINST,5,12,1,13,18
-Sherman,201,Proposition 8,,REP,FOR,27,30,4,34,61
-Sherman,201,Proposition 8,,REP,AGAINST,2,2,0,2,4
-Sherman,201,Proposition 9,,REP,FOR,27,26,2,28,55
-Sherman,201,Proposition 9,,REP,AGAINST,2,5,2,7,9
-Sherman,201,Proposition 10,,REP,FOR,25,29,4,33,58
-Sherman,201,Proposition 10,,REP,AGAINST,2,2,0,2,4
-Sherman,201,Proposition 11,,REP,FOR,28,29,4,33,61
-Sherman,201,Proposition 11,,REP,AGAINST,2,4,0,4,6
-Sherman,201,U.S. Senator,,DEM,Edward Kimbrough,0,1,0,1,1
+Sherman,201,Governor,,REP,Greg Abbott,59,27,32,29,3
+Sherman,201,Governor,,REP,Barbara Krueger,4,2,2,2,0
+Sherman,201,Lt. Governor,,REP,Scott Milder,20,8,12,12,0
+Sherman,201,Lt. Governor,,REP,Dan Patrick,39,21,18,16,2
+Sherman,201,Attorney General,,REP,Ken Paxton,51,22,29,27,2
+Sherman,201,Comptroller of Public Accounts,,REP,Glenn Hegar,49,22,27,25,2
+Sherman,201,Comm of the General Land Office,,REP,Davey Edwards,6,2,4,4,0
+Sherman,201,Comm of the General Land Office,,REP,Jerry Patterson,13,6,7,7,0
+Sherman,201,Comm of the General Land Office,,REP,George P. Bush,37,18,19,17,2
+Sherman,201,Comm of the General Land Office,,REP,Rick Range,2,0,2,2,0
+Sherman,201,Comm of Agriculture,,REP,Jim Hogan,16,6,10,10,0
+Sherman,201,Comm of Agriculture,,REP,Sid Miller,29,15,14,12,2
+Sherman,201,Comm of Agriculture,,REP,Trey Blocker,10,4,6,6,0
+Sherman,201,Railroad Comm,,REP,Weston Martinez,19,8,11,11,0
+Sherman,201,Railroad Comm,,REP,Christi Craddick,38,17,21,19,2
+Sherman,201,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,48,23,25,23,2
+Sherman,201,"Justice, Supreme Court, Place 4",,REP,John Devine,48,23,25,23,2
+Sherman,201,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,48,21,27,25,2
+Sherman,201,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,27,12,15,13,2
+Sherman,201,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,21,10,11,11,0
+Sherman,201,"Judge, Court Of Criminal Appeals, Place 7",,REP,Barbara P. Hervey,46,21,25,23,2
+Sherman,201,"Judge, Court of Criminal Apeals, Place 8",,REP,Jay Brandon,23,11,12,12,0
+Sherman,201,"Judge, Court of Criminal Apeals, Place 8",,REP,Michelle Slaughter,21,11,10,9,1
+Sherman,201,"Judge, Court of Criminal Apeals, Place 8",,REP,Dib Waldrip,1,0,1,1,0
+Sherman,201,State Senator,31,REP,Victor Leal,29,13,16,16,0
+Sherman,201,State Senator,31,REP,Mike Canon,7,4,3,3,0
+Sherman,201,State Senator,31,REP,Kel Seliger,29,13,16,12,4
+Sherman,201,State Representative,87,REP,Drew Brassfield,14,9,5,5,0
+Sherman,201,State Representative,87,REP,Four Price,49,20,29,26,3
+Sherman,201,"Justice, 7th Court of Appeals Dist, Place 2",,REP,Judy Parker,47,21,26,24,2
+Sherman,201,"Justice, 7th Court Of Appeals Dist, Place 3",,REP,Pat Pirtle,46,21,25,23,2
+Sherman,201,"District Judge, 69th Judicial Dist",,REP,Ron Enns,62,27,35,31,4
+Sherman,201,County Judge,,REP,Terri Beth Carter,59,26,33,30,3
+Sherman,201,District and County Clerk,,REP,Laura Rogers,24,10,14,12,2
+Sherman,201,District and County Clerk,,REP,Maida Reyes,28,12,16,14,2
+Sherman,201,District and County Clerk,,REP,Billye Zak,17,9,8,8,0
+Sherman,201,County Treasurer,,REP,Doris Parsons,61,27,34,30,4
+Sherman,201,"County Comm, Pct No. 2",,REP,Michael T. Helton,3,3,0,0,0
+Sherman,201,"County Comm, Pct No. 2",,REP,Bart Thoreson,14,5,9,8,1
+Sherman,201,"County Comm, Pct No. 2",,REP,Joe Zak,17,8,9,8,1
+Sherman,201,"County Comm, Pct No. 2",,REP,Terry Mathews,35,17,18,17,1
+Sherman,201,Justice of the Peace,,REP,Margaret Ewers,19,5,14,14,0
+Sherman,201,Justice of the Peace,,REP,Shannon Sellers,10,7,3,3,0
+Sherman,201,Justice of the Peace,,REP,Brenda J. Acker,42,21,21,17,4
+Sherman,201,County Chairman,,REP,Susie E Spurlock,66,29,37,34,3
+Sherman,201,Proposition 1,,REP,FOR,47,21,26,23,3
+Sherman,201,Proposition 1,,REP,AGAINST,14,6,8,7,1
+Sherman,201,Proposition 2,,REP,FOR,57,26,31,27,4
+Sherman,201,Proposition 2,,REP,AGAINST,5,2,3,3,0
+Sherman,201,Proposition 3,,REP,FOR,51,25,26,23,3
+Sherman,201,Proposition 3,,REP,AGAINST,11,4,7,6,1
+Sherman,201,Proposition 4,,REP,FOR,50,22,28,25,3
+Sherman,201,Proposition 4,,REP,AGAINST,12,5,7,6,1
+Sherman,201,Proposition 5,,REP,FOR,49,24,25,21,4
+Sherman,201,Proposition 5,,REP,AGAINST,16,5,11,11,0
+Sherman,201,Proposition 6,,REP,FOR,62,29,33,30,3
+Sherman,201,Proposition 6,,REP,AGAINST,3,0,3,2,1
+Sherman,201,Proposition 7,,REP,FOR,47,24,23,20,3
+Sherman,201,Proposition 7,,REP,AGAINST,18,5,13,12,1
+Sherman,201,Proposition 8,,REP,FOR,61,27,34,30,4
+Sherman,201,Proposition 8,,REP,AGAINST,4,2,2,2,0
+Sherman,201,Proposition 9,,REP,FOR,55,27,28,26,2
+Sherman,201,Proposition 9,,REP,AGAINST,9,2,7,5,2
+Sherman,201,Proposition 10,,REP,FOR,58,25,33,29,4
+Sherman,201,Proposition 10,,REP,AGAINST,4,2,2,2,0
+Sherman,201,Proposition 11,,REP,FOR,61,28,33,29,4
+Sherman,201,Proposition 11,,REP,AGAINST,6,2,4,4,0
+Sherman,201,U.S. Senator,,DEM,Edward Kimbrough,1,0,1,1,0
 Sherman,201,U.S. Senator,,DEM,Beto O'Rourke,0,0,0,0,0
-Sherman,201,U.S. Senator,,DEM,Sema Hernandez,1,0,0,0,1
-Sherman,201,U.S. House,13,DEM,Greg Sagan,0,1,0,1,1
+Sherman,201,U.S. Senator,,DEM,Sema Hernandez,1,1,0,0,0
+Sherman,201,U.S. House,13,DEM,Greg Sagan,1,0,1,1,0
 Sherman,201,Governor,,DEM,Adrian Ocegueda,0,0,0,0,0
 Sherman,201,Governor,,DEM,Joe Mumbach,0,0,0,0,0
 Sherman,201,Governor,,DEM,James Jolly Clark,0,0,0,0,0
@@ -331,125 +331,125 @@ Sherman,201,Governor,,DEM,Jeffrey Payne,0,0,0,0,0
 Sherman,201,Governor,,DEM,Tom Wakely,0,0,0,0,0
 Sherman,201,Governor,,DEM,Lupe Valdez,0,0,0,0,0
 Sherman,201,Governor,,DEM,Grady Yarbrough,0,0,0,0,0
-Sherman,201,Governor,,DEM,Andrew White,0,1,0,1,1
-Sherman,201,Lt. Governor,,DEM,Mike Collier,0,1,0,1,1
+Sherman,201,Governor,,DEM,Andrew White,1,0,1,1,0
+Sherman,201,Lt. Governor,,DEM,Mike Collier,1,0,1,1,0
 Sherman,201,Lt. Governor,,DEM,Michael Cooper,0,0,0,0,0
-Sherman,201,Attorney General,,DEM,Justin Nelson,0,1,0,1,1
-Sherman,201,Comptroller of Public Accounts,,DEM,Tim Mahoney,0,1,0,1,1
+Sherman,201,Attorney General,,DEM,Justin Nelson,1,0,1,1,0
+Sherman,201,Comptroller of Public Accounts,,DEM,Tim Mahoney,1,0,1,1,0
 Sherman,201,Comptroller of Public Accounts,,DEM,Joi Chevalier,0,0,0,0,0
-Sherman,201,Comm of the General Land Office,,DEM,Miguel Suazo,1,0,0,0,1
-Sherman,201,Comm of the General Land Office,,DEM,Tex Morgan,0,1,0,1,1
-Sherman,201,Comm of Agriculture,,DEM,Kim Olson,0,1,0,1,1
+Sherman,201,Comm of the General Land Office,,DEM,Miguel Suazo,1,1,0,0,0
+Sherman,201,Comm of the General Land Office,,DEM,Tex Morgan,1,0,1,1,0
+Sherman,201,Comm of Agriculture,,DEM,Kim Olson,1,0,1,1,0
 Sherman,201,Railroad Comm,,DEM,Roman McAllen,0,0,0,0,0
-Sherman,201,Railroad Comm,,DEM,Chris Spellmon,0,1,0,1,1
-Sherman,201,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,0,1,0,1,1
-Sherman,201,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,0,1,0,1,1
-Sherman,201,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,0,1,0,1,1
-Sherman,201,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. Jackson,1,1,0,1,2
-Sherman,201,"Judge, Court Of Criminal Appeals, Place 7",,DEM,Ramona Franklin,0,1,0,1,1
-Sherman,201,County Chair,,DEM,Mildred Hacker,1,1,0,1,2
-Sherman,201,Proposition #1 ,,DEM,FOR,1,1,0,1,2
+Sherman,201,Railroad Comm,,DEM,Chris Spellmon,1,0,1,1,0
+Sherman,201,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,1,0,1,1,0
+Sherman,201,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,1,0,1,1,0
+Sherman,201,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,1,0,1,1,0
+Sherman,201,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. Jackson,2,1,1,1,0
+Sherman,201,"Judge, Court Of Criminal Appeals, Place 7",,DEM,Ramona Franklin,1,0,1,1,0
+Sherman,201,County Chair,,DEM,Mildred Hacker,2,1,1,1,0
+Sherman,201,Proposition #1 ,,DEM,FOR,2,1,1,1,0
 Sherman,201,Proposition #1 ,,DEM,AGAINST,0,0,0,0,0
-Sherman,201,Proposition #2,,DEM,FOR,1,0,0,0,1
-Sherman,201,Proposition #2,,DEM,AGAINST,0,1,0,1,1
-Sherman,201,Proposition #3,,DEM,FOR,1,1,0,1,2
+Sherman,201,Proposition #2,,DEM,FOR,1,1,0,0,0
+Sherman,201,Proposition #2,,DEM,AGAINST,1,0,1,1,0
+Sherman,201,Proposition #3,,DEM,FOR,2,1,1,1,0
 Sherman,201,Proposition #3,,DEM,AGAINST,0,0,0,0,0
-Sherman,201,Proposition #4,,DEM,FOR,1,1,0,1,2
-Sherman,201,Proposition #4,,DEM,AGAINST,1,0,0,0,1
-Sherman,201,Proposition #5,,DEM,FOR,1,1,0,1,2
+Sherman,201,Proposition #4,,DEM,FOR,2,1,1,1,0
+Sherman,201,Proposition #4,,DEM,AGAINST,1,1,0,0,0
+Sherman,201,Proposition #5,,DEM,FOR,2,1,1,1,0
 Sherman,201,Proposition #5,,DEM,AGAINST,0,0,0,0,0
-Sherman,201,Proposition #6,,DEM,FOR,1,1,0,1,2
+Sherman,201,Proposition #6,,DEM,FOR,2,1,1,1,0
 Sherman,201,Proposition #6,,DEM,AGAINST,0,0,0,0,0
-Sherman,201,Proposition #7,,DEM,FOR,1,1,0,1,2
+Sherman,201,Proposition #7,,DEM,FOR,2,1,1,1,0
 Sherman,201,Proposition #7,,DEM,AGAINST,0,0,0,0,0
-Sherman,201,Proposition #8,,DEM,FOR,1,0,0,0,1
-Sherman,201,Proposition #8,,DEM,AGAINST,1,1,0,1,2
-Sherman,201,Proposition #9,,DEM,FOR,0,1,0,1,1
-Sherman,201,Proposition #9,,DEM,AGAINST,1,0,0,0,1
-Sherman,201,Proposition #10,,DEM,FOR,1,1,0,1,2
+Sherman,201,Proposition #8,,DEM,FOR,1,1,0,0,0
+Sherman,201,Proposition #8,,DEM,AGAINST,2,1,1,1,0
+Sherman,201,Proposition #9,,DEM,FOR,1,0,1,1,0
+Sherman,201,Proposition #9,,DEM,AGAINST,1,1,0,0,0
+Sherman,201,Proposition #10,,DEM,FOR,2,1,1,1,0
 Sherman,201,Proposition #10,,DEM,AGAINST,0,0,0,0,0
-Sherman,201,Proposition #11,,DEM,FOR,1,0,0,0,1
-Sherman,201,Proposition #11,,DEM,AGAINST,1,1,0,1,2
-Sherman,201,Proposition #12,,DEM,FOR,1,1,0,1,2
+Sherman,201,Proposition #11,,DEM,FOR,1,1,0,0,0
+Sherman,201,Proposition #11,,DEM,AGAINST,2,1,1,1,0
+Sherman,201,Proposition #12,,DEM,FOR,2,1,1,1,0
 Sherman,201,Proposition #12,,DEM,AGAINST,0,0,0,0,0
 Sherman,202,U.S. Senator,,REP,Stefano de Stefano,0,0,0,0,0
-Sherman,202,U.S. Senator,,REP,"Bruce Jacobson, Jr.",3,0,0,0,3
-Sherman,202,U.S. Senator,,REP,Geraldine Sam,1,0,0,0,1
-Sherman,202,U.S. Senator,,REP,Ted Cruz,29,14,4,18,47
+Sherman,202,U.S. Senator,,REP,"Bruce Jacobson, Jr.",3,3,0,0,0
+Sherman,202,U.S. Senator,,REP,Geraldine Sam,1,1,0,0,0
+Sherman,202,U.S. Senator,,REP,Ted Cruz,47,29,18,14,4
 Sherman,202,U.S. Senator,,REP,Mary Miller,0,0,0,0,0
-Sherman,202,U.S. House,13,REP,Mac Thornberry,29,13,4,17,46
-Sherman,202,Governor,,REP,SECEDE Kilgore,3,0,0,0,3
-Sherman,202,Governor,,REP,Greg Abbott,27,13,4,17,44
-Sherman,202,Governor,,REP,Barbara Krueger,4,1,0,1,5
-Sherman,202,Lt. Governor,,REP,Scott Milder,13,1,0,1,14
-Sherman,202,Lt. Governor,,REP,Dan Patrick,17,12,4,16,33
-Sherman,202,Attorney General,,REP,Ken Paxton,29,12,3,15,44
-Sherman,202,Comptroller of Public Accounts,,REP,Glenn Hegar,27,11,4,15,42
-Sherman,202,Comm of the General Land Office,,REP,Davey Edwards,5,1,0,1,6
-Sherman,202,Comm of the General Land Office,,REP,Jerry Patterson,3,1,0,1,4
-Sherman,202,Comm of the General Land Office,,REP,George P. Bush,23,9,4,13,36
+Sherman,202,U.S. House,13,REP,Mac Thornberry,46,29,17,13,4
+Sherman,202,Governor,,REP,SECEDE Kilgore,3,3,0,0,0
+Sherman,202,Governor,,REP,Greg Abbott,44,27,17,13,4
+Sherman,202,Governor,,REP,Barbara Krueger,5,4,1,1,0
+Sherman,202,Lt. Governor,,REP,Scott Milder,14,13,1,1,0
+Sherman,202,Lt. Governor,,REP,Dan Patrick,33,17,16,12,4
+Sherman,202,Attorney General,,REP,Ken Paxton,44,29,15,12,3
+Sherman,202,Comptroller of Public Accounts,,REP,Glenn Hegar,42,27,15,11,4
+Sherman,202,Comm of the General Land Office,,REP,Davey Edwards,6,5,1,1,0
+Sherman,202,Comm of the General Land Office,,REP,Jerry Patterson,4,3,1,1,0
+Sherman,202,Comm of the General Land Office,,REP,George P. Bush,36,23,13,9,4
 Sherman,202,Comm of the General Land Office,,REP,Rick Range,0,0,0,0,0
-Sherman,202,Comm of Agriculture,,REP,Jim Hogan,10,3,0,3,13
-Sherman,202,Comm of Agriculture,,REP,Sid Miller,12,6,2,8,20
-Sherman,202,Comm of Agriculture,,REP,Trey Blocker,7,1,2,3,10
-Sherman,202,Railroad Comm,,REP,Weston Martinez,7,2,0,2,9
-Sherman,202,Railroad Comm,,REP,Christi Craddick,21,8,4,12,33
-Sherman,202,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,25,9,4,13,38
-Sherman,202,"Justice, Supreme Court, Place 4",,REP,John Devine,24,9,4,13,37
-Sherman,202,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,24,10,4,14,38
-Sherman,202,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,11,7,1,8,19
-Sherman,202,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,14,0,3,3,17
-Sherman,202,"Judge, Court Of Criminal Appeals, Place 7",,REP,Barbara P. Hervey,24,8,4,12,36
-Sherman,202,"Judge, Court of Criminal Apeals, Place 8",,REP,Jay Brandon,12,5,4,9,21
-Sherman,202,"Judge, Court of Criminal Apeals, Place 8",,REP,Michelle Slaughter,8,2,0,2,10
-Sherman,202,"Judge, Court of Criminal Apeals, Place 8",,REP,Dib Waldrip,3,1,0,1,4
-Sherman,202,State Senator,31,REP,Victor Leal,7,3,0,3,10
-Sherman,202,State Senator,31,REP,Mike Canon,11,1,0,1,12
-Sherman,202,State Senator,31,REP,Kel Seliger,16,9,4,13,29
-Sherman,202,State Representative,87,REP,Drew Brassfield,10,1,0,1,11
-Sherman,202,State Representative,87,REP,Four Price,24,11,4,15,39
-Sherman,202,"Justice, 7th Court of Appeals Dist, Place 2",,REP,Judy Parker,23,9,4,13,36
-Sherman,202,"Justice, 7th Court Of Appeals Dist, Place 3",,REP,Pat Pirtle,23,9,4,13,36
-Sherman,202,"District Judge, 69th Judicial Dist",,REP,Ron Enns,27,10,4,14,41
-Sherman,202,County Judge,,REP,Terri Beth Carter,31,12,4,16,47
-Sherman,202,District and County Clerk,,REP,Laura Rogers,23,7,4,11,34
-Sherman,202,District and County Clerk,,REP,Maida Reyes,3,4,0,4,7
-Sherman,202,District and County Clerk,,REP,Billye Zak,5,0,0,0,5
-Sherman,202,County Treasurer,,REP,Doris Parsons,26,12,4,16,42
-Sherman,202,"County Comm, Pct No. 2",,REP,Michael T. Helton,12,1,0,1,13
-Sherman,202,"County Comm, Pct No. 2",,REP,Bart Thoreson,18,10,4,14,32
-Sherman,202,"County Comm, Pct No. 2",,REP,Joe Zak,1,0,0,0,1
-Sherman,202,"County Comm, Pct No. 2",,REP,Terry Mathews,3,3,0,3,6
-Sherman,202,Justice of the Peace,,REP,Margaret Ewers,9,0,2,2,11
-Sherman,202,Justice of the Peace,,REP,Shannon Sellers,4,0,2,2,6
-Sherman,202,Justice of the Peace,,REP,Brenda J. Acker,19,13,0,13,32
-Sherman,202,County Chairman,,REP,Susie E Spurlock,30,13,4,17,47
-Sherman,202,Proposition 1,,REP,FOR,19,6,0,6,25
-Sherman,202,Proposition 1,,REP,AGAINST,14,4,4,8,22
-Sherman,202,Proposition 2,,REP,FOR,28,10,4,14,42
-Sherman,202,Proposition 2,,REP,AGAINST,6,0,0,0,6
-Sherman,202,Proposition 3,,REP,FOR,27,8,4,12,39
-Sherman,202,Proposition 3,,REP,AGAINST,4,2,0,2,6
-Sherman,202,Proposition 4,,REP,FOR,21,7,2,9,30
-Sherman,202,Proposition 4,,REP,AGAINST,11,4,2,6,17
-Sherman,202,Proposition 5,,REP,FOR,20,8,3,11,31
-Sherman,202,Proposition 5,,REP,AGAINST,13,5,0,5,18
-Sherman,202,Proposition 6,,REP,FOR,30,11,4,15,45
-Sherman,202,Proposition 6,,REP,AGAINST,3,2,0,2,5
-Sherman,202,Proposition 7,,REP,FOR,26,11,2,13,39
-Sherman,202,Proposition 7,,REP,AGAINST,7,1,2,3,10
-Sherman,202,Proposition 8,,REP,FOR,33,12,4,16,49
-Sherman,202,Proposition 8,,REP,AGAINST,0,1,0,1,1
-Sherman,202,Proposition 9,,REP,FOR,33,13,4,17,50
-Sherman,202,Proposition 9,,REP,AGAINST,1,0,0,0,1
-Sherman,202,Proposition 10,,REP,FOR,30,11,4,15,45
-Sherman,202,Proposition 10,,REP,AGAINST,4,0,0,0,4
-Sherman,202,Proposition 11,,REP,FOR,30,12,4,16,46
-Sherman,202,Proposition 11,,REP,AGAINST,4,1,0,1,5
+Sherman,202,Comm of Agriculture,,REP,Jim Hogan,13,10,3,3,0
+Sherman,202,Comm of Agriculture,,REP,Sid Miller,20,12,8,6,2
+Sherman,202,Comm of Agriculture,,REP,Trey Blocker,10,7,3,1,2
+Sherman,202,Railroad Comm,,REP,Weston Martinez,9,7,2,2,0
+Sherman,202,Railroad Comm,,REP,Christi Craddick,33,21,12,8,4
+Sherman,202,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,38,25,13,9,4
+Sherman,202,"Justice, Supreme Court, Place 4",,REP,John Devine,37,24,13,9,4
+Sherman,202,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,38,24,14,10,4
+Sherman,202,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,19,11,8,7,1
+Sherman,202,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,17,14,3,0,3
+Sherman,202,"Judge, Court Of Criminal Appeals, Place 7",,REP,Barbara P. Hervey,36,24,12,8,4
+Sherman,202,"Judge, Court of Criminal Apeals, Place 8",,REP,Jay Brandon,21,12,9,5,4
+Sherman,202,"Judge, Court of Criminal Apeals, Place 8",,REP,Michelle Slaughter,10,8,2,2,0
+Sherman,202,"Judge, Court of Criminal Apeals, Place 8",,REP,Dib Waldrip,4,3,1,1,0
+Sherman,202,State Senator,31,REP,Victor Leal,10,7,3,3,0
+Sherman,202,State Senator,31,REP,Mike Canon,12,11,1,1,0
+Sherman,202,State Senator,31,REP,Kel Seliger,29,16,13,9,4
+Sherman,202,State Representative,87,REP,Drew Brassfield,11,10,1,1,0
+Sherman,202,State Representative,87,REP,Four Price,39,24,15,11,4
+Sherman,202,"Justice, 7th Court of Appeals Dist, Place 2",,REP,Judy Parker,36,23,13,9,4
+Sherman,202,"Justice, 7th Court Of Appeals Dist, Place 3",,REP,Pat Pirtle,36,23,13,9,4
+Sherman,202,"District Judge, 69th Judicial Dist",,REP,Ron Enns,41,27,14,10,4
+Sherman,202,County Judge,,REP,Terri Beth Carter,47,31,16,12,4
+Sherman,202,District and County Clerk,,REP,Laura Rogers,34,23,11,7,4
+Sherman,202,District and County Clerk,,REP,Maida Reyes,7,3,4,4,0
+Sherman,202,District and County Clerk,,REP,Billye Zak,5,5,0,0,0
+Sherman,202,County Treasurer,,REP,Doris Parsons,42,26,16,12,4
+Sherman,202,"County Comm, Pct No. 2",,REP,Michael T. Helton,13,12,1,1,0
+Sherman,202,"County Comm, Pct No. 2",,REP,Bart Thoreson,32,18,14,10,4
+Sherman,202,"County Comm, Pct No. 2",,REP,Joe Zak,1,1,0,0,0
+Sherman,202,"County Comm, Pct No. 2",,REP,Terry Mathews,6,3,3,3,0
+Sherman,202,Justice of the Peace,,REP,Margaret Ewers,11,9,2,0,2
+Sherman,202,Justice of the Peace,,REP,Shannon Sellers,6,4,2,0,2
+Sherman,202,Justice of the Peace,,REP,Brenda J. Acker,32,19,13,13,0
+Sherman,202,County Chairman,,REP,Susie E Spurlock,47,30,17,13,4
+Sherman,202,Proposition 1,,REP,FOR,25,19,6,6,0
+Sherman,202,Proposition 1,,REP,AGAINST,22,14,8,4,4
+Sherman,202,Proposition 2,,REP,FOR,42,28,14,10,4
+Sherman,202,Proposition 2,,REP,AGAINST,6,6,0,0,0
+Sherman,202,Proposition 3,,REP,FOR,39,27,12,8,4
+Sherman,202,Proposition 3,,REP,AGAINST,6,4,2,2,0
+Sherman,202,Proposition 4,,REP,FOR,30,21,9,7,2
+Sherman,202,Proposition 4,,REP,AGAINST,17,11,6,4,2
+Sherman,202,Proposition 5,,REP,FOR,31,20,11,8,3
+Sherman,202,Proposition 5,,REP,AGAINST,18,13,5,5,0
+Sherman,202,Proposition 6,,REP,FOR,45,30,15,11,4
+Sherman,202,Proposition 6,,REP,AGAINST,5,3,2,2,0
+Sherman,202,Proposition 7,,REP,FOR,39,26,13,11,2
+Sherman,202,Proposition 7,,REP,AGAINST,10,7,3,1,2
+Sherman,202,Proposition 8,,REP,FOR,49,33,16,12,4
+Sherman,202,Proposition 8,,REP,AGAINST,1,0,1,1,0
+Sherman,202,Proposition 9,,REP,FOR,50,33,17,13,4
+Sherman,202,Proposition 9,,REP,AGAINST,1,1,0,0,0
+Sherman,202,Proposition 10,,REP,FOR,45,30,15,11,4
+Sherman,202,Proposition 10,,REP,AGAINST,4,4,0,0,0
+Sherman,202,Proposition 11,,REP,FOR,46,30,16,12,4
+Sherman,202,Proposition 11,,REP,AGAINST,5,4,1,1,0
 Sherman,202,U.S. Senator,,DEM,Edward Kimbrough,0,0,0,0,0
-Sherman,202,U.S. Senator,,DEM,Beto O'Rourke,0,0,1,1,1
+Sherman,202,U.S. Senator,,DEM,Beto O'Rourke,1,0,1,0,1
 Sherman,202,U.S. Senator,,DEM,Sema Hernandez,0,0,0,0,0
-Sherman,202,U.S. House,13,DEM,Greg Sagan,0,0,2,2,2
+Sherman,202,U.S. House,13,DEM,Greg Sagan,2,0,2,0,2
 Sherman,202,Governor,,DEM,Adrian Ocegueda,0,0,0,0,0
 Sherman,202,Governor,,DEM,Joe Mumbach,0,0,0,0,0
 Sherman,202,Governor,,DEM,James Jolly Clark,0,0,0,0,0
@@ -458,414 +458,414 @@ Sherman,202,Governor,,DEM,Jeffrey Payne,0,0,0,0,0
 Sherman,202,Governor,,DEM,Tom Wakely,0,0,0,0,0
 Sherman,202,Governor,,DEM,Lupe Valdez,0,0,0,0,0
 Sherman,202,Governor,,DEM,Grady Yarbrough,0,0,0,0,0
-Sherman,202,Governor,,DEM,Andrew White,0,0,1,1,1
-Sherman,202,Lt. Governor,,DEM,Mike Collier,0,0,1,1,1
+Sherman,202,Governor,,DEM,Andrew White,1,0,1,0,1
+Sherman,202,Lt. Governor,,DEM,Mike Collier,1,0,1,0,1
 Sherman,202,Lt. Governor,,DEM,Michael Cooper,0,0,0,0,0
-Sherman,202,Attorney General,,DEM,Justin Nelson,0,0,2,2,2
+Sherman,202,Attorney General,,DEM,Justin Nelson,2,0,2,0,2
 Sherman,202,Comptroller of Public Accounts,,DEM,Tim Mahoney,0,0,0,0,0
-Sherman,202,Comptroller of Public Accounts,,DEM,Joi Chevalier,0,0,1,1,1
+Sherman,202,Comptroller of Public Accounts,,DEM,Joi Chevalier,1,0,1,0,1
 Sherman,202,Comm of the General Land Office,,DEM,Miguel Suazo,0,0,0,0,0
-Sherman,202,Comm of the General Land Office,,DEM,Tex Morgan,0,0,1,1,1
-Sherman,202,Comm of Agriculture,,DEM,Kim Olson,0,0,1,1,1
-Sherman,202,Railroad Comm,,DEM,Roman McAllen,0,0,1,1,1
+Sherman,202,Comm of the General Land Office,,DEM,Tex Morgan,1,0,1,0,1
+Sherman,202,Comm of Agriculture,,DEM,Kim Olson,1,0,1,0,1
+Sherman,202,Railroad Comm,,DEM,Roman McAllen,1,0,1,0,1
 Sherman,202,Railroad Comm,,DEM,Chris Spellmon,0,0,0,0,0
-Sherman,202,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,0,0,2,2,2
-Sherman,202,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,0,0,2,2,2
-Sherman,202,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,0,0,2,2,2
-Sherman,202,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. Jackson,0,0,2,2,2
-Sherman,202,"Judge, Court Of Criminal Appeals, Place 7",,DEM,Ramona Franklin,0,0,1,1,1
+Sherman,202,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,2,0,2,0,2
+Sherman,202,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,2,0,2,0,2
+Sherman,202,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,2,0,2,0,2
+Sherman,202,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. Jackson,2,0,2,0,2
+Sherman,202,"Judge, Court Of Criminal Appeals, Place 7",,DEM,Ramona Franklin,1,0,1,0,1
 Sherman,202,County Chair,,DEM,Mildred Hacker,0,0,0,0,0
-Sherman,202,Proposition #1 ,,DEM,FOR,0,0,2,2,2
+Sherman,202,Proposition #1 ,,DEM,FOR,2,0,2,0,2
 Sherman,202,Proposition #1 ,,DEM,AGAINST,0,0,0,0,0
-Sherman,202,Proposition #2,,DEM,FOR,0,0,2,2,2
+Sherman,202,Proposition #2,,DEM,FOR,2,0,2,0,2
 Sherman,202,Proposition #2,,DEM,AGAINST,0,0,0,0,0
-Sherman,202,Proposition #3,,DEM,FOR,0,0,2,2,2
+Sherman,202,Proposition #3,,DEM,FOR,2,0,2,0,2
 Sherman,202,Proposition #3,,DEM,AGAINST,0,0,0,0,0
-Sherman,202,Proposition #4,,DEM,FOR,0,0,2,2,2
+Sherman,202,Proposition #4,,DEM,FOR,2,0,2,0,2
 Sherman,202,Proposition #4,,DEM,AGAINST,0,0,0,0,0
-Sherman,202,Proposition #5,,DEM,FOR,0,0,2,2,2
+Sherman,202,Proposition #5,,DEM,FOR,2,0,2,0,2
 Sherman,202,Proposition #5,,DEM,AGAINST,0,0,0,0,0
-Sherman,202,Proposition #6,,DEM,FOR,0,0,2,2,2
+Sherman,202,Proposition #6,,DEM,FOR,2,0,2,0,2
 Sherman,202,Proposition #6,,DEM,AGAINST,0,0,0,0,0
-Sherman,202,Proposition #7,,DEM,FOR,0,0,2,2,2
+Sherman,202,Proposition #7,,DEM,FOR,2,0,2,0,2
 Sherman,202,Proposition #7,,DEM,AGAINST,0,0,0,0,0
-Sherman,202,Proposition #8,,DEM,FOR,0,0,1,1,1
-Sherman,202,Proposition #8,,DEM,AGAINST,0,0,1,1,1
-Sherman,202,Proposition #9,,DEM,FOR,0,0,2,2,2
+Sherman,202,Proposition #8,,DEM,FOR,1,0,1,0,1
+Sherman,202,Proposition #8,,DEM,AGAINST,1,0,1,0,1
+Sherman,202,Proposition #9,,DEM,FOR,2,0,2,0,2
 Sherman,202,Proposition #9,,DEM,AGAINST,0,0,0,0,0
-Sherman,202,Proposition #10,,DEM,FOR,0,0,1,1,1
-Sherman,202,Proposition #10,,DEM,AGAINST,0,0,1,1,1
-Sherman,202,Proposition #11,,DEM,FOR,0,0,2,2,2
+Sherman,202,Proposition #10,,DEM,FOR,1,0,1,0,1
+Sherman,202,Proposition #10,,DEM,AGAINST,1,0,1,0,1
+Sherman,202,Proposition #11,,DEM,FOR,2,0,2,0,2
 Sherman,202,Proposition #11,,DEM,AGAINST,0,0,0,0,0
-Sherman,202,Proposition #12,,DEM,FOR,0,0,1,1,1
-Sherman,202,Proposition #12,,DEM,AGAINST,0,0,1,1,1
-Sherman,301,U.S. Senator,,REP,Stefano de Stefano,0,1,0,1,1
-Sherman,301,U.S. Senator,,REP,"Bruce Jacobson, Jr.",3,2,0,2,5
-Sherman,301,U.S. Senator,,REP,Geraldine Sam,2,0,0,0,2
-Sherman,301,U.S. Senator,,REP,Ted Cruz,15,16,2,18,33
-Sherman,301,U.S. Senator,,REP,Mary Miller,1,0,0,0,1
-Sherman,301,U.S. House,13,REP,Mac Thornberry,17,17,2,19,36
-Sherman,301,Governor,,REP,SECEDE Kilgore,2,1,0,1,3
-Sherman,301,Governor,,REP,Greg Abbott,15,18,2,20,35
-Sherman,301,Governor,,REP,Barbara Krueger,3,1,0,1,4
-Sherman,301,Lt. Governor,,REP,Scott Milder,8,4,0,4,12
-Sherman,301,Lt. Governor,,REP,Dan Patrick,10,15,2,17,27
-Sherman,301,Attorney General,,REP,Ken Paxton,17,18,2,20,37
-Sherman,301,Comptroller of Public Accounts,,REP,Glenn Hegar,17,15,2,17,34
-Sherman,301,Comm of the General Land Office,,REP,Davey Edwards,1,2,0,2,3
-Sherman,301,Comm of the General Land Office,,REP,Jerry Patterson,2,3,0,3,5
-Sherman,301,Comm of the General Land Office,,REP,George P. Bush,13,15,2,17,30
-Sherman,301,Comm of the General Land Office,,REP,Rick Range,5,0,0,0,5
-Sherman,301,Comm of Agriculture,,REP,Jim Hogan,2,5,0,5,7
-Sherman,301,Comm of Agriculture,,REP,Sid Miller,10,9,2,11,21
-Sherman,301,Comm of Agriculture,,REP,Trey Blocker,7,2,0,2,9
-Sherman,301,Railroad Comm,,REP,Weston Martinez,4,6,0,6,10
-Sherman,301,Railroad Comm,,REP,Christi Craddick,16,11,2,13,29
-Sherman,301,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,17,15,2,17,34
-Sherman,301,"Justice, Supreme Court, Place 4",,REP,John Devine,16,15,2,17,33
-Sherman,301,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,17,15,2,17,34
-Sherman,301,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,8,5,2,7,15
-Sherman,301,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,10,9,0,9,19
-Sherman,301,"Judge, Court Of Criminal Appeals, Place 7",,REP,Barbara P. Hervey,16,15,2,17,33
-Sherman,301,"Judge, Court of Criminal Apeals, Place 8",,REP,Jay Brandon,5,9,1,10,15
-Sherman,301,"Judge, Court of Criminal Apeals, Place 8",,REP,Michelle Slaughter,6,3,1,4,10
-Sherman,301,"Judge, Court of Criminal Apeals, Place 8",,REP,Dib Waldrip,9,2,0,2,11
-Sherman,301,State Senator,31,REP,Victor Leal,7,5,1,6,13
-Sherman,301,State Senator,31,REP,Mike Canon,6,2,0,2,8
-Sherman,301,State Senator,31,REP,Kel Seliger,7,13,1,14,21
-Sherman,301,State Representative,87,REP,Drew Brassfield,6,5,0,5,11
-Sherman,301,State Representative,87,REP,Four Price,15,15,2,17,32
-Sherman,301,"Justice, 7th Court of Appeals Dist, Place 2",,REP,Judy Parker,16,14,2,16,32
-Sherman,301,"Justice, 7th Court Of Appeals Dist, Place 3",,REP,Pat Pirtle,16,16,2,18,34
-Sherman,301,"District Judge, 69th Judicial Dist",,REP,Ron Enns,18,16,2,18,36
-Sherman,301,County Judge,,REP,Terri Beth Carter,18,15,2,17,35
-Sherman,301,District and County Clerk,,REP,Laura Rogers,10,8,2,10,20
-Sherman,301,District and County Clerk,,REP,Maida Reyes,2,7,0,7,9
-Sherman,301,District and County Clerk,,REP,Billye Zak,8,3,0,3,11
-Sherman,301,County Treasurer,,REP,Doris Parsons,17,18,2,20,37
-Sherman,301,Justice of the Peace,,REP,Margaret Ewers,3,9,0,9,12
+Sherman,202,Proposition #12,,DEM,FOR,1,0,1,0,1
+Sherman,202,Proposition #12,,DEM,AGAINST,1,0,1,0,1
+Sherman,301,U.S. Senator,,REP,Stefano de Stefano,1,0,1,1,0
+Sherman,301,U.S. Senator,,REP,"Bruce Jacobson, Jr.",5,3,2,2,0
+Sherman,301,U.S. Senator,,REP,Geraldine Sam,2,2,0,0,0
+Sherman,301,U.S. Senator,,REP,Ted Cruz,33,15,18,16,2
+Sherman,301,U.S. Senator,,REP,Mary Miller,1,1,0,0,0
+Sherman,301,U.S. House,13,REP,Mac Thornberry,36,17,19,17,2
+Sherman,301,Governor,,REP,SECEDE Kilgore,3,2,1,1,0
+Sherman,301,Governor,,REP,Greg Abbott,35,15,20,18,2
+Sherman,301,Governor,,REP,Barbara Krueger,4,3,1,1,0
+Sherman,301,Lt. Governor,,REP,Scott Milder,12,8,4,4,0
+Sherman,301,Lt. Governor,,REP,Dan Patrick,27,10,17,15,2
+Sherman,301,Attorney General,,REP,Ken Paxton,37,17,20,18,2
+Sherman,301,Comptroller of Public Accounts,,REP,Glenn Hegar,34,17,17,15,2
+Sherman,301,Comm of the General Land Office,,REP,Davey Edwards,3,1,2,2,0
+Sherman,301,Comm of the General Land Office,,REP,Jerry Patterson,5,2,3,3,0
+Sherman,301,Comm of the General Land Office,,REP,George P. Bush,30,13,17,15,2
+Sherman,301,Comm of the General Land Office,,REP,Rick Range,5,5,0,0,0
+Sherman,301,Comm of Agriculture,,REP,Jim Hogan,7,2,5,5,0
+Sherman,301,Comm of Agriculture,,REP,Sid Miller,21,10,11,9,2
+Sherman,301,Comm of Agriculture,,REP,Trey Blocker,9,7,2,2,0
+Sherman,301,Railroad Comm,,REP,Weston Martinez,10,4,6,6,0
+Sherman,301,Railroad Comm,,REP,Christi Craddick,29,16,13,11,2
+Sherman,301,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,34,17,17,15,2
+Sherman,301,"Justice, Supreme Court, Place 4",,REP,John Devine,33,16,17,15,2
+Sherman,301,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,34,17,17,15,2
+Sherman,301,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,15,8,7,5,2
+Sherman,301,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,19,10,9,9,0
+Sherman,301,"Judge, Court Of Criminal Appeals, Place 7",,REP,Barbara P. Hervey,33,16,17,15,2
+Sherman,301,"Judge, Court of Criminal Apeals, Place 8",,REP,Jay Brandon,15,5,10,9,1
+Sherman,301,"Judge, Court of Criminal Apeals, Place 8",,REP,Michelle Slaughter,10,6,4,3,1
+Sherman,301,"Judge, Court of Criminal Apeals, Place 8",,REP,Dib Waldrip,11,9,2,2,0
+Sherman,301,State Senator,31,REP,Victor Leal,13,7,6,5,1
+Sherman,301,State Senator,31,REP,Mike Canon,8,6,2,2,0
+Sherman,301,State Senator,31,REP,Kel Seliger,21,7,14,13,1
+Sherman,301,State Representative,87,REP,Drew Brassfield,11,6,5,5,0
+Sherman,301,State Representative,87,REP,Four Price,32,15,17,15,2
+Sherman,301,"Justice, 7th Court of Appeals Dist, Place 2",,REP,Judy Parker,32,16,16,14,2
+Sherman,301,"Justice, 7th Court Of Appeals Dist, Place 3",,REP,Pat Pirtle,34,16,18,16,2
+Sherman,301,"District Judge, 69th Judicial Dist",,REP,Ron Enns,36,18,18,16,2
+Sherman,301,County Judge,,REP,Terri Beth Carter,35,18,17,15,2
+Sherman,301,District and County Clerk,,REP,Laura Rogers,20,10,10,8,2
+Sherman,301,District and County Clerk,,REP,Maida Reyes,9,2,7,7,0
+Sherman,301,District and County Clerk,,REP,Billye Zak,11,8,3,3,0
+Sherman,301,County Treasurer,,REP,Doris Parsons,37,17,20,18,2
+Sherman,301,Justice of the Peace,,REP,Margaret Ewers,12,3,9,9,0
 Sherman,301,Justice of the Peace,,REP,Shannon Sellers,0,0,0,0,0
-Sherman,301,Justice of the Peace,,REP,Brenda J. Acker,17,11,2,13,30
-Sherman,301,County Chairman,,REP,Susie E Spurlock,18,14,2,16,34
-Sherman,301,Proposition 1,,REP,FOR,16,13,2,15,31
-Sherman,301,Proposition 1,,REP,AGAINST,4,3,0,3,7
-Sherman,301,Proposition 2,,REP,FOR,18,17,2,19,37
-Sherman,301,Proposition 2,,REP,AGAINST,3,1,0,1,4
-Sherman,301,Proposition 3,,REP,FOR,16,15,2,17,33
-Sherman,301,Proposition 3,,REP,AGAINST,5,1,0,1,6
-Sherman,301,Proposition 4,,REP,FOR,18,17,2,19,37
-Sherman,301,Proposition 4,,REP,AGAINST,3,1,0,1,4
-Sherman,301,Proposition 5,,REP,FOR,16,13,2,15,31
-Sherman,301,Proposition 5,,REP,AGAINST,5,4,0,4,9
-Sherman,301,Proposition 6,,REP,FOR,19,17,2,19,38
-Sherman,301,Proposition 6,,REP,AGAINST,2,1,0,1,3
-Sherman,301,Proposition 7,,REP,FOR,16,13,2,15,31
-Sherman,301,Proposition 7,,REP,AGAINST,5,5,0,5,10
-Sherman,301,Proposition 8,,REP,FOR,18,18,2,20,38
-Sherman,301,Proposition 8,,REP,AGAINST,3,0,0,0,3
-Sherman,301,Proposition 9,,REP,FOR,18,17,2,19,37
-Sherman,301,Proposition 9,,REP,AGAINST,3,2,0,2,5
-Sherman,301,Proposition 10,,REP,FOR,19,17,2,19,38
-Sherman,301,Proposition 10,,REP,AGAINST,2,1,0,1,3
-Sherman,301,Proposition 11,,REP,FOR,19,18,2,20,39
-Sherman,301,Proposition 11,,REP,AGAINST,2,0,0,0,2
-Sherman,301,U.S. Senator,,DEM,Edward Kimbrough,0,2,0,2,2
+Sherman,301,Justice of the Peace,,REP,Brenda J. Acker,30,17,13,11,2
+Sherman,301,County Chairman,,REP,Susie E Spurlock,34,18,16,14,2
+Sherman,301,Proposition 1,,REP,FOR,31,16,15,13,2
+Sherman,301,Proposition 1,,REP,AGAINST,7,4,3,3,0
+Sherman,301,Proposition 2,,REP,FOR,37,18,19,17,2
+Sherman,301,Proposition 2,,REP,AGAINST,4,3,1,1,0
+Sherman,301,Proposition 3,,REP,FOR,33,16,17,15,2
+Sherman,301,Proposition 3,,REP,AGAINST,6,5,1,1,0
+Sherman,301,Proposition 4,,REP,FOR,37,18,19,17,2
+Sherman,301,Proposition 4,,REP,AGAINST,4,3,1,1,0
+Sherman,301,Proposition 5,,REP,FOR,31,16,15,13,2
+Sherman,301,Proposition 5,,REP,AGAINST,9,5,4,4,0
+Sherman,301,Proposition 6,,REP,FOR,38,19,19,17,2
+Sherman,301,Proposition 6,,REP,AGAINST,3,2,1,1,0
+Sherman,301,Proposition 7,,REP,FOR,31,16,15,13,2
+Sherman,301,Proposition 7,,REP,AGAINST,10,5,5,5,0
+Sherman,301,Proposition 8,,REP,FOR,38,18,20,18,2
+Sherman,301,Proposition 8,,REP,AGAINST,3,3,0,0,0
+Sherman,301,Proposition 9,,REP,FOR,37,18,19,17,2
+Sherman,301,Proposition 9,,REP,AGAINST,5,3,2,2,0
+Sherman,301,Proposition 10,,REP,FOR,38,19,19,17,2
+Sherman,301,Proposition 10,,REP,AGAINST,3,2,1,1,0
+Sherman,301,Proposition 11,,REP,FOR,39,19,20,18,2
+Sherman,301,Proposition 11,,REP,AGAINST,2,2,0,0,0
+Sherman,301,U.S. Senator,,DEM,Edward Kimbrough,2,0,2,2,0
 Sherman,301,U.S. Senator,,DEM,Beto O'Rourke,0,0,0,0,0
-Sherman,301,U.S. Senator,,DEM,Sema Hernandez,1,0,0,0,1
-Sherman,301,U.S. House,13,DEM,Greg Sagan,1,0,0,0,1
-Sherman,301,Governor,,DEM,Adrian Ocegueda,0,1,0,1,1
+Sherman,301,U.S. Senator,,DEM,Sema Hernandez,1,1,0,0,0
+Sherman,301,U.S. House,13,DEM,Greg Sagan,1,1,0,0,0
+Sherman,301,Governor,,DEM,Adrian Ocegueda,1,0,1,1,0
 Sherman,301,Governor,,DEM,Joe Mumbach,0,0,0,0,0
 Sherman,301,Governor,,DEM,James Jolly Clark,0,0,0,0,0
 Sherman,301,Governor,,DEM,"Cedric Davis, Sr.",0,0,0,0,0
-Sherman,301,Governor,,DEM,Jeffrey Payne,0,1,0,1,1
+Sherman,301,Governor,,DEM,Jeffrey Payne,1,0,1,1,0
 Sherman,301,Governor,,DEM,Tom Wakely,0,0,0,0,0
 Sherman,301,Governor,,DEM,Lupe Valdez,0,0,0,0,0
-Sherman,301,Governor,,DEM,Grady Yarbrough,1,0,0,0,1
+Sherman,301,Governor,,DEM,Grady Yarbrough,1,1,0,0,0
 Sherman,301,Governor,,DEM,Andrew White,0,0,0,0,0
-Sherman,301,Lt. Governor,,DEM,Mike Collier,1,1,0,1,2
-Sherman,301,Lt. Governor,,DEM,Michael Cooper,0,1,0,1,1
-Sherman,301,Attorney General,,DEM,Justin Nelson,1,1,0,1,2
-Sherman,301,Comptroller of Public Accounts,,DEM,Tim Mahoney,0,1,0,1,1
-Sherman,301,Comptroller of Public Accounts,,DEM,Joi Chevalier,1,1,0,1,2
-Sherman,301,Comm of the General Land Office,,DEM,Miguel Suazo,1,2,0,2,3
+Sherman,301,Lt. Governor,,DEM,Mike Collier,2,1,1,1,0
+Sherman,301,Lt. Governor,,DEM,Michael Cooper,1,0,1,1,0
+Sherman,301,Attorney General,,DEM,Justin Nelson,2,1,1,1,0
+Sherman,301,Comptroller of Public Accounts,,DEM,Tim Mahoney,1,0,1,1,0
+Sherman,301,Comptroller of Public Accounts,,DEM,Joi Chevalier,2,1,1,1,0
+Sherman,301,Comm of the General Land Office,,DEM,Miguel Suazo,3,1,2,2,0
 Sherman,301,Comm of the General Land Office,,DEM,Tex Morgan,0,0,0,0,0
-Sherman,301,Comm of Agriculture,,DEM,Kim Olson,1,1,0,1,2
-Sherman,301,Railroad Comm,,DEM,Roman McAllen,1,2,0,2,3
+Sherman,301,Comm of Agriculture,,DEM,Kim Olson,2,1,1,1,0
+Sherman,301,Railroad Comm,,DEM,Roman McAllen,3,1,2,2,0
 Sherman,301,Railroad Comm,,DEM,Chris Spellmon,0,0,0,0,0
-Sherman,301,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,1,1,0,1,2
-Sherman,301,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,1,1,0,1,2
-Sherman,301,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,1,1,0,1,2
-Sherman,301,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. Jackson,1,1,0,1,2
-Sherman,301,"Judge, Court Of Criminal Appeals, Place 7",,DEM,Ramona Franklin,1,1,0,1,2
-Sherman,301,County Chair,,DEM,Mildred Hacker,1,1,0,1,2
-Sherman,301,Proposition #1 ,,DEM,FOR,1,1,0,1,2
+Sherman,301,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,2,1,1,1,0
+Sherman,301,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,2,1,1,1,0
+Sherman,301,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,2,1,1,1,0
+Sherman,301,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. Jackson,2,1,1,1,0
+Sherman,301,"Judge, Court Of Criminal Appeals, Place 7",,DEM,Ramona Franklin,2,1,1,1,0
+Sherman,301,County Chair,,DEM,Mildred Hacker,2,1,1,1,0
+Sherman,301,Proposition #1 ,,DEM,FOR,2,1,1,1,0
 Sherman,301,Proposition #1 ,,DEM,AGAINST,0,0,0,0,0
-Sherman,301,Proposition #2,,DEM,FOR,1,0,0,0,1
+Sherman,301,Proposition #2,,DEM,FOR,1,1,0,0,0
 Sherman,301,Proposition #2,,DEM,AGAINST,0,0,0,0,0
-Sherman,301,Proposition #3,,DEM,FOR,1,1,0,1,2
+Sherman,301,Proposition #3,,DEM,FOR,2,1,1,1,0
 Sherman,301,Proposition #3,,DEM,AGAINST,0,0,0,0,0
-Sherman,301,Proposition #4,,DEM,FOR,1,1,0,1,2
+Sherman,301,Proposition #4,,DEM,FOR,2,1,1,1,0
 Sherman,301,Proposition #4,,DEM,AGAINST,0,0,0,0,0
-Sherman,301,Proposition #5,,DEM,FOR,1,1,0,1,2
+Sherman,301,Proposition #5,,DEM,FOR,2,1,1,1,0
 Sherman,301,Proposition #5,,DEM,AGAINST,0,0,0,0,0
-Sherman,301,Proposition #6,,DEM,FOR,1,0,0,0,1
+Sherman,301,Proposition #6,,DEM,FOR,1,1,0,0,0
 Sherman,301,Proposition #6,,DEM,AGAINST,0,0,0,0,0
-Sherman,301,Proposition #7,,DEM,FOR,1,1,0,1,2
+Sherman,301,Proposition #7,,DEM,FOR,2,1,1,1,0
 Sherman,301,Proposition #7,,DEM,AGAINST,0,0,0,0,0
-Sherman,301,Proposition #8,,DEM,FOR,1,1,0,1,2
+Sherman,301,Proposition #8,,DEM,FOR,2,1,1,1,0
 Sherman,301,Proposition #8,,DEM,AGAINST,0,0,0,0,0
-Sherman,301,Proposition #9,,DEM,FOR,1,1,0,1,2
+Sherman,301,Proposition #9,,DEM,FOR,2,1,1,1,0
 Sherman,301,Proposition #9,,DEM,AGAINST,0,0,0,0,0
-Sherman,301,Proposition #10,,DEM,FOR,1,1,0,1,2
+Sherman,301,Proposition #10,,DEM,FOR,2,1,1,1,0
 Sherman,301,Proposition #10,,DEM,AGAINST,0,0,0,0,0
-Sherman,301,Proposition #11,,DEM,FOR,1,1,0,1,2
+Sherman,301,Proposition #11,,DEM,FOR,2,1,1,1,0
 Sherman,301,Proposition #11,,DEM,AGAINST,0,0,0,0,0
-Sherman,301,Proposition #12,,DEM,FOR,1,1,0,1,2
+Sherman,301,Proposition #12,,DEM,FOR,2,1,1,1,0
 Sherman,301,Proposition #12,,DEM,AGAINST,0,0,0,0,0
 Sherman,302,U.S. Senator,,REP,Stefano de Stefano,0,0,0,0,0
-Sherman,302,U.S. Senator,,REP,"Bruce Jacobson, Jr.",1,0,0,0,1
+Sherman,302,U.S. Senator,,REP,"Bruce Jacobson, Jr.",1,1,0,0,0
 Sherman,302,U.S. Senator,,REP,Geraldine Sam,0,0,0,0,0
-Sherman,302,U.S. Senator,,REP,Ted Cruz,43,4,2,6,49
-Sherman,302,U.S. Senator,,REP,Mary Miller,6,2,0,2,8
-Sherman,302,U.S. House,13,REP,Mac Thornberry,48,5,2,7,55
-Sherman,302,Governor,,REP,SECEDE Kilgore,3,0,0,0,3
-Sherman,302,Governor,,REP,Greg Abbott,43,6,2,8,51
-Sherman,302,Governor,,REP,Barbara Krueger,5,0,0,0,5
-Sherman,302,Lt. Governor,,REP,Scott Milder,14,1,2,3,17
-Sherman,302,Lt. Governor,,REP,Dan Patrick,35,5,0,5,40
-Sherman,302,Attorney General,,REP,Ken Paxton,45,6,2,8,53
-Sherman,302,Comptroller of Public Accounts,,REP,Glenn Hegar,40,6,2,8,48
-Sherman,302,Comm of the General Land Office,,REP,Davey Edwards,4,2,0,2,6
-Sherman,302,Comm of the General Land Office,,REP,Jerry Patterson,5,0,0,0,5
-Sherman,302,Comm of the General Land Office,,REP,George P. Bush,35,4,2,6,41
-Sherman,302,Comm of the General Land Office,,REP,Rick Range,3,0,0,0,3
-Sherman,302,Comm of Agriculture,,REP,Jim Hogan,12,1,1,2,14
-Sherman,302,Comm of Agriculture,,REP,Sid Miller,27,4,1,5,32
-Sherman,302,Comm of Agriculture,,REP,Trey Blocker,6,1,0,1,7
-Sherman,302,Railroad Comm,,REP,Weston Martinez,17,1,1,2,19
-Sherman,302,Railroad Comm,,REP,Christi Craddick,29,5,1,6,35
-Sherman,302,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,41,6,2,8,49
-Sherman,302,"Justice, Supreme Court, Place 4",,REP,John Devine,40,6,2,8,48
-Sherman,302,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,40,6,2,8,48
-Sherman,302,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,23,1,1,2,25
-Sherman,302,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,19,5,1,6,25
-Sherman,302,"Judge, Court Of Criminal Appeals, Place 7",,REP,Barbara P. Hervey,41,6,2,8,49
-Sherman,302,"Judge, Court of Criminal Apeals, Place 8",,REP,Jay Brandon,22,4,1,5,27
-Sherman,302,"Judge, Court of Criminal Apeals, Place 8",,REP,Michelle Slaughter,12,1,1,2,14
-Sherman,302,"Judge, Court of Criminal Apeals, Place 8",,REP,Dib Waldrip,4,1,0,1,5
-Sherman,302,State Senator,31,REP,Victor Leal,8,1,0,1,9
-Sherman,302,State Senator,31,REP,Mike Canon,17,3,0,3,20
-Sherman,302,State Senator,31,REP,Kel Seliger,25,2,2,4,29
-Sherman,302,State Representative,87,REP,Drew Brassfield,16,1,0,1,17
-Sherman,302,State Representative,87,REP,Four Price,34,5,2,7,41
-Sherman,302,"Justice, 7th Court of Appeals Dist, Place 2",,REP,Judy Parker,41,6,2,8,49
-Sherman,302,"Justice, 7th Court Of Appeals Dist, Place 3",,REP,Pat Pirtle,41,6,2,8,49
-Sherman,302,"District Judge, 69th Judicial Dist",,REP,Ron Enns,44,5,2,7,51
-Sherman,302,County Judge,,REP,Terri Beth Carter,43,6,2,8,51
-Sherman,302,District and County Clerk,,REP,Laura Rogers,22,1,2,3,25
-Sherman,302,District and County Clerk,,REP,Maida Reyes,11,1,0,1,12
-Sherman,302,District and County Clerk,,REP,Billye Zak,17,4,0,4,21
-Sherman,302,County Treasurer,,REP,Doris Parsons,45,6,2,8,53
-Sherman,302,Justice of the Peace,,REP,Margaret Ewers,24,1,0,1,25
-Sherman,302,Justice of the Peace,,REP,Shannon Sellers,4,0,0,0,4
-Sherman,302,Justice of the Peace,,REP,Brenda J. Acker,23,5,2,7,30
-Sherman,302,County Chairman,,REP,Susie E Spurlock,45,5,2,7,52
-Sherman,302,Proposition 1,,REP,FOR,29,4,2,6,35
-Sherman,302,Proposition 1,,REP,AGAINST,19,2,0,2,21
-Sherman,302,Proposition 2,,REP,FOR,47,5,2,7,54
-Sherman,302,Proposition 2,,REP,AGAINST,2,1,0,1,3
-Sherman,302,Proposition 3,,REP,FOR,47,6,2,8,55
-Sherman,302,Proposition 3,,REP,AGAINST,2,0,0,0,2
-Sherman,302,Proposition 4,,REP,FOR,44,4,2,6,50
-Sherman,302,Proposition 4,,REP,AGAINST,6,2,0,2,8
-Sherman,302,Proposition 5,,REP,FOR,29,4,2,6,35
-Sherman,302,Proposition 5,,REP,AGAINST,21,2,0,2,23
-Sherman,302,Proposition 6,,REP,FOR,45,6,2,8,53
-Sherman,302,Proposition 6,,REP,AGAINST,5,0,0,0,5
-Sherman,302,Proposition 7,,REP,FOR,44,6,1,7,51
-Sherman,302,Proposition 7,,REP,AGAINST,5,0,1,1,6
-Sherman,302,Proposition 8,,REP,FOR,50,5,2,7,57
-Sherman,302,Proposition 8,,REP,AGAINST,0,1,0,1,1
-Sherman,302,Proposition 9,,REP,FOR,45,6,2,8,53
-Sherman,302,Proposition 9,,REP,AGAINST,4,0,0,0,4
-Sherman,302,Proposition 10,,REP,FOR,48,5,2,7,55
-Sherman,302,Proposition 10,,REP,AGAINST,1,1,0,1,2
-Sherman,302,Proposition 11,,REP,FOR,47,6,1,7,54
-Sherman,302,Proposition 11,,REP,AGAINST,3,0,1,1,4
-Sherman,302,U.S. Senator,,DEM,Edward Kimbrough,1,0,2,2,3
+Sherman,302,U.S. Senator,,REP,Ted Cruz,49,43,6,4,2
+Sherman,302,U.S. Senator,,REP,Mary Miller,8,6,2,2,0
+Sherman,302,U.S. House,13,REP,Mac Thornberry,55,48,7,5,2
+Sherman,302,Governor,,REP,SECEDE Kilgore,3,3,0,0,0
+Sherman,302,Governor,,REP,Greg Abbott,51,43,8,6,2
+Sherman,302,Governor,,REP,Barbara Krueger,5,5,0,0,0
+Sherman,302,Lt. Governor,,REP,Scott Milder,17,14,3,1,2
+Sherman,302,Lt. Governor,,REP,Dan Patrick,40,35,5,5,0
+Sherman,302,Attorney General,,REP,Ken Paxton,53,45,8,6,2
+Sherman,302,Comptroller of Public Accounts,,REP,Glenn Hegar,48,40,8,6,2
+Sherman,302,Comm of the General Land Office,,REP,Davey Edwards,6,4,2,2,0
+Sherman,302,Comm of the General Land Office,,REP,Jerry Patterson,5,5,0,0,0
+Sherman,302,Comm of the General Land Office,,REP,George P. Bush,41,35,6,4,2
+Sherman,302,Comm of the General Land Office,,REP,Rick Range,3,3,0,0,0
+Sherman,302,Comm of Agriculture,,REP,Jim Hogan,14,12,2,1,1
+Sherman,302,Comm of Agriculture,,REP,Sid Miller,32,27,5,4,1
+Sherman,302,Comm of Agriculture,,REP,Trey Blocker,7,6,1,1,0
+Sherman,302,Railroad Comm,,REP,Weston Martinez,19,17,2,1,1
+Sherman,302,Railroad Comm,,REP,Christi Craddick,35,29,6,5,1
+Sherman,302,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,49,41,8,6,2
+Sherman,302,"Justice, Supreme Court, Place 4",,REP,John Devine,48,40,8,6,2
+Sherman,302,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,48,40,8,6,2
+Sherman,302,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,25,23,2,1,1
+Sherman,302,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,25,19,6,5,1
+Sherman,302,"Judge, Court Of Criminal Appeals, Place 7",,REP,Barbara P. Hervey,49,41,8,6,2
+Sherman,302,"Judge, Court of Criminal Apeals, Place 8",,REP,Jay Brandon,27,22,5,4,1
+Sherman,302,"Judge, Court of Criminal Apeals, Place 8",,REP,Michelle Slaughter,14,12,2,1,1
+Sherman,302,"Judge, Court of Criminal Apeals, Place 8",,REP,Dib Waldrip,5,4,1,1,0
+Sherman,302,State Senator,31,REP,Victor Leal,9,8,1,1,0
+Sherman,302,State Senator,31,REP,Mike Canon,20,17,3,3,0
+Sherman,302,State Senator,31,REP,Kel Seliger,29,25,4,2,2
+Sherman,302,State Representative,87,REP,Drew Brassfield,17,16,1,1,0
+Sherman,302,State Representative,87,REP,Four Price,41,34,7,5,2
+Sherman,302,"Justice, 7th Court of Appeals Dist, Place 2",,REP,Judy Parker,49,41,8,6,2
+Sherman,302,"Justice, 7th Court Of Appeals Dist, Place 3",,REP,Pat Pirtle,49,41,8,6,2
+Sherman,302,"District Judge, 69th Judicial Dist",,REP,Ron Enns,51,44,7,5,2
+Sherman,302,County Judge,,REP,Terri Beth Carter,51,43,8,6,2
+Sherman,302,District and County Clerk,,REP,Laura Rogers,25,22,3,1,2
+Sherman,302,District and County Clerk,,REP,Maida Reyes,12,11,1,1,0
+Sherman,302,District and County Clerk,,REP,Billye Zak,21,17,4,4,0
+Sherman,302,County Treasurer,,REP,Doris Parsons,53,45,8,6,2
+Sherman,302,Justice of the Peace,,REP,Margaret Ewers,25,24,1,1,0
+Sherman,302,Justice of the Peace,,REP,Shannon Sellers,4,4,0,0,0
+Sherman,302,Justice of the Peace,,REP,Brenda J. Acker,30,23,7,5,2
+Sherman,302,County Chairman,,REP,Susie E Spurlock,52,45,7,5,2
+Sherman,302,Proposition 1,,REP,FOR,35,29,6,4,2
+Sherman,302,Proposition 1,,REP,AGAINST,21,19,2,2,0
+Sherman,302,Proposition 2,,REP,FOR,54,47,7,5,2
+Sherman,302,Proposition 2,,REP,AGAINST,3,2,1,1,0
+Sherman,302,Proposition 3,,REP,FOR,55,47,8,6,2
+Sherman,302,Proposition 3,,REP,AGAINST,2,2,0,0,0
+Sherman,302,Proposition 4,,REP,FOR,50,44,6,4,2
+Sherman,302,Proposition 4,,REP,AGAINST,8,6,2,2,0
+Sherman,302,Proposition 5,,REP,FOR,35,29,6,4,2
+Sherman,302,Proposition 5,,REP,AGAINST,23,21,2,2,0
+Sherman,302,Proposition 6,,REP,FOR,53,45,8,6,2
+Sherman,302,Proposition 6,,REP,AGAINST,5,5,0,0,0
+Sherman,302,Proposition 7,,REP,FOR,51,44,7,6,1
+Sherman,302,Proposition 7,,REP,AGAINST,6,5,1,0,1
+Sherman,302,Proposition 8,,REP,FOR,57,50,7,5,2
+Sherman,302,Proposition 8,,REP,AGAINST,1,0,1,1,0
+Sherman,302,Proposition 9,,REP,FOR,53,45,8,6,2
+Sherman,302,Proposition 9,,REP,AGAINST,4,4,0,0,0
+Sherman,302,Proposition 10,,REP,FOR,55,48,7,5,2
+Sherman,302,Proposition 10,,REP,AGAINST,2,1,1,1,0
+Sherman,302,Proposition 11,,REP,FOR,54,47,7,6,1
+Sherman,302,Proposition 11,,REP,AGAINST,4,3,1,0,1
+Sherman,302,U.S. Senator,,DEM,Edward Kimbrough,3,1,2,0,2
 Sherman,302,U.S. Senator,,DEM,Beto O'Rourke,0,0,0,0,0
 Sherman,302,U.S. Senator,,DEM,Sema Hernandez,0,0,0,0,0
-Sherman,302,U.S. House,13,DEM,Greg Sagan,0,0,2,2,2
+Sherman,302,U.S. House,13,DEM,Greg Sagan,2,0,2,0,2
 Sherman,302,Governor,,DEM,Adrian Ocegueda,0,0,0,0,0
 Sherman,302,Governor,,DEM,Joe Mumbach,0,0,0,0,0
-Sherman,302,Governor,,DEM,James Jolly Clark,0,0,1,1,1
-Sherman,302,Governor,,DEM,"Cedric Davis, Sr.",0,0,1,1,1
+Sherman,302,Governor,,DEM,James Jolly Clark,1,0,1,0,1
+Sherman,302,Governor,,DEM,"Cedric Davis, Sr.",1,0,1,0,1
 Sherman,302,Governor,,DEM,Jeffrey Payne,0,0,0,0,0
 Sherman,302,Governor,,DEM,Tom Wakely,0,0,0,0,0
 Sherman,302,Governor,,DEM,Lupe Valdez,0,0,0,0,0
 Sherman,302,Governor,,DEM,Grady Yarbrough,0,0,0,0,0
-Sherman,302,Governor,,DEM,Andrew White,1,0,0,0,1
-Sherman,302,Lt. Governor,,DEM,Mike Collier,0,0,1,1,1
-Sherman,302,Lt. Governor,,DEM,Michael Cooper,1,0,1,1,2
-Sherman,302,Attorney General,,DEM,Justin Nelson,1,0,2,2,3
-Sherman,302,Comptroller of Public Accounts,,DEM,Tim Mahoney,1,0,1,1,2
-Sherman,302,Comptroller of Public Accounts,,DEM,Joi Chevalier,0,0,1,1,1
-Sherman,302,Comm of the General Land Office,,DEM,Miguel Suazo,0,0,1,1,1
-Sherman,302,Comm of the General Land Office,,DEM,Tex Morgan,1,0,1,1,2
-Sherman,302,Comm of Agriculture,,DEM,Kim Olson,1,0,2,2,3
-Sherman,302,Railroad Comm,,DEM,Roman McAllen,1,0,0,0,1
-Sherman,302,Railroad Comm,,DEM,Chris Spellmon,0,0,2,2,2
-Sherman,302,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,1,0,2,2,3
-Sherman,302,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,1,0,2,2,3
-Sherman,302,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,1,0,2,2,3
-Sherman,302,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. Jackson,0,0,2,2,2
-Sherman,302,"Judge, Court Of Criminal Appeals, Place 7",,DEM,Ramona Franklin,1,0,2,2,3
-Sherman,302,County Chair,,DEM,Mildred Hacker,0,0,2,2,2
-Sherman,302,Proposition #1 ,,DEM,FOR,1,0,2,2,3
+Sherman,302,Governor,,DEM,Andrew White,1,1,0,0,0
+Sherman,302,Lt. Governor,,DEM,Mike Collier,1,0,1,0,1
+Sherman,302,Lt. Governor,,DEM,Michael Cooper,2,1,1,0,1
+Sherman,302,Attorney General,,DEM,Justin Nelson,3,1,2,0,2
+Sherman,302,Comptroller of Public Accounts,,DEM,Tim Mahoney,2,1,1,0,1
+Sherman,302,Comptroller of Public Accounts,,DEM,Joi Chevalier,1,0,1,0,1
+Sherman,302,Comm of the General Land Office,,DEM,Miguel Suazo,1,0,1,0,1
+Sherman,302,Comm of the General Land Office,,DEM,Tex Morgan,2,1,1,0,1
+Sherman,302,Comm of Agriculture,,DEM,Kim Olson,3,1,2,0,2
+Sherman,302,Railroad Comm,,DEM,Roman McAllen,1,1,0,0,0
+Sherman,302,Railroad Comm,,DEM,Chris Spellmon,2,0,2,0,2
+Sherman,302,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,3,1,2,0,2
+Sherman,302,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,3,1,2,0,2
+Sherman,302,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,3,1,2,0,2
+Sherman,302,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. Jackson,2,0,2,0,2
+Sherman,302,"Judge, Court Of Criminal Appeals, Place 7",,DEM,Ramona Franklin,3,1,2,0,2
+Sherman,302,County Chair,,DEM,Mildred Hacker,2,0,2,0,2
+Sherman,302,Proposition #1 ,,DEM,FOR,3,1,2,0,2
 Sherman,302,Proposition #1 ,,DEM,AGAINST,0,0,0,0,0
-Sherman,302,Proposition #2,,DEM,FOR,1,0,2,2,3
+Sherman,302,Proposition #2,,DEM,FOR,3,1,2,0,2
 Sherman,302,Proposition #2,,DEM,AGAINST,0,0,0,0,0
-Sherman,302,Proposition #3,,DEM,FOR,1,0,2,2,3
+Sherman,302,Proposition #3,,DEM,FOR,3,1,2,0,2
 Sherman,302,Proposition #3,,DEM,AGAINST,0,0,0,0,0
-Sherman,302,Proposition #4,,DEM,FOR,2,0,2,2,4
+Sherman,302,Proposition #4,,DEM,FOR,4,2,2,0,2
 Sherman,302,Proposition #4,,DEM,AGAINST,0,0,0,0,0
-Sherman,302,Proposition #5,,DEM,FOR,1,0,2,2,3
+Sherman,302,Proposition #5,,DEM,FOR,3,1,2,0,2
 Sherman,302,Proposition #5,,DEM,AGAINST,0,0,0,0,0
-Sherman,302,Proposition #6,,DEM,FOR,1,0,2,2,3
+Sherman,302,Proposition #6,,DEM,FOR,3,1,2,0,2
 Sherman,302,Proposition #6,,DEM,AGAINST,0,0,0,0,0
-Sherman,302,Proposition #7,,DEM,FOR,1,0,2,2,3
+Sherman,302,Proposition #7,,DEM,FOR,3,1,2,0,2
 Sherman,302,Proposition #7,,DEM,AGAINST,0,0,0,0,0
-Sherman,302,Proposition #8,,DEM,FOR,2,0,2,2,4
+Sherman,302,Proposition #8,,DEM,FOR,4,2,2,0,2
 Sherman,302,Proposition #8,,DEM,AGAINST,0,0,0,0,0
-Sherman,302,Proposition #9,,DEM,FOR,1,0,2,2,3
-Sherman,302,Proposition #9,,DEM,AGAINST,1,0,0,0,1
-Sherman,302,Proposition #10,,DEM,FOR,2,0,2,2,4
+Sherman,302,Proposition #9,,DEM,FOR,3,1,2,0,2
+Sherman,302,Proposition #9,,DEM,AGAINST,1,1,0,0,0
+Sherman,302,Proposition #10,,DEM,FOR,4,2,2,0,2
 Sherman,302,Proposition #10,,DEM,AGAINST,0,0,0,0,0
-Sherman,302,Proposition #11,,DEM,FOR,2,0,2,2,4
+Sherman,302,Proposition #11,,DEM,FOR,4,2,2,0,2
 Sherman,302,Proposition #11,,DEM,AGAINST,0,0,0,0,0
-Sherman,302,Proposition #12,,DEM,FOR,2,0,2,2,4
+Sherman,302,Proposition #12,,DEM,FOR,4,2,2,0,2
 Sherman,302,Proposition #12,,DEM,AGAINST,0,0,0,0,0
-Sherman,401,U.S. Senator,,REP,Stefano de Stefano,1,3,0,3,4
-Sherman,401,U.S. Senator,,REP,"Bruce Jacobson, Jr.",2,8,1,9,11
-Sherman,401,U.S. Senator,,REP,Geraldine Sam,2,5,0,5,7
-Sherman,401,U.S. Senator,,REP,Ted Cruz,90,84,10,94,184
-Sherman,401,U.S. Senator,,REP,Mary Miller,5,2,1,3,8
-Sherman,401,U.S. House,13,REP,Mac Thornberry,89,91,12,103,192
-Sherman,401,Governor,,REP,SECEDE Kilgore,3,0,0,0,3
-Sherman,401,Governor,,REP,Greg Abbott,81,95,11,106,187
-Sherman,401,Governor,,REP,Barbara Krueger,10,7,1,8,18
-Sherman,401,Lt. Governor,,REP,Scott Milder,46,37,1,38,84
-Sherman,401,Lt. Governor,,REP,Dan Patrick,52,63,9,72,124
-Sherman,401,Attorney General,,REP,Ken Paxton,82,87,10,97,179
-Sherman,401,Comptroller of Public Accounts,,REP,Glenn Hegar,78,85,9,94,172
-Sherman,401,Comm of the General Land Office,,REP,Davey Edwards,7,6,1,7,14
-Sherman,401,Comm of the General Land Office,,REP,Jerry Patterson,14,16,3,19,33
-Sherman,401,Comm of the General Land Office,,REP,George P. Bush,67,64,4,68,135
-Sherman,401,Comm of the General Land Office,,REP,Rick Range,5,7,1,8,13
-Sherman,401,Comm of Agriculture,,REP,Jim Hogan,32,22,1,23,55
-Sherman,401,Comm of Agriculture,,REP,Sid Miller,38,47,3,50,88
-Sherman,401,Comm of Agriculture,,REP,Trey Blocker,12,14,3,17,29
-Sherman,401,Railroad Comm,,REP,Weston Martinez,28,17,0,17,45
-Sherman,401,Railroad Comm,,REP,Christi Craddick,52,66,8,74,126
-Sherman,401,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,70,82,8,90,160
-Sherman,401,"Justice, Supreme Court, Place 4",,REP,John Devine,70,80,8,88,158
-Sherman,401,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,71,79,7,86,157
-Sherman,401,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,29,34,3,37,66
-Sherman,401,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,44,43,4,47,91
-Sherman,401,"Judge, Court Of Criminal Appeals, Place 7",,REP,Barbara P. Hervey,70,75,8,83,153
-Sherman,401,"Judge, Court of Criminal Apeals, Place 8",,REP,Jay Brandon,34,40,3,43,77
-Sherman,401,"Judge, Court of Criminal Apeals, Place 8",,REP,Michelle Slaughter,31,23,4,27,58
-Sherman,401,"Judge, Court of Criminal Apeals, Place 8",,REP,Dib Waldrip,4,10,0,10,14
-Sherman,401,State Senator,31,REP,Victor Leal,41,44,3,47,88
-Sherman,401,State Senator,31,REP,Mike Canon,15,14,2,16,31
-Sherman,401,State Senator,31,REP,Kel Seliger,47,45,7,52,99
-Sherman,401,State Representative,87,REP,Drew Brassfield,23,15,2,17,40
-Sherman,401,State Representative,87,REP,Four Price,80,89,11,100,180
-Sherman,401,"Justice, 7th Court of Appeals Dist, Place 2",,REP,Judy Parker,72,78,7,85,157
-Sherman,401,"Justice, 7th Court Of Appeals Dist, Place 3",,REP,Pat Pirtle,71,79,8,87,158
-Sherman,401,"District Judge, 69th Judicial Dist",,REP,Ron Enns,86,94,11,105,191
-Sherman,401,County Judge,,REP,Terri Beth Carter,86,95,12,107,193
-Sherman,401,District and County Clerk,,REP,Laura Rogers,44,37,5,42,86
-Sherman,401,District and County Clerk,,REP,Maida Reyes,34,51,4,55,89
-Sherman,401,District and County Clerk,,REP,Billye Zak,27,20,4,24,51
-Sherman,401,County Treasurer,,REP,Doris Parsons,94,102,12,114,208
-Sherman,401,"County Comm, Pct No. 4",,REP,David Davis,92,95,10,105,197
-Sherman,401,Justice of the Peace,,REP,Margaret Ewers,27,38,9,47,74
-Sherman,401,Justice of the Peace,,REP,Shannon Sellers,12,10,0,10,22
-Sherman,401,Justice of the Peace,,REP,Brenda J. Acker,65,59,3,62,127
-Sherman,401,County Chairman,,REP,Susie E Spurlock,95,97,11,108,203
-Sherman,401,Proposition 1,,REP,FOR,65,77,6,83,148
-Sherman,401,Proposition 1,,REP,AGAINST,33,19,3,22,55
-Sherman,401,Proposition 2,,REP,FOR,88,86,10,96,184
-Sherman,401,Proposition 2,,REP,AGAINST,11,18,1,19,30
-Sherman,401,Proposition 3,,REP,FOR,80,85,11,96,176
-Sherman,401,Proposition 3,,REP,AGAINST,20,18,0,18,38
-Sherman,401,Proposition 4,,REP,FOR,74,94,10,104,178
-Sherman,401,Proposition 4,,REP,AGAINST,24,10,1,11,35
-Sherman,401,Proposition 5,,REP,FOR,57,62,8,70,127
-Sherman,401,Proposition 5,,REP,AGAINST,43,39,1,40,83
-Sherman,401,Proposition 6,,REP,FOR,90,91,10,101,191
-Sherman,401,Proposition 6,,REP,AGAINST,9,14,0,14,23
-Sherman,401,Proposition 7,,REP,FOR,59,67,8,75,134
-Sherman,401,Proposition 7,,REP,AGAINST,41,32,1,33,74
-Sherman,401,Proposition 8,,REP,FOR,100,101,11,112,212
-Sherman,401,Proposition 8,,REP,AGAINST,3,6,0,6,9
-Sherman,401,Proposition 9,,REP,FOR,90,95,9,104,194
-Sherman,401,Proposition 9,,REP,AGAINST,10,9,0,9,19
-Sherman,401,Proposition 10,,REP,FOR,87,86,10,96,183
-Sherman,401,Proposition 10,,REP,AGAINST,11,15,0,15,26
-Sherman,401,Proposition 11,,REP,FOR,82,93,10,103,185
-Sherman,401,Proposition 11,,REP,AGAINST,16,12,0,12,28
-Sherman,401,U.S. Senator,,DEM,Edward Kimbrough,0,1,0,1,1
-Sherman,401,U.S. Senator,,DEM,Beto O'Rourke,1,0,0,0,1
-Sherman,401,U.S. Senator,,DEM,Sema Hernandez,1,0,0,0,1
-Sherman,401,U.S. House,13,DEM,Greg Sagan,2,0,0,0,2
-Sherman,401,Governor,,DEM,Adrian Ocegueda,1,0,0,0,1
+Sherman,401,U.S. Senator,,REP,Stefano de Stefano,4,1,3,3,0
+Sherman,401,U.S. Senator,,REP,"Bruce Jacobson, Jr.",11,2,9,8,1
+Sherman,401,U.S. Senator,,REP,Geraldine Sam,7,2,5,5,0
+Sherman,401,U.S. Senator,,REP,Ted Cruz,184,90,94,84,10
+Sherman,401,U.S. Senator,,REP,Mary Miller,8,5,3,2,1
+Sherman,401,U.S. House,13,REP,Mac Thornberry,192,89,103,91,12
+Sherman,401,Governor,,REP,SECEDE Kilgore,3,3,0,0,0
+Sherman,401,Governor,,REP,Greg Abbott,187,81,106,95,11
+Sherman,401,Governor,,REP,Barbara Krueger,18,10,8,7,1
+Sherman,401,Lt. Governor,,REP,Scott Milder,84,46,38,37,1
+Sherman,401,Lt. Governor,,REP,Dan Patrick,124,52,72,63,9
+Sherman,401,Attorney General,,REP,Ken Paxton,179,82,97,87,10
+Sherman,401,Comptroller of Public Accounts,,REP,Glenn Hegar,172,78,94,85,9
+Sherman,401,Comm of the General Land Office,,REP,Davey Edwards,14,7,7,6,1
+Sherman,401,Comm of the General Land Office,,REP,Jerry Patterson,33,14,19,16,3
+Sherman,401,Comm of the General Land Office,,REP,George P. Bush,135,67,68,64,4
+Sherman,401,Comm of the General Land Office,,REP,Rick Range,13,5,8,7,1
+Sherman,401,Comm of Agriculture,,REP,Jim Hogan,55,32,23,22,1
+Sherman,401,Comm of Agriculture,,REP,Sid Miller,88,38,50,47,3
+Sherman,401,Comm of Agriculture,,REP,Trey Blocker,29,12,17,14,3
+Sherman,401,Railroad Comm,,REP,Weston Martinez,45,28,17,17,0
+Sherman,401,Railroad Comm,,REP,Christi Craddick,126,52,74,66,8
+Sherman,401,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,160,70,90,82,8
+Sherman,401,"Justice, Supreme Court, Place 4",,REP,John Devine,158,70,88,80,8
+Sherman,401,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,157,71,86,79,7
+Sherman,401,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,66,29,37,34,3
+Sherman,401,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,91,44,47,43,4
+Sherman,401,"Judge, Court Of Criminal Appeals, Place 7",,REP,Barbara P. Hervey,153,70,83,75,8
+Sherman,401,"Judge, Court of Criminal Apeals, Place 8",,REP,Jay Brandon,77,34,43,40,3
+Sherman,401,"Judge, Court of Criminal Apeals, Place 8",,REP,Michelle Slaughter,58,31,27,23,4
+Sherman,401,"Judge, Court of Criminal Apeals, Place 8",,REP,Dib Waldrip,14,4,10,10,0
+Sherman,401,State Senator,31,REP,Victor Leal,88,41,47,44,3
+Sherman,401,State Senator,31,REP,Mike Canon,31,15,16,14,2
+Sherman,401,State Senator,31,REP,Kel Seliger,99,47,52,45,7
+Sherman,401,State Representative,87,REP,Drew Brassfield,40,23,17,15,2
+Sherman,401,State Representative,87,REP,Four Price,180,80,100,89,11
+Sherman,401,"Justice, 7th Court of Appeals Dist, Place 2",,REP,Judy Parker,157,72,85,78,7
+Sherman,401,"Justice, 7th Court Of Appeals Dist, Place 3",,REP,Pat Pirtle,158,71,87,79,8
+Sherman,401,"District Judge, 69th Judicial Dist",,REP,Ron Enns,191,86,105,94,11
+Sherman,401,County Judge,,REP,Terri Beth Carter,193,86,107,95,12
+Sherman,401,District and County Clerk,,REP,Laura Rogers,86,44,42,37,5
+Sherman,401,District and County Clerk,,REP,Maida Reyes,89,34,55,51,4
+Sherman,401,District and County Clerk,,REP,Billye Zak,51,27,24,20,4
+Sherman,401,County Treasurer,,REP,Doris Parsons,208,94,114,102,12
+Sherman,401,"County Comm, Pct No. 4",,REP,David Davis,197,92,105,95,10
+Sherman,401,Justice of the Peace,,REP,Margaret Ewers,74,27,47,38,9
+Sherman,401,Justice of the Peace,,REP,Shannon Sellers,22,12,10,10,0
+Sherman,401,Justice of the Peace,,REP,Brenda J. Acker,127,65,62,59,3
+Sherman,401,County Chairman,,REP,Susie E Spurlock,203,95,108,97,11
+Sherman,401,Proposition 1,,REP,FOR,148,65,83,77,6
+Sherman,401,Proposition 1,,REP,AGAINST,55,33,22,19,3
+Sherman,401,Proposition 2,,REP,FOR,184,88,96,86,10
+Sherman,401,Proposition 2,,REP,AGAINST,30,11,19,18,1
+Sherman,401,Proposition 3,,REP,FOR,176,80,96,85,11
+Sherman,401,Proposition 3,,REP,AGAINST,38,20,18,18,0
+Sherman,401,Proposition 4,,REP,FOR,178,74,104,94,10
+Sherman,401,Proposition 4,,REP,AGAINST,35,24,11,10,1
+Sherman,401,Proposition 5,,REP,FOR,127,57,70,62,8
+Sherman,401,Proposition 5,,REP,AGAINST,83,43,40,39,1
+Sherman,401,Proposition 6,,REP,FOR,191,90,101,91,10
+Sherman,401,Proposition 6,,REP,AGAINST,23,9,14,14,0
+Sherman,401,Proposition 7,,REP,FOR,134,59,75,67,8
+Sherman,401,Proposition 7,,REP,AGAINST,74,41,33,32,1
+Sherman,401,Proposition 8,,REP,FOR,212,100,112,101,11
+Sherman,401,Proposition 8,,REP,AGAINST,9,3,6,6,0
+Sherman,401,Proposition 9,,REP,FOR,194,90,104,95,9
+Sherman,401,Proposition 9,,REP,AGAINST,19,10,9,9,0
+Sherman,401,Proposition 10,,REP,FOR,183,87,96,86,10
+Sherman,401,Proposition 10,,REP,AGAINST,26,11,15,15,0
+Sherman,401,Proposition 11,,REP,FOR,185,82,103,93,10
+Sherman,401,Proposition 11,,REP,AGAINST,28,16,12,12,0
+Sherman,401,U.S. Senator,,DEM,Edward Kimbrough,1,0,1,1,0
+Sherman,401,U.S. Senator,,DEM,Beto O'Rourke,1,1,0,0,0
+Sherman,401,U.S. Senator,,DEM,Sema Hernandez,1,1,0,0,0
+Sherman,401,U.S. House,13,DEM,Greg Sagan,2,2,0,0,0
+Sherman,401,Governor,,DEM,Adrian Ocegueda,1,1,0,0,0
 Sherman,401,Governor,,DEM,Joe Mumbach,0,0,0,0,0
-Sherman,401,Governor,,DEM,James Jolly Clark,0,1,0,1,1
+Sherman,401,Governor,,DEM,James Jolly Clark,1,0,1,1,0
 Sherman,401,Governor,,DEM,"Cedric Davis, Sr.",0,0,0,0,0
 Sherman,401,Governor,,DEM,Jeffrey Payne,0,0,0,0,0
 Sherman,401,Governor,,DEM,Tom Wakely,0,0,0,0,0
 Sherman,401,Governor,,DEM,Lupe Valdez,0,0,0,0,0
 Sherman,401,Governor,,DEM,Grady Yarbrough,0,0,0,0,0
-Sherman,401,Governor,,DEM,Andrew White,1,0,0,0,1
-Sherman,401,Lt. Governor,,DEM,Mike Collier,1,0,0,0,1
-Sherman,401,Lt. Governor,,DEM,Michael Cooper,0,1,0,1,1
-Sherman,401,Attorney General,,DEM,Justin Nelson,1,0,0,0,1
-Sherman,401,Comptroller of Public Accounts,,DEM,Tim Mahoney,1,1,0,1,2
-Sherman,401,Comptroller of Public Accounts,,DEM,Joi Chevalier,1,0,0,0,1
-Sherman,401,Comm of the General Land Office,,DEM,Miguel Suazo,1,0,0,0,1
-Sherman,401,Comm of the General Land Office,,DEM,Tex Morgan,1,1,0,1,2
-Sherman,401,Comm of Agriculture,,DEM,Kim Olson,1,1,0,1,2
-Sherman,401,Railroad Comm,,DEM,Roman McAllen,1,0,0,0,1
-Sherman,401,Railroad Comm,,DEM,Chris Spellmon,1,1,0,1,2
-Sherman,401,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,1,1,0,1,2
-Sherman,401,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,1,0,0,0,1
-Sherman,401,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,1,0,0,0,1
-Sherman,401,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. Jackson,1,0,0,0,1
-Sherman,401,"Judge, Court Of Criminal Appeals, Place 7",,DEM,Ramona Franklin,1,0,0,0,1
-Sherman,401,County Chair,,DEM,Mildred Hacker,1,0,0,0,1
-Sherman,401,Proposition #1 ,,DEM,FOR,2,1,0,1,3
+Sherman,401,Governor,,DEM,Andrew White,1,1,0,0,0
+Sherman,401,Lt. Governor,,DEM,Mike Collier,1,1,0,0,0
+Sherman,401,Lt. Governor,,DEM,Michael Cooper,1,0,1,1,0
+Sherman,401,Attorney General,,DEM,Justin Nelson,1,1,0,0,0
+Sherman,401,Comptroller of Public Accounts,,DEM,Tim Mahoney,2,1,1,1,0
+Sherman,401,Comptroller of Public Accounts,,DEM,Joi Chevalier,1,1,0,0,0
+Sherman,401,Comm of the General Land Office,,DEM,Miguel Suazo,1,1,0,0,0
+Sherman,401,Comm of the General Land Office,,DEM,Tex Morgan,2,1,1,1,0
+Sherman,401,Comm of Agriculture,,DEM,Kim Olson,2,1,1,1,0
+Sherman,401,Railroad Comm,,DEM,Roman McAllen,1,1,0,0,0
+Sherman,401,Railroad Comm,,DEM,Chris Spellmon,2,1,1,1,0
+Sherman,401,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,2,1,1,1,0
+Sherman,401,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,1,1,0,0,0
+Sherman,401,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,1,1,0,0,0
+Sherman,401,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. Jackson,1,1,0,0,0
+Sherman,401,"Judge, Court Of Criminal Appeals, Place 7",,DEM,Ramona Franklin,1,1,0,0,0
+Sherman,401,County Chair,,DEM,Mildred Hacker,1,1,0,0,0
+Sherman,401,Proposition #1 ,,DEM,FOR,3,2,1,1,0
 Sherman,401,Proposition #1 ,,DEM,AGAINST,0,0,0,0,0
-Sherman,401,Proposition #2,,DEM,FOR,2,1,0,1,3
+Sherman,401,Proposition #2,,DEM,FOR,3,2,1,1,0
 Sherman,401,Proposition #2,,DEM,AGAINST,0,0,0,0,0
-Sherman,401,Proposition #3,,DEM,FOR,2,1,0,1,3
+Sherman,401,Proposition #3,,DEM,FOR,3,2,1,1,0
 Sherman,401,Proposition #3,,DEM,AGAINST,0,0,0,0,0
-Sherman,401,Proposition #4,,DEM,FOR,2,1,0,1,3
+Sherman,401,Proposition #4,,DEM,FOR,3,2,1,1,0
 Sherman,401,Proposition #4,,DEM,AGAINST,0,0,0,0,0
-Sherman,401,Proposition #5,,DEM,FOR,2,1,0,1,3
+Sherman,401,Proposition #5,,DEM,FOR,3,2,1,1,0
 Sherman,401,Proposition #5,,DEM,AGAINST,0,0,0,0,0
-Sherman,401,Proposition #6,,DEM,FOR,2,1,0,1,3
+Sherman,401,Proposition #6,,DEM,FOR,3,2,1,1,0
 Sherman,401,Proposition #6,,DEM,AGAINST,0,0,0,0,0
-Sherman,401,Proposition #7,,DEM,FOR,2,1,0,1,3
+Sherman,401,Proposition #7,,DEM,FOR,3,2,1,1,0
 Sherman,401,Proposition #7,,DEM,AGAINST,0,0,0,0,0
-Sherman,401,Proposition #8,,DEM,FOR,1,1,0,1,2
+Sherman,401,Proposition #8,,DEM,FOR,2,1,1,1,0
 Sherman,401,Proposition #8,,DEM,AGAINST,0,0,0,0,0
-Sherman,401,Proposition #9,,DEM,FOR,2,1,0,1,3
+Sherman,401,Proposition #9,,DEM,FOR,3,2,1,1,0
 Sherman,401,Proposition #9,,DEM,AGAINST,0,0,0,0,0
-Sherman,401,Proposition #10,,DEM,FOR,2,1,0,1,3
+Sherman,401,Proposition #10,,DEM,FOR,3,2,1,1,0
 Sherman,401,Proposition #10,,DEM,AGAINST,0,0,0,0,0
-Sherman,401,Proposition #11,,DEM,FOR,2,0,0,0,2
-Sherman,401,Proposition #11,,DEM,AGAINST,0,1,0,1,1
-Sherman,401,Proposition #12,,DEM,FOR,2,1,0,1,3
+Sherman,401,Proposition #11,,DEM,FOR,2,2,0,0,0
+Sherman,401,Proposition #11,,DEM,AGAINST,1,0,1,1,0
+Sherman,401,Proposition #12,,DEM,FOR,3,2,1,1,0
 Sherman,401,Proposition #12,,DEM,AGAINST,0,0,0,0,0

@@ -1,623 +1,623 @@
-county,precinct,office,district,party,candidate,early_voting,election_day,votes
-Shelby,1N,Registered Voters,,REP,,,,1343
-Shelby,1S,Registered Voters,,REP,,,,1742
-Shelby,1SE,Registered Voters,,REP,,,,1672
-Shelby,1SW,Registered Voters,,REP,,,,1260
-Shelby,1W,Registered Voters,,REP,,,,415
-Shelby,2,Registered Voters,,REP,,,,797
-Shelby,3,Registered Voters,,REP,,,,298
-Shelby,4,Registered Voters,,REP,,,,759
-Shelby,5,Registered Voters,,REP,,,,2089
-Shelby,6,Registered Voters,,REP,,,,524
-Shelby,7,Registered Voters,,REP,,,,805
-Shelby,8,Registered Voters,,REP,,,,1153
-Shelby,9N,Registered Voters,,REP,,,,1162
-Shelby,9S,Registered Voters,,REP,,,,1017
-Shelby,1N,Ballots Cast,,REP,,160,191,351
-Shelby,1S,Ballots Cast,,REP,,222,199,421
-Shelby,1SE,Ballots Cast,,REP,,94,63,157
-Shelby,1SW,Ballots Cast,,REP,,163,171,334
-Shelby,1W,Ballots Cast,,REP,,54,74,128
-Shelby,2,Ballots Cast,,REP,,78,113,191
-Shelby,3,Ballots Cast,,REP,,37,48,85
-Shelby,4,Ballots Cast,,REP,,48,96,144
-Shelby,5,Ballots Cast,,REP,,152,344,496
-Shelby,6,Ballots Cast,,REP,,31,66,97
-Shelby,7,Ballots Cast,,REP,,51,98,149
-Shelby,8,Ballots Cast,,REP,,47,159,206
-Shelby,9N,Ballots Cast,,REP,,57,253,310
-Shelby,9S,Ballots Cast,,REP,,60,230,290
-Shelby,1N,U.S. Senate,,REP,Stefano de Stefano,1,3,4
-Shelby,1S,U.S. Senate,,REP,Stefano de Stefano,1,4,5
-Shelby,1SE,U.S. Senate,,REP,Stefano de Stefano,0,3,3
-Shelby,1SW,U.S. Senate,,REP,Stefano de Stefano,8,3,11
+county,precinct,office,district,party,candidate,votes,election_day,early_voting
+Shelby,1N,Registered Voters,,REP,,1343,,
+Shelby,1S,Registered Voters,,REP,,1742,,
+Shelby,1SE,Registered Voters,,REP,,1672,,
+Shelby,1SW,Registered Voters,,REP,,1260,,
+Shelby,1W,Registered Voters,,REP,,415,,
+Shelby,2,Registered Voters,,REP,,797,,
+Shelby,3,Registered Voters,,REP,,298,,
+Shelby,4,Registered Voters,,REP,,759,,
+Shelby,5,Registered Voters,,REP,,2089,,
+Shelby,6,Registered Voters,,REP,,524,,
+Shelby,7,Registered Voters,,REP,,805,,
+Shelby,8,Registered Voters,,REP,,1153,,
+Shelby,9N,Registered Voters,,REP,,1162,,
+Shelby,9S,Registered Voters,,REP,,1017,,
+Shelby,1N,Ballots Cast,,REP,,351,191,160
+Shelby,1S,Ballots Cast,,REP,,421,199,222
+Shelby,1SE,Ballots Cast,,REP,,157,63,94
+Shelby,1SW,Ballots Cast,,REP,,334,171,163
+Shelby,1W,Ballots Cast,,REP,,128,74,54
+Shelby,2,Ballots Cast,,REP,,191,113,78
+Shelby,3,Ballots Cast,,REP,,85,48,37
+Shelby,4,Ballots Cast,,REP,,144,96,48
+Shelby,5,Ballots Cast,,REP,,496,344,152
+Shelby,6,Ballots Cast,,REP,,97,66,31
+Shelby,7,Ballots Cast,,REP,,149,98,51
+Shelby,8,Ballots Cast,,REP,,206,159,47
+Shelby,9N,Ballots Cast,,REP,,310,253,57
+Shelby,9S,Ballots Cast,,REP,,290,230,60
+Shelby,1N,U.S. Senate,,REP,Stefano de Stefano,4,3,1
+Shelby,1S,U.S. Senate,,REP,Stefano de Stefano,5,4,1
+Shelby,1SE,U.S. Senate,,REP,Stefano de Stefano,3,3,0
+Shelby,1SW,U.S. Senate,,REP,Stefano de Stefano,11,3,8
 Shelby,1W,U.S. Senate,,REP,Stefano de Stefano,0,0,0
 Shelby,2,U.S. Senate,,REP,Stefano de Stefano,1,0,1
 Shelby,3,U.S. Senate,,REP,Stefano de Stefano,0,0,0
-Shelby,4,U.S. Senate,,REP,Stefano de Stefano,0,1,1
-Shelby,5,U.S. Senate,,REP,Stefano de Stefano,1,4,5
-Shelby,6,U.S. Senate,,REP,Stefano de Stefano,0,1,1
-Shelby,7,U.S. Senate,,REP,Stefano de Stefano,0,1,1
-Shelby,8,U.S. Senate,,REP,Stefano de Stefano,0,1,1
-Shelby,9N,U.S. Senate,,REP,Stefano de Stefano,3,1,4
-Shelby,9S,U.S. Senate,,REP,Stefano de Stefano,1,5,6
+Shelby,4,U.S. Senate,,REP,Stefano de Stefano,1,1,0
+Shelby,5,U.S. Senate,,REP,Stefano de Stefano,5,4,1
+Shelby,6,U.S. Senate,,REP,Stefano de Stefano,1,1,0
+Shelby,7,U.S. Senate,,REP,Stefano de Stefano,1,1,0
+Shelby,8,U.S. Senate,,REP,Stefano de Stefano,1,1,0
+Shelby,9N,U.S. Senate,,REP,Stefano de Stefano,4,1,3
+Shelby,9S,U.S. Senate,,REP,Stefano de Stefano,6,5,1
 Shelby,1N,U.S. Senate,,REP,Geraldine Sam,1,0,1
-Shelby,1S,U.S. Senate,,REP,Geraldine Sam,0,1,1
+Shelby,1S,U.S. Senate,,REP,Geraldine Sam,1,1,0
 Shelby,1SE,U.S. Senate,,REP,Geraldine Sam,0,0,0
 Shelby,1SW,U.S. Senate,,REP,Geraldine Sam,4,0,4
 Shelby,1W,U.S. Senate,,REP,Geraldine Sam,1,0,1
-Shelby,2,U.S. Senate,,REP,Geraldine Sam,0,2,2
-Shelby,3,U.S. Senate,,REP,Geraldine Sam,1,1,2
+Shelby,2,U.S. Senate,,REP,Geraldine Sam,2,2,0
+Shelby,3,U.S. Senate,,REP,Geraldine Sam,2,1,1
 Shelby,4,U.S. Senate,,REP,Geraldine Sam,0,0,0
-Shelby,5,U.S. Senate,,REP,Geraldine Sam,1,3,4
+Shelby,5,U.S. Senate,,REP,Geraldine Sam,4,3,1
 Shelby,6,U.S. Senate,,REP,Geraldine Sam,3,0,3
 Shelby,7,U.S. Senate,,REP,Geraldine Sam,0,0,0
 Shelby,8,U.S. Senate,,REP,Geraldine Sam,0,0,0
-Shelby,9N,U.S. Senate,,REP,Geraldine Sam,1,4,5
-Shelby,9S,U.S. Senate,,REP,Geraldine Sam,0,3,3
-Shelby,1N,U.S. Senate,,REP,Ted Cruz,136,160,296
-Shelby,1S,U.S. Senate,,REP,Ted Cruz,191,171,362
-Shelby,1SE,U.S. Senate,,REP,Ted Cruz,82,50,132
-Shelby,1SW,U.S. Senate,,REP,Ted Cruz,133,155,288
-Shelby,1W,U.S. Senate,,REP,Ted Cruz,46,66,112
-Shelby,2,U.S. Senate,,REP,Ted Cruz,67,92,159
-Shelby,3,U.S. Senate,,REP,Ted Cruz,32,44,76
-Shelby,4,U.S. Senate,,REP,Ted Cruz,43,83,126
-Shelby,5,U.S. Senate,,REP,Ted Cruz,131,304,435
-Shelby,6,U.S. Senate,,REP,Ted Cruz,26,59,85
-Shelby,7,U.S. Senate,,REP,Ted Cruz,48,83,131
-Shelby,8,U.S. Senate,,REP,Ted Cruz,42,143,185
-Shelby,9N,U.S. Senate,,REP,Ted Cruz,42,205,247
-Shelby,9S,U.S. Senate,,REP,Ted Cruz,46,179,225
-Shelby,1N,U.S. Senate,,REP,Mary Miller,13,15,28
-Shelby,1S,U.S. Senate,,REP,Mary Miller,11,8,19
-Shelby,1SE,U.S. Senate,,REP,Mary Miller,4,5,9
-Shelby,1SW,U.S. Senate,,REP,Mary Miller,4,5,9
-Shelby,1W,U.S. Senate,,REP,Mary Miller,2,5,7
-Shelby,2,U.S. Senate,,REP,Mary Miller,2,2,4
+Shelby,9N,U.S. Senate,,REP,Geraldine Sam,5,4,1
+Shelby,9S,U.S. Senate,,REP,Geraldine Sam,3,3,0
+Shelby,1N,U.S. Senate,,REP,Ted Cruz,296,160,136
+Shelby,1S,U.S. Senate,,REP,Ted Cruz,362,171,191
+Shelby,1SE,U.S. Senate,,REP,Ted Cruz,132,50,82
+Shelby,1SW,U.S. Senate,,REP,Ted Cruz,288,155,133
+Shelby,1W,U.S. Senate,,REP,Ted Cruz,112,66,46
+Shelby,2,U.S. Senate,,REP,Ted Cruz,159,92,67
+Shelby,3,U.S. Senate,,REP,Ted Cruz,76,44,32
+Shelby,4,U.S. Senate,,REP,Ted Cruz,126,83,43
+Shelby,5,U.S. Senate,,REP,Ted Cruz,435,304,131
+Shelby,6,U.S. Senate,,REP,Ted Cruz,85,59,26
+Shelby,7,U.S. Senate,,REP,Ted Cruz,131,83,48
+Shelby,8,U.S. Senate,,REP,Ted Cruz,185,143,42
+Shelby,9N,U.S. Senate,,REP,Ted Cruz,247,205,42
+Shelby,9S,U.S. Senate,,REP,Ted Cruz,225,179,46
+Shelby,1N,U.S. Senate,,REP,Mary Miller,28,15,13
+Shelby,1S,U.S. Senate,,REP,Mary Miller,19,8,11
+Shelby,1SE,U.S. Senate,,REP,Mary Miller,9,5,4
+Shelby,1SW,U.S. Senate,,REP,Mary Miller,9,5,4
+Shelby,1W,U.S. Senate,,REP,Mary Miller,7,5,2
+Shelby,2,U.S. Senate,,REP,Mary Miller,4,2,2
 Shelby,3,U.S. Senate,,REP,Mary Miller,0,0,0
-Shelby,4,U.S. Senate,,REP,Mary Miller,2,1,3
-Shelby,5,U.S. Senate,,REP,Mary Miller,7,10,17
-Shelby,6,U.S. Senate,,REP,Mary Miller,2,1,3
-Shelby,7,U.S. Senate,,REP,Mary Miller,0,4,4
-Shelby,8,U.S. Senate,,REP,Mary Miller,2,6,8
-Shelby,9N,U.S. Senate,,REP,Mary Miller,1,14,15
-Shelby,9S,U.S. Senate,,REP,Mary Miller,2,13,15
-Shelby,1N,U.S. Senate,,REP,Bruce Jacobson Jr.,3,9,12
-Shelby,1S,U.S. Senate,,REP,Bruce Jacobson Jr.,8,2,10
-Shelby,1SE,U.S. Senate,,REP,Bruce Jacobson Jr.,2,3,5
-Shelby,1SW,U.S. Senate,,REP,Bruce Jacobson Jr.,5,2,7
+Shelby,4,U.S. Senate,,REP,Mary Miller,3,1,2
+Shelby,5,U.S. Senate,,REP,Mary Miller,17,10,7
+Shelby,6,U.S. Senate,,REP,Mary Miller,3,1,2
+Shelby,7,U.S. Senate,,REP,Mary Miller,4,4,0
+Shelby,8,U.S. Senate,,REP,Mary Miller,8,6,2
+Shelby,9N,U.S. Senate,,REP,Mary Miller,15,14,1
+Shelby,9S,U.S. Senate,,REP,Mary Miller,15,13,2
+Shelby,1N,U.S. Senate,,REP,Bruce Jacobson Jr.,12,9,3
+Shelby,1S,U.S. Senate,,REP,Bruce Jacobson Jr.,10,2,8
+Shelby,1SE,U.S. Senate,,REP,Bruce Jacobson Jr.,5,3,2
+Shelby,1SW,U.S. Senate,,REP,Bruce Jacobson Jr.,7,2,5
 Shelby,1W,U.S. Senate,,REP,Bruce Jacobson Jr.,1,0,1
-Shelby,2,U.S. Senate,,REP,Bruce Jacobson Jr.,0,7,7
+Shelby,2,U.S. Senate,,REP,Bruce Jacobson Jr.,7,7,0
 Shelby,3,U.S. Senate,,REP,Bruce Jacobson Jr.,0,0,0
-Shelby,4,U.S. Senate,,REP,Bruce Jacobson Jr.,0,9,9
-Shelby,5,U.S. Senate,,REP,Bruce Jacobson Jr.,10,10,20
-Shelby,6,U.S. Senate,,REP,Bruce Jacobson Jr.,0,2,2
-Shelby,7,U.S. Senate,,REP,Bruce Jacobson Jr.,0,3,3
-Shelby,8,U.S. Senate,,REP,Bruce Jacobson Jr.,0,4,4
-Shelby,9N,U.S. Senate,,REP,Bruce Jacobson Jr.,4,3,7
-Shelby,9S,U.S. Senate,,REP,Bruce Jacobson Jr.,3,4,7
-Shelby,1N,U.S. House,1,REP,Roshin Rowjee,3,2,5
-Shelby,1S,U.S. House,1,REP,Roshin Rowjee,7,6,13
-Shelby,1SE,U.S. House,1,REP,Roshin Rowjee,2,4,6
-Shelby,1SW,U.S. House,1,REP,Roshin Rowjee,8,4,12
-Shelby,1W,U.S. House,1,REP,Roshin Rowjee,2,1,3
-Shelby,2,U.S. House,1,REP,Roshin Rowjee,0,1,1
+Shelby,4,U.S. Senate,,REP,Bruce Jacobson Jr.,9,9,0
+Shelby,5,U.S. Senate,,REP,Bruce Jacobson Jr.,20,10,10
+Shelby,6,U.S. Senate,,REP,Bruce Jacobson Jr.,2,2,0
+Shelby,7,U.S. Senate,,REP,Bruce Jacobson Jr.,3,3,0
+Shelby,8,U.S. Senate,,REP,Bruce Jacobson Jr.,4,4,0
+Shelby,9N,U.S. Senate,,REP,Bruce Jacobson Jr.,7,3,4
+Shelby,9S,U.S. Senate,,REP,Bruce Jacobson Jr.,7,4,3
+Shelby,1N,U.S. House,1,REP,Roshin Rowjee,5,2,3
+Shelby,1S,U.S. House,1,REP,Roshin Rowjee,13,6,7
+Shelby,1SE,U.S. House,1,REP,Roshin Rowjee,6,4,2
+Shelby,1SW,U.S. House,1,REP,Roshin Rowjee,12,4,8
+Shelby,1W,U.S. House,1,REP,Roshin Rowjee,3,1,2
+Shelby,2,U.S. House,1,REP,Roshin Rowjee,1,1,0
 Shelby,3,U.S. House,1,REP,Roshin Rowjee,0,0,0
-Shelby,4,U.S. House,1,REP,Roshin Rowjee,0,2,2
-Shelby,5,U.S. House,1,REP,Roshin Rowjee,1,5,6
-Shelby,6,U.S. House,1,REP,Roshin Rowjee,0,1,1
-Shelby,7,U.S. House,1,REP,Roshin Rowjee,0,1,1
-Shelby,8,U.S. House,1,REP,Roshin Rowjee,0,4,4
-Shelby,9N,U.S. House,1,REP,Roshin Rowjee,2,6,8
-Shelby,9S,U.S. House,1,REP,Roshin Rowjee,0,8,8
-Shelby,1N,U.S. House,1,REP,Anthony Culler,11,10,21
-Shelby,1S,U.S. House,1,REP,Anthony Culler,23,15,38
-Shelby,1SE,U.S. House,1,REP,Anthony Culler,12,10,22
-Shelby,1SW,U.S. House,1,REP,Anthony Culler,11,16,27
-Shelby,1W,U.S. House,1,REP,Anthony Culler,7,3,10
-Shelby,2,U.S. House,1,REP,Anthony Culler,3,13,16
+Shelby,4,U.S. House,1,REP,Roshin Rowjee,2,2,0
+Shelby,5,U.S. House,1,REP,Roshin Rowjee,6,5,1
+Shelby,6,U.S. House,1,REP,Roshin Rowjee,1,1,0
+Shelby,7,U.S. House,1,REP,Roshin Rowjee,1,1,0
+Shelby,8,U.S. House,1,REP,Roshin Rowjee,4,4,0
+Shelby,9N,U.S. House,1,REP,Roshin Rowjee,8,6,2
+Shelby,9S,U.S. House,1,REP,Roshin Rowjee,8,8,0
+Shelby,1N,U.S. House,1,REP,Anthony Culler,21,10,11
+Shelby,1S,U.S. House,1,REP,Anthony Culler,38,15,23
+Shelby,1SE,U.S. House,1,REP,Anthony Culler,22,10,12
+Shelby,1SW,U.S. House,1,REP,Anthony Culler,27,16,11
+Shelby,1W,U.S. House,1,REP,Anthony Culler,10,3,7
+Shelby,2,U.S. House,1,REP,Anthony Culler,16,13,3
 Shelby,3,U.S. House,1,REP,Anthony Culler,1,0,1
-Shelby,4,U.S. House,1,REP,Anthony Culler,5,13,18
-Shelby,5,U.S. House,1,REP,Anthony Culler,14,49,63
-Shelby,6,U.S. House,1,REP,Anthony Culler,6,3,9
-Shelby,7,U.S. House,1,REP,Anthony Culler,0,4,4
-Shelby,8,U.S. House,1,REP,Anthony Culler,2,14,16
-Shelby,9N,U.S. House,1,REP,Anthony Culler,7,36,43
-Shelby,9S,U.S. House,1,REP,Anthony Culler,9,23,32
-Shelby,1N,U.S. House,1,REP,Louie Gohmert,134,172,306
-Shelby,1S,U.S. House,1,REP,Louie Gohmert,182,152,334
-Shelby,1SE,U.S. House,1,REP,Louie Gohmert,73,44,117
-Shelby,1SW,U.S. House,1,REP,Louie Gohmert,132,141,273
-Shelby,1W,U.S. House,1,REP,Louie Gohmert,40,65,105
-Shelby,2,U.S. House,1,REP,Louie Gohmert,67,86,153
-Shelby,3,U.S. House,1,REP,Louie Gohmert,34,44,78
-Shelby,4,U.S. House,1,REP,Louie Gohmert,40,80,120
-Shelby,5,U.S. House,1,REP,Louie Gohmert,130,260,390
-Shelby,6,U.S. House,1,REP,Louie Gohmert,22,57,79
-Shelby,7,U.S. House,1,REP,Louie Gohmert,50,82,132
-Shelby,8,U.S. House,1,REP,Louie Gohmert,42,132,174
-Shelby,9N,U.S. House,1,REP,Louie Gohmert,41,179,220
-Shelby,9S,U.S. House,1,REP,Louie Gohmert,42,155,197
-Shelby,1N,Governor,,REP,Greg Abbott,141,172,313
-Shelby,1S,Governor,,REP,Greg Abbott,192,171,363
-Shelby,1SE,Governor,,REP,Greg Abbott,83,52,135
-Shelby,1SW,Governor,,REP,Greg Abbott,138,151,289
-Shelby,1W,Governor,,REP,Greg Abbott,46,64,110
-Shelby,2,Governor,,REP,Greg Abbott,66,93,159
-Shelby,3,Governor,,REP,Greg Abbott,33,47,80
-Shelby,4,Governor,,REP,Greg Abbott,44,88,132
-Shelby,5,Governor,,REP,Greg Abbott,140,312,452
-Shelby,6,Governor,,REP,Greg Abbott,29,63,92
-Shelby,7,Governor,,REP,Greg Abbott,44,82,126
-Shelby,8,Governor,,REP,Greg Abbott,45,141,186
-Shelby,9N,Governor,,REP,Greg Abbott,47,210,257
-Shelby,9S,Governor,,REP,Greg Abbott,44,181,225
-Shelby,1N,Governor,,REP,SECEDE Kilgore,2,1,3
-Shelby,1S,Governor,,REP,SECEDE Kilgore,2,2,4
+Shelby,4,U.S. House,1,REP,Anthony Culler,18,13,5
+Shelby,5,U.S. House,1,REP,Anthony Culler,63,49,14
+Shelby,6,U.S. House,1,REP,Anthony Culler,9,3,6
+Shelby,7,U.S. House,1,REP,Anthony Culler,4,4,0
+Shelby,8,U.S. House,1,REP,Anthony Culler,16,14,2
+Shelby,9N,U.S. House,1,REP,Anthony Culler,43,36,7
+Shelby,9S,U.S. House,1,REP,Anthony Culler,32,23,9
+Shelby,1N,U.S. House,1,REP,Louie Gohmert,306,172,134
+Shelby,1S,U.S. House,1,REP,Louie Gohmert,334,152,182
+Shelby,1SE,U.S. House,1,REP,Louie Gohmert,117,44,73
+Shelby,1SW,U.S. House,1,REP,Louie Gohmert,273,141,132
+Shelby,1W,U.S. House,1,REP,Louie Gohmert,105,65,40
+Shelby,2,U.S. House,1,REP,Louie Gohmert,153,86,67
+Shelby,3,U.S. House,1,REP,Louie Gohmert,78,44,34
+Shelby,4,U.S. House,1,REP,Louie Gohmert,120,80,40
+Shelby,5,U.S. House,1,REP,Louie Gohmert,390,260,130
+Shelby,6,U.S. House,1,REP,Louie Gohmert,79,57,22
+Shelby,7,U.S. House,1,REP,Louie Gohmert,132,82,50
+Shelby,8,U.S. House,1,REP,Louie Gohmert,174,132,42
+Shelby,9N,U.S. House,1,REP,Louie Gohmert,220,179,41
+Shelby,9S,U.S. House,1,REP,Louie Gohmert,197,155,42
+Shelby,1N,Governor,,REP,Greg Abbott,313,172,141
+Shelby,1S,Governor,,REP,Greg Abbott,363,171,192
+Shelby,1SE,Governor,,REP,Greg Abbott,135,52,83
+Shelby,1SW,Governor,,REP,Greg Abbott,289,151,138
+Shelby,1W,Governor,,REP,Greg Abbott,110,64,46
+Shelby,2,Governor,,REP,Greg Abbott,159,93,66
+Shelby,3,Governor,,REP,Greg Abbott,80,47,33
+Shelby,4,Governor,,REP,Greg Abbott,132,88,44
+Shelby,5,Governor,,REP,Greg Abbott,452,312,140
+Shelby,6,Governor,,REP,Greg Abbott,92,63,29
+Shelby,7,Governor,,REP,Greg Abbott,126,82,44
+Shelby,8,Governor,,REP,Greg Abbott,186,141,45
+Shelby,9N,Governor,,REP,Greg Abbott,257,210,47
+Shelby,9S,Governor,,REP,Greg Abbott,225,181,44
+Shelby,1N,Governor,,REP,SECEDE Kilgore,3,1,2
+Shelby,1S,Governor,,REP,SECEDE Kilgore,4,2,2
 Shelby,1SE,Governor,,REP,SECEDE Kilgore,0,0,0
-Shelby,1SW,Governor,,REP,SECEDE Kilgore,4,1,5
+Shelby,1SW,Governor,,REP,SECEDE Kilgore,5,1,4
 Shelby,1W,Governor,,REP,SECEDE Kilgore,1,0,1
-Shelby,2,Governor,,REP,SECEDE Kilgore,1,1,2
+Shelby,2,Governor,,REP,SECEDE Kilgore,2,1,1
 Shelby,3,Governor,,REP,SECEDE Kilgore,0,0,0
-Shelby,4,Governor,,REP,SECEDE Kilgore,0,1,1
-Shelby,5,Governor,,REP,SECEDE Kilgore,2,4,6
+Shelby,4,Governor,,REP,SECEDE Kilgore,1,1,0
+Shelby,5,Governor,,REP,SECEDE Kilgore,6,4,2
 Shelby,6,Governor,,REP,SECEDE Kilgore,0,0,0
 Shelby,7,Governor,,REP,SECEDE Kilgore,1,0,1
-Shelby,8,Governor,,REP,SECEDE Kilgore,0,1,1
-Shelby,9N,Governor,,REP,SECEDE Kilgore,0,1,1
-Shelby,9S,Governor,,REP,SECEDE Kilgore,1,5,6
-Shelby,1N,Governor,,REP,Barbara Krueger,11,11,22
-Shelby,1S,Governor,,REP,Barbara Krueger,15,8,23
-Shelby,1SE,Governor,,REP,Barbara Krueger,5,10,15
-Shelby,1SW,Governor,,REP,Barbara Krueger,10,10,20
-Shelby,1W,Governor,,REP,Barbara Krueger,2,7,9
-Shelby,2,Governor,,REP,Barbara Krueger,3,3,6
-Shelby,3,Governor,,REP,Barbara Krueger,2,1,3
-Shelby,4,Governor,,REP,Barbara Krueger,2,1,3
-Shelby,5,Governor,,REP,Barbara Krueger,8,14,22
+Shelby,8,Governor,,REP,SECEDE Kilgore,1,1,0
+Shelby,9N,Governor,,REP,SECEDE Kilgore,1,1,0
+Shelby,9S,Governor,,REP,SECEDE Kilgore,6,5,1
+Shelby,1N,Governor,,REP,Barbara Krueger,22,11,11
+Shelby,1S,Governor,,REP,Barbara Krueger,23,8,15
+Shelby,1SE,Governor,,REP,Barbara Krueger,15,10,5
+Shelby,1SW,Governor,,REP,Barbara Krueger,20,10,10
+Shelby,1W,Governor,,REP,Barbara Krueger,9,7,2
+Shelby,2,Governor,,REP,Barbara Krueger,6,3,3
+Shelby,3,Governor,,REP,Barbara Krueger,3,1,2
+Shelby,4,Governor,,REP,Barbara Krueger,3,1,2
+Shelby,5,Governor,,REP,Barbara Krueger,22,14,8
 Shelby,6,Governor,,REP,Barbara Krueger,2,0,2
-Shelby,7,Governor,,REP,Barbara Krueger,1,6,7
-Shelby,8,Governor,,REP,Barbara Krueger,2,11,13
-Shelby,9N,Governor,,REP,Barbara Krueger,4,15,19
-Shelby,9S,Governor,,REP,Barbara Krueger,6,13,19
-Shelby,1N,Lieutenant Governor,,REP,Scott Milder,34,49,83
-Shelby,1S,Lieutenant Governor,,REP,Scott Milder,65,51,116
-Shelby,1SE,Lieutenant Governor,,REP,Scott Milder,24,21,45
-Shelby,1SW,Lieutenant Governor,,REP,Scott Milder,52,52,104
-Shelby,1W,Lieutenant Governor,,REP,Scott Milder,16,23,39
-Shelby,2,Lieutenant Governor,,REP,Scott Milder,14,34,48
-Shelby,3,Lieutenant Governor,,REP,Scott Milder,6,7,13
-Shelby,4,Lieutenant Governor,,REP,Scott Milder,11,36,47
-Shelby,5,Lieutenant Governor,,REP,Scott Milder,39,92,131
-Shelby,6,Lieutenant Governor,,REP,Scott Milder,4,8,12
-Shelby,7,Lieutenant Governor,,REP,Scott Milder,11,35,46
-Shelby,8,Lieutenant Governor,,REP,Scott Milder,8,43,51
-Shelby,9N,Lieutenant Governor,,REP,Scott Milder,11,60,71
-Shelby,9S,Lieutenant Governor,,REP,Scott Milder,27,61,88
-Shelby,1N,Lieutenant Governor,,REP,Dan Patrick,116,128,244
-Shelby,1S,Lieutenant Governor,,REP,Dan Patrick,136,122,258
-Shelby,1SE,Lieutenant Governor,,REP,Dan Patrick,61,39,100
-Shelby,1SW,Lieutenant Governor,,REP,Dan Patrick,96,103,199
-Shelby,1W,Lieutenant Governor,,REP,Dan Patrick,31,44,75
-Shelby,2,Lieutenant Governor,,REP,Dan Patrick,55,66,121
-Shelby,3,Lieutenant Governor,,REP,Dan Patrick,25,36,61
-Shelby,4,Lieutenant Governor,,REP,Dan Patrick,36,57,93
-Shelby,5,Lieutenant Governor,,REP,Dan Patrick,103,211,314
-Shelby,6,Lieutenant Governor,,REP,Dan Patrick,26,49,75
-Shelby,7,Lieutenant Governor,,REP,Dan Patrick,37,48,85
-Shelby,8,Lieutenant Governor,,REP,Dan Patrick,34,99,133
-Shelby,9N,Lieutenant Governor,,REP,Dan Patrick,37,153,190
-Shelby,9S,Lieutenant Governor,,REP,Dan Patrick,26,123,149
-Shelby,1N,Attorney General,,REP,Ken Paxton,122,156,278
-Shelby,1S,Attorney General,,REP,Ken Paxton,159,134,293
-Shelby,1SE,Attorney General,,REP,Ken Paxton,73,44,117
-Shelby,1SW,Attorney General,,REP,Ken Paxton,113,129,242
-Shelby,1W,Attorney General,,REP,Ken Paxton,39,51,90
-Shelby,2,Attorney General,,REP,Ken Paxton,60,75,135
-Shelby,3,Attorney General,,REP,Ken Paxton,24,33,57
-Shelby,4,Attorney General,,REP,Ken Paxton,39,82,121
-Shelby,5,Attorney General,,REP,Ken Paxton,118,249,367
-Shelby,6,Attorney General,,REP,Ken Paxton,26,50,76
-Shelby,7,Attorney General,,REP,Ken Paxton,34,62,96
-Shelby,8,Attorney General,,REP,Ken Paxton,36,124,160
-Shelby,9N,Attorney General,,REP,Ken Paxton,36,184,220
-Shelby,9S,Attorney General,,REP,Ken Paxton,45,155,200
-Shelby,1N,Comptroller of Public Accounts,,REP,Glenn Hegar,125,156,281
-Shelby,1S,Comptroller of Public Accounts,,REP,Glenn Hegar,159,134,293
-Shelby,1SE,Comptroller of Public Accounts,,REP,Glenn Hegar,72,43,115
-Shelby,1SW,Comptroller of Public Accounts,,REP,Glenn Hegar,112,129,241
-Shelby,1W,Comptroller of Public Accounts,,REP,Glenn Hegar,39,51,90
-Shelby,2,Comptroller of Public Accounts,,REP,Glenn Hegar,60,74,134
-Shelby,3,Comptroller of Public Accounts,,REP,Glenn Hegar,25,34,59
-Shelby,4,Comptroller of Public Accounts,,REP,Glenn Hegar,41,83,124
-Shelby,5,Comptroller of Public Accounts,,REP,Glenn Hegar,118,251,369
-Shelby,6,Comptroller of Public Accounts,,REP,Glenn Hegar,26,49,75
-Shelby,7,Comptroller of Public Accounts,,REP,Glenn Hegar,36,62,98
-Shelby,8,Comptroller of Public Accounts,,REP,Glenn Hegar,37,120,157
-Shelby,9N,Comptroller of Public Accounts,,REP,Glenn Hegar,34,182,216
-Shelby,9S,Comptroller of Public Accounts,,REP,Glenn Hegar,45,153,198
-Shelby,1N,Commissioner of the General Land Office,,REP,Rick Range,21,12,33
-Shelby,1S,Commissioner of the General Land Office,,REP,Rick Range,19,12,31
-Shelby,1SE,Commissioner of the General Land Office,,REP,Rick Range,5,3,8
-Shelby,1SW,Commissioner of the General Land Office,,REP,Rick Range,14,15,29
-Shelby,1W,Commissioner of the General Land Office,,REP,Rick Range,2,8,10
-Shelby,2,Commissioner of the General Land Office,,REP,Rick Range,6,7,13
-Shelby,3,Commissioner of the General Land Office,,REP,Rick Range,1,4,5
-Shelby,4,Commissioner of the General Land Office,,REP,Rick Range,5,13,18
-Shelby,5,Commissioner of the General Land Office,,REP,Rick Range,22,37,59
-Shelby,6,Commissioner of the General Land Office,,REP,Rick Range,4,8,12
-Shelby,7,Commissioner of the General Land Office,,REP,Rick Range,2,8,10
-Shelby,8,Commissioner of the General Land Office,,REP,Rick Range,4,16,20
-Shelby,9N,Commissioner of the General Land Office,,REP,Rick Range,3,17,20
-Shelby,9S,Commissioner of the General Land Office,,REP,Rick Range,5,13,18
-Shelby,1N,Commissioner of the General Land Office,,REP,Davey Edwards,6,10,16
-Shelby,1S,Commissioner of the General Land Office,,REP,Davey Edwards,2,5,7
-Shelby,1SE,Commissioner of the General Land Office,,REP,Davey Edwards,6,10,16
-Shelby,1SW,Commissioner of the General Land Office,,REP,Davey Edwards,9,8,17
-Shelby,1W,Commissioner of the General Land Office,,REP,Davey Edwards,3,3,6
-Shelby,2,Commissioner of the General Land Office,,REP,Davey Edwards,5,3,8
-Shelby,3,Commissioner of the General Land Office,,REP,Davey Edwards,1,1,2
-Shelby,4,Commissioner of the General Land Office,,REP,Davey Edwards,1,5,6
-Shelby,5,Commissioner of the General Land Office,,REP,Davey Edwards,4,22,26
-Shelby,6,Commissioner of the General Land Office,,REP,Davey Edwards,0,4,4
-Shelby,7,Commissioner of the General Land Office,,REP,Davey Edwards,6,3,9
-Shelby,8,Commissioner of the General Land Office,,REP,Davey Edwards,1,11,12
-Shelby,9N,Commissioner of the General Land Office,,REP,Davey Edwards,3,7,10
-Shelby,9S,Commissioner of the General Land Office,,REP,Davey Edwards,3,14,17
-Shelby,1N,Commissioner of the General Land Office,,REP,Jerry Patterson,29,40,69
-Shelby,1S,Commissioner of the General Land Office,,REP,Jerry Patterson,55,35,90
-Shelby,1SE,Commissioner of the General Land Office,,REP,Jerry Patterson,19,16,35
-Shelby,1SW,Commissioner of the General Land Office,,REP,Jerry Patterson,25,31,56
-Shelby,1W,Commissioner of the General Land Office,,REP,Jerry Patterson,16,15,31
-Shelby,2,Commissioner of the General Land Office,,REP,Jerry Patterson,13,27,40
-Shelby,3,Commissioner of the General Land Office,,REP,Jerry Patterson,14,11,25
-Shelby,4,Commissioner of the General Land Office,,REP,Jerry Patterson,17,21,38
-Shelby,5,Commissioner of the General Land Office,,REP,Jerry Patterson,28,47,75
-Shelby,6,Commissioner of the General Land Office,,REP,Jerry Patterson,5,17,22
-Shelby,7,Commissioner of the General Land Office,,REP,Jerry Patterson,3,23,26
-Shelby,8,Commissioner of the General Land Office,,REP,Jerry Patterson,9,32,41
-Shelby,9N,Commissioner of the General Land Office,,REP,Jerry Patterson,12,64,76
-Shelby,9S,Commissioner of the General Land Office,,REP,Jerry Patterson,14,42,56
-Shelby,1N,Commissioner of the General Land Office,,REP,George P. Bush,91,106,197
-Shelby,1S,Commissioner of the General Land Office,,REP,George P. Bush,119,112,231
-Shelby,1SE,Commissioner of the General Land Office,,REP,George P. Bush,54,27,81
-Shelby,1SW,Commissioner of the General Land Office,,REP,George P. Bush,97,90,187
-Shelby,1W,Commissioner of the General Land Office,,REP,George P. Bush,21,40,61
-Shelby,2,Commissioner of the General Land Office,,REP,George P. Bush,43,58,101
-Shelby,3,Commissioner of the General Land Office,,REP,George P. Bush,14,27,41
-Shelby,4,Commissioner of the General Land Office,,REP,George P. Bush,20,48,68
-Shelby,5,Commissioner of the General Land Office,,REP,George P. Bush,82,187,269
-Shelby,6,Commissioner of the General Land Office,,REP,George P. Bush,19,30,49
-Shelby,7,Commissioner of the General Land Office,,REP,George P. Bush,37,46,83
-Shelby,8,Commissioner of the General Land Office,,REP,George P. Bush,27,82,109
-Shelby,9N,Commissioner of the General Land Office,,REP,George P. Bush,22,111,133
-Shelby,9S,Commissioner of the General Land Office,,REP,George P. Bush,23,104,127
-Shelby,1N,Commissioner of Agriculture,,REP,Jim Hogan,43,50,93
-Shelby,1S,Commissioner of Agriculture,,REP,Jim Hogan,54,41,95
-Shelby,1SE,Commissioner of Agriculture,,REP,Jim Hogan,24,18,42
-Shelby,1SW,Commissioner of Agriculture,,REP,Jim Hogan,40,42,82
-Shelby,1W,Commissioner of Agriculture,,REP,Jim Hogan,8,21,29
-Shelby,2,Commissioner of Agriculture,,REP,Jim Hogan,9,21,30
-Shelby,3,Commissioner of Agriculture,,REP,Jim Hogan,7,7,14
-Shelby,4,Commissioner of Agriculture,,REP,Jim Hogan,13,25,38
-Shelby,5,Commissioner of Agriculture,,REP,Jim Hogan,35,113,148
-Shelby,6,Commissioner of Agriculture,,REP,Jim Hogan,11,22,33
-Shelby,7,Commissioner of Agriculture,,REP,Jim Hogan,16,20,36
-Shelby,8,Commissioner of Agriculture,,REP,Jim Hogan,7,47,54
-Shelby,9N,Commissioner of Agriculture,,REP,Jim Hogan,11,58,69
-Shelby,9S,Commissioner of Agriculture,,REP,Jim Hogan,12,57,69
-Shelby,1N,Commissioner of Agriculture,,REP,Trey Blocker,19,38,57
-Shelby,1S,Commissioner of Agriculture,,REP,Trey Blocker,45,32,77
-Shelby,1SE,Commissioner of Agriculture,,REP,Trey Blocker,13,9,22
-Shelby,1SW,Commissioner of Agriculture,,REP,Trey Blocker,20,22,42
-Shelby,1W,Commissioner of Agriculture,,REP,Trey Blocker,5,9,14
-Shelby,2,Commissioner of Agriculture,,REP,Trey Blocker,12,13,25
-Shelby,3,Commissioner of Agriculture,,REP,Trey Blocker,2,5,7
-Shelby,4,Commissioner of Agriculture,,REP,Trey Blocker,8,14,22
-Shelby,5,Commissioner of Agriculture,,REP,Trey Blocker,25,62,87
-Shelby,6,Commissioner of Agriculture,,REP,Trey Blocker,4,6,10
-Shelby,7,Commissioner of Agriculture,,REP,Trey Blocker,6,9,15
-Shelby,8,Commissioner of Agriculture,,REP,Trey Blocker,7,29,36
-Shelby,9N,Commissioner of Agriculture,,REP,Trey Blocker,8,45,53
-Shelby,9S,Commissioner of Agriculture,,REP,Trey Blocker,12,42,54
-Shelby,1N,Commissioner of Agriculture,,REP,Sid Miller,73,74,147
-Shelby,1S,Commissioner of Agriculture,,REP,Sid Miller,76,68,144
-Shelby,1SE,Commissioner of Agriculture,,REP,Sid Miller,42,22,64
-Shelby,1SW,Commissioner of Agriculture,,REP,Sid Miller,75,75,150
-Shelby,1W,Commissioner of Agriculture,,REP,Sid Miller,27,29,56
-Shelby,2,Commissioner of Agriculture,,REP,Sid Miller,38,53,91
-Shelby,3,Commissioner of Agriculture,,REP,Sid Miller,19,26,45
-Shelby,4,Commissioner of Agriculture,,REP,Sid Miller,23,43,66
-Shelby,5,Commissioner of Agriculture,,REP,Sid Miller,73,101,174
-Shelby,6,Commissioner of Agriculture,,REP,Sid Miller,12,30,42
-Shelby,7,Commissioner of Agriculture,,REP,Sid Miller,22,39,61
-Shelby,8,Commissioner of Agriculture,,REP,Sid Miller,26,55,81
-Shelby,9N,Commissioner of Agriculture,,REP,Sid Miller,18,89,107
-Shelby,9S,Commissioner of Agriculture,,REP,Sid Miller,23,62,85
-Shelby,1N,Railroad Commissioner,,REP,Christi Craddick,119,131,250
-Shelby,1S,Railroad Commissioner,,REP,Christi Craddick,132,127,259
-Shelby,1SE,Railroad Commissioner,,REP,Christi Craddick,70,39,109
-Shelby,1SW,Railroad Commissioner,,REP,Christi Craddick,113,112,225
-Shelby,1W,Railroad Commissioner,,REP,Christi Craddick,34,48,82
-Shelby,2,Railroad Commissioner,,REP,Christi Craddick,57,64,121
-Shelby,3,Railroad Commissioner,,REP,Christi Craddick,27,34,61
-Shelby,4,Railroad Commissioner,,REP,Christi Craddick,39,69,108
-Shelby,5,Railroad Commissioner,,REP,Christi Craddick,110,230,340
-Shelby,6,Railroad Commissioner,,REP,Christi Craddick,26,49,75
-Shelby,7,Railroad Commissioner,,REP,Christi Craddick,41,62,103
-Shelby,8,Railroad Commissioner,,REP,Christi Craddick,39,121,160
-Shelby,9N,Railroad Commissioner,,REP,Christi Craddick,36,154,190
-Shelby,9S,Railroad Commissioner,,REP,Christi Craddick,43,130,173
-Shelby,1N,Railroad Commissioner,,REP,Weston Martinez,23,29,52
-Shelby,1S,Railroad Commissioner,,REP,Weston Martinez,39,18,57
-Shelby,1SE,Railroad Commissioner,,REP,Weston Martinez,11,13,24
-Shelby,1SW,Railroad Commissioner,,REP,Weston Martinez,20,25,45
-Shelby,1W,Railroad Commissioner,,REP,Weston Martinez,5,13,18
-Shelby,2,Railroad Commissioner,,REP,Weston Martinez,4,20,24
-Shelby,3,Railroad Commissioner,,REP,Weston Martinez,2,4,6
-Shelby,4,Railroad Commissioner,,REP,Weston Martinez,5,18,23
-Shelby,5,Railroad Commissioner,,REP,Weston Martinez,24,60,84
-Shelby,6,Railroad Commissioner,,REP,Weston Martinez,4,12,16
-Shelby,7,Railroad Commissioner,,REP,Weston Martinez,3,10,13
-Shelby,8,Railroad Commissioner,,REP,Weston Martinez,1,14,15
-Shelby,9N,Railroad Commissioner,,REP,Weston Martinez,3,39,42
-Shelby,9S,Railroad Commissioner,,REP,Weston Martinez,2,33,35
-Shelby,1N,State Senate,3,REP,Robert Nichols,128,152,280
-Shelby,1S,State Senate,3,REP,Robert Nichols,163,135,298
-Shelby,1SE,State Senate,3,REP,Robert Nichols,70,43,113
-Shelby,1SW,State Senate,3,REP,Robert Nichols,122,119,241
-Shelby,1W,State Senate,3,REP,Robert Nichols,41,50,91
-Shelby,2,State Senate,3,REP,Robert Nichols,56,77,133
-Shelby,3,State Senate,3,REP,Robert Nichols,30,35,65
-Shelby,4,State Senate,3,REP,Robert Nichols,40,82,122
-Shelby,5,State Senate,3,REP,Robert Nichols,120,248,368
-Shelby,6,State Senate,3,REP,Robert Nichols,19,49,68
-Shelby,7,State Senate,3,REP,Robert Nichols,38,65,103
-Shelby,8,State Senate,3,REP,Robert Nichols,36,103,139
-Shelby,9N,State Senate,3,REP,Robert Nichols,35,177,212
-Shelby,9S,State Senate,3,REP,Robert Nichols,39,146,185
-Shelby,1N,State Representative,9,REP,Chris Paddie,101,129,230
-Shelby,1S,State Representative,9,REP,Chris Paddie,156,134,290
-Shelby,1SE,State Representative,9,REP,Chris Paddie,61,40,101
-Shelby,1SW,State Representative,9,REP,Chris Paddie,113,120,233
-Shelby,1W,State Representative,9,REP,Chris Paddie,41,57,98
-Shelby,2,State Representative,9,REP,Chris Paddie,49,78,127
-Shelby,3,State Representative,9,REP,Chris Paddie,17,34,51
-Shelby,4,State Representative,9,REP,Chris Paddie,24,63,87
-Shelby,5,State Representative,9,REP,Chris Paddie,108,254,362
-Shelby,6,State Representative,9,REP,Chris Paddie,17,35,52
-Shelby,7,State Representative,9,REP,Chris Paddie,39,59,98
-Shelby,8,State Representative,9,REP,Chris Paddie,34,94,128
-Shelby,9N,State Representative,9,REP,Chris Paddie,35,157,192
-Shelby,9S,State Representative,9,REP,Chris Paddie,38,141,179
-Shelby,1N,State Representative,9,REP,Garett Boersma,53,60,113
-Shelby,1S,State Representative,9,REP,Garett Boersma,58,54,112
-Shelby,1SE,State Representative,9,REP,Garett Boersma,27,21,48
-Shelby,1SW,State Representative,9,REP,Garett Boersma,39,48,87
-Shelby,1W,State Representative,9,REP,Garett Boersma,13,16,29
-Shelby,2,State Representative,9,REP,Garett Boersma,25,31,56
-Shelby,3,State Representative,9,REP,Garett Boersma,19,13,32
-Shelby,4,State Representative,9,REP,Garett Boersma,23,32,55
-Shelby,5,State Representative,9,REP,Garett Boersma,41,82,123
-Shelby,6,State Representative,9,REP,Garett Boersma,14,30,44
-Shelby,7,State Representative,9,REP,Garett Boersma,11,33,44
-Shelby,8,State Representative,9,REP,Garett Boersma,12,57,69
-Shelby,9N,State Representative,9,REP,Garett Boersma,13,68,81
-Shelby,9S,State Representative,9,REP,Garett Boersma,13,60,73
-Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",Registered Voters,,DEM,,,,5855
-Shelby,1SE ,Registered Voters,,DEM,,,,1672
-Shelby,"4, 6 ",Registered Voters,,DEM,,,,1283
-Shelby,5,Registered Voters,,DEM,,,,2089
-Shelby,7,Registered Voters,,DEM,,,,805
-Shelby,8,Registered Voters,,DEM,,,,1153
-Shelby,9N,Registered Voters,,DEM,,,,1162
-Shelby,9S,Registered Voters,,DEM,,,,1017
-Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",Ballots Cast,,DEM,,45,45,90
-Shelby,1SE ,Ballots Cast,,DEM,,32,30,62
-Shelby,"4, 6 ",Ballots Cast,,DEM,,7,6,13
-Shelby,5,Ballots Cast,,DEM,,5,18,23
-Shelby,7,Ballots Cast,,DEM,,5,15,20
-Shelby,8,Ballots Cast,,DEM,,9,27,36
-Shelby,9N,Ballots Cast,,DEM,,1,10,11
-Shelby,9S,Ballots Cast,,DEM,,8,9,17
-Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",U.S. Senate,,DEM,Beto O'Rourke,21,21,42
-Shelby,1SE ,U.S. Senate,,DEM,Beto O'Rourke,5,6,11
-Shelby,"4, 6 ",U.S. Senate,,DEM,Beto O'Rourke,1,1,2
-Shelby,5,U.S. Senate,,DEM,Beto O'Rourke,4,10,14
-Shelby,7,U.S. Senate,,DEM,Beto O'Rourke,1,5,6
-Shelby,8,U.S. Senate,,DEM,Beto O'Rourke,1,8,9
-Shelby,9N,U.S. Senate,,DEM,Beto O'Rourke,1,3,4
-Shelby,9S,U.S. Senate,,DEM,Beto O'Rourke,2,2,4
-Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",U.S. Senate,,DEM,Edward Kimbrough,8,14,22
-Shelby,1SE ,U.S. Senate,,DEM,Edward Kimbrough,18,8,26
-Shelby,"4, 6 ",U.S. Senate,,DEM,Edward Kimbrough,3,1,4
-Shelby,5,U.S. Senate,,DEM,Edward Kimbrough,1,6,7
-Shelby,7,U.S. Senate,,DEM,Edward Kimbrough,2,6,8
-Shelby,8,U.S. Senate,,DEM,Edward Kimbrough,3,11,14
-Shelby,9N,U.S. Senate,,DEM,Edward Kimbrough,0,4,4
-Shelby,9S,U.S. Senate,,DEM,Edward Kimbrough,2,4,6
-Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",U.S. Senate,,DEM,Sema Hernandez,14,9,23
-Shelby,1SE ,U.S. Senate,,DEM,Sema Hernandez,6,8,14
-Shelby,"4, 6 ",U.S. Senate,,DEM,Sema Hernandez,2,2,4
-Shelby,5,U.S. Senate,,DEM,Sema Hernandez,0,2,2
-Shelby,7,U.S. Senate,,DEM,Sema Hernandez,2,3,5
-Shelby,8,U.S. Senate,,DEM,Sema Hernandez,5,7,12
-Shelby,9N,U.S. Senate,,DEM,Sema Hernandez,0,3,3
-Shelby,9S,U.S. Senate,,DEM,Sema Hernandez,4,2,6
-Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",U.S. House,1,DEM,Shirley J. McKellar,17,27,44
-Shelby,1SE ,U.S. House,1,DEM,Shirley J. McKellar,26,19,45
-Shelby,"4, 6 ",U.S. House,1,DEM,Shirley J. McKellar,4,4,8
-Shelby,5,U.S. House,1,DEM,Shirley J. McKellar,3,10,13
-Shelby,7,U.S. House,1,DEM,Shirley J. McKellar,4,11,15
-Shelby,8,U.S. House,1,DEM,Shirley J. McKellar,8,12,20
-Shelby,9N,U.S. House,1,DEM,Shirley J. McKellar,1,8,9
-Shelby,9S,U.S. House,1,DEM,Shirley J. McKellar,4,4,8
-Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",U.S. House,1,DEM,Brent Beal,25,15,40
-Shelby,1SE ,U.S. House,1,DEM,Brent Beal,3,5,8
+Shelby,7,Governor,,REP,Barbara Krueger,7,6,1
+Shelby,8,Governor,,REP,Barbara Krueger,13,11,2
+Shelby,9N,Governor,,REP,Barbara Krueger,19,15,4
+Shelby,9S,Governor,,REP,Barbara Krueger,19,13,6
+Shelby,1N,Lieutenant Governor,,REP,Scott Milder,83,49,34
+Shelby,1S,Lieutenant Governor,,REP,Scott Milder,116,51,65
+Shelby,1SE,Lieutenant Governor,,REP,Scott Milder,45,21,24
+Shelby,1SW,Lieutenant Governor,,REP,Scott Milder,104,52,52
+Shelby,1W,Lieutenant Governor,,REP,Scott Milder,39,23,16
+Shelby,2,Lieutenant Governor,,REP,Scott Milder,48,34,14
+Shelby,3,Lieutenant Governor,,REP,Scott Milder,13,7,6
+Shelby,4,Lieutenant Governor,,REP,Scott Milder,47,36,11
+Shelby,5,Lieutenant Governor,,REP,Scott Milder,131,92,39
+Shelby,6,Lieutenant Governor,,REP,Scott Milder,12,8,4
+Shelby,7,Lieutenant Governor,,REP,Scott Milder,46,35,11
+Shelby,8,Lieutenant Governor,,REP,Scott Milder,51,43,8
+Shelby,9N,Lieutenant Governor,,REP,Scott Milder,71,60,11
+Shelby,9S,Lieutenant Governor,,REP,Scott Milder,88,61,27
+Shelby,1N,Lieutenant Governor,,REP,Dan Patrick,244,128,116
+Shelby,1S,Lieutenant Governor,,REP,Dan Patrick,258,122,136
+Shelby,1SE,Lieutenant Governor,,REP,Dan Patrick,100,39,61
+Shelby,1SW,Lieutenant Governor,,REP,Dan Patrick,199,103,96
+Shelby,1W,Lieutenant Governor,,REP,Dan Patrick,75,44,31
+Shelby,2,Lieutenant Governor,,REP,Dan Patrick,121,66,55
+Shelby,3,Lieutenant Governor,,REP,Dan Patrick,61,36,25
+Shelby,4,Lieutenant Governor,,REP,Dan Patrick,93,57,36
+Shelby,5,Lieutenant Governor,,REP,Dan Patrick,314,211,103
+Shelby,6,Lieutenant Governor,,REP,Dan Patrick,75,49,26
+Shelby,7,Lieutenant Governor,,REP,Dan Patrick,85,48,37
+Shelby,8,Lieutenant Governor,,REP,Dan Patrick,133,99,34
+Shelby,9N,Lieutenant Governor,,REP,Dan Patrick,190,153,37
+Shelby,9S,Lieutenant Governor,,REP,Dan Patrick,149,123,26
+Shelby,1N,Attorney General,,REP,Ken Paxton,278,156,122
+Shelby,1S,Attorney General,,REP,Ken Paxton,293,134,159
+Shelby,1SE,Attorney General,,REP,Ken Paxton,117,44,73
+Shelby,1SW,Attorney General,,REP,Ken Paxton,242,129,113
+Shelby,1W,Attorney General,,REP,Ken Paxton,90,51,39
+Shelby,2,Attorney General,,REP,Ken Paxton,135,75,60
+Shelby,3,Attorney General,,REP,Ken Paxton,57,33,24
+Shelby,4,Attorney General,,REP,Ken Paxton,121,82,39
+Shelby,5,Attorney General,,REP,Ken Paxton,367,249,118
+Shelby,6,Attorney General,,REP,Ken Paxton,76,50,26
+Shelby,7,Attorney General,,REP,Ken Paxton,96,62,34
+Shelby,8,Attorney General,,REP,Ken Paxton,160,124,36
+Shelby,9N,Attorney General,,REP,Ken Paxton,220,184,36
+Shelby,9S,Attorney General,,REP,Ken Paxton,200,155,45
+Shelby,1N,Comptroller of Public Accounts,,REP,Glenn Hegar,281,156,125
+Shelby,1S,Comptroller of Public Accounts,,REP,Glenn Hegar,293,134,159
+Shelby,1SE,Comptroller of Public Accounts,,REP,Glenn Hegar,115,43,72
+Shelby,1SW,Comptroller of Public Accounts,,REP,Glenn Hegar,241,129,112
+Shelby,1W,Comptroller of Public Accounts,,REP,Glenn Hegar,90,51,39
+Shelby,2,Comptroller of Public Accounts,,REP,Glenn Hegar,134,74,60
+Shelby,3,Comptroller of Public Accounts,,REP,Glenn Hegar,59,34,25
+Shelby,4,Comptroller of Public Accounts,,REP,Glenn Hegar,124,83,41
+Shelby,5,Comptroller of Public Accounts,,REP,Glenn Hegar,369,251,118
+Shelby,6,Comptroller of Public Accounts,,REP,Glenn Hegar,75,49,26
+Shelby,7,Comptroller of Public Accounts,,REP,Glenn Hegar,98,62,36
+Shelby,8,Comptroller of Public Accounts,,REP,Glenn Hegar,157,120,37
+Shelby,9N,Comptroller of Public Accounts,,REP,Glenn Hegar,216,182,34
+Shelby,9S,Comptroller of Public Accounts,,REP,Glenn Hegar,198,153,45
+Shelby,1N,Commissioner of the General Land Office,,REP,Rick Range,33,12,21
+Shelby,1S,Commissioner of the General Land Office,,REP,Rick Range,31,12,19
+Shelby,1SE,Commissioner of the General Land Office,,REP,Rick Range,8,3,5
+Shelby,1SW,Commissioner of the General Land Office,,REP,Rick Range,29,15,14
+Shelby,1W,Commissioner of the General Land Office,,REP,Rick Range,10,8,2
+Shelby,2,Commissioner of the General Land Office,,REP,Rick Range,13,7,6
+Shelby,3,Commissioner of the General Land Office,,REP,Rick Range,5,4,1
+Shelby,4,Commissioner of the General Land Office,,REP,Rick Range,18,13,5
+Shelby,5,Commissioner of the General Land Office,,REP,Rick Range,59,37,22
+Shelby,6,Commissioner of the General Land Office,,REP,Rick Range,12,8,4
+Shelby,7,Commissioner of the General Land Office,,REP,Rick Range,10,8,2
+Shelby,8,Commissioner of the General Land Office,,REP,Rick Range,20,16,4
+Shelby,9N,Commissioner of the General Land Office,,REP,Rick Range,20,17,3
+Shelby,9S,Commissioner of the General Land Office,,REP,Rick Range,18,13,5
+Shelby,1N,Commissioner of the General Land Office,,REP,Davey Edwards,16,10,6
+Shelby,1S,Commissioner of the General Land Office,,REP,Davey Edwards,7,5,2
+Shelby,1SE,Commissioner of the General Land Office,,REP,Davey Edwards,16,10,6
+Shelby,1SW,Commissioner of the General Land Office,,REP,Davey Edwards,17,8,9
+Shelby,1W,Commissioner of the General Land Office,,REP,Davey Edwards,6,3,3
+Shelby,2,Commissioner of the General Land Office,,REP,Davey Edwards,8,3,5
+Shelby,3,Commissioner of the General Land Office,,REP,Davey Edwards,2,1,1
+Shelby,4,Commissioner of the General Land Office,,REP,Davey Edwards,6,5,1
+Shelby,5,Commissioner of the General Land Office,,REP,Davey Edwards,26,22,4
+Shelby,6,Commissioner of the General Land Office,,REP,Davey Edwards,4,4,0
+Shelby,7,Commissioner of the General Land Office,,REP,Davey Edwards,9,3,6
+Shelby,8,Commissioner of the General Land Office,,REP,Davey Edwards,12,11,1
+Shelby,9N,Commissioner of the General Land Office,,REP,Davey Edwards,10,7,3
+Shelby,9S,Commissioner of the General Land Office,,REP,Davey Edwards,17,14,3
+Shelby,1N,Commissioner of the General Land Office,,REP,Jerry Patterson,69,40,29
+Shelby,1S,Commissioner of the General Land Office,,REP,Jerry Patterson,90,35,55
+Shelby,1SE,Commissioner of the General Land Office,,REP,Jerry Patterson,35,16,19
+Shelby,1SW,Commissioner of the General Land Office,,REP,Jerry Patterson,56,31,25
+Shelby,1W,Commissioner of the General Land Office,,REP,Jerry Patterson,31,15,16
+Shelby,2,Commissioner of the General Land Office,,REP,Jerry Patterson,40,27,13
+Shelby,3,Commissioner of the General Land Office,,REP,Jerry Patterson,25,11,14
+Shelby,4,Commissioner of the General Land Office,,REP,Jerry Patterson,38,21,17
+Shelby,5,Commissioner of the General Land Office,,REP,Jerry Patterson,75,47,28
+Shelby,6,Commissioner of the General Land Office,,REP,Jerry Patterson,22,17,5
+Shelby,7,Commissioner of the General Land Office,,REP,Jerry Patterson,26,23,3
+Shelby,8,Commissioner of the General Land Office,,REP,Jerry Patterson,41,32,9
+Shelby,9N,Commissioner of the General Land Office,,REP,Jerry Patterson,76,64,12
+Shelby,9S,Commissioner of the General Land Office,,REP,Jerry Patterson,56,42,14
+Shelby,1N,Commissioner of the General Land Office,,REP,George P. Bush,197,106,91
+Shelby,1S,Commissioner of the General Land Office,,REP,George P. Bush,231,112,119
+Shelby,1SE,Commissioner of the General Land Office,,REP,George P. Bush,81,27,54
+Shelby,1SW,Commissioner of the General Land Office,,REP,George P. Bush,187,90,97
+Shelby,1W,Commissioner of the General Land Office,,REP,George P. Bush,61,40,21
+Shelby,2,Commissioner of the General Land Office,,REP,George P. Bush,101,58,43
+Shelby,3,Commissioner of the General Land Office,,REP,George P. Bush,41,27,14
+Shelby,4,Commissioner of the General Land Office,,REP,George P. Bush,68,48,20
+Shelby,5,Commissioner of the General Land Office,,REP,George P. Bush,269,187,82
+Shelby,6,Commissioner of the General Land Office,,REP,George P. Bush,49,30,19
+Shelby,7,Commissioner of the General Land Office,,REP,George P. Bush,83,46,37
+Shelby,8,Commissioner of the General Land Office,,REP,George P. Bush,109,82,27
+Shelby,9N,Commissioner of the General Land Office,,REP,George P. Bush,133,111,22
+Shelby,9S,Commissioner of the General Land Office,,REP,George P. Bush,127,104,23
+Shelby,1N,Commissioner of Agriculture,,REP,Jim Hogan,93,50,43
+Shelby,1S,Commissioner of Agriculture,,REP,Jim Hogan,95,41,54
+Shelby,1SE,Commissioner of Agriculture,,REP,Jim Hogan,42,18,24
+Shelby,1SW,Commissioner of Agriculture,,REP,Jim Hogan,82,42,40
+Shelby,1W,Commissioner of Agriculture,,REP,Jim Hogan,29,21,8
+Shelby,2,Commissioner of Agriculture,,REP,Jim Hogan,30,21,9
+Shelby,3,Commissioner of Agriculture,,REP,Jim Hogan,14,7,7
+Shelby,4,Commissioner of Agriculture,,REP,Jim Hogan,38,25,13
+Shelby,5,Commissioner of Agriculture,,REP,Jim Hogan,148,113,35
+Shelby,6,Commissioner of Agriculture,,REP,Jim Hogan,33,22,11
+Shelby,7,Commissioner of Agriculture,,REP,Jim Hogan,36,20,16
+Shelby,8,Commissioner of Agriculture,,REP,Jim Hogan,54,47,7
+Shelby,9N,Commissioner of Agriculture,,REP,Jim Hogan,69,58,11
+Shelby,9S,Commissioner of Agriculture,,REP,Jim Hogan,69,57,12
+Shelby,1N,Commissioner of Agriculture,,REP,Trey Blocker,57,38,19
+Shelby,1S,Commissioner of Agriculture,,REP,Trey Blocker,77,32,45
+Shelby,1SE,Commissioner of Agriculture,,REP,Trey Blocker,22,9,13
+Shelby,1SW,Commissioner of Agriculture,,REP,Trey Blocker,42,22,20
+Shelby,1W,Commissioner of Agriculture,,REP,Trey Blocker,14,9,5
+Shelby,2,Commissioner of Agriculture,,REP,Trey Blocker,25,13,12
+Shelby,3,Commissioner of Agriculture,,REP,Trey Blocker,7,5,2
+Shelby,4,Commissioner of Agriculture,,REP,Trey Blocker,22,14,8
+Shelby,5,Commissioner of Agriculture,,REP,Trey Blocker,87,62,25
+Shelby,6,Commissioner of Agriculture,,REP,Trey Blocker,10,6,4
+Shelby,7,Commissioner of Agriculture,,REP,Trey Blocker,15,9,6
+Shelby,8,Commissioner of Agriculture,,REP,Trey Blocker,36,29,7
+Shelby,9N,Commissioner of Agriculture,,REP,Trey Blocker,53,45,8
+Shelby,9S,Commissioner of Agriculture,,REP,Trey Blocker,54,42,12
+Shelby,1N,Commissioner of Agriculture,,REP,Sid Miller,147,74,73
+Shelby,1S,Commissioner of Agriculture,,REP,Sid Miller,144,68,76
+Shelby,1SE,Commissioner of Agriculture,,REP,Sid Miller,64,22,42
+Shelby,1SW,Commissioner of Agriculture,,REP,Sid Miller,150,75,75
+Shelby,1W,Commissioner of Agriculture,,REP,Sid Miller,56,29,27
+Shelby,2,Commissioner of Agriculture,,REP,Sid Miller,91,53,38
+Shelby,3,Commissioner of Agriculture,,REP,Sid Miller,45,26,19
+Shelby,4,Commissioner of Agriculture,,REP,Sid Miller,66,43,23
+Shelby,5,Commissioner of Agriculture,,REP,Sid Miller,174,101,73
+Shelby,6,Commissioner of Agriculture,,REP,Sid Miller,42,30,12
+Shelby,7,Commissioner of Agriculture,,REP,Sid Miller,61,39,22
+Shelby,8,Commissioner of Agriculture,,REP,Sid Miller,81,55,26
+Shelby,9N,Commissioner of Agriculture,,REP,Sid Miller,107,89,18
+Shelby,9S,Commissioner of Agriculture,,REP,Sid Miller,85,62,23
+Shelby,1N,Railroad Commissioner,,REP,Christi Craddick,250,131,119
+Shelby,1S,Railroad Commissioner,,REP,Christi Craddick,259,127,132
+Shelby,1SE,Railroad Commissioner,,REP,Christi Craddick,109,39,70
+Shelby,1SW,Railroad Commissioner,,REP,Christi Craddick,225,112,113
+Shelby,1W,Railroad Commissioner,,REP,Christi Craddick,82,48,34
+Shelby,2,Railroad Commissioner,,REP,Christi Craddick,121,64,57
+Shelby,3,Railroad Commissioner,,REP,Christi Craddick,61,34,27
+Shelby,4,Railroad Commissioner,,REP,Christi Craddick,108,69,39
+Shelby,5,Railroad Commissioner,,REP,Christi Craddick,340,230,110
+Shelby,6,Railroad Commissioner,,REP,Christi Craddick,75,49,26
+Shelby,7,Railroad Commissioner,,REP,Christi Craddick,103,62,41
+Shelby,8,Railroad Commissioner,,REP,Christi Craddick,160,121,39
+Shelby,9N,Railroad Commissioner,,REP,Christi Craddick,190,154,36
+Shelby,9S,Railroad Commissioner,,REP,Christi Craddick,173,130,43
+Shelby,1N,Railroad Commissioner,,REP,Weston Martinez,52,29,23
+Shelby,1S,Railroad Commissioner,,REP,Weston Martinez,57,18,39
+Shelby,1SE,Railroad Commissioner,,REP,Weston Martinez,24,13,11
+Shelby,1SW,Railroad Commissioner,,REP,Weston Martinez,45,25,20
+Shelby,1W,Railroad Commissioner,,REP,Weston Martinez,18,13,5
+Shelby,2,Railroad Commissioner,,REP,Weston Martinez,24,20,4
+Shelby,3,Railroad Commissioner,,REP,Weston Martinez,6,4,2
+Shelby,4,Railroad Commissioner,,REP,Weston Martinez,23,18,5
+Shelby,5,Railroad Commissioner,,REP,Weston Martinez,84,60,24
+Shelby,6,Railroad Commissioner,,REP,Weston Martinez,16,12,4
+Shelby,7,Railroad Commissioner,,REP,Weston Martinez,13,10,3
+Shelby,8,Railroad Commissioner,,REP,Weston Martinez,15,14,1
+Shelby,9N,Railroad Commissioner,,REP,Weston Martinez,42,39,3
+Shelby,9S,Railroad Commissioner,,REP,Weston Martinez,35,33,2
+Shelby,1N,State Senate,3,REP,Robert Nichols,280,152,128
+Shelby,1S,State Senate,3,REP,Robert Nichols,298,135,163
+Shelby,1SE,State Senate,3,REP,Robert Nichols,113,43,70
+Shelby,1SW,State Senate,3,REP,Robert Nichols,241,119,122
+Shelby,1W,State Senate,3,REP,Robert Nichols,91,50,41
+Shelby,2,State Senate,3,REP,Robert Nichols,133,77,56
+Shelby,3,State Senate,3,REP,Robert Nichols,65,35,30
+Shelby,4,State Senate,3,REP,Robert Nichols,122,82,40
+Shelby,5,State Senate,3,REP,Robert Nichols,368,248,120
+Shelby,6,State Senate,3,REP,Robert Nichols,68,49,19
+Shelby,7,State Senate,3,REP,Robert Nichols,103,65,38
+Shelby,8,State Senate,3,REP,Robert Nichols,139,103,36
+Shelby,9N,State Senate,3,REP,Robert Nichols,212,177,35
+Shelby,9S,State Senate,3,REP,Robert Nichols,185,146,39
+Shelby,1N,State Representative,9,REP,Chris Paddie,230,129,101
+Shelby,1S,State Representative,9,REP,Chris Paddie,290,134,156
+Shelby,1SE,State Representative,9,REP,Chris Paddie,101,40,61
+Shelby,1SW,State Representative,9,REP,Chris Paddie,233,120,113
+Shelby,1W,State Representative,9,REP,Chris Paddie,98,57,41
+Shelby,2,State Representative,9,REP,Chris Paddie,127,78,49
+Shelby,3,State Representative,9,REP,Chris Paddie,51,34,17
+Shelby,4,State Representative,9,REP,Chris Paddie,87,63,24
+Shelby,5,State Representative,9,REP,Chris Paddie,362,254,108
+Shelby,6,State Representative,9,REP,Chris Paddie,52,35,17
+Shelby,7,State Representative,9,REP,Chris Paddie,98,59,39
+Shelby,8,State Representative,9,REP,Chris Paddie,128,94,34
+Shelby,9N,State Representative,9,REP,Chris Paddie,192,157,35
+Shelby,9S,State Representative,9,REP,Chris Paddie,179,141,38
+Shelby,1N,State Representative,9,REP,Garett Boersma,113,60,53
+Shelby,1S,State Representative,9,REP,Garett Boersma,112,54,58
+Shelby,1SE,State Representative,9,REP,Garett Boersma,48,21,27
+Shelby,1SW,State Representative,9,REP,Garett Boersma,87,48,39
+Shelby,1W,State Representative,9,REP,Garett Boersma,29,16,13
+Shelby,2,State Representative,9,REP,Garett Boersma,56,31,25
+Shelby,3,State Representative,9,REP,Garett Boersma,32,13,19
+Shelby,4,State Representative,9,REP,Garett Boersma,55,32,23
+Shelby,5,State Representative,9,REP,Garett Boersma,123,82,41
+Shelby,6,State Representative,9,REP,Garett Boersma,44,30,14
+Shelby,7,State Representative,9,REP,Garett Boersma,44,33,11
+Shelby,8,State Representative,9,REP,Garett Boersma,69,57,12
+Shelby,9N,State Representative,9,REP,Garett Boersma,81,68,13
+Shelby,9S,State Representative,9,REP,Garett Boersma,73,60,13
+Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",Registered Voters,,DEM,,5855,,
+Shelby,1SE ,Registered Voters,,DEM,,1672,,
+Shelby,"4, 6 ",Registered Voters,,DEM,,1283,,
+Shelby,5,Registered Voters,,DEM,,2089,,
+Shelby,7,Registered Voters,,DEM,,805,,
+Shelby,8,Registered Voters,,DEM,,1153,,
+Shelby,9N,Registered Voters,,DEM,,1162,,
+Shelby,9S,Registered Voters,,DEM,,1017,,
+Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",Ballots Cast,,DEM,,90,45,45
+Shelby,1SE ,Ballots Cast,,DEM,,62,30,32
+Shelby,"4, 6 ",Ballots Cast,,DEM,,13,6,7
+Shelby,5,Ballots Cast,,DEM,,23,18,5
+Shelby,7,Ballots Cast,,DEM,,20,15,5
+Shelby,8,Ballots Cast,,DEM,,36,27,9
+Shelby,9N,Ballots Cast,,DEM,,11,10,1
+Shelby,9S,Ballots Cast,,DEM,,17,9,8
+Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",U.S. Senate,,DEM,Beto O'Rourke,42,21,21
+Shelby,1SE ,U.S. Senate,,DEM,Beto O'Rourke,11,6,5
+Shelby,"4, 6 ",U.S. Senate,,DEM,Beto O'Rourke,2,1,1
+Shelby,5,U.S. Senate,,DEM,Beto O'Rourke,14,10,4
+Shelby,7,U.S. Senate,,DEM,Beto O'Rourke,6,5,1
+Shelby,8,U.S. Senate,,DEM,Beto O'Rourke,9,8,1
+Shelby,9N,U.S. Senate,,DEM,Beto O'Rourke,4,3,1
+Shelby,9S,U.S. Senate,,DEM,Beto O'Rourke,4,2,2
+Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",U.S. Senate,,DEM,Edward Kimbrough,22,14,8
+Shelby,1SE ,U.S. Senate,,DEM,Edward Kimbrough,26,8,18
+Shelby,"4, 6 ",U.S. Senate,,DEM,Edward Kimbrough,4,1,3
+Shelby,5,U.S. Senate,,DEM,Edward Kimbrough,7,6,1
+Shelby,7,U.S. Senate,,DEM,Edward Kimbrough,8,6,2
+Shelby,8,U.S. Senate,,DEM,Edward Kimbrough,14,11,3
+Shelby,9N,U.S. Senate,,DEM,Edward Kimbrough,4,4,0
+Shelby,9S,U.S. Senate,,DEM,Edward Kimbrough,6,4,2
+Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",U.S. Senate,,DEM,Sema Hernandez,23,9,14
+Shelby,1SE ,U.S. Senate,,DEM,Sema Hernandez,14,8,6
+Shelby,"4, 6 ",U.S. Senate,,DEM,Sema Hernandez,4,2,2
+Shelby,5,U.S. Senate,,DEM,Sema Hernandez,2,2,0
+Shelby,7,U.S. Senate,,DEM,Sema Hernandez,5,3,2
+Shelby,8,U.S. Senate,,DEM,Sema Hernandez,12,7,5
+Shelby,9N,U.S. Senate,,DEM,Sema Hernandez,3,3,0
+Shelby,9S,U.S. Senate,,DEM,Sema Hernandez,6,2,4
+Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",U.S. House,1,DEM,Shirley J. McKellar,44,27,17
+Shelby,1SE ,U.S. House,1,DEM,Shirley J. McKellar,45,19,26
+Shelby,"4, 6 ",U.S. House,1,DEM,Shirley J. McKellar,8,4,4
+Shelby,5,U.S. House,1,DEM,Shirley J. McKellar,13,10,3
+Shelby,7,U.S. House,1,DEM,Shirley J. McKellar,15,11,4
+Shelby,8,U.S. House,1,DEM,Shirley J. McKellar,20,12,8
+Shelby,9N,U.S. House,1,DEM,Shirley J. McKellar,9,8,1
+Shelby,9S,U.S. House,1,DEM,Shirley J. McKellar,8,4,4
+Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",U.S. House,1,DEM,Brent Beal,40,15,25
+Shelby,1SE ,U.S. House,1,DEM,Brent Beal,8,5,3
 Shelby,"4, 6 ",U.S. House,1,DEM,Brent Beal,2,0,2
-Shelby,5,U.S. House,1,DEM,Brent Beal,2,7,9
-Shelby,7,U.S. House,1,DEM,Brent Beal,1,1,2
-Shelby,8,U.S. House,1,DEM,Brent Beal,1,13,14
-Shelby,9N,U.S. House,1,DEM,Brent Beal,0,2,2
-Shelby,9S,U.S. House,1,DEM,Brent Beal,4,1,5
-Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",Governor,,DEM,Cedric Davis Sr.,4,8,12
-Shelby,1SE ,Governor,,DEM,Cedric Davis Sr.,8,5,13
-Shelby,"4, 6 ",Governor,,DEM,Cedric Davis Sr.,0,1,1
-Shelby,5,Governor,,DEM,Cedric Davis Sr.,1,1,2
-Shelby,7,Governor,,DEM,Cedric Davis Sr.,2,3,5
-Shelby,8,Governor,,DEM,Cedric Davis Sr.,1,7,8
-Shelby,9N,Governor,,DEM,Cedric Davis Sr.,0,1,1
-Shelby,9S,Governor,,DEM,Cedric Davis Sr.,0,2,2
-Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",Governor,,DEM,Andrew White,15,12,27
-Shelby,1SE ,Governor,,DEM,Andrew White,5,3,8
-Shelby,"4, 6 ",Governor,,DEM,Andrew White,3,2,5
-Shelby,5,Governor,,DEM,Andrew White,0,6,6
-Shelby,7,Governor,,DEM,Andrew White,1,2,3
-Shelby,8,Governor,,DEM,Andrew White,3,1,4
-Shelby,9N,Governor,,DEM,Andrew White,0,3,3
-Shelby,9S,Governor,,DEM,Andrew White,4,2,6
-Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",Governor,,DEM,Lupe Valdez,9,12,21
-Shelby,1SE ,Governor,,DEM,Lupe Valdez,4,5,9
+Shelby,5,U.S. House,1,DEM,Brent Beal,9,7,2
+Shelby,7,U.S. House,1,DEM,Brent Beal,2,1,1
+Shelby,8,U.S. House,1,DEM,Brent Beal,14,13,1
+Shelby,9N,U.S. House,1,DEM,Brent Beal,2,2,0
+Shelby,9S,U.S. House,1,DEM,Brent Beal,5,1,4
+Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",Governor,,DEM,Cedric Davis Sr.,12,8,4
+Shelby,1SE ,Governor,,DEM,Cedric Davis Sr.,13,5,8
+Shelby,"4, 6 ",Governor,,DEM,Cedric Davis Sr.,1,1,0
+Shelby,5,Governor,,DEM,Cedric Davis Sr.,2,1,1
+Shelby,7,Governor,,DEM,Cedric Davis Sr.,5,3,2
+Shelby,8,Governor,,DEM,Cedric Davis Sr.,8,7,1
+Shelby,9N,Governor,,DEM,Cedric Davis Sr.,1,1,0
+Shelby,9S,Governor,,DEM,Cedric Davis Sr.,2,2,0
+Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",Governor,,DEM,Andrew White,27,12,15
+Shelby,1SE ,Governor,,DEM,Andrew White,8,3,5
+Shelby,"4, 6 ",Governor,,DEM,Andrew White,5,2,3
+Shelby,5,Governor,,DEM,Andrew White,6,6,0
+Shelby,7,Governor,,DEM,Andrew White,3,2,1
+Shelby,8,Governor,,DEM,Andrew White,4,1,3
+Shelby,9N,Governor,,DEM,Andrew White,3,3,0
+Shelby,9S,Governor,,DEM,Andrew White,6,2,4
+Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",Governor,,DEM,Lupe Valdez,21,12,9
+Shelby,1SE ,Governor,,DEM,Lupe Valdez,9,5,4
 Shelby,"4, 6 ",Governor,,DEM,Lupe Valdez,1,0,1
-Shelby,5,Governor,,DEM,Lupe Valdez,2,4,6
-Shelby,7,Governor,,DEM,Lupe Valdez,1,2,3
-Shelby,8,Governor,,DEM,Lupe Valdez,2,3,5
-Shelby,9N,Governor,,DEM,Lupe Valdez,0,1,1
-Shelby,9S,Governor,,DEM,Lupe Valdez,1,2,3
-Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",Governor,,DEM,Jeffrey Payne,9,5,14
-Shelby,1SE ,Governor,,DEM,Jeffrey Payne,4,4,8
+Shelby,5,Governor,,DEM,Lupe Valdez,6,4,2
+Shelby,7,Governor,,DEM,Lupe Valdez,3,2,1
+Shelby,8,Governor,,DEM,Lupe Valdez,5,3,2
+Shelby,9N,Governor,,DEM,Lupe Valdez,1,1,0
+Shelby,9S,Governor,,DEM,Lupe Valdez,3,2,1
+Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",Governor,,DEM,Jeffrey Payne,14,5,9
+Shelby,1SE ,Governor,,DEM,Jeffrey Payne,8,4,4
 Shelby,"4, 6 ",Governor,,DEM,Jeffrey Payne,2,0,2
-Shelby,5,Governor,,DEM,Jeffrey Payne,0,1,1
-Shelby,7,Governor,,DEM,Jeffrey Payne,0,2,2
-Shelby,8,Governor,,DEM,Jeffrey Payne,0,5,5
-Shelby,9N,Governor,,DEM,Jeffrey Payne,0,1,1
-Shelby,9S,Governor,,DEM,Jeffrey Payne,1,2,3
+Shelby,5,Governor,,DEM,Jeffrey Payne,1,1,0
+Shelby,7,Governor,,DEM,Jeffrey Payne,2,2,0
+Shelby,8,Governor,,DEM,Jeffrey Payne,5,5,0
+Shelby,9N,Governor,,DEM,Jeffrey Payne,1,1,0
+Shelby,9S,Governor,,DEM,Jeffrey Payne,3,2,1
 Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",Governor,,DEM,Tom Wakely,1,0,1
 Shelby,1SE ,Governor,,DEM,Tom Wakely,0,0,0
 Shelby,"4, 6 ",Governor,,DEM,Tom Wakely,0,0,0
-Shelby,5,Governor,,DEM,Tom Wakely,0,1,1
+Shelby,5,Governor,,DEM,Tom Wakely,1,1,0
 Shelby,7,Governor,,DEM,Tom Wakely,0,0,0
-Shelby,8,Governor,,DEM,Tom Wakely,1,2,3
+Shelby,8,Governor,,DEM,Tom Wakely,3,2,1
 Shelby,9N,Governor,,DEM,Tom Wakely,0,0,0
 Shelby,9S,Governor,,DEM,Tom Wakely,0,0,0
 Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",Governor,,DEM,Adrian Ocegueda,0,0,0
-Shelby,1SE ,Governor,,DEM,Adrian Ocegueda,1,2,3
+Shelby,1SE ,Governor,,DEM,Adrian Ocegueda,3,2,1
 Shelby,"4, 6 ",Governor,,DEM,Adrian Ocegueda,0,0,0
 Shelby,5,Governor,,DEM,Adrian Ocegueda,0,0,0
-Shelby,7,Governor,,DEM,Adrian Ocegueda,1,1,2
-Shelby,8,Governor,,DEM,Adrian Ocegueda,0,2,2
-Shelby,9N,Governor,,DEM,Adrian Ocegueda,0,1,1
+Shelby,7,Governor,,DEM,Adrian Ocegueda,2,1,1
+Shelby,8,Governor,,DEM,Adrian Ocegueda,2,2,0
+Shelby,9N,Governor,,DEM,Adrian Ocegueda,1,1,0
 Shelby,9S,Governor,,DEM,Adrian Ocegueda,1,0,1
-Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",Governor,,DEM,James Jolly Clark,0,1,1
+Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",Governor,,DEM,James Jolly Clark,1,1,0
 Shelby,1SE ,Governor,,DEM,James Jolly Clark,0,0,0
 Shelby,"4, 6 ",Governor,,DEM,James Jolly Clark,0,0,0
-Shelby,5,Governor,,DEM,James Jolly Clark,1,1,2
-Shelby,7,Governor,,DEM,James Jolly Clark,0,1,1
-Shelby,8,Governor,,DEM,James Jolly Clark,0,1,1
+Shelby,5,Governor,,DEM,James Jolly Clark,2,1,1
+Shelby,7,Governor,,DEM,James Jolly Clark,1,1,0
+Shelby,8,Governor,,DEM,James Jolly Clark,1,1,0
 Shelby,9N,Governor,,DEM,James Jolly Clark,0,0,0
 Shelby,9S,Governor,,DEM,James Jolly Clark,0,0,0
-Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",Governor,,DEM,Grady Yarbrough,2,4,6
-Shelby,1SE ,Governor,,DEM,Grady Yarbrough,8,3,11
-Shelby,"4, 6 ",Governor,,DEM,Grady Yarbrough,0,1,1
-Shelby,5,Governor,,DEM,Grady Yarbrough,0,2,2
-Shelby,7,Governor,,DEM,Grady Yarbrough,0,1,1
-Shelby,8,Governor,,DEM,Grady Yarbrough,2,5,7
-Shelby,9N,Governor,,DEM,Grady Yarbrough,1,3,4
+Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",Governor,,DEM,Grady Yarbrough,6,4,2
+Shelby,1SE ,Governor,,DEM,Grady Yarbrough,11,3,8
+Shelby,"4, 6 ",Governor,,DEM,Grady Yarbrough,1,1,0
+Shelby,5,Governor,,DEM,Grady Yarbrough,2,2,0
+Shelby,7,Governor,,DEM,Grady Yarbrough,1,1,0
+Shelby,8,Governor,,DEM,Grady Yarbrough,7,5,2
+Shelby,9N,Governor,,DEM,Grady Yarbrough,4,3,1
 Shelby,9S,Governor,,DEM,Grady Yarbrough,0,0,0
-Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",Governor,,DEM,Joe Mumbach,3,1,4
+Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",Governor,,DEM,Joe Mumbach,4,1,3
 Shelby,1SE ,Governor,,DEM,Joe Mumbach,0,0,0
 Shelby,"4, 6 ",Governor,,DEM,Joe Mumbach,0,0,0
-Shelby,5,Governor,,DEM,Joe Mumbach,1,1,2
+Shelby,5,Governor,,DEM,Joe Mumbach,2,1,1
 Shelby,7,Governor,,DEM,Joe Mumbach,0,0,0
 Shelby,8,Governor,,DEM,Joe Mumbach,0,0,0
 Shelby,9N,Governor,,DEM,Joe Mumbach,0,0,0
 Shelby,9S,Governor,,DEM,Joe Mumbach,1,0,1
-Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",Lieutenant Governor,,DEM,Michael Cooper,17,22,39
-Shelby,1SE ,Lieutenant Governor,,DEM,Michael Cooper,20,14,34
-Shelby,"4, 6 ",Lieutenant Governor,,DEM,Michael Cooper,5,4,9
-Shelby,5,Lieutenant Governor,,DEM,Michael Cooper,3,13,16
-Shelby,7,Lieutenant Governor,,DEM,Michael Cooper,3,8,11
-Shelby,8,Lieutenant Governor,,DEM,Michael Cooper,5,15,20
-Shelby,9N,Lieutenant Governor,,DEM,Michael Cooper,0,6,6
-Shelby,9S,Lieutenant Governor,,DEM,Michael Cooper,3,4,7
-Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",Lieutenant Governor,,DEM,Mike Collier,26,19,45
-Shelby,1SE ,Lieutenant Governor,,DEM,Mike Collier,9,8,17
-Shelby,"4, 6 ",Lieutenant Governor,,DEM,Mike Collier,1,1,2
-Shelby,5,Lieutenant Governor,,DEM,Mike Collier,2,5,7
-Shelby,7,Lieutenant Governor,,DEM,Mike Collier,2,5,7
-Shelby,8,Lieutenant Governor,,DEM,Mike Collier,4,11,15
-Shelby,9N,Lieutenant Governor,,DEM,Mike Collier,1,4,5
-Shelby,9S,Lieutenant Governor,,DEM,Mike Collier,5,4,9
-Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",Attorney General,,DEM,Justin Nelson,39,39,78
-Shelby,1SE ,Attorney General,,DEM,Justin Nelson,25,20,45
-Shelby,"4, 6 ",Attorney General,,DEM,Justin Nelson,5,4,9
-Shelby,5,Attorney General,,DEM,Justin Nelson,4,14,18
-Shelby,7,Attorney General,,DEM,Justin Nelson,3,13,16
-Shelby,8,Attorney General,,DEM,Justin Nelson,9,14,23
-Shelby,9N,Attorney General,,DEM,Justin Nelson,1,10,11
-Shelby,9S,Attorney General,,DEM,Justin Nelson,6,6,12
-Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",Comptroller of Public Accounts,,DEM,Tim Mahoney,32,28,60
-Shelby,1SE ,Comptroller of Public Accounts,,DEM,Tim Mahoney,17,14,31
-Shelby,"4, 6 ",Comptroller of Public Accounts,,DEM,Tim Mahoney,4,4,8
-Shelby,5,Comptroller of Public Accounts,,DEM,Tim Mahoney,3,14,17
-Shelby,7,Comptroller of Public Accounts,,DEM,Tim Mahoney,3,8,11
-Shelby,8,Comptroller of Public Accounts,,DEM,Tim Mahoney,5,17,22
-Shelby,9N,Comptroller of Public Accounts,,DEM,Tim Mahoney,1,4,5
-Shelby,9S,Comptroller of Public Accounts,,DEM,Tim Mahoney,4,5,9
-Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",Comptroller of Public Accounts,,DEM,Joi Chevalier,10,14,24
-Shelby,1SE ,Comptroller of Public Accounts,,DEM,Joi Chevalier,12,7,19
+Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",Lieutenant Governor,,DEM,Michael Cooper,39,22,17
+Shelby,1SE ,Lieutenant Governor,,DEM,Michael Cooper,34,14,20
+Shelby,"4, 6 ",Lieutenant Governor,,DEM,Michael Cooper,9,4,5
+Shelby,5,Lieutenant Governor,,DEM,Michael Cooper,16,13,3
+Shelby,7,Lieutenant Governor,,DEM,Michael Cooper,11,8,3
+Shelby,8,Lieutenant Governor,,DEM,Michael Cooper,20,15,5
+Shelby,9N,Lieutenant Governor,,DEM,Michael Cooper,6,6,0
+Shelby,9S,Lieutenant Governor,,DEM,Michael Cooper,7,4,3
+Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",Lieutenant Governor,,DEM,Mike Collier,45,19,26
+Shelby,1SE ,Lieutenant Governor,,DEM,Mike Collier,17,8,9
+Shelby,"4, 6 ",Lieutenant Governor,,DEM,Mike Collier,2,1,1
+Shelby,5,Lieutenant Governor,,DEM,Mike Collier,7,5,2
+Shelby,7,Lieutenant Governor,,DEM,Mike Collier,7,5,2
+Shelby,8,Lieutenant Governor,,DEM,Mike Collier,15,11,4
+Shelby,9N,Lieutenant Governor,,DEM,Mike Collier,5,4,1
+Shelby,9S,Lieutenant Governor,,DEM,Mike Collier,9,4,5
+Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",Attorney General,,DEM,Justin Nelson,78,39,39
+Shelby,1SE ,Attorney General,,DEM,Justin Nelson,45,20,25
+Shelby,"4, 6 ",Attorney General,,DEM,Justin Nelson,9,4,5
+Shelby,5,Attorney General,,DEM,Justin Nelson,18,14,4
+Shelby,7,Attorney General,,DEM,Justin Nelson,16,13,3
+Shelby,8,Attorney General,,DEM,Justin Nelson,23,14,9
+Shelby,9N,Attorney General,,DEM,Justin Nelson,11,10,1
+Shelby,9S,Attorney General,,DEM,Justin Nelson,12,6,6
+Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",Comptroller of Public Accounts,,DEM,Tim Mahoney,60,28,32
+Shelby,1SE ,Comptroller of Public Accounts,,DEM,Tim Mahoney,31,14,17
+Shelby,"4, 6 ",Comptroller of Public Accounts,,DEM,Tim Mahoney,8,4,4
+Shelby,5,Comptroller of Public Accounts,,DEM,Tim Mahoney,17,14,3
+Shelby,7,Comptroller of Public Accounts,,DEM,Tim Mahoney,11,8,3
+Shelby,8,Comptroller of Public Accounts,,DEM,Tim Mahoney,22,17,5
+Shelby,9N,Comptroller of Public Accounts,,DEM,Tim Mahoney,5,4,1
+Shelby,9S,Comptroller of Public Accounts,,DEM,Tim Mahoney,9,5,4
+Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",Comptroller of Public Accounts,,DEM,Joi Chevalier,24,14,10
+Shelby,1SE ,Comptroller of Public Accounts,,DEM,Joi Chevalier,19,7,12
 Shelby,"4, 6 ",Comptroller of Public Accounts,,DEM,Joi Chevalier,2,0,2
-Shelby,5,Comptroller of Public Accounts,,DEM,Joi Chevalier,2,3,5
-Shelby,7,Comptroller of Public Accounts,,DEM,Joi Chevalier,2,4,6
-Shelby,8,Comptroller of Public Accounts,,DEM,Joi Chevalier,4,7,11
-Shelby,9N,Comptroller of Public Accounts,,DEM,Joi Chevalier,0,6,6
-Shelby,9S,Comptroller of Public Accounts,,DEM,Joi Chevalier,3,3,6
-Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",Commissioner of the General Land Office,,DEM,Miguel Suazo,17,20,37
-Shelby,1SE ,Commissioner of the General Land Office,,DEM,Miguel Suazo,15,18,33
-Shelby,"4, 6 ",Commissioner of the General Land Office,,DEM,Miguel Suazo,2,1,3
-Shelby,5,Commissioner of the General Land Office,,DEM,Miguel Suazo,4,7,11
-Shelby,7,Commissioner of the General Land Office,,DEM,Miguel Suazo,4,5,9
-Shelby,8,Commissioner of the General Land Office,,DEM,Miguel Suazo,6,12,18
-Shelby,9N,Commissioner of the General Land Office,,DEM,Miguel Suazo,1,4,5
-Shelby,9S,Commissioner of the General Land Office,,DEM,Miguel Suazo,3,5,8
-Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",Commissioner of the General Land Office,,DEM,Tex Morgan,25,18,43
-Shelby,1SE ,Commissioner of the General Land Office,,DEM,Tex Morgan,12,4,16
-Shelby,"4, 6 ",Commissioner of the General Land Office,,DEM,Tex Morgan,4,2,6
-Shelby,5,Commissioner of the General Land Office,,DEM,Tex Morgan,1,10,11
-Shelby,7,Commissioner of the General Land Office,,DEM,Tex Morgan,1,6,7
-Shelby,8,Commissioner of the General Land Office,,DEM,Tex Morgan,3,11,14
-Shelby,9N,Commissioner of the General Land Office,,DEM,Tex Morgan,0,6,6
-Shelby,9S,Commissioner of the General Land Office,,DEM,Tex Morgan,5,1,6
-Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",Commissioner of Agriculture,,DEM,Kim Olson,38,33,71
-Shelby,1SE ,Commissioner of Agriculture,,DEM,Kim Olson,25,20,45
-Shelby,"4, 6 ",Commissioner of Agriculture,,DEM,Kim Olson,5,4,9
-Shelby,5,Commissioner of Agriculture,,DEM,Kim Olson,5,16,21
-Shelby,7,Commissioner of Agriculture,,DEM,Kim Olson,4,13,17
-Shelby,8,Commissioner of Agriculture,,DEM,Kim Olson,8,13,21
-Shelby,9N,Commissioner of Agriculture,,DEM,Kim Olson,1,10,11
-Shelby,9S,Commissioner of Agriculture,,DEM,Kim Olson,8,7,15
-Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",Railroad Commissioner,,DEM,Roman McAllen,16,19,35
-Shelby,1SE ,Railroad Commissioner,,DEM,Roman McAllen,17,9,26
-Shelby,"4, 6 ",Railroad Commissioner,,DEM,Roman McAllen,2,3,5
-Shelby,5,Railroad Commissioner,,DEM,Roman McAllen,1,6,7
-Shelby,7,Railroad Commissioner,,DEM,Roman McAllen,2,7,9
-Shelby,8,Railroad Commissioner,,DEM,Roman McAllen,6,9,15
-Shelby,9N,Railroad Commissioner,,DEM,Roman McAllen,0,3,3
-Shelby,9S,Railroad Commissioner,,DEM,Roman McAllen,3,3,6
-Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",Railroad Commissioner,,DEM,Chris Spellmon,23,20,43
-Shelby,1SE ,Railroad Commissioner,,DEM,Chris Spellmon,11,10,21
-Shelby,"4, 6 ",Railroad Commissioner,,DEM,Chris Spellmon,4,1,5
-Shelby,5,Railroad Commissioner,,DEM,Chris Spellmon,4,12,16
-Shelby,7,Railroad Commissioner,,DEM,Chris Spellmon,3,5,8
-Shelby,8,Railroad Commissioner,,DEM,Chris Spellmon,3,14,17
-Shelby,9N,Railroad Commissioner,,DEM,Chris Spellmon,1,7,8
-Shelby,9S,Railroad Commissioner,,DEM,Chris Spellmon,5,3,8
-Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",State Senate,3,DEM,Shirley Latyon,40,36,76
-Shelby,1SE ,State Senate,3,DEM,Shirley Latyon,25,19,44
-Shelby,"4, 6 ",State Senate,3,DEM,Shirley Latyon,4,4,8
-Shelby,5,State Senate,3,DEM,Shirley Latyon,5,15,20
-Shelby,7,State Senate,3,DEM,Shirley Latyon,4,13,17
-Shelby,8,State Senate,3,DEM,Shirley Latyon,9,12,21
-Shelby,9N,State Senate,3,DEM,Shirley Latyon,1,9,10
-Shelby,9S,State Senate,3,DEM,Shirley Latyon,8,5,13
+Shelby,5,Comptroller of Public Accounts,,DEM,Joi Chevalier,5,3,2
+Shelby,7,Comptroller of Public Accounts,,DEM,Joi Chevalier,6,4,2
+Shelby,8,Comptroller of Public Accounts,,DEM,Joi Chevalier,11,7,4
+Shelby,9N,Comptroller of Public Accounts,,DEM,Joi Chevalier,6,6,0
+Shelby,9S,Comptroller of Public Accounts,,DEM,Joi Chevalier,6,3,3
+Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",Commissioner of the General Land Office,,DEM,Miguel Suazo,37,20,17
+Shelby,1SE ,Commissioner of the General Land Office,,DEM,Miguel Suazo,33,18,15
+Shelby,"4, 6 ",Commissioner of the General Land Office,,DEM,Miguel Suazo,3,1,2
+Shelby,5,Commissioner of the General Land Office,,DEM,Miguel Suazo,11,7,4
+Shelby,7,Commissioner of the General Land Office,,DEM,Miguel Suazo,9,5,4
+Shelby,8,Commissioner of the General Land Office,,DEM,Miguel Suazo,18,12,6
+Shelby,9N,Commissioner of the General Land Office,,DEM,Miguel Suazo,5,4,1
+Shelby,9S,Commissioner of the General Land Office,,DEM,Miguel Suazo,8,5,3
+Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",Commissioner of the General Land Office,,DEM,Tex Morgan,43,18,25
+Shelby,1SE ,Commissioner of the General Land Office,,DEM,Tex Morgan,16,4,12
+Shelby,"4, 6 ",Commissioner of the General Land Office,,DEM,Tex Morgan,6,2,4
+Shelby,5,Commissioner of the General Land Office,,DEM,Tex Morgan,11,10,1
+Shelby,7,Commissioner of the General Land Office,,DEM,Tex Morgan,7,6,1
+Shelby,8,Commissioner of the General Land Office,,DEM,Tex Morgan,14,11,3
+Shelby,9N,Commissioner of the General Land Office,,DEM,Tex Morgan,6,6,0
+Shelby,9S,Commissioner of the General Land Office,,DEM,Tex Morgan,6,1,5
+Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",Commissioner of Agriculture,,DEM,Kim Olson,71,33,38
+Shelby,1SE ,Commissioner of Agriculture,,DEM,Kim Olson,45,20,25
+Shelby,"4, 6 ",Commissioner of Agriculture,,DEM,Kim Olson,9,4,5
+Shelby,5,Commissioner of Agriculture,,DEM,Kim Olson,21,16,5
+Shelby,7,Commissioner of Agriculture,,DEM,Kim Olson,17,13,4
+Shelby,8,Commissioner of Agriculture,,DEM,Kim Olson,21,13,8
+Shelby,9N,Commissioner of Agriculture,,DEM,Kim Olson,11,10,1
+Shelby,9S,Commissioner of Agriculture,,DEM,Kim Olson,15,7,8
+Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",Railroad Commissioner,,DEM,Roman McAllen,35,19,16
+Shelby,1SE ,Railroad Commissioner,,DEM,Roman McAllen,26,9,17
+Shelby,"4, 6 ",Railroad Commissioner,,DEM,Roman McAllen,5,3,2
+Shelby,5,Railroad Commissioner,,DEM,Roman McAllen,7,6,1
+Shelby,7,Railroad Commissioner,,DEM,Roman McAllen,9,7,2
+Shelby,8,Railroad Commissioner,,DEM,Roman McAllen,15,9,6
+Shelby,9N,Railroad Commissioner,,DEM,Roman McAllen,3,3,0
+Shelby,9S,Railroad Commissioner,,DEM,Roman McAllen,6,3,3
+Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",Railroad Commissioner,,DEM,Chris Spellmon,43,20,23
+Shelby,1SE ,Railroad Commissioner,,DEM,Chris Spellmon,21,10,11
+Shelby,"4, 6 ",Railroad Commissioner,,DEM,Chris Spellmon,5,1,4
+Shelby,5,Railroad Commissioner,,DEM,Chris Spellmon,16,12,4
+Shelby,7,Railroad Commissioner,,DEM,Chris Spellmon,8,5,3
+Shelby,8,Railroad Commissioner,,DEM,Chris Spellmon,17,14,3
+Shelby,9N,Railroad Commissioner,,DEM,Chris Spellmon,8,7,1
+Shelby,9S,Railroad Commissioner,,DEM,Chris Spellmon,8,3,5
+Shelby,"1N, 1S, 1SW, 1W, 2, 3 ",State Senate,3,DEM,Shirley Latyon,76,36,40
+Shelby,1SE ,State Senate,3,DEM,Shirley Latyon,44,19,25
+Shelby,"4, 6 ",State Senate,3,DEM,Shirley Latyon,8,4,4
+Shelby,5,State Senate,3,DEM,Shirley Latyon,20,15,5
+Shelby,7,State Senate,3,DEM,Shirley Latyon,17,13,4
+Shelby,8,State Senate,3,DEM,Shirley Latyon,21,12,9
+Shelby,9N,State Senate,3,DEM,Shirley Latyon,10,9,1
+Shelby,9S,State Senate,3,DEM,Shirley Latyon,13,5,8

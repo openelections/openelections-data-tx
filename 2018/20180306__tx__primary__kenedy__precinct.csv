@@ -1,20 +1,20 @@
-county,precinct,office,district,party,candidate,votes,early_voting,election_day
-Kenedy,1,U.S. Senate,,REP,"Bruce Jacobson, Jr.",1,1,0
+county,precinct,office,district,party,candidate,votes,election_day,early_voting
+Kenedy,1,U.S. Senate,,REP,"Bruce Jacobson, Jr.",1,0,1
 Kenedy,1,U.S. Senate,,REP,Over Votes,0,0,0
 Kenedy,1,U.S. Senate,,REP,Under Votes,0,0,0
 Kenedy,1,Registered Voters,,REP,,0,,
-Kenedy,1,Ballots Cast,,REP,,61,42,0
-Kenedy,1,U.S. Senate,,REP,Geraldine Sam,1,1,0
+Kenedy,1,Ballots Cast,,REP,,61,0,42
+Kenedy,1,U.S. Senate,,REP,Geraldine Sam,1,0,1
 Kenedy,1,U.S. Senate,,REP,Over Votes,0,0,0
 Kenedy,1,U.S. Senate,,REP,Under Votes,0,0,0
 Kenedy,1,U.S. Senate,,REP,Mary Miller,0,0,0
 Kenedy,1,U.S. Senate,,REP,Stefano de Stefano,0,0,0
-Kenedy,1,U.S. Senate,,REP,Ted Cruz,2,0,2
+Kenedy,1,U.S. Senate,,REP,Ted Cruz,2,2,0
 Kenedy,1,U.S. House,34,REP,Rey Gonzalez,2,1,1
 Kenedy,1,U.S. House,34,REP,Over Votes,0,0,0
 Kenedy,1,U.S. House,34,REP,Under Votes,2,1,1
-Kenedy,1,Governor,,REP,Barbara Krueger,1,1,0
-Kenedy,1,Governor,,REP,Greg Abbott,3,1,2
+Kenedy,1,Governor,,REP,Barbara Krueger,1,0,1
+Kenedy,1,Governor,,REP,Greg Abbott,3,2,1
 Kenedy,1,Governor,,REP,SECEDE Kilgore,0,0,0
 Kenedy,1,Lieutenant Governor,,REP,Dan Patrick,4,2,2
 Kenedy,1,Lieutenant Governor,,REP,Scott Milder,0,0,0
@@ -27,208 +27,208 @@ Kenedy,1,Comptroller of Public Accounts,,REP,Under Votes,2,1,1
 Kenedy,1,Commissioner of the General Land Office,,REP,Davey Edwards,2,1,1
 Kenedy,1,Commissioner of the General Land Office,,REP,Over Votes,0,0,0
 Kenedy,1,Commissioner of the General Land Office,,REP,Under Votes,0,0,0
-Kenedy,1,Commissioner of the General Land Office,,REP,George P. Bush,1,0,1
-Kenedy,1,Commissioner of the General Land Office,,REP,Jerry Patterson,1,1,0
+Kenedy,1,Commissioner of the General Land Office,,REP,George P. Bush,1,1,0
+Kenedy,1,Commissioner of the General Land Office,,REP,Jerry Patterson,1,0,1
 Kenedy,1,Commissioner of the General Land Office,,REP,Rick Range,0,0,0
-Kenedy,1,Commissioner of Agriculture,,REP,Jim Hogan,1,1,0
-Kenedy,1,Commissioner of Agriculture,,REP,Sid Miller,1,1,0
-Kenedy,1,Commissioner of Agriculture,,REP,Trey Blocker,1,0,1
-Kenedy,1,Railroad Commissioner,,REP,Christi Craddick,3,2,1
+Kenedy,1,Commissioner of Agriculture,,REP,Jim Hogan,1,0,1
+Kenedy,1,Commissioner of Agriculture,,REP,Sid Miller,1,0,1
+Kenedy,1,Commissioner of Agriculture,,REP,Trey Blocker,1,1,0
+Kenedy,1,Railroad Commissioner,,REP,Christi Craddick,3,1,2
 Kenedy,1,Railroad Commissioner,,REP,Over Votes,0,0,0
-Kenedy,1,Railroad Commissioner,,REP,Under Votes,1,0,1
+Kenedy,1,Railroad Commissioner,,REP,Under Votes,1,1,0
 Kenedy,1,Railroad Commissioner,,REP,Weston Martinez,0,0,0
-Kenedy,1,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,3,2,1
+Kenedy,1,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,3,1,2
 Kenedy,1,"Justice, Supreme Court, Place 2",,REP,Over Votes,0,0,0
-Kenedy,1,"Justice, Supreme Court, Place 2",,REP,Under Votes,1,0,1
-Kenedy,1,"Justice, Supreme Court, Place 4",,REP,John Devine,2,2,0
+Kenedy,1,"Justice, Supreme Court, Place 2",,REP,Under Votes,1,1,0
+Kenedy,1,"Justice, Supreme Court, Place 4",,REP,John Devine,2,0,2
 Kenedy,1,"Justice, Supreme Court, Place 4",,REP,Over Votes,0,0,0
-Kenedy,1,"Justice, Supreme Court, Place 4",,REP,Under Votes,2,0,2
-Kenedy,1,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,3,2,1
+Kenedy,1,"Justice, Supreme Court, Place 4",,REP,Under Votes,2,2,0
+Kenedy,1,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,3,1,2
 Kenedy,1,"Justice, Supreme Court, Place 6",,REP,Over Votes,0,0,0
-Kenedy,1,"Justice, Supreme Court, Place 6",,REP,Under Votes,1,0,1
+Kenedy,1,"Justice, Supreme Court, Place 6",,REP,Under Votes,1,1,0
 Kenedy,1,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,2,1,1
 Kenedy,1,"Presiding Judge, Court of Criminal Appeals",,REP,Over Votes,0,0,0
-Kenedy,1,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,1,0,1
-Kenedy,1,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,1,1,0
-Kenedy,1,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,3,2,1
+Kenedy,1,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,1,1,0
+Kenedy,1,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,1,0,1
+Kenedy,1,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,3,1,2
 Kenedy,1,"Judge, Court of Criminal Appeals, Place 7",,REP,Over Votes,0,0,0
-Kenedy,1,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,1,0,1
+Kenedy,1,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,1,1,0
 Kenedy,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,0,0,0
 Kenedy,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Over Votes,0,0,0
-Kenedy,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,1,0,1
-Kenedy,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,1,1,0
+Kenedy,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,1,1,0
+Kenedy,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,1,0,1
 Kenedy,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,2,1,1
 Kenedy,1,"Member, State Board of Education",2,REP,"Charles ""Tad"" Hasse",2,1,1
 Kenedy,1,"Member, State Board of Education",2,REP,Over Votes,0,0,0
-Kenedy,1,"Member, State Board of Education",2,REP,Under Votes,1,0,1
-Kenedy,1,"Member, State Board of Education",2,REP,Eric Garza,1,1,0
-Kenedy,1,"Chief Justice, 13th Court of Appeals District",,REP,Ernie Aliseda,3,2,1
+Kenedy,1,"Member, State Board of Education",2,REP,Under Votes,1,1,0
+Kenedy,1,"Member, State Board of Education",2,REP,Eric Garza,1,0,1
+Kenedy,1,"Chief Justice, 13th Court of Appeals District",,REP,Ernie Aliseda,3,1,2
 Kenedy,1,"Chief Justice, 13th Court of Appeals District",,REP,Over Votes,0,0,0
-Kenedy,1,"Chief Justice, 13th Court of Appeals District",,REP,Under Votes,1,0,1
-Kenedy,1,"Justice, 13th Court of Appeals District, Place No. 2",,REP,Greg Perkes,3,2,1
+Kenedy,1,"Chief Justice, 13th Court of Appeals District",,REP,Under Votes,1,1,0
+Kenedy,1,"Justice, 13th Court of Appeals District, Place No. 2",,REP,Greg Perkes,3,1,2
 Kenedy,1,"Justice, 13th Court of Appeals District, Place No. 2",,REP,Over Votes,0,0,0
-Kenedy,1,"Justice, 13th Court of Appeals District, Place No. 2",,REP,Under Votes,1,0,1
-Kenedy,1,"Justice, 13th Court of Appeals District, Place No. 4",,REP,Jaime Tijerina,3,2,1
+Kenedy,1,"Justice, 13th Court of Appeals District, Place No. 2",,REP,Under Votes,1,1,0
+Kenedy,1,"Justice, 13th Court of Appeals District, Place No. 4",,REP,Jaime Tijerina,3,1,2
 Kenedy,1,"Justice, 13th Court of Appeals District, Place No. 4",,REP,Over Votes,0,0,0
-Kenedy,1,"Justice, 13th Court of Appeals District, Place No. 4",,REP,Under Votes,1,0,1
-Kenedy,1,"Justice, 13th Court of Appeals District, Place No. 5",,REP,Clarissa Silva,3,2,1
+Kenedy,1,"Justice, 13th Court of Appeals District, Place No. 4",,REP,Under Votes,1,1,0
+Kenedy,1,"Justice, 13th Court of Appeals District, Place No. 5",,REP,Clarissa Silva,3,1,2
 Kenedy,1,"Justice, 13th Court of Appeals District, Place No. 5",,REP,Over Votes,0,0,0
-Kenedy,1,"Justice, 13th Court of Appeals District, Place No. 5",,REP,Under Votes,1,0,1
-Kenedy,1,"District Judge, 105th Judicial District",,REP,Jack W. Pulcher,2,2,0
+Kenedy,1,"Justice, 13th Court of Appeals District, Place No. 5",,REP,Under Votes,1,1,0
+Kenedy,1,"District Judge, 105th Judicial District",,REP,Jack W. Pulcher,2,0,2
 Kenedy,1,"District Judge, 105th Judicial District",,REP,Over Votes,0,0,0
-Kenedy,1,"District Judge, 105th Judicial District",,REP,Under Votes,2,0,2
-Kenedy,1,County Judge,,REP,Chuck Burns,2,2,0
+Kenedy,1,"District Judge, 105th Judicial District",,REP,Under Votes,2,2,0
+Kenedy,1,County Judge,,REP,Chuck Burns,2,0,2
 Kenedy,1,County Judge,,REP,Over Votes,0,0,0
-Kenedy,1,County Judge,,REP,Under Votes,2,0,2
+Kenedy,1,County Judge,,REP,Under Votes,2,2,0
 Kenedy,1,U.S. Senate,,DEM,Over Votes,0,0,0
-Kenedy,1,U.S. Senate,,DEM,Under Votes,34,26,8
+Kenedy,1,U.S. Senate,,DEM,Under Votes,34,8,26
 Kenedy,1,Registered Voters,,DEM,,0,,
-Kenedy,1,Ballots Cast,,DEM,,61,42,3
-Kenedy,1,U.S. Senate,,DEM,Beto O'Rourke,9,6,3
+Kenedy,1,Ballots Cast,,DEM,,61,3,42
+Kenedy,1,U.S. Senate,,DEM,Beto O'Rourke,9,3,6
 Kenedy,1,U.S. Senate,,DEM,Over Votes,0,0,0
-Kenedy,1,U.S. Senate,,DEM,Under Votes,34,26,8
-Kenedy,1,U.S. Senate,,DEM,Sema Hernandez,12,8,4
-Kenedy,1,U.S. Senate,,DEM,Edward Kimbrough,2,0,2
-Kenedy,1,U.S. House,34,DEM,Filemon B. Vela,22,14,8
+Kenedy,1,U.S. Senate,,DEM,Under Votes,34,8,26
+Kenedy,1,U.S. Senate,,DEM,Sema Hernandez,12,4,8
+Kenedy,1,U.S. Senate,,DEM,Edward Kimbrough,2,2,0
+Kenedy,1,U.S. House,34,DEM,Filemon B. Vela,22,8,14
 Kenedy,1,U.S. House,34,DEM,Over Votes,0,0,0
-Kenedy,1,U.S. House,34,DEM,Under Votes,35,26,9
-Kenedy,1,Governor,,DEM,Lupe Valdez,14,9,5
-Kenedy,1,Governor,,DEM,Andrew White,3,2,1
+Kenedy,1,U.S. House,34,DEM,Under Votes,35,9,26
+Kenedy,1,Governor,,DEM,Lupe Valdez,14,5,9
+Kenedy,1,Governor,,DEM,Andrew White,3,1,2
 Kenedy,1,Governor,,DEM,Grady Yarbrough,2,1,1
 Kenedy,1,Governor,,DEM,Tom Wakely,0,0,0
 Kenedy,1,Governor,,DEM,James Jolly Clark,0,0,0
-Kenedy,1,Governor,,DEM,Jeffrey Payne,2,0,2
+Kenedy,1,Governor,,DEM,Jeffrey Payne,2,2,0
 Kenedy,1,Governor,,DEM,Joe Mumbach,0,0,0
 Kenedy,1,Governor,,DEM,"Cedric Davis, Sr.",0,0,0
-Kenedy,1,Governor,,DEM,Adrian Ocegueda,1,1,0
+Kenedy,1,Governor,,DEM,Adrian Ocegueda,1,0,1
 Kenedy,1,Governor,,DEM,Over Votes,0,0,0
-Kenedy,1,Governor,,DEM,Under Votes,35,27,8
-Kenedy,1,Lieutenant Governor,,DEM,Michael Cooper,15,10,5
+Kenedy,1,Governor,,DEM,Under Votes,35,8,27
+Kenedy,1,Lieutenant Governor,,DEM,Michael Cooper,15,5,10
 Kenedy,1,Lieutenant Governor,,DEM,Over Votes,0,0,0
-Kenedy,1,Lieutenant Governor,,DEM,Under Votes,36,27,9
+Kenedy,1,Lieutenant Governor,,DEM,Under Votes,36,9,27
 Kenedy,1,Lieutenant Governor,,DEM,Mike Collier,6,3,3
-Kenedy,1,Attorney General,,DEM,Justin Nelson,19,11,8
+Kenedy,1,Attorney General,,DEM,Justin Nelson,19,8,11
 Kenedy,1,Attorney General,,DEM,Over Votes,0,0,0
-Kenedy,1,Attorney General,,DEM,Under Votes,38,29,9
-Kenedy,1,Comptroller of Public Accounts,,DEM,Tim Mahoney,19,12,7
-Kenedy,1,Comptroller of Public Accounts,,DEM,Joi Chevalier,1,1,0
+Kenedy,1,Attorney General,,DEM,Under Votes,38,9,29
+Kenedy,1,Comptroller of Public Accounts,,DEM,Tim Mahoney,19,7,12
+Kenedy,1,Comptroller of Public Accounts,,DEM,Joi Chevalier,1,0,1
 Kenedy,1,Comptroller of Public Accounts,,DEM,Over Votes,0,0,0
-Kenedy,1,Comptroller of Public Accounts,,DEM,Under Votes,37,27,10
-Kenedy,1,Commissioner of the General Land Office,,DEM,Tex Morgan,11,5,6
-Kenedy,1,Commissioner of the General Land Office,,DEM,Miguel Suazo,12,8,4
+Kenedy,1,Comptroller of Public Accounts,,DEM,Under Votes,37,10,27
+Kenedy,1,Commissioner of the General Land Office,,DEM,Tex Morgan,11,6,5
+Kenedy,1,Commissioner of the General Land Office,,DEM,Miguel Suazo,12,4,8
 Kenedy,1,Commissioner of the General Land Office,,DEM,Over Votes,0,0,0
-Kenedy,1,Commissioner of the General Land Office,,DEM,Under Votes,34,27,7
-Kenedy,1,Commissioner of Agriculture,,DEM,Kim Olson,22,13,9
+Kenedy,1,Commissioner of the General Land Office,,DEM,Under Votes,34,7,27
+Kenedy,1,Commissioner of Agriculture,,DEM,Kim Olson,22,9,13
 Kenedy,1,Commissioner of Agriculture,,DEM,Over Votes,0,0,0
-Kenedy,1,Commissioner of Agriculture,,DEM,Under Votes,35,27,8
-Kenedy,1,Railroad Commissioner,,DEM,Roman McAllen,14,8,6
-Kenedy,1,Railroad Commissioner,,DEM,Chris Spellmon,7,4,3
+Kenedy,1,Commissioner of Agriculture,,DEM,Under Votes,35,8,27
+Kenedy,1,Railroad Commissioner,,DEM,Roman McAllen,14,6,8
+Kenedy,1,Railroad Commissioner,,DEM,Chris Spellmon,7,3,4
 Kenedy,1,Railroad Commissioner,,DEM,Over Votes,0,0,0
-Kenedy,1,Railroad Commissioner,,DEM,Under Votes,36,28,8
-Kenedy,1,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,20,11,9
+Kenedy,1,Railroad Commissioner,,DEM,Under Votes,36,8,28
+Kenedy,1,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,20,9,11
 Kenedy,1,"Justice, Supreme Court, Place 2",,DEM,Over Votes,0,0,0
-Kenedy,1,"Justice, Supreme Court, Place 2",,DEM,Under Votes,37,29,8
-Kenedy,1,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,20,11,9
+Kenedy,1,"Justice, Supreme Court, Place 2",,DEM,Under Votes,37,8,29
+Kenedy,1,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,20,9,11
 Kenedy,1,"Justice, Supreme Court, Place 4",,DEM,Over Votes,0,0,0
-Kenedy,1,"Justice, Supreme Court, Place 4",,DEM,Under Votes,37,29,8
-Kenedy,1,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,20,11,9
+Kenedy,1,"Justice, Supreme Court, Place 4",,DEM,Under Votes,37,8,29
+Kenedy,1,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,20,9,11
 Kenedy,1,"Justice, Supreme Court, Place 6",,DEM,Over Votes,0,0,0
-Kenedy,1,"Justice, Supreme Court, Place 6",,DEM,Under Votes,37,29,8
-Kenedy,1,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,20,11,9
+Kenedy,1,"Justice, Supreme Court, Place 6",,DEM,Under Votes,37,8,29
+Kenedy,1,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,20,9,11
 Kenedy,1,"Presiding Judge, Court of Criminal Appeals",,DEM,Over Votes,0,0,0
-Kenedy,1,"Presiding Judge, Court of Criminal Appeals",,DEM,Under Votes,37,29,8
-Kenedy,1,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,19,11,8
+Kenedy,1,"Presiding Judge, Court of Criminal Appeals",,DEM,Under Votes,37,8,29
+Kenedy,1,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,19,8,11
 Kenedy,1,"Judge, Court of Criminal Appeals, Place 7",,DEM,Over Votes,0,0,0
-Kenedy,1,"Judge, Court of Criminal Appeals, Place 7",,DEM,Under Votes,38,29,9
-Kenedy,1,"Member, State Board of Education",2,DEM,Michelle Arévalo Dávila,14,9,5
+Kenedy,1,"Judge, Court of Criminal Appeals, Place 7",,DEM,Under Votes,38,9,29
+Kenedy,1,"Member, State Board of Education",2,DEM,Michelle Arévalo Dávila,14,5,9
 Kenedy,1,"Member, State Board of Education",2,DEM,Over Votes,0,0,0
-Kenedy,1,"Member, State Board of Education",2,DEM,Under Votes,35,26,9
-Kenedy,1,"Member, State Board of Education",2,DEM,"Ruben Cortez, Jr.",8,5,3
-Kenedy,1,State Representative,31,DEM,Ryan Guillen,15,10,5
+Kenedy,1,"Member, State Board of Education",2,DEM,Under Votes,35,9,26
+Kenedy,1,"Member, State Board of Education",2,DEM,"Ruben Cortez, Jr.",8,3,5
+Kenedy,1,State Representative,31,DEM,Ryan Guillen,15,5,10
 Kenedy,1,State Representative,31,DEM,Over Votes,0,0,0
-Kenedy,1,State Representative,31,DEM,Under Votes,30,22,8
-Kenedy,1,State Representative,31,DEM,Ana Lisa Garza,12,8,4
-Kenedy,1,"Chief Justice, 13th Court of Appeals District",,DEM,Dori Contreras,14,10,4
+Kenedy,1,State Representative,31,DEM,Under Votes,30,8,22
+Kenedy,1,State Representative,31,DEM,Ana Lisa Garza,12,4,8
+Kenedy,1,"Chief Justice, 13th Court of Appeals District",,DEM,Dori Contreras,14,4,10
 Kenedy,1,"Chief Justice, 13th Court of Appeals District",,DEM,Over Votes,0,0,0
-Kenedy,1,"Chief Justice, 13th Court of Appeals District",,DEM,Under Votes,36,27,9
-Kenedy,1,"Chief Justice, 13th Court of Appeals District",,DEM,Ray Thomas,7,3,4
-Kenedy,1,"Justice, 13th Court of Appeals District, Place No. 2",,DEM,Nora Longoria,23,15,8
+Kenedy,1,"Chief Justice, 13th Court of Appeals District",,DEM,Under Votes,36,9,27
+Kenedy,1,"Chief Justice, 13th Court of Appeals District",,DEM,Ray Thomas,7,4,3
+Kenedy,1,"Justice, 13th Court of Appeals District, Place No. 2",,DEM,Nora Longoria,23,8,15
 Kenedy,1,"Justice, 13th Court of Appeals District, Place No. 2",,DEM,Over Votes,0,0,0
-Kenedy,1,"Justice, 13th Court of Appeals District, Place No. 2",,DEM,Under Votes,34,25,9
-Kenedy,1,"Justice, 13th Court of Appeals District, Place No. 4",,DEM,Rudy Delgado,20,12,8
+Kenedy,1,"Justice, 13th Court of Appeals District, Place No. 2",,DEM,Under Votes,34,9,25
+Kenedy,1,"Justice, 13th Court of Appeals District, Place No. 4",,DEM,Rudy Delgado,20,8,12
 Kenedy,1,"Justice, 13th Court of Appeals District, Place No. 4",,DEM,Over Votes,0,0,0
-Kenedy,1,"Justice, 13th Court of Appeals District, Place No. 4",,DEM,Under Votes,37,28,9
-Kenedy,1,"Justice, 13th Court of Appeals District, Place No. 5",,DEM,Gina Benavides,20,12,8
+Kenedy,1,"Justice, 13th Court of Appeals District, Place No. 4",,DEM,Under Votes,37,9,28
+Kenedy,1,"Justice, 13th Court of Appeals District, Place No. 5",,DEM,Gina Benavides,20,8,12
 Kenedy,1,"Justice, 13th Court of Appeals District, Place No. 5",,DEM,Over Votes,0,0,0
-Kenedy,1,"Justice, 13th Court of Appeals District, Place No. 5",,DEM,Under Votes,37,28,9
-Kenedy,1,"District Judge, 105th Judicial District",,DEM,Craig D. Henderson,19,11,8
+Kenedy,1,"Justice, 13th Court of Appeals District, Place No. 5",,DEM,Under Votes,37,9,28
+Kenedy,1,"District Judge, 105th Judicial District",,DEM,Craig D. Henderson,19,8,11
 Kenedy,1,"District Judge, 105th Judicial District",,DEM,Over Votes,0,0,0
-Kenedy,1,"District Judge, 105th Judicial District",,DEM,Under Votes,38,29,9
-Kenedy,1,County Judge,,DEM,Louis E. (Bud) Turcotte III,32,20,12
+Kenedy,1,"District Judge, 105th Judicial District",,DEM,Under Votes,38,9,29
+Kenedy,1,County Judge,,DEM,Louis E. (Bud) Turcotte III,32,12,20
 Kenedy,1,County Judge,,DEM,Over Votes,0,0,0
-Kenedy,1,County Judge,,DEM,Under Votes,25,20,5
-Kenedy,1,District and County Clerk,,DEM,Amy L. Ybarra,28,18,10
+Kenedy,1,County Judge,,DEM,Under Votes,25,5,20
+Kenedy,1,District and County Clerk,,DEM,Amy L. Ybarra,28,10,18
 Kenedy,1,District and County Clerk,,DEM,Over Votes,0,0,0
-Kenedy,1,District and County Clerk,,DEM,Under Votes,1,0,1
-Kenedy,1,District and County Clerk,,DEM,"Veronica ""Betty"" Vela",28,22,6
-Kenedy,1,County Treasurer,,DEM,"Cynthia ""Cyndi"" Salinas",40,29,11
+Kenedy,1,District and County Clerk,,DEM,Under Votes,1,1,0
+Kenedy,1,District and County Clerk,,DEM,"Veronica ""Betty"" Vela",28,6,22
+Kenedy,1,County Treasurer,,DEM,"Cynthia ""Cyndi"" Salinas",40,11,29
 Kenedy,1,County Treasurer,,DEM,Over Votes,0,0,0
-Kenedy,1,County Treasurer,,DEM,Under Votes,1,1,0
-Kenedy,1,County Treasurer,,DEM,Javier Vidal,16,10,6
+Kenedy,1,County Treasurer,,DEM,Under Votes,1,0,1
+Kenedy,1,County Treasurer,,DEM,Javier Vidal,16,6,10
 Kenedy,1,County Treasurer,,DEM,Juli A. Salinas,0,0,0
-Kenedy,1,"Justice of the Peace, Precinct No. 1",,DEM,Jana B. Norrell,27,22,5
+Kenedy,1,"Justice of the Peace, Precinct No. 1",,DEM,Jana B. Norrell,27,5,22
 Kenedy,1,"Justice of the Peace, Precinct No. 1",,DEM,Over Votes,0,0,0
-Kenedy,1,"Justice of the Peace, Precinct No. 1",,DEM,Under Votes,2,2,0
+Kenedy,1,"Justice of the Peace, Precinct No. 1",,DEM,Under Votes,2,0,2
 Kenedy,1,"Justice of the Peace, Precinct No. 1",,DEM,Andrew Turcotte,18,9,9
-Kenedy,1,"Justice of the Peace, Precinct No. 1",,DEM,Lionel Longoria Jr.,10,7,3
-Kenedy,1,Proposition #1 Right to a 21st Century Public Education:,,,Yes,28,17,11
+Kenedy,1,"Justice of the Peace, Precinct No. 1",,DEM,Lionel Longoria Jr.,10,3,7
+Kenedy,1,Proposition #1 Right to a 21st Century Public Education:,,,Yes,28,11,17
 Kenedy,1,Proposition #1 Right to a 21st Century Public Education:,,,Over Votes,0,0,0
-Kenedy,1,Proposition #1 Right to a 21st Century Public Education:,,,Under Votes,24,19,5
-Kenedy,1,Proposition #1 Right to a 21st Century Public Education:,,,No,5,4,1
-Kenedy,1,Proposition #2 Student Loan Debt:,,,Yes,30,17,13
+Kenedy,1,Proposition #1 Right to a 21st Century Public Education:,,,Under Votes,24,5,19
+Kenedy,1,Proposition #1 Right to a 21st Century Public Education:,,,No,5,1,4
+Kenedy,1,Proposition #2 Student Loan Debt:,,,Yes,30,13,17
 Kenedy,1,Proposition #2 Student Loan Debt:,,,Over Votes,0,0,0
-Kenedy,1,Proposition #2 Student Loan Debt:,,,Under Votes,24,20,4
-Kenedy,1,Proposition #2 Student Loan Debt:,,,No,3,3,0
-Kenedy,1,Proposition #3 Right to Healthcare:,,,Yes,22,13,9
+Kenedy,1,Proposition #2 Student Loan Debt:,,,Under Votes,24,4,20
+Kenedy,1,Proposition #2 Student Loan Debt:,,,No,3,0,3
+Kenedy,1,Proposition #3 Right to Healthcare:,,,Yes,22,9,13
 Kenedy,1,Proposition #3 Right to Healthcare:,,,Over Votes,0,0,0
-Kenedy,1,Proposition #3 Right to Healthcare:,,,Under Votes,26,21,5
-Kenedy,1,Proposition #3 Right to Healthcare:,,,No,9,6,3
-Kenedy,1,Proposition #4 Right to Economic Security:,,,Yes,28,16,12
+Kenedy,1,Proposition #3 Right to Healthcare:,,,Under Votes,26,5,21
+Kenedy,1,Proposition #3 Right to Healthcare:,,,No,9,3,6
+Kenedy,1,Proposition #4 Right to Economic Security:,,,Yes,28,12,16
 Kenedy,1,Proposition #4 Right to Economic Security:,,,Over Votes,0,0,0
-Kenedy,1,Proposition #4 Right to Economic Security:,,,Under Votes,27,22,5
-Kenedy,1,Proposition #4 Right to Economic Security:,,,No,2,2,0
-Kenedy,1,Proposition #5 National Jobs Program:,,,Yes,23,12,11
+Kenedy,1,Proposition #4 Right to Economic Security:,,,Under Votes,27,5,22
+Kenedy,1,Proposition #4 Right to Economic Security:,,,No,2,0,2
+Kenedy,1,Proposition #5 National Jobs Program:,,,Yes,23,11,12
 Kenedy,1,Proposition #5 National Jobs Program:,,,Over Votes,0,0,0
-Kenedy,1,Proposition #5 National Jobs Program:,,,Under Votes,29,24,5
-Kenedy,1,Proposition #5 National Jobs Program:,,,No,5,4,1
-Kenedy,1,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,28,16,12
+Kenedy,1,Proposition #5 National Jobs Program:,,,Under Votes,29,5,24
+Kenedy,1,Proposition #5 National Jobs Program:,,,No,5,1,4
+Kenedy,1,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,28,12,16
 Kenedy,1,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Over Votes,0,0,0
-Kenedy,1,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Under Votes,29,24,5
+Kenedy,1,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Under Votes,29,5,24
 Kenedy,1,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,0,0,0
-Kenedy,1,Proposition #7 Right to Dignity & Respect:,,,Yes,27,15,12
+Kenedy,1,Proposition #7 Right to Dignity & Respect:,,,Yes,27,12,15
 Kenedy,1,Proposition #7 Right to Dignity & Respect:,,,Over Votes,0,0,0
-Kenedy,1,Proposition #7 Right to Dignity & Respect:,,,Under Votes,29,24,5
-Kenedy,1,Proposition #7 Right to Dignity & Respect:,,,No,1,1,0
-Kenedy,1,Proposition #8 Right to Housing:,,,Yes,23,11,12
+Kenedy,1,Proposition #7 Right to Dignity & Respect:,,,Under Votes,29,5,24
+Kenedy,1,Proposition #7 Right to Dignity & Respect:,,,No,1,0,1
+Kenedy,1,Proposition #8 Right to Housing:,,,Yes,23,12,11
 Kenedy,1,Proposition #8 Right to Housing:,,,Over Votes,0,0,0
-Kenedy,1,Proposition #8 Right to Housing:,,,Under Votes,28,23,5
-Kenedy,1,Proposition #8 Right to Housing:,,,No,6,6,0
-Kenedy,1,Proposition #9 Right to Vote:,,,Yes,24,14,10
+Kenedy,1,Proposition #8 Right to Housing:,,,Under Votes,28,5,23
+Kenedy,1,Proposition #8 Right to Housing:,,,No,6,0,6
+Kenedy,1,Proposition #9 Right to Vote:,,,Yes,24,10,14
 Kenedy,1,Proposition #9 Right to Vote:,,,Over Votes,0,0,0
-Kenedy,1,Proposition #9 Right to Vote:,,,Under Votes,28,23,5
-Kenedy,1,Proposition #9 Right to Vote:,,,No,5,3,2
-Kenedy,1,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,29,17,12
+Kenedy,1,Proposition #9 Right to Vote:,,,Under Votes,28,5,23
+Kenedy,1,Proposition #9 Right to Vote:,,,No,5,2,3
+Kenedy,1,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,29,12,17
 Kenedy,1,Proposition #10 Right to a Fair Criminal Justice System:,,,Over Votes,0,0,0
-Kenedy,1,Proposition #10 Right to a Fair Criminal Justice System:,,,Under Votes,26,21,5
-Kenedy,1,Proposition #10 Right to a Fair Criminal Justice System:,,,No,2,2,0
-Kenedy,1,Proposition #11 Immigrant Rights:,,,Yes,25,14,11
+Kenedy,1,Proposition #10 Right to a Fair Criminal Justice System:,,,Under Votes,26,5,21
+Kenedy,1,Proposition #10 Right to a Fair Criminal Justice System:,,,No,2,0,2
+Kenedy,1,Proposition #11 Immigrant Rights:,,,Yes,25,11,14
 Kenedy,1,Proposition #11 Immigrant Rights:,,,Over Votes,0,0,0
-Kenedy,1,Proposition #11 Immigrant Rights:,,,Under Votes,26,21,5
-Kenedy,1,Proposition #11 Immigrant Rights:,,,No,6,5,1
-Kenedy,1,Proposition #12 Right to Fair Taxation:,,,Yes,28,16,12
+Kenedy,1,Proposition #11 Immigrant Rights:,,,Under Votes,26,5,21
+Kenedy,1,Proposition #11 Immigrant Rights:,,,No,6,1,5
+Kenedy,1,Proposition #12 Right to Fair Taxation:,,,Yes,28,12,16
 Kenedy,1,Proposition #12 Right to Fair Taxation:,,,Over Votes,0,0,0
-Kenedy,1,Proposition #12 Right to Fair Taxation:,,,Under Votes,26,21,5
-Kenedy,1,Proposition #12 Right to Fair Taxation:,,,No,3,3,0
+Kenedy,1,Proposition #12 Right to Fair Taxation:,,,Under Votes,26,5,21
+Kenedy,1,Proposition #12 Right to Fair Taxation:,,,No,3,0,3
 Kenedy,1,Proposition 1,,,YES,4,2,2
 Kenedy,1,Proposition 1,,,Over Votes,0,0,0
 Kenedy,1,Proposition 1,,,Under Votes,0,0,0
@@ -241,43 +241,43 @@ Kenedy,1,Proposition 3,,,YES,4,2,2
 Kenedy,1,Proposition 3,,,Over Votes,0,0,0
 Kenedy,1,Proposition 3,,,Under Votes,0,0,0
 Kenedy,1,Proposition 3,,,NO,0,0,0
-Kenedy,1,Proposition 4,,,YES,3,2,1
+Kenedy,1,Proposition 4,,,YES,3,1,2
 Kenedy,1,Proposition 4,,,Over Votes,0,0,0
-Kenedy,1,Proposition 4,,,Under Votes,1,0,1
+Kenedy,1,Proposition 4,,,Under Votes,1,1,0
 Kenedy,1,Proposition 4,,,NO,0,0,0
-Kenedy,1,Proposition 5,,,YES,3,2,1
+Kenedy,1,Proposition 5,,,YES,3,1,2
 Kenedy,1,Proposition 5,,,Over Votes,0,0,0
-Kenedy,1,Proposition 5,,,Under Votes,1,0,1
+Kenedy,1,Proposition 5,,,Under Votes,1,1,0
 Kenedy,1,Proposition 5,,,NO,0,0,0
 Kenedy,1,Proposition 6,,,YES,4,2,2
 Kenedy,1,Proposition 6,,,Over Votes,0,0,0
 Kenedy,1,Proposition 6,,,Under Votes,0,0,0
 Kenedy,1,Proposition 6,,,NO,0,0,0
-Kenedy,1,Proposition 7,,,YES,3,2,1
+Kenedy,1,Proposition 7,,,YES,3,1,2
 Kenedy,1,Proposition 7,,,Over Votes,0,0,0
 Kenedy,1,Proposition 7,,,Under Votes,0,0,0
-Kenedy,1,Proposition 7,,,NO,1,0,1
+Kenedy,1,Proposition 7,,,NO,1,1,0
 Kenedy,1,Proposition 8,,,YES,4,2,2
 Kenedy,1,Proposition 8,,,Over Votes,0,0,0
 Kenedy,1,Proposition 8,,,Under Votes,0,0,0
 Kenedy,1,Proposition 8,,,NO,0,0,0
-Kenedy,1,Proposition 9,,,YES,3,2,1
+Kenedy,1,Proposition 9,,,YES,3,1,2
 Kenedy,1,Proposition 9,,,Over Votes,0,0,0
 Kenedy,1,Proposition 9,,,Under Votes,0,0,0
-Kenedy,1,Proposition 9,,,NO,1,0,1
-Kenedy,1,Proposition 10,,,YES,3,2,1
+Kenedy,1,Proposition 9,,,NO,1,1,0
+Kenedy,1,Proposition 10,,,YES,3,1,2
 Kenedy,1,Proposition 10,,,Over Votes,0,0,0
-Kenedy,1,Proposition 10,,,Under Votes,1,0,1
+Kenedy,1,Proposition 10,,,Under Votes,1,1,0
 Kenedy,1,Proposition 10,,,NO,0,0,0
-Kenedy,1,Proposition 11,,,YES,3,2,1
+Kenedy,1,Proposition 11,,,YES,3,1,2
 Kenedy,1,Proposition 11,,,Over Votes,0,0,0
-Kenedy,1,Proposition 11,,,Under Votes,1,0,1
+Kenedy,1,Proposition 11,,,Under Votes,1,1,0
 Kenedy,1,Proposition 11,,,NO,0,0,0
 Kenedy,2,U.S. Senate,,REP,"Bruce Jacobson, Jr.",0,0,0
 Kenedy,2,U.S. Senate,,REP,Over Votes,0,0,0
 Kenedy,2,U.S. Senate,,REP,Under Votes,0,0,0
 Kenedy,2,Registered Voters,,REP,,0,,
-Kenedy,2,Ballots Cast,,REP,,87,63,0
+Kenedy,2,Ballots Cast,,REP,,87,0,63
 Kenedy,2,U.S. Senate,,REP,Geraldine Sam,0,0,0
 Kenedy,2,U.S. Senate,,REP,Over Votes,0,0,0
 Kenedy,2,U.S. Senate,,REP,Under Votes,0,0,0
@@ -355,157 +355,157 @@ Kenedy,2,County Judge,,REP,Chuck Burns,0,0,0
 Kenedy,2,County Judge,,REP,Over Votes,0,0,0
 Kenedy,2,County Judge,,REP,Under Votes,0,0,0
 Kenedy,2,U.S. Senate,,DEM,Over Votes,0,0,0
-Kenedy,2,U.S. Senate,,DEM,Under Votes,45,34,11
+Kenedy,2,U.S. Senate,,DEM,Under Votes,45,11,34
 Kenedy,2,Registered Voters,,DEM,,0,,
-Kenedy,2,Ballots Cast,,DEM,,87,63,4
-Kenedy,2,U.S. Senate,,DEM,Beto O'Rourke,12,8,4
+Kenedy,2,Ballots Cast,,DEM,,87,4,63
+Kenedy,2,U.S. Senate,,DEM,Beto O'Rourke,12,4,8
 Kenedy,2,U.S. Senate,,DEM,Over Votes,0,0,0
-Kenedy,2,U.S. Senate,,DEM,Under Votes,45,34,11
-Kenedy,2,U.S. Senate,,DEM,Sema Hernandez,19,12,7
-Kenedy,2,U.S. Senate,,DEM,Edward Kimbrough,11,9,2
-Kenedy,2,U.S. House,34,DEM,Filemon B. Vela,37,26,11
+Kenedy,2,U.S. Senate,,DEM,Under Votes,45,11,34
+Kenedy,2,U.S. Senate,,DEM,Sema Hernandez,19,7,12
+Kenedy,2,U.S. Senate,,DEM,Edward Kimbrough,11,2,9
+Kenedy,2,U.S. House,34,DEM,Filemon B. Vela,37,11,26
 Kenedy,2,U.S. House,34,DEM,Over Votes,0,0,0
-Kenedy,2,U.S. House,34,DEM,Under Votes,50,37,13
-Kenedy,2,Governor,,DEM,Lupe Valdez,12,8,4
-Kenedy,2,Governor,,DEM,Andrew White,3,2,1
-Kenedy,2,Governor,,DEM,Grady Yarbrough,8,8,0
-Kenedy,2,Governor,,DEM,Tom Wakely,1,0,1
-Kenedy,2,Governor,,DEM,James Jolly Clark,1,0,1
-Kenedy,2,Governor,,DEM,Jeffrey Payne,4,3,1
-Kenedy,2,Governor,,DEM,Joe Mumbach,3,1,2
+Kenedy,2,U.S. House,34,DEM,Under Votes,50,13,37
+Kenedy,2,Governor,,DEM,Lupe Valdez,12,4,8
+Kenedy,2,Governor,,DEM,Andrew White,3,1,2
+Kenedy,2,Governor,,DEM,Grady Yarbrough,8,0,8
+Kenedy,2,Governor,,DEM,Tom Wakely,1,1,0
+Kenedy,2,Governor,,DEM,James Jolly Clark,1,1,0
+Kenedy,2,Governor,,DEM,Jeffrey Payne,4,1,3
+Kenedy,2,Governor,,DEM,Joe Mumbach,3,2,1
 Kenedy,2,Governor,,DEM,"Cedric Davis, Sr.",2,1,1
-Kenedy,2,Governor,,DEM,Adrian Ocegueda,1,1,0
+Kenedy,2,Governor,,DEM,Adrian Ocegueda,1,0,1
 Kenedy,2,Governor,,DEM,Over Votes,0,0,0
-Kenedy,2,Governor,,DEM,Under Votes,52,39,13
-Kenedy,2,Lieutenant Governor,,DEM,Michael Cooper,22,16,6
+Kenedy,2,Governor,,DEM,Under Votes,52,13,39
+Kenedy,2,Lieutenant Governor,,DEM,Michael Cooper,22,6,16
 Kenedy,2,Lieutenant Governor,,DEM,Over Votes,0,0,0
-Kenedy,2,Lieutenant Governor,,DEM,Under Votes,49,36,13
-Kenedy,2,Lieutenant Governor,,DEM,Mike Collier,16,11,5
-Kenedy,2,Attorney General,,DEM,Justin Nelson,34,23,11
+Kenedy,2,Lieutenant Governor,,DEM,Under Votes,49,13,36
+Kenedy,2,Lieutenant Governor,,DEM,Mike Collier,16,5,11
+Kenedy,2,Attorney General,,DEM,Justin Nelson,34,11,23
 Kenedy,2,Attorney General,,DEM,Over Votes,0,0,0
-Kenedy,2,Attorney General,,DEM,Under Votes,53,40,13
-Kenedy,2,Comptroller of Public Accounts,,DEM,Tim Mahoney,29,21,8
-Kenedy,2,Comptroller of Public Accounts,,DEM,Joi Chevalier,7,4,3
+Kenedy,2,Attorney General,,DEM,Under Votes,53,13,40
+Kenedy,2,Comptroller of Public Accounts,,DEM,Tim Mahoney,29,8,21
+Kenedy,2,Comptroller of Public Accounts,,DEM,Joi Chevalier,7,3,4
 Kenedy,2,Comptroller of Public Accounts,,DEM,Over Votes,0,0,0
-Kenedy,2,Comptroller of Public Accounts,,DEM,Under Votes,51,38,13
-Kenedy,2,Commissioner of the General Land Office,,DEM,Tex Morgan,17,11,6
-Kenedy,2,Commissioner of the General Land Office,,DEM,Miguel Suazo,21,16,5
+Kenedy,2,Comptroller of Public Accounts,,DEM,Under Votes,51,13,38
+Kenedy,2,Commissioner of the General Land Office,,DEM,Tex Morgan,17,6,11
+Kenedy,2,Commissioner of the General Land Office,,DEM,Miguel Suazo,21,5,16
 Kenedy,2,Commissioner of the General Land Office,,DEM,Over Votes,0,0,0
-Kenedy,2,Commissioner of the General Land Office,,DEM,Under Votes,49,36,13
-Kenedy,2,Commissioner of Agriculture,,DEM,Kim Olson,29,20,9
+Kenedy,2,Commissioner of the General Land Office,,DEM,Under Votes,49,13,36
+Kenedy,2,Commissioner of Agriculture,,DEM,Kim Olson,29,9,20
 Kenedy,2,Commissioner of Agriculture,,DEM,Over Votes,0,0,0
-Kenedy,2,Commissioner of Agriculture,,DEM,Under Votes,58,43,15
-Kenedy,2,Railroad Commissioner,,DEM,Roman McAllen,22,18,4
+Kenedy,2,Commissioner of Agriculture,,DEM,Under Votes,58,15,43
+Kenedy,2,Railroad Commissioner,,DEM,Roman McAllen,22,4,18
 Kenedy,2,Railroad Commissioner,,DEM,Chris Spellmon,14,7,7
 Kenedy,2,Railroad Commissioner,,DEM,Over Votes,0,0,0
-Kenedy,2,Railroad Commissioner,,DEM,Under Votes,51,38,13
-Kenedy,2,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,31,21,10
+Kenedy,2,Railroad Commissioner,,DEM,Under Votes,51,13,38
+Kenedy,2,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,31,10,21
 Kenedy,2,"Justice, Supreme Court, Place 2",,DEM,Over Votes,0,0,0
-Kenedy,2,"Justice, Supreme Court, Place 2",,DEM,Under Votes,56,42,14
-Kenedy,2,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,30,20,10
+Kenedy,2,"Justice, Supreme Court, Place 2",,DEM,Under Votes,56,14,42
+Kenedy,2,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,30,10,20
 Kenedy,2,"Justice, Supreme Court, Place 4",,DEM,Over Votes,0,0,0
-Kenedy,2,"Justice, Supreme Court, Place 4",,DEM,Under Votes,57,43,14
-Kenedy,2,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,31,21,10
+Kenedy,2,"Justice, Supreme Court, Place 4",,DEM,Under Votes,57,14,43
+Kenedy,2,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,31,10,21
 Kenedy,2,"Justice, Supreme Court, Place 6",,DEM,Over Votes,0,0,0
-Kenedy,2,"Justice, Supreme Court, Place 6",,DEM,Under Votes,56,42,14
-Kenedy,2,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,30,20,10
+Kenedy,2,"Justice, Supreme Court, Place 6",,DEM,Under Votes,56,14,42
+Kenedy,2,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,30,10,20
 Kenedy,2,"Presiding Judge, Court of Criminal Appeals",,DEM,Over Votes,0,0,0
-Kenedy,2,"Presiding Judge, Court of Criminal Appeals",,DEM,Under Votes,57,43,14
-Kenedy,2,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,31,21,10
+Kenedy,2,"Presiding Judge, Court of Criminal Appeals",,DEM,Under Votes,57,14,43
+Kenedy,2,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,31,10,21
 Kenedy,2,"Judge, Court of Criminal Appeals, Place 7",,DEM,Over Votes,0,0,0
-Kenedy,2,"Judge, Court of Criminal Appeals, Place 7",,DEM,Under Votes,56,42,14
-Kenedy,2,"Member, State Board of Education",2,DEM,Michelle Arévalo Dávila,21,12,9
+Kenedy,2,"Judge, Court of Criminal Appeals, Place 7",,DEM,Under Votes,56,14,42
+Kenedy,2,"Member, State Board of Education",2,DEM,Michelle Arévalo Dávila,21,9,12
 Kenedy,2,"Member, State Board of Education",2,DEM,Over Votes,0,0,0
-Kenedy,2,"Member, State Board of Education",2,DEM,Under Votes,49,35,14
-Kenedy,2,"Member, State Board of Education",2,DEM,"Ruben Cortez, Jr.",17,16,1
-Kenedy,2,State Representative,31,DEM,Ryan Guillen,23,14,9
+Kenedy,2,"Member, State Board of Education",2,DEM,Under Votes,49,14,35
+Kenedy,2,"Member, State Board of Education",2,DEM,"Ruben Cortez, Jr.",17,1,16
+Kenedy,2,State Representative,31,DEM,Ryan Guillen,23,9,14
 Kenedy,2,State Representative,31,DEM,Over Votes,0,0,0
-Kenedy,2,State Representative,31,DEM,Under Votes,37,26,11
-Kenedy,2,State Representative,31,DEM,Ana Lisa Garza,27,23,4
-Kenedy,2,"Chief Justice, 13th Court of Appeals District",,DEM,Dori Contreras,22,14,8
+Kenedy,2,State Representative,31,DEM,Under Votes,37,11,26
+Kenedy,2,State Representative,31,DEM,Ana Lisa Garza,27,4,23
+Kenedy,2,"Chief Justice, 13th Court of Appeals District",,DEM,Dori Contreras,22,8,14
 Kenedy,2,"Chief Justice, 13th Court of Appeals District",,DEM,Over Votes,0,0,0
-Kenedy,2,"Chief Justice, 13th Court of Appeals District",,DEM,Under Votes,49,36,13
-Kenedy,2,"Chief Justice, 13th Court of Appeals District",,DEM,Ray Thomas,16,13,3
-Kenedy,2,"Justice, 13th Court of Appeals District, Place No. 2",,DEM,Nora Longoria,35,24,11
+Kenedy,2,"Chief Justice, 13th Court of Appeals District",,DEM,Under Votes,49,13,36
+Kenedy,2,"Chief Justice, 13th Court of Appeals District",,DEM,Ray Thomas,16,3,13
+Kenedy,2,"Justice, 13th Court of Appeals District, Place No. 2",,DEM,Nora Longoria,35,11,24
 Kenedy,2,"Justice, 13th Court of Appeals District, Place No. 2",,DEM,Over Votes,0,0,0
-Kenedy,2,"Justice, 13th Court of Appeals District, Place No. 2",,DEM,Under Votes,52,39,13
-Kenedy,2,"Justice, 13th Court of Appeals District, Place No. 4",,DEM,Rudy Delgado,33,22,11
+Kenedy,2,"Justice, 13th Court of Appeals District, Place No. 2",,DEM,Under Votes,52,13,39
+Kenedy,2,"Justice, 13th Court of Appeals District, Place No. 4",,DEM,Rudy Delgado,33,11,22
 Kenedy,2,"Justice, 13th Court of Appeals District, Place No. 4",,DEM,Over Votes,0,0,0
-Kenedy,2,"Justice, 13th Court of Appeals District, Place No. 4",,DEM,Under Votes,54,41,13
-Kenedy,2,"Justice, 13th Court of Appeals District, Place No. 5",,DEM,Gina Benavides,30,19,11
+Kenedy,2,"Justice, 13th Court of Appeals District, Place No. 4",,DEM,Under Votes,54,13,41
+Kenedy,2,"Justice, 13th Court of Appeals District, Place No. 5",,DEM,Gina Benavides,30,11,19
 Kenedy,2,"Justice, 13th Court of Appeals District, Place No. 5",,DEM,Over Votes,0,0,0
-Kenedy,2,"Justice, 13th Court of Appeals District, Place No. 5",,DEM,Under Votes,57,44,13
-Kenedy,2,"District Judge, 105th Judicial District",,DEM,Craig D. Henderson,29,19,10
+Kenedy,2,"Justice, 13th Court of Appeals District, Place No. 5",,DEM,Under Votes,57,13,44
+Kenedy,2,"District Judge, 105th Judicial District",,DEM,Craig D. Henderson,29,10,19
 Kenedy,2,"District Judge, 105th Judicial District",,DEM,Over Votes,0,0,0
-Kenedy,2,"District Judge, 105th Judicial District",,DEM,Under Votes,58,44,14
-Kenedy,2,County Judge,,DEM,Louis E. (Bud) Turcotte III,56,44,12
+Kenedy,2,"District Judge, 105th Judicial District",,DEM,Under Votes,58,14,44
+Kenedy,2,County Judge,,DEM,Louis E. (Bud) Turcotte III,56,12,44
 Kenedy,2,County Judge,,DEM,Over Votes,0,0,0
-Kenedy,2,County Judge,,DEM,Under Votes,31,19,12
-Kenedy,2,District and County Clerk,,DEM,Amy L. Ybarra,40,35,5
+Kenedy,2,County Judge,,DEM,Under Votes,31,12,19
+Kenedy,2,District and County Clerk,,DEM,Amy L. Ybarra,40,5,35
 Kenedy,2,District and County Clerk,,DEM,Over Votes,0,0,0
-Kenedy,2,District and County Clerk,,DEM,Under Votes,1,1,0
-Kenedy,2,District and County Clerk,,DEM,"Veronica ""Betty"" Vela",46,27,19
-Kenedy,2,County Treasurer,,DEM,"Cynthia ""Cyndi"" Salinas",51,34,17
+Kenedy,2,District and County Clerk,,DEM,Under Votes,1,0,1
+Kenedy,2,District and County Clerk,,DEM,"Veronica ""Betty"" Vela",46,19,27
+Kenedy,2,County Treasurer,,DEM,"Cynthia ""Cyndi"" Salinas",51,17,34
 Kenedy,2,County Treasurer,,DEM,Over Votes,0,0,0
-Kenedy,2,County Treasurer,,DEM,Under Votes,5,4,1
-Kenedy,2,County Treasurer,,DEM,Javier Vidal,27,23,4
+Kenedy,2,County Treasurer,,DEM,Under Votes,5,1,4
+Kenedy,2,County Treasurer,,DEM,Javier Vidal,27,4,23
 Kenedy,2,County Treasurer,,DEM,Juli A. Salinas,4,2,2
-Kenedy,2,"County Commissioner, Precinct No. 2",,DEM,"Israel ""Rale"" Vela, Jr.",42,27,15
+Kenedy,2,"County Commissioner, Precinct No. 2",,DEM,"Israel ""Rale"" Vela, Jr.",42,15,27
 Kenedy,2,"County Commissioner, Precinct No. 2",,DEM,Over Votes,0,0,0
 Kenedy,2,"County Commissioner, Precinct No. 2",,DEM,Under Votes,0,0,0
-Kenedy,2,"County Commissioner, Precinct No. 2",,DEM,Roberto Salazar Jr.,45,36,9
-Kenedy,2,"Justice of the Peace, Precinct No. 2",,DEM,Jerry William Miller,52,43,9
+Kenedy,2,"County Commissioner, Precinct No. 2",,DEM,Roberto Salazar Jr.,45,9,36
+Kenedy,2,"Justice of the Peace, Precinct No. 2",,DEM,Jerry William Miller,52,9,43
 Kenedy,2,"Justice of the Peace, Precinct No. 2",,DEM,Over Votes,0,0,0
-Kenedy,2,"Justice of the Peace, Precinct No. 2",,DEM,Under Votes,2,0,2
-Kenedy,2,"Justice of the Peace, Precinct No. 2",,DEM,Melinda Vela,33,20,13
-Kenedy,2,Proposition #1 Right to a 21st Century Public Education:,,,Yes,47,34,13
+Kenedy,2,"Justice of the Peace, Precinct No. 2",,DEM,Under Votes,2,2,0
+Kenedy,2,"Justice of the Peace, Precinct No. 2",,DEM,Melinda Vela,33,13,20
+Kenedy,2,Proposition #1 Right to a 21st Century Public Education:,,,Yes,47,13,34
 Kenedy,2,Proposition #1 Right to a 21st Century Public Education:,,,Over Votes,0,0,0
-Kenedy,2,Proposition #1 Right to a 21st Century Public Education:,,,Under Votes,32,23,9
-Kenedy,2,Proposition #1 Right to a 21st Century Public Education:,,,No,8,6,2
-Kenedy,2,Proposition #2 Student Loan Debt:,,,Yes,46,32,14
+Kenedy,2,Proposition #1 Right to a 21st Century Public Education:,,,Under Votes,32,9,23
+Kenedy,2,Proposition #1 Right to a 21st Century Public Education:,,,No,8,2,6
+Kenedy,2,Proposition #2 Student Loan Debt:,,,Yes,46,14,32
 Kenedy,2,Proposition #2 Student Loan Debt:,,,Over Votes,0,0,0
-Kenedy,2,Proposition #2 Student Loan Debt:,,,Under Votes,34,26,8
-Kenedy,2,Proposition #2 Student Loan Debt:,,,No,7,5,2
-Kenedy,2,Proposition #3 Right to Healthcare:,,,Yes,46,33,13
+Kenedy,2,Proposition #2 Student Loan Debt:,,,Under Votes,34,8,26
+Kenedy,2,Proposition #2 Student Loan Debt:,,,No,7,2,5
+Kenedy,2,Proposition #3 Right to Healthcare:,,,Yes,46,13,33
 Kenedy,2,Proposition #3 Right to Healthcare:,,,Over Votes,0,0,0
-Kenedy,2,Proposition #3 Right to Healthcare:,,,Under Votes,32,24,8
-Kenedy,2,Proposition #3 Right to Healthcare:,,,No,9,6,3
-Kenedy,2,Proposition #4 Right to Economic Security:,,,Yes,40,30,10
+Kenedy,2,Proposition #3 Right to Healthcare:,,,Under Votes,32,8,24
+Kenedy,2,Proposition #3 Right to Healthcare:,,,No,9,3,6
+Kenedy,2,Proposition #4 Right to Economic Security:,,,Yes,40,10,30
 Kenedy,2,Proposition #4 Right to Economic Security:,,,Over Votes,0,0,0
-Kenedy,2,Proposition #4 Right to Economic Security:,,,Under Votes,38,28,10
-Kenedy,2,Proposition #4 Right to Economic Security:,,,No,9,5,4
-Kenedy,2,Proposition #5 National Jobs Program:,,,Yes,39,27,12
+Kenedy,2,Proposition #4 Right to Economic Security:,,,Under Votes,38,10,28
+Kenedy,2,Proposition #4 Right to Economic Security:,,,No,9,4,5
+Kenedy,2,Proposition #5 National Jobs Program:,,,Yes,39,12,27
 Kenedy,2,Proposition #5 National Jobs Program:,,,Over Votes,0,0,0
-Kenedy,2,Proposition #5 National Jobs Program:,,,Under Votes,42,31,11
-Kenedy,2,Proposition #5 National Jobs Program:,,,No,6,5,1
-Kenedy,2,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,43,29,14
+Kenedy,2,Proposition #5 National Jobs Program:,,,Under Votes,42,11,31
+Kenedy,2,Proposition #5 National Jobs Program:,,,No,6,1,5
+Kenedy,2,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,43,14,29
 Kenedy,2,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Over Votes,0,0,0
-Kenedy,2,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Under Votes,40,30,10
-Kenedy,2,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,4,4,0
-Kenedy,2,Proposition #7 Right to Dignity & Respect:,,,Yes,41,28,13
+Kenedy,2,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Under Votes,40,10,30
+Kenedy,2,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,4,0,4
+Kenedy,2,Proposition #7 Right to Dignity & Respect:,,,Yes,41,13,28
 Kenedy,2,Proposition #7 Right to Dignity & Respect:,,,Over Votes,0,0,0
-Kenedy,2,Proposition #7 Right to Dignity & Respect:,,,Under Votes,40,30,10
-Kenedy,2,Proposition #7 Right to Dignity & Respect:,,,No,6,5,1
-Kenedy,2,Proposition #8 Right to Housing:,,,Yes,37,28,9
+Kenedy,2,Proposition #7 Right to Dignity & Respect:,,,Under Votes,40,10,30
+Kenedy,2,Proposition #7 Right to Dignity & Respect:,,,No,6,1,5
+Kenedy,2,Proposition #8 Right to Housing:,,,Yes,37,9,28
 Kenedy,2,Proposition #8 Right to Housing:,,,Over Votes,0,0,0
-Kenedy,2,Proposition #8 Right to Housing:,,,Under Votes,40,29,11
-Kenedy,2,Proposition #8 Right to Housing:,,,No,10,6,4
-Kenedy,2,Proposition #9 Right to Vote:,,,Yes,39,27,12
+Kenedy,2,Proposition #8 Right to Housing:,,,Under Votes,40,11,29
+Kenedy,2,Proposition #8 Right to Housing:,,,No,10,4,6
+Kenedy,2,Proposition #9 Right to Vote:,,,Yes,39,12,27
 Kenedy,2,Proposition #9 Right to Vote:,,,Over Votes,0,0,0
-Kenedy,2,Proposition #9 Right to Vote:,,,Under Votes,40,30,10
-Kenedy,2,Proposition #9 Right to Vote:,,,No,8,6,2
-Kenedy,2,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,35,25,10
+Kenedy,2,Proposition #9 Right to Vote:,,,Under Votes,40,10,30
+Kenedy,2,Proposition #9 Right to Vote:,,,No,8,2,6
+Kenedy,2,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,35,10,25
 Kenedy,2,Proposition #10 Right to a Fair Criminal Justice System:,,,Over Votes,0,0,0
-Kenedy,2,Proposition #10 Right to a Fair Criminal Justice System:,,,Under Votes,41,31,10
-Kenedy,2,Proposition #10 Right to a Fair Criminal Justice System:,,,No,11,7,4
-Kenedy,2,Proposition #11 Immigrant Rights:,,,Yes,35,25,10
+Kenedy,2,Proposition #10 Right to a Fair Criminal Justice System:,,,Under Votes,41,10,31
+Kenedy,2,Proposition #10 Right to a Fair Criminal Justice System:,,,No,11,4,7
+Kenedy,2,Proposition #11 Immigrant Rights:,,,Yes,35,10,25
 Kenedy,2,Proposition #11 Immigrant Rights:,,,Over Votes,0,0,0
-Kenedy,2,Proposition #11 Immigrant Rights:,,,Under Votes,37,28,9
-Kenedy,2,Proposition #11 Immigrant Rights:,,,No,15,10,5
-Kenedy,2,Proposition #12 Right to Fair Taxation:,,,Yes,40,27,13
+Kenedy,2,Proposition #11 Immigrant Rights:,,,Under Votes,37,9,28
+Kenedy,2,Proposition #11 Immigrant Rights:,,,No,15,5,10
+Kenedy,2,Proposition #12 Right to Fair Taxation:,,,Yes,40,13,27
 Kenedy,2,Proposition #12 Right to Fair Taxation:,,,Over Votes,0,0,0
-Kenedy,2,Proposition #12 Right to Fair Taxation:,,,Under Votes,40,31,9
-Kenedy,2,Proposition #12 Right to Fair Taxation:,,,No,7,5,2
+Kenedy,2,Proposition #12 Right to Fair Taxation:,,,Under Votes,40,9,31
+Kenedy,2,Proposition #12 Right to Fair Taxation:,,,No,7,2,5
 Kenedy,2,Proposition 1,,,YES,0,0,0
 Kenedy,2,Proposition 1,,,Over Votes,0,0,0
 Kenedy,2,Proposition 1,,,Under Votes,0,0,0
@@ -554,7 +554,7 @@ Kenedy,3,U.S. Senate,,REP,"Bruce Jacobson, Jr.",0,0,0
 Kenedy,3,U.S. Senate,,REP,Over Votes,0,0,0
 Kenedy,3,U.S. Senate,,REP,Under Votes,0,0,0
 Kenedy,3,Registered Voters,,REP,,0,,
-Kenedy,3,Ballots Cast,,REP,,21,8,0
+Kenedy,3,Ballots Cast,,REP,,21,0,8
 Kenedy,3,U.S. Senate,,REP,Geraldine Sam,0,0,0
 Kenedy,3,U.S. Senate,,REP,Over Votes,0,0,0
 Kenedy,3,U.S. Senate,,REP,Under Votes,0,0,0
@@ -632,20 +632,20 @@ Kenedy,3,County Judge,,REP,Chuck Burns,0,0,0
 Kenedy,3,County Judge,,REP,Over Votes,0,0,0
 Kenedy,3,County Judge,,REP,Under Votes,0,0,0
 Kenedy,3,U.S. Senate,,DEM,Over Votes,0,0,0
-Kenedy,3,U.S. Senate,,DEM,Under Votes,10,4,6
+Kenedy,3,U.S. Senate,,DEM,Under Votes,10,6,4
 Kenedy,3,Registered Voters,,DEM,,0,,
-Kenedy,3,Ballots Cast,,DEM,,21,8,2
-Kenedy,3,U.S. Senate,,DEM,Beto O'Rourke,5,3,2
+Kenedy,3,Ballots Cast,,DEM,,21,2,8
+Kenedy,3,U.S. Senate,,DEM,Beto O'Rourke,5,2,3
 Kenedy,3,U.S. Senate,,DEM,Over Votes,0,0,0
-Kenedy,3,U.S. Senate,,DEM,Under Votes,10,4,6
-Kenedy,3,U.S. Senate,,DEM,Sema Hernandez,6,1,5
+Kenedy,3,U.S. Senate,,DEM,Under Votes,10,6,4
+Kenedy,3,U.S. Senate,,DEM,Sema Hernandez,6,5,1
 Kenedy,3,U.S. Senate,,DEM,Edward Kimbrough,0,0,0
-Kenedy,3,U.S. House,34,DEM,Filemon B. Vela,11,3,8
+Kenedy,3,U.S. House,34,DEM,Filemon B. Vela,11,8,3
 Kenedy,3,U.S. House,34,DEM,Over Votes,0,0,0
 Kenedy,3,U.S. House,34,DEM,Under Votes,10,5,5
-Kenedy,3,Governor,,DEM,Lupe Valdez,10,4,6
+Kenedy,3,Governor,,DEM,Lupe Valdez,10,6,4
 Kenedy,3,Governor,,DEM,Andrew White,0,0,0
-Kenedy,3,Governor,,DEM,Grady Yarbrough,1,0,1
+Kenedy,3,Governor,,DEM,Grady Yarbrough,1,1,0
 Kenedy,3,Governor,,DEM,Tom Wakely,0,0,0
 Kenedy,3,Governor,,DEM,James Jolly Clark,0,0,0
 Kenedy,3,Governor,,DEM,Jeffrey Payne,0,0,0
@@ -653,132 +653,132 @@ Kenedy,3,Governor,,DEM,Joe Mumbach,0,0,0
 Kenedy,3,Governor,,DEM,"Cedric Davis, Sr.",0,0,0
 Kenedy,3,Governor,,DEM,Adrian Ocegueda,0,0,0
 Kenedy,3,Governor,,DEM,Over Votes,0,0,0
-Kenedy,3,Governor,,DEM,Under Votes,10,4,6
-Kenedy,3,Lieutenant Governor,,DEM,Michael Cooper,5,0,5
+Kenedy,3,Governor,,DEM,Under Votes,10,6,4
+Kenedy,3,Lieutenant Governor,,DEM,Michael Cooper,5,5,0
 Kenedy,3,Lieutenant Governor,,DEM,Over Votes,0,0,0
-Kenedy,3,Lieutenant Governor,,DEM,Under Votes,11,5,6
-Kenedy,3,Lieutenant Governor,,DEM,Mike Collier,5,3,2
-Kenedy,3,Attorney General,,DEM,Justin Nelson,11,3,8
+Kenedy,3,Lieutenant Governor,,DEM,Under Votes,11,6,5
+Kenedy,3,Lieutenant Governor,,DEM,Mike Collier,5,2,3
+Kenedy,3,Attorney General,,DEM,Justin Nelson,11,8,3
 Kenedy,3,Attorney General,,DEM,Over Votes,0,0,0
 Kenedy,3,Attorney General,,DEM,Under Votes,10,5,5
-Kenedy,3,Comptroller of Public Accounts,,DEM,Tim Mahoney,8,2,6
+Kenedy,3,Comptroller of Public Accounts,,DEM,Tim Mahoney,8,6,2
 Kenedy,3,Comptroller of Public Accounts,,DEM,Joi Chevalier,2,1,1
 Kenedy,3,Comptroller of Public Accounts,,DEM,Over Votes,0,0,0
-Kenedy,3,Comptroller of Public Accounts,,DEM,Under Votes,11,5,6
-Kenedy,3,Commissioner of the General Land Office,,DEM,Tex Morgan,1,0,1
-Kenedy,3,Commissioner of the General Land Office,,DEM,Miguel Suazo,10,4,6
+Kenedy,3,Comptroller of Public Accounts,,DEM,Under Votes,11,6,5
+Kenedy,3,Commissioner of the General Land Office,,DEM,Tex Morgan,1,1,0
+Kenedy,3,Commissioner of the General Land Office,,DEM,Miguel Suazo,10,6,4
 Kenedy,3,Commissioner of the General Land Office,,DEM,Over Votes,0,0,0
-Kenedy,3,Commissioner of the General Land Office,,DEM,Under Votes,10,4,6
-Kenedy,3,Commissioner of Agriculture,,DEM,Kim Olson,10,3,7
+Kenedy,3,Commissioner of the General Land Office,,DEM,Under Votes,10,6,4
+Kenedy,3,Commissioner of Agriculture,,DEM,Kim Olson,10,7,3
 Kenedy,3,Commissioner of Agriculture,,DEM,Over Votes,0,0,0
-Kenedy,3,Commissioner of Agriculture,,DEM,Under Votes,11,5,6
-Kenedy,3,Railroad Commissioner,,DEM,Roman McAllen,6,1,5
+Kenedy,3,Commissioner of Agriculture,,DEM,Under Votes,11,6,5
+Kenedy,3,Railroad Commissioner,,DEM,Roman McAllen,6,5,1
 Kenedy,3,Railroad Commissioner,,DEM,Chris Spellmon,4,2,2
 Kenedy,3,Railroad Commissioner,,DEM,Over Votes,0,0,0
-Kenedy,3,Railroad Commissioner,,DEM,Under Votes,11,5,6
-Kenedy,3,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,9,2,7
+Kenedy,3,Railroad Commissioner,,DEM,Under Votes,11,6,5
+Kenedy,3,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,9,7,2
 Kenedy,3,"Justice, Supreme Court, Place 2",,DEM,Over Votes,0,0,0
 Kenedy,3,"Justice, Supreme Court, Place 2",,DEM,Under Votes,12,6,6
-Kenedy,3,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,10,3,7
+Kenedy,3,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,10,7,3
 Kenedy,3,"Justice, Supreme Court, Place 4",,DEM,Over Votes,0,0,0
-Kenedy,3,"Justice, Supreme Court, Place 4",,DEM,Under Votes,11,5,6
-Kenedy,3,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,10,3,7
+Kenedy,3,"Justice, Supreme Court, Place 4",,DEM,Under Votes,11,6,5
+Kenedy,3,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,10,7,3
 Kenedy,3,"Justice, Supreme Court, Place 6",,DEM,Over Votes,0,0,0
-Kenedy,3,"Justice, Supreme Court, Place 6",,DEM,Under Votes,11,5,6
-Kenedy,3,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,10,3,7
+Kenedy,3,"Justice, Supreme Court, Place 6",,DEM,Under Votes,11,6,5
+Kenedy,3,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,10,7,3
 Kenedy,3,"Presiding Judge, Court of Criminal Appeals",,DEM,Over Votes,0,0,0
-Kenedy,3,"Presiding Judge, Court of Criminal Appeals",,DEM,Under Votes,11,5,6
-Kenedy,3,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,9,3,6
+Kenedy,3,"Presiding Judge, Court of Criminal Appeals",,DEM,Under Votes,11,6,5
+Kenedy,3,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,9,6,3
 Kenedy,3,"Judge, Court of Criminal Appeals, Place 7",,DEM,Over Votes,0,0,0
-Kenedy,3,"Judge, Court of Criminal Appeals, Place 7",,DEM,Under Votes,12,5,7
-Kenedy,3,"Member, State Board of Education",2,DEM,Michelle Arévalo Dávila,8,2,6
+Kenedy,3,"Judge, Court of Criminal Appeals, Place 7",,DEM,Under Votes,12,7,5
+Kenedy,3,"Member, State Board of Education",2,DEM,Michelle Arévalo Dávila,8,6,2
 Kenedy,3,"Member, State Board of Education",2,DEM,Over Votes,0,0,0
-Kenedy,3,"Member, State Board of Education",2,DEM,Under Votes,10,4,6
-Kenedy,3,"Member, State Board of Education",2,DEM,"Ruben Cortez, Jr.",3,2,1
-Kenedy,3,State Representative,31,DEM,Ryan Guillen,6,0,6
+Kenedy,3,"Member, State Board of Education",2,DEM,Under Votes,10,6,4
+Kenedy,3,"Member, State Board of Education",2,DEM,"Ruben Cortez, Jr.",3,1,2
+Kenedy,3,State Representative,31,DEM,Ryan Guillen,6,6,0
 Kenedy,3,State Representative,31,DEM,Over Votes,0,0,0
-Kenedy,3,State Representative,31,DEM,Under Votes,5,3,2
+Kenedy,3,State Representative,31,DEM,Under Votes,5,2,3
 Kenedy,3,State Representative,31,DEM,Ana Lisa Garza,10,5,5
-Kenedy,3,"Chief Justice, 13th Court of Appeals District",,DEM,Dori Contreras,10,4,6
+Kenedy,3,"Chief Justice, 13th Court of Appeals District",,DEM,Dori Contreras,10,6,4
 Kenedy,3,"Chief Justice, 13th Court of Appeals District",,DEM,Over Votes,0,0,0
-Kenedy,3,"Chief Justice, 13th Court of Appeals District",,DEM,Under Votes,9,4,5
-Kenedy,3,"Chief Justice, 13th Court of Appeals District",,DEM,Ray Thomas,2,0,2
-Kenedy,3,"Justice, 13th Court of Appeals District, Place No. 2",,DEM,Nora Longoria,12,4,8
+Kenedy,3,"Chief Justice, 13th Court of Appeals District",,DEM,Under Votes,9,5,4
+Kenedy,3,"Chief Justice, 13th Court of Appeals District",,DEM,Ray Thomas,2,2,0
+Kenedy,3,"Justice, 13th Court of Appeals District, Place No. 2",,DEM,Nora Longoria,12,8,4
 Kenedy,3,"Justice, 13th Court of Appeals District, Place No. 2",,DEM,Over Votes,0,0,0
-Kenedy,3,"Justice, 13th Court of Appeals District, Place No. 2",,DEM,Under Votes,9,4,5
-Kenedy,3,"Justice, 13th Court of Appeals District, Place No. 4",,DEM,Rudy Delgado,8,1,7
+Kenedy,3,"Justice, 13th Court of Appeals District, Place No. 2",,DEM,Under Votes,9,5,4
+Kenedy,3,"Justice, 13th Court of Appeals District, Place No. 4",,DEM,Rudy Delgado,8,7,1
 Kenedy,3,"Justice, 13th Court of Appeals District, Place No. 4",,DEM,Over Votes,0,0,0
-Kenedy,3,"Justice, 13th Court of Appeals District, Place No. 4",,DEM,Under Votes,13,7,6
-Kenedy,3,"Justice, 13th Court of Appeals District, Place No. 5",,DEM,Gina Benavides,10,3,7
+Kenedy,3,"Justice, 13th Court of Appeals District, Place No. 4",,DEM,Under Votes,13,6,7
+Kenedy,3,"Justice, 13th Court of Appeals District, Place No. 5",,DEM,Gina Benavides,10,7,3
 Kenedy,3,"Justice, 13th Court of Appeals District, Place No. 5",,DEM,Over Votes,0,0,0
-Kenedy,3,"Justice, 13th Court of Appeals District, Place No. 5",,DEM,Under Votes,11,5,6
-Kenedy,3,"District Judge, 105th Judicial District",,DEM,Craig D. Henderson,10,3,7
+Kenedy,3,"Justice, 13th Court of Appeals District, Place No. 5",,DEM,Under Votes,11,6,5
+Kenedy,3,"District Judge, 105th Judicial District",,DEM,Craig D. Henderson,10,7,3
 Kenedy,3,"District Judge, 105th Judicial District",,DEM,Over Votes,0,0,0
-Kenedy,3,"District Judge, 105th Judicial District",,DEM,Under Votes,11,5,6
-Kenedy,3,County Judge,,DEM,Louis E. (Bud) Turcotte III,13,3,10
+Kenedy,3,"District Judge, 105th Judicial District",,DEM,Under Votes,11,6,5
+Kenedy,3,County Judge,,DEM,Louis E. (Bud) Turcotte III,13,10,3
 Kenedy,3,County Judge,,DEM,Over Votes,0,0,0
-Kenedy,3,County Judge,,DEM,Under Votes,8,5,3
-Kenedy,3,District and County Clerk,,DEM,Amy L. Ybarra,8,6,2
+Kenedy,3,County Judge,,DEM,Under Votes,8,3,5
+Kenedy,3,District and County Clerk,,DEM,Amy L. Ybarra,8,2,6
 Kenedy,3,District and County Clerk,,DEM,Over Votes,0,0,0
 Kenedy,3,District and County Clerk,,DEM,Under Votes,0,0,0
-Kenedy,3,District and County Clerk,,DEM,"Veronica ""Betty"" Vela",13,2,11
-Kenedy,3,County Treasurer,,DEM,"Cynthia ""Cyndi"" Salinas",13,8,5
+Kenedy,3,District and County Clerk,,DEM,"Veronica ""Betty"" Vela",13,11,2
+Kenedy,3,County Treasurer,,DEM,"Cynthia ""Cyndi"" Salinas",13,5,8
 Kenedy,3,County Treasurer,,DEM,Over Votes,0,0,0
 Kenedy,3,County Treasurer,,DEM,Under Votes,0,0,0
-Kenedy,3,County Treasurer,,DEM,Javier Vidal,5,0,5
-Kenedy,3,County Treasurer,,DEM,Juli A. Salinas,3,0,3
-Kenedy,3,"Justice of the Peace, Precinct No. 3",,DEM,"Rebecca ""Michelle"" Hinojosa",11,3,8
+Kenedy,3,County Treasurer,,DEM,Javier Vidal,5,5,0
+Kenedy,3,County Treasurer,,DEM,Juli A. Salinas,3,3,0
+Kenedy,3,"Justice of the Peace, Precinct No. 3",,DEM,"Rebecca ""Michelle"" Hinojosa",11,8,3
 Kenedy,3,"Justice of the Peace, Precinct No. 3",,DEM,Over Votes,0,0,0
-Kenedy,3,"Justice of the Peace, Precinct No. 3",,DEM,Under Votes,3,1,2
-Kenedy,3,"Justice of the Peace, Precinct No. 3",,DEM,Ceilia Garcia Schulz,7,4,3
-Kenedy,3,Proposition #1 Right to a 21st Century Public Education:,,,Yes,13,4,9
+Kenedy,3,"Justice of the Peace, Precinct No. 3",,DEM,Under Votes,3,2,1
+Kenedy,3,"Justice of the Peace, Precinct No. 3",,DEM,Ceilia Garcia Schulz,7,3,4
+Kenedy,3,Proposition #1 Right to a 21st Century Public Education:,,,Yes,13,9,4
 Kenedy,3,Proposition #1 Right to a 21st Century Public Education:,,,Over Votes,0,0,0
-Kenedy,3,Proposition #1 Right to a 21st Century Public Education:,,,Under Votes,5,3,2
-Kenedy,3,Proposition #1 Right to a 21st Century Public Education:,,,No,3,1,2
-Kenedy,3,Proposition #2 Student Loan Debt:,,,Yes,16,5,11
+Kenedy,3,Proposition #1 Right to a 21st Century Public Education:,,,Under Votes,5,2,3
+Kenedy,3,Proposition #1 Right to a 21st Century Public Education:,,,No,3,2,1
+Kenedy,3,Proposition #2 Student Loan Debt:,,,Yes,16,11,5
 Kenedy,3,Proposition #2 Student Loan Debt:,,,Over Votes,0,0,0
-Kenedy,3,Proposition #2 Student Loan Debt:,,,Under Votes,5,3,2
+Kenedy,3,Proposition #2 Student Loan Debt:,,,Under Votes,5,2,3
 Kenedy,3,Proposition #2 Student Loan Debt:,,,No,0,0,0
-Kenedy,3,Proposition #3 Right to Healthcare:,,,Yes,13,4,9
+Kenedy,3,Proposition #3 Right to Healthcare:,,,Yes,13,9,4
 Kenedy,3,Proposition #3 Right to Healthcare:,,,Over Votes,0,0,0
 Kenedy,3,Proposition #3 Right to Healthcare:,,,Under Votes,6,3,3
 Kenedy,3,Proposition #3 Right to Healthcare:,,,No,2,1,1
-Kenedy,3,Proposition #4 Right to Economic Security:,,,Yes,13,4,9
+Kenedy,3,Proposition #4 Right to Economic Security:,,,Yes,13,9,4
 Kenedy,3,Proposition #4 Right to Economic Security:,,,Over Votes,0,0,0
-Kenedy,3,Proposition #4 Right to Economic Security:,,,Under Votes,7,4,3
-Kenedy,3,Proposition #4 Right to Economic Security:,,,No,1,0,1
-Kenedy,3,Proposition #5 National Jobs Program:,,,Yes,11,3,8
+Kenedy,3,Proposition #4 Right to Economic Security:,,,Under Votes,7,3,4
+Kenedy,3,Proposition #4 Right to Economic Security:,,,No,1,1,0
+Kenedy,3,Proposition #5 National Jobs Program:,,,Yes,11,8,3
 Kenedy,3,Proposition #5 National Jobs Program:,,,Over Votes,0,0,0
 Kenedy,3,Proposition #5 National Jobs Program:,,,Under Votes,8,4,4
 Kenedy,3,Proposition #5 National Jobs Program:,,,No,2,1,1
-Kenedy,3,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,11,2,9
+Kenedy,3,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,11,9,2
 Kenedy,3,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Over Votes,0,0,0
 Kenedy,3,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Under Votes,8,4,4
-Kenedy,3,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,2,2,0
-Kenedy,3,Proposition #7 Right to Dignity & Respect:,,,Yes,8,3,5
+Kenedy,3,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,2,0,2
+Kenedy,3,Proposition #7 Right to Dignity & Respect:,,,Yes,8,5,3
 Kenedy,3,Proposition #7 Right to Dignity & Respect:,,,Over Votes,0,0,0
-Kenedy,3,Proposition #7 Right to Dignity & Respect:,,,Under Votes,9,4,5
-Kenedy,3,Proposition #7 Right to Dignity & Respect:,,,No,4,1,3
-Kenedy,3,Proposition #8 Right to Housing:,,,Yes,11,4,7
+Kenedy,3,Proposition #7 Right to Dignity & Respect:,,,Under Votes,9,5,4
+Kenedy,3,Proposition #7 Right to Dignity & Respect:,,,No,4,3,1
+Kenedy,3,Proposition #8 Right to Housing:,,,Yes,11,7,4
 Kenedy,3,Proposition #8 Right to Housing:,,,Over Votes,0,0,0
-Kenedy,3,Proposition #8 Right to Housing:,,,Under Votes,6,4,2
-Kenedy,3,Proposition #8 Right to Housing:,,,No,4,0,4
-Kenedy,3,Proposition #9 Right to Vote:,,,Yes,13,4,9
+Kenedy,3,Proposition #8 Right to Housing:,,,Under Votes,6,2,4
+Kenedy,3,Proposition #8 Right to Housing:,,,No,4,4,0
+Kenedy,3,Proposition #9 Right to Vote:,,,Yes,13,9,4
 Kenedy,3,Proposition #9 Right to Vote:,,,Over Votes,0,0,0
 Kenedy,3,Proposition #9 Right to Vote:,,,Under Votes,6,3,3
 Kenedy,3,Proposition #9 Right to Vote:,,,No,2,1,1
-Kenedy,3,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,15,6,9
+Kenedy,3,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,15,9,6
 Kenedy,3,Proposition #10 Right to a Fair Criminal Justice System:,,,Over Votes,0,0,0
-Kenedy,3,Proposition #10 Right to a Fair Criminal Justice System:,,,Under Votes,6,2,4
+Kenedy,3,Proposition #10 Right to a Fair Criminal Justice System:,,,Under Votes,6,4,2
 Kenedy,3,Proposition #10 Right to a Fair Criminal Justice System:,,,No,0,0,0
-Kenedy,3,Proposition #11 Immigrant Rights:,,,Yes,11,4,7
+Kenedy,3,Proposition #11 Immigrant Rights:,,,Yes,11,7,4
 Kenedy,3,Proposition #11 Immigrant Rights:,,,Over Votes,0,0,0
 Kenedy,3,Proposition #11 Immigrant Rights:,,,Under Votes,6,3,3
-Kenedy,3,Proposition #11 Immigrant Rights:,,,No,4,1,3
-Kenedy,3,Proposition #12 Right to Fair Taxation:,,,Yes,13,4,9
+Kenedy,3,Proposition #11 Immigrant Rights:,,,No,4,3,1
+Kenedy,3,Proposition #12 Right to Fair Taxation:,,,Yes,13,9,4
 Kenedy,3,Proposition #12 Right to Fair Taxation:,,,Over Votes,0,0,0
-Kenedy,3,Proposition #12 Right to Fair Taxation:,,,Under Votes,7,3,4
-Kenedy,3,Proposition #12 Right to Fair Taxation:,,,No,1,1,0
+Kenedy,3,Proposition #12 Right to Fair Taxation:,,,Under Votes,7,4,3
+Kenedy,3,Proposition #12 Right to Fair Taxation:,,,No,1,0,1
 Kenedy,3,Proposition 1,,,YES,0,0,0
 Kenedy,3,Proposition 1,,,Over Votes,0,0,0
 Kenedy,3,Proposition 1,,,Under Votes,0,0,0
@@ -827,280 +827,280 @@ Kenedy,4,U.S. Senate,,REP,"Bruce Jacobson, Jr.",0,0,0
 Kenedy,4,U.S. Senate,,REP,Over Votes,0,0,0
 Kenedy,4,U.S. Senate,,REP,Under Votes,0,0,0
 Kenedy,4,Registered Voters,,REP,,0,,
-Kenedy,4,Ballots Cast,,REP,,31,16,0
+Kenedy,4,Ballots Cast,,REP,,31,0,16
 Kenedy,4,U.S. Senate,,REP,Geraldine Sam,0,0,0
 Kenedy,4,U.S. Senate,,REP,Over Votes,0,0,0
 Kenedy,4,U.S. Senate,,REP,Under Votes,0,0,0
 Kenedy,4,U.S. Senate,,REP,Mary Miller,0,0,0
 Kenedy,4,U.S. Senate,,REP,Stefano de Stefano,0,0,0
-Kenedy,4,U.S. Senate,,REP,Ted Cruz,2,0,2
+Kenedy,4,U.S. Senate,,REP,Ted Cruz,2,2,0
 Kenedy,4,U.S. House,34,REP,Rey Gonzalez,0,0,0
 Kenedy,4,U.S. House,34,REP,Over Votes,0,0,0
-Kenedy,4,U.S. House,34,REP,Under Votes,2,0,2
+Kenedy,4,U.S. House,34,REP,Under Votes,2,2,0
 Kenedy,4,Governor,,REP,Barbara Krueger,0,0,0
-Kenedy,4,Governor,,REP,Greg Abbott,1,0,1
+Kenedy,4,Governor,,REP,Greg Abbott,1,1,0
 Kenedy,4,Governor,,REP,SECEDE Kilgore,0,0,0
-Kenedy,4,Lieutenant Governor,,REP,Dan Patrick,1,0,1
+Kenedy,4,Lieutenant Governor,,REP,Dan Patrick,1,1,0
 Kenedy,4,Lieutenant Governor,,REP,Scott Milder,0,0,0
 Kenedy,4,Lieutenant Governor,,REP,Over Votes,0,0,0
-Kenedy,4,Lieutenant Governor,,REP,Under Votes,1,0,1
+Kenedy,4,Lieutenant Governor,,REP,Under Votes,1,1,0
 Kenedy,4,Attorney General,,REP,Ken Paxton,0,0,0
 Kenedy,4,Comptroller of Public Accounts,,REP,Glenn Hegar,0,0,0
 Kenedy,4,Comptroller of Public Accounts,,REP,Over Votes,0,0,0
-Kenedy,4,Comptroller of Public Accounts,,REP,Under Votes,2,0,2
+Kenedy,4,Comptroller of Public Accounts,,REP,Under Votes,2,2,0
 Kenedy,4,Commissioner of the General Land Office,,REP,Davey Edwards,0,0,0
 Kenedy,4,Commissioner of the General Land Office,,REP,Over Votes,0,0,0
 Kenedy,4,Commissioner of the General Land Office,,REP,Under Votes,0,0,0
-Kenedy,4,Commissioner of the General Land Office,,REP,George P. Bush,2,0,2
+Kenedy,4,Commissioner of the General Land Office,,REP,George P. Bush,2,2,0
 Kenedy,4,Commissioner of the General Land Office,,REP,Jerry Patterson,0,0,0
 Kenedy,4,Commissioner of the General Land Office,,REP,Rick Range,0,0,0
 Kenedy,4,Commissioner of Agriculture,,REP,Jim Hogan,0,0,0
 Kenedy,4,Commissioner of Agriculture,,REP,Sid Miller,0,0,0
-Kenedy,4,Commissioner of Agriculture,,REP,Trey Blocker,1,0,1
-Kenedy,4,Railroad Commissioner,,REP,Christi Craddick,1,0,1
+Kenedy,4,Commissioner of Agriculture,,REP,Trey Blocker,1,1,0
+Kenedy,4,Railroad Commissioner,,REP,Christi Craddick,1,1,0
 Kenedy,4,Railroad Commissioner,,REP,Over Votes,0,0,0
-Kenedy,4,Railroad Commissioner,,REP,Under Votes,1,0,1
+Kenedy,4,Railroad Commissioner,,REP,Under Votes,1,1,0
 Kenedy,4,Railroad Commissioner,,REP,Weston Martinez,0,0,0
 Kenedy,4,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,0,0,0
 Kenedy,4,"Justice, Supreme Court, Place 2",,REP,Over Votes,0,0,0
-Kenedy,4,"Justice, Supreme Court, Place 2",,REP,Under Votes,2,0,2
+Kenedy,4,"Justice, Supreme Court, Place 2",,REP,Under Votes,2,2,0
 Kenedy,4,"Justice, Supreme Court, Place 4",,REP,John Devine,0,0,0
 Kenedy,4,"Justice, Supreme Court, Place 4",,REP,Over Votes,0,0,0
-Kenedy,4,"Justice, Supreme Court, Place 4",,REP,Under Votes,2,0,2
+Kenedy,4,"Justice, Supreme Court, Place 4",,REP,Under Votes,2,2,0
 Kenedy,4,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,0,0,0
 Kenedy,4,"Justice, Supreme Court, Place 6",,REP,Over Votes,0,0,0
-Kenedy,4,"Justice, Supreme Court, Place 6",,REP,Under Votes,2,0,2
+Kenedy,4,"Justice, Supreme Court, Place 6",,REP,Under Votes,2,2,0
 Kenedy,4,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,0,0,0
 Kenedy,4,"Presiding Judge, Court of Criminal Appeals",,REP,Over Votes,0,0,0
-Kenedy,4,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,1,0,1
-Kenedy,4,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,1,0,1
+Kenedy,4,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,1,1,0
+Kenedy,4,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,1,1,0
 Kenedy,4,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,0,0,0
 Kenedy,4,"Judge, Court of Criminal Appeals, Place 7",,REP,Over Votes,0,0,0
-Kenedy,4,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,2,0,2
+Kenedy,4,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,2,2,0
 Kenedy,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,0,0,0
 Kenedy,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Over Votes,0,0,0
-Kenedy,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,1,0,1
-Kenedy,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,1,0,1
+Kenedy,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,1,1,0
+Kenedy,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,1,1,0
 Kenedy,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,0,0,0
-Kenedy,4,"Member, State Board of Education",2,REP,"Charles ""Tad"" Hasse",1,0,1
+Kenedy,4,"Member, State Board of Education",2,REP,"Charles ""Tad"" Hasse",1,1,0
 Kenedy,4,"Member, State Board of Education",2,REP,Over Votes,0,0,0
-Kenedy,4,"Member, State Board of Education",2,REP,Under Votes,1,0,1
+Kenedy,4,"Member, State Board of Education",2,REP,Under Votes,1,1,0
 Kenedy,4,"Member, State Board of Education",2,REP,Eric Garza,0,0,0
 Kenedy,4,"Chief Justice, 13th Court of Appeals District",,REP,Ernie Aliseda,0,0,0
 Kenedy,4,"Chief Justice, 13th Court of Appeals District",,REP,Over Votes,0,0,0
-Kenedy,4,"Chief Justice, 13th Court of Appeals District",,REP,Under Votes,2,0,2
+Kenedy,4,"Chief Justice, 13th Court of Appeals District",,REP,Under Votes,2,2,0
 Kenedy,4,"Justice, 13th Court of Appeals District, Place No. 2",,REP,Greg Perkes,0,0,0
 Kenedy,4,"Justice, 13th Court of Appeals District, Place No. 2",,REP,Over Votes,0,0,0
-Kenedy,4,"Justice, 13th Court of Appeals District, Place No. 2",,REP,Under Votes,2,0,2
-Kenedy,4,"Justice, 13th Court of Appeals District, Place No. 4",,REP,Jaime Tijerina,1,0,1
+Kenedy,4,"Justice, 13th Court of Appeals District, Place No. 2",,REP,Under Votes,2,2,0
+Kenedy,4,"Justice, 13th Court of Appeals District, Place No. 4",,REP,Jaime Tijerina,1,1,0
 Kenedy,4,"Justice, 13th Court of Appeals District, Place No. 4",,REP,Over Votes,0,0,0
-Kenedy,4,"Justice, 13th Court of Appeals District, Place No. 4",,REP,Under Votes,1,0,1
+Kenedy,4,"Justice, 13th Court of Appeals District, Place No. 4",,REP,Under Votes,1,1,0
 Kenedy,4,"Justice, 13th Court of Appeals District, Place No. 5",,REP,Clarissa Silva,0,0,0
 Kenedy,4,"Justice, 13th Court of Appeals District, Place No. 5",,REP,Over Votes,0,0,0
-Kenedy,4,"Justice, 13th Court of Appeals District, Place No. 5",,REP,Under Votes,2,0,2
+Kenedy,4,"Justice, 13th Court of Appeals District, Place No. 5",,REP,Under Votes,2,2,0
 Kenedy,4,"District Judge, 105th Judicial District",,REP,Jack W. Pulcher,0,0,0
 Kenedy,4,"District Judge, 105th Judicial District",,REP,Over Votes,0,0,0
-Kenedy,4,"District Judge, 105th Judicial District",,REP,Under Votes,2,0,2
-Kenedy,4,County Judge,,REP,Chuck Burns,2,0,2
+Kenedy,4,"District Judge, 105th Judicial District",,REP,Under Votes,2,2,0
+Kenedy,4,County Judge,,REP,Chuck Burns,2,2,0
 Kenedy,4,County Judge,,REP,Over Votes,0,0,0
 Kenedy,4,County Judge,,REP,Under Votes,0,0,0
 Kenedy,4,U.S. Senate,,DEM,Over Votes,0,0,0
-Kenedy,4,U.S. Senate,,DEM,Under Votes,16,9,7
+Kenedy,4,U.S. Senate,,DEM,Under Votes,16,7,9
 Kenedy,4,Registered Voters,,DEM,,0,,
-Kenedy,4,Ballots Cast,,DEM,,31,16,2
-Kenedy,4,U.S. Senate,,DEM,Beto O'Rourke,2,0,2
+Kenedy,4,Ballots Cast,,DEM,,31,2,16
+Kenedy,4,U.S. Senate,,DEM,Beto O'Rourke,2,2,0
 Kenedy,4,U.S. Senate,,DEM,Over Votes,0,0,0
-Kenedy,4,U.S. Senate,,DEM,Under Votes,16,9,7
-Kenedy,4,U.S. Senate,,DEM,Sema Hernandez,3,1,2
-Kenedy,4,U.S. Senate,,DEM,Edward Kimbrough,8,6,2
-Kenedy,4,U.S. House,34,DEM,Filemon B. Vela,18,11,7
+Kenedy,4,U.S. Senate,,DEM,Under Votes,16,7,9
+Kenedy,4,U.S. Senate,,DEM,Sema Hernandez,3,2,1
+Kenedy,4,U.S. Senate,,DEM,Edward Kimbrough,8,2,6
+Kenedy,4,U.S. House,34,DEM,Filemon B. Vela,18,7,11
 Kenedy,4,U.S. House,34,DEM,Over Votes,0,0,0
-Kenedy,4,U.S. House,34,DEM,Under Votes,11,5,6
-Kenedy,4,Governor,,DEM,Lupe Valdez,1,0,1
-Kenedy,4,Governor,,DEM,Andrew White,7,5,2
-Kenedy,4,Governor,,DEM,Grady Yarbrough,1,1,0
+Kenedy,4,U.S. House,34,DEM,Under Votes,11,6,5
+Kenedy,4,Governor,,DEM,Lupe Valdez,1,1,0
+Kenedy,4,Governor,,DEM,Andrew White,7,2,5
+Kenedy,4,Governor,,DEM,Grady Yarbrough,1,0,1
 Kenedy,4,Governor,,DEM,Tom Wakely,0,0,0
-Kenedy,4,Governor,,DEM,James Jolly Clark,1,1,0
-Kenedy,4,Governor,,DEM,Jeffrey Payne,1,1,0
+Kenedy,4,Governor,,DEM,James Jolly Clark,1,0,1
+Kenedy,4,Governor,,DEM,Jeffrey Payne,1,0,1
 Kenedy,4,Governor,,DEM,Joe Mumbach,0,0,0
-Kenedy,4,Governor,,DEM,"Cedric Davis, Sr.",2,0,2
-Kenedy,4,Governor,,DEM,Adrian Ocegueda,1,1,0
+Kenedy,4,Governor,,DEM,"Cedric Davis, Sr.",2,2,0
+Kenedy,4,Governor,,DEM,Adrian Ocegueda,1,0,1
 Kenedy,4,Governor,,DEM,Over Votes,0,0,0
-Kenedy,4,Governor,,DEM,Under Votes,15,7,8
-Kenedy,4,Lieutenant Governor,,DEM,Michael Cooper,3,0,3
+Kenedy,4,Governor,,DEM,Under Votes,15,8,7
+Kenedy,4,Lieutenant Governor,,DEM,Michael Cooper,3,3,0
 Kenedy,4,Lieutenant Governor,,DEM,Over Votes,0,0,0
-Kenedy,4,Lieutenant Governor,,DEM,Under Votes,19,10,9
-Kenedy,4,Lieutenant Governor,,DEM,Mike Collier,7,6,1
-Kenedy,4,Attorney General,,DEM,Justin Nelson,10,6,4
+Kenedy,4,Lieutenant Governor,,DEM,Under Votes,19,9,10
+Kenedy,4,Lieutenant Governor,,DEM,Mike Collier,7,1,6
+Kenedy,4,Attorney General,,DEM,Justin Nelson,10,4,6
 Kenedy,4,Attorney General,,DEM,Over Votes,0,0,0
-Kenedy,4,Attorney General,,DEM,Under Votes,19,10,9
-Kenedy,4,Comptroller of Public Accounts,,DEM,Tim Mahoney,8,5,3
-Kenedy,4,Comptroller of Public Accounts,,DEM,Joi Chevalier,3,1,2
+Kenedy,4,Attorney General,,DEM,Under Votes,19,9,10
+Kenedy,4,Comptroller of Public Accounts,,DEM,Tim Mahoney,8,3,5
+Kenedy,4,Comptroller of Public Accounts,,DEM,Joi Chevalier,3,2,1
 Kenedy,4,Comptroller of Public Accounts,,DEM,Over Votes,0,0,0
-Kenedy,4,Comptroller of Public Accounts,,DEM,Under Votes,18,10,8
-Kenedy,4,Commissioner of the General Land Office,,DEM,Tex Morgan,6,4,2
-Kenedy,4,Commissioner of the General Land Office,,DEM,Miguel Suazo,5,2,3
+Kenedy,4,Comptroller of Public Accounts,,DEM,Under Votes,18,8,10
+Kenedy,4,Commissioner of the General Land Office,,DEM,Tex Morgan,6,2,4
+Kenedy,4,Commissioner of the General Land Office,,DEM,Miguel Suazo,5,3,2
 Kenedy,4,Commissioner of the General Land Office,,DEM,Over Votes,0,0,0
-Kenedy,4,Commissioner of the General Land Office,,DEM,Under Votes,18,10,8
-Kenedy,4,Commissioner of Agriculture,,DEM,Kim Olson,10,6,4
+Kenedy,4,Commissioner of the General Land Office,,DEM,Under Votes,18,8,10
+Kenedy,4,Commissioner of Agriculture,,DEM,Kim Olson,10,4,6
 Kenedy,4,Commissioner of Agriculture,,DEM,Over Votes,0,0,0
-Kenedy,4,Commissioner of Agriculture,,DEM,Under Votes,19,10,9
-Kenedy,4,Railroad Commissioner,,DEM,Roman McAllen,7,3,4
-Kenedy,4,Railroad Commissioner,,DEM,Chris Spellmon,5,4,1
+Kenedy,4,Commissioner of Agriculture,,DEM,Under Votes,19,9,10
+Kenedy,4,Railroad Commissioner,,DEM,Roman McAllen,7,4,3
+Kenedy,4,Railroad Commissioner,,DEM,Chris Spellmon,5,1,4
 Kenedy,4,Railroad Commissioner,,DEM,Over Votes,0,0,0
-Kenedy,4,Railroad Commissioner,,DEM,Under Votes,17,9,8
-Kenedy,4,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,10,6,4
+Kenedy,4,Railroad Commissioner,,DEM,Under Votes,17,8,9
+Kenedy,4,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,10,4,6
 Kenedy,4,"Justice, Supreme Court, Place 2",,DEM,Over Votes,0,0,0
-Kenedy,4,"Justice, Supreme Court, Place 2",,DEM,Under Votes,19,10,9
-Kenedy,4,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,10,6,4
+Kenedy,4,"Justice, Supreme Court, Place 2",,DEM,Under Votes,19,9,10
+Kenedy,4,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,10,4,6
 Kenedy,4,"Justice, Supreme Court, Place 4",,DEM,Over Votes,0,0,0
-Kenedy,4,"Justice, Supreme Court, Place 4",,DEM,Under Votes,19,10,9
-Kenedy,4,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,10,6,4
+Kenedy,4,"Justice, Supreme Court, Place 4",,DEM,Under Votes,19,9,10
+Kenedy,4,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,10,4,6
 Kenedy,4,"Justice, Supreme Court, Place 6",,DEM,Over Votes,0,0,0
-Kenedy,4,"Justice, Supreme Court, Place 6",,DEM,Under Votes,19,10,9
-Kenedy,4,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,10,6,4
+Kenedy,4,"Justice, Supreme Court, Place 6",,DEM,Under Votes,19,9,10
+Kenedy,4,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,10,4,6
 Kenedy,4,"Presiding Judge, Court of Criminal Appeals",,DEM,Over Votes,0,0,0
-Kenedy,4,"Presiding Judge, Court of Criminal Appeals",,DEM,Under Votes,19,10,9
-Kenedy,4,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,10,6,4
+Kenedy,4,"Presiding Judge, Court of Criminal Appeals",,DEM,Under Votes,19,9,10
+Kenedy,4,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,10,4,6
 Kenedy,4,"Judge, Court of Criminal Appeals, Place 7",,DEM,Over Votes,0,0,0
-Kenedy,4,"Judge, Court of Criminal Appeals, Place 7",,DEM,Under Votes,19,10,9
-Kenedy,4,"Member, State Board of Education",2,DEM,Michelle Arévalo Dávila,9,6,3
+Kenedy,4,"Judge, Court of Criminal Appeals, Place 7",,DEM,Under Votes,19,9,10
+Kenedy,4,"Member, State Board of Education",2,DEM,Michelle Arévalo Dávila,9,3,6
 Kenedy,4,"Member, State Board of Education",2,DEM,Over Votes,0,0,0
-Kenedy,4,"Member, State Board of Education",2,DEM,Under Votes,15,7,8
-Kenedy,4,"Member, State Board of Education",2,DEM,"Ruben Cortez, Jr.",5,3,2
-Kenedy,4,State Representative,31,DEM,Ryan Guillen,9,4,5
+Kenedy,4,"Member, State Board of Education",2,DEM,Under Votes,15,8,7
+Kenedy,4,"Member, State Board of Education",2,DEM,"Ruben Cortez, Jr.",5,2,3
+Kenedy,4,State Representative,31,DEM,Ryan Guillen,9,5,4
 Kenedy,4,State Representative,31,DEM,Over Votes,0,0,0
-Kenedy,4,State Representative,31,DEM,Under Votes,7,3,4
-Kenedy,4,State Representative,31,DEM,Ana Lisa Garza,13,9,4
-Kenedy,4,"Chief Justice, 13th Court of Appeals District",,DEM,Dori Contreras,7,2,5
+Kenedy,4,State Representative,31,DEM,Under Votes,7,4,3
+Kenedy,4,State Representative,31,DEM,Ana Lisa Garza,13,4,9
+Kenedy,4,"Chief Justice, 13th Court of Appeals District",,DEM,Dori Contreras,7,5,2
 Kenedy,4,"Chief Justice, 13th Court of Appeals District",,DEM,Over Votes,0,0,0
-Kenedy,4,"Chief Justice, 13th Court of Appeals District",,DEM,Under Votes,15,9,6
-Kenedy,4,"Chief Justice, 13th Court of Appeals District",,DEM,Ray Thomas,7,5,2
-Kenedy,4,"Justice, 13th Court of Appeals District, Place No. 2",,DEM,Nora Longoria,11,7,4
+Kenedy,4,"Chief Justice, 13th Court of Appeals District",,DEM,Under Votes,15,6,9
+Kenedy,4,"Chief Justice, 13th Court of Appeals District",,DEM,Ray Thomas,7,2,5
+Kenedy,4,"Justice, 13th Court of Appeals District, Place No. 2",,DEM,Nora Longoria,11,4,7
 Kenedy,4,"Justice, 13th Court of Appeals District, Place No. 2",,DEM,Over Votes,0,0,0
 Kenedy,4,"Justice, 13th Court of Appeals District, Place No. 2",,DEM,Under Votes,18,9,9
-Kenedy,4,"Justice, 13th Court of Appeals District, Place No. 4",,DEM,Rudy Delgado,9,6,3
+Kenedy,4,"Justice, 13th Court of Appeals District, Place No. 4",,DEM,Rudy Delgado,9,3,6
 Kenedy,4,"Justice, 13th Court of Appeals District, Place No. 4",,DEM,Over Votes,0,0,0
 Kenedy,4,"Justice, 13th Court of Appeals District, Place No. 4",,DEM,Under Votes,20,10,10
-Kenedy,4,"Justice, 13th Court of Appeals District, Place No. 5",,DEM,Gina Benavides,10,6,4
+Kenedy,4,"Justice, 13th Court of Appeals District, Place No. 5",,DEM,Gina Benavides,10,4,6
 Kenedy,4,"Justice, 13th Court of Appeals District, Place No. 5",,DEM,Over Votes,0,0,0
-Kenedy,4,"Justice, 13th Court of Appeals District, Place No. 5",,DEM,Under Votes,19,10,9
-Kenedy,4,"District Judge, 105th Judicial District",,DEM,Craig D. Henderson,11,7,4
+Kenedy,4,"Justice, 13th Court of Appeals District, Place No. 5",,DEM,Under Votes,19,9,10
+Kenedy,4,"District Judge, 105th Judicial District",,DEM,Craig D. Henderson,11,4,7
 Kenedy,4,"District Judge, 105th Judicial District",,DEM,Over Votes,0,0,0
 Kenedy,4,"District Judge, 105th Judicial District",,DEM,Under Votes,18,9,9
-Kenedy,4,County Judge,,DEM,Louis E. (Bud) Turcotte III,11,6,5
+Kenedy,4,County Judge,,DEM,Louis E. (Bud) Turcotte III,11,5,6
 Kenedy,4,County Judge,,DEM,Over Votes,0,0,0
-Kenedy,4,County Judge,,DEM,Under Votes,18,10,8
-Kenedy,4,District and County Clerk,,DEM,Amy L. Ybarra,6,5,1
+Kenedy,4,County Judge,,DEM,Under Votes,18,8,10
+Kenedy,4,District and County Clerk,,DEM,Amy L. Ybarra,6,1,5
 Kenedy,4,District and County Clerk,,DEM,Over Votes,0,0,0
-Kenedy,4,District and County Clerk,,DEM,Under Votes,3,2,1
-Kenedy,4,District and County Clerk,,DEM,"Veronica ""Betty"" Vela",20,9,11
-Kenedy,4,County Treasurer,,DEM,"Cynthia ""Cyndi"" Salinas",22,14,8
+Kenedy,4,District and County Clerk,,DEM,Under Votes,3,1,2
+Kenedy,4,District and County Clerk,,DEM,"Veronica ""Betty"" Vela",20,11,9
+Kenedy,4,County Treasurer,,DEM,"Cynthia ""Cyndi"" Salinas",22,8,14
 Kenedy,4,County Treasurer,,DEM,Over Votes,0,0,0
 Kenedy,4,County Treasurer,,DEM,Under Votes,2,1,1
-Kenedy,4,County Treasurer,,DEM,Javier Vidal,2,0,2
-Kenedy,4,County Treasurer,,DEM,Juli A. Salinas,3,1,2
-Kenedy,4,"Justice of the Peace, Precinct No. 3",,DEM,"Rebecca ""Michelle"" Hinojosa",4,1,3
+Kenedy,4,County Treasurer,,DEM,Javier Vidal,2,2,0
+Kenedy,4,County Treasurer,,DEM,Juli A. Salinas,3,2,1
+Kenedy,4,"Justice of the Peace, Precinct No. 3",,DEM,"Rebecca ""Michelle"" Hinojosa",4,3,1
 Kenedy,4,"Justice of the Peace, Precinct No. 3",,DEM,Over Votes,0,0,0
 Kenedy,4,"Justice of the Peace, Precinct No. 3",,DEM,Under Votes,2,1,1
-Kenedy,4,"Justice of the Peace, Precinct No. 3",,DEM,Ceilia Garcia Schulz,23,14,9
-Kenedy,4,Proposition #1 Right to a 21st Century Public Education:,,,Yes,13,7,6
+Kenedy,4,"Justice of the Peace, Precinct No. 3",,DEM,Ceilia Garcia Schulz,23,9,14
+Kenedy,4,Proposition #1 Right to a 21st Century Public Education:,,,Yes,13,6,7
 Kenedy,4,Proposition #1 Right to a 21st Century Public Education:,,,Over Votes,0,0,0
-Kenedy,4,Proposition #1 Right to a 21st Century Public Education:,,,Under Votes,8,3,5
-Kenedy,4,Proposition #1 Right to a 21st Century Public Education:,,,No,8,6,2
-Kenedy,4,Proposition #2 Student Loan Debt:,,,Yes,14,10,4
+Kenedy,4,Proposition #1 Right to a 21st Century Public Education:,,,Under Votes,8,5,3
+Kenedy,4,Proposition #1 Right to a 21st Century Public Education:,,,No,8,2,6
+Kenedy,4,Proposition #2 Student Loan Debt:,,,Yes,14,4,10
 Kenedy,4,Proposition #2 Student Loan Debt:,,,Over Votes,0,0,0
-Kenedy,4,Proposition #2 Student Loan Debt:,,,Under Votes,8,3,5
-Kenedy,4,Proposition #2 Student Loan Debt:,,,No,7,3,4
-Kenedy,4,Proposition #3 Right to Healthcare:,,,Yes,7,1,6
+Kenedy,4,Proposition #2 Student Loan Debt:,,,Under Votes,8,5,3
+Kenedy,4,Proposition #2 Student Loan Debt:,,,No,7,4,3
+Kenedy,4,Proposition #3 Right to Healthcare:,,,Yes,7,6,1
 Kenedy,4,Proposition #3 Right to Healthcare:,,,Over Votes,0,0,0
-Kenedy,4,Proposition #3 Right to Healthcare:,,,Under Votes,7,3,4
-Kenedy,4,Proposition #3 Right to Healthcare:,,,No,15,12,3
-Kenedy,4,Proposition #4 Right to Economic Security:,,,Yes,11,6,5
+Kenedy,4,Proposition #3 Right to Healthcare:,,,Under Votes,7,4,3
+Kenedy,4,Proposition #3 Right to Healthcare:,,,No,15,3,12
+Kenedy,4,Proposition #4 Right to Economic Security:,,,Yes,11,5,6
 Kenedy,4,Proposition #4 Right to Economic Security:,,,Over Votes,0,0,0
-Kenedy,4,Proposition #4 Right to Economic Security:,,,Under Votes,9,3,6
-Kenedy,4,Proposition #4 Right to Economic Security:,,,No,9,7,2
-Kenedy,4,Proposition #5 National Jobs Program:,,,Yes,7,2,5
+Kenedy,4,Proposition #4 Right to Economic Security:,,,Under Votes,9,6,3
+Kenedy,4,Proposition #4 Right to Economic Security:,,,No,9,2,7
+Kenedy,4,Proposition #5 National Jobs Program:,,,Yes,7,5,2
 Kenedy,4,Proposition #5 National Jobs Program:,,,Over Votes,0,0,0
-Kenedy,4,Proposition #5 National Jobs Program:,,,Under Votes,9,3,6
-Kenedy,4,Proposition #5 National Jobs Program:,,,No,13,11,2
-Kenedy,4,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,12,5,7
+Kenedy,4,Proposition #5 National Jobs Program:,,,Under Votes,9,6,3
+Kenedy,4,Proposition #5 National Jobs Program:,,,No,13,2,11
+Kenedy,4,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,12,7,5
 Kenedy,4,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Over Votes,0,0,0
-Kenedy,4,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Under Votes,9,3,6
-Kenedy,4,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,8,8,0
-Kenedy,4,Proposition #7 Right to Dignity & Respect:,,,Yes,12,7,5
+Kenedy,4,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Under Votes,9,6,3
+Kenedy,4,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,8,0,8
+Kenedy,4,Proposition #7 Right to Dignity & Respect:,,,Yes,12,5,7
 Kenedy,4,Proposition #7 Right to Dignity & Respect:,,,Over Votes,0,0,0
-Kenedy,4,Proposition #7 Right to Dignity & Respect:,,,Under Votes,9,3,6
-Kenedy,4,Proposition #7 Right to Dignity & Respect:,,,No,8,6,2
+Kenedy,4,Proposition #7 Right to Dignity & Respect:,,,Under Votes,9,6,3
+Kenedy,4,Proposition #7 Right to Dignity & Respect:,,,No,8,2,6
 Kenedy,4,Proposition #8 Right to Housing:,,,Yes,10,5,5
 Kenedy,4,Proposition #8 Right to Housing:,,,Over Votes,0,0,0
-Kenedy,4,Proposition #8 Right to Housing:,,,Under Votes,9,3,6
-Kenedy,4,Proposition #8 Right to Housing:,,,No,10,8,2
-Kenedy,4,Proposition #9 Right to Vote:,,,Yes,9,4,5
+Kenedy,4,Proposition #8 Right to Housing:,,,Under Votes,9,6,3
+Kenedy,4,Proposition #8 Right to Housing:,,,No,10,2,8
+Kenedy,4,Proposition #9 Right to Vote:,,,Yes,9,5,4
 Kenedy,4,Proposition #9 Right to Vote:,,,Over Votes,0,0,0
-Kenedy,4,Proposition #9 Right to Vote:,,,Under Votes,9,3,6
-Kenedy,4,Proposition #9 Right to Vote:,,,No,11,9,2
-Kenedy,4,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,8,2,6
+Kenedy,4,Proposition #9 Right to Vote:,,,Under Votes,9,6,3
+Kenedy,4,Proposition #9 Right to Vote:,,,No,11,2,9
+Kenedy,4,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,8,6,2
 Kenedy,4,Proposition #10 Right to a Fair Criminal Justice System:,,,Over Votes,0,0,0
-Kenedy,4,Proposition #10 Right to a Fair Criminal Justice System:,,,Under Votes,10,4,6
-Kenedy,4,Proposition #10 Right to a Fair Criminal Justice System:,,,No,11,10,1
-Kenedy,4,Proposition #11 Immigrant Rights:,,,Yes,8,3,5
+Kenedy,4,Proposition #10 Right to a Fair Criminal Justice System:,,,Under Votes,10,6,4
+Kenedy,4,Proposition #10 Right to a Fair Criminal Justice System:,,,No,11,1,10
+Kenedy,4,Proposition #11 Immigrant Rights:,,,Yes,8,5,3
 Kenedy,4,Proposition #11 Immigrant Rights:,,,Over Votes,0,0,0
-Kenedy,4,Proposition #11 Immigrant Rights:,,,Under Votes,9,4,5
-Kenedy,4,Proposition #11 Immigrant Rights:,,,No,12,9,3
-Kenedy,4,Proposition #12 Right to Fair Taxation:,,,Yes,15,8,7
+Kenedy,4,Proposition #11 Immigrant Rights:,,,Under Votes,9,5,4
+Kenedy,4,Proposition #11 Immigrant Rights:,,,No,12,3,9
+Kenedy,4,Proposition #12 Right to Fair Taxation:,,,Yes,15,7,8
 Kenedy,4,Proposition #12 Right to Fair Taxation:,,,Over Votes,0,0,0
-Kenedy,4,Proposition #12 Right to Fair Taxation:,,,Under Votes,8,3,5
-Kenedy,4,Proposition #12 Right to Fair Taxation:,,,No,6,5,1
-Kenedy,4,Proposition 1,,,YES,1,0,1
+Kenedy,4,Proposition #12 Right to Fair Taxation:,,,Under Votes,8,5,3
+Kenedy,4,Proposition #12 Right to Fair Taxation:,,,No,6,1,5
+Kenedy,4,Proposition 1,,,YES,1,1,0
 Kenedy,4,Proposition 1,,,Over Votes,0,0,0
-Kenedy,4,Proposition 1,,,Under Votes,1,0,1
+Kenedy,4,Proposition 1,,,Under Votes,1,1,0
 Kenedy,4,Proposition 1,,,NO,0,0,0
-Kenedy,4,Proposition 2,,,YES,1,0,1
+Kenedy,4,Proposition 2,,,YES,1,1,0
 Kenedy,4,Proposition 2,,,Over Votes,0,0,0
-Kenedy,4,Proposition 2,,,Under Votes,1,0,1
+Kenedy,4,Proposition 2,,,Under Votes,1,1,0
 Kenedy,4,Proposition 2,,,NO,0,0,0
-Kenedy,4,Proposition 3,,,YES,1,0,1
+Kenedy,4,Proposition 3,,,YES,1,1,0
 Kenedy,4,Proposition 3,,,Over Votes,0,0,0
-Kenedy,4,Proposition 3,,,Under Votes,1,0,1
+Kenedy,4,Proposition 3,,,Under Votes,1,1,0
 Kenedy,4,Proposition 3,,,NO,0,0,0
-Kenedy,4,Proposition 4,,,YES,1,0,1
+Kenedy,4,Proposition 4,,,YES,1,1,0
 Kenedy,4,Proposition 4,,,Over Votes,0,0,0
-Kenedy,4,Proposition 4,,,Under Votes,1,0,1
+Kenedy,4,Proposition 4,,,Under Votes,1,1,0
 Kenedy,4,Proposition 4,,,NO,0,0,0
-Kenedy,4,Proposition 5,,,YES,1,0,1
+Kenedy,4,Proposition 5,,,YES,1,1,0
 Kenedy,4,Proposition 5,,,Over Votes,0,0,0
-Kenedy,4,Proposition 5,,,Under Votes,1,0,1
+Kenedy,4,Proposition 5,,,Under Votes,1,1,0
 Kenedy,4,Proposition 5,,,NO,0,0,0
-Kenedy,4,Proposition 6,,,YES,1,0,1
+Kenedy,4,Proposition 6,,,YES,1,1,0
 Kenedy,4,Proposition 6,,,Over Votes,0,0,0
-Kenedy,4,Proposition 6,,,Under Votes,1,0,1
+Kenedy,4,Proposition 6,,,Under Votes,1,1,0
 Kenedy,4,Proposition 6,,,NO,0,0,0
-Kenedy,4,Proposition 7,,,YES,1,0,1
+Kenedy,4,Proposition 7,,,YES,1,1,0
 Kenedy,4,Proposition 7,,,Over Votes,0,0,0
-Kenedy,4,Proposition 7,,,Under Votes,1,0,1
+Kenedy,4,Proposition 7,,,Under Votes,1,1,0
 Kenedy,4,Proposition 7,,,NO,0,0,0
-Kenedy,4,Proposition 8,,,YES,1,0,1
+Kenedy,4,Proposition 8,,,YES,1,1,0
 Kenedy,4,Proposition 8,,,Over Votes,0,0,0
-Kenedy,4,Proposition 8,,,Under Votes,1,0,1
+Kenedy,4,Proposition 8,,,Under Votes,1,1,0
 Kenedy,4,Proposition 8,,,NO,0,0,0
-Kenedy,4,Proposition 9,,,YES,1,0,1
+Kenedy,4,Proposition 9,,,YES,1,1,0
 Kenedy,4,Proposition 9,,,Over Votes,0,0,0
-Kenedy,4,Proposition 9,,,Under Votes,1,0,1
+Kenedy,4,Proposition 9,,,Under Votes,1,1,0
 Kenedy,4,Proposition 9,,,NO,0,0,0
-Kenedy,4,Proposition 10,,,YES,1,0,1
+Kenedy,4,Proposition 10,,,YES,1,1,0
 Kenedy,4,Proposition 10,,,Over Votes,0,0,0
-Kenedy,4,Proposition 10,,,Under Votes,1,0,1
+Kenedy,4,Proposition 10,,,Under Votes,1,1,0
 Kenedy,4,Proposition 10,,,NO,0,0,0
-Kenedy,4,Proposition 11,,,YES,1,0,1
+Kenedy,4,Proposition 11,,,YES,1,1,0
 Kenedy,4,Proposition 11,,,Over Votes,0,0,0
-Kenedy,4,Proposition 11,,,Under Votes,1,0,1
+Kenedy,4,Proposition 11,,,Under Votes,1,1,0
 Kenedy,4,Proposition 11,,,NO,0,0,0
 Kenedy,5,U.S. Senate,,REP,"Bruce Jacobson, Jr.",0,0,0
 Kenedy,5,U.S. Senate,,REP,Over Votes,0,0,0
 Kenedy,5,U.S. Senate,,REP,Under Votes,0,0,0
 Kenedy,5,Registered Voters,,REP,,0,,
-Kenedy,5,Ballots Cast,,REP,,20,6,0
+Kenedy,5,Ballots Cast,,REP,,20,0,6
 Kenedy,5,U.S. Senate,,REP,Geraldine Sam,0,0,0
 Kenedy,5,U.S. Senate,,REP,Over Votes,0,0,0
 Kenedy,5,U.S. Senate,,REP,Under Votes,0,0,0
@@ -1178,18 +1178,18 @@ Kenedy,5,County Judge,,REP,Chuck Burns,0,0,0
 Kenedy,5,County Judge,,REP,Over Votes,0,0,0
 Kenedy,5,County Judge,,REP,Under Votes,0,0,0
 Kenedy,5,U.S. Senate,,DEM,Over Votes,0,0,0
-Kenedy,5,U.S. Senate,,DEM,Under Votes,9,1,8
+Kenedy,5,U.S. Senate,,DEM,Under Votes,9,8,1
 Kenedy,5,Registered Voters,,DEM,,0,,
-Kenedy,5,Ballots Cast,,DEM,,20,6,3
-Kenedy,5,U.S. Senate,,DEM,Beto O'Rourke,3,0,3
+Kenedy,5,Ballots Cast,,DEM,,20,3,6
+Kenedy,5,U.S. Senate,,DEM,Beto O'Rourke,3,3,0
 Kenedy,5,U.S. Senate,,DEM,Over Votes,0,0,0
-Kenedy,5,U.S. Senate,,DEM,Under Votes,9,1,8
-Kenedy,5,U.S. Senate,,DEM,Sema Hernandez,6,4,2
+Kenedy,5,U.S. Senate,,DEM,Under Votes,9,8,1
+Kenedy,5,U.S. Senate,,DEM,Sema Hernandez,6,2,4
 Kenedy,5,U.S. Senate,,DEM,Edward Kimbrough,2,1,1
 Kenedy,5,U.S. House,34,DEM,Filemon B. Vela,12,6,6
 Kenedy,5,U.S. House,34,DEM,Over Votes,0,0,0
-Kenedy,5,U.S. House,34,DEM,Under Votes,8,0,8
-Kenedy,5,Governor,,DEM,Lupe Valdez,6,2,4
+Kenedy,5,U.S. House,34,DEM,Under Votes,8,8,0
+Kenedy,5,Governor,,DEM,Lupe Valdez,6,4,2
 Kenedy,5,Governor,,DEM,Andrew White,0,0,0
 Kenedy,5,Governor,,DEM,Grady Yarbrough,2,1,1
 Kenedy,5,Governor,,DEM,Tom Wakely,0,0,0
@@ -1197,138 +1197,138 @@ Kenedy,5,Governor,,DEM,James Jolly Clark,0,0,0
 Kenedy,5,Governor,,DEM,Jeffrey Payne,0,0,0
 Kenedy,5,Governor,,DEM,Joe Mumbach,0,0,0
 Kenedy,5,Governor,,DEM,"Cedric Davis, Sr.",0,0,0
-Kenedy,5,Governor,,DEM,Adrian Ocegueda,1,1,0
+Kenedy,5,Governor,,DEM,Adrian Ocegueda,1,0,1
 Kenedy,5,Governor,,DEM,Over Votes,0,0,0
-Kenedy,5,Governor,,DEM,Under Votes,11,2,9
-Kenedy,5,Lieutenant Governor,,DEM,Michael Cooper,3,1,2
+Kenedy,5,Governor,,DEM,Under Votes,11,9,2
+Kenedy,5,Lieutenant Governor,,DEM,Michael Cooper,3,2,1
 Kenedy,5,Lieutenant Governor,,DEM,Over Votes,0,0,0
-Kenedy,5,Lieutenant Governor,,DEM,Under Votes,11,2,9
+Kenedy,5,Lieutenant Governor,,DEM,Under Votes,11,9,2
 Kenedy,5,Lieutenant Governor,,DEM,Mike Collier,6,3,3
-Kenedy,5,Attorney General,,DEM,Justin Nelson,8,3,5
+Kenedy,5,Attorney General,,DEM,Justin Nelson,8,5,3
 Kenedy,5,Attorney General,,DEM,Over Votes,0,0,0
-Kenedy,5,Attorney General,,DEM,Under Votes,12,3,9
-Kenedy,5,Comptroller of Public Accounts,,DEM,Tim Mahoney,8,2,6
-Kenedy,5,Comptroller of Public Accounts,,DEM,Joi Chevalier,1,1,0
+Kenedy,5,Attorney General,,DEM,Under Votes,12,9,3
+Kenedy,5,Comptroller of Public Accounts,,DEM,Tim Mahoney,8,6,2
+Kenedy,5,Comptroller of Public Accounts,,DEM,Joi Chevalier,1,0,1
 Kenedy,5,Comptroller of Public Accounts,,DEM,Over Votes,0,0,0
-Kenedy,5,Comptroller of Public Accounts,,DEM,Under Votes,11,3,8
-Kenedy,5,Commissioner of the General Land Office,,DEM,Tex Morgan,2,0,2
-Kenedy,5,Commissioner of the General Land Office,,DEM,Miguel Suazo,7,3,4
+Kenedy,5,Comptroller of Public Accounts,,DEM,Under Votes,11,8,3
+Kenedy,5,Commissioner of the General Land Office,,DEM,Tex Morgan,2,2,0
+Kenedy,5,Commissioner of the General Land Office,,DEM,Miguel Suazo,7,4,3
 Kenedy,5,Commissioner of the General Land Office,,DEM,Over Votes,0,0,0
-Kenedy,5,Commissioner of the General Land Office,,DEM,Under Votes,11,3,8
-Kenedy,5,Commissioner of Agriculture,,DEM,Kim Olson,11,4,7
+Kenedy,5,Commissioner of the General Land Office,,DEM,Under Votes,11,8,3
+Kenedy,5,Commissioner of Agriculture,,DEM,Kim Olson,11,7,4
 Kenedy,5,Commissioner of Agriculture,,DEM,Over Votes,0,0,0
-Kenedy,5,Commissioner of Agriculture,,DEM,Under Votes,9,2,7
-Kenedy,5,Railroad Commissioner,,DEM,Roman McAllen,5,2,3
-Kenedy,5,Railroad Commissioner,,DEM,Chris Spellmon,4,1,3
+Kenedy,5,Commissioner of Agriculture,,DEM,Under Votes,9,7,2
+Kenedy,5,Railroad Commissioner,,DEM,Roman McAllen,5,3,2
+Kenedy,5,Railroad Commissioner,,DEM,Chris Spellmon,4,3,1
 Kenedy,5,Railroad Commissioner,,DEM,Over Votes,0,0,0
-Kenedy,5,Railroad Commissioner,,DEM,Under Votes,11,3,8
-Kenedy,5,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,10,4,6
+Kenedy,5,Railroad Commissioner,,DEM,Under Votes,11,8,3
+Kenedy,5,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,10,6,4
 Kenedy,5,"Justice, Supreme Court, Place 2",,DEM,Over Votes,0,0,0
-Kenedy,5,"Justice, Supreme Court, Place 2",,DEM,Under Votes,10,2,8
-Kenedy,5,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,10,4,6
+Kenedy,5,"Justice, Supreme Court, Place 2",,DEM,Under Votes,10,8,2
+Kenedy,5,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,10,6,4
 Kenedy,5,"Justice, Supreme Court, Place 4",,DEM,Over Votes,0,0,0
-Kenedy,5,"Justice, Supreme Court, Place 4",,DEM,Under Votes,10,2,8
-Kenedy,5,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,10,4,6
+Kenedy,5,"Justice, Supreme Court, Place 4",,DEM,Under Votes,10,8,2
+Kenedy,5,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,10,6,4
 Kenedy,5,"Justice, Supreme Court, Place 6",,DEM,Over Votes,0,0,0
-Kenedy,5,"Justice, Supreme Court, Place 6",,DEM,Under Votes,10,2,8
-Kenedy,5,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,9,3,6
+Kenedy,5,"Justice, Supreme Court, Place 6",,DEM,Under Votes,10,8,2
+Kenedy,5,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,9,6,3
 Kenedy,5,"Presiding Judge, Court of Criminal Appeals",,DEM,Over Votes,0,0,0
-Kenedy,5,"Presiding Judge, Court of Criminal Appeals",,DEM,Under Votes,11,3,8
-Kenedy,5,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,8,3,5
+Kenedy,5,"Presiding Judge, Court of Criminal Appeals",,DEM,Under Votes,11,8,3
+Kenedy,5,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,8,5,3
 Kenedy,5,"Judge, Court of Criminal Appeals, Place 7",,DEM,Over Votes,0,0,0
-Kenedy,5,"Judge, Court of Criminal Appeals, Place 7",,DEM,Under Votes,12,3,9
-Kenedy,5,"Member, State Board of Education",2,DEM,Michelle Arévalo Dávila,7,1,6
+Kenedy,5,"Judge, Court of Criminal Appeals, Place 7",,DEM,Under Votes,12,9,3
+Kenedy,5,"Member, State Board of Education",2,DEM,Michelle Arévalo Dávila,7,6,1
 Kenedy,5,"Member, State Board of Education",2,DEM,Over Votes,0,0,0
-Kenedy,5,"Member, State Board of Education",2,DEM,Under Votes,10,3,7
-Kenedy,5,"Member, State Board of Education",2,DEM,"Ruben Cortez, Jr.",3,2,1
-Kenedy,5,State Representative,31,DEM,Ryan Guillen,7,4,3
+Kenedy,5,"Member, State Board of Education",2,DEM,Under Votes,10,7,3
+Kenedy,5,"Member, State Board of Education",2,DEM,"Ruben Cortez, Jr.",3,1,2
+Kenedy,5,State Representative,31,DEM,Ryan Guillen,7,3,4
 Kenedy,5,State Representative,31,DEM,Over Votes,0,0,0
-Kenedy,5,State Representative,31,DEM,Under Votes,6,0,6
-Kenedy,5,State Representative,31,DEM,Ana Lisa Garza,7,2,5
+Kenedy,5,State Representative,31,DEM,Under Votes,6,6,0
+Kenedy,5,State Representative,31,DEM,Ana Lisa Garza,7,5,2
 Kenedy,5,"Chief Justice, 13th Court of Appeals District",,DEM,Dori Contreras,8,4,4
 Kenedy,5,"Chief Justice, 13th Court of Appeals District",,DEM,Over Votes,0,0,0
-Kenedy,5,"Chief Justice, 13th Court of Appeals District",,DEM,Under Votes,9,1,8
-Kenedy,5,"Chief Justice, 13th Court of Appeals District",,DEM,Ray Thomas,3,1,2
-Kenedy,5,"Justice, 13th Court of Appeals District, Place No. 2",,DEM,Nora Longoria,11,5,6
+Kenedy,5,"Chief Justice, 13th Court of Appeals District",,DEM,Under Votes,9,8,1
+Kenedy,5,"Chief Justice, 13th Court of Appeals District",,DEM,Ray Thomas,3,2,1
+Kenedy,5,"Justice, 13th Court of Appeals District, Place No. 2",,DEM,Nora Longoria,11,6,5
 Kenedy,5,"Justice, 13th Court of Appeals District, Place No. 2",,DEM,Over Votes,0,0,0
-Kenedy,5,"Justice, 13th Court of Appeals District, Place No. 2",,DEM,Under Votes,9,1,8
-Kenedy,5,"Justice, 13th Court of Appeals District, Place No. 4",,DEM,Rudy Delgado,9,3,6
+Kenedy,5,"Justice, 13th Court of Appeals District, Place No. 2",,DEM,Under Votes,9,8,1
+Kenedy,5,"Justice, 13th Court of Appeals District, Place No. 4",,DEM,Rudy Delgado,9,6,3
 Kenedy,5,"Justice, 13th Court of Appeals District, Place No. 4",,DEM,Over Votes,0,0,0
-Kenedy,5,"Justice, 13th Court of Appeals District, Place No. 4",,DEM,Under Votes,11,3,8
-Kenedy,5,"Justice, 13th Court of Appeals District, Place No. 5",,DEM,Gina Benavides,10,3,7
+Kenedy,5,"Justice, 13th Court of Appeals District, Place No. 4",,DEM,Under Votes,11,8,3
+Kenedy,5,"Justice, 13th Court of Appeals District, Place No. 5",,DEM,Gina Benavides,10,7,3
 Kenedy,5,"Justice, 13th Court of Appeals District, Place No. 5",,DEM,Over Votes,0,0,0
-Kenedy,5,"Justice, 13th Court of Appeals District, Place No. 5",,DEM,Under Votes,10,3,7
-Kenedy,5,"District Judge, 105th Judicial District",,DEM,Craig D. Henderson,10,4,6
+Kenedy,5,"Justice, 13th Court of Appeals District, Place No. 5",,DEM,Under Votes,10,7,3
+Kenedy,5,"District Judge, 105th Judicial District",,DEM,Craig D. Henderson,10,6,4
 Kenedy,5,"District Judge, 105th Judicial District",,DEM,Over Votes,0,0,0
-Kenedy,5,"District Judge, 105th Judicial District",,DEM,Under Votes,10,2,8
-Kenedy,5,County Judge,,DEM,Louis E. (Bud) Turcotte III,13,5,8
+Kenedy,5,"District Judge, 105th Judicial District",,DEM,Under Votes,10,8,2
+Kenedy,5,County Judge,,DEM,Louis E. (Bud) Turcotte III,13,8,5
 Kenedy,5,County Judge,,DEM,Over Votes,0,0,0
-Kenedy,5,County Judge,,DEM,Under Votes,7,1,6
-Kenedy,5,District and County Clerk,,DEM,Amy L. Ybarra,7,2,5
+Kenedy,5,County Judge,,DEM,Under Votes,7,6,1
+Kenedy,5,District and County Clerk,,DEM,Amy L. Ybarra,7,5,2
 Kenedy,5,District and County Clerk,,DEM,Over Votes,0,0,0
-Kenedy,5,District and County Clerk,,DEM,Under Votes,1,0,1
-Kenedy,5,District and County Clerk,,DEM,"Veronica ""Betty"" Vela",12,4,8
-Kenedy,5,County Treasurer,,DEM,"Cynthia ""Cyndi"" Salinas",7,2,5
+Kenedy,5,District and County Clerk,,DEM,Under Votes,1,1,0
+Kenedy,5,District and County Clerk,,DEM,"Veronica ""Betty"" Vela",12,8,4
+Kenedy,5,County Treasurer,,DEM,"Cynthia ""Cyndi"" Salinas",7,5,2
 Kenedy,5,County Treasurer,,DEM,Over Votes,0,0,0
 Kenedy,5,County Treasurer,,DEM,Under Votes,0,0,0
-Kenedy,5,County Treasurer,,DEM,Javier Vidal,7,3,4
-Kenedy,5,County Treasurer,,DEM,Juli A. Salinas,6,1,5
-Kenedy,5,"County Commisisoner, Precinct No. 4",,DEM,"Gumecinda ""Cindy"" Gonzales",14,2,12
+Kenedy,5,County Treasurer,,DEM,Javier Vidal,7,4,3
+Kenedy,5,County Treasurer,,DEM,Juli A. Salinas,6,5,1
+Kenedy,5,"County Commisisoner, Precinct No. 4",,DEM,"Gumecinda ""Cindy"" Gonzales",14,12,2
 Kenedy,5,"County Commisisoner, Precinct No. 4",,DEM,Over Votes,0,0,0
 Kenedy,5,"County Commisisoner, Precinct No. 4",,DEM,Under Votes,0,0,0
-Kenedy,5,"County Commisisoner, Precinct No. 4",,DEM,Valentin Alvarez,6,4,2
+Kenedy,5,"County Commisisoner, Precinct No. 4",,DEM,Valentin Alvarez,6,2,4
 Kenedy,5,"Justice of the Peace, Precinct No. 4",,DEM,Eduardo J. Ramirez,6,3,3
 Kenedy,5,"Justice of the Peace, Precinct No. 4",,DEM,Over Votes,0,0,0
-Kenedy,5,"Justice of the Peace, Precinct No. 4",,DEM,Under Votes,1,0,1
-Kenedy,5,"Justice of the Peace, Precinct No. 4",,DEM,Patricia (Patti) Fain,13,3,10
-Kenedy,5,Proposition #1 Right to a 21st Century Public Education:,,,Yes,13,6,7
+Kenedy,5,"Justice of the Peace, Precinct No. 4",,DEM,Under Votes,1,1,0
+Kenedy,5,"Justice of the Peace, Precinct No. 4",,DEM,Patricia (Patti) Fain,13,10,3
+Kenedy,5,Proposition #1 Right to a 21st Century Public Education:,,,Yes,13,7,6
 Kenedy,5,Proposition #1 Right to a 21st Century Public Education:,,,Over Votes,0,0,0
-Kenedy,5,Proposition #1 Right to a 21st Century Public Education:,,,Under Votes,7,0,7
+Kenedy,5,Proposition #1 Right to a 21st Century Public Education:,,,Under Votes,7,7,0
 Kenedy,5,Proposition #1 Right to a 21st Century Public Education:,,,No,0,0,0
-Kenedy,5,Proposition #2 Student Loan Debt:,,,Yes,13,4,9
+Kenedy,5,Proposition #2 Student Loan Debt:,,,Yes,13,9,4
 Kenedy,5,Proposition #2 Student Loan Debt:,,,Over Votes,0,0,0
-Kenedy,5,Proposition #2 Student Loan Debt:,,,Under Votes,6,1,5
-Kenedy,5,Proposition #2 Student Loan Debt:,,,No,1,1,0
-Kenedy,5,Proposition #3 Right to Healthcare:,,,Yes,11,4,7
+Kenedy,5,Proposition #2 Student Loan Debt:,,,Under Votes,6,5,1
+Kenedy,5,Proposition #2 Student Loan Debt:,,,No,1,0,1
+Kenedy,5,Proposition #3 Right to Healthcare:,,,Yes,11,7,4
 Kenedy,5,Proposition #3 Right to Healthcare:,,,Over Votes,0,0,0
-Kenedy,5,Proposition #3 Right to Healthcare:,,,Under Votes,9,2,7
+Kenedy,5,Proposition #3 Right to Healthcare:,,,Under Votes,9,7,2
 Kenedy,5,Proposition #3 Right to Healthcare:,,,No,0,0,0
 Kenedy,5,Proposition #4 Right to Economic Security:,,,Yes,12,6,6
 Kenedy,5,Proposition #4 Right to Economic Security:,,,Over Votes,0,0,0
-Kenedy,5,Proposition #4 Right to Economic Security:,,,Under Votes,8,0,8
+Kenedy,5,Proposition #4 Right to Economic Security:,,,Under Votes,8,8,0
 Kenedy,5,Proposition #4 Right to Economic Security:,,,No,0,0,0
-Kenedy,5,Proposition #5 National Jobs Program:,,,Yes,10,3,7
+Kenedy,5,Proposition #5 National Jobs Program:,,,Yes,10,7,3
 Kenedy,5,Proposition #5 National Jobs Program:,,,Over Votes,0,0,0
-Kenedy,5,Proposition #5 National Jobs Program:,,,Under Votes,9,2,7
-Kenedy,5,Proposition #5 National Jobs Program:,,,No,1,1,0
+Kenedy,5,Proposition #5 National Jobs Program:,,,Under Votes,9,7,2
+Kenedy,5,Proposition #5 National Jobs Program:,,,No,1,0,1
 Kenedy,5,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,12,6,6
 Kenedy,5,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Over Votes,0,0,0
-Kenedy,5,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Under Votes,8,0,8
+Kenedy,5,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Under Votes,8,8,0
 Kenedy,5,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,0,0,0
-Kenedy,5,Proposition #7 Right to Dignity & Respect:,,,Yes,11,5,6
+Kenedy,5,Proposition #7 Right to Dignity & Respect:,,,Yes,11,6,5
 Kenedy,5,Proposition #7 Right to Dignity & Respect:,,,Over Votes,0,0,0
-Kenedy,5,Proposition #7 Right to Dignity & Respect:,,,Under Votes,9,1,8
+Kenedy,5,Proposition #7 Right to Dignity & Respect:,,,Under Votes,9,8,1
 Kenedy,5,Proposition #7 Right to Dignity & Respect:,,,No,0,0,0
-Kenedy,5,Proposition #8 Right to Housing:,,,Yes,11,4,7
+Kenedy,5,Proposition #8 Right to Housing:,,,Yes,11,7,4
 Kenedy,5,Proposition #8 Right to Housing:,,,Over Votes,0,0,0
-Kenedy,5,Proposition #8 Right to Housing:,,,Under Votes,8,1,7
-Kenedy,5,Proposition #8 Right to Housing:,,,No,1,1,0
-Kenedy,5,Proposition #9 Right to Vote:,,,Yes,11,5,6
+Kenedy,5,Proposition #8 Right to Housing:,,,Under Votes,8,7,1
+Kenedy,5,Proposition #8 Right to Housing:,,,No,1,0,1
+Kenedy,5,Proposition #9 Right to Vote:,,,Yes,11,6,5
 Kenedy,5,Proposition #9 Right to Vote:,,,Over Votes,0,0,0
-Kenedy,5,Proposition #9 Right to Vote:,,,Under Votes,8,1,7
-Kenedy,5,Proposition #9 Right to Vote:,,,No,1,0,1
-Kenedy,5,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,9,3,6
+Kenedy,5,Proposition #9 Right to Vote:,,,Under Votes,8,7,1
+Kenedy,5,Proposition #9 Right to Vote:,,,No,1,1,0
+Kenedy,5,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,9,6,3
 Kenedy,5,Proposition #10 Right to a Fair Criminal Justice System:,,,Over Votes,0,0,0
-Kenedy,5,Proposition #10 Right to a Fair Criminal Justice System:,,,Under Votes,10,2,8
-Kenedy,5,Proposition #10 Right to a Fair Criminal Justice System:,,,No,1,1,0
-Kenedy,5,Proposition #11 Immigrant Rights:,,,Yes,10,4,6
+Kenedy,5,Proposition #10 Right to a Fair Criminal Justice System:,,,Under Votes,10,8,2
+Kenedy,5,Proposition #10 Right to a Fair Criminal Justice System:,,,No,1,0,1
+Kenedy,5,Proposition #11 Immigrant Rights:,,,Yes,10,6,4
 Kenedy,5,Proposition #11 Immigrant Rights:,,,Over Votes,0,0,0
-Kenedy,5,Proposition #11 Immigrant Rights:,,,Under Votes,8,1,7
+Kenedy,5,Proposition #11 Immigrant Rights:,,,Under Votes,8,7,1
 Kenedy,5,Proposition #11 Immigrant Rights:,,,No,2,1,1
-Kenedy,5,Proposition #12 Right to Fair Taxation:,,,Yes,10,4,6
+Kenedy,5,Proposition #12 Right to Fair Taxation:,,,Yes,10,6,4
 Kenedy,5,Proposition #12 Right to Fair Taxation:,,,Over Votes,0,0,0
-Kenedy,5,Proposition #12 Right to Fair Taxation:,,,Under Votes,9,1,8
-Kenedy,5,Proposition #12 Right to Fair Taxation:,,,No,1,1,0
+Kenedy,5,Proposition #12 Right to Fair Taxation:,,,Under Votes,9,8,1
+Kenedy,5,Proposition #12 Right to Fair Taxation:,,,No,1,0,1
 Kenedy,5,Proposition 1,,,YES,0,0,0
 Kenedy,5,Proposition 1,,,Over Votes,0,0,0
 Kenedy,5,Proposition 1,,,Under Votes,0,0,0
@@ -1377,276 +1377,276 @@ Kenedy,6,U.S. Senate,,REP,"Bruce Jacobson, Jr.",0,0,0
 Kenedy,6,U.S. Senate,,REP,Over Votes,0,0,0
 Kenedy,6,U.S. Senate,,REP,Under Votes,0,0,0
 Kenedy,6,Registered Voters,,REP,,0,,
-Kenedy,6,Ballots Cast,,REP,,22,6,0
+Kenedy,6,Ballots Cast,,REP,,22,0,6
 Kenedy,6,U.S. Senate,,REP,Geraldine Sam,0,0,0
 Kenedy,6,U.S. Senate,,REP,Over Votes,0,0,0
 Kenedy,6,U.S. Senate,,REP,Under Votes,0,0,0
 Kenedy,6,U.S. Senate,,REP,Mary Miller,0,0,0
 Kenedy,6,U.S. Senate,,REP,Stefano de Stefano,0,0,0
-Kenedy,6,U.S. Senate,,REP,Ted Cruz,1,0,1
-Kenedy,6,U.S. House,34,REP,Rey Gonzalez,1,0,1
+Kenedy,6,U.S. Senate,,REP,Ted Cruz,1,1,0
+Kenedy,6,U.S. House,34,REP,Rey Gonzalez,1,1,0
 Kenedy,6,U.S. House,34,REP,Over Votes,0,0,0
 Kenedy,6,U.S. House,34,REP,Under Votes,0,0,0
-Kenedy,6,Governor,,REP,Barbara Krueger,1,0,1
+Kenedy,6,Governor,,REP,Barbara Krueger,1,1,0
 Kenedy,6,Governor,,REP,Greg Abbott,0,0,0
 Kenedy,6,Governor,,REP,SECEDE Kilgore,0,0,0
-Kenedy,6,Lieutenant Governor,,REP,Dan Patrick,1,0,1
+Kenedy,6,Lieutenant Governor,,REP,Dan Patrick,1,1,0
 Kenedy,6,Lieutenant Governor,,REP,Scott Milder,0,0,0
 Kenedy,6,Lieutenant Governor,,REP,Over Votes,0,0,0
 Kenedy,6,Lieutenant Governor,,REP,Under Votes,0,0,0
-Kenedy,6,Attorney General,,REP,Ken Paxton,1,0,1
-Kenedy,6,Comptroller of Public Accounts,,REP,Glenn Hegar,1,0,1
+Kenedy,6,Attorney General,,REP,Ken Paxton,1,1,0
+Kenedy,6,Comptroller of Public Accounts,,REP,Glenn Hegar,1,1,0
 Kenedy,6,Comptroller of Public Accounts,,REP,Over Votes,0,0,0
 Kenedy,6,Comptroller of Public Accounts,,REP,Under Votes,0,0,0
 Kenedy,6,Commissioner of the General Land Office,,REP,Davey Edwards,0,0,0
 Kenedy,6,Commissioner of the General Land Office,,REP,Over Votes,0,0,0
 Kenedy,6,Commissioner of the General Land Office,,REP,Under Votes,0,0,0
-Kenedy,6,Commissioner of the General Land Office,,REP,George P. Bush,1,0,1
+Kenedy,6,Commissioner of the General Land Office,,REP,George P. Bush,1,1,0
 Kenedy,6,Commissioner of the General Land Office,,REP,Jerry Patterson,0,0,0
 Kenedy,6,Commissioner of the General Land Office,,REP,Rick Range,0,0,0
-Kenedy,6,Commissioner of Agriculture,,REP,Jim Hogan,1,0,1
+Kenedy,6,Commissioner of Agriculture,,REP,Jim Hogan,1,1,0
 Kenedy,6,Commissioner of Agriculture,,REP,Sid Miller,0,0,0
 Kenedy,6,Commissioner of Agriculture,,REP,Trey Blocker,0,0,0
-Kenedy,6,Railroad Commissioner,,REP,Christi Craddick,1,0,1
+Kenedy,6,Railroad Commissioner,,REP,Christi Craddick,1,1,0
 Kenedy,6,Railroad Commissioner,,REP,Over Votes,0,0,0
 Kenedy,6,Railroad Commissioner,,REP,Under Votes,0,0,0
 Kenedy,6,Railroad Commissioner,,REP,Weston Martinez,0,0,0
-Kenedy,6,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,1,0,1
+Kenedy,6,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,1,1,0
 Kenedy,6,"Justice, Supreme Court, Place 2",,REP,Over Votes,0,0,0
 Kenedy,6,"Justice, Supreme Court, Place 2",,REP,Under Votes,0,0,0
-Kenedy,6,"Justice, Supreme Court, Place 4",,REP,John Devine,1,0,1
+Kenedy,6,"Justice, Supreme Court, Place 4",,REP,John Devine,1,1,0
 Kenedy,6,"Justice, Supreme Court, Place 4",,REP,Over Votes,0,0,0
 Kenedy,6,"Justice, Supreme Court, Place 4",,REP,Under Votes,0,0,0
-Kenedy,6,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,1,0,1
+Kenedy,6,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,1,1,0
 Kenedy,6,"Justice, Supreme Court, Place 6",,REP,Over Votes,0,0,0
 Kenedy,6,"Justice, Supreme Court, Place 6",,REP,Under Votes,0,0,0
 Kenedy,6,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,0,0,0
 Kenedy,6,"Presiding Judge, Court of Criminal Appeals",,REP,Over Votes,0,0,0
 Kenedy,6,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,0,0,0
-Kenedy,6,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,1,0,1
-Kenedy,6,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,1,0,1
+Kenedy,6,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,1,1,0
+Kenedy,6,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,1,1,0
 Kenedy,6,"Judge, Court of Criminal Appeals, Place 7",,REP,Over Votes,0,0,0
 Kenedy,6,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,0,0,0
 Kenedy,6,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,0,0,0
 Kenedy,6,"Judge, Court of Criminal Appeals, Place 8",,REP,Over Votes,0,0,0
 Kenedy,6,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,0,0,0
 Kenedy,6,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,0,0,0
-Kenedy,6,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,1,0,1
-Kenedy,6,"Member, State Board of Education",2,REP,"Charles ""Tad"" Hasse",1,0,1
+Kenedy,6,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,1,1,0
+Kenedy,6,"Member, State Board of Education",2,REP,"Charles ""Tad"" Hasse",1,1,0
 Kenedy,6,"Member, State Board of Education",2,REP,Over Votes,0,0,0
 Kenedy,6,"Member, State Board of Education",2,REP,Under Votes,0,0,0
 Kenedy,6,"Member, State Board of Education",2,REP,Eric Garza,0,0,0
-Kenedy,6,"Chief Justice, 13th Court of Appeals District",,REP,Ernie Aliseda,1,0,1
+Kenedy,6,"Chief Justice, 13th Court of Appeals District",,REP,Ernie Aliseda,1,1,0
 Kenedy,6,"Chief Justice, 13th Court of Appeals District",,REP,Over Votes,0,0,0
 Kenedy,6,"Chief Justice, 13th Court of Appeals District",,REP,Under Votes,0,0,0
-Kenedy,6,"Justice, 13th Court of Appeals District, Place No. 2",,REP,Greg Perkes,1,0,1
+Kenedy,6,"Justice, 13th Court of Appeals District, Place No. 2",,REP,Greg Perkes,1,1,0
 Kenedy,6,"Justice, 13th Court of Appeals District, Place No. 2",,REP,Over Votes,0,0,0
 Kenedy,6,"Justice, 13th Court of Appeals District, Place No. 2",,REP,Under Votes,0,0,0
-Kenedy,6,"Justice, 13th Court of Appeals District, Place No. 4",,REP,Jaime Tijerina,1,0,1
+Kenedy,6,"Justice, 13th Court of Appeals District, Place No. 4",,REP,Jaime Tijerina,1,1,0
 Kenedy,6,"Justice, 13th Court of Appeals District, Place No. 4",,REP,Over Votes,0,0,0
 Kenedy,6,"Justice, 13th Court of Appeals District, Place No. 4",,REP,Under Votes,0,0,0
-Kenedy,6,"Justice, 13th Court of Appeals District, Place No. 5",,REP,Clarissa Silva,1,0,1
+Kenedy,6,"Justice, 13th Court of Appeals District, Place No. 5",,REP,Clarissa Silva,1,1,0
 Kenedy,6,"Justice, 13th Court of Appeals District, Place No. 5",,REP,Over Votes,0,0,0
 Kenedy,6,"Justice, 13th Court of Appeals District, Place No. 5",,REP,Under Votes,0,0,0
-Kenedy,6,"District Judge, 105th Judicial District",,REP,Jack W. Pulcher,1,0,1
+Kenedy,6,"District Judge, 105th Judicial District",,REP,Jack W. Pulcher,1,1,0
 Kenedy,6,"District Judge, 105th Judicial District",,REP,Over Votes,0,0,0
 Kenedy,6,"District Judge, 105th Judicial District",,REP,Under Votes,0,0,0
-Kenedy,6,County Judge,,REP,Chuck Burns,1,0,1
+Kenedy,6,County Judge,,REP,Chuck Burns,1,1,0
 Kenedy,6,County Judge,,REP,Over Votes,0,0,0
 Kenedy,6,County Judge,,REP,Under Votes,0,0,0
 Kenedy,6,U.S. Senate,,DEM,Over Votes,0,0,0
 Kenedy,6,U.S. Senate,,DEM,Under Votes,6,3,3
 Kenedy,6,Registered Voters,,DEM,,0,,
-Kenedy,6,Ballots Cast,,DEM,,22,6,4
-Kenedy,6,U.S. Senate,,DEM,Beto O'Rourke,6,2,4
+Kenedy,6,Ballots Cast,,DEM,,22,4,6
+Kenedy,6,U.S. Senate,,DEM,Beto O'Rourke,6,4,2
 Kenedy,6,U.S. Senate,,DEM,Over Votes,0,0,0
 Kenedy,6,U.S. Senate,,DEM,Under Votes,6,3,3
-Kenedy,6,U.S. Senate,,DEM,Sema Hernandez,8,1,7
-Kenedy,6,U.S. Senate,,DEM,Edward Kimbrough,1,0,1
-Kenedy,6,U.S. House,34,DEM,Filemon B. Vela,17,6,11
+Kenedy,6,U.S. Senate,,DEM,Sema Hernandez,8,7,1
+Kenedy,6,U.S. Senate,,DEM,Edward Kimbrough,1,1,0
+Kenedy,6,U.S. House,34,DEM,Filemon B. Vela,17,11,6
 Kenedy,6,U.S. House,34,DEM,Over Votes,0,0,0
-Kenedy,6,U.S. House,34,DEM,Under Votes,4,0,4
-Kenedy,6,Governor,,DEM,Lupe Valdez,13,2,11
+Kenedy,6,U.S. House,34,DEM,Under Votes,4,4,0
+Kenedy,6,Governor,,DEM,Lupe Valdez,13,11,2
 Kenedy,6,Governor,,DEM,Andrew White,2,1,1
-Kenedy,6,Governor,,DEM,Grady Yarbrough,1,1,0
+Kenedy,6,Governor,,DEM,Grady Yarbrough,1,0,1
 Kenedy,6,Governor,,DEM,Tom Wakely,0,0,0
 Kenedy,6,Governor,,DEM,James Jolly Clark,0,0,0
 Kenedy,6,Governor,,DEM,Jeffrey Payne,0,0,0
 Kenedy,6,Governor,,DEM,Joe Mumbach,0,0,0
-Kenedy,6,Governor,,DEM,"Cedric Davis, Sr.",1,1,0
+Kenedy,6,Governor,,DEM,"Cedric Davis, Sr.",1,0,1
 Kenedy,6,Governor,,DEM,Adrian Ocegueda,0,0,0
 Kenedy,6,Governor,,DEM,Over Votes,0,0,0
-Kenedy,6,Governor,,DEM,Under Votes,4,1,3
-Kenedy,6,Lieutenant Governor,,DEM,Michael Cooper,12,3,9
+Kenedy,6,Governor,,DEM,Under Votes,4,3,1
+Kenedy,6,Lieutenant Governor,,DEM,Michael Cooper,12,9,3
 Kenedy,6,Lieutenant Governor,,DEM,Over Votes,0,0,0
-Kenedy,6,Lieutenant Governor,,DEM,Under Votes,4,1,3
-Kenedy,6,Lieutenant Governor,,DEM,Mike Collier,5,2,3
-Kenedy,6,Attorney General,,DEM,Justin Nelson,16,5,11
+Kenedy,6,Lieutenant Governor,,DEM,Under Votes,4,3,1
+Kenedy,6,Lieutenant Governor,,DEM,Mike Collier,5,3,2
+Kenedy,6,Attorney General,,DEM,Justin Nelson,16,11,5
 Kenedy,6,Attorney General,,DEM,Over Votes,0,0,0
-Kenedy,6,Attorney General,,DEM,Under Votes,5,1,4
-Kenedy,6,Comptroller of Public Accounts,,DEM,Tim Mahoney,14,3,11
-Kenedy,6,Comptroller of Public Accounts,,DEM,Joi Chevalier,3,2,1
+Kenedy,6,Attorney General,,DEM,Under Votes,5,4,1
+Kenedy,6,Comptroller of Public Accounts,,DEM,Tim Mahoney,14,11,3
+Kenedy,6,Comptroller of Public Accounts,,DEM,Joi Chevalier,3,1,2
 Kenedy,6,Comptroller of Public Accounts,,DEM,Over Votes,0,0,0
-Kenedy,6,Comptroller of Public Accounts,,DEM,Under Votes,4,1,3
-Kenedy,6,Commissioner of the General Land Office,,DEM,Tex Morgan,4,1,3
-Kenedy,6,Commissioner of the General Land Office,,DEM,Miguel Suazo,12,4,8
+Kenedy,6,Comptroller of Public Accounts,,DEM,Under Votes,4,3,1
+Kenedy,6,Commissioner of the General Land Office,,DEM,Tex Morgan,4,3,1
+Kenedy,6,Commissioner of the General Land Office,,DEM,Miguel Suazo,12,8,4
 Kenedy,6,Commissioner of the General Land Office,,DEM,Over Votes,0,0,0
-Kenedy,6,Commissioner of the General Land Office,,DEM,Under Votes,5,1,4
-Kenedy,6,Commissioner of Agriculture,,DEM,Kim Olson,15,5,10
+Kenedy,6,Commissioner of the General Land Office,,DEM,Under Votes,5,4,1
+Kenedy,6,Commissioner of Agriculture,,DEM,Kim Olson,15,10,5
 Kenedy,6,Commissioner of Agriculture,,DEM,Over Votes,0,0,0
-Kenedy,6,Commissioner of Agriculture,,DEM,Under Votes,6,1,5
-Kenedy,6,Railroad Commissioner,,DEM,Roman McAllen,14,3,11
-Kenedy,6,Railroad Commissioner,,DEM,Chris Spellmon,2,2,0
+Kenedy,6,Commissioner of Agriculture,,DEM,Under Votes,6,5,1
+Kenedy,6,Railroad Commissioner,,DEM,Roman McAllen,14,11,3
+Kenedy,6,Railroad Commissioner,,DEM,Chris Spellmon,2,0,2
 Kenedy,6,Railroad Commissioner,,DEM,Over Votes,0,0,0
-Kenedy,6,Railroad Commissioner,,DEM,Under Votes,5,1,4
-Kenedy,6,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,15,5,10
+Kenedy,6,Railroad Commissioner,,DEM,Under Votes,5,4,1
+Kenedy,6,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,15,10,5
 Kenedy,6,"Justice, Supreme Court, Place 2",,DEM,Over Votes,0,0,0
-Kenedy,6,"Justice, Supreme Court, Place 2",,DEM,Under Votes,6,1,5
-Kenedy,6,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,15,5,10
+Kenedy,6,"Justice, Supreme Court, Place 2",,DEM,Under Votes,6,5,1
+Kenedy,6,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,15,10,5
 Kenedy,6,"Justice, Supreme Court, Place 4",,DEM,Over Votes,0,0,0
-Kenedy,6,"Justice, Supreme Court, Place 4",,DEM,Under Votes,6,1,5
-Kenedy,6,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,15,5,10
+Kenedy,6,"Justice, Supreme Court, Place 4",,DEM,Under Votes,6,5,1
+Kenedy,6,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,15,10,5
 Kenedy,6,"Justice, Supreme Court, Place 6",,DEM,Over Votes,0,0,0
-Kenedy,6,"Justice, Supreme Court, Place 6",,DEM,Under Votes,6,1,5
-Kenedy,6,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,14,4,10
+Kenedy,6,"Justice, Supreme Court, Place 6",,DEM,Under Votes,6,5,1
+Kenedy,6,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,14,10,4
 Kenedy,6,"Presiding Judge, Court of Criminal Appeals",,DEM,Over Votes,0,0,0
-Kenedy,6,"Presiding Judge, Court of Criminal Appeals",,DEM,Under Votes,7,2,5
-Kenedy,6,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,15,5,10
+Kenedy,6,"Presiding Judge, Court of Criminal Appeals",,DEM,Under Votes,7,5,2
+Kenedy,6,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,15,10,5
 Kenedy,6,"Judge, Court of Criminal Appeals, Place 7",,DEM,Over Votes,0,0,0
-Kenedy,6,"Judge, Court of Criminal Appeals, Place 7",,DEM,Under Votes,6,1,5
-Kenedy,6,"Member, State Board of Education",2,DEM,Michelle Arévalo Dávila,10,4,6
+Kenedy,6,"Judge, Court of Criminal Appeals, Place 7",,DEM,Under Votes,6,5,1
+Kenedy,6,"Member, State Board of Education",2,DEM,Michelle Arévalo Dávila,10,6,4
 Kenedy,6,"Member, State Board of Education",2,DEM,Over Votes,0,0,0
-Kenedy,6,"Member, State Board of Education",2,DEM,Under Votes,5,1,4
-Kenedy,6,"Member, State Board of Education",2,DEM,"Ruben Cortez, Jr.",6,1,5
-Kenedy,6,State Representative,31,DEM,Ryan Guillen,11,4,7
+Kenedy,6,"Member, State Board of Education",2,DEM,Under Votes,5,4,1
+Kenedy,6,"Member, State Board of Education",2,DEM,"Ruben Cortez, Jr.",6,5,1
+Kenedy,6,State Representative,31,DEM,Ryan Guillen,11,7,4
 Kenedy,6,State Representative,31,DEM,Over Votes,0,0,0
-Kenedy,6,State Representative,31,DEM,Under Votes,3,0,3
-Kenedy,6,State Representative,31,DEM,Ana Lisa Garza,7,2,5
-Kenedy,6,"Chief Justice, 13th Court of Appeals District",,DEM,Dori Contreras,13,4,9
+Kenedy,6,State Representative,31,DEM,Under Votes,3,3,0
+Kenedy,6,State Representative,31,DEM,Ana Lisa Garza,7,5,2
+Kenedy,6,"Chief Justice, 13th Court of Appeals District",,DEM,Dori Contreras,13,9,4
 Kenedy,6,"Chief Justice, 13th Court of Appeals District",,DEM,Over Votes,0,0,0
-Kenedy,6,"Chief Justice, 13th Court of Appeals District",,DEM,Under Votes,3,0,3
-Kenedy,6,"Chief Justice, 13th Court of Appeals District",,DEM,Ray Thomas,5,2,3
-Kenedy,6,"Justice, 13th Court of Appeals District, Place No. 2",,DEM,Nora Longoria,17,6,11
+Kenedy,6,"Chief Justice, 13th Court of Appeals District",,DEM,Under Votes,3,3,0
+Kenedy,6,"Chief Justice, 13th Court of Appeals District",,DEM,Ray Thomas,5,3,2
+Kenedy,6,"Justice, 13th Court of Appeals District, Place No. 2",,DEM,Nora Longoria,17,11,6
 Kenedy,6,"Justice, 13th Court of Appeals District, Place No. 2",,DEM,Over Votes,0,0,0
-Kenedy,6,"Justice, 13th Court of Appeals District, Place No. 2",,DEM,Under Votes,4,0,4
-Kenedy,6,"Justice, 13th Court of Appeals District, Place No. 4",,DEM,Rudy Delgado,16,6,10
+Kenedy,6,"Justice, 13th Court of Appeals District, Place No. 2",,DEM,Under Votes,4,4,0
+Kenedy,6,"Justice, 13th Court of Appeals District, Place No. 4",,DEM,Rudy Delgado,16,10,6
 Kenedy,6,"Justice, 13th Court of Appeals District, Place No. 4",,DEM,Over Votes,0,0,0
-Kenedy,6,"Justice, 13th Court of Appeals District, Place No. 4",,DEM,Under Votes,5,0,5
-Kenedy,6,"Justice, 13th Court of Appeals District, Place No. 5",,DEM,Gina Benavides,16,6,10
+Kenedy,6,"Justice, 13th Court of Appeals District, Place No. 4",,DEM,Under Votes,5,5,0
+Kenedy,6,"Justice, 13th Court of Appeals District, Place No. 5",,DEM,Gina Benavides,16,10,6
 Kenedy,6,"Justice, 13th Court of Appeals District, Place No. 5",,DEM,Over Votes,0,0,0
-Kenedy,6,"Justice, 13th Court of Appeals District, Place No. 5",,DEM,Under Votes,5,0,5
-Kenedy,6,"District Judge, 105th Judicial District",,DEM,Craig D. Henderson,15,5,10
+Kenedy,6,"Justice, 13th Court of Appeals District, Place No. 5",,DEM,Under Votes,5,5,0
+Kenedy,6,"District Judge, 105th Judicial District",,DEM,Craig D. Henderson,15,10,5
 Kenedy,6,"District Judge, 105th Judicial District",,DEM,Over Votes,0,0,0
-Kenedy,6,"District Judge, 105th Judicial District",,DEM,Under Votes,6,1,5
-Kenedy,6,County Judge,,DEM,Louis E. (Bud) Turcotte III,14,5,9
+Kenedy,6,"District Judge, 105th Judicial District",,DEM,Under Votes,6,5,1
+Kenedy,6,County Judge,,DEM,Louis E. (Bud) Turcotte III,14,9,5
 Kenedy,6,County Judge,,DEM,Over Votes,0,0,0
-Kenedy,6,County Judge,,DEM,Under Votes,7,1,6
-Kenedy,6,District and County Clerk,,DEM,Amy L. Ybarra,6,4,2
+Kenedy,6,County Judge,,DEM,Under Votes,7,6,1
+Kenedy,6,District and County Clerk,,DEM,Amy L. Ybarra,6,2,4
 Kenedy,6,District and County Clerk,,DEM,Over Votes,0,0,0
-Kenedy,6,District and County Clerk,,DEM,Under Votes,2,0,2
-Kenedy,6,District and County Clerk,,DEM,"Veronica ""Betty"" Vela",13,2,11
-Kenedy,6,County Treasurer,,DEM,"Cynthia ""Cyndi"" Salinas",8,3,5
+Kenedy,6,District and County Clerk,,DEM,Under Votes,2,2,0
+Kenedy,6,District and County Clerk,,DEM,"Veronica ""Betty"" Vela",13,11,2
+Kenedy,6,County Treasurer,,DEM,"Cynthia ""Cyndi"" Salinas",8,5,3
 Kenedy,6,County Treasurer,,DEM,Over Votes,0,0,0
-Kenedy,6,County Treasurer,,DEM,Under Votes,2,0,2
+Kenedy,6,County Treasurer,,DEM,Under Votes,2,2,0
 Kenedy,6,County Treasurer,,DEM,Javier Vidal,4,2,2
-Kenedy,6,County Treasurer,,DEM,Juli A. Salinas,7,1,6
-Kenedy,6,"County Commisisoner, Precinct No. 4",,DEM,"Gumecinda ""Cindy"" Gonzales",20,6,14
+Kenedy,6,County Treasurer,,DEM,Juli A. Salinas,7,6,1
+Kenedy,6,"County Commisisoner, Precinct No. 4",,DEM,"Gumecinda ""Cindy"" Gonzales",20,14,6
 Kenedy,6,"County Commisisoner, Precinct No. 4",,DEM,Over Votes,0,0,0
 Kenedy,6,"County Commisisoner, Precinct No. 4",,DEM,Under Votes,0,0,0
-Kenedy,6,"County Commisisoner, Precinct No. 4",,DEM,Valentin Alvarez,1,0,1
-Kenedy,6,"Justice of the Peace, Precinct No. 4",,DEM,Eduardo J. Ramirez,3,2,1
+Kenedy,6,"County Commisisoner, Precinct No. 4",,DEM,Valentin Alvarez,1,1,0
+Kenedy,6,"Justice of the Peace, Precinct No. 4",,DEM,Eduardo J. Ramirez,3,1,2
 Kenedy,6,"Justice of the Peace, Precinct No. 4",,DEM,Over Votes,0,0,0
-Kenedy,6,"Justice of the Peace, Precinct No. 4",,DEM,Under Votes,1,0,1
-Kenedy,6,"Justice of the Peace, Precinct No. 4",,DEM,Patricia (Patti) Fain,17,4,13
-Kenedy,6,Proposition #1 Right to a 21st Century Public Education:,,,Yes,17,5,12
+Kenedy,6,"Justice of the Peace, Precinct No. 4",,DEM,Under Votes,1,1,0
+Kenedy,6,"Justice of the Peace, Precinct No. 4",,DEM,Patricia (Patti) Fain,17,13,4
+Kenedy,6,Proposition #1 Right to a 21st Century Public Education:,,,Yes,17,12,5
 Kenedy,6,Proposition #1 Right to a 21st Century Public Education:,,,Over Votes,0,0,0
-Kenedy,6,Proposition #1 Right to a 21st Century Public Education:,,,Under Votes,2,0,2
+Kenedy,6,Proposition #1 Right to a 21st Century Public Education:,,,Under Votes,2,2,0
 Kenedy,6,Proposition #1 Right to a 21st Century Public Education:,,,No,2,1,1
-Kenedy,6,Proposition #2 Student Loan Debt:,,,Yes,17,5,12
+Kenedy,6,Proposition #2 Student Loan Debt:,,,Yes,17,12,5
 Kenedy,6,Proposition #2 Student Loan Debt:,,,Over Votes,0,0,0
-Kenedy,6,Proposition #2 Student Loan Debt:,,,Under Votes,2,0,2
+Kenedy,6,Proposition #2 Student Loan Debt:,,,Under Votes,2,2,0
 Kenedy,6,Proposition #2 Student Loan Debt:,,,No,2,1,1
-Kenedy,6,Proposition #3 Right to Healthcare:,,,Yes,15,5,10
+Kenedy,6,Proposition #3 Right to Healthcare:,,,Yes,15,10,5
 Kenedy,6,Proposition #3 Right to Healthcare:,,,Over Votes,0,0,0
-Kenedy,6,Proposition #3 Right to Healthcare:,,,Under Votes,2,0,2
-Kenedy,6,Proposition #3 Right to Healthcare:,,,No,4,1,3
-Kenedy,6,Proposition #4 Right to Economic Security:,,,Yes,16,5,11
+Kenedy,6,Proposition #3 Right to Healthcare:,,,Under Votes,2,2,0
+Kenedy,6,Proposition #3 Right to Healthcare:,,,No,4,3,1
+Kenedy,6,Proposition #4 Right to Economic Security:,,,Yes,16,11,5
 Kenedy,6,Proposition #4 Right to Economic Security:,,,Over Votes,0,0,0
-Kenedy,6,Proposition #4 Right to Economic Security:,,,Under Votes,3,0,3
+Kenedy,6,Proposition #4 Right to Economic Security:,,,Under Votes,3,3,0
 Kenedy,6,Proposition #4 Right to Economic Security:,,,No,2,1,1
-Kenedy,6,Proposition #5 National Jobs Program:,,,Yes,16,5,11
+Kenedy,6,Proposition #5 National Jobs Program:,,,Yes,16,11,5
 Kenedy,6,Proposition #5 National Jobs Program:,,,Over Votes,0,0,0
-Kenedy,6,Proposition #5 National Jobs Program:,,,Under Votes,3,0,3
+Kenedy,6,Proposition #5 National Jobs Program:,,,Under Votes,3,3,0
 Kenedy,6,Proposition #5 National Jobs Program:,,,No,2,1,1
-Kenedy,6,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,16,5,11
+Kenedy,6,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,16,11,5
 Kenedy,6,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Over Votes,0,0,0
-Kenedy,6,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Under Votes,3,0,3
+Kenedy,6,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Under Votes,3,3,0
 Kenedy,6,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,2,1,1
-Kenedy,6,Proposition #7 Right to Dignity & Respect:,,,Yes,16,6,10
+Kenedy,6,Proposition #7 Right to Dignity & Respect:,,,Yes,16,10,6
 Kenedy,6,Proposition #7 Right to Dignity & Respect:,,,Over Votes,0,0,0
-Kenedy,6,Proposition #7 Right to Dignity & Respect:,,,Under Votes,3,0,3
-Kenedy,6,Proposition #7 Right to Dignity & Respect:,,,No,2,0,2
-Kenedy,6,Proposition #8 Right to Housing:,,,Yes,14,4,10
+Kenedy,6,Proposition #7 Right to Dignity & Respect:,,,Under Votes,3,3,0
+Kenedy,6,Proposition #7 Right to Dignity & Respect:,,,No,2,2,0
+Kenedy,6,Proposition #8 Right to Housing:,,,Yes,14,10,4
 Kenedy,6,Proposition #8 Right to Housing:,,,Over Votes,0,0,0
-Kenedy,6,Proposition #8 Right to Housing:,,,Under Votes,4,1,3
-Kenedy,6,Proposition #8 Right to Housing:,,,No,3,1,2
-Kenedy,6,Proposition #9 Right to Vote:,,,Yes,16,5,11
+Kenedy,6,Proposition #8 Right to Housing:,,,Under Votes,4,3,1
+Kenedy,6,Proposition #8 Right to Housing:,,,No,3,2,1
+Kenedy,6,Proposition #9 Right to Vote:,,,Yes,16,11,5
 Kenedy,6,Proposition #9 Right to Vote:,,,Over Votes,0,0,0
-Kenedy,6,Proposition #9 Right to Vote:,,,Under Votes,1,0,1
-Kenedy,6,Proposition #9 Right to Vote:,,,No,4,1,3
-Kenedy,6,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,17,5,12
+Kenedy,6,Proposition #9 Right to Vote:,,,Under Votes,1,1,0
+Kenedy,6,Proposition #9 Right to Vote:,,,No,4,3,1
+Kenedy,6,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,17,12,5
 Kenedy,6,Proposition #10 Right to a Fair Criminal Justice System:,,,Over Votes,0,0,0
-Kenedy,6,Proposition #10 Right to a Fair Criminal Justice System:,,,Under Votes,1,0,1
-Kenedy,6,Proposition #10 Right to a Fair Criminal Justice System:,,,No,3,1,2
-Kenedy,6,Proposition #11 Immigrant Rights:,,,Yes,18,6,12
+Kenedy,6,Proposition #10 Right to a Fair Criminal Justice System:,,,Under Votes,1,1,0
+Kenedy,6,Proposition #10 Right to a Fair Criminal Justice System:,,,No,3,2,1
+Kenedy,6,Proposition #11 Immigrant Rights:,,,Yes,18,12,6
 Kenedy,6,Proposition #11 Immigrant Rights:,,,Over Votes,0,0,0
-Kenedy,6,Proposition #11 Immigrant Rights:,,,Under Votes,1,0,1
-Kenedy,6,Proposition #11 Immigrant Rights:,,,No,2,0,2
-Kenedy,6,Proposition #12 Right to Fair Taxation:,,,Yes,18,6,12
+Kenedy,6,Proposition #11 Immigrant Rights:,,,Under Votes,1,1,0
+Kenedy,6,Proposition #11 Immigrant Rights:,,,No,2,2,0
+Kenedy,6,Proposition #12 Right to Fair Taxation:,,,Yes,18,12,6
 Kenedy,6,Proposition #12 Right to Fair Taxation:,,,Over Votes,0,0,0
-Kenedy,6,Proposition #12 Right to Fair Taxation:,,,Under Votes,1,0,1
-Kenedy,6,Proposition #12 Right to Fair Taxation:,,,No,2,0,2
-Kenedy,6,Proposition 1,,,YES,1,0,1
+Kenedy,6,Proposition #12 Right to Fair Taxation:,,,Under Votes,1,1,0
+Kenedy,6,Proposition #12 Right to Fair Taxation:,,,No,2,2,0
+Kenedy,6,Proposition 1,,,YES,1,1,0
 Kenedy,6,Proposition 1,,,Over Votes,0,0,0
 Kenedy,6,Proposition 1,,,Under Votes,0,0,0
 Kenedy,6,Proposition 1,,,NO,0,0,0
-Kenedy,6,Proposition 2,,,YES,1,0,1
+Kenedy,6,Proposition 2,,,YES,1,1,0
 Kenedy,6,Proposition 2,,,Over Votes,0,0,0
 Kenedy,6,Proposition 2,,,Under Votes,0,0,0
 Kenedy,6,Proposition 2,,,NO,0,0,0
-Kenedy,6,Proposition 3,,,YES,1,0,1
+Kenedy,6,Proposition 3,,,YES,1,1,0
 Kenedy,6,Proposition 3,,,Over Votes,0,0,0
 Kenedy,6,Proposition 3,,,Under Votes,0,0,0
 Kenedy,6,Proposition 3,,,NO,0,0,0
 Kenedy,6,Proposition 4,,,YES,0,0,0
 Kenedy,6,Proposition 4,,,Over Votes,0,0,0
 Kenedy,6,Proposition 4,,,Under Votes,0,0,0
-Kenedy,6,Proposition 4,,,NO,1,0,1
-Kenedy,6,Proposition 5,,,YES,1,0,1
+Kenedy,6,Proposition 4,,,NO,1,1,0
+Kenedy,6,Proposition 5,,,YES,1,1,0
 Kenedy,6,Proposition 5,,,Over Votes,0,0,0
 Kenedy,6,Proposition 5,,,Under Votes,0,0,0
 Kenedy,6,Proposition 5,,,NO,0,0,0
-Kenedy,6,Proposition 6,,,YES,1,0,1
+Kenedy,6,Proposition 6,,,YES,1,1,0
 Kenedy,6,Proposition 6,,,Over Votes,0,0,0
 Kenedy,6,Proposition 6,,,Under Votes,0,0,0
 Kenedy,6,Proposition 6,,,NO,0,0,0
 Kenedy,6,Proposition 7,,,YES,0,0,0
 Kenedy,6,Proposition 7,,,Over Votes,0,0,0
 Kenedy,6,Proposition 7,,,Under Votes,0,0,0
-Kenedy,6,Proposition 7,,,NO,1,0,1
-Kenedy,6,Proposition 8,,,YES,1,0,1
+Kenedy,6,Proposition 7,,,NO,1,1,0
+Kenedy,6,Proposition 8,,,YES,1,1,0
 Kenedy,6,Proposition 8,,,Over Votes,0,0,0
 Kenedy,6,Proposition 8,,,Under Votes,0,0,0
 Kenedy,6,Proposition 8,,,NO,0,0,0
-Kenedy,6,Proposition 9,,,YES,1,0,1
+Kenedy,6,Proposition 9,,,YES,1,1,0
 Kenedy,6,Proposition 9,,,Over Votes,0,0,0
 Kenedy,6,Proposition 9,,,Under Votes,0,0,0
 Kenedy,6,Proposition 9,,,NO,0,0,0
-Kenedy,6,Proposition 10,,,YES,1,0,1
+Kenedy,6,Proposition 10,,,YES,1,1,0
 Kenedy,6,Proposition 10,,,Over Votes,0,0,0
 Kenedy,6,Proposition 10,,,Under Votes,0,0,0
 Kenedy,6,Proposition 10,,,NO,0,0,0
 Kenedy,6,Proposition 11,,,YES,0,0,0
 Kenedy,6,Proposition 11,,,Over Votes,0,0,0
 Kenedy,6,Proposition 11,,,Under Votes,0,0,0
-Kenedy,6,Proposition 11,,,NO,1,0,1
+Kenedy,6,Proposition 11,,,NO,1,1,0

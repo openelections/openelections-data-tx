@@ -1,628 +1,628 @@
-county,precinct,office,district,party,candidate,early_voting,election_day,votes
-Panola,1,Registered Voters,,,,,,1955
-Panola,2,Registered Voters,,,,,,2227
-Panola,3,Registered Voters,,,,,,1304
-Panola,5,Registered Voters,,,,,,450
-Panola,7,Registered Voters,,,,,,800
-Panola,8,Registered Voters,,,,,,247
-Panola,9,Registered Voters,,,,,,723
-Panola,10,Registered Voters,,,,,,375
-Panola,12,Registered Voters,,,,,,397
-Panola,13,Registered Voters,,,,,,339
-Panola,14,Registered Voters,,,,,,457
-Panola,18,Registered Voters,,,,,,2008
-Panola,19,Registered Voters,,,,,,328
-Panola,20,Registered Voters,,,,,,307
-Panola,22,Registered Voters,,,,,,370
-Panola,26,Registered Voters,,,,,,178
-Panola,27,Registered Voters,,,,,,1238
-Panola,28,Registered Voters,,,,,,2347
-Panola,29,Registered Voters,,,,,,345
-Panola,1,Ballots Cast,,,,736,303,1039
-Panola,2,Ballots Cast,,,,847,337,1184
-Panola,3,Ballots Cast,,,,366,376,742
-Panola,5,Ballots Cast,,,,121,166,287
-Panola,7,Ballots Cast,,,,120,264,384
-Panola,8,Ballots Cast,,,,55,68,123
-Panola,9,Ballots Cast,,,,101,283,384
-Panola,10,Ballots Cast,,,,94,103,197
-Panola,12,Ballots Cast,,,,106,155,261
-Panola,13,Ballots Cast,,,,90,94,184
-Panola,14,Ballots Cast,,,,128,132,260
-Panola,18,Ballots Cast,,,,706,490,1196
-Panola,19,Ballots Cast,,,,70,121,191
-Panola,20,Ballots Cast,,,,105,75,180
-Panola,22,Ballots Cast,,,,83,102,185
-Panola,26,Ballots Cast,,,,40,65,105
-Panola,27,Ballots Cast,,,,338,210,548
-Panola,28,Ballots Cast,,,,810,318,1128
-Panola,29,Ballots Cast,,,,70,130,200
-Panola,1,Straight Party,,REP,Republican,386,148,534
-Panola,2,Straight Party,,REP,Republican,443,164,607
-Panola,3,Straight Party,,REP,Republican,190,168,358
-Panola,5,Straight Party,,REP,Republican,80,84,164
-Panola,7,Straight Party,,REP,Republican,64,156,220
-Panola,8,Straight Party,,REP,Republican,34,40,74
-Panola,9,Straight Party,,REP,Republican,63,172,235
-Panola,10,Straight Party,,REP,Republican,59,47,106
-Panola,12,Straight Party,,REP,Republican,72,120,192
-Panola,13,Straight Party,,REP,Republican,47,46,93
-Panola,14,Straight Party,,REP,Republican,72,75,147
-Panola,18,Straight Party,,REP,Republican,427,292,719
-Panola,19,Straight Party,,REP,Republican,50,67,117
-Panola,20,Straight Party,,REP,Republican,75,50,125
-Panola,22,Straight Party,,REP,Republican,32,34,66
-Panola,26,Straight Party,,REP,Republican,20,32,52
-Panola,27,Straight Party,,REP,Republican,154,62,216
-Panola,28,Straight Party,,REP,Republican,452,156,608
-Panola,29,Straight Party,,REP,Republican,48,85,133
-Panola,1,Straight Party,,DEM,Democratic,79,62,141
-Panola,2,Straight Party,,DEM,Democratic,79,62,141
-Panola,3,Straight Party,,DEM,Democratic,35,61,96
-Panola,5,Straight Party,,DEM,Democratic,1,19,20
-Panola,7,Straight Party,,DEM,Democratic,21,43,64
-Panola,8,Straight Party,,DEM,Democratic,8,5,13
-Panola,9,Straight Party,,DEM,Democratic,10,20,30
-Panola,10,Straight Party,,DEM,Democratic,13,24,37
-Panola,12,Straight Party,,DEM,Democratic,2,2,4
-Panola,13,Straight Party,,DEM,Democratic,21,10,31
-Panola,14,Straight Party,,DEM,Democratic,4,5,9
-Panola,18,Straight Party,,DEM,Democratic,68,37,105
-Panola,19,Straight Party,,DEM,Democratic,2,6,8
-Panola,20,Straight Party,,DEM,Democratic,1,1,2
-Panola,22,Straight Party,,DEM,Democratic,23,45,68
-Panola,26,Straight Party,,DEM,Democratic,2,16,18
-Panola,27,Straight Party,,DEM,Democratic,84,110,194
-Panola,28,Straight Party,,DEM,Democratic,70,40,110
-Panola,29,Straight Party,,DEM,Democratic,1,4,5
-Panola,1,Straight Party,,LIB,Libertarian,0,1,1
+county,precinct,office,district,party,candidate,votes,election_day,early_voting
+Panola,1,Registered Voters,,,,1955,,
+Panola,2,Registered Voters,,,,2227,,
+Panola,3,Registered Voters,,,,1304,,
+Panola,5,Registered Voters,,,,450,,
+Panola,7,Registered Voters,,,,800,,
+Panola,8,Registered Voters,,,,247,,
+Panola,9,Registered Voters,,,,723,,
+Panola,10,Registered Voters,,,,375,,
+Panola,12,Registered Voters,,,,397,,
+Panola,13,Registered Voters,,,,339,,
+Panola,14,Registered Voters,,,,457,,
+Panola,18,Registered Voters,,,,2008,,
+Panola,19,Registered Voters,,,,328,,
+Panola,20,Registered Voters,,,,307,,
+Panola,22,Registered Voters,,,,370,,
+Panola,26,Registered Voters,,,,178,,
+Panola,27,Registered Voters,,,,1238,,
+Panola,28,Registered Voters,,,,2347,,
+Panola,29,Registered Voters,,,,345,,
+Panola,1,Ballots Cast,,,,1039,303,736
+Panola,2,Ballots Cast,,,,1184,337,847
+Panola,3,Ballots Cast,,,,742,376,366
+Panola,5,Ballots Cast,,,,287,166,121
+Panola,7,Ballots Cast,,,,384,264,120
+Panola,8,Ballots Cast,,,,123,68,55
+Panola,9,Ballots Cast,,,,384,283,101
+Panola,10,Ballots Cast,,,,197,103,94
+Panola,12,Ballots Cast,,,,261,155,106
+Panola,13,Ballots Cast,,,,184,94,90
+Panola,14,Ballots Cast,,,,260,132,128
+Panola,18,Ballots Cast,,,,1196,490,706
+Panola,19,Ballots Cast,,,,191,121,70
+Panola,20,Ballots Cast,,,,180,75,105
+Panola,22,Ballots Cast,,,,185,102,83
+Panola,26,Ballots Cast,,,,105,65,40
+Panola,27,Ballots Cast,,,,548,210,338
+Panola,28,Ballots Cast,,,,1128,318,810
+Panola,29,Ballots Cast,,,,200,130,70
+Panola,1,Straight Party,,REP,Republican,534,148,386
+Panola,2,Straight Party,,REP,Republican,607,164,443
+Panola,3,Straight Party,,REP,Republican,358,168,190
+Panola,5,Straight Party,,REP,Republican,164,84,80
+Panola,7,Straight Party,,REP,Republican,220,156,64
+Panola,8,Straight Party,,REP,Republican,74,40,34
+Panola,9,Straight Party,,REP,Republican,235,172,63
+Panola,10,Straight Party,,REP,Republican,106,47,59
+Panola,12,Straight Party,,REP,Republican,192,120,72
+Panola,13,Straight Party,,REP,Republican,93,46,47
+Panola,14,Straight Party,,REP,Republican,147,75,72
+Panola,18,Straight Party,,REP,Republican,719,292,427
+Panola,19,Straight Party,,REP,Republican,117,67,50
+Panola,20,Straight Party,,REP,Republican,125,50,75
+Panola,22,Straight Party,,REP,Republican,66,34,32
+Panola,26,Straight Party,,REP,Republican,52,32,20
+Panola,27,Straight Party,,REP,Republican,216,62,154
+Panola,28,Straight Party,,REP,Republican,608,156,452
+Panola,29,Straight Party,,REP,Republican,133,85,48
+Panola,1,Straight Party,,DEM,Democratic,141,62,79
+Panola,2,Straight Party,,DEM,Democratic,141,62,79
+Panola,3,Straight Party,,DEM,Democratic,96,61,35
+Panola,5,Straight Party,,DEM,Democratic,20,19,1
+Panola,7,Straight Party,,DEM,Democratic,64,43,21
+Panola,8,Straight Party,,DEM,Democratic,13,5,8
+Panola,9,Straight Party,,DEM,Democratic,30,20,10
+Panola,10,Straight Party,,DEM,Democratic,37,24,13
+Panola,12,Straight Party,,DEM,Democratic,4,2,2
+Panola,13,Straight Party,,DEM,Democratic,31,10,21
+Panola,14,Straight Party,,DEM,Democratic,9,5,4
+Panola,18,Straight Party,,DEM,Democratic,105,37,68
+Panola,19,Straight Party,,DEM,Democratic,8,6,2
+Panola,20,Straight Party,,DEM,Democratic,2,1,1
+Panola,22,Straight Party,,DEM,Democratic,68,45,23
+Panola,26,Straight Party,,DEM,Democratic,18,16,2
+Panola,27,Straight Party,,DEM,Democratic,194,110,84
+Panola,28,Straight Party,,DEM,Democratic,110,40,70
+Panola,29,Straight Party,,DEM,Democratic,5,4,1
+Panola,1,Straight Party,,LIB,Libertarian,1,1,0
 Panola,2,Straight Party,,LIB,Libertarian,0,0,0
-Panola,3,Straight Party,,LIB,Libertarian,0,1,1
+Panola,3,Straight Party,,LIB,Libertarian,1,1,0
 Panola,5,Straight Party,,LIB,Libertarian,0,0,0
-Panola,7,Straight Party,,LIB,Libertarian,0,1,1
-Panola,8,Straight Party,,LIB,Libertarian,1,1,2
-Panola,9,Straight Party,,LIB,Libertarian,0,1,1
-Panola,10,Straight Party,,LIB,Libertarian,0,1,1
-Panola,12,Straight Party,,LIB,Libertarian,0,1,1
+Panola,7,Straight Party,,LIB,Libertarian,1,1,0
+Panola,8,Straight Party,,LIB,Libertarian,2,1,1
+Panola,9,Straight Party,,LIB,Libertarian,1,1,0
+Panola,10,Straight Party,,LIB,Libertarian,1,1,0
+Panola,12,Straight Party,,LIB,Libertarian,1,1,0
 Panola,13,Straight Party,,LIB,Libertarian,0,0,0
 Panola,14,Straight Party,,LIB,Libertarian,0,0,0
 Panola,18,Straight Party,,LIB,Libertarian,0,0,0
 Panola,19,Straight Party,,LIB,Libertarian,0,0,0
 Panola,20,Straight Party,,LIB,Libertarian,0,0,0
-Panola,22,Straight Party,,LIB,Libertarian,0,1,1
+Panola,22,Straight Party,,LIB,Libertarian,1,1,0
 Panola,26,Straight Party,,LIB,Libertarian,1,0,1
 Panola,27,Straight Party,,LIB,Libertarian,0,0,0
-Panola,28,Straight Party,,LIB,Libertarian,0,1,1
+Panola,28,Straight Party,,LIB,Libertarian,1,1,0
 Panola,29,Straight Party,,LIB,Libertarian,1,0,1
-Panola,1,U.S. Senate,,REP,Ted Cruz,614,218,832
-Panola,2,U.S. Senate,,REP,Ted Cruz,700,252,952
-Panola,3,U.S. Senate,,REP,Ted Cruz,309,273,582
-Panola,5,U.S. Senate,,REP,Ted Cruz,115,144,259
-Panola,7,U.S. Senate,,REP,Ted Cruz,88,213,301
-Panola,8,U.S. Senate,,REP,Ted Cruz,44,58,102
-Panola,9,U.S. Senate,,REP,Ted Cruz,85,248,333
-Panola,10,U.S. Senate,,REP,Ted Cruz,73,75,148
-Panola,12,U.S. Senate,,REP,Ted Cruz,102,148,250
-Panola,13,U.S. Senate,,REP,Ted Cruz,63,75,138
-Panola,14,U.S. Senate,,REP,Ted Cruz,118,120,238
-Panola,18,U.S. Senate,,REP,Ted Cruz,590,423,1013
-Panola,19,U.S. Senate,,REP,Ted Cruz,66,113,179
-Panola,20,U.S. Senate,,REP,Ted Cruz,103,75,178
-Panola,22,U.S. Senate,,REP,Ted Cruz,53,47,100
-Panola,26,U.S. Senate,,REP,Ted Cruz,32,42,74
-Panola,27,U.S. Senate,,REP,Ted Cruz,232,79,311
-Panola,28,U.S. Senate,,REP,Ted Cruz,691,248,939
-Panola,29,U.S. Senate,,REP,Ted Cruz,68,123,191
-Panola,1,U.S. Senate,,DEM,Beto O'Rourke,120,81,201
-Panola,2,U.S. Senate,,DEM,Beto O'Rourke,139,83,222
-Panola,3,U.S. Senate,,DEM,Beto O'Rourke,56,100,156
-Panola,5,U.S. Senate,,DEM,Beto O'Rourke,5,22,27
-Panola,7,U.S. Senate,,DEM,Beto O'Rourke,30,49,79
-Panola,8,U.S. Senate,,DEM,Beto O'Rourke,9,10,19
-Panola,9,U.S. Senate,,DEM,Beto O'Rourke,16,34,50
-Panola,10,U.S. Senate,,DEM,Beto O'Rourke,21,27,48
-Panola,12,U.S. Senate,,DEM,Beto O'Rourke,4,4,8
-Panola,13,U.S. Senate,,DEM,Beto O'Rourke,27,19,46
-Panola,14,U.S. Senate,,DEM,Beto O'Rourke,10,10,20
-Panola,18,U.S. Senate,,DEM,Beto O'Rourke,111,65,176
-Panola,19,U.S. Senate,,DEM,Beto O'Rourke,4,6,10
+Panola,1,U.S. Senate,,REP,Ted Cruz,832,218,614
+Panola,2,U.S. Senate,,REP,Ted Cruz,952,252,700
+Panola,3,U.S. Senate,,REP,Ted Cruz,582,273,309
+Panola,5,U.S. Senate,,REP,Ted Cruz,259,144,115
+Panola,7,U.S. Senate,,REP,Ted Cruz,301,213,88
+Panola,8,U.S. Senate,,REP,Ted Cruz,102,58,44
+Panola,9,U.S. Senate,,REP,Ted Cruz,333,248,85
+Panola,10,U.S. Senate,,REP,Ted Cruz,148,75,73
+Panola,12,U.S. Senate,,REP,Ted Cruz,250,148,102
+Panola,13,U.S. Senate,,REP,Ted Cruz,138,75,63
+Panola,14,U.S. Senate,,REP,Ted Cruz,238,120,118
+Panola,18,U.S. Senate,,REP,Ted Cruz,1013,423,590
+Panola,19,U.S. Senate,,REP,Ted Cruz,179,113,66
+Panola,20,U.S. Senate,,REP,Ted Cruz,178,75,103
+Panola,22,U.S. Senate,,REP,Ted Cruz,100,47,53
+Panola,26,U.S. Senate,,REP,Ted Cruz,74,42,32
+Panola,27,U.S. Senate,,REP,Ted Cruz,311,79,232
+Panola,28,U.S. Senate,,REP,Ted Cruz,939,248,691
+Panola,29,U.S. Senate,,REP,Ted Cruz,191,123,68
+Panola,1,U.S. Senate,,DEM,Beto O'Rourke,201,81,120
+Panola,2,U.S. Senate,,DEM,Beto O'Rourke,222,83,139
+Panola,3,U.S. Senate,,DEM,Beto O'Rourke,156,100,56
+Panola,5,U.S. Senate,,DEM,Beto O'Rourke,27,22,5
+Panola,7,U.S. Senate,,DEM,Beto O'Rourke,79,49,30
+Panola,8,U.S. Senate,,DEM,Beto O'Rourke,19,10,9
+Panola,9,U.S. Senate,,DEM,Beto O'Rourke,50,34,16
+Panola,10,U.S. Senate,,DEM,Beto O'Rourke,48,27,21
+Panola,12,U.S. Senate,,DEM,Beto O'Rourke,8,4,4
+Panola,13,U.S. Senate,,DEM,Beto O'Rourke,46,19,27
+Panola,14,U.S. Senate,,DEM,Beto O'Rourke,20,10,10
+Panola,18,U.S. Senate,,DEM,Beto O'Rourke,176,65,111
+Panola,19,U.S. Senate,,DEM,Beto O'Rourke,10,6,4
 Panola,20,U.S. Senate,,DEM,Beto O'Rourke,2,0,2
-Panola,22,U.S. Senate,,DEM,Beto O'Rourke,30,54,84
-Panola,26,U.S. Senate,,DEM,Beto O'Rourke,8,21,29
-Panola,27,U.S. Senate,,DEM,Beto O'Rourke,104,126,230
-Panola,28,U.S. Senate,,DEM,Beto O'Rourke,115,68,183
-Panola,29,U.S. Senate,,DEM,Beto O'Rourke,2,6,8
-Panola,1,U.S. Senate,,LIB,Neal Dikeman,1,2,3
-Panola,2,U.S. Senate,,LIB,Neal Dikeman,2,1,3
-Panola,3,U.S. Senate,,LIB,Neal Dikeman,0,2,2
+Panola,22,U.S. Senate,,DEM,Beto O'Rourke,84,54,30
+Panola,26,U.S. Senate,,DEM,Beto O'Rourke,29,21,8
+Panola,27,U.S. Senate,,DEM,Beto O'Rourke,230,126,104
+Panola,28,U.S. Senate,,DEM,Beto O'Rourke,183,68,115
+Panola,29,U.S. Senate,,DEM,Beto O'Rourke,8,6,2
+Panola,1,U.S. Senate,,LIB,Neal Dikeman,3,2,1
+Panola,2,U.S. Senate,,LIB,Neal Dikeman,3,1,2
+Panola,3,U.S. Senate,,LIB,Neal Dikeman,2,2,0
 Panola,5,U.S. Senate,,LIB,Neal Dikeman,0,0,0
-Panola,7,U.S. Senate,,LIB,Neal Dikeman,2,2,4
+Panola,7,U.S. Senate,,LIB,Neal Dikeman,4,2,2
 Panola,8,U.S. Senate,,LIB,Neal Dikeman,1,0,1
-Panola,9,U.S. Senate,,LIB,Neal Dikeman,0,1,1
-Panola,10,U.S. Senate,,LIB,Neal Dikeman,0,1,1
-Panola,12,U.S. Senate,,LIB,Neal Dikeman,0,2,2
+Panola,9,U.S. Senate,,LIB,Neal Dikeman,1,1,0
+Panola,10,U.S. Senate,,LIB,Neal Dikeman,1,1,0
+Panola,12,U.S. Senate,,LIB,Neal Dikeman,2,2,0
 Panola,13,U.S. Senate,,LIB,Neal Dikeman,0,0,0
-Panola,14,U.S. Senate,,LIB,Neal Dikeman,0,1,1
-Panola,18,U.S. Senate,,LIB,Neal Dikeman,4,2,6
-Panola,19,U.S. Senate,,LIB,Neal Dikeman,0,2,2
+Panola,14,U.S. Senate,,LIB,Neal Dikeman,1,1,0
+Panola,18,U.S. Senate,,LIB,Neal Dikeman,6,2,4
+Panola,19,U.S. Senate,,LIB,Neal Dikeman,2,2,0
 Panola,20,U.S. Senate,,LIB,Neal Dikeman,0,0,0
-Panola,22,U.S. Senate,,LIB,Neal Dikeman,0,1,1
-Panola,26,U.S. Senate,,LIB,Neal Dikeman,0,1,1
+Panola,22,U.S. Senate,,LIB,Neal Dikeman,1,1,0
+Panola,26,U.S. Senate,,LIB,Neal Dikeman,1,1,0
 Panola,27,U.S. Senate,,LIB,Neal Dikeman,1,0,1
 Panola,28,U.S. Senate,,LIB,Neal Dikeman,1,0,1
-Panola,29,U.S. Senate,,LIB,Neal Dikeman,0,1,1
-Panola,1,U.S. House,1,REP,Louie Gohmert,617,215,832
-Panola,2,U.S. House,1,REP,Louie Gohmert,702,254,956
-Panola,3,U.S. House,1,REP,Louie Gohmert,308,271,579
-Panola,5,U.S. House,1,REP,Louie Gohmert,114,143,257
-Panola,7,U.S. House,1,REP,Louie Gohmert,89,209,298
-Panola,8,U.S. House,1,REP,Louie Gohmert,46,58,104
-Panola,9,U.S. House,1,REP,Louie Gohmert,82,245,327
-Panola,10,U.S. House,1,REP,Louie Gohmert,75,73,148
-Panola,12,U.S. House,1,REP,Louie Gohmert,103,148,251
-Panola,13,U.S. House,1,REP,Louie Gohmert,62,73,135
-Panola,14,U.S. House,1,REP,Louie Gohmert,118,120,238
-Panola,18,U.S. House,1,REP,Louie Gohmert,590,425,1015
-Panola,19,U.S. House,1,REP,Louie Gohmert,65,114,179
-Panola,20,U.S. House,1,REP,Louie Gohmert,102,74,176
-Panola,22,U.S. House,1,REP,Louie Gohmert,52,48,100
-Panola,26,U.S. House,1,REP,Louie Gohmert,32,42,74
-Panola,27,U.S. House,1,REP,Louie Gohmert,227,81,308
-Panola,28,U.S. House,1,REP,Louie Gohmert,690,250,940
-Panola,29,U.S. House,1,REP,Louie Gohmert,67,121,188
-Panola,1,U.S. House,1,DEM,Shirley J. McKellar,112,80,192
-Panola,2,U.S. House,1,DEM,Shirley J. McKellar,134,78,212
-Panola,3,U.S. House,1,DEM,Shirley J. McKellar,53,101,154
-Panola,5,U.S. House,1,DEM,Shirley J. McKellar,4,22,26
-Panola,7,U.S. House,1,DEM,Shirley J. McKellar,29,47,76
-Panola,8,U.S. House,1,DEM,Shirley J. McKellar,8,9,17
-Panola,9,U.S. House,1,DEM,Shirley J. McKellar,17,35,52
-Panola,10,U.S. House,1,DEM,Shirley J. McKellar,19,28,47
-Panola,12,U.S. House,1,DEM,Shirley J. McKellar,2,4,6
-Panola,13,U.S. House,1,DEM,Shirley J. McKellar,27,19,46
-Panola,14,U.S. House,1,DEM,Shirley J. McKellar,10,8,18
-Panola,18,U.S. House,1,DEM,Shirley J. McKellar,110,63,173
-Panola,19,U.S. House,1,DEM,Shirley J. McKellar,5,7,12
-Panola,20,U.S. House,1,DEM,Shirley J. McKellar,1,1,2
-Panola,22,U.S. House,1,DEM,Shirley J. McKellar,31,53,84
-Panola,26,U.S. House,1,DEM,Shirley J. McKellar,8,22,30
-Panola,27,U.S. House,1,DEM,Shirley J. McKellar,105,126,231
-Panola,28,U.S. House,1,DEM,Shirley J. McKellar,109,62,171
-Panola,29,U.S. House,1,DEM,Shirley J. McKellar,3,7,10
-Panola,1,U.S. House,1,LIB,Jeff Callaway,6,4,10
-Panola,2,U.S. House,1,LIB,Jeff Callaway,4,3,7
-Panola,3,U.S. House,1,LIB,Jeff Callaway,2,3,5
-Panola,5,U.S. House,1,LIB,Jeff Callaway,3,1,4
-Panola,7,U.S. House,1,LIB,Jeff Callaway,2,6,8
-Panola,8,U.S. House,1,LIB,Jeff Callaway,1,1,2
-Panola,9,U.S. House,1,LIB,Jeff Callaway,1,2,3
-Panola,10,U.S. House,1,LIB,Jeff Callaway,0,2,2
-Panola,12,U.S. House,1,LIB,Jeff Callaway,1,2,3
+Panola,29,U.S. Senate,,LIB,Neal Dikeman,1,1,0
+Panola,1,U.S. House,1,REP,Louie Gohmert,832,215,617
+Panola,2,U.S. House,1,REP,Louie Gohmert,956,254,702
+Panola,3,U.S. House,1,REP,Louie Gohmert,579,271,308
+Panola,5,U.S. House,1,REP,Louie Gohmert,257,143,114
+Panola,7,U.S. House,1,REP,Louie Gohmert,298,209,89
+Panola,8,U.S. House,1,REP,Louie Gohmert,104,58,46
+Panola,9,U.S. House,1,REP,Louie Gohmert,327,245,82
+Panola,10,U.S. House,1,REP,Louie Gohmert,148,73,75
+Panola,12,U.S. House,1,REP,Louie Gohmert,251,148,103
+Panola,13,U.S. House,1,REP,Louie Gohmert,135,73,62
+Panola,14,U.S. House,1,REP,Louie Gohmert,238,120,118
+Panola,18,U.S. House,1,REP,Louie Gohmert,1015,425,590
+Panola,19,U.S. House,1,REP,Louie Gohmert,179,114,65
+Panola,20,U.S. House,1,REP,Louie Gohmert,176,74,102
+Panola,22,U.S. House,1,REP,Louie Gohmert,100,48,52
+Panola,26,U.S. House,1,REP,Louie Gohmert,74,42,32
+Panola,27,U.S. House,1,REP,Louie Gohmert,308,81,227
+Panola,28,U.S. House,1,REP,Louie Gohmert,940,250,690
+Panola,29,U.S. House,1,REP,Louie Gohmert,188,121,67
+Panola,1,U.S. House,1,DEM,Shirley J. McKellar,192,80,112
+Panola,2,U.S. House,1,DEM,Shirley J. McKellar,212,78,134
+Panola,3,U.S. House,1,DEM,Shirley J. McKellar,154,101,53
+Panola,5,U.S. House,1,DEM,Shirley J. McKellar,26,22,4
+Panola,7,U.S. House,1,DEM,Shirley J. McKellar,76,47,29
+Panola,8,U.S. House,1,DEM,Shirley J. McKellar,17,9,8
+Panola,9,U.S. House,1,DEM,Shirley J. McKellar,52,35,17
+Panola,10,U.S. House,1,DEM,Shirley J. McKellar,47,28,19
+Panola,12,U.S. House,1,DEM,Shirley J. McKellar,6,4,2
+Panola,13,U.S. House,1,DEM,Shirley J. McKellar,46,19,27
+Panola,14,U.S. House,1,DEM,Shirley J. McKellar,18,8,10
+Panola,18,U.S. House,1,DEM,Shirley J. McKellar,173,63,110
+Panola,19,U.S. House,1,DEM,Shirley J. McKellar,12,7,5
+Panola,20,U.S. House,1,DEM,Shirley J. McKellar,2,1,1
+Panola,22,U.S. House,1,DEM,Shirley J. McKellar,84,53,31
+Panola,26,U.S. House,1,DEM,Shirley J. McKellar,30,22,8
+Panola,27,U.S. House,1,DEM,Shirley J. McKellar,231,126,105
+Panola,28,U.S. House,1,DEM,Shirley J. McKellar,171,62,109
+Panola,29,U.S. House,1,DEM,Shirley J. McKellar,10,7,3
+Panola,1,U.S. House,1,LIB,Jeff Callaway,10,4,6
+Panola,2,U.S. House,1,LIB,Jeff Callaway,7,3,4
+Panola,3,U.S. House,1,LIB,Jeff Callaway,5,3,2
+Panola,5,U.S. House,1,LIB,Jeff Callaway,4,1,3
+Panola,7,U.S. House,1,LIB,Jeff Callaway,8,6,2
+Panola,8,U.S. House,1,LIB,Jeff Callaway,2,1,1
+Panola,9,U.S. House,1,LIB,Jeff Callaway,3,2,1
+Panola,10,U.S. House,1,LIB,Jeff Callaway,2,2,0
+Panola,12,U.S. House,1,LIB,Jeff Callaway,3,2,1
 Panola,13,U.S. House,1,LIB,Jeff Callaway,1,0,1
-Panola,14,U.S. House,1,LIB,Jeff Callaway,0,2,2
-Panola,18,U.S. House,1,LIB,Jeff Callaway,4,2,6
+Panola,14,U.S. House,1,LIB,Jeff Callaway,2,2,0
+Panola,18,U.S. House,1,LIB,Jeff Callaway,6,2,4
 Panola,19,U.S. House,1,LIB,Jeff Callaway,0,0,0
 Panola,20,U.S. House,1,LIB,Jeff Callaway,1,0,1
-Panola,22,U.S. House,1,LIB,Jeff Callaway,0,1,1
+Panola,22,U.S. House,1,LIB,Jeff Callaway,1,1,0
 Panola,26,U.S. House,1,LIB,Jeff Callaway,0,0,0
 Panola,27,U.S. House,1,LIB,Jeff Callaway,0,0,0
-Panola,28,U.S. House,1,LIB,Jeff Callaway,4,2,6
-Panola,29,U.S. House,1,LIB,Jeff Callaway,0,2,2
-Panola,1,Governor,,REP,Greg Abbott,619,217,836
-Panola,2,Governor,,REP,Greg Abbott,706,258,964
-Panola,3,Governor,,REP,Greg Abbott,312,274,586
-Panola,5,Governor,,REP,Greg Abbott,115,145,260
-Panola,7,Governor,,REP,Greg Abbott,91,212,303
-Panola,8,Governor,,REP,Greg Abbott,46,60,106
-Panola,9,Governor,,REP,Greg Abbott,81,254,335
-Panola,10,Governor,,REP,Greg Abbott,73,72,145
-Panola,12,Governor,,REP,Greg Abbott,102,148,250
-Panola,13,Governor,,REP,Greg Abbott,62,76,138
-Panola,14,Governor,,REP,Greg Abbott,117,123,240
-Panola,18,Governor,,REP,Greg Abbott,595,428,1023
-Panola,19,Governor,,REP,Greg Abbott,64,113,177
-Panola,20,Governor,,REP,Greg Abbott,103,75,178
-Panola,22,Governor,,REP,Greg Abbott,55,51,106
-Panola,26,Governor,,REP,Greg Abbott,32,43,75
-Panola,27,Governor,,REP,Greg Abbott,236,85,321
-Panola,28,Governor,,REP,Greg Abbott,692,255,947
-Panola,29,Governor,,REP,Greg Abbott,68,124,192
-Panola,1,Governor,,DEM,Lupe Valdez,109,78,187
-Panola,2,Governor,,DEM,Lupe Valdez,127,75,202
-Panola,3,Governor,,DEM,Lupe Valdez,51,98,149
-Panola,5,Governor,,DEM,Lupe Valdez,5,20,25
-Panola,7,Governor,,DEM,Lupe Valdez,28,46,74
-Panola,8,Governor,,DEM,Lupe Valdez,8,8,16
-Panola,9,Governor,,DEM,Lupe Valdez,19,27,46
-Panola,10,Governor,,DEM,Lupe Valdez,20,27,47
-Panola,12,Governor,,DEM,Lupe Valdez,3,4,7
-Panola,13,Governor,,DEM,Lupe Valdez,27,18,45
-Panola,14,Governor,,DEM,Lupe Valdez,11,6,17
-Panola,18,Governor,,DEM,Lupe Valdez,107,59,166
-Panola,19,Governor,,DEM,Lupe Valdez,5,7,12
+Panola,28,U.S. House,1,LIB,Jeff Callaway,6,2,4
+Panola,29,U.S. House,1,LIB,Jeff Callaway,2,2,0
+Panola,1,Governor,,REP,Greg Abbott,836,217,619
+Panola,2,Governor,,REP,Greg Abbott,964,258,706
+Panola,3,Governor,,REP,Greg Abbott,586,274,312
+Panola,5,Governor,,REP,Greg Abbott,260,145,115
+Panola,7,Governor,,REP,Greg Abbott,303,212,91
+Panola,8,Governor,,REP,Greg Abbott,106,60,46
+Panola,9,Governor,,REP,Greg Abbott,335,254,81
+Panola,10,Governor,,REP,Greg Abbott,145,72,73
+Panola,12,Governor,,REP,Greg Abbott,250,148,102
+Panola,13,Governor,,REP,Greg Abbott,138,76,62
+Panola,14,Governor,,REP,Greg Abbott,240,123,117
+Panola,18,Governor,,REP,Greg Abbott,1023,428,595
+Panola,19,Governor,,REP,Greg Abbott,177,113,64
+Panola,20,Governor,,REP,Greg Abbott,178,75,103
+Panola,22,Governor,,REP,Greg Abbott,106,51,55
+Panola,26,Governor,,REP,Greg Abbott,75,43,32
+Panola,27,Governor,,REP,Greg Abbott,321,85,236
+Panola,28,Governor,,REP,Greg Abbott,947,255,692
+Panola,29,Governor,,REP,Greg Abbott,192,124,68
+Panola,1,Governor,,DEM,Lupe Valdez,187,78,109
+Panola,2,Governor,,DEM,Lupe Valdez,202,75,127
+Panola,3,Governor,,DEM,Lupe Valdez,149,98,51
+Panola,5,Governor,,DEM,Lupe Valdez,25,20,5
+Panola,7,Governor,,DEM,Lupe Valdez,74,46,28
+Panola,8,Governor,,DEM,Lupe Valdez,16,8,8
+Panola,9,Governor,,DEM,Lupe Valdez,46,27,19
+Panola,10,Governor,,DEM,Lupe Valdez,47,27,20
+Panola,12,Governor,,DEM,Lupe Valdez,7,4,3
+Panola,13,Governor,,DEM,Lupe Valdez,45,18,27
+Panola,14,Governor,,DEM,Lupe Valdez,17,6,11
+Panola,18,Governor,,DEM,Lupe Valdez,166,59,107
+Panola,19,Governor,,DEM,Lupe Valdez,12,7,5
 Panola,20,Governor,,DEM,Lupe Valdez,2,0,2
-Panola,22,Governor,,DEM,Lupe Valdez,28,48,76
-Panola,26,Governor,,DEM,Lupe Valdez,7,20,27
-Panola,27,Governor,,DEM,Lupe Valdez,100,123,223
-Panola,28,Governor,,DEM,Lupe Valdez,111,54,165
-Panola,29,Governor,,DEM,Lupe Valdez,2,6,8
-Panola,1,Governor,,LIB,Mark Jay Tippetts,6,7,13
-Panola,2,Governor,,LIB,Mark Jay Tippetts,7,3,10
-Panola,3,Governor,,LIB,Mark Jay Tippetts,0,3,3
-Panola,5,Governor,,LIB,Mark Jay Tippetts,0,1,1
-Panola,7,Governor,,LIB,Mark Jay Tippetts,1,4,5
+Panola,22,Governor,,DEM,Lupe Valdez,76,48,28
+Panola,26,Governor,,DEM,Lupe Valdez,27,20,7
+Panola,27,Governor,,DEM,Lupe Valdez,223,123,100
+Panola,28,Governor,,DEM,Lupe Valdez,165,54,111
+Panola,29,Governor,,DEM,Lupe Valdez,8,6,2
+Panola,1,Governor,,LIB,Mark Jay Tippetts,13,7,6
+Panola,2,Governor,,LIB,Mark Jay Tippetts,10,3,7
+Panola,3,Governor,,LIB,Mark Jay Tippetts,3,3,0
+Panola,5,Governor,,LIB,Mark Jay Tippetts,1,1,0
+Panola,7,Governor,,LIB,Mark Jay Tippetts,5,4,1
 Panola,8,Governor,,LIB,Mark Jay Tippetts,1,0,1
-Panola,9,Governor,,LIB,Mark Jay Tippetts,0,2,2
-Panola,10,Governor,,LIB,Mark Jay Tippetts,0,3,3
-Panola,12,Governor,,LIB,Mark Jay Tippetts,1,2,3
+Panola,9,Governor,,LIB,Mark Jay Tippetts,2,2,0
+Panola,10,Governor,,LIB,Mark Jay Tippetts,3,3,0
+Panola,12,Governor,,LIB,Mark Jay Tippetts,3,2,1
 Panola,13,Governor,,LIB,Mark Jay Tippetts,0,0,0
-Panola,14,Governor,,LIB,Mark Jay Tippetts,0,1,1
-Panola,18,Governor,,LIB,Mark Jay Tippetts,3,2,5
-Panola,19,Governor,,LIB,Mark Jay Tippetts,1,1,2
+Panola,14,Governor,,LIB,Mark Jay Tippetts,1,1,0
+Panola,18,Governor,,LIB,Mark Jay Tippetts,5,2,3
+Panola,19,Governor,,LIB,Mark Jay Tippetts,2,1,1
 Panola,20,Governor,,LIB,Mark Jay Tippetts,0,0,0
-Panola,22,Governor,,LIB,Mark Jay Tippetts,0,3,3
+Panola,22,Governor,,LIB,Mark Jay Tippetts,3,3,0
 Panola,26,Governor,,LIB,Mark Jay Tippetts,1,0,1
 Panola,27,Governor,,LIB,Mark Jay Tippetts,0,0,0
-Panola,28,Governor,,LIB,Mark Jay Tippetts,3,5,8
+Panola,28,Governor,,LIB,Mark Jay Tippetts,8,5,3
 Panola,29,Governor,,LIB,Mark Jay Tippetts,0,0,0
-Panola,1,Lieutenant Governor,,REP,Dan Patrick,550,199,749
-Panola,2,Lieutenant Governor,,REP,Dan Patrick,637,225,862
-Panola,3,Lieutenant Governor,,REP,Dan Patrick,262,234,496
-Panola,5,Lieutenant Governor,,REP,Dan Patrick,105,123,228
-Panola,7,Lieutenant Governor,,REP,Dan Patrick,84,202,286
-Panola,8,Lieutenant Governor,,REP,Dan Patrick,45,55,100
-Panola,9,Lieutenant Governor,,REP,Dan Patrick,80,237,317
-Panola,10,Lieutenant Governor,,REP,Dan Patrick,71,72,143
-Panola,12,Lieutenant Governor,,REP,Dan Patrick,96,143,239
-Panola,13,Lieutenant Governor,,REP,Dan Patrick,62,68,130
-Panola,14,Lieutenant Governor,,REP,Dan Patrick,111,109,220
-Panola,18,Lieutenant Governor,,REP,Dan Patrick,560,398,958
-Panola,19,Lieutenant Governor,,REP,Dan Patrick,61,111,172
-Panola,20,Lieutenant Governor,,REP,Dan Patrick,95,68,163
-Panola,22,Lieutenant Governor,,REP,Dan Patrick,47,43,90
-Panola,26,Lieutenant Governor,,REP,Dan Patrick,29,38,67
-Panola,27,Lieutenant Governor,,REP,Dan Patrick,218,77,295
-Panola,28,Lieutenant Governor,,REP,Dan Patrick,619,224,843
-Panola,29,Lieutenant Governor,,REP,Dan Patrick,67,120,187
-Panola,1,Lieutenant Governor,,DEM,Mike Collier,169,99,268
-Panola,2,Lieutenant Governor,,DEM,Mike Collier,188,105,293
-Panola,3,Lieutenant Governor,,DEM,Mike Collier,94,134,228
-Panola,5,Lieutenant Governor,,DEM,Mike Collier,16,39,55
-Panola,7,Lieutenant Governor,,DEM,Mike Collier,33,59,92
-Panola,8,Lieutenant Governor,,DEM,Mike Collier,9,10,19
-Panola,9,Lieutenant Governor,,DEM,Mike Collier,20,40,60
-Panola,10,Lieutenant Governor,,DEM,Mike Collier,21,29,50
-Panola,12,Lieutenant Governor,,DEM,Mike Collier,9,6,15
-Panola,13,Lieutenant Governor,,DEM,Mike Collier,27,25,52
-Panola,14,Lieutenant Governor,,DEM,Mike Collier,14,21,35
-Panola,18,Lieutenant Governor,,DEM,Mike Collier,137,74,211
-Panola,19,Lieutenant Governor,,DEM,Mike Collier,8,8,16
-Panola,20,Lieutenant Governor,,DEM,Mike Collier,8,7,15
-Panola,22,Lieutenant Governor,,DEM,Mike Collier,36,55,91
-Panola,26,Lieutenant Governor,,DEM,Mike Collier,11,23,34
-Panola,27,Lieutenant Governor,,DEM,Mike Collier,116,129,245
-Panola,28,Lieutenant Governor,,DEM,Mike Collier,175,77,252
-Panola,29,Lieutenant Governor,,DEM,Mike Collier,2,10,12
-Panola,1,Lieutenant Governor,,LIB,Kerry Douglas McKennon,8,3,11
-Panola,2,Lieutenant Governor,,LIB,Kerry Douglas McKennon,8,5,13
-Panola,3,Lieutenant Governor,,LIB,Kerry Douglas McKennon,5,7,12
-Panola,5,Lieutenant Governor,,LIB,Kerry Douglas McKennon,0,4,4
-Panola,7,Lieutenant Governor,,LIB,Kerry Douglas McKennon,3,2,5
-Panola,8,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,2,3
-Panola,9,Lieutenant Governor,,LIB,Kerry Douglas McKennon,0,4,4
-Panola,10,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,2,3
-Panola,12,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,4,5
-Panola,13,Lieutenant Governor,,LIB,Kerry Douglas McKennon,0,1,1
-Panola,14,Lieutenant Governor,,LIB,Kerry Douglas McKennon,2,1,3
-Panola,18,Lieutenant Governor,,LIB,Kerry Douglas McKennon,8,13,21
-Panola,19,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,2,3
+Panola,1,Lieutenant Governor,,REP,Dan Patrick,749,199,550
+Panola,2,Lieutenant Governor,,REP,Dan Patrick,862,225,637
+Panola,3,Lieutenant Governor,,REP,Dan Patrick,496,234,262
+Panola,5,Lieutenant Governor,,REP,Dan Patrick,228,123,105
+Panola,7,Lieutenant Governor,,REP,Dan Patrick,286,202,84
+Panola,8,Lieutenant Governor,,REP,Dan Patrick,100,55,45
+Panola,9,Lieutenant Governor,,REP,Dan Patrick,317,237,80
+Panola,10,Lieutenant Governor,,REP,Dan Patrick,143,72,71
+Panola,12,Lieutenant Governor,,REP,Dan Patrick,239,143,96
+Panola,13,Lieutenant Governor,,REP,Dan Patrick,130,68,62
+Panola,14,Lieutenant Governor,,REP,Dan Patrick,220,109,111
+Panola,18,Lieutenant Governor,,REP,Dan Patrick,958,398,560
+Panola,19,Lieutenant Governor,,REP,Dan Patrick,172,111,61
+Panola,20,Lieutenant Governor,,REP,Dan Patrick,163,68,95
+Panola,22,Lieutenant Governor,,REP,Dan Patrick,90,43,47
+Panola,26,Lieutenant Governor,,REP,Dan Patrick,67,38,29
+Panola,27,Lieutenant Governor,,REP,Dan Patrick,295,77,218
+Panola,28,Lieutenant Governor,,REP,Dan Patrick,843,224,619
+Panola,29,Lieutenant Governor,,REP,Dan Patrick,187,120,67
+Panola,1,Lieutenant Governor,,DEM,Mike Collier,268,99,169
+Panola,2,Lieutenant Governor,,DEM,Mike Collier,293,105,188
+Panola,3,Lieutenant Governor,,DEM,Mike Collier,228,134,94
+Panola,5,Lieutenant Governor,,DEM,Mike Collier,55,39,16
+Panola,7,Lieutenant Governor,,DEM,Mike Collier,92,59,33
+Panola,8,Lieutenant Governor,,DEM,Mike Collier,19,10,9
+Panola,9,Lieutenant Governor,,DEM,Mike Collier,60,40,20
+Panola,10,Lieutenant Governor,,DEM,Mike Collier,50,29,21
+Panola,12,Lieutenant Governor,,DEM,Mike Collier,15,6,9
+Panola,13,Lieutenant Governor,,DEM,Mike Collier,52,25,27
+Panola,14,Lieutenant Governor,,DEM,Mike Collier,35,21,14
+Panola,18,Lieutenant Governor,,DEM,Mike Collier,211,74,137
+Panola,19,Lieutenant Governor,,DEM,Mike Collier,16,8,8
+Panola,20,Lieutenant Governor,,DEM,Mike Collier,15,7,8
+Panola,22,Lieutenant Governor,,DEM,Mike Collier,91,55,36
+Panola,26,Lieutenant Governor,,DEM,Mike Collier,34,23,11
+Panola,27,Lieutenant Governor,,DEM,Mike Collier,245,129,116
+Panola,28,Lieutenant Governor,,DEM,Mike Collier,252,77,175
+Panola,29,Lieutenant Governor,,DEM,Mike Collier,12,10,2
+Panola,1,Lieutenant Governor,,LIB,Kerry Douglas McKennon,11,3,8
+Panola,2,Lieutenant Governor,,LIB,Kerry Douglas McKennon,13,5,8
+Panola,3,Lieutenant Governor,,LIB,Kerry Douglas McKennon,12,7,5
+Panola,5,Lieutenant Governor,,LIB,Kerry Douglas McKennon,4,4,0
+Panola,7,Lieutenant Governor,,LIB,Kerry Douglas McKennon,5,2,3
+Panola,8,Lieutenant Governor,,LIB,Kerry Douglas McKennon,3,2,1
+Panola,9,Lieutenant Governor,,LIB,Kerry Douglas McKennon,4,4,0
+Panola,10,Lieutenant Governor,,LIB,Kerry Douglas McKennon,3,2,1
+Panola,12,Lieutenant Governor,,LIB,Kerry Douglas McKennon,5,4,1
+Panola,13,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,1,0
+Panola,14,Lieutenant Governor,,LIB,Kerry Douglas McKennon,3,1,2
+Panola,18,Lieutenant Governor,,LIB,Kerry Douglas McKennon,21,13,8
+Panola,19,Lieutenant Governor,,LIB,Kerry Douglas McKennon,3,2,1
 Panola,20,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,0,1
-Panola,22,Lieutenant Governor,,LIB,Kerry Douglas McKennon,0,3,3
-Panola,26,Lieutenant Governor,,LIB,Kerry Douglas McKennon,0,3,3
+Panola,22,Lieutenant Governor,,LIB,Kerry Douglas McKennon,3,3,0
+Panola,26,Lieutenant Governor,,LIB,Kerry Douglas McKennon,3,3,0
 Panola,27,Lieutenant Governor,,LIB,Kerry Douglas McKennon,2,0,2
-Panola,28,Lieutenant Governor,,LIB,Kerry Douglas McKennon,8,11,19
+Panola,28,Lieutenant Governor,,LIB,Kerry Douglas McKennon,19,11,8
 Panola,29,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,0,1
-Panola,1,Attorney General,,REP,Ken Paxton,604,217,821
-Panola,2,Attorney General,,REP,Ken Paxton,674,247,921
-Panola,3,Attorney General,,REP,Ken Paxton,299,263,562
-Panola,5,Attorney General,,REP,Ken Paxton,113,131,244
-Panola,7,Attorney General,,REP,Ken Paxton,87,201,288
-Panola,8,Attorney General,,REP,Ken Paxton,46,57,103
-Panola,9,Attorney General,,REP,Ken Paxton,80,245,325
-Panola,10,Attorney General,,REP,Ken Paxton,74,70,144
-Panola,12,Attorney General,,REP,Ken Paxton,97,148,245
-Panola,13,Attorney General,,REP,Ken Paxton,62,73,135
-Panola,14,Attorney General,,REP,Ken Paxton,115,117,232
-Panola,18,Attorney General,,REP,Ken Paxton,579,420,999
-Panola,19,Attorney General,,REP,Ken Paxton,64,111,175
-Panola,20,Attorney General,,REP,Ken Paxton,101,72,173
-Panola,22,Attorney General,,REP,Ken Paxton,52,46,98
-Panola,26,Attorney General,,REP,Ken Paxton,31,42,73
-Panola,27,Attorney General,,REP,Ken Paxton,226,76,302
-Panola,28,Attorney General,,REP,Ken Paxton,679,243,922
-Panola,29,Attorney General,,REP,Ken Paxton,66,119,185
-Panola,1,Attorney General,,DEM,Justin Nelson,118,76,194
-Panola,2,Attorney General,,DEM,Justin Nelson,144,83,227
-Panola,3,Attorney General,,DEM,Justin Nelson,55,106,161
-Panola,5,Attorney General,,DEM,Justin Nelson,4,31,35
-Panola,7,Attorney General,,DEM,Justin Nelson,29,57,86
-Panola,8,Attorney General,,DEM,Justin Nelson,8,9,17
-Panola,9,Attorney General,,DEM,Justin Nelson,20,35,55
-Panola,10,Attorney General,,DEM,Justin Nelson,20,31,51
-Panola,12,Attorney General,,DEM,Justin Nelson,8,5,13
-Panola,13,Attorney General,,DEM,Justin Nelson,27,20,47
-Panola,14,Attorney General,,DEM,Justin Nelson,11,12,23
-Panola,18,Attorney General,,DEM,Justin Nelson,117,62,179
-Panola,19,Attorney General,,DEM,Justin Nelson,6,8,14
-Panola,20,Attorney General,,DEM,Justin Nelson,1,1,2
-Panola,22,Attorney General,,DEM,Justin Nelson,30,51,81
-Panola,26,Attorney General,,DEM,Justin Nelson,8,21,29
-Panola,27,Attorney General,,DEM,Justin Nelson,109,129,238
-Panola,28,Attorney General,,DEM,Justin Nelson,120,62,182
-Panola,29,Attorney General,,DEM,Justin Nelson,3,9,12
-Panola,1,Attorney General,,LIB,Michael Ray Harris,9,7,16
-Panola,2,Attorney General,,LIB,Michael Ray Harris,9,3,12
-Panola,3,Attorney General,,LIB,Michael Ray Harris,6,5,11
-Panola,5,Attorney General,,LIB,Michael Ray Harris,2,3,5
-Panola,7,Attorney General,,LIB,Michael Ray Harris,2,5,7
-Panola,8,Attorney General,,LIB,Michael Ray Harris,1,1,2
-Panola,9,Attorney General,,LIB,Michael Ray Harris,1,2,3
-Panola,10,Attorney General,,LIB,Michael Ray Harris,0,2,2
-Panola,12,Attorney General,,LIB,Michael Ray Harris,0,1,1
+Panola,1,Attorney General,,REP,Ken Paxton,821,217,604
+Panola,2,Attorney General,,REP,Ken Paxton,921,247,674
+Panola,3,Attorney General,,REP,Ken Paxton,562,263,299
+Panola,5,Attorney General,,REP,Ken Paxton,244,131,113
+Panola,7,Attorney General,,REP,Ken Paxton,288,201,87
+Panola,8,Attorney General,,REP,Ken Paxton,103,57,46
+Panola,9,Attorney General,,REP,Ken Paxton,325,245,80
+Panola,10,Attorney General,,REP,Ken Paxton,144,70,74
+Panola,12,Attorney General,,REP,Ken Paxton,245,148,97
+Panola,13,Attorney General,,REP,Ken Paxton,135,73,62
+Panola,14,Attorney General,,REP,Ken Paxton,232,117,115
+Panola,18,Attorney General,,REP,Ken Paxton,999,420,579
+Panola,19,Attorney General,,REP,Ken Paxton,175,111,64
+Panola,20,Attorney General,,REP,Ken Paxton,173,72,101
+Panola,22,Attorney General,,REP,Ken Paxton,98,46,52
+Panola,26,Attorney General,,REP,Ken Paxton,73,42,31
+Panola,27,Attorney General,,REP,Ken Paxton,302,76,226
+Panola,28,Attorney General,,REP,Ken Paxton,922,243,679
+Panola,29,Attorney General,,REP,Ken Paxton,185,119,66
+Panola,1,Attorney General,,DEM,Justin Nelson,194,76,118
+Panola,2,Attorney General,,DEM,Justin Nelson,227,83,144
+Panola,3,Attorney General,,DEM,Justin Nelson,161,106,55
+Panola,5,Attorney General,,DEM,Justin Nelson,35,31,4
+Panola,7,Attorney General,,DEM,Justin Nelson,86,57,29
+Panola,8,Attorney General,,DEM,Justin Nelson,17,9,8
+Panola,9,Attorney General,,DEM,Justin Nelson,55,35,20
+Panola,10,Attorney General,,DEM,Justin Nelson,51,31,20
+Panola,12,Attorney General,,DEM,Justin Nelson,13,5,8
+Panola,13,Attorney General,,DEM,Justin Nelson,47,20,27
+Panola,14,Attorney General,,DEM,Justin Nelson,23,12,11
+Panola,18,Attorney General,,DEM,Justin Nelson,179,62,117
+Panola,19,Attorney General,,DEM,Justin Nelson,14,8,6
+Panola,20,Attorney General,,DEM,Justin Nelson,2,1,1
+Panola,22,Attorney General,,DEM,Justin Nelson,81,51,30
+Panola,26,Attorney General,,DEM,Justin Nelson,29,21,8
+Panola,27,Attorney General,,DEM,Justin Nelson,238,129,109
+Panola,28,Attorney General,,DEM,Justin Nelson,182,62,120
+Panola,29,Attorney General,,DEM,Justin Nelson,12,9,3
+Panola,1,Attorney General,,LIB,Michael Ray Harris,16,7,9
+Panola,2,Attorney General,,LIB,Michael Ray Harris,12,3,9
+Panola,3,Attorney General,,LIB,Michael Ray Harris,11,5,6
+Panola,5,Attorney General,,LIB,Michael Ray Harris,5,3,2
+Panola,7,Attorney General,,LIB,Michael Ray Harris,7,5,2
+Panola,8,Attorney General,,LIB,Michael Ray Harris,2,1,1
+Panola,9,Attorney General,,LIB,Michael Ray Harris,3,2,1
+Panola,10,Attorney General,,LIB,Michael Ray Harris,2,2,0
+Panola,12,Attorney General,,LIB,Michael Ray Harris,1,1,0
 Panola,13,Attorney General,,LIB,Michael Ray Harris,0,0,0
-Panola,14,Attorney General,,LIB,Michael Ray Harris,1,2,3
-Panola,18,Attorney General,,LIB,Michael Ray Harris,7,7,14
-Panola,19,Attorney General,,LIB,Michael Ray Harris,0,2,2
+Panola,14,Attorney General,,LIB,Michael Ray Harris,3,2,1
+Panola,18,Attorney General,,LIB,Michael Ray Harris,14,7,7
+Panola,19,Attorney General,,LIB,Michael Ray Harris,2,2,0
 Panola,20,Attorney General,,LIB,Michael Ray Harris,2,0,2
-Panola,22,Attorney General,,LIB,Michael Ray Harris,1,3,4
-Panola,26,Attorney General,,LIB,Michael Ray Harris,1,1,2
-Panola,27,Attorney General,,LIB,Michael Ray Harris,0,2,2
-Panola,28,Attorney General,,LIB,Michael Ray Harris,4,7,11
-Panola,29,Attorney General,,LIB,Michael Ray Harris,0,2,2
-Panola,1,Comptroller of Public Accounts,,REP,Glenn Hegar,618,219,837
-Panola,2,Comptroller of Public Accounts,,REP,Glenn Hegar,693,250,943
-Panola,3,Comptroller of Public Accounts,,REP,Glenn Hegar,292,266,558
-Panola,5,Comptroller of Public Accounts,,REP,Glenn Hegar,115,141,256
-Panola,7,Comptroller of Public Accounts,,REP,Glenn Hegar,87,204,291
-Panola,8,Comptroller of Public Accounts,,REP,Glenn Hegar,44,55,99
-Panola,9,Comptroller of Public Accounts,,REP,Glenn Hegar,84,242,326
-Panola,10,Comptroller of Public Accounts,,REP,Glenn Hegar,74,71,145
-Panola,12,Comptroller of Public Accounts,,REP,Glenn Hegar,101,148,249
-Panola,13,Comptroller of Public Accounts,,REP,Glenn Hegar,61,72,133
-Panola,14,Comptroller of Public Accounts,,REP,Glenn Hegar,117,118,235
-Panola,18,Comptroller of Public Accounts,,REP,Glenn Hegar,584,422,1006
-Panola,19,Comptroller of Public Accounts,,REP,Glenn Hegar,64,112,176
-Panola,20,Comptroller of Public Accounts,,REP,Glenn Hegar,101,73,174
-Panola,22,Comptroller of Public Accounts,,REP,Glenn Hegar,53,45,98
-Panola,26,Comptroller of Public Accounts,,REP,Glenn Hegar,31,43,74
-Panola,27,Comptroller of Public Accounts,,REP,Glenn Hegar,229,78,307
-Panola,28,Comptroller of Public Accounts,,REP,Glenn Hegar,685,245,930
-Panola,29,Comptroller of Public Accounts,,REP,Glenn Hegar,65,118,183
-Panola,1,Comptroller of Public Accounts,,DEM,Joi Chevalier,98,74,172
-Panola,2,Comptroller of Public Accounts,,DEM,Joi Chevalier,124,75,199
-Panola,3,Comptroller of Public Accounts,,DEM,Joi Chevalier,53,96,149
-Panola,5,Comptroller of Public Accounts,,DEM,Joi Chevalier,4,23,27
-Panola,7,Comptroller of Public Accounts,,DEM,Joi Chevalier,28,48,76
-Panola,8,Comptroller of Public Accounts,,DEM,Joi Chevalier,9,8,17
-Panola,9,Comptroller of Public Accounts,,DEM,Joi Chevalier,16,31,47
-Panola,10,Comptroller of Public Accounts,,DEM,Joi Chevalier,19,28,47
-Panola,12,Comptroller of Public Accounts,,DEM,Joi Chevalier,3,4,7
-Panola,13,Comptroller of Public Accounts,,DEM,Joi Chevalier,27,20,47
-Panola,14,Comptroller of Public Accounts,,DEM,Joi Chevalier,9,9,18
-Panola,18,Comptroller of Public Accounts,,DEM,Joi Chevalier,104,61,165
-Panola,19,Comptroller of Public Accounts,,DEM,Joi Chevalier,5,7,12
-Panola,20,Comptroller of Public Accounts,,DEM,Joi Chevalier,2,1,3
-Panola,22,Comptroller of Public Accounts,,DEM,Joi Chevalier,26,50,76
-Panola,26,Comptroller of Public Accounts,,DEM,Joi Chevalier,8,21,29
-Panola,27,Comptroller of Public Accounts,,DEM,Joi Chevalier,105,129,234
-Panola,28,Comptroller of Public Accounts,,DEM,Joi Chevalier,109,56,165
-Panola,29,Comptroller of Public Accounts,,DEM,Joi Chevalier,2,9,11
-Panola,1,Comptroller of Public Accounts,,LIB,Ben Sanders,12,5,17
-Panola,2,Comptroller of Public Accounts,,LIB,Ben Sanders,10,5,15
-Panola,3,Comptroller of Public Accounts,,LIB,Ben Sanders,11,8,19
-Panola,5,Comptroller of Public Accounts,,LIB,Ben Sanders,0,1,1
-Panola,7,Comptroller of Public Accounts,,LIB,Ben Sanders,4,8,12
-Panola,8,Comptroller of Public Accounts,,LIB,Ben Sanders,2,4,6
-Panola,9,Comptroller of Public Accounts,,LIB,Ben Sanders,0,7,7
-Panola,10,Comptroller of Public Accounts,,LIB,Ben Sanders,1,3,4
-Panola,12,Comptroller of Public Accounts,,LIB,Ben Sanders,0,1,1
-Panola,13,Comptroller of Public Accounts,,LIB,Ben Sanders,0,1,1
-Panola,14,Comptroller of Public Accounts,,LIB,Ben Sanders,1,2,3
-Panola,18,Comptroller of Public Accounts,,LIB,Ben Sanders,10,5,15
-Panola,19,Comptroller of Public Accounts,,LIB,Ben Sanders,1,2,3
+Panola,22,Attorney General,,LIB,Michael Ray Harris,4,3,1
+Panola,26,Attorney General,,LIB,Michael Ray Harris,2,1,1
+Panola,27,Attorney General,,LIB,Michael Ray Harris,2,2,0
+Panola,28,Attorney General,,LIB,Michael Ray Harris,11,7,4
+Panola,29,Attorney General,,LIB,Michael Ray Harris,2,2,0
+Panola,1,Comptroller of Public Accounts,,REP,Glenn Hegar,837,219,618
+Panola,2,Comptroller of Public Accounts,,REP,Glenn Hegar,943,250,693
+Panola,3,Comptroller of Public Accounts,,REP,Glenn Hegar,558,266,292
+Panola,5,Comptroller of Public Accounts,,REP,Glenn Hegar,256,141,115
+Panola,7,Comptroller of Public Accounts,,REP,Glenn Hegar,291,204,87
+Panola,8,Comptroller of Public Accounts,,REP,Glenn Hegar,99,55,44
+Panola,9,Comptroller of Public Accounts,,REP,Glenn Hegar,326,242,84
+Panola,10,Comptroller of Public Accounts,,REP,Glenn Hegar,145,71,74
+Panola,12,Comptroller of Public Accounts,,REP,Glenn Hegar,249,148,101
+Panola,13,Comptroller of Public Accounts,,REP,Glenn Hegar,133,72,61
+Panola,14,Comptroller of Public Accounts,,REP,Glenn Hegar,235,118,117
+Panola,18,Comptroller of Public Accounts,,REP,Glenn Hegar,1006,422,584
+Panola,19,Comptroller of Public Accounts,,REP,Glenn Hegar,176,112,64
+Panola,20,Comptroller of Public Accounts,,REP,Glenn Hegar,174,73,101
+Panola,22,Comptroller of Public Accounts,,REP,Glenn Hegar,98,45,53
+Panola,26,Comptroller of Public Accounts,,REP,Glenn Hegar,74,43,31
+Panola,27,Comptroller of Public Accounts,,REP,Glenn Hegar,307,78,229
+Panola,28,Comptroller of Public Accounts,,REP,Glenn Hegar,930,245,685
+Panola,29,Comptroller of Public Accounts,,REP,Glenn Hegar,183,118,65
+Panola,1,Comptroller of Public Accounts,,DEM,Joi Chevalier,172,74,98
+Panola,2,Comptroller of Public Accounts,,DEM,Joi Chevalier,199,75,124
+Panola,3,Comptroller of Public Accounts,,DEM,Joi Chevalier,149,96,53
+Panola,5,Comptroller of Public Accounts,,DEM,Joi Chevalier,27,23,4
+Panola,7,Comptroller of Public Accounts,,DEM,Joi Chevalier,76,48,28
+Panola,8,Comptroller of Public Accounts,,DEM,Joi Chevalier,17,8,9
+Panola,9,Comptroller of Public Accounts,,DEM,Joi Chevalier,47,31,16
+Panola,10,Comptroller of Public Accounts,,DEM,Joi Chevalier,47,28,19
+Panola,12,Comptroller of Public Accounts,,DEM,Joi Chevalier,7,4,3
+Panola,13,Comptroller of Public Accounts,,DEM,Joi Chevalier,47,20,27
+Panola,14,Comptroller of Public Accounts,,DEM,Joi Chevalier,18,9,9
+Panola,18,Comptroller of Public Accounts,,DEM,Joi Chevalier,165,61,104
+Panola,19,Comptroller of Public Accounts,,DEM,Joi Chevalier,12,7,5
+Panola,20,Comptroller of Public Accounts,,DEM,Joi Chevalier,3,1,2
+Panola,22,Comptroller of Public Accounts,,DEM,Joi Chevalier,76,50,26
+Panola,26,Comptroller of Public Accounts,,DEM,Joi Chevalier,29,21,8
+Panola,27,Comptroller of Public Accounts,,DEM,Joi Chevalier,234,129,105
+Panola,28,Comptroller of Public Accounts,,DEM,Joi Chevalier,165,56,109
+Panola,29,Comptroller of Public Accounts,,DEM,Joi Chevalier,11,9,2
+Panola,1,Comptroller of Public Accounts,,LIB,Ben Sanders,17,5,12
+Panola,2,Comptroller of Public Accounts,,LIB,Ben Sanders,15,5,10
+Panola,3,Comptroller of Public Accounts,,LIB,Ben Sanders,19,8,11
+Panola,5,Comptroller of Public Accounts,,LIB,Ben Sanders,1,1,0
+Panola,7,Comptroller of Public Accounts,,LIB,Ben Sanders,12,8,4
+Panola,8,Comptroller of Public Accounts,,LIB,Ben Sanders,6,4,2
+Panola,9,Comptroller of Public Accounts,,LIB,Ben Sanders,7,7,0
+Panola,10,Comptroller of Public Accounts,,LIB,Ben Sanders,4,3,1
+Panola,12,Comptroller of Public Accounts,,LIB,Ben Sanders,1,1,0
+Panola,13,Comptroller of Public Accounts,,LIB,Ben Sanders,1,1,0
+Panola,14,Comptroller of Public Accounts,,LIB,Ben Sanders,3,2,1
+Panola,18,Comptroller of Public Accounts,,LIB,Ben Sanders,15,5,10
+Panola,19,Comptroller of Public Accounts,,LIB,Ben Sanders,3,2,1
 Panola,20,Comptroller of Public Accounts,,LIB,Ben Sanders,1,0,1
-Panola,22,Comptroller of Public Accounts,,LIB,Ben Sanders,3,4,7
+Panola,22,Comptroller of Public Accounts,,LIB,Ben Sanders,7,4,3
 Panola,26,Comptroller of Public Accounts,,LIB,Ben Sanders,1,0,1
-Panola,27,Comptroller of Public Accounts,,LIB,Ben Sanders,1,2,3
-Panola,28,Comptroller of Public Accounts,,LIB,Ben Sanders,7,10,17
-Panola,29,Comptroller of Public Accounts,,LIB,Ben Sanders,1,3,4
-Panola,1,Commissioner of the General Land Office,,REP,George P. Bush,594,212,806
-Panola,2,Commissioner of the General Land Office,,REP,George P. Bush,677,251,928
-Panola,3,Commissioner of the General Land Office,,REP,George P. Bush,298,266,564
-Panola,5,Commissioner of the General Land Office,,REP,George P. Bush,114,136,250
-Panola,7,Commissioner of the General Land Office,,REP,George P. Bush,85,201,286
-Panola,8,Commissioner of the General Land Office,,REP,George P. Bush,45,55,100
-Panola,9,Commissioner of the General Land Office,,REP,George P. Bush,80,240,320
-Panola,10,Commissioner of the General Land Office,,REP,George P. Bush,68,68,136
-Panola,12,Commissioner of the General Land Office,,REP,George P. Bush,93,142,235
-Panola,13,Commissioner of the General Land Office,,REP,George P. Bush,58,68,126
-Panola,14,Commissioner of the General Land Office,,REP,George P. Bush,106,118,224
-Panola,18,Commissioner of the General Land Office,,REP,George P. Bush,578,408,986
-Panola,19,Commissioner of the General Land Office,,REP,George P. Bush,63,107,170
-Panola,20,Commissioner of the General Land Office,,REP,George P. Bush,102,71,173
-Panola,22,Commissioner of the General Land Office,,REP,George P. Bush,51,46,97
-Panola,26,Commissioner of the General Land Office,,REP,George P. Bush,32,41,73
-Panola,27,Commissioner of the General Land Office,,REP,George P. Bush,229,77,306
-Panola,28,Commissioner of the General Land Office,,REP,George P. Bush,681,246,927
-Panola,29,Commissioner of the General Land Office,,REP,George P. Bush,66,118,184
-Panola,1,Commissioner of the General Land Office,,DEM,Miguel Suazo,110,75,185
-Panola,2,Commissioner of the General Land Office,,DEM,Miguel Suazo,127,75,202
-Panola,3,Commissioner of the General Land Office,,DEM,Miguel Suazo,56,100,156
-Panola,5,Commissioner of the General Land Office,,DEM,Miguel Suazo,4,25,29
-Panola,7,Commissioner of the General Land Office,,DEM,Miguel Suazo,28,50,78
-Panola,8,Commissioner of the General Land Office,,DEM,Miguel Suazo,8,8,16
-Panola,9,Commissioner of the General Land Office,,DEM,Miguel Suazo,16,34,50
-Panola,10,Commissioner of the General Land Office,,DEM,Miguel Suazo,20,30,50
-Panola,12,Commissioner of the General Land Office,,DEM,Miguel Suazo,3,5,8
-Panola,13,Commissioner of the General Land Office,,DEM,Miguel Suazo,29,19,48
-Panola,14,Commissioner of the General Land Office,,DEM,Miguel Suazo,13,7,20
-Panola,18,Commissioner of the General Land Office,,DEM,Miguel Suazo,109,63,172
-Panola,19,Commissioner of the General Land Office,,DEM,Miguel Suazo,4,7,11
-Panola,20,Commissioner of the General Land Office,,DEM,Miguel Suazo,1,2,3
-Panola,22,Commissioner of the General Land Office,,DEM,Miguel Suazo,27,52,79
-Panola,26,Commissioner of the General Land Office,,DEM,Miguel Suazo,7,20,27
-Panola,27,Commissioner of the General Land Office,,DEM,Miguel Suazo,103,129,232
-Panola,28,Commissioner of the General Land Office,,DEM,Miguel Suazo,113,54,167
-Panola,29,Commissioner of the General Land Office,,DEM,Miguel Suazo,2,7,9
-Panola,1,Commissioner of the General Land Office,,LIB,Matt Pina,22,11,33
-Panola,2,Commissioner of the General Land Office,,LIB,Matt Pina,20,6,26
-Panola,3,Commissioner of the General Land Office,,LIB,Matt Pina,6,8,14
-Panola,5,Commissioner of the General Land Office,,LIB,Matt Pina,1,3,4
-Panola,7,Commissioner of the General Land Office,,LIB,Matt Pina,7,11,18
-Panola,8,Commissioner of the General Land Office,,LIB,Matt Pina,2,4,6
-Panola,9,Commissioner of the General Land Office,,LIB,Matt Pina,4,6,10
-Panola,10,Commissioner of the General Land Office,,LIB,Matt Pina,4,5,9
-Panola,12,Commissioner of the General Land Office,,LIB,Matt Pina,2,3,5
-Panola,13,Commissioner of the General Land Office,,LIB,Matt Pina,2,5,7
-Panola,14,Commissioner of the General Land Office,,LIB,Matt Pina,5,4,9
-Panola,18,Commissioner of the General Land Office,,LIB,Matt Pina,13,17,30
-Panola,19,Commissioner of the General Land Office,,LIB,Matt Pina,2,6,8
-Panola,20,Commissioner of the General Land Office,,LIB,Matt Pina,1,2,3
-Panola,22,Commissioner of the General Land Office,,LIB,Matt Pina,4,1,5
-Panola,26,Commissioner of the General Land Office,,LIB,Matt Pina,1,1,2
-Panola,27,Commissioner of the General Land Office,,LIB,Matt Pina,3,2,5
-Panola,28,Commissioner of the General Land Office,,LIB,Matt Pina,10,11,21
-Panola,29,Commissioner of the General Land Office,,LIB,Matt Pina,1,5,6
-Panola,1,Commissioner of Agriculture,,REP,Sid Miller,610,218,828
-Panola,2,Commissioner of Agriculture,,REP,Sid Miller,684,251,935
-Panola,3,Commissioner of Agriculture,,REP,Sid Miller,295,272,567
-Panola,5,Commissioner of Agriculture,,REP,Sid Miller,113,133,246
-Panola,7,Commissioner of Agriculture,,REP,Sid Miller,85,201,286
-Panola,8,Commissioner of Agriculture,,REP,Sid Miller,45,56,101
-Panola,9,Commissioner of Agriculture,,REP,Sid Miller,81,240,321
-Panola,10,Commissioner of Agriculture,,REP,Sid Miller,75,70,145
-Panola,12,Commissioner of Agriculture,,REP,Sid Miller,101,148,249
-Panola,13,Commissioner of Agriculture,,REP,Sid Miller,61,68,129
-Panola,14,Commissioner of Agriculture,,REP,Sid Miller,114,115,229
-Panola,18,Commissioner of Agriculture,,REP,Sid Miller,581,423,1004
-Panola,19,Commissioner of Agriculture,,REP,Sid Miller,64,111,175
-Panola,20,Commissioner of Agriculture,,REP,Sid Miller,102,73,175
-Panola,22,Commissioner of Agriculture,,REP,Sid Miller,51,45,96
-Panola,26,Commissioner of Agriculture,,REP,Sid Miller,32,43,75
-Panola,27,Commissioner of Agriculture,,REP,Sid Miller,229,77,306
-Panola,28,Commissioner of Agriculture,,REP,Sid Miller,673,247,920
-Panola,29,Commissioner of Agriculture,,REP,Sid Miller,64,120,184
-Panola,1,Commissioner of Agriculture,,DEM,Kim Olson,105,75,180
-Panola,2,Commissioner of Agriculture,,DEM,Kim Olson,136,75,211
-Panola,3,Commissioner of Agriculture,,DEM,Kim Olson,54,98,152
-Panola,5,Commissioner of Agriculture,,DEM,Kim Olson,3,28,31
-Panola,7,Commissioner of Agriculture,,DEM,Kim Olson,31,52,83
-Panola,8,Commissioner of Agriculture,,DEM,Kim Olson,9,8,17
-Panola,9,Commissioner of Agriculture,,DEM,Kim Olson,17,36,53
-Panola,10,Commissioner of Agriculture,,DEM,Kim Olson,19,29,48
-Panola,12,Commissioner of Agriculture,,DEM,Kim Olson,4,4,8
-Panola,13,Commissioner of Agriculture,,DEM,Kim Olson,27,21,48
-Panola,14,Commissioner of Agriculture,,DEM,Kim Olson,13,12,25
-Panola,18,Commissioner of Agriculture,,DEM,Kim Olson,112,61,173
-Panola,19,Commissioner of Agriculture,,DEM,Kim Olson,6,7,13
-Panola,20,Commissioner of Agriculture,,DEM,Kim Olson,2,1,3
-Panola,22,Commissioner of Agriculture,,DEM,Kim Olson,30,51,81
-Panola,26,Commissioner of Agriculture,,DEM,Kim Olson,8,21,29
-Panola,27,Commissioner of Agriculture,,DEM,Kim Olson,105,132,237
-Panola,28,Commissioner of Agriculture,,DEM,Kim Olson,119,61,180
-Panola,29,Commissioner of Agriculture,,DEM,Kim Olson,2,8,10
-Panola,1,Commissioner of Agriculture,,LIB,Richard Carpenter,11,3,14
-Panola,2,Commissioner of Agriculture,,LIB,Richard Carpenter,8,5,13
-Panola,3,Commissioner of Agriculture,,LIB,Richard Carpenter,5,5,10
-Panola,5,Commissioner of Agriculture,,LIB,Richard Carpenter,2,1,3
-Panola,7,Commissioner of Agriculture,,LIB,Richard Carpenter,3,8,11
-Panola,8,Commissioner of Agriculture,,LIB,Richard Carpenter,1,3,4
-Panola,9,Commissioner of Agriculture,,LIB,Richard Carpenter,1,4,5
-Panola,10,Commissioner of Agriculture,,LIB,Richard Carpenter,0,3,3
-Panola,12,Commissioner of Agriculture,,LIB,Richard Carpenter,0,2,2
-Panola,13,Commissioner of Agriculture,,LIB,Richard Carpenter,0,2,2
-Panola,14,Commissioner of Agriculture,,LIB,Richard Carpenter,1,2,3
-Panola,18,Commissioner of Agriculture,,LIB,Richard Carpenter,6,4,10
-Panola,19,Commissioner of Agriculture,,LIB,Richard Carpenter,0,2,2
+Panola,27,Comptroller of Public Accounts,,LIB,Ben Sanders,3,2,1
+Panola,28,Comptroller of Public Accounts,,LIB,Ben Sanders,17,10,7
+Panola,29,Comptroller of Public Accounts,,LIB,Ben Sanders,4,3,1
+Panola,1,Commissioner of the General Land Office,,REP,George P. Bush,806,212,594
+Panola,2,Commissioner of the General Land Office,,REP,George P. Bush,928,251,677
+Panola,3,Commissioner of the General Land Office,,REP,George P. Bush,564,266,298
+Panola,5,Commissioner of the General Land Office,,REP,George P. Bush,250,136,114
+Panola,7,Commissioner of the General Land Office,,REP,George P. Bush,286,201,85
+Panola,8,Commissioner of the General Land Office,,REP,George P. Bush,100,55,45
+Panola,9,Commissioner of the General Land Office,,REP,George P. Bush,320,240,80
+Panola,10,Commissioner of the General Land Office,,REP,George P. Bush,136,68,68
+Panola,12,Commissioner of the General Land Office,,REP,George P. Bush,235,142,93
+Panola,13,Commissioner of the General Land Office,,REP,George P. Bush,126,68,58
+Panola,14,Commissioner of the General Land Office,,REP,George P. Bush,224,118,106
+Panola,18,Commissioner of the General Land Office,,REP,George P. Bush,986,408,578
+Panola,19,Commissioner of the General Land Office,,REP,George P. Bush,170,107,63
+Panola,20,Commissioner of the General Land Office,,REP,George P. Bush,173,71,102
+Panola,22,Commissioner of the General Land Office,,REP,George P. Bush,97,46,51
+Panola,26,Commissioner of the General Land Office,,REP,George P. Bush,73,41,32
+Panola,27,Commissioner of the General Land Office,,REP,George P. Bush,306,77,229
+Panola,28,Commissioner of the General Land Office,,REP,George P. Bush,927,246,681
+Panola,29,Commissioner of the General Land Office,,REP,George P. Bush,184,118,66
+Panola,1,Commissioner of the General Land Office,,DEM,Miguel Suazo,185,75,110
+Panola,2,Commissioner of the General Land Office,,DEM,Miguel Suazo,202,75,127
+Panola,3,Commissioner of the General Land Office,,DEM,Miguel Suazo,156,100,56
+Panola,5,Commissioner of the General Land Office,,DEM,Miguel Suazo,29,25,4
+Panola,7,Commissioner of the General Land Office,,DEM,Miguel Suazo,78,50,28
+Panola,8,Commissioner of the General Land Office,,DEM,Miguel Suazo,16,8,8
+Panola,9,Commissioner of the General Land Office,,DEM,Miguel Suazo,50,34,16
+Panola,10,Commissioner of the General Land Office,,DEM,Miguel Suazo,50,30,20
+Panola,12,Commissioner of the General Land Office,,DEM,Miguel Suazo,8,5,3
+Panola,13,Commissioner of the General Land Office,,DEM,Miguel Suazo,48,19,29
+Panola,14,Commissioner of the General Land Office,,DEM,Miguel Suazo,20,7,13
+Panola,18,Commissioner of the General Land Office,,DEM,Miguel Suazo,172,63,109
+Panola,19,Commissioner of the General Land Office,,DEM,Miguel Suazo,11,7,4
+Panola,20,Commissioner of the General Land Office,,DEM,Miguel Suazo,3,2,1
+Panola,22,Commissioner of the General Land Office,,DEM,Miguel Suazo,79,52,27
+Panola,26,Commissioner of the General Land Office,,DEM,Miguel Suazo,27,20,7
+Panola,27,Commissioner of the General Land Office,,DEM,Miguel Suazo,232,129,103
+Panola,28,Commissioner of the General Land Office,,DEM,Miguel Suazo,167,54,113
+Panola,29,Commissioner of the General Land Office,,DEM,Miguel Suazo,9,7,2
+Panola,1,Commissioner of the General Land Office,,LIB,Matt Pina,33,11,22
+Panola,2,Commissioner of the General Land Office,,LIB,Matt Pina,26,6,20
+Panola,3,Commissioner of the General Land Office,,LIB,Matt Pina,14,8,6
+Panola,5,Commissioner of the General Land Office,,LIB,Matt Pina,4,3,1
+Panola,7,Commissioner of the General Land Office,,LIB,Matt Pina,18,11,7
+Panola,8,Commissioner of the General Land Office,,LIB,Matt Pina,6,4,2
+Panola,9,Commissioner of the General Land Office,,LIB,Matt Pina,10,6,4
+Panola,10,Commissioner of the General Land Office,,LIB,Matt Pina,9,5,4
+Panola,12,Commissioner of the General Land Office,,LIB,Matt Pina,5,3,2
+Panola,13,Commissioner of the General Land Office,,LIB,Matt Pina,7,5,2
+Panola,14,Commissioner of the General Land Office,,LIB,Matt Pina,9,4,5
+Panola,18,Commissioner of the General Land Office,,LIB,Matt Pina,30,17,13
+Panola,19,Commissioner of the General Land Office,,LIB,Matt Pina,8,6,2
+Panola,20,Commissioner of the General Land Office,,LIB,Matt Pina,3,2,1
+Panola,22,Commissioner of the General Land Office,,LIB,Matt Pina,5,1,4
+Panola,26,Commissioner of the General Land Office,,LIB,Matt Pina,2,1,1
+Panola,27,Commissioner of the General Land Office,,LIB,Matt Pina,5,2,3
+Panola,28,Commissioner of the General Land Office,,LIB,Matt Pina,21,11,10
+Panola,29,Commissioner of the General Land Office,,LIB,Matt Pina,6,5,1
+Panola,1,Commissioner of Agriculture,,REP,Sid Miller,828,218,610
+Panola,2,Commissioner of Agriculture,,REP,Sid Miller,935,251,684
+Panola,3,Commissioner of Agriculture,,REP,Sid Miller,567,272,295
+Panola,5,Commissioner of Agriculture,,REP,Sid Miller,246,133,113
+Panola,7,Commissioner of Agriculture,,REP,Sid Miller,286,201,85
+Panola,8,Commissioner of Agriculture,,REP,Sid Miller,101,56,45
+Panola,9,Commissioner of Agriculture,,REP,Sid Miller,321,240,81
+Panola,10,Commissioner of Agriculture,,REP,Sid Miller,145,70,75
+Panola,12,Commissioner of Agriculture,,REP,Sid Miller,249,148,101
+Panola,13,Commissioner of Agriculture,,REP,Sid Miller,129,68,61
+Panola,14,Commissioner of Agriculture,,REP,Sid Miller,229,115,114
+Panola,18,Commissioner of Agriculture,,REP,Sid Miller,1004,423,581
+Panola,19,Commissioner of Agriculture,,REP,Sid Miller,175,111,64
+Panola,20,Commissioner of Agriculture,,REP,Sid Miller,175,73,102
+Panola,22,Commissioner of Agriculture,,REP,Sid Miller,96,45,51
+Panola,26,Commissioner of Agriculture,,REP,Sid Miller,75,43,32
+Panola,27,Commissioner of Agriculture,,REP,Sid Miller,306,77,229
+Panola,28,Commissioner of Agriculture,,REP,Sid Miller,920,247,673
+Panola,29,Commissioner of Agriculture,,REP,Sid Miller,184,120,64
+Panola,1,Commissioner of Agriculture,,DEM,Kim Olson,180,75,105
+Panola,2,Commissioner of Agriculture,,DEM,Kim Olson,211,75,136
+Panola,3,Commissioner of Agriculture,,DEM,Kim Olson,152,98,54
+Panola,5,Commissioner of Agriculture,,DEM,Kim Olson,31,28,3
+Panola,7,Commissioner of Agriculture,,DEM,Kim Olson,83,52,31
+Panola,8,Commissioner of Agriculture,,DEM,Kim Olson,17,8,9
+Panola,9,Commissioner of Agriculture,,DEM,Kim Olson,53,36,17
+Panola,10,Commissioner of Agriculture,,DEM,Kim Olson,48,29,19
+Panola,12,Commissioner of Agriculture,,DEM,Kim Olson,8,4,4
+Panola,13,Commissioner of Agriculture,,DEM,Kim Olson,48,21,27
+Panola,14,Commissioner of Agriculture,,DEM,Kim Olson,25,12,13
+Panola,18,Commissioner of Agriculture,,DEM,Kim Olson,173,61,112
+Panola,19,Commissioner of Agriculture,,DEM,Kim Olson,13,7,6
+Panola,20,Commissioner of Agriculture,,DEM,Kim Olson,3,1,2
+Panola,22,Commissioner of Agriculture,,DEM,Kim Olson,81,51,30
+Panola,26,Commissioner of Agriculture,,DEM,Kim Olson,29,21,8
+Panola,27,Commissioner of Agriculture,,DEM,Kim Olson,237,132,105
+Panola,28,Commissioner of Agriculture,,DEM,Kim Olson,180,61,119
+Panola,29,Commissioner of Agriculture,,DEM,Kim Olson,10,8,2
+Panola,1,Commissioner of Agriculture,,LIB,Richard Carpenter,14,3,11
+Panola,2,Commissioner of Agriculture,,LIB,Richard Carpenter,13,5,8
+Panola,3,Commissioner of Agriculture,,LIB,Richard Carpenter,10,5,5
+Panola,5,Commissioner of Agriculture,,LIB,Richard Carpenter,3,1,2
+Panola,7,Commissioner of Agriculture,,LIB,Richard Carpenter,11,8,3
+Panola,8,Commissioner of Agriculture,,LIB,Richard Carpenter,4,3,1
+Panola,9,Commissioner of Agriculture,,LIB,Richard Carpenter,5,4,1
+Panola,10,Commissioner of Agriculture,,LIB,Richard Carpenter,3,3,0
+Panola,12,Commissioner of Agriculture,,LIB,Richard Carpenter,2,2,0
+Panola,13,Commissioner of Agriculture,,LIB,Richard Carpenter,2,2,0
+Panola,14,Commissioner of Agriculture,,LIB,Richard Carpenter,3,2,1
+Panola,18,Commissioner of Agriculture,,LIB,Richard Carpenter,10,4,6
+Panola,19,Commissioner of Agriculture,,LIB,Richard Carpenter,2,2,0
 Panola,20,Commissioner of Agriculture,,LIB,Richard Carpenter,0,0,0
-Panola,22,Commissioner of Agriculture,,LIB,Richard Carpenter,1,3,4
+Panola,22,Commissioner of Agriculture,,LIB,Richard Carpenter,4,3,1
 Panola,26,Commissioner of Agriculture,,LIB,Richard Carpenter,0,0,0
 Panola,27,Commissioner of Agriculture,,LIB,Richard Carpenter,0,0,0
-Panola,28,Commissioner of Agriculture,,LIB,Richard Carpenter,8,4,12
-Panola,29,Commissioner of Agriculture,,LIB,Richard Carpenter,2,2,4
-Panola,1,Railroad Commissioner,,REP,Christi Craddick,614,224,838
-Panola,2,Railroad Commissioner,,REP,Christi Craddick,688,252,940
-Panola,3,Railroad Commissioner,,REP,Christi Craddick,296,267,563
-Panola,5,Railroad Commissioner,,REP,Christi Craddick,113,141,254
-Panola,7,Railroad Commissioner,,REP,Christi Craddick,87,203,290
-Panola,8,Railroad Commissioner,,REP,Christi Craddick,45,56,101
-Panola,9,Railroad Commissioner,,REP,Christi Craddick,81,240,321
-Panola,10,Railroad Commissioner,,REP,Christi Craddick,74,71,145
-Panola,12,Railroad Commissioner,,REP,Christi Craddick,100,148,248
-Panola,13,Railroad Commissioner,,REP,Christi Craddick,61,73,134
-Panola,14,Railroad Commissioner,,REP,Christi Craddick,117,117,234
-Panola,18,Railroad Commissioner,,REP,Christi Craddick,583,416,999
-Panola,19,Railroad Commissioner,,REP,Christi Craddick,65,112,177
-Panola,20,Railroad Commissioner,,REP,Christi Craddick,101,71,172
-Panola,22,Railroad Commissioner,,REP,Christi Craddick,51,46,97
-Panola,26,Railroad Commissioner,,REP,Christi Craddick,32,42,74
-Panola,27,Railroad Commissioner,,REP,Christi Craddick,226,76,302
-Panola,28,Railroad Commissioner,,REP,Christi Craddick,682,244,926
-Panola,29,Railroad Commissioner,,REP,Christi Craddick,66,119,185
-Panola,1,Railroad Commissioner,,DEM,Roman McAllen,104,69,173
-Panola,2,Railroad Commissioner,,DEM,Roman McAllen,127,75,202
-Panola,3,Railroad Commissioner,,DEM,Roman McAllen,54,100,154
-Panola,5,Railroad Commissioner,,DEM,Roman McAllen,4,20,24
-Panola,7,Railroad Commissioner,,DEM,Roman McAllen,29,49,78
-Panola,8,Railroad Commissioner,,DEM,Roman McAllen,8,8,16
-Panola,9,Railroad Commissioner,,DEM,Roman McAllen,18,33,51
-Panola,10,Railroad Commissioner,,DEM,Roman McAllen,20,29,49
-Panola,12,Railroad Commissioner,,DEM,Roman McAllen,3,4,7
-Panola,13,Railroad Commissioner,,DEM,Roman McAllen,26,19,45
-Panola,14,Railroad Commissioner,,DEM,Roman McAllen,10,8,18
-Panola,18,Railroad Commissioner,,DEM,Roman McAllen,107,63,170
-Panola,19,Railroad Commissioner,,DEM,Roman McAllen,4,7,11
-Panola,20,Railroad Commissioner,,DEM,Roman McAllen,2,2,4
-Panola,22,Railroad Commissioner,,DEM,Roman McAllen,30,52,82
-Panola,26,Railroad Commissioner,,DEM,Roman McAllen,8,21,29
-Panola,27,Railroad Commissioner,,DEM,Roman McAllen,105,132,237
-Panola,28,Railroad Commissioner,,DEM,Roman McAllen,112,54,166
-Panola,29,Railroad Commissioner,,DEM,Roman McAllen,2,9,11
-Panola,1,Railroad Commissioner,,LIB,Mike Wright,10,5,15
-Panola,2,Railroad Commissioner,,LIB,Mike Wright,13,3,16
-Panola,3,Railroad Commissioner,,LIB,Mike Wright,7,5,12
-Panola,5,Railroad Commissioner,,LIB,Mike Wright,1,3,4
-Panola,7,Railroad Commissioner,,LIB,Mike Wright,3,8,11
-Panola,8,Railroad Commissioner,,LIB,Mike Wright,2,2,4
-Panola,9,Railroad Commissioner,,LIB,Mike Wright,1,7,8
-Panola,10,Railroad Commissioner,,LIB,Mike Wright,0,3,3
-Panola,12,Railroad Commissioner,,LIB,Mike Wright,3,1,4
-Panola,13,Railroad Commissioner,,LIB,Mike Wright,2,1,3
-Panola,14,Railroad Commissioner,,LIB,Mike Wright,0,4,4
-Panola,18,Railroad Commissioner,,LIB,Mike Wright,10,11,21
-Panola,19,Railroad Commissioner,,LIB,Mike Wright,1,2,3
-Panola,20,Railroad Commissioner,,LIB,Mike Wright,1,1,2
-Panola,22,Railroad Commissioner,,LIB,Mike Wright,1,1,2
-Panola,26,Railroad Commissioner,,LIB,Mike Wright,0,1,1
+Panola,28,Commissioner of Agriculture,,LIB,Richard Carpenter,12,4,8
+Panola,29,Commissioner of Agriculture,,LIB,Richard Carpenter,4,2,2
+Panola,1,Railroad Commissioner,,REP,Christi Craddick,838,224,614
+Panola,2,Railroad Commissioner,,REP,Christi Craddick,940,252,688
+Panola,3,Railroad Commissioner,,REP,Christi Craddick,563,267,296
+Panola,5,Railroad Commissioner,,REP,Christi Craddick,254,141,113
+Panola,7,Railroad Commissioner,,REP,Christi Craddick,290,203,87
+Panola,8,Railroad Commissioner,,REP,Christi Craddick,101,56,45
+Panola,9,Railroad Commissioner,,REP,Christi Craddick,321,240,81
+Panola,10,Railroad Commissioner,,REP,Christi Craddick,145,71,74
+Panola,12,Railroad Commissioner,,REP,Christi Craddick,248,148,100
+Panola,13,Railroad Commissioner,,REP,Christi Craddick,134,73,61
+Panola,14,Railroad Commissioner,,REP,Christi Craddick,234,117,117
+Panola,18,Railroad Commissioner,,REP,Christi Craddick,999,416,583
+Panola,19,Railroad Commissioner,,REP,Christi Craddick,177,112,65
+Panola,20,Railroad Commissioner,,REP,Christi Craddick,172,71,101
+Panola,22,Railroad Commissioner,,REP,Christi Craddick,97,46,51
+Panola,26,Railroad Commissioner,,REP,Christi Craddick,74,42,32
+Panola,27,Railroad Commissioner,,REP,Christi Craddick,302,76,226
+Panola,28,Railroad Commissioner,,REP,Christi Craddick,926,244,682
+Panola,29,Railroad Commissioner,,REP,Christi Craddick,185,119,66
+Panola,1,Railroad Commissioner,,DEM,Roman McAllen,173,69,104
+Panola,2,Railroad Commissioner,,DEM,Roman McAllen,202,75,127
+Panola,3,Railroad Commissioner,,DEM,Roman McAllen,154,100,54
+Panola,5,Railroad Commissioner,,DEM,Roman McAllen,24,20,4
+Panola,7,Railroad Commissioner,,DEM,Roman McAllen,78,49,29
+Panola,8,Railroad Commissioner,,DEM,Roman McAllen,16,8,8
+Panola,9,Railroad Commissioner,,DEM,Roman McAllen,51,33,18
+Panola,10,Railroad Commissioner,,DEM,Roman McAllen,49,29,20
+Panola,12,Railroad Commissioner,,DEM,Roman McAllen,7,4,3
+Panola,13,Railroad Commissioner,,DEM,Roman McAllen,45,19,26
+Panola,14,Railroad Commissioner,,DEM,Roman McAllen,18,8,10
+Panola,18,Railroad Commissioner,,DEM,Roman McAllen,170,63,107
+Panola,19,Railroad Commissioner,,DEM,Roman McAllen,11,7,4
+Panola,20,Railroad Commissioner,,DEM,Roman McAllen,4,2,2
+Panola,22,Railroad Commissioner,,DEM,Roman McAllen,82,52,30
+Panola,26,Railroad Commissioner,,DEM,Roman McAllen,29,21,8
+Panola,27,Railroad Commissioner,,DEM,Roman McAllen,237,132,105
+Panola,28,Railroad Commissioner,,DEM,Roman McAllen,166,54,112
+Panola,29,Railroad Commissioner,,DEM,Roman McAllen,11,9,2
+Panola,1,Railroad Commissioner,,LIB,Mike Wright,15,5,10
+Panola,2,Railroad Commissioner,,LIB,Mike Wright,16,3,13
+Panola,3,Railroad Commissioner,,LIB,Mike Wright,12,5,7
+Panola,5,Railroad Commissioner,,LIB,Mike Wright,4,3,1
+Panola,7,Railroad Commissioner,,LIB,Mike Wright,11,8,3
+Panola,8,Railroad Commissioner,,LIB,Mike Wright,4,2,2
+Panola,9,Railroad Commissioner,,LIB,Mike Wright,8,7,1
+Panola,10,Railroad Commissioner,,LIB,Mike Wright,3,3,0
+Panola,12,Railroad Commissioner,,LIB,Mike Wright,4,1,3
+Panola,13,Railroad Commissioner,,LIB,Mike Wright,3,1,2
+Panola,14,Railroad Commissioner,,LIB,Mike Wright,4,4,0
+Panola,18,Railroad Commissioner,,LIB,Mike Wright,21,11,10
+Panola,19,Railroad Commissioner,,LIB,Mike Wright,3,2,1
+Panola,20,Railroad Commissioner,,LIB,Mike Wright,2,1,1
+Panola,22,Railroad Commissioner,,LIB,Mike Wright,2,1,1
+Panola,26,Railroad Commissioner,,LIB,Mike Wright,1,1,0
 Panola,27,Railroad Commissioner,,LIB,Mike Wright,2,0,2
-Panola,28,Railroad Commissioner,,LIB,Mike Wright,5,11,16
-Panola,29,Railroad Commissioner,,LIB,Mike Wright,1,1,2
-Panola,1,State Representative,9,REP,Chris Paddie,640,249,889
-Panola,2,State Representative,9,REP,Chris Paddie,732,286,1018
-Panola,3,State Representative,9,REP,Chris Paddie,310,286,596
-Panola,5,State Representative,9,REP,Chris Paddie,119,147,266
-Panola,7,State Representative,9,REP,Chris Paddie,93,221,314
-Panola,8,State Representative,9,REP,Chris Paddie,46,56,102
-Panola,9,State Representative,9,REP,Chris Paddie,85,254,339
-Panola,10,State Representative,9,REP,Chris Paddie,77,76,153
-Panola,12,State Representative,9,REP,Chris Paddie,97,152,249
-Panola,13,State Representative,9,REP,Chris Paddie,62,81,143
-Panola,14,State Representative,9,REP,Chris Paddie,113,122,235
-Panola,18,State Representative,9,REP,Chris Paddie,610,436,1046
-Panola,19,State Representative,9,REP,Chris Paddie,66,115,181
-Panola,20,State Representative,9,REP,Chris Paddie,102,75,177
-Panola,22,State Representative,9,REP,Chris Paddie,57,58,115
-Panola,26,State Representative,9,REP,Chris Paddie,32,44,76
-Panola,27,State Representative,9,REP,Chris Paddie,245,111,356
-Panola,28,State Representative,9,REP,Chris Paddie,707,275,982
-Panola,29,State Representative,9,REP,Chris Paddie,66,122,188
+Panola,28,Railroad Commissioner,,LIB,Mike Wright,16,11,5
+Panola,29,Railroad Commissioner,,LIB,Mike Wright,2,1,1
+Panola,1,State Representative,9,REP,Chris Paddie,889,249,640
+Panola,2,State Representative,9,REP,Chris Paddie,1018,286,732
+Panola,3,State Representative,9,REP,Chris Paddie,596,286,310
+Panola,5,State Representative,9,REP,Chris Paddie,266,147,119
+Panola,7,State Representative,9,REP,Chris Paddie,314,221,93
+Panola,8,State Representative,9,REP,Chris Paddie,102,56,46
+Panola,9,State Representative,9,REP,Chris Paddie,339,254,85
+Panola,10,State Representative,9,REP,Chris Paddie,153,76,77
+Panola,12,State Representative,9,REP,Chris Paddie,249,152,97
+Panola,13,State Representative,9,REP,Chris Paddie,143,81,62
+Panola,14,State Representative,9,REP,Chris Paddie,235,122,113
+Panola,18,State Representative,9,REP,Chris Paddie,1046,436,610
+Panola,19,State Representative,9,REP,Chris Paddie,181,115,66
+Panola,20,State Representative,9,REP,Chris Paddie,177,75,102
+Panola,22,State Representative,9,REP,Chris Paddie,115,58,57
+Panola,26,State Representative,9,REP,Chris Paddie,76,44,32
+Panola,27,State Representative,9,REP,Chris Paddie,356,111,245
+Panola,28,State Representative,9,REP,Chris Paddie,982,275,707
+Panola,29,State Representative,9,REP,Chris Paddie,188,122,66

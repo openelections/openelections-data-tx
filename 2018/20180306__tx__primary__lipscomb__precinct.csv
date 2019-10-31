@@ -1,61 +1,61 @@
-county,precinct,office,district,party,candidate,votes,early_voting,election_day
-Lipscomb,,U.S. Senate,,REP,"Bruce Jacobson, Jr.",8,4,1
+county,precinct,office,district,party,candidate,votes,election_day,early_voting
+Lipscomb,,U.S. Senate,,REP,"Bruce Jacobson, Jr.",8,1,4
 Lipscomb,,U.S. Senate,,REP,Over Votes,0,0,0
 Lipscomb,,U.S. Senate,,REP,Under Votes,0,0,0
 Lipscomb,,Registered Voters,,REP,,686,,
-Lipscomb,,Ballots Cast,,REP,,95,26,0
+Lipscomb,,Ballots Cast,,REP,,95,0,26
 Lipscomb,,U.S. Senate,,REP,Geraldine Sam,0,0,0
-Lipscomb,,U.S. Senate,,REP,Ted Cruz,73,18,49
-Lipscomb,,U.S. Senate,,REP,Stefano de Stefano,1,0,1
+Lipscomb,,U.S. Senate,,REP,Ted Cruz,73,49,18
+Lipscomb,,U.S. Senate,,REP,Stefano de Stefano,1,1,0
 Lipscomb,,U.S. Senate,,REP,Mary Miller,5,2,2
-Lipscomb,,U.S. House,13,REP,Mac Thornberry,87,24,54
-Lipscomb,,Governor,,REP,SECEDE Kilgore,5,0,5
-Lipscomb,,Governor,,REP,Greg Abbott,78,23,46
+Lipscomb,,U.S. House,13,REP,Mac Thornberry,87,54,24
+Lipscomb,,Governor,,REP,SECEDE Kilgore,5,5,0
+Lipscomb,,Governor,,REP,Greg Abbott,78,46,23
 Lipscomb,,Governor,,REP,Barbara Krueger,5,2,2
-Lipscomb,,Lieutenant Governor,,REP,Scott Milder,47,14,28
-Lipscomb,,Lieutenant Governor,,REP,Dan Patrick,38,12,22
-Lipscomb,,Attorney General,,REP,Ken Paxton,81,23,52
-Lipscomb,,Comptroller of Public Accounts,,REP,Glenn Hegar,81,22,51
-Lipscomb,,Commissioner of the General Land Office,,REP,Davey Edwards,3,1,2
-Lipscomb,,Commissioner of the General Land Office,,REP,George P. Bush,59,17,35
-Lipscomb,,Commissioner of the General Land Office,,REP,Jerry Patterson,11,2,7
+Lipscomb,,Lieutenant Governor,,REP,Scott Milder,47,28,14
+Lipscomb,,Lieutenant Governor,,REP,Dan Patrick,38,22,12
+Lipscomb,,Attorney General,,REP,Ken Paxton,81,52,23
+Lipscomb,,Comptroller of Public Accounts,,REP,Glenn Hegar,81,51,22
+Lipscomb,,Commissioner of the General Land Office,,REP,Davey Edwards,3,2,1
+Lipscomb,,Commissioner of the General Land Office,,REP,George P. Bush,59,35,17
+Lipscomb,,Commissioner of the General Land Office,,REP,Jerry Patterson,11,7,2
 Lipscomb,,Commissioner of the General Land Office,,REP,Rick Range,9,4,4
-Lipscomb,,Commissioner of Agriculture,,REP,Sid Miller,40,10,23
-Lipscomb,,Commissioner of Agriculture,,REP,Jim Hogan,13,1,12
-Lipscomb,,Commissioner of Agriculture,,REP,Trey Blocker,20,11,6
+Lipscomb,,Commissioner of Agriculture,,REP,Sid Miller,40,23,10
+Lipscomb,,Commissioner of Agriculture,,REP,Jim Hogan,13,12,1
+Lipscomb,,Commissioner of Agriculture,,REP,Trey Blocker,20,6,11
 Lipscomb,,Railroad Commissioner,,REP,Weston Martinez,19,9,9
-Lipscomb,,Railroad Commissioner,,REP,Christi Craddick,55,12,34
-Lipscomb,,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,68,19,41
-Lipscomb,,"Justice, Supreme Court, Place 4",,REP,John Devine,68,19,41
-Lipscomb,,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,69,19,42
-Lipscomb,,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,46,13,28
-Lipscomb,,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,23,6,12
-Lipscomb,,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,66,17,41
-Lipscomb,,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,13,1,10
-Lipscomb,,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,25,6,18
-Lipscomb,,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,26,11,10
-Lipscomb,,State Senator,31,REP,Kel Seliger,67,21,38
-Lipscomb,,State Senator,31,REP,Victor Leal,11,3,7
-Lipscomb,,State Senator,31,REP,Mike Canon,15,2,11
-Lipscomb,,State Representative,88,REP,Ken King,46,13,25
-Lipscomb,,State Representative,88,REP,Richard Beyea,30,10,17
-Lipscomb,,State Representative,88,REP,Jason Huddleston,16,2,14
-Lipscomb,,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,66,17,41
-Lipscomb,,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,66,18,40
-Lipscomb,,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,79,23,47
-Lipscomb,,County Judge,,REP,Kevin Wynn,20,10,9
-Lipscomb,,County Judge,,REP,Mickey Simpson,53,8,38
-Lipscomb,,County Judge,,REP,Janice M. Albracht,9,3,4
-Lipscomb,,County Judge,,REP,Andrew T. Copeland,10,4,5
-Lipscomb,,District and County Clerk,,REP,Kim Blau,80,22,49
-Lipscomb,,County Treasurer,,REP,Kimberly Long,80,23,48
-Lipscomb,,Justice of the Peace,,REP,Nancy Shepherd,80,24,47
-Lipscomb,,County Chairman,,REP,Diana Hoover,73,22,45
+Lipscomb,,Railroad Commissioner,,REP,Christi Craddick,55,34,12
+Lipscomb,,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,68,41,19
+Lipscomb,,"Justice, Supreme Court, Place 4",,REP,John Devine,68,41,19
+Lipscomb,,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,69,42,19
+Lipscomb,,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,46,28,13
+Lipscomb,,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,23,12,6
+Lipscomb,,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,66,41,17
+Lipscomb,,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,13,10,1
+Lipscomb,,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,25,18,6
+Lipscomb,,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,26,10,11
+Lipscomb,,State Senator,31,REP,Kel Seliger,67,38,21
+Lipscomb,,State Senator,31,REP,Victor Leal,11,7,3
+Lipscomb,,State Senator,31,REP,Mike Canon,15,11,2
+Lipscomb,,State Representative,88,REP,Ken King,46,25,13
+Lipscomb,,State Representative,88,REP,Richard Beyea,30,17,10
+Lipscomb,,State Representative,88,REP,Jason Huddleston,16,14,2
+Lipscomb,,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,66,41,17
+Lipscomb,,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,66,40,18
+Lipscomb,,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,79,47,23
+Lipscomb,,County Judge,,REP,Kevin Wynn,20,9,10
+Lipscomb,,County Judge,,REP,Mickey Simpson,53,38,8
+Lipscomb,,County Judge,,REP,Janice M. Albracht,9,4,3
+Lipscomb,,County Judge,,REP,Andrew T. Copeland,10,5,4
+Lipscomb,,District and County Clerk,,REP,Kim Blau,80,49,22
+Lipscomb,,County Treasurer,,REP,Kimberly Long,80,48,23
+Lipscomb,,Justice of the Peace,,REP,Nancy Shepherd,80,47,24
+Lipscomb,,County Chairman,,REP,Diana Hoover,73,45,22
 Lipscomb,,U.S. Senate,,DEM,Sema Hernandez,0,0,0
 Lipscomb,,U.S. Senate,,DEM,Over Votes,0,0,0
 Lipscomb,,U.S. Senate,,DEM,Under Votes,0,0,0
 Lipscomb,,Registered Voters,,DEM,,686,,
-Lipscomb,,Ballots Cast,,DEM,,95,26,0
+Lipscomb,,Ballots Cast,,DEM,,95,0,26
 Lipscomb,,U.S. Senate,,DEM,Beto O'Rourke,0,0,0
 Lipscomb,,U.S. Senate,,DEM,Edward Kimbrough,0,0,0
 Lipscomb,,U.S. House,13,DEM,Greg Sagan,0,0,0
@@ -101,94 +101,94 @@ Lipscomb,,Proposition #7 Right to Dignity & Respect:,,,Yes,0,0,0
 Lipscomb,,Proposition #7 Right to Dignity & Respect:,,,No,0,0,0
 Lipscomb,,Proposition #8 Right to Housing:,,,Yes,0,0,0
 Lipscomb,,Proposition #8 Right to Housing:,,,No,0,0,0
-Lipscomb,,Proposition #9 Right to Vote:,,,Yes,1,0,1
+Lipscomb,,Proposition #9 Right to Vote:,,,Yes,1,1,0
 Lipscomb,,Proposition #9 Right to Vote:,,,No,0,0,0
-Lipscomb,,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,1,0,1
+Lipscomb,,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,1,1,0
 Lipscomb,,Proposition #10 Right to a Fair Criminal Justice System:,,,No,0,0,0
-Lipscomb,,Proposition #11 Immigrant Rights:,,,Yes,1,0,1
+Lipscomb,,Proposition #11 Immigrant Rights:,,,Yes,1,1,0
 Lipscomb,,Proposition #11 Immigrant Rights:,,,No,0,0,0
-Lipscomb,,Proposition #12 Right to Fair Taxation:,,,Yes,1,0,1
+Lipscomb,,Proposition #12 Right to Fair Taxation:,,,Yes,1,1,0
 Lipscomb,,Proposition #12 Right to Fair Taxation:,,,No,0,0,0
-Lipscomb,,Proposition 1,,,YES,46,11,31
-Lipscomb,,Proposition 1,,,NO,34,10,19
-Lipscomb,,Proposition 2,,,YES,79,22,46
-Lipscomb,,Proposition 2,,,NO,11,3,8
-Lipscomb,,Proposition 3,,,YES,74,22,45
-Lipscomb,,Proposition 3,,,NO,11,3,5
-Lipscomb,,Proposition 4,,,YES,75,21,45
-Lipscomb,,Proposition 4,,,NO,14,4,8
-Lipscomb,,Proposition 5,,,YES,60,14,37
-Lipscomb,,Proposition 5,,,NO,27,11,14
-Lipscomb,,Proposition 6,,,YES,83,22,52
-Lipscomb,,Proposition 6,,,NO,7,3,2
-Lipscomb,,Proposition 7,,,YES,64,18,41
-Lipscomb,,Proposition 7,,,NO,20,6,10
-Lipscomb,,Proposition 8,,,YES,88,24,53
+Lipscomb,,Proposition 1,,,YES,46,31,11
+Lipscomb,,Proposition 1,,,NO,34,19,10
+Lipscomb,,Proposition 2,,,YES,79,46,22
+Lipscomb,,Proposition 2,,,NO,11,8,3
+Lipscomb,,Proposition 3,,,YES,74,45,22
+Lipscomb,,Proposition 3,,,NO,11,5,3
+Lipscomb,,Proposition 4,,,YES,75,45,21
+Lipscomb,,Proposition 4,,,NO,14,8,4
+Lipscomb,,Proposition 5,,,YES,60,37,14
+Lipscomb,,Proposition 5,,,NO,27,14,11
+Lipscomb,,Proposition 6,,,YES,83,52,22
+Lipscomb,,Proposition 6,,,NO,7,2,3
+Lipscomb,,Proposition 7,,,YES,64,41,18
+Lipscomb,,Proposition 7,,,NO,20,10,6
+Lipscomb,,Proposition 8,,,YES,88,53,24
 Lipscomb,,Proposition 8,,,NO,2,1,1
-Lipscomb,,Proposition 9,,,YES,81,23,53
+Lipscomb,,Proposition 9,,,YES,81,53,23
 Lipscomb,,Proposition 9,,,NO,6,1,1
-Lipscomb,,Proposition 10,,,YES,78,23,47
-Lipscomb,,Proposition 10,,,NO,10,2,6
-Lipscomb,,Proposition 11,,,YES,80,23,48
-Lipscomb,,Proposition 11,,,NO,7,1,5
-Lipscomb,,U.S. Senate,,REP,"Bruce Jacobson, Jr.",6,0,6
+Lipscomb,,Proposition 10,,,YES,78,47,23
+Lipscomb,,Proposition 10,,,NO,10,6,2
+Lipscomb,,Proposition 11,,,YES,80,48,23
+Lipscomb,,Proposition 11,,,NO,7,5,1
+Lipscomb,,U.S. Senate,,REP,"Bruce Jacobson, Jr.",6,6,0
 Lipscomb,,U.S. Senate,,REP,Over Votes,0,0,0
 Lipscomb,,U.S. Senate,,REP,Under Votes,0,0,0
 Lipscomb,,Registered Voters,,REP,,306,,
-Lipscomb,,Ballots Cast,,REP,,76,12,0
+Lipscomb,,Ballots Cast,,REP,,76,0,12
 Lipscomb,,U.S. Senate,,REP,Geraldine Sam,0,0,0
-Lipscomb,,U.S. Senate,,REP,Ted Cruz,60,10,46
+Lipscomb,,U.S. Senate,,REP,Ted Cruz,60,46,10
 Lipscomb,,U.S. Senate,,REP,Stefano de Stefano,0,0,0
-Lipscomb,,U.S. Senate,,REP,Mary Miller,2,0,1
-Lipscomb,,U.S. House,13,REP,Mac Thornberry,68,11,53
+Lipscomb,,U.S. Senate,,REP,Mary Miller,2,1,0
+Lipscomb,,U.S. House,13,REP,Mac Thornberry,68,53,11
 Lipscomb,,Governor,,REP,SECEDE Kilgore,0,0,0
-Lipscomb,,Governor,,REP,Greg Abbott,58,10,45
-Lipscomb,,Governor,,REP,Barbara Krueger,4,0,2
-Lipscomb,,Lieutenant Governor,,REP,Scott Milder,46,10,32
-Lipscomb,,Lieutenant Governor,,REP,Dan Patrick,25,2,22
-Lipscomb,,Attorney General,,REP,Ken Paxton,59,10,45
-Lipscomb,,Comptroller of Public Accounts,,REP,Glenn Hegar,59,10,45
-Lipscomb,,Commissioner of the General Land Office,,REP,Davey Edwards,6,1,4
-Lipscomb,,Commissioner of the General Land Office,,REP,George P. Bush,51,7,42
+Lipscomb,,Governor,,REP,Greg Abbott,58,45,10
+Lipscomb,,Governor,,REP,Barbara Krueger,4,2,0
+Lipscomb,,Lieutenant Governor,,REP,Scott Milder,46,32,10
+Lipscomb,,Lieutenant Governor,,REP,Dan Patrick,25,22,2
+Lipscomb,,Attorney General,,REP,Ken Paxton,59,45,10
+Lipscomb,,Comptroller of Public Accounts,,REP,Glenn Hegar,59,45,10
+Lipscomb,,Commissioner of the General Land Office,,REP,Davey Edwards,6,4,1
+Lipscomb,,Commissioner of the General Land Office,,REP,George P. Bush,51,42,7
 Lipscomb,,Commissioner of the General Land Office,,REP,Jerry Patterson,5,2,2
-Lipscomb,,Commissioner of the General Land Office,,REP,Rick Range,4,1,2
-Lipscomb,,Commissioner of Agriculture,,REP,Sid Miller,33,6,25
-Lipscomb,,Commissioner of Agriculture,,REP,Jim Hogan,12,2,8
-Lipscomb,,Commissioner of Agriculture,,REP,Trey Blocker,16,2,13
-Lipscomb,,Railroad Commissioner,,REP,Weston Martinez,12,3,8
-Lipscomb,,Railroad Commissioner,,REP,Christi Craddick,48,8,36
-Lipscomb,,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,53,10,40
-Lipscomb,,"Justice, Supreme Court, Place 4",,REP,John Devine,51,10,38
-Lipscomb,,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,53,10,40
-Lipscomb,,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,37,6,29
-Lipscomb,,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,19,4,12
-Lipscomb,,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,53,10,40
-Lipscomb,,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,8,1,7
-Lipscomb,,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,24,3,18
-Lipscomb,,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,20,6,12
-Lipscomb,,State Senator,31,REP,Kel Seliger,58,11,42
-Lipscomb,,State Senator,31,REP,Victor Leal,11,1,10
-Lipscomb,,State Senator,31,REP,Mike Canon,5,0,5
-Lipscomb,,State Representative,88,REP,Ken King,57,9,44
-Lipscomb,,State Representative,88,REP,Richard Beyea,12,2,9
-Lipscomb,,State Representative,88,REP,Jason Huddleston,5,1,4
-Lipscomb,,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,54,10,41
-Lipscomb,,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,46,9,34
-Lipscomb,,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,61,9,48
-Lipscomb,,County Judge,,REP,Kevin Wynn,32,7,23
-Lipscomb,,County Judge,,REP,Mickey Simpson,15,1,11
-Lipscomb,,County Judge,,REP,Janice M. Albracht,8,3,5
-Lipscomb,,County Judge,,REP,Andrew T. Copeland,20,0,20
-Lipscomb,,District and County Clerk,,REP,Kim Blau,65,10,52
-Lipscomb,,County Treasurer,,REP,Kimberly Long,67,10,54
-Lipscomb,,"County Commissioner, Precinct No. 2",,REP,Merle L. Miller,62,9,48
-Lipscomb,,Justice of the Peace,,REP,Nancy Shepherd,67,9,54
-Lipscomb,,County Chairman,,REP,Diana Hoover,63,11,49
+Lipscomb,,Commissioner of the General Land Office,,REP,Rick Range,4,2,1
+Lipscomb,,Commissioner of Agriculture,,REP,Sid Miller,33,25,6
+Lipscomb,,Commissioner of Agriculture,,REP,Jim Hogan,12,8,2
+Lipscomb,,Commissioner of Agriculture,,REP,Trey Blocker,16,13,2
+Lipscomb,,Railroad Commissioner,,REP,Weston Martinez,12,8,3
+Lipscomb,,Railroad Commissioner,,REP,Christi Craddick,48,36,8
+Lipscomb,,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,53,40,10
+Lipscomb,,"Justice, Supreme Court, Place 4",,REP,John Devine,51,38,10
+Lipscomb,,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,53,40,10
+Lipscomb,,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,37,29,6
+Lipscomb,,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,19,12,4
+Lipscomb,,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,53,40,10
+Lipscomb,,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,8,7,1
+Lipscomb,,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,24,18,3
+Lipscomb,,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,20,12,6
+Lipscomb,,State Senator,31,REP,Kel Seliger,58,42,11
+Lipscomb,,State Senator,31,REP,Victor Leal,11,10,1
+Lipscomb,,State Senator,31,REP,Mike Canon,5,5,0
+Lipscomb,,State Representative,88,REP,Ken King,57,44,9
+Lipscomb,,State Representative,88,REP,Richard Beyea,12,9,2
+Lipscomb,,State Representative,88,REP,Jason Huddleston,5,4,1
+Lipscomb,,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,54,41,10
+Lipscomb,,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,46,34,9
+Lipscomb,,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,61,48,9
+Lipscomb,,County Judge,,REP,Kevin Wynn,32,23,7
+Lipscomb,,County Judge,,REP,Mickey Simpson,15,11,1
+Lipscomb,,County Judge,,REP,Janice M. Albracht,8,5,3
+Lipscomb,,County Judge,,REP,Andrew T. Copeland,20,20,0
+Lipscomb,,District and County Clerk,,REP,Kim Blau,65,52,10
+Lipscomb,,County Treasurer,,REP,Kimberly Long,67,54,10
+Lipscomb,,"County Commissioner, Precinct No. 2",,REP,Merle L. Miller,62,48,9
+Lipscomb,,Justice of the Peace,,REP,Nancy Shepherd,67,54,9
+Lipscomb,,County Chairman,,REP,Diana Hoover,63,49,11
 Lipscomb,,U.S. Senate,,DEM,Sema Hernandez,0,0,0
 Lipscomb,,U.S. Senate,,DEM,Over Votes,0,0,0
 Lipscomb,,U.S. Senate,,DEM,Under Votes,0,0,0
 Lipscomb,,Registered Voters,,DEM,,306,,
-Lipscomb,,Ballots Cast,,DEM,,76,12,0
+Lipscomb,,Ballots Cast,,DEM,,76,0,12
 Lipscomb,,U.S. Senate,,DEM,Beto O'Rourke,0,0,0
 Lipscomb,,U.S. Senate,,DEM,Edward Kimbrough,0,0,0
 Lipscomb,,U.S. House,13,DEM,Greg Sagan,0,0,0
@@ -242,235 +242,235 @@ Lipscomb,,Proposition #11 Immigrant Rights:,,,Yes,0,0,0
 Lipscomb,,Proposition #11 Immigrant Rights:,,,No,0,0,0
 Lipscomb,,Proposition #12 Right to Fair Taxation:,,,Yes,0,0,0
 Lipscomb,,Proposition #12 Right to Fair Taxation:,,,No,0,0,0
-Lipscomb,,Proposition 1,,,YES,30,3,24
-Lipscomb,,Proposition 1,,,NO,31,6,23
-Lipscomb,,Proposition 2,,,YES,57,7,46
-Lipscomb,,Proposition 2,,,NO,13,4,8
-Lipscomb,,Proposition 3,,,YES,56,10,41
-Lipscomb,,Proposition 3,,,NO,8,1,7
-Lipscomb,,Proposition 4,,,YES,62,9,49
-Lipscomb,,Proposition 4,,,NO,9,2,6
-Lipscomb,,Proposition 5,,,YES,35,2,32
-Lipscomb,,Proposition 5,,,NO,36,9,23
-Lipscomb,,Proposition 6,,,YES,66,10,51
-Lipscomb,,Proposition 6,,,NO,7,1,6
-Lipscomb,,Proposition 7,,,YES,54,8,43
-Lipscomb,,Proposition 7,,,NO,17,3,12
-Lipscomb,,Proposition 8,,,YES,69,10,54
+Lipscomb,,Proposition 1,,,YES,30,24,3
+Lipscomb,,Proposition 1,,,NO,31,23,6
+Lipscomb,,Proposition 2,,,YES,57,46,7
+Lipscomb,,Proposition 2,,,NO,13,8,4
+Lipscomb,,Proposition 3,,,YES,56,41,10
+Lipscomb,,Proposition 3,,,NO,8,7,1
+Lipscomb,,Proposition 4,,,YES,62,49,9
+Lipscomb,,Proposition 4,,,NO,9,6,2
+Lipscomb,,Proposition 5,,,YES,35,32,2
+Lipscomb,,Proposition 5,,,NO,36,23,9
+Lipscomb,,Proposition 6,,,YES,66,51,10
+Lipscomb,,Proposition 6,,,NO,7,6,1
+Lipscomb,,Proposition 7,,,YES,54,43,8
+Lipscomb,,Proposition 7,,,NO,17,12,3
+Lipscomb,,Proposition 8,,,YES,69,54,10
 Lipscomb,,Proposition 8,,,NO,2,1,1
-Lipscomb,,Proposition 9,,,YES,69,10,55
-Lipscomb,,Proposition 9,,,NO,5,1,3
-Lipscomb,,Proposition 10,,,YES,63,7,52
+Lipscomb,,Proposition 9,,,YES,69,55,10
+Lipscomb,,Proposition 9,,,NO,5,3,1
+Lipscomb,,Proposition 10,,,YES,63,52,7
 Lipscomb,,Proposition 10,,,NO,9,4,4
-Lipscomb,,Proposition 11,,,YES,60,9,47
-Lipscomb,,Proposition 11,,,NO,11,2,8
-Lipscomb,,U.S. Senate,,REP,"Bruce Jacobson, Jr.",20,0,18
+Lipscomb,,Proposition 11,,,YES,60,47,9
+Lipscomb,,Proposition 11,,,NO,11,8,2
+Lipscomb,,U.S. Senate,,REP,"Bruce Jacobson, Jr.",20,18,0
 Lipscomb,,U.S. Senate,,REP,Over Votes,0,0,0
 Lipscomb,,U.S. Senate,,REP,Under Votes,0,0,0
 Lipscomb,,Registered Voters,,REP,,740,,
-Lipscomb,,Ballots Cast,,REP,,150,6,3
-Lipscomb,,U.S. Senate,,REP,Geraldine Sam,3,0,3
-Lipscomb,,U.S. Senate,,REP,Ted Cruz,113,6,106
-Lipscomb,,U.S. Senate,,REP,Stefano de Stefano,4,0,4
-Lipscomb,,U.S. Senate,,REP,Mary Miller,2,0,2
-Lipscomb,,U.S. House,13,REP,Mac Thornberry,134,6,127
-Lipscomb,,Governor,,REP,SECEDE Kilgore,7,0,6
-Lipscomb,,Governor,,REP,Greg Abbott,121,6,113
-Lipscomb,,Governor,,REP,Barbara Krueger,6,0,6
-Lipscomb,,Lieutenant Governor,,REP,Scott Milder,83,3,80
-Lipscomb,,Lieutenant Governor,,REP,Dan Patrick,60,3,54
-Lipscomb,,Attorney General,,REP,Ken Paxton,128,6,121
-Lipscomb,,Comptroller of Public Accounts,,REP,Glenn Hegar,123,6,116
-Lipscomb,,Commissioner of the General Land Office,,REP,Davey Edwards,14,0,12
-Lipscomb,,Commissioner of the General Land Office,,REP,George P. Bush,87,6,81
-Lipscomb,,Commissioner of the General Land Office,,REP,Jerry Patterson,29,0,29
-Lipscomb,,Commissioner of the General Land Office,,REP,Rick Range,5,0,4
-Lipscomb,,Commissioner of Agriculture,,REP,Sid Miller,77,3,73
-Lipscomb,,Commissioner of Agriculture,,REP,Jim Hogan,24,1,22
-Lipscomb,,Commissioner of Agriculture,,REP,Trey Blocker,23,0,22
-Lipscomb,,Railroad Commissioner,,REP,Weston Martinez,46,0,45
-Lipscomb,,Railroad Commissioner,,REP,Christi Craddick,80,4,74
-Lipscomb,,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,111,6,104
-Lipscomb,,"Justice, Supreme Court, Place 4",,REP,John Devine,112,6,105
-Lipscomb,,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,107,6,100
-Lipscomb,,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,76,3,72
-Lipscomb,,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,42,2,38
-Lipscomb,,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,104,6,97
-Lipscomb,,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,28,0,27
-Lipscomb,,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,50,1,47
-Lipscomb,,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,36,2,34
-Lipscomb,,State Senator,31,REP,Kel Seliger,102,6,95
-Lipscomb,,State Senator,31,REP,Victor Leal,16,0,14
-Lipscomb,,State Senator,31,REP,Mike Canon,28,0,28
-Lipscomb,,State Representative,88,REP,Ken King,68,3,64
-Lipscomb,,State Representative,88,REP,Richard Beyea,41,0,41
-Lipscomb,,State Representative,88,REP,Jason Huddleston,38,3,33
-Lipscomb,,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,111,6,104
-Lipscomb,,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,106,6,99
-Lipscomb,,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,114,6,107
-Lipscomb,,County Judge,,REP,Kevin Wynn,37,2,34
-Lipscomb,,County Judge,,REP,Mickey Simpson,95,4,90
-Lipscomb,,County Judge,,REP,Janice M. Albracht,8,0,8
-Lipscomb,,County Judge,,REP,Andrew T. Copeland,7,0,6
-Lipscomb,,District and County Clerk,,REP,Kim Blau,128,6,120
-Lipscomb,,County Treasurer,,REP,Kimberly Long,130,6,122
-Lipscomb,,"County Commissioner, Precinct No. 2",,REP,Merle L. Miller,126,6,118
-Lipscomb,,Justice of the Peace,,REP,Nancy Shepherd,126,6,118
-Lipscomb,,County Chairman,,REP,Diana Hoover,117,6,109
-Lipscomb,,U.S. Senate,,DEM,Sema Hernandez,1,0,1
+Lipscomb,,Ballots Cast,,REP,,150,3,6
+Lipscomb,,U.S. Senate,,REP,Geraldine Sam,3,3,0
+Lipscomb,,U.S. Senate,,REP,Ted Cruz,113,106,6
+Lipscomb,,U.S. Senate,,REP,Stefano de Stefano,4,4,0
+Lipscomb,,U.S. Senate,,REP,Mary Miller,2,2,0
+Lipscomb,,U.S. House,13,REP,Mac Thornberry,134,127,6
+Lipscomb,,Governor,,REP,SECEDE Kilgore,7,6,0
+Lipscomb,,Governor,,REP,Greg Abbott,121,113,6
+Lipscomb,,Governor,,REP,Barbara Krueger,6,6,0
+Lipscomb,,Lieutenant Governor,,REP,Scott Milder,83,80,3
+Lipscomb,,Lieutenant Governor,,REP,Dan Patrick,60,54,3
+Lipscomb,,Attorney General,,REP,Ken Paxton,128,121,6
+Lipscomb,,Comptroller of Public Accounts,,REP,Glenn Hegar,123,116,6
+Lipscomb,,Commissioner of the General Land Office,,REP,Davey Edwards,14,12,0
+Lipscomb,,Commissioner of the General Land Office,,REP,George P. Bush,87,81,6
+Lipscomb,,Commissioner of the General Land Office,,REP,Jerry Patterson,29,29,0
+Lipscomb,,Commissioner of the General Land Office,,REP,Rick Range,5,4,0
+Lipscomb,,Commissioner of Agriculture,,REP,Sid Miller,77,73,3
+Lipscomb,,Commissioner of Agriculture,,REP,Jim Hogan,24,22,1
+Lipscomb,,Commissioner of Agriculture,,REP,Trey Blocker,23,22,0
+Lipscomb,,Railroad Commissioner,,REP,Weston Martinez,46,45,0
+Lipscomb,,Railroad Commissioner,,REP,Christi Craddick,80,74,4
+Lipscomb,,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,111,104,6
+Lipscomb,,"Justice, Supreme Court, Place 4",,REP,John Devine,112,105,6
+Lipscomb,,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,107,100,6
+Lipscomb,,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,76,72,3
+Lipscomb,,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,42,38,2
+Lipscomb,,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,104,97,6
+Lipscomb,,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,28,27,0
+Lipscomb,,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,50,47,1
+Lipscomb,,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,36,34,2
+Lipscomb,,State Senator,31,REP,Kel Seliger,102,95,6
+Lipscomb,,State Senator,31,REP,Victor Leal,16,14,0
+Lipscomb,,State Senator,31,REP,Mike Canon,28,28,0
+Lipscomb,,State Representative,88,REP,Ken King,68,64,3
+Lipscomb,,State Representative,88,REP,Richard Beyea,41,41,0
+Lipscomb,,State Representative,88,REP,Jason Huddleston,38,33,3
+Lipscomb,,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,111,104,6
+Lipscomb,,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,106,99,6
+Lipscomb,,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,114,107,6
+Lipscomb,,County Judge,,REP,Kevin Wynn,37,34,2
+Lipscomb,,County Judge,,REP,Mickey Simpson,95,90,4
+Lipscomb,,County Judge,,REP,Janice M. Albracht,8,8,0
+Lipscomb,,County Judge,,REP,Andrew T. Copeland,7,6,0
+Lipscomb,,District and County Clerk,,REP,Kim Blau,128,120,6
+Lipscomb,,County Treasurer,,REP,Kimberly Long,130,122,6
+Lipscomb,,"County Commissioner, Precinct No. 2",,REP,Merle L. Miller,126,118,6
+Lipscomb,,Justice of the Peace,,REP,Nancy Shepherd,126,118,6
+Lipscomb,,County Chairman,,REP,Diana Hoover,117,109,6
+Lipscomb,,U.S. Senate,,DEM,Sema Hernandez,1,1,0
 Lipscomb,,U.S. Senate,,DEM,Over Votes,0,0,0
 Lipscomb,,U.S. Senate,,DEM,Under Votes,0,0,0
 Lipscomb,,Registered Voters,,DEM,,740,,
-Lipscomb,,Ballots Cast,,DEM,,150,6,0
+Lipscomb,,Ballots Cast,,DEM,,150,0,6
 Lipscomb,,U.S. Senate,,DEM,Beto O'Rourke,0,0,0
 Lipscomb,,U.S. Senate,,DEM,Edward Kimbrough,1,0,0
-Lipscomb,,U.S. House,13,DEM,Greg Sagan,2,0,1
+Lipscomb,,U.S. House,13,DEM,Greg Sagan,2,1,0
 Lipscomb,,Governor,,DEM,Joe Mumbach,0,0,0
 Lipscomb,,Governor,,DEM,Tom Wakely,0,0,0
-Lipscomb,,Governor,,DEM,Jeffrey Payne,2,0,1
+Lipscomb,,Governor,,DEM,Jeffrey Payne,2,1,0
 Lipscomb,,Governor,,DEM,Andrew White,0,0,0
 Lipscomb,,Governor,,DEM,Grady Yarbrough,0,0,0
 Lipscomb,,Governor,,DEM,Lupe Valdez,0,0,0
 Lipscomb,,Governor,,DEM,James Jolly Clark,0,0,0
 Lipscomb,,Governor,,DEM,"Cedric Davis, Sr.",0,0,0
 Lipscomb,,Governor,,DEM,Adrian Ocegueda,0,0,0
-Lipscomb,,Lieutenant Governor,,DEM,Mike Collier,1,0,1
+Lipscomb,,Lieutenant Governor,,DEM,Mike Collier,1,1,0
 Lipscomb,,Lieutenant Governor,,DEM,Michael Cooper,1,0,0
-Lipscomb,,Attorney General,,DEM,Justin Nelson,2,0,1
+Lipscomb,,Attorney General,,DEM,Justin Nelson,2,1,0
 Lipscomb,,Comptroller of Public Accounts,,DEM,Joi Chevalier,0,0,0
-Lipscomb,,Comptroller of Public Accounts,,DEM,Tim Mahoney,2,0,1
+Lipscomb,,Comptroller of Public Accounts,,DEM,Tim Mahoney,2,1,0
 Lipscomb,,Commissioner of the General Land Office,,DEM,Tex Morgan,1,0,0
-Lipscomb,,Commissioner of the General Land Office,,DEM,Miguel Suazo,1,0,1
-Lipscomb,,Commissioner of Agriculture,,DEM,Kim Olson,2,0,1
+Lipscomb,,Commissioner of the General Land Office,,DEM,Miguel Suazo,1,1,0
+Lipscomb,,Commissioner of Agriculture,,DEM,Kim Olson,2,1,0
 Lipscomb,,Railroad Commissioner,,DEM,Chris Spellmon,1,0,0
-Lipscomb,,Railroad Commissioner,,DEM,Roman McAllen,1,0,1
-Lipscomb,,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,2,0,1
-Lipscomb,,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,2,0,1
-Lipscomb,,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,2,0,1
-Lipscomb,,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,2,0,1
-Lipscomb,,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,2,0,1
-Lipscomb,,State Representative,88,DEM,Ezekiel Barron,2,0,1
-Lipscomb,,County Chairman,,DEM,Virginia Scott,2,0,1
-Lipscomb,,Proposition #1 Right to a 21st Century Public Education:,,,Yes,1,0,1
+Lipscomb,,Railroad Commissioner,,DEM,Roman McAllen,1,1,0
+Lipscomb,,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,2,1,0
+Lipscomb,,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,2,1,0
+Lipscomb,,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,2,1,0
+Lipscomb,,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,2,1,0
+Lipscomb,,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,2,1,0
+Lipscomb,,State Representative,88,DEM,Ezekiel Barron,2,1,0
+Lipscomb,,County Chairman,,DEM,Virginia Scott,2,1,0
+Lipscomb,,Proposition #1 Right to a 21st Century Public Education:,,,Yes,1,1,0
 Lipscomb,,Proposition #1 Right to a 21st Century Public Education:,,,No,1,0,0
-Lipscomb,,Proposition #2 Student Loan Debt:,,,Yes,2,0,1
+Lipscomb,,Proposition #2 Student Loan Debt:,,,Yes,2,1,0
 Lipscomb,,Proposition #2 Student Loan Debt:,,,No,0,0,0
-Lipscomb,,Proposition #3 Right to Healthcare:,,,Yes,1,0,1
+Lipscomb,,Proposition #3 Right to Healthcare:,,,Yes,1,1,0
 Lipscomb,,Proposition #3 Right to Healthcare:,,,No,0,0,0
-Lipscomb,,Proposition #4 Right to Economic Security:,,,Yes,2,0,1
+Lipscomb,,Proposition #4 Right to Economic Security:,,,Yes,2,1,0
 Lipscomb,,Proposition #4 Right to Economic Security:,,,No,0,0,0
-Lipscomb,,Proposition #5 National Jobs Program:,,,Yes,1,0,1
+Lipscomb,,Proposition #5 National Jobs Program:,,,Yes,1,1,0
 Lipscomb,,Proposition #5 National Jobs Program:,,,No,1,0,0
-Lipscomb,,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,2,0,1
+Lipscomb,,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,2,1,0
 Lipscomb,,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,0,0,0
-Lipscomb,,Proposition #7 Right to Dignity & Respect:,,,Yes,2,0,1
+Lipscomb,,Proposition #7 Right to Dignity & Respect:,,,Yes,2,1,0
 Lipscomb,,Proposition #7 Right to Dignity & Respect:,,,No,0,0,0
-Lipscomb,,Proposition #8 Right to Housing:,,,Yes,2,0,1
+Lipscomb,,Proposition #8 Right to Housing:,,,Yes,2,1,0
 Lipscomb,,Proposition #8 Right to Housing:,,,No,0,0,0
-Lipscomb,,Proposition #9 Right to Vote:,,,Yes,2,0,1
+Lipscomb,,Proposition #9 Right to Vote:,,,Yes,2,1,0
 Lipscomb,,Proposition #9 Right to Vote:,,,No,0,0,0
-Lipscomb,,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,2,0,1
+Lipscomb,,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,2,1,0
 Lipscomb,,Proposition #10 Right to a Fair Criminal Justice System:,,,No,0,0,0
-Lipscomb,,Proposition #11 Immigrant Rights:,,,Yes,2,0,1
+Lipscomb,,Proposition #11 Immigrant Rights:,,,Yes,2,1,0
 Lipscomb,,Proposition #11 Immigrant Rights:,,,No,0,0,0
-Lipscomb,,Proposition #12 Right to Fair Taxation:,,,Yes,2,0,1
+Lipscomb,,Proposition #12 Right to Fair Taxation:,,,Yes,2,1,0
 Lipscomb,,Proposition #12 Right to Fair Taxation:,,,No,0,0,0
-Lipscomb,,Proposition 1,,,YES,89,3,83
-Lipscomb,,Proposition 1,,,NO,44,3,41
-Lipscomb,,Proposition 2,,,YES,118,5,110
-Lipscomb,,Proposition 2,,,NO,19,1,18
-Lipscomb,,Proposition 3,,,YES,118,5,110
-Lipscomb,,Proposition 3,,,NO,18,1,17
-Lipscomb,,Proposition 4,,,YES,119,5,111
-Lipscomb,,Proposition 4,,,NO,21,1,20
-Lipscomb,,Proposition 5,,,YES,94,3,88
-Lipscomb,,Proposition 5,,,NO,47,3,44
-Lipscomb,,Proposition 6,,,YES,125,5,117
-Lipscomb,,Proposition 6,,,NO,15,1,14
-Lipscomb,,Proposition 7,,,YES,107,6,99
-Lipscomb,,Proposition 7,,,NO,31,0,30
-Lipscomb,,Proposition 8,,,YES,135,6,126
-Lipscomb,,Proposition 8,,,NO,6,0,6
-Lipscomb,,Proposition 9,,,YES,128,6,119
-Lipscomb,,Proposition 9,,,NO,11,0,11
-Lipscomb,,Proposition 10,,,YES,118,5,110
-Lipscomb,,Proposition 10,,,NO,19,1,18
-Lipscomb,,Proposition 11,,,YES,124,4,117
-Lipscomb,,Proposition 11,,,NO,14,2,12
-Lipscomb,,U.S. Senate,,REP,"Bruce Jacobson, Jr.",19,4,11
+Lipscomb,,Proposition 1,,,YES,89,83,3
+Lipscomb,,Proposition 1,,,NO,44,41,3
+Lipscomb,,Proposition 2,,,YES,118,110,5
+Lipscomb,,Proposition 2,,,NO,19,18,1
+Lipscomb,,Proposition 3,,,YES,118,110,5
+Lipscomb,,Proposition 3,,,NO,18,17,1
+Lipscomb,,Proposition 4,,,YES,119,111,5
+Lipscomb,,Proposition 4,,,NO,21,20,1
+Lipscomb,,Proposition 5,,,YES,94,88,3
+Lipscomb,,Proposition 5,,,NO,47,44,3
+Lipscomb,,Proposition 6,,,YES,125,117,5
+Lipscomb,,Proposition 6,,,NO,15,14,1
+Lipscomb,,Proposition 7,,,YES,107,99,6
+Lipscomb,,Proposition 7,,,NO,31,30,0
+Lipscomb,,Proposition 8,,,YES,135,126,6
+Lipscomb,,Proposition 8,,,NO,6,6,0
+Lipscomb,,Proposition 9,,,YES,128,119,6
+Lipscomb,,Proposition 9,,,NO,11,11,0
+Lipscomb,,Proposition 10,,,YES,118,110,5
+Lipscomb,,Proposition 10,,,NO,19,18,1
+Lipscomb,,Proposition 11,,,YES,124,117,4
+Lipscomb,,Proposition 11,,,NO,14,12,2
+Lipscomb,,U.S. Senate,,REP,"Bruce Jacobson, Jr.",19,11,4
 Lipscomb,,U.S. Senate,,REP,Over Votes,0,0,0
 Lipscomb,,U.S. Senate,,REP,Under Votes,0,0,0
 Lipscomb,,Registered Voters,,REP,,858,,
-Lipscomb,,Ballots Cast,,REP,,226,27,2
-Lipscomb,,U.S. Senate,,REP,Geraldine Sam,2,0,2
-Lipscomb,,U.S. Senate,,REP,Ted Cruz,168,15,138
-Lipscomb,,U.S. Senate,,REP,Stefano de Stefano,2,0,2
-Lipscomb,,U.S. Senate,,REP,Mary Miller,6,0,6
-Lipscomb,,U.S. House,13,REP,Mac Thornberry,189,19,152
-Lipscomb,,Governor,,REP,SECEDE Kilgore,12,0,11
-Lipscomb,,Governor,,REP,Greg Abbott,176,18,140
-Lipscomb,,Governor,,REP,Barbara Krueger,10,2,8
-Lipscomb,,Lieutenant Governor,,REP,Scott Milder,78,11,62
-Lipscomb,,Lieutenant Governor,,REP,Dan Patrick,114,7,94
-Lipscomb,,Attorney General,,REP,Ken Paxton,180,15,148
-Lipscomb,,Comptroller of Public Accounts,,REP,Glenn Hegar,178,15,146
-Lipscomb,,Commissioner of the General Land Office,,REP,Davey Edwards,13,2,11
-Lipscomb,,Commissioner of the General Land Office,,REP,George P. Bush,137,11,112
-Lipscomb,,Commissioner of the General Land Office,,REP,Jerry Patterson,22,3,18
-Lipscomb,,Commissioner of the General Land Office,,REP,Rick Range,11,0,10
-Lipscomb,,Commissioner of Agriculture,,REP,Sid Miller,103,11,86
-Lipscomb,,Commissioner of Agriculture,,REP,Jim Hogan,33,2,31
-Lipscomb,,Commissioner of Agriculture,,REP,Trey Blocker,35,2,24
-Lipscomb,,Railroad Commissioner,,REP,Weston Martinez,63,1,54
-Lipscomb,,Railroad Commissioner,,REP,Christi Craddick,105,13,83
-Lipscomb,,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,162,13,133
-Lipscomb,,"Justice, Supreme Court, Place 4",,REP,John Devine,162,13,133
-Lipscomb,,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,160,13,131
-Lipscomb,,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,98,2,86
-Lipscomb,,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,65,11,50
-Lipscomb,,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,152,13,124
-Lipscomb,,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,28,0,25
-Lipscomb,,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,71,8,59
-Lipscomb,,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,57,3,47
-Lipscomb,,State Senator,31,REP,Kel Seliger,150,13,123
-Lipscomb,,State Senator,31,REP,Victor Leal,24,4,15
-Lipscomb,,State Senator,31,REP,Mike Canon,27,1,26
-Lipscomb,,State Representative,88,REP,Ken King,130,8,107
-Lipscomb,,State Representative,88,REP,Richard Beyea,31,4,26
-Lipscomb,,State Representative,88,REP,Jason Huddleston,44,9,32
-Lipscomb,,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,160,14,130
-Lipscomb,,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,152,13,123
-Lipscomb,,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,168,15,137
-Lipscomb,,County Judge,,REP,Kevin Wynn,76,10,62
-Lipscomb,,County Judge,,REP,Mickey Simpson,23,3,17
-Lipscomb,,County Judge,,REP,Janice M. Albracht,12,2,10
-Lipscomb,,County Judge,,REP,Andrew T. Copeland,109,11,85
-Lipscomb,,District and County Clerk,,REP,Kim Blau,183,20,147
-Lipscomb,,County Treasurer,,REP,Kimberly Long,184,18,147
-Lipscomb,,Justice of the Peace,,REP,Nancy Shepherd,194,20,155
-Lipscomb,,County Chairman,,REP,Diana Hoover,182,18,145
+Lipscomb,,Ballots Cast,,REP,,226,2,27
+Lipscomb,,U.S. Senate,,REP,Geraldine Sam,2,2,0
+Lipscomb,,U.S. Senate,,REP,Ted Cruz,168,138,15
+Lipscomb,,U.S. Senate,,REP,Stefano de Stefano,2,2,0
+Lipscomb,,U.S. Senate,,REP,Mary Miller,6,6,0
+Lipscomb,,U.S. House,13,REP,Mac Thornberry,189,152,19
+Lipscomb,,Governor,,REP,SECEDE Kilgore,12,11,0
+Lipscomb,,Governor,,REP,Greg Abbott,176,140,18
+Lipscomb,,Governor,,REP,Barbara Krueger,10,8,2
+Lipscomb,,Lieutenant Governor,,REP,Scott Milder,78,62,11
+Lipscomb,,Lieutenant Governor,,REP,Dan Patrick,114,94,7
+Lipscomb,,Attorney General,,REP,Ken Paxton,180,148,15
+Lipscomb,,Comptroller of Public Accounts,,REP,Glenn Hegar,178,146,15
+Lipscomb,,Commissioner of the General Land Office,,REP,Davey Edwards,13,11,2
+Lipscomb,,Commissioner of the General Land Office,,REP,George P. Bush,137,112,11
+Lipscomb,,Commissioner of the General Land Office,,REP,Jerry Patterson,22,18,3
+Lipscomb,,Commissioner of the General Land Office,,REP,Rick Range,11,10,0
+Lipscomb,,Commissioner of Agriculture,,REP,Sid Miller,103,86,11
+Lipscomb,,Commissioner of Agriculture,,REP,Jim Hogan,33,31,2
+Lipscomb,,Commissioner of Agriculture,,REP,Trey Blocker,35,24,2
+Lipscomb,,Railroad Commissioner,,REP,Weston Martinez,63,54,1
+Lipscomb,,Railroad Commissioner,,REP,Christi Craddick,105,83,13
+Lipscomb,,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,162,133,13
+Lipscomb,,"Justice, Supreme Court, Place 4",,REP,John Devine,162,133,13
+Lipscomb,,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,160,131,13
+Lipscomb,,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,98,86,2
+Lipscomb,,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,65,50,11
+Lipscomb,,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,152,124,13
+Lipscomb,,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,28,25,0
+Lipscomb,,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,71,59,8
+Lipscomb,,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,57,47,3
+Lipscomb,,State Senator,31,REP,Kel Seliger,150,123,13
+Lipscomb,,State Senator,31,REP,Victor Leal,24,15,4
+Lipscomb,,State Senator,31,REP,Mike Canon,27,26,1
+Lipscomb,,State Representative,88,REP,Ken King,130,107,8
+Lipscomb,,State Representative,88,REP,Richard Beyea,31,26,4
+Lipscomb,,State Representative,88,REP,Jason Huddleston,44,32,9
+Lipscomb,,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,160,130,14
+Lipscomb,,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,152,123,13
+Lipscomb,,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,168,137,15
+Lipscomb,,County Judge,,REP,Kevin Wynn,76,62,10
+Lipscomb,,County Judge,,REP,Mickey Simpson,23,17,3
+Lipscomb,,County Judge,,REP,Janice M. Albracht,12,10,2
+Lipscomb,,County Judge,,REP,Andrew T. Copeland,109,85,11
+Lipscomb,,District and County Clerk,,REP,Kim Blau,183,147,20
+Lipscomb,,County Treasurer,,REP,Kimberly Long,184,147,18
+Lipscomb,,Justice of the Peace,,REP,Nancy Shepherd,194,155,20
+Lipscomb,,County Chairman,,REP,Diana Hoover,182,145,18
 Lipscomb,,U.S. Senate,,DEM,Sema Hernandez,2,1,1
 Lipscomb,,U.S. Senate,,DEM,Over Votes,0,0,0
 Lipscomb,,U.S. Senate,,DEM,Under Votes,0,0,0
 Lipscomb,,Registered Voters,,DEM,,858,,
-Lipscomb,,Ballots Cast,,DEM,,226,27,0
+Lipscomb,,Ballots Cast,,DEM,,226,0,27
 Lipscomb,,U.S. Senate,,DEM,Beto O'Rourke,1,0,0
 Lipscomb,,U.S. Senate,,DEM,Edward Kimbrough,2,0,0
 Lipscomb,,U.S. House,13,DEM,Greg Sagan,5,1,1
-Lipscomb,,Governor,,DEM,Joe Mumbach,1,1,0
+Lipscomb,,Governor,,DEM,Joe Mumbach,1,0,1
 Lipscomb,,Governor,,DEM,Tom Wakely,0,0,0
 Lipscomb,,Governor,,DEM,Jeffrey Payne,0,0,0
 Lipscomb,,Governor,,DEM,Andrew White,0,0,0
 Lipscomb,,Governor,,DEM,Grady Yarbrough,3,0,0
-Lipscomb,,Governor,,DEM,Lupe Valdez,1,0,1
+Lipscomb,,Governor,,DEM,Lupe Valdez,1,1,0
 Lipscomb,,Governor,,DEM,James Jolly Clark,0,0,0
 Lipscomb,,Governor,,DEM,"Cedric Davis, Sr.",0,0,0
 Lipscomb,,Governor,,DEM,Adrian Ocegueda,0,0,0
 Lipscomb,,Lieutenant Governor,,DEM,Mike Collier,4,1,1
 Lipscomb,,Lieutenant Governor,,DEM,Michael Cooper,0,0,0
 Lipscomb,,Attorney General,,DEM,Justin Nelson,5,1,1
-Lipscomb,,Comptroller of Public Accounts,,DEM,Joi Chevalier,2,1,0
-Lipscomb,,Comptroller of Public Accounts,,DEM,Tim Mahoney,3,0,1
+Lipscomb,,Comptroller of Public Accounts,,DEM,Joi Chevalier,2,0,1
+Lipscomb,,Comptroller of Public Accounts,,DEM,Tim Mahoney,3,1,0
 Lipscomb,,Commissioner of the General Land Office,,DEM,Tex Morgan,2,1,1
 Lipscomb,,Commissioner of the General Land Office,,DEM,Miguel Suazo,3,0,0
 Lipscomb,,Commissioner of Agriculture,,DEM,Kim Olson,5,1,1
@@ -491,8 +491,8 @@ Lipscomb,,Proposition #3 Right to Healthcare:,,,Yes,5,1,1
 Lipscomb,,Proposition #3 Right to Healthcare:,,,No,0,0,0
 Lipscomb,,Proposition #4 Right to Economic Security:,,,Yes,5,1,1
 Lipscomb,,Proposition #4 Right to Economic Security:,,,No,0,0,0
-Lipscomb,,Proposition #5 National Jobs Program:,,,Yes,4,1,0
-Lipscomb,,Proposition #5 National Jobs Program:,,,No,1,0,1
+Lipscomb,,Proposition #5 National Jobs Program:,,,Yes,4,0,1
+Lipscomb,,Proposition #5 National Jobs Program:,,,No,1,1,0
 Lipscomb,,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,5,1,1
 Lipscomb,,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,0,0,0
 Lipscomb,,Proposition #7 Right to Dignity & Respect:,,,Yes,5,1,1
@@ -503,93 +503,93 @@ Lipscomb,,Proposition #9 Right to Vote:,,,Yes,5,1,1
 Lipscomb,,Proposition #9 Right to Vote:,,,No,0,0,0
 Lipscomb,,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,5,1,1
 Lipscomb,,Proposition #10 Right to a Fair Criminal Justice System:,,,No,0,0,0
-Lipscomb,,Proposition #11 Immigrant Rights:,,,Yes,4,1,0
-Lipscomb,,Proposition #11 Immigrant Rights:,,,No,1,0,1
+Lipscomb,,Proposition #11 Immigrant Rights:,,,Yes,4,0,1
+Lipscomb,,Proposition #11 Immigrant Rights:,,,No,1,1,0
 Lipscomb,,Proposition #12 Right to Fair Taxation:,,,Yes,5,1,1
 Lipscomb,,Proposition #12 Right to Fair Taxation:,,,No,0,0,0
-Lipscomb,,Proposition 1,,,YES,98,11,78
-Lipscomb,,Proposition 1,,,NO,90,7,76
-Lipscomb,,Proposition 2,,,YES,179,19,142
-Lipscomb,,Proposition 2,,,NO,20,1,19
-Lipscomb,,Proposition 3,,,YES,151,14,122
-Lipscomb,,Proposition 3,,,NO,40,6,33
-Lipscomb,,Proposition 4,,,YES,164,13,132
-Lipscomb,,Proposition 4,,,NO,36,7,29
-Lipscomb,,Proposition 5,,,YES,129,11,108
-Lipscomb,,Proposition 5,,,NO,68,10,52
-Lipscomb,,Proposition 6,,,YES,187,20,148
-Lipscomb,,Proposition 6,,,NO,15,1,14
-Lipscomb,,Proposition 7,,,YES,135,18,102
-Lipscomb,,Proposition 7,,,NO,66,5,58
-Lipscomb,,Proposition 8,,,YES,191,21,151
-Lipscomb,,Proposition 8,,,NO,15,1,14
-Lipscomb,,Proposition 9,,,YES,167,16,136
-Lipscomb,,Proposition 9,,,NO,35,4,27
-Lipscomb,,Proposition 10,,,YES,161,15,132
-Lipscomb,,Proposition 10,,,NO,29,3,24
-Lipscomb,,Proposition 11,,,YES,174,18,138
-Lipscomb,,Proposition 11,,,NO,28,2,26
-Lipscomb,,U.S. Senate,,REP,"Bruce Jacobson, Jr.",10,3,7
+Lipscomb,,Proposition 1,,,YES,98,78,11
+Lipscomb,,Proposition 1,,,NO,90,76,7
+Lipscomb,,Proposition 2,,,YES,179,142,19
+Lipscomb,,Proposition 2,,,NO,20,19,1
+Lipscomb,,Proposition 3,,,YES,151,122,14
+Lipscomb,,Proposition 3,,,NO,40,33,6
+Lipscomb,,Proposition 4,,,YES,164,132,13
+Lipscomb,,Proposition 4,,,NO,36,29,7
+Lipscomb,,Proposition 5,,,YES,129,108,11
+Lipscomb,,Proposition 5,,,NO,68,52,10
+Lipscomb,,Proposition 6,,,YES,187,148,20
+Lipscomb,,Proposition 6,,,NO,15,14,1
+Lipscomb,,Proposition 7,,,YES,135,102,18
+Lipscomb,,Proposition 7,,,NO,66,58,5
+Lipscomb,,Proposition 8,,,YES,191,151,21
+Lipscomb,,Proposition 8,,,NO,15,14,1
+Lipscomb,,Proposition 9,,,YES,167,136,16
+Lipscomb,,Proposition 9,,,NO,35,27,4
+Lipscomb,,Proposition 10,,,YES,161,132,15
+Lipscomb,,Proposition 10,,,NO,29,24,3
+Lipscomb,,Proposition 11,,,YES,174,138,18
+Lipscomb,,Proposition 11,,,NO,28,26,2
+Lipscomb,,U.S. Senate,,REP,"Bruce Jacobson, Jr.",10,7,3
 Lipscomb,,U.S. Senate,,REP,Over Votes,0,0,0
 Lipscomb,,U.S. Senate,,REP,Under Votes,0,0,0
 Lipscomb,,Registered Voters,,REP,,350,,
-Lipscomb,,Ballots Cast,,REP,,64,13,0
+Lipscomb,,Ballots Cast,,REP,,64,0,13
 Lipscomb,,U.S. Senate,,REP,Geraldine Sam,0,0,0
-Lipscomb,,U.S. Senate,,REP,Ted Cruz,44,10,31
+Lipscomb,,U.S. Senate,,REP,Ted Cruz,44,31,10
 Lipscomb,,U.S. Senate,,REP,Stefano de Stefano,0,0,0
-Lipscomb,,U.S. Senate,,REP,Mary Miller,4,0,3
-Lipscomb,,U.S. House,13,REP,Mac Thornberry,58,11,43
-Lipscomb,,Governor,,REP,SECEDE Kilgore,1,0,1
-Lipscomb,,Governor,,REP,Greg Abbott,48,11,33
-Lipscomb,,Governor,,REP,Barbara Krueger,10,2,8
-Lipscomb,,Lieutenant Governor,,REP,Scott Milder,32,10,20
-Lipscomb,,Lieutenant Governor,,REP,Dan Patrick,27,2,24
-Lipscomb,,Attorney General,,REP,Ken Paxton,50,9,37
-Lipscomb,,Comptroller of Public Accounts,,REP,Glenn Hegar,50,9,37
+Lipscomb,,U.S. Senate,,REP,Mary Miller,4,3,0
+Lipscomb,,U.S. House,13,REP,Mac Thornberry,58,43,11
+Lipscomb,,Governor,,REP,SECEDE Kilgore,1,1,0
+Lipscomb,,Governor,,REP,Greg Abbott,48,33,11
+Lipscomb,,Governor,,REP,Barbara Krueger,10,8,2
+Lipscomb,,Lieutenant Governor,,REP,Scott Milder,32,20,10
+Lipscomb,,Lieutenant Governor,,REP,Dan Patrick,27,24,2
+Lipscomb,,Attorney General,,REP,Ken Paxton,50,37,9
+Lipscomb,,Comptroller of Public Accounts,,REP,Glenn Hegar,50,37,9
 Lipscomb,,Commissioner of the General Land Office,,REP,Davey Edwards,2,1,1
-Lipscomb,,Commissioner of the General Land Office,,REP,George P. Bush,42,8,32
-Lipscomb,,Commissioner of the General Land Office,,REP,Jerry Patterson,10,0,10
+Lipscomb,,Commissioner of the General Land Office,,REP,George P. Bush,42,32,8
+Lipscomb,,Commissioner of the General Land Office,,REP,Jerry Patterson,10,10,0
 Lipscomb,,Commissioner of the General Land Office,,REP,Rick Range,2,1,1
-Lipscomb,,Commissioner of Agriculture,,REP,Sid Miller,32,7,24
-Lipscomb,,Commissioner of Agriculture,,REP,Jim Hogan,11,3,8
-Lipscomb,,Commissioner of Agriculture,,REP,Trey Blocker,14,3,9
-Lipscomb,,Railroad Commissioner,,REP,Weston Martinez,13,1,11
-Lipscomb,,Railroad Commissioner,,REP,Christi Craddick,40,8,30
-Lipscomb,,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,46,9,34
-Lipscomb,,"Justice, Supreme Court, Place 4",,REP,John Devine,45,9,33
-Lipscomb,,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,44,9,33
-Lipscomb,,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,36,10,25
-Lipscomb,,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,17,2,14
-Lipscomb,,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,45,9,34
-Lipscomb,,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,5,2,3
-Lipscomb,,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,27,5,21
-Lipscomb,,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,18,3,14
-Lipscomb,,State Senator,31,REP,Kel Seliger,38,7,28
-Lipscomb,,State Senator,31,REP,Victor Leal,6,0,6
-Lipscomb,,State Senator,31,REP,Mike Canon,15,5,10
-Lipscomb,,State Representative,88,REP,Ken King,35,6,27
-Lipscomb,,State Representative,88,REP,Richard Beyea,17,3,13
+Lipscomb,,Commissioner of Agriculture,,REP,Sid Miller,32,24,7
+Lipscomb,,Commissioner of Agriculture,,REP,Jim Hogan,11,8,3
+Lipscomb,,Commissioner of Agriculture,,REP,Trey Blocker,14,9,3
+Lipscomb,,Railroad Commissioner,,REP,Weston Martinez,13,11,1
+Lipscomb,,Railroad Commissioner,,REP,Christi Craddick,40,30,8
+Lipscomb,,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,46,34,9
+Lipscomb,,"Justice, Supreme Court, Place 4",,REP,John Devine,45,33,9
+Lipscomb,,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,44,33,9
+Lipscomb,,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,36,25,10
+Lipscomb,,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,17,14,2
+Lipscomb,,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,45,34,9
+Lipscomb,,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,5,3,2
+Lipscomb,,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,27,21,5
+Lipscomb,,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,18,14,3
+Lipscomb,,State Senator,31,REP,Kel Seliger,38,28,7
+Lipscomb,,State Senator,31,REP,Victor Leal,6,6,0
+Lipscomb,,State Senator,31,REP,Mike Canon,15,10,5
+Lipscomb,,State Representative,88,REP,Ken King,35,27,6
+Lipscomb,,State Representative,88,REP,Richard Beyea,17,13,3
 Lipscomb,,State Representative,88,REP,Jason Huddleston,8,4,4
-Lipscomb,,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,43,9,32
-Lipscomb,,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,44,8,34
-Lipscomb,,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,45,9,36
-Lipscomb,,County Judge,,REP,Kevin Wynn,25,8,15
-Lipscomb,,County Judge,,REP,Mickey Simpson,15,2,13
-Lipscomb,,County Judge,,REP,Janice M. Albracht,7,1,6
-Lipscomb,,County Judge,,REP,Andrew T. Copeland,15,2,11
-Lipscomb,,District and County Clerk,,REP,Kim Blau,49,11,34
-Lipscomb,,County Treasurer,,REP,Kimberly Long,50,10,36
-Lipscomb,,Justice of the Peace,,REP,Nancy Shepherd,52,9,39
-Lipscomb,,County Chairman,,REP,Diana Hoover,48,9,35
+Lipscomb,,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,43,32,9
+Lipscomb,,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,44,34,8
+Lipscomb,,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,45,36,9
+Lipscomb,,County Judge,,REP,Kevin Wynn,25,15,8
+Lipscomb,,County Judge,,REP,Mickey Simpson,15,13,2
+Lipscomb,,County Judge,,REP,Janice M. Albracht,7,6,1
+Lipscomb,,County Judge,,REP,Andrew T. Copeland,15,11,2
+Lipscomb,,District and County Clerk,,REP,Kim Blau,49,34,11
+Lipscomb,,County Treasurer,,REP,Kimberly Long,50,36,10
+Lipscomb,,Justice of the Peace,,REP,Nancy Shepherd,52,39,9
+Lipscomb,,County Chairman,,REP,Diana Hoover,48,35,9
 Lipscomb,,U.S. Senate,,DEM,Sema Hernandez,0,0,0
 Lipscomb,,U.S. Senate,,DEM,Over Votes,0,0,0
 Lipscomb,,U.S. Senate,,DEM,Under Votes,0,0,0
 Lipscomb,,Registered Voters,,DEM,,350,,
-Lipscomb,,Ballots Cast,,DEM,,64,13,0
+Lipscomb,,Ballots Cast,,DEM,,64,0,13
 Lipscomb,,U.S. Senate,,DEM,Beto O'Rourke,0,0,0
-Lipscomb,,U.S. Senate,,DEM,Edward Kimbrough,1,0,1
-Lipscomb,,U.S. House,13,DEM,Greg Sagan,1,0,1
-Lipscomb,,Governor,,DEM,Joe Mumbach,1,0,1
+Lipscomb,,U.S. Senate,,DEM,Edward Kimbrough,1,1,0
+Lipscomb,,U.S. House,13,DEM,Greg Sagan,1,1,0
+Lipscomb,,Governor,,DEM,Joe Mumbach,1,1,0
 Lipscomb,,Governor,,DEM,Tom Wakely,0,0,0
 Lipscomb,,Governor,,DEM,Jeffrey Payne,0,0,0
 Lipscomb,,Governor,,DEM,Andrew White,0,0,0
@@ -598,270 +598,270 @@ Lipscomb,,Governor,,DEM,Lupe Valdez,0,0,0
 Lipscomb,,Governor,,DEM,James Jolly Clark,0,0,0
 Lipscomb,,Governor,,DEM,"Cedric Davis, Sr.",0,0,0
 Lipscomb,,Governor,,DEM,Adrian Ocegueda,0,0,0
-Lipscomb,,Lieutenant Governor,,DEM,Mike Collier,1,0,1
+Lipscomb,,Lieutenant Governor,,DEM,Mike Collier,1,1,0
 Lipscomb,,Lieutenant Governor,,DEM,Michael Cooper,0,0,0
-Lipscomb,,Attorney General,,DEM,Justin Nelson,1,0,1
+Lipscomb,,Attorney General,,DEM,Justin Nelson,1,1,0
 Lipscomb,,Comptroller of Public Accounts,,DEM,Joi Chevalier,0,0,0
-Lipscomb,,Comptroller of Public Accounts,,DEM,Tim Mahoney,1,0,1
-Lipscomb,,Commissioner of the General Land Office,,DEM,Tex Morgan,1,0,1
+Lipscomb,,Comptroller of Public Accounts,,DEM,Tim Mahoney,1,1,0
+Lipscomb,,Commissioner of the General Land Office,,DEM,Tex Morgan,1,1,0
 Lipscomb,,Commissioner of the General Land Office,,DEM,Miguel Suazo,0,0,0
 Lipscomb,,Commissioner of Agriculture,,DEM,Kim Olson,0,0,0
-Lipscomb,,Railroad Commissioner,,DEM,Chris Spellmon,1,0,1
+Lipscomb,,Railroad Commissioner,,DEM,Chris Spellmon,1,1,0
 Lipscomb,,Railroad Commissioner,,DEM,Roman McAllen,0,0,0
 Lipscomb,,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,0,0,0
 Lipscomb,,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,0,0,0
 Lipscomb,,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,0,0,0
-Lipscomb,,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,1,0,1
-Lipscomb,,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,1,0,1
+Lipscomb,,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,1,1,0
+Lipscomb,,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,1,1,0
 Lipscomb,,State Representative,88,DEM,Ezekiel Barron,0,0,0
 Lipscomb,,County Chairman,,DEM,Virginia Scott,0,0,0
-Lipscomb,,Proposition #1 Right to a 21st Century Public Education:,,,Yes,1,0,1
+Lipscomb,,Proposition #1 Right to a 21st Century Public Education:,,,Yes,1,1,0
 Lipscomb,,Proposition #1 Right to a 21st Century Public Education:,,,No,0,0,0
-Lipscomb,,Proposition #2 Student Loan Debt:,,,Yes,1,0,1
+Lipscomb,,Proposition #2 Student Loan Debt:,,,Yes,1,1,0
 Lipscomb,,Proposition #2 Student Loan Debt:,,,No,0,0,0
-Lipscomb,,Proposition #3 Right to Healthcare:,,,Yes,1,0,1
+Lipscomb,,Proposition #3 Right to Healthcare:,,,Yes,1,1,0
 Lipscomb,,Proposition #3 Right to Healthcare:,,,No,0,0,0
-Lipscomb,,Proposition #4 Right to Economic Security:,,,Yes,1,0,1
+Lipscomb,,Proposition #4 Right to Economic Security:,,,Yes,1,1,0
 Lipscomb,,Proposition #4 Right to Economic Security:,,,No,0,0,0
-Lipscomb,,Proposition #5 National Jobs Program:,,,Yes,1,0,1
+Lipscomb,,Proposition #5 National Jobs Program:,,,Yes,1,1,0
 Lipscomb,,Proposition #5 National Jobs Program:,,,No,0,0,0
-Lipscomb,,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,1,0,1
+Lipscomb,,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,1,1,0
 Lipscomb,,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,0,0,0
-Lipscomb,,Proposition #7 Right to Dignity & Respect:,,,Yes,1,0,1
+Lipscomb,,Proposition #7 Right to Dignity & Respect:,,,Yes,1,1,0
 Lipscomb,,Proposition #7 Right to Dignity & Respect:,,,No,0,0,0
-Lipscomb,,Proposition #8 Right to Housing:,,,Yes,1,0,1
+Lipscomb,,Proposition #8 Right to Housing:,,,Yes,1,1,0
 Lipscomb,,Proposition #8 Right to Housing:,,,No,0,0,0
-Lipscomb,,Proposition #9 Right to Vote:,,,Yes,1,0,1
+Lipscomb,,Proposition #9 Right to Vote:,,,Yes,1,1,0
 Lipscomb,,Proposition #9 Right to Vote:,,,No,0,0,0
-Lipscomb,,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,1,0,1
+Lipscomb,,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,1,1,0
 Lipscomb,,Proposition #10 Right to a Fair Criminal Justice System:,,,No,0,0,0
-Lipscomb,,Proposition #11 Immigrant Rights:,,,Yes,1,0,1
+Lipscomb,,Proposition #11 Immigrant Rights:,,,Yes,1,1,0
 Lipscomb,,Proposition #11 Immigrant Rights:,,,No,0,0,0
-Lipscomb,,Proposition #12 Right to Fair Taxation:,,,Yes,1,0,1
+Lipscomb,,Proposition #12 Right to Fair Taxation:,,,Yes,1,1,0
 Lipscomb,,Proposition #12 Right to Fair Taxation:,,,No,0,0,0
-Lipscomb,,Proposition 1,,,YES,29,2,26
-Lipscomb,,Proposition 1,,,NO,27,10,16
-Lipscomb,,Proposition 2,,,YES,52,11,39
-Lipscomb,,Proposition 2,,,NO,5,2,3
-Lipscomb,,Proposition 3,,,YES,51,11,38
-Lipscomb,,Proposition 3,,,NO,9,2,6
-Lipscomb,,Proposition 4,,,YES,56,12,40
-Lipscomb,,Proposition 4,,,NO,5,1,4
-Lipscomb,,Proposition 5,,,YES,41,8,29
-Lipscomb,,Proposition 5,,,NO,15,3,12
-Lipscomb,,Proposition 6,,,YES,56,12,40
-Lipscomb,,Proposition 6,,,NO,4,1,3
-Lipscomb,,Proposition 7,,,YES,39,8,28
-Lipscomb,,Proposition 7,,,NO,20,4,16
-Lipscomb,,Proposition 8,,,YES,58,12,42
-Lipscomb,,Proposition 8,,,NO,1,1,0
-Lipscomb,,Proposition 9,,,YES,53,10,39
-Lipscomb,,Proposition 9,,,NO,9,3,6
-Lipscomb,,Proposition 10,,,YES,54,10,41
-Lipscomb,,Proposition 10,,,NO,4,3,1
-Lipscomb,,Proposition 11,,,YES,53,13,37
-Lipscomb,,Proposition 11,,,NO,7,0,7
-Lipscomb,,U.S. Senate,,REP,"Bruce Jacobson, Jr.",14,5,8
+Lipscomb,,Proposition 1,,,YES,29,26,2
+Lipscomb,,Proposition 1,,,NO,27,16,10
+Lipscomb,,Proposition 2,,,YES,52,39,11
+Lipscomb,,Proposition 2,,,NO,5,3,2
+Lipscomb,,Proposition 3,,,YES,51,38,11
+Lipscomb,,Proposition 3,,,NO,9,6,2
+Lipscomb,,Proposition 4,,,YES,56,40,12
+Lipscomb,,Proposition 4,,,NO,5,4,1
+Lipscomb,,Proposition 5,,,YES,41,29,8
+Lipscomb,,Proposition 5,,,NO,15,12,3
+Lipscomb,,Proposition 6,,,YES,56,40,12
+Lipscomb,,Proposition 6,,,NO,4,3,1
+Lipscomb,,Proposition 7,,,YES,39,28,8
+Lipscomb,,Proposition 7,,,NO,20,16,4
+Lipscomb,,Proposition 8,,,YES,58,42,12
+Lipscomb,,Proposition 8,,,NO,1,0,1
+Lipscomb,,Proposition 9,,,YES,53,39,10
+Lipscomb,,Proposition 9,,,NO,9,6,3
+Lipscomb,,Proposition 10,,,YES,54,41,10
+Lipscomb,,Proposition 10,,,NO,4,1,3
+Lipscomb,,Proposition 11,,,YES,53,37,13
+Lipscomb,,Proposition 11,,,NO,7,7,0
+Lipscomb,,U.S. Senate,,REP,"Bruce Jacobson, Jr.",14,8,5
 Lipscomb,,U.S. Senate,,REP,Over Votes,0,0,0
 Lipscomb,,U.S. Senate,,REP,Under Votes,0,0,0
 Lipscomb,,Registered Voters,,REP,,788,,
-Lipscomb,,Ballots Cast,,REP,,214,37,3
-Lipscomb,,U.S. Senate,,REP,Geraldine Sam,3,0,3
-Lipscomb,,U.S. Senate,,REP,Ted Cruz,132,20,101
-Lipscomb,,U.S. Senate,,REP,Stefano de Stefano,9,4,3
-Lipscomb,,U.S. Senate,,REP,Mary Miller,17,2,15
-Lipscomb,,U.S. House,13,REP,Mac Thornberry,155,31,112
-Lipscomb,,Governor,,REP,SECEDE Kilgore,15,1,11
-Lipscomb,,Governor,,REP,Greg Abbott,128,24,91
-Lipscomb,,Governor,,REP,Barbara Krueger,27,4,23
-Lipscomb,,Lieutenant Governor,,REP,Scott Milder,90,25,62
-Lipscomb,,Lieutenant Governor,,REP,Dan Patrick,84,8,66
-Lipscomb,,Attorney General,,REP,Ken Paxton,139,22,110
-Lipscomb,,Comptroller of Public Accounts,,REP,Glenn Hegar,133,23,103
-Lipscomb,,Commissioner of the General Land Office,,REP,Davey Edwards,13,2,10
-Lipscomb,,Commissioner of the General Land Office,,REP,George P. Bush,98,18,77
-Lipscomb,,Commissioner of the General Land Office,,REP,Jerry Patterson,31,4,21
-Lipscomb,,Commissioner of the General Land Office,,REP,Rick Range,13,2,9
-Lipscomb,,Commissioner of Agriculture,,REP,Sid Miller,68,13,51
-Lipscomb,,Commissioner of Agriculture,,REP,Jim Hogan,43,4,33
-Lipscomb,,Commissioner of Agriculture,,REP,Trey Blocker,33,7,25
-Lipscomb,,Railroad Commissioner,,REP,Weston Martinez,59,11,45
-Lipscomb,,Railroad Commissioner,,REP,Christi Craddick,88,11,71
-Lipscomb,,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,122,21,94
-Lipscomb,,"Justice, Supreme Court, Place 4",,REP,John Devine,117,17,94
-Lipscomb,,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,119,19,93
-Lipscomb,,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,74,12,55
-Lipscomb,,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,65,8,53
-Lipscomb,,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,120,18,95
-Lipscomb,,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,25,4,20
-Lipscomb,,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,62,7,50
-Lipscomb,,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,43,8,31
-Lipscomb,,State Senator,31,REP,Kel Seliger,132,30,94
-Lipscomb,,State Senator,31,REP,Victor Leal,19,2,15
-Lipscomb,,State Senator,31,REP,Mike Canon,33,3,23
-Lipscomb,,State Representative,88,REP,Ken King,141,32,100
-Lipscomb,,State Representative,88,REP,Richard Beyea,31,2,23
-Lipscomb,,State Representative,88,REP,Jason Huddleston,17,2,13
-Lipscomb,,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,127,20,98
-Lipscomb,,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,117,17,91
-Lipscomb,,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,147,28,110
-Lipscomb,,County Judge,,REP,Kevin Wynn,37,2,28
-Lipscomb,,County Judge,,REP,Mickey Simpson,19,4,14
-Lipscomb,,County Judge,,REP,Janice M. Albracht,99,24,68
-Lipscomb,,County Judge,,REP,Andrew T. Copeland,48,7,39
-Lipscomb,,District and County Clerk,,REP,Kim Blau,161,31,117
-Lipscomb,,County Treasurer,,REP,Kimberly Long,163,30,120
-Lipscomb,,"County Commissioner, Precinct No. 4",,REP,Dan Cockrell,144,26,102
-Lipscomb,,"County Commissioner, Precinct No. 4",,REP,Randy Immel,63,11,50
-Lipscomb,,Justice of the Peace,,REP,Nancy Shepherd,162,30,119
-Lipscomb,,County Chairman,,REP,Diana Hoover,140,27,101
-Lipscomb,,U.S. Senate,,DEM,Sema Hernandez,2,0,2
+Lipscomb,,Ballots Cast,,REP,,214,3,37
+Lipscomb,,U.S. Senate,,REP,Geraldine Sam,3,3,0
+Lipscomb,,U.S. Senate,,REP,Ted Cruz,132,101,20
+Lipscomb,,U.S. Senate,,REP,Stefano de Stefano,9,3,4
+Lipscomb,,U.S. Senate,,REP,Mary Miller,17,15,2
+Lipscomb,,U.S. House,13,REP,Mac Thornberry,155,112,31
+Lipscomb,,Governor,,REP,SECEDE Kilgore,15,11,1
+Lipscomb,,Governor,,REP,Greg Abbott,128,91,24
+Lipscomb,,Governor,,REP,Barbara Krueger,27,23,4
+Lipscomb,,Lieutenant Governor,,REP,Scott Milder,90,62,25
+Lipscomb,,Lieutenant Governor,,REP,Dan Patrick,84,66,8
+Lipscomb,,Attorney General,,REP,Ken Paxton,139,110,22
+Lipscomb,,Comptroller of Public Accounts,,REP,Glenn Hegar,133,103,23
+Lipscomb,,Commissioner of the General Land Office,,REP,Davey Edwards,13,10,2
+Lipscomb,,Commissioner of the General Land Office,,REP,George P. Bush,98,77,18
+Lipscomb,,Commissioner of the General Land Office,,REP,Jerry Patterson,31,21,4
+Lipscomb,,Commissioner of the General Land Office,,REP,Rick Range,13,9,2
+Lipscomb,,Commissioner of Agriculture,,REP,Sid Miller,68,51,13
+Lipscomb,,Commissioner of Agriculture,,REP,Jim Hogan,43,33,4
+Lipscomb,,Commissioner of Agriculture,,REP,Trey Blocker,33,25,7
+Lipscomb,,Railroad Commissioner,,REP,Weston Martinez,59,45,11
+Lipscomb,,Railroad Commissioner,,REP,Christi Craddick,88,71,11
+Lipscomb,,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,122,94,21
+Lipscomb,,"Justice, Supreme Court, Place 4",,REP,John Devine,117,94,17
+Lipscomb,,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,119,93,19
+Lipscomb,,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,74,55,12
+Lipscomb,,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,65,53,8
+Lipscomb,,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,120,95,18
+Lipscomb,,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,25,20,4
+Lipscomb,,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,62,50,7
+Lipscomb,,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,43,31,8
+Lipscomb,,State Senator,31,REP,Kel Seliger,132,94,30
+Lipscomb,,State Senator,31,REP,Victor Leal,19,15,2
+Lipscomb,,State Senator,31,REP,Mike Canon,33,23,3
+Lipscomb,,State Representative,88,REP,Ken King,141,100,32
+Lipscomb,,State Representative,88,REP,Richard Beyea,31,23,2
+Lipscomb,,State Representative,88,REP,Jason Huddleston,17,13,2
+Lipscomb,,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,127,98,20
+Lipscomb,,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,117,91,17
+Lipscomb,,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,147,110,28
+Lipscomb,,County Judge,,REP,Kevin Wynn,37,28,2
+Lipscomb,,County Judge,,REP,Mickey Simpson,19,14,4
+Lipscomb,,County Judge,,REP,Janice M. Albracht,99,68,24
+Lipscomb,,County Judge,,REP,Andrew T. Copeland,48,39,7
+Lipscomb,,District and County Clerk,,REP,Kim Blau,161,117,31
+Lipscomb,,County Treasurer,,REP,Kimberly Long,163,120,30
+Lipscomb,,"County Commissioner, Precinct No. 4",,REP,Dan Cockrell,144,102,26
+Lipscomb,,"County Commissioner, Precinct No. 4",,REP,Randy Immel,63,50,11
+Lipscomb,,Justice of the Peace,,REP,Nancy Shepherd,162,119,30
+Lipscomb,,County Chairman,,REP,Diana Hoover,140,101,27
+Lipscomb,,U.S. Senate,,DEM,Sema Hernandez,2,2,0
 Lipscomb,,U.S. Senate,,DEM,Over Votes,0,0,0
 Lipscomb,,U.S. Senate,,DEM,Under Votes,0,0,0
 Lipscomb,,Registered Voters,,DEM,,788,,
-Lipscomb,,Ballots Cast,,DEM,,214,37,0
+Lipscomb,,Ballots Cast,,DEM,,214,0,37
 Lipscomb,,U.S. Senate,,DEM,Beto O'Rourke,3,0,0
-Lipscomb,,U.S. Senate,,DEM,Edward Kimbrough,1,0,1
-Lipscomb,,U.S. House,13,DEM,Greg Sagan,5,0,3
-Lipscomb,,Governor,,DEM,Joe Mumbach,1,0,1
+Lipscomb,,U.S. Senate,,DEM,Edward Kimbrough,1,1,0
+Lipscomb,,U.S. House,13,DEM,Greg Sagan,5,3,0
+Lipscomb,,Governor,,DEM,Joe Mumbach,1,1,0
 Lipscomb,,Governor,,DEM,Tom Wakely,1,0,0
 Lipscomb,,Governor,,DEM,Jeffrey Payne,0,0,0
 Lipscomb,,Governor,,DEM,Andrew White,2,0,0
 Lipscomb,,Governor,,DEM,Grady Yarbrough,0,0,0
-Lipscomb,,Governor,,DEM,Lupe Valdez,2,0,2
+Lipscomb,,Governor,,DEM,Lupe Valdez,2,2,0
 Lipscomb,,Governor,,DEM,James Jolly Clark,0,0,0
 Lipscomb,,Governor,,DEM,"Cedric Davis, Sr.",0,0,0
 Lipscomb,,Governor,,DEM,Adrian Ocegueda,0,0,0
-Lipscomb,,Lieutenant Governor,,DEM,Mike Collier,3,0,1
-Lipscomb,,Lieutenant Governor,,DEM,Michael Cooper,3,0,2
-Lipscomb,,Attorney General,,DEM,Justin Nelson,4,0,2
-Lipscomb,,Comptroller of Public Accounts,,DEM,Joi Chevalier,3,0,1
-Lipscomb,,Comptroller of Public Accounts,,DEM,Tim Mahoney,3,0,2
-Lipscomb,,Commissioner of the General Land Office,,DEM,Tex Morgan,4,0,2
-Lipscomb,,Commissioner of the General Land Office,,DEM,Miguel Suazo,2,0,1
-Lipscomb,,Commissioner of Agriculture,,DEM,Kim Olson,5,0,3
+Lipscomb,,Lieutenant Governor,,DEM,Mike Collier,3,1,0
+Lipscomb,,Lieutenant Governor,,DEM,Michael Cooper,3,2,0
+Lipscomb,,Attorney General,,DEM,Justin Nelson,4,2,0
+Lipscomb,,Comptroller of Public Accounts,,DEM,Joi Chevalier,3,1,0
+Lipscomb,,Comptroller of Public Accounts,,DEM,Tim Mahoney,3,2,0
+Lipscomb,,Commissioner of the General Land Office,,DEM,Tex Morgan,4,2,0
+Lipscomb,,Commissioner of the General Land Office,,DEM,Miguel Suazo,2,1,0
+Lipscomb,,Commissioner of Agriculture,,DEM,Kim Olson,5,3,0
 Lipscomb,,Railroad Commissioner,,DEM,Chris Spellmon,0,0,0
-Lipscomb,,Railroad Commissioner,,DEM,Roman McAllen,5,0,3
-Lipscomb,,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,4,0,2
-Lipscomb,,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,5,0,3
-Lipscomb,,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,4,0,2
-Lipscomb,,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,5,0,3
-Lipscomb,,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,4,0,2
-Lipscomb,,State Representative,88,DEM,Ezekiel Barron,5,0,3
-Lipscomb,,County Chairman,,DEM,Virginia Scott,5,0,3
-Lipscomb,,Proposition #1 Right to a 21st Century Public Education:,,,Yes,6,0,3
+Lipscomb,,Railroad Commissioner,,DEM,Roman McAllen,5,3,0
+Lipscomb,,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,4,2,0
+Lipscomb,,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,5,3,0
+Lipscomb,,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,4,2,0
+Lipscomb,,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,5,3,0
+Lipscomb,,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,4,2,0
+Lipscomb,,State Representative,88,DEM,Ezekiel Barron,5,3,0
+Lipscomb,,County Chairman,,DEM,Virginia Scott,5,3,0
+Lipscomb,,Proposition #1 Right to a 21st Century Public Education:,,,Yes,6,3,0
 Lipscomb,,Proposition #1 Right to a 21st Century Public Education:,,,No,0,0,0
-Lipscomb,,Proposition #2 Student Loan Debt:,,,Yes,5,0,2
-Lipscomb,,Proposition #2 Student Loan Debt:,,,No,1,0,1
-Lipscomb,,Proposition #3 Right to Healthcare:,,,Yes,5,0,3
+Lipscomb,,Proposition #2 Student Loan Debt:,,,Yes,5,2,0
+Lipscomb,,Proposition #2 Student Loan Debt:,,,No,1,1,0
+Lipscomb,,Proposition #3 Right to Healthcare:,,,Yes,5,3,0
 Lipscomb,,Proposition #3 Right to Healthcare:,,,No,1,0,0
-Lipscomb,,Proposition #4 Right to Economic Security:,,,Yes,6,0,3
+Lipscomb,,Proposition #4 Right to Economic Security:,,,Yes,6,3,0
 Lipscomb,,Proposition #4 Right to Economic Security:,,,No,0,0,0
-Lipscomb,,Proposition #5 National Jobs Program:,,,Yes,5,0,3
+Lipscomb,,Proposition #5 National Jobs Program:,,,Yes,5,3,0
 Lipscomb,,Proposition #5 National Jobs Program:,,,No,1,0,0
-Lipscomb,,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,6,0,3
+Lipscomb,,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,6,3,0
 Lipscomb,,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,0,0,0
-Lipscomb,,Proposition #7 Right to Dignity & Respect:,,,Yes,6,0,3
+Lipscomb,,Proposition #7 Right to Dignity & Respect:,,,Yes,6,3,0
 Lipscomb,,Proposition #7 Right to Dignity & Respect:,,,No,0,0,0
-Lipscomb,,Proposition #8 Right to Housing:,,,Yes,5,0,3
+Lipscomb,,Proposition #8 Right to Housing:,,,Yes,5,3,0
 Lipscomb,,Proposition #8 Right to Housing:,,,No,1,0,0
-Lipscomb,,Proposition #9 Right to Vote:,,,Yes,6,0,3
+Lipscomb,,Proposition #9 Right to Vote:,,,Yes,6,3,0
 Lipscomb,,Proposition #9 Right to Vote:,,,No,0,0,0
-Lipscomb,,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,6,0,3
+Lipscomb,,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,6,3,0
 Lipscomb,,Proposition #10 Right to a Fair Criminal Justice System:,,,No,0,0,0
-Lipscomb,,Proposition #11 Immigrant Rights:,,,Yes,5,0,3
+Lipscomb,,Proposition #11 Immigrant Rights:,,,Yes,5,3,0
 Lipscomb,,Proposition #11 Immigrant Rights:,,,No,1,0,0
-Lipscomb,,Proposition #12 Right to Fair Taxation:,,,Yes,6,0,3
+Lipscomb,,Proposition #12 Right to Fair Taxation:,,,Yes,6,3,0
 Lipscomb,,Proposition #12 Right to Fair Taxation:,,,No,0,0,0
-Lipscomb,,Proposition 1,,,YES,83,13,60
-Lipscomb,,Proposition 1,,,NO,81,13,64
-Lipscomb,,Proposition 2,,,YES,155,23,117
-Lipscomb,,Proposition 2,,,NO,20,6,13
-Lipscomb,,Proposition 3,,,YES,124,18,94
-Lipscomb,,Proposition 3,,,NO,46,7,34
-Lipscomb,,Proposition 4,,,YES,143,22,107
-Lipscomb,,Proposition 4,,,NO,33,7,24
-Lipscomb,,Proposition 5,,,YES,112,15,88
-Lipscomb,,Proposition 5,,,NO,69,19,43
-Lipscomb,,Proposition 6,,,YES,158,22,120
-Lipscomb,,Proposition 6,,,NO,22,7,14
-Lipscomb,,Proposition 7,,,YES,107,15,81
-Lipscomb,,Proposition 7,,,NO,64,13,46
-Lipscomb,,Proposition 8,,,YES,170,25,129
-Lipscomb,,Proposition 8,,,NO,12,6,5
-Lipscomb,,Proposition 9,,,YES,146,21,115
-Lipscomb,,Proposition 9,,,NO,30,7,17
-Lipscomb,,Proposition 10,,,YES,148,24,112
-Lipscomb,,Proposition 10,,,NO,24,6,14
-Lipscomb,,Proposition 11,,,YES,155,25,115
-Lipscomb,,Proposition 11,,,NO,24,6,17
-Lipscomb,,U.S. Senate,,REP,"Bruce Jacobson, Jr.",10,0,9
+Lipscomb,,Proposition 1,,,YES,83,60,13
+Lipscomb,,Proposition 1,,,NO,81,64,13
+Lipscomb,,Proposition 2,,,YES,155,117,23
+Lipscomb,,Proposition 2,,,NO,20,13,6
+Lipscomb,,Proposition 3,,,YES,124,94,18
+Lipscomb,,Proposition 3,,,NO,46,34,7
+Lipscomb,,Proposition 4,,,YES,143,107,22
+Lipscomb,,Proposition 4,,,NO,33,24,7
+Lipscomb,,Proposition 5,,,YES,112,88,15
+Lipscomb,,Proposition 5,,,NO,69,43,19
+Lipscomb,,Proposition 6,,,YES,158,120,22
+Lipscomb,,Proposition 6,,,NO,22,14,7
+Lipscomb,,Proposition 7,,,YES,107,81,15
+Lipscomb,,Proposition 7,,,NO,64,46,13
+Lipscomb,,Proposition 8,,,YES,170,129,25
+Lipscomb,,Proposition 8,,,NO,12,5,6
+Lipscomb,,Proposition 9,,,YES,146,115,21
+Lipscomb,,Proposition 9,,,NO,30,17,7
+Lipscomb,,Proposition 10,,,YES,148,112,24
+Lipscomb,,Proposition 10,,,NO,24,14,6
+Lipscomb,,Proposition 11,,,YES,155,115,25
+Lipscomb,,Proposition 11,,,NO,24,17,6
+Lipscomb,,U.S. Senate,,REP,"Bruce Jacobson, Jr.",10,9,0
 Lipscomb,,U.S. Senate,,REP,Over Votes,0,0,0
 Lipscomb,,U.S. Senate,,REP,Under Votes,0,0,0
 Lipscomb,,Registered Voters,,REP,,282,,
-Lipscomb,,Ballots Cast,,REP,,52,4,0
+Lipscomb,,Ballots Cast,,REP,,52,0,4
 Lipscomb,,U.S. Senate,,REP,Geraldine Sam,0,0,0
-Lipscomb,,U.S. Senate,,REP,Ted Cruz,34,4,28
+Lipscomb,,U.S. Senate,,REP,Ted Cruz,34,28,4
 Lipscomb,,U.S. Senate,,REP,Stefano de Stefano,0,0,0
-Lipscomb,,U.S. Senate,,REP,Mary Miller,3,0,2
-Lipscomb,,U.S. House,13,REP,Mac Thornberry,41,3,34
-Lipscomb,,Governor,,REP,SECEDE Kilgore,1,0,1
-Lipscomb,,Governor,,REP,Greg Abbott,41,4,33
+Lipscomb,,U.S. Senate,,REP,Mary Miller,3,2,0
+Lipscomb,,U.S. House,13,REP,Mac Thornberry,41,34,3
+Lipscomb,,Governor,,REP,SECEDE Kilgore,1,1,0
+Lipscomb,,Governor,,REP,Greg Abbott,41,33,4
 Lipscomb,,Governor,,REP,Barbara Krueger,0,0,0
-Lipscomb,,Lieutenant Governor,,REP,Scott Milder,29,0,28
-Lipscomb,,Lieutenant Governor,,REP,Dan Patrick,18,3,12
-Lipscomb,,Attorney General,,REP,Ken Paxton,37,2,32
-Lipscomb,,Comptroller of Public Accounts,,REP,Glenn Hegar,35,2,30
-Lipscomb,,Commissioner of the General Land Office,,REP,Davey Edwards,2,0,1
-Lipscomb,,Commissioner of the General Land Office,,REP,George P. Bush,31,3,27
-Lipscomb,,Commissioner of the General Land Office,,REP,Jerry Patterson,9,1,8
+Lipscomb,,Lieutenant Governor,,REP,Scott Milder,29,28,0
+Lipscomb,,Lieutenant Governor,,REP,Dan Patrick,18,12,3
+Lipscomb,,Attorney General,,REP,Ken Paxton,37,32,2
+Lipscomb,,Comptroller of Public Accounts,,REP,Glenn Hegar,35,30,2
+Lipscomb,,Commissioner of the General Land Office,,REP,Davey Edwards,2,1,0
+Lipscomb,,Commissioner of the General Land Office,,REP,George P. Bush,31,27,3
+Lipscomb,,Commissioner of the General Land Office,,REP,Jerry Patterson,9,8,1
 Lipscomb,,Commissioner of the General Land Office,,REP,Rick Range,1,0,0
-Lipscomb,,Commissioner of Agriculture,,REP,Sid Miller,23,2,20
-Lipscomb,,Commissioner of Agriculture,,REP,Jim Hogan,10,0,9
-Lipscomb,,Commissioner of Agriculture,,REP,Trey Blocker,11,2,7
-Lipscomb,,Railroad Commissioner,,REP,Weston Martinez,18,0,17
-Lipscomb,,Railroad Commissioner,,REP,Christi Craddick,26,4,19
-Lipscomb,,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,38,2,33
-Lipscomb,,"Justice, Supreme Court, Place 4",,REP,John Devine,35,2,30
-Lipscomb,,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,34,2,29
-Lipscomb,,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,22,3,16
-Lipscomb,,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,17,1,15
-Lipscomb,,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,31,1,27
-Lipscomb,,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,8,1,7
-Lipscomb,,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,10,1,8
-Lipscomb,,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,19,2,15
-Lipscomb,,State Senator,31,REP,Kel Seliger,35,2,30
-Lipscomb,,State Senator,31,REP,Victor Leal,8,2,5
-Lipscomb,,State Senator,31,REP,Mike Canon,6,0,6
-Lipscomb,,State Representative,88,REP,Ken King,25,1,22
-Lipscomb,,State Representative,88,REP,Richard Beyea,12,1,9
-Lipscomb,,State Representative,88,REP,Jason Huddleston,12,2,10
-Lipscomb,,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,32,1,28
-Lipscomb,,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,34,2,29
-Lipscomb,,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,39,2,34
-Lipscomb,,County Judge,,REP,Kevin Wynn,8,0,8
-Lipscomb,,County Judge,,REP,Mickey Simpson,36,4,29
-Lipscomb,,County Judge,,REP,Janice M. Albracht,2,0,2
-Lipscomb,,County Judge,,REP,Andrew T. Copeland,4,0,3
-Lipscomb,,District and County Clerk,,REP,Kim Blau,44,3,38
-Lipscomb,,County Treasurer,,REP,Kimberly Long,42,2,37
-Lipscomb,,"County Commissioner, Precinct No. 4",,REP,Dan Cockrell,30,3,26
-Lipscomb,,"County Commissioner, Precinct No. 4",,REP,Randy Immel,16,1,13
-Lipscomb,,Justice of the Peace,,REP,Nancy Shepherd,41,2,36
-Lipscomb,,County Chairman,,REP,Diana Hoover,37,1,33
+Lipscomb,,Commissioner of Agriculture,,REP,Sid Miller,23,20,2
+Lipscomb,,Commissioner of Agriculture,,REP,Jim Hogan,10,9,0
+Lipscomb,,Commissioner of Agriculture,,REP,Trey Blocker,11,7,2
+Lipscomb,,Railroad Commissioner,,REP,Weston Martinez,18,17,0
+Lipscomb,,Railroad Commissioner,,REP,Christi Craddick,26,19,4
+Lipscomb,,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,38,33,2
+Lipscomb,,"Justice, Supreme Court, Place 4",,REP,John Devine,35,30,2
+Lipscomb,,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,34,29,2
+Lipscomb,,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,22,16,3
+Lipscomb,,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,17,15,1
+Lipscomb,,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,31,27,1
+Lipscomb,,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,8,7,1
+Lipscomb,,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,10,8,1
+Lipscomb,,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,19,15,2
+Lipscomb,,State Senator,31,REP,Kel Seliger,35,30,2
+Lipscomb,,State Senator,31,REP,Victor Leal,8,5,2
+Lipscomb,,State Senator,31,REP,Mike Canon,6,6,0
+Lipscomb,,State Representative,88,REP,Ken King,25,22,1
+Lipscomb,,State Representative,88,REP,Richard Beyea,12,9,1
+Lipscomb,,State Representative,88,REP,Jason Huddleston,12,10,2
+Lipscomb,,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,32,28,1
+Lipscomb,,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,34,29,2
+Lipscomb,,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,39,34,2
+Lipscomb,,County Judge,,REP,Kevin Wynn,8,8,0
+Lipscomb,,County Judge,,REP,Mickey Simpson,36,29,4
+Lipscomb,,County Judge,,REP,Janice M. Albracht,2,2,0
+Lipscomb,,County Judge,,REP,Andrew T. Copeland,4,3,0
+Lipscomb,,District and County Clerk,,REP,Kim Blau,44,38,3
+Lipscomb,,County Treasurer,,REP,Kimberly Long,42,37,2
+Lipscomb,,"County Commissioner, Precinct No. 4",,REP,Dan Cockrell,30,26,3
+Lipscomb,,"County Commissioner, Precinct No. 4",,REP,Randy Immel,16,13,1
+Lipscomb,,Justice of the Peace,,REP,Nancy Shepherd,41,36,2
+Lipscomb,,County Chairman,,REP,Diana Hoover,37,33,1
 Lipscomb,,U.S. Senate,,DEM,Sema Hernandez,0,0,0
 Lipscomb,,U.S. Senate,,DEM,Over Votes,0,0,0
 Lipscomb,,U.S. Senate,,DEM,Under Votes,0,0,0
 Lipscomb,,Registered Voters,,DEM,,282,,
-Lipscomb,,Ballots Cast,,DEM,,52,4,0
+Lipscomb,,Ballots Cast,,DEM,,52,0,4
 Lipscomb,,U.S. Senate,,DEM,Beto O'Rourke,0,0,0
-Lipscomb,,U.S. Senate,,DEM,Edward Kimbrough,1,0,1
+Lipscomb,,U.S. Senate,,DEM,Edward Kimbrough,1,1,0
 Lipscomb,,U.S. House,13,DEM,Greg Sagan,0,0,0
 Lipscomb,,Governor,,DEM,Joe Mumbach,0,0,0
 Lipscomb,,Governor,,DEM,Tom Wakely,0,0,0
 Lipscomb,,Governor,,DEM,Jeffrey Payne,0,0,0
 Lipscomb,,Governor,,DEM,Andrew White,0,0,0
-Lipscomb,,Governor,,DEM,Grady Yarbrough,1,0,1
+Lipscomb,,Governor,,DEM,Grady Yarbrough,1,1,0
 Lipscomb,,Governor,,DEM,Lupe Valdez,0,0,0
 Lipscomb,,Governor,,DEM,James Jolly Clark,0,0,0
 Lipscomb,,Governor,,DEM,"Cedric Davis, Sr.",0,0,0
@@ -882,10 +882,10 @@ Lipscomb,,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,0,0,0
 Lipscomb,,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,0,0,0
 Lipscomb,,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,0,0,0
 Lipscomb,,State Representative,88,DEM,Ezekiel Barron,0,0,0
-Lipscomb,,County Chairman,,DEM,Virginia Scott,2,0,2
+Lipscomb,,County Chairman,,DEM,Virginia Scott,2,2,0
 Lipscomb,,Proposition #1 Right to a 21st Century Public Education:,,,Yes,0,0,0
 Lipscomb,,Proposition #1 Right to a 21st Century Public Education:,,,No,0,0,0
-Lipscomb,,Proposition #2 Student Loan Debt:,,,Yes,1,0,1
+Lipscomb,,Proposition #2 Student Loan Debt:,,,Yes,1,1,0
 Lipscomb,,Proposition #2 Student Loan Debt:,,,No,0,0,0
 Lipscomb,,Proposition #3 Right to Healthcare:,,,Yes,0,0,0
 Lipscomb,,Proposition #3 Right to Healthcare:,,,No,0,0,0
@@ -907,27 +907,27 @@ Lipscomb,,Proposition #11 Immigrant Rights:,,,Yes,0,0,0
 Lipscomb,,Proposition #11 Immigrant Rights:,,,No,0,0,0
 Lipscomb,,Proposition #12 Right to Fair Taxation:,,,Yes,0,0,0
 Lipscomb,,Proposition #12 Right to Fair Taxation:,,,No,0,0,0
-Lipscomb,,Proposition 1,,,YES,32,4,26
-Lipscomb,,Proposition 1,,,NO,15,0,13
-Lipscomb,,Proposition 2,,,YES,39,4,32
-Lipscomb,,Proposition 2,,,NO,9,0,8
-Lipscomb,,Proposition 3,,,YES,41,4,33
-Lipscomb,,Proposition 3,,,NO,7,0,7
-Lipscomb,,Proposition 4,,,YES,36,4,28
-Lipscomb,,Proposition 4,,,NO,12,0,12
-Lipscomb,,Proposition 5,,,YES,28,2,24
-Lipscomb,,Proposition 5,,,NO,19,2,15
-Lipscomb,,Proposition 6,,,YES,43,4,35
-Lipscomb,,Proposition 6,,,NO,5,0,5
-Lipscomb,,Proposition 7,,,YES,38,4,31
-Lipscomb,,Proposition 7,,,NO,9,0,8
-Lipscomb,,Proposition 8,,,YES,43,4,35
-Lipscomb,,Proposition 8,,,NO,4,0,4
-Lipscomb,,Proposition 9,,,YES,40,4,32
-Lipscomb,,Proposition 9,,,NO,7,0,7
-Lipscomb,,Proposition 10,,,YES,39,3,33
-Lipscomb,,Proposition 10,,,NO,6,1,5
-Lipscomb,,Proposition 11,,,YES,39,3,33
-Lipscomb,,Proposition 11,,,NO,8,0,7
+Lipscomb,,Proposition 1,,,YES,32,26,4
+Lipscomb,,Proposition 1,,,NO,15,13,0
+Lipscomb,,Proposition 2,,,YES,39,32,4
+Lipscomb,,Proposition 2,,,NO,9,8,0
+Lipscomb,,Proposition 3,,,YES,41,33,4
+Lipscomb,,Proposition 3,,,NO,7,7,0
+Lipscomb,,Proposition 4,,,YES,36,28,4
+Lipscomb,,Proposition 4,,,NO,12,12,0
+Lipscomb,,Proposition 5,,,YES,28,24,2
+Lipscomb,,Proposition 5,,,NO,19,15,2
+Lipscomb,,Proposition 6,,,YES,43,35,4
+Lipscomb,,Proposition 6,,,NO,5,5,0
+Lipscomb,,Proposition 7,,,YES,38,31,4
+Lipscomb,,Proposition 7,,,NO,9,8,0
+Lipscomb,,Proposition 8,,,YES,43,35,4
+Lipscomb,,Proposition 8,,,NO,4,4,0
+Lipscomb,,Proposition 9,,,YES,40,32,4
+Lipscomb,,Proposition 9,,,NO,7,7,0
+Lipscomb,,Proposition 10,,,YES,39,33,3
+Lipscomb,,Proposition 10,,,NO,6,5,1
+Lipscomb,,Proposition 11,,,YES,39,33,3
+Lipscomb,,Proposition 11,,,NO,8,7,0
 Lipscomb,,,,,,,,
 Lipscomb,,,,,,,,

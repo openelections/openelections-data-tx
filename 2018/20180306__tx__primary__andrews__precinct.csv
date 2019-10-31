@@ -1,503 +1,503 @@
-county,precinct,office,district,party,candidate,votes,early_voting,election_day
-Andrews,1,U.S. Senate,,REP,Mary Miller,24,11,13
-Andrews,1,U.S. Senate,,REP,Geraldine Sam,15,4,11
-Andrews,1,U.S. Senate,,REP,Bruce Jacobson Jr,16,13,3
+county,precinct,office,district,party,candidate,votes,election_day,early_voting
+Andrews,1,U.S. Senate,,REP,Mary Miller,24,13,11
+Andrews,1,U.S. Senate,,REP,Geraldine Sam,15,11,4
+Andrews,1,U.S. Senate,,REP,Bruce Jacobson Jr,16,3,13
 Andrews,1,U.S. Senate,,REP,Stefano De Stefano,12,6,6
-Andrews,1,U.S. Senate,,REP,Ted Cruz,342,196,146
-Andrews,2,U.S. Senate,,REP,Mary Miller,57,37,20
-Andrews,2,U.S. Senate,,REP,Geraldine Sam,18,7,11
-Andrews,2,U.S. Senate,,REP,Bruce Jacobson Jr,48,33,15
-Andrews,2,U.S. Senate,,REP,Stefano De Stefano,19,13,6
-Andrews,2,U.S. Senate,,REP,Ted Cruz,730,439,291
-Andrews,3,U.S. Senate,,REP,Mary Miller,32,20,12
-Andrews,3,U.S. Senate,,REP,Geraldine Sam,5,3,2
-Andrews,3,U.S. Senate,,REP,Bruce Jacobson Jr,24,15,9
-Andrews,3,U.S. Senate,,REP,Stefano De Stefano,10,7,3
-Andrews,3,U.S. Senate,,REP,Ted Cruz,419,256,163
-Andrews,4,U.S. Senate,,REP,Mary Miller,20,12,8
-Andrews,4,U.S. Senate,,REP,Geraldine Sam,4,3,1
-Andrews,4,U.S. Senate,,REP,Bruce Jacobson Jr,18,7,11
+Andrews,1,U.S. Senate,,REP,Ted Cruz,342,146,196
+Andrews,2,U.S. Senate,,REP,Mary Miller,57,20,37
+Andrews,2,U.S. Senate,,REP,Geraldine Sam,18,11,7
+Andrews,2,U.S. Senate,,REP,Bruce Jacobson Jr,48,15,33
+Andrews,2,U.S. Senate,,REP,Stefano De Stefano,19,6,13
+Andrews,2,U.S. Senate,,REP,Ted Cruz,730,291,439
+Andrews,3,U.S. Senate,,REP,Mary Miller,32,12,20
+Andrews,3,U.S. Senate,,REP,Geraldine Sam,5,2,3
+Andrews,3,U.S. Senate,,REP,Bruce Jacobson Jr,24,9,15
+Andrews,3,U.S. Senate,,REP,Stefano De Stefano,10,3,7
+Andrews,3,U.S. Senate,,REP,Ted Cruz,419,163,256
+Andrews,4,U.S. Senate,,REP,Mary Miller,20,8,12
+Andrews,4,U.S. Senate,,REP,Geraldine Sam,4,1,3
+Andrews,4,U.S. Senate,,REP,Bruce Jacobson Jr,18,11,7
 Andrews,4,U.S. Senate,,REP,Stefano De Stefano,10,5,5
-Andrews,4,U.S. Senate,,REP,Ted Cruz,290,130,160
-Andrews,1,U.S. House,11,REP,Mike Conaway,358,209,149
-Andrews,1,U.S. House,11,REP,Paul Myers,50,23,27
-Andrews,2,U.S. House,11,REP,Mike Conaway,808,480,328
-Andrews,2,U.S. House,11,REP,Paul Myers,87,63,24
-Andrews,3,U.S. House,11,REP,Mike Conaway,455,280,175
-Andrews,3,U.S. House,11,REP,Paul Myers,48,29,19
-Andrews,4,U.S. House,11,REP,Mike Conaway,307,142,165
-Andrews,4,U.S. House,11,REP,Paul Myers,32,15,17
-Andrews,1,Governor,,REP,Barbara Krueger,40,18,22
-Andrews,1,Governor,,REP,Greg Abbott,358,204,154
-Andrews,1,Governor,,REP,Secede Kilgore,10,4,6
-Andrews,2,Governor,,REP,Barbara Krueger,99,62,37
-Andrews,2,Governor,,REP,Greg Abbott,776,474,302
-Andrews,2,Governor,,REP,Secede Kilgore,14,9,5
-Andrews,3,Governor,,REP,Barbara Krueger,56,34,22
-Andrews,3,Governor,,REP,Greg Abbott,439,276,163
-Andrews,3,Governor,,REP,Secede Kilgore,12,4,8
-Andrews,4,Governor,,REP,Barbara Krueger,35,13,22
-Andrews,4,Governor,,REP,Greg Abbott,293,136,157
-Andrews,4,Governor,,REP,Secede Kilgore,13,6,7
-Andrews,1,Lieutenant Governor,,REP,Scott Milder,94,54,40
-Andrews,1,Lieutenant Governor,,REP,Dan Patrick,286,157,129
-Andrews,2,Lieutenant Governor,,REP,Scott Milder,299,188,111
-Andrews,2,Lieutenant Governor,,REP,Dan Patrick,573,351,222
-Andrews,3,Lieutenant Governor,,REP,Scott Milder,147,89,58
-Andrews,3,Lieutenant Governor,,REP,Dan Patrick,337,211,126
-Andrews,4,Lieutenant Governor,,REP,Scott Milder,86,39,47
-Andrews,4,Lieutenant Governor,,REP,Dan Patrick,239,112,127
-Andrews,1,Attorney General,,REP,Ken Paxton,348,192,156
-Andrews,2,Attorney General,,REP,Ken Paxton,727,433,294
-Andrews,3,Attorney General,,REP,Ken Paxton,402,253,149
-Andrews,4,Attorney General,,REP,Ken Paxton,275,125,150
-Andrews,1,Comptroller of Public Accounts,,REP,Glenn Hegar,330,186,144
-Andrews,2,Comptroller of Public Accounts,,REP,Glenn Hegar,695,408,287
-Andrews,3,Comptroller of Public Accounts,,REP,Glenn Hegar,390,240,150
-Andrews,4,Comptroller of Public Accounts,,REP,Glenn Hegar,267,119,148
-Andrews,1,Commissioner of the General Land Office,,REP,Davey Edwards,28,16,12
-Andrews,1,Commissioner of the General Land Office,,REP,George P. Bush,228,118,110
-Andrews,1,Commissioner of the General Land Office,,REP,Jerry Patterson,87,56,31
-Andrews,1,Commissioner of the General Land Office,,REP,Rick Range,33,18,15
-Andrews,2,Commissioner of the General Land Office,,REP,Davey Edwards,62,43,19
-Andrews,2,Commissioner of the General Land Office,,REP,George P. Bush,574,334,240
-Andrews,2,Commissioner of the General Land Office,,REP,Jerry Patterson,125,74,51
-Andrews,2,Commissioner of the General Land Office,,REP,Rick Range,51,36,15
-Andrews,3,Commissioner of the General Land Office,,REP,Davey Edwards,43,24,19
-Andrews,3,Commissioner of the General Land Office,,REP,George P. Bush,289,186,103
-Andrews,3,Commissioner of the General Land Office,,REP,Jerry Patterson,87,45,42
-Andrews,3,Commissioner of the General Land Office,,REP,Rick Range,32,20,12
-Andrews,4,Commissioner of the General Land Office,,REP,Davey Edwards,27,17,10
-Andrews,4,Commissioner of the General Land Office,,REP,George P. Bush,194,81,113
-Andrews,4,Commissioner of the General Land Office,,REP,Jerry Patterson,50,26,24
-Andrews,4,Commissioner of the General Land Office,,REP,Rick Range,24,10,14
-Andrews,1,Commissioner of Agriculture,,REP,Trey Blocker,106,66,40
-Andrews,1,Commissioner of Agriculture,,REP,Jim Hogan,114,63,51
-Andrews,1,Commissioner of Agriculture,,REP,Sid Miller,144,78,66
-Andrews,2,Commissioner of Agriculture,,REP,Trey Blocker,212,119,93
-Andrews,2,Commissioner of Agriculture,,REP,Jim Hogan,232,134,98
-Andrews,2,Commissioner of Agriculture,,REP,Sid Miller,305,193,112
-Andrews,3,Commissioner of Agriculture,,REP,Trey Blocker,129,75,54
-Andrews,3,Commissioner of Agriculture,,REP,Jim Hogan,109,74,35
-Andrews,3,Commissioner of Agriculture,,REP,Sid Miller,170,99,71
-Andrews,4,Commissioner of Agriculture,,REP,Trey Blocker,77,38,39
-Andrews,4,Commissioner of Agriculture,,REP,Jim Hogan,99,42,57
-Andrews,4,Commissioner of Agriculture,,REP,Sid Miller,102,42,60
-Andrews,1,Railroad Commissioner,,REP,Christi Craddick,279,169,110
-Andrews,1,Railroad Commissioner,,REP,Weston Martinez,97,43,54
-Andrews,2,Railroad Commissioner,,REP,Christi Craddick,577,352,225
-Andrews,2,Railroad Commissioner,,REP,Weston Martinez,195,108,87
-Andrews,3,Railroad Commissioner,,REP,Christi Craddick,320,206,114
-Andrews,3,Railroad Commissioner,,REP,Weston Martinez,112,58,54
-Andrews,4,Railroad Commissioner,,REP,Christi Craddick,196,93,103
-Andrews,4,Railroad Commissioner,,REP,Weston Martinez,101,37,64
-Andrews,1,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,318,179,139
-Andrews,2,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,655,381,274
-Andrews,3,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,353,222,131
-Andrews,4,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,243,108,135
-Andrews,1,"Justice, Supreme Court, Place 4",,REP,John Devine,314,175,139
-Andrews,2,"Justice, Supreme Court, Place 4",,REP,John Devine,650,376,274
-Andrews,3,"Justice, Supreme Court, Place 4",,REP,John Devine,349,225,124
-Andrews,4,"Justice, Supreme Court, Place 4",,REP,John Devine,247,110,137
-Andrews,1,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,312,171,141
-Andrews,2,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,652,380,272
-Andrews,3,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,338,218,120
-Andrews,4,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,241,109,132
-Andrews,1,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,157,84,73
-Andrews,1,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,193,113,80
-Andrews,2,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,337,187,150
-Andrews,2,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,361,227,134
-Andrews,3,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,208,136,72
-Andrews,3,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,188,109,79
-Andrews,4,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,143,65,78
-Andrews,4,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,129,57,72
-Andrews,1,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,315,175,140
-Andrews,2,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,625,362,263
-Andrews,3,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,334,212,122
-Andrews,4,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,238,104,134
-Andrews,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,68,38,30
-Andrews,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,158,84,74
-Andrews,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,118,71,47
-Andrews,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,154,94,60
-Andrews,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,331,181,150
-Andrews,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,187,125,62
-Andrews,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,93,60,33
-Andrews,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,189,109,80
-Andrews,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,102,63,39
-Andrews,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,69,22,47
-Andrews,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,114,52,62
-Andrews,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,81,41,40
-Andrews,1,State Senator,31,REP,Mike Canon,144,69,75
-Andrews,1,State Senator,31,REP,Kel Seliger,207,133,74
-Andrews,1,State Senator,31,REP,Victor Leal,56,30,26
-Andrews,2,State Senator,31,REP,Mike Canon,328,185,143
-Andrews,2,State Senator,31,REP,Kel Seliger,443,271,172
-Andrews,2,State Senator,31,REP,Victor Leal,124,89,35
-Andrews,3,State Senator,31,REP,Mike Canon,186,102,84
-Andrews,3,State Senator,31,REP,Kel Seliger,245,156,89
-Andrews,3,State Senator,31,REP,Victor Leal,79,54,25
-Andrews,4,State Senator,31,REP,Mike Canon,128,56,72
-Andrews,4,State Senator,31,REP,Kel Seliger,138,70,68
-Andrews,4,State Senator,31,REP,Victor Leal,64,26,38
-Andrews,1,State Representative,81,REP,Brooks Landgraf,342,191,151
-Andrews,2,State Representative,81,REP,Brooks Landgraf,756,450,306
-Andrews,3,State Representative,81,REP,Brooks Landgraf,406,255,151
-Andrews,4,State Representative,81,REP,Brooks Landgraf,270,126,144
-Andrews,1,"District Judge, 109th Judicial District",,REP,John L Pool,347,199,148
-Andrews,2,"District Judge, 109th Judicial District",,REP,John L Pool,737,441,296
-Andrews,3,"District Judge, 109th Judicial District",,REP,John L Pool,400,257,143
-Andrews,4,"District Judge, 109th Judicial District",,REP,John L Pool,281,130,151
-Andrews,1,County Judge,,REP,Steven C Mitchell,29,21,8
-Andrews,1,County Judge,,REP,Richard H Dolgener,174,90,84
-Andrews,1,County Judge,,REP,Charlie Falcon,230,136,94
-Andrews,2,County Judge,,REP,Steven C Mitchell,49,28,21
-Andrews,2,County Judge,,REP,Richard H Dolgener,329,205,124
-Andrews,2,County Judge,,REP,Charlie Falcon,553,335,218
-Andrews,3,County Judge,,REP,Steven C Mitchell,35,17,18
-Andrews,3,County Judge,,REP,Richard H Dolgener,201,135,66
-Andrews,3,County Judge,,REP,Charlie Falcon,300,178,122
-Andrews,4,County Judge,,REP,Steven C Mitchell,19,13,6
-Andrews,4,County Judge,,REP,Richard H Dolgener,133,61,72
-Andrews,4,County Judge,,REP,Charlie Falcon,205,90,115
-Andrews,1,District Clerk,,REP,Sherry Dushane,347,194,153
-Andrews,2,District Clerk,,REP,Sherry Dushane,723,430,293
-Andrews,3,District Clerk,,REP,Sherry Dushane,385,246,139
-Andrews,4,District Clerk,,REP,Sherry Dushane,280,138,142
-Andrews,1,County Clerk,,REP,Marilu Chavez,94,44,50
-Andrews,1,County Clerk,,REP,Vicki Scott,329,199,130
-Andrews,2,County Clerk,,REP,Marilu Chavez,196,106,90
-Andrews,2,County Clerk,,REP,Vicki Scott,699,442,257
-Andrews,3,County Clerk,,REP,Marilu Chavez,131,66,65
-Andrews,3,County Clerk,,REP,Vicki Scott,388,252,136
-Andrews,4,County Clerk,,REP,Marilu Chavez,107,40,67
-Andrews,4,County Clerk,,REP,Vicki Scott,245,121,124
-Andrews,2,"County Commissioner, Precinct 2",,REP,Mike Parker,159,84,75
-Andrews,2,"County Commissioner, Precinct 2",,REP,Brad Young,289,164,125
-Andrews,2,"County Commissioner, Precinct 2",,REP,Mark Savell,478,317,161
-Andrews,4,"County Commissioner, Precinct 4",,REP,Jim Waldrop,293,138,155
-Andrews,1,"Justice of the Peace, Precinct 1",,REP,Mary Jane Baeza,358,205,153
-Andrews,4,"Justice of the Peace, Precinct 1",,REP,Mary Jane Baeza,278,129,149
-Andrews,2,"Justice of the Peace, Precinct 2",,REP,Ambera Gonzales Tuck,237,130,107
-Andrews,2,"Justice of the Peace, Precinct 2",,REP,Neri Flores,649,420,229
-Andrews,3,"Justice of the Peace, Precinct 2",,REP,Ambera Gonzales Tuck,149,91,58
-Andrews,3,"Justice of the Peace, Precinct 2",,REP,Neri Flores,360,223,137
-Andrews,1,County Chair,,REP,W.R. Randy Rowe,344,196,148
-Andrews,2,County Chair,,REP,W.R. Randy Rowe,714,426,288
-Andrews,3,County Chair,,REP,W.R. Randy Rowe,383,248,135
-Andrews,4,County Chair,,REP,W.R. Randy Rowe,276,135,141
-Andrews,1,Proposition 1,,REP,Yes,272,155,117
-Andrews,1,Proposition 1,,REP,No,115,65,50
-Andrews,2,Proposition 1,,REP,Yes,588,354,234
-Andrews,2,Proposition 1,,REP,No,240,150,90
-Andrews,3,Proposition 1,,REP,Yes,329,199,130
-Andrews,3,Proposition 1,,REP,No,133,76,57
-Andrews,4,Proposition 1,,REP,Yes,214,97,117
-Andrews,4,Proposition 1,,REP,No,100,52,48
-Andrews,1,Proposition 2,,REP,Yes,374,210,164
-Andrews,1,Proposition 2,,REP,No,36,21,15
-Andrews,2,Proposition 2,,REP,Yes,810,484,326
-Andrews,2,Proposition 2,,REP,No,88,58,30
-Andrews,3,Proposition 2,,REP,Yes,455,281,174
-Andrews,3,Proposition 2,,REP,No,47,27,20
-Andrews,4,Proposition 2,,REP,Yes,285,130,155
-Andrews,4,Proposition 2,,REP,No,49,23,26
-Andrews,1,Proposition 3,,REP,Yes,328,184,144
-Andrews,1,Proposition 3,,REP,No,70,39,31
-Andrews,2,Proposition 3,,REP,Yes,720,435,285
-Andrews,2,Proposition 3,,REP,No,148,96,52
-Andrews,3,Proposition 3,,REP,Yes,418,254,164
-Andrews,3,Proposition 3,,REP,No,71,42,29
-Andrews,4,Proposition 3,,REP,Yes,258,123,135
-Andrews,4,Proposition 3,,REP,No,63,26,37
-Andrews,1,Proposition 4,,REP,Yes,356,211,145
-Andrews,1,Proposition 4,,REP,No,48,19,29
-Andrews,2,Proposition 4,,REP,Yes,805,499,306
-Andrews,2,Proposition 4,,REP,No,80,46,34
-Andrews,3,Proposition 4,,REP,Yes,434,268,166
-Andrews,3,Proposition 4,,REP,No,60,38,22
-Andrews,4,Proposition 4,,REP,Yes,288,135,153
-Andrews,4,Proposition 4,,REP,No,32,14,18
-Andrews,1,Proposition 5,,REP,Yes,337,177,160
-Andrews,1,Proposition 5,,REP,No,70,51,19
-Andrews,2,Proposition 5,,REP,Yes,610,367,243
-Andrews,2,Proposition 5,,REP,No,277,177,100
-Andrews,3,Proposition 5,,REP,Yes,389,233,156
-Andrews,3,Proposition 5,,REP,No,109,71,38
-Andrews,4,Proposition 5,,REP,Yes,265,121,144
-Andrews,4,Proposition 5,,REP,No,54,29,25
-Andrews,1,Proposition 6,,REP,Yes,400,222,178
-Andrews,1,Proposition 6,,REP,No,9,7,2
-Andrews,2,Proposition 6,,REP,Yes,851,522,329
-Andrews,2,Proposition 6,,REP,No,55,34,21
-Andrews,3,Proposition 6,,REP,Yes,486,299,187
-Andrews,3,Proposition 6,,REP,No,21,14,7
-Andrews,4,Proposition 6,,REP,Yes,321,146,175
-Andrews,4,Proposition 6,,REP,No,7,5,2
-Andrews,1,Proposition 7,,REP,Yes,297,161,136
-Andrews,1,Proposition 7,,REP,No,97,57,40
-Andrews,2,Proposition 7,,REP,Yes,682,418,264
-Andrews,2,Proposition 7,,REP,No,202,120,82
-Andrews,3,Proposition 7,,REP,Yes,332,206,126
-Andrews,3,Proposition 7,,REP,No,151,90,61
-Andrews,4,Proposition 7,,REP,Yes,237,110,127
-Andrews,4,Proposition 7,,REP,No,80,38,42
-Andrews,1,Proposition 8,,REP,Yes,389,218,171
+Andrews,4,U.S. Senate,,REP,Ted Cruz,290,160,130
+Andrews,1,U.S. House,11,REP,Mike Conaway,358,149,209
+Andrews,1,U.S. House,11,REP,Paul Myers,50,27,23
+Andrews,2,U.S. House,11,REP,Mike Conaway,808,328,480
+Andrews,2,U.S. House,11,REP,Paul Myers,87,24,63
+Andrews,3,U.S. House,11,REP,Mike Conaway,455,175,280
+Andrews,3,U.S. House,11,REP,Paul Myers,48,19,29
+Andrews,4,U.S. House,11,REP,Mike Conaway,307,165,142
+Andrews,4,U.S. House,11,REP,Paul Myers,32,17,15
+Andrews,1,Governor,,REP,Barbara Krueger,40,22,18
+Andrews,1,Governor,,REP,Greg Abbott,358,154,204
+Andrews,1,Governor,,REP,Secede Kilgore,10,6,4
+Andrews,2,Governor,,REP,Barbara Krueger,99,37,62
+Andrews,2,Governor,,REP,Greg Abbott,776,302,474
+Andrews,2,Governor,,REP,Secede Kilgore,14,5,9
+Andrews,3,Governor,,REP,Barbara Krueger,56,22,34
+Andrews,3,Governor,,REP,Greg Abbott,439,163,276
+Andrews,3,Governor,,REP,Secede Kilgore,12,8,4
+Andrews,4,Governor,,REP,Barbara Krueger,35,22,13
+Andrews,4,Governor,,REP,Greg Abbott,293,157,136
+Andrews,4,Governor,,REP,Secede Kilgore,13,7,6
+Andrews,1,Lieutenant Governor,,REP,Scott Milder,94,40,54
+Andrews,1,Lieutenant Governor,,REP,Dan Patrick,286,129,157
+Andrews,2,Lieutenant Governor,,REP,Scott Milder,299,111,188
+Andrews,2,Lieutenant Governor,,REP,Dan Patrick,573,222,351
+Andrews,3,Lieutenant Governor,,REP,Scott Milder,147,58,89
+Andrews,3,Lieutenant Governor,,REP,Dan Patrick,337,126,211
+Andrews,4,Lieutenant Governor,,REP,Scott Milder,86,47,39
+Andrews,4,Lieutenant Governor,,REP,Dan Patrick,239,127,112
+Andrews,1,Attorney General,,REP,Ken Paxton,348,156,192
+Andrews,2,Attorney General,,REP,Ken Paxton,727,294,433
+Andrews,3,Attorney General,,REP,Ken Paxton,402,149,253
+Andrews,4,Attorney General,,REP,Ken Paxton,275,150,125
+Andrews,1,Comptroller of Public Accounts,,REP,Glenn Hegar,330,144,186
+Andrews,2,Comptroller of Public Accounts,,REP,Glenn Hegar,695,287,408
+Andrews,3,Comptroller of Public Accounts,,REP,Glenn Hegar,390,150,240
+Andrews,4,Comptroller of Public Accounts,,REP,Glenn Hegar,267,148,119
+Andrews,1,Commissioner of the General Land Office,,REP,Davey Edwards,28,12,16
+Andrews,1,Commissioner of the General Land Office,,REP,George P. Bush,228,110,118
+Andrews,1,Commissioner of the General Land Office,,REP,Jerry Patterson,87,31,56
+Andrews,1,Commissioner of the General Land Office,,REP,Rick Range,33,15,18
+Andrews,2,Commissioner of the General Land Office,,REP,Davey Edwards,62,19,43
+Andrews,2,Commissioner of the General Land Office,,REP,George P. Bush,574,240,334
+Andrews,2,Commissioner of the General Land Office,,REP,Jerry Patterson,125,51,74
+Andrews,2,Commissioner of the General Land Office,,REP,Rick Range,51,15,36
+Andrews,3,Commissioner of the General Land Office,,REP,Davey Edwards,43,19,24
+Andrews,3,Commissioner of the General Land Office,,REP,George P. Bush,289,103,186
+Andrews,3,Commissioner of the General Land Office,,REP,Jerry Patterson,87,42,45
+Andrews,3,Commissioner of the General Land Office,,REP,Rick Range,32,12,20
+Andrews,4,Commissioner of the General Land Office,,REP,Davey Edwards,27,10,17
+Andrews,4,Commissioner of the General Land Office,,REP,George P. Bush,194,113,81
+Andrews,4,Commissioner of the General Land Office,,REP,Jerry Patterson,50,24,26
+Andrews,4,Commissioner of the General Land Office,,REP,Rick Range,24,14,10
+Andrews,1,Commissioner of Agriculture,,REP,Trey Blocker,106,40,66
+Andrews,1,Commissioner of Agriculture,,REP,Jim Hogan,114,51,63
+Andrews,1,Commissioner of Agriculture,,REP,Sid Miller,144,66,78
+Andrews,2,Commissioner of Agriculture,,REP,Trey Blocker,212,93,119
+Andrews,2,Commissioner of Agriculture,,REP,Jim Hogan,232,98,134
+Andrews,2,Commissioner of Agriculture,,REP,Sid Miller,305,112,193
+Andrews,3,Commissioner of Agriculture,,REP,Trey Blocker,129,54,75
+Andrews,3,Commissioner of Agriculture,,REP,Jim Hogan,109,35,74
+Andrews,3,Commissioner of Agriculture,,REP,Sid Miller,170,71,99
+Andrews,4,Commissioner of Agriculture,,REP,Trey Blocker,77,39,38
+Andrews,4,Commissioner of Agriculture,,REP,Jim Hogan,99,57,42
+Andrews,4,Commissioner of Agriculture,,REP,Sid Miller,102,60,42
+Andrews,1,Railroad Commissioner,,REP,Christi Craddick,279,110,169
+Andrews,1,Railroad Commissioner,,REP,Weston Martinez,97,54,43
+Andrews,2,Railroad Commissioner,,REP,Christi Craddick,577,225,352
+Andrews,2,Railroad Commissioner,,REP,Weston Martinez,195,87,108
+Andrews,3,Railroad Commissioner,,REP,Christi Craddick,320,114,206
+Andrews,3,Railroad Commissioner,,REP,Weston Martinez,112,54,58
+Andrews,4,Railroad Commissioner,,REP,Christi Craddick,196,103,93
+Andrews,4,Railroad Commissioner,,REP,Weston Martinez,101,64,37
+Andrews,1,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,318,139,179
+Andrews,2,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,655,274,381
+Andrews,3,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,353,131,222
+Andrews,4,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,243,135,108
+Andrews,1,"Justice, Supreme Court, Place 4",,REP,John Devine,314,139,175
+Andrews,2,"Justice, Supreme Court, Place 4",,REP,John Devine,650,274,376
+Andrews,3,"Justice, Supreme Court, Place 4",,REP,John Devine,349,124,225
+Andrews,4,"Justice, Supreme Court, Place 4",,REP,John Devine,247,137,110
+Andrews,1,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,312,141,171
+Andrews,2,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,652,272,380
+Andrews,3,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,338,120,218
+Andrews,4,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,241,132,109
+Andrews,1,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,157,73,84
+Andrews,1,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,193,80,113
+Andrews,2,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,337,150,187
+Andrews,2,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,361,134,227
+Andrews,3,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,208,72,136
+Andrews,3,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,188,79,109
+Andrews,4,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,143,78,65
+Andrews,4,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,129,72,57
+Andrews,1,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,315,140,175
+Andrews,2,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,625,263,362
+Andrews,3,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,334,122,212
+Andrews,4,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,238,134,104
+Andrews,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,68,30,38
+Andrews,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,158,74,84
+Andrews,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,118,47,71
+Andrews,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,154,60,94
+Andrews,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,331,150,181
+Andrews,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,187,62,125
+Andrews,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,93,33,60
+Andrews,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,189,80,109
+Andrews,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,102,39,63
+Andrews,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,69,47,22
+Andrews,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,114,62,52
+Andrews,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,81,40,41
+Andrews,1,State Senator,31,REP,Mike Canon,144,75,69
+Andrews,1,State Senator,31,REP,Kel Seliger,207,74,133
+Andrews,1,State Senator,31,REP,Victor Leal,56,26,30
+Andrews,2,State Senator,31,REP,Mike Canon,328,143,185
+Andrews,2,State Senator,31,REP,Kel Seliger,443,172,271
+Andrews,2,State Senator,31,REP,Victor Leal,124,35,89
+Andrews,3,State Senator,31,REP,Mike Canon,186,84,102
+Andrews,3,State Senator,31,REP,Kel Seliger,245,89,156
+Andrews,3,State Senator,31,REP,Victor Leal,79,25,54
+Andrews,4,State Senator,31,REP,Mike Canon,128,72,56
+Andrews,4,State Senator,31,REP,Kel Seliger,138,68,70
+Andrews,4,State Senator,31,REP,Victor Leal,64,38,26
+Andrews,1,State Representative,81,REP,Brooks Landgraf,342,151,191
+Andrews,2,State Representative,81,REP,Brooks Landgraf,756,306,450
+Andrews,3,State Representative,81,REP,Brooks Landgraf,406,151,255
+Andrews,4,State Representative,81,REP,Brooks Landgraf,270,144,126
+Andrews,1,"District Judge, 109th Judicial District",,REP,John L Pool,347,148,199
+Andrews,2,"District Judge, 109th Judicial District",,REP,John L Pool,737,296,441
+Andrews,3,"District Judge, 109th Judicial District",,REP,John L Pool,400,143,257
+Andrews,4,"District Judge, 109th Judicial District",,REP,John L Pool,281,151,130
+Andrews,1,County Judge,,REP,Steven C Mitchell,29,8,21
+Andrews,1,County Judge,,REP,Richard H Dolgener,174,84,90
+Andrews,1,County Judge,,REP,Charlie Falcon,230,94,136
+Andrews,2,County Judge,,REP,Steven C Mitchell,49,21,28
+Andrews,2,County Judge,,REP,Richard H Dolgener,329,124,205
+Andrews,2,County Judge,,REP,Charlie Falcon,553,218,335
+Andrews,3,County Judge,,REP,Steven C Mitchell,35,18,17
+Andrews,3,County Judge,,REP,Richard H Dolgener,201,66,135
+Andrews,3,County Judge,,REP,Charlie Falcon,300,122,178
+Andrews,4,County Judge,,REP,Steven C Mitchell,19,6,13
+Andrews,4,County Judge,,REP,Richard H Dolgener,133,72,61
+Andrews,4,County Judge,,REP,Charlie Falcon,205,115,90
+Andrews,1,District Clerk,,REP,Sherry Dushane,347,153,194
+Andrews,2,District Clerk,,REP,Sherry Dushane,723,293,430
+Andrews,3,District Clerk,,REP,Sherry Dushane,385,139,246
+Andrews,4,District Clerk,,REP,Sherry Dushane,280,142,138
+Andrews,1,County Clerk,,REP,Marilu Chavez,94,50,44
+Andrews,1,County Clerk,,REP,Vicki Scott,329,130,199
+Andrews,2,County Clerk,,REP,Marilu Chavez,196,90,106
+Andrews,2,County Clerk,,REP,Vicki Scott,699,257,442
+Andrews,3,County Clerk,,REP,Marilu Chavez,131,65,66
+Andrews,3,County Clerk,,REP,Vicki Scott,388,136,252
+Andrews,4,County Clerk,,REP,Marilu Chavez,107,67,40
+Andrews,4,County Clerk,,REP,Vicki Scott,245,124,121
+Andrews,2,"County Commissioner, Precinct 2",,REP,Mike Parker,159,75,84
+Andrews,2,"County Commissioner, Precinct 2",,REP,Brad Young,289,125,164
+Andrews,2,"County Commissioner, Precinct 2",,REP,Mark Savell,478,161,317
+Andrews,4,"County Commissioner, Precinct 4",,REP,Jim Waldrop,293,155,138
+Andrews,1,"Justice of the Peace, Precinct 1",,REP,Mary Jane Baeza,358,153,205
+Andrews,4,"Justice of the Peace, Precinct 1",,REP,Mary Jane Baeza,278,149,129
+Andrews,2,"Justice of the Peace, Precinct 2",,REP,Ambera Gonzales Tuck,237,107,130
+Andrews,2,"Justice of the Peace, Precinct 2",,REP,Neri Flores,649,229,420
+Andrews,3,"Justice of the Peace, Precinct 2",,REP,Ambera Gonzales Tuck,149,58,91
+Andrews,3,"Justice of the Peace, Precinct 2",,REP,Neri Flores,360,137,223
+Andrews,1,County Chair,,REP,W.R. Randy Rowe,344,148,196
+Andrews,2,County Chair,,REP,W.R. Randy Rowe,714,288,426
+Andrews,3,County Chair,,REP,W.R. Randy Rowe,383,135,248
+Andrews,4,County Chair,,REP,W.R. Randy Rowe,276,141,135
+Andrews,1,Proposition 1,,REP,Yes,272,117,155
+Andrews,1,Proposition 1,,REP,No,115,50,65
+Andrews,2,Proposition 1,,REP,Yes,588,234,354
+Andrews,2,Proposition 1,,REP,No,240,90,150
+Andrews,3,Proposition 1,,REP,Yes,329,130,199
+Andrews,3,Proposition 1,,REP,No,133,57,76
+Andrews,4,Proposition 1,,REP,Yes,214,117,97
+Andrews,4,Proposition 1,,REP,No,100,48,52
+Andrews,1,Proposition 2,,REP,Yes,374,164,210
+Andrews,1,Proposition 2,,REP,No,36,15,21
+Andrews,2,Proposition 2,,REP,Yes,810,326,484
+Andrews,2,Proposition 2,,REP,No,88,30,58
+Andrews,3,Proposition 2,,REP,Yes,455,174,281
+Andrews,3,Proposition 2,,REP,No,47,20,27
+Andrews,4,Proposition 2,,REP,Yes,285,155,130
+Andrews,4,Proposition 2,,REP,No,49,26,23
+Andrews,1,Proposition 3,,REP,Yes,328,144,184
+Andrews,1,Proposition 3,,REP,No,70,31,39
+Andrews,2,Proposition 3,,REP,Yes,720,285,435
+Andrews,2,Proposition 3,,REP,No,148,52,96
+Andrews,3,Proposition 3,,REP,Yes,418,164,254
+Andrews,3,Proposition 3,,REP,No,71,29,42
+Andrews,4,Proposition 3,,REP,Yes,258,135,123
+Andrews,4,Proposition 3,,REP,No,63,37,26
+Andrews,1,Proposition 4,,REP,Yes,356,145,211
+Andrews,1,Proposition 4,,REP,No,48,29,19
+Andrews,2,Proposition 4,,REP,Yes,805,306,499
+Andrews,2,Proposition 4,,REP,No,80,34,46
+Andrews,3,Proposition 4,,REP,Yes,434,166,268
+Andrews,3,Proposition 4,,REP,No,60,22,38
+Andrews,4,Proposition 4,,REP,Yes,288,153,135
+Andrews,4,Proposition 4,,REP,No,32,18,14
+Andrews,1,Proposition 5,,REP,Yes,337,160,177
+Andrews,1,Proposition 5,,REP,No,70,19,51
+Andrews,2,Proposition 5,,REP,Yes,610,243,367
+Andrews,2,Proposition 5,,REP,No,277,100,177
+Andrews,3,Proposition 5,,REP,Yes,389,156,233
+Andrews,3,Proposition 5,,REP,No,109,38,71
+Andrews,4,Proposition 5,,REP,Yes,265,144,121
+Andrews,4,Proposition 5,,REP,No,54,25,29
+Andrews,1,Proposition 6,,REP,Yes,400,178,222
+Andrews,1,Proposition 6,,REP,No,9,2,7
+Andrews,2,Proposition 6,,REP,Yes,851,329,522
+Andrews,2,Proposition 6,,REP,No,55,21,34
+Andrews,3,Proposition 6,,REP,Yes,486,187,299
+Andrews,3,Proposition 6,,REP,No,21,7,14
+Andrews,4,Proposition 6,,REP,Yes,321,175,146
+Andrews,4,Proposition 6,,REP,No,7,2,5
+Andrews,1,Proposition 7,,REP,Yes,297,136,161
+Andrews,1,Proposition 7,,REP,No,97,40,57
+Andrews,2,Proposition 7,,REP,Yes,682,264,418
+Andrews,2,Proposition 7,,REP,No,202,82,120
+Andrews,3,Proposition 7,,REP,Yes,332,126,206
+Andrews,3,Proposition 7,,REP,No,151,61,90
+Andrews,4,Proposition 7,,REP,Yes,237,127,110
+Andrews,4,Proposition 7,,REP,No,80,42,38
+Andrews,1,Proposition 8,,REP,Yes,389,171,218
 Andrews,1,Proposition 8,,REP,No,18,9,9
-Andrews,2,Proposition 8,,REP,Yes,864,527,337
-Andrews,2,Proposition 8,,REP,No,33,21,12
-Andrews,3,Proposition 8,,REP,Yes,475,291,184
-Andrews,3,Proposition 8,,REP,No,24,18,6
-Andrews,4,Proposition 8,,REP,Yes,320,150,170
-Andrews,4,Proposition 8,,REP,No,10,4,6
-Andrews,1,Proposition 9,,REP,Yes,352,199,153
-Andrews,1,Proposition 9,,REP,No,55,30,25
-Andrews,2,Proposition 9,,REP,Yes,795,480,315
-Andrews,2,Proposition 9,,REP,No,99,66,33
-Andrews,3,Proposition 9,,REP,Yes,436,270,166
-Andrews,3,Proposition 9,,REP,No,67,40,27
-Andrews,4,Proposition 9,,REP,Yes,273,132,141
-Andrews,4,Proposition 9,,REP,No,53,19,34
-Andrews,1,Proposition 10,,REP,Yes,373,207,166
-Andrews,1,Proposition 10,,REP,No,23,19,4
-Andrews,2,Proposition 10,,REP,Yes,789,477,312
-Andrews,2,Proposition 10,,REP,No,72,46,26
-Andrews,3,Proposition 10,,REP,Yes,467,281,186
-Andrews,3,Proposition 10,,REP,No,29,23,6
-Andrews,4,Proposition 10,,REP,Yes,292,136,156
-Andrews,4,Proposition 10,,REP,No,23,13,10
-Andrews,1,Proposition 11,,REP,Yes,333,188,145
-Andrews,1,Proposition 11,,REP,No,72,39,33
-Andrews,2,Proposition 11,,REP,Yes,763,473,290
-Andrews,2,Proposition 11,,REP,No,135,79,56
-Andrews,3,Proposition 11,,REP,Yes,421,267,154
-Andrews,3,Proposition 11,,REP,No,82,43,39
-Andrews,4,Proposition 11,,REP,Yes,250,124,126
-Andrews,4,Proposition 11,,REP,No,74,30,44
-Andrews,1,U.S. Senate,,DEM,Beto O'Rourke,18,3,15
-Andrews,1,U.S. Senate,,DEM,Sema Hernandez,11,2,9
-Andrews,1,U.S. Senate,,DEM,Edward Kimbrough,1,0,1
-Andrews,2,U.S. Senate,,DEM,Beto O'Rourke,5,5,0
-Andrews,2,U.S. Senate,,DEM,Sema Hernandez,4,4,0
-Andrews,2,U.S. Senate,,DEM,Edward Kimbrough,2,2,0
-Andrews,3,U.S. Senate,,DEM,Beto O'Rourke,2,2,0
-Andrews,3,U.S. Senate,,DEM,Sema Hernandez,2,2,0
-Andrews,3,U.S. Senate,,DEM,Edward Kimbrough,5,5,0
-Andrews,4,U.S. Senate,,DEM,Beto O'Rourke,1,1,0
-Andrews,4,U.S. Senate,,DEM,Sema Hernandez,1,1,0
+Andrews,2,Proposition 8,,REP,Yes,864,337,527
+Andrews,2,Proposition 8,,REP,No,33,12,21
+Andrews,3,Proposition 8,,REP,Yes,475,184,291
+Andrews,3,Proposition 8,,REP,No,24,6,18
+Andrews,4,Proposition 8,,REP,Yes,320,170,150
+Andrews,4,Proposition 8,,REP,No,10,6,4
+Andrews,1,Proposition 9,,REP,Yes,352,153,199
+Andrews,1,Proposition 9,,REP,No,55,25,30
+Andrews,2,Proposition 9,,REP,Yes,795,315,480
+Andrews,2,Proposition 9,,REP,No,99,33,66
+Andrews,3,Proposition 9,,REP,Yes,436,166,270
+Andrews,3,Proposition 9,,REP,No,67,27,40
+Andrews,4,Proposition 9,,REP,Yes,273,141,132
+Andrews,4,Proposition 9,,REP,No,53,34,19
+Andrews,1,Proposition 10,,REP,Yes,373,166,207
+Andrews,1,Proposition 10,,REP,No,23,4,19
+Andrews,2,Proposition 10,,REP,Yes,789,312,477
+Andrews,2,Proposition 10,,REP,No,72,26,46
+Andrews,3,Proposition 10,,REP,Yes,467,186,281
+Andrews,3,Proposition 10,,REP,No,29,6,23
+Andrews,4,Proposition 10,,REP,Yes,292,156,136
+Andrews,4,Proposition 10,,REP,No,23,10,13
+Andrews,1,Proposition 11,,REP,Yes,333,145,188
+Andrews,1,Proposition 11,,REP,No,72,33,39
+Andrews,2,Proposition 11,,REP,Yes,763,290,473
+Andrews,2,Proposition 11,,REP,No,135,56,79
+Andrews,3,Proposition 11,,REP,Yes,421,154,267
+Andrews,3,Proposition 11,,REP,No,82,39,43
+Andrews,4,Proposition 11,,REP,Yes,250,126,124
+Andrews,4,Proposition 11,,REP,No,74,44,30
+Andrews,1,U.S. Senate,,DEM,Beto O'Rourke,18,15,3
+Andrews,1,U.S. Senate,,DEM,Sema Hernandez,11,9,2
+Andrews,1,U.S. Senate,,DEM,Edward Kimbrough,1,1,0
+Andrews,2,U.S. Senate,,DEM,Beto O'Rourke,5,0,5
+Andrews,2,U.S. Senate,,DEM,Sema Hernandez,4,0,4
+Andrews,2,U.S. Senate,,DEM,Edward Kimbrough,2,0,2
+Andrews,3,U.S. Senate,,DEM,Beto O'Rourke,2,0,2
+Andrews,3,U.S. Senate,,DEM,Sema Hernandez,2,0,2
+Andrews,3,U.S. Senate,,DEM,Edward Kimbrough,5,0,5
+Andrews,4,U.S. Senate,,DEM,Beto O'Rourke,1,0,1
+Andrews,4,U.S. Senate,,DEM,Sema Hernandez,1,0,1
 Andrews,4,U.S. Senate,,DEM,Edward Kimbrough,0,0,0
-Andrews,1,U.S. House,11,DEM,Jennie Lou Leeder,22,2,20
-Andrews,1,U.S. House,11,DEM,Eric Pfalzgraf,9,3,6
-Andrews,2,U.S. House,11,DEM,Jennie Lou Leeder,9,9,0
-Andrews,2,U.S. House,11,DEM,Eric Pfalzgraf,1,1,0
-Andrews,3,U.S. House,11,DEM,Jennie Lou Leeder,9,9,0
+Andrews,1,U.S. House,11,DEM,Jennie Lou Leeder,22,20,2
+Andrews,1,U.S. House,11,DEM,Eric Pfalzgraf,9,6,3
+Andrews,2,U.S. House,11,DEM,Jennie Lou Leeder,9,0,9
+Andrews,2,U.S. House,11,DEM,Eric Pfalzgraf,1,0,1
+Andrews,3,U.S. House,11,DEM,Jennie Lou Leeder,9,0,9
 Andrews,3,U.S. House,11,DEM,Eric Pfalzgraf,0,0,0
 Andrews,4,U.S. House,11,DEM,Jennie Lou Leeder,0,0,0
-Andrews,4,U.S. House,11,DEM,Eric Pfalzgraf,2,2,0
-Andrews,1,Governor,,DEM,James Jolly Clark,2,0,2
-Andrews,1,Governor,,DEM,Joe Mumbach,1,0,1
-Andrews,1,Governor,,DEM,Adrian Ocegueda,4,0,4
-Andrews,1,Governor,,DEM,Andrew White,3,1,2
-Andrews,1,Governor,,DEM,Cedric Davis Sr,3,1,2
-Andrews,1,Governor,,DEM,Lupe Valdez,12,3,9
-Andrews,1,Governor,,DEM,Jeffrey Payne,3,0,3
-Andrews,1,Governor,,DEM,Grady Yarbrough,3,0,3
+Andrews,4,U.S. House,11,DEM,Eric Pfalzgraf,2,0,2
+Andrews,1,Governor,,DEM,James Jolly Clark,2,2,0
+Andrews,1,Governor,,DEM,Joe Mumbach,1,1,0
+Andrews,1,Governor,,DEM,Adrian Ocegueda,4,4,0
+Andrews,1,Governor,,DEM,Andrew White,3,2,1
+Andrews,1,Governor,,DEM,Cedric Davis Sr,3,2,1
+Andrews,1,Governor,,DEM,Lupe Valdez,12,9,3
+Andrews,1,Governor,,DEM,Jeffrey Payne,3,3,0
+Andrews,1,Governor,,DEM,Grady Yarbrough,3,3,0
 Andrews,1,Governor,,DEM,Tom Wakely,0,0,0
-Andrews,2,Governor,,DEM,James Jolly Clark,1,1,0
-Andrews,2,Governor,,DEM,Joe Mumbach,1,1,0
-Andrews,2,Governor,,DEM,Adrian Ocegueda,1,1,0
-Andrews,2,Governor,,DEM,Andrew White,4,4,0
+Andrews,2,Governor,,DEM,James Jolly Clark,1,0,1
+Andrews,2,Governor,,DEM,Joe Mumbach,1,0,1
+Andrews,2,Governor,,DEM,Adrian Ocegueda,1,0,1
+Andrews,2,Governor,,DEM,Andrew White,4,0,4
 Andrews,2,Governor,,DEM,Cedric Davis Sr,0,0,0
-Andrews,2,Governor,,DEM,Lupe Valdez,1,1,0
-Andrews,2,Governor,,DEM,Jeffrey Payne,1,1,0
-Andrews,2,Governor,,DEM,Grady Yarbrough,1,1,0
+Andrews,2,Governor,,DEM,Lupe Valdez,1,0,1
+Andrews,2,Governor,,DEM,Jeffrey Payne,1,0,1
+Andrews,2,Governor,,DEM,Grady Yarbrough,1,0,1
 Andrews,2,Governor,,DEM,Tom Wakely,0,0,0
 Andrews,3,Governor,,DEM,James Jolly Clark,0,0,0
 Andrews,3,Governor,,DEM,Joe Mumbach,0,0,0
 Andrews,3,Governor,,DEM,Adrian Ocegueda,0,0,0
-Andrews,3,Governor,,DEM,Andrew White,2,2,0
+Andrews,3,Governor,,DEM,Andrew White,2,0,2
 Andrews,3,Governor,,DEM,Cedric Davis Sr,0,0,0
-Andrews,3,Governor,,DEM,Lupe Valdez,3,3,0
+Andrews,3,Governor,,DEM,Lupe Valdez,3,0,3
 Andrews,3,Governor,,DEM,Jeffrey Payne,0,0,0
-Andrews,3,Governor,,DEM,Grady Yarbrough,2,2,0
-Andrews,3,Governor,,DEM,Tom Wakely,1,1,0
+Andrews,3,Governor,,DEM,Grady Yarbrough,2,0,2
+Andrews,3,Governor,,DEM,Tom Wakely,1,0,1
 Andrews,4,Governor,,DEM,James Jolly Clark,0,0,0
 Andrews,4,Governor,,DEM,Joe Mumbach,0,0,0
 Andrews,4,Governor,,DEM,Adrian Ocegueda,0,0,0
-Andrews,4,Governor,,DEM,Andrew White,1,1,0
+Andrews,4,Governor,,DEM,Andrew White,1,0,1
 Andrews,4,Governor,,DEM,Cedric Davis Sr,0,0,0
-Andrews,4,Governor,,DEM,Lupe Valdez,1,1,0
+Andrews,4,Governor,,DEM,Lupe Valdez,1,0,1
 Andrews,4,Governor,,DEM,Jeffrey Payne,0,0,0
 Andrews,4,Governor,,DEM,Grady Yarbrough,0,0,0
 Andrews,4,Governor,,DEM,Tom Wakely,0,0,0
-Andrews,1,Lieutenant Governor,,DEM,Mike Collier,17,1,16
-Andrews,1,Lieutenant Governor,,DEM,Michael Cooper,12,4,8
-Andrews,2,Lieutenant Governor,,DEM,Mike Collier,7,7,0
-Andrews,2,Lieutenant Governor,,DEM,Michael Cooper,3,3,0
-Andrews,3,Lieutenant Governor,,DEM,Mike Collier,3,3,0
-Andrews,3,Lieutenant Governor,,DEM,Michael Cooper,6,6,0
-Andrews,4,Lieutenant Governor,,DEM,Mike Collier,1,1,0
-Andrews,4,Lieutenant Governor,,DEM,Michael Cooper,1,1,0
-Andrews,1,Attorney General,,DEM,Justin Nelson,26,5,21
-Andrews,2,Attorney General,,DEM,Justin Nelson,9,9,0
-Andrews,3,Attorney General,,DEM,Justin Nelson,7,7,0
-Andrews,4,Attorney General,,DEM,Justin Nelson,2,2,0
-Andrews,1,Comptroller of Public Accounts,,DEM,Tim Mahoney,18,4,14
-Andrews,1,Comptroller of Public Accounts,,DEM,Joi Chevalier,10,1,9
-Andrews,2,Comptroller of Public Accounts,,DEM,Tim Mahoney,9,9,0
-Andrews,2,Comptroller of Public Accounts,,DEM,Joi Chevalier,1,1,0
-Andrews,3,Comptroller of Public Accounts,,DEM,Tim Mahoney,7,7,0
-Andrews,3,Comptroller of Public Accounts,,DEM,Joi Chevalier,2,2,0
-Andrews,4,Comptroller of Public Accounts,,DEM,Tim Mahoney,1,1,0
-Andrews,4,Comptroller of Public Accounts,,DEM,Joi Chevalier,1,1,0
-Andrews,1,Commissioner of the General Land Office,,DEM,Tex Morgan,10,3,7
-Andrews,1,Commissioner of the General Land Office,,DEM,Miguel Suazo,18,2,16
-Andrews,2,Commissioner of the General Land Office,,DEM,Tex Morgan,7,7,0
-Andrews,2,Commissioner of the General Land Office,,DEM,Miguel Suazo,3,3,0
-Andrews,3,Commissioner of the General Land Office,,DEM,Tex Morgan,6,6,0
-Andrews,3,Commissioner of the General Land Office,,DEM,Miguel Suazo,3,3,0
-Andrews,4,Commissioner of the General Land Office,,DEM,Tex Morgan,2,2,0
+Andrews,1,Lieutenant Governor,,DEM,Mike Collier,17,16,1
+Andrews,1,Lieutenant Governor,,DEM,Michael Cooper,12,8,4
+Andrews,2,Lieutenant Governor,,DEM,Mike Collier,7,0,7
+Andrews,2,Lieutenant Governor,,DEM,Michael Cooper,3,0,3
+Andrews,3,Lieutenant Governor,,DEM,Mike Collier,3,0,3
+Andrews,3,Lieutenant Governor,,DEM,Michael Cooper,6,0,6
+Andrews,4,Lieutenant Governor,,DEM,Mike Collier,1,0,1
+Andrews,4,Lieutenant Governor,,DEM,Michael Cooper,1,0,1
+Andrews,1,Attorney General,,DEM,Justin Nelson,26,21,5
+Andrews,2,Attorney General,,DEM,Justin Nelson,9,0,9
+Andrews,3,Attorney General,,DEM,Justin Nelson,7,0,7
+Andrews,4,Attorney General,,DEM,Justin Nelson,2,0,2
+Andrews,1,Comptroller of Public Accounts,,DEM,Tim Mahoney,18,14,4
+Andrews,1,Comptroller of Public Accounts,,DEM,Joi Chevalier,10,9,1
+Andrews,2,Comptroller of Public Accounts,,DEM,Tim Mahoney,9,0,9
+Andrews,2,Comptroller of Public Accounts,,DEM,Joi Chevalier,1,0,1
+Andrews,3,Comptroller of Public Accounts,,DEM,Tim Mahoney,7,0,7
+Andrews,3,Comptroller of Public Accounts,,DEM,Joi Chevalier,2,0,2
+Andrews,4,Comptroller of Public Accounts,,DEM,Tim Mahoney,1,0,1
+Andrews,4,Comptroller of Public Accounts,,DEM,Joi Chevalier,1,0,1
+Andrews,1,Commissioner of the General Land Office,,DEM,Tex Morgan,10,7,3
+Andrews,1,Commissioner of the General Land Office,,DEM,Miguel Suazo,18,16,2
+Andrews,2,Commissioner of the General Land Office,,DEM,Tex Morgan,7,0,7
+Andrews,2,Commissioner of the General Land Office,,DEM,Miguel Suazo,3,0,3
+Andrews,3,Commissioner of the General Land Office,,DEM,Tex Morgan,6,0,6
+Andrews,3,Commissioner of the General Land Office,,DEM,Miguel Suazo,3,0,3
+Andrews,4,Commissioner of the General Land Office,,DEM,Tex Morgan,2,0,2
 Andrews,4,Commissioner of the General Land Office,,DEM,Miguel Suazo,0,0,0
-Andrews,1,Commissioner of Agriculture,,DEM,Kim Olson,26,5,21
-Andrews,2,Commissioner of Agriculture,,DEM,Kim Olson,11,11,0
-Andrews,3,Commissioner of Agriculture,,DEM,Kim Olson,6,6,0
-Andrews,4,Commissioner of Agriculture,,DEM,Kim Olson,2,2,0
-Andrews,1,Railroad Commissioner,,DEM,Roman Mcallen,12,3,9
-Andrews,1,Railroad Commissioner,,DEM,Chris Spellmon,14,2,12
-Andrews,2,Railroad Commissioner,,DEM,Roman Mcallen,2,2,0
-Andrews,2,Railroad Commissioner,,DEM,Chris Spellmon,7,7,0
-Andrews,3,Railroad Commissioner,,DEM,Roman Mcallen,4,4,0
-Andrews,3,Railroad Commissioner,,DEM,Chris Spellmon,4,4,0
-Andrews,4,Railroad Commissioner,,DEM,Roman Mcallen,1,1,0
-Andrews,4,Railroad Commissioner,,DEM,Chris Spellmon,1,1,0
-Andrews,1,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,27,5,22
-Andrews,2,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,11,11,0
-Andrews,3,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,7,7,0
-Andrews,4,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,2,2,0
-Andrews,1,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,28,5,23
-Andrews,2,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,11,11,0
-Andrews,3,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,8,8,0
-Andrews,4,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,2,2,0
-Andrews,1,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,27,5,22
-Andrews,2,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,11,11,0
-Andrews,3,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,7,7,0
-Andrews,4,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,2,2,0
-Andrews,1,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T Jackson,28,5,23
-Andrews,2,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T Jackson,11,11,0
-Andrews,3,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T Jackson,7,7,0
-Andrews,4,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T Jackson,2,2,0
-Andrews,1,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,29,5,24
-Andrews,2,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,11,11,0
-Andrews,3,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,8,8,0
-Andrews,4,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,2,2,0
-Andrews,1,State Representative,81,DEM,Armando Gamboa,29,5,24
-Andrews,2,State Representative,81,DEM,Armando Gamboa,10,10,0
-Andrews,3,State Representative,81,DEM,Armando Gamboa,7,7,0
-Andrews,4,State Representative,81,DEM,Armando Gamboa,2,2,0
-Andrews,1,"Justice, 8th Court of Appeals District, Place 2",,DEM,Yvonne Rodriguez,28,5,23
-Andrews,2,"Justice, 8th Court of Appeals District, Place 2",,DEM,Yvonne Rodriguez,9,9,0
-Andrews,3,"Justice, 8th Court of Appeals District, Place 2",,DEM,Yvonne Rodriguez,7,7,0
-Andrews,4,"Justice, 8th Court of Appeals District, Place 2",,DEM,Yvonne Rodriguez,2,2,0
-Andrews,1,"Justice, 8th Court of Appeals District, Place 3",,DEM,Gina M Palafox,27,5,22
-Andrews,2,"Justice, 8th Court of Appeals District, Place 3",,DEM,Gina M Palafox,10,10,0
-Andrews,3,"Justice, 8th Court of Appeals District, Place 3",,DEM,Gina M Palafox,7,7,0
-Andrews,4,"Justice, 8th Court of Appeals District, Place 3",,DEM,Gina M Palafox,2,2,0
-Andrews,1,County Chair,,DEM,Michael Andrew Crow,29,5,24
-Andrews,2,County Chair,,DEM,Michael Andrew Crow,8,8,0
-Andrews,3,County Chair,,DEM,Michael Andrew Crow,7,7,0
-Andrews,4,County Chair,,DEM,Michael Andrew Crow,2,2,0
-Andrews,1,Proposition 1,,DEM,For,29,6,23
+Andrews,1,Commissioner of Agriculture,,DEM,Kim Olson,26,21,5
+Andrews,2,Commissioner of Agriculture,,DEM,Kim Olson,11,0,11
+Andrews,3,Commissioner of Agriculture,,DEM,Kim Olson,6,0,6
+Andrews,4,Commissioner of Agriculture,,DEM,Kim Olson,2,0,2
+Andrews,1,Railroad Commissioner,,DEM,Roman Mcallen,12,9,3
+Andrews,1,Railroad Commissioner,,DEM,Chris Spellmon,14,12,2
+Andrews,2,Railroad Commissioner,,DEM,Roman Mcallen,2,0,2
+Andrews,2,Railroad Commissioner,,DEM,Chris Spellmon,7,0,7
+Andrews,3,Railroad Commissioner,,DEM,Roman Mcallen,4,0,4
+Andrews,3,Railroad Commissioner,,DEM,Chris Spellmon,4,0,4
+Andrews,4,Railroad Commissioner,,DEM,Roman Mcallen,1,0,1
+Andrews,4,Railroad Commissioner,,DEM,Chris Spellmon,1,0,1
+Andrews,1,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,27,22,5
+Andrews,2,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,11,0,11
+Andrews,3,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,7,0,7
+Andrews,4,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,2,0,2
+Andrews,1,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,28,23,5
+Andrews,2,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,11,0,11
+Andrews,3,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,8,0,8
+Andrews,4,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,2,0,2
+Andrews,1,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,27,22,5
+Andrews,2,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,11,0,11
+Andrews,3,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,7,0,7
+Andrews,4,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,2,0,2
+Andrews,1,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T Jackson,28,23,5
+Andrews,2,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T Jackson,11,0,11
+Andrews,3,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T Jackson,7,0,7
+Andrews,4,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T Jackson,2,0,2
+Andrews,1,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,29,24,5
+Andrews,2,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,11,0,11
+Andrews,3,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,8,0,8
+Andrews,4,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,2,0,2
+Andrews,1,State Representative,81,DEM,Armando Gamboa,29,24,5
+Andrews,2,State Representative,81,DEM,Armando Gamboa,10,0,10
+Andrews,3,State Representative,81,DEM,Armando Gamboa,7,0,7
+Andrews,4,State Representative,81,DEM,Armando Gamboa,2,0,2
+Andrews,1,"Justice, 8th Court of Appeals District, Place 2",,DEM,Yvonne Rodriguez,28,23,5
+Andrews,2,"Justice, 8th Court of Appeals District, Place 2",,DEM,Yvonne Rodriguez,9,0,9
+Andrews,3,"Justice, 8th Court of Appeals District, Place 2",,DEM,Yvonne Rodriguez,7,0,7
+Andrews,4,"Justice, 8th Court of Appeals District, Place 2",,DEM,Yvonne Rodriguez,2,0,2
+Andrews,1,"Justice, 8th Court of Appeals District, Place 3",,DEM,Gina M Palafox,27,22,5
+Andrews,2,"Justice, 8th Court of Appeals District, Place 3",,DEM,Gina M Palafox,10,0,10
+Andrews,3,"Justice, 8th Court of Appeals District, Place 3",,DEM,Gina M Palafox,7,0,7
+Andrews,4,"Justice, 8th Court of Appeals District, Place 3",,DEM,Gina M Palafox,2,0,2
+Andrews,1,County Chair,,DEM,Michael Andrew Crow,29,24,5
+Andrews,2,County Chair,,DEM,Michael Andrew Crow,8,0,8
+Andrews,3,County Chair,,DEM,Michael Andrew Crow,7,0,7
+Andrews,4,County Chair,,DEM,Michael Andrew Crow,2,0,2
+Andrews,1,Proposition 1,,DEM,For,29,23,6
 Andrews,1,Proposition 1,,DEM,Against,0,0,0
-Andrews,2,Proposition 1,,DEM,For,10,10,0
-Andrews,2,Proposition 1,,DEM,Against,1,1,0
-Andrews,3,Proposition 1,,DEM,For,7,7,0
-Andrews,3,Proposition 1,,DEM,Against,1,1,0
-Andrews,4,Proposition 1,,DEM,For,2,2,0
+Andrews,2,Proposition 1,,DEM,For,10,0,10
+Andrews,2,Proposition 1,,DEM,Against,1,0,1
+Andrews,3,Proposition 1,,DEM,For,7,0,7
+Andrews,3,Proposition 1,,DEM,Against,1,0,1
+Andrews,4,Proposition 1,,DEM,For,2,0,2
 Andrews,4,Proposition 1,,DEM,Against,0,0,0
-Andrews,1,Proposition 2,,DEM,For,30,6,24
+Andrews,1,Proposition 2,,DEM,For,30,24,6
 Andrews,1,Proposition 2,,DEM,Against,0,0,0
-Andrews,2,Proposition 2,,DEM,For,9,9,0
-Andrews,2,Proposition 2,,DEM,Against,2,2,0
-Andrews,3,Proposition 2,,DEM,For,4,4,0
-Andrews,3,Proposition 2,,DEM,Against,5,5,0
-Andrews,4,Proposition 2,,DEM,For,2,2,0
+Andrews,2,Proposition 2,,DEM,For,9,0,9
+Andrews,2,Proposition 2,,DEM,Against,2,0,2
+Andrews,3,Proposition 2,,DEM,For,4,0,4
+Andrews,3,Proposition 2,,DEM,Against,5,0,5
+Andrews,4,Proposition 2,,DEM,For,2,0,2
 Andrews,4,Proposition 2,,DEM,Against,0,0,0
-Andrews,1,Proposition 3,,DEM,For,30,6,24
+Andrews,1,Proposition 3,,DEM,For,30,24,6
 Andrews,1,Proposition 3,,DEM,Against,0,0,0
-Andrews,2,Proposition 3,,DEM,For,10,10,0
-Andrews,2,Proposition 3,,DEM,Against,1,1,0
-Andrews,3,Proposition 3,,DEM,For,7,7,0
-Andrews,3,Proposition 3,,DEM,Against,1,1,0
-Andrews,4,Proposition 3,,DEM,For,2,2,0
+Andrews,2,Proposition 3,,DEM,For,10,0,10
+Andrews,2,Proposition 3,,DEM,Against,1,0,1
+Andrews,3,Proposition 3,,DEM,For,7,0,7
+Andrews,3,Proposition 3,,DEM,Against,1,0,1
+Andrews,4,Proposition 3,,DEM,For,2,0,2
 Andrews,4,Proposition 3,,DEM,Against,0,0,0
-Andrews,1,Proposition 4,,DEM,For,30,6,24
+Andrews,1,Proposition 4,,DEM,For,30,24,6
 Andrews,1,Proposition 4,,DEM,Against,0,0,0
-Andrews,2,Proposition 4,,DEM,For,10,10,0
-Andrews,2,Proposition 4,,DEM,Against,1,1,0
-Andrews,3,Proposition 4,,DEM,For,6,6,0
-Andrews,3,Proposition 4,,DEM,Against,3,3,0
-Andrews,4,Proposition 4,,DEM,For,2,2,0
+Andrews,2,Proposition 4,,DEM,For,10,0,10
+Andrews,2,Proposition 4,,DEM,Against,1,0,1
+Andrews,3,Proposition 4,,DEM,For,6,0,6
+Andrews,3,Proposition 4,,DEM,Against,3,0,3
+Andrews,4,Proposition 4,,DEM,For,2,0,2
 Andrews,4,Proposition 4,,DEM,Against,0,0,0
-Andrews,1,Proposition 5,,DEM,For,27,5,22
+Andrews,1,Proposition 5,,DEM,For,27,22,5
 Andrews,1,Proposition 5,,DEM,Against,0,0,0
-Andrews,2,Proposition 5,,DEM,For,9,9,0
-Andrews,2,Proposition 5,,DEM,Against,2,2,0
-Andrews,3,Proposition 5,,DEM,For,7,7,0
-Andrews,3,Proposition 5,,DEM,Against,2,2,0
-Andrews,4,Proposition 5,,DEM,For,2,2,0
+Andrews,2,Proposition 5,,DEM,For,9,0,9
+Andrews,2,Proposition 5,,DEM,Against,2,0,2
+Andrews,3,Proposition 5,,DEM,For,7,0,7
+Andrews,3,Proposition 5,,DEM,Against,2,0,2
+Andrews,4,Proposition 5,,DEM,For,2,0,2
 Andrews,4,Proposition 5,,DEM,Against,0,0,0
-Andrews,1,Proposition 6,,DEM,For,29,6,23
+Andrews,1,Proposition 6,,DEM,For,29,23,6
 Andrews,1,Proposition 6,,DEM,Against,0,0,0
-Andrews,2,Proposition 6,,DEM,For,9,9,0
-Andrews,2,Proposition 6,,DEM,Against,1,1,0
-Andrews,3,Proposition 6,,DEM,For,9,9,0
+Andrews,2,Proposition 6,,DEM,For,9,0,9
+Andrews,2,Proposition 6,,DEM,Against,1,0,1
+Andrews,3,Proposition 6,,DEM,For,9,0,9
 Andrews,3,Proposition 6,,DEM,Against,0,0,0
-Andrews,4,Proposition 6,,DEM,For,2,2,0
+Andrews,4,Proposition 6,,DEM,For,2,0,2
 Andrews,4,Proposition 6,,DEM,Against,0,0,0
-Andrews,1,Proposition 7,,DEM,For,36,6,30
+Andrews,1,Proposition 7,,DEM,For,36,30,6
 Andrews,1,Proposition 7,,DEM,Against,0,0,0
-Andrews,2,Proposition 7,,DEM,For,10,10,0
-Andrews,2,Proposition 7,,DEM,Against,1,1,0
-Andrews,3,Proposition 7,,DEM,For,9,9,0
+Andrews,2,Proposition 7,,DEM,For,10,0,10
+Andrews,2,Proposition 7,,DEM,Against,1,0,1
+Andrews,3,Proposition 7,,DEM,For,9,0,9
 Andrews,3,Proposition 7,,DEM,Against,0,0,0
-Andrews,4,Proposition 7,,DEM,For,2,2,0
+Andrews,4,Proposition 7,,DEM,For,2,0,2
 Andrews,4,Proposition 7,,DEM,Against,0,0,0
-Andrews,1,Proposition 8,,DEM,For,29,5,24
+Andrews,1,Proposition 8,,DEM,For,29,24,5
 Andrews,1,Proposition 8,,DEM,Against,0,0,0
-Andrews,2,Proposition 8,,DEM,For,10,10,0
-Andrews,2,Proposition 8,,DEM,Against,1,1,0
-Andrews,3,Proposition 8,,DEM,For,8,8,0
-Andrews,3,Proposition 8,,DEM,Against,1,1,0
-Andrews,4,Proposition 8,,DEM,For,2,2,0
+Andrews,2,Proposition 8,,DEM,For,10,0,10
+Andrews,2,Proposition 8,,DEM,Against,1,0,1
+Andrews,3,Proposition 8,,DEM,For,8,0,8
+Andrews,3,Proposition 8,,DEM,Against,1,0,1
+Andrews,4,Proposition 8,,DEM,For,2,0,2
 Andrews,4,Proposition 8,,DEM,Against,0,0,0
-Andrews,1,Proposition 9,,DEM,For,28,6,22
+Andrews,1,Proposition 9,,DEM,For,28,22,6
 Andrews,1,Proposition 9,,DEM,Against,0,0,0
-Andrews,2,Proposition 9,,DEM,For,9,9,0
-Andrews,2,Proposition 9,,DEM,Against,2,2,0
-Andrews,3,Proposition 9,,DEM,For,9,9,0
+Andrews,2,Proposition 9,,DEM,For,9,0,9
+Andrews,2,Proposition 9,,DEM,Against,2,0,2
+Andrews,3,Proposition 9,,DEM,For,9,0,9
 Andrews,3,Proposition 9,,DEM,Against,0,0,0
-Andrews,4,Proposition 9,,DEM,For,2,2,0
+Andrews,4,Proposition 9,,DEM,For,2,0,2
 Andrews,4,Proposition 9,,DEM,Against,0,0,0
-Andrews,1,Proposition 10,,DEM,For,28,5,23
-Andrews,1,Proposition 10,,DEM,Against,1,1,0
-Andrews,2,Proposition 10,,DEM,For,10,10,0
-Andrews,2,Proposition 10,,DEM,Against,1,1,0
-Andrews,3,Proposition 10,,DEM,For,7,7,0
-Andrews,3,Proposition 10,,DEM,Against,2,2,0
-Andrews,4,Proposition 10,,DEM,For,2,2,0
+Andrews,1,Proposition 10,,DEM,For,28,23,5
+Andrews,1,Proposition 10,,DEM,Against,1,0,1
+Andrews,2,Proposition 10,,DEM,For,10,0,10
+Andrews,2,Proposition 10,,DEM,Against,1,0,1
+Andrews,3,Proposition 10,,DEM,For,7,0,7
+Andrews,3,Proposition 10,,DEM,Against,2,0,2
+Andrews,4,Proposition 10,,DEM,For,2,0,2
 Andrews,4,Proposition 10,,DEM,Against,0,0,0
-Andrews,1,Proposition 11,,DEM,For,30,6,24
+Andrews,1,Proposition 11,,DEM,For,30,24,6
 Andrews,1,Proposition 11,,DEM,Against,0,0,0
-Andrews,2,Proposition 11,,DEM,For,9,9,0
-Andrews,2,Proposition 11,,DEM,Against,2,2,0
-Andrews,3,Proposition 11,,DEM,For,7,7,0
-Andrews,3,Proposition 11,,DEM,Against,2,2,0
-Andrews,4,Proposition 11,,DEM,For,2,2,0
+Andrews,2,Proposition 11,,DEM,For,9,0,9
+Andrews,2,Proposition 11,,DEM,Against,2,0,2
+Andrews,3,Proposition 11,,DEM,For,7,0,7
+Andrews,3,Proposition 11,,DEM,Against,2,0,2
+Andrews,4,Proposition 11,,DEM,For,2,0,2
 Andrews,4,Proposition 11,,DEM,Against,0,0,0
-Andrews,1,Proposition 12,,DEM,For,29,6,23
+Andrews,1,Proposition 12,,DEM,For,29,23,6
 Andrews,1,Proposition 12,,DEM,Against,0,0,0
-Andrews,2,Proposition 12,,DEM,For,11,11,0
+Andrews,2,Proposition 12,,DEM,For,11,0,11
 Andrews,2,Proposition 12,,DEM,Against,0,0,0
-Andrews,3,Proposition 12,,DEM,For,8,8,0
-Andrews,3,Proposition 12,,DEM,Against,1,1,0
-Andrews,4,Proposition 12,,DEM,For,2,2,0
+Andrews,3,Proposition 12,,DEM,For,8,0,8
+Andrews,3,Proposition 12,,DEM,Against,1,0,1
+Andrews,4,Proposition 12,,DEM,For,2,0,2
 Andrews,4,Proposition 12,,DEM,Against,0,0,0

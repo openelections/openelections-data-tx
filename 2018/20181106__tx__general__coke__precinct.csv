@@ -1,249 +1,249 @@
-county,precinct,office,district,party,candidate,votes,early_voting,election_day
+county,precinct,office,district,party,candidate,votes,election_day,early_voting
 Coke,1,Straight Party,,REP,Over Votes,0,0,0
-Coke,1,Straight Party,,REP,Under Votes,134,77,57
+Coke,1,Straight Party,,REP,Under Votes,134,57,77
 Coke,1,Registered Voters,,REP,,573,,
-Coke,1,Ballots Cast,,,,348,228,120
-Coke,1,Straight Party,,REP,Republican Party,183,127,56
-Coke,1,Straight Party,,DEM,Democratic Party,15,9,6
+Coke,1,Ballots Cast,,,,348,120,228
+Coke,1,Straight Party,,REP,Republican Party,183,56,127
+Coke,1,Straight Party,,DEM,Democratic Party,15,6,9
 Coke,1,Straight Party,,LIB,Libertarian Party,2,1,1
-Coke,1,U.S. Senate,,REP,Ted Cruz,291,187,104
-Coke,1,U.S. Senate,,DEM,Beto O'Rourke,27,15,12
-Coke,1,U.S. Senate,,LIB,Neal M. Dikeman,8,6,2
-Coke,1,U.S. House,11,REP,Mike Conaway,304,204,100
-Coke,1,U.S. House,11,DEM,Jennie Lou Leeder,23,13,10
-Coke,1,U.S. House,11,LIB,Rhett Rosenquest Smith,13,5,8
-Coke,1,Governor,,REP,Greg Abbott,308,208,100
-Coke,1,Governor,,DEM,Lupe Valdez,26,15,11
-Coke,1,Governor,,LIB,Mark Jay Tippetts,11,4,7
-Coke,1,Lieutenant Governor,,REP,Dan Patrick,273,178,95
-Coke,1,Lieutenant Governor,,DEM,Mike Collier,53,36,17
-Coke,1,Lieutenant Governor,,LIB,Kerry Douglas McKennon,12,7,5
-Coke,1,Attorney General,,REP,Ken Paxton,287,189,98
-Coke,1,Attorney General,,DEM,Justin Nelson,39,26,13
-Coke,1,Attorney General,,LIB,Michael Ray Harris,13,8,5
-Coke,1,Comptroller of Public Accounts,,REP,Glenn Hegar,304,202,102
-Coke,1,Comptroller of Public Accounts,,DEM,Joi Chevalier,22,14,8
-Coke,1,Comptroller of Public Accounts,,LIB,Ben Sanders,9,5,4
-Coke,1,Commissioner of the General Land Office,,REP,George P. Bush,259,163,96
-Coke,1,Commissioner of the General Land Office,,DEM,Miguel Suazo,32,20,12
-Coke,1,Commissioner of the General Land Office,,LIB,Matt Piña,23,14,9
-Coke,1,Commissioner of Agriculture,,REP,Sid Miller,301,200,101
-Coke,1,Commissioner of Agriculture,,DEM,Kim Olson,27,18,9
-Coke,1,Commissioner of Agriculture,,LIB,Richard Carpenter,9,4,5
-Coke,1,Railroad Commissioner,,REP,Christi Craddick,303,202,101
-Coke,1,Railroad Commissioner,,DEM,Roman McAllen,23,14,9
-Coke,1,Railroad Commissioner,,LIB,Mike Wright,13,7,6
-Coke,1,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,311,205,106
-Coke,1,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,27,17,10
-Coke,1,"Justice, Supreme Court, Place 4",,REP,John Devine,311,206,105
-Coke,1,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,28,16,12
-Coke,1,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,310,204,106
-Coke,1,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,28,18,10
-Coke,1,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,300,202,98
-Coke,1,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,25,15,10
-Coke,1,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,13,5,8
-Coke,1,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,310,204,106
-Coke,1,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,23,15,8
-Coke,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,300,198,102
-Coke,1,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,17,10,7
-Coke,1,State Representative,No. 72,REP,Drew Darby,315,212,103
-Coke,1,"Justice, 3rd Court of Appeals District, Place No. 2",,REP,Cindy Olson Bourland,309,203,106
-Coke,1,"Justice, 3rd Court of Appeals District, Place No. 2",,DEM,Edward Smith,25,16,9
-Coke,1,"Justice, 3rd Court of Appeals District, Place No. 3",,REP,Scott Field,307,203,104
-Coke,1,"Justice, 3rd Court of Appeals District, Place No. 3",,DEM,Chari Kelly,27,16,11
-Coke,1,"Justice, 3rd Court of Appeals District, Place No. 5",,REP,David Puryear,306,204,102
-Coke,1,"Justice, 3rd Court of Appeals District, Place No. 5",,DEM,Thomas J. Baker,27,15,12
-Coke,1,"Justice, 3rd Court of Appeals District, Place No. 6",,REP,"Michael ""Mike"" Toth",308,205,103
-Coke,1,"Justice, 3rd Court of Appeals District, Place No. 6",,DEM,Gisela D. Triana,25,14,11
-Coke,1,County Judge,,REP,Hal Spain,318,213,105
-Coke,1,District and County Clerk,,REP,Monica Reyes,318,212,106
-Coke,1,County Treasurer,,REP,Therese Emert,320,212,108
-Coke,1,Justice of the Peace,,REP,Russell Johnson,319,213,106
+Coke,1,U.S. Senate,,REP,Ted Cruz,291,104,187
+Coke,1,U.S. Senate,,DEM,Beto O'Rourke,27,12,15
+Coke,1,U.S. Senate,,LIB,Neal M. Dikeman,8,2,6
+Coke,1,U.S. House,11,REP,Mike Conaway,304,100,204
+Coke,1,U.S. House,11,DEM,Jennie Lou Leeder,23,10,13
+Coke,1,U.S. House,11,LIB,Rhett Rosenquest Smith,13,8,5
+Coke,1,Governor,,REP,Greg Abbott,308,100,208
+Coke,1,Governor,,DEM,Lupe Valdez,26,11,15
+Coke,1,Governor,,LIB,Mark Jay Tippetts,11,7,4
+Coke,1,Lieutenant Governor,,REP,Dan Patrick,273,95,178
+Coke,1,Lieutenant Governor,,DEM,Mike Collier,53,17,36
+Coke,1,Lieutenant Governor,,LIB,Kerry Douglas McKennon,12,5,7
+Coke,1,Attorney General,,REP,Ken Paxton,287,98,189
+Coke,1,Attorney General,,DEM,Justin Nelson,39,13,26
+Coke,1,Attorney General,,LIB,Michael Ray Harris,13,5,8
+Coke,1,Comptroller of Public Accounts,,REP,Glenn Hegar,304,102,202
+Coke,1,Comptroller of Public Accounts,,DEM,Joi Chevalier,22,8,14
+Coke,1,Comptroller of Public Accounts,,LIB,Ben Sanders,9,4,5
+Coke,1,Commissioner of the General Land Office,,REP,George P. Bush,259,96,163
+Coke,1,Commissioner of the General Land Office,,DEM,Miguel Suazo,32,12,20
+Coke,1,Commissioner of the General Land Office,,LIB,Matt Piña,23,9,14
+Coke,1,Commissioner of Agriculture,,REP,Sid Miller,301,101,200
+Coke,1,Commissioner of Agriculture,,DEM,Kim Olson,27,9,18
+Coke,1,Commissioner of Agriculture,,LIB,Richard Carpenter,9,5,4
+Coke,1,Railroad Commissioner,,REP,Christi Craddick,303,101,202
+Coke,1,Railroad Commissioner,,DEM,Roman McAllen,23,9,14
+Coke,1,Railroad Commissioner,,LIB,Mike Wright,13,6,7
+Coke,1,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,311,106,205
+Coke,1,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,27,10,17
+Coke,1,"Justice, Supreme Court, Place 4",,REP,John Devine,311,105,206
+Coke,1,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,28,12,16
+Coke,1,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,310,106,204
+Coke,1,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,28,10,18
+Coke,1,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,300,98,202
+Coke,1,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,25,10,15
+Coke,1,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,13,8,5
+Coke,1,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,310,106,204
+Coke,1,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,23,8,15
+Coke,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,300,102,198
+Coke,1,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,17,7,10
+Coke,1,State Representative,No. 72,REP,Drew Darby,315,103,212
+Coke,1,"Justice, 3rd Court of Appeals District, Place No. 2",,REP,Cindy Olson Bourland,309,106,203
+Coke,1,"Justice, 3rd Court of Appeals District, Place No. 2",,DEM,Edward Smith,25,9,16
+Coke,1,"Justice, 3rd Court of Appeals District, Place No. 3",,REP,Scott Field,307,104,203
+Coke,1,"Justice, 3rd Court of Appeals District, Place No. 3",,DEM,Chari Kelly,27,11,16
+Coke,1,"Justice, 3rd Court of Appeals District, Place No. 5",,REP,David Puryear,306,102,204
+Coke,1,"Justice, 3rd Court of Appeals District, Place No. 5",,DEM,Thomas J. Baker,27,12,15
+Coke,1,"Justice, 3rd Court of Appeals District, Place No. 6",,REP,"Michael ""Mike"" Toth",308,103,205
+Coke,1,"Justice, 3rd Court of Appeals District, Place No. 6",,DEM,Gisela D. Triana,25,11,14
+Coke,1,County Judge,,REP,Hal Spain,318,105,213
+Coke,1,District and County Clerk,,REP,Monica Reyes,318,106,212
+Coke,1,County Treasurer,,REP,Therese Emert,320,108,212
+Coke,1,Justice of the Peace,,REP,Russell Johnson,319,106,213
 Coke,2,Straight Party,,REP,Over Votes,0,0,0
-Coke,2,Straight Party,,REP,Under Votes,154,57,97
+Coke,2,Straight Party,,REP,Under Votes,154,97,57
 Coke,2,Registered Voters,,REP,,554,,
-Coke,2,Ballots Cast,,,,385,179,206
-Coke,2,Straight Party,,REP,Republican Party,199,99,100
-Coke,2,Straight Party,,DEM,Democratic Party,14,5,9
+Coke,2,Ballots Cast,,,,385,206,179
+Coke,2,Straight Party,,REP,Republican Party,199,100,99
+Coke,2,Straight Party,,DEM,Democratic Party,14,9,5
 Coke,2,Straight Party,,LIB,Libertarian Party,0,0,0
-Coke,2,U.S. Senate,,REP,Ted Cruz,349,161,188
+Coke,2,U.S. Senate,,REP,Ted Cruz,349,188,161
 Coke,2,U.S. Senate,,DEM,Beto O'Rourke,30,15,15
-Coke,2,U.S. Senate,,LIB,Neal M. Dikeman,1,0,1
-Coke,2,U.S. House,11,REP,Mike Conaway,353,160,193
-Coke,2,U.S. House,11,DEM,Jennie Lou Leeder,25,13,12
-Coke,2,U.S. House,11,LIB,Rhett Rosenquest Smith,3,3,0
-Coke,2,Governor,,REP,Greg Abbott,353,164,189
-Coke,2,Governor,,DEM,Lupe Valdez,27,13,14
+Coke,2,U.S. Senate,,LIB,Neal M. Dikeman,1,1,0
+Coke,2,U.S. House,11,REP,Mike Conaway,353,193,160
+Coke,2,U.S. House,11,DEM,Jennie Lou Leeder,25,12,13
+Coke,2,U.S. House,11,LIB,Rhett Rosenquest Smith,3,0,3
+Coke,2,Governor,,REP,Greg Abbott,353,189,164
+Coke,2,Governor,,DEM,Lupe Valdez,27,14,13
 Coke,2,Governor,,LIB,Mark Jay Tippetts,2,1,1
-Coke,2,Lieutenant Governor,,REP,Dan Patrick,310,150,160
-Coke,2,Lieutenant Governor,,DEM,Mike Collier,61,23,38
-Coke,2,Lieutenant Governor,,LIB,Kerry Douglas McKennon,6,2,4
-Coke,2,Attorney General,,REP,Ken Paxton,336,156,180
-Coke,2,Attorney General,,DEM,Justin Nelson,37,22,15
-Coke,2,Attorney General,,LIB,Michael Ray Harris,5,1,4
-Coke,2,Comptroller of Public Accounts,,REP,Glenn Hegar,337,161,176
+Coke,2,Lieutenant Governor,,REP,Dan Patrick,310,160,150
+Coke,2,Lieutenant Governor,,DEM,Mike Collier,61,38,23
+Coke,2,Lieutenant Governor,,LIB,Kerry Douglas McKennon,6,4,2
+Coke,2,Attorney General,,REP,Ken Paxton,336,180,156
+Coke,2,Attorney General,,DEM,Justin Nelson,37,15,22
+Coke,2,Attorney General,,LIB,Michael Ray Harris,5,4,1
+Coke,2,Comptroller of Public Accounts,,REP,Glenn Hegar,337,176,161
 Coke,2,Comptroller of Public Accounts,,DEM,Joi Chevalier,26,13,13
-Coke,2,Comptroller of Public Accounts,,LIB,Ben Sanders,5,2,3
-Coke,2,Commissioner of the General Land Office,,REP,George P. Bush,328,151,177
-Coke,2,Commissioner of the General Land Office,,DEM,Miguel Suazo,29,16,13
-Coke,2,Commissioner of the General Land Office,,LIB,Matt Piña,17,9,8
-Coke,2,Commissioner of Agriculture,,REP,Sid Miller,337,158,179
-Coke,2,Commissioner of Agriculture,,DEM,Kim Olson,31,17,14
-Coke,2,Commissioner of Agriculture,,LIB,Richard Carpenter,3,1,2
-Coke,2,Railroad Commissioner,,REP,Christi Craddick,336,159,177
-Coke,2,Railroad Commissioner,,DEM,Roman McAllen,27,13,14
-Coke,2,Railroad Commissioner,,LIB,Mike Wright,6,4,2
-Coke,2,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,339,159,180
-Coke,2,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,31,17,14
-Coke,2,"Justice, Supreme Court, Place 4",,REP,John Devine,342,162,180
+Coke,2,Comptroller of Public Accounts,,LIB,Ben Sanders,5,3,2
+Coke,2,Commissioner of the General Land Office,,REP,George P. Bush,328,177,151
+Coke,2,Commissioner of the General Land Office,,DEM,Miguel Suazo,29,13,16
+Coke,2,Commissioner of the General Land Office,,LIB,Matt Piña,17,8,9
+Coke,2,Commissioner of Agriculture,,REP,Sid Miller,337,179,158
+Coke,2,Commissioner of Agriculture,,DEM,Kim Olson,31,14,17
+Coke,2,Commissioner of Agriculture,,LIB,Richard Carpenter,3,2,1
+Coke,2,Railroad Commissioner,,REP,Christi Craddick,336,177,159
+Coke,2,Railroad Commissioner,,DEM,Roman McAllen,27,14,13
+Coke,2,Railroad Commissioner,,LIB,Mike Wright,6,2,4
+Coke,2,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,339,180,159
+Coke,2,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,31,14,17
+Coke,2,"Justice, Supreme Court, Place 4",,REP,John Devine,342,180,162
 Coke,2,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,26,13,13
-Coke,2,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,339,161,178
+Coke,2,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,339,178,161
 Coke,2,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,28,14,14
-Coke,2,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,336,161,175
-Coke,2,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,26,12,14
+Coke,2,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,336,175,161
+Coke,2,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,26,14,12
 Coke,2,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,4,2,2
-Coke,2,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,338,161,177
+Coke,2,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,338,177,161
 Coke,2,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,28,14,14
-Coke,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,340,161,179
-Coke,2,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,12,9,3
-Coke,2,State Representative,No. 72,REP,Drew Darby,346,157,189
-Coke,2,"Justice, 3rd Court of Appeals District, Place No. 2",,REP,Cindy Olson Bourland,337,160,177
-Coke,2,"Justice, 3rd Court of Appeals District, Place No. 2",,DEM,Edward Smith,29,14,15
-Coke,2,"Justice, 3rd Court of Appeals District, Place No. 3",,REP,Scott Field,337,160,177
-Coke,2,"Justice, 3rd Court of Appeals District, Place No. 3",,DEM,Chari Kelly,31,16,15
-Coke,2,"Justice, 3rd Court of Appeals District, Place No. 5",,REP,David Puryear,336,159,177
-Coke,2,"Justice, 3rd Court of Appeals District, Place No. 5",,DEM,Thomas J. Baker,29,15,14
-Coke,2,"Justice, 3rd Court of Appeals District, Place No. 6",,REP,"Michael ""Mike"" Toth",336,159,177
-Coke,2,"Justice, 3rd Court of Appeals District, Place No. 6",,DEM,Gisela D. Triana,27,14,13
-Coke,2,County Judge,,REP,Hal Spain,351,167,184
-Coke,2,District and County Clerk,,REP,Monica Reyes,350,164,186
-Coke,2,County Treasurer,,REP,Therese Emert,347,164,183
-Coke,2,"County Commissioner, Precinct No. 2",,REP,Paul Williams,331,160,171
-Coke,2,Justice of the Peace,,REP,Russell Johnson,358,166,192
+Coke,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,340,179,161
+Coke,2,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,12,3,9
+Coke,2,State Representative,No. 72,REP,Drew Darby,346,189,157
+Coke,2,"Justice, 3rd Court of Appeals District, Place No. 2",,REP,Cindy Olson Bourland,337,177,160
+Coke,2,"Justice, 3rd Court of Appeals District, Place No. 2",,DEM,Edward Smith,29,15,14
+Coke,2,"Justice, 3rd Court of Appeals District, Place No. 3",,REP,Scott Field,337,177,160
+Coke,2,"Justice, 3rd Court of Appeals District, Place No. 3",,DEM,Chari Kelly,31,15,16
+Coke,2,"Justice, 3rd Court of Appeals District, Place No. 5",,REP,David Puryear,336,177,159
+Coke,2,"Justice, 3rd Court of Appeals District, Place No. 5",,DEM,Thomas J. Baker,29,14,15
+Coke,2,"Justice, 3rd Court of Appeals District, Place No. 6",,REP,"Michael ""Mike"" Toth",336,177,159
+Coke,2,"Justice, 3rd Court of Appeals District, Place No. 6",,DEM,Gisela D. Triana,27,13,14
+Coke,2,County Judge,,REP,Hal Spain,351,184,167
+Coke,2,District and County Clerk,,REP,Monica Reyes,350,186,164
+Coke,2,County Treasurer,,REP,Therese Emert,347,183,164
+Coke,2,"County Commissioner, Precinct No. 2",,REP,Paul Williams,331,171,160
+Coke,2,Justice of the Peace,,REP,Russell Johnson,358,192,166
 Coke,3,Straight Party,,REP,Over Votes,0,0,0
-Coke,3,Straight Party,,REP,Under Votes,111,71,40
+Coke,3,Straight Party,,REP,Under Votes,111,40,71
 Coke,3,Registered Voters,,REP,,578,,
-Coke,3,Ballots Cast,,,,375,276,99
-Coke,3,Straight Party,,REP,Republican Party,202,145,57
-Coke,3,Straight Party,,DEM,Democratic Party,14,12,2
+Coke,3,Ballots Cast,,,,375,99,276
+Coke,3,Straight Party,,REP,Republican Party,202,57,145
+Coke,3,Straight Party,,DEM,Democratic Party,14,2,12
 Coke,3,Straight Party,,LIB,Libertarian Party,0,0,0
-Coke,3,U.S. Senate,,REP,Ted Cruz,293,206,87
-Coke,3,U.S. Senate,,DEM,Beto O'Rourke,42,31,11
-Coke,3,U.S. Senate,,LIB,Neal M. Dikeman,1,0,1
-Coke,3,U.S. House,11,REP,Mike Conaway,301,211,90
-Coke,3,U.S. House,11,DEM,Jennie Lou Leeder,31,23,8
+Coke,3,U.S. Senate,,REP,Ted Cruz,293,87,206
+Coke,3,U.S. Senate,,DEM,Beto O'Rourke,42,11,31
+Coke,3,U.S. Senate,,LIB,Neal M. Dikeman,1,1,0
+Coke,3,U.S. House,11,REP,Mike Conaway,301,90,211
+Coke,3,U.S. House,11,DEM,Jennie Lou Leeder,31,8,23
 Coke,3,U.S. House,11,LIB,Rhett Rosenquest Smith,0,0,0
-Coke,3,Governor,,REP,Greg Abbott,301,214,87
-Coke,3,Governor,,DEM,Lupe Valdez,34,25,9
-Coke,3,Governor,,LIB,Mark Jay Tippetts,1,0,1
-Coke,3,Lieutenant Governor,,REP,Dan Patrick,272,191,81
-Coke,3,Lieutenant Governor,,DEM,Mike Collier,50,35,15
-Coke,3,Lieutenant Governor,,LIB,Kerry Douglas McKennon,6,5,1
-Coke,3,Attorney General,,REP,Ken Paxton,283,198,85
-Coke,3,Attorney General,,DEM,Justin Nelson,43,33,10
-Coke,3,Attorney General,,LIB,Michael Ray Harris,5,2,3
-Coke,3,Comptroller of Public Accounts,,REP,Glenn Hegar,287,204,83
-Coke,3,Comptroller of Public Accounts,,DEM,Joi Chevalier,36,25,11
+Coke,3,Governor,,REP,Greg Abbott,301,87,214
+Coke,3,Governor,,DEM,Lupe Valdez,34,9,25
+Coke,3,Governor,,LIB,Mark Jay Tippetts,1,1,0
+Coke,3,Lieutenant Governor,,REP,Dan Patrick,272,81,191
+Coke,3,Lieutenant Governor,,DEM,Mike Collier,50,15,35
+Coke,3,Lieutenant Governor,,LIB,Kerry Douglas McKennon,6,1,5
+Coke,3,Attorney General,,REP,Ken Paxton,283,85,198
+Coke,3,Attorney General,,DEM,Justin Nelson,43,10,33
+Coke,3,Attorney General,,LIB,Michael Ray Harris,5,3,2
+Coke,3,Comptroller of Public Accounts,,REP,Glenn Hegar,287,83,204
+Coke,3,Comptroller of Public Accounts,,DEM,Joi Chevalier,36,11,25
 Coke,3,Comptroller of Public Accounts,,LIB,Ben Sanders,6,3,3
-Coke,3,Commissioner of the General Land Office,,REP,George P. Bush,280,194,86
-Coke,3,Commissioner of the General Land Office,,DEM,Miguel Suazo,40,29,11
-Coke,3,Commissioner of the General Land Office,,LIB,Matt Piña,10,9,1
-Coke,3,Commissioner of Agriculture,,REP,Sid Miller,285,200,85
-Coke,3,Commissioner of Agriculture,,DEM,Kim Olson,40,29,11
-Coke,3,Commissioner of Agriculture,,LIB,Richard Carpenter,3,2,1
-Coke,3,Railroad Commissioner,,REP,Christi Craddick,282,201,81
-Coke,3,Railroad Commissioner,,DEM,Roman McAllen,38,28,10
-Coke,3,Railroad Commissioner,,LIB,Mike Wright,9,4,5
-Coke,3,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,287,201,86
-Coke,3,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,39,30,9
-Coke,3,"Justice, Supreme Court, Place 4",,REP,John Devine,289,203,86
-Coke,3,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,39,30,9
-Coke,3,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,291,205,86
-Coke,3,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,37,28,9
-Coke,3,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,287,204,83
-Coke,3,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,33,25,8
-Coke,3,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,7,3,4
-Coke,3,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,287,203,84
-Coke,3,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,38,27,11
-Coke,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,286,200,86
-Coke,3,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,18,14,4
-Coke,3,State Representative,No. 72,REP,Drew Darby,306,216,90
-Coke,3,"Justice, 3rd Court of Appeals District, Place No. 2",,REP,Cindy Olson Bourland,288,204,84
-Coke,3,"Justice, 3rd Court of Appeals District, Place No. 2",,DEM,Edward Smith,37,27,10
-Coke,3,"Justice, 3rd Court of Appeals District, Place No. 3",,REP,Scott Field,286,201,85
-Coke,3,"Justice, 3rd Court of Appeals District, Place No. 3",,DEM,Chari Kelly,57,48,9
-Coke,3,"Justice, 3rd Court of Appeals District, Place No. 5",,REP,David Puryear,283,201,82
-Coke,3,"Justice, 3rd Court of Appeals District, Place No. 5",,DEM,Thomas J. Baker,42,30,12
-Coke,3,"Justice, 3rd Court of Appeals District, Place No. 6",,REP,"Michael ""Mike"" Toth",289,202,87
-Coke,3,"Justice, 3rd Court of Appeals District, Place No. 6",,DEM,Gisela D. Triana,36,28,8
-Coke,3,County Judge,,REP,Hal Spain,310,218,92
-Coke,3,District and County Clerk,,REP,Monica Reyes,306,216,90
-Coke,3,County Treasurer,,REP,Therese Emert,301,212,89
-Coke,3,Justice of the Peace,,REP,Russell Johnson,300,209,91
+Coke,3,Commissioner of the General Land Office,,REP,George P. Bush,280,86,194
+Coke,3,Commissioner of the General Land Office,,DEM,Miguel Suazo,40,11,29
+Coke,3,Commissioner of the General Land Office,,LIB,Matt Piña,10,1,9
+Coke,3,Commissioner of Agriculture,,REP,Sid Miller,285,85,200
+Coke,3,Commissioner of Agriculture,,DEM,Kim Olson,40,11,29
+Coke,3,Commissioner of Agriculture,,LIB,Richard Carpenter,3,1,2
+Coke,3,Railroad Commissioner,,REP,Christi Craddick,282,81,201
+Coke,3,Railroad Commissioner,,DEM,Roman McAllen,38,10,28
+Coke,3,Railroad Commissioner,,LIB,Mike Wright,9,5,4
+Coke,3,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,287,86,201
+Coke,3,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,39,9,30
+Coke,3,"Justice, Supreme Court, Place 4",,REP,John Devine,289,86,203
+Coke,3,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,39,9,30
+Coke,3,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,291,86,205
+Coke,3,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,37,9,28
+Coke,3,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,287,83,204
+Coke,3,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,33,8,25
+Coke,3,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,7,4,3
+Coke,3,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,287,84,203
+Coke,3,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,38,11,27
+Coke,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,286,86,200
+Coke,3,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,18,4,14
+Coke,3,State Representative,No. 72,REP,Drew Darby,306,90,216
+Coke,3,"Justice, 3rd Court of Appeals District, Place No. 2",,REP,Cindy Olson Bourland,288,84,204
+Coke,3,"Justice, 3rd Court of Appeals District, Place No. 2",,DEM,Edward Smith,37,10,27
+Coke,3,"Justice, 3rd Court of Appeals District, Place No. 3",,REP,Scott Field,286,85,201
+Coke,3,"Justice, 3rd Court of Appeals District, Place No. 3",,DEM,Chari Kelly,57,9,48
+Coke,3,"Justice, 3rd Court of Appeals District, Place No. 5",,REP,David Puryear,283,82,201
+Coke,3,"Justice, 3rd Court of Appeals District, Place No. 5",,DEM,Thomas J. Baker,42,12,30
+Coke,3,"Justice, 3rd Court of Appeals District, Place No. 6",,REP,"Michael ""Mike"" Toth",289,87,202
+Coke,3,"Justice, 3rd Court of Appeals District, Place No. 6",,DEM,Gisela D. Triana,36,8,28
+Coke,3,County Judge,,REP,Hal Spain,310,92,218
+Coke,3,District and County Clerk,,REP,Monica Reyes,306,90,216
+Coke,3,County Treasurer,,REP,Therese Emert,301,89,212
+Coke,3,Justice of the Peace,,REP,Russell Johnson,300,91,209
 Coke,4,Straight Party,,REP,Over Votes,0,0,0
-Coke,4,Straight Party,,REP,Under Votes,109,34,75
+Coke,4,Straight Party,,REP,Under Votes,109,75,34
 Coke,4,Registered Voters,,REP,,523,,
-Coke,4,Ballots Cast,,,,262,110,152
-Coke,4,Straight Party,,REP,Republican Party,119,47,72
-Coke,4,Straight Party,,DEM,Democratic Party,15,10,5
+Coke,4,Ballots Cast,,,,262,152,110
+Coke,4,Straight Party,,REP,Republican Party,119,72,47
+Coke,4,Straight Party,,DEM,Democratic Party,15,5,10
 Coke,4,Straight Party,,LIB,Libertarian Party,0,0,0
-Coke,4,U.S. Senate,,REP,Ted Cruz,217,83,134
-Coke,4,U.S. Senate,,DEM,Beto O'Rourke,38,23,15
+Coke,4,U.S. Senate,,REP,Ted Cruz,217,134,83
+Coke,4,U.S. Senate,,DEM,Beto O'Rourke,38,15,23
 Coke,4,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0
-Coke,4,U.S. House,11,REP,Mike Conaway,226,88,138
-Coke,4,U.S. House,11,DEM,Jennie Lou Leeder,30,19,11
-Coke,4,U.S. House,11,LIB,Rhett Rosenquest Smith,3,1,2
-Coke,4,Governor,,REP,Greg Abbott,225,87,138
-Coke,4,Governor,,DEM,Lupe Valdez,31,21,10
-Coke,4,Governor,,LIB,Mark Jay Tippetts,1,0,1
-Coke,4,Lieutenant Governor,,REP,Dan Patrick,193,77,116
-Coke,4,Lieutenant Governor,,DEM,Mike Collier,58,30,28
-Coke,4,Lieutenant Governor,,LIB,Kerry Douglas McKennon,4,1,3
-Coke,4,Attorney General,,REP,Ken Paxton,206,80,126
-Coke,4,Attorney General,,DEM,Justin Nelson,46,27,19
-Coke,4,Attorney General,,LIB,Michael Ray Harris,4,1,3
-Coke,4,Comptroller of Public Accounts,,REP,Glenn Hegar,217,90,127
-Coke,4,Comptroller of Public Accounts,,DEM,Joi Chevalier,31,19,12
-Coke,4,Comptroller of Public Accounts,,LIB,Ben Sanders,6,0,6
-Coke,4,Commissioner of the General Land Office,,REP,George P. Bush,210,82,128
-Coke,4,Commissioner of the General Land Office,,DEM,Miguel Suazo,37,25,12
-Coke,4,Commissioner of the General Land Office,,LIB,Matt Piña,11,2,9
-Coke,4,Commissioner of Agriculture,,REP,Sid Miller,217,87,130
-Coke,4,Commissioner of Agriculture,,DEM,Kim Olson,38,22,16
-Coke,4,Commissioner of Agriculture,,LIB,Richard Carpenter,3,0,3
-Coke,4,Railroad Commissioner,,REP,Christi Craddick,215,87,128
-Coke,4,Railroad Commissioner,,DEM,Roman McAllen,35,21,14
-Coke,4,Railroad Commissioner,,LIB,Mike Wright,7,0,7
-Coke,4,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,220,86,134
-Coke,4,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,36,22,14
-Coke,4,"Justice, Supreme Court, Place 4",,REP,John Devine,221,87,134
-Coke,4,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,33,21,12
-Coke,4,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,219,86,133
-Coke,4,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,35,22,13
-Coke,4,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,212,85,127
-Coke,4,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,34,22,12
-Coke,4,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,6,1,5
-Coke,4,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,221,87,134
-Coke,4,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,33,21,12
-Coke,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,222,93,129
-Coke,4,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,11,3,8
-Coke,4,State Representative,No. 72,REP,Drew Darby,230,91,139
-Coke,4,"Justice, 3rd Court of Appeals District, Place No. 2",,REP,Cindy Olson Bourland,220,85,135
-Coke,4,"Justice, 3rd Court of Appeals District, Place No. 2",,DEM,Edward Smith,34,23,11
-Coke,4,"Justice, 3rd Court of Appeals District, Place No. 3",,REP,Scott Field,220,87,133
-Coke,4,"Justice, 3rd Court of Appeals District, Place No. 3",,DEM,Chari Kelly,34,21,13
-Coke,4,"Justice, 3rd Court of Appeals District, Place No. 5",,REP,David Puryear,216,84,132
-Coke,4,"Justice, 3rd Court of Appeals District, Place No. 5",,DEM,Thomas J. Baker,37,24,13
-Coke,4,"Justice, 3rd Court of Appeals District, Place No. 6",,REP,"Michael ""Mike"" Toth",219,86,133
-Coke,4,"Justice, 3rd Court of Appeals District, Place No. 6",,DEM,Gisela D. Triana,32,21,11
-Coke,4,County Judge,,REP,Hal Spain,227,91,136
-Coke,4,District and County Clerk,,REP,Monica Reyes,231,92,139
-Coke,4,County Treasurer,,REP,Therese Emert,233,93,140
-Coke,4,"County Commissioner, Precinct No. 4",,REP,Joe Sefcik,224,88,136
-Coke,4,Justice of the Peace,,REP,Russell Johnson,237,97,140
-Coke,3,TRUSTEE,,||N,ANGELA BLOSS,3,3,0
-Coke,3,TRUSTEE,,||N,CARL MCCOY,1,1,0
-Coke,3,TRUSTEE,,||N,WES SUTTON,3,3,0
-Coke,3,TRUSTEE,,||N,JANNA SEARS NAYLOR,11,9,2
-Coke,3,TRUSTEE,,||N,JUSTIN HERMAN,9,8,1
-Coke,3,TRUSTEE,,||N,COLBY LACY,12,10,2
+Coke,4,U.S. House,11,REP,Mike Conaway,226,138,88
+Coke,4,U.S. House,11,DEM,Jennie Lou Leeder,30,11,19
+Coke,4,U.S. House,11,LIB,Rhett Rosenquest Smith,3,2,1
+Coke,4,Governor,,REP,Greg Abbott,225,138,87
+Coke,4,Governor,,DEM,Lupe Valdez,31,10,21
+Coke,4,Governor,,LIB,Mark Jay Tippetts,1,1,0
+Coke,4,Lieutenant Governor,,REP,Dan Patrick,193,116,77
+Coke,4,Lieutenant Governor,,DEM,Mike Collier,58,28,30
+Coke,4,Lieutenant Governor,,LIB,Kerry Douglas McKennon,4,3,1
+Coke,4,Attorney General,,REP,Ken Paxton,206,126,80
+Coke,4,Attorney General,,DEM,Justin Nelson,46,19,27
+Coke,4,Attorney General,,LIB,Michael Ray Harris,4,3,1
+Coke,4,Comptroller of Public Accounts,,REP,Glenn Hegar,217,127,90
+Coke,4,Comptroller of Public Accounts,,DEM,Joi Chevalier,31,12,19
+Coke,4,Comptroller of Public Accounts,,LIB,Ben Sanders,6,6,0
+Coke,4,Commissioner of the General Land Office,,REP,George P. Bush,210,128,82
+Coke,4,Commissioner of the General Land Office,,DEM,Miguel Suazo,37,12,25
+Coke,4,Commissioner of the General Land Office,,LIB,Matt Piña,11,9,2
+Coke,4,Commissioner of Agriculture,,REP,Sid Miller,217,130,87
+Coke,4,Commissioner of Agriculture,,DEM,Kim Olson,38,16,22
+Coke,4,Commissioner of Agriculture,,LIB,Richard Carpenter,3,3,0
+Coke,4,Railroad Commissioner,,REP,Christi Craddick,215,128,87
+Coke,4,Railroad Commissioner,,DEM,Roman McAllen,35,14,21
+Coke,4,Railroad Commissioner,,LIB,Mike Wright,7,7,0
+Coke,4,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,220,134,86
+Coke,4,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,36,14,22
+Coke,4,"Justice, Supreme Court, Place 4",,REP,John Devine,221,134,87
+Coke,4,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,33,12,21
+Coke,4,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,219,133,86
+Coke,4,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,35,13,22
+Coke,4,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,212,127,85
+Coke,4,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,34,12,22
+Coke,4,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,6,5,1
+Coke,4,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,221,134,87
+Coke,4,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,33,12,21
+Coke,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,222,129,93
+Coke,4,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,11,8,3
+Coke,4,State Representative,No. 72,REP,Drew Darby,230,139,91
+Coke,4,"Justice, 3rd Court of Appeals District, Place No. 2",,REP,Cindy Olson Bourland,220,135,85
+Coke,4,"Justice, 3rd Court of Appeals District, Place No. 2",,DEM,Edward Smith,34,11,23
+Coke,4,"Justice, 3rd Court of Appeals District, Place No. 3",,REP,Scott Field,220,133,87
+Coke,4,"Justice, 3rd Court of Appeals District, Place No. 3",,DEM,Chari Kelly,34,13,21
+Coke,4,"Justice, 3rd Court of Appeals District, Place No. 5",,REP,David Puryear,216,132,84
+Coke,4,"Justice, 3rd Court of Appeals District, Place No. 5",,DEM,Thomas J. Baker,37,13,24
+Coke,4,"Justice, 3rd Court of Appeals District, Place No. 6",,REP,"Michael ""Mike"" Toth",219,133,86
+Coke,4,"Justice, 3rd Court of Appeals District, Place No. 6",,DEM,Gisela D. Triana,32,11,21
+Coke,4,County Judge,,REP,Hal Spain,227,136,91
+Coke,4,District and County Clerk,,REP,Monica Reyes,231,139,92
+Coke,4,County Treasurer,,REP,Therese Emert,233,140,93
+Coke,4,"County Commissioner, Precinct No. 4",,REP,Joe Sefcik,224,136,88
+Coke,4,Justice of the Peace,,REP,Russell Johnson,237,140,97
+Coke,3,TRUSTEE,,||N,ANGELA BLOSS,3,0,3
+Coke,3,TRUSTEE,,||N,CARL MCCOY,1,0,1
+Coke,3,TRUSTEE,,||N,WES SUTTON,3,0,3
+Coke,3,TRUSTEE,,||N,JANNA SEARS NAYLOR,11,2,9
+Coke,3,TRUSTEE,,||N,JUSTIN HERMAN,9,1,8
+Coke,3,TRUSTEE,,||N,COLBY LACY,12,2,10

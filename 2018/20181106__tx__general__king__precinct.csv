@@ -1,125 +1,125 @@
-county,precinct,office,district,party,candidate,early_voting,election_day,votes
-King,1,Straight Party,,REP,Republican,6,9,15
-King,2,Straight Party,,REP,Republican,10,2,12
-King,3,Straight Party,,REP,Republican,14,6,20
-King,4,Straight Party,,REP,Republican,7,7,14
+county,precinct,office,district,party,candidate,votes,election_day,early_voting
+King,1,Straight Party,,REP,Republican,15,9,6
+King,2,Straight Party,,REP,Republican,12,2,10
+King,3,Straight Party,,REP,Republican,20,6,14
+King,4,Straight Party,,REP,Republican,14,7,7
 King,1,Straight Party,,DEM,Democratic,0,0,0
 King,2,Straight Party,,DEM,Democratic,0,0,0
-King,3,Straight Party,,DEM,Democratic,0,1,1
+King,3,Straight Party,,DEM,Democratic,1,1,0
 King,4,Straight Party,,DEM,Democratic,0,0,0
 King,1,Straight Party,,LIB,Libertarian,0,0,0
 King,2,Straight Party,,LIB,Libertarian,0,0,0
 King,3,Straight Party,,LIB,Libertarian,0,0,0
 King,4,Straight Party,,LIB,Libertarian,0,0,0
-King,1,U.S. Senate,,REP,Ted Cruz,19,13,32
-King,2,U.S. Senate,,REP,Ted Cruz,17,3,20
-King,3,U.S. Senate,,REP,Ted Cruz,25,10,35
-King,4,U.S. Senate,,REP,Ted Cruz,24,13,37
-King,1,U.S. Senate,,DEM,Beto O'Rourke,0,2,2
+King,1,U.S. Senate,,REP,Ted Cruz,32,13,19
+King,2,U.S. Senate,,REP,Ted Cruz,20,3,17
+King,3,U.S. Senate,,REP,Ted Cruz,35,10,25
+King,4,U.S. Senate,,REP,Ted Cruz,37,13,24
+King,1,U.S. Senate,,DEM,Beto O'Rourke,2,2,0
 King,2,U.S. Senate,,DEM,Beto O'Rourke,0,0,0
-King,3,U.S. Senate,,DEM,Beto O'Rourke,0,1,1
-King,4,U.S. Senate,,DEM,Beto O'Rourke,2,1,3
+King,3,U.S. Senate,,DEM,Beto O'Rourke,1,1,0
+King,4,U.S. Senate,,DEM,Beto O'Rourke,3,1,2
 King,1,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0
 King,2,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0
 King,3,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0
-King,4,U.S. Senate,,LIB,Neal M. Dikeman,0,1,1
-King,1,U.S. House,13,REP,Mac Thornberry,18,14,32
-King,2,U.S. House,13,REP,Mac Thornberry,17,3,20
-King,3,U.S. House,13,REP,Mac Thornberry,24,9,33
-King,4,U.S. House,13,REP,Mac Thornberry,26,13,39
-King,1,U.S. House,13,DEM,Greg Sagan,0,1,1
+King,4,U.S. Senate,,LIB,Neal M. Dikeman,1,1,0
+King,1,U.S. House,13,REP,Mac Thornberry,32,14,18
+King,2,U.S. House,13,REP,Mac Thornberry,20,3,17
+King,3,U.S. House,13,REP,Mac Thornberry,33,9,24
+King,4,U.S. House,13,REP,Mac Thornberry,39,13,26
+King,1,U.S. House,13,DEM,Greg Sagan,1,1,0
 King,2,U.S. House,13,DEM,Greg Sagan,0,0,0
-King,3,U.S. House,13,DEM,Greg Sagan,0,1,1
-King,4,U.S. House,13,DEM,Greg Sagan,0,1,1
+King,3,U.S. House,13,DEM,Greg Sagan,1,1,0
+King,4,U.S. House,13,DEM,Greg Sagan,1,1,0
 King,1,U.S. House,13,LIB,Calvin DeWeese,1,0,1
 King,2,U.S. House,13,LIB,Calvin DeWeese,0,0,0
 King,3,U.S. House,13,LIB,Calvin DeWeese,1,0,1
 King,4,U.S. House,13,LIB,Calvin DeWeese,0,0,0
-King,1,Governor,,REP,Greg Abbott,19,13,32
-King,2,Governor,,REP,Greg Abbott,17,3,20
-King,3,Governor,,REP,Greg Abbott,25,9,34
-King,4,Governor,,REP,Greg Abbott,21,13,34
-King,1,Governor,,DEM,Lupe Valdez,0,2,2
+King,1,Governor,,REP,Greg Abbott,32,13,19
+King,2,Governor,,REP,Greg Abbott,20,3,17
+King,3,Governor,,REP,Greg Abbott,34,9,25
+King,4,Governor,,REP,Greg Abbott,34,13,21
+King,1,Governor,,DEM,Lupe Valdez,2,2,0
 King,2,Governor,,DEM,Lupe Valdez,0,0,0
-King,3,Governor,,DEM,Lupe Valdez,0,1,1
-King,4,Governor,,DEM,Lupe Valdez,1,2,3
+King,3,Governor,,DEM,Lupe Valdez,1,1,0
+King,4,Governor,,DEM,Lupe Valdez,3,2,1
 King,1,Governor,,LIB,Mark Jay Tippetts,0,0,0
 King,2,Governor,,LIB,Mark Jay Tippetts,0,0,0
 King,3,Governor,,LIB,Mark Jay Tippetts,0,0,0
 King,4,Governor,,LIB,Mark Jay Tippetts,1,0,1
-King,1,Lieutenant Governor,,REP,Dan Patrick,9,13,22
-King,2,Lieutenant Governor,,REP,Dan Patrick,15,3,18
-King,3,Lieutenant Governor,,REP,Dan Patrick,22,6,28
-King,4,Lieutenant Governor,,REP,Dan Patrick,16,9,25
-King,1,Lieutenant Governor,,DEM,Mike Collier,6,2,8
+King,1,Lieutenant Governor,,REP,Dan Patrick,22,13,9
+King,2,Lieutenant Governor,,REP,Dan Patrick,18,3,15
+King,3,Lieutenant Governor,,REP,Dan Patrick,28,6,22
+King,4,Lieutenant Governor,,REP,Dan Patrick,25,9,16
+King,1,Lieutenant Governor,,DEM,Mike Collier,8,2,6
 King,2,Lieutenant Governor,,DEM,Mike Collier,1,0,1
-King,3,Lieutenant Governor,,DEM,Mike Collier,1,2,3
-King,4,Lieutenant Governor,,DEM,Mike Collier,9,5,14
+King,3,Lieutenant Governor,,DEM,Mike Collier,3,2,1
+King,4,Lieutenant Governor,,DEM,Mike Collier,14,5,9
 King,1,Lieutenant Governor,,LIB,Kerry Douglas McKennon,2,0,2
 King,2,Lieutenant Governor,,LIB,Kerry Douglas McKennon,0,0,0
 King,3,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,0,1
 King,4,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,0,1
-King,1,Attorney General,,REP,Ken Paxton,17,14,31
-King,2,Attorney General,,REP,Ken Paxton,17,3,20
-King,3,Attorney General,,REP,Ken Paxton,24,8,32
-King,4,Attorney General,,REP,Ken Paxton,18,10,28
-King,1,Attorney General,,DEM,Justin Nelson,1,1,2
+King,1,Attorney General,,REP,Ken Paxton,31,14,17
+King,2,Attorney General,,REP,Ken Paxton,20,3,17
+King,3,Attorney General,,REP,Ken Paxton,32,8,24
+King,4,Attorney General,,REP,Ken Paxton,28,10,18
+King,1,Attorney General,,DEM,Justin Nelson,2,1,1
 King,2,Attorney General,,DEM,Justin Nelson,0,0,0
-King,3,Attorney General,,DEM,Justin Nelson,0,1,1
-King,4,Attorney General,,DEM,Justin Nelson,7,3,10
+King,3,Attorney General,,DEM,Justin Nelson,1,1,0
+King,4,Attorney General,,DEM,Justin Nelson,10,3,7
 King,1,Attorney General,,LIB,Michael Ray Harris,0,0,0
 King,2,Attorney General,,LIB,Michael Ray Harris,0,0,0
 King,3,Attorney General,,LIB,Michael Ray Harris,0,0,0
 King,4,Attorney General,,LIB,Michael Ray Harris,0,0,0
-King,1,Comptroller of Public Accounts,,REP,Glenn Hegar,16,14,30
-King,2,Comptroller of Public Accounts,,REP,Glenn Hegar,17,3,20
-King,3,Comptroller of Public Accounts,,REP,Glenn Hegar,24,8,32
-King,4,Comptroller of Public Accounts,,REP,Glenn Hegar,21,12,33
-King,1,Comptroller of Public Accounts,,DEM,Joi Chevalier,0,1,1
+King,1,Comptroller of Public Accounts,,REP,Glenn Hegar,30,14,16
+King,2,Comptroller of Public Accounts,,REP,Glenn Hegar,20,3,17
+King,3,Comptroller of Public Accounts,,REP,Glenn Hegar,32,8,24
+King,4,Comptroller of Public Accounts,,REP,Glenn Hegar,33,12,21
+King,1,Comptroller of Public Accounts,,DEM,Joi Chevalier,1,1,0
 King,2,Comptroller of Public Accounts,,DEM,Joi Chevalier,0,0,0
-King,3,Comptroller of Public Accounts,,DEM,Joi Chevalier,0,1,1
-King,4,Comptroller of Public Accounts,,DEM,Joi Chevalier,0,1,1
+King,3,Comptroller of Public Accounts,,DEM,Joi Chevalier,1,1,0
+King,4,Comptroller of Public Accounts,,DEM,Joi Chevalier,1,1,0
 King,1,Comptroller of Public Accounts,,LIB,Ben Sanders,0,0,0
 King,2,Comptroller of Public Accounts,,LIB,Ben Sanders,0,0,0
 King,3,Comptroller of Public Accounts,,LIB,Ben Sanders,1,0,1
 King,4,Comptroller of Public Accounts,,LIB,Ben Sanders,1,0,1
-King,1,Commissioner of the General Land Office,,REP,George P. Bush,18,13,31
-King,2,Commissioner of the General Land Office,,REP,George P. Bush,17,3,20
-King,3,Commissioner of the General Land Office,,REP,George P. Bush,23,9,32
-King,4,Commissioner of the General Land Office,,REP,George P. Bush,21,11,32
-King,1,Commissioner of the General Land Office,,DEM,Miguel Suazo,0,1,1
+King,1,Commissioner of the General Land Office,,REP,George P. Bush,31,13,18
+King,2,Commissioner of the General Land Office,,REP,George P. Bush,20,3,17
+King,3,Commissioner of the General Land Office,,REP,George P. Bush,32,9,23
+King,4,Commissioner of the General Land Office,,REP,George P. Bush,32,11,21
+King,1,Commissioner of the General Land Office,,DEM,Miguel Suazo,1,1,0
 King,2,Commissioner of the General Land Office,,DEM,Miguel Suazo,0,0,0
-King,3,Commissioner of the General Land Office,,DEM,Miguel Suazo,0,1,1
-King,4,Commissioner of the General Land Office,,DEM,Miguel Suazo,4,2,6
-King,1,Commissioner of the General Land Office,,LIB,Matt Pina,0,1,1
+King,3,Commissioner of the General Land Office,,DEM,Miguel Suazo,1,1,0
+King,4,Commissioner of the General Land Office,,DEM,Miguel Suazo,6,2,4
+King,1,Commissioner of the General Land Office,,LIB,Matt Pina,1,1,0
 King,2,Commissioner of the General Land Office,,LIB,Matt Pina,0,0,0
 King,3,Commissioner of the General Land Office,,LIB,Matt Pina,1,0,1
 King,4,Commissioner of the General Land Office,,LIB,Matt Pina,1,0,1
-King,1,Commissioner of Agriculture,,REP,Sid Miller,19,14,33
-King,2,Commissioner of Agriculture,,REP,Sid Miller,17,3,20
-King,3,Commissioner of Agriculture,,REP,Sid Miller,24,8,32
-King,4,Commissioner of Agriculture,,REP,Sid Miller,23,12,35
-King,1,Commissioner of Agriculture,,DEM,Kim Olson,0,1,1
+King,1,Commissioner of Agriculture,,REP,Sid Miller,33,14,19
+King,2,Commissioner of Agriculture,,REP,Sid Miller,20,3,17
+King,3,Commissioner of Agriculture,,REP,Sid Miller,32,8,24
+King,4,Commissioner of Agriculture,,REP,Sid Miller,35,12,23
+King,1,Commissioner of Agriculture,,DEM,Kim Olson,1,1,0
 King,2,Commissioner of Agriculture,,DEM,Kim Olson,0,0,0
-King,3,Commissioner of Agriculture,,DEM,Kim Olson,0,1,1
-King,4,Commissioner of Agriculture,,DEM,Kim Olson,2,1,3
+King,3,Commissioner of Agriculture,,DEM,Kim Olson,1,1,0
+King,4,Commissioner of Agriculture,,DEM,Kim Olson,3,1,2
 King,1,Commissioner of Agriculture,,LIB,Richard Carpenter,0,0,0
 King,2,Commissioner of Agriculture,,LIB,Richard Carpenter,0,0,0
 King,3,Commissioner of Agriculture,,LIB,Richard Carpenter,1,0,1
 King,4,Commissioner of Agriculture,,LIB,Richard Carpenter,0,0,0
-King,1,Railroad Commissioner,,REP,Christi Craddick,16,14,30
-King,2,Railroad Commissioner,,REP,Christi Craddick,17,3,20
-King,3,Railroad Commissioner,,REP,Christi Craddick,24,9,33
-King,4,Railroad Commissioner,,REP,Christi Craddick,22,12,34
-King,1,Railroad Commissioner,,DEM,Roman McAllen,1,1,2
+King,1,Railroad Commissioner,,REP,Christi Craddick,30,14,16
+King,2,Railroad Commissioner,,REP,Christi Craddick,20,3,17
+King,3,Railroad Commissioner,,REP,Christi Craddick,33,9,24
+King,4,Railroad Commissioner,,REP,Christi Craddick,34,12,22
+King,1,Railroad Commissioner,,DEM,Roman McAllen,2,1,1
 King,2,Railroad Commissioner,,DEM,Roman McAllen,0,0,0
-King,3,Railroad Commissioner,,DEM,Roman McAllen,0,1,1
-King,4,Railroad Commissioner,,DEM,Roman McAllen,2,1,3
+King,3,Railroad Commissioner,,DEM,Roman McAllen,1,1,0
+King,4,Railroad Commissioner,,DEM,Roman McAllen,3,1,2
 King,1,Railroad Commissioner,,LIB,Mike Wright,0,0,0
 King,2,Railroad Commissioner,,LIB,Mike Wright,0,0,0
 King,3,Railroad Commissioner,,LIB,Mike Wright,1,0,1
 King,4,Railroad Commissioner,,LIB,Mike Wright,0,0,0
-King,1,State Representative,68,REP,Drew Springer,18,15,33
-King,2,State Representative,68,REP,Drew Springer,16,3,19
-King,3,State Representative,68,REP,Drew Springer,24,8,32
-King,4,State Representative,68,REP,Drew Springer,25,12,37
+King,1,State Representative,68,REP,Drew Springer,33,15,18
+King,2,State Representative,68,REP,Drew Springer,19,3,16
+King,3,State Representative,68,REP,Drew Springer,32,8,24
+King,4,State Representative,68,REP,Drew Springer,37,12,25

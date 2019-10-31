@@ -1,532 +1,532 @@
-county,precinct,office,district,party,candidate,votes,early_voting,election_day
-Brown,101,Straight Party,,REP,,662,503,159
-Brown,101,Straight Party,,DEM,,92,50,42
+county,precinct,office,district,party,candidate,votes,election_day,early_voting
+Brown,101,Straight Party,,REP,,662,159,503
+Brown,101,Straight Party,,DEM,,92,42,50
 Brown,101,Straight Party,,LIB,,0,0,0
-Brown,101,U.S. Senate,,REP,Ted Cruz,1176,912,264
-Brown,101,U.S. Senate,,DEM,Beto O'Rourke,212,129,83
-Brown,101,U.S. Senate,,LIB,Neal M. Dikeman,3,1,2
-Brown,101,U.S. House,11,REP,Mike Conaway,1214,937,277
-Brown,101,U.S. House,11,DEM,Jennie Lou Leeder,175,108,67
-Brown,101,U.S. House,11,LIB,Rhett Rosenquest Smith,9,7,2
-Brown,101,Governor,,REP,Greg Abbott,1213,938,275
-Brown,101,Governor,,DEM,Lupe Valdez,179,112,67
-Brown,101,Governor,,LIB,Mark Jay Tippetts,12,5,7
-Brown,101,Lieutenant Governor,,REP,Dan Patrick,1140,888,252
-Brown,101,Lieutenant Governor,,DEM,Mike Collier,235,149,86
-Brown,101,Lieutenant Governor,,LIB,Kerry Douglas McKennon,22,13,9
-Brown,101,Attorney General,,REP,Ken Paxton,1158,903,255
-Brown,101,Attorney General,,DEM,Justin Nelson,212,131,81
-Brown,101,Attorney General,,LIB,Michael Ray Harris,23,15,8
-Brown,101,Comptroller of Public Accounts,,REP,Glenn Hegar,1189,926,263
-Brown,101,Comptroller of Public Accounts,,DEM,Joi Chevalier,174,105,69
+Brown,101,U.S. Senate,,REP,Ted Cruz,1176,264,912
+Brown,101,U.S. Senate,,DEM,Beto O'Rourke,212,83,129
+Brown,101,U.S. Senate,,LIB,Neal M. Dikeman,3,2,1
+Brown,101,U.S. House,11,REP,Mike Conaway,1214,277,937
+Brown,101,U.S. House,11,DEM,Jennie Lou Leeder,175,67,108
+Brown,101,U.S. House,11,LIB,Rhett Rosenquest Smith,9,2,7
+Brown,101,Governor,,REP,Greg Abbott,1213,275,938
+Brown,101,Governor,,DEM,Lupe Valdez,179,67,112
+Brown,101,Governor,,LIB,Mark Jay Tippetts,12,7,5
+Brown,101,Lieutenant Governor,,REP,Dan Patrick,1140,252,888
+Brown,101,Lieutenant Governor,,DEM,Mike Collier,235,86,149
+Brown,101,Lieutenant Governor,,LIB,Kerry Douglas McKennon,22,9,13
+Brown,101,Attorney General,,REP,Ken Paxton,1158,255,903
+Brown,101,Attorney General,,DEM,Justin Nelson,212,81,131
+Brown,101,Attorney General,,LIB,Michael Ray Harris,23,8,15
+Brown,101,Comptroller of Public Accounts,,REP,Glenn Hegar,1189,263,926
+Brown,101,Comptroller of Public Accounts,,DEM,Joi Chevalier,174,69,105
 Brown,101,Comptroller of Public Accounts,,LIB,Ben Sanders,24,12,12
-Brown,101,Commissioner of the General Land Office,,REP,George P. Bush,1180,914,266
-Brown,101,Commissioner of the General Land Office,,DEM,Miguel Suazo,176,106,70
-Brown,101,Commissioner of the General Land Office,,LIB,Matt Piña,38,29,9
-Brown,101,Commissioner of Agriculture,,REP,Sid Miller,1191,922,269
-Brown,101,Commissioner of Agriculture,,DEM,Kim Olson,184,113,71
-Brown,101,Commissioner of Agriculture,,LIB,Richard Carpenter,13,8,5
-Brown,101,Railroad Commissioner,,REP,Christi Craddick,1191,925,266
-Brown,101,Railroad Commissioner,,DEM,Roman McAllen,177,107,70
-Brown,101,Railroad Commissioner,,LIB,Mike Wright,23,14,9
-Brown,101,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,1188,919,269
-Brown,101,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,195,122,73
-Brown,101,"Justice, Supreme Court, Place 4",,REP,John Devine,1197,927,270
-Brown,101,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,187,115,72
-Brown,101,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,1193,921,272
-Brown,101,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,192,122,70
-Brown,101,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,1178,920,258
-Brown,101,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,192,119,73
-Brown,101,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,20,7,13
-Brown,101,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,1191,922,269
-Brown,101,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,191,117,74
-Brown,101,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,1213,937,276
-Brown,101,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,92,56,36
-Brown,101,State Representative,60,REP,Mike Lang,1258,961,297
-Brown,101,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,1241,945,296
-Brown,101,County Judge,,REP,Paul Lilly,814,617,197
-Brown,101,County Judge,,,Steve Fryar (W),491,378,113
+Brown,101,Commissioner of the General Land Office,,REP,George P. Bush,1180,266,914
+Brown,101,Commissioner of the General Land Office,,DEM,Miguel Suazo,176,70,106
+Brown,101,Commissioner of the General Land Office,,LIB,Matt Piña,38,9,29
+Brown,101,Commissioner of Agriculture,,REP,Sid Miller,1191,269,922
+Brown,101,Commissioner of Agriculture,,DEM,Kim Olson,184,71,113
+Brown,101,Commissioner of Agriculture,,LIB,Richard Carpenter,13,5,8
+Brown,101,Railroad Commissioner,,REP,Christi Craddick,1191,266,925
+Brown,101,Railroad Commissioner,,DEM,Roman McAllen,177,70,107
+Brown,101,Railroad Commissioner,,LIB,Mike Wright,23,9,14
+Brown,101,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,1188,269,919
+Brown,101,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,195,73,122
+Brown,101,"Justice, Supreme Court, Place 4",,REP,John Devine,1197,270,927
+Brown,101,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,187,72,115
+Brown,101,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,1193,272,921
+Brown,101,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,192,70,122
+Brown,101,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,1178,258,920
+Brown,101,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,192,73,119
+Brown,101,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,20,13,7
+Brown,101,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,1191,269,922
+Brown,101,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,191,74,117
+Brown,101,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,1213,276,937
+Brown,101,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,92,36,56
+Brown,101,State Representative,60,REP,Mike Lang,1258,297,961
+Brown,101,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,1241,296,945
+Brown,101,County Judge,,REP,Paul Lilly,814,197,617
+Brown,101,County Judge,,,Steve Fryar (W),491,113,378
 Brown,101,Ballots Cast,,,,1417,,
-Brown,105,Straight Party,,REP,,468,344,124
-Brown,105,Straight Party,,DEM,,50,35,15
-Brown,105,Straight Party,,LIB,,3,1,2
-Brown,105,U.S. Senate,,REP,Ted Cruz,829,614,215
-Brown,105,U.S. Senate,,DEM,Beto O'Rourke,130,97,33
-Brown,105,U.S. Senate,,LIB,Neal M. Dikeman,9,3,6
-Brown,105,U.S. House,11,REP,Mike Conaway,859,636,223
-Brown,105,U.S. House,11,DEM,Jennie Lou Leeder,112,83,29
-Brown,105,U.S. House,11,LIB,Rhett Rosenquest Smith,11,5,6
-Brown,105,Governor,,REP,Greg Abbott,854,631,223
-Brown,105,Governor,,DEM,Lupe Valdez,119,90,29
-Brown,105,Governor,,LIB,Mark Jay Tippetts,16,9,7
-Brown,105,Lieutenant Governor,,REP,Dan Patrick,801,593,208
-Brown,105,Lieutenant Governor,,DEM,Mike Collier,158,118,40
-Brown,105,Lieutenant Governor,,LIB,Kerry Douglas McKennon,26,15,11
-Brown,105,Attorney General,,REP,Ken Paxton,821,603,218
-Brown,105,Attorney General,,DEM,Justin Nelson,139,106,33
-Brown,105,Attorney General,,LIB,Michael Ray Harris,22,15,7
-Brown,105,Comptroller of Public Accounts,,REP,Glenn Hegar,848,629,219
-Brown,105,Comptroller of Public Accounts,,DEM,Joi Chevalier,111,85,26
-Brown,105,Comptroller of Public Accounts,,LIB,Ben Sanders,16,6,10
-Brown,105,Commissioner of the General Land Office,,REP,George P. Bush,823,608,215
-Brown,105,Commissioner of the General Land Office,,DEM,Miguel Suazo,119,90,29
-Brown,105,Commissioner of the General Land Office,,LIB,Matt Piña,34,23,11
-Brown,105,Commissioner of Agriculture,,REP,Sid Miller,833,616,217
-Brown,105,Commissioner of Agriculture,,DEM,Kim Olson,131,99,32
-Brown,105,Commissioner of Agriculture,,LIB,Richard Carpenter,16,10,6
-Brown,105,Railroad Commissioner,,REP,Christi Craddick,838,621,217
-Brown,105,Railroad Commissioner,,DEM,Roman McAllen,115,90,25
-Brown,105,Railroad Commissioner,,LIB,Mike Wright,21,11,10
-Brown,105,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,838,619,219
-Brown,105,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,132,99,33
-Brown,105,"Justice, Supreme Court, Place 4",,REP,John Devine,842,622,220
-Brown,105,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,127,96,31
-Brown,105,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,841,622,219
-Brown,105,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,127,95,32
-Brown,105,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,831,618,213
-Brown,105,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,125,96,29
-Brown,105,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,19,8,11
-Brown,105,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,843,624,219
-Brown,105,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,121,91,30
-Brown,105,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,851,632,219
-Brown,105,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,62,49,13
-Brown,105,State Representative,60,REP,Mike Lang,878,652,226
-Brown,105,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,876,650,226
-Brown,105,County Judge,,REP,Paul Lilly,591,433,158
-Brown,105,County Judge,,,Steve Fryar (W),327,249,78
+Brown,105,Straight Party,,REP,,468,124,344
+Brown,105,Straight Party,,DEM,,50,15,35
+Brown,105,Straight Party,,LIB,,3,2,1
+Brown,105,U.S. Senate,,REP,Ted Cruz,829,215,614
+Brown,105,U.S. Senate,,DEM,Beto O'Rourke,130,33,97
+Brown,105,U.S. Senate,,LIB,Neal M. Dikeman,9,6,3
+Brown,105,U.S. House,11,REP,Mike Conaway,859,223,636
+Brown,105,U.S. House,11,DEM,Jennie Lou Leeder,112,29,83
+Brown,105,U.S. House,11,LIB,Rhett Rosenquest Smith,11,6,5
+Brown,105,Governor,,REP,Greg Abbott,854,223,631
+Brown,105,Governor,,DEM,Lupe Valdez,119,29,90
+Brown,105,Governor,,LIB,Mark Jay Tippetts,16,7,9
+Brown,105,Lieutenant Governor,,REP,Dan Patrick,801,208,593
+Brown,105,Lieutenant Governor,,DEM,Mike Collier,158,40,118
+Brown,105,Lieutenant Governor,,LIB,Kerry Douglas McKennon,26,11,15
+Brown,105,Attorney General,,REP,Ken Paxton,821,218,603
+Brown,105,Attorney General,,DEM,Justin Nelson,139,33,106
+Brown,105,Attorney General,,LIB,Michael Ray Harris,22,7,15
+Brown,105,Comptroller of Public Accounts,,REP,Glenn Hegar,848,219,629
+Brown,105,Comptroller of Public Accounts,,DEM,Joi Chevalier,111,26,85
+Brown,105,Comptroller of Public Accounts,,LIB,Ben Sanders,16,10,6
+Brown,105,Commissioner of the General Land Office,,REP,George P. Bush,823,215,608
+Brown,105,Commissioner of the General Land Office,,DEM,Miguel Suazo,119,29,90
+Brown,105,Commissioner of the General Land Office,,LIB,Matt Piña,34,11,23
+Brown,105,Commissioner of Agriculture,,REP,Sid Miller,833,217,616
+Brown,105,Commissioner of Agriculture,,DEM,Kim Olson,131,32,99
+Brown,105,Commissioner of Agriculture,,LIB,Richard Carpenter,16,6,10
+Brown,105,Railroad Commissioner,,REP,Christi Craddick,838,217,621
+Brown,105,Railroad Commissioner,,DEM,Roman McAllen,115,25,90
+Brown,105,Railroad Commissioner,,LIB,Mike Wright,21,10,11
+Brown,105,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,838,219,619
+Brown,105,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,132,33,99
+Brown,105,"Justice, Supreme Court, Place 4",,REP,John Devine,842,220,622
+Brown,105,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,127,31,96
+Brown,105,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,841,219,622
+Brown,105,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,127,32,95
+Brown,105,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,831,213,618
+Brown,105,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,125,29,96
+Brown,105,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,19,11,8
+Brown,105,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,843,219,624
+Brown,105,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,121,30,91
+Brown,105,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,851,219,632
+Brown,105,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,62,13,49
+Brown,105,State Representative,60,REP,Mike Lang,878,226,652
+Brown,105,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,876,226,650
+Brown,105,County Judge,,REP,Paul Lilly,591,158,433
+Brown,105,County Judge,,,Steve Fryar (W),327,78,249
 Brown,105,Ballots Cast,,,,992,,
-Brown,109,Straight Party,,REP,,101,54,47
-Brown,109,Straight Party,,DEM,,5,2,3
+Brown,109,Straight Party,,REP,,101,47,54
+Brown,109,Straight Party,,DEM,,5,3,2
 Brown,109,Straight Party,,LIB,,0,0,0
-Brown,109,U.S. Senate,,REP,Ted Cruz,157,84,73
-Brown,109,U.S. Senate,,DEM,Beto O'Rourke,15,7,8
-Brown,109,U.S. Senate,,LIB,Neal M. Dikeman,1,1,0
-Brown,109,U.S. House,11,REP,Mike Conaway,167,91,76
-Brown,109,U.S. House,11,DEM,Jennie Lou Leeder,9,4,5
-Brown,109,U.S. House,11,LIB,Rhett Rosenquest Smith,1,0,1
-Brown,109,Governor,,REP,Greg Abbott,166,90,76
+Brown,109,U.S. Senate,,REP,Ted Cruz,157,73,84
+Brown,109,U.S. Senate,,DEM,Beto O'Rourke,15,8,7
+Brown,109,U.S. Senate,,LIB,Neal M. Dikeman,1,0,1
+Brown,109,U.S. House,11,REP,Mike Conaway,167,76,91
+Brown,109,U.S. House,11,DEM,Jennie Lou Leeder,9,5,4
+Brown,109,U.S. House,11,LIB,Rhett Rosenquest Smith,1,1,0
+Brown,109,Governor,,REP,Greg Abbott,166,76,90
 Brown,109,Governor,,DEM,Lupe Valdez,12,6,6
 Brown,109,Governor,,LIB,Mark Jay Tippetts,0,0,0
-Brown,109,Lieutenant Governor,,REP,Dan Patrick,155,86,69
-Brown,109,Lieutenant Governor,,DEM,Mike Collier,19,7,12
+Brown,109,Lieutenant Governor,,REP,Dan Patrick,155,69,86
+Brown,109,Lieutenant Governor,,DEM,Mike Collier,19,12,7
 Brown,109,Lieutenant Governor,,LIB,Kerry Douglas McKennon,2,1,1
-Brown,109,Attorney General,,REP,Ken Paxton,163,87,76
-Brown,109,Attorney General,,DEM,Justin Nelson,12,8,4
+Brown,109,Attorney General,,REP,Ken Paxton,163,76,87
+Brown,109,Attorney General,,DEM,Justin Nelson,12,4,8
 Brown,109,Attorney General,,LIB,Michael Ray Harris,0,0,0
-Brown,109,Comptroller of Public Accounts,,REP,Glenn Hegar,164,87,77
-Brown,109,Comptroller of Public Accounts,,DEM,Joi Chevalier,11,7,4
-Brown,109,Comptroller of Public Accounts,,LIB,Ben Sanders,2,2,0
-Brown,109,Commissioner of the General Land Office,,REP,George P. Bush,161,86,75
-Brown,109,Commissioner of the General Land Office,,DEM,Miguel Suazo,12,7,5
-Brown,109,Commissioner of the General Land Office,,LIB,Matt Piña,3,1,2
-Brown,109,Commissioner of Agriculture,,REP,Sid Miller,159,86,73
+Brown,109,Comptroller of Public Accounts,,REP,Glenn Hegar,164,77,87
+Brown,109,Comptroller of Public Accounts,,DEM,Joi Chevalier,11,4,7
+Brown,109,Comptroller of Public Accounts,,LIB,Ben Sanders,2,0,2
+Brown,109,Commissioner of the General Land Office,,REP,George P. Bush,161,75,86
+Brown,109,Commissioner of the General Land Office,,DEM,Miguel Suazo,12,5,7
+Brown,109,Commissioner of the General Land Office,,LIB,Matt Piña,3,2,1
+Brown,109,Commissioner of Agriculture,,REP,Sid Miller,159,73,86
 Brown,109,Commissioner of Agriculture,,DEM,Kim Olson,14,7,7
-Brown,109,Commissioner of Agriculture,,LIB,Richard Carpenter,1,1,0
-Brown,109,Railroad Commissioner,,REP,Christi Craddick,166,90,76
+Brown,109,Commissioner of Agriculture,,LIB,Richard Carpenter,1,0,1
+Brown,109,Railroad Commissioner,,REP,Christi Craddick,166,76,90
 Brown,109,Railroad Commissioner,,DEM,Roman McAllen,8,4,4
 Brown,109,Railroad Commissioner,,LIB,Mike Wright,2,1,1
-Brown,109,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,163,86,77
-Brown,109,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,12,8,4
-Brown,109,"Justice, Supreme Court, Place 4",,REP,John Devine,165,88,77
-Brown,109,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,10,6,4
-Brown,109,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,165,88,77
-Brown,109,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,10,6,4
-Brown,109,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,164,88,76
-Brown,109,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,11,7,4
-Brown,109,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,1,1,0
-Brown,109,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,166,88,78
-Brown,109,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,11,7,4
-Brown,109,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,166,90,76
+Brown,109,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,163,77,86
+Brown,109,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,12,4,8
+Brown,109,"Justice, Supreme Court, Place 4",,REP,John Devine,165,77,88
+Brown,109,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,10,4,6
+Brown,109,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,165,77,88
+Brown,109,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,10,4,6
+Brown,109,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,164,76,88
+Brown,109,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,11,4,7
+Brown,109,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,1,0,1
+Brown,109,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,166,78,88
+Brown,109,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,11,4,7
+Brown,109,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,166,76,90
 Brown,109,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,4,2,2
-Brown,109,State Representative,60,REP,Mike Lang,165,91,74
-Brown,109,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,161,88,73
-Brown,109,County Judge,,REP,Paul Lilly,124,65,59
-Brown,109,County Judge,,,Steve Fryar (W),39,24,15
-Brown,109,Ballots Cast,,,,178,96,82
-Brown,113,Straight Party,,REP,,453,326,127
-Brown,113,Straight Party,,DEM,,60,32,28
-Brown,113,Straight Party,,LIB,,2,0,2
-Brown,113,U.S. Senate,,REP,Ted Cruz,890,621,269
-Brown,113,U.S. Senate,,DEM,Beto O'Rourke,143,89,54
-Brown,113,U.S. Senate,,LIB,Neal M. Dikeman,6,1,5
-Brown,113,U.S. House,11,REP,Mike Conaway,904,631,273
-Brown,113,U.S. House,11,DEM,Jennie Lou Leeder,118,70,48
-Brown,113,U.S. House,11,LIB,Rhett Rosenquest Smith,22,13,9
-Brown,113,Governor,,REP,Greg Abbott,911,634,277
-Brown,113,Governor,,DEM,Lupe Valdez,121,73,48
-Brown,113,Governor,,LIB,Mark Jay Tippetts,16,10,6
-Brown,113,Lieutenant Governor,,REP,Dan Patrick,869,604,265
-Brown,113,Lieutenant Governor,,DEM,Mike Collier,153,99,54
-Brown,113,Lieutenant Governor,,LIB,Kerry Douglas McKennon,22,12,10
-Brown,113,Attorney General,,REP,Ken Paxton,882,612,270
-Brown,113,Attorney General,,DEM,Justin Nelson,144,90,54
-Brown,113,Attorney General,,LIB,Michael Ray Harris,21,15,6
-Brown,113,Comptroller of Public Accounts,,REP,Glenn Hegar,896,625,271
-Brown,113,Comptroller of Public Accounts,,DEM,Joi Chevalier,120,72,48
-Brown,113,Comptroller of Public Accounts,,LIB,Ben Sanders,24,15,9
-Brown,113,Commissioner of the General Land Office,,REP,George P. Bush,874,606,268
-Brown,113,Commissioner of the General Land Office,,DEM,Miguel Suazo,125,78,47
-Brown,113,Commissioner of the General Land Office,,LIB,Matt Piña,41,30,11
-Brown,113,Commissioner of Agriculture,,REP,Sid Miller,887,618,269
-Brown,113,Commissioner of Agriculture,,DEM,Kim Olson,137,83,54
-Brown,113,Commissioner of Agriculture,,LIB,Richard Carpenter,13,10,3
-Brown,113,Railroad Commissioner,,REP,Christi Craddick,899,622,277
-Brown,113,Railroad Commissioner,,DEM,Roman McAllen,117,73,44
-Brown,113,Railroad Commissioner,,LIB,Mike Wright,19,13,6
-Brown,113,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,899,622,277
-Brown,113,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,131,82,49
-Brown,113,"Justice, Supreme Court, Place 4",,REP,John Devine,899,622,277
-Brown,113,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,132,83,49
-Brown,113,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,900,625,275
-Brown,113,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,133,80,53
-Brown,113,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,892,618,274
-Brown,113,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,125,76,49
-Brown,113,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,17,11,6
-Brown,113,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,900,623,277
-Brown,113,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,129,81,48
-Brown,113,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,916,634,282
-Brown,113,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,61,41,20
-Brown,113,State Representative,60,REP,Mike Lang,951,657,294
-Brown,113,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,942,650,292
-Brown,113,County Judge,,REP,Paul Lilly,655,442,213
-Brown,113,County Judge,,,Steve Fryar (W),315,232,83
+Brown,109,State Representative,60,REP,Mike Lang,165,74,91
+Brown,109,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,161,73,88
+Brown,109,County Judge,,REP,Paul Lilly,124,59,65
+Brown,109,County Judge,,,Steve Fryar (W),39,15,24
+Brown,109,Ballots Cast,,,,178,82,96
+Brown,113,Straight Party,,REP,,453,127,326
+Brown,113,Straight Party,,DEM,,60,28,32
+Brown,113,Straight Party,,LIB,,2,2,0
+Brown,113,U.S. Senate,,REP,Ted Cruz,890,269,621
+Brown,113,U.S. Senate,,DEM,Beto O'Rourke,143,54,89
+Brown,113,U.S. Senate,,LIB,Neal M. Dikeman,6,5,1
+Brown,113,U.S. House,11,REP,Mike Conaway,904,273,631
+Brown,113,U.S. House,11,DEM,Jennie Lou Leeder,118,48,70
+Brown,113,U.S. House,11,LIB,Rhett Rosenquest Smith,22,9,13
+Brown,113,Governor,,REP,Greg Abbott,911,277,634
+Brown,113,Governor,,DEM,Lupe Valdez,121,48,73
+Brown,113,Governor,,LIB,Mark Jay Tippetts,16,6,10
+Brown,113,Lieutenant Governor,,REP,Dan Patrick,869,265,604
+Brown,113,Lieutenant Governor,,DEM,Mike Collier,153,54,99
+Brown,113,Lieutenant Governor,,LIB,Kerry Douglas McKennon,22,10,12
+Brown,113,Attorney General,,REP,Ken Paxton,882,270,612
+Brown,113,Attorney General,,DEM,Justin Nelson,144,54,90
+Brown,113,Attorney General,,LIB,Michael Ray Harris,21,6,15
+Brown,113,Comptroller of Public Accounts,,REP,Glenn Hegar,896,271,625
+Brown,113,Comptroller of Public Accounts,,DEM,Joi Chevalier,120,48,72
+Brown,113,Comptroller of Public Accounts,,LIB,Ben Sanders,24,9,15
+Brown,113,Commissioner of the General Land Office,,REP,George P. Bush,874,268,606
+Brown,113,Commissioner of the General Land Office,,DEM,Miguel Suazo,125,47,78
+Brown,113,Commissioner of the General Land Office,,LIB,Matt Piña,41,11,30
+Brown,113,Commissioner of Agriculture,,REP,Sid Miller,887,269,618
+Brown,113,Commissioner of Agriculture,,DEM,Kim Olson,137,54,83
+Brown,113,Commissioner of Agriculture,,LIB,Richard Carpenter,13,3,10
+Brown,113,Railroad Commissioner,,REP,Christi Craddick,899,277,622
+Brown,113,Railroad Commissioner,,DEM,Roman McAllen,117,44,73
+Brown,113,Railroad Commissioner,,LIB,Mike Wright,19,6,13
+Brown,113,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,899,277,622
+Brown,113,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,131,49,82
+Brown,113,"Justice, Supreme Court, Place 4",,REP,John Devine,899,277,622
+Brown,113,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,132,49,83
+Brown,113,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,900,275,625
+Brown,113,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,133,53,80
+Brown,113,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,892,274,618
+Brown,113,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,125,49,76
+Brown,113,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,17,6,11
+Brown,113,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,900,277,623
+Brown,113,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,129,48,81
+Brown,113,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,916,282,634
+Brown,113,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,61,20,41
+Brown,113,State Representative,60,REP,Mike Lang,951,294,657
+Brown,113,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,942,292,650
+Brown,113,County Judge,,REP,Paul Lilly,655,213,442
+Brown,113,County Judge,,,Steve Fryar (W),315,83,232
 Brown,113,Ballots Cast,,,,1053,,
-Brown,202,Straight Party,,REP,,288,216,72
-Brown,202,Straight Party,,DEM,,76,52,24
-Brown,202,Straight Party,,LIB,,2,2,0
-Brown,202,U.S. Senate,,REP,Ted Cruz,427,324,103
-Brown,202,U.S. Senate,,DEM,Beto O'Rourke,116,80,36
-Brown,202,U.S. Senate,,LIB,Neal M. Dikeman,4,3,1
-Brown,202,U.S. House,11,REP,Mike Conaway,425,325,100
-Brown,202,U.S. House,11,DEM,Jennie Lou Leeder,112,78,34
-Brown,202,U.S. House,11,LIB,Rhett Rosenquest Smith,10,6,4
-Brown,202,Governor,,REP,Greg Abbott,438,330,108
-Brown,202,Governor,,DEM,Lupe Valdez,108,77,31
-Brown,202,Governor,,LIB,Mark Jay Tippetts,7,5,2
-Brown,202,Lieutenant Governor,,REP,Dan Patrick,427,327,100
-Brown,202,Lieutenant Governor,,DEM,Mike Collier,116,79,37
-Brown,202,Lieutenant Governor,,LIB,Kerry Douglas McKennon,9,5,4
-Brown,202,Attorney General,,REP,Ken Paxton,432,328,104
-Brown,202,Attorney General,,DEM,Justin Nelson,114,80,34
-Brown,202,Attorney General,,LIB,Michael Ray Harris,5,4,1
-Brown,202,Comptroller of Public Accounts,,REP,Glenn Hegar,434,332,102
-Brown,202,Comptroller of Public Accounts,,DEM,Joi Chevalier,100,69,31
-Brown,202,Comptroller of Public Accounts,,LIB,Ben Sanders,11,6,5
-Brown,202,Commissioner of the General Land Office,,REP,George P. Bush,412,312,100
-Brown,202,Commissioner of the General Land Office,,DEM,Miguel Suazo,112,79,33
-Brown,202,Commissioner of the General Land Office,,LIB,Matt Piña,24,17,7
-Brown,202,Commissioner of Agriculture,,REP,Sid Miller,428,328,100
-Brown,202,Commissioner of Agriculture,,DEM,Kim Olson,109,74,35
-Brown,202,Commissioner of Agriculture,,LIB,Richard Carpenter,11,7,4
-Brown,202,Railroad Commissioner,,REP,Christi Craddick,429,326,103
-Brown,202,Railroad Commissioner,,DEM,Roman McAllen,106,73,33
-Brown,202,Railroad Commissioner,,LIB,Mike Wright,12,9,3
-Brown,202,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,431,328,103
-Brown,202,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,112,75,37
-Brown,202,"Justice, Supreme Court, Place 4",,REP,John Devine,434,331,103
-Brown,202,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,109,73,36
-Brown,202,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,430,327,103
-Brown,202,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,115,78,37
-Brown,202,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,432,327,105
-Brown,202,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,109,76,33
-Brown,202,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,6,4,2
-Brown,202,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,431,327,104
-Brown,202,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,113,77,36
-Brown,202,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,451,340,111
-Brown,202,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,40,24,16
-Brown,202,State Representative,60,REP,Mike Lang,469,350,119
-Brown,202,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,465,349,116
-Brown,202,County Judge,,REP,Paul Lilly,359,262,97
-Brown,202,County Judge,,,Steve Fryar (W),126,101,25
+Brown,202,Straight Party,,REP,,288,72,216
+Brown,202,Straight Party,,DEM,,76,24,52
+Brown,202,Straight Party,,LIB,,2,0,2
+Brown,202,U.S. Senate,,REP,Ted Cruz,427,103,324
+Brown,202,U.S. Senate,,DEM,Beto O'Rourke,116,36,80
+Brown,202,U.S. Senate,,LIB,Neal M. Dikeman,4,1,3
+Brown,202,U.S. House,11,REP,Mike Conaway,425,100,325
+Brown,202,U.S. House,11,DEM,Jennie Lou Leeder,112,34,78
+Brown,202,U.S. House,11,LIB,Rhett Rosenquest Smith,10,4,6
+Brown,202,Governor,,REP,Greg Abbott,438,108,330
+Brown,202,Governor,,DEM,Lupe Valdez,108,31,77
+Brown,202,Governor,,LIB,Mark Jay Tippetts,7,2,5
+Brown,202,Lieutenant Governor,,REP,Dan Patrick,427,100,327
+Brown,202,Lieutenant Governor,,DEM,Mike Collier,116,37,79
+Brown,202,Lieutenant Governor,,LIB,Kerry Douglas McKennon,9,4,5
+Brown,202,Attorney General,,REP,Ken Paxton,432,104,328
+Brown,202,Attorney General,,DEM,Justin Nelson,114,34,80
+Brown,202,Attorney General,,LIB,Michael Ray Harris,5,1,4
+Brown,202,Comptroller of Public Accounts,,REP,Glenn Hegar,434,102,332
+Brown,202,Comptroller of Public Accounts,,DEM,Joi Chevalier,100,31,69
+Brown,202,Comptroller of Public Accounts,,LIB,Ben Sanders,11,5,6
+Brown,202,Commissioner of the General Land Office,,REP,George P. Bush,412,100,312
+Brown,202,Commissioner of the General Land Office,,DEM,Miguel Suazo,112,33,79
+Brown,202,Commissioner of the General Land Office,,LIB,Matt Piña,24,7,17
+Brown,202,Commissioner of Agriculture,,REP,Sid Miller,428,100,328
+Brown,202,Commissioner of Agriculture,,DEM,Kim Olson,109,35,74
+Brown,202,Commissioner of Agriculture,,LIB,Richard Carpenter,11,4,7
+Brown,202,Railroad Commissioner,,REP,Christi Craddick,429,103,326
+Brown,202,Railroad Commissioner,,DEM,Roman McAllen,106,33,73
+Brown,202,Railroad Commissioner,,LIB,Mike Wright,12,3,9
+Brown,202,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,431,103,328
+Brown,202,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,112,37,75
+Brown,202,"Justice, Supreme Court, Place 4",,REP,John Devine,434,103,331
+Brown,202,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,109,36,73
+Brown,202,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,430,103,327
+Brown,202,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,115,37,78
+Brown,202,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,432,105,327
+Brown,202,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,109,33,76
+Brown,202,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,6,2,4
+Brown,202,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,431,104,327
+Brown,202,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,113,36,77
+Brown,202,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,451,111,340
+Brown,202,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,40,16,24
+Brown,202,State Representative,60,REP,Mike Lang,469,119,350
+Brown,202,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,465,116,349
+Brown,202,County Judge,,REP,Paul Lilly,359,97,262
+Brown,202,County Judge,,,Steve Fryar (W),126,25,101
 Brown,202,Ballots Cast,,,,559,,
-Brown,204,Straight Party,,REP,,205,139,66
-Brown,204,Straight Party,,DEM,,75,38,37
-Brown,204,Straight Party,,LIB,,1,0,1
-Brown,204,U.S. Senate,,REP,Ted Cruz,307,209,98
-Brown,204,U.S. Senate,,DEM,Beto O'Rourke,143,82,61
-Brown,204,U.S. Senate,,LIB,Neal M. Dikeman,3,3,0
-Brown,204,U.S. House,11,REP,Mike Conaway,329,222,107
-Brown,204,U.S. House,11,DEM,Jennie Lou Leeder,113,66,47
-Brown,204,U.S. House,11,LIB,Rhett Rosenquest Smith,10,4,6
-Brown,204,Governor,,REP,Greg Abbott,323,217,106
-Brown,204,Governor,,DEM,Lupe Valdez,130,81,49
-Brown,204,Governor,,LIB,Mark Jay Tippetts,6,2,4
-Brown,204,Lieutenant Governor,,REP,Dan Patrick,313,211,102
-Brown,204,Lieutenant Governor,,DEM,Mike Collier,129,76,53
-Brown,204,Lieutenant Governor,,LIB,Kerry Douglas McKennon,11,6,5
-Brown,204,Attorney General,,REP,Ken Paxton,308,209,99
-Brown,204,Attorney General,,DEM,Justin Nelson,132,80,52
+Brown,204,Straight Party,,REP,,205,66,139
+Brown,204,Straight Party,,DEM,,75,37,38
+Brown,204,Straight Party,,LIB,,1,1,0
+Brown,204,U.S. Senate,,REP,Ted Cruz,307,98,209
+Brown,204,U.S. Senate,,DEM,Beto O'Rourke,143,61,82
+Brown,204,U.S. Senate,,LIB,Neal M. Dikeman,3,0,3
+Brown,204,U.S. House,11,REP,Mike Conaway,329,107,222
+Brown,204,U.S. House,11,DEM,Jennie Lou Leeder,113,47,66
+Brown,204,U.S. House,11,LIB,Rhett Rosenquest Smith,10,6,4
+Brown,204,Governor,,REP,Greg Abbott,323,106,217
+Brown,204,Governor,,DEM,Lupe Valdez,130,49,81
+Brown,204,Governor,,LIB,Mark Jay Tippetts,6,4,2
+Brown,204,Lieutenant Governor,,REP,Dan Patrick,313,102,211
+Brown,204,Lieutenant Governor,,DEM,Mike Collier,129,53,76
+Brown,204,Lieutenant Governor,,LIB,Kerry Douglas McKennon,11,5,6
+Brown,204,Attorney General,,REP,Ken Paxton,308,99,209
+Brown,204,Attorney General,,DEM,Justin Nelson,132,52,80
 Brown,204,Attorney General,,LIB,Michael Ray Harris,12,6,6
-Brown,204,Comptroller of Public Accounts,,REP,Glenn Hegar,312,214,98
-Brown,204,Comptroller of Public Accounts,,DEM,Joi Chevalier,125,75,50
-Brown,204,Comptroller of Public Accounts,,LIB,Ben Sanders,14,5,9
-Brown,204,Commissioner of the General Land Office,,REP,George P. Bush,313,209,104
-Brown,204,Commissioner of the General Land Office,,DEM,Miguel Suazo,112,69,43
-Brown,204,Commissioner of the General Land Office,,LIB,Matt Piña,28,18,10
-Brown,204,Commissioner of Agriculture,,REP,Sid Miller,309,210,99
-Brown,204,Commissioner of Agriculture,,DEM,Kim Olson,139,84,55
-Brown,204,Commissioner of Agriculture,,LIB,Richard Carpenter,7,2,5
-Brown,204,Railroad Commissioner,,REP,Christi Craddick,310,211,99
-Brown,204,Railroad Commissioner,,DEM,Roman McAllen,129,76,53
-Brown,204,Railroad Commissioner,,LIB,Mike Wright,13,6,7
-Brown,204,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,316,214,102
-Brown,204,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,139,81,58
-Brown,204,"Justice, Supreme Court, Place 4",,REP,John Devine,315,212,103
-Brown,204,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,139,83,56
-Brown,204,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,313,211,102
-Brown,204,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,141,84,57
-Brown,204,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,307,209,98
-Brown,204,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,136,81,55
-Brown,204,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,11,6,5
-Brown,204,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,312,210,102
-Brown,204,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,139,83,56
-Brown,204,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,323,220,103
-Brown,204,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,77,44,33
-Brown,204,State Representative,60,REP,Mike Lang,363,237,126
-Brown,204,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,358,233,125
-Brown,204,County Judge,,REP,Paul Lilly,319,213,106
-Brown,204,County Judge,,,Steve Fryar (W),74,45,29
+Brown,204,Comptroller of Public Accounts,,REP,Glenn Hegar,312,98,214
+Brown,204,Comptroller of Public Accounts,,DEM,Joi Chevalier,125,50,75
+Brown,204,Comptroller of Public Accounts,,LIB,Ben Sanders,14,9,5
+Brown,204,Commissioner of the General Land Office,,REP,George P. Bush,313,104,209
+Brown,204,Commissioner of the General Land Office,,DEM,Miguel Suazo,112,43,69
+Brown,204,Commissioner of the General Land Office,,LIB,Matt Piña,28,10,18
+Brown,204,Commissioner of Agriculture,,REP,Sid Miller,309,99,210
+Brown,204,Commissioner of Agriculture,,DEM,Kim Olson,139,55,84
+Brown,204,Commissioner of Agriculture,,LIB,Richard Carpenter,7,5,2
+Brown,204,Railroad Commissioner,,REP,Christi Craddick,310,99,211
+Brown,204,Railroad Commissioner,,DEM,Roman McAllen,129,53,76
+Brown,204,Railroad Commissioner,,LIB,Mike Wright,13,7,6
+Brown,204,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,316,102,214
+Brown,204,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,139,58,81
+Brown,204,"Justice, Supreme Court, Place 4",,REP,John Devine,315,103,212
+Brown,204,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,139,56,83
+Brown,204,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,313,102,211
+Brown,204,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,141,57,84
+Brown,204,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,307,98,209
+Brown,204,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,136,55,81
+Brown,204,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,11,5,6
+Brown,204,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,312,102,210
+Brown,204,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,139,56,83
+Brown,204,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,323,103,220
+Brown,204,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,77,33,44
+Brown,204,State Representative,60,REP,Mike Lang,363,126,237
+Brown,204,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,358,125,233
+Brown,204,County Judge,,REP,Paul Lilly,319,106,213
+Brown,204,County Judge,,,Steve Fryar (W),74,29,45
 Brown,204,Ballots Cast,,,,466,,
-Brown,212,Straight Party,,REP,,36,27,9
-Brown,212,Straight Party,,DEM,,2,0,2
+Brown,212,Straight Party,,REP,,36,9,27
+Brown,212,Straight Party,,DEM,,2,2,0
 Brown,212,Straight Party,,LIB,,0,0,0
-Brown,212,U.S. Senate,,REP,Ted Cruz,45,31,14
-Brown,212,U.S. Senate,,DEM,Beto O'Rourke,2,0,2
+Brown,212,U.S. Senate,,REP,Ted Cruz,45,14,31
+Brown,212,U.S. Senate,,DEM,Beto O'Rourke,2,2,0
 Brown,212,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0
-Brown,212,U.S. House,11,REP,Mike Conaway,45,31,14
-Brown,212,U.S. House,11,DEM,Jennie Lou Leeder,1,0,1
+Brown,212,U.S. House,11,REP,Mike Conaway,45,14,31
+Brown,212,U.S. House,11,DEM,Jennie Lou Leeder,1,1,0
 Brown,212,U.S. House,11,LIB,Rhett Rosenquest Smith,0,0,0
-Brown,212,Governor,,REP,Greg Abbott,46,32,14
-Brown,212,Governor,,DEM,Lupe Valdez,1,0,1
+Brown,212,Governor,,REP,Greg Abbott,46,14,32
+Brown,212,Governor,,DEM,Lupe Valdez,1,1,0
 Brown,212,Governor,,LIB,Mark Jay Tippetts,0,0,0
-Brown,212,Lieutenant Governor,,REP,Dan Patrick,44,31,13
-Brown,212,Lieutenant Governor,,DEM,Mike Collier,3,1,2
+Brown,212,Lieutenant Governor,,REP,Dan Patrick,44,13,31
+Brown,212,Lieutenant Governor,,DEM,Mike Collier,3,2,1
 Brown,212,Lieutenant Governor,,LIB,Kerry Douglas McKennon,0,0,0
-Brown,212,Attorney General,,REP,Ken Paxton,44,31,13
-Brown,212,Attorney General,,DEM,Justin Nelson,3,1,2
+Brown,212,Attorney General,,REP,Ken Paxton,44,13,31
+Brown,212,Attorney General,,DEM,Justin Nelson,3,2,1
 Brown,212,Attorney General,,LIB,Michael Ray Harris,0,0,0
-Brown,212,Comptroller of Public Accounts,,REP,Glenn Hegar,46,32,14
-Brown,212,Comptroller of Public Accounts,,DEM,Joi Chevalier,1,0,1
+Brown,212,Comptroller of Public Accounts,,REP,Glenn Hegar,46,14,32
+Brown,212,Comptroller of Public Accounts,,DEM,Joi Chevalier,1,1,0
 Brown,212,Comptroller of Public Accounts,,LIB,Ben Sanders,0,0,0
-Brown,212,Commissioner of the General Land Office,,REP,George P. Bush,45,31,14
-Brown,212,Commissioner of the General Land Office,,DEM,Miguel Suazo,2,0,2
-Brown,212,Commissioner of the General Land Office,,LIB,Matt Piña,1,1,0
-Brown,212,Commissioner of Agriculture,,REP,Sid Miller,45,32,13
-Brown,212,Commissioner of Agriculture,,DEM,Kim Olson,2,0,2
+Brown,212,Commissioner of the General Land Office,,REP,George P. Bush,45,14,31
+Brown,212,Commissioner of the General Land Office,,DEM,Miguel Suazo,2,2,0
+Brown,212,Commissioner of the General Land Office,,LIB,Matt Piña,1,0,1
+Brown,212,Commissioner of Agriculture,,REP,Sid Miller,45,13,32
+Brown,212,Commissioner of Agriculture,,DEM,Kim Olson,2,2,0
 Brown,212,Commissioner of Agriculture,,LIB,Richard Carpenter,0,0,0
-Brown,212,Railroad Commissioner,,REP,Christi Craddick,45,32,13
-Brown,212,Railroad Commissioner,,DEM,Roman McAllen,2,0,2
+Brown,212,Railroad Commissioner,,REP,Christi Craddick,45,13,32
+Brown,212,Railroad Commissioner,,DEM,Roman McAllen,2,2,0
 Brown,212,Railroad Commissioner,,LIB,Mike Wright,0,0,0
-Brown,212,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,45,31,14
+Brown,212,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,45,14,31
 Brown,212,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,2,1,1
-Brown,212,"Justice, Supreme Court, Place 4",,REP,John Devine,46,32,14
-Brown,212,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,1,0,1
-Brown,212,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,46,32,14
-Brown,212,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,1,0,1
-Brown,212,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,45,32,13
-Brown,212,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,2,0,2
-Brown,212,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,1,0,1
-Brown,212,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,46,32,14
-Brown,212,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,1,0,1
-Brown,212,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,44,31,13
-Brown,212,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,3,1,2
-Brown,212,State Representative,60,REP,Mike Lang,47,32,15
-Brown,212,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,47,32,15
-Brown,212,County Judge,,REP,Paul Lilly,41,29,12
-Brown,212,County Judge,,,Steve Fryar (W),4,1,3
-Brown,212,Ballots Cast,,,,48,32,16
-Brown,212 - ISD,Straight Party,,REP,,229,104,125
-Brown,212 - ISD,Straight Party,,DEM,,18,12,6
-Brown,212 - ISD,Straight Party,,LIB,,1,1,0
-Brown,212 - ISD,U.S. Senate,,REP,Ted Cruz,394,178,216
-Brown,212 - ISD,U.S. Senate,,DEM,Beto O'Rourke,45,21,24
-Brown,212 - ISD,U.S. Senate,,LIB,Neal M. Dikeman,3,2,1
-Brown,212 - ISD,U.S. House,11,REP,Mike Conaway,402,181,221
-Brown,212 - ISD,U.S. House,11,DEM,Jennie Lou Leeder,45,22,23
-Brown,212 - ISD,U.S. House,11,LIB,Rhett Rosenquest Smith,2,0,2
-Brown,212 - ISD,Governor,,REP,Greg Abbott,406,183,223
+Brown,212,"Justice, Supreme Court, Place 4",,REP,John Devine,46,14,32
+Brown,212,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,1,1,0
+Brown,212,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,46,14,32
+Brown,212,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,1,1,0
+Brown,212,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,45,13,32
+Brown,212,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,2,2,0
+Brown,212,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,1,1,0
+Brown,212,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,46,14,32
+Brown,212,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,1,1,0
+Brown,212,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,44,13,31
+Brown,212,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,3,2,1
+Brown,212,State Representative,60,REP,Mike Lang,47,15,32
+Brown,212,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,47,15,32
+Brown,212,County Judge,,REP,Paul Lilly,41,12,29
+Brown,212,County Judge,,,Steve Fryar (W),4,3,1
+Brown,212,Ballots Cast,,,,48,16,32
+Brown,212 - ISD,Straight Party,,REP,,229,125,104
+Brown,212 - ISD,Straight Party,,DEM,,18,6,12
+Brown,212 - ISD,Straight Party,,LIB,,1,0,1
+Brown,212 - ISD,U.S. Senate,,REP,Ted Cruz,394,216,178
+Brown,212 - ISD,U.S. Senate,,DEM,Beto O'Rourke,45,24,21
+Brown,212 - ISD,U.S. Senate,,LIB,Neal M. Dikeman,3,1,2
+Brown,212 - ISD,U.S. House,11,REP,Mike Conaway,402,221,181
+Brown,212 - ISD,U.S. House,11,DEM,Jennie Lou Leeder,45,23,22
+Brown,212 - ISD,U.S. House,11,LIB,Rhett Rosenquest Smith,2,2,0
+Brown,212 - ISD,Governor,,REP,Greg Abbott,406,223,183
 Brown,212 - ISD,Governor,,DEM,Lupe Valdez,40,20,20
-Brown,212 - ISD,Governor,,LIB,Mark Jay Tippetts,2,0,2
-Brown,212 - ISD,Lieutenant Governor,,REP,Dan Patrick,385,177,208
-Brown,212 - ISD,Lieutenant Governor,,DEM,Mike Collier,54,23,31
+Brown,212 - ISD,Governor,,LIB,Mark Jay Tippetts,2,2,0
+Brown,212 - ISD,Lieutenant Governor,,REP,Dan Patrick,385,208,177
+Brown,212 - ISD,Lieutenant Governor,,DEM,Mike Collier,54,31,23
 Brown,212 - ISD,Lieutenant Governor,,LIB,Kerry Douglas McKennon,6,3,3
-Brown,212 - ISD,Attorney General,,REP,Ken Paxton,391,176,215
-Brown,212 - ISD,Attorney General,,DEM,Justin Nelson,51,25,26
+Brown,212 - ISD,Attorney General,,REP,Ken Paxton,391,215,176
+Brown,212 - ISD,Attorney General,,DEM,Justin Nelson,51,26,25
 Brown,212 - ISD,Attorney General,,LIB,Michael Ray Harris,2,1,1
-Brown,212 - ISD,Comptroller of Public Accounts,,REP,Glenn Hegar,395,178,217
-Brown,212 - ISD,Comptroller of Public Accounts,,DEM,Joi Chevalier,43,22,21
-Brown,212 - ISD,Comptroller of Public Accounts,,LIB,Ben Sanders,5,1,4
-Brown,212 - ISD,Commissioner of the General Land Office,,REP,George P. Bush,389,175,214
-Brown,212 - ISD,Commissioner of the General Land Office,,DEM,Miguel Suazo,41,21,20
+Brown,212 - ISD,Comptroller of Public Accounts,,REP,Glenn Hegar,395,217,178
+Brown,212 - ISD,Comptroller of Public Accounts,,DEM,Joi Chevalier,43,21,22
+Brown,212 - ISD,Comptroller of Public Accounts,,LIB,Ben Sanders,5,4,1
+Brown,212 - ISD,Commissioner of the General Land Office,,REP,George P. Bush,389,214,175
+Brown,212 - ISD,Commissioner of the General Land Office,,DEM,Miguel Suazo,41,20,21
 Brown,212 - ISD,Commissioner of the General Land Office,,LIB,Matt Piña,16,8,8
-Brown,212 - ISD,Commissioner of Agriculture,,REP,Sid Miller,391,178,213
-Brown,212 - ISD,Commissioner of Agriculture,,DEM,Kim Olson,49,23,26
-Brown,212 - ISD,Commissioner of Agriculture,,LIB,Richard Carpenter,6,1,5
-Brown,212 - ISD,Railroad Commissioner,,REP,Christi Craddick,390,176,214
-Brown,212 - ISD,Railroad Commissioner,,DEM,Roman McAllen,47,24,23
-Brown,212 - ISD,Railroad Commissioner,,LIB,Mike Wright,6,0,6
-Brown,212 - ISD,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,389,178,211
-Brown,212 - ISD,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,52,22,30
-Brown,212 - ISD,"Justice, Supreme Court, Place 4",,REP,John Devine,396,179,217
-Brown,212 - ISD,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,43,21,22
-Brown,212 - ISD,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,391,177,214
-Brown,212 - ISD,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,46,22,24
-Brown,212 - ISD,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,392,179,213
-Brown,212 - ISD,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,43,21,22
-Brown,212 - ISD,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,7,1,6
-Brown,212 - ISD,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,393,177,216
-Brown,212 - ISD,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,46,22,24
-Brown,212 - ISD,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,395,177,218
-Brown,212 - ISD,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,20,6,14
-Brown,212 - ISD,State Representative,60,REP,Mike Lang,404,182,222
-Brown,212 - ISD,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,399,180,219
-Brown,212 - ISD,County Judge,,REP,Paul Lilly,311,136,175
-Brown,212 - ISD,County Judge,,,Steve Fryar (W),107,54,53
+Brown,212 - ISD,Commissioner of Agriculture,,REP,Sid Miller,391,213,178
+Brown,212 - ISD,Commissioner of Agriculture,,DEM,Kim Olson,49,26,23
+Brown,212 - ISD,Commissioner of Agriculture,,LIB,Richard Carpenter,6,5,1
+Brown,212 - ISD,Railroad Commissioner,,REP,Christi Craddick,390,214,176
+Brown,212 - ISD,Railroad Commissioner,,DEM,Roman McAllen,47,23,24
+Brown,212 - ISD,Railroad Commissioner,,LIB,Mike Wright,6,6,0
+Brown,212 - ISD,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,389,211,178
+Brown,212 - ISD,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,52,30,22
+Brown,212 - ISD,"Justice, Supreme Court, Place 4",,REP,John Devine,396,217,179
+Brown,212 - ISD,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,43,22,21
+Brown,212 - ISD,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,391,214,177
+Brown,212 - ISD,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,46,24,22
+Brown,212 - ISD,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,392,213,179
+Brown,212 - ISD,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,43,22,21
+Brown,212 - ISD,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,7,6,1
+Brown,212 - ISD,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,393,216,177
+Brown,212 - ISD,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,46,24,22
+Brown,212 - ISD,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,395,218,177
+Brown,212 - ISD,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,20,14,6
+Brown,212 - ISD,State Representative,60,REP,Mike Lang,404,222,182
+Brown,212 - ISD,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,399,219,180
+Brown,212 - ISD,County Judge,,REP,Paul Lilly,311,175,136
+Brown,212 - ISD,County Judge,,,Steve Fryar (W),107,53,54
 Brown,212 - ISD,Ballots Cast,,,,459,,
-Brown,214,Straight Party,,REP,,13,13,0
+Brown,214,Straight Party,,REP,,13,0,13
 Brown,214,Straight Party,,DEM,,0,0,0
 Brown,214,Straight Party,,LIB,,0,0,0
-Brown,214,U.S. Senate,,REP,Ted Cruz,20,20,0
+Brown,214,U.S. Senate,,REP,Ted Cruz,20,0,20
 Brown,214,U.S. Senate,,DEM,Beto O'Rourke,2,1,1
 Brown,214,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0
-Brown,214,U.S. House,11,REP,Mike Conaway,22,22,0
-Brown,214,U.S. House,11,DEM,Jennie Lou Leeder,1,0,1
+Brown,214,U.S. House,11,REP,Mike Conaway,22,0,22
+Brown,214,U.S. House,11,DEM,Jennie Lou Leeder,1,1,0
 Brown,214,U.S. House,11,LIB,Rhett Rosenquest Smith,0,0,0
-Brown,214,Governor,,REP,Greg Abbott,22,22,0
-Brown,214,Governor,,DEM,Lupe Valdez,1,0,1
+Brown,214,Governor,,REP,Greg Abbott,22,0,22
+Brown,214,Governor,,DEM,Lupe Valdez,1,1,0
 Brown,214,Governor,,LIB,Mark Jay Tippetts,0,0,0
-Brown,214,Lieutenant Governor,,REP,Dan Patrick,22,22,0
-Brown,214,Lieutenant Governor,,DEM,Mike Collier,1,0,1
+Brown,214,Lieutenant Governor,,REP,Dan Patrick,22,0,22
+Brown,214,Lieutenant Governor,,DEM,Mike Collier,1,1,0
 Brown,214,Lieutenant Governor,,LIB,Kerry Douglas McKennon,0,0,0
-Brown,214,Attorney General,,REP,Ken Paxton,22,22,0
-Brown,214,Attorney General,,DEM,Justin Nelson,1,0,1
+Brown,214,Attorney General,,REP,Ken Paxton,22,0,22
+Brown,214,Attorney General,,DEM,Justin Nelson,1,1,0
 Brown,214,Attorney General,,LIB,Michael Ray Harris,0,0,0
-Brown,214,Comptroller of Public Accounts,,REP,Glenn Hegar,20,20,0
-Brown,214,Comptroller of Public Accounts,,DEM,Joi Chevalier,3,2,1
+Brown,214,Comptroller of Public Accounts,,REP,Glenn Hegar,20,0,20
+Brown,214,Comptroller of Public Accounts,,DEM,Joi Chevalier,3,1,2
 Brown,214,Comptroller of Public Accounts,,LIB,Ben Sanders,0,0,0
-Brown,214,Commissioner of the General Land Office,,REP,George P. Bush,22,21,1
-Brown,214,Commissioner of the General Land Office,,DEM,Miguel Suazo,1,1,0
+Brown,214,Commissioner of the General Land Office,,REP,George P. Bush,22,1,21
+Brown,214,Commissioner of the General Land Office,,DEM,Miguel Suazo,1,0,1
 Brown,214,Commissioner of the General Land Office,,LIB,Matt Piña,0,0,0
-Brown,214,Commissioner of Agriculture,,REP,Sid Miller,21,21,0
+Brown,214,Commissioner of Agriculture,,REP,Sid Miller,21,0,21
 Brown,214,Commissioner of Agriculture,,DEM,Kim Olson,2,1,1
 Brown,214,Commissioner of Agriculture,,LIB,Richard Carpenter,0,0,0
-Brown,214,Railroad Commissioner,,REP,Christi Craddick,21,21,0
+Brown,214,Railroad Commissioner,,REP,Christi Craddick,21,0,21
 Brown,214,Railroad Commissioner,,DEM,Roman McAllen,2,1,1
 Brown,214,Railroad Commissioner,,LIB,Mike Wright,0,0,0
-Brown,214,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,21,21,0
+Brown,214,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,21,0,21
 Brown,214,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,2,1,1
-Brown,214,"Justice, Supreme Court, Place 4",,REP,John Devine,22,22,0
-Brown,214,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,1,0,1
-Brown,214,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,22,22,0
-Brown,214,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,1,0,1
-Brown,214,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,21,21,0
+Brown,214,"Justice, Supreme Court, Place 4",,REP,John Devine,22,0,22
+Brown,214,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,1,1,0
+Brown,214,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,22,0,22
+Brown,214,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,1,1,0
+Brown,214,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,21,0,21
 Brown,214,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,2,1,1
 Brown,214,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,0,0,0
-Brown,214,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,21,21,0
-Brown,214,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,1,1,0
-Brown,214,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,20,20,0
-Brown,214,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,2,2,0
-Brown,214,State Representative,60,REP,Mike Lang,22,22,0
-Brown,214,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,22,22,0
-Brown,214,County Judge,,REP,Paul Lilly,17,17,0
-Brown,214,County Judge,,,Steve Fryar (W),6,5,1
-Brown,214,Ballots Cast,,,,23,22,1
-Brown,214 - ISD,Straight Party,,REP,,213,165,48
-Brown,214 - ISD,Straight Party,,DEM,,18,14,4
-Brown,214 - ISD,Straight Party,,LIB,,1,1,0
-Brown,214 - ISD,U.S. Senate,,REP,Ted Cruz,327,256,71
-Brown,214 - ISD,U.S. Senate,,DEM,Beto O'Rourke,50,34,16
-Brown,214 - ISD,U.S. Senate,,LIB,Neal M. Dikeman,3,1,2
-Brown,214 - ISD,U.S. House,11,REP,Mike Conaway,341,260,81
-Brown,214 - ISD,U.S. House,11,DEM,Jennie Lou Leeder,47,34,13
-Brown,214 - ISD,U.S. House,11,LIB,Rhett Rosenquest Smith,4,3,1
-Brown,214 - ISD,Governor,,REP,Greg Abbott,346,261,85
-Brown,214 - ISD,Governor,,DEM,Lupe Valdez,39,31,8
-Brown,214 - ISD,Governor,,LIB,Mark Jay Tippetts,4,3,1
-Brown,214 - ISD,Lieutenant Governor,,REP,Dan Patrick,334,257,77
-Brown,214 - ISD,Lieutenant Governor,,DEM,Mike Collier,53,38,15
+Brown,214,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,21,0,21
+Brown,214,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,1,0,1
+Brown,214,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,20,0,20
+Brown,214,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,2,0,2
+Brown,214,State Representative,60,REP,Mike Lang,22,0,22
+Brown,214,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,22,0,22
+Brown,214,County Judge,,REP,Paul Lilly,17,0,17
+Brown,214,County Judge,,,Steve Fryar (W),6,1,5
+Brown,214,Ballots Cast,,,,23,1,22
+Brown,214 - ISD,Straight Party,,REP,,213,48,165
+Brown,214 - ISD,Straight Party,,DEM,,18,4,14
+Brown,214 - ISD,Straight Party,,LIB,,1,0,1
+Brown,214 - ISD,U.S. Senate,,REP,Ted Cruz,327,71,256
+Brown,214 - ISD,U.S. Senate,,DEM,Beto O'Rourke,50,16,34
+Brown,214 - ISD,U.S. Senate,,LIB,Neal M. Dikeman,3,2,1
+Brown,214 - ISD,U.S. House,11,REP,Mike Conaway,341,81,260
+Brown,214 - ISD,U.S. House,11,DEM,Jennie Lou Leeder,47,13,34
+Brown,214 - ISD,U.S. House,11,LIB,Rhett Rosenquest Smith,4,1,3
+Brown,214 - ISD,Governor,,REP,Greg Abbott,346,85,261
+Brown,214 - ISD,Governor,,DEM,Lupe Valdez,39,8,31
+Brown,214 - ISD,Governor,,LIB,Mark Jay Tippetts,4,1,3
+Brown,214 - ISD,Lieutenant Governor,,REP,Dan Patrick,334,77,257
+Brown,214 - ISD,Lieutenant Governor,,DEM,Mike Collier,53,15,38
 Brown,214 - ISD,Lieutenant Governor,,LIB,Kerry Douglas McKennon,4,2,2
-Brown,214 - ISD,Attorney General,,REP,Ken Paxton,323,249,74
-Brown,214 - ISD,Attorney General,,DEM,Justin Nelson,56,39,17
-Brown,214 - ISD,Attorney General,,LIB,Michael Ray Harris,9,8,1
-Brown,214 - ISD,Comptroller of Public Accounts,,REP,Glenn Hegar,329,252,77
-Brown,214 - ISD,Comptroller of Public Accounts,,DEM,Joi Chevalier,47,36,11
-Brown,214 - ISD,Comptroller of Public Accounts,,LIB,Ben Sanders,8,6,2
-Brown,214 - ISD,Commissioner of the General Land Office,,REP,George P. Bush,329,249,80
-Brown,214 - ISD,Commissioner of the General Land Office,,DEM,Miguel Suazo,50,39,11
-Brown,214 - ISD,Commissioner of the General Land Office,,LIB,Matt Piña,7,7,0
-Brown,214 - ISD,Commissioner of Agriculture,,REP,Sid Miller,329,252,77
-Brown,214 - ISD,Commissioner of Agriculture,,DEM,Kim Olson,53,40,13
-Brown,214 - ISD,Commissioner of Agriculture,,LIB,Richard Carpenter,7,5,2
-Brown,214 - ISD,Railroad Commissioner,,REP,Christi Craddick,333,255,78
-Brown,214 - ISD,Railroad Commissioner,,DEM,Roman McAllen,47,34,13
-Brown,214 - ISD,Railroad Commissioner,,LIB,Mike Wright,8,7,1
-Brown,214 - ISD,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,332,257,75
-Brown,214 - ISD,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,53,35,18
-Brown,214 - ISD,"Justice, Supreme Court, Place 4",,REP,John Devine,333,256,77
-Brown,214 - ISD,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,51,36,15
-Brown,214 - ISD,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,334,256,78
-Brown,214 - ISD,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,52,37,15
-Brown,214 - ISD,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,330,252,78
-Brown,214 - ISD,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,49,35,14
-Brown,214 - ISD,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,7,7,0
-Brown,214 - ISD,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,336,256,80
-Brown,214 - ISD,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,50,37,13
-Brown,214 - ISD,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,341,260,81
-Brown,214 - ISD,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,28,20,8
-Brown,214 - ISD,State Representative,60,REP,Mike Lang,353,270,83
-Brown,214 - ISD,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,346,266,80
-Brown,214 - ISD,County Judge,,REP,Paul Lilly,280,205,75
-Brown,214 - ISD,County Judge,,,Steve Fryar (W),80,70,10
+Brown,214 - ISD,Attorney General,,REP,Ken Paxton,323,74,249
+Brown,214 - ISD,Attorney General,,DEM,Justin Nelson,56,17,39
+Brown,214 - ISD,Attorney General,,LIB,Michael Ray Harris,9,1,8
+Brown,214 - ISD,Comptroller of Public Accounts,,REP,Glenn Hegar,329,77,252
+Brown,214 - ISD,Comptroller of Public Accounts,,DEM,Joi Chevalier,47,11,36
+Brown,214 - ISD,Comptroller of Public Accounts,,LIB,Ben Sanders,8,2,6
+Brown,214 - ISD,Commissioner of the General Land Office,,REP,George P. Bush,329,80,249
+Brown,214 - ISD,Commissioner of the General Land Office,,DEM,Miguel Suazo,50,11,39
+Brown,214 - ISD,Commissioner of the General Land Office,,LIB,Matt Piña,7,0,7
+Brown,214 - ISD,Commissioner of Agriculture,,REP,Sid Miller,329,77,252
+Brown,214 - ISD,Commissioner of Agriculture,,DEM,Kim Olson,53,13,40
+Brown,214 - ISD,Commissioner of Agriculture,,LIB,Richard Carpenter,7,2,5
+Brown,214 - ISD,Railroad Commissioner,,REP,Christi Craddick,333,78,255
+Brown,214 - ISD,Railroad Commissioner,,DEM,Roman McAllen,47,13,34
+Brown,214 - ISD,Railroad Commissioner,,LIB,Mike Wright,8,1,7
+Brown,214 - ISD,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,332,75,257
+Brown,214 - ISD,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,53,18,35
+Brown,214 - ISD,"Justice, Supreme Court, Place 4",,REP,John Devine,333,77,256
+Brown,214 - ISD,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,51,15,36
+Brown,214 - ISD,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,334,78,256
+Brown,214 - ISD,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,52,15,37
+Brown,214 - ISD,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,330,78,252
+Brown,214 - ISD,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,49,14,35
+Brown,214 - ISD,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,7,0,7
+Brown,214 - ISD,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,336,80,256
+Brown,214 - ISD,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,50,13,37
+Brown,214 - ISD,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,341,81,260
+Brown,214 - ISD,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,28,8,20
+Brown,214 - ISD,State Representative,60,REP,Mike Lang,353,83,270
+Brown,214 - ISD,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,346,80,266
+Brown,214 - ISD,County Judge,,REP,Paul Lilly,280,75,205
+Brown,214 - ISD,County Judge,,,Steve Fryar (W),80,10,70
 Brown,214 - ISD,Ballots Cast,,,,393,,
-Brown,215,Straight Party,,REP,,88,60,28
-Brown,215,Straight Party,,DEM,,5,4,1
+Brown,215,Straight Party,,REP,,88,28,60
+Brown,215,Straight Party,,DEM,,5,1,4
 Brown,215,Straight Party,,LIB,,0,0,0
-Brown,215,U.S. Senate,,REP,Ted Cruz,153,97,56
-Brown,215,U.S. Senate,,DEM,Beto O'Rourke,8,6,2
-Brown,215,U.S. Senate,,LIB,Neal M. Dikeman,1,0,1
-Brown,215,U.S. House,11,REP,Mike Conaway,156,98,58
-Brown,215,U.S. House,11,DEM,Jennie Lou Leeder,8,6,2
-Brown,215,U.S. House,11,LIB,Rhett Rosenquest Smith,1,1,0
-Brown,215,Governor,,REP,Greg Abbott,156,98,58
-Brown,215,Governor,,DEM,Lupe Valdez,8,6,2
-Brown,215,Governor,,LIB,Mark Jay Tippetts,1,1,0
-Brown,215,Lieutenant Governor,,REP,Dan Patrick,151,97,54
-Brown,215,Lieutenant Governor,,DEM,Mike Collier,12,7,5
-Brown,215,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,0,1
-Brown,215,Attorney General,,REP,Ken Paxton,155,97,58
-Brown,215,Attorney General,,DEM,Justin Nelson,9,7,2
-Brown,215,Attorney General,,LIB,Michael Ray Harris,1,1,0
-Brown,215,Comptroller of Public Accounts,,REP,Glenn Hegar,155,97,58
-Brown,215,Comptroller of Public Accounts,,DEM,Joi Chevalier,9,7,2
-Brown,215,Comptroller of Public Accounts,,LIB,Ben Sanders,1,1,0
-Brown,215,Commissioner of the General Land Office,,REP,George P. Bush,148,90,58
-Brown,215,Commissioner of the General Land Office,,DEM,Miguel Suazo,10,8,2
-Brown,215,Commissioner of the General Land Office,,LIB,Matt Piña,7,6,1
-Brown,215,Commissioner of Agriculture,,REP,Sid Miller,153,95,58
-Brown,215,Commissioner of Agriculture,,DEM,Kim Olson,10,7,3
-Brown,215,Commissioner of Agriculture,,LIB,Richard Carpenter,2,2,0
-Brown,215,Railroad Commissioner,,REP,Christi Craddick,155,97,58
-Brown,215,Railroad Commissioner,,DEM,Roman McAllen,8,6,2
-Brown,215,Railroad Commissioner,,LIB,Mike Wright,2,2,0
-Brown,215,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,157,98,59
-Brown,215,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,9,7,2
-Brown,215,"Justice, Supreme Court, Place 4",,REP,John Devine,157,98,59
-Brown,215,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,7,6,1
-Brown,215,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,156,98,58
-Brown,215,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,10,7,3
-Brown,215,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,158,99,59
-Brown,215,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,7,6,1
-Brown,215,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,1,0,1
-Brown,215,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,156,97,59
-Brown,215,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,8,6,2
-Brown,215,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,156,96,60
-Brown,215,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,3,3,0
-Brown,215,State Representative,60,REP,Mike Lang,153,94,59
-Brown,215,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,151,95,56
-Brown,215,County Judge,,REP,Paul Lilly,129,84,45
+Brown,215,U.S. Senate,,REP,Ted Cruz,153,56,97
+Brown,215,U.S. Senate,,DEM,Beto O'Rourke,8,2,6
+Brown,215,U.S. Senate,,LIB,Neal M. Dikeman,1,1,0
+Brown,215,U.S. House,11,REP,Mike Conaway,156,58,98
+Brown,215,U.S. House,11,DEM,Jennie Lou Leeder,8,2,6
+Brown,215,U.S. House,11,LIB,Rhett Rosenquest Smith,1,0,1
+Brown,215,Governor,,REP,Greg Abbott,156,58,98
+Brown,215,Governor,,DEM,Lupe Valdez,8,2,6
+Brown,215,Governor,,LIB,Mark Jay Tippetts,1,0,1
+Brown,215,Lieutenant Governor,,REP,Dan Patrick,151,54,97
+Brown,215,Lieutenant Governor,,DEM,Mike Collier,12,5,7
+Brown,215,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,1,0
+Brown,215,Attorney General,,REP,Ken Paxton,155,58,97
+Brown,215,Attorney General,,DEM,Justin Nelson,9,2,7
+Brown,215,Attorney General,,LIB,Michael Ray Harris,1,0,1
+Brown,215,Comptroller of Public Accounts,,REP,Glenn Hegar,155,58,97
+Brown,215,Comptroller of Public Accounts,,DEM,Joi Chevalier,9,2,7
+Brown,215,Comptroller of Public Accounts,,LIB,Ben Sanders,1,0,1
+Brown,215,Commissioner of the General Land Office,,REP,George P. Bush,148,58,90
+Brown,215,Commissioner of the General Land Office,,DEM,Miguel Suazo,10,2,8
+Brown,215,Commissioner of the General Land Office,,LIB,Matt Piña,7,1,6
+Brown,215,Commissioner of Agriculture,,REP,Sid Miller,153,58,95
+Brown,215,Commissioner of Agriculture,,DEM,Kim Olson,10,3,7
+Brown,215,Commissioner of Agriculture,,LIB,Richard Carpenter,2,0,2
+Brown,215,Railroad Commissioner,,REP,Christi Craddick,155,58,97
+Brown,215,Railroad Commissioner,,DEM,Roman McAllen,8,2,6
+Brown,215,Railroad Commissioner,,LIB,Mike Wright,2,0,2
+Brown,215,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,157,59,98
+Brown,215,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,9,2,7
+Brown,215,"Justice, Supreme Court, Place 4",,REP,John Devine,157,59,98
+Brown,215,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,7,1,6
+Brown,215,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,156,58,98
+Brown,215,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,10,3,7
+Brown,215,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,158,59,99
+Brown,215,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,7,1,6
+Brown,215,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,1,1,0
+Brown,215,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,156,59,97
+Brown,215,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,8,2,6
+Brown,215,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,156,60,96
+Brown,215,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,3,0,3
+Brown,215,State Representative,60,REP,Mike Lang,153,59,94
+Brown,215,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,151,56,95
+Brown,215,County Judge,,REP,Paul Lilly,129,45,84
 Brown,215,County Judge,,,Steve Fryar (W),28,14,14
-Brown,215,Ballots Cast,,,,166,105,61
+Brown,215,Ballots Cast,,,,166,61,105
 Brown,215 - ISD,Straight Party,,REP,,0,0,0
 Brown,215 - ISD,Straight Party,,DEM,,0,0,0
 Brown,215 - ISD,Straight Party,,LIB,,0,0,0
@@ -575,530 +575,530 @@ Brown,215 - ISD,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey
 Brown,215 - ISD,County Judge,,REP,Paul Lilly,0,0,0
 Brown,215 - ISD,County Judge,,,Steve Fryar (W),0,0,0
 Brown,215 - ISD,Ballots Cast,,,,0,0,0
-Brown,303,Straight Party,,REP,,295,219,76
-Brown,303,Straight Party,,DEM,,43,28,15
-Brown,303,Straight Party,,LIB,,2,0,2
-Brown,303,U.S. Senate,,REP,Ted Cruz,494,356,138
-Brown,303,U.S. Senate,,DEM,Beto O'Rourke,112,69,43
+Brown,303,Straight Party,,REP,,295,76,219
+Brown,303,Straight Party,,DEM,,43,15,28
+Brown,303,Straight Party,,LIB,,2,2,0
+Brown,303,U.S. Senate,,REP,Ted Cruz,494,138,356
+Brown,303,U.S. Senate,,DEM,Beto O'Rourke,112,43,69
 Brown,303,U.S. Senate,,LIB,Neal M. Dikeman,6,3,3
-Brown,303,U.S. House,11,REP,Mike Conaway,503,362,141
-Brown,303,U.S. House,11,DEM,Jennie Lou Leeder,97,61,36
-Brown,303,U.S. House,11,LIB,Rhett Rosenquest Smith,10,6,4
-Brown,303,Governor,,REP,Greg Abbott,507,363,144
-Brown,303,Governor,,DEM,Lupe Valdez,100,64,36
-Brown,303,Governor,,LIB,Mark Jay Tippetts,7,5,2
-Brown,303,Lieutenant Governor,,REP,Dan Patrick,486,349,137
-Brown,303,Lieutenant Governor,,DEM,Mike Collier,110,72,38
+Brown,303,U.S. House,11,REP,Mike Conaway,503,141,362
+Brown,303,U.S. House,11,DEM,Jennie Lou Leeder,97,36,61
+Brown,303,U.S. House,11,LIB,Rhett Rosenquest Smith,10,4,6
+Brown,303,Governor,,REP,Greg Abbott,507,144,363
+Brown,303,Governor,,DEM,Lupe Valdez,100,36,64
+Brown,303,Governor,,LIB,Mark Jay Tippetts,7,2,5
+Brown,303,Lieutenant Governor,,REP,Dan Patrick,486,137,349
+Brown,303,Lieutenant Governor,,DEM,Mike Collier,110,38,72
 Brown,303,Lieutenant Governor,,LIB,Kerry Douglas McKennon,14,7,7
-Brown,303,Attorney General,,REP,Ken Paxton,486,350,136
-Brown,303,Attorney General,,DEM,Justin Nelson,110,68,42
-Brown,303,Attorney General,,LIB,Michael Ray Harris,12,9,3
-Brown,303,Comptroller of Public Accounts,,REP,Glenn Hegar,496,359,137
-Brown,303,Comptroller of Public Accounts,,DEM,Joi Chevalier,94,59,35
-Brown,303,Comptroller of Public Accounts,,LIB,Ben Sanders,15,9,6
-Brown,303,Commissioner of the General Land Office,,REP,George P. Bush,480,341,139
-Brown,303,Commissioner of the General Land Office,,DEM,Miguel Suazo,94,63,31
-Brown,303,Commissioner of the General Land Office,,LIB,Matt Piña,33,23,10
-Brown,303,Commissioner of Agriculture,,REP,Sid Miller,492,353,139
-Brown,303,Commissioner of Agriculture,,DEM,Kim Olson,102,67,35
-Brown,303,Commissioner of Agriculture,,LIB,Richard Carpenter,15,7,8
-Brown,303,Railroad Commissioner,,REP,Christi Craddick,495,354,141
-Brown,303,Railroad Commissioner,,DEM,Roman McAllen,93,61,32
-Brown,303,Railroad Commissioner,,LIB,Mike Wright,20,12,8
-Brown,303,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,498,359,139
-Brown,303,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,108,67,41
-Brown,303,"Justice, Supreme Court, Place 4",,REP,John Devine,508,365,143
-Brown,303,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,99,62,37
-Brown,303,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,501,362,139
-Brown,303,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,105,64,41
-Brown,303,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,493,358,135
-Brown,303,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,97,61,36
-Brown,303,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,16,7,9
-Brown,303,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,505,364,141
-Brown,303,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,102,62,40
-Brown,303,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,516,371,145
-Brown,303,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,59,33,26
-Brown,303,State Representative,60,REP,Mike Lang,529,370,159
-Brown,303,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,533,374,159
-Brown,303,County Judge,,REP,Paul Lilly,401,283,118
-Brown,303,County Judge,,,Steve Fryar (W),153,108,45
+Brown,303,Attorney General,,REP,Ken Paxton,486,136,350
+Brown,303,Attorney General,,DEM,Justin Nelson,110,42,68
+Brown,303,Attorney General,,LIB,Michael Ray Harris,12,3,9
+Brown,303,Comptroller of Public Accounts,,REP,Glenn Hegar,496,137,359
+Brown,303,Comptroller of Public Accounts,,DEM,Joi Chevalier,94,35,59
+Brown,303,Comptroller of Public Accounts,,LIB,Ben Sanders,15,6,9
+Brown,303,Commissioner of the General Land Office,,REP,George P. Bush,480,139,341
+Brown,303,Commissioner of the General Land Office,,DEM,Miguel Suazo,94,31,63
+Brown,303,Commissioner of the General Land Office,,LIB,Matt Piña,33,10,23
+Brown,303,Commissioner of Agriculture,,REP,Sid Miller,492,139,353
+Brown,303,Commissioner of Agriculture,,DEM,Kim Olson,102,35,67
+Brown,303,Commissioner of Agriculture,,LIB,Richard Carpenter,15,8,7
+Brown,303,Railroad Commissioner,,REP,Christi Craddick,495,141,354
+Brown,303,Railroad Commissioner,,DEM,Roman McAllen,93,32,61
+Brown,303,Railroad Commissioner,,LIB,Mike Wright,20,8,12
+Brown,303,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,498,139,359
+Brown,303,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,108,41,67
+Brown,303,"Justice, Supreme Court, Place 4",,REP,John Devine,508,143,365
+Brown,303,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,99,37,62
+Brown,303,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,501,139,362
+Brown,303,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,105,41,64
+Brown,303,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,493,135,358
+Brown,303,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,97,36,61
+Brown,303,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,16,9,7
+Brown,303,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,505,141,364
+Brown,303,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,102,40,62
+Brown,303,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,516,145,371
+Brown,303,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,59,26,33
+Brown,303,State Representative,60,REP,Mike Lang,529,159,370
+Brown,303,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,533,159,374
+Brown,303,County Judge,,REP,Paul Lilly,401,118,283
+Brown,303,County Judge,,,Steve Fryar (W),153,45,108
 Brown,303,Ballots Cast,,,,619,,
-Brown,306,Straight Party,,REP,,562,429,133
-Brown,306,Straight Party,,DEM,,55,44,11
-Brown,306,Straight Party,,LIB,,5,4,1
-Brown,306,U.S. Senate,,REP,Ted Cruz,920,671,249
-Brown,306,U.S. Senate,,DEM,Beto O'Rourke,103,77,26
-Brown,306,U.S. Senate,,LIB,Neal M. Dikeman,5,4,1
-Brown,306,U.S. House,11,REP,Mike Conaway,916,667,249
-Brown,306,U.S. House,11,DEM,Jennie Lou Leeder,97,72,25
-Brown,306,U.S. House,11,LIB,Rhett Rosenquest Smith,14,9,5
-Brown,306,Governor,,REP,Greg Abbott,923,673,250
-Brown,306,Governor,,DEM,Lupe Valdez,95,72,23
-Brown,306,Governor,,LIB,Mark Jay Tippetts,14,9,5
-Brown,306,Lieutenant Governor,,REP,Dan Patrick,854,630,224
-Brown,306,Lieutenant Governor,,DEM,Mike Collier,145,104,41
-Brown,306,Lieutenant Governor,,LIB,Kerry Douglas McKennon,25,15,10
-Brown,306,Attorney General,,REP,Ken Paxton,895,659,236
-Brown,306,Attorney General,,DEM,Justin Nelson,116,85,31
-Brown,306,Attorney General,,LIB,Michael Ray Harris,14,6,8
-Brown,306,Comptroller of Public Accounts,,REP,Glenn Hegar,911,672,239
-Brown,306,Comptroller of Public Accounts,,DEM,Joi Chevalier,92,69,23
-Brown,306,Comptroller of Public Accounts,,LIB,Ben Sanders,21,10,11
-Brown,306,Commissioner of the General Land Office,,REP,George P. Bush,898,660,238
-Brown,306,Commissioner of the General Land Office,,DEM,Miguel Suazo,92,66,26
-Brown,306,Commissioner of the General Land Office,,LIB,Matt Piña,38,27,11
-Brown,306,Commissioner of Agriculture,,REP,Sid Miller,899,658,241
-Brown,306,Commissioner of Agriculture,,DEM,Kim Olson,107,81,26
-Brown,306,Commissioner of Agriculture,,LIB,Richard Carpenter,19,13,6
-Brown,306,Railroad Commissioner,,REP,Christi Craddick,911,672,239
-Brown,306,Railroad Commissioner,,DEM,Roman McAllen,92,65,27
-Brown,306,Railroad Commissioner,,LIB,Mike Wright,20,13,7
-Brown,306,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,919,674,245
-Brown,306,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,101,74,27
-Brown,306,"Justice, Supreme Court, Place 4",,REP,John Devine,922,673,249
-Brown,306,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,95,72,23
-Brown,306,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,920,675,245
-Brown,306,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,98,71,27
-Brown,306,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,913,671,242
-Brown,306,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,89,66,23
-Brown,306,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,17,12,5
-Brown,306,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,922,675,247
-Brown,306,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,92,69,23
-Brown,306,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,923,677,246
-Brown,306,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,47,32,15
-Brown,306,State Representative,60,REP,Mike Lang,941,683,258
-Brown,306,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,939,681,258
-Brown,306,County Judge,,REP,Paul Lilly,694,504,190
-Brown,306,County Judge,,,Steve Fryar (W),263,196,67
+Brown,306,Straight Party,,REP,,562,133,429
+Brown,306,Straight Party,,DEM,,55,11,44
+Brown,306,Straight Party,,LIB,,5,1,4
+Brown,306,U.S. Senate,,REP,Ted Cruz,920,249,671
+Brown,306,U.S. Senate,,DEM,Beto O'Rourke,103,26,77
+Brown,306,U.S. Senate,,LIB,Neal M. Dikeman,5,1,4
+Brown,306,U.S. House,11,REP,Mike Conaway,916,249,667
+Brown,306,U.S. House,11,DEM,Jennie Lou Leeder,97,25,72
+Brown,306,U.S. House,11,LIB,Rhett Rosenquest Smith,14,5,9
+Brown,306,Governor,,REP,Greg Abbott,923,250,673
+Brown,306,Governor,,DEM,Lupe Valdez,95,23,72
+Brown,306,Governor,,LIB,Mark Jay Tippetts,14,5,9
+Brown,306,Lieutenant Governor,,REP,Dan Patrick,854,224,630
+Brown,306,Lieutenant Governor,,DEM,Mike Collier,145,41,104
+Brown,306,Lieutenant Governor,,LIB,Kerry Douglas McKennon,25,10,15
+Brown,306,Attorney General,,REP,Ken Paxton,895,236,659
+Brown,306,Attorney General,,DEM,Justin Nelson,116,31,85
+Brown,306,Attorney General,,LIB,Michael Ray Harris,14,8,6
+Brown,306,Comptroller of Public Accounts,,REP,Glenn Hegar,911,239,672
+Brown,306,Comptroller of Public Accounts,,DEM,Joi Chevalier,92,23,69
+Brown,306,Comptroller of Public Accounts,,LIB,Ben Sanders,21,11,10
+Brown,306,Commissioner of the General Land Office,,REP,George P. Bush,898,238,660
+Brown,306,Commissioner of the General Land Office,,DEM,Miguel Suazo,92,26,66
+Brown,306,Commissioner of the General Land Office,,LIB,Matt Piña,38,11,27
+Brown,306,Commissioner of Agriculture,,REP,Sid Miller,899,241,658
+Brown,306,Commissioner of Agriculture,,DEM,Kim Olson,107,26,81
+Brown,306,Commissioner of Agriculture,,LIB,Richard Carpenter,19,6,13
+Brown,306,Railroad Commissioner,,REP,Christi Craddick,911,239,672
+Brown,306,Railroad Commissioner,,DEM,Roman McAllen,92,27,65
+Brown,306,Railroad Commissioner,,LIB,Mike Wright,20,7,13
+Brown,306,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,919,245,674
+Brown,306,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,101,27,74
+Brown,306,"Justice, Supreme Court, Place 4",,REP,John Devine,922,249,673
+Brown,306,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,95,23,72
+Brown,306,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,920,245,675
+Brown,306,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,98,27,71
+Brown,306,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,913,242,671
+Brown,306,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,89,23,66
+Brown,306,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,17,5,12
+Brown,306,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,922,247,675
+Brown,306,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,92,23,69
+Brown,306,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,923,246,677
+Brown,306,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,47,15,32
+Brown,306,State Representative,60,REP,Mike Lang,941,258,683
+Brown,306,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,939,258,681
+Brown,306,County Judge,,REP,Paul Lilly,694,190,504
+Brown,306,County Judge,,,Steve Fryar (W),263,67,196
 Brown,306,Ballots Cast,,,,1040,,
-Brown,307,Straight Party,,REP,,193,105,88
-Brown,307,Straight Party,,DEM,,17,8,9
+Brown,307,Straight Party,,REP,,193,88,105
+Brown,307,Straight Party,,DEM,,17,9,8
 Brown,307,Straight Party,,LIB,,0,0,0
-Brown,307,U.S. Senate,,REP,Ted Cruz,362,182,180
-Brown,307,U.S. Senate,,DEM,Beto O'Rourke,46,29,17
-Brown,307,U.S. Senate,,LIB,Neal M. Dikeman,1,0,1
+Brown,307,U.S. Senate,,REP,Ted Cruz,362,180,182
+Brown,307,U.S. Senate,,DEM,Beto O'Rourke,46,17,29
+Brown,307,U.S. Senate,,LIB,Neal M. Dikeman,1,1,0
 Brown,307,U.S. House,11,REP,Mike Conaway,362,181,181
-Brown,307,U.S. House,11,DEM,Jennie Lou Leeder,40,24,16
-Brown,307,U.S. House,11,LIB,Rhett Rosenquest Smith,8,5,3
-Brown,307,Governor,,REP,Greg Abbott,373,186,187
-Brown,307,Governor,,DEM,Lupe Valdez,34,19,15
-Brown,307,Governor,,LIB,Mark Jay Tippetts,6,5,1
-Brown,307,Lieutenant Governor,,REP,Dan Patrick,348,177,171
-Brown,307,Lieutenant Governor,,DEM,Mike Collier,50,26,24
+Brown,307,U.S. House,11,DEM,Jennie Lou Leeder,40,16,24
+Brown,307,U.S. House,11,LIB,Rhett Rosenquest Smith,8,3,5
+Brown,307,Governor,,REP,Greg Abbott,373,187,186
+Brown,307,Governor,,DEM,Lupe Valdez,34,15,19
+Brown,307,Governor,,LIB,Mark Jay Tippetts,6,1,5
+Brown,307,Lieutenant Governor,,REP,Dan Patrick,348,171,177
+Brown,307,Lieutenant Governor,,DEM,Mike Collier,50,24,26
 Brown,307,Lieutenant Governor,,LIB,Kerry Douglas McKennon,12,6,6
-Brown,307,Attorney General,,REP,Ken Paxton,359,178,181
-Brown,307,Attorney General,,DEM,Justin Nelson,47,27,20
-Brown,307,Attorney General,,LIB,Michael Ray Harris,4,3,1
-Brown,307,Comptroller of Public Accounts,,REP,Glenn Hegar,359,182,177
-Brown,307,Comptroller of Public Accounts,,DEM,Joi Chevalier,37,20,17
-Brown,307,Comptroller of Public Accounts,,LIB,Ben Sanders,10,6,4
-Brown,307,Commissioner of the General Land Office,,REP,George P. Bush,344,173,171
-Brown,307,Commissioner of the General Land Office,,DEM,Miguel Suazo,40,22,18
-Brown,307,Commissioner of the General Land Office,,LIB,Matt Piña,22,12,10
-Brown,307,Commissioner of Agriculture,,REP,Sid Miller,365,184,181
-Brown,307,Commissioner of Agriculture,,DEM,Kim Olson,42,23,19
-Brown,307,Commissioner of Agriculture,,LIB,Richard Carpenter,5,2,3
-Brown,307,Railroad Commissioner,,REP,Christi Craddick,362,178,184
-Brown,307,Railroad Commissioner,,DEM,Roman McAllen,39,23,16
-Brown,307,Railroad Commissioner,,LIB,Mike Wright,9,7,2
-Brown,307,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,369,186,183
-Brown,307,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,41,23,18
-Brown,307,"Justice, Supreme Court, Place 4",,REP,John Devine,369,184,185
-Brown,307,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,40,24,16
-Brown,307,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,368,186,182
-Brown,307,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,41,22,19
-Brown,307,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,365,186,179
-Brown,307,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,38,20,18
-Brown,307,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,8,3,5
-Brown,307,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,370,187,183
-Brown,307,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,36,21,15
-Brown,307,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,369,186,183
-Brown,307,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,25,15,10
-Brown,307,State Representative,60,REP,Mike Lang,381,192,189
-Brown,307,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,380,193,187
-Brown,307,County Judge,,REP,Paul Lilly,286,149,137
-Brown,307,County Judge,,,Steve Fryar (W),100,48,52
+Brown,307,Attorney General,,REP,Ken Paxton,359,181,178
+Brown,307,Attorney General,,DEM,Justin Nelson,47,20,27
+Brown,307,Attorney General,,LIB,Michael Ray Harris,4,1,3
+Brown,307,Comptroller of Public Accounts,,REP,Glenn Hegar,359,177,182
+Brown,307,Comptroller of Public Accounts,,DEM,Joi Chevalier,37,17,20
+Brown,307,Comptroller of Public Accounts,,LIB,Ben Sanders,10,4,6
+Brown,307,Commissioner of the General Land Office,,REP,George P. Bush,344,171,173
+Brown,307,Commissioner of the General Land Office,,DEM,Miguel Suazo,40,18,22
+Brown,307,Commissioner of the General Land Office,,LIB,Matt Piña,22,10,12
+Brown,307,Commissioner of Agriculture,,REP,Sid Miller,365,181,184
+Brown,307,Commissioner of Agriculture,,DEM,Kim Olson,42,19,23
+Brown,307,Commissioner of Agriculture,,LIB,Richard Carpenter,5,3,2
+Brown,307,Railroad Commissioner,,REP,Christi Craddick,362,184,178
+Brown,307,Railroad Commissioner,,DEM,Roman McAllen,39,16,23
+Brown,307,Railroad Commissioner,,LIB,Mike Wright,9,2,7
+Brown,307,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,369,183,186
+Brown,307,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,41,18,23
+Brown,307,"Justice, Supreme Court, Place 4",,REP,John Devine,369,185,184
+Brown,307,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,40,16,24
+Brown,307,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,368,182,186
+Brown,307,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,41,19,22
+Brown,307,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,365,179,186
+Brown,307,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,38,18,20
+Brown,307,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,8,5,3
+Brown,307,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,370,183,187
+Brown,307,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,36,15,21
+Brown,307,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,369,183,186
+Brown,307,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,25,10,15
+Brown,307,State Representative,60,REP,Mike Lang,381,189,192
+Brown,307,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,380,187,193
+Brown,307,County Judge,,REP,Paul Lilly,286,137,149
+Brown,307,County Judge,,,Steve Fryar (W),100,52,48
 Brown,307,Ballots Cast,,,,418,,
 Brown,307 - ISD,Straight Party,,REP,,2,1,1
 Brown,307 - ISD,Straight Party,,DEM,,0,0,0
 Brown,307 - ISD,Straight Party,,LIB,,0,0,0
-Brown,307 - ISD,U.S. Senate,,REP,Ted Cruz,3,2,1
+Brown,307 - ISD,U.S. Senate,,REP,Ted Cruz,3,1,2
 Brown,307 - ISD,U.S. Senate,,DEM,Beto O'Rourke,0,0,0
 Brown,307 - ISD,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0
-Brown,307 - ISD,U.S. House,11,REP,Mike Conaway,3,2,1
+Brown,307 - ISD,U.S. House,11,REP,Mike Conaway,3,1,2
 Brown,307 - ISD,U.S. House,11,DEM,Jennie Lou Leeder,0,0,0
 Brown,307 - ISD,U.S. House,11,LIB,Rhett Rosenquest Smith,0,0,0
-Brown,307 - ISD,Governor,,REP,Greg Abbott,3,2,1
+Brown,307 - ISD,Governor,,REP,Greg Abbott,3,1,2
 Brown,307 - ISD,Governor,,DEM,Lupe Valdez,0,0,0
 Brown,307 - ISD,Governor,,LIB,Mark Jay Tippetts,0,0,0
-Brown,307 - ISD,Lieutenant Governor,,REP,Dan Patrick,3,2,1
+Brown,307 - ISD,Lieutenant Governor,,REP,Dan Patrick,3,1,2
 Brown,307 - ISD,Lieutenant Governor,,DEM,Mike Collier,0,0,0
 Brown,307 - ISD,Lieutenant Governor,,LIB,Kerry Douglas McKennon,0,0,0
-Brown,307 - ISD,Attorney General,,REP,Ken Paxton,3,2,1
+Brown,307 - ISD,Attorney General,,REP,Ken Paxton,3,1,2
 Brown,307 - ISD,Attorney General,,DEM,Justin Nelson,0,0,0
 Brown,307 - ISD,Attorney General,,LIB,Michael Ray Harris,0,0,0
-Brown,307 - ISD,Comptroller of Public Accounts,,REP,Glenn Hegar,3,2,1
+Brown,307 - ISD,Comptroller of Public Accounts,,REP,Glenn Hegar,3,1,2
 Brown,307 - ISD,Comptroller of Public Accounts,,DEM,Joi Chevalier,0,0,0
 Brown,307 - ISD,Comptroller of Public Accounts,,LIB,Ben Sanders,0,0,0
-Brown,307 - ISD,Commissioner of the General Land Office,,REP,George P. Bush,3,2,1
+Brown,307 - ISD,Commissioner of the General Land Office,,REP,George P. Bush,3,1,2
 Brown,307 - ISD,Commissioner of the General Land Office,,DEM,Miguel Suazo,0,0,0
 Brown,307 - ISD,Commissioner of the General Land Office,,LIB,Matt Piña,0,0,0
-Brown,307 - ISD,Commissioner of Agriculture,,REP,Sid Miller,3,2,1
+Brown,307 - ISD,Commissioner of Agriculture,,REP,Sid Miller,3,1,2
 Brown,307 - ISD,Commissioner of Agriculture,,DEM,Kim Olson,0,0,0
 Brown,307 - ISD,Commissioner of Agriculture,,LIB,Richard Carpenter,0,0,0
-Brown,307 - ISD,Railroad Commissioner,,REP,Christi Craddick,3,2,1
+Brown,307 - ISD,Railroad Commissioner,,REP,Christi Craddick,3,1,2
 Brown,307 - ISD,Railroad Commissioner,,DEM,Roman McAllen,0,0,0
 Brown,307 - ISD,Railroad Commissioner,,LIB,Mike Wright,0,0,0
-Brown,307 - ISD,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,3,2,1
+Brown,307 - ISD,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,3,1,2
 Brown,307 - ISD,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,0,0,0
-Brown,307 - ISD,"Justice, Supreme Court, Place 4",,REP,John Devine,3,2,1
+Brown,307 - ISD,"Justice, Supreme Court, Place 4",,REP,John Devine,3,1,2
 Brown,307 - ISD,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,0,0,0
-Brown,307 - ISD,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,3,2,1
+Brown,307 - ISD,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,3,1,2
 Brown,307 - ISD,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,0,0,0
-Brown,307 - ISD,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,3,2,1
+Brown,307 - ISD,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,3,1,2
 Brown,307 - ISD,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,0,0,0
 Brown,307 - ISD,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,0,0,0
-Brown,307 - ISD,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,3,2,1
+Brown,307 - ISD,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,3,1,2
 Brown,307 - ISD,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,0,0,0
-Brown,307 - ISD,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,3,2,1
+Brown,307 - ISD,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,3,1,2
 Brown,307 - ISD,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,0,0,0
-Brown,307 - ISD,State Representative,60,REP,Mike Lang,3,2,1
-Brown,307 - ISD,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,3,2,1
+Brown,307 - ISD,State Representative,60,REP,Mike Lang,3,1,2
+Brown,307 - ISD,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,3,1,2
 Brown,307 - ISD,County Judge,,REP,Paul Lilly,2,1,1
-Brown,307 - ISD,County Judge,,,Steve Fryar (W),1,1,0
-Brown,307 - ISD,Ballots Cast,,,,3,2,1
-Brown,308,Straight Party,,REP,,185,95,90
-Brown,308,Straight Party,,DEM,,11,9,2
+Brown,307 - ISD,County Judge,,,Steve Fryar (W),1,0,1
+Brown,307 - ISD,Ballots Cast,,,,3,1,2
+Brown,308,Straight Party,,REP,,185,90,95
+Brown,308,Straight Party,,DEM,,11,2,9
 Brown,308,Straight Party,,LIB,,2,1,1
-Brown,308,U.S. Senate,,REP,Ted Cruz,311,155,156
-Brown,308,U.S. Senate,,DEM,Beto O'Rourke,22,14,8
-Brown,308,U.S. Senate,,LIB,Neal M. Dikeman,3,2,1
-Brown,308,U.S. House,11,REP,Mike Conaway,313,155,158
-Brown,308,U.S. House,11,DEM,Jennie Lou Leeder,19,12,7
-Brown,308,U.S. House,11,LIB,Rhett Rosenquest Smith,5,3,2
-Brown,308,Governor,,REP,Greg Abbott,318,158,160
-Brown,308,Governor,,DEM,Lupe Valdez,18,12,6
+Brown,308,U.S. Senate,,REP,Ted Cruz,311,156,155
+Brown,308,U.S. Senate,,DEM,Beto O'Rourke,22,8,14
+Brown,308,U.S. Senate,,LIB,Neal M. Dikeman,3,1,2
+Brown,308,U.S. House,11,REP,Mike Conaway,313,158,155
+Brown,308,U.S. House,11,DEM,Jennie Lou Leeder,19,7,12
+Brown,308,U.S. House,11,LIB,Rhett Rosenquest Smith,5,2,3
+Brown,308,Governor,,REP,Greg Abbott,318,160,158
+Brown,308,Governor,,DEM,Lupe Valdez,18,6,12
 Brown,308,Governor,,LIB,Mark Jay Tippetts,2,1,1
-Brown,308,Lieutenant Governor,,REP,Dan Patrick,300,153,147
-Brown,308,Lieutenant Governor,,DEM,Mike Collier,33,16,17
-Brown,308,Lieutenant Governor,,LIB,Kerry Douglas McKennon,5,2,3
+Brown,308,Lieutenant Governor,,REP,Dan Patrick,300,147,153
+Brown,308,Lieutenant Governor,,DEM,Mike Collier,33,17,16
+Brown,308,Lieutenant Governor,,LIB,Kerry Douglas McKennon,5,3,2
 Brown,308,Attorney General,,REP,Ken Paxton,310,155,155
-Brown,308,Attorney General,,DEM,Justin Nelson,24,14,10
-Brown,308,Attorney General,,LIB,Michael Ray Harris,3,2,1
-Brown,308,Comptroller of Public Accounts,,REP,Glenn Hegar,308,153,155
-Brown,308,Comptroller of Public Accounts,,DEM,Joi Chevalier,21,13,8
-Brown,308,Comptroller of Public Accounts,,LIB,Ben Sanders,7,4,3
+Brown,308,Attorney General,,DEM,Justin Nelson,24,10,14
+Brown,308,Attorney General,,LIB,Michael Ray Harris,3,1,2
+Brown,308,Comptroller of Public Accounts,,REP,Glenn Hegar,308,155,153
+Brown,308,Comptroller of Public Accounts,,DEM,Joi Chevalier,21,8,13
+Brown,308,Comptroller of Public Accounts,,LIB,Ben Sanders,7,3,4
 Brown,308,Commissioner of the General Land Office,,REP,George P. Bush,308,154,154
-Brown,308,Commissioner of the General Land Office,,DEM,Miguel Suazo,22,13,9
-Brown,308,Commissioner of the General Land Office,,LIB,Matt Piña,7,4,3
+Brown,308,Commissioner of the General Land Office,,DEM,Miguel Suazo,22,9,13
+Brown,308,Commissioner of the General Land Office,,LIB,Matt Piña,7,3,4
 Brown,308,Commissioner of Agriculture,,REP,Sid Miller,306,153,153
-Brown,308,Commissioner of Agriculture,,DEM,Kim Olson,23,13,10
-Brown,308,Commissioner of Agriculture,,LIB,Richard Carpenter,7,4,3
-Brown,308,Railroad Commissioner,,REP,Christi Craddick,307,155,152
-Brown,308,Railroad Commissioner,,DEM,Roman McAllen,20,13,7
-Brown,308,Railroad Commissioner,,LIB,Mike Wright,9,3,6
-Brown,308,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,310,156,154
-Brown,308,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,23,13,10
-Brown,308,"Justice, Supreme Court, Place 4",,REP,John Devine,311,155,156
-Brown,308,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,23,14,9
-Brown,308,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,310,156,154
-Brown,308,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,23,13,10
-Brown,308,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,310,153,157
-Brown,308,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,20,13,7
+Brown,308,Commissioner of Agriculture,,DEM,Kim Olson,23,10,13
+Brown,308,Commissioner of Agriculture,,LIB,Richard Carpenter,7,3,4
+Brown,308,Railroad Commissioner,,REP,Christi Craddick,307,152,155
+Brown,308,Railroad Commissioner,,DEM,Roman McAllen,20,7,13
+Brown,308,Railroad Commissioner,,LIB,Mike Wright,9,6,3
+Brown,308,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,310,154,156
+Brown,308,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,23,10,13
+Brown,308,"Justice, Supreme Court, Place 4",,REP,John Devine,311,156,155
+Brown,308,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,23,9,14
+Brown,308,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,310,154,156
+Brown,308,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,23,10,13
+Brown,308,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,310,157,153
+Brown,308,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,20,7,13
 Brown,308,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,4,2,2
-Brown,308,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,311,155,156
-Brown,308,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,18,12,6
-Brown,308,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,306,151,155
-Brown,308,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,12,7,5
-Brown,308,State Representative,60,REP,Mike Lang,314,154,160
-Brown,308,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,311,151,160
+Brown,308,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,311,156,155
+Brown,308,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,18,6,12
+Brown,308,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,306,155,151
+Brown,308,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,12,5,7
+Brown,308,State Representative,60,REP,Mike Lang,314,160,154
+Brown,308,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,311,160,151
 Brown,308,County Judge,,REP,Paul Lilly,200,100,100
-Brown,308,County Judge,,,Steve Fryar (W),113,53,60
+Brown,308,County Judge,,,Steve Fryar (W),113,60,53
 Brown,308,Ballots Cast,,,,341,,
-Brown,316,Straight Party,,REP,,57,42,15
-Brown,316,Straight Party,,DEM,,3,2,1
+Brown,316,Straight Party,,REP,,57,15,42
+Brown,316,Straight Party,,DEM,,3,1,2
 Brown,316,Straight Party,,LIB,,0,0,0
-Brown,316,U.S. Senate,,REP,Ted Cruz,86,66,20
-Brown,316,U.S. Senate,,DEM,Beto O'Rourke,4,3,1
+Brown,316,U.S. Senate,,REP,Ted Cruz,86,20,66
+Brown,316,U.S. Senate,,DEM,Beto O'Rourke,4,1,3
 Brown,316,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0
-Brown,316,U.S. House,11,REP,Mike Conaway,85,65,20
-Brown,316,U.S. House,11,DEM,Jennie Lou Leeder,4,3,1
-Brown,316,U.S. House,11,LIB,Rhett Rosenquest Smith,1,1,0
-Brown,316,Governor,,REP,Greg Abbott,87,67,20
-Brown,316,Governor,,DEM,Lupe Valdez,4,3,1
+Brown,316,U.S. House,11,REP,Mike Conaway,85,20,65
+Brown,316,U.S. House,11,DEM,Jennie Lou Leeder,4,1,3
+Brown,316,U.S. House,11,LIB,Rhett Rosenquest Smith,1,0,1
+Brown,316,Governor,,REP,Greg Abbott,87,20,67
+Brown,316,Governor,,DEM,Lupe Valdez,4,1,3
 Brown,316,Governor,,LIB,Mark Jay Tippetts,0,0,0
-Brown,316,Lieutenant Governor,,REP,Dan Patrick,85,65,20
-Brown,316,Lieutenant Governor,,DEM,Mike Collier,5,4,1
-Brown,316,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,1,0
-Brown,316,Attorney General,,REP,Ken Paxton,86,66,20
-Brown,316,Attorney General,,DEM,Justin Nelson,5,4,1
+Brown,316,Lieutenant Governor,,REP,Dan Patrick,85,20,65
+Brown,316,Lieutenant Governor,,DEM,Mike Collier,5,1,4
+Brown,316,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,0,1
+Brown,316,Attorney General,,REP,Ken Paxton,86,20,66
+Brown,316,Attorney General,,DEM,Justin Nelson,5,1,4
 Brown,316,Attorney General,,LIB,Michael Ray Harris,0,0,0
-Brown,316,Comptroller of Public Accounts,,REP,Glenn Hegar,86,66,20
-Brown,316,Comptroller of Public Accounts,,DEM,Joi Chevalier,4,3,1
+Brown,316,Comptroller of Public Accounts,,REP,Glenn Hegar,86,20,66
+Brown,316,Comptroller of Public Accounts,,DEM,Joi Chevalier,4,1,3
 Brown,316,Comptroller of Public Accounts,,LIB,Ben Sanders,0,0,0
-Brown,316,Commissioner of the General Land Office,,REP,George P. Bush,79,60,19
-Brown,316,Commissioner of the General Land Office,,DEM,Miguel Suazo,5,4,1
-Brown,316,Commissioner of the General Land Office,,LIB,Matt Piña,6,5,1
-Brown,316,Commissioner of Agriculture,,REP,Sid Miller,85,65,20
-Brown,316,Commissioner of Agriculture,,DEM,Kim Olson,5,4,1
+Brown,316,Commissioner of the General Land Office,,REP,George P. Bush,79,19,60
+Brown,316,Commissioner of the General Land Office,,DEM,Miguel Suazo,5,1,4
+Brown,316,Commissioner of the General Land Office,,LIB,Matt Piña,6,1,5
+Brown,316,Commissioner of Agriculture,,REP,Sid Miller,85,20,65
+Brown,316,Commissioner of Agriculture,,DEM,Kim Olson,5,1,4
 Brown,316,Commissioner of Agriculture,,LIB,Richard Carpenter,0,0,0
-Brown,316,Railroad Commissioner,,REP,Christi Craddick,86,66,20
-Brown,316,Railroad Commissioner,,DEM,Roman McAllen,4,3,1
-Brown,316,Railroad Commissioner,,LIB,Mike Wright,1,1,0
-Brown,316,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,87,67,20
-Brown,316,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,4,3,1
-Brown,316,"Justice, Supreme Court, Place 4",,REP,John Devine,87,67,20
-Brown,316,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,4,3,1
-Brown,316,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,87,67,20
-Brown,316,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,4,3,1
-Brown,316,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,87,67,20
-Brown,316,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,4,3,1
+Brown,316,Railroad Commissioner,,REP,Christi Craddick,86,20,66
+Brown,316,Railroad Commissioner,,DEM,Roman McAllen,4,1,3
+Brown,316,Railroad Commissioner,,LIB,Mike Wright,1,0,1
+Brown,316,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,87,20,67
+Brown,316,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,4,1,3
+Brown,316,"Justice, Supreme Court, Place 4",,REP,John Devine,87,20,67
+Brown,316,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,4,1,3
+Brown,316,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,87,20,67
+Brown,316,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,4,1,3
+Brown,316,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,87,20,67
+Brown,316,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,4,1,3
 Brown,316,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,0,0,0
-Brown,316,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,87,67,20
-Brown,316,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,4,3,1
-Brown,316,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,88,67,21
-Brown,316,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,1,1,0
-Brown,316,State Representative,60,REP,Mike Lang,87,66,21
-Brown,316,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,86,65,21
-Brown,316,County Judge,,REP,Paul Lilly,66,46,20
-Brown,316,County Judge,,,Steve Fryar (W),20,19,1
-Brown,316,Ballots Cast,,,,91,70,21
-Brown,316 - ISD,Straight Party,,REP,,34,18,16
+Brown,316,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,87,20,67
+Brown,316,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,4,1,3
+Brown,316,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,88,21,67
+Brown,316,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,1,0,1
+Brown,316,State Representative,60,REP,Mike Lang,87,21,66
+Brown,316,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,86,21,65
+Brown,316,County Judge,,REP,Paul Lilly,66,20,46
+Brown,316,County Judge,,,Steve Fryar (W),20,1,19
+Brown,316,Ballots Cast,,,,91,21,70
+Brown,316 - ISD,Straight Party,,REP,,34,16,18
 Brown,316 - ISD,Straight Party,,DEM,,0,0,0
 Brown,316 - ISD,Straight Party,,LIB,,0,0,0
-Brown,316 - ISD,U.S. Senate,,REP,Ted Cruz,53,27,26
-Brown,316 - ISD,U.S. Senate,,DEM,Beto O'Rourke,7,5,2
+Brown,316 - ISD,U.S. Senate,,REP,Ted Cruz,53,26,27
+Brown,316 - ISD,U.S. Senate,,DEM,Beto O'Rourke,7,2,5
 Brown,316 - ISD,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0
 Brown,316 - ISD,U.S. House,11,REP,Mike Conaway,54,27,27
-Brown,316 - ISD,U.S. House,11,DEM,Jennie Lou Leeder,5,4,1
-Brown,316 - ISD,U.S. House,11,LIB,Rhett Rosenquest Smith,1,1,0
+Brown,316 - ISD,U.S. House,11,DEM,Jennie Lou Leeder,5,1,4
+Brown,316 - ISD,U.S. House,11,LIB,Rhett Rosenquest Smith,1,0,1
 Brown,316 - ISD,Governor,,REP,Greg Abbott,54,27,27
-Brown,316 - ISD,Governor,,DEM,Lupe Valdez,5,5,0
-Brown,316 - ISD,Governor,,LIB,Mark Jay Tippetts,1,0,1
+Brown,316 - ISD,Governor,,DEM,Lupe Valdez,5,0,5
+Brown,316 - ISD,Governor,,LIB,Mark Jay Tippetts,1,1,0
 Brown,316 - ISD,Lieutenant Governor,,REP,Dan Patrick,52,26,26
-Brown,316 - ISD,Lieutenant Governor,,DEM,Mike Collier,7,6,1
+Brown,316 - ISD,Lieutenant Governor,,DEM,Mike Collier,7,1,6
 Brown,316 - ISD,Lieutenant Governor,,LIB,Kerry Douglas McKennon,0,0,0
 Brown,316 - ISD,Attorney General,,REP,Ken Paxton,52,26,26
-Brown,316 - ISD,Attorney General,,DEM,Justin Nelson,8,6,2
+Brown,316 - ISD,Attorney General,,DEM,Justin Nelson,8,2,6
 Brown,316 - ISD,Attorney General,,LIB,Michael Ray Harris,0,0,0
-Brown,316 - ISD,Comptroller of Public Accounts,,REP,Glenn Hegar,51,27,24
-Brown,316 - ISD,Comptroller of Public Accounts,,DEM,Joi Chevalier,7,5,2
-Brown,316 - ISD,Comptroller of Public Accounts,,LIB,Ben Sanders,1,0,1
-Brown,316 - ISD,Commissioner of the General Land Office,,REP,George P. Bush,49,25,24
-Brown,316 - ISD,Commissioner of the General Land Office,,DEM,Miguel Suazo,8,7,1
-Brown,316 - ISD,Commissioner of the General Land Office,,LIB,Matt Piña,2,0,2
-Brown,316 - ISD,Commissioner of Agriculture,,REP,Sid Miller,53,25,28
-Brown,316 - ISD,Commissioner of Agriculture,,DEM,Kim Olson,7,7,0
+Brown,316 - ISD,Comptroller of Public Accounts,,REP,Glenn Hegar,51,24,27
+Brown,316 - ISD,Comptroller of Public Accounts,,DEM,Joi Chevalier,7,2,5
+Brown,316 - ISD,Comptroller of Public Accounts,,LIB,Ben Sanders,1,1,0
+Brown,316 - ISD,Commissioner of the General Land Office,,REP,George P. Bush,49,24,25
+Brown,316 - ISD,Commissioner of the General Land Office,,DEM,Miguel Suazo,8,1,7
+Brown,316 - ISD,Commissioner of the General Land Office,,LIB,Matt Piña,2,2,0
+Brown,316 - ISD,Commissioner of Agriculture,,REP,Sid Miller,53,28,25
+Brown,316 - ISD,Commissioner of Agriculture,,DEM,Kim Olson,7,0,7
 Brown,316 - ISD,Commissioner of Agriculture,,LIB,Richard Carpenter,0,0,0
-Brown,316 - ISD,Railroad Commissioner,,REP,Christi Craddick,52,27,25
-Brown,316 - ISD,Railroad Commissioner,,DEM,Roman McAllen,6,5,1
-Brown,316 - ISD,Railroad Commissioner,,LIB,Mike Wright,1,0,1
-Brown,316 - ISD,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,52,27,25
-Brown,316 - ISD,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,6,5,1
-Brown,316 - ISD,"Justice, Supreme Court, Place 4",,REP,John Devine,53,27,26
-Brown,316 - ISD,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,5,5,0
-Brown,316 - ISD,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,52,27,25
-Brown,316 - ISD,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,6,5,1
-Brown,316 - ISD,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,50,27,23
-Brown,316 - ISD,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,7,5,2
-Brown,316 - ISD,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,1,0,1
-Brown,316 - ISD,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,53,27,26
-Brown,316 - ISD,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,5,5,0
-Brown,316 - ISD,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,55,29,26
-Brown,316 - ISD,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,3,3,0
-Brown,316 - ISD,State Representative,60,REP,Mike Lang,56,29,27
-Brown,316 - ISD,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,55,30,25
-Brown,316 - ISD,County Judge,,REP,Paul Lilly,43,24,19
-Brown,316 - ISD,County Judge,,,Steve Fryar (W),10,4,6
-Brown,316 - ISD,Ballots Cast,,,,60,32,28
-Brown,318,Straight Party,,REP,,501,366,135
-Brown,318,Straight Party,,DEM,,47,42,5
-Brown,318,Straight Party,,LIB,,1,1,0
-Brown,318,U.S. Senate,,REP,Ted Cruz,831,609,222
-Brown,318,U.S. Senate,,DEM,Beto O'Rourke,118,93,25
-Brown,318,U.S. Senate,,LIB,Neal M. Dikeman,7,4,3
-Brown,318,U.S. House,11,REP,Mike Conaway,834,607,227
-Brown,318,U.S. House,11,DEM,Jennie Lou Leeder,94,79,15
-Brown,318,U.S. House,11,LIB,Rhett Rosenquest Smith,19,14,5
-Brown,318,Governor,,REP,Greg Abbott,841,618,223
-Brown,318,Governor,,DEM,Lupe Valdez,95,76,19
-Brown,318,Governor,,LIB,Mark Jay Tippetts,14,9,5
-Brown,318,Lieutenant Governor,,REP,Dan Patrick,769,567,202
-Brown,318,Lieutenant Governor,,DEM,Mike Collier,154,123,31
-Brown,318,Lieutenant Governor,,LIB,Kerry Douglas McKennon,27,13,14
-Brown,318,Attorney General,,REP,Ken Paxton,814,593,221
-Brown,318,Attorney General,,DEM,Justin Nelson,116,93,23
-Brown,318,Attorney General,,LIB,Michael Ray Harris,23,16,7
-Brown,318,Comptroller of Public Accounts,,REP,Glenn Hegar,823,601,222
-Brown,318,Comptroller of Public Accounts,,DEM,Joi Chevalier,95,78,17
-Brown,318,Comptroller of Public Accounts,,LIB,Ben Sanders,23,16,7
-Brown,318,Commissioner of the General Land Office,,REP,George P. Bush,813,594,219
-Brown,318,Commissioner of the General Land Office,,DEM,Miguel Suazo,106,86,20
-Brown,318,Commissioner of the General Land Office,,LIB,Matt Piña,29,18,11
-Brown,318,Commissioner of Agriculture,,REP,Sid Miller,817,592,225
-Brown,318,Commissioner of Agriculture,,DEM,Kim Olson,107,89,18
-Brown,318,Commissioner of Agriculture,,LIB,Richard Carpenter,19,13,6
-Brown,318,Railroad Commissioner,,REP,Christi Craddick,827,601,226
-Brown,318,Railroad Commissioner,,DEM,Roman McAllen,94,76,18
-Brown,318,Railroad Commissioner,,LIB,Mike Wright,19,14,5
-Brown,318,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,836,607,229
-Brown,318,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,105,87,18
-Brown,318,"Justice, Supreme Court, Place 4",,REP,John Devine,838,612,226
-Brown,318,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,103,82,21
-Brown,318,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,831,601,230
-Brown,318,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,106,89,17
-Brown,318,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,821,598,223
-Brown,318,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,99,81,18
-Brown,318,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,21,16,5
-Brown,318,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,833,604,229
-Brown,318,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,98,80,18
-Brown,318,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,839,615,224
-Brown,318,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,57,38,19
-Brown,318,State Representative,60,REP,Mike Lang,854,617,237
-Brown,318,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,860,625,235
-Brown,318,County Judge,,REP,Paul Lilly,661,485,176
-Brown,318,County Judge,,,Steve Fryar (W),239,180,59
+Brown,316 - ISD,Railroad Commissioner,,REP,Christi Craddick,52,25,27
+Brown,316 - ISD,Railroad Commissioner,,DEM,Roman McAllen,6,1,5
+Brown,316 - ISD,Railroad Commissioner,,LIB,Mike Wright,1,1,0
+Brown,316 - ISD,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,52,25,27
+Brown,316 - ISD,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,6,1,5
+Brown,316 - ISD,"Justice, Supreme Court, Place 4",,REP,John Devine,53,26,27
+Brown,316 - ISD,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,5,0,5
+Brown,316 - ISD,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,52,25,27
+Brown,316 - ISD,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,6,1,5
+Brown,316 - ISD,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,50,23,27
+Brown,316 - ISD,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,7,2,5
+Brown,316 - ISD,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,1,1,0
+Brown,316 - ISD,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,53,26,27
+Brown,316 - ISD,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,5,0,5
+Brown,316 - ISD,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,55,26,29
+Brown,316 - ISD,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,3,0,3
+Brown,316 - ISD,State Representative,60,REP,Mike Lang,56,27,29
+Brown,316 - ISD,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,55,25,30
+Brown,316 - ISD,County Judge,,REP,Paul Lilly,43,19,24
+Brown,316 - ISD,County Judge,,,Steve Fryar (W),10,6,4
+Brown,316 - ISD,Ballots Cast,,,,60,28,32
+Brown,318,Straight Party,,REP,,501,135,366
+Brown,318,Straight Party,,DEM,,47,5,42
+Brown,318,Straight Party,,LIB,,1,0,1
+Brown,318,U.S. Senate,,REP,Ted Cruz,831,222,609
+Brown,318,U.S. Senate,,DEM,Beto O'Rourke,118,25,93
+Brown,318,U.S. Senate,,LIB,Neal M. Dikeman,7,3,4
+Brown,318,U.S. House,11,REP,Mike Conaway,834,227,607
+Brown,318,U.S. House,11,DEM,Jennie Lou Leeder,94,15,79
+Brown,318,U.S. House,11,LIB,Rhett Rosenquest Smith,19,5,14
+Brown,318,Governor,,REP,Greg Abbott,841,223,618
+Brown,318,Governor,,DEM,Lupe Valdez,95,19,76
+Brown,318,Governor,,LIB,Mark Jay Tippetts,14,5,9
+Brown,318,Lieutenant Governor,,REP,Dan Patrick,769,202,567
+Brown,318,Lieutenant Governor,,DEM,Mike Collier,154,31,123
+Brown,318,Lieutenant Governor,,LIB,Kerry Douglas McKennon,27,14,13
+Brown,318,Attorney General,,REP,Ken Paxton,814,221,593
+Brown,318,Attorney General,,DEM,Justin Nelson,116,23,93
+Brown,318,Attorney General,,LIB,Michael Ray Harris,23,7,16
+Brown,318,Comptroller of Public Accounts,,REP,Glenn Hegar,823,222,601
+Brown,318,Comptroller of Public Accounts,,DEM,Joi Chevalier,95,17,78
+Brown,318,Comptroller of Public Accounts,,LIB,Ben Sanders,23,7,16
+Brown,318,Commissioner of the General Land Office,,REP,George P. Bush,813,219,594
+Brown,318,Commissioner of the General Land Office,,DEM,Miguel Suazo,106,20,86
+Brown,318,Commissioner of the General Land Office,,LIB,Matt Piña,29,11,18
+Brown,318,Commissioner of Agriculture,,REP,Sid Miller,817,225,592
+Brown,318,Commissioner of Agriculture,,DEM,Kim Olson,107,18,89
+Brown,318,Commissioner of Agriculture,,LIB,Richard Carpenter,19,6,13
+Brown,318,Railroad Commissioner,,REP,Christi Craddick,827,226,601
+Brown,318,Railroad Commissioner,,DEM,Roman McAllen,94,18,76
+Brown,318,Railroad Commissioner,,LIB,Mike Wright,19,5,14
+Brown,318,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,836,229,607
+Brown,318,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,105,18,87
+Brown,318,"Justice, Supreme Court, Place 4",,REP,John Devine,838,226,612
+Brown,318,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,103,21,82
+Brown,318,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,831,230,601
+Brown,318,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,106,17,89
+Brown,318,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,821,223,598
+Brown,318,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,99,18,81
+Brown,318,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,21,5,16
+Brown,318,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,833,229,604
+Brown,318,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,98,18,80
+Brown,318,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,839,224,615
+Brown,318,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,57,19,38
+Brown,318,State Representative,60,REP,Mike Lang,854,237,617
+Brown,318,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,860,235,625
+Brown,318,County Judge,,REP,Paul Lilly,661,176,485
+Brown,318,County Judge,,,Steve Fryar (W),239,59,180
 Brown,318,Ballots Cast,,,,966,,
-Brown,410,Straight Party,,REP,,753,480,273
-Brown,410,Straight Party,,DEM,,77,45,32
-Brown,410,Straight Party,,LIB,,7,4,3
-Brown,410,U.S. Senate,,REP,Ted Cruz,1196,753,443
-Brown,410,U.S. Senate,,DEM,Beto O'Rourke,131,76,55
-Brown,410,U.S. Senate,,LIB,Neal M. Dikeman,3,1,2
-Brown,410,U.S. House,11,REP,Mike Conaway,1204,754,450
-Brown,410,U.S. House,11,DEM,Jennie Lou Leeder,122,69,53
-Brown,410,U.S. House,11,LIB,Rhett Rosenquest Smith,15,9,6
-Brown,410,Governor,,REP,Greg Abbott,1215,758,457
-Brown,410,Governor,,DEM,Lupe Valdez,118,69,49
-Brown,410,Governor,,LIB,Mark Jay Tippetts,11,7,4
-Brown,410,Lieutenant Governor,,REP,Dan Patrick,1158,724,434
-Brown,410,Lieutenant Governor,,DEM,Mike Collier,168,103,65
+Brown,410,Straight Party,,REP,,753,273,480
+Brown,410,Straight Party,,DEM,,77,32,45
+Brown,410,Straight Party,,LIB,,7,3,4
+Brown,410,U.S. Senate,,REP,Ted Cruz,1196,443,753
+Brown,410,U.S. Senate,,DEM,Beto O'Rourke,131,55,76
+Brown,410,U.S. Senate,,LIB,Neal M. Dikeman,3,2,1
+Brown,410,U.S. House,11,REP,Mike Conaway,1204,450,754
+Brown,410,U.S. House,11,DEM,Jennie Lou Leeder,122,53,69
+Brown,410,U.S. House,11,LIB,Rhett Rosenquest Smith,15,6,9
+Brown,410,Governor,,REP,Greg Abbott,1215,457,758
+Brown,410,Governor,,DEM,Lupe Valdez,118,49,69
+Brown,410,Governor,,LIB,Mark Jay Tippetts,11,4,7
+Brown,410,Lieutenant Governor,,REP,Dan Patrick,1158,434,724
+Brown,410,Lieutenant Governor,,DEM,Mike Collier,168,65,103
 Brown,410,Lieutenant Governor,,LIB,Kerry Douglas McKennon,18,9,9
-Brown,410,Attorney General,,REP,Ken Paxton,1183,741,442
-Brown,410,Attorney General,,DEM,Justin Nelson,143,84,59
-Brown,410,Attorney General,,LIB,Michael Ray Harris,19,11,8
-Brown,410,Comptroller of Public Accounts,,REP,Glenn Hegar,1194,754,440
-Brown,410,Comptroller of Public Accounts,,DEM,Joi Chevalier,112,61,51
-Brown,410,Comptroller of Public Accounts,,LIB,Ben Sanders,33,19,14
-Brown,410,Commissioner of the General Land Office,,REP,George P. Bush,1148,711,437
-Brown,410,Commissioner of the General Land Office,,DEM,Miguel Suazo,141,88,53
-Brown,410,Commissioner of the General Land Office,,LIB,Matt Piña,53,35,18
-Brown,410,Commissioner of Agriculture,,REP,Sid Miller,1194,748,446
-Brown,410,Commissioner of Agriculture,,DEM,Kim Olson,126,73,53
-Brown,410,Commissioner of Agriculture,,LIB,Richard Carpenter,23,13,10
-Brown,410,Railroad Commissioner,,REP,Christi Craddick,1181,749,432
-Brown,410,Railroad Commissioner,,DEM,Roman McAllen,128,70,58
+Brown,410,Attorney General,,REP,Ken Paxton,1183,442,741
+Brown,410,Attorney General,,DEM,Justin Nelson,143,59,84
+Brown,410,Attorney General,,LIB,Michael Ray Harris,19,8,11
+Brown,410,Comptroller of Public Accounts,,REP,Glenn Hegar,1194,440,754
+Brown,410,Comptroller of Public Accounts,,DEM,Joi Chevalier,112,51,61
+Brown,410,Comptroller of Public Accounts,,LIB,Ben Sanders,33,14,19
+Brown,410,Commissioner of the General Land Office,,REP,George P. Bush,1148,437,711
+Brown,410,Commissioner of the General Land Office,,DEM,Miguel Suazo,141,53,88
+Brown,410,Commissioner of the General Land Office,,LIB,Matt Piña,53,18,35
+Brown,410,Commissioner of Agriculture,,REP,Sid Miller,1194,446,748
+Brown,410,Commissioner of Agriculture,,DEM,Kim Olson,126,53,73
+Brown,410,Commissioner of Agriculture,,LIB,Richard Carpenter,23,10,13
+Brown,410,Railroad Commissioner,,REP,Christi Craddick,1181,432,749
+Brown,410,Railroad Commissioner,,DEM,Roman McAllen,128,58,70
 Brown,410,Railroad Commissioner,,LIB,Mike Wright,30,15,15
-Brown,410,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,1197,753,444
-Brown,410,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,138,77,61
-Brown,410,"Justice, Supreme Court, Place 4",,REP,John Devine,1199,753,446
-Brown,410,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,135,76,59
-Brown,410,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,1202,758,444
-Brown,410,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,132,72,60
-Brown,410,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,1188,752,436
-Brown,410,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,127,69,58
-Brown,410,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,24,11,13
-Brown,410,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,1207,760,447
-Brown,410,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,125,70,55
-Brown,410,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,1206,759,447
-Brown,410,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,65,35,30
-Brown,410,State Representative,60,REP,Mike Lang,1230,766,464
-Brown,410,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,1228,764,464
-Brown,410,County Judge,,REP,Paul Lilly,1030,633,397
-Brown,410,County Judge,,,Steve Fryar (W),206,139,67
+Brown,410,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,1197,444,753
+Brown,410,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,138,61,77
+Brown,410,"Justice, Supreme Court, Place 4",,REP,John Devine,1199,446,753
+Brown,410,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,135,59,76
+Brown,410,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,1202,444,758
+Brown,410,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,132,60,72
+Brown,410,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,1188,436,752
+Brown,410,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,127,58,69
+Brown,410,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,24,13,11
+Brown,410,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,1207,447,760
+Brown,410,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,125,55,70
+Brown,410,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,1206,447,759
+Brown,410,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,65,30,35
+Brown,410,State Representative,60,REP,Mike Lang,1230,464,766
+Brown,410,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,1228,464,764
+Brown,410,County Judge,,REP,Paul Lilly,1030,397,633
+Brown,410,County Judge,,,Steve Fryar (W),206,67,139
 Brown,410,Ballots Cast,,,,1359,,
-Brown,411,Straight Party,,REP,,260,171,89
-Brown,411,Straight Party,,DEM,,68,31,37
-Brown,411,Straight Party,,LIB,,3,1,2
-Brown,411,U.S. Senate,,REP,Ted Cruz,411,268,143
-Brown,411,U.S. Senate,,DEM,Beto O'Rourke,146,70,76
+Brown,411,Straight Party,,REP,,260,89,171
+Brown,411,Straight Party,,DEM,,68,37,31
+Brown,411,Straight Party,,LIB,,3,2,1
+Brown,411,U.S. Senate,,REP,Ted Cruz,411,143,268
+Brown,411,U.S. Senate,,DEM,Beto O'Rourke,146,76,70
 Brown,411,U.S. Senate,,LIB,Neal M. Dikeman,6,3,3
-Brown,411,U.S. House,11,REP,Mike Conaway,416,265,151
-Brown,411,U.S. House,11,DEM,Jennie Lou Leeder,121,61,60
-Brown,411,U.S. House,11,LIB,Rhett Rosenquest Smith,14,3,11
-Brown,411,Governor,,REP,Greg Abbott,425,275,150
-Brown,411,Governor,,DEM,Lupe Valdez,123,59,64
-Brown,411,Governor,,LIB,Mark Jay Tippetts,15,6,9
-Brown,411,Lieutenant Governor,,REP,Dan Patrick,395,257,138
-Brown,411,Lieutenant Governor,,DEM,Mike Collier,138,67,71
-Brown,411,Lieutenant Governor,,LIB,Kerry Douglas McKennon,19,7,12
-Brown,411,Attorney General,,REP,Ken Paxton,406,262,144
-Brown,411,Attorney General,,DEM,Justin Nelson,129,63,66
-Brown,411,Attorney General,,LIB,Michael Ray Harris,19,8,11
-Brown,411,Comptroller of Public Accounts,,REP,Glenn Hegar,412,262,150
-Brown,411,Comptroller of Public Accounts,,DEM,Joi Chevalier,119,61,58
-Brown,411,Comptroller of Public Accounts,,LIB,Ben Sanders,20,8,12
-Brown,411,Commissioner of the General Land Office,,REP,George P. Bush,401,260,141
-Brown,411,Commissioner of the General Land Office,,DEM,Miguel Suazo,118,60,58
-Brown,411,Commissioner of the General Land Office,,LIB,Matt Piña,35,12,23
-Brown,411,Commissioner of Agriculture,,REP,Sid Miller,410,264,146
-Brown,411,Commissioner of Agriculture,,DEM,Kim Olson,122,60,62
-Brown,411,Commissioner of Agriculture,,LIB,Richard Carpenter,20,8,12
-Brown,411,Railroad Commissioner,,REP,Christi Craddick,416,263,153
-Brown,411,Railroad Commissioner,,DEM,Roman McAllen,117,58,59
-Brown,411,Railroad Commissioner,,LIB,Mike Wright,16,7,9
-Brown,411,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,416,266,150
-Brown,411,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,132,63,69
-Brown,411,"Justice, Supreme Court, Place 4",,REP,John Devine,417,267,150
-Brown,411,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,131,63,68
-Brown,411,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,418,267,151
-Brown,411,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,133,65,68
-Brown,411,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,406,261,145
-Brown,411,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,128,63,65
-Brown,411,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,17,7,10
-Brown,411,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,424,270,154
-Brown,411,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,125,61,64
-Brown,411,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,429,275,154
-Brown,411,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,70,33,37
-Brown,411,State Representative,60,REP,Mike Lang,469,295,174
-Brown,411,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,463,292,171
-Brown,411,County Judge,,REP,Paul Lilly,381,232,149
-Brown,411,County Judge,,,Steve Fryar (W),117,79,38
+Brown,411,U.S. House,11,REP,Mike Conaway,416,151,265
+Brown,411,U.S. House,11,DEM,Jennie Lou Leeder,121,60,61
+Brown,411,U.S. House,11,LIB,Rhett Rosenquest Smith,14,11,3
+Brown,411,Governor,,REP,Greg Abbott,425,150,275
+Brown,411,Governor,,DEM,Lupe Valdez,123,64,59
+Brown,411,Governor,,LIB,Mark Jay Tippetts,15,9,6
+Brown,411,Lieutenant Governor,,REP,Dan Patrick,395,138,257
+Brown,411,Lieutenant Governor,,DEM,Mike Collier,138,71,67
+Brown,411,Lieutenant Governor,,LIB,Kerry Douglas McKennon,19,12,7
+Brown,411,Attorney General,,REP,Ken Paxton,406,144,262
+Brown,411,Attorney General,,DEM,Justin Nelson,129,66,63
+Brown,411,Attorney General,,LIB,Michael Ray Harris,19,11,8
+Brown,411,Comptroller of Public Accounts,,REP,Glenn Hegar,412,150,262
+Brown,411,Comptroller of Public Accounts,,DEM,Joi Chevalier,119,58,61
+Brown,411,Comptroller of Public Accounts,,LIB,Ben Sanders,20,12,8
+Brown,411,Commissioner of the General Land Office,,REP,George P. Bush,401,141,260
+Brown,411,Commissioner of the General Land Office,,DEM,Miguel Suazo,118,58,60
+Brown,411,Commissioner of the General Land Office,,LIB,Matt Piña,35,23,12
+Brown,411,Commissioner of Agriculture,,REP,Sid Miller,410,146,264
+Brown,411,Commissioner of Agriculture,,DEM,Kim Olson,122,62,60
+Brown,411,Commissioner of Agriculture,,LIB,Richard Carpenter,20,12,8
+Brown,411,Railroad Commissioner,,REP,Christi Craddick,416,153,263
+Brown,411,Railroad Commissioner,,DEM,Roman McAllen,117,59,58
+Brown,411,Railroad Commissioner,,LIB,Mike Wright,16,9,7
+Brown,411,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,416,150,266
+Brown,411,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,132,69,63
+Brown,411,"Justice, Supreme Court, Place 4",,REP,John Devine,417,150,267
+Brown,411,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,131,68,63
+Brown,411,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,418,151,267
+Brown,411,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,133,68,65
+Brown,411,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,406,145,261
+Brown,411,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,128,65,63
+Brown,411,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,17,10,7
+Brown,411,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,424,154,270
+Brown,411,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,125,64,61
+Brown,411,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,429,154,275
+Brown,411,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,70,37,33
+Brown,411,State Representative,60,REP,Mike Lang,469,174,295
+Brown,411,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,463,171,292
+Brown,411,County Judge,,REP,Paul Lilly,381,149,232
+Brown,411,County Judge,,,Steve Fryar (W),117,38,79
 Brown,411,Ballots Cast,,,,570,,
-Brown,417,Straight Party,,REP,,668,442,226
-Brown,417,Straight Party,,DEM,,72,58,14
+Brown,417,Straight Party,,REP,,668,226,442
+Brown,417,Straight Party,,DEM,,72,14,58
 Brown,417,Straight Party,,LIB,,2,1,1
-Brown,417,U.S. Senate,,REP,Ted Cruz,999,664,335
-Brown,417,U.S. Senate,,DEM,Beto O'Rourke,115,86,29
-Brown,417,U.S. Senate,,LIB,Neal M. Dikeman,7,2,5
-Brown,417,U.S. House,11,REP,Mike Conaway,1001,664,337
-Brown,417,U.S. House,11,DEM,Jennie Lou Leeder,108,81,27
-Brown,417,U.S. House,11,LIB,Rhett Rosenquest Smith,14,9,5
-Brown,417,Governor,,REP,Greg Abbott,1013,669,344
-Brown,417,Governor,,DEM,Lupe Valdez,108,85,23
+Brown,417,U.S. Senate,,REP,Ted Cruz,999,335,664
+Brown,417,U.S. Senate,,DEM,Beto O'Rourke,115,29,86
+Brown,417,U.S. Senate,,LIB,Neal M. Dikeman,7,5,2
+Brown,417,U.S. House,11,REP,Mike Conaway,1001,337,664
+Brown,417,U.S. House,11,DEM,Jennie Lou Leeder,108,27,81
+Brown,417,U.S. House,11,LIB,Rhett Rosenquest Smith,14,5,9
+Brown,417,Governor,,REP,Greg Abbott,1013,344,669
+Brown,417,Governor,,DEM,Lupe Valdez,108,23,85
 Brown,417,Governor,,LIB,Mark Jay Tippetts,8,4,4
-Brown,417,Lieutenant Governor,,REP,Dan Patrick,975,642,333
-Brown,417,Lieutenant Governor,,DEM,Mike Collier,131,103,28
-Brown,417,Lieutenant Governor,,LIB,Kerry Douglas McKennon,15,10,5
-Brown,417,Attorney General,,REP,Ken Paxton,983,649,334
-Brown,417,Attorney General,,DEM,Justin Nelson,124,97,27
+Brown,417,Lieutenant Governor,,REP,Dan Patrick,975,333,642
+Brown,417,Lieutenant Governor,,DEM,Mike Collier,131,28,103
+Brown,417,Lieutenant Governor,,LIB,Kerry Douglas McKennon,15,5,10
+Brown,417,Attorney General,,REP,Ken Paxton,983,334,649
+Brown,417,Attorney General,,DEM,Justin Nelson,124,27,97
 Brown,417,Attorney General,,LIB,Michael Ray Harris,16,8,8
-Brown,417,Comptroller of Public Accounts,,REP,Glenn Hegar,991,659,332
-Brown,417,Comptroller of Public Accounts,,DEM,Joi Chevalier,111,86,25
-Brown,417,Comptroller of Public Accounts,,LIB,Ben Sanders,19,8,11
-Brown,417,Commissioner of the General Land Office,,REP,George P. Bush,961,638,323
-Brown,417,Commissioner of the General Land Office,,DEM,Miguel Suazo,115,85,30
-Brown,417,Commissioner of the General Land Office,,LIB,Matt Piña,40,26,14
-Brown,417,Commissioner of Agriculture,,REP,Sid Miller,990,657,333
-Brown,417,Commissioner of Agriculture,,DEM,Kim Olson,115,90,25
+Brown,417,Comptroller of Public Accounts,,REP,Glenn Hegar,991,332,659
+Brown,417,Comptroller of Public Accounts,,DEM,Joi Chevalier,111,25,86
+Brown,417,Comptroller of Public Accounts,,LIB,Ben Sanders,19,11,8
+Brown,417,Commissioner of the General Land Office,,REP,George P. Bush,961,323,638
+Brown,417,Commissioner of the General Land Office,,DEM,Miguel Suazo,115,30,85
+Brown,417,Commissioner of the General Land Office,,LIB,Matt Piña,40,14,26
+Brown,417,Commissioner of Agriculture,,REP,Sid Miller,990,333,657
+Brown,417,Commissioner of Agriculture,,DEM,Kim Olson,115,25,90
 Brown,417,Commissioner of Agriculture,,LIB,Richard Carpenter,18,9,9
-Brown,417,Railroad Commissioner,,REP,Christi Craddick,994,661,333
-Brown,417,Railroad Commissioner,,DEM,Roman McAllen,113,84,29
-Brown,417,Railroad Commissioner,,LIB,Mike Wright,16,9,7
-Brown,417,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,1001,663,338
-Brown,417,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,118,89,29
-Brown,417,"Justice, Supreme Court, Place 4",,REP,John Devine,1004,666,338
-Brown,417,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,114,86,28
-Brown,417,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,995,659,336
-Brown,417,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,124,93,31
-Brown,417,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,986,657,329
-Brown,417,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,109,80,29
-Brown,417,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,23,13,10
-Brown,417,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,1004,669,335
-Brown,417,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,113,83,30
-Brown,417,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,1008,666,342
-Brown,417,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,54,40,14
-Brown,417,State Representative,60,REP,Mike Lang,1020,674,346
-Brown,417,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,1022,678,344
-Brown,417,County Judge,,REP,Paul Lilly,851,553,298
-Brown,417,County Judge,,,Steve Fryar (W),197,146,51
+Brown,417,Railroad Commissioner,,REP,Christi Craddick,994,333,661
+Brown,417,Railroad Commissioner,,DEM,Roman McAllen,113,29,84
+Brown,417,Railroad Commissioner,,LIB,Mike Wright,16,7,9
+Brown,417,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,1001,338,663
+Brown,417,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,118,29,89
+Brown,417,"Justice, Supreme Court, Place 4",,REP,John Devine,1004,338,666
+Brown,417,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,114,28,86
+Brown,417,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,995,336,659
+Brown,417,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,124,31,93
+Brown,417,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,986,329,657
+Brown,417,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,109,29,80
+Brown,417,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,23,10,13
+Brown,417,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,1004,335,669
+Brown,417,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,113,30,83
+Brown,417,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,1008,342,666
+Brown,417,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,54,14,40
+Brown,417,State Representative,60,REP,Mike Lang,1020,346,674
+Brown,417,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,1022,344,678
+Brown,417,County Judge,,REP,Paul Lilly,851,298,553
+Brown,417,County Judge,,,Steve Fryar (W),197,51,146

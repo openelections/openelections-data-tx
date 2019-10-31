@@ -1,71 +1,71 @@
-county,precinct,office,district,party,candidate,early_voting,election_day,votes
-Houston,1,Ballots Cast,,,,,,599
-Houston,2,Ballots Cast,,,,,,797
-Houston,3,Ballots Cast,,,,,,664
-Houston,4,Ballots Cast,,,,,,961
-Houston,5,Ballots Cast,,,,,,640
-Houston,6,Ballots Cast,,,,,,590
-Houston,7,Ballots Cast,,,,,,556
-Houston,8,Ballots Cast,,,,,,240
-Houston,9,Ballots Cast,,,,,,268
-Houston,10,Ballots Cast,,,,,,183
-Houston,11,Ballots Cast,,,,,,88
-Houston,12,Ballots Cast,,,,,,89
-Houston,14,Ballots Cast,,,,,,265
-Houston,15,Ballots Cast,,,,,,160
-Houston,16,Ballots Cast,,,,,,167
-Houston,17,Ballots Cast,,,,,,184
-Houston,18,Ballots Cast,,,,,,94
-Houston,19,Ballots Cast,,,,,,357
-Houston,20,Ballots Cast,,,,,,143
-Houston,21,Ballots Cast,,,,,,200
-Houston,22,Ballots Cast,,,,,,163
-Houston,1,Straight Party,,REP,Republican,153,45,198
-Houston,2,Straight Party,,REP,Republican,277,61,338
-Houston,3,Straight Party,,REP,Republican,98,26,124
-Houston,4,Straight Party,,REP,Republican,271,70,341
-Houston,5,Straight Party,,REP,Republican,231,121,352
-Houston,6,Straight Party,,REP,Republican,159,96,255
-Houston,7,Straight Party,,REP,Republican,126,119,245
-Houston,8,Straight Party,,REP,Republican,68,45,113
-Houston,9,Straight Party,,REP,Republican,82,77,159
-Houston,10,Straight Party,,REP,Republican,35,48,83
-Houston,11,Straight Party,,REP,Republican,25,17,42
-Houston,12,Straight Party,,REP,Republican,39,9,48
-Houston,14,Straight Party,,REP,Republican,89,53,142
-Houston,15,Straight Party,,REP,Republican,57,20,77
-Houston,16,Straight Party,,REP,Republican,78,22,100
-Houston,17,Straight Party,,REP,Republican,34,59,93
-Houston,18,Straight Party,,REP,Republican,16,20,36
-Houston,19,Straight Party,,REP,Republican,70,93,163
-Houston,20,Straight Party,,REP,Republican,22,50,72
-Houston,21,Straight Party,,REP,Republican,44,57,101
-Houston,22,Straight Party,,REP,Republican,25,30,55
-Houston,1,Straight Party,,DEM,Democratic,91,51,142
-Houston,2,Straight Party,,DEM,Democratic,115,44,159
-Houston,3,Straight Party,,DEM,Democratic,204,145,349
-Houston,4,Straight Party,,DEM,Democratic,107,53,160
-Houston,5,Straight Party,,DEM,Democratic,27,28,55
-Houston,6,Straight Party,,DEM,Democratic,48,58,106
-Houston,7,Straight Party,,DEM,Democratic,13,17,30
-Houston,8,Straight Party,,DEM,Democratic,13,11,24
-Houston,9,Straight Party,,DEM,Democratic,4,3,7
-Houston,10,Straight Party,,DEM,Democratic,12,4,16
-Houston,11,Straight Party,,DEM,Democratic,5,8,13
+county,precinct,office,district,party,candidate,votes,election_day,early_voting
+Houston,1,Ballots Cast,,,,599,,
+Houston,2,Ballots Cast,,,,797,,
+Houston,3,Ballots Cast,,,,664,,
+Houston,4,Ballots Cast,,,,961,,
+Houston,5,Ballots Cast,,,,640,,
+Houston,6,Ballots Cast,,,,590,,
+Houston,7,Ballots Cast,,,,556,,
+Houston,8,Ballots Cast,,,,240,,
+Houston,9,Ballots Cast,,,,268,,
+Houston,10,Ballots Cast,,,,183,,
+Houston,11,Ballots Cast,,,,88,,
+Houston,12,Ballots Cast,,,,89,,
+Houston,14,Ballots Cast,,,,265,,
+Houston,15,Ballots Cast,,,,160,,
+Houston,16,Ballots Cast,,,,167,,
+Houston,17,Ballots Cast,,,,184,,
+Houston,18,Ballots Cast,,,,94,,
+Houston,19,Ballots Cast,,,,357,,
+Houston,20,Ballots Cast,,,,143,,
+Houston,21,Ballots Cast,,,,200,,
+Houston,22,Ballots Cast,,,,163,,
+Houston,1,Straight Party,,REP,Republican,198,45,153
+Houston,2,Straight Party,,REP,Republican,338,61,277
+Houston,3,Straight Party,,REP,Republican,124,26,98
+Houston,4,Straight Party,,REP,Republican,341,70,271
+Houston,5,Straight Party,,REP,Republican,352,121,231
+Houston,6,Straight Party,,REP,Republican,255,96,159
+Houston,7,Straight Party,,REP,Republican,245,119,126
+Houston,8,Straight Party,,REP,Republican,113,45,68
+Houston,9,Straight Party,,REP,Republican,159,77,82
+Houston,10,Straight Party,,REP,Republican,83,48,35
+Houston,11,Straight Party,,REP,Republican,42,17,25
+Houston,12,Straight Party,,REP,Republican,48,9,39
+Houston,14,Straight Party,,REP,Republican,142,53,89
+Houston,15,Straight Party,,REP,Republican,77,20,57
+Houston,16,Straight Party,,REP,Republican,100,22,78
+Houston,17,Straight Party,,REP,Republican,93,59,34
+Houston,18,Straight Party,,REP,Republican,36,20,16
+Houston,19,Straight Party,,REP,Republican,163,93,70
+Houston,20,Straight Party,,REP,Republican,72,50,22
+Houston,21,Straight Party,,REP,Republican,101,57,44
+Houston,22,Straight Party,,REP,Republican,55,30,25
+Houston,1,Straight Party,,DEM,Democratic,142,51,91
+Houston,2,Straight Party,,DEM,Democratic,159,44,115
+Houston,3,Straight Party,,DEM,Democratic,349,145,204
+Houston,4,Straight Party,,DEM,Democratic,160,53,107
+Houston,5,Straight Party,,DEM,Democratic,55,28,27
+Houston,6,Straight Party,,DEM,Democratic,106,58,48
+Houston,7,Straight Party,,DEM,Democratic,30,17,13
+Houston,8,Straight Party,,DEM,Democratic,24,11,13
+Houston,9,Straight Party,,DEM,Democratic,7,3,4
+Houston,10,Straight Party,,DEM,Democratic,16,4,12
+Houston,11,Straight Party,,DEM,Democratic,13,8,5
 Houston,12,Straight Party,,DEM,Democratic,6,0,6
-Houston,14,Straight Party,,DEM,Democratic,4,3,7
-Houston,15,Straight Party,,DEM,Democratic,9,14,23
-Houston,16,Straight Party,,DEM,Democratic,3,3,6
-Houston,17,Straight Party,,DEM,Democratic,2,3,5
-Houston,18,Straight Party,,DEM,Democratic,14,11,25
-Houston,19,Straight Party,,DEM,Democratic,19,26,45
-Houston,20,Straight Party,,DEM,Democratic,2,2,4
-Houston,21,Straight Party,,DEM,Democratic,8,21,29
-Houston,22,Straight Party,,DEM,Democratic,15,11,26
-Houston,1,Straight Party,,LIB,Libertarian,1,2,3
+Houston,14,Straight Party,,DEM,Democratic,7,3,4
+Houston,15,Straight Party,,DEM,Democratic,23,14,9
+Houston,16,Straight Party,,DEM,Democratic,6,3,3
+Houston,17,Straight Party,,DEM,Democratic,5,3,2
+Houston,18,Straight Party,,DEM,Democratic,25,11,14
+Houston,19,Straight Party,,DEM,Democratic,45,26,19
+Houston,20,Straight Party,,DEM,Democratic,4,2,2
+Houston,21,Straight Party,,DEM,Democratic,29,21,8
+Houston,22,Straight Party,,DEM,Democratic,26,11,15
+Houston,1,Straight Party,,LIB,Libertarian,3,2,1
 Houston,2,Straight Party,,LIB,Libertarian,0,0,0
 Houston,3,Straight Party,,LIB,Libertarian,1,0,1
-Houston,4,Straight Party,,LIB,Libertarian,0,1,1
+Houston,4,Straight Party,,LIB,Libertarian,1,1,0
 Houston,5,Straight Party,,LIB,Libertarian,2,0,2
 Houston,6,Straight Party,,LIB,Libertarian,0,0,0
 Houston,7,Straight Party,,LIB,Libertarian,1,0,1
@@ -75,7 +75,7 @@ Houston,10,Straight Party,,LIB,Libertarian,1,0,1
 Houston,11,Straight Party,,LIB,Libertarian,1,0,1
 Houston,12,Straight Party,,LIB,Libertarian,0,0,0
 Houston,14,Straight Party,,LIB,Libertarian,0,0,0
-Houston,15,Straight Party,,LIB,Libertarian,1,1,2
+Houston,15,Straight Party,,LIB,Libertarian,2,1,1
 Houston,16,Straight Party,,LIB,Libertarian,0,0,0
 Houston,17,Straight Party,,LIB,Libertarian,0,0,0
 Houston,18,Straight Party,,LIB,Libertarian,0,0,0
@@ -83,121 +83,121 @@ Houston,19,Straight Party,,LIB,Libertarian,0,0,0
 Houston,20,Straight Party,,LIB,Libertarian,1,0,1
 Houston,21,Straight Party,,LIB,Libertarian,0,0,0
 Houston,22,Straight Party,,LIB,Libertarian,0,0,0
-Houston,1,U.S. Senate,,REP,Ted Cruz,285,100,385
-Houston,2,U.S. Senate,,REP,Ted Cruz,462,101,563
-Houston,3,U.S. Senate,,REP,Ted Cruz,193,51,244
-Houston,4,U.S. Senate,,REP,Ted Cruz,550,161,711
-Houston,5,U.S. Senate,,REP,Ted Cruz,343,200,543
-Houston,6,U.S. Senate,,REP,Ted Cruz,245,187,432
-Houston,7,U.S. Senate,,REP,Ted Cruz,256,235,491
-Houston,8,U.S. Senate,,REP,Ted Cruz,111,89,200
-Houston,9,U.S. Senate,,REP,Ted Cruz,137,113,250
-Houston,10,U.S. Senate,,REP,Ted Cruz,65,84,149
-Houston,11,U.S. Senate,,REP,Ted Cruz,50,22,72
-Houston,12,U.S. Senate,,REP,Ted Cruz,56,19,75
-Houston,14,U.S. Senate,,REP,Ted Cruz,140,91,231
-Houston,15,U.S. Senate,,REP,Ted Cruz,85,43,128
-Houston,16,U.S. Senate,,REP,Ted Cruz,126,31,157
-Houston,17,U.S. Senate,,REP,Ted Cruz,56,117,173
-Houston,18,U.S. Senate,,REP,Ted Cruz,26,36,62
-Houston,19,U.S. Senate,,REP,Ted Cruz,118,155,273
-Houston,20,U.S. Senate,,REP,Ted Cruz,44,87,131
-Houston,21,U.S. Senate,,REP,Ted Cruz,69,84,153
-Houston,22,U.S. Senate,,REP,Ted Cruz,63,66,129
-Houston,1,U.S. Senate,,DEM,Beto O'Rourke,132,74,206
-Houston,2,U.S. Senate,,DEM,Beto O'Rourke,169,58,227
-Houston,3,U.S. Senate,,DEM,Beto O'Rourke,248,157,405
-Houston,4,U.S. Senate,,DEM,Beto O'Rourke,168,71,239
-Houston,5,U.S. Senate,,DEM,Beto O'Rourke,49,47,96
-Houston,6,U.S. Senate,,DEM,Beto O'Rourke,75,74,149
-Houston,7,U.S. Senate,,DEM,Beto O'Rourke,29,27,56
-Houston,8,U.S. Senate,,DEM,Beto O'Rourke,21,16,37
-Houston,9,U.S. Senate,,DEM,Beto O'Rourke,10,8,18
-Houston,10,U.S. Senate,,DEM,Beto O'Rourke,18,13,31
-Houston,11,U.S. Senate,,DEM,Beto O'Rourke,6,9,15
+Houston,1,U.S. Senate,,REP,Ted Cruz,385,100,285
+Houston,2,U.S. Senate,,REP,Ted Cruz,563,101,462
+Houston,3,U.S. Senate,,REP,Ted Cruz,244,51,193
+Houston,4,U.S. Senate,,REP,Ted Cruz,711,161,550
+Houston,5,U.S. Senate,,REP,Ted Cruz,543,200,343
+Houston,6,U.S. Senate,,REP,Ted Cruz,432,187,245
+Houston,7,U.S. Senate,,REP,Ted Cruz,491,235,256
+Houston,8,U.S. Senate,,REP,Ted Cruz,200,89,111
+Houston,9,U.S. Senate,,REP,Ted Cruz,250,113,137
+Houston,10,U.S. Senate,,REP,Ted Cruz,149,84,65
+Houston,11,U.S. Senate,,REP,Ted Cruz,72,22,50
+Houston,12,U.S. Senate,,REP,Ted Cruz,75,19,56
+Houston,14,U.S. Senate,,REP,Ted Cruz,231,91,140
+Houston,15,U.S. Senate,,REP,Ted Cruz,128,43,85
+Houston,16,U.S. Senate,,REP,Ted Cruz,157,31,126
+Houston,17,U.S. Senate,,REP,Ted Cruz,173,117,56
+Houston,18,U.S. Senate,,REP,Ted Cruz,62,36,26
+Houston,19,U.S. Senate,,REP,Ted Cruz,273,155,118
+Houston,20,U.S. Senate,,REP,Ted Cruz,131,87,44
+Houston,21,U.S. Senate,,REP,Ted Cruz,153,84,69
+Houston,22,U.S. Senate,,REP,Ted Cruz,129,66,63
+Houston,1,U.S. Senate,,DEM,Beto O'Rourke,206,74,132
+Houston,2,U.S. Senate,,DEM,Beto O'Rourke,227,58,169
+Houston,3,U.S. Senate,,DEM,Beto O'Rourke,405,157,248
+Houston,4,U.S. Senate,,DEM,Beto O'Rourke,239,71,168
+Houston,5,U.S. Senate,,DEM,Beto O'Rourke,96,47,49
+Houston,6,U.S. Senate,,DEM,Beto O'Rourke,149,74,75
+Houston,7,U.S. Senate,,DEM,Beto O'Rourke,56,27,29
+Houston,8,U.S. Senate,,DEM,Beto O'Rourke,37,16,21
+Houston,9,U.S. Senate,,DEM,Beto O'Rourke,18,8,10
+Houston,10,U.S. Senate,,DEM,Beto O'Rourke,31,13,18
+Houston,11,U.S. Senate,,DEM,Beto O'Rourke,15,9,6
 Houston,12,U.S. Senate,,DEM,Beto O'Rourke,14,0,14
-Houston,14,U.S. Senate,,DEM,Beto O'Rourke,12,20,32
-Houston,15,U.S. Senate,,DEM,Beto O'Rourke,12,19,31
-Houston,16,U.S. Senate,,DEM,Beto O'Rourke,4,5,9
-Houston,17,U.S. Senate,,DEM,Beto O'Rourke,8,3,11
-Houston,18,U.S. Senate,,DEM,Beto O'Rourke,19,12,31
-Houston,19,U.S. Senate,,DEM,Beto O'Rourke,34,43,77
-Houston,20,U.S. Senate,,DEM,Beto O'Rourke,4,7,11
-Houston,21,U.S. Senate,,DEM,Beto O'Rourke,14,30,44
-Houston,22,U.S. Senate,,DEM,Beto O'Rourke,20,13,33
-Houston,1,U.S. Senate,,LIB,Neal M. Dikeman,1,1,2
-Houston,2,U.S. Senate,,LIB,Neal M. Dikeman,2,1,3
-Houston,3,U.S. Senate,,LIB,Neal M. Dikeman,6,2,8
-Houston,4,U.S. Senate,,LIB,Neal M. Dikeman,4,2,6
+Houston,14,U.S. Senate,,DEM,Beto O'Rourke,32,20,12
+Houston,15,U.S. Senate,,DEM,Beto O'Rourke,31,19,12
+Houston,16,U.S. Senate,,DEM,Beto O'Rourke,9,5,4
+Houston,17,U.S. Senate,,DEM,Beto O'Rourke,11,3,8
+Houston,18,U.S. Senate,,DEM,Beto O'Rourke,31,12,19
+Houston,19,U.S. Senate,,DEM,Beto O'Rourke,77,43,34
+Houston,20,U.S. Senate,,DEM,Beto O'Rourke,11,7,4
+Houston,21,U.S. Senate,,DEM,Beto O'Rourke,44,30,14
+Houston,22,U.S. Senate,,DEM,Beto O'Rourke,33,13,20
+Houston,1,U.S. Senate,,LIB,Neal M. Dikeman,2,1,1
+Houston,2,U.S. Senate,,LIB,Neal M. Dikeman,3,1,2
+Houston,3,U.S. Senate,,LIB,Neal M. Dikeman,8,2,6
+Houston,4,U.S. Senate,,LIB,Neal M. Dikeman,6,2,4
 Houston,5,U.S. Senate,,LIB,Neal M. Dikeman,1,0,1
 Houston,6,U.S. Senate,,LIB,Neal M. Dikeman,3,0,3
-Houston,7,U.S. Senate,,LIB,Neal M. Dikeman,2,3,5
+Houston,7,U.S. Senate,,LIB,Neal M. Dikeman,5,3,2
 Houston,8,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0
 Houston,9,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0
 Houston,10,U.S. Senate,,LIB,Neal M. Dikeman,2,0,2
 Houston,11,U.S. Senate,,LIB,Neal M. Dikeman,1,0,1
 Houston,12,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0
-Houston,14,U.S. Senate,,LIB,Neal M. Dikeman,0,1,1
-Houston,15,U.S. Senate,,LIB,Neal M. Dikeman,0,1,1
+Houston,14,U.S. Senate,,LIB,Neal M. Dikeman,1,1,0
+Houston,15,U.S. Senate,,LIB,Neal M. Dikeman,1,1,0
 Houston,16,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0
 Houston,17,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0
 Houston,18,U.S. Senate,,LIB,Neal M. Dikeman,1,0,1
 Houston,19,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0
 Houston,20,U.S. Senate,,LIB,Neal M. Dikeman,1,0,1
-Houston,21,U.S. Senate,,LIB,Neal M. Dikeman,0,1,1
+Houston,21,U.S. Senate,,LIB,Neal M. Dikeman,1,1,0
 Houston,22,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0
-Houston,1,U.S. House,8,REP,Kevin Brady,288,101,389
-Houston,2,U.S. House,8,REP,Kevin Brady,471,104,575
-Houston,3,U.S. House,8,REP,Kevin Brady,196,52,248
-Houston,4,U.S. House,8,REP,Kevin Brady,550,162,712
-Houston,5,U.S. House,8,REP,Kevin Brady,340,200,540
-Houston,6,U.S. House,8,REP,Kevin Brady,252,189,441
-Houston,7,U.S. House,8,REP,Kevin Brady,257,235,492
-Houston,8,U.S. House,8,REP,Kevin Brady,112,90,202
-Houston,9,U.S. House,8,REP,Kevin Brady,134,113,247
-Houston,10,U.S. House,8,REP,Kevin Brady,64,86,150
-Houston,11,U.S. House,8,REP,Kevin Brady,49,23,72
-Houston,12,U.S. House,8,REP,Kevin Brady,56,19,75
-Houston,14,U.S. House,8,REP,Kevin Brady,141,95,236
-Houston,15,U.S. House,8,REP,Kevin Brady,83,46,129
-Houston,16,U.S. House,8,REP,Kevin Brady,124,32,156
-Houston,17,U.S. House,8,REP,Kevin Brady,57,118,175
-Houston,18,U.S. House,8,REP,Kevin Brady,26,37,63
-Houston,19,U.S. House,8,REP,Kevin Brady,121,155,276
-Houston,20,U.S. House,8,REP,Kevin Brady,43,86,129
-Houston,21,U.S. House,8,REP,Kevin Brady,69,85,154
-Houston,22,U.S. House,8,REP,Kevin Brady,64,65,129
-Houston,1,U.S. House,8,DEM,Steven David,123,72,195
-Houston,2,U.S. House,8,DEM,Steven David,160,54,214
-Houston,3,U.S. House,8,DEM,Steven David,245,155,400
-Houston,4,U.S. House,8,DEM,Steven David,157,65,222
-Houston,5,U.S. House,8,DEM,Steven David,45,45,90
-Houston,6,U.S. House,8,DEM,Steven David,70,70,140
-Houston,7,U.S. House,8,DEM,Steven David,25,27,52
-Houston,8,U.S. House,8,DEM,Steven David,21,15,36
-Houston,9,U.S. House,8,DEM,Steven David,9,8,17
-Houston,10,U.S. House,8,DEM,Steven David,19,9,28
-Houston,11,U.S. House,8,DEM,Steven David,6,7,13
+Houston,1,U.S. House,8,REP,Kevin Brady,389,101,288
+Houston,2,U.S. House,8,REP,Kevin Brady,575,104,471
+Houston,3,U.S. House,8,REP,Kevin Brady,248,52,196
+Houston,4,U.S. House,8,REP,Kevin Brady,712,162,550
+Houston,5,U.S. House,8,REP,Kevin Brady,540,200,340
+Houston,6,U.S. House,8,REP,Kevin Brady,441,189,252
+Houston,7,U.S. House,8,REP,Kevin Brady,492,235,257
+Houston,8,U.S. House,8,REP,Kevin Brady,202,90,112
+Houston,9,U.S. House,8,REP,Kevin Brady,247,113,134
+Houston,10,U.S. House,8,REP,Kevin Brady,150,86,64
+Houston,11,U.S. House,8,REP,Kevin Brady,72,23,49
+Houston,12,U.S. House,8,REP,Kevin Brady,75,19,56
+Houston,14,U.S. House,8,REP,Kevin Brady,236,95,141
+Houston,15,U.S. House,8,REP,Kevin Brady,129,46,83
+Houston,16,U.S. House,8,REP,Kevin Brady,156,32,124
+Houston,17,U.S. House,8,REP,Kevin Brady,175,118,57
+Houston,18,U.S. House,8,REP,Kevin Brady,63,37,26
+Houston,19,U.S. House,8,REP,Kevin Brady,276,155,121
+Houston,20,U.S. House,8,REP,Kevin Brady,129,86,43
+Houston,21,U.S. House,8,REP,Kevin Brady,154,85,69
+Houston,22,U.S. House,8,REP,Kevin Brady,129,65,64
+Houston,1,U.S. House,8,DEM,Steven David,195,72,123
+Houston,2,U.S. House,8,DEM,Steven David,214,54,160
+Houston,3,U.S. House,8,DEM,Steven David,400,155,245
+Houston,4,U.S. House,8,DEM,Steven David,222,65,157
+Houston,5,U.S. House,8,DEM,Steven David,90,45,45
+Houston,6,U.S. House,8,DEM,Steven David,140,70,70
+Houston,7,U.S. House,8,DEM,Steven David,52,27,25
+Houston,8,U.S. House,8,DEM,Steven David,36,15,21
+Houston,9,U.S. House,8,DEM,Steven David,17,8,9
+Houston,10,U.S. House,8,DEM,Steven David,28,9,19
+Houston,11,U.S. House,8,DEM,Steven David,13,7,6
 Houston,12,U.S. House,8,DEM,Steven David,12,0,12
-Houston,14,U.S. House,8,DEM,Steven David,12,16,28
-Houston,15,U.S. House,8,DEM,Steven David,12,17,29
-Houston,16,U.S. House,8,DEM,Steven David,4,4,8
-Houston,17,U.S. House,8,DEM,Steven David,7,2,9
-Houston,18,U.S. House,8,DEM,Steven David,19,11,30
-Houston,19,U.S. House,8,DEM,Steven David,29,41,70
-Houston,20,U.S. House,8,DEM,Steven David,4,6,10
-Houston,21,U.S. House,8,DEM,Steven David,13,28,41
-Houston,22,U.S. House,8,DEM,Steven David,18,13,31
-Houston,1,U.S. House,8,LIB,Chris Duncan,3,1,4
-Houston,2,U.S. House,8,LIB,Chris Duncan,2,1,3
-Houston,3,U.S. House,8,LIB,Chris Duncan,3,2,5
-Houston,4,U.S. House,8,LIB,Chris Duncan,11,4,15
-Houston,5,U.S. House,8,LIB,Chris Duncan,5,1,6
+Houston,14,U.S. House,8,DEM,Steven David,28,16,12
+Houston,15,U.S. House,8,DEM,Steven David,29,17,12
+Houston,16,U.S. House,8,DEM,Steven David,8,4,4
+Houston,17,U.S. House,8,DEM,Steven David,9,2,7
+Houston,18,U.S. House,8,DEM,Steven David,30,11,19
+Houston,19,U.S. House,8,DEM,Steven David,70,41,29
+Houston,20,U.S. House,8,DEM,Steven David,10,6,4
+Houston,21,U.S. House,8,DEM,Steven David,41,28,13
+Houston,22,U.S. House,8,DEM,Steven David,31,13,18
+Houston,1,U.S. House,8,LIB,Chris Duncan,4,1,3
+Houston,2,U.S. House,8,LIB,Chris Duncan,3,1,2
+Houston,3,U.S. House,8,LIB,Chris Duncan,5,2,3
+Houston,4,U.S. House,8,LIB,Chris Duncan,15,4,11
+Houston,5,U.S. House,8,LIB,Chris Duncan,6,1,5
 Houston,6,U.S. House,8,LIB,Chris Duncan,2,0,2
-Houston,7,U.S. House,8,LIB,Chris Duncan,5,2,7
+Houston,7,U.S. House,8,LIB,Chris Duncan,7,2,5
 Houston,8,U.S. House,8,LIB,Chris Duncan,0,0,0
 Houston,9,U.S. House,8,LIB,Chris Duncan,4,0,4
-Houston,10,U.S. House,8,LIB,Chris Duncan,2,2,4
+Houston,10,U.S. House,8,LIB,Chris Duncan,4,2,2
 Houston,11,U.S. House,8,LIB,Chris Duncan,2,0,2
 Houston,12,U.S. House,8,LIB,Chris Duncan,0,0,0
 Houston,14,U.S. House,8,LIB,Chris Duncan,0,0,0
@@ -205,122 +205,122 @@ Houston,15,U.S. House,8,LIB,Chris Duncan,2,0,2
 Houston,16,U.S. House,8,LIB,Chris Duncan,2,0,2
 Houston,17,U.S. House,8,LIB,Chris Duncan,0,0,0
 Houston,18,U.S. House,8,LIB,Chris Duncan,1,0,1
-Houston,19,U.S. House,8,LIB,Chris Duncan,1,2,3
-Houston,20,U.S. House,8,LIB,Chris Duncan,2,1,3
-Houston,21,U.S. House,8,LIB,Chris Duncan,0,2,2
-Houston,22,U.S. House,8,LIB,Chris Duncan,1,1,2
-Houston,1,Governor,,REP,Greg Abbott,295,107,402
-Houston,2,Governor,,REP,Greg Abbott,473,106,579
-Houston,3,Governor,,REP,Greg Abbott,205,53,258
-Houston,4,Governor,,REP,Greg Abbott,560,165,725
-Houston,5,Governor,,REP,Greg Abbott,345,206,551
-Houston,6,Governor,,REP,Greg Abbott,254,189,443
-Houston,7,Governor,,REP,Greg Abbott,257,233,490
-Houston,8,Governor,,REP,Greg Abbott,112,91,203
-Houston,9,Governor,,REP,Greg Abbott,137,115,252
-Houston,10,Governor,,REP,Greg Abbott,64,88,152
-Houston,11,Governor,,REP,Greg Abbott,49,23,72
-Houston,12,Governor,,REP,Greg Abbott,56,19,75
-Houston,14,Governor,,REP,Greg Abbott,140,97,237
-Houston,15,Governor,,REP,Greg Abbott,84,45,129
-Houston,16,Governor,,REP,Greg Abbott,126,32,158
-Houston,17,Governor,,REP,Greg Abbott,57,116,173
-Houston,18,Governor,,REP,Greg Abbott,28,36,64
-Houston,19,Governor,,REP,Greg Abbott,120,158,278
-Houston,20,Governor,,REP,Greg Abbott,44,88,132
-Houston,21,Governor,,REP,Greg Abbott,69,85,154
-Houston,22,Governor,,REP,Greg Abbott,65,67,132
-Houston,1,Governor,,DEM,Lupe Valdez,119,67,186
-Houston,2,Governor,,DEM,Lupe Valdez,154,52,206
-Houston,3,Governor,,DEM,Lupe Valdez,235,157,392
-Houston,4,Governor,,DEM,Lupe Valdez,156,66,222
-Houston,5,Governor,,DEM,Lupe Valdez,45,41,86
-Houston,6,Governor,,DEM,Lupe Valdez,69,70,139
-Houston,7,Governor,,DEM,Lupe Valdez,24,30,54
-Houston,8,Governor,,DEM,Lupe Valdez,21,14,35
-Houston,9,Governor,,DEM,Lupe Valdez,8,6,14
-Houston,10,Governor,,DEM,Lupe Valdez,19,9,28
-Houston,11,Governor,,DEM,Lupe Valdez,6,8,14
+Houston,19,U.S. House,8,LIB,Chris Duncan,3,2,1
+Houston,20,U.S. House,8,LIB,Chris Duncan,3,1,2
+Houston,21,U.S. House,8,LIB,Chris Duncan,2,2,0
+Houston,22,U.S. House,8,LIB,Chris Duncan,2,1,1
+Houston,1,Governor,,REP,Greg Abbott,402,107,295
+Houston,2,Governor,,REP,Greg Abbott,579,106,473
+Houston,3,Governor,,REP,Greg Abbott,258,53,205
+Houston,4,Governor,,REP,Greg Abbott,725,165,560
+Houston,5,Governor,,REP,Greg Abbott,551,206,345
+Houston,6,Governor,,REP,Greg Abbott,443,189,254
+Houston,7,Governor,,REP,Greg Abbott,490,233,257
+Houston,8,Governor,,REP,Greg Abbott,203,91,112
+Houston,9,Governor,,REP,Greg Abbott,252,115,137
+Houston,10,Governor,,REP,Greg Abbott,152,88,64
+Houston,11,Governor,,REP,Greg Abbott,72,23,49
+Houston,12,Governor,,REP,Greg Abbott,75,19,56
+Houston,14,Governor,,REP,Greg Abbott,237,97,140
+Houston,15,Governor,,REP,Greg Abbott,129,45,84
+Houston,16,Governor,,REP,Greg Abbott,158,32,126
+Houston,17,Governor,,REP,Greg Abbott,173,116,57
+Houston,18,Governor,,REP,Greg Abbott,64,36,28
+Houston,19,Governor,,REP,Greg Abbott,278,158,120
+Houston,20,Governor,,REP,Greg Abbott,132,88,44
+Houston,21,Governor,,REP,Greg Abbott,154,85,69
+Houston,22,Governor,,REP,Greg Abbott,132,67,65
+Houston,1,Governor,,DEM,Lupe Valdez,186,67,119
+Houston,2,Governor,,DEM,Lupe Valdez,206,52,154
+Houston,3,Governor,,DEM,Lupe Valdez,392,157,235
+Houston,4,Governor,,DEM,Lupe Valdez,222,66,156
+Houston,5,Governor,,DEM,Lupe Valdez,86,41,45
+Houston,6,Governor,,DEM,Lupe Valdez,139,70,69
+Houston,7,Governor,,DEM,Lupe Valdez,54,30,24
+Houston,8,Governor,,DEM,Lupe Valdez,35,14,21
+Houston,9,Governor,,DEM,Lupe Valdez,14,6,8
+Houston,10,Governor,,DEM,Lupe Valdez,28,9,19
+Houston,11,Governor,,DEM,Lupe Valdez,14,8,6
 Houston,12,Governor,,DEM,Lupe Valdez,13,0,13
-Houston,14,Governor,,DEM,Lupe Valdez,11,13,24
-Houston,15,Governor,,DEM,Lupe Valdez,12,18,30
-Houston,16,Governor,,DEM,Lupe Valdez,4,4,8
-Houston,17,Governor,,DEM,Lupe Valdez,7,4,11
-Houston,18,Governor,,DEM,Lupe Valdez,17,12,29
-Houston,19,Governor,,DEM,Lupe Valdez,30,41,71
-Houston,20,Governor,,DEM,Lupe Valdez,4,5,9
-Houston,21,Governor,,DEM,Lupe Valdez,14,27,41
-Houston,22,Governor,,DEM,Lupe Valdez,17,12,29
-Houston,1,Governor,,LIB,Mark Jay Tippetts,3,2,5
-Houston,2,Governor,,LIB,Mark Jay Tippetts,4,1,5
+Houston,14,Governor,,DEM,Lupe Valdez,24,13,11
+Houston,15,Governor,,DEM,Lupe Valdez,30,18,12
+Houston,16,Governor,,DEM,Lupe Valdez,8,4,4
+Houston,17,Governor,,DEM,Lupe Valdez,11,4,7
+Houston,18,Governor,,DEM,Lupe Valdez,29,12,17
+Houston,19,Governor,,DEM,Lupe Valdez,71,41,30
+Houston,20,Governor,,DEM,Lupe Valdez,9,5,4
+Houston,21,Governor,,DEM,Lupe Valdez,41,27,14
+Houston,22,Governor,,DEM,Lupe Valdez,29,12,17
+Houston,1,Governor,,LIB,Mark Jay Tippetts,5,2,3
+Houston,2,Governor,,LIB,Mark Jay Tippetts,5,1,4
 Houston,3,Governor,,LIB,Mark Jay Tippetts,5,0,5
-Houston,4,Governor,,LIB,Mark Jay Tippetts,3,2,5
+Houston,4,Governor,,LIB,Mark Jay Tippetts,5,2,3
 Houston,5,Governor,,LIB,Mark Jay Tippetts,3,0,3
-Houston,6,Governor,,LIB,Mark Jay Tippetts,1,2,3
-Houston,7,Governor,,LIB,Mark Jay Tippetts,5,2,7
+Houston,6,Governor,,LIB,Mark Jay Tippetts,3,2,1
+Houston,7,Governor,,LIB,Mark Jay Tippetts,7,2,5
 Houston,8,Governor,,LIB,Mark Jay Tippetts,1,0,1
 Houston,9,Governor,,LIB,Mark Jay Tippetts,2,0,2
 Houston,10,Governor,,LIB,Mark Jay Tippetts,2,0,2
 Houston,11,Governor,,LIB,Mark Jay Tippetts,2,0,2
 Houston,12,Governor,,LIB,Mark Jay Tippetts,0,0,0
-Houston,14,Governor,,LIB,Mark Jay Tippetts,2,2,4
+Houston,14,Governor,,LIB,Mark Jay Tippetts,4,2,2
 Houston,15,Governor,,LIB,Mark Jay Tippetts,1,0,1
 Houston,16,Governor,,LIB,Mark Jay Tippetts,0,0,0
 Houston,17,Governor,,LIB,Mark Jay Tippetts,0,0,0
 Houston,18,Governor,,LIB,Mark Jay Tippetts,1,0,1
 Houston,19,Governor,,LIB,Mark Jay Tippetts,0,0,0
 Houston,20,Governor,,LIB,Mark Jay Tippetts,1,0,1
-Houston,21,Governor,,LIB,Mark Jay Tippetts,0,2,2
+Houston,21,Governor,,LIB,Mark Jay Tippetts,2,2,0
 Houston,22,Governor,,LIB,Mark Jay Tippetts,1,0,1
-Houston,1,Lieutenant Governor,,REP,Dan Patrick,271,97,368
-Houston,2,Lieutenant Governor,,REP,Dan Patrick,457,102,559
-Houston,3,Lieutenant Governor,,REP,Dan Patrick,185,47,232
-Houston,4,Lieutenant Governor,,REP,Dan Patrick,534,155,689
-Houston,5,Lieutenant Governor,,REP,Dan Patrick,338,193,531
-Houston,6,Lieutenant Governor,,REP,Dan Patrick,237,179,416
-Houston,7,Lieutenant Governor,,REP,Dan Patrick,244,215,459
-Houston,8,Lieutenant Governor,,REP,Dan Patrick,109,85,194
-Houston,9,Lieutenant Governor,,REP,Dan Patrick,131,112,243
-Houston,10,Lieutenant Governor,,REP,Dan Patrick,63,84,147
-Houston,11,Lieutenant Governor,,REP,Dan Patrick,46,22,68
-Houston,12,Lieutenant Governor,,REP,Dan Patrick,57,19,76
-Houston,14,Lieutenant Governor,,REP,Dan Patrick,139,91,230
-Houston,15,Lieutenant Governor,,REP,Dan Patrick,82,42,124
-Houston,16,Lieutenant Governor,,REP,Dan Patrick,127,31,158
-Houston,17,Lieutenant Governor,,REP,Dan Patrick,56,115,171
-Houston,18,Lieutenant Governor,,REP,Dan Patrick,25,35,60
-Houston,19,Lieutenant Governor,,REP,Dan Patrick,118,155,273
-Houston,20,Lieutenant Governor,,REP,Dan Patrick,42,86,128
-Houston,21,Lieutenant Governor,,REP,Dan Patrick,68,81,149
-Houston,22,Lieutenant Governor,,REP,Dan Patrick,63,66,129
-Houston,1,Lieutenant Governor,,DEM,Mike Collier,140,78,218
-Houston,2,Lieutenant Governor,,DEM,Mike Collier,170,55,225
-Houston,3,Lieutenant Governor,,DEM,Mike Collier,257,159,416
-Houston,4,Lieutenant Governor,,DEM,Mike Collier,174,72,246
-Houston,5,Lieutenant Governor,,DEM,Mike Collier,50,51,101
-Houston,6,Lieutenant Governor,,DEM,Mike Collier,82,77,159
-Houston,7,Lieutenant Governor,,DEM,Mike Collier,38,40,78
-Houston,8,Lieutenant Governor,,DEM,Mike Collier,24,20,44
-Houston,9,Lieutenant Governor,,DEM,Mike Collier,14,9,23
-Houston,10,Lieutenant Governor,,DEM,Mike Collier,21,13,34
-Houston,11,Lieutenant Governor,,DEM,Mike Collier,7,8,15
+Houston,1,Lieutenant Governor,,REP,Dan Patrick,368,97,271
+Houston,2,Lieutenant Governor,,REP,Dan Patrick,559,102,457
+Houston,3,Lieutenant Governor,,REP,Dan Patrick,232,47,185
+Houston,4,Lieutenant Governor,,REP,Dan Patrick,689,155,534
+Houston,5,Lieutenant Governor,,REP,Dan Patrick,531,193,338
+Houston,6,Lieutenant Governor,,REP,Dan Patrick,416,179,237
+Houston,7,Lieutenant Governor,,REP,Dan Patrick,459,215,244
+Houston,8,Lieutenant Governor,,REP,Dan Patrick,194,85,109
+Houston,9,Lieutenant Governor,,REP,Dan Patrick,243,112,131
+Houston,10,Lieutenant Governor,,REP,Dan Patrick,147,84,63
+Houston,11,Lieutenant Governor,,REP,Dan Patrick,68,22,46
+Houston,12,Lieutenant Governor,,REP,Dan Patrick,76,19,57
+Houston,14,Lieutenant Governor,,REP,Dan Patrick,230,91,139
+Houston,15,Lieutenant Governor,,REP,Dan Patrick,124,42,82
+Houston,16,Lieutenant Governor,,REP,Dan Patrick,158,31,127
+Houston,17,Lieutenant Governor,,REP,Dan Patrick,171,115,56
+Houston,18,Lieutenant Governor,,REP,Dan Patrick,60,35,25
+Houston,19,Lieutenant Governor,,REP,Dan Patrick,273,155,118
+Houston,20,Lieutenant Governor,,REP,Dan Patrick,128,86,42
+Houston,21,Lieutenant Governor,,REP,Dan Patrick,149,81,68
+Houston,22,Lieutenant Governor,,REP,Dan Patrick,129,66,63
+Houston,1,Lieutenant Governor,,DEM,Mike Collier,218,78,140
+Houston,2,Lieutenant Governor,,DEM,Mike Collier,225,55,170
+Houston,3,Lieutenant Governor,,DEM,Mike Collier,416,159,257
+Houston,4,Lieutenant Governor,,DEM,Mike Collier,246,72,174
+Houston,5,Lieutenant Governor,,DEM,Mike Collier,101,51,50
+Houston,6,Lieutenant Governor,,DEM,Mike Collier,159,77,82
+Houston,7,Lieutenant Governor,,DEM,Mike Collier,78,40,38
+Houston,8,Lieutenant Governor,,DEM,Mike Collier,44,20,24
+Houston,9,Lieutenant Governor,,DEM,Mike Collier,23,9,14
+Houston,10,Lieutenant Governor,,DEM,Mike Collier,34,13,21
+Houston,11,Lieutenant Governor,,DEM,Mike Collier,15,8,7
 Houston,12,Lieutenant Governor,,DEM,Mike Collier,10,0,10
-Houston,14,Lieutenant Governor,,DEM,Mike Collier,13,20,33
-Houston,15,Lieutenant Governor,,DEM,Mike Collier,13,21,34
-Houston,16,Lieutenant Governor,,DEM,Mike Collier,4,4,8
-Houston,17,Lieutenant Governor,,DEM,Mike Collier,8,4,12
-Houston,18,Lieutenant Governor,,DEM,Mike Collier,19,13,32
-Houston,19,Lieutenant Governor,,DEM,Mike Collier,31,44,75
-Houston,20,Lieutenant Governor,,DEM,Mike Collier,6,7,13
-Houston,21,Lieutenant Governor,,DEM,Mike Collier,14,33,47
-Houston,22,Lieutenant Governor,,DEM,Mike Collier,19,12,31
-Houston,1,Lieutenant Governor,,LIB,Kerry Douglas McKennon,5,1,6
-Houston,2,Lieutenant Governor,,LIB,Kerry Douglas McKennon,2,2,4
-Houston,3,Lieutenant Governor,,LIB,Kerry Douglas McKennon,5,2,7
-Houston,4,Lieutenant Governor,,LIB,Kerry Douglas McKennon,5,6,11
-Houston,5,Lieutenant Governor,,LIB,Kerry Douglas McKennon,3,3,6
-Houston,6,Lieutenant Governor,,LIB,Kerry Douglas McKennon,5,5,10
-Houston,7,Lieutenant Governor,,LIB,Kerry Douglas McKennon,5,8,13
+Houston,14,Lieutenant Governor,,DEM,Mike Collier,33,20,13
+Houston,15,Lieutenant Governor,,DEM,Mike Collier,34,21,13
+Houston,16,Lieutenant Governor,,DEM,Mike Collier,8,4,4
+Houston,17,Lieutenant Governor,,DEM,Mike Collier,12,4,8
+Houston,18,Lieutenant Governor,,DEM,Mike Collier,32,13,19
+Houston,19,Lieutenant Governor,,DEM,Mike Collier,75,44,31
+Houston,20,Lieutenant Governor,,DEM,Mike Collier,13,7,6
+Houston,21,Lieutenant Governor,,DEM,Mike Collier,47,33,14
+Houston,22,Lieutenant Governor,,DEM,Mike Collier,31,12,19
+Houston,1,Lieutenant Governor,,LIB,Kerry Douglas McKennon,6,1,5
+Houston,2,Lieutenant Governor,,LIB,Kerry Douglas McKennon,4,2,2
+Houston,3,Lieutenant Governor,,LIB,Kerry Douglas McKennon,7,2,5
+Houston,4,Lieutenant Governor,,LIB,Kerry Douglas McKennon,11,6,5
+Houston,5,Lieutenant Governor,,LIB,Kerry Douglas McKennon,6,3,3
+Houston,6,Lieutenant Governor,,LIB,Kerry Douglas McKennon,10,5,5
+Houston,7,Lieutenant Governor,,LIB,Kerry Douglas McKennon,13,8,5
 Houston,8,Lieutenant Governor,,LIB,Kerry Douglas McKennon,0,0,0
 Houston,9,Lieutenant Governor,,LIB,Kerry Douglas McKennon,2,0,2
 Houston,10,Lieutenant Governor,,LIB,Kerry Douglas McKennon,2,0,2
@@ -328,378 +328,378 @@ Houston,11,Lieutenant Governor,,LIB,Kerry Douglas McKennon,3,0,3
 Houston,12,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,0,1
 Houston,14,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,0,1
 Houston,15,Lieutenant Governor,,LIB,Kerry Douglas McKennon,2,0,2
-Houston,16,Lieutenant Governor,,LIB,Kerry Douglas McKennon,0,1,1
-Houston,17,Lieutenant Governor,,LIB,Kerry Douglas McKennon,0,1,1
+Houston,16,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,1,0
+Houston,17,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,1,0
 Houston,18,Lieutenant Governor,,LIB,Kerry Douglas McKennon,2,0,2
-Houston,19,Lieutenant Governor,,LIB,Kerry Douglas McKennon,0,1,1
+Houston,19,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,1,0
 Houston,20,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,0,1
-Houston,21,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,1,2
-Houston,22,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,1,2
-Houston,1,Attorney General,,REP,Ken Paxton,279,99,378
-Houston,2,Attorney General,,REP,Ken Paxton,452,101,553
-Houston,3,Attorney General,,REP,Ken Paxton,187,48,235
-Houston,4,Attorney General,,REP,Ken Paxton,536,152,688
-Houston,5,Attorney General,,REP,Ken Paxton,334,196,530
-Houston,6,Attorney General,,REP,Ken Paxton,244,186,430
-Houston,7,Attorney General,,REP,Ken Paxton,250,225,475
-Houston,8,Attorney General,,REP,Ken Paxton,108,86,194
-Houston,9,Attorney General,,REP,Ken Paxton,134,111,245
-Houston,10,Attorney General,,REP,Ken Paxton,64,86,150
-Houston,11,Attorney General,,REP,Ken Paxton,48,22,70
-Houston,12,Attorney General,,REP,Ken Paxton,55,19,74
-Houston,14,Attorney General,,REP,Ken Paxton,139,90,229
-Houston,15,Attorney General,,REP,Ken Paxton,82,44,126
-Houston,16,Attorney General,,REP,Ken Paxton,124,30,154
-Houston,17,Attorney General,,REP,Ken Paxton,54,117,171
-Houston,18,Attorney General,,REP,Ken Paxton,25,34,59
-Houston,19,Attorney General,,REP,Ken Paxton,118,150,268
-Houston,20,Attorney General,,REP,Ken Paxton,42,85,127
-Houston,21,Attorney General,,REP,Ken Paxton,68,85,153
-Houston,22,Attorney General,,REP,Ken Paxton,64,65,129
-Houston,1,Attorney General,,DEM,Justin Nelson,133,72,205
-Houston,2,Attorney General,,DEM,Justin Nelson,170,56,226
-Houston,3,Attorney General,,DEM,Justin Nelson,253,159,412
-Houston,4,Attorney General,,DEM,Justin Nelson,173,75,248
-Houston,5,Attorney General,,DEM,Justin Nelson,51,49,100
-Houston,6,Attorney General,,DEM,Justin Nelson,76,74,150
-Houston,7,Attorney General,,DEM,Justin Nelson,29,31,60
-Houston,8,Attorney General,,DEM,Justin Nelson,23,20,43
-Houston,9,Attorney General,,DEM,Justin Nelson,11,9,20
-Houston,10,Attorney General,,DEM,Justin Nelson,21,10,31
-Houston,11,Attorney General,,DEM,Justin Nelson,7,8,15
+Houston,21,Lieutenant Governor,,LIB,Kerry Douglas McKennon,2,1,1
+Houston,22,Lieutenant Governor,,LIB,Kerry Douglas McKennon,2,1,1
+Houston,1,Attorney General,,REP,Ken Paxton,378,99,279
+Houston,2,Attorney General,,REP,Ken Paxton,553,101,452
+Houston,3,Attorney General,,REP,Ken Paxton,235,48,187
+Houston,4,Attorney General,,REP,Ken Paxton,688,152,536
+Houston,5,Attorney General,,REP,Ken Paxton,530,196,334
+Houston,6,Attorney General,,REP,Ken Paxton,430,186,244
+Houston,7,Attorney General,,REP,Ken Paxton,475,225,250
+Houston,8,Attorney General,,REP,Ken Paxton,194,86,108
+Houston,9,Attorney General,,REP,Ken Paxton,245,111,134
+Houston,10,Attorney General,,REP,Ken Paxton,150,86,64
+Houston,11,Attorney General,,REP,Ken Paxton,70,22,48
+Houston,12,Attorney General,,REP,Ken Paxton,74,19,55
+Houston,14,Attorney General,,REP,Ken Paxton,229,90,139
+Houston,15,Attorney General,,REP,Ken Paxton,126,44,82
+Houston,16,Attorney General,,REP,Ken Paxton,154,30,124
+Houston,17,Attorney General,,REP,Ken Paxton,171,117,54
+Houston,18,Attorney General,,REP,Ken Paxton,59,34,25
+Houston,19,Attorney General,,REP,Ken Paxton,268,150,118
+Houston,20,Attorney General,,REP,Ken Paxton,127,85,42
+Houston,21,Attorney General,,REP,Ken Paxton,153,85,68
+Houston,22,Attorney General,,REP,Ken Paxton,129,65,64
+Houston,1,Attorney General,,DEM,Justin Nelson,205,72,133
+Houston,2,Attorney General,,DEM,Justin Nelson,226,56,170
+Houston,3,Attorney General,,DEM,Justin Nelson,412,159,253
+Houston,4,Attorney General,,DEM,Justin Nelson,248,75,173
+Houston,5,Attorney General,,DEM,Justin Nelson,100,49,51
+Houston,6,Attorney General,,DEM,Justin Nelson,150,74,76
+Houston,7,Attorney General,,DEM,Justin Nelson,60,31,29
+Houston,8,Attorney General,,DEM,Justin Nelson,43,20,23
+Houston,9,Attorney General,,DEM,Justin Nelson,20,9,11
+Houston,10,Attorney General,,DEM,Justin Nelson,31,10,21
+Houston,11,Attorney General,,DEM,Justin Nelson,15,8,7
 Houston,12,Attorney General,,DEM,Justin Nelson,11,0,11
-Houston,14,Attorney General,,DEM,Justin Nelson,13,19,32
-Houston,15,Attorney General,,DEM,Justin Nelson,14,17,31
-Houston,16,Attorney General,,DEM,Justin Nelson,6,6,12
-Houston,17,Attorney General,,DEM,Justin Nelson,8,2,10
-Houston,18,Attorney General,,DEM,Justin Nelson,20,14,34
-Houston,19,Attorney General,,DEM,Justin Nelson,31,44,75
-Houston,20,Attorney General,,DEM,Justin Nelson,5,8,13
-Houston,21,Attorney General,,DEM,Justin Nelson,14,28,42
-Houston,22,Attorney General,,DEM,Justin Nelson,19,15,34
-Houston,1,Attorney General,,LIB,Michael Ray Harris,4,4,8
-Houston,2,Attorney General,,LIB,Michael Ray Harris,6,1,7
-Houston,3,Attorney General,,LIB,Michael Ray Harris,4,2,6
-Houston,4,Attorney General,,LIB,Michael Ray Harris,5,4,9
-Houston,5,Attorney General,,LIB,Michael Ray Harris,4,2,6
-Houston,6,Attorney General,,LIB,Michael Ray Harris,5,1,6
-Houston,7,Attorney General,,LIB,Michael Ray Harris,6,4,10
+Houston,14,Attorney General,,DEM,Justin Nelson,32,19,13
+Houston,15,Attorney General,,DEM,Justin Nelson,31,17,14
+Houston,16,Attorney General,,DEM,Justin Nelson,12,6,6
+Houston,17,Attorney General,,DEM,Justin Nelson,10,2,8
+Houston,18,Attorney General,,DEM,Justin Nelson,34,14,20
+Houston,19,Attorney General,,DEM,Justin Nelson,75,44,31
+Houston,20,Attorney General,,DEM,Justin Nelson,13,8,5
+Houston,21,Attorney General,,DEM,Justin Nelson,42,28,14
+Houston,22,Attorney General,,DEM,Justin Nelson,34,15,19
+Houston,1,Attorney General,,LIB,Michael Ray Harris,8,4,4
+Houston,2,Attorney General,,LIB,Michael Ray Harris,7,1,6
+Houston,3,Attorney General,,LIB,Michael Ray Harris,6,2,4
+Houston,4,Attorney General,,LIB,Michael Ray Harris,9,4,5
+Houston,5,Attorney General,,LIB,Michael Ray Harris,6,2,4
+Houston,6,Attorney General,,LIB,Michael Ray Harris,6,1,5
+Houston,7,Attorney General,,LIB,Michael Ray Harris,10,4,6
 Houston,8,Attorney General,,LIB,Michael Ray Harris,1,0,1
-Houston,9,Attorney General,,LIB,Michael Ray Harris,1,1,2
-Houston,10,Attorney General,,LIB,Michael Ray Harris,1,1,2
+Houston,9,Attorney General,,LIB,Michael Ray Harris,2,1,1
+Houston,10,Attorney General,,LIB,Michael Ray Harris,2,1,1
 Houston,11,Attorney General,,LIB,Michael Ray Harris,2,0,2
 Houston,12,Attorney General,,LIB,Michael Ray Harris,0,0,0
-Houston,14,Attorney General,,LIB,Michael Ray Harris,1,1,2
-Houston,15,Attorney General,,LIB,Michael Ray Harris,1,1,2
+Houston,14,Attorney General,,LIB,Michael Ray Harris,2,1,1
+Houston,15,Attorney General,,LIB,Michael Ray Harris,2,1,1
 Houston,16,Attorney General,,LIB,Michael Ray Harris,1,0,1
-Houston,17,Attorney General,,LIB,Michael Ray Harris,1,1,2
+Houston,17,Attorney General,,LIB,Michael Ray Harris,2,1,1
 Houston,18,Attorney General,,LIB,Michael Ray Harris,1,0,1
-Houston,19,Attorney General,,LIB,Michael Ray Harris,0,2,2
+Houston,19,Attorney General,,LIB,Michael Ray Harris,2,2,0
 Houston,20,Attorney General,,LIB,Michael Ray Harris,2,0,2
-Houston,21,Attorney General,,LIB,Michael Ray Harris,1,2,3
+Houston,21,Attorney General,,LIB,Michael Ray Harris,3,2,1
 Houston,22,Attorney General,,LIB,Michael Ray Harris,0,0,0
-Houston,1,Comptroller of Public Accounts,,REP,Glenn Hegar,281,101,382
-Houston,2,Comptroller of Public Accounts,,REP,Glenn Hegar,455,100,555
-Houston,3,Comptroller of Public Accounts,,REP,Glenn Hegar,191,45,236
-Houston,4,Comptroller of Public Accounts,,REP,Glenn Hegar,534,155,689
-Houston,5,Comptroller of Public Accounts,,REP,Glenn Hegar,340,196,536
-Houston,6,Comptroller of Public Accounts,,REP,Glenn Hegar,247,181,428
-Houston,7,Comptroller of Public Accounts,,REP,Glenn Hegar,252,228,480
-Houston,8,Comptroller of Public Accounts,,REP,Glenn Hegar,109,89,198
-Houston,9,Comptroller of Public Accounts,,REP,Glenn Hegar,131,108,239
-Houston,10,Comptroller of Public Accounts,,REP,Glenn Hegar,66,83,149
-Houston,11,Comptroller of Public Accounts,,REP,Glenn Hegar,47,22,69
-Houston,12,Comptroller of Public Accounts,,REP,Glenn Hegar,53,17,70
-Houston,14,Comptroller of Public Accounts,,REP,Glenn Hegar,137,85,222
-Houston,15,Comptroller of Public Accounts,,REP,Glenn Hegar,82,45,127
-Houston,16,Comptroller of Public Accounts,,REP,Glenn Hegar,124,31,155
-Houston,17,Comptroller of Public Accounts,,REP,Glenn Hegar,56,114,170
-Houston,18,Comptroller of Public Accounts,,REP,Glenn Hegar,25,36,61
-Houston,19,Comptroller of Public Accounts,,REP,Glenn Hegar,120,151,271
-Houston,20,Comptroller of Public Accounts,,REP,Glenn Hegar,42,88,130
-Houston,21,Comptroller of Public Accounts,,REP,Glenn Hegar,67,87,154
-Houston,22,Comptroller of Public Accounts,,REP,Glenn Hegar,60,61,121
-Houston,1,Comptroller of Public Accounts,,DEM,Joi Chevalier,121,72,193
-Houston,2,Comptroller of Public Accounts,,DEM,Joi Chevalier,160,54,214
-Houston,3,Comptroller of Public Accounts,,DEM,Joi Chevalier,245,158,403
-Houston,4,Comptroller of Public Accounts,,DEM,Joi Chevalier,161,70,231
-Houston,5,Comptroller of Public Accounts,,DEM,Joi Chevalier,46,47,93
-Houston,6,Comptroller of Public Accounts,,DEM,Joi Chevalier,72,70,142
-Houston,7,Comptroller of Public Accounts,,DEM,Joi Chevalier,23,25,48
-Houston,8,Comptroller of Public Accounts,,DEM,Joi Chevalier,22,15,37
-Houston,9,Comptroller of Public Accounts,,DEM,Joi Chevalier,9,7,16
-Houston,10,Comptroller of Public Accounts,,DEM,Joi Chevalier,18,11,29
-Houston,11,Comptroller of Public Accounts,,DEM,Joi Chevalier,7,8,15
-Houston,12,Comptroller of Public Accounts,,DEM,Joi Chevalier,12,1,13
-Houston,14,Comptroller of Public Accounts,,DEM,Joi Chevalier,10,20,30
-Houston,15,Comptroller of Public Accounts,,DEM,Joi Chevalier,13,17,30
-Houston,16,Comptroller of Public Accounts,,DEM,Joi Chevalier,4,5,9
-Houston,17,Comptroller of Public Accounts,,DEM,Joi Chevalier,7,3,10
-Houston,18,Comptroller of Public Accounts,,DEM,Joi Chevalier,17,12,29
-Houston,19,Comptroller of Public Accounts,,DEM,Joi Chevalier,29,41,70
-Houston,20,Comptroller of Public Accounts,,DEM,Joi Chevalier,3,5,8
-Houston,21,Comptroller of Public Accounts,,DEM,Joi Chevalier,14,26,40
-Houston,22,Comptroller of Public Accounts,,DEM,Joi Chevalier,21,14,35
-Houston,1,Comptroller of Public Accounts,,LIB,Ben Sanders,6,3,9
-Houston,2,Comptroller of Public Accounts,,LIB,Ben Sanders,9,4,13
-Houston,3,Comptroller of Public Accounts,,LIB,Ben Sanders,8,5,13
-Houston,4,Comptroller of Public Accounts,,LIB,Ben Sanders,9,2,11
-Houston,5,Comptroller of Public Accounts,,LIB,Ben Sanders,3,4,7
-Houston,6,Comptroller of Public Accounts,,LIB,Ben Sanders,3,5,8
-Houston,7,Comptroller of Public Accounts,,LIB,Ben Sanders,7,6,13
+Houston,1,Comptroller of Public Accounts,,REP,Glenn Hegar,382,101,281
+Houston,2,Comptroller of Public Accounts,,REP,Glenn Hegar,555,100,455
+Houston,3,Comptroller of Public Accounts,,REP,Glenn Hegar,236,45,191
+Houston,4,Comptroller of Public Accounts,,REP,Glenn Hegar,689,155,534
+Houston,5,Comptroller of Public Accounts,,REP,Glenn Hegar,536,196,340
+Houston,6,Comptroller of Public Accounts,,REP,Glenn Hegar,428,181,247
+Houston,7,Comptroller of Public Accounts,,REP,Glenn Hegar,480,228,252
+Houston,8,Comptroller of Public Accounts,,REP,Glenn Hegar,198,89,109
+Houston,9,Comptroller of Public Accounts,,REP,Glenn Hegar,239,108,131
+Houston,10,Comptroller of Public Accounts,,REP,Glenn Hegar,149,83,66
+Houston,11,Comptroller of Public Accounts,,REP,Glenn Hegar,69,22,47
+Houston,12,Comptroller of Public Accounts,,REP,Glenn Hegar,70,17,53
+Houston,14,Comptroller of Public Accounts,,REP,Glenn Hegar,222,85,137
+Houston,15,Comptroller of Public Accounts,,REP,Glenn Hegar,127,45,82
+Houston,16,Comptroller of Public Accounts,,REP,Glenn Hegar,155,31,124
+Houston,17,Comptroller of Public Accounts,,REP,Glenn Hegar,170,114,56
+Houston,18,Comptroller of Public Accounts,,REP,Glenn Hegar,61,36,25
+Houston,19,Comptroller of Public Accounts,,REP,Glenn Hegar,271,151,120
+Houston,20,Comptroller of Public Accounts,,REP,Glenn Hegar,130,88,42
+Houston,21,Comptroller of Public Accounts,,REP,Glenn Hegar,154,87,67
+Houston,22,Comptroller of Public Accounts,,REP,Glenn Hegar,121,61,60
+Houston,1,Comptroller of Public Accounts,,DEM,Joi Chevalier,193,72,121
+Houston,2,Comptroller of Public Accounts,,DEM,Joi Chevalier,214,54,160
+Houston,3,Comptroller of Public Accounts,,DEM,Joi Chevalier,403,158,245
+Houston,4,Comptroller of Public Accounts,,DEM,Joi Chevalier,231,70,161
+Houston,5,Comptroller of Public Accounts,,DEM,Joi Chevalier,93,47,46
+Houston,6,Comptroller of Public Accounts,,DEM,Joi Chevalier,142,70,72
+Houston,7,Comptroller of Public Accounts,,DEM,Joi Chevalier,48,25,23
+Houston,8,Comptroller of Public Accounts,,DEM,Joi Chevalier,37,15,22
+Houston,9,Comptroller of Public Accounts,,DEM,Joi Chevalier,16,7,9
+Houston,10,Comptroller of Public Accounts,,DEM,Joi Chevalier,29,11,18
+Houston,11,Comptroller of Public Accounts,,DEM,Joi Chevalier,15,8,7
+Houston,12,Comptroller of Public Accounts,,DEM,Joi Chevalier,13,1,12
+Houston,14,Comptroller of Public Accounts,,DEM,Joi Chevalier,30,20,10
+Houston,15,Comptroller of Public Accounts,,DEM,Joi Chevalier,30,17,13
+Houston,16,Comptroller of Public Accounts,,DEM,Joi Chevalier,9,5,4
+Houston,17,Comptroller of Public Accounts,,DEM,Joi Chevalier,10,3,7
+Houston,18,Comptroller of Public Accounts,,DEM,Joi Chevalier,29,12,17
+Houston,19,Comptroller of Public Accounts,,DEM,Joi Chevalier,70,41,29
+Houston,20,Comptroller of Public Accounts,,DEM,Joi Chevalier,8,5,3
+Houston,21,Comptroller of Public Accounts,,DEM,Joi Chevalier,40,26,14
+Houston,22,Comptroller of Public Accounts,,DEM,Joi Chevalier,35,14,21
+Houston,1,Comptroller of Public Accounts,,LIB,Ben Sanders,9,3,6
+Houston,2,Comptroller of Public Accounts,,LIB,Ben Sanders,13,4,9
+Houston,3,Comptroller of Public Accounts,,LIB,Ben Sanders,13,5,8
+Houston,4,Comptroller of Public Accounts,,LIB,Ben Sanders,11,2,9
+Houston,5,Comptroller of Public Accounts,,LIB,Ben Sanders,7,4,3
+Houston,6,Comptroller of Public Accounts,,LIB,Ben Sanders,8,5,3
+Houston,7,Comptroller of Public Accounts,,LIB,Ben Sanders,13,6,7
 Houston,8,Comptroller of Public Accounts,,LIB,Ben Sanders,0,0,0
-Houston,9,Comptroller of Public Accounts,,LIB,Ben Sanders,2,5,7
-Houston,10,Comptroller of Public Accounts,,LIB,Ben Sanders,2,2,4
+Houston,9,Comptroller of Public Accounts,,LIB,Ben Sanders,7,5,2
+Houston,10,Comptroller of Public Accounts,,LIB,Ben Sanders,4,2,2
 Houston,11,Comptroller of Public Accounts,,LIB,Ben Sanders,3,0,3
 Houston,12,Comptroller of Public Accounts,,LIB,Ben Sanders,2,0,2
-Houston,14,Comptroller of Public Accounts,,LIB,Ben Sanders,4,3,7
+Houston,14,Comptroller of Public Accounts,,LIB,Ben Sanders,7,3,4
 Houston,15,Comptroller of Public Accounts,,LIB,Ben Sanders,1,0,1
 Houston,16,Comptroller of Public Accounts,,LIB,Ben Sanders,2,0,2
-Houston,17,Comptroller of Public Accounts,,LIB,Ben Sanders,0,2,2
+Houston,17,Comptroller of Public Accounts,,LIB,Ben Sanders,2,2,0
 Houston,18,Comptroller of Public Accounts,,LIB,Ben Sanders,4,0,4
-Houston,19,Comptroller of Public Accounts,,LIB,Ben Sanders,0,2,2
+Houston,19,Comptroller of Public Accounts,,LIB,Ben Sanders,2,2,0
 Houston,20,Comptroller of Public Accounts,,LIB,Ben Sanders,2,0,2
-Houston,21,Comptroller of Public Accounts,,LIB,Ben Sanders,2,2,4
-Houston,22,Comptroller of Public Accounts,,LIB,Ben Sanders,2,1,3
-Houston,1,Commissioner of the General Land Office,,REP,George P. Bush,279,100,379
-Houston,2,Commissioner of the General Land Office,,REP,George P. Bush,462,99,561
-Houston,3,Commissioner of the General Land Office,,REP,George P. Bush,196,47,243
-Houston,4,Commissioner of the General Land Office,,REP,George P. Bush,530,155,685
-Houston,5,Commissioner of the General Land Office,,REP,George P. Bush,337,190,527
-Houston,6,Commissioner of the General Land Office,,REP,George P. Bush,235,184,419
-Houston,7,Commissioner of the General Land Office,,REP,George P. Bush,245,219,464
-Houston,8,Commissioner of the General Land Office,,REP,George P. Bush,105,89,194
-Houston,9,Commissioner of the General Land Office,,REP,George P. Bush,129,109,238
-Houston,10,Commissioner of the General Land Office,,REP,George P. Bush,65,83,148
-Houston,11,Commissioner of the General Land Office,,REP,George P. Bush,46,23,69
-Houston,12,Commissioner of the General Land Office,,REP,George P. Bush,55,19,74
-Houston,14,Commissioner of the General Land Office,,REP,George P. Bush,139,93,232
-Houston,15,Commissioner of the General Land Office,,REP,George P. Bush,83,45,128
-Houston,16,Commissioner of the General Land Office,,REP,George P. Bush,124,30,154
-Houston,17,Commissioner of the General Land Office,,REP,George P. Bush,49,113,162
-Houston,18,Commissioner of the General Land Office,,REP,George P. Bush,26,35,61
-Houston,19,Commissioner of the General Land Office,,REP,George P. Bush,115,149,264
-Houston,20,Commissioner of the General Land Office,,REP,George P. Bush,42,87,129
-Houston,21,Commissioner of the General Land Office,,REP,George P. Bush,69,85,154
-Houston,22,Commissioner of the General Land Office,,REP,George P. Bush,62,63,125
-Houston,1,Commissioner of the General Land Office,,DEM,Miguel Suazo,120,73,193
-Houston,2,Commissioner of the General Land Office,,DEM,Miguel Suazo,157,56,213
-Houston,3,Commissioner of the General Land Office,,DEM,Miguel Suazo,242,160,402
-Houston,4,Commissioner of the General Land Office,,DEM,Miguel Suazo,158,67,225
-Houston,5,Commissioner of the General Land Office,,DEM,Miguel Suazo,46,45,91
-Houston,6,Commissioner of the General Land Office,,DEM,Miguel Suazo,74,67,141
-Houston,7,Commissioner of the General Land Office,,DEM,Miguel Suazo,30,29,59
-Houston,8,Commissioner of the General Land Office,,DEM,Miguel Suazo,24,13,37
-Houston,9,Commissioner of the General Land Office,,DEM,Miguel Suazo,9,10,19
-Houston,10,Commissioner of the General Land Office,,DEM,Miguel Suazo,20,8,28
-Houston,11,Commissioner of the General Land Office,,DEM,Miguel Suazo,6,7,13
+Houston,21,Comptroller of Public Accounts,,LIB,Ben Sanders,4,2,2
+Houston,22,Comptroller of Public Accounts,,LIB,Ben Sanders,3,1,2
+Houston,1,Commissioner of the General Land Office,,REP,George P. Bush,379,100,279
+Houston,2,Commissioner of the General Land Office,,REP,George P. Bush,561,99,462
+Houston,3,Commissioner of the General Land Office,,REP,George P. Bush,243,47,196
+Houston,4,Commissioner of the General Land Office,,REP,George P. Bush,685,155,530
+Houston,5,Commissioner of the General Land Office,,REP,George P. Bush,527,190,337
+Houston,6,Commissioner of the General Land Office,,REP,George P. Bush,419,184,235
+Houston,7,Commissioner of the General Land Office,,REP,George P. Bush,464,219,245
+Houston,8,Commissioner of the General Land Office,,REP,George P. Bush,194,89,105
+Houston,9,Commissioner of the General Land Office,,REP,George P. Bush,238,109,129
+Houston,10,Commissioner of the General Land Office,,REP,George P. Bush,148,83,65
+Houston,11,Commissioner of the General Land Office,,REP,George P. Bush,69,23,46
+Houston,12,Commissioner of the General Land Office,,REP,George P. Bush,74,19,55
+Houston,14,Commissioner of the General Land Office,,REP,George P. Bush,232,93,139
+Houston,15,Commissioner of the General Land Office,,REP,George P. Bush,128,45,83
+Houston,16,Commissioner of the General Land Office,,REP,George P. Bush,154,30,124
+Houston,17,Commissioner of the General Land Office,,REP,George P. Bush,162,113,49
+Houston,18,Commissioner of the General Land Office,,REP,George P. Bush,61,35,26
+Houston,19,Commissioner of the General Land Office,,REP,George P. Bush,264,149,115
+Houston,20,Commissioner of the General Land Office,,REP,George P. Bush,129,87,42
+Houston,21,Commissioner of the General Land Office,,REP,George P. Bush,154,85,69
+Houston,22,Commissioner of the General Land Office,,REP,George P. Bush,125,63,62
+Houston,1,Commissioner of the General Land Office,,DEM,Miguel Suazo,193,73,120
+Houston,2,Commissioner of the General Land Office,,DEM,Miguel Suazo,213,56,157
+Houston,3,Commissioner of the General Land Office,,DEM,Miguel Suazo,402,160,242
+Houston,4,Commissioner of the General Land Office,,DEM,Miguel Suazo,225,67,158
+Houston,5,Commissioner of the General Land Office,,DEM,Miguel Suazo,91,45,46
+Houston,6,Commissioner of the General Land Office,,DEM,Miguel Suazo,141,67,74
+Houston,7,Commissioner of the General Land Office,,DEM,Miguel Suazo,59,29,30
+Houston,8,Commissioner of the General Land Office,,DEM,Miguel Suazo,37,13,24
+Houston,9,Commissioner of the General Land Office,,DEM,Miguel Suazo,19,10,9
+Houston,10,Commissioner of the General Land Office,,DEM,Miguel Suazo,28,8,20
+Houston,11,Commissioner of the General Land Office,,DEM,Miguel Suazo,13,7,6
 Houston,12,Commissioner of the General Land Office,,DEM,Miguel Suazo,11,0,11
-Houston,14,Commissioner of the General Land Office,,DEM,Miguel Suazo,11,16,27
-Houston,15,Commissioner of the General Land Office,,DEM,Miguel Suazo,13,18,31
-Houston,16,Commissioner of the General Land Office,,DEM,Miguel Suazo,4,5,9
-Houston,17,Commissioner of the General Land Office,,DEM,Miguel Suazo,11,4,15
-Houston,18,Commissioner of the General Land Office,,DEM,Miguel Suazo,19,13,32
-Houston,19,Commissioner of the General Land Office,,DEM,Miguel Suazo,31,41,72
-Houston,20,Commissioner of the General Land Office,,DEM,Miguel Suazo,4,4,8
-Houston,21,Commissioner of the General Land Office,,DEM,Miguel Suazo,13,25,38
-Houston,22,Commissioner of the General Land Office,,DEM,Miguel Suazo,20,12,32
-Houston,1,Commissioner of the General Land Office,,LIB,Matt Pina,12,3,15
-Houston,2,Commissioner of the General Land Office,,LIB,Matt Pina,7,4,11
-Houston,3,Commissioner of the General Land Office,,LIB,Matt Pina,5,1,6
-Houston,4,Commissioner of the General Land Office,,LIB,Matt Pina,19,7,26
-Houston,5,Commissioner of the General Land Office,,LIB,Matt Pina,7,7,14
-Houston,6,Commissioner of the General Land Office,,LIB,Matt Pina,12,6,18
-Houston,7,Commissioner of the General Land Office,,LIB,Matt Pina,10,12,22
-Houston,8,Commissioner of the General Land Office,,LIB,Matt Pina,3,3,6
-Houston,9,Commissioner of the General Land Office,,LIB,Matt Pina,6,1,7
-Houston,10,Commissioner of the General Land Office,,LIB,Matt Pina,1,4,5
+Houston,14,Commissioner of the General Land Office,,DEM,Miguel Suazo,27,16,11
+Houston,15,Commissioner of the General Land Office,,DEM,Miguel Suazo,31,18,13
+Houston,16,Commissioner of the General Land Office,,DEM,Miguel Suazo,9,5,4
+Houston,17,Commissioner of the General Land Office,,DEM,Miguel Suazo,15,4,11
+Houston,18,Commissioner of the General Land Office,,DEM,Miguel Suazo,32,13,19
+Houston,19,Commissioner of the General Land Office,,DEM,Miguel Suazo,72,41,31
+Houston,20,Commissioner of the General Land Office,,DEM,Miguel Suazo,8,4,4
+Houston,21,Commissioner of the General Land Office,,DEM,Miguel Suazo,38,25,13
+Houston,22,Commissioner of the General Land Office,,DEM,Miguel Suazo,32,12,20
+Houston,1,Commissioner of the General Land Office,,LIB,Matt Pina,15,3,12
+Houston,2,Commissioner of the General Land Office,,LIB,Matt Pina,11,4,7
+Houston,3,Commissioner of the General Land Office,,LIB,Matt Pina,6,1,5
+Houston,4,Commissioner of the General Land Office,,LIB,Matt Pina,26,7,19
+Houston,5,Commissioner of the General Land Office,,LIB,Matt Pina,14,7,7
+Houston,6,Commissioner of the General Land Office,,LIB,Matt Pina,18,6,12
+Houston,7,Commissioner of the General Land Office,,LIB,Matt Pina,22,12,10
+Houston,8,Commissioner of the General Land Office,,LIB,Matt Pina,6,3,3
+Houston,9,Commissioner of the General Land Office,,LIB,Matt Pina,7,1,6
+Houston,10,Commissioner of the General Land Office,,LIB,Matt Pina,5,4,1
 Houston,11,Commissioner of the General Land Office,,LIB,Matt Pina,4,0,4
 Houston,12,Commissioner of the General Land Office,,LIB,Matt Pina,1,0,1
-Houston,14,Commissioner of the General Land Office,,LIB,Matt Pina,3,1,4
+Houston,14,Commissioner of the General Land Office,,LIB,Matt Pina,4,1,3
 Houston,15,Commissioner of the General Land Office,,LIB,Matt Pina,1,0,1
-Houston,16,Commissioner of the General Land Office,,LIB,Matt Pina,2,1,3
-Houston,17,Commissioner of the General Land Office,,LIB,Matt Pina,2,2,4
+Houston,16,Commissioner of the General Land Office,,LIB,Matt Pina,3,1,2
+Houston,17,Commissioner of the General Land Office,,LIB,Matt Pina,4,2,2
 Houston,18,Commissioner of the General Land Office,,LIB,Matt Pina,1,0,1
-Houston,19,Commissioner of the General Land Office,,LIB,Matt Pina,3,4,7
-Houston,20,Commissioner of the General Land Office,,LIB,Matt Pina,2,1,3
-Houston,21,Commissioner of the General Land Office,,LIB,Matt Pina,1,2,3
-Houston,22,Commissioner of the General Land Office,,LIB,Matt Pina,1,3,4
-Houston,1,Commissioner of Agriculture,,REP,Sid Miller,272,93,365
-Houston,2,Commissioner of Agriculture,,REP,Sid Miller,449,100,549
-Houston,3,Commissioner of Agriculture,,REP,Sid Miller,186,45,231
-Houston,4,Commissioner of Agriculture,,REP,Sid Miller,516,151,667
-Houston,5,Commissioner of Agriculture,,REP,Sid Miller,340,197,537
-Houston,6,Commissioner of Agriculture,,REP,Sid Miller,242,183,425
-Houston,7,Commissioner of Agriculture,,REP,Sid Miller,246,218,464
-Houston,8,Commissioner of Agriculture,,REP,Sid Miller,109,85,194
-Houston,9,Commissioner of Agriculture,,REP,Sid Miller,131,108,239
-Houston,10,Commissioner of Agriculture,,REP,Sid Miller,64,82,146
-Houston,11,Commissioner of Agriculture,,REP,Sid Miller,46,22,68
-Houston,12,Commissioner of Agriculture,,REP,Sid Miller,54,19,73
-Houston,14,Commissioner of Agriculture,,REP,Sid Miller,139,88,227
-Houston,15,Commissioner of Agriculture,,REP,Sid Miller,81,46,127
-Houston,16,Commissioner of Agriculture,,REP,Sid Miller,124,30,154
-Houston,17,Commissioner of Agriculture,,REP,Sid Miller,53,114,167
-Houston,18,Commissioner of Agriculture,,REP,Sid Miller,24,35,59
-Houston,19,Commissioner of Agriculture,,REP,Sid Miller,118,148,266
-Houston,20,Commissioner of Agriculture,,REP,Sid Miller,43,87,130
-Houston,21,Commissioner of Agriculture,,REP,Sid Miller,68,87,155
-Houston,22,Commissioner of Agriculture,,REP,Sid Miller,58,63,121
-Houston,1,Commissioner of Agriculture,,DEM,Kim Olson,130,77,207
-Houston,2,Commissioner of Agriculture,,DEM,Kim Olson,173,58,231
-Houston,3,Commissioner of Agriculture,,DEM,Kim Olson,253,160,413
-Houston,4,Commissioner of Agriculture,,DEM,Kim Olson,181,73,254
-Houston,5,Commissioner of Agriculture,,DEM,Kim Olson,47,46,93
-Houston,6,Commissioner of Agriculture,,DEM,Kim Olson,76,72,148
-Houston,7,Commissioner of Agriculture,,DEM,Kim Olson,32,35,67
-Houston,8,Commissioner of Agriculture,,DEM,Kim Olson,23,18,41
-Houston,9,Commissioner of Agriculture,,DEM,Kim Olson,11,13,24
-Houston,10,Commissioner of Agriculture,,DEM,Kim Olson,22,13,35
-Houston,11,Commissioner of Agriculture,,DEM,Kim Olson,6,8,14
+Houston,19,Commissioner of the General Land Office,,LIB,Matt Pina,7,4,3
+Houston,20,Commissioner of the General Land Office,,LIB,Matt Pina,3,1,2
+Houston,21,Commissioner of the General Land Office,,LIB,Matt Pina,3,2,1
+Houston,22,Commissioner of the General Land Office,,LIB,Matt Pina,4,3,1
+Houston,1,Commissioner of Agriculture,,REP,Sid Miller,365,93,272
+Houston,2,Commissioner of Agriculture,,REP,Sid Miller,549,100,449
+Houston,3,Commissioner of Agriculture,,REP,Sid Miller,231,45,186
+Houston,4,Commissioner of Agriculture,,REP,Sid Miller,667,151,516
+Houston,5,Commissioner of Agriculture,,REP,Sid Miller,537,197,340
+Houston,6,Commissioner of Agriculture,,REP,Sid Miller,425,183,242
+Houston,7,Commissioner of Agriculture,,REP,Sid Miller,464,218,246
+Houston,8,Commissioner of Agriculture,,REP,Sid Miller,194,85,109
+Houston,9,Commissioner of Agriculture,,REP,Sid Miller,239,108,131
+Houston,10,Commissioner of Agriculture,,REP,Sid Miller,146,82,64
+Houston,11,Commissioner of Agriculture,,REP,Sid Miller,68,22,46
+Houston,12,Commissioner of Agriculture,,REP,Sid Miller,73,19,54
+Houston,14,Commissioner of Agriculture,,REP,Sid Miller,227,88,139
+Houston,15,Commissioner of Agriculture,,REP,Sid Miller,127,46,81
+Houston,16,Commissioner of Agriculture,,REP,Sid Miller,154,30,124
+Houston,17,Commissioner of Agriculture,,REP,Sid Miller,167,114,53
+Houston,18,Commissioner of Agriculture,,REP,Sid Miller,59,35,24
+Houston,19,Commissioner of Agriculture,,REP,Sid Miller,266,148,118
+Houston,20,Commissioner of Agriculture,,REP,Sid Miller,130,87,43
+Houston,21,Commissioner of Agriculture,,REP,Sid Miller,155,87,68
+Houston,22,Commissioner of Agriculture,,REP,Sid Miller,121,63,58
+Houston,1,Commissioner of Agriculture,,DEM,Kim Olson,207,77,130
+Houston,2,Commissioner of Agriculture,,DEM,Kim Olson,231,58,173
+Houston,3,Commissioner of Agriculture,,DEM,Kim Olson,413,160,253
+Houston,4,Commissioner of Agriculture,,DEM,Kim Olson,254,73,181
+Houston,5,Commissioner of Agriculture,,DEM,Kim Olson,93,46,47
+Houston,6,Commissioner of Agriculture,,DEM,Kim Olson,148,72,76
+Houston,7,Commissioner of Agriculture,,DEM,Kim Olson,67,35,32
+Houston,8,Commissioner of Agriculture,,DEM,Kim Olson,41,18,23
+Houston,9,Commissioner of Agriculture,,DEM,Kim Olson,24,13,11
+Houston,10,Commissioner of Agriculture,,DEM,Kim Olson,35,13,22
+Houston,11,Commissioner of Agriculture,,DEM,Kim Olson,14,8,6
 Houston,12,Commissioner of Agriculture,,DEM,Kim Olson,11,0,11
-Houston,14,Commissioner of Agriculture,,DEM,Kim Olson,11,20,31
-Houston,15,Commissioner of Agriculture,,DEM,Kim Olson,15,17,32
-Houston,16,Commissioner of Agriculture,,DEM,Kim Olson,6,6,12
-Houston,17,Commissioner of Agriculture,,DEM,Kim Olson,8,5,13
-Houston,18,Commissioner of Agriculture,,DEM,Kim Olson,19,13,32
-Houston,19,Commissioner of Agriculture,,DEM,Kim Olson,28,43,71
-Houston,20,Commissioner of Agriculture,,DEM,Kim Olson,4,5,9
-Houston,21,Commissioner of Agriculture,,DEM,Kim Olson,14,27,41
-Houston,22,Commissioner of Agriculture,,DEM,Kim Olson,24,15,39
-Houston,1,Commissioner of Agriculture,,LIB,Richard Carpenter,6,5,11
-Houston,2,Commissioner of Agriculture,,LIB,Richard Carpenter,5,1,6
-Houston,3,Commissioner of Agriculture,,LIB,Richard Carpenter,4,2,6
-Houston,4,Commissioner of Agriculture,,LIB,Richard Carpenter,10,4,14
-Houston,5,Commissioner of Agriculture,,LIB,Richard Carpenter,2,3,5
-Houston,6,Commissioner of Agriculture,,LIB,Richard Carpenter,4,3,7
-Houston,7,Commissioner of Agriculture,,LIB,Richard Carpenter,5,5,10
-Houston,8,Commissioner of Agriculture,,LIB,Richard Carpenter,0,1,1
+Houston,14,Commissioner of Agriculture,,DEM,Kim Olson,31,20,11
+Houston,15,Commissioner of Agriculture,,DEM,Kim Olson,32,17,15
+Houston,16,Commissioner of Agriculture,,DEM,Kim Olson,12,6,6
+Houston,17,Commissioner of Agriculture,,DEM,Kim Olson,13,5,8
+Houston,18,Commissioner of Agriculture,,DEM,Kim Olson,32,13,19
+Houston,19,Commissioner of Agriculture,,DEM,Kim Olson,71,43,28
+Houston,20,Commissioner of Agriculture,,DEM,Kim Olson,9,5,4
+Houston,21,Commissioner of Agriculture,,DEM,Kim Olson,41,27,14
+Houston,22,Commissioner of Agriculture,,DEM,Kim Olson,39,15,24
+Houston,1,Commissioner of Agriculture,,LIB,Richard Carpenter,11,5,6
+Houston,2,Commissioner of Agriculture,,LIB,Richard Carpenter,6,1,5
+Houston,3,Commissioner of Agriculture,,LIB,Richard Carpenter,6,2,4
+Houston,4,Commissioner of Agriculture,,LIB,Richard Carpenter,14,4,10
+Houston,5,Commissioner of Agriculture,,LIB,Richard Carpenter,5,3,2
+Houston,6,Commissioner of Agriculture,,LIB,Richard Carpenter,7,3,4
+Houston,7,Commissioner of Agriculture,,LIB,Richard Carpenter,10,5,5
+Houston,8,Commissioner of Agriculture,,LIB,Richard Carpenter,1,1,0
 Houston,9,Commissioner of Agriculture,,LIB,Richard Carpenter,2,0,2
 Houston,10,Commissioner of Agriculture,,LIB,Richard Carpenter,0,0,0
 Houston,11,Commissioner of Agriculture,,LIB,Richard Carpenter,5,0,5
 Houston,12,Commissioner of Agriculture,,LIB,Richard Carpenter,2,0,2
-Houston,14,Commissioner of Agriculture,,LIB,Richard Carpenter,1,1,2
+Houston,14,Commissioner of Agriculture,,LIB,Richard Carpenter,2,1,1
 Houston,15,Commissioner of Agriculture,,LIB,Richard Carpenter,1,0,1
 Houston,16,Commissioner of Agriculture,,LIB,Richard Carpenter,1,0,1
-Houston,17,Commissioner of Agriculture,,LIB,Richard Carpenter,2,1,3
+Houston,17,Commissioner of Agriculture,,LIB,Richard Carpenter,3,1,2
 Houston,18,Commissioner of Agriculture,,LIB,Richard Carpenter,3,0,3
-Houston,19,Commissioner of Agriculture,,LIB,Richard Carpenter,2,2,4
+Houston,19,Commissioner of Agriculture,,LIB,Richard Carpenter,4,2,2
 Houston,20,Commissioner of Agriculture,,LIB,Richard Carpenter,1,0,1
-Houston,21,Commissioner of Agriculture,,LIB,Richard Carpenter,0,1,1
-Houston,22,Commissioner of Agriculture,,LIB,Richard Carpenter,1,1,2
-Houston,1,Railroad Commissioner,,REP,Christi Craddick,275,96,371
-Houston,2,Railroad Commissioner,,REP,Christi Craddick,458,99,557
-Houston,3,Railroad Commissioner,,REP,Christi Craddick,185,48,233
-Houston,4,Railroad Commissioner,,REP,Christi Craddick,539,150,689
-Houston,5,Railroad Commissioner,,REP,Christi Craddick,336,196,532
-Houston,6,Railroad Commissioner,,REP,Christi Craddick,248,185,433
-Houston,7,Railroad Commissioner,,REP,Christi Craddick,251,224,475
-Houston,8,Railroad Commissioner,,REP,Christi Craddick,107,86,193
-Houston,9,Railroad Commissioner,,REP,Christi Craddick,129,109,238
-Houston,10,Railroad Commissioner,,REP,Christi Craddick,66,85,151
-Houston,11,Railroad Commissioner,,REP,Christi Craddick,46,22,68
-Houston,12,Railroad Commissioner,,REP,Christi Craddick,56,19,75
-Houston,14,Railroad Commissioner,,REP,Christi Craddick,139,87,226
-Houston,15,Railroad Commissioner,,REP,Christi Craddick,82,44,126
-Houston,16,Railroad Commissioner,,REP,Christi Craddick,124,31,155
-Houston,17,Railroad Commissioner,,REP,Christi Craddick,53,116,169
-Houston,18,Railroad Commissioner,,REP,Christi Craddick,27,35,62
-Houston,19,Railroad Commissioner,,REP,Christi Craddick,119,146,265
-Houston,20,Railroad Commissioner,,REP,Christi Craddick,43,86,129
-Houston,21,Railroad Commissioner,,REP,Christi Craddick,70,86,156
-Houston,22,Railroad Commissioner,,REP,Christi Craddick,59,65,124
-Houston,1,Railroad Commissioner,,DEM,Roman McAllen,127,74,201
-Houston,2,Railroad Commissioner,,DEM,Roman McAllen,162,56,218
-Houston,3,Railroad Commissioner,,DEM,Roman McAllen,250,157,407
-Houston,4,Railroad Commissioner,,DEM,Roman McAllen,161,67,228
-Houston,5,Railroad Commissioner,,DEM,Roman McAllen,47,46,93
-Houston,6,Railroad Commissioner,,DEM,Roman McAllen,74,70,144
-Houston,7,Railroad Commissioner,,DEM,Roman McAllen,25,26,51
-Houston,8,Railroad Commissioner,,DEM,Roman McAllen,22,16,38
-Houston,9,Railroad Commissioner,,DEM,Roman McAllen,10,11,21
-Houston,10,Railroad Commissioner,,DEM,Roman McAllen,18,9,27
-Houston,11,Railroad Commissioner,,DEM,Roman McAllen,7,8,15
+Houston,21,Commissioner of Agriculture,,LIB,Richard Carpenter,1,1,0
+Houston,22,Commissioner of Agriculture,,LIB,Richard Carpenter,2,1,1
+Houston,1,Railroad Commissioner,,REP,Christi Craddick,371,96,275
+Houston,2,Railroad Commissioner,,REP,Christi Craddick,557,99,458
+Houston,3,Railroad Commissioner,,REP,Christi Craddick,233,48,185
+Houston,4,Railroad Commissioner,,REP,Christi Craddick,689,150,539
+Houston,5,Railroad Commissioner,,REP,Christi Craddick,532,196,336
+Houston,6,Railroad Commissioner,,REP,Christi Craddick,433,185,248
+Houston,7,Railroad Commissioner,,REP,Christi Craddick,475,224,251
+Houston,8,Railroad Commissioner,,REP,Christi Craddick,193,86,107
+Houston,9,Railroad Commissioner,,REP,Christi Craddick,238,109,129
+Houston,10,Railroad Commissioner,,REP,Christi Craddick,151,85,66
+Houston,11,Railroad Commissioner,,REP,Christi Craddick,68,22,46
+Houston,12,Railroad Commissioner,,REP,Christi Craddick,75,19,56
+Houston,14,Railroad Commissioner,,REP,Christi Craddick,226,87,139
+Houston,15,Railroad Commissioner,,REP,Christi Craddick,126,44,82
+Houston,16,Railroad Commissioner,,REP,Christi Craddick,155,31,124
+Houston,17,Railroad Commissioner,,REP,Christi Craddick,169,116,53
+Houston,18,Railroad Commissioner,,REP,Christi Craddick,62,35,27
+Houston,19,Railroad Commissioner,,REP,Christi Craddick,265,146,119
+Houston,20,Railroad Commissioner,,REP,Christi Craddick,129,86,43
+Houston,21,Railroad Commissioner,,REP,Christi Craddick,156,86,70
+Houston,22,Railroad Commissioner,,REP,Christi Craddick,124,65,59
+Houston,1,Railroad Commissioner,,DEM,Roman McAllen,201,74,127
+Houston,2,Railroad Commissioner,,DEM,Roman McAllen,218,56,162
+Houston,3,Railroad Commissioner,,DEM,Roman McAllen,407,157,250
+Houston,4,Railroad Commissioner,,DEM,Roman McAllen,228,67,161
+Houston,5,Railroad Commissioner,,DEM,Roman McAllen,93,46,47
+Houston,6,Railroad Commissioner,,DEM,Roman McAllen,144,70,74
+Houston,7,Railroad Commissioner,,DEM,Roman McAllen,51,26,25
+Houston,8,Railroad Commissioner,,DEM,Roman McAllen,38,16,22
+Houston,9,Railroad Commissioner,,DEM,Roman McAllen,21,11,10
+Houston,10,Railroad Commissioner,,DEM,Roman McAllen,27,9,18
+Houston,11,Railroad Commissioner,,DEM,Roman McAllen,15,8,7
 Houston,12,Railroad Commissioner,,DEM,Roman McAllen,11,0,11
-Houston,14,Railroad Commissioner,,DEM,Roman McAllen,11,20,31
-Houston,15,Railroad Commissioner,,DEM,Roman McAllen,14,17,31
-Houston,16,Railroad Commissioner,,DEM,Roman McAllen,4,4,8
-Houston,17,Railroad Commissioner,,DEM,Roman McAllen,7,3,10
-Houston,18,Railroad Commissioner,,DEM,Roman McAllen,18,13,31
-Houston,19,Railroad Commissioner,,DEM,Roman McAllen,27,44,71
-Houston,20,Railroad Commissioner,,DEM,Roman McAllen,4,6,10
-Houston,21,Railroad Commissioner,,DEM,Roman McAllen,13,24,37
-Houston,22,Railroad Commissioner,,DEM,Roman McAllen,21,12,33
-Houston,1,Railroad Commissioner,,LIB,Mike Wright,10,4,14
-Houston,2,Railroad Commissioner,,LIB,Mike Wright,6,2,8
-Houston,3,Railroad Commissioner,,LIB,Mike Wright,7,3,10
-Houston,4,Railroad Commissioner,,LIB,Mike Wright,3,8,11
-Houston,5,Railroad Commissioner,,LIB,Mike Wright,4,2,6
-Houston,6,Railroad Commissioner,,LIB,Mike Wright,1,2,3
-Houston,7,Railroad Commissioner,,LIB,Mike Wright,4,7,11
-Houston,8,Railroad Commissioner,,LIB,Mike Wright,3,2,5
-Houston,9,Railroad Commissioner,,LIB,Mike Wright,2,1,3
-Houston,10,Railroad Commissioner,,LIB,Mike Wright,2,2,4
+Houston,14,Railroad Commissioner,,DEM,Roman McAllen,31,20,11
+Houston,15,Railroad Commissioner,,DEM,Roman McAllen,31,17,14
+Houston,16,Railroad Commissioner,,DEM,Roman McAllen,8,4,4
+Houston,17,Railroad Commissioner,,DEM,Roman McAllen,10,3,7
+Houston,18,Railroad Commissioner,,DEM,Roman McAllen,31,13,18
+Houston,19,Railroad Commissioner,,DEM,Roman McAllen,71,44,27
+Houston,20,Railroad Commissioner,,DEM,Roman McAllen,10,6,4
+Houston,21,Railroad Commissioner,,DEM,Roman McAllen,37,24,13
+Houston,22,Railroad Commissioner,,DEM,Roman McAllen,33,12,21
+Houston,1,Railroad Commissioner,,LIB,Mike Wright,14,4,10
+Houston,2,Railroad Commissioner,,LIB,Mike Wright,8,2,6
+Houston,3,Railroad Commissioner,,LIB,Mike Wright,10,3,7
+Houston,4,Railroad Commissioner,,LIB,Mike Wright,11,8,3
+Houston,5,Railroad Commissioner,,LIB,Mike Wright,6,2,4
+Houston,6,Railroad Commissioner,,LIB,Mike Wright,3,2,1
+Houston,7,Railroad Commissioner,,LIB,Mike Wright,11,7,4
+Houston,8,Railroad Commissioner,,LIB,Mike Wright,5,2,3
+Houston,9,Railroad Commissioner,,LIB,Mike Wright,3,1,2
+Houston,10,Railroad Commissioner,,LIB,Mike Wright,4,2,2
 Houston,11,Railroad Commissioner,,LIB,Mike Wright,3,0,3
 Houston,12,Railroad Commissioner,,LIB,Mike Wright,1,0,1
-Houston,14,Railroad Commissioner,,LIB,Mike Wright,1,2,3
+Houston,14,Railroad Commissioner,,LIB,Mike Wright,3,2,1
 Houston,15,Railroad Commissioner,,LIB,Mike Wright,1,0,1
-Houston,16,Railroad Commissioner,,LIB,Mike Wright,2,1,3
+Houston,16,Railroad Commissioner,,LIB,Mike Wright,3,1,2
 Houston,17,Railroad Commissioner,,LIB,Mike Wright,3,0,3
 Houston,18,Railroad Commissioner,,LIB,Mike Wright,1,0,1
-Houston,19,Railroad Commissioner,,LIB,Mike Wright,3,4,7
+Houston,19,Railroad Commissioner,,LIB,Mike Wright,7,4,3
 Houston,20,Railroad Commissioner,,LIB,Mike Wright,1,0,1
-Houston,21,Railroad Commissioner,,LIB,Mike Wright,0,3,3
+Houston,21,Railroad Commissioner,,LIB,Mike Wright,3,3,0
 Houston,22,Railroad Commissioner,,LIB,Mike Wright,3,0,3
-Houston,1,State Senate,3,REP,Robert Nichols,282,99,381
-Houston,2,State Senate,3,REP,Robert Nichols,463,101,564
-Houston,3,State Senate,3,REP,Robert Nichols,190,48,238
-Houston,4,State Senate,3,REP,Robert Nichols,549,160,709
-Houston,5,State Senate,3,REP,Robert Nichols,344,198,542
-Houston,6,State Senate,3,REP,Robert Nichols,250,186,436
-Houston,7,State Senate,3,REP,Robert Nichols,257,228,485
-Houston,8,State Senate,3,REP,Robert Nichols,110,88,198
-Houston,9,State Senate,3,REP,Robert Nichols,131,114,245
-Houston,10,State Senate,3,REP,Robert Nichols,64,86,150
-Houston,11,State Senate,3,REP,Robert Nichols,47,22,69
-Houston,12,State Senate,3,REP,Robert Nichols,55,18,73
-Houston,14,State Senate,3,REP,Robert Nichols,140,93,233
-Houston,15,State Senate,3,REP,Robert Nichols,82,46,128
-Houston,16,State Senate,3,REP,Robert Nichols,127,31,158
-Houston,17,State Senate,3,REP,Robert Nichols,56,118,174
-Houston,18,State Senate,3,REP,Robert Nichols,26,34,60
-Houston,19,State Senate,3,REP,Robert Nichols,120,153,273
-Houston,20,State Senate,3,REP,Robert Nichols,44,88,132
-Houston,21,State Senate,3,REP,Robert Nichols,70,85,155
-Houston,22,State Senate,3,REP,Robert Nichols,62,64,126
-Houston,1,State Senate,3,DEM,Shirley Layton,129,75,204
-Houston,2,State Senate,3,DEM,Shirley Layton,166,57,223
-Houston,3,State Senate,3,DEM,Shirley Layton,251,164,415
-Houston,4,State Senate,3,DEM,Shirley Layton,165,68,233
-Houston,5,State Senate,3,DEM,Shirley Layton,46,46,92
-Houston,6,State Senate,3,DEM,Shirley Layton,70,75,145
-Houston,7,State Senate,3,DEM,Shirley Layton,27,31,58
-Houston,8,State Senate,3,DEM,Shirley Layton,21,17,38
-Houston,9,State Senate,3,DEM,Shirley Layton,11,7,18
-Houston,10,State Senate,3,DEM,Shirley Layton,20,10,30
-Houston,11,State Senate,3,DEM,Shirley Layton,7,8,15
+Houston,1,State Senate,3,REP,Robert Nichols,381,99,282
+Houston,2,State Senate,3,REP,Robert Nichols,564,101,463
+Houston,3,State Senate,3,REP,Robert Nichols,238,48,190
+Houston,4,State Senate,3,REP,Robert Nichols,709,160,549
+Houston,5,State Senate,3,REP,Robert Nichols,542,198,344
+Houston,6,State Senate,3,REP,Robert Nichols,436,186,250
+Houston,7,State Senate,3,REP,Robert Nichols,485,228,257
+Houston,8,State Senate,3,REP,Robert Nichols,198,88,110
+Houston,9,State Senate,3,REP,Robert Nichols,245,114,131
+Houston,10,State Senate,3,REP,Robert Nichols,150,86,64
+Houston,11,State Senate,3,REP,Robert Nichols,69,22,47
+Houston,12,State Senate,3,REP,Robert Nichols,73,18,55
+Houston,14,State Senate,3,REP,Robert Nichols,233,93,140
+Houston,15,State Senate,3,REP,Robert Nichols,128,46,82
+Houston,16,State Senate,3,REP,Robert Nichols,158,31,127
+Houston,17,State Senate,3,REP,Robert Nichols,174,118,56
+Houston,18,State Senate,3,REP,Robert Nichols,60,34,26
+Houston,19,State Senate,3,REP,Robert Nichols,273,153,120
+Houston,20,State Senate,3,REP,Robert Nichols,132,88,44
+Houston,21,State Senate,3,REP,Robert Nichols,155,85,70
+Houston,22,State Senate,3,REP,Robert Nichols,126,64,62
+Houston,1,State Senate,3,DEM,Shirley Layton,204,75,129
+Houston,2,State Senate,3,DEM,Shirley Layton,223,57,166
+Houston,3,State Senate,3,DEM,Shirley Layton,415,164,251
+Houston,4,State Senate,3,DEM,Shirley Layton,233,68,165
+Houston,5,State Senate,3,DEM,Shirley Layton,92,46,46
+Houston,6,State Senate,3,DEM,Shirley Layton,145,75,70
+Houston,7,State Senate,3,DEM,Shirley Layton,58,31,27
+Houston,8,State Senate,3,DEM,Shirley Layton,38,17,21
+Houston,9,State Senate,3,DEM,Shirley Layton,18,7,11
+Houston,10,State Senate,3,DEM,Shirley Layton,30,10,20
+Houston,11,State Senate,3,DEM,Shirley Layton,15,8,7
 Houston,12,State Senate,3,DEM,Shirley Layton,12,0,12
-Houston,14,State Senate,3,DEM,Shirley Layton,13,18,31
-Houston,15,State Senate,3,DEM,Shirley Layton,15,16,31
-Houston,16,State Senate,3,DEM,Shirley Layton,4,5,9
-Houston,17,State Senate,3,DEM,Shirley Layton,7,2,9
-Houston,18,State Senate,3,DEM,Shirley Layton,19,14,33
-Houston,19,State Senate,3,DEM,Shirley Layton,29,46,75
-Houston,20,State Senate,3,DEM,Shirley Layton,4,4,8
-Houston,21,State Senate,3,DEM,Shirley Layton,13,28,41
-Houston,22,State Senate,3,DEM,Shirley Layton,21,14,35
-Houston,1,State Senate,3,LIB,Bruce Quarles,4,2,6
+Houston,14,State Senate,3,DEM,Shirley Layton,31,18,13
+Houston,15,State Senate,3,DEM,Shirley Layton,31,16,15
+Houston,16,State Senate,3,DEM,Shirley Layton,9,5,4
+Houston,17,State Senate,3,DEM,Shirley Layton,9,2,7
+Houston,18,State Senate,3,DEM,Shirley Layton,33,14,19
+Houston,19,State Senate,3,DEM,Shirley Layton,75,46,29
+Houston,20,State Senate,3,DEM,Shirley Layton,8,4,4
+Houston,21,State Senate,3,DEM,Shirley Layton,41,28,13
+Houston,22,State Senate,3,DEM,Shirley Layton,35,14,21
+Houston,1,State Senate,3,LIB,Bruce Quarles,6,2,4
 Houston,2,State Senate,3,LIB,Bruce Quarles,3,0,3
-Houston,3,State Senate,3,LIB,Bruce Quarles,4,1,5
-Houston,4,State Senate,3,LIB,Bruce Quarles,4,3,7
-Houston,5,State Senate,3,LIB,Bruce Quarles,2,1,3
+Houston,3,State Senate,3,LIB,Bruce Quarles,5,1,4
+Houston,4,State Senate,3,LIB,Bruce Quarles,7,3,4
+Houston,5,State Senate,3,LIB,Bruce Quarles,3,1,2
 Houston,6,State Senate,3,LIB,Bruce Quarles,4,0,4
-Houston,7,State Senate,3,LIB,Bruce Quarles,3,2,5
-Houston,8,State Senate,3,LIB,Bruce Quarles,0,1,1
+Houston,7,State Senate,3,LIB,Bruce Quarles,5,2,3
+Houston,8,State Senate,3,LIB,Bruce Quarles,1,1,0
 Houston,9,State Senate,3,LIB,Bruce Quarles,1,0,1
 Houston,10,State Senate,3,LIB,Bruce Quarles,2,0,2
 Houston,11,State Senate,3,LIB,Bruce Quarles,2,0,2
@@ -709,49 +709,49 @@ Houston,15,State Senate,3,LIB,Bruce Quarles,0,0,0
 Houston,16,State Senate,3,LIB,Bruce Quarles,0,0,0
 Houston,17,State Senate,3,LIB,Bruce Quarles,0,0,0
 Houston,18,State Senate,3,LIB,Bruce Quarles,1,0,1
-Houston,19,State Senate,3,LIB,Bruce Quarles,0,1,1
-Houston,20,State Senate,3,LIB,Bruce Quarles,1,1,2
-Houston,21,State Senate,3,LIB,Bruce Quarles,0,2,2
-Houston,22,State Senate,3,LIB,Bruce Quarles,0,1,1
-Houston,1,State Representative,57,REP,Trent Ashby,295,104,399
-Houston,2,State Representative,57,REP,Trent Ashby,478,104,582
-Houston,3,State Representative,57,REP,Trent Ashby,202,53,255
-Houston,4,State Representative,57,REP,Trent Ashby,573,168,741
-Houston,5,State Representative,57,REP,Trent Ashby,345,201,546
-Houston,6,State Representative,57,REP,Trent Ashby,255,190,445
-Houston,7,State Representative,57,REP,Trent Ashby,261,237,498
-Houston,8,State Representative,57,REP,Trent Ashby,112,92,204
-Houston,9,State Representative,57,REP,Trent Ashby,136,115,251
-Houston,10,State Representative,57,REP,Trent Ashby,65,87,152
-Houston,11,State Representative,57,REP,Trent Ashby,50,23,73
-Houston,12,State Representative,57,REP,Trent Ashby,56,19,75
-Houston,14,State Representative,57,REP,Trent Ashby,142,98,240
-Houston,15,State Representative,57,REP,Trent Ashby,84,46,130
-Houston,16,State Representative,57,REP,Trent Ashby,127,32,159
-Houston,17,State Representative,57,REP,Trent Ashby,57,115,172
-Houston,18,State Representative,57,REP,Trent Ashby,28,34,62
-Houston,19,State Representative,57,REP,Trent Ashby,122,159,281
-Houston,20,State Representative,57,REP,Trent Ashby,44,88,132
-Houston,21,State Representative,57,REP,Trent Ashby,69,89,158
-Houston,22,State Representative,57,REP,Trent Ashby,64,66,130
-Houston,1,State Representative,57,DEM,Jason Rogers,122,71,193
-Houston,2,State Representative,57,DEM,Jason Rogers,157,54,211
-Houston,3,State Representative,57,DEM,Jason Rogers,242,159,401
-Houston,4,State Representative,57,DEM,Jason Rogers,151,66,217
-Houston,5,State Representative,57,DEM,Jason Rogers,45,44,89
-Houston,6,State Representative,57,DEM,Jason Rogers,71,71,142
-Houston,7,State Representative,57,DEM,Jason Rogers,25,27,52
-Houston,8,State Representative,57,DEM,Jason Rogers,19,14,33
-Houston,9,State Representative,57,DEM,Jason Rogers,10,6,16
-Houston,10,State Representative,57,DEM,Jason Rogers,21,10,31
-Houston,11,State Representative,57,DEM,Jason Rogers,7,8,15
+Houston,19,State Senate,3,LIB,Bruce Quarles,1,1,0
+Houston,20,State Senate,3,LIB,Bruce Quarles,2,1,1
+Houston,21,State Senate,3,LIB,Bruce Quarles,2,2,0
+Houston,22,State Senate,3,LIB,Bruce Quarles,1,1,0
+Houston,1,State Representative,57,REP,Trent Ashby,399,104,295
+Houston,2,State Representative,57,REP,Trent Ashby,582,104,478
+Houston,3,State Representative,57,REP,Trent Ashby,255,53,202
+Houston,4,State Representative,57,REP,Trent Ashby,741,168,573
+Houston,5,State Representative,57,REP,Trent Ashby,546,201,345
+Houston,6,State Representative,57,REP,Trent Ashby,445,190,255
+Houston,7,State Representative,57,REP,Trent Ashby,498,237,261
+Houston,8,State Representative,57,REP,Trent Ashby,204,92,112
+Houston,9,State Representative,57,REP,Trent Ashby,251,115,136
+Houston,10,State Representative,57,REP,Trent Ashby,152,87,65
+Houston,11,State Representative,57,REP,Trent Ashby,73,23,50
+Houston,12,State Representative,57,REP,Trent Ashby,75,19,56
+Houston,14,State Representative,57,REP,Trent Ashby,240,98,142
+Houston,15,State Representative,57,REP,Trent Ashby,130,46,84
+Houston,16,State Representative,57,REP,Trent Ashby,159,32,127
+Houston,17,State Representative,57,REP,Trent Ashby,172,115,57
+Houston,18,State Representative,57,REP,Trent Ashby,62,34,28
+Houston,19,State Representative,57,REP,Trent Ashby,281,159,122
+Houston,20,State Representative,57,REP,Trent Ashby,132,88,44
+Houston,21,State Representative,57,REP,Trent Ashby,158,89,69
+Houston,22,State Representative,57,REP,Trent Ashby,130,66,64
+Houston,1,State Representative,57,DEM,Jason Rogers,193,71,122
+Houston,2,State Representative,57,DEM,Jason Rogers,211,54,157
+Houston,3,State Representative,57,DEM,Jason Rogers,401,159,242
+Houston,4,State Representative,57,DEM,Jason Rogers,217,66,151
+Houston,5,State Representative,57,DEM,Jason Rogers,89,44,45
+Houston,6,State Representative,57,DEM,Jason Rogers,142,71,71
+Houston,7,State Representative,57,DEM,Jason Rogers,52,27,25
+Houston,8,State Representative,57,DEM,Jason Rogers,33,14,19
+Houston,9,State Representative,57,DEM,Jason Rogers,16,6,10
+Houston,10,State Representative,57,DEM,Jason Rogers,31,10,21
+Houston,11,State Representative,57,DEM,Jason Rogers,15,8,7
 Houston,12,State Representative,57,DEM,Jason Rogers,11,0,11
-Houston,14,State Representative,57,DEM,Jason Rogers,11,14,25
-Houston,15,State Representative,57,DEM,Jason Rogers,13,17,30
-Houston,16,State Representative,57,DEM,Jason Rogers,4,4,8
-Houston,17,State Representative,57,DEM,Jason Rogers,7,3,10
-Houston,18,State Representative,57,DEM,Jason Rogers,18,14,32
-Houston,19,State Representative,57,DEM,Jason Rogers,28,39,67
-Houston,20,State Representative,57,DEM,Jason Rogers,3,5,8
-Houston,21,State Representative,57,DEM,Jason Rogers,13,26,39
-Houston,22,State Representative,57,DEM,Jason Rogers,19,13,32
+Houston,14,State Representative,57,DEM,Jason Rogers,25,14,11
+Houston,15,State Representative,57,DEM,Jason Rogers,30,17,13
+Houston,16,State Representative,57,DEM,Jason Rogers,8,4,4
+Houston,17,State Representative,57,DEM,Jason Rogers,10,3,7
+Houston,18,State Representative,57,DEM,Jason Rogers,32,14,18
+Houston,19,State Representative,57,DEM,Jason Rogers,67,39,28
+Houston,20,State Representative,57,DEM,Jason Rogers,8,5,3
+Houston,21,State Representative,57,DEM,Jason Rogers,39,26,13
+Houston,22,State Representative,57,DEM,Jason Rogers,32,13,19

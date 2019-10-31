@@ -1,792 +1,792 @@
-county,precinct,office,district,party,candidate,votes,early_voting,election_day
+county,precinct,office,district,party,candidate,votes,election_day,early_voting
 Wood,1-1,Registered Voters,,,,2822,,
 Wood,1-1,Provisional Ballots Cast,,,,17,,
 Wood,1-1,Provisional Ballots Counted,,,,4,,
-Wood,1-1,Straight Party,,REP,Republican,929,754,175
+Wood,1-1,Straight Party,,REP,Republican,929,175,754
 Wood,1-2,Registered Voters,,,,2345,,
 Wood,1-2,Provisional Ballots Cast,,,,16,,
 Wood,1-2,Provisional Ballots Counted,,,,2,,
-Wood,1-2,Straight Party,,REP,Republican,1056,656,400
+Wood,1-2,Straight Party,,REP,Republican,1056,400,656
 Wood,1-3,Registered Voters,,,,2002,,
 Wood,1-3,Provisional Ballots Cast,,,,15,,
 Wood,1-3,Provisional Ballots Counted,,,,2,,
-Wood,1-3,Straight Party,,REP,Republican,788,454,334
+Wood,1-3,Straight Party,,REP,Republican,788,334,454
 Wood,1-4,Registered Voters,,,,666,,
 Wood,1-4,Provisional Ballots Cast,,,,3,,
 Wood,1-4,Provisional Ballots Counted,,,,1,,
-Wood,1-4,Straight Party,,REP,Republican,265,127,138
+Wood,1-4,Straight Party,,REP,Republican,265,138,127
 Wood,2-1,Registered Voters,,,,465,,
 Wood,2-1,Provisional Ballots Cast,,,,2,,
 Wood,2-1,Provisional Ballots Counted,,,,0,,
-Wood,2-1,Straight Party,,REP,Republican,152,95,57
+Wood,2-1,Straight Party,,REP,Republican,152,57,95
 Wood,2-2,Registered Voters,,,,3731,,
 Wood,2-2,Provisional Ballots Cast,,,,17,,
 Wood,2-2,Provisional Ballots Counted,,,,7,,
-Wood,2-2,Straight Party,,REP,Republican,1247,850,397
+Wood,2-2,Straight Party,,REP,Republican,1247,397,850
 Wood,2-3,Registered Voters,,,,2971,,
 Wood,2-3,Provisional Ballots Cast,,,,14,,
 Wood,2-3,Provisional Ballots Counted,,,,2,,
-Wood,2-3,Straight Party,,REP,Republican,958,680,278
+Wood,2-3,Straight Party,,REP,Republican,958,278,680
 Wood,3-1,Registered Voters,,,,1133,,
 Wood,3-1,Provisional Ballots Cast,,,,11,,
 Wood,3-1,Provisional Ballots Counted,,,,4,,
-Wood,3-1,Straight Party,,REP,Republican,407,296,111
+Wood,3-1,Straight Party,,REP,Republican,407,111,296
 Wood,3-2,Registered Voters,,,,3028,,
 Wood,3-2,Provisional Ballots Cast,,,,27,,
 Wood,3-2,Provisional Ballots Counted,,,,7,,
-Wood,3-2,Straight Party,,REP,Republican,1333,994,339
+Wood,3-2,Straight Party,,REP,Republican,1333,339,994
 Wood,3-3,Registered Voters,,,,3806,,
 Wood,3-3,Provisional Ballots Cast,,,,41,,
 Wood,3-3,Provisional Ballots Counted,,,,7,,
-Wood,3-3,Straight Party,,REP,Republican,1070,663,407
+Wood,3-3,Straight Party,,REP,Republican,1070,407,663
 Wood,4-1,Registered Voters,,,,784,,
 Wood,4-1,Provisional Ballots Cast,,,,3,,
 Wood,4-1,Provisional Ballots Counted,,,,0,,
-Wood,4-1,Straight Party,,REP,Republican,287,208,79
+Wood,4-1,Straight Party,,REP,Republican,287,79,208
 Wood,4-2,Registered Voters,,,,2435,,
 Wood,4-2,Provisional Ballots Cast,,,,6,,
 Wood,4-2,Provisional Ballots Counted,,,,1,,
-Wood,4-2,Straight Party,,REP,Republican,900,613,287
+Wood,4-2,Straight Party,,REP,Republican,900,287,613
 Wood,4-3,Registered Voters,,,,2914,,
 Wood,4-3,Provisional Ballots Cast,,,,19,,
 Wood,4-3,Provisional Ballots Counted,,,,6,,
-Wood,4-3,Straight Party,,REP,Republican,999,664,335
+Wood,4-3,Straight Party,,REP,Republican,999,335,664
 Wood,4-4,Registered Voters,,,,736,,
 Wood,4-4,Provisional Ballots Cast,,,,5,,
 Wood,4-4,Provisional Ballots Counted,,,,4,,
-Wood,4-4,Straight Party,,REP,Republican,217,164,53
-Wood,1-1,Straight Party,,DEM,Democratic,173,128,45
-Wood,1-2,Straight Party,,DEM,Democratic,108,67,41
-Wood,1-3,Straight Party,,DEM,Democratic,94,59,35
-Wood,1-4,Straight Party,,DEM,Democratic,14,10,4
-Wood,2-1,Straight Party,,DEM,Democratic,14,10,4
-Wood,2-2,Straight Party,,DEM,Democratic,199,121,78
-Wood,2-3,Straight Party,,DEM,Democratic,190,118,72
-Wood,3-1,Straight Party,,DEM,Democratic,63,50,13
-Wood,3-2,Straight Party,,DEM,Democratic,159,126,33
-Wood,3-3,Straight Party,,DEM,Democratic,237,138,99
-Wood,4-1,Straight Party,,DEM,Democratic,31,22,9
-Wood,4-2,Straight Party,,DEM,Democratic,110,78,32
-Wood,4-3,Straight Party,,DEM,Democratic,157,100,57
-Wood,4-4,Straight Party,,DEM,Democratic,18,14,4
-Wood,1-1,Straight Party,,LIB,Libertarian,8,6,2
-Wood,1-2,Straight Party,,LIB,Libertarian,7,7,0
-Wood,1-3,Straight Party,,LIB,Libertarian,4,0,4
+Wood,4-4,Straight Party,,REP,Republican,217,53,164
+Wood,1-1,Straight Party,,DEM,Democratic,173,45,128
+Wood,1-2,Straight Party,,DEM,Democratic,108,41,67
+Wood,1-3,Straight Party,,DEM,Democratic,94,35,59
+Wood,1-4,Straight Party,,DEM,Democratic,14,4,10
+Wood,2-1,Straight Party,,DEM,Democratic,14,4,10
+Wood,2-2,Straight Party,,DEM,Democratic,199,78,121
+Wood,2-3,Straight Party,,DEM,Democratic,190,72,118
+Wood,3-1,Straight Party,,DEM,Democratic,63,13,50
+Wood,3-2,Straight Party,,DEM,Democratic,159,33,126
+Wood,3-3,Straight Party,,DEM,Democratic,237,99,138
+Wood,4-1,Straight Party,,DEM,Democratic,31,9,22
+Wood,4-2,Straight Party,,DEM,Democratic,110,32,78
+Wood,4-3,Straight Party,,DEM,Democratic,157,57,100
+Wood,4-4,Straight Party,,DEM,Democratic,18,4,14
+Wood,1-1,Straight Party,,LIB,Libertarian,8,2,6
+Wood,1-2,Straight Party,,LIB,Libertarian,7,0,7
+Wood,1-3,Straight Party,,LIB,Libertarian,4,4,0
 Wood,1-4,Straight Party,,LIB,Libertarian,0,0,0
 Wood,2-1,Straight Party,,LIB,Libertarian,2,1,1
-Wood,2-2,Straight Party,,LIB,Libertarian,5,3,2
-Wood,2-3,Straight Party,,LIB,Libertarian,4,3,1
+Wood,2-2,Straight Party,,LIB,Libertarian,5,2,3
+Wood,2-3,Straight Party,,LIB,Libertarian,4,1,3
 Wood,3-1,Straight Party,,LIB,Libertarian,4,2,2
-Wood,3-2,Straight Party,,LIB,Libertarian,4,1,3
+Wood,3-2,Straight Party,,LIB,Libertarian,4,3,1
 Wood,3-3,Straight Party,,LIB,Libertarian,6,3,3
-Wood,4-1,Straight Party,,LIB,Libertarian,1,1,0
+Wood,4-1,Straight Party,,LIB,Libertarian,1,0,1
 Wood,4-2,Straight Party,,LIB,Libertarian,4,2,2
-Wood,4-3,Straight Party,,LIB,Libertarian,5,0,5
-Wood,4-4,Straight Party,,LIB,Libertarian,1,0,1
-Wood,1-1,U.S. Senate,,REP,Ted Cruz,1305,1022,283
-Wood,1-2,U.S. Senate,,REP,Ted Cruz,1314,817,497
-Wood,1-3,U.S. Senate,,REP,Ted Cruz,1027,570,457
-Wood,1-4,U.S. Senate,,REP,Ted Cruz,355,169,186
-Wood,2-1,U.S. Senate,,REP,Ted Cruz,209,131,78
-Wood,2-2,U.S. Senate,,REP,Ted Cruz,1628,1101,527
-Wood,2-3,U.S. Senate,,REP,Ted Cruz,1314,936,378
-Wood,3-1,U.S. Senate,,REP,Ted Cruz,565,395,170
-Wood,3-2,U.S. Senate,,REP,Ted Cruz,1712,1250,462
-Wood,3-3,U.S. Senate,,REP,Ted Cruz,1417,835,582
-Wood,4-1,U.S. Senate,,REP,Ted Cruz,406,285,121
-Wood,4-2,U.S. Senate,,REP,Ted Cruz,1168,790,378
-Wood,4-3,U.S. Senate,,REP,Ted Cruz,1280,844,436
-Wood,4-4,U.S. Senate,,REP,Ted Cruz,287,214,73
-Wood,1-1,U.S. Senate,,DEM,Beto O'Rourke,264,199,65
-Wood,1-2,U.S. Senate,,DEM,Beto O'Rourke,210,132,78
-Wood,1-3,U.S. Senate,,DEM,Beto O'Rourke,162,98,64
-Wood,1-4,U.S. Senate,,DEM,Beto O'Rourke,27,15,12
-Wood,2-1,U.S. Senate,,DEM,Beto O'Rourke,24,17,7
-Wood,2-2,U.S. Senate,,DEM,Beto O'Rourke,351,210,141
-Wood,2-3,U.S. Senate,,DEM,Beto O'Rourke,321,212,109
-Wood,3-1,U.S. Senate,,DEM,Beto O'Rourke,97,77,20
-Wood,3-2,U.S. Senate,,DEM,Beto O'Rourke,306,230,76
-Wood,3-3,U.S. Senate,,DEM,Beto O'Rourke,363,193,170
-Wood,4-1,U.S. Senate,,DEM,Beto O'Rourke,51,38,13
-Wood,4-2,U.S. Senate,,DEM,Beto O'Rourke,189,130,59
-Wood,4-3,U.S. Senate,,DEM,Beto O'Rourke,239,145,94
-Wood,4-4,U.S. Senate,,DEM,Beto O'Rourke,31,21,10
-Wood,1-1,U.S. Senate,,LIB,Neal M. Dikeman,11,9,2
-Wood,1-2,U.S. Senate,,LIB,Neal M. Dikeman,8,5,3
-Wood,1-3,U.S. Senate,,LIB,Neal M. Dikeman,9,4,5
-Wood,1-4,U.S. Senate,,LIB,Neal M. Dikeman,2,0,2
+Wood,4-3,Straight Party,,LIB,Libertarian,5,5,0
+Wood,4-4,Straight Party,,LIB,Libertarian,1,1,0
+Wood,1-1,U.S. Senate,,REP,Ted Cruz,1305,283,1022
+Wood,1-2,U.S. Senate,,REP,Ted Cruz,1314,497,817
+Wood,1-3,U.S. Senate,,REP,Ted Cruz,1027,457,570
+Wood,1-4,U.S. Senate,,REP,Ted Cruz,355,186,169
+Wood,2-1,U.S. Senate,,REP,Ted Cruz,209,78,131
+Wood,2-2,U.S. Senate,,REP,Ted Cruz,1628,527,1101
+Wood,2-3,U.S. Senate,,REP,Ted Cruz,1314,378,936
+Wood,3-1,U.S. Senate,,REP,Ted Cruz,565,170,395
+Wood,3-2,U.S. Senate,,REP,Ted Cruz,1712,462,1250
+Wood,3-3,U.S. Senate,,REP,Ted Cruz,1417,582,835
+Wood,4-1,U.S. Senate,,REP,Ted Cruz,406,121,285
+Wood,4-2,U.S. Senate,,REP,Ted Cruz,1168,378,790
+Wood,4-3,U.S. Senate,,REP,Ted Cruz,1280,436,844
+Wood,4-4,U.S. Senate,,REP,Ted Cruz,287,73,214
+Wood,1-1,U.S. Senate,,DEM,Beto O'Rourke,264,65,199
+Wood,1-2,U.S. Senate,,DEM,Beto O'Rourke,210,78,132
+Wood,1-3,U.S. Senate,,DEM,Beto O'Rourke,162,64,98
+Wood,1-4,U.S. Senate,,DEM,Beto O'Rourke,27,12,15
+Wood,2-1,U.S. Senate,,DEM,Beto O'Rourke,24,7,17
+Wood,2-2,U.S. Senate,,DEM,Beto O'Rourke,351,141,210
+Wood,2-3,U.S. Senate,,DEM,Beto O'Rourke,321,109,212
+Wood,3-1,U.S. Senate,,DEM,Beto O'Rourke,97,20,77
+Wood,3-2,U.S. Senate,,DEM,Beto O'Rourke,306,76,230
+Wood,3-3,U.S. Senate,,DEM,Beto O'Rourke,363,170,193
+Wood,4-1,U.S. Senate,,DEM,Beto O'Rourke,51,13,38
+Wood,4-2,U.S. Senate,,DEM,Beto O'Rourke,189,59,130
+Wood,4-3,U.S. Senate,,DEM,Beto O'Rourke,239,94,145
+Wood,4-4,U.S. Senate,,DEM,Beto O'Rourke,31,10,21
+Wood,1-1,U.S. Senate,,LIB,Neal M. Dikeman,11,2,9
+Wood,1-2,U.S. Senate,,LIB,Neal M. Dikeman,8,3,5
+Wood,1-3,U.S. Senate,,LIB,Neal M. Dikeman,9,5,4
+Wood,1-4,U.S. Senate,,LIB,Neal M. Dikeman,2,2,0
 Wood,2-1,U.S. Senate,,LIB,Neal M. Dikeman,2,1,1
-Wood,2-2,U.S. Senate,,LIB,Neal M. Dikeman,15,11,4
-Wood,2-3,U.S. Senate,,LIB,Neal M. Dikeman,15,10,5
-Wood,3-1,U.S. Senate,,LIB,Neal M. Dikeman,5,2,3
-Wood,3-2,U.S. Senate,,LIB,Neal M. Dikeman,12,7,5
-Wood,3-3,U.S. Senate,,LIB,Neal M. Dikeman,13,7,6
+Wood,2-2,U.S. Senate,,LIB,Neal M. Dikeman,15,4,11
+Wood,2-3,U.S. Senate,,LIB,Neal M. Dikeman,15,5,10
+Wood,3-1,U.S. Senate,,LIB,Neal M. Dikeman,5,3,2
+Wood,3-2,U.S. Senate,,LIB,Neal M. Dikeman,12,5,7
+Wood,3-3,U.S. Senate,,LIB,Neal M. Dikeman,13,6,7
 Wood,4-1,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0
-Wood,4-2,U.S. Senate,,LIB,Neal M. Dikeman,11,3,8
-Wood,4-3,U.S. Senate,,LIB,Neal M. Dikeman,14,3,11
-Wood,4-4,U.S. Senate,,LIB,Neal M. Dikeman,1,0,1
-Wood,2-1,U.S. House,1,REP,Louie Gohmert,212,135,77
-Wood,3-1,U.S. House,1,REP,Louie Gohmert,573,398,175
-Wood,3-2,U.S. House,1,REP,Louie Gohmert,1723,1251,472
-Wood,3-3,U.S. House,1,REP,Louie Gohmert,1425,839,586
-Wood,4-1,U.S. House,1,REP,Louie Gohmert,408,287,121
-Wood,4-2,U.S. House,1,REP,Louie Gohmert,1185,793,392
-Wood,2-1,U.S. House,1,DEM,Shirley J. McKellar,18,13,5
-Wood,3-1,U.S. House,1,DEM,Shirley J. McKellar,94,75,19
-Wood,3-2,U.S. House,1,DEM,Shirley J. McKellar,289,224,65
-Wood,3-3,U.S. House,1,DEM,Shirley J. McKellar,349,181,168
-Wood,4-1,U.S. House,1,DEM,Shirley J. McKellar,51,38,13
-Wood,4-2,U.S. House,1,DEM,Shirley J. McKellar,185,130,55
+Wood,4-2,U.S. Senate,,LIB,Neal M. Dikeman,11,8,3
+Wood,4-3,U.S. Senate,,LIB,Neal M. Dikeman,14,11,3
+Wood,4-4,U.S. Senate,,LIB,Neal M. Dikeman,1,1,0
+Wood,2-1,U.S. House,1,REP,Louie Gohmert,212,77,135
+Wood,3-1,U.S. House,1,REP,Louie Gohmert,573,175,398
+Wood,3-2,U.S. House,1,REP,Louie Gohmert,1723,472,1251
+Wood,3-3,U.S. House,1,REP,Louie Gohmert,1425,586,839
+Wood,4-1,U.S. House,1,REP,Louie Gohmert,408,121,287
+Wood,4-2,U.S. House,1,REP,Louie Gohmert,1185,392,793
+Wood,2-1,U.S. House,1,DEM,Shirley J. McKellar,18,5,13
+Wood,3-1,U.S. House,1,DEM,Shirley J. McKellar,94,19,75
+Wood,3-2,U.S. House,1,DEM,Shirley J. McKellar,289,65,224
+Wood,3-3,U.S. House,1,DEM,Shirley J. McKellar,349,168,181
+Wood,4-1,U.S. House,1,DEM,Shirley J. McKellar,51,13,38
+Wood,4-2,U.S. House,1,DEM,Shirley J. McKellar,185,55,130
 Wood,2-1,U.S. House,1,LIB,Jeff Callaway,6,3,3
-Wood,3-1,U.S. House,1,LIB,Jeff Callaway,6,4,2
-Wood,3-2,U.S. House,1,LIB,Jeff Callaway,13,8,5
-Wood,3-3,U.S. House,1,LIB,Jeff Callaway,21,13,8
+Wood,3-1,U.S. House,1,LIB,Jeff Callaway,6,2,4
+Wood,3-2,U.S. House,1,LIB,Jeff Callaway,13,5,8
+Wood,3-3,U.S. House,1,LIB,Jeff Callaway,21,8,13
 Wood,4-1,U.S. House,1,LIB,Jeff Callaway,2,1,1
-Wood,4-2,U.S. House,1,LIB,Jeff Callaway,16,9,7
-Wood,1-1,U.S. House,5,REP,Lance Gooden,1284,1006,278
-Wood,1-2,U.S. House,5,REP,Lance Gooden,1318,817,501
-Wood,1-3,U.S. House,5,REP,Lance Gooden,1017,569,448
-Wood,1-4,U.S. House,5,REP,Lance Gooden,350,165,185
-Wood,2-2,U.S. House,5,REP,Lance Gooden,1660,1123,537
-Wood,2-3,U.S. House,5,REP,Lance Gooden,1335,947,388
-Wood,4-3,U.S. House,5,REP,Lance Gooden,1292,845,447
-Wood,4-4,U.S. House,5,REP,Lance Gooden,289,215,74
-Wood,1-1,U.S. House,5,DEM,Dan Wood,266,205,61
-Wood,1-2,U.S. House,5,DEM,Dan Wood,203,124,79
-Wood,1-3,U.S. House,5,DEM,Dan Wood,167,97,70
-Wood,1-4,U.S. House,5,DEM,Dan Wood,31,18,13
-Wood,2-2,U.S. House,5,DEM,Dan Wood,329,200,129
-Wood,2-3,U.S. House,5,DEM,Dan Wood,299,199,100
-Wood,4-3,U.S. House,5,DEM,Dan Wood,240,148,92
-Wood,4-4,U.S. House,5,DEM,Dan Wood,29,21,8
+Wood,4-2,U.S. House,1,LIB,Jeff Callaway,16,7,9
+Wood,1-1,U.S. House,5,REP,Lance Gooden,1284,278,1006
+Wood,1-2,U.S. House,5,REP,Lance Gooden,1318,501,817
+Wood,1-3,U.S. House,5,REP,Lance Gooden,1017,448,569
+Wood,1-4,U.S. House,5,REP,Lance Gooden,350,185,165
+Wood,2-2,U.S. House,5,REP,Lance Gooden,1660,537,1123
+Wood,2-3,U.S. House,5,REP,Lance Gooden,1335,388,947
+Wood,4-3,U.S. House,5,REP,Lance Gooden,1292,447,845
+Wood,4-4,U.S. House,5,REP,Lance Gooden,289,74,215
+Wood,1-1,U.S. House,5,DEM,Dan Wood,266,61,205
+Wood,1-2,U.S. House,5,DEM,Dan Wood,203,79,124
+Wood,1-3,U.S. House,5,DEM,Dan Wood,167,70,97
+Wood,1-4,U.S. House,5,DEM,Dan Wood,31,13,18
+Wood,2-2,U.S. House,5,DEM,Dan Wood,329,129,200
+Wood,2-3,U.S. House,5,DEM,Dan Wood,299,100,199
+Wood,4-3,U.S. House,5,DEM,Dan Wood,240,92,148
+Wood,4-4,U.S. House,5,DEM,Dan Wood,29,8,21
 Wood,1-1,U.S. House,5,WI,Phil Gray (W),0,0,0
 Wood,1-2,U.S. House,5,WI,Phil Gray (W),0,0,0
 Wood,1-3,U.S. House,5,WI,Phil Gray (W),0,0,0
 Wood,1-4,U.S. House,5,WI,Phil Gray (W),0,0,0
 Wood,2-2,U.S. House,5,WI,Phil Gray (W),0,0,0
-Wood,2-3,U.S. House,5,WI,Phil Gray (W),3,3,0
+Wood,2-3,U.S. House,5,WI,Phil Gray (W),3,0,3
 Wood,4-3,U.S. House,5,WI,Phil Gray (W),0,0,0
 Wood,4-4,U.S. House,5,WI,Phil Gray (W),0,0,0
-Wood,1-1,Governor,,REP,Greg Abbott,1344,1051,293
-Wood,1-2,Governor,,REP,Greg Abbott,1350,839,511
-Wood,1-3,Governor,,REP,Greg Abbott,1049,588,461
-Wood,1-4,Governor,,REP,Greg Abbott,353,166,187
-Wood,2-1,Governor,,REP,Greg Abbott,212,136,76
-Wood,2-2,Governor,,REP,Greg Abbott,1695,1144,551
-Wood,2-3,Governor,,REP,Greg Abbott,1366,968,398
-Wood,3-1,Governor,,REP,Greg Abbott,582,406,176
-Wood,3-2,Governor,,REP,Greg Abbott,1770,1288,482
-Wood,3-3,Governor,,REP,Greg Abbott,1459,850,609
-Wood,4-1,Governor,,REP,Greg Abbott,413,292,121
-Wood,4-2,Governor,,REP,Greg Abbott,1200,804,396
-Wood,4-3,Governor,,REP,Greg Abbott,1313,859,454
-Wood,4-4,Governor,,REP,Greg Abbott,300,223,77
-Wood,1-1,Governor,,DEM,Lupe Valdez,228,176,52
-Wood,1-2,Governor,,DEM,Lupe Valdez,184,113,71
-Wood,1-3,Governor,,DEM,Lupe Valdez,148,88,60
-Wood,1-4,Governor,,DEM,Lupe Valdez,27,16,11
-Wood,2-1,Governor,,DEM,Lupe Valdez,17,11,6
-Wood,2-2,Governor,,DEM,Lupe Valdez,302,187,115
-Wood,2-3,Governor,,DEM,Lupe Valdez,281,189,92
-Wood,3-1,Governor,,DEM,Lupe Valdez,87,70,17
-Wood,3-2,Governor,,DEM,Lupe Valdez,257,203,54
-Wood,3-3,Governor,,DEM,Lupe Valdez,326,180,146
-Wood,4-1,Governor,,DEM,Lupe Valdez,49,35,14
-Wood,4-2,Governor,,DEM,Lupe Valdez,174,122,52
-Wood,4-3,Governor,,DEM,Lupe Valdez,218,135,83
-Wood,4-4,Governor,,DEM,Lupe Valdez,26,20,6
-Wood,1-1,Governor,,LIB,Mark Jay Tippetts,19,13,6
-Wood,1-2,Governor,,LIB,Mark Jay Tippetts,14,11,3
-Wood,1-3,Governor,,LIB,Mark Jay Tippetts,8,1,7
+Wood,1-1,Governor,,REP,Greg Abbott,1344,293,1051
+Wood,1-2,Governor,,REP,Greg Abbott,1350,511,839
+Wood,1-3,Governor,,REP,Greg Abbott,1049,461,588
+Wood,1-4,Governor,,REP,Greg Abbott,353,187,166
+Wood,2-1,Governor,,REP,Greg Abbott,212,76,136
+Wood,2-2,Governor,,REP,Greg Abbott,1695,551,1144
+Wood,2-3,Governor,,REP,Greg Abbott,1366,398,968
+Wood,3-1,Governor,,REP,Greg Abbott,582,176,406
+Wood,3-2,Governor,,REP,Greg Abbott,1770,482,1288
+Wood,3-3,Governor,,REP,Greg Abbott,1459,609,850
+Wood,4-1,Governor,,REP,Greg Abbott,413,121,292
+Wood,4-2,Governor,,REP,Greg Abbott,1200,396,804
+Wood,4-3,Governor,,REP,Greg Abbott,1313,454,859
+Wood,4-4,Governor,,REP,Greg Abbott,300,77,223
+Wood,1-1,Governor,,DEM,Lupe Valdez,228,52,176
+Wood,1-2,Governor,,DEM,Lupe Valdez,184,71,113
+Wood,1-3,Governor,,DEM,Lupe Valdez,148,60,88
+Wood,1-4,Governor,,DEM,Lupe Valdez,27,11,16
+Wood,2-1,Governor,,DEM,Lupe Valdez,17,6,11
+Wood,2-2,Governor,,DEM,Lupe Valdez,302,115,187
+Wood,2-3,Governor,,DEM,Lupe Valdez,281,92,189
+Wood,3-1,Governor,,DEM,Lupe Valdez,87,17,70
+Wood,3-2,Governor,,DEM,Lupe Valdez,257,54,203
+Wood,3-3,Governor,,DEM,Lupe Valdez,326,146,180
+Wood,4-1,Governor,,DEM,Lupe Valdez,49,14,35
+Wood,4-2,Governor,,DEM,Lupe Valdez,174,52,122
+Wood,4-3,Governor,,DEM,Lupe Valdez,218,83,135
+Wood,4-4,Governor,,DEM,Lupe Valdez,26,6,20
+Wood,1-1,Governor,,LIB,Mark Jay Tippetts,19,6,13
+Wood,1-2,Governor,,LIB,Mark Jay Tippetts,14,3,11
+Wood,1-3,Governor,,LIB,Mark Jay Tippetts,8,7,1
 Wood,1-4,Governor,,LIB,Mark Jay Tippetts,2,1,1
 Wood,2-1,Governor,,LIB,Mark Jay Tippetts,6,3,3
-Wood,2-2,Governor,,LIB,Mark Jay Tippetts,17,9,8
-Wood,2-3,Governor,,LIB,Mark Jay Tippetts,17,9,8
+Wood,2-2,Governor,,LIB,Mark Jay Tippetts,17,8,9
+Wood,2-3,Governor,,LIB,Mark Jay Tippetts,17,8,9
 Wood,3-1,Governor,,LIB,Mark Jay Tippetts,6,3,3
-Wood,3-2,Governor,,LIB,Mark Jay Tippetts,12,3,9
-Wood,3-3,Governor,,LIB,Mark Jay Tippetts,17,10,7
+Wood,3-2,Governor,,LIB,Mark Jay Tippetts,12,9,3
+Wood,3-3,Governor,,LIB,Mark Jay Tippetts,17,7,10
 Wood,4-1,Governor,,LIB,Mark Jay Tippetts,2,1,1
-Wood,4-2,Governor,,LIB,Mark Jay Tippetts,14,8,6
-Wood,4-3,Governor,,LIB,Mark Jay Tippetts,16,7,9
-Wood,4-4,Governor,,LIB,Mark Jay Tippetts,1,0,1
-Wood,1-1,Lieutenant Governor,,REP,Dan Patrick,1275,1001,274
-Wood,1-2,Lieutenant Governor,,REP,Dan Patrick,1312,815,497
-Wood,1-3,Lieutenant Governor,,REP,Dan Patrick,1014,576,438
-Wood,1-4,Lieutenant Governor,,REP,Dan Patrick,340,161,179
-Wood,2-1,Lieutenant Governor,,REP,Dan Patrick,201,129,72
-Wood,2-2,Lieutenant Governor,,REP,Dan Patrick,1619,1096,523
-Wood,2-3,Lieutenant Governor,,REP,Dan Patrick,1286,921,365
-Wood,3-1,Lieutenant Governor,,REP,Dan Patrick,555,387,168
-Wood,3-2,Lieutenant Governor,,REP,Dan Patrick,1679,1228,451
-Wood,3-3,Lieutenant Governor,,REP,Dan Patrick,1374,817,557
-Wood,4-1,Lieutenant Governor,,REP,Dan Patrick,398,279,119
-Wood,4-2,Lieutenant Governor,,REP,Dan Patrick,1162,782,380
-Wood,4-3,Lieutenant Governor,,REP,Dan Patrick,1226,804,422
-Wood,4-4,Lieutenant Governor,,REP,Dan Patrick,284,212,72
-Wood,1-1,Lieutenant Governor,,DEM,Mike Collier,292,221,71
-Wood,1-2,Lieutenant Governor,,DEM,Mike Collier,214,133,81
-Wood,1-3,Lieutenant Governor,,DEM,Mike Collier,171,98,73
-Wood,1-4,Lieutenant Governor,,DEM,Mike Collier,40,21,19
-Wood,2-1,Lieutenant Governor,,DEM,Mike Collier,25,16,9
-Wood,2-2,Lieutenant Governor,,DEM,Mike Collier,368,229,139
-Wood,2-3,Lieutenant Governor,,DEM,Mike Collier,346,224,122
-Wood,3-1,Lieutenant Governor,,DEM,Mike Collier,107,84,23
-Wood,3-2,Lieutenant Governor,,DEM,Mike Collier,337,248,89
-Wood,3-3,Lieutenant Governor,,DEM,Mike Collier,392,211,181
-Wood,4-1,Lieutenant Governor,,DEM,Mike Collier,64,48,16
-Wood,4-2,Lieutenant Governor,,DEM,Mike Collier,208,142,66
-Wood,4-3,Lieutenant Governor,,DEM,Mike Collier,269,165,104
-Wood,4-4,Lieutenant Governor,,DEM,Mike Collier,36,27,9
-Wood,1-1,Lieutenant Governor,,LIB,Kerry Douglas McKennon,22,15,7
-Wood,1-2,Lieutenant Governor,,LIB,Kerry Douglas McKennon,20,14,6
-Wood,1-3,Lieutenant Governor,,LIB,Kerry Douglas McKennon,18,4,14
-Wood,1-4,Lieutenant Governor,,LIB,Kerry Douglas McKennon,3,2,1
+Wood,4-2,Governor,,LIB,Mark Jay Tippetts,14,6,8
+Wood,4-3,Governor,,LIB,Mark Jay Tippetts,16,9,7
+Wood,4-4,Governor,,LIB,Mark Jay Tippetts,1,1,0
+Wood,1-1,Lieutenant Governor,,REP,Dan Patrick,1275,274,1001
+Wood,1-2,Lieutenant Governor,,REP,Dan Patrick,1312,497,815
+Wood,1-3,Lieutenant Governor,,REP,Dan Patrick,1014,438,576
+Wood,1-4,Lieutenant Governor,,REP,Dan Patrick,340,179,161
+Wood,2-1,Lieutenant Governor,,REP,Dan Patrick,201,72,129
+Wood,2-2,Lieutenant Governor,,REP,Dan Patrick,1619,523,1096
+Wood,2-3,Lieutenant Governor,,REP,Dan Patrick,1286,365,921
+Wood,3-1,Lieutenant Governor,,REP,Dan Patrick,555,168,387
+Wood,3-2,Lieutenant Governor,,REP,Dan Patrick,1679,451,1228
+Wood,3-3,Lieutenant Governor,,REP,Dan Patrick,1374,557,817
+Wood,4-1,Lieutenant Governor,,REP,Dan Patrick,398,119,279
+Wood,4-2,Lieutenant Governor,,REP,Dan Patrick,1162,380,782
+Wood,4-3,Lieutenant Governor,,REP,Dan Patrick,1226,422,804
+Wood,4-4,Lieutenant Governor,,REP,Dan Patrick,284,72,212
+Wood,1-1,Lieutenant Governor,,DEM,Mike Collier,292,71,221
+Wood,1-2,Lieutenant Governor,,DEM,Mike Collier,214,81,133
+Wood,1-3,Lieutenant Governor,,DEM,Mike Collier,171,73,98
+Wood,1-4,Lieutenant Governor,,DEM,Mike Collier,40,19,21
+Wood,2-1,Lieutenant Governor,,DEM,Mike Collier,25,9,16
+Wood,2-2,Lieutenant Governor,,DEM,Mike Collier,368,139,229
+Wood,2-3,Lieutenant Governor,,DEM,Mike Collier,346,122,224
+Wood,3-1,Lieutenant Governor,,DEM,Mike Collier,107,23,84
+Wood,3-2,Lieutenant Governor,,DEM,Mike Collier,337,89,248
+Wood,3-3,Lieutenant Governor,,DEM,Mike Collier,392,181,211
+Wood,4-1,Lieutenant Governor,,DEM,Mike Collier,64,16,48
+Wood,4-2,Lieutenant Governor,,DEM,Mike Collier,208,66,142
+Wood,4-3,Lieutenant Governor,,DEM,Mike Collier,269,104,165
+Wood,4-4,Lieutenant Governor,,DEM,Mike Collier,36,9,27
+Wood,1-1,Lieutenant Governor,,LIB,Kerry Douglas McKennon,22,7,15
+Wood,1-2,Lieutenant Governor,,LIB,Kerry Douglas McKennon,20,6,14
+Wood,1-3,Lieutenant Governor,,LIB,Kerry Douglas McKennon,18,14,4
+Wood,1-4,Lieutenant Governor,,LIB,Kerry Douglas McKennon,3,1,2
 Wood,2-1,Lieutenant Governor,,LIB,Kerry Douglas McKennon,10,5,5
-Wood,2-2,Lieutenant Governor,,LIB,Kerry Douglas McKennon,26,14,12
-Wood,2-3,Lieutenant Governor,,LIB,Kerry Douglas McKennon,24,15,9
-Wood,3-1,Lieutenant Governor,,LIB,Kerry Douglas McKennon,11,5,6
-Wood,3-2,Lieutenant Governor,,LIB,Kerry Douglas McKennon,17,12,5
-Wood,3-3,Lieutenant Governor,,LIB,Kerry Douglas McKennon,35,12,23
+Wood,2-2,Lieutenant Governor,,LIB,Kerry Douglas McKennon,26,12,14
+Wood,2-3,Lieutenant Governor,,LIB,Kerry Douglas McKennon,24,9,15
+Wood,3-1,Lieutenant Governor,,LIB,Kerry Douglas McKennon,11,6,5
+Wood,3-2,Lieutenant Governor,,LIB,Kerry Douglas McKennon,17,5,12
+Wood,3-3,Lieutenant Governor,,LIB,Kerry Douglas McKennon,35,23,12
 Wood,4-1,Lieutenant Governor,,LIB,Kerry Douglas McKennon,2,1,1
 Wood,4-2,Lieutenant Governor,,LIB,Kerry Douglas McKennon,20,10,10
-Wood,4-3,Lieutenant Governor,,LIB,Kerry Douglas McKennon,45,28,17
-Wood,4-4,Lieutenant Governor,,LIB,Kerry Douglas McKennon,3,1,2
-Wood,1-1,Attorney General,,REP,Ken Paxton,1273,998,275
-Wood,1-2,Attorney General,,REP,Ken Paxton,1306,816,490
-Wood,1-3,Attorney General,,REP,Ken Paxton,1012,567,445
-Wood,1-4,Attorney General,,REP,Ken Paxton,342,162,180
-Wood,2-1,Attorney General,,REP,Ken Paxton,208,132,76
-Wood,2-2,Attorney General,,REP,Ken Paxton,1639,1106,533
-Wood,2-3,Attorney General,,REP,Ken Paxton,1306,926,380
-Wood,3-1,Attorney General,,REP,Ken Paxton,556,390,166
-Wood,3-2,Attorney General,,REP,Ken Paxton,1693,1232,461
-Wood,3-3,Attorney General,,REP,Ken Paxton,1408,829,579
-Wood,4-1,Attorney General,,REP,Ken Paxton,401,284,117
-Wood,4-2,Attorney General,,REP,Ken Paxton,1165,779,386
-Wood,4-3,Attorney General,,REP,Ken Paxton,1256,832,424
-Wood,4-4,Attorney General,,REP,Ken Paxton,291,216,75
-Wood,1-1,Attorney General,,DEM,Justin Nelson,275,212,63
-Wood,1-2,Attorney General,,DEM,Justin Nelson,214,131,83
-Wood,1-3,Attorney General,,DEM,Justin Nelson,166,98,68
-Wood,1-4,Attorney General,,DEM,Justin Nelson,35,20,15
-Wood,2-1,Attorney General,,DEM,Justin Nelson,22,13,9
-Wood,2-2,Attorney General,,DEM,Justin Nelson,346,217,129
-Wood,2-3,Attorney General,,DEM,Justin Nelson,315,209,106
-Wood,3-1,Attorney General,,DEM,Justin Nelson,107,81,26
-Wood,3-2,Attorney General,,DEM,Justin Nelson,315,243,72
-Wood,3-3,Attorney General,,DEM,Justin Nelson,353,191,162
-Wood,4-1,Attorney General,,DEM,Justin Nelson,58,41,17
-Wood,4-2,Attorney General,,DEM,Justin Nelson,201,144,57
-Wood,4-3,Attorney General,,DEM,Justin Nelson,253,151,102
-Wood,4-4,Attorney General,,DEM,Justin Nelson,30,23,7
-Wood,1-1,Attorney General,,LIB,Michael Ray Harris,28,20,8
-Wood,1-2,Attorney General,,LIB,Michael Ray Harris,22,13,9
+Wood,4-3,Lieutenant Governor,,LIB,Kerry Douglas McKennon,45,17,28
+Wood,4-4,Lieutenant Governor,,LIB,Kerry Douglas McKennon,3,2,1
+Wood,1-1,Attorney General,,REP,Ken Paxton,1273,275,998
+Wood,1-2,Attorney General,,REP,Ken Paxton,1306,490,816
+Wood,1-3,Attorney General,,REP,Ken Paxton,1012,445,567
+Wood,1-4,Attorney General,,REP,Ken Paxton,342,180,162
+Wood,2-1,Attorney General,,REP,Ken Paxton,208,76,132
+Wood,2-2,Attorney General,,REP,Ken Paxton,1639,533,1106
+Wood,2-3,Attorney General,,REP,Ken Paxton,1306,380,926
+Wood,3-1,Attorney General,,REP,Ken Paxton,556,166,390
+Wood,3-2,Attorney General,,REP,Ken Paxton,1693,461,1232
+Wood,3-3,Attorney General,,REP,Ken Paxton,1408,579,829
+Wood,4-1,Attorney General,,REP,Ken Paxton,401,117,284
+Wood,4-2,Attorney General,,REP,Ken Paxton,1165,386,779
+Wood,4-3,Attorney General,,REP,Ken Paxton,1256,424,832
+Wood,4-4,Attorney General,,REP,Ken Paxton,291,75,216
+Wood,1-1,Attorney General,,DEM,Justin Nelson,275,63,212
+Wood,1-2,Attorney General,,DEM,Justin Nelson,214,83,131
+Wood,1-3,Attorney General,,DEM,Justin Nelson,166,68,98
+Wood,1-4,Attorney General,,DEM,Justin Nelson,35,15,20
+Wood,2-1,Attorney General,,DEM,Justin Nelson,22,9,13
+Wood,2-2,Attorney General,,DEM,Justin Nelson,346,129,217
+Wood,2-3,Attorney General,,DEM,Justin Nelson,315,106,209
+Wood,3-1,Attorney General,,DEM,Justin Nelson,107,26,81
+Wood,3-2,Attorney General,,DEM,Justin Nelson,315,72,243
+Wood,3-3,Attorney General,,DEM,Justin Nelson,353,162,191
+Wood,4-1,Attorney General,,DEM,Justin Nelson,58,17,41
+Wood,4-2,Attorney General,,DEM,Justin Nelson,201,57,144
+Wood,4-3,Attorney General,,DEM,Justin Nelson,253,102,151
+Wood,4-4,Attorney General,,DEM,Justin Nelson,30,7,23
+Wood,1-1,Attorney General,,LIB,Michael Ray Harris,28,8,20
+Wood,1-2,Attorney General,,LIB,Michael Ray Harris,22,9,13
 Wood,1-3,Attorney General,,LIB,Michael Ray Harris,22,11,11
-Wood,1-4,Attorney General,,LIB,Michael Ray Harris,5,1,4
-Wood,2-1,Attorney General,,LIB,Michael Ray Harris,5,4,1
-Wood,2-2,Attorney General,,LIB,Michael Ray Harris,23,16,7
-Wood,2-3,Attorney General,,LIB,Michael Ray Harris,31,21,10
-Wood,3-1,Attorney General,,LIB,Michael Ray Harris,10,6,4
-Wood,3-2,Attorney General,,LIB,Michael Ray Harris,27,15,12
-Wood,3-3,Attorney General,,LIB,Michael Ray Harris,38,18,20
+Wood,1-4,Attorney General,,LIB,Michael Ray Harris,5,4,1
+Wood,2-1,Attorney General,,LIB,Michael Ray Harris,5,1,4
+Wood,2-2,Attorney General,,LIB,Michael Ray Harris,23,7,16
+Wood,2-3,Attorney General,,LIB,Michael Ray Harris,31,10,21
+Wood,3-1,Attorney General,,LIB,Michael Ray Harris,10,4,6
+Wood,3-2,Attorney General,,LIB,Michael Ray Harris,27,12,15
+Wood,3-3,Attorney General,,LIB,Michael Ray Harris,38,20,18
 Wood,4-1,Attorney General,,LIB,Michael Ray Harris,4,2,2
-Wood,4-2,Attorney General,,LIB,Michael Ray Harris,20,12,8
-Wood,4-3,Attorney General,,LIB,Michael Ray Harris,31,12,19
-Wood,4-4,Attorney General,,LIB,Michael Ray Harris,3,2,1
-Wood,1-1,Comptroller of Public Accounts,,REP,Glenn Hegar,1310,1028,282
-Wood,1-2,Comptroller of Public Accounts,,REP,Glenn Hegar,1322,822,500
-Wood,1-3,Comptroller of Public Accounts,,REP,Glenn Hegar,1025,577,448
-Wood,1-4,Comptroller of Public Accounts,,REP,Glenn Hegar,348,164,184
-Wood,2-1,Comptroller of Public Accounts,,REP,Glenn Hegar,212,135,77
-Wood,2-2,Comptroller of Public Accounts,,REP,Glenn Hegar,1636,1113,523
-Wood,2-3,Comptroller of Public Accounts,,REP,Glenn Hegar,1336,954,382
-Wood,3-1,Comptroller of Public Accounts,,REP,Glenn Hegar,568,401,167
-Wood,3-2,Comptroller of Public Accounts,,REP,Glenn Hegar,1718,1243,475
-Wood,3-3,Comptroller of Public Accounts,,REP,Glenn Hegar,1426,841,585
-Wood,4-1,Comptroller of Public Accounts,,REP,Glenn Hegar,403,286,117
-Wood,4-2,Comptroller of Public Accounts,,REP,Glenn Hegar,1170,784,386
-Wood,4-3,Comptroller of Public Accounts,,REP,Glenn Hegar,1290,847,443
-Wood,4-4,Comptroller of Public Accounts,,REP,Glenn Hegar,292,218,74
-Wood,1-1,Comptroller of Public Accounts,,DEM,Joi Chevalier,237,183,54
-Wood,1-2,Comptroller of Public Accounts,,DEM,Joi Chevalier,193,119,74
-Wood,1-3,Comptroller of Public Accounts,,DEM,Joi Chevalier,153,90,63
-Wood,1-4,Comptroller of Public Accounts,,DEM,Joi Chevalier,28,17,11
-Wood,2-1,Comptroller of Public Accounts,,DEM,Joi Chevalier,18,12,6
-Wood,2-2,Comptroller of Public Accounts,,DEM,Joi Chevalier,313,189,124
-Wood,2-3,Comptroller of Public Accounts,,DEM,Joi Chevalier,282,184,98
-Wood,3-1,Comptroller of Public Accounts,,DEM,Joi Chevalier,91,71,20
-Wood,3-2,Comptroller of Public Accounts,,DEM,Joi Chevalier,284,225,59
-Wood,3-3,Comptroller of Public Accounts,,DEM,Joi Chevalier,323,176,147
-Wood,4-1,Comptroller of Public Accounts,,DEM,Joi Chevalier,51,35,16
-Wood,4-2,Comptroller of Public Accounts,,DEM,Joi Chevalier,185,128,57
-Wood,4-3,Comptroller of Public Accounts,,DEM,Joi Chevalier,214,134,80
-Wood,4-4,Comptroller of Public Accounts,,DEM,Joi Chevalier,24,18,6
-Wood,1-1,Comptroller of Public Accounts,,LIB,Ben Sanders,25,17,8
-Wood,1-2,Comptroller of Public Accounts,,LIB,Ben Sanders,24,17,7
-Wood,1-3,Comptroller of Public Accounts,,LIB,Ben Sanders,18,7,11
-Wood,1-4,Comptroller of Public Accounts,,LIB,Ben Sanders,5,2,3
+Wood,4-2,Attorney General,,LIB,Michael Ray Harris,20,8,12
+Wood,4-3,Attorney General,,LIB,Michael Ray Harris,31,19,12
+Wood,4-4,Attorney General,,LIB,Michael Ray Harris,3,1,2
+Wood,1-1,Comptroller of Public Accounts,,REP,Glenn Hegar,1310,282,1028
+Wood,1-2,Comptroller of Public Accounts,,REP,Glenn Hegar,1322,500,822
+Wood,1-3,Comptroller of Public Accounts,,REP,Glenn Hegar,1025,448,577
+Wood,1-4,Comptroller of Public Accounts,,REP,Glenn Hegar,348,184,164
+Wood,2-1,Comptroller of Public Accounts,,REP,Glenn Hegar,212,77,135
+Wood,2-2,Comptroller of Public Accounts,,REP,Glenn Hegar,1636,523,1113
+Wood,2-3,Comptroller of Public Accounts,,REP,Glenn Hegar,1336,382,954
+Wood,3-1,Comptroller of Public Accounts,,REP,Glenn Hegar,568,167,401
+Wood,3-2,Comptroller of Public Accounts,,REP,Glenn Hegar,1718,475,1243
+Wood,3-3,Comptroller of Public Accounts,,REP,Glenn Hegar,1426,585,841
+Wood,4-1,Comptroller of Public Accounts,,REP,Glenn Hegar,403,117,286
+Wood,4-2,Comptroller of Public Accounts,,REP,Glenn Hegar,1170,386,784
+Wood,4-3,Comptroller of Public Accounts,,REP,Glenn Hegar,1290,443,847
+Wood,4-4,Comptroller of Public Accounts,,REP,Glenn Hegar,292,74,218
+Wood,1-1,Comptroller of Public Accounts,,DEM,Joi Chevalier,237,54,183
+Wood,1-2,Comptroller of Public Accounts,,DEM,Joi Chevalier,193,74,119
+Wood,1-3,Comptroller of Public Accounts,,DEM,Joi Chevalier,153,63,90
+Wood,1-4,Comptroller of Public Accounts,,DEM,Joi Chevalier,28,11,17
+Wood,2-1,Comptroller of Public Accounts,,DEM,Joi Chevalier,18,6,12
+Wood,2-2,Comptroller of Public Accounts,,DEM,Joi Chevalier,313,124,189
+Wood,2-3,Comptroller of Public Accounts,,DEM,Joi Chevalier,282,98,184
+Wood,3-1,Comptroller of Public Accounts,,DEM,Joi Chevalier,91,20,71
+Wood,3-2,Comptroller of Public Accounts,,DEM,Joi Chevalier,284,59,225
+Wood,3-3,Comptroller of Public Accounts,,DEM,Joi Chevalier,323,147,176
+Wood,4-1,Comptroller of Public Accounts,,DEM,Joi Chevalier,51,16,35
+Wood,4-2,Comptroller of Public Accounts,,DEM,Joi Chevalier,185,57,128
+Wood,4-3,Comptroller of Public Accounts,,DEM,Joi Chevalier,214,80,134
+Wood,4-4,Comptroller of Public Accounts,,DEM,Joi Chevalier,24,6,18
+Wood,1-1,Comptroller of Public Accounts,,LIB,Ben Sanders,25,8,17
+Wood,1-2,Comptroller of Public Accounts,,LIB,Ben Sanders,24,7,17
+Wood,1-3,Comptroller of Public Accounts,,LIB,Ben Sanders,18,11,7
+Wood,1-4,Comptroller of Public Accounts,,LIB,Ben Sanders,5,3,2
 Wood,2-1,Comptroller of Public Accounts,,LIB,Ben Sanders,4,2,2
-Wood,2-2,Comptroller of Public Accounts,,LIB,Ben Sanders,47,26,21
-Wood,2-3,Comptroller of Public Accounts,,LIB,Ben Sanders,32,20,12
-Wood,3-1,Comptroller of Public Accounts,,LIB,Ben Sanders,12,5,7
-Wood,3-2,Comptroller of Public Accounts,,LIB,Ben Sanders,26,18,8
-Wood,3-3,Comptroller of Public Accounts,,LIB,Ben Sanders,47,22,25
-Wood,4-1,Comptroller of Public Accounts,,LIB,Ben Sanders,7,5,2
-Wood,4-2,Comptroller of Public Accounts,,LIB,Ben Sanders,28,19,9
-Wood,4-3,Comptroller of Public Accounts,,LIB,Ben Sanders,35,13,22
-Wood,4-4,Comptroller of Public Accounts,,LIB,Ben Sanders,5,3,2
-Wood,1-1,Commissioner of the General Land Office,,REP,George P. Bush,1295,1013,282
-Wood,1-2,Commissioner of the General Land Office,,REP,George P. Bush,1322,821,501
-Wood,1-3,Commissioner of the General Land Office,,REP,George P. Bush,1032,580,452
-Wood,1-4,Commissioner of the General Land Office,,REP,George P. Bush,339,159,180
-Wood,2-1,Commissioner of the General Land Office,,REP,George P. Bush,204,129,75
-Wood,2-2,Commissioner of the General Land Office,,REP,George P. Bush,1646,1110,536
-Wood,2-3,Commissioner of the General Land Office,,REP,George P. Bush,1314,926,388
-Wood,3-1,Commissioner of the General Land Office,,REP,George P. Bush,563,392,171
-Wood,3-2,Commissioner of the General Land Office,,REP,George P. Bush,1717,1246,471
-Wood,3-3,Commissioner of the General Land Office,,REP,George P. Bush,1414,832,582
-Wood,4-1,Commissioner of the General Land Office,,REP,George P. Bush,398,278,120
-Wood,4-2,Commissioner of the General Land Office,,REP,George P. Bush,1151,775,376
-Wood,4-3,Commissioner of the General Land Office,,REP,George P. Bush,1295,844,451
-Wood,4-4,Commissioner of the General Land Office,,REP,George P. Bush,284,212,72
-Wood,1-1,Commissioner of the General Land Office,,DEM,Miguel Suazo,248,192,56
-Wood,1-2,Commissioner of the General Land Office,,DEM,Miguel Suazo,187,116,71
-Wood,1-3,Commissioner of the General Land Office,,DEM,Miguel Suazo,147,86,61
-Wood,1-4,Commissioner of the General Land Office,,DEM,Miguel Suazo,33,19,14
-Wood,2-1,Commissioner of the General Land Office,,DEM,Miguel Suazo,22,14,8
-Wood,2-2,Commissioner of the General Land Office,,DEM,Miguel Suazo,314,195,119
-Wood,2-3,Commissioner of the General Land Office,,DEM,Miguel Suazo,283,191,92
-Wood,3-1,Commissioner of the General Land Office,,DEM,Miguel Suazo,90,73,17
-Wood,3-2,Commissioner of the General Land Office,,DEM,Miguel Suazo,270,213,57
-Wood,3-3,Commissioner of the General Land Office,,DEM,Miguel Suazo,326,178,148
-Wood,4-1,Commissioner of the General Land Office,,DEM,Miguel Suazo,50,37,13
-Wood,4-2,Commissioner of the General Land Office,,DEM,Miguel Suazo,180,124,56
-Wood,4-3,Commissioner of the General Land Office,,DEM,Miguel Suazo,211,130,81
-Wood,4-4,Commissioner of the General Land Office,,DEM,Miguel Suazo,27,21,6
-Wood,1-1,Commissioner of the General Land Office,,LIB,Matt Pina,39,28,11
-Wood,1-2,Commissioner of the General Land Office,,LIB,Matt Pina,28,21,7
-Wood,1-3,Commissioner of the General Land Office,,LIB,Matt Pina,19,7,12
+Wood,2-2,Comptroller of Public Accounts,,LIB,Ben Sanders,47,21,26
+Wood,2-3,Comptroller of Public Accounts,,LIB,Ben Sanders,32,12,20
+Wood,3-1,Comptroller of Public Accounts,,LIB,Ben Sanders,12,7,5
+Wood,3-2,Comptroller of Public Accounts,,LIB,Ben Sanders,26,8,18
+Wood,3-3,Comptroller of Public Accounts,,LIB,Ben Sanders,47,25,22
+Wood,4-1,Comptroller of Public Accounts,,LIB,Ben Sanders,7,2,5
+Wood,4-2,Comptroller of Public Accounts,,LIB,Ben Sanders,28,9,19
+Wood,4-3,Comptroller of Public Accounts,,LIB,Ben Sanders,35,22,13
+Wood,4-4,Comptroller of Public Accounts,,LIB,Ben Sanders,5,2,3
+Wood,1-1,Commissioner of the General Land Office,,REP,George P. Bush,1295,282,1013
+Wood,1-2,Commissioner of the General Land Office,,REP,George P. Bush,1322,501,821
+Wood,1-3,Commissioner of the General Land Office,,REP,George P. Bush,1032,452,580
+Wood,1-4,Commissioner of the General Land Office,,REP,George P. Bush,339,180,159
+Wood,2-1,Commissioner of the General Land Office,,REP,George P. Bush,204,75,129
+Wood,2-2,Commissioner of the General Land Office,,REP,George P. Bush,1646,536,1110
+Wood,2-3,Commissioner of the General Land Office,,REP,George P. Bush,1314,388,926
+Wood,3-1,Commissioner of the General Land Office,,REP,George P. Bush,563,171,392
+Wood,3-2,Commissioner of the General Land Office,,REP,George P. Bush,1717,471,1246
+Wood,3-3,Commissioner of the General Land Office,,REP,George P. Bush,1414,582,832
+Wood,4-1,Commissioner of the General Land Office,,REP,George P. Bush,398,120,278
+Wood,4-2,Commissioner of the General Land Office,,REP,George P. Bush,1151,376,775
+Wood,4-3,Commissioner of the General Land Office,,REP,George P. Bush,1295,451,844
+Wood,4-4,Commissioner of the General Land Office,,REP,George P. Bush,284,72,212
+Wood,1-1,Commissioner of the General Land Office,,DEM,Miguel Suazo,248,56,192
+Wood,1-2,Commissioner of the General Land Office,,DEM,Miguel Suazo,187,71,116
+Wood,1-3,Commissioner of the General Land Office,,DEM,Miguel Suazo,147,61,86
+Wood,1-4,Commissioner of the General Land Office,,DEM,Miguel Suazo,33,14,19
+Wood,2-1,Commissioner of the General Land Office,,DEM,Miguel Suazo,22,8,14
+Wood,2-2,Commissioner of the General Land Office,,DEM,Miguel Suazo,314,119,195
+Wood,2-3,Commissioner of the General Land Office,,DEM,Miguel Suazo,283,92,191
+Wood,3-1,Commissioner of the General Land Office,,DEM,Miguel Suazo,90,17,73
+Wood,3-2,Commissioner of the General Land Office,,DEM,Miguel Suazo,270,57,213
+Wood,3-3,Commissioner of the General Land Office,,DEM,Miguel Suazo,326,148,178
+Wood,4-1,Commissioner of the General Land Office,,DEM,Miguel Suazo,50,13,37
+Wood,4-2,Commissioner of the General Land Office,,DEM,Miguel Suazo,180,56,124
+Wood,4-3,Commissioner of the General Land Office,,DEM,Miguel Suazo,211,81,130
+Wood,4-4,Commissioner of the General Land Office,,DEM,Miguel Suazo,27,6,21
+Wood,1-1,Commissioner of the General Land Office,,LIB,Matt Pina,39,11,28
+Wood,1-2,Commissioner of the General Land Office,,LIB,Matt Pina,28,7,21
+Wood,1-3,Commissioner of the General Land Office,,LIB,Matt Pina,19,12,7
 Wood,1-4,Commissioner of the General Land Office,,LIB,Matt Pina,10,5,5
-Wood,2-1,Commissioner of the General Land Office,,LIB,Matt Pina,10,7,3
-Wood,2-2,Commissioner of the General Land Office,,LIB,Matt Pina,49,33,16
-Wood,2-3,Commissioner of the General Land Office,,LIB,Matt Pina,46,33,13
-Wood,3-1,Commissioner of the General Land Office,,LIB,Matt Pina,22,14,8
-Wood,3-2,Commissioner of the General Land Office,,LIB,Matt Pina,44,31,13
-Wood,3-3,Commissioner of the General Land Office,,LIB,Matt Pina,54,29,25
-Wood,4-1,Commissioner of the General Land Office,,LIB,Matt Pina,11,9,2
-Wood,4-2,Commissioner of the General Land Office,,LIB,Matt Pina,55,35,20
-Wood,4-3,Commissioner of the General Land Office,,LIB,Matt Pina,34,22,12
-Wood,4-4,Commissioner of the General Land Office,,LIB,Matt Pina,13,8,5
-Wood,1-1,Commissioner of Agriculture,,REP,Sid Miller,1293,1016,277
-Wood,1-2,Commissioner of Agriculture,,REP,Sid Miller,1330,827,503
-Wood,1-3,Commissioner of Agriculture,,REP,Sid Miller,1017,571,446
-Wood,1-4,Commissioner of Agriculture,,REP,Sid Miller,343,162,181
-Wood,2-1,Commissioner of Agriculture,,REP,Sid Miller,209,131,78
-Wood,2-2,Commissioner of Agriculture,,REP,Sid Miller,1622,1097,525
-Wood,2-3,Commissioner of Agriculture,,REP,Sid Miller,1320,935,385
-Wood,3-1,Commissioner of Agriculture,,REP,Sid Miller,570,398,172
-Wood,3-2,Commissioner of Agriculture,,REP,Sid Miller,1704,1236,468
-Wood,3-3,Commissioner of Agriculture,,REP,Sid Miller,1415,838,577
-Wood,4-1,Commissioner of Agriculture,,REP,Sid Miller,400,285,115
-Wood,4-2,Commissioner of Agriculture,,REP,Sid Miller,1173,788,385
-Wood,4-3,Commissioner of Agriculture,,REP,Sid Miller,1277,841,436
-Wood,4-4,Commissioner of Agriculture,,REP,Sid Miller,290,215,75
-Wood,1-1,Commissioner of Agriculture,,DEM,Kim Olson,258,199,59
-Wood,1-2,Commissioner of Agriculture,,DEM,Kim Olson,197,121,76
-Wood,1-3,Commissioner of Agriculture,,DEM,Kim Olson,160,94,66
-Wood,1-4,Commissioner of Agriculture,,DEM,Kim Olson,33,19,14
-Wood,2-1,Commissioner of Agriculture,,DEM,Kim Olson,18,13,5
-Wood,2-2,Commissioner of Agriculture,,DEM,Kim Olson,353,218,135
-Wood,2-3,Commissioner of Agriculture,,DEM,Kim Olson,305,205,100
-Wood,3-1,Commissioner of Agriculture,,DEM,Kim Olson,98,78,20
-Wood,3-2,Commissioner of Agriculture,,DEM,Kim Olson,301,236,65
-Wood,3-3,Commissioner of Agriculture,,DEM,Kim Olson,354,191,163
-Wood,4-1,Commissioner of Agriculture,,DEM,Kim Olson,53,37,16
-Wood,4-2,Commissioner of Agriculture,,DEM,Kim Olson,184,129,55
-Wood,4-3,Commissioner of Agriculture,,DEM,Kim Olson,236,144,92
-Wood,4-4,Commissioner of Agriculture,,DEM,Kim Olson,24,18,6
-Wood,1-1,Commissioner of Agriculture,,LIB,Richard Carpenter,20,11,9
-Wood,1-2,Commissioner of Agriculture,,LIB,Richard Carpenter,14,11,3
-Wood,1-3,Commissioner of Agriculture,,LIB,Richard Carpenter,15,7,8
-Wood,1-4,Commissioner of Agriculture,,LIB,Richard Carpenter,5,2,3
-Wood,2-1,Commissioner of Agriculture,,LIB,Richard Carpenter,6,4,2
-Wood,2-2,Commissioner of Agriculture,,LIB,Richard Carpenter,22,12,10
-Wood,2-3,Commissioner of Agriculture,,LIB,Richard Carpenter,22,14,8
-Wood,3-1,Commissioner of Agriculture,,LIB,Richard Carpenter,8,3,5
-Wood,3-2,Commissioner of Agriculture,,LIB,Richard Carpenter,19,10,9
-Wood,3-3,Commissioner of Agriculture,,LIB,Richard Carpenter,25,11,14
-Wood,4-1,Commissioner of Agriculture,,LIB,Richard Carpenter,6,4,2
-Wood,4-2,Commissioner of Agriculture,,LIB,Richard Carpenter,27,15,12
-Wood,4-3,Commissioner of Agriculture,,LIB,Richard Carpenter,27,10,17
-Wood,4-4,Commissioner of Agriculture,,LIB,Richard Carpenter,4,3,1
-Wood,1-1,Railroad Commissioner,,REP,Christie Craddick,1294,1014,280
-Wood,1-2,Railroad Commissioner,,REP,Christie Craddick,1331,827,504
-Wood,1-3,Railroad Commissioner,,REP,Christie Craddick,1021,574,447
-Wood,1-4,Railroad Commissioner,,REP,Christie Craddick,346,167,179
-Wood,2-1,Railroad Commissioner,,REP,Christie Craddick,212,134,78
-Wood,2-2,Railroad Commissioner,,REP,Christie Craddick,1646,1115,531
-Wood,2-3,Railroad Commissioner,,REP,Christie Craddick,1333,945,388
-Wood,3-1,Railroad Commissioner,,REP,Christie Craddick,568,400,168
-Wood,3-2,Railroad Commissioner,,REP,Christie Craddick,1720,1250,470
-Wood,3-3,Railroad Commissioner,,REP,Christie Craddick,1421,840,581
-Wood,4-1,Railroad Commissioner,,REP,Christie Craddick,404,284,120
-Wood,4-2,Railroad Commissioner,,REP,Christie Craddick,1168,781,387
-Wood,4-3,Railroad Commissioner,,REP,Christie Craddick,1292,845,447
-Wood,4-4,Railroad Commissioner,,REP,Christie Craddick,289,216,73
-Wood,1-1,Railroad Commissioner,,DEM,Roman McAllen,239,186,53
-Wood,1-2,Railroad Commissioner,,DEM,Roman McAllen,193,121,72
-Wood,1-3,Railroad Commissioner,,DEM,Roman McAllen,156,93,63
+Wood,2-1,Commissioner of the General Land Office,,LIB,Matt Pina,10,3,7
+Wood,2-2,Commissioner of the General Land Office,,LIB,Matt Pina,49,16,33
+Wood,2-3,Commissioner of the General Land Office,,LIB,Matt Pina,46,13,33
+Wood,3-1,Commissioner of the General Land Office,,LIB,Matt Pina,22,8,14
+Wood,3-2,Commissioner of the General Land Office,,LIB,Matt Pina,44,13,31
+Wood,3-3,Commissioner of the General Land Office,,LIB,Matt Pina,54,25,29
+Wood,4-1,Commissioner of the General Land Office,,LIB,Matt Pina,11,2,9
+Wood,4-2,Commissioner of the General Land Office,,LIB,Matt Pina,55,20,35
+Wood,4-3,Commissioner of the General Land Office,,LIB,Matt Pina,34,12,22
+Wood,4-4,Commissioner of the General Land Office,,LIB,Matt Pina,13,5,8
+Wood,1-1,Commissioner of Agriculture,,REP,Sid Miller,1293,277,1016
+Wood,1-2,Commissioner of Agriculture,,REP,Sid Miller,1330,503,827
+Wood,1-3,Commissioner of Agriculture,,REP,Sid Miller,1017,446,571
+Wood,1-4,Commissioner of Agriculture,,REP,Sid Miller,343,181,162
+Wood,2-1,Commissioner of Agriculture,,REP,Sid Miller,209,78,131
+Wood,2-2,Commissioner of Agriculture,,REP,Sid Miller,1622,525,1097
+Wood,2-3,Commissioner of Agriculture,,REP,Sid Miller,1320,385,935
+Wood,3-1,Commissioner of Agriculture,,REP,Sid Miller,570,172,398
+Wood,3-2,Commissioner of Agriculture,,REP,Sid Miller,1704,468,1236
+Wood,3-3,Commissioner of Agriculture,,REP,Sid Miller,1415,577,838
+Wood,4-1,Commissioner of Agriculture,,REP,Sid Miller,400,115,285
+Wood,4-2,Commissioner of Agriculture,,REP,Sid Miller,1173,385,788
+Wood,4-3,Commissioner of Agriculture,,REP,Sid Miller,1277,436,841
+Wood,4-4,Commissioner of Agriculture,,REP,Sid Miller,290,75,215
+Wood,1-1,Commissioner of Agriculture,,DEM,Kim Olson,258,59,199
+Wood,1-2,Commissioner of Agriculture,,DEM,Kim Olson,197,76,121
+Wood,1-3,Commissioner of Agriculture,,DEM,Kim Olson,160,66,94
+Wood,1-4,Commissioner of Agriculture,,DEM,Kim Olson,33,14,19
+Wood,2-1,Commissioner of Agriculture,,DEM,Kim Olson,18,5,13
+Wood,2-2,Commissioner of Agriculture,,DEM,Kim Olson,353,135,218
+Wood,2-3,Commissioner of Agriculture,,DEM,Kim Olson,305,100,205
+Wood,3-1,Commissioner of Agriculture,,DEM,Kim Olson,98,20,78
+Wood,3-2,Commissioner of Agriculture,,DEM,Kim Olson,301,65,236
+Wood,3-3,Commissioner of Agriculture,,DEM,Kim Olson,354,163,191
+Wood,4-1,Commissioner of Agriculture,,DEM,Kim Olson,53,16,37
+Wood,4-2,Commissioner of Agriculture,,DEM,Kim Olson,184,55,129
+Wood,4-3,Commissioner of Agriculture,,DEM,Kim Olson,236,92,144
+Wood,4-4,Commissioner of Agriculture,,DEM,Kim Olson,24,6,18
+Wood,1-1,Commissioner of Agriculture,,LIB,Richard Carpenter,20,9,11
+Wood,1-2,Commissioner of Agriculture,,LIB,Richard Carpenter,14,3,11
+Wood,1-3,Commissioner of Agriculture,,LIB,Richard Carpenter,15,8,7
+Wood,1-4,Commissioner of Agriculture,,LIB,Richard Carpenter,5,3,2
+Wood,2-1,Commissioner of Agriculture,,LIB,Richard Carpenter,6,2,4
+Wood,2-2,Commissioner of Agriculture,,LIB,Richard Carpenter,22,10,12
+Wood,2-3,Commissioner of Agriculture,,LIB,Richard Carpenter,22,8,14
+Wood,3-1,Commissioner of Agriculture,,LIB,Richard Carpenter,8,5,3
+Wood,3-2,Commissioner of Agriculture,,LIB,Richard Carpenter,19,9,10
+Wood,3-3,Commissioner of Agriculture,,LIB,Richard Carpenter,25,14,11
+Wood,4-1,Commissioner of Agriculture,,LIB,Richard Carpenter,6,2,4
+Wood,4-2,Commissioner of Agriculture,,LIB,Richard Carpenter,27,12,15
+Wood,4-3,Commissioner of Agriculture,,LIB,Richard Carpenter,27,17,10
+Wood,4-4,Commissioner of Agriculture,,LIB,Richard Carpenter,4,1,3
+Wood,1-1,Railroad Commissioner,,REP,Christie Craddick,1294,280,1014
+Wood,1-2,Railroad Commissioner,,REP,Christie Craddick,1331,504,827
+Wood,1-3,Railroad Commissioner,,REP,Christie Craddick,1021,447,574
+Wood,1-4,Railroad Commissioner,,REP,Christie Craddick,346,179,167
+Wood,2-1,Railroad Commissioner,,REP,Christie Craddick,212,78,134
+Wood,2-2,Railroad Commissioner,,REP,Christie Craddick,1646,531,1115
+Wood,2-3,Railroad Commissioner,,REP,Christie Craddick,1333,388,945
+Wood,3-1,Railroad Commissioner,,REP,Christie Craddick,568,168,400
+Wood,3-2,Railroad Commissioner,,REP,Christie Craddick,1720,470,1250
+Wood,3-3,Railroad Commissioner,,REP,Christie Craddick,1421,581,840
+Wood,4-1,Railroad Commissioner,,REP,Christie Craddick,404,120,284
+Wood,4-2,Railroad Commissioner,,REP,Christie Craddick,1168,387,781
+Wood,4-3,Railroad Commissioner,,REP,Christie Craddick,1292,447,845
+Wood,4-4,Railroad Commissioner,,REP,Christie Craddick,289,73,216
+Wood,1-1,Railroad Commissioner,,DEM,Roman McAllen,239,53,186
+Wood,1-2,Railroad Commissioner,,DEM,Roman McAllen,193,72,121
+Wood,1-3,Railroad Commissioner,,DEM,Roman McAllen,156,63,93
 Wood,1-4,Railroad Commissioner,,DEM,Roman McAllen,30,15,15
-Wood,2-1,Railroad Commissioner,,DEM,Roman McAllen,18,13,5
-Wood,2-2,Railroad Commissioner,,DEM,Roman McAllen,313,193,120
-Wood,2-3,Railroad Commissioner,,DEM,Roman McAllen,276,184,92
-Wood,3-1,Railroad Commissioner,,DEM,Roman McAllen,95,74,21
-Wood,3-2,Railroad Commissioner,,DEM,Roman McAllen,278,219,59
-Wood,3-3,Railroad Commissioner,,DEM,Roman McAllen,333,181,152
-Wood,4-1,Railroad Commissioner,,DEM,Roman McAllen,50,38,12
-Wood,4-2,Railroad Commissioner,,DEM,Roman McAllen,181,125,56
-Wood,4-3,Railroad Commissioner,,DEM,Roman McAllen,214,134,80
-Wood,4-4,Railroad Commissioner,,DEM,Roman McAllen,25,20,5
-Wood,1-1,Railroad Commissioner,,LIB,Mike Wright,31,22,9
-Wood,1-2,Railroad Commissioner,,LIB,Mike Wright,20,15,5
-Wood,1-3,Railroad Commissioner,,LIB,Mike Wright,17,8,9
-Wood,1-4,Railroad Commissioner,,LIB,Mike Wright,5,2,3
+Wood,2-1,Railroad Commissioner,,DEM,Roman McAllen,18,5,13
+Wood,2-2,Railroad Commissioner,,DEM,Roman McAllen,313,120,193
+Wood,2-3,Railroad Commissioner,,DEM,Roman McAllen,276,92,184
+Wood,3-1,Railroad Commissioner,,DEM,Roman McAllen,95,21,74
+Wood,3-2,Railroad Commissioner,,DEM,Roman McAllen,278,59,219
+Wood,3-3,Railroad Commissioner,,DEM,Roman McAllen,333,152,181
+Wood,4-1,Railroad Commissioner,,DEM,Roman McAllen,50,12,38
+Wood,4-2,Railroad Commissioner,,DEM,Roman McAllen,181,56,125
+Wood,4-3,Railroad Commissioner,,DEM,Roman McAllen,214,80,134
+Wood,4-4,Railroad Commissioner,,DEM,Roman McAllen,25,5,20
+Wood,1-1,Railroad Commissioner,,LIB,Mike Wright,31,9,22
+Wood,1-2,Railroad Commissioner,,LIB,Mike Wright,20,5,15
+Wood,1-3,Railroad Commissioner,,LIB,Mike Wright,17,9,8
+Wood,1-4,Railroad Commissioner,,LIB,Mike Wright,5,3,2
 Wood,2-1,Railroad Commissioner,,LIB,Mike Wright,4,2,2
-Wood,2-2,Railroad Commissioner,,LIB,Mike Wright,37,18,19
-Wood,2-3,Railroad Commissioner,,LIB,Mike Wright,35,23,12
-Wood,3-1,Railroad Commissioner,,LIB,Mike Wright,10,4,6
+Wood,2-2,Railroad Commissioner,,LIB,Mike Wright,37,19,18
+Wood,2-3,Railroad Commissioner,,LIB,Mike Wright,35,12,23
+Wood,3-1,Railroad Commissioner,,LIB,Mike Wright,10,6,4
 Wood,3-2,Railroad Commissioner,,LIB,Mike Wright,28,14,14
-Wood,3-3,Railroad Commissioner,,LIB,Mike Wright,41,19,22
-Wood,4-1,Railroad Commissioner,,LIB,Mike Wright,6,4,2
-Wood,4-2,Railroad Commissioner,,LIB,Mike Wright,32,23,9
-Wood,4-3,Railroad Commissioner,,LIB,Mike Wright,33,15,18
-Wood,4-4,Railroad Commissioner,,LIB,Mike Wright,6,2,4
-Wood,1-1,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,1311,1026,285
-Wood,1-2,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,1324,826,498
-Wood,1-3,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,1025,576,449
-Wood,1-4,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,353,168,185
-Wood,2-1,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,211,133,78
-Wood,2-2,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,1666,1124,542
-Wood,2-3,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,1337,953,384
-Wood,3-1,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,576,402,174
-Wood,3-2,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,1736,1258,478
-Wood,3-3,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,1435,842,593
-Wood,4-1,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,402,284,118
-Wood,4-2,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,1190,798,392
-Wood,4-3,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,1297,847,450
-Wood,4-4,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,297,220,77
-Wood,1-1,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,255,194,61
-Wood,1-2,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,211,130,81
-Wood,1-3,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,164,95,69
-Wood,1-4,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,29,16,13
-Wood,2-1,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,20,14,6
-Wood,2-2,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,331,202,129
-Wood,2-3,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,303,195,108
-Wood,3-1,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,95,75,20
-Wood,3-2,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,293,226,67
-Wood,3-3,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,358,195,163
-Wood,4-1,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,53,37,16
-Wood,4-2,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,186,127,59
-Wood,4-3,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,238,144,94
-Wood,4-4,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,24,19,5
-Wood,1-1,"Justice, Supreme Court, Place 4",,REP,John Devine,1302,1022,280
-Wood,1-2,"Justice, Supreme Court, Place 4",,REP,John Devine,1330,829,501
-Wood,1-3,"Justice, Supreme Court, Place 4",,REP,John Devine,1033,579,454
-Wood,1-4,"Justice, Supreme Court, Place 4",,REP,John Devine,353,168,185
-Wood,2-1,"Justice, Supreme Court, Place 4",,REP,John Devine,213,135,78
-Wood,2-2,"Justice, Supreme Court, Place 4",,REP,John Devine,1666,1125,541
-Wood,2-3,"Justice, Supreme Court, Place 4",,REP,John Devine,1340,948,392
-Wood,3-1,"Justice, Supreme Court, Place 4",,REP,John Devine,576,403,173
-Wood,3-2,"Justice, Supreme Court, Place 4",,REP,John Devine,1743,1262,481
-Wood,3-3,"Justice, Supreme Court, Place 4",,REP,John Devine,1439,844,595
-Wood,4-1,"Justice, Supreme Court, Place 4",,REP,John Devine,405,286,119
-Wood,4-2,"Justice, Supreme Court, Place 4",,REP,John Devine,1188,798,390
-Wood,4-3,"Justice, Supreme Court, Place 4",,REP,John Devine,1299,848,451
-Wood,4-4,"Justice, Supreme Court, Place 4",,REP,John Devine,296,219,77
-Wood,1-1,"Justice, Supreme Court, Place 4",,DEM,R. K. Sandill,255,192,63
-Wood,1-2,"Justice, Supreme Court, Place 4",,DEM,R. K. Sandill,207,129,78
-Wood,1-3,"Justice, Supreme Court, Place 4",,DEM,R. K. Sandill,155,93,62
-Wood,1-4,"Justice, Supreme Court, Place 4",,DEM,R. K. Sandill,29,16,13
-Wood,2-1,"Justice, Supreme Court, Place 4",,DEM,R. K. Sandill,19,13,6
-Wood,2-2,"Justice, Supreme Court, Place 4",,DEM,R. K. Sandill,330,202,128
-Wood,2-3,"Justice, Supreme Court, Place 4",,DEM,R. K. Sandill,298,197,101
-Wood,3-1,"Justice, Supreme Court, Place 4",,DEM,R. K. Sandill,97,75,22
-Wood,3-2,"Justice, Supreme Court, Place 4",,DEM,R. K. Sandill,285,222,63
-Wood,3-3,"Justice, Supreme Court, Place 4",,DEM,R. K. Sandill,351,192,159
-Wood,4-1,"Justice, Supreme Court, Place 4",,DEM,R. K. Sandill,50,35,15
-Wood,4-2,"Justice, Supreme Court, Place 4",,DEM,R. K. Sandill,188,129,59
-Wood,4-3,"Justice, Supreme Court, Place 4",,DEM,R. K. Sandill,234,141,93
-Wood,4-4,"Justice, Supreme Court, Place 4",,DEM,R. K. Sandill,24,19,5
-Wood,1-1,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,1305,1023,282
-Wood,1-2,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,1328,824,504
-Wood,1-3,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,1029,578,451
-Wood,1-4,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,353,168,185
-Wood,2-1,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,214,136,78
-Wood,2-2,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,1664,1126,538
-Wood,2-3,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,1344,949,395
-Wood,3-1,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,577,403,174
-Wood,3-2,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,1738,1255,483
-Wood,3-3,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,1436,850,586
-Wood,4-1,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,403,285,118
-Wood,4-2,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,1189,797,392
-Wood,4-3,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,1305,851,454
-Wood,4-4,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,296,219,77
-Wood,1-1,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,255,194,61
-Wood,1-2,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,208,131,77
-Wood,1-3,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,161,96,65
-Wood,1-4,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,29,16,13
-Wood,2-1,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,19,13,6
-Wood,2-2,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,331,200,131
-Wood,2-3,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,297,200,97
-Wood,3-1,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,97,76,21
-Wood,3-2,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,287,226,61
-Wood,3-3,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,353,186,167
-Wood,4-1,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,53,38,15
-Wood,4-2,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,188,130,58
-Wood,4-3,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,230,140,90
-Wood,4-4,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,24,19,5
-Wood,1-1,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,1302,1021,281
-Wood,1-2,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,1317,820,497
-Wood,1-3,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,1027,578,449
-Wood,1-4,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,351,167,184
-Wood,2-1,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,211,134,77
-Wood,2-2,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,1652,1123,529
-Wood,2-3,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,1330,943,387
-Wood,3-1,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,571,401,170
-Wood,3-2,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,1724,1253,471
-Wood,3-3,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,1424,836,588
-Wood,4-1,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,405,286,119
-Wood,4-2,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,1176,791,385
-Wood,4-3,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,1285,843,442
-Wood,4-4,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,291,216,75
-Wood,1-1,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,253,195,58
-Wood,1-2,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,206,129,77
-Wood,1-3,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,156,91,65
-Wood,1-4,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,27,15,12
-Wood,2-1,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,21,14,7
-Wood,2-2,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,316,193,123
-Wood,2-3,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,290,192,98
-Wood,3-1,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,94,74,20
-Wood,3-2,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,280,216,64
-Wood,3-3,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,336,188,148
-Wood,4-1,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,48,35,13
-Wood,4-2,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,187,128,59
-Wood,4-3,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,228,139,89
-Wood,4-4,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,23,18,5
-Wood,1-1,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,16,10,6
-Wood,1-2,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,21,14,7
-Wood,1-3,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,13,6,7
+Wood,3-3,Railroad Commissioner,,LIB,Mike Wright,41,22,19
+Wood,4-1,Railroad Commissioner,,LIB,Mike Wright,6,2,4
+Wood,4-2,Railroad Commissioner,,LIB,Mike Wright,32,9,23
+Wood,4-3,Railroad Commissioner,,LIB,Mike Wright,33,18,15
+Wood,4-4,Railroad Commissioner,,LIB,Mike Wright,6,4,2
+Wood,1-1,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,1311,285,1026
+Wood,1-2,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,1324,498,826
+Wood,1-3,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,1025,449,576
+Wood,1-4,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,353,185,168
+Wood,2-1,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,211,78,133
+Wood,2-2,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,1666,542,1124
+Wood,2-3,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,1337,384,953
+Wood,3-1,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,576,174,402
+Wood,3-2,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,1736,478,1258
+Wood,3-3,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,1435,593,842
+Wood,4-1,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,402,118,284
+Wood,4-2,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,1190,392,798
+Wood,4-3,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,1297,450,847
+Wood,4-4,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,297,77,220
+Wood,1-1,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,255,61,194
+Wood,1-2,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,211,81,130
+Wood,1-3,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,164,69,95
+Wood,1-4,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,29,13,16
+Wood,2-1,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,20,6,14
+Wood,2-2,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,331,129,202
+Wood,2-3,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,303,108,195
+Wood,3-1,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,95,20,75
+Wood,3-2,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,293,67,226
+Wood,3-3,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,358,163,195
+Wood,4-1,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,53,16,37
+Wood,4-2,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,186,59,127
+Wood,4-3,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,238,94,144
+Wood,4-4,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,24,5,19
+Wood,1-1,"Justice, Supreme Court, Place 4",,REP,John Devine,1302,280,1022
+Wood,1-2,"Justice, Supreme Court, Place 4",,REP,John Devine,1330,501,829
+Wood,1-3,"Justice, Supreme Court, Place 4",,REP,John Devine,1033,454,579
+Wood,1-4,"Justice, Supreme Court, Place 4",,REP,John Devine,353,185,168
+Wood,2-1,"Justice, Supreme Court, Place 4",,REP,John Devine,213,78,135
+Wood,2-2,"Justice, Supreme Court, Place 4",,REP,John Devine,1666,541,1125
+Wood,2-3,"Justice, Supreme Court, Place 4",,REP,John Devine,1340,392,948
+Wood,3-1,"Justice, Supreme Court, Place 4",,REP,John Devine,576,173,403
+Wood,3-2,"Justice, Supreme Court, Place 4",,REP,John Devine,1743,481,1262
+Wood,3-3,"Justice, Supreme Court, Place 4",,REP,John Devine,1439,595,844
+Wood,4-1,"Justice, Supreme Court, Place 4",,REP,John Devine,405,119,286
+Wood,4-2,"Justice, Supreme Court, Place 4",,REP,John Devine,1188,390,798
+Wood,4-3,"Justice, Supreme Court, Place 4",,REP,John Devine,1299,451,848
+Wood,4-4,"Justice, Supreme Court, Place 4",,REP,John Devine,296,77,219
+Wood,1-1,"Justice, Supreme Court, Place 4",,DEM,R. K. Sandill,255,63,192
+Wood,1-2,"Justice, Supreme Court, Place 4",,DEM,R. K. Sandill,207,78,129
+Wood,1-3,"Justice, Supreme Court, Place 4",,DEM,R. K. Sandill,155,62,93
+Wood,1-4,"Justice, Supreme Court, Place 4",,DEM,R. K. Sandill,29,13,16
+Wood,2-1,"Justice, Supreme Court, Place 4",,DEM,R. K. Sandill,19,6,13
+Wood,2-2,"Justice, Supreme Court, Place 4",,DEM,R. K. Sandill,330,128,202
+Wood,2-3,"Justice, Supreme Court, Place 4",,DEM,R. K. Sandill,298,101,197
+Wood,3-1,"Justice, Supreme Court, Place 4",,DEM,R. K. Sandill,97,22,75
+Wood,3-2,"Justice, Supreme Court, Place 4",,DEM,R. K. Sandill,285,63,222
+Wood,3-3,"Justice, Supreme Court, Place 4",,DEM,R. K. Sandill,351,159,192
+Wood,4-1,"Justice, Supreme Court, Place 4",,DEM,R. K. Sandill,50,15,35
+Wood,4-2,"Justice, Supreme Court, Place 4",,DEM,R. K. Sandill,188,59,129
+Wood,4-3,"Justice, Supreme Court, Place 4",,DEM,R. K. Sandill,234,93,141
+Wood,4-4,"Justice, Supreme Court, Place 4",,DEM,R. K. Sandill,24,5,19
+Wood,1-1,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,1305,282,1023
+Wood,1-2,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,1328,504,824
+Wood,1-3,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,1029,451,578
+Wood,1-4,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,353,185,168
+Wood,2-1,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,214,78,136
+Wood,2-2,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,1664,538,1126
+Wood,2-3,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,1344,395,949
+Wood,3-1,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,577,174,403
+Wood,3-2,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,1738,483,1255
+Wood,3-3,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,1436,586,850
+Wood,4-1,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,403,118,285
+Wood,4-2,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,1189,392,797
+Wood,4-3,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,1305,454,851
+Wood,4-4,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,296,77,219
+Wood,1-1,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,255,61,194
+Wood,1-2,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,208,77,131
+Wood,1-3,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,161,65,96
+Wood,1-4,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,29,13,16
+Wood,2-1,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,19,6,13
+Wood,2-2,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,331,131,200
+Wood,2-3,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,297,97,200
+Wood,3-1,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,97,21,76
+Wood,3-2,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,287,61,226
+Wood,3-3,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,353,167,186
+Wood,4-1,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,53,15,38
+Wood,4-2,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,188,58,130
+Wood,4-3,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,230,90,140
+Wood,4-4,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,24,5,19
+Wood,1-1,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,1302,281,1021
+Wood,1-2,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,1317,497,820
+Wood,1-3,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,1027,449,578
+Wood,1-4,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,351,184,167
+Wood,2-1,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,211,77,134
+Wood,2-2,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,1652,529,1123
+Wood,2-3,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,1330,387,943
+Wood,3-1,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,571,170,401
+Wood,3-2,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,1724,471,1253
+Wood,3-3,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,1424,588,836
+Wood,4-1,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,405,119,286
+Wood,4-2,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,1176,385,791
+Wood,4-3,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,1285,442,843
+Wood,4-4,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,291,75,216
+Wood,1-1,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,253,58,195
+Wood,1-2,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,206,77,129
+Wood,1-3,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,156,65,91
+Wood,1-4,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,27,12,15
+Wood,2-1,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,21,7,14
+Wood,2-2,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,316,123,193
+Wood,2-3,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,290,98,192
+Wood,3-1,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,94,20,74
+Wood,3-2,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,280,64,216
+Wood,3-3,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,336,148,188
+Wood,4-1,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,48,13,35
+Wood,4-2,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,187,59,128
+Wood,4-3,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,228,89,139
+Wood,4-4,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,23,5,18
+Wood,1-1,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,16,6,10
+Wood,1-2,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,21,7,14
+Wood,1-3,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,13,7,6
 Wood,1-4,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,4,2,2
-Wood,2-1,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,3,1,2
-Wood,2-2,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,31,13,18
-Wood,2-3,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,28,19,9
-Wood,3-1,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,9,4,5
-Wood,3-2,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,25,15,10
-Wood,3-3,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,38,17,21
+Wood,2-1,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,3,2,1
+Wood,2-2,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,31,18,13
+Wood,2-3,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,28,9,19
+Wood,3-1,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,9,5,4
+Wood,3-2,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,25,10,15
+Wood,3-3,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,38,21,17
 Wood,4-1,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,6,3,3
-Wood,4-2,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,20,13,7
-Wood,4-3,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,27,13,14
-Wood,4-4,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,7,4,3
-Wood,1-1,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,1308,1027,281
-Wood,1-2,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,1329,829,500
-Wood,1-3,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,1033,580,453
-Wood,1-4,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,354,167,187
-Wood,2-1,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,213,135,78
-Wood,2-2,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,1663,1126,537
-Wood,2-3,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,1348,959,389
-Wood,3-1,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,573,401,172
-Wood,3-2,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,1745,1264,481
-Wood,3-3,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,1435,846,589
-Wood,4-1,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,410,290,120
-Wood,4-2,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,1184,796,388
-Wood,4-3,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,1305,852,453
-Wood,4-4,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,295,218,77
-Wood,1-1,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,254,192,62
-Wood,1-2,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,203,122,81
-Wood,1-3,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,155,92,63
-Wood,1-4,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,28,16,12
-Wood,2-1,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,19,13,6
-Wood,2-2,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,325,195,130
-Wood,2-3,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,287,188,99
-Wood,3-1,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,98,76,22
-Wood,3-2,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,277,218,59
-Wood,3-3,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,353,190,163
-Wood,4-1,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,46,31,15
-Wood,4-2,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,190,131,59
-Wood,4-3,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,230,140,90
-Wood,4-4,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,24,19,5
-Wood,1-1,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,1324,1038,286
-Wood,1-2,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,1348,838,510
-Wood,1-3,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,1043,588,455
-Wood,1-4,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,357,169,188
-Wood,2-1,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,213,135,78
-Wood,2-2,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,1673,1131,542
-Wood,2-3,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,1358,963,395
-Wood,3-1,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,580,408,172
-Wood,3-2,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,1750,1272,478
-Wood,3-3,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,1452,854,598
-Wood,4-1,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,408,287,121
-Wood,4-2,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,1189,795,394
-Wood,4-3,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,1313,854,459
-Wood,4-4,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,292,218,74
-Wood,1-1,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,93,73,20
-Wood,1-2,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,82,50,32
-Wood,1-3,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,57,30,27
-Wood,1-4,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,11,6,5
-Wood,2-1,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,10,6,4
-Wood,2-2,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,126,75,51
-Wood,2-3,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,98,71,27
-Wood,3-1,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,36,23,13
-Wood,3-2,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,98,71,27
-Wood,3-3,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,121,48,73
-Wood,4-1,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,18,13,5
-Wood,4-2,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,85,55,30
-Wood,4-3,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,79,44,35
-Wood,4-4,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,9,4,5
-Wood,1-1,State Representative,5,REP,Cole Hefner,1312,1025,287
-Wood,1-2,State Representative,5,REP,Cole Hefner,1323,815,508
-Wood,1-3,State Representative,5,REP,Cole Hefner,1026,571,455
-Wood,1-4,State Representative,5,REP,Cole Hefner,352,165,187
-Wood,2-1,State Representative,5,REP,Cole Hefner,211,133,78
-Wood,2-2,State Representative,5,REP,Cole Hefner,1673,1125,548
-Wood,2-3,State Representative,5,REP,Cole Hefner,1346,953,393
-Wood,3-1,State Representative,5,REP,Cole Hefner,570,397,173
-Wood,3-2,State Representative,5,REP,Cole Hefner,1726,1244,482
-Wood,3-3,State Representative,5,REP,Cole Hefner,1436,840,596
-Wood,4-1,State Representative,5,REP,Cole Hefner,406,286,120
-Wood,4-2,State Representative,5,REP,Cole Hefner,1187,794,393
-Wood,4-3,State Representative,5,REP,Cole Hefner,1297,843,454
-Wood,4-4,State Representative,5,REP,Cole Hefner,297,219,78
-Wood,1-1,State Representative,5,REP,Bill Liebbe,258,196,62
-Wood,1-2,State Representative,5,DEM,Bill Liebbe,199,124,75
-Wood,1-3,State Representative,5,DEM,Bill Liebbe,156,93,63
-Wood,1-4,State Representative,5,DEM,Bill Liebbe,29,18,11
-Wood,2-1,State Representative,5,DEM,Bill Liebbe,20,14,6
-Wood,2-2,State Representative,5,DEM,Bill Liebbe,320,196,124
-Wood,2-3,State Representative,5,DEM,Bill Liebbe,299,201,98
-Wood,3-1,State Representative,5,DEM,Bill Liebbe,97,76,21
-Wood,3-2,State Representative,5,DEM,Bill Liebbe,290,230,60
-Wood,3-3,State Representative,5,DEM,Bill Liebbe,349,188,161
-Wood,4-1,State Representative,5,DEM,Bill Liebbe,53,36,17
-Wood,4-2,State Representative,5,DEM,Bill Liebbe,189,132,57
-Wood,4-3,State Representative,5,DEM,Bill Liebbe,238,148,90
-Wood,4-4,State Representative,5,DEM,Bill Liebbe,25,20,5
-Wood,1-1,"Justice, 6th Court of Appeals District, Place 2",,REP,Scott Stevens,1340,1048,292
-Wood,1-2,"Justice, 6th Court of Appeals District, Place 2",,REP,Scott Stevens,1351,829,522
-Wood,1-3,"Justice, 6th Court of Appeals District, Place 2",,REP,Scott Stevens,1050,583,467
-Wood,1-4,"Justice, 6th Court of Appeals District, Place 2",,REP,Scott Stevens,361,169,192
-Wood,2-1,"Justice, 6th Court of Appeals District, Place 2",,REP,Scott Stevens,218,137,81
-Wood,2-2,"Justice, 6th Court of Appeals District, Place 2",,REP,Scott Stevens,1729,1158,571
-Wood,2-3,"Justice, 6th Court of Appeals District, Place 2",,REP,Scott Stevens,1376,972,404
-Wood,3-1,"Justice, 6th Court of Appeals District, Place 2",,REP,Scott Stevens,586,407,179
-Wood,3-2,"Justice, 6th Court of Appeals District, Place 2",,REP,Scott Stevens,1760,1270,490
-Wood,3-3,"Justice, 6th Court of Appeals District, Place 2",,REP,Scott Stevens,1496,863,633
-Wood,4-1,"Justice, 6th Court of Appeals District, Place 2",,REP,Scott Stevens,415,291,124
-Wood,4-2,"Justice, 6th Court of Appeals District, Place 2",,REP,Scott Stevens,1223,811,412
-Wood,4-3,"Justice, 6th Court of Appeals District, Place 2",,REP,Scott Stevens,1336,862,474
-Wood,4-4,"Justice, 6th Court of Appeals District, Place 2",,REP,Scott Stevens,295,217,78
-Wood,1-1,"Justice, 12th Court of Appeals District, Place 3",,REP,Greg Neeley,1337,1045,292
-Wood,1-2,"Justice, 12th Court of Appeals District, Place 3",,REP,Greg Neeley,1356,835,521
-Wood,1-3,"Justice, 12th Court of Appeals District, Place 3",,REP,Greg Neeley,1051,585,466
-Wood,1-4,"Justice, 12th Court of Appeals District, Place 3",,REP,Greg Neeley,361,170,191
-Wood,2-1,"Justice, 12th Court of Appeals District, Place 3",,REP,Greg Neeley,220,139,81
-Wood,2-2,"Justice, 12th Court of Appeals District, Place 3",,REP,Greg Neeley,1731,1160,571
-Wood,2-3,"Justice, 12th Court of Appeals District, Place 3",,REP,Greg Neeley,1376,974,402
-Wood,3-1,"Justice, 12th Court of Appeals District, Place 3",,REP,Greg Neeley,584,405,179
-Wood,3-2,"Justice, 12th Court of Appeals District, Place 3",,REP,Greg Neeley,1759,1271,488
-Wood,3-3,"Justice, 12th Court of Appeals District, Place 3",,REP,Greg Neeley,1493,861,632
-Wood,4-1,"Justice, 12th Court of Appeals District, Place 3",,REP,Greg Neeley,412,290,122
-Wood,4-2,"Justice, 12th Court of Appeals District, Place 3",,REP,Greg Neeley,1219,809,410
-Wood,4-3,"Justice, 12th Court of Appeals District, Place 3",,REP,Greg Neeley,1335,862,473
-Wood,4-4,"Justice, 12th Court of Appeals District, Place 3",,REP,Greg Neeley,292,214,78
-Wood,1-1,Criminal District Attorney,,REP,Jim Wheeler,1310,1030,280
-Wood,1-2,Criminal District Attorney,,REP,Jim Wheeler,1343,829,514
-Wood,1-3,Criminal District Attorney,,REP,Jim Wheeler,1045,582,463
-Wood,1-4,Criminal District Attorney,,REP,Jim Wheeler,350,163,187
-Wood,2-1,Criminal District Attorney,,REP,Jim Wheeler,211,134,77
-Wood,2-2,Criminal District Attorney,,REP,Jim Wheeler,1686,1132,554
-Wood,2-3,Criminal District Attorney,,REP,Jim Wheeler,1345,952,393
-Wood,3-1,Criminal District Attorney,,REP,Jim Wheeler,554,385,169
-Wood,3-2,Criminal District Attorney,,REP,Jim Wheeler,1747,1265,482
-Wood,3-3,Criminal District Attorney,,REP,Jim Wheeler,1489,855,634
-Wood,4-1,Criminal District Attorney,,REP,Jim Wheeler,393,279,114
-Wood,4-2,Criminal District Attorney,,REP,Jim Wheeler,1194,798,396
-Wood,4-3,Criminal District Attorney,,REP,Jim Wheeler,1317,854,463
-Wood,4-4,Criminal District Attorney,,REP,Jim Wheeler,284,212,72
-Wood,1-1,County Judge,,REP,Lucy Hebron,1348,1051,297
-Wood,1-2,County Judge,,REP,Lucy Hebron,1365,835,530
-Wood,1-3,County Judge,,REP,Lucy Hebron,1048,583,465
-Wood,1-4,County Judge,,REP,Lucy Hebron,360,168,192
-Wood,2-1,County Judge,,REP,Lucy Hebron,222,141,81
-Wood,2-2,County Judge,,REP,Lucy Hebron,1736,1163,573
-Wood,2-3,County Judge,,REP,Lucy Hebron,1389,982,407
-Wood,3-1,County Judge,,REP,Lucy Hebron,575,404,171
-Wood,3-2,County Judge,,REP,Lucy Hebron,1764,1276,488
-Wood,3-3,County Judge,,REP,Lucy Hebron,1495,861,634
-Wood,4-1,County Judge,,REP,Lucy Hebron,413,291,122
-Wood,4-2,County Judge,,REP,Lucy Hebron,1219,810,409
-Wood,4-3,County Judge,,REP,Lucy Hebron,1342,869,473
-Wood,4-4,County Judge,,REP,Lucy Hebron,300,222,78
-Wood,1-1,District Clerk,,REP,Donna Huston,1349,1052,297
-Wood,1-2,District Clerk,,REP,Donna Huston,1359,833,526
-Wood,1-3,District Clerk,,REP,Donna Huston,1054,585,469
-Wood,1-4,District Clerk,,REP,Donna Huston,360,168,192
-Wood,2-1,District Clerk,,REP,Donna Huston,221,140,81
-Wood,2-2,District Clerk,,REP,Donna Huston,1730,1158,572
-Wood,2-3,District Clerk,,REP,Donna Huston,1382,979,403
-Wood,3-1,District Clerk,,REP,Donna Huston,577,401,176
-Wood,3-2,District Clerk,,REP,Donna Huston,1759,1275,484
-Wood,3-3,District Clerk,,REP,Donna Huston,1496,860,636
-Wood,4-1,District Clerk,,REP,Donna Huston,411,291,120
-Wood,4-2,District Clerk,,REP,Donna Huston,1219,808,411
-Wood,4-3,District Clerk,,REP,Donna Huston,1337,864,473
-Wood,4-4,District Clerk,,REP,Donna Huston,295,218,77
-Wood,1-1,County Clerk,,REP,Kelley Robinson Price,1357,1059,298
-Wood,1-2,County Clerk,,REP,Kelley Robinson Price,1359,832,527
-Wood,1-3,County Clerk,,REP,Kelley Robinson Price,1055,586,469
-Wood,1-4,County Clerk,,REP,Kelley Robinson Price,359,167,192
-Wood,2-1,County Clerk,,REP,Kelley Robinson Price,220,139,81
-Wood,2-2,County Clerk,,REP,Kelley Robinson Price,1727,1158,569
-Wood,2-3,County Clerk,,REP,Kelley Robinson Price,1388,984,404
-Wood,3-1,County Clerk,,REP,Kelley Robinson Price,582,405,177
-Wood,3-2,County Clerk,,REP,Kelley Robinson Price,1764,1275,489
-Wood,3-3,County Clerk,,REP,Kelley Robinson Price,1495,861,634
-Wood,4-1,County Clerk,,REP,Kelley Robinson Price,410,291,119
-Wood,4-2,County Clerk,,REP,Kelley Robinson Price,1218,808,410
-Wood,4-3,County Clerk,,REP,Kelley Robinson Price,1340,866,474
-Wood,4-4,County Clerk,,REP,Kelley Robinson Price,297,219,78
-Wood,1-1,County Treasurer,,REP,Becky S. Burford,1354,1054,300
-Wood,1-2,County Treasurer,,REP,Becky S. Burford,1362,836,526
-Wood,1-3,County Treasurer,,REP,Becky S. Burford,1051,586,465
-Wood,1-4,County Treasurer,,REP,Becky S. Burford,361,169,192
-Wood,2-1,County Treasurer,,REP,Becky S. Burford,222,141,81
-Wood,2-2,County Treasurer,,REP,Becky S. Burford,1730,1158,572
-Wood,2-3,County Treasurer,,REP,Becky S. Burford,1384,980,404
-Wood,3-1,County Treasurer,,REP,Becky S. Burford,590,409,181
-Wood,3-2,County Treasurer,,REP,Becky S. Burford,1766,1280,486
-Wood,3-3,County Treasurer,,REP,Becky S. Burford,1493,861,632
-Wood,4-1,County Treasurer,,REP,Becky S. Burford,416,293,123
-Wood,4-2,County Treasurer,,REP,Becky S. Burford,1218,809,409
-Wood,4-3,County Treasurer,,REP,Becky S. Burford,1338,864,474
-Wood,4-4,County Treasurer,,REP,Becky S. Burford,297,219,78
-Wood,2-1,"County Commissioner, Precinct 2",,REP,Jerry Gaskill,220,139,81
-Wood,2-2,"County Commissioner, Precinct 2",,REP,Jerry Gaskill,1746,1168,578
-Wood,2-3,"County Commissioner, Precinct 2",,REP,Jerry Gaskill,1400,988,412
-Wood,4-1,"County Commissioner, Precinct 4",,REP,Russell Acker,411,290,121
-Wood,4-2,"County Commissioner, Precinct 4",,REP,Russell Acker,1225,813,412
-Wood,4-3,"County Commissioner, Precinct 4",,REP,Russell Acker,1345,869,476
-Wood,4-4,"County Commissioner, Precinct 4",,REP,Russell Acker,298,220,78
-Wood,1-1,"Justice of the Peace, Precinct 1",,REP,Tony Gilbreath,1376,1070,306
-Wood,1-2,"Justice of the Peace, Precinct 1",,REP,Tony Gilbreath,1367,837,530
-Wood,1-3,"Justice of the Peace, Precinct 1",,REP,Tony Gilbreath,1058,586,472
-Wood,1-4,"Justice of the Peace, Precinct 1",,REP,Tony Gilbreath,358,166,192
-Wood,3-1,"Justice of the Peace, Precinct 1",,REP,Tony Gilbreath,594,411,183
-Wood,4-1,"Justice of the Peace, Precinct 1",,REP,Tony Gilbreath,419,295,124
-Wood,4-4,"Justice of the Peace, Precinct 1",,REP,Tony Gilbreath,297,219,78
-Wood,2-1,"Justice of the Peace, Precinct 2",,REP,Jenae Holland,221,140,81
-Wood,2-2,"Justice of the Peace, Precinct 2",,REP,Jenae Holland,1746,1167,579
-Wood,2-3,"Justice of the Peace, Precinct 2",,REP,Jenae Holland,1413,994,419
-Wood,3-2,"Justice of the Peace, Precinct 3",,REP,Jerry E. Parker,1777,1287,490
-Wood,3-3,"Justice of the Peace, Precinct 3",,REP,Jerry E. Parker,1506,863,643
-Wood,4-2,"Justice of the Peace, Precinct 4",,REP,Cindy S. Weems,1228,815,413
-Wood,4-3,"Justice of the Peace, Precinct 4",,REP,Cindy S. Weems,1351,875,476
+Wood,4-2,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,20,7,13
+Wood,4-3,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,27,14,13
+Wood,4-4,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,7,3,4
+Wood,1-1,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,1308,281,1027
+Wood,1-2,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,1329,500,829
+Wood,1-3,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,1033,453,580
+Wood,1-4,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,354,187,167
+Wood,2-1,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,213,78,135
+Wood,2-2,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,1663,537,1126
+Wood,2-3,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,1348,389,959
+Wood,3-1,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,573,172,401
+Wood,3-2,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,1745,481,1264
+Wood,3-3,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,1435,589,846
+Wood,4-1,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,410,120,290
+Wood,4-2,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,1184,388,796
+Wood,4-3,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,1305,453,852
+Wood,4-4,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,295,77,218
+Wood,1-1,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,254,62,192
+Wood,1-2,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,203,81,122
+Wood,1-3,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,155,63,92
+Wood,1-4,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,28,12,16
+Wood,2-1,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,19,6,13
+Wood,2-2,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,325,130,195
+Wood,2-3,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,287,99,188
+Wood,3-1,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,98,22,76
+Wood,3-2,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,277,59,218
+Wood,3-3,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,353,163,190
+Wood,4-1,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,46,15,31
+Wood,4-2,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,190,59,131
+Wood,4-3,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,230,90,140
+Wood,4-4,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,24,5,19
+Wood,1-1,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,1324,286,1038
+Wood,1-2,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,1348,510,838
+Wood,1-3,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,1043,455,588
+Wood,1-4,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,357,188,169
+Wood,2-1,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,213,78,135
+Wood,2-2,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,1673,542,1131
+Wood,2-3,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,1358,395,963
+Wood,3-1,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,580,172,408
+Wood,3-2,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,1750,478,1272
+Wood,3-3,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,1452,598,854
+Wood,4-1,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,408,121,287
+Wood,4-2,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,1189,394,795
+Wood,4-3,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,1313,459,854
+Wood,4-4,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,292,74,218
+Wood,1-1,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,93,20,73
+Wood,1-2,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,82,32,50
+Wood,1-3,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,57,27,30
+Wood,1-4,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,11,5,6
+Wood,2-1,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,10,4,6
+Wood,2-2,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,126,51,75
+Wood,2-3,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,98,27,71
+Wood,3-1,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,36,13,23
+Wood,3-2,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,98,27,71
+Wood,3-3,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,121,73,48
+Wood,4-1,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,18,5,13
+Wood,4-2,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,85,30,55
+Wood,4-3,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,79,35,44
+Wood,4-4,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,9,5,4
+Wood,1-1,State Representative,5,REP,Cole Hefner,1312,287,1025
+Wood,1-2,State Representative,5,REP,Cole Hefner,1323,508,815
+Wood,1-3,State Representative,5,REP,Cole Hefner,1026,455,571
+Wood,1-4,State Representative,5,REP,Cole Hefner,352,187,165
+Wood,2-1,State Representative,5,REP,Cole Hefner,211,78,133
+Wood,2-2,State Representative,5,REP,Cole Hefner,1673,548,1125
+Wood,2-3,State Representative,5,REP,Cole Hefner,1346,393,953
+Wood,3-1,State Representative,5,REP,Cole Hefner,570,173,397
+Wood,3-2,State Representative,5,REP,Cole Hefner,1726,482,1244
+Wood,3-3,State Representative,5,REP,Cole Hefner,1436,596,840
+Wood,4-1,State Representative,5,REP,Cole Hefner,406,120,286
+Wood,4-2,State Representative,5,REP,Cole Hefner,1187,393,794
+Wood,4-3,State Representative,5,REP,Cole Hefner,1297,454,843
+Wood,4-4,State Representative,5,REP,Cole Hefner,297,78,219
+Wood,1-1,State Representative,5,REP,Bill Liebbe,258,62,196
+Wood,1-2,State Representative,5,DEM,Bill Liebbe,199,75,124
+Wood,1-3,State Representative,5,DEM,Bill Liebbe,156,63,93
+Wood,1-4,State Representative,5,DEM,Bill Liebbe,29,11,18
+Wood,2-1,State Representative,5,DEM,Bill Liebbe,20,6,14
+Wood,2-2,State Representative,5,DEM,Bill Liebbe,320,124,196
+Wood,2-3,State Representative,5,DEM,Bill Liebbe,299,98,201
+Wood,3-1,State Representative,5,DEM,Bill Liebbe,97,21,76
+Wood,3-2,State Representative,5,DEM,Bill Liebbe,290,60,230
+Wood,3-3,State Representative,5,DEM,Bill Liebbe,349,161,188
+Wood,4-1,State Representative,5,DEM,Bill Liebbe,53,17,36
+Wood,4-2,State Representative,5,DEM,Bill Liebbe,189,57,132
+Wood,4-3,State Representative,5,DEM,Bill Liebbe,238,90,148
+Wood,4-4,State Representative,5,DEM,Bill Liebbe,25,5,20
+Wood,1-1,"Justice, 6th Court of Appeals District, Place 2",,REP,Scott Stevens,1340,292,1048
+Wood,1-2,"Justice, 6th Court of Appeals District, Place 2",,REP,Scott Stevens,1351,522,829
+Wood,1-3,"Justice, 6th Court of Appeals District, Place 2",,REP,Scott Stevens,1050,467,583
+Wood,1-4,"Justice, 6th Court of Appeals District, Place 2",,REP,Scott Stevens,361,192,169
+Wood,2-1,"Justice, 6th Court of Appeals District, Place 2",,REP,Scott Stevens,218,81,137
+Wood,2-2,"Justice, 6th Court of Appeals District, Place 2",,REP,Scott Stevens,1729,571,1158
+Wood,2-3,"Justice, 6th Court of Appeals District, Place 2",,REP,Scott Stevens,1376,404,972
+Wood,3-1,"Justice, 6th Court of Appeals District, Place 2",,REP,Scott Stevens,586,179,407
+Wood,3-2,"Justice, 6th Court of Appeals District, Place 2",,REP,Scott Stevens,1760,490,1270
+Wood,3-3,"Justice, 6th Court of Appeals District, Place 2",,REP,Scott Stevens,1496,633,863
+Wood,4-1,"Justice, 6th Court of Appeals District, Place 2",,REP,Scott Stevens,415,124,291
+Wood,4-2,"Justice, 6th Court of Appeals District, Place 2",,REP,Scott Stevens,1223,412,811
+Wood,4-3,"Justice, 6th Court of Appeals District, Place 2",,REP,Scott Stevens,1336,474,862
+Wood,4-4,"Justice, 6th Court of Appeals District, Place 2",,REP,Scott Stevens,295,78,217
+Wood,1-1,"Justice, 12th Court of Appeals District, Place 3",,REP,Greg Neeley,1337,292,1045
+Wood,1-2,"Justice, 12th Court of Appeals District, Place 3",,REP,Greg Neeley,1356,521,835
+Wood,1-3,"Justice, 12th Court of Appeals District, Place 3",,REP,Greg Neeley,1051,466,585
+Wood,1-4,"Justice, 12th Court of Appeals District, Place 3",,REP,Greg Neeley,361,191,170
+Wood,2-1,"Justice, 12th Court of Appeals District, Place 3",,REP,Greg Neeley,220,81,139
+Wood,2-2,"Justice, 12th Court of Appeals District, Place 3",,REP,Greg Neeley,1731,571,1160
+Wood,2-3,"Justice, 12th Court of Appeals District, Place 3",,REP,Greg Neeley,1376,402,974
+Wood,3-1,"Justice, 12th Court of Appeals District, Place 3",,REP,Greg Neeley,584,179,405
+Wood,3-2,"Justice, 12th Court of Appeals District, Place 3",,REP,Greg Neeley,1759,488,1271
+Wood,3-3,"Justice, 12th Court of Appeals District, Place 3",,REP,Greg Neeley,1493,632,861
+Wood,4-1,"Justice, 12th Court of Appeals District, Place 3",,REP,Greg Neeley,412,122,290
+Wood,4-2,"Justice, 12th Court of Appeals District, Place 3",,REP,Greg Neeley,1219,410,809
+Wood,4-3,"Justice, 12th Court of Appeals District, Place 3",,REP,Greg Neeley,1335,473,862
+Wood,4-4,"Justice, 12th Court of Appeals District, Place 3",,REP,Greg Neeley,292,78,214
+Wood,1-1,Criminal District Attorney,,REP,Jim Wheeler,1310,280,1030
+Wood,1-2,Criminal District Attorney,,REP,Jim Wheeler,1343,514,829
+Wood,1-3,Criminal District Attorney,,REP,Jim Wheeler,1045,463,582
+Wood,1-4,Criminal District Attorney,,REP,Jim Wheeler,350,187,163
+Wood,2-1,Criminal District Attorney,,REP,Jim Wheeler,211,77,134
+Wood,2-2,Criminal District Attorney,,REP,Jim Wheeler,1686,554,1132
+Wood,2-3,Criminal District Attorney,,REP,Jim Wheeler,1345,393,952
+Wood,3-1,Criminal District Attorney,,REP,Jim Wheeler,554,169,385
+Wood,3-2,Criminal District Attorney,,REP,Jim Wheeler,1747,482,1265
+Wood,3-3,Criminal District Attorney,,REP,Jim Wheeler,1489,634,855
+Wood,4-1,Criminal District Attorney,,REP,Jim Wheeler,393,114,279
+Wood,4-2,Criminal District Attorney,,REP,Jim Wheeler,1194,396,798
+Wood,4-3,Criminal District Attorney,,REP,Jim Wheeler,1317,463,854
+Wood,4-4,Criminal District Attorney,,REP,Jim Wheeler,284,72,212
+Wood,1-1,County Judge,,REP,Lucy Hebron,1348,297,1051
+Wood,1-2,County Judge,,REP,Lucy Hebron,1365,530,835
+Wood,1-3,County Judge,,REP,Lucy Hebron,1048,465,583
+Wood,1-4,County Judge,,REP,Lucy Hebron,360,192,168
+Wood,2-1,County Judge,,REP,Lucy Hebron,222,81,141
+Wood,2-2,County Judge,,REP,Lucy Hebron,1736,573,1163
+Wood,2-3,County Judge,,REP,Lucy Hebron,1389,407,982
+Wood,3-1,County Judge,,REP,Lucy Hebron,575,171,404
+Wood,3-2,County Judge,,REP,Lucy Hebron,1764,488,1276
+Wood,3-3,County Judge,,REP,Lucy Hebron,1495,634,861
+Wood,4-1,County Judge,,REP,Lucy Hebron,413,122,291
+Wood,4-2,County Judge,,REP,Lucy Hebron,1219,409,810
+Wood,4-3,County Judge,,REP,Lucy Hebron,1342,473,869
+Wood,4-4,County Judge,,REP,Lucy Hebron,300,78,222
+Wood,1-1,District Clerk,,REP,Donna Huston,1349,297,1052
+Wood,1-2,District Clerk,,REP,Donna Huston,1359,526,833
+Wood,1-3,District Clerk,,REP,Donna Huston,1054,469,585
+Wood,1-4,District Clerk,,REP,Donna Huston,360,192,168
+Wood,2-1,District Clerk,,REP,Donna Huston,221,81,140
+Wood,2-2,District Clerk,,REP,Donna Huston,1730,572,1158
+Wood,2-3,District Clerk,,REP,Donna Huston,1382,403,979
+Wood,3-1,District Clerk,,REP,Donna Huston,577,176,401
+Wood,3-2,District Clerk,,REP,Donna Huston,1759,484,1275
+Wood,3-3,District Clerk,,REP,Donna Huston,1496,636,860
+Wood,4-1,District Clerk,,REP,Donna Huston,411,120,291
+Wood,4-2,District Clerk,,REP,Donna Huston,1219,411,808
+Wood,4-3,District Clerk,,REP,Donna Huston,1337,473,864
+Wood,4-4,District Clerk,,REP,Donna Huston,295,77,218
+Wood,1-1,County Clerk,,REP,Kelley Robinson Price,1357,298,1059
+Wood,1-2,County Clerk,,REP,Kelley Robinson Price,1359,527,832
+Wood,1-3,County Clerk,,REP,Kelley Robinson Price,1055,469,586
+Wood,1-4,County Clerk,,REP,Kelley Robinson Price,359,192,167
+Wood,2-1,County Clerk,,REP,Kelley Robinson Price,220,81,139
+Wood,2-2,County Clerk,,REP,Kelley Robinson Price,1727,569,1158
+Wood,2-3,County Clerk,,REP,Kelley Robinson Price,1388,404,984
+Wood,3-1,County Clerk,,REP,Kelley Robinson Price,582,177,405
+Wood,3-2,County Clerk,,REP,Kelley Robinson Price,1764,489,1275
+Wood,3-3,County Clerk,,REP,Kelley Robinson Price,1495,634,861
+Wood,4-1,County Clerk,,REP,Kelley Robinson Price,410,119,291
+Wood,4-2,County Clerk,,REP,Kelley Robinson Price,1218,410,808
+Wood,4-3,County Clerk,,REP,Kelley Robinson Price,1340,474,866
+Wood,4-4,County Clerk,,REP,Kelley Robinson Price,297,78,219
+Wood,1-1,County Treasurer,,REP,Becky S. Burford,1354,300,1054
+Wood,1-2,County Treasurer,,REP,Becky S. Burford,1362,526,836
+Wood,1-3,County Treasurer,,REP,Becky S. Burford,1051,465,586
+Wood,1-4,County Treasurer,,REP,Becky S. Burford,361,192,169
+Wood,2-1,County Treasurer,,REP,Becky S. Burford,222,81,141
+Wood,2-2,County Treasurer,,REP,Becky S. Burford,1730,572,1158
+Wood,2-3,County Treasurer,,REP,Becky S. Burford,1384,404,980
+Wood,3-1,County Treasurer,,REP,Becky S. Burford,590,181,409
+Wood,3-2,County Treasurer,,REP,Becky S. Burford,1766,486,1280
+Wood,3-3,County Treasurer,,REP,Becky S. Burford,1493,632,861
+Wood,4-1,County Treasurer,,REP,Becky S. Burford,416,123,293
+Wood,4-2,County Treasurer,,REP,Becky S. Burford,1218,409,809
+Wood,4-3,County Treasurer,,REP,Becky S. Burford,1338,474,864
+Wood,4-4,County Treasurer,,REP,Becky S. Burford,297,78,219
+Wood,2-1,"County Commissioner, Precinct 2",,REP,Jerry Gaskill,220,81,139
+Wood,2-2,"County Commissioner, Precinct 2",,REP,Jerry Gaskill,1746,578,1168
+Wood,2-3,"County Commissioner, Precinct 2",,REP,Jerry Gaskill,1400,412,988
+Wood,4-1,"County Commissioner, Precinct 4",,REP,Russell Acker,411,121,290
+Wood,4-2,"County Commissioner, Precinct 4",,REP,Russell Acker,1225,412,813
+Wood,4-3,"County Commissioner, Precinct 4",,REP,Russell Acker,1345,476,869
+Wood,4-4,"County Commissioner, Precinct 4",,REP,Russell Acker,298,78,220
+Wood,1-1,"Justice of the Peace, Precinct 1",,REP,Tony Gilbreath,1376,306,1070
+Wood,1-2,"Justice of the Peace, Precinct 1",,REP,Tony Gilbreath,1367,530,837
+Wood,1-3,"Justice of the Peace, Precinct 1",,REP,Tony Gilbreath,1058,472,586
+Wood,1-4,"Justice of the Peace, Precinct 1",,REP,Tony Gilbreath,358,192,166
+Wood,3-1,"Justice of the Peace, Precinct 1",,REP,Tony Gilbreath,594,183,411
+Wood,4-1,"Justice of the Peace, Precinct 1",,REP,Tony Gilbreath,419,124,295
+Wood,4-4,"Justice of the Peace, Precinct 1",,REP,Tony Gilbreath,297,78,219
+Wood,2-1,"Justice of the Peace, Precinct 2",,REP,Jenae Holland,221,81,140
+Wood,2-2,"Justice of the Peace, Precinct 2",,REP,Jenae Holland,1746,579,1167
+Wood,2-3,"Justice of the Peace, Precinct 2",,REP,Jenae Holland,1413,419,994
+Wood,3-2,"Justice of the Peace, Precinct 3",,REP,Jerry E. Parker,1777,490,1287
+Wood,3-3,"Justice of the Peace, Precinct 3",,REP,Jerry E. Parker,1506,643,863
+Wood,4-2,"Justice of the Peace, Precinct 4",,REP,Cindy S. Weems,1228,413,815
+Wood,4-3,"Justice of the Peace, Precinct 4",,REP,Cindy S. Weems,1351,476,875

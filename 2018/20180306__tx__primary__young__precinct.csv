@@ -1,570 +1,570 @@
-county,precinct,office,district,party,candidate,election_day,absentee,early_voting,votes
-Young,5,U.S. Senate,,REP,Ted Cruz,260,88,310,658
-Young,5,U.S. Senate,,REP,"Bruce Jacobson, Jr.",13,4,16,33
-Young,5,U.S. Senate,,REP,Geraldine Sam,4,0,4,8
-Young,5,U.S. Senate,,REP,Stefano de Stefano,1,0,2,3
-Young,5,U.S. Senate,,REP,Mary Miller,6,4,22,32
-Young,5,U.S. House,19,REP,Jodey Arrington,253,81,325,659
-Young,5,Governor,,REP,Greg Abbott,262,95,304,661
-Young,5,Governor,,REP,Barbara Krueger,16,1,38,55
-Young,5,Governor,,REP,SECEDE Kilgore,1,0,1,2
-Young,5,Lieutenant Governor,,REP,Scott Milder,75,17,129,221
-Young,5,Lieutenant Governor,,REP,Dan Patrick,190,79,220,489
-Young,5,Attorney General,,REP,Ken Paxton,250,83,308,641
-Young,5,Comptroller of Public Accounts,,REP,Glenn Hegar,240,82,304,626
-Young,5,Commissioner of the General Land Office,,REP,Rick Range,25,11,26,62
-Young,5,Commissioner of the General Land Office,,REP,George P. Bush,176,50,211,437
-Young,5,Commissioner of the General Land Office,,REP,Jerry Patterson,52,23,77,152
-Young,5,Commissioner of the General Land Office,,REP,Davey Edwards,6,6,22,34
-Young,5,Commissioner of Agriculture,,REP,Jim Hogan,79,23,100,202
-Young,5,Commissioner of Agriculture,,REP,Sid Miller,123,37,159,319
-Young,5,Commissioner of Agriculture,,REP,Trey Blocker,32,18,44,94
-Young,5,Railroad Commissioner,,REP,Christi Craddick,183,69,242,494
-Young,5,Railroad Commissioner,,REP,Weston Martinez,53,12,57,122
-Young,5,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,231,76,289,596
-Young,5,"Justice, Supreme Court, Place 4",,REP,John Devine,227,78,289,594
-Young,5,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,228,75,290,593
-Young,5,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,149,43,188,380
-Young,5,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,72,29,108,209
-Young,5,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,218,76,287,581
-Young,5,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,100,34,137,271
-Young,5,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,80,21,100,201
-Young,5,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,25,14,53,92
-Young,5,State Senator,30,REP,Pat Fallon,165,66,237,468
-Young,5,State Senator,30,REP,Craig Carter,38,12,47,97
-Young,5,State Senator,30,REP,Craig Estes,69,18,66,153
-Young,5,State Representative,68,REP,Drew Springer,250,82,317,649
-Young,5,"Chief Justice, 2nd Court of Appeals District",,REP,Bonnie Sudderth,220,78,282,580
-Young,5,"Justice, 2nd Court of Appeals District, Place No. 4",,REP,Wade Birdwell,222,77,285,584
-Young,5,"Justice, 2nd Court of Appeals District, Place No. 5",,REP,Dabney Bassel,218,77,281,576
-Young,5,"Justice, 2nd Court of Appeals District, Place No. 6",,REP,Mark Pittman,222,77,280,579
-Young,5,County Judge,,REP,John C. Bullock,191,77,233,501
-Young,5,County Judge,,REP,Paul M. Hemphill,97,19,126,242
-Young,5,District Clerk,,REP,Jamie Freeze Land,248,88,311,647
-Young,5,County Clerk,,REP,Kay Jennings Hardin,250,88,318,656
-Young,5,County Treasurer,,REP,Ann B. Daily,246,86,312,644
-Young,5,"County Commissioner, Precinct No. 2",,REP,Matt Pruitt,119,52,195,366
-Young,5,"County Commissioner, Precinct No. 2",,REP,Larry Pratt,97,28,111,236
-Young,5,"County Commissioner, Precinct No. 2",,REP,Les Remington,63,14,45,122
-Young,5,"Justice of the Peace, Precinct No. 1",,REP,Jason Hearne,93,25,167,285
-Young,5,"Justice of the Peace, Precinct No. 1",,REP,Randy Saylor,72,21,78,171
-Young,5,"Justice of the Peace, Precinct No. 1",,REP,Norman B. Carpenter,54,19,60,133
-Young,5,"Justice of the Peace, Precinct No. 1",,REP,Jabe Underwood,60,17,49,126
-Young,5,County Chairman,,REP,Kyle Zohn Milam,245,84,326,655
-Young,5,U.S. Senate,,DEM,Edward Kimbrough,6,4,3,13
-Young,5,U.S. Senate,,DEM,Beto O'Rourke,7,4,11,22
-Young,5,U.S. Senate,,DEM,Sema Hernandez,4,4,0,8
-Young,5,U.S. House,19,DEM,Miguel Levario,16,12,13,41
-Young,5,Governor,,DEM,"Cedric Davis, Sr.",4,0,0,4
-Young,5,Governor,,DEM,Joe Mumbach,0,0,1,1
-Young,5,Governor,,DEM,Jeffrey Payne,1,1,0,2
-Young,5,Governor,,DEM,James Jolly Clark,0,1,2,3
-Young,5,Governor,,DEM,Grady Yarbrough,3,1,0,4
+county,precinct,office,district,party,candidate,votes,election_day,early_voting,absentee
+Young,5,U.S. Senate,,REP,Ted Cruz,658,260,310,88
+Young,5,U.S. Senate,,REP,"Bruce Jacobson, Jr.",33,13,16,4
+Young,5,U.S. Senate,,REP,Geraldine Sam,8,4,4,0
+Young,5,U.S. Senate,,REP,Stefano de Stefano,3,1,2,0
+Young,5,U.S. Senate,,REP,Mary Miller,32,6,22,4
+Young,5,U.S. House,19,REP,Jodey Arrington,659,253,325,81
+Young,5,Governor,,REP,Greg Abbott,661,262,304,95
+Young,5,Governor,,REP,Barbara Krueger,55,16,38,1
+Young,5,Governor,,REP,SECEDE Kilgore,2,1,1,0
+Young,5,Lieutenant Governor,,REP,Scott Milder,221,75,129,17
+Young,5,Lieutenant Governor,,REP,Dan Patrick,489,190,220,79
+Young,5,Attorney General,,REP,Ken Paxton,641,250,308,83
+Young,5,Comptroller of Public Accounts,,REP,Glenn Hegar,626,240,304,82
+Young,5,Commissioner of the General Land Office,,REP,Rick Range,62,25,26,11
+Young,5,Commissioner of the General Land Office,,REP,George P. Bush,437,176,211,50
+Young,5,Commissioner of the General Land Office,,REP,Jerry Patterson,152,52,77,23
+Young,5,Commissioner of the General Land Office,,REP,Davey Edwards,34,6,22,6
+Young,5,Commissioner of Agriculture,,REP,Jim Hogan,202,79,100,23
+Young,5,Commissioner of Agriculture,,REP,Sid Miller,319,123,159,37
+Young,5,Commissioner of Agriculture,,REP,Trey Blocker,94,32,44,18
+Young,5,Railroad Commissioner,,REP,Christi Craddick,494,183,242,69
+Young,5,Railroad Commissioner,,REP,Weston Martinez,122,53,57,12
+Young,5,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,596,231,289,76
+Young,5,"Justice, Supreme Court, Place 4",,REP,John Devine,594,227,289,78
+Young,5,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,593,228,290,75
+Young,5,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,380,149,188,43
+Young,5,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,209,72,108,29
+Young,5,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,581,218,287,76
+Young,5,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,271,100,137,34
+Young,5,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,201,80,100,21
+Young,5,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,92,25,53,14
+Young,5,State Senator,30,REP,Pat Fallon,468,165,237,66
+Young,5,State Senator,30,REP,Craig Carter,97,38,47,12
+Young,5,State Senator,30,REP,Craig Estes,153,69,66,18
+Young,5,State Representative,68,REP,Drew Springer,649,250,317,82
+Young,5,"Chief Justice, 2nd Court of Appeals District",,REP,Bonnie Sudderth,580,220,282,78
+Young,5,"Justice, 2nd Court of Appeals District, Place No. 4",,REP,Wade Birdwell,584,222,285,77
+Young,5,"Justice, 2nd Court of Appeals District, Place No. 5",,REP,Dabney Bassel,576,218,281,77
+Young,5,"Justice, 2nd Court of Appeals District, Place No. 6",,REP,Mark Pittman,579,222,280,77
+Young,5,County Judge,,REP,John C. Bullock,501,191,233,77
+Young,5,County Judge,,REP,Paul M. Hemphill,242,97,126,19
+Young,5,District Clerk,,REP,Jamie Freeze Land,647,248,311,88
+Young,5,County Clerk,,REP,Kay Jennings Hardin,656,250,318,88
+Young,5,County Treasurer,,REP,Ann B. Daily,644,246,312,86
+Young,5,"County Commissioner, Precinct No. 2",,REP,Matt Pruitt,366,119,195,52
+Young,5,"County Commissioner, Precinct No. 2",,REP,Larry Pratt,236,97,111,28
+Young,5,"County Commissioner, Precinct No. 2",,REP,Les Remington,122,63,45,14
+Young,5,"Justice of the Peace, Precinct No. 1",,REP,Jason Hearne,285,93,167,25
+Young,5,"Justice of the Peace, Precinct No. 1",,REP,Randy Saylor,171,72,78,21
+Young,5,"Justice of the Peace, Precinct No. 1",,REP,Norman B. Carpenter,133,54,60,19
+Young,5,"Justice of the Peace, Precinct No. 1",,REP,Jabe Underwood,126,60,49,17
+Young,5,County Chairman,,REP,Kyle Zohn Milam,655,245,326,84
+Young,5,U.S. Senate,,DEM,Edward Kimbrough,13,6,3,4
+Young,5,U.S. Senate,,DEM,Beto O'Rourke,22,7,11,4
+Young,5,U.S. Senate,,DEM,Sema Hernandez,8,4,0,4
+Young,5,U.S. House,19,DEM,Miguel Levario,41,16,13,12
+Young,5,Governor,,DEM,"Cedric Davis, Sr.",4,4,0,0
+Young,5,Governor,,DEM,Joe Mumbach,1,0,1,0
+Young,5,Governor,,DEM,Jeffrey Payne,2,1,0,1
+Young,5,Governor,,DEM,James Jolly Clark,3,0,2,1
+Young,5,Governor,,DEM,Grady Yarbrough,4,3,0,1
 Young,5,Governor,,DEM,Tom Wakely,0,0,0,0
-Young,5,Governor,,DEM,Andrew White,3,2,4,9
-Young,5,Governor,,DEM,Adrian Ocegueda,0,0,1,1
-Young,5,Governor,,DEM,Lupe Valdez,5,7,6,18
-Young,5,Lieutenant Governor,,DEM,Mike Collier,8,5,8,21
-Young,5,Lieutenant Governor,,DEM,Michael Cooper,9,7,6,22
-Young,5,Attorney General,,DEM,Justin Nelson,17,12,14,43
-Young,5,Comptroller of Public Accounts,,DEM,Tim Mahoney,10,7,9,26
-Young,5,Comptroller of Public Accounts,,DEM,Joi Chevalier,6,5,5,16
-Young,5,Commissioner of the General Land Office,,DEM,Miguel Suazo,12,9,8,29
-Young,5,Commissioner of the General Land Office,,DEM,Tex Morgan,3,3,6,12
-Young,5,Commissioner of Agriculture,,DEM,Kim Olson,15,12,13,40
-Young,5,Railroad Commissioner,,DEM,Roman McAllen,8,5,9,22
-Young,5,Railroad Commissioner,,DEM,Chris Spellmon,8,7,4,19
-Young,5,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,15,12,13,40
-Young,5,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,15,11,14,40
-Young,5,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,16,12,14,42
-Young,5,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,17,12,14,43
-Young,5,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,16,12,14,42
-Young,5,State Senator,30,DEM,Kevin Lopez,16,12,14,42
-Young,5,"Justice, 2nd Court of Appeals District, Place No. 5",,DEM,Delonia A. Watson,15,12,14,41
-Young,5,County Chairman,,DEM,Fran Edens,16,12,13,41
-Young,5,Proposition #1,,DEM,Yes,17,13,14,44
-Young,5,Proposition #1,,DEM,No,1,0,2,3
-Young,5,Proposition #2,,DEM,Yes,17,11,14,42
-Young,5,Proposition #2,,DEM,No,1,2,1,4
-Young,5,Proposition #3,,DEM,Yes,18,13,13,44
-Young,5,Proposition #3,,DEM,No,0,0,3,3
-Young,5,Proposition #4,,DEM,Yes,16,13,14,43
-Young,5,Proposition #4,,DEM,No,2,0,2,4
-Young,5,Proposition #5,,DEM,Yes,15,12,15,42
-Young,5,Proposition #5,,DEM,No,2,1,1,4
-Young,5,Proposition #6,,DEM,Yes,17,13,14,44
-Young,5,Proposition #6,,DEM,No,0,0,1,1
-Young,5,Proposition #7,,DEM,Yes,17,13,14,44
-Young,5,Proposition #7,,DEM,No,1,0,1,2
-Young,5,Proposition #8,,DEM,Yes,17,11,14,42
-Young,5,Proposition #8,,DEM,No,1,2,2,5
-Young,5,Proposition #9,,DEM,Yes,18,12,13,43
-Young,5,Proposition #9,,DEM,No,0,1,2,3
-Young,5,Proposition #10,,DEM,Yes,18,11,15,44
-Young,5,Proposition #10,,DEM,No,0,2,1,3
-Young,5,Proposition #11,,DEM,Yes,15,13,15,43
-Young,5,Proposition #11,,DEM,No,2,0,1,3
-Young,5,Proposition #12,,DEM,Yes,18,13,13,44
-Young,5,Proposition #12,,DEM,No,0,0,2,2
-Young,5,Proposition 1,,DEM,YES,192,60,225,477
-Young,5,Proposition 1,,DEM,NO,71,28,113,212
-Young,5,Proposition 2,,DEM,YES,246,84,322,652
-Young,5,Proposition 2,,DEM,NO,36,8,30,74
-Young,5,Proposition 3,,DEM,YES,243,90,303,636
-Young,5,Proposition 3,,DEM,NO,24,3,45,72
-Young,5,Proposition 4,,DEM,YES,252,90,307,649
-Young,5,Proposition 4,,DEM,NO,23,4,37,64
-Young,5,Proposition 5,,DEM,YES,221,77,243,541
-Young,5,Proposition 5,,DEM,NO,58,15,110,183
-Young,5,Proposition 6,,DEM,YES,266,91,335,692
-Young,5,Proposition 6,,DEM,NO,12,3,22,37
-Young,5,Proposition 7,,DEM,YES,204,67,247,518
-Young,5,Proposition 7,,DEM,NO,68,22,107,197
-Young,5,Proposition 8,,DEM,YES,273,90,348,711
-Young,5,Proposition 8,,DEM,NO,6,4,11,21
-Young,5,Proposition 9,,DEM,YES,259,89,315,663
-Young,5,Proposition 9,,DEM,NO,22,4,42,68
-Young,5,Proposition 10,,DEM,YES,266,93,328,687
-Young,5,Proposition 10,,DEM,NO,9,1,15,25
-Young,5,Proposition 11,,DEM,YES,246,92,308,646
-Young,5,Proposition 11,,DEM,NO,35,3,48,86
-Young,6,U.S. Senate,,REP,Ted Cruz,33,8,27,68
-Young,6,U.S. Senate,,REP,"Bruce Jacobson, Jr.",1,0,1,2
-Young,6,U.S. Senate,,REP,Geraldine Sam,0,0,1,1
+Young,5,Governor,,DEM,Andrew White,9,3,4,2
+Young,5,Governor,,DEM,Adrian Ocegueda,1,0,1,0
+Young,5,Governor,,DEM,Lupe Valdez,18,5,6,7
+Young,5,Lieutenant Governor,,DEM,Mike Collier,21,8,8,5
+Young,5,Lieutenant Governor,,DEM,Michael Cooper,22,9,6,7
+Young,5,Attorney General,,DEM,Justin Nelson,43,17,14,12
+Young,5,Comptroller of Public Accounts,,DEM,Tim Mahoney,26,10,9,7
+Young,5,Comptroller of Public Accounts,,DEM,Joi Chevalier,16,6,5,5
+Young,5,Commissioner of the General Land Office,,DEM,Miguel Suazo,29,12,8,9
+Young,5,Commissioner of the General Land Office,,DEM,Tex Morgan,12,3,6,3
+Young,5,Commissioner of Agriculture,,DEM,Kim Olson,40,15,13,12
+Young,5,Railroad Commissioner,,DEM,Roman McAllen,22,8,9,5
+Young,5,Railroad Commissioner,,DEM,Chris Spellmon,19,8,4,7
+Young,5,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,40,15,13,12
+Young,5,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,40,15,14,11
+Young,5,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,42,16,14,12
+Young,5,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,43,17,14,12
+Young,5,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,42,16,14,12
+Young,5,State Senator,30,DEM,Kevin Lopez,42,16,14,12
+Young,5,"Justice, 2nd Court of Appeals District, Place No. 5",,DEM,Delonia A. Watson,41,15,14,12
+Young,5,County Chairman,,DEM,Fran Edens,41,16,13,12
+Young,5,Proposition #1,,DEM,Yes,44,17,14,13
+Young,5,Proposition #1,,DEM,No,3,1,2,0
+Young,5,Proposition #2,,DEM,Yes,42,17,14,11
+Young,5,Proposition #2,,DEM,No,4,1,1,2
+Young,5,Proposition #3,,DEM,Yes,44,18,13,13
+Young,5,Proposition #3,,DEM,No,3,0,3,0
+Young,5,Proposition #4,,DEM,Yes,43,16,14,13
+Young,5,Proposition #4,,DEM,No,4,2,2,0
+Young,5,Proposition #5,,DEM,Yes,42,15,15,12
+Young,5,Proposition #5,,DEM,No,4,2,1,1
+Young,5,Proposition #6,,DEM,Yes,44,17,14,13
+Young,5,Proposition #6,,DEM,No,1,0,1,0
+Young,5,Proposition #7,,DEM,Yes,44,17,14,13
+Young,5,Proposition #7,,DEM,No,2,1,1,0
+Young,5,Proposition #8,,DEM,Yes,42,17,14,11
+Young,5,Proposition #8,,DEM,No,5,1,2,2
+Young,5,Proposition #9,,DEM,Yes,43,18,13,12
+Young,5,Proposition #9,,DEM,No,3,0,2,1
+Young,5,Proposition #10,,DEM,Yes,44,18,15,11
+Young,5,Proposition #10,,DEM,No,3,0,1,2
+Young,5,Proposition #11,,DEM,Yes,43,15,15,13
+Young,5,Proposition #11,,DEM,No,3,2,1,0
+Young,5,Proposition #12,,DEM,Yes,44,18,13,13
+Young,5,Proposition #12,,DEM,No,2,0,2,0
+Young,5,Proposition 1,,DEM,YES,477,192,225,60
+Young,5,Proposition 1,,DEM,NO,212,71,113,28
+Young,5,Proposition 2,,DEM,YES,652,246,322,84
+Young,5,Proposition 2,,DEM,NO,74,36,30,8
+Young,5,Proposition 3,,DEM,YES,636,243,303,90
+Young,5,Proposition 3,,DEM,NO,72,24,45,3
+Young,5,Proposition 4,,DEM,YES,649,252,307,90
+Young,5,Proposition 4,,DEM,NO,64,23,37,4
+Young,5,Proposition 5,,DEM,YES,541,221,243,77
+Young,5,Proposition 5,,DEM,NO,183,58,110,15
+Young,5,Proposition 6,,DEM,YES,692,266,335,91
+Young,5,Proposition 6,,DEM,NO,37,12,22,3
+Young,5,Proposition 7,,DEM,YES,518,204,247,67
+Young,5,Proposition 7,,DEM,NO,197,68,107,22
+Young,5,Proposition 8,,DEM,YES,711,273,348,90
+Young,5,Proposition 8,,DEM,NO,21,6,11,4
+Young,5,Proposition 9,,DEM,YES,663,259,315,89
+Young,5,Proposition 9,,DEM,NO,68,22,42,4
+Young,5,Proposition 10,,DEM,YES,687,266,328,93
+Young,5,Proposition 10,,DEM,NO,25,9,15,1
+Young,5,Proposition 11,,DEM,YES,646,246,308,92
+Young,5,Proposition 11,,DEM,NO,86,35,48,3
+Young,6,U.S. Senate,,REP,Ted Cruz,68,33,27,8
+Young,6,U.S. Senate,,REP,"Bruce Jacobson, Jr.",2,1,1,0
+Young,6,U.S. Senate,,REP,Geraldine Sam,1,0,1,0
 Young,6,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
-Young,6,U.S. Senate,,REP,Mary Miller,2,0,0,2
-Young,6,U.S. House,19,REP,Jodey Arrington,32,7,25,64
-Young,6,Governor,,REP,Greg Abbott,34,8,26,68
-Young,6,Governor,,REP,Barbara Krueger,0,0,2,2
-Young,6,Governor,,REP,SECEDE Kilgore,1,0,0,1
-Young,6,Lieutenant Governor,,REP,Scott Milder,9,0,5,14
-Young,6,Lieutenant Governor,,REP,Dan Patrick,23,7,23,53
-Young,6,Attorney General,,REP,Ken Paxton,32,7,24,63
-Young,6,Comptroller of Public Accounts,,REP,Glenn Hegar,29,7,22,58
-Young,6,Commissioner of the General Land Office,,REP,Rick Range,7,3,2,12
-Young,6,Commissioner of the General Land Office,,REP,George P. Bush,21,4,18,43
-Young,6,Commissioner of the General Land Office,,REP,Jerry Patterson,6,1,3,10
-Young,6,Commissioner of the General Land Office,,REP,Davey Edwards,0,0,2,2
-Young,6,Commissioner of Agriculture,,REP,Jim Hogan,12,3,2,17
-Young,6,Commissioner of Agriculture,,REP,Sid Miller,16,2,16,34
-Young,6,Commissioner of Agriculture,,REP,Trey Blocker,4,1,6,11
-Young,6,Railroad Commissioner,,REP,Christi Craddick,25,6,22,53
-Young,6,Railroad Commissioner,,REP,Weston Martinez,6,1,0,7
-Young,6,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,30,8,21,59
-Young,6,"Justice, Supreme Court, Place 4",,REP,John Devine,29,8,21,58
-Young,6,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,29,8,22,59
-Young,6,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,14,4,16,34
-Young,6,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,15,2,6,23
-Young,6,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,29,8,21,58
-Young,6,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,11,2,11,24
-Young,6,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,15,3,9,27
-Young,6,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,1,1,1,3
-Young,6,State Senator,30,REP,Pat Fallon,27,6,19,52
-Young,6,State Senator,30,REP,Craig Carter,2,1,5,8
-Young,6,State Senator,30,REP,Craig Estes,5,1,5,11
-Young,6,State Representative,68,REP,Drew Springer,31,8,22,61
-Young,6,"Chief Justice, 2nd Court of Appeals District",,REP,Bonnie Sudderth,29,8,21,58
-Young,6,"Justice, 2nd Court of Appeals District, Place No. 4",,REP,Wade Birdwell,28,8,20,56
-Young,6,"Justice, 2nd Court of Appeals District, Place No. 5",,REP,Dabney Bassel,29,7,21,57
-Young,6,"Justice, 2nd Court of Appeals District, Place No. 6",,REP,Mark Pittman,29,8,22,59
-Young,6,County Judge,,REP,John C. Bullock,24,5,15,44
-Young,6,County Judge,,REP,Paul M. Hemphill,12,3,13,28
-Young,6,District Clerk,,REP,Jamie Freeze Land,29,8,23,60
-Young,6,County Clerk,,REP,Kay Jennings Hardin,29,8,22,59
-Young,6,County Treasurer,,REP,Ann B. Daily,29,8,23,60
-Young,6,"County Commissioner, Precinct No. 2",,REP,Matt Pruitt,13,1,8,22
-Young,6,"County Commissioner, Precinct No. 2",,REP,Larry Pratt,16,5,14,35
-Young,6,"County Commissioner, Precinct No. 2",,REP,Les Remington,7,2,5,14
-Young,6,"Justice of the Peace, Precinct No. 1",,REP,Jason Hearne,10,1,7,18
-Young,6,"Justice of the Peace, Precinct No. 1",,REP,Randy Saylor,10,1,5,16
-Young,6,"Justice of the Peace, Precinct No. 1",,REP,Norman B. Carpenter,5,3,11,19
-Young,6,"Justice of the Peace, Precinct No. 1",,REP,Jabe Underwood,11,3,3,17
-Young,6,County Chairman,,REP,Kyle Zohn Milam,31,8,22,61
-Young,6,U.S. Senate,,DEM,Edward Kimbrough,0,1,0,1
+Young,6,U.S. Senate,,REP,Mary Miller,2,2,0,0
+Young,6,U.S. House,19,REP,Jodey Arrington,64,32,25,7
+Young,6,Governor,,REP,Greg Abbott,68,34,26,8
+Young,6,Governor,,REP,Barbara Krueger,2,0,2,0
+Young,6,Governor,,REP,SECEDE Kilgore,1,1,0,0
+Young,6,Lieutenant Governor,,REP,Scott Milder,14,9,5,0
+Young,6,Lieutenant Governor,,REP,Dan Patrick,53,23,23,7
+Young,6,Attorney General,,REP,Ken Paxton,63,32,24,7
+Young,6,Comptroller of Public Accounts,,REP,Glenn Hegar,58,29,22,7
+Young,6,Commissioner of the General Land Office,,REP,Rick Range,12,7,2,3
+Young,6,Commissioner of the General Land Office,,REP,George P. Bush,43,21,18,4
+Young,6,Commissioner of the General Land Office,,REP,Jerry Patterson,10,6,3,1
+Young,6,Commissioner of the General Land Office,,REP,Davey Edwards,2,0,2,0
+Young,6,Commissioner of Agriculture,,REP,Jim Hogan,17,12,2,3
+Young,6,Commissioner of Agriculture,,REP,Sid Miller,34,16,16,2
+Young,6,Commissioner of Agriculture,,REP,Trey Blocker,11,4,6,1
+Young,6,Railroad Commissioner,,REP,Christi Craddick,53,25,22,6
+Young,6,Railroad Commissioner,,REP,Weston Martinez,7,6,0,1
+Young,6,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,59,30,21,8
+Young,6,"Justice, Supreme Court, Place 4",,REP,John Devine,58,29,21,8
+Young,6,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,59,29,22,8
+Young,6,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,34,14,16,4
+Young,6,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,23,15,6,2
+Young,6,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,58,29,21,8
+Young,6,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,24,11,11,2
+Young,6,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,27,15,9,3
+Young,6,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,3,1,1,1
+Young,6,State Senator,30,REP,Pat Fallon,52,27,19,6
+Young,6,State Senator,30,REP,Craig Carter,8,2,5,1
+Young,6,State Senator,30,REP,Craig Estes,11,5,5,1
+Young,6,State Representative,68,REP,Drew Springer,61,31,22,8
+Young,6,"Chief Justice, 2nd Court of Appeals District",,REP,Bonnie Sudderth,58,29,21,8
+Young,6,"Justice, 2nd Court of Appeals District, Place No. 4",,REP,Wade Birdwell,56,28,20,8
+Young,6,"Justice, 2nd Court of Appeals District, Place No. 5",,REP,Dabney Bassel,57,29,21,7
+Young,6,"Justice, 2nd Court of Appeals District, Place No. 6",,REP,Mark Pittman,59,29,22,8
+Young,6,County Judge,,REP,John C. Bullock,44,24,15,5
+Young,6,County Judge,,REP,Paul M. Hemphill,28,12,13,3
+Young,6,District Clerk,,REP,Jamie Freeze Land,60,29,23,8
+Young,6,County Clerk,,REP,Kay Jennings Hardin,59,29,22,8
+Young,6,County Treasurer,,REP,Ann B. Daily,60,29,23,8
+Young,6,"County Commissioner, Precinct No. 2",,REP,Matt Pruitt,22,13,8,1
+Young,6,"County Commissioner, Precinct No. 2",,REP,Larry Pratt,35,16,14,5
+Young,6,"County Commissioner, Precinct No. 2",,REP,Les Remington,14,7,5,2
+Young,6,"Justice of the Peace, Precinct No. 1",,REP,Jason Hearne,18,10,7,1
+Young,6,"Justice of the Peace, Precinct No. 1",,REP,Randy Saylor,16,10,5,1
+Young,6,"Justice of the Peace, Precinct No. 1",,REP,Norman B. Carpenter,19,5,11,3
+Young,6,"Justice of the Peace, Precinct No. 1",,REP,Jabe Underwood,17,11,3,3
+Young,6,County Chairman,,REP,Kyle Zohn Milam,61,31,22,8
+Young,6,U.S. Senate,,DEM,Edward Kimbrough,1,0,0,1
 Young,6,U.S. Senate,,DEM,Beto O'Rourke,0,0,0,0
-Young,6,U.S. Senate,,DEM,Sema Hernandez,1,0,0,1
-Young,6,U.S. House,19,DEM,Miguel Levario,1,1,0,2
+Young,6,U.S. Senate,,DEM,Sema Hernandez,1,1,0,0
+Young,6,U.S. House,19,DEM,Miguel Levario,2,1,0,1
 Young,6,Governor,,DEM,"Cedric Davis, Sr.",0,0,0,0
 Young,6,Governor,,DEM,Joe Mumbach,0,0,0,0
 Young,6,Governor,,DEM,Jeffrey Payne,0,0,0,0
 Young,6,Governor,,DEM,James Jolly Clark,0,0,0,0
-Young,6,Governor,,DEM,Grady Yarbrough,0,1,0,1
+Young,6,Governor,,DEM,Grady Yarbrough,1,0,0,1
 Young,6,Governor,,DEM,Tom Wakely,0,0,0,0
 Young,6,Governor,,DEM,Andrew White,0,0,0,0
 Young,6,Governor,,DEM,Adrian Ocegueda,0,0,0,0
-Young,6,Governor,,DEM,Lupe Valdez,1,0,0,1
+Young,6,Governor,,DEM,Lupe Valdez,1,1,0,0
 Young,6,Lieutenant Governor,,DEM,Mike Collier,0,0,0,0
-Young,6,Lieutenant Governor,,DEM,Michael Cooper,1,1,0,2
-Young,6,Attorney General,,DEM,Justin Nelson,0,1,0,1
-Young,6,Comptroller of Public Accounts,,DEM,Tim Mahoney,0,1,0,1
-Young,6,Comptroller of Public Accounts,,DEM,Joi Chevalier,1,0,0,1
-Young,6,Commissioner of the General Land Office,,DEM,Miguel Suazo,0,1,0,1
+Young,6,Lieutenant Governor,,DEM,Michael Cooper,2,1,0,1
+Young,6,Attorney General,,DEM,Justin Nelson,1,0,0,1
+Young,6,Comptroller of Public Accounts,,DEM,Tim Mahoney,1,0,0,1
+Young,6,Comptroller of Public Accounts,,DEM,Joi Chevalier,1,1,0,0
+Young,6,Commissioner of the General Land Office,,DEM,Miguel Suazo,1,0,0,1
 Young,6,Commissioner of the General Land Office,,DEM,Tex Morgan,0,0,0,0
-Young,6,Commissioner of Agriculture,,DEM,Kim Olson,0,1,0,1
-Young,6,Railroad Commissioner,,DEM,Roman McAllen,0,1,0,1
+Young,6,Commissioner of Agriculture,,DEM,Kim Olson,1,0,0,1
+Young,6,Railroad Commissioner,,DEM,Roman McAllen,1,0,0,1
 Young,6,Railroad Commissioner,,DEM,Chris Spellmon,0,0,0,0
-Young,6,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,1,1,0,2
-Young,6,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,0,1,0,1
-Young,6,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,0,1,0,1
-Young,6,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,0,1,0,1
-Young,6,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,0,1,0,1
-Young,6,State Senator,30,DEM,Kevin Lopez,1,1,0,2
-Young,6,"Justice, 2nd Court of Appeals District, Place No. 5",,DEM,Delonia A. Watson,0,1,0,1
-Young,6,County Chairman,,DEM,Fran Edens,1,1,0,2
-Young,6,Proposition #1,,DEM,Yes,1,0,0,1
-Young,6,Proposition #1,,DEM,No,0,1,0,1
-Young,6,Proposition #2,,DEM,Yes,1,0,0,1
-Young,6,Proposition #2,,DEM,No,0,1,0,1
-Young,6,Proposition #3,,DEM,Yes,1,0,0,1
-Young,6,Proposition #3,,DEM,No,0,1,0,1
-Young,6,Proposition #4,,DEM,Yes,1,0,0,1
-Young,6,Proposition #4,,DEM,No,0,1,0,1
-Young,6,Proposition #5,,DEM,Yes,1,0,0,1
-Young,6,Proposition #5,,DEM,No,0,1,0,1
-Young,6,Proposition #6,,DEM,Yes,1,1,0,2
+Young,6,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,2,1,0,1
+Young,6,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,1,0,0,1
+Young,6,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,1,0,0,1
+Young,6,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,1,0,0,1
+Young,6,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,1,0,0,1
+Young,6,State Senator,30,DEM,Kevin Lopez,2,1,0,1
+Young,6,"Justice, 2nd Court of Appeals District, Place No. 5",,DEM,Delonia A. Watson,1,0,0,1
+Young,6,County Chairman,,DEM,Fran Edens,2,1,0,1
+Young,6,Proposition #1,,DEM,Yes,1,1,0,0
+Young,6,Proposition #1,,DEM,No,1,0,0,1
+Young,6,Proposition #2,,DEM,Yes,1,1,0,0
+Young,6,Proposition #2,,DEM,No,1,0,0,1
+Young,6,Proposition #3,,DEM,Yes,1,1,0,0
+Young,6,Proposition #3,,DEM,No,1,0,0,1
+Young,6,Proposition #4,,DEM,Yes,1,1,0,0
+Young,6,Proposition #4,,DEM,No,1,0,0,1
+Young,6,Proposition #5,,DEM,Yes,1,1,0,0
+Young,6,Proposition #5,,DEM,No,1,0,0,1
+Young,6,Proposition #6,,DEM,Yes,2,1,0,1
 Young,6,Proposition #6,,DEM,No,0,0,0,0
-Young,6,Proposition #7,,DEM,Yes,1,1,0,2
+Young,6,Proposition #7,,DEM,Yes,2,1,0,1
 Young,6,Proposition #7,,DEM,No,0,0,0,0
-Young,6,Proposition #8,,DEM,Yes,1,1,0,2
+Young,6,Proposition #8,,DEM,Yes,2,1,0,1
 Young,6,Proposition #8,,DEM,No,0,0,0,0
-Young,6,Proposition #9,,DEM,Yes,0,1,0,1
-Young,6,Proposition #9,,DEM,No,1,0,0,1
-Young,6,Proposition #10,,DEM,Yes,0,1,0,1
-Young,6,Proposition #10,,DEM,No,1,0,0,1
-Young,6,Proposition #11,,DEM,Yes,1,1,0,2
+Young,6,Proposition #9,,DEM,Yes,1,0,0,1
+Young,6,Proposition #9,,DEM,No,1,1,0,0
+Young,6,Proposition #10,,DEM,Yes,1,0,0,1
+Young,6,Proposition #10,,DEM,No,1,1,0,0
+Young,6,Proposition #11,,DEM,Yes,2,1,0,1
 Young,6,Proposition #11,,DEM,No,0,0,0,0
-Young,6,Proposition #12,,DEM,Yes,1,1,0,2
+Young,6,Proposition #12,,DEM,Yes,2,1,0,1
 Young,6,Proposition #12,,DEM,No,0,0,0,0
-Young,6,Proposition 1,,DEM,YES,25,5,20,50
-Young,6,Proposition 1,,DEM,NO,10,2,8,20
-Young,6,Proposition 2,,DEM,YES,34,7,28,69
-Young,6,Proposition 2,,DEM,NO,2,0,1,3
-Young,6,Proposition 3,,DEM,YES,33,7,26,66
-Young,6,Proposition 3,,DEM,NO,2,0,1,3
-Young,6,Proposition 4,,DEM,YES,35,6,27,68
-Young,6,Proposition 4,,DEM,NO,0,1,1,2
-Young,6,Proposition 5,,DEM,YES,33,6,22,61
-Young,6,Proposition 5,,DEM,NO,3,2,6,11
-Young,6,Proposition 6,,DEM,YES,34,7,27,68
-Young,6,Proposition 6,,DEM,NO,1,1,2,4
-Young,6,Proposition 7,,DEM,YES,24,7,21,52
-Young,6,Proposition 7,,DEM,NO,12,1,7,20
-Young,6,Proposition 8,,DEM,YES,35,7,25,67
-Young,6,Proposition 8,,DEM,NO,1,0,2,3
-Young,6,Proposition 9,,DEM,YES,34,7,27,68
-Young,6,Proposition 9,,DEM,NO,2,1,2,5
-Young,6,Proposition 10,,DEM,YES,34,8,24,66
-Young,6,Proposition 10,,DEM,NO,1,0,4,5
-Young,6,Proposition 11,,DEM,YES,30,8,27,65
-Young,6,Proposition 11,,DEM,NO,5,0,1,6
-Young,7,U.S. Senate,,REP,Ted Cruz,29,3,21,53
-Young,7,U.S. Senate,,REP,"Bruce Jacobson, Jr.",2,0,0,2
+Young,6,Proposition 1,,DEM,YES,50,25,20,5
+Young,6,Proposition 1,,DEM,NO,20,10,8,2
+Young,6,Proposition 2,,DEM,YES,69,34,28,7
+Young,6,Proposition 2,,DEM,NO,3,2,1,0
+Young,6,Proposition 3,,DEM,YES,66,33,26,7
+Young,6,Proposition 3,,DEM,NO,3,2,1,0
+Young,6,Proposition 4,,DEM,YES,68,35,27,6
+Young,6,Proposition 4,,DEM,NO,2,0,1,1
+Young,6,Proposition 5,,DEM,YES,61,33,22,6
+Young,6,Proposition 5,,DEM,NO,11,3,6,2
+Young,6,Proposition 6,,DEM,YES,68,34,27,7
+Young,6,Proposition 6,,DEM,NO,4,1,2,1
+Young,6,Proposition 7,,DEM,YES,52,24,21,7
+Young,6,Proposition 7,,DEM,NO,20,12,7,1
+Young,6,Proposition 8,,DEM,YES,67,35,25,7
+Young,6,Proposition 8,,DEM,NO,3,1,2,0
+Young,6,Proposition 9,,DEM,YES,68,34,27,7
+Young,6,Proposition 9,,DEM,NO,5,2,2,1
+Young,6,Proposition 10,,DEM,YES,66,34,24,8
+Young,6,Proposition 10,,DEM,NO,5,1,4,0
+Young,6,Proposition 11,,DEM,YES,65,30,27,8
+Young,6,Proposition 11,,DEM,NO,6,5,1,0
+Young,7,U.S. Senate,,REP,Ted Cruz,53,29,21,3
+Young,7,U.S. Senate,,REP,"Bruce Jacobson, Jr.",2,2,0,0
 Young,7,U.S. Senate,,REP,Geraldine Sam,0,0,0,0
-Young,7,U.S. Senate,,REP,Stefano de Stefano,1,0,0,1
-Young,7,U.S. Senate,,REP,Mary Miller,2,0,1,3
-Young,7,U.S. House,19,REP,Jodey Arrington,30,2,18,50
-Young,7,Governor,,REP,Greg Abbott,29,3,20,52
-Young,7,Governor,,REP,Barbara Krueger,5,0,2,7
+Young,7,U.S. Senate,,REP,Stefano de Stefano,1,1,0,0
+Young,7,U.S. Senate,,REP,Mary Miller,3,2,1,0
+Young,7,U.S. House,19,REP,Jodey Arrington,50,30,18,2
+Young,7,Governor,,REP,Greg Abbott,52,29,20,3
+Young,7,Governor,,REP,Barbara Krueger,7,5,2,0
 Young,7,Governor,,REP,SECEDE Kilgore,0,0,0,0
-Young,7,Lieutenant Governor,,REP,Scott Milder,10,0,7,17
-Young,7,Lieutenant Governor,,REP,Dan Patrick,23,3,14,40
-Young,7,Attorney General,,REP,Ken Paxton,32,2,17,51
-Young,7,Comptroller of Public Accounts,,REP,Glenn Hegar,29,2,18,49
-Young,7,Commissioner of the General Land Office,,REP,Rick Range,0,0,4,4
-Young,7,Commissioner of the General Land Office,,REP,George P. Bush,16,2,8,26
-Young,7,Commissioner of the General Land Office,,REP,Jerry Patterson,11,2,8,21
-Young,7,Commissioner of the General Land Office,,REP,Davey Edwards,5,0,1,6
-Young,7,Commissioner of Agriculture,,REP,Jim Hogan,11,1,5,17
-Young,7,Commissioner of Agriculture,,REP,Sid Miller,17,2,10,29
-Young,7,Commissioner of Agriculture,,REP,Trey Blocker,6,0,4,10
-Young,7,Railroad Commissioner,,REP,Christi Craddick,18,3,15,36
-Young,7,Railroad Commissioner,,REP,Weston Martinez,13,0,3,16
-Young,7,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,26,2,16,44
-Young,7,"Justice, Supreme Court, Place 4",,REP,John Devine,25,2,15,42
-Young,7,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,25,2,16,43
-Young,7,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,24,2,15,41
-Young,7,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,3,1,3,7
-Young,7,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,25,2,16,43
-Young,7,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,12,3,10,25
-Young,7,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,5,0,4,9
-Young,7,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,11,0,3,14
-Young,7,State Senator,30,REP,Pat Fallon,16,4,15,35
-Young,7,State Senator,30,REP,Craig Carter,6,0,3,9
-Young,7,State Senator,30,REP,Craig Estes,11,0,4,15
-Young,7,State Representative,68,REP,Drew Springer,28,2,18,48
-Young,7,"Chief Justice, 2nd Court of Appeals District",,REP,Bonnie Sudderth,25,2,17,44
-Young,7,"Justice, 2nd Court of Appeals District, Place No. 4",,REP,Wade Birdwell,24,2,17,43
-Young,7,"Justice, 2nd Court of Appeals District, Place No. 5",,REP,Dabney Bassel,23,2,14,39
-Young,7,"Justice, 2nd Court of Appeals District, Place No. 6",,REP,Mark Pittman,24,2,16,42
-Young,7,County Judge,,REP,John C. Bullock,29,2,15,46
-Young,7,County Judge,,REP,Paul M. Hemphill,6,2,7,15
-Young,7,District Clerk,,REP,Jamie Freeze Land,26,3,17,46
-Young,7,County Clerk,,REP,Kay Jennings Hardin,27,2,16,45
-Young,7,County Treasurer,,REP,Ann B. Daily,26,3,17,46
-Young,7,"County Commissioner, Precinct No. 2",,REP,Matt Pruitt,16,1,13,30
-Young,7,"County Commissioner, Precinct No. 2",,REP,Larry Pratt,15,2,8,25
-Young,7,"County Commissioner, Precinct No. 2",,REP,Les Remington,2,1,1,4
-Young,7,"Justice of the Peace, Precinct No. 3",,REP,Stan G. Mahler,13,2,7,22
-Young,7,"Justice of the Peace, Precinct No. 3",,REP,Becky Perez,17,3,15,35
-Young,7,"Constable, Precinct No. 3 Unexpired Term",,REP,Cliff Blackstock,18,2,16,36
-Young,7,"Constable, Precinct No. 3 Unexpired Term",,REP,Larry Thacker,14,2,3,19
-Young,7,County Chairman,,REP,Kyle Zohn Milam,24,2,18,44
-Young,7,U.S. Senate,,DEM,Edward Kimbrough,1,0,0,1
-Young,7,U.S. Senate,,DEM,Beto O'Rourke,1,0,2,3
+Young,7,Lieutenant Governor,,REP,Scott Milder,17,10,7,0
+Young,7,Lieutenant Governor,,REP,Dan Patrick,40,23,14,3
+Young,7,Attorney General,,REP,Ken Paxton,51,32,17,2
+Young,7,Comptroller of Public Accounts,,REP,Glenn Hegar,49,29,18,2
+Young,7,Commissioner of the General Land Office,,REP,Rick Range,4,0,4,0
+Young,7,Commissioner of the General Land Office,,REP,George P. Bush,26,16,8,2
+Young,7,Commissioner of the General Land Office,,REP,Jerry Patterson,21,11,8,2
+Young,7,Commissioner of the General Land Office,,REP,Davey Edwards,6,5,1,0
+Young,7,Commissioner of Agriculture,,REP,Jim Hogan,17,11,5,1
+Young,7,Commissioner of Agriculture,,REP,Sid Miller,29,17,10,2
+Young,7,Commissioner of Agriculture,,REP,Trey Blocker,10,6,4,0
+Young,7,Railroad Commissioner,,REP,Christi Craddick,36,18,15,3
+Young,7,Railroad Commissioner,,REP,Weston Martinez,16,13,3,0
+Young,7,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,44,26,16,2
+Young,7,"Justice, Supreme Court, Place 4",,REP,John Devine,42,25,15,2
+Young,7,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,43,25,16,2
+Young,7,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,41,24,15,2
+Young,7,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,7,3,3,1
+Young,7,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,43,25,16,2
+Young,7,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,25,12,10,3
+Young,7,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,9,5,4,0
+Young,7,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,14,11,3,0
+Young,7,State Senator,30,REP,Pat Fallon,35,16,15,4
+Young,7,State Senator,30,REP,Craig Carter,9,6,3,0
+Young,7,State Senator,30,REP,Craig Estes,15,11,4,0
+Young,7,State Representative,68,REP,Drew Springer,48,28,18,2
+Young,7,"Chief Justice, 2nd Court of Appeals District",,REP,Bonnie Sudderth,44,25,17,2
+Young,7,"Justice, 2nd Court of Appeals District, Place No. 4",,REP,Wade Birdwell,43,24,17,2
+Young,7,"Justice, 2nd Court of Appeals District, Place No. 5",,REP,Dabney Bassel,39,23,14,2
+Young,7,"Justice, 2nd Court of Appeals District, Place No. 6",,REP,Mark Pittman,42,24,16,2
+Young,7,County Judge,,REP,John C. Bullock,46,29,15,2
+Young,7,County Judge,,REP,Paul M. Hemphill,15,6,7,2
+Young,7,District Clerk,,REP,Jamie Freeze Land,46,26,17,3
+Young,7,County Clerk,,REP,Kay Jennings Hardin,45,27,16,2
+Young,7,County Treasurer,,REP,Ann B. Daily,46,26,17,3
+Young,7,"County Commissioner, Precinct No. 2",,REP,Matt Pruitt,30,16,13,1
+Young,7,"County Commissioner, Precinct No. 2",,REP,Larry Pratt,25,15,8,2
+Young,7,"County Commissioner, Precinct No. 2",,REP,Les Remington,4,2,1,1
+Young,7,"Justice of the Peace, Precinct No. 3",,REP,Stan G. Mahler,22,13,7,2
+Young,7,"Justice of the Peace, Precinct No. 3",,REP,Becky Perez,35,17,15,3
+Young,7,"Constable, Precinct No. 3 Unexpired Term",,REP,Cliff Blackstock,36,18,16,2
+Young,7,"Constable, Precinct No. 3 Unexpired Term",,REP,Larry Thacker,19,14,3,2
+Young,7,County Chairman,,REP,Kyle Zohn Milam,44,24,18,2
+Young,7,U.S. Senate,,DEM,Edward Kimbrough,1,1,0,0
+Young,7,U.S. Senate,,DEM,Beto O'Rourke,3,1,2,0
 Young,7,U.S. Senate,,DEM,Sema Hernandez,0,0,0,0
-Young,7,U.S. House,19,DEM,Miguel Levario,1,0,2,3
-Young,7,Governor,,DEM,"Cedric Davis, Sr.",0,0,1,1
+Young,7,U.S. House,19,DEM,Miguel Levario,3,1,2,0
+Young,7,Governor,,DEM,"Cedric Davis, Sr.",1,0,1,0
 Young,7,Governor,,DEM,Joe Mumbach,0,0,0,0
 Young,7,Governor,,DEM,Jeffrey Payne,0,0,0,0
 Young,7,Governor,,DEM,James Jolly Clark,0,0,0,0
-Young,7,Governor,,DEM,Grady Yarbrough,1,0,1,2
+Young,7,Governor,,DEM,Grady Yarbrough,2,1,1,0
 Young,7,Governor,,DEM,Tom Wakely,0,0,0,0
 Young,7,Governor,,DEM,Andrew White,0,0,0,0
 Young,7,Governor,,DEM,Adrian Ocegueda,0,0,0,0
 Young,7,Governor,,DEM,Lupe Valdez,0,0,0,0
-Young,7,Lieutenant Governor,,DEM,Mike Collier,0,0,1,1
-Young,7,Lieutenant Governor,,DEM,Michael Cooper,1,0,0,1
-Young,7,Attorney General,,DEM,Justin Nelson,1,0,1,2
-Young,7,Comptroller of Public Accounts,,DEM,Tim Mahoney,1,0,0,1
+Young,7,Lieutenant Governor,,DEM,Mike Collier,1,0,1,0
+Young,7,Lieutenant Governor,,DEM,Michael Cooper,1,1,0,0
+Young,7,Attorney General,,DEM,Justin Nelson,2,1,1,0
+Young,7,Comptroller of Public Accounts,,DEM,Tim Mahoney,1,1,0,0
 Young,7,Comptroller of Public Accounts,,DEM,Joi Chevalier,0,0,0,0
 Young,7,Commissioner of the General Land Office,,DEM,Miguel Suazo,0,0,0,0
-Young,7,Commissioner of the General Land Office,,DEM,Tex Morgan,1,0,0,1
-Young,7,Commissioner of Agriculture,,DEM,Kim Olson,1,0,1,2
+Young,7,Commissioner of the General Land Office,,DEM,Tex Morgan,1,1,0,0
+Young,7,Commissioner of Agriculture,,DEM,Kim Olson,2,1,1,0
 Young,7,Railroad Commissioner,,DEM,Roman McAllen,0,0,0,0
-Young,7,Railroad Commissioner,,DEM,Chris Spellmon,1,0,0,1
-Young,7,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,1,0,1,2
-Young,7,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,1,0,1,2
-Young,7,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,1,0,1,2
-Young,7,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,1,0,1,2
-Young,7,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,1,0,1,2
-Young,7,State Senator,30,DEM,Kevin Lopez,0,0,1,1
-Young,7,"Justice, 2nd Court of Appeals District, Place No. 5",,DEM,Delonia A. Watson,1,0,1,2
-Young,7,County Chairman,,DEM,Fran Edens,1,0,1,2
-Young,7,Proposition #1,,DEM,Yes,2,0,1,3
-Young,7,Proposition #1,,DEM,No,0,0,1,1
-Young,7,Proposition #2,,DEM,Yes,1,0,2,3
-Young,7,Proposition #2,,DEM,No,1,0,0,1
-Young,7,Proposition #3,,DEM,Yes,2,0,2,4
+Young,7,Railroad Commissioner,,DEM,Chris Spellmon,1,1,0,0
+Young,7,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,2,1,1,0
+Young,7,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,2,1,1,0
+Young,7,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,2,1,1,0
+Young,7,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,2,1,1,0
+Young,7,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,2,1,1,0
+Young,7,State Senator,30,DEM,Kevin Lopez,1,0,1,0
+Young,7,"Justice, 2nd Court of Appeals District, Place No. 5",,DEM,Delonia A. Watson,2,1,1,0
+Young,7,County Chairman,,DEM,Fran Edens,2,1,1,0
+Young,7,Proposition #1,,DEM,Yes,3,2,1,0
+Young,7,Proposition #1,,DEM,No,1,0,1,0
+Young,7,Proposition #2,,DEM,Yes,3,1,2,0
+Young,7,Proposition #2,,DEM,No,1,1,0,0
+Young,7,Proposition #3,,DEM,Yes,4,2,2,0
 Young,7,Proposition #3,,DEM,No,0,0,0,0
-Young,7,Proposition #4,,DEM,Yes,2,0,2,4
+Young,7,Proposition #4,,DEM,Yes,4,2,2,0
 Young,7,Proposition #4,,DEM,No,0,0,0,0
-Young,7,Proposition #5,,DEM,Yes,2,0,2,4
+Young,7,Proposition #5,,DEM,Yes,4,2,2,0
 Young,7,Proposition #5,,DEM,No,0,0,0,0
-Young,7,Proposition #6,,DEM,Yes,2,0,1,3
-Young,7,Proposition #6,,DEM,No,0,0,1,1
-Young,7,Proposition #7,,DEM,Yes,2,0,1,3
-Young,7,Proposition #7,,DEM,No,0,0,1,1
-Young,7,Proposition #8,,DEM,Yes,2,0,2,4
+Young,7,Proposition #6,,DEM,Yes,3,2,1,0
+Young,7,Proposition #6,,DEM,No,1,0,1,0
+Young,7,Proposition #7,,DEM,Yes,3,2,1,0
+Young,7,Proposition #7,,DEM,No,1,0,1,0
+Young,7,Proposition #8,,DEM,Yes,4,2,2,0
 Young,7,Proposition #8,,DEM,No,0,0,0,0
-Young,7,Proposition #9,,DEM,Yes,2,0,2,4
+Young,7,Proposition #9,,DEM,Yes,4,2,2,0
 Young,7,Proposition #9,,DEM,No,0,0,0,0
-Young,7,Proposition #10,,DEM,Yes,2,0,1,3
-Young,7,Proposition #10,,DEM,No,0,0,1,1
-Young,7,Proposition #11,,DEM,Yes,2,0,1,3
-Young,7,Proposition #11,,DEM,No,0,0,1,1
-Young,7,Proposition #12,,DEM,Yes,2,0,2,4
+Young,7,Proposition #10,,DEM,Yes,3,2,1,0
+Young,7,Proposition #10,,DEM,No,1,0,1,0
+Young,7,Proposition #11,,DEM,Yes,3,2,1,0
+Young,7,Proposition #11,,DEM,No,1,0,1,0
+Young,7,Proposition #12,,DEM,Yes,4,2,2,0
 Young,7,Proposition #12,,DEM,No,0,0,0,0
-Young,7,Proposition 1,,DEM,YES,20,2,17,39
-Young,7,Proposition 1,,DEM,NO,9,2,5,16
-Young,7,Proposition 2,,DEM,YES,31,4,20,55
-Young,7,Proposition 2,,DEM,NO,0,0,2,2
-Young,7,Proposition 3,,DEM,YES,26,4,18,48
-Young,7,Proposition 3,,DEM,NO,8,0,4,12
-Young,7,Proposition 4,,DEM,YES,31,4,20,55
-Young,7,Proposition 4,,DEM,NO,2,0,1,3
-Young,7,Proposition 5,,DEM,YES,22,0,17,39
-Young,7,Proposition 5,,DEM,NO,12,4,4,20
-Young,7,Proposition 6,,DEM,YES,32,4,22,58
-Young,7,Proposition 6,,DEM,NO,1,0,0,1
-Young,7,Proposition 7,,DEM,YES,26,2,16,44
-Young,7,Proposition 7,,DEM,NO,7,2,5,14
-Young,7,Proposition 8,,DEM,YES,32,4,22,58
-Young,7,Proposition 8,,DEM,NO,1,0,0,1
-Young,7,Proposition 9,,DEM,YES,26,4,21,51
-Young,7,Proposition 9,,DEM,NO,5,0,0,5
-Young,7,Proposition 10,,DEM,YES,32,4,20,56
-Young,7,Proposition 10,,DEM,NO,1,0,2,3
-Young,7,Proposition 11,,DEM,YES,31,4,19,54
-Young,7,Proposition 11,,DEM,NO,2,0,3,5
-Young,10,U.S. Senate,,REP,Ted Cruz,75,15,11,101
-Young,10,U.S. Senate,,REP,"Bruce Jacobson, Jr.",2,1,1,4
-Young,10,U.S. Senate,,REP,Geraldine Sam,1,0,0,1
+Young,7,Proposition 1,,DEM,YES,39,20,17,2
+Young,7,Proposition 1,,DEM,NO,16,9,5,2
+Young,7,Proposition 2,,DEM,YES,55,31,20,4
+Young,7,Proposition 2,,DEM,NO,2,0,2,0
+Young,7,Proposition 3,,DEM,YES,48,26,18,4
+Young,7,Proposition 3,,DEM,NO,12,8,4,0
+Young,7,Proposition 4,,DEM,YES,55,31,20,4
+Young,7,Proposition 4,,DEM,NO,3,2,1,0
+Young,7,Proposition 5,,DEM,YES,39,22,17,0
+Young,7,Proposition 5,,DEM,NO,20,12,4,4
+Young,7,Proposition 6,,DEM,YES,58,32,22,4
+Young,7,Proposition 6,,DEM,NO,1,1,0,0
+Young,7,Proposition 7,,DEM,YES,44,26,16,2
+Young,7,Proposition 7,,DEM,NO,14,7,5,2
+Young,7,Proposition 8,,DEM,YES,58,32,22,4
+Young,7,Proposition 8,,DEM,NO,1,1,0,0
+Young,7,Proposition 9,,DEM,YES,51,26,21,4
+Young,7,Proposition 9,,DEM,NO,5,5,0,0
+Young,7,Proposition 10,,DEM,YES,56,32,20,4
+Young,7,Proposition 10,,DEM,NO,3,1,2,0
+Young,7,Proposition 11,,DEM,YES,54,31,19,4
+Young,7,Proposition 11,,DEM,NO,5,2,3,0
+Young,10,U.S. Senate,,REP,Ted Cruz,101,75,11,15
+Young,10,U.S. Senate,,REP,"Bruce Jacobson, Jr.",4,2,1,1
+Young,10,U.S. Senate,,REP,Geraldine Sam,1,1,0,0
 Young,10,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
-Young,10,U.S. Senate,,REP,Mary Miller,2,0,0,2
-Young,10,U.S. House,19,REP,Jodey Arrington,68,13,8,89
-Young,10,Governor,,REP,Greg Abbott,76,18,12,106
-Young,10,Governor,,REP,Barbara Krueger,4,1,0,5
+Young,10,U.S. Senate,,REP,Mary Miller,2,2,0,0
+Young,10,U.S. House,19,REP,Jodey Arrington,89,68,8,13
+Young,10,Governor,,REP,Greg Abbott,106,76,12,18
+Young,10,Governor,,REP,Barbara Krueger,5,4,0,1
 Young,10,Governor,,REP,SECEDE Kilgore,0,0,0,0
-Young,10,Lieutenant Governor,,REP,Scott Milder,20,4,3,27
-Young,10,Lieutenant Governor,,REP,Dan Patrick,53,12,8,73
-Young,10,Attorney General,,REP,Ken Paxton,69,14,8,91
-Young,10,Comptroller of Public Accounts,,REP,Glenn Hegar,65,12,8,85
-Young,10,Commissioner of the General Land Office,,REP,Rick Range,9,2,1,12
-Young,10,Commissioner of the General Land Office,,REP,George P. Bush,41,10,8,59
-Young,10,Commissioner of the General Land Office,,REP,Jerry Patterson,16,3,0,19
-Young,10,Commissioner of the General Land Office,,REP,Davey Edwards,6,1,1,8
-Young,10,Commissioner of Agriculture,,REP,Jim Hogan,16,5,4,25
-Young,10,Commissioner of Agriculture,,REP,Sid Miller,34,5,5,44
-Young,10,Commissioner of Agriculture,,REP,Trey Blocker,16,4,1,21
-Young,10,Railroad Commissioner,,REP,Christi Craddick,44,14,9,67
-Young,10,Railroad Commissioner,,REP,Weston Martinez,17,1,1,19
-Young,10,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,59,11,7,77
-Young,10,"Justice, Supreme Court, Place 4",,REP,John Devine,57,11,7,75
-Young,10,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,59,11,8,78
-Young,10,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,48,14,4,66
-Young,10,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,14,1,5,20
-Young,10,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,55,12,8,75
-Young,10,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,36,7,3,46
-Young,10,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,13,6,6,25
-Young,10,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,5,1,0,6
-Young,10,State Senator,30,REP,Pat Fallon,40,14,7,61
-Young,10,State Senator,30,REP,Craig Carter,13,0,1,14
-Young,10,State Senator,30,REP,Craig Estes,25,5,3,33
-Young,10,State Representative,68,REP,Drew Springer,64,15,10,89
-Young,10,"Chief Justice, 2nd Court of Appeals District",,REP,Bonnie Sudderth,53,11,8,72
-Young,10,"Justice, 2nd Court of Appeals District, Place No. 4",,REP,Wade Birdwell,56,12,8,76
-Young,10,"Justice, 2nd Court of Appeals District, Place No. 5",,REP,Dabney Bassel,53,12,7,72
-Young,10,"Justice, 2nd Court of Appeals District, Place No. 6",,REP,Mark Pittman,56,12,7,75
-Young,10,County Judge,,REP,John C. Bullock,64,16,9,89
-Young,10,County Judge,,REP,Paul M. Hemphill,20,3,4,27
-Young,10,District Clerk,,REP,Jamie Freeze Land,62,13,10,85
-Young,10,County Clerk,,REP,Kay Jennings Hardin,62,13,10,85
-Young,10,County Treasurer,,REP,Ann B. Daily,63,13,10,86
-Young,10,"Justice of the Peace, Precinct No. 3",,REP,Stan G. Mahler,31,7,4,42
-Young,10,"Justice of the Peace, Precinct No. 3",,REP,Becky Perez,49,12,9,70
-Young,10,"Constable, Precinct No. 3 Unexpired Term",,REP,Cliff Blackstock,44,10,6,60
-Young,10,"Constable, Precinct No. 3 Unexpired Term",,REP,Larry Thacker,24,8,5,37
-Young,10,County Chairman,,REP,Kyle Zohn Milam,59,12,10,81
-Young,10,U.S. Senate,,REP,Edward Kimbrough,2,0,0,2
-Young,10,U.S. Senate,,REP,Beto O'Rourke,2,0,0,2
+Young,10,Lieutenant Governor,,REP,Scott Milder,27,20,3,4
+Young,10,Lieutenant Governor,,REP,Dan Patrick,73,53,8,12
+Young,10,Attorney General,,REP,Ken Paxton,91,69,8,14
+Young,10,Comptroller of Public Accounts,,REP,Glenn Hegar,85,65,8,12
+Young,10,Commissioner of the General Land Office,,REP,Rick Range,12,9,1,2
+Young,10,Commissioner of the General Land Office,,REP,George P. Bush,59,41,8,10
+Young,10,Commissioner of the General Land Office,,REP,Jerry Patterson,19,16,0,3
+Young,10,Commissioner of the General Land Office,,REP,Davey Edwards,8,6,1,1
+Young,10,Commissioner of Agriculture,,REP,Jim Hogan,25,16,4,5
+Young,10,Commissioner of Agriculture,,REP,Sid Miller,44,34,5,5
+Young,10,Commissioner of Agriculture,,REP,Trey Blocker,21,16,1,4
+Young,10,Railroad Commissioner,,REP,Christi Craddick,67,44,9,14
+Young,10,Railroad Commissioner,,REP,Weston Martinez,19,17,1,1
+Young,10,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,77,59,7,11
+Young,10,"Justice, Supreme Court, Place 4",,REP,John Devine,75,57,7,11
+Young,10,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,78,59,8,11
+Young,10,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,66,48,4,14
+Young,10,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,20,14,5,1
+Young,10,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,75,55,8,12
+Young,10,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,46,36,3,7
+Young,10,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,25,13,6,6
+Young,10,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,6,5,0,1
+Young,10,State Senator,30,REP,Pat Fallon,61,40,7,14
+Young,10,State Senator,30,REP,Craig Carter,14,13,1,0
+Young,10,State Senator,30,REP,Craig Estes,33,25,3,5
+Young,10,State Representative,68,REP,Drew Springer,89,64,10,15
+Young,10,"Chief Justice, 2nd Court of Appeals District",,REP,Bonnie Sudderth,72,53,8,11
+Young,10,"Justice, 2nd Court of Appeals District, Place No. 4",,REP,Wade Birdwell,76,56,8,12
+Young,10,"Justice, 2nd Court of Appeals District, Place No. 5",,REP,Dabney Bassel,72,53,7,12
+Young,10,"Justice, 2nd Court of Appeals District, Place No. 6",,REP,Mark Pittman,75,56,7,12
+Young,10,County Judge,,REP,John C. Bullock,89,64,9,16
+Young,10,County Judge,,REP,Paul M. Hemphill,27,20,4,3
+Young,10,District Clerk,,REP,Jamie Freeze Land,85,62,10,13
+Young,10,County Clerk,,REP,Kay Jennings Hardin,85,62,10,13
+Young,10,County Treasurer,,REP,Ann B. Daily,86,63,10,13
+Young,10,"Justice of the Peace, Precinct No. 3",,REP,Stan G. Mahler,42,31,4,7
+Young,10,"Justice of the Peace, Precinct No. 3",,REP,Becky Perez,70,49,9,12
+Young,10,"Constable, Precinct No. 3 Unexpired Term",,REP,Cliff Blackstock,60,44,6,10
+Young,10,"Constable, Precinct No. 3 Unexpired Term",,REP,Larry Thacker,37,24,5,8
+Young,10,County Chairman,,REP,Kyle Zohn Milam,81,59,10,12
+Young,10,U.S. Senate,,REP,Edward Kimbrough,2,2,0,0
+Young,10,U.S. Senate,,REP,Beto O'Rourke,2,2,0,0
 Young,10,U.S. Senate,,REP,Sema Hernandez,0,0,0,0
-Young,10,U.S. House,19,DEM,Miguel Levario,3,0,0,3
-Young,10,Governor,,DEM,"Cedric Davis, Sr.",1,0,0,1
+Young,10,U.S. House,19,DEM,Miguel Levario,3,3,0,0
+Young,10,Governor,,DEM,"Cedric Davis, Sr.",1,1,0,0
 Young,10,Governor,,DEM,Joe Mumbach,0,0,0,0
 Young,10,Governor,,DEM,Jeffrey Payne,0,0,0,0
-Young,10,Governor,,DEM,James Jolly Clark,1,0,0,1
+Young,10,Governor,,DEM,James Jolly Clark,1,1,0,0
 Young,10,Governor,,DEM,Grady Yarbrough,0,0,0,0
 Young,10,Governor,,DEM,Tom Wakely,0,0,0,0
-Young,10,Governor,,DEM,Andrew White,1,0,0,1
+Young,10,Governor,,DEM,Andrew White,1,1,0,0
 Young,10,Governor,,DEM,Adrian Ocegueda,0,0,0,0
 Young,10,Governor,,DEM,Lupe Valdez,0,0,0,0
-Young,10,Lieutenant Governor,,DEM,Mike Collier,3,0,0,3
-Young,10,Lieutenant Governor,,DEM,Michael Cooper,1,0,0,1
-Young,10,Attorney General,,DEM,Justin Nelson,3,0,0,3
-Young,10,Comptroller of Public Accounts,,DEM,Tim Mahoney,4,0,0,4
+Young,10,Lieutenant Governor,,DEM,Mike Collier,3,3,0,0
+Young,10,Lieutenant Governor,,DEM,Michael Cooper,1,1,0,0
+Young,10,Attorney General,,DEM,Justin Nelson,3,3,0,0
+Young,10,Comptroller of Public Accounts,,DEM,Tim Mahoney,4,4,0,0
 Young,10,Comptroller of Public Accounts,,DEM,Joi Chevalier,0,0,0,0
 Young,10,Commissioner of the General Land Office,,DEM,Miguel Suazo,0,0,0,0
-Young,10,Commissioner of the General Land Office,,DEM,Tex Morgan,3,0,0,3
-Young,10,Commissioner of Agriculture,,DEM,Kim Olson,4,0,0,4
-Young,10,Railroad Commissioner,,DEM,Roman McAllen,1,0,0,1
-Young,10,Railroad Commissioner,,DEM,Chris Spellmon,3,0,0,3
-Young,10,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,4,0,0,4
-Young,10,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,4,0,0,4
-Young,10,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,2,0,0,2
-Young,10,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,4,0,0,4
-Young,10,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,2,0,0,2
-Young,10,State Senator,30,DEM,Kevin Lopez,3,0,0,3
-Young,10,"Justice, 2nd Court of Appeals District, Place No. 5",,DEM,Delonia A. Watson,3,0,0,3
-Young,10,County Chairman,,DEM,Fran Edens,2,0,0,2
-Young,10,Proposition #1,,DEM,Yes,4,0,0,4
+Young,10,Commissioner of the General Land Office,,DEM,Tex Morgan,3,3,0,0
+Young,10,Commissioner of Agriculture,,DEM,Kim Olson,4,4,0,0
+Young,10,Railroad Commissioner,,DEM,Roman McAllen,1,1,0,0
+Young,10,Railroad Commissioner,,DEM,Chris Spellmon,3,3,0,0
+Young,10,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,4,4,0,0
+Young,10,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,4,4,0,0
+Young,10,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,2,2,0,0
+Young,10,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,4,4,0,0
+Young,10,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,2,2,0,0
+Young,10,State Senator,30,DEM,Kevin Lopez,3,3,0,0
+Young,10,"Justice, 2nd Court of Appeals District, Place No. 5",,DEM,Delonia A. Watson,3,3,0,0
+Young,10,County Chairman,,DEM,Fran Edens,2,2,0,0
+Young,10,Proposition #1,,DEM,Yes,4,4,0,0
 Young,10,Proposition #1,,DEM,No,0,0,0,0
-Young,10,Proposition #2,,DEM,Yes,3,0,0,3
+Young,10,Proposition #2,,DEM,Yes,3,3,0,0
 Young,10,Proposition #2,,DEM,No,0,0,0,0
-Young,10,Proposition #3,,DEM,Yes,3,0,0,3
+Young,10,Proposition #3,,DEM,Yes,3,3,0,0
 Young,10,Proposition #3,,DEM,No,0,0,0,0
-Young,10,Proposition #4,,DEM,Yes,2,0,0,2
-Young,10,Proposition #4,,DEM,No,1,0,0,1
-Young,10,Proposition #5,,DEM,Yes,3,0,0,3
+Young,10,Proposition #4,,DEM,Yes,2,2,0,0
+Young,10,Proposition #4,,DEM,No,1,1,0,0
+Young,10,Proposition #5,,DEM,Yes,3,3,0,0
 Young,10,Proposition #5,,DEM,No,0,0,0,0
-Young,10,Proposition #6,,DEM,Yes,3,0,0,3
+Young,10,Proposition #6,,DEM,Yes,3,3,0,0
 Young,10,Proposition #6,,DEM,No,0,0,0,0
-Young,10,Proposition #7,,DEM,Yes,4,0,0,4
+Young,10,Proposition #7,,DEM,Yes,4,4,0,0
 Young,10,Proposition #7,,DEM,No,0,0,0,0
-Young,10,Proposition #8,,DEM,Yes,2,0,0,2
-Young,10,Proposition #8,,DEM,No,1,0,0,1
-Young,10,Proposition #9,,DEM,Yes,3,0,0,3
-Young,10,Proposition #9,,DEM,No,1,0,0,1
-Young,10,Proposition #10,,DEM,Yes,4,0,0,4
+Young,10,Proposition #8,,DEM,Yes,2,2,0,0
+Young,10,Proposition #8,,DEM,No,1,1,0,0
+Young,10,Proposition #9,,DEM,Yes,3,3,0,0
+Young,10,Proposition #9,,DEM,No,1,1,0,0
+Young,10,Proposition #10,,DEM,Yes,4,4,0,0
 Young,10,Proposition #10,,DEM,No,0,0,0,0
-Young,10,Proposition #11,,DEM,Yes,3,0,0,3
+Young,10,Proposition #11,,DEM,Yes,3,3,0,0
 Young,10,Proposition #11,,DEM,No,0,0,0,0
-Young,10,Proposition #12,,DEM,Yes,3,0,0,3
+Young,10,Proposition #12,,DEM,Yes,3,3,0,0
 Young,10,Proposition #12,,DEM,No,0,0,0,0
-Young,10,Proposition 1,,DEM,YES,44,6,4,54
-Young,10,Proposition 1,,DEM,NO,28,11,7,46
-Young,10,Proposition 2,,DEM,YES,80,15,12,107
-Young,10,Proposition 2,,DEM,NO,1,1,0,2
-Young,10,Proposition 3,,DEM,YES,74,14,9,97
-Young,10,Proposition 3,,DEM,NO,3,2,2,7
-Young,10,Proposition 4,,DEM,YES,64,15,10,89
-Young,10,Proposition 4,,DEM,NO,11,1,1,13
-Young,10,Proposition 5,,DEM,YES,55,14,7,76
-Young,10,Proposition 5,,DEM,NO,22,2,2,26
-Young,10,Proposition 6,,DEM,YES,76,16,10,102
-Young,10,Proposition 6,,DEM,NO,6,0,1,7
-Young,10,Proposition 7,,DEM,YES,64,12,4,80
-Young,10,Proposition 7,,DEM,NO,14,4,5,23
-Young,10,Proposition 8,,DEM,YES,77,16,11,104
-Young,10,Proposition 8,,DEM,NO,3,0,1,4
-Young,10,Proposition 9,,DEM,YES,76,16,6,98
-Young,10,Proposition 9,,DEM,NO,3,0,1,4
-Young,10,Proposition 10,,DEM,YES,77,16,11,104
-Young,10,Proposition 10,,DEM,NO,2,0,1,3
-Young,10,Proposition 11,,DEM,YES,72,16,8,96
-Young,10,Proposition 11,,DEM,NO,9,0,4,13
-Young,16,U.S. Senate,,REP,Ted Cruz,57,3,12,72
+Young,10,Proposition 1,,DEM,YES,54,44,4,6
+Young,10,Proposition 1,,DEM,NO,46,28,7,11
+Young,10,Proposition 2,,DEM,YES,107,80,12,15
+Young,10,Proposition 2,,DEM,NO,2,1,0,1
+Young,10,Proposition 3,,DEM,YES,97,74,9,14
+Young,10,Proposition 3,,DEM,NO,7,3,2,2
+Young,10,Proposition 4,,DEM,YES,89,64,10,15
+Young,10,Proposition 4,,DEM,NO,13,11,1,1
+Young,10,Proposition 5,,DEM,YES,76,55,7,14
+Young,10,Proposition 5,,DEM,NO,26,22,2,2
+Young,10,Proposition 6,,DEM,YES,102,76,10,16
+Young,10,Proposition 6,,DEM,NO,7,6,1,0
+Young,10,Proposition 7,,DEM,YES,80,64,4,12
+Young,10,Proposition 7,,DEM,NO,23,14,5,4
+Young,10,Proposition 8,,DEM,YES,104,77,11,16
+Young,10,Proposition 8,,DEM,NO,4,3,1,0
+Young,10,Proposition 9,,DEM,YES,98,76,6,16
+Young,10,Proposition 9,,DEM,NO,4,3,1,0
+Young,10,Proposition 10,,DEM,YES,104,77,11,16
+Young,10,Proposition 10,,DEM,NO,3,2,1,0
+Young,10,Proposition 11,,DEM,YES,96,72,8,16
+Young,10,Proposition 11,,DEM,NO,13,9,4,0
+Young,16,U.S. Senate,,REP,Ted Cruz,72,57,12,3
 Young,16,U.S. Senate,,REP,"Bruce Jacobson, Jr.",0,0,0,0
-Young,16,U.S. Senate,,REP,Geraldine Sam,2,0,0,2
-Young,16,U.S. Senate,,REP,Stefano de Stefano,0,0,1,1
-Young,16,U.S. Senate,,REP,Mary Miller,3,0,0,3
-Young,16,U.S. House,19,REP,Jodey Arrington,54,2,11,67
-Young,16,Governor,,REP,Greg Abbott,57,3,13,73
-Young,16,Governor,,REP,Barbara Krueger,4,0,1,5
+Young,16,U.S. Senate,,REP,Geraldine Sam,2,2,0,0
+Young,16,U.S. Senate,,REP,Stefano de Stefano,1,0,1,0
+Young,16,U.S. Senate,,REP,Mary Miller,3,3,0,0
+Young,16,U.S. House,19,REP,Jodey Arrington,67,54,11,2
+Young,16,Governor,,REP,Greg Abbott,73,57,13,3
+Young,16,Governor,,REP,Barbara Krueger,5,4,1,0
 Young,16,Governor,,REP,SECEDE Kilgore,0,0,0,0
-Young,16,Lieutenant Governor,,REP,Scott Milder,17,0,5,22
-Young,16,Lieutenant Governor,,REP,Dan Patrick,40,3,7,50
-Young,16,Attorney General,,REP,Ken Paxton,52,3,13,68
-Young,16,Comptroller of Public Accounts,,REP,Glenn Hegar,52,3,11,66
-Young,16,Commissioner of the General Land Office,,REP,Rick Range,14,0,0,14
-Young,16,Commissioner of the General Land Office,,REP,George P. Bush,16,2,8,26
-Young,16,Commissioner of the General Land Office,,REP,Jerry Patterson,18,1,3,22
-Young,16,Commissioner of the General Land Office,,REP,Davey Edwards,3,0,1,4
-Young,16,Commissioner of Agriculture,,REP,Jim Hogan,17,0,3,20
-Young,16,Commissioner of Agriculture,,REP,Sid Miller,28,3,7,38
-Young,16,Commissioner of Agriculture,,REP,Trey Blocker,10,0,1,11
-Young,16,Railroad Commissioner,,REP,Christi Craddick,47,1,11,59
-Young,16,Railroad Commissioner,,REP,Weston Martinez,6,2,0,8
-Young,16,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,49,3,11,63
-Young,16,"Justice, Supreme Court, Place 4",,REP,John Devine,48,3,10,61
-Young,16,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,47,3,10,60
-Young,16,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,29,1,9,39
-Young,16,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,21,2,2,25
-Young,16,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,46,3,9,58
-Young,16,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,25,0,4,29
-Young,16,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,15,1,2,18
-Young,16,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,8,2,4,14
-Young,16,State Senator,30,REP,Pat Fallon,44,3,14,61
-Young,16,State Senator,30,REP,Craig Carter,8,0,0,8
-Young,16,State Senator,30,REP,Craig Estes,9,0,0,9
-Young,16,State Representative,68,REP,Drew Springer,51,3,11,65
-Young,16,"Chief Justice, 2nd Court of Appeals District",,REP,Bonnie Sudderth,47,3,9,59
-Young,16,"Justice, 2nd Court of Appeals District, Place No. 4",,REP,Wade Birdwell,48,3,9,60
-Young,16,"Justice, 2nd Court of Appeals District, Place No. 5",,REP,Dabney Bassel,46,3,9,58
-Young,16,"Justice, 2nd Court of Appeals District, Place No. 6",,REP,Mark Pittman,46,3,9,58
-Young,16,County Judge,,REP,John C. Bullock,38,3,10,51
-Young,16,County Judge,,REP,Paul M. Hemphill,22,0,4,26
-Young,16,District Clerk,,REP,Jamie Freeze Land,50,3,10,63
-Young,16,County Clerk,,REP,Kay Jennings Hardin,54,3,12,69
-Young,16,County Treasurer,,REP,Ann B. Daily,55,3,10,68
-Young,16,"County Commissioner, Precinct No. 4",,REP,Jimmy Ray Wiley,56,3,14,73
-Young,16,"Justice of the Peace, Precinct No. 3",,REP,Stan G. Mahler,42,3,12,57
-Young,16,"Justice of the Peace, Precinct No. 3",,REP,Becky Perez,15,0,2,17
-Young,16,"Constable, Precinct No. 3 Unexpired Term",,REP,Cliff Blackstock,34,2,11,47
-Young,16,"Constable, Precinct No. 3 Unexpired Term",,REP,Larry Thacker,20,1,2,23
-Young,16,County Chairman,,REP,Kyle Zohn Milam,55,2,12,69
+Young,16,Lieutenant Governor,,REP,Scott Milder,22,17,5,0
+Young,16,Lieutenant Governor,,REP,Dan Patrick,50,40,7,3
+Young,16,Attorney General,,REP,Ken Paxton,68,52,13,3
+Young,16,Comptroller of Public Accounts,,REP,Glenn Hegar,66,52,11,3
+Young,16,Commissioner of the General Land Office,,REP,Rick Range,14,14,0,0
+Young,16,Commissioner of the General Land Office,,REP,George P. Bush,26,16,8,2
+Young,16,Commissioner of the General Land Office,,REP,Jerry Patterson,22,18,3,1
+Young,16,Commissioner of the General Land Office,,REP,Davey Edwards,4,3,1,0
+Young,16,Commissioner of Agriculture,,REP,Jim Hogan,20,17,3,0
+Young,16,Commissioner of Agriculture,,REP,Sid Miller,38,28,7,3
+Young,16,Commissioner of Agriculture,,REP,Trey Blocker,11,10,1,0
+Young,16,Railroad Commissioner,,REP,Christi Craddick,59,47,11,1
+Young,16,Railroad Commissioner,,REP,Weston Martinez,8,6,0,2
+Young,16,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,63,49,11,3
+Young,16,"Justice, Supreme Court, Place 4",,REP,John Devine,61,48,10,3
+Young,16,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,60,47,10,3
+Young,16,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,39,29,9,1
+Young,16,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,25,21,2,2
+Young,16,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,58,46,9,3
+Young,16,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,29,25,4,0
+Young,16,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,18,15,2,1
+Young,16,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,14,8,4,2
+Young,16,State Senator,30,REP,Pat Fallon,61,44,14,3
+Young,16,State Senator,30,REP,Craig Carter,8,8,0,0
+Young,16,State Senator,30,REP,Craig Estes,9,9,0,0
+Young,16,State Representative,68,REP,Drew Springer,65,51,11,3
+Young,16,"Chief Justice, 2nd Court of Appeals District",,REP,Bonnie Sudderth,59,47,9,3
+Young,16,"Justice, 2nd Court of Appeals District, Place No. 4",,REP,Wade Birdwell,60,48,9,3
+Young,16,"Justice, 2nd Court of Appeals District, Place No. 5",,REP,Dabney Bassel,58,46,9,3
+Young,16,"Justice, 2nd Court of Appeals District, Place No. 6",,REP,Mark Pittman,58,46,9,3
+Young,16,County Judge,,REP,John C. Bullock,51,38,10,3
+Young,16,County Judge,,REP,Paul M. Hemphill,26,22,4,0
+Young,16,District Clerk,,REP,Jamie Freeze Land,63,50,10,3
+Young,16,County Clerk,,REP,Kay Jennings Hardin,69,54,12,3
+Young,16,County Treasurer,,REP,Ann B. Daily,68,55,10,3
+Young,16,"County Commissioner, Precinct No. 4",,REP,Jimmy Ray Wiley,73,56,14,3
+Young,16,"Justice of the Peace, Precinct No. 3",,REP,Stan G. Mahler,57,42,12,3
+Young,16,"Justice of the Peace, Precinct No. 3",,REP,Becky Perez,17,15,2,0
+Young,16,"Constable, Precinct No. 3 Unexpired Term",,REP,Cliff Blackstock,47,34,11,2
+Young,16,"Constable, Precinct No. 3 Unexpired Term",,REP,Larry Thacker,23,20,2,1
+Young,16,County Chairman,,REP,Kyle Zohn Milam,69,55,12,2
 Young,16,U.S. Senate,,DEM,Edward Kimbrough,0,0,0,0
 Young,16,U.S. Senate,,DEM,Beto O'Rourke,0,0,0,0
-Young,16,U.S. Senate,,DEM,Sema Hernandez,1,0,0,1
+Young,16,U.S. Senate,,DEM,Sema Hernandez,1,1,0,0
 Young,16,U.S. House,19,DEM,Miguel Levario,0,0,0,0
 Young,16,Governor,,DEM,"Cedric Davis, Sr.",0,0,0,0
 Young,16,Governor,,DEM,Joe Mumbach,0,0,0,0
@@ -576,12 +576,12 @@ Young,16,Governor,,DEM,Andrew White,0,0,0,0
 Young,16,Governor,,DEM,Adrian Ocegueda,0,0,0,0
 Young,16,Governor,,DEM,Lupe Valdez,0,0,0,0
 Young,16,Lieutenant Governor,,DEM,Mike Collier,0,0,0,0
-Young,16,Lieutenant Governor,,DEM,Michael Cooper,1,0,0,1
+Young,16,Lieutenant Governor,,DEM,Michael Cooper,1,1,0,0
 Young,16,Attorney General,,DEM,Justin Nelson,0,0,0,0
 Young,16,Comptroller of Public Accounts,,DEM,Tim Mahoney,0,0,0,0
 Young,16,Comptroller of Public Accounts,,DEM,Joi Chevalier,0,0,0,0
 Young,16,Commissioner of the General Land Office,,DEM,Miguel Suazo,0,0,0,0
-Young,16,Commissioner of the General Land Office,,DEM,Tex Morgan,1,0,0,1
+Young,16,Commissioner of the General Land Office,,DEM,Tex Morgan,1,1,0,0
 Young,16,Commissioner of Agriculture,,DEM,Kim Olson,0,0,0,0
 Young,16,Railroad Commissioner,,DEM,Roman McAllen,0,0,0,0
 Young,16,Railroad Commissioner,,DEM,Chris Spellmon,0,0,0,0
@@ -594,554 +594,554 @@ Young,16,State Senator,30,DEM,Kevin Lopez,0,0,0,0
 Young,16,"Justice, 2nd Court of Appeals District, Place No. 5",,DEM,Delonia A. Watson,0,0,0,0
 Young,16,County Chairman,,DEM,Fran Edens,0,0,0,0
 Young,16,Proposition #1,,DEM,Yes,0,0,0,0
-Young,16,Proposition #1,,DEM,No,1,0,0,1
+Young,16,Proposition #1,,DEM,No,1,1,0,0
 Young,16,Proposition #2,,DEM,Yes,0,0,0,0
-Young,16,Proposition #2,,DEM,No,1,0,0,1
+Young,16,Proposition #2,,DEM,No,1,1,0,0
 Young,16,Proposition #3,,DEM,Yes,0,0,0,0
-Young,16,Proposition #3,,DEM,No,1,0,0,1
+Young,16,Proposition #3,,DEM,No,1,1,0,0
 Young,16,Proposition #4,,DEM,Yes,0,0,0,0
-Young,16,Proposition #4,,DEM,No,1,0,0,1
+Young,16,Proposition #4,,DEM,No,1,1,0,0
 Young,16,Proposition #5,,DEM,Yes,0,0,0,0
-Young,16,Proposition #5,,DEM,No,1,0,0,1
-Young,16,Proposition #6,,DEM,Yes,1,0,0,1
+Young,16,Proposition #5,,DEM,No,1,1,0,0
+Young,16,Proposition #6,,DEM,Yes,1,1,0,0
 Young,16,Proposition #6,,DEM,No,0,0,0,0
-Young,16,Proposition #7,,DEM,Yes,1,0,0,1
+Young,16,Proposition #7,,DEM,Yes,1,1,0,0
 Young,16,Proposition #7,,DEM,No,0,0,0,0
 Young,16,Proposition #8,,DEM,Yes,0,0,0,0
-Young,16,Proposition #8,,DEM,No,1,0,0,1
+Young,16,Proposition #8,,DEM,No,1,1,0,0
 Young,16,Proposition #9,,DEM,Yes,0,0,0,0
-Young,16,Proposition #9,,DEM,No,1,0,0,1
-Young,16,Proposition #10,,DEM,Yes,1,0,0,1
+Young,16,Proposition #9,,DEM,No,1,1,0,0
+Young,16,Proposition #10,,DEM,Yes,1,1,0,0
 Young,16,Proposition #10,,DEM,No,0,0,0,0
 Young,16,Proposition #11,,DEM,Yes,0,0,0,0
-Young,16,Proposition #11,,DEM,No,1,0,0,1
-Young,16,Proposition #12,,DEM,Yes,1,0,0,1
+Young,16,Proposition #11,,DEM,No,1,1,0,0
+Young,16,Proposition #12,,DEM,Yes,1,1,0,0
 Young,16,Proposition #12,,DEM,No,0,0,0,0
-Young,16,Proposition 1,,DEM,YES,34,3,6,43
-Young,16,Proposition 1,,DEM,NO,19,0,6,25
-Young,16,Proposition 2,,DEM,YES,53,3,8,64
-Young,16,Proposition 2,,DEM,NO,6,0,5,11
-Young,16,Proposition 3,,DEM,YES,59,3,12,74
-Young,16,Proposition 3,,DEM,NO,2,0,1,3
-Young,16,Proposition 4,,DEM,YES,53,3,10,66
-Young,16,Proposition 4,,DEM,NO,5,0,2,7
-Young,16,Proposition 5,,DEM,YES,52,3,10,65
-Young,16,Proposition 5,,DEM,NO,6,0,3,9
-Young,16,Proposition 6,,DEM,YES,56,3,11,70
-Young,16,Proposition 6,,DEM,NO,1,0,2,3
-Young,16,Proposition 7,,DEM,YES,42,2,8,52
-Young,16,Proposition 7,,DEM,NO,14,1,4,19
-Young,16,Proposition 8,,DEM,YES,60,3,12,75
+Young,16,Proposition 1,,DEM,YES,43,34,6,3
+Young,16,Proposition 1,,DEM,NO,25,19,6,0
+Young,16,Proposition 2,,DEM,YES,64,53,8,3
+Young,16,Proposition 2,,DEM,NO,11,6,5,0
+Young,16,Proposition 3,,DEM,YES,74,59,12,3
+Young,16,Proposition 3,,DEM,NO,3,2,1,0
+Young,16,Proposition 4,,DEM,YES,66,53,10,3
+Young,16,Proposition 4,,DEM,NO,7,5,2,0
+Young,16,Proposition 5,,DEM,YES,65,52,10,3
+Young,16,Proposition 5,,DEM,NO,9,6,3,0
+Young,16,Proposition 6,,DEM,YES,70,56,11,3
+Young,16,Proposition 6,,DEM,NO,3,1,2,0
+Young,16,Proposition 7,,DEM,YES,52,42,8,2
+Young,16,Proposition 7,,DEM,NO,19,14,4,1
+Young,16,Proposition 8,,DEM,YES,75,60,12,3
 Young,16,Proposition 8,,DEM,NO,0,0,0,0
-Young,16,Proposition 9,,DEM,YES,60,3,13,76
-Young,16,Proposition 9,,DEM,NO,1,0,0,1
-Young,16,Proposition 10,,DEM,YES,52,3,9,64
-Young,16,Proposition 10,,DEM,NO,7,0,4,11
-Young,16,Proposition 11,,DEM,YES,54,3,7,64
-Young,16,Proposition 11,,DEM,NO,6,0,5,11
-Young,20,U.S. Senate,,REP,Ted Cruz,15,3,17,35
-Young,20,U.S. Senate,,REP,"Bruce Jacobson, Jr.",1,0,1,2
+Young,16,Proposition 9,,DEM,YES,76,60,13,3
+Young,16,Proposition 9,,DEM,NO,1,1,0,0
+Young,16,Proposition 10,,DEM,YES,64,52,9,3
+Young,16,Proposition 10,,DEM,NO,11,7,4,0
+Young,16,Proposition 11,,DEM,YES,64,54,7,3
+Young,16,Proposition 11,,DEM,NO,11,6,5,0
+Young,20,U.S. Senate,,REP,Ted Cruz,35,15,17,3
+Young,20,U.S. Senate,,REP,"Bruce Jacobson, Jr.",2,1,1,0
 Young,20,U.S. Senate,,REP,Geraldine Sam,0,0,0,0
-Young,20,U.S. Senate,,REP,Stefano de Stefano,0,0,1,1
+Young,20,U.S. Senate,,REP,Stefano de Stefano,1,0,1,0
 Young,20,U.S. Senate,,REP,Mary Miller,0,0,0,0
-Young,20,U.S. House,19,REP,Jodey Arrington,15,2,17,34
-Young,20,Governor,,REP,Greg Abbott,15,3,16,34
-Young,20,Governor,,REP,Barbara Krueger,0,0,3,3
+Young,20,U.S. House,19,REP,Jodey Arrington,34,15,17,2
+Young,20,Governor,,REP,Greg Abbott,34,15,16,3
+Young,20,Governor,,REP,Barbara Krueger,3,0,3,0
 Young,20,Governor,,REP,SECEDE Kilgore,0,0,0,0
-Young,20,Lieutenant Governor,,REP,Scott Milder,2,1,2,5
-Young,20,Lieutenant Governor,,REP,Dan Patrick,14,2,15,31
-Young,20,Attorney General,,REP,Ken Paxton,15,2,18,35
-Young,20,Comptroller of Public Accounts,,REP,Glenn Hegar,13,2,17,32
-Young,20,Commissioner of the General Land Office,,REP,Rick Range,2,0,4,6
-Young,20,Commissioner of the General Land Office,,REP,George P. Bush,7,2,8,17
-Young,20,Commissioner of the General Land Office,,REP,Jerry Patterson,5,0,3,8
-Young,20,Commissioner of the General Land Office,,REP,Davey Edwards,1,1,0,2
-Young,20,Commissioner of Agriculture,,REP,Jim Hogan,3,1,2,6
-Young,20,Commissioner of Agriculture,,REP,Sid Miller,9,2,11,22
-Young,20,Commissioner of Agriculture,,REP,Trey Blocker,1,0,1,2
-Young,20,Railroad Commissioner,,REP,Christi Craddick,12,3,10,25
-Young,20,Railroad Commissioner,,REP,Weston Martinez,3,0,5,8
-Young,20,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,14,2,13,29
-Young,20,"Justice, Supreme Court, Place 4",,REP,John Devine,14,2,13,29
-Young,20,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,14,2,13,29
-Young,20,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,8,3,9,20
-Young,20,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,5,0,3,8
-Young,20,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,12,2,13,27
-Young,20,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,7,1,9,17
-Young,20,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,3,2,2,7
-Young,20,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,3,0,2,5
-Young,20,State Senator,30,REP,Pat Fallon,8,3,9,20
-Young,20,State Senator,30,REP,Craig Carter,5,0,6,11
-Young,20,State Senator,30,REP,Craig Estes,3,0,3,6
-Young,20,State Representative,68,REP,Drew Springer,15,2,15,32
-Young,20,"Chief Justice, 2nd Court of Appeals District",,REP,Bonnie Sudderth,12,2,13,27
-Young,20,"Justice, 2nd Court of Appeals District, Place No. 4",,REP,Wade Birdwell,12,2,13,27
-Young,20,"Justice, 2nd Court of Appeals District, Place No. 5",,REP,Dabney Bassel,12,2,13,27
-Young,20,"Justice, 2nd Court of Appeals District, Place No. 6",,REP,Mark Pittman,12,2,12,26
-Young,20,County Judge,,REP,John C. Bullock,7,3,15,25
-Young,20,County Judge,,REP,Paul M. Hemphill,9,0,5,14
-Young,20,District Clerk,,REP,Jamie Freeze Land,13,2,14,29
-Young,20,County Clerk,,REP,Kay Jennings Hardin,14,2,14,30
-Young,20,County Treasurer,,REP,Ann B. Daily,13,2,14,29
-Young,20,"County Commissioner, Precinct No. 4",,REP,Jimmy Ray Wiley,12,2,17,31
-Young,20,"Justice of the Peace, Precinct No. 3",,REP,Stan G. Mahler,13,0,11,24
-Young,20,"Justice of the Peace, Precinct No. 3",,REP,Becky Perez,2,3,8,13
-Young,20,"Constable, Precinct No. 3 Unexpired Term",,REP,Cliff Blackstock,6,2,8,16
-Young,20,"Constable, Precinct No. 3 Unexpired Term",,REP,Larry Thacker,6,1,6,13
-Young,20,County Chairman,,REP,Kyle Zohn Milam,13,2,15,30
-Young,20,U.S. Senate,,DEM,Edward Kimbrough,0,2,0,2
-Young,20,U.S. Senate,,DEM,Beto O'Rourke,2,1,0,3
+Young,20,Lieutenant Governor,,REP,Scott Milder,5,2,2,1
+Young,20,Lieutenant Governor,,REP,Dan Patrick,31,14,15,2
+Young,20,Attorney General,,REP,Ken Paxton,35,15,18,2
+Young,20,Comptroller of Public Accounts,,REP,Glenn Hegar,32,13,17,2
+Young,20,Commissioner of the General Land Office,,REP,Rick Range,6,2,4,0
+Young,20,Commissioner of the General Land Office,,REP,George P. Bush,17,7,8,2
+Young,20,Commissioner of the General Land Office,,REP,Jerry Patterson,8,5,3,0
+Young,20,Commissioner of the General Land Office,,REP,Davey Edwards,2,1,0,1
+Young,20,Commissioner of Agriculture,,REP,Jim Hogan,6,3,2,1
+Young,20,Commissioner of Agriculture,,REP,Sid Miller,22,9,11,2
+Young,20,Commissioner of Agriculture,,REP,Trey Blocker,2,1,1,0
+Young,20,Railroad Commissioner,,REP,Christi Craddick,25,12,10,3
+Young,20,Railroad Commissioner,,REP,Weston Martinez,8,3,5,0
+Young,20,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,29,14,13,2
+Young,20,"Justice, Supreme Court, Place 4",,REP,John Devine,29,14,13,2
+Young,20,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,29,14,13,2
+Young,20,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,20,8,9,3
+Young,20,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,8,5,3,0
+Young,20,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,27,12,13,2
+Young,20,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,17,7,9,1
+Young,20,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,7,3,2,2
+Young,20,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,5,3,2,0
+Young,20,State Senator,30,REP,Pat Fallon,20,8,9,3
+Young,20,State Senator,30,REP,Craig Carter,11,5,6,0
+Young,20,State Senator,30,REP,Craig Estes,6,3,3,0
+Young,20,State Representative,68,REP,Drew Springer,32,15,15,2
+Young,20,"Chief Justice, 2nd Court of Appeals District",,REP,Bonnie Sudderth,27,12,13,2
+Young,20,"Justice, 2nd Court of Appeals District, Place No. 4",,REP,Wade Birdwell,27,12,13,2
+Young,20,"Justice, 2nd Court of Appeals District, Place No. 5",,REP,Dabney Bassel,27,12,13,2
+Young,20,"Justice, 2nd Court of Appeals District, Place No. 6",,REP,Mark Pittman,26,12,12,2
+Young,20,County Judge,,REP,John C. Bullock,25,7,15,3
+Young,20,County Judge,,REP,Paul M. Hemphill,14,9,5,0
+Young,20,District Clerk,,REP,Jamie Freeze Land,29,13,14,2
+Young,20,County Clerk,,REP,Kay Jennings Hardin,30,14,14,2
+Young,20,County Treasurer,,REP,Ann B. Daily,29,13,14,2
+Young,20,"County Commissioner, Precinct No. 4",,REP,Jimmy Ray Wiley,31,12,17,2
+Young,20,"Justice of the Peace, Precinct No. 3",,REP,Stan G. Mahler,24,13,11,0
+Young,20,"Justice of the Peace, Precinct No. 3",,REP,Becky Perez,13,2,8,3
+Young,20,"Constable, Precinct No. 3 Unexpired Term",,REP,Cliff Blackstock,16,6,8,2
+Young,20,"Constable, Precinct No. 3 Unexpired Term",,REP,Larry Thacker,13,6,6,1
+Young,20,County Chairman,,REP,Kyle Zohn Milam,30,13,15,2
+Young,20,U.S. Senate,,DEM,Edward Kimbrough,2,0,0,2
+Young,20,U.S. Senate,,DEM,Beto O'Rourke,3,2,0,1
 Young,20,U.S. Senate,,DEM,Sema Hernandez,0,0,0,0
-Young,20,U.S. House,19,DEM,Miguel Levario,2,3,0,5
-Young,20,Governor,,DEM,"Cedric Davis, Sr.",1,0,0,1
+Young,20,U.S. House,19,DEM,Miguel Levario,5,2,0,3
+Young,20,Governor,,DEM,"Cedric Davis, Sr.",1,1,0,0
 Young,20,Governor,,DEM,Joe Mumbach,0,0,0,0
-Young,20,Governor,,DEM,Jeffrey Payne,0,2,0,2
+Young,20,Governor,,DEM,Jeffrey Payne,2,0,0,2
 Young,20,Governor,,DEM,James Jolly Clark,0,0,0,0
 Young,20,Governor,,DEM,Grady Yarbrough,0,0,0,0
-Young,20,Governor,,DEM,Tom Wakely,1,1,0,2
+Young,20,Governor,,DEM,Tom Wakely,2,1,0,1
 Young,20,Governor,,DEM,Andrew White,0,0,0,0
 Young,20,Governor,,DEM,Adrian Ocegueda,0,0,0,0
 Young,20,Governor,,DEM,Lupe Valdez,0,0,0,0
-Young,20,Lieutenant Governor,,DEM,Mike Collier,2,1,0,3
-Young,20,Lieutenant Governor,,DEM,Michael Cooper,0,2,0,2
-Young,20,Attorney General,,DEM,Justin Nelson,2,3,0,5
-Young,20,Comptroller of Public Accounts,,DEM,Tim Mahoney,1,2,0,3
-Young,20,Comptroller of Public Accounts,,DEM,Joi Chevalier,1,1,0,2
-Young,20,Commissioner of the General Land Office,,DEM,Miguel Suazo,2,0,0,2
-Young,20,Commissioner of the General Land Office,,DEM,Tex Morgan,0,3,0,3
-Young,20,Commissioner of Agriculture,,DEM,Kim Olson,2,3,0,5
-Young,20,Railroad Commissioner,,DEM,Roman McAllen,2,0,0,2
-Young,20,Railroad Commissioner,,DEM,Chris Spellmon,0,3,0,3
-Young,20,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,2,3,0,5
-Young,20,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,2,3,0,5
-Young,20,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,2,3,0,5
-Young,20,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,2,3,0,5
-Young,20,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,2,3,0,5
-Young,20,State Senator,30,DEM,Kevin Lopez,2,3,0,5
-Young,20,"Justice, 2nd Court of Appeals District, Place No. 5",,DEM,Delonia A. Watson,2,3,0,5
-Young,20,County Chairman,,DEM,Fran Edens,2,3,0,5
-Young,20,Proposition #1,,DEM,Yes,2,3,0,5
+Young,20,Lieutenant Governor,,DEM,Mike Collier,3,2,0,1
+Young,20,Lieutenant Governor,,DEM,Michael Cooper,2,0,0,2
+Young,20,Attorney General,,DEM,Justin Nelson,5,2,0,3
+Young,20,Comptroller of Public Accounts,,DEM,Tim Mahoney,3,1,0,2
+Young,20,Comptroller of Public Accounts,,DEM,Joi Chevalier,2,1,0,1
+Young,20,Commissioner of the General Land Office,,DEM,Miguel Suazo,2,2,0,0
+Young,20,Commissioner of the General Land Office,,DEM,Tex Morgan,3,0,0,3
+Young,20,Commissioner of Agriculture,,DEM,Kim Olson,5,2,0,3
+Young,20,Railroad Commissioner,,DEM,Roman McAllen,2,2,0,0
+Young,20,Railroad Commissioner,,DEM,Chris Spellmon,3,0,0,3
+Young,20,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,5,2,0,3
+Young,20,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,5,2,0,3
+Young,20,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,5,2,0,3
+Young,20,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,5,2,0,3
+Young,20,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,5,2,0,3
+Young,20,State Senator,30,DEM,Kevin Lopez,5,2,0,3
+Young,20,"Justice, 2nd Court of Appeals District, Place No. 5",,DEM,Delonia A. Watson,5,2,0,3
+Young,20,County Chairman,,DEM,Fran Edens,5,2,0,3
+Young,20,Proposition #1,,DEM,Yes,5,2,0,3
 Young,20,Proposition #1,,DEM,No,0,0,0,0
-Young,20,Proposition #2,,DEM,Yes,2,2,0,4
-Young,20,Proposition #2,,DEM,No,0,1,0,1
-Young,20,Proposition #3,,DEM,Yes,2,2,0,4
-Young,20,Proposition #3,,DEM,No,0,1,0,1
-Young,20,Proposition #4,,DEM,Yes,2,3,0,5
+Young,20,Proposition #2,,DEM,Yes,4,2,0,2
+Young,20,Proposition #2,,DEM,No,1,0,0,1
+Young,20,Proposition #3,,DEM,Yes,4,2,0,2
+Young,20,Proposition #3,,DEM,No,1,0,0,1
+Young,20,Proposition #4,,DEM,Yes,5,2,0,3
 Young,20,Proposition #4,,DEM,No,0,0,0,0
-Young,20,Proposition #5,,DEM,Yes,2,3,0,5
+Young,20,Proposition #5,,DEM,Yes,5,2,0,3
 Young,20,Proposition #5,,DEM,No,0,0,0,0
-Young,20,Proposition #6,,DEM,Yes,2,3,0,5
+Young,20,Proposition #6,,DEM,Yes,5,2,0,3
 Young,20,Proposition #6,,DEM,No,0,0,0,0
-Young,20,Proposition #7,,DEM,Yes,2,2,0,4
-Young,20,Proposition #7,,DEM,No,0,1,0,1
-Young,20,Proposition #8,,DEM,Yes,2,3,0,5
+Young,20,Proposition #7,,DEM,Yes,4,2,0,2
+Young,20,Proposition #7,,DEM,No,1,0,0,1
+Young,20,Proposition #8,,DEM,Yes,5,2,0,3
 Young,20,Proposition #8,,DEM,No,0,0,0,0
-Young,20,Proposition #9,,DEM,Yes,2,3,0,5
+Young,20,Proposition #9,,DEM,Yes,5,2,0,3
 Young,20,Proposition #9,,DEM,No,0,0,0,0
-Young,20,Proposition #10,,DEM,Yes,2,3,0,5
+Young,20,Proposition #10,,DEM,Yes,5,2,0,3
 Young,20,Proposition #10,,DEM,No,0,0,0,0
-Young,20,Proposition #11,,DEM,Yes,2,3,0,5
+Young,20,Proposition #11,,DEM,Yes,5,2,0,3
 Young,20,Proposition #11,,DEM,No,0,0,0,0
-Young,20,Proposition #12,,DEM,Yes,2,3,0,5
+Young,20,Proposition #12,,DEM,Yes,5,2,0,3
 Young,20,Proposition #12,,DEM,No,0,0,0,0
-Young,20,Proposition 1,,DEM,YES,9,2,14,25
-Young,20,Proposition 1,,DEM,NO,5,0,3,8
-Young,20,Proposition 2,,DEM,YES,12,3,16,31
-Young,20,Proposition 2,,DEM,NO,4,0,1,5
-Young,20,Proposition 3,,DEM,YES,14,3,17,34
-Young,20,Proposition 3,,DEM,NO,2,0,1,3
-Young,20,Proposition 4,,DEM,YES,13,3,14,30
-Young,20,Proposition 4,,DEM,NO,3,0,3,6
-Young,20,Proposition 5,,DEM,YES,13,3,15,31
-Young,20,Proposition 5,,DEM,NO,3,0,2,5
-Young,20,Proposition 6,,DEM,YES,14,3,17,34
-Young,20,Proposition 6,,DEM,NO,2,0,2,4
-Young,20,Proposition 7,,DEM,YES,11,3,15,29
-Young,20,Proposition 7,,DEM,NO,4,0,4,8
-Young,20,Proposition 8,,DEM,YES,15,3,18,36
-Young,20,Proposition 8,,DEM,NO,1,0,1,2
-Young,20,Proposition 9,,DEM,YES,16,3,18,37
-Young,20,Proposition 9,,DEM,NO,0,0,1,1
-Young,20,Proposition 10,,DEM,YES,12,3,18,33
-Young,20,Proposition 10,,DEM,NO,2,0,0,2
-Young,20,Proposition 11,,DEM,YES,13,3,17,33
-Young,20,Proposition 11,,DEM,NO,2,0,1,3
-Young,22,U.S. Senate,,REP,Ted Cruz,319,115,322,756
-Young,22,U.S. Senate,,REP,"Bruce Jacobson, Jr.",4,12,14,30
-Young,22,U.S. Senate,,REP,Geraldine Sam,2,3,3,8
-Young,22,U.S. Senate,,REP,Stefano de Stefano,0,0,7,7
-Young,22,U.S. Senate,,REP,Mary Miller,14,4,18,36
-Young,22,U.S. House,19,REP,Jodey Arrington,305,119,316,740
-Young,22,Governor,,REP,Greg Abbott,318,129,328,775
-Young,22,Governor,,REP,Barbara Krueger,16,5,26,47
-Young,22,Governor,,REP,SECEDE Kilgore,0,0,10,10
-Young,22,Lieutenant Governor,,REP,Scott Milder,103,20,118,241
-Young,22,Lieutenant Governor,,REP,Dan Patrick,224,107,235,566
-Young,22,Attorney General,,REP,Ken Paxton,301,116,315,732
-Young,22,Comptroller of Public Accounts,,REP,Glenn Hegar,285,120,294,699
-Young,22,Commissioner of the General Land Office,,REP,Rick Range,30,9,33,72
-Young,22,Commissioner of the General Land Office,,REP,George P. Bush,183,60,212,455
-Young,22,Commissioner of the General Land Office,,REP,Jerry Patterson,90,33,66,189
-Young,22,Commissioner of the General Land Office,,REP,Davey Edwards,10,17,26,53
-Young,22,Commissioner of Agriculture,,REP,Jim Hogan,74,39,85,198
-Young,22,Commissioner of Agriculture,,REP,Sid Miller,170,54,164,388
-Young,22,Commissioner of Agriculture,,REP,Trey Blocker,45,24,56,125
-Young,22,Railroad Commissioner,,REP,Christi Craddick,221,90,240,551
-Young,22,Railroad Commissioner,,REP,Weston Martinez,66,28,59,153
-Young,22,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,274,111,281,666
-Young,22,"Justice, Supreme Court, Place 4",,REP,John Devine,273,110,278,661
-Young,22,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,270,110,274,654
-Young,22,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,196,68,190,454
-Young,22,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,87,46,104,237
-Young,22,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,267,108,270,645
-Young,22,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,128,51,117,296
-Young,22,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,105,42,111,258
-Young,22,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,35,19,42,96
-Young,22,State Senator,30,REP,Pat Fallon,196,85,233,514
-Young,22,State Senator,30,REP,Craig Carter,55,15,58,128
-Young,22,State Senator,30,REP,Craig Estes,79,31,72,182
-Young,22,State Representative,68,REP,Drew Springer,298,120,304,722
-Young,22,"Chief Justice, 2nd Court of Appeals District",,REP,Bonnie Sudderth,267,110,272,649
-Young,22,"Justice, 2nd Court of Appeals District, Place No. 4",,REP,Wade Birdwell,271,112,272,655
-Young,22,"Justice, 2nd Court of Appeals District, Place No. 5",,REP,Dabney Bassel,269,109,274,652
-Young,22,"Justice, 2nd Court of Appeals District, Place No. 6",,REP,Mark Pittman,265,111,270,646
-Young,22,County Judge,,REP,John C. Bullock,225,91,240,556
-Young,22,County Judge,,REP,Paul M. Hemphill,114,39,125,278
-Young,22,District Clerk,,REP,Jamie Freeze Land,296,112,304,712
-Young,22,County Clerk,,REP,Kay Jennings Hardin,291,114,308,713
-Young,22,County Treasurer,,REP,Ann B. Daily,292,115,310,717
-Young,22,"Justice of the Peace, Precinct No. 1",,REP,Jason Hearne,116,36,150,302
-Young,22,"Justice of the Peace, Precinct No. 1",,REP,Randy Saylor,94,32,77,203
-Young,22,"Justice of the Peace, Precinct No. 1",,REP,Norman B. Carpenter,66,37,82,185
-Young,22,"Justice of the Peace, Precinct No. 1",,REP,Jabe Underwood,62,24,60,146
-Young,22,County Chairman,,REP,Kyle Zohn Milam,297,113,315,725
-Young,22,U.S. Senate,,DEM,Edward Kimbrough,2,7,2,11
-Young,22,U.S. Senate,,DEM,Beto O'Rourke,6,6,12,24
-Young,22,U.S. Senate,,DEM,Sema Hernandez,5,1,0,6
-Young,22,U.S. House,19,DEM,Miguel Levario,13,11,11,35
-Young,22,Governor,,DEM,"Cedric Davis, Sr.",0,0,1,1
-Young,22,Governor,,DEM,Joe Mumbach,0,0,1,1
-Young,22,Governor,,DEM,Jeffrey Payne,0,1,0,1
+Young,20,Proposition 1,,DEM,YES,25,9,14,2
+Young,20,Proposition 1,,DEM,NO,8,5,3,0
+Young,20,Proposition 2,,DEM,YES,31,12,16,3
+Young,20,Proposition 2,,DEM,NO,5,4,1,0
+Young,20,Proposition 3,,DEM,YES,34,14,17,3
+Young,20,Proposition 3,,DEM,NO,3,2,1,0
+Young,20,Proposition 4,,DEM,YES,30,13,14,3
+Young,20,Proposition 4,,DEM,NO,6,3,3,0
+Young,20,Proposition 5,,DEM,YES,31,13,15,3
+Young,20,Proposition 5,,DEM,NO,5,3,2,0
+Young,20,Proposition 6,,DEM,YES,34,14,17,3
+Young,20,Proposition 6,,DEM,NO,4,2,2,0
+Young,20,Proposition 7,,DEM,YES,29,11,15,3
+Young,20,Proposition 7,,DEM,NO,8,4,4,0
+Young,20,Proposition 8,,DEM,YES,36,15,18,3
+Young,20,Proposition 8,,DEM,NO,2,1,1,0
+Young,20,Proposition 9,,DEM,YES,37,16,18,3
+Young,20,Proposition 9,,DEM,NO,1,0,1,0
+Young,20,Proposition 10,,DEM,YES,33,12,18,3
+Young,20,Proposition 10,,DEM,NO,2,2,0,0
+Young,20,Proposition 11,,DEM,YES,33,13,17,3
+Young,20,Proposition 11,,DEM,NO,3,2,1,0
+Young,22,U.S. Senate,,REP,Ted Cruz,756,319,322,115
+Young,22,U.S. Senate,,REP,"Bruce Jacobson, Jr.",30,4,14,12
+Young,22,U.S. Senate,,REP,Geraldine Sam,8,2,3,3
+Young,22,U.S. Senate,,REP,Stefano de Stefano,7,0,7,0
+Young,22,U.S. Senate,,REP,Mary Miller,36,14,18,4
+Young,22,U.S. House,19,REP,Jodey Arrington,740,305,316,119
+Young,22,Governor,,REP,Greg Abbott,775,318,328,129
+Young,22,Governor,,REP,Barbara Krueger,47,16,26,5
+Young,22,Governor,,REP,SECEDE Kilgore,10,0,10,0
+Young,22,Lieutenant Governor,,REP,Scott Milder,241,103,118,20
+Young,22,Lieutenant Governor,,REP,Dan Patrick,566,224,235,107
+Young,22,Attorney General,,REP,Ken Paxton,732,301,315,116
+Young,22,Comptroller of Public Accounts,,REP,Glenn Hegar,699,285,294,120
+Young,22,Commissioner of the General Land Office,,REP,Rick Range,72,30,33,9
+Young,22,Commissioner of the General Land Office,,REP,George P. Bush,455,183,212,60
+Young,22,Commissioner of the General Land Office,,REP,Jerry Patterson,189,90,66,33
+Young,22,Commissioner of the General Land Office,,REP,Davey Edwards,53,10,26,17
+Young,22,Commissioner of Agriculture,,REP,Jim Hogan,198,74,85,39
+Young,22,Commissioner of Agriculture,,REP,Sid Miller,388,170,164,54
+Young,22,Commissioner of Agriculture,,REP,Trey Blocker,125,45,56,24
+Young,22,Railroad Commissioner,,REP,Christi Craddick,551,221,240,90
+Young,22,Railroad Commissioner,,REP,Weston Martinez,153,66,59,28
+Young,22,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,666,274,281,111
+Young,22,"Justice, Supreme Court, Place 4",,REP,John Devine,661,273,278,110
+Young,22,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,654,270,274,110
+Young,22,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,454,196,190,68
+Young,22,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,237,87,104,46
+Young,22,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,645,267,270,108
+Young,22,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,296,128,117,51
+Young,22,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,258,105,111,42
+Young,22,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,96,35,42,19
+Young,22,State Senator,30,REP,Pat Fallon,514,196,233,85
+Young,22,State Senator,30,REP,Craig Carter,128,55,58,15
+Young,22,State Senator,30,REP,Craig Estes,182,79,72,31
+Young,22,State Representative,68,REP,Drew Springer,722,298,304,120
+Young,22,"Chief Justice, 2nd Court of Appeals District",,REP,Bonnie Sudderth,649,267,272,110
+Young,22,"Justice, 2nd Court of Appeals District, Place No. 4",,REP,Wade Birdwell,655,271,272,112
+Young,22,"Justice, 2nd Court of Appeals District, Place No. 5",,REP,Dabney Bassel,652,269,274,109
+Young,22,"Justice, 2nd Court of Appeals District, Place No. 6",,REP,Mark Pittman,646,265,270,111
+Young,22,County Judge,,REP,John C. Bullock,556,225,240,91
+Young,22,County Judge,,REP,Paul M. Hemphill,278,114,125,39
+Young,22,District Clerk,,REP,Jamie Freeze Land,712,296,304,112
+Young,22,County Clerk,,REP,Kay Jennings Hardin,713,291,308,114
+Young,22,County Treasurer,,REP,Ann B. Daily,717,292,310,115
+Young,22,"Justice of the Peace, Precinct No. 1",,REP,Jason Hearne,302,116,150,36
+Young,22,"Justice of the Peace, Precinct No. 1",,REP,Randy Saylor,203,94,77,32
+Young,22,"Justice of the Peace, Precinct No. 1",,REP,Norman B. Carpenter,185,66,82,37
+Young,22,"Justice of the Peace, Precinct No. 1",,REP,Jabe Underwood,146,62,60,24
+Young,22,County Chairman,,REP,Kyle Zohn Milam,725,297,315,113
+Young,22,U.S. Senate,,DEM,Edward Kimbrough,11,2,2,7
+Young,22,U.S. Senate,,DEM,Beto O'Rourke,24,6,12,6
+Young,22,U.S. Senate,,DEM,Sema Hernandez,6,5,0,1
+Young,22,U.S. House,19,DEM,Miguel Levario,35,13,11,11
+Young,22,Governor,,DEM,"Cedric Davis, Sr.",1,0,1,0
+Young,22,Governor,,DEM,Joe Mumbach,1,0,1,0
+Young,22,Governor,,DEM,Jeffrey Payne,1,0,0,1
 Young,22,Governor,,DEM,James Jolly Clark,0,0,0,0
-Young,22,Governor,,DEM,Grady Yarbrough,2,2,2,6
-Young,22,Governor,,DEM,Tom Wakely,3,0,1,4
-Young,22,Governor,,DEM,Andrew White,1,5,5,11
-Young,22,Governor,,DEM,Adrian Ocegueda,1,2,1,4
-Young,22,Governor,,DEM,Lupe Valdez,5,4,3,12
-Young,22,Lieutenant Governor,,DEM,Mike Collier,8,7,8,23
-Young,22,Lieutenant Governor,,DEM,Michael Cooper,5,7,3,15
-Young,22,Attorney General,,DEM,Justin Nelson,13,13,13,39
-Young,22,Comptroller of Public Accounts,,DEM,Tim Mahoney,8,8,5,21
-Young,22,Comptroller of Public Accounts,,DEM,Joi Chevalier,4,6,6,16
-Young,22,Commissioner of the General Land Office,,DEM,Miguel Suazo,10,8,6,24
-Young,22,Commissioner of the General Land Office,,DEM,Tex Morgan,2,6,6,14
-Young,22,Commissioner of Agriculture,,DEM,Kim Olson,12,12,12,36
-Young,22,Railroad Commissioner,,DEM,Roman McAllen,6,7,7,20
-Young,22,Railroad Commissioner,,DEM,Chris Spellmon,6,7,5,18
-Young,22,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,11,12,12,35
-Young,22,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,12,12,13,37
-Young,22,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,12,12,13,37
-Young,22,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,12,12,13,37
-Young,22,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,12,12,13,37
-Young,22,State Senator,30,DEM,Kevin Lopez,11,11,14,36
-Young,22,"Justice, 2nd Court of Appeals District, Place No. 5",,DEM,Delonia A. Watson,12,12,14,38
-Young,22,County Chairman,,DEM,Fran Edens,12,12,14,38
-Young,22,Proposition #1,,DEM,Yes,13,12,14,39
-Young,22,Proposition #1,,DEM,No,0,2,1,3
-Young,22,Proposition #2,,DEM,Yes,13,12,15,40
-Young,22,Proposition #2,,DEM,No,0,2,0,2
-Young,22,Proposition #3,,DEM,Yes,12,11,12,35
-Young,22,Proposition #3,,DEM,No,0,3,3,6
-Young,22,Proposition #4,,DEM,Yes,13,14,14,41
+Young,22,Governor,,DEM,Grady Yarbrough,6,2,2,2
+Young,22,Governor,,DEM,Tom Wakely,4,3,1,0
+Young,22,Governor,,DEM,Andrew White,11,1,5,5
+Young,22,Governor,,DEM,Adrian Ocegueda,4,1,1,2
+Young,22,Governor,,DEM,Lupe Valdez,12,5,3,4
+Young,22,Lieutenant Governor,,DEM,Mike Collier,23,8,8,7
+Young,22,Lieutenant Governor,,DEM,Michael Cooper,15,5,3,7
+Young,22,Attorney General,,DEM,Justin Nelson,39,13,13,13
+Young,22,Comptroller of Public Accounts,,DEM,Tim Mahoney,21,8,5,8
+Young,22,Comptroller of Public Accounts,,DEM,Joi Chevalier,16,4,6,6
+Young,22,Commissioner of the General Land Office,,DEM,Miguel Suazo,24,10,6,8
+Young,22,Commissioner of the General Land Office,,DEM,Tex Morgan,14,2,6,6
+Young,22,Commissioner of Agriculture,,DEM,Kim Olson,36,12,12,12
+Young,22,Railroad Commissioner,,DEM,Roman McAllen,20,6,7,7
+Young,22,Railroad Commissioner,,DEM,Chris Spellmon,18,6,5,7
+Young,22,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,35,11,12,12
+Young,22,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,37,12,13,12
+Young,22,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,37,12,13,12
+Young,22,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,37,12,13,12
+Young,22,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,37,12,13,12
+Young,22,State Senator,30,DEM,Kevin Lopez,36,11,14,11
+Young,22,"Justice, 2nd Court of Appeals District, Place No. 5",,DEM,Delonia A. Watson,38,12,14,12
+Young,22,County Chairman,,DEM,Fran Edens,38,12,14,12
+Young,22,Proposition #1,,DEM,Yes,39,13,14,12
+Young,22,Proposition #1,,DEM,No,3,0,1,2
+Young,22,Proposition #2,,DEM,Yes,40,13,15,12
+Young,22,Proposition #2,,DEM,No,2,0,0,2
+Young,22,Proposition #3,,DEM,Yes,35,12,12,11
+Young,22,Proposition #3,,DEM,No,6,0,3,3
+Young,22,Proposition #4,,DEM,Yes,41,13,14,14
 Young,22,Proposition #4,,DEM,No,0,0,0,0
-Young,22,Proposition #5,,DEM,Yes,12,13,13,38
-Young,22,Proposition #5,,DEM,No,1,1,0,2
-Young,22,Proposition #6,,DEM,Yes,13,14,14,41
+Young,22,Proposition #5,,DEM,Yes,38,12,13,13
+Young,22,Proposition #5,,DEM,No,2,1,0,1
+Young,22,Proposition #6,,DEM,Yes,41,13,14,14
 Young,22,Proposition #6,,DEM,No,0,0,0,0
-Young,22,Proposition #7,,DEM,Yes,12,13,12,37
-Young,22,Proposition #7,,DEM,No,0,1,2,3
-Young,22,Proposition #8,,DEM,Yes,12,10,13,35
-Young,22,Proposition #8,,DEM,No,0,4,1,5
-Young,22,Proposition #9,,DEM,Yes,13,13,13,39
-Young,22,Proposition #9,,DEM,No,0,1,1,2
-Young,22,Proposition #10,,DEM,Yes,13,13,13,39
-Young,22,Proposition #10,,DEM,No,0,0,1,1
-Young,22,Proposition #11,,DEM,Yes,12,11,12,35
-Young,22,Proposition #11,,DEM,No,1,3,1,5
-Young,22,Proposition #12,,DEM,Yes,13,14,14,41
+Young,22,Proposition #7,,DEM,Yes,37,12,12,13
+Young,22,Proposition #7,,DEM,No,3,0,2,1
+Young,22,Proposition #8,,DEM,Yes,35,12,13,10
+Young,22,Proposition #8,,DEM,No,5,0,1,4
+Young,22,Proposition #9,,DEM,Yes,39,13,13,13
+Young,22,Proposition #9,,DEM,No,2,0,1,1
+Young,22,Proposition #10,,DEM,Yes,39,13,13,13
+Young,22,Proposition #10,,DEM,No,1,0,1,0
+Young,22,Proposition #11,,DEM,Yes,35,12,12,11
+Young,22,Proposition #11,,DEM,No,5,1,1,3
+Young,22,Proposition #12,,DEM,Yes,41,13,14,14
 Young,22,Proposition #12,,DEM,No,0,0,0,0
-Young,22,Proposition 1,,DEM,YES,230,80,230,540
-Young,22,Proposition 1,,DEM,NO,97,42,117,256
-Young,22,Proposition 2,,DEM,YES,305,125,339,769
-Young,22,Proposition 2,,DEM,NO,32,5,28,65
-Young,22,Proposition 3,,DEM,YES,296,116,321,733
-Young,22,Proposition 3,,DEM,NO,29,14,46,89
-Young,22,Proposition 4,,DEM,YES,308,124,324,756
-Young,22,Proposition 4,,DEM,NO,30,7,41,78
-Young,22,Proposition 5,,DEM,YES,269,112,272,653
-Young,22,Proposition 5,,DEM,NO,73,18,96,187
-Young,22,Proposition 6,,DEM,YES,330,129,344,803
-Young,22,Proposition 6,,DEM,NO,11,5,23,39
-Young,22,Proposition 7,,DEM,YES,264,103,284,651
-Young,22,Proposition 7,,DEM,NO,82,27,84,193
-Young,22,Proposition 8,,DEM,YES,338,129,357,824
-Young,22,Proposition 8,,DEM,NO,9,4,15,28
-Young,22,Proposition 9,,DEM,YES,316,120,345,781
-Young,22,Proposition 9,,DEM,NO,25,11,23,59
-Young,22,Proposition 10,,DEM,YES,323,123,343,789
-Young,22,Proposition 10,,DEM,NO,13,6,22,41
-Young,22,Proposition 11,,DEM,YES,301,119,321,741
-Young,22,Proposition 11,,DEM,NO,43,11,46,100
-Young,23,U.S. Senate,,REP,Ted Cruz,200,59,209,468
-Young,23,U.S. Senate,,REP,"Bruce Jacobson, Jr.",13,5,10,28
-Young,23,U.S. Senate,,REP,Geraldine Sam,2,1,1,4
-Young,23,U.S. Senate,,REP,Stefano de Stefano,5,0,6,11
-Young,23,U.S. Senate,,REP,Mary Miller,4,0,13,17
-Young,23,U.S. House,19,REP,Jodey Arrington,198,53,213,464
-Young,23,Governor,,REP,Greg Abbott,200,62,200,462
-Young,23,Governor,,REP,Barbara Krueger,16,4,31,51
-Young,23,Governor,,REP,SECEDE Kilgore,5,1,2,8
-Young,23,Lieutenant Governor,,REP,Scott Milder,89,17,109,215
-Young,23,Lieutenant Governor,,REP,Dan Patrick,125,43,125,293
-Young,23,Attorney General,,REP,Ken Paxton,191,55,206,452
-Young,23,Comptroller of Public Accounts,,REP,Glenn Hegar,179,52,203,434
-Young,23,Commissioner of the General Land Office,,REP,Rick Range,26,11,32,69
-Young,23,Commissioner of the General Land Office,,REP,George P. Bush,136,42,138,316
-Young,23,Commissioner of the General Land Office,,REP,Jerry Patterson,35,6,44,85
-Young,23,Commissioner of the General Land Office,,REP,Davey Edwards,9,2,12,23
-Young,23,Commissioner of Agriculture,,REP,Jim Hogan,56,19,68,143
-Young,23,Commissioner of Agriculture,,REP,Sid Miller,106,26,117,249
-Young,23,Commissioner of Agriculture,,REP,Trey Blocker,26,10,29,65
-Young,23,Railroad Commissioner,,REP,Christi Craddick,134,45,156,335
-Young,23,Railroad Commissioner,,REP,Weston Martinez,49,12,51,112
-Young,23,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,182,46,206,434
-Young,23,"Justice, Supreme Court, Place 4",,REP,John Devine,177,45,195,417
-Young,23,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,175,48,194,417
-Young,23,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,122,36,128,286
-Young,23,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,49,18,76,143
-Young,23,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,174,46,193,413
-Young,23,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,79,33,107,219
-Young,23,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,53,12,70,135
-Young,23,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,32,6,27,65
-Young,23,State Senator,30,REP,Pat Fallon,146,51,129,326
-Young,23,State Senator,30,REP,Craig Carter,39,4,38,81
-Young,23,State Senator,30,REP,Craig Estes,43,13,77,133
-Young,23,State Representative,68,REP,Drew Springer,202,51,214,467
-Young,23,"Chief Justice, 2nd Court of Appeals District",,REP,Bonnie Sudderth,177,44,196,417
-Young,23,"Justice, 2nd Court of Appeals District, Place No. 4",,REP,Wade Birdwell,176,44,195,415
-Young,23,"Justice, 2nd Court of Appeals District, Place No. 5",,REP,Dabney Bassel,176,44,190,410
-Young,23,"Justice, 2nd Court of Appeals District, Place No. 6",,REP,Mark Pittman,176,44,191,411
-Young,23,County Judge,,REP,John C. Bullock,181,53,176,410
-Young,23,County Judge,,REP,Paul M. Hemphill,47,13,67,127
-Young,23,District Clerk,,REP,Jamie Freeze Land,188,49,201,438
-Young,23,County Clerk,,REP,Kay Jennings Hardin,191,49,208,448
-Young,23,County Treasurer,,REP,Ann B. Daily,191,52,202,445
-Young,23,"Justice of the Peace, Precinct No. 3",,REP,Stan G. Mahler,149,47,174,370
-Young,23,"Justice of the Peace, Precinct No. 3",,REP,Becky Perez,81,20,76,177
-Young,23,"Constable, Precinct No. 3 Unexpired Term",,REP,Cliff Blackstock,141,38,154,333
-Young,23,"Constable, Precinct No. 3 Unexpired Term",,REP,Larry Thacker,79,22,80,181
-Young,23,County Chairman,,REP,Kyle Zohn Milam,184,47,197,428
-Young,23,U.S. Senate,,DEM,Edward Kimbrough,2,8,5,15
-Young,23,U.S. Senate,,DEM,Beto O'Rourke,11,4,5,20
-Young,23,U.S. Senate,,DEM,Sema Hernandez,4,6,1,11
-Young,23,U.S. House,19,DEM,Miguel Levario,14,16,8,38
-Young,23,Governor,,DEM,"Cedric Davis, Sr.",4,0,1,5
+Young,22,Proposition 1,,DEM,YES,540,230,230,80
+Young,22,Proposition 1,,DEM,NO,256,97,117,42
+Young,22,Proposition 2,,DEM,YES,769,305,339,125
+Young,22,Proposition 2,,DEM,NO,65,32,28,5
+Young,22,Proposition 3,,DEM,YES,733,296,321,116
+Young,22,Proposition 3,,DEM,NO,89,29,46,14
+Young,22,Proposition 4,,DEM,YES,756,308,324,124
+Young,22,Proposition 4,,DEM,NO,78,30,41,7
+Young,22,Proposition 5,,DEM,YES,653,269,272,112
+Young,22,Proposition 5,,DEM,NO,187,73,96,18
+Young,22,Proposition 6,,DEM,YES,803,330,344,129
+Young,22,Proposition 6,,DEM,NO,39,11,23,5
+Young,22,Proposition 7,,DEM,YES,651,264,284,103
+Young,22,Proposition 7,,DEM,NO,193,82,84,27
+Young,22,Proposition 8,,DEM,YES,824,338,357,129
+Young,22,Proposition 8,,DEM,NO,28,9,15,4
+Young,22,Proposition 9,,DEM,YES,781,316,345,120
+Young,22,Proposition 9,,DEM,NO,59,25,23,11
+Young,22,Proposition 10,,DEM,YES,789,323,343,123
+Young,22,Proposition 10,,DEM,NO,41,13,22,6
+Young,22,Proposition 11,,DEM,YES,741,301,321,119
+Young,22,Proposition 11,,DEM,NO,100,43,46,11
+Young,23,U.S. Senate,,REP,Ted Cruz,468,200,209,59
+Young,23,U.S. Senate,,REP,"Bruce Jacobson, Jr.",28,13,10,5
+Young,23,U.S. Senate,,REP,Geraldine Sam,4,2,1,1
+Young,23,U.S. Senate,,REP,Stefano de Stefano,11,5,6,0
+Young,23,U.S. Senate,,REP,Mary Miller,17,4,13,0
+Young,23,U.S. House,19,REP,Jodey Arrington,464,198,213,53
+Young,23,Governor,,REP,Greg Abbott,462,200,200,62
+Young,23,Governor,,REP,Barbara Krueger,51,16,31,4
+Young,23,Governor,,REP,SECEDE Kilgore,8,5,2,1
+Young,23,Lieutenant Governor,,REP,Scott Milder,215,89,109,17
+Young,23,Lieutenant Governor,,REP,Dan Patrick,293,125,125,43
+Young,23,Attorney General,,REP,Ken Paxton,452,191,206,55
+Young,23,Comptroller of Public Accounts,,REP,Glenn Hegar,434,179,203,52
+Young,23,Commissioner of the General Land Office,,REP,Rick Range,69,26,32,11
+Young,23,Commissioner of the General Land Office,,REP,George P. Bush,316,136,138,42
+Young,23,Commissioner of the General Land Office,,REP,Jerry Patterson,85,35,44,6
+Young,23,Commissioner of the General Land Office,,REP,Davey Edwards,23,9,12,2
+Young,23,Commissioner of Agriculture,,REP,Jim Hogan,143,56,68,19
+Young,23,Commissioner of Agriculture,,REP,Sid Miller,249,106,117,26
+Young,23,Commissioner of Agriculture,,REP,Trey Blocker,65,26,29,10
+Young,23,Railroad Commissioner,,REP,Christi Craddick,335,134,156,45
+Young,23,Railroad Commissioner,,REP,Weston Martinez,112,49,51,12
+Young,23,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,434,182,206,46
+Young,23,"Justice, Supreme Court, Place 4",,REP,John Devine,417,177,195,45
+Young,23,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,417,175,194,48
+Young,23,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,286,122,128,36
+Young,23,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,143,49,76,18
+Young,23,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,413,174,193,46
+Young,23,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,219,79,107,33
+Young,23,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,135,53,70,12
+Young,23,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,65,32,27,6
+Young,23,State Senator,30,REP,Pat Fallon,326,146,129,51
+Young,23,State Senator,30,REP,Craig Carter,81,39,38,4
+Young,23,State Senator,30,REP,Craig Estes,133,43,77,13
+Young,23,State Representative,68,REP,Drew Springer,467,202,214,51
+Young,23,"Chief Justice, 2nd Court of Appeals District",,REP,Bonnie Sudderth,417,177,196,44
+Young,23,"Justice, 2nd Court of Appeals District, Place No. 4",,REP,Wade Birdwell,415,176,195,44
+Young,23,"Justice, 2nd Court of Appeals District, Place No. 5",,REP,Dabney Bassel,410,176,190,44
+Young,23,"Justice, 2nd Court of Appeals District, Place No. 6",,REP,Mark Pittman,411,176,191,44
+Young,23,County Judge,,REP,John C. Bullock,410,181,176,53
+Young,23,County Judge,,REP,Paul M. Hemphill,127,47,67,13
+Young,23,District Clerk,,REP,Jamie Freeze Land,438,188,201,49
+Young,23,County Clerk,,REP,Kay Jennings Hardin,448,191,208,49
+Young,23,County Treasurer,,REP,Ann B. Daily,445,191,202,52
+Young,23,"Justice of the Peace, Precinct No. 3",,REP,Stan G. Mahler,370,149,174,47
+Young,23,"Justice of the Peace, Precinct No. 3",,REP,Becky Perez,177,81,76,20
+Young,23,"Constable, Precinct No. 3 Unexpired Term",,REP,Cliff Blackstock,333,141,154,38
+Young,23,"Constable, Precinct No. 3 Unexpired Term",,REP,Larry Thacker,181,79,80,22
+Young,23,County Chairman,,REP,Kyle Zohn Milam,428,184,197,47
+Young,23,U.S. Senate,,DEM,Edward Kimbrough,15,2,5,8
+Young,23,U.S. Senate,,DEM,Beto O'Rourke,20,11,5,4
+Young,23,U.S. Senate,,DEM,Sema Hernandez,11,4,1,6
+Young,23,U.S. House,19,DEM,Miguel Levario,38,14,8,16
+Young,23,Governor,,DEM,"Cedric Davis, Sr.",5,4,1,0
 Young,23,Governor,,DEM,Joe Mumbach,0,0,0,0
-Young,23,Governor,,DEM,Jeffrey Payne,0,1,1,2
-Young,23,Governor,,DEM,James Jolly Clark,1,0,0,1
-Young,23,Governor,,DEM,Grady Yarbrough,1,6,2,9
-Young,23,Governor,,DEM,Tom Wakely,1,0,0,1
-Young,23,Governor,,DEM,Andrew White,4,7,2,13
-Young,23,Governor,,DEM,Adrian Ocegueda,1,2,0,3
-Young,23,Governor,,DEM,Lupe Valdez,5,1,3,9
-Young,23,Lieutenant Governor,,DEM,Mike Collier,10,9,7,26
-Young,23,Lieutenant Governor,,DEM,Michael Cooper,6,8,2,16
-Young,23,Attorney General,,DEM,Justin Nelson,13,16,7,36
-Young,23,Comptroller of Public Accounts,,DEM,Tim Mahoney,11,11,10,32
-Young,23,Comptroller of Public Accounts,,DEM,Joi Chevalier,4,7,1,12
-Young,23,Commissioner of the General Land Office,,DEM,Miguel Suazo,8,3,6,17
-Young,23,Commissioner of the General Land Office,,DEM,Tex Morgan,7,14,4,25
-Young,23,Commissioner of Agriculture,,DEM,Kim Olson,13,17,10,40
-Young,23,Railroad Commissioner,,DEM,Roman McAllen,7,9,8,24
-Young,23,Railroad Commissioner,,DEM,Chris Spellmon,8,8,3,19
-Young,23,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,14,16,8,38
-Young,23,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,13,16,8,37
-Young,23,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,13,16,8,37
-Young,23,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,14,15,7,36
-Young,23,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,13,16,7,36
-Young,23,State Senator,30,DEM,Kevin Lopez,14,16,8,38
-Young,23,"Justice, 2nd Court of Appeals District, Place No. 5",,DEM,Delonia A. Watson,13,16,8,37
-Young,23,County Chairman,,DEM,Fran Edens,12,16,7,35
-Young,23,Proposition #1,,DEM,Yes,16,21,12,49
-Young,23,Proposition #1,,DEM,No,1,0,0,1
-Young,23,Proposition #2,,DEM,Yes,16,18,12,46
-Young,23,Proposition #2,,DEM,No,2,1,0,3
-Young,23,Proposition #3,,DEM,Yes,17,18,12,47
-Young,23,Proposition #3,,DEM,No,1,2,0,3
-Young,23,Proposition #4,,DEM,Yes,17,19,12,48
-Young,23,Proposition #4,,DEM,No,1,0,0,1
-Young,23,Proposition #5,,DEM,Yes,14,16,11,41
-Young,23,Proposition #5,,DEM,No,2,3,1,6
-Young,23,Proposition #6,,DEM,Yes,17,21,12,50
-Young,23,Proposition #6,,DEM,No,1,0,0,1
-Young,23,Proposition #7,,DEM,Yes,17,21,12,50
-Young,23,Proposition #7,,DEM,No,1,0,0,1
-Young,23,Proposition #8,,DEM,Yes,14,17,9,40
-Young,23,Proposition #8,,DEM,No,3,3,3,9
-Young,23,Proposition #9,,DEM,Yes,16,19,10,45
-Young,23,Proposition #9,,DEM,No,1,1,1,3
-Young,23,Proposition #10,,DEM,Yes,17,20,12,49
-Young,23,Proposition #10,,DEM,No,1,1,0,2
-Young,23,Proposition #11,,DEM,Yes,18,20,12,50
-Young,23,Proposition #11,,DEM,No,1,0,0,1
-Young,23,Proposition #12,,DEM,Yes,17,21,11,49
-Young,23,Proposition #12,,DEM,No,1,0,1,2
-Young,23,Proposition 1,,DEM,YES,141,37,131,309
-Young,23,Proposition 1,,DEM,NO,66,21,93,180
-Young,23,Proposition 2,,DEM,YES,199,57,208,464
-Young,23,Proposition 2,,DEM,NO,21,6,25,52
-Young,23,Proposition 3,,DEM,YES,192,63,197,452
-Young,23,Proposition 3,,DEM,NO,26,3,38,67
-Young,23,Proposition 4,,DEM,YES,200,59,214,473
-Young,23,Proposition 4,,DEM,NO,19,2,17,38
-Young,23,Proposition 5,,DEM,YES,151,47,150,348
-Young,23,Proposition 5,,DEM,NO,68,15,88,171
-Young,23,Proposition 6,,DEM,YES,208,66,217,491
-Young,23,Proposition 6,,DEM,NO,14,2,25,41
-Young,23,Proposition 7,,DEM,YES,161,53,179,393
-Young,23,Proposition 7,,DEM,NO,57,11,58,126
-Young,23,Proposition 8,,DEM,YES,220,66,229,515
-Young,23,Proposition 8,,DEM,NO,5,0,13,18
-Young,23,Proposition 9,,DEM,YES,194,62,210,466
-Young,23,Proposition 9,,DEM,NO,22,4,35,61
-Young,23,Proposition 10,,DEM,YES,201,62,205,468
-Young,23,Proposition 10,,DEM,NO,13,2,25,40
-Young,23,Proposition 11,,DEM,YES,196,62,205,463
-Young,23,Proposition 11,,DEM,NO,26,6,35,67
-Young,24,U.S. Senate,,REP,Ted Cruz,91,39,113,243
-Young,24,U.S. Senate,,REP,"Bruce Jacobson, Jr.",3,1,5,9
-Young,24,U.S. Senate,,REP,Geraldine Sam,0,1,0,1
-Young,24,U.S. Senate,,REP,Stefano de Stefano,2,0,4,6
-Young,24,U.S. Senate,,REP,Mary Miller,8,2,4,14
-Young,24,U.S. House,19,REP,Jodey Arrington,92,42,115,249
-Young,24,Governor,,REP,Greg Abbott,90,42,116,248
-Young,24,Governor,,REP,Barbara Krueger,10,2,5,17
+Young,23,Governor,,DEM,Jeffrey Payne,2,0,1,1
+Young,23,Governor,,DEM,James Jolly Clark,1,1,0,0
+Young,23,Governor,,DEM,Grady Yarbrough,9,1,2,6
+Young,23,Governor,,DEM,Tom Wakely,1,1,0,0
+Young,23,Governor,,DEM,Andrew White,13,4,2,7
+Young,23,Governor,,DEM,Adrian Ocegueda,3,1,0,2
+Young,23,Governor,,DEM,Lupe Valdez,9,5,3,1
+Young,23,Lieutenant Governor,,DEM,Mike Collier,26,10,7,9
+Young,23,Lieutenant Governor,,DEM,Michael Cooper,16,6,2,8
+Young,23,Attorney General,,DEM,Justin Nelson,36,13,7,16
+Young,23,Comptroller of Public Accounts,,DEM,Tim Mahoney,32,11,10,11
+Young,23,Comptroller of Public Accounts,,DEM,Joi Chevalier,12,4,1,7
+Young,23,Commissioner of the General Land Office,,DEM,Miguel Suazo,17,8,6,3
+Young,23,Commissioner of the General Land Office,,DEM,Tex Morgan,25,7,4,14
+Young,23,Commissioner of Agriculture,,DEM,Kim Olson,40,13,10,17
+Young,23,Railroad Commissioner,,DEM,Roman McAllen,24,7,8,9
+Young,23,Railroad Commissioner,,DEM,Chris Spellmon,19,8,3,8
+Young,23,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,38,14,8,16
+Young,23,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,37,13,8,16
+Young,23,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,37,13,8,16
+Young,23,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,36,14,7,15
+Young,23,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,36,13,7,16
+Young,23,State Senator,30,DEM,Kevin Lopez,38,14,8,16
+Young,23,"Justice, 2nd Court of Appeals District, Place No. 5",,DEM,Delonia A. Watson,37,13,8,16
+Young,23,County Chairman,,DEM,Fran Edens,35,12,7,16
+Young,23,Proposition #1,,DEM,Yes,49,16,12,21
+Young,23,Proposition #1,,DEM,No,1,1,0,0
+Young,23,Proposition #2,,DEM,Yes,46,16,12,18
+Young,23,Proposition #2,,DEM,No,3,2,0,1
+Young,23,Proposition #3,,DEM,Yes,47,17,12,18
+Young,23,Proposition #3,,DEM,No,3,1,0,2
+Young,23,Proposition #4,,DEM,Yes,48,17,12,19
+Young,23,Proposition #4,,DEM,No,1,1,0,0
+Young,23,Proposition #5,,DEM,Yes,41,14,11,16
+Young,23,Proposition #5,,DEM,No,6,2,1,3
+Young,23,Proposition #6,,DEM,Yes,50,17,12,21
+Young,23,Proposition #6,,DEM,No,1,1,0,0
+Young,23,Proposition #7,,DEM,Yes,50,17,12,21
+Young,23,Proposition #7,,DEM,No,1,1,0,0
+Young,23,Proposition #8,,DEM,Yes,40,14,9,17
+Young,23,Proposition #8,,DEM,No,9,3,3,3
+Young,23,Proposition #9,,DEM,Yes,45,16,10,19
+Young,23,Proposition #9,,DEM,No,3,1,1,1
+Young,23,Proposition #10,,DEM,Yes,49,17,12,20
+Young,23,Proposition #10,,DEM,No,2,1,0,1
+Young,23,Proposition #11,,DEM,Yes,50,18,12,20
+Young,23,Proposition #11,,DEM,No,1,1,0,0
+Young,23,Proposition #12,,DEM,Yes,49,17,11,21
+Young,23,Proposition #12,,DEM,No,2,1,1,0
+Young,23,Proposition 1,,DEM,YES,309,141,131,37
+Young,23,Proposition 1,,DEM,NO,180,66,93,21
+Young,23,Proposition 2,,DEM,YES,464,199,208,57
+Young,23,Proposition 2,,DEM,NO,52,21,25,6
+Young,23,Proposition 3,,DEM,YES,452,192,197,63
+Young,23,Proposition 3,,DEM,NO,67,26,38,3
+Young,23,Proposition 4,,DEM,YES,473,200,214,59
+Young,23,Proposition 4,,DEM,NO,38,19,17,2
+Young,23,Proposition 5,,DEM,YES,348,151,150,47
+Young,23,Proposition 5,,DEM,NO,171,68,88,15
+Young,23,Proposition 6,,DEM,YES,491,208,217,66
+Young,23,Proposition 6,,DEM,NO,41,14,25,2
+Young,23,Proposition 7,,DEM,YES,393,161,179,53
+Young,23,Proposition 7,,DEM,NO,126,57,58,11
+Young,23,Proposition 8,,DEM,YES,515,220,229,66
+Young,23,Proposition 8,,DEM,NO,18,5,13,0
+Young,23,Proposition 9,,DEM,YES,466,194,210,62
+Young,23,Proposition 9,,DEM,NO,61,22,35,4
+Young,23,Proposition 10,,DEM,YES,468,201,205,62
+Young,23,Proposition 10,,DEM,NO,40,13,25,2
+Young,23,Proposition 11,,DEM,YES,463,196,205,62
+Young,23,Proposition 11,,DEM,NO,67,26,35,6
+Young,24,U.S. Senate,,REP,Ted Cruz,243,91,113,39
+Young,24,U.S. Senate,,REP,"Bruce Jacobson, Jr.",9,3,5,1
+Young,24,U.S. Senate,,REP,Geraldine Sam,1,0,0,1
+Young,24,U.S. Senate,,REP,Stefano de Stefano,6,2,4,0
+Young,24,U.S. Senate,,REP,Mary Miller,14,8,4,2
+Young,24,U.S. House,19,REP,Jodey Arrington,249,92,115,42
+Young,24,Governor,,REP,Greg Abbott,248,90,116,42
+Young,24,Governor,,REP,Barbara Krueger,17,10,5,2
 Young,24,Governor,,REP,SECEDE Kilgore,0,0,0,0
-Young,24,Lieutenant Governor,,REP,Scott Milder,23,5,38,66
-Young,24,Lieutenant Governor,,REP,Dan Patrick,72,37,84,193
-Young,24,Attorney General,,REP,Ken Paxton,90,41,113,244
-Young,24,Comptroller of Public Accounts,,REP,Glenn Hegar,87,41,106,234
-Young,24,Commissioner of the General Land Office,,REP,Rick Range,6,6,18,30
-Young,24,Commissioner of the General Land Office,,REP,George P. Bush,57,24,69,150
-Young,24,Commissioner of the General Land Office,,REP,Jerry Patterson,23,10,20,53
-Young,24,Commissioner of the General Land Office,,REP,Davey Edwards,8,2,6,16
-Young,24,Commissioner of Agriculture,,REP,Jim Hogan,35,18,38,91
-Young,24,Commissioner of Agriculture,,REP,Sid Miller,41,17,53,111
-Young,24,Commissioner of Agriculture,,REP,Trey Blocker,12,6,17,35
-Young,24,Railroad Commissioner,,REP,Christi Craddick,72,38,87,197
-Young,24,Railroad Commissioner,,REP,Weston Martinez,17,3,18,38
-Young,24,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,82,40,105,227
-Young,24,"Justice, Supreme Court, Place 4",,REP,John Devine,80,39,106,225
-Young,24,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,79,40,105,224
-Young,24,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,60,25,65,150
-Young,24,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,28,14,43,85
-Young,24,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,82,39,105,226
-Young,24,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,43,19,41,103
-Young,24,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,28,14,44,86
-Young,24,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,13,6,15,34
-Young,24,State Senator,30,REP,Pat Fallon,59,35,85,179
-Young,24,State Senator,30,REP,Craig Carter,16,2,20,38
-Young,24,State Senator,30,REP,Craig Estes,27,7,22,56
-Young,24,State Representative,68,REP,Drew Springer,91,41,114,246
-Young,24,"Chief Justice, 2nd Court of Appeals District",,REP,Bonnie Sudderth,82,39,103,224
-Young,24,"Justice, 2nd Court of Appeals District, Place No. 4",,REP,Wade Birdwell,84,39,100,223
-Young,24,"Justice, 2nd Court of Appeals District, Place No. 5",,REP,Dabney Bassel,79,40,100,219
-Young,24,"Justice, 2nd Court of Appeals District, Place No. 6",,REP,Mark Pittman,80,38,97,215
-Young,24,County Judge,,REP,John C. Bullock,65,36,90,191
-Young,24,County Judge,,REP,Paul M. Hemphill,39,9,37,85
-Young,24,District Clerk,,REP,Jamie Freeze Land,90,40,107,237
-Young,24,County Clerk,,REP,Kay Jennings Hardin,89,40,112,241
-Young,24,County Treasurer,,REP,Ann B. Daily,87,41,112,240
-Young,24,"County Commissioner, Precinct No. 4",,REP,Jimmy Ray Wiley,92,41,110,243
-Young,24,"Justice of the Peace, Precinct No. 1",,REP,Jason Hearne,44,15,42,101
-Young,24,"Justice of the Peace, Precinct No. 1",,REP,Randy Saylor,14,12,33,59
-Young,24,"Justice of the Peace, Precinct No. 1",,REP,Norman B. Carpenter,21,6,24,51
-Young,24,"Justice of the Peace, Precinct No. 1",,REP,Jabe Underwood,23,12,25,60
-Young,24,County Chairman,,REP,Kyle Zohn Milam,88,40,111,239
-Young,24,U.S. Senate,,DEM,Edward Kimbrough,4,3,2,9
-Young,24,U.S. Senate,,DEM,Beto O'Rourke,6,6,16,28
-Young,24,U.S. Senate,,DEM,Sema Hernandez,6,0,1,7
-Young,24,U.S. House,19,DEM,Miguel Levario,14,8,16,38
-Young,24,Governor,,DEM,"Cedric Davis, Sr.",2,2,1,5
-Young,24,Governor,,DEM,Joe Mumbach,1,0,0,1
-Young,24,Governor,,DEM,Jeffrey Payne,2,1,0,3
+Young,24,Lieutenant Governor,,REP,Scott Milder,66,23,38,5
+Young,24,Lieutenant Governor,,REP,Dan Patrick,193,72,84,37
+Young,24,Attorney General,,REP,Ken Paxton,244,90,113,41
+Young,24,Comptroller of Public Accounts,,REP,Glenn Hegar,234,87,106,41
+Young,24,Commissioner of the General Land Office,,REP,Rick Range,30,6,18,6
+Young,24,Commissioner of the General Land Office,,REP,George P. Bush,150,57,69,24
+Young,24,Commissioner of the General Land Office,,REP,Jerry Patterson,53,23,20,10
+Young,24,Commissioner of the General Land Office,,REP,Davey Edwards,16,8,6,2
+Young,24,Commissioner of Agriculture,,REP,Jim Hogan,91,35,38,18
+Young,24,Commissioner of Agriculture,,REP,Sid Miller,111,41,53,17
+Young,24,Commissioner of Agriculture,,REP,Trey Blocker,35,12,17,6
+Young,24,Railroad Commissioner,,REP,Christi Craddick,197,72,87,38
+Young,24,Railroad Commissioner,,REP,Weston Martinez,38,17,18,3
+Young,24,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,227,82,105,40
+Young,24,"Justice, Supreme Court, Place 4",,REP,John Devine,225,80,106,39
+Young,24,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,224,79,105,40
+Young,24,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,150,60,65,25
+Young,24,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,85,28,43,14
+Young,24,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,226,82,105,39
+Young,24,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,103,43,41,19
+Young,24,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,86,28,44,14
+Young,24,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,34,13,15,6
+Young,24,State Senator,30,REP,Pat Fallon,179,59,85,35
+Young,24,State Senator,30,REP,Craig Carter,38,16,20,2
+Young,24,State Senator,30,REP,Craig Estes,56,27,22,7
+Young,24,State Representative,68,REP,Drew Springer,246,91,114,41
+Young,24,"Chief Justice, 2nd Court of Appeals District",,REP,Bonnie Sudderth,224,82,103,39
+Young,24,"Justice, 2nd Court of Appeals District, Place No. 4",,REP,Wade Birdwell,223,84,100,39
+Young,24,"Justice, 2nd Court of Appeals District, Place No. 5",,REP,Dabney Bassel,219,79,100,40
+Young,24,"Justice, 2nd Court of Appeals District, Place No. 6",,REP,Mark Pittman,215,80,97,38
+Young,24,County Judge,,REP,John C. Bullock,191,65,90,36
+Young,24,County Judge,,REP,Paul M. Hemphill,85,39,37,9
+Young,24,District Clerk,,REP,Jamie Freeze Land,237,90,107,40
+Young,24,County Clerk,,REP,Kay Jennings Hardin,241,89,112,40
+Young,24,County Treasurer,,REP,Ann B. Daily,240,87,112,41
+Young,24,"County Commissioner, Precinct No. 4",,REP,Jimmy Ray Wiley,243,92,110,41
+Young,24,"Justice of the Peace, Precinct No. 1",,REP,Jason Hearne,101,44,42,15
+Young,24,"Justice of the Peace, Precinct No. 1",,REP,Randy Saylor,59,14,33,12
+Young,24,"Justice of the Peace, Precinct No. 1",,REP,Norman B. Carpenter,51,21,24,6
+Young,24,"Justice of the Peace, Precinct No. 1",,REP,Jabe Underwood,60,23,25,12
+Young,24,County Chairman,,REP,Kyle Zohn Milam,239,88,111,40
+Young,24,U.S. Senate,,DEM,Edward Kimbrough,9,4,2,3
+Young,24,U.S. Senate,,DEM,Beto O'Rourke,28,6,16,6
+Young,24,U.S. Senate,,DEM,Sema Hernandez,7,6,1,0
+Young,24,U.S. House,19,DEM,Miguel Levario,38,14,16,8
+Young,24,Governor,,DEM,"Cedric Davis, Sr.",5,2,1,2
+Young,24,Governor,,DEM,Joe Mumbach,1,1,0,0
+Young,24,Governor,,DEM,Jeffrey Payne,3,2,0,1
 Young,24,Governor,,DEM,James Jolly Clark,0,0,0,0
-Young,24,Governor,,DEM,Grady Yarbrough,3,1,2,6
+Young,24,Governor,,DEM,Grady Yarbrough,6,3,2,1
 Young,24,Governor,,DEM,Tom Wakely,0,0,0,0
-Young,24,Governor,,DEM,Andrew White,1,4,9,14
-Young,24,Governor,,DEM,Adrian Ocegueda,2,0,0,2
-Young,24,Governor,,DEM,Lupe Valdez,5,2,6,13
-Young,24,Lieutenant Governor,,DEM,Mike Collier,12,6,14,32
-Young,24,Lieutenant Governor,,DEM,Michael Cooper,5,4,4,13
-Young,24,Attorney General,,DEM,Justin Nelson,15,9,18,42
-Young,24,Comptroller of Public Accounts,,DEM,Tim Mahoney,8,7,11,26
-Young,24,Comptroller of Public Accounts,,DEM,Joi Chevalier,9,1,7,17
-Young,24,Commissioner of the General Land Office,,DEM,Miguel Suazo,10,6,12,28
-Young,24,Commissioner of the General Land Office,,DEM,Tex Morgan,6,3,6,15
-Young,24,Commissioner of Agriculture,,DEM,Kim Olson,15,9,17,41
-Young,24,Railroad Commissioner,,DEM,Roman McAllen,7,5,10,22
-Young,24,Railroad Commissioner,,DEM,Chris Spellmon,9,4,8,21
-Young,24,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,15,9,17,41
-Young,24,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,15,9,16,40
-Young,24,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,15,9,17,41
-Young,24,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,15,9,16,40
-Young,24,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,15,8,17,40
-Young,24,State Senator,30,DEM,Kevin Lopez,15,8,16,39
-Young,24,"Justice, 2nd Court of Appeals District, Place No. 5",,DEM,Delonia A. Watson,15,8,17,40
-Young,24,County Chairman,,DEM,Fran Edens,15,9,18,42
-Young,24,Proposition #1,,DEM,Yes,17,9,20,46
-Young,24,Proposition #1,,DEM,No,0,1,1,2
-Young,24,Proposition #2,,DEM,Yes,16,9,21,46
-Young,24,Proposition #2,,DEM,No,0,1,0,1
-Young,24,Proposition #3,,DEM,Yes,16,9,20,45
-Young,24,Proposition #3,,DEM,No,0,1,1,2
-Young,24,Proposition #4,,DEM,Yes,16,9,19,44
-Young,24,Proposition #4,,DEM,No,0,1,0,1
-Young,24,Proposition #5,,DEM,Yes,16,9,18,43
-Young,24,Proposition #5,,DEM,No,1,1,2,4
-Young,24,Proposition #6,,DEM,Yes,17,10,18,45
-Young,24,Proposition #6,,DEM,No,0,0,2,2
-Young,24,Proposition #7,,DEM,Yes,17,10,19,46
-Young,24,Proposition #7,,DEM,No,0,0,1,1
-Young,24,Proposition #8,,DEM,Yes,15,9,16,40
-Young,24,Proposition #8,,DEM,No,1,1,4,6
-Young,24,Proposition #9,,DEM,Yes,17,9,17,43
-Young,24,Proposition #9,,DEM,No,0,1,2,3
-Young,24,Proposition #10,,DEM,Yes,17,10,19,46
-Young,24,Proposition #10,,DEM,No,0,0,2,2
-Young,24,Proposition #11,,DEM,Yes,15,10,18,43
-Young,24,Proposition #11,,DEM,No,2,0,2,4
-Young,24,Proposition #12,,DEM,Yes,14,10,17,41
-Young,24,Proposition #12,,DEM,No,1,0,2,3
-Young,24,Proposition 1,,DEM,YES,62,28,81,171
-Young,24,Proposition 1,,DEM,NO,33,11,37,81
-Young,24,Proposition 2,,DEM,YES,92,40,112,244
-Young,24,Proposition 2,,DEM,NO,7,3,9,19
-Young,24,Proposition 3,,DEM,YES,92,37,105,234
-Young,24,Proposition 3,,DEM,NO,7,6,17,30
-Young,24,Proposition 4,,DEM,YES,90,42,113,245
-Young,24,Proposition 4,,DEM,NO,9,1,11,21
-Young,24,Proposition 5,,DEM,YES,86,34,102,222
-Young,24,Proposition 5,,DEM,NO,16,8,22,46
-Young,24,Proposition 6,,DEM,YES,99,43,122,264
-Young,24,Proposition 6,,DEM,NO,5,0,4,9
-Young,24,Proposition 7,,DEM,YES,86,30,97,213
-Young,24,Proposition 7,,DEM,NO,17,13,26,56
-Young,24,Proposition 8,,DEM,YES,103,42,125,270
-Young,24,Proposition 8,,DEM,NO,1,1,2,4
-Young,24,Proposition 9,,DEM,YES,95,39,114,248
-Young,24,Proposition 9,,DEM,NO,9,3,9,21
-Young,24,Proposition 10,,DEM,YES,98,40,118,256
-Young,24,Proposition 10,,DEM,NO,4,1,4,9
-Young,24,Proposition 11,,DEM,YES,94,37,112,243
-Young,24,Proposition 11,,DEM,NO,11,6,12,29
+Young,24,Governor,,DEM,Andrew White,14,1,9,4
+Young,24,Governor,,DEM,Adrian Ocegueda,2,2,0,0
+Young,24,Governor,,DEM,Lupe Valdez,13,5,6,2
+Young,24,Lieutenant Governor,,DEM,Mike Collier,32,12,14,6
+Young,24,Lieutenant Governor,,DEM,Michael Cooper,13,5,4,4
+Young,24,Attorney General,,DEM,Justin Nelson,42,15,18,9
+Young,24,Comptroller of Public Accounts,,DEM,Tim Mahoney,26,8,11,7
+Young,24,Comptroller of Public Accounts,,DEM,Joi Chevalier,17,9,7,1
+Young,24,Commissioner of the General Land Office,,DEM,Miguel Suazo,28,10,12,6
+Young,24,Commissioner of the General Land Office,,DEM,Tex Morgan,15,6,6,3
+Young,24,Commissioner of Agriculture,,DEM,Kim Olson,41,15,17,9
+Young,24,Railroad Commissioner,,DEM,Roman McAllen,22,7,10,5
+Young,24,Railroad Commissioner,,DEM,Chris Spellmon,21,9,8,4
+Young,24,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,41,15,17,9
+Young,24,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,40,15,16,9
+Young,24,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,41,15,17,9
+Young,24,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,40,15,16,9
+Young,24,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,40,15,17,8
+Young,24,State Senator,30,DEM,Kevin Lopez,39,15,16,8
+Young,24,"Justice, 2nd Court of Appeals District, Place No. 5",,DEM,Delonia A. Watson,40,15,17,8
+Young,24,County Chairman,,DEM,Fran Edens,42,15,18,9
+Young,24,Proposition #1,,DEM,Yes,46,17,20,9
+Young,24,Proposition #1,,DEM,No,2,0,1,1
+Young,24,Proposition #2,,DEM,Yes,46,16,21,9
+Young,24,Proposition #2,,DEM,No,1,0,0,1
+Young,24,Proposition #3,,DEM,Yes,45,16,20,9
+Young,24,Proposition #3,,DEM,No,2,0,1,1
+Young,24,Proposition #4,,DEM,Yes,44,16,19,9
+Young,24,Proposition #4,,DEM,No,1,0,0,1
+Young,24,Proposition #5,,DEM,Yes,43,16,18,9
+Young,24,Proposition #5,,DEM,No,4,1,2,1
+Young,24,Proposition #6,,DEM,Yes,45,17,18,10
+Young,24,Proposition #6,,DEM,No,2,0,2,0
+Young,24,Proposition #7,,DEM,Yes,46,17,19,10
+Young,24,Proposition #7,,DEM,No,1,0,1,0
+Young,24,Proposition #8,,DEM,Yes,40,15,16,9
+Young,24,Proposition #8,,DEM,No,6,1,4,1
+Young,24,Proposition #9,,DEM,Yes,43,17,17,9
+Young,24,Proposition #9,,DEM,No,3,0,2,1
+Young,24,Proposition #10,,DEM,Yes,46,17,19,10
+Young,24,Proposition #10,,DEM,No,2,0,2,0
+Young,24,Proposition #11,,DEM,Yes,43,15,18,10
+Young,24,Proposition #11,,DEM,No,4,2,2,0
+Young,24,Proposition #12,,DEM,Yes,41,14,17,10
+Young,24,Proposition #12,,DEM,No,3,1,2,0
+Young,24,Proposition 1,,DEM,YES,171,62,81,28
+Young,24,Proposition 1,,DEM,NO,81,33,37,11
+Young,24,Proposition 2,,DEM,YES,244,92,112,40
+Young,24,Proposition 2,,DEM,NO,19,7,9,3
+Young,24,Proposition 3,,DEM,YES,234,92,105,37
+Young,24,Proposition 3,,DEM,NO,30,7,17,6
+Young,24,Proposition 4,,DEM,YES,245,90,113,42
+Young,24,Proposition 4,,DEM,NO,21,9,11,1
+Young,24,Proposition 5,,DEM,YES,222,86,102,34
+Young,24,Proposition 5,,DEM,NO,46,16,22,8
+Young,24,Proposition 6,,DEM,YES,264,99,122,43
+Young,24,Proposition 6,,DEM,NO,9,5,4,0
+Young,24,Proposition 7,,DEM,YES,213,86,97,30
+Young,24,Proposition 7,,DEM,NO,56,17,26,13
+Young,24,Proposition 8,,DEM,YES,270,103,125,42
+Young,24,Proposition 8,,DEM,NO,4,1,2,1
+Young,24,Proposition 9,,DEM,YES,248,95,114,39
+Young,24,Proposition 9,,DEM,NO,21,9,9,3
+Young,24,Proposition 10,,DEM,YES,256,98,118,40
+Young,24,Proposition 10,,DEM,NO,9,4,4,1
+Young,24,Proposition 11,,DEM,YES,243,94,112,37
+Young,24,Proposition 11,,DEM,NO,29,11,12,6

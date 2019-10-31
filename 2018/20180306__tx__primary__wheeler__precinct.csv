@@ -1,1368 +1,1368 @@
-county,precinct,office,district,party,candidate,votes,early_voting,election_day
+county,precinct,office,district,party,candidate,votes,election_day,early_voting
 Wheeler,1,U.S. Senate,,REP,"Bruce Jacobson, Jr.",2,1,1
 Wheeler,1,U.S. Senate,,REP,Stefano de Stefano,0,0,0
-Wheeler,1,U.S. Senate,,REP,Geraldine Sam,1,1,0
+Wheeler,1,U.S. Senate,,REP,Geraldine Sam,1,0,1
 Wheeler,1,U.S. Senate,,REP,Over Votes,0,0,0
-Wheeler,1,U.S. Senate,,REP,Under Votes,3,0,3
-Wheeler,1,U.S. Senate,,REP,Ted Cruz,86,27,59
+Wheeler,1,U.S. Senate,,REP,Under Votes,3,3,0
+Wheeler,1,U.S. Senate,,REP,Ted Cruz,86,59,27
 Wheeler,1,U.S. Senate,,REP,Mary Miller,2,1,1
-Wheeler,1,U.S. House,13,REP,Mac Thornberry,83,25,58
+Wheeler,1,U.S. House,13,REP,Mac Thornberry,83,58,25
 Wheeler,1,U.S. House,13,REP,Over Votes,0,0,0
-Wheeler,1,U.S. House,13,REP,Under Votes,10,4,6
-Wheeler,1,Governor,,REP,Greg Abbott,86,28,58
+Wheeler,1,U.S. House,13,REP,Under Votes,10,6,4
+Wheeler,1,Governor,,REP,Greg Abbott,86,58,28
 Wheeler,1,Governor,,REP,SECEDE Kilgore,2,1,1
-Wheeler,1,Governor,,REP,Barbara Krueger,1,0,1
-Wheeler,1,Lieutenant Governor,,REP,Dan Patrick,53,16,37
-Wheeler,1,Lieutenant Governor,,REP,Scott Milder,37,13,24
+Wheeler,1,Governor,,REP,Barbara Krueger,1,1,0
+Wheeler,1,Lieutenant Governor,,REP,Dan Patrick,53,37,16
+Wheeler,1,Lieutenant Governor,,REP,Scott Milder,37,24,13
 Wheeler,1,Lieutenant Governor,,REP,Over Votes,0,0,0
-Wheeler,1,Lieutenant Governor,,REP,Under Votes,4,1,3
-Wheeler,1,Attorney General,,REP,Ken Paxton,84,26,58
-Wheeler,1,Comptroller of Public Accounts,,REP,Glenn Hegar,83,26,57
+Wheeler,1,Lieutenant Governor,,REP,Under Votes,4,3,1
+Wheeler,1,Attorney General,,REP,Ken Paxton,84,58,26
+Wheeler,1,Comptroller of Public Accounts,,REP,Glenn Hegar,83,57,26
 Wheeler,1,Comptroller of Public Accounts,,REP,Over Votes,0,0,0
-Wheeler,1,Comptroller of Public Accounts,,REP,Under Votes,10,3,7
-Wheeler,1,Commissioner of the General Land Office,,REP,Rick Range,9,0,9
-Wheeler,1,Commissioner of the General Land Office,,REP,George P. Bush,56,22,34
-Wheeler,1,Commissioner of the General Land Office,,REP,Jerry Patterson,13,3,10
-Wheeler,1,Commissioner of the General Land Office,,REP,Davey Edwards,4,1,3
+Wheeler,1,Comptroller of Public Accounts,,REP,Under Votes,10,7,3
+Wheeler,1,Commissioner of the General Land Office,,REP,Rick Range,9,9,0
+Wheeler,1,Commissioner of the General Land Office,,REP,George P. Bush,56,34,22
+Wheeler,1,Commissioner of the General Land Office,,REP,Jerry Patterson,13,10,3
+Wheeler,1,Commissioner of the General Land Office,,REP,Davey Edwards,4,3,1
 Wheeler,1,Commissioner of the General Land Office,,REP,Over Votes,0,0,0
-Wheeler,1,Commissioner of the General Land Office,,REP,Under Votes,11,3,8
-Wheeler,1,Commissioner of Agriculture,,REP,Sid Miller,54,14,40
-Wheeler,1,Commissioner of Agriculture,,REP,Trey Blocker,15,9,6
-Wheeler,1,Commissioner of Agriculture,,REP,Jim Hogan,11,5,6
-Wheeler,1,Railroad Commissioner,,REP,Christi Craddick,65,26,39
+Wheeler,1,Commissioner of the General Land Office,,REP,Under Votes,11,8,3
+Wheeler,1,Commissioner of Agriculture,,REP,Sid Miller,54,40,14
+Wheeler,1,Commissioner of Agriculture,,REP,Trey Blocker,15,6,9
+Wheeler,1,Commissioner of Agriculture,,REP,Jim Hogan,11,6,5
+Wheeler,1,Railroad Commissioner,,REP,Christi Craddick,65,39,26
 Wheeler,1,Railroad Commissioner,,REP,Over Votes,0,0,0
-Wheeler,1,Railroad Commissioner,,REP,Under Votes,13,1,12
-Wheeler,1,Railroad Commissioner,,REP,Weston Martinez,15,2,13
-Wheeler,1,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,75,24,51
+Wheeler,1,Railroad Commissioner,,REP,Under Votes,13,12,1
+Wheeler,1,Railroad Commissioner,,REP,Weston Martinez,15,13,2
+Wheeler,1,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,75,51,24
 Wheeler,1,"Justice, Supreme Court, Place 2",,REP,Over Votes,0,0,0
-Wheeler,1,"Justice, Supreme Court, Place 2",,REP,Under Votes,19,6,13
-Wheeler,1,"Justice, Supreme Court, Place 4",,REP,John Devine,73,22,51
+Wheeler,1,"Justice, Supreme Court, Place 2",,REP,Under Votes,19,13,6
+Wheeler,1,"Justice, Supreme Court, Place 4",,REP,John Devine,73,51,22
 Wheeler,1,"Justice, Supreme Court, Place 4",,REP,Over Votes,0,0,0
-Wheeler,1,"Justice, Supreme Court, Place 4",,REP,Under Votes,21,8,13
-Wheeler,1,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,76,24,52
+Wheeler,1,"Justice, Supreme Court, Place 4",,REP,Under Votes,21,13,8
+Wheeler,1,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,76,52,24
 Wheeler,1,"Justice, Supreme Court, Place 6",,REP,Over Votes,0,0,0
-Wheeler,1,"Justice, Supreme Court, Place 6",,REP,Under Votes,18,6,12
-Wheeler,1,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,41,12,29
+Wheeler,1,"Justice, Supreme Court, Place 6",,REP,Under Votes,18,12,6
+Wheeler,1,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,41,29,12
 Wheeler,1,"Presiding Judge, Court of Criminal Appeals",,REP,Over Votes,0,0,0
-Wheeler,1,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,20,7,13
-Wheeler,1,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,32,10,22
-Wheeler,1,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,73,22,51
+Wheeler,1,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,20,13,7
+Wheeler,1,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,32,22,10
+Wheeler,1,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,73,51,22
 Wheeler,1,"Judge, Court of Criminal Appeals, Place 7",,REP,Over Votes,0,0,0
-Wheeler,1,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,21,8,13
-Wheeler,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,31,12,19
-Wheeler,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,30,5,25
-Wheeler,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,7,5,2
+Wheeler,1,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,21,13,8
+Wheeler,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,31,19,12
+Wheeler,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,30,25,5
+Wheeler,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,7,2,5
 Wheeler,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Over Votes,0,0,0
-Wheeler,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,25,7,18
-Wheeler,1,State Senator,31,REP,Victor Leal,20,7,13
+Wheeler,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,25,18,7
+Wheeler,1,State Senator,31,REP,Victor Leal,20,13,7
 Wheeler,1,State Senator,31,REP,Over Votes,0,0,0
-Wheeler,1,State Senator,31,REP,Under Votes,3,1,2
-Wheeler,1,State Senator,31,REP,Kel Seliger,47,15,32
-Wheeler,1,State Senator,31,REP,Mike Canon,24,7,17
-Wheeler,1,State Representative,68,REP,Drew Springer,78,24,54
+Wheeler,1,State Senator,31,REP,Under Votes,3,2,1
+Wheeler,1,State Senator,31,REP,Kel Seliger,47,32,15
+Wheeler,1,State Senator,31,REP,Mike Canon,24,17,7
+Wheeler,1,State Representative,68,REP,Drew Springer,78,54,24
 Wheeler,1,State Representative,68,REP,Over Votes,0,0,0
-Wheeler,1,State Representative,68,REP,Under Votes,16,6,10
-Wheeler,1,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,75,23,52
+Wheeler,1,State Representative,68,REP,Under Votes,16,10,6
+Wheeler,1,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,75,52,23
 Wheeler,1,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Over Votes,0,0,0
-Wheeler,1,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Under Votes,19,7,12
-Wheeler,1,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,76,24,52
+Wheeler,1,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Under Votes,19,12,7
+Wheeler,1,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,76,52,24
 Wheeler,1,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Over Votes,0,0,0
-Wheeler,1,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Under Votes,18,6,12
-Wheeler,1,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,82,24,58
+Wheeler,1,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Under Votes,18,12,6
+Wheeler,1,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,82,58,24
 Wheeler,1,"District Judge, 31st Judicial District",,REP,Over Votes,0,0,0
 Wheeler,1,"District Judge, 31st Judicial District",,REP,Under Votes,12,6,6
-Wheeler,1,County Judge,,REP,Jerry Dan Hefley,50,19,31
+Wheeler,1,County Judge,,REP,Jerry Dan Hefley,50,31,19
 Wheeler,1,County Judge,,REP,Over Votes,0,0,0
 Wheeler,1,County Judge,,REP,Under Votes,0,0,0
-Wheeler,1,County Judge,,REP,Ike Finsterwald,44,11,33
-Wheeler,1,District Clerk,,REP,Sherri Jones,87,28,59
+Wheeler,1,County Judge,,REP,Ike Finsterwald,44,33,11
+Wheeler,1,District Clerk,,REP,Sherri Jones,87,59,28
 Wheeler,1,District Clerk,,REP,Over Votes,0,0,0
-Wheeler,1,District Clerk,,REP,Under Votes,7,2,5
-Wheeler,1,County Clerk,,REP,Margaret Dorman,84,27,57
+Wheeler,1,District Clerk,,REP,Under Votes,7,5,2
+Wheeler,1,County Clerk,,REP,Margaret Dorman,84,57,27
 Wheeler,1,County Clerk,,REP,Over Votes,0,0,0
-Wheeler,1,County Clerk,,REP,Under Votes,10,3,7
-Wheeler,1,County Treasurer,,REP,Renee Warren,85,27,58
+Wheeler,1,County Clerk,,REP,Under Votes,10,7,3
+Wheeler,1,County Treasurer,,REP,Renee Warren,85,58,27
 Wheeler,1,County Treasurer,,REP,Over Votes,0,0,0
-Wheeler,1,County Treasurer,,REP,Under Votes,9,3,6
-Wheeler,1,"Justice of the Peace, Precinct No. 1",,REP,Mark Brown,84,27,57
+Wheeler,1,County Treasurer,,REP,Under Votes,9,6,3
+Wheeler,1,"Justice of the Peace, Precinct No. 1",,REP,Mark Brown,84,57,27
 Wheeler,1,"Justice of the Peace, Precinct No. 1",,REP,Over Votes,0,0,0
-Wheeler,1,"Justice of the Peace, Precinct No. 1",,REP,Under Votes,10,3,7
-Wheeler,1,County Chairman,,REP,Elizabeth McDowell,80,26,54
+Wheeler,1,"Justice of the Peace, Precinct No. 1",,REP,Under Votes,10,7,3
+Wheeler,1,County Chairman,,REP,Elizabeth McDowell,80,54,26
 Wheeler,1,County Chairman,,REP,Over Votes,0,0,0
-Wheeler,1,County Chairman,,REP,Under Votes,14,4,10
-Wheeler,1,Proposition 1,,,YES,46,13,33
+Wheeler,1,County Chairman,,REP,Under Votes,14,10,4
+Wheeler,1,Proposition 1,,,YES,46,33,13
 Wheeler,1,Proposition 1,,,Over Votes,0,0,0
-Wheeler,1,Proposition 1,,,Under Votes,11,3,8
-Wheeler,1,Proposition 1,,,NO,37,14,23
-Wheeler,1,Proposition 2,,,YES,70,20,50
+Wheeler,1,Proposition 1,,,Under Votes,11,8,3
+Wheeler,1,Proposition 1,,,NO,37,23,14
+Wheeler,1,Proposition 2,,,YES,70,50,20
 Wheeler,1,Proposition 2,,,Over Votes,0,0,0
-Wheeler,1,Proposition 2,,,Under Votes,12,5,7
-Wheeler,1,Proposition 2,,,NO,12,5,7
-Wheeler,1,Proposition 3,,,YES,80,25,55
+Wheeler,1,Proposition 2,,,Under Votes,12,7,5
+Wheeler,1,Proposition 2,,,NO,12,7,5
+Wheeler,1,Proposition 3,,,YES,80,55,25
 Wheeler,1,Proposition 3,,,Over Votes,0,0,0
-Wheeler,1,Proposition 3,,,Under Votes,9,3,6
-Wheeler,1,Proposition 3,,,NO,5,2,3
-Wheeler,1,Proposition 4,,,YES,74,23,51
+Wheeler,1,Proposition 3,,,Under Votes,9,6,3
+Wheeler,1,Proposition 3,,,NO,5,3,2
+Wheeler,1,Proposition 4,,,YES,74,51,23
 Wheeler,1,Proposition 4,,,Over Votes,0,0,0
-Wheeler,1,Proposition 4,,,Under Votes,10,4,6
-Wheeler,1,Proposition 4,,,NO,10,3,7
-Wheeler,1,Proposition 5,,,YES,49,11,38
+Wheeler,1,Proposition 4,,,Under Votes,10,6,4
+Wheeler,1,Proposition 4,,,NO,10,7,3
+Wheeler,1,Proposition 5,,,YES,49,38,11
 Wheeler,1,Proposition 5,,,Over Votes,0,0,0
-Wheeler,1,Proposition 5,,,Under Votes,7,4,3
-Wheeler,1,Proposition 5,,,NO,37,14,23
-Wheeler,1,Proposition 6,,,YES,85,25,60
+Wheeler,1,Proposition 5,,,Under Votes,7,3,4
+Wheeler,1,Proposition 5,,,NO,37,23,14
+Wheeler,1,Proposition 6,,,YES,85,60,25
 Wheeler,1,Proposition 6,,,Over Votes,0,0,0
-Wheeler,1,Proposition 6,,,Under Votes,5,3,2
+Wheeler,1,Proposition 6,,,Under Votes,5,2,3
 Wheeler,1,Proposition 6,,,NO,4,2,2
-Wheeler,1,Proposition 7,,,YES,75,25,50
+Wheeler,1,Proposition 7,,,YES,75,50,25
 Wheeler,1,Proposition 7,,,Over Votes,0,0,0
-Wheeler,1,Proposition 7,,,Under Votes,7,3,4
-Wheeler,1,Proposition 7,,,NO,12,2,10
-Wheeler,1,Proposition 8,,,YES,88,27,61
+Wheeler,1,Proposition 7,,,Under Votes,7,4,3
+Wheeler,1,Proposition 7,,,NO,12,10,2
+Wheeler,1,Proposition 8,,,YES,88,61,27
 Wheeler,1,Proposition 8,,,Over Votes,0,0,0
-Wheeler,1,Proposition 8,,,Under Votes,4,3,1
-Wheeler,1,Proposition 8,,,NO,2,0,2
-Wheeler,1,Proposition 9,,,YES,85,25,60
+Wheeler,1,Proposition 8,,,Under Votes,4,1,3
+Wheeler,1,Proposition 8,,,NO,2,2,0
+Wheeler,1,Proposition 9,,,YES,85,60,25
 Wheeler,1,Proposition 9,,,Over Votes,0,0,0
 Wheeler,1,Proposition 9,,,Under Votes,6,3,3
-Wheeler,1,Proposition 9,,,NO,3,2,1
-Wheeler,1,Proposition 10,,,YES,79,22,57
+Wheeler,1,Proposition 9,,,NO,3,1,2
+Wheeler,1,Proposition 10,,,YES,79,57,22
 Wheeler,1,Proposition 10,,,Over Votes,0,0,0
-Wheeler,1,Proposition 10,,,Under Votes,7,4,3
+Wheeler,1,Proposition 10,,,Under Votes,7,3,4
 Wheeler,1,Proposition 10,,,NO,8,4,4
-Wheeler,1,Proposition 11,,,YES,72,23,49
+Wheeler,1,Proposition 11,,,YES,72,49,23
 Wheeler,1,Proposition 11,,,Over Votes,0,0,0
-Wheeler,1,Proposition 11,,,Under Votes,7,3,4
-Wheeler,1,Proposition 11,,,NO,15,4,11
-Wheeler,2,U.S. Senate,,REP,"Bruce Jacobson, Jr.",5,3,2
-Wheeler,2,U.S. Senate,,REP,Stefano de Stefano,1,0,1
-Wheeler,2,U.S. Senate,,REP,Geraldine Sam,1,0,1
+Wheeler,1,Proposition 11,,,Under Votes,7,4,3
+Wheeler,1,Proposition 11,,,NO,15,11,4
+Wheeler,2,U.S. Senate,,REP,"Bruce Jacobson, Jr.",5,2,3
+Wheeler,2,U.S. Senate,,REP,Stefano de Stefano,1,1,0
+Wheeler,2,U.S. Senate,,REP,Geraldine Sam,1,1,0
 Wheeler,2,U.S. Senate,,REP,Over Votes,0,0,0
-Wheeler,2,U.S. Senate,,REP,Under Votes,22,13,9
-Wheeler,2,U.S. Senate,,REP,Ted Cruz,178,87,91
-Wheeler,2,U.S. Senate,,REP,Mary Miller,12,5,7
-Wheeler,2,U.S. House,13,REP,Mac Thornberry,174,86,88
+Wheeler,2,U.S. Senate,,REP,Under Votes,22,9,13
+Wheeler,2,U.S. Senate,,REP,Ted Cruz,178,91,87
+Wheeler,2,U.S. Senate,,REP,Mary Miller,12,7,5
+Wheeler,2,U.S. House,13,REP,Mac Thornberry,174,88,86
 Wheeler,2,U.S. House,13,REP,Over Votes,0,0,0
-Wheeler,2,U.S. House,13,REP,Under Votes,43,20,23
-Wheeler,2,Governor,,REP,Greg Abbott,169,78,91
+Wheeler,2,U.S. House,13,REP,Under Votes,43,23,20
+Wheeler,2,Governor,,REP,Greg Abbott,169,91,78
 Wheeler,2,Governor,,REP,SECEDE Kilgore,4,2,2
-Wheeler,2,Governor,,REP,Barbara Krueger,9,6,3
-Wheeler,2,Lieutenant Governor,,REP,Dan Patrick,112,49,63
-Wheeler,2,Lieutenant Governor,,REP,Scott Milder,77,42,35
+Wheeler,2,Governor,,REP,Barbara Krueger,9,3,6
+Wheeler,2,Lieutenant Governor,,REP,Dan Patrick,112,63,49
+Wheeler,2,Lieutenant Governor,,REP,Scott Milder,77,35,42
 Wheeler,2,Lieutenant Governor,,REP,Over Votes,0,0,0
-Wheeler,2,Lieutenant Governor,,REP,Under Votes,30,17,13
-Wheeler,2,Attorney General,,REP,Ken Paxton,163,78,85
-Wheeler,2,Comptroller of Public Accounts,,REP,Glenn Hegar,154,73,81
+Wheeler,2,Lieutenant Governor,,REP,Under Votes,30,13,17
+Wheeler,2,Attorney General,,REP,Ken Paxton,163,85,78
+Wheeler,2,Comptroller of Public Accounts,,REP,Glenn Hegar,154,81,73
 Wheeler,2,Comptroller of Public Accounts,,REP,Over Votes,0,0,0
-Wheeler,2,Comptroller of Public Accounts,,REP,Under Votes,63,33,30
-Wheeler,2,Commissioner of the General Land Office,,REP,Rick Range,22,14,8
-Wheeler,2,Commissioner of the General Land Office,,REP,George P. Bush,123,56,67
-Wheeler,2,Commissioner of the General Land Office,,REP,Jerry Patterson,27,11,16
-Wheeler,2,Commissioner of the General Land Office,,REP,Davey Edwards,5,1,4
+Wheeler,2,Comptroller of Public Accounts,,REP,Under Votes,63,30,33
+Wheeler,2,Commissioner of the General Land Office,,REP,Rick Range,22,8,14
+Wheeler,2,Commissioner of the General Land Office,,REP,George P. Bush,123,67,56
+Wheeler,2,Commissioner of the General Land Office,,REP,Jerry Patterson,27,16,11
+Wheeler,2,Commissioner of the General Land Office,,REP,Davey Edwards,5,4,1
 Wheeler,2,Commissioner of the General Land Office,,REP,Over Votes,0,0,0
-Wheeler,2,Commissioner of the General Land Office,,REP,Under Votes,42,26,16
-Wheeler,2,Commissioner of Agriculture,,REP,Sid Miller,98,44,54
-Wheeler,2,Commissioner of Agriculture,,REP,Trey Blocker,37,16,21
-Wheeler,2,Commissioner of Agriculture,,REP,Jim Hogan,29,15,14
-Wheeler,2,Railroad Commissioner,,REP,Christi Craddick,132,55,77
+Wheeler,2,Commissioner of the General Land Office,,REP,Under Votes,42,16,26
+Wheeler,2,Commissioner of Agriculture,,REP,Sid Miller,98,54,44
+Wheeler,2,Commissioner of Agriculture,,REP,Trey Blocker,37,21,16
+Wheeler,2,Commissioner of Agriculture,,REP,Jim Hogan,29,14,15
+Wheeler,2,Railroad Commissioner,,REP,Christi Craddick,132,77,55
 Wheeler,2,Railroad Commissioner,,REP,Over Votes,0,0,0
-Wheeler,2,Railroad Commissioner,,REP,Under Votes,59,38,21
-Wheeler,2,Railroad Commissioner,,REP,Weston Martinez,27,14,13
-Wheeler,2,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,139,62,77
+Wheeler,2,Railroad Commissioner,,REP,Under Votes,59,21,38
+Wheeler,2,Railroad Commissioner,,REP,Weston Martinez,27,13,14
+Wheeler,2,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,139,77,62
 Wheeler,2,"Justice, Supreme Court, Place 2",,REP,Over Votes,0,0,0
-Wheeler,2,"Justice, Supreme Court, Place 2",,REP,Under Votes,74,40,34
-Wheeler,2,"Justice, Supreme Court, Place 4",,REP,John Devine,138,63,75
+Wheeler,2,"Justice, Supreme Court, Place 2",,REP,Under Votes,74,34,40
+Wheeler,2,"Justice, Supreme Court, Place 4",,REP,John Devine,138,75,63
 Wheeler,2,"Justice, Supreme Court, Place 4",,REP,Over Votes,0,0,0
-Wheeler,2,"Justice, Supreme Court, Place 4",,REP,Under Votes,77,41,36
-Wheeler,2,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,137,61,76
+Wheeler,2,"Justice, Supreme Court, Place 4",,REP,Under Votes,77,36,41
+Wheeler,2,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,137,76,61
 Wheeler,2,"Justice, Supreme Court, Place 6",,REP,Over Votes,0,0,0
-Wheeler,2,"Justice, Supreme Court, Place 6",,REP,Under Votes,78,43,35
-Wheeler,2,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,106,50,56
+Wheeler,2,"Justice, Supreme Court, Place 6",,REP,Under Votes,78,35,43
+Wheeler,2,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,106,56,50
 Wheeler,2,"Presiding Judge, Court of Criminal Appeals",,REP,Over Votes,0,0,0
-Wheeler,2,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,68,42,26
-Wheeler,2,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,43,14,29
-Wheeler,2,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,138,64,74
+Wheeler,2,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,68,26,42
+Wheeler,2,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,43,29,14
+Wheeler,2,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,138,74,64
 Wheeler,2,"Judge, Court of Criminal Appeals, Place 7",,REP,Over Votes,0,0,0
-Wheeler,2,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,77,40,37
-Wheeler,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,79,38,41
-Wheeler,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,50,20,30
-Wheeler,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,13,4,9
+Wheeler,2,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,77,37,40
+Wheeler,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,79,41,38
+Wheeler,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,50,30,20
+Wheeler,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,13,9,4
 Wheeler,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Over Votes,0,0,0
-Wheeler,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,75,44,31
-Wheeler,2,State Senator,31,REP,Victor Leal,75,32,43
+Wheeler,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,75,31,44
+Wheeler,2,State Senator,31,REP,Victor Leal,75,43,32
 Wheeler,2,State Senator,31,REP,Over Votes,0,0,0
 Wheeler,2,State Senator,31,REP,Under Votes,8,4,4
-Wheeler,2,State Senator,31,REP,Kel Seliger,92,59,33
-Wheeler,2,State Senator,31,REP,Mike Canon,43,12,31
-Wheeler,2,State Representative,68,REP,Drew Springer,169,83,86
+Wheeler,2,State Senator,31,REP,Kel Seliger,92,33,59
+Wheeler,2,State Senator,31,REP,Mike Canon,43,31,12
+Wheeler,2,State Representative,68,REP,Drew Springer,169,86,83
 Wheeler,2,State Representative,68,REP,Over Votes,0,0,0
-Wheeler,2,State Representative,68,REP,Under Votes,47,22,25
-Wheeler,2,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,144,65,79
+Wheeler,2,State Representative,68,REP,Under Votes,47,25,22
+Wheeler,2,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,144,79,65
 Wheeler,2,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Over Votes,0,0,0
-Wheeler,2,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Under Votes,71,39,32
-Wheeler,2,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,146,68,78
+Wheeler,2,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Under Votes,71,32,39
+Wheeler,2,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,146,78,68
 Wheeler,2,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Over Votes,0,0,0
-Wheeler,2,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Under Votes,69,36,33
-Wheeler,2,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,180,85,95
+Wheeler,2,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Under Votes,69,33,36
+Wheeler,2,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,180,95,85
 Wheeler,2,"District Judge, 31st Judicial District",,REP,Over Votes,0,0,0
-Wheeler,2,"District Judge, 31st Judicial District",,REP,Under Votes,36,20,16
-Wheeler,2,County Judge,,REP,Jerry Dan Hefley,85,46,39
+Wheeler,2,"District Judge, 31st Judicial District",,REP,Under Votes,36,16,20
+Wheeler,2,County Judge,,REP,Jerry Dan Hefley,85,39,46
 Wheeler,2,County Judge,,REP,Over Votes,0,0,0
-Wheeler,2,County Judge,,REP,Under Votes,2,0,2
-Wheeler,2,County Judge,,REP,Ike Finsterwald,134,64,70
-Wheeler,2,District Clerk,,REP,Sherri Jones,192,94,98
+Wheeler,2,County Judge,,REP,Under Votes,2,2,0
+Wheeler,2,County Judge,,REP,Ike Finsterwald,134,70,64
+Wheeler,2,District Clerk,,REP,Sherri Jones,192,98,94
 Wheeler,2,District Clerk,,REP,Over Votes,0,0,0
 Wheeler,2,District Clerk,,REP,Under Votes,26,13,13
-Wheeler,2,County Clerk,,REP,Margaret Dorman,196,97,99
+Wheeler,2,County Clerk,,REP,Margaret Dorman,196,99,97
 Wheeler,2,County Clerk,,REP,Over Votes,0,0,0
-Wheeler,2,County Clerk,,REP,Under Votes,22,10,12
-Wheeler,2,County Treasurer,,REP,Renee Warren,182,89,93
+Wheeler,2,County Clerk,,REP,Under Votes,22,12,10
+Wheeler,2,County Treasurer,,REP,Renee Warren,182,93,89
 Wheeler,2,County Treasurer,,REP,Over Votes,0,0,0
-Wheeler,2,County Treasurer,,REP,Under Votes,37,19,18
-Wheeler,2,"Justice of the Peace, Precinct No. 1",,REP,Mark Brown,195,96,99
+Wheeler,2,County Treasurer,,REP,Under Votes,37,18,19
+Wheeler,2,"Justice of the Peace, Precinct No. 1",,REP,Mark Brown,195,99,96
 Wheeler,2,"Justice of the Peace, Precinct No. 1",,REP,Over Votes,0,0,0
-Wheeler,2,"Justice of the Peace, Precinct No. 1",,REP,Under Votes,23,11,12
-Wheeler,2,County Chairman,,REP,Elizabeth McDowell,168,81,87
+Wheeler,2,"Justice of the Peace, Precinct No. 1",,REP,Under Votes,23,12,11
+Wheeler,2,County Chairman,,REP,Elizabeth McDowell,168,87,81
 Wheeler,2,County Chairman,,REP,Over Votes,0,0,0
-Wheeler,2,County Chairman,,REP,Under Votes,51,27,24
-Wheeler,2,Proposition 1,,,YES,126,61,65
+Wheeler,2,County Chairman,,REP,Under Votes,51,24,27
+Wheeler,2,Proposition 1,,,YES,126,65,61
 Wheeler,2,Proposition 1,,,Over Votes,0,0,0
-Wheeler,2,Proposition 1,,,Under Votes,38,20,18
-Wheeler,2,Proposition 1,,,NO,53,25,28
-Wheeler,2,Proposition 2,,,YES,173,83,90
+Wheeler,2,Proposition 1,,,Under Votes,38,18,20
+Wheeler,2,Proposition 1,,,NO,53,28,25
+Wheeler,2,Proposition 2,,,YES,173,90,83
 Wheeler,2,Proposition 2,,,Over Votes,0,0,0
-Wheeler,2,Proposition 2,,,Under Votes,30,17,13
-Wheeler,2,Proposition 2,,,NO,15,7,8
-Wheeler,2,Proposition 3,,,YES,162,77,85
+Wheeler,2,Proposition 2,,,Under Votes,30,13,17
+Wheeler,2,Proposition 2,,,NO,15,8,7
+Wheeler,2,Proposition 3,,,YES,162,85,77
 Wheeler,2,Proposition 3,,,Over Votes,0,0,0
-Wheeler,2,Proposition 3,,,Under Votes,36,21,15
-Wheeler,2,Proposition 3,,,NO,19,8,11
-Wheeler,2,Proposition 4,,,YES,173,84,89
+Wheeler,2,Proposition 3,,,Under Votes,36,15,21
+Wheeler,2,Proposition 3,,,NO,19,11,8
+Wheeler,2,Proposition 4,,,YES,173,89,84
 Wheeler,2,Proposition 4,,,Over Votes,0,0,0
-Wheeler,2,Proposition 4,,,Under Votes,26,14,12
-Wheeler,2,Proposition 4,,,NO,19,9,10
-Wheeler,2,Proposition 5,,,YES,118,52,66
+Wheeler,2,Proposition 4,,,Under Votes,26,12,14
+Wheeler,2,Proposition 4,,,NO,19,10,9
+Wheeler,2,Proposition 5,,,YES,118,66,52
 Wheeler,2,Proposition 5,,,Over Votes,0,0,0
-Wheeler,2,Proposition 5,,,Under Votes,25,12,13
-Wheeler,2,Proposition 5,,,NO,75,43,32
-Wheeler,2,Proposition 6,,,YES,191,95,96
+Wheeler,2,Proposition 5,,,Under Votes,25,13,12
+Wheeler,2,Proposition 5,,,NO,75,32,43
+Wheeler,2,Proposition 6,,,YES,191,96,95
 Wheeler,2,Proposition 6,,,Over Votes,0,0,0
 Wheeler,2,Proposition 6,,,Under Votes,22,11,11
-Wheeler,2,Proposition 6,,,NO,6,2,4
-Wheeler,2,Proposition 7,,,YES,152,72,80
+Wheeler,2,Proposition 6,,,NO,6,4,2
+Wheeler,2,Proposition 7,,,YES,152,80,72
 Wheeler,2,Proposition 7,,,Over Votes,0,0,0
-Wheeler,2,Proposition 7,,,Under Votes,21,11,10
-Wheeler,2,Proposition 7,,,NO,46,25,21
-Wheeler,2,Proposition 8,,,YES,192,94,98
+Wheeler,2,Proposition 7,,,Under Votes,21,10,11
+Wheeler,2,Proposition 7,,,NO,46,21,25
+Wheeler,2,Proposition 8,,,YES,192,98,94
 Wheeler,2,Proposition 8,,,Over Votes,0,0,0
-Wheeler,2,Proposition 8,,,Under Votes,19,9,10
-Wheeler,2,Proposition 8,,,NO,8,5,3
-Wheeler,2,Proposition 9,,,YES,188,92,96
+Wheeler,2,Proposition 8,,,Under Votes,19,10,9
+Wheeler,2,Proposition 8,,,NO,8,3,5
+Wheeler,2,Proposition 9,,,YES,188,96,92
 Wheeler,2,Proposition 9,,,Over Votes,0,0,0
-Wheeler,2,Proposition 9,,,Under Votes,17,10,7
-Wheeler,2,Proposition 9,,,NO,13,5,8
-Wheeler,2,Proposition 10,,,YES,174,85,89
+Wheeler,2,Proposition 9,,,Under Votes,17,7,10
+Wheeler,2,Proposition 9,,,NO,13,8,5
+Wheeler,2,Proposition 10,,,YES,174,89,85
 Wheeler,2,Proposition 10,,,Over Votes,0,0,0
-Wheeler,2,Proposition 10,,,Under Votes,29,17,12
-Wheeler,2,Proposition 10,,,NO,15,5,10
-Wheeler,2,Proposition 11,,,YES,172,84,88
+Wheeler,2,Proposition 10,,,Under Votes,29,12,17
+Wheeler,2,Proposition 10,,,NO,15,10,5
+Wheeler,2,Proposition 11,,,YES,172,88,84
 Wheeler,2,Proposition 11,,,Over Votes,0,0,0
-Wheeler,2,Proposition 11,,,Under Votes,20,9,11
-Wheeler,2,Proposition 11,,,NO,27,15,12
-Wheeler,3,U.S. Senate,,REP,"Bruce Jacobson, Jr.",7,3,4
+Wheeler,2,Proposition 11,,,Under Votes,20,11,9
+Wheeler,2,Proposition 11,,,NO,27,12,15
+Wheeler,3,U.S. Senate,,REP,"Bruce Jacobson, Jr.",7,4,3
 Wheeler,3,U.S. Senate,,REP,Stefano de Stefano,0,0,0
-Wheeler,3,U.S. Senate,,REP,Geraldine Sam,6,1,5
+Wheeler,3,U.S. Senate,,REP,Geraldine Sam,6,5,1
 Wheeler,3,U.S. Senate,,REP,Over Votes,0,0,0
-Wheeler,3,U.S. Senate,,REP,Under Votes,26,15,11
-Wheeler,3,U.S. Senate,,REP,Ted Cruz,171,77,94
-Wheeler,3,U.S. Senate,,REP,Mary Miller,8,3,5
-Wheeler,3,U.S. House,13,REP,Mac Thornberry,184,80,104
+Wheeler,3,U.S. Senate,,REP,Under Votes,26,11,15
+Wheeler,3,U.S. Senate,,REP,Ted Cruz,171,94,77
+Wheeler,3,U.S. Senate,,REP,Mary Miller,8,5,3
+Wheeler,3,U.S. House,13,REP,Mac Thornberry,184,104,80
 Wheeler,3,U.S. House,13,REP,Over Votes,0,0,0
-Wheeler,3,U.S. House,13,REP,Under Votes,34,19,15
-Wheeler,3,Governor,,REP,Greg Abbott,165,67,98
-Wheeler,3,Governor,,REP,SECEDE Kilgore,7,4,3
-Wheeler,3,Governor,,REP,Barbara Krueger,9,5,4
-Wheeler,3,Lieutenant Governor,,REP,Dan Patrick,112,41,71
-Wheeler,3,Lieutenant Governor,,REP,Scott Milder,76,40,36
+Wheeler,3,U.S. House,13,REP,Under Votes,34,15,19
+Wheeler,3,Governor,,REP,Greg Abbott,165,98,67
+Wheeler,3,Governor,,REP,SECEDE Kilgore,7,3,4
+Wheeler,3,Governor,,REP,Barbara Krueger,9,4,5
+Wheeler,3,Lieutenant Governor,,REP,Dan Patrick,112,71,41
+Wheeler,3,Lieutenant Governor,,REP,Scott Milder,76,36,40
 Wheeler,3,Lieutenant Governor,,REP,Over Votes,0,0,0
-Wheeler,3,Lieutenant Governor,,REP,Under Votes,29,17,12
-Wheeler,3,Attorney General,,REP,Ken Paxton,165,66,99
-Wheeler,3,Comptroller of Public Accounts,,REP,Glenn Hegar,154,61,93
+Wheeler,3,Lieutenant Governor,,REP,Under Votes,29,12,17
+Wheeler,3,Attorney General,,REP,Ken Paxton,165,99,66
+Wheeler,3,Comptroller of Public Accounts,,REP,Glenn Hegar,154,93,61
 Wheeler,3,Comptroller of Public Accounts,,REP,Over Votes,0,0,0
-Wheeler,3,Comptroller of Public Accounts,,REP,Under Votes,61,35,26
-Wheeler,3,Commissioner of the General Land Office,,REP,Rick Range,16,11,5
-Wheeler,3,Commissioner of the General Land Office,,REP,George P. Bush,132,58,74
-Wheeler,3,Commissioner of the General Land Office,,REP,Jerry Patterson,23,7,16
-Wheeler,3,Commissioner of the General Land Office,,REP,Davey Edwards,8,1,7
+Wheeler,3,Comptroller of Public Accounts,,REP,Under Votes,61,26,35
+Wheeler,3,Commissioner of the General Land Office,,REP,Rick Range,16,5,11
+Wheeler,3,Commissioner of the General Land Office,,REP,George P. Bush,132,74,58
+Wheeler,3,Commissioner of the General Land Office,,REP,Jerry Patterson,23,16,7
+Wheeler,3,Commissioner of the General Land Office,,REP,Davey Edwards,8,7,1
 Wheeler,3,Commissioner of the General Land Office,,REP,Over Votes,0,0,0
-Wheeler,3,Commissioner of the General Land Office,,REP,Under Votes,37,20,17
-Wheeler,3,Commissioner of Agriculture,,REP,Sid Miller,95,36,59
-Wheeler,3,Commissioner of Agriculture,,REP,Trey Blocker,31,12,19
-Wheeler,3,Commissioner of Agriculture,,REP,Jim Hogan,24,10,14
-Wheeler,3,Railroad Commissioner,,REP,Christi Craddick,113,37,76
+Wheeler,3,Commissioner of the General Land Office,,REP,Under Votes,37,17,20
+Wheeler,3,Commissioner of Agriculture,,REP,Sid Miller,95,59,36
+Wheeler,3,Commissioner of Agriculture,,REP,Trey Blocker,31,19,12
+Wheeler,3,Commissioner of Agriculture,,REP,Jim Hogan,24,14,10
+Wheeler,3,Railroad Commissioner,,REP,Christi Craddick,113,76,37
 Wheeler,3,Railroad Commissioner,,REP,Over Votes,0,0,0
-Wheeler,3,Railroad Commissioner,,REP,Under Votes,70,45,25
-Wheeler,3,Railroad Commissioner,,REP,Weston Martinez,32,14,18
-Wheeler,3,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,142,50,92
+Wheeler,3,Railroad Commissioner,,REP,Under Votes,70,25,45
+Wheeler,3,Railroad Commissioner,,REP,Weston Martinez,32,18,14
+Wheeler,3,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,142,92,50
 Wheeler,3,"Justice, Supreme Court, Place 2",,REP,Over Votes,0,0,0
-Wheeler,3,"Justice, Supreme Court, Place 2",,REP,Under Votes,73,46,27
-Wheeler,3,"Justice, Supreme Court, Place 4",,REP,John Devine,139,50,89
+Wheeler,3,"Justice, Supreme Court, Place 2",,REP,Under Votes,73,27,46
+Wheeler,3,"Justice, Supreme Court, Place 4",,REP,John Devine,139,89,50
 Wheeler,3,"Justice, Supreme Court, Place 4",,REP,Over Votes,0,0,0
-Wheeler,3,"Justice, Supreme Court, Place 4",,REP,Under Votes,76,46,30
-Wheeler,3,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,140,49,91
+Wheeler,3,"Justice, Supreme Court, Place 4",,REP,Under Votes,76,30,46
+Wheeler,3,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,140,91,49
 Wheeler,3,"Justice, Supreme Court, Place 6",,REP,Over Votes,0,0,0
-Wheeler,3,"Justice, Supreme Court, Place 6",,REP,Under Votes,73,45,28
-Wheeler,3,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,95,30,65
+Wheeler,3,"Justice, Supreme Court, Place 6",,REP,Under Votes,73,28,45
+Wheeler,3,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,95,65,30
 Wheeler,3,"Presiding Judge, Court of Criminal Appeals",,REP,Over Votes,0,0,0
-Wheeler,3,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,71,48,23
-Wheeler,3,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,50,19,31
-Wheeler,3,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,133,45,88
+Wheeler,3,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,71,23,48
+Wheeler,3,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,50,31,19
+Wheeler,3,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,133,88,45
 Wheeler,3,"Judge, Court of Criminal Appeals, Place 7",,REP,Over Votes,0,0,0
-Wheeler,3,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,81,50,31
-Wheeler,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,64,19,45
-Wheeler,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,58,20,38
-Wheeler,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,11,6,5
+Wheeler,3,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,81,31,50
+Wheeler,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,64,45,19
+Wheeler,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,58,38,20
+Wheeler,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,11,5,6
 Wheeler,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Over Votes,0,0,0
-Wheeler,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,81,50,31
-Wheeler,3,State Senator,31,REP,Victor Leal,49,22,27
+Wheeler,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,81,31,50
+Wheeler,3,State Senator,31,REP,Victor Leal,49,27,22
 Wheeler,3,State Senator,31,REP,Over Votes,0,0,0
-Wheeler,3,State Senator,31,REP,Under Votes,25,14,11
-Wheeler,3,State Senator,31,REP,Kel Seliger,114,52,62
-Wheeler,3,State Senator,31,REP,Mike Canon,30,11,19
-Wheeler,3,State Representative,68,REP,Drew Springer,152,57,95
+Wheeler,3,State Senator,31,REP,Under Votes,25,11,14
+Wheeler,3,State Senator,31,REP,Kel Seliger,114,62,52
+Wheeler,3,State Senator,31,REP,Mike Canon,30,19,11
+Wheeler,3,State Representative,68,REP,Drew Springer,152,95,57
 Wheeler,3,State Representative,68,REP,Over Votes,0,0,0
-Wheeler,3,State Representative,68,REP,Under Votes,63,39,24
-Wheeler,3,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,136,48,88
+Wheeler,3,State Representative,68,REP,Under Votes,63,24,39
+Wheeler,3,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,136,88,48
 Wheeler,3,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Over Votes,0,0,0
-Wheeler,3,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Under Votes,78,47,31
-Wheeler,3,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,132,48,84
+Wheeler,3,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Under Votes,78,31,47
+Wheeler,3,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,132,84,48
 Wheeler,3,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Over Votes,0,0,0
-Wheeler,3,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Under Votes,81,46,35
-Wheeler,3,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,176,72,104
+Wheeler,3,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Under Votes,81,35,46
+Wheeler,3,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,176,104,72
 Wheeler,3,"District Judge, 31st Judicial District",,REP,Over Votes,0,0,0
-Wheeler,3,"District Judge, 31st Judicial District",,REP,Under Votes,40,25,15
-Wheeler,3,County Judge,,REP,Jerry Dan Hefley,93,38,55
+Wheeler,3,"District Judge, 31st Judicial District",,REP,Under Votes,40,15,25
+Wheeler,3,County Judge,,REP,Jerry Dan Hefley,93,55,38
 Wheeler,3,County Judge,,REP,Over Votes,0,0,0
-Wheeler,3,County Judge,,REP,Under Votes,3,2,1
-Wheeler,3,County Judge,,REP,Ike Finsterwald,121,58,63
-Wheeler,3,District Clerk,,REP,Sherri Jones,197,89,108
+Wheeler,3,County Judge,,REP,Under Votes,3,1,2
+Wheeler,3,County Judge,,REP,Ike Finsterwald,121,63,58
+Wheeler,3,District Clerk,,REP,Sherri Jones,197,108,89
 Wheeler,3,District Clerk,,REP,Over Votes,0,0,0
-Wheeler,3,District Clerk,,REP,Under Votes,21,10,11
-Wheeler,3,County Clerk,,REP,Margaret Dorman,198,89,109
+Wheeler,3,District Clerk,,REP,Under Votes,21,11,10
+Wheeler,3,County Clerk,,REP,Margaret Dorman,198,109,89
 Wheeler,3,County Clerk,,REP,Over Votes,0,0,0
 Wheeler,3,County Clerk,,REP,Under Votes,20,10,10
-Wheeler,3,County Treasurer,,REP,Renee Warren,179,76,103
+Wheeler,3,County Treasurer,,REP,Renee Warren,179,103,76
 Wheeler,3,County Treasurer,,REP,Over Votes,0,0,0
-Wheeler,3,County Treasurer,,REP,Under Votes,36,20,16
-Wheeler,3,"County Commissioner, Precinct No. 2",,REP,Gary Davis,94,44,50
+Wheeler,3,County Treasurer,,REP,Under Votes,36,16,20
+Wheeler,3,"County Commissioner, Precinct No. 2",,REP,Gary Davis,94,50,44
 Wheeler,3,"County Commissioner, Precinct No. 2",,REP,Over Votes,0,0,0
 Wheeler,3,"County Commissioner, Precinct No. 2",,REP,Under Votes,10,5,5
-Wheeler,3,"County Commissioner, Precinct No. 2",,REP,Bob Hink,113,49,64
-Wheeler,3,"Justice of the Peace, Precinct No. 1",,REP,Mark Brown,194,85,109
+Wheeler,3,"County Commissioner, Precinct No. 2",,REP,Bob Hink,113,64,49
+Wheeler,3,"Justice of the Peace, Precinct No. 1",,REP,Mark Brown,194,109,85
 Wheeler,3,"Justice of the Peace, Precinct No. 1",,REP,Over Votes,0,0,0
-Wheeler,3,"Justice of the Peace, Precinct No. 1",,REP,Under Votes,22,12,10
-Wheeler,3,County Chairman,,REP,Elizabeth McDowell,174,72,102
+Wheeler,3,"Justice of the Peace, Precinct No. 1",,REP,Under Votes,22,10,12
+Wheeler,3,County Chairman,,REP,Elizabeth McDowell,174,102,72
 Wheeler,3,County Chairman,,REP,Over Votes,0,0,0
-Wheeler,3,County Chairman,,REP,Under Votes,44,27,17
-Wheeler,3,Proposition 1,,,YES,105,37,68
+Wheeler,3,County Chairman,,REP,Under Votes,44,17,27
+Wheeler,3,Proposition 1,,,YES,105,68,37
 Wheeler,3,Proposition 1,,,Over Votes,0,0,0
-Wheeler,3,Proposition 1,,,Under Votes,46,30,16
-Wheeler,3,Proposition 1,,,NO,63,28,35
-Wheeler,3,Proposition 2,,,YES,166,71,95
+Wheeler,3,Proposition 1,,,Under Votes,46,16,30
+Wheeler,3,Proposition 1,,,NO,63,35,28
+Wheeler,3,Proposition 2,,,YES,166,95,71
 Wheeler,3,Proposition 2,,,Over Votes,0,0,0
-Wheeler,3,Proposition 2,,,Under Votes,30,18,12
-Wheeler,3,Proposition 2,,,NO,22,10,12
-Wheeler,3,Proposition 3,,,YES,159,68,91
+Wheeler,3,Proposition 2,,,Under Votes,30,12,18
+Wheeler,3,Proposition 2,,,NO,22,12,10
+Wheeler,3,Proposition 3,,,YES,159,91,68
 Wheeler,3,Proposition 3,,,Over Votes,0,0,0
-Wheeler,3,Proposition 3,,,Under Votes,38,24,14
-Wheeler,3,Proposition 3,,,NO,21,7,14
-Wheeler,3,Proposition 4,,,YES,165,74,91
+Wheeler,3,Proposition 3,,,Under Votes,38,14,24
+Wheeler,3,Proposition 3,,,NO,21,14,7
+Wheeler,3,Proposition 4,,,YES,165,91,74
 Wheeler,3,Proposition 4,,,Over Votes,0,0,0
-Wheeler,3,Proposition 4,,,Under Votes,27,13,14
-Wheeler,3,Proposition 4,,,NO,25,11,14
-Wheeler,3,Proposition 5,,,YES,105,41,64
+Wheeler,3,Proposition 4,,,Under Votes,27,14,13
+Wheeler,3,Proposition 4,,,NO,25,14,11
+Wheeler,3,Proposition 5,,,YES,105,64,41
 Wheeler,3,Proposition 5,,,Over Votes,0,0,0
-Wheeler,3,Proposition 5,,,Under Votes,30,13,17
-Wheeler,3,Proposition 5,,,NO,83,45,38
-Wheeler,3,Proposition 6,,,YES,179,81,98
+Wheeler,3,Proposition 5,,,Under Votes,30,17,13
+Wheeler,3,Proposition 5,,,NO,83,38,45
+Wheeler,3,Proposition 6,,,YES,179,98,81
 Wheeler,3,Proposition 6,,,Over Votes,0,0,0
-Wheeler,3,Proposition 6,,,Under Votes,28,13,15
-Wheeler,3,Proposition 6,,,NO,11,5,6
-Wheeler,3,Proposition 7,,,YES,139,68,71
+Wheeler,3,Proposition 6,,,Under Votes,28,15,13
+Wheeler,3,Proposition 6,,,NO,11,6,5
+Wheeler,3,Proposition 7,,,YES,139,71,68
 Wheeler,3,Proposition 7,,,Over Votes,0,0,0
-Wheeler,3,Proposition 7,,,Under Votes,30,12,18
-Wheeler,3,Proposition 7,,,NO,48,18,30
-Wheeler,3,Proposition 8,,,YES,181,83,98
+Wheeler,3,Proposition 7,,,Under Votes,30,18,12
+Wheeler,3,Proposition 7,,,NO,48,30,18
+Wheeler,3,Proposition 8,,,YES,181,98,83
 Wheeler,3,Proposition 8,,,Over Votes,0,0,0
-Wheeler,3,Proposition 8,,,Under Votes,27,11,16
+Wheeler,3,Proposition 8,,,Under Votes,27,16,11
 Wheeler,3,Proposition 8,,,NO,10,5,5
-Wheeler,3,Proposition 9,,,YES,171,76,95
+Wheeler,3,Proposition 9,,,YES,171,95,76
 Wheeler,3,Proposition 9,,,Over Votes,0,0,0
-Wheeler,3,Proposition 9,,,Under Votes,28,12,16
-Wheeler,3,Proposition 9,,,NO,19,11,8
-Wheeler,3,Proposition 10,,,YES,170,77,93
+Wheeler,3,Proposition 9,,,Under Votes,28,16,12
+Wheeler,3,Proposition 9,,,NO,19,8,11
+Wheeler,3,Proposition 10,,,YES,170,93,77
 Wheeler,3,Proposition 10,,,Over Votes,0,0,0
-Wheeler,3,Proposition 10,,,Under Votes,33,14,19
+Wheeler,3,Proposition 10,,,Under Votes,33,19,14
 Wheeler,3,Proposition 10,,,NO,14,7,7
-Wheeler,3,Proposition 11,,,YES,166,78,88
+Wheeler,3,Proposition 11,,,YES,166,88,78
 Wheeler,3,Proposition 11,,,Over Votes,0,0,0
-Wheeler,3,Proposition 11,,,Under Votes,25,9,16
-Wheeler,3,Proposition 11,,,NO,26,11,15
-Wheeler,4,U.S. Senate,,REP,"Bruce Jacobson, Jr.",3,1,2
+Wheeler,3,Proposition 11,,,Under Votes,25,16,9
+Wheeler,3,Proposition 11,,,NO,26,15,11
+Wheeler,4,U.S. Senate,,REP,"Bruce Jacobson, Jr.",3,2,1
 Wheeler,4,U.S. Senate,,REP,Stefano de Stefano,0,0,0
 Wheeler,4,U.S. Senate,,REP,Geraldine Sam,0,0,0
 Wheeler,4,U.S. Senate,,REP,Over Votes,0,0,0
-Wheeler,4,U.S. Senate,,REP,Under Votes,1,0,1
-Wheeler,4,U.S. Senate,,REP,Ted Cruz,59,9,50
+Wheeler,4,U.S. Senate,,REP,Under Votes,1,1,0
+Wheeler,4,U.S. Senate,,REP,Ted Cruz,59,50,9
 Wheeler,4,U.S. Senate,,REP,Mary Miller,2,1,1
-Wheeler,4,U.S. House,13,REP,Mac Thornberry,50,10,40
+Wheeler,4,U.S. House,13,REP,Mac Thornberry,50,40,10
 Wheeler,4,U.S. House,13,REP,Over Votes,0,0,0
-Wheeler,4,U.S. House,13,REP,Under Votes,15,1,14
-Wheeler,4,Governor,,REP,Greg Abbott,57,11,46
-Wheeler,4,Governor,,REP,SECEDE Kilgore,2,0,2
-Wheeler,4,Governor,,REP,Barbara Krueger,1,0,1
-Wheeler,4,Lieutenant Governor,,REP,Dan Patrick,45,10,35
-Wheeler,4,Lieutenant Governor,,REP,Scott Milder,15,1,14
+Wheeler,4,U.S. House,13,REP,Under Votes,15,14,1
+Wheeler,4,Governor,,REP,Greg Abbott,57,46,11
+Wheeler,4,Governor,,REP,SECEDE Kilgore,2,2,0
+Wheeler,4,Governor,,REP,Barbara Krueger,1,1,0
+Wheeler,4,Lieutenant Governor,,REP,Dan Patrick,45,35,10
+Wheeler,4,Lieutenant Governor,,REP,Scott Milder,15,14,1
 Wheeler,4,Lieutenant Governor,,REP,Over Votes,0,0,0
-Wheeler,4,Lieutenant Governor,,REP,Under Votes,5,0,5
-Wheeler,4,Attorney General,,REP,Ken Paxton,50,10,40
-Wheeler,4,Comptroller of Public Accounts,,REP,Glenn Hegar,47,8,39
+Wheeler,4,Lieutenant Governor,,REP,Under Votes,5,5,0
+Wheeler,4,Attorney General,,REP,Ken Paxton,50,40,10
+Wheeler,4,Comptroller of Public Accounts,,REP,Glenn Hegar,47,39,8
 Wheeler,4,Comptroller of Public Accounts,,REP,Over Votes,0,0,0
-Wheeler,4,Comptroller of Public Accounts,,REP,Under Votes,18,3,15
-Wheeler,4,Commissioner of the General Land Office,,REP,Rick Range,5,1,4
-Wheeler,4,Commissioner of the General Land Office,,REP,George P. Bush,37,6,31
-Wheeler,4,Commissioner of the General Land Office,,REP,Jerry Patterson,8,3,5
-Wheeler,4,Commissioner of the General Land Office,,REP,Davey Edwards,8,0,8
+Wheeler,4,Comptroller of Public Accounts,,REP,Under Votes,18,15,3
+Wheeler,4,Commissioner of the General Land Office,,REP,Rick Range,5,4,1
+Wheeler,4,Commissioner of the General Land Office,,REP,George P. Bush,37,31,6
+Wheeler,4,Commissioner of the General Land Office,,REP,Jerry Patterson,8,5,3
+Wheeler,4,Commissioner of the General Land Office,,REP,Davey Edwards,8,8,0
 Wheeler,4,Commissioner of the General Land Office,,REP,Over Votes,0,0,0
-Wheeler,4,Commissioner of the General Land Office,,REP,Under Votes,7,1,6
-Wheeler,4,Commissioner of Agriculture,,REP,Sid Miller,33,6,27
-Wheeler,4,Commissioner of Agriculture,,REP,Trey Blocker,9,3,6
-Wheeler,4,Commissioner of Agriculture,,REP,Jim Hogan,9,0,9
-Wheeler,4,Railroad Commissioner,,REP,Christi Craddick,35,7,28
+Wheeler,4,Commissioner of the General Land Office,,REP,Under Votes,7,6,1
+Wheeler,4,Commissioner of Agriculture,,REP,Sid Miller,33,27,6
+Wheeler,4,Commissioner of Agriculture,,REP,Trey Blocker,9,6,3
+Wheeler,4,Commissioner of Agriculture,,REP,Jim Hogan,9,9,0
+Wheeler,4,Railroad Commissioner,,REP,Christi Craddick,35,28,7
 Wheeler,4,Railroad Commissioner,,REP,Over Votes,0,0,0
-Wheeler,4,Railroad Commissioner,,REP,Under Votes,14,3,11
-Wheeler,4,Railroad Commissioner,,REP,Weston Martinez,16,1,15
-Wheeler,4,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,47,9,38
+Wheeler,4,Railroad Commissioner,,REP,Under Votes,14,11,3
+Wheeler,4,Railroad Commissioner,,REP,Weston Martinez,16,15,1
+Wheeler,4,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,47,38,9
 Wheeler,4,"Justice, Supreme Court, Place 2",,REP,Over Votes,0,0,0
-Wheeler,4,"Justice, Supreme Court, Place 2",,REP,Under Votes,18,2,16
-Wheeler,4,"Justice, Supreme Court, Place 4",,REP,John Devine,44,9,35
+Wheeler,4,"Justice, Supreme Court, Place 2",,REP,Under Votes,18,16,2
+Wheeler,4,"Justice, Supreme Court, Place 4",,REP,John Devine,44,35,9
 Wheeler,4,"Justice, Supreme Court, Place 4",,REP,Over Votes,0,0,0
-Wheeler,4,"Justice, Supreme Court, Place 4",,REP,Under Votes,21,2,19
-Wheeler,4,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,44,8,36
+Wheeler,4,"Justice, Supreme Court, Place 4",,REP,Under Votes,21,19,2
+Wheeler,4,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,44,36,8
 Wheeler,4,"Justice, Supreme Court, Place 6",,REP,Over Votes,0,0,0
-Wheeler,4,"Justice, Supreme Court, Place 6",,REP,Under Votes,21,3,18
-Wheeler,4,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,35,5,30
+Wheeler,4,"Justice, Supreme Court, Place 6",,REP,Under Votes,21,18,3
+Wheeler,4,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,35,30,5
 Wheeler,4,"Presiding Judge, Court of Criminal Appeals",,REP,Over Votes,0,0,0
-Wheeler,4,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,16,1,15
-Wheeler,4,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,14,5,9
-Wheeler,4,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,41,8,33
+Wheeler,4,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,16,15,1
+Wheeler,4,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,14,9,5
+Wheeler,4,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,41,33,8
 Wheeler,4,"Judge, Court of Criminal Appeals, Place 7",,REP,Over Votes,0,0,0
-Wheeler,4,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,24,3,21
-Wheeler,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,24,3,21
-Wheeler,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,16,4,12
-Wheeler,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,4,1,3
+Wheeler,4,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,24,21,3
+Wheeler,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,24,21,3
+Wheeler,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,16,12,4
+Wheeler,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,4,3,1
 Wheeler,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Over Votes,0,0,0
-Wheeler,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,21,3,18
-Wheeler,4,State Senator,31,REP,Victor Leal,10,1,9
+Wheeler,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,21,18,3
+Wheeler,4,State Senator,31,REP,Victor Leal,10,9,1
 Wheeler,4,State Senator,31,REP,Over Votes,0,0,0
-Wheeler,4,State Senator,31,REP,Under Votes,4,0,4
-Wheeler,4,State Senator,31,REP,Kel Seliger,28,7,21
-Wheeler,4,State Senator,31,REP,Mike Canon,23,3,20
-Wheeler,4,State Representative,68,REP,Drew Springer,49,7,42
+Wheeler,4,State Senator,31,REP,Under Votes,4,4,0
+Wheeler,4,State Senator,31,REP,Kel Seliger,28,21,7
+Wheeler,4,State Senator,31,REP,Mike Canon,23,20,3
+Wheeler,4,State Representative,68,REP,Drew Springer,49,42,7
 Wheeler,4,State Representative,68,REP,Over Votes,0,0,0
-Wheeler,4,State Representative,68,REP,Under Votes,16,4,12
-Wheeler,4,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,43,8,35
+Wheeler,4,State Representative,68,REP,Under Votes,16,12,4
+Wheeler,4,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,43,35,8
 Wheeler,4,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Over Votes,0,0,0
-Wheeler,4,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Under Votes,22,3,19
-Wheeler,4,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,44,8,36
+Wheeler,4,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Under Votes,22,19,3
+Wheeler,4,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,44,36,8
 Wheeler,4,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Over Votes,0,0,0
-Wheeler,4,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Under Votes,21,3,18
-Wheeler,4,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,52,7,45
+Wheeler,4,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Under Votes,21,18,3
+Wheeler,4,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,52,45,7
 Wheeler,4,"District Judge, 31st Judicial District",,REP,Over Votes,0,0,0
-Wheeler,4,"District Judge, 31st Judicial District",,REP,Under Votes,13,4,9
-Wheeler,4,County Judge,,REP,Jerry Dan Hefley,43,9,34
+Wheeler,4,"District Judge, 31st Judicial District",,REP,Under Votes,13,9,4
+Wheeler,4,County Judge,,REP,Jerry Dan Hefley,43,34,9
 Wheeler,4,County Judge,,REP,Over Votes,0,0,0
-Wheeler,4,County Judge,,REP,Under Votes,1,0,1
-Wheeler,4,County Judge,,REP,Ike Finsterwald,21,2,19
-Wheeler,4,District Clerk,,REP,Sherri Jones,58,9,49
+Wheeler,4,County Judge,,REP,Under Votes,1,1,0
+Wheeler,4,County Judge,,REP,Ike Finsterwald,21,19,2
+Wheeler,4,District Clerk,,REP,Sherri Jones,58,49,9
 Wheeler,4,District Clerk,,REP,Over Votes,0,0,0
-Wheeler,4,District Clerk,,REP,Under Votes,7,2,5
-Wheeler,4,County Clerk,,REP,Margaret Dorman,60,10,50
+Wheeler,4,District Clerk,,REP,Under Votes,7,5,2
+Wheeler,4,County Clerk,,REP,Margaret Dorman,60,50,10
 Wheeler,4,County Clerk,,REP,Over Votes,0,0,0
-Wheeler,4,County Clerk,,REP,Under Votes,5,1,4
-Wheeler,4,County Treasurer,,REP,Renee Warren,53,10,43
+Wheeler,4,County Clerk,,REP,Under Votes,5,4,1
+Wheeler,4,County Treasurer,,REP,Renee Warren,53,43,10
 Wheeler,4,County Treasurer,,REP,Over Votes,0,0,0
-Wheeler,4,County Treasurer,,REP,Under Votes,12,1,11
-Wheeler,4,"County Commissioner, Precinct No. 2",,REP,Gary Davis,23,8,15
+Wheeler,4,County Treasurer,,REP,Under Votes,12,11,1
+Wheeler,4,"County Commissioner, Precinct No. 2",,REP,Gary Davis,23,15,8
 Wheeler,4,"County Commissioner, Precinct No. 2",,REP,Over Votes,0,0,0
-Wheeler,4,"County Commissioner, Precinct No. 2",,REP,Under Votes,5,1,4
-Wheeler,4,"County Commissioner, Precinct No. 2",,REP,Bob Hink,37,2,35
-Wheeler,4,"Justice of the Peace, Precinct No. 1",,REP,Mark Brown,51,9,42
+Wheeler,4,"County Commissioner, Precinct No. 2",,REP,Under Votes,5,4,1
+Wheeler,4,"County Commissioner, Precinct No. 2",,REP,Bob Hink,37,35,2
+Wheeler,4,"Justice of the Peace, Precinct No. 1",,REP,Mark Brown,51,42,9
 Wheeler,4,"Justice of the Peace, Precinct No. 1",,REP,Over Votes,0,0,0
-Wheeler,4,"Justice of the Peace, Precinct No. 1",,REP,Under Votes,14,2,12
-Wheeler,4,County Chairman,,REP,Elizabeth McDowell,51,8,43
+Wheeler,4,"Justice of the Peace, Precinct No. 1",,REP,Under Votes,14,12,2
+Wheeler,4,County Chairman,,REP,Elizabeth McDowell,51,43,8
 Wheeler,4,County Chairman,,REP,Over Votes,0,0,0
-Wheeler,4,County Chairman,,REP,Under Votes,14,3,11
-Wheeler,4,Proposition 1,,,YES,41,7,34
+Wheeler,4,County Chairman,,REP,Under Votes,14,11,3
+Wheeler,4,Proposition 1,,,YES,41,34,7
 Wheeler,4,Proposition 1,,,Over Votes,0,0,0
-Wheeler,4,Proposition 1,,,Under Votes,9,2,7
-Wheeler,4,Proposition 1,,,NO,15,2,13
-Wheeler,4,Proposition 2,,,YES,56,9,47
+Wheeler,4,Proposition 1,,,Under Votes,9,7,2
+Wheeler,4,Proposition 1,,,NO,15,13,2
+Wheeler,4,Proposition 2,,,YES,56,47,9
 Wheeler,4,Proposition 2,,,Over Votes,0,0,0
-Wheeler,4,Proposition 2,,,Under Votes,5,1,4
-Wheeler,4,Proposition 2,,,NO,4,1,3
-Wheeler,4,Proposition 3,,,YES,52,9,43
+Wheeler,4,Proposition 2,,,Under Votes,5,4,1
+Wheeler,4,Proposition 2,,,NO,4,3,1
+Wheeler,4,Proposition 3,,,YES,52,43,9
 Wheeler,4,Proposition 3,,,Over Votes,0,0,0
-Wheeler,4,Proposition 3,,,Under Votes,6,0,6
-Wheeler,4,Proposition 3,,,NO,7,2,5
-Wheeler,4,Proposition 4,,,YES,57,8,49
+Wheeler,4,Proposition 3,,,Under Votes,6,6,0
+Wheeler,4,Proposition 3,,,NO,7,5,2
+Wheeler,4,Proposition 4,,,YES,57,49,8
 Wheeler,4,Proposition 4,,,Over Votes,0,0,0
-Wheeler,4,Proposition 4,,,Under Votes,5,1,4
-Wheeler,4,Proposition 4,,,NO,3,2,1
-Wheeler,4,Proposition 5,,,YES,35,7,28
+Wheeler,4,Proposition 4,,,Under Votes,5,4,1
+Wheeler,4,Proposition 4,,,NO,3,1,2
+Wheeler,4,Proposition 5,,,YES,35,28,7
 Wheeler,4,Proposition 5,,,Over Votes,0,0,0
-Wheeler,4,Proposition 5,,,Under Votes,7,1,6
-Wheeler,4,Proposition 5,,,NO,23,3,20
-Wheeler,4,Proposition 6,,,YES,59,10,49
+Wheeler,4,Proposition 5,,,Under Votes,7,6,1
+Wheeler,4,Proposition 5,,,NO,23,20,3
+Wheeler,4,Proposition 6,,,YES,59,49,10
 Wheeler,4,Proposition 6,,,Over Votes,0,0,0
-Wheeler,4,Proposition 6,,,Under Votes,5,0,5
-Wheeler,4,Proposition 6,,,NO,1,1,0
-Wheeler,4,Proposition 7,,,YES,49,11,38
+Wheeler,4,Proposition 6,,,Under Votes,5,5,0
+Wheeler,4,Proposition 6,,,NO,1,0,1
+Wheeler,4,Proposition 7,,,YES,49,38,11
 Wheeler,4,Proposition 7,,,Over Votes,0,0,0
-Wheeler,4,Proposition 7,,,Under Votes,6,0,6
-Wheeler,4,Proposition 7,,,NO,10,0,10
-Wheeler,4,Proposition 8,,,YES,57,10,47
+Wheeler,4,Proposition 7,,,Under Votes,6,6,0
+Wheeler,4,Proposition 7,,,NO,10,10,0
+Wheeler,4,Proposition 8,,,YES,57,47,10
 Wheeler,4,Proposition 8,,,Over Votes,0,0,0
-Wheeler,4,Proposition 8,,,Under Votes,6,1,5
-Wheeler,4,Proposition 8,,,NO,2,0,2
-Wheeler,4,Proposition 9,,,YES,57,11,46
+Wheeler,4,Proposition 8,,,Under Votes,6,5,1
+Wheeler,4,Proposition 8,,,NO,2,2,0
+Wheeler,4,Proposition 9,,,YES,57,46,11
 Wheeler,4,Proposition 9,,,Over Votes,0,0,0
-Wheeler,4,Proposition 9,,,Under Votes,5,0,5
-Wheeler,4,Proposition 9,,,NO,3,0,3
-Wheeler,4,Proposition 10,,,YES,55,11,44
+Wheeler,4,Proposition 9,,,Under Votes,5,5,0
+Wheeler,4,Proposition 9,,,NO,3,3,0
+Wheeler,4,Proposition 10,,,YES,55,44,11
 Wheeler,4,Proposition 10,,,Over Votes,0,0,0
-Wheeler,4,Proposition 10,,,Under Votes,10,0,10
+Wheeler,4,Proposition 10,,,Under Votes,10,10,0
 Wheeler,4,Proposition 10,,,NO,0,0,0
-Wheeler,4,Proposition 11,,,YES,48,9,39
+Wheeler,4,Proposition 11,,,YES,48,39,9
 Wheeler,4,Proposition 11,,,Over Votes,0,0,0
-Wheeler,4,Proposition 11,,,Under Votes,5,0,5
-Wheeler,4,Proposition 11,,,NO,12,2,10
+Wheeler,4,Proposition 11,,,Under Votes,5,5,0
+Wheeler,4,Proposition 11,,,NO,12,10,2
 Wheeler,5,U.S. Senate,,REP,"Bruce Jacobson, Jr.",0,0,0
 Wheeler,5,U.S. Senate,,REP,Stefano de Stefano,0,0,0
 Wheeler,5,U.S. Senate,,REP,Geraldine Sam,0,0,0
 Wheeler,5,U.S. Senate,,REP,Over Votes,0,0,0
 Wheeler,5,U.S. Senate,,REP,Under Votes,0,0,0
-Wheeler,5,U.S. Senate,,REP,Ted Cruz,24,5,19
-Wheeler,5,U.S. Senate,,REP,Mary Miller,2,2,0
-Wheeler,5,U.S. House,13,REP,Mac Thornberry,23,7,16
+Wheeler,5,U.S. Senate,,REP,Ted Cruz,24,19,5
+Wheeler,5,U.S. Senate,,REP,Mary Miller,2,0,2
+Wheeler,5,U.S. House,13,REP,Mac Thornberry,23,16,7
 Wheeler,5,U.S. House,13,REP,Over Votes,0,0,0
-Wheeler,5,U.S. House,13,REP,Under Votes,3,0,3
-Wheeler,5,Governor,,REP,Greg Abbott,24,6,18
+Wheeler,5,U.S. House,13,REP,Under Votes,3,3,0
+Wheeler,5,Governor,,REP,Greg Abbott,24,18,6
 Wheeler,5,Governor,,REP,SECEDE Kilgore,0,0,0
-Wheeler,5,Governor,,REP,Barbara Krueger,1,1,0
-Wheeler,5,Lieutenant Governor,,REP,Dan Patrick,23,6,17
-Wheeler,5,Lieutenant Governor,,REP,Scott Milder,3,1,2
+Wheeler,5,Governor,,REP,Barbara Krueger,1,0,1
+Wheeler,5,Lieutenant Governor,,REP,Dan Patrick,23,17,6
+Wheeler,5,Lieutenant Governor,,REP,Scott Milder,3,2,1
 Wheeler,5,Lieutenant Governor,,REP,Over Votes,0,0,0
 Wheeler,5,Lieutenant Governor,,REP,Under Votes,0,0,0
-Wheeler,5,Attorney General,,REP,Ken Paxton,26,7,19
-Wheeler,5,Comptroller of Public Accounts,,REP,Glenn Hegar,26,7,19
+Wheeler,5,Attorney General,,REP,Ken Paxton,26,19,7
+Wheeler,5,Comptroller of Public Accounts,,REP,Glenn Hegar,26,19,7
 Wheeler,5,Comptroller of Public Accounts,,REP,Over Votes,0,0,0
 Wheeler,5,Comptroller of Public Accounts,,REP,Under Votes,0,0,0
 Wheeler,5,Commissioner of the General Land Office,,REP,Rick Range,0,0,0
-Wheeler,5,Commissioner of the General Land Office,,REP,George P. Bush,22,6,16
-Wheeler,5,Commissioner of the General Land Office,,REP,Jerry Patterson,4,1,3
+Wheeler,5,Commissioner of the General Land Office,,REP,George P. Bush,22,16,6
+Wheeler,5,Commissioner of the General Land Office,,REP,Jerry Patterson,4,3,1
 Wheeler,5,Commissioner of the General Land Office,,REP,Davey Edwards,0,0,0
 Wheeler,5,Commissioner of the General Land Office,,REP,Over Votes,0,0,0
 Wheeler,5,Commissioner of the General Land Office,,REP,Under Votes,0,0,0
-Wheeler,5,Commissioner of Agriculture,,REP,Sid Miller,20,5,15
-Wheeler,5,Commissioner of Agriculture,,REP,Trey Blocker,4,1,3
-Wheeler,5,Commissioner of Agriculture,,REP,Jim Hogan,1,1,0
-Wheeler,5,Railroad Commissioner,,REP,Christi Craddick,19,7,12
+Wheeler,5,Commissioner of Agriculture,,REP,Sid Miller,20,15,5
+Wheeler,5,Commissioner of Agriculture,,REP,Trey Blocker,4,3,1
+Wheeler,5,Commissioner of Agriculture,,REP,Jim Hogan,1,0,1
+Wheeler,5,Railroad Commissioner,,REP,Christi Craddick,19,12,7
 Wheeler,5,Railroad Commissioner,,REP,Over Votes,0,0,0
 Wheeler,5,Railroad Commissioner,,REP,Under Votes,0,0,0
-Wheeler,5,Railroad Commissioner,,REP,Weston Martinez,7,0,7
-Wheeler,5,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,24,7,17
+Wheeler,5,Railroad Commissioner,,REP,Weston Martinez,7,7,0
+Wheeler,5,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,24,17,7
 Wheeler,5,"Justice, Supreme Court, Place 2",,REP,Over Votes,0,0,0
-Wheeler,5,"Justice, Supreme Court, Place 2",,REP,Under Votes,2,0,2
-Wheeler,5,"Justice, Supreme Court, Place 4",,REP,John Devine,24,7,17
+Wheeler,5,"Justice, Supreme Court, Place 2",,REP,Under Votes,2,2,0
+Wheeler,5,"Justice, Supreme Court, Place 4",,REP,John Devine,24,17,7
 Wheeler,5,"Justice, Supreme Court, Place 4",,REP,Over Votes,0,0,0
-Wheeler,5,"Justice, Supreme Court, Place 4",,REP,Under Votes,2,0,2
-Wheeler,5,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,24,7,17
+Wheeler,5,"Justice, Supreme Court, Place 4",,REP,Under Votes,2,2,0
+Wheeler,5,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,24,17,7
 Wheeler,5,"Justice, Supreme Court, Place 6",,REP,Over Votes,0,0,0
-Wheeler,5,"Justice, Supreme Court, Place 6",,REP,Under Votes,2,0,2
-Wheeler,5,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,13,5,8
+Wheeler,5,"Justice, Supreme Court, Place 6",,REP,Under Votes,2,2,0
+Wheeler,5,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,13,8,5
 Wheeler,5,"Presiding Judge, Court of Criminal Appeals",,REP,Over Votes,0,0,0
-Wheeler,5,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,1,0,1
-Wheeler,5,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,12,2,10
-Wheeler,5,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,24,7,17
+Wheeler,5,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,1,1,0
+Wheeler,5,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,12,10,2
+Wheeler,5,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,24,17,7
 Wheeler,5,"Judge, Court of Criminal Appeals, Place 7",,REP,Over Votes,0,0,0
-Wheeler,5,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,2,0,2
-Wheeler,5,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,10,4,6
-Wheeler,5,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,11,2,9
-Wheeler,5,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,3,1,2
+Wheeler,5,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,2,2,0
+Wheeler,5,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,10,6,4
+Wheeler,5,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,11,9,2
+Wheeler,5,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,3,2,1
 Wheeler,5,"Judge, Court of Criminal Appeals, Place 8",,REP,Over Votes,0,0,0
-Wheeler,5,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,2,0,2
-Wheeler,5,State Senator,31,REP,Victor Leal,8,3,5
+Wheeler,5,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,2,2,0
+Wheeler,5,State Senator,31,REP,Victor Leal,8,5,3
 Wheeler,5,State Senator,31,REP,Over Votes,0,0,0
 Wheeler,5,State Senator,31,REP,Under Votes,0,0,0
-Wheeler,5,State Senator,31,REP,Kel Seliger,6,2,4
-Wheeler,5,State Senator,31,REP,Mike Canon,12,2,10
-Wheeler,5,State Representative,68,REP,Drew Springer,26,7,19
+Wheeler,5,State Senator,31,REP,Kel Seliger,6,4,2
+Wheeler,5,State Senator,31,REP,Mike Canon,12,10,2
+Wheeler,5,State Representative,68,REP,Drew Springer,26,19,7
 Wheeler,5,State Representative,68,REP,Over Votes,0,0,0
 Wheeler,5,State Representative,68,REP,Under Votes,0,0,0
-Wheeler,5,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,24,7,17
+Wheeler,5,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,24,17,7
 Wheeler,5,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Over Votes,0,0,0
-Wheeler,5,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Under Votes,2,0,2
-Wheeler,5,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,25,7,18
+Wheeler,5,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Under Votes,2,2,0
+Wheeler,5,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,25,18,7
 Wheeler,5,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Over Votes,0,0,0
-Wheeler,5,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Under Votes,1,0,1
-Wheeler,5,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,26,7,19
+Wheeler,5,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Under Votes,1,1,0
+Wheeler,5,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,26,19,7
 Wheeler,5,"District Judge, 31st Judicial District",,REP,Over Votes,0,0,0
 Wheeler,5,"District Judge, 31st Judicial District",,REP,Under Votes,0,0,0
-Wheeler,5,County Judge,,REP,Jerry Dan Hefley,15,3,12
+Wheeler,5,County Judge,,REP,Jerry Dan Hefley,15,12,3
 Wheeler,5,County Judge,,REP,Over Votes,0,0,0
 Wheeler,5,County Judge,,REP,Under Votes,0,0,0
-Wheeler,5,County Judge,,REP,Ike Finsterwald,11,4,7
-Wheeler,5,District Clerk,,REP,Sherri Jones,26,7,19
+Wheeler,5,County Judge,,REP,Ike Finsterwald,11,7,4
+Wheeler,5,District Clerk,,REP,Sherri Jones,26,19,7
 Wheeler,5,District Clerk,,REP,Over Votes,0,0,0
 Wheeler,5,District Clerk,,REP,Under Votes,0,0,0
-Wheeler,5,County Clerk,,REP,Margaret Dorman,26,7,19
+Wheeler,5,County Clerk,,REP,Margaret Dorman,26,19,7
 Wheeler,5,County Clerk,,REP,Over Votes,0,0,0
 Wheeler,5,County Clerk,,REP,Under Votes,0,0,0
-Wheeler,5,County Treasurer,,REP,Renee Warren,25,7,18
+Wheeler,5,County Treasurer,,REP,Renee Warren,25,18,7
 Wheeler,5,County Treasurer,,REP,Over Votes,0,0,0
-Wheeler,5,County Treasurer,,REP,Under Votes,1,0,1
-Wheeler,5,"Justice of the Peace, Precinct No. 2",,REP,Rick Walden,25,7,18
+Wheeler,5,County Treasurer,,REP,Under Votes,1,1,0
+Wheeler,5,"Justice of the Peace, Precinct No. 2",,REP,Rick Walden,25,18,7
 Wheeler,5,"Justice of the Peace, Precinct No. 2",,REP,Over Votes,0,0,0
-Wheeler,5,"Justice of the Peace, Precinct No. 2",,REP,Under Votes,1,0,1
-Wheeler,5,County Chairman,,REP,Elizabeth McDowell,26,7,19
+Wheeler,5,"Justice of the Peace, Precinct No. 2",,REP,Under Votes,1,1,0
+Wheeler,5,County Chairman,,REP,Elizabeth McDowell,26,19,7
 Wheeler,5,County Chairman,,REP,Over Votes,0,0,0
 Wheeler,5,County Chairman,,REP,Under Votes,0,0,0
-Wheeler,5,Proposition 1,,,YES,18,2,16
+Wheeler,5,Proposition 1,,,YES,18,16,2
 Wheeler,5,Proposition 1,,,Over Votes,0,0,0
-Wheeler,5,Proposition 1,,,Under Votes,1,0,1
-Wheeler,5,Proposition 1,,,NO,7,5,2
-Wheeler,5,Proposition 2,,,YES,24,6,18
+Wheeler,5,Proposition 1,,,Under Votes,1,1,0
+Wheeler,5,Proposition 1,,,NO,7,2,5
+Wheeler,5,Proposition 2,,,YES,24,18,6
 Wheeler,5,Proposition 2,,,Over Votes,0,0,0
 Wheeler,5,Proposition 2,,,Under Votes,0,0,0
 Wheeler,5,Proposition 2,,,NO,2,1,1
-Wheeler,5,Proposition 3,,,YES,24,6,18
+Wheeler,5,Proposition 3,,,YES,24,18,6
 Wheeler,5,Proposition 3,,,Over Votes,0,0,0
 Wheeler,5,Proposition 3,,,Under Votes,0,0,0
 Wheeler,5,Proposition 3,,,NO,2,1,1
-Wheeler,5,Proposition 4,,,YES,24,5,19
+Wheeler,5,Proposition 4,,,YES,24,19,5
 Wheeler,5,Proposition 4,,,Over Votes,0,0,0
-Wheeler,5,Proposition 4,,,Under Votes,1,1,0
-Wheeler,5,Proposition 4,,,NO,1,1,0
-Wheeler,5,Proposition 5,,,YES,20,3,17
+Wheeler,5,Proposition 4,,,Under Votes,1,0,1
+Wheeler,5,Proposition 4,,,NO,1,0,1
+Wheeler,5,Proposition 5,,,YES,20,17,3
 Wheeler,5,Proposition 5,,,Over Votes,0,0,0
 Wheeler,5,Proposition 5,,,Under Votes,0,0,0
-Wheeler,5,Proposition 5,,,NO,6,4,2
-Wheeler,5,Proposition 6,,,YES,25,7,18
+Wheeler,5,Proposition 5,,,NO,6,2,4
+Wheeler,5,Proposition 6,,,YES,25,18,7
 Wheeler,5,Proposition 6,,,Over Votes,0,0,0
 Wheeler,5,Proposition 6,,,Under Votes,0,0,0
-Wheeler,5,Proposition 6,,,NO,1,0,1
-Wheeler,5,Proposition 7,,,YES,20,3,17
+Wheeler,5,Proposition 6,,,NO,1,1,0
+Wheeler,5,Proposition 7,,,YES,20,17,3
 Wheeler,5,Proposition 7,,,Over Votes,0,0,0
 Wheeler,5,Proposition 7,,,Under Votes,0,0,0
-Wheeler,5,Proposition 7,,,NO,6,4,2
-Wheeler,5,Proposition 8,,,YES,24,5,19
+Wheeler,5,Proposition 7,,,NO,6,2,4
+Wheeler,5,Proposition 8,,,YES,24,19,5
 Wheeler,5,Proposition 8,,,Over Votes,0,0,0
-Wheeler,5,Proposition 8,,,Under Votes,1,1,0
-Wheeler,5,Proposition 8,,,NO,1,1,0
-Wheeler,5,Proposition 9,,,YES,25,7,18
+Wheeler,5,Proposition 8,,,Under Votes,1,0,1
+Wheeler,5,Proposition 8,,,NO,1,0,1
+Wheeler,5,Proposition 9,,,YES,25,18,7
 Wheeler,5,Proposition 9,,,Over Votes,0,0,0
-Wheeler,5,Proposition 9,,,Under Votes,1,0,1
+Wheeler,5,Proposition 9,,,Under Votes,1,1,0
 Wheeler,5,Proposition 9,,,NO,0,0,0
-Wheeler,5,Proposition 10,,,YES,26,7,19
+Wheeler,5,Proposition 10,,,YES,26,19,7
 Wheeler,5,Proposition 10,,,Over Votes,0,0,0
 Wheeler,5,Proposition 10,,,Under Votes,0,0,0
 Wheeler,5,Proposition 10,,,NO,0,0,0
-Wheeler,5,Proposition 11,,,YES,24,6,18
+Wheeler,5,Proposition 11,,,YES,24,18,6
 Wheeler,5,Proposition 11,,,Over Votes,0,0,0
-Wheeler,5,Proposition 11,,,Under Votes,1,1,0
-Wheeler,5,Proposition 11,,,NO,1,0,1
+Wheeler,5,Proposition 11,,,Under Votes,1,0,1
+Wheeler,5,Proposition 11,,,NO,1,1,0
 Wheeler,6,U.S. Senate,,REP,"Bruce Jacobson, Jr.",0,0,0
 Wheeler,6,U.S. Senate,,REP,Stefano de Stefano,0,0,0
-Wheeler,6,U.S. Senate,,REP,Geraldine Sam,1,0,1
+Wheeler,6,U.S. Senate,,REP,Geraldine Sam,1,1,0
 Wheeler,6,U.S. Senate,,REP,Over Votes,0,0,0
-Wheeler,6,U.S. Senate,,REP,Under Votes,4,1,3
-Wheeler,6,U.S. Senate,,REP,Ted Cruz,28,7,21
-Wheeler,6,U.S. Senate,,REP,Mary Miller,1,1,0
-Wheeler,6,U.S. House,13,REP,Mac Thornberry,30,7,23
+Wheeler,6,U.S. Senate,,REP,Under Votes,4,3,1
+Wheeler,6,U.S. Senate,,REP,Ted Cruz,28,21,7
+Wheeler,6,U.S. Senate,,REP,Mary Miller,1,0,1
+Wheeler,6,U.S. House,13,REP,Mac Thornberry,30,23,7
 Wheeler,6,U.S. House,13,REP,Over Votes,0,0,0
 Wheeler,6,U.S. House,13,REP,Under Votes,4,2,2
-Wheeler,6,Governor,,REP,Greg Abbott,31,8,23
+Wheeler,6,Governor,,REP,Greg Abbott,31,23,8
 Wheeler,6,Governor,,REP,SECEDE Kilgore,0,0,0
 Wheeler,6,Governor,,REP,Barbara Krueger,0,0,0
-Wheeler,6,Lieutenant Governor,,REP,Dan Patrick,24,8,16
-Wheeler,6,Lieutenant Governor,,REP,Scott Milder,5,0,5
+Wheeler,6,Lieutenant Governor,,REP,Dan Patrick,24,16,8
+Wheeler,6,Lieutenant Governor,,REP,Scott Milder,5,5,0
 Wheeler,6,Lieutenant Governor,,REP,Over Votes,0,0,0
-Wheeler,6,Lieutenant Governor,,REP,Under Votes,5,1,4
-Wheeler,6,Attorney General,,REP,Ken Paxton,28,8,20
-Wheeler,6,Comptroller of Public Accounts,,REP,Glenn Hegar,25,7,18
+Wheeler,6,Lieutenant Governor,,REP,Under Votes,5,4,1
+Wheeler,6,Attorney General,,REP,Ken Paxton,28,20,8
+Wheeler,6,Comptroller of Public Accounts,,REP,Glenn Hegar,25,18,7
 Wheeler,6,Comptroller of Public Accounts,,REP,Over Votes,0,0,0
-Wheeler,6,Comptroller of Public Accounts,,REP,Under Votes,9,2,7
-Wheeler,6,Commissioner of the General Land Office,,REP,Rick Range,4,1,3
-Wheeler,6,Commissioner of the General Land Office,,REP,George P. Bush,21,5,16
-Wheeler,6,Commissioner of the General Land Office,,REP,Jerry Patterson,3,1,2
-Wheeler,6,Commissioner of the General Land Office,,REP,Davey Edwards,1,1,0
+Wheeler,6,Comptroller of Public Accounts,,REP,Under Votes,9,7,2
+Wheeler,6,Commissioner of the General Land Office,,REP,Rick Range,4,3,1
+Wheeler,6,Commissioner of the General Land Office,,REP,George P. Bush,21,16,5
+Wheeler,6,Commissioner of the General Land Office,,REP,Jerry Patterson,3,2,1
+Wheeler,6,Commissioner of the General Land Office,,REP,Davey Edwards,1,0,1
 Wheeler,6,Commissioner of the General Land Office,,REP,Over Votes,0,0,0
-Wheeler,6,Commissioner of the General Land Office,,REP,Under Votes,5,1,4
-Wheeler,6,Commissioner of Agriculture,,REP,Sid Miller,15,5,10
-Wheeler,6,Commissioner of Agriculture,,REP,Trey Blocker,7,1,6
-Wheeler,6,Commissioner of Agriculture,,REP,Jim Hogan,2,0,2
-Wheeler,6,Railroad Commissioner,,REP,Christi Craddick,21,5,16
+Wheeler,6,Commissioner of the General Land Office,,REP,Under Votes,5,4,1
+Wheeler,6,Commissioner of Agriculture,,REP,Sid Miller,15,10,5
+Wheeler,6,Commissioner of Agriculture,,REP,Trey Blocker,7,6,1
+Wheeler,6,Commissioner of Agriculture,,REP,Jim Hogan,2,2,0
+Wheeler,6,Railroad Commissioner,,REP,Christi Craddick,21,16,5
 Wheeler,6,Railroad Commissioner,,REP,Over Votes,0,0,0
-Wheeler,6,Railroad Commissioner,,REP,Under Votes,9,3,6
-Wheeler,6,Railroad Commissioner,,REP,Weston Martinez,4,1,3
-Wheeler,6,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,18,2,16
+Wheeler,6,Railroad Commissioner,,REP,Under Votes,9,6,3
+Wheeler,6,Railroad Commissioner,,REP,Weston Martinez,4,3,1
+Wheeler,6,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,18,16,2
 Wheeler,6,"Justice, Supreme Court, Place 2",,REP,Over Votes,0,0,0
-Wheeler,6,"Justice, Supreme Court, Place 2",,REP,Under Votes,14,5,9
-Wheeler,6,"Justice, Supreme Court, Place 4",,REP,John Devine,20,4,16
+Wheeler,6,"Justice, Supreme Court, Place 2",,REP,Under Votes,14,9,5
+Wheeler,6,"Justice, Supreme Court, Place 4",,REP,John Devine,20,16,4
 Wheeler,6,"Justice, Supreme Court, Place 4",,REP,Over Votes,0,0,0
-Wheeler,6,"Justice, Supreme Court, Place 4",,REP,Under Votes,12,3,9
-Wheeler,6,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,20,4,16
+Wheeler,6,"Justice, Supreme Court, Place 4",,REP,Under Votes,12,9,3
+Wheeler,6,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,20,16,4
 Wheeler,6,"Justice, Supreme Court, Place 6",,REP,Over Votes,0,0,0
-Wheeler,6,"Justice, Supreme Court, Place 6",,REP,Under Votes,12,3,9
-Wheeler,6,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,9,1,8
+Wheeler,6,"Justice, Supreme Court, Place 6",,REP,Under Votes,12,9,3
+Wheeler,6,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,9,8,1
 Wheeler,6,"Presiding Judge, Court of Criminal Appeals",,REP,Over Votes,0,0,0
-Wheeler,6,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,12,3,9
-Wheeler,6,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,13,5,8
-Wheeler,6,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,19,4,15
+Wheeler,6,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,12,9,3
+Wheeler,6,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,13,8,5
+Wheeler,6,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,19,15,4
 Wheeler,6,"Judge, Court of Criminal Appeals, Place 7",,REP,Over Votes,0,0,0
-Wheeler,6,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,13,3,10
-Wheeler,6,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,12,1,11
-Wheeler,6,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,6,2,4
+Wheeler,6,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,13,10,3
+Wheeler,6,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,12,11,1
+Wheeler,6,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,6,4,2
 Wheeler,6,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,2,1,1
 Wheeler,6,"Judge, Court of Criminal Appeals, Place 8",,REP,Over Votes,0,0,0
-Wheeler,6,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,12,3,9
-Wheeler,6,State Senator,31,REP,Victor Leal,8,2,6
+Wheeler,6,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,12,9,3
+Wheeler,6,State Senator,31,REP,Victor Leal,8,6,2
 Wheeler,6,State Senator,31,REP,Over Votes,0,0,0
-Wheeler,6,State Senator,31,REP,Under Votes,3,1,2
-Wheeler,6,State Senator,31,REP,Kel Seliger,18,4,14
-Wheeler,6,State Senator,31,REP,Mike Canon,5,2,3
-Wheeler,6,State Representative,68,REP,Drew Springer,26,7,19
+Wheeler,6,State Senator,31,REP,Under Votes,3,2,1
+Wheeler,6,State Senator,31,REP,Kel Seliger,18,14,4
+Wheeler,6,State Senator,31,REP,Mike Canon,5,3,2
+Wheeler,6,State Representative,68,REP,Drew Springer,26,19,7
 Wheeler,6,State Representative,68,REP,Over Votes,0,0,0
-Wheeler,6,State Representative,68,REP,Under Votes,8,2,6
-Wheeler,6,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,21,4,17
+Wheeler,6,State Representative,68,REP,Under Votes,8,6,2
+Wheeler,6,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,21,17,4
 Wheeler,6,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Over Votes,0,0,0
-Wheeler,6,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Under Votes,11,3,8
-Wheeler,6,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,21,4,17
+Wheeler,6,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Under Votes,11,8,3
+Wheeler,6,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,21,17,4
 Wheeler,6,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Over Votes,0,0,0
-Wheeler,6,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Under Votes,11,3,8
-Wheeler,6,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,27,8,19
+Wheeler,6,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Under Votes,11,8,3
+Wheeler,6,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,27,19,8
 Wheeler,6,"District Judge, 31st Judicial District",,REP,Over Votes,0,0,0
-Wheeler,6,"District Judge, 31st Judicial District",,REP,Under Votes,7,1,6
-Wheeler,6,County Judge,,REP,Jerry Dan Hefley,21,8,13
+Wheeler,6,"District Judge, 31st Judicial District",,REP,Under Votes,7,6,1
+Wheeler,6,County Judge,,REP,Jerry Dan Hefley,21,13,8
 Wheeler,6,County Judge,,REP,Over Votes,0,0,0
-Wheeler,6,County Judge,,REP,Under Votes,2,0,2
-Wheeler,6,County Judge,,REP,Ike Finsterwald,11,1,10
-Wheeler,6,District Clerk,,REP,Sherri Jones,30,8,22
+Wheeler,6,County Judge,,REP,Under Votes,2,2,0
+Wheeler,6,County Judge,,REP,Ike Finsterwald,11,10,1
+Wheeler,6,District Clerk,,REP,Sherri Jones,30,22,8
 Wheeler,6,District Clerk,,REP,Over Votes,0,0,0
-Wheeler,6,District Clerk,,REP,Under Votes,4,1,3
-Wheeler,6,County Clerk,,REP,Margaret Dorman,31,8,23
+Wheeler,6,District Clerk,,REP,Under Votes,4,3,1
+Wheeler,6,County Clerk,,REP,Margaret Dorman,31,23,8
 Wheeler,6,County Clerk,,REP,Over Votes,0,0,0
-Wheeler,6,County Clerk,,REP,Under Votes,3,1,2
-Wheeler,6,County Treasurer,,REP,Renee Warren,30,8,22
+Wheeler,6,County Clerk,,REP,Under Votes,3,2,1
+Wheeler,6,County Treasurer,,REP,Renee Warren,30,22,8
 Wheeler,6,County Treasurer,,REP,Over Votes,0,0,0
-Wheeler,6,County Treasurer,,REP,Under Votes,4,1,3
-Wheeler,6,"Justice of the Peace, Precinct No. 2",,REP,Rick Walden,32,8,24
+Wheeler,6,County Treasurer,,REP,Under Votes,4,3,1
+Wheeler,6,"Justice of the Peace, Precinct No. 2",,REP,Rick Walden,32,24,8
 Wheeler,6,"Justice of the Peace, Precinct No. 2",,REP,Over Votes,0,0,0
 Wheeler,6,"Justice of the Peace, Precinct No. 2",,REP,Under Votes,2,1,1
-Wheeler,6,County Chairman,,REP,Elizabeth McDowell,28,7,21
+Wheeler,6,County Chairman,,REP,Elizabeth McDowell,28,21,7
 Wheeler,6,County Chairman,,REP,Over Votes,0,0,0
-Wheeler,6,County Chairman,,REP,Under Votes,6,2,4
-Wheeler,6,Proposition 1,,,YES,17,4,13
+Wheeler,6,County Chairman,,REP,Under Votes,6,4,2
+Wheeler,6,Proposition 1,,,YES,17,13,4
 Wheeler,6,Proposition 1,,,Over Votes,0,0,0
-Wheeler,6,Proposition 1,,,Under Votes,9,2,7
-Wheeler,6,Proposition 1,,,NO,8,3,5
-Wheeler,6,Proposition 2,,,YES,27,7,20
+Wheeler,6,Proposition 1,,,Under Votes,9,7,2
+Wheeler,6,Proposition 1,,,NO,8,5,3
+Wheeler,6,Proposition 2,,,YES,27,20,7
 Wheeler,6,Proposition 2,,,Over Votes,0,0,0
-Wheeler,6,Proposition 2,,,Under Votes,5,1,4
+Wheeler,6,Proposition 2,,,Under Votes,5,4,1
 Wheeler,6,Proposition 2,,,NO,2,1,1
-Wheeler,6,Proposition 3,,,YES,22,6,16
+Wheeler,6,Proposition 3,,,YES,22,16,6
 Wheeler,6,Proposition 3,,,Over Votes,0,0,0
-Wheeler,6,Proposition 3,,,Under Votes,7,2,5
-Wheeler,6,Proposition 3,,,NO,5,1,4
-Wheeler,6,Proposition 4,,,YES,26,7,19
+Wheeler,6,Proposition 3,,,Under Votes,7,5,2
+Wheeler,6,Proposition 3,,,NO,5,4,1
+Wheeler,6,Proposition 4,,,YES,26,19,7
 Wheeler,6,Proposition 4,,,Over Votes,0,0,0
-Wheeler,6,Proposition 4,,,Under Votes,5,1,4
-Wheeler,6,Proposition 4,,,NO,3,1,2
-Wheeler,6,Proposition 5,,,YES,25,7,18
+Wheeler,6,Proposition 4,,,Under Votes,5,4,1
+Wheeler,6,Proposition 4,,,NO,3,2,1
+Wheeler,6,Proposition 5,,,YES,25,18,7
 Wheeler,6,Proposition 5,,,Over Votes,0,0,0
-Wheeler,6,Proposition 5,,,Under Votes,5,1,4
-Wheeler,6,Proposition 5,,,NO,4,1,3
-Wheeler,6,Proposition 6,,,YES,30,8,22
+Wheeler,6,Proposition 5,,,Under Votes,5,4,1
+Wheeler,6,Proposition 5,,,NO,4,3,1
+Wheeler,6,Proposition 6,,,YES,30,22,8
 Wheeler,6,Proposition 6,,,Over Votes,0,0,0
-Wheeler,6,Proposition 6,,,Under Votes,4,1,3
+Wheeler,6,Proposition 6,,,Under Votes,4,3,1
 Wheeler,6,Proposition 6,,,NO,0,0,0
-Wheeler,6,Proposition 7,,,YES,26,8,18
+Wheeler,6,Proposition 7,,,YES,26,18,8
 Wheeler,6,Proposition 7,,,Over Votes,0,0,0
-Wheeler,6,Proposition 7,,,Under Votes,7,1,6
-Wheeler,6,Proposition 7,,,NO,1,0,1
-Wheeler,6,Proposition 8,,,YES,30,8,22
+Wheeler,6,Proposition 7,,,Under Votes,7,6,1
+Wheeler,6,Proposition 7,,,NO,1,1,0
+Wheeler,6,Proposition 8,,,YES,30,22,8
 Wheeler,6,Proposition 8,,,Over Votes,0,0,0
-Wheeler,6,Proposition 8,,,Under Votes,4,1,3
+Wheeler,6,Proposition 8,,,Under Votes,4,3,1
 Wheeler,6,Proposition 8,,,NO,0,0,0
-Wheeler,6,Proposition 9,,,YES,29,8,21
+Wheeler,6,Proposition 9,,,YES,29,21,8
 Wheeler,6,Proposition 9,,,Over Votes,0,0,0
-Wheeler,6,Proposition 9,,,Under Votes,4,1,3
-Wheeler,6,Proposition 9,,,NO,1,0,1
-Wheeler,6,Proposition 10,,,YES,29,8,21
+Wheeler,6,Proposition 9,,,Under Votes,4,3,1
+Wheeler,6,Proposition 9,,,NO,1,1,0
+Wheeler,6,Proposition 10,,,YES,29,21,8
 Wheeler,6,Proposition 10,,,Over Votes,0,0,0
-Wheeler,6,Proposition 10,,,Under Votes,4,1,3
-Wheeler,6,Proposition 10,,,NO,1,0,1
-Wheeler,6,Proposition 11,,,YES,26,8,18
+Wheeler,6,Proposition 10,,,Under Votes,4,3,1
+Wheeler,6,Proposition 10,,,NO,1,1,0
+Wheeler,6,Proposition 11,,,YES,26,18,8
 Wheeler,6,Proposition 11,,,Over Votes,0,0,0
-Wheeler,6,Proposition 11,,,Under Votes,4,1,3
-Wheeler,6,Proposition 11,,,NO,4,0,4
-Wheeler,7,U.S. Senate,,REP,"Bruce Jacobson, Jr.",1,0,1
+Wheeler,6,Proposition 11,,,Under Votes,4,3,1
+Wheeler,6,Proposition 11,,,NO,4,4,0
+Wheeler,7,U.S. Senate,,REP,"Bruce Jacobson, Jr.",1,1,0
 Wheeler,7,U.S. Senate,,REP,Stefano de Stefano,0,0,0
 Wheeler,7,U.S. Senate,,REP,Geraldine Sam,0,0,0
 Wheeler,7,U.S. Senate,,REP,Over Votes,0,0,0
-Wheeler,7,U.S. Senate,,REP,Under Votes,3,2,1
-Wheeler,7,U.S. Senate,,REP,Ted Cruz,51,23,28
+Wheeler,7,U.S. Senate,,REP,Under Votes,3,1,2
+Wheeler,7,U.S. Senate,,REP,Ted Cruz,51,28,23
 Wheeler,7,U.S. Senate,,REP,Mary Miller,2,1,1
-Wheeler,7,U.S. House,13,REP,Mac Thornberry,51,22,29
+Wheeler,7,U.S. House,13,REP,Mac Thornberry,51,29,22
 Wheeler,7,U.S. House,13,REP,Over Votes,0,0,0
-Wheeler,7,U.S. House,13,REP,Under Votes,5,3,2
+Wheeler,7,U.S. House,13,REP,Under Votes,5,2,3
 Wheeler,7,Governor,,REP,Greg Abbott,46,23,23
-Wheeler,7,Governor,,REP,SECEDE Kilgore,1,0,1
+Wheeler,7,Governor,,REP,SECEDE Kilgore,1,1,0
 Wheeler,7,Governor,,REP,Barbara Krueger,2,1,1
-Wheeler,7,Lieutenant Governor,,REP,Dan Patrick,33,21,12
-Wheeler,7,Lieutenant Governor,,REP,Scott Milder,22,4,18
+Wheeler,7,Lieutenant Governor,,REP,Dan Patrick,33,12,21
+Wheeler,7,Lieutenant Governor,,REP,Scott Milder,22,18,4
 Wheeler,7,Lieutenant Governor,,REP,Over Votes,0,0,0
 Wheeler,7,Lieutenant Governor,,REP,Under Votes,2,1,1
-Wheeler,7,Attorney General,,REP,Ken Paxton,48,21,27
-Wheeler,7,Comptroller of Public Accounts,,REP,Glenn Hegar,47,22,25
+Wheeler,7,Attorney General,,REP,Ken Paxton,48,27,21
+Wheeler,7,Comptroller of Public Accounts,,REP,Glenn Hegar,47,25,22
 Wheeler,7,Comptroller of Public Accounts,,REP,Over Votes,0,0,0
-Wheeler,7,Comptroller of Public Accounts,,REP,Under Votes,8,2,6
-Wheeler,7,Commissioner of the General Land Office,,REP,Rick Range,4,0,4
-Wheeler,7,Commissioner of the General Land Office,,REP,George P. Bush,39,17,22
-Wheeler,7,Commissioner of the General Land Office,,REP,Jerry Patterson,8,7,1
-Wheeler,7,Commissioner of the General Land Office,,REP,Davey Edwards,1,1,0
+Wheeler,7,Comptroller of Public Accounts,,REP,Under Votes,8,6,2
+Wheeler,7,Commissioner of the General Land Office,,REP,Rick Range,4,4,0
+Wheeler,7,Commissioner of the General Land Office,,REP,George P. Bush,39,22,17
+Wheeler,7,Commissioner of the General Land Office,,REP,Jerry Patterson,8,1,7
+Wheeler,7,Commissioner of the General Land Office,,REP,Davey Edwards,1,0,1
 Wheeler,7,Commissioner of the General Land Office,,REP,Over Votes,0,0,0
-Wheeler,7,Commissioner of the General Land Office,,REP,Under Votes,5,1,4
-Wheeler,7,Commissioner of Agriculture,,REP,Sid Miller,30,12,18
-Wheeler,7,Commissioner of Agriculture,,REP,Trey Blocker,16,9,7
-Wheeler,7,Commissioner of Agriculture,,REP,Jim Hogan,6,4,2
-Wheeler,7,Railroad Commissioner,,REP,Christi Craddick,34,16,18
+Wheeler,7,Commissioner of the General Land Office,,REP,Under Votes,5,4,1
+Wheeler,7,Commissioner of Agriculture,,REP,Sid Miller,30,18,12
+Wheeler,7,Commissioner of Agriculture,,REP,Trey Blocker,16,7,9
+Wheeler,7,Commissioner of Agriculture,,REP,Jim Hogan,6,2,4
+Wheeler,7,Railroad Commissioner,,REP,Christi Craddick,34,18,16
 Wheeler,7,Railroad Commissioner,,REP,Over Votes,0,0,0
-Wheeler,7,Railroad Commissioner,,REP,Under Votes,10,1,9
-Wheeler,7,Railroad Commissioner,,REP,Weston Martinez,11,7,4
-Wheeler,7,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,45,23,22
+Wheeler,7,Railroad Commissioner,,REP,Under Votes,10,9,1
+Wheeler,7,Railroad Commissioner,,REP,Weston Martinez,11,4,7
+Wheeler,7,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,45,22,23
 Wheeler,7,"Justice, Supreme Court, Place 2",,REP,Over Votes,0,0,0
-Wheeler,7,"Justice, Supreme Court, Place 2",,REP,Under Votes,10,1,9
-Wheeler,7,"Justice, Supreme Court, Place 4",,REP,John Devine,44,23,21
+Wheeler,7,"Justice, Supreme Court, Place 2",,REP,Under Votes,10,9,1
+Wheeler,7,"Justice, Supreme Court, Place 4",,REP,John Devine,44,21,23
 Wheeler,7,"Justice, Supreme Court, Place 4",,REP,Over Votes,0,0,0
-Wheeler,7,"Justice, Supreme Court, Place 4",,REP,Under Votes,11,1,10
-Wheeler,7,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,44,23,21
+Wheeler,7,"Justice, Supreme Court, Place 4",,REP,Under Votes,11,10,1
+Wheeler,7,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,44,21,23
 Wheeler,7,"Justice, Supreme Court, Place 6",,REP,Over Votes,0,0,0
-Wheeler,7,"Justice, Supreme Court, Place 6",,REP,Under Votes,11,1,10
-Wheeler,7,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,31,15,16
+Wheeler,7,"Justice, Supreme Court, Place 6",,REP,Under Votes,11,10,1
+Wheeler,7,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,31,16,15
 Wheeler,7,"Presiding Judge, Court of Criminal Appeals",,REP,Over Votes,0,0,0
-Wheeler,7,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,11,1,10
-Wheeler,7,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,14,9,5
-Wheeler,7,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,43,22,21
+Wheeler,7,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,11,10,1
+Wheeler,7,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,14,5,9
+Wheeler,7,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,43,21,22
 Wheeler,7,"Judge, Court of Criminal Appeals, Place 7",,REP,Over Votes,0,0,0
-Wheeler,7,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,11,1,10
-Wheeler,7,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,25,14,11
-Wheeler,7,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,14,10,4
-Wheeler,7,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,3,0,3
+Wheeler,7,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,11,10,1
+Wheeler,7,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,25,11,14
+Wheeler,7,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,14,4,10
+Wheeler,7,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,3,3,0
 Wheeler,7,"Judge, Court of Criminal Appeals, Place 8",,REP,Over Votes,0,0,0
-Wheeler,7,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,14,1,13
-Wheeler,7,State Senator,31,REP,Victor Leal,11,4,7
+Wheeler,7,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,14,13,1
+Wheeler,7,State Senator,31,REP,Victor Leal,11,7,4
 Wheeler,7,State Senator,31,REP,Over Votes,0,0,0
-Wheeler,7,State Senator,31,REP,Under Votes,3,1,2
-Wheeler,7,State Senator,31,REP,Kel Seliger,31,14,17
-Wheeler,7,State Senator,31,REP,Mike Canon,12,7,5
-Wheeler,7,State Representative,68,REP,Drew Springer,48,22,26
+Wheeler,7,State Senator,31,REP,Under Votes,3,2,1
+Wheeler,7,State Senator,31,REP,Kel Seliger,31,17,14
+Wheeler,7,State Senator,31,REP,Mike Canon,12,5,7
+Wheeler,7,State Representative,68,REP,Drew Springer,48,26,22
 Wheeler,7,State Representative,68,REP,Over Votes,0,0,0
-Wheeler,7,State Representative,68,REP,Under Votes,6,1,5
-Wheeler,7,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,45,22,23
+Wheeler,7,State Representative,68,REP,Under Votes,6,5,1
+Wheeler,7,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,45,23,22
 Wheeler,7,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Over Votes,0,0,0
-Wheeler,7,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Under Votes,9,1,8
+Wheeler,7,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Under Votes,9,8,1
 Wheeler,7,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,44,22,22
 Wheeler,7,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Over Votes,0,0,0
-Wheeler,7,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Under Votes,10,1,9
-Wheeler,7,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,49,23,26
+Wheeler,7,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Under Votes,10,9,1
+Wheeler,7,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,49,26,23
 Wheeler,7,"District Judge, 31st Judicial District",,REP,Over Votes,0,0,0
-Wheeler,7,"District Judge, 31st Judicial District",,REP,Under Votes,8,3,5
-Wheeler,7,County Judge,,REP,Jerry Dan Hefley,31,12,19
+Wheeler,7,"District Judge, 31st Judicial District",,REP,Under Votes,8,5,3
+Wheeler,7,County Judge,,REP,Jerry Dan Hefley,31,19,12
 Wheeler,7,County Judge,,REP,Over Votes,0,0,0
 Wheeler,7,County Judge,,REP,Under Votes,0,0,0
-Wheeler,7,County Judge,,REP,Ike Finsterwald,26,14,12
-Wheeler,7,District Clerk,,REP,Sherri Jones,50,23,27
+Wheeler,7,County Judge,,REP,Ike Finsterwald,26,12,14
+Wheeler,7,District Clerk,,REP,Sherri Jones,50,27,23
 Wheeler,7,District Clerk,,REP,Over Votes,0,0,0
-Wheeler,7,District Clerk,,REP,Under Votes,5,1,4
-Wheeler,7,County Clerk,,REP,Margaret Dorman,51,23,28
+Wheeler,7,District Clerk,,REP,Under Votes,5,4,1
+Wheeler,7,County Clerk,,REP,Margaret Dorman,51,28,23
 Wheeler,7,County Clerk,,REP,Over Votes,0,0,0
-Wheeler,7,County Clerk,,REP,Under Votes,4,1,3
-Wheeler,7,County Treasurer,,REP,Renee Warren,49,23,26
+Wheeler,7,County Clerk,,REP,Under Votes,4,3,1
+Wheeler,7,County Treasurer,,REP,Renee Warren,49,26,23
 Wheeler,7,County Treasurer,,REP,Over Votes,0,0,0
-Wheeler,7,County Treasurer,,REP,Under Votes,6,1,5
-Wheeler,7,"County Commissioner, Precinct No. 4",,REP,John Walker,51,23,28
+Wheeler,7,County Treasurer,,REP,Under Votes,6,5,1
+Wheeler,7,"County Commissioner, Precinct No. 4",,REP,John Walker,51,28,23
 Wheeler,7,"County Commissioner, Precinct No. 4",,REP,Over Votes,0,0,0
-Wheeler,7,"County Commissioner, Precinct No. 4",,REP,Under Votes,4,1,3
-Wheeler,7,"Justice of the Peace, Precinct No. 2",,REP,Rick Walden,50,23,27
+Wheeler,7,"County Commissioner, Precinct No. 4",,REP,Under Votes,4,3,1
+Wheeler,7,"Justice of the Peace, Precinct No. 2",,REP,Rick Walden,50,27,23
 Wheeler,7,"Justice of the Peace, Precinct No. 2",,REP,Over Votes,0,0,0
-Wheeler,7,"Justice of the Peace, Precinct No. 2",,REP,Under Votes,5,1,4
-Wheeler,7,County Chairman,,REP,Elizabeth McDowell,50,23,27
+Wheeler,7,"Justice of the Peace, Precinct No. 2",,REP,Under Votes,5,4,1
+Wheeler,7,County Chairman,,REP,Elizabeth McDowell,50,27,23
 Wheeler,7,County Chairman,,REP,Over Votes,0,0,0
-Wheeler,7,County Chairman,,REP,Under Votes,5,1,4
-Wheeler,7,Proposition 1,,,YES,29,18,11
+Wheeler,7,County Chairman,,REP,Under Votes,5,4,1
+Wheeler,7,Proposition 1,,,YES,29,11,18
 Wheeler,7,Proposition 1,,,Over Votes,0,0,0
 Wheeler,7,Proposition 1,,,Under Votes,4,2,2
-Wheeler,7,Proposition 1,,,NO,24,6,18
+Wheeler,7,Proposition 1,,,NO,24,18,6
 Wheeler,7,Proposition 2,,,YES,42,21,21
 Wheeler,7,Proposition 2,,,Over Votes,0,0,0
-Wheeler,7,Proposition 2,,,Under Votes,5,2,3
-Wheeler,7,Proposition 2,,,NO,10,3,7
-Wheeler,7,Proposition 3,,,YES,40,22,18
+Wheeler,7,Proposition 2,,,Under Votes,5,3,2
+Wheeler,7,Proposition 2,,,NO,10,7,3
+Wheeler,7,Proposition 3,,,YES,40,18,22
 Wheeler,7,Proposition 3,,,Over Votes,0,0,0
-Wheeler,7,Proposition 3,,,Under Votes,4,1,3
-Wheeler,7,Proposition 3,,,NO,13,3,10
-Wheeler,7,Proposition 4,,,YES,40,24,16
+Wheeler,7,Proposition 3,,,Under Votes,4,3,1
+Wheeler,7,Proposition 3,,,NO,13,10,3
+Wheeler,7,Proposition 4,,,YES,40,16,24
 Wheeler,7,Proposition 4,,,Over Votes,0,0,0
-Wheeler,7,Proposition 4,,,Under Votes,5,1,4
-Wheeler,7,Proposition 4,,,NO,12,1,11
-Wheeler,7,Proposition 5,,,YES,32,18,14
+Wheeler,7,Proposition 4,,,Under Votes,5,4,1
+Wheeler,7,Proposition 4,,,NO,12,11,1
+Wheeler,7,Proposition 5,,,YES,32,14,18
 Wheeler,7,Proposition 5,,,Over Votes,0,0,0
-Wheeler,7,Proposition 5,,,Under Votes,3,1,2
-Wheeler,7,Proposition 5,,,NO,22,7,15
-Wheeler,7,Proposition 6,,,YES,48,23,25
+Wheeler,7,Proposition 5,,,Under Votes,3,2,1
+Wheeler,7,Proposition 5,,,NO,22,15,7
+Wheeler,7,Proposition 6,,,YES,48,25,23
 Wheeler,7,Proposition 6,,,Over Votes,0,0,0
 Wheeler,7,Proposition 6,,,Under Votes,2,1,1
-Wheeler,7,Proposition 6,,,NO,7,2,5
-Wheeler,7,Proposition 7,,,YES,38,22,16
+Wheeler,7,Proposition 6,,,NO,7,5,2
+Wheeler,7,Proposition 7,,,YES,38,16,22
 Wheeler,7,Proposition 7,,,Over Votes,0,0,0
-Wheeler,7,Proposition 7,,,Under Votes,5,1,4
-Wheeler,7,Proposition 7,,,NO,14,3,11
-Wheeler,7,Proposition 8,,,YES,50,24,26
+Wheeler,7,Proposition 7,,,Under Votes,5,4,1
+Wheeler,7,Proposition 7,,,NO,14,11,3
+Wheeler,7,Proposition 8,,,YES,50,26,24
 Wheeler,7,Proposition 8,,,Over Votes,0,0,0
 Wheeler,7,Proposition 8,,,Under Votes,2,1,1
-Wheeler,7,Proposition 8,,,NO,5,1,4
-Wheeler,7,Proposition 9,,,YES,50,24,26
+Wheeler,7,Proposition 8,,,NO,5,4,1
+Wheeler,7,Proposition 9,,,YES,50,26,24
 Wheeler,7,Proposition 9,,,Over Votes,0,0,0
 Wheeler,7,Proposition 9,,,Under Votes,2,1,1
-Wheeler,7,Proposition 9,,,NO,5,1,4
-Wheeler,7,Proposition 10,,,YES,43,23,20
+Wheeler,7,Proposition 9,,,NO,5,4,1
+Wheeler,7,Proposition 10,,,YES,43,20,23
 Wheeler,7,Proposition 10,,,Over Votes,0,0,0
-Wheeler,7,Proposition 10,,,Under Votes,5,2,3
-Wheeler,7,Proposition 10,,,NO,9,1,8
-Wheeler,7,Proposition 11,,,YES,45,23,22
+Wheeler,7,Proposition 10,,,Under Votes,5,3,2
+Wheeler,7,Proposition 10,,,NO,9,8,1
+Wheeler,7,Proposition 11,,,YES,45,22,23
 Wheeler,7,Proposition 11,,,Over Votes,0,0,0
 Wheeler,7,Proposition 11,,,Under Votes,2,1,1
-Wheeler,7,Proposition 11,,,NO,10,2,8
-Wheeler,8,U.S. Senate,,REP,"Bruce Jacobson, Jr.",12,3,9
-Wheeler,8,U.S. Senate,,REP,Stefano de Stefano,2,0,2
-Wheeler,8,U.S. Senate,,REP,Geraldine Sam,1,1,0
+Wheeler,7,Proposition 11,,,NO,10,8,2
+Wheeler,8,U.S. Senate,,REP,"Bruce Jacobson, Jr.",12,9,3
+Wheeler,8,U.S. Senate,,REP,Stefano de Stefano,2,2,0
+Wheeler,8,U.S. Senate,,REP,Geraldine Sam,1,0,1
 Wheeler,8,U.S. Senate,,REP,Over Votes,0,0,0
-Wheeler,8,U.S. Senate,,REP,Under Votes,12,3,9
-Wheeler,8,U.S. Senate,,REP,Ted Cruz,115,48,67
-Wheeler,8,U.S. Senate,,REP,Mary Miller,4,1,3
-Wheeler,8,U.S. House,13,REP,Mac Thornberry,117,46,71
+Wheeler,8,U.S. Senate,,REP,Under Votes,12,9,3
+Wheeler,8,U.S. Senate,,REP,Ted Cruz,115,67,48
+Wheeler,8,U.S. Senate,,REP,Mary Miller,4,3,1
+Wheeler,8,U.S. House,13,REP,Mac Thornberry,117,71,46
 Wheeler,8,U.S. House,13,REP,Over Votes,0,0,0
-Wheeler,8,U.S. House,13,REP,Under Votes,28,9,19
-Wheeler,8,Governor,,REP,Greg Abbott,124,51,73
-Wheeler,8,Governor,,REP,SECEDE Kilgore,5,0,5
-Wheeler,8,Governor,,REP,Barbara Krueger,7,2,5
-Wheeler,8,Lieutenant Governor,,REP,Dan Patrick,103,42,61
-Wheeler,8,Lieutenant Governor,,REP,Scott Milder,27,11,16
+Wheeler,8,U.S. House,13,REP,Under Votes,28,19,9
+Wheeler,8,Governor,,REP,Greg Abbott,124,73,51
+Wheeler,8,Governor,,REP,SECEDE Kilgore,5,5,0
+Wheeler,8,Governor,,REP,Barbara Krueger,7,5,2
+Wheeler,8,Lieutenant Governor,,REP,Dan Patrick,103,61,42
+Wheeler,8,Lieutenant Governor,,REP,Scott Milder,27,16,11
 Wheeler,8,Lieutenant Governor,,REP,Over Votes,0,0,0
-Wheeler,8,Lieutenant Governor,,REP,Under Votes,15,2,13
-Wheeler,8,Attorney General,,REP,Ken Paxton,118,48,70
-Wheeler,8,Comptroller of Public Accounts,,REP,Glenn Hegar,110,45,65
+Wheeler,8,Lieutenant Governor,,REP,Under Votes,15,13,2
+Wheeler,8,Attorney General,,REP,Ken Paxton,118,70,48
+Wheeler,8,Comptroller of Public Accounts,,REP,Glenn Hegar,110,65,45
 Wheeler,8,Comptroller of Public Accounts,,REP,Over Votes,0,0,0
-Wheeler,8,Comptroller of Public Accounts,,REP,Under Votes,34,9,25
+Wheeler,8,Comptroller of Public Accounts,,REP,Under Votes,34,25,9
 Wheeler,8,Commissioner of the General Land Office,,REP,Rick Range,18,9,9
-Wheeler,8,Commissioner of the General Land Office,,REP,George P. Bush,82,32,50
-Wheeler,8,Commissioner of the General Land Office,,REP,Jerry Patterson,23,7,16
-Wheeler,8,Commissioner of the General Land Office,,REP,Davey Edwards,4,3,1
+Wheeler,8,Commissioner of the General Land Office,,REP,George P. Bush,82,50,32
+Wheeler,8,Commissioner of the General Land Office,,REP,Jerry Patterson,23,16,7
+Wheeler,8,Commissioner of the General Land Office,,REP,Davey Edwards,4,1,3
 Wheeler,8,Commissioner of the General Land Office,,REP,Over Votes,0,0,0
-Wheeler,8,Commissioner of the General Land Office,,REP,Under Votes,18,4,14
-Wheeler,8,Commissioner of Agriculture,,REP,Sid Miller,65,24,41
+Wheeler,8,Commissioner of the General Land Office,,REP,Under Votes,18,14,4
+Wheeler,8,Commissioner of Agriculture,,REP,Sid Miller,65,41,24
 Wheeler,8,Commissioner of Agriculture,,REP,Trey Blocker,20,10,10
-Wheeler,8,Commissioner of Agriculture,,REP,Jim Hogan,28,12,16
-Wheeler,8,Railroad Commissioner,,REP,Christi Craddick,86,37,49
+Wheeler,8,Commissioner of Agriculture,,REP,Jim Hogan,28,16,12
+Wheeler,8,Railroad Commissioner,,REP,Christi Craddick,86,49,37
 Wheeler,8,Railroad Commissioner,,REP,Over Votes,0,0,0
-Wheeler,8,Railroad Commissioner,,REP,Under Votes,32,10,22
-Wheeler,8,Railroad Commissioner,,REP,Weston Martinez,27,8,19
-Wheeler,8,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,106,45,61
+Wheeler,8,Railroad Commissioner,,REP,Under Votes,32,22,10
+Wheeler,8,Railroad Commissioner,,REP,Weston Martinez,27,19,8
+Wheeler,8,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,106,61,45
 Wheeler,8,"Justice, Supreme Court, Place 2",,REP,Over Votes,0,0,0
-Wheeler,8,"Justice, Supreme Court, Place 2",,REP,Under Votes,39,10,29
-Wheeler,8,"Justice, Supreme Court, Place 4",,REP,John Devine,102,43,59
+Wheeler,8,"Justice, Supreme Court, Place 2",,REP,Under Votes,39,29,10
+Wheeler,8,"Justice, Supreme Court, Place 4",,REP,John Devine,102,59,43
 Wheeler,8,"Justice, Supreme Court, Place 4",,REP,Over Votes,0,0,0
-Wheeler,8,"Justice, Supreme Court, Place 4",,REP,Under Votes,43,12,31
-Wheeler,8,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,103,43,60
+Wheeler,8,"Justice, Supreme Court, Place 4",,REP,Under Votes,43,31,12
+Wheeler,8,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,103,60,43
 Wheeler,8,"Justice, Supreme Court, Place 6",,REP,Over Votes,0,0,0
-Wheeler,8,"Justice, Supreme Court, Place 6",,REP,Under Votes,41,11,30
-Wheeler,8,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,66,26,40
+Wheeler,8,"Justice, Supreme Court, Place 6",,REP,Under Votes,41,30,11
+Wheeler,8,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,66,40,26
 Wheeler,8,"Presiding Judge, Court of Criminal Appeals",,REP,Over Votes,0,0,0
-Wheeler,8,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,34,13,21
-Wheeler,8,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,45,16,29
-Wheeler,8,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,101,42,59
+Wheeler,8,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,34,21,13
+Wheeler,8,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,45,29,16
+Wheeler,8,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,101,59,42
 Wheeler,8,"Judge, Court of Criminal Appeals, Place 7",,REP,Over Votes,0,0,0
-Wheeler,8,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,43,12,31
-Wheeler,8,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,42,18,24
-Wheeler,8,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,45,18,27
-Wheeler,8,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,19,4,15
+Wheeler,8,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,43,31,12
+Wheeler,8,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,42,24,18
+Wheeler,8,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,45,27,18
+Wheeler,8,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,19,15,4
 Wheeler,8,"Judge, Court of Criminal Appeals, Place 8",,REP,Over Votes,0,0,0
-Wheeler,8,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,37,13,24
-Wheeler,8,State Senator,31,REP,Victor Leal,35,13,22
+Wheeler,8,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,37,24,13
+Wheeler,8,State Senator,31,REP,Victor Leal,35,22,13
 Wheeler,8,State Senator,31,REP,Over Votes,0,0,0
-Wheeler,8,State Senator,31,REP,Under Votes,9,1,8
-Wheeler,8,State Senator,31,REP,Kel Seliger,69,28,41
-Wheeler,8,State Senator,31,REP,Mike Canon,33,14,19
-Wheeler,8,State Representative,68,REP,Drew Springer,118,49,69
+Wheeler,8,State Senator,31,REP,Under Votes,9,8,1
+Wheeler,8,State Senator,31,REP,Kel Seliger,69,41,28
+Wheeler,8,State Senator,31,REP,Mike Canon,33,19,14
+Wheeler,8,State Representative,68,REP,Drew Springer,118,69,49
 Wheeler,8,State Representative,68,REP,Over Votes,0,0,0
-Wheeler,8,State Representative,68,REP,Under Votes,28,7,21
-Wheeler,8,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,99,40,59
+Wheeler,8,State Representative,68,REP,Under Votes,28,21,7
+Wheeler,8,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,99,59,40
 Wheeler,8,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Over Votes,0,0,0
-Wheeler,8,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Under Votes,45,14,31
-Wheeler,8,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,100,40,60
+Wheeler,8,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Under Votes,45,31,14
+Wheeler,8,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,100,60,40
 Wheeler,8,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Over Votes,0,0,0
-Wheeler,8,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Under Votes,44,14,30
-Wheeler,8,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,116,46,70
+Wheeler,8,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Under Votes,44,30,14
+Wheeler,8,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,116,70,46
 Wheeler,8,"District Judge, 31st Judicial District",,REP,Over Votes,0,0,0
-Wheeler,8,"District Judge, 31st Judicial District",,REP,Under Votes,30,10,20
-Wheeler,8,County Judge,,REP,Jerry Dan Hefley,80,28,52
+Wheeler,8,"District Judge, 31st Judicial District",,REP,Under Votes,30,20,10
+Wheeler,8,County Judge,,REP,Jerry Dan Hefley,80,52,28
 Wheeler,8,County Judge,,REP,Over Votes,0,0,0
-Wheeler,8,County Judge,,REP,Under Votes,4,1,3
-Wheeler,8,County Judge,,REP,Ike Finsterwald,61,26,35
-Wheeler,8,District Clerk,,REP,Sherri Jones,121,48,73
+Wheeler,8,County Judge,,REP,Under Votes,4,3,1
+Wheeler,8,County Judge,,REP,Ike Finsterwald,61,35,26
+Wheeler,8,District Clerk,,REP,Sherri Jones,121,73,48
 Wheeler,8,District Clerk,,REP,Over Votes,0,0,0
-Wheeler,8,District Clerk,,REP,Under Votes,24,7,17
-Wheeler,8,County Clerk,,REP,Margaret Dorman,121,49,72
+Wheeler,8,District Clerk,,REP,Under Votes,24,17,7
+Wheeler,8,County Clerk,,REP,Margaret Dorman,121,72,49
 Wheeler,8,County Clerk,,REP,Over Votes,0,0,0
-Wheeler,8,County Clerk,,REP,Under Votes,25,7,18
-Wheeler,8,County Treasurer,,REP,Renee Warren,118,46,72
+Wheeler,8,County Clerk,,REP,Under Votes,25,18,7
+Wheeler,8,County Treasurer,,REP,Renee Warren,118,72,46
 Wheeler,8,County Treasurer,,REP,Over Votes,0,0,0
-Wheeler,8,County Treasurer,,REP,Under Votes,28,10,18
-Wheeler,8,"Justice of the Peace, Precinct No. 2",,REP,Rick Walden,117,48,69
+Wheeler,8,County Treasurer,,REP,Under Votes,28,18,10
+Wheeler,8,"Justice of the Peace, Precinct No. 2",,REP,Rick Walden,117,69,48
 Wheeler,8,"Justice of the Peace, Precinct No. 2",,REP,Over Votes,0,0,0
-Wheeler,8,"Justice of the Peace, Precinct No. 2",,REP,Under Votes,29,8,21
-Wheeler,8,County Chairman,,REP,Elizabeth McDowell,105,43,62
+Wheeler,8,"Justice of the Peace, Precinct No. 2",,REP,Under Votes,29,21,8
+Wheeler,8,County Chairman,,REP,Elizabeth McDowell,105,62,43
 Wheeler,8,County Chairman,,REP,Over Votes,0,0,0
-Wheeler,8,County Chairman,,REP,Under Votes,39,11,28
-Wheeler,8,Proposition 1,,,YES,90,37,53
+Wheeler,8,County Chairman,,REP,Under Votes,39,28,11
+Wheeler,8,Proposition 1,,,YES,90,53,37
 Wheeler,8,Proposition 1,,,Over Votes,0,0,0
-Wheeler,8,Proposition 1,,,Under Votes,25,6,19
-Wheeler,8,Proposition 1,,,NO,31,13,18
-Wheeler,8,Proposition 2,,,YES,120,48,72
+Wheeler,8,Proposition 1,,,Under Votes,25,19,6
+Wheeler,8,Proposition 1,,,NO,31,18,13
+Wheeler,8,Proposition 2,,,YES,120,72,48
 Wheeler,8,Proposition 2,,,Over Votes,0,0,0
-Wheeler,8,Proposition 2,,,Under Votes,17,4,13
-Wheeler,8,Proposition 2,,,NO,9,4,5
-Wheeler,8,Proposition 3,,,YES,110,45,65
+Wheeler,8,Proposition 2,,,Under Votes,17,13,4
+Wheeler,8,Proposition 2,,,NO,9,5,4
+Wheeler,8,Proposition 3,,,YES,110,65,45
 Wheeler,8,Proposition 3,,,Over Votes,0,0,0
-Wheeler,8,Proposition 3,,,Under Votes,20,4,16
-Wheeler,8,Proposition 3,,,NO,15,6,9
-Wheeler,8,Proposition 4,,,YES,116,48,68
+Wheeler,8,Proposition 3,,,Under Votes,20,16,4
+Wheeler,8,Proposition 3,,,NO,15,9,6
+Wheeler,8,Proposition 4,,,YES,116,68,48
 Wheeler,8,Proposition 4,,,Over Votes,0,0,0
-Wheeler,8,Proposition 4,,,Under Votes,15,4,11
-Wheeler,8,Proposition 4,,,NO,15,4,11
-Wheeler,8,Proposition 5,,,YES,98,42,56
+Wheeler,8,Proposition 4,,,Under Votes,15,11,4
+Wheeler,8,Proposition 4,,,NO,15,11,4
+Wheeler,8,Proposition 5,,,YES,98,56,42
 Wheeler,8,Proposition 5,,,Over Votes,0,0,0
-Wheeler,8,Proposition 5,,,Under Votes,13,2,11
-Wheeler,8,Proposition 5,,,NO,35,12,23
-Wheeler,8,Proposition 6,,,YES,130,54,76
+Wheeler,8,Proposition 5,,,Under Votes,13,11,2
+Wheeler,8,Proposition 5,,,NO,35,23,12
+Wheeler,8,Proposition 6,,,YES,130,76,54
 Wheeler,8,Proposition 6,,,Over Votes,0,0,0
-Wheeler,8,Proposition 6,,,Under Votes,13,2,11
-Wheeler,8,Proposition 6,,,NO,3,0,3
-Wheeler,8,Proposition 7,,,YES,99,44,55
+Wheeler,8,Proposition 6,,,Under Votes,13,11,2
+Wheeler,8,Proposition 6,,,NO,3,3,0
+Wheeler,8,Proposition 7,,,YES,99,55,44
 Wheeler,8,Proposition 7,,,Over Votes,0,0,0
-Wheeler,8,Proposition 7,,,Under Votes,21,5,16
-Wheeler,8,Proposition 7,,,NO,26,7,19
-Wheeler,8,Proposition 8,,,YES,127,52,75
+Wheeler,8,Proposition 7,,,Under Votes,21,16,5
+Wheeler,8,Proposition 7,,,NO,26,19,7
+Wheeler,8,Proposition 8,,,YES,127,75,52
 Wheeler,8,Proposition 8,,,Over Votes,0,0,0
-Wheeler,8,Proposition 8,,,Under Votes,15,2,13
+Wheeler,8,Proposition 8,,,Under Votes,15,13,2
 Wheeler,8,Proposition 8,,,NO,4,2,2
-Wheeler,8,Proposition 9,,,YES,120,51,69
+Wheeler,8,Proposition 9,,,YES,120,69,51
 Wheeler,8,Proposition 9,,,Over Votes,0,0,0
-Wheeler,8,Proposition 9,,,Under Votes,18,3,15
-Wheeler,8,Proposition 9,,,NO,8,2,6
-Wheeler,8,Proposition 10,,,YES,123,50,73
+Wheeler,8,Proposition 9,,,Under Votes,18,15,3
+Wheeler,8,Proposition 9,,,NO,8,6,2
+Wheeler,8,Proposition 10,,,YES,123,73,50
 Wheeler,8,Proposition 10,,,Over Votes,0,0,0
-Wheeler,8,Proposition 10,,,Under Votes,18,5,13
-Wheeler,8,Proposition 10,,,NO,5,1,4
-Wheeler,8,Proposition 11,,,YES,114,43,71
+Wheeler,8,Proposition 10,,,Under Votes,18,13,5
+Wheeler,8,Proposition 10,,,NO,5,4,1
+Wheeler,8,Proposition 11,,,YES,114,71,43
 Wheeler,8,Proposition 11,,,Over Votes,0,0,0
-Wheeler,8,Proposition 11,,,Under Votes,15,4,11
+Wheeler,8,Proposition 11,,,Under Votes,15,11,4
 Wheeler,8,Proposition 11,,,NO,16,8,8
-Wheeler,9,U.S. Senate,,REP,"Bruce Jacobson, Jr.",8,7,1
-Wheeler,9,U.S. Senate,,REP,Stefano de Stefano,1,1,0
+Wheeler,9,U.S. Senate,,REP,"Bruce Jacobson, Jr.",8,1,7
+Wheeler,9,U.S. Senate,,REP,Stefano de Stefano,1,0,1
 Wheeler,9,U.S. Senate,,REP,Geraldine Sam,4,2,2
 Wheeler,9,U.S. Senate,,REP,Over Votes,0,0,0
-Wheeler,9,U.S. Senate,,REP,Under Votes,15,4,11
-Wheeler,9,U.S. Senate,,REP,Ted Cruz,191,73,118
-Wheeler,9,U.S. Senate,,REP,Mary Miller,9,8,1
-Wheeler,9,U.S. House,13,REP,Mac Thornberry,198,83,115
+Wheeler,9,U.S. Senate,,REP,Under Votes,15,11,4
+Wheeler,9,U.S. Senate,,REP,Ted Cruz,191,118,73
+Wheeler,9,U.S. Senate,,REP,Mary Miller,9,1,8
+Wheeler,9,U.S. House,13,REP,Mac Thornberry,198,115,83
 Wheeler,9,U.S. House,13,REP,Over Votes,0,0,0
-Wheeler,9,U.S. House,13,REP,Under Votes,28,10,18
-Wheeler,9,Governor,,REP,Greg Abbott,195,80,115
+Wheeler,9,U.S. House,13,REP,Under Votes,28,18,10
+Wheeler,9,Governor,,REP,Greg Abbott,195,115,80
 Wheeler,9,Governor,,REP,SECEDE Kilgore,4,2,2
-Wheeler,9,Governor,,REP,Barbara Krueger,11,5,6
-Wheeler,9,Lieutenant Governor,,REP,Dan Patrick,156,68,88
-Wheeler,9,Lieutenant Governor,,REP,Scott Milder,50,18,32
+Wheeler,9,Governor,,REP,Barbara Krueger,11,6,5
+Wheeler,9,Lieutenant Governor,,REP,Dan Patrick,156,88,68
+Wheeler,9,Lieutenant Governor,,REP,Scott Milder,50,32,18
 Wheeler,9,Lieutenant Governor,,REP,Over Votes,0,0,0
-Wheeler,9,Lieutenant Governor,,REP,Under Votes,22,9,13
-Wheeler,9,Attorney General,,REP,Ken Paxton,179,73,106
-Wheeler,9,Comptroller of Public Accounts,,REP,Glenn Hegar,165,70,95
+Wheeler,9,Lieutenant Governor,,REP,Under Votes,22,13,9
+Wheeler,9,Attorney General,,REP,Ken Paxton,179,106,73
+Wheeler,9,Comptroller of Public Accounts,,REP,Glenn Hegar,165,95,70
 Wheeler,9,Comptroller of Public Accounts,,REP,Over Votes,0,0,0
-Wheeler,9,Comptroller of Public Accounts,,REP,Under Votes,61,23,38
-Wheeler,9,Commissioner of the General Land Office,,REP,Rick Range,43,22,21
-Wheeler,9,Commissioner of the General Land Office,,REP,George P. Bush,125,48,77
-Wheeler,9,Commissioner of the General Land Office,,REP,Jerry Patterson,24,10,14
-Wheeler,9,Commissioner of the General Land Office,,REP,Davey Edwards,8,5,3
+Wheeler,9,Comptroller of Public Accounts,,REP,Under Votes,61,38,23
+Wheeler,9,Commissioner of the General Land Office,,REP,Rick Range,43,21,22
+Wheeler,9,Commissioner of the General Land Office,,REP,George P. Bush,125,77,48
+Wheeler,9,Commissioner of the General Land Office,,REP,Jerry Patterson,24,14,10
+Wheeler,9,Commissioner of the General Land Office,,REP,Davey Edwards,8,3,5
 Wheeler,9,Commissioner of the General Land Office,,REP,Over Votes,0,0,0
-Wheeler,9,Commissioner of the General Land Office,,REP,Under Votes,28,10,18
-Wheeler,9,Commissioner of Agriculture,,REP,Sid Miller,101,50,51
-Wheeler,9,Commissioner of Agriculture,,REP,Trey Blocker,38,13,25
-Wheeler,9,Commissioner of Agriculture,,REP,Jim Hogan,34,13,21
-Wheeler,9,Railroad Commissioner,,REP,Christi Craddick,131,57,74
+Wheeler,9,Commissioner of the General Land Office,,REP,Under Votes,28,18,10
+Wheeler,9,Commissioner of Agriculture,,REP,Sid Miller,101,51,50
+Wheeler,9,Commissioner of Agriculture,,REP,Trey Blocker,38,25,13
+Wheeler,9,Commissioner of Agriculture,,REP,Jim Hogan,34,21,13
+Wheeler,9,Railroad Commissioner,,REP,Christi Craddick,131,74,57
 Wheeler,9,Railroad Commissioner,,REP,Over Votes,0,0,0
-Wheeler,9,Railroad Commissioner,,REP,Under Votes,57,18,39
+Wheeler,9,Railroad Commissioner,,REP,Under Votes,57,39,18
 Wheeler,9,Railroad Commissioner,,REP,Weston Martinez,40,20,20
-Wheeler,9,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,162,67,95
+Wheeler,9,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,162,95,67
 Wheeler,9,"Justice, Supreme Court, Place 2",,REP,Over Votes,0,0,0
-Wheeler,9,"Justice, Supreme Court, Place 2",,REP,Under Votes,63,25,38
-Wheeler,9,"Justice, Supreme Court, Place 4",,REP,John Devine,163,70,93
+Wheeler,9,"Justice, Supreme Court, Place 2",,REP,Under Votes,63,38,25
+Wheeler,9,"Justice, Supreme Court, Place 4",,REP,John Devine,163,93,70
 Wheeler,9,"Justice, Supreme Court, Place 4",,REP,Over Votes,0,0,0
-Wheeler,9,"Justice, Supreme Court, Place 4",,REP,Under Votes,62,22,40
-Wheeler,9,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,164,68,96
+Wheeler,9,"Justice, Supreme Court, Place 4",,REP,Under Votes,62,40,22
+Wheeler,9,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,164,96,68
 Wheeler,9,"Justice, Supreme Court, Place 6",,REP,Over Votes,0,0,0
-Wheeler,9,"Justice, Supreme Court, Place 6",,REP,Under Votes,60,23,37
-Wheeler,9,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,116,53,63
+Wheeler,9,"Justice, Supreme Court, Place 6",,REP,Under Votes,60,37,23
+Wheeler,9,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,116,63,53
 Wheeler,9,"Presiding Judge, Court of Criminal Appeals",,REP,Over Votes,0,0,0
-Wheeler,9,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,58,20,38
-Wheeler,9,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,54,22,32
-Wheeler,9,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,155,68,87
+Wheeler,9,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,58,38,20
+Wheeler,9,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,54,32,22
+Wheeler,9,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,155,87,68
 Wheeler,9,"Judge, Court of Criminal Appeals, Place 7",,REP,Over Votes,0,0,0
-Wheeler,9,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,70,24,46
-Wheeler,9,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,80,34,46
-Wheeler,9,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,56,26,30
-Wheeler,9,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,21,11,10
+Wheeler,9,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,70,46,24
+Wheeler,9,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,80,46,34
+Wheeler,9,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,56,30,26
+Wheeler,9,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,21,10,11
 Wheeler,9,"Judge, Court of Criminal Appeals, Place 8",,REP,Over Votes,0,0,0
-Wheeler,9,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,70,23,47
+Wheeler,9,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,70,47,23
 Wheeler,9,State Senator,31,REP,Victor Leal,42,21,21
 Wheeler,9,State Senator,31,REP,Over Votes,0,0,0
 Wheeler,9,State Senator,31,REP,Under Votes,10,5,5
-Wheeler,9,State Senator,31,REP,Kel Seliger,120,53,67
-Wheeler,9,State Senator,31,REP,Mike Canon,56,16,40
-Wheeler,9,State Representative,68,REP,Drew Springer,188,79,109
+Wheeler,9,State Senator,31,REP,Kel Seliger,120,67,53
+Wheeler,9,State Senator,31,REP,Mike Canon,56,40,16
+Wheeler,9,State Representative,68,REP,Drew Springer,188,109,79
 Wheeler,9,State Representative,68,REP,Over Votes,0,0,0
-Wheeler,9,State Representative,68,REP,Under Votes,39,15,24
-Wheeler,9,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,163,72,91
+Wheeler,9,State Representative,68,REP,Under Votes,39,24,15
+Wheeler,9,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,163,91,72
 Wheeler,9,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Over Votes,0,0,0
-Wheeler,9,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Under Votes,64,22,42
-Wheeler,9,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,166,73,93
+Wheeler,9,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Under Votes,64,42,22
+Wheeler,9,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,166,93,73
 Wheeler,9,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Over Votes,0,0,0
-Wheeler,9,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Under Votes,60,20,40
-Wheeler,9,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,193,85,108
+Wheeler,9,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Under Votes,60,40,20
+Wheeler,9,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,193,108,85
 Wheeler,9,"District Judge, 31st Judicial District",,REP,Over Votes,0,0,0
-Wheeler,9,"District Judge, 31st Judicial District",,REP,Under Votes,32,7,25
-Wheeler,9,County Judge,,REP,Jerry Dan Hefley,145,52,93
+Wheeler,9,"District Judge, 31st Judicial District",,REP,Under Votes,32,25,7
+Wheeler,9,County Judge,,REP,Jerry Dan Hefley,145,93,52
 Wheeler,9,County Judge,,REP,Over Votes,0,0,0
-Wheeler,9,County Judge,,REP,Under Votes,3,0,3
-Wheeler,9,County Judge,,REP,Ike Finsterwald,80,43,37
-Wheeler,9,District Clerk,,REP,Sherri Jones,197,85,112
+Wheeler,9,County Judge,,REP,Under Votes,3,3,0
+Wheeler,9,County Judge,,REP,Ike Finsterwald,80,37,43
+Wheeler,9,District Clerk,,REP,Sherri Jones,197,112,85
 Wheeler,9,District Clerk,,REP,Over Votes,0,0,0
-Wheeler,9,District Clerk,,REP,Under Votes,28,7,21
-Wheeler,9,County Clerk,,REP,Margaret Dorman,193,81,112
+Wheeler,9,District Clerk,,REP,Under Votes,28,21,7
+Wheeler,9,County Clerk,,REP,Margaret Dorman,193,112,81
 Wheeler,9,County Clerk,,REP,Over Votes,0,0,0
-Wheeler,9,County Clerk,,REP,Under Votes,32,11,21
-Wheeler,9,County Treasurer,,REP,Renee Warren,192,83,109
+Wheeler,9,County Clerk,,REP,Under Votes,32,21,11
+Wheeler,9,County Treasurer,,REP,Renee Warren,192,109,83
 Wheeler,9,County Treasurer,,REP,Over Votes,0,0,0
-Wheeler,9,County Treasurer,,REP,Under Votes,34,10,24
-Wheeler,9,"County Commissioner, Precinct No. 4",,REP,John Walker,204,85,119
+Wheeler,9,County Treasurer,,REP,Under Votes,34,24,10
+Wheeler,9,"County Commissioner, Precinct No. 4",,REP,John Walker,204,119,85
 Wheeler,9,"County Commissioner, Precinct No. 4",,REP,Over Votes,0,0,0
-Wheeler,9,"County Commissioner, Precinct No. 4",,REP,Under Votes,21,7,14
-Wheeler,9,"Justice of the Peace, Precinct No. 2",,REP,Rick Walden,201,81,120
+Wheeler,9,"County Commissioner, Precinct No. 4",,REP,Under Votes,21,14,7
+Wheeler,9,"Justice of the Peace, Precinct No. 2",,REP,Rick Walden,201,120,81
 Wheeler,9,"Justice of the Peace, Precinct No. 2",,REP,Over Votes,0,0,0
-Wheeler,9,"Justice of the Peace, Precinct No. 2",,REP,Under Votes,23,10,13
-Wheeler,9,County Chairman,,REP,Elizabeth McDowell,183,80,103
+Wheeler,9,"Justice of the Peace, Precinct No. 2",,REP,Under Votes,23,13,10
+Wheeler,9,County Chairman,,REP,Elizabeth McDowell,183,103,80
 Wheeler,9,County Chairman,,REP,Over Votes,0,0,0
-Wheeler,9,County Chairman,,REP,Under Votes,44,14,30
-Wheeler,9,Proposition 1,,,YES,125,55,70
+Wheeler,9,County Chairman,,REP,Under Votes,44,30,14
+Wheeler,9,Proposition 1,,,YES,125,70,55
 Wheeler,9,Proposition 1,,,Over Votes,0,0,0
-Wheeler,9,Proposition 1,,,Under Votes,27,11,16
-Wheeler,9,Proposition 1,,,NO,76,29,47
-Wheeler,9,Proposition 2,,,YES,187,80,107
+Wheeler,9,Proposition 1,,,Under Votes,27,16,11
+Wheeler,9,Proposition 1,,,NO,76,47,29
+Wheeler,9,Proposition 2,,,YES,187,107,80
 Wheeler,9,Proposition 2,,,Over Votes,0,0,0
-Wheeler,9,Proposition 2,,,Under Votes,18,6,12
-Wheeler,9,Proposition 2,,,NO,23,9,14
-Wheeler,9,Proposition 3,,,YES,182,79,103
+Wheeler,9,Proposition 2,,,Under Votes,18,12,6
+Wheeler,9,Proposition 2,,,NO,23,14,9
+Wheeler,9,Proposition 3,,,YES,182,103,79
 Wheeler,9,Proposition 3,,,Over Votes,0,0,0
-Wheeler,9,Proposition 3,,,Under Votes,18,6,12
-Wheeler,9,Proposition 3,,,NO,28,10,18
-Wheeler,9,Proposition 4,,,YES,193,77,116
+Wheeler,9,Proposition 3,,,Under Votes,18,12,6
+Wheeler,9,Proposition 3,,,NO,28,18,10
+Wheeler,9,Proposition 4,,,YES,193,116,77
 Wheeler,9,Proposition 4,,,Over Votes,0,0,0
-Wheeler,9,Proposition 4,,,Under Votes,10,6,4
-Wheeler,9,Proposition 4,,,NO,24,11,13
-Wheeler,9,Proposition 5,,,YES,138,54,84
+Wheeler,9,Proposition 4,,,Under Votes,10,4,6
+Wheeler,9,Proposition 4,,,NO,24,13,11
+Wheeler,9,Proposition 5,,,YES,138,84,54
 Wheeler,9,Proposition 5,,,Over Votes,0,0,0
-Wheeler,9,Proposition 5,,,Under Votes,23,9,14
-Wheeler,9,Proposition 5,,,NO,66,31,35
-Wheeler,9,Proposition 6,,,YES,213,88,125
+Wheeler,9,Proposition 5,,,Under Votes,23,14,9
+Wheeler,9,Proposition 5,,,NO,66,35,31
+Wheeler,9,Proposition 6,,,YES,213,125,88
 Wheeler,9,Proposition 6,,,Over Votes,0,0,0
-Wheeler,9,Proposition 6,,,Under Votes,10,6,4
-Wheeler,9,Proposition 6,,,NO,5,1,4
-Wheeler,9,Proposition 7,,,YES,159,67,92
+Wheeler,9,Proposition 6,,,Under Votes,10,4,6
+Wheeler,9,Proposition 6,,,NO,5,4,1
+Wheeler,9,Proposition 7,,,YES,159,92,67
 Wheeler,9,Proposition 7,,,Over Votes,0,0,0
-Wheeler,9,Proposition 7,,,Under Votes,16,9,7
-Wheeler,9,Proposition 7,,,NO,53,19,34
-Wheeler,9,Proposition 8,,,YES,213,89,124
+Wheeler,9,Proposition 7,,,Under Votes,16,7,9
+Wheeler,9,Proposition 7,,,NO,53,34,19
+Wheeler,9,Proposition 8,,,YES,213,124,89
 Wheeler,9,Proposition 8,,,Over Votes,0,0,0
-Wheeler,9,Proposition 8,,,Under Votes,9,5,4
-Wheeler,9,Proposition 8,,,NO,6,1,5
-Wheeler,9,Proposition 9,,,YES,200,76,124
+Wheeler,9,Proposition 8,,,Under Votes,9,4,5
+Wheeler,9,Proposition 8,,,NO,6,5,1
+Wheeler,9,Proposition 9,,,YES,200,124,76
 Wheeler,9,Proposition 9,,,Over Votes,0,0,0
-Wheeler,9,Proposition 9,,,Under Votes,8,5,3
-Wheeler,9,Proposition 9,,,NO,20,14,6
-Wheeler,9,Proposition 10,,,YES,200,81,119
+Wheeler,9,Proposition 9,,,Under Votes,8,3,5
+Wheeler,9,Proposition 9,,,NO,20,6,14
+Wheeler,9,Proposition 10,,,YES,200,119,81
 Wheeler,9,Proposition 10,,,Over Votes,0,0,0
-Wheeler,9,Proposition 10,,,Under Votes,15,6,9
-Wheeler,9,Proposition 10,,,NO,13,8,5
-Wheeler,9,Proposition 11,,,YES,193,81,112
+Wheeler,9,Proposition 10,,,Under Votes,15,9,6
+Wheeler,9,Proposition 10,,,NO,13,5,8
+Wheeler,9,Proposition 11,,,YES,193,112,81
 Wheeler,9,Proposition 11,,,Over Votes,0,0,0
-Wheeler,9,Proposition 11,,,Under Votes,9,4,5
-Wheeler,9,Proposition 11,,,NO,26,10,16
+Wheeler,9,Proposition 11,,,Under Votes,9,5,4
+Wheeler,9,Proposition 11,,,NO,26,16,10
 Wheeler,10,U.S. Senate,,REP,"Bruce Jacobson, Jr.",0,0,0
-Wheeler,10,U.S. Senate,,REP,Stefano de Stefano,1,0,1
+Wheeler,10,U.S. Senate,,REP,Stefano de Stefano,1,1,0
 Wheeler,10,U.S. Senate,,REP,Geraldine Sam,0,0,0
 Wheeler,10,U.S. Senate,,REP,Over Votes,0,0,0
-Wheeler,10,U.S. Senate,,REP,Under Votes,6,1,5
-Wheeler,10,U.S. Senate,,REP,Ted Cruz,31,6,25
-Wheeler,10,U.S. Senate,,REP,Mary Miller,1,1,0
-Wheeler,10,U.S. House,13,REP,Mac Thornberry,31,6,25
+Wheeler,10,U.S. Senate,,REP,Under Votes,6,5,1
+Wheeler,10,U.S. Senate,,REP,Ted Cruz,31,25,6
+Wheeler,10,U.S. Senate,,REP,Mary Miller,1,0,1
+Wheeler,10,U.S. House,13,REP,Mac Thornberry,31,25,6
 Wheeler,10,U.S. House,13,REP,Over Votes,0,0,0
-Wheeler,10,U.S. House,13,REP,Under Votes,7,1,6
-Wheeler,10,Governor,,REP,Greg Abbott,31,4,27
-Wheeler,10,Governor,,REP,SECEDE Kilgore,2,0,2
-Wheeler,10,Governor,,REP,Barbara Krueger,5,4,1
-Wheeler,10,Lieutenant Governor,,REP,Dan Patrick,20,2,18
-Wheeler,10,Lieutenant Governor,,REP,Scott Milder,14,6,8
+Wheeler,10,U.S. House,13,REP,Under Votes,7,6,1
+Wheeler,10,Governor,,REP,Greg Abbott,31,27,4
+Wheeler,10,Governor,,REP,SECEDE Kilgore,2,2,0
+Wheeler,10,Governor,,REP,Barbara Krueger,5,1,4
+Wheeler,10,Lieutenant Governor,,REP,Dan Patrick,20,18,2
+Wheeler,10,Lieutenant Governor,,REP,Scott Milder,14,8,6
 Wheeler,10,Lieutenant Governor,,REP,Over Votes,0,0,0
-Wheeler,10,Lieutenant Governor,,REP,Under Votes,5,0,5
-Wheeler,10,Attorney General,,REP,Ken Paxton,29,7,22
-Wheeler,10,Comptroller of Public Accounts,,REP,Glenn Hegar,27,6,21
+Wheeler,10,Lieutenant Governor,,REP,Under Votes,5,5,0
+Wheeler,10,Attorney General,,REP,Ken Paxton,29,22,7
+Wheeler,10,Comptroller of Public Accounts,,REP,Glenn Hegar,27,21,6
 Wheeler,10,Comptroller of Public Accounts,,REP,Over Votes,0,0,0
-Wheeler,10,Comptroller of Public Accounts,,REP,Under Votes,10,0,10
-Wheeler,10,Commissioner of the General Land Office,,REP,Rick Range,1,0,1
-Wheeler,10,Commissioner of the General Land Office,,REP,George P. Bush,23,5,18
-Wheeler,10,Commissioner of the General Land Office,,REP,Jerry Patterson,5,2,3
+Wheeler,10,Comptroller of Public Accounts,,REP,Under Votes,10,10,0
+Wheeler,10,Commissioner of the General Land Office,,REP,Rick Range,1,1,0
+Wheeler,10,Commissioner of the General Land Office,,REP,George P. Bush,23,18,5
+Wheeler,10,Commissioner of the General Land Office,,REP,Jerry Patterson,5,3,2
 Wheeler,10,Commissioner of the General Land Office,,REP,Davey Edwards,0,0,0
 Wheeler,10,Commissioner of the General Land Office,,REP,Over Votes,0,0,0
-Wheeler,10,Commissioner of the General Land Office,,REP,Under Votes,10,1,9
-Wheeler,10,Commissioner of Agriculture,,REP,Sid Miller,16,1,15
-Wheeler,10,Commissioner of Agriculture,,REP,Trey Blocker,8,5,3
-Wheeler,10,Commissioner of Agriculture,,REP,Jim Hogan,4,1,3
-Wheeler,10,Railroad Commissioner,,REP,Christi Craddick,26,8,18
+Wheeler,10,Commissioner of the General Land Office,,REP,Under Votes,10,9,1
+Wheeler,10,Commissioner of Agriculture,,REP,Sid Miller,16,15,1
+Wheeler,10,Commissioner of Agriculture,,REP,Trey Blocker,8,3,5
+Wheeler,10,Commissioner of Agriculture,,REP,Jim Hogan,4,3,1
+Wheeler,10,Railroad Commissioner,,REP,Christi Craddick,26,18,8
 Wheeler,10,Railroad Commissioner,,REP,Over Votes,0,0,0
-Wheeler,10,Railroad Commissioner,,REP,Under Votes,10,0,10
-Wheeler,10,Railroad Commissioner,,REP,Weston Martinez,3,0,3
-Wheeler,10,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,23,6,17
+Wheeler,10,Railroad Commissioner,,REP,Under Votes,10,10,0
+Wheeler,10,Railroad Commissioner,,REP,Weston Martinez,3,3,0
+Wheeler,10,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,23,17,6
 Wheeler,10,"Justice, Supreme Court, Place 2",,REP,Over Votes,0,0,0
-Wheeler,10,"Justice, Supreme Court, Place 2",,REP,Under Votes,14,0,14
-Wheeler,10,"Justice, Supreme Court, Place 4",,REP,John Devine,24,6,18
+Wheeler,10,"Justice, Supreme Court, Place 2",,REP,Under Votes,14,14,0
+Wheeler,10,"Justice, Supreme Court, Place 4",,REP,John Devine,24,18,6
 Wheeler,10,"Justice, Supreme Court, Place 4",,REP,Over Votes,0,0,0
-Wheeler,10,"Justice, Supreme Court, Place 4",,REP,Under Votes,13,0,13
-Wheeler,10,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,24,6,18
+Wheeler,10,"Justice, Supreme Court, Place 4",,REP,Under Votes,13,13,0
+Wheeler,10,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,24,18,6
 Wheeler,10,"Justice, Supreme Court, Place 6",,REP,Over Votes,0,0,0
-Wheeler,10,"Justice, Supreme Court, Place 6",,REP,Under Votes,13,0,13
-Wheeler,10,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,18,5,13
+Wheeler,10,"Justice, Supreme Court, Place 6",,REP,Under Votes,13,13,0
+Wheeler,10,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,18,13,5
 Wheeler,10,"Presiding Judge, Court of Criminal Appeals",,REP,Over Votes,0,0,0
-Wheeler,10,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,14,1,13
-Wheeler,10,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,7,2,5
-Wheeler,10,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,22,6,16
+Wheeler,10,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,14,13,1
+Wheeler,10,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,7,5,2
+Wheeler,10,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,22,16,6
 Wheeler,10,"Judge, Court of Criminal Appeals, Place 7",,REP,Over Votes,0,0,0
-Wheeler,10,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,15,0,15
-Wheeler,10,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,12,2,10
-Wheeler,10,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,8,3,5
-Wheeler,10,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,5,2,3
+Wheeler,10,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,15,15,0
+Wheeler,10,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,12,10,2
+Wheeler,10,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,8,5,3
+Wheeler,10,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,5,3,2
 Wheeler,10,"Judge, Court of Criminal Appeals, Place 8",,REP,Over Votes,0,0,0
-Wheeler,10,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,14,1,13
+Wheeler,10,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,14,13,1
 Wheeler,10,State Senator,31,REP,Victor Leal,10,5,5
 Wheeler,10,State Senator,31,REP,Over Votes,0,0,0
-Wheeler,10,State Senator,31,REP,Under Votes,1,0,1
-Wheeler,10,State Senator,31,REP,Kel Seliger,21,3,18
-Wheeler,10,State Senator,31,REP,Mike Canon,7,0,7
-Wheeler,10,State Representative,68,REP,Drew Springer,25,6,19
+Wheeler,10,State Senator,31,REP,Under Votes,1,1,0
+Wheeler,10,State Senator,31,REP,Kel Seliger,21,18,3
+Wheeler,10,State Senator,31,REP,Mike Canon,7,7,0
+Wheeler,10,State Representative,68,REP,Drew Springer,25,19,6
 Wheeler,10,State Representative,68,REP,Over Votes,0,0,0
-Wheeler,10,State Representative,68,REP,Under Votes,12,0,12
-Wheeler,10,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,22,5,17
+Wheeler,10,State Representative,68,REP,Under Votes,12,12,0
+Wheeler,10,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,22,17,5
 Wheeler,10,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Over Votes,0,0,0
-Wheeler,10,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Under Votes,15,1,14
-Wheeler,10,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,20,5,15
+Wheeler,10,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Under Votes,15,14,1
+Wheeler,10,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,20,15,5
 Wheeler,10,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Over Votes,0,0,0
-Wheeler,10,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Under Votes,17,1,16
-Wheeler,10,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,29,7,22
+Wheeler,10,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Under Votes,17,16,1
+Wheeler,10,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,29,22,7
 Wheeler,10,"District Judge, 31st Judicial District",,REP,Over Votes,0,0,0
-Wheeler,10,"District Judge, 31st Judicial District",,REP,Under Votes,10,1,9
-Wheeler,10,County Judge,,REP,Jerry Dan Hefley,9,1,8
+Wheeler,10,"District Judge, 31st Judicial District",,REP,Under Votes,10,9,1
+Wheeler,10,County Judge,,REP,Jerry Dan Hefley,9,8,1
 Wheeler,10,County Judge,,REP,Over Votes,0,0,0
-Wheeler,10,County Judge,,REP,Under Votes,1,0,1
-Wheeler,10,County Judge,,REP,Ike Finsterwald,29,7,22
-Wheeler,10,District Clerk,,REP,Sherri Jones,33,7,26
+Wheeler,10,County Judge,,REP,Under Votes,1,1,0
+Wheeler,10,County Judge,,REP,Ike Finsterwald,29,22,7
+Wheeler,10,District Clerk,,REP,Sherri Jones,33,26,7
 Wheeler,10,District Clerk,,REP,Over Votes,0,0,0
-Wheeler,10,District Clerk,,REP,Under Votes,5,0,5
-Wheeler,10,County Clerk,,REP,Margaret Dorman,34,8,26
+Wheeler,10,District Clerk,,REP,Under Votes,5,5,0
+Wheeler,10,County Clerk,,REP,Margaret Dorman,34,26,8
 Wheeler,10,County Clerk,,REP,Over Votes,0,0,0
-Wheeler,10,County Clerk,,REP,Under Votes,5,0,5
-Wheeler,10,County Treasurer,,REP,Renee Warren,28,6,22
+Wheeler,10,County Clerk,,REP,Under Votes,5,5,0
+Wheeler,10,County Treasurer,,REP,Renee Warren,28,22,6
 Wheeler,10,County Treasurer,,REP,Over Votes,0,0,0
-Wheeler,10,County Treasurer,,REP,Under Votes,9,0,9
-Wheeler,10,"Justice of the Peace, Precinct No. 1",,REP,Mark Brown,29,6,23
+Wheeler,10,County Treasurer,,REP,Under Votes,9,9,0
+Wheeler,10,"Justice of the Peace, Precinct No. 1",,REP,Mark Brown,29,23,6
 Wheeler,10,"Justice of the Peace, Precinct No. 1",,REP,Over Votes,0,0,0
-Wheeler,10,"Justice of the Peace, Precinct No. 1",,REP,Under Votes,8,0,8
-Wheeler,10,County Chairman,,REP,Elizabeth McDowell,30,8,22
+Wheeler,10,"Justice of the Peace, Precinct No. 1",,REP,Under Votes,8,8,0
+Wheeler,10,County Chairman,,REP,Elizabeth McDowell,30,22,8
 Wheeler,10,County Chairman,,REP,Over Votes,0,0,0
-Wheeler,10,County Chairman,,REP,Under Votes,9,0,9
-Wheeler,10,Proposition 1,,,YES,17,5,12
+Wheeler,10,County Chairman,,REP,Under Votes,9,9,0
+Wheeler,10,Proposition 1,,,YES,17,12,5
 Wheeler,10,Proposition 1,,,Over Votes,0,0,0
-Wheeler,10,Proposition 1,,,Under Votes,9,0,9
-Wheeler,10,Proposition 1,,,NO,13,3,10
-Wheeler,10,Proposition 2,,,YES,25,7,18
+Wheeler,10,Proposition 1,,,Under Votes,9,9,0
+Wheeler,10,Proposition 1,,,NO,13,10,3
+Wheeler,10,Proposition 2,,,YES,25,18,7
 Wheeler,10,Proposition 2,,,Over Votes,0,0,0
-Wheeler,10,Proposition 2,,,Under Votes,7,0,7
-Wheeler,10,Proposition 2,,,NO,7,1,6
-Wheeler,10,Proposition 3,,,YES,27,8,19
+Wheeler,10,Proposition 2,,,Under Votes,7,7,0
+Wheeler,10,Proposition 2,,,NO,7,6,1
+Wheeler,10,Proposition 3,,,YES,27,19,8
 Wheeler,10,Proposition 3,,,Over Votes,0,0,0
-Wheeler,10,Proposition 3,,,Under Votes,8,0,8
-Wheeler,10,Proposition 3,,,NO,4,0,4
-Wheeler,10,Proposition 4,,,YES,25,6,19
+Wheeler,10,Proposition 3,,,Under Votes,8,8,0
+Wheeler,10,Proposition 3,,,NO,4,4,0
+Wheeler,10,Proposition 4,,,YES,25,19,6
 Wheeler,10,Proposition 4,,,Over Votes,0,0,0
-Wheeler,10,Proposition 4,,,Under Votes,7,0,7
-Wheeler,10,Proposition 4,,,NO,7,2,5
-Wheeler,10,Proposition 5,,,YES,18,3,15
+Wheeler,10,Proposition 4,,,Under Votes,7,7,0
+Wheeler,10,Proposition 4,,,NO,7,5,2
+Wheeler,10,Proposition 5,,,YES,18,15,3
 Wheeler,10,Proposition 5,,,Over Votes,0,0,0
-Wheeler,10,Proposition 5,,,Under Votes,6,0,6
-Wheeler,10,Proposition 5,,,NO,15,5,10
-Wheeler,10,Proposition 6,,,YES,35,8,27
+Wheeler,10,Proposition 5,,,Under Votes,6,6,0
+Wheeler,10,Proposition 5,,,NO,15,10,5
+Wheeler,10,Proposition 6,,,YES,35,27,8
 Wheeler,10,Proposition 6,,,Over Votes,0,0,0
-Wheeler,10,Proposition 6,,,Under Votes,4,0,4
+Wheeler,10,Proposition 6,,,Under Votes,4,4,0
 Wheeler,10,Proposition 6,,,NO,0,0,0
-Wheeler,10,Proposition 7,,,YES,25,7,18
+Wheeler,10,Proposition 7,,,YES,25,18,7
 Wheeler,10,Proposition 7,,,Over Votes,0,0,0
-Wheeler,10,Proposition 7,,,Under Votes,8,0,8
-Wheeler,10,Proposition 7,,,NO,6,1,5
-Wheeler,10,Proposition 8,,,YES,33,8,25
+Wheeler,10,Proposition 7,,,Under Votes,8,8,0
+Wheeler,10,Proposition 7,,,NO,6,5,1
+Wheeler,10,Proposition 8,,,YES,33,25,8
 Wheeler,10,Proposition 8,,,Over Votes,0,0,0
-Wheeler,10,Proposition 8,,,Under Votes,6,0,6
+Wheeler,10,Proposition 8,,,Under Votes,6,6,0
 Wheeler,10,Proposition 8,,,NO,0,0,0
-Wheeler,10,Proposition 9,,,YES,31,8,23
+Wheeler,10,Proposition 9,,,YES,31,23,8
 Wheeler,10,Proposition 9,,,Over Votes,0,0,0
-Wheeler,10,Proposition 9,,,Under Votes,7,0,7
-Wheeler,10,Proposition 9,,,NO,1,0,1
-Wheeler,10,Proposition 10,,,YES,27,6,21
+Wheeler,10,Proposition 9,,,Under Votes,7,7,0
+Wheeler,10,Proposition 9,,,NO,1,1,0
+Wheeler,10,Proposition 10,,,YES,27,21,6
 Wheeler,10,Proposition 10,,,Over Votes,0,0,0
-Wheeler,10,Proposition 10,,,Under Votes,9,1,8
-Wheeler,10,Proposition 10,,,NO,3,1,2
-Wheeler,10,Proposition 11,,,YES,27,7,20
+Wheeler,10,Proposition 10,,,Under Votes,9,8,1
+Wheeler,10,Proposition 10,,,NO,3,2,1
+Wheeler,10,Proposition 11,,,YES,27,20,7
 Wheeler,10,Proposition 11,,,Over Votes,0,0,0
-Wheeler,10,Proposition 11,,,Under Votes,7,0,7
-Wheeler,10,Proposition 11,,,NO,5,1,4
+Wheeler,10,Proposition 11,,,Under Votes,7,7,0
+Wheeler,10,Proposition 11,,,NO,5,4,1
 Wheeler,1,U.S. Senate,,DEM,Beto O'Rourke,0,0,0
 Wheeler,1,U.S. Senate,,DEM,Over Votes,0,0,0
 Wheeler,1,U.S. Senate,,DEM,Under Votes,0,0,0
@@ -1571,10 +1571,10 @@ Wheeler,2,Proposition #12 Right to Fair Taxation:,,,Yes,0,0,0
 Wheeler,2,Proposition #12 Right to Fair Taxation:,,,Over Votes,0,0,0
 Wheeler,2,Proposition #12 Right to Fair Taxation:,,,Under Votes,0,0,0
 Wheeler,2,Proposition #12 Right to Fair Taxation:,,,No,0,0,0
-Wheeler,3,U.S. Senate,,DEM,Beto O'Rourke,1,0,1
+Wheeler,3,U.S. Senate,,DEM,Beto O'Rourke,1,1,0
 Wheeler,3,U.S. Senate,,DEM,Over Votes,0,0,0
 Wheeler,3,U.S. Senate,,DEM,Under Votes,0,0,0
-Wheeler,3,U.S. Senate,,DEM,Sema Hernandez,1,1,0
+Wheeler,3,U.S. Senate,,DEM,Sema Hernandez,1,0,1
 Wheeler,3,U.S. Senate,,DEM,Edward Kimbrough,0,0,0
 Wheeler,3,U.S. House,13,DEM,Greg Sagan,2,1,1
 Wheeler,3,U.S. House,13,DEM,Over Votes,0,0,0
@@ -1584,14 +1584,14 @@ Wheeler,3,Governor,,DEM,James Jolly Clark,0,0,0
 Wheeler,3,Governor,,DEM,Adrian Ocegueda,0,0,0
 Wheeler,3,Governor,,DEM,Over Votes,0,0,0
 Wheeler,3,Governor,,DEM,Under Votes,0,0,0
-Wheeler,3,Governor,,DEM,Grady Yarbrough,1,1,0
+Wheeler,3,Governor,,DEM,Grady Yarbrough,1,0,1
 Wheeler,3,Governor,,DEM,Jeffrey Payne,0,0,0
 Wheeler,3,Governor,,DEM,Andrew White,0,0,0
 Wheeler,3,Governor,,DEM,Tom Wakely,0,0,0
 Wheeler,3,Governor,,DEM,"Cedric Davis, Sr.",0,0,0
-Wheeler,3,Governor,,DEM,Lupe Valdez,1,0,1
-Wheeler,3,Lieutenant Governor,,DEM,Mike Collier,1,1,0
-Wheeler,3,Lieutenant Governor,,DEM,Michael Cooper,1,0,1
+Wheeler,3,Governor,,DEM,Lupe Valdez,1,1,0
+Wheeler,3,Lieutenant Governor,,DEM,Mike Collier,1,0,1
+Wheeler,3,Lieutenant Governor,,DEM,Michael Cooper,1,1,0
 Wheeler,3,Lieutenant Governor,,DEM,Over Votes,0,0,0
 Wheeler,3,Lieutenant Governor,,DEM,Under Votes,0,0,0
 Wheeler,3,Attorney General,,DEM,Justin Nelson,2,1,1
@@ -1679,7 +1679,7 @@ Wheeler,4,U.S. Senate,,DEM,Beto O'Rourke,2,1,1
 Wheeler,4,U.S. Senate,,DEM,Over Votes,0,0,0
 Wheeler,4,U.S. Senate,,DEM,Under Votes,0,0,0
 Wheeler,4,U.S. Senate,,DEM,Sema Hernandez,0,0,0
-Wheeler,4,U.S. Senate,,DEM,Edward Kimbrough,1,1,0
+Wheeler,4,U.S. Senate,,DEM,Edward Kimbrough,1,0,1
 Wheeler,4,U.S. House,13,DEM,Greg Sagan,2,1,1
 Wheeler,4,U.S. House,13,DEM,Over Votes,0,0,0
 Wheeler,4,U.S. House,13,DEM,Under Votes,0,0,0
@@ -1691,100 +1691,100 @@ Wheeler,4,Governor,,DEM,Under Votes,0,0,0
 Wheeler,4,Governor,,DEM,Grady Yarbrough,0,0,0
 Wheeler,4,Governor,,DEM,Jeffrey Payne,0,0,0
 Wheeler,4,Governor,,DEM,Andrew White,2,1,1
-Wheeler,4,Governor,,DEM,Tom Wakely,1,1,0
+Wheeler,4,Governor,,DEM,Tom Wakely,1,0,1
 Wheeler,4,Governor,,DEM,"Cedric Davis, Sr.",0,0,0
 Wheeler,4,Governor,,DEM,Lupe Valdez,0,0,0
-Wheeler,4,Lieutenant Governor,,DEM,Mike Collier,1,1,0
+Wheeler,4,Lieutenant Governor,,DEM,Mike Collier,1,0,1
 Wheeler,4,Lieutenant Governor,,DEM,Michael Cooper,2,1,1
 Wheeler,4,Lieutenant Governor,,DEM,Over Votes,0,0,0
 Wheeler,4,Lieutenant Governor,,DEM,Under Votes,0,0,0
-Wheeler,4,Attorney General,,DEM,Justin Nelson,3,2,1
+Wheeler,4,Attorney General,,DEM,Justin Nelson,3,1,2
 Wheeler,4,Attorney General,,DEM,Over Votes,0,0,0
 Wheeler,4,Attorney General,,DEM,Under Votes,0,0,0
 Wheeler,4,Comptroller of Public Accounts,,DEM,Joi Chevalier,0,0,0
 Wheeler,4,Comptroller of Public Accounts,,DEM,Over Votes,0,0,0
 Wheeler,4,Comptroller of Public Accounts,,DEM,Under Votes,0,0,0
-Wheeler,4,Comptroller of Public Accounts,,DEM,Tim Mahoney,3,2,1
-Wheeler,4,Commissioner of the General Land Office,,DEM,Tex Morgan,2,2,0
-Wheeler,4,Commissioner of the General Land Office,,DEM,Miguel Suazo,1,0,1
+Wheeler,4,Comptroller of Public Accounts,,DEM,Tim Mahoney,3,1,2
+Wheeler,4,Commissioner of the General Land Office,,DEM,Tex Morgan,2,0,2
+Wheeler,4,Commissioner of the General Land Office,,DEM,Miguel Suazo,1,1,0
 Wheeler,4,Commissioner of the General Land Office,,DEM,Over Votes,0,0,0
 Wheeler,4,Commissioner of the General Land Office,,DEM,Under Votes,0,0,0
-Wheeler,4,Commissioner of Agriculture,,DEM,Kim Olson,3,2,1
+Wheeler,4,Commissioner of Agriculture,,DEM,Kim Olson,3,1,2
 Wheeler,4,Commissioner of Agriculture,,DEM,Over Votes,0,0,0
 Wheeler,4,Commissioner of Agriculture,,DEM,Under Votes,0,0,0
-Wheeler,4,Railroad Commissioner,,DEM,Roman McAllen,1,0,1
-Wheeler,4,Railroad Commissioner,,DEM,Chris Spellmon,1,1,0
+Wheeler,4,Railroad Commissioner,,DEM,Roman McAllen,1,1,0
+Wheeler,4,Railroad Commissioner,,DEM,Chris Spellmon,1,0,1
 Wheeler,4,Railroad Commissioner,,DEM,Over Votes,0,0,0
-Wheeler,4,Railroad Commissioner,,DEM,Under Votes,1,1,0
-Wheeler,4,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,3,2,1
+Wheeler,4,Railroad Commissioner,,DEM,Under Votes,1,0,1
+Wheeler,4,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,3,1,2
 Wheeler,4,"Justice, Supreme Court, Place 2",,DEM,Over Votes,0,0,0
 Wheeler,4,"Justice, Supreme Court, Place 2",,DEM,Under Votes,0,0,0
-Wheeler,4,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,3,2,1
+Wheeler,4,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,3,1,2
 Wheeler,4,"Justice, Supreme Court, Place 4",,DEM,Over Votes,0,0,0
 Wheeler,4,"Justice, Supreme Court, Place 4",,DEM,Under Votes,0,0,0
-Wheeler,4,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,3,2,1
+Wheeler,4,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,3,1,2
 Wheeler,4,"Justice, Supreme Court, Place 6",,DEM,Over Votes,0,0,0
 Wheeler,4,"Justice, Supreme Court, Place 6",,DEM,Under Votes,0,0,0
-Wheeler,4,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,3,2,1
+Wheeler,4,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,3,1,2
 Wheeler,4,"Presiding Judge, Court of Criminal Appeals",,DEM,Over Votes,0,0,0
 Wheeler,4,"Presiding Judge, Court of Criminal Appeals",,DEM,Under Votes,0,0,0
-Wheeler,4,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,3,2,1
+Wheeler,4,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,3,1,2
 Wheeler,4,"Judge, Court of Criminal Appeals, Place 7",,DEM,Over Votes,0,0,0
 Wheeler,4,"Judge, Court of Criminal Appeals, Place 7",,DEM,Under Votes,0,0,0
 Wheeler,4,Proposition #1 Right to a 21st Century Public Education:,,,Yes,2,1,1
 Wheeler,4,Proposition #1 Right to a 21st Century Public Education:,,,Over Votes,0,0,0
 Wheeler,4,Proposition #1 Right to a 21st Century Public Education:,,,Under Votes,0,0,0
-Wheeler,4,Proposition #1 Right to a 21st Century Public Education:,,,No,1,1,0
+Wheeler,4,Proposition #1 Right to a 21st Century Public Education:,,,No,1,0,1
 Wheeler,4,Proposition #2 Student Loan Debt:,,,Yes,2,1,1
 Wheeler,4,Proposition #2 Student Loan Debt:,,,Over Votes,0,0,0
 Wheeler,4,Proposition #2 Student Loan Debt:,,,Under Votes,0,0,0
-Wheeler,4,Proposition #2 Student Loan Debt:,,,No,1,1,0
-Wheeler,4,Proposition #3 Right to Healthcare:,,,Yes,1,0,1
+Wheeler,4,Proposition #2 Student Loan Debt:,,,No,1,0,1
+Wheeler,4,Proposition #3 Right to Healthcare:,,,Yes,1,1,0
 Wheeler,4,Proposition #3 Right to Healthcare:,,,Over Votes,0,0,0
 Wheeler,4,Proposition #3 Right to Healthcare:,,,Under Votes,0,0,0
-Wheeler,4,Proposition #3 Right to Healthcare:,,,No,2,2,0
+Wheeler,4,Proposition #3 Right to Healthcare:,,,No,2,0,2
 Wheeler,4,Proposition #4 Right to Economic Security:,,,Yes,2,1,1
 Wheeler,4,Proposition #4 Right to Economic Security:,,,Over Votes,0,0,0
 Wheeler,4,Proposition #4 Right to Economic Security:,,,Under Votes,0,0,0
-Wheeler,4,Proposition #4 Right to Economic Security:,,,No,1,1,0
-Wheeler,4,Proposition #5 National Jobs Program:,,,Yes,1,0,1
+Wheeler,4,Proposition #4 Right to Economic Security:,,,No,1,0,1
+Wheeler,4,Proposition #5 National Jobs Program:,,,Yes,1,1,0
 Wheeler,4,Proposition #5 National Jobs Program:,,,Over Votes,0,0,0
 Wheeler,4,Proposition #5 National Jobs Program:,,,Under Votes,0,0,0
-Wheeler,4,Proposition #5 National Jobs Program:,,,No,2,2,0
+Wheeler,4,Proposition #5 National Jobs Program:,,,No,2,0,2
 Wheeler,4,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,2,1,1
 Wheeler,4,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Over Votes,0,0,0
 Wheeler,4,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Under Votes,0,0,0
 Wheeler,4,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,0,0,0
-Wheeler,4,Proposition #7 Right to Dignity & Respect:,,,Yes,1,0,1
+Wheeler,4,Proposition #7 Right to Dignity & Respect:,,,Yes,1,1,0
 Wheeler,4,Proposition #7 Right to Dignity & Respect:,,,Over Votes,0,0,0
 Wheeler,4,Proposition #7 Right to Dignity & Respect:,,,Under Votes,0,0,0
-Wheeler,4,Proposition #7 Right to Dignity & Respect:,,,No,2,2,0
+Wheeler,4,Proposition #7 Right to Dignity & Respect:,,,No,2,0,2
 Wheeler,4,Proposition #8 Right to Housing:,,,Yes,2,1,1
 Wheeler,4,Proposition #8 Right to Housing:,,,Over Votes,0,0,0
 Wheeler,4,Proposition #8 Right to Housing:,,,Under Votes,0,0,0
-Wheeler,4,Proposition #8 Right to Housing:,,,No,1,1,0
-Wheeler,4,Proposition #9 Right to Vote:,,,Yes,3,2,1
+Wheeler,4,Proposition #8 Right to Housing:,,,No,1,0,1
+Wheeler,4,Proposition #9 Right to Vote:,,,Yes,3,1,2
 Wheeler,4,Proposition #9 Right to Vote:,,,Over Votes,0,0,0
 Wheeler,4,Proposition #9 Right to Vote:,,,Under Votes,0,0,0
 Wheeler,4,Proposition #9 Right to Vote:,,,No,0,0,0
-Wheeler,4,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,3,2,1
+Wheeler,4,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,3,1,2
 Wheeler,4,Proposition #10 Right to a Fair Criminal Justice System:,,,Over Votes,0,0,0
 Wheeler,4,Proposition #10 Right to a Fair Criminal Justice System:,,,Under Votes,0,0,0
 Wheeler,4,Proposition #10 Right to a Fair Criminal Justice System:,,,No,0,0,0
 Wheeler,4,Proposition #11 Immigrant Rights:,,,Yes,2,1,1
 Wheeler,4,Proposition #11 Immigrant Rights:,,,Over Votes,0,0,0
 Wheeler,4,Proposition #11 Immigrant Rights:,,,Under Votes,0,0,0
-Wheeler,4,Proposition #11 Immigrant Rights:,,,No,1,1,0
-Wheeler,4,Proposition #12 Right to Fair Taxation:,,,Yes,3,2,1
+Wheeler,4,Proposition #11 Immigrant Rights:,,,No,1,0,1
+Wheeler,4,Proposition #12 Right to Fair Taxation:,,,Yes,3,1,2
 Wheeler,4,Proposition #12 Right to Fair Taxation:,,,Over Votes,0,0,0
 Wheeler,4,Proposition #12 Right to Fair Taxation:,,,Under Votes,0,0,0
 Wheeler,4,Proposition #12 Right to Fair Taxation:,,,No,0,0,0
-Wheeler,5,U.S. Senate,,DEM,Beto O'Rourke,2,2,0
+Wheeler,5,U.S. Senate,,DEM,Beto O'Rourke,2,0,2
 Wheeler,5,U.S. Senate,,DEM,Over Votes,0,0,0
 Wheeler,5,U.S. Senate,,DEM,Under Votes,0,0,0
 Wheeler,5,U.S. Senate,,DEM,Sema Hernandez,0,0,0
 Wheeler,5,U.S. Senate,,DEM,Edward Kimbrough,0,0,0
-Wheeler,5,U.S. House,13,DEM,Greg Sagan,2,2,0
+Wheeler,5,U.S. House,13,DEM,Greg Sagan,2,0,2
 Wheeler,5,U.S. House,13,DEM,Over Votes,0,0,0
 Wheeler,5,U.S. House,13,DEM,Under Votes,0,0,0
 Wheeler,5,Governor,,DEM,Joe Mumbach,0,0,0
@@ -1794,101 +1794,101 @@ Wheeler,5,Governor,,DEM,Over Votes,0,0,0
 Wheeler,5,Governor,,DEM,Under Votes,0,0,0
 Wheeler,5,Governor,,DEM,Grady Yarbrough,0,0,0
 Wheeler,5,Governor,,DEM,Jeffrey Payne,0,0,0
-Wheeler,5,Governor,,DEM,Andrew White,2,2,0
+Wheeler,5,Governor,,DEM,Andrew White,2,0,2
 Wheeler,5,Governor,,DEM,Tom Wakely,0,0,0
 Wheeler,5,Governor,,DEM,"Cedric Davis, Sr.",0,0,0
 Wheeler,5,Governor,,DEM,Lupe Valdez,0,0,0
-Wheeler,5,Lieutenant Governor,,DEM,Mike Collier,2,2,0
+Wheeler,5,Lieutenant Governor,,DEM,Mike Collier,2,0,2
 Wheeler,5,Lieutenant Governor,,DEM,Michael Cooper,0,0,0
 Wheeler,5,Lieutenant Governor,,DEM,Over Votes,0,0,0
 Wheeler,5,Lieutenant Governor,,DEM,Under Votes,0,0,0
-Wheeler,5,Attorney General,,DEM,Justin Nelson,2,2,0
+Wheeler,5,Attorney General,,DEM,Justin Nelson,2,0,2
 Wheeler,5,Attorney General,,DEM,Over Votes,0,0,0
 Wheeler,5,Attorney General,,DEM,Under Votes,0,0,0
 Wheeler,5,Comptroller of Public Accounts,,DEM,Joi Chevalier,0,0,0
 Wheeler,5,Comptroller of Public Accounts,,DEM,Over Votes,0,0,0
 Wheeler,5,Comptroller of Public Accounts,,DEM,Under Votes,0,0,0
-Wheeler,5,Comptroller of Public Accounts,,DEM,Tim Mahoney,2,2,0
-Wheeler,5,Commissioner of the General Land Office,,DEM,Tex Morgan,1,1,0
-Wheeler,5,Commissioner of the General Land Office,,DEM,Miguel Suazo,1,1,0
+Wheeler,5,Comptroller of Public Accounts,,DEM,Tim Mahoney,2,0,2
+Wheeler,5,Commissioner of the General Land Office,,DEM,Tex Morgan,1,0,1
+Wheeler,5,Commissioner of the General Land Office,,DEM,Miguel Suazo,1,0,1
 Wheeler,5,Commissioner of the General Land Office,,DEM,Over Votes,0,0,0
 Wheeler,5,Commissioner of the General Land Office,,DEM,Under Votes,0,0,0
-Wheeler,5,Commissioner of Agriculture,,DEM,Kim Olson,2,2,0
+Wheeler,5,Commissioner of Agriculture,,DEM,Kim Olson,2,0,2
 Wheeler,5,Commissioner of Agriculture,,DEM,Over Votes,0,0,0
 Wheeler,5,Commissioner of Agriculture,,DEM,Under Votes,0,0,0
-Wheeler,5,Railroad Commissioner,,DEM,Roman McAllen,2,2,0
+Wheeler,5,Railroad Commissioner,,DEM,Roman McAllen,2,0,2
 Wheeler,5,Railroad Commissioner,,DEM,Chris Spellmon,0,0,0
 Wheeler,5,Railroad Commissioner,,DEM,Over Votes,0,0,0
 Wheeler,5,Railroad Commissioner,,DEM,Under Votes,0,0,0
-Wheeler,5,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,2,2,0
+Wheeler,5,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,2,0,2
 Wheeler,5,"Justice, Supreme Court, Place 2",,DEM,Over Votes,0,0,0
 Wheeler,5,"Justice, Supreme Court, Place 2",,DEM,Under Votes,0,0,0
-Wheeler,5,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,2,2,0
+Wheeler,5,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,2,0,2
 Wheeler,5,"Justice, Supreme Court, Place 4",,DEM,Over Votes,0,0,0
 Wheeler,5,"Justice, Supreme Court, Place 4",,DEM,Under Votes,0,0,0
-Wheeler,5,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,2,2,0
+Wheeler,5,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,2,0,2
 Wheeler,5,"Justice, Supreme Court, Place 6",,DEM,Over Votes,0,0,0
 Wheeler,5,"Justice, Supreme Court, Place 6",,DEM,Under Votes,0,0,0
-Wheeler,5,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,2,2,0
+Wheeler,5,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,2,0,2
 Wheeler,5,"Presiding Judge, Court of Criminal Appeals",,DEM,Over Votes,0,0,0
 Wheeler,5,"Presiding Judge, Court of Criminal Appeals",,DEM,Under Votes,0,0,0
-Wheeler,5,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,2,2,0
+Wheeler,5,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,2,0,2
 Wheeler,5,"Judge, Court of Criminal Appeals, Place 7",,DEM,Over Votes,0,0,0
 Wheeler,5,"Judge, Court of Criminal Appeals, Place 7",,DEM,Under Votes,0,0,0
-Wheeler,5,Proposition #1 Right to a 21st Century Public Education:,,,Yes,2,2,0
+Wheeler,5,Proposition #1 Right to a 21st Century Public Education:,,,Yes,2,0,2
 Wheeler,5,Proposition #1 Right to a 21st Century Public Education:,,,Over Votes,0,0,0
 Wheeler,5,Proposition #1 Right to a 21st Century Public Education:,,,Under Votes,0,0,0
 Wheeler,5,Proposition #1 Right to a 21st Century Public Education:,,,No,0,0,0
-Wheeler,5,Proposition #2 Student Loan Debt:,,,Yes,2,2,0
+Wheeler,5,Proposition #2 Student Loan Debt:,,,Yes,2,0,2
 Wheeler,5,Proposition #2 Student Loan Debt:,,,Over Votes,0,0,0
 Wheeler,5,Proposition #2 Student Loan Debt:,,,Under Votes,0,0,0
 Wheeler,5,Proposition #2 Student Loan Debt:,,,No,0,0,0
-Wheeler,5,Proposition #3 Right to Healthcare:,,,Yes,2,2,0
+Wheeler,5,Proposition #3 Right to Healthcare:,,,Yes,2,0,2
 Wheeler,5,Proposition #3 Right to Healthcare:,,,Over Votes,0,0,0
 Wheeler,5,Proposition #3 Right to Healthcare:,,,Under Votes,0,0,0
 Wheeler,5,Proposition #3 Right to Healthcare:,,,No,0,0,0
-Wheeler,5,Proposition #4 Right to Economic Security:,,,Yes,2,2,0
+Wheeler,5,Proposition #4 Right to Economic Security:,,,Yes,2,0,2
 Wheeler,5,Proposition #4 Right to Economic Security:,,,Over Votes,0,0,0
 Wheeler,5,Proposition #4 Right to Economic Security:,,,Under Votes,0,0,0
 Wheeler,5,Proposition #4 Right to Economic Security:,,,No,0,0,0
-Wheeler,5,Proposition #5 National Jobs Program:,,,Yes,2,2,0
+Wheeler,5,Proposition #5 National Jobs Program:,,,Yes,2,0,2
 Wheeler,5,Proposition #5 National Jobs Program:,,,Over Votes,0,0,0
 Wheeler,5,Proposition #5 National Jobs Program:,,,Under Votes,0,0,0
 Wheeler,5,Proposition #5 National Jobs Program:,,,No,0,0,0
-Wheeler,5,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,2,2,0
+Wheeler,5,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,2,0,2
 Wheeler,5,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Over Votes,0,0,0
 Wheeler,5,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Under Votes,0,0,0
 Wheeler,5,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,0,0,0
-Wheeler,5,Proposition #7 Right to Dignity & Respect:,,,Yes,2,2,0
+Wheeler,5,Proposition #7 Right to Dignity & Respect:,,,Yes,2,0,2
 Wheeler,5,Proposition #7 Right to Dignity & Respect:,,,Over Votes,0,0,0
 Wheeler,5,Proposition #7 Right to Dignity & Respect:,,,Under Votes,0,0,0
 Wheeler,5,Proposition #7 Right to Dignity & Respect:,,,No,0,0,0
-Wheeler,5,Proposition #8 Right to Housing:,,,Yes,2,2,0
+Wheeler,5,Proposition #8 Right to Housing:,,,Yes,2,0,2
 Wheeler,5,Proposition #8 Right to Housing:,,,Over Votes,0,0,0
 Wheeler,5,Proposition #8 Right to Housing:,,,Under Votes,0,0,0
 Wheeler,5,Proposition #8 Right to Housing:,,,No,0,0,0
-Wheeler,5,Proposition #9 Right to Vote:,,,Yes,2,2,0
+Wheeler,5,Proposition #9 Right to Vote:,,,Yes,2,0,2
 Wheeler,5,Proposition #9 Right to Vote:,,,Over Votes,0,0,0
 Wheeler,5,Proposition #9 Right to Vote:,,,Under Votes,0,0,0
 Wheeler,5,Proposition #9 Right to Vote:,,,No,0,0,0
-Wheeler,5,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,2,2,0
+Wheeler,5,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,2,0,2
 Wheeler,5,Proposition #10 Right to a Fair Criminal Justice System:,,,Over Votes,0,0,0
 Wheeler,5,Proposition #10 Right to a Fair Criminal Justice System:,,,Under Votes,0,0,0
 Wheeler,5,Proposition #10 Right to a Fair Criminal Justice System:,,,No,0,0,0
-Wheeler,5,Proposition #11 Immigrant Rights:,,,Yes,2,2,0
+Wheeler,5,Proposition #11 Immigrant Rights:,,,Yes,2,0,2
 Wheeler,5,Proposition #11 Immigrant Rights:,,,Over Votes,0,0,0
 Wheeler,5,Proposition #11 Immigrant Rights:,,,Under Votes,0,0,0
 Wheeler,5,Proposition #11 Immigrant Rights:,,,No,0,0,0
-Wheeler,5,Proposition #12 Right to Fair Taxation:,,,Yes,2,2,0
+Wheeler,5,Proposition #12 Right to Fair Taxation:,,,Yes,2,0,2
 Wheeler,5,Proposition #12 Right to Fair Taxation:,,,Over Votes,0,0,0
 Wheeler,5,Proposition #12 Right to Fair Taxation:,,,Under Votes,0,0,0
 Wheeler,5,Proposition #12 Right to Fair Taxation:,,,No,0,0,0
 Wheeler,6,U.S. Senate,,DEM,Beto O'Rourke,0,0,0
 Wheeler,6,U.S. Senate,,DEM,Over Votes,0,0,0
 Wheeler,6,U.S. Senate,,DEM,Under Votes,0,0,0
-Wheeler,6,U.S. Senate,,DEM,Sema Hernandez,1,0,1
+Wheeler,6,U.S. Senate,,DEM,Sema Hernandez,1,1,0
 Wheeler,6,U.S. Senate,,DEM,Edward Kimbrough,0,0,0
-Wheeler,6,U.S. House,13,DEM,Greg Sagan,1,0,1
+Wheeler,6,U.S. House,13,DEM,Greg Sagan,1,1,0
 Wheeler,6,U.S. House,13,DEM,Over Votes,0,0,0
 Wheeler,6,U.S. House,13,DEM,Under Votes,0,0,0
 Wheeler,6,Governor,,DEM,Joe Mumbach,0,0,0
@@ -1898,101 +1898,101 @@ Wheeler,6,Governor,,DEM,Over Votes,0,0,0
 Wheeler,6,Governor,,DEM,Under Votes,0,0,0
 Wheeler,6,Governor,,DEM,Grady Yarbrough,0,0,0
 Wheeler,6,Governor,,DEM,Jeffrey Payne,0,0,0
-Wheeler,6,Governor,,DEM,Andrew White,1,0,1
+Wheeler,6,Governor,,DEM,Andrew White,1,1,0
 Wheeler,6,Governor,,DEM,Tom Wakely,0,0,0
 Wheeler,6,Governor,,DEM,"Cedric Davis, Sr.",0,0,0
 Wheeler,6,Governor,,DEM,Lupe Valdez,0,0,0
 Wheeler,6,Lieutenant Governor,,DEM,Mike Collier,0,0,0
-Wheeler,6,Lieutenant Governor,,DEM,Michael Cooper,1,0,1
+Wheeler,6,Lieutenant Governor,,DEM,Michael Cooper,1,1,0
 Wheeler,6,Lieutenant Governor,,DEM,Over Votes,0,0,0
 Wheeler,6,Lieutenant Governor,,DEM,Under Votes,0,0,0
-Wheeler,6,Attorney General,,DEM,Justin Nelson,1,0,1
+Wheeler,6,Attorney General,,DEM,Justin Nelson,1,1,0
 Wheeler,6,Attorney General,,DEM,Over Votes,0,0,0
 Wheeler,6,Attorney General,,DEM,Under Votes,0,0,0
 Wheeler,6,Comptroller of Public Accounts,,DEM,Joi Chevalier,0,0,0
 Wheeler,6,Comptroller of Public Accounts,,DEM,Over Votes,0,0,0
 Wheeler,6,Comptroller of Public Accounts,,DEM,Under Votes,0,0,0
-Wheeler,6,Comptroller of Public Accounts,,DEM,Tim Mahoney,1,0,1
-Wheeler,6,Commissioner of the General Land Office,,DEM,Tex Morgan,1,0,1
+Wheeler,6,Comptroller of Public Accounts,,DEM,Tim Mahoney,1,1,0
+Wheeler,6,Commissioner of the General Land Office,,DEM,Tex Morgan,1,1,0
 Wheeler,6,Commissioner of the General Land Office,,DEM,Miguel Suazo,0,0,0
 Wheeler,6,Commissioner of the General Land Office,,DEM,Over Votes,0,0,0
 Wheeler,6,Commissioner of the General Land Office,,DEM,Under Votes,0,0,0
-Wheeler,6,Commissioner of Agriculture,,DEM,Kim Olson,1,0,1
+Wheeler,6,Commissioner of Agriculture,,DEM,Kim Olson,1,1,0
 Wheeler,6,Commissioner of Agriculture,,DEM,Over Votes,0,0,0
 Wheeler,6,Commissioner of Agriculture,,DEM,Under Votes,0,0,0
-Wheeler,6,Railroad Commissioner,,DEM,Roman McAllen,1,0,1
+Wheeler,6,Railroad Commissioner,,DEM,Roman McAllen,1,1,0
 Wheeler,6,Railroad Commissioner,,DEM,Chris Spellmon,0,0,0
 Wheeler,6,Railroad Commissioner,,DEM,Over Votes,0,0,0
 Wheeler,6,Railroad Commissioner,,DEM,Under Votes,0,0,0
-Wheeler,6,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,1,0,1
+Wheeler,6,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,1,1,0
 Wheeler,6,"Justice, Supreme Court, Place 2",,DEM,Over Votes,0,0,0
 Wheeler,6,"Justice, Supreme Court, Place 2",,DEM,Under Votes,0,0,0
 Wheeler,6,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,0,0,0
 Wheeler,6,"Justice, Supreme Court, Place 4",,DEM,Over Votes,0,0,0
-Wheeler,6,"Justice, Supreme Court, Place 4",,DEM,Under Votes,1,0,1
-Wheeler,6,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,1,0,1
+Wheeler,6,"Justice, Supreme Court, Place 4",,DEM,Under Votes,1,1,0
+Wheeler,6,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,1,1,0
 Wheeler,6,"Justice, Supreme Court, Place 6",,DEM,Over Votes,0,0,0
 Wheeler,6,"Justice, Supreme Court, Place 6",,DEM,Under Votes,0,0,0
-Wheeler,6,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,1,0,1
+Wheeler,6,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,1,1,0
 Wheeler,6,"Presiding Judge, Court of Criminal Appeals",,DEM,Over Votes,0,0,0
 Wheeler,6,"Presiding Judge, Court of Criminal Appeals",,DEM,Under Votes,0,0,0
-Wheeler,6,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,1,0,1
+Wheeler,6,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,1,1,0
 Wheeler,6,"Judge, Court of Criminal Appeals, Place 7",,DEM,Over Votes,0,0,0
 Wheeler,6,"Judge, Court of Criminal Appeals, Place 7",,DEM,Under Votes,0,0,0
-Wheeler,6,Proposition #1 Right to a 21st Century Public Education:,,,Yes,1,0,1
+Wheeler,6,Proposition #1 Right to a 21st Century Public Education:,,,Yes,1,1,0
 Wheeler,6,Proposition #1 Right to a 21st Century Public Education:,,,Over Votes,0,0,0
 Wheeler,6,Proposition #1 Right to a 21st Century Public Education:,,,Under Votes,0,0,0
 Wheeler,6,Proposition #1 Right to a 21st Century Public Education:,,,No,0,0,0
-Wheeler,6,Proposition #2 Student Loan Debt:,,,Yes,1,0,1
+Wheeler,6,Proposition #2 Student Loan Debt:,,,Yes,1,1,0
 Wheeler,6,Proposition #2 Student Loan Debt:,,,Over Votes,0,0,0
 Wheeler,6,Proposition #2 Student Loan Debt:,,,Under Votes,0,0,0
 Wheeler,6,Proposition #2 Student Loan Debt:,,,No,0,0,0
-Wheeler,6,Proposition #3 Right to Healthcare:,,,Yes,1,0,1
+Wheeler,6,Proposition #3 Right to Healthcare:,,,Yes,1,1,0
 Wheeler,6,Proposition #3 Right to Healthcare:,,,Over Votes,0,0,0
 Wheeler,6,Proposition #3 Right to Healthcare:,,,Under Votes,0,0,0
 Wheeler,6,Proposition #3 Right to Healthcare:,,,No,0,0,0
-Wheeler,6,Proposition #4 Right to Economic Security:,,,Yes,1,0,1
+Wheeler,6,Proposition #4 Right to Economic Security:,,,Yes,1,1,0
 Wheeler,6,Proposition #4 Right to Economic Security:,,,Over Votes,0,0,0
 Wheeler,6,Proposition #4 Right to Economic Security:,,,Under Votes,0,0,0
 Wheeler,6,Proposition #4 Right to Economic Security:,,,No,0,0,0
-Wheeler,6,Proposition #5 National Jobs Program:,,,Yes,1,0,1
+Wheeler,6,Proposition #5 National Jobs Program:,,,Yes,1,1,0
 Wheeler,6,Proposition #5 National Jobs Program:,,,Over Votes,0,0,0
 Wheeler,6,Proposition #5 National Jobs Program:,,,Under Votes,0,0,0
 Wheeler,6,Proposition #5 National Jobs Program:,,,No,0,0,0
-Wheeler,6,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,1,0,1
+Wheeler,6,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,1,1,0
 Wheeler,6,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Over Votes,0,0,0
 Wheeler,6,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Under Votes,0,0,0
 Wheeler,6,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,0,0,0
-Wheeler,6,Proposition #7 Right to Dignity & Respect:,,,Yes,1,0,1
+Wheeler,6,Proposition #7 Right to Dignity & Respect:,,,Yes,1,1,0
 Wheeler,6,Proposition #7 Right to Dignity & Respect:,,,Over Votes,0,0,0
 Wheeler,6,Proposition #7 Right to Dignity & Respect:,,,Under Votes,0,0,0
 Wheeler,6,Proposition #7 Right to Dignity & Respect:,,,No,0,0,0
-Wheeler,6,Proposition #8 Right to Housing:,,,Yes,1,0,1
+Wheeler,6,Proposition #8 Right to Housing:,,,Yes,1,1,0
 Wheeler,6,Proposition #8 Right to Housing:,,,Over Votes,0,0,0
 Wheeler,6,Proposition #8 Right to Housing:,,,Under Votes,0,0,0
 Wheeler,6,Proposition #8 Right to Housing:,,,No,0,0,0
-Wheeler,6,Proposition #9 Right to Vote:,,,Yes,1,0,1
+Wheeler,6,Proposition #9 Right to Vote:,,,Yes,1,1,0
 Wheeler,6,Proposition #9 Right to Vote:,,,Over Votes,0,0,0
 Wheeler,6,Proposition #9 Right to Vote:,,,Under Votes,0,0,0
 Wheeler,6,Proposition #9 Right to Vote:,,,No,0,0,0
-Wheeler,6,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,1,0,1
+Wheeler,6,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,1,1,0
 Wheeler,6,Proposition #10 Right to a Fair Criminal Justice System:,,,Over Votes,0,0,0
 Wheeler,6,Proposition #10 Right to a Fair Criminal Justice System:,,,Under Votes,0,0,0
 Wheeler,6,Proposition #10 Right to a Fair Criminal Justice System:,,,No,0,0,0
-Wheeler,6,Proposition #11 Immigrant Rights:,,,Yes,1,0,1
+Wheeler,6,Proposition #11 Immigrant Rights:,,,Yes,1,1,0
 Wheeler,6,Proposition #11 Immigrant Rights:,,,Over Votes,0,0,0
 Wheeler,6,Proposition #11 Immigrant Rights:,,,Under Votes,0,0,0
 Wheeler,6,Proposition #11 Immigrant Rights:,,,No,0,0,0
-Wheeler,6,Proposition #12 Right to Fair Taxation:,,,Yes,1,0,1
+Wheeler,6,Proposition #12 Right to Fair Taxation:,,,Yes,1,1,0
 Wheeler,6,Proposition #12 Right to Fair Taxation:,,,Over Votes,0,0,0
 Wheeler,6,Proposition #12 Right to Fair Taxation:,,,Under Votes,0,0,0
 Wheeler,6,Proposition #12 Right to Fair Taxation:,,,No,0,0,0
-Wheeler,7,U.S. Senate,,DEM,Beto O'Rourke,1,0,1
+Wheeler,7,U.S. Senate,,DEM,Beto O'Rourke,1,1,0
 Wheeler,7,U.S. Senate,,DEM,Over Votes,0,0,0
 Wheeler,7,U.S. Senate,,DEM,Under Votes,0,0,0
 Wheeler,7,U.S. Senate,,DEM,Sema Hernandez,0,0,0
 Wheeler,7,U.S. Senate,,DEM,Edward Kimbrough,0,0,0
-Wheeler,7,U.S. House,13,DEM,Greg Sagan,1,0,1
+Wheeler,7,U.S. House,13,DEM,Greg Sagan,1,1,0
 Wheeler,7,U.S. House,13,DEM,Over Votes,0,0,0
 Wheeler,7,U.S. House,13,DEM,Under Votes,0,0,0
 Wheeler,7,Governor,,DEM,Joe Mumbach,0,0,0
@@ -2005,202 +2005,202 @@ Wheeler,7,Governor,,DEM,Jeffrey Payne,0,0,0
 Wheeler,7,Governor,,DEM,Andrew White,0,0,0
 Wheeler,7,Governor,,DEM,Tom Wakely,0,0,0
 Wheeler,7,Governor,,DEM,"Cedric Davis, Sr.",0,0,0
-Wheeler,7,Governor,,DEM,Lupe Valdez,1,0,1
+Wheeler,7,Governor,,DEM,Lupe Valdez,1,1,0
 Wheeler,7,Lieutenant Governor,,DEM,Mike Collier,0,0,0
-Wheeler,7,Lieutenant Governor,,DEM,Michael Cooper,1,0,1
+Wheeler,7,Lieutenant Governor,,DEM,Michael Cooper,1,1,0
 Wheeler,7,Lieutenant Governor,,DEM,Over Votes,0,0,0
 Wheeler,7,Lieutenant Governor,,DEM,Under Votes,0,0,0
-Wheeler,7,Attorney General,,DEM,Justin Nelson,1,0,1
+Wheeler,7,Attorney General,,DEM,Justin Nelson,1,1,0
 Wheeler,7,Attorney General,,DEM,Over Votes,0,0,0
 Wheeler,7,Attorney General,,DEM,Under Votes,0,0,0
 Wheeler,7,Comptroller of Public Accounts,,DEM,Joi Chevalier,0,0,0
 Wheeler,7,Comptroller of Public Accounts,,DEM,Over Votes,0,0,0
 Wheeler,7,Comptroller of Public Accounts,,DEM,Under Votes,0,0,0
-Wheeler,7,Comptroller of Public Accounts,,DEM,Tim Mahoney,1,0,1
-Wheeler,7,Commissioner of the General Land Office,,DEM,Tex Morgan,1,0,1
+Wheeler,7,Comptroller of Public Accounts,,DEM,Tim Mahoney,1,1,0
+Wheeler,7,Commissioner of the General Land Office,,DEM,Tex Morgan,1,1,0
 Wheeler,7,Commissioner of the General Land Office,,DEM,Miguel Suazo,0,0,0
 Wheeler,7,Commissioner of the General Land Office,,DEM,Over Votes,0,0,0
 Wheeler,7,Commissioner of the General Land Office,,DEM,Under Votes,0,0,0
-Wheeler,7,Commissioner of Agriculture,,DEM,Kim Olson,1,0,1
+Wheeler,7,Commissioner of Agriculture,,DEM,Kim Olson,1,1,0
 Wheeler,7,Commissioner of Agriculture,,DEM,Over Votes,0,0,0
 Wheeler,7,Commissioner of Agriculture,,DEM,Under Votes,0,0,0
 Wheeler,7,Railroad Commissioner,,DEM,Roman McAllen,0,0,0
-Wheeler,7,Railroad Commissioner,,DEM,Chris Spellmon,1,0,1
+Wheeler,7,Railroad Commissioner,,DEM,Chris Spellmon,1,1,0
 Wheeler,7,Railroad Commissioner,,DEM,Over Votes,0,0,0
 Wheeler,7,Railroad Commissioner,,DEM,Under Votes,0,0,0
-Wheeler,7,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,1,0,1
+Wheeler,7,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,1,1,0
 Wheeler,7,"Justice, Supreme Court, Place 2",,DEM,Over Votes,0,0,0
 Wheeler,7,"Justice, Supreme Court, Place 2",,DEM,Under Votes,0,0,0
-Wheeler,7,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,1,0,1
+Wheeler,7,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,1,1,0
 Wheeler,7,"Justice, Supreme Court, Place 4",,DEM,Over Votes,0,0,0
 Wheeler,7,"Justice, Supreme Court, Place 4",,DEM,Under Votes,0,0,0
-Wheeler,7,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,1,0,1
+Wheeler,7,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,1,1,0
 Wheeler,7,"Justice, Supreme Court, Place 6",,DEM,Over Votes,0,0,0
 Wheeler,7,"Justice, Supreme Court, Place 6",,DEM,Under Votes,0,0,0
-Wheeler,7,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,1,0,1
+Wheeler,7,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,1,1,0
 Wheeler,7,"Presiding Judge, Court of Criminal Appeals",,DEM,Over Votes,0,0,0
 Wheeler,7,"Presiding Judge, Court of Criminal Appeals",,DEM,Under Votes,0,0,0
-Wheeler,7,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,1,0,1
+Wheeler,7,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,1,1,0
 Wheeler,7,"Judge, Court of Criminal Appeals, Place 7",,DEM,Over Votes,0,0,0
 Wheeler,7,"Judge, Court of Criminal Appeals, Place 7",,DEM,Under Votes,0,0,0
-Wheeler,7,Proposition #1 Right to a 21st Century Public Education:,,,Yes,1,0,1
+Wheeler,7,Proposition #1 Right to a 21st Century Public Education:,,,Yes,1,1,0
 Wheeler,7,Proposition #1 Right to a 21st Century Public Education:,,,Over Votes,0,0,0
 Wheeler,7,Proposition #1 Right to a 21st Century Public Education:,,,Under Votes,0,0,0
 Wheeler,7,Proposition #1 Right to a 21st Century Public Education:,,,No,0,0,0
-Wheeler,7,Proposition #2 Student Loan Debt:,,,Yes,1,0,1
+Wheeler,7,Proposition #2 Student Loan Debt:,,,Yes,1,1,0
 Wheeler,7,Proposition #2 Student Loan Debt:,,,Over Votes,0,0,0
 Wheeler,7,Proposition #2 Student Loan Debt:,,,Under Votes,0,0,0
 Wheeler,7,Proposition #2 Student Loan Debt:,,,No,0,0,0
-Wheeler,7,Proposition #3 Right to Healthcare:,,,Yes,1,0,1
+Wheeler,7,Proposition #3 Right to Healthcare:,,,Yes,1,1,0
 Wheeler,7,Proposition #3 Right to Healthcare:,,,Over Votes,0,0,0
 Wheeler,7,Proposition #3 Right to Healthcare:,,,Under Votes,0,0,0
 Wheeler,7,Proposition #3 Right to Healthcare:,,,No,0,0,0
-Wheeler,7,Proposition #4 Right to Economic Security:,,,Yes,1,0,1
+Wheeler,7,Proposition #4 Right to Economic Security:,,,Yes,1,1,0
 Wheeler,7,Proposition #4 Right to Economic Security:,,,Over Votes,0,0,0
 Wheeler,7,Proposition #4 Right to Economic Security:,,,Under Votes,0,0,0
 Wheeler,7,Proposition #4 Right to Economic Security:,,,No,0,0,0
-Wheeler,7,Proposition #5 National Jobs Program:,,,Yes,1,0,1
+Wheeler,7,Proposition #5 National Jobs Program:,,,Yes,1,1,0
 Wheeler,7,Proposition #5 National Jobs Program:,,,Over Votes,0,0,0
 Wheeler,7,Proposition #5 National Jobs Program:,,,Under Votes,0,0,0
 Wheeler,7,Proposition #5 National Jobs Program:,,,No,0,0,0
-Wheeler,7,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,1,0,1
+Wheeler,7,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,1,1,0
 Wheeler,7,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Over Votes,0,0,0
 Wheeler,7,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Under Votes,0,0,0
 Wheeler,7,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,0,0,0
-Wheeler,7,Proposition #7 Right to Dignity & Respect:,,,Yes,1,0,1
+Wheeler,7,Proposition #7 Right to Dignity & Respect:,,,Yes,1,1,0
 Wheeler,7,Proposition #7 Right to Dignity & Respect:,,,Over Votes,0,0,0
 Wheeler,7,Proposition #7 Right to Dignity & Respect:,,,Under Votes,0,0,0
 Wheeler,7,Proposition #7 Right to Dignity & Respect:,,,No,0,0,0
-Wheeler,7,Proposition #8 Right to Housing:,,,Yes,1,0,1
+Wheeler,7,Proposition #8 Right to Housing:,,,Yes,1,1,0
 Wheeler,7,Proposition #8 Right to Housing:,,,Over Votes,0,0,0
 Wheeler,7,Proposition #8 Right to Housing:,,,Under Votes,0,0,0
 Wheeler,7,Proposition #8 Right to Housing:,,,No,0,0,0
-Wheeler,7,Proposition #9 Right to Vote:,,,Yes,1,0,1
+Wheeler,7,Proposition #9 Right to Vote:,,,Yes,1,1,0
 Wheeler,7,Proposition #9 Right to Vote:,,,Over Votes,0,0,0
 Wheeler,7,Proposition #9 Right to Vote:,,,Under Votes,0,0,0
 Wheeler,7,Proposition #9 Right to Vote:,,,No,0,0,0
-Wheeler,7,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,1,0,1
+Wheeler,7,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,1,1,0
 Wheeler,7,Proposition #10 Right to a Fair Criminal Justice System:,,,Over Votes,0,0,0
 Wheeler,7,Proposition #10 Right to a Fair Criminal Justice System:,,,Under Votes,0,0,0
 Wheeler,7,Proposition #10 Right to a Fair Criminal Justice System:,,,No,0,0,0
-Wheeler,7,Proposition #11 Immigrant Rights:,,,Yes,1,0,1
+Wheeler,7,Proposition #11 Immigrant Rights:,,,Yes,1,1,0
 Wheeler,7,Proposition #11 Immigrant Rights:,,,Over Votes,0,0,0
 Wheeler,7,Proposition #11 Immigrant Rights:,,,Under Votes,0,0,0
 Wheeler,7,Proposition #11 Immigrant Rights:,,,No,0,0,0
-Wheeler,7,Proposition #12 Right to Fair Taxation:,,,Yes,1,0,1
+Wheeler,7,Proposition #12 Right to Fair Taxation:,,,Yes,1,1,0
 Wheeler,7,Proposition #12 Right to Fair Taxation:,,,Over Votes,0,0,0
 Wheeler,7,Proposition #12 Right to Fair Taxation:,,,Under Votes,0,0,0
 Wheeler,7,Proposition #12 Right to Fair Taxation:,,,No,0,0,0
-Wheeler,8,U.S. Senate,,DEM,Beto O'Rourke,4,1,3
+Wheeler,8,U.S. Senate,,DEM,Beto O'Rourke,4,3,1
 Wheeler,8,U.S. Senate,,DEM,Over Votes,0,0,0
 Wheeler,8,U.S. Senate,,DEM,Under Votes,0,0,0
-Wheeler,8,U.S. Senate,,DEM,Sema Hernandez,2,0,2
+Wheeler,8,U.S. Senate,,DEM,Sema Hernandez,2,2,0
 Wheeler,8,U.S. Senate,,DEM,Edward Kimbrough,2,1,1
-Wheeler,8,U.S. House,13,DEM,Greg Sagan,7,2,5
+Wheeler,8,U.S. House,13,DEM,Greg Sagan,7,5,2
 Wheeler,8,U.S. House,13,DEM,Over Votes,0,0,0
-Wheeler,8,U.S. House,13,DEM,Under Votes,1,0,1
+Wheeler,8,U.S. House,13,DEM,Under Votes,1,1,0
 Wheeler,8,Governor,,DEM,Joe Mumbach,0,0,0
 Wheeler,8,Governor,,DEM,James Jolly Clark,0,0,0
 Wheeler,8,Governor,,DEM,Adrian Ocegueda,0,0,0
 Wheeler,8,Governor,,DEM,Over Votes,0,0,0
 Wheeler,8,Governor,,DEM,Under Votes,0,0,0
 Wheeler,8,Governor,,DEM,Grady Yarbrough,0,0,0
-Wheeler,8,Governor,,DEM,Jeffrey Payne,1,0,1
-Wheeler,8,Governor,,DEM,Andrew White,5,2,3
+Wheeler,8,Governor,,DEM,Jeffrey Payne,1,1,0
+Wheeler,8,Governor,,DEM,Andrew White,5,3,2
 Wheeler,8,Governor,,DEM,Tom Wakely,0,0,0
 Wheeler,8,Governor,,DEM,"Cedric Davis, Sr.",0,0,0
-Wheeler,8,Governor,,DEM,Lupe Valdez,2,0,2
+Wheeler,8,Governor,,DEM,Lupe Valdez,2,2,0
 Wheeler,8,Lieutenant Governor,,DEM,Mike Collier,2,1,1
-Wheeler,8,Lieutenant Governor,,DEM,Michael Cooper,5,1,4
+Wheeler,8,Lieutenant Governor,,DEM,Michael Cooper,5,4,1
 Wheeler,8,Lieutenant Governor,,DEM,Over Votes,0,0,0
-Wheeler,8,Lieutenant Governor,,DEM,Under Votes,1,0,1
-Wheeler,8,Attorney General,,DEM,Justin Nelson,7,2,5
+Wheeler,8,Lieutenant Governor,,DEM,Under Votes,1,1,0
+Wheeler,8,Attorney General,,DEM,Justin Nelson,7,5,2
 Wheeler,8,Attorney General,,DEM,Over Votes,0,0,0
-Wheeler,8,Attorney General,,DEM,Under Votes,1,0,1
-Wheeler,8,Comptroller of Public Accounts,,DEM,Joi Chevalier,1,0,1
+Wheeler,8,Attorney General,,DEM,Under Votes,1,1,0
+Wheeler,8,Comptroller of Public Accounts,,DEM,Joi Chevalier,1,1,0
 Wheeler,8,Comptroller of Public Accounts,,DEM,Over Votes,0,0,0
-Wheeler,8,Comptroller of Public Accounts,,DEM,Under Votes,1,0,1
-Wheeler,8,Comptroller of Public Accounts,,DEM,Tim Mahoney,6,2,4
-Wheeler,8,Commissioner of the General Land Office,,DEM,Tex Morgan,6,2,4
-Wheeler,8,Commissioner of the General Land Office,,DEM,Miguel Suazo,2,0,2
+Wheeler,8,Comptroller of Public Accounts,,DEM,Under Votes,1,1,0
+Wheeler,8,Comptroller of Public Accounts,,DEM,Tim Mahoney,6,4,2
+Wheeler,8,Commissioner of the General Land Office,,DEM,Tex Morgan,6,4,2
+Wheeler,8,Commissioner of the General Land Office,,DEM,Miguel Suazo,2,2,0
 Wheeler,8,Commissioner of the General Land Office,,DEM,Over Votes,0,0,0
 Wheeler,8,Commissioner of the General Land Office,,DEM,Under Votes,0,0,0
-Wheeler,8,Commissioner of Agriculture,,DEM,Kim Olson,8,2,6
+Wheeler,8,Commissioner of Agriculture,,DEM,Kim Olson,8,6,2
 Wheeler,8,Commissioner of Agriculture,,DEM,Over Votes,0,0,0
 Wheeler,8,Commissioner of Agriculture,,DEM,Under Votes,0,0,0
 Wheeler,8,Railroad Commissioner,,DEM,Roman McAllen,0,0,0
-Wheeler,8,Railroad Commissioner,,DEM,Chris Spellmon,7,2,5
+Wheeler,8,Railroad Commissioner,,DEM,Chris Spellmon,7,5,2
 Wheeler,8,Railroad Commissioner,,DEM,Over Votes,0,0,0
-Wheeler,8,Railroad Commissioner,,DEM,Under Votes,1,0,1
-Wheeler,8,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,7,2,5
+Wheeler,8,Railroad Commissioner,,DEM,Under Votes,1,1,0
+Wheeler,8,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,7,5,2
 Wheeler,8,"Justice, Supreme Court, Place 2",,DEM,Over Votes,0,0,0
-Wheeler,8,"Justice, Supreme Court, Place 2",,DEM,Under Votes,1,0,1
-Wheeler,8,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,7,2,5
+Wheeler,8,"Justice, Supreme Court, Place 2",,DEM,Under Votes,1,1,0
+Wheeler,8,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,7,5,2
 Wheeler,8,"Justice, Supreme Court, Place 4",,DEM,Over Votes,0,0,0
-Wheeler,8,"Justice, Supreme Court, Place 4",,DEM,Under Votes,1,0,1
-Wheeler,8,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,8,2,6
+Wheeler,8,"Justice, Supreme Court, Place 4",,DEM,Under Votes,1,1,0
+Wheeler,8,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,8,6,2
 Wheeler,8,"Justice, Supreme Court, Place 6",,DEM,Over Votes,0,0,0
 Wheeler,8,"Justice, Supreme Court, Place 6",,DEM,Under Votes,0,0,0
-Wheeler,8,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,8,2,6
+Wheeler,8,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,8,6,2
 Wheeler,8,"Presiding Judge, Court of Criminal Appeals",,DEM,Over Votes,0,0,0
 Wheeler,8,"Presiding Judge, Court of Criminal Appeals",,DEM,Under Votes,0,0,0
-Wheeler,8,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,8,2,6
+Wheeler,8,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,8,6,2
 Wheeler,8,"Judge, Court of Criminal Appeals, Place 7",,DEM,Over Votes,0,0,0
 Wheeler,8,"Judge, Court of Criminal Appeals, Place 7",,DEM,Under Votes,0,0,0
-Wheeler,8,Proposition #1 Right to a 21st Century Public Education:,,,Yes,7,1,6
+Wheeler,8,Proposition #1 Right to a 21st Century Public Education:,,,Yes,7,6,1
 Wheeler,8,Proposition #1 Right to a 21st Century Public Education:,,,Over Votes,0,0,0
 Wheeler,8,Proposition #1 Right to a 21st Century Public Education:,,,Under Votes,0,0,0
-Wheeler,8,Proposition #1 Right to a 21st Century Public Education:,,,No,1,1,0
-Wheeler,8,Proposition #2 Student Loan Debt:,,,Yes,6,0,6
+Wheeler,8,Proposition #1 Right to a 21st Century Public Education:,,,No,1,0,1
+Wheeler,8,Proposition #2 Student Loan Debt:,,,Yes,6,6,0
 Wheeler,8,Proposition #2 Student Loan Debt:,,,Over Votes,0,0,0
 Wheeler,8,Proposition #2 Student Loan Debt:,,,Under Votes,0,0,0
-Wheeler,8,Proposition #2 Student Loan Debt:,,,No,2,2,0
-Wheeler,8,Proposition #3 Right to Healthcare:,,,Yes,5,0,5
+Wheeler,8,Proposition #2 Student Loan Debt:,,,No,2,0,2
+Wheeler,8,Proposition #3 Right to Healthcare:,,,Yes,5,5,0
 Wheeler,8,Proposition #3 Right to Healthcare:,,,Over Votes,0,0,0
 Wheeler,8,Proposition #3 Right to Healthcare:,,,Under Votes,0,0,0
-Wheeler,8,Proposition #3 Right to Healthcare:,,,No,3,2,1
-Wheeler,8,Proposition #4 Right to Economic Security:,,,Yes,7,2,5
+Wheeler,8,Proposition #3 Right to Healthcare:,,,No,3,1,2
+Wheeler,8,Proposition #4 Right to Economic Security:,,,Yes,7,5,2
 Wheeler,8,Proposition #4 Right to Economic Security:,,,Over Votes,0,0,0
 Wheeler,8,Proposition #4 Right to Economic Security:,,,Under Votes,0,0,0
-Wheeler,8,Proposition #4 Right to Economic Security:,,,No,1,0,1
-Wheeler,8,Proposition #5 National Jobs Program:,,,Yes,7,1,6
+Wheeler,8,Proposition #4 Right to Economic Security:,,,No,1,1,0
+Wheeler,8,Proposition #5 National Jobs Program:,,,Yes,7,6,1
 Wheeler,8,Proposition #5 National Jobs Program:,,,Over Votes,0,0,0
 Wheeler,8,Proposition #5 National Jobs Program:,,,Under Votes,0,0,0
-Wheeler,8,Proposition #5 National Jobs Program:,,,No,1,1,0
-Wheeler,8,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,8,2,6
+Wheeler,8,Proposition #5 National Jobs Program:,,,No,1,0,1
+Wheeler,8,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,8,6,2
 Wheeler,8,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Over Votes,0,0,0
 Wheeler,8,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Under Votes,0,0,0
 Wheeler,8,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,0,0,0
-Wheeler,8,Proposition #7 Right to Dignity & Respect:,,,Yes,7,2,5
+Wheeler,8,Proposition #7 Right to Dignity & Respect:,,,Yes,7,5,2
 Wheeler,8,Proposition #7 Right to Dignity & Respect:,,,Over Votes,0,0,0
 Wheeler,8,Proposition #7 Right to Dignity & Respect:,,,Under Votes,0,0,0
-Wheeler,8,Proposition #7 Right to Dignity & Respect:,,,No,1,0,1
-Wheeler,8,Proposition #8 Right to Housing:,,,Yes,7,1,6
+Wheeler,8,Proposition #7 Right to Dignity & Respect:,,,No,1,1,0
+Wheeler,8,Proposition #8 Right to Housing:,,,Yes,7,6,1
 Wheeler,8,Proposition #8 Right to Housing:,,,Over Votes,0,0,0
 Wheeler,8,Proposition #8 Right to Housing:,,,Under Votes,0,0,0
-Wheeler,8,Proposition #8 Right to Housing:,,,No,1,1,0
-Wheeler,8,Proposition #9 Right to Vote:,,,Yes,7,2,5
+Wheeler,8,Proposition #8 Right to Housing:,,,No,1,0,1
+Wheeler,8,Proposition #9 Right to Vote:,,,Yes,7,5,2
 Wheeler,8,Proposition #9 Right to Vote:,,,Over Votes,0,0,0
 Wheeler,8,Proposition #9 Right to Vote:,,,Under Votes,0,0,0
-Wheeler,8,Proposition #9 Right to Vote:,,,No,1,0,1
-Wheeler,8,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,7,1,6
+Wheeler,8,Proposition #9 Right to Vote:,,,No,1,1,0
+Wheeler,8,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,7,6,1
 Wheeler,8,Proposition #10 Right to a Fair Criminal Justice System:,,,Over Votes,0,0,0
 Wheeler,8,Proposition #10 Right to a Fair Criminal Justice System:,,,Under Votes,0,0,0
-Wheeler,8,Proposition #10 Right to a Fair Criminal Justice System:,,,No,1,1,0
-Wheeler,8,Proposition #11 Immigrant Rights:,,,Yes,5,0,5
+Wheeler,8,Proposition #10 Right to a Fair Criminal Justice System:,,,No,1,0,1
+Wheeler,8,Proposition #11 Immigrant Rights:,,,Yes,5,5,0
 Wheeler,8,Proposition #11 Immigrant Rights:,,,Over Votes,0,0,0
 Wheeler,8,Proposition #11 Immigrant Rights:,,,Under Votes,0,0,0
-Wheeler,8,Proposition #11 Immigrant Rights:,,,No,3,2,1
-Wheeler,8,Proposition #12 Right to Fair Taxation:,,,Yes,8,2,6
+Wheeler,8,Proposition #11 Immigrant Rights:,,,No,3,1,2
+Wheeler,8,Proposition #12 Right to Fair Taxation:,,,Yes,8,6,2
 Wheeler,8,Proposition #12 Right to Fair Taxation:,,,Over Votes,0,0,0
 Wheeler,8,Proposition #12 Right to Fair Taxation:,,,Under Votes,0,0,0
 Wheeler,8,Proposition #12 Right to Fair Taxation:,,,No,0,0,0
-Wheeler,9,U.S. Senate,,DEM,Beto O'Rourke,5,2,3
+Wheeler,9,U.S. Senate,,DEM,Beto O'Rourke,5,3,2
 Wheeler,9,U.S. Senate,,DEM,Over Votes,0,0,0
 Wheeler,9,U.S. Senate,,DEM,Under Votes,0,0,0
 Wheeler,9,U.S. Senate,,DEM,Sema Hernandez,0,0,0
-Wheeler,9,U.S. Senate,,DEM,Edward Kimbrough,2,2,0
-Wheeler,9,U.S. House,13,DEM,Greg Sagan,7,4,3
+Wheeler,9,U.S. Senate,,DEM,Edward Kimbrough,2,0,2
+Wheeler,9,U.S. House,13,DEM,Greg Sagan,7,3,4
 Wheeler,9,U.S. House,13,DEM,Over Votes,0,0,0
 Wheeler,9,U.S. House,13,DEM,Under Votes,0,0,0
 Wheeler,9,Governor,,DEM,Joe Mumbach,0,0,0
@@ -2208,94 +2208,94 @@ Wheeler,9,Governor,,DEM,James Jolly Clark,0,0,0
 Wheeler,9,Governor,,DEM,Adrian Ocegueda,0,0,0
 Wheeler,9,Governor,,DEM,Over Votes,0,0,0
 Wheeler,9,Governor,,DEM,Under Votes,0,0,0
-Wheeler,9,Governor,,DEM,Grady Yarbrough,1,1,0
+Wheeler,9,Governor,,DEM,Grady Yarbrough,1,0,1
 Wheeler,9,Governor,,DEM,Jeffrey Payne,0,0,0
 Wheeler,9,Governor,,DEM,Andrew White,4,2,2
-Wheeler,9,Governor,,DEM,Tom Wakely,1,1,0
+Wheeler,9,Governor,,DEM,Tom Wakely,1,0,1
 Wheeler,9,Governor,,DEM,"Cedric Davis, Sr.",0,0,0
-Wheeler,9,Governor,,DEM,Lupe Valdez,1,0,1
-Wheeler,9,Lieutenant Governor,,DEM,Mike Collier,4,1,3
-Wheeler,9,Lieutenant Governor,,DEM,Michael Cooper,3,3,0
+Wheeler,9,Governor,,DEM,Lupe Valdez,1,1,0
+Wheeler,9,Lieutenant Governor,,DEM,Mike Collier,4,3,1
+Wheeler,9,Lieutenant Governor,,DEM,Michael Cooper,3,0,3
 Wheeler,9,Lieutenant Governor,,DEM,Over Votes,0,0,0
 Wheeler,9,Lieutenant Governor,,DEM,Under Votes,0,0,0
-Wheeler,9,Attorney General,,DEM,Justin Nelson,7,4,3
+Wheeler,9,Attorney General,,DEM,Justin Nelson,7,3,4
 Wheeler,9,Attorney General,,DEM,Over Votes,0,0,0
 Wheeler,9,Attorney General,,DEM,Under Votes,0,0,0
-Wheeler,9,Comptroller of Public Accounts,,DEM,Joi Chevalier,1,0,1
+Wheeler,9,Comptroller of Public Accounts,,DEM,Joi Chevalier,1,1,0
 Wheeler,9,Comptroller of Public Accounts,,DEM,Over Votes,0,0,0
 Wheeler,9,Comptroller of Public Accounts,,DEM,Under Votes,0,0,0
-Wheeler,9,Comptroller of Public Accounts,,DEM,Tim Mahoney,6,4,2
-Wheeler,9,Commissioner of the General Land Office,,DEM,Tex Morgan,6,4,2
-Wheeler,9,Commissioner of the General Land Office,,DEM,Miguel Suazo,1,0,1
+Wheeler,9,Comptroller of Public Accounts,,DEM,Tim Mahoney,6,2,4
+Wheeler,9,Commissioner of the General Land Office,,DEM,Tex Morgan,6,2,4
+Wheeler,9,Commissioner of the General Land Office,,DEM,Miguel Suazo,1,1,0
 Wheeler,9,Commissioner of the General Land Office,,DEM,Over Votes,0,0,0
 Wheeler,9,Commissioner of the General Land Office,,DEM,Under Votes,0,0,0
-Wheeler,9,Commissioner of Agriculture,,DEM,Kim Olson,7,4,3
+Wheeler,9,Commissioner of Agriculture,,DEM,Kim Olson,7,3,4
 Wheeler,9,Commissioner of Agriculture,,DEM,Over Votes,0,0,0
 Wheeler,9,Commissioner of Agriculture,,DEM,Under Votes,0,0,0
-Wheeler,9,Railroad Commissioner,,DEM,Roman McAllen,4,3,1
-Wheeler,9,Railroad Commissioner,,DEM,Chris Spellmon,3,1,2
+Wheeler,9,Railroad Commissioner,,DEM,Roman McAllen,4,1,3
+Wheeler,9,Railroad Commissioner,,DEM,Chris Spellmon,3,2,1
 Wheeler,9,Railroad Commissioner,,DEM,Over Votes,0,0,0
 Wheeler,9,Railroad Commissioner,,DEM,Under Votes,0,0,0
-Wheeler,9,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,7,4,3
+Wheeler,9,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,7,3,4
 Wheeler,9,"Justice, Supreme Court, Place 2",,DEM,Over Votes,0,0,0
 Wheeler,9,"Justice, Supreme Court, Place 2",,DEM,Under Votes,0,0,0
-Wheeler,9,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,7,4,3
+Wheeler,9,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,7,3,4
 Wheeler,9,"Justice, Supreme Court, Place 4",,DEM,Over Votes,0,0,0
 Wheeler,9,"Justice, Supreme Court, Place 4",,DEM,Under Votes,0,0,0
 Wheeler,9,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,6,3,3
 Wheeler,9,"Justice, Supreme Court, Place 6",,DEM,Over Votes,0,0,0
 Wheeler,9,"Justice, Supreme Court, Place 6",,DEM,Under Votes,0,0,0
-Wheeler,9,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,7,4,3
+Wheeler,9,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,7,3,4
 Wheeler,9,"Presiding Judge, Court of Criminal Appeals",,DEM,Over Votes,0,0,0
 Wheeler,9,"Presiding Judge, Court of Criminal Appeals",,DEM,Under Votes,0,0,0
-Wheeler,9,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,7,4,3
+Wheeler,9,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,7,3,4
 Wheeler,9,"Judge, Court of Criminal Appeals, Place 7",,DEM,Over Votes,0,0,0
 Wheeler,9,"Judge, Court of Criminal Appeals, Place 7",,DEM,Under Votes,0,0,0
 Wheeler,9,Proposition #1 Right to a 21st Century Public Education:,,,Yes,6,3,3
 Wheeler,9,Proposition #1 Right to a 21st Century Public Education:,,,Over Votes,0,0,0
 Wheeler,9,Proposition #1 Right to a 21st Century Public Education:,,,Under Votes,0,0,0
 Wheeler,9,Proposition #1 Right to a 21st Century Public Education:,,,No,0,0,0
-Wheeler,9,Proposition #2 Student Loan Debt:,,,Yes,7,4,3
+Wheeler,9,Proposition #2 Student Loan Debt:,,,Yes,7,3,4
 Wheeler,9,Proposition #2 Student Loan Debt:,,,Over Votes,0,0,0
 Wheeler,9,Proposition #2 Student Loan Debt:,,,Under Votes,0,0,0
 Wheeler,9,Proposition #2 Student Loan Debt:,,,No,0,0,0
 Wheeler,9,Proposition #3 Right to Healthcare:,,,Yes,6,3,3
 Wheeler,9,Proposition #3 Right to Healthcare:,,,Over Votes,0,0,0
 Wheeler,9,Proposition #3 Right to Healthcare:,,,Under Votes,0,0,0
-Wheeler,9,Proposition #3 Right to Healthcare:,,,No,1,1,0
-Wheeler,9,Proposition #4 Right to Economic Security:,,,Yes,7,4,3
+Wheeler,9,Proposition #3 Right to Healthcare:,,,No,1,0,1
+Wheeler,9,Proposition #4 Right to Economic Security:,,,Yes,7,3,4
 Wheeler,9,Proposition #4 Right to Economic Security:,,,Over Votes,0,0,0
 Wheeler,9,Proposition #4 Right to Economic Security:,,,Under Votes,0,0,0
 Wheeler,9,Proposition #4 Right to Economic Security:,,,No,0,0,0
 Wheeler,9,Proposition #5 National Jobs Program:,,,Yes,6,3,3
 Wheeler,9,Proposition #5 National Jobs Program:,,,Over Votes,0,0,0
 Wheeler,9,Proposition #5 National Jobs Program:,,,Under Votes,0,0,0
-Wheeler,9,Proposition #5 National Jobs Program:,,,No,1,1,0
-Wheeler,9,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,7,4,3
+Wheeler,9,Proposition #5 National Jobs Program:,,,No,1,0,1
+Wheeler,9,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,7,3,4
 Wheeler,9,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Over Votes,0,0,0
 Wheeler,9,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Under Votes,0,0,0
 Wheeler,9,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,0,0,0
-Wheeler,9,Proposition #7 Right to Dignity & Respect:,,,Yes,7,4,3
+Wheeler,9,Proposition #7 Right to Dignity & Respect:,,,Yes,7,3,4
 Wheeler,9,Proposition #7 Right to Dignity & Respect:,,,Over Votes,0,0,0
 Wheeler,9,Proposition #7 Right to Dignity & Respect:,,,Under Votes,0,0,0
 Wheeler,9,Proposition #7 Right to Dignity & Respect:,,,No,0,0,0
-Wheeler,9,Proposition #8 Right to Housing:,,,Yes,5,2,3
+Wheeler,9,Proposition #8 Right to Housing:,,,Yes,5,3,2
 Wheeler,9,Proposition #8 Right to Housing:,,,Over Votes,0,0,0
 Wheeler,9,Proposition #8 Right to Housing:,,,Under Votes,0,0,0
-Wheeler,9,Proposition #8 Right to Housing:,,,No,2,2,0
-Wheeler,9,Proposition #9 Right to Vote:,,,Yes,7,4,3
+Wheeler,9,Proposition #8 Right to Housing:,,,No,2,0,2
+Wheeler,9,Proposition #9 Right to Vote:,,,Yes,7,3,4
 Wheeler,9,Proposition #9 Right to Vote:,,,Over Votes,0,0,0
 Wheeler,9,Proposition #9 Right to Vote:,,,Under Votes,0,0,0
 Wheeler,9,Proposition #9 Right to Vote:,,,No,0,0,0
-Wheeler,9,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,7,4,3
+Wheeler,9,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,7,3,4
 Wheeler,9,Proposition #10 Right to a Fair Criminal Justice System:,,,Over Votes,0,0,0
 Wheeler,9,Proposition #10 Right to a Fair Criminal Justice System:,,,Under Votes,0,0,0
 Wheeler,9,Proposition #10 Right to a Fair Criminal Justice System:,,,No,0,0,0
-Wheeler,9,Proposition #11 Immigrant Rights:,,,Yes,7,4,3
+Wheeler,9,Proposition #11 Immigrant Rights:,,,Yes,7,3,4
 Wheeler,9,Proposition #11 Immigrant Rights:,,,Over Votes,0,0,0
 Wheeler,9,Proposition #11 Immigrant Rights:,,,Under Votes,0,0,0
 Wheeler,9,Proposition #11 Immigrant Rights:,,,No,0,0,0
-Wheeler,9,Proposition #12 Right to Fair Taxation:,,,Yes,7,4,3
+Wheeler,9,Proposition #12 Right to Fair Taxation:,,,Yes,7,3,4
 Wheeler,9,Proposition #12 Right to Fair Taxation:,,,Over Votes,0,0,0
 Wheeler,9,Proposition #12 Right to Fair Taxation:,,,Under Votes,0,0,0
 Wheeler,9,Proposition #12 Right to Fair Taxation:,,,No,0,0,0

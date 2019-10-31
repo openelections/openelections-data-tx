@@ -1,545 +1,545 @@
-county,precinct,office,district,party,candidate,early_voting,election_day,votes
-Hood,PCT 1,Ballots Cast,,,,517,148,665
-Hood,PCT 2,Ballots Cast,,,,1247,455,1702
-Hood,PCT 3,Ballots Cast,,,,1082,402,1484
-Hood,PCT 4,Ballots Cast,,,,837,340,1177
-Hood,PCT 5/6,Ballots Cast,,,,695,561,1256
-Hood,PCT 7,Ballots Cast,,,,149,312,461
-Hood,PCT 8 ,Ballots Cast,,,,1176,389,1565
-Hood,PCT 9,Ballots Cast,,,,1737,645,2382
-Hood,PCT 10 ,Ballots Cast,,,,1873,897,2770
-Hood,PCT 11,Ballots Cast,,,,575,262,837
-Hood,PCT 12,Ballots Cast,,,,589,207,796
-Hood,PCT 13,Ballots Cast,,,,1516,445,1961
-Hood,PCT 14,Ballots Cast,,,,1191,609,1800
-Hood,PCT 15,Ballots Cast,,,,116,90,206
-Hood,PCT 16,Ballots Cast,,,,2556,1059,3615
+county,precinct,office,district,party,candidate,votes,election_day,early_voting
+Hood,PCT 1,Ballots Cast,,,,665,148,517
+Hood,PCT 2,Ballots Cast,,,,1702,455,1247
+Hood,PCT 3,Ballots Cast,,,,1484,402,1082
+Hood,PCT 4,Ballots Cast,,,,1177,340,837
+Hood,PCT 5/6,Ballots Cast,,,,1256,561,695
+Hood,PCT 7,Ballots Cast,,,,461,312,149
+Hood,PCT 8 ,Ballots Cast,,,,1565,389,1176
+Hood,PCT 9,Ballots Cast,,,,2382,645,1737
+Hood,PCT 10 ,Ballots Cast,,,,2770,897,1873
+Hood,PCT 11,Ballots Cast,,,,837,262,575
+Hood,PCT 12,Ballots Cast,,,,796,207,589
+Hood,PCT 13,Ballots Cast,,,,1961,445,1516
+Hood,PCT 14,Ballots Cast,,,,1800,609,1191
+Hood,PCT 15,Ballots Cast,,,,206,90,116
+Hood,PCT 16,Ballots Cast,,,,3615,1059,2556
 Hood,ABSENTEE,Ballots Cast,,,,2397,,2397
 Hood,PROV,Ballots Cast,,,,17,,17
-Hood,PCT 1,Straight Party,,REP,Republican,286,73,359
-Hood,PCT 2,Straight Party,,REP,Republican,669,231,900
-Hood,PCT 3,Straight Party,,REP,Republican,635,229,864
-Hood,PCT 4,Straight Party,,REP,Republican,474,162,636
-Hood,PCT 5/6,Straight Party,,REP,Republican,411,312,723
-Hood,PCT 7,Straight Party,,REP,Republican,99,174,273
-Hood,PCT 8 ,Straight Party,,REP,Republican,634,202,836
-Hood,PCT 9,Straight Party,,REP,Republican,954,365,1319
-Hood,PCT 10 ,Straight Party,,REP,Republican,1113,495,1608
-Hood,PCT 11,Straight Party,,REP,Republican,328,151,479
-Hood,PCT 12,Straight Party,,REP,Republican,338,114,452
-Hood,PCT 13,Straight Party,,REP,Republican,868,238,1106
-Hood,PCT 14,Straight Party,,REP,Republican,680,312,992
-Hood,PCT 15,Straight Party,,REP,Republican,68,53,121
-Hood,PCT 16,Straight Party,,REP,Republican,1484,615,2099
+Hood,PCT 1,Straight Party,,REP,Republican,359,73,286
+Hood,PCT 2,Straight Party,,REP,Republican,900,231,669
+Hood,PCT 3,Straight Party,,REP,Republican,864,229,635
+Hood,PCT 4,Straight Party,,REP,Republican,636,162,474
+Hood,PCT 5/6,Straight Party,,REP,Republican,723,312,411
+Hood,PCT 7,Straight Party,,REP,Republican,273,174,99
+Hood,PCT 8 ,Straight Party,,REP,Republican,836,202,634
+Hood,PCT 9,Straight Party,,REP,Republican,1319,365,954
+Hood,PCT 10 ,Straight Party,,REP,Republican,1608,495,1113
+Hood,PCT 11,Straight Party,,REP,Republican,479,151,328
+Hood,PCT 12,Straight Party,,REP,Republican,452,114,338
+Hood,PCT 13,Straight Party,,REP,Republican,1106,238,868
+Hood,PCT 14,Straight Party,,REP,Republican,992,312,680
+Hood,PCT 15,Straight Party,,REP,Republican,121,53,68
+Hood,PCT 16,Straight Party,,REP,Republican,2099,615,1484
 Hood,ABSENTEE,Straight Party,,REP,Republican,1272,,1272
 Hood,PROV,Straight Party,,REP,Republican,10,,10
-Hood,PCT 1,Straight Party,,DEM,Democratic,56,13,69
-Hood,PCT 2,Straight Party,,DEM,Democratic,117,55,172
-Hood,PCT 3,Straight Party,,DEM,Democratic,105,33,138
-Hood,PCT 4,Straight Party,,DEM,Democratic,80,42,122
-Hood,PCT 5/6,Straight Party,,DEM,Democratic,64,47,111
-Hood,PCT 7,Straight Party,,DEM,Democratic,5,19,24
-Hood,PCT 8 ,Straight Party,,DEM,Democratic,84,28,112
-Hood,PCT 9,Straight Party,,DEM,Democratic,140,42,182
-Hood,PCT 10 ,Straight Party,,DEM,Democratic,139,57,196
-Hood,PCT 11,Straight Party,,DEM,Democratic,66,25,91
-Hood,PCT 12,Straight Party,,DEM,Democratic,64,24,88
-Hood,PCT 13,Straight Party,,DEM,Democratic,99,45,144
-Hood,PCT 14,Straight Party,,DEM,Democratic,94,68,162
-Hood,PCT 15,Straight Party,,DEM,Democratic,13,10,23
-Hood,PCT 16,Straight Party,,DEM,Democratic,195,57,252
+Hood,PCT 1,Straight Party,,DEM,Democratic,69,13,56
+Hood,PCT 2,Straight Party,,DEM,Democratic,172,55,117
+Hood,PCT 3,Straight Party,,DEM,Democratic,138,33,105
+Hood,PCT 4,Straight Party,,DEM,Democratic,122,42,80
+Hood,PCT 5/6,Straight Party,,DEM,Democratic,111,47,64
+Hood,PCT 7,Straight Party,,DEM,Democratic,24,19,5
+Hood,PCT 8 ,Straight Party,,DEM,Democratic,112,28,84
+Hood,PCT 9,Straight Party,,DEM,Democratic,182,42,140
+Hood,PCT 10 ,Straight Party,,DEM,Democratic,196,57,139
+Hood,PCT 11,Straight Party,,DEM,Democratic,91,25,66
+Hood,PCT 12,Straight Party,,DEM,Democratic,88,24,64
+Hood,PCT 13,Straight Party,,DEM,Democratic,144,45,99
+Hood,PCT 14,Straight Party,,DEM,Democratic,162,68,94
+Hood,PCT 15,Straight Party,,DEM,Democratic,23,10,13
+Hood,PCT 16,Straight Party,,DEM,Democratic,252,57,195
 Hood,ABSENTEE,Straight Party,,DEM,Democratic,296,,296
 Hood,PROV,Straight Party,,DEM,Democratic,2,,2
-Hood,PCT 1,Straight Party,,LIB,Libertarian,1,1,2
-Hood,PCT 2,Straight Party,,LIB,Libertarian,8,4,12
-Hood,PCT 3,Straight Party,,LIB,Libertarian,1,3,4
-Hood,PCT 4,Straight Party,,LIB,Libertarian,5,5,10
-Hood,PCT 5/6,Straight Party,,LIB,Libertarian,0,2,2
+Hood,PCT 1,Straight Party,,LIB,Libertarian,2,1,1
+Hood,PCT 2,Straight Party,,LIB,Libertarian,12,4,8
+Hood,PCT 3,Straight Party,,LIB,Libertarian,4,3,1
+Hood,PCT 4,Straight Party,,LIB,Libertarian,10,5,5
+Hood,PCT 5/6,Straight Party,,LIB,Libertarian,2,2,0
 Hood,PCT 7,Straight Party,,LIB,Libertarian,1,0,1
-Hood,PCT 8 ,Straight Party,,LIB,Libertarian,2,3,5
-Hood,PCT 9,Straight Party,,LIB,Libertarian,3,3,6
-Hood,PCT 10 ,Straight Party,,LIB,Libertarian,6,4,10
-Hood,PCT 11,Straight Party,,LIB,Libertarian,0,1,1
-Hood,PCT 12,Straight Party,,LIB,Libertarian,6,2,8
-Hood,PCT 13,Straight Party,,LIB,Libertarian,1,1,2
-Hood,PCT 14,Straight Party,,LIB,Libertarian,4,4,8
-Hood,PCT 15,Straight Party,,LIB,Libertarian,2,2,4
-Hood,PCT 16,Straight Party,,LIB,Libertarian,5,6,11
+Hood,PCT 8 ,Straight Party,,LIB,Libertarian,5,3,2
+Hood,PCT 9,Straight Party,,LIB,Libertarian,6,3,3
+Hood,PCT 10 ,Straight Party,,LIB,Libertarian,10,4,6
+Hood,PCT 11,Straight Party,,LIB,Libertarian,1,1,0
+Hood,PCT 12,Straight Party,,LIB,Libertarian,8,2,6
+Hood,PCT 13,Straight Party,,LIB,Libertarian,2,1,1
+Hood,PCT 14,Straight Party,,LIB,Libertarian,8,4,4
+Hood,PCT 15,Straight Party,,LIB,Libertarian,4,2,2
+Hood,PCT 16,Straight Party,,LIB,Libertarian,11,6,5
 Hood,ABSENTEE,Straight Party,,LIB,Libertarian,5,,5
 Hood,PROV,Straight Party,,LIB,Libertarian,0,,0
-Hood,PCT 1,U.S. Senate,,REP,Ted Cruz,398,111,509
-Hood,PCT 2,U.S. Senate,,REP,Ted Cruz,961,335,1296
-Hood,PCT 3,U.S. Senate,,REP,Ted Cruz,881,315,1196
-Hood,PCT 4,U.S. Senate,,REP,Ted Cruz,647,265,912
-Hood,PCT 5/6,U.S. Senate,,REP,Ted Cruz,579,466,1045
-Hood,PCT 7,U.S. Senate,,REP,Ted Cruz,133,268,401
-Hood,PCT 8 ,U.S. Senate,,REP,Ted Cruz,957,303,1260
-Hood,PCT 9,U.S. Senate,,REP,Ted Cruz,1413,526,1939
-Hood,PCT 10 ,U.S. Senate,,REP,Ted Cruz,1534,736,2270
-Hood,PCT 11,U.S. Senate,,REP,Ted Cruz,449,206,655
-Hood,PCT 12,U.S. Senate,,REP,Ted Cruz,461,156,617
-Hood,PCT 13,U.S. Senate,,REP,Ted Cruz,1245,342,1587
-Hood,PCT 14,U.S. Senate,,REP,Ted Cruz,975,458,1433
-Hood,PCT 15,U.S. Senate,,REP,Ted Cruz,92,75,167
-Hood,PCT 16,U.S. Senate,,REP,Ted Cruz,2105,876,2981
+Hood,PCT 1,U.S. Senate,,REP,Ted Cruz,509,111,398
+Hood,PCT 2,U.S. Senate,,REP,Ted Cruz,1296,335,961
+Hood,PCT 3,U.S. Senate,,REP,Ted Cruz,1196,315,881
+Hood,PCT 4,U.S. Senate,,REP,Ted Cruz,912,265,647
+Hood,PCT 5/6,U.S. Senate,,REP,Ted Cruz,1045,466,579
+Hood,PCT 7,U.S. Senate,,REP,Ted Cruz,401,268,133
+Hood,PCT 8 ,U.S. Senate,,REP,Ted Cruz,1260,303,957
+Hood,PCT 9,U.S. Senate,,REP,Ted Cruz,1939,526,1413
+Hood,PCT 10 ,U.S. Senate,,REP,Ted Cruz,2270,736,1534
+Hood,PCT 11,U.S. Senate,,REP,Ted Cruz,655,206,449
+Hood,PCT 12,U.S. Senate,,REP,Ted Cruz,617,156,461
+Hood,PCT 13,U.S. Senate,,REP,Ted Cruz,1587,342,1245
+Hood,PCT 14,U.S. Senate,,REP,Ted Cruz,1433,458,975
+Hood,PCT 15,U.S. Senate,,REP,Ted Cruz,167,75,92
+Hood,PCT 16,U.S. Senate,,REP,Ted Cruz,2981,876,2105
 Hood,ABSENTEE,U.S. Senate,,REP,Ted Cruz,1809,,1809
 Hood,PROV,U.S. Senate,,REP,Ted Cruz,13,,13
-Hood,PCT 1,U.S. Senate,,DEM,Beto O'Rourke,113,35,148
-Hood,PCT 2,U.S. Senate,,DEM,Beto O'Rourke,271,109,380
-Hood,PCT 3,U.S. Senate,,DEM,Beto O'Rourke,199,77,276
-Hood,PCT 4,U.S. Senate,,DEM,Beto O'Rourke,182,70,252
-Hood,PCT 5/6,U.S. Senate,,DEM,Beto O'Rourke,109,82,191
-Hood,PCT 7,U.S. Senate,,DEM,Beto O'Rourke,15,41,56
-Hood,PCT 8 ,U.S. Senate,,DEM,Beto O'Rourke,211,81,292
-Hood,PCT 9,U.S. Senate,,DEM,Beto O'Rourke,313,102,415
-Hood,PCT 10 ,U.S. Senate,,DEM,Beto O'Rourke,326,150,476
-Hood,PCT 11,U.S. Senate,,DEM,Beto O'Rourke,118,53,171
-Hood,PCT 12,U.S. Senate,,DEM,Beto O'Rourke,119,45,164
-Hood,PCT 13,U.S. Senate,,DEM,Beto O'Rourke,258,97,355
-Hood,PCT 14,U.S. Senate,,DEM,Beto O'Rourke,204,146,350
-Hood,PCT 15,U.S. Senate,,DEM,Beto O'Rourke,20,14,34
-Hood,PCT 16,U.S. Senate,,DEM,Beto O'Rourke,430,165,595
+Hood,PCT 1,U.S. Senate,,DEM,Beto O'Rourke,148,35,113
+Hood,PCT 2,U.S. Senate,,DEM,Beto O'Rourke,380,109,271
+Hood,PCT 3,U.S. Senate,,DEM,Beto O'Rourke,276,77,199
+Hood,PCT 4,U.S. Senate,,DEM,Beto O'Rourke,252,70,182
+Hood,PCT 5/6,U.S. Senate,,DEM,Beto O'Rourke,191,82,109
+Hood,PCT 7,U.S. Senate,,DEM,Beto O'Rourke,56,41,15
+Hood,PCT 8 ,U.S. Senate,,DEM,Beto O'Rourke,292,81,211
+Hood,PCT 9,U.S. Senate,,DEM,Beto O'Rourke,415,102,313
+Hood,PCT 10 ,U.S. Senate,,DEM,Beto O'Rourke,476,150,326
+Hood,PCT 11,U.S. Senate,,DEM,Beto O'Rourke,171,53,118
+Hood,PCT 12,U.S. Senate,,DEM,Beto O'Rourke,164,45,119
+Hood,PCT 13,U.S. Senate,,DEM,Beto O'Rourke,355,97,258
+Hood,PCT 14,U.S. Senate,,DEM,Beto O'Rourke,350,146,204
+Hood,PCT 15,U.S. Senate,,DEM,Beto O'Rourke,34,14,20
+Hood,PCT 16,U.S. Senate,,DEM,Beto O'Rourke,595,165,430
 Hood,ABSENTEE,U.S. Senate,,DEM,Beto O'Rourke,561,,561
 Hood,PROV,U.S. Senate,,DEM,Beto O'Rourke,4,,4
 Hood,PCT 1,U.S. Senate,,LIB,Neal M. Dikeman,1,0,1
-Hood,PCT 2,U.S. Senate,,LIB,Neal M. Dikeman,7,9,16
-Hood,PCT 3,U.S. Senate,,LIB,Neal M. Dikeman,2,9,11
-Hood,PCT 4,U.S. Senate,,LIB,Neal M. Dikeman,7,5,12
-Hood,PCT 5/6,U.S. Senate,,LIB,Neal M. Dikeman,4,9,13
-Hood,PCT 7,U.S. Senate,,LIB,Neal M. Dikeman,1,3,4
-Hood,PCT 8 ,U.S. Senate,,LIB,Neal M. Dikeman,6,4,10
-Hood,PCT 9,U.S. Senate,,LIB,Neal M. Dikeman,8,10,18
-Hood,PCT 10 ,U.S. Senate,,LIB,Neal M. Dikeman,10,9,19
-Hood,PCT 11,U.S. Senate,,LIB,Neal M. Dikeman,6,3,9
-Hood,PCT 12,U.S. Senate,,LIB,Neal M. Dikeman,9,4,13
-Hood,PCT 13,U.S. Senate,,LIB,Neal M. Dikeman,8,5,13
-Hood,PCT 14,U.S. Senate,,LIB,Neal M. Dikeman,9,3,12
-Hood,PCT 15,U.S. Senate,,LIB,Neal M. Dikeman,3,1,4
-Hood,PCT 16,U.S. Senate,,LIB,Neal M. Dikeman,14,12,26
+Hood,PCT 2,U.S. Senate,,LIB,Neal M. Dikeman,16,9,7
+Hood,PCT 3,U.S. Senate,,LIB,Neal M. Dikeman,11,9,2
+Hood,PCT 4,U.S. Senate,,LIB,Neal M. Dikeman,12,5,7
+Hood,PCT 5/6,U.S. Senate,,LIB,Neal M. Dikeman,13,9,4
+Hood,PCT 7,U.S. Senate,,LIB,Neal M. Dikeman,4,3,1
+Hood,PCT 8 ,U.S. Senate,,LIB,Neal M. Dikeman,10,4,6
+Hood,PCT 9,U.S. Senate,,LIB,Neal M. Dikeman,18,10,8
+Hood,PCT 10 ,U.S. Senate,,LIB,Neal M. Dikeman,19,9,10
+Hood,PCT 11,U.S. Senate,,LIB,Neal M. Dikeman,9,3,6
+Hood,PCT 12,U.S. Senate,,LIB,Neal M. Dikeman,13,4,9
+Hood,PCT 13,U.S. Senate,,LIB,Neal M. Dikeman,13,5,8
+Hood,PCT 14,U.S. Senate,,LIB,Neal M. Dikeman,12,3,9
+Hood,PCT 15,U.S. Senate,,LIB,Neal M. Dikeman,4,1,3
+Hood,PCT 16,U.S. Senate,,LIB,Neal M. Dikeman,26,12,14
 Hood,ABSENTEE,U.S. Senate,,LIB,Neal M. Dikeman,14,,14
 Hood,PROV,U.S. Senate,,LIB,Neal M. Dikeman,0,,0
-Hood,PCT 1,U.S. House,11,REP,Mike Conaway,400,112,512
-Hood,PCT 2,U.S. House,11,REP,Mike Conaway,971,347,1318
-Hood,PCT 3,U.S. House,11,REP,Mike Conaway,881,318,1199
-Hood,PCT 4,U.S. House,11,REP,Mike Conaway,657,259,916
-Hood,PCT 5/6,U.S. House,11,REP,Mike Conaway,577,468,1045
-Hood,PCT 7,U.S. House,11,REP,Mike Conaway,132,268,400
-Hood,PCT 8 ,U.S. House,11,REP,Mike Conaway,965,304,1269
-Hood,PCT 9,U.S. House,11,REP,Mike Conaway,1410,542,1952
-Hood,PCT 10 ,U.S. House,11,REP,Mike Conaway,1550,757,2307
-Hood,PCT 11,U.S. House,11,REP,Mike Conaway,459,206,665
-Hood,PCT 12,U.S. House,11,REP,Mike Conaway,472,158,630
-Hood,PCT 13,U.S. House,11,REP,Mike Conaway,1252,351,1603
-Hood,PCT 14,U.S. House,11,REP,Mike Conaway,994,468,1462
-Hood,PCT 15,U.S. House,11,REP,Mike Conaway,92,73,165
-Hood,PCT 16,U.S. House,11,REP,Mike Conaway,2129,907,3036
+Hood,PCT 1,U.S. House,11,REP,Mike Conaway,512,112,400
+Hood,PCT 2,U.S. House,11,REP,Mike Conaway,1318,347,971
+Hood,PCT 3,U.S. House,11,REP,Mike Conaway,1199,318,881
+Hood,PCT 4,U.S. House,11,REP,Mike Conaway,916,259,657
+Hood,PCT 5/6,U.S. House,11,REP,Mike Conaway,1045,468,577
+Hood,PCT 7,U.S. House,11,REP,Mike Conaway,400,268,132
+Hood,PCT 8 ,U.S. House,11,REP,Mike Conaway,1269,304,965
+Hood,PCT 9,U.S. House,11,REP,Mike Conaway,1952,542,1410
+Hood,PCT 10 ,U.S. House,11,REP,Mike Conaway,2307,757,1550
+Hood,PCT 11,U.S. House,11,REP,Mike Conaway,665,206,459
+Hood,PCT 12,U.S. House,11,REP,Mike Conaway,630,158,472
+Hood,PCT 13,U.S. House,11,REP,Mike Conaway,1603,351,1252
+Hood,PCT 14,U.S. House,11,REP,Mike Conaway,1462,468,994
+Hood,PCT 15,U.S. House,11,REP,Mike Conaway,165,73,92
+Hood,PCT 16,U.S. House,11,REP,Mike Conaway,3036,907,2129
 Hood,ABSENTEE,U.S. House,11,REP,Mike Conaway,1670,,1670
 Hood,PROV,U.S. House,11,REP,Mike Conaway,12,,12
-Hood,PCT 1,U.S. House,11,DEM,Jennie Lou Leeder,105,30,135
-Hood,PCT 2,U.S. House,11,DEM,Jennie Lou Leeder,241,80,321
-Hood,PCT 3,U.S. House,11,DEM,Jennie Lou Leeder,185,62,247
-Hood,PCT 4,U.S. House,11,DEM,Jennie Lou Leeder,163,64,227
-Hood,PCT 5/6,U.S. House,11,DEM,Jennie Lou Leeder,105,77,182
-Hood,PCT 7,U.S. House,11,DEM,Jennie Lou Leeder,15,39,54
-Hood,PCT 8 ,U.S. House,11,DEM,Jennie Lou Leeder,188,71,259
-Hood,PCT 9,U.S. House,11,DEM,Jennie Lou Leeder,280,80,360
-Hood,PCT 10 ,U.S. House,11,DEM,Jennie Lou Leeder,278,113,391
-Hood,PCT 11,U.S. House,11,DEM,Jennie Lou Leeder,103,46,149
-Hood,PCT 12,U.S. House,11,DEM,Jennie Lou Leeder,107,44,151
-Hood,PCT 13,U.S. House,11,DEM,Jennie Lou Leeder,236,82,318
-Hood,PCT 14,U.S. House,11,DEM,Jennie Lou Leeder,178,121,299
-Hood,PCT 15,U.S. House,11,DEM,Jennie Lou Leeder,18,14,32
-Hood,PCT 16,U.S. House,11,DEM,Jennie Lou Leeder,381,121,502
+Hood,PCT 1,U.S. House,11,DEM,Jennie Lou Leeder,135,30,105
+Hood,PCT 2,U.S. House,11,DEM,Jennie Lou Leeder,321,80,241
+Hood,PCT 3,U.S. House,11,DEM,Jennie Lou Leeder,247,62,185
+Hood,PCT 4,U.S. House,11,DEM,Jennie Lou Leeder,227,64,163
+Hood,PCT 5/6,U.S. House,11,DEM,Jennie Lou Leeder,182,77,105
+Hood,PCT 7,U.S. House,11,DEM,Jennie Lou Leeder,54,39,15
+Hood,PCT 8 ,U.S. House,11,DEM,Jennie Lou Leeder,259,71,188
+Hood,PCT 9,U.S. House,11,DEM,Jennie Lou Leeder,360,80,280
+Hood,PCT 10 ,U.S. House,11,DEM,Jennie Lou Leeder,391,113,278
+Hood,PCT 11,U.S. House,11,DEM,Jennie Lou Leeder,149,46,103
+Hood,PCT 12,U.S. House,11,DEM,Jennie Lou Leeder,151,44,107
+Hood,PCT 13,U.S. House,11,DEM,Jennie Lou Leeder,318,82,236
+Hood,PCT 14,U.S. House,11,DEM,Jennie Lou Leeder,299,121,178
+Hood,PCT 15,U.S. House,11,DEM,Jennie Lou Leeder,32,14,18
+Hood,PCT 16,U.S. House,11,DEM,Jennie Lou Leeder,502,121,381
 Hood,ABSENTEE,U.S. House,11,DEM,Jennie Lou Leeder,497,,497
 Hood,PROV,U.S. House,11,DEM,Jennie Lou Leeder,3,,3
-Hood,PCT 1,U.S. House,11,LIB,Rhett Rosenquest Smith,3,3,6
-Hood,PCT 2,U.S. House,11,LIB,Rhett Rosenquest Smith,17,16,33
-Hood,PCT 3,U.S. House,11,LIB,Rhett Rosenquest Smith,11,14,25
-Hood,PCT 4,U.S. House,11,LIB,Rhett Rosenquest Smith,11,8,19
-Hood,PCT 5/6,U.S. House,11,LIB,Rhett Rosenquest Smith,6,7,13
-Hood,PCT 7,U.S. House,11,LIB,Rhett Rosenquest Smith,2,2,4
-Hood,PCT 8 ,U.S. House,11,LIB,Rhett Rosenquest Smith,14,8,22
-Hood,PCT 9,U.S. House,11,LIB,Rhett Rosenquest Smith,30,13,43
-Hood,PCT 10 ,U.S. House,11,LIB,Rhett Rosenquest Smith,24,16,40
-Hood,PCT 11,U.S. House,11,LIB,Rhett Rosenquest Smith,6,5,11
-Hood,PCT 12,U.S. House,11,LIB,Rhett Rosenquest Smith,7,3,10
-Hood,PCT 13,U.S. House,11,LIB,Rhett Rosenquest Smith,10,5,15
-Hood,PCT 14,U.S. House,11,LIB,Rhett Rosenquest Smith,8,10,18
-Hood,PCT 15,U.S. House,11,LIB,Rhett Rosenquest Smith,4,3,7
-Hood,PCT 16,U.S. House,11,LIB,Rhett Rosenquest Smith,23,17,40
+Hood,PCT 1,U.S. House,11,LIB,Rhett Rosenquest Smith,6,3,3
+Hood,PCT 2,U.S. House,11,LIB,Rhett Rosenquest Smith,33,16,17
+Hood,PCT 3,U.S. House,11,LIB,Rhett Rosenquest Smith,25,14,11
+Hood,PCT 4,U.S. House,11,LIB,Rhett Rosenquest Smith,19,8,11
+Hood,PCT 5/6,U.S. House,11,LIB,Rhett Rosenquest Smith,13,7,6
+Hood,PCT 7,U.S. House,11,LIB,Rhett Rosenquest Smith,4,2,2
+Hood,PCT 8 ,U.S. House,11,LIB,Rhett Rosenquest Smith,22,8,14
+Hood,PCT 9,U.S. House,11,LIB,Rhett Rosenquest Smith,43,13,30
+Hood,PCT 10 ,U.S. House,11,LIB,Rhett Rosenquest Smith,40,16,24
+Hood,PCT 11,U.S. House,11,LIB,Rhett Rosenquest Smith,11,5,6
+Hood,PCT 12,U.S. House,11,LIB,Rhett Rosenquest Smith,10,3,7
+Hood,PCT 13,U.S. House,11,LIB,Rhett Rosenquest Smith,15,5,10
+Hood,PCT 14,U.S. House,11,LIB,Rhett Rosenquest Smith,18,10,8
+Hood,PCT 15,U.S. House,11,LIB,Rhett Rosenquest Smith,7,3,4
+Hood,PCT 16,U.S. House,11,LIB,Rhett Rosenquest Smith,40,17,23
 Hood,ABSENTEE,U.S. House,11,LIB,Rhett Rosenquest Smith,19,,19
 Hood,PROV,U.S. House,11,LIB,Rhett Rosenquest Smith,0,,0
-Hood,PCT 1,Governor,,REP,Greg Abbott,410,114,524
-Hood,PCT 2,Governor,,REP,Greg Abbott,1010,359,1369
-Hood,PCT 3,Governor,,REP,Greg Abbott,897,330,1227
-Hood,PCT 4,Governor,,REP,Greg Abbott,669,275,944
-Hood,PCT 5/6,Governor,,REP,Greg Abbott,588,480,1068
-Hood,PCT 7,Governor,,REP,Greg Abbott,130,269,399
-Hood,PCT 8 ,Governor,,REP,Greg Abbott,987,323,1310
-Hood,PCT 9,Governor,,REP,Greg Abbott,1441,555,1996
-Hood,PCT 10 ,Governor,,REP,Greg Abbott,1580,772,2352
-Hood,PCT 11,Governor,,REP,Greg Abbott,468,219,687
-Hood,PCT 12,Governor,,REP,Greg Abbott,477,165,642
-Hood,PCT 13,Governor,,REP,Greg Abbott,1281,365,1646
-Hood,PCT 14,Governor,,REP,Greg Abbott,1014,492,1506
-Hood,PCT 15,Governor,,REP,Greg Abbott,97,75,172
-Hood,PCT 16,Governor,,REP,Greg Abbott,2188,941,3129
+Hood,PCT 1,Governor,,REP,Greg Abbott,524,114,410
+Hood,PCT 2,Governor,,REP,Greg Abbott,1369,359,1010
+Hood,PCT 3,Governor,,REP,Greg Abbott,1227,330,897
+Hood,PCT 4,Governor,,REP,Greg Abbott,944,275,669
+Hood,PCT 5/6,Governor,,REP,Greg Abbott,1068,480,588
+Hood,PCT 7,Governor,,REP,Greg Abbott,399,269,130
+Hood,PCT 8 ,Governor,,REP,Greg Abbott,1310,323,987
+Hood,PCT 9,Governor,,REP,Greg Abbott,1996,555,1441
+Hood,PCT 10 ,Governor,,REP,Greg Abbott,2352,772,1580
+Hood,PCT 11,Governor,,REP,Greg Abbott,687,219,468
+Hood,PCT 12,Governor,,REP,Greg Abbott,642,165,477
+Hood,PCT 13,Governor,,REP,Greg Abbott,1646,365,1281
+Hood,PCT 14,Governor,,REP,Greg Abbott,1506,492,1014
+Hood,PCT 15,Governor,,REP,Greg Abbott,172,75,97
+Hood,PCT 16,Governor,,REP,Greg Abbott,3129,941,2188
 Hood,ABSENTEE,Governor,,REP,Greg Abbott,1882,,1882
 Hood,PROV,Governor,,REP,Greg Abbott,12,,12
-Hood,PCT 1,Governor,,DEM,Lupe Valdez,98,30,128
-Hood,PCT 2,Governor,,DEM,Lupe Valdez,212,79,291
-Hood,PCT 3,Governor,,DEM,Lupe Valdez,176,58,234
-Hood,PCT 4,Governor,,DEM,Lupe Valdez,155,56,211
-Hood,PCT 5/6,Governor,,DEM,Lupe Valdez,98,70,168
-Hood,PCT 7,Governor,,DEM,Lupe Valdez,17,36,53
-Hood,PCT 8 ,Governor,,DEM,Lupe Valdez,164,58,222
-Hood,PCT 9,Governor,,DEM,Lupe Valdez,261,74,335
-Hood,PCT 10 ,Governor,,DEM,Lupe Valdez,259,110,369
-Hood,PCT 11,Governor,,DEM,Lupe Valdez,96,36,132
-Hood,PCT 12,Governor,,DEM,Lupe Valdez,101,38,139
-Hood,PCT 13,Governor,,DEM,Lupe Valdez,206,74,280
-Hood,PCT 14,Governor,,DEM,Lupe Valdez,160,103,263
-Hood,PCT 15,Governor,,DEM,Lupe Valdez,16,13,29
-Hood,PCT 16,Governor,,DEM,Lupe Valdez,340,92,432
+Hood,PCT 1,Governor,,DEM,Lupe Valdez,128,30,98
+Hood,PCT 2,Governor,,DEM,Lupe Valdez,291,79,212
+Hood,PCT 3,Governor,,DEM,Lupe Valdez,234,58,176
+Hood,PCT 4,Governor,,DEM,Lupe Valdez,211,56,155
+Hood,PCT 5/6,Governor,,DEM,Lupe Valdez,168,70,98
+Hood,PCT 7,Governor,,DEM,Lupe Valdez,53,36,17
+Hood,PCT 8 ,Governor,,DEM,Lupe Valdez,222,58,164
+Hood,PCT 9,Governor,,DEM,Lupe Valdez,335,74,261
+Hood,PCT 10 ,Governor,,DEM,Lupe Valdez,369,110,259
+Hood,PCT 11,Governor,,DEM,Lupe Valdez,132,36,96
+Hood,PCT 12,Governor,,DEM,Lupe Valdez,139,38,101
+Hood,PCT 13,Governor,,DEM,Lupe Valdez,280,74,206
+Hood,PCT 14,Governor,,DEM,Lupe Valdez,263,103,160
+Hood,PCT 15,Governor,,DEM,Lupe Valdez,29,13,16
+Hood,PCT 16,Governor,,DEM,Lupe Valdez,432,92,340
 Hood,ABSENTEE,Governor,,DEM,Lupe Valdez,475,,475
 Hood,PROV,Governor,,DEM,Lupe Valdez,4,,4
-Hood,PCT 1,Governor,,LIB,Mark Jay Tippetts,4,2,6
-Hood,PCT 2,Governor,,LIB,Mark Jay Tippetts,18,14,32
-Hood,PCT 3,Governor,,LIB,Mark Jay Tippetts,8,9,17
-Hood,PCT 4,Governor,,LIB,Mark Jay Tippetts,9,6,15
-Hood,PCT 5/6,Governor,,LIB,Mark Jay Tippetts,8,6,14
-Hood,PCT 7,Governor,,LIB,Mark Jay Tippetts,2,6,8
-Hood,PCT 8 ,Governor,,LIB,Mark Jay Tippetts,20,5,25
-Hood,PCT 9,Governor,,LIB,Mark Jay Tippetts,29,10,39
-Hood,PCT 10 ,Governor,,LIB,Mark Jay Tippetts,23,12,35
-Hood,PCT 11,Governor,,LIB,Mark Jay Tippetts,5,5,10
-Hood,PCT 12,Governor,,LIB,Mark Jay Tippetts,9,3,12
-Hood,PCT 13,Governor,,LIB,Mark Jay Tippetts,21,3,24
-Hood,PCT 14,Governor,,LIB,Mark Jay Tippetts,11,6,17
-Hood,PCT 15,Governor,,LIB,Mark Jay Tippetts,2,2,4
-Hood,PCT 16,Governor,,LIB,Mark Jay Tippetts,18,14,32
+Hood,PCT 1,Governor,,LIB,Mark Jay Tippetts,6,2,4
+Hood,PCT 2,Governor,,LIB,Mark Jay Tippetts,32,14,18
+Hood,PCT 3,Governor,,LIB,Mark Jay Tippetts,17,9,8
+Hood,PCT 4,Governor,,LIB,Mark Jay Tippetts,15,6,9
+Hood,PCT 5/6,Governor,,LIB,Mark Jay Tippetts,14,6,8
+Hood,PCT 7,Governor,,LIB,Mark Jay Tippetts,8,6,2
+Hood,PCT 8 ,Governor,,LIB,Mark Jay Tippetts,25,5,20
+Hood,PCT 9,Governor,,LIB,Mark Jay Tippetts,39,10,29
+Hood,PCT 10 ,Governor,,LIB,Mark Jay Tippetts,35,12,23
+Hood,PCT 11,Governor,,LIB,Mark Jay Tippetts,10,5,5
+Hood,PCT 12,Governor,,LIB,Mark Jay Tippetts,12,3,9
+Hood,PCT 13,Governor,,LIB,Mark Jay Tippetts,24,3,21
+Hood,PCT 14,Governor,,LIB,Mark Jay Tippetts,17,6,11
+Hood,PCT 15,Governor,,LIB,Mark Jay Tippetts,4,2,2
+Hood,PCT 16,Governor,,LIB,Mark Jay Tippetts,32,14,18
 Hood,ABSENTEE,Governor,,LIB,Mark Jay Tippetts,20,,20
 Hood,PROV,Governor,,LIB,Mark Jay Tippetts,0,,0
-Hood,PCT 1,Lieutenant Governor,,REP,Dan Patrick,394,109,503
-Hood,PCT 2,Lieutenant Governor,,REP,Dan Patrick,935,337,1272
-Hood,PCT 3,Lieutenant Governor,,REP,Dan Patrick,862,307,1169
-Hood,PCT 4,Lieutenant Governor,,REP,Dan Patrick,654,251,905
-Hood,PCT 5/6,Lieutenant Governor,,REP,Dan Patrick,564,456,1020
-Hood,PCT 7,Lieutenant Governor,,REP,Dan Patrick,129,248,377
-Hood,PCT 8 ,Lieutenant Governor,,REP,Dan Patrick,928,305,1233
-Hood,PCT 9,Lieutenant Governor,,REP,Dan Patrick,1361,520,1881
-Hood,PCT 10 ,Lieutenant Governor,,REP,Dan Patrick,1506,717,2223
-Hood,PCT 11,Lieutenant Governor,,REP,Dan Patrick,453,204,657
-Hood,PCT 12,Lieutenant Governor,,REP,Dan Patrick,455,158,613
-Hood,PCT 13,Lieutenant Governor,,REP,Dan Patrick,1227,338,1565
-Hood,PCT 14,Lieutenant Governor,,REP,Dan Patrick,949,447,1396
-Hood,PCT 15,Lieutenant Governor,,REP,Dan Patrick,93,72,165
-Hood,PCT 16,Lieutenant Governor,,REP,Dan Patrick,2062,883,2945
+Hood,PCT 1,Lieutenant Governor,,REP,Dan Patrick,503,109,394
+Hood,PCT 2,Lieutenant Governor,,REP,Dan Patrick,1272,337,935
+Hood,PCT 3,Lieutenant Governor,,REP,Dan Patrick,1169,307,862
+Hood,PCT 4,Lieutenant Governor,,REP,Dan Patrick,905,251,654
+Hood,PCT 5/6,Lieutenant Governor,,REP,Dan Patrick,1020,456,564
+Hood,PCT 7,Lieutenant Governor,,REP,Dan Patrick,377,248,129
+Hood,PCT 8 ,Lieutenant Governor,,REP,Dan Patrick,1233,305,928
+Hood,PCT 9,Lieutenant Governor,,REP,Dan Patrick,1881,520,1361
+Hood,PCT 10 ,Lieutenant Governor,,REP,Dan Patrick,2223,717,1506
+Hood,PCT 11,Lieutenant Governor,,REP,Dan Patrick,657,204,453
+Hood,PCT 12,Lieutenant Governor,,REP,Dan Patrick,613,158,455
+Hood,PCT 13,Lieutenant Governor,,REP,Dan Patrick,1565,338,1227
+Hood,PCT 14,Lieutenant Governor,,REP,Dan Patrick,1396,447,949
+Hood,PCT 15,Lieutenant Governor,,REP,Dan Patrick,165,72,93
+Hood,PCT 16,Lieutenant Governor,,REP,Dan Patrick,2945,883,2062
 Hood,ABSENTEE,Lieutenant Governor,,REP,Dan Patrick,1778,,1778
 Hood,PROV,Lieutenant Governor,,REP,Dan Patrick,12,,12
-Hood,PCT 1,Lieutenant Governor,,DEM,Mike Collier,114,32,146
-Hood,PCT 2,Lieutenant Governor,,DEM,Mike Collier,265,88,353
-Hood,PCT 3,Lieutenant Governor,,DEM,Mike Collier,199,78,277
-Hood,PCT 4,Lieutenant Governor,,DEM,Mike Collier,164,72,236
-Hood,PCT 5/6,Lieutenant Governor,,DEM,Mike Collier,116,90,206
-Hood,PCT 7,Lieutenant Governor,,DEM,Mike Collier,18,56,74
-Hood,PCT 8 ,Lieutenant Governor,,DEM,Mike Collier,219,70,289
-Hood,PCT 9,Lieutenant Governor,,DEM,Mike Collier,336,99,435
-Hood,PCT 10 ,Lieutenant Governor,,DEM,Mike Collier,319,148,467
-Hood,PCT 11,Lieutenant Governor,,DEM,Mike Collier,113,47,160
-Hood,PCT 12,Lieutenant Governor,,DEM,Mike Collier,121,43,164
-Hood,PCT 13,Lieutenant Governor,,DEM,Mike Collier,253,98,351
-Hood,PCT 14,Lieutenant Governor,,DEM,Mike Collier,205,140,345
-Hood,PCT 15,Lieutenant Governor,,DEM,Mike Collier,19,15,34
-Hood,PCT 16,Lieutenant Governor,,DEM,Mike Collier,445,141,586
+Hood,PCT 1,Lieutenant Governor,,DEM,Mike Collier,146,32,114
+Hood,PCT 2,Lieutenant Governor,,DEM,Mike Collier,353,88,265
+Hood,PCT 3,Lieutenant Governor,,DEM,Mike Collier,277,78,199
+Hood,PCT 4,Lieutenant Governor,,DEM,Mike Collier,236,72,164
+Hood,PCT 5/6,Lieutenant Governor,,DEM,Mike Collier,206,90,116
+Hood,PCT 7,Lieutenant Governor,,DEM,Mike Collier,74,56,18
+Hood,PCT 8 ,Lieutenant Governor,,DEM,Mike Collier,289,70,219
+Hood,PCT 9,Lieutenant Governor,,DEM,Mike Collier,435,99,336
+Hood,PCT 10 ,Lieutenant Governor,,DEM,Mike Collier,467,148,319
+Hood,PCT 11,Lieutenant Governor,,DEM,Mike Collier,160,47,113
+Hood,PCT 12,Lieutenant Governor,,DEM,Mike Collier,164,43,121
+Hood,PCT 13,Lieutenant Governor,,DEM,Mike Collier,351,98,253
+Hood,PCT 14,Lieutenant Governor,,DEM,Mike Collier,345,140,205
+Hood,PCT 15,Lieutenant Governor,,DEM,Mike Collier,34,15,19
+Hood,PCT 16,Lieutenant Governor,,DEM,Mike Collier,586,141,445
 Hood,ABSENTEE,Lieutenant Governor,,DEM,Mike Collier,554,,554
 Hood,PROV,Lieutenant Governor,,DEM,Mike Collier,4,,4
-Hood,PCT 1,Lieutenant Governor,,LIB,Kerry Douglas McKennon,4,4,8
-Hood,PCT 2,Lieutenant Governor,,LIB,Kerry Douglas McKennon,32,21,53
-Hood,PCT 3,Lieutenant Governor,,LIB,Kerry Douglas McKennon,14,8,22
-Hood,PCT 4,Lieutenant Governor,,LIB,Kerry Douglas McKennon,13,13,26
-Hood,PCT 5/6,Lieutenant Governor,,LIB,Kerry Douglas McKennon,9,10,19
-Hood,PCT 7,Lieutenant Governor,,LIB,Kerry Douglas McKennon,2,6,8
-Hood,PCT 8 ,Lieutenant Governor,,LIB,Kerry Douglas McKennon,20,11,31
-Hood,PCT 9,Lieutenant Governor,,LIB,Kerry Douglas McKennon,25,19,44
-Hood,PCT 10 ,Lieutenant Governor,,LIB,Kerry Douglas McKennon,30,23,53
-Hood,PCT 11,Lieutenant Governor,,LIB,Kerry Douglas McKennon,4,9,13
-Hood,PCT 12,Lieutenant Governor,,LIB,Kerry Douglas McKennon,9,3,12
-Hood,PCT 13,Lieutenant Governor,,LIB,Kerry Douglas McKennon,25,5,30
-Hood,PCT 14,Lieutenant Governor,,LIB,Kerry Douglas McKennon,22,12,34
-Hood,PCT 15,Lieutenant Governor,,LIB,Kerry Douglas McKennon,3,3,6
-Hood,PCT 16,Lieutenant Governor,,LIB,Kerry Douglas McKennon,38,21,59
+Hood,PCT 1,Lieutenant Governor,,LIB,Kerry Douglas McKennon,8,4,4
+Hood,PCT 2,Lieutenant Governor,,LIB,Kerry Douglas McKennon,53,21,32
+Hood,PCT 3,Lieutenant Governor,,LIB,Kerry Douglas McKennon,22,8,14
+Hood,PCT 4,Lieutenant Governor,,LIB,Kerry Douglas McKennon,26,13,13
+Hood,PCT 5/6,Lieutenant Governor,,LIB,Kerry Douglas McKennon,19,10,9
+Hood,PCT 7,Lieutenant Governor,,LIB,Kerry Douglas McKennon,8,6,2
+Hood,PCT 8 ,Lieutenant Governor,,LIB,Kerry Douglas McKennon,31,11,20
+Hood,PCT 9,Lieutenant Governor,,LIB,Kerry Douglas McKennon,44,19,25
+Hood,PCT 10 ,Lieutenant Governor,,LIB,Kerry Douglas McKennon,53,23,30
+Hood,PCT 11,Lieutenant Governor,,LIB,Kerry Douglas McKennon,13,9,4
+Hood,PCT 12,Lieutenant Governor,,LIB,Kerry Douglas McKennon,12,3,9
+Hood,PCT 13,Lieutenant Governor,,LIB,Kerry Douglas McKennon,30,5,25
+Hood,PCT 14,Lieutenant Governor,,LIB,Kerry Douglas McKennon,34,12,22
+Hood,PCT 15,Lieutenant Governor,,LIB,Kerry Douglas McKennon,6,3,3
+Hood,PCT 16,Lieutenant Governor,,LIB,Kerry Douglas McKennon,59,21,38
 Hood,ABSENTEE,Lieutenant Governor,,LIB,Kerry Douglas McKennon,85,,85
 Hood,PROV,Lieutenant Governor,,LIB,Kerry Douglas McKennon,0,,0
-Hood,PCT 1,Attorney General,,REP,Ken Paxton,389,110,499
-Hood,PCT 2,Attorney General,,REP,Ken Paxton,934,324,1258
-Hood,PCT 3,Attorney General,,REP,Ken Paxton,842,309,1151
-Hood,PCT 4,Attorney General,,REP,Ken Paxton,636,248,884
-Hood,PCT 5/6,Attorney General,,REP,Ken Paxton,560,449,1009
-Hood,PCT 7,Attorney General,,REP,Ken Paxton,127,260,387
-Hood,PCT 8 ,Attorney General,,REP,Ken Paxton,920,294,1214
-Hood,PCT 9,Attorney General,,REP,Ken Paxton,1361,518,1879
-Hood,PCT 10 ,Attorney General,,REP,Ken Paxton,1479,710,2189
-Hood,PCT 11,Attorney General,,REP,Ken Paxton,449,200,649
-Hood,PCT 12,Attorney General,,REP,Ken Paxton,455,152,607
-Hood,PCT 13,Attorney General,,REP,Ken Paxton,1203,336,1539
-Hood,PCT 14,Attorney General,,REP,Ken Paxton,946,459,1405
-Hood,PCT 15,Attorney General,,REP,Ken Paxton,88,69,157
-Hood,PCT 16,Attorney General,,REP,Ken Paxton,2046,870,2916
+Hood,PCT 1,Attorney General,,REP,Ken Paxton,499,110,389
+Hood,PCT 2,Attorney General,,REP,Ken Paxton,1258,324,934
+Hood,PCT 3,Attorney General,,REP,Ken Paxton,1151,309,842
+Hood,PCT 4,Attorney General,,REP,Ken Paxton,884,248,636
+Hood,PCT 5/6,Attorney General,,REP,Ken Paxton,1009,449,560
+Hood,PCT 7,Attorney General,,REP,Ken Paxton,387,260,127
+Hood,PCT 8 ,Attorney General,,REP,Ken Paxton,1214,294,920
+Hood,PCT 9,Attorney General,,REP,Ken Paxton,1879,518,1361
+Hood,PCT 10 ,Attorney General,,REP,Ken Paxton,2189,710,1479
+Hood,PCT 11,Attorney General,,REP,Ken Paxton,649,200,449
+Hood,PCT 12,Attorney General,,REP,Ken Paxton,607,152,455
+Hood,PCT 13,Attorney General,,REP,Ken Paxton,1539,336,1203
+Hood,PCT 14,Attorney General,,REP,Ken Paxton,1405,459,946
+Hood,PCT 15,Attorney General,,REP,Ken Paxton,157,69,88
+Hood,PCT 16,Attorney General,,REP,Ken Paxton,2916,870,2046
 Hood,ABSENTEE,Attorney General,,REP,Ken Paxton,1763,,1763
 Hood,PROV,Attorney General,,REP,Ken Paxton,12,,12
-Hood,PCT 1,Attorney General,,DEM,Justin Nelson,111,31,142
-Hood,PCT 2,Attorney General,,DEM,Justin Nelson,263,92,355
-Hood,PCT 3,Attorney General,,DEM,Justin Nelson,214,71,285
-Hood,PCT 4,Attorney General,,DEM,Justin Nelson,179,73,252
-Hood,PCT 5/6,Attorney General,,DEM,Justin Nelson,115,86,201
-Hood,PCT 7,Attorney General,,DEM,Justin Nelson,17,47,64
-Hood,PCT 8 ,Attorney General,,DEM,Justin Nelson,221,76,297
-Hood,PCT 9,Attorney General,,DEM,Justin Nelson,319,92,411
-Hood,PCT 10 ,Attorney General,,DEM,Justin Nelson,332,145,477
-Hood,PCT 11,Attorney General,,DEM,Justin Nelson,112,50,162
-Hood,PCT 12,Attorney General,,DEM,Justin Nelson,117,48,165
-Hood,PCT 13,Attorney General,,DEM,Justin Nelson,266,96,362
-Hood,PCT 14,Attorney General,,DEM,Justin Nelson,204,127,331
-Hood,PCT 15,Attorney General,,DEM,Justin Nelson,23,16,39
-Hood,PCT 16,Attorney General,,DEM,Justin Nelson,448,151,599
+Hood,PCT 1,Attorney General,,DEM,Justin Nelson,142,31,111
+Hood,PCT 2,Attorney General,,DEM,Justin Nelson,355,92,263
+Hood,PCT 3,Attorney General,,DEM,Justin Nelson,285,71,214
+Hood,PCT 4,Attorney General,,DEM,Justin Nelson,252,73,179
+Hood,PCT 5/6,Attorney General,,DEM,Justin Nelson,201,86,115
+Hood,PCT 7,Attorney General,,DEM,Justin Nelson,64,47,17
+Hood,PCT 8 ,Attorney General,,DEM,Justin Nelson,297,76,221
+Hood,PCT 9,Attorney General,,DEM,Justin Nelson,411,92,319
+Hood,PCT 10 ,Attorney General,,DEM,Justin Nelson,477,145,332
+Hood,PCT 11,Attorney General,,DEM,Justin Nelson,162,50,112
+Hood,PCT 12,Attorney General,,DEM,Justin Nelson,165,48,117
+Hood,PCT 13,Attorney General,,DEM,Justin Nelson,362,96,266
+Hood,PCT 14,Attorney General,,DEM,Justin Nelson,331,127,204
+Hood,PCT 15,Attorney General,,DEM,Justin Nelson,39,16,23
+Hood,PCT 16,Attorney General,,DEM,Justin Nelson,599,151,448
 Hood,ABSENTEE,Attorney General,,DEM,Justin Nelson,563,,563
 Hood,PROV,Attorney General,,DEM,Justin Nelson,4,,4
-Hood,PCT 1,Attorney General,,LIB,Michael Ray Harris,8,3,11
-Hood,PCT 2,Attorney General,,LIB,Michael Ray Harris,31,26,57
-Hood,PCT 3,Attorney General,,LIB,Michael Ray Harris,19,13,32
-Hood,PCT 4,Attorney General,,LIB,Michael Ray Harris,15,12,27
-Hood,PCT 5/6,Attorney General,,LIB,Michael Ray Harris,12,19,31
-Hood,PCT 7,Attorney General,,LIB,Michael Ray Harris,5,3,8
-Hood,PCT 8 ,Attorney General,,LIB,Michael Ray Harris,26,15,41
-Hood,PCT 9,Attorney General,,LIB,Michael Ray Harris,43,23,66
-Hood,PCT 10 ,Attorney General,,LIB,Michael Ray Harris,41,33,74
-Hood,PCT 11,Attorney General,,LIB,Michael Ray Harris,10,7,17
-Hood,PCT 12,Attorney General,,LIB,Michael Ray Harris,13,5,18
-Hood,PCT 13,Attorney General,,LIB,Michael Ray Harris,31,8,39
-Hood,PCT 14,Attorney General,,LIB,Michael Ray Harris,26,11,37
-Hood,PCT 15,Attorney General,,LIB,Michael Ray Harris,4,5,9
-Hood,PCT 16,Attorney General,,LIB,Michael Ray Harris,42,24,66
+Hood,PCT 1,Attorney General,,LIB,Michael Ray Harris,11,3,8
+Hood,PCT 2,Attorney General,,LIB,Michael Ray Harris,57,26,31
+Hood,PCT 3,Attorney General,,LIB,Michael Ray Harris,32,13,19
+Hood,PCT 4,Attorney General,,LIB,Michael Ray Harris,27,12,15
+Hood,PCT 5/6,Attorney General,,LIB,Michael Ray Harris,31,19,12
+Hood,PCT 7,Attorney General,,LIB,Michael Ray Harris,8,3,5
+Hood,PCT 8 ,Attorney General,,LIB,Michael Ray Harris,41,15,26
+Hood,PCT 9,Attorney General,,LIB,Michael Ray Harris,66,23,43
+Hood,PCT 10 ,Attorney General,,LIB,Michael Ray Harris,74,33,41
+Hood,PCT 11,Attorney General,,LIB,Michael Ray Harris,17,7,10
+Hood,PCT 12,Attorney General,,LIB,Michael Ray Harris,18,5,13
+Hood,PCT 13,Attorney General,,LIB,Michael Ray Harris,39,8,31
+Hood,PCT 14,Attorney General,,LIB,Michael Ray Harris,37,11,26
+Hood,PCT 15,Attorney General,,LIB,Michael Ray Harris,9,5,4
+Hood,PCT 16,Attorney General,,LIB,Michael Ray Harris,66,24,42
 Hood,ABSENTEE,Attorney General,,LIB,Michael Ray Harris,39,,39
 Hood,PROV,Attorney General,,LIB,Michael Ray Harris,0,,0
-Hood,PCT 1,Comptroller of Public Accounts,,REP,Glenn Hegar,393,108,501
-Hood,PCT 2,Comptroller of Public Accounts,,REP,Glenn Hegar,963,340,1303
-Hood,PCT 3,Comptroller of Public Accounts,,REP,Glenn Hegar,871,308,1179
-Hood,PCT 4,Comptroller of Public Accounts,,REP,Glenn Hegar,656,256,912
-Hood,PCT 5/6,Comptroller of Public Accounts,,REP,Glenn Hegar,573,461,1034
-Hood,PCT 7,Comptroller of Public Accounts,,REP,Glenn Hegar,131,267,398
-Hood,PCT 8 ,Comptroller of Public Accounts,,REP,Glenn Hegar,962,306,1268
-Hood,PCT 9,Comptroller of Public Accounts,,REP,Glenn Hegar,1408,530,1938
-Hood,PCT 10 ,Comptroller of Public Accounts,,REP,Glenn Hegar,1541,746,2287
-Hood,PCT 11,Comptroller of Public Accounts,,REP,Glenn Hegar,452,201,653
-Hood,PCT 12,Comptroller of Public Accounts,,REP,Glenn Hegar,466,155,621
-Hood,PCT 13,Comptroller of Public Accounts,,REP,Glenn Hegar,1245,355,1600
-Hood,PCT 14,Comptroller of Public Accounts,,REP,Glenn Hegar,983,466,1449
-Hood,PCT 15,Comptroller of Public Accounts,,REP,Glenn Hegar,93,71,164
-Hood,PCT 16,Comptroller of Public Accounts,,REP,Glenn Hegar,2108,900,3008
+Hood,PCT 1,Comptroller of Public Accounts,,REP,Glenn Hegar,501,108,393
+Hood,PCT 2,Comptroller of Public Accounts,,REP,Glenn Hegar,1303,340,963
+Hood,PCT 3,Comptroller of Public Accounts,,REP,Glenn Hegar,1179,308,871
+Hood,PCT 4,Comptroller of Public Accounts,,REP,Glenn Hegar,912,256,656
+Hood,PCT 5/6,Comptroller of Public Accounts,,REP,Glenn Hegar,1034,461,573
+Hood,PCT 7,Comptroller of Public Accounts,,REP,Glenn Hegar,398,267,131
+Hood,PCT 8 ,Comptroller of Public Accounts,,REP,Glenn Hegar,1268,306,962
+Hood,PCT 9,Comptroller of Public Accounts,,REP,Glenn Hegar,1938,530,1408
+Hood,PCT 10 ,Comptroller of Public Accounts,,REP,Glenn Hegar,2287,746,1541
+Hood,PCT 11,Comptroller of Public Accounts,,REP,Glenn Hegar,653,201,452
+Hood,PCT 12,Comptroller of Public Accounts,,REP,Glenn Hegar,621,155,466
+Hood,PCT 13,Comptroller of Public Accounts,,REP,Glenn Hegar,1600,355,1245
+Hood,PCT 14,Comptroller of Public Accounts,,REP,Glenn Hegar,1449,466,983
+Hood,PCT 15,Comptroller of Public Accounts,,REP,Glenn Hegar,164,71,93
+Hood,PCT 16,Comptroller of Public Accounts,,REP,Glenn Hegar,3008,900,2108
 Hood,ABSENTEE,Comptroller of Public Accounts,,REP,Glenn Hegar,1802,,1802
 Hood,PROV,Comptroller of Public Accounts,,REP,Glenn Hegar,12,,12
-Hood,PCT 1,Comptroller of Public Accounts,,DEM,Joi Chevalier,95,26,121
-Hood,PCT 2,Comptroller of Public Accounts,,DEM,Joi Chevalier,219,77,296
-Hood,PCT 3,Comptroller of Public Accounts,,DEM,Joi Chevalier,176,63,239
-Hood,PCT 4,Comptroller of Public Accounts,,DEM,Joi Chevalier,152,61,213
-Hood,PCT 5/6,Comptroller of Public Accounts,,DEM,Joi Chevalier,98,70,168
-Hood,PCT 7,Comptroller of Public Accounts,,DEM,Joi Chevalier,15,34,49
-Hood,PCT 8 ,Comptroller of Public Accounts,,DEM,Joi Chevalier,168,59,227
-Hood,PCT 9,Comptroller of Public Accounts,,DEM,Joi Chevalier,256,75,331
-Hood,PCT 10 ,Comptroller of Public Accounts,,DEM,Joi Chevalier,259,105,364
-Hood,PCT 11,Comptroller of Public Accounts,,DEM,Joi Chevalier,100,41,141
-Hood,PCT 12,Comptroller of Public Accounts,,DEM,Joi Chevalier,100,42,142
-Hood,PCT 13,Comptroller of Public Accounts,,DEM,Joi Chevalier,204,74,278
-Hood,PCT 14,Comptroller of Public Accounts,,DEM,Joi Chevalier,159,111,270
-Hood,PCT 15,Comptroller of Public Accounts,,DEM,Joi Chevalier,18,14,32
-Hood,PCT 16,Comptroller of Public Accounts,,DEM,Joi Chevalier,353,100,453
+Hood,PCT 1,Comptroller of Public Accounts,,DEM,Joi Chevalier,121,26,95
+Hood,PCT 2,Comptroller of Public Accounts,,DEM,Joi Chevalier,296,77,219
+Hood,PCT 3,Comptroller of Public Accounts,,DEM,Joi Chevalier,239,63,176
+Hood,PCT 4,Comptroller of Public Accounts,,DEM,Joi Chevalier,213,61,152
+Hood,PCT 5/6,Comptroller of Public Accounts,,DEM,Joi Chevalier,168,70,98
+Hood,PCT 7,Comptroller of Public Accounts,,DEM,Joi Chevalier,49,34,15
+Hood,PCT 8 ,Comptroller of Public Accounts,,DEM,Joi Chevalier,227,59,168
+Hood,PCT 9,Comptroller of Public Accounts,,DEM,Joi Chevalier,331,75,256
+Hood,PCT 10 ,Comptroller of Public Accounts,,DEM,Joi Chevalier,364,105,259
+Hood,PCT 11,Comptroller of Public Accounts,,DEM,Joi Chevalier,141,41,100
+Hood,PCT 12,Comptroller of Public Accounts,,DEM,Joi Chevalier,142,42,100
+Hood,PCT 13,Comptroller of Public Accounts,,DEM,Joi Chevalier,278,74,204
+Hood,PCT 14,Comptroller of Public Accounts,,DEM,Joi Chevalier,270,111,159
+Hood,PCT 15,Comptroller of Public Accounts,,DEM,Joi Chevalier,32,14,18
+Hood,PCT 16,Comptroller of Public Accounts,,DEM,Joi Chevalier,453,100,353
 Hood,ABSENTEE,Comptroller of Public Accounts,,DEM,Joi Chevalier,499,,499
 Hood,PROV,Comptroller of Public Accounts,,DEM,Joi Chevalier,2,,2
-Hood,PCT 1,Comptroller of Public Accounts,,LIB,Ben Sanders,11,9,20
-Hood,PCT 2,Comptroller of Public Accounts,,LIB,Ben Sanders,38,22,60
-Hood,PCT 3,Comptroller of Public Accounts,,LIB,Ben Sanders,19,18,37
-Hood,PCT 4,Comptroller of Public Accounts,,LIB,Ben Sanders,17,12,29
-Hood,PCT 5/6,Comptroller of Public Accounts,,LIB,Ben Sanders,14,18,32
-Hood,PCT 7,Comptroller of Public Accounts,,LIB,Ben Sanders,3,6,9
-Hood,PCT 8 ,Comptroller of Public Accounts,,LIB,Ben Sanders,27,15,42
-Hood,PCT 9,Comptroller of Public Accounts,,LIB,Ben Sanders,40,28,68
-Hood,PCT 10 ,Comptroller of Public Accounts,,LIB,Ben Sanders,30,25,55
-Hood,PCT 11,Comptroller of Public Accounts,,LIB,Ben Sanders,10,14,24
-Hood,PCT 12,Comptroller of Public Accounts,,LIB,Ben Sanders,15,8,23
-Hood,PCT 13,Comptroller of Public Accounts,,LIB,Ben Sanders,34,9,43
-Hood,PCT 14,Comptroller of Public Accounts,,LIB,Ben Sanders,19,14,33
-Hood,PCT 15,Comptroller of Public Accounts,,LIB,Ben Sanders,5,5,10
-Hood,PCT 16,Comptroller of Public Accounts,,LIB,Ben Sanders,44,29,73
+Hood,PCT 1,Comptroller of Public Accounts,,LIB,Ben Sanders,20,9,11
+Hood,PCT 2,Comptroller of Public Accounts,,LIB,Ben Sanders,60,22,38
+Hood,PCT 3,Comptroller of Public Accounts,,LIB,Ben Sanders,37,18,19
+Hood,PCT 4,Comptroller of Public Accounts,,LIB,Ben Sanders,29,12,17
+Hood,PCT 5/6,Comptroller of Public Accounts,,LIB,Ben Sanders,32,18,14
+Hood,PCT 7,Comptroller of Public Accounts,,LIB,Ben Sanders,9,6,3
+Hood,PCT 8 ,Comptroller of Public Accounts,,LIB,Ben Sanders,42,15,27
+Hood,PCT 9,Comptroller of Public Accounts,,LIB,Ben Sanders,68,28,40
+Hood,PCT 10 ,Comptroller of Public Accounts,,LIB,Ben Sanders,55,25,30
+Hood,PCT 11,Comptroller of Public Accounts,,LIB,Ben Sanders,24,14,10
+Hood,PCT 12,Comptroller of Public Accounts,,LIB,Ben Sanders,23,8,15
+Hood,PCT 13,Comptroller of Public Accounts,,LIB,Ben Sanders,43,9,34
+Hood,PCT 14,Comptroller of Public Accounts,,LIB,Ben Sanders,33,14,19
+Hood,PCT 15,Comptroller of Public Accounts,,LIB,Ben Sanders,10,5,5
+Hood,PCT 16,Comptroller of Public Accounts,,LIB,Ben Sanders,73,29,44
 Hood,ABSENTEE,Comptroller of Public Accounts,,LIB,Ben Sanders,44,,44
 Hood,PROV,Comptroller of Public Accounts,,LIB,Ben Sanders,1,,1
-Hood,PCT 1,Commissioner of the General Land Office,,REP,George P. Bush,379,111,490
-Hood,PCT 2,Commissioner of the General Land Office,,REP,George P. Bush,961,347,1308
-Hood,PCT 3,Commissioner of the General Land Office,,REP,George P. Bush,862,315,1177
-Hood,PCT 4,Commissioner of the General Land Office,,REP,George P. Bush,659,255,914
-Hood,PCT 5/6,Commissioner of the General Land Office,,REP,George P. Bush,573,472,1045
-Hood,PCT 7,Commissioner of the General Land Office,,REP,George P. Bush,128,268,396
-Hood,PCT 8 ,Commissioner of the General Land Office,,REP,George P. Bush,944,315,1259
-Hood,PCT 9,Commissioner of the General Land Office,,REP,George P. Bush,1393,524,1917
-Hood,PCT 10 ,Commissioner of the General Land Office,,REP,George P. Bush,1553,748,2301
-Hood,PCT 11,Commissioner of the General Land Office,,REP,George P. Bush,461,208,669
-Hood,PCT 12,Commissioner of the General Land Office,,REP,George P. Bush,462,156,618
-Hood,PCT 13,Commissioner of the General Land Office,,REP,George P. Bush,1264,349,1613
-Hood,PCT 14,Commissioner of the General Land Office,,REP,George P. Bush,983,475,1458
-Hood,PCT 15,Commissioner of the General Land Office,,REP,George P. Bush,91,70,161
-Hood,PCT 16,Commissioner of the General Land Office,,REP,George P. Bush,2107,920,3027
+Hood,PCT 1,Commissioner of the General Land Office,,REP,George P. Bush,490,111,379
+Hood,PCT 2,Commissioner of the General Land Office,,REP,George P. Bush,1308,347,961
+Hood,PCT 3,Commissioner of the General Land Office,,REP,George P. Bush,1177,315,862
+Hood,PCT 4,Commissioner of the General Land Office,,REP,George P. Bush,914,255,659
+Hood,PCT 5/6,Commissioner of the General Land Office,,REP,George P. Bush,1045,472,573
+Hood,PCT 7,Commissioner of the General Land Office,,REP,George P. Bush,396,268,128
+Hood,PCT 8 ,Commissioner of the General Land Office,,REP,George P. Bush,1259,315,944
+Hood,PCT 9,Commissioner of the General Land Office,,REP,George P. Bush,1917,524,1393
+Hood,PCT 10 ,Commissioner of the General Land Office,,REP,George P. Bush,2301,748,1553
+Hood,PCT 11,Commissioner of the General Land Office,,REP,George P. Bush,669,208,461
+Hood,PCT 12,Commissioner of the General Land Office,,REP,George P. Bush,618,156,462
+Hood,PCT 13,Commissioner of the General Land Office,,REP,George P. Bush,1613,349,1264
+Hood,PCT 14,Commissioner of the General Land Office,,REP,George P. Bush,1458,475,983
+Hood,PCT 15,Commissioner of the General Land Office,,REP,George P. Bush,161,70,91
+Hood,PCT 16,Commissioner of the General Land Office,,REP,George P. Bush,3027,920,2107
 Hood,ABSENTEE,Commissioner of the General Land Office,,REP,George P. Bush,1825,,1825
 Hood,PROV,Commissioner of the General Land Office,,REP,George P. Bush,11,,11
-Hood,PCT 1,Commissioner of the General Land Office,,DEM,Miguel Suazo,94,29,123
-Hood,PCT 2,Commissioner of the General Land Office,,DEM,Miguel Suazo,204,70,274
-Hood,PCT 3,Commissioner of the General Land Office,,DEM,Miguel Suazo,170,61,231
-Hood,PCT 4,Commissioner of the General Land Office,,DEM,Miguel Suazo,150,61,211
-Hood,PCT 5/6,Commissioner of the General Land Office,,DEM,Miguel Suazo,92,69,161
-Hood,PCT 7,Commissioner of the General Land Office,,DEM,Miguel Suazo,15,34,49
-Hood,PCT 8 ,Commissioner of the General Land Office,,DEM,Miguel Suazo,163,56,219
-Hood,PCT 9,Commissioner of the General Land Office,,DEM,Miguel Suazo,261,77,338
-Hood,PCT 10 ,Commissioner of the General Land Office,,DEM,Miguel Suazo,247,97,344
-Hood,PCT 11,Commissioner of the General Land Office,,DEM,Miguel Suazo,89,40,129
-Hood,PCT 12,Commissioner of the General Land Office,,DEM,Miguel Suazo,97,38,135
-Hood,PCT 13,Commissioner of the General Land Office,,DEM,Miguel Suazo,191,73,264
-Hood,PCT 14,Commissioner of the General Land Office,,DEM,Miguel Suazo,161,106,267
-Hood,PCT 15,Commissioner of the General Land Office,,DEM,Miguel Suazo,20,15,35
-Hood,PCT 16,Commissioner of the General Land Office,,DEM,Miguel Suazo,344,92,436
+Hood,PCT 1,Commissioner of the General Land Office,,DEM,Miguel Suazo,123,29,94
+Hood,PCT 2,Commissioner of the General Land Office,,DEM,Miguel Suazo,274,70,204
+Hood,PCT 3,Commissioner of the General Land Office,,DEM,Miguel Suazo,231,61,170
+Hood,PCT 4,Commissioner of the General Land Office,,DEM,Miguel Suazo,211,61,150
+Hood,PCT 5/6,Commissioner of the General Land Office,,DEM,Miguel Suazo,161,69,92
+Hood,PCT 7,Commissioner of the General Land Office,,DEM,Miguel Suazo,49,34,15
+Hood,PCT 8 ,Commissioner of the General Land Office,,DEM,Miguel Suazo,219,56,163
+Hood,PCT 9,Commissioner of the General Land Office,,DEM,Miguel Suazo,338,77,261
+Hood,PCT 10 ,Commissioner of the General Land Office,,DEM,Miguel Suazo,344,97,247
+Hood,PCT 11,Commissioner of the General Land Office,,DEM,Miguel Suazo,129,40,89
+Hood,PCT 12,Commissioner of the General Land Office,,DEM,Miguel Suazo,135,38,97
+Hood,PCT 13,Commissioner of the General Land Office,,DEM,Miguel Suazo,264,73,191
+Hood,PCT 14,Commissioner of the General Land Office,,DEM,Miguel Suazo,267,106,161
+Hood,PCT 15,Commissioner of the General Land Office,,DEM,Miguel Suazo,35,15,20
+Hood,PCT 16,Commissioner of the General Land Office,,DEM,Miguel Suazo,436,92,344
 Hood,ABSENTEE,Commissioner of the General Land Office,,DEM,Miguel Suazo,504,,504
 Hood,PROV,Commissioner of the General Land Office,,DEM,Miguel Suazo,2,,2
-Hood,PCT 1,Commissioner of the General Land Office,,LIB,Matt Pina,24,4,28
-Hood,PCT 2,Commissioner of the General Land Office,,LIB,Matt Pina,56,23,79
-Hood,PCT 3,Commissioner of the General Land Office,,LIB,Matt Pina,38,18,56
-Hood,PCT 4,Commissioner of the General Land Office,,LIB,Matt Pina,19,14,33
-Hood,PCT 5/6,Commissioner of the General Land Office,,LIB,Matt Pina,24,14,38
-Hood,PCT 7,Commissioner of the General Land Office,,LIB,Matt Pina,4,7,11
-Hood,PCT 8 ,Commissioner of the General Land Office,,LIB,Matt Pina,49,12,61
-Hood,PCT 9,Commissioner of the General Land Office,,LIB,Matt Pina,58,35,93
-Hood,PCT 10 ,Commissioner of the General Land Office,,LIB,Matt Pina,43,35,78
-Hood,PCT 11,Commissioner of the General Land Office,,LIB,Matt Pina,15,10,25
-Hood,PCT 12,Commissioner of the General Land Office,,LIB,Matt Pina,22,10,32
-Hood,PCT 13,Commissioner of the General Land Office,,LIB,Matt Pina,36,13,49
-Hood,PCT 14,Commissioner of the General Land Office,,LIB,Matt Pina,30,17,47
-Hood,PCT 15,Commissioner of the General Land Office,,LIB,Matt Pina,5,5,10
-Hood,PCT 16,Commissioner of the General Land Office,,LIB,Matt Pina,72,26,98
+Hood,PCT 1,Commissioner of the General Land Office,,LIB,Matt Pina,28,4,24
+Hood,PCT 2,Commissioner of the General Land Office,,LIB,Matt Pina,79,23,56
+Hood,PCT 3,Commissioner of the General Land Office,,LIB,Matt Pina,56,18,38
+Hood,PCT 4,Commissioner of the General Land Office,,LIB,Matt Pina,33,14,19
+Hood,PCT 5/6,Commissioner of the General Land Office,,LIB,Matt Pina,38,14,24
+Hood,PCT 7,Commissioner of the General Land Office,,LIB,Matt Pina,11,7,4
+Hood,PCT 8 ,Commissioner of the General Land Office,,LIB,Matt Pina,61,12,49
+Hood,PCT 9,Commissioner of the General Land Office,,LIB,Matt Pina,93,35,58
+Hood,PCT 10 ,Commissioner of the General Land Office,,LIB,Matt Pina,78,35,43
+Hood,PCT 11,Commissioner of the General Land Office,,LIB,Matt Pina,25,10,15
+Hood,PCT 12,Commissioner of the General Land Office,,LIB,Matt Pina,32,10,22
+Hood,PCT 13,Commissioner of the General Land Office,,LIB,Matt Pina,49,13,36
+Hood,PCT 14,Commissioner of the General Land Office,,LIB,Matt Pina,47,17,30
+Hood,PCT 15,Commissioner of the General Land Office,,LIB,Matt Pina,10,5,5
+Hood,PCT 16,Commissioner of the General Land Office,,LIB,Matt Pina,98,26,72
 Hood,ABSENTEE,Commissioner of the General Land Office,,LIB,Matt Pina,56,,56
 Hood,PROV,Commissioner of the General Land Office,,LIB,Matt Pina,2,,2
-Hood,PCT 1,Commissioner of Agriculture,,REP,Sid Miller,385,113,498
-Hood,PCT 2,Commissioner of Agriculture,,REP,Sid Miller,940,347,1287
-Hood,PCT 3,Commissioner of Agriculture,,REP,Sid Miller,863,303,1166
-Hood,PCT 4,Commissioner of Agriculture,,REP,Sid Miller,648,252,900
-Hood,PCT 5/6,Commissioner of Agriculture,,REP,Sid Miller,571,461,1032
-Hood,PCT 7,Commissioner of Agriculture,,REP,Sid Miller,130,265,395
-Hood,PCT 8 ,Commissioner of Agriculture,,REP,Sid Miller,945,300,1245
-Hood,PCT 9,Commissioner of Agriculture,,REP,Sid Miller,1376,525,1901
-Hood,PCT 10 ,Commissioner of Agriculture,,REP,Sid Miller,1523,732,2255
-Hood,PCT 11,Commissioner of Agriculture,,REP,Sid Miller,450,202,652
-Hood,PCT 12,Commissioner of Agriculture,,REP,Sid Miller,462,155,617
-Hood,PCT 13,Commissioner of Agriculture,,REP,Sid Miller,1233,344,1577
-Hood,PCT 14,Commissioner of Agriculture,,REP,Sid Miller,966,457,1423
-Hood,PCT 15,Commissioner of Agriculture,,REP,Sid Miller,92,71,163
-Hood,PCT 16,Commissioner of Agriculture,,REP,Sid Miller,2080,883,2963
+Hood,PCT 1,Commissioner of Agriculture,,REP,Sid Miller,498,113,385
+Hood,PCT 2,Commissioner of Agriculture,,REP,Sid Miller,1287,347,940
+Hood,PCT 3,Commissioner of Agriculture,,REP,Sid Miller,1166,303,863
+Hood,PCT 4,Commissioner of Agriculture,,REP,Sid Miller,900,252,648
+Hood,PCT 5/6,Commissioner of Agriculture,,REP,Sid Miller,1032,461,571
+Hood,PCT 7,Commissioner of Agriculture,,REP,Sid Miller,395,265,130
+Hood,PCT 8 ,Commissioner of Agriculture,,REP,Sid Miller,1245,300,945
+Hood,PCT 9,Commissioner of Agriculture,,REP,Sid Miller,1901,525,1376
+Hood,PCT 10 ,Commissioner of Agriculture,,REP,Sid Miller,2255,732,1523
+Hood,PCT 11,Commissioner of Agriculture,,REP,Sid Miller,652,202,450
+Hood,PCT 12,Commissioner of Agriculture,,REP,Sid Miller,617,155,462
+Hood,PCT 13,Commissioner of Agriculture,,REP,Sid Miller,1577,344,1233
+Hood,PCT 14,Commissioner of Agriculture,,REP,Sid Miller,1423,457,966
+Hood,PCT 15,Commissioner of Agriculture,,REP,Sid Miller,163,71,92
+Hood,PCT 16,Commissioner of Agriculture,,REP,Sid Miller,2963,883,2080
 Hood,ABSENTEE,Commissioner of Agriculture,,REP,Sid Miller,1768,,1768
 Hood,PROV,Commissioner of Agriculture,,REP,Sid Miller,12,,12
-Hood,PCT 1,Commissioner of Agriculture,,DEM,Kim Olson,109,27,136
-Hood,PCT 2,Commissioner of Agriculture,,DEM,Kim Olson,244,76,320
-Hood,PCT 3,Commissioner of Agriculture,,DEM,Kim Olson,189,71,260
-Hood,PCT 4,Commissioner of Agriculture,,DEM,Kim Olson,169,65,234
-Hood,PCT 5/6,Commissioner of Agriculture,,DEM,Kim Olson,112,80,192
-Hood,PCT 7,Commissioner of Agriculture,,DEM,Kim Olson,16,38,54
-Hood,PCT 8 ,Commissioner of Agriculture,,DEM,Kim Olson,195,65,260
-Hood,PCT 9,Commissioner of Agriculture,,DEM,Kim Olson,296,94,390
-Hood,PCT 10 ,Commissioner of Agriculture,,DEM,Kim Olson,296,123,419
-Hood,PCT 11,Commissioner of Agriculture,,DEM,Kim Olson,109,46,155
-Hood,PCT 12,Commissioner of Agriculture,,DEM,Kim Olson,111,44,155
-Hood,PCT 13,Commissioner of Agriculture,,DEM,Kim Olson,228,84,312
-Hood,PCT 14,Commissioner of Agriculture,,DEM,Kim Olson,183,120,303
-Hood,PCT 15,Commissioner of Agriculture,,DEM,Kim Olson,21,15,36
-Hood,PCT 16,Commissioner of Agriculture,,DEM,Kim Olson,397,127,524
+Hood,PCT 1,Commissioner of Agriculture,,DEM,Kim Olson,136,27,109
+Hood,PCT 2,Commissioner of Agriculture,,DEM,Kim Olson,320,76,244
+Hood,PCT 3,Commissioner of Agriculture,,DEM,Kim Olson,260,71,189
+Hood,PCT 4,Commissioner of Agriculture,,DEM,Kim Olson,234,65,169
+Hood,PCT 5/6,Commissioner of Agriculture,,DEM,Kim Olson,192,80,112
+Hood,PCT 7,Commissioner of Agriculture,,DEM,Kim Olson,54,38,16
+Hood,PCT 8 ,Commissioner of Agriculture,,DEM,Kim Olson,260,65,195
+Hood,PCT 9,Commissioner of Agriculture,,DEM,Kim Olson,390,94,296
+Hood,PCT 10 ,Commissioner of Agriculture,,DEM,Kim Olson,419,123,296
+Hood,PCT 11,Commissioner of Agriculture,,DEM,Kim Olson,155,46,109
+Hood,PCT 12,Commissioner of Agriculture,,DEM,Kim Olson,155,44,111
+Hood,PCT 13,Commissioner of Agriculture,,DEM,Kim Olson,312,84,228
+Hood,PCT 14,Commissioner of Agriculture,,DEM,Kim Olson,303,120,183
+Hood,PCT 15,Commissioner of Agriculture,,DEM,Kim Olson,36,15,21
+Hood,PCT 16,Commissioner of Agriculture,,DEM,Kim Olson,524,127,397
 Hood,ABSENTEE,Commissioner of Agriculture,,DEM,Kim Olson,543,,543
 Hood,PROV,Commissioner of Agriculture,,DEM,Kim Olson,2,,2
-Hood,PCT 1,Commissioner of Agriculture,,LIB,Richard Carpenter,7,3,10
-Hood,PCT 2,Commissioner of Agriculture,,LIB,Richard Carpenter,38,16,54
-Hood,PCT 3,Commissioner of Agriculture,,LIB,Richard Carpenter,19,15,34
-Hood,PCT 4,Commissioner of Agriculture,,LIB,Richard Carpenter,12,11,23
-Hood,PCT 5/6,Commissioner of Agriculture,,LIB,Richard Carpenter,5,14,19
-Hood,PCT 7,Commissioner of Agriculture,,LIB,Richard Carpenter,2,5,7
-Hood,PCT 8 ,Commissioner of Agriculture,,LIB,Richard Carpenter,19,15,34
-Hood,PCT 9,Commissioner of Agriculture,,LIB,Richard Carpenter,40,16,56
-Hood,PCT 10 ,Commissioner of Agriculture,,LIB,Richard Carpenter,26,26,52
-Hood,PCT 11,Commissioner of Agriculture,,LIB,Richard Carpenter,7,10,17
-Hood,PCT 12,Commissioner of Agriculture,,LIB,Richard Carpenter,10,5,15
-Hood,PCT 13,Commissioner of Agriculture,,LIB,Richard Carpenter,23,10,33
-Hood,PCT 14,Commissioner of Agriculture,,LIB,Richard Carpenter,20,14,34
-Hood,PCT 15,Commissioner of Agriculture,,LIB,Richard Carpenter,3,3,6
-Hood,PCT 16,Commissioner of Agriculture,,LIB,Richard Carpenter,34,22,56
+Hood,PCT 1,Commissioner of Agriculture,,LIB,Richard Carpenter,10,3,7
+Hood,PCT 2,Commissioner of Agriculture,,LIB,Richard Carpenter,54,16,38
+Hood,PCT 3,Commissioner of Agriculture,,LIB,Richard Carpenter,34,15,19
+Hood,PCT 4,Commissioner of Agriculture,,LIB,Richard Carpenter,23,11,12
+Hood,PCT 5/6,Commissioner of Agriculture,,LIB,Richard Carpenter,19,14,5
+Hood,PCT 7,Commissioner of Agriculture,,LIB,Richard Carpenter,7,5,2
+Hood,PCT 8 ,Commissioner of Agriculture,,LIB,Richard Carpenter,34,15,19
+Hood,PCT 9,Commissioner of Agriculture,,LIB,Richard Carpenter,56,16,40
+Hood,PCT 10 ,Commissioner of Agriculture,,LIB,Richard Carpenter,52,26,26
+Hood,PCT 11,Commissioner of Agriculture,,LIB,Richard Carpenter,17,10,7
+Hood,PCT 12,Commissioner of Agriculture,,LIB,Richard Carpenter,15,5,10
+Hood,PCT 13,Commissioner of Agriculture,,LIB,Richard Carpenter,33,10,23
+Hood,PCT 14,Commissioner of Agriculture,,LIB,Richard Carpenter,34,14,20
+Hood,PCT 15,Commissioner of Agriculture,,LIB,Richard Carpenter,6,3,3
+Hood,PCT 16,Commissioner of Agriculture,,LIB,Richard Carpenter,56,22,34
 Hood,ABSENTEE,Commissioner of Agriculture,,LIB,Richard Carpenter,32,,32
 Hood,PROV,Commissioner of Agriculture,,LIB,Richard Carpenter,1,,1
-Hood,PCT 1,Railroad Commissioner,,REP,Christi Craddick,386,110,496
-Hood,PCT 2,Railroad Commissioner,,REP,Christi Craddick,955,340,1295
-Hood,PCT 3,Railroad Commissioner,,REP,Christi Craddick,871,316,1187
-Hood,PCT 4,Railroad Commissioner,,REP,Christi Craddick,651,258,909
-Hood,PCT 5/6,Railroad Commissioner,,REP,Christi Craddick,576,465,1041
-Hood,PCT 7,Railroad Commissioner,,REP,Christi Craddick,131,269,400
-Hood,PCT 8 ,Railroad Commissioner,,REP,Christi Craddick,957,302,1259
-Hood,PCT 9,Railroad Commissioner,,REP,Christi Craddick,1402,536,1938
-Hood,PCT 10 ,Railroad Commissioner,,REP,Christi Craddick,1530,728,2258
-Hood,PCT 11,Railroad Commissioner,,REP,Christi Craddick,454,206,660
-Hood,PCT 12,Railroad Commissioner,,REP,Christi Craddick,467,154,621
-Hood,PCT 13,Railroad Commissioner,,REP,Christi Craddick,1260,357,1617
-Hood,PCT 14,Railroad Commissioner,,REP,Christi Craddick,973,463,1436
-Hood,PCT 15,Railroad Commissioner,,REP,Christi Craddick,94,72,166
-Hood,PCT 16,Railroad Commissioner,,REP,Christi Craddick,2109,897,3006
+Hood,PCT 1,Railroad Commissioner,,REP,Christi Craddick,496,110,386
+Hood,PCT 2,Railroad Commissioner,,REP,Christi Craddick,1295,340,955
+Hood,PCT 3,Railroad Commissioner,,REP,Christi Craddick,1187,316,871
+Hood,PCT 4,Railroad Commissioner,,REP,Christi Craddick,909,258,651
+Hood,PCT 5/6,Railroad Commissioner,,REP,Christi Craddick,1041,465,576
+Hood,PCT 7,Railroad Commissioner,,REP,Christi Craddick,400,269,131
+Hood,PCT 8 ,Railroad Commissioner,,REP,Christi Craddick,1259,302,957
+Hood,PCT 9,Railroad Commissioner,,REP,Christi Craddick,1938,536,1402
+Hood,PCT 10 ,Railroad Commissioner,,REP,Christi Craddick,2258,728,1530
+Hood,PCT 11,Railroad Commissioner,,REP,Christi Craddick,660,206,454
+Hood,PCT 12,Railroad Commissioner,,REP,Christi Craddick,621,154,467
+Hood,PCT 13,Railroad Commissioner,,REP,Christi Craddick,1617,357,1260
+Hood,PCT 14,Railroad Commissioner,,REP,Christi Craddick,1436,463,973
+Hood,PCT 15,Railroad Commissioner,,REP,Christi Craddick,166,72,94
+Hood,PCT 16,Railroad Commissioner,,REP,Christi Craddick,3006,897,2109
 Hood,ABSENTEE,Railroad Commissioner,,REP,Christi Craddick,1789,,1789
 Hood,PROV,Railroad Commissioner,,REP,Christi Craddick,12,,12
-Hood,PCT 1,Railroad Commissioner,,DEM,Roman McAllen,97,24,121
-Hood,PCT 2,Railroad Commissioner,,DEM,Roman McAllen,231,73,304
-Hood,PCT 3,Railroad Commissioner,,DEM,Roman McAllen,172,63,235
-Hood,PCT 4,Railroad Commissioner,,DEM,Roman McAllen,155,63,218
-Hood,PCT 5/6,Railroad Commissioner,,DEM,Roman McAllen,95,71,166
-Hood,PCT 7,Railroad Commissioner,,DEM,Roman McAllen,14,31,45
-Hood,PCT 8 ,Railroad Commissioner,,DEM,Roman McAllen,175,58,233
-Hood,PCT 9,Railroad Commissioner,,DEM,Roman McAllen,264,75,339
-Hood,PCT 10 ,Railroad Commissioner,,DEM,Roman McAllen,265,112,377
-Hood,PCT 11,Railroad Commissioner,,DEM,Roman McAllen,99,40,139
-Hood,PCT 12,Railroad Commissioner,,DEM,Roman McAllen,102,44,146
-Hood,PCT 13,Railroad Commissioner,,DEM,Roman McAllen,203,68,271
-Hood,PCT 14,Railroad Commissioner,,DEM,Roman McAllen,164,107,271
-Hood,PCT 15,Railroad Commissioner,,DEM,Roman McAllen,18,14,32
-Hood,PCT 16,Railroad Commissioner,,DEM,Roman McAllen,360,102,462
+Hood,PCT 1,Railroad Commissioner,,DEM,Roman McAllen,121,24,97
+Hood,PCT 2,Railroad Commissioner,,DEM,Roman McAllen,304,73,231
+Hood,PCT 3,Railroad Commissioner,,DEM,Roman McAllen,235,63,172
+Hood,PCT 4,Railroad Commissioner,,DEM,Roman McAllen,218,63,155
+Hood,PCT 5/6,Railroad Commissioner,,DEM,Roman McAllen,166,71,95
+Hood,PCT 7,Railroad Commissioner,,DEM,Roman McAllen,45,31,14
+Hood,PCT 8 ,Railroad Commissioner,,DEM,Roman McAllen,233,58,175
+Hood,PCT 9,Railroad Commissioner,,DEM,Roman McAllen,339,75,264
+Hood,PCT 10 ,Railroad Commissioner,,DEM,Roman McAllen,377,112,265
+Hood,PCT 11,Railroad Commissioner,,DEM,Roman McAllen,139,40,99
+Hood,PCT 12,Railroad Commissioner,,DEM,Roman McAllen,146,44,102
+Hood,PCT 13,Railroad Commissioner,,DEM,Roman McAllen,271,68,203
+Hood,PCT 14,Railroad Commissioner,,DEM,Roman McAllen,271,107,164
+Hood,PCT 15,Railroad Commissioner,,DEM,Roman McAllen,32,14,18
+Hood,PCT 16,Railroad Commissioner,,DEM,Roman McAllen,462,102,360
 Hood,ABSENTEE,Railroad Commissioner,,DEM,Roman McAllen,508,,508
 Hood,PROV,Railroad Commissioner,,DEM,Roman McAllen,2,,2
-Hood,PCT 1,Railroad Commissioner,,LIB,Mike Wright,17,8,25
-Hood,PCT 2,Railroad Commissioner,,LIB,Mike Wright,31,24,55
-Hood,PCT 3,Railroad Commissioner,,LIB,Mike Wright,28,11,39
-Hood,PCT 4,Railroad Commissioner,,LIB,Mike Wright,18,9,27
-Hood,PCT 5/6,Railroad Commissioner,,LIB,Mike Wright,16,16,32
-Hood,PCT 7,Railroad Commissioner,,LIB,Mike Wright,3,6,9
-Hood,PCT 8 ,Railroad Commissioner,,LIB,Mike Wright,27,21,48
-Hood,PCT 9,Railroad Commissioner,,LIB,Mike Wright,45,23,68
-Hood,PCT 10 ,Railroad Commissioner,,LIB,Mike Wright,38,38,76
-Hood,PCT 11,Railroad Commissioner,,LIB,Mike Wright,9,11,20
-Hood,PCT 12,Railroad Commissioner,,LIB,Mike Wright,13,5,18
-Hood,PCT 13,Railroad Commissioner,,LIB,Mike Wright,24,11,35
-Hood,PCT 14,Railroad Commissioner,,LIB,Mike Wright,29,19,48
-Hood,PCT 15,Railroad Commissioner,,LIB,Mike Wright,4,3,7
-Hood,PCT 16,Railroad Commissioner,,LIB,Mike Wright,41,30,71
+Hood,PCT 1,Railroad Commissioner,,LIB,Mike Wright,25,8,17
+Hood,PCT 2,Railroad Commissioner,,LIB,Mike Wright,55,24,31
+Hood,PCT 3,Railroad Commissioner,,LIB,Mike Wright,39,11,28
+Hood,PCT 4,Railroad Commissioner,,LIB,Mike Wright,27,9,18
+Hood,PCT 5/6,Railroad Commissioner,,LIB,Mike Wright,32,16,16
+Hood,PCT 7,Railroad Commissioner,,LIB,Mike Wright,9,6,3
+Hood,PCT 8 ,Railroad Commissioner,,LIB,Mike Wright,48,21,27
+Hood,PCT 9,Railroad Commissioner,,LIB,Mike Wright,68,23,45
+Hood,PCT 10 ,Railroad Commissioner,,LIB,Mike Wright,76,38,38
+Hood,PCT 11,Railroad Commissioner,,LIB,Mike Wright,20,11,9
+Hood,PCT 12,Railroad Commissioner,,LIB,Mike Wright,18,5,13
+Hood,PCT 13,Railroad Commissioner,,LIB,Mike Wright,35,11,24
+Hood,PCT 14,Railroad Commissioner,,LIB,Mike Wright,48,19,29
+Hood,PCT 15,Railroad Commissioner,,LIB,Mike Wright,7,3,4
+Hood,PCT 16,Railroad Commissioner,,LIB,Mike Wright,71,30,41
 Hood,ABSENTEE,Railroad Commissioner,,LIB,Mike Wright,43,,43
 Hood,PROV,Railroad Commissioner,,LIB,Mike Wright,1,,1
-Hood,PCT 1,State Representative,60,REP,Mike Lang,406,120,526
-Hood,PCT 2,State Representative,60,REP,Mike Lang,1015,387,1402
-Hood,PCT 3,State Representative,60,REP,Mike Lang,907,344,1251
-Hood,PCT 4,State Representative,60,REP,Mike Lang,685,284,969
-Hood,PCT 5/6,State Representative,60,REP,Mike Lang,588,490,1078
-Hood,PCT 7,State Representative,60,REP,Mike Lang,136,278,414
-Hood,PCT 8 ,State Representative,60,REP,Mike Lang,977,330,1307
-Hood,PCT 9,State Representative,60,REP,Mike Lang,1463,570,2033
-Hood,PCT 10 ,State Representative,60,REP,Mike Lang,1582,782,2364
-Hood,PCT 11,State Representative,60,REP,Mike Lang,465,222,687
-Hood,PCT 12,State Representative,60,REP,Mike Lang,477,176,653
-Hood,PCT 13,State Representative,60,REP,Mike Lang,1287,378,1665
-Hood,PCT 14,State Representative,60,REP,Mike Lang,1002,503,1505
-Hood,PCT 15,State Representative,60,REP,Mike Lang,102,80,182
-Hood,PCT 16,State Representative,60,REP,Mike Lang,2158,940,3098
+Hood,PCT 1,State Representative,60,REP,Mike Lang,526,120,406
+Hood,PCT 2,State Representative,60,REP,Mike Lang,1402,387,1015
+Hood,PCT 3,State Representative,60,REP,Mike Lang,1251,344,907
+Hood,PCT 4,State Representative,60,REP,Mike Lang,969,284,685
+Hood,PCT 5/6,State Representative,60,REP,Mike Lang,1078,490,588
+Hood,PCT 7,State Representative,60,REP,Mike Lang,414,278,136
+Hood,PCT 8 ,State Representative,60,REP,Mike Lang,1307,330,977
+Hood,PCT 9,State Representative,60,REP,Mike Lang,2033,570,1463
+Hood,PCT 10 ,State Representative,60,REP,Mike Lang,2364,782,1582
+Hood,PCT 11,State Representative,60,REP,Mike Lang,687,222,465
+Hood,PCT 12,State Representative,60,REP,Mike Lang,653,176,477
+Hood,PCT 13,State Representative,60,REP,Mike Lang,1665,378,1287
+Hood,PCT 14,State Representative,60,REP,Mike Lang,1505,503,1002
+Hood,PCT 15,State Representative,60,REP,Mike Lang,182,80,102
+Hood,PCT 16,State Representative,60,REP,Mike Lang,3098,940,2158
 Hood,ABSENTEE,State Representative,60,REP,Mike Lang,1710,,1710
 Hood,PROV,State Representative,60,REP,Mike Lang,13,,13

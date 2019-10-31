@@ -1,73 +1,73 @@
-county,precinct,office,district,party,candidate,absentee,early_voting,election_day,votes
+county,precinct,office,district,party,candidate,votes,election_day,early_voting,absentee
 Aransas,1,U.S. House,27,IND,Christopher Suprun,0,0,0,0
-Aransas,1,U.S. House,27,LIB,Daniel Tinus,0,1,0,1
+Aransas,1,U.S. House,27,LIB,Daniel Tinus,1,0,1,0
 Aransas,1,U.S. House,27,IND,Judith Cutright,0,0,0,0
-Aransas,1,U.S. House,27,REP,Bech Bruun,3,2,9,14
-Aransas,1,U.S. House,27,DEM,Raul (Roy) Barrera,0,2,0,2
-Aransas,1,U.S. House,27,DEM,Eric Holguin,8,19,23,50
-Aransas,1,U.S. House,27,DEM,Mike Westergren,1,1,0,2
+Aransas,1,U.S. House,27,REP,Bech Bruun,14,9,2,3
+Aransas,1,U.S. House,27,DEM,Raul (Roy) Barrera,2,0,2,0
+Aransas,1,U.S. House,27,DEM,Eric Holguin,50,23,19,8
+Aransas,1,U.S. House,27,DEM,Mike Westergren,2,0,1,1
 Aransas,1,U.S. House,27,REP,Marty Perez,0,0,0,0
-Aransas,1,U.S. House,27,REP,Michael Cloud,14,76,38,128
-Aransas,1,U.S. House,27,,Ballots Cast,26,101,70,197
+Aransas,1,U.S. House,27,REP,Michael Cloud,128,38,76,14
+Aransas,1,U.S. House,27,,Ballots Cast,197,70,101,26
 Aransas,1,U.S. House,27,,Under Votes,0,0,0,0
 Aransas,1,U.S. House,27,,Over Votes,0,0,0,0
-Aransas,1A,U.S. House,27,IND,Christopher Suprun,0,1,0,1
+Aransas,1A,U.S. House,27,IND,Christopher Suprun,1,0,1,0
 Aransas,1A,U.S. House,27,LIB,Daniel Tinus,0,0,0,0
 Aransas,1A,U.S. House,27,IND,Judith Cutright,0,0,0,0
-Aransas,1A,U.S. House,27,REP,Bech Bruun,2,0,3,5
-Aransas,1A,U.S. House,27,DEM,Raul (Roy) Barrera,0,1,2,3
-Aransas,1A,U.S. House,27,DEM,Eric Holguin,2,11,12,25
+Aransas,1A,U.S. House,27,REP,Bech Bruun,5,3,0,2
+Aransas,1A,U.S. House,27,DEM,Raul (Roy) Barrera,3,2,1,0
+Aransas,1A,U.S. House,27,DEM,Eric Holguin,25,12,11,2
 Aransas,1A,U.S. House,27,DEM,Mike Westergren,0,0,0,0
 Aransas,1A,U.S. House,27,REP,Marty Perez,0,0,0,0
-Aransas,1A,U.S. House,27,REP,Michael Cloud,7,29,23,59
-Aransas,1A,U.S. House,27,,Ballots Cast,11,42,40,93
+Aransas,1A,U.S. House,27,REP,Michael Cloud,59,23,29,7
+Aransas,1A,U.S. House,27,,Ballots Cast,93,40,42,11
 Aransas,1A,U.S. House,27,,Under Votes,0,0,0,0
 Aransas,1A,U.S. House,27,,Over Votes,0,0,0,0
 Aransas,2,U.S. House,27,IND,Christopher Suprun,0,0,0,0
 Aransas,2,U.S. House,27,LIB,Daniel Tinus,0,0,0,0
 Aransas,2,U.S. House,27,IND,Judith Cutright,0,0,0,0
-Aransas,2,U.S. House,27,REP,Bech Bruun,13,6,4,23
-Aransas,2,U.S. House,27,DEM,Raul (Roy) Barrera,4,6,4,14
-Aransas,2,U.S. House,27,DEM,Eric Holguin,17,18,15,50
-Aransas,2,U.S. House,27,DEM,Mike Westergren,0,3,0,3
+Aransas,2,U.S. House,27,REP,Bech Bruun,23,4,6,13
+Aransas,2,U.S. House,27,DEM,Raul (Roy) Barrera,14,4,6,4
+Aransas,2,U.S. House,27,DEM,Eric Holguin,50,15,18,17
+Aransas,2,U.S. House,27,DEM,Mike Westergren,3,0,3,0
 Aransas,2,U.S. House,27,REP,Marty Perez,0,0,0,0
-Aransas,2,U.S. House,27,REP,Michael Cloud,29,94,52,175
-Aransas,2,U.S. House,27,,Ballots Cast,63,127,75,265
-Aransas,2,U.S. House,27,,Under Votes,0,1,0,1
+Aransas,2,U.S. House,27,REP,Michael Cloud,175,52,94,29
+Aransas,2,U.S. House,27,,Ballots Cast,265,75,127,63
+Aransas,2,U.S. House,27,,Under Votes,1,0,1,0
 Aransas,2,U.S. House,27,,Over Votes,0,0,0,0
-Aransas,3,U.S. House,27,IND,Christopher Suprun,0,1,0,1
-Aransas,3,U.S. House,27,LIB,Daniel Tinus,0,0,6,6
-Aransas,3,U.S. House,27,IND,Judith Cutright,1,0,1,2
-Aransas,3,U.S. House,27,REP,Bech Bruun,20,26,9,55
-Aransas,3,U.S. House,27,DEM,Raul (Roy) Barrera,6,4,4,14
-Aransas,3,U.S. House,27,DEM,Eric Holguin,18,59,54,131
-Aransas,3,U.S. House,27,DEM,Mike Westergren,0,3,1,4
-Aransas,3,U.S. House,27,REP,Marty Perez,2,1,0,3
-Aransas,3,U.S. House,27,REP,Michael Cloud,75,210,104,389
-Aransas,3,U.S. House,27,,Ballots Cast,122,304,179,605
-Aransas,3,U.S. House,27,,Under Votes,0,1,0,1
+Aransas,3,U.S. House,27,IND,Christopher Suprun,1,0,1,0
+Aransas,3,U.S. House,27,LIB,Daniel Tinus,6,6,0,0
+Aransas,3,U.S. House,27,IND,Judith Cutright,2,1,0,1
+Aransas,3,U.S. House,27,REP,Bech Bruun,55,9,26,20
+Aransas,3,U.S. House,27,DEM,Raul (Roy) Barrera,14,4,4,6
+Aransas,3,U.S. House,27,DEM,Eric Holguin,131,54,59,18
+Aransas,3,U.S. House,27,DEM,Mike Westergren,4,1,3,0
+Aransas,3,U.S. House,27,REP,Marty Perez,3,0,1,2
+Aransas,3,U.S. House,27,REP,Michael Cloud,389,104,210,75
+Aransas,3,U.S. House,27,,Ballots Cast,605,179,304,122
+Aransas,3,U.S. House,27,,Under Votes,1,0,1,0
 Aransas,3,U.S. House,27,,Over Votes,0,0,0,0
 Aransas,4,U.S. House,27,IND,Christopher Suprun,0,0,0,0
-Aransas,4,U.S. House,27,LIB,Daniel Tinus,0,0,1,1
-Aransas,4,U.S. House,27,IND,Judith Cutright,1,3,0,4
-Aransas,4,U.S. House,27,REP,Bech Bruun,17,18,8,43
-Aransas,4,U.S. House,27,DEM,Raul (Roy) Barrera,4,4,1,9
-Aransas,4,U.S. House,27,DEM,Eric Holguin,27,38,45,110
-Aransas,4,U.S. House,27,DEM,Mike Westergren,4,4,0,8
-Aransas,4,U.S. House,27,REP,Marty Perez,0,1,0,1
-Aransas,4,U.S. House,27,REP,Michael Cloud,55,156,89,300
-Aransas,4,U.S. House,27,,Ballots Cast,108,224,144,476
+Aransas,4,U.S. House,27,LIB,Daniel Tinus,1,1,0,0
+Aransas,4,U.S. House,27,IND,Judith Cutright,4,0,3,1
+Aransas,4,U.S. House,27,REP,Bech Bruun,43,8,18,17
+Aransas,4,U.S. House,27,DEM,Raul (Roy) Barrera,9,1,4,4
+Aransas,4,U.S. House,27,DEM,Eric Holguin,110,45,38,27
+Aransas,4,U.S. House,27,DEM,Mike Westergren,8,0,4,4
+Aransas,4,U.S. House,27,REP,Marty Perez,1,0,1,0
+Aransas,4,U.S. House,27,REP,Michael Cloud,300,89,156,55
+Aransas,4,U.S. House,27,,Ballots Cast,476,144,224,108
 Aransas,4,U.S. House,27,,Under Votes,0,0,0,0
 Aransas,4,U.S. House,27,,Over Votes,3,0,0,3
-Aransas,4A,U.S. House,27,IND,Christopher Suprun,0,0,1,1
-Aransas,4A,U.S. House,27,LIB,Daniel Tinus,0,0,1,1
+Aransas,4A,U.S. House,27,IND,Christopher Suprun,1,1,0,0
+Aransas,4A,U.S. House,27,LIB,Daniel Tinus,1,1,0,0
 Aransas,4A,U.S. House,27,IND,Judith Cutright,0,0,0,0
-Aransas,4A,U.S. House,27,REP,Bech Bruun,8,13,5,26
+Aransas,4A,U.S. House,27,REP,Bech Bruun,26,5,13,8
 Aransas,4A,U.S. House,27,DEM,Raul (Roy) Barrera,1,0,0,1
-Aransas,4A,U.S. House,27,DEM,Eric Holguin,6,9,10,25
-Aransas,4A,U.S. House,27,DEM,Mike Westergren,0,1,0,1
+Aransas,4A,U.S. House,27,DEM,Eric Holguin,25,10,9,6
+Aransas,4A,U.S. House,27,DEM,Mike Westergren,1,0,1,0
 Aransas,4A,U.S. House,27,REP,Marty Perez,0,0,0,0
-Aransas,4A,U.S. House,27,REP,Michael Cloud,10,36,48,94
-Aransas,4A,U.S. House,27,,Ballots Cast,25,59,65,149
+Aransas,4A,U.S. House,27,REP,Michael Cloud,94,48,36,10
+Aransas,4A,U.S. House,27,,Ballots Cast,149,65,59,25
 Aransas,4A,U.S. House,27,,Under Votes,0,0,0,0
 Aransas,4A,U.S. House,27,,Over Votes,0,0,0,0

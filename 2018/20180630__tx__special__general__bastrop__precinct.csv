@@ -1,45 +1,45 @@
-county,precinct,office,district,party,candidate,early_voting,election_day,provisional,votes
-Bastrop,POLL 1,Registered Voters,,,,,,,6657
-Bastrop,POLL 2,Registered Voters,,,,,,,2021
-Bastrop,POLL 3,Registered Voters,,,,,,,2399
-Bastrop,POLL 4,Registered Voters,,,,,,,7595
-Bastrop,POLL 1,Ballots Cast,,,,,,,627
-Bastrop,POLL 2,Ballots Cast,,,,,,,193
-Bastrop,POLL 3,Ballots Cast,,,,,,,203
-Bastrop,POLL 4,Ballots Cast,,,,,,,549
+county,precinct,office,district,party,candidate,votes,election_day,early_voting,provisional
+Bastrop,POLL 1,Registered Voters,,,,6657,,,
+Bastrop,POLL 2,Registered Voters,,,,2021,,,
+Bastrop,POLL 3,Registered Voters,,,,2399,,,
+Bastrop,POLL 4,Registered Voters,,,,7595,,,
+Bastrop,POLL 1,Ballots Cast,,,,627,,,
+Bastrop,POLL 2,Ballots Cast,,,,193,,,
+Bastrop,POLL 3,Ballots Cast,,,,203,,,
+Bastrop,POLL 4,Ballots Cast,,,,549,,,
 Bastrop,POLL 1,U.S. House,27,IND,Christpher Suprun,0,0,0,0
 Bastrop,POLL 2,U.S. House,27,IND,Christpher Suprun,0,0,0,0
-Bastrop,POLL 3,U.S. House,27,IND,Christpher Suprun,0,2,0,2
-Bastrop,POLL 4,U.S. House,27,IND,Christpher Suprun,1,3,0,4
-Bastrop,POLL 1,U.S. House,27,LIB,Daniel Tinus,3,0,0,3
+Bastrop,POLL 3,U.S. House,27,IND,Christpher Suprun,2,2,0,0
+Bastrop,POLL 4,U.S. House,27,IND,Christpher Suprun,4,3,1,0
+Bastrop,POLL 1,U.S. House,27,LIB,Daniel Tinus,3,0,3,0
 Bastrop,POLL 2,U.S. House,27,LIB,Daniel Tinus,0,0,0,0
-Bastrop,POLL 3,U.S. House,27,LIB,Daniel Tinus,1,4,0,5
-Bastrop,POLL 4,U.S. House,27,LIB,Daniel Tinus,3,1,0,4
-Bastrop,POLL 1,U.S. House,27,DEM,Eric Holguin,154,117,1,272
-Bastrop,POLL 2,U.S. House,27,DEM,Eric Holguin,26,28,0,54
-Bastrop,POLL 3,U.S. House,27,DEM,Eric Holguin,19,46,0,65
-Bastrop,POLL 4,U.S. House,27,DEM,Eric Holguin,74,128,0,202
-Bastrop,POLL 1,U.S. House,27,DEM,Raul (Roy) Barrera,37,10,0,47
-Bastrop,POLL 2,U.S. House,27,DEM,Raul (Roy) Barrera,3,0,0,3
-Bastrop,POLL 3,U.S. House,27,DEM,Raul (Roy) Barrera,5,5,0,10
-Bastrop,POLL 4,U.S. House,27,DEM,Raul (Roy) Barrera,28,18,1,47
-Bastrop,POLL 1,U.S. House,27,DEM,Mike Westergren,6,2,0,8
-Bastrop,POLL 2,U.S. House,27,DEM,Mike Westergren,2,1,0,3
-Bastrop,POLL 3,U.S. House,27,DEM,Mike Westergren,2,2,0,4
-Bastrop,POLL 4,U.S. House,27,DEM,Mike Westergren,1,5,0,6
-Bastrop,POLL 1,U.S. House,27,REP,Bech Bruun,37,7,0,44
-Bastrop,POLL 2,U.S. House,27,REP,Bech Bruun,8,1,0,9
-Bastrop,POLL 3,U.S. House,27,REP,Bech Bruun,3,3,0,6
-Bastrop,POLL 4,U.S. House,27,REP,Bech Bruun,23,12,0,35
-Bastrop,POLL 1,U.S. House,27,REP,Michael Cloud,168,72,0,240
-Bastrop,POLL 2,U.S. House,27,REP,Michael Cloud,43,77,0,120
-Bastrop,POLL 3,U.S. House,27,REP,Michael Cloud,37,72,1,110
-Bastrop,POLL 4,U.S. House,27,REP,Michael Cloud,82,155,0,237
-Bastrop,POLL 1,U.S. House,27,IND,Judith Cutright,1,1,0,2
-Bastrop,POLL 2,U.S. House,27,IND,Judith Cutright,1,1,0,2
-Bastrop,POLL 3,U.S. House,27,IND,Judith Cutright,1,0,0,1
-Bastrop,POLL 4,U.S. House,27,IND,Judith Cutright,1,1,0,2
-Bastrop,POLL 1,U.S. House,27,IND,Marty Perez,3,1,0,4
-Bastrop,POLL 2,U.S. House,27,IND,Marty Perez,2,0,0,2
+Bastrop,POLL 3,U.S. House,27,LIB,Daniel Tinus,5,4,1,0
+Bastrop,POLL 4,U.S. House,27,LIB,Daniel Tinus,4,1,3,0
+Bastrop,POLL 1,U.S. House,27,DEM,Eric Holguin,272,117,154,1
+Bastrop,POLL 2,U.S. House,27,DEM,Eric Holguin,54,28,26,0
+Bastrop,POLL 3,U.S. House,27,DEM,Eric Holguin,65,46,19,0
+Bastrop,POLL 4,U.S. House,27,DEM,Eric Holguin,202,128,74,0
+Bastrop,POLL 1,U.S. House,27,DEM,Raul (Roy) Barrera,47,10,37,0
+Bastrop,POLL 2,U.S. House,27,DEM,Raul (Roy) Barrera,3,0,3,0
+Bastrop,POLL 3,U.S. House,27,DEM,Raul (Roy) Barrera,10,5,5,0
+Bastrop,POLL 4,U.S. House,27,DEM,Raul (Roy) Barrera,47,18,28,1
+Bastrop,POLL 1,U.S. House,27,DEM,Mike Westergren,8,2,6,0
+Bastrop,POLL 2,U.S. House,27,DEM,Mike Westergren,3,1,2,0
+Bastrop,POLL 3,U.S. House,27,DEM,Mike Westergren,4,2,2,0
+Bastrop,POLL 4,U.S. House,27,DEM,Mike Westergren,6,5,1,0
+Bastrop,POLL 1,U.S. House,27,REP,Bech Bruun,44,7,37,0
+Bastrop,POLL 2,U.S. House,27,REP,Bech Bruun,9,1,8,0
+Bastrop,POLL 3,U.S. House,27,REP,Bech Bruun,6,3,3,0
+Bastrop,POLL 4,U.S. House,27,REP,Bech Bruun,35,12,23,0
+Bastrop,POLL 1,U.S. House,27,REP,Michael Cloud,240,72,168,0
+Bastrop,POLL 2,U.S. House,27,REP,Michael Cloud,120,77,43,0
+Bastrop,POLL 3,U.S. House,27,REP,Michael Cloud,110,72,37,1
+Bastrop,POLL 4,U.S. House,27,REP,Michael Cloud,237,155,82,0
+Bastrop,POLL 1,U.S. House,27,IND,Judith Cutright,2,1,1,0
+Bastrop,POLL 2,U.S. House,27,IND,Judith Cutright,2,1,1,0
+Bastrop,POLL 3,U.S. House,27,IND,Judith Cutright,1,0,1,0
+Bastrop,POLL 4,U.S. House,27,IND,Judith Cutright,2,1,1,0
+Bastrop,POLL 1,U.S. House,27,IND,Marty Perez,4,1,3,0
+Bastrop,POLL 2,U.S. House,27,IND,Marty Perez,2,0,2,0
 Bastrop,POLL 3,U.S. House,27,IND,Marty Perez,0,0,0,0
-Bastrop,POLL 4,U.S. House,27,IND,Marty Perez,3,1,0,4
+Bastrop,POLL 4,U.S. House,27,IND,Marty Perez,4,1,3,0

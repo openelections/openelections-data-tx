@@ -1,7 +1,7 @@
-county,precinct,office,district,party,candidate,early_voting,election_day,votes
+county,precinct,office,district,party,candidate,votes,election_day,early_voting
 Armstrong,101,U.S. Senate,,DEM,Edward Kimbrough,3,0,3
-Armstrong,201,U.S. Senate,,DEM,Edward Kimbrough,0,1,1
-Armstrong,202,U.S. Senate,,DEM,Edward Kimbrough,0,2,2
+Armstrong,201,U.S. Senate,,DEM,Edward Kimbrough,1,1,0
+Armstrong,202,U.S. Senate,,DEM,Edward Kimbrough,2,2,0
 Armstrong,301,U.S. Senate,,DEM,Edward Kimbrough,0,0,0
 Armstrong,303,U.S. Senate,,DEM,Edward Kimbrough,0,0,0
 Armstrong,401,U.S. Senate,,DEM,Edward Kimbrough,0,0,0
@@ -12,7 +12,7 @@ Armstrong,201,U.S. Senate,,DEM,Sema Hernandez,0,0,0
 Armstrong,202,U.S. Senate,,DEM,Sema Hernandez,0,0,0
 Armstrong,301,U.S. Senate,,DEM,Sema Hernandez,0,0,0
 Armstrong,303,U.S. Senate,,DEM,Sema Hernandez,0,0,0
-Armstrong,401,U.S. Senate,,DEM,Sema Hernandez,0,1,1
+Armstrong,401,U.S. Senate,,DEM,Sema Hernandez,1,1,0
 Armstrong,402,U.S. Senate,,DEM,Sema Hernandez,0,0,0
 Armstrong,404,U.S. Senate,,DEM,Sema Hernandez,0,0,0
 Armstrong,101,U.S. Senate,,DEM,Beto O'Rourke,1,0,1
@@ -24,23 +24,23 @@ Armstrong,401,U.S. Senate,,DEM,Beto O'Rourke,0,0,0
 Armstrong,402,U.S. Senate,,DEM,Beto O'Rourke,0,0,0
 Armstrong,404,U.S. Senate,,DEM,Beto O'Rourke,0,0,0
 Armstrong,101,U.S. House,13,DEM,Greg Sagan,4,0,4
-Armstrong,201,U.S. House,13,DEM,Greg Sagan,0,1,1
-Armstrong,202,U.S. House,13,DEM,Greg Sagan,0,2,2
+Armstrong,201,U.S. House,13,DEM,Greg Sagan,1,1,0
+Armstrong,202,U.S. House,13,DEM,Greg Sagan,2,2,0
 Armstrong,301,U.S. House,13,DEM,Greg Sagan,1,0,1
 Armstrong,303,U.S. House,13,DEM,Greg Sagan,0,0,0
-Armstrong,401,U.S. House,13,DEM,Greg Sagan,0,1,1
+Armstrong,401,U.S. House,13,DEM,Greg Sagan,1,1,0
 Armstrong,402,U.S. House,13,DEM,Greg Sagan,0,0,0
 Armstrong,404,U.S. House,13,DEM,Greg Sagan,0,0,0
 Armstrong,101,Governor,,DEM,Jeffrey Payne,3,0,3
 Armstrong,201,Governor,,DEM,Jeffrey Payne,0,0,0
-Armstrong,202,Governor,,DEM,Jeffrey Payne,0,2,2
+Armstrong,202,Governor,,DEM,Jeffrey Payne,2,2,0
 Armstrong,301,Governor,,DEM,Jeffrey Payne,0,0,0
-Armstrong,303,Governor,,DEM,Jeffrey Payne,0,1,1
+Armstrong,303,Governor,,DEM,Jeffrey Payne,1,1,0
 Armstrong,401,Governor,,DEM,Jeffrey Payne,0,0,0
 Armstrong,402,Governor,,DEM,Jeffrey Payne,0,0,0
 Armstrong,404,Governor,,DEM,Jeffrey Payne,0,0,0
 Armstrong,101,Governor,,DEM,Cedric Davis,0,0,0
-Armstrong,201,Governor,,DEM,Cedric Davis,0,1,1
+Armstrong,201,Governor,,DEM,Cedric Davis,1,1,0
 Armstrong,202,Governor,,DEM,Cedric Davis,0,0,0
 Armstrong,301,Governor,,DEM,Cedric Davis,0,0,0
 Armstrong,303,Governor,,DEM,Cedric Davis,0,0,0
@@ -68,35 +68,35 @@ Armstrong,201,Governor,,DEM,Lupe Valdez,0,0,0
 Armstrong,202,Governor,,DEM,Lupe Valdez,0,0,0
 Armstrong,301,Governor,,DEM,Lupe Valdez,0,0,0
 Armstrong,303,Governor,,DEM,Lupe Valdez,0,0,0
-Armstrong,401,Governor,,DEM,Lupe Valdez,0,1,1
+Armstrong,401,Governor,,DEM,Lupe Valdez,1,1,0
 Armstrong,402,Governor,,DEM,Lupe Valdez,0,0,0
 Armstrong,404,Governor,,DEM,Lupe Valdez,0,0,0
 Armstrong,101,Lieutenant Governor,,DEM,Mike Collier,4,0,4
-Armstrong,201,Lieutenant Governor,,DEM,Mike Collier,0,1,1
-Armstrong,202,Lieutenant Governor,,DEM,Mike Collier,0,2,2
+Armstrong,201,Lieutenant Governor,,DEM,Mike Collier,1,1,0
+Armstrong,202,Lieutenant Governor,,DEM,Mike Collier,2,2,0
 Armstrong,301,Lieutenant Governor,,DEM,Mike Collier,1,0,1
-Armstrong,303,Lieutenant Governor,,DEM,Mike Collier,0,1,1
-Armstrong,401,Lieutenant Governor,,DEM,Mike Collier,0,1,1
+Armstrong,303,Lieutenant Governor,,DEM,Mike Collier,1,1,0
+Armstrong,401,Lieutenant Governor,,DEM,Mike Collier,1,1,0
 Armstrong,402,Lieutenant Governor,,DEM,Mike Collier,0,0,0
 Armstrong,404,Lieutenant Governor,,DEM,Mike Collier,0,0,0
 Armstrong,101,Attorney General,,DEM,Justin Nelson,4,0,4
-Armstrong,201,Attorney General,,DEM,Justin Nelson,0,1,1
-Armstrong,202,Attorney General,,DEM,Justin Nelson,0,2,2
+Armstrong,201,Attorney General,,DEM,Justin Nelson,1,1,0
+Armstrong,202,Attorney General,,DEM,Justin Nelson,2,2,0
 Armstrong,301,Attorney General,,DEM,Justin Nelson,1,0,1
 Armstrong,303,Attorney General,,DEM,Justin Nelson,0,0,0
-Armstrong,401,Attorney General,,DEM,Justin Nelson,0,1,1
+Armstrong,401,Attorney General,,DEM,Justin Nelson,1,1,0
 Armstrong,402,Attorney General,,DEM,Justin Nelson,0,0,0
 Armstrong,404,Attorney General,,DEM,Justin Nelson,0,0,0
 Armstrong,101,Comptroller of Public Accounts,,DEM,Joy Chevalier,1,0,1
 Armstrong,201,Comptroller of Public Accounts,,DEM,Joy Chevalier,0,0,0
-Armstrong,202,Comptroller of Public Accounts,,DEM,Joy Chevalier,0,2,2
+Armstrong,202,Comptroller of Public Accounts,,DEM,Joy Chevalier,2,2,0
 Armstrong,301,Comptroller of Public Accounts,,DEM,Joy Chevalier,1,0,1
 Armstrong,303,Comptroller of Public Accounts,,DEM,Joy Chevalier,0,0,0
-Armstrong,401,Comptroller of Public Accounts,,DEM,Joy Chevalier,0,1,1
+Armstrong,401,Comptroller of Public Accounts,,DEM,Joy Chevalier,1,1,0
 Armstrong,402,Comptroller of Public Accounts,,DEM,Joy Chevalier,0,0,0
 Armstrong,404,Comptroller of Public Accounts,,DEM,Joy Chevalier,0,0,0
 Armstrong,101,Comptroller of Public Accounts,,DEM,Tim Mahoney,2,0,2
-Armstrong,201,Comptroller of Public Accounts,,DEM,Tim Mahoney,0,1,1
+Armstrong,201,Comptroller of Public Accounts,,DEM,Tim Mahoney,1,1,0
 Armstrong,202,Comptroller of Public Accounts,,DEM,Tim Mahoney,0,0,0
 Armstrong,301,Comptroller of Public Accounts,,DEM,Tim Mahoney,0,0,0
 Armstrong,303,Comptroller of Public Accounts,,DEM,Tim Mahoney,0,0,0
@@ -107,375 +107,375 @@ Armstrong,101,Comptroller of Public Accounts,,DEM,Under Votes,1,0,1
 Armstrong,201,Comptroller of Public Accounts,,DEM,Under Votes,0,0,0
 Armstrong,202,Comptroller of Public Accounts,,DEM,Under Votes,0,0,0
 Armstrong,301,Comptroller of Public Accounts,,DEM,Under Votes,0,0,0
-Armstrong,303,Comptroller of Public Accounts,,DEM,Under Votes,0,1,1
+Armstrong,303,Comptroller of Public Accounts,,DEM,Under Votes,1,1,0
 Armstrong,401,Comptroller of Public Accounts,,DEM,Under Votes,0,0,0
 Armstrong,402,Comptroller of Public Accounts,,DEM,Under Votes,0,0,0
 Armstrong,404,Comptroller of Public Accounts,,DEM,Under Votes,0,0,0
 Armstrong,101,Commissioner of the General Land Office,,DEM,Miguel Suazo,1,0,1
 Armstrong,201,Commissioner of the General Land Office,,DEM,Miguel Suazo,0,0,0
-Armstrong,202,Commissioner of the General Land Office,,DEM,Miguel Suazo,0,1,1
+Armstrong,202,Commissioner of the General Land Office,,DEM,Miguel Suazo,1,1,0
 Armstrong,301,Commissioner of the General Land Office,,DEM,Miguel Suazo,1,0,1
 Armstrong,303,Commissioner of the General Land Office,,DEM,Miguel Suazo,0,0,0
-Armstrong,401,Commissioner of the General Land Office,,DEM,Miguel Suazo,0,1,1
+Armstrong,401,Commissioner of the General Land Office,,DEM,Miguel Suazo,1,1,0
 Armstrong,402,Commissioner of the General Land Office,,DEM,Miguel Suazo,0,0,0
 Armstrong,404,Commissioner of the General Land Office,,DEM,Miguel Suazo,0,0,0
 Armstrong,101,Commissioner of the General Land Office,,DEM,Tex Morgan,3,0,3
-Armstrong,201,Commissioner of the General Land Office,,DEM,Tex Morgan,0,1,1
-Armstrong,202,Commissioner of the General Land Office,,DEM,Tex Morgan,0,1,1
+Armstrong,201,Commissioner of the General Land Office,,DEM,Tex Morgan,1,1,0
+Armstrong,202,Commissioner of the General Land Office,,DEM,Tex Morgan,1,1,0
 Armstrong,301,Commissioner of the General Land Office,,DEM,Tex Morgan,0,0,0
 Armstrong,303,Commissioner of the General Land Office,,DEM,Tex Morgan,0,0,0
 Armstrong,401,Commissioner of the General Land Office,,DEM,Tex Morgan,0,0,0
 Armstrong,402,Commissioner of the General Land Office,,DEM,Tex Morgan,0,0,0
 Armstrong,404,Commissioner of the General Land Office,,DEM,Tex Morgan,0,0,0
 Armstrong,101,Commissioner of Agriculture,,DEM,Kim Olson,4,0,4
-Armstrong,201,Commissioner of Agriculture,,DEM,Kim Olson,0,1,1
-Armstrong,202,Commissioner of Agriculture,,DEM,Kim Olson,0,2,2
+Armstrong,201,Commissioner of Agriculture,,DEM,Kim Olson,1,1,0
+Armstrong,202,Commissioner of Agriculture,,DEM,Kim Olson,2,2,0
 Armstrong,301,Commissioner of Agriculture,,DEM,Kim Olson,1,0,1
 Armstrong,303,Commissioner of Agriculture,,DEM,Kim Olson,0,0,0
-Armstrong,401,Commissioner of Agriculture,,DEM,Kim Olson,0,1,1
+Armstrong,401,Commissioner of Agriculture,,DEM,Kim Olson,1,1,0
 Armstrong,402,Commissioner of Agriculture,,DEM,Kim Olson,0,0,0
 Armstrong,404,Commissioner of Agriculture,,DEM,Kim Olson,0,0,0
 Armstrong,101,Railroad Commissioner,,DEM,Chris Spellmon,3,0,3
 Armstrong,201,Railroad Commissioner,,DEM,Chris Spellmon,0,0,0
-Armstrong,202,Railroad Commissioner,,DEM,Chris Spellmon,0,2,2
+Armstrong,202,Railroad Commissioner,,DEM,Chris Spellmon,2,2,0
 Armstrong,301,Railroad Commissioner,,DEM,Chris Spellmon,0,0,0
 Armstrong,303,Railroad Commissioner,,DEM,Chris Spellmon,0,0,0
 Armstrong,401,Railroad Commissioner,,DEM,Chris Spellmon,0,0,0
 Armstrong,402,Railroad Commissioner,,DEM,Chris Spellmon,0,0,0
 Armstrong,404,Railroad Commissioner,,DEM,Chris Spellmon,0,0,0
 Armstrong,101,Railroad Commissioner,,DEM,Roman McAllen,1,0,1
-Armstrong,201,Railroad Commissioner,,DEM,Roman McAllen,0,1,1
+Armstrong,201,Railroad Commissioner,,DEM,Roman McAllen,1,1,0
 Armstrong,202,Railroad Commissioner,,DEM,Roman McAllen,0,0,0
 Armstrong,301,Railroad Commissioner,,DEM,Roman McAllen,1,0,1
 Armstrong,303,Railroad Commissioner,,DEM,Roman McAllen,0,0,0
-Armstrong,401,Railroad Commissioner,,DEM,Roman McAllen,0,1,1
+Armstrong,401,Railroad Commissioner,,DEM,Roman McAllen,1,1,0
 Armstrong,402,Railroad Commissioner,,DEM,Roman McAllen,0,0,0
 Armstrong,404,Railroad Commissioner,,DEM,Roman McAllen,0,0,0
 Armstrong,101,State Representative,88,DEM,Ezekiel Barron,3,0,3
-Armstrong,201,State Representative,88,DEM,Ezekiel Barron,0,1,1
-Armstrong,202,State Representative,88,DEM,Ezekiel Barron,0,2,2
+Armstrong,201,State Representative,88,DEM,Ezekiel Barron,1,1,0
+Armstrong,202,State Representative,88,DEM,Ezekiel Barron,2,2,0
 Armstrong,301,State Representative,88,DEM,Ezekiel Barron,1,0,1
 Armstrong,303,State Representative,88,DEM,Ezekiel Barron,0,0,0
-Armstrong,401,State Representative,88,DEM,Ezekiel Barron,0,1,1
+Armstrong,401,State Representative,88,DEM,Ezekiel Barron,1,1,0
 Armstrong,402,State Representative,88,DEM,Ezekiel Barron,0,0,0
 Armstrong,404,State Representative,88,DEM,Ezekiel Barron,0,0,0
 Armstrong,101,State Representative,88,DEM,Under Votes,1,0,1
 Armstrong,201,State Representative,88,DEM,Under Votes,0,0,0
 Armstrong,202,State Representative,88,DEM,Under Votes,0,0,0
 Armstrong,301,State Representative,88,DEM,Under Votes,0,0,0
-Armstrong,303,State Representative,88,DEM,Under Votes,0,1,1
+Armstrong,303,State Representative,88,DEM,Under Votes,1,1,0
 Armstrong,401,State Representative,88,DEM,Under Votes,0,0,0
 Armstrong,402,State Representative,88,DEM,Under Votes,0,0,0
 Armstrong,404,State Representative,88,DEM,Under Votes,0,0,0
-Armstrong,101,U.S. Senate,,REP,Bruce Jacobson Jr.,4,2,6
+Armstrong,101,U.S. Senate,,REP,Bruce Jacobson Jr.,6,2,4
 Armstrong,201,U.S. Senate,,REP,Bruce Jacobson Jr.,4,0,4
 Armstrong,202,U.S. Senate,,REP,Bruce Jacobson Jr.,0,0,0
-Armstrong,301,U.S. Senate,,REP,Bruce Jacobson Jr.,2,3,5
-Armstrong,303,U.S. Senate,,REP,Bruce Jacobson Jr.,0,1,1
-Armstrong,401,U.S. Senate,,REP,Bruce Jacobson Jr.,1,2,3
-Armstrong,402,U.S. Senate,,REP,Bruce Jacobson Jr.,0,1,1
+Armstrong,301,U.S. Senate,,REP,Bruce Jacobson Jr.,5,3,2
+Armstrong,303,U.S. Senate,,REP,Bruce Jacobson Jr.,1,1,0
+Armstrong,401,U.S. Senate,,REP,Bruce Jacobson Jr.,3,2,1
+Armstrong,402,U.S. Senate,,REP,Bruce Jacobson Jr.,1,1,0
 Armstrong,404,U.S. Senate,,REP,Bruce Jacobson Jr.,0,0,0
-Armstrong,101,U.S. Senate,,REP,Mary Miller,6,5,11
-Armstrong,201,U.S. Senate,,REP,Mary Miller,1,2,3
-Armstrong,202,U.S. Senate,,REP,Mary Miller,0,1,1
-Armstrong,301,U.S. Senate,,REP,Mary Miller,1,2,3
+Armstrong,101,U.S. Senate,,REP,Mary Miller,11,5,6
+Armstrong,201,U.S. Senate,,REP,Mary Miller,3,2,1
+Armstrong,202,U.S. Senate,,REP,Mary Miller,1,1,0
+Armstrong,301,U.S. Senate,,REP,Mary Miller,3,2,1
 Armstrong,303,U.S. Senate,,REP,Mary Miller,0,0,0
 Armstrong,401,U.S. Senate,,REP,Mary Miller,4,0,4
-Armstrong,402,U.S. Senate,,REP,Mary Miller,1,4,5
+Armstrong,402,U.S. Senate,,REP,Mary Miller,5,4,1
 Armstrong,404,U.S. Senate,,REP,Mary Miller,0,0,0
-Armstrong,101,U.S. Senate,,REP,Ted Cruz,59,69,128
-Armstrong,201,U.S. Senate,,REP,Ted Cruz,36,38,74
-Armstrong,202,U.S. Senate,,REP,Ted Cruz,11,17,28
-Armstrong,301,U.S. Senate,,REP,Ted Cruz,47,61,108
-Armstrong,303,U.S. Senate,,REP,Ted Cruz,1,17,18
-Armstrong,401,U.S. Senate,,REP,Ted Cruz,45,37,82
-Armstrong,402,U.S. Senate,,REP,Ted Cruz,8,57,65
-Armstrong,404,U.S. Senate,,REP,Ted Cruz,8,5,13
+Armstrong,101,U.S. Senate,,REP,Ted Cruz,128,69,59
+Armstrong,201,U.S. Senate,,REP,Ted Cruz,74,38,36
+Armstrong,202,U.S. Senate,,REP,Ted Cruz,28,17,11
+Armstrong,301,U.S. Senate,,REP,Ted Cruz,108,61,47
+Armstrong,303,U.S. Senate,,REP,Ted Cruz,18,17,1
+Armstrong,401,U.S. Senate,,REP,Ted Cruz,82,37,45
+Armstrong,402,U.S. Senate,,REP,Ted Cruz,65,57,8
+Armstrong,404,U.S. Senate,,REP,Ted Cruz,13,5,8
 Armstrong,101,U.S. Senate,,REP,Stefano de Stefano,1,0,1
 Armstrong,201,U.S. Senate,,REP,Stefano de Stefano,0,0,0
 Armstrong,202,U.S. Senate,,REP,Stefano de Stefano,0,0,0
 Armstrong,301,U.S. Senate,,REP,Stefano de Stefano,2,0,2
-Armstrong,303,U.S. Senate,,REP,Stefano de Stefano,0,1,1
+Armstrong,303,U.S. Senate,,REP,Stefano de Stefano,1,1,0
 Armstrong,401,U.S. Senate,,REP,Stefano de Stefano,0,0,0
-Armstrong,402,U.S. Senate,,REP,Stefano de Stefano,0,1,1
+Armstrong,402,U.S. Senate,,REP,Stefano de Stefano,1,1,0
 Armstrong,404,U.S. Senate,,REP,Stefano de Stefano,0,0,0
 Armstrong,101,U.S. Senate,,REP,Geraldine Sam,2,0,2
 Armstrong,201,U.S. Senate,,REP,Geraldine Sam,2,0,2
-Armstrong,202,U.S. Senate,,REP,Geraldine Sam,0,2,2
-Armstrong,301,U.S. Senate,,REP,Geraldine Sam,0,1,1
+Armstrong,202,U.S. Senate,,REP,Geraldine Sam,2,2,0
+Armstrong,301,U.S. Senate,,REP,Geraldine Sam,1,1,0
 Armstrong,303,U.S. Senate,,REP,Geraldine Sam,0,0,0
 Armstrong,401,U.S. Senate,,REP,Geraldine Sam,0,0,0
 Armstrong,402,U.S. Senate,,REP,Geraldine Sam,0,0,0
 Armstrong,404,U.S. Senate,,REP,Geraldine Sam,0,0,0
-Armstrong,101,U.S. Senate,,REP,Under Votes,2,2,4
-Armstrong,201,U.S. Senate,,REP,Under Votes,3,3,6
-Armstrong,202,U.S. Senate,,REP,Under Votes,2,4,6
-Armstrong,301,U.S. Senate,,REP,Under Votes,5,6,11
+Armstrong,101,U.S. Senate,,REP,Under Votes,4,2,2
+Armstrong,201,U.S. Senate,,REP,Under Votes,6,3,3
+Armstrong,202,U.S. Senate,,REP,Under Votes,6,4,2
+Armstrong,301,U.S. Senate,,REP,Under Votes,11,6,5
 Armstrong,303,U.S. Senate,,REP,Under Votes,0,0,0
-Armstrong,401,U.S. Senate,,REP,Under Votes,2,7,9
-Armstrong,402,U.S. Senate,,REP,Under Votes,1,4,5
+Armstrong,401,U.S. Senate,,REP,Under Votes,9,7,2
+Armstrong,402,U.S. Senate,,REP,Under Votes,5,4,1
 Armstrong,404,U.S. Senate,,REP,Under Votes,0,0,0
-Armstrong,101,U.S. House,13,REP,Mac Thornberry,65,65,130
-Armstrong,201,U.S. House,13,REP,Mac Thornberry,39,37,76
-Armstrong,202,U.S. House,13,REP,Mac Thornberry,8,19,27
-Armstrong,301,U.S. House,13,REP,Mac Thornberry,50,54,104
-Armstrong,303,U.S. House,13,REP,Mac Thornberry,1,16,17
-Armstrong,401,U.S. House,13,REP,Mac Thornberry,44,37,81
-Armstrong,402,U.S. House,13,REP,Mac Thornberry,7,59,66
-Armstrong,404,U.S. House,13,REP,Mac Thornberry,8,5,13
-Armstrong,101,U.S. House,13,REP,Under Votes,9,13,22
-Armstrong,201,U.S. House,13,REP,Under Votes,7,6,13
-Armstrong,202,U.S. House,13,REP,Under Votes,5,5,10
-Armstrong,301,U.S. House,13,REP,Under Votes,7,19,26
-Armstrong,303,U.S. House,13,REP,Under Votes,0,3,3
-Armstrong,401,U.S. House,13,REP,Under Votes,8,9,17
-Armstrong,402,U.S. House,13,REP,Under Votes,3,8,11
+Armstrong,101,U.S. House,13,REP,Mac Thornberry,130,65,65
+Armstrong,201,U.S. House,13,REP,Mac Thornberry,76,37,39
+Armstrong,202,U.S. House,13,REP,Mac Thornberry,27,19,8
+Armstrong,301,U.S. House,13,REP,Mac Thornberry,104,54,50
+Armstrong,303,U.S. House,13,REP,Mac Thornberry,17,16,1
+Armstrong,401,U.S. House,13,REP,Mac Thornberry,81,37,44
+Armstrong,402,U.S. House,13,REP,Mac Thornberry,66,59,7
+Armstrong,404,U.S. House,13,REP,Mac Thornberry,13,5,8
+Armstrong,101,U.S. House,13,REP,Under Votes,22,13,9
+Armstrong,201,U.S. House,13,REP,Under Votes,13,6,7
+Armstrong,202,U.S. House,13,REP,Under Votes,10,5,5
+Armstrong,301,U.S. House,13,REP,Under Votes,26,19,7
+Armstrong,303,U.S. House,13,REP,Under Votes,3,3,0
+Armstrong,401,U.S. House,13,REP,Under Votes,17,9,8
+Armstrong,402,U.S. House,13,REP,Under Votes,11,8,3
 Armstrong,404,U.S. House,13,REP,Under Votes,0,0,0
-Armstrong,101,Governor,,REP,Greg Abbott,61,71,132
-Armstrong,201,Governor,,REP,Greg Abbott,42,34,76
-Armstrong,202,Governor,,REP,Greg Abbott,11,20,31
-Armstrong,301,Governor,,REP,Greg Abbott,49,63,112
-Armstrong,303,Governor,,REP,Greg Abbott,1,14,15
-Armstrong,401,Governor,,REP,Greg Abbott,46,44,90
-Armstrong,402,Governor,,REP,Greg Abbott,8,58,66
-Armstrong,404,Governor,,REP,Greg Abbott,8,5,13
-Armstrong,101,Governor,,REP,Secede Kilgore,1,3,4
-Armstrong,201,Governor,,REP,Secede Kilgore,1,2,3
+Armstrong,101,Governor,,REP,Greg Abbott,132,71,61
+Armstrong,201,Governor,,REP,Greg Abbott,76,34,42
+Armstrong,202,Governor,,REP,Greg Abbott,31,20,11
+Armstrong,301,Governor,,REP,Greg Abbott,112,63,49
+Armstrong,303,Governor,,REP,Greg Abbott,15,14,1
+Armstrong,401,Governor,,REP,Greg Abbott,90,44,46
+Armstrong,402,Governor,,REP,Greg Abbott,66,58,8
+Armstrong,404,Governor,,REP,Greg Abbott,13,5,8
+Armstrong,101,Governor,,REP,Secede Kilgore,4,3,1
+Armstrong,201,Governor,,REP,Secede Kilgore,3,2,1
 Armstrong,202,Governor,,REP,Secede Kilgore,0,0,0
-Armstrong,301,Governor,,REP,Secede Kilgore,3,2,5
-Armstrong,303,Governor,,REP,Secede Kilgore,0,1,1
+Armstrong,301,Governor,,REP,Secede Kilgore,5,2,3
+Armstrong,303,Governor,,REP,Secede Kilgore,1,1,0
 Armstrong,401,Governor,,REP,Secede Kilgore,1,0,1
-Armstrong,402,Governor,,REP,Secede Kilgore,1,3,4
+Armstrong,402,Governor,,REP,Secede Kilgore,4,3,1
 Armstrong,404,Governor,,REP,Secede Kilgore,0,0,0
-Armstrong,101,Governor,,REP,Barbara Krueger,8,1,9
-Armstrong,201,Governor,,REP,Barbara Krueger,2,5,7
-Armstrong,202,Governor,,REP,Barbara Krueger,1,1,2
-Armstrong,301,Governor,,REP,Barbara Krueger,1,2,3
-Armstrong,303,Governor,,REP,Barbara Krueger,0,2,2
+Armstrong,101,Governor,,REP,Barbara Krueger,9,1,8
+Armstrong,201,Governor,,REP,Barbara Krueger,7,5,2
+Armstrong,202,Governor,,REP,Barbara Krueger,2,1,1
+Armstrong,301,Governor,,REP,Barbara Krueger,3,2,1
+Armstrong,303,Governor,,REP,Barbara Krueger,2,2,0
 Armstrong,401,Governor,,REP,Barbara Krueger,1,0,1
-Armstrong,402,Governor,,REP,Barbara Krueger,0,2,2
+Armstrong,402,Governor,,REP,Barbara Krueger,2,2,0
 Armstrong,404,Governor,,REP,Barbara Krueger,0,0,0
-Armstrong,101,Governor,,REP,Under Votes,4,3,7
-Armstrong,201,Governor,,REP,Under Votes,1,2,3
-Armstrong,202,Governor,,REP,Under Votes,1,3,4
-Armstrong,301,Governor,,REP,Under Votes,4,6,10
-Armstrong,303,Governor,,REP,Under Votes,0,2,2
-Armstrong,401,Governor,,REP,Under Votes,4,2,6
-Armstrong,402,Governor,,REP,Under Votes,1,4,5
+Armstrong,101,Governor,,REP,Under Votes,7,3,4
+Armstrong,201,Governor,,REP,Under Votes,3,2,1
+Armstrong,202,Governor,,REP,Under Votes,4,3,1
+Armstrong,301,Governor,,REP,Under Votes,10,6,4
+Armstrong,303,Governor,,REP,Under Votes,2,2,0
+Armstrong,401,Governor,,REP,Under Votes,6,2,4
+Armstrong,402,Governor,,REP,Under Votes,5,4,1
 Armstrong,404,Governor,,REP,Under Votes,0,0,0
-Armstrong,101,Lieutenant Governor,,REP,Dan Patrick,46,55,101
-Armstrong,201,Lieutenant Governor,,REP,Dan Patrick,32,29,61
-Armstrong,202,Lieutenant Governor,,REP,Dan Patrick,7,15,22
-Armstrong,301,Lieutenant Governor,,REP,Dan Patrick,36,48,84
-Armstrong,303,Lieutenant Governor,,REP,Dan Patrick,0,12,12
-Armstrong,401,Lieutenant Governor,,REP,Dan Patrick,32,31,63
-Armstrong,402,Lieutenant Governor,,REP,Dan Patrick,8,44,52
-Armstrong,404,Lieutenant Governor,,REP,Dan Patrick,6,4,10
-Armstrong,101,Lieutenant Governor,,REP,Scott Milder,25,20,45
-Armstrong,201,Lieutenant Governor,,REP,Scott Milder,9,8,17
-Armstrong,202,Lieutenant Governor,,REP,Scott Milder,2,4,6
-Armstrong,301,Lieutenant Governor,,REP,Scott Milder,14,14,28
-Armstrong,303,Lieutenant Governor,,REP,Scott Milder,1,6,7
-Armstrong,401,Lieutenant Governor,,REP,Scott Milder,16,12,28
-Armstrong,402,Lieutenant Governor,,REP,Scott Milder,2,13,15
+Armstrong,101,Lieutenant Governor,,REP,Dan Patrick,101,55,46
+Armstrong,201,Lieutenant Governor,,REP,Dan Patrick,61,29,32
+Armstrong,202,Lieutenant Governor,,REP,Dan Patrick,22,15,7
+Armstrong,301,Lieutenant Governor,,REP,Dan Patrick,84,48,36
+Armstrong,303,Lieutenant Governor,,REP,Dan Patrick,12,12,0
+Armstrong,401,Lieutenant Governor,,REP,Dan Patrick,63,31,32
+Armstrong,402,Lieutenant Governor,,REP,Dan Patrick,52,44,8
+Armstrong,404,Lieutenant Governor,,REP,Dan Patrick,10,4,6
+Armstrong,101,Lieutenant Governor,,REP,Scott Milder,45,20,25
+Armstrong,201,Lieutenant Governor,,REP,Scott Milder,17,8,9
+Armstrong,202,Lieutenant Governor,,REP,Scott Milder,6,4,2
+Armstrong,301,Lieutenant Governor,,REP,Scott Milder,28,14,14
+Armstrong,303,Lieutenant Governor,,REP,Scott Milder,7,6,1
+Armstrong,401,Lieutenant Governor,,REP,Scott Milder,28,12,16
+Armstrong,402,Lieutenant Governor,,REP,Scott Milder,15,13,2
 Armstrong,404,Lieutenant Governor,,REP,Scott Milder,2,0,2
-Armstrong,101,Lieutenant Governor,,REP,Under Votes,3,3,6
-Armstrong,201,Lieutenant Governor,,REP,Under Votes,5,6,11
-Armstrong,202,Lieutenant Governor,,REP,Under Votes,4,5,9
-Armstrong,301,Lieutenant Governor,,REP,Under Votes,7,11,18
-Armstrong,303,Lieutenant Governor,,REP,Under Votes,0,1,1
-Armstrong,401,Lieutenant Governor,,REP,Under Votes,4,3,7
-Armstrong,402,Lieutenant Governor,,REP,Under Votes,0,10,10
-Armstrong,404,Lieutenant Governor,,REP,Under Votes,0,1,1
-Armstrong,101,Attorney General,,REP,Ken Paxton,56,70,126
-Armstrong,201,Attorney General,,REP,Ken Paxton,32,32,64
-Armstrong,202,Attorney General,,REP,Ken Paxton,9,16,25
-Armstrong,301,Attorney General,,REP,Ken Paxton,41,55,96
-Armstrong,303,Attorney General,,REP,Ken Paxton,0,14,14
-Armstrong,401,Attorney General,,REP,Ken Paxton,42,38,80
-Armstrong,402,Attorney General,,REP,Ken Paxton,7,52,59
-Armstrong,404,Attorney General,,REP,Ken Paxton,8,5,13
-Armstrong,101,Attorney General,,REP,Under Votes,18,8,26
-Armstrong,201,Attorney General,,REP,Under Votes,14,11,25
-Armstrong,202,Attorney General,,REP,Under Votes,4,8,12
-Armstrong,301,Attorney General,,REP,Under Votes,16,18,34
-Armstrong,303,Attorney General,,REP,Under Votes,1,5,6
-Armstrong,401,Attorney General,,REP,Under Votes,10,8,18
-Armstrong,402,Attorney General,,REP,Under Votes,3,15,18
+Armstrong,101,Lieutenant Governor,,REP,Under Votes,6,3,3
+Armstrong,201,Lieutenant Governor,,REP,Under Votes,11,6,5
+Armstrong,202,Lieutenant Governor,,REP,Under Votes,9,5,4
+Armstrong,301,Lieutenant Governor,,REP,Under Votes,18,11,7
+Armstrong,303,Lieutenant Governor,,REP,Under Votes,1,1,0
+Armstrong,401,Lieutenant Governor,,REP,Under Votes,7,3,4
+Armstrong,402,Lieutenant Governor,,REP,Under Votes,10,10,0
+Armstrong,404,Lieutenant Governor,,REP,Under Votes,1,1,0
+Armstrong,101,Attorney General,,REP,Ken Paxton,126,70,56
+Armstrong,201,Attorney General,,REP,Ken Paxton,64,32,32
+Armstrong,202,Attorney General,,REP,Ken Paxton,25,16,9
+Armstrong,301,Attorney General,,REP,Ken Paxton,96,55,41
+Armstrong,303,Attorney General,,REP,Ken Paxton,14,14,0
+Armstrong,401,Attorney General,,REP,Ken Paxton,80,38,42
+Armstrong,402,Attorney General,,REP,Ken Paxton,59,52,7
+Armstrong,404,Attorney General,,REP,Ken Paxton,13,5,8
+Armstrong,101,Attorney General,,REP,Under Votes,26,8,18
+Armstrong,201,Attorney General,,REP,Under Votes,25,11,14
+Armstrong,202,Attorney General,,REP,Under Votes,12,8,4
+Armstrong,301,Attorney General,,REP,Under Votes,34,18,16
+Armstrong,303,Attorney General,,REP,Under Votes,6,5,1
+Armstrong,401,Attorney General,,REP,Under Votes,18,8,10
+Armstrong,402,Attorney General,,REP,Under Votes,18,15,3
 Armstrong,404,Attorney General,,REP,Under Votes,0,0,0
-Armstrong,101,Comptroller of Public Accounts,,REP,Glenn Hegar,52,65,117
-Armstrong,201,Comptroller of Public Accounts,,REP,Glenn Hegar,33,28,61
-Armstrong,202,Comptroller of Public Accounts,,REP,Glenn Hegar,8,16,24
-Armstrong,301,Comptroller of Public Accounts,,REP,Glenn Hegar,36,52,88
-Armstrong,303,Comptroller of Public Accounts,,REP,Glenn Hegar,0,12,12
-Armstrong,401,Comptroller of Public Accounts,,REP,Glenn Hegar,36,35,71
-Armstrong,402,Comptroller of Public Accounts,,REP,Glenn Hegar,7,50,57
-Armstrong,404,Comptroller of Public Accounts,,REP,Glenn Hegar,8,5,13
-Armstrong,101,Comptroller of Public Accounts,,REP,Under Votes,22,13,35
-Armstrong,201,Comptroller of Public Accounts,,REP,Under Votes,13,15,28
-Armstrong,202,Comptroller of Public Accounts,,REP,Under Votes,5,8,13
-Armstrong,301,Comptroller of Public Accounts,,REP,Under Votes,21,21,42
-Armstrong,303,Comptroller of Public Accounts,,REP,Under Votes,1,7,8
-Armstrong,401,Comptroller of Public Accounts,,REP,Under Votes,16,11,27
-Armstrong,402,Comptroller of Public Accounts,,REP,Under Votes,3,17,20
+Armstrong,101,Comptroller of Public Accounts,,REP,Glenn Hegar,117,65,52
+Armstrong,201,Comptroller of Public Accounts,,REP,Glenn Hegar,61,28,33
+Armstrong,202,Comptroller of Public Accounts,,REP,Glenn Hegar,24,16,8
+Armstrong,301,Comptroller of Public Accounts,,REP,Glenn Hegar,88,52,36
+Armstrong,303,Comptroller of Public Accounts,,REP,Glenn Hegar,12,12,0
+Armstrong,401,Comptroller of Public Accounts,,REP,Glenn Hegar,71,35,36
+Armstrong,402,Comptroller of Public Accounts,,REP,Glenn Hegar,57,50,7
+Armstrong,404,Comptroller of Public Accounts,,REP,Glenn Hegar,13,5,8
+Armstrong,101,Comptroller of Public Accounts,,REP,Under Votes,35,13,22
+Armstrong,201,Comptroller of Public Accounts,,REP,Under Votes,28,15,13
+Armstrong,202,Comptroller of Public Accounts,,REP,Under Votes,13,8,5
+Armstrong,301,Comptroller of Public Accounts,,REP,Under Votes,42,21,21
+Armstrong,303,Comptroller of Public Accounts,,REP,Under Votes,8,7,1
+Armstrong,401,Comptroller of Public Accounts,,REP,Under Votes,27,11,16
+Armstrong,402,Comptroller of Public Accounts,,REP,Under Votes,20,17,3
 Armstrong,404,Comptroller of Public Accounts,,REP,Under Votes,0,0,0
-Armstrong,101,Commissioner of the General Land Office,,REP,Jerry Patterson,19,10,29
-Armstrong,201,Commissioner of the General Land Office,,REP,Jerry Patterson,7,8,15
-Armstrong,202,Commissioner of the General Land Office,,REP,Jerry Patterson,4,6,10
-Armstrong,301,Commissioner of the General Land Office,,REP,Jerry Patterson,9,18,27
-Armstrong,303,Commissioner of the General Land Office,,REP,Jerry Patterson,0,7,7
-Armstrong,401,Commissioner of the General Land Office,,REP,Jerry Patterson,11,5,16
-Armstrong,402,Commissioner of the General Land Office,,REP,Jerry Patterson,4,19,23
-Armstrong,404,Commissioner of the General Land Office,,REP,Jerry Patterson,3,2,5
-Armstrong,101,Commissioner of the General Land Office,,REP,Davey Edward,8,9,17
+Armstrong,101,Commissioner of the General Land Office,,REP,Jerry Patterson,29,10,19
+Armstrong,201,Commissioner of the General Land Office,,REP,Jerry Patterson,15,8,7
+Armstrong,202,Commissioner of the General Land Office,,REP,Jerry Patterson,10,6,4
+Armstrong,301,Commissioner of the General Land Office,,REP,Jerry Patterson,27,18,9
+Armstrong,303,Commissioner of the General Land Office,,REP,Jerry Patterson,7,7,0
+Armstrong,401,Commissioner of the General Land Office,,REP,Jerry Patterson,16,5,11
+Armstrong,402,Commissioner of the General Land Office,,REP,Jerry Patterson,23,19,4
+Armstrong,404,Commissioner of the General Land Office,,REP,Jerry Patterson,5,2,3
+Armstrong,101,Commissioner of the General Land Office,,REP,Davey Edward,17,9,8
 Armstrong,201,Commissioner of the General Land Office,,REP,Davey Edward,5,0,5
 Armstrong,202,Commissioner of the General Land Office,,REP,Davey Edward,0,0,0
-Armstrong,301,Commissioner of the General Land Office,,REP,Davey Edward,8,4,12
+Armstrong,301,Commissioner of the General Land Office,,REP,Davey Edward,12,4,8
 Armstrong,303,Commissioner of the General Land Office,,REP,Davey Edward,0,0,0
-Armstrong,401,Commissioner of the General Land Office,,REP,Davey Edward,5,3,8
-Armstrong,402,Commissioner of the General Land Office,,REP,Davey Edward,2,2,4
+Armstrong,401,Commissioner of the General Land Office,,REP,Davey Edward,8,3,5
+Armstrong,402,Commissioner of the General Land Office,,REP,Davey Edward,4,2,2
 Armstrong,404,Commissioner of the General Land Office,,REP,Davey Edward,0,0,0
-Armstrong,101,Commissioner of the General Land Office,,REP,Rick Range,5,8,13
-Armstrong,201,Commissioner of the General Land Office,,REP,Rick Range,3,2,5
-Armstrong,202,Commissioner of the General Land Office,,REP,Rick Range,2,2,4
-Armstrong,301,Commissioner of the General Land Office,,REP,Rick Range,5,5,10
-Armstrong,303,Commissioner of the General Land Office,,REP,Rick Range,0,1,1
-Armstrong,401,Commissioner of the General Land Office,,REP,Rick Range,2,2,4
-Armstrong,402,Commissioner of the General Land Office,,REP,Rick Range,0,6,6
+Armstrong,101,Commissioner of the General Land Office,,REP,Rick Range,13,8,5
+Armstrong,201,Commissioner of the General Land Office,,REP,Rick Range,5,2,3
+Armstrong,202,Commissioner of the General Land Office,,REP,Rick Range,4,2,2
+Armstrong,301,Commissioner of the General Land Office,,REP,Rick Range,10,5,5
+Armstrong,303,Commissioner of the General Land Office,,REP,Rick Range,1,1,0
+Armstrong,401,Commissioner of the General Land Office,,REP,Rick Range,4,2,2
+Armstrong,402,Commissioner of the General Land Office,,REP,Rick Range,6,6,0
 Armstrong,404,Commissioner of the General Land Office,,REP,Rick Range,0,0,0
-Armstrong,101,Commissioner of the General Land Office,,REP,George P. Bush,32,43,75
-Armstrong,201,Commissioner of the General Land Office,,REP,George P. Bush,23,25,48
-Armstrong,202,Commissioner of the General Land Office,,REP,George P. Bush,5,10,15
-Armstrong,301,Commissioner of the General Land Office,,REP,George P. Bush,23,36,59
-Armstrong,303,Commissioner of the General Land Office,,REP,George P. Bush,1,8,9
-Armstrong,401,Commissioner of the General Land Office,,REP,George P. Bush,30,27,57
-Armstrong,402,Commissioner of the General Land Office,,REP,George P. Bush,4,32,36
-Armstrong,404,Commissioner of the General Land Office,,REP,George P. Bush,5,3,8
-Armstrong,101,Commissioner of the General Land Office,,REP,Under Votes,10,8,18
-Armstrong,201,Commissioner of the General Land Office,,REP,Under Votes,8,8,16
-Armstrong,202,Commissioner of the General Land Office,,REP,Under Votes,2,6,8
-Armstrong,301,Commissioner of the General Land Office,,REP,Under Votes,12,10,22
-Armstrong,303,Commissioner of the General Land Office,,REP,Under Votes,0,3,3
-Armstrong,401,Commissioner of the General Land Office,,REP,Under Votes,4,9,13
-Armstrong,402,Commissioner of the General Land Office,,REP,Under Votes,0,8,8
+Armstrong,101,Commissioner of the General Land Office,,REP,George P. Bush,75,43,32
+Armstrong,201,Commissioner of the General Land Office,,REP,George P. Bush,48,25,23
+Armstrong,202,Commissioner of the General Land Office,,REP,George P. Bush,15,10,5
+Armstrong,301,Commissioner of the General Land Office,,REP,George P. Bush,59,36,23
+Armstrong,303,Commissioner of the General Land Office,,REP,George P. Bush,9,8,1
+Armstrong,401,Commissioner of the General Land Office,,REP,George P. Bush,57,27,30
+Armstrong,402,Commissioner of the General Land Office,,REP,George P. Bush,36,32,4
+Armstrong,404,Commissioner of the General Land Office,,REP,George P. Bush,8,3,5
+Armstrong,101,Commissioner of the General Land Office,,REP,Under Votes,18,8,10
+Armstrong,201,Commissioner of the General Land Office,,REP,Under Votes,16,8,8
+Armstrong,202,Commissioner of the General Land Office,,REP,Under Votes,8,6,2
+Armstrong,301,Commissioner of the General Land Office,,REP,Under Votes,22,10,12
+Armstrong,303,Commissioner of the General Land Office,,REP,Under Votes,3,3,0
+Armstrong,401,Commissioner of the General Land Office,,REP,Under Votes,13,9,4
+Armstrong,402,Commissioner of the General Land Office,,REP,Under Votes,8,8,0
 Armstrong,404,Commissioner of the General Land Office,,REP,Under Votes,0,0,0
-Armstrong,101,Commissioner of Agriculture,,REP,Jim Hogan,16,18,34
-Armstrong,201,Commissioner of Agriculture,,REP,Jim Hogan,7,11,18
-Armstrong,202,Commissioner of Agriculture,,REP,Jim Hogan,0,5,5
-Armstrong,301,Commissioner of Agriculture,,REP,Jim Hogan,8,18,26
-Armstrong,303,Commissioner of Agriculture,,REP,Jim Hogan,0,4,4
-Armstrong,401,Commissioner of Agriculture,,REP,Jim Hogan,9,10,19
-Armstrong,402,Commissioner of Agriculture,,REP,Jim Hogan,4,19,23
+Armstrong,101,Commissioner of Agriculture,,REP,Jim Hogan,34,18,16
+Armstrong,201,Commissioner of Agriculture,,REP,Jim Hogan,18,11,7
+Armstrong,202,Commissioner of Agriculture,,REP,Jim Hogan,5,5,0
+Armstrong,301,Commissioner of Agriculture,,REP,Jim Hogan,26,18,8
+Armstrong,303,Commissioner of Agriculture,,REP,Jim Hogan,4,4,0
+Armstrong,401,Commissioner of Agriculture,,REP,Jim Hogan,19,10,9
+Armstrong,402,Commissioner of Agriculture,,REP,Jim Hogan,23,19,4
 Armstrong,404,Commissioner of Agriculture,,REP,Jim Hogan,1,0,1
-Armstrong,101,Commissioner of Agriculture,,REP,Trey Blocker,16,13,29
-Armstrong,201,Commissioner of Agriculture,,REP,Trey Blocker,10,9,19
-Armstrong,202,Commissioner of Agriculture,,REP,Trey Blocker,1,2,3
-Armstrong,301,Commissioner of Agriculture,,REP,Trey Blocker,19,12,31
-Armstrong,303,Commissioner of Agriculture,,REP,Trey Blocker,0,1,1
-Armstrong,401,Commissioner of Agriculture,,REP,Trey Blocker,7,12,19
-Armstrong,402,Commissioner of Agriculture,,REP,Trey Blocker,2,9,11
+Armstrong,101,Commissioner of Agriculture,,REP,Trey Blocker,29,13,16
+Armstrong,201,Commissioner of Agriculture,,REP,Trey Blocker,19,9,10
+Armstrong,202,Commissioner of Agriculture,,REP,Trey Blocker,3,2,1
+Armstrong,301,Commissioner of Agriculture,,REP,Trey Blocker,31,12,19
+Armstrong,303,Commissioner of Agriculture,,REP,Trey Blocker,1,1,0
+Armstrong,401,Commissioner of Agriculture,,REP,Trey Blocker,19,12,7
+Armstrong,402,Commissioner of Agriculture,,REP,Trey Blocker,11,9,2
 Armstrong,404,Commissioner of Agriculture,,REP,Trey Blocker,1,0,1
-Armstrong,101,Commissioner of Agriculture,,REP,Sid Miller,29,36,65
-Armstrong,201,Commissioner of Agriculture,,REP,Sid Miller,15,12,27
-Armstrong,202,Commissioner of Agriculture,,REP,Sid Miller,10,11,21
-Armstrong,301,Commissioner of Agriculture,,REP,Sid Miller,17,29,46
-Armstrong,303,Commissioner of Agriculture,,REP,Sid Miller,0,11,11
-Armstrong,401,Commissioner of Agriculture,,REP,Sid Miller,26,18,44
-Armstrong,402,Commissioner of Agriculture,,REP,Sid Miller,2,27,29
-Armstrong,404,Commissioner of Agriculture,,REP,Sid Miller,6,5,11
-Armstrong,101,Commissioner of Agriculture,,REP,Under Votes,13,11,24
-Armstrong,201,Commissioner of Agriculture,,REP,Under Votes,14,11,25
-Armstrong,202,Commissioner of Agriculture,,REP,Under Votes,2,6,8
-Armstrong,301,Commissioner of Agriculture,,REP,Under Votes,13,14,27
-Armstrong,303,Commissioner of Agriculture,,REP,Under Votes,1,3,4
-Armstrong,401,Commissioner of Agriculture,,REP,Under Votes,10,6,16
-Armstrong,402,Commissioner of Agriculture,,REP,Under Votes,2,12,14
+Armstrong,101,Commissioner of Agriculture,,REP,Sid Miller,65,36,29
+Armstrong,201,Commissioner of Agriculture,,REP,Sid Miller,27,12,15
+Armstrong,202,Commissioner of Agriculture,,REP,Sid Miller,21,11,10
+Armstrong,301,Commissioner of Agriculture,,REP,Sid Miller,46,29,17
+Armstrong,303,Commissioner of Agriculture,,REP,Sid Miller,11,11,0
+Armstrong,401,Commissioner of Agriculture,,REP,Sid Miller,44,18,26
+Armstrong,402,Commissioner of Agriculture,,REP,Sid Miller,29,27,2
+Armstrong,404,Commissioner of Agriculture,,REP,Sid Miller,11,5,6
+Armstrong,101,Commissioner of Agriculture,,REP,Under Votes,24,11,13
+Armstrong,201,Commissioner of Agriculture,,REP,Under Votes,25,11,14
+Armstrong,202,Commissioner of Agriculture,,REP,Under Votes,8,6,2
+Armstrong,301,Commissioner of Agriculture,,REP,Under Votes,27,14,13
+Armstrong,303,Commissioner of Agriculture,,REP,Under Votes,4,3,1
+Armstrong,401,Commissioner of Agriculture,,REP,Under Votes,16,6,10
+Armstrong,402,Commissioner of Agriculture,,REP,Under Votes,14,12,2
 Armstrong,404,Commissioner of Agriculture,,REP,Under Votes,0,0,0
-Armstrong,101,Railroad Commissioner,,REP,Weston Martinez,27,39,66
-Armstrong,201,Railroad Commissioner,,REP,Weston Martinez,8,13,21
-Armstrong,202,Railroad Commissioner,,REP,Weston Martinez,2,8,10
-Armstrong,301,Railroad Commissioner,,REP,Weston Martinez,13,17,30
-Armstrong,303,Railroad Commissioner,,REP,Weston Martinez,0,1,1
-Armstrong,401,Railroad Commissioner,,REP,Weston Martinez,10,14,24
-Armstrong,402,Railroad Commissioner,,REP,Weston Martinez,2,18,20
-Armstrong,404,Railroad Commissioner,,REP,Weston Martinez,3,1,4
-Armstrong,101,Railroad Commissioner,,REP,Christi Craddick,31,25,56
-Armstrong,201,Railroad Commissioner,,REP,Christi Craddick,25,15,40
-Armstrong,202,Railroad Commissioner,,REP,Christi Craddick,6,8,14
-Armstrong,301,Railroad Commissioner,,REP,Christi Craddick,28,37,65
-Armstrong,303,Railroad Commissioner,,REP,Christi Craddick,0,12,12
-Armstrong,401,Railroad Commissioner,,REP,Christi Craddick,31,24,55
-Armstrong,402,Railroad Commissioner,,REP,Christi Craddick,6,32,38
-Armstrong,404,Railroad Commissioner,,REP,Christi Craddick,5,4,9
-Armstrong,101,Railroad Commissioner,,REP,Under Votes,16,14,30
-Armstrong,201,Railroad Commissioner,,REP,Under Votes,13,15,28
-Armstrong,202,Railroad Commissioner,,REP,Under Votes,5,8,13
-Armstrong,301,Railroad Commissioner,,REP,Under Votes,16,19,35
-Armstrong,303,Railroad Commissioner,,REP,Under Votes,1,6,7
-Armstrong,401,Railroad Commissioner,,REP,Under Votes,11,8,19
-Armstrong,402,Railroad Commissioner,,REP,Under Votes,2,17,19
+Armstrong,101,Railroad Commissioner,,REP,Weston Martinez,66,39,27
+Armstrong,201,Railroad Commissioner,,REP,Weston Martinez,21,13,8
+Armstrong,202,Railroad Commissioner,,REP,Weston Martinez,10,8,2
+Armstrong,301,Railroad Commissioner,,REP,Weston Martinez,30,17,13
+Armstrong,303,Railroad Commissioner,,REP,Weston Martinez,1,1,0
+Armstrong,401,Railroad Commissioner,,REP,Weston Martinez,24,14,10
+Armstrong,402,Railroad Commissioner,,REP,Weston Martinez,20,18,2
+Armstrong,404,Railroad Commissioner,,REP,Weston Martinez,4,1,3
+Armstrong,101,Railroad Commissioner,,REP,Christi Craddick,56,25,31
+Armstrong,201,Railroad Commissioner,,REP,Christi Craddick,40,15,25
+Armstrong,202,Railroad Commissioner,,REP,Christi Craddick,14,8,6
+Armstrong,301,Railroad Commissioner,,REP,Christi Craddick,65,37,28
+Armstrong,303,Railroad Commissioner,,REP,Christi Craddick,12,12,0
+Armstrong,401,Railroad Commissioner,,REP,Christi Craddick,55,24,31
+Armstrong,402,Railroad Commissioner,,REP,Christi Craddick,38,32,6
+Armstrong,404,Railroad Commissioner,,REP,Christi Craddick,9,4,5
+Armstrong,101,Railroad Commissioner,,REP,Under Votes,30,14,16
+Armstrong,201,Railroad Commissioner,,REP,Under Votes,28,15,13
+Armstrong,202,Railroad Commissioner,,REP,Under Votes,13,8,5
+Armstrong,301,Railroad Commissioner,,REP,Under Votes,35,19,16
+Armstrong,303,Railroad Commissioner,,REP,Under Votes,7,6,1
+Armstrong,401,Railroad Commissioner,,REP,Under Votes,19,8,11
+Armstrong,402,Railroad Commissioner,,REP,Under Votes,19,17,2
 Armstrong,404,Railroad Commissioner,,REP,Under Votes,0,0,0
-Armstrong,101,State Senate,31,REP,Victor Leal,16,23,39
-Armstrong,201,State Senate,31,REP,Victor Leal,13,17,30
-Armstrong,202,State Senate,31,REP,Victor Leal,6,7,13
-Armstrong,301,State Senate,31,REP,Victor Leal,26,26,52
-Armstrong,303,State Senate,31,REP,Victor Leal,0,4,4
-Armstrong,401,State Senate,31,REP,Victor Leal,17,16,33
-Armstrong,402,State Senate,31,REP,Victor Leal,5,16,21
+Armstrong,101,State Senate,31,REP,Victor Leal,39,23,16
+Armstrong,201,State Senate,31,REP,Victor Leal,30,17,13
+Armstrong,202,State Senate,31,REP,Victor Leal,13,7,6
+Armstrong,301,State Senate,31,REP,Victor Leal,52,26,26
+Armstrong,303,State Senate,31,REP,Victor Leal,4,4,0
+Armstrong,401,State Senate,31,REP,Victor Leal,33,16,17
+Armstrong,402,State Senate,31,REP,Victor Leal,21,16,5
 Armstrong,404,State Senate,31,REP,Victor Leal,2,0,2
-Armstrong,101,State Senate,31,REP,Mike Cannon,21,26,47
-Armstrong,201,State Senate,31,REP,Mike Cannon,8,7,15
-Armstrong,202,State Senate,31,REP,Mike Cannon,1,5,6
-Armstrong,301,State Senate,31,REP,Mike Cannon,5,21,26
-Armstrong,303,State Senate,31,REP,Mike Cannon,0,4,4
-Armstrong,401,State Senate,31,REP,Mike Cannon,6,15,21
-Armstrong,402,State Senate,31,REP,Mike Cannon,4,12,16
-Armstrong,404,State Senate,31,REP,Mike Cannon,1,3,4
-Armstrong,101,State Senate,31,REP,Kel Seliger,36,26,62
-Armstrong,201,State Senate,31,REP,Kel Seliger,21,16,37
-Armstrong,202,State Senate,31,REP,Kel Seliger,5,12,17
-Armstrong,301,State Senate,31,REP,Kel Seliger,24,25,49
-Armstrong,303,State Senate,31,REP,Kel Seliger,1,9,10
-Armstrong,401,State Senate,31,REP,Kel Seliger,29,15,44
-Armstrong,402,State Senate,31,REP,Kel Seliger,1,36,37
-Armstrong,404,State Senate,31,REP,Kel Seliger,5,2,7
-Armstrong,101,State Senate,31,REP,Under Votes,1,3,4
-Armstrong,201,State Senate,31,REP,Under Votes,4,3,7
+Armstrong,101,State Senate,31,REP,Mike Cannon,47,26,21
+Armstrong,201,State Senate,31,REP,Mike Cannon,15,7,8
+Armstrong,202,State Senate,31,REP,Mike Cannon,6,5,1
+Armstrong,301,State Senate,31,REP,Mike Cannon,26,21,5
+Armstrong,303,State Senate,31,REP,Mike Cannon,4,4,0
+Armstrong,401,State Senate,31,REP,Mike Cannon,21,15,6
+Armstrong,402,State Senate,31,REP,Mike Cannon,16,12,4
+Armstrong,404,State Senate,31,REP,Mike Cannon,4,3,1
+Armstrong,101,State Senate,31,REP,Kel Seliger,62,26,36
+Armstrong,201,State Senate,31,REP,Kel Seliger,37,16,21
+Armstrong,202,State Senate,31,REP,Kel Seliger,17,12,5
+Armstrong,301,State Senate,31,REP,Kel Seliger,49,25,24
+Armstrong,303,State Senate,31,REP,Kel Seliger,10,9,1
+Armstrong,401,State Senate,31,REP,Kel Seliger,44,15,29
+Armstrong,402,State Senate,31,REP,Kel Seliger,37,36,1
+Armstrong,404,State Senate,31,REP,Kel Seliger,7,2,5
+Armstrong,101,State Senate,31,REP,Under Votes,4,3,1
+Armstrong,201,State Senate,31,REP,Under Votes,7,3,4
 Armstrong,202,State Senate,31,REP,Under Votes,1,0,1
-Armstrong,301,State Senate,31,REP,Under Votes,2,1,3
-Armstrong,303,State Senate,31,REP,Under Votes,0,2,2
+Armstrong,301,State Senate,31,REP,Under Votes,3,1,2
+Armstrong,303,State Senate,31,REP,Under Votes,2,2,0
 Armstrong,401,State Senate,31,REP,Under Votes,0,0,0
-Armstrong,402,State Senate,31,REP,Under Votes,0,3,3
+Armstrong,402,State Senate,31,REP,Under Votes,3,3,0
 Armstrong,404,State Senate,31,REP,Under Votes,0,0,0
-Armstrong,101,State Representative,88,REP,Ken King,44,36,80
-Armstrong,201,State Representative,88,REP,Ken King,21,20,41
-Armstrong,202,State Representative,88,REP,Ken King,5,11,16
-Armstrong,301,State Representative,88,REP,Ken King,36,28,64
-Armstrong,303,State Representative,88,REP,Ken King,0,6,6
-Armstrong,401,State Representative,88,REP,Ken King,35,19,54
-Armstrong,402,State Representative,88,REP,Ken King,3,27,30
-Armstrong,404,State Representative,88,REP,Ken King,4,2,6
-Armstrong,101,State Representative,88,REP,Richard Beyea,9,10,19
-Armstrong,201,State Representative,88,REP,Richard Beyea,9,4,13
-Armstrong,202,State Representative,88,REP,Richard Beyea,2,6,8
-Armstrong,301,State Representative,88,REP,Richard Beyea,10,9,19
-Armstrong,303,State Representative,88,REP,Richard Beyea,0,2,2
-Armstrong,401,State Representative,88,REP,Richard Beyea,5,16,21
-Armstrong,402,State Representative,88,REP,Richard Beyea,3,15,18
+Armstrong,101,State Representative,88,REP,Ken King,80,36,44
+Armstrong,201,State Representative,88,REP,Ken King,41,20,21
+Armstrong,202,State Representative,88,REP,Ken King,16,11,5
+Armstrong,301,State Representative,88,REP,Ken King,64,28,36
+Armstrong,303,State Representative,88,REP,Ken King,6,6,0
+Armstrong,401,State Representative,88,REP,Ken King,54,19,35
+Armstrong,402,State Representative,88,REP,Ken King,30,27,3
+Armstrong,404,State Representative,88,REP,Ken King,6,2,4
+Armstrong,101,State Representative,88,REP,Richard Beyea,19,10,9
+Armstrong,201,State Representative,88,REP,Richard Beyea,13,4,9
+Armstrong,202,State Representative,88,REP,Richard Beyea,8,6,2
+Armstrong,301,State Representative,88,REP,Richard Beyea,19,9,10
+Armstrong,303,State Representative,88,REP,Richard Beyea,2,2,0
+Armstrong,401,State Representative,88,REP,Richard Beyea,21,16,5
+Armstrong,402,State Representative,88,REP,Richard Beyea,18,15,3
 Armstrong,404,State Representative,88,REP,Richard Beyea,0,0,0
-Armstrong,101,State Representative,88,REP,Jason Huddleston,15,28,43
-Armstrong,201,State Representative,88,REP,Jason Huddleston,5,11,16
-Armstrong,202,State Representative,88,REP,Jason Huddleston,4,4,8
-Armstrong,301,State Representative,88,REP,Jason Huddleston,6,27,33
-Armstrong,303,State Representative,88,REP,Jason Huddleston,1,8,9
-Armstrong,401,State Representative,88,REP,Jason Huddleston,10,10,20
-Armstrong,402,State Representative,88,REP,Jason Huddleston,4,18,22
-Armstrong,404,State Representative,88,REP,Jason Huddleston,4,3,7
-Armstrong,101,State Representative,88,REP,Under Votes,6,4,10
-Armstrong,201,State Representative,88,REP,Under Votes,11,8,19
-Armstrong,202,State Representative,88,REP,Under Votes,2,3,5
-Armstrong,301,State Representative,88,REP,Under Votes,5,9,14
-Armstrong,303,State Representative,88,REP,Under Votes,0,3,3
-Armstrong,401,State Representative,88,REP,Under Votes,2,1,3
-Armstrong,402,State Representative,88,REP,Under Votes,0,7,7
+Armstrong,101,State Representative,88,REP,Jason Huddleston,43,28,15
+Armstrong,201,State Representative,88,REP,Jason Huddleston,16,11,5
+Armstrong,202,State Representative,88,REP,Jason Huddleston,8,4,4
+Armstrong,301,State Representative,88,REP,Jason Huddleston,33,27,6
+Armstrong,303,State Representative,88,REP,Jason Huddleston,9,8,1
+Armstrong,401,State Representative,88,REP,Jason Huddleston,20,10,10
+Armstrong,402,State Representative,88,REP,Jason Huddleston,22,18,4
+Armstrong,404,State Representative,88,REP,Jason Huddleston,7,3,4
+Armstrong,101,State Representative,88,REP,Under Votes,10,4,6
+Armstrong,201,State Representative,88,REP,Under Votes,19,8,11
+Armstrong,202,State Representative,88,REP,Under Votes,5,3,2
+Armstrong,301,State Representative,88,REP,Under Votes,14,9,5
+Armstrong,303,State Representative,88,REP,Under Votes,3,3,0
+Armstrong,401,State Representative,88,REP,Under Votes,3,1,2
+Armstrong,402,State Representative,88,REP,Under Votes,7,7,0
 Armstrong,404,State Representative,88,REP,Under Votes,0,0,0

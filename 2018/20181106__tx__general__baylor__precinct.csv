@@ -1,129 +1,129 @@
-county,precinct,office,district,party,candidate,early_voting,election_day,votes
-Baylor,1,Ballots Cast,,,,235,119,354
-Baylor,2,Ballots Cast,,,,153,122,275
-Baylor,3,Ballots Cast,,,,175,86,261
-Baylor,4,Ballots Cast,,,,227,126,353
-Baylor,1,Straight Party,,REP,Republican,134,51,185
-Baylor,2,Straight Party,,REP,Republican,90,64,154
-Baylor,3,Straight Party,,REP,Republican,97,50,147
-Baylor,4,Straight Party,,REP,Republican,123,60,183
-Baylor,1,Straight Party,,DEM,Democratic,13,6,19
-Baylor,2,Straight Party,,DEM,Democratic,6,11,17
-Baylor,3,Straight Party,,DEM,Democratic,16,8,24
-Baylor,4,Straight Party,,DEM,Democratic,10,7,17
+county,precinct,office,district,party,candidate,votes,election_day,early_voting
+Baylor,1,Ballots Cast,,,,354,119,235
+Baylor,2,Ballots Cast,,,,275,122,153
+Baylor,3,Ballots Cast,,,,261,86,175
+Baylor,4,Ballots Cast,,,,353,126,227
+Baylor,1,Straight Party,,REP,Republican,185,51,134
+Baylor,2,Straight Party,,REP,Republican,154,64,90
+Baylor,3,Straight Party,,REP,Republican,147,50,97
+Baylor,4,Straight Party,,REP,Republican,183,60,123
+Baylor,1,Straight Party,,DEM,Democratic,19,6,13
+Baylor,2,Straight Party,,DEM,Democratic,17,11,6
+Baylor,3,Straight Party,,DEM,Democratic,24,8,16
+Baylor,4,Straight Party,,DEM,Democratic,17,7,10
 Baylor,1,Straight Party,,LIB,Libertarian,1,0,1
 Baylor,2,Straight Party,,LIB,Libertarian,0,0,0
 Baylor,3,Straight Party,,LIB,Libertarian,1,0,1
 Baylor,4,Straight Party,,LIB,Libertarian,1,0,1
-Baylor,1,U.S. Senate,,REP,Ted Cruz,204,102,306
-Baylor,2,U.S. Senate,,REP,Ted Cruz,139,96,235
-Baylor,3,U.S. Senate,,REP,Ted Cruz,148,73,221
-Baylor,4,U.S. Senate,,REP,Ted Cruz,201,109,310
-Baylor,1,U.S. Senate,,DEM,Beto O'Rourke,28,13,41
-Baylor,2,U.S. Senate,,DEM,Beto O'Rourke,13,24,37
-Baylor,3,U.S. Senate,,DEM,Beto O'Rourke,26,11,37
-Baylor,4,U.S. Senate,,DEM,Beto O'Rourke,24,17,41
-Baylor,1,U.S. Senate,,LIB,Neal M. Dikeman,3,2,5
-Baylor,2,U.S. Senate,,LIB,Neal M. Dikeman,1,1,2
-Baylor,3,U.S. Senate,,LIB,Neal M. Dikeman,0,1,1
+Baylor,1,U.S. Senate,,REP,Ted Cruz,306,102,204
+Baylor,2,U.S. Senate,,REP,Ted Cruz,235,96,139
+Baylor,3,U.S. Senate,,REP,Ted Cruz,221,73,148
+Baylor,4,U.S. Senate,,REP,Ted Cruz,310,109,201
+Baylor,1,U.S. Senate,,DEM,Beto O'Rourke,41,13,28
+Baylor,2,U.S. Senate,,DEM,Beto O'Rourke,37,24,13
+Baylor,3,U.S. Senate,,DEM,Beto O'Rourke,37,11,26
+Baylor,4,U.S. Senate,,DEM,Beto O'Rourke,41,17,24
+Baylor,1,U.S. Senate,,LIB,Neal M. Dikeman,5,2,3
+Baylor,2,U.S. Senate,,LIB,Neal M. Dikeman,2,1,1
+Baylor,3,U.S. Senate,,LIB,Neal M. Dikeman,1,1,0
 Baylor,4,U.S. Senate,,LIB,Neal M. Dikeman,1,0,1
-Baylor,1,U.S. House,13,REP,Mac Thornberry,207,101,308
-Baylor,2,U.S. House,13,REP,Mac Thornberry,136,100,236
-Baylor,3,U.S. House,13,REP,Mac Thornberry,153,73,226
-Baylor,4,U.S. House,13,REP,Mac Thornberry,200,113,313
-Baylor,1,U.S. House,13,DEM,Greg Sagan,21,13,34
-Baylor,2,U.S. House,13,DEM,Greg Sagan,13,21,34
-Baylor,3,U.S. House,13,DEM,Greg Sagan,19,11,30
-Baylor,4,U.S. House,13,DEM,Greg Sagan,22,11,33
-Baylor,1,U.S. House,13,LIB,Calvin DeWeese,6,2,8
-Baylor,2,U.S. House,13,LIB,Calvin DeWeese,2,1,3
-Baylor,3,U.S. House,13,LIB,Calvin DeWeese,2,1,3
+Baylor,1,U.S. House,13,REP,Mac Thornberry,308,101,207
+Baylor,2,U.S. House,13,REP,Mac Thornberry,236,100,136
+Baylor,3,U.S. House,13,REP,Mac Thornberry,226,73,153
+Baylor,4,U.S. House,13,REP,Mac Thornberry,313,113,200
+Baylor,1,U.S. House,13,DEM,Greg Sagan,34,13,21
+Baylor,2,U.S. House,13,DEM,Greg Sagan,34,21,13
+Baylor,3,U.S. House,13,DEM,Greg Sagan,30,11,19
+Baylor,4,U.S. House,13,DEM,Greg Sagan,33,11,22
+Baylor,1,U.S. House,13,LIB,Calvin DeWeese,8,2,6
+Baylor,2,U.S. House,13,LIB,Calvin DeWeese,3,1,2
+Baylor,3,U.S. House,13,LIB,Calvin DeWeese,3,1,2
 Baylor,4,U.S. House,13,LIB,Calvin DeWeese,2,0,2
-Baylor,1,Governor,,REP,Greg Abbott,209,104,313
-Baylor,2,Governor,,REP,Greg Abbott,144,96,240
-Baylor,3,Governor,,REP,Greg Abbott,152,74,226
-Baylor,4,Governor,,REP,Greg Abbott,199,114,313
-Baylor,1,Governor,,DEM,Lupe Valdez,20,12,32
-Baylor,2,Governor,,DEM,Lupe Valdez,9,24,33
-Baylor,3,Governor,,DEM,Lupe Valdez,21,10,31
-Baylor,4,Governor,,DEM,Lupe Valdez,22,11,33
-Baylor,1,Governor,,LIB,Mark Jay Tippetts,6,1,7
-Baylor,2,Governor,,LIB,Mark Jay Tippetts,0,2,2
-Baylor,3,Governor,,LIB,Mark Jay Tippetts,1,1,2
+Baylor,1,Governor,,REP,Greg Abbott,313,104,209
+Baylor,2,Governor,,REP,Greg Abbott,240,96,144
+Baylor,3,Governor,,REP,Greg Abbott,226,74,152
+Baylor,4,Governor,,REP,Greg Abbott,313,114,199
+Baylor,1,Governor,,DEM,Lupe Valdez,32,12,20
+Baylor,2,Governor,,DEM,Lupe Valdez,33,24,9
+Baylor,3,Governor,,DEM,Lupe Valdez,31,10,21
+Baylor,4,Governor,,DEM,Lupe Valdez,33,11,22
+Baylor,1,Governor,,LIB,Mark Jay Tippetts,7,1,6
+Baylor,2,Governor,,LIB,Mark Jay Tippetts,2,2,0
+Baylor,3,Governor,,LIB,Mark Jay Tippetts,2,1,1
 Baylor,4,Governor,,LIB,Mark Jay Tippetts,4,0,4
-Baylor,1,Lieutenant Governor,,REP,Dan Patrick,190,88,278
-Baylor,2,Lieutenant Governor,,REP,Dan Patrick,135,92,227
-Baylor,3,Lieutenant Governor,,REP,Dan Patrick,130,69,199
-Baylor,4,Lieutenant Governor,,REP,Dan Patrick,183,101,284
-Baylor,1,Lieutenant Governor,,DEM,Mike Collier,38,23,61
-Baylor,2,Lieutenant Governor,,DEM,Mike Collier,13,25,38
-Baylor,3,Lieutenant Governor,,DEM,Mike Collier,38,13,51
-Baylor,4,Lieutenant Governor,,DEM,Mike Collier,33,20,53
-Baylor,1,Lieutenant Governor,,LIB,Kerry Douglas McKennon,7,3,10
-Baylor,2,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,1,2
-Baylor,3,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,3,4
+Baylor,1,Lieutenant Governor,,REP,Dan Patrick,278,88,190
+Baylor,2,Lieutenant Governor,,REP,Dan Patrick,227,92,135
+Baylor,3,Lieutenant Governor,,REP,Dan Patrick,199,69,130
+Baylor,4,Lieutenant Governor,,REP,Dan Patrick,284,101,183
+Baylor,1,Lieutenant Governor,,DEM,Mike Collier,61,23,38
+Baylor,2,Lieutenant Governor,,DEM,Mike Collier,38,25,13
+Baylor,3,Lieutenant Governor,,DEM,Mike Collier,51,13,38
+Baylor,4,Lieutenant Governor,,DEM,Mike Collier,53,20,33
+Baylor,1,Lieutenant Governor,,LIB,Kerry Douglas McKennon,10,3,7
+Baylor,2,Lieutenant Governor,,LIB,Kerry Douglas McKennon,2,1,1
+Baylor,3,Lieutenant Governor,,LIB,Kerry Douglas McKennon,4,3,1
 Baylor,4,Lieutenant Governor,,LIB,Kerry Douglas McKennon,7,0,7
-Baylor,1,Attorney General,,REP,Ken Paxton,197,95,292
-Baylor,2,Attorney General,,REP,Ken Paxton,132,92,224
-Baylor,3,Attorney General,,REP,Ken Paxton,138,71,209
-Baylor,4,Attorney General,,REP,Ken Paxton,192,103,295
-Baylor,1,Attorney General,,DEM,Justin Nelson,28,17,45
-Baylor,2,Attorney General,,DEM,Justin Nelson,17,25,42
-Baylor,3,Attorney General,,DEM,Justin Nelson,30,13,43
-Baylor,4,Attorney General,,DEM,Justin Nelson,24,16,40
-Baylor,1,Attorney General,,LIB,Michael Ray Harris,10,3,13
-Baylor,2,Attorney General,,LIB,Michael Ray Harris,2,1,3
-Baylor,3,Attorney General,,LIB,Michael Ray Harris,4,1,5
-Baylor,4,Attorney General,,LIB,Michael Ray Harris,5,2,7
-Baylor,1,Comptroller of Public Accounts,,REP,Glenn Hegar,203,96,299
-Baylor,2,Comptroller of Public Accounts,,REP,Glenn Hegar,135,89,224
-Baylor,3,Comptroller of Public Accounts,,REP,Glenn Hegar,143,72,215
-Baylor,4,Comptroller of Public Accounts,,REP,Glenn Hegar,194,102,296
-Baylor,1,Comptroller of Public Accounts,,DEM,Joi Chevalier,22,13,35
-Baylor,2,Comptroller of Public Accounts,,DEM,Joi Chevalier,10,24,34
-Baylor,3,Comptroller of Public Accounts,,DEM,Joi Chevalier,25,11,36
-Baylor,4,Comptroller of Public Accounts,,DEM,Joi Chevalier,18,11,29
-Baylor,1,Comptroller of Public Accounts,,LIB,Ben Sanders,7,4,11
-Baylor,2,Comptroller of Public Accounts,,LIB,Ben Sanders,3,4,7
-Baylor,3,Comptroller of Public Accounts,,LIB,Ben Sanders,3,2,5
-Baylor,4,Comptroller of Public Accounts,,LIB,Ben Sanders,8,4,12
-Baylor,1,Commissioner of the General Land Office,,REP,George P. Bush,193,92,285
-Baylor,2,Commissioner of the General Land Office,,REP,George P. Bush,133,95,228
-Baylor,3,Commissioner of the General Land Office,,REP,George P. Bush,137,68,205
-Baylor,4,Commissioner of the General Land Office,,REP,George P. Bush,190,102,292
-Baylor,1,Commissioner of the General Land Office,,DEM,Miguel Suazo,25,12,37
-Baylor,2,Commissioner of the General Land Office,,DEM,Miguel Suazo,12,19,31
-Baylor,3,Commissioner of the General Land Office,,DEM,Miguel Suazo,29,13,42
-Baylor,4,Commissioner of the General Land Office,,DEM,Miguel Suazo,22,14,36
-Baylor,1,Commissioner of the General Land Office,,LIB,Matt Pina,15,8,23
-Baylor,2,Commissioner of the General Land Office,,LIB,Matt Pina,6,3,9
-Baylor,3,Commissioner of the General Land Office,,LIB,Matt Pina,5,2,7
-Baylor,4,Commissioner of the General Land Office,,LIB,Matt Pina,7,2,9
-Baylor,1,Commissioner of Agriculture,,REP,Sid Miller,197,90,287
-Baylor,2,Commissioner of Agriculture,,REP,Sid Miller,138,94,232
-Baylor,3,Commissioner of Agriculture,,REP,Sid Miller,145,74,219
-Baylor,4,Commissioner of Agriculture,,REP,Sid Miller,192,106,298
-Baylor,1,Commissioner of Agriculture,,DEM,Kim Olson,28,17,45
-Baylor,2,Commissioner of Agriculture,,DEM,Kim Olson,11,22,33
-Baylor,3,Commissioner of Agriculture,,DEM,Kim Olson,26,11,37
-Baylor,4,Commissioner of Agriculture,,DEM,Kim Olson,25,14,39
-Baylor,1,Commissioner of Agriculture,,LIB,Richard Carpenter,6,5,11
-Baylor,2,Commissioner of Agriculture,,LIB,Richard Carpenter,2,3,5
-Baylor,3,Commissioner of Agriculture,,LIB,Richard Carpenter,2,1,3
-Baylor,4,Commissioner of Agriculture,,LIB,Richard Carpenter,4,1,5
-Baylor,1,Railroad Commissioner,,REP,Christi Craddick,199,95,294
-Baylor,2,Railroad Commissioner,,REP,Christi Craddick,136,88,224
-Baylor,3,Railroad Commissioner,,REP,Christi Craddick,139,72,211
-Baylor,4,Railroad Commissioner,,REP,Christi Craddick,190,105,295
-Baylor,1,Railroad Commissioner,,DEM,Roman McAllen,22,14,36
-Baylor,2,Railroad Commissioner,,DEM,Roman McAllen,11,23,34
-Baylor,3,Railroad Commissioner,,DEM,Roman McAllen,25,10,35
-Baylor,4,Railroad Commissioner,,DEM,Roman McAllen,21,12,33
-Baylor,1,Railroad Commissioner,,LIB,Mike Wright,7,3,10
-Baylor,2,Railroad Commissioner,,LIB,Mike Wright,2,6,8
-Baylor,3,Railroad Commissioner,,LIB,Mike Wright,5,3,8
-Baylor,4,Railroad Commissioner,,LIB,Mike Wright,7,1,8
-Baylor,1,State Representative,69,REP,James Frank,211,108,319
-Baylor,2,State Representative,69,REP,James Frank,137,101,238
-Baylor,3,State Representative,69,REP,James Frank,157,75,232
-Baylor,4,State Representative,69,REP,James Frank,201,109,310
+Baylor,1,Attorney General,,REP,Ken Paxton,292,95,197
+Baylor,2,Attorney General,,REP,Ken Paxton,224,92,132
+Baylor,3,Attorney General,,REP,Ken Paxton,209,71,138
+Baylor,4,Attorney General,,REP,Ken Paxton,295,103,192
+Baylor,1,Attorney General,,DEM,Justin Nelson,45,17,28
+Baylor,2,Attorney General,,DEM,Justin Nelson,42,25,17
+Baylor,3,Attorney General,,DEM,Justin Nelson,43,13,30
+Baylor,4,Attorney General,,DEM,Justin Nelson,40,16,24
+Baylor,1,Attorney General,,LIB,Michael Ray Harris,13,3,10
+Baylor,2,Attorney General,,LIB,Michael Ray Harris,3,1,2
+Baylor,3,Attorney General,,LIB,Michael Ray Harris,5,1,4
+Baylor,4,Attorney General,,LIB,Michael Ray Harris,7,2,5
+Baylor,1,Comptroller of Public Accounts,,REP,Glenn Hegar,299,96,203
+Baylor,2,Comptroller of Public Accounts,,REP,Glenn Hegar,224,89,135
+Baylor,3,Comptroller of Public Accounts,,REP,Glenn Hegar,215,72,143
+Baylor,4,Comptroller of Public Accounts,,REP,Glenn Hegar,296,102,194
+Baylor,1,Comptroller of Public Accounts,,DEM,Joi Chevalier,35,13,22
+Baylor,2,Comptroller of Public Accounts,,DEM,Joi Chevalier,34,24,10
+Baylor,3,Comptroller of Public Accounts,,DEM,Joi Chevalier,36,11,25
+Baylor,4,Comptroller of Public Accounts,,DEM,Joi Chevalier,29,11,18
+Baylor,1,Comptroller of Public Accounts,,LIB,Ben Sanders,11,4,7
+Baylor,2,Comptroller of Public Accounts,,LIB,Ben Sanders,7,4,3
+Baylor,3,Comptroller of Public Accounts,,LIB,Ben Sanders,5,2,3
+Baylor,4,Comptroller of Public Accounts,,LIB,Ben Sanders,12,4,8
+Baylor,1,Commissioner of the General Land Office,,REP,George P. Bush,285,92,193
+Baylor,2,Commissioner of the General Land Office,,REP,George P. Bush,228,95,133
+Baylor,3,Commissioner of the General Land Office,,REP,George P. Bush,205,68,137
+Baylor,4,Commissioner of the General Land Office,,REP,George P. Bush,292,102,190
+Baylor,1,Commissioner of the General Land Office,,DEM,Miguel Suazo,37,12,25
+Baylor,2,Commissioner of the General Land Office,,DEM,Miguel Suazo,31,19,12
+Baylor,3,Commissioner of the General Land Office,,DEM,Miguel Suazo,42,13,29
+Baylor,4,Commissioner of the General Land Office,,DEM,Miguel Suazo,36,14,22
+Baylor,1,Commissioner of the General Land Office,,LIB,Matt Pina,23,8,15
+Baylor,2,Commissioner of the General Land Office,,LIB,Matt Pina,9,3,6
+Baylor,3,Commissioner of the General Land Office,,LIB,Matt Pina,7,2,5
+Baylor,4,Commissioner of the General Land Office,,LIB,Matt Pina,9,2,7
+Baylor,1,Commissioner of Agriculture,,REP,Sid Miller,287,90,197
+Baylor,2,Commissioner of Agriculture,,REP,Sid Miller,232,94,138
+Baylor,3,Commissioner of Agriculture,,REP,Sid Miller,219,74,145
+Baylor,4,Commissioner of Agriculture,,REP,Sid Miller,298,106,192
+Baylor,1,Commissioner of Agriculture,,DEM,Kim Olson,45,17,28
+Baylor,2,Commissioner of Agriculture,,DEM,Kim Olson,33,22,11
+Baylor,3,Commissioner of Agriculture,,DEM,Kim Olson,37,11,26
+Baylor,4,Commissioner of Agriculture,,DEM,Kim Olson,39,14,25
+Baylor,1,Commissioner of Agriculture,,LIB,Richard Carpenter,11,5,6
+Baylor,2,Commissioner of Agriculture,,LIB,Richard Carpenter,5,3,2
+Baylor,3,Commissioner of Agriculture,,LIB,Richard Carpenter,3,1,2
+Baylor,4,Commissioner of Agriculture,,LIB,Richard Carpenter,5,1,4
+Baylor,1,Railroad Commissioner,,REP,Christi Craddick,294,95,199
+Baylor,2,Railroad Commissioner,,REP,Christi Craddick,224,88,136
+Baylor,3,Railroad Commissioner,,REP,Christi Craddick,211,72,139
+Baylor,4,Railroad Commissioner,,REP,Christi Craddick,295,105,190
+Baylor,1,Railroad Commissioner,,DEM,Roman McAllen,36,14,22
+Baylor,2,Railroad Commissioner,,DEM,Roman McAllen,34,23,11
+Baylor,3,Railroad Commissioner,,DEM,Roman McAllen,35,10,25
+Baylor,4,Railroad Commissioner,,DEM,Roman McAllen,33,12,21
+Baylor,1,Railroad Commissioner,,LIB,Mike Wright,10,3,7
+Baylor,2,Railroad Commissioner,,LIB,Mike Wright,8,6,2
+Baylor,3,Railroad Commissioner,,LIB,Mike Wright,8,3,5
+Baylor,4,Railroad Commissioner,,LIB,Mike Wright,8,1,7
+Baylor,1,State Representative,69,REP,James Frank,319,108,211
+Baylor,2,State Representative,69,REP,James Frank,238,101,137
+Baylor,3,State Representative,69,REP,James Frank,232,75,157
+Baylor,4,State Representative,69,REP,James Frank,310,109,201

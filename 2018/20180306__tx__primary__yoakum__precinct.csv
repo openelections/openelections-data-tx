@@ -1,14 +1,14 @@
-county,precinct,office,district,party,candidate,early_voting,election_day,votes
+county,precinct,office,district,party,candidate,votes,election_day,early_voting
 Yoakum,101,U.S. Senate,,DEM,Sema Hernandez,0,0,0
 Yoakum,202,U.S. Senate,,DEM,Sema Hernandez,0,0,0
 Yoakum,303,U.S. Senate,,DEM,Sema Hernandez,0,0,0
 Yoakum,404,U.S. Senate,,DEM,Sema Hernandez,0,0,0
 Yoakum,305,U.S. Senate,,DEM,Sema Hernandez,1,0,1
 Yoakum,406,U.S. Senate,,DEM,Sema Hernandez,0,0,0
-Yoakum,101,U.S. Senate,,DEM,Beto O'Rourke,3,1,4
-Yoakum,202,U.S. Senate,,DEM,Beto O'Rourke,0,2,2
+Yoakum,101,U.S. Senate,,DEM,Beto O'Rourke,4,1,3
+Yoakum,202,U.S. Senate,,DEM,Beto O'Rourke,2,2,0
 Yoakum,303,U.S. Senate,,DEM,Beto O'Rourke,2,0,2
-Yoakum,404,U.S. Senate,,DEM,Beto O'Rourke,1,2,3
+Yoakum,404,U.S. Senate,,DEM,Beto O'Rourke,3,2,1
 Yoakum,305,U.S. Senate,,DEM,Beto O'Rourke,2,0,2
 Yoakum,406,U.S. Senate,,DEM,Beto O'Rourke,0,0,0
 Yoakum,101,U.S. Senate,,DEM,Edward Kimbrough,0,0,0
@@ -17,10 +17,10 @@ Yoakum,303,U.S. Senate,,DEM,Edward Kimbrough,1,0,1
 Yoakum,404,U.S. Senate,,DEM,Edward Kimbrough,0,0,0
 Yoakum,305,U.S. Senate,,DEM,Edward Kimbrough,0,0,0
 Yoakum,406,U.S. Senate,,DEM,Edward Kimbrough,0,0,0
-Yoakum,101,U.S. House,19,DEM,Miguel Levario,2,1,3
-Yoakum,202,U.S. House,19,DEM,Miguel Levario,0,2,2
+Yoakum,101,U.S. House,19,DEM,Miguel Levario,3,1,2
+Yoakum,202,U.S. House,19,DEM,Miguel Levario,2,2,0
 Yoakum,303,U.S. House,19,DEM,Miguel Levario,2,0,2
-Yoakum,404,U.S. House,19,DEM,Miguel Levario,1,2,3
+Yoakum,404,U.S. House,19,DEM,Miguel Levario,3,2,1
 Yoakum,305,U.S. House,19,DEM,Miguel Levario,2,0,2
 Yoakum,406,U.S. House,19,DEM,Miguel Levario,0,0,0
 Yoakum,101,Governor,,DEM,Cedric Davis Sr.,0,0,0
@@ -29,8 +29,8 @@ Yoakum,303,Governor,,DEM,Cedric Davis Sr.,0,0,0
 Yoakum,404,Governor,,DEM,Cedric Davis Sr.,0,0,0
 Yoakum,305,Governor,,DEM,Cedric Davis Sr.,0,0,0
 Yoakum,406,Governor,,DEM,Cedric Davis Sr.,0,0,0
-Yoakum,101,Governor,,DEM,Lupe Valdez,2,1,3
-Yoakum,202,Governor,,DEM,Lupe Valdez,0,1,1
+Yoakum,101,Governor,,DEM,Lupe Valdez,3,1,2
+Yoakum,202,Governor,,DEM,Lupe Valdez,1,1,0
 Yoakum,303,Governor,,DEM,Lupe Valdez,0,0,0
 Yoakum,404,Governor,,DEM,Lupe Valdez,0,0,0
 Yoakum,305,Governor,,DEM,Lupe Valdez,2,0,2
@@ -42,7 +42,7 @@ Yoakum,404,Governor,,DEM,Jeffrey Payne,0,0,0
 Yoakum,305,Governor,,DEM,Jeffrey Payne,1,0,1
 Yoakum,406,Governor,,DEM,Jeffrey Payne,0,0,0
 Yoakum,101,Governor,,DEM,Andrew White,1,0,1
-Yoakum,202,Governor,,DEM,Andrew White,1,1,2
+Yoakum,202,Governor,,DEM,Andrew White,2,1,1
 Yoakum,303,Governor,,DEM,Andrew White,2,0,2
 Yoakum,404,Governor,,DEM,Andrew White,1,0,1
 Yoakum,305,Governor,,DEM,Andrew White,0,0,0
@@ -68,7 +68,7 @@ Yoakum,406,Governor,,DEM,Tom Wakely,0,0,0
 Yoakum,101,Governor,,DEM,Adrian Ocegueda,0,0,0
 Yoakum,202,Governor,,DEM,Adrian Ocegueda,0,0,0
 Yoakum,303,Governor,,DEM,Adrian Ocegueda,0,0,0
-Yoakum,404,Governor,,DEM,Adrian Ocegueda,0,1,1
+Yoakum,404,Governor,,DEM,Adrian Ocegueda,1,1,0
 Yoakum,305,Governor,,DEM,Adrian Ocegueda,0,0,0
 Yoakum,406,Governor,,DEM,Adrian Ocegueda,0,0,0
 Yoakum,101,Governor,,DEM,James Jolly Clark,0,0,0
@@ -77,40 +77,40 @@ Yoakum,303,Governor,,DEM,James Jolly Clark,0,0,0
 Yoakum,404,Governor,,DEM,James Jolly Clark,0,0,0
 Yoakum,305,Governor,,DEM,James Jolly Clark,0,0,0
 Yoakum,406,Governor,,DEM,James Jolly Clark,0,0,0
-Yoakum,101,Lieutenant Governor,,DEM,Mike Collier,2,1,3
-Yoakum,202,Lieutenant Governor,,DEM,Mike Collier,0,1,1
+Yoakum,101,Lieutenant Governor,,DEM,Mike Collier,3,1,2
+Yoakum,202,Lieutenant Governor,,DEM,Mike Collier,1,1,0
 Yoakum,303,Lieutenant Governor,,DEM,Mike Collier,2,0,2
-Yoakum,404,Lieutenant Governor,,DEM,Mike Collier,1,1,2
+Yoakum,404,Lieutenant Governor,,DEM,Mike Collier,2,1,1
 Yoakum,305,Lieutenant Governor,,DEM,Mike Collier,2,0,2
 Yoakum,406,Lieutenant Governor,,DEM,Mike Collier,0,0,0
 Yoakum,101,Lieutenant Governor,,DEM,Michael Cooper,0,0,0
-Yoakum,202,Lieutenant Governor,,DEM,Michael Cooper,1,1,2
+Yoakum,202,Lieutenant Governor,,DEM,Michael Cooper,2,1,1
 Yoakum,303,Lieutenant Governor,,DEM,Michael Cooper,1,0,1
 Yoakum,404,Lieutenant Governor,,DEM,Michael Cooper,0,0,0
 Yoakum,305,Lieutenant Governor,,DEM,Michael Cooper,1,0,1
 Yoakum,406,Lieutenant Governor,,DEM,Michael Cooper,0,0,0
-Yoakum,101,Attorney General,,DEM,Justin Nelson,1,1,2
-Yoakum,202,Attorney General,,DEM,Justin Nelson,0,2,2
+Yoakum,101,Attorney General,,DEM,Justin Nelson,2,1,1
+Yoakum,202,Attorney General,,DEM,Justin Nelson,2,2,0
 Yoakum,303,Attorney General,,DEM,Justin Nelson,3,0,3
-Yoakum,404,Attorney General,,DEM,Justin Nelson,1,2,3
+Yoakum,404,Attorney General,,DEM,Justin Nelson,3,2,1
 Yoakum,305,Attorney General,,DEM,Justin Nelson,1,0,1
 Yoakum,406,Attorney General,,DEM,Justin Nelson,0,0,0
-Yoakum,101,Comptroller of Public Accounts,,DEM,Joi Chevalier,2,1,3
-Yoakum,202,Comptroller of Public Accounts,,DEM,Joi Chevalier,0,1,1
+Yoakum,101,Comptroller of Public Accounts,,DEM,Joi Chevalier,3,1,2
+Yoakum,202,Comptroller of Public Accounts,,DEM,Joi Chevalier,1,1,0
 Yoakum,303,Comptroller of Public Accounts,,DEM,Joi Chevalier,0,0,0
 Yoakum,404,Comptroller of Public Accounts,,DEM,Joi Chevalier,1,0,1
 Yoakum,305,Comptroller of Public Accounts,,DEM,Joi Chevalier,1,0,1
 Yoakum,406,Comptroller of Public Accounts,,DEM,Joi Chevalier,0,0,0
 Yoakum,101,Comptroller of Public Accounts,,DEM,Tim Mahoney,0,0,0
-Yoakum,202,Comptroller of Public Accounts,,DEM,Tim Mahoney,1,1,2
+Yoakum,202,Comptroller of Public Accounts,,DEM,Tim Mahoney,2,1,1
 Yoakum,303,Comptroller of Public Accounts,,DEM,Tim Mahoney,3,0,3
-Yoakum,404,Comptroller of Public Accounts,,DEM,Tim Mahoney,0,1,1
+Yoakum,404,Comptroller of Public Accounts,,DEM,Tim Mahoney,1,1,0
 Yoakum,305,Comptroller of Public Accounts,,DEM,Tim Mahoney,1,0,1
 Yoakum,406,Comptroller of Public Accounts,,DEM,Tim Mahoney,0,0,0
-Yoakum,101,Commissioner of the General Land Office,,DEM,Miguel Suazo,2,1,3
-Yoakum,202,Commissioner of the General Land Office,,DEM,Miguel Suazo,1,2,3
+Yoakum,101,Commissioner of the General Land Office,,DEM,Miguel Suazo,3,1,2
+Yoakum,202,Commissioner of the General Land Office,,DEM,Miguel Suazo,3,2,1
 Yoakum,303,Commissioner of the General Land Office,,DEM,Miguel Suazo,2,0,2
-Yoakum,404,Commissioner of the General Land Office,,DEM,Miguel Suazo,1,1,2
+Yoakum,404,Commissioner of the General Land Office,,DEM,Miguel Suazo,2,1,1
 Yoakum,305,Commissioner of the General Land Office,,DEM,Miguel Suazo,1,0,1
 Yoakum,406,Commissioner of the General Land Office,,DEM,Miguel Suazo,0,0,0
 Yoakum,101,Commissioner of the General Land Office,,DEM,Tex Morgan,0,0,0
@@ -119,16 +119,16 @@ Yoakum,303,Commissioner of the General Land Office,,DEM,Tex Morgan,1,0,1
 Yoakum,404,Commissioner of the General Land Office,,DEM,Tex Morgan,0,0,0
 Yoakum,305,Commissioner of the General Land Office,,DEM,Tex Morgan,0,0,0
 Yoakum,406,Commissioner of the General Land Office,,DEM,Tex Morgan,0,0,0
-Yoakum,101,Commissioner of Agriculture,,DEM,Kim Olsen,2,1,3
-Yoakum,202,Commissioner of Agriculture,,DEM,Kim Olsen,0,2,2
+Yoakum,101,Commissioner of Agriculture,,DEM,Kim Olsen,3,1,2
+Yoakum,202,Commissioner of Agriculture,,DEM,Kim Olsen,2,2,0
 Yoakum,303,Commissioner of Agriculture,,DEM,Kim Olsen,2,0,2
-Yoakum,404,Commissioner of Agriculture,,DEM,Kim Olsen,1,2,3
+Yoakum,404,Commissioner of Agriculture,,DEM,Kim Olsen,3,2,1
 Yoakum,305,Commissioner of Agriculture,,DEM,Kim Olsen,1,0,1
 Yoakum,406,Commissioner of Agriculture,,DEM,Kim Olsen,0,0,0
-Yoakum,101,Railroad Commissioner,,DEM,Roman McAllen,1,1,2
-Yoakum,202,Railroad Commissioner,,DEM,Roman McAllen,1,2,3
+Yoakum,101,Railroad Commissioner,,DEM,Roman McAllen,2,1,1
+Yoakum,202,Railroad Commissioner,,DEM,Roman McAllen,3,2,1
 Yoakum,303,Railroad Commissioner,,DEM,Roman McAllen,0,0,0
-Yoakum,404,Railroad Commissioner,,DEM,Roman McAllen,1,1,2
+Yoakum,404,Railroad Commissioner,,DEM,Roman McAllen,2,1,1
 Yoakum,305,Railroad Commissioner,,DEM,Roman McAllen,0,0,0
 Yoakum,406,Railroad Commissioner,,DEM,Roman McAllen,0,0,0
 Yoakum,101,Railroad Commissioner,,DEM,Chris Spellmon,1,0,1
@@ -137,387 +137,387 @@ Yoakum,303,Railroad Commissioner,,DEM,Chris Spellmon,3,0,3
 Yoakum,404,Railroad Commissioner,,DEM,Chris Spellmon,0,0,0
 Yoakum,305,Railroad Commissioner,,DEM,Chris Spellmon,1,0,1
 Yoakum,406,Railroad Commissioner,,DEM,Chris Spellmon,0,0,0
-Yoakum,101,State Representative,88,DEM,Ezikiel Barron,2,1,3
-Yoakum,202,State Representative,88,DEM,Ezikiel Barron,0,2,2
+Yoakum,101,State Representative,88,DEM,Ezikiel Barron,3,1,2
+Yoakum,202,State Representative,88,DEM,Ezikiel Barron,2,2,0
 Yoakum,303,State Representative,88,DEM,Ezikiel Barron,2,0,2
-Yoakum,404,State Representative,88,DEM,Ezikiel Barron,1,2,3
+Yoakum,404,State Representative,88,DEM,Ezikiel Barron,3,2,1
 Yoakum,305,State Representative,88,DEM,Ezikiel Barron,1,0,1
 Yoakum,406,State Representative,88,DEM,Ezikiel Barron,0,0,0
-Yoakum,101,Registered Voters,,,,,,1069
-Yoakum,101,Ballots Cast,,REP,,,,270
-Yoakum,101,U.S. Senate,,REP,Ted Cruz,145,76,221
+Yoakum,101,Registered Voters,,,,1069,,
+Yoakum,101,Ballots Cast,,REP,,270,,
+Yoakum,101,U.S. Senate,,REP,Ted Cruz,221,76,145
 Yoakum,101,U.S. Senate,,REP,Geraldine Sam,4,0,4
-Yoakum,101,U.S. Senate,,REP,"Bruce Jacobson, Jr.",5,1,6
-Yoakum,101,U.S. Senate,,REP,Stefano de Stefano,0,1,1
-Yoakum,101,U.S. Senate,,REP,Mary Miller,9,4,13
-Yoakum,101,U.S. Senate,,REP,Total,163,82,245
+Yoakum,101,U.S. Senate,,REP,"Bruce Jacobson, Jr.",6,1,5
+Yoakum,101,U.S. Senate,,REP,Stefano de Stefano,1,1,0
+Yoakum,101,U.S. Senate,,REP,Mary Miller,13,4,9
+Yoakum,101,U.S. Senate,,REP,Total,245,82,163
 Yoakum,101,U.S. Senate,,REP,Over Votes,0,0,0
-Yoakum,101,U.S. Senate,,REP,Under Votes,16,9,25
-Yoakum,101,U.S. House,19,REP,Jodey Arrington ,142,72,214
-Yoakum,101,U.S. House,19,REP,Total,142,72,214
+Yoakum,101,U.S. Senate,,REP,Under Votes,25,9,16
+Yoakum,101,U.S. House,19,REP,Jodey Arrington ,214,72,142
+Yoakum,101,U.S. House,19,REP,Total,214,72,142
 Yoakum,101,U.S. House,19,REP,Over Votes,0,0,0
-Yoakum,101,U.S. House,19,REP,Under Votes,37,19,56
-Yoakum,101,Governor,,REP,Greg Abbott,129,66,195
-Yoakum,101,Governor,,REP,SECEDE Kilgore,8,5,13
-Yoakum,101,Governor,,REP,Barbara Krueger ,18,8,26
-Yoakum,101,Governor,,REP,Total,155,79,234
+Yoakum,101,U.S. House,19,REP,Under Votes,56,19,37
+Yoakum,101,Governor,,REP,Greg Abbott,195,66,129
+Yoakum,101,Governor,,REP,SECEDE Kilgore,13,5,8
+Yoakum,101,Governor,,REP,Barbara Krueger ,26,8,18
+Yoakum,101,Governor,,REP,Total,234,79,155
 Yoakum,101,Governor,,REP,Over Votes,0,0,0
-Yoakum,101,Governor,,REP,Under Votes,24,12,36
-Yoakum,101,Lieutenant Governor,,REP,Scott Milder ,58,31,89
-Yoakum,101,Lieutenant Governor,,REP,Dan Patrick,96,50,146
-Yoakum,101,Lieutenant Governor,,REP,Total,154,81,235
+Yoakum,101,Governor,,REP,Under Votes,36,12,24
+Yoakum,101,Lieutenant Governor,,REP,Scott Milder ,89,31,58
+Yoakum,101,Lieutenant Governor,,REP,Dan Patrick,146,50,96
+Yoakum,101,Lieutenant Governor,,REP,Total,235,81,154
 Yoakum,101,Lieutenant Governor,,REP,Over Votes,0,0,0
-Yoakum,101,Lieutenant Governor,,REP,Under Votes,25,10,35
-Yoakum,101,Attorney General,,REP,Ken Paxton,136,70,206
-Yoakum,101,Attorney General,,REP,Total,136,70,206
+Yoakum,101,Lieutenant Governor,,REP,Under Votes,35,10,25
+Yoakum,101,Attorney General,,REP,Ken Paxton,206,70,136
+Yoakum,101,Attorney General,,REP,Total,206,70,136
 Yoakum,101,Attorney General,,REP,Over Votes,0,0,0
-Yoakum,101,Attorney General,,REP,Under Votes,43,21,64
-Yoakum,101,Comptroller of Public Accounts,,REP,Glenn Hegar,132,64,196
-Yoakum,101,Comptroller of Public Accounts,,REP,Total,132,64,196
+Yoakum,101,Attorney General,,REP,Under Votes,64,21,43
+Yoakum,101,Comptroller of Public Accounts,,REP,Glenn Hegar,196,64,132
+Yoakum,101,Comptroller of Public Accounts,,REP,Total,196,64,132
 Yoakum,101,Comptroller of Public Accounts,,REP,Over Votes,0,0,0
-Yoakum,101,Comptroller of Public Accounts,,REP,Under Votes,47,27,74
-Yoakum,101,Commissioner of the General Land Office,,REP,Davey Edwards,11,5,16
-Yoakum,101,Commissioner of the General Land Office,,REP,Jerry Patterson ,29,25,54
-Yoakum,101,Commissioner of the General Land Office,,REP,Rick Range,5,3,8
-Yoakum,101,Commissioner of the General Land Office,,REP,George P. Bush,108,45,153
-Yoakum,101,Commissioner of the General Land Office,,REP,Total,153,78,231
+Yoakum,101,Comptroller of Public Accounts,,REP,Under Votes,74,27,47
+Yoakum,101,Commissioner of the General Land Office,,REP,Davey Edwards,16,5,11
+Yoakum,101,Commissioner of the General Land Office,,REP,Jerry Patterson ,54,25,29
+Yoakum,101,Commissioner of the General Land Office,,REP,Rick Range,8,3,5
+Yoakum,101,Commissioner of the General Land Office,,REP,George P. Bush,153,45,108
+Yoakum,101,Commissioner of the General Land Office,,REP,Total,231,78,153
 Yoakum,101,Commissioner of the General Land Office,,REP,Over Votes,0,0,0
-Yoakum,101,Commissioner of the General Land Office,,REP,Under Votes,26,13,39
-Yoakum,101,Commissioner of Agriculture,,REP,Sid Miller,76,45,121
-Yoakum,101,Commissioner of Agriculture,,REP,Jim Hogan ,39,19,58
-Yoakum,101,Commissioner of Agriculture,,REP,Trey Blocker ,30,11,41
-Yoakum,101,Commissioner of Agriculture,,REP,Total,145,75,220
+Yoakum,101,Commissioner of the General Land Office,,REP,Under Votes,39,13,26
+Yoakum,101,Commissioner of Agriculture,,REP,Sid Miller,121,45,76
+Yoakum,101,Commissioner of Agriculture,,REP,Jim Hogan ,58,19,39
+Yoakum,101,Commissioner of Agriculture,,REP,Trey Blocker ,41,11,30
+Yoakum,101,Commissioner of Agriculture,,REP,Total,220,75,145
 Yoakum,101,Commissioner of Agriculture,,REP,Over Votes,0,0,0
-Yoakum,101,Commissioner of Agriculture,,REP,Under Votes,34,16,50
-Yoakum,101,Railroad Commissioner,,REP,Weston Martinez ,45,29,74
-Yoakum,101,Railroad Commissioner,,REP,Christi Craddick,99,46,145
-Yoakum,101,Railroad Commissioner,,REP,Total,144,75,219
+Yoakum,101,Commissioner of Agriculture,,REP,Under Votes,50,16,34
+Yoakum,101,Railroad Commissioner,,REP,Weston Martinez ,74,29,45
+Yoakum,101,Railroad Commissioner,,REP,Christi Craddick,145,46,99
+Yoakum,101,Railroad Commissioner,,REP,Total,219,75,144
 Yoakum,101,Railroad Commissioner,,REP,Over Votes,0,0,0
-Yoakum,101,Railroad Commissioner,,REP,Under Votes,35,16,51
-Yoakum,101,State Senate,31,REP,Victor Leal,22,14,36
-Yoakum,101,State Senate,31,REP,Mike Canon,50,29,79
-Yoakum,101,State Senate,31,REP,Kel Seliger,86,39,125
-Yoakum,101,State Senate,31,REP,Total,158,82,240
+Yoakum,101,Railroad Commissioner,,REP,Under Votes,51,16,35
+Yoakum,101,State Senate,31,REP,Victor Leal,36,14,22
+Yoakum,101,State Senate,31,REP,Mike Canon,79,29,50
+Yoakum,101,State Senate,31,REP,Kel Seliger,125,39,86
+Yoakum,101,State Senate,31,REP,Total,240,82,158
 Yoakum,101,State Senate,31,REP,Over Votes,0,0,0
-Yoakum,101,State Senate,31,REP,Under Votes,21,9,30
-Yoakum,101,State Representative,88,REP,Jason Huddleston,49,20,69
-Yoakum,101,State Representative,88,REP,Richard Beyea,23,13,36
-Yoakum,101,State Representative,88,REP,Ken King,84,50,134
-Yoakum,101,State Representative,88,REP,Total,156,83,239
+Yoakum,101,State Senate,31,REP,Under Votes,30,9,21
+Yoakum,101,State Representative,88,REP,Jason Huddleston,69,20,49
+Yoakum,101,State Representative,88,REP,Richard Beyea,36,13,23
+Yoakum,101,State Representative,88,REP,Ken King,134,50,84
+Yoakum,101,State Representative,88,REP,Total,239,83,156
 Yoakum,101,State Representative,88,REP,Over Votes,0,0,0
-Yoakum,101,State Representative,88,REP,Under Votes,23,8,31
-Yoakum,202,Registered Voters,,,,,,1098
-Yoakum,202,Ballots Cast,,REP,,,,297
-Yoakum,202,U.S. Senate,,REP,Ted Cruz,152,105,257
-Yoakum,202,U.S. Senate,,REP,Geraldine Sam,2,2,4
+Yoakum,101,State Representative,88,REP,Under Votes,31,8,23
+Yoakum,202,Registered Voters,,,,1098,,
+Yoakum,202,Ballots Cast,,REP,,297,,
+Yoakum,202,U.S. Senate,,REP,Ted Cruz,257,105,152
+Yoakum,202,U.S. Senate,,REP,Geraldine Sam,4,2,2
 Yoakum,202,U.S. Senate,,REP,"Bruce Jacobson, Jr.",7,0,7
 Yoakum,202,U.S. Senate,,REP,Stefano de Stefano,4,0,4
-Yoakum,202,U.S. Senate,,REP,Mary Miller,1,1,2
-Yoakum,202,U.S. Senate,,REP,Total,166,108,274
+Yoakum,202,U.S. Senate,,REP,Mary Miller,2,1,1
+Yoakum,202,U.S. Senate,,REP,Total,274,108,166
 Yoakum,202,U.S. Senate,,REP,Over Votes,0,0,0
-Yoakum,202,U.S. Senate,,REP,Under Votes,19,4,23
-Yoakum,202,U.S. House,19,REP,Jodey Arrington ,150,89,239
-Yoakum,202,U.S. House,19,REP,Total,150,89,239
+Yoakum,202,U.S. Senate,,REP,Under Votes,23,4,19
+Yoakum,202,U.S. House,19,REP,Jodey Arrington ,239,89,150
+Yoakum,202,U.S. House,19,REP,Total,239,89,150
 Yoakum,202,U.S. House,19,REP,Over Votes,0,0,0
-Yoakum,202,U.S. House,19,REP,Under Votes,35,23,58
-Yoakum,202,Governor,,REP,Greg Abbott,129,99,228
-Yoakum,202,Governor,,REP,SECEDE Kilgore,6,4,10
-Yoakum,202,Governor,,REP,Barbara Krueger ,15,2,17
-Yoakum,202,Governor,,REP,Total,150,105,255
+Yoakum,202,U.S. House,19,REP,Under Votes,58,23,35
+Yoakum,202,Governor,,REP,Greg Abbott,228,99,129
+Yoakum,202,Governor,,REP,SECEDE Kilgore,10,4,6
+Yoakum,202,Governor,,REP,Barbara Krueger ,17,2,15
+Yoakum,202,Governor,,REP,Total,255,105,150
 Yoakum,202,Governor,,REP,Over Votes,0,0,0
-Yoakum,202,Governor,,REP,Under Votes,35,7,42
-Yoakum,202,Lieutenant Governor,,REP,Scott Milder ,86,31,117
-Yoakum,202,Lieutenant Governor,,REP,Dan Patrick,79,67,146
-Yoakum,202,Lieutenant Governor,,REP,Total,165,98,263
+Yoakum,202,Governor,,REP,Under Votes,42,7,35
+Yoakum,202,Lieutenant Governor,,REP,Scott Milder ,117,31,86
+Yoakum,202,Lieutenant Governor,,REP,Dan Patrick,146,67,79
+Yoakum,202,Lieutenant Governor,,REP,Total,263,98,165
 Yoakum,202,Lieutenant Governor,,REP,Over Votes,0,0,0
-Yoakum,202,Lieutenant Governor,,REP,Under Votes,20,14,34
-Yoakum,202,Attorney General,,REP,Ken Paxton,129,90,219
-Yoakum,202,Attorney General,,REP,Total,129,90,219
+Yoakum,202,Lieutenant Governor,,REP,Under Votes,34,14,20
+Yoakum,202,Attorney General,,REP,Ken Paxton,219,90,129
+Yoakum,202,Attorney General,,REP,Total,219,90,129
 Yoakum,202,Attorney General,,REP,Over Votes,0,0,0
-Yoakum,202,Attorney General,,REP,Under Votes,56,22,78
-Yoakum,202,Comptroller of Public Accounts,,REP,Glenn Hegar,127,85,212
-Yoakum,202,Comptroller of Public Accounts,,REP,Total,127,85,212
+Yoakum,202,Attorney General,,REP,Under Votes,78,22,56
+Yoakum,202,Comptroller of Public Accounts,,REP,Glenn Hegar,212,85,127
+Yoakum,202,Comptroller of Public Accounts,,REP,Total,212,85,127
 Yoakum,202,Comptroller of Public Accounts,,REP,Over Votes,0,0,0
-Yoakum,202,Comptroller of Public Accounts,,REP,Under Votes,58,27,85
-Yoakum,202,Commissioner of the General Land Office,,REP,Davey Edwards,14,6,20
-Yoakum,202,Commissioner of the General Land Office,,REP,Jerry Patterson ,35,23,58
-Yoakum,202,Commissioner of the General Land Office,,REP,Rick Range,4,7,11
-Yoakum,202,Commissioner of the General Land Office,,REP,George P. Bush,102,62,164
-Yoakum,202,Commissioner of the General Land Office,,REP,Total,155,98,253
-Yoakum,202,Commissioner of the General Land Office,,REP,Over Votes,0,1,1
-Yoakum,202,Commissioner of the General Land Office,,REP,Under Votes,30,13,43
-Yoakum,202,Commissioner of Agriculture,,REP,Sid Miller,89,54,143
-Yoakum,202,Commissioner of Agriculture,,REP,Jim Hogan ,37,23,60
-Yoakum,202,Commissioner of Agriculture,,REP,Trey Blocker ,23,16,39
-Yoakum,202,Commissioner of Agriculture,,REP,Total,149,93,242
+Yoakum,202,Comptroller of Public Accounts,,REP,Under Votes,85,27,58
+Yoakum,202,Commissioner of the General Land Office,,REP,Davey Edwards,20,6,14
+Yoakum,202,Commissioner of the General Land Office,,REP,Jerry Patterson ,58,23,35
+Yoakum,202,Commissioner of the General Land Office,,REP,Rick Range,11,7,4
+Yoakum,202,Commissioner of the General Land Office,,REP,George P. Bush,164,62,102
+Yoakum,202,Commissioner of the General Land Office,,REP,Total,253,98,155
+Yoakum,202,Commissioner of the General Land Office,,REP,Over Votes,1,1,0
+Yoakum,202,Commissioner of the General Land Office,,REP,Under Votes,43,13,30
+Yoakum,202,Commissioner of Agriculture,,REP,Sid Miller,143,54,89
+Yoakum,202,Commissioner of Agriculture,,REP,Jim Hogan ,60,23,37
+Yoakum,202,Commissioner of Agriculture,,REP,Trey Blocker ,39,16,23
+Yoakum,202,Commissioner of Agriculture,,REP,Total,242,93,149
 Yoakum,202,Commissioner of Agriculture,,REP,Over Votes,0,0,0
-Yoakum,202,Commissioner of Agriculture,,REP,Under Votes,36,19,55
-Yoakum,202,Railroad Commissioner,,REP,Weston Martinez ,61,31,92
-Yoakum,202,Railroad Commissioner,,REP,Christi Craddick,87,62,149
-Yoakum,202,Railroad Commissioner,,REP,Total,148,93,241
+Yoakum,202,Commissioner of Agriculture,,REP,Under Votes,55,19,36
+Yoakum,202,Railroad Commissioner,,REP,Weston Martinez ,92,31,61
+Yoakum,202,Railroad Commissioner,,REP,Christi Craddick,149,62,87
+Yoakum,202,Railroad Commissioner,,REP,Total,241,93,148
 Yoakum,202,Railroad Commissioner,,REP,Over Votes,0,0,0
-Yoakum,202,Railroad Commissioner,,REP,Under Votes,37,19,56
-Yoakum,202,State Senate,31,REP,Victor Leal,15,10,25
-Yoakum,202,State Senate,31,REP,Mike Canon,43,38,81
-Yoakum,202,State Senate,31,REP,Kel Seliger,105,50,155
-Yoakum,202,State Senate,31,REP,Total,163,98,261
+Yoakum,202,Railroad Commissioner,,REP,Under Votes,56,19,37
+Yoakum,202,State Senate,31,REP,Victor Leal,25,10,15
+Yoakum,202,State Senate,31,REP,Mike Canon,81,38,43
+Yoakum,202,State Senate,31,REP,Kel Seliger,155,50,105
+Yoakum,202,State Senate,31,REP,Total,261,98,163
 Yoakum,202,State Senate,31,REP,Over Votes,0,0,0
-Yoakum,202,State Senate,31,REP,Under Votes,22,14,36
-Yoakum,202,State Representative,88,REP,Jason Huddleston,37,38,75
-Yoakum,202,State Representative,88,REP,Richard Beyea,22,8,30
-Yoakum,202,State Representative,88,REP,Ken King,109,57,166
-Yoakum,202,State Representative,88,REP,Total,168,103,271
+Yoakum,202,State Senate,31,REP,Under Votes,36,14,22
+Yoakum,202,State Representative,88,REP,Jason Huddleston,75,38,37
+Yoakum,202,State Representative,88,REP,Richard Beyea,30,8,22
+Yoakum,202,State Representative,88,REP,Ken King,166,57,109
+Yoakum,202,State Representative,88,REP,Total,271,103,168
 Yoakum,202,State Representative,88,REP,Over Votes,0,0,0
-Yoakum,202,State Representative,88,REP,Under Votes,17,9,26
-Yoakum,303,Registered Voters,,,,,,549
-Yoakum,303,Ballots Cast,,REP,,,,229
-Yoakum,303,U.S. Senate,,REP,Ted Cruz,128,55,183
-Yoakum,303,U.S. Senate,,REP,Geraldine Sam,0,1,1
-Yoakum,303,U.S. Senate,,REP,"Bruce Jacobson, Jr.",7,1,8
-Yoakum,303,U.S. Senate,,REP,Stefano de Stefano,1,3,4
-Yoakum,303,U.S. Senate,,REP,Mary Miller,8,3,11
-Yoakum,303,U.S. Senate,,REP,Total,144,63,207
+Yoakum,202,State Representative,88,REP,Under Votes,26,9,17
+Yoakum,303,Registered Voters,,,,549,,
+Yoakum,303,Ballots Cast,,REP,,229,,
+Yoakum,303,U.S. Senate,,REP,Ted Cruz,183,55,128
+Yoakum,303,U.S. Senate,,REP,Geraldine Sam,1,1,0
+Yoakum,303,U.S. Senate,,REP,"Bruce Jacobson, Jr.",8,1,7
+Yoakum,303,U.S. Senate,,REP,Stefano de Stefano,4,3,1
+Yoakum,303,U.S. Senate,,REP,Mary Miller,11,3,8
+Yoakum,303,U.S. Senate,,REP,Total,207,63,144
 Yoakum,303,U.S. Senate,,REP,Over Votes,0,0,0
-Yoakum,303,U.S. Senate,,REP,Under Votes,14,8,22
-Yoakum,303,U.S. House,19,REP,Jodey Arrington ,116,50,166
-Yoakum,303,U.S. House,19,REP,Total,116,50,166
+Yoakum,303,U.S. Senate,,REP,Under Votes,22,8,14
+Yoakum,303,U.S. House,19,REP,Jodey Arrington ,166,50,116
+Yoakum,303,U.S. House,19,REP,Total,166,50,116
 Yoakum,303,U.S. House,19,REP,Over Votes,0,0,0
-Yoakum,303,U.S. House,19,REP,Under Votes,42,21,63
-Yoakum,303,Governor,,REP,Greg Abbott,122,53,175
-Yoakum,303,Governor,,REP,SECEDE Kilgore,9,4,13
-Yoakum,303,Governor,,REP,Barbara Krueger ,12,4,16
-Yoakum,303,Governor,,REP,Total,143,61,204
+Yoakum,303,U.S. House,19,REP,Under Votes,63,21,42
+Yoakum,303,Governor,,REP,Greg Abbott,175,53,122
+Yoakum,303,Governor,,REP,SECEDE Kilgore,13,4,9
+Yoakum,303,Governor,,REP,Barbara Krueger ,16,4,12
+Yoakum,303,Governor,,REP,Total,204,61,143
 Yoakum,303,Governor,,REP,Over Votes,0,0,0
-Yoakum,303,Governor,,REP,Under Votes,15,10,25
-Yoakum,303,Lieutenant Governor,,REP,Scott Milder ,64,28,92
-Yoakum,303,Lieutenant Governor,,REP,Dan Patrick,61,31,92
-Yoakum,303,Lieutenant Governor,,REP,Total,125,59,184
+Yoakum,303,Governor,,REP,Under Votes,25,10,15
+Yoakum,303,Lieutenant Governor,,REP,Scott Milder ,92,28,64
+Yoakum,303,Lieutenant Governor,,REP,Dan Patrick,92,31,61
+Yoakum,303,Lieutenant Governor,,REP,Total,184,59,125
 Yoakum,303,Lieutenant Governor,,REP,Over Votes,0,0,0
-Yoakum,303,Lieutenant Governor,,REP,Under Votes,33,12,45
-Yoakum,303,Attorney General,,REP,Ken Paxton,104,46,150
-Yoakum,303,Attorney General,,REP,Total,104,46,150
+Yoakum,303,Lieutenant Governor,,REP,Under Votes,45,12,33
+Yoakum,303,Attorney General,,REP,Ken Paxton,150,46,104
+Yoakum,303,Attorney General,,REP,Total,150,46,104
 Yoakum,303,Attorney General,,REP,Over Votes,0,0,0
-Yoakum,303,Attorney General,,REP,Under Votes,54,25,79
-Yoakum,303,Comptroller of Public Accounts,,REP,Glenn Hegar,104,44,148
-Yoakum,303,Comptroller of Public Accounts,,REP,Total,104,44,148
+Yoakum,303,Attorney General,,REP,Under Votes,79,25,54
+Yoakum,303,Comptroller of Public Accounts,,REP,Glenn Hegar,148,44,104
+Yoakum,303,Comptroller of Public Accounts,,REP,Total,148,44,104
 Yoakum,303,Comptroller of Public Accounts,,REP,Over Votes,0,0,0
-Yoakum,303,Comptroller of Public Accounts,,REP,Under Votes,54,27,81
-Yoakum,303,Commissioner of the General Land Office,,REP,Davey Edwards,13,9,22
-Yoakum,303,Commissioner of the General Land Office,,REP,Jerry Patterson ,29,6,35
-Yoakum,303,Commissioner of the General Land Office,,REP,Rick Range,6,3,9
-Yoakum,303,Commissioner of the General Land Office,,REP,George P. Bush,76,35,111
-Yoakum,303,Commissioner of the General Land Office,,REP,Total,124,53,177
+Yoakum,303,Comptroller of Public Accounts,,REP,Under Votes,81,27,54
+Yoakum,303,Commissioner of the General Land Office,,REP,Davey Edwards,22,9,13
+Yoakum,303,Commissioner of the General Land Office,,REP,Jerry Patterson ,35,6,29
+Yoakum,303,Commissioner of the General Land Office,,REP,Rick Range,9,3,6
+Yoakum,303,Commissioner of the General Land Office,,REP,George P. Bush,111,35,76
+Yoakum,303,Commissioner of the General Land Office,,REP,Total,177,53,124
 Yoakum,303,Commissioner of the General Land Office,,REP,Over Votes,0,0,0
-Yoakum,303,Commissioner of the General Land Office,,REP,Under Votes,34,18,52
-Yoakum,303,Commissioner of Agriculture,,REP,Sid Miller,68,27,95
-Yoakum,303,Commissioner of Agriculture,,REP,Jim Hogan ,22,14,36
-Yoakum,303,Commissioner of Agriculture,,REP,Trey Blocker ,26,4,30
-Yoakum,303,Commissioner of Agriculture,,REP,Total,116,45,161
+Yoakum,303,Commissioner of the General Land Office,,REP,Under Votes,52,18,34
+Yoakum,303,Commissioner of Agriculture,,REP,Sid Miller,95,27,68
+Yoakum,303,Commissioner of Agriculture,,REP,Jim Hogan ,36,14,22
+Yoakum,303,Commissioner of Agriculture,,REP,Trey Blocker ,30,4,26
+Yoakum,303,Commissioner of Agriculture,,REP,Total,161,45,116
 Yoakum,303,Commissioner of Agriculture,,REP,Over Votes,0,0,0
-Yoakum,303,Commissioner of Agriculture,,REP,Under Votes,42,26,68
-Yoakum,303,Railroad Commissioner,,REP,Weston Martinez ,39,24,63
-Yoakum,303,Railroad Commissioner,,REP,Christi Craddick,74,22,96
-Yoakum,303,Railroad Commissioner,,REP,Total,113,46,159
+Yoakum,303,Commissioner of Agriculture,,REP,Under Votes,68,26,42
+Yoakum,303,Railroad Commissioner,,REP,Weston Martinez ,63,24,39
+Yoakum,303,Railroad Commissioner,,REP,Christi Craddick,96,22,74
+Yoakum,303,Railroad Commissioner,,REP,Total,159,46,113
 Yoakum,303,Railroad Commissioner,,REP,Over Votes,1,0,1
-Yoakum,303,Railroad Commissioner,,REP,Under Votes,44,25,69
-Yoakum,303,State Senate,31,REP,Victor Leal,22,10,32
-Yoakum,303,State Senate,31,REP,Mike Canon,32,22,54
-Yoakum,303,State Senate,31,REP,Kel Seliger,77,26,103
-Yoakum,303,State Senate,31,REP,Total,131,58,189
+Yoakum,303,Railroad Commissioner,,REP,Under Votes,69,25,44
+Yoakum,303,State Senate,31,REP,Victor Leal,32,10,22
+Yoakum,303,State Senate,31,REP,Mike Canon,54,22,32
+Yoakum,303,State Senate,31,REP,Kel Seliger,103,26,77
+Yoakum,303,State Senate,31,REP,Total,189,58,131
 Yoakum,303,State Senate,31,REP,Over Votes,0,0,0
-Yoakum,303,State Senate,31,REP,Under Votes,27,13,40
-Yoakum,303,State Representative,88,REP,Jason Huddleston,48,25,73
-Yoakum,303,State Representative,88,REP,Richard Beyea,15,8,23
-Yoakum,303,State Representative,88,REP,Ken King,68,27,95
-Yoakum,303,State Representative,88,REP,Total,131,60,191
+Yoakum,303,State Senate,31,REP,Under Votes,40,13,27
+Yoakum,303,State Representative,88,REP,Jason Huddleston,73,25,48
+Yoakum,303,State Representative,88,REP,Richard Beyea,23,8,15
+Yoakum,303,State Representative,88,REP,Ken King,95,27,68
+Yoakum,303,State Representative,88,REP,Total,191,60,131
 Yoakum,303,State Representative,88,REP,Over Votes,0,0,0
-Yoakum,303,State Representative,88,REP,Under Votes,27,11,38
-Yoakum,404,Registered Voters,,,,,,565
-Yoakum,404,Ballots Cast,,REP,,,,284
-Yoakum,404,U.S. Senate,,REP,Ted Cruz,145,79,224
-Yoakum,404,U.S. Senate,,REP,Geraldine Sam,4,3,7
-Yoakum,404,U.S. Senate,,REP,"Bruce Jacobson, Jr.",12,2,14
-Yoakum,404,U.S. Senate,,REP,Stefano de Stefano,5,2,7
-Yoakum,404,U.S. Senate,,REP,Mary Miller,4,3,7
-Yoakum,404,U.S. Senate,,REP,Total,170,89,259
+Yoakum,303,State Representative,88,REP,Under Votes,38,11,27
+Yoakum,404,Registered Voters,,,,565,,
+Yoakum,404,Ballots Cast,,REP,,284,,
+Yoakum,404,U.S. Senate,,REP,Ted Cruz,224,79,145
+Yoakum,404,U.S. Senate,,REP,Geraldine Sam,7,3,4
+Yoakum,404,U.S. Senate,,REP,"Bruce Jacobson, Jr.",14,2,12
+Yoakum,404,U.S. Senate,,REP,Stefano de Stefano,7,2,5
+Yoakum,404,U.S. Senate,,REP,Mary Miller,7,3,4
+Yoakum,404,U.S. Senate,,REP,Total,259,89,170
 Yoakum,404,U.S. Senate,,REP,Over Votes,0,0,0
-Yoakum,404,U.S. Senate,,REP,Under Votes,18,7,25
-Yoakum,404,U.S. House,19,REP,Jodey Arrington ,140,72,212
-Yoakum,404,U.S. House,19,REP,Total,140,72,212
+Yoakum,404,U.S. Senate,,REP,Under Votes,25,7,18
+Yoakum,404,U.S. House,19,REP,Jodey Arrington ,212,72,140
+Yoakum,404,U.S. House,19,REP,Total,212,72,140
 Yoakum,404,U.S. House,19,REP,Over Votes,0,0,0
-Yoakum,404,U.S. House,19,REP,Under Votes,48,24,72
-Yoakum,404,Governor,,REP,Greg Abbott,145,78,223
-Yoakum,404,Governor,,REP,SECEDE Kilgore,6,4,10
-Yoakum,404,Governor,,REP,Barbara Krueger ,13,7,20
-Yoakum,404,Governor,,REP,Total,164,89,253
+Yoakum,404,U.S. House,19,REP,Under Votes,72,24,48
+Yoakum,404,Governor,,REP,Greg Abbott,223,78,145
+Yoakum,404,Governor,,REP,SECEDE Kilgore,10,4,6
+Yoakum,404,Governor,,REP,Barbara Krueger ,20,7,13
+Yoakum,404,Governor,,REP,Total,253,89,164
 Yoakum,404,Governor,,REP,Over Votes,0,0,0
-Yoakum,404,Governor,,REP,Under Votes,24,7,31
-Yoakum,404,Lieutenant Governor,,REP,Scott Milder ,78,35,113
-Yoakum,404,Lieutenant Governor,,REP,Dan Patrick,76,54,130
-Yoakum,404,Lieutenant Governor,,REP,Total,154,89,243
+Yoakum,404,Governor,,REP,Under Votes,31,7,24
+Yoakum,404,Lieutenant Governor,,REP,Scott Milder ,113,35,78
+Yoakum,404,Lieutenant Governor,,REP,Dan Patrick,130,54,76
+Yoakum,404,Lieutenant Governor,,REP,Total,243,89,154
 Yoakum,404,Lieutenant Governor,,REP,Over Votes,0,0,0
-Yoakum,404,Lieutenant Governor,,REP,Under Votes,34,7,41
-Yoakum,404,Attorney General,,REP,Ken Paxton,121,66,187
-Yoakum,404,Attorney General,,REP,Total,121,66,187
+Yoakum,404,Lieutenant Governor,,REP,Under Votes,41,7,34
+Yoakum,404,Attorney General,,REP,Ken Paxton,187,66,121
+Yoakum,404,Attorney General,,REP,Total,187,66,121
 Yoakum,404,Attorney General,,REP,Over Votes,0,0,0
-Yoakum,404,Attorney General,,REP,Under Votes,67,30,97
-Yoakum,404,Comptroller of Public Accounts,,REP,Glenn Hegar,122,62,184
-Yoakum,404,Comptroller of Public Accounts,,REP,Total,122,62,184
+Yoakum,404,Attorney General,,REP,Under Votes,97,30,67
+Yoakum,404,Comptroller of Public Accounts,,REP,Glenn Hegar,184,62,122
+Yoakum,404,Comptroller of Public Accounts,,REP,Total,184,62,122
 Yoakum,404,Comptroller of Public Accounts,,REP,Over Votes,0,0,0
-Yoakum,404,Comptroller of Public Accounts,,REP,Under Votes,66,34,100
-Yoakum,404,Commissioner of the General Land Office,,REP,Davey Edwards,8,9,17
-Yoakum,404,Commissioner of the General Land Office,,REP,Jerry Patterson ,31,18,49
-Yoakum,404,Commissioner of the General Land Office,,REP,Rick Range,9,3,12
-Yoakum,404,Commissioner of the General Land Office,,REP,George P. Bush,100,54,154
-Yoakum,404,Commissioner of the General Land Office,,REP,Total,148,84,232
+Yoakum,404,Comptroller of Public Accounts,,REP,Under Votes,100,34,66
+Yoakum,404,Commissioner of the General Land Office,,REP,Davey Edwards,17,9,8
+Yoakum,404,Commissioner of the General Land Office,,REP,Jerry Patterson ,49,18,31
+Yoakum,404,Commissioner of the General Land Office,,REP,Rick Range,12,3,9
+Yoakum,404,Commissioner of the General Land Office,,REP,George P. Bush,154,54,100
+Yoakum,404,Commissioner of the General Land Office,,REP,Total,232,84,148
 Yoakum,404,Commissioner of the General Land Office,,REP,Over Votes,1,0,1
-Yoakum,404,Commissioner of the General Land Office,,REP,Under Votes,39,12,51
-Yoakum,404,Commissioner of Agriculture,,REP,Sid Miller,90,47,137
-Yoakum,404,Commissioner of Agriculture,,REP,Jim Hogan ,26,18,44
-Yoakum,404,Commissioner of Agriculture,,REP,Trey Blocker ,26,12,38
-Yoakum,404,Commissioner of Agriculture,,REP,Total,142,77,219
+Yoakum,404,Commissioner of the General Land Office,,REP,Under Votes,51,12,39
+Yoakum,404,Commissioner of Agriculture,,REP,Sid Miller,137,47,90
+Yoakum,404,Commissioner of Agriculture,,REP,Jim Hogan ,44,18,26
+Yoakum,404,Commissioner of Agriculture,,REP,Trey Blocker ,38,12,26
+Yoakum,404,Commissioner of Agriculture,,REP,Total,219,77,142
 Yoakum,404,Commissioner of Agriculture,,REP,Over Votes,0,0,0
-Yoakum,404,Commissioner of Agriculture,,REP,Under Votes,46,19,65
-Yoakum,404,Railroad Commissioner,,REP,Weston Martinez ,42,28,70
-Yoakum,404,Railroad Commissioner,,REP,Christi Craddick,91,46,137
-Yoakum,404,Railroad Commissioner,,REP,Total,133,74,207
+Yoakum,404,Commissioner of Agriculture,,REP,Under Votes,65,19,46
+Yoakum,404,Railroad Commissioner,,REP,Weston Martinez ,70,28,42
+Yoakum,404,Railroad Commissioner,,REP,Christi Craddick,137,46,91
+Yoakum,404,Railroad Commissioner,,REP,Total,207,74,133
 Yoakum,404,Railroad Commissioner,,REP,Over Votes,0,0,0
-Yoakum,404,Railroad Commissioner,,REP,Under Votes,55,22,77
-Yoakum,404,State Senate,31,REP,Victor Leal,18,12,30
-Yoakum,404,State Senate,31,REP,Mike Canon,38,37,75
-Yoakum,404,State Senate,31,REP,Kel Seliger,95,34,129
-Yoakum,404,State Senate,31,REP,Total,151,83,234
+Yoakum,404,Railroad Commissioner,,REP,Under Votes,77,22,55
+Yoakum,404,State Senate,31,REP,Victor Leal,30,12,18
+Yoakum,404,State Senate,31,REP,Mike Canon,75,37,38
+Yoakum,404,State Senate,31,REP,Kel Seliger,129,34,95
+Yoakum,404,State Senate,31,REP,Total,234,83,151
 Yoakum,404,State Senate,31,REP,Over Votes,1,0,1
-Yoakum,404,State Senate,31,REP,Under Votes,36,13,49
-Yoakum,404,State Representative,88,REP,Jason Huddleston,74,34,108
-Yoakum,404,State Representative,88,REP,Richard Beyea,17,9,26
-Yoakum,404,State Representative,88,REP,Ken King,66,37,103
-Yoakum,404,State Representative,88,REP,Total,157,80,237
+Yoakum,404,State Senate,31,REP,Under Votes,49,13,36
+Yoakum,404,State Representative,88,REP,Jason Huddleston,108,34,74
+Yoakum,404,State Representative,88,REP,Richard Beyea,26,9,17
+Yoakum,404,State Representative,88,REP,Ken King,103,37,66
+Yoakum,404,State Representative,88,REP,Total,237,80,157
 Yoakum,404,State Representative,88,REP,Over Votes,0,0,0
-Yoakum,404,State Representative,88,REP,Under Votes,31,16,47
-Yoakum,305,Registered Voters,,,,,,389
-Yoakum,305,Ballots Cast,,REP,,,,61
-Yoakum,305,U.S. Senate,,REP,Ted Cruz,35,18,53
+Yoakum,404,State Representative,88,REP,Under Votes,47,16,31
+Yoakum,305,Registered Voters,,,,389,,
+Yoakum,305,Ballots Cast,,REP,,61,,
+Yoakum,305,U.S. Senate,,REP,Ted Cruz,53,18,35
 Yoakum,305,U.S. Senate,,REP,Geraldine Sam,1,0,1
 Yoakum,305,U.S. Senate,,REP,"Bruce Jacobson, Jr.",2,0,2
-Yoakum,305,U.S. Senate,,REP,Stefano de Stefano,0,1,1
+Yoakum,305,U.S. Senate,,REP,Stefano de Stefano,1,1,0
 Yoakum,305,U.S. Senate,,REP,Mary Miller,2,0,2
-Yoakum,305,U.S. Senate,,REP,Total,40,19,59
+Yoakum,305,U.S. Senate,,REP,Total,59,19,40
 Yoakum,305,U.S. Senate,,REP,Over Votes,0,0,0
 Yoakum,305,U.S. Senate,,REP,Under Votes,2,0,2
-Yoakum,305,U.S. House,19,REP,Jodey Arrington ,33,13,46
-Yoakum,305,U.S. House,19,REP,Total,33,13,46
+Yoakum,305,U.S. House,19,REP,Jodey Arrington ,46,13,33
+Yoakum,305,U.S. House,19,REP,Total,46,13,33
 Yoakum,305,U.S. House,19,REP,Over Votes,0,0,0
-Yoakum,305,U.S. House,19,REP,Under Votes,9,6,15
-Yoakum,305,Governor,,REP,Greg Abbott,32,17,49
+Yoakum,305,U.S. House,19,REP,Under Votes,15,6,9
+Yoakum,305,Governor,,REP,Greg Abbott,49,17,32
 Yoakum,305,Governor,,REP,SECEDE Kilgore,1,0,1
-Yoakum,305,Governor,,REP,Barbara Krueger ,5,1,6
-Yoakum,305,Governor,,REP,Total,38,18,56
+Yoakum,305,Governor,,REP,Barbara Krueger ,6,1,5
+Yoakum,305,Governor,,REP,Total,56,18,38
 Yoakum,305,Governor,,REP,Over Votes,0,0,0
-Yoakum,305,Governor,,REP,Under Votes,4,1,5
-Yoakum,305,Lieutenant Governor,,REP,Scott Milder ,17,8,25
-Yoakum,305,Lieutenant Governor,,REP,Dan Patrick,20,11,31
-Yoakum,305,Lieutenant Governor,,REP,Total,37,19,56
+Yoakum,305,Governor,,REP,Under Votes,5,1,4
+Yoakum,305,Lieutenant Governor,,REP,Scott Milder ,25,8,17
+Yoakum,305,Lieutenant Governor,,REP,Dan Patrick,31,11,20
+Yoakum,305,Lieutenant Governor,,REP,Total,56,19,37
 Yoakum,305,Lieutenant Governor,,REP,Over Votes,0,0,0
 Yoakum,305,Lieutenant Governor,,REP,Under Votes,5,0,5
-Yoakum,305,Attorney General,,REP,Ken Paxton,34,15,49
-Yoakum,305,Attorney General,,REP,Total,34,15,49
+Yoakum,305,Attorney General,,REP,Ken Paxton,49,15,34
+Yoakum,305,Attorney General,,REP,Total,49,15,34
 Yoakum,305,Attorney General,,REP,Over Votes,0,0,0
-Yoakum,305,Attorney General,,REP,Under Votes,8,4,12
-Yoakum,305,Comptroller of Public Accounts,,REP,Glenn Hegar,32,14,46
-Yoakum,305,Comptroller of Public Accounts,,REP,Total,32,14,46
+Yoakum,305,Attorney General,,REP,Under Votes,12,4,8
+Yoakum,305,Comptroller of Public Accounts,,REP,Glenn Hegar,46,14,32
+Yoakum,305,Comptroller of Public Accounts,,REP,Total,46,14,32
 Yoakum,305,Comptroller of Public Accounts,,REP,Over Votes,0,0,0
-Yoakum,305,Comptroller of Public Accounts,,REP,Under Votes,10,5,15
-Yoakum,305,Commissioner of the General Land Office,,REP,Davey Edwards,4,2,6
-Yoakum,305,Commissioner of the General Land Office,,REP,Jerry Patterson ,6,5,11
+Yoakum,305,Comptroller of Public Accounts,,REP,Under Votes,15,5,10
+Yoakum,305,Commissioner of the General Land Office,,REP,Davey Edwards,6,2,4
+Yoakum,305,Commissioner of the General Land Office,,REP,Jerry Patterson ,11,5,6
 Yoakum,305,Commissioner of the General Land Office,,REP,Rick Range,1,0,1
-Yoakum,305,Commissioner of the General Land Office,,REP,George P. Bush,26,12,38
-Yoakum,305,Commissioner of the General Land Office,,REP,Total,37,19,56
+Yoakum,305,Commissioner of the General Land Office,,REP,George P. Bush,38,12,26
+Yoakum,305,Commissioner of the General Land Office,,REP,Total,56,19,37
 Yoakum,305,Commissioner of the General Land Office,,REP,Over Votes,0,0,0
 Yoakum,305,Commissioner of the General Land Office,,REP,Under Votes,5,0,5
-Yoakum,305,Commissioner of Agriculture,,REP,Sid Miller,15,11,26
-Yoakum,305,Commissioner of Agriculture,,REP,Jim Hogan ,11,2,13
-Yoakum,305,Commissioner of Agriculture,,REP,Trey Blocker ,9,5,14
-Yoakum,305,Commissioner of Agriculture,,REP,Total,35,18,53
+Yoakum,305,Commissioner of Agriculture,,REP,Sid Miller,26,11,15
+Yoakum,305,Commissioner of Agriculture,,REP,Jim Hogan ,13,2,11
+Yoakum,305,Commissioner of Agriculture,,REP,Trey Blocker ,14,5,9
+Yoakum,305,Commissioner of Agriculture,,REP,Total,53,18,35
 Yoakum,305,Commissioner of Agriculture,,REP,Over Votes,0,0,0
-Yoakum,305,Commissioner of Agriculture,,REP,Under Votes,7,1,8
-Yoakum,305,Railroad Commissioner,,REP,Weston Martinez ,19,8,27
-Yoakum,305,Railroad Commissioner,,REP,Christi Craddick,17,9,26
-Yoakum,305,Railroad Commissioner,,REP,Total,36,17,53
+Yoakum,305,Commissioner of Agriculture,,REP,Under Votes,8,1,7
+Yoakum,305,Railroad Commissioner,,REP,Weston Martinez ,27,8,19
+Yoakum,305,Railroad Commissioner,,REP,Christi Craddick,26,9,17
+Yoakum,305,Railroad Commissioner,,REP,Total,53,17,36
 Yoakum,305,Railroad Commissioner,,REP,Over Votes,0,0,0
-Yoakum,305,Railroad Commissioner,,REP,Under Votes,6,2,8
-Yoakum,305,State Senate,31,REP,Victor Leal,13,2,15
-Yoakum,305,State Senate,31,REP,Mike Canon,13,13,26
-Yoakum,305,State Senate,31,REP,Kel Seliger,11,2,13
-Yoakum,305,State Senate,31,REP,Total,37,17,54
+Yoakum,305,Railroad Commissioner,,REP,Under Votes,8,2,6
+Yoakum,305,State Senate,31,REP,Victor Leal,15,2,13
+Yoakum,305,State Senate,31,REP,Mike Canon,26,13,13
+Yoakum,305,State Senate,31,REP,Kel Seliger,13,2,11
+Yoakum,305,State Senate,31,REP,Total,54,17,37
 Yoakum,305,State Senate,31,REP,Over Votes,0,0,0
-Yoakum,305,State Senate,31,REP,Under Votes,5,2,7
-Yoakum,305,State Representative,88,REP,Jason Huddleston,17,7,24
-Yoakum,305,State Representative,88,REP,Richard Beyea,5,6,11
-Yoakum,305,State Representative,88,REP,Ken King,14,5,19
-Yoakum,305,State Representative,88,REP,Total,36,18,54
+Yoakum,305,State Senate,31,REP,Under Votes,7,2,5
+Yoakum,305,State Representative,88,REP,Jason Huddleston,24,7,17
+Yoakum,305,State Representative,88,REP,Richard Beyea,11,6,5
+Yoakum,305,State Representative,88,REP,Ken King,19,5,14
+Yoakum,305,State Representative,88,REP,Total,54,18,36
 Yoakum,305,State Representative,88,REP,Over Votes,0,0,0
-Yoakum,305,State Representative,88,REP,Under Votes,6,1,7
-Yoakum,406,Registered Voters,,,,,,543
-Yoakum,406,Ballots Cast,,REP,,,,105
-Yoakum,406,U.S. Senate,,REP,Ted Cruz,51,20,71
+Yoakum,305,State Representative,88,REP,Under Votes,7,1,6
+Yoakum,406,Registered Voters,,,,543,,
+Yoakum,406,Ballots Cast,,REP,,105,,
+Yoakum,406,U.S. Senate,,REP,Ted Cruz,71,20,51
 Yoakum,406,U.S. Senate,,REP,Geraldine Sam,3,0,3
-Yoakum,406,U.S. Senate,,REP,"Bruce Jacobson, Jr.",3,1,4
-Yoakum,406,U.S. Senate,,REP,Stefano de Stefano,2,3,5
-Yoakum,406,U.S. Senate,,REP,Mary Miller,4,1,5
-Yoakum,406,U.S. Senate,,REP,Total,63,25,88
-Yoakum,406,U.S. Senate,,REP,Over Votes,0,1,1
-Yoakum,406,U.S. Senate,,REP,Under Votes,15,1,16
-Yoakum,406,U.S. House,19,REP,Jodey Arrington ,55,21,76
-Yoakum,406,U.S. House,19,REP,Total,55,21,76
+Yoakum,406,U.S. Senate,,REP,"Bruce Jacobson, Jr.",4,1,3
+Yoakum,406,U.S. Senate,,REP,Stefano de Stefano,5,3,2
+Yoakum,406,U.S. Senate,,REP,Mary Miller,5,1,4
+Yoakum,406,U.S. Senate,,REP,Total,88,25,63
+Yoakum,406,U.S. Senate,,REP,Over Votes,1,1,0
+Yoakum,406,U.S. Senate,,REP,Under Votes,16,1,15
+Yoakum,406,U.S. House,19,REP,Jodey Arrington ,76,21,55
+Yoakum,406,U.S. House,19,REP,Total,76,21,55
 Yoakum,406,U.S. House,19,REP,Over Votes,0,0,0
-Yoakum,406,U.S. House,19,REP,Under Votes,23,6,29
-Yoakum,406,Governor,,REP,Greg Abbott,47,12,59
-Yoakum,406,Governor,,REP,SECEDE Kilgore,3,6,9
-Yoakum,406,Governor,,REP,Barbara Krueger ,11,5,16
-Yoakum,406,Governor,,REP,Total,61,23,84
+Yoakum,406,U.S. House,19,REP,Under Votes,29,6,23
+Yoakum,406,Governor,,REP,Greg Abbott,59,12,47
+Yoakum,406,Governor,,REP,SECEDE Kilgore,9,6,3
+Yoakum,406,Governor,,REP,Barbara Krueger ,16,5,11
+Yoakum,406,Governor,,REP,Total,84,23,61
 Yoakum,406,Governor,,REP,Over Votes,0,0,0
-Yoakum,406,Governor,,REP,Under Votes,17,4,21
-Yoakum,406,Lieutenant Governor,,REP,Scott Milder ,32,9,41
-Yoakum,406,Lieutenant Governor,,REP,Dan Patrick,33,12,45
-Yoakum,406,Lieutenant Governor,,REP,Total,65,21,86
+Yoakum,406,Governor,,REP,Under Votes,21,4,17
+Yoakum,406,Lieutenant Governor,,REP,Scott Milder ,41,9,32
+Yoakum,406,Lieutenant Governor,,REP,Dan Patrick,45,12,33
+Yoakum,406,Lieutenant Governor,,REP,Total,86,21,65
 Yoakum,406,Lieutenant Governor,,REP,Over Votes,0,0,0
-Yoakum,406,Lieutenant Governor,,REP,Under Votes,13,6,19
-Yoakum,406,Attorney General,,REP,Ken Paxton,50,19,69
-Yoakum,406,Attorney General,,REP,Total,50,19,69
+Yoakum,406,Lieutenant Governor,,REP,Under Votes,19,6,13
+Yoakum,406,Attorney General,,REP,Ken Paxton,69,19,50
+Yoakum,406,Attorney General,,REP,Total,69,19,50
 Yoakum,406,Attorney General,,REP,Over Votes,0,0,0
-Yoakum,406,Attorney General,,REP,Under Votes,28,8,36
-Yoakum,406,Comptroller of Public Accounts,,REP,Glenn Hegar,47,20,67
-Yoakum,406,Comptroller of Public Accounts,,REP,Total,47,20,67
+Yoakum,406,Attorney General,,REP,Under Votes,36,8,28
+Yoakum,406,Comptroller of Public Accounts,,REP,Glenn Hegar,67,20,47
+Yoakum,406,Comptroller of Public Accounts,,REP,Total,67,20,47
 Yoakum,406,Comptroller of Public Accounts,,REP,Over Votes,0,0,0
-Yoakum,406,Comptroller of Public Accounts,,REP,Under Votes,31,7,38
-Yoakum,406,Commissioner of the General Land Office,,REP,Davey Edwards,3,4,7
-Yoakum,406,Commissioner of the General Land Office,,REP,Jerry Patterson ,14,3,17
-Yoakum,406,Commissioner of the General Land Office,,REP,Rick Range,2,2,4
-Yoakum,406,Commissioner of the General Land Office,,REP,George P. Bush,38,15,53
-Yoakum,406,Commissioner of the General Land Office,,REP,Total,57,24,81
+Yoakum,406,Comptroller of Public Accounts,,REP,Under Votes,38,7,31
+Yoakum,406,Commissioner of the General Land Office,,REP,Davey Edwards,7,4,3
+Yoakum,406,Commissioner of the General Land Office,,REP,Jerry Patterson ,17,3,14
+Yoakum,406,Commissioner of the General Land Office,,REP,Rick Range,4,2,2
+Yoakum,406,Commissioner of the General Land Office,,REP,George P. Bush,53,15,38
+Yoakum,406,Commissioner of the General Land Office,,REP,Total,81,24,57
 Yoakum,406,Commissioner of the General Land Office,,REP,Over Votes,0,0,0
-Yoakum,406,Commissioner of the General Land Office,,REP,Under Votes,21,3,24
-Yoakum,406,Commissioner of Agriculture,,REP,Sid Miller,29,9,38
-Yoakum,406,Commissioner of Agriculture,,REP,Jim Hogan ,16,12,28
-Yoakum,406,Commissioner of Agriculture,,REP,Trey Blocker ,9,3,12
-Yoakum,406,Commissioner of Agriculture,,REP,Total,54,24,78
+Yoakum,406,Commissioner of the General Land Office,,REP,Under Votes,24,3,21
+Yoakum,406,Commissioner of Agriculture,,REP,Sid Miller,38,9,29
+Yoakum,406,Commissioner of Agriculture,,REP,Jim Hogan ,28,12,16
+Yoakum,406,Commissioner of Agriculture,,REP,Trey Blocker ,12,3,9
+Yoakum,406,Commissioner of Agriculture,,REP,Total,78,24,54
 Yoakum,406,Commissioner of Agriculture,,REP,Over Votes,0,0,0
-Yoakum,406,Commissioner of Agriculture,,REP,Under Votes,24,3,27
-Yoakum,406,Railroad Commissioner,,REP,Weston Martinez ,28,7,35
-Yoakum,406,Railroad Commissioner,,REP,Christi Craddick,30,14,44
-Yoakum,406,Railroad Commissioner,,REP,Total,58,21,79
+Yoakum,406,Commissioner of Agriculture,,REP,Under Votes,27,3,24
+Yoakum,406,Railroad Commissioner,,REP,Weston Martinez ,35,7,28
+Yoakum,406,Railroad Commissioner,,REP,Christi Craddick,44,14,30
+Yoakum,406,Railroad Commissioner,,REP,Total,79,21,58
 Yoakum,406,Railroad Commissioner,,REP,Over Votes,0,0,0
-Yoakum,406,Railroad Commissioner,,REP,Under Votes,20,6,26
-Yoakum,406,State Senate,31,REP,Victor Leal,12,3,15
-Yoakum,406,State Senate,31,REP,Mike Canon,12,6,18
-Yoakum,406,State Senate,31,REP,Kel Seliger,39,14,53
-Yoakum,406,State Senate,31,REP,Total,63,23,86
+Yoakum,406,Railroad Commissioner,,REP,Under Votes,26,6,20
+Yoakum,406,State Senate,31,REP,Victor Leal,15,3,12
+Yoakum,406,State Senate,31,REP,Mike Canon,18,6,12
+Yoakum,406,State Senate,31,REP,Kel Seliger,53,14,39
+Yoakum,406,State Senate,31,REP,Total,86,23,63
 Yoakum,406,State Senate,31,REP,Over Votes,0,0,0
-Yoakum,406,State Senate,31,REP,Under Votes,15,4,19
-Yoakum,406,State Representative,88,REP,Jason Huddleston,20,5,25
-Yoakum,406,State Representative,88,REP,Richard Beyea,5,2,7
-Yoakum,406,State Representative,88,REP,Ken King,39,14,53
-Yoakum,406,State Representative,88,REP,Total,64,21,85
+Yoakum,406,State Senate,31,REP,Under Votes,19,4,15
+Yoakum,406,State Representative,88,REP,Jason Huddleston,25,5,20
+Yoakum,406,State Representative,88,REP,Richard Beyea,7,2,5
+Yoakum,406,State Representative,88,REP,Ken King,53,14,39
+Yoakum,406,State Representative,88,REP,Total,85,21,64
 Yoakum,406,State Representative,88,REP,Over Votes,0,0,0
-Yoakum,406,State Representative,88,REP,Under Votes,14,6,20
+Yoakum,406,State Representative,88,REP,Under Votes,20,6,14

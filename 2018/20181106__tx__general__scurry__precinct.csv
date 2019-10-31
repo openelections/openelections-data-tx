@@ -1,4 +1,4 @@
-county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day,provisional
+county,precinct,office,district,party,candidate,votes,election_day,early_voting,absentee,provisional
 Scurry,5,REGISTERED VOTERS - TOTAL,,,REGISTERED VOTERS - TOTAL,98,,,,
 Scurry,6,REGISTERED VOTERS - TOTAL,,,REGISTERED VOTERS - TOTAL,269,,,,
 Scurry,7,REGISTERED VOTERS - TOTAL,,,REGISTERED VOTERS - TOTAL,2163,,,,
@@ -10,50 +10,50 @@ Scurry,12,REGISTERED VOTERS - TOTAL,,,REGISTERED VOTERS - TOTAL,1530,,,,
 Scurry,13,REGISTERED VOTERS - TOTAL,,,REGISTERED VOTERS - TOTAL,474,,,,
 Scurry,14,REGISTERED VOTERS - TOTAL,,,REGISTERED VOTERS - TOTAL,125,,,,
 Scurry,15,REGISTERED VOTERS - TOTAL,,,REGISTERED VOTERS - TOTAL,1983,,,,
-Scurry,5,BALLOTS CAST - TOTAL,,,BALLOTS CAST - TOTAL,64,0,31,33,0
-Scurry,6,BALLOTS CAST - TOTAL,,,BALLOTS CAST - TOTAL,158,12,88,58,0
-Scurry,7,BALLOTS CAST - TOTAL,,,BALLOTS CAST - TOTAL,1125,68,746,311,0
-Scurry,8,BALLOTS CAST - TOTAL,,,BALLOTS CAST - TOTAL,420,14,276,130,0
-Scurry,9,BALLOTS CAST - TOTAL,,,BALLOTS CAST - TOTAL,279,11,127,141,0
-Scurry,10,BALLOTS CAST - TOTAL,,,BALLOTS CAST - TOTAL,721,49,463,209,0
-Scurry,11,BALLOTS CAST - TOTAL,,,BALLOTS CAST - TOTAL,79,7,26,46,0
-Scurry,12,BALLOTS CAST - TOTAL,,,BALLOTS CAST - TOTAL,631,29,372,229,1
-Scurry,13,BALLOTS CAST - TOTAL,,,BALLOTS CAST - TOTAL,272,12,121,139,0
-Scurry,14,BALLOTS CAST - TOTAL,,,BALLOTS CAST - TOTAL,80,8,44,28,0
-Scurry,15,BALLOTS CAST - TOTAL,,,BALLOTS CAST - TOTAL,562,34,313,215,0
-Scurry,5,Straight Party,,REP,Republican Party,27,0,13,14,0
-Scurry,6,Straight Party,,REP,Republican Party,91,9,52,30,0
-Scurry,7,Straight Party,,REP,Republican Party,639,49,420,170,0
-Scurry,8,Straight Party,,REP,Republican Party,246,12,162,72,0
-Scurry,9,Straight Party,,REP,Republican Party,140,7,66,67,0
-Scurry,10,Straight Party,,REP,Republican Party,433,35,294,104,0
-Scurry,11,Straight Party,,REP,Republican Party,39,3,16,20,0
-Scurry,12,Straight Party,,REP,Republican Party,359,18,208,132,1
-Scurry,13,Straight Party,,REP,Republican Party,131,7,57,67,0
-Scurry,14,Straight Party,,REP,Republican Party,46,4,25,17,0
-Scurry,15,Straight Party,,REP,Republican Party,303,21,177,105,0
-Scurry,5,Straight Party,,DEM,Democratic Party,3,0,1,2,0
-Scurry,6,Straight Party,,DEM,Democratic Party,9,1,6,2,0
-Scurry,7,Straight Party,,DEM,Democratic Party,91,6,57,28,0
-Scurry,8,Straight Party,,DEM,Democratic Party,25,1,18,6,0
-Scurry,9,Straight Party,,DEM,Democratic Party,6,0,2,4,0
-Scurry,10,Straight Party,,DEM,Democratic Party,39,6,21,12,0
-Scurry,11,Straight Party,,DEM,Democratic Party,5,0,0,5,0
-Scurry,12,Straight Party,,DEM,Democratic Party,79,8,37,34,0
-Scurry,13,Straight Party,,DEM,Democratic Party,14,2,3,9,0
-Scurry,14,Straight Party,,DEM,Democratic Party,4,0,3,1,0
-Scurry,15,Straight Party,,DEM,Democratic Party,113,7,56,50,0
+Scurry,5,BALLOTS CAST - TOTAL,,,BALLOTS CAST - TOTAL,64,33,31,0,0
+Scurry,6,BALLOTS CAST - TOTAL,,,BALLOTS CAST - TOTAL,158,58,88,12,0
+Scurry,7,BALLOTS CAST - TOTAL,,,BALLOTS CAST - TOTAL,1125,311,746,68,0
+Scurry,8,BALLOTS CAST - TOTAL,,,BALLOTS CAST - TOTAL,420,130,276,14,0
+Scurry,9,BALLOTS CAST - TOTAL,,,BALLOTS CAST - TOTAL,279,141,127,11,0
+Scurry,10,BALLOTS CAST - TOTAL,,,BALLOTS CAST - TOTAL,721,209,463,49,0
+Scurry,11,BALLOTS CAST - TOTAL,,,BALLOTS CAST - TOTAL,79,46,26,7,0
+Scurry,12,BALLOTS CAST - TOTAL,,,BALLOTS CAST - TOTAL,631,229,372,29,1
+Scurry,13,BALLOTS CAST - TOTAL,,,BALLOTS CAST - TOTAL,272,139,121,12,0
+Scurry,14,BALLOTS CAST - TOTAL,,,BALLOTS CAST - TOTAL,80,28,44,8,0
+Scurry,15,BALLOTS CAST - TOTAL,,,BALLOTS CAST - TOTAL,562,215,313,34,0
+Scurry,5,Straight Party,,REP,Republican Party,27,14,13,0,0
+Scurry,6,Straight Party,,REP,Republican Party,91,30,52,9,0
+Scurry,7,Straight Party,,REP,Republican Party,639,170,420,49,0
+Scurry,8,Straight Party,,REP,Republican Party,246,72,162,12,0
+Scurry,9,Straight Party,,REP,Republican Party,140,67,66,7,0
+Scurry,10,Straight Party,,REP,Republican Party,433,104,294,35,0
+Scurry,11,Straight Party,,REP,Republican Party,39,20,16,3,0
+Scurry,12,Straight Party,,REP,Republican Party,359,132,208,18,1
+Scurry,13,Straight Party,,REP,Republican Party,131,67,57,7,0
+Scurry,14,Straight Party,,REP,Republican Party,46,17,25,4,0
+Scurry,15,Straight Party,,REP,Republican Party,303,105,177,21,0
+Scurry,5,Straight Party,,DEM,Democratic Party,3,2,1,0,0
+Scurry,6,Straight Party,,DEM,Democratic Party,9,2,6,1,0
+Scurry,7,Straight Party,,DEM,Democratic Party,91,28,57,6,0
+Scurry,8,Straight Party,,DEM,Democratic Party,25,6,18,1,0
+Scurry,9,Straight Party,,DEM,Democratic Party,6,4,2,0,0
+Scurry,10,Straight Party,,DEM,Democratic Party,39,12,21,6,0
+Scurry,11,Straight Party,,DEM,Democratic Party,5,5,0,0,0
+Scurry,12,Straight Party,,DEM,Democratic Party,79,34,37,8,0
+Scurry,13,Straight Party,,DEM,Democratic Party,14,9,3,2,0
+Scurry,14,Straight Party,,DEM,Democratic Party,4,1,3,0,0
+Scurry,15,Straight Party,,DEM,Democratic Party,113,50,56,7,0
 Scurry,5,Straight Party,,LIB,Libertarian Party,0,0,0,0,0
 Scurry,6,Straight Party,,LIB,Libertarian Party,1,0,1,0,0
-Scurry,7,Straight Party,,LIB,Libertarian Party,6,0,3,3,0
+Scurry,7,Straight Party,,LIB,Libertarian Party,6,3,3,0,0
 Scurry,8,Straight Party,,LIB,Libertarian Party,1,0,1,0,0
-Scurry,9,Straight Party,,LIB,Libertarian Party,1,0,0,1,0
+Scurry,9,Straight Party,,LIB,Libertarian Party,1,1,0,0,0
 Scurry,10,Straight Party,,LIB,Libertarian Party,0,0,0,0,0
 Scurry,11,Straight Party,,LIB,Libertarian Party,1,0,1,0,0
-Scurry,12,Straight Party,,LIB,Libertarian Party,3,0,0,3,0
-Scurry,13,Straight Party,,LIB,Libertarian Party,1,0,0,1,0
+Scurry,12,Straight Party,,LIB,Libertarian Party,3,3,0,0,0
+Scurry,13,Straight Party,,LIB,Libertarian Party,1,1,0,0,0
 Scurry,14,Straight Party,,LIB,Libertarian Party,1,0,1,0,0
-Scurry,15,Straight Party,,LIB,Libertarian Party,6,0,3,3,0
+Scurry,15,Straight Party,,LIB,Libertarian Party,6,3,3,0,0
 Scurry,5,Straight Party,,,OVER VOTES,0,0,0,0,0
 Scurry,6,Straight Party,,,OVER VOTES,0,0,0,0,0
 Scurry,7,Straight Party,,,OVER VOTES,0,0,0,0,0
@@ -65,50 +65,50 @@ Scurry,12,Straight Party,,,OVER VOTES,0,0,0,0,0
 Scurry,13,Straight Party,,,OVER VOTES,0,0,0,0,0
 Scurry,14,Straight Party,,,OVER VOTES,0,0,0,0,0
 Scurry,15,Straight Party,,,OVER VOTES,0,0,0,0,0
-Scurry,5,Straight Party,,,UNDER VOTES,34,0,17,17,0
-Scurry,6,Straight Party,,,UNDER VOTES,57,2,29,26,0
-Scurry,7,Straight Party,,,UNDER VOTES,389,13,266,110,0
-Scurry,8,Straight Party,,,UNDER VOTES,148,1,95,52,0
-Scurry,9,Straight Party,,,UNDER VOTES,132,4,59,69,0
-Scurry,10,Straight Party,,,UNDER VOTES,249,8,148,93,0
-Scurry,11,Straight Party,,,UNDER VOTES,34,4,9,21,0
-Scurry,12,Straight Party,,,UNDER VOTES,190,3,127,60,0
-Scurry,13,Straight Party,,,UNDER VOTES,126,3,61,62,0
-Scurry,14,Straight Party,,,UNDER VOTES,29,4,15,10,0
-Scurry,15,Straight Party,,,UNDER VOTES,140,6,77,57,0
-Scurry,5,U.S. Senate,,REP,Ted Cruz,56,0,29,27,0
-Scurry,6,U.S. Senate,,REP,Ted Cruz,134,11,76,47,0
-Scurry,7,U.S. Senate,,REP,Ted Cruz,968,53,651,264,0
-Scurry,8,U.S. Senate,,REP,Ted Cruz,364,14,234,116,0
-Scurry,9,U.S. Senate,,REP,Ted Cruz,257,11,119,127,0
-Scurry,10,U.S. Senate,,REP,Ted Cruz,644,39,425,180,0
-Scurry,11,U.S. Senate,,REP,Ted Cruz,72,6,26,40,0
-Scurry,12,U.S. Senate,,REP,Ted Cruz,503,19,311,173,0
-Scurry,13,U.S. Senate,,REP,Ted Cruz,229,9,108,112,0
-Scurry,14,U.S. Senate,,REP,Ted Cruz,67,6,37,24,0
-Scurry,15,U.S. Senate,,REP,Ted Cruz,411,26,238,147,0
-Scurry,5,U.S. Senate,,DEM,Beto O'Rourke,8,0,2,6,0
-Scurry,6,U.S. Senate,,DEM,Beto O'Rourke,23,1,12,10,0
-Scurry,7,U.S. Senate,,DEM,Beto O'Rourke,148,15,90,43,0
-Scurry,8,U.S. Senate,,DEM,Beto O'Rourke,53,0,42,11,0
-Scurry,9,U.S. Senate,,DEM,Beto O'Rourke,20,0,8,12,0
-Scurry,10,U.S. Senate,,DEM,Beto O'Rourke,72,10,36,26,0
-Scurry,11,U.S. Senate,,DEM,Beto O'Rourke,5,0,0,5,0
-Scurry,12,U.S. Senate,,DEM,Beto O'Rourke,119,10,59,50,0
-Scurry,13,U.S. Senate,,DEM,Beto O'Rourke,39,3,12,24,0
-Scurry,14,U.S. Senate,,DEM,Beto O'Rourke,13,2,7,4,0
-Scurry,15,U.S. Senate,,DEM,Beto O'Rourke,142,8,69,65,0
+Scurry,5,Straight Party,,,UNDER VOTES,34,17,17,0,0
+Scurry,6,Straight Party,,,UNDER VOTES,57,26,29,2,0
+Scurry,7,Straight Party,,,UNDER VOTES,389,110,266,13,0
+Scurry,8,Straight Party,,,UNDER VOTES,148,52,95,1,0
+Scurry,9,Straight Party,,,UNDER VOTES,132,69,59,4,0
+Scurry,10,Straight Party,,,UNDER VOTES,249,93,148,8,0
+Scurry,11,Straight Party,,,UNDER VOTES,34,21,9,4,0
+Scurry,12,Straight Party,,,UNDER VOTES,190,60,127,3,0
+Scurry,13,Straight Party,,,UNDER VOTES,126,62,61,3,0
+Scurry,14,Straight Party,,,UNDER VOTES,29,10,15,4,0
+Scurry,15,Straight Party,,,UNDER VOTES,140,57,77,6,0
+Scurry,5,U.S. Senate,,REP,Ted Cruz,56,27,29,0,0
+Scurry,6,U.S. Senate,,REP,Ted Cruz,134,47,76,11,0
+Scurry,7,U.S. Senate,,REP,Ted Cruz,968,264,651,53,0
+Scurry,8,U.S. Senate,,REP,Ted Cruz,364,116,234,14,0
+Scurry,9,U.S. Senate,,REP,Ted Cruz,257,127,119,11,0
+Scurry,10,U.S. Senate,,REP,Ted Cruz,644,180,425,39,0
+Scurry,11,U.S. Senate,,REP,Ted Cruz,72,40,26,6,0
+Scurry,12,U.S. Senate,,REP,Ted Cruz,503,173,311,19,0
+Scurry,13,U.S. Senate,,REP,Ted Cruz,229,112,108,9,0
+Scurry,14,U.S. Senate,,REP,Ted Cruz,67,24,37,6,0
+Scurry,15,U.S. Senate,,REP,Ted Cruz,411,147,238,26,0
+Scurry,5,U.S. Senate,,DEM,Beto O'Rourke,8,6,2,0,0
+Scurry,6,U.S. Senate,,DEM,Beto O'Rourke,23,10,12,1,0
+Scurry,7,U.S. Senate,,DEM,Beto O'Rourke,148,43,90,15,0
+Scurry,8,U.S. Senate,,DEM,Beto O'Rourke,53,11,42,0,0
+Scurry,9,U.S. Senate,,DEM,Beto O'Rourke,20,12,8,0,0
+Scurry,10,U.S. Senate,,DEM,Beto O'Rourke,72,26,36,10,0
+Scurry,11,U.S. Senate,,DEM,Beto O'Rourke,5,5,0,0,0
+Scurry,12,U.S. Senate,,DEM,Beto O'Rourke,119,50,59,10,0
+Scurry,13,U.S. Senate,,DEM,Beto O'Rourke,39,24,12,3,0
+Scurry,14,U.S. Senate,,DEM,Beto O'Rourke,13,4,7,2,0
+Scurry,15,U.S. Senate,,DEM,Beto O'Rourke,142,65,69,8,0
 Scurry,5,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0,0,0
 Scurry,6,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0,0,0
-Scurry,7,U.S. Senate,,LIB,Neal M. Dikeman,5,0,2,3,0
-Scurry,8,U.S. Senate,,LIB,Neal M. Dikeman,1,0,0,1,0
-Scurry,9,U.S. Senate,,LIB,Neal M. Dikeman,1,0,0,1,0
-Scurry,10,U.S. Senate,,LIB,Neal M. Dikeman,3,0,2,1,0
+Scurry,7,U.S. Senate,,LIB,Neal M. Dikeman,5,3,2,0,0
+Scurry,8,U.S. Senate,,LIB,Neal M. Dikeman,1,1,0,0,0
+Scurry,9,U.S. Senate,,LIB,Neal M. Dikeman,1,1,0,0,0
+Scurry,10,U.S. Senate,,LIB,Neal M. Dikeman,3,1,2,0,0
 Scurry,11,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0,0,0
-Scurry,12,U.S. Senate,,LIB,Neal M. Dikeman,4,0,1,3,0
-Scurry,13,U.S. Senate,,LIB,Neal M. Dikeman,1,0,0,1,0
+Scurry,12,U.S. Senate,,LIB,Neal M. Dikeman,4,3,1,0,0
+Scurry,13,U.S. Senate,,LIB,Neal M. Dikeman,1,1,0,0,0
 Scurry,14,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0,0,0
-Scurry,15,U.S. Senate,,LIB,Neal M. Dikeman,1,0,0,1,0
+Scurry,15,U.S. Senate,,LIB,Neal M. Dikeman,1,1,0,0,0
 Scurry,5,U.S. Senate,,,OVER VOTES,0,0,0,0,0
 Scurry,6,U.S. Senate,,,OVER VOTES,0,0,0,0,0
 Scurry,7,U.S. Senate,,,OVER VOTES,0,0,0,0,0
@@ -121,38 +121,38 @@ Scurry,13,U.S. Senate,,,OVER VOTES,0,0,0,0,0
 Scurry,14,U.S. Senate,,,OVER VOTES,0,0,0,0,0
 Scurry,15,U.S. Senate,,,OVER VOTES,0,0,0,0,0
 Scurry,5,U.S. Senate,,,UNDER VOTES,0,0,0,0,0
-Scurry,6,U.S. Senate,,,UNDER VOTES,1,0,0,1,0
-Scurry,7,U.S. Senate,,,UNDER VOTES,4,0,3,1,0
-Scurry,8,U.S. Senate,,,UNDER VOTES,2,0,0,2,0
-Scurry,9,U.S. Senate,,,UNDER VOTES,1,0,0,1,0
-Scurry,10,U.S. Senate,,,UNDER VOTES,2,0,0,2,0
+Scurry,6,U.S. Senate,,,UNDER VOTES,1,1,0,0,0
+Scurry,7,U.S. Senate,,,UNDER VOTES,4,1,3,0,0
+Scurry,8,U.S. Senate,,,UNDER VOTES,2,2,0,0,0
+Scurry,9,U.S. Senate,,,UNDER VOTES,1,1,0,0,0
+Scurry,10,U.S. Senate,,,UNDER VOTES,2,2,0,0,0
 Scurry,11,U.S. Senate,,,UNDER VOTES,2,1,0,1,0
-Scurry,12,U.S. Senate,,,UNDER VOTES,5,0,1,3,1
-Scurry,13,U.S. Senate,,,UNDER VOTES,3,0,1,2,0
+Scurry,12,U.S. Senate,,,UNDER VOTES,5,3,1,0,1
+Scurry,13,U.S. Senate,,,UNDER VOTES,3,2,1,0,0
 Scurry,14,U.S. Senate,,,UNDER VOTES,0,0,0,0,0
-Scurry,15,U.S. Senate,,,UNDER VOTES,8,0,6,2,0
-Scurry,5,U.S. House,19,REP,Jodey Arrington,59,0,29,30,0
-Scurry,6,U.S. House,19,REP,Jodey Arrington,138,11,75,52,0
-Scurry,7,U.S. House,19,REP,Jodey Arrington,978,54,658,266,0
-Scurry,8,U.S. House,19,REP,Jodey Arrington,368,14,239,115,0
-Scurry,9,U.S. House,19,REP,Jodey Arrington,257,11,120,126,0
-Scurry,10,U.S. House,19,REP,Jodey Arrington,648,38,423,187,0
-Scurry,11,U.S. House,19,REP,Jodey Arrington,72,7,26,39,0
-Scurry,12,U.S. House,19,REP,Jodey Arrington,511,19,316,176,0
-Scurry,13,U.S. House,19,REP,Jodey Arrington,236,9,108,119,0
-Scurry,14,U.S. House,19,REP,Jodey Arrington,73,8,37,28,0
-Scurry,15,U.S. House,19,REP,Jodey Arrington,420,25,242,153,0
-Scurry,5,U.S. House,19,DEM,Miguel Levario,5,0,2,3,0
-Scurry,6,U.S. House,19,DEM,Miguel Levario,16,1,10,5,0
-Scurry,7,U.S. House,19,DEM,Miguel Levario,135,13,83,39,0
-Scurry,8,U.S. House,19,DEM,Miguel Levario,49,0,36,13,0
-Scurry,9,U.S. House,19,DEM,Miguel Levario,16,0,7,9,0
-Scurry,10,U.S. House,19,DEM,Miguel Levario,66,10,35,21,0
-Scurry,11,U.S. House,19,DEM,Miguel Levario,5,0,0,5,0
-Scurry,12,U.S. House,19,DEM,Miguel Levario,114,10,55,49,0
-Scurry,13,U.S. House,19,DEM,Miguel Levario,32,3,12,17,0
+Scurry,15,U.S. Senate,,,UNDER VOTES,8,2,6,0,0
+Scurry,5,U.S. House,19,REP,Jodey Arrington,59,30,29,0,0
+Scurry,6,U.S. House,19,REP,Jodey Arrington,138,52,75,11,0
+Scurry,7,U.S. House,19,REP,Jodey Arrington,978,266,658,54,0
+Scurry,8,U.S. House,19,REP,Jodey Arrington,368,115,239,14,0
+Scurry,9,U.S. House,19,REP,Jodey Arrington,257,126,120,11,0
+Scurry,10,U.S. House,19,REP,Jodey Arrington,648,187,423,38,0
+Scurry,11,U.S. House,19,REP,Jodey Arrington,72,39,26,7,0
+Scurry,12,U.S. House,19,REP,Jodey Arrington,511,176,316,19,0
+Scurry,13,U.S. House,19,REP,Jodey Arrington,236,119,108,9,0
+Scurry,14,U.S. House,19,REP,Jodey Arrington,73,28,37,8,0
+Scurry,15,U.S. House,19,REP,Jodey Arrington,420,153,242,25,0
+Scurry,5,U.S. House,19,DEM,Miguel Levario,5,3,2,0,0
+Scurry,6,U.S. House,19,DEM,Miguel Levario,16,5,10,1,0
+Scurry,7,U.S. House,19,DEM,Miguel Levario,135,39,83,13,0
+Scurry,8,U.S. House,19,DEM,Miguel Levario,49,13,36,0,0
+Scurry,9,U.S. House,19,DEM,Miguel Levario,16,9,7,0,0
+Scurry,10,U.S. House,19,DEM,Miguel Levario,66,21,35,10,0
+Scurry,11,U.S. House,19,DEM,Miguel Levario,5,5,0,0,0
+Scurry,12,U.S. House,19,DEM,Miguel Levario,114,49,55,10,0
+Scurry,13,U.S. House,19,DEM,Miguel Levario,32,17,12,3,0
 Scurry,14,U.S. House,19,DEM,Miguel Levario,7,0,7,0,0
-Scurry,15,U.S. House,19,DEM,Miguel Levario,133,8,65,60,0
+Scurry,15,U.S. House,19,DEM,Miguel Levario,133,60,65,8,0
 Scurry,5,U.S. House,19,,OVER VOTES,0,0,0,0,0
 Scurry,6,U.S. House,19,,OVER VOTES,0,0,0,0,0
 Scurry,7,U.S. House,19,,OVER VOTES,0,0,0,0,0
@@ -165,49 +165,49 @@ Scurry,13,U.S. House,19,,OVER VOTES,0,0,0,0,0
 Scurry,14,U.S. House,19,,OVER VOTES,0,0,0,0,0
 Scurry,15,U.S. House,19,,OVER VOTES,0,0,0,0,0
 Scurry,5,U.S. House,19,,UNDER VOTES,0,0,0,0,0
-Scurry,6,U.S. House,19,,UNDER VOTES,4,0,3,1,0
-Scurry,7,U.S. House,19,,UNDER VOTES,12,1,5,6,0
-Scurry,8,U.S. House,19,,UNDER VOTES,3,0,1,2,0
-Scurry,9,U.S. House,19,,UNDER VOTES,6,0,0,6,0
+Scurry,6,U.S. House,19,,UNDER VOTES,4,1,3,0,0
+Scurry,7,U.S. House,19,,UNDER VOTES,12,6,5,1,0
+Scurry,8,U.S. House,19,,UNDER VOTES,3,2,1,0,0
+Scurry,9,U.S. House,19,,UNDER VOTES,6,6,0,0,0
 Scurry,10,U.S. House,19,,UNDER VOTES,7,1,5,1,0
-Scurry,11,U.S. House,19,,UNDER VOTES,2,0,0,2,0
-Scurry,12,U.S. House,19,,UNDER VOTES,6,0,1,4,1
-Scurry,13,U.S. House,19,,UNDER VOTES,4,0,1,3,0
+Scurry,11,U.S. House,19,,UNDER VOTES,2,2,0,0,0
+Scurry,12,U.S. House,19,,UNDER VOTES,6,4,1,0,1
+Scurry,13,U.S. House,19,,UNDER VOTES,4,3,1,0,0
 Scurry,14,U.S. House,19,,UNDER VOTES,0,0,0,0,0
-Scurry,15,U.S. House,19,,UNDER VOTES,9,1,6,2,0
-Scurry,5,Governor,,REP,Greg Abbott,56,0,29,27,0
-Scurry,6,Governor,,REP,Greg Abbott,138,11,77,50,0
-Scurry,7,Governor,,REP,Greg Abbott,972,54,654,264,0
-Scurry,8,Governor,,REP,Greg Abbott,373,14,240,119,0
-Scurry,9,Governor,,REP,Greg Abbott,252,11,117,124,0
-Scurry,10,Governor,,REP,Greg Abbott,651,39,424,188,0
-Scurry,11,Governor,,REP,Greg Abbott,73,7,25,41,0
-Scurry,12,Governor,,REP,Greg Abbott,510,19,312,179,0
-Scurry,13,Governor,,REP,Greg Abbott,232,9,109,114,0
-Scurry,14,Governor,,REP,Greg Abbott,74,8,38,28,0
-Scurry,15,Governor,,REP,Greg Abbott,419,26,242,151,0
-Scurry,5,Governor,,DEM,Lupe Valdez,8,0,2,6,0
-Scurry,6,Governor,,DEM,Lupe Valdez,16,1,9,6,0
-Scurry,7,Governor,,DEM,Lupe Valdez,136,14,81,41,0
-Scurry,8,Governor,,DEM,Lupe Valdez,40,0,31,9,0
-Scurry,9,Governor,,DEM,Lupe Valdez,20,0,7,13,0
-Scurry,10,Governor,,DEM,Lupe Valdez,62,10,32,20,0
-Scurry,11,Governor,,DEM,Lupe Valdez,5,0,0,5,0
-Scurry,12,Governor,,DEM,Lupe Valdez,113,10,58,45,0
-Scurry,13,Governor,,DEM,Lupe Valdez,37,3,11,23,0
+Scurry,15,U.S. House,19,,UNDER VOTES,9,2,6,1,0
+Scurry,5,Governor,,REP,Greg Abbott,56,27,29,0,0
+Scurry,6,Governor,,REP,Greg Abbott,138,50,77,11,0
+Scurry,7,Governor,,REP,Greg Abbott,972,264,654,54,0
+Scurry,8,Governor,,REP,Greg Abbott,373,119,240,14,0
+Scurry,9,Governor,,REP,Greg Abbott,252,124,117,11,0
+Scurry,10,Governor,,REP,Greg Abbott,651,188,424,39,0
+Scurry,11,Governor,,REP,Greg Abbott,73,41,25,7,0
+Scurry,12,Governor,,REP,Greg Abbott,510,179,312,19,0
+Scurry,13,Governor,,REP,Greg Abbott,232,114,109,9,0
+Scurry,14,Governor,,REP,Greg Abbott,74,28,38,8,0
+Scurry,15,Governor,,REP,Greg Abbott,419,151,242,26,0
+Scurry,5,Governor,,DEM,Lupe Valdez,8,6,2,0,0
+Scurry,6,Governor,,DEM,Lupe Valdez,16,6,9,1,0
+Scurry,7,Governor,,DEM,Lupe Valdez,136,41,81,14,0
+Scurry,8,Governor,,DEM,Lupe Valdez,40,9,31,0,0
+Scurry,9,Governor,,DEM,Lupe Valdez,20,13,7,0,0
+Scurry,10,Governor,,DEM,Lupe Valdez,62,20,32,10,0
+Scurry,11,Governor,,DEM,Lupe Valdez,5,5,0,0,0
+Scurry,12,Governor,,DEM,Lupe Valdez,113,45,58,10,0
+Scurry,13,Governor,,DEM,Lupe Valdez,37,23,11,3,0
 Scurry,14,Governor,,DEM,Lupe Valdez,6,0,6,0,0
-Scurry,15,Governor,,DEM,Lupe Valdez,134,8,65,61,0
+Scurry,15,Governor,,DEM,Lupe Valdez,134,61,65,8,0
 Scurry,5,Governor,,LIB,Mark Jay Tippetts,0,0,0,0,0
 Scurry,6,Governor,,LIB,Mark Jay Tippetts,1,0,1,0,0
-Scurry,7,Governor,,LIB,Mark Jay Tippetts,12,0,8,4,0
+Scurry,7,Governor,,LIB,Mark Jay Tippetts,12,4,8,0,0
 Scurry,8,Governor,,LIB,Mark Jay Tippetts,4,0,4,0,0
-Scurry,9,Governor,,LIB,Mark Jay Tippetts,5,0,3,2,0
-Scurry,10,Governor,,LIB,Mark Jay Tippetts,5,0,4,1,0
+Scurry,9,Governor,,LIB,Mark Jay Tippetts,5,2,3,0,0
+Scurry,10,Governor,,LIB,Mark Jay Tippetts,5,1,4,0,0
 Scurry,11,Governor,,LIB,Mark Jay Tippetts,1,0,1,0,0
-Scurry,12,Governor,,LIB,Mark Jay Tippetts,5,0,2,3,0
-Scurry,13,Governor,,LIB,Mark Jay Tippetts,2,0,1,1,0
+Scurry,12,Governor,,LIB,Mark Jay Tippetts,5,3,2,0,0
+Scurry,13,Governor,,LIB,Mark Jay Tippetts,2,1,1,0,0
 Scurry,14,Governor,,LIB,Mark Jay Tippetts,0,0,0,0,0
-Scurry,15,Governor,,LIB,Mark Jay Tippetts,6,0,4,2,0
+Scurry,15,Governor,,LIB,Mark Jay Tippetts,6,2,4,0,0
 Scurry,5,Governor,,,OVER VOTES,0,0,0,0,0
 Scurry,6,Governor,,,OVER VOTES,0,0,0,0,0
 Scurry,7,Governor,,,OVER VOTES,0,0,0,0,0
@@ -220,49 +220,49 @@ Scurry,13,Governor,,,OVER VOTES,0,0,0,0,0
 Scurry,14,Governor,,,OVER VOTES,0,0,0,0,0
 Scurry,15,Governor,,,OVER VOTES,0,0,0,0,0
 Scurry,5,Governor,,,UNDER VOTES,0,0,0,0,0
-Scurry,6,Governor,,,UNDER VOTES,3,0,1,2,0
-Scurry,7,Governor,,,UNDER VOTES,5,0,3,2,0
-Scurry,8,Governor,,,UNDER VOTES,3,0,1,2,0
-Scurry,9,Governor,,,UNDER VOTES,2,0,0,2,0
+Scurry,6,Governor,,,UNDER VOTES,3,2,1,0,0
+Scurry,7,Governor,,,UNDER VOTES,5,2,3,0,0
+Scurry,8,Governor,,,UNDER VOTES,3,2,1,0,0
+Scurry,9,Governor,,,UNDER VOTES,2,2,0,0,0
 Scurry,10,Governor,,,UNDER VOTES,3,0,3,0,0
 Scurry,11,Governor,,,UNDER VOTES,0,0,0,0,0
-Scurry,12,Governor,,,UNDER VOTES,3,0,0,2,1
-Scurry,13,Governor,,,UNDER VOTES,1,0,0,1,0
+Scurry,12,Governor,,,UNDER VOTES,3,2,0,0,1
+Scurry,13,Governor,,,UNDER VOTES,1,1,0,0,0
 Scurry,14,Governor,,,UNDER VOTES,0,0,0,0,0
-Scurry,15,Governor,,,UNDER VOTES,3,0,2,1,0
-Scurry,5,Lieutenant Governor,,REP,Dan Patrick,56,0,28,28,0
-Scurry,6,Lieutenant Governor,,REP,Dan Patrick,135,11,74,50,0
-Scurry,7,Lieutenant Governor,,REP,Dan Patrick,910,54,613,243,0
-Scurry,8,Lieutenant Governor,,REP,Dan Patrick,337,13,225,99,0
-Scurry,9,Lieutenant Governor,,REP,Dan Patrick,221,8,110,103,0
-Scurry,10,Lieutenant Governor,,REP,Dan Patrick,596,39,395,162,0
-Scurry,11,Lieutenant Governor,,REP,Dan Patrick,67,7,22,38,0
-Scurry,12,Lieutenant Governor,,REP,Dan Patrick,475,19,290,166,0
-Scurry,13,Lieutenant Governor,,REP,Dan Patrick,198,8,99,91,0
-Scurry,14,Lieutenant Governor,,REP,Dan Patrick,62,6,35,21,0
-Scurry,15,Lieutenant Governor,,REP,Dan Patrick,399,27,234,138,0
-Scurry,5,Lieutenant Governor,,DEM,Mike Collier,7,0,2,5,0
-Scurry,6,Lieutenant Governor,,DEM,Mike Collier,19,1,13,5,0
-Scurry,7,Lieutenant Governor,,DEM,Mike Collier,192,14,119,59,0
-Scurry,8,Lieutenant Governor,,DEM,Mike Collier,72,1,47,24,0
-Scurry,9,Lieutenant Governor,,DEM,Mike Collier,45,1,15,29,0
-Scurry,10,Lieutenant Governor,,DEM,Mike Collier,105,10,56,39,0
-Scurry,11,Lieutenant Governor,,DEM,Mike Collier,10,0,3,7,0
-Scurry,12,Lieutenant Governor,,DEM,Mike Collier,131,10,70,51,0
-Scurry,13,Lieutenant Governor,,DEM,Mike Collier,70,4,21,45,0
-Scurry,14,Lieutenant Governor,,DEM,Mike Collier,18,2,9,7,0
-Scurry,15,Lieutenant Governor,,DEM,Mike Collier,136,7,64,65,0
+Scurry,15,Governor,,,UNDER VOTES,3,1,2,0,0
+Scurry,5,Lieutenant Governor,,REP,Dan Patrick,56,28,28,0,0
+Scurry,6,Lieutenant Governor,,REP,Dan Patrick,135,50,74,11,0
+Scurry,7,Lieutenant Governor,,REP,Dan Patrick,910,243,613,54,0
+Scurry,8,Lieutenant Governor,,REP,Dan Patrick,337,99,225,13,0
+Scurry,9,Lieutenant Governor,,REP,Dan Patrick,221,103,110,8,0
+Scurry,10,Lieutenant Governor,,REP,Dan Patrick,596,162,395,39,0
+Scurry,11,Lieutenant Governor,,REP,Dan Patrick,67,38,22,7,0
+Scurry,12,Lieutenant Governor,,REP,Dan Patrick,475,166,290,19,0
+Scurry,13,Lieutenant Governor,,REP,Dan Patrick,198,91,99,8,0
+Scurry,14,Lieutenant Governor,,REP,Dan Patrick,62,21,35,6,0
+Scurry,15,Lieutenant Governor,,REP,Dan Patrick,399,138,234,27,0
+Scurry,5,Lieutenant Governor,,DEM,Mike Collier,7,5,2,0,0
+Scurry,6,Lieutenant Governor,,DEM,Mike Collier,19,5,13,1,0
+Scurry,7,Lieutenant Governor,,DEM,Mike Collier,192,59,119,14,0
+Scurry,8,Lieutenant Governor,,DEM,Mike Collier,72,24,47,1,0
+Scurry,9,Lieutenant Governor,,DEM,Mike Collier,45,29,15,1,0
+Scurry,10,Lieutenant Governor,,DEM,Mike Collier,105,39,56,10,0
+Scurry,11,Lieutenant Governor,,DEM,Mike Collier,10,7,3,0,0
+Scurry,12,Lieutenant Governor,,DEM,Mike Collier,131,51,70,10,0
+Scurry,13,Lieutenant Governor,,DEM,Mike Collier,70,45,21,4,0
+Scurry,14,Lieutenant Governor,,DEM,Mike Collier,18,7,9,2,0
+Scurry,15,Lieutenant Governor,,DEM,Mike Collier,136,65,64,7,0
 Scurry,5,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,0,1,0,0
-Scurry,6,Lieutenant Governor,,LIB,Kerry Douglas McKennon,2,0,1,1,0
-Scurry,7,Lieutenant Governor,,LIB,Kerry Douglas McKennon,19,0,12,7,0
-Scurry,8,Lieutenant Governor,,LIB,Kerry Douglas McKennon,4,0,3,1,0
-Scurry,9,Lieutenant Governor,,LIB,Kerry Douglas McKennon,8,0,1,7,0
-Scurry,10,Lieutenant Governor,,LIB,Kerry Douglas McKennon,12,0,8,4,0
+Scurry,6,Lieutenant Governor,,LIB,Kerry Douglas McKennon,2,1,1,0,0
+Scurry,7,Lieutenant Governor,,LIB,Kerry Douglas McKennon,19,7,12,0,0
+Scurry,8,Lieutenant Governor,,LIB,Kerry Douglas McKennon,4,1,3,0,0
+Scurry,9,Lieutenant Governor,,LIB,Kerry Douglas McKennon,8,7,1,0,0
+Scurry,10,Lieutenant Governor,,LIB,Kerry Douglas McKennon,12,4,8,0,0
 Scurry,11,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,0,1,0,0
-Scurry,12,Lieutenant Governor,,LIB,Kerry Douglas McKennon,18,0,10,8,0
-Scurry,13,Lieutenant Governor,,LIB,Kerry Douglas McKennon,3,0,1,2,0
+Scurry,12,Lieutenant Governor,,LIB,Kerry Douglas McKennon,18,8,10,0,0
+Scurry,13,Lieutenant Governor,,LIB,Kerry Douglas McKennon,3,2,1,0,0
 Scurry,14,Lieutenant Governor,,LIB,Kerry Douglas McKennon,0,0,0,0,0
-Scurry,15,Lieutenant Governor,,LIB,Kerry Douglas McKennon,17,0,8,9,0
+Scurry,15,Lieutenant Governor,,LIB,Kerry Douglas McKennon,17,9,8,0,0
 Scurry,5,Lieutenant Governor,,,OVER VOTES,0,0,0,0,0
 Scurry,6,Lieutenant Governor,,,OVER VOTES,0,0,0,0,0
 Scurry,7,Lieutenant Governor,,,OVER VOTES,0,0,0,0,0
@@ -275,49 +275,49 @@ Scurry,13,Lieutenant Governor,,,OVER VOTES,0,0,0,0,0
 Scurry,14,Lieutenant Governor,,,OVER VOTES,0,0,0,0,0
 Scurry,15,Lieutenant Governor,,,OVER VOTES,0,0,0,0,0
 Scurry,5,Lieutenant Governor,,,UNDER VOTES,0,0,0,0,0
-Scurry,6,Lieutenant Governor,,,UNDER VOTES,2,0,0,2,0
-Scurry,7,Lieutenant Governor,,,UNDER VOTES,4,0,2,2,0
-Scurry,8,Lieutenant Governor,,,UNDER VOTES,7,0,1,6,0
+Scurry,6,Lieutenant Governor,,,UNDER VOTES,2,2,0,0,0
+Scurry,7,Lieutenant Governor,,,UNDER VOTES,4,2,2,0,0
+Scurry,8,Lieutenant Governor,,,UNDER VOTES,7,6,1,0,0
 Scurry,9,Lieutenant Governor,,,UNDER VOTES,5,2,1,2,0
-Scurry,10,Lieutenant Governor,,,UNDER VOTES,8,0,4,4,0
-Scurry,11,Lieutenant Governor,,,UNDER VOTES,1,0,0,1,0
-Scurry,12,Lieutenant Governor,,,UNDER VOTES,7,0,2,4,1
-Scurry,13,Lieutenant Governor,,,UNDER VOTES,1,0,0,1,0
+Scurry,10,Lieutenant Governor,,,UNDER VOTES,8,4,4,0,0
+Scurry,11,Lieutenant Governor,,,UNDER VOTES,1,1,0,0,0
+Scurry,12,Lieutenant Governor,,,UNDER VOTES,7,4,2,0,1
+Scurry,13,Lieutenant Governor,,,UNDER VOTES,1,1,0,0,0
 Scurry,14,Lieutenant Governor,,,UNDER VOTES,0,0,0,0,0
-Scurry,15,Lieutenant Governor,,,UNDER VOTES,10,0,7,3,0
-Scurry,5,Attorney General,,REP,Ken Paxton,55,0,28,27,0
-Scurry,6,Attorney General,,REP,Ken Paxton,131,9,74,48,0
-Scurry,7,Attorney General,,REP,Ken Paxton,932,53,621,258,0
-Scurry,8,Attorney General,,REP,Ken Paxton,358,13,231,114,0
-Scurry,9,Attorney General,,REP,Ken Paxton,243,9,113,121,0
-Scurry,10,Attorney General,,REP,Ken Paxton,627,39,411,177,0
-Scurry,11,Attorney General,,REP,Ken Paxton,67,5,24,38,0
-Scurry,12,Attorney General,,REP,Ken Paxton,495,19,302,174,0
-Scurry,13,Attorney General,,REP,Ken Paxton,223,9,102,112,0
-Scurry,14,Attorney General,,REP,Ken Paxton,64,6,35,23,0
-Scurry,15,Attorney General,,REP,Ken Paxton,393,27,228,138,0
-Scurry,5,Attorney General,,DEM,Justin Nelson,9,0,3,6,0
-Scurry,6,Attorney General,,DEM,Justin Nelson,20,1,12,7,0
-Scurry,7,Attorney General,,DEM,Justin Nelson,164,14,106,44,0
-Scurry,8,Attorney General,,DEM,Justin Nelson,49,1,38,10,0
-Scurry,9,Attorney General,,DEM,Justin Nelson,27,2,12,13,0
-Scurry,10,Attorney General,,DEM,Justin Nelson,85,9,44,32,0
-Scurry,11,Attorney General,,DEM,Justin Nelson,7,1,1,5,0
-Scurry,12,Attorney General,,DEM,Justin Nelson,118,10,62,46,0
-Scurry,13,Attorney General,,DEM,Justin Nelson,44,3,16,25,0
-Scurry,14,Attorney General,,DEM,Justin Nelson,16,2,9,5,0
-Scurry,15,Attorney General,,DEM,Justin Nelson,141,7,65,69,0
+Scurry,15,Lieutenant Governor,,,UNDER VOTES,10,3,7,0,0
+Scurry,5,Attorney General,,REP,Ken Paxton,55,27,28,0,0
+Scurry,6,Attorney General,,REP,Ken Paxton,131,48,74,9,0
+Scurry,7,Attorney General,,REP,Ken Paxton,932,258,621,53,0
+Scurry,8,Attorney General,,REP,Ken Paxton,358,114,231,13,0
+Scurry,9,Attorney General,,REP,Ken Paxton,243,121,113,9,0
+Scurry,10,Attorney General,,REP,Ken Paxton,627,177,411,39,0
+Scurry,11,Attorney General,,REP,Ken Paxton,67,38,24,5,0
+Scurry,12,Attorney General,,REP,Ken Paxton,495,174,302,19,0
+Scurry,13,Attorney General,,REP,Ken Paxton,223,112,102,9,0
+Scurry,14,Attorney General,,REP,Ken Paxton,64,23,35,6,0
+Scurry,15,Attorney General,,REP,Ken Paxton,393,138,228,27,0
+Scurry,5,Attorney General,,DEM,Justin Nelson,9,6,3,0,0
+Scurry,6,Attorney General,,DEM,Justin Nelson,20,7,12,1,0
+Scurry,7,Attorney General,,DEM,Justin Nelson,164,44,106,14,0
+Scurry,8,Attorney General,,DEM,Justin Nelson,49,10,38,1,0
+Scurry,9,Attorney General,,DEM,Justin Nelson,27,13,12,2,0
+Scurry,10,Attorney General,,DEM,Justin Nelson,85,32,44,9,0
+Scurry,11,Attorney General,,DEM,Justin Nelson,7,5,1,1,0
+Scurry,12,Attorney General,,DEM,Justin Nelson,118,46,62,10,0
+Scurry,13,Attorney General,,DEM,Justin Nelson,44,25,16,3,0
+Scurry,14,Attorney General,,DEM,Justin Nelson,16,5,9,2,0
+Scurry,15,Attorney General,,DEM,Justin Nelson,141,69,65,7,0
 Scurry,5,Attorney General,,LIB,Michael Ray Harris,0,0,0,0,0
-Scurry,6,Attorney General,,LIB,Michael Ray Harris,2,2,0,0,0
-Scurry,7,Attorney General,,LIB,Michael Ray Harris,17,1,11,5,0
-Scurry,8,Attorney General,,LIB,Michael Ray Harris,7,0,6,1,0
-Scurry,9,Attorney General,,LIB,Michael Ray Harris,4,0,1,3,0
+Scurry,6,Attorney General,,LIB,Michael Ray Harris,2,0,0,2,0
+Scurry,7,Attorney General,,LIB,Michael Ray Harris,17,5,11,1,0
+Scurry,8,Attorney General,,LIB,Michael Ray Harris,7,1,6,0,0
+Scurry,9,Attorney General,,LIB,Michael Ray Harris,4,3,1,0,0
 Scurry,10,Attorney General,,LIB,Michael Ray Harris,5,0,5,0,0
-Scurry,11,Attorney General,,LIB,Michael Ray Harris,2,0,1,1,0
-Scurry,12,Attorney General,,LIB,Michael Ray Harris,13,0,5,8,0
-Scurry,13,Attorney General,,LIB,Michael Ray Harris,3,0,2,1,0
+Scurry,11,Attorney General,,LIB,Michael Ray Harris,2,1,1,0,0
+Scurry,12,Attorney General,,LIB,Michael Ray Harris,13,8,5,0,0
+Scurry,13,Attorney General,,LIB,Michael Ray Harris,3,1,2,0,0
 Scurry,14,Attorney General,,LIB,Michael Ray Harris,0,0,0,0,0
-Scurry,15,Attorney General,,LIB,Michael Ray Harris,16,0,9,7,0
+Scurry,15,Attorney General,,LIB,Michael Ray Harris,16,7,9,0,0
 Scurry,5,Attorney General,,,OVER VOTES,0,0,0,0,0
 Scurry,6,Attorney General,,,OVER VOTES,0,0,0,0,0
 Scurry,7,Attorney General,,,OVER VOTES,0,0,0,0,0
@@ -330,49 +330,49 @@ Scurry,13,Attorney General,,,OVER VOTES,0,0,0,0,0
 Scurry,14,Attorney General,,,OVER VOTES,0,0,0,0,0
 Scurry,15,Attorney General,,,OVER VOTES,0,0,0,0,0
 Scurry,5,Attorney General,,,UNDER VOTES,0,0,0,0,0
-Scurry,6,Attorney General,,,UNDER VOTES,5,0,2,3,0
-Scurry,7,Attorney General,,,UNDER VOTES,12,0,8,4,0
-Scurry,8,Attorney General,,,UNDER VOTES,6,0,1,5,0
-Scurry,9,Attorney General,,,UNDER VOTES,5,0,1,4,0
-Scurry,10,Attorney General,,,UNDER VOTES,4,1,3,0,0
-Scurry,11,Attorney General,,,UNDER VOTES,3,1,0,2,0
-Scurry,12,Attorney General,,,UNDER VOTES,5,0,3,1,1
-Scurry,13,Attorney General,,,UNDER VOTES,2,0,1,1,0
+Scurry,6,Attorney General,,,UNDER VOTES,5,3,2,0,0
+Scurry,7,Attorney General,,,UNDER VOTES,12,4,8,0,0
+Scurry,8,Attorney General,,,UNDER VOTES,6,5,1,0,0
+Scurry,9,Attorney General,,,UNDER VOTES,5,4,1,0,0
+Scurry,10,Attorney General,,,UNDER VOTES,4,0,3,1,0
+Scurry,11,Attorney General,,,UNDER VOTES,3,2,0,1,0
+Scurry,12,Attorney General,,,UNDER VOTES,5,1,3,0,1
+Scurry,13,Attorney General,,,UNDER VOTES,2,1,1,0,0
 Scurry,14,Attorney General,,,UNDER VOTES,0,0,0,0,0
-Scurry,15,Attorney General,,,UNDER VOTES,12,0,11,1,0
-Scurry,5,Comptroller of Public Accounts,,REP,Glenn Hegar,53,0,29,24,0
-Scurry,6,Comptroller of Public Accounts,,REP,Glenn Hegar,138,11,76,51,0
-Scurry,7,Comptroller of Public Accounts,,REP,Glenn Hegar,952,56,637,259,0
-Scurry,8,Comptroller of Public Accounts,,REP,Glenn Hegar,358,13,233,112,0
-Scurry,9,Comptroller of Public Accounts,,REP,Glenn Hegar,252,9,118,125,0
-Scurry,10,Comptroller of Public Accounts,,REP,Glenn Hegar,636,39,419,178,0
-Scurry,11,Comptroller of Public Accounts,,REP,Glenn Hegar,67,6,24,37,0
-Scurry,12,Comptroller of Public Accounts,,REP,Glenn Hegar,495,19,305,171,0
-Scurry,13,Comptroller of Public Accounts,,REP,Glenn Hegar,221,9,100,112,0
-Scurry,14,Comptroller of Public Accounts,,REP,Glenn Hegar,68,6,36,26,0
-Scurry,15,Comptroller of Public Accounts,,REP,Glenn Hegar,399,26,230,143,0
-Scurry,5,Comptroller of Public Accounts,,DEM,Joi Chevalier,6,0,2,4,0
-Scurry,6,Comptroller of Public Accounts,,DEM,Joi Chevalier,15,1,9,5,0
-Scurry,7,Comptroller of Public Accounts,,DEM,Joi Chevalier,133,12,82,39,0
-Scurry,8,Comptroller of Public Accounts,,DEM,Joi Chevalier,45,1,33,11,0
-Scurry,9,Comptroller of Public Accounts,,DEM,Joi Chevalier,16,0,6,10,0
-Scurry,10,Comptroller of Public Accounts,,DEM,Joi Chevalier,66,10,34,22,0
-Scurry,11,Comptroller of Public Accounts,,DEM,Joi Chevalier,6,1,0,5,0
-Scurry,12,Comptroller of Public Accounts,,DEM,Joi Chevalier,107,10,56,41,0
-Scurry,13,Comptroller of Public Accounts,,DEM,Joi Chevalier,37,3,14,20,0
-Scurry,14,Comptroller of Public Accounts,,DEM,Joi Chevalier,10,2,7,1,0
-Scurry,15,Comptroller of Public Accounts,,DEM,Joi Chevalier,135,8,67,60,0
-Scurry,5,Comptroller of Public Accounts,,LIB,Ben Sanders,3,0,0,3,0
+Scurry,15,Attorney General,,,UNDER VOTES,12,1,11,0,0
+Scurry,5,Comptroller of Public Accounts,,REP,Glenn Hegar,53,24,29,0,0
+Scurry,6,Comptroller of Public Accounts,,REP,Glenn Hegar,138,51,76,11,0
+Scurry,7,Comptroller of Public Accounts,,REP,Glenn Hegar,952,259,637,56,0
+Scurry,8,Comptroller of Public Accounts,,REP,Glenn Hegar,358,112,233,13,0
+Scurry,9,Comptroller of Public Accounts,,REP,Glenn Hegar,252,125,118,9,0
+Scurry,10,Comptroller of Public Accounts,,REP,Glenn Hegar,636,178,419,39,0
+Scurry,11,Comptroller of Public Accounts,,REP,Glenn Hegar,67,37,24,6,0
+Scurry,12,Comptroller of Public Accounts,,REP,Glenn Hegar,495,171,305,19,0
+Scurry,13,Comptroller of Public Accounts,,REP,Glenn Hegar,221,112,100,9,0
+Scurry,14,Comptroller of Public Accounts,,REP,Glenn Hegar,68,26,36,6,0
+Scurry,15,Comptroller of Public Accounts,,REP,Glenn Hegar,399,143,230,26,0
+Scurry,5,Comptroller of Public Accounts,,DEM,Joi Chevalier,6,4,2,0,0
+Scurry,6,Comptroller of Public Accounts,,DEM,Joi Chevalier,15,5,9,1,0
+Scurry,7,Comptroller of Public Accounts,,DEM,Joi Chevalier,133,39,82,12,0
+Scurry,8,Comptroller of Public Accounts,,DEM,Joi Chevalier,45,11,33,1,0
+Scurry,9,Comptroller of Public Accounts,,DEM,Joi Chevalier,16,10,6,0,0
+Scurry,10,Comptroller of Public Accounts,,DEM,Joi Chevalier,66,22,34,10,0
+Scurry,11,Comptroller of Public Accounts,,DEM,Joi Chevalier,6,5,0,1,0
+Scurry,12,Comptroller of Public Accounts,,DEM,Joi Chevalier,107,41,56,10,0
+Scurry,13,Comptroller of Public Accounts,,DEM,Joi Chevalier,37,20,14,3,0
+Scurry,14,Comptroller of Public Accounts,,DEM,Joi Chevalier,10,1,7,2,0
+Scurry,15,Comptroller of Public Accounts,,DEM,Joi Chevalier,135,60,67,8,0
+Scurry,5,Comptroller of Public Accounts,,LIB,Ben Sanders,3,3,0,0,0
 Scurry,6,Comptroller of Public Accounts,,LIB,Ben Sanders,1,0,1,0,0
-Scurry,7,Comptroller of Public Accounts,,LIB,Ben Sanders,19,0,13,6,0
-Scurry,8,Comptroller of Public Accounts,,LIB,Ben Sanders,8,0,5,3,0
-Scurry,9,Comptroller of Public Accounts,,LIB,Ben Sanders,2,0,1,1,0
-Scurry,10,Comptroller of Public Accounts,,LIB,Ben Sanders,8,0,4,4,0
-Scurry,11,Comptroller of Public Accounts,,LIB,Ben Sanders,2,0,1,1,0
-Scurry,12,Comptroller of Public Accounts,,LIB,Ben Sanders,17,0,6,11,0
-Scurry,13,Comptroller of Public Accounts,,LIB,Ben Sanders,5,0,3,2,0
-Scurry,14,Comptroller of Public Accounts,,LIB,Ben Sanders,2,0,1,1,0
-Scurry,15,Comptroller of Public Accounts,,LIB,Ben Sanders,16,0,8,8,0
+Scurry,7,Comptroller of Public Accounts,,LIB,Ben Sanders,19,6,13,0,0
+Scurry,8,Comptroller of Public Accounts,,LIB,Ben Sanders,8,3,5,0,0
+Scurry,9,Comptroller of Public Accounts,,LIB,Ben Sanders,2,1,1,0,0
+Scurry,10,Comptroller of Public Accounts,,LIB,Ben Sanders,8,4,4,0,0
+Scurry,11,Comptroller of Public Accounts,,LIB,Ben Sanders,2,1,1,0,0
+Scurry,12,Comptroller of Public Accounts,,LIB,Ben Sanders,17,11,6,0,0
+Scurry,13,Comptroller of Public Accounts,,LIB,Ben Sanders,5,2,3,0,0
+Scurry,14,Comptroller of Public Accounts,,LIB,Ben Sanders,2,1,1,0,0
+Scurry,15,Comptroller of Public Accounts,,LIB,Ben Sanders,16,8,8,0,0
 Scurry,5,Comptroller of Public Accounts,,,OVER VOTES,0,0,0,0,0
 Scurry,6,Comptroller of Public Accounts,,,OVER VOTES,0,0,0,0,0
 Scurry,7,Comptroller of Public Accounts,,,OVER VOTES,0,0,0,0,0
@@ -384,50 +384,50 @@ Scurry,12,Comptroller of Public Accounts,,,OVER VOTES,0,0,0,0,0
 Scurry,13,Comptroller of Public Accounts,,,OVER VOTES,0,0,0,0,0
 Scurry,14,Comptroller of Public Accounts,,,OVER VOTES,0,0,0,0,0
 Scurry,15,Comptroller of Public Accounts,,,OVER VOTES,0,0,0,0,0
-Scurry,5,Comptroller of Public Accounts,,,UNDER VOTES,2,0,0,2,0
-Scurry,6,Comptroller of Public Accounts,,,UNDER VOTES,4,0,2,2,0
-Scurry,7,Comptroller of Public Accounts,,,UNDER VOTES,21,0,14,7,0
-Scurry,8,Comptroller of Public Accounts,,,UNDER VOTES,9,0,5,4,0
-Scurry,9,Comptroller of Public Accounts,,,UNDER VOTES,9,2,2,5,0
-Scurry,10,Comptroller of Public Accounts,,,UNDER VOTES,11,0,6,5,0
-Scurry,11,Comptroller of Public Accounts,,,UNDER VOTES,4,0,1,3,0
-Scurry,12,Comptroller of Public Accounts,,,UNDER VOTES,12,0,5,6,1
-Scurry,13,Comptroller of Public Accounts,,,UNDER VOTES,9,0,4,5,0
+Scurry,5,Comptroller of Public Accounts,,,UNDER VOTES,2,2,0,0,0
+Scurry,6,Comptroller of Public Accounts,,,UNDER VOTES,4,2,2,0,0
+Scurry,7,Comptroller of Public Accounts,,,UNDER VOTES,21,7,14,0,0
+Scurry,8,Comptroller of Public Accounts,,,UNDER VOTES,9,4,5,0,0
+Scurry,9,Comptroller of Public Accounts,,,UNDER VOTES,9,5,2,2,0
+Scurry,10,Comptroller of Public Accounts,,,UNDER VOTES,11,5,6,0,0
+Scurry,11,Comptroller of Public Accounts,,,UNDER VOTES,4,3,1,0,0
+Scurry,12,Comptroller of Public Accounts,,,UNDER VOTES,12,6,5,0,1
+Scurry,13,Comptroller of Public Accounts,,,UNDER VOTES,9,5,4,0,0
 Scurry,14,Comptroller of Public Accounts,,,UNDER VOTES,0,0,0,0,0
-Scurry,15,Comptroller of Public Accounts,,,UNDER VOTES,12,0,8,4,0
-Scurry,5,Commissioner of the General Land Office,,REP,George P. Bush,47,0,24,23,0
-Scurry,6,Commissioner of the General Land Office,,REP,George P. Bush,140,11,78,51,0
-Scurry,7,Commissioner of the General Land Office,,REP,George P. Bush,936,56,624,256,0
-Scurry,8,Commissioner of the General Land Office,,REP,George P. Bush,351,14,225,112,0
-Scurry,9,Commissioner of the General Land Office,,REP,George P. Bush,237,11,107,119,0
-Scurry,10,Commissioner of the General Land Office,,REP,George P. Bush,627,40,406,181,0
-Scurry,11,Commissioner of the General Land Office,,REP,George P. Bush,67,6,24,37,0
-Scurry,12,Commissioner of the General Land Office,,REP,George P. Bush,485,19,299,167,0
-Scurry,13,Commissioner of the General Land Office,,REP,George P. Bush,218,9,100,109,0
-Scurry,14,Commissioner of the General Land Office,,REP,George P. Bush,62,8,29,25,0
-Scurry,15,Commissioner of the General Land Office,,REP,George P. Bush,393,27,224,142,0
-Scurry,5,Commissioner of the General Land Office,,DEM,Miguel Suazo,6,0,2,4,0
-Scurry,6,Commissioner of the General Land Office,,DEM,Miguel Suazo,15,1,8,6,0
-Scurry,7,Commissioner of the General Land Office,,DEM,Miguel Suazo,139,12,87,40,0
-Scurry,8,Commissioner of the General Land Office,,DEM,Miguel Suazo,47,0,35,12,0
-Scurry,9,Commissioner of the General Land Office,,DEM,Miguel Suazo,25,0,13,12,0
-Scurry,10,Commissioner of the General Land Office,,DEM,Miguel Suazo,68,9,39,20,0
-Scurry,11,Commissioner of the General Land Office,,DEM,Miguel Suazo,7,0,0,7,0
-Scurry,12,Commissioner of the General Land Office,,DEM,Miguel Suazo,109,10,56,43,0
-Scurry,13,Commissioner of the General Land Office,,DEM,Miguel Suazo,40,3,14,23,0
-Scurry,14,Commissioner of the General Land Office,,DEM,Miguel Suazo,11,0,9,2,0
-Scurry,15,Commissioner of the General Land Office,,DEM,Miguel Suazo,133,7,63,63,0
-Scurry,5,Commissioner of the General Land Office,,LIB,Matt Pina,6,0,2,4,0
+Scurry,15,Comptroller of Public Accounts,,,UNDER VOTES,12,4,8,0,0
+Scurry,5,Commissioner of the General Land Office,,REP,George P. Bush,47,23,24,0,0
+Scurry,6,Commissioner of the General Land Office,,REP,George P. Bush,140,51,78,11,0
+Scurry,7,Commissioner of the General Land Office,,REP,George P. Bush,936,256,624,56,0
+Scurry,8,Commissioner of the General Land Office,,REP,George P. Bush,351,112,225,14,0
+Scurry,9,Commissioner of the General Land Office,,REP,George P. Bush,237,119,107,11,0
+Scurry,10,Commissioner of the General Land Office,,REP,George P. Bush,627,181,406,40,0
+Scurry,11,Commissioner of the General Land Office,,REP,George P. Bush,67,37,24,6,0
+Scurry,12,Commissioner of the General Land Office,,REP,George P. Bush,485,167,299,19,0
+Scurry,13,Commissioner of the General Land Office,,REP,George P. Bush,218,109,100,9,0
+Scurry,14,Commissioner of the General Land Office,,REP,George P. Bush,62,25,29,8,0
+Scurry,15,Commissioner of the General Land Office,,REP,George P. Bush,393,142,224,27,0
+Scurry,5,Commissioner of the General Land Office,,DEM,Miguel Suazo,6,4,2,0,0
+Scurry,6,Commissioner of the General Land Office,,DEM,Miguel Suazo,15,6,8,1,0
+Scurry,7,Commissioner of the General Land Office,,DEM,Miguel Suazo,139,40,87,12,0
+Scurry,8,Commissioner of the General Land Office,,DEM,Miguel Suazo,47,12,35,0,0
+Scurry,9,Commissioner of the General Land Office,,DEM,Miguel Suazo,25,12,13,0,0
+Scurry,10,Commissioner of the General Land Office,,DEM,Miguel Suazo,68,20,39,9,0
+Scurry,11,Commissioner of the General Land Office,,DEM,Miguel Suazo,7,7,0,0,0
+Scurry,12,Commissioner of the General Land Office,,DEM,Miguel Suazo,109,43,56,10,0
+Scurry,13,Commissioner of the General Land Office,,DEM,Miguel Suazo,40,23,14,3,0
+Scurry,14,Commissioner of the General Land Office,,DEM,Miguel Suazo,11,2,9,0,0
+Scurry,15,Commissioner of the General Land Office,,DEM,Miguel Suazo,133,63,63,7,0
+Scurry,5,Commissioner of the General Land Office,,LIB,Matt Pina,6,4,2,0,0
 Scurry,6,Commissioner of the General Land Office,,LIB,Matt Pina,1,0,1,0,0
-Scurry,7,Commissioner of the General Land Office,,LIB,Matt Pina,29,0,22,7,0
-Scurry,8,Commissioner of the General Land Office,,LIB,Matt Pina,13,0,11,2,0
-Scurry,9,Commissioner of the General Land Office,,LIB,Matt Pina,10,0,5,5,0
-Scurry,10,Commissioner of the General Land Office,,LIB,Matt Pina,16,0,12,4,0
-Scurry,11,Commissioner of the General Land Office,,LIB,Matt Pina,2,1,1,0,0
-Scurry,12,Commissioner of the General Land Office,,LIB,Matt Pina,23,0,10,13,0
-Scurry,13,Commissioner of the General Land Office,,LIB,Matt Pina,8,0,4,4,0
-Scurry,14,Commissioner of the General Land Office,,LIB,Matt Pina,5,0,4,1,0
-Scurry,15,Commissioner of the General Land Office,,LIB,Matt Pina,21,0,12,9,0
+Scurry,7,Commissioner of the General Land Office,,LIB,Matt Pina,29,7,22,0,0
+Scurry,8,Commissioner of the General Land Office,,LIB,Matt Pina,13,2,11,0,0
+Scurry,9,Commissioner of the General Land Office,,LIB,Matt Pina,10,5,5,0,0
+Scurry,10,Commissioner of the General Land Office,,LIB,Matt Pina,16,4,12,0,0
+Scurry,11,Commissioner of the General Land Office,,LIB,Matt Pina,2,0,1,1,0
+Scurry,12,Commissioner of the General Land Office,,LIB,Matt Pina,23,13,10,0,0
+Scurry,13,Commissioner of the General Land Office,,LIB,Matt Pina,8,4,4,0,0
+Scurry,14,Commissioner of the General Land Office,,LIB,Matt Pina,5,1,4,0,0
+Scurry,15,Commissioner of the General Land Office,,LIB,Matt Pina,21,9,12,0,0
 Scurry,5,Commissioner of the General Land Office,,,OVER VOTES,0,0,0,0,0
 Scurry,6,Commissioner of the General Land Office,,,OVER VOTES,0,0,0,0,0
 Scurry,7,Commissioner of the General Land Office,,,OVER VOTES,0,0,0,0,0
@@ -439,50 +439,50 @@ Scurry,12,Commissioner of the General Land Office,,,OVER VOTES,0,0,0,0,0
 Scurry,13,Commissioner of the General Land Office,,,OVER VOTES,0,0,0,0,0
 Scurry,14,Commissioner of the General Land Office,,,OVER VOTES,0,0,0,0,0
 Scurry,15,Commissioner of the General Land Office,,,OVER VOTES,0,0,0,0,0
-Scurry,5,Commissioner of the General Land Office,,,UNDER VOTES,5,0,3,2,0
-Scurry,6,Commissioner of the General Land Office,,,UNDER VOTES,2,0,1,1,0
-Scurry,7,Commissioner of the General Land Office,,,UNDER VOTES,21,0,13,8,0
-Scurry,8,Commissioner of the General Land Office,,,UNDER VOTES,9,0,5,4,0
-Scurry,9,Commissioner of the General Land Office,,,UNDER VOTES,7,0,2,5,0
-Scurry,10,Commissioner of the General Land Office,,,UNDER VOTES,10,0,6,4,0
-Scurry,11,Commissioner of the General Land Office,,,UNDER VOTES,3,0,1,2,0
-Scurry,12,Commissioner of the General Land Office,,,UNDER VOTES,14,0,7,6,1
-Scurry,13,Commissioner of the General Land Office,,,UNDER VOTES,6,0,3,3,0
+Scurry,5,Commissioner of the General Land Office,,,UNDER VOTES,5,2,3,0,0
+Scurry,6,Commissioner of the General Land Office,,,UNDER VOTES,2,1,1,0,0
+Scurry,7,Commissioner of the General Land Office,,,UNDER VOTES,21,8,13,0,0
+Scurry,8,Commissioner of the General Land Office,,,UNDER VOTES,9,4,5,0,0
+Scurry,9,Commissioner of the General Land Office,,,UNDER VOTES,7,5,2,0,0
+Scurry,10,Commissioner of the General Land Office,,,UNDER VOTES,10,4,6,0,0
+Scurry,11,Commissioner of the General Land Office,,,UNDER VOTES,3,2,1,0,0
+Scurry,12,Commissioner of the General Land Office,,,UNDER VOTES,14,6,7,0,1
+Scurry,13,Commissioner of the General Land Office,,,UNDER VOTES,6,3,3,0,0
 Scurry,14,Commissioner of the General Land Office,,,UNDER VOTES,2,0,2,0,0
-Scurry,15,Commissioner of the General Land Office,,,UNDER VOTES,15,0,14,1,0
-Scurry,5,Commissioner of Agriculture,,REP,Sid Miller,57,0,28,29,0
-Scurry,6,Commissioner of Agriculture,,REP,Sid Miller,135,11,75,49,0
-Scurry,7,Commissioner of Agriculture,,REP,Sid Miller,954,56,636,262,0
-Scurry,8,Commissioner of Agriculture,,REP,Sid Miller,359,13,231,115,0
-Scurry,9,Commissioner of Agriculture,,REP,Sid Miller,250,10,116,124,0
-Scurry,10,Commissioner of Agriculture,,REP,Sid Miller,642,39,423,180,0
-Scurry,11,Commissioner of Agriculture,,REP,Sid Miller,69,6,25,38,0
-Scurry,12,Commissioner of Agriculture,,REP,Sid Miller,499,19,303,177,0
-Scurry,13,Commissioner of Agriculture,,REP,Sid Miller,223,9,104,110,0
-Scurry,14,Commissioner of Agriculture,,REP,Sid Miller,67,6,36,25,0
-Scurry,15,Commissioner of Agriculture,,REP,Sid Miller,400,26,231,143,0
-Scurry,5,Commissioner of Agriculture,,DEM,Kim Olson,6,0,2,4,0
-Scurry,6,Commissioner of Agriculture,,DEM,Kim Olson,18,1,10,7,0
-Scurry,7,Commissioner of Agriculture,,DEM,Kim Olson,142,12,91,39,0
-Scurry,8,Commissioner of Agriculture,,DEM,Kim Olson,52,1,39,12,0
-Scurry,9,Commissioner of Agriculture,,DEM,Kim Olson,22,1,10,11,0
-Scurry,10,Commissioner of Agriculture,,DEM,Kim Olson,67,10,33,24,0
-Scurry,11,Commissioner of Agriculture,,DEM,Kim Olson,5,0,0,5,0
-Scurry,12,Commissioner of Agriculture,,DEM,Kim Olson,108,10,57,41,0
-Scurry,13,Commissioner of Agriculture,,DEM,Kim Olson,43,3,14,26,0
-Scurry,14,Commissioner of Agriculture,,DEM,Kim Olson,13,2,8,3,0
-Scurry,15,Commissioner of Agriculture,,DEM,Kim Olson,139,8,66,65,0
+Scurry,15,Commissioner of the General Land Office,,,UNDER VOTES,15,1,14,0,0
+Scurry,5,Commissioner of Agriculture,,REP,Sid Miller,57,29,28,0,0
+Scurry,6,Commissioner of Agriculture,,REP,Sid Miller,135,49,75,11,0
+Scurry,7,Commissioner of Agriculture,,REP,Sid Miller,954,262,636,56,0
+Scurry,8,Commissioner of Agriculture,,REP,Sid Miller,359,115,231,13,0
+Scurry,9,Commissioner of Agriculture,,REP,Sid Miller,250,124,116,10,0
+Scurry,10,Commissioner of Agriculture,,REP,Sid Miller,642,180,423,39,0
+Scurry,11,Commissioner of Agriculture,,REP,Sid Miller,69,38,25,6,0
+Scurry,12,Commissioner of Agriculture,,REP,Sid Miller,499,177,303,19,0
+Scurry,13,Commissioner of Agriculture,,REP,Sid Miller,223,110,104,9,0
+Scurry,14,Commissioner of Agriculture,,REP,Sid Miller,67,25,36,6,0
+Scurry,15,Commissioner of Agriculture,,REP,Sid Miller,400,143,231,26,0
+Scurry,5,Commissioner of Agriculture,,DEM,Kim Olson,6,4,2,0,0
+Scurry,6,Commissioner of Agriculture,,DEM,Kim Olson,18,7,10,1,0
+Scurry,7,Commissioner of Agriculture,,DEM,Kim Olson,142,39,91,12,0
+Scurry,8,Commissioner of Agriculture,,DEM,Kim Olson,52,12,39,1,0
+Scurry,9,Commissioner of Agriculture,,DEM,Kim Olson,22,11,10,1,0
+Scurry,10,Commissioner of Agriculture,,DEM,Kim Olson,67,24,33,10,0
+Scurry,11,Commissioner of Agriculture,,DEM,Kim Olson,5,5,0,0,0
+Scurry,12,Commissioner of Agriculture,,DEM,Kim Olson,108,41,57,10,0
+Scurry,13,Commissioner of Agriculture,,DEM,Kim Olson,43,26,14,3,0
+Scurry,14,Commissioner of Agriculture,,DEM,Kim Olson,13,3,8,2,0
+Scurry,15,Commissioner of Agriculture,,DEM,Kim Olson,139,65,66,8,0
 Scurry,5,Commissioner of Agriculture,,LIB,Richard Carpenter,1,0,1,0,0
 Scurry,6,Commissioner of Agriculture,,LIB,Richard Carpenter,2,0,2,0,0
-Scurry,7,Commissioner of Agriculture,,LIB,Richard Carpenter,13,0,10,3,0
+Scurry,7,Commissioner of Agriculture,,LIB,Richard Carpenter,13,3,10,0,0
 Scurry,8,Commissioner of Agriculture,,LIB,Richard Carpenter,3,0,3,0,0
-Scurry,9,Commissioner of Agriculture,,LIB,Richard Carpenter,3,0,1,2,0
+Scurry,9,Commissioner of Agriculture,,LIB,Richard Carpenter,3,2,1,0,0
 Scurry,10,Commissioner of Agriculture,,LIB,Richard Carpenter,3,0,3,0,0
-Scurry,11,Commissioner of Agriculture,,LIB,Richard Carpenter,2,1,1,0,0
-Scurry,12,Commissioner of Agriculture,,LIB,Richard Carpenter,12,0,5,7,0
-Scurry,13,Commissioner of Agriculture,,LIB,Richard Carpenter,2,0,1,1,0
+Scurry,11,Commissioner of Agriculture,,LIB,Richard Carpenter,2,0,1,1,0
+Scurry,12,Commissioner of Agriculture,,LIB,Richard Carpenter,12,7,5,0,0
+Scurry,13,Commissioner of Agriculture,,LIB,Richard Carpenter,2,1,1,0,0
 Scurry,14,Commissioner of Agriculture,,LIB,Richard Carpenter,0,0,0,0,0
-Scurry,15,Commissioner of Agriculture,,LIB,Richard Carpenter,13,0,7,6,0
+Scurry,15,Commissioner of Agriculture,,LIB,Richard Carpenter,13,6,7,0,0
 Scurry,5,Commissioner of Agriculture,,,OVER VOTES,0,0,0,0,0
 Scurry,6,Commissioner of Agriculture,,,OVER VOTES,0,0,0,0,0
 Scurry,7,Commissioner of Agriculture,,,OVER VOTES,0,0,0,0,0
@@ -495,49 +495,49 @@ Scurry,13,Commissioner of Agriculture,,,OVER VOTES,0,0,0,0,0
 Scurry,14,Commissioner of Agriculture,,,OVER VOTES,0,0,0,0,0
 Scurry,15,Commissioner of Agriculture,,,OVER VOTES,0,0,0,0,0
 Scurry,5,Commissioner of Agriculture,,,UNDER VOTES,0,0,0,0,0
-Scurry,6,Commissioner of Agriculture,,,UNDER VOTES,3,0,1,2,0
-Scurry,7,Commissioner of Agriculture,,,UNDER VOTES,16,0,9,7,0
-Scurry,8,Commissioner of Agriculture,,,UNDER VOTES,6,0,3,3,0
-Scurry,9,Commissioner of Agriculture,,,UNDER VOTES,4,0,0,4,0
-Scurry,10,Commissioner of Agriculture,,,UNDER VOTES,9,0,4,5,0
-Scurry,11,Commissioner of Agriculture,,,UNDER VOTES,3,0,0,3,0
-Scurry,12,Commissioner of Agriculture,,,UNDER VOTES,12,0,7,4,1
-Scurry,13,Commissioner of Agriculture,,,UNDER VOTES,4,0,2,2,0
+Scurry,6,Commissioner of Agriculture,,,UNDER VOTES,3,2,1,0,0
+Scurry,7,Commissioner of Agriculture,,,UNDER VOTES,16,7,9,0,0
+Scurry,8,Commissioner of Agriculture,,,UNDER VOTES,6,3,3,0,0
+Scurry,9,Commissioner of Agriculture,,,UNDER VOTES,4,4,0,0,0
+Scurry,10,Commissioner of Agriculture,,,UNDER VOTES,9,5,4,0,0
+Scurry,11,Commissioner of Agriculture,,,UNDER VOTES,3,3,0,0,0
+Scurry,12,Commissioner of Agriculture,,,UNDER VOTES,12,4,7,0,1
+Scurry,13,Commissioner of Agriculture,,,UNDER VOTES,4,2,2,0,0
 Scurry,14,Commissioner of Agriculture,,,UNDER VOTES,0,0,0,0,0
-Scurry,15,Commissioner of Agriculture,,,UNDER VOTES,10,0,9,1,0
-Scurry,5,Railroad Commissioner,,REP,Christi Craddick,58,0,29,29,0
-Scurry,6,Railroad Commissioner,,REP,Christi Craddick,136,11,73,52,0
-Scurry,7,Railroad Commissioner,,REP,Christi Craddick,948,54,637,257,0
-Scurry,8,Railroad Commissioner,,REP,Christi Craddick,358,13,233,112,0
-Scurry,9,Railroad Commissioner,,REP,Christi Craddick,257,10,119,128,0
-Scurry,10,Railroad Commissioner,,REP,Christi Craddick,631,39,415,177,0
-Scurry,11,Railroad Commissioner,,REP,Christi Craddick,67,6,24,37,0
-Scurry,12,Railroad Commissioner,,REP,Christi Craddick,497,19,303,175,0
-Scurry,13,Railroad Commissioner,,REP,Christi Craddick,220,9,101,110,0
-Scurry,14,Railroad Commissioner,,REP,Christi Craddick,71,8,36,27,0
-Scurry,15,Railroad Commissioner,,REP,Christi Craddick,393,26,226,141,0
-Scurry,5,Railroad Commissioner,,DEM,Roman McAllen,5,0,2,3,0
-Scurry,6,Railroad Commissioner,,DEM,Roman McAllen,15,1,10,4,0
-Scurry,7,Railroad Commissioner,,DEM,Roman McAllen,140,13,85,42,0
-Scurry,8,Railroad Commissioner,,DEM,Roman McAllen,45,1,32,12,0
-Scurry,9,Railroad Commissioner,,DEM,Roman McAllen,15,0,7,8,0
-Scurry,10,Railroad Commissioner,,DEM,Roman McAllen,67,10,34,23,0
-Scurry,11,Railroad Commissioner,,DEM,Roman McAllen,5,0,0,5,0
-Scurry,12,Railroad Commissioner,,DEM,Roman McAllen,110,10,58,42,0
-Scurry,13,Railroad Commissioner,,DEM,Roman McAllen,39,3,13,23,0
-Scurry,14,Railroad Commissioner,,DEM,Roman McAllen,8,0,7,1,0
-Scurry,15,Railroad Commissioner,,DEM,Roman McAllen,136,7,70,59,0
+Scurry,15,Commissioner of Agriculture,,,UNDER VOTES,10,1,9,0,0
+Scurry,5,Railroad Commissioner,,REP,Christi Craddick,58,29,29,0,0
+Scurry,6,Railroad Commissioner,,REP,Christi Craddick,136,52,73,11,0
+Scurry,7,Railroad Commissioner,,REP,Christi Craddick,948,257,637,54,0
+Scurry,8,Railroad Commissioner,,REP,Christi Craddick,358,112,233,13,0
+Scurry,9,Railroad Commissioner,,REP,Christi Craddick,257,128,119,10,0
+Scurry,10,Railroad Commissioner,,REP,Christi Craddick,631,177,415,39,0
+Scurry,11,Railroad Commissioner,,REP,Christi Craddick,67,37,24,6,0
+Scurry,12,Railroad Commissioner,,REP,Christi Craddick,497,175,303,19,0
+Scurry,13,Railroad Commissioner,,REP,Christi Craddick,220,110,101,9,0
+Scurry,14,Railroad Commissioner,,REP,Christi Craddick,71,27,36,8,0
+Scurry,15,Railroad Commissioner,,REP,Christi Craddick,393,141,226,26,0
+Scurry,5,Railroad Commissioner,,DEM,Roman McAllen,5,3,2,0,0
+Scurry,6,Railroad Commissioner,,DEM,Roman McAllen,15,4,10,1,0
+Scurry,7,Railroad Commissioner,,DEM,Roman McAllen,140,42,85,13,0
+Scurry,8,Railroad Commissioner,,DEM,Roman McAllen,45,12,32,1,0
+Scurry,9,Railroad Commissioner,,DEM,Roman McAllen,15,8,7,0,0
+Scurry,10,Railroad Commissioner,,DEM,Roman McAllen,67,23,34,10,0
+Scurry,11,Railroad Commissioner,,DEM,Roman McAllen,5,5,0,0,0
+Scurry,12,Railroad Commissioner,,DEM,Roman McAllen,110,42,58,10,0
+Scurry,13,Railroad Commissioner,,DEM,Roman McAllen,39,23,13,3,0
+Scurry,14,Railroad Commissioner,,DEM,Roman McAllen,8,1,7,0,0
+Scurry,15,Railroad Commissioner,,DEM,Roman McAllen,136,59,70,7,0
 Scurry,5,Railroad Commissioner,,LIB,Mike Wright,0,0,0,0,0
 Scurry,6,Railroad Commissioner,,LIB,Mike Wright,2,0,2,0,0
-Scurry,7,Railroad Commissioner,,LIB,Mike Wright,19,1,12,6,0
-Scurry,8,Railroad Commissioner,,LIB,Mike Wright,10,0,7,3,0
-Scurry,9,Railroad Commissioner,,LIB,Mike Wright,1,0,0,1,0
-Scurry,10,Railroad Commissioner,,LIB,Mike Wright,10,0,7,3,0
-Scurry,11,Railroad Commissioner,,LIB,Mike Wright,2,0,1,1,0
-Scurry,12,Railroad Commissioner,,LIB,Mike Wright,15,0,7,8,0
-Scurry,13,Railroad Commissioner,,LIB,Mike Wright,7,0,4,3,0
+Scurry,7,Railroad Commissioner,,LIB,Mike Wright,19,6,12,1,0
+Scurry,8,Railroad Commissioner,,LIB,Mike Wright,10,3,7,0,0
+Scurry,9,Railroad Commissioner,,LIB,Mike Wright,1,1,0,0,0
+Scurry,10,Railroad Commissioner,,LIB,Mike Wright,10,3,7,0,0
+Scurry,11,Railroad Commissioner,,LIB,Mike Wright,2,1,1,0,0
+Scurry,12,Railroad Commissioner,,LIB,Mike Wright,15,8,7,0,0
+Scurry,13,Railroad Commissioner,,LIB,Mike Wright,7,3,4,0,0
 Scurry,14,Railroad Commissioner,,LIB,Mike Wright,1,0,1,0,0
-Scurry,15,Railroad Commissioner,,LIB,Mike Wright,23,1,9,13,0
+Scurry,15,Railroad Commissioner,,LIB,Mike Wright,23,13,9,1,0
 Scurry,5,Railroad Commissioner,,,OVER VOTES,0,0,0,0,0
 Scurry,6,Railroad Commissioner,,,OVER VOTES,0,0,0,0,0
 Scurry,7,Railroad Commissioner,,,OVER VOTES,0,0,0,0,0
@@ -549,39 +549,39 @@ Scurry,12,Railroad Commissioner,,,OVER VOTES,0,0,0,0,0
 Scurry,13,Railroad Commissioner,,,OVER VOTES,0,0,0,0,0
 Scurry,14,Railroad Commissioner,,,OVER VOTES,0,0,0,0,0
 Scurry,15,Railroad Commissioner,,,OVER VOTES,0,0,0,0,0
-Scurry,5,Railroad Commissioner,,,UNDER VOTES,1,0,0,1,0
-Scurry,6,Railroad Commissioner,,,UNDER VOTES,5,0,3,2,0
-Scurry,7,Railroad Commissioner,,,UNDER VOTES,18,0,12,6,0
-Scurry,8,Railroad Commissioner,,,UNDER VOTES,7,0,4,3,0
-Scurry,9,Railroad Commissioner,,,UNDER VOTES,6,1,1,4,0
-Scurry,10,Railroad Commissioner,,,UNDER VOTES,13,0,7,6,0
-Scurry,11,Railroad Commissioner,,,UNDER VOTES,5,1,1,3,0
-Scurry,12,Railroad Commissioner,,,UNDER VOTES,9,0,4,4,1
-Scurry,13,Railroad Commissioner,,,UNDER VOTES,6,0,3,3,0
+Scurry,5,Railroad Commissioner,,,UNDER VOTES,1,1,0,0,0
+Scurry,6,Railroad Commissioner,,,UNDER VOTES,5,2,3,0,0
+Scurry,7,Railroad Commissioner,,,UNDER VOTES,18,6,12,0,0
+Scurry,8,Railroad Commissioner,,,UNDER VOTES,7,3,4,0,0
+Scurry,9,Railroad Commissioner,,,UNDER VOTES,6,4,1,1,0
+Scurry,10,Railroad Commissioner,,,UNDER VOTES,13,6,7,0,0
+Scurry,11,Railroad Commissioner,,,UNDER VOTES,5,3,1,1,0
+Scurry,12,Railroad Commissioner,,,UNDER VOTES,9,4,4,0,1
+Scurry,13,Railroad Commissioner,,,UNDER VOTES,6,3,3,0,0
 Scurry,14,Railroad Commissioner,,,UNDER VOTES,0,0,0,0,0
-Scurry,15,Railroad Commissioner,,,UNDER VOTES,10,0,8,2,0
-Scurry,5,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,56,0,29,27,0
-Scurry,6,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,135,11,76,48,0
-Scurry,7,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,951,54,636,261,0
-Scurry,8,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,361,14,234,113,0
-Scurry,9,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,253,9,118,126,0
-Scurry,10,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,636,39,418,179,0
-Scurry,11,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,69,6,25,38,0
-Scurry,12,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,502,19,307,176,0
-Scurry,13,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,224,9,103,112,0
-Scurry,14,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,66,6,37,23,0
-Scurry,15,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,398,26,233,139,0
-Scurry,5,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,7,0,2,5,0
-Scurry,6,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,18,1,8,9,0
-Scurry,7,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,152,14,95,43,0
-Scurry,8,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,53,0,39,14,0
-Scurry,9,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,18,0,8,10,0
-Scurry,10,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,73,10,38,25,0
-Scurry,11,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,5,0,0,5,0
-Scurry,12,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,118,10,59,49,0
-Scurry,13,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,39,3,15,21,0
-Scurry,14,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,14,2,7,5,0
-Scurry,15,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,148,8,68,72,0
+Scurry,15,Railroad Commissioner,,,UNDER VOTES,10,2,8,0,0
+Scurry,5,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,56,27,29,0,0
+Scurry,6,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,135,48,76,11,0
+Scurry,7,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,951,261,636,54,0
+Scurry,8,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,361,113,234,14,0
+Scurry,9,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,253,126,118,9,0
+Scurry,10,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,636,179,418,39,0
+Scurry,11,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,69,38,25,6,0
+Scurry,12,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,502,176,307,19,0
+Scurry,13,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,224,112,103,9,0
+Scurry,14,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,66,23,37,6,0
+Scurry,15,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,398,139,233,26,0
+Scurry,5,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,7,5,2,0,0
+Scurry,6,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,18,9,8,1,0
+Scurry,7,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,152,43,95,14,0
+Scurry,8,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,53,14,39,0,0
+Scurry,9,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,18,10,8,0,0
+Scurry,10,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,73,25,38,10,0
+Scurry,11,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,5,5,0,0,0
+Scurry,12,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,118,49,59,10,0
+Scurry,13,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,39,21,15,3,0
+Scurry,14,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,14,5,7,2,0
+Scurry,15,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,148,72,68,8,0
 Scurry,5,"Justice, Supreme Court, Place 2",,,OVER VOTES,0,0,0,0,0
 Scurry,6,"Justice, Supreme Court, Place 2",,,OVER VOTES,0,0,0,0,0
 Scurry,7,"Justice, Supreme Court, Place 2",,,OVER VOTES,0,0,0,0,0
@@ -593,39 +593,39 @@ Scurry,12,"Justice, Supreme Court, Place 2",,,OVER VOTES,0,0,0,0,0
 Scurry,13,"Justice, Supreme Court, Place 2",,,OVER VOTES,0,0,0,0,0
 Scurry,14,"Justice, Supreme Court, Place 2",,,OVER VOTES,0,0,0,0,0
 Scurry,15,"Justice, Supreme Court, Place 2",,,OVER VOTES,0,0,0,0,0
-Scurry,5,"Justice, Supreme Court, Place 2",,,UNDER VOTES,1,0,0,1,0
-Scurry,6,"Justice, Supreme Court, Place 2",,,UNDER VOTES,5,0,4,1,0
-Scurry,7,"Justice, Supreme Court, Place 2",,,UNDER VOTES,22,0,15,7,0
-Scurry,8,"Justice, Supreme Court, Place 2",,,UNDER VOTES,6,0,3,3,0
-Scurry,9,"Justice, Supreme Court, Place 2",,,UNDER VOTES,8,2,1,5,0
-Scurry,10,"Justice, Supreme Court, Place 2",,,UNDER VOTES,12,0,7,5,0
-Scurry,11,"Justice, Supreme Court, Place 2",,,UNDER VOTES,5,1,1,3,0
-Scurry,12,"Justice, Supreme Court, Place 2",,,UNDER VOTES,11,0,6,4,1
-Scurry,13,"Justice, Supreme Court, Place 2",,,UNDER VOTES,9,0,3,6,0
+Scurry,5,"Justice, Supreme Court, Place 2",,,UNDER VOTES,1,1,0,0,0
+Scurry,6,"Justice, Supreme Court, Place 2",,,UNDER VOTES,5,1,4,0,0
+Scurry,7,"Justice, Supreme Court, Place 2",,,UNDER VOTES,22,7,15,0,0
+Scurry,8,"Justice, Supreme Court, Place 2",,,UNDER VOTES,6,3,3,0,0
+Scurry,9,"Justice, Supreme Court, Place 2",,,UNDER VOTES,8,5,1,2,0
+Scurry,10,"Justice, Supreme Court, Place 2",,,UNDER VOTES,12,5,7,0,0
+Scurry,11,"Justice, Supreme Court, Place 2",,,UNDER VOTES,5,3,1,1,0
+Scurry,12,"Justice, Supreme Court, Place 2",,,UNDER VOTES,11,4,6,0,1
+Scurry,13,"Justice, Supreme Court, Place 2",,,UNDER VOTES,9,6,3,0,0
 Scurry,14,"Justice, Supreme Court, Place 2",,,UNDER VOTES,0,0,0,0,0
-Scurry,15,"Justice, Supreme Court, Place 2",,,UNDER VOTES,16,0,12,4,0
-Scurry,5,"Justice, Supreme Court, Place 4",,REP,John Devine,55,0,29,26,0
-Scurry,6,"Justice, Supreme Court, Place 4",,REP,John Devine,138,11,77,50,0
-Scurry,7,"Justice, Supreme Court, Place 4",,REP,John Devine,961,55,644,262,0
-Scurry,8,"Justice, Supreme Court, Place 4",,REP,John Devine,363,13,235,115,0
-Scurry,9,"Justice, Supreme Court, Place 4",,REP,John Devine,252,9,117,126,0
-Scurry,10,"Justice, Supreme Court, Place 4",,REP,John Devine,634,39,417,178,0
-Scurry,11,"Justice, Supreme Court, Place 4",,REP,John Devine,69,6,25,38,0
-Scurry,12,"Justice, Supreme Court, Place 4",,REP,John Devine,501,19,306,176,0
-Scurry,13,"Justice, Supreme Court, Place 4",,REP,John Devine,223,9,102,112,0
-Scurry,14,"Justice, Supreme Court, Place 4",,REP,John Devine,67,6,37,24,0
-Scurry,15,"Justice, Supreme Court, Place 4",,REP,John Devine,410,27,234,149,0
-Scurry,5,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,7,0,2,5,0
-Scurry,6,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,15,1,8,6,0
-Scurry,7,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,141,13,87,41,0
-Scurry,8,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,51,1,38,12,0
-Scurry,9,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,18,0,8,10,0
-Scurry,10,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,73,10,38,25,0
-Scurry,11,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,5,0,0,5,0
-Scurry,12,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,116,10,58,48,0
-Scurry,13,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,41,3,16,22,0
-Scurry,14,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,13,2,7,4,0
-Scurry,15,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,136,7,67,62,0
+Scurry,15,"Justice, Supreme Court, Place 2",,,UNDER VOTES,16,4,12,0,0
+Scurry,5,"Justice, Supreme Court, Place 4",,REP,John Devine,55,26,29,0,0
+Scurry,6,"Justice, Supreme Court, Place 4",,REP,John Devine,138,50,77,11,0
+Scurry,7,"Justice, Supreme Court, Place 4",,REP,John Devine,961,262,644,55,0
+Scurry,8,"Justice, Supreme Court, Place 4",,REP,John Devine,363,115,235,13,0
+Scurry,9,"Justice, Supreme Court, Place 4",,REP,John Devine,252,126,117,9,0
+Scurry,10,"Justice, Supreme Court, Place 4",,REP,John Devine,634,178,417,39,0
+Scurry,11,"Justice, Supreme Court, Place 4",,REP,John Devine,69,38,25,6,0
+Scurry,12,"Justice, Supreme Court, Place 4",,REP,John Devine,501,176,306,19,0
+Scurry,13,"Justice, Supreme Court, Place 4",,REP,John Devine,223,112,102,9,0
+Scurry,14,"Justice, Supreme Court, Place 4",,REP,John Devine,67,24,37,6,0
+Scurry,15,"Justice, Supreme Court, Place 4",,REP,John Devine,410,149,234,27,0
+Scurry,5,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,7,5,2,0,0
+Scurry,6,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,15,6,8,1,0
+Scurry,7,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,141,41,87,13,0
+Scurry,8,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,51,12,38,1,0
+Scurry,9,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,18,10,8,0,0
+Scurry,10,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,73,25,38,10,0
+Scurry,11,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,5,5,0,0,0
+Scurry,12,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,116,48,58,10,0
+Scurry,13,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,41,22,16,3,0
+Scurry,14,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,13,4,7,2,0
+Scurry,15,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,136,62,67,7,0
 Scurry,5,"Justice, Supreme Court, Place 4",,,OVER VOTES,0,0,0,0,0
 Scurry,6,"Justice, Supreme Court, Place 4",,,OVER VOTES,0,0,0,0,0
 Scurry,7,"Justice, Supreme Court, Place 4",,,OVER VOTES,0,0,0,0,0
@@ -637,39 +637,39 @@ Scurry,12,"Justice, Supreme Court, Place 4",,,OVER VOTES,0,0,0,0,0
 Scurry,13,"Justice, Supreme Court, Place 4",,,OVER VOTES,0,0,0,0,0
 Scurry,14,"Justice, Supreme Court, Place 4",,,OVER VOTES,0,0,0,0,0
 Scurry,15,"Justice, Supreme Court, Place 4",,,OVER VOTES,0,0,0,0,0
-Scurry,5,"Justice, Supreme Court, Place 4",,,UNDER VOTES,2,0,0,2,0
-Scurry,6,"Justice, Supreme Court, Place 4",,,UNDER VOTES,5,0,3,2,0
-Scurry,7,"Justice, Supreme Court, Place 4",,,UNDER VOTES,23,0,15,8,0
-Scurry,8,"Justice, Supreme Court, Place 4",,,UNDER VOTES,6,0,3,3,0
-Scurry,9,"Justice, Supreme Court, Place 4",,,UNDER VOTES,9,2,2,5,0
-Scurry,10,"Justice, Supreme Court, Place 4",,,UNDER VOTES,14,0,8,6,0
-Scurry,11,"Justice, Supreme Court, Place 4",,,UNDER VOTES,5,1,1,3,0
-Scurry,12,"Justice, Supreme Court, Place 4",,,UNDER VOTES,14,0,8,5,1
-Scurry,13,"Justice, Supreme Court, Place 4",,,UNDER VOTES,8,0,3,5,0
+Scurry,5,"Justice, Supreme Court, Place 4",,,UNDER VOTES,2,2,0,0,0
+Scurry,6,"Justice, Supreme Court, Place 4",,,UNDER VOTES,5,2,3,0,0
+Scurry,7,"Justice, Supreme Court, Place 4",,,UNDER VOTES,23,8,15,0,0
+Scurry,8,"Justice, Supreme Court, Place 4",,,UNDER VOTES,6,3,3,0,0
+Scurry,9,"Justice, Supreme Court, Place 4",,,UNDER VOTES,9,5,2,2,0
+Scurry,10,"Justice, Supreme Court, Place 4",,,UNDER VOTES,14,6,8,0,0
+Scurry,11,"Justice, Supreme Court, Place 4",,,UNDER VOTES,5,3,1,1,0
+Scurry,12,"Justice, Supreme Court, Place 4",,,UNDER VOTES,14,5,8,0,1
+Scurry,13,"Justice, Supreme Court, Place 4",,,UNDER VOTES,8,5,3,0,0
 Scurry,14,"Justice, Supreme Court, Place 4",,,UNDER VOTES,0,0,0,0,0
-Scurry,15,"Justice, Supreme Court, Place 4",,,UNDER VOTES,16,0,12,4,0
-Scurry,5,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,56,0,29,27,0
-Scurry,6,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,137,11,77,49,0
-Scurry,7,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,964,55,647,262,0
-Scurry,8,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,362,14,235,113,0
-Scurry,9,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,253,9,118,126,0
-Scurry,10,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,639,39,422,178,0
-Scurry,11,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,69,6,25,38,0
-Scurry,12,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,504,19,307,178,0
-Scurry,13,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,226,9,104,113,0
-Scurry,14,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,67,6,37,24,0
-Scurry,15,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,405,26,236,143,0
-Scurry,5,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,6,0,2,4,0
-Scurry,6,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,16,1,8,7,0
-Scurry,7,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,138,12,86,40,0
-Scurry,8,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,50,0,36,14,0
-Scurry,9,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,18,0,8,10,0
-Scurry,10,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,71,10,36,25,0
-Scurry,11,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,5,0,0,5,0
-Scurry,12,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,115,10,59,46,0
-Scurry,13,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,38,3,14,21,0
-Scurry,14,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,13,2,7,4,0
-Scurry,15,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,140,8,64,68,0
+Scurry,15,"Justice, Supreme Court, Place 4",,,UNDER VOTES,16,4,12,0,0
+Scurry,5,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,56,27,29,0,0
+Scurry,6,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,137,49,77,11,0
+Scurry,7,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,964,262,647,55,0
+Scurry,8,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,362,113,235,14,0
+Scurry,9,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,253,126,118,9,0
+Scurry,10,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,639,178,422,39,0
+Scurry,11,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,69,38,25,6,0
+Scurry,12,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,504,178,307,19,0
+Scurry,13,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,226,113,104,9,0
+Scurry,14,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,67,24,37,6,0
+Scurry,15,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,405,143,236,26,0
+Scurry,5,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,6,4,2,0,0
+Scurry,6,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,16,7,8,1,0
+Scurry,7,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,138,40,86,12,0
+Scurry,8,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,50,14,36,0,0
+Scurry,9,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,18,10,8,0,0
+Scurry,10,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,71,25,36,10,0
+Scurry,11,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,5,5,0,0,0
+Scurry,12,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,115,46,59,10,0
+Scurry,13,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,38,21,14,3,0
+Scurry,14,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,13,4,7,2,0
+Scurry,15,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,140,68,64,8,0
 Scurry,5,"Justice, Supreme Court, Place 6",,,OVER VOTES,0,0,0,0,0
 Scurry,6,"Justice, Supreme Court, Place 6",,,OVER VOTES,0,0,0,0,0
 Scurry,7,"Justice, Supreme Court, Place 6",,,OVER VOTES,0,0,0,0,0
@@ -681,50 +681,50 @@ Scurry,12,"Justice, Supreme Court, Place 6",,,OVER VOTES,0,0,0,0,0
 Scurry,13,"Justice, Supreme Court, Place 6",,,OVER VOTES,0,0,0,0,0
 Scurry,14,"Justice, Supreme Court, Place 6",,,OVER VOTES,0,0,0,0,0
 Scurry,15,"Justice, Supreme Court, Place 6",,,OVER VOTES,0,0,0,0,0
-Scurry,5,"Justice, Supreme Court, Place 6",,,UNDER VOTES,2,0,0,2,0
-Scurry,6,"Justice, Supreme Court, Place 6",,,UNDER VOTES,5,0,3,2,0
-Scurry,7,"Justice, Supreme Court, Place 6",,,UNDER VOTES,23,1,13,9,0
-Scurry,8,"Justice, Supreme Court, Place 6",,,UNDER VOTES,8,0,5,3,0
-Scurry,9,"Justice, Supreme Court, Place 6",,,UNDER VOTES,8,2,1,5,0
-Scurry,10,"Justice, Supreme Court, Place 6",,,UNDER VOTES,11,0,5,6,0
-Scurry,11,"Justice, Supreme Court, Place 6",,,UNDER VOTES,5,1,1,3,0
-Scurry,12,"Justice, Supreme Court, Place 6",,,UNDER VOTES,12,0,6,5,1
-Scurry,13,"Justice, Supreme Court, Place 6",,,UNDER VOTES,8,0,3,5,0
+Scurry,5,"Justice, Supreme Court, Place 6",,,UNDER VOTES,2,2,0,0,0
+Scurry,6,"Justice, Supreme Court, Place 6",,,UNDER VOTES,5,2,3,0,0
+Scurry,7,"Justice, Supreme Court, Place 6",,,UNDER VOTES,23,9,13,1,0
+Scurry,8,"Justice, Supreme Court, Place 6",,,UNDER VOTES,8,3,5,0,0
+Scurry,9,"Justice, Supreme Court, Place 6",,,UNDER VOTES,8,5,1,2,0
+Scurry,10,"Justice, Supreme Court, Place 6",,,UNDER VOTES,11,6,5,0,0
+Scurry,11,"Justice, Supreme Court, Place 6",,,UNDER VOTES,5,3,1,1,0
+Scurry,12,"Justice, Supreme Court, Place 6",,,UNDER VOTES,12,5,6,0,1
+Scurry,13,"Justice, Supreme Court, Place 6",,,UNDER VOTES,8,5,3,0,0
 Scurry,14,"Justice, Supreme Court, Place 6",,,UNDER VOTES,0,0,0,0,0
-Scurry,15,"Justice, Supreme Court, Place 6",,,UNDER VOTES,17,0,13,4,0
-Scurry,5,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,54,0,29,25,0
-Scurry,6,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,134,11,74,49,0
-Scurry,7,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,949,54,636,259,0
-Scurry,8,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,358,13,232,113,0
-Scurry,9,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,253,9,115,129,0
-Scurry,10,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,636,39,416,181,0
-Scurry,11,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,67,5,25,37,0
-Scurry,12,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,499,19,308,172,0
-Scurry,13,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,222,9,102,111,0
-Scurry,14,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,64,6,36,22,0
-Scurry,15,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,392,26,226,140,0
-Scurry,5,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,8,0,2,6,0
-Scurry,6,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,19,1,10,8,0
-Scurry,7,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,140,14,88,38,0
-Scurry,8,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,51,1,38,12,0
-Scurry,9,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,16,0,8,8,0
-Scurry,10,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,70,10,37,23,0
-Scurry,11,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,5,0,0,5,0
-Scurry,12,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,111,10,55,46,0
-Scurry,13,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,38,3,14,21,0
-Scurry,14,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,14,2,7,5,0
-Scurry,15,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,140,7,68,65,0
+Scurry,15,"Justice, Supreme Court, Place 6",,,UNDER VOTES,17,4,13,0,0
+Scurry,5,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,54,25,29,0,0
+Scurry,6,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,134,49,74,11,0
+Scurry,7,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,949,259,636,54,0
+Scurry,8,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,358,113,232,13,0
+Scurry,9,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,253,129,115,9,0
+Scurry,10,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,636,181,416,39,0
+Scurry,11,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,67,37,25,5,0
+Scurry,12,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,499,172,308,19,0
+Scurry,13,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,222,111,102,9,0
+Scurry,14,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,64,22,36,6,0
+Scurry,15,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,392,140,226,26,0
+Scurry,5,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,8,6,2,0,0
+Scurry,6,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,19,8,10,1,0
+Scurry,7,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,140,38,88,14,0
+Scurry,8,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,51,12,38,1,0
+Scurry,9,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,16,8,8,0,0
+Scurry,10,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,70,23,37,10,0
+Scurry,11,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,5,5,0,0,0
+Scurry,12,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,111,46,55,10,0
+Scurry,13,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,38,21,14,3,0
+Scurry,14,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,14,5,7,2,0
+Scurry,15,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,140,65,68,7,0
 Scurry,5,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,0,0,0,0,0
 Scurry,6,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,1,0,1,0,0
-Scurry,7,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,14,0,9,5,0
-Scurry,8,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,3,0,2,1,0
-Scurry,9,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,4,0,3,1,0
-Scurry,10,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,5,0,3,2,0
+Scurry,7,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,14,5,9,0,0
+Scurry,8,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,3,1,2,0,0
+Scurry,9,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,4,1,3,0,0
+Scurry,10,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,5,2,3,0,0
 Scurry,11,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,2,1,0,1,0
-Scurry,12,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,11,0,4,7,0
-Scurry,13,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,6,0,3,3,0
-Scurry,14,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,2,0,1,1,0
-Scurry,15,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,15,1,8,6,0
+Scurry,12,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,11,7,4,0,0
+Scurry,13,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,6,3,3,0,0
+Scurry,14,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,2,1,1,0,0
+Scurry,15,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,15,6,8,1,0
 Scurry,5,"Presiding Judge, Court of Criminal Appeals",,,OVER VOTES,0,0,0,0,0
 Scurry,6,"Presiding Judge, Court of Criminal Appeals",,,OVER VOTES,0,0,0,0,0
 Scurry,7,"Presiding Judge, Court of Criminal Appeals",,,OVER VOTES,0,0,0,0,0
@@ -736,39 +736,39 @@ Scurry,12,"Presiding Judge, Court of Criminal Appeals",,,OVER VOTES,0,0,0,0,0
 Scurry,13,"Presiding Judge, Court of Criminal Appeals",,,OVER VOTES,0,0,0,0,0
 Scurry,14,"Presiding Judge, Court of Criminal Appeals",,,OVER VOTES,0,0,0,0,0
 Scurry,15,"Presiding Judge, Court of Criminal Appeals",,,OVER VOTES,0,0,0,0,0
-Scurry,5,"Presiding Judge, Court of Criminal Appeals",,,UNDER VOTES,2,0,0,2,0
-Scurry,6,"Presiding Judge, Court of Criminal Appeals",,,UNDER VOTES,4,0,3,1,0
-Scurry,7,"Presiding Judge, Court of Criminal Appeals",,,UNDER VOTES,22,0,13,9,0
-Scurry,8,"Presiding Judge, Court of Criminal Appeals",,,UNDER VOTES,8,0,4,4,0
-Scurry,9,"Presiding Judge, Court of Criminal Appeals",,,UNDER VOTES,6,2,1,3,0
-Scurry,10,"Presiding Judge, Court of Criminal Appeals",,,UNDER VOTES,10,0,7,3,0
-Scurry,11,"Presiding Judge, Court of Criminal Appeals",,,UNDER VOTES,5,1,1,3,0
-Scurry,12,"Presiding Judge, Court of Criminal Appeals",,,UNDER VOTES,10,0,5,4,1
-Scurry,13,"Presiding Judge, Court of Criminal Appeals",,,UNDER VOTES,6,0,2,4,0
+Scurry,5,"Presiding Judge, Court of Criminal Appeals",,,UNDER VOTES,2,2,0,0,0
+Scurry,6,"Presiding Judge, Court of Criminal Appeals",,,UNDER VOTES,4,1,3,0,0
+Scurry,7,"Presiding Judge, Court of Criminal Appeals",,,UNDER VOTES,22,9,13,0,0
+Scurry,8,"Presiding Judge, Court of Criminal Appeals",,,UNDER VOTES,8,4,4,0,0
+Scurry,9,"Presiding Judge, Court of Criminal Appeals",,,UNDER VOTES,6,3,1,2,0
+Scurry,10,"Presiding Judge, Court of Criminal Appeals",,,UNDER VOTES,10,3,7,0,0
+Scurry,11,"Presiding Judge, Court of Criminal Appeals",,,UNDER VOTES,5,3,1,1,0
+Scurry,12,"Presiding Judge, Court of Criminal Appeals",,,UNDER VOTES,10,4,5,0,1
+Scurry,13,"Presiding Judge, Court of Criminal Appeals",,,UNDER VOTES,6,4,2,0,0
 Scurry,14,"Presiding Judge, Court of Criminal Appeals",,,UNDER VOTES,0,0,0,0,0
-Scurry,15,"Presiding Judge, Court of Criminal Appeals",,,UNDER VOTES,15,0,11,4,0
-Scurry,5,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,54,0,29,25,0
-Scurry,6,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,133,11,73,49,0
-Scurry,7,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,959,54,640,265,0
-Scurry,8,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,368,14,238,116,0
-Scurry,9,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,254,9,118,127,0
-Scurry,10,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,638,39,418,181,0
-Scurry,11,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,68,5,25,38,0
-Scurry,12,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,505,19,310,176,0
-Scurry,13,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,226,9,104,113,0
-Scurry,14,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,71,8,37,26,0
-Scurry,15,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,410,26,235,149,0
-Scurry,5,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,8,0,2,6,0
-Scurry,6,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,19,1,11,7,0
-Scurry,7,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,141,13,91,37,0
-Scurry,8,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,43,0,33,10,0
-Scurry,9,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,17,0,8,9,0
-Scurry,10,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,71,10,37,24,0
-Scurry,11,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,6,1,0,5,0
-Scurry,12,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,114,10,55,49,0
-Scurry,13,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,39,3,15,21,0
-Scurry,14,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,9,0,7,2,0
-Scurry,15,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,135,8,65,62,0
+Scurry,15,"Presiding Judge, Court of Criminal Appeals",,,UNDER VOTES,15,4,11,0,0
+Scurry,5,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,54,25,29,0,0
+Scurry,6,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,133,49,73,11,0
+Scurry,7,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,959,265,640,54,0
+Scurry,8,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,368,116,238,14,0
+Scurry,9,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,254,127,118,9,0
+Scurry,10,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,638,181,418,39,0
+Scurry,11,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,68,38,25,5,0
+Scurry,12,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,505,176,310,19,0
+Scurry,13,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,226,113,104,9,0
+Scurry,14,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,71,26,37,8,0
+Scurry,15,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,410,149,235,26,0
+Scurry,5,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,8,6,2,0,0
+Scurry,6,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,19,7,11,1,0
+Scurry,7,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,141,37,91,13,0
+Scurry,8,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,43,10,33,0,0
+Scurry,9,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,17,9,8,0,0
+Scurry,10,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,71,24,37,10,0
+Scurry,11,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,6,5,0,1,0
+Scurry,12,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,114,49,55,10,0
+Scurry,13,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,39,21,15,3,0
+Scurry,14,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,9,2,7,0,0
+Scurry,15,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,135,62,65,8,0
 Scurry,5,"Judge, Court of Criminal Appeals, Place 7",,,OVER VOTES,0,0,0,0,0
 Scurry,6,"Judge, Court of Criminal Appeals, Place 7",,,OVER VOTES,0,0,0,0,0
 Scurry,7,"Judge, Court of Criminal Appeals, Place 7",,,OVER VOTES,0,0,0,0,0
@@ -780,39 +780,39 @@ Scurry,12,"Judge, Court of Criminal Appeals, Place 7",,,OVER VOTES,0,0,0,0,0
 Scurry,13,"Judge, Court of Criminal Appeals, Place 7",,,OVER VOTES,0,0,0,0,0
 Scurry,14,"Judge, Court of Criminal Appeals, Place 7",,,OVER VOTES,0,0,0,0,0
 Scurry,15,"Judge, Court of Criminal Appeals, Place 7",,,OVER VOTES,0,0,0,0,0
-Scurry,5,"Judge, Court of Criminal Appeals, Place 7",,,UNDER VOTES,2,0,0,2,0
-Scurry,6,"Judge, Court of Criminal Appeals, Place 7",,,UNDER VOTES,6,0,4,2,0
-Scurry,7,"Judge, Court of Criminal Appeals, Place 7",,,UNDER VOTES,25,1,15,9,0
-Scurry,8,"Judge, Court of Criminal Appeals, Place 7",,,UNDER VOTES,9,0,5,4,0
-Scurry,9,"Judge, Court of Criminal Appeals, Place 7",,,UNDER VOTES,8,2,1,5,0
-Scurry,10,"Judge, Court of Criminal Appeals, Place 7",,,UNDER VOTES,12,0,8,4,0
-Scurry,11,"Judge, Court of Criminal Appeals, Place 7",,,UNDER VOTES,5,1,1,3,0
-Scurry,12,"Judge, Court of Criminal Appeals, Place 7",,,UNDER VOTES,12,0,7,4,1
-Scurry,13,"Judge, Court of Criminal Appeals, Place 7",,,UNDER VOTES,7,0,2,5,0
+Scurry,5,"Judge, Court of Criminal Appeals, Place 7",,,UNDER VOTES,2,2,0,0,0
+Scurry,6,"Judge, Court of Criminal Appeals, Place 7",,,UNDER VOTES,6,2,4,0,0
+Scurry,7,"Judge, Court of Criminal Appeals, Place 7",,,UNDER VOTES,25,9,15,1,0
+Scurry,8,"Judge, Court of Criminal Appeals, Place 7",,,UNDER VOTES,9,4,5,0,0
+Scurry,9,"Judge, Court of Criminal Appeals, Place 7",,,UNDER VOTES,8,5,1,2,0
+Scurry,10,"Judge, Court of Criminal Appeals, Place 7",,,UNDER VOTES,12,4,8,0,0
+Scurry,11,"Judge, Court of Criminal Appeals, Place 7",,,UNDER VOTES,5,3,1,1,0
+Scurry,12,"Judge, Court of Criminal Appeals, Place 7",,,UNDER VOTES,12,4,7,0,1
+Scurry,13,"Judge, Court of Criminal Appeals, Place 7",,,UNDER VOTES,7,5,2,0,0
 Scurry,14,"Judge, Court of Criminal Appeals, Place 7",,,UNDER VOTES,0,0,0,0,0
-Scurry,15,"Judge, Court of Criminal Appeals, Place 7",,,UNDER VOTES,17,0,13,4,0
-Scurry,5,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,55,0,29,26,0
-Scurry,6,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,140,11,78,51,0
-Scurry,7,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,973,57,647,269,0
-Scurry,8,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,369,14,239,116,0
-Scurry,9,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,253,9,120,124,0
-Scurry,10,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,647,40,421,186,0
-Scurry,11,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,68,6,24,38,0
-Scurry,12,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,515,20,314,181,0
-Scurry,13,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,228,9,104,115,0
-Scurry,14,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,68,6,36,26,0
-Scurry,15,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,418,26,239,153,0
-Scurry,5,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,4,0,1,3,0
-Scurry,6,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,7,0,4,3,0
-Scurry,7,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,55,3,36,16,0
-Scurry,8,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,26,0,20,6,0
-Scurry,9,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,12,0,5,7,0
-Scurry,10,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,30,4,14,12,0
-Scurry,11,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,2,0,1,1,0
-Scurry,12,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,45,3,24,18,0
-Scurry,13,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,21,1,11,9,0
-Scurry,14,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,8,0,6,2,0
-Scurry,15,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,49,3,21,25,0
+Scurry,15,"Judge, Court of Criminal Appeals, Place 7",,,UNDER VOTES,17,4,13,0,0
+Scurry,5,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,55,26,29,0,0
+Scurry,6,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,140,51,78,11,0
+Scurry,7,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,973,269,647,57,0
+Scurry,8,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,369,116,239,14,0
+Scurry,9,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,253,124,120,9,0
+Scurry,10,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,647,186,421,40,0
+Scurry,11,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,68,38,24,6,0
+Scurry,12,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,515,181,314,20,0
+Scurry,13,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,228,115,104,9,0
+Scurry,14,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,68,26,36,6,0
+Scurry,15,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,418,153,239,26,0
+Scurry,5,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,4,3,1,0,0
+Scurry,6,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,7,3,4,0,0
+Scurry,7,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,55,16,36,3,0
+Scurry,8,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,26,6,20,0,0
+Scurry,9,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,12,7,5,0,0
+Scurry,10,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,30,12,14,4,0
+Scurry,11,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,2,1,1,0,0
+Scurry,12,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,45,18,24,3,0
+Scurry,13,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,21,9,11,1,0
+Scurry,14,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,8,2,6,0,0
+Scurry,15,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,49,25,21,3,0
 Scurry,5,"Judge, Court of Criminal Appeals, Place 8",,,OVER VOTES,0,0,0,0,0
 Scurry,6,"Judge, Court of Criminal Appeals, Place 8",,,OVER VOTES,0,0,0,0,0
 Scurry,7,"Judge, Court of Criminal Appeals, Place 8",,,OVER VOTES,0,0,0,0,0
@@ -824,39 +824,39 @@ Scurry,12,"Judge, Court of Criminal Appeals, Place 8",,,OVER VOTES,0,0,0,0,0
 Scurry,13,"Judge, Court of Criminal Appeals, Place 8",,,OVER VOTES,0,0,0,0,0
 Scurry,14,"Judge, Court of Criminal Appeals, Place 8",,,OVER VOTES,0,0,0,0,0
 Scurry,15,"Judge, Court of Criminal Appeals, Place 8",,,OVER VOTES,0,0,0,0,0
-Scurry,5,"Judge, Court of Criminal Appeals, Place 8",,,UNDER VOTES,5,0,1,4,0
-Scurry,6,"Judge, Court of Criminal Appeals, Place 8",,,UNDER VOTES,11,1,6,4,0
-Scurry,7,"Judge, Court of Criminal Appeals, Place 8",,,UNDER VOTES,97,8,63,26,0
-Scurry,8,"Judge, Court of Criminal Appeals, Place 8",,,UNDER VOTES,25,0,17,8,0
-Scurry,9,"Judge, Court of Criminal Appeals, Place 8",,,UNDER VOTES,14,2,2,10,0
-Scurry,10,"Judge, Court of Criminal Appeals, Place 8",,,UNDER VOTES,44,5,28,11,0
-Scurry,11,"Judge, Court of Criminal Appeals, Place 8",,,UNDER VOTES,9,1,1,7,0
-Scurry,12,"Judge, Court of Criminal Appeals, Place 8",,,UNDER VOTES,71,6,34,30,1
-Scurry,13,"Judge, Court of Criminal Appeals, Place 8",,,UNDER VOTES,23,2,6,15,0
-Scurry,14,"Judge, Court of Criminal Appeals, Place 8",,,UNDER VOTES,4,2,2,0,0
-Scurry,15,"Judge, Court of Criminal Appeals, Place 8",,,UNDER VOTES,95,5,53,37,0
-Scurry,5,State Representative,83,REP,Dustin Burrows,56,0,29,27,0
-Scurry,6,State Representative,83,REP,Dustin Burrows,134,11,75,48,0
-Scurry,7,State Representative,83,REP,Dustin Burrows,952,53,638,261,0
-Scurry,8,State Representative,83,REP,Dustin Burrows,362,14,233,115,0
-Scurry,9,State Representative,83,REP,Dustin Burrows,254,9,119,126,0
-Scurry,10,State Representative,83,REP,Dustin Burrows,645,38,426,181,0
-Scurry,11,State Representative,83,REP,Dustin Burrows,69,7,25,37,0
-Scurry,12,State Representative,83,REP,Dustin Burrows,499,19,303,177,0
-Scurry,13,State Representative,83,REP,Dustin Burrows,225,9,102,114,0
-Scurry,14,State Representative,83,REP,Dustin Burrows,67,6,37,24,0
-Scurry,15,State Representative,83,REP,Dustin Burrows,406,27,233,146,0
-Scurry,5,State Representative,83,DEM,Drew Landry,6,0,2,4,0
-Scurry,6,State Representative,83,DEM,Drew Landry,20,1,11,8,0
-Scurry,7,State Representative,83,DEM,Drew Landry,161,14,103,44,0
-Scurry,8,State Representative,83,DEM,Drew Landry,54,0,41,13,0
-Scurry,9,State Representative,83,DEM,Drew Landry,18,0,8,10,0
-Scurry,10,State Representative,83,DEM,Drew Landry,70,10,35,25,0
-Scurry,11,State Representative,83,DEM,Drew Landry,8,0,1,7,0
-Scurry,12,State Representative,83,DEM,Drew Landry,123,10,64,49,0
-Scurry,13,State Representative,83,DEM,Drew Landry,43,3,18,22,0
-Scurry,14,State Representative,83,DEM,Drew Landry,13,2,7,4,0
-Scurry,15,State Representative,83,DEM,Drew Landry,145,7,73,65,0
+Scurry,5,"Judge, Court of Criminal Appeals, Place 8",,,UNDER VOTES,5,4,1,0,0
+Scurry,6,"Judge, Court of Criminal Appeals, Place 8",,,UNDER VOTES,11,4,6,1,0
+Scurry,7,"Judge, Court of Criminal Appeals, Place 8",,,UNDER VOTES,97,26,63,8,0
+Scurry,8,"Judge, Court of Criminal Appeals, Place 8",,,UNDER VOTES,25,8,17,0,0
+Scurry,9,"Judge, Court of Criminal Appeals, Place 8",,,UNDER VOTES,14,10,2,2,0
+Scurry,10,"Judge, Court of Criminal Appeals, Place 8",,,UNDER VOTES,44,11,28,5,0
+Scurry,11,"Judge, Court of Criminal Appeals, Place 8",,,UNDER VOTES,9,7,1,1,0
+Scurry,12,"Judge, Court of Criminal Appeals, Place 8",,,UNDER VOTES,71,30,34,6,1
+Scurry,13,"Judge, Court of Criminal Appeals, Place 8",,,UNDER VOTES,23,15,6,2,0
+Scurry,14,"Judge, Court of Criminal Appeals, Place 8",,,UNDER VOTES,4,0,2,2,0
+Scurry,15,"Judge, Court of Criminal Appeals, Place 8",,,UNDER VOTES,95,37,53,5,0
+Scurry,5,State Representative,83,REP,Dustin Burrows,56,27,29,0,0
+Scurry,6,State Representative,83,REP,Dustin Burrows,134,48,75,11,0
+Scurry,7,State Representative,83,REP,Dustin Burrows,952,261,638,53,0
+Scurry,8,State Representative,83,REP,Dustin Burrows,362,115,233,14,0
+Scurry,9,State Representative,83,REP,Dustin Burrows,254,126,119,9,0
+Scurry,10,State Representative,83,REP,Dustin Burrows,645,181,426,38,0
+Scurry,11,State Representative,83,REP,Dustin Burrows,69,37,25,7,0
+Scurry,12,State Representative,83,REP,Dustin Burrows,499,177,303,19,0
+Scurry,13,State Representative,83,REP,Dustin Burrows,225,114,102,9,0
+Scurry,14,State Representative,83,REP,Dustin Burrows,67,24,37,6,0
+Scurry,15,State Representative,83,REP,Dustin Burrows,406,146,233,27,0
+Scurry,5,State Representative,83,DEM,Drew Landry,6,4,2,0,0
+Scurry,6,State Representative,83,DEM,Drew Landry,20,8,11,1,0
+Scurry,7,State Representative,83,DEM,Drew Landry,161,44,103,14,0
+Scurry,8,State Representative,83,DEM,Drew Landry,54,13,41,0,0
+Scurry,9,State Representative,83,DEM,Drew Landry,18,10,8,0,0
+Scurry,10,State Representative,83,DEM,Drew Landry,70,25,35,10,0
+Scurry,11,State Representative,83,DEM,Drew Landry,8,7,1,0,0
+Scurry,12,State Representative,83,DEM,Drew Landry,123,49,64,10,0
+Scurry,13,State Representative,83,DEM,Drew Landry,43,22,18,3,0
+Scurry,14,State Representative,83,DEM,Drew Landry,13,4,7,2,0
+Scurry,15,State Representative,83,DEM,Drew Landry,145,65,73,7,0
 Scurry,5,State Representative,83,,OVER VOTES,0,0,0,0,0
 Scurry,6,State Representative,83,,OVER VOTES,0,0,0,0,0
 Scurry,7,State Representative,83,,OVER VOTES,0,0,0,0,0
@@ -868,28 +868,28 @@ Scurry,12,State Representative,83,,OVER VOTES,0,0,0,0,0
 Scurry,13,State Representative,83,,OVER VOTES,0,0,0,0,0
 Scurry,14,State Representative,83,,OVER VOTES,0,0,0,0,0
 Scurry,15,State Representative,83,,OVER VOTES,0,0,0,0,0
-Scurry,5,State Representative,83,,UNDER VOTES,2,0,0,2,0
-Scurry,6,State Representative,83,,UNDER VOTES,4,0,2,2,0
-Scurry,7,State Representative,83,,UNDER VOTES,12,1,5,6,0
-Scurry,8,State Representative,83,,UNDER VOTES,4,0,2,2,0
-Scurry,9,State Representative,83,,UNDER VOTES,7,2,0,5,0
-Scurry,10,State Representative,83,,UNDER VOTES,6,1,2,3,0
-Scurry,11,State Representative,83,,UNDER VOTES,2,0,0,2,0
-Scurry,12,State Representative,83,,UNDER VOTES,9,0,5,3,1
-Scurry,13,State Representative,83,,UNDER VOTES,4,0,1,3,0
+Scurry,5,State Representative,83,,UNDER VOTES,2,2,0,0,0
+Scurry,6,State Representative,83,,UNDER VOTES,4,2,2,0,0
+Scurry,7,State Representative,83,,UNDER VOTES,12,6,5,1,0
+Scurry,8,State Representative,83,,UNDER VOTES,4,2,2,0,0
+Scurry,9,State Representative,83,,UNDER VOTES,7,5,0,2,0
+Scurry,10,State Representative,83,,UNDER VOTES,6,3,2,1,0
+Scurry,11,State Representative,83,,UNDER VOTES,2,2,0,0,0
+Scurry,12,State Representative,83,,UNDER VOTES,9,3,5,0,1
+Scurry,13,State Representative,83,,UNDER VOTES,4,3,1,0,0
 Scurry,14,State Representative,83,,UNDER VOTES,0,0,0,0,0
-Scurry,15,State Representative,83,,UNDER VOTES,11,0,7,4,0
-Scurry,5,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,56,0,29,27,0
-Scurry,6,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,144,11,80,53,0
-Scurry,7,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,994,59,660,275,0
-Scurry,8,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,380,14,247,119,0
-Scurry,9,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,258,9,121,128,0
-Scurry,10,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,654,39,422,193,0
-Scurry,11,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,70,6,25,39,0
-Scurry,12,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,543,20,330,193,0
-Scurry,13,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,241,8,112,121,0
-Scurry,14,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,73,6,39,28,0
-Scurry,15,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,443,27,247,169,0
+Scurry,15,State Representative,83,,UNDER VOTES,11,4,7,0,0
+Scurry,5,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,56,27,29,0,0
+Scurry,6,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,144,53,80,11,0
+Scurry,7,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,994,275,660,59,0
+Scurry,8,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,380,119,247,14,0
+Scurry,9,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,258,128,121,9,0
+Scurry,10,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,654,193,422,39,0
+Scurry,11,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,70,39,25,6,0
+Scurry,12,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,543,193,330,20,0
+Scurry,13,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,241,121,112,8,0
+Scurry,14,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,73,28,39,6,0
+Scurry,15,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,443,169,247,27,0
 Scurry,5,"Chief Justice, 11th Court of Appeals District",,,OVER VOTES,0,0,0,0,0
 Scurry,6,"Chief Justice, 11th Court of Appeals District",,,OVER VOTES,0,0,0,0,0
 Scurry,7,"Chief Justice, 11th Court of Appeals District",,,OVER VOTES,0,0,0,0,0
@@ -901,14 +901,14 @@ Scurry,12,"Chief Justice, 11th Court of Appeals District",,,OVER VOTES,0,0,0,0,0
 Scurry,13,"Chief Justice, 11th Court of Appeals District",,,OVER VOTES,0,0,0,0,0
 Scurry,14,"Chief Justice, 11th Court of Appeals District",,,OVER VOTES,0,0,0,0,0
 Scurry,15,"Chief Justice, 11th Court of Appeals District",,,OVER VOTES,0,0,0,0,0
-Scurry,5,"Chief Justice, 11th Court of Appeals District",,,UNDER VOTES,8,0,2,6,0
-Scurry,6,"Chief Justice, 11th Court of Appeals District",,,UNDER VOTES,14,1,8,5,0
-Scurry,7,"Chief Justice, 11th Court of Appeals District",,,UNDER VOTES,131,9,86,36,0
-Scurry,8,"Chief Justice, 11th Court of Appeals District",,,UNDER VOTES,40,0,29,11,0
-Scurry,9,"Chief Justice, 11th Court of Appeals District",,,UNDER VOTES,21,2,6,13,0
-Scurry,10,"Chief Justice, 11th Court of Appeals District",,,UNDER VOTES,67,10,41,16,0
-Scurry,11,"Chief Justice, 11th Court of Appeals District",,,UNDER VOTES,9,1,1,7,0
-Scurry,12,"Chief Justice, 11th Court of Appeals District",,,UNDER VOTES,88,9,42,36,1
-Scurry,13,"Chief Justice, 11th Court of Appeals District",,,UNDER VOTES,31,4,9,18,0
-Scurry,14,"Chief Justice, 11th Court of Appeals District",,,UNDER VOTES,7,2,5,0,0
-Scurry,15,"Chief Justice, 11th Court of Appeals District",,,UNDER VOTES,119,7,66,46,0
+Scurry,5,"Chief Justice, 11th Court of Appeals District",,,UNDER VOTES,8,6,2,0,0
+Scurry,6,"Chief Justice, 11th Court of Appeals District",,,UNDER VOTES,14,5,8,1,0
+Scurry,7,"Chief Justice, 11th Court of Appeals District",,,UNDER VOTES,131,36,86,9,0
+Scurry,8,"Chief Justice, 11th Court of Appeals District",,,UNDER VOTES,40,11,29,0,0
+Scurry,9,"Chief Justice, 11th Court of Appeals District",,,UNDER VOTES,21,13,6,2,0
+Scurry,10,"Chief Justice, 11th Court of Appeals District",,,UNDER VOTES,67,16,41,10,0
+Scurry,11,"Chief Justice, 11th Court of Appeals District",,,UNDER VOTES,9,7,1,1,0
+Scurry,12,"Chief Justice, 11th Court of Appeals District",,,UNDER VOTES,88,36,42,9,1
+Scurry,13,"Chief Justice, 11th Court of Appeals District",,,UNDER VOTES,31,18,9,4,0
+Scurry,14,"Chief Justice, 11th Court of Appeals District",,,UNDER VOTES,7,0,5,2,0
+Scurry,15,"Chief Justice, 11th Court of Appeals District",,,UNDER VOTES,119,46,66,7,0

@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes,early_voting,election_day
+county,precinct,office,district,party,candidate,votes,election_day,early_voting
 Blanco,102,Registered Voters,,,,2015,,
 Blanco,201,Registered Voters,,,,"2,051",,
 Blanco,302,Registered Voters,,,,1190,,
@@ -6,815 +6,815 @@ Blanco,303,Registered Voters,,,,488,,
 Blanco,304,Registered Voters,,,,263,,
 Blanco,401,Registered Voters,,,,2.172,,
 Blanco,Total,Registered Voters,,,,6009,,
-Blanco,102,Ballots Cast,,,REP,438,145,293
-Blanco,201,Ballots Cast,,,REP,591,331,260
-Blanco,302,Ballots Cast,,,REP,241,113,128
-Blanco,303,Ballots Cast,,,REP,126,66,60
-Blanco,304,Ballots Cast,,,REP,48,18,30
-Blanco,401,Ballots Cast,,,REP,444,151,293
-Blanco,Total,Ballots Cast,,,REP,1888,824,1064
-Blanco,102,Ballots Cast,,,DEM,118,43,75
-Blanco,201,Ballots Cast,,,DEM,145,72,73
-Blanco,302,Ballots Cast,,,DEM,99,48,51
-Blanco,303,Ballots Cast,,,DEM,15,3,12
-Blanco,304,Ballots Cast,,,DEM,23,15,8
-Blanco,401,Ballots Cast,,,DEM,151,88,63
-Blanco,Total,Ballots Cast,,,DEM,551,269,282
-Blanco,102,U.S. Senate,,Geraldine Sam,REP,6,1,5
-Blanco,201,U.S. Senate,,Geraldine Sam,REP,12,7,5
-Blanco,302,U.S. Senate,,Geraldine Sam,REP,5,1,4
-Blanco,303,U.S. Senate,,Geraldine Sam,REP,2,1,1
-Blanco,304,U.S. Senate,,Geraldine Sam,REP,0,0,0
-Blanco,401,U.S. Senate,,Geraldine Sam,REP,9,4,5
-Blanco,Total,U.S. Senate,,Geraldine Sam,REP,34,14,20
-Blanco,102,U.S. Senate,,Stefano de Stefano,REP,5,3,2
-Blanco,201,U.S. Senate,,Stefano de Stefano,REP,12,6,6
-Blanco,302,U.S. Senate,,Stefano de Stefano,REP,5,2,3
-Blanco,303,U.S. Senate,,Stefano de Stefano,REP,1,1,0
-Blanco,304,U.S. Senate,,Stefano de Stefano,REP,1,0,1
-Blanco,401,U.S. Senate,,Stefano de Stefano,REP,10,6,4
-Blanco,Total,U.S. Senate,,Stefano de Stefano,REP,34,18,16
-Blanco,102,U.S. Senate,,"Bruce Jacobson, Jr",REP,23,4,19
-Blanco,201,U.S. Senate,,"Bruce Jacobson, Jr",REP,3,1,2
-Blanco,302,U.S. Senate,,"Bruce Jacobson, Jr",REP,27,13,14
-Blanco,303,U.S. Senate,,"Bruce Jacobson, Jr",REP,14,7,7
-Blanco,304,U.S. Senate,,"Bruce Jacobson, Jr",REP,13,11,2
-Blanco,401,U.S. Senate,,"Bruce Jacobson, Jr",REP,24,7,17
-Blanco,Total,U.S. Senate,,"Bruce Jacobson, Jr",REP,104,43,61
-Blanco,102,U.S. Senate,,Mary Miller,REP,30,11,19
-Blanco,201,U.S. Senate,,Mary Miller,REP,30,12,18
-Blanco,302,U.S. Senate,,Mary Miller,REP,12,8,4
-Blanco,303,U.S. Senate,,Mary Miller,REP,7,7,0
-Blanco,304,U.S. Senate,,Mary Miller,REP,1,0,1
-Blanco,401,U.S. Senate,,Mary Miller,REP,23,3,20
-Blanco,Total,U.S. Senate,,Mary Miller,REP,103,41,62
-Blanco,102,U.S. Senate,,Ted Cruz,REP,365,121,244
-Blanco,201,U.S. Senate,,Ted Cruz,REP,490,283,207
-Blanco,302,U.S. Senate,,Ted Cruz,REP,198,90,108
-Blanco,303,U.S. Senate,,Ted Cruz,REP,100,45,55
-Blanco,304,U.S. Senate,,Ted Cruz,REP,43,17,26
-Blanco,401,U.S. Senate,,Ted Cruz,REP,371,131,240
-Blanco,Total,U.S. Senate,,Ted Cruz,REP,1567,687,880
-Blanco,102,U.S. Senate,,Over Votes,REP,1,0,1
-Blanco,201,U.S. Senate,,Over Votes,REP,0,0,0
-Blanco,302,U.S. Senate,,Over Votes,REP,0,0,0
-Blanco,303,U.S. Senate,,Over Votes,REP,0,0,0
-Blanco,304,U.S. Senate,,Over Votes,REP,0,0,0
-Blanco,401,U.S. Senate,,Over Votes,REP,0,0,0
-Blanco,Total,U.S. Senate,,Over Votes,REP,1,0,1
-Blanco,102,U.S. Senate,,Under Votes,REP,8,5,3
-Blanco,201,U.S. Senate,,Under Votes,REP,20,10,10
-Blanco,302,U.S. Senate,,Under Votes,REP,7,5,2
-Blanco,303,U.S. Senate,,Under Votes,REP,3,1,2
-Blanco,304,U.S. Senate,,Under Votes,REP,0,0,0
-Blanco,401,U.S. Senate,,Under Votes,REP,7,0,7
-Blanco,Total,U.S. Senate,,Under Votes,REP,45,21,24
-Blanco,102,U.S. House,21,Peggy Wardlaw,REP,8,2,6
-Blanco,201,U.S. House,21,Peggy Wardlaw,REP,15,11,4
-Blanco,302,U.S. House,21,Peggy Wardlaw,REP,2,2,0
-Blanco,303,U.S. House,21,Peggy Wardlaw,REP,4,2,2
-Blanco,304,U.S. House,21,Peggy Wardlaw,REP,0,0,0
-Blanco,401,U.S. House,21,Peggy Wardlaw,REP,4,1,3
-Blanco,Total,U.S. House,21,Peggy Wardlaw,REP,33,18,15
-Blanco,102,U.S. House,21,Susan Narvaiz,REP,8,6,2
-Blanco,201,U.S. House,21,Susan Narvaiz,REP,8,5,3
-Blanco,302,U.S. House,21,Susan Narvaiz,REP,3,1,2
-Blanco,303,U.S. House,21,Susan Narvaiz,REP,5,2,3
-Blanco,304,U.S. House,21,Susan Narvaiz,REP,4,0,4
-Blanco,401,U.S. House,21,Susan Narvaiz,REP,13,2,11
-Blanco,Total,U.S. House,21,Susan Narvaiz,REP,41,16,25
-Blanco,102,U.S. House,21,Jason Isaac,REP,192,53,139
-Blanco,201,U.S. House,21,Jason Isaac,REP,286,158,128
-Blanco,302,U.S. House,21,Jason Isaac,REP,120,62,58
-Blanco,303,U.S. House,21,Jason Isaac,REP,59,30,29
-Blanco,304,U.S. House,21,Jason Isaac,REP,19,7,12
-Blanco,401,U.S. House,21,Jason Isaac,REP,220,72,148
-Blanco,Total,U.S. House,21,Jason Isaac,REP,896,382,514
-Blanco,102,U.S. House,21,Anthony J. White,REP,0,0,0
-Blanco,201,U.S. House,21,Anthony J. White,REP,3,2,1
-Blanco,302,U.S. House,21,Anthony J. White,REP,0,0,0
-Blanco,303,U.S. House,21,Anthony J. White,REP,0,0,0
-Blanco,304,U.S. House,21,Anthony J. White,REP,0,0,0
-Blanco,401,U.S. House,21,Anthony J. White,REP,3,0,3
-Blanco,Total,U.S. House,21,Anthony J. White,REP,6,2,4
-Blanco,102,U.S. House,21,Eric Burkhart,REP,1,0,1
-Blanco,201,U.S. House,21,Eric Burkhart,REP,3,2,1
-Blanco,302,U.S. House,21,Eric Burkhart,REP,2,1,1
-Blanco,303,U.S. House,21,Eric Burkhart,REP,1,0,1
-Blanco,304,U.S. House,21,Eric Burkhart,REP,0,0,0
-Blanco,401,U.S. House,21,Eric Burkhart,REP,6,4,2
-Blanco,Total,U.S. House,21,Eric Burkhart,REP,13,7,6
-Blanco,102,U.S. House,21,Matt McCall,REP,44,13,31
-Blanco,201,U.S. House,21,Matt McCall,REP,55,32,23
-Blanco,302,U.S. House,21,Matt McCall,REP,19,8,11
-Blanco,303,U.S. House,21,Matt McCall,REP,17,13,4
-Blanco,304,U.S. House,21,Matt McCall,REP,2,0,2
-Blanco,401,U.S. House,21,Matt McCall,REP,32,7,25
-Blanco,Total,U.S. House,21,Matt McCall,REP,169,73,96
-Blanco,102,U.S. House,21,Autry J. Pruitt,REP,1,1,0
-Blanco,201,U.S. House,21,Autry J. Pruitt,REP,1,1,0
-Blanco,302,U.S. House,21,Autry J. Pruitt,REP,1,1,0
-Blanco,303,U.S. House,21,Autry J. Pruitt,REP,1,0,1
-Blanco,304,U.S. House,21,Autry J. Pruitt,REP,1,0,1
-Blanco,401,U.S. House,21,Autry J. Pruitt,REP,0,0,0
-Blanco,Total,U.S. House,21,Autry J. Pruitt,REP,5,3,2
-Blanco,102,U.S. House,21,Foster Hagen,REP,0,0,0
-Blanco,201,U.S. House,21,Foster Hagen,REP,2,1,1
-Blanco,302,U.S. House,21,Foster Hagen,REP,0,0,0
-Blanco,303,U.S. House,21,Foster Hagen,REP,0,0,0
-Blanco,304,U.S. House,21,Foster Hagen,REP,0,0,0
-Blanco,401,U.S. House,21,Foster Hagen,REP,2,0,2
-Blanco,Total,U.S. House,21,Foster Hagen,REP,4,1,3
-Blanco,102,U.S. House,21,Robert Stovall,REP,4,1,3
-Blanco,201,U.S. House,21,Robert Stovall,REP,14,12,2
-Blanco,302,U.S. House,21,Robert Stovall,REP,9,1,8
-Blanco,303,U.S. House,21,Robert Stovall,REP,2,2,0
-Blanco,304,U.S. House,21,Robert Stovall,REP,0,0,0
-Blanco,401,U.S. House,21,Robert Stovall,REP,11,3,8
-Blanco,Total,U.S. House,21,Robert Stovall,REP,40,19,21
-Blanco,102,U.S. House,21,Jenifer Sarver,REP,6,1,5
-Blanco,201,U.S. House,21,Jenifer Sarver,REP,12,7,5
-Blanco,302,U.S. House,21,Jenifer Sarver,REP,3,2,1
-Blanco,303,U.S. House,21,Jenifer Sarver,REP,2,1,1
-Blanco,304,U.S. House,21,Jenifer Sarver,REP,0,0,0
-Blanco,401,U.S. House,21,Jenifer Sarver,REP,7,1,6
-Blanco,Total,U.S. House,21,Jenifer Sarver,REP,30,12,18
-Blanco,102,U.S. House,21,William Negley,REP,43,23,20
-Blanco,201,U.S. House,21,William Negley,REP,38,22,16
-Blanco,302,U.S. House,21,William Negley,REP,14,8,6
-Blanco,303,U.S. House,21,William Negley,REP,7,2,5
-Blanco,304,U.S. House,21,William Negley,REP,4,0,4
-Blanco,401,U.S. House,21,William Negley,REP,30,11,19
-Blanco,Total,U.S. House,21,William Negley,REP,136,66,70
-Blanco,102,U.S. House,21,Chip Roy,REP,81,31,50
-Blanco,201,U.S. House,21,Chip Roy,REP,72,43,29
-Blanco,302,U.S. House,21,Chip Roy,REP,40,21,19
-Blanco,303,U.S. House,21,Chip Roy,REP,20,9,11
-Blanco,304,U.S. House,21,Chip Roy,REP,12,7,5
-Blanco,401,U.S. House,21,Chip Roy,REP,78,39,39
-Blanco,Total,U.S. House,21,Chip Roy,REP,303,150,153
-Blanco,102,U.S. House,21,"Francisco ""Quico"" Canseco",REP,5,2,3
-Blanco,201,U.S. House,21,"Francisco ""Quico"" Canseco",REP,1,1,0
-Blanco,302,U.S. House,21,"Francisco ""Quico"" Canseco",REP,2,1,1
-Blanco,303,U.S. House,21,"Francisco ""Quico"" Canseco",REP,0,0,0
-Blanco,304,U.S. House,21,"Francisco ""Quico"" Canseco",REP,0,0,0
-Blanco,401,U.S. House,21,"Francisco ""Quico"" Canseco",REP,4,0,4
-Blanco,Total,U.S. House,21,"Francisco ""Quico"" Canseco",REP,12,4,8
-Blanco,102,U.S. House,21,Al M.  Poteet,REP,45,17,28
-Blanco,201,U.S. House,21,Al M.  Poteet,REP,17,6,11
-Blanco,302,U.S. House,21,Al M.  Poteet,REP,16,5,11
-Blanco,303,U.S. House,21,Al M.  Poteet,REP,1,1,0
-Blanco,304,U.S. House,21,Al M.  Poteet,REP,9,3,6
-Blanco,401,U.S. House,21,Al M.  Poteet,REP,3,3,0
-Blanco,Total,U.S. House,21,Al M.  Poteet,REP,91,35,56
-Blanco,102,U.S. House,21,Mauro Garza,REP,2,0,2
-Blanco,201,U.S. House,21,Mauro Garza,REP,5,2,3
-Blanco,302,U.S. House,21,Mauro Garza,REP,2,0,2
-Blanco,303,U.S. House,21,Mauro Garza,REP,0,0,0
-Blanco,304,U.S. House,21,Mauro Garza,REP,1,0,1
-Blanco,401,U.S. House,21,Mauro Garza,REP,1,0,1
-Blanco,Total,U.S. House,21,Mauro Garza,REP,11,2,9
-Blanco,102,U.S. House,21,Ivan Andarza,REP,0,0,0
-Blanco,201,U.S. House,21,Ivan Andarza,REP,0,0,0
-Blanco,302,U.S. House,21,Ivan Andarza,REP,0,0,0
-Blanco,303,U.S. House,21,Ivan Andarza,REP,0,0,0
-Blanco,304,U.S. House,21,Ivan Andarza,REP,0,0,0
-Blanco,401,U.S. House,21,Ivan Andarza,REP,0,0,0
-Blanco,Total,U.S. House,21,Ivan Andarza,REP,0,0,0
-Blanco,102,U.S. House,21,Samuel Temple,REP,7,2,5
-Blanco,201,U.S. House,21,Samuel Temple,REP,0,0,0
-Blanco,302,U.S. House,21,Samuel Temple,REP,2,0,2
-Blanco,303,U.S. House,21,Samuel Temple,REP,1,1,0
-Blanco,304,U.S. House,21,Samuel Temple,REP,0,0,0
-Blanco,401,U.S. House,21,Samuel Temple,REP,1,1,0
-Blanco,Total,U.S. House,21,Samuel Temple,REP,11,4,7
-Blanco,102,U.S. House,21,Ryan Krause,REP,5,2,3
-Blanco,201,U.S. House,21,Ryan Krause,REP,10,3,7
-Blanco,302,U.S. House,21,Ryan Krause,REP,1,1,0
-Blanco,303,U.S. House,21,Ryan Krause,REP,1,1,0
-Blanco,304,U.S. House,21,Ryan Krause,REP,1,0,1
-Blanco,401,U.S. House,21,Ryan Krause,REP,4,3,1
-Blanco,Total,U.S. House,21,Ryan Krause,REP,22,10,12
-Blanco,102,U.S. House,21,Over Votes,REP,2,0,2
-Blanco,201,U.S. House,21,Over Votes,REP,0,0,0
-Blanco,302,U.S. House,21,Over Votes,REP,0,0,0
-Blanco,303,U.S. House,21,Over Votes,REP,0,0,0
-Blanco,304,U.S. House,21,Over Votes,REP,0,0,0
-Blanco,401,U.S. House,21,Over Votes,REP,3,0,3
-Blanco,Total,U.S. House,21,Over Votes,REP,5,0,5
-Blanco,102,U.S. House,21,Under Votes,REP,12,2,10
-Blanco,201,U.S. House,21,Under Votes,REP,21,13,8
-Blanco,302,U.S. House,21,Under Votes,REP,5,0,5
-Blanco,303,U.S. House,21,Under Votes,REP,5,1,4
-Blanco,304,U.S. House,21,Under Votes,REP,1,0,1
-Blanco,401,U.S. House,21,Under Votes,REP,16,4,12
-Blanco,Total,U.S. House,21,Under Votes,REP,60,20,40
-Blanco,102,Governor,,Barbara Krueger,REP,29,8,21
-Blanco,201,Governor,,Barbara Krueger,REP,40,22,18
-Blanco,302,Governor,,Barbara Krueger,REP,24,14,10
-Blanco,303,Governor,,Barbara Krueger,REP,9,6,3
-Blanco,304,Governor,,Barbara Krueger,REP,3,0,3
-Blanco,401,Governor,,Barbara Krueger,REP,31,9,22
-Blanco,Total,Governor,,Barbara Krueger,REP,136,59,77
-Blanco,102,Governor,,Greg Abbott,REP,387,128,259
-Blanco,201,Governor,,Greg Abbott,REP,513,292,221
-Blanco,302,Governor,,Greg Abbott,REP,207,93,114
-Blanco,303,Governor,,Greg Abbott,REP,111,57,54
-Blanco,304,Governor,,Greg Abbott,REP,45,18,27
-Blanco,401,Governor,,Greg Abbott,REP,396,138,258
-Blanco,Total,Governor,,Greg Abbott,REP,1659,726,933
-Blanco,102,Governor,,SECEDE Kilgore,REP,6,2,4
-Blanco,201,Governor,,SECEDE Kilgore,REP,8,4,4
-Blanco,302,Governor,,SECEDE Kilgore,REP,2,1,1
-Blanco,303,Governor,,SECEDE Kilgore,REP,1,0,1
-Blanco,304,Governor,,SECEDE Kilgore,REP,0,0,0
-Blanco,401,Governor,,SECEDE Kilgore,REP,2,1,1
-Blanco,Total,Governor,,SECEDE Kilgore,REP,19,8,11
-Blanco,102,Governor,,Over Votes,REP,0,0,0
-Blanco,201,Governor,,Over Votes,REP,1,0,1
-Blanco,302,Governor,,Over Votes,REP,0,0,0
-Blanco,303,Governor,,Over Votes,REP,0,0,0
-Blanco,304,Governor,,Over Votes,REP,0,0,0
-Blanco,401,Governor,,Over Votes,REP,0,0,0
-Blanco,Total,Governor,,Over Votes,REP,1,0,1
-Blanco,102,Governor,,Under Votes,REP,16,7,9
-Blanco,201,Governor,,Under Votes,REP,29,13,16
-Blanco,302,Governor,,Under Votes,REP,8,5,3
-Blanco,303,Governor,,Under Votes,REP,5,3,2
-Blanco,304,Governor,,Under Votes,REP,0,0,0
-Blanco,401,Governor,,Under Votes,REP,15,3,12
-Blanco,Total,Governor,,Under Votes,REP,73,31,42
-Blanco,102,Lieutenant Governor,,Scott Milder,REP,81,25,56
-Blanco,201,Lieutenant Governor,,Scott Milder,REP,129,75,54
-Blanco,302,Lieutenant Governor,,Scott Milder,REP,57,32,25
-Blanco,303,Lieutenant Governor,,Scott Milder,REP,38,25,13
-Blanco,304,Lieutenant Governor,,Scott Milder,REP,8,2,6
-Blanco,401,Lieutenant Governor,,Scott Milder,REP,88,35,53
-Blanco,Total,Lieutenant Governor,,Scott Milder,REP,401,194,207
-Blanco,102,Lieutenant Governor,,Dan Patrick,REP,348,116,232
-Blanco,201,Lieutenant Governor,,Dan Patrick,REP,441,246,195
-Blanco,302,Lieutenant Governor,,Dan Patrick,REP,181,79,102
-Blanco,303,Lieutenant Governor,,Dan Patrick,REP,85,39,46
-Blanco,304,Lieutenant Governor,,Dan Patrick,REP,40,16,24
-Blanco,401,Lieutenant Governor,,Dan Patrick,REP,347,115,232
-Blanco,Total,Lieutenant Governor,,Dan Patrick,REP,1442,611,831
-Blanco,102,Lieutenant Governor,,Over Votes,REP,0,0,0
-Blanco,201,Lieutenant Governor,,Over Votes,REP,0,0,0
-Blanco,302,Lieutenant Governor,,Over Votes,REP,0,0,0
-Blanco,303,Lieutenant Governor,,Over Votes,REP,0,0,0
-Blanco,304,Lieutenant Governor,,Over Votes,REP,0,0,0
-Blanco,401,Lieutenant Governor,,Over Votes,REP,0,0,0
-Blanco,Total,Lieutenant Governor,,Over Votes,REP,0,0,0
-Blanco,102,Lieutenant Governor,,Under Votes,REP,9,4,5
-Blanco,201,Lieutenant Governor,,Under Votes,REP,21,10,11
-Blanco,302,Lieutenant Governor,,Under Votes,REP,3,2,1
-Blanco,303,Lieutenant Governor,,Under Votes,REP,3,2,1
-Blanco,304,Lieutenant Governor,,Under Votes,REP,0,0,0
-Blanco,401,Lieutenant Governor,,Under Votes,REP,9,1,8
-Blanco,Total,Lieutenant Governor,,Under Votes,REP,45,19,26
-Blanco,102,Attorney General,,Ken Paxton,REP,368,121,247
-Blanco,201,Attorney General,,Ken Paxton,REP,493,280,213
-Blanco,302,Attorney General,,Ken Paxton,REP,209,97,112
-Blanco,303,Attorney General,,Ken Paxton,REP,108,54,54
-Blanco,304,Attorney General,,Ken Paxton,REP,42,17,25
-Blanco,401,Attorney General,,Ken Paxton,REP,391,132,259
-Blanco,Total,Attorney General,,Ken Paxton,REP,1611,701,910
-Blanco,102,Attorney General,,Over Votes,REP,0,0,0
-Blanco,201,Attorney General,,Over Votes,REP,0,0,0
-Blanco,302,Attorney General,,Over Votes,REP,0,0,0
-Blanco,303,Attorney General,,Over Votes,REP,0,0,0
-Blanco,304,Attorney General,,Over Votes,REP,0,0,0
-Blanco,401,Attorney General,,Over Votes,REP,0,0,0
-Blanco,Total,Attorney General,,Over Votes,REP,0,0,0
-Blanco,102,Attorney General,,Under Votes,REP,70,24,46
-Blanco,201,Attorney General,,Under Votes,REP,98,51,47
-Blanco,302,Attorney General,,Under Votes,REP,32,16,16
-Blanco,303,Attorney General,,Under Votes,REP,18,12,6
-Blanco,304,Attorney General,,Under Votes,REP,6,1,5
-Blanco,401,Attorney General,,Under Votes,REP,53,19,34
-Blanco,Total,Attorney General,,Under Votes,REP,277,123,154
-Blanco,102,Comptroller of Public Accounts,,Glenn Hegar,REP,351,116,235
-Blanco,201,Comptroller of Public Accounts,,Glenn Hegar,REP,476,273,203
-Blanco,302,Comptroller of Public Accounts,,Glenn Hegar,REP,194,90,104
-Blanco,303,Comptroller of Public Accounts,,Glenn Hegar,REP,41,17,24
-Blanco,304,Comptroller of Public Accounts,,Glenn Hegar,REP,376,130,246
-Blanco,401,Comptroller of Public Accounts,,Glenn Hegar,REP,108,53,55
-Blanco,Total,Comptroller of Public Accounts,,Glenn Hegar,REP,1546,679,867
-Blanco,102,Comptroller of Public Accounts,,Over Votes,REP,0,0,0
-Blanco,201,Comptroller of Public Accounts,,Over Votes,REP,0,0,0
-Blanco,302,Comptroller of Public Accounts,,Over Votes,REP,0,0,0
-Blanco,303,Comptroller of Public Accounts,,Over Votes,REP,0,0,0
-Blanco,304,Comptroller of Public Accounts,,Over Votes,REP,0,0,0
-Blanco,401,Comptroller of Public Accounts,,Over Votes,REP,0,0,0
-Blanco,Total,Comptroller of Public Accounts,,Over Votes,REP,0,0,0
-Blanco,102,Comptroller of Public Accounts,,Under Votes,REP,87,29,58
-Blanco,201,Comptroller of Public Accounts,,Under Votes,REP,115,58,57
-Blanco,302,Comptroller of Public Accounts,,Under Votes,REP,47,23,24
-Blanco,303,Comptroller of Public Accounts,,Under Votes,REP,18,13,5
-Blanco,304,Comptroller of Public Accounts,,Under Votes,REP,7,1,6
-Blanco,401,Comptroller of Public Accounts,,Under Votes,REP,68,21,47
-Blanco,Total,Comptroller of Public Accounts,,Under Votes,REP,342,145,197
-Blanco,102,Commissioner of the General Land Office,,Rick Range,REP,27,11,16
-Blanco,201,Commissioner of the General Land Office,,Rick Range,REP,39,16,23
-Blanco,302,Commissioner of the General Land Office,,Rick Range,REP,15,10,5
-Blanco,303,Commissioner of the General Land Office,,Rick Range,REP,7,3,4
-Blanco,304,Commissioner of the General Land Office,,Rick Range,REP,0,0,0
-Blanco,401,Commissioner of the General Land Office,,Rick Range,REP,37,7,30
-Blanco,Total,Commissioner of the General Land Office,,Rick Range,REP,125,47,78
-Blanco,102,Commissioner of the General Land Office,,Davey Edwards,REP,27,7,20
-Blanco,201,Commissioner of the General Land Office,,Davey Edwards,REP,31,18,13
-Blanco,302,Commissioner of the General Land Office,,Davey Edwards,REP,14,9,5
-Blanco,303,Commissioner of the General Land Office,,Davey Edwards,REP,7,4,3
-Blanco,304,Commissioner of the General Land Office,,Davey Edwards,REP,5,2,3
-Blanco,401,Commissioner of the General Land Office,,Davey Edwards,REP,26,10,16
-Blanco,Total,Commissioner of the General Land Office,,Davey Edwards,REP,110,50,60
-Blanco,102,Commissioner of the General Land Office,,Jerry Patterson,REP,129,43,86
-Blanco,201,Commissioner of the General Land Office,,Jerry Patterson,REP,201,130,71
-Blanco,302,Commissioner of the General Land Office,,Jerry Patterson,REP,83,38,45
-Blanco,303,Commissioner of the General Land Office,,Jerry Patterson,REP,48,27,21
-Blanco,304,Commissioner of the General Land Office,,Jerry Patterson,REP,23,12,11
-Blanco,401,Commissioner of the General Land Office,,Jerry Patterson,REP,150,54,96
-Blanco,Total,Commissioner of the General Land Office,,Jerry Patterson,REP,634,304,330
-Blanco,102,Commissioner of the General Land Office,,George P. Bush,REP,199,68,131
-Blanco,201,Commissioner of the General Land Office,,George P. Bush,REP,223,77,146
-Blanco,302,Commissioner of the General Land Office,,George P. Bush,REP,253,131,122
-Blanco,303,Commissioner of the General Land Office,,George P. Bush,REP,115,49,66
-Blanco,304,Commissioner of the General Land Office,,George P. Bush,REP,58,31,27
-Blanco,401,Commissioner of the General Land Office,,George P. Bush,REP,18,4,14
-Blanco,Total,Commissioner of the General Land Office,,George P. Bush,REP,866,360,506
-Blanco,102,Commissioner of the General Land Office,,Over Votes,REP,0,0,0
-Blanco,201,Commissioner of the General Land Office,,Over Votes,REP,0,0,0
-Blanco,302,Commissioner of the General Land Office,,Over Votes,REP,0,0,0
-Blanco,303,Commissioner of the General Land Office,,Over Votes,REP,0,0,0
-Blanco,304,Commissioner of the General Land Office,,Over Votes,REP,0,0,0
-Blanco,401,Commissioner of the General Land Office,,Over Votes,REP,0,0,0
-Blanco,Total,Commissioner of the General Land Office,,Over Votes,REP,0,0,0
-Blanco,102,Commissioner of the General Land Office,,Under Votes,REP,32,7,25
-Blanco,201,Commissioner of the General Land Office,,Under Votes,REP,67,36,31
-Blanco,302,Commissioner of the General Land Office,,Under Votes,REP,14,7,7
-Blanco,303,Commissioner of the General Land Office,,Under Votes,REP,6,1,5
-Blanco,304,Commissioner of the General Land Office,,Under Votes,REP,2,0,2
-Blanco,401,Commissioner of the General Land Office,,Under Votes,REP,32,12,20
-Blanco,Total,Commissioner of the General Land Office,,Under Votes,REP,153,63,90
-Blanco,102,Commissioner of Agriculture,,Trey Blocker,REP,113,50,63
-Blanco,201,Commissioner of Agriculture,,Trey Blocker,REP,116,67,49
-Blanco,302,Commissioner of Agriculture,,Trey Blocker,REP,42,20,22
-Blanco,303,Commissioner of Agriculture,,Trey Blocker,REP,24,14,10
-Blanco,304,Commissioner of Agriculture,,Trey Blocker,REP,10,6,4
-Blanco,401,Commissioner of Agriculture,,Trey Blocker,REP,113,43,70
-Blanco,Total,Commissioner of Agriculture,,Trey Blocker,REP,418,200,218
-Blanco,102,Commissioner of Agriculture,,Jim Hogan,REP,63,20,43
-Blanco,201,Commissioner of Agriculture,,Jim Hogan,REP,107,58,49
-Blanco,302,Commissioner of Agriculture,,Jim Hogan,REP,32,17,15
-Blanco,303,Commissioner of Agriculture,,Jim Hogan,REP,16,6,10
-Blanco,304,Commissioner of Agriculture,,Jim Hogan,REP,3,0,3
-Blanco,401,Commissioner of Agriculture,,Jim Hogan,REP,51,14,37
-Blanco,Total,Commissioner of Agriculture,,Jim Hogan,REP,272,115,157
-Blanco,102,Commissioner of Agriculture,,Sid Miller,REP,209,59,150
-Blanco,201,Commissioner of Agriculture,,Sid Miller,REP,279,164,115
-Blanco,302,Commissioner of Agriculture,,Sid Miller,REP,141,62,79
-Blanco,303,Commissioner of Agriculture,,Sid Miller,REP,72,44,28
-Blanco,304,Commissioner of Agriculture,,Sid Miller,REP,33,11,22
-Blanco,401,Commissioner of Agriculture,,Sid Miller,REP,227,72,155
-Blanco,Total,Commissioner of Agriculture,,Sid Miller,REP,961,412,549
-Blanco,102,Commissioner of Agriculture,,Over Votes,REP,0,0,0
-Blanco,201,Commissioner of Agriculture,,Over Votes,REP,0,0,0
-Blanco,302,Commissioner of Agriculture,,Over Votes,REP,0,0,0
-Blanco,303,Commissioner of Agriculture,,Over Votes,REP,0,0,0
-Blanco,304,Commissioner of Agriculture,,Over Votes,REP,0,0,0
-Blanco,401,Commissioner of Agriculture,,Over Votes,REP,0,0,0
-Blanco,Total,Commissioner of Agriculture,,Over Votes,REP,0,0,0
-Blanco,102,Commissioner of Agriculture,,Under Votes,REP,53,16,37
-Blanco,201,Commissioner of Agriculture,,Under Votes,REP,89,42,47
-Blanco,302,Commissioner of Agriculture,,Under Votes,REP,26,14,12
-Blanco,303,Commissioner of Agriculture,,Under Votes,REP,14,2,12
-Blanco,304,Commissioner of Agriculture,,Under Votes,REP,2,1,1
-Blanco,401,Commissioner of Agriculture,,Under Votes,REP,53,22,31
-Blanco,Total,Commissioner of Agriculture,,Under Votes,REP,237,97,140
-Blanco,102,Railroad Commissioner,,Weston Martinez,REP,79,25,54
-Blanco,201,Railroad Commissioner,,Weston Martinez,REP,111,56,55
-Blanco,302,Railroad Commissioner,,Weston Martinez,REP,47,15,32
-Blanco,303,Railroad Commissioner,,Weston Martinez,REP,22,18,4
-Blanco,304,Railroad Commissioner,,Weston Martinez,REP,8,2,6
-Blanco,401,Railroad Commissioner,,Weston Martinez,REP,92,18,74
-Blanco,Total,Railroad Commissioner,,Weston Martinez,REP,359,134,225
-Blanco,102,Railroad Commissioner,,Christi Craddick,REP,298,102,196
-Blanco,201,Railroad Commissioner,,Christi Craddick,REP,379,226,153
-Blanco,302,Railroad Commissioner,,Christi Craddick,REP,163,79,84
-Blanco,303,Railroad Commissioner,,Christi Craddick,REP,89,43,46
-Blanco,304,Railroad Commissioner,,Christi Craddick,REP,36,16,20
-Blanco,401,Railroad Commissioner,,Christi Craddick,REP,303,113,190
-Blanco,Total,Railroad Commissioner,,Christi Craddick,REP,1268,579,689
-Blanco,102,Railroad Commissioner,,Over Votes,REP,0,0,0
-Blanco,201,Railroad Commissioner,,Over Votes,REP,0,0,0
-Blanco,302,Railroad Commissioner,,Over Votes,REP,0,0,0
-Blanco,303,Railroad Commissioner,,Over Votes,REP,0,0,0
-Blanco,304,Railroad Commissioner,,Over Votes,REP,0,0,0
-Blanco,401,Railroad Commissioner,,Over Votes,REP,0,0,0
-Blanco,Total,Railroad Commissioner,,Over Votes,REP,0,0,0
-Blanco,102,Railroad Commissioner,,Under Votes,REP,61,18,43
-Blanco,201,Railroad Commissioner,,Under Votes,REP,101,49,52
-Blanco,302,Railroad Commissioner,,Under Votes,REP,31,19,12
-Blanco,303,Railroad Commissioner,,Under Votes,REP,15,5,10
-Blanco,304,Railroad Commissioner,,Under Votes,REP,4,0,4
-Blanco,401,Railroad Commissioner,,Under Votes,REP,49,20,29
-Blanco,Total,Railroad Commissioner,,Under Votes,REP,261,111,146
-Blanco,102,Railroad Commissioner,,Christi Craddick,REP,298,102,196
-Blanco,201,Railroad Commissioner,,Christi Craddick,REP,379,226,153
-Blanco,302,Railroad Commissioner,,Christi Craddick,REP,163,79,84
-Blanco,303,Railroad Commissioner,,Christi Craddick,REP,89,43,46
-Blanco,304,Railroad Commissioner,,Christi Craddick,REP,36,16,20
-Blanco,401,Railroad Commissioner,,Christi Craddick,REP,303,113,190
-Blanco,Total,Railroad Commissioner,,Christi Craddick,REP,1268,579,689
-Blanco,102,State Representative�,45,Ken Strange,REP,201,73,128
-Blanco,201,State Representative�,45,Ken Strange,REP,251,134,117
-Blanco,302,State Representative�,45,Ken Strange,REP,101,41,60
-Blanco,303,State Representative�,45,Ken Strange,REP,51,28,23
-Blanco,304,State Representative�,45,Ken Strange,REP,21,7,14
-Blanco,401,State Representative�,45,Ken Strange,REP,214,78,136
-Blanco,Total,State Representative�,45,Ken Strange,REP,839,361,478
-Blanco,102,State Representative�,45,Amy Akers,REP,24,8,16
-Blanco,201,State Representative�,45,Amy Akers,REP,16,11,5
-Blanco,302,State Representative�,45,Amy Akers,REP,6,2,4
-Blanco,303,State Representative�,45,Amy Akers,REP,1,0,1
-Blanco,304,State Representative�,45,Amy Akers,REP,1,0,1
-Blanco,401,State Representative�,45,Amy Akers,REP,19,2,17
-Blanco,Total,State Representative�,45,Amy Akers,REP,67,23,44
-Blanco,102,State Representative�,45,Naomi Narvaiz,REP,23,6,17
-Blanco,201,State Representative�,45,Naomi Narvaiz,REP,29,19,10
-Blanco,302,State Representative�,45,Naomi Narvaiz,REP,11,2,9
-Blanco,303,State Representative�,45,Naomi Narvaiz,REP,3,3,0
-Blanco,304,State Representative�,45,Naomi Narvaiz,REP,6,0,6
-Blanco,401,State Representative�,45,Naomi Narvaiz,REP,24,6,18
-Blanco,Total,State Representative�,45,Naomi Narvaiz,REP,96,36,60
-Blanco,102,State Representative�,45,Amber Pearce,REP,148,45,103
-Blanco,201,State Representative�,45,Amber Pearce,REP,208,107,101
-Blanco,302,State Representative�,45,Amber Pearce,REP,81,42,39
-Blanco,303,State Representative�,45,Amber Pearce,REP,58,27,31
-Blanco,304,State Representative�,45,Amber Pearce,REP,17,11,6
-Blanco,401,State Representative�,45,Amber Pearce,REP,147,50,97
-Blanco,Total,State Representative�,45,Amber Pearce,REP,659,282,377
-Blanco,102,State Representative�,45,Austin Talley,REP,18,7,11
-Blanco,201,State Representative�,45,Austin Talley,REP,47,35,12
-Blanco,302,State Representative�,45,Austin Talley,REP,29,20,9
-Blanco,303,State Representative�,45,Austin Talley,REP,8,5,3
-Blanco,304,State Representative�,45,Austin Talley,REP,2,0,2
-Blanco,401,State Representative�,45,Austin Talley,REP,16,6,10
-Blanco,Total,State Representative�,45,Austin Talley,REP,120,73,47
-Blanco,102,State Representative�,45,Over Votes,REP,0,0,0
-Blanco,201,State Representative�,45,Over Votes,REP,0,0,0
-Blanco,302,State Representative�,45,Over Votes,REP,0,0,0
-Blanco,303,State Representative�,45,Over Votes,REP,0,0,0
-Blanco,304,State Representative�,45,Over Votes,REP,0,0,0
-Blanco,401,State Representative�,45,Over Votes,REP,2,2,0
-Blanco,Total,State Representative�,45,Over Votes,REP,2,2,0
-Blanco,102,State Representative�,45,Under Votes,REP,24,6,18
-Blanco,201,State Representative�,45,Under Votes,REP,40,25,15
-Blanco,302,State Representative�,45,Under Votes,REP,13,6,7
-Blanco,303,State Representative�,45,Under Votes,REP,5,3,2
-Blanco,304,State Representative�,45,Under Votes,REP,1,0,1
-Blanco,401,State Representative�,45,Under Votes,REP,22,7,15
-Blanco,Total,State Representative�,45,Under Votes,REP,105,47,58
-Blanco,102,U.S. Senate,,Beto O'Rourke,DEM,98,35,63
-Blanco,201,U.S. Senate,,Beto O'Rourke,DEM,112,56,56
-Blanco,302,U.S. Senate,,Beto O'Rourke,DEM,74,34,40
-Blanco,303,U.S. Senate,,Beto O'Rourke,DEM,10,3,7
-Blanco,304,U.S. Senate,,Beto O'Rourke,DEM,19,13,6
-Blanco,401,U.S. Senate,,Beto O'Rourke,DEM,129,79,50
-Blanco,Total,U.S. Senate,,Beto O'Rourke,DEM,442,220,222
-Blanco,102,U.S. Senate,,Edward Kimbrough,DEM,8,2,6
-Blanco,201,U.S. Senate,,Edward Kimbrough,DEM,9,6,3
-Blanco,302,U.S. Senate,,Edward Kimbrough,DEM,12,8,4
-Blanco,303,U.S. Senate,,Edward Kimbrough,DEM,1,0,1
-Blanco,304,U.S. Senate,,Edward Kimbrough,DEM,2,1,1
-Blanco,401,U.S. Senate,,Edward Kimbrough,DEM,8,6,2
-Blanco,Total,U.S. Senate,,Edward Kimbrough,DEM,40,23,17
-Blanco,102,U.S. Senate,,Sema Hernandez,DEM,11,5,6
-Blanco,201,U.S. Senate,,Sema Hernandez,DEM,20,9,11
-Blanco,302,U.S. Senate,,Sema Hernandez,DEM,12,6,6
-Blanco,303,U.S. Senate,,Sema Hernandez,DEM,4,0,4
-Blanco,304,U.S. Senate,,Sema Hernandez,DEM,2,1,1
-Blanco,401,U.S. Senate,,Sema Hernandez,DEM,10,2,8
-Blanco,Total,U.S. Senate,,Sema Hernandez,DEM,59,23,36
-Blanco,102,U.S. Senate,,Over Votes,DEM,0,0,0
-Blanco,201,U.S. Senate,,Over Votes,DEM,0,0,0
-Blanco,302,U.S. Senate,,Over Votes,DEM,0,0,0
-Blanco,303,U.S. Senate,,Over Votes,DEM,0,0,0
-Blanco,304,U.S. Senate,,Over Votes,DEM,0,0,0
-Blanco,401,U.S. Senate,,Over Votes,DEM,0,0,0
-Blanco,Total,U.S. Senate,,Over Votes,DEM,0,0,0
-Blanco,102,U.S. Senate,,Under Votes,DEM,1,1,0
-Blanco,201,U.S. Senate,,Under Votes,DEM,4,1,3
-Blanco,302,U.S. Senate,,Under Votes,DEM,1,0,1
-Blanco,303,U.S. Senate,,Under Votes,DEM,0,0,0
-Blanco,304,U.S. Senate,,Under Votes,DEM,0,0,0
-Blanco,401,U.S. Senate,,Under Votes,DEM,4,1,3
-Blanco,Total,U.S. Senate,,Under Votes,DEM,10,3,7
-Blanco,102,U.S. House,21,Joseph Kopser,DEM,50,10,40
-Blanco,201,U.S. House,21,Joseph Kopser,DEM,37,16,21
-Blanco,302,U.S. House,21,Joseph Kopser,DEM,34,18,16
-Blanco,303,U.S. House,21,Joseph Kopser,DEM,3,1,2
-Blanco,304,U.S. House,21,Joseph Kopser,DEM,3,2,1
-Blanco,401,U.S. House,21,Joseph Kopser,DEM,62,36,26
-Blanco,Total,U.S. House,21,Joseph Kopser,DEM,189,83,106
-Blanco,102,U.S. House,21,Derrick Crowe,DEM,12,8,4
-Blanco,201,U.S. House,21,Derrick Crowe,DEM,32,19,13
-Blanco,302,U.S. House,21,Derrick Crowe,DEM,24,11,13
-Blanco,303,U.S. House,21,Derrick Crowe,DEM,1,0,1
-Blanco,304,U.S. House,21,Derrick Crowe,DEM,6,3,3
-Blanco,401,U.S. House,21,Derrick Crowe,DEM,22,17,5
-Blanco,Total,U.S. House,21,Derrick Crowe,DEM,97,58,39
-Blanco,102,U.S. House,21,Mary Street Wilson,DEM,36,15,21
-Blanco,201,U.S. House,21,Mary Street Wilson,DEM,42,20,22
-Blanco,302,U.S. House,21,Mary Street Wilson,DEM,22,11,11
-Blanco,303,U.S. House,21,Mary Street Wilson,DEM,9,2,7
-Blanco,304,U.S. House,21,Mary Street Wilson,DEM,10,8,2
-Blanco,401,U.S. House,21,Mary Street Wilson,DEM,36,18,18
-Blanco,Total,U.S. House,21,Mary Street Wilson,DEM,155,74,81
-Blanco,102,U.S. House,21,Elliott McFadden,DEM,17,9,8
-Blanco,201,U.S. House,21,Elliott McFadden,DEM,26,14,12
-Blanco,302,U.S. House,21,Elliott McFadden,DEM,16,8,8
-Blanco,303,U.S. House,21,Elliott McFadden,DEM,2,0,2
-Blanco,304,U.S. House,21,Elliott McFadden,DEM,1,1,0
-Blanco,401,U.S. House,21,Elliott McFadden,DEM,22,13,9
-Blanco,Total,U.S. House,21,Elliott McFadden,DEM,84,45,39
-Blanco,102,U.S. House,21,Over Votes,DEM,0,0,0
-Blanco,201,U.S. House,21,Over Votes,DEM,0,0,0
-Blanco,302,U.S. House,21,Over Votes,DEM,0,0,0
-Blanco,303,U.S. House,21,Over Votes,DEM,0,0,0
-Blanco,304,U.S. House,21,Over Votes,DEM,0,0,0
-Blanco,401,U.S. House,21,Over Votes,DEM,0,0,0
-Blanco,Total,U.S. House,21,Over Votes,DEM,0,0,0
-Blanco,102,U.S. House,21,Under Votes,DEM,3,1,2
-Blanco,201,U.S. House,21,Under Votes,DEM,8,3,5
-Blanco,302,U.S. House,21,Under Votes,DEM,3,0,3
-Blanco,303,U.S. House,21,Under Votes,DEM,0,0,0
-Blanco,304,U.S. House,21,Under Votes,DEM,3,1,2
-Blanco,401,U.S. House,21,Under Votes,DEM,9,4,5
-Blanco,Total,U.S. House,21,Under Votes,DEM,26,9,17
-Blanco,102,Governor,,Lupe Valdez,DEM,53,23,30
-Blanco,201,Governor,,Lupe Valdez,DEM,51,21,30
-Blanco,302,Governor,,Lupe Valdez,DEM,34,20,14
-Blanco,303,Governor,,Lupe Valdez,DEM,9,2,7
-Blanco,304,Governor,,Lupe Valdez,DEM,56,35,21
-Blanco,401,Governor,,Lupe Valdez,DEM,16,12,4
-Blanco,Total,Governor,,Lupe Valdez,DEM,219,113,106
-Blanco,102,Governor,,Grady Yarbrough,DEM,8,2,6
-Blanco,201,Governor,,Grady Yarbrough,DEM,10,5,5
-Blanco,302,Governor,,Grady Yarbrough,DEM,6,3,3
-Blanco,303,Governor,,Grady Yarbrough,DEM,0,0,0
-Blanco,304,Governor,,Grady Yarbrough,DEM,0,0,0
-Blanco,401,Governor,,Grady Yarbrough,DEM,6,4,2
-Blanco,Total,Governor,,Grady Yarbrough,DEM,30,14,16
-Blanco,102,Governor,,Joe Mumbach,DEM,1,0,1
-Blanco,201,Governor,,Joe Mumbach,DEM,3,2,1
-Blanco,302,Governor,,Joe Mumbach,DEM,2,0,2
-Blanco,303,Governor,,Joe Mumbach,DEM,0,0,0
-Blanco,304,Governor,,Joe Mumbach,DEM,0,0,0
-Blanco,401,Governor,,Joe Mumbach,DEM,0,0,0
-Blanco,Total,Governor,,Joe Mumbach,DEM,6,2,4
-Blanco,102,Governor,,Adrian Ocegueda,DEM,1,1,0
-Blanco,201,Governor,,Adrian Ocegueda,DEM,2,0,2
-Blanco,302,Governor,,Adrian Ocegueda,DEM,4,2,2
-Blanco,303,Governor,,Adrian Ocegueda,DEM,0,0,0
-Blanco,304,Governor,,Adrian Ocegueda,DEM,0,0,0
-Blanco,401,Governor,,Adrian Ocegueda,DEM,4,3,1
-Blanco,Total,Governor,,Adrian Ocegueda,DEM,11,6,5
-Blanco,102,Governor,,James Jolly Clark,DEM,2,1,1
-Blanco,201,Governor,,James Jolly Clark,DEM,2,0,2
-Blanco,302,Governor,,James Jolly Clark,DEM,3,0,3
-Blanco,303,Governor,,James Jolly Clark,DEM,0,0,0
-Blanco,304,Governor,,James Jolly Clark,DEM,0,0,0
-Blanco,401,Governor,,James Jolly Clark,DEM,3,2,1
-Blanco,Total,Governor,,James Jolly Clark,DEM,10,3,7
-Blanco,102,Governor,,Tom Wakely,DEM,9,1,8
-Blanco,201,Governor,,Tom Wakely,DEM,13,8,5
-Blanco,302,Governor,,Tom Wakely,DEM,5,4,1
-Blanco,303,Governor,,Tom Wakely,DEM,1,0,1
-Blanco,304,Governor,,Tom Wakely,DEM,1,0,1
-Blanco,401,Governor,,Tom Wakely,DEM,13,4,9
-Blanco,Total,Governor,,Tom Wakely,DEM,42,17,25
-Blanco,102,Governor,,Andrew White,DEM,36,10,26
-Blanco,201,Governor,,Andrew White,DEM,46,25,21
-Blanco,302,Governor,,Andrew White,DEM,34,15,19
-Blanco,303,Governor,,Andrew White,DEM,2,0,2
-Blanco,304,Governor,,Andrew White,DEM,5,3,2
-Blanco,401,Governor,,Andrew White,DEM,53,37,16
-Blanco,Total,Governor,,Andrew White,DEM,176,90,86
-Blanco,102,Governor,,Jeffrey Payne,DEM,3,3,0
-Blanco,201,Governor,,Jeffrey Payne,DEM,7,3,4
-Blanco,302,Governor,,Jeffrey Payne,DEM,5,1,4
-Blanco,303,Governor,,Jeffrey Payne,DEM,1,1,0
-Blanco,304,Governor,,Jeffrey Payne,DEM,0,0,0
-Blanco,401,Governor,,Jeffrey Payne,DEM,5,0,5
-Blanco,Total,Governor,,Jeffrey Payne,DEM,21,8,13
-Blanco,102,Governor,,"Cedric Davis, Sr.",DEM,3,2,1
-Blanco,201,Governor,,"Cedric Davis, Sr.",DEM,2,2,0
-Blanco,302,Governor,,"Cedric Davis, Sr.",DEM,2,0,2
-Blanco,303,Governor,,"Cedric Davis, Sr.",DEM,0,0,0
-Blanco,304,Governor,,"Cedric Davis, Sr.",DEM,4,2,2
-Blanco,401,Governor,,"Cedric Davis, Sr.",DEM,4,0,4
-Blanco,Total,Governor,,"Cedric Davis, Sr.",DEM,15,6,9
-Blanco,102,Governor,,Over Votes,DEM,0,0,0
-Blanco,201,Governor,,Over Votes,DEM,1,1,0
-Blanco,302,Governor,,Over Votes,DEM,0,0,0
-Blanco,303,Governor,,Over Votes,DEM,0,0,0
-Blanco,304,Governor,,Over Votes,DEM,0,0,0
-Blanco,401,Governor,,Over Votes,DEM,0,0,0
-Blanco,Total,Governor,,Over Votes,DEM,1,1,0
-Blanco,102,Governor,,Under Votes,DEM,2,0,2
-Blanco,201,Governor,,Under Votes,DEM,6,5,1
-Blanco,302,Governor,,Under Votes,DEM,4,1,3
-Blanco,303,Governor,,Under Votes,DEM,0,0,0
-Blanco,304,Governor,,Under Votes,DEM,1,0,1
-Blanco,401,Governor,,Under Votes,DEM,7,3,4
-Blanco,Total,Governor,,Under Votes,DEM,20,9,11
-Blanco,102,Lieutenant Governor,,Mike Collier,DEM,71,29,42
-Blanco,201,Lieutenant Governor,,Mike Collier,DEM,96,47,49
-Blanco,302,Lieutenant Governor,,Mike Collier,DEM,63,31,32
-Blanco,303,Lieutenant Governor,,Mike Collier,DEM,9,3,6
-Blanco,304,Lieutenant Governor,,Mike Collier,DEM,8,7,1
-Blanco,401,Lieutenant Governor,,Mike Collier,DEM,98,64,34
-Blanco,Total,Lieutenant Governor,,Mike Collier,DEM,345,181,164
-Blanco,102,Lieutenant Governor,,Michael Cooper,DEM,34,11,23
-Blanco,201,Lieutenant Governor,,Michael Cooper,DEM,34,18,16
-Blanco,302,Lieutenant Governor,,Michael Cooper,DEM,30,15,15
-Blanco,303,Lieutenant Governor,,Michael Cooper,DEM,6,0,6
-Blanco,304,Lieutenant Governor,,Michael Cooper,DEM,12,6,6
-Blanco,401,Lieutenant Governor,,Michael Cooper,DEM,41,20,21
-Blanco,Total,Lieutenant Governor,,Michael Cooper,DEM,157,70,87
-Blanco,102,Lieutenant Governor,,Over Votes,DEM,0,0,0
-Blanco,201,Lieutenant Governor,,Over Votes,DEM,0,0,0
-Blanco,302,Lieutenant Governor,,Over Votes,DEM,0,0,0
-Blanco,303,Lieutenant Governor,,Over Votes,DEM,0,0,0
-Blanco,304,Lieutenant Governor,,Over Votes,DEM,0,0,0
-Blanco,401,Lieutenant Governor,,Over Votes,DEM,0,0,0
-Blanco,Total,Lieutenant Governor,,Over Votes,DEM,0,0,0
-Blanco,102,Lieutenant Governor,,Under Votes,DEM,13,3,10
-Blanco,201,Lieutenant Governor,,Under Votes,DEM,15,7,8
-Blanco,302,Lieutenant Governor,,Under Votes,DEM,6,2,4
-Blanco,303,Lieutenant Governor,,Under Votes,DEM,0,0,0
-Blanco,304,Lieutenant Governor,,Under Votes,DEM,3,2,1
-Blanco,401,Lieutenant Governor,,Under Votes,DEM,12,4,8
-Blanco,Total,Lieutenant Governor,,Under Votes,DEM,49,18,31
-Blanco,102,Attorney General,,Justin Nelson,DEM,103,39,64
-Blanco,201,Attorney General,,Justin Nelson,DEM,119,59,60
-Blanco,302,Attorney General,,Justin Nelson,DEM,87,45,42
-Blanco,303,Attorney General,,Justin Nelson,DEM,13,2,11
-Blanco,304,Attorney General,,Justin Nelson,DEM,20,13,7
-Blanco,401,Attorney General,,Justin Nelson,DEM,135,81,54
-Blanco,Total,Attorney General,,Justin Nelson,DEM,477,239,238
-Blanco,102,Attorney General,,Over Votes,DEM,0,0,0
-Blanco,201,Attorney General,,Over Votes,DEM,0,0,0
-Blanco,302,Attorney General,,Over Votes,DEM,0,0,0
-Blanco,303,Attorney General,,Over Votes,DEM,0,0,0
-Blanco,304,Attorney General,,Over Votes,DEM,0,0,0
-Blanco,401,Attorney General,,Over Votes,DEM,0,0,0
-Blanco,Total,Attorney General,,Over Votes,DEM,0,0,0
-Blanco,102,Attorney General,,Under Votes,DEM,15,4,11
-Blanco,201,Attorney General,,Under Votes,DEM,26,13,13
-Blanco,302,Attorney General,,Under Votes,DEM,12,3,9
-Blanco,303,Attorney General,,Under Votes,DEM,2,1,1
-Blanco,304,Attorney General,,Under Votes,DEM,3,2,1
-Blanco,401,Attorney General,,Under Votes,DEM,16,7,9
-Blanco,Total,Attorney General,,Under Votes,DEM,74,30,44
-Blanco,102,Comptroller of Public Accounts,,Tim Mahoney,DEM,41,14,27
-Blanco,201,Comptroller of Public Accounts,,Tim Mahoney,DEM,69,38,31
-Blanco,302,Comptroller of Public Accounts,,Tim Mahoney,DEM,50,24,26
-Blanco,303,Comptroller of Public Accounts,,Tim Mahoney,DEM,5,1,4
-Blanco,304,Comptroller of Public Accounts,,Tim Mahoney,DEM,8,6,2
-Blanco,401,Comptroller of Public Accounts,,Tim Mahoney,DEM,48,26,22
-Blanco,Total,Comptroller of Public Accounts,,Tim Mahoney,DEM,221,109,112
-Blanco,102,Comptroller of Public Accounts,,Joi Chevalier,DEM,67,27,40
-Blanco,201,Comptroller of Public Accounts,,Joi Chevalier,DEM,66,30,36
-Blanco,302,Comptroller of Public Accounts,,Joi Chevalier,DEM,41,21,20
-Blanco,303,Comptroller of Public Accounts,,Joi Chevalier,DEM,10,2,8
-Blanco,304,Comptroller of Public Accounts,,Joi Chevalier,DEM,12,6,6
-Blanco,401,Comptroller of Public Accounts,,Joi Chevalier,DEM,90,56,34
-Blanco,Total,Comptroller of Public Accounts,,Joi Chevalier,DEM,286,142,144
-Blanco,102,Comptroller of Public Accounts,,Over Votes,DEM,0,0,0
-Blanco,201,Comptroller of Public Accounts,,Over Votes,DEM,0,0,0
-Blanco,302,Comptroller of Public Accounts,,Over Votes,DEM,0,0,0
-Blanco,303,Comptroller of Public Accounts,,Over Votes,DEM,0,0,0
-Blanco,304,Comptroller of Public Accounts,,Over Votes,DEM,0,0,0
-Blanco,401,Comptroller of Public Accounts,,Over Votes,DEM,0,0,0
-Blanco,Total,Comptroller of Public Accounts,,Over Votes,DEM,0,0,0
-Blanco,102,Comptroller of Public Accounts,,Under Votes,DEM,10,2,8
-Blanco,201,Comptroller of Public Accounts,,Under Votes,DEM,10,4,6
-Blanco,302,Comptroller of Public Accounts,,Under Votes,DEM,8,3,5
-Blanco,303,Comptroller of Public Accounts,,Under Votes,DEM,0,0,0
-Blanco,304,Comptroller of Public Accounts,,Under Votes,DEM,3,3,0
-Blanco,401,Comptroller of Public Accounts,,Under Votes,DEM,13,6,7
-Blanco,Total,Comptroller of Public Accounts,,Under Votes,DEM,44,18,26
-Blanco,102,Commissioner of the General Land Office,,Tex Morgan,DEM,29,6,23
-Blanco,201,Commissioner of the General Land Office,,Tex Morgan,DEM,60,29,31
-Blanco,302,Commissioner of the General Land Office,,Tex Morgan,DEM,41,21,20
-Blanco,303,Commissioner of the General Land Office,,Tex Morgan,DEM,4,1,3
-Blanco,304,Commissioner of the General Land Office,,Tex Morgan,DEM,6,4,2
-Blanco,401,Commissioner of the General Land Office,,Tex Morgan,DEM,40,20,20
-Blanco,Total,Commissioner of the General Land Office,,Tex Morgan,DEM,180,81,99
-Blanco,102,Commissioner of the General Land Office,,Miguel Suazo,DEM,11,2,9
-Blanco,201,Commissioner of the General Land Office,,Miguel Suazo,DEM,74,32,42
-Blanco,302,Commissioner of the General Land Office,,Miguel Suazo,DEM,69,35,34
-Blanco,303,Commissioner of the General Land Office,,Miguel Suazo,DEM,50,24,26
-Blanco,304,Commissioner of the General Land Office,,Miguel Suazo,DEM,12,7,5
-Blanco,401,Commissioner of the General Land Office,,Miguel Suazo,DEM,100,62,38
-Blanco,Total,Commissioner of the General Land Office,,Miguel Suazo,DEM,316,162,154
-Blanco,102,Commissioner of the General Land Office,,Over Votes,DEM,0,0,0
-Blanco,201,Commissioner of the General Land Office,,Over Votes,DEM,0,0,0
-Blanco,302,Commissioner of the General Land Office,,Over Votes,DEM,0,0,0
-Blanco,303,Commissioner of the General Land Office,,Over Votes,DEM,0,0,0
-Blanco,304,Commissioner of the General Land Office,,Over Votes,DEM,0,0,0
-Blanco,401,Commissioner of the General Land Office,,Over Votes,DEM,0,0,0
-Blanco,Total,Commissioner of the General Land Office,,Over Votes,DEM,0,0,0
-Blanco,102,Commissioner of the General Land Office,,Under Votes,DEM,15,5,10
-Blanco,201,Commissioner of the General Land Office,,Under Votes,DEM,16,8,8
-Blanco,302,Commissioner of the General Land Office,,Under Votes,DEM,8,3,5
-Blanco,303,Commissioner of the General Land Office,,Under Votes,DEM,0,0,0
-Blanco,304,Commissioner of the General Land Office,,Under Votes,DEM,5,4,1
-Blanco,401,Commissioner of the General Land Office,,Under Votes,DEM,11,6,5
-Blanco,Total,Commissioner of the General Land Office,,Under Votes,DEM,55,26,29
-Blanco,102,Commissioner of Agriculture,,Kim Olson,DEM,105,38,67
-Blanco,201,Commissioner of Agriculture,,Kim Olson,DEM,119,60,59
-Blanco,302,Commissioner of Agriculture,,Kim Olson,DEM,88,46,42
-Blanco,303,Commissioner of Agriculture,,Kim Olson,DEM,13,2,11
-Blanco,304,Commissioner of Agriculture,,Kim Olson,DEM,19,12,7
-Blanco,401,Commissioner of Agriculture,,Kim Olson,DEM,133,79,54
-Blanco,Total,Commissioner of Agriculture,,Kim Olson,DEM,477,237,240
-Blanco,102,Commissioner of Agriculture,,Over Votes,DEM,0,0,0
-Blanco,201,Commissioner of Agriculture,,Over Votes,DEM,0,0,0
-Blanco,302,Commissioner of Agriculture,,Over Votes,DEM,0,0,0
-Blanco,303,Commissioner of Agriculture,,Over Votes,DEM,0,0,0
-Blanco,304,Commissioner of Agriculture,,Over Votes,DEM,0,0,0
-Blanco,401,Commissioner of Agriculture,,Over Votes,DEM,0,0,0
-Blanco,Total,Commissioner of Agriculture,,Over Votes,DEM,0,0,0
-Blanco,102,Commissioner of Agriculture,,Under Votes,DEM,13,5,8
-Blanco,201,Commissioner of Agriculture,,Under Votes,DEM,26,12,14
-Blanco,302,Commissioner of Agriculture,,Under Votes,DEM,11,2,9
-Blanco,303,Commissioner of Agriculture,,Under Votes,DEM,2,1,1
-Blanco,304,Commissioner of Agriculture,,Under Votes,DEM,4,3,1
-Blanco,401,Commissioner of Agriculture,,Under Votes,DEM,18,9,9
-Blanco,Total,Commissioner of Agriculture,,Under Votes,DEM,74,32,42
-Blanco,102,Railroad Commissioner,,Chris Spellmon,DEM,48,17,31
-Blanco,201,Railroad Commissioner,,Chris Spellmon,DEM,78,38,40
-Blanco,302,Railroad Commissioner,,Chris Spellmon,DEM,48,21,27
-Blanco,303,Railroad Commissioner,,Chris Spellmon,DEM,10,3,7
-Blanco,304,Railroad Commissioner,,Chris Spellmon,DEM,11,10,1
-Blanco,401,Railroad Commissioner,,Chris Spellmon,DEM,62,36,26
-Blanco,Total,Railroad Commissioner,,Chris Spellmon,DEM,257,125,132
-Blanco,102,Railroad Commissioner,,Roman McAllen,DEM,55,23,32
-Blanco,201,Railroad Commissioner,,Roman McAllen,DEM,47,24,23
-Blanco,302,Railroad Commissioner,,Roman McAllen,DEM,43,25,18
-Blanco,303,Railroad Commissioner,,Roman McAllen,DEM,5,0,5
-Blanco,304,Railroad Commissioner,,Roman McAllen,DEM,3,0,3
-Blanco,401,Railroad Commissioner,,Roman McAllen,DEM,70,41,29
-Blanco,Total,Railroad Commissioner,,Roman McAllen,DEM,223,113,110
-Blanco,102,Railroad Commissioner,,Over Votes,DEM,0,0,0
-Blanco,201,Railroad Commissioner,,Over Votes,DEM,0,0,0
-Blanco,302,Railroad Commissioner,,Over Votes,DEM,0,0,0
-Blanco,303,Railroad Commissioner,,Over Votes,DEM,0,0,0
-Blanco,304,Railroad Commissioner,,Over Votes,DEM,1,1,0
-Blanco,401,Railroad Commissioner,,Over Votes,DEM,0,0,0
-Blanco,Total,Railroad Commissioner,,Over Votes,DEM,1,1,0
-Blanco,102,Railroad Commissioner,,Under Votes,DEM,15,3,12
-Blanco,201,Railroad Commissioner,,Under Votes,DEM,20,10,10
-Blanco,302,Railroad Commissioner,,Under Votes,DEM,8,2,6
-Blanco,303,Railroad Commissioner,,Under Votes,DEM,0,0,0
-Blanco,304,Railroad Commissioner,,Under Votes,DEM,8,4,4
-Blanco,401,Railroad Commissioner,,Under Votes,DEM,19,11,8
-Blanco,Total,Railroad Commissioner,,Under Votes,DEM,70,30,40
-Blanco,102,State Representative�,45,Erin Zwiener,DEM,28,14,14
-Blanco,201,State Representative�,45,Erin Zwiener,DEM,62,30,32
-Blanco,302,State Representative�,45,Erin Zwiener,DEM,30,14,16
-Blanco,303,State Representative�,45,Erin Zwiener,DEM,5,2,3
-Blanco,304,State Representative�,45,Erin Zwiener,DEM,3,3,0
-Blanco,401,State Representative�,45,Erin Zwiener,DEM,52,37,15
-Blanco,Total,State Representative�,45,Erin Zwiener,DEM,180,100,80
-Blanco,102,State Representative�,45,Les Carnes,DEM,31,8,23
-Blanco,201,State Representative�,45,Les Carnes,DEM,30,19,11
-Blanco,302,State Representative�,45,Les Carnes,DEM,26,10,16
-Blanco,303,State Representative�,45,Les Carnes,DEM,1,0,1
-Blanco,304,State Representative�,45,Les Carnes,DEM,2,2,0
-Blanco,401,State Representative�,45,Les Carnes,DEM,36,20,16
-Blanco,Total,State Representative�,45,Les Carnes,DEM,126,59,67
-Blanco,102,State Representative�,45,Rebecca Bell-Metereau,DEM,50,19,31
-Blanco,201,State Representative�,45,Rebecca Bell-Metereau,DEM,43,19,24
-Blanco,302,State Representative�,45,Rebecca Bell-Metereau,DEM,34,21,13
-Blanco,303,State Representative�,45,Rebecca Bell-Metereau,DEM,8,1,7
-Blanco,304,State Representative�,45,Rebecca Bell-Metereau,DEM,13,8,5
-Blanco,401,State Representative�,45,Rebecca Bell-Metereau,DEM,52,26,26
-Blanco,Total,State Representative�,45,Rebecca Bell-Metereau,DEM,200,94,106
-Blanco,102,State Representative�,45,Over Votes,DEM,0,0,0
-Blanco,201,State Representative�,45,Over Votes,DEM,1,0,1
-Blanco,302,State Representative�,45,Over Votes,DEM,0,0,0
-Blanco,303,State Representative�,45,Over Votes,DEM,0,0,0
-Blanco,304,State Representative�,45,Over Votes,DEM,0,0,0
-Blanco,401,State Representative�,45,Over Votes,DEM,0,0,0
-Blanco,Total,State Representative�,45,Over Votes,DEM,1,0,1
-Blanco,102,State Representative�,45,Under Votes,DEM,9,2,7
-Blanco,201,State Representative�,45,Under Votes,DEM,9,4,5
-Blanco,302,State Representative�,45,Under Votes,DEM,9,3,6
-Blanco,303,State Representative�,45,Under Votes,DEM,1,0,1
-Blanco,304,State Representative�,45,Under Votes,DEM,5,2,3
-Blanco,401,State Representative�,45,Under Votes,DEM,11,5,6
-Blanco,Total,State Representative�,45,Under Votes,DEM,44,16,28
+Blanco,102,Ballots Cast,,REP,,438,293,145
+Blanco,201,Ballots Cast,,REP,,591,260,331
+Blanco,302,Ballots Cast,,REP,,241,128,113
+Blanco,303,Ballots Cast,,REP,,126,60,66
+Blanco,304,Ballots Cast,,REP,,48,30,18
+Blanco,401,Ballots Cast,,REP,,444,293,151
+Blanco,Total,Ballots Cast,,REP,,1888,1064,824
+Blanco,102,Ballots Cast,,DEM,,118,75,43
+Blanco,201,Ballots Cast,,DEM,,145,73,72
+Blanco,302,Ballots Cast,,DEM,,99,51,48
+Blanco,303,Ballots Cast,,DEM,,15,12,3
+Blanco,304,Ballots Cast,,DEM,,23,8,15
+Blanco,401,Ballots Cast,,DEM,,151,63,88
+Blanco,Total,Ballots Cast,,DEM,,551,282,269
+Blanco,102,U.S. Senate,,REP,Geraldine Sam,6,5,1
+Blanco,201,U.S. Senate,,REP,Geraldine Sam,12,5,7
+Blanco,302,U.S. Senate,,REP,Geraldine Sam,5,4,1
+Blanco,303,U.S. Senate,,REP,Geraldine Sam,2,1,1
+Blanco,304,U.S. Senate,,REP,Geraldine Sam,0,0,0
+Blanco,401,U.S. Senate,,REP,Geraldine Sam,9,5,4
+Blanco,Total,U.S. Senate,,REP,Geraldine Sam,34,20,14
+Blanco,102,U.S. Senate,,REP,Stefano de Stefano,5,2,3
+Blanco,201,U.S. Senate,,REP,Stefano de Stefano,12,6,6
+Blanco,302,U.S. Senate,,REP,Stefano de Stefano,5,3,2
+Blanco,303,U.S. Senate,,REP,Stefano de Stefano,1,0,1
+Blanco,304,U.S. Senate,,REP,Stefano de Stefano,1,1,0
+Blanco,401,U.S. Senate,,REP,Stefano de Stefano,10,4,6
+Blanco,Total,U.S. Senate,,REP,Stefano de Stefano,34,16,18
+Blanco,102,U.S. Senate,,REP,"Bruce Jacobson, Jr",23,19,4
+Blanco,201,U.S. Senate,,REP,"Bruce Jacobson, Jr",3,2,1
+Blanco,302,U.S. Senate,,REP,"Bruce Jacobson, Jr",27,14,13
+Blanco,303,U.S. Senate,,REP,"Bruce Jacobson, Jr",14,7,7
+Blanco,304,U.S. Senate,,REP,"Bruce Jacobson, Jr",13,2,11
+Blanco,401,U.S. Senate,,REP,"Bruce Jacobson, Jr",24,17,7
+Blanco,Total,U.S. Senate,,REP,"Bruce Jacobson, Jr",104,61,43
+Blanco,102,U.S. Senate,,REP,Mary Miller,30,19,11
+Blanco,201,U.S. Senate,,REP,Mary Miller,30,18,12
+Blanco,302,U.S. Senate,,REP,Mary Miller,12,4,8
+Blanco,303,U.S. Senate,,REP,Mary Miller,7,0,7
+Blanco,304,U.S. Senate,,REP,Mary Miller,1,1,0
+Blanco,401,U.S. Senate,,REP,Mary Miller,23,20,3
+Blanco,Total,U.S. Senate,,REP,Mary Miller,103,62,41
+Blanco,102,U.S. Senate,,REP,Ted Cruz,365,244,121
+Blanco,201,U.S. Senate,,REP,Ted Cruz,490,207,283
+Blanco,302,U.S. Senate,,REP,Ted Cruz,198,108,90
+Blanco,303,U.S. Senate,,REP,Ted Cruz,100,55,45
+Blanco,304,U.S. Senate,,REP,Ted Cruz,43,26,17
+Blanco,401,U.S. Senate,,REP,Ted Cruz,371,240,131
+Blanco,Total,U.S. Senate,,REP,Ted Cruz,1567,880,687
+Blanco,102,U.S. Senate,,REP,Over Votes,1,1,0
+Blanco,201,U.S. Senate,,REP,Over Votes,0,0,0
+Blanco,302,U.S. Senate,,REP,Over Votes,0,0,0
+Blanco,303,U.S. Senate,,REP,Over Votes,0,0,0
+Blanco,304,U.S. Senate,,REP,Over Votes,0,0,0
+Blanco,401,U.S. Senate,,REP,Over Votes,0,0,0
+Blanco,Total,U.S. Senate,,REP,Over Votes,1,1,0
+Blanco,102,U.S. Senate,,REP,Under Votes,8,3,5
+Blanco,201,U.S. Senate,,REP,Under Votes,20,10,10
+Blanco,302,U.S. Senate,,REP,Under Votes,7,2,5
+Blanco,303,U.S. Senate,,REP,Under Votes,3,2,1
+Blanco,304,U.S. Senate,,REP,Under Votes,0,0,0
+Blanco,401,U.S. Senate,,REP,Under Votes,7,7,0
+Blanco,Total,U.S. Senate,,REP,Under Votes,45,24,21
+Blanco,102,U.S. House,21,REP,Peggy Wardlaw,8,6,2
+Blanco,201,U.S. House,21,REP,Peggy Wardlaw,15,4,11
+Blanco,302,U.S. House,21,REP,Peggy Wardlaw,2,0,2
+Blanco,303,U.S. House,21,REP,Peggy Wardlaw,4,2,2
+Blanco,304,U.S. House,21,REP,Peggy Wardlaw,0,0,0
+Blanco,401,U.S. House,21,REP,Peggy Wardlaw,4,3,1
+Blanco,Total,U.S. House,21,REP,Peggy Wardlaw,33,15,18
+Blanco,102,U.S. House,21,REP,Susan Narvaiz,8,2,6
+Blanco,201,U.S. House,21,REP,Susan Narvaiz,8,3,5
+Blanco,302,U.S. House,21,REP,Susan Narvaiz,3,2,1
+Blanco,303,U.S. House,21,REP,Susan Narvaiz,5,3,2
+Blanco,304,U.S. House,21,REP,Susan Narvaiz,4,4,0
+Blanco,401,U.S. House,21,REP,Susan Narvaiz,13,11,2
+Blanco,Total,U.S. House,21,REP,Susan Narvaiz,41,25,16
+Blanco,102,U.S. House,21,REP,Jason Isaac,192,139,53
+Blanco,201,U.S. House,21,REP,Jason Isaac,286,128,158
+Blanco,302,U.S. House,21,REP,Jason Isaac,120,58,62
+Blanco,303,U.S. House,21,REP,Jason Isaac,59,29,30
+Blanco,304,U.S. House,21,REP,Jason Isaac,19,12,7
+Blanco,401,U.S. House,21,REP,Jason Isaac,220,148,72
+Blanco,Total,U.S. House,21,REP,Jason Isaac,896,514,382
+Blanco,102,U.S. House,21,REP,Anthony J. White,0,0,0
+Blanco,201,U.S. House,21,REP,Anthony J. White,3,1,2
+Blanco,302,U.S. House,21,REP,Anthony J. White,0,0,0
+Blanco,303,U.S. House,21,REP,Anthony J. White,0,0,0
+Blanco,304,U.S. House,21,REP,Anthony J. White,0,0,0
+Blanco,401,U.S. House,21,REP,Anthony J. White,3,3,0
+Blanco,Total,U.S. House,21,REP,Anthony J. White,6,4,2
+Blanco,102,U.S. House,21,REP,Eric Burkhart,1,1,0
+Blanco,201,U.S. House,21,REP,Eric Burkhart,3,1,2
+Blanco,302,U.S. House,21,REP,Eric Burkhart,2,1,1
+Blanco,303,U.S. House,21,REP,Eric Burkhart,1,1,0
+Blanco,304,U.S. House,21,REP,Eric Burkhart,0,0,0
+Blanco,401,U.S. House,21,REP,Eric Burkhart,6,2,4
+Blanco,Total,U.S. House,21,REP,Eric Burkhart,13,6,7
+Blanco,102,U.S. House,21,REP,Matt McCall,44,31,13
+Blanco,201,U.S. House,21,REP,Matt McCall,55,23,32
+Blanco,302,U.S. House,21,REP,Matt McCall,19,11,8
+Blanco,303,U.S. House,21,REP,Matt McCall,17,4,13
+Blanco,304,U.S. House,21,REP,Matt McCall,2,2,0
+Blanco,401,U.S. House,21,REP,Matt McCall,32,25,7
+Blanco,Total,U.S. House,21,REP,Matt McCall,169,96,73
+Blanco,102,U.S. House,21,REP,Autry J. Pruitt,1,0,1
+Blanco,201,U.S. House,21,REP,Autry J. Pruitt,1,0,1
+Blanco,302,U.S. House,21,REP,Autry J. Pruitt,1,0,1
+Blanco,303,U.S. House,21,REP,Autry J. Pruitt,1,1,0
+Blanco,304,U.S. House,21,REP,Autry J. Pruitt,1,1,0
+Blanco,401,U.S. House,21,REP,Autry J. Pruitt,0,0,0
+Blanco,Total,U.S. House,21,REP,Autry J. Pruitt,5,2,3
+Blanco,102,U.S. House,21,REP,Foster Hagen,0,0,0
+Blanco,201,U.S. House,21,REP,Foster Hagen,2,1,1
+Blanco,302,U.S. House,21,REP,Foster Hagen,0,0,0
+Blanco,303,U.S. House,21,REP,Foster Hagen,0,0,0
+Blanco,304,U.S. House,21,REP,Foster Hagen,0,0,0
+Blanco,401,U.S. House,21,REP,Foster Hagen,2,2,0
+Blanco,Total,U.S. House,21,REP,Foster Hagen,4,3,1
+Blanco,102,U.S. House,21,REP,Robert Stovall,4,3,1
+Blanco,201,U.S. House,21,REP,Robert Stovall,14,2,12
+Blanco,302,U.S. House,21,REP,Robert Stovall,9,8,1
+Blanco,303,U.S. House,21,REP,Robert Stovall,2,0,2
+Blanco,304,U.S. House,21,REP,Robert Stovall,0,0,0
+Blanco,401,U.S. House,21,REP,Robert Stovall,11,8,3
+Blanco,Total,U.S. House,21,REP,Robert Stovall,40,21,19
+Blanco,102,U.S. House,21,REP,Jenifer Sarver,6,5,1
+Blanco,201,U.S. House,21,REP,Jenifer Sarver,12,5,7
+Blanco,302,U.S. House,21,REP,Jenifer Sarver,3,1,2
+Blanco,303,U.S. House,21,REP,Jenifer Sarver,2,1,1
+Blanco,304,U.S. House,21,REP,Jenifer Sarver,0,0,0
+Blanco,401,U.S. House,21,REP,Jenifer Sarver,7,6,1
+Blanco,Total,U.S. House,21,REP,Jenifer Sarver,30,18,12
+Blanco,102,U.S. House,21,REP,William Negley,43,20,23
+Blanco,201,U.S. House,21,REP,William Negley,38,16,22
+Blanco,302,U.S. House,21,REP,William Negley,14,6,8
+Blanco,303,U.S. House,21,REP,William Negley,7,5,2
+Blanco,304,U.S. House,21,REP,William Negley,4,4,0
+Blanco,401,U.S. House,21,REP,William Negley,30,19,11
+Blanco,Total,U.S. House,21,REP,William Negley,136,70,66
+Blanco,102,U.S. House,21,REP,Chip Roy,81,50,31
+Blanco,201,U.S. House,21,REP,Chip Roy,72,29,43
+Blanco,302,U.S. House,21,REP,Chip Roy,40,19,21
+Blanco,303,U.S. House,21,REP,Chip Roy,20,11,9
+Blanco,304,U.S. House,21,REP,Chip Roy,12,5,7
+Blanco,401,U.S. House,21,REP,Chip Roy,78,39,39
+Blanco,Total,U.S. House,21,REP,Chip Roy,303,153,150
+Blanco,102,U.S. House,21,REP,"Francisco ""Quico"" Canseco",5,3,2
+Blanco,201,U.S. House,21,REP,"Francisco ""Quico"" Canseco",1,0,1
+Blanco,302,U.S. House,21,REP,"Francisco ""Quico"" Canseco",2,1,1
+Blanco,303,U.S. House,21,REP,"Francisco ""Quico"" Canseco",0,0,0
+Blanco,304,U.S. House,21,REP,"Francisco ""Quico"" Canseco",0,0,0
+Blanco,401,U.S. House,21,REP,"Francisco ""Quico"" Canseco",4,4,0
+Blanco,Total,U.S. House,21,REP,"Francisco ""Quico"" Canseco",12,8,4
+Blanco,102,U.S. House,21,REP,Al M.  Poteet,45,28,17
+Blanco,201,U.S. House,21,REP,Al M.  Poteet,17,11,6
+Blanco,302,U.S. House,21,REP,Al M.  Poteet,16,11,5
+Blanco,303,U.S. House,21,REP,Al M.  Poteet,1,0,1
+Blanco,304,U.S. House,21,REP,Al M.  Poteet,9,6,3
+Blanco,401,U.S. House,21,REP,Al M.  Poteet,3,0,3
+Blanco,Total,U.S. House,21,REP,Al M.  Poteet,91,56,35
+Blanco,102,U.S. House,21,REP,Mauro Garza,2,2,0
+Blanco,201,U.S. House,21,REP,Mauro Garza,5,3,2
+Blanco,302,U.S. House,21,REP,Mauro Garza,2,2,0
+Blanco,303,U.S. House,21,REP,Mauro Garza,0,0,0
+Blanco,304,U.S. House,21,REP,Mauro Garza,1,1,0
+Blanco,401,U.S. House,21,REP,Mauro Garza,1,1,0
+Blanco,Total,U.S. House,21,REP,Mauro Garza,11,9,2
+Blanco,102,U.S. House,21,REP,Ivan Andarza,0,0,0
+Blanco,201,U.S. House,21,REP,Ivan Andarza,0,0,0
+Blanco,302,U.S. House,21,REP,Ivan Andarza,0,0,0
+Blanco,303,U.S. House,21,REP,Ivan Andarza,0,0,0
+Blanco,304,U.S. House,21,REP,Ivan Andarza,0,0,0
+Blanco,401,U.S. House,21,REP,Ivan Andarza,0,0,0
+Blanco,Total,U.S. House,21,REP,Ivan Andarza,0,0,0
+Blanco,102,U.S. House,21,REP,Samuel Temple,7,5,2
+Blanco,201,U.S. House,21,REP,Samuel Temple,0,0,0
+Blanco,302,U.S. House,21,REP,Samuel Temple,2,2,0
+Blanco,303,U.S. House,21,REP,Samuel Temple,1,0,1
+Blanco,304,U.S. House,21,REP,Samuel Temple,0,0,0
+Blanco,401,U.S. House,21,REP,Samuel Temple,1,0,1
+Blanco,Total,U.S. House,21,REP,Samuel Temple,11,7,4
+Blanco,102,U.S. House,21,REP,Ryan Krause,5,3,2
+Blanco,201,U.S. House,21,REP,Ryan Krause,10,7,3
+Blanco,302,U.S. House,21,REP,Ryan Krause,1,0,1
+Blanco,303,U.S. House,21,REP,Ryan Krause,1,0,1
+Blanco,304,U.S. House,21,REP,Ryan Krause,1,1,0
+Blanco,401,U.S. House,21,REP,Ryan Krause,4,1,3
+Blanco,Total,U.S. House,21,REP,Ryan Krause,22,12,10
+Blanco,102,U.S. House,21,REP,Over Votes,2,2,0
+Blanco,201,U.S. House,21,REP,Over Votes,0,0,0
+Blanco,302,U.S. House,21,REP,Over Votes,0,0,0
+Blanco,303,U.S. House,21,REP,Over Votes,0,0,0
+Blanco,304,U.S. House,21,REP,Over Votes,0,0,0
+Blanco,401,U.S. House,21,REP,Over Votes,3,3,0
+Blanco,Total,U.S. House,21,REP,Over Votes,5,5,0
+Blanco,102,U.S. House,21,REP,Under Votes,12,10,2
+Blanco,201,U.S. House,21,REP,Under Votes,21,8,13
+Blanco,302,U.S. House,21,REP,Under Votes,5,5,0
+Blanco,303,U.S. House,21,REP,Under Votes,5,4,1
+Blanco,304,U.S. House,21,REP,Under Votes,1,1,0
+Blanco,401,U.S. House,21,REP,Under Votes,16,12,4
+Blanco,Total,U.S. House,21,REP,Under Votes,60,40,20
+Blanco,102,Governor,,REP,Barbara Krueger,29,21,8
+Blanco,201,Governor,,REP,Barbara Krueger,40,18,22
+Blanco,302,Governor,,REP,Barbara Krueger,24,10,14
+Blanco,303,Governor,,REP,Barbara Krueger,9,3,6
+Blanco,304,Governor,,REP,Barbara Krueger,3,3,0
+Blanco,401,Governor,,REP,Barbara Krueger,31,22,9
+Blanco,Total,Governor,,REP,Barbara Krueger,136,77,59
+Blanco,102,Governor,,REP,Greg Abbott,387,259,128
+Blanco,201,Governor,,REP,Greg Abbott,513,221,292
+Blanco,302,Governor,,REP,Greg Abbott,207,114,93
+Blanco,303,Governor,,REP,Greg Abbott,111,54,57
+Blanco,304,Governor,,REP,Greg Abbott,45,27,18
+Blanco,401,Governor,,REP,Greg Abbott,396,258,138
+Blanco,Total,Governor,,REP,Greg Abbott,1659,933,726
+Blanco,102,Governor,,REP,SECEDE Kilgore,6,4,2
+Blanco,201,Governor,,REP,SECEDE Kilgore,8,4,4
+Blanco,302,Governor,,REP,SECEDE Kilgore,2,1,1
+Blanco,303,Governor,,REP,SECEDE Kilgore,1,1,0
+Blanco,304,Governor,,REP,SECEDE Kilgore,0,0,0
+Blanco,401,Governor,,REP,SECEDE Kilgore,2,1,1
+Blanco,Total,Governor,,REP,SECEDE Kilgore,19,11,8
+Blanco,102,Governor,,REP,Over Votes,0,0,0
+Blanco,201,Governor,,REP,Over Votes,1,1,0
+Blanco,302,Governor,,REP,Over Votes,0,0,0
+Blanco,303,Governor,,REP,Over Votes,0,0,0
+Blanco,304,Governor,,REP,Over Votes,0,0,0
+Blanco,401,Governor,,REP,Over Votes,0,0,0
+Blanco,Total,Governor,,REP,Over Votes,1,1,0
+Blanco,102,Governor,,REP,Under Votes,16,9,7
+Blanco,201,Governor,,REP,Under Votes,29,16,13
+Blanco,302,Governor,,REP,Under Votes,8,3,5
+Blanco,303,Governor,,REP,Under Votes,5,2,3
+Blanco,304,Governor,,REP,Under Votes,0,0,0
+Blanco,401,Governor,,REP,Under Votes,15,12,3
+Blanco,Total,Governor,,REP,Under Votes,73,42,31
+Blanco,102,Lieutenant Governor,,REP,Scott Milder,81,56,25
+Blanco,201,Lieutenant Governor,,REP,Scott Milder,129,54,75
+Blanco,302,Lieutenant Governor,,REP,Scott Milder,57,25,32
+Blanco,303,Lieutenant Governor,,REP,Scott Milder,38,13,25
+Blanco,304,Lieutenant Governor,,REP,Scott Milder,8,6,2
+Blanco,401,Lieutenant Governor,,REP,Scott Milder,88,53,35
+Blanco,Total,Lieutenant Governor,,REP,Scott Milder,401,207,194
+Blanco,102,Lieutenant Governor,,REP,Dan Patrick,348,232,116
+Blanco,201,Lieutenant Governor,,REP,Dan Patrick,441,195,246
+Blanco,302,Lieutenant Governor,,REP,Dan Patrick,181,102,79
+Blanco,303,Lieutenant Governor,,REP,Dan Patrick,85,46,39
+Blanco,304,Lieutenant Governor,,REP,Dan Patrick,40,24,16
+Blanco,401,Lieutenant Governor,,REP,Dan Patrick,347,232,115
+Blanco,Total,Lieutenant Governor,,REP,Dan Patrick,1442,831,611
+Blanco,102,Lieutenant Governor,,REP,Over Votes,0,0,0
+Blanco,201,Lieutenant Governor,,REP,Over Votes,0,0,0
+Blanco,302,Lieutenant Governor,,REP,Over Votes,0,0,0
+Blanco,303,Lieutenant Governor,,REP,Over Votes,0,0,0
+Blanco,304,Lieutenant Governor,,REP,Over Votes,0,0,0
+Blanco,401,Lieutenant Governor,,REP,Over Votes,0,0,0
+Blanco,Total,Lieutenant Governor,,REP,Over Votes,0,0,0
+Blanco,102,Lieutenant Governor,,REP,Under Votes,9,5,4
+Blanco,201,Lieutenant Governor,,REP,Under Votes,21,11,10
+Blanco,302,Lieutenant Governor,,REP,Under Votes,3,1,2
+Blanco,303,Lieutenant Governor,,REP,Under Votes,3,1,2
+Blanco,304,Lieutenant Governor,,REP,Under Votes,0,0,0
+Blanco,401,Lieutenant Governor,,REP,Under Votes,9,8,1
+Blanco,Total,Lieutenant Governor,,REP,Under Votes,45,26,19
+Blanco,102,Attorney General,,REP,Ken Paxton,368,247,121
+Blanco,201,Attorney General,,REP,Ken Paxton,493,213,280
+Blanco,302,Attorney General,,REP,Ken Paxton,209,112,97
+Blanco,303,Attorney General,,REP,Ken Paxton,108,54,54
+Blanco,304,Attorney General,,REP,Ken Paxton,42,25,17
+Blanco,401,Attorney General,,REP,Ken Paxton,391,259,132
+Blanco,Total,Attorney General,,REP,Ken Paxton,1611,910,701
+Blanco,102,Attorney General,,REP,Over Votes,0,0,0
+Blanco,201,Attorney General,,REP,Over Votes,0,0,0
+Blanco,302,Attorney General,,REP,Over Votes,0,0,0
+Blanco,303,Attorney General,,REP,Over Votes,0,0,0
+Blanco,304,Attorney General,,REP,Over Votes,0,0,0
+Blanco,401,Attorney General,,REP,Over Votes,0,0,0
+Blanco,Total,Attorney General,,REP,Over Votes,0,0,0
+Blanco,102,Attorney General,,REP,Under Votes,70,46,24
+Blanco,201,Attorney General,,REP,Under Votes,98,47,51
+Blanco,302,Attorney General,,REP,Under Votes,32,16,16
+Blanco,303,Attorney General,,REP,Under Votes,18,6,12
+Blanco,304,Attorney General,,REP,Under Votes,6,5,1
+Blanco,401,Attorney General,,REP,Under Votes,53,34,19
+Blanco,Total,Attorney General,,REP,Under Votes,277,154,123
+Blanco,102,Comptroller of Public Accounts,,REP,Glenn Hegar,351,235,116
+Blanco,201,Comptroller of Public Accounts,,REP,Glenn Hegar,476,203,273
+Blanco,302,Comptroller of Public Accounts,,REP,Glenn Hegar,194,104,90
+Blanco,303,Comptroller of Public Accounts,,REP,Glenn Hegar,41,24,17
+Blanco,304,Comptroller of Public Accounts,,REP,Glenn Hegar,376,246,130
+Blanco,401,Comptroller of Public Accounts,,REP,Glenn Hegar,108,55,53
+Blanco,Total,Comptroller of Public Accounts,,REP,Glenn Hegar,1546,867,679
+Blanco,102,Comptroller of Public Accounts,,REP,Over Votes,0,0,0
+Blanco,201,Comptroller of Public Accounts,,REP,Over Votes,0,0,0
+Blanco,302,Comptroller of Public Accounts,,REP,Over Votes,0,0,0
+Blanco,303,Comptroller of Public Accounts,,REP,Over Votes,0,0,0
+Blanco,304,Comptroller of Public Accounts,,REP,Over Votes,0,0,0
+Blanco,401,Comptroller of Public Accounts,,REP,Over Votes,0,0,0
+Blanco,Total,Comptroller of Public Accounts,,REP,Over Votes,0,0,0
+Blanco,102,Comptroller of Public Accounts,,REP,Under Votes,87,58,29
+Blanco,201,Comptroller of Public Accounts,,REP,Under Votes,115,57,58
+Blanco,302,Comptroller of Public Accounts,,REP,Under Votes,47,24,23
+Blanco,303,Comptroller of Public Accounts,,REP,Under Votes,18,5,13
+Blanco,304,Comptroller of Public Accounts,,REP,Under Votes,7,6,1
+Blanco,401,Comptroller of Public Accounts,,REP,Under Votes,68,47,21
+Blanco,Total,Comptroller of Public Accounts,,REP,Under Votes,342,197,145
+Blanco,102,Commissioner of the General Land Office,,REP,Rick Range,27,16,11
+Blanco,201,Commissioner of the General Land Office,,REP,Rick Range,39,23,16
+Blanco,302,Commissioner of the General Land Office,,REP,Rick Range,15,5,10
+Blanco,303,Commissioner of the General Land Office,,REP,Rick Range,7,4,3
+Blanco,304,Commissioner of the General Land Office,,REP,Rick Range,0,0,0
+Blanco,401,Commissioner of the General Land Office,,REP,Rick Range,37,30,7
+Blanco,Total,Commissioner of the General Land Office,,REP,Rick Range,125,78,47
+Blanco,102,Commissioner of the General Land Office,,REP,Davey Edwards,27,20,7
+Blanco,201,Commissioner of the General Land Office,,REP,Davey Edwards,31,13,18
+Blanco,302,Commissioner of the General Land Office,,REP,Davey Edwards,14,5,9
+Blanco,303,Commissioner of the General Land Office,,REP,Davey Edwards,7,3,4
+Blanco,304,Commissioner of the General Land Office,,REP,Davey Edwards,5,3,2
+Blanco,401,Commissioner of the General Land Office,,REP,Davey Edwards,26,16,10
+Blanco,Total,Commissioner of the General Land Office,,REP,Davey Edwards,110,60,50
+Blanco,102,Commissioner of the General Land Office,,REP,Jerry Patterson,129,86,43
+Blanco,201,Commissioner of the General Land Office,,REP,Jerry Patterson,201,71,130
+Blanco,302,Commissioner of the General Land Office,,REP,Jerry Patterson,83,45,38
+Blanco,303,Commissioner of the General Land Office,,REP,Jerry Patterson,48,21,27
+Blanco,304,Commissioner of the General Land Office,,REP,Jerry Patterson,23,11,12
+Blanco,401,Commissioner of the General Land Office,,REP,Jerry Patterson,150,96,54
+Blanco,Total,Commissioner of the General Land Office,,REP,Jerry Patterson,634,330,304
+Blanco,102,Commissioner of the General Land Office,,REP,George P. Bush,199,131,68
+Blanco,201,Commissioner of the General Land Office,,REP,George P. Bush,223,146,77
+Blanco,302,Commissioner of the General Land Office,,REP,George P. Bush,253,122,131
+Blanco,303,Commissioner of the General Land Office,,REP,George P. Bush,115,66,49
+Blanco,304,Commissioner of the General Land Office,,REP,George P. Bush,58,27,31
+Blanco,401,Commissioner of the General Land Office,,REP,George P. Bush,18,14,4
+Blanco,Total,Commissioner of the General Land Office,,REP,George P. Bush,866,506,360
+Blanco,102,Commissioner of the General Land Office,,REP,Over Votes,0,0,0
+Blanco,201,Commissioner of the General Land Office,,REP,Over Votes,0,0,0
+Blanco,302,Commissioner of the General Land Office,,REP,Over Votes,0,0,0
+Blanco,303,Commissioner of the General Land Office,,REP,Over Votes,0,0,0
+Blanco,304,Commissioner of the General Land Office,,REP,Over Votes,0,0,0
+Blanco,401,Commissioner of the General Land Office,,REP,Over Votes,0,0,0
+Blanco,Total,Commissioner of the General Land Office,,REP,Over Votes,0,0,0
+Blanco,102,Commissioner of the General Land Office,,REP,Under Votes,32,25,7
+Blanco,201,Commissioner of the General Land Office,,REP,Under Votes,67,31,36
+Blanco,302,Commissioner of the General Land Office,,REP,Under Votes,14,7,7
+Blanco,303,Commissioner of the General Land Office,,REP,Under Votes,6,5,1
+Blanco,304,Commissioner of the General Land Office,,REP,Under Votes,2,2,0
+Blanco,401,Commissioner of the General Land Office,,REP,Under Votes,32,20,12
+Blanco,Total,Commissioner of the General Land Office,,REP,Under Votes,153,90,63
+Blanco,102,Commissioner of Agriculture,,REP,Trey Blocker,113,63,50
+Blanco,201,Commissioner of Agriculture,,REP,Trey Blocker,116,49,67
+Blanco,302,Commissioner of Agriculture,,REP,Trey Blocker,42,22,20
+Blanco,303,Commissioner of Agriculture,,REP,Trey Blocker,24,10,14
+Blanco,304,Commissioner of Agriculture,,REP,Trey Blocker,10,4,6
+Blanco,401,Commissioner of Agriculture,,REP,Trey Blocker,113,70,43
+Blanco,Total,Commissioner of Agriculture,,REP,Trey Blocker,418,218,200
+Blanco,102,Commissioner of Agriculture,,REP,Jim Hogan,63,43,20
+Blanco,201,Commissioner of Agriculture,,REP,Jim Hogan,107,49,58
+Blanco,302,Commissioner of Agriculture,,REP,Jim Hogan,32,15,17
+Blanco,303,Commissioner of Agriculture,,REP,Jim Hogan,16,10,6
+Blanco,304,Commissioner of Agriculture,,REP,Jim Hogan,3,3,0
+Blanco,401,Commissioner of Agriculture,,REP,Jim Hogan,51,37,14
+Blanco,Total,Commissioner of Agriculture,,REP,Jim Hogan,272,157,115
+Blanco,102,Commissioner of Agriculture,,REP,Sid Miller,209,150,59
+Blanco,201,Commissioner of Agriculture,,REP,Sid Miller,279,115,164
+Blanco,302,Commissioner of Agriculture,,REP,Sid Miller,141,79,62
+Blanco,303,Commissioner of Agriculture,,REP,Sid Miller,72,28,44
+Blanco,304,Commissioner of Agriculture,,REP,Sid Miller,33,22,11
+Blanco,401,Commissioner of Agriculture,,REP,Sid Miller,227,155,72
+Blanco,Total,Commissioner of Agriculture,,REP,Sid Miller,961,549,412
+Blanco,102,Commissioner of Agriculture,,REP,Over Votes,0,0,0
+Blanco,201,Commissioner of Agriculture,,REP,Over Votes,0,0,0
+Blanco,302,Commissioner of Agriculture,,REP,Over Votes,0,0,0
+Blanco,303,Commissioner of Agriculture,,REP,Over Votes,0,0,0
+Blanco,304,Commissioner of Agriculture,,REP,Over Votes,0,0,0
+Blanco,401,Commissioner of Agriculture,,REP,Over Votes,0,0,0
+Blanco,Total,Commissioner of Agriculture,,REP,Over Votes,0,0,0
+Blanco,102,Commissioner of Agriculture,,REP,Under Votes,53,37,16
+Blanco,201,Commissioner of Agriculture,,REP,Under Votes,89,47,42
+Blanco,302,Commissioner of Agriculture,,REP,Under Votes,26,12,14
+Blanco,303,Commissioner of Agriculture,,REP,Under Votes,14,12,2
+Blanco,304,Commissioner of Agriculture,,REP,Under Votes,2,1,1
+Blanco,401,Commissioner of Agriculture,,REP,Under Votes,53,31,22
+Blanco,Total,Commissioner of Agriculture,,REP,Under Votes,237,140,97
+Blanco,102,Railroad Commissioner,,REP,Weston Martinez,79,54,25
+Blanco,201,Railroad Commissioner,,REP,Weston Martinez,111,55,56
+Blanco,302,Railroad Commissioner,,REP,Weston Martinez,47,32,15
+Blanco,303,Railroad Commissioner,,REP,Weston Martinez,22,4,18
+Blanco,304,Railroad Commissioner,,REP,Weston Martinez,8,6,2
+Blanco,401,Railroad Commissioner,,REP,Weston Martinez,92,74,18
+Blanco,Total,Railroad Commissioner,,REP,Weston Martinez,359,225,134
+Blanco,102,Railroad Commissioner,,REP,Christi Craddick,298,196,102
+Blanco,201,Railroad Commissioner,,REP,Christi Craddick,379,153,226
+Blanco,302,Railroad Commissioner,,REP,Christi Craddick,163,84,79
+Blanco,303,Railroad Commissioner,,REP,Christi Craddick,89,46,43
+Blanco,304,Railroad Commissioner,,REP,Christi Craddick,36,20,16
+Blanco,401,Railroad Commissioner,,REP,Christi Craddick,303,190,113
+Blanco,Total,Railroad Commissioner,,REP,Christi Craddick,1268,689,579
+Blanco,102,Railroad Commissioner,,REP,Over Votes,0,0,0
+Blanco,201,Railroad Commissioner,,REP,Over Votes,0,0,0
+Blanco,302,Railroad Commissioner,,REP,Over Votes,0,0,0
+Blanco,303,Railroad Commissioner,,REP,Over Votes,0,0,0
+Blanco,304,Railroad Commissioner,,REP,Over Votes,0,0,0
+Blanco,401,Railroad Commissioner,,REP,Over Votes,0,0,0
+Blanco,Total,Railroad Commissioner,,REP,Over Votes,0,0,0
+Blanco,102,Railroad Commissioner,,REP,Under Votes,61,43,18
+Blanco,201,Railroad Commissioner,,REP,Under Votes,101,52,49
+Blanco,302,Railroad Commissioner,,REP,Under Votes,31,12,19
+Blanco,303,Railroad Commissioner,,REP,Under Votes,15,10,5
+Blanco,304,Railroad Commissioner,,REP,Under Votes,4,4,0
+Blanco,401,Railroad Commissioner,,REP,Under Votes,49,29,20
+Blanco,Total,Railroad Commissioner,,REP,Under Votes,261,146,111
+Blanco,102,Railroad Commissioner,,REP,Christi Craddick,298,196,102
+Blanco,201,Railroad Commissioner,,REP,Christi Craddick,379,153,226
+Blanco,302,Railroad Commissioner,,REP,Christi Craddick,163,84,79
+Blanco,303,Railroad Commissioner,,REP,Christi Craddick,89,46,43
+Blanco,304,Railroad Commissioner,,REP,Christi Craddick,36,20,16
+Blanco,401,Railroad Commissioner,,REP,Christi Craddick,303,190,113
+Blanco,Total,Railroad Commissioner,,REP,Christi Craddick,1268,689,579
+Blanco,102,State Representative�,45,REP,Ken Strange,201,128,73
+Blanco,201,State Representative�,45,REP,Ken Strange,251,117,134
+Blanco,302,State Representative�,45,REP,Ken Strange,101,60,41
+Blanco,303,State Representative�,45,REP,Ken Strange,51,23,28
+Blanco,304,State Representative�,45,REP,Ken Strange,21,14,7
+Blanco,401,State Representative�,45,REP,Ken Strange,214,136,78
+Blanco,Total,State Representative�,45,REP,Ken Strange,839,478,361
+Blanco,102,State Representative�,45,REP,Amy Akers,24,16,8
+Blanco,201,State Representative�,45,REP,Amy Akers,16,5,11
+Blanco,302,State Representative�,45,REP,Amy Akers,6,4,2
+Blanco,303,State Representative�,45,REP,Amy Akers,1,1,0
+Blanco,304,State Representative�,45,REP,Amy Akers,1,1,0
+Blanco,401,State Representative�,45,REP,Amy Akers,19,17,2
+Blanco,Total,State Representative�,45,REP,Amy Akers,67,44,23
+Blanco,102,State Representative�,45,REP,Naomi Narvaiz,23,17,6
+Blanco,201,State Representative�,45,REP,Naomi Narvaiz,29,10,19
+Blanco,302,State Representative�,45,REP,Naomi Narvaiz,11,9,2
+Blanco,303,State Representative�,45,REP,Naomi Narvaiz,3,0,3
+Blanco,304,State Representative�,45,REP,Naomi Narvaiz,6,6,0
+Blanco,401,State Representative�,45,REP,Naomi Narvaiz,24,18,6
+Blanco,Total,State Representative�,45,REP,Naomi Narvaiz,96,60,36
+Blanco,102,State Representative�,45,REP,Amber Pearce,148,103,45
+Blanco,201,State Representative�,45,REP,Amber Pearce,208,101,107
+Blanco,302,State Representative�,45,REP,Amber Pearce,81,39,42
+Blanco,303,State Representative�,45,REP,Amber Pearce,58,31,27
+Blanco,304,State Representative�,45,REP,Amber Pearce,17,6,11
+Blanco,401,State Representative�,45,REP,Amber Pearce,147,97,50
+Blanco,Total,State Representative�,45,REP,Amber Pearce,659,377,282
+Blanco,102,State Representative�,45,REP,Austin Talley,18,11,7
+Blanco,201,State Representative�,45,REP,Austin Talley,47,12,35
+Blanco,302,State Representative�,45,REP,Austin Talley,29,9,20
+Blanco,303,State Representative�,45,REP,Austin Talley,8,3,5
+Blanco,304,State Representative�,45,REP,Austin Talley,2,2,0
+Blanco,401,State Representative�,45,REP,Austin Talley,16,10,6
+Blanco,Total,State Representative�,45,REP,Austin Talley,120,47,73
+Blanco,102,State Representative�,45,REP,Over Votes,0,0,0
+Blanco,201,State Representative�,45,REP,Over Votes,0,0,0
+Blanco,302,State Representative�,45,REP,Over Votes,0,0,0
+Blanco,303,State Representative�,45,REP,Over Votes,0,0,0
+Blanco,304,State Representative�,45,REP,Over Votes,0,0,0
+Blanco,401,State Representative�,45,REP,Over Votes,2,0,2
+Blanco,Total,State Representative�,45,REP,Over Votes,2,0,2
+Blanco,102,State Representative�,45,REP,Under Votes,24,18,6
+Blanco,201,State Representative�,45,REP,Under Votes,40,15,25
+Blanco,302,State Representative�,45,REP,Under Votes,13,7,6
+Blanco,303,State Representative�,45,REP,Under Votes,5,2,3
+Blanco,304,State Representative�,45,REP,Under Votes,1,1,0
+Blanco,401,State Representative�,45,REP,Under Votes,22,15,7
+Blanco,Total,State Representative�,45,REP,Under Votes,105,58,47
+Blanco,102,U.S. Senate,,DEM,Beto O'Rourke,98,63,35
+Blanco,201,U.S. Senate,,DEM,Beto O'Rourke,112,56,56
+Blanco,302,U.S. Senate,,DEM,Beto O'Rourke,74,40,34
+Blanco,303,U.S. Senate,,DEM,Beto O'Rourke,10,7,3
+Blanco,304,U.S. Senate,,DEM,Beto O'Rourke,19,6,13
+Blanco,401,U.S. Senate,,DEM,Beto O'Rourke,129,50,79
+Blanco,Total,U.S. Senate,,DEM,Beto O'Rourke,442,222,220
+Blanco,102,U.S. Senate,,DEM,Edward Kimbrough,8,6,2
+Blanco,201,U.S. Senate,,DEM,Edward Kimbrough,9,3,6
+Blanco,302,U.S. Senate,,DEM,Edward Kimbrough,12,4,8
+Blanco,303,U.S. Senate,,DEM,Edward Kimbrough,1,1,0
+Blanco,304,U.S. Senate,,DEM,Edward Kimbrough,2,1,1
+Blanco,401,U.S. Senate,,DEM,Edward Kimbrough,8,2,6
+Blanco,Total,U.S. Senate,,DEM,Edward Kimbrough,40,17,23
+Blanco,102,U.S. Senate,,DEM,Sema Hernandez,11,6,5
+Blanco,201,U.S. Senate,,DEM,Sema Hernandez,20,11,9
+Blanco,302,U.S. Senate,,DEM,Sema Hernandez,12,6,6
+Blanco,303,U.S. Senate,,DEM,Sema Hernandez,4,4,0
+Blanco,304,U.S. Senate,,DEM,Sema Hernandez,2,1,1
+Blanco,401,U.S. Senate,,DEM,Sema Hernandez,10,8,2
+Blanco,Total,U.S. Senate,,DEM,Sema Hernandez,59,36,23
+Blanco,102,U.S. Senate,,DEM,Over Votes,0,0,0
+Blanco,201,U.S. Senate,,DEM,Over Votes,0,0,0
+Blanco,302,U.S. Senate,,DEM,Over Votes,0,0,0
+Blanco,303,U.S. Senate,,DEM,Over Votes,0,0,0
+Blanco,304,U.S. Senate,,DEM,Over Votes,0,0,0
+Blanco,401,U.S. Senate,,DEM,Over Votes,0,0,0
+Blanco,Total,U.S. Senate,,DEM,Over Votes,0,0,0
+Blanco,102,U.S. Senate,,DEM,Under Votes,1,0,1
+Blanco,201,U.S. Senate,,DEM,Under Votes,4,3,1
+Blanco,302,U.S. Senate,,DEM,Under Votes,1,1,0
+Blanco,303,U.S. Senate,,DEM,Under Votes,0,0,0
+Blanco,304,U.S. Senate,,DEM,Under Votes,0,0,0
+Blanco,401,U.S. Senate,,DEM,Under Votes,4,3,1
+Blanco,Total,U.S. Senate,,DEM,Under Votes,10,7,3
+Blanco,102,U.S. House,21,DEM,Joseph Kopser,50,40,10
+Blanco,201,U.S. House,21,DEM,Joseph Kopser,37,21,16
+Blanco,302,U.S. House,21,DEM,Joseph Kopser,34,16,18
+Blanco,303,U.S. House,21,DEM,Joseph Kopser,3,2,1
+Blanco,304,U.S. House,21,DEM,Joseph Kopser,3,1,2
+Blanco,401,U.S. House,21,DEM,Joseph Kopser,62,26,36
+Blanco,Total,U.S. House,21,DEM,Joseph Kopser,189,106,83
+Blanco,102,U.S. House,21,DEM,Derrick Crowe,12,4,8
+Blanco,201,U.S. House,21,DEM,Derrick Crowe,32,13,19
+Blanco,302,U.S. House,21,DEM,Derrick Crowe,24,13,11
+Blanco,303,U.S. House,21,DEM,Derrick Crowe,1,1,0
+Blanco,304,U.S. House,21,DEM,Derrick Crowe,6,3,3
+Blanco,401,U.S. House,21,DEM,Derrick Crowe,22,5,17
+Blanco,Total,U.S. House,21,DEM,Derrick Crowe,97,39,58
+Blanco,102,U.S. House,21,DEM,Mary Street Wilson,36,21,15
+Blanco,201,U.S. House,21,DEM,Mary Street Wilson,42,22,20
+Blanco,302,U.S. House,21,DEM,Mary Street Wilson,22,11,11
+Blanco,303,U.S. House,21,DEM,Mary Street Wilson,9,7,2
+Blanco,304,U.S. House,21,DEM,Mary Street Wilson,10,2,8
+Blanco,401,U.S. House,21,DEM,Mary Street Wilson,36,18,18
+Blanco,Total,U.S. House,21,DEM,Mary Street Wilson,155,81,74
+Blanco,102,U.S. House,21,DEM,Elliott McFadden,17,8,9
+Blanco,201,U.S. House,21,DEM,Elliott McFadden,26,12,14
+Blanco,302,U.S. House,21,DEM,Elliott McFadden,16,8,8
+Blanco,303,U.S. House,21,DEM,Elliott McFadden,2,2,0
+Blanco,304,U.S. House,21,DEM,Elliott McFadden,1,0,1
+Blanco,401,U.S. House,21,DEM,Elliott McFadden,22,9,13
+Blanco,Total,U.S. House,21,DEM,Elliott McFadden,84,39,45
+Blanco,102,U.S. House,21,DEM,Over Votes,0,0,0
+Blanco,201,U.S. House,21,DEM,Over Votes,0,0,0
+Blanco,302,U.S. House,21,DEM,Over Votes,0,0,0
+Blanco,303,U.S. House,21,DEM,Over Votes,0,0,0
+Blanco,304,U.S. House,21,DEM,Over Votes,0,0,0
+Blanco,401,U.S. House,21,DEM,Over Votes,0,0,0
+Blanco,Total,U.S. House,21,DEM,Over Votes,0,0,0
+Blanco,102,U.S. House,21,DEM,Under Votes,3,2,1
+Blanco,201,U.S. House,21,DEM,Under Votes,8,5,3
+Blanco,302,U.S. House,21,DEM,Under Votes,3,3,0
+Blanco,303,U.S. House,21,DEM,Under Votes,0,0,0
+Blanco,304,U.S. House,21,DEM,Under Votes,3,2,1
+Blanco,401,U.S. House,21,DEM,Under Votes,9,5,4
+Blanco,Total,U.S. House,21,DEM,Under Votes,26,17,9
+Blanco,102,Governor,,DEM,Lupe Valdez,53,30,23
+Blanco,201,Governor,,DEM,Lupe Valdez,51,30,21
+Blanco,302,Governor,,DEM,Lupe Valdez,34,14,20
+Blanco,303,Governor,,DEM,Lupe Valdez,9,7,2
+Blanco,304,Governor,,DEM,Lupe Valdez,56,21,35
+Blanco,401,Governor,,DEM,Lupe Valdez,16,4,12
+Blanco,Total,Governor,,DEM,Lupe Valdez,219,106,113
+Blanco,102,Governor,,DEM,Grady Yarbrough,8,6,2
+Blanco,201,Governor,,DEM,Grady Yarbrough,10,5,5
+Blanco,302,Governor,,DEM,Grady Yarbrough,6,3,3
+Blanco,303,Governor,,DEM,Grady Yarbrough,0,0,0
+Blanco,304,Governor,,DEM,Grady Yarbrough,0,0,0
+Blanco,401,Governor,,DEM,Grady Yarbrough,6,2,4
+Blanco,Total,Governor,,DEM,Grady Yarbrough,30,16,14
+Blanco,102,Governor,,DEM,Joe Mumbach,1,1,0
+Blanco,201,Governor,,DEM,Joe Mumbach,3,1,2
+Blanco,302,Governor,,DEM,Joe Mumbach,2,2,0
+Blanco,303,Governor,,DEM,Joe Mumbach,0,0,0
+Blanco,304,Governor,,DEM,Joe Mumbach,0,0,0
+Blanco,401,Governor,,DEM,Joe Mumbach,0,0,0
+Blanco,Total,Governor,,DEM,Joe Mumbach,6,4,2
+Blanco,102,Governor,,DEM,Adrian Ocegueda,1,0,1
+Blanco,201,Governor,,DEM,Adrian Ocegueda,2,2,0
+Blanco,302,Governor,,DEM,Adrian Ocegueda,4,2,2
+Blanco,303,Governor,,DEM,Adrian Ocegueda,0,0,0
+Blanco,304,Governor,,DEM,Adrian Ocegueda,0,0,0
+Blanco,401,Governor,,DEM,Adrian Ocegueda,4,1,3
+Blanco,Total,Governor,,DEM,Adrian Ocegueda,11,5,6
+Blanco,102,Governor,,DEM,James Jolly Clark,2,1,1
+Blanco,201,Governor,,DEM,James Jolly Clark,2,2,0
+Blanco,302,Governor,,DEM,James Jolly Clark,3,3,0
+Blanco,303,Governor,,DEM,James Jolly Clark,0,0,0
+Blanco,304,Governor,,DEM,James Jolly Clark,0,0,0
+Blanco,401,Governor,,DEM,James Jolly Clark,3,1,2
+Blanco,Total,Governor,,DEM,James Jolly Clark,10,7,3
+Blanco,102,Governor,,DEM,Tom Wakely,9,8,1
+Blanco,201,Governor,,DEM,Tom Wakely,13,5,8
+Blanco,302,Governor,,DEM,Tom Wakely,5,1,4
+Blanco,303,Governor,,DEM,Tom Wakely,1,1,0
+Blanco,304,Governor,,DEM,Tom Wakely,1,1,0
+Blanco,401,Governor,,DEM,Tom Wakely,13,9,4
+Blanco,Total,Governor,,DEM,Tom Wakely,42,25,17
+Blanco,102,Governor,,DEM,Andrew White,36,26,10
+Blanco,201,Governor,,DEM,Andrew White,46,21,25
+Blanco,302,Governor,,DEM,Andrew White,34,19,15
+Blanco,303,Governor,,DEM,Andrew White,2,2,0
+Blanco,304,Governor,,DEM,Andrew White,5,2,3
+Blanco,401,Governor,,DEM,Andrew White,53,16,37
+Blanco,Total,Governor,,DEM,Andrew White,176,86,90
+Blanco,102,Governor,,DEM,Jeffrey Payne,3,0,3
+Blanco,201,Governor,,DEM,Jeffrey Payne,7,4,3
+Blanco,302,Governor,,DEM,Jeffrey Payne,5,4,1
+Blanco,303,Governor,,DEM,Jeffrey Payne,1,0,1
+Blanco,304,Governor,,DEM,Jeffrey Payne,0,0,0
+Blanco,401,Governor,,DEM,Jeffrey Payne,5,5,0
+Blanco,Total,Governor,,DEM,Jeffrey Payne,21,13,8
+Blanco,102,Governor,,DEM,"Cedric Davis, Sr.",3,1,2
+Blanco,201,Governor,,DEM,"Cedric Davis, Sr.",2,0,2
+Blanco,302,Governor,,DEM,"Cedric Davis, Sr.",2,2,0
+Blanco,303,Governor,,DEM,"Cedric Davis, Sr.",0,0,0
+Blanco,304,Governor,,DEM,"Cedric Davis, Sr.",4,2,2
+Blanco,401,Governor,,DEM,"Cedric Davis, Sr.",4,4,0
+Blanco,Total,Governor,,DEM,"Cedric Davis, Sr.",15,9,6
+Blanco,102,Governor,,DEM,Over Votes,0,0,0
+Blanco,201,Governor,,DEM,Over Votes,1,0,1
+Blanco,302,Governor,,DEM,Over Votes,0,0,0
+Blanco,303,Governor,,DEM,Over Votes,0,0,0
+Blanco,304,Governor,,DEM,Over Votes,0,0,0
+Blanco,401,Governor,,DEM,Over Votes,0,0,0
+Blanco,Total,Governor,,DEM,Over Votes,1,0,1
+Blanco,102,Governor,,DEM,Under Votes,2,2,0
+Blanco,201,Governor,,DEM,Under Votes,6,1,5
+Blanco,302,Governor,,DEM,Under Votes,4,3,1
+Blanco,303,Governor,,DEM,Under Votes,0,0,0
+Blanco,304,Governor,,DEM,Under Votes,1,1,0
+Blanco,401,Governor,,DEM,Under Votes,7,4,3
+Blanco,Total,Governor,,DEM,Under Votes,20,11,9
+Blanco,102,Lieutenant Governor,,DEM,Mike Collier,71,42,29
+Blanco,201,Lieutenant Governor,,DEM,Mike Collier,96,49,47
+Blanco,302,Lieutenant Governor,,DEM,Mike Collier,63,32,31
+Blanco,303,Lieutenant Governor,,DEM,Mike Collier,9,6,3
+Blanco,304,Lieutenant Governor,,DEM,Mike Collier,8,1,7
+Blanco,401,Lieutenant Governor,,DEM,Mike Collier,98,34,64
+Blanco,Total,Lieutenant Governor,,DEM,Mike Collier,345,164,181
+Blanco,102,Lieutenant Governor,,DEM,Michael Cooper,34,23,11
+Blanco,201,Lieutenant Governor,,DEM,Michael Cooper,34,16,18
+Blanco,302,Lieutenant Governor,,DEM,Michael Cooper,30,15,15
+Blanco,303,Lieutenant Governor,,DEM,Michael Cooper,6,6,0
+Blanco,304,Lieutenant Governor,,DEM,Michael Cooper,12,6,6
+Blanco,401,Lieutenant Governor,,DEM,Michael Cooper,41,21,20
+Blanco,Total,Lieutenant Governor,,DEM,Michael Cooper,157,87,70
+Blanco,102,Lieutenant Governor,,DEM,Over Votes,0,0,0
+Blanco,201,Lieutenant Governor,,DEM,Over Votes,0,0,0
+Blanco,302,Lieutenant Governor,,DEM,Over Votes,0,0,0
+Blanco,303,Lieutenant Governor,,DEM,Over Votes,0,0,0
+Blanco,304,Lieutenant Governor,,DEM,Over Votes,0,0,0
+Blanco,401,Lieutenant Governor,,DEM,Over Votes,0,0,0
+Blanco,Total,Lieutenant Governor,,DEM,Over Votes,0,0,0
+Blanco,102,Lieutenant Governor,,DEM,Under Votes,13,10,3
+Blanco,201,Lieutenant Governor,,DEM,Under Votes,15,8,7
+Blanco,302,Lieutenant Governor,,DEM,Under Votes,6,4,2
+Blanco,303,Lieutenant Governor,,DEM,Under Votes,0,0,0
+Blanco,304,Lieutenant Governor,,DEM,Under Votes,3,1,2
+Blanco,401,Lieutenant Governor,,DEM,Under Votes,12,8,4
+Blanco,Total,Lieutenant Governor,,DEM,Under Votes,49,31,18
+Blanco,102,Attorney General,,DEM,Justin Nelson,103,64,39
+Blanco,201,Attorney General,,DEM,Justin Nelson,119,60,59
+Blanco,302,Attorney General,,DEM,Justin Nelson,87,42,45
+Blanco,303,Attorney General,,DEM,Justin Nelson,13,11,2
+Blanco,304,Attorney General,,DEM,Justin Nelson,20,7,13
+Blanco,401,Attorney General,,DEM,Justin Nelson,135,54,81
+Blanco,Total,Attorney General,,DEM,Justin Nelson,477,238,239
+Blanco,102,Attorney General,,DEM,Over Votes,0,0,0
+Blanco,201,Attorney General,,DEM,Over Votes,0,0,0
+Blanco,302,Attorney General,,DEM,Over Votes,0,0,0
+Blanco,303,Attorney General,,DEM,Over Votes,0,0,0
+Blanco,304,Attorney General,,DEM,Over Votes,0,0,0
+Blanco,401,Attorney General,,DEM,Over Votes,0,0,0
+Blanco,Total,Attorney General,,DEM,Over Votes,0,0,0
+Blanco,102,Attorney General,,DEM,Under Votes,15,11,4
+Blanco,201,Attorney General,,DEM,Under Votes,26,13,13
+Blanco,302,Attorney General,,DEM,Under Votes,12,9,3
+Blanco,303,Attorney General,,DEM,Under Votes,2,1,1
+Blanco,304,Attorney General,,DEM,Under Votes,3,1,2
+Blanco,401,Attorney General,,DEM,Under Votes,16,9,7
+Blanco,Total,Attorney General,,DEM,Under Votes,74,44,30
+Blanco,102,Comptroller of Public Accounts,,DEM,Tim Mahoney,41,27,14
+Blanco,201,Comptroller of Public Accounts,,DEM,Tim Mahoney,69,31,38
+Blanco,302,Comptroller of Public Accounts,,DEM,Tim Mahoney,50,26,24
+Blanco,303,Comptroller of Public Accounts,,DEM,Tim Mahoney,5,4,1
+Blanco,304,Comptroller of Public Accounts,,DEM,Tim Mahoney,8,2,6
+Blanco,401,Comptroller of Public Accounts,,DEM,Tim Mahoney,48,22,26
+Blanco,Total,Comptroller of Public Accounts,,DEM,Tim Mahoney,221,112,109
+Blanco,102,Comptroller of Public Accounts,,DEM,Joi Chevalier,67,40,27
+Blanco,201,Comptroller of Public Accounts,,DEM,Joi Chevalier,66,36,30
+Blanco,302,Comptroller of Public Accounts,,DEM,Joi Chevalier,41,20,21
+Blanco,303,Comptroller of Public Accounts,,DEM,Joi Chevalier,10,8,2
+Blanco,304,Comptroller of Public Accounts,,DEM,Joi Chevalier,12,6,6
+Blanco,401,Comptroller of Public Accounts,,DEM,Joi Chevalier,90,34,56
+Blanco,Total,Comptroller of Public Accounts,,DEM,Joi Chevalier,286,144,142
+Blanco,102,Comptroller of Public Accounts,,DEM,Over Votes,0,0,0
+Blanco,201,Comptroller of Public Accounts,,DEM,Over Votes,0,0,0
+Blanco,302,Comptroller of Public Accounts,,DEM,Over Votes,0,0,0
+Blanco,303,Comptroller of Public Accounts,,DEM,Over Votes,0,0,0
+Blanco,304,Comptroller of Public Accounts,,DEM,Over Votes,0,0,0
+Blanco,401,Comptroller of Public Accounts,,DEM,Over Votes,0,0,0
+Blanco,Total,Comptroller of Public Accounts,,DEM,Over Votes,0,0,0
+Blanco,102,Comptroller of Public Accounts,,DEM,Under Votes,10,8,2
+Blanco,201,Comptroller of Public Accounts,,DEM,Under Votes,10,6,4
+Blanco,302,Comptroller of Public Accounts,,DEM,Under Votes,8,5,3
+Blanco,303,Comptroller of Public Accounts,,DEM,Under Votes,0,0,0
+Blanco,304,Comptroller of Public Accounts,,DEM,Under Votes,3,0,3
+Blanco,401,Comptroller of Public Accounts,,DEM,Under Votes,13,7,6
+Blanco,Total,Comptroller of Public Accounts,,DEM,Under Votes,44,26,18
+Blanco,102,Commissioner of the General Land Office,,DEM,Tex Morgan,29,23,6
+Blanco,201,Commissioner of the General Land Office,,DEM,Tex Morgan,60,31,29
+Blanco,302,Commissioner of the General Land Office,,DEM,Tex Morgan,41,20,21
+Blanco,303,Commissioner of the General Land Office,,DEM,Tex Morgan,4,3,1
+Blanco,304,Commissioner of the General Land Office,,DEM,Tex Morgan,6,2,4
+Blanco,401,Commissioner of the General Land Office,,DEM,Tex Morgan,40,20,20
+Blanco,Total,Commissioner of the General Land Office,,DEM,Tex Morgan,180,99,81
+Blanco,102,Commissioner of the General Land Office,,DEM,Miguel Suazo,11,9,2
+Blanco,201,Commissioner of the General Land Office,,DEM,Miguel Suazo,74,42,32
+Blanco,302,Commissioner of the General Land Office,,DEM,Miguel Suazo,69,34,35
+Blanco,303,Commissioner of the General Land Office,,DEM,Miguel Suazo,50,26,24
+Blanco,304,Commissioner of the General Land Office,,DEM,Miguel Suazo,12,5,7
+Blanco,401,Commissioner of the General Land Office,,DEM,Miguel Suazo,100,38,62
+Blanco,Total,Commissioner of the General Land Office,,DEM,Miguel Suazo,316,154,162
+Blanco,102,Commissioner of the General Land Office,,DEM,Over Votes,0,0,0
+Blanco,201,Commissioner of the General Land Office,,DEM,Over Votes,0,0,0
+Blanco,302,Commissioner of the General Land Office,,DEM,Over Votes,0,0,0
+Blanco,303,Commissioner of the General Land Office,,DEM,Over Votes,0,0,0
+Blanco,304,Commissioner of the General Land Office,,DEM,Over Votes,0,0,0
+Blanco,401,Commissioner of the General Land Office,,DEM,Over Votes,0,0,0
+Blanco,Total,Commissioner of the General Land Office,,DEM,Over Votes,0,0,0
+Blanco,102,Commissioner of the General Land Office,,DEM,Under Votes,15,10,5
+Blanco,201,Commissioner of the General Land Office,,DEM,Under Votes,16,8,8
+Blanco,302,Commissioner of the General Land Office,,DEM,Under Votes,8,5,3
+Blanco,303,Commissioner of the General Land Office,,DEM,Under Votes,0,0,0
+Blanco,304,Commissioner of the General Land Office,,DEM,Under Votes,5,1,4
+Blanco,401,Commissioner of the General Land Office,,DEM,Under Votes,11,5,6
+Blanco,Total,Commissioner of the General Land Office,,DEM,Under Votes,55,29,26
+Blanco,102,Commissioner of Agriculture,,DEM,Kim Olson,105,67,38
+Blanco,201,Commissioner of Agriculture,,DEM,Kim Olson,119,59,60
+Blanco,302,Commissioner of Agriculture,,DEM,Kim Olson,88,42,46
+Blanco,303,Commissioner of Agriculture,,DEM,Kim Olson,13,11,2
+Blanco,304,Commissioner of Agriculture,,DEM,Kim Olson,19,7,12
+Blanco,401,Commissioner of Agriculture,,DEM,Kim Olson,133,54,79
+Blanco,Total,Commissioner of Agriculture,,DEM,Kim Olson,477,240,237
+Blanco,102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0
+Blanco,201,Commissioner of Agriculture,,DEM,Over Votes,0,0,0
+Blanco,302,Commissioner of Agriculture,,DEM,Over Votes,0,0,0
+Blanco,303,Commissioner of Agriculture,,DEM,Over Votes,0,0,0
+Blanco,304,Commissioner of Agriculture,,DEM,Over Votes,0,0,0
+Blanco,401,Commissioner of Agriculture,,DEM,Over Votes,0,0,0
+Blanco,Total,Commissioner of Agriculture,,DEM,Over Votes,0,0,0
+Blanco,102,Commissioner of Agriculture,,DEM,Under Votes,13,8,5
+Blanco,201,Commissioner of Agriculture,,DEM,Under Votes,26,14,12
+Blanco,302,Commissioner of Agriculture,,DEM,Under Votes,11,9,2
+Blanco,303,Commissioner of Agriculture,,DEM,Under Votes,2,1,1
+Blanco,304,Commissioner of Agriculture,,DEM,Under Votes,4,1,3
+Blanco,401,Commissioner of Agriculture,,DEM,Under Votes,18,9,9
+Blanco,Total,Commissioner of Agriculture,,DEM,Under Votes,74,42,32
+Blanco,102,Railroad Commissioner,,DEM,Chris Spellmon,48,31,17
+Blanco,201,Railroad Commissioner,,DEM,Chris Spellmon,78,40,38
+Blanco,302,Railroad Commissioner,,DEM,Chris Spellmon,48,27,21
+Blanco,303,Railroad Commissioner,,DEM,Chris Spellmon,10,7,3
+Blanco,304,Railroad Commissioner,,DEM,Chris Spellmon,11,1,10
+Blanco,401,Railroad Commissioner,,DEM,Chris Spellmon,62,26,36
+Blanco,Total,Railroad Commissioner,,DEM,Chris Spellmon,257,132,125
+Blanco,102,Railroad Commissioner,,DEM,Roman McAllen,55,32,23
+Blanco,201,Railroad Commissioner,,DEM,Roman McAllen,47,23,24
+Blanco,302,Railroad Commissioner,,DEM,Roman McAllen,43,18,25
+Blanco,303,Railroad Commissioner,,DEM,Roman McAllen,5,5,0
+Blanco,304,Railroad Commissioner,,DEM,Roman McAllen,3,3,0
+Blanco,401,Railroad Commissioner,,DEM,Roman McAllen,70,29,41
+Blanco,Total,Railroad Commissioner,,DEM,Roman McAllen,223,110,113
+Blanco,102,Railroad Commissioner,,DEM,Over Votes,0,0,0
+Blanco,201,Railroad Commissioner,,DEM,Over Votes,0,0,0
+Blanco,302,Railroad Commissioner,,DEM,Over Votes,0,0,0
+Blanco,303,Railroad Commissioner,,DEM,Over Votes,0,0,0
+Blanco,304,Railroad Commissioner,,DEM,Over Votes,1,0,1
+Blanco,401,Railroad Commissioner,,DEM,Over Votes,0,0,0
+Blanco,Total,Railroad Commissioner,,DEM,Over Votes,1,0,1
+Blanco,102,Railroad Commissioner,,DEM,Under Votes,15,12,3
+Blanco,201,Railroad Commissioner,,DEM,Under Votes,20,10,10
+Blanco,302,Railroad Commissioner,,DEM,Under Votes,8,6,2
+Blanco,303,Railroad Commissioner,,DEM,Under Votes,0,0,0
+Blanco,304,Railroad Commissioner,,DEM,Under Votes,8,4,4
+Blanco,401,Railroad Commissioner,,DEM,Under Votes,19,8,11
+Blanco,Total,Railroad Commissioner,,DEM,Under Votes,70,40,30
+Blanco,102,State Representative�,45,DEM,Erin Zwiener,28,14,14
+Blanco,201,State Representative�,45,DEM,Erin Zwiener,62,32,30
+Blanco,302,State Representative�,45,DEM,Erin Zwiener,30,16,14
+Blanco,303,State Representative�,45,DEM,Erin Zwiener,5,3,2
+Blanco,304,State Representative�,45,DEM,Erin Zwiener,3,0,3
+Blanco,401,State Representative�,45,DEM,Erin Zwiener,52,15,37
+Blanco,Total,State Representative�,45,DEM,Erin Zwiener,180,80,100
+Blanco,102,State Representative�,45,DEM,Les Carnes,31,23,8
+Blanco,201,State Representative�,45,DEM,Les Carnes,30,11,19
+Blanco,302,State Representative�,45,DEM,Les Carnes,26,16,10
+Blanco,303,State Representative�,45,DEM,Les Carnes,1,1,0
+Blanco,304,State Representative�,45,DEM,Les Carnes,2,0,2
+Blanco,401,State Representative�,45,DEM,Les Carnes,36,16,20
+Blanco,Total,State Representative�,45,DEM,Les Carnes,126,67,59
+Blanco,102,State Representative�,45,DEM,Rebecca Bell-Metereau,50,31,19
+Blanco,201,State Representative�,45,DEM,Rebecca Bell-Metereau,43,24,19
+Blanco,302,State Representative�,45,DEM,Rebecca Bell-Metereau,34,13,21
+Blanco,303,State Representative�,45,DEM,Rebecca Bell-Metereau,8,7,1
+Blanco,304,State Representative�,45,DEM,Rebecca Bell-Metereau,13,5,8
+Blanco,401,State Representative�,45,DEM,Rebecca Bell-Metereau,52,26,26
+Blanco,Total,State Representative�,45,DEM,Rebecca Bell-Metereau,200,106,94
+Blanco,102,State Representative�,45,DEM,Over Votes,0,0,0
+Blanco,201,State Representative�,45,DEM,Over Votes,1,1,0
+Blanco,302,State Representative�,45,DEM,Over Votes,0,0,0
+Blanco,303,State Representative�,45,DEM,Over Votes,0,0,0
+Blanco,304,State Representative�,45,DEM,Over Votes,0,0,0
+Blanco,401,State Representative�,45,DEM,Over Votes,0,0,0
+Blanco,Total,State Representative�,45,DEM,Over Votes,1,1,0
+Blanco,102,State Representative�,45,DEM,Under Votes,9,7,2
+Blanco,201,State Representative�,45,DEM,Under Votes,9,5,4
+Blanco,302,State Representative�,45,DEM,Under Votes,9,6,3
+Blanco,303,State Representative�,45,DEM,Under Votes,1,1,0
+Blanco,304,State Representative�,45,DEM,Under Votes,5,3,2
+Blanco,401,State Representative�,45,DEM,Under Votes,11,6,5
+Blanco,Total,State Representative�,45,DEM,Under Votes,44,28,16

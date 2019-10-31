@@ -1,355 +1,355 @@
-county,precinct,office,district,party,candidate,votes,early_voting,election_day
+county,precinct,office,district,party,candidate,votes,election_day,early_voting
 Martin,1,Straight Party,,REP,Over Votes,0,0,0
-Martin,1,Straight Party,,REP,Under Votes,153,99,54
+Martin,1,Straight Party,,REP,Under Votes,153,54,99
 Martin,1,Registered Voters,,REP,,768,,
-Martin,1,Ballots Cast,,,,353,232,121
-Martin,1,Straight Party,,REP,Republican Party,167,117,50
-Martin,1,Straight Party,,DEM,Democratic Party,32,15,17
-Martin,1,Straight Party,,LIB,Libertarian Party,1,1,0
-Martin,1,U.S. Senate,,REP,Ted Cruz,278,194,84
-Martin,1,U.S. Senate,,DEM,Beto O'Rourke,68,33,35
-Martin,1,U.S. Senate,,LIB,Neal M. Dikeman,1,0,1
-Martin,1,U.S. House,11,REP,Mike Conaway,286,197,89
-Martin,1,U.S. House,11,DEM,Jennie Lou Leeder,54,24,30
-Martin,1,U.S. House,11,LIB,Rhett Rosenquest Smith,4,3,1
-Martin,1,Governor,,REP,Greg Abbott,282,196,86
-Martin,1,Governor,,DEM,Lupe Valdez,59,28,31
-Martin,1,Governor,,LIB,Mark Jay Tippetts,5,3,2
-Martin,1,Lieutenant Governor,,REP,Dan Patrick,267,185,82
-Martin,1,Lieutenant Governor,,DEM,Mike Collier,67,32,35
-Martin,1,Lieutenant Governor,,LIB,Kerry Douglas McKennon,9,7,2
-Martin,1,Attorney General,,REP,Ken Paxton,268,189,79
-Martin,1,Attorney General,,DEM,Justin Nelson,66,29,37
-Martin,1,Attorney General,,LIB,Michael Ray Harris,8,5,3
-Martin,1,Comptroller of Public Accounts,,REP,Glenn Hegar,268,188,80
-Martin,1,Comptroller of Public Accounts,,DEM,Joi Chevalier,63,29,34
-Martin,1,Comptroller of Public Accounts,,LIB,Ben Sanders,6,4,2
-Martin,1,Commissioner of the General Land Office,,REP,George P. Bush,272,188,84
+Martin,1,Ballots Cast,,,,353,121,232
+Martin,1,Straight Party,,REP,Republican Party,167,50,117
+Martin,1,Straight Party,,DEM,Democratic Party,32,17,15
+Martin,1,Straight Party,,LIB,Libertarian Party,1,0,1
+Martin,1,U.S. Senate,,REP,Ted Cruz,278,84,194
+Martin,1,U.S. Senate,,DEM,Beto O'Rourke,68,35,33
+Martin,1,U.S. Senate,,LIB,Neal M. Dikeman,1,1,0
+Martin,1,U.S. House,11,REP,Mike Conaway,286,89,197
+Martin,1,U.S. House,11,DEM,Jennie Lou Leeder,54,30,24
+Martin,1,U.S. House,11,LIB,Rhett Rosenquest Smith,4,1,3
+Martin,1,Governor,,REP,Greg Abbott,282,86,196
+Martin,1,Governor,,DEM,Lupe Valdez,59,31,28
+Martin,1,Governor,,LIB,Mark Jay Tippetts,5,2,3
+Martin,1,Lieutenant Governor,,REP,Dan Patrick,267,82,185
+Martin,1,Lieutenant Governor,,DEM,Mike Collier,67,35,32
+Martin,1,Lieutenant Governor,,LIB,Kerry Douglas McKennon,9,2,7
+Martin,1,Attorney General,,REP,Ken Paxton,268,79,189
+Martin,1,Attorney General,,DEM,Justin Nelson,66,37,29
+Martin,1,Attorney General,,LIB,Michael Ray Harris,8,3,5
+Martin,1,Comptroller of Public Accounts,,REP,Glenn Hegar,268,80,188
+Martin,1,Comptroller of Public Accounts,,DEM,Joi Chevalier,63,34,29
+Martin,1,Comptroller of Public Accounts,,LIB,Ben Sanders,6,2,4
+Martin,1,Commissioner of the General Land Office,,REP,George P. Bush,272,84,188
 Martin,1,Commissioner of the General Land Office,,DEM,Miguel Suazo,60,30,30
-Martin,1,Commissioner of the General Land Office,,LIB,Matt Piña,14,9,5
-Martin,1,Commissioner of Agriculture,,REP,Sid Miller,273,192,81
-Martin,1,Commissioner of Agriculture,,DEM,Kim Olson,61,26,35
-Martin,1,Commissioner of Agriculture,,LIB,Richard Carpenter,10,7,3
-Martin,1,Railroad Commissioner,,REP,Christi Craddick,272,188,84
-Martin,1,Railroad Commissioner,,DEM,Roman McAllen,61,29,32
-Martin,1,Railroad Commissioner,,LIB,Mike Wright,8,6,2
-Martin,1,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,275,192,83
-Martin,1,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,63,30,33
-Martin,1,"Justice, Supreme Court, Place 4",,REP,John Devine,277,191,86
+Martin,1,Commissioner of the General Land Office,,LIB,Matt Piña,14,5,9
+Martin,1,Commissioner of Agriculture,,REP,Sid Miller,273,81,192
+Martin,1,Commissioner of Agriculture,,DEM,Kim Olson,61,35,26
+Martin,1,Commissioner of Agriculture,,LIB,Richard Carpenter,10,3,7
+Martin,1,Railroad Commissioner,,REP,Christi Craddick,272,84,188
+Martin,1,Railroad Commissioner,,DEM,Roman McAllen,61,32,29
+Martin,1,Railroad Commissioner,,LIB,Mike Wright,8,2,6
+Martin,1,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,275,83,192
+Martin,1,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,63,33,30
+Martin,1,"Justice, Supreme Court, Place 4",,REP,John Devine,277,86,191
 Martin,1,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,62,31,31
-Martin,1,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,276,191,85
-Martin,1,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,63,31,32
-Martin,1,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,270,188,82
-Martin,1,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,61,29,32
-Martin,1,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,9,5,4
-Martin,1,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,272,190,82
-Martin,1,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,65,32,33
-Martin,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,284,196,88
+Martin,1,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,276,85,191
+Martin,1,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,63,32,31
+Martin,1,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,270,82,188
+Martin,1,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,61,32,29
+Martin,1,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,9,4,5
+Martin,1,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,272,82,190
+Martin,1,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,65,33,32
+Martin,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,284,88,196
 Martin,1,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,34,17,17
-Martin,1,State Senator,No. 31,REP,Kel Seliger,293,201,92
-Martin,1,State Senator,No. 31,LIB,Jack B. Westbrook,33,16,17
-Martin,1,State Representative,No. 82,REP,Tom Craddick,278,192,86
-Martin,1,State Representative,No. 82,DEM,Spencer Bounds,63,31,32
-Martin,1,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,290,196,94
-Martin,1,"District Judge, 118th Judicial District",,REP,Timothy D. Yeats,287,192,95
-Martin,1,County Judge,,REP,Bryan Cox,288,191,97
-Martin,1,District and County Clerk,,REP,Linda Lucas Gonzales,292,193,99
-Martin,1,County Treasurer,,REP,Cynthia O'Donnell,296,197,99
-Martin,1,"Justice of the Peace, Precinct No. 1 and 3",,REP,Jarrell W. Hedrick,298,197,101
+Martin,1,State Senator,No. 31,REP,Kel Seliger,293,92,201
+Martin,1,State Senator,No. 31,LIB,Jack B. Westbrook,33,17,16
+Martin,1,State Representative,No. 82,REP,Tom Craddick,278,86,192
+Martin,1,State Representative,No. 82,DEM,Spencer Bounds,63,32,31
+Martin,1,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,290,94,196
+Martin,1,"District Judge, 118th Judicial District",,REP,Timothy D. Yeats,287,95,192
+Martin,1,County Judge,,REP,Bryan Cox,288,97,191
+Martin,1,District and County Clerk,,REP,Linda Lucas Gonzales,292,99,193
+Martin,1,County Treasurer,,REP,Cynthia O'Donnell,296,99,197
+Martin,1,"Justice of the Peace, Precinct No. 1 and 3",,REP,Jarrell W. Hedrick,298,101,197
 Martin,2,Straight Party,,REP,Over Votes,0,0,0
-Martin,2,Straight Party,,REP,Under Votes,102,68,34
+Martin,2,Straight Party,,REP,Under Votes,102,34,68
 Martin,2,Registered Voters,,REP,,733,,
-Martin,2,Ballots Cast,,,,293,180,113
-Martin,2,Straight Party,,REP,Republican Party,141,87,54
-Martin,2,Straight Party,,DEM,Democratic Party,48,23,25
-Martin,2,Straight Party,,LIB,Libertarian Party,2,2,0
-Martin,2,U.S. Senate,,REP,Ted Cruz,210,132,78
-Martin,2,U.S. Senate,,DEM,Beto O'Rourke,73,40,33
-Martin,2,U.S. Senate,,LIB,Neal M. Dikeman,3,2,1
-Martin,2,U.S. House,11,REP,Mike Conaway,210,130,80
-Martin,2,U.S. House,11,DEM,Jennie Lou Leeder,65,35,30
-Martin,2,U.S. House,11,LIB,Rhett Rosenquest Smith,6,6,0
-Martin,2,Governor,,REP,Greg Abbott,212,133,79
-Martin,2,Governor,,DEM,Lupe Valdez,70,39,31
-Martin,2,Governor,,LIB,Mark Jay Tippetts,2,2,0
-Martin,2,Lieutenant Governor,,REP,Dan Patrick,198,126,72
-Martin,2,Lieutenant Governor,,DEM,Mike Collier,79,44,35
-Martin,2,Lieutenant Governor,,LIB,Kerry Douglas McKennon,5,3,2
-Martin,2,Attorney General,,REP,Ken Paxton,204,130,74
-Martin,2,Attorney General,,DEM,Justin Nelson,70,39,31
-Martin,2,Attorney General,,LIB,Michael Ray Harris,7,5,2
-Martin,2,Comptroller of Public Accounts,,REP,Glenn Hegar,207,132,75
-Martin,2,Comptroller of Public Accounts,,DEM,Joi Chevalier,62,35,27
+Martin,2,Ballots Cast,,,,293,113,180
+Martin,2,Straight Party,,REP,Republican Party,141,54,87
+Martin,2,Straight Party,,DEM,Democratic Party,48,25,23
+Martin,2,Straight Party,,LIB,Libertarian Party,2,0,2
+Martin,2,U.S. Senate,,REP,Ted Cruz,210,78,132
+Martin,2,U.S. Senate,,DEM,Beto O'Rourke,73,33,40
+Martin,2,U.S. Senate,,LIB,Neal M. Dikeman,3,1,2
+Martin,2,U.S. House,11,REP,Mike Conaway,210,80,130
+Martin,2,U.S. House,11,DEM,Jennie Lou Leeder,65,30,35
+Martin,2,U.S. House,11,LIB,Rhett Rosenquest Smith,6,0,6
+Martin,2,Governor,,REP,Greg Abbott,212,79,133
+Martin,2,Governor,,DEM,Lupe Valdez,70,31,39
+Martin,2,Governor,,LIB,Mark Jay Tippetts,2,0,2
+Martin,2,Lieutenant Governor,,REP,Dan Patrick,198,72,126
+Martin,2,Lieutenant Governor,,DEM,Mike Collier,79,35,44
+Martin,2,Lieutenant Governor,,LIB,Kerry Douglas McKennon,5,2,3
+Martin,2,Attorney General,,REP,Ken Paxton,204,74,130
+Martin,2,Attorney General,,DEM,Justin Nelson,70,31,39
+Martin,2,Attorney General,,LIB,Michael Ray Harris,7,2,5
+Martin,2,Comptroller of Public Accounts,,REP,Glenn Hegar,207,75,132
+Martin,2,Comptroller of Public Accounts,,DEM,Joi Chevalier,62,27,35
 Martin,2,Comptroller of Public Accounts,,LIB,Ben Sanders,10,5,5
-Martin,2,Commissioner of the General Land Office,,REP,George P. Bush,207,129,78
-Martin,2,Commissioner of the General Land Office,,DEM,Miguel Suazo,67,35,32
-Martin,2,Commissioner of the General Land Office,,LIB,Matt Piña,9,8,1
-Martin,2,Commissioner of Agriculture,,REP,Sid Miller,203,130,73
-Martin,2,Commissioner of Agriculture,,DEM,Kim Olson,71,38,33
-Martin,2,Commissioner of Agriculture,,LIB,Richard Carpenter,8,5,3
-Martin,2,Railroad Commissioner,,REP,Christi Craddick,205,129,76
-Martin,2,Railroad Commissioner,,DEM,Roman McAllen,66,35,31
-Martin,2,Railroad Commissioner,,LIB,Mike Wright,12,8,4
-Martin,2,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,212,135,77
-Martin,2,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,70,37,33
-Martin,2,"Justice, Supreme Court, Place 4",,REP,John Devine,214,136,78
-Martin,2,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,69,37,32
-Martin,2,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,209,133,76
-Martin,2,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,73,40,33
-Martin,2,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,205,132,73
-Martin,2,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,75,39,36
-Martin,2,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,4,3,1
-Martin,2,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,209,135,74
-Martin,2,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,69,36,33
-Martin,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,224,142,82
-Martin,2,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,25,14,11
-Martin,2,State Senator,No. 31,REP,Kel Seliger,217,138,79
-Martin,2,State Senator,No. 31,LIB,Jack B. Westbrook,33,18,15
-Martin,2,State Representative,No. 82,REP,Tom Craddick,214,135,79
-Martin,2,State Representative,No. 82,DEM,Spencer Bounds,66,37,29
-Martin,2,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,235,148,87
-Martin,2,"District Judge, 118th Judicial District",,REP,Timothy D. Yeats,231,145,86
-Martin,2,County Judge,,REP,Bryan Cox,230,142,88
-Martin,2,District and County Clerk,,REP,Linda Lucas Gonzales,239,150,89
-Martin,2,County Treasurer,,REP,Cynthia O'Donnell,234,146,88
-Martin,2,"County Commissioner, Precinct No. 2",,REP,Robin A. Barnes,232,143,89
-Martin,2,"Justice of the Peace, Precinct No. 2 and 4",,REP,Nancy Bradshaw,240,148,92
+Martin,2,Commissioner of the General Land Office,,REP,George P. Bush,207,78,129
+Martin,2,Commissioner of the General Land Office,,DEM,Miguel Suazo,67,32,35
+Martin,2,Commissioner of the General Land Office,,LIB,Matt Piña,9,1,8
+Martin,2,Commissioner of Agriculture,,REP,Sid Miller,203,73,130
+Martin,2,Commissioner of Agriculture,,DEM,Kim Olson,71,33,38
+Martin,2,Commissioner of Agriculture,,LIB,Richard Carpenter,8,3,5
+Martin,2,Railroad Commissioner,,REP,Christi Craddick,205,76,129
+Martin,2,Railroad Commissioner,,DEM,Roman McAllen,66,31,35
+Martin,2,Railroad Commissioner,,LIB,Mike Wright,12,4,8
+Martin,2,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,212,77,135
+Martin,2,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,70,33,37
+Martin,2,"Justice, Supreme Court, Place 4",,REP,John Devine,214,78,136
+Martin,2,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,69,32,37
+Martin,2,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,209,76,133
+Martin,2,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,73,33,40
+Martin,2,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,205,73,132
+Martin,2,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,75,36,39
+Martin,2,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,4,1,3
+Martin,2,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,209,74,135
+Martin,2,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,69,33,36
+Martin,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,224,82,142
+Martin,2,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,25,11,14
+Martin,2,State Senator,No. 31,REP,Kel Seliger,217,79,138
+Martin,2,State Senator,No. 31,LIB,Jack B. Westbrook,33,15,18
+Martin,2,State Representative,No. 82,REP,Tom Craddick,214,79,135
+Martin,2,State Representative,No. 82,DEM,Spencer Bounds,66,29,37
+Martin,2,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,235,87,148
+Martin,2,"District Judge, 118th Judicial District",,REP,Timothy D. Yeats,231,86,145
+Martin,2,County Judge,,REP,Bryan Cox,230,88,142
+Martin,2,District and County Clerk,,REP,Linda Lucas Gonzales,239,89,150
+Martin,2,County Treasurer,,REP,Cynthia O'Donnell,234,88,146
+Martin,2,"County Commissioner, Precinct No. 2",,REP,Robin A. Barnes,232,89,143
+Martin,2,"Justice of the Peace, Precinct No. 2 and 4",,REP,Nancy Bradshaw,240,92,148
 Martin,3,Straight Party,,REP,Over Votes,0,0,0
-Martin,3,Straight Party,,REP,Under Votes,188,138,50
+Martin,3,Straight Party,,REP,Under Votes,188,50,138
 Martin,3,Registered Voters,,REP,,564,,
-Martin,3,Ballots Cast,,,,363,264,99
-Martin,3,Straight Party,,REP,Republican Party,154,113,41
-Martin,3,Straight Party,,DEM,Democratic Party,20,13,7
-Martin,3,Straight Party,,LIB,Libertarian Party,1,0,1
-Martin,3,U.S. Senate,,REP,Ted Cruz,315,231,84
-Martin,3,U.S. Senate,,DEM,Beto O'Rourke,40,29,11
-Martin,3,U.S. Senate,,LIB,Neal M. Dikeman,5,2,3
-Martin,3,U.S. House,11,REP,Mike Conaway,311,226,85
-Martin,3,U.S. House,11,DEM,Jennie Lou Leeder,30,21,9
-Martin,3,U.S. House,11,LIB,Rhett Rosenquest Smith,6,4,2
-Martin,3,Governor,,REP,Greg Abbott,310,228,82
-Martin,3,Governor,,DEM,Lupe Valdez,40,27,13
+Martin,3,Ballots Cast,,,,363,99,264
+Martin,3,Straight Party,,REP,Republican Party,154,41,113
+Martin,3,Straight Party,,DEM,Democratic Party,20,7,13
+Martin,3,Straight Party,,LIB,Libertarian Party,1,1,0
+Martin,3,U.S. Senate,,REP,Ted Cruz,315,84,231
+Martin,3,U.S. Senate,,DEM,Beto O'Rourke,40,11,29
+Martin,3,U.S. Senate,,LIB,Neal M. Dikeman,5,3,2
+Martin,3,U.S. House,11,REP,Mike Conaway,311,85,226
+Martin,3,U.S. House,11,DEM,Jennie Lou Leeder,30,9,21
+Martin,3,U.S. House,11,LIB,Rhett Rosenquest Smith,6,2,4
+Martin,3,Governor,,REP,Greg Abbott,310,82,228
+Martin,3,Governor,,DEM,Lupe Valdez,40,13,27
 Martin,3,Governor,,LIB,Mark Jay Tippetts,4,2,2
-Martin,3,Lieutenant Governor,,REP,Dan Patrick,280,201,79
-Martin,3,Lieutenant Governor,,DEM,Mike Collier,62,46,16
-Martin,3,Lieutenant Governor,,LIB,Kerry Douglas McKennon,7,5,2
-Martin,3,Attorney General,,REP,Ken Paxton,305,225,80
-Martin,3,Attorney General,,DEM,Justin Nelson,40,28,12
-Martin,3,Attorney General,,LIB,Michael Ray Harris,5,1,4
-Martin,3,Comptroller of Public Accounts,,REP,Glenn Hegar,304,225,79
-Martin,3,Comptroller of Public Accounts,,DEM,Joi Chevalier,34,21,13
-Martin,3,Comptroller of Public Accounts,,LIB,Ben Sanders,8,5,3
-Martin,3,Commissioner of the General Land Office,,REP,George P. Bush,305,223,82
-Martin,3,Commissioner of the General Land Office,,DEM,Miguel Suazo,29,20,9
-Martin,3,Commissioner of the General Land Office,,LIB,Matt Piña,15,10,5
-Martin,3,Commissioner of Agriculture,,REP,Sid Miller,305,227,78
-Martin,3,Commissioner of Agriculture,,DEM,Kim Olson,37,23,14
-Martin,3,Commissioner of Agriculture,,LIB,Richard Carpenter,5,2,3
-Martin,3,Railroad Commissioner,,REP,Christi Craddick,294,215,79
-Martin,3,Railroad Commissioner,,DEM,Roman McAllen,37,24,13
-Martin,3,Railroad Commissioner,,LIB,Mike Wright,11,7,4
-Martin,3,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,307,223,84
-Martin,3,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,33,23,10
-Martin,3,"Justice, Supreme Court, Place 4",,REP,John Devine,305,224,81
-Martin,3,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,33,21,12
-Martin,3,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,301,223,78
-Martin,3,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,38,22,16
-Martin,3,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,300,222,78
-Martin,3,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,33,23,10
-Martin,3,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,7,3,4
-Martin,3,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,302,222,80
-Martin,3,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,35,23,12
-Martin,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,309,227,82
-Martin,3,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,17,10,7
-Martin,3,State Senator,No. 31,REP,Kel Seliger,320,232,88
-Martin,3,State Senator,No. 31,LIB,Jack B. Westbrook,18,14,4
-Martin,3,State Representative,No. 82,REP,Tom Craddick,301,218,83
-Martin,3,State Representative,No. 82,DEM,Spencer Bounds,40,29,11
-Martin,3,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,315,228,87
-Martin,3,"District Judge, 118th Judicial District",,REP,Timothy D. Yeats,315,230,85
-Martin,3,County Judge,,REP,Bryan Cox,315,228,87
-Martin,3,District and County Clerk,,REP,Linda Lucas Gonzales,314,226,88
-Martin,3,County Treasurer,,REP,Cynthia O'Donnell,325,236,89
-Martin,3,"Justice of the Peace, Precinct No. 1 and 3",,REP,Jarrell W. Hedrick,326,238,88
+Martin,3,Lieutenant Governor,,REP,Dan Patrick,280,79,201
+Martin,3,Lieutenant Governor,,DEM,Mike Collier,62,16,46
+Martin,3,Lieutenant Governor,,LIB,Kerry Douglas McKennon,7,2,5
+Martin,3,Attorney General,,REP,Ken Paxton,305,80,225
+Martin,3,Attorney General,,DEM,Justin Nelson,40,12,28
+Martin,3,Attorney General,,LIB,Michael Ray Harris,5,4,1
+Martin,3,Comptroller of Public Accounts,,REP,Glenn Hegar,304,79,225
+Martin,3,Comptroller of Public Accounts,,DEM,Joi Chevalier,34,13,21
+Martin,3,Comptroller of Public Accounts,,LIB,Ben Sanders,8,3,5
+Martin,3,Commissioner of the General Land Office,,REP,George P. Bush,305,82,223
+Martin,3,Commissioner of the General Land Office,,DEM,Miguel Suazo,29,9,20
+Martin,3,Commissioner of the General Land Office,,LIB,Matt Piña,15,5,10
+Martin,3,Commissioner of Agriculture,,REP,Sid Miller,305,78,227
+Martin,3,Commissioner of Agriculture,,DEM,Kim Olson,37,14,23
+Martin,3,Commissioner of Agriculture,,LIB,Richard Carpenter,5,3,2
+Martin,3,Railroad Commissioner,,REP,Christi Craddick,294,79,215
+Martin,3,Railroad Commissioner,,DEM,Roman McAllen,37,13,24
+Martin,3,Railroad Commissioner,,LIB,Mike Wright,11,4,7
+Martin,3,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,307,84,223
+Martin,3,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,33,10,23
+Martin,3,"Justice, Supreme Court, Place 4",,REP,John Devine,305,81,224
+Martin,3,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,33,12,21
+Martin,3,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,301,78,223
+Martin,3,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,38,16,22
+Martin,3,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,300,78,222
+Martin,3,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,33,10,23
+Martin,3,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,7,4,3
+Martin,3,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,302,80,222
+Martin,3,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,35,12,23
+Martin,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,309,82,227
+Martin,3,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,17,7,10
+Martin,3,State Senator,No. 31,REP,Kel Seliger,320,88,232
+Martin,3,State Senator,No. 31,LIB,Jack B. Westbrook,18,4,14
+Martin,3,State Representative,No. 82,REP,Tom Craddick,301,83,218
+Martin,3,State Representative,No. 82,DEM,Spencer Bounds,40,11,29
+Martin,3,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,315,87,228
+Martin,3,"District Judge, 118th Judicial District",,REP,Timothy D. Yeats,315,85,230
+Martin,3,County Judge,,REP,Bryan Cox,315,87,228
+Martin,3,District and County Clerk,,REP,Linda Lucas Gonzales,314,88,226
+Martin,3,County Treasurer,,REP,Cynthia O'Donnell,325,89,236
+Martin,3,"Justice of the Peace, Precinct No. 1 and 3",,REP,Jarrell W. Hedrick,326,88,238
 Martin,4,Straight Party,,REP,Over Votes,0,0,0
-Martin,4,Straight Party,,REP,Under Votes,159,111,48
+Martin,4,Straight Party,,REP,Under Votes,159,48,111
 Martin,4,Registered Voters,,REP,,534,,
-Martin,4,Ballots Cast,,,,318,228,90
-Martin,4,Straight Party,,REP,Republican Party,126,88,38
-Martin,4,Straight Party,,DEM,Democratic Party,33,29,4
+Martin,4,Ballots Cast,,,,318,90,228
+Martin,4,Straight Party,,REP,Republican Party,126,38,88
+Martin,4,Straight Party,,DEM,Democratic Party,33,4,29
 Martin,4,Straight Party,,LIB,Libertarian Party,0,0,0
-Martin,4,U.S. Senate,,REP,Ted Cruz,261,184,77
-Martin,4,U.S. Senate,,DEM,Beto O'Rourke,49,36,13
-Martin,4,U.S. Senate,,LIB,Neal M. Dikeman,4,4,0
-Martin,4,U.S. House,11,REP,Mike Conaway,266,185,81
-Martin,4,U.S. House,11,DEM,Jennie Lou Leeder,42,34,8
-Martin,4,U.S. House,11,LIB,Rhett Rosenquest Smith,3,2,1
-Martin,4,Governor,,REP,Greg Abbott,269,189,80
-Martin,4,Governor,,DEM,Lupe Valdez,47,37,10
-Martin,4,Governor,,LIB,Mark Jay Tippetts,1,1,0
-Martin,4,Lieutenant Governor,,REP,Dan Patrick,235,164,71
-Martin,4,Lieutenant Governor,,DEM,Mike Collier,74,58,16
-Martin,4,Lieutenant Governor,,LIB,Kerry Douglas McKennon,7,5,2
-Martin,4,Attorney General,,REP,Ken Paxton,247,174,73
-Martin,4,Attorney General,,DEM,Justin Nelson,62,47,15
-Martin,4,Attorney General,,LIB,Michael Ray Harris,6,4,2
-Martin,4,Comptroller of Public Accounts,,REP,Glenn Hegar,264,183,81
-Martin,4,Comptroller of Public Accounts,,DEM,Joi Chevalier,49,40,9
-Martin,4,Comptroller of Public Accounts,,LIB,Ben Sanders,1,1,0
-Martin,4,Commissioner of the General Land Office,,REP,George P. Bush,251,175,76
-Martin,4,Commissioner of the General Land Office,,DEM,Miguel Suazo,48,39,9
-Martin,4,Commissioner of the General Land Office,,LIB,Matt Piña,12,8,4
-Martin,4,Commissioner of Agriculture,,REP,Sid Miller,261,185,76
-Martin,4,Commissioner of Agriculture,,DEM,Kim Olson,52,39,13
+Martin,4,U.S. Senate,,REP,Ted Cruz,261,77,184
+Martin,4,U.S. Senate,,DEM,Beto O'Rourke,49,13,36
+Martin,4,U.S. Senate,,LIB,Neal M. Dikeman,4,0,4
+Martin,4,U.S. House,11,REP,Mike Conaway,266,81,185
+Martin,4,U.S. House,11,DEM,Jennie Lou Leeder,42,8,34
+Martin,4,U.S. House,11,LIB,Rhett Rosenquest Smith,3,1,2
+Martin,4,Governor,,REP,Greg Abbott,269,80,189
+Martin,4,Governor,,DEM,Lupe Valdez,47,10,37
+Martin,4,Governor,,LIB,Mark Jay Tippetts,1,0,1
+Martin,4,Lieutenant Governor,,REP,Dan Patrick,235,71,164
+Martin,4,Lieutenant Governor,,DEM,Mike Collier,74,16,58
+Martin,4,Lieutenant Governor,,LIB,Kerry Douglas McKennon,7,2,5
+Martin,4,Attorney General,,REP,Ken Paxton,247,73,174
+Martin,4,Attorney General,,DEM,Justin Nelson,62,15,47
+Martin,4,Attorney General,,LIB,Michael Ray Harris,6,2,4
+Martin,4,Comptroller of Public Accounts,,REP,Glenn Hegar,264,81,183
+Martin,4,Comptroller of Public Accounts,,DEM,Joi Chevalier,49,9,40
+Martin,4,Comptroller of Public Accounts,,LIB,Ben Sanders,1,0,1
+Martin,4,Commissioner of the General Land Office,,REP,George P. Bush,251,76,175
+Martin,4,Commissioner of the General Land Office,,DEM,Miguel Suazo,48,9,39
+Martin,4,Commissioner of the General Land Office,,LIB,Matt Piña,12,4,8
+Martin,4,Commissioner of Agriculture,,REP,Sid Miller,261,76,185
+Martin,4,Commissioner of Agriculture,,DEM,Kim Olson,52,13,39
 Martin,4,Commissioner of Agriculture,,LIB,Richard Carpenter,2,1,1
-Martin,4,Railroad Commissioner,,REP,Christi Craddick,247,172,75
-Martin,4,Railroad Commissioner,,DEM,Roman McAllen,54,42,12
-Martin,4,Railroad Commissioner,,LIB,Mike Wright,12,9,3
-Martin,4,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,263,183,80
-Martin,4,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,51,41,10
-Martin,4,"Justice, Supreme Court, Place 4",,REP,John Devine,265,185,80
-Martin,4,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,49,39,10
-Martin,4,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,259,183,76
-Martin,4,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,55,41,14
-Martin,4,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,259,182,77
-Martin,4,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,51,39,12
-Martin,4,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,4,3,1
-Martin,4,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,264,185,79
-Martin,4,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,51,40,11
-Martin,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,268,187,81
-Martin,4,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,18,12,6
-Martin,4,State Senator,No. 31,REP,Kel Seliger,266,187,79
-Martin,4,State Senator,No. 31,LIB,Jack B. Westbrook,20,12,8
-Martin,4,State Representative,No. 82,REP,Tom Craddick,249,171,78
-Martin,4,State Representative,No. 82,DEM,Spencer Bounds,62,50,12
-Martin,4,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,275,190,85
-Martin,4,"District Judge, 118th Judicial District",,REP,Timothy D. Yeats,271,186,85
-Martin,4,County Judge,,REP,Bryan Cox,269,184,85
-Martin,4,District and County Clerk,,REP,Linda Lucas Gonzales,273,187,86
-Martin,4,County Treasurer,,REP,Cynthia O'Donnell,280,193,87
-Martin,4,"County Commissioner, Precinct No. 4",,REP,Koy Blocker,272,189,83
-Martin,4,"Justice of the Peace, Precinct No. 2 and 4",,REP,Nancy Bradshaw,280,193,87
+Martin,4,Railroad Commissioner,,REP,Christi Craddick,247,75,172
+Martin,4,Railroad Commissioner,,DEM,Roman McAllen,54,12,42
+Martin,4,Railroad Commissioner,,LIB,Mike Wright,12,3,9
+Martin,4,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,263,80,183
+Martin,4,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,51,10,41
+Martin,4,"Justice, Supreme Court, Place 4",,REP,John Devine,265,80,185
+Martin,4,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,49,10,39
+Martin,4,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,259,76,183
+Martin,4,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,55,14,41
+Martin,4,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,259,77,182
+Martin,4,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,51,12,39
+Martin,4,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,4,1,3
+Martin,4,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,264,79,185
+Martin,4,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,51,11,40
+Martin,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,268,81,187
+Martin,4,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,18,6,12
+Martin,4,State Senator,No. 31,REP,Kel Seliger,266,79,187
+Martin,4,State Senator,No. 31,LIB,Jack B. Westbrook,20,8,12
+Martin,4,State Representative,No. 82,REP,Tom Craddick,249,78,171
+Martin,4,State Representative,No. 82,DEM,Spencer Bounds,62,12,50
+Martin,4,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,275,85,190
+Martin,4,"District Judge, 118th Judicial District",,REP,Timothy D. Yeats,271,85,186
+Martin,4,County Judge,,REP,Bryan Cox,269,85,184
+Martin,4,District and County Clerk,,REP,Linda Lucas Gonzales,273,86,187
+Martin,4,County Treasurer,,REP,Cynthia O'Donnell,280,87,193
+Martin,4,"County Commissioner, Precinct No. 4",,REP,Koy Blocker,272,83,189
+Martin,4,"Justice of the Peace, Precinct No. 2 and 4",,REP,Nancy Bradshaw,280,87,193
 Martin,3A,Straight Party,,REP,Over Votes,0,0,0
-Martin,3A,Straight Party,,REP,Under Votes,58,28,30
+Martin,3A,Straight Party,,REP,Under Votes,58,30,28
 Martin,3A,Registered Voters,,REP,,198,,
-Martin,3A,Ballots Cast,,,,140,69,71
-Martin,3A,Straight Party,,REP,Republican Party,78,40,38
-Martin,3A,Straight Party,,DEM,Democratic Party,4,1,3
+Martin,3A,Ballots Cast,,,,140,71,69
+Martin,3A,Straight Party,,REP,Republican Party,78,38,40
+Martin,3A,Straight Party,,DEM,Democratic Party,4,3,1
 Martin,3A,Straight Party,,LIB,Libertarian Party,0,0,0
-Martin,3A,U.S. Senate,,REP,Ted Cruz,126,66,60
-Martin,3A,U.S. Senate,,DEM,Beto O'Rourke,11,3,8
-Martin,3A,U.S. Senate,,LIB,Neal M. Dikeman,1,0,1
-Martin,3A,U.S. House,11,REP,Mike Conaway,128,65,63
-Martin,3A,U.S. House,11,DEM,Jennie Lou Leeder,9,2,7
-Martin,3A,U.S. House,11,LIB,Rhett Rosenquest Smith,1,1,0
-Martin,3A,Governor,,REP,Greg Abbott,126,64,62
-Martin,3A,Governor,,DEM,Lupe Valdez,10,3,7
+Martin,3A,U.S. Senate,,REP,Ted Cruz,126,60,66
+Martin,3A,U.S. Senate,,DEM,Beto O'Rourke,11,8,3
+Martin,3A,U.S. Senate,,LIB,Neal M. Dikeman,1,1,0
+Martin,3A,U.S. House,11,REP,Mike Conaway,128,63,65
+Martin,3A,U.S. House,11,DEM,Jennie Lou Leeder,9,7,2
+Martin,3A,U.S. House,11,LIB,Rhett Rosenquest Smith,1,0,1
+Martin,3A,Governor,,REP,Greg Abbott,126,62,64
+Martin,3A,Governor,,DEM,Lupe Valdez,10,7,3
 Martin,3A,Governor,,LIB,Mark Jay Tippetts,0,0,0
-Martin,3A,Lieutenant Governor,,REP,Dan Patrick,106,58,48
-Martin,3A,Lieutenant Governor,,DEM,Mike Collier,28,9,19
-Martin,3A,Lieutenant Governor,,LIB,Kerry Douglas McKennon,2,0,2
-Martin,3A,Attorney General,,REP,Ken Paxton,118,61,57
-Martin,3A,Attorney General,,DEM,Justin Nelson,18,6,12
-Martin,3A,Attorney General,,LIB,Michael Ray Harris,1,1,0
-Martin,3A,Comptroller of Public Accounts,,REP,Glenn Hegar,125,65,60
-Martin,3A,Comptroller of Public Accounts,,DEM,Joi Chevalier,9,2,7
-Martin,3A,Comptroller of Public Accounts,,LIB,Ben Sanders,1,0,1
-Martin,3A,Commissioner of the General Land Office,,REP,George P. Bush,125,63,62
-Martin,3A,Commissioner of the General Land Office,,DEM,Miguel Suazo,11,3,8
-Martin,3A,Commissioner of the General Land Office,,LIB,Matt Piña,2,2,0
-Martin,3A,Commissioner of Agriculture,,REP,Sid Miller,126,64,62
-Martin,3A,Commissioner of Agriculture,,DEM,Kim Olson,10,3,7
-Martin,3A,Commissioner of Agriculture,,LIB,Richard Carpenter,1,1,0
-Martin,3A,Railroad Commissioner,,REP,Christi Craddick,121,63,58
-Martin,3A,Railroad Commissioner,,DEM,Roman McAllen,9,2,7
-Martin,3A,Railroad Commissioner,,LIB,Mike Wright,6,4,2
-Martin,3A,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,125,64,61
-Martin,3A,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,11,3,8
-Martin,3A,"Justice, Supreme Court, Place 4",,REP,John Devine,124,63,61
-Martin,3A,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,11,3,8
-Martin,3A,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,125,64,61
-Martin,3A,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,11,3,8
-Martin,3A,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,125,63,62
-Martin,3A,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,11,3,8
-Martin,3A,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,1,1,0
-Martin,3A,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,123,64,59
-Martin,3A,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,12,3,9
-Martin,3A,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,125,63,62
+Martin,3A,Lieutenant Governor,,REP,Dan Patrick,106,48,58
+Martin,3A,Lieutenant Governor,,DEM,Mike Collier,28,19,9
+Martin,3A,Lieutenant Governor,,LIB,Kerry Douglas McKennon,2,2,0
+Martin,3A,Attorney General,,REP,Ken Paxton,118,57,61
+Martin,3A,Attorney General,,DEM,Justin Nelson,18,12,6
+Martin,3A,Attorney General,,LIB,Michael Ray Harris,1,0,1
+Martin,3A,Comptroller of Public Accounts,,REP,Glenn Hegar,125,60,65
+Martin,3A,Comptroller of Public Accounts,,DEM,Joi Chevalier,9,7,2
+Martin,3A,Comptroller of Public Accounts,,LIB,Ben Sanders,1,1,0
+Martin,3A,Commissioner of the General Land Office,,REP,George P. Bush,125,62,63
+Martin,3A,Commissioner of the General Land Office,,DEM,Miguel Suazo,11,8,3
+Martin,3A,Commissioner of the General Land Office,,LIB,Matt Piña,2,0,2
+Martin,3A,Commissioner of Agriculture,,REP,Sid Miller,126,62,64
+Martin,3A,Commissioner of Agriculture,,DEM,Kim Olson,10,7,3
+Martin,3A,Commissioner of Agriculture,,LIB,Richard Carpenter,1,0,1
+Martin,3A,Railroad Commissioner,,REP,Christi Craddick,121,58,63
+Martin,3A,Railroad Commissioner,,DEM,Roman McAllen,9,7,2
+Martin,3A,Railroad Commissioner,,LIB,Mike Wright,6,2,4
+Martin,3A,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,125,61,64
+Martin,3A,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,11,8,3
+Martin,3A,"Justice, Supreme Court, Place 4",,REP,John Devine,124,61,63
+Martin,3A,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,11,8,3
+Martin,3A,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,125,61,64
+Martin,3A,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,11,8,3
+Martin,3A,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,125,62,63
+Martin,3A,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,11,8,3
+Martin,3A,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,1,0,1
+Martin,3A,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,123,59,64
+Martin,3A,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,12,9,3
+Martin,3A,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,125,62,63
 Martin,3A,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,4,2,2
-Martin,3A,State Senator,No. 31,REP,Kel Seliger,130,66,64
+Martin,3A,State Senator,No. 31,REP,Kel Seliger,130,64,66
 Martin,3A,State Senator,No. 31,LIB,Jack B. Westbrook,2,1,1
-Martin,3A,State Representative,No. 82,REP,Tom Craddick,121,64,57
-Martin,3A,State Representative,No. 82,DEM,Spencer Bounds,15,5,10
-Martin,3A,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,128,66,62
-Martin,3A,"District Judge, 118th Judicial District",,REP,Timothy D. Yeats,129,66,63
-Martin,3A,County Judge,,REP,Bryan Cox,129,64,65
-Martin,3A,District and County Clerk,,REP,Linda Lucas Gonzales,128,65,63
-Martin,3A,County Treasurer,,REP,Cynthia O'Donnell,130,66,64
+Martin,3A,State Representative,No. 82,REP,Tom Craddick,121,57,64
+Martin,3A,State Representative,No. 82,DEM,Spencer Bounds,15,10,5
+Martin,3A,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,128,62,66
+Martin,3A,"District Judge, 118th Judicial District",,REP,Timothy D. Yeats,129,63,66
+Martin,3A,County Judge,,REP,Bryan Cox,129,65,64
+Martin,3A,District and County Clerk,,REP,Linda Lucas Gonzales,128,63,65
+Martin,3A,County Treasurer,,REP,Cynthia O'Donnell,130,64,66
 Martin,3A,"Justice of the Peace, Precinct No. 1 and 3",,REP,Jarrell W. Hedrick,132,66,66
 Martin,4A,Straight Party,,REP,Over Votes,0,0,0
-Martin,4A,Straight Party,,REP,Under Votes,46,29,17
+Martin,4A,Straight Party,,REP,Under Votes,46,17,29
 Martin,4A,Registered Voters,,REP,,173,,
-Martin,4A,Ballots Cast,,,,109,74,35
-Martin,4A,Straight Party,,REP,Republican Party,62,44,18
-Martin,4A,Straight Party,,DEM,Democratic Party,1,1,0
+Martin,4A,Ballots Cast,,,,109,35,74
+Martin,4A,Straight Party,,REP,Republican Party,62,18,44
+Martin,4A,Straight Party,,DEM,Democratic Party,1,0,1
 Martin,4A,Straight Party,,LIB,Libertarian Party,0,0,0
-Martin,4A,U.S. Senate,,REP,Ted Cruz,107,73,34
+Martin,4A,U.S. Senate,,REP,Ted Cruz,107,34,73
 Martin,4A,U.S. Senate,,DEM,Beto O'Rourke,2,1,1
 Martin,4A,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0
-Martin,4A,U.S. House,11,REP,Mike Conaway,108,73,35
-Martin,4A,U.S. House,11,DEM,Jennie Lou Leeder,1,1,0
+Martin,4A,U.S. House,11,REP,Mike Conaway,108,35,73
+Martin,4A,U.S. House,11,DEM,Jennie Lou Leeder,1,0,1
 Martin,4A,U.S. House,11,LIB,Rhett Rosenquest Smith,0,0,0
-Martin,4A,Governor,,REP,Greg Abbott,104,71,33
-Martin,4A,Governor,,DEM,Lupe Valdez,3,2,1
+Martin,4A,Governor,,REP,Greg Abbott,104,33,71
+Martin,4A,Governor,,DEM,Lupe Valdez,3,1,2
 Martin,4A,Governor,,LIB,Mark Jay Tippetts,2,1,1
-Martin,4A,Lieutenant Governor,,REP,Dan Patrick,93,64,29
-Martin,4A,Lieutenant Governor,,DEM,Mike Collier,14,8,6
-Martin,4A,Lieutenant Governor,,LIB,Kerry Douglas McKennon,2,2,0
-Martin,4A,Attorney General,,REP,Ken Paxton,105,71,34
-Martin,4A,Attorney General,,DEM,Justin Nelson,4,3,1
+Martin,4A,Lieutenant Governor,,REP,Dan Patrick,93,29,64
+Martin,4A,Lieutenant Governor,,DEM,Mike Collier,14,6,8
+Martin,4A,Lieutenant Governor,,LIB,Kerry Douglas McKennon,2,0,2
+Martin,4A,Attorney General,,REP,Ken Paxton,105,34,71
+Martin,4A,Attorney General,,DEM,Justin Nelson,4,1,3
 Martin,4A,Attorney General,,LIB,Michael Ray Harris,0,0,0
-Martin,4A,Comptroller of Public Accounts,,REP,Glenn Hegar,105,71,34
-Martin,4A,Comptroller of Public Accounts,,DEM,Joi Chevalier,3,2,1
-Martin,4A,Comptroller of Public Accounts,,LIB,Ben Sanders,1,1,0
-Martin,4A,Commissioner of the General Land Office,,REP,George P. Bush,103,69,34
-Martin,4A,Commissioner of the General Land Office,,DEM,Miguel Suazo,5,4,1
-Martin,4A,Commissioner of the General Land Office,,LIB,Matt Piña,1,1,0
-Martin,4A,Commissioner of Agriculture,,REP,Sid Miller,106,71,35
-Martin,4A,Commissioner of Agriculture,,DEM,Kim Olson,2,2,0
-Martin,4A,Commissioner of Agriculture,,LIB,Richard Carpenter,1,1,0
-Martin,4A,Railroad Commissioner,,REP,Christi Craddick,107,73,34
-Martin,4A,Railroad Commissioner,,DEM,Roman McAllen,1,1,0
-Martin,4A,Railroad Commissioner,,LIB,Mike Wright,1,0,1
-Martin,4A,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,105,71,34
-Martin,4A,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,3,2,1
-Martin,4A,"Justice, Supreme Court, Place 4",,REP,John Devine,104,70,34
-Martin,4A,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,4,3,1
-Martin,4A,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,104,70,34
-Martin,4A,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,4,3,1
-Martin,4A,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,105,71,34
-Martin,4A,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,3,2,1
+Martin,4A,Comptroller of Public Accounts,,REP,Glenn Hegar,105,34,71
+Martin,4A,Comptroller of Public Accounts,,DEM,Joi Chevalier,3,1,2
+Martin,4A,Comptroller of Public Accounts,,LIB,Ben Sanders,1,0,1
+Martin,4A,Commissioner of the General Land Office,,REP,George P. Bush,103,34,69
+Martin,4A,Commissioner of the General Land Office,,DEM,Miguel Suazo,5,1,4
+Martin,4A,Commissioner of the General Land Office,,LIB,Matt Piña,1,0,1
+Martin,4A,Commissioner of Agriculture,,REP,Sid Miller,106,35,71
+Martin,4A,Commissioner of Agriculture,,DEM,Kim Olson,2,0,2
+Martin,4A,Commissioner of Agriculture,,LIB,Richard Carpenter,1,0,1
+Martin,4A,Railroad Commissioner,,REP,Christi Craddick,107,34,73
+Martin,4A,Railroad Commissioner,,DEM,Roman McAllen,1,0,1
+Martin,4A,Railroad Commissioner,,LIB,Mike Wright,1,1,0
+Martin,4A,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,105,34,71
+Martin,4A,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,3,1,2
+Martin,4A,"Justice, Supreme Court, Place 4",,REP,John Devine,104,34,70
+Martin,4A,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,4,1,3
+Martin,4A,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,104,34,70
+Martin,4A,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,4,1,3
+Martin,4A,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,105,34,71
+Martin,4A,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,3,1,2
 Martin,4A,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,0,0,0
-Martin,4A,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,105,71,34
-Martin,4A,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,3,2,1
-Martin,4A,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,106,72,34
-Martin,4A,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,1,0,1
-Martin,4A,State Senator,No. 31,REP,Kel Seliger,108,73,35
+Martin,4A,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,105,34,71
+Martin,4A,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,3,1,2
+Martin,4A,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,106,34,72
+Martin,4A,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,1,1,0
+Martin,4A,State Senator,No. 31,REP,Kel Seliger,108,35,73
 Martin,4A,State Senator,No. 31,LIB,Jack B. Westbrook,0,0,0
-Martin,4A,State Representative,No. 82,REP,Tom Craddick,105,72,33
-Martin,4A,State Representative,No. 82,DEM,Spencer Bounds,3,1,2
-Martin,4A,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,106,71,35
-Martin,4A,"District Judge, 118th Judicial District",,REP,Timothy D. Yeats,105,70,35
-Martin,4A,County Judge,,REP,Bryan Cox,104,69,35
-Martin,4A,District and County Clerk,,REP,Linda Lucas Gonzales,102,67,35
-Martin,4A,County Treasurer,,REP,Cynthia O'Donnell,104,69,35
-Martin,4A,"County Commissioner, Precinct No. 4",,REP,Koy Blocker,104,69,35
-Martin,4A,"Justice of the Peace, Precinct No. 2 and 4",,REP,Nancy Bradshaw,104,69,35
-Martin,STANTON,City of Stanton Proposition A,,,For,395,252,143
-Martin,STANTON,City of Stanton Proposition A,,,Against,196,142,54
-Martin,MIDLAND,Council,1,||,A. Scott Dufford,5,5,0
-Martin,MIDLAND,"Council, At-Large",,||,Michael Trost,4,4,0
-Martin,MIDLAND,"Council, At-Large",,||,Spencer Robnett,1,1,0
-Martin,MIDLAND,"Council, At-Large",,||,Chase Gardaphe,2,2,0
+Martin,4A,State Representative,No. 82,REP,Tom Craddick,105,33,72
+Martin,4A,State Representative,No. 82,DEM,Spencer Bounds,3,2,1
+Martin,4A,"Chief Justice, 11th Court of Appeals District",,REP,John Bailey,106,35,71
+Martin,4A,"District Judge, 118th Judicial District",,REP,Timothy D. Yeats,105,35,70
+Martin,4A,County Judge,,REP,Bryan Cox,104,35,69
+Martin,4A,District and County Clerk,,REP,Linda Lucas Gonzales,102,35,67
+Martin,4A,County Treasurer,,REP,Cynthia O'Donnell,104,35,69
+Martin,4A,"County Commissioner, Precinct No. 4",,REP,Koy Blocker,104,35,69
+Martin,4A,"Justice of the Peace, Precinct No. 2 and 4",,REP,Nancy Bradshaw,104,35,69
+Martin,STANTON,City of Stanton Proposition A,,,For,395,143,252
+Martin,STANTON,City of Stanton Proposition A,,,Against,196,54,142
+Martin,MIDLAND,Council,1,||,A. Scott Dufford,5,0,5
+Martin,MIDLAND,"Council, At-Large",,||,Michael Trost,4,0,4
+Martin,MIDLAND,"Council, At-Large",,||,Spencer Robnett,1,0,1
+Martin,MIDLAND,"Council, At-Large",,||,Chase Gardaphe,2,0,2
 Martin,,,,,,,,
 Martin,,,,,,,,
 Martin,,,,,,,,

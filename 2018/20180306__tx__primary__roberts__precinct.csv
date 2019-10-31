@@ -1,60 +1,60 @@
-county,precinct,office,district,party,candidate,votes,early_voting,election_day
+county,precinct,office,district,party,candidate,votes,election_day,early_voting
 Roberts,1,U.S. Senate,,REP,Mary Miller,6,3,3
-Roberts,1,U.S. Senate,,REP,"Bruce Jacobson, Jr.",1,0,1
+Roberts,1,U.S. Senate,,REP,"Bruce Jacobson, Jr.",1,1,0
 Roberts,1,U.S. Senate,,REP,Stefano de Stefano,0,0,0
 Roberts,1,U.S. Senate,,REP,Over Votes,0,0,0
-Roberts,1,U.S. Senate,,REP,Under Votes,3,2,1
+Roberts,1,U.S. Senate,,REP,Under Votes,3,1,2
 Roberts,1,Registered Voters,,REP,,358,,
-Roberts,1,Ballots Cast,,REP,,76,27,0
+Roberts,1,Ballots Cast,,REP,,76,0,27
 Roberts,1,U.S. Senate,,REP,Geraldine Sam,0,0,0
-Roberts,1,U.S. Senate,,REP,Ted Cruz,65,22,43
-Roberts,1,U.S. House,13,REP,MacThornberry,64,25,39
-Roberts,1,Governor,,REP,SECEDE Kilgore,3,2,1
-Roberts,1,Governor,,REP,Barbara Krueger,3,1,2
-Roberts,1,Governor,,REP,Greg Abbott,65,22,43
-Roberts,1,Lieutenant Governor,,REP,Dan Patrick,41,14,27
-Roberts,1,Lieutenant Governor,,REP,Scott Milder,26,9,17
-Roberts,1,Attorney General,,REP,Ken Paxton,61,22,39
-Roberts,1,Comptroller of Public Accounts,,REP,Glenn Hegar,54,19,35
-Roberts,1,Commissioner of the General Land Office,,REP,Davey Edwards,3,0,3
-Roberts,1,Commissioner of the General Land Office,,REP,Rick Range,3,0,3
-Roberts,1,Commissioner of the General Land Office,,REP,Jerry Patterson,13,2,11
-Roberts,1,Commissioner of the General Land Office,,REP,George P. Bush,53,23,30
-Roberts,1,Commissioner of Agriculture,,REP,Sid Miller,42,13,29
-Roberts,1,Commissioner of Agriculture,,REP,Trey Blocker,12,3,9
-Roberts,1,Commissioner of Agriculture,,REP,Jim Hogan,9,5,4
-Roberts,1,Railroad Commissioner,,REP,Christi Craddick,56,19,37
-Roberts,1,Railroad Commissioner,,REP,Weston Martinez,8,3,5
-Roberts,1,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,53,18,35
-Roberts,1,"Justice, Supreme Court, Place 4",,REP,John Devine,53,18,35
-Roberts,1,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,52,17,35
-Roberts,1,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,24,6,18
-Roberts,1,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,27,11,16
-Roberts,1,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,51,16,35
-Roberts,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,14,5,9
-Roberts,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,16,4,12
-Roberts,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,20,7,13
-Roberts,1,State Senator,31,REP,Victor Leal,17,10,7
-Roberts,1,State Senator,31,REP,Kel Seliger,44,12,32
-Roberts,1,State Senator,31,REP,Mike Canon,10,4,6
-Roberts,1,State Representative,88,REP,Ken King,46,16,30
-Roberts,1,State Representative,88,REP,Jason Huddleston,16,5,11
+Roberts,1,U.S. Senate,,REP,Ted Cruz,65,43,22
+Roberts,1,U.S. House,13,REP,MacThornberry,64,39,25
+Roberts,1,Governor,,REP,SECEDE Kilgore,3,1,2
+Roberts,1,Governor,,REP,Barbara Krueger,3,2,1
+Roberts,1,Governor,,REP,Greg Abbott,65,43,22
+Roberts,1,Lieutenant Governor,,REP,Dan Patrick,41,27,14
+Roberts,1,Lieutenant Governor,,REP,Scott Milder,26,17,9
+Roberts,1,Attorney General,,REP,Ken Paxton,61,39,22
+Roberts,1,Comptroller of Public Accounts,,REP,Glenn Hegar,54,35,19
+Roberts,1,Commissioner of the General Land Office,,REP,Davey Edwards,3,3,0
+Roberts,1,Commissioner of the General Land Office,,REP,Rick Range,3,3,0
+Roberts,1,Commissioner of the General Land Office,,REP,Jerry Patterson,13,11,2
+Roberts,1,Commissioner of the General Land Office,,REP,George P. Bush,53,30,23
+Roberts,1,Commissioner of Agriculture,,REP,Sid Miller,42,29,13
+Roberts,1,Commissioner of Agriculture,,REP,Trey Blocker,12,9,3
+Roberts,1,Commissioner of Agriculture,,REP,Jim Hogan,9,4,5
+Roberts,1,Railroad Commissioner,,REP,Christi Craddick,56,37,19
+Roberts,1,Railroad Commissioner,,REP,Weston Martinez,8,5,3
+Roberts,1,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,53,35,18
+Roberts,1,"Justice, Supreme Court, Place 4",,REP,John Devine,53,35,18
+Roberts,1,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,52,35,17
+Roberts,1,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,24,18,6
+Roberts,1,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,27,16,11
+Roberts,1,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,51,35,16
+Roberts,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,14,9,5
+Roberts,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,16,12,4
+Roberts,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,20,13,7
+Roberts,1,State Senator,31,REP,Victor Leal,17,7,10
+Roberts,1,State Senator,31,REP,Kel Seliger,44,32,12
+Roberts,1,State Senator,31,REP,Mike Canon,10,6,4
+Roberts,1,State Representative,88,REP,Ken King,46,30,16
+Roberts,1,State Representative,88,REP,Jason Huddleston,16,11,5
 Roberts,1,State Representative,88,REP,Richard Beyea,12,6,6
-Roberts,1,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,51,16,35
-Roberts,1,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,51,17,34
-Roberts,1,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,59,21,38
-Roberts,1,County Judge,,REP,Rick Tennant,66,22,44
-Roberts,1,District and County Clerk,,REP,Toni Rankin,69,25,44
-Roberts,1,County Treasurer,,REP,Amy Tennant,66,25,41
-Roberts,1,Justice of the Peace,,REP,"Tresa ""Teda"" Seuhs",67,23,44
-Roberts,1,County Chairman,,REP,Steve Hale,66,23,43
+Roberts,1,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,51,35,16
+Roberts,1,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,51,34,17
+Roberts,1,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,59,38,21
+Roberts,1,County Judge,,REP,Rick Tennant,66,44,22
+Roberts,1,District and County Clerk,,REP,Toni Rankin,69,44,25
+Roberts,1,County Treasurer,,REP,Amy Tennant,66,41,25
+Roberts,1,Justice of the Peace,,REP,"Tresa ""Teda"" Seuhs",67,44,23
+Roberts,1,County Chairman,,REP,Steve Hale,66,43,23
 Roberts,1,U.S. Senate,,DEM,Over Votes,0,0,0
 Roberts,1,U.S. Senate,,DEM,Under Votes,0,0,0
 Roberts,1,Registered Voters,,DEM,,358,,
-Roberts,1,Ballots Cast,,DEM,,76,27,0
+Roberts,1,Ballots Cast,,DEM,,76,0,27
 Roberts,1,U.S. Senate,,DEM,Beto O'Rourke,0,0,0
 Roberts,1,U.S. Senate,,DEM,Sema Hernandez,0,0,0
-Roberts,1,U.S. Senate,,DEM,Edward Kimbrough,1,0,1
+Roberts,1,U.S. Senate,,DEM,Edward Kimbrough,1,1,0
 Roberts,1,U.S. House,13,DEM,Greg Sagan,0,0,0
 Roberts,1,Governor,,DEM,James Jolly Clark,0,0,0
 Roberts,1,Governor,,DEM,Tom Wakely,0,0,0
@@ -62,125 +62,125 @@ Roberts,1,Governor,,DEM,Grady Yarbrough,0,0,0
 Roberts,1,Governor,,DEM,Joe Mumbach,0,0,0
 Roberts,1,Governor,,DEM,Lupe Valdez,0,0,0
 Roberts,1,Governor,,DEM,"Cedric Davis, Sr.",0,0,0
-Roberts,1,Governor,,DEM,Andrew White,1,0,1
+Roberts,1,Governor,,DEM,Andrew White,1,1,0
 Roberts,1,Governor,,DEM,Jeffrey Payne,0,0,0
 Roberts,1,Governor,,DEM,Adrian Ocegueda,0,0,0
-Roberts,1,Lieutenant Governor,,DEM,Mike Collier,1,0,1
+Roberts,1,Lieutenant Governor,,DEM,Mike Collier,1,1,0
 Roberts,1,Lieutenant Governor,,DEM,Michael Cooper,0,0,0
-Roberts,1,Attorney General,,DEM,Justin Nelson,1,0,1
+Roberts,1,Attorney General,,DEM,Justin Nelson,1,1,0
 Roberts,1,Comptroller of Public Accounts,,DEM,Tim Mahoney,0,0,0
 Roberts,1,Comptroller of Public Accounts,,DEM,Joi Chevalier,0,0,0
 Roberts,1,Commissioner of the General Land Office,,DEM,Tex Morgan,0,0,0
 Roberts,1,Commissioner of the General Land Office,,DEM,Miguel Suazo,0,0,0
-Roberts,1,Commissioner of Agriculture,,DEM,Kim Olson,1,0,1
+Roberts,1,Commissioner of Agriculture,,DEM,Kim Olson,1,1,0
 Roberts,1,Railroad Commissioner,,DEM,Chris Spellmon,0,0,0
-Roberts,1,Railroad Commissioner,,DEM,Roman McAllen,1,0,1
-Roberts,1,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,1,0,1
+Roberts,1,Railroad Commissioner,,DEM,Roman McAllen,1,1,0
+Roberts,1,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,1,1,0
 Roberts,1,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,0,0,0
 Roberts,1,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,0,0,0
-Roberts,1,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,1,0,1
+Roberts,1,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,1,1,0
 Roberts,1,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,0,0,0
 Roberts,1,State Representative,88,DEM,Ezekiel Barron,0,0,0
-Roberts,1,Proposition #1 Right to a 21st Century Public Education:,,DEM,Yes,1,0,1
+Roberts,1,Proposition #1 Right to a 21st Century Public Education:,,DEM,Yes,1,1,0
 Roberts,1,Proposition #1 Right to a 21st Century Public Education:,,DEM,No,0,0,0
-Roberts,1,Proposition #2 Student Loan Debt:,,DEM,Yes,1,0,1
+Roberts,1,Proposition #2 Student Loan Debt:,,DEM,Yes,1,1,0
 Roberts,1,Proposition #2 Student Loan Debt:,,DEM,No,0,0,0
-Roberts,1,Proposition #3 Right to Healthcare:,,DEM,Yes,1,0,1
+Roberts,1,Proposition #3 Right to Healthcare:,,DEM,Yes,1,1,0
 Roberts,1,Proposition #3 Right to Healthcare:,,DEM,No,0,0,0
-Roberts,1,Proposition #4 Right to Economic Security:,,DEM,Yes,1,0,1
+Roberts,1,Proposition #4 Right to Economic Security:,,DEM,Yes,1,1,0
 Roberts,1,Proposition #4 Right to Economic Security:,,DEM,No,0,0,0
-Roberts,1,Proposition #5 National Jobs Program:,,DEM,Yes,1,0,1
+Roberts,1,Proposition #5 National Jobs Program:,,DEM,Yes,1,1,0
 Roberts,1,Proposition #5 National Jobs Program:,,DEM,No,0,0,0
-Roberts,1,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,DEM,Yes,1,0,1
+Roberts,1,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,DEM,Yes,1,1,0
 Roberts,1,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,DEM,No,0,0,0
-Roberts,1,Proposition #7 Right to Dignity & Respect:,,DEM,Yes,1,0,1
+Roberts,1,Proposition #7 Right to Dignity & Respect:,,DEM,Yes,1,1,0
 Roberts,1,Proposition #7 Right to Dignity & Respect:,,DEM,No,0,0,0
-Roberts,1,Proposition #8 Right to Housing:,,DEM,Yes,1,0,1
+Roberts,1,Proposition #8 Right to Housing:,,DEM,Yes,1,1,0
 Roberts,1,Proposition #8 Right to Housing:,,DEM,No,0,0,0
-Roberts,1,Proposition #9 Right to Vote:,,DEM,Yes,1,0,1
+Roberts,1,Proposition #9 Right to Vote:,,DEM,Yes,1,1,0
 Roberts,1,Proposition #9 Right to Vote:,,DEM,No,0,0,0
-Roberts,1,Proposition #10 Right to a Fair Criminal Justice System:,,DEM,Yes,1,0,1
+Roberts,1,Proposition #10 Right to a Fair Criminal Justice System:,,DEM,Yes,1,1,0
 Roberts,1,Proposition #10 Right to a Fair Criminal Justice System:,,DEM,No,0,0,0
-Roberts,1,Proposition #11 Immigrant Rights:,,DEM,Yes,1,0,1
+Roberts,1,Proposition #11 Immigrant Rights:,,DEM,Yes,1,1,0
 Roberts,1,Proposition #11 Immigrant Rights:,,DEM,No,0,0,0
-Roberts,1,Proposition #12 Right to Fair Taxation:,,DEM,Yes,1,0,1
+Roberts,1,Proposition #12 Right to Fair Taxation:,,DEM,Yes,1,1,0
 Roberts,1,Proposition #12 Right to Fair Taxation:,,DEM,No,0,0,0
-Roberts,1,Proposition 1,,REP,YES,44,14,30
-Roberts,1,Proposition 1,,REP,NO,22,8,14
-Roberts,1,Proposition 2,,REP,YES,64,24,40
-Roberts,1,Proposition 2,,REP,NO,7,1,6
-Roberts,1,Proposition 3,,REP,YES,58,21,37
-Roberts,1,Proposition 3,,REP,NO,11,4,7
-Roberts,1,Proposition 4,,REP,YES,65,24,41
-Roberts,1,Proposition 4,,REP,NO,7,1,6
-Roberts,1,Proposition 5,,REP,YES,43,20,23
-Roberts,1,Proposition 5,,REP,NO,30,7,23
-Roberts,1,Proposition 6,,REP,YES,68,26,42
-Roberts,1,Proposition 6,,REP,NO,5,0,5
-Roberts,1,Proposition 7,,REP,YES,52,21,31
-Roberts,1,Proposition 7,,REP,NO,18,4,14
-Roberts,1,Proposition 8,,REP,YES,71,25,46
-Roberts,1,Proposition 8,,REP,NO,3,1,2
-Roberts,1,Proposition 9,,REP,YES,69,27,42
-Roberts,1,Proposition 9,,REP,NO,6,0,6
-Roberts,1,Proposition 10,,REP,YES,62,21,41
-Roberts,1,Proposition 10,,REP,NO,6,2,4
-Roberts,1,Proposition 11,,REP,YES,63,25,38
-Roberts,1,Proposition 11,,REP,NO,12,2,10
-Roberts,2,U.S. Senate,,REP,Mary Miller,1,0,1
-Roberts,2,U.S. Senate,,REP,"Bruce Jacobson, Jr.",4,1,3
-Roberts,2,U.S. Senate,,REP,Stefano de Stefano,1,0,1
+Roberts,1,Proposition 1,,REP,YES,44,30,14
+Roberts,1,Proposition 1,,REP,NO,22,14,8
+Roberts,1,Proposition 2,,REP,YES,64,40,24
+Roberts,1,Proposition 2,,REP,NO,7,6,1
+Roberts,1,Proposition 3,,REP,YES,58,37,21
+Roberts,1,Proposition 3,,REP,NO,11,7,4
+Roberts,1,Proposition 4,,REP,YES,65,41,24
+Roberts,1,Proposition 4,,REP,NO,7,6,1
+Roberts,1,Proposition 5,,REP,YES,43,23,20
+Roberts,1,Proposition 5,,REP,NO,30,23,7
+Roberts,1,Proposition 6,,REP,YES,68,42,26
+Roberts,1,Proposition 6,,REP,NO,5,5,0
+Roberts,1,Proposition 7,,REP,YES,52,31,21
+Roberts,1,Proposition 7,,REP,NO,18,14,4
+Roberts,1,Proposition 8,,REP,YES,71,46,25
+Roberts,1,Proposition 8,,REP,NO,3,2,1
+Roberts,1,Proposition 9,,REP,YES,69,42,27
+Roberts,1,Proposition 9,,REP,NO,6,6,0
+Roberts,1,Proposition 10,,REP,YES,62,41,21
+Roberts,1,Proposition 10,,REP,NO,6,4,2
+Roberts,1,Proposition 11,,REP,YES,63,38,25
+Roberts,1,Proposition 11,,REP,NO,12,10,2
+Roberts,2,U.S. Senate,,REP,Mary Miller,1,1,0
+Roberts,2,U.S. Senate,,REP,"Bruce Jacobson, Jr.",4,3,1
+Roberts,2,U.S. Senate,,REP,Stefano de Stefano,1,1,0
 Roberts,2,U.S. Senate,,REP,Over Votes,0,0,0
-Roberts,2,U.S. Senate,,REP,Under Votes,3,0,3
+Roberts,2,U.S. Senate,,REP,Under Votes,3,3,0
 Roberts,2,Registered Voters,,REP,,324,,
-Roberts,2,Ballots Cast,,REP,,80,34,0
-Roberts,2,U.S. Senate,,REP,Geraldine Sam,1,1,0
-Roberts,2,U.S. Senate,,REP,Ted Cruz,70,32,38
-Roberts,2,U.S. House,13,REP,MacThornberry,62,26,36
-Roberts,2,Governor,,REP,SECEDE Kilgore,2,0,2
-Roberts,2,Governor,,REP,Barbara Krueger,10,3,7
-Roberts,2,Governor,,REP,Greg Abbott,65,31,34
+Roberts,2,Ballots Cast,,REP,,80,0,34
+Roberts,2,U.S. Senate,,REP,Geraldine Sam,1,0,1
+Roberts,2,U.S. Senate,,REP,Ted Cruz,70,38,32
+Roberts,2,U.S. House,13,REP,MacThornberry,62,36,26
+Roberts,2,Governor,,REP,SECEDE Kilgore,2,2,0
+Roberts,2,Governor,,REP,Barbara Krueger,10,7,3
+Roberts,2,Governor,,REP,Greg Abbott,65,34,31
 Roberts,2,Lieutenant Governor,,REP,Dan Patrick,46,23,23
-Roberts,2,Lieutenant Governor,,REP,Scott Milder,31,9,22
-Roberts,2,Attorney General,,REP,Ken Paxton,67,28,39
-Roberts,2,Comptroller of Public Accounts,,REP,Glenn Hegar,64,27,37
+Roberts,2,Lieutenant Governor,,REP,Scott Milder,31,22,9
+Roberts,2,Attorney General,,REP,Ken Paxton,67,39,28
+Roberts,2,Comptroller of Public Accounts,,REP,Glenn Hegar,64,37,27
 Roberts,2,Commissioner of the General Land Office,,REP,Davey Edwards,2,1,1
-Roberts,2,Commissioner of the General Land Office,,REP,Rick Range,3,2,1
-Roberts,2,Commissioner of the General Land Office,,REP,Jerry Patterson,19,10,9
-Roberts,2,Commissioner of the General Land Office,,REP,George P. Bush,49,21,28
-Roberts,2,Commissioner of Agriculture,,REP,Sid Miller,40,13,27
-Roberts,2,Commissioner of Agriculture,,REP,Trey Blocker,16,9,7
-Roberts,2,Commissioner of Agriculture,,REP,Jim Hogan,9,3,6
-Roberts,2,Railroad Commissioner,,REP,Christi Craddick,53,25,28
-Roberts,2,Railroad Commissioner,,REP,Weston Martinez,13,3,10
-Roberts,2,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,58,23,35
-Roberts,2,"Justice, Supreme Court, Place 4",,REP,John Devine,58,23,35
-Roberts,2,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,59,24,35
-Roberts,2,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,24,14,10
-Roberts,2,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,38,11,27
-Roberts,2,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,54,20,34
-Roberts,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,16,7,9
-Roberts,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,17,5,12
-Roberts,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,26,11,15
-Roberts,2,State Senator,31,REP,Victor Leal,18,10,8
-Roberts,2,State Senator,31,REP,Kel Seliger,40,15,25
-Roberts,2,State Senator,31,REP,Mike Canon,19,8,11
-Roberts,2,State Representative,88,REP,Ken King,39,16,23
+Roberts,2,Commissioner of the General Land Office,,REP,Rick Range,3,1,2
+Roberts,2,Commissioner of the General Land Office,,REP,Jerry Patterson,19,9,10
+Roberts,2,Commissioner of the General Land Office,,REP,George P. Bush,49,28,21
+Roberts,2,Commissioner of Agriculture,,REP,Sid Miller,40,27,13
+Roberts,2,Commissioner of Agriculture,,REP,Trey Blocker,16,7,9
+Roberts,2,Commissioner of Agriculture,,REP,Jim Hogan,9,6,3
+Roberts,2,Railroad Commissioner,,REP,Christi Craddick,53,28,25
+Roberts,2,Railroad Commissioner,,REP,Weston Martinez,13,10,3
+Roberts,2,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,58,35,23
+Roberts,2,"Justice, Supreme Court, Place 4",,REP,John Devine,58,35,23
+Roberts,2,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,59,35,24
+Roberts,2,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,24,10,14
+Roberts,2,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,38,27,11
+Roberts,2,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,54,34,20
+Roberts,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,16,9,7
+Roberts,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,17,12,5
+Roberts,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,26,15,11
+Roberts,2,State Senator,31,REP,Victor Leal,18,8,10
+Roberts,2,State Senator,31,REP,Kel Seliger,40,25,15
+Roberts,2,State Senator,31,REP,Mike Canon,19,11,8
+Roberts,2,State Representative,88,REP,Ken King,39,23,16
 Roberts,2,State Representative,88,REP,Jason Huddleston,16,8,8
-Roberts,2,State Representative,88,REP,Richard Beyea,24,10,14
-Roberts,2,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,58,23,35
-Roberts,2,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,53,21,32
-Roberts,2,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,65,27,38
-Roberts,2,County Judge,,REP,Rick Tennant,71,32,39
-Roberts,2,District and County Clerk,,REP,Toni Rankin,73,32,41
-Roberts,2,County Treasurer,,REP,Amy Tennant,66,29,37
-Roberts,2,"County Commissioner, Precinct No. 2",,REP,Ken Gill,63,28,35
-Roberts,2,Justice of the Peace,,REP,"Tresa ""Teda"" Seuhs",71,31,40
-Roberts,2,County Chairman,,REP,Steve Hale,69,29,40
+Roberts,2,State Representative,88,REP,Richard Beyea,24,14,10
+Roberts,2,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,58,35,23
+Roberts,2,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,53,32,21
+Roberts,2,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,65,38,27
+Roberts,2,County Judge,,REP,Rick Tennant,71,39,32
+Roberts,2,District and County Clerk,,REP,Toni Rankin,73,41,32
+Roberts,2,County Treasurer,,REP,Amy Tennant,66,37,29
+Roberts,2,"County Commissioner, Precinct No. 2",,REP,Ken Gill,63,35,28
+Roberts,2,Justice of the Peace,,REP,"Tresa ""Teda"" Seuhs",71,40,31
+Roberts,2,County Chairman,,REP,Steve Hale,69,40,29
 Roberts,2,U.S. Senate,,DEM,Over Votes,0,0,0
 Roberts,2,U.S. Senate,,DEM,Under Votes,0,0,0
 Roberts,2,Registered Voters,,DEM,,324,,
-Roberts,2,Ballots Cast,,DEM,,80,34,0
+Roberts,2,Ballots Cast,,DEM,,80,0,34
 Roberts,2,U.S. Senate,,DEM,Beto O'Rourke,0,0,0
 Roberts,2,U.S. Senate,,DEM,Sema Hernandez,0,0,0
 Roberts,2,U.S. Senate,,DEM,Edward Kimbrough,0,0,0
@@ -234,81 +234,81 @@ Roberts,2,Proposition #11 Immigrant Rights:,,DEM,Yes,0,0,0
 Roberts,2,Proposition #11 Immigrant Rights:,,DEM,No,0,0,0
 Roberts,2,Proposition #12 Right to Fair Taxation:,,DEM,Yes,0,0,0
 Roberts,2,Proposition #12 Right to Fair Taxation:,,DEM,No,0,0,0
-Roberts,2,Proposition 1,,REP,YES,45,19,26
-Roberts,2,Proposition 1,,REP,NO,30,14,16
-Roberts,2,Proposition 2,,REP,YES,71,32,39
-Roberts,2,Proposition 2,,REP,NO,5,2,3
-Roberts,2,Proposition 3,,REP,YES,71,31,40
+Roberts,2,Proposition 1,,REP,YES,45,26,19
+Roberts,2,Proposition 1,,REP,NO,30,16,14
+Roberts,2,Proposition 2,,REP,YES,71,39,32
+Roberts,2,Proposition 2,,REP,NO,5,3,2
+Roberts,2,Proposition 3,,REP,YES,71,40,31
 Roberts,2,Proposition 3,,REP,NO,4,2,2
-Roberts,2,Proposition 4,,REP,YES,71,32,39
-Roberts,2,Proposition 4,,REP,NO,6,2,4
-Roberts,2,Proposition 5,,REP,YES,40,17,23
-Roberts,2,Proposition 5,,REP,NO,37,16,21
-Roberts,2,Proposition 6,,REP,YES,77,33,44
+Roberts,2,Proposition 4,,REP,YES,71,39,32
+Roberts,2,Proposition 4,,REP,NO,6,4,2
+Roberts,2,Proposition 5,,REP,YES,40,23,17
+Roberts,2,Proposition 5,,REP,NO,37,21,16
+Roberts,2,Proposition 6,,REP,YES,77,44,33
 Roberts,2,Proposition 6,,REP,NO,0,0,0
-Roberts,2,Proposition 7,,REP,YES,53,24,29
-Roberts,2,Proposition 7,,REP,NO,19,7,12
-Roberts,2,Proposition 8,,REP,YES,77,34,43
-Roberts,2,Proposition 8,,REP,NO,1,0,1
-Roberts,2,Proposition 9,,REP,YES,72,30,42
-Roberts,2,Proposition 9,,REP,NO,3,1,2
-Roberts,2,Proposition 10,,REP,YES,70,29,41
-Roberts,2,Proposition 10,,REP,NO,8,5,3
-Roberts,2,Proposition 11,,REP,YES,73,32,41
-Roberts,2,Proposition 11,,REP,NO,5,2,3
+Roberts,2,Proposition 7,,REP,YES,53,29,24
+Roberts,2,Proposition 7,,REP,NO,19,12,7
+Roberts,2,Proposition 8,,REP,YES,77,43,34
+Roberts,2,Proposition 8,,REP,NO,1,1,0
+Roberts,2,Proposition 9,,REP,YES,72,42,30
+Roberts,2,Proposition 9,,REP,NO,3,2,1
+Roberts,2,Proposition 10,,REP,YES,70,41,29
+Roberts,2,Proposition 10,,REP,NO,8,3,5
+Roberts,2,Proposition 11,,REP,YES,73,41,32
+Roberts,2,Proposition 11,,REP,NO,5,3,2
 Roberts,3,U.S. Senate,,REP,Mary Miller,0,0,0
-Roberts,3,U.S. Senate,,REP,"Bruce Jacobson, Jr.",2,0,2
+Roberts,3,U.S. Senate,,REP,"Bruce Jacobson, Jr.",2,2,0
 Roberts,3,U.S. Senate,,REP,Stefano de Stefano,0,0,0
 Roberts,3,U.S. Senate,,REP,Over Votes,0,0,0
 Roberts,3,U.S. Senate,,REP,Under Votes,0,0,0
 Roberts,3,Registered Voters,,REP,,348,,
-Roberts,3,Ballots Cast,,REP,,46,17,0
+Roberts,3,Ballots Cast,,REP,,46,0,17
 Roberts,3,U.S. Senate,,REP,Geraldine Sam,0,0,0
-Roberts,3,U.S. Senate,,REP,Ted Cruz,44,17,27
-Roberts,3,U.S. House,13,REP,MacThornberry,41,15,26
-Roberts,3,Governor,,REP,SECEDE Kilgore,5,4,1
-Roberts,3,Governor,,REP,Barbara Krueger,3,0,3
-Roberts,3,Governor,,REP,Greg Abbott,38,13,25
-Roberts,3,Lieutenant Governor,,REP,Dan Patrick,32,12,20
-Roberts,3,Lieutenant Governor,,REP,Scott Milder,14,5,9
-Roberts,3,Attorney General,,REP,Ken Paxton,40,15,25
-Roberts,3,Comptroller of Public Accounts,,REP,Glenn Hegar,39,13,26
+Roberts,3,U.S. Senate,,REP,Ted Cruz,44,27,17
+Roberts,3,U.S. House,13,REP,MacThornberry,41,26,15
+Roberts,3,Governor,,REP,SECEDE Kilgore,5,1,4
+Roberts,3,Governor,,REP,Barbara Krueger,3,3,0
+Roberts,3,Governor,,REP,Greg Abbott,38,25,13
+Roberts,3,Lieutenant Governor,,REP,Dan Patrick,32,20,12
+Roberts,3,Lieutenant Governor,,REP,Scott Milder,14,9,5
+Roberts,3,Attorney General,,REP,Ken Paxton,40,25,15
+Roberts,3,Comptroller of Public Accounts,,REP,Glenn Hegar,39,26,13
 Roberts,3,Commissioner of the General Land Office,,REP,Davey Edwards,0,0,0
-Roberts,3,Commissioner of the General Land Office,,REP,Rick Range,4,1,3
-Roberts,3,Commissioner of the General Land Office,,REP,Jerry Patterson,7,3,4
-Roberts,3,Commissioner of the General Land Office,,REP,George P. Bush,33,11,22
-Roberts,3,Commissioner of Agriculture,,REP,Sid Miller,26,11,15
-Roberts,3,Commissioner of Agriculture,,REP,Trey Blocker,7,2,5
-Roberts,3,Commissioner of Agriculture,,REP,Jim Hogan,7,1,6
-Roberts,3,Railroad Commissioner,,REP,Christi Craddick,31,11,20
-Roberts,3,Railroad Commissioner,,REP,Weston Martinez,9,2,7
-Roberts,3,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,35,11,24
-Roberts,3,"Justice, Supreme Court, Place 4",,REP,John Devine,33,11,22
-Roberts,3,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,34,11,23
-Roberts,3,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,17,4,13
-Roberts,3,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,19,7,12
-Roberts,3,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,34,11,23
-Roberts,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,13,5,8
-Roberts,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,6,1,5
-Roberts,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,16,5,11
-Roberts,3,State Senator,31,REP,Victor Leal,12,3,9
-Roberts,3,State Senator,31,REP,Kel Seliger,24,10,14
-Roberts,3,State Senator,31,REP,Mike Canon,10,4,6
-Roberts,3,State Representative,88,REP,Ken King,23,11,12
-Roberts,3,State Representative,88,REP,Jason Huddleston,17,3,14
+Roberts,3,Commissioner of the General Land Office,,REP,Rick Range,4,3,1
+Roberts,3,Commissioner of the General Land Office,,REP,Jerry Patterson,7,4,3
+Roberts,3,Commissioner of the General Land Office,,REP,George P. Bush,33,22,11
+Roberts,3,Commissioner of Agriculture,,REP,Sid Miller,26,15,11
+Roberts,3,Commissioner of Agriculture,,REP,Trey Blocker,7,5,2
+Roberts,3,Commissioner of Agriculture,,REP,Jim Hogan,7,6,1
+Roberts,3,Railroad Commissioner,,REP,Christi Craddick,31,20,11
+Roberts,3,Railroad Commissioner,,REP,Weston Martinez,9,7,2
+Roberts,3,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,35,24,11
+Roberts,3,"Justice, Supreme Court, Place 4",,REP,John Devine,33,22,11
+Roberts,3,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,34,23,11
+Roberts,3,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,17,13,4
+Roberts,3,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,19,12,7
+Roberts,3,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,34,23,11
+Roberts,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,13,8,5
+Roberts,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,6,5,1
+Roberts,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,16,11,5
+Roberts,3,State Senator,31,REP,Victor Leal,12,9,3
+Roberts,3,State Senator,31,REP,Kel Seliger,24,14,10
+Roberts,3,State Senator,31,REP,Mike Canon,10,6,4
+Roberts,3,State Representative,88,REP,Ken King,23,12,11
+Roberts,3,State Representative,88,REP,Jason Huddleston,17,14,3
 Roberts,3,State Representative,88,REP,Richard Beyea,6,3,3
-Roberts,3,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,36,12,24
-Roberts,3,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,33,10,23
-Roberts,3,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,39,15,24
-Roberts,3,County Judge,,REP,Rick Tennant,45,17,28
-Roberts,3,District and County Clerk,,REP,Toni Rankin,44,16,28
-Roberts,3,County Treasurer,,REP,Amy Tennant,44,16,28
-Roberts,3,Justice of the Peace,,REP,"Tresa ""Teda"" Seuhs",44,16,28
-Roberts,3,County Chairman,,REP,Steve Hale,39,15,24
+Roberts,3,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,36,24,12
+Roberts,3,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,33,23,10
+Roberts,3,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,39,24,15
+Roberts,3,County Judge,,REP,Rick Tennant,45,28,17
+Roberts,3,District and County Clerk,,REP,Toni Rankin,44,28,16
+Roberts,3,County Treasurer,,REP,Amy Tennant,44,28,16
+Roberts,3,Justice of the Peace,,REP,"Tresa ""Teda"" Seuhs",44,28,16
+Roberts,3,County Chairman,,REP,Steve Hale,39,24,15
 Roberts,3,U.S. Senate,,DEM,Over Votes,0,0,0
 Roberts,3,U.S. Senate,,DEM,Under Votes,0,0,0
 Roberts,3,Registered Voters,,DEM,,348,,
-Roberts,3,Ballots Cast,,DEM,,46,17,0
+Roberts,3,Ballots Cast,,DEM,,46,0,17
 Roberts,3,U.S. Senate,,DEM,Beto O'Rourke,0,0,0
 Roberts,3,U.S. Senate,,DEM,Sema Hernandez,0,0,0
 Roberts,3,U.S. Senate,,DEM,Edward Kimbrough,0,0,0
@@ -362,211 +362,211 @@ Roberts,3,Proposition #11 Immigrant Rights:,,DEM,Yes,0,0,0
 Roberts,3,Proposition #11 Immigrant Rights:,,DEM,No,0,0,0
 Roberts,3,Proposition #12 Right to Fair Taxation:,,DEM,Yes,0,0,0
 Roberts,3,Proposition #12 Right to Fair Taxation:,,DEM,No,0,0,0
-Roberts,3,Proposition 1,,REP,YES,27,7,20
-Roberts,3,Proposition 1,,REP,NO,13,6,7
-Roberts,3,Proposition 2,,REP,YES,37,13,24
-Roberts,3,Proposition 2,,REP,NO,6,1,5
-Roberts,3,Proposition 3,,REP,YES,36,13,23
-Roberts,3,Proposition 3,,REP,NO,7,1,6
-Roberts,3,Proposition 4,,REP,YES,41,14,27
-Roberts,3,Proposition 4,,REP,NO,2,0,2
-Roberts,3,Proposition 5,,REP,YES,31,11,20
-Roberts,3,Proposition 5,,REP,NO,11,3,8
-Roberts,3,Proposition 6,,REP,YES,42,14,28
-Roberts,3,Proposition 6,,REP,NO,1,0,1
-Roberts,3,Proposition 7,,REP,YES,32,11,21
-Roberts,3,Proposition 7,,REP,NO,9,2,7
-Roberts,3,Proposition 8,,REP,YES,40,13,27
-Roberts,3,Proposition 8,,REP,NO,3,1,2
-Roberts,3,Proposition 9,,REP,YES,42,14,28
+Roberts,3,Proposition 1,,REP,YES,27,20,7
+Roberts,3,Proposition 1,,REP,NO,13,7,6
+Roberts,3,Proposition 2,,REP,YES,37,24,13
+Roberts,3,Proposition 2,,REP,NO,6,5,1
+Roberts,3,Proposition 3,,REP,YES,36,23,13
+Roberts,3,Proposition 3,,REP,NO,7,6,1
+Roberts,3,Proposition 4,,REP,YES,41,27,14
+Roberts,3,Proposition 4,,REP,NO,2,2,0
+Roberts,3,Proposition 5,,REP,YES,31,20,11
+Roberts,3,Proposition 5,,REP,NO,11,8,3
+Roberts,3,Proposition 6,,REP,YES,42,28,14
+Roberts,3,Proposition 6,,REP,NO,1,1,0
+Roberts,3,Proposition 7,,REP,YES,32,21,11
+Roberts,3,Proposition 7,,REP,NO,9,7,2
+Roberts,3,Proposition 8,,REP,YES,40,27,13
+Roberts,3,Proposition 8,,REP,NO,3,2,1
+Roberts,3,Proposition 9,,REP,YES,42,28,14
 Roberts,3,Proposition 9,,REP,NO,0,0,0
-Roberts,3,Proposition 10,,REP,YES,39,13,26
-Roberts,3,Proposition 10,,REP,NO,4,1,3
-Roberts,3,Proposition 11,,REP,YES,36,12,24
-Roberts,3,Proposition 11,,REP,NO,6,2,4
+Roberts,3,Proposition 10,,REP,YES,39,26,13
+Roberts,3,Proposition 10,,REP,NO,4,3,1
+Roberts,3,Proposition 11,,REP,YES,36,24,12
+Roberts,3,Proposition 11,,REP,NO,6,4,2
 Roberts,4,U.S. Senate,,REP,Mary Miller,2,1,1
 Roberts,4,U.S. Senate,,REP,"Bruce Jacobson, Jr.",0,0,0
-Roberts,4,U.S. Senate,,REP,Stefano de Stefano,1,0,1
+Roberts,4,U.S. Senate,,REP,Stefano de Stefano,1,1,0
 Roberts,4,U.S. Senate,,REP,Over Votes,0,0,0
-Roberts,4,U.S. Senate,,REP,Under Votes,5,1,4
+Roberts,4,U.S. Senate,,REP,Under Votes,5,4,1
 Roberts,4,Registered Voters,,REP,,202,,
-Roberts,4,Ballots Cast,,REP,,47,15,0
+Roberts,4,Ballots Cast,,REP,,47,0,15
 Roberts,4,U.S. Senate,,REP,Geraldine Sam,0,0,0
-Roberts,4,U.S. Senate,,REP,Ted Cruz,37,11,26
-Roberts,4,U.S. House,13,REP,MacThornberry,39,11,28
-Roberts,4,Governor,,REP,SECEDE Kilgore,2,0,2
-Roberts,4,Governor,,REP,Barbara Krueger,2,0,2
-Roberts,4,Governor,,REP,Greg Abbott,39,13,26
-Roberts,4,Lieutenant Governor,,REP,Dan Patrick,25,10,15
-Roberts,4,Lieutenant Governor,,REP,Scott Milder,16,2,14
-Roberts,4,Attorney General,,REP,Ken Paxton,35,11,24
-Roberts,4,Comptroller of Public Accounts,,REP,Glenn Hegar,34,9,25
-Roberts,4,Commissioner of the General Land Office,,REP,Davey Edwards,2,0,2
-Roberts,4,Commissioner of the General Land Office,,REP,Rick Range,1,0,1
-Roberts,4,Commissioner of the General Land Office,,REP,Jerry Patterson,8,2,6
-Roberts,4,Commissioner of the General Land Office,,REP,George P. Bush,25,9,16
-Roberts,4,Commissioner of Agriculture,,REP,Sid Miller,21,6,15
-Roberts,4,Commissioner of Agriculture,,REP,Trey Blocker,6,0,6
-Roberts,4,Commissioner of Agriculture,,REP,Jim Hogan,4,1,3
-Roberts,4,Railroad Commissioner,,REP,Christi Craddick,22,5,17
-Roberts,4,Railroad Commissioner,,REP,Weston Martinez,10,2,8
-Roberts,4,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,30,8,22
-Roberts,4,"Justice, Supreme Court, Place 4",,REP,John Devine,30,8,22
-Roberts,4,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,30,8,22
-Roberts,4,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,9,4,5
-Roberts,4,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,19,3,16
-Roberts,4,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,28,7,21
-Roberts,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,12,3,9
-Roberts,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,5,1,4
-Roberts,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,10,2,8
-Roberts,4,State Senator,31,REP,Victor Leal,7,4,3
-Roberts,4,State Senator,31,REP,Kel Seliger,28,6,22
-Roberts,4,State Senator,31,REP,Mike Canon,8,3,5
-Roberts,4,State Representative,88,REP,Ken King,28,6,22
-Roberts,4,State Representative,88,REP,Jason Huddleston,8,2,6
-Roberts,4,State Representative,88,REP,Richard Beyea,8,5,3
-Roberts,4,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,29,7,22
-Roberts,4,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,25,5,20
-Roberts,4,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,39,12,27
-Roberts,4,County Judge,,REP,Rick Tennant,41,13,28
-Roberts,4,District and County Clerk,,REP,Toni Rankin,39,13,26
-Roberts,4,County Treasurer,,REP,Amy Tennant,38,11,27
-Roberts,4,"County Commissioner, Precinct No. 4",,REP,"James F. (Jim) Duvall, Jr.",38,13,25
-Roberts,4,Justice of the Peace,,REP,"Tresa ""Teda"" Seuhs",40,13,27
-Roberts,4,County Chairman,,REP,Steve Hale,41,13,28
+Roberts,4,U.S. Senate,,REP,Ted Cruz,37,26,11
+Roberts,4,U.S. House,13,REP,MacThornberry,39,28,11
+Roberts,4,Governor,,REP,SECEDE Kilgore,2,2,0
+Roberts,4,Governor,,REP,Barbara Krueger,2,2,0
+Roberts,4,Governor,,REP,Greg Abbott,39,26,13
+Roberts,4,Lieutenant Governor,,REP,Dan Patrick,25,15,10
+Roberts,4,Lieutenant Governor,,REP,Scott Milder,16,14,2
+Roberts,4,Attorney General,,REP,Ken Paxton,35,24,11
+Roberts,4,Comptroller of Public Accounts,,REP,Glenn Hegar,34,25,9
+Roberts,4,Commissioner of the General Land Office,,REP,Davey Edwards,2,2,0
+Roberts,4,Commissioner of the General Land Office,,REP,Rick Range,1,1,0
+Roberts,4,Commissioner of the General Land Office,,REP,Jerry Patterson,8,6,2
+Roberts,4,Commissioner of the General Land Office,,REP,George P. Bush,25,16,9
+Roberts,4,Commissioner of Agriculture,,REP,Sid Miller,21,15,6
+Roberts,4,Commissioner of Agriculture,,REP,Trey Blocker,6,6,0
+Roberts,4,Commissioner of Agriculture,,REP,Jim Hogan,4,3,1
+Roberts,4,Railroad Commissioner,,REP,Christi Craddick,22,17,5
+Roberts,4,Railroad Commissioner,,REP,Weston Martinez,10,8,2
+Roberts,4,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,30,22,8
+Roberts,4,"Justice, Supreme Court, Place 4",,REP,John Devine,30,22,8
+Roberts,4,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,30,22,8
+Roberts,4,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,9,5,4
+Roberts,4,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,19,16,3
+Roberts,4,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,28,21,7
+Roberts,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,12,9,3
+Roberts,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,5,4,1
+Roberts,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,10,8,2
+Roberts,4,State Senator,31,REP,Victor Leal,7,3,4
+Roberts,4,State Senator,31,REP,Kel Seliger,28,22,6
+Roberts,4,State Senator,31,REP,Mike Canon,8,5,3
+Roberts,4,State Representative,88,REP,Ken King,28,22,6
+Roberts,4,State Representative,88,REP,Jason Huddleston,8,6,2
+Roberts,4,State Representative,88,REP,Richard Beyea,8,3,5
+Roberts,4,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,29,22,7
+Roberts,4,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,25,20,5
+Roberts,4,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,39,27,12
+Roberts,4,County Judge,,REP,Rick Tennant,41,28,13
+Roberts,4,District and County Clerk,,REP,Toni Rankin,39,26,13
+Roberts,4,County Treasurer,,REP,Amy Tennant,38,27,11
+Roberts,4,"County Commissioner, Precinct No. 4",,REP,"James F. (Jim) Duvall, Jr.",38,25,13
+Roberts,4,Justice of the Peace,,REP,"Tresa ""Teda"" Seuhs",40,27,13
+Roberts,4,County Chairman,,REP,Steve Hale,41,28,13
 Roberts,4,U.S. Senate,,DEM,Over Votes,0,0,0
 Roberts,4,U.S. Senate,,DEM,Under Votes,0,0,0
 Roberts,4,Registered Voters,,DEM,,202,,
-Roberts,4,Ballots Cast,,DEM,,47,15,0
+Roberts,4,Ballots Cast,,DEM,,47,0,15
 Roberts,4,U.S. Senate,,DEM,Beto O'Rourke,0,0,0
 Roberts,4,U.S. Senate,,DEM,Sema Hernandez,0,0,0
-Roberts,4,U.S. Senate,,DEM,Edward Kimbrough,2,2,0
-Roberts,4,U.S. House,13,DEM,Greg Sagan,2,2,0
+Roberts,4,U.S. Senate,,DEM,Edward Kimbrough,2,0,2
+Roberts,4,U.S. House,13,DEM,Greg Sagan,2,0,2
 Roberts,4,Governor,,DEM,James Jolly Clark,0,0,0
 Roberts,4,Governor,,DEM,Tom Wakely,0,0,0
 Roberts,4,Governor,,DEM,Grady Yarbrough,0,0,0
 Roberts,4,Governor,,DEM,Joe Mumbach,0,0,0
 Roberts,4,Governor,,DEM,Lupe Valdez,0,0,0
-Roberts,4,Governor,,DEM,"Cedric Davis, Sr.",2,2,0
+Roberts,4,Governor,,DEM,"Cedric Davis, Sr.",2,0,2
 Roberts,4,Governor,,DEM,Andrew White,0,0,0
 Roberts,4,Governor,,DEM,Jeffrey Payne,0,0,0
 Roberts,4,Governor,,DEM,Adrian Ocegueda,0,0,0
 Roberts,4,Lieutenant Governor,,DEM,Mike Collier,0,0,0
-Roberts,4,Lieutenant Governor,,DEM,Michael Cooper,2,2,0
-Roberts,4,Attorney General,,DEM,Justin Nelson,2,2,0
-Roberts,4,Comptroller of Public Accounts,,DEM,Tim Mahoney,2,2,0
+Roberts,4,Lieutenant Governor,,DEM,Michael Cooper,2,0,2
+Roberts,4,Attorney General,,DEM,Justin Nelson,2,0,2
+Roberts,4,Comptroller of Public Accounts,,DEM,Tim Mahoney,2,0,2
 Roberts,4,Comptroller of Public Accounts,,DEM,Joi Chevalier,0,0,0
-Roberts,4,Commissioner of the General Land Office,,DEM,Tex Morgan,2,2,0
+Roberts,4,Commissioner of the General Land Office,,DEM,Tex Morgan,2,0,2
 Roberts,4,Commissioner of the General Land Office,,DEM,Miguel Suazo,0,0,0
-Roberts,4,Commissioner of Agriculture,,DEM,Kim Olson,2,2,0
-Roberts,4,Railroad Commissioner,,DEM,Chris Spellmon,2,2,0
+Roberts,4,Commissioner of Agriculture,,DEM,Kim Olson,2,0,2
+Roberts,4,Railroad Commissioner,,DEM,Chris Spellmon,2,0,2
 Roberts,4,Railroad Commissioner,,DEM,Roman McAllen,0,0,0
-Roberts,4,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,2,2,0
-Roberts,4,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,2,2,0
-Roberts,4,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,2,2,0
-Roberts,4,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,2,2,0
-Roberts,4,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,2,2,0
-Roberts,4,State Representative,88,DEM,Ezekiel Barron,2,2,0
-Roberts,4,Proposition #1 Right to a 21st Century Public Education:,,DEM,Yes,2,2,0
+Roberts,4,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,2,0,2
+Roberts,4,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,2,0,2
+Roberts,4,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,2,0,2
+Roberts,4,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,2,0,2
+Roberts,4,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,2,0,2
+Roberts,4,State Representative,88,DEM,Ezekiel Barron,2,0,2
+Roberts,4,Proposition #1 Right to a 21st Century Public Education:,,DEM,Yes,2,0,2
 Roberts,4,Proposition #1 Right to a 21st Century Public Education:,,DEM,No,0,0,0
-Roberts,4,Proposition #2 Student Loan Debt:,,DEM,Yes,2,2,0
+Roberts,4,Proposition #2 Student Loan Debt:,,DEM,Yes,2,0,2
 Roberts,4,Proposition #2 Student Loan Debt:,,DEM,No,0,0,0
-Roberts,4,Proposition #3 Right to Healthcare:,,DEM,Yes,2,2,0
+Roberts,4,Proposition #3 Right to Healthcare:,,DEM,Yes,2,0,2
 Roberts,4,Proposition #3 Right to Healthcare:,,DEM,No,0,0,0
-Roberts,4,Proposition #4 Right to Economic Security:,,DEM,Yes,2,2,0
+Roberts,4,Proposition #4 Right to Economic Security:,,DEM,Yes,2,0,2
 Roberts,4,Proposition #4 Right to Economic Security:,,DEM,No,0,0,0
-Roberts,4,Proposition #5 National Jobs Program:,,DEM,Yes,2,2,0
+Roberts,4,Proposition #5 National Jobs Program:,,DEM,Yes,2,0,2
 Roberts,4,Proposition #5 National Jobs Program:,,DEM,No,0,0,0
-Roberts,4,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,DEM,Yes,2,2,0
+Roberts,4,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,DEM,Yes,2,0,2
 Roberts,4,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,DEM,No,0,0,0
-Roberts,4,Proposition #7 Right to Dignity & Respect:,,DEM,Yes,2,2,0
+Roberts,4,Proposition #7 Right to Dignity & Respect:,,DEM,Yes,2,0,2
 Roberts,4,Proposition #7 Right to Dignity & Respect:,,DEM,No,0,0,0
-Roberts,4,Proposition #8 Right to Housing:,,DEM,Yes,2,2,0
+Roberts,4,Proposition #8 Right to Housing:,,DEM,Yes,2,0,2
 Roberts,4,Proposition #8 Right to Housing:,,DEM,No,0,0,0
-Roberts,4,Proposition #9 Right to Vote:,,DEM,Yes,2,2,0
+Roberts,4,Proposition #9 Right to Vote:,,DEM,Yes,2,0,2
 Roberts,4,Proposition #9 Right to Vote:,,DEM,No,0,0,0
-Roberts,4,Proposition #10 Right to a Fair Criminal Justice System:,,DEM,Yes,2,2,0
+Roberts,4,Proposition #10 Right to a Fair Criminal Justice System:,,DEM,Yes,2,0,2
 Roberts,4,Proposition #10 Right to a Fair Criminal Justice System:,,DEM,No,0,0,0
-Roberts,4,Proposition #11 Immigrant Rights:,,DEM,Yes,2,2,0
+Roberts,4,Proposition #11 Immigrant Rights:,,DEM,Yes,2,0,2
 Roberts,4,Proposition #11 Immigrant Rights:,,DEM,No,0,0,0
-Roberts,4,Proposition #12 Right to Fair Taxation:,,DEM,Yes,2,2,0
+Roberts,4,Proposition #12 Right to Fair Taxation:,,DEM,Yes,2,0,2
 Roberts,4,Proposition #12 Right to Fair Taxation:,,DEM,No,0,0,0
-Roberts,4,Proposition 1,,DEM,YES,17,6,11
-Roberts,4,Proposition 1,,DEM,NO,22,5,17
-Roberts,4,Proposition 2,,DEM,YES,37,11,26
-Roberts,4,Proposition 2,,DEM,NO,3,1,2
-Roberts,4,Proposition 3,,DEM,YES,33,10,23
-Roberts,4,Proposition 3,,DEM,NO,4,0,4
-Roberts,4,Proposition 4,,DEM,YES,35,11,24
-Roberts,4,Proposition 4,,DEM,NO,4,0,4
-Roberts,4,Proposition 5,,DEM,YES,24,5,19
-Roberts,4,Proposition 5,,DEM,NO,18,7,11
-Roberts,4,Proposition 6,,DEM,YES,40,12,28
-Roberts,4,Proposition 6,,DEM,NO,1,0,1
-Roberts,4,Proposition 7,,DEM,YES,27,4,23
-Roberts,4,Proposition 7,,DEM,NO,9,6,3
-Roberts,4,Proposition 8,,DEM,YES,40,12,28
+Roberts,4,Proposition 1,,DEM,YES,17,11,6
+Roberts,4,Proposition 1,,DEM,NO,22,17,5
+Roberts,4,Proposition 2,,DEM,YES,37,26,11
+Roberts,4,Proposition 2,,DEM,NO,3,2,1
+Roberts,4,Proposition 3,,DEM,YES,33,23,10
+Roberts,4,Proposition 3,,DEM,NO,4,4,0
+Roberts,4,Proposition 4,,DEM,YES,35,24,11
+Roberts,4,Proposition 4,,DEM,NO,4,4,0
+Roberts,4,Proposition 5,,DEM,YES,24,19,5
+Roberts,4,Proposition 5,,DEM,NO,18,11,7
+Roberts,4,Proposition 6,,DEM,YES,40,28,12
+Roberts,4,Proposition 6,,DEM,NO,1,1,0
+Roberts,4,Proposition 7,,DEM,YES,27,23,4
+Roberts,4,Proposition 7,,DEM,NO,9,3,6
+Roberts,4,Proposition 8,,DEM,YES,40,28,12
 Roberts,4,Proposition 8,,DEM,NO,0,0,0
-Roberts,4,Proposition 9,,DEM,YES,37,12,25
-Roberts,4,Proposition 9,,DEM,NO,4,0,4
-Roberts,4,Proposition 10,,DEM,YES,36,11,25
+Roberts,4,Proposition 9,,DEM,YES,37,25,12
+Roberts,4,Proposition 9,,DEM,NO,4,4,0
+Roberts,4,Proposition 10,,DEM,YES,36,25,11
 Roberts,4,Proposition 10,,DEM,NO,2,1,1
-Roberts,4,Proposition 11,,DEM,YES,37,9,28
-Roberts,4,Proposition 11,,DEM,NO,4,3,1
-Roberts,4,U.S. Senate,,REP,Mary Miller,1,1,0
+Roberts,4,Proposition 11,,DEM,YES,37,28,9
+Roberts,4,Proposition 11,,DEM,NO,4,1,3
+Roberts,4,U.S. Senate,,REP,Mary Miller,1,0,1
 Roberts,4,U.S. Senate,,REP,"Bruce Jacobson, Jr.",0,0,0
 Roberts,4,U.S. Senate,,REP,Stefano de Stefano,0,0,0
 Roberts,4,U.S. Senate,,REP,Over Votes,0,0,0
 Roberts,4,U.S. Senate,,REP,Under Votes,2,1,1
 Roberts,4,Registered Voters,,REP,,192,,
-Roberts,4,Ballots Cast,,REP,,41,7,0
+Roberts,4,Ballots Cast,,REP,,41,0,7
 Roberts,4,U.S. Senate,,REP,Geraldine Sam,0,0,0
-Roberts,4,U.S. Senate,,REP,Ted Cruz,38,5,33
-Roberts,4,U.S. House,13,REP,MacThornberry,37,7,30
-Roberts,4,Governor,,REP,SECEDE Kilgore,1,1,0
-Roberts,4,Governor,,REP,Barbara Krueger,1,0,1
-Roberts,4,Governor,,REP,Greg Abbott,38,6,32
-Roberts,4,Lieutenant Governor,,REP,Dan Patrick,25,3,22
-Roberts,4,Lieutenant Governor,,REP,Scott Milder,13,4,9
-Roberts,4,Attorney General,,REP,Ken Paxton,33,6,27
-Roberts,4,Comptroller of Public Accounts,,REP,Glenn Hegar,32,5,27
-Roberts,4,Commissioner of the General Land Office,,REP,Davey Edwards,3,1,2
-Roberts,4,Commissioner of the General Land Office,,REP,Rick Range,1,0,1
-Roberts,4,Commissioner of the General Land Office,,REP,Jerry Patterson,12,3,9
-Roberts,4,Commissioner of the General Land Office,,REP,George P. Bush,21,3,18
-Roberts,4,Commissioner of Agriculture,,REP,Sid Miller,25,3,22
-Roberts,4,Commissioner of Agriculture,,REP,Trey Blocker,7,3,4
-Roberts,4,Commissioner of Agriculture,,REP,Jim Hogan,6,0,6
-Roberts,4,Railroad Commissioner,,REP,Christi Craddick,28,6,22
-Roberts,4,Railroad Commissioner,,REP,Weston Martinez,9,1,8
-Roberts,4,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,29,6,23
-Roberts,4,"Justice, Supreme Court, Place 4",,REP,John Devine,30,6,24
-Roberts,4,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,30,6,24
-Roberts,4,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,14,3,11
-Roberts,4,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,19,4,15
-Roberts,4,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,29,6,23
-Roberts,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,9,1,8
-Roberts,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,8,0,8
-Roberts,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,11,4,7
-Roberts,4,State Senator,31,REP,Victor Leal,4,0,4
-Roberts,4,State Senator,31,REP,Kel Seliger,27,4,23
-Roberts,4,State Senator,31,REP,Mike Canon,10,3,7
-Roberts,4,State Representative,88,REP,Ken King,20,2,18
-Roberts,4,State Representative,88,REP,Jason Huddleston,13,3,10
-Roberts,4,State Representative,88,REP,Richard Beyea,8,2,6
-Roberts,4,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,31,6,25
-Roberts,4,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,28,6,22
-Roberts,4,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,36,6,30
-Roberts,4,County Judge,,REP,Rick Tennant,35,6,29
-Roberts,4,District and County Clerk,,REP,Toni Rankin,36,6,30
-Roberts,4,County Treasurer,,REP,Amy Tennant,36,6,30
-Roberts,4,"County Commissioner, Precinct No. 4",,REP,"James F. (Jim) Duvall, Jr.",40,6,34
-Roberts,4,Justice of the Peace,,REP,"Tresa ""Teda"" Seuhs",37,6,31
-Roberts,4,County Chairman,,REP,Steve Hale,37,6,31
+Roberts,4,U.S. Senate,,REP,Ted Cruz,38,33,5
+Roberts,4,U.S. House,13,REP,MacThornberry,37,30,7
+Roberts,4,Governor,,REP,SECEDE Kilgore,1,0,1
+Roberts,4,Governor,,REP,Barbara Krueger,1,1,0
+Roberts,4,Governor,,REP,Greg Abbott,38,32,6
+Roberts,4,Lieutenant Governor,,REP,Dan Patrick,25,22,3
+Roberts,4,Lieutenant Governor,,REP,Scott Milder,13,9,4
+Roberts,4,Attorney General,,REP,Ken Paxton,33,27,6
+Roberts,4,Comptroller of Public Accounts,,REP,Glenn Hegar,32,27,5
+Roberts,4,Commissioner of the General Land Office,,REP,Davey Edwards,3,2,1
+Roberts,4,Commissioner of the General Land Office,,REP,Rick Range,1,1,0
+Roberts,4,Commissioner of the General Land Office,,REP,Jerry Patterson,12,9,3
+Roberts,4,Commissioner of the General Land Office,,REP,George P. Bush,21,18,3
+Roberts,4,Commissioner of Agriculture,,REP,Sid Miller,25,22,3
+Roberts,4,Commissioner of Agriculture,,REP,Trey Blocker,7,4,3
+Roberts,4,Commissioner of Agriculture,,REP,Jim Hogan,6,6,0
+Roberts,4,Railroad Commissioner,,REP,Christi Craddick,28,22,6
+Roberts,4,Railroad Commissioner,,REP,Weston Martinez,9,8,1
+Roberts,4,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,29,23,6
+Roberts,4,"Justice, Supreme Court, Place 4",,REP,John Devine,30,24,6
+Roberts,4,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,30,24,6
+Roberts,4,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,14,11,3
+Roberts,4,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,19,15,4
+Roberts,4,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,29,23,6
+Roberts,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,9,8,1
+Roberts,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,8,8,0
+Roberts,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,11,7,4
+Roberts,4,State Senator,31,REP,Victor Leal,4,4,0
+Roberts,4,State Senator,31,REP,Kel Seliger,27,23,4
+Roberts,4,State Senator,31,REP,Mike Canon,10,7,3
+Roberts,4,State Representative,88,REP,Ken King,20,18,2
+Roberts,4,State Representative,88,REP,Jason Huddleston,13,10,3
+Roberts,4,State Representative,88,REP,Richard Beyea,8,6,2
+Roberts,4,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,31,25,6
+Roberts,4,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,28,22,6
+Roberts,4,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,36,30,6
+Roberts,4,County Judge,,REP,Rick Tennant,35,29,6
+Roberts,4,District and County Clerk,,REP,Toni Rankin,36,30,6
+Roberts,4,County Treasurer,,REP,Amy Tennant,36,30,6
+Roberts,4,"County Commissioner, Precinct No. 4",,REP,"James F. (Jim) Duvall, Jr.",40,34,6
+Roberts,4,Justice of the Peace,,REP,"Tresa ""Teda"" Seuhs",37,31,6
+Roberts,4,County Chairman,,REP,Steve Hale,37,31,6
 Roberts,4,U.S. Senate,,DEM,Over Votes,0,0,0
 Roberts,4,U.S. Senate,,DEM,Under Votes,0,0,0
 Roberts,4,Registered Voters,,DEM,,192,,
-Roberts,4,Ballots Cast,,DEM,,41,7,0
+Roberts,4,Ballots Cast,,DEM,,41,0,7
 Roberts,4,U.S. Senate,,DEM,Beto O'Rourke,0,0,0
 Roberts,4,U.S. Senate,,DEM,Sema Hernandez,0,0,0
 Roberts,4,U.S. Senate,,DEM,Edward Kimbrough,0,0,0
@@ -620,25 +620,25 @@ Roberts,4,Proposition #11 Immigrant Rights:,,DEM,Yes,0,0,0
 Roberts,4,Proposition #11 Immigrant Rights:,,DEM,No,0,0,0
 Roberts,4,Proposition #12 Right to Fair Taxation:,,DEM,Yes,0,0,0
 Roberts,4,Proposition #12 Right to Fair Taxation:,,DEM,No,0,0,0
-Roberts,4,Proposition 1,,REP,YES,19,4,15
-Roberts,4,Proposition 1,,REP,NO,18,3,15
-Roberts,4,Proposition 2,,REP,YES,35,7,28
-Roberts,4,Proposition 2,,REP,NO,3,0,3
-Roberts,4,Proposition 3,,REP,YES,33,5,28
-Roberts,4,Proposition 3,,REP,NO,5,1,4
-Roberts,4,Proposition 4,,REP,YES,35,7,28
-Roberts,4,Proposition 4,,REP,NO,4,0,4
-Roberts,4,Proposition 5,,REP,YES,16,4,12
-Roberts,4,Proposition 5,,REP,NO,23,3,20
-Roberts,4,Proposition 6,,REP,YES,36,7,29
-Roberts,4,Proposition 6,,REP,NO,2,0,2
-Roberts,4,Proposition 7,,REP,YES,27,5,22
-Roberts,4,Proposition 7,,REP,NO,12,2,10
-Roberts,4,Proposition 8,,REP,YES,39,7,32
-Roberts,4,Proposition 8,,REP,NO,1,0,1
-Roberts,4,Proposition 9,,REP,YES,37,7,30
-Roberts,4,Proposition 9,,REP,NO,2,0,2
-Roberts,4,Proposition 10,,REP,YES,38,7,31
-Roberts,4,Proposition 10,,REP,NO,1,0,1
-Roberts,4,Proposition 11,,REP,YES,35,7,28
-Roberts,4,Proposition 11,,REP,NO,4,0,4
+Roberts,4,Proposition 1,,REP,YES,19,15,4
+Roberts,4,Proposition 1,,REP,NO,18,15,3
+Roberts,4,Proposition 2,,REP,YES,35,28,7
+Roberts,4,Proposition 2,,REP,NO,3,3,0
+Roberts,4,Proposition 3,,REP,YES,33,28,5
+Roberts,4,Proposition 3,,REP,NO,5,4,1
+Roberts,4,Proposition 4,,REP,YES,35,28,7
+Roberts,4,Proposition 4,,REP,NO,4,4,0
+Roberts,4,Proposition 5,,REP,YES,16,12,4
+Roberts,4,Proposition 5,,REP,NO,23,20,3
+Roberts,4,Proposition 6,,REP,YES,36,29,7
+Roberts,4,Proposition 6,,REP,NO,2,2,0
+Roberts,4,Proposition 7,,REP,YES,27,22,5
+Roberts,4,Proposition 7,,REP,NO,12,10,2
+Roberts,4,Proposition 8,,REP,YES,39,32,7
+Roberts,4,Proposition 8,,REP,NO,1,1,0
+Roberts,4,Proposition 9,,REP,YES,37,30,7
+Roberts,4,Proposition 9,,REP,NO,2,2,0
+Roberts,4,Proposition 10,,REP,YES,38,31,7
+Roberts,4,Proposition 10,,REP,NO,1,1,0
+Roberts,4,Proposition 11,,REP,YES,35,28,7
+Roberts,4,Proposition 11,,REP,NO,4,4,0

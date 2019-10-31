@@ -1,307 +1,307 @@
-county,precinct,office,district,party,candidate,election_day,early_voting,votes
-Hansford,1,Straight Party,,REP,Republican,101,119,220
-Hansford,1,Straight Party,,DEM,Democratic,6,4,10
-Hansford,1,Straight Party,,LIB,Libertarian,1,0,1
-Hansford,1,U.S. Senate,,REP,Ted Cruz,162,187,349
-Hansford,1,U.S. Senate,,DEM,Beto O'Rourke,24,4,28
-Hansford,1,U.S. Senate,,LIB,Neal M. Dikeman,2,0,2
-Hansford,1,U.S. House,13,REP,Mac Thornberry,162,183,345
-Hansford,1,U.S. House,13,DEM,Greg Sagan,15,12,27
-Hansford,1,U.S. House,13,LIB,Calvin DeWeese,6,3,9
-Hansford,1,Governor,,REP,Greg Abbott,158,184,342
-Hansford,1,Governor,,DEM,Lupe Valdez,24,11,35
-Hansford,1,Governor,,LIB,Mark Jay Tippetts,6,1,7
-Hansford,1,Lieutenant Governor,,REP,Dan Patrick,145,169,314
-Hansford,1,Lieutenant Governor,,DEM,Mike Collier,26,25,51
-Hansford,1,Lieutenant Governor,,LIB,Kerry Douglas McKennon,8,3,11
-Hansford,1,Attorney General,,REP,Ken Paxton,152,174,326
-Hansford,1,Attorney General,,DEM,Justin Nelson,19,21,40
-Hansford,1,Attorney General,,LIB,Michael Ray Harris,8,1,9
-Hansford,1,Comptroller of Public Accounts,,REP,Glenn Hegar,150,179,329
-Hansford,1,Comptroller of Public Accounts,,DEM,Joi Chevalier,15,10,25
-Hansford,1,Comptroller of Public Accounts,,LIB,Ben Sanders,12,2,14
-Hansford,1,Commissioner of The General Land Office,,REP,George P. Bush,152,180,332
-Hansford,1,Commissioner of The General Land Office,,DEM,Miguel Suazo,18,9,27
-Hansford,1,Commissioner of The General Land Office,,LIB,Matt Pina,8,6,14
-Hansford,1,Commissioner of Agriculture,,REP,Sid Miller,150,177,327
-Hansford,1,Commissioner of Agriculture,,DEM,Kim Olson,24,15,39
-Hansford,1,Commissioner of Agriculture,,LIB,Richard Carpenter,5,3,8
-Hansford,1,Railroad Commissioner,,REP,Christi Craddick,151,185,336
-Hansford,1,Railroad Commissioner,,DEM,Roman McAllen,18,10,28
-Hansford,1,Railroad Commissioner,,LIB,Mike Wright,10,2,12
-Hansford,1,State Senate,31,REP,Kel Seliger,160,182,342
-Hansford,1,State Senate,31,LIB,Jack B. Westbrook,16,7,23
-Hansford,1,State Representative,88,REP,Ken King,158,183,341
-Hansford,1,State Representative,88,DEM,Ezekiel Barron,24,11,35
-Hansford,2,Straight Party,,REP,Republican,8,8,16
+county,precinct,office,district,party,candidate,votes,election_day,early_voting
+Hansford,1,Straight Party,,REP,Republican,220,101,119
+Hansford,1,Straight Party,,DEM,Democratic,10,6,4
+Hansford,1,Straight Party,,LIB,Libertarian,1,1,0
+Hansford,1,U.S. Senate,,REP,Ted Cruz,349,162,187
+Hansford,1,U.S. Senate,,DEM,Beto O'Rourke,28,24,4
+Hansford,1,U.S. Senate,,LIB,Neal M. Dikeman,2,2,0
+Hansford,1,U.S. House,13,REP,Mac Thornberry,345,162,183
+Hansford,1,U.S. House,13,DEM,Greg Sagan,27,15,12
+Hansford,1,U.S. House,13,LIB,Calvin DeWeese,9,6,3
+Hansford,1,Governor,,REP,Greg Abbott,342,158,184
+Hansford,1,Governor,,DEM,Lupe Valdez,35,24,11
+Hansford,1,Governor,,LIB,Mark Jay Tippetts,7,6,1
+Hansford,1,Lieutenant Governor,,REP,Dan Patrick,314,145,169
+Hansford,1,Lieutenant Governor,,DEM,Mike Collier,51,26,25
+Hansford,1,Lieutenant Governor,,LIB,Kerry Douglas McKennon,11,8,3
+Hansford,1,Attorney General,,REP,Ken Paxton,326,152,174
+Hansford,1,Attorney General,,DEM,Justin Nelson,40,19,21
+Hansford,1,Attorney General,,LIB,Michael Ray Harris,9,8,1
+Hansford,1,Comptroller of Public Accounts,,REP,Glenn Hegar,329,150,179
+Hansford,1,Comptroller of Public Accounts,,DEM,Joi Chevalier,25,15,10
+Hansford,1,Comptroller of Public Accounts,,LIB,Ben Sanders,14,12,2
+Hansford,1,Commissioner of The General Land Office,,REP,George P. Bush,332,152,180
+Hansford,1,Commissioner of The General Land Office,,DEM,Miguel Suazo,27,18,9
+Hansford,1,Commissioner of The General Land Office,,LIB,Matt Pina,14,8,6
+Hansford,1,Commissioner of Agriculture,,REP,Sid Miller,327,150,177
+Hansford,1,Commissioner of Agriculture,,DEM,Kim Olson,39,24,15
+Hansford,1,Commissioner of Agriculture,,LIB,Richard Carpenter,8,5,3
+Hansford,1,Railroad Commissioner,,REP,Christi Craddick,336,151,185
+Hansford,1,Railroad Commissioner,,DEM,Roman McAllen,28,18,10
+Hansford,1,Railroad Commissioner,,LIB,Mike Wright,12,10,2
+Hansford,1,State Senate,31,REP,Kel Seliger,342,160,182
+Hansford,1,State Senate,31,LIB,Jack B. Westbrook,23,16,7
+Hansford,1,State Representative,88,REP,Ken King,341,158,183
+Hansford,1,State Representative,88,DEM,Ezekiel Barron,35,24,11
+Hansford,2,Straight Party,,REP,Republican,16,8,8
 Hansford,2,Straight Party,,DEM,Democratic,0,0,0
 Hansford,2,Straight Party,,LIB,Libertarian,0,0,0
-Hansford,2,U.S. Senate,,REP,Ted Cruz,10,12,22
-Hansford,2,U.S. Senate,,DEM,Beto O'Rourke,2,6,8
+Hansford,2,U.S. Senate,,REP,Ted Cruz,22,10,12
+Hansford,2,U.S. Senate,,DEM,Beto O'Rourke,8,2,6
 Hansford,2,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0
-Hansford,2,U.S. House,13,REP,Mac Thornberry,11,14,25
-Hansford,2,U.S. House,13,DEM,Greg Sagan,1,4,5
+Hansford,2,U.S. House,13,REP,Mac Thornberry,25,11,14
+Hansford,2,U.S. House,13,DEM,Greg Sagan,5,1,4
 Hansford,2,U.S. House,13,LIB,Calvin DeWeese,0,0,0
-Hansford,2,Governor,,REP,Greg Abbott,12,13,25
-Hansford,2,Governor,,DEM,Lupe Valdez,0,4,4
-Hansford,2,Governor,,LIB,Mark Jay Tippetts,1,1,2
-Hansford,2,Lieutenant Governor,,REP,Dan Patrick,11,12,23
-Hansford,2,Lieutenant Governor,,DEM,Mike Collier,2,5,7
+Hansford,2,Governor,,REP,Greg Abbott,25,12,13
+Hansford,2,Governor,,DEM,Lupe Valdez,4,0,4
+Hansford,2,Governor,,LIB,Mark Jay Tippetts,2,1,1
+Hansford,2,Lieutenant Governor,,REP,Dan Patrick,23,11,12
+Hansford,2,Lieutenant Governor,,DEM,Mike Collier,7,2,5
 Hansford,2,Lieutenant Governor,,LIB,Kerry Douglas McKennon,0,0,0
-Hansford,2,Attorney General,,REP,Ken Paxton,12,14,26
-Hansford,2,Attorney General,,DEM,Justin Nelson,0,4,4
-Hansford,2,Attorney General,,LIB,Michael Ray Harris,1,0,1
-Hansford,2,Comptroller of Public Accounts,,REP,Glenn Hegar,12,14,26
-Hansford,2,Comptroller of Public Accounts,,DEM,Joi Chevalier,0,4,4
-Hansford,2,Comptroller of Public Accounts,,LIB,Ben Sanders,1,0,1
-Hansford,2,Commissioner of The General Land Office,,REP,George P. Bush,12,14,26
-Hansford,2,Commissioner of The General Land Office,,DEM,Miguel Suazo,0,4,4
-Hansford,2,Commissioner of The General Land Office,,LIB,Matt Pina,1,0,1
-Hansford,2,Commissioner of Agriculture,,REP,Sid Miller,12,14,26
-Hansford,2,Commissioner of Agriculture,,DEM,Kim Olson,0,4,4
-Hansford,2,Commissioner of Agriculture,,LIB,Richard Carpenter,1,0,1
-Hansford,2,Railroad Commissioner,,REP,Christi Craddick,12,14,26
-Hansford,2,Railroad Commissioner,,DEM,Roman McAllen,0,4,4
-Hansford,2,Railroad Commissioner,,LIB,Mike Wright,1,0,1
-Hansford,2,State Senate,31,REP,Kel Seliger,11,14,25
-Hansford,2,State Senate,31,LIB,Jack B. Westbrook,2,3,5
-Hansford,2,State Representative,88,REP,Ken King,12,14,26
-Hansford,2,State Representative,88,DEM,Ezekiel Barron,0,3,3
-Hansford,3,Straight Party,,REP,Republican,38,49,87
+Hansford,2,Attorney General,,REP,Ken Paxton,26,12,14
+Hansford,2,Attorney General,,DEM,Justin Nelson,4,0,4
+Hansford,2,Attorney General,,LIB,Michael Ray Harris,1,1,0
+Hansford,2,Comptroller of Public Accounts,,REP,Glenn Hegar,26,12,14
+Hansford,2,Comptroller of Public Accounts,,DEM,Joi Chevalier,4,0,4
+Hansford,2,Comptroller of Public Accounts,,LIB,Ben Sanders,1,1,0
+Hansford,2,Commissioner of The General Land Office,,REP,George P. Bush,26,12,14
+Hansford,2,Commissioner of The General Land Office,,DEM,Miguel Suazo,4,0,4
+Hansford,2,Commissioner of The General Land Office,,LIB,Matt Pina,1,1,0
+Hansford,2,Commissioner of Agriculture,,REP,Sid Miller,26,12,14
+Hansford,2,Commissioner of Agriculture,,DEM,Kim Olson,4,0,4
+Hansford,2,Commissioner of Agriculture,,LIB,Richard Carpenter,1,1,0
+Hansford,2,Railroad Commissioner,,REP,Christi Craddick,26,12,14
+Hansford,2,Railroad Commissioner,,DEM,Roman McAllen,4,0,4
+Hansford,2,Railroad Commissioner,,LIB,Mike Wright,1,1,0
+Hansford,2,State Senate,31,REP,Kel Seliger,25,11,14
+Hansford,2,State Senate,31,LIB,Jack B. Westbrook,5,2,3
+Hansford,2,State Representative,88,REP,Ken King,26,12,14
+Hansford,2,State Representative,88,DEM,Ezekiel Barron,3,0,3
+Hansford,3,Straight Party,,REP,Republican,87,38,49
 Hansford,3,Straight Party,,DEM,Democratic,0,0,0
 Hansford,3,Straight Party,,LIB,Libertarian,0,0,0
-Hansford,3,U.S. Senate,,REP,Ted Cruz,70,85,155
-Hansford,3,U.S. Senate,,DEM,Beto O'Rourke,3,2,5
-Hansford,3,U.S. Senate,,LIB,Neal M. Dikeman,2,9,11
-Hansford,3,U.S. House,13,REP,Mac Thornberry,72,84,156
-Hansford,3,U.S. House,13,DEM,Greg Sagan,2,2,4
-Hansford,3,U.S. House,13,LIB,Calvin DeWeese,1,0,1
-Hansford,3,Governor,,REP,Greg Abbott,67,84,151
-Hansford,3,Governor,,DEM,Lupe Valdez,5,1,6
-Hansford,3,Governor,,LIB,Mark Jay Tippetts,3,2,5
-Hansford,3,Lieutenant Governor,,REP,Dan Patrick,54,66,120
-Hansford,3,Lieutenant Governor,,DEM,Mike Collier,18,15,33
-Hansford,3,Lieutenant Governor,,LIB,Kerry Douglas McKennon,3,2,5
-Hansford,3,Attorney General,,REP,Ken Paxton,68,81,149
-Hansford,3,Attorney General,,DEM,Justin Nelson,6,3,9
-Hansford,3,Attorney General,,LIB,Michael Ray Harris,1,2,3
-Hansford,3,Comptroller of Public Accounts,,REP,Glenn Hegar,69,86,155
-Hansford,3,Comptroller of Public Accounts,,DEM,Joi Chevalier,1,1,2
-Hansford,3,Comptroller of Public Accounts,,LIB,Ben Sanders,2,0,2
-Hansford,3,Commissioner of The General Land Office,,REP,George P. Bush,66,84,150
-Hansford,3,Commissioner of The General Land Office,,DEM,Miguel Suazo,6,0,6
-Hansford,3,Commissioner of The General Land Office,,LIB,Matt Pina,1,3,4
-Hansford,3,Commissioner of Agriculture,,REP,Sid Miller,69,83,152
-Hansford,3,Commissioner of Agriculture,,DEM,Kim Olson,1,3,4
-Hansford,3,Commissioner of Agriculture,,LIB,Richard Carpenter,3,1,4
-Hansford,3,Railroad Commissioner,,REP,Christi Craddick,70,84,154
-Hansford,3,Railroad Commissioner,,DEM,Roman McAllen,1,2,3
-Hansford,3,Railroad Commissioner,,LIB,Mike Wright,2,1,3
-Hansford,3,State Senate,31,REP,Kel Seliger,70,81,151
-Hansford,3,State Senate,31,LIB,Jack B. Westbrook,4,6,10
-Hansford,3,State Representative,88,REP,Ken King,70,82,152
-Hansford,3,State Representative,88,DEM,Ezekiel Barron,5,3,8
-Hansford,4,Straight Party,,REP,Republican,90,104,194
+Hansford,3,U.S. Senate,,REP,Ted Cruz,155,70,85
+Hansford,3,U.S. Senate,,DEM,Beto O'Rourke,5,3,2
+Hansford,3,U.S. Senate,,LIB,Neal M. Dikeman,11,2,9
+Hansford,3,U.S. House,13,REP,Mac Thornberry,156,72,84
+Hansford,3,U.S. House,13,DEM,Greg Sagan,4,2,2
+Hansford,3,U.S. House,13,LIB,Calvin DeWeese,1,1,0
+Hansford,3,Governor,,REP,Greg Abbott,151,67,84
+Hansford,3,Governor,,DEM,Lupe Valdez,6,5,1
+Hansford,3,Governor,,LIB,Mark Jay Tippetts,5,3,2
+Hansford,3,Lieutenant Governor,,REP,Dan Patrick,120,54,66
+Hansford,3,Lieutenant Governor,,DEM,Mike Collier,33,18,15
+Hansford,3,Lieutenant Governor,,LIB,Kerry Douglas McKennon,5,3,2
+Hansford,3,Attorney General,,REP,Ken Paxton,149,68,81
+Hansford,3,Attorney General,,DEM,Justin Nelson,9,6,3
+Hansford,3,Attorney General,,LIB,Michael Ray Harris,3,1,2
+Hansford,3,Comptroller of Public Accounts,,REP,Glenn Hegar,155,69,86
+Hansford,3,Comptroller of Public Accounts,,DEM,Joi Chevalier,2,1,1
+Hansford,3,Comptroller of Public Accounts,,LIB,Ben Sanders,2,2,0
+Hansford,3,Commissioner of The General Land Office,,REP,George P. Bush,150,66,84
+Hansford,3,Commissioner of The General Land Office,,DEM,Miguel Suazo,6,6,0
+Hansford,3,Commissioner of The General Land Office,,LIB,Matt Pina,4,1,3
+Hansford,3,Commissioner of Agriculture,,REP,Sid Miller,152,69,83
+Hansford,3,Commissioner of Agriculture,,DEM,Kim Olson,4,1,3
+Hansford,3,Commissioner of Agriculture,,LIB,Richard Carpenter,4,3,1
+Hansford,3,Railroad Commissioner,,REP,Christi Craddick,154,70,84
+Hansford,3,Railroad Commissioner,,DEM,Roman McAllen,3,1,2
+Hansford,3,Railroad Commissioner,,LIB,Mike Wright,3,2,1
+Hansford,3,State Senate,31,REP,Kel Seliger,151,70,81
+Hansford,3,State Senate,31,LIB,Jack B. Westbrook,10,4,6
+Hansford,3,State Representative,88,REP,Ken King,152,70,82
+Hansford,3,State Representative,88,DEM,Ezekiel Barron,8,5,3
+Hansford,4,Straight Party,,REP,Republican,194,90,104
 Hansford,4,Straight Party,,DEM,Democratic,0,0,0
 Hansford,4,Straight Party,,LIB,Libertarian,0,0,0
-Hansford,4,U.S. Senate,,REP,Ted Cruz,134,180,314
-Hansford,4,U.S. Senate,,DEM,Beto O'Rourke,18,5,23
-Hansford,4,U.S. Senate,,LIB,Neal M. Dikeman,0,2,2
-Hansford,4,U.S. House,13,REP,Mac Thornberry,136,183,319
-Hansford,4,U.S. House,13,DEM,Greg Sagan,13,3,16
-Hansford,4,U.S. House,13,LIB,Calvin DeWeese,1,1,2
-Hansford,4,Governor,,REP,Greg Abbott,135,180,315
-Hansford,4,Governor,,DEM,Lupe Valdez,15,5,20
-Hansford,4,Governor,,LIB,Mark Jay Tippetts,0,1,1
-Hansford,4,Lieutenant Governor,,REP,Dan Patrick,118,151,269
-Hansford,4,Lieutenant Governor,,DEM,Mike Collier,28,31,59
-Hansford,4,Lieutenant Governor,,LIB,Kerry Douglas McKennon,2,1,3
-Hansford,4,Attorney General,,REP,Ken Paxton,127,173,300
-Hansford,4,Attorney General,,DEM,Justin Nelson,19,9,28
-Hansford,4,Attorney General,,LIB,Michael Ray Harris,3,1,4
-Hansford,4,Comptroller of Public Accounts,,REP,Glenn Hegar,132,178,310
-Hansford,4,Comptroller of Public Accounts,,DEM,Joi Chevalier,11,4,15
-Hansford,4,Comptroller of Public Accounts,,LIB,Ben Sanders,3,1,4
-Hansford,4,Commissioner of The General Land Office,,REP,George P. Bush,133,182,315
-Hansford,4,Commissioner of The General Land Office,,DEM,Miguel Suazo,11,3,14
-Hansford,4,Commissioner of The General Land Office,,LIB,Matt Pina,4,1,5
-Hansford,4,Commissioner of Agriculture,,REP,Sid Miller,125,173,298
-Hansford,4,Commissioner of Agriculture,,DEM,Kim Olson,19,7,26
-Hansford,4,Commissioner of Agriculture,,LIB,Richard Carpenter,4,2,6
-Hansford,4,Railroad Commissioner,,REP,Christi Craddick,136,170,306
-Hansford,4,Railroad Commissioner,,DEM,Roman McAllen,8,5,13
-Hansford,4,Railroad Commissioner,,LIB,Mike Wright,3,5,8
-Hansford,4,State Senate,31,REP,Kel Seliger,136,178,314
-Hansford,4,State Senate,31,LIB,Jack B. Westbrook,9,6,15
-Hansford,4,State Representative,88,REP,Ken King,138,184,322
-Hansford,4,State Representative,88,DEM,Ezekiel Barron,13,2,15
-Hansford,5,Straight Party,,REP,Republican,79,91,170
-Hansford,5,Straight Party,,DEM,Democratic,2,3,5
+Hansford,4,U.S. Senate,,REP,Ted Cruz,314,134,180
+Hansford,4,U.S. Senate,,DEM,Beto O'Rourke,23,18,5
+Hansford,4,U.S. Senate,,LIB,Neal M. Dikeman,2,0,2
+Hansford,4,U.S. House,13,REP,Mac Thornberry,319,136,183
+Hansford,4,U.S. House,13,DEM,Greg Sagan,16,13,3
+Hansford,4,U.S. House,13,LIB,Calvin DeWeese,2,1,1
+Hansford,4,Governor,,REP,Greg Abbott,315,135,180
+Hansford,4,Governor,,DEM,Lupe Valdez,20,15,5
+Hansford,4,Governor,,LIB,Mark Jay Tippetts,1,0,1
+Hansford,4,Lieutenant Governor,,REP,Dan Patrick,269,118,151
+Hansford,4,Lieutenant Governor,,DEM,Mike Collier,59,28,31
+Hansford,4,Lieutenant Governor,,LIB,Kerry Douglas McKennon,3,2,1
+Hansford,4,Attorney General,,REP,Ken Paxton,300,127,173
+Hansford,4,Attorney General,,DEM,Justin Nelson,28,19,9
+Hansford,4,Attorney General,,LIB,Michael Ray Harris,4,3,1
+Hansford,4,Comptroller of Public Accounts,,REP,Glenn Hegar,310,132,178
+Hansford,4,Comptroller of Public Accounts,,DEM,Joi Chevalier,15,11,4
+Hansford,4,Comptroller of Public Accounts,,LIB,Ben Sanders,4,3,1
+Hansford,4,Commissioner of The General Land Office,,REP,George P. Bush,315,133,182
+Hansford,4,Commissioner of The General Land Office,,DEM,Miguel Suazo,14,11,3
+Hansford,4,Commissioner of The General Land Office,,LIB,Matt Pina,5,4,1
+Hansford,4,Commissioner of Agriculture,,REP,Sid Miller,298,125,173
+Hansford,4,Commissioner of Agriculture,,DEM,Kim Olson,26,19,7
+Hansford,4,Commissioner of Agriculture,,LIB,Richard Carpenter,6,4,2
+Hansford,4,Railroad Commissioner,,REP,Christi Craddick,306,136,170
+Hansford,4,Railroad Commissioner,,DEM,Roman McAllen,13,8,5
+Hansford,4,Railroad Commissioner,,LIB,Mike Wright,8,3,5
+Hansford,4,State Senate,31,REP,Kel Seliger,314,136,178
+Hansford,4,State Senate,31,LIB,Jack B. Westbrook,15,9,6
+Hansford,4,State Representative,88,REP,Ken King,322,138,184
+Hansford,4,State Representative,88,DEM,Ezekiel Barron,15,13,2
+Hansford,5,Straight Party,,REP,Republican,170,79,91
+Hansford,5,Straight Party,,DEM,Democratic,5,2,3
 Hansford,5,Straight Party,,LIB,Libertarian,0,0,0
-Hansford,5,U.S. Senate,,REP,Ted Cruz,133,140,273
-Hansford,5,U.S. Senate,,DEM,Beto O'Rourke,11,11,22
-Hansford,5,U.S. Senate,,LIB,Neal M. Dikeman,1,0,1
-Hansford,5,U.S. House,13,REP,Mac Thornberry,133,142,275
-Hansford,5,U.S. House,13,DEM,Greg Sagan,6,8,14
-Hansford,5,U.S. House,13,LIB,Calvin DeWeese,4,1,5
-Hansford,5,Governor,,REP,Greg Abbott,131,142,273
-Hansford,5,Governor,,DEM,Lupe Valdez,11,9,20
-Hansford,5,Governor,,LIB,Mark Jay Tippetts,1,0,1
-Hansford,5,Lieutenant Governor,,REP,Dan Patrick,118,133,251
-Hansford,5,Lieutenant Governor,,DEM,Mike Collier,21,15,36
-Hansford,5,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,0,1
-Hansford,5,Attorney General,,REP,Ken Paxton,128,138,266
-Hansford,5,Attorney General,,DEM,Justin Nelson,11,13,24
-Hansford,5,Attorney General,,LIB,Michael Ray Harris,3,0,3
-Hansford,5,Comptroller of Public Accounts,,REP,Glenn Hegar,127,137,264
-Hansford,5,Comptroller of Public Accounts,,DEM,Joi Chevalier,7,8,15
-Hansford,5,Comptroller of Public Accounts,,LIB,Ben Sanders,4,1,5
-Hansford,5,Commissioner of The General Land Office,,REP,George P. Bush,122,141,263
-Hansford,5,Commissioner of The General Land Office,,DEM,Miguel Suazo,12,8,20
-Hansford,5,Commissioner of The General Land Office,,LIB,Matt Pina,6,2,8
-Hansford,5,Commissioner of Agriculture,,REP,Sid Miller,125,131,256
-Hansford,5,Commissioner of Agriculture,,DEM,Kim Olson,6,12,18
-Hansford,5,Commissioner of Agriculture,,LIB,Richard Carpenter,6,5,11
-Hansford,5,Railroad Commissioner,,REP,Christi Craddick,129,140,269
-Hansford,5,Railroad Commissioner,,DEM,Roman McAllen,9,7,16
-Hansford,5,Railroad Commissioner,,LIB,Mike Wright,4,2,6
-Hansford,5,State Senate,31,REP,Kel Seliger,134,141,275
-Hansford,5,State Senate,31,LIB,Jack B. Westbrook,8,3,11
-Hansford,5,State Representative,88,REP,Ken King,130,140,270
-Hansford,5,State Representative,88,DEM,Ezekiel Barron,13,9,22
-Hansford,6,Straight Party,,REP,Republican,115,138,253
-Hansford,6,Straight Party,,DEM,Democratic,1,4,5
-Hansford,6,Straight Party,,LIB,Libertarian,1,0,1
-Hansford,6,U.S. Senate,,REP,Ted Cruz,161,189,350
-Hansford,6,U.S. Senate,,DEM,Beto O'Rourke,21,16,37
-Hansford,6,U.S. Senate,,LIB,Neal M. Dikeman,2,0,2
-Hansford,6,U.S. House,13,REP,Mac Thornberry,161,193,354
-Hansford,6,U.S. House,13,DEM,Greg Sagan,17,12,29
-Hansford,6,U.S. House,13,LIB,Calvin DeWeese,4,0,4
-Hansford,6,Governor,,REP,Greg Abbott,166,186,352
-Hansford,6,Governor,,DEM,Lupe Valdez,15,15,30
-Hansford,6,Governor,,LIB,Mark Jay Tippetts,3,3,6
-Hansford,6,Lieutenant Governor,,REP,Dan Patrick,146,175,321
-Hansford,6,Lieutenant Governor,,DEM,Mike Collier,28,21,49
-Hansford,6,Lieutenant Governor,,LIB,Kerry Douglas McKennon,5,3,8
-Hansford,6,Attorney General,,REP,Ken Paxton,158,183,341
-Hansford,6,Attorney General,,DEM,Justin Nelson,21,16,37
-Hansford,6,Attorney General,,LIB,Michael Ray Harris,2,2,4
-Hansford,6,Comptroller of Public Accounts,,REP,Glenn Hegar,154,178,332
-Hansford,6,Comptroller of Public Accounts,,DEM,Joi Chevalier,16,13,29
-Hansford,6,Comptroller of Public Accounts,,LIB,Ben Sanders,6,3,9
-Hansford,6,Commissioner of The General Land Office,,REP,George P. Bush,153,184,337
-Hansford,6,Commissioner of The General Land Office,,DEM,Miguel Suazo,18,14,32
-Hansford,6,Commissioner of The General Land Office,,LIB,Matt Pina,7,1,8
-Hansford,6,Commissioner of Agriculture,,REP,Sid Miller,156,180,336
-Hansford,6,Commissioner of Agriculture,,DEM,Kim Olson,16,15,31
-Hansford,6,Commissioner of Agriculture,,LIB,Richard Carpenter,5,1,6
-Hansford,6,Railroad Commissioner,,REP,Christi Craddick,152,181,333
-Hansford,6,Railroad Commissioner,,DEM,Roman McAllen,18,10,28
-Hansford,6,Railroad Commissioner,,LIB,Mike Wright,6,4,10
-Hansford,6,State Senate,31,REP,Kel Seliger,158,187,345
-Hansford,6,State Senate,31,LIB,Jack B. Westbrook,14,9,23
-Hansford,6,State Representative,88,REP,Ken King,158,184,342
-Hansford,6,State Representative,88,DEM,Ezekiel Barron,14,15,29
-Hansford,7,Straight Party,,REP,Republican,13,6,19
+Hansford,5,U.S. Senate,,REP,Ted Cruz,273,133,140
+Hansford,5,U.S. Senate,,DEM,Beto O'Rourke,22,11,11
+Hansford,5,U.S. Senate,,LIB,Neal M. Dikeman,1,1,0
+Hansford,5,U.S. House,13,REP,Mac Thornberry,275,133,142
+Hansford,5,U.S. House,13,DEM,Greg Sagan,14,6,8
+Hansford,5,U.S. House,13,LIB,Calvin DeWeese,5,4,1
+Hansford,5,Governor,,REP,Greg Abbott,273,131,142
+Hansford,5,Governor,,DEM,Lupe Valdez,20,11,9
+Hansford,5,Governor,,LIB,Mark Jay Tippetts,1,1,0
+Hansford,5,Lieutenant Governor,,REP,Dan Patrick,251,118,133
+Hansford,5,Lieutenant Governor,,DEM,Mike Collier,36,21,15
+Hansford,5,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,1,0
+Hansford,5,Attorney General,,REP,Ken Paxton,266,128,138
+Hansford,5,Attorney General,,DEM,Justin Nelson,24,11,13
+Hansford,5,Attorney General,,LIB,Michael Ray Harris,3,3,0
+Hansford,5,Comptroller of Public Accounts,,REP,Glenn Hegar,264,127,137
+Hansford,5,Comptroller of Public Accounts,,DEM,Joi Chevalier,15,7,8
+Hansford,5,Comptroller of Public Accounts,,LIB,Ben Sanders,5,4,1
+Hansford,5,Commissioner of The General Land Office,,REP,George P. Bush,263,122,141
+Hansford,5,Commissioner of The General Land Office,,DEM,Miguel Suazo,20,12,8
+Hansford,5,Commissioner of The General Land Office,,LIB,Matt Pina,8,6,2
+Hansford,5,Commissioner of Agriculture,,REP,Sid Miller,256,125,131
+Hansford,5,Commissioner of Agriculture,,DEM,Kim Olson,18,6,12
+Hansford,5,Commissioner of Agriculture,,LIB,Richard Carpenter,11,6,5
+Hansford,5,Railroad Commissioner,,REP,Christi Craddick,269,129,140
+Hansford,5,Railroad Commissioner,,DEM,Roman McAllen,16,9,7
+Hansford,5,Railroad Commissioner,,LIB,Mike Wright,6,4,2
+Hansford,5,State Senate,31,REP,Kel Seliger,275,134,141
+Hansford,5,State Senate,31,LIB,Jack B. Westbrook,11,8,3
+Hansford,5,State Representative,88,REP,Ken King,270,130,140
+Hansford,5,State Representative,88,DEM,Ezekiel Barron,22,13,9
+Hansford,6,Straight Party,,REP,Republican,253,115,138
+Hansford,6,Straight Party,,DEM,Democratic,5,1,4
+Hansford,6,Straight Party,,LIB,Libertarian,1,1,0
+Hansford,6,U.S. Senate,,REP,Ted Cruz,350,161,189
+Hansford,6,U.S. Senate,,DEM,Beto O'Rourke,37,21,16
+Hansford,6,U.S. Senate,,LIB,Neal M. Dikeman,2,2,0
+Hansford,6,U.S. House,13,REP,Mac Thornberry,354,161,193
+Hansford,6,U.S. House,13,DEM,Greg Sagan,29,17,12
+Hansford,6,U.S. House,13,LIB,Calvin DeWeese,4,4,0
+Hansford,6,Governor,,REP,Greg Abbott,352,166,186
+Hansford,6,Governor,,DEM,Lupe Valdez,30,15,15
+Hansford,6,Governor,,LIB,Mark Jay Tippetts,6,3,3
+Hansford,6,Lieutenant Governor,,REP,Dan Patrick,321,146,175
+Hansford,6,Lieutenant Governor,,DEM,Mike Collier,49,28,21
+Hansford,6,Lieutenant Governor,,LIB,Kerry Douglas McKennon,8,5,3
+Hansford,6,Attorney General,,REP,Ken Paxton,341,158,183
+Hansford,6,Attorney General,,DEM,Justin Nelson,37,21,16
+Hansford,6,Attorney General,,LIB,Michael Ray Harris,4,2,2
+Hansford,6,Comptroller of Public Accounts,,REP,Glenn Hegar,332,154,178
+Hansford,6,Comptroller of Public Accounts,,DEM,Joi Chevalier,29,16,13
+Hansford,6,Comptroller of Public Accounts,,LIB,Ben Sanders,9,6,3
+Hansford,6,Commissioner of The General Land Office,,REP,George P. Bush,337,153,184
+Hansford,6,Commissioner of The General Land Office,,DEM,Miguel Suazo,32,18,14
+Hansford,6,Commissioner of The General Land Office,,LIB,Matt Pina,8,7,1
+Hansford,6,Commissioner of Agriculture,,REP,Sid Miller,336,156,180
+Hansford,6,Commissioner of Agriculture,,DEM,Kim Olson,31,16,15
+Hansford,6,Commissioner of Agriculture,,LIB,Richard Carpenter,6,5,1
+Hansford,6,Railroad Commissioner,,REP,Christi Craddick,333,152,181
+Hansford,6,Railroad Commissioner,,DEM,Roman McAllen,28,18,10
+Hansford,6,Railroad Commissioner,,LIB,Mike Wright,10,6,4
+Hansford,6,State Senate,31,REP,Kel Seliger,345,158,187
+Hansford,6,State Senate,31,LIB,Jack B. Westbrook,23,14,9
+Hansford,6,State Representative,88,REP,Ken King,342,158,184
+Hansford,6,State Representative,88,DEM,Ezekiel Barron,29,14,15
+Hansford,7,Straight Party,,REP,Republican,19,13,6
 Hansford,7,Straight Party,,DEM,Democratic,0,0,0
 Hansford,7,Straight Party,,LIB,Libertarian,0,0,0
-Hansford,7,U.S. Senate,,REP,Ted Cruz,22,7,29
+Hansford,7,U.S. Senate,,REP,Ted Cruz,29,22,7
 Hansford,7,U.S. Senate,,DEM,Beto O'Rourke,0,0,0
-Hansford,7,U.S. Senate,,LIB,Neal M. Dikeman,1,0,1
-Hansford,7,U.S. House,13,REP,Mac Thornberry,23,7,30
+Hansford,7,U.S. Senate,,LIB,Neal M. Dikeman,1,1,0
+Hansford,7,U.S. House,13,REP,Mac Thornberry,30,23,7
 Hansford,7,U.S. House,13,DEM,Greg Sagan,0,0,0
 Hansford,7,U.S. House,13,LIB,Calvin DeWeese,0,0,0
-Hansford,7,Governor,,REP,Greg Abbott,23,7,30
+Hansford,7,Governor,,REP,Greg Abbott,30,23,7
 Hansford,7,Governor,,DEM,Lupe Valdez,0,0,0
 Hansford,7,Governor,,LIB,Mark Jay Tippetts,0,0,0
-Hansford,7,Lieutenant Governor,,REP,Dan Patrick,23,7,30
+Hansford,7,Lieutenant Governor,,REP,Dan Patrick,30,23,7
 Hansford,7,Lieutenant Governor,,DEM,Mike Collier,0,0,0
 Hansford,7,Lieutenant Governor,,LIB,Kerry Douglas McKennon,0,0,0
-Hansford,7,Attorney General,,REP,Ken Paxton,21,7,28
+Hansford,7,Attorney General,,REP,Ken Paxton,28,21,7
 Hansford,7,Attorney General,,DEM,Justin Nelson,0,0,0
-Hansford,7,Attorney General,,LIB,Michael Ray Harris,1,0,1
-Hansford,7,Comptroller of Public Accounts,,REP,Glenn Hegar,22,7,29
+Hansford,7,Attorney General,,LIB,Michael Ray Harris,1,1,0
+Hansford,7,Comptroller of Public Accounts,,REP,Glenn Hegar,29,22,7
 Hansford,7,Comptroller of Public Accounts,,DEM,Joi Chevalier,0,0,0
 Hansford,7,Comptroller of Public Accounts,,LIB,Ben Sanders,0,0,0
-Hansford,7,Commissioner of The General Land Office,,REP,George P. Bush,22,7,29
+Hansford,7,Commissioner of The General Land Office,,REP,George P. Bush,29,22,7
 Hansford,7,Commissioner of The General Land Office,,DEM,Miguel Suazo,0,0,0
 Hansford,7,Commissioner of The General Land Office,,LIB,Matt Pina,0,0,0
-Hansford,7,Commissioner of Agriculture,,REP,Sid Miller,22,7,29
+Hansford,7,Commissioner of Agriculture,,REP,Sid Miller,29,22,7
 Hansford,7,Commissioner of Agriculture,,DEM,Kim Olson,0,0,0
-Hansford,7,Commissioner of Agriculture,,LIB,Richard Carpenter,1,0,1
-Hansford,7,Railroad Commissioner,,REP,Christi Craddick,22,7,29
+Hansford,7,Commissioner of Agriculture,,LIB,Richard Carpenter,1,1,0
+Hansford,7,Railroad Commissioner,,REP,Christi Craddick,29,22,7
 Hansford,7,Railroad Commissioner,,DEM,Roman McAllen,0,0,0
 Hansford,7,Railroad Commissioner,,LIB,Mike Wright,0,0,0
-Hansford,7,State Senate,31,REP,Kel Seliger,23,7,30
+Hansford,7,State Senate,31,REP,Kel Seliger,30,23,7
 Hansford,7,State Senate,31,LIB,Jack B. Westbrook,0,0,0
-Hansford,7,State Representative,88,REP,Ken King,21,6,27
-Hansford,7,State Representative,88,DEM,Ezekiel Barron,1,1,2
-Hansford,8,Straight Party,,REP,Republican,520,,520
-Hansford,8,Straight Party,,DEM,Democratic,11,,11
-Hansford,8,Straight Party,,LIB,Libertarian,0,,0
-Hansford,8,U.S. Senate,,REP,Ted Cruz,813,,813
-Hansford,8,U.S. Senate,,DEM,Beto O'Rourke,54,,54
-Hansford,8,U.S. Senate,,LIB,Neal M. Dikeman,11,,11
-Hansford,8,U.S. House,13,REP,Mac Thornberry,818,,818
-Hansford,8,U.S. House,13,DEM,Greg Sagan,41,,41
-Hansford,8,U.S. House,13,LIB,Calvin DeWeese,5,,5
-Hansford,8,Governor,,REP,Greg Abbott,809,,809
-Hansford,8,Governor,,DEM,Lupe Valdez,45,,45
-Hansford,8,Governor,,LIB,Mark Jay Tippetts,8,,8
-Hansford,8,Lieutenant Governor,,REP,Dan Patrick,725,,725
-Hansford,8,Lieutenant Governor,,DEM,Mike Collier,112,,112
-Hansford,8,Lieutenant Governor,,LIB,Kerry Douglas McKennon,11,,11
-Hansford,8,Attorney General,,REP,Ken Paxton,782,,782
-Hansford,8,Attorney General,,DEM,Justin Nelson,66,,66
-Hansford,8,Attorney General,,LIB,Michael Ray Harris,6,,6
-Hansford,8,Comptroller of Public Accounts,,REP,Glenn Hegar,792,,792
-Hansford,8,Comptroller of Public Accounts,,DEM,Joi Chevalier,40,,40
-Hansford,8,Comptroller of Public Accounts,,LIB,Ben Sanders,7,,7
-Hansford,8,Commissioner of The General Land Office,,REP,George P. Bush,804,,804
-Hansford,8,Commissioner of The General Land Office,,DEM,Miguel Suazo,38,,38
-Hansford,8,Commissioner of The General Land Office,,LIB,Matt Pina,13,,13
-Hansford,8,Commissioner of Agriculture,,REP,Sid Miller,778,,778
-Hansford,8,Commissioner of Agriculture,,DEM,Kim Olson,56,,56
-Hansford,8,Commissioner of Agriculture,,LIB,Richard Carpenter,12,,12
-Hansford,8,Railroad Commissioner,,REP,Christi Craddick,794,,794
-Hansford,8,Railroad Commissioner,,DEM,Roman McAllen,38,,38
-Hansford,8,Railroad Commissioner,,LIB,Mike Wright,14,,14
-Hansford,8,State Senate,31,REP,Kel Seliger,803,,803
-Hansford,8,State Senate,31,LIB,Jack B. Westbrook,34,,34
-Hansford,8,State Representative,88,REP,Ken King,806,,806
-Hansford,8,State Representative,88,DEM,Ezekiel Barron,44,,44
-Hansford,9,Straight Party,,REP,Republican,13,5,18
-Hansford,9,Straight Party,,DEM,Democratic,1,0,1
+Hansford,7,State Representative,88,REP,Ken King,27,21,6
+Hansford,7,State Representative,88,DEM,Ezekiel Barron,2,1,1
+Hansford,8,Straight Party,,REP,Republican,520,520,
+Hansford,8,Straight Party,,DEM,Democratic,11,11,
+Hansford,8,Straight Party,,LIB,Libertarian,0,0,
+Hansford,8,U.S. Senate,,REP,Ted Cruz,813,813,
+Hansford,8,U.S. Senate,,DEM,Beto O'Rourke,54,54,
+Hansford,8,U.S. Senate,,LIB,Neal M. Dikeman,11,11,
+Hansford,8,U.S. House,13,REP,Mac Thornberry,818,818,
+Hansford,8,U.S. House,13,DEM,Greg Sagan,41,41,
+Hansford,8,U.S. House,13,LIB,Calvin DeWeese,5,5,
+Hansford,8,Governor,,REP,Greg Abbott,809,809,
+Hansford,8,Governor,,DEM,Lupe Valdez,45,45,
+Hansford,8,Governor,,LIB,Mark Jay Tippetts,8,8,
+Hansford,8,Lieutenant Governor,,REP,Dan Patrick,725,725,
+Hansford,8,Lieutenant Governor,,DEM,Mike Collier,112,112,
+Hansford,8,Lieutenant Governor,,LIB,Kerry Douglas McKennon,11,11,
+Hansford,8,Attorney General,,REP,Ken Paxton,782,782,
+Hansford,8,Attorney General,,DEM,Justin Nelson,66,66,
+Hansford,8,Attorney General,,LIB,Michael Ray Harris,6,6,
+Hansford,8,Comptroller of Public Accounts,,REP,Glenn Hegar,792,792,
+Hansford,8,Comptroller of Public Accounts,,DEM,Joi Chevalier,40,40,
+Hansford,8,Comptroller of Public Accounts,,LIB,Ben Sanders,7,7,
+Hansford,8,Commissioner of The General Land Office,,REP,George P. Bush,804,804,
+Hansford,8,Commissioner of The General Land Office,,DEM,Miguel Suazo,38,38,
+Hansford,8,Commissioner of The General Land Office,,LIB,Matt Pina,13,13,
+Hansford,8,Commissioner of Agriculture,,REP,Sid Miller,778,778,
+Hansford,8,Commissioner of Agriculture,,DEM,Kim Olson,56,56,
+Hansford,8,Commissioner of Agriculture,,LIB,Richard Carpenter,12,12,
+Hansford,8,Railroad Commissioner,,REP,Christi Craddick,794,794,
+Hansford,8,Railroad Commissioner,,DEM,Roman McAllen,38,38,
+Hansford,8,Railroad Commissioner,,LIB,Mike Wright,14,14,
+Hansford,8,State Senate,31,REP,Kel Seliger,803,803,
+Hansford,8,State Senate,31,LIB,Jack B. Westbrook,34,34,
+Hansford,8,State Representative,88,REP,Ken King,806,806,
+Hansford,8,State Representative,88,DEM,Ezekiel Barron,44,44,
+Hansford,9,Straight Party,,REP,Republican,18,13,5
+Hansford,9,Straight Party,,DEM,Democratic,1,1,0
 Hansford,9,Straight Party,,LIB,Libertarian,0,0,0
-Hansford,9,U.S. Senate,,REP,Ted Cruz,47,13,60
-Hansford,9,U.S. Senate,,DEM,Beto O'Rourke,5,0,5
-Hansford,9,U.S. Senate,,LIB,Neal M. Dikeman,1,0,1
-Hansford,9,U.S. House,13,REP,Mac Thornberry,49,12,61
-Hansford,9,U.S. House,13,DEM,Greg Sagan,4,0,4
+Hansford,9,U.S. Senate,,REP,Ted Cruz,60,47,13
+Hansford,9,U.S. Senate,,DEM,Beto O'Rourke,5,5,0
+Hansford,9,U.S. Senate,,LIB,Neal M. Dikeman,1,1,0
+Hansford,9,U.S. House,13,REP,Mac Thornberry,61,49,12
+Hansford,9,U.S. House,13,DEM,Greg Sagan,4,4,0
 Hansford,9,U.S. House,13,LIB,Calvin DeWeese,0,0,0
-Hansford,9,Governor,,REP,Greg Abbott,47,13,60
-Hansford,9,Governor,,DEM,Lupe Valdez,5,0,5
-Hansford,9,Governor,,LIB,Mark Jay Tippetts,3,0,3
-Hansford,9,Lieutenant Governor,,REP,Dan Patrick,38,12,50
-Hansford,9,Lieutenant Governor,,DEM,Mike Collier,13,0,13
-Hansford,9,Lieutenant Governor,,LIB,Kerry Douglas McKennon,3,0,3
-Hansford,9,Attorney General,,REP,Ken Paxton,44,12,56
-Hansford,9,Attorney General,,DEM,Justin Nelson,7,0,7
-Hansford,9,Attorney General,,LIB,Michael Ray Harris,4,0,4
-Hansford,9,Comptroller of Public Accounts,,REP,Glenn Hegar,42,13,55
-Hansford,9,Comptroller of Public Accounts,,DEM,Joi Chevalier,6,0,6
-Hansford,9,Comptroller of Public Accounts,,LIB,Ben Sanders,5,0,5
-Hansford,9,Commissioner of The General Land Office,,REP,George P. Bush,45,13,58
-Hansford,9,Commissioner of The General Land Office,,DEM,Miguel Suazo,6,0,6
-Hansford,9,Commissioner of The General Land Office,,LIB,Matt Pina,3,0,3
-Hansford,9,Commissioner of Agriculture,,REP,Sid Miller,41,13,54
-Hansford,9,Commissioner of Agriculture,,DEM,Kim Olson,8,0,8
-Hansford,9,Commissioner of Agriculture,,LIB,Richard Carpenter,5,0,5
-Hansford,9,Railroad Commissioner,,REP,Christi Craddick,48,13,61
-Hansford,9,Railroad Commissioner,,DEM,Roman McAllen,5,0,5
-Hansford,9,Railroad Commissioner,,LIB,Mike Wright,1,0,1
-Hansford,9,State Senate,31,REP,Kel Seliger,48,13,61
-Hansford,9,State Senate,31,LIB,Jack B. Westbrook,5,0,5
-Hansford,9,State Representative,88,REP,Ken King,52,13,65
-Hansford,9,State Representative,88,DEM,Ezekiel Barron,1,0,1
+Hansford,9,Governor,,REP,Greg Abbott,60,47,13
+Hansford,9,Governor,,DEM,Lupe Valdez,5,5,0
+Hansford,9,Governor,,LIB,Mark Jay Tippetts,3,3,0
+Hansford,9,Lieutenant Governor,,REP,Dan Patrick,50,38,12
+Hansford,9,Lieutenant Governor,,DEM,Mike Collier,13,13,0
+Hansford,9,Lieutenant Governor,,LIB,Kerry Douglas McKennon,3,3,0
+Hansford,9,Attorney General,,REP,Ken Paxton,56,44,12
+Hansford,9,Attorney General,,DEM,Justin Nelson,7,7,0
+Hansford,9,Attorney General,,LIB,Michael Ray Harris,4,4,0
+Hansford,9,Comptroller of Public Accounts,,REP,Glenn Hegar,55,42,13
+Hansford,9,Comptroller of Public Accounts,,DEM,Joi Chevalier,6,6,0
+Hansford,9,Comptroller of Public Accounts,,LIB,Ben Sanders,5,5,0
+Hansford,9,Commissioner of The General Land Office,,REP,George P. Bush,58,45,13
+Hansford,9,Commissioner of The General Land Office,,DEM,Miguel Suazo,6,6,0
+Hansford,9,Commissioner of The General Land Office,,LIB,Matt Pina,3,3,0
+Hansford,9,Commissioner of Agriculture,,REP,Sid Miller,54,41,13
+Hansford,9,Commissioner of Agriculture,,DEM,Kim Olson,8,8,0
+Hansford,9,Commissioner of Agriculture,,LIB,Richard Carpenter,5,5,0
+Hansford,9,Railroad Commissioner,,REP,Christi Craddick,61,48,13
+Hansford,9,Railroad Commissioner,,DEM,Roman McAllen,5,5,0
+Hansford,9,Railroad Commissioner,,LIB,Mike Wright,1,1,0
+Hansford,9,State Senate,31,REP,Kel Seliger,61,48,13
+Hansford,9,State Senate,31,LIB,Jack B. Westbrook,5,5,0
+Hansford,9,State Representative,88,REP,Ken King,65,52,13
+Hansford,9,State Representative,88,DEM,Ezekiel Barron,1,1,0

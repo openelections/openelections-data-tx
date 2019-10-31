@@ -1,188 +1,188 @@
-county,precinct,office,district,party,candidate,votes,early_voting,election_day
-Andrews,1,U.S. Senate,,REP,Ted Cruz,716,444,272
-Andrews,1,U.S. Senate,,DEM,Beto O'Rourke,178,91,87
+county,precinct,office,district,party,candidate,votes,election_day,early_voting
+Andrews,1,U.S. Senate,,REP,Ted Cruz,716,272,444
+Andrews,1,U.S. Senate,,DEM,Beto O'Rourke,178,87,91
 Andrews,1,U.S. Senate,,LIB,Neal M Dikeman,8,4,4
-Andrews,2,U.S. Senate,,REP,Ted Cruz,1281,865,416
-Andrews,2,U.S. Senate,,DEM,Beto O'Rourke,200,107,93
-Andrews,2,U.S. Senate,,LIB,Neal M Dikeman,8,3,5
-Andrews,3,U.S. Senate,,REP,Ted Cruz,784,517,267
-Andrews,3,U.S. Senate,,DEM,Beto O'Rourke,202,96,106
-Andrews,4,U.S. Senate,,REP,Ted Cruz,557,332,225
-Andrews,4,U.S. Senate,,DEM,Beto O'Rourke,178,86,92
+Andrews,2,U.S. Senate,,REP,Ted Cruz,1281,416,865
+Andrews,2,U.S. Senate,,DEM,Beto O'Rourke,200,93,107
+Andrews,2,U.S. Senate,,LIB,Neal M Dikeman,8,5,3
+Andrews,3,U.S. Senate,,REP,Ted Cruz,784,267,517
+Andrews,3,U.S. Senate,,DEM,Beto O'Rourke,202,106,96
+Andrews,4,U.S. Senate,,REP,Ted Cruz,557,225,332
+Andrews,4,U.S. Senate,,DEM,Beto O'Rourke,178,92,86
 Andrews,4,U.S. Senate,,LIB,Neal M Dikeman,2,1,1
-Andrews,1,U.S. House,11,REP,Mike Conaway,733,449,284
-Andrews,1,U.S. House,11,DEM,Jeannie Lou Leeder,170,83,87
-Andrews,1,U.S. House,11,LIB,Rhett Rosenquest Smith,10,6,4
-Andrews,2,U.S. House,11,REP,Mike Conaway,1296,870,426
-Andrews,2,U.S. House,11,DEM,Jeannie Lou Leeder,168,90,78
-Andrews,2,U.S. House,11,LIB,Rhett Rosenquest Smith,27,17,10
-Andrews,3,U.S. House,11,REP,Mike Conaway,817,526,291
-Andrews,3,U.S. House,11,DEM,Jeannie Lou Leeder,159,81,78
-Andrews,3,U.S. House,11,LIB,Rhett Rosenquest Smith,9,5,4
-Andrews,4,U.S. House,11,REP,Mike Conaway,573,337,236
-Andrews,4,U.S. House,11,DEM,Jeannie Lou Leeder,168,79,89
-Andrews,4,U.S. House,11,LIB,Rhett Rosenquest Smith,5,1,4
-Andrews,1,Governor,,REP,Greg Abbott,733,451,282
-Andrews,1,Governor,,DEM,Lupe Valdez,175,84,91
+Andrews,1,U.S. House,11,REP,Mike Conaway,733,284,449
+Andrews,1,U.S. House,11,DEM,Jeannie Lou Leeder,170,87,83
+Andrews,1,U.S. House,11,LIB,Rhett Rosenquest Smith,10,4,6
+Andrews,2,U.S. House,11,REP,Mike Conaway,1296,426,870
+Andrews,2,U.S. House,11,DEM,Jeannie Lou Leeder,168,78,90
+Andrews,2,U.S. House,11,LIB,Rhett Rosenquest Smith,27,10,17
+Andrews,3,U.S. House,11,REP,Mike Conaway,817,291,526
+Andrews,3,U.S. House,11,DEM,Jeannie Lou Leeder,159,78,81
+Andrews,3,U.S. House,11,LIB,Rhett Rosenquest Smith,9,4,5
+Andrews,4,U.S. House,11,REP,Mike Conaway,573,236,337
+Andrews,4,U.S. House,11,DEM,Jeannie Lou Leeder,168,89,79
+Andrews,4,U.S. House,11,LIB,Rhett Rosenquest Smith,5,4,1
+Andrews,1,Governor,,REP,Greg Abbott,733,282,451
+Andrews,1,Governor,,DEM,Lupe Valdez,175,91,84
 Andrews,1,Governor,,LIB,Mark Jay Tippetts,6,3,3
-Andrews,2,Governor,,REP,Greg Abbott,1293,874,419
-Andrews,2,Governor,,DEM,Lupe Valdez,179,93,86
-Andrews,2,Governor,,LIB,Mark Jay Tippetts,17,8,9
-Andrews,3,Governor,,REP,Greg Abbott,818,528,290
+Andrews,2,Governor,,REP,Greg Abbott,1293,419,874
+Andrews,2,Governor,,DEM,Lupe Valdez,179,86,93
+Andrews,2,Governor,,LIB,Mark Jay Tippetts,17,9,8
+Andrews,3,Governor,,REP,Greg Abbott,818,290,528
 Andrews,3,Governor,,DEM,Lupe Valdez,162,81,81
-Andrews,3,Governor,,LIB,Mark Jay Tippetts,7,3,4
-Andrews,4,Governor,,REP,Greg Abbott,556,331,225
-Andrews,4,Governor,,DEM,Lupe Valdez,171,82,89
+Andrews,3,Governor,,LIB,Mark Jay Tippetts,7,4,3
+Andrews,4,Governor,,REP,Greg Abbott,556,225,331
+Andrews,4,Governor,,DEM,Lupe Valdez,171,89,82
 Andrews,4,Governor,,LIB,Mark Jay Tippetts,8,4,4
-Andrews,1,Lieutenant Governor,,REP,Dan Patrick,680,425,255
-Andrews,1,Lieutenant Governor,,DEM,Mike Collier,222,107,115
-Andrews,1,Lieutenant Governor,,LIB,Kerry Douglas McKennon,9,6,3
-Andrews,2,Lieutenant Governor,,REP,Dan Patrick,1161,791,370
-Andrews,2,Lieutenant Governor,,DEM,Mike Collier,283,155,128
-Andrews,2,Lieutenant Governor,,LIB,Kerry Douglas McKennon,35,21,14
-Andrews,3,Lieutenant Governor,,REP,Dan Patrick,756,491,265
-Andrews,3,Lieutenant Governor,,DEM,Mike Collier,212,114,98
-Andrews,3,Lieutenant Governor,,LIB,Kerry Douglas McKennon,18,6,12
-Andrews,4,Lieutenant Governor,,REP,Dan Patrick,529,314,215
-Andrews,4,Lieutenant Governor,,DEM,Mike Collier,191,95,96
-Andrews,4,Lieutenant Governor,,LIB,Kerry Douglas McKennon,11,6,5
-Andrews,1,Attorney General,,REP,Ken Paxton,710,440,270
-Andrews,1,Attorney General,,DEM,Justin Nelson,193,92,101
-Andrews,1,Attorney General,,LIB,Michael Ray Harris,8,5,3
-Andrews,2,Attorney General,,REP,Ken Paxton,1236,830,406
-Andrews,2,Attorney General,,DEM,Justin Nelson,194,108,86
-Andrews,2,Attorney General,,LIB,Michael Ray Harris,42,26,16
-Andrews,3,Attorney General,,REP,Ken Paxton,768,501,267
-Andrews,3,Attorney General,,DEM,Justin Nelson,189,97,92
-Andrews,3,Attorney General,,LIB,Michael Ray Harris,29,14,15
-Andrews,4,Attorney General,,REP,Ken Paxton,542,324,218
+Andrews,1,Lieutenant Governor,,REP,Dan Patrick,680,255,425
+Andrews,1,Lieutenant Governor,,DEM,Mike Collier,222,115,107
+Andrews,1,Lieutenant Governor,,LIB,Kerry Douglas McKennon,9,3,6
+Andrews,2,Lieutenant Governor,,REP,Dan Patrick,1161,370,791
+Andrews,2,Lieutenant Governor,,DEM,Mike Collier,283,128,155
+Andrews,2,Lieutenant Governor,,LIB,Kerry Douglas McKennon,35,14,21
+Andrews,3,Lieutenant Governor,,REP,Dan Patrick,756,265,491
+Andrews,3,Lieutenant Governor,,DEM,Mike Collier,212,98,114
+Andrews,3,Lieutenant Governor,,LIB,Kerry Douglas McKennon,18,12,6
+Andrews,4,Lieutenant Governor,,REP,Dan Patrick,529,215,314
+Andrews,4,Lieutenant Governor,,DEM,Mike Collier,191,96,95
+Andrews,4,Lieutenant Governor,,LIB,Kerry Douglas McKennon,11,5,6
+Andrews,1,Attorney General,,REP,Ken Paxton,710,270,440
+Andrews,1,Attorney General,,DEM,Justin Nelson,193,101,92
+Andrews,1,Attorney General,,LIB,Michael Ray Harris,8,3,5
+Andrews,2,Attorney General,,REP,Ken Paxton,1236,406,830
+Andrews,2,Attorney General,,DEM,Justin Nelson,194,86,108
+Andrews,2,Attorney General,,LIB,Michael Ray Harris,42,16,26
+Andrews,3,Attorney General,,REP,Ken Paxton,768,267,501
+Andrews,3,Attorney General,,DEM,Justin Nelson,189,92,97
+Andrews,3,Attorney General,,LIB,Michael Ray Harris,29,15,14
+Andrews,4,Attorney General,,REP,Ken Paxton,542,218,324
 Andrews,4,Attorney General,,DEM,Justin Nelson,176,88,88
-Andrews,4,Attorney General,,LIB,Michael Ray Harris,13,3,10
-Andrews,1,Comptroller of Public Accounts,,REP,Glenn Hegar,701,438,263
-Andrews,1,Comptroller of Public Accounts,,DEM,Joi Chevalier,184,87,97
-Andrews,1,Comptroller of Public Accounts,,LIB,Ben Sanders,20,9,11
-Andrews,2,Comptroller of Public Accounts,,REP,Glenn Hegar,1271,853,418
-Andrews,2,Comptroller of Public Accounts,,DEM,Joi Chevalier,161,87,74
-Andrews,2,Comptroller of Public Accounts,,LIB,Ben Sanders,38,20,18
-Andrews,3,Comptroller of Public Accounts,,REP,Glenn Hegar,779,509,270
-Andrews,3,Comptroller of Public Accounts,,DEM,Joi Chevalier,163,83,80
-Andrews,3,Comptroller of Public Accounts,,LIB,Ben Sanders,34,16,18
-Andrews,4,Comptroller of Public Accounts,,REP,Glenn Hegar,536,321,215
-Andrews,4,Comptroller of Public Accounts,,DEM,Joi Chevalier,160,77,83
-Andrews,4,Comptroller of Public Accounts,,LIB,Ben Sanders,26,10,16
-Andrews,1,Commissioner of Gen Land Office,,REP,George P. Bush,697,433,264
-Andrews,1,Commissioner of Gen Land Office,,DEM,Miguel Suazo,183,88,95
+Andrews,4,Attorney General,,LIB,Michael Ray Harris,13,10,3
+Andrews,1,Comptroller of Public Accounts,,REP,Glenn Hegar,701,263,438
+Andrews,1,Comptroller of Public Accounts,,DEM,Joi Chevalier,184,97,87
+Andrews,1,Comptroller of Public Accounts,,LIB,Ben Sanders,20,11,9
+Andrews,2,Comptroller of Public Accounts,,REP,Glenn Hegar,1271,418,853
+Andrews,2,Comptroller of Public Accounts,,DEM,Joi Chevalier,161,74,87
+Andrews,2,Comptroller of Public Accounts,,LIB,Ben Sanders,38,18,20
+Andrews,3,Comptroller of Public Accounts,,REP,Glenn Hegar,779,270,509
+Andrews,3,Comptroller of Public Accounts,,DEM,Joi Chevalier,163,80,83
+Andrews,3,Comptroller of Public Accounts,,LIB,Ben Sanders,34,18,16
+Andrews,4,Comptroller of Public Accounts,,REP,Glenn Hegar,536,215,321
+Andrews,4,Comptroller of Public Accounts,,DEM,Joi Chevalier,160,83,77
+Andrews,4,Comptroller of Public Accounts,,LIB,Ben Sanders,26,16,10
+Andrews,1,Commissioner of Gen Land Office,,REP,George P. Bush,697,264,433
+Andrews,1,Commissioner of Gen Land Office,,DEM,Miguel Suazo,183,95,88
 Andrews,1,Commissioner of Gen Land Office,,LIB,Matt Pina,22,11,11
-Andrews,2,Commissioner of Gen Land Office,,REP,George P. Bush,1260,844,416
-Andrews,2,Commissioner of Gen Land Office,,DEM,Miguel Suazo,169,88,81
-Andrews,2,Commissioner of Gen Land Office,,LIB,Matt Pina,43,29,14
-Andrews,3,Commissioner of Gen Land Office,,REP,George P. Bush,789,511,278
-Andrews,3,Commissioner of Gen Land Office,,DEM,Miguel Suazo,165,85,80
+Andrews,2,Commissioner of Gen Land Office,,REP,George P. Bush,1260,416,844
+Andrews,2,Commissioner of Gen Land Office,,DEM,Miguel Suazo,169,81,88
+Andrews,2,Commissioner of Gen Land Office,,LIB,Matt Pina,43,14,29
+Andrews,3,Commissioner of Gen Land Office,,REP,George P. Bush,789,278,511
+Andrews,3,Commissioner of Gen Land Office,,DEM,Miguel Suazo,165,80,85
 Andrews,3,Commissioner of Gen Land Office,,LIB,Matt Pina,28,14,14
-Andrews,4,Commissioner of Gen Land Office,,REP,George P. Bush,545,323,222
-Andrews,4,Commissioner of Gen Land Office,,DEM,Miguel Suazo,162,77,85
-Andrews,4,Commissioner of Gen Land Office,,LIB,Matt Pina,17,9,8
-Andrews,1,Commissioner of Agriculture,,REP,Sid Miller,691,437,254
-Andrews,1,Commissioner of Agriculture,,DEM,Kim Olson,192,89,103
-Andrews,1,Commissioner of Agriculture,,LIB,Richard Carpenter,21,9,12
-Andrews,2,Commissioner of Agriculture,,REP,Sid Miller,1255,847,408
-Andrews,2,Commissioner of Agriculture,,DEM,Kim Olson,183,95,88
-Andrews,2,Commissioner of Agriculture,,LIB,Richard Carpenter,29,17,12
-Andrews,3,Commissioner of Agriculture,,REP,Sid Miller,1074,805,269
-Andrews,3,Commissioner of Agriculture,,DEM,Kim Olson,169,83,86
-Andrews,3,Commissioner of Agriculture,,LIB,Richard Carpenter,28,15,13
-Andrews,4,Commissioner of Agriculture,,REP,Sid Miller,530,315,215
-Andrews,4,Commissioner of Agriculture,,DEM,Kim Olson,176,90,86
-Andrews,4,Commissioner of Agriculture,,LIB,Richard Carpenter,13,3,10
-Andrews,1,Ralroad Commissioner,,REP,Christi Craddick,703,438,265
-Andrews,1,Ralroad Commissioner,,DEM,Roman McAllen,186,88,98
+Andrews,4,Commissioner of Gen Land Office,,REP,George P. Bush,545,222,323
+Andrews,4,Commissioner of Gen Land Office,,DEM,Miguel Suazo,162,85,77
+Andrews,4,Commissioner of Gen Land Office,,LIB,Matt Pina,17,8,9
+Andrews,1,Commissioner of Agriculture,,REP,Sid Miller,691,254,437
+Andrews,1,Commissioner of Agriculture,,DEM,Kim Olson,192,103,89
+Andrews,1,Commissioner of Agriculture,,LIB,Richard Carpenter,21,12,9
+Andrews,2,Commissioner of Agriculture,,REP,Sid Miller,1255,408,847
+Andrews,2,Commissioner of Agriculture,,DEM,Kim Olson,183,88,95
+Andrews,2,Commissioner of Agriculture,,LIB,Richard Carpenter,29,12,17
+Andrews,3,Commissioner of Agriculture,,REP,Sid Miller,1074,269,805
+Andrews,3,Commissioner of Agriculture,,DEM,Kim Olson,169,86,83
+Andrews,3,Commissioner of Agriculture,,LIB,Richard Carpenter,28,13,15
+Andrews,4,Commissioner of Agriculture,,REP,Sid Miller,530,215,315
+Andrews,4,Commissioner of Agriculture,,DEM,Kim Olson,176,86,90
+Andrews,4,Commissioner of Agriculture,,LIB,Richard Carpenter,13,10,3
+Andrews,1,Ralroad Commissioner,,REP,Christi Craddick,703,265,438
+Andrews,1,Ralroad Commissioner,,DEM,Roman McAllen,186,98,88
 Andrews,1,Ralroad Commissioner,,LIB,Mike Wright,18,9,9
-Andrews,2,Ralroad Commissioner,,REP,Christi Craddick,1263,852,411
-Andrews,2,Ralroad Commissioner,,DEM,Roman McAllen,162,83,79
-Andrews,2,Ralroad Commissioner,,LIB,Mike Wright,48,29,19
-Andrews,3,Ralroad Commissioner,,REP,Christi Craddick,798,517,281
-Andrews,3,Ralroad Commissioner,,DEM,Roman McAllen,153,76,77
-Andrews,3,Ralroad Commissioner,,LIB,Mike Wright,30,16,14
-Andrews,4,Ralroad Commissioner,,REP,Christi Craddick,540,321,219
-Andrews,4,Ralroad Commissioner,,DEM,Roman McAllen,153,75,78
-Andrews,4,Ralroad Commissioner,,LIB,Mike Wright,24,9,15
-Andrews,1,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,712,445,267
-Andrews,1,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,195,90,105
-Andrews,2,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,1277,854,423
-Andrews,2,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,188,103,85
-Andrews,3,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,788,516,272
-Andrews,3,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,186,91,95
-Andrews,4,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,546,324,222
-Andrews,4,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,177,86,91
-Andrews,1,"Justice, Supreme Court, Place 4",,REP,John Devine,718,448,270
-Andrews,1,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,187,87,100
-Andrews,2,"Justice, Supreme Court, Place 4",,REP,John Devine,1277,857,420
-Andrews,2,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,183,96,87
-Andrews,3,"Justice, Supreme Court, Place 4",,REP,John Devine,788,516,272
-Andrews,3,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,181,88,93
-Andrews,4,"Justice, Supreme Court, Place 4",,REP,John Devine,547,326,221
-Andrews,4,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,169,80,89
-Andrews,1,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,712,443,269
-Andrews,1,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,193,92,101
-Andrews,2,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,1276,857,419
-Andrews,2,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,182,94,88
-Andrews,3,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,788,514,274
-Andrews,3,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,182,90,92
-Andrews,4,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,529,318,211
-Andrews,4,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,181,87,94
-Andrews,1,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,696,439,257
-Andrews,1,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,191,86,105
+Andrews,2,Ralroad Commissioner,,REP,Christi Craddick,1263,411,852
+Andrews,2,Ralroad Commissioner,,DEM,Roman McAllen,162,79,83
+Andrews,2,Ralroad Commissioner,,LIB,Mike Wright,48,19,29
+Andrews,3,Ralroad Commissioner,,REP,Christi Craddick,798,281,517
+Andrews,3,Ralroad Commissioner,,DEM,Roman McAllen,153,77,76
+Andrews,3,Ralroad Commissioner,,LIB,Mike Wright,30,14,16
+Andrews,4,Ralroad Commissioner,,REP,Christi Craddick,540,219,321
+Andrews,4,Ralroad Commissioner,,DEM,Roman McAllen,153,78,75
+Andrews,4,Ralroad Commissioner,,LIB,Mike Wright,24,15,9
+Andrews,1,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,712,267,445
+Andrews,1,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,195,105,90
+Andrews,2,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,1277,423,854
+Andrews,2,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,188,85,103
+Andrews,3,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,788,272,516
+Andrews,3,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,186,95,91
+Andrews,4,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,546,222,324
+Andrews,4,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,177,91,86
+Andrews,1,"Justice, Supreme Court, Place 4",,REP,John Devine,718,270,448
+Andrews,1,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,187,100,87
+Andrews,2,"Justice, Supreme Court, Place 4",,REP,John Devine,1277,420,857
+Andrews,2,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,183,87,96
+Andrews,3,"Justice, Supreme Court, Place 4",,REP,John Devine,788,272,516
+Andrews,3,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,181,93,88
+Andrews,4,"Justice, Supreme Court, Place 4",,REP,John Devine,547,221,326
+Andrews,4,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,169,89,80
+Andrews,1,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,712,269,443
+Andrews,1,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,193,101,92
+Andrews,2,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,1276,419,857
+Andrews,2,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,182,88,94
+Andrews,3,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,788,274,514
+Andrews,3,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,182,92,90
+Andrews,4,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,529,211,318
+Andrews,4,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,181,94,87
+Andrews,1,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,696,257,439
+Andrews,1,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,191,105,86
 Andrews,1,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,20,10,10
-Andrews,2,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,1258,846,412
-Andrews,2,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,175,91,84
-Andrews,2,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,31,17,14
-Andrews,3,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,779,510,269
-Andrews,3,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,179,86,93
+Andrews,2,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,1258,412,846
+Andrews,2,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,175,84,91
+Andrews,2,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,31,14,17
+Andrews,3,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,779,269,510
+Andrews,3,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,179,93,86
 Andrews,3,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,14,7,7
-Andrews,4,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,532,320,212
-Andrews,4,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,178,85,93
-Andrews,4,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,13,4,9
-Andrews,1,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,715,445,270
-Andrews,1,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,191,90,101
-Andrews,2,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,1289,864,425
-Andrews,2,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,174,92,82
-Andrews,3,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,795,522,273
-Andrews,3,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,177,83,94
-Andrews,4,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,541,322,219
-Andrews,4,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,177,86,91
-Andrews,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,738,454,284
-Andrews,1,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,51,28,23
-Andrews,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,1289,859,430
-Andrews,2,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,99,54,45
-Andrews,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,804,521,283
+Andrews,4,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,532,212,320
+Andrews,4,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,178,93,85
+Andrews,4,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,13,9,4
+Andrews,1,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,715,270,445
+Andrews,1,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,191,101,90
+Andrews,2,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,1289,425,864
+Andrews,2,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,174,82,92
+Andrews,3,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,795,273,522
+Andrews,3,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,177,94,83
+Andrews,4,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,541,219,322
+Andrews,4,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,177,91,86
+Andrews,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,738,284,454
+Andrews,1,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,51,23,28
+Andrews,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,1289,430,859
+Andrews,2,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,99,45,54
+Andrews,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,804,283,521
 Andrews,3,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,92,46,46
-Andrews,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,553,329,224
-Andrews,4,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,61,27,34
-Andrews,1,State Senator,31,REP,Kel Seliger,725,449,276
-Andrews,1,State Senator,31,LIB,Jack Westbrook,71,36,35
-Andrews,2,State Senator,31,REP,Kel Seliger,1302,862,440
-Andrews,2,State Senator,31,LIB,Jack Westbrook,109,68,41
-Andrews,3,State Senator,31,REP,Kel Seliger,819,526,293
-Andrews,3,State Senator,31,LIB,Jack Westbrook,91,50,41
-Andrews,4,State Senator,31,REP,Kel Seliger,570,341,229
-Andrews,4,State Senator,31,LIB,Jack Westbrook,58,24,34
-Andrews,1,State Representative,81,REP,Brooks Landgraf,726,450,276
-Andrews,1,State Representative,81,DEM,Armando Gamboa,182,86,96
-Andrews,2,State Representative,81,REP,Brooks Landgraf,1313,882,431
-Andrews,2,State Representative,81,DEM,Armando Gamboa,162,85,77
-Andrews,3,State Representative,81,REP,Brooks Landgraf,816,532,284
-Andrews,3,State Representative,81,DEM,Armando Gamboa,164,78,86
-Andrews,4,State Representative,81,REP,Brooks Landgraf,552,331,221
-Andrews,4,State Representative,81,DEM,Armando Gamboa,173,84,89
-Andrews,4,"Justice, 8th Court of Appeals District, Place 2",,DEM,Yvonne Rodriguez,297,153,144
-Andrews,4,"Justice, 8th Court of Appeals District, Place 2",,DEM,Yvonne Rodriguez,378,191,187
-Andrews,4,"Justice, 8th Court of Appeals District, Place 2",,DEM,Yvonne Rodriguez,307,149,158
-Andrews,4,"Justice, 8th Court of Appeals District, Place 2",,DEM,Yvonne Rodriguez,271,127,144
-Andrews,4,"Justice, 8th Court of Appeals District, Place 3",,DEM,Gina M. Palafox,292,150,142
-Andrews,4,"Justice, 8th Court of Appeals District, Place 3",,DEM,Gina M. Palafox,371,186,185
-Andrews,4,"Justice, 8th Court of Appeals District, Place 3",,DEM,Gina M. Palafox,302,145,157
-Andrews,4,"Justice, 8th Court of Appeals District, Place 3",,DEM,Gina M. Palafox,262,123,139
-Andrews,1,"District Judge, 109th Judicial District",,REP,John L. Pool,750,461,289
-Andrews,2,"District Judge, 109th Judicial District",,REP,John L. Pool,1299,867,432
-Andrews,3,"District Judge, 109th Judicial District",,REP,John L. Pool,844,540,304
-Andrews,4,"District Judge, 109th Judicial District",,REP,John L. Pool,572,335,237
+Andrews,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,553,224,329
+Andrews,4,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,61,34,27
+Andrews,1,State Senator,31,REP,Kel Seliger,725,276,449
+Andrews,1,State Senator,31,LIB,Jack Westbrook,71,35,36
+Andrews,2,State Senator,31,REP,Kel Seliger,1302,440,862
+Andrews,2,State Senator,31,LIB,Jack Westbrook,109,41,68
+Andrews,3,State Senator,31,REP,Kel Seliger,819,293,526
+Andrews,3,State Senator,31,LIB,Jack Westbrook,91,41,50
+Andrews,4,State Senator,31,REP,Kel Seliger,570,229,341
+Andrews,4,State Senator,31,LIB,Jack Westbrook,58,34,24
+Andrews,1,State Representative,81,REP,Brooks Landgraf,726,276,450
+Andrews,1,State Representative,81,DEM,Armando Gamboa,182,96,86
+Andrews,2,State Representative,81,REP,Brooks Landgraf,1313,431,882
+Andrews,2,State Representative,81,DEM,Armando Gamboa,162,77,85
+Andrews,3,State Representative,81,REP,Brooks Landgraf,816,284,532
+Andrews,3,State Representative,81,DEM,Armando Gamboa,164,86,78
+Andrews,4,State Representative,81,REP,Brooks Landgraf,552,221,331
+Andrews,4,State Representative,81,DEM,Armando Gamboa,173,89,84
+Andrews,4,"Justice, 8th Court of Appeals District, Place 2",,DEM,Yvonne Rodriguez,297,144,153
+Andrews,4,"Justice, 8th Court of Appeals District, Place 2",,DEM,Yvonne Rodriguez,378,187,191
+Andrews,4,"Justice, 8th Court of Appeals District, Place 2",,DEM,Yvonne Rodriguez,307,158,149
+Andrews,4,"Justice, 8th Court of Appeals District, Place 2",,DEM,Yvonne Rodriguez,271,144,127
+Andrews,4,"Justice, 8th Court of Appeals District, Place 3",,DEM,Gina M. Palafox,292,142,150
+Andrews,4,"Justice, 8th Court of Appeals District, Place 3",,DEM,Gina M. Palafox,371,185,186
+Andrews,4,"Justice, 8th Court of Appeals District, Place 3",,DEM,Gina M. Palafox,302,157,145
+Andrews,4,"Justice, 8th Court of Appeals District, Place 3",,DEM,Gina M. Palafox,262,139,123
+Andrews,1,"District Judge, 109th Judicial District",,REP,John L. Pool,750,289,461
+Andrews,2,"District Judge, 109th Judicial District",,REP,John L. Pool,1299,432,867
+Andrews,3,"District Judge, 109th Judicial District",,REP,John L. Pool,844,304,540
+Andrews,4,"District Judge, 109th Judicial District",,REP,John L. Pool,572,237,335

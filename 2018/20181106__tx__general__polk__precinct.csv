@@ -1,4 +1,4 @@
-county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+county,precinct,office,district,party,candidate,votes,election_day,early_voting,absentee
 Polk,1 - BSISD,Registered Voters,,,,380,,,
 Polk,1 - LVISD,Registered Voters,,,,35,,,
 Polk,1,Registered Voters,,,,0,,,
@@ -42,49 +42,49 @@ Polk,20 - LVISD,Registered Voters,,,,5435,,,
 Polk,20,Registered Voters,,,,28,,,
 Polk,21 - LVISD,Registered Voters,,,,1226,,,
 Polk,21,Registered Voters,,,,12,,,
-Polk,1 - BSISD,Ballots Cast,,,,178,27,57,94
-Polk,1 - LVISD,Ballots Cast,,,,7,0,5,2
+Polk,1 - BSISD,Ballots Cast,,,,178,94,57,27
+Polk,1 - LVISD,Ballots Cast,,,,7,2,5,0
 Polk,1,Ballots Cast,,,,6,0,6,0
 Polk,2 - BSISD,Ballots Cast,,,,2,0,2,0
-Polk,2 - LVISD,Ballots Cast,,,,247,16,119,112
+Polk,2 - LVISD,Ballots Cast,,,,247,112,119,16
 Polk,2,Ballots Cast,,,,1,0,1,0
-Polk,3 - BSISD,Ballots Cast,,,,8,1,2,5
-Polk,3 - LVISD,Ballots Cast,,,,180,12,111,57
-Polk,3,Ballots Cast,,,,607,37,323,247
-Polk,4 - LVISD,Ballots Cast,,,,744,80,508,156
-Polk,5 - LVISD,Ballots Cast,,,,1326,161,815,350
+Polk,3 - BSISD,Ballots Cast,,,,8,5,2,1
+Polk,3 - LVISD,Ballots Cast,,,,180,57,111,12
+Polk,3,Ballots Cast,,,,607,247,323,37
+Polk,4 - LVISD,Ballots Cast,,,,744,156,508,80
+Polk,5 - LVISD,Ballots Cast,,,,1326,350,815,161
 Polk,5,Ballots Cast,,,,3,0,3,0
 Polk,6 - LVISD,Ballots Cast,,,,65,4,57,4
-Polk,6,Ballots Cast,,,,2253,189,1647,417
-Polk,7 - LVISD,Ballots Cast,,,,354,36,232,86
+Polk,6,Ballots Cast,,,,2253,417,1647,189
+Polk,7 - LVISD,Ballots Cast,,,,354,86,232,36
 Polk,7,Ballots Cast,,,,0,0,0,0
-Polk,8 - LVISD,Ballots Cast,,,,94,10,84,0
-Polk,8,Ballots Cast,,,,357,33,152,172
-Polk,9 - LVISD,Ballots Cast,,,,66,5,53,8
-Polk,9,Ballots Cast,,,,293,12,155,126
-Polk,10,Ballots Cast,,,,975,50,613,312
+Polk,8 - LVISD,Ballots Cast,,,,94,0,84,10
+Polk,8,Ballots Cast,,,,357,172,152,33
+Polk,9 - LVISD,Ballots Cast,,,,66,8,53,5
+Polk,9,Ballots Cast,,,,293,126,155,12
+Polk,10,Ballots Cast,,,,975,312,613,50
 Polk,11 - LVISD,Ballots Cast,,,,1,0,1,0
-Polk,11,Ballots Cast,,,,187,13,111,63
-Polk,12 - BSISD,Ballots Cast,,,,130,9,8,113
-Polk,12 - LVISD,Ballots Cast,,,,2,1,1,0
+Polk,11,Ballots Cast,,,,187,63,111,13
+Polk,12 - BSISD,Ballots Cast,,,,130,113,8,9
+Polk,12 - LVISD,Ballots Cast,,,,2,0,1,1
 Polk,12,Ballots Cast,,,,0,0,0,0
-Polk,13 - BSISD,Ballots Cast,,,,216,13,74,129
-Polk,13 - LVISD,Ballots Cast,,,,4,1,3,0
-Polk,14 - BSISD,Ballots Cast,,,,148,9,76,63
-Polk,14 - LVISD,Ballots Cast,,,,211,28,83,100
-Polk,14,Ballots Cast,,,,21,3,9,9
-Polk,15 - BSISD,Ballots Cast,,,,30,1,12,17
-Polk,15 - LVISD,Ballots Cast,,,,476,31,244,201
-Polk,16 - LVISD,Ballots Cast,,,,2059,227,1353,479
-Polk,16,Ballots Cast,,,,4,1,3,0
-Polk,17 - LVISD,Ballots Cast,,,,413,37,266,110
-Polk,17,Ballots Cast,,,,193,14,140,39
-Polk,18 - LVISD,Ballots Cast,,,,272,26,123,123
-Polk,19 - LVISD,Ballots Cast,,,,2035,1539,313,183
-Polk,20 - LVISD,Ballots Cast,,,,1989,1490,322,177
-Polk,20,Ballots Cast,,,,57,35,15,7
-Polk,21 - LVISD,Ballots Cast,,,,621,59,415,147
-Polk,21,Ballots Cast,,,,8,3,5,0
+Polk,13 - BSISD,Ballots Cast,,,,216,129,74,13
+Polk,13 - LVISD,Ballots Cast,,,,4,0,3,1
+Polk,14 - BSISD,Ballots Cast,,,,148,63,76,9
+Polk,14 - LVISD,Ballots Cast,,,,211,100,83,28
+Polk,14,Ballots Cast,,,,21,9,9,3
+Polk,15 - BSISD,Ballots Cast,,,,30,17,12,1
+Polk,15 - LVISD,Ballots Cast,,,,476,201,244,31
+Polk,16 - LVISD,Ballots Cast,,,,2059,479,1353,227
+Polk,16,Ballots Cast,,,,4,0,3,1
+Polk,17 - LVISD,Ballots Cast,,,,413,110,266,37
+Polk,17,Ballots Cast,,,,193,39,140,14
+Polk,18 - LVISD,Ballots Cast,,,,272,123,123,26
+Polk,19 - LVISD,Ballots Cast,,,,2035,183,313,1539
+Polk,20 - LVISD,Ballots Cast,,,,1989,177,322,1490
+Polk,20,Ballots Cast,,,,57,7,15,35
+Polk,21 - LVISD,Ballots Cast,,,,621,147,415,59
+Polk,21,Ballots Cast,,,,8,0,5,3
 Polk,1 - BSISD,Straight Party,,REP,Republican,120,,,
 Polk,1 - LVISD,Straight Party,,REP,Republican,4,,,
 Polk,1,Straight Party,,REP,Republican,5,,,

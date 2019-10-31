@@ -1,574 +1,574 @@
-county,precinct,office,district,candidate,party,election_day,absentee,early_voting,votes
-Zapata,1,Straight Party,,Republican,REP,44,3,52,99
-Zapata,1,Straight Party,,Democratic,DEM,108,9,106,223
-Zapata,1,Straight Party,,Libertarian,LIB,3,0,0,3
-Zapata,1,U.S. Senate,,Ted Cruz,REP,109,7,98,214
-Zapata,1,U.S. Senate,,Beto O'Rourke,DEM,188,13,182,383
-Zapata,1,U.S. Senate,,Neal M. Dikeman,LIB,4,1,0,5
-Zapata,1,U.S. House,28,Henry Cuellar,DEM,262,18,238,518
-Zapata,1,U.S. House,28,Arthur Thomas IV,LIB,13,1,11,25
-Zapata,1,Governor,,Greg Abbott,REP,124,7,99,230
-Zapata,1,Governor,,Lupe Valdez,DEM,162,13,175,350
-Zapata,1,Governor,,Mark Jay Tippetts,LIB,3,1,1,5
-Zapata,1,Lieutenant Governor,,Dan Patrick,REP,98,6,91,195
-Zapata,1,Lieutenant Governor,,Mike Collier,DEM,174,14,176,364
-Zapata,1,Lieutenant Governor,,Kerry Douglas McKennon,LIB,6,0,3,9
-Zapata,1,Attorney General,,Ken Paxton,REP,85,2,86,173
-Zapata,1,Attorney General,,Justin Nelson,DEM,184,15,181,380
-Zapata,1,Attorney General,,Michael Ray Harris,LIB,13,2,4,19
-Zapata,1,Comptroller of Public Accounts,,Glenn Hegar,REP,89,4,90,183
-Zapata,1,Comptroller of Public Accounts,,Joi Chevalier,DEM,169,14,166,349
-Zapata,1,Comptroller of Public Accounts,,Ben Sanders,LIB,19,1,12,32
+county,precinct,office,district,party,candidate,votes,election_day,early_voting,absentee
+Zapata,1,Straight Party,,REP,Republican,99,44,52,3
+Zapata,1,Straight Party,,DEM,Democratic,223,108,106,9
+Zapata,1,Straight Party,,LIB,Libertarian,3,3,0,0
+Zapata,1,U.S. Senate,,REP,Ted Cruz,214,109,98,7
+Zapata,1,U.S. Senate,,DEM,Beto O'Rourke,383,188,182,13
+Zapata,1,U.S. Senate,,LIB,Neal M. Dikeman,5,4,0,1
+Zapata,1,U.S. House,28,DEM,Henry Cuellar,518,262,238,18
+Zapata,1,U.S. House,28,LIB,Arthur Thomas IV,25,13,11,1
+Zapata,1,Governor,,REP,Greg Abbott,230,124,99,7
+Zapata,1,Governor,,DEM,Lupe Valdez,350,162,175,13
+Zapata,1,Governor,,LIB,Mark Jay Tippetts,5,3,1,1
+Zapata,1,Lieutenant Governor,,REP,Dan Patrick,195,98,91,6
+Zapata,1,Lieutenant Governor,,DEM,Mike Collier,364,174,176,14
+Zapata,1,Lieutenant Governor,,LIB,Kerry Douglas McKennon,9,6,3,0
+Zapata,1,Attorney General,,REP,Ken Paxton,173,85,86,2
+Zapata,1,Attorney General,,DEM,Justin Nelson,380,184,181,15
+Zapata,1,Attorney General,,LIB,Michael Ray Harris,19,13,4,2
+Zapata,1,Comptroller of Public Accounts,,REP,Glenn Hegar,183,89,90,4
+Zapata,1,Comptroller of Public Accounts,,DEM,Joi Chevalier,349,169,166,14
+Zapata,1,Comptroller of Public Accounts,,LIB,Ben Sanders,32,19,12,1
 Zapata,1,"Commissioner of the General
-Land Office",,George P. Bush,REP,111,4,109,224
+Land Office",,REP,George P. Bush,224,111,109,4
 Zapata,1,"Commissioner of the General
-Land Office",,Miguel Suazo,DEM,163,16,163,342
+Land Office",,DEM,Miguel Suazo,342,163,163,16
 Zapata,1,"Commissioner of the General
-Land Office",,Matt Pina,LIB,9,0,1,10
-Zapata,1,Commissioner of Agriculture,,Sid Miller,REP,89,3,85,177
-Zapata,1,Commissioner of Agriculture,,Kim Olson,DEM,176,16,179,371
-Zapata,1,Commissioner of Agriculture,,Richard Carpenter,LIB,7,1,6,14
-Zapata,1,Railroad Commissioner,,Christi Craddick,REP,88,4,88,180
-Zapata,1,Railroad Commissioner,,Roman McAllen,DEM,171,15,177,363
-Zapata,1,Railroad Commissioner,,Mike Wright,LIB,9,0,3,12
-Zapata,1,"Justice, Supreme Court, Place 2",,Jimmy Blacklock,REP,94,4,88,186
-Zapata,1,"Justice, Supreme Court, Place 2",,Steven Kirkland,DEM,176,15,181,372
-Zapata,1,"Justice, Supreme Court, Place 4",,John Devine,REP,94,6,90,190
-Zapata,1,"Justice, Supreme Court, Place 4",,R.K. Sandill,DEM,175,13,178,366
-Zapata,1,"Justice, Supreme Court, Place 6",,Jeff Brown,REP,92,6,94,192
-Zapata,1,"Justice, Supreme Court, Place 6",,Kathy Cheng,DEM,175,14,172,361
+Land Office",,LIB,Matt Pina,10,9,1,0
+Zapata,1,Commissioner of Agriculture,,REP,Sid Miller,177,89,85,3
+Zapata,1,Commissioner of Agriculture,,DEM,Kim Olson,371,176,179,16
+Zapata,1,Commissioner of Agriculture,,LIB,Richard Carpenter,14,7,6,1
+Zapata,1,Railroad Commissioner,,REP,Christi Craddick,180,88,88,4
+Zapata,1,Railroad Commissioner,,DEM,Roman McAllen,363,171,177,15
+Zapata,1,Railroad Commissioner,,LIB,Mike Wright,12,9,3,0
+Zapata,1,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,186,94,88,4
+Zapata,1,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,372,176,181,15
+Zapata,1,"Justice, Supreme Court, Place 4",,REP,John Devine,190,94,90,6
+Zapata,1,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,366,175,178,13
+Zapata,1,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,192,92,94,6
+Zapata,1,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,361,175,172,14
 Zapata,1,"Presiding Judge, Court of
-Criminal Appeals",,Sharon Keller,REP,87,3,86,176
+Criminal Appeals",,REP,Sharon Keller,176,87,86,3
 Zapata,1,"Presiding Judge, Court of
-Criminal Appeals",,Maria T. (Terri) Jackson,DEM,182,17,181,380
+Criminal Appeals",,DEM,Maria T. (Terri) Jackson,380,182,181,17
 Zapata,1,"Presiding Judge, Court of
-Criminal Appeals",,William Bryan Strange III,LIB,5,0,3,8
+Criminal Appeals",,LIB,William Bryan Strange III,8,5,3,0
 Zapata,1,"Judge, Court of Criminal Appeals,
-Place 7",,Barbara Parker Hervey,REP,89,5,90,184
+Place 7",,REP,Barbara Parker Hervey,184,89,90,5
 Zapata,1,"Judge, Court of Criminal Appeals,
-Place 7",,Ramona Franklin,DEM,180,14,177,371
+Place 7",,DEM,Ramona Franklin,371,180,177,14
 Zapata,1,"Judge, Court of Criminal Appeals,
-Place 8",,Michelle Slaughter,REP,121,4,118,243
+Place 8",,REP,Michelle Slaughter,243,121,118,4
 Zapata,1,"Judge, Court of Criminal Appeals,
-Place 8",,Mark Ash,LIB,61,7,58,126
-Zapata,1,State Representative,80,Tracy King,DEM,235,20,233,488
+Place 8",,LIB,Mark Ash,126,61,58,7
+Zapata,1,State Representative,80,DEM,Tracy King,488,235,233,20
 Zapata,1,"Justice, 4th Court of Appeals
-District, Place No. 2",,Marialyn Barnard,REP,89,3,86,178
+District, Place No. 2",,REP,Marialyn Barnard,178,89,86,3
 Zapata,1,"Justice, 4th Court of Appeals
-District, Place No. 2",,Beth Watkins,DEM,177,16,182,375
+District, Place No. 2",,DEM,Beth Watkins,375,177,182,16
 Zapata,1,"Justice, 4th Court of Appeals
-District, Place No. 3",,Jason Pulliam,REP,73,2,74,149
+District, Place No. 3",,REP,Jason Pulliam,149,73,74,2
 Zapata,1,"Justice, 4th Court of Appeals
-District, Place No. 3",,Patricia O'Connell Alvarez,DEM,195,18,195,408
+District, Place No. 3",,DEM,Patricia O'Connell Alvarez,408,195,195,18
 Zapata,1,"Justice, 4th Court of Appeals
-District, Place No. 4",,Patrick Ballantyne,REP,78,2,79,159
+District, Place No. 4",,REP,Patrick Ballantyne,159,78,79,2
 Zapata,1,"Justice, 4th Court of Appeals
-District, Place No. 4",,Luz Elena Chapa,DEM,193,18,190,401
+District, Place No. 4",,DEM,Luz Elena Chapa,401,193,190,18
 Zapata,1,"Justice, 4th Court of Appeals
-District, Place No. 5",,Rebecca Simmons,REP,77,4,74,155
+District, Place No. 5",,REP,Rebecca Simmons,155,77,74,4
 Zapata,1,"Justice, 4th Court of Appeals
-District, Place No. 5",,Liza Rodriguez,DEM,199,16,197,412
+District, Place No. 5",,DEM,Liza Rodriguez,412,199,197,16
 Zapata,1,"Justice, 4th Court of Appeals
-District, Place No. 7",,Shane Stolarczyk,REP,70,2,68,140
+District, Place No. 7",,REP,Shane Stolarczyk,140,70,68,2
 Zapata,1,"Justice, 4th Court of Appeals
-District, Place No. 7",,Rebeca Martinez,DEM,204,17,204,425
-Zapata,1,"District Judge, 49th Judicial District",,Joe Lopez,DEM,232,20,226,478
-Zapata,1,County Judge,,Joe Rathmell,DEM,236,20,218,474
-Zapata,1,District Clerk,,Dora Mtz. CastaÒon,DEM,229,19,226,474
-Zapata,1,County Clerk,,Mary Jayne Villarreal Bonoan,DEM,238,19,228,485
-Zapata,1,County Treasurer,,Romeo Salinas,DEM,233,19,223,475
+District, Place No. 7",,DEM,Rebeca Martinez,425,204,204,17
+Zapata,1,"District Judge, 49th Judicial District",,DEM,Joe Lopez,478,232,226,20
+Zapata,1,County Judge,,DEM,Joe Rathmell,474,236,218,20
+Zapata,1,District Clerk,,DEM,Dora Mtz. CastaÒon,474,229,226,19
+Zapata,1,County Clerk,,DEM,Mary Jayne Villarreal Bonoan,485,238,228,19
+Zapata,1,County Treasurer,,DEM,Romeo Salinas,475,233,223,19
 Zapata,1,"Justice of the Peace,
-Precinct No. 1",,Anna MuÒoz Guerra,DEM,239,19,230,488
-Zapata,1 - A,Straight Party,,Republican,REP,1,0,1,2
-Zapata,1 - A,Straight Party,,Democratic,DEM,17,0,3,20
-Zapata,1 - A,Straight Party,,Libertarian,LIB,0,0,0,0
-Zapata,1 - A,U.S. Senate,,Ted Cruz,REP,3,0,4,7
-Zapata,1 - A,U.S. Senate,,Beto O'Rourke,DEM,20,0,5,25
-Zapata,1 - A,U.S. Senate,,Neal M. Dikeman,LIB,0,0,0,0
-Zapata,1 - A,U.S. House,28,Henry Cuellar,DEM,22,0,8,30
-Zapata,1 - A,U.S. House,28,Arthur Thomas IV,LIB,1,0,1,2
-Zapata,1 - A,Governor,,Greg Abbott,REP,4,0,4,8
-Zapata,1 - A,Governor,,Lupe Valdez,DEM,18,0,5,23
-Zapata,1 - A,Governor,,Mark Jay Tippetts,LIB,0,0,0,0
-Zapata,1 - A,Lieutenant Governor,,Dan Patrick,REP,3,0,4,7
-Zapata,1 - A,Lieutenant Governor,,Mike Collier,DEM,19,0,5,24
-Zapata,1 - A,Lieutenant Governor,,Kerry Douglas McKennon,LIB,0,0,0,0
-Zapata,1 - A,Attorney General,,Ken Paxton,REP,2,0,2,4
-Zapata,1 - A,Attorney General,,Justin Nelson,DEM,19,0,7,26
-Zapata,1 - A,Attorney General,,Michael Ray Harris,LIB,0,0,0,0
-Zapata,1 - A,Comptroller of Public Accounts,,Glenn Hegar,REP,2,0,4,6
-Zapata,1 - A,Comptroller of Public Accounts,,Joi Chevalier,DEM,19,0,5,24
-Zapata,1 - A,Comptroller of Public Accounts,,Ben Sanders,LIB,0,0,0,0
+Precinct No. 1",,DEM,Anna MuÒoz Guerra,488,239,230,19
+Zapata,1 - A,Straight Party,,REP,Republican,2,1,1,0
+Zapata,1 - A,Straight Party,,DEM,Democratic,20,17,3,0
+Zapata,1 - A,Straight Party,,LIB,Libertarian,0,0,0,0
+Zapata,1 - A,U.S. Senate,,REP,Ted Cruz,7,3,4,0
+Zapata,1 - A,U.S. Senate,,DEM,Beto O'Rourke,25,20,5,0
+Zapata,1 - A,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0,0
+Zapata,1 - A,U.S. House,28,DEM,Henry Cuellar,30,22,8,0
+Zapata,1 - A,U.S. House,28,LIB,Arthur Thomas IV,2,1,1,0
+Zapata,1 - A,Governor,,REP,Greg Abbott,8,4,4,0
+Zapata,1 - A,Governor,,DEM,Lupe Valdez,23,18,5,0
+Zapata,1 - A,Governor,,LIB,Mark Jay Tippetts,0,0,0,0
+Zapata,1 - A,Lieutenant Governor,,REP,Dan Patrick,7,3,4,0
+Zapata,1 - A,Lieutenant Governor,,DEM,Mike Collier,24,19,5,0
+Zapata,1 - A,Lieutenant Governor,,LIB,Kerry Douglas McKennon,0,0,0,0
+Zapata,1 - A,Attorney General,,REP,Ken Paxton,4,2,2,0
+Zapata,1 - A,Attorney General,,DEM,Justin Nelson,26,19,7,0
+Zapata,1 - A,Attorney General,,LIB,Michael Ray Harris,0,0,0,0
+Zapata,1 - A,Comptroller of Public Accounts,,REP,Glenn Hegar,6,2,4,0
+Zapata,1 - A,Comptroller of Public Accounts,,DEM,Joi Chevalier,24,19,5,0
+Zapata,1 - A,Comptroller of Public Accounts,,LIB,Ben Sanders,0,0,0,0
 Zapata,1 - A,"Commissioner of the General
-Land Office",,George P. Bush,REP,2,0,5,7
+Land Office",,REP,George P. Bush,7,2,5,0
 Zapata,1 - A,"Commissioner of the General
-Land Office",,Miguel Suazo,DEM,19,0,4,23
+Land Office",,DEM,Miguel Suazo,23,19,4,0
 Zapata,1 - A,"Commissioner of the General
-Land Office",,Matt Pina,LIB,0,0,0,0
-Zapata,1 - A,Commissioner of Agriculture,,Sid Miller,REP,2,0,4,6
-Zapata,1 - A,Commissioner of Agriculture,,Kim Olson,DEM,19,0,5,24
-Zapata,1 - A,Commissioner of Agriculture,,Richard Carpenter,LIB,0,0,0,0
-Zapata,1 - A,Railroad Commissioner,,Christi Craddick,REP,2,0,4,6
-Zapata,1 - A,Railroad Commissioner,,Roman McAllen,DEM,19,0,5,24
-Zapata,1 - A,Railroad Commissioner,,Mike Wright,LIB,0,0,0,0
-Zapata,1 - A,"Justice, Supreme Court, Place 2",,Jimmy Blacklock,REP,2,0,4,6
-Zapata,1 - A,"Justice, Supreme Court, Place 2",,Steven Kirkland,DEM,19,0,5,24
-Zapata,1 - A,"Justice, Supreme Court, Place 4",,John Devine,REP,2,0,4,6
-Zapata,1 - A,"Justice, Supreme Court, Place 4",,R.K. Sandill,DEM,19,0,5,24
-Zapata,1 - A,"Justice, Supreme Court, Place 6",,Jeff Brown,REP,2,0,4,6
-Zapata,1 - A,"Justice, Supreme Court, Place 6",,Kathy Cheng,DEM,19,0,5,24
+Land Office",,LIB,Matt Pina,0,0,0,0
+Zapata,1 - A,Commissioner of Agriculture,,REP,Sid Miller,6,2,4,0
+Zapata,1 - A,Commissioner of Agriculture,,DEM,Kim Olson,24,19,5,0
+Zapata,1 - A,Commissioner of Agriculture,,LIB,Richard Carpenter,0,0,0,0
+Zapata,1 - A,Railroad Commissioner,,REP,Christi Craddick,6,2,4,0
+Zapata,1 - A,Railroad Commissioner,,DEM,Roman McAllen,24,19,5,0
+Zapata,1 - A,Railroad Commissioner,,LIB,Mike Wright,0,0,0,0
+Zapata,1 - A,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,6,2,4,0
+Zapata,1 - A,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,24,19,5,0
+Zapata,1 - A,"Justice, Supreme Court, Place 4",,REP,John Devine,6,2,4,0
+Zapata,1 - A,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,24,19,5,0
+Zapata,1 - A,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,6,2,4,0
+Zapata,1 - A,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,24,19,5,0
 Zapata,1 - A,"Presiding Judge, Court of
-Criminal Appeals",,Sharon Keller,REP,2,0,4,6
+Criminal Appeals",,REP,Sharon Keller,6,2,4,0
 Zapata,1 - A,"Presiding Judge, Court of
-Criminal Appeals",,Maria T. (Terri) Jackson,DEM,19,0,5,24
+Criminal Appeals",,DEM,Maria T. (Terri) Jackson,24,19,5,0
 Zapata,1 - A,"Presiding Judge, Court of
-Criminal Appeals",,William Bryan Strange III,LIB,0,0,0,0
+Criminal Appeals",,LIB,William Bryan Strange III,0,0,0,0
 Zapata,1 - A,"Judge, Court of Criminal Appeals,
-Place 7",,Barbara Parker Hervey,REP,2,0,4,6
+Place 7",,REP,Barbara Parker Hervey,6,2,4,0
 Zapata,1 - A,"Judge, Court of Criminal Appeals,
-Place 7",,Ramona Franklin,DEM,19,0,5,24
+Place 7",,DEM,Ramona Franklin,24,19,5,0
 Zapata,1 - A,"Judge, Court of Criminal Appeals,
-Place 8",,Michelle Slaughter,REP,2,0,4,6
+Place 8",,REP,Michelle Slaughter,6,2,4,0
 Zapata,1 - A,"Judge, Court of Criminal Appeals,
-Place 8",,Mark Ash,LIB,5,0,2,7
-Zapata,1 - A,State Representative,80,Tracy King,DEM,20,0,8,28
+Place 8",,LIB,Mark Ash,7,5,2,0
+Zapata,1 - A,State Representative,80,DEM,Tracy King,28,20,8,0
 Zapata,1 - A,"Justice, 4th Court of Appeals
-District, Place No. 2",,Marialyn Barnard,REP,1,0,4,5
+District, Place No. 2",,REP,Marialyn Barnard,5,1,4,0
 Zapata,1 - A,"Justice, 4th Court of Appeals
-District, Place No. 2",,Beth Watkins,DEM,19,0,5,24
+District, Place No. 2",,DEM,Beth Watkins,24,19,5,0
 Zapata,1 - A,"Justice, 4th Court of Appeals
-District, Place No. 3",,Jason Pulliam,REP,1,0,4,5
+District, Place No. 3",,REP,Jason Pulliam,5,1,4,0
 Zapata,1 - A,"Justice, 4th Court of Appeals
-District, Place No. 3",,Patricia O'Connell Alvarez,DEM,19,0,5,24
+District, Place No. 3",,DEM,Patricia O'Connell Alvarez,24,19,5,0
 Zapata,1 - A,"Justice, 4th Court of Appeals
-District, Place No. 4",,Patrick Ballantyne,REP,1,0,3,4
+District, Place No. 4",,REP,Patrick Ballantyne,4,1,3,0
 Zapata,1 - A,"Justice, 4th Court of Appeals
-District, Place No. 4",,Luz Elena Chapa,DEM,19,0,6,25
+District, Place No. 4",,DEM,Luz Elena Chapa,25,19,6,0
 Zapata,1 - A,"Justice, 4th Court of Appeals
-District, Place No. 5",,Rebecca Simmons,REP,2,0,4,6
+District, Place No. 5",,REP,Rebecca Simmons,6,2,4,0
 Zapata,1 - A,"Justice, 4th Court of Appeals
-District, Place No. 5",,Liza Rodriguez,DEM,19,0,5,24
+District, Place No. 5",,DEM,Liza Rodriguez,24,19,5,0
 Zapata,1 - A,"Justice, 4th Court of Appeals
-District, Place No. 7",,Shane Stolarczyk,REP,1,0,2,3
+District, Place No. 7",,REP,Shane Stolarczyk,3,1,2,0
 Zapata,1 - A,"Justice, 4th Court of Appeals
-District, Place No. 7",,Rebeca Martinez,DEM,22,0,6,28
-Zapata,1 - A,"District Judge, 49th Judicial District",,Joe Lopez,DEM,21,0,7,28
-Zapata,1 - A,County Judge,,Joe Rathmell,DEM,20,0,6,26
-Zapata,1 - A,District Clerk,,Dora Mtz. CastaÒon,DEM,20,0,8,28
-Zapata,1 - A,County Clerk,,Mary Jayne Villarreal Bonoan,DEM,20,0,8,28
-Zapata,1 - A,County Treasurer,,Romeo Salinas,DEM,21,0,8,29
+District, Place No. 7",,DEM,Rebeca Martinez,28,22,6,0
+Zapata,1 - A,"District Judge, 49th Judicial District",,DEM,Joe Lopez,28,21,7,0
+Zapata,1 - A,County Judge,,DEM,Joe Rathmell,26,20,6,0
+Zapata,1 - A,District Clerk,,DEM,Dora Mtz. CastaÒon,28,20,8,0
+Zapata,1 - A,County Clerk,,DEM,Mary Jayne Villarreal Bonoan,28,20,8,0
+Zapata,1 - A,County Treasurer,,DEM,Romeo Salinas,29,21,8,0
 Zapata,1 - A,"Justice of the Peace,
-Precinct No. 1",,Anna MuÒoz Guerra,DEM,21,0,7,28
-Zapata,1 - B,Straight Party,,Republican,REP,1,0,0,1
-Zapata,1 - B,Straight Party,,Democratic,DEM,16,2,9,27
-Zapata,1 - B,Straight Party,,Libertarian,LIB,0,0,0,0
-Zapata,1 - B,U.S. Senate,,Ted Cruz,REP,8,0,2,10
-Zapata,1 - B,U.S. Senate,,Beto O'Rourke,DEM,21,2,10,33
-Zapata,1 - B,U.S. Senate,,Neal M. Dikeman,LIB,0,0,0,0
-Zapata,1 - B,U.S. House,28,Henry Cuellar,DEM,27,2,11,40
-Zapata,1 - B,U.S. House,28,Arthur Thomas IV,LIB,1,0,0,1
-Zapata,1 - B,Governor,,Greg Abbott,REP,6,0,1,7
-Zapata,1 - B,Governor,,Lupe Valdez,DEM,23,2,11,36
-Zapata,1 - B,Governor,,Mark Jay Tippetts,LIB,0,0,0,0
-Zapata,1 - B,Lieutenant Governor,,Dan Patrick,REP,7,0,1,8
-Zapata,1 - B,Lieutenant Governor,,Mike Collier,DEM,20,2,11,33
-Zapata,1 - B,Lieutenant Governor,,Kerry Douglas McKennon,LIB,0,0,0,0
-Zapata,1 - B,Attorney General,,Ken Paxton,REP,5,0,1,6
-Zapata,1 - B,Attorney General,,Justin Nelson,DEM,21,2,10,33
-Zapata,1 - B,Attorney General,,Michael Ray Harris,LIB,0,0,1,1
-Zapata,1 - B,Comptroller of Public Accounts,,Glenn Hegar,REP,5,0,2,7
-Zapata,1 - B,Comptroller of Public Accounts,,Joi Chevalier,DEM,20,2,10,32
-Zapata,1 - B,Comptroller of Public Accounts,,Ben Sanders,LIB,1,0,0,1
+Precinct No. 1",,DEM,Anna MuÒoz Guerra,28,21,7,0
+Zapata,1 - B,Straight Party,,REP,Republican,1,1,0,0
+Zapata,1 - B,Straight Party,,DEM,Democratic,27,16,9,2
+Zapata,1 - B,Straight Party,,LIB,Libertarian,0,0,0,0
+Zapata,1 - B,U.S. Senate,,REP,Ted Cruz,10,8,2,0
+Zapata,1 - B,U.S. Senate,,DEM,Beto O'Rourke,33,21,10,2
+Zapata,1 - B,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0,0
+Zapata,1 - B,U.S. House,28,DEM,Henry Cuellar,40,27,11,2
+Zapata,1 - B,U.S. House,28,LIB,Arthur Thomas IV,1,1,0,0
+Zapata,1 - B,Governor,,REP,Greg Abbott,7,6,1,0
+Zapata,1 - B,Governor,,DEM,Lupe Valdez,36,23,11,2
+Zapata,1 - B,Governor,,LIB,Mark Jay Tippetts,0,0,0,0
+Zapata,1 - B,Lieutenant Governor,,REP,Dan Patrick,8,7,1,0
+Zapata,1 - B,Lieutenant Governor,,DEM,Mike Collier,33,20,11,2
+Zapata,1 - B,Lieutenant Governor,,LIB,Kerry Douglas McKennon,0,0,0,0
+Zapata,1 - B,Attorney General,,REP,Ken Paxton,6,5,1,0
+Zapata,1 - B,Attorney General,,DEM,Justin Nelson,33,21,10,2
+Zapata,1 - B,Attorney General,,LIB,Michael Ray Harris,1,0,1,0
+Zapata,1 - B,Comptroller of Public Accounts,,REP,Glenn Hegar,7,5,2,0
+Zapata,1 - B,Comptroller of Public Accounts,,DEM,Joi Chevalier,32,20,10,2
+Zapata,1 - B,Comptroller of Public Accounts,,LIB,Ben Sanders,1,1,0,0
 Zapata,1 - B,"Commissioner of the General
-Land Office",,George P. Bush,REP,8,0,1,9
+Land Office",,REP,George P. Bush,9,8,1,0
 Zapata,1 - B,"Commissioner of the General
-Land Office",,Miguel Suazo,DEM,18,2,11,31
+Land Office",,DEM,Miguel Suazo,31,18,11,2
 Zapata,1 - B,"Commissioner of the General
-Land Office",,Matt Pina,LIB,1,0,0,1
-Zapata,1 - B,Commissioner of Agriculture,,Sid Miller,REP,9,0,1,10
-Zapata,1 - B,Commissioner of Agriculture,,Kim Olson,DEM,17,2,10,29
-Zapata,1 - B,Commissioner of Agriculture,,Richard Carpenter,LIB,0,0,1,1
-Zapata,1 - B,Railroad Commissioner,,Christi Craddick,REP,5,0,1,6
-Zapata,1 - B,Railroad Commissioner,,Roman McAllen,DEM,21,2,11,34
-Zapata,1 - B,Railroad Commissioner,,Mike Wright,LIB,0,0,0,0
-Zapata,1 - B,"Justice, Supreme Court, Place 2",,Jimmy Blacklock,REP,7,0,1,8
-Zapata,1 - B,"Justice, Supreme Court, Place 2",,Steven Kirkland,DEM,19,2,11,32
-Zapata,1 - B,"Justice, Supreme Court, Place 4",,John Devine,REP,7,0,2,9
-Zapata,1 - B,"Justice, Supreme Court, Place 4",,R.K. Sandill,DEM,19,2,10,31
-Zapata,1 - B,"Justice, Supreme Court, Place 6",,Jeff Brown,REP,7,0,2,9
-Zapata,1 - B,"Justice, Supreme Court, Place 6",,Kathy Cheng,DEM,19,2,10,31
+Land Office",,LIB,Matt Pina,1,1,0,0
+Zapata,1 - B,Commissioner of Agriculture,,REP,Sid Miller,10,9,1,0
+Zapata,1 - B,Commissioner of Agriculture,,DEM,Kim Olson,29,17,10,2
+Zapata,1 - B,Commissioner of Agriculture,,LIB,Richard Carpenter,1,0,1,0
+Zapata,1 - B,Railroad Commissioner,,REP,Christi Craddick,6,5,1,0
+Zapata,1 - B,Railroad Commissioner,,DEM,Roman McAllen,34,21,11,2
+Zapata,1 - B,Railroad Commissioner,,LIB,Mike Wright,0,0,0,0
+Zapata,1 - B,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,8,7,1,0
+Zapata,1 - B,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,32,19,11,2
+Zapata,1 - B,"Justice, Supreme Court, Place 4",,REP,John Devine,9,7,2,0
+Zapata,1 - B,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,31,19,10,2
+Zapata,1 - B,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,9,7,2,0
+Zapata,1 - B,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,31,19,10,2
 Zapata,1 - B,"Presiding Judge, Court of
-Criminal Appeals",,Sharon Keller,REP,6,0,1,7
+Criminal Appeals",,REP,Sharon Keller,7,6,1,0
 Zapata,1 - B,"Presiding Judge, Court of
-Criminal Appeals",,Maria T. (Terri) Jackson,DEM,19,2,11,32
+Criminal Appeals",,DEM,Maria T. (Terri) Jackson,32,19,11,2
 Zapata,1 - B,"Presiding Judge, Court of
-Criminal Appeals",,William Bryan Strange III,LIB,0,0,0,0
+Criminal Appeals",,LIB,William Bryan Strange III,0,0,0,0
 Zapata,1 - B,"Judge, Court of Criminal Appeals,
-Place 7",,Barbara Parker Hervey,REP,6,0,1,7
+Place 7",,REP,Barbara Parker Hervey,7,6,1,0
 Zapata,1 - B,"Judge, Court of Criminal Appeals,
-Place 7",,Ramona Franklin,DEM,19,2,11,32
+Place 7",,DEM,Ramona Franklin,32,19,11,2
 Zapata,1 - B,"Judge, Court of Criminal Appeals,
-Place 8",,Michelle Slaughter,REP,10,0,4,14
+Place 8",,REP,Michelle Slaughter,14,10,4,0
 Zapata,1 - B,"Judge, Court of Criminal Appeals,
-Place 8",,Mark Ash,LIB,4,0,1,5
-Zapata,1 - B,State Representative,80,Tracy King,DEM,24,2,11,37
+Place 8",,LIB,Mark Ash,5,4,1,0
+Zapata,1 - B,State Representative,80,DEM,Tracy King,37,24,11,2
 Zapata,1 - B,"Justice, 4th Court of Appeals
-District, Place No. 2",,Marialyn Barnard,REP,5,0,1,6
+District, Place No. 2",,REP,Marialyn Barnard,6,5,1,0
 Zapata,1 - B,"Justice, 4th Court of Appeals
-District, Place No. 2",,Beth Watkins,DEM,19,2,11,32
+District, Place No. 2",,DEM,Beth Watkins,32,19,11,2
 Zapata,1 - B,"Justice, 4th Court of Appeals
-District, Place No. 3",,Jason Pulliam,REP,5,0,1,6
+District, Place No. 3",,REP,Jason Pulliam,6,5,1,0
 Zapata,1 - B,"Justice, 4th Court of Appeals
-District, Place No. 3",,Patricia O'Connell Alvarez,DEM,19,2,11,32
+District, Place No. 3",,DEM,Patricia O'Connell Alvarez,32,19,11,2
 Zapata,1 - B,"Justice, 4th Court of Appeals
-District, Place No. 4",,Patrick Ballantyne,REP,5,0,1,6
+District, Place No. 4",,REP,Patrick Ballantyne,6,5,1,0
 Zapata,1 - B,"Justice, 4th Court of Appeals
-District, Place No. 4",,Luz Elena Chapa,DEM,19,2,11,32
+District, Place No. 4",,DEM,Luz Elena Chapa,32,19,11,2
 Zapata,1 - B,"Justice, 4th Court of Appeals
-District, Place No. 5",,Rebecca Simmons,REP,6,0,1,7
+District, Place No. 5",,REP,Rebecca Simmons,7,6,1,0
 Zapata,1 - B,"Justice, 4th Court of Appeals
-District, Place No. 5",,Liza Rodriguez,DEM,20,2,11,33
+District, Place No. 5",,DEM,Liza Rodriguez,33,20,11,2
 Zapata,1 - B,"Justice, 4th Court of Appeals
-District, Place No. 7",,Shane Stolarczyk,REP,6,0,1,7
+District, Place No. 7",,REP,Shane Stolarczyk,7,6,1,0
 Zapata,1 - B,"Justice, 4th Court of Appeals
-District, Place No. 7",,Rebeca Martinez,DEM,20,2,11,33
-Zapata,1 - B,"District Judge, 49th Judicial District",,Joe Lopez,DEM,25,2,11,38
-Zapata,1 - B,County Judge,,Joe Rathmell,DEM,27,2,11,40
-Zapata,1 - B,District Clerk,,Dora Mtz. CastaÒon,DEM,26,2,11,39
-Zapata,1 - B,County Clerk,,Mary Jayne Villarreal Bonoan,DEM,25,2,11,38
-Zapata,1 - B,County Treasurer,,Romeo Salinas,DEM,26,2,11,39
+District, Place No. 7",,DEM,Rebeca Martinez,33,20,11,2
+Zapata,1 - B,"District Judge, 49th Judicial District",,DEM,Joe Lopez,38,25,11,2
+Zapata,1 - B,County Judge,,DEM,Joe Rathmell,40,27,11,2
+Zapata,1 - B,District Clerk,,DEM,Dora Mtz. CastaÒon,39,26,11,2
+Zapata,1 - B,County Clerk,,DEM,Mary Jayne Villarreal Bonoan,38,25,11,2
+Zapata,1 - B,County Treasurer,,DEM,Romeo Salinas,39,26,11,2
 Zapata,1 - B,"Justice of the Peace,
-Precinct No. 1",,Anna MuÒoz Guerra,DEM,25,2,11,38
-Zapata,2,Straight Party,,Republican,REP,38,0,21,59
-Zapata,2,Straight Party,,Democratic,DEM,113,2,61,176
-Zapata,2,Straight Party,,Libertarian,LIB,1,0,1,2
-Zapata,2,U.S. Senate,,Ted Cruz,REP,93,0,46,139
-Zapata,2,U.S. Senate,,Beto O'Rourke,DEM,170,4,101,275
-Zapata,2,U.S. Senate,,Neal M. Dikeman,LIB,0,0,1,1
-Zapata,2,U.S. House,28,Henry Cuellar,DEM,226,4,126,356
-Zapata,2,U.S. House,28,Arthur Thomas IV,LIB,6,0,13,19
-Zapata,2,Governor,,Greg Abbott,REP,100,1,46,147
-Zapata,2,Governor,,Lupe Valdez,DEM,145,3,98,246
-Zapata,2,Governor,,Mark Jay Tippetts,LIB,3,0,1,4
-Zapata,2,Lieutenant Governor,,Dan Patrick,REP,72,0,43,115
-Zapata,2,Lieutenant Governor,,Mike Collier,DEM,165,4,100,269
-Zapata,2,Lieutenant Governor,,Kerry Douglas McKennon,LIB,5,0,1,6
-Zapata,2,Attorney General,,Ken Paxton,REP,70,0,46,116
-Zapata,2,Attorney General,,Justin Nelson,DEM,165,4,98,267
-Zapata,2,Attorney General,,Michael Ray Harris,LIB,6,0,1,7
-Zapata,2,Comptroller of Public Accounts,,Glenn Hegar,REP,70,0,42,112
-Zapata,2,Comptroller of Public Accounts,,Joi Chevalier,DEM,156,4,98,258
-Zapata,2,Comptroller of Public Accounts,,Ben Sanders,LIB,13,0,3,16
+Precinct No. 1",,DEM,Anna MuÒoz Guerra,38,25,11,2
+Zapata,2,Straight Party,,REP,Republican,59,38,21,0
+Zapata,2,Straight Party,,DEM,Democratic,176,113,61,2
+Zapata,2,Straight Party,,LIB,Libertarian,2,1,1,0
+Zapata,2,U.S. Senate,,REP,Ted Cruz,139,93,46,0
+Zapata,2,U.S. Senate,,DEM,Beto O'Rourke,275,170,101,4
+Zapata,2,U.S. Senate,,LIB,Neal M. Dikeman,1,0,1,0
+Zapata,2,U.S. House,28,DEM,Henry Cuellar,356,226,126,4
+Zapata,2,U.S. House,28,LIB,Arthur Thomas IV,19,6,13,0
+Zapata,2,Governor,,REP,Greg Abbott,147,100,46,1
+Zapata,2,Governor,,DEM,Lupe Valdez,246,145,98,3
+Zapata,2,Governor,,LIB,Mark Jay Tippetts,4,3,1,0
+Zapata,2,Lieutenant Governor,,REP,Dan Patrick,115,72,43,0
+Zapata,2,Lieutenant Governor,,DEM,Mike Collier,269,165,100,4
+Zapata,2,Lieutenant Governor,,LIB,Kerry Douglas McKennon,6,5,1,0
+Zapata,2,Attorney General,,REP,Ken Paxton,116,70,46,0
+Zapata,2,Attorney General,,DEM,Justin Nelson,267,165,98,4
+Zapata,2,Attorney General,,LIB,Michael Ray Harris,7,6,1,0
+Zapata,2,Comptroller of Public Accounts,,REP,Glenn Hegar,112,70,42,0
+Zapata,2,Comptroller of Public Accounts,,DEM,Joi Chevalier,258,156,98,4
+Zapata,2,Comptroller of Public Accounts,,LIB,Ben Sanders,16,13,3,0
 Zapata,2,"Commissioner of the General
-Land Office",,George P. Bush,REP,89,0,48,137
+Land Office",,REP,George P. Bush,137,89,48,0
 Zapata,2,"Commissioner of the General
-Land Office",,Miguel Suazo,DEM,156,4,94,254
+Land Office",,DEM,Miguel Suazo,254,156,94,4
 Zapata,2,"Commissioner of the General
-Land Office",,Matt Pina,LIB,3,0,1,4
-Zapata,2,Commissioner of Agriculture,,Sid Miller,REP,68,0,43,111
-Zapata,2,Commissioner of Agriculture,,Kim Olson,DEM,163,4,99,266
-Zapata,2,Commissioner of Agriculture,,Richard Carpenter,LIB,9,0,1,10
-Zapata,2,Railroad Commissioner,,Christi Craddick,REP,66,0,43,109
-Zapata,2,Railroad Commissioner,,Roman McAllen,DEM,169,4,100,273
-Zapata,2,Railroad Commissioner,,Mike Wright,LIB,5,0,1,6
-Zapata,2,"Justice, Supreme Court, Place 2",,Jimmy Blacklock,REP,73,0,42,115
-Zapata,2,"Justice, Supreme Court, Place 2",,Steven Kirkland,DEM,166,4,102,272
-Zapata,2,"Justice, Supreme Court, Place 4",,John Devine,REP,76,0,43,119
-Zapata,2,"Justice, Supreme Court, Place 4",,R.K. Sandill,DEM,162,4,100,266
-Zapata,2,"Justice, Supreme Court, Place 6",,Jeff Brown,REP,76,0,42,118
-Zapata,2,"Justice, Supreme Court, Place 6",,Kathy Cheng,DEM,165,4,101,270
+Land Office",,LIB,Matt Pina,4,3,1,0
+Zapata,2,Commissioner of Agriculture,,REP,Sid Miller,111,68,43,0
+Zapata,2,Commissioner of Agriculture,,DEM,Kim Olson,266,163,99,4
+Zapata,2,Commissioner of Agriculture,,LIB,Richard Carpenter,10,9,1,0
+Zapata,2,Railroad Commissioner,,REP,Christi Craddick,109,66,43,0
+Zapata,2,Railroad Commissioner,,DEM,Roman McAllen,273,169,100,4
+Zapata,2,Railroad Commissioner,,LIB,Mike Wright,6,5,1,0
+Zapata,2,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,115,73,42,0
+Zapata,2,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,272,166,102,4
+Zapata,2,"Justice, Supreme Court, Place 4",,REP,John Devine,119,76,43,0
+Zapata,2,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,266,162,100,4
+Zapata,2,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,118,76,42,0
+Zapata,2,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,270,165,101,4
 Zapata,2,"Presiding Judge, Court of
-Criminal Appeals",,Sharon Keller,REP,67,0,42,109
+Criminal Appeals",,REP,Sharon Keller,109,67,42,0
 Zapata,2,"Presiding Judge, Court of
-Criminal Appeals",,Maria T. (Terri) Jackson,DEM,172,4,101,277
+Criminal Appeals",,DEM,Maria T. (Terri) Jackson,277,172,101,4
 Zapata,2,"Presiding Judge, Court of
-Criminal Appeals",,William Bryan Strange III,LIB,2,0,1,3
+Criminal Appeals",,LIB,William Bryan Strange III,3,2,1,0
 Zapata,2,"Judge, Court of Criminal Appeals,
-Place 7",,Barbara Parker Hervey,REP,73,0,41,114
+Place 7",,REP,Barbara Parker Hervey,114,73,41,0
 Zapata,2,"Judge, Court of Criminal Appeals,
-Place 7",,Ramona Franklin,DEM,164,4,104,272
+Place 7",,DEM,Ramona Franklin,272,164,104,4
 Zapata,2,"Judge, Court of Criminal Appeals,
-Place 8",,Michelle Slaughter,REP,106,0,61,167
+Place 8",,REP,Michelle Slaughter,167,106,61,0
 Zapata,2,"Judge, Court of Criminal Appeals,
-Place 8",,Mark Ash,LIB,55,1,29,85
-Zapata,2,State Representative,80,Tracy King,DEM,219,4,121,344
+Place 8",,LIB,Mark Ash,85,55,29,1
+Zapata,2,State Representative,80,DEM,Tracy King,344,219,121,4
 Zapata,2,"Justice, 4th Court of Appeals
-District, Place No. 2",,Marialyn Barnard,REP,68,0,40,108
+District, Place No. 2",,REP,Marialyn Barnard,108,68,40,0
 Zapata,2,"Justice, 4th Court of Appeals
-District, Place No. 2",,Beth Watkins,DEM,172,4,104,280
+District, Place No. 2",,DEM,Beth Watkins,280,172,104,4
 Zapata,2,"Justice, 4th Court of Appeals
-District, Place No. 3",,Jason Pulliam,REP,60,0,42,102
+District, Place No. 3",,REP,Jason Pulliam,102,60,42,0
 Zapata,2,"Justice, 4th Court of Appeals
-District, Place No. 3",,Patricia O'Connell Alvarez,DEM,180,4,103,287
+District, Place No. 3",,DEM,Patricia O'Connell Alvarez,287,180,103,4
 Zapata,2,"Justice, 4th Court of Appeals
-District, Place No. 4",,Patrick Ballantyne,REP,57,0,42,99
+District, Place No. 4",,REP,Patrick Ballantyne,99,57,42,0
 Zapata,2,"Justice, 4th Court of Appeals
-District, Place No. 4",,Luz Elena Chapa,DEM,183,4,102,289
+District, Place No. 4",,DEM,Luz Elena Chapa,289,183,102,4
 Zapata,2,"Justice, 4th Court of Appeals
-District, Place No. 5",,Rebecca Simmons,REP,58,0,40,98
+District, Place No. 5",,REP,Rebecca Simmons,98,58,40,0
 Zapata,2,"Justice, 4th Court of Appeals
-District, Place No. 5",,Liza Rodriguez,DEM,185,4,103,292
+District, Place No. 5",,DEM,Liza Rodriguez,292,185,103,4
 Zapata,2,"Justice, 4th Court of Appeals
-District, Place No. 7",,Shane Stolarczyk,REP,57,0,41,98
+District, Place No. 7",,REP,Shane Stolarczyk,98,57,41,0
 Zapata,2,"Justice, 4th Court of Appeals
-District, Place No. 7",,Rebeca Martinez,DEM,187,4,103,294
-Zapata,2,"District Judge, 49th Judicial District",,Joe Lopez,DEM,217,3,127,347
-Zapata,2,County Judge,,Joe Rathmell,DEM,218,3,119,340
-Zapata,2,District Clerk,,Dora Mtz. CastaÒon,DEM,209,4,120,333
-Zapata,2,County Clerk,,Mary Jayne Villarreal Bonoan,DEM,216,4,117,337
-Zapata,2,County Treasurer,,Romeo Salinas,DEM,211,3,120,334
+District, Place No. 7",,DEM,Rebeca Martinez,294,187,103,4
+Zapata,2,"District Judge, 49th Judicial District",,DEM,Joe Lopez,347,217,127,3
+Zapata,2,County Judge,,DEM,Joe Rathmell,340,218,119,3
+Zapata,2,District Clerk,,DEM,Dora Mtz. CastaÒon,333,209,120,4
+Zapata,2,County Clerk,,DEM,Mary Jayne Villarreal Bonoan,337,216,117,4
+Zapata,2,County Treasurer,,DEM,Romeo Salinas,334,211,120,3
 Zapata,2,"County Commissioner,
-Precinct No. 2",,Olga M. Elizondo,DEM,223,2,128,353
+Precinct No. 2",,DEM,Olga M. Elizondo,353,223,128,2
 Zapata,2,"Justice of the Peace,
-Precinct No. 2",,Juana Maria B. Gutierrez,DEM,213,3,122,338
-Zapata,2 - A,Straight Party,,Republican,REP,20,0,9,29
-Zapata,2 - A,Straight Party,,Democratic,DEM,56,3,15,74
-Zapata,2 - A,Straight Party,,Libertarian,LIB,0,0,0,0
-Zapata,2 - A,U.S. Senate,,Ted Cruz,REP,44,0,16,60
-Zapata,2 - A,U.S. Senate,,Beto O'Rourke,DEM,74,4,24,102
-Zapata,2 - A,U.S. Senate,,Neal M. Dikeman,LIB,0,0,0,0
-Zapata,2 - A,U.S. House,28,Henry Cuellar,DEM,98,4,25,127
-Zapata,2 - A,U.S. House,28,Arthur Thomas IV,LIB,2,0,4,6
-Zapata,2 - A,Governor,,Greg Abbott,REP,41,0,16,57
-Zapata,2 - A,Governor,,Lupe Valdez,DEM,75,4,24,103
-Zapata,2 - A,Governor,,Mark Jay Tippetts,LIB,0,0,0,0
-Zapata,2 - A,Lieutenant Governor,,Dan Patrick,REP,34,0,16,50
-Zapata,2 - A,Lieutenant Governor,,Mike Collier,DEM,73,4,21,98
-Zapata,2 - A,Lieutenant Governor,,Kerry Douglas McKennon,LIB,1,0,0,1
-Zapata,2 - A,Attorney General,,Ken Paxton,REP,35,0,13,48
-Zapata,2 - A,Attorney General,,Justin Nelson,DEM,74,4,24,102
-Zapata,2 - A,Attorney General,,Michael Ray Harris,LIB,1,0,0,1
-Zapata,2 - A,Comptroller of Public Accounts,,Glenn Hegar,REP,34,0,13,47
-Zapata,2 - A,Comptroller of Public Accounts,,Joi Chevalier,DEM,67,4,21,92
-Zapata,2 - A,Comptroller of Public Accounts,,Ben Sanders,LIB,6,0,0,6
+Precinct No. 2",,DEM,Juana Maria B. Gutierrez,338,213,122,3
+Zapata,2 - A,Straight Party,,REP,Republican,29,20,9,0
+Zapata,2 - A,Straight Party,,DEM,Democratic,74,56,15,3
+Zapata,2 - A,Straight Party,,LIB,Libertarian,0,0,0,0
+Zapata,2 - A,U.S. Senate,,REP,Ted Cruz,60,44,16,0
+Zapata,2 - A,U.S. Senate,,DEM,Beto O'Rourke,102,74,24,4
+Zapata,2 - A,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0,0
+Zapata,2 - A,U.S. House,28,DEM,Henry Cuellar,127,98,25,4
+Zapata,2 - A,U.S. House,28,LIB,Arthur Thomas IV,6,2,4,0
+Zapata,2 - A,Governor,,REP,Greg Abbott,57,41,16,0
+Zapata,2 - A,Governor,,DEM,Lupe Valdez,103,75,24,4
+Zapata,2 - A,Governor,,LIB,Mark Jay Tippetts,0,0,0,0
+Zapata,2 - A,Lieutenant Governor,,REP,Dan Patrick,50,34,16,0
+Zapata,2 - A,Lieutenant Governor,,DEM,Mike Collier,98,73,21,4
+Zapata,2 - A,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,1,0,0
+Zapata,2 - A,Attorney General,,REP,Ken Paxton,48,35,13,0
+Zapata,2 - A,Attorney General,,DEM,Justin Nelson,102,74,24,4
+Zapata,2 - A,Attorney General,,LIB,Michael Ray Harris,1,1,0,0
+Zapata,2 - A,Comptroller of Public Accounts,,REP,Glenn Hegar,47,34,13,0
+Zapata,2 - A,Comptroller of Public Accounts,,DEM,Joi Chevalier,92,67,21,4
+Zapata,2 - A,Comptroller of Public Accounts,,LIB,Ben Sanders,6,6,0,0
 Zapata,2 - A,"Commissioner of the General
-Land Office",,George P. Bush,REP,40,0,17,57
+Land Office",,REP,George P. Bush,57,40,17,0
 Zapata,2 - A,"Commissioner of the General
-Land Office",,Miguel Suazo,DEM,68,4,20,92
+Land Office",,DEM,Miguel Suazo,92,68,20,4
 Zapata,2 - A,"Commissioner of the General
-Land Office",,Matt Pina,LIB,1,0,0,1
-Zapata,2 - A,Commissioner of Agriculture,,Sid Miller,REP,35,0,14,49
-Zapata,2 - A,Commissioner of Agriculture,,Kim Olson,DEM,73,4,22,99
-Zapata,2 - A,Commissioner of Agriculture,,Richard Carpenter,LIB,1,0,1,2
-Zapata,2 - A,Railroad Commissioner,,Christi Craddick,REP,34,0,14,48
-Zapata,2 - A,Railroad Commissioner,,Roman McAllen,DEM,70,4,21,95
-Zapata,2 - A,Railroad Commissioner,,Mike Wright,LIB,2,0,1,3
-Zapata,2 - A,"Justice, Supreme Court, Place 2",,Jimmy Blacklock,REP,34,0,14,48
-Zapata,2 - A,"Justice, Supreme Court, Place 2",,Steven Kirkland,DEM,71,4,22,97
-Zapata,2 - A,"Justice, Supreme Court, Place 4",,John Devine,REP,37,0,15,52
-Zapata,2 - A,"Justice, Supreme Court, Place 4",,R.K. Sandill,DEM,68,4,20,92
-Zapata,2 - A,"Justice, Supreme Court, Place 6",,Jeff Brown,REP,40,0,14,54
-Zapata,2 - A,"Justice, Supreme Court, Place 6",,Kathy Cheng,DEM,68,4,21,93
+Land Office",,LIB,Matt Pina,1,1,0,0
+Zapata,2 - A,Commissioner of Agriculture,,REP,Sid Miller,49,35,14,0
+Zapata,2 - A,Commissioner of Agriculture,,DEM,Kim Olson,99,73,22,4
+Zapata,2 - A,Commissioner of Agriculture,,LIB,Richard Carpenter,2,1,1,0
+Zapata,2 - A,Railroad Commissioner,,REP,Christi Craddick,48,34,14,0
+Zapata,2 - A,Railroad Commissioner,,DEM,Roman McAllen,95,70,21,4
+Zapata,2 - A,Railroad Commissioner,,LIB,Mike Wright,3,2,1,0
+Zapata,2 - A,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,48,34,14,0
+Zapata,2 - A,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,97,71,22,4
+Zapata,2 - A,"Justice, Supreme Court, Place 4",,REP,John Devine,52,37,15,0
+Zapata,2 - A,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,92,68,20,4
+Zapata,2 - A,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,54,40,14,0
+Zapata,2 - A,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,93,68,21,4
 Zapata,2 - A,"Presiding Judge, Court of
-Criminal Appeals",,Sharon Keller,REP,34,0,14,48
+Criminal Appeals",,REP,Sharon Keller,48,34,14,0
 Zapata,2 - A,"Presiding Judge, Court of
-Criminal Appeals",,Maria T. (Terri) Jackson,DEM,72,4,22,98
+Criminal Appeals",,DEM,Maria T. (Terri) Jackson,98,72,22,4
 Zapata,2 - A,"Presiding Judge, Court of
-Criminal Appeals",,William Bryan Strange III,LIB,1,0,0,1
+Criminal Appeals",,LIB,William Bryan Strange III,1,1,0,0
 Zapata,2 - A,"Judge, Court of Criminal Appeals,
-Place 7",,Barbara Parker Hervey,REP,34,0,14,48
+Place 7",,REP,Barbara Parker Hervey,48,34,14,0
 Zapata,2 - A,"Judge, Court of Criminal Appeals,
-Place 7",,Ramona Franklin,DEM,73,4,22,99
+Place 7",,DEM,Ramona Franklin,99,73,22,4
 Zapata,2 - A,"Judge, Court of Criminal Appeals,
-Place 8",,Michelle Slaughter,REP,42,1,16,59
+Place 8",,REP,Michelle Slaughter,59,42,16,1
 Zapata,2 - A,"Judge, Court of Criminal Appeals,
-Place 8",,Mark Ash,LIB,10,1,8,19
-Zapata,2 - A,State Representative,80,Tracy King,DEM,91,4,27,122
+Place 8",,LIB,Mark Ash,19,10,8,1
+Zapata,2 - A,State Representative,80,DEM,Tracy King,122,91,27,4
 Zapata,2 - A,"Justice, 4th Court of Appeals
-District, Place No. 2",,Marialyn Barnard,REP,34,0,14,48
+District, Place No. 2",,REP,Marialyn Barnard,48,34,14,0
 Zapata,2 - A,"Justice, 4th Court of Appeals
-District, Place No. 2",,Beth Watkins,DEM,73,4,22,99
+District, Place No. 2",,DEM,Beth Watkins,99,73,22,4
 Zapata,2 - A,"Justice, 4th Court of Appeals
-District, Place No. 3",,Jason Pulliam,REP,32,0,13,45
+District, Place No. 3",,REP,Jason Pulliam,45,32,13,0
 Zapata,2 - A,"Justice, 4th Court of Appeals
-District, Place No. 3",,Patricia O'Connell Alvarez,DEM,77,4,24,105
+District, Place No. 3",,DEM,Patricia O'Connell Alvarez,105,77,24,4
 Zapata,2 - A,"Justice, 4th Court of Appeals
-District, Place No. 4",,Patrick Ballantyne,REP,35,0,13,48
+District, Place No. 4",,REP,Patrick Ballantyne,48,35,13,0
 Zapata,2 - A,"Justice, 4th Court of Appeals
-District, Place No. 4",,Luz Elena Chapa,DEM,76,4,23,103
+District, Place No. 4",,DEM,Luz Elena Chapa,103,76,23,4
 Zapata,2 - A,"Justice, 4th Court of Appeals
-District, Place No. 5",,Rebecca Simmons,REP,32,0,14,46
+District, Place No. 5",,REP,Rebecca Simmons,46,32,14,0
 Zapata,2 - A,"Justice, 4th Court of Appeals
-District, Place No. 5",,Liza Rodriguez,DEM,74,4,22,100
+District, Place No. 5",,DEM,Liza Rodriguez,100,74,22,4
 Zapata,2 - A,"Justice, 4th Court of Appeals
-District, Place No. 7",,Shane Stolarczyk,REP,29,0,14,43
+District, Place No. 7",,REP,Shane Stolarczyk,43,29,14,0
 Zapata,2 - A,"Justice, 4th Court of Appeals
-District, Place No. 7",,Rebeca Martinez,DEM,77,4,24,105
-Zapata,2 - A,"District Judge, 49th Judicial District",,Joe Lopez,DEM,94,4,24,122
-Zapata,2 - A,County Judge,,Joe Rathmell,DEM,93,4,31,128
-Zapata,2 - A,District Clerk,,Dora Mtz. CastaÒon,DEM,91,4,27,122
-Zapata,2 - A,County Clerk,,Mary Jayne Villarreal Bonoan,DEM,88,4,26,118
-Zapata,2 - A,County Treasurer,,Romeo Salinas,DEM,89,4,27,120
+District, Place No. 7",,DEM,Rebeca Martinez,105,77,24,4
+Zapata,2 - A,"District Judge, 49th Judicial District",,DEM,Joe Lopez,122,94,24,4
+Zapata,2 - A,County Judge,,DEM,Joe Rathmell,128,93,31,4
+Zapata,2 - A,District Clerk,,DEM,Dora Mtz. CastaÒon,122,91,27,4
+Zapata,2 - A,County Clerk,,DEM,Mary Jayne Villarreal Bonoan,118,88,26,4
+Zapata,2 - A,County Treasurer,,DEM,Romeo Salinas,120,89,27,4
 Zapata,2 - A,"County Commissioner,
-Precinct No. 2",,Olga M. Elizondo,DEM,87,4,25,116
+Precinct No. 2",,DEM,Olga M. Elizondo,116,87,25,4
 Zapata,2 - A,"Justice of the Peace,
-Precinct No. 2",,Juana Maria B. Gutierrez,DEM,96,4,30,130
-Zapata,3,Straight Party,,Republican,REP,41,5,57,103
-Zapata,3,Straight Party,,Democratic,DEM,92,8,89,189
-Zapata,3,Straight Party,,Libertarian,LIB,3,0,2,5
-Zapata,3,U.S. Senate,,Ted Cruz,REP,115,17,127,259
-Zapata,3,U.S. Senate,,Beto O'Rourke,DEM,152,12,155,319
-Zapata,3,U.S. Senate,,Neal M. Dikeman,LIB,1,0,1,2
-Zapata,3,U.S. House,28,Henry Cuellar,DEM,221,18,197,436
-Zapata,3,U.S. House,28,Arthur Thomas IV,LIB,25,4,33,62
-Zapata,3,Governor,,Greg Abbott,REP,117,17,133,267
-Zapata,3,Governor,,Lupe Valdez,DEM,143,12,147,302
-Zapata,3,Governor,,Mark Jay Tippetts,LIB,2,0,1,3
-Zapata,3,Lieutenant Governor,,Dan Patrick,REP,95,18,128,241
-Zapata,3,Lieutenant Governor,,Mike Collier,DEM,152,11,143,306
-Zapata,3,Lieutenant Governor,,Kerry Douglas McKennon,LIB,6,0,6,12
-Zapata,3,Attorney General,,Ken Paxton,REP,83,14,116,213
-Zapata,3,Attorney General,,Justin Nelson,DEM,160,12,152,324
-Zapata,3,Attorney General,,Michael Ray Harris,LIB,11,3,7,21
-Zapata,3,Comptroller of Public Accounts,,Glenn Hegar,REP,87,14,121,222
-Zapata,3,Comptroller of Public Accounts,,Joi Chevalier,DEM,145,12,148,305
-Zapata,3,Comptroller of Public Accounts,,Ben Sanders,LIB,18,3,5,26
+Precinct No. 2",,DEM,Juana Maria B. Gutierrez,130,96,30,4
+Zapata,3,Straight Party,,REP,Republican,103,41,57,5
+Zapata,3,Straight Party,,DEM,Democratic,189,92,89,8
+Zapata,3,Straight Party,,LIB,Libertarian,5,3,2,0
+Zapata,3,U.S. Senate,,REP,Ted Cruz,259,115,127,17
+Zapata,3,U.S. Senate,,DEM,Beto O'Rourke,319,152,155,12
+Zapata,3,U.S. Senate,,LIB,Neal M. Dikeman,2,1,1,0
+Zapata,3,U.S. House,28,DEM,Henry Cuellar,436,221,197,18
+Zapata,3,U.S. House,28,LIB,Arthur Thomas IV,62,25,33,4
+Zapata,3,Governor,,REP,Greg Abbott,267,117,133,17
+Zapata,3,Governor,,DEM,Lupe Valdez,302,143,147,12
+Zapata,3,Governor,,LIB,Mark Jay Tippetts,3,2,1,0
+Zapata,3,Lieutenant Governor,,REP,Dan Patrick,241,95,128,18
+Zapata,3,Lieutenant Governor,,DEM,Mike Collier,306,152,143,11
+Zapata,3,Lieutenant Governor,,LIB,Kerry Douglas McKennon,12,6,6,0
+Zapata,3,Attorney General,,REP,Ken Paxton,213,83,116,14
+Zapata,3,Attorney General,,DEM,Justin Nelson,324,160,152,12
+Zapata,3,Attorney General,,LIB,Michael Ray Harris,21,11,7,3
+Zapata,3,Comptroller of Public Accounts,,REP,Glenn Hegar,222,87,121,14
+Zapata,3,Comptroller of Public Accounts,,DEM,Joi Chevalier,305,145,148,12
+Zapata,3,Comptroller of Public Accounts,,LIB,Ben Sanders,26,18,5,3
 Zapata,3,"Commissioner of the General
-Land Office",,George P. Bush,REP,115,18,147,280
+Land Office",,REP,George P. Bush,280,115,147,18
 Zapata,3,"Commissioner of the General
-Land Office",,Miguel Suazo,DEM,133,11,126,270
+Land Office",,DEM,Miguel Suazo,270,133,126,11
 Zapata,3,"Commissioner of the General
-Land Office",,Matt Pina,LIB,6,0,3,9
-Zapata,3,Commissioner of Agriculture,,Sid Miller,REP,92,16,127,235
-Zapata,3,Commissioner of Agriculture,,Kim Olson,DEM,141,11,144,296
-Zapata,3,Commissioner of Agriculture,,Richard Carpenter,LIB,14,1,4,19
-Zapata,3,Railroad Commissioner,,Christi Craddick,REP,82,15,119,216
-Zapata,3,Railroad Commissioner,,Roman McAllen,DEM,155,11,149,315
-Zapata,3,Railroad Commissioner,,Mike Wright,LIB,10,3,8,21
-Zapata,3,"Justice, Supreme Court, Place 2",,Jimmy Blacklock,REP,93,15,122,230
-Zapata,3,"Justice, Supreme Court, Place 2",,Steven Kirkland,DEM,153,13,154,320
-Zapata,3,"Justice, Supreme Court, Place 4",,John Devine,REP,100,18,122,240
-Zapata,3,"Justice, Supreme Court, Place 4",,R.K. Sandill,DEM,147,11,151,309
-Zapata,3,"Justice, Supreme Court, Place 6",,Jeff Brown,REP,90,17,119,226
-Zapata,3,"Justice, Supreme Court, Place 6",,Kathy Cheng,DEM,155,12,155,322
+Land Office",,LIB,Matt Pina,9,6,3,0
+Zapata,3,Commissioner of Agriculture,,REP,Sid Miller,235,92,127,16
+Zapata,3,Commissioner of Agriculture,,DEM,Kim Olson,296,141,144,11
+Zapata,3,Commissioner of Agriculture,,LIB,Richard Carpenter,19,14,4,1
+Zapata,3,Railroad Commissioner,,REP,Christi Craddick,216,82,119,15
+Zapata,3,Railroad Commissioner,,DEM,Roman McAllen,315,155,149,11
+Zapata,3,Railroad Commissioner,,LIB,Mike Wright,21,10,8,3
+Zapata,3,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,230,93,122,15
+Zapata,3,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,320,153,154,13
+Zapata,3,"Justice, Supreme Court, Place 4",,REP,John Devine,240,100,122,18
+Zapata,3,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,309,147,151,11
+Zapata,3,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,226,90,119,17
+Zapata,3,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,322,155,155,12
 Zapata,3,"Presiding Judge, Court of
-Criminal Appeals",,Sharon Keller,REP,87,16,120,223
+Criminal Appeals",,REP,Sharon Keller,223,87,120,16
 Zapata,3,"Presiding Judge, Court of
-Criminal Appeals",,Maria T. (Terri) Jackson,DEM,156,12,150,318
+Criminal Appeals",,DEM,Maria T. (Terri) Jackson,318,156,150,12
 Zapata,3,"Presiding Judge, Court of
-Criminal Appeals",,William Bryan Strange III,LIB,5,1,3,9
+Criminal Appeals",,LIB,William Bryan Strange III,9,5,3,1
 Zapata,3,"Judge, Court of Criminal Appeals,
-Place 7",,Barbara Parker Hervey,REP,96,16,123,235
+Place 7",,REP,Barbara Parker Hervey,235,96,123,16
 Zapata,3,"Judge, Court of Criminal Appeals,
-Place 7",,Ramona Franklin,DEM,150,12,155,317
+Place 7",,DEM,Ramona Franklin,317,150,155,12
 Zapata,3,"Judge, Court of Criminal Appeals,
-Place 8",,Michelle Slaughter,REP,126,16,152,294
+Place 8",,REP,Michelle Slaughter,294,126,152,16
 Zapata,3,"Judge, Court of Criminal Appeals,
-Place 8",,Mark Ash,LIB,58,4,61,123
-Zapata,3,State Representative,80,Tracy King,DEM,218,19,195,432
+Place 8",,LIB,Mark Ash,123,58,61,4
+Zapata,3,State Representative,80,DEM,Tracy King,432,218,195,19
 Zapata,3,"Justice, 4th Court of Appeals
-District, Place No. 2",,Marialyn Barnard,REP,91,14,120,225
+District, Place No. 2",,REP,Marialyn Barnard,225,91,120,14
 Zapata,3,"Justice, 4th Court of Appeals
-District, Place No. 2",,Beth Watkins,DEM,156,14,155,325
+District, Place No. 2",,DEM,Beth Watkins,325,156,155,14
 Zapata,3,"Justice, 4th Court of Appeals
-District, Place No. 3",,Jason Pulliam,REP,77,16,111,204
+District, Place No. 3",,REP,Jason Pulliam,204,77,111,16
 Zapata,3,"Justice, 4th Court of Appeals
-District, Place No. 3",,Patricia O'Connell Alvarez,DEM,170,13,168,351
+District, Place No. 3",,DEM,Patricia O'Connell Alvarez,351,170,168,13
 Zapata,3,"Justice, 4th Court of Appeals
-District, Place No. 4",,Patrick Ballantyne,REP,74,16,113,203
+District, Place No. 4",,REP,Patrick Ballantyne,203,74,113,16
 Zapata,3,"Justice, 4th Court of Appeals
-District, Place No. 4",,Luz Elena Chapa,DEM,173,13,163,349
+District, Place No. 4",,DEM,Luz Elena Chapa,349,173,163,13
 Zapata,3,"Justice, 4th Court of Appeals
-District, Place No. 5",,Rebecca Simmons,REP,77,16,114,207
+District, Place No. 5",,REP,Rebecca Simmons,207,77,114,16
 Zapata,3,"Justice, 4th Court of Appeals
-District, Place No. 5",,Liza Rodriguez,DEM,170,12,164,346
+District, Place No. 5",,DEM,Liza Rodriguez,346,170,164,12
 Zapata,3,"Justice, 4th Court of Appeals
-District, Place No. 7",,Shane Stolarczyk,REP,71,15,113,199
+District, Place No. 7",,REP,Shane Stolarczyk,199,71,113,15
 Zapata,3,"Justice, 4th Court of Appeals
-District, Place No. 7",,Rebeca Martinez,DEM,178,13,165,356
-Zapata,3,"District Judge, 49th Judicial District",,Joe Lopez,DEM,219,19,201,439
-Zapata,3,County Judge,,Joe Rathmell,DEM,217,20,211,448
-Zapata,3,District Clerk,,Dora Mtz. CastaÒon,DEM,214,20,202,436
-Zapata,3,County Clerk,,Mary Jayne Villarreal Bonoan,DEM,215,21,205,441
-Zapata,3,County Treasurer,,Romeo Salinas,DEM,217,18,203,438
+District, Place No. 7",,DEM,Rebeca Martinez,356,178,165,13
+Zapata,3,"District Judge, 49th Judicial District",,DEM,Joe Lopez,439,219,201,19
+Zapata,3,County Judge,,DEM,Joe Rathmell,448,217,211,20
+Zapata,3,District Clerk,,DEM,Dora Mtz. CastaÒon,436,214,202,20
+Zapata,3,County Clerk,,DEM,Mary Jayne Villarreal Bonoan,441,215,205,21
+Zapata,3,County Treasurer,,DEM,Romeo Salinas,438,217,203,18
 Zapata,3,"Justice of the Peace,
-Precinct No. 3",,"Fernando MuÒoz, Jr.",DEM,219,18,205,442
-Zapata,4,Straight Party,,Republican,REP,32,0,25,57
-Zapata,4,Straight Party,,Democratic,DEM,83,4,60,147
-Zapata,4,Straight Party,,Libertarian,LIB,1,0,0,1
-Zapata,4,U.S. Senate,,Ted Cruz,REP,73,0,59,132
-Zapata,4,U.S. Senate,,Beto O'Rourke,DEM,135,7,113,255
-Zapata,4,U.S. Senate,,Neal M. Dikeman,LIB,2,0,0,2
-Zapata,4,U.S. House,28,Henry Cuellar,DEM,179,7,135,321
-Zapata,4,U.S. House,28,Arthur Thomas IV,LIB,14,0,11,25
-Zapata,4,Governor,,Greg Abbott,REP,78,1,66,145
-Zapata,4,Governor,,Lupe Valdez,DEM,124,6,102,232
-Zapata,4,Governor,,Mark Jay Tippetts,LIB,2,0,1,3
-Zapata,4,Lieutenant Governor,,Dan Patrick,REP,62,0,56,118
-Zapata,4,Lieutenant Governor,,Mike Collier,DEM,129,7,107,243
-Zapata,4,Lieutenant Governor,,Kerry Douglas McKennon,LIB,6,0,2,8
-Zapata,4,Attorney General,,Ken Paxton,REP,58,0,55,113
-Zapata,4,Attorney General,,Justin Nelson,DEM,132,7,105,244
-Zapata,4,Attorney General,,Michael Ray Harris,LIB,7,0,4,11
-Zapata,4,Comptroller of Public Accounts,,Glenn Hegar,REP,59,0,54,113
-Zapata,4,Comptroller of Public Accounts,,Joi Chevalier,DEM,126,7,102,235
-Zapata,4,Comptroller of Public Accounts,,Ben Sanders,LIB,9,0,7,16
+Precinct No. 3",,DEM,"Fernando MuÒoz, Jr.",442,219,205,18
+Zapata,4,Straight Party,,REP,Republican,57,32,25,0
+Zapata,4,Straight Party,,DEM,Democratic,147,83,60,4
+Zapata,4,Straight Party,,LIB,Libertarian,1,1,0,0
+Zapata,4,U.S. Senate,,REP,Ted Cruz,132,73,59,0
+Zapata,4,U.S. Senate,,DEM,Beto O'Rourke,255,135,113,7
+Zapata,4,U.S. Senate,,LIB,Neal M. Dikeman,2,2,0,0
+Zapata,4,U.S. House,28,DEM,Henry Cuellar,321,179,135,7
+Zapata,4,U.S. House,28,LIB,Arthur Thomas IV,25,14,11,0
+Zapata,4,Governor,,REP,Greg Abbott,145,78,66,1
+Zapata,4,Governor,,DEM,Lupe Valdez,232,124,102,6
+Zapata,4,Governor,,LIB,Mark Jay Tippetts,3,2,1,0
+Zapata,4,Lieutenant Governor,,REP,Dan Patrick,118,62,56,0
+Zapata,4,Lieutenant Governor,,DEM,Mike Collier,243,129,107,7
+Zapata,4,Lieutenant Governor,,LIB,Kerry Douglas McKennon,8,6,2,0
+Zapata,4,Attorney General,,REP,Ken Paxton,113,58,55,0
+Zapata,4,Attorney General,,DEM,Justin Nelson,244,132,105,7
+Zapata,4,Attorney General,,LIB,Michael Ray Harris,11,7,4,0
+Zapata,4,Comptroller of Public Accounts,,REP,Glenn Hegar,113,59,54,0
+Zapata,4,Comptroller of Public Accounts,,DEM,Joi Chevalier,235,126,102,7
+Zapata,4,Comptroller of Public Accounts,,LIB,Ben Sanders,16,9,7,0
 Zapata,4,"Commissioner of the General
-Land Office",,George P. Bush,REP,69,0,67,136
+Land Office",,REP,George P. Bush,136,69,67,0
 Zapata,4,"Commissioner of the General
-Land Office",,Miguel Suazo,DEM,124,7,92,223
+Land Office",,DEM,Miguel Suazo,223,124,92,7
 Zapata,4,"Commissioner of the General
-Land Office",,Matt Pina,LIB,5,0,5,10
-Zapata,4,Commissioner of Agriculture,,Sid Miller,REP,56,0,52,108
-Zapata,4,Commissioner of Agriculture,,Kim Olson,DEM,130,7,106,243
-Zapata,4,Commissioner of Agriculture,,Richard Carpenter,LIB,6,0,3,9
-Zapata,4,Railroad Commissioner,,Christi Craddick,REP,54,0,51,105
-Zapata,4,Railroad Commissioner,,Roman McAllen,DEM,133,7,106,246
-Zapata,4,Railroad Commissioner,,Mike Wright,LIB,5,0,4,9
-Zapata,4,"Justice, Supreme Court, Place 2",,Jimmy Blacklock,REP,51,0,52,103
-Zapata,4,"Justice, Supreme Court, Place 2",,Steven Kirkland,DEM,140,7,109,256
-Zapata,4,"Justice, Supreme Court, Place 4",,John Devine,REP,60,0,57,117
-Zapata,4,"Justice, Supreme Court, Place 4",,R.K. Sandill,DEM,131,7,105,243
-Zapata,4,"Justice, Supreme Court, Place 6",,Jeff Brown,REP,60,0,52,112
-Zapata,4,"Justice, Supreme Court, Place 6",,Kathy Cheng,DEM,131,7,107,245
+Land Office",,LIB,Matt Pina,10,5,5,0
+Zapata,4,Commissioner of Agriculture,,REP,Sid Miller,108,56,52,0
+Zapata,4,Commissioner of Agriculture,,DEM,Kim Olson,243,130,106,7
+Zapata,4,Commissioner of Agriculture,,LIB,Richard Carpenter,9,6,3,0
+Zapata,4,Railroad Commissioner,,REP,Christi Craddick,105,54,51,0
+Zapata,4,Railroad Commissioner,,DEM,Roman McAllen,246,133,106,7
+Zapata,4,Railroad Commissioner,,LIB,Mike Wright,9,5,4,0
+Zapata,4,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,103,51,52,0
+Zapata,4,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,256,140,109,7
+Zapata,4,"Justice, Supreme Court, Place 4",,REP,John Devine,117,60,57,0
+Zapata,4,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,243,131,105,7
+Zapata,4,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,112,60,52,0
+Zapata,4,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,245,131,107,7
 Zapata,4,"Presiding Judge, Court of
-Criminal Appeals",,Sharon Keller,REP,58,0,51,109
+Criminal Appeals",,REP,Sharon Keller,109,58,51,0
 Zapata,4,"Presiding Judge, Court of
-Criminal Appeals",,Maria T. (Terri) Jackson,DEM,134,7,110,251
+Criminal Appeals",,DEM,Maria T. (Terri) Jackson,251,134,110,7
 Zapata,4,"Presiding Judge, Court of
-Criminal Appeals",,William Bryan Strange III,LIB,2,0,1,3
+Criminal Appeals",,LIB,William Bryan Strange III,3,2,1,0
 Zapata,4,"Judge, Court of Criminal Appeals,
-Place 7",,Barbara Parker Hervey,REP,53,0,53,106
+Place 7",,REP,Barbara Parker Hervey,106,53,53,0
 Zapata,4,"Judge, Court of Criminal Appeals,
-Place 7",,Ramona Franklin,DEM,141,7,109,257
+Place 7",,DEM,Ramona Franklin,257,141,109,7
 Zapata,4,"Judge, Court of Criminal Appeals,
-Place 8",,Michelle Slaughter,REP,79,1,69,149
+Place 8",,REP,Michelle Slaughter,149,79,69,1
 Zapata,4,"Judge, Court of Criminal Appeals,
-Place 8",,Mark Ash,LIB,34,0,37,71
-Zapata,4,State Representative,80,Tracy King,DEM,156,7,134,297
+Place 8",,LIB,Mark Ash,71,34,37,0
+Zapata,4,State Representative,80,DEM,Tracy King,297,156,134,7
 Zapata,4,"Justice, 4th Court of Appeals
-District, Place No. 2",,Marialyn Barnard,REP,53,0,51,104
+District, Place No. 2",,REP,Marialyn Barnard,104,53,51,0
 Zapata,4,"Justice, 4th Court of Appeals
-District, Place No. 2",,Beth Watkins,DEM,137,7,110,254
+District, Place No. 2",,DEM,Beth Watkins,254,137,110,7
 Zapata,4,"Justice, 4th Court of Appeals
-District, Place No. 3",,Jason Pulliam,REP,50,0,44,94
+District, Place No. 3",,REP,Jason Pulliam,94,50,44,0
 Zapata,4,"Justice, 4th Court of Appeals
-District, Place No. 3",,Patricia O'Connell Alvarez,DEM,143,7,119,269
+District, Place No. 3",,DEM,Patricia O'Connell Alvarez,269,143,119,7
 Zapata,4,"Justice, 4th Court of Appeals
-District, Place No. 4",,Patrick Ballantyne,REP,43,0,48,91
+District, Place No. 4",,REP,Patrick Ballantyne,91,43,48,0
 Zapata,4,"Justice, 4th Court of Appeals
-District, Place No. 4",,Luz Elena Chapa,DEM,147,7,114,268
+District, Place No. 4",,DEM,Luz Elena Chapa,268,147,114,7
 Zapata,4,"Justice, 4th Court of Appeals
-District, Place No. 5",,Rebecca Simmons,REP,48,0,48,96
+District, Place No. 5",,REP,Rebecca Simmons,96,48,48,0
 Zapata,4,"Justice, 4th Court of Appeals
-District, Place No. 5",,Liza Rodriguez,DEM,144,5,111,260
+District, Place No. 5",,DEM,Liza Rodriguez,260,144,111,5
 Zapata,4,"Justice, 4th Court of Appeals
-District, Place No. 7",,Shane Stolarczyk,REP,40,0,45,85
+District, Place No. 7",,REP,Shane Stolarczyk,85,40,45,0
 Zapata,4,"Justice, 4th Court of Appeals
-District, Place No. 7",,Rebeca Martinez,DEM,152,5,117,274
-Zapata,4,"District Judge, 49th Judicial District",,Joe Lopez,DEM,161,7,138,306
-Zapata,4,County Judge,,Joe Rathmell,DEM,161,7,134,302
-Zapata,4,District Clerk,,Dora Mtz. CastaÒon,DEM,162,7,134,303
-Zapata,4,County Clerk,,Mary Jayne Villarreal Bonoan,DEM,163,7,137,307
-Zapata,4,County Treasurer,,Romeo Salinas,DEM,163,7,136,306
+District, Place No. 7",,DEM,Rebeca Martinez,274,152,117,5
+Zapata,4,"District Judge, 49th Judicial District",,DEM,Joe Lopez,306,161,138,7
+Zapata,4,County Judge,,DEM,Joe Rathmell,302,161,134,7
+Zapata,4,District Clerk,,DEM,Dora Mtz. CastaÒon,303,162,134,7
+Zapata,4,County Clerk,,DEM,Mary Jayne Villarreal Bonoan,307,163,137,7
+Zapata,4,County Treasurer,,DEM,Romeo Salinas,306,163,136,7
 Zapata,4,"County Commissioner,
-Precinct No. 4",,Norberto Garza,DEM,162,7,132,301
+Precinct No. 4",,DEM,Norberto Garza,301,162,132,7
 Zapata,4,"Justice of the Peace,
-Precinct No. 4",,Ramon R. Benavides,DEM,152,5,138,295
-Zapata,1,Registered Voters,,,,,,,1753
-Zapata,1 - A,Registered Voters,,,,,,,109
-Zapata,1 - B,Registered Voters,,,,,,,144
-Zapata,2,Registered Voters,,,,,,,1243
-Zapata,2 - A,Registered Voters,,,,,,,573
-Zapata,3,Registered Voters,,,,,,,1989
-Zapata,4,Registered Voters,,,,,,,1712
+Precinct No. 4",,DEM,Ramon R. Benavides,295,152,138,5
+Zapata,1,Registered Voters,,,,1753,,,
+Zapata,1 - A,Registered Voters,,,,109,,,
+Zapata,1 - B,Registered Voters,,,,144,,,
+Zapata,2,Registered Voters,,,,1243,,,
+Zapata,2 - A,Registered Voters,,,,573,,,
+Zapata,3,Registered Voters,,,,1989,,,
+Zapata,4,Registered Voters,,,,1712,,,

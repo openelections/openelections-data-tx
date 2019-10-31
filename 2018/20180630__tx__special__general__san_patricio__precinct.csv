@@ -1,86 +1,86 @@
-county,precinct,office,district,party,candidate,absentee,early_voting,election_day,votes
-San Patricio,101,U.S. House,27,DEM,Eric Holguin,5,0,7,12
-San Patricio,101,U.S. House,27,IND,Judith Cutright,0,0,1,1
+county,precinct,office,district,party,candidate,votes,election_day,early_voting,absentee
+San Patricio,101,U.S. House,27,DEM,Eric Holguin,12,7,0,5
+San Patricio,101,U.S. House,27,IND,Judith Cutright,1,1,0,0
 San Patricio,101,U.S. House,27,REP,Marty Perez,0,0,0,0
 San Patricio,101,U.S. House,27,DEM,Mike Westergren,0,0,0,0
 San Patricio,101,U.S. House,27,IND,Christopher Suprun,0,0,0,0
-San Patricio,101,U.S. House,27,DEM,Raul (Roy) Barrera,5,0,1,6
+San Patricio,101,U.S. House,27,DEM,Raul (Roy) Barrera,6,1,0,5
 San Patricio,101,U.S. House,27,LIB,Daniel Tinus,0,0,0,0
-San Patricio,101,U.S. House,27,REP,Michael Cloud,0,3,8,11
+San Patricio,101,U.S. House,27,REP,Michael Cloud,11,8,3,0
 San Patricio,101,U.S. House,27,REP,Bech Bruun,0,0,0,0
-San Patricio,101,U.S. House,27,,Ballots Cast,10,3,17,30
+San Patricio,101,U.S. House,27,,Ballots Cast,30,17,3,10
 San Patricio,101,U.S. House,27,,Under Votes,0,0,0,0
 San Patricio,101,U.S. House,27,,Over Votes,0,0,0,0
-San Patricio,103,U.S. House,27,DEM,Eric Holguin,0,0,2,2
+San Patricio,103,U.S. House,27,DEM,Eric Holguin,2,2,0,0
 San Patricio,103,U.S. House,27,IND,Judith Cutright,0,0,0,0
 San Patricio,103,U.S. House,27,REP,Marty Perez,0,0,0,0
-San Patricio,103,U.S. House,27,DEM,Mike Westergren,0,1,0,1
+San Patricio,103,U.S. House,27,DEM,Mike Westergren,1,0,1,0
 San Patricio,103,U.S. House,27,IND,Christopher Suprun,0,0,0,0
 San Patricio,103,U.S. House,27,DEM,Raul (Roy) Barrera,0,0,0,0
 San Patricio,103,U.S. House,27,LIB,Daniel Tinus,0,0,0,0
-San Patricio,103,U.S. House,27,REP,Michael Cloud,2,2,7,11
+San Patricio,103,U.S. House,27,REP,Michael Cloud,11,7,2,2
 San Patricio,103,U.S. House,27,REP,Bech Bruun,0,0,0,0
-San Patricio,103,U.S. House,27,,Ballots Cast,2,3,9,14
+San Patricio,103,U.S. House,27,,Ballots Cast,14,9,3,2
 San Patricio,103,U.S. House,27,,Under Votes,0,0,0,0
 San Patricio,103,U.S. House,27,,Over Votes,0,0,0,0
-San Patricio,106,U.S. House,27,DEM,Eric Holguin,6,9,16,31
+San Patricio,106,U.S. House,27,DEM,Eric Holguin,31,16,9,6
 San Patricio,106,U.S. House,27,IND,Judith Cutright,0,0,0,0
-San Patricio,106,U.S. House,27,REP,Marty Perez,0,0,2,2
-San Patricio,106,U.S. House,27,DEM,Mike Westergren,1,1,0,2
+San Patricio,106,U.S. House,27,REP,Marty Perez,2,2,0,0
+San Patricio,106,U.S. House,27,DEM,Mike Westergren,2,0,1,1
 San Patricio,106,U.S. House,27,IND,Christopher Suprun,0,0,0,0
-San Patricio,106,U.S. House,27,DEM,Raul (Roy) Barrera,2,0,2,4
+San Patricio,106,U.S. House,27,DEM,Raul (Roy) Barrera,4,2,0,2
 San Patricio,106,U.S. House,27,LIB,Daniel Tinus,0,0,0,0
-San Patricio,106,U.S. House,27,REP,Michael Cloud,9,15,31,55
+San Patricio,106,U.S. House,27,REP,Michael Cloud,55,31,15,9
 San Patricio,106,U.S. House,27,REP,Bech Bruun,0,0,0,0
-San Patricio,106,U.S. House,27,,Ballots Cast,18,25,51,94
+San Patricio,106,U.S. House,27,,Ballots Cast,94,51,25,18
 San Patricio,106,U.S. House,27,,Under Votes,0,0,0,0
 San Patricio,106,U.S. House,27,,Over Votes,0,0,0,0
-San Patricio,107,U.S. House,27,DEM,Eric Holguin,3,0,7,10
+San Patricio,107,U.S. House,27,DEM,Eric Holguin,10,7,0,3
 San Patricio,107,U.S. House,27,IND,Judith Cutright,0,0,0,0
 San Patricio,107,U.S. House,27,REP,Marty Perez,0,0,0,0
-San Patricio,107,U.S. House,27,DEM,Mike Westergren,0,0,1,1
+San Patricio,107,U.S. House,27,DEM,Mike Westergren,1,1,0,0
 San Patricio,107,U.S. House,27,IND,Christopher Suprun,0,0,0,0
 San Patricio,107,U.S. House,27,DEM,Raul (Roy) Barrera,1,0,0,1
 San Patricio,107,U.S. House,27,LIB,Daniel Tinus,0,0,0,0
-San Patricio,107,U.S. House,27,REP,Michael Cloud,1,0,6,7
+San Patricio,107,U.S. House,27,REP,Michael Cloud,7,6,0,1
 San Patricio,107,U.S. House,27,REP,Bech Bruun,0,0,0,0
-San Patricio,107,U.S. House,27,,Ballots Cast,5,0,14,19
+San Patricio,107,U.S. House,27,,Ballots Cast,19,14,0,5
 San Patricio,107,U.S. House,27,,Under Votes,1,0,0,1
 San Patricio,107,U.S. House,27,,Over Votes,0,0,0,0
-San Patricio,108,U.S. House,27,DEM,Eric Holguin,18,27,48,93
-San Patricio,108,U.S. House,27,IND,Judith Cutright,0,0,1,1
-San Patricio,108,U.S. House,27,REP,Marty Perez,0,2,0,2
-San Patricio,108,U.S. House,27,DEM,Mike Westergren,2,1,3,6
+San Patricio,108,U.S. House,27,DEM,Eric Holguin,93,48,27,18
+San Patricio,108,U.S. House,27,IND,Judith Cutright,1,1,0,0
+San Patricio,108,U.S. House,27,REP,Marty Perez,2,0,2,0
+San Patricio,108,U.S. House,27,DEM,Mike Westergren,6,3,1,2
 San Patricio,108,U.S. House,27,IND,Christopher Suprun,0,0,0,0
-San Patricio,108,U.S. House,27,DEM,Raul (Roy) Barrera,3,0,1,4
-San Patricio,108,U.S. House,27,LIB,Daniel Tinus,0,0,1,1
-San Patricio,108,U.S. House,27,REP,Michael Cloud,23,70,105,198
-San Patricio,108,U.S. House,27,REP,Bech Bruun,9,2,6,17
-San Patricio,108,U.S. House,27,,Ballots Cast,55,102,165,322
+San Patricio,108,U.S. House,27,DEM,Raul (Roy) Barrera,4,1,0,3
+San Patricio,108,U.S. House,27,LIB,Daniel Tinus,1,1,0,0
+San Patricio,108,U.S. House,27,REP,Michael Cloud,198,105,70,23
+San Patricio,108,U.S. House,27,REP,Bech Bruun,17,6,2,9
+San Patricio,108,U.S. House,27,,Ballots Cast,322,165,102,55
 San Patricio,108,U.S. House,27,,Under Votes,0,0,0,0
 San Patricio,108,U.S. House,27,,Over Votes,1,0,0,1
-San Patricio,109,U.S. House,27,DEM,Eric Holguin,11,20,27,58
+San Patricio,109,U.S. House,27,DEM,Eric Holguin,58,27,20,11
 San Patricio,109,U.S. House,27,IND,Judith Cutright,0,0,0,0
-San Patricio,109,U.S. House,27,REP,Marty Perez,0,0,6,6
-San Patricio,109,U.S. House,27,DEM,Mike Westergren,4,0,1,5
+San Patricio,109,U.S. House,27,REP,Marty Perez,6,6,0,0
+San Patricio,109,U.S. House,27,DEM,Mike Westergren,5,1,0,4
 San Patricio,109,U.S. House,27,IND,Christopher Suprun,0,0,0,0
-San Patricio,109,U.S. House,27,DEM,Raul (Roy) Barrera,2,2,3,7
-San Patricio,109,U.S. House,27,LIB,Daniel Tinus,0,1,1,2
-San Patricio,109,U.S. House,27,REP,Michael Cloud,13,14,77,104
-San Patricio,109,U.S. House,27,REP,Bech Bruun,2,3,8,13
-San Patricio,109,U.S. House,27,,Ballots Cast,32,40,123,195
+San Patricio,109,U.S. House,27,DEM,Raul (Roy) Barrera,7,3,2,2
+San Patricio,109,U.S. House,27,LIB,Daniel Tinus,2,1,1,0
+San Patricio,109,U.S. House,27,REP,Michael Cloud,104,77,14,13
+San Patricio,109,U.S. House,27,REP,Bech Bruun,13,8,3,2
+San Patricio,109,U.S. House,27,,Ballots Cast,195,123,40,32
 San Patricio,109,U.S. House,27,,Under Votes,0,0,0,0
 San Patricio,109,U.S. House,27,,Over Votes,0,0,0,0
-San Patricio,110,U.S. House,27,DEM,Eric Holguin,15,2,18,35
+San Patricio,110,U.S. House,27,DEM,Eric Holguin,35,18,2,15
 San Patricio,110,U.S. House,27,IND,Judith Cutright,0,0,0,0
-San Patricio,110,U.S. House,27,REP,Marty Perez,0,0,2,2
+San Patricio,110,U.S. House,27,REP,Marty Perez,2,2,0,0
 San Patricio,110,U.S. House,27,DEM,Mike Westergren,1,0,0,1
 San Patricio,110,U.S. House,27,IND,Christopher Suprun,0,0,0,0
-San Patricio,110,U.S. House,27,DEM,Raul (Roy) Barrera,2,0,1,3
+San Patricio,110,U.S. House,27,DEM,Raul (Roy) Barrera,3,1,0,2
 San Patricio,110,U.S. House,27,LIB,Daniel Tinus,0,0,0,0
-San Patricio,110,U.S. House,27,REP,Michael Cloud,5,7,36,48
-San Patricio,110,U.S. House,27,REP,Bech Bruun,5,0,6,11
-San Patricio,110,U.S. House,27,,Ballots Cast,28,9,63,100
+San Patricio,110,U.S. House,27,REP,Michael Cloud,48,36,7,5
+San Patricio,110,U.S. House,27,REP,Bech Bruun,11,6,0,5
+San Patricio,110,U.S. House,27,,Ballots Cast,100,63,9,28
 San Patricio,110,U.S. House,27,,Under Votes,0,0,0,0
 San Patricio,110,U.S. House,27,,Over Votes,1,0,0,1
 San Patricio,111,U.S. House,27,DEM,Eric Holguin,0,0,0,0
@@ -90,117 +90,117 @@ San Patricio,111,U.S. House,27,DEM,Mike Westergren,0,0,0,0
 San Patricio,111,U.S. House,27,IND,Christopher Suprun,0,0,0,0
 San Patricio,111,U.S. House,27,DEM,Raul (Roy) Barrera,0,0,0,0
 San Patricio,111,U.S. House,27,LIB,Daniel Tinus,0,0,0,0
-San Patricio,111,U.S. House,27,REP,Michael Cloud,0,6,1,7
+San Patricio,111,U.S. House,27,REP,Michael Cloud,7,1,6,0
 San Patricio,111,U.S. House,27,REP,Bech Bruun,0,0,0,0
-San Patricio,111,U.S. House,27,,Ballots Cast,0,6,1,7
+San Patricio,111,U.S. House,27,,Ballots Cast,7,1,6,0
 San Patricio,111,U.S. House,27,,Under Votes,0,0,0,0
 San Patricio,111,U.S. House,27,,Over Votes,0,0,0,0
-San Patricio,112,U.S. House,27,DEM,Eric Holguin,7,1,23,31
+San Patricio,112,U.S. House,27,DEM,Eric Holguin,31,23,1,7
 San Patricio,112,U.S. House,27,IND,Judith Cutright,0,0,0,0
 San Patricio,112,U.S. House,27,REP,Marty Perez,0,0,0,0
 San Patricio,112,U.S. House,27,DEM,Mike Westergren,0,0,0,0
 San Patricio,112,U.S. House,27,IND,Christopher Suprun,0,0,0,0
-San Patricio,112,U.S. House,27,DEM,Raul (Roy) Barrera,14,0,1,15
+San Patricio,112,U.S. House,27,DEM,Raul (Roy) Barrera,15,1,0,14
 San Patricio,112,U.S. House,27,LIB,Daniel Tinus,0,0,0,0
-San Patricio,112,U.S. House,27,REP,Michael Cloud,0,2,1,3
+San Patricio,112,U.S. House,27,REP,Michael Cloud,3,1,2,0
 San Patricio,112,U.S. House,27,REP,Bech Bruun,1,0,0,1
-San Patricio,112,U.S. House,27,,Ballots Cast,22,3,25,50
+San Patricio,112,U.S. House,27,,Ballots Cast,50,25,3,22
 San Patricio,112,U.S. House,27,,Under Votes,0,0,0,0
 San Patricio,112,U.S. House,27,,Over Votes,2,0,0,2
-San Patricio,113,U.S. House,27,DEM,Eric Holguin,7,3,5,15
+San Patricio,113,U.S. House,27,DEM,Eric Holguin,15,5,3,7
 San Patricio,113,U.S. House,27,IND,Judith Cutright,0,0,0,0
-San Patricio,113,U.S. House,27,REP,Marty Perez,0,0,1,1
+San Patricio,113,U.S. House,27,REP,Marty Perez,1,1,0,0
 San Patricio,113,U.S. House,27,DEM,Mike Westergren,0,0,0,0
 San Patricio,113,U.S. House,27,IND,Christopher Suprun,0,0,0,0
-San Patricio,113,U.S. House,27,DEM,Raul (Roy) Barrera,0,0,4,4
+San Patricio,113,U.S. House,27,DEM,Raul (Roy) Barrera,4,4,0,0
 San Patricio,113,U.S. House,27,LIB,Daniel Tinus,0,0,0,0
-San Patricio,113,U.S. House,27,REP,Michael Cloud,0,2,4,6
+San Patricio,113,U.S. House,27,REP,Michael Cloud,6,4,2,0
 San Patricio,113,U.S. House,27,REP,Bech Bruun,0,0,0,0
-San Patricio,113,U.S. House,27,,Ballots Cast,7,5,14,26
+San Patricio,113,U.S. House,27,,Ballots Cast,26,14,5,7
 San Patricio,113,U.S. House,27,,Under Votes,0,0,0,0
 San Patricio,113,U.S. House,27,,Over Votes,0,0,0,0
-San Patricio,114,U.S. House,27,DEM,Eric Holguin,3,12,21,36
+San Patricio,114,U.S. House,27,DEM,Eric Holguin,36,21,12,3
 San Patricio,114,U.S. House,27,IND,Judith Cutright,0,0,0,0
-San Patricio,114,U.S. House,27,REP,Marty Perez,0,0,2,2
-San Patricio,114,U.S. House,27,DEM,Mike Westergren,2,0,1,3
+San Patricio,114,U.S. House,27,REP,Marty Perez,2,2,0,0
+San Patricio,114,U.S. House,27,DEM,Mike Westergren,3,1,0,2
 San Patricio,114,U.S. House,27,IND,Christopher Suprun,0,0,0,0
-San Patricio,114,U.S. House,27,DEM,Raul (Roy) Barrera,0,1,0,1
-San Patricio,114,U.S. House,27,LIB,Daniel Tinus,1,2,0,3
-San Patricio,114,U.S. House,27,REP,Michael Cloud,10,23,56,89
-San Patricio,114,U.S. House,27,REP,Bech Bruun,1,1,3,5
-San Patricio,114,U.S. House,27,,Ballots Cast,17,39,83,139
+San Patricio,114,U.S. House,27,DEM,Raul (Roy) Barrera,1,0,1,0
+San Patricio,114,U.S. House,27,LIB,Daniel Tinus,3,0,2,1
+San Patricio,114,U.S. House,27,REP,Michael Cloud,89,56,23,10
+San Patricio,114,U.S. House,27,REP,Bech Bruun,5,3,1,1
+San Patricio,114,U.S. House,27,,Ballots Cast,139,83,39,17
 San Patricio,114,U.S. House,27,,Under Votes,0,0,0,0
 San Patricio,114,U.S. House,27,,Over Votes,1,0,0,1
-San Patricio,115,U.S. House,27,DEM,Eric Holguin,9,16,53,78
+San Patricio,115,U.S. House,27,DEM,Eric Holguin,78,53,16,9
 San Patricio,115,U.S. House,27,IND,Judith Cutright,0,0,0,0
-San Patricio,115,U.S. House,27,REP,Marty Perez,0,1,9,10
-San Patricio,115,U.S. House,27,DEM,Mike Westergren,4,1,2,7
+San Patricio,115,U.S. House,27,REP,Marty Perez,10,9,1,0
+San Patricio,115,U.S. House,27,DEM,Mike Westergren,7,2,1,4
 San Patricio,115,U.S. House,27,IND,Christopher Suprun,0,0,0,0
-San Patricio,115,U.S. House,27,DEM,Raul (Roy) Barrera,1,1,5,7
-San Patricio,115,U.S. House,27,LIB,Daniel Tinus,0,2,1,3
-San Patricio,115,U.S. House,27,REP,Michael Cloud,29,61,126,216
-San Patricio,115,U.S. House,27,REP,Bech Bruun,6,3,4,13
-San Patricio,115,U.S. House,27,,Ballots Cast,49,85,200,334
-San Patricio,115,U.S. House,27,,Under Votes,0,0,1,1
+San Patricio,115,U.S. House,27,DEM,Raul (Roy) Barrera,7,5,1,1
+San Patricio,115,U.S. House,27,LIB,Daniel Tinus,3,1,2,0
+San Patricio,115,U.S. House,27,REP,Michael Cloud,216,126,61,29
+San Patricio,115,U.S. House,27,REP,Bech Bruun,13,4,3,6
+San Patricio,115,U.S. House,27,,Ballots Cast,334,200,85,49
+San Patricio,115,U.S. House,27,,Under Votes,1,1,0,0
 San Patricio,115,U.S. House,27,,Over Votes,3,0,0,3
-San Patricio,116,U.S. House,27,DEM,Eric Holguin,7,23,61,91
+San Patricio,116,U.S. House,27,DEM,Eric Holguin,91,61,23,7
 San Patricio,116,U.S. House,27,IND,Judith Cutright,0,0,0,0
-San Patricio,116,U.S. House,27,REP,Marty Perez,0,1,1,2
-San Patricio,116,U.S. House,27,DEM,Mike Westergren,4,1,4,9
+San Patricio,116,U.S. House,27,REP,Marty Perez,2,1,1,0
+San Patricio,116,U.S. House,27,DEM,Mike Westergren,9,4,1,4
 San Patricio,116,U.S. House,27,IND,Christopher Suprun,0,0,0,0
-San Patricio,116,U.S. House,27,DEM,Raul (Roy) Barrera,5,1,5,11
-San Patricio,116,U.S. House,27,LIB,Daniel Tinus,0,0,2,2
-San Patricio,116,U.S. House,27,REP,Michael Cloud,36,75,151,262
-San Patricio,116,U.S. House,27,REP,Bech Bruun,7,1,9,17
-San Patricio,116,U.S. House,27,,Ballots Cast,59,102,233,394
+San Patricio,116,U.S. House,27,DEM,Raul (Roy) Barrera,11,5,1,5
+San Patricio,116,U.S. House,27,LIB,Daniel Tinus,2,2,0,0
+San Patricio,116,U.S. House,27,REP,Michael Cloud,262,151,75,36
+San Patricio,116,U.S. House,27,REP,Bech Bruun,17,9,1,7
+San Patricio,116,U.S. House,27,,Ballots Cast,394,233,102,59
 San Patricio,116,U.S. House,27,,Under Votes,0,0,0,0
 San Patricio,116,U.S. House,27,,Over Votes,2,0,0,2
-San Patricio,119,U.S. House,27,DEM,Eric Holguin,1,9,15,25
-San Patricio,119,U.S. House,27,IND,Judith Cutright,0,1,0,1
+San Patricio,119,U.S. House,27,DEM,Eric Holguin,25,15,9,1
+San Patricio,119,U.S. House,27,IND,Judith Cutright,1,0,1,0
 San Patricio,119,U.S. House,27,REP,Marty Perez,0,0,0,0
-San Patricio,119,U.S. House,27,DEM,Mike Westergren,2,3,1,6
+San Patricio,119,U.S. House,27,DEM,Mike Westergren,6,1,3,2
 San Patricio,119,U.S. House,27,IND,Christopher Suprun,0,0,0,0
-San Patricio,119,U.S. House,27,DEM,Raul (Roy) Barrera,1,0,1,2
-San Patricio,119,U.S. House,27,LIB,Daniel Tinus,0,0,2,2
-San Patricio,119,U.S. House,27,REP,Michael Cloud,7,24,43,74
-San Patricio,119,U.S. House,27,REP,Bech Bruun,5,1,1,7
-San Patricio,119,U.S. House,27,,Ballots Cast,16,38,63,117
+San Patricio,119,U.S. House,27,DEM,Raul (Roy) Barrera,2,1,0,1
+San Patricio,119,U.S. House,27,LIB,Daniel Tinus,2,2,0,0
+San Patricio,119,U.S. House,27,REP,Michael Cloud,74,43,24,7
+San Patricio,119,U.S. House,27,REP,Bech Bruun,7,1,1,5
+San Patricio,119,U.S. House,27,,Ballots Cast,117,63,38,16
 San Patricio,119,U.S. House,27,,Under Votes,0,0,0,0
 San Patricio,119,U.S. House,27,,Over Votes,0,0,0,0
-San Patricio,120,U.S. House,27,DEM,Eric Holguin,2,3,15,20
-San Patricio,120,U.S. House,27,IND,Judith Cutright,0,0,1,1
-San Patricio,120,U.S. House,27,REP,Marty Perez,0,1,0,1
-San Patricio,120,U.S. House,27,DEM,Mike Westergren,1,0,1,2
-San Patricio,120,U.S. House,27,IND,Christopher Suprun,0,0,2,2
-San Patricio,120,U.S. House,27,DEM,Raul (Roy) Barrera,0,0,1,1
+San Patricio,120,U.S. House,27,DEM,Eric Holguin,20,15,3,2
+San Patricio,120,U.S. House,27,IND,Judith Cutright,1,1,0,0
+San Patricio,120,U.S. House,27,REP,Marty Perez,1,0,1,0
+San Patricio,120,U.S. House,27,DEM,Mike Westergren,2,1,0,1
+San Patricio,120,U.S. House,27,IND,Christopher Suprun,2,2,0,0
+San Patricio,120,U.S. House,27,DEM,Raul (Roy) Barrera,1,1,0,0
 San Patricio,120,U.S. House,27,LIB,Daniel Tinus,0,0,0,0
-San Patricio,120,U.S. House,27,REP,Michael Cloud,5,20,23,48
-San Patricio,120,U.S. House,27,REP,Bech Bruun,2,2,4,8
-San Patricio,120,U.S. House,27,,Ballots Cast,10,26,47,83
+San Patricio,120,U.S. House,27,REP,Michael Cloud,48,23,20,5
+San Patricio,120,U.S. House,27,REP,Bech Bruun,8,4,2,2
+San Patricio,120,U.S. House,27,,Ballots Cast,83,47,26,10
 San Patricio,120,U.S. House,27,,Under Votes,0,0,0,0
 San Patricio,120,U.S. House,27,,Over Votes,1,0,0,1
-San Patricio,121,U.S. House,27,DEM,Eric Holguin,17,18,37,72
-San Patricio,121,U.S. House,27,IND,Judith Cutright,0,0,2,2
-San Patricio,121,U.S. House,27,REP,Marty Perez,0,0,4,4
+San Patricio,121,U.S. House,27,DEM,Eric Holguin,72,37,18,17
+San Patricio,121,U.S. House,27,IND,Judith Cutright,2,2,0,0
+San Patricio,121,U.S. House,27,REP,Marty Perez,4,4,0,0
 San Patricio,121,U.S. House,27,DEM,Mike Westergren,2,0,0,2
 San Patricio,121,U.S. House,27,IND,Christopher Suprun,0,0,0,0
-San Patricio,121,U.S. House,27,DEM,Raul (Roy) Barrera,0,0,1,1
+San Patricio,121,U.S. House,27,DEM,Raul (Roy) Barrera,1,1,0,0
 San Patricio,121,U.S. House,27,LIB,Daniel Tinus,0,0,0,0
-San Patricio,121,U.S. House,27,REP,Michael Cloud,12,30,39,81
-San Patricio,121,U.S. House,27,REP,Bech Bruun,1,0,3,4
-San Patricio,121,U.S. House,27,,Ballots Cast,32,48,86,166
+San Patricio,121,U.S. House,27,REP,Michael Cloud,81,39,30,12
+San Patricio,121,U.S. House,27,REP,Bech Bruun,4,3,0,1
+San Patricio,121,U.S. House,27,,Ballots Cast,166,86,48,32
 San Patricio,121,U.S. House,27,,Under Votes,0,0,0,0
 San Patricio,121,U.S. House,27,,Over Votes,1,0,0,1
-San Patricio,123,U.S. House,27,DEM,Eric Holguin,0,0,2,2
+San Patricio,123,U.S. House,27,DEM,Eric Holguin,2,2,0,0
 San Patricio,123,U.S. House,27,IND,Judith Cutright,0,0,0,0
-San Patricio,123,U.S. House,27,REP,Marty Perez,0,2,0,2
+San Patricio,123,U.S. House,27,REP,Marty Perez,2,0,2,0
 San Patricio,123,U.S. House,27,DEM,Mike Westergren,0,0,0,0
 San Patricio,123,U.S. House,27,IND,Christopher Suprun,0,0,0,0
-San Patricio,123,U.S. House,27,DEM,Raul (Roy) Barrera,0,0,1,1
+San Patricio,123,U.S. House,27,DEM,Raul (Roy) Barrera,1,1,0,0
 San Patricio,123,U.S. House,27,LIB,Daniel Tinus,0,0,0,0
-San Patricio,123,U.S. House,27,REP,Michael Cloud,0,0,10,10
+San Patricio,123,U.S. House,27,REP,Michael Cloud,10,10,0,0
 San Patricio,123,U.S. House,27,REP,Bech Bruun,0,0,0,0
-San Patricio,123,U.S. House,27,,Ballots Cast,0,2,13,15
+San Patricio,123,U.S. House,27,,Ballots Cast,15,13,2,0
 San Patricio,123,U.S. House,27,,Under Votes,0,0,0,0
 San Patricio,123,U.S. House,27,,Over Votes,0,0,0,0
 San Patricio,125,U.S. House,27,DEM,Eric Holguin,0,0,0,0
@@ -210,8 +210,8 @@ San Patricio,125,U.S. House,27,DEM,Mike Westergren,0,0,0,0
 San Patricio,125,U.S. House,27,IND,Christopher Suprun,0,0,0,0
 San Patricio,125,U.S. House,27,DEM,Raul (Roy) Barrera,2,0,0,2
 San Patricio,125,U.S. House,27,LIB,Daniel Tinus,0,0,0,0
-San Patricio,125,U.S. House,27,REP,Michael Cloud,0,1,0,1
+San Patricio,125,U.S. House,27,REP,Michael Cloud,1,0,1,0
 San Patricio,125,U.S. House,27,REP,Bech Bruun,0,0,0,0
-San Patricio,125,U.S. House,27,,Ballots Cast,2,1,0,3
+San Patricio,125,U.S. House,27,,Ballots Cast,3,0,1,2
 San Patricio,125,U.S. House,27,,Under Votes,0,0,0,0
 San Patricio,125,U.S. House,27,,Over Votes,0,0,0,0

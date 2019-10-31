@@ -1,37 +1,37 @@
-county,precinct,office,district,candidate,party,votes,absentee,early_voting,election_day
-San Jacinto,1,Attorney General,,Ken Paxton,REP,1125,73,835,217
-San Jacinto,1,Attorney General,,Justin Nelson,DEM,337,28,225,84
-San Jacinto,1,Attorney General,,Michael Ray Harris,LIB,28,1,18,9
-San Jacinto,2,Attorney General,,Ken Paxton,REP,1270,62,853,355
-San Jacinto,2,Attorney General,,Justin Nelson,DEM,341,31,186,124
-San Jacinto,2,Attorney General,,Michael Ray Harris,LIB,22,0,12,10
-San Jacinto,3,Attorney General,,Ken Paxton,REP,532,28,300,204
-San Jacinto,3,Attorney General,,Justin Nelson,DEM,135,17,66,52
-San Jacinto,3,Attorney General,,Michael Ray Harris,LIB,11,1,4,6
-San Jacinto,4,Attorney General,,Ken Paxton,REP,381,22,271,88
-San Jacinto,4,Attorney General,,Justin Nelson,DEM,26,3,18,5
-San Jacinto,4,Attorney General,,Michael Ray Harris,LIB,12,0,10,2
-San Jacinto,5,Attorney General,,Ken Paxton,REP,854,67,385,402
-San Jacinto,5,Attorney General,,Justin Nelson,DEM,120,11,60,49
-San Jacinto,5,Attorney General,,Michael Ray Harris,LIB,30,4,15,11
-San Jacinto,6,Attorney General,,Ken Paxton,REP,951,98,652,201
-San Jacinto,6,Attorney General,,Justin Nelson,DEM,230,23,130,77
-San Jacinto,6,Attorney General,,Michael Ray Harris,LIB,14,1,11,2
-San Jacinto,7,Attorney General,,Ken Paxton,REP,862,101,472,289
-San Jacinto,7,Attorney General,,Justin Nelson,DEM,324,49,129,146
-San Jacinto,7,Attorney General,,Michael Ray Harris,LIB,23,1,12,10
-San Jacinto,8,Attorney General,,Ken Paxton,REP,432,48,139,245
-San Jacinto,8,Attorney General,,Justin Nelson,DEM,142,21,44,77
-San Jacinto,8,Attorney General,,Michael Ray Harris,LIB,13,2,4,7
-San Jacinto,10,Attorney General,,Ken Paxton,REP,277,19,131,127
-San Jacinto,10,Attorney General,,Justin Nelson,DEM,52,5,27,20
-San Jacinto,10,Attorney General,,Michael Ray Harris,LIB,8,0,3,5
-San Jacinto,13,Attorney General,,Ken Paxton,REP,296,23,141,132
-San Jacinto,13,Attorney General,,Justin Nelson,DEM,65,1,38,26
-San Jacinto,13,Attorney General,,Michael Ray Harris,LIB,3,0,1,2
-San Jacinto,14,Attorney General,,Ken Paxton,REP,243,29,150,64
-San Jacinto,14,Attorney General,,Justin Nelson,DEM,102,21,39,42
-San Jacinto,14,Attorney General,,Michael Ray Harris,LIB,10,1,4,5
+county,precinct,office,district,party,candidate,votes,election_day,early_voting,absentee
+San Jacinto,1,Attorney General,,REP,Ken Paxton,1125,217,835,73
+San Jacinto,1,Attorney General,,DEM,Justin Nelson,337,84,225,28
+San Jacinto,1,Attorney General,,LIB,Michael Ray Harris,28,9,18,1
+San Jacinto,2,Attorney General,,REP,Ken Paxton,1270,355,853,62
+San Jacinto,2,Attorney General,,DEM,Justin Nelson,341,124,186,31
+San Jacinto,2,Attorney General,,LIB,Michael Ray Harris,22,10,12,0
+San Jacinto,3,Attorney General,,REP,Ken Paxton,532,204,300,28
+San Jacinto,3,Attorney General,,DEM,Justin Nelson,135,52,66,17
+San Jacinto,3,Attorney General,,LIB,Michael Ray Harris,11,6,4,1
+San Jacinto,4,Attorney General,,REP,Ken Paxton,381,88,271,22
+San Jacinto,4,Attorney General,,DEM,Justin Nelson,26,5,18,3
+San Jacinto,4,Attorney General,,LIB,Michael Ray Harris,12,2,10,0
+San Jacinto,5,Attorney General,,REP,Ken Paxton,854,402,385,67
+San Jacinto,5,Attorney General,,DEM,Justin Nelson,120,49,60,11
+San Jacinto,5,Attorney General,,LIB,Michael Ray Harris,30,11,15,4
+San Jacinto,6,Attorney General,,REP,Ken Paxton,951,201,652,98
+San Jacinto,6,Attorney General,,DEM,Justin Nelson,230,77,130,23
+San Jacinto,6,Attorney General,,LIB,Michael Ray Harris,14,2,11,1
+San Jacinto,7,Attorney General,,REP,Ken Paxton,862,289,472,101
+San Jacinto,7,Attorney General,,DEM,Justin Nelson,324,146,129,49
+San Jacinto,7,Attorney General,,LIB,Michael Ray Harris,23,10,12,1
+San Jacinto,8,Attorney General,,REP,Ken Paxton,432,245,139,48
+San Jacinto,8,Attorney General,,DEM,Justin Nelson,142,77,44,21
+San Jacinto,8,Attorney General,,LIB,Michael Ray Harris,13,7,4,2
+San Jacinto,10,Attorney General,,REP,Ken Paxton,277,127,131,19
+San Jacinto,10,Attorney General,,DEM,Justin Nelson,52,20,27,5
+San Jacinto,10,Attorney General,,LIB,Michael Ray Harris,8,5,3,0
+San Jacinto,13,Attorney General,,REP,Ken Paxton,296,132,141,23
+San Jacinto,13,Attorney General,,DEM,Justin Nelson,65,26,38,1
+San Jacinto,13,Attorney General,,LIB,Michael Ray Harris,3,2,1,0
+San Jacinto,14,Attorney General,,REP,Ken Paxton,243,64,150,29
+San Jacinto,14,Attorney General,,DEM,Justin Nelson,102,42,39,21
+San Jacinto,14,Attorney General,,LIB,Michael Ray Harris,10,5,4,1
 San Jacinto,1,Ballots Cast,,,,1508,,,
 San Jacinto,2,Ballots Cast,,,,1651,,,
 San Jacinto,3,Ballots Cast,,,,696,,,
@@ -43,490 +43,490 @@ San Jacinto,8,Ballots Cast,,,,598,,,
 San Jacinto,10,Ballots Cast,,,,344,,,
 San Jacinto,13,Ballots Cast,,,,366,,,
 San Jacinto,14,Ballots Cast,,,,360,,,
-San Jacinto,1,Commissioner of Agriculture,,Sid Miller,REP,1129,69,845,215
-San Jacinto,1,Commissioner of Agriculture,,Kim Olson,DEM,324,28,211,85
-San Jacinto,1,Commissioner of Agriculture,,Richard Carpenter,LIB,28,1,18,9
-San Jacinto,2,Commissioner of Agriculture,,Sid Miller,REP,1279,59,867,353
-San Jacinto,2,Commissioner of Agriculture,,Kim Olson,DEM,323,31,165,127
-San Jacinto,2,Commissioner of Agriculture,,Richard Carpenter,LIB,24,1,14,9
-San Jacinto,3,Commissioner of Agriculture,,Sid Miller,REP,521,30,297,194
-San Jacinto,3,Commissioner of Agriculture,,Kim Olson,DEM,134,14,66,54
-San Jacinto,3,Commissioner of Agriculture,,Richard Carpenter,LIB,18,2,7,9
-San Jacinto,4,Commissioner of Agriculture,,Sid Miller,REP,381,21,273,87
-San Jacinto,4,Commissioner of Agriculture,,Kim Olson,DEM,28,3,21,4
-San Jacinto,4,Commissioner of Agriculture,,Richard Carpenter,LIB,13,1,10,2
-San Jacinto,5,Commissioner of Agriculture,,Sid Miller,REP,851,69,386,396
-San Jacinto,5,Commissioner of Agriculture,,Kim Olson,DEM,130,13,61,56
-San Jacinto,5,Commissioner of Agriculture,,Richard Carpenter,LIB,23,0,13,10
-San Jacinto,6,Commissioner of Agriculture,,Sid Miller,REP,949,98,654,197
-San Jacinto,6,Commissioner of Agriculture,,Kim Olson,DEM,224,23,124,77
-San Jacinto,6,Commissioner of Agriculture,,Richard Carpenter,LIB,16,1,12,3
-San Jacinto,7,Commissioner of Agriculture,,Sid Miller,REP,879,103,487,289
-San Jacinto,7,Commissioner of Agriculture,,Kim Olson,DEM,306,45,116,145
-San Jacinto,7,Commissioner of Agriculture,,Richard Carpenter,LIB,19,2,8,9
-San Jacinto,8,Commissioner of Agriculture,,Sid Miller,REP,433,48,140,245
-San Jacinto,8,Commissioner of Agriculture,,Kim Olson,DEM,136,22,43,71
-San Jacinto,8,Commissioner of Agriculture,,Richard Carpenter,LIB,13,1,2,10
-San Jacinto,10,Commissioner of Agriculture,,Sid Miller,REP,269,18,127,124
-San Jacinto,10,Commissioner of Agriculture,,Kim Olson,DEM,56,6,29,21
-San Jacinto,10,Commissioner of Agriculture,,Richard Carpenter,LIB,9,0,4,5
-San Jacinto,13,Commissioner of Agriculture,,Sid Miller,REP,297,24,140,133
-San Jacinto,13,Commissioner of Agriculture,,Kim Olson,DEM,62,0,37,25
-San Jacinto,13,Commissioner of Agriculture,,Richard Carpenter,LIB,4,0,2,2
-San Jacinto,14,Commissioner of Agriculture,,Sid Miller,REP,242,29,151,62
-San Jacinto,14,Commissioner of Agriculture,,Kim Olson,DEM,99,21,36,42
-San Jacinto,14,Commissioner of Agriculture,,Richard Carpenter,LIB,10,1,4,5
-San Jacinto,1,Commissioner of the General Land Office,,George P. Bush,REP,1142,76,846,220
-San Jacinto,1,Commissioner of the General Land Office,,Miguel Suazo,DEM,292,24,192,76
-San Jacinto,1,Commissioner of the General Land Office,,Matt PiÒa,LIB,54,4,37,13
-San Jacinto,2,Commissioner of the General Land Office,,George P. Bush,REP,1278,64,854,360
-San Jacinto,2,Commissioner of the General Land Office,,Miguel Suazo,DEM,302,27,160,115
-San Jacinto,2,Commissioner of the General Land Office,,Matt PiÒa,LIB,49,1,36,12
-San Jacinto,3,Commissioner of the General Land Office,,George P. Bush,REP,537,33,298,206
-San Jacinto,3,Commissioner of the General Land Office,,Miguel Suazo,DEM,116,13,57,46
-San Jacinto,3,Commissioner of the General Land Office,,Matt PiÒa,LIB,27,2,13,12
-San Jacinto,4,Commissioner of the General Land Office,,George P. Bush,REP,391,22,282,87
-San Jacinto,4,Commissioner of the General Land Office,,Miguel Suazo,DEM,20,4,13,3
-San Jacinto,4,Commissioner of the General Land Office,,Matt PiÒa,LIB,16,0,13,3
-San Jacinto,5,Commissioner of the General Land Office,,George P. Bush,REP,849,70,381,398
-San Jacinto,5,Commissioner of the General Land Office,,Miguel Suazo,DEM,120,11,62,47
-San Jacinto,5,Commissioner of the General Land Office,,Matt PiÒa,LIB,33,1,15,17
-San Jacinto,6,Commissioner of the General Land Office,,George P. Bush,REP,956,102,649,205
-San Jacinto,6,Commissioner of the General Land Office,,Miguel Suazo,DEM,202,20,113,69
-San Jacinto,6,Commissioner of the General Land Office,,Matt PiÒa,LIB,32,0,25,7
-San Jacinto,7,Commissioner of the General Land Office,,George P. Bush,REP,888,109,485,294
-San Jacinto,7,Commissioner of the General Land Office,,Miguel Suazo,DEM,283,39,105,139
-San Jacinto,7,Commissioner of the General Land Office,,Matt PiÒa,LIB,32,3,19,10
-San Jacinto,8,Commissioner of the General Land Office,,George P. Bush,REP,440,49,143,248
-San Jacinto,8,Commissioner of the General Land Office,,Miguel Suazo,DEM,122,20,35,67
-San Jacinto,8,Commissioner of the General Land Office,,Matt PiÒa,LIB,18,1,6,11
-San Jacinto,10,Commissioner of the General Land Office,,George P. Bush,REP,275,19,129,127
-San Jacinto,10,Commissioner of the General Land Office,,Miguel Suazo,DEM,45,6,25,14
-San Jacinto,10,Commissioner of the General Land Office,,Matt PiÒa,LIB,14,0,7,7
-San Jacinto,13,Commissioner of the General Land Office,,George P. Bush,REP,297,24,141,132
-San Jacinto,13,Commissioner of the General Land Office,,Miguel Suazo,DEM,56,0,32,24
-San Jacinto,13,Commissioner of the General Land Office,,Matt PiÒa,LIB,8,0,4,4
-San Jacinto,14,Commissioner of the General Land Office,,George P. Bush,REP,247,32,153,62
-San Jacinto,14,Commissioner of the General Land Office,,Miguel Suazo,DEM,90,18,29,43
-San Jacinto,14,Commissioner of the General Land Office,,Matt PiÒa,LIB,16,1,10,5
-San Jacinto,1,Comptroller of Public Accounts,,Glenn Hegar,REP,1155,71,865,219
-San Jacinto,1,Comptroller of Public Accounts,,Joi Chevalier,DEM,283,25,181,77
-San Jacinto,1,Comptroller of Public Accounts,,Ben Sanders,LIB,34,2,21,11
-San Jacinto,2,Comptroller of Public Accounts,,Glenn Hegar,REP,1288,59,871,358
-San Jacinto,2,Comptroller of Public Accounts,,Joi Chevalier,DEM,290,29,152,109
-San Jacinto,2,Comptroller of Public Accounts,,Ben Sanders,LIB,38,1,18,19
-San Jacinto,3,Comptroller of Public Accounts,,Glenn Hegar,REP,531,29,302,200
-San Jacinto,3,Comptroller of Public Accounts,,Joi Chevalier,DEM,122,15,59,48
-San Jacinto,3,Comptroller of Public Accounts,,Ben Sanders,LIB,19,2,7,10
-San Jacinto,4,Comptroller of Public Accounts,,Glenn Hegar,REP,384,20,278,86
-San Jacinto,4,Comptroller of Public Accounts,,Joi Chevalier,DEM,24,5,16,3
-San Jacinto,4,Comptroller of Public Accounts,,Ben Sanders,LIB,8,0,5,3
-San Jacinto,5,Comptroller of Public Accounts,,Glenn Hegar,REP,857,68,389,400
-San Jacinto,5,Comptroller of Public Accounts,,Joi Chevalier,DEM,123,12,59,52
-San Jacinto,5,Comptroller of Public Accounts,,Ben Sanders,LIB,22,1,10,11
-San Jacinto,6,Comptroller of Public Accounts,,Glenn Hegar,REP,969,98,672,199
-San Jacinto,6,Comptroller of Public Accounts,,Joi Chevalier,DEM,198,24,103,71
-San Jacinto,6,Comptroller of Public Accounts,,Ben Sanders,LIB,17,0,13,4
-San Jacinto,7,Comptroller of Public Accounts,,Glenn Hegar,REP,888,103,495,290
-San Jacinto,7,Comptroller of Public Accounts,,Joi Chevalier,DEM,288,41,110,137
-San Jacinto,7,Comptroller of Public Accounts,,Ben Sanders,LIB,28,6,6,16
-San Jacinto,8,Comptroller of Public Accounts,,Glenn Hegar,REP,450,50,147,253
-San Jacinto,8,Comptroller of Public Accounts,,Joi Chevalier,DEM,119,18,37,64
-San Jacinto,8,Comptroller of Public Accounts,,Ben Sanders,LIB,12,2,2,8
-San Jacinto,10,Comptroller of Public Accounts,,Glenn Hegar,REP,284,19,133,132
-San Jacinto,10,Comptroller of Public Accounts,,Joi Chevalier,DEM,39,5,19,15
-San Jacinto,10,Comptroller of Public Accounts,,Ben Sanders,LIB,11,0,8,3
-San Jacinto,13,Comptroller of Public Accounts,,Glenn Hegar,REP,298,23,143,132
-San Jacinto,13,Comptroller of Public Accounts,,Joi Chevalier,DEM,54,1,33,20
-San Jacinto,13,Comptroller of Public Accounts,,Ben Sanders,LIB,9,0,3,6
-San Jacinto,14,Comptroller of Public Accounts,,Glenn Hegar,REP,249,31,157,61
-San Jacinto,14,Comptroller of Public Accounts,,Joi Chevalier,DEM,87,18,28,41
-San Jacinto,14,Comptroller of Public Accounts,,Ben Sanders,LIB,16,2,6,8
-San Jacinto,1,County Clerk,,Dawn Wright,REP,1233,70,912,251
-San Jacinto,2,County Clerk,,Dawn Wright,REP,1375,64,909,402
-San Jacinto,3,County Clerk,,Dawn Wright,REP,577,29,318,230
-San Jacinto,4,County Clerk,,Dawn Wright,REP,395,23,280,92
-San Jacinto,5,County Clerk,,Dawn Wright,REP,909,66,415,428
-San Jacinto,6,County Clerk,,Dawn Wright,REP,1034,90,710,234
-San Jacinto,7,County Clerk,,Dawn Wright,REP,967,109,518,340
-San Jacinto,8,County Clerk,,Dawn Wright,REP,501,59,158,284
-San Jacinto,10,County Clerk,,Dawn Wright,REP,303,18,146,139
-San Jacinto,13,County Clerk,,Dawn Wright,REP,312,25,148,139
-San Jacinto,14,County Clerk,,Dawn Wright,REP,268,28,171,69
+San Jacinto,1,Commissioner of Agriculture,,REP,Sid Miller,1129,215,845,69
+San Jacinto,1,Commissioner of Agriculture,,DEM,Kim Olson,324,85,211,28
+San Jacinto,1,Commissioner of Agriculture,,LIB,Richard Carpenter,28,9,18,1
+San Jacinto,2,Commissioner of Agriculture,,REP,Sid Miller,1279,353,867,59
+San Jacinto,2,Commissioner of Agriculture,,DEM,Kim Olson,323,127,165,31
+San Jacinto,2,Commissioner of Agriculture,,LIB,Richard Carpenter,24,9,14,1
+San Jacinto,3,Commissioner of Agriculture,,REP,Sid Miller,521,194,297,30
+San Jacinto,3,Commissioner of Agriculture,,DEM,Kim Olson,134,54,66,14
+San Jacinto,3,Commissioner of Agriculture,,LIB,Richard Carpenter,18,9,7,2
+San Jacinto,4,Commissioner of Agriculture,,REP,Sid Miller,381,87,273,21
+San Jacinto,4,Commissioner of Agriculture,,DEM,Kim Olson,28,4,21,3
+San Jacinto,4,Commissioner of Agriculture,,LIB,Richard Carpenter,13,2,10,1
+San Jacinto,5,Commissioner of Agriculture,,REP,Sid Miller,851,396,386,69
+San Jacinto,5,Commissioner of Agriculture,,DEM,Kim Olson,130,56,61,13
+San Jacinto,5,Commissioner of Agriculture,,LIB,Richard Carpenter,23,10,13,0
+San Jacinto,6,Commissioner of Agriculture,,REP,Sid Miller,949,197,654,98
+San Jacinto,6,Commissioner of Agriculture,,DEM,Kim Olson,224,77,124,23
+San Jacinto,6,Commissioner of Agriculture,,LIB,Richard Carpenter,16,3,12,1
+San Jacinto,7,Commissioner of Agriculture,,REP,Sid Miller,879,289,487,103
+San Jacinto,7,Commissioner of Agriculture,,DEM,Kim Olson,306,145,116,45
+San Jacinto,7,Commissioner of Agriculture,,LIB,Richard Carpenter,19,9,8,2
+San Jacinto,8,Commissioner of Agriculture,,REP,Sid Miller,433,245,140,48
+San Jacinto,8,Commissioner of Agriculture,,DEM,Kim Olson,136,71,43,22
+San Jacinto,8,Commissioner of Agriculture,,LIB,Richard Carpenter,13,10,2,1
+San Jacinto,10,Commissioner of Agriculture,,REP,Sid Miller,269,124,127,18
+San Jacinto,10,Commissioner of Agriculture,,DEM,Kim Olson,56,21,29,6
+San Jacinto,10,Commissioner of Agriculture,,LIB,Richard Carpenter,9,5,4,0
+San Jacinto,13,Commissioner of Agriculture,,REP,Sid Miller,297,133,140,24
+San Jacinto,13,Commissioner of Agriculture,,DEM,Kim Olson,62,25,37,0
+San Jacinto,13,Commissioner of Agriculture,,LIB,Richard Carpenter,4,2,2,0
+San Jacinto,14,Commissioner of Agriculture,,REP,Sid Miller,242,62,151,29
+San Jacinto,14,Commissioner of Agriculture,,DEM,Kim Olson,99,42,36,21
+San Jacinto,14,Commissioner of Agriculture,,LIB,Richard Carpenter,10,5,4,1
+San Jacinto,1,Commissioner of the General Land Office,,REP,George P. Bush,1142,220,846,76
+San Jacinto,1,Commissioner of the General Land Office,,DEM,Miguel Suazo,292,76,192,24
+San Jacinto,1,Commissioner of the General Land Office,,LIB,Matt PiÒa,54,13,37,4
+San Jacinto,2,Commissioner of the General Land Office,,REP,George P. Bush,1278,360,854,64
+San Jacinto,2,Commissioner of the General Land Office,,DEM,Miguel Suazo,302,115,160,27
+San Jacinto,2,Commissioner of the General Land Office,,LIB,Matt PiÒa,49,12,36,1
+San Jacinto,3,Commissioner of the General Land Office,,REP,George P. Bush,537,206,298,33
+San Jacinto,3,Commissioner of the General Land Office,,DEM,Miguel Suazo,116,46,57,13
+San Jacinto,3,Commissioner of the General Land Office,,LIB,Matt PiÒa,27,12,13,2
+San Jacinto,4,Commissioner of the General Land Office,,REP,George P. Bush,391,87,282,22
+San Jacinto,4,Commissioner of the General Land Office,,DEM,Miguel Suazo,20,3,13,4
+San Jacinto,4,Commissioner of the General Land Office,,LIB,Matt PiÒa,16,3,13,0
+San Jacinto,5,Commissioner of the General Land Office,,REP,George P. Bush,849,398,381,70
+San Jacinto,5,Commissioner of the General Land Office,,DEM,Miguel Suazo,120,47,62,11
+San Jacinto,5,Commissioner of the General Land Office,,LIB,Matt PiÒa,33,17,15,1
+San Jacinto,6,Commissioner of the General Land Office,,REP,George P. Bush,956,205,649,102
+San Jacinto,6,Commissioner of the General Land Office,,DEM,Miguel Suazo,202,69,113,20
+San Jacinto,6,Commissioner of the General Land Office,,LIB,Matt PiÒa,32,7,25,0
+San Jacinto,7,Commissioner of the General Land Office,,REP,George P. Bush,888,294,485,109
+San Jacinto,7,Commissioner of the General Land Office,,DEM,Miguel Suazo,283,139,105,39
+San Jacinto,7,Commissioner of the General Land Office,,LIB,Matt PiÒa,32,10,19,3
+San Jacinto,8,Commissioner of the General Land Office,,REP,George P. Bush,440,248,143,49
+San Jacinto,8,Commissioner of the General Land Office,,DEM,Miguel Suazo,122,67,35,20
+San Jacinto,8,Commissioner of the General Land Office,,LIB,Matt PiÒa,18,11,6,1
+San Jacinto,10,Commissioner of the General Land Office,,REP,George P. Bush,275,127,129,19
+San Jacinto,10,Commissioner of the General Land Office,,DEM,Miguel Suazo,45,14,25,6
+San Jacinto,10,Commissioner of the General Land Office,,LIB,Matt PiÒa,14,7,7,0
+San Jacinto,13,Commissioner of the General Land Office,,REP,George P. Bush,297,132,141,24
+San Jacinto,13,Commissioner of the General Land Office,,DEM,Miguel Suazo,56,24,32,0
+San Jacinto,13,Commissioner of the General Land Office,,LIB,Matt PiÒa,8,4,4,0
+San Jacinto,14,Commissioner of the General Land Office,,REP,George P. Bush,247,62,153,32
+San Jacinto,14,Commissioner of the General Land Office,,DEM,Miguel Suazo,90,43,29,18
+San Jacinto,14,Commissioner of the General Land Office,,LIB,Matt PiÒa,16,5,10,1
+San Jacinto,1,Comptroller of Public Accounts,,REP,Glenn Hegar,1155,219,865,71
+San Jacinto,1,Comptroller of Public Accounts,,DEM,Joi Chevalier,283,77,181,25
+San Jacinto,1,Comptroller of Public Accounts,,LIB,Ben Sanders,34,11,21,2
+San Jacinto,2,Comptroller of Public Accounts,,REP,Glenn Hegar,1288,358,871,59
+San Jacinto,2,Comptroller of Public Accounts,,DEM,Joi Chevalier,290,109,152,29
+San Jacinto,2,Comptroller of Public Accounts,,LIB,Ben Sanders,38,19,18,1
+San Jacinto,3,Comptroller of Public Accounts,,REP,Glenn Hegar,531,200,302,29
+San Jacinto,3,Comptroller of Public Accounts,,DEM,Joi Chevalier,122,48,59,15
+San Jacinto,3,Comptroller of Public Accounts,,LIB,Ben Sanders,19,10,7,2
+San Jacinto,4,Comptroller of Public Accounts,,REP,Glenn Hegar,384,86,278,20
+San Jacinto,4,Comptroller of Public Accounts,,DEM,Joi Chevalier,24,3,16,5
+San Jacinto,4,Comptroller of Public Accounts,,LIB,Ben Sanders,8,3,5,0
+San Jacinto,5,Comptroller of Public Accounts,,REP,Glenn Hegar,857,400,389,68
+San Jacinto,5,Comptroller of Public Accounts,,DEM,Joi Chevalier,123,52,59,12
+San Jacinto,5,Comptroller of Public Accounts,,LIB,Ben Sanders,22,11,10,1
+San Jacinto,6,Comptroller of Public Accounts,,REP,Glenn Hegar,969,199,672,98
+San Jacinto,6,Comptroller of Public Accounts,,DEM,Joi Chevalier,198,71,103,24
+San Jacinto,6,Comptroller of Public Accounts,,LIB,Ben Sanders,17,4,13,0
+San Jacinto,7,Comptroller of Public Accounts,,REP,Glenn Hegar,888,290,495,103
+San Jacinto,7,Comptroller of Public Accounts,,DEM,Joi Chevalier,288,137,110,41
+San Jacinto,7,Comptroller of Public Accounts,,LIB,Ben Sanders,28,16,6,6
+San Jacinto,8,Comptroller of Public Accounts,,REP,Glenn Hegar,450,253,147,50
+San Jacinto,8,Comptroller of Public Accounts,,DEM,Joi Chevalier,119,64,37,18
+San Jacinto,8,Comptroller of Public Accounts,,LIB,Ben Sanders,12,8,2,2
+San Jacinto,10,Comptroller of Public Accounts,,REP,Glenn Hegar,284,132,133,19
+San Jacinto,10,Comptroller of Public Accounts,,DEM,Joi Chevalier,39,15,19,5
+San Jacinto,10,Comptroller of Public Accounts,,LIB,Ben Sanders,11,3,8,0
+San Jacinto,13,Comptroller of Public Accounts,,REP,Glenn Hegar,298,132,143,23
+San Jacinto,13,Comptroller of Public Accounts,,DEM,Joi Chevalier,54,20,33,1
+San Jacinto,13,Comptroller of Public Accounts,,LIB,Ben Sanders,9,6,3,0
+San Jacinto,14,Comptroller of Public Accounts,,REP,Glenn Hegar,249,61,157,31
+San Jacinto,14,Comptroller of Public Accounts,,DEM,Joi Chevalier,87,41,28,18
+San Jacinto,14,Comptroller of Public Accounts,,LIB,Ben Sanders,16,8,6,2
+San Jacinto,1,County Clerk,,REP,Dawn Wright,1233,251,912,70
+San Jacinto,2,County Clerk,,REP,Dawn Wright,1375,402,909,64
+San Jacinto,3,County Clerk,,REP,Dawn Wright,577,230,318,29
+San Jacinto,4,County Clerk,,REP,Dawn Wright,395,92,280,23
+San Jacinto,5,County Clerk,,REP,Dawn Wright,909,428,415,66
+San Jacinto,6,County Clerk,,REP,Dawn Wright,1034,234,710,90
+San Jacinto,7,County Clerk,,REP,Dawn Wright,967,340,518,109
+San Jacinto,8,County Clerk,,REP,Dawn Wright,501,284,158,59
+San Jacinto,10,County Clerk,,REP,Dawn Wright,303,139,146,18
+San Jacinto,13,County Clerk,,REP,Dawn Wright,312,139,148,25
+San Jacinto,14,County Clerk,,REP,Dawn Wright,268,69,171,28
 San Jacinto,2,"County Commissioner,
-Precinct 2",,Donny Marrs,REP,1390,70,907,413
+Precinct 2",,REP,Donny Marrs,1390,413,907,70
 San Jacinto,6,"County Commissioner,
-Precinct 4",,Mark Nettuno,REP,1047,95,715,237
+Precinct 4",,REP,Mark Nettuno,1047,237,715,95
 San Jacinto,7,"County Commissioner,
-Precinct 4",,Mark Nettuno,REP,1001,113,530,358
+Precinct 4",,REP,Mark Nettuno,1001,358,530,113
 San Jacinto,8,"County Commissioner,
-Precinct 4",,Mark Nettuno,REP,508,58,159,291
+Precinct 4",,REP,Mark Nettuno,508,291,159,58
 San Jacinto,3,"County Commissioner,
 Precinct 3
-(Unexpired Term)",,David S. Brandon,REP,282,14,158,110
+(Unexpired Term)",,REP,David S. Brandon,282,110,158,14
 San Jacinto,3,"County Commissioner,
 Precinct 3
-(Unexpired Term)",,David Reed Jr.,DEM,147,16,72,59
+(Unexpired Term)",,DEM,David Reed Jr.,147,59,72,16
 San Jacinto,3,"County Commissioner,
 Precinct 3
-(Unexpired Term)",,James D. Blair,IND,257,14,144,99
+(Unexpired Term)",,IND,James D. Blair,257,99,144,14
 San Jacinto,5,"County Commissioner,
 Precinct 3
-(Unexpired Term)",,David S. Brandon,REP,803,63,370,370
+(Unexpired Term)",,REP,David S. Brandon,803,370,370,63
 San Jacinto,5,"County Commissioner,
 Precinct 3
-(Unexpired Term)",,David Reed Jr.,DEM,129,11,65,53
+(Unexpired Term)",,DEM,David Reed Jr.,129,53,65,11
 San Jacinto,5,"County Commissioner,
 Precinct 3
-(Unexpired Term)",,James D. Blair,IND,67,1,26,40
+(Unexpired Term)",,IND,James D. Blair,67,40,26,1
 San Jacinto,10,"County Commissioner,
 Precinct 3
-(Unexpired Term)",,David S. Brandon,REP,207,14,103,90
+(Unexpired Term)",,REP,David S. Brandon,207,90,103,14
 San Jacinto,10,"County Commissioner,
 Precinct 3
-(Unexpired Term)",,David Reed Jr.,DEM,39,5,20,14
+(Unexpired Term)",,DEM,David Reed Jr.,39,14,20,5
 San Jacinto,10,"County Commissioner,
 Precinct 3
-(Unexpired Term)",,James D. Blair,IND,93,4,39,50
+(Unexpired Term)",,IND,James D. Blair,93,50,39,4
 San Jacinto,14,"County Commissioner,
 Precinct 3
-(Unexpired Term)",,David S. Brandon,REP,208,22,132,54
+(Unexpired Term)",,REP,David S. Brandon,208,54,132,22
 San Jacinto,14,"County Commissioner,
 Precinct 3
-(Unexpired Term)",,David Reed Jr.,DEM,100,21,35,44
+(Unexpired Term)",,DEM,David Reed Jr.,100,44,35,21
 San Jacinto,14,"County Commissioner,
 Precinct 3
-(Unexpired Term)",,James D. Blair,IND,47,5,28,14
-San Jacinto,1,County Judge,,Fritz Faulkner,REP,1139,77,839,223
-San Jacinto,1,County Judge,,Earl Brown,DEM,334,19,232,83
-San Jacinto,2,County Judge,,Fritz Faulkner,REP,1266,59,853,354
-San Jacinto,2,County Judge,,Earl Brown,DEM,355,30,191,134
-San Jacinto,3,County Judge,,Fritz Faulkner,REP,581,33,311,237
-San Jacinto,3,County Judge,,Earl Brown,DEM,102,10,58,34
-San Jacinto,4,County Judge,,Fritz Faulkner,REP,378,24,269,85
-San Jacinto,4,County Judge,,Earl Brown,DEM,47,3,35,9
-San Jacinto,5,County Judge,,Fritz Faulkner,REP,850,61,386,403
-San Jacinto,5,County Judge,,Earl Brown,DEM,139,13,69,57
-San Jacinto,6,County Judge,,Fritz Faulkner,REP,948,86,645,217
-San Jacinto,6,County Judge,,Earl Brown,DEM,224,21,138,65
-San Jacinto,7,County Judge,,Fritz Faulkner,REP,901,103,490,308
-San Jacinto,7,County Judge,,Earl Brown,DEM,293,34,122,137
-San Jacinto,8,County Judge,,Fritz Faulkner,REP,475,51,154,270
-San Jacinto,8,County Judge,,Earl Brown,DEM,112,18,33,61
-San Jacinto,10,County Judge,,Fritz Faulkner,REP,284,20,134,130
-San Jacinto,10,County Judge,,Earl Brown,DEM,50,3,24,23
-San Jacinto,13,County Judge,,Fritz Faulkner,REP,287,22,137,128
-San Jacinto,13,County Judge,,Earl Brown,DEM,73,3,37,33
-San Jacinto,14,County Judge,,Fritz Faulkner,REP,265,30,165,70
-San Jacinto,14,County Judge,,Earl Brown,DEM,88,16,32,40
+(Unexpired Term)",,IND,James D. Blair,47,14,28,5
+San Jacinto,1,County Judge,,REP,Fritz Faulkner,1139,223,839,77
+San Jacinto,1,County Judge,,DEM,Earl Brown,334,83,232,19
+San Jacinto,2,County Judge,,REP,Fritz Faulkner,1266,354,853,59
+San Jacinto,2,County Judge,,DEM,Earl Brown,355,134,191,30
+San Jacinto,3,County Judge,,REP,Fritz Faulkner,581,237,311,33
+San Jacinto,3,County Judge,,DEM,Earl Brown,102,34,58,10
+San Jacinto,4,County Judge,,REP,Fritz Faulkner,378,85,269,24
+San Jacinto,4,County Judge,,DEM,Earl Brown,47,9,35,3
+San Jacinto,5,County Judge,,REP,Fritz Faulkner,850,403,386,61
+San Jacinto,5,County Judge,,DEM,Earl Brown,139,57,69,13
+San Jacinto,6,County Judge,,REP,Fritz Faulkner,948,217,645,86
+San Jacinto,6,County Judge,,DEM,Earl Brown,224,65,138,21
+San Jacinto,7,County Judge,,REP,Fritz Faulkner,901,308,490,103
+San Jacinto,7,County Judge,,DEM,Earl Brown,293,137,122,34
+San Jacinto,8,County Judge,,REP,Fritz Faulkner,475,270,154,51
+San Jacinto,8,County Judge,,DEM,Earl Brown,112,61,33,18
+San Jacinto,10,County Judge,,REP,Fritz Faulkner,284,130,134,20
+San Jacinto,10,County Judge,,DEM,Earl Brown,50,23,24,3
+San Jacinto,13,County Judge,,REP,Fritz Faulkner,287,128,137,22
+San Jacinto,13,County Judge,,DEM,Earl Brown,73,33,37,3
+San Jacinto,14,County Judge,,REP,Fritz Faulkner,265,70,165,30
+San Jacinto,14,County Judge,,DEM,Earl Brown,88,40,32,16
 San Jacinto,1,"County Tax Assessor-Collector
-(unexpired term)",,Betty Davis,REP,1255,75,923,257
+(unexpired term)",,REP,Betty Davis,1255,257,923,75
 San Jacinto,2,"County Tax Assessor-Collector
-(unexpired term)",,Betty Davis,REP,1392,66,923,403
+(unexpired term)",,REP,Betty Davis,1392,403,923,66
 San Jacinto,3,"County Tax Assessor-Collector
-(unexpired term)",,Betty Davis,REP,592,30,326,236
+(unexpired term)",,REP,Betty Davis,592,236,326,30
 San Jacinto,4,"County Tax Assessor-Collector
-(unexpired term)",,Betty Davis,REP,401,23,288,90
+(unexpired term)",,REP,Betty Davis,401,90,288,23
 San Jacinto,5,"County Tax Assessor-Collector
-(unexpired term)",,Betty Davis,REP,906,67,412,427
+(unexpired term)",,REP,Betty Davis,906,427,412,67
 San Jacinto,6,"County Tax Assessor-Collector
-(unexpired term)",,Betty Davis,REP,1048,92,719,237
+(unexpired term)",,REP,Betty Davis,1048,237,719,92
 San Jacinto,7,"County Tax Assessor-Collector
-(unexpired term)",,Betty Davis,REP,980,113,517,350
+(unexpired term)",,REP,Betty Davis,980,350,517,113
 San Jacinto,8,"County Tax Assessor-Collector
-(unexpired term)",,Betty Davis,REP,511,59,162,290
+(unexpired term)",,REP,Betty Davis,511,290,162,59
 San Jacinto,10,"County Tax Assessor-Collector
-(unexpired term)",,Betty Davis,REP,307,20,148,139
+(unexpired term)",,REP,Betty Davis,307,139,148,20
 San Jacinto,13,"County Tax Assessor-Collector
-(unexpired term)",,Betty Davis,REP,315,25,149,141
+(unexpired term)",,REP,Betty Davis,315,141,149,25
 San Jacinto,14,"County Tax Assessor-Collector
-(unexpired term)",,Betty Davis,REP,271,28,173,70
-San Jacinto,1,County Treasurer,,DeeDee Adams,REP,1240,68,917,255
-San Jacinto,2,County Treasurer,,DeeDee Adams,REP,1385,63,917,405
-San Jacinto,3,County Treasurer,,DeeDee Adams,REP,584,29,325,230
-San Jacinto,4,County Treasurer,,DeeDee Adams,REP,399,23,285,91
-San Jacinto,5,County Treasurer,,DeeDee Adams,REP,904,66,413,425
-San Jacinto,6,County Treasurer,,DeeDee Adams,REP,1035,89,711,235
-San Jacinto,7,County Treasurer,,DeeDee Adams,REP,968,111,517,340
-San Jacinto,8,County Treasurer,,DeeDee Adams,REP,504,58,160,286
-San Jacinto,10,County Treasurer,,DeeDee Adams,REP,295,18,140,137
-San Jacinto,13,County Treasurer,,DeeDee Adams,REP,316,25,150,141
-San Jacinto,14,County Treasurer,,DeeDee Adams,REP,269,28,172,69
+(unexpired term)",,REP,Betty Davis,271,70,173,28
+San Jacinto,1,County Treasurer,,REP,DeeDee Adams,1240,255,917,68
+San Jacinto,2,County Treasurer,,REP,DeeDee Adams,1385,405,917,63
+San Jacinto,3,County Treasurer,,REP,DeeDee Adams,584,230,325,29
+San Jacinto,4,County Treasurer,,REP,DeeDee Adams,399,91,285,23
+San Jacinto,5,County Treasurer,,REP,DeeDee Adams,904,425,413,66
+San Jacinto,6,County Treasurer,,REP,DeeDee Adams,1035,235,711,89
+San Jacinto,7,County Treasurer,,REP,DeeDee Adams,968,340,517,111
+San Jacinto,8,County Treasurer,,REP,DeeDee Adams,504,286,160,58
+San Jacinto,10,County Treasurer,,REP,DeeDee Adams,295,137,140,18
+San Jacinto,13,County Treasurer,,REP,DeeDee Adams,316,141,150,25
+San Jacinto,14,County Treasurer,,REP,DeeDee Adams,269,69,172,28
 San Jacinto,1,"Criminal District Attorney,
-San Jacinto County",,Robert H. Trapp,REP,1296,79,952,265
+San Jacinto County",,REP,Robert H. Trapp,1296,265,952,79
 San Jacinto,2,"Criminal District Attorney,
-San Jacinto County",,Robert H. Trapp,REP,1395,65,925,405
+San Jacinto County",,REP,Robert H. Trapp,1395,405,925,65
 San Jacinto,3,"Criminal District Attorney,
-San Jacinto County",,Robert H. Trapp,REP,610,33,332,245
+San Jacinto County",,REP,Robert H. Trapp,610,245,332,33
 San Jacinto,4,"Criminal District Attorney,
-San Jacinto County",,Robert H. Trapp,REP,396,22,287,87
+San Jacinto County",,REP,Robert H. Trapp,396,87,287,22
 San Jacinto,5,"Criminal District Attorney,
-San Jacinto County",,Robert H. Trapp,REP,905,65,412,428
+San Jacinto County",,REP,Robert H. Trapp,905,428,412,65
 San Jacinto,6,"Criminal District Attorney,
-San Jacinto County",,Robert H. Trapp,REP,1062,92,734,236
+San Jacinto County",,REP,Robert H. Trapp,1062,236,734,92
 San Jacinto,7,"Criminal District Attorney,
-San Jacinto County",,Robert H. Trapp,REP,986,109,523,354
+San Jacinto County",,REP,Robert H. Trapp,986,354,523,109
 San Jacinto,8,"Criminal District Attorney,
-San Jacinto County",,Robert H. Trapp,REP,509,57,159,293
+San Jacinto County",,REP,Robert H. Trapp,509,293,159,57
 San Jacinto,10,"Criminal District Attorney,
-San Jacinto County",,Robert H. Trapp,REP,309,20,147,142
+San Jacinto County",,REP,Robert H. Trapp,309,142,147,20
 San Jacinto,13,"Criminal District Attorney,
-San Jacinto County",,Robert H. Trapp,REP,315,25,149,141
+San Jacinto County",,REP,Robert H. Trapp,315,141,149,25
 San Jacinto,14,"Criminal District Attorney,
-San Jacinto County",,Robert H. Trapp,REP,274,29,172,73
-San Jacinto,1,District Clerk,,Tammy Currie,REP,1259,74,927,258
-San Jacinto,2,District Clerk,,Tammy Currie,REP,1388,63,924,401
-San Jacinto,3,District Clerk,,Tammy Currie,REP,594,31,326,237
-San Jacinto,4,District Clerk,,Tammy Currie,REP,395,23,281,91
-San Jacinto,5,District Clerk,,Tammy Currie,REP,907,64,414,429
-San Jacinto,6,District Clerk,,Tammy Currie,REP,1045,88,715,242
-San Jacinto,7,District Clerk,,Tammy Currie,REP,974,112,519,343
-San Jacinto,8,District Clerk,,Tammy Currie,REP,510,59,159,292
-San Jacinto,10,District Clerk,,Tammy Currie,REP,306,18,146,142
-San Jacinto,13,District Clerk,,Tammy Currie,REP,313,24,149,140
-San Jacinto,14,District Clerk,,Tammy Currie,REP,269,28,171,70
-San Jacinto,1,"District Judge, 258th Judicial District",,Travis Kitchens,REP,1233,73,914,246
-San Jacinto,2,"District Judge, 258th Judicial District",,Travis Kitchens,REP,1380,62,917,401
-San Jacinto,3,"District Judge, 258th Judicial District",,Travis Kitchens,REP,576,27,322,227
-San Jacinto,4,"District Judge, 258th Judicial District",,Travis Kitchens,REP,397,22,285,90
-San Jacinto,5,"District Judge, 258th Judicial District",,Travis Kitchens,REP,904,66,413,425
-San Jacinto,6,"District Judge, 258th Judicial District",,Travis Kitchens,REP,1021,89,702,230
-San Jacinto,7,"District Judge, 258th Judicial District",,Travis Kitchens,REP,967,107,520,340
-San Jacinto,8,"District Judge, 258th Judicial District",,Travis Kitchens,REP,488,57,155,276
-San Jacinto,10,"District Judge, 258th Judicial District",,Travis Kitchens,REP,298,19,145,134
-San Jacinto,13,"District Judge, 258th Judicial District",,Travis Kitchens,REP,311,25,146,140
-San Jacinto,14,"District Judge, 258th Judicial District",,Travis Kitchens,REP,265,28,168,69
-San Jacinto,1,Governor,,Greg Abbott,REP,1217,81,900,236
-San Jacinto,1,Governor,,Lupe Valdez,DEM,266,20,175,71
-San Jacinto,1,Governor,,Mark Jay Tippetts,LIB,12,1,7,4
-San Jacinto,2,Governor,,Greg Abbott,REP,1341,66,895,380
-San Jacinto,2,Governor,,Lupe Valdez,DEM,288,24,160,104
-San Jacinto,2,Governor,,Mark Jay Tippetts,LIB,12,1,4,7
-San Jacinto,3,Governor,,Greg Abbott,REP,577,33,319,225
-San Jacinto,3,Governor,,Lupe Valdez,DEM,107,14,53,40
-San Jacinto,3,Governor,,Mark Jay Tippetts,LIB,6,1,2,3
-San Jacinto,4,Governor,,Greg Abbott,REP,407,24,293,90
-San Jacinto,4,Governor,,Lupe Valdez,DEM,23,3,14,6
-San Jacinto,4,Governor,,Mark Jay Tippetts,LIB,1,0,0,1
-San Jacinto,5,Governor,,Greg Abbott,REP,889,70,404,415
-San Jacinto,5,Governor,,Lupe Valdez,DEM,107,11,52,44
-San Jacinto,5,Governor,,Mark Jay Tippetts,LIB,9,0,4,5
-San Jacinto,6,Governor,,Greg Abbott,REP,1019,103,695,221
-San Jacinto,6,Governor,,Lupe Valdez,DEM,177,19,98,60
-San Jacinto,6,Governor,,Mark Jay Tippetts,LIB,7,1,5,1
-San Jacinto,7,Governor,,Greg Abbott,REP,944,113,515,316
-San Jacinto,7,Governor,,Lupe Valdez,DEM,260,41,95,124
-San Jacinto,7,Governor,,Mark Jay Tippetts,LIB,12,1,3,8
-San Jacinto,8,Governor,,Greg Abbott,REP,468,51,148,269
-San Jacinto,8,Governor,,Lupe Valdez,DEM,115,19,37,59
-San Jacinto,8,Governor,,Mark Jay Tippetts,LIB,9,2,3,4
-San Jacinto,10,Governor,,Greg Abbott,REP,293,22,138,133
-San Jacinto,10,Governor,,Lupe Valdez,DEM,42,3,23,16
-San Jacinto,10,Governor,,Mark Jay Tippetts,LIB,5,0,1,4
-San Jacinto,13,Governor,,Greg Abbott,REP,304,24,143,137
-San Jacinto,13,Governor,,Lupe Valdez,DEM,58,0,35,23
-San Jacinto,13,Governor,,Mark Jay Tippetts,LIB,3,0,2,1
-San Jacinto,14,Governor,,Greg Abbott,REP,263,31,161,71
-San Jacinto,14,Governor,,Lupe Valdez,DEM,86,18,29,39
-San Jacinto,14,Governor,,Mark Jay Tippetts,LIB,8,2,4,2
+San Jacinto County",,REP,Robert H. Trapp,274,73,172,29
+San Jacinto,1,District Clerk,,REP,Tammy Currie,1259,258,927,74
+San Jacinto,2,District Clerk,,REP,Tammy Currie,1388,401,924,63
+San Jacinto,3,District Clerk,,REP,Tammy Currie,594,237,326,31
+San Jacinto,4,District Clerk,,REP,Tammy Currie,395,91,281,23
+San Jacinto,5,District Clerk,,REP,Tammy Currie,907,429,414,64
+San Jacinto,6,District Clerk,,REP,Tammy Currie,1045,242,715,88
+San Jacinto,7,District Clerk,,REP,Tammy Currie,974,343,519,112
+San Jacinto,8,District Clerk,,REP,Tammy Currie,510,292,159,59
+San Jacinto,10,District Clerk,,REP,Tammy Currie,306,142,146,18
+San Jacinto,13,District Clerk,,REP,Tammy Currie,313,140,149,24
+San Jacinto,14,District Clerk,,REP,Tammy Currie,269,70,171,28
+San Jacinto,1,"District Judge, 258th Judicial District",,REP,Travis Kitchens,1233,246,914,73
+San Jacinto,2,"District Judge, 258th Judicial District",,REP,Travis Kitchens,1380,401,917,62
+San Jacinto,3,"District Judge, 258th Judicial District",,REP,Travis Kitchens,576,227,322,27
+San Jacinto,4,"District Judge, 258th Judicial District",,REP,Travis Kitchens,397,90,285,22
+San Jacinto,5,"District Judge, 258th Judicial District",,REP,Travis Kitchens,904,425,413,66
+San Jacinto,6,"District Judge, 258th Judicial District",,REP,Travis Kitchens,1021,230,702,89
+San Jacinto,7,"District Judge, 258th Judicial District",,REP,Travis Kitchens,967,340,520,107
+San Jacinto,8,"District Judge, 258th Judicial District",,REP,Travis Kitchens,488,276,155,57
+San Jacinto,10,"District Judge, 258th Judicial District",,REP,Travis Kitchens,298,134,145,19
+San Jacinto,13,"District Judge, 258th Judicial District",,REP,Travis Kitchens,311,140,146,25
+San Jacinto,14,"District Judge, 258th Judicial District",,REP,Travis Kitchens,265,69,168,28
+San Jacinto,1,Governor,,REP,Greg Abbott,1217,236,900,81
+San Jacinto,1,Governor,,DEM,Lupe Valdez,266,71,175,20
+San Jacinto,1,Governor,,LIB,Mark Jay Tippetts,12,4,7,1
+San Jacinto,2,Governor,,REP,Greg Abbott,1341,380,895,66
+San Jacinto,2,Governor,,DEM,Lupe Valdez,288,104,160,24
+San Jacinto,2,Governor,,LIB,Mark Jay Tippetts,12,7,4,1
+San Jacinto,3,Governor,,REP,Greg Abbott,577,225,319,33
+San Jacinto,3,Governor,,DEM,Lupe Valdez,107,40,53,14
+San Jacinto,3,Governor,,LIB,Mark Jay Tippetts,6,3,2,1
+San Jacinto,4,Governor,,REP,Greg Abbott,407,90,293,24
+San Jacinto,4,Governor,,DEM,Lupe Valdez,23,6,14,3
+San Jacinto,4,Governor,,LIB,Mark Jay Tippetts,1,1,0,0
+San Jacinto,5,Governor,,REP,Greg Abbott,889,415,404,70
+San Jacinto,5,Governor,,DEM,Lupe Valdez,107,44,52,11
+San Jacinto,5,Governor,,LIB,Mark Jay Tippetts,9,5,4,0
+San Jacinto,6,Governor,,REP,Greg Abbott,1019,221,695,103
+San Jacinto,6,Governor,,DEM,Lupe Valdez,177,60,98,19
+San Jacinto,6,Governor,,LIB,Mark Jay Tippetts,7,1,5,1
+San Jacinto,7,Governor,,REP,Greg Abbott,944,316,515,113
+San Jacinto,7,Governor,,DEM,Lupe Valdez,260,124,95,41
+San Jacinto,7,Governor,,LIB,Mark Jay Tippetts,12,8,3,1
+San Jacinto,8,Governor,,REP,Greg Abbott,468,269,148,51
+San Jacinto,8,Governor,,DEM,Lupe Valdez,115,59,37,19
+San Jacinto,8,Governor,,LIB,Mark Jay Tippetts,9,4,3,2
+San Jacinto,10,Governor,,REP,Greg Abbott,293,133,138,22
+San Jacinto,10,Governor,,DEM,Lupe Valdez,42,16,23,3
+San Jacinto,10,Governor,,LIB,Mark Jay Tippetts,5,4,1,0
+San Jacinto,13,Governor,,REP,Greg Abbott,304,137,143,24
+San Jacinto,13,Governor,,DEM,Lupe Valdez,58,23,35,0
+San Jacinto,13,Governor,,LIB,Mark Jay Tippetts,3,1,2,0
+San Jacinto,14,Governor,,REP,Greg Abbott,263,71,161,31
+San Jacinto,14,Governor,,DEM,Lupe Valdez,86,39,29,18
+San Jacinto,14,Governor,,LIB,Mark Jay Tippetts,8,2,4,2
 San Jacinto,1,"Justice of the Peace,
-Precinct 1",,Christina McGee,REP,1240,71,912,257
+Precinct 1",,REP,Christina McGee,1240,257,912,71
 San Jacinto,4,"Justice of the Peace,
-Precinct 1",,Christina McGee,REP,401,23,283,95
+Precinct 1",,REP,Christina McGee,401,95,283,23
 San Jacinto,13,"Justice of the Peace,
-Precinct 1",,Christina McGee,REP,314,25,149,140
+Precinct 1",,REP,Christina McGee,314,140,149,25
 San Jacinto,2,"Justice of the Peace,
-Precinct 2",,"Harris ""Red"" Blanchette",REP,1446,70,944,432
+Precinct 2",,REP,"Harris ""Red"" Blanchette",1446,432,944,70
 San Jacinto,3,"Justice of the Peace,
-Precinct 3",,Randy Ellisor,REP,613,36,326,251
+Precinct 3",,REP,Randy Ellisor,613,251,326,36
 San Jacinto,5,"Justice of the Peace,
-Precinct 3",,Randy Ellisor,REP,911,67,416,428
+Precinct 3",,REP,Randy Ellisor,911,428,416,67
 San Jacinto,10,"Justice of the Peace,
-Precinct 3",,Randy Ellisor,REP,318,21,155,142
+Precinct 3",,REP,Randy Ellisor,318,142,155,21
 San Jacinto,14,"Justice of the Peace,
-Precinct 3",,Randy Ellisor,REP,286,30,176,80
+Precinct 3",,REP,Randy Ellisor,286,80,176,30
 San Jacinto,6,"Justice of the Peace,
-Precinct 4",,Greg Magee,REP,1054,95,711,248
+Precinct 4",,REP,Greg Magee,1054,248,711,95
 San Jacinto,7,"Justice of the Peace,
-Precinct 4",,Greg Magee,REP,1008,120,526,362
+Precinct 4",,REP,Greg Magee,1008,362,526,120
 San Jacinto,8,"Justice of the Peace,
-Precinct 4",,Greg Magee,REP,511,55,162,294
+Precinct 4",,REP,Greg Magee,511,294,162,55
 San Jacinto,1,"Justice, 9th Court of Appeals
-District, Place 4",,Hollis Horton,REP,1245,76,917,252
+District, Place 4",,REP,Hollis Horton,1245,252,917,76
 San Jacinto,2,"Justice, 9th Court of Appeals
-District, Place 4",,Hollis Horton,REP,1379,63,916,400
+District, Place 4",,REP,Hollis Horton,1379,400,916,63
 San Jacinto,3,"Justice, 9th Court of Appeals
-District, Place 4",,Hollis Horton,REP,568,26,319,223
+District, Place 4",,REP,Hollis Horton,568,223,319,26
 San Jacinto,4,"Justice, 9th Court of Appeals
-District, Place 4",,Hollis Horton,REP,396,22,284,90
+District, Place 4",,REP,Hollis Horton,396,90,284,22
 San Jacinto,5,"Justice, 9th Court of Appeals
-District, Place 4",,Hollis Horton,REP,910,72,412,426
+District, Place 4",,REP,Hollis Horton,910,426,412,72
 San Jacinto,6,"Justice, 9th Court of Appeals
-District, Place 4",,Hollis Horton,REP,1023,100,694,229
+District, Place 4",,REP,Hollis Horton,1023,229,694,100
 San Jacinto,7,"Justice, 9th Court of Appeals
-District, Place 4",,Hollis Horton,REP,969,113,519,337
+District, Place 4",,REP,Hollis Horton,969,337,519,113
 San Jacinto,8,"Justice, 9th Court of Appeals
-District, Place 4",,Hollis Horton,REP,490,55,154,281
+District, Place 4",,REP,Hollis Horton,490,281,154,55
 San Jacinto,10,"Justice, 9th Court of Appeals
-District, Place 4",,Hollis Horton,REP,296,21,142,133
+District, Place 4",,REP,Hollis Horton,296,133,142,21
 San Jacinto,13,"Justice, 9th Court of Appeals
-District, Place 4",,Hollis Horton,REP,312,24,149,139
+District, Place 4",,REP,Hollis Horton,312,139,149,24
 San Jacinto,14,"Justice, 9th Court of Appeals
-District, Place 4",,Hollis Horton,REP,268,31,167,70
+District, Place 4",,REP,Hollis Horton,268,70,167,31
 San Jacinto,1,"Justice, 9th Court of Appeals
-District, Place 3",,Leanne Johnson,REP,1248,75,919,254
+District, Place 3",,REP,Leanne Johnson,1248,254,919,75
 San Jacinto,2,"Justice, 9th Court of Appeals
-District, Place 3",,Leanne Johnson,REP,1393,63,923,407
+District, Place 3",,REP,Leanne Johnson,1393,407,923,63
 San Jacinto,3,"Justice, 9th Court of Appeals
-District, Place 3",,Leanne Johnson,REP,573,28,322,223
+District, Place 3",,REP,Leanne Johnson,573,223,322,28
 San Jacinto,4,"Justice, 9th Court of Appeals
-District, Place 3",,Leanne Johnson,REP,395,22,283,90
+District, Place 3",,REP,Leanne Johnson,395,90,283,22
 San Jacinto,5,"Justice, 9th Court of Appeals
-District, Place 3",,Leanne Johnson,REP,912,72,412,428
+District, Place 3",,REP,Leanne Johnson,912,428,412,72
 San Jacinto,6,"Justice, 9th Court of Appeals
-District, Place 3",,Leanne Johnson,REP,1026,101,700,225
+District, Place 3",,REP,Leanne Johnson,1026,225,700,101
 San Jacinto,7,"Justice, 9th Court of Appeals
-District, Place 3",,Leanne Johnson,REP,972,116,514,342
+District, Place 3",,REP,Leanne Johnson,972,342,514,116
 San Jacinto,8,"Justice, 9th Court of Appeals
-District, Place 3",,Leanne Johnson,REP,487,55,153,279
+District, Place 3",,REP,Leanne Johnson,487,279,153,55
 San Jacinto,10,"Justice, 9th Court of Appeals
-District, Place 3",,Leanne Johnson,REP,299,21,142,136
+District, Place 3",,REP,Leanne Johnson,299,136,142,21
 San Jacinto,13,"Justice, 9th Court of Appeals
-District, Place 3",,Leanne Johnson,REP,314,24,150,140
+District, Place 3",,REP,Leanne Johnson,314,140,150,24
 San Jacinto,14,"Justice, 9th Court of Appeals
-District, Place 3",,Leanne Johnson,REP,269,31,167,71
-San Jacinto,1,"Justice, Supreme Court, Place 2",,Jimmy Blacklock,REP,1155,69,865,221
-San Jacinto,1,"Justice, Supreme Court, Place 2",,Steven Kirkland,DEM,320,28,206,86
-San Jacinto,2,"Justice, Supreme Court, Place 2",,Jimmy Blacklock,REP,1290,59,873,358
-San Jacinto,2,"Justice, Supreme Court, Place 2",,Steven Kirkland,DEM,333,31,172,130
-San Jacinto,3,"Justice, Supreme Court, Place 2",,Jimmy Blacklock,REP,542,30,305,207
-San Jacinto,3,"Justice, Supreme Court, Place 2",,Steven Kirkland,DEM,128,16,60,52
-San Jacinto,4,"Justice, Supreme Court, Place 2",,Jimmy Blacklock,REP,387,22,277,88
-San Jacinto,4,"Justice, Supreme Court, Place 2",,Steven Kirkland,DEM,29,3,21,5
-San Jacinto,5,"Justice, Supreme Court, Place 2",,Jimmy Blacklock,REP,867,68,394,405
-San Jacinto,5,"Justice, Supreme Court, Place 2",,Steven Kirkland,DEM,134,13,66,55
-San Jacinto,6,"Justice, Supreme Court, Place 2",,Jimmy Blacklock,REP,972,100,668,204
-San Jacinto,6,"Justice, Supreme Court, Place 2",,Steven Kirkland,DEM,213,22,119,72
-San Jacinto,7,"Justice, Supreme Court, Place 2",,Jimmy Blacklock,REP,905,106,499,300
-San Jacinto,7,"Justice, Supreme Court, Place 2",,Steven Kirkland,DEM,305,46,113,146
-San Jacinto,8,"Justice, Supreme Court, Place 2",,Jimmy Blacklock,REP,443,47,144,252
-San Jacinto,8,"Justice, Supreme Court, Place 2",,Steven Kirkland,DEM,138,22,42,74
-San Jacinto,10,"Justice, Supreme Court, Place 2",,Jimmy Blacklock,REP,278,18,130,130
-San Jacinto,10,"Justice, Supreme Court, Place 2",,Steven Kirkland,DEM,54,6,29,19
-San Jacinto,13,"Justice, Supreme Court, Place 2",,Jimmy Blacklock,REP,301,24,143,134
-San Jacinto,13,"Justice, Supreme Court, Place 2",,Steven Kirkland,DEM,60,0,36,24
-San Jacinto,14,"Justice, Supreme Court, Place 2",,Jimmy Blacklock,REP,249,27,154,68
-San Jacinto,14,"Justice, Supreme Court, Place 2",,Steven Kirkland,DEM,100,22,36,42
-San Jacinto,1,"Justice, Supreme Court, Place 4",,John Devine,REP,1164,72,866,226
-San Jacinto,1,"Justice, Supreme Court, Place 4",,R.K. Sandill,DEM,309,25,202,82
-San Jacinto,2,"Justice, Supreme Court, Place 4",,John Devine,REP,1307,60,886,361
-San Jacinto,2,"Justice, Supreme Court, Place 4",,R.K. Sandill,DEM,312,30,160,122
-San Jacinto,3,"Justice, Supreme Court, Place 4",,John Devine,REP,542,30,307,205
-San Jacinto,3,"Justice, Supreme Court, Place 4",,R.K. Sandill,DEM,126,15,60,51
-San Jacinto,4,"Justice, Supreme Court, Place 4",,John Devine,REP,387,20,279,88
-San Jacinto,4,"Justice, Supreme Court, Place 4",,R.K. Sandill,DEM,27,4,19,4
-San Jacinto,5,"Justice, Supreme Court, Place 4",,John Devine,REP,872,69,397,406
-San Jacinto,5,"Justice, Supreme Court, Place 4",,R.K. Sandill,DEM,128,13,61,54
-San Jacinto,6,"Justice, Supreme Court, Place 4",,John Devine,REP,971,99,668,204
-San Jacinto,6,"Justice, Supreme Court, Place 4",,R.K. Sandill,DEM,207,23,113,71
-San Jacinto,7,"Justice, Supreme Court, Place 4",,John Devine,REP,911,106,503,302
-San Jacinto,7,"Justice, Supreme Court, Place 4",,R.K. Sandill,DEM,295,42,110,143
-San Jacinto,8,"Justice, Supreme Court, Place 4",,John Devine,REP,453,49,148,256
-San Jacinto,8,"Justice, Supreme Court, Place 4",,R.K. Sandill,DEM,128,19,40,69
-San Jacinto,10,"Justice, Supreme Court, Place 4",,John Devine,REP,275,18,130,127
-San Jacinto,10,"Justice, Supreme Court, Place 4",,R.K. Sandill,DEM,52,6,27,19
-San Jacinto,13,"Justice, Supreme Court, Place 4",,John Devine,REP,300,24,144,132
-San Jacinto,13,"Justice, Supreme Court, Place 4",,R.K. Sandill,DEM,61,0,35,26
-San Jacinto,14,"Justice, Supreme Court, Place 4",,John Devine,REP,255,30,156,69
-San Jacinto,14,"Justice, Supreme Court, Place 4",,R.K. Sandill,DEM,97,20,35,42
-San Jacinto,1,"Justice, Supreme Court, Place 6",,Jeff Brown,REP,1163,68,871,224
-San Jacinto,1,"Justice, Supreme Court, Place 6",,Kathy Cheng,DEM,312,30,199,83
-San Jacinto,2,"Justice, Supreme Court, Place 6",,Jeff Brown,REP,1299,59,881,359
-San Jacinto,2,"Justice, Supreme Court, Place 6",,Kathy Cheng,DEM,324,30,166,128
-San Jacinto,3,"Justice, Supreme Court, Place 6",,Jeff Brown,REP,541,30,305,206
-San Jacinto,3,"Justice, Supreme Court, Place 6",,Kathy Cheng,DEM,126,15,60,51
-San Jacinto,4,"Justice, Supreme Court, Place 6",,Jeff Brown,REP,386,21,278,87
-San Jacinto,4,"Justice, Supreme Court, Place 6",,Kathy Cheng,DEM,27,4,18,5
-San Jacinto,5,"Justice, Supreme Court, Place 6",,Jeff Brown,REP,873,71,397,405
-San Jacinto,5,"Justice, Supreme Court, Place 6",,Kathy Cheng,DEM,126,11,61,54
-San Jacinto,6,"Justice, Supreme Court, Place 6",,Jeff Brown,REP,969,100,666,203
-San Jacinto,6,"Justice, Supreme Court, Place 6",,Kathy Cheng,DEM,213,22,118,73
-San Jacinto,7,"Justice, Supreme Court, Place 6",,Jeff Brown,REP,904,104,498,302
-San Jacinto,7,"Justice, Supreme Court, Place 6",,Kathy Cheng,DEM,304,46,114,144
-San Jacinto,8,"Justice, Supreme Court, Place 6",,Jeff Brown,REP,447,48,146,253
-San Jacinto,8,"Justice, Supreme Court, Place 6",,Kathy Cheng,DEM,135,21,42,72
-San Jacinto,10,"Justice, Supreme Court, Place 6",,Jeff Brown,REP,280,20,131,129
-San Jacinto,10,"Justice, Supreme Court, Place 6",,Kathy Cheng,DEM,52,4,29,19
-San Jacinto,13,"Justice, Supreme Court, Place 6",,Jeff Brown,REP,301,23,144,134
-San Jacinto,13,"Justice, Supreme Court, Place 6",,Kathy Cheng,DEM,60,0,35,25
-San Jacinto,14,"Justice, Supreme Court, Place 6",,Jeff Brown,REP,257,30,159,68
-San Jacinto,14,"Justice, Supreme Court, Place 6",,Kathy Cheng,DEM,91,20,31,40
-San Jacinto,1,Lieutenant Governor,,Dan Patrick,REP,1141,74,851,216
-San Jacinto,1,Lieutenant Governor,,Mike Collier,DEM,325,27,211,87
-San Jacinto,1,Lieutenant Governor,,Kerry Douglas McKennon,LIB,22,1,17,4
-San Jacinto,2,Lieutenant Governor,,Dan Patrick,REP,1274,63,851,360
-San Jacinto,2,Lieutenant Governor,,Mike Collier,DEM,335,29,185,121
-San Jacinto,2,Lieutenant Governor,,Kerry Douglas McKennon,LIB,23,0,16,7
-San Jacinto,3,Lieutenant Governor,,Dan Patrick,REP,551,31,309,211
-San Jacinto,3,Lieutenant Governor,,Mike Collier,DEM,124,16,61,47
-San Jacinto,3,Lieutenant Governor,,Kerry Douglas McKennon,LIB,9,1,3,5
-San Jacinto,4,Lieutenant Governor,,Dan Patrick,REP,385,21,280,84
-San Jacinto,4,Lieutenant Governor,,Mike Collier,DEM,33,4,23,6
-San Jacinto,4,Lieutenant Governor,,Kerry Douglas McKennon,LIB,7,0,5,2
-San Jacinto,5,Lieutenant Governor,,Dan Patrick,REP,863,67,391,405
-San Jacinto,5,Lieutenant Governor,,Mike Collier,DEM,122,13,59,50
-San Jacinto,5,Lieutenant Governor,,Kerry Douglas McKennon,LIB,18,2,9,7
-San Jacinto,6,Lieutenant Governor,,Dan Patrick,REP,974,102,667,205
-San Jacinto,6,Lieutenant Governor,,Mike Collier,DEM,218,21,122,75
-San Jacinto,6,Lieutenant Governor,,Kerry Douglas McKennon,LIB,11,1,9,1
-San Jacinto,7,Lieutenant Governor,,Dan Patrick,REP,905,106,502,297
-San Jacinto,7,Lieutenant Governor,,Mike Collier,DEM,295,46,107,142
-San Jacinto,7,Lieutenant Governor,,Kerry Douglas McKennon,LIB,12,0,5,7
-San Jacinto,8,Lieutenant Governor,,Dan Patrick,REP,446,49,144,253
-San Jacinto,8,Lieutenant Governor,,Mike Collier,DEM,130,21,41,68
-San Jacinto,8,Lieutenant Governor,,Kerry Douglas McKennon,LIB,12,1,3,8
-San Jacinto,10,Lieutenant Governor,,Dan Patrick,REP,282,20,129,133
-San Jacinto,10,Lieutenant Governor,,Mike Collier,DEM,51,4,30,17
-San Jacinto,10,Lieutenant Governor,,Kerry Douglas McKennon,LIB,8,0,5,3
-San Jacinto,13,Lieutenant Governor,,Dan Patrick,REP,297,24,141,132
-San Jacinto,13,Lieutenant Governor,,Mike Collier,DEM,64,0,35,29
-San Jacinto,13,Lieutenant Governor,,Kerry Douglas McKennon,LIB,4,0,4,0
-San Jacinto,14,Lieutenant Governor,,Dan Patrick,REP,250,31,152,67
-San Jacinto,14,Lieutenant Governor,,Mike Collier,DEM,98,20,36,42
-San Jacinto,14,Lieutenant Governor,,Kerry Douglas McKennon,LIB,8,0,6,2
-San Jacinto,1,Railroad Commissioner,,Christi Craddick,REP,1137,69,853,215
-San Jacinto,1,Railroad Commissioner,,Roman McAllen,DEM,303,26,196,81
-San Jacinto,1,Railroad Commissioner,,Mike Wright,LIB,37,4,20,13
-San Jacinto,2,Railroad Commissioner,,Christi Craddick,REP,1291,60,872,359
-San Jacinto,2,Railroad Commissioner,,Roman McAllen,DEM,306,30,157,119
-San Jacinto,2,Railroad Commissioner,,Mike Wright,LIB,27,0,18,9
-San Jacinto,3,Railroad Commissioner,,Christi Craddick,REP,526,28,301,197
-San Jacinto,3,Railroad Commissioner,,Roman McAllen,DEM,126,16,62,48
-San Jacinto,3,Railroad Commissioner,,Mike Wright,LIB,21,1,7,13
-San Jacinto,4,Railroad Commissioner,,Christi Craddick,REP,391,21,283,87
-San Jacinto,4,Railroad Commissioner,,Roman McAllen,DEM,21,3,14,4
-San Jacinto,4,Railroad Commissioner,,Mike Wright,LIB,10,1,7,2
-San Jacinto,5,Railroad Commissioner,,Christi Craddick,REP,856,69,389,398
-San Jacinto,5,Railroad Commissioner,,Roman McAllen,DEM,124,13,60,51
-San Jacinto,5,Railroad Commissioner,,Mike Wright,LIB,24,0,11,13
-San Jacinto,6,Railroad Commissioner,,Christi Craddick,REP,962,99,662,201
-San Jacinto,6,Railroad Commissioner,,Roman McAllen,DEM,207,23,113,71
-San Jacinto,6,Railroad Commissioner,,Mike Wright,LIB,18,1,15,2
-San Jacinto,7,Railroad Commissioner,,Christi Craddick,REP,892,103,491,298
-San Jacinto,7,Railroad Commissioner,,Roman McAllen,DEM,286,44,107,135
-San Jacinto,7,Railroad Commissioner,,Mike Wright,LIB,25,3,13,9
-San Jacinto,8,Railroad Commissioner,,Christi Craddick,REP,446,48,144,254
-San Jacinto,8,Railroad Commissioner,,Roman McAllen,DEM,122,21,36,65
-San Jacinto,8,Railroad Commissioner,,Mike Wright,LIB,15,2,4,9
-San Jacinto,10,Railroad Commissioner,,Christi Craddick,REP,273,18,129,126
-San Jacinto,10,Railroad Commissioner,,Roman McAllen,DEM,46,6,24,16
-San Jacinto,10,Railroad Commissioner,,Mike Wright,LIB,9,0,4,5
-San Jacinto,13,Railroad Commissioner,,Christi Craddick,REP,293,23,140,130
-San Jacinto,13,Railroad Commissioner,,Roman McAllen,DEM,56,0,34,22
-San Jacinto,13,Railroad Commissioner,,Mike Wright,LIB,10,1,2,7
-San Jacinto,14,Railroad Commissioner,,Christi Craddick,REP,248,29,156,63
-San Jacinto,14,Railroad Commissioner,,Roman McAllen,DEM,91,21,29,41
-San Jacinto,14,Railroad Commissioner,,Mike Wright,LIB,12,1,6,5
+District, Place 3",,REP,Leanne Johnson,269,71,167,31
+San Jacinto,1,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,1155,221,865,69
+San Jacinto,1,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,320,86,206,28
+San Jacinto,2,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,1290,358,873,59
+San Jacinto,2,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,333,130,172,31
+San Jacinto,3,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,542,207,305,30
+San Jacinto,3,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,128,52,60,16
+San Jacinto,4,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,387,88,277,22
+San Jacinto,4,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,29,5,21,3
+San Jacinto,5,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,867,405,394,68
+San Jacinto,5,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,134,55,66,13
+San Jacinto,6,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,972,204,668,100
+San Jacinto,6,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,213,72,119,22
+San Jacinto,7,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,905,300,499,106
+San Jacinto,7,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,305,146,113,46
+San Jacinto,8,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,443,252,144,47
+San Jacinto,8,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,138,74,42,22
+San Jacinto,10,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,278,130,130,18
+San Jacinto,10,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,54,19,29,6
+San Jacinto,13,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,301,134,143,24
+San Jacinto,13,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,60,24,36,0
+San Jacinto,14,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,249,68,154,27
+San Jacinto,14,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,100,42,36,22
+San Jacinto,1,"Justice, Supreme Court, Place 4",,REP,John Devine,1164,226,866,72
+San Jacinto,1,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,309,82,202,25
+San Jacinto,2,"Justice, Supreme Court, Place 4",,REP,John Devine,1307,361,886,60
+San Jacinto,2,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,312,122,160,30
+San Jacinto,3,"Justice, Supreme Court, Place 4",,REP,John Devine,542,205,307,30
+San Jacinto,3,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,126,51,60,15
+San Jacinto,4,"Justice, Supreme Court, Place 4",,REP,John Devine,387,88,279,20
+San Jacinto,4,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,27,4,19,4
+San Jacinto,5,"Justice, Supreme Court, Place 4",,REP,John Devine,872,406,397,69
+San Jacinto,5,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,128,54,61,13
+San Jacinto,6,"Justice, Supreme Court, Place 4",,REP,John Devine,971,204,668,99
+San Jacinto,6,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,207,71,113,23
+San Jacinto,7,"Justice, Supreme Court, Place 4",,REP,John Devine,911,302,503,106
+San Jacinto,7,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,295,143,110,42
+San Jacinto,8,"Justice, Supreme Court, Place 4",,REP,John Devine,453,256,148,49
+San Jacinto,8,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,128,69,40,19
+San Jacinto,10,"Justice, Supreme Court, Place 4",,REP,John Devine,275,127,130,18
+San Jacinto,10,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,52,19,27,6
+San Jacinto,13,"Justice, Supreme Court, Place 4",,REP,John Devine,300,132,144,24
+San Jacinto,13,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,61,26,35,0
+San Jacinto,14,"Justice, Supreme Court, Place 4",,REP,John Devine,255,69,156,30
+San Jacinto,14,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,97,42,35,20
+San Jacinto,1,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,1163,224,871,68
+San Jacinto,1,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,312,83,199,30
+San Jacinto,2,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,1299,359,881,59
+San Jacinto,2,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,324,128,166,30
+San Jacinto,3,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,541,206,305,30
+San Jacinto,3,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,126,51,60,15
+San Jacinto,4,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,386,87,278,21
+San Jacinto,4,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,27,5,18,4
+San Jacinto,5,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,873,405,397,71
+San Jacinto,5,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,126,54,61,11
+San Jacinto,6,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,969,203,666,100
+San Jacinto,6,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,213,73,118,22
+San Jacinto,7,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,904,302,498,104
+San Jacinto,7,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,304,144,114,46
+San Jacinto,8,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,447,253,146,48
+San Jacinto,8,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,135,72,42,21
+San Jacinto,10,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,280,129,131,20
+San Jacinto,10,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,52,19,29,4
+San Jacinto,13,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,301,134,144,23
+San Jacinto,13,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,60,25,35,0
+San Jacinto,14,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,257,68,159,30
+San Jacinto,14,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,91,40,31,20
+San Jacinto,1,Lieutenant Governor,,REP,Dan Patrick,1141,216,851,74
+San Jacinto,1,Lieutenant Governor,,DEM,Mike Collier,325,87,211,27
+San Jacinto,1,Lieutenant Governor,,LIB,Kerry Douglas McKennon,22,4,17,1
+San Jacinto,2,Lieutenant Governor,,REP,Dan Patrick,1274,360,851,63
+San Jacinto,2,Lieutenant Governor,,DEM,Mike Collier,335,121,185,29
+San Jacinto,2,Lieutenant Governor,,LIB,Kerry Douglas McKennon,23,7,16,0
+San Jacinto,3,Lieutenant Governor,,REP,Dan Patrick,551,211,309,31
+San Jacinto,3,Lieutenant Governor,,DEM,Mike Collier,124,47,61,16
+San Jacinto,3,Lieutenant Governor,,LIB,Kerry Douglas McKennon,9,5,3,1
+San Jacinto,4,Lieutenant Governor,,REP,Dan Patrick,385,84,280,21
+San Jacinto,4,Lieutenant Governor,,DEM,Mike Collier,33,6,23,4
+San Jacinto,4,Lieutenant Governor,,LIB,Kerry Douglas McKennon,7,2,5,0
+San Jacinto,5,Lieutenant Governor,,REP,Dan Patrick,863,405,391,67
+San Jacinto,5,Lieutenant Governor,,DEM,Mike Collier,122,50,59,13
+San Jacinto,5,Lieutenant Governor,,LIB,Kerry Douglas McKennon,18,7,9,2
+San Jacinto,6,Lieutenant Governor,,REP,Dan Patrick,974,205,667,102
+San Jacinto,6,Lieutenant Governor,,DEM,Mike Collier,218,75,122,21
+San Jacinto,6,Lieutenant Governor,,LIB,Kerry Douglas McKennon,11,1,9,1
+San Jacinto,7,Lieutenant Governor,,REP,Dan Patrick,905,297,502,106
+San Jacinto,7,Lieutenant Governor,,DEM,Mike Collier,295,142,107,46
+San Jacinto,7,Lieutenant Governor,,LIB,Kerry Douglas McKennon,12,7,5,0
+San Jacinto,8,Lieutenant Governor,,REP,Dan Patrick,446,253,144,49
+San Jacinto,8,Lieutenant Governor,,DEM,Mike Collier,130,68,41,21
+San Jacinto,8,Lieutenant Governor,,LIB,Kerry Douglas McKennon,12,8,3,1
+San Jacinto,10,Lieutenant Governor,,REP,Dan Patrick,282,133,129,20
+San Jacinto,10,Lieutenant Governor,,DEM,Mike Collier,51,17,30,4
+San Jacinto,10,Lieutenant Governor,,LIB,Kerry Douglas McKennon,8,3,5,0
+San Jacinto,13,Lieutenant Governor,,REP,Dan Patrick,297,132,141,24
+San Jacinto,13,Lieutenant Governor,,DEM,Mike Collier,64,29,35,0
+San Jacinto,13,Lieutenant Governor,,LIB,Kerry Douglas McKennon,4,0,4,0
+San Jacinto,14,Lieutenant Governor,,REP,Dan Patrick,250,67,152,31
+San Jacinto,14,Lieutenant Governor,,DEM,Mike Collier,98,42,36,20
+San Jacinto,14,Lieutenant Governor,,LIB,Kerry Douglas McKennon,8,2,6,0
+San Jacinto,1,Railroad Commissioner,,REP,Christi Craddick,1137,215,853,69
+San Jacinto,1,Railroad Commissioner,,DEM,Roman McAllen,303,81,196,26
+San Jacinto,1,Railroad Commissioner,,LIB,Mike Wright,37,13,20,4
+San Jacinto,2,Railroad Commissioner,,REP,Christi Craddick,1291,359,872,60
+San Jacinto,2,Railroad Commissioner,,DEM,Roman McAllen,306,119,157,30
+San Jacinto,2,Railroad Commissioner,,LIB,Mike Wright,27,9,18,0
+San Jacinto,3,Railroad Commissioner,,REP,Christi Craddick,526,197,301,28
+San Jacinto,3,Railroad Commissioner,,DEM,Roman McAllen,126,48,62,16
+San Jacinto,3,Railroad Commissioner,,LIB,Mike Wright,21,13,7,1
+San Jacinto,4,Railroad Commissioner,,REP,Christi Craddick,391,87,283,21
+San Jacinto,4,Railroad Commissioner,,DEM,Roman McAllen,21,4,14,3
+San Jacinto,4,Railroad Commissioner,,LIB,Mike Wright,10,2,7,1
+San Jacinto,5,Railroad Commissioner,,REP,Christi Craddick,856,398,389,69
+San Jacinto,5,Railroad Commissioner,,DEM,Roman McAllen,124,51,60,13
+San Jacinto,5,Railroad Commissioner,,LIB,Mike Wright,24,13,11,0
+San Jacinto,6,Railroad Commissioner,,REP,Christi Craddick,962,201,662,99
+San Jacinto,6,Railroad Commissioner,,DEM,Roman McAllen,207,71,113,23
+San Jacinto,6,Railroad Commissioner,,LIB,Mike Wright,18,2,15,1
+San Jacinto,7,Railroad Commissioner,,REP,Christi Craddick,892,298,491,103
+San Jacinto,7,Railroad Commissioner,,DEM,Roman McAllen,286,135,107,44
+San Jacinto,7,Railroad Commissioner,,LIB,Mike Wright,25,9,13,3
+San Jacinto,8,Railroad Commissioner,,REP,Christi Craddick,446,254,144,48
+San Jacinto,8,Railroad Commissioner,,DEM,Roman McAllen,122,65,36,21
+San Jacinto,8,Railroad Commissioner,,LIB,Mike Wright,15,9,4,2
+San Jacinto,10,Railroad Commissioner,,REP,Christi Craddick,273,126,129,18
+San Jacinto,10,Railroad Commissioner,,DEM,Roman McAllen,46,16,24,6
+San Jacinto,10,Railroad Commissioner,,LIB,Mike Wright,9,5,4,0
+San Jacinto,13,Railroad Commissioner,,REP,Christi Craddick,293,130,140,23
+San Jacinto,13,Railroad Commissioner,,DEM,Roman McAllen,56,22,34,0
+San Jacinto,13,Railroad Commissioner,,LIB,Mike Wright,10,7,2,1
+San Jacinto,14,Railroad Commissioner,,REP,Christi Craddick,248,63,156,29
+San Jacinto,14,Railroad Commissioner,,DEM,Roman McAllen,91,41,29,21
+San Jacinto,14,Railroad Commissioner,,LIB,Mike Wright,12,5,6,1
 San Jacinto,1,Registered Voters,,,,2855,,,
 San Jacinto,2,Registered Voters,,,,4062,,,
 San Jacinto,3,Registered Voters,,,,1222,,,
@@ -538,157 +538,157 @@ San Jacinto,8,Registered Voters,,,,1093,,,
 San Jacinto,10,Registered Voters,,,,569,,,
 San Jacinto,13,Registered Voters,,,,700,,,
 San Jacinto,14,Registered Voters,,,,735,,,
-San Jacinto,1,State Representative,18,Ernest Bailes,REP,1214,72,905,237
-San Jacinto,1,State Representative,18,Fred Lemond,DEM,272,24,178,70
-San Jacinto,2,State Representative,18,Ernest Bailes,REP,1369,67,920,382
-San Jacinto,2,State Representative,18,Fred Lemond,DEM,268,23,138,107
-San Jacinto,3,State Representative,18,Ernest Bailes,REP,569,31,311,227
-San Jacinto,3,State Representative,18,Fred Lemond,DEM,109,13,61,35
-San Jacinto,4,State Representative,18,Ernest Bailes,REP,404,24,285,95
-San Jacinto,4,State Representative,18,Fred Lemond,DEM,21,3,16,2
-San Jacinto,5,State Representative,18,Ernest Bailes,REP,873,63,399,411
-San Jacinto,5,State Representative,18,Fred Lemond,DEM,116,12,55,49
-San Jacinto,6,State Representative,18,Ernest Bailes,REP,1001,92,691,218
-San Jacinto,6,State Representative,18,Fred Lemond,DEM,187,19,103,65
-San Jacinto,7,State Representative,18,Ernest Bailes,REP,914,106,503,305
-San Jacinto,7,State Representative,18,Fred Lemond,DEM,285,37,108,140
-San Jacinto,8,State Representative,18,Ernest Bailes,REP,466,49,149,268
-San Jacinto,8,State Representative,18,Fred Lemond,DEM,118,20,37,61
-San Jacinto,10,State Representative,18,Ernest Bailes,REP,303,18,146,139
-San Jacinto,10,State Representative,18,Fred Lemond,DEM,35,4,16,15
-San Jacinto,13,State Representative,18,Ernest Bailes,REP,308,24,149,135
-San Jacinto,13,State Representative,18,Fred Lemond,DEM,53,0,28,25
-San Jacinto,14,State Representative,18,Ernest Bailes,REP,261,30,163,68
-San Jacinto,14,State Representative,18,Fred Lemond,DEM,93,19,31,43
-San Jacinto,1,State Senate,3,Robert Nichols,REP,1142,67,852,223
-San Jacinto,1,State Senate,3,Shirley Layton,DEM,312,28,201,83
-San Jacinto,1,State Senate,3,Bruce Quarles,LIB,22,0,18,4
-San Jacinto,2,State Senate,3,Robert Nichols,REP,1280,59,870,351
-San Jacinto,2,State Senate,3,Shirley Layton,DEM,321,29,165,127
-San Jacinto,2,State Senate,3,Bruce Quarles,LIB,23,1,13,9
-San Jacinto,3,State Senate,3,Robert Nichols,REP,535,27,304,204
-San Jacinto,3,State Senate,3,Shirley Layton,DEM,126,16,61,49
-San Jacinto,3,State Senate,3,Bruce Quarles,LIB,10,0,4,6
-San Jacinto,4,State Senate,3,Robert Nichols,REP,390,20,283,87
-San Jacinto,4,State Senate,3,Shirley Layton,DEM,26,5,17,4
-San Jacinto,4,State Senate,3,Bruce Quarles,LIB,5,0,3,2
-San Jacinto,5,State Senate,3,Robert Nichols,REP,863,68,389,406
-San Jacinto,5,State Senate,3,Shirley Layton,DEM,121,11,61,49
-San Jacinto,5,State Senate,3,Bruce Quarles,LIB,18,1,9,8
-San Jacinto,6,State Senate,3,Robert Nichols,REP,970,90,674,206
-San Jacinto,6,State Senate,3,Shirley Layton,DEM,201,21,110,70
-San Jacinto,6,State Senate,3,Bruce Quarles,LIB,9,0,7,2
-San Jacinto,7,State Senate,3,Robert Nichols,REP,895,99,499,297
-San Jacinto,7,State Senate,3,Shirley Layton,DEM,283,39,105,139
-San Jacinto,7,State Senate,3,Bruce Quarles,LIB,13,2,6,5
-San Jacinto,8,State Senate,3,Robert Nichols,REP,446,46,145,255
-San Jacinto,8,State Senate,3,Shirley Layton,DEM,129,21,41,67
-San Jacinto,8,State Senate,3,Bruce Quarles,LIB,8,1,0,7
-San Jacinto,10,State Senate,3,Robert Nichols,REP,273,16,128,129
-San Jacinto,10,State Senate,3,Shirley Layton,DEM,51,6,28,17
-San Jacinto,10,State Senate,3,Bruce Quarles,LIB,7,0,4,3
-San Jacinto,13,State Senate,3,Robert Nichols,REP,303,24,144,135
-San Jacinto,13,State Senate,3,Shirley Layton,DEM,54,0,33,21
-San Jacinto,13,State Senate,3,Bruce Quarles,LIB,4,0,1,3
-San Jacinto,14,State Senate,3,Robert Nichols,REP,246,27,154,65
-San Jacinto,14,State Senate,3,Shirley Layton,DEM,100,21,35,44
-San Jacinto,14,State Senate,3,Bruce Quarles,LIB,7,1,5,1
-San Jacinto,1,Straight Party,,Republican Party,REP,764,41,581,142
-San Jacinto,1,Straight Party,,Democratic Party,DEM,165,10,108,47
-San Jacinto,1,Straight Party,,Libertarian Party,LIB,0,0,0,0
-San Jacinto,2,Straight Party,,Republican Party,REP,956,42,637,277
-San Jacinto,2,Straight Party,,Democratic Party,DEM,193,14,109,70
-San Jacinto,2,Straight Party,,Libertarian Party,LIB,9,0,6,3
-San Jacinto,3,Straight Party,,Republican Party,REP,279,12,157,110
-San Jacinto,3,Straight Party,,Democratic Party,DEM,67,7,37,23
-San Jacinto,3,Straight Party,,Libertarian Party,LIB,3,0,2,1
-San Jacinto,4,Straight Party,,Republican Party,REP,264,12,191,61
-San Jacinto,4,Straight Party,,Democratic Party,DEM,16,3,11,2
-San Jacinto,4,Straight Party,,Libertarian Party,LIB,0,0,0,0
-San Jacinto,5,Straight Party,,Republican Party,REP,630,41,286,303
-San Jacinto,5,Straight Party,,Democratic Party,DEM,81,5,42,34
-San Jacinto,5,Straight Party,,Libertarian Party,LIB,4,0,3,1
-San Jacinto,6,Straight Party,,Republican Party,REP,662,65,485,112
-San Jacinto,6,Straight Party,,Democratic Party,DEM,102,10,60,32
-San Jacinto,6,Straight Party,,Libertarian Party,LIB,1,0,1,0
-San Jacinto,7,Straight Party,,Republican Party,REP,624,69,355,200
-San Jacinto,7,Straight Party,,Democratic Party,DEM,169,16,60,93
-San Jacinto,7,Straight Party,,Libertarian Party,LIB,1,0,0,1
-San Jacinto,8,Straight Party,,Republican Party,REP,294,29,114,151
-San Jacinto,8,Straight Party,,Democratic Party,DEM,52,7,19,26
-San Jacinto,8,Straight Party,,Libertarian Party,LIB,3,1,0,2
-San Jacinto,10,Straight Party,,Republican Party,REP,155,9,76,70
-San Jacinto,10,Straight Party,,Democratic Party,DEM,16,1,9,6
-San Jacinto,10,Straight Party,,Libertarian Party,LIB,0,0,0,0
-San Jacinto,13,Straight Party,,Republican Party,REP,224,16,110,98
-San Jacinto,13,Straight Party,,Democratic Party,DEM,37,0,24,13
-San Jacinto,13,Straight Party,,Libertarian Party,LIB,1,0,0,1
-San Jacinto,14,Straight Party,,Republican Party,REP,156,11,100,45
-San Jacinto,14,Straight Party,,Democratic Party,DEM,54,11,15,28
-San Jacinto,14,Straight Party,,Libertarian Party,LIB,0,0,0,0
-San Jacinto,1,U.S. House,8,Kevin Brady,REP,1180,70,880,230
-San Jacinto,1,U.S. House,8,Steven David,DEM,290,25,188,77
-San Jacinto,1,U.S. House,8,Chris Duncan,LIB,19,2,14,3
-San Jacinto,2,U.S. House,8,Kevin Brady,REP,1320,64,890,366
-San Jacinto,2,U.S. House,8,Steven David,DEM,298,28,154,116
-San Jacinto,2,U.S. House,8,Chris Duncan,LIB,13,0,8,5
-San Jacinto,3,U.S. House,8,Kevin Brady,REP,552,33,306,213
-San Jacinto,3,U.S. House,8,Steven David,DEM,117,14,59,44
-San Jacinto,3,U.S. House,8,Chris Duncan,LIB,14,1,6,7
-San Jacinto,4,U.S. House,8,Kevin Brady,REP,398,23,286,89
-San Jacinto,4,U.S. House,8,Steven David,DEM,25,4,17,4
-San Jacinto,4,U.S. House,8,Chris Duncan,LIB,7,0,5,2
-San Jacinto,5,U.S. House,8,Kevin Brady,REP,869,69,393,407
-San Jacinto,5,U.S. House,8,Steven David,DEM,115,12,55,48
-San Jacinto,5,U.S. House,8,Chris Duncan,LIB,20,0,13,7
-San Jacinto,6,U.S. House,8,Kevin Brady,REP,989,98,676,215
-San Jacinto,6,U.S. House,8,Steven David,DEM,198,22,108,68
-San Jacinto,6,U.S. House,8,Chris Duncan,LIB,10,0,9,1
-San Jacinto,7,U.S. House,8,Kevin Brady,REP,910,104,503,303
-San Jacinto,7,U.S. House,8,Steven David,DEM,287,46,104,137
-San Jacinto,7,U.S. House,8,Chris Duncan,LIB,13,1,5,7
-San Jacinto,8,U.S. House,8,Kevin Brady,REP,466,51,149,266
-San Jacinto,8,U.S. House,8,Steven David,DEM,116,20,35,61
-San Jacinto,8,U.S. House,8,Chris Duncan,LIB,9,1,3,5
-San Jacinto,10,U.S. House,8,Kevin Brady,REP,290,21,133,136
-San Jacinto,10,U.S. House,8,Steven David,DEM,42,4,24,14
-San Jacinto,10,U.S. House,8,Chris Duncan,LIB,10,0,6,4
-San Jacinto,13,U.S. House,8,Kevin Brady,REP,304,25,144,135
-San Jacinto,13,U.S. House,8,Steven David,DEM,56,0,34,22
-San Jacinto,13,U.S. House,8,Chris Duncan,LIB,3,0,1,2
-San Jacinto,14,U.S. House,8,Kevin Brady,REP,256,32,157,67
-San Jacinto,14,U.S. House,8,Steven David,DEM,96,18,35,43
-San Jacinto,14,U.S. House,8,Chris Duncan,LIB,5,0,3,2
-San Jacinto,1,U.S. Senate,,Ted Cruz,REP,1158,74,861,223
-San Jacinto,1,U.S. Senate,,Beto O'Rourke,DEM,326,28,217,81
-San Jacinto,1,U.S. Senate,,Neal M. Dikeman,LIB,13,2,5,6
-San Jacinto,2,U.S. Senate,,Ted Cruz,REP,1321,65,890,366
-San Jacinto,2,U.S. Senate,,Beto O'Rourke,DEM,312,27,166,119
-San Jacinto,2,U.S. Senate,,Neal M. Dikeman,LIB,7,0,1,6
-San Jacinto,3,U.S. Senate,,Ted Cruz,REP,558,32,312,214
-San Jacinto,3,U.S. Senate,,Beto O'Rourke,DEM,128,16,60,52
-San Jacinto,3,U.S. Senate,,Neal M. Dikeman,LIB,6,0,1,5
-San Jacinto,4,U.S. Senate,,Ted Cruz,REP,401,24,287,90
-San Jacinto,4,U.S. Senate,,Beto O'Rourke,DEM,28,3,19,6
-San Jacinto,4,U.S. Senate,,Neal M. Dikeman,LIB,2,0,1,1
-San Jacinto,5,U.S. Senate,,Ted Cruz,REP,875,69,400,406
-San Jacinto,5,U.S. Senate,,Beto O'Rourke,DEM,127,13,59,55
-San Jacinto,5,U.S. Senate,,Neal M. Dikeman,LIB,7,0,4,3
-San Jacinto,6,U.S. Senate,,Ted Cruz,REP,984,101,677,206
-San Jacinto,6,U.S. Senate,,Beto O'Rourke,DEM,214,23,119,72
-San Jacinto,6,U.S. Senate,,Neal M. Dikeman,LIB,5,0,3,2
-San Jacinto,7,U.S. Senate,,Ted Cruz,REP,901,104,500,297
-San Jacinto,7,U.S. Senate,,Beto O'Rourke,DEM,308,51,113,144
-San Jacinto,7,U.S. Senate,,Neal M. Dikeman,LIB,5,0,2,3
-San Jacinto,8,U.S. Senate,,Ted Cruz,REP,452,51,146,255
-San Jacinto,8,U.S. Senate,,Beto O'Rourke,DEM,134,20,41,73
-San Jacinto,8,U.S. Senate,,Neal M. Dikeman,LIB,4,1,0,3
-San Jacinto,10,U.S. Senate,,Ted Cruz,REP,292,20,136,136
-San Jacinto,10,U.S. Senate,,Beto O'Rourke,DEM,49,5,27,17
-San Jacinto,10,U.S. Senate,,Neal M. Dikeman,LIB,2,0,1,1
-San Jacinto,13,U.S. Senate,,Ted Cruz,REP,302,24,145,133
-San Jacinto,13,U.S. Senate,,Beto O'Rourke,DEM,59,0,33,26
-San Jacinto,13,U.S. Senate,,Neal M. Dikeman,LIB,2,0,1,1
-San Jacinto,14,U.S. Senate,,Ted Cruz,REP,255,30,156,69
-San Jacinto,14,U.S. Senate,,Beto O'Rourke,DEM,100,21,36,43
-San Jacinto,14,U.S. Senate,,Neal M. Dikeman,LIB,2,0,2,0
+San Jacinto,1,State Representative,18,REP,Ernest Bailes,1214,237,905,72
+San Jacinto,1,State Representative,18,DEM,Fred Lemond,272,70,178,24
+San Jacinto,2,State Representative,18,REP,Ernest Bailes,1369,382,920,67
+San Jacinto,2,State Representative,18,DEM,Fred Lemond,268,107,138,23
+San Jacinto,3,State Representative,18,REP,Ernest Bailes,569,227,311,31
+San Jacinto,3,State Representative,18,DEM,Fred Lemond,109,35,61,13
+San Jacinto,4,State Representative,18,REP,Ernest Bailes,404,95,285,24
+San Jacinto,4,State Representative,18,DEM,Fred Lemond,21,2,16,3
+San Jacinto,5,State Representative,18,REP,Ernest Bailes,873,411,399,63
+San Jacinto,5,State Representative,18,DEM,Fred Lemond,116,49,55,12
+San Jacinto,6,State Representative,18,REP,Ernest Bailes,1001,218,691,92
+San Jacinto,6,State Representative,18,DEM,Fred Lemond,187,65,103,19
+San Jacinto,7,State Representative,18,REP,Ernest Bailes,914,305,503,106
+San Jacinto,7,State Representative,18,DEM,Fred Lemond,285,140,108,37
+San Jacinto,8,State Representative,18,REP,Ernest Bailes,466,268,149,49
+San Jacinto,8,State Representative,18,DEM,Fred Lemond,118,61,37,20
+San Jacinto,10,State Representative,18,REP,Ernest Bailes,303,139,146,18
+San Jacinto,10,State Representative,18,DEM,Fred Lemond,35,15,16,4
+San Jacinto,13,State Representative,18,REP,Ernest Bailes,308,135,149,24
+San Jacinto,13,State Representative,18,DEM,Fred Lemond,53,25,28,0
+San Jacinto,14,State Representative,18,REP,Ernest Bailes,261,68,163,30
+San Jacinto,14,State Representative,18,DEM,Fred Lemond,93,43,31,19
+San Jacinto,1,State Senate,3,REP,Robert Nichols,1142,223,852,67
+San Jacinto,1,State Senate,3,DEM,Shirley Layton,312,83,201,28
+San Jacinto,1,State Senate,3,LIB,Bruce Quarles,22,4,18,0
+San Jacinto,2,State Senate,3,REP,Robert Nichols,1280,351,870,59
+San Jacinto,2,State Senate,3,DEM,Shirley Layton,321,127,165,29
+San Jacinto,2,State Senate,3,LIB,Bruce Quarles,23,9,13,1
+San Jacinto,3,State Senate,3,REP,Robert Nichols,535,204,304,27
+San Jacinto,3,State Senate,3,DEM,Shirley Layton,126,49,61,16
+San Jacinto,3,State Senate,3,LIB,Bruce Quarles,10,6,4,0
+San Jacinto,4,State Senate,3,REP,Robert Nichols,390,87,283,20
+San Jacinto,4,State Senate,3,DEM,Shirley Layton,26,4,17,5
+San Jacinto,4,State Senate,3,LIB,Bruce Quarles,5,2,3,0
+San Jacinto,5,State Senate,3,REP,Robert Nichols,863,406,389,68
+San Jacinto,5,State Senate,3,DEM,Shirley Layton,121,49,61,11
+San Jacinto,5,State Senate,3,LIB,Bruce Quarles,18,8,9,1
+San Jacinto,6,State Senate,3,REP,Robert Nichols,970,206,674,90
+San Jacinto,6,State Senate,3,DEM,Shirley Layton,201,70,110,21
+San Jacinto,6,State Senate,3,LIB,Bruce Quarles,9,2,7,0
+San Jacinto,7,State Senate,3,REP,Robert Nichols,895,297,499,99
+San Jacinto,7,State Senate,3,DEM,Shirley Layton,283,139,105,39
+San Jacinto,7,State Senate,3,LIB,Bruce Quarles,13,5,6,2
+San Jacinto,8,State Senate,3,REP,Robert Nichols,446,255,145,46
+San Jacinto,8,State Senate,3,DEM,Shirley Layton,129,67,41,21
+San Jacinto,8,State Senate,3,LIB,Bruce Quarles,8,7,0,1
+San Jacinto,10,State Senate,3,REP,Robert Nichols,273,129,128,16
+San Jacinto,10,State Senate,3,DEM,Shirley Layton,51,17,28,6
+San Jacinto,10,State Senate,3,LIB,Bruce Quarles,7,3,4,0
+San Jacinto,13,State Senate,3,REP,Robert Nichols,303,135,144,24
+San Jacinto,13,State Senate,3,DEM,Shirley Layton,54,21,33,0
+San Jacinto,13,State Senate,3,LIB,Bruce Quarles,4,3,1,0
+San Jacinto,14,State Senate,3,REP,Robert Nichols,246,65,154,27
+San Jacinto,14,State Senate,3,DEM,Shirley Layton,100,44,35,21
+San Jacinto,14,State Senate,3,LIB,Bruce Quarles,7,1,5,1
+San Jacinto,1,Straight Party,,REP,Republican Party,764,142,581,41
+San Jacinto,1,Straight Party,,DEM,Democratic Party,165,47,108,10
+San Jacinto,1,Straight Party,,LIB,Libertarian Party,0,0,0,0
+San Jacinto,2,Straight Party,,REP,Republican Party,956,277,637,42
+San Jacinto,2,Straight Party,,DEM,Democratic Party,193,70,109,14
+San Jacinto,2,Straight Party,,LIB,Libertarian Party,9,3,6,0
+San Jacinto,3,Straight Party,,REP,Republican Party,279,110,157,12
+San Jacinto,3,Straight Party,,DEM,Democratic Party,67,23,37,7
+San Jacinto,3,Straight Party,,LIB,Libertarian Party,3,1,2,0
+San Jacinto,4,Straight Party,,REP,Republican Party,264,61,191,12
+San Jacinto,4,Straight Party,,DEM,Democratic Party,16,2,11,3
+San Jacinto,4,Straight Party,,LIB,Libertarian Party,0,0,0,0
+San Jacinto,5,Straight Party,,REP,Republican Party,630,303,286,41
+San Jacinto,5,Straight Party,,DEM,Democratic Party,81,34,42,5
+San Jacinto,5,Straight Party,,LIB,Libertarian Party,4,1,3,0
+San Jacinto,6,Straight Party,,REP,Republican Party,662,112,485,65
+San Jacinto,6,Straight Party,,DEM,Democratic Party,102,32,60,10
+San Jacinto,6,Straight Party,,LIB,Libertarian Party,1,0,1,0
+San Jacinto,7,Straight Party,,REP,Republican Party,624,200,355,69
+San Jacinto,7,Straight Party,,DEM,Democratic Party,169,93,60,16
+San Jacinto,7,Straight Party,,LIB,Libertarian Party,1,1,0,0
+San Jacinto,8,Straight Party,,REP,Republican Party,294,151,114,29
+San Jacinto,8,Straight Party,,DEM,Democratic Party,52,26,19,7
+San Jacinto,8,Straight Party,,LIB,Libertarian Party,3,2,0,1
+San Jacinto,10,Straight Party,,REP,Republican Party,155,70,76,9
+San Jacinto,10,Straight Party,,DEM,Democratic Party,16,6,9,1
+San Jacinto,10,Straight Party,,LIB,Libertarian Party,0,0,0,0
+San Jacinto,13,Straight Party,,REP,Republican Party,224,98,110,16
+San Jacinto,13,Straight Party,,DEM,Democratic Party,37,13,24,0
+San Jacinto,13,Straight Party,,LIB,Libertarian Party,1,1,0,0
+San Jacinto,14,Straight Party,,REP,Republican Party,156,45,100,11
+San Jacinto,14,Straight Party,,DEM,Democratic Party,54,28,15,11
+San Jacinto,14,Straight Party,,LIB,Libertarian Party,0,0,0,0
+San Jacinto,1,U.S. House,8,REP,Kevin Brady,1180,230,880,70
+San Jacinto,1,U.S. House,8,DEM,Steven David,290,77,188,25
+San Jacinto,1,U.S. House,8,LIB,Chris Duncan,19,3,14,2
+San Jacinto,2,U.S. House,8,REP,Kevin Brady,1320,366,890,64
+San Jacinto,2,U.S. House,8,DEM,Steven David,298,116,154,28
+San Jacinto,2,U.S. House,8,LIB,Chris Duncan,13,5,8,0
+San Jacinto,3,U.S. House,8,REP,Kevin Brady,552,213,306,33
+San Jacinto,3,U.S. House,8,DEM,Steven David,117,44,59,14
+San Jacinto,3,U.S. House,8,LIB,Chris Duncan,14,7,6,1
+San Jacinto,4,U.S. House,8,REP,Kevin Brady,398,89,286,23
+San Jacinto,4,U.S. House,8,DEM,Steven David,25,4,17,4
+San Jacinto,4,U.S. House,8,LIB,Chris Duncan,7,2,5,0
+San Jacinto,5,U.S. House,8,REP,Kevin Brady,869,407,393,69
+San Jacinto,5,U.S. House,8,DEM,Steven David,115,48,55,12
+San Jacinto,5,U.S. House,8,LIB,Chris Duncan,20,7,13,0
+San Jacinto,6,U.S. House,8,REP,Kevin Brady,989,215,676,98
+San Jacinto,6,U.S. House,8,DEM,Steven David,198,68,108,22
+San Jacinto,6,U.S. House,8,LIB,Chris Duncan,10,1,9,0
+San Jacinto,7,U.S. House,8,REP,Kevin Brady,910,303,503,104
+San Jacinto,7,U.S. House,8,DEM,Steven David,287,137,104,46
+San Jacinto,7,U.S. House,8,LIB,Chris Duncan,13,7,5,1
+San Jacinto,8,U.S. House,8,REP,Kevin Brady,466,266,149,51
+San Jacinto,8,U.S. House,8,DEM,Steven David,116,61,35,20
+San Jacinto,8,U.S. House,8,LIB,Chris Duncan,9,5,3,1
+San Jacinto,10,U.S. House,8,REP,Kevin Brady,290,136,133,21
+San Jacinto,10,U.S. House,8,DEM,Steven David,42,14,24,4
+San Jacinto,10,U.S. House,8,LIB,Chris Duncan,10,4,6,0
+San Jacinto,13,U.S. House,8,REP,Kevin Brady,304,135,144,25
+San Jacinto,13,U.S. House,8,DEM,Steven David,56,22,34,0
+San Jacinto,13,U.S. House,8,LIB,Chris Duncan,3,2,1,0
+San Jacinto,14,U.S. House,8,REP,Kevin Brady,256,67,157,32
+San Jacinto,14,U.S. House,8,DEM,Steven David,96,43,35,18
+San Jacinto,14,U.S. House,8,LIB,Chris Duncan,5,2,3,0
+San Jacinto,1,U.S. Senate,,REP,Ted Cruz,1158,223,861,74
+San Jacinto,1,U.S. Senate,,DEM,Beto O'Rourke,326,81,217,28
+San Jacinto,1,U.S. Senate,,LIB,Neal M. Dikeman,13,6,5,2
+San Jacinto,2,U.S. Senate,,REP,Ted Cruz,1321,366,890,65
+San Jacinto,2,U.S. Senate,,DEM,Beto O'Rourke,312,119,166,27
+San Jacinto,2,U.S. Senate,,LIB,Neal M. Dikeman,7,6,1,0
+San Jacinto,3,U.S. Senate,,REP,Ted Cruz,558,214,312,32
+San Jacinto,3,U.S. Senate,,DEM,Beto O'Rourke,128,52,60,16
+San Jacinto,3,U.S. Senate,,LIB,Neal M. Dikeman,6,5,1,0
+San Jacinto,4,U.S. Senate,,REP,Ted Cruz,401,90,287,24
+San Jacinto,4,U.S. Senate,,DEM,Beto O'Rourke,28,6,19,3
+San Jacinto,4,U.S. Senate,,LIB,Neal M. Dikeman,2,1,1,0
+San Jacinto,5,U.S. Senate,,REP,Ted Cruz,875,406,400,69
+San Jacinto,5,U.S. Senate,,DEM,Beto O'Rourke,127,55,59,13
+San Jacinto,5,U.S. Senate,,LIB,Neal M. Dikeman,7,3,4,0
+San Jacinto,6,U.S. Senate,,REP,Ted Cruz,984,206,677,101
+San Jacinto,6,U.S. Senate,,DEM,Beto O'Rourke,214,72,119,23
+San Jacinto,6,U.S. Senate,,LIB,Neal M. Dikeman,5,2,3,0
+San Jacinto,7,U.S. Senate,,REP,Ted Cruz,901,297,500,104
+San Jacinto,7,U.S. Senate,,DEM,Beto O'Rourke,308,144,113,51
+San Jacinto,7,U.S. Senate,,LIB,Neal M. Dikeman,5,3,2,0
+San Jacinto,8,U.S. Senate,,REP,Ted Cruz,452,255,146,51
+San Jacinto,8,U.S. Senate,,DEM,Beto O'Rourke,134,73,41,20
+San Jacinto,8,U.S. Senate,,LIB,Neal M. Dikeman,4,3,0,1
+San Jacinto,10,U.S. Senate,,REP,Ted Cruz,292,136,136,20
+San Jacinto,10,U.S. Senate,,DEM,Beto O'Rourke,49,17,27,5
+San Jacinto,10,U.S. Senate,,LIB,Neal M. Dikeman,2,1,1,0
+San Jacinto,13,U.S. Senate,,REP,Ted Cruz,302,133,145,24
+San Jacinto,13,U.S. Senate,,DEM,Beto O'Rourke,59,26,33,0
+San Jacinto,13,U.S. Senate,,LIB,Neal M. Dikeman,2,1,1,0
+San Jacinto,14,U.S. Senate,,REP,Ted Cruz,255,69,156,30
+San Jacinto,14,U.S. Senate,,DEM,Beto O'Rourke,100,43,36,21
+San Jacinto,14,U.S. Senate,,LIB,Neal M. Dikeman,2,0,2,0

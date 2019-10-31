@@ -1,116 +1,116 @@
-county,precinct,office,district,party,candidate,votes,early_voting,election_day
-Gray,1,U.S. Senate,,REP,Stefano de Stefano,1,1,0
-Gray,1,U.S. Senate,,REP,Ted Cruz,112,20,92
+county,precinct,office,district,party,candidate,votes,election_day,early_voting
+Gray,1,U.S. Senate,,REP,Stefano de Stefano,1,0,1
+Gray,1,U.S. Senate,,REP,Ted Cruz,112,92,20
 Gray,1,U.S. Senate,,REP,Over Votes,0,0,0
-Gray,1,U.S. Senate,,REP,Under Votes,4,0,4
+Gray,1,U.S. Senate,,REP,Under Votes,4,4,0
 Gray,1,Registered Voters,,REP,,440,,
-Gray,1,Ballots Cast,,REP,,126,21,1
-Gray,1,U.S. Senate,,REP,Geraldine Sam,1,0,1
+Gray,1,Ballots Cast,,REP,,126,1,21
+Gray,1,U.S. Senate,,REP,Geraldine Sam,1,1,0
 Gray,1,U.S. Senate,,REP,Over Votes,0,0,0
-Gray,1,U.S. Senate,,REP,Under Votes,4,0,4
-Gray,1,U.S. Senate,,REP,"Bruce Jacobson, Jr.",3,0,3
-Gray,1,U.S. Senate,,REP,Mary Miller,4,0,4
-Gray,1,U.S. House,13,REP,Mac Thornberry,104,18,86
+Gray,1,U.S. Senate,,REP,Under Votes,4,4,0
+Gray,1,U.S. Senate,,REP,"Bruce Jacobson, Jr.",3,3,0
+Gray,1,U.S. Senate,,REP,Mary Miller,4,4,0
+Gray,1,U.S. House,13,REP,Mac Thornberry,104,86,18
 Gray,1,U.S. House,13,REP,Over Votes,0,0,0
-Gray,1,U.S. House,13,REP,Under Votes,21,3,18
-Gray,1,Governor,,REP,SECEDE Kilgore,5,0,5
-Gray,1,Governor,,REP,Greg Abbott,107,19,88
-Gray,1,Governor,,REP,Barbara Krueger,5,0,5
-Gray,1,Lieutenant Governor,,REP,Dan Patrick,65,11,54
-Gray,1,Lieutenant Governor,,REP,Scott Milder,54,8,46
+Gray,1,U.S. House,13,REP,Under Votes,21,18,3
+Gray,1,Governor,,REP,SECEDE Kilgore,5,5,0
+Gray,1,Governor,,REP,Greg Abbott,107,88,19
+Gray,1,Governor,,REP,Barbara Krueger,5,5,0
+Gray,1,Lieutenant Governor,,REP,Dan Patrick,65,54,11
+Gray,1,Lieutenant Governor,,REP,Scott Milder,54,46,8
 Gray,1,Lieutenant Governor,,REP,Over Votes,0,0,0
-Gray,1,Lieutenant Governor,,REP,Under Votes,6,2,4
-Gray,1,Attorney General,,REP,Ken Paxton,104,17,87
-Gray,1,Comptroller of Public Accounts,,REP,Glenn Hegar,100,18,82
+Gray,1,Lieutenant Governor,,REP,Under Votes,6,4,2
+Gray,1,Attorney General,,REP,Ken Paxton,104,87,17
+Gray,1,Comptroller of Public Accounts,,REP,Glenn Hegar,100,82,18
 Gray,1,Comptroller of Public Accounts,,REP,Over Votes,0,0,0
-Gray,1,Comptroller of Public Accounts,,REP,Under Votes,25,3,22
-Gray,1,Commissioner of the General Land Office,,REP,Rick Range,15,1,14
-Gray,1,Commissioner of the General Land Office,,REP,Jerry Patterson,25,2,23
+Gray,1,Comptroller of Public Accounts,,REP,Under Votes,25,22,3
+Gray,1,Commissioner of the General Land Office,,REP,Rick Range,15,14,1
+Gray,1,Commissioner of the General Land Office,,REP,Jerry Patterson,25,23,2
 Gray,1,Commissioner of the General Land Office,,REP,Davey Edwards,4,2,2
 Gray,1,Commissioner of the General Land Office,,REP,Over Votes,0,0,0
-Gray,1,Commissioner of the General Land Office,,REP,Under Votes,15,3,12
-Gray,1,Commissioner of the General Land Office,,REP,George P. Bush,66,13,53
-Gray,1,Commissioner of Agriculture,,REP,Jim Hogan,26,4,22
-Gray,1,Commissioner of Agriculture,,REP,Trey Blocker,22,2,20
-Gray,1,Commissioner of Agriculture,,REP,Sid Miller,56,12,44
-Gray,1,Railroad Commissioner,,REP,Weston Martinez,30,3,27
-Gray,1,Railroad Commissioner,,REP,Christi Craddick,72,14,58
+Gray,1,Commissioner of the General Land Office,,REP,Under Votes,15,12,3
+Gray,1,Commissioner of the General Land Office,,REP,George P. Bush,66,53,13
+Gray,1,Commissioner of Agriculture,,REP,Jim Hogan,26,22,4
+Gray,1,Commissioner of Agriculture,,REP,Trey Blocker,22,20,2
+Gray,1,Commissioner of Agriculture,,REP,Sid Miller,56,44,12
+Gray,1,Railroad Commissioner,,REP,Weston Martinez,30,27,3
+Gray,1,Railroad Commissioner,,REP,Christi Craddick,72,58,14
 Gray,1,Railroad Commissioner,,REP,Over Votes,0,0,0
-Gray,1,Railroad Commissioner,,REP,Under Votes,23,4,19
-Gray,1,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,94,17,77
+Gray,1,Railroad Commissioner,,REP,Under Votes,23,19,4
+Gray,1,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,94,77,17
 Gray,1,"Justice, Supreme Court, Place 2",,REP,Over Votes,0,0,0
-Gray,1,"Justice, Supreme Court, Place 2",,REP,Under Votes,31,4,27
-Gray,1,"Justice, Supreme Court, Place 4",,REP,John Devine,95,17,78
+Gray,1,"Justice, Supreme Court, Place 2",,REP,Under Votes,31,27,4
+Gray,1,"Justice, Supreme Court, Place 4",,REP,John Devine,95,78,17
 Gray,1,"Justice, Supreme Court, Place 4",,REP,Over Votes,0,0,0
-Gray,1,"Justice, Supreme Court, Place 4",,REP,Under Votes,30,4,26
-Gray,1,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,95,17,78
+Gray,1,"Justice, Supreme Court, Place 4",,REP,Under Votes,30,26,4
+Gray,1,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,95,78,17
 Gray,1,"Justice, Supreme Court, Place 6",,REP,Over Votes,0,0,0
-Gray,1,"Justice, Supreme Court, Place 6",,REP,Under Votes,30,4,26
-Gray,1,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,42,5,37
-Gray,1,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,56,12,44
+Gray,1,"Justice, Supreme Court, Place 6",,REP,Under Votes,30,26,4
+Gray,1,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,42,37,5
+Gray,1,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,56,44,12
 Gray,1,"Presiding Judge, Court of Criminal Appeals",,REP,Over Votes,0,0,0
-Gray,1,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,27,4,23
-Gray,1,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,92,17,75
+Gray,1,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,27,23,4
+Gray,1,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,92,75,17
 Gray,1,"Judge, Court of Criminal Appeals, Place 7",,REP,Over Votes,0,0,0
-Gray,1,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,33,4,29
-Gray,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,15,0,15
+Gray,1,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,33,29,4
+Gray,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,15,15,0
 Gray,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Over Votes,0,0,0
-Gray,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,29,5,24
-Gray,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,41,9,32
-Gray,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,40,7,33
-Gray,1,State Senator,31,REP,Victor Leal,17,4,13
-Gray,1,State Senator,31,REP,Kel Seliger,84,10,74
+Gray,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,29,24,5
+Gray,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,41,32,9
+Gray,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,40,33,7
+Gray,1,State Senator,31,REP,Victor Leal,17,13,4
+Gray,1,State Senator,31,REP,Kel Seliger,84,74,10
 Gray,1,State Senator,31,REP,Over Votes,0,0,0
-Gray,1,State Senator,31,REP,Under Votes,6,2,4
-Gray,1,State Senator,31,REP,Mike Canon,18,5,13
-Gray,1,State Representative,88,REP,Ken King,76,15,61
-Gray,1,State Representative,88,REP,Richard Beyea,13,1,12
-Gray,1,State Representative,88,REP,Jason Huddleston,34,4,30
+Gray,1,State Senator,31,REP,Under Votes,6,4,2
+Gray,1,State Senator,31,REP,Mike Canon,18,13,5
+Gray,1,State Representative,88,REP,Ken King,76,61,15
+Gray,1,State Representative,88,REP,Richard Beyea,13,12,1
+Gray,1,State Representative,88,REP,Jason Huddleston,34,30,4
 Gray,1,State Representative,88,REP,Over Votes,0,0,0
 Gray,1,State Representative,88,REP,Under Votes,2,1,1
-Gray,1,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,92,16,76
+Gray,1,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,92,76,16
 Gray,1,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Over Votes,0,0,0
-Gray,1,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Under Votes,33,5,28
-Gray,1,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,88,18,70
+Gray,1,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Under Votes,33,28,5
+Gray,1,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,88,70,18
 Gray,1,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Over Votes,0,0,0
-Gray,1,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Under Votes,37,3,34
-Gray,1,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,99,20,79
+Gray,1,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Under Votes,37,34,3
+Gray,1,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,99,79,20
 Gray,1,"District Judge, 31st Judicial District",,REP,Over Votes,0,0,0
-Gray,1,"District Judge, 31st Judicial District",,REP,Under Votes,26,1,25
-Gray,1,"District Judge, 223rd Judicial District",,REP,Phil N Vanderpool,98,21,77
+Gray,1,"District Judge, 31st Judicial District",,REP,Under Votes,26,25,1
+Gray,1,"District Judge, 223rd Judicial District",,REP,Phil N Vanderpool,98,77,21
 Gray,1,"District Judge, 223rd Judicial District",,REP,Over Votes,0,0,0
-Gray,1,"District Judge, 223rd Judicial District",,REP,Under Votes,27,0,27
-Gray,1,County Judge,,REP,Richard Peet,41,11,30
-Gray,1,County Judge,,REP,Chris Porter,83,10,73
+Gray,1,"District Judge, 223rd Judicial District",,REP,Under Votes,27,27,0
+Gray,1,County Judge,,REP,Richard Peet,41,30,11
+Gray,1,County Judge,,REP,Chris Porter,83,73,10
 Gray,1,County Judge,,REP,Over Votes,0,0,0
-Gray,1,County Judge,,REP,Under Votes,1,0,1
-Gray,1,District Clerk,,REP,Jo Mays,101,21,80
+Gray,1,County Judge,,REP,Under Votes,1,1,0
+Gray,1,District Clerk,,REP,Jo Mays,101,80,21
 Gray,1,District Clerk,,REP,Over Votes,0,0,0
-Gray,1,District Clerk,,REP,Under Votes,24,0,24
-Gray,1,County Clerk,,REP,Jeanne Horton,102,21,81
+Gray,1,District Clerk,,REP,Under Votes,24,24,0
+Gray,1,County Clerk,,REP,Jeanne Horton,102,81,21
 Gray,1,County Clerk,,REP,Over Votes,0,0,0
-Gray,1,County Clerk,,REP,Under Votes,23,0,23
-Gray,1,County Treasurer,,REP,Scott Hahn,99,20,79
+Gray,1,County Clerk,,REP,Under Votes,23,23,0
+Gray,1,County Treasurer,,REP,Scott Hahn,99,79,20
 Gray,1,County Treasurer,,REP,Over Votes,0,0,0
-Gray,1,County Treasurer,,REP,Under Votes,26,1,25
-Gray,1,"Justice of the Peace, Precinct No. 1 and Precinct No. 3",,REP,Joe Patrick Martinez,102,21,81
+Gray,1,County Treasurer,,REP,Under Votes,26,25,1
+Gray,1,"Justice of the Peace, Precinct No. 1 and Precinct No. 3",,REP,Joe Patrick Martinez,102,81,21
 Gray,1,"Justice of the Peace, Precinct No. 1 and Precinct No. 3",,REP,Over Votes,0,0,0
-Gray,1,"Justice of the Peace, Precinct No. 1 and Precinct No. 3",,REP,Under Votes,23,0,23
+Gray,1,"Justice of the Peace, Precinct No. 1 and Precinct No. 3",,REP,Under Votes,23,23,0
 Gray,1,U.S. Senate,,DEM,Over Votes,0,0,0
 Gray,1,U.S. Senate,,DEM,Under Votes,0,0,0
 Gray,1,Registered Voters,,DEM,,440,,
-Gray,1,Ballots Cast,,DEM,,126,21,1
-Gray,1,U.S. Senate,,DEM,Beto O'Rourke,1,0,1
+Gray,1,Ballots Cast,,DEM,,126,1,21
+Gray,1,U.S. Senate,,DEM,Beto O'Rourke,1,1,0
 Gray,1,U.S. Senate,,DEM,Over Votes,0,0,0
 Gray,1,U.S. Senate,,DEM,Under Votes,0,0,0
 Gray,1,U.S. Senate,,DEM,Edward Kimbrough,0,0,0
 Gray,1,U.S. Senate,,DEM,Sema Hernandez,0,0,0
-Gray,1,U.S. House,13,DEM,Greg Sagan,1,0,1
+Gray,1,U.S. House,13,DEM,Greg Sagan,1,1,0
 Gray,1,U.S. House,13,DEM,Over Votes,0,0,0
 Gray,1,U.S. House,13,DEM,Under Votes,0,0,0
 Gray,1,Governor,,DEM,Tom Wakely,0,0,0
 Gray,1,Governor,,DEM,Grady Yarbrough,0,0,0
-Gray,1,Governor,,DEM,Andrew White,1,0,1
+Gray,1,Governor,,DEM,Andrew White,1,1,0
 Gray,1,Governor,,DEM,"Cedric Davis, Sr.",0,0,0
 Gray,1,Governor,,DEM,Joe Mumbach,0,0,0
 Gray,1,Governor,,DEM,Jeffrey Payne,0,0,0
@@ -119,496 +119,496 @@ Gray,1,Governor,,DEM,James Jolly Clark,0,0,0
 Gray,1,Governor,,DEM,Adrian Ocegueda,0,0,0
 Gray,1,Governor,,DEM,Over Votes,0,0,0
 Gray,1,Governor,,DEM,Under Votes,0,0,0
-Gray,1,Lieutenant Governor,,DEM,Mike Collier,1,0,1
+Gray,1,Lieutenant Governor,,DEM,Mike Collier,1,1,0
 Gray,1,Lieutenant Governor,,DEM,Michael Cooper,0,0,0
 Gray,1,Lieutenant Governor,,DEM,Over Votes,0,0,0
 Gray,1,Lieutenant Governor,,DEM,Under Votes,0,0,0
-Gray,1,Attorney General,,DEM,Justin Nelson,1,0,1
+Gray,1,Attorney General,,DEM,Justin Nelson,1,1,0
 Gray,1,Attorney General,,DEM,Over Votes,0,0,0
 Gray,1,Attorney General,,DEM,Under Votes,0,0,0
 Gray,1,Comptroller of Public Accounts,,DEM,Joi Chevalier,0,0,0
 Gray,1,Comptroller of Public Accounts,,DEM,Over Votes,0,0,0
 Gray,1,Comptroller of Public Accounts,,DEM,Under Votes,0,0,0
-Gray,1,Comptroller of Public Accounts,,DEM,Tim Mahoney,1,0,1
-Gray,1,Commissioner of the General Land Office,,DEM,Tex Morgan,1,0,1
+Gray,1,Comptroller of Public Accounts,,DEM,Tim Mahoney,1,1,0
+Gray,1,Commissioner of the General Land Office,,DEM,Tex Morgan,1,1,0
 Gray,1,Commissioner of the General Land Office,,DEM,Miguel Suazo,0,0,0
 Gray,1,Commissioner of the General Land Office,,DEM,Over Votes,0,0,0
 Gray,1,Commissioner of the General Land Office,,DEM,Under Votes,0,0,0
-Gray,1,Commissioner of Agriculture,,DEM,Kim Olson,1,0,1
+Gray,1,Commissioner of Agriculture,,DEM,Kim Olson,1,1,0
 Gray,1,Commissioner of Agriculture,,DEM,Over Votes,0,0,0
 Gray,1,Commissioner of Agriculture,,DEM,Under Votes,0,0,0
-Gray,1,Railroad Commissioner,,DEM,Chris Spellmon,1,0,1
+Gray,1,Railroad Commissioner,,DEM,Chris Spellmon,1,1,0
 Gray,1,Railroad Commissioner,,DEM,Over Votes,0,0,0
 Gray,1,Railroad Commissioner,,DEM,Under Votes,0,0,0
 Gray,1,Railroad Commissioner,,DEM,Roman McAllen,0,0,0
-Gray,1,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,1,0,1
+Gray,1,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,1,1,0
 Gray,1,"Justice, Supreme Court, Place 2",,DEM,Over Votes,0,0,0
 Gray,1,"Justice, Supreme Court, Place 2",,DEM,Under Votes,0,0,0
-Gray,1,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,1,0,1
+Gray,1,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,1,1,0
 Gray,1,"Justice, Supreme Court, Place 4",,DEM,Over Votes,0,0,0
 Gray,1,"Justice, Supreme Court, Place 4",,DEM,Under Votes,0,0,0
-Gray,1,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,1,0,1
+Gray,1,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,1,1,0
 Gray,1,"Justice, Supreme Court, Place 6",,DEM,Over Votes,0,0,0
 Gray,1,"Justice, Supreme Court, Place 6",,DEM,Under Votes,0,0,0
-Gray,1,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,1,0,1
+Gray,1,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,1,1,0
 Gray,1,"Presiding Judge, Court of Criminal Appeals",,DEM,Over Votes,0,0,0
 Gray,1,"Presiding Judge, Court of Criminal Appeals",,DEM,Under Votes,0,0,0
-Gray,1,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,1,0,1
+Gray,1,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,1,1,0
 Gray,1,"Judge, Court of Criminal Appeals, Place 7",,DEM,Over Votes,0,0,0
 Gray,1,"Judge, Court of Criminal Appeals, Place 7",,DEM,Under Votes,0,0,0
 Gray,1,State Representative,88,DEM,Ezekiel Barron,0,0,0
 Gray,1,State Representative,88,DEM,Over Votes,0,0,0
-Gray,1,State Representative,88,DEM,Under Votes,1,0,1
-Gray,1,Proposition #1 Right to a 21st Century Public Education:,,,Yes,1,0,1
+Gray,1,State Representative,88,DEM,Under Votes,1,1,0
+Gray,1,Proposition #1 Right to a 21st Century Public Education:,,,Yes,1,1,0
 Gray,1,Proposition #1 Right to a 21st Century Public Education:,,,Over Votes,0,0,0
 Gray,1,Proposition #1 Right to a 21st Century Public Education:,,,Under Votes,0,0,0
 Gray,1,Proposition #1 Right to a 21st Century Public Education:,,,No,0,0,0
-Gray,1,Proposition #2 Student Loan Debt:,,,Yes,1,0,1
+Gray,1,Proposition #2 Student Loan Debt:,,,Yes,1,1,0
 Gray,1,Proposition #2 Student Loan Debt:,,,Over Votes,0,0,0
 Gray,1,Proposition #2 Student Loan Debt:,,,Under Votes,0,0,0
 Gray,1,Proposition #2 Student Loan Debt:,,,No,0,0,0
-Gray,1,Proposition #3 Right to Healthcare:,,,Yes,1,0,1
+Gray,1,Proposition #3 Right to Healthcare:,,,Yes,1,1,0
 Gray,1,Proposition #3 Right to Healthcare:,,,Over Votes,0,0,0
 Gray,1,Proposition #3 Right to Healthcare:,,,Under Votes,0,0,0
 Gray,1,Proposition #3 Right to Healthcare:,,,No,0,0,0
-Gray,1,Proposition #4 Right to Economic Security:,,,Yes,1,0,1
+Gray,1,Proposition #4 Right to Economic Security:,,,Yes,1,1,0
 Gray,1,Proposition #4 Right to Economic Security:,,,Over Votes,0,0,0
 Gray,1,Proposition #4 Right to Economic Security:,,,Under Votes,0,0,0
 Gray,1,Proposition #4 Right to Economic Security:,,,No,0,0,0
-Gray,1,Proposition #5 National Jobs Program:,,,Yes,1,0,1
+Gray,1,Proposition #5 National Jobs Program:,,,Yes,1,1,0
 Gray,1,Proposition #5 National Jobs Program:,,,Over Votes,0,0,0
 Gray,1,Proposition #5 National Jobs Program:,,,Under Votes,0,0,0
 Gray,1,Proposition #5 National Jobs Program:,,,No,0,0,0
-Gray,1,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,1,0,1
+Gray,1,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,1,1,0
 Gray,1,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Over Votes,0,0,0
 Gray,1,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Under Votes,0,0,0
 Gray,1,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,0,0,0
 Gray,1,Proposition #7 Right to Dignity & Respect:,,,Yes,0,0,0
 Gray,1,Proposition #7 Right to Dignity & Respect:,,,Over Votes,0,0,0
 Gray,1,Proposition #7 Right to Dignity & Respect:,,,Under Votes,0,0,0
-Gray,1,Proposition #7 Right to Dignity & Respect:,,,No,1,0,1
-Gray,1,Proposition #8 Right to Housing:,,,Yes,1,0,1
+Gray,1,Proposition #7 Right to Dignity & Respect:,,,No,1,1,0
+Gray,1,Proposition #8 Right to Housing:,,,Yes,1,1,0
 Gray,1,Proposition #8 Right to Housing:,,,Over Votes,0,0,0
 Gray,1,Proposition #8 Right to Housing:,,,Under Votes,0,0,0
 Gray,1,Proposition #8 Right to Housing:,,,No,0,0,0
-Gray,1,Proposition #9 Right to Vote:,,,Yes,1,0,1
+Gray,1,Proposition #9 Right to Vote:,,,Yes,1,1,0
 Gray,1,Proposition #9 Right to Vote:,,,Over Votes,0,0,0
 Gray,1,Proposition #9 Right to Vote:,,,Under Votes,0,0,0
 Gray,1,Proposition #9 Right to Vote:,,,No,0,0,0
-Gray,1,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,1,0,1
+Gray,1,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,1,1,0
 Gray,1,Proposition #10 Right to a Fair Criminal Justice System:,,,Over Votes,0,0,0
 Gray,1,Proposition #10 Right to a Fair Criminal Justice System:,,,Under Votes,0,0,0
 Gray,1,Proposition #10 Right to a Fair Criminal Justice System:,,,No,0,0,0
-Gray,1,Proposition #11 Immigrant Rights:,,,Yes,1,0,1
+Gray,1,Proposition #11 Immigrant Rights:,,,Yes,1,1,0
 Gray,1,Proposition #11 Immigrant Rights:,,,Over Votes,0,0,0
 Gray,1,Proposition #11 Immigrant Rights:,,,Under Votes,0,0,0
 Gray,1,Proposition #11 Immigrant Rights:,,,No,0,0,0
-Gray,1,Proposition #12 Right to Fair Taxation:,,,Yes,1,0,1
+Gray,1,Proposition #12 Right to Fair Taxation:,,,Yes,1,1,0
 Gray,1,Proposition #12 Right to Fair Taxation:,,,Over Votes,0,0,0
 Gray,1,Proposition #12 Right to Fair Taxation:,,,Under Votes,0,0,0
 Gray,1,Proposition #12 Right to Fair Taxation:,,,No,0,0,0
-Gray,1,Proposition 1,,,YES,65,10,55
+Gray,1,Proposition 1,,,YES,65,55,10
 Gray,1,Proposition 1,,,Over Votes,0,0,0
-Gray,1,Proposition 1,,,Under Votes,18,4,14
-Gray,1,Proposition 1,,,NO,42,7,35
-Gray,1,Proposition 2,,,YES,108,19,89
+Gray,1,Proposition 1,,,Under Votes,18,14,4
+Gray,1,Proposition 1,,,NO,42,35,7
+Gray,1,Proposition 2,,,YES,108,89,19
 Gray,1,Proposition 2,,,Over Votes,0,0,0
-Gray,1,Proposition 2,,,Under Votes,8,1,7
-Gray,1,Proposition 2,,,NO,9,1,8
-Gray,1,Proposition 3,,,YES,90,16,74
+Gray,1,Proposition 2,,,Under Votes,8,7,1
+Gray,1,Proposition 2,,,NO,9,8,1
+Gray,1,Proposition 3,,,YES,90,74,16
 Gray,1,Proposition 3,,,Over Votes,0,0,0
-Gray,1,Proposition 3,,,Under Votes,13,3,10
-Gray,1,Proposition 3,,,NO,22,2,20
-Gray,1,Proposition 4,,,YES,109,17,92
+Gray,1,Proposition 3,,,Under Votes,13,10,3
+Gray,1,Proposition 3,,,NO,22,20,2
+Gray,1,Proposition 4,,,YES,109,92,17
 Gray,1,Proposition 4,,,Over Votes,0,0,0
-Gray,1,Proposition 4,,,Under Votes,8,2,6
-Gray,1,Proposition 4,,,NO,8,2,6
-Gray,1,Proposition 5,,,YES,65,14,51
+Gray,1,Proposition 4,,,Under Votes,8,6,2
+Gray,1,Proposition 4,,,NO,8,6,2
+Gray,1,Proposition 5,,,YES,65,51,14
 Gray,1,Proposition 5,,,Over Votes,0,0,0
-Gray,1,Proposition 5,,,Under Votes,7,1,6
-Gray,1,Proposition 5,,,NO,53,6,47
-Gray,1,Proposition 6,,,YES,112,19,93
+Gray,1,Proposition 5,,,Under Votes,7,6,1
+Gray,1,Proposition 5,,,NO,53,47,6
+Gray,1,Proposition 6,,,YES,112,93,19
 Gray,1,Proposition 6,,,Over Votes,0,0,0
-Gray,1,Proposition 6,,,Under Votes,9,1,8
-Gray,1,Proposition 6,,,NO,4,1,3
-Gray,1,Proposition 7,,,YES,101,15,86
+Gray,1,Proposition 6,,,Under Votes,9,8,1
+Gray,1,Proposition 6,,,NO,4,3,1
+Gray,1,Proposition 7,,,YES,101,86,15
 Gray,1,Proposition 7,,,Over Votes,0,0,0
-Gray,1,Proposition 7,,,Under Votes,8,1,7
-Gray,1,Proposition 7,,,NO,16,5,11
-Gray,1,Proposition 8,,,YES,116,19,97
+Gray,1,Proposition 7,,,Under Votes,8,7,1
+Gray,1,Proposition 7,,,NO,16,11,5
+Gray,1,Proposition 8,,,YES,116,97,19
 Gray,1,Proposition 8,,,Over Votes,0,0,0
-Gray,1,Proposition 8,,,Under Votes,6,1,5
-Gray,1,Proposition 8,,,NO,3,1,2
-Gray,1,Proposition 9,,,YES,116,19,97
+Gray,1,Proposition 8,,,Under Votes,6,5,1
+Gray,1,Proposition 8,,,NO,3,2,1
+Gray,1,Proposition 9,,,YES,116,97,19
 Gray,1,Proposition 9,,,Over Votes,0,0,0
-Gray,1,Proposition 9,,,Under Votes,6,0,6
-Gray,1,Proposition 9,,,NO,3,2,1
-Gray,1,Proposition 10,,,YES,106,16,90
+Gray,1,Proposition 9,,,Under Votes,6,6,0
+Gray,1,Proposition 9,,,NO,3,1,2
+Gray,1,Proposition 10,,,YES,106,90,16
 Gray,1,Proposition 10,,,Over Votes,0,0,0
-Gray,1,Proposition 10,,,Under Votes,13,3,10
-Gray,1,Proposition 10,,,NO,6,2,4
-Gray,1,Proposition 11,,,YES,97,16,81
+Gray,1,Proposition 10,,,Under Votes,13,10,3
+Gray,1,Proposition 10,,,NO,6,4,2
+Gray,1,Proposition 11,,,YES,97,81,16
 Gray,1,Proposition 11,,,Over Votes,0,0,0
-Gray,1,Proposition 11,,,Under Votes,7,1,6
-Gray,1,Proposition 11,,,NO,21,4,17
-Gray,2,U.S. Senate,,REP,Stefano de Stefano,18,12,6
-Gray,2,U.S. Senate,,REP,Ted Cruz,632,351,281
+Gray,1,Proposition 11,,,Under Votes,7,6,1
+Gray,1,Proposition 11,,,NO,21,17,4
+Gray,2,U.S. Senate,,REP,Stefano de Stefano,18,6,12
+Gray,2,U.S. Senate,,REP,Ted Cruz,632,281,351
 Gray,2,U.S. Senate,,REP,Over Votes,0,0,0
-Gray,2,U.S. Senate,,REP,Under Votes,38,18,20
+Gray,2,U.S. Senate,,REP,Under Votes,38,20,18
 Gray,2,Registered Voters,,REP,,2618,,
-Gray,2,Ballots Cast,,REP,,758,429,3
-Gray,2,U.S. Senate,,REP,Geraldine Sam,7,4,3
+Gray,2,Ballots Cast,,REP,,758,3,429
+Gray,2,U.S. Senate,,REP,Geraldine Sam,7,3,4
 Gray,2,U.S. Senate,,REP,Over Votes,0,0,0
-Gray,2,U.S. Senate,,REP,Under Votes,38,18,20
-Gray,2,U.S. Senate,,REP,"Bruce Jacobson, Jr.",29,22,7
-Gray,2,U.S. Senate,,REP,Mary Miller,23,14,9
-Gray,2,U.S. House,13,REP,Mac Thornberry,648,364,284
+Gray,2,U.S. Senate,,REP,Under Votes,38,20,18
+Gray,2,U.S. Senate,,REP,"Bruce Jacobson, Jr.",29,7,22
+Gray,2,U.S. Senate,,REP,Mary Miller,23,9,14
+Gray,2,U.S. House,13,REP,Mac Thornberry,648,284,364
 Gray,2,U.S. House,13,REP,Over Votes,0,0,0
-Gray,2,U.S. House,13,REP,Under Votes,99,57,42
-Gray,2,Governor,,REP,SECEDE Kilgore,17,11,6
-Gray,2,Governor,,REP,Greg Abbott,667,380,287
-Gray,2,Governor,,REP,Barbara Krueger,42,22,20
-Gray,2,Lieutenant Governor,,REP,Dan Patrick,552,322,230
-Gray,2,Lieutenant Governor,,REP,Scott Milder,145,80,65
+Gray,2,U.S. House,13,REP,Under Votes,99,42,57
+Gray,2,Governor,,REP,SECEDE Kilgore,17,6,11
+Gray,2,Governor,,REP,Greg Abbott,667,287,380
+Gray,2,Governor,,REP,Barbara Krueger,42,20,22
+Gray,2,Lieutenant Governor,,REP,Dan Patrick,552,230,322
+Gray,2,Lieutenant Governor,,REP,Scott Milder,145,65,80
 Gray,2,Lieutenant Governor,,REP,Over Votes,0,0,0
-Gray,2,Lieutenant Governor,,REP,Under Votes,50,19,31
-Gray,2,Attorney General,,REP,Ken Paxton,648,365,283
-Gray,2,Comptroller of Public Accounts,,REP,Glenn Hegar,608,340,268
+Gray,2,Lieutenant Governor,,REP,Under Votes,50,31,19
+Gray,2,Attorney General,,REP,Ken Paxton,648,283,365
+Gray,2,Comptroller of Public Accounts,,REP,Glenn Hegar,608,268,340
 Gray,2,Comptroller of Public Accounts,,REP,Over Votes,0,0,0
-Gray,2,Comptroller of Public Accounts,,REP,Under Votes,139,81,58
-Gray,2,Commissioner of the General Land Office,,REP,Rick Range,83,49,34
-Gray,2,Commissioner of the General Land Office,,REP,Jerry Patterson,128,66,62
-Gray,2,Commissioner of the General Land Office,,REP,Davey Edwards,35,19,16
+Gray,2,Comptroller of Public Accounts,,REP,Under Votes,139,58,81
+Gray,2,Commissioner of the General Land Office,,REP,Rick Range,83,34,49
+Gray,2,Commissioner of the General Land Office,,REP,Jerry Patterson,128,62,66
+Gray,2,Commissioner of the General Land Office,,REP,Davey Edwards,35,16,19
 Gray,2,Commissioner of the General Land Office,,REP,Over Votes,0,0,0
-Gray,2,Commissioner of the General Land Office,,REP,Under Votes,91,50,41
-Gray,2,Commissioner of the General Land Office,,REP,George P. Bush,410,237,173
-Gray,2,Commissioner of Agriculture,,REP,Jim Hogan,220,116,104
-Gray,2,Commissioner of Agriculture,,REP,Trey Blocker,123,70,53
-Gray,2,Commissioner of Agriculture,,REP,Sid Miller,285,171,114
-Gray,2,Railroad Commissioner,,REP,Weston Martinez,238,134,104
-Gray,2,Railroad Commissioner,,REP,Christi Craddick,395,231,164
+Gray,2,Commissioner of the General Land Office,,REP,Under Votes,91,41,50
+Gray,2,Commissioner of the General Land Office,,REP,George P. Bush,410,173,237
+Gray,2,Commissioner of Agriculture,,REP,Jim Hogan,220,104,116
+Gray,2,Commissioner of Agriculture,,REP,Trey Blocker,123,53,70
+Gray,2,Commissioner of Agriculture,,REP,Sid Miller,285,114,171
+Gray,2,Railroad Commissioner,,REP,Weston Martinez,238,104,134
+Gray,2,Railroad Commissioner,,REP,Christi Craddick,395,164,231
 Gray,2,Railroad Commissioner,,REP,Over Votes,0,0,0
-Gray,2,Railroad Commissioner,,REP,Under Votes,114,56,58
-Gray,2,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,596,337,259
+Gray,2,Railroad Commissioner,,REP,Under Votes,114,58,56
+Gray,2,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,596,259,337
 Gray,2,"Justice, Supreme Court, Place 2",,REP,Over Votes,0,0,0
-Gray,2,"Justice, Supreme Court, Place 2",,REP,Under Votes,151,84,67
-Gray,2,"Justice, Supreme Court, Place 4",,REP,John Devine,593,337,256
+Gray,2,"Justice, Supreme Court, Place 2",,REP,Under Votes,151,67,84
+Gray,2,"Justice, Supreme Court, Place 4",,REP,John Devine,593,256,337
 Gray,2,"Justice, Supreme Court, Place 4",,REP,Over Votes,0,0,0
-Gray,2,"Justice, Supreme Court, Place 4",,REP,Under Votes,154,84,70
-Gray,2,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,591,335,256
+Gray,2,"Justice, Supreme Court, Place 4",,REP,Under Votes,154,70,84
+Gray,2,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,591,256,335
 Gray,2,"Justice, Supreme Court, Place 6",,REP,Over Votes,0,0,0
-Gray,2,"Justice, Supreme Court, Place 6",,REP,Under Votes,156,86,70
-Gray,2,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,272,149,123
-Gray,2,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,325,189,136
+Gray,2,"Justice, Supreme Court, Place 6",,REP,Under Votes,156,70,86
+Gray,2,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,272,123,149
+Gray,2,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,325,136,189
 Gray,2,"Presiding Judge, Court of Criminal Appeals",,REP,Over Votes,0,0,0
-Gray,2,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,150,83,67
-Gray,2,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,575,330,245
+Gray,2,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,150,67,83
+Gray,2,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,575,245,330
 Gray,2,"Judge, Court of Criminal Appeals, Place 7",,REP,Over Votes,0,0,0
-Gray,2,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,172,91,81
-Gray,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,155,91,64
+Gray,2,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,172,81,91
+Gray,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,155,64,91
 Gray,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Over Votes,0,0,0
-Gray,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,168,88,80
-Gray,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,236,133,103
-Gray,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,188,109,79
-Gray,2,State Senator,31,REP,Victor Leal,183,113,70
-Gray,2,State Senator,31,REP,Kel Seliger,361,195,166
+Gray,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,168,80,88
+Gray,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,236,103,133
+Gray,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,188,79,109
+Gray,2,State Senator,31,REP,Victor Leal,183,70,113
+Gray,2,State Senator,31,REP,Kel Seliger,361,166,195
 Gray,2,State Senator,31,REP,Over Votes,0,0,0
-Gray,2,State Senator,31,REP,Under Votes,28,13,15
-Gray,2,State Senator,31,REP,Mike Canon,175,100,75
+Gray,2,State Senator,31,REP,Under Votes,28,15,13
+Gray,2,State Senator,31,REP,Mike Canon,175,75,100
 Gray,2,State Representative,88,REP,Ken King,340,170,170
-Gray,2,State Representative,88,REP,Richard Beyea,149,105,44
-Gray,2,State Representative,88,REP,Jason Huddleston,245,140,105
+Gray,2,State Representative,88,REP,Richard Beyea,149,44,105
+Gray,2,State Representative,88,REP,Jason Huddleston,245,105,140
 Gray,2,State Representative,88,REP,Over Votes,0,0,0
-Gray,2,State Representative,88,REP,Under Votes,13,6,7
-Gray,2,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,591,336,255
+Gray,2,State Representative,88,REP,Under Votes,13,7,6
+Gray,2,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,591,255,336
 Gray,2,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Over Votes,0,0,0
-Gray,2,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Under Votes,156,85,71
-Gray,2,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,572,326,246
+Gray,2,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Under Votes,156,71,85
+Gray,2,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,572,246,326
 Gray,2,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Over Votes,0,0,0
-Gray,2,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Under Votes,175,95,80
-Gray,2,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,616,350,266
+Gray,2,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Under Votes,175,80,95
+Gray,2,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,616,266,350
 Gray,2,"District Judge, 31st Judicial District",,REP,Over Votes,0,0,0
-Gray,2,"District Judge, 31st Judicial District",,REP,Under Votes,131,71,60
-Gray,2,"District Judge, 223rd Judicial District",,REP,Phil N Vanderpool,619,350,269
+Gray,2,"District Judge, 31st Judicial District",,REP,Under Votes,131,60,71
+Gray,2,"District Judge, 223rd Judicial District",,REP,Phil N Vanderpool,619,269,350
 Gray,2,"District Judge, 223rd Judicial District",,REP,Over Votes,0,0,0
-Gray,2,"District Judge, 223rd Judicial District",,REP,Under Votes,128,71,57
-Gray,2,County Judge,,REP,Richard Peet,312,193,119
-Gray,2,County Judge,,REP,Chris Porter,419,224,195
+Gray,2,"District Judge, 223rd Judicial District",,REP,Under Votes,128,57,71
+Gray,2,County Judge,,REP,Richard Peet,312,119,193
+Gray,2,County Judge,,REP,Chris Porter,419,195,224
 Gray,2,County Judge,,REP,Over Votes,0,0,0
-Gray,2,County Judge,,REP,Under Votes,16,4,12
-Gray,2,District Clerk,,REP,Jo Mays,621,352,269
+Gray,2,County Judge,,REP,Under Votes,16,12,4
+Gray,2,District Clerk,,REP,Jo Mays,621,269,352
 Gray,2,District Clerk,,REP,Over Votes,0,0,0
-Gray,2,District Clerk,,REP,Under Votes,126,69,57
-Gray,2,County Clerk,,REP,Jeanne Horton,630,353,277
+Gray,2,District Clerk,,REP,Under Votes,126,57,69
+Gray,2,County Clerk,,REP,Jeanne Horton,630,277,353
 Gray,2,County Clerk,,REP,Over Votes,0,0,0
-Gray,2,County Clerk,,REP,Under Votes,117,68,49
-Gray,2,County Treasurer,,REP,Scott Hahn,613,346,267
+Gray,2,County Clerk,,REP,Under Votes,117,49,68
+Gray,2,County Treasurer,,REP,Scott Hahn,613,267,346
 Gray,2,County Treasurer,,REP,Over Votes,0,0,0
-Gray,2,County Treasurer,,REP,Under Votes,134,75,59
-Gray,2,"County Commissioner, Precinct No. 2",,REP,Steve Beckham,152,82,70
-Gray,2,"County Commissioner, Precinct No. 2",,REP,Lake Arrington,295,150,145
-Gray,2,"County Commissioner, Precinct No. 2",,REP,Gary Willoughby,297,187,110
+Gray,2,County Treasurer,,REP,Under Votes,134,59,75
+Gray,2,"County Commissioner, Precinct No. 2",,REP,Steve Beckham,152,70,82
+Gray,2,"County Commissioner, Precinct No. 2",,REP,Lake Arrington,295,145,150
+Gray,2,"County Commissioner, Precinct No. 2",,REP,Gary Willoughby,297,110,187
 Gray,2,"County Commissioner, Precinct No. 2",,REP,Over Votes,0,0,0
-Gray,2,"County Commissioner, Precinct No. 2",,REP,Under Votes,3,2,1
-Gray,2,"Justice of the Peace, Precinct No. 2 and Precinct No. 4",,REP,Connie Ogle,603,343,260
+Gray,2,"County Commissioner, Precinct No. 2",,REP,Under Votes,3,1,2
+Gray,2,"Justice of the Peace, Precinct No. 2 and Precinct No. 4",,REP,Connie Ogle,603,260,343
 Gray,2,"Justice of the Peace, Precinct No. 2 and Precinct No. 4",,REP,Over Votes,0,0,0
-Gray,2,"Justice of the Peace, Precinct No. 2 and Precinct No. 4",,REP,Under Votes,144,78,66
+Gray,2,"Justice of the Peace, Precinct No. 2 and Precinct No. 4",,REP,Under Votes,144,66,78
 Gray,2,U.S. Senate,,DEM,Over Votes,0,0,0
-Gray,2,U.S. Senate,,DEM,Under Votes,1,1,0
+Gray,2,U.S. Senate,,DEM,Under Votes,1,0,1
 Gray,2,Registered Voters,,DEM,,2618,,
-Gray,2,Ballots Cast,,DEM,,758,429,1
-Gray,2,U.S. Senate,,DEM,Beto O'Rourke,5,4,1
+Gray,2,Ballots Cast,,DEM,,758,1,429
+Gray,2,U.S. Senate,,DEM,Beto O'Rourke,5,1,4
 Gray,2,U.S. Senate,,DEM,Over Votes,0,0,0
-Gray,2,U.S. Senate,,DEM,Under Votes,1,1,0
-Gray,2,U.S. Senate,,DEM,Edward Kimbrough,3,2,1
+Gray,2,U.S. Senate,,DEM,Under Votes,1,0,1
+Gray,2,U.S. Senate,,DEM,Edward Kimbrough,3,1,2
 Gray,2,U.S. Senate,,DEM,Sema Hernandez,2,1,1
-Gray,2,U.S. House,13,DEM,Greg Sagan,9,6,3
+Gray,2,U.S. House,13,DEM,Greg Sagan,9,3,6
 Gray,2,U.S. House,13,DEM,Over Votes,0,0,0
-Gray,2,U.S. House,13,DEM,Under Votes,2,2,0
-Gray,2,Governor,,DEM,Tom Wakely,1,1,0
-Gray,2,Governor,,DEM,Grady Yarbrough,1,0,1
-Gray,2,Governor,,DEM,Andrew White,3,3,0
+Gray,2,U.S. House,13,DEM,Under Votes,2,0,2
+Gray,2,Governor,,DEM,Tom Wakely,1,0,1
+Gray,2,Governor,,DEM,Grady Yarbrough,1,1,0
+Gray,2,Governor,,DEM,Andrew White,3,0,3
 Gray,2,Governor,,DEM,"Cedric Davis, Sr.",0,0,0
 Gray,2,Governor,,DEM,Joe Mumbach,0,0,0
-Gray,2,Governor,,DEM,Jeffrey Payne,1,1,0
-Gray,2,Governor,,DEM,Lupe Valdez,3,2,1
-Gray,2,Governor,,DEM,James Jolly Clark,1,0,1
-Gray,2,Governor,,DEM,Adrian Ocegueda,1,1,0
+Gray,2,Governor,,DEM,Jeffrey Payne,1,0,1
+Gray,2,Governor,,DEM,Lupe Valdez,3,1,2
+Gray,2,Governor,,DEM,James Jolly Clark,1,1,0
+Gray,2,Governor,,DEM,Adrian Ocegueda,1,0,1
 Gray,2,Governor,,DEM,Over Votes,0,0,0
 Gray,2,Governor,,DEM,Under Votes,0,0,0
-Gray,2,Lieutenant Governor,,DEM,Mike Collier,6,4,2
-Gray,2,Lieutenant Governor,,DEM,Michael Cooper,3,2,1
+Gray,2,Lieutenant Governor,,DEM,Mike Collier,6,2,4
+Gray,2,Lieutenant Governor,,DEM,Michael Cooper,3,1,2
 Gray,2,Lieutenant Governor,,DEM,Over Votes,0,0,0
-Gray,2,Lieutenant Governor,,DEM,Under Votes,2,2,0
-Gray,2,Attorney General,,DEM,Justin Nelson,8,6,2
+Gray,2,Lieutenant Governor,,DEM,Under Votes,2,0,2
+Gray,2,Attorney General,,DEM,Justin Nelson,8,2,6
 Gray,2,Attorney General,,DEM,Over Votes,0,0,0
-Gray,2,Attorney General,,DEM,Under Votes,3,2,1
-Gray,2,Comptroller of Public Accounts,,DEM,Joi Chevalier,3,2,1
+Gray,2,Attorney General,,DEM,Under Votes,3,1,2
+Gray,2,Comptroller of Public Accounts,,DEM,Joi Chevalier,3,1,2
 Gray,2,Comptroller of Public Accounts,,DEM,Over Votes,0,0,0
 Gray,2,Comptroller of Public Accounts,,DEM,Under Votes,2,1,1
-Gray,2,Comptroller of Public Accounts,,DEM,Tim Mahoney,6,5,1
-Gray,2,Commissioner of the General Land Office,,DEM,Tex Morgan,5,4,1
+Gray,2,Comptroller of Public Accounts,,DEM,Tim Mahoney,6,1,5
+Gray,2,Commissioner of the General Land Office,,DEM,Tex Morgan,5,1,4
 Gray,2,Commissioner of the General Land Office,,DEM,Miguel Suazo,4,2,2
 Gray,2,Commissioner of the General Land Office,,DEM,Over Votes,0,0,0
-Gray,2,Commissioner of the General Land Office,,DEM,Under Votes,2,2,0
-Gray,2,Commissioner of Agriculture,,DEM,Kim Olson,8,5,3
+Gray,2,Commissioner of the General Land Office,,DEM,Under Votes,2,0,2
+Gray,2,Commissioner of Agriculture,,DEM,Kim Olson,8,3,5
 Gray,2,Commissioner of Agriculture,,DEM,Over Votes,0,0,0
-Gray,2,Commissioner of Agriculture,,DEM,Under Votes,3,3,0
-Gray,2,Railroad Commissioner,,DEM,Chris Spellmon,5,3,2
+Gray,2,Commissioner of Agriculture,,DEM,Under Votes,3,0,3
+Gray,2,Railroad Commissioner,,DEM,Chris Spellmon,5,2,3
 Gray,2,Railroad Commissioner,,DEM,Over Votes,0,0,0
-Gray,2,Railroad Commissioner,,DEM,Under Votes,2,2,0
-Gray,2,Railroad Commissioner,,DEM,Roman McAllen,4,3,1
-Gray,2,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,8,6,2
+Gray,2,Railroad Commissioner,,DEM,Under Votes,2,0,2
+Gray,2,Railroad Commissioner,,DEM,Roman McAllen,4,1,3
+Gray,2,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,8,2,6
 Gray,2,"Justice, Supreme Court, Place 2",,DEM,Over Votes,0,0,0
-Gray,2,"Justice, Supreme Court, Place 2",,DEM,Under Votes,3,2,1
-Gray,2,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,8,5,3
+Gray,2,"Justice, Supreme Court, Place 2",,DEM,Under Votes,3,1,2
+Gray,2,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,8,3,5
 Gray,2,"Justice, Supreme Court, Place 4",,DEM,Over Votes,0,0,0
-Gray,2,"Justice, Supreme Court, Place 4",,DEM,Under Votes,3,3,0
-Gray,2,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,9,6,3
+Gray,2,"Justice, Supreme Court, Place 4",,DEM,Under Votes,3,0,3
+Gray,2,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,9,3,6
 Gray,2,"Justice, Supreme Court, Place 6",,DEM,Over Votes,0,0,0
-Gray,2,"Justice, Supreme Court, Place 6",,DEM,Under Votes,2,2,0
-Gray,2,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,8,6,2
+Gray,2,"Justice, Supreme Court, Place 6",,DEM,Under Votes,2,0,2
+Gray,2,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,8,2,6
 Gray,2,"Presiding Judge, Court of Criminal Appeals",,DEM,Over Votes,0,0,0
-Gray,2,"Presiding Judge, Court of Criminal Appeals",,DEM,Under Votes,3,2,1
-Gray,2,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,8,6,2
+Gray,2,"Presiding Judge, Court of Criminal Appeals",,DEM,Under Votes,3,1,2
+Gray,2,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,8,2,6
 Gray,2,"Judge, Court of Criminal Appeals, Place 7",,DEM,Over Votes,0,0,0
-Gray,2,"Judge, Court of Criminal Appeals, Place 7",,DEM,Under Votes,3,2,1
-Gray,2,State Representative,88,DEM,Ezekiel Barron,7,5,2
+Gray,2,"Judge, Court of Criminal Appeals, Place 7",,DEM,Under Votes,3,1,2
+Gray,2,State Representative,88,DEM,Ezekiel Barron,7,2,5
 Gray,2,State Representative,88,DEM,Over Votes,0,0,0
-Gray,2,State Representative,88,DEM,Under Votes,4,3,1
-Gray,2,Proposition #1 Right to a 21st Century Public Education:,,,Yes,10,7,3
+Gray,2,State Representative,88,DEM,Under Votes,4,1,3
+Gray,2,Proposition #1 Right to a 21st Century Public Education:,,,Yes,10,3,7
 Gray,2,Proposition #1 Right to a 21st Century Public Education:,,,Over Votes,0,0,0
 Gray,2,Proposition #1 Right to a 21st Century Public Education:,,,Under Votes,0,0,0
-Gray,2,Proposition #1 Right to a 21st Century Public Education:,,,No,1,1,0
-Gray,2,Proposition #2 Student Loan Debt:,,,Yes,10,7,3
+Gray,2,Proposition #1 Right to a 21st Century Public Education:,,,No,1,0,1
+Gray,2,Proposition #2 Student Loan Debt:,,,Yes,10,3,7
 Gray,2,Proposition #2 Student Loan Debt:,,,Over Votes,0,0,0
 Gray,2,Proposition #2 Student Loan Debt:,,,Under Votes,0,0,0
-Gray,2,Proposition #2 Student Loan Debt:,,,No,1,1,0
-Gray,2,Proposition #3 Right to Healthcare:,,,Yes,10,7,3
+Gray,2,Proposition #2 Student Loan Debt:,,,No,1,0,1
+Gray,2,Proposition #3 Right to Healthcare:,,,Yes,10,3,7
 Gray,2,Proposition #3 Right to Healthcare:,,,Over Votes,0,0,0
 Gray,2,Proposition #3 Right to Healthcare:,,,Under Votes,0,0,0
-Gray,2,Proposition #3 Right to Healthcare:,,,No,1,1,0
-Gray,2,Proposition #4 Right to Economic Security:,,,Yes,11,8,3
+Gray,2,Proposition #3 Right to Healthcare:,,,No,1,0,1
+Gray,2,Proposition #4 Right to Economic Security:,,,Yes,11,3,8
 Gray,2,Proposition #4 Right to Economic Security:,,,Over Votes,0,0,0
 Gray,2,Proposition #4 Right to Economic Security:,,,Under Votes,0,0,0
 Gray,2,Proposition #4 Right to Economic Security:,,,No,0,0,0
-Gray,2,Proposition #5 National Jobs Program:,,,Yes,8,6,2
+Gray,2,Proposition #5 National Jobs Program:,,,Yes,8,2,6
 Gray,2,Proposition #5 National Jobs Program:,,,Over Votes,0,0,0
 Gray,2,Proposition #5 National Jobs Program:,,,Under Votes,0,0,0
-Gray,2,Proposition #5 National Jobs Program:,,,No,3,2,1
-Gray,2,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,11,8,3
+Gray,2,Proposition #5 National Jobs Program:,,,No,3,1,2
+Gray,2,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,11,3,8
 Gray,2,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Over Votes,0,0,0
 Gray,2,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Under Votes,0,0,0
 Gray,2,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,0,0,0
-Gray,2,Proposition #7 Right to Dignity & Respect:,,,Yes,11,8,3
+Gray,2,Proposition #7 Right to Dignity & Respect:,,,Yes,11,3,8
 Gray,2,Proposition #7 Right to Dignity & Respect:,,,Over Votes,0,0,0
 Gray,2,Proposition #7 Right to Dignity & Respect:,,,Under Votes,0,0,0
 Gray,2,Proposition #7 Right to Dignity & Respect:,,,No,0,0,0
-Gray,2,Proposition #8 Right to Housing:,,,Yes,11,8,3
+Gray,2,Proposition #8 Right to Housing:,,,Yes,11,3,8
 Gray,2,Proposition #8 Right to Housing:,,,Over Votes,0,0,0
 Gray,2,Proposition #8 Right to Housing:,,,Under Votes,0,0,0
 Gray,2,Proposition #8 Right to Housing:,,,No,0,0,0
-Gray,2,Proposition #9 Right to Vote:,,,Yes,11,8,3
+Gray,2,Proposition #9 Right to Vote:,,,Yes,11,3,8
 Gray,2,Proposition #9 Right to Vote:,,,Over Votes,0,0,0
 Gray,2,Proposition #9 Right to Vote:,,,Under Votes,0,0,0
 Gray,2,Proposition #9 Right to Vote:,,,No,0,0,0
-Gray,2,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,11,8,3
+Gray,2,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,11,3,8
 Gray,2,Proposition #10 Right to a Fair Criminal Justice System:,,,Over Votes,0,0,0
 Gray,2,Proposition #10 Right to a Fair Criminal Justice System:,,,Under Votes,0,0,0
 Gray,2,Proposition #10 Right to a Fair Criminal Justice System:,,,No,0,0,0
-Gray,2,Proposition #11 Immigrant Rights:,,,Yes,9,8,1
+Gray,2,Proposition #11 Immigrant Rights:,,,Yes,9,1,8
 Gray,2,Proposition #11 Immigrant Rights:,,,Over Votes,0,0,0
 Gray,2,Proposition #11 Immigrant Rights:,,,Under Votes,0,0,0
-Gray,2,Proposition #11 Immigrant Rights:,,,No,2,0,2
-Gray,2,Proposition #12 Right to Fair Taxation:,,,Yes,11,8,3
+Gray,2,Proposition #11 Immigrant Rights:,,,No,2,2,0
+Gray,2,Proposition #12 Right to Fair Taxation:,,,Yes,11,3,8
 Gray,2,Proposition #12 Right to Fair Taxation:,,,Over Votes,0,0,0
 Gray,2,Proposition #12 Right to Fair Taxation:,,,Under Votes,0,0,0
 Gray,2,Proposition #12 Right to Fair Taxation:,,,No,0,0,0
-Gray,2,Proposition 1,,,YES,419,235,184
+Gray,2,Proposition 1,,,YES,419,184,235
 Gray,2,Proposition 1,,,Over Votes,0,0,0
-Gray,2,Proposition 1,,,Under Votes,66,31,35
-Gray,2,Proposition 1,,,NO,262,155,107
-Gray,2,Proposition 2,,,YES,650,369,281
+Gray,2,Proposition 1,,,Under Votes,66,35,31
+Gray,2,Proposition 1,,,NO,262,107,155
+Gray,2,Proposition 2,,,YES,650,281,369
 Gray,2,Proposition 2,,,Over Votes,0,0,0
-Gray,2,Proposition 2,,,Under Votes,31,12,19
-Gray,2,Proposition 2,,,NO,66,40,26
-Gray,2,Proposition 3,,,YES,620,349,271
+Gray,2,Proposition 2,,,Under Votes,31,19,12
+Gray,2,Proposition 2,,,NO,66,26,40
+Gray,2,Proposition 3,,,YES,620,271,349
 Gray,2,Proposition 3,,,Over Votes,0,0,0
-Gray,2,Proposition 3,,,Under Votes,42,20,22
-Gray,2,Proposition 3,,,NO,85,52,33
-Gray,2,Proposition 4,,,YES,655,370,285
+Gray,2,Proposition 3,,,Under Votes,42,22,20
+Gray,2,Proposition 3,,,NO,85,33,52
+Gray,2,Proposition 4,,,YES,655,285,370
 Gray,2,Proposition 4,,,Over Votes,0,0,0
-Gray,2,Proposition 4,,,Under Votes,33,14,19
-Gray,2,Proposition 4,,,NO,59,37,22
-Gray,2,Proposition 5,,,YES,592,332,260
+Gray,2,Proposition 4,,,Under Votes,33,19,14
+Gray,2,Proposition 4,,,NO,59,22,37
+Gray,2,Proposition 5,,,YES,592,260,332
 Gray,2,Proposition 5,,,Over Votes,0,0,0
-Gray,2,Proposition 5,,,Under Votes,31,16,15
-Gray,2,Proposition 5,,,NO,124,73,51
-Gray,2,Proposition 6,,,YES,692,384,308
+Gray,2,Proposition 5,,,Under Votes,31,15,16
+Gray,2,Proposition 5,,,NO,124,51,73
+Gray,2,Proposition 6,,,YES,692,308,384
 Gray,2,Proposition 6,,,Over Votes,0,0,0
-Gray,2,Proposition 6,,,Under Votes,24,15,9
-Gray,2,Proposition 6,,,NO,31,22,9
-Gray,2,Proposition 7,,,YES,565,324,241
+Gray,2,Proposition 6,,,Under Votes,24,9,15
+Gray,2,Proposition 6,,,NO,31,9,22
+Gray,2,Proposition 7,,,YES,565,241,324
 Gray,2,Proposition 7,,,Over Votes,0,0,0
-Gray,2,Proposition 7,,,Under Votes,39,21,18
-Gray,2,Proposition 7,,,NO,143,76,67
-Gray,2,Proposition 8,,,YES,706,402,304
+Gray,2,Proposition 7,,,Under Votes,39,18,21
+Gray,2,Proposition 7,,,NO,143,67,76
+Gray,2,Proposition 8,,,YES,706,304,402
 Gray,2,Proposition 8,,,Over Votes,0,0,0
-Gray,2,Proposition 8,,,Under Votes,24,11,13
-Gray,2,Proposition 8,,,NO,17,8,9
-Gray,2,Proposition 9,,,YES,670,382,288
+Gray,2,Proposition 8,,,Under Votes,24,13,11
+Gray,2,Proposition 8,,,NO,17,9,8
+Gray,2,Proposition 9,,,YES,670,288,382
 Gray,2,Proposition 9,,,Over Votes,0,0,0
 Gray,2,Proposition 9,,,Under Votes,24,12,12
-Gray,2,Proposition 9,,,NO,53,27,26
-Gray,2,Proposition 10,,,YES,666,376,290
+Gray,2,Proposition 9,,,NO,53,26,27
+Gray,2,Proposition 10,,,YES,666,290,376
 Gray,2,Proposition 10,,,Over Votes,0,0,0
-Gray,2,Proposition 10,,,Under Votes,35,17,18
-Gray,2,Proposition 10,,,NO,46,28,18
-Gray,2,Proposition 11,,,YES,627,354,273
+Gray,2,Proposition 10,,,Under Votes,35,18,17
+Gray,2,Proposition 10,,,NO,46,18,28
+Gray,2,Proposition 11,,,YES,627,273,354
 Gray,2,Proposition 11,,,Over Votes,0,0,0
-Gray,2,Proposition 11,,,Under Votes,26,12,14
-Gray,2,Proposition 11,,,NO,94,55,39
+Gray,2,Proposition 11,,,Under Votes,26,14,12
+Gray,2,Proposition 11,,,NO,94,39,55
 Gray,3,U.S. Senate,,REP,Stefano de Stefano,0,0,0
-Gray,3,U.S. Senate,,REP,Ted Cruz,48,6,42
+Gray,3,U.S. Senate,,REP,Ted Cruz,48,42,6
 Gray,3,U.S. Senate,,REP,Over Votes,0,0,0
 Gray,3,U.S. Senate,,REP,Under Votes,0,0,0
 Gray,3,Registered Voters,,REP,,110,,
-Gray,3,Ballots Cast,,REP,,50,6,0
+Gray,3,Ballots Cast,,REP,,50,0,6
 Gray,3,U.S. Senate,,REP,Geraldine Sam,0,0,0
 Gray,3,U.S. Senate,,REP,Over Votes,0,0,0
 Gray,3,U.S. Senate,,REP,Under Votes,0,0,0
-Gray,3,U.S. Senate,,REP,"Bruce Jacobson, Jr.",1,0,1
-Gray,3,U.S. Senate,,REP,Mary Miller,1,0,1
-Gray,3,U.S. House,13,REP,Mac Thornberry,47,5,42
+Gray,3,U.S. Senate,,REP,"Bruce Jacobson, Jr.",1,1,0
+Gray,3,U.S. Senate,,REP,Mary Miller,1,1,0
+Gray,3,U.S. House,13,REP,Mac Thornberry,47,42,5
 Gray,3,U.S. House,13,REP,Over Votes,0,0,0
-Gray,3,U.S. House,13,REP,Under Votes,3,1,2
-Gray,3,Governor,,REP,SECEDE Kilgore,2,0,2
-Gray,3,Governor,,REP,Greg Abbott,47,6,41
+Gray,3,U.S. House,13,REP,Under Votes,3,2,1
+Gray,3,Governor,,REP,SECEDE Kilgore,2,2,0
+Gray,3,Governor,,REP,Greg Abbott,47,41,6
 Gray,3,Governor,,REP,Barbara Krueger,0,0,0
-Gray,3,Lieutenant Governor,,REP,Dan Patrick,34,4,30
-Gray,3,Lieutenant Governor,,REP,Scott Milder,15,2,13
+Gray,3,Lieutenant Governor,,REP,Dan Patrick,34,30,4
+Gray,3,Lieutenant Governor,,REP,Scott Milder,15,13,2
 Gray,3,Lieutenant Governor,,REP,Over Votes,0,0,0
-Gray,3,Lieutenant Governor,,REP,Under Votes,1,0,1
-Gray,3,Attorney General,,REP,Ken Paxton,43,6,37
-Gray,3,Comptroller of Public Accounts,,REP,Glenn Hegar,43,6,37
+Gray,3,Lieutenant Governor,,REP,Under Votes,1,1,0
+Gray,3,Attorney General,,REP,Ken Paxton,43,37,6
+Gray,3,Comptroller of Public Accounts,,REP,Glenn Hegar,43,37,6
 Gray,3,Comptroller of Public Accounts,,REP,Over Votes,0,0,0
-Gray,3,Comptroller of Public Accounts,,REP,Under Votes,7,0,7
-Gray,3,Commissioner of the General Land Office,,REP,Rick Range,3,1,2
-Gray,3,Commissioner of the General Land Office,,REP,Jerry Patterson,8,1,7
+Gray,3,Comptroller of Public Accounts,,REP,Under Votes,7,7,0
+Gray,3,Commissioner of the General Land Office,,REP,Rick Range,3,2,1
+Gray,3,Commissioner of the General Land Office,,REP,Jerry Patterson,8,7,1
 Gray,3,Commissioner of the General Land Office,,REP,Davey Edwards,2,1,1
 Gray,3,Commissioner of the General Land Office,,REP,Over Votes,0,0,0
-Gray,3,Commissioner of the General Land Office,,REP,Under Votes,10,2,8
-Gray,3,Commissioner of the General Land Office,,REP,George P. Bush,27,1,26
-Gray,3,Commissioner of Agriculture,,REP,Jim Hogan,14,1,13
-Gray,3,Commissioner of Agriculture,,REP,Trey Blocker,8,0,8
-Gray,3,Commissioner of Agriculture,,REP,Sid Miller,20,3,17
-Gray,3,Railroad Commissioner,,REP,Weston Martinez,14,0,14
-Gray,3,Railroad Commissioner,,REP,Christi Craddick,26,4,22
+Gray,3,Commissioner of the General Land Office,,REP,Under Votes,10,8,2
+Gray,3,Commissioner of the General Land Office,,REP,George P. Bush,27,26,1
+Gray,3,Commissioner of Agriculture,,REP,Jim Hogan,14,13,1
+Gray,3,Commissioner of Agriculture,,REP,Trey Blocker,8,8,0
+Gray,3,Commissioner of Agriculture,,REP,Sid Miller,20,17,3
+Gray,3,Railroad Commissioner,,REP,Weston Martinez,14,14,0
+Gray,3,Railroad Commissioner,,REP,Christi Craddick,26,22,4
 Gray,3,Railroad Commissioner,,REP,Over Votes,0,0,0
-Gray,3,Railroad Commissioner,,REP,Under Votes,10,2,8
-Gray,3,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,36,5,31
+Gray,3,Railroad Commissioner,,REP,Under Votes,10,8,2
+Gray,3,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,36,31,5
 Gray,3,"Justice, Supreme Court, Place 2",,REP,Over Votes,0,0,0
-Gray,3,"Justice, Supreme Court, Place 2",,REP,Under Votes,14,1,13
-Gray,3,"Justice, Supreme Court, Place 4",,REP,John Devine,38,5,33
+Gray,3,"Justice, Supreme Court, Place 2",,REP,Under Votes,14,13,1
+Gray,3,"Justice, Supreme Court, Place 4",,REP,John Devine,38,33,5
 Gray,3,"Justice, Supreme Court, Place 4",,REP,Over Votes,0,0,0
-Gray,3,"Justice, Supreme Court, Place 4",,REP,Under Votes,12,1,11
-Gray,3,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,39,5,34
+Gray,3,"Justice, Supreme Court, Place 4",,REP,Under Votes,12,11,1
+Gray,3,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,39,34,5
 Gray,3,"Justice, Supreme Court, Place 6",,REP,Over Votes,0,0,0
-Gray,3,"Justice, Supreme Court, Place 6",,REP,Under Votes,11,1,10
-Gray,3,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,18,3,15
-Gray,3,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,19,1,18
+Gray,3,"Justice, Supreme Court, Place 6",,REP,Under Votes,11,10,1
+Gray,3,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,18,15,3
+Gray,3,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,19,18,1
 Gray,3,"Presiding Judge, Court of Criminal Appeals",,REP,Over Votes,0,0,0
-Gray,3,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,13,2,11
-Gray,3,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,37,4,33
+Gray,3,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,13,11,2
+Gray,3,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,37,33,4
 Gray,3,"Judge, Court of Criminal Appeals, Place 7",,REP,Over Votes,0,0,0
-Gray,3,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,13,2,11
-Gray,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,8,1,7
+Gray,3,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,13,11,2
+Gray,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,8,7,1
 Gray,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Over Votes,0,0,0
-Gray,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,14,2,12
-Gray,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,10,2,8
-Gray,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,18,1,17
-Gray,3,State Senator,31,REP,Victor Leal,10,2,8
-Gray,3,State Senator,31,REP,Kel Seliger,29,3,26
+Gray,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,14,12,2
+Gray,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,10,8,2
+Gray,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,18,17,1
+Gray,3,State Senator,31,REP,Victor Leal,10,8,2
+Gray,3,State Senator,31,REP,Kel Seliger,29,26,3
 Gray,3,State Senator,31,REP,Over Votes,0,0,0
-Gray,3,State Senator,31,REP,Under Votes,1,0,1
-Gray,3,State Senator,31,REP,Mike Canon,10,1,9
-Gray,3,State Representative,88,REP,Ken King,33,3,30
-Gray,3,State Representative,88,REP,Richard Beyea,5,0,5
-Gray,3,State Representative,88,REP,Jason Huddleston,11,3,8
+Gray,3,State Senator,31,REP,Under Votes,1,1,0
+Gray,3,State Senator,31,REP,Mike Canon,10,9,1
+Gray,3,State Representative,88,REP,Ken King,33,30,3
+Gray,3,State Representative,88,REP,Richard Beyea,5,5,0
+Gray,3,State Representative,88,REP,Jason Huddleston,11,8,3
 Gray,3,State Representative,88,REP,Over Votes,0,0,0
-Gray,3,State Representative,88,REP,Under Votes,1,0,1
-Gray,3,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,37,5,32
+Gray,3,State Representative,88,REP,Under Votes,1,1,0
+Gray,3,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,37,32,5
 Gray,3,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Over Votes,0,0,0
-Gray,3,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Under Votes,13,1,12
-Gray,3,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,37,5,32
+Gray,3,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Under Votes,13,12,1
+Gray,3,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,37,32,5
 Gray,3,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Over Votes,0,0,0
-Gray,3,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Under Votes,13,1,12
-Gray,3,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,38,6,32
+Gray,3,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Under Votes,13,12,1
+Gray,3,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,38,32,6
 Gray,3,"District Judge, 31st Judicial District",,REP,Over Votes,0,0,0
-Gray,3,"District Judge, 31st Judicial District",,REP,Under Votes,12,0,12
-Gray,3,"District Judge, 223rd Judicial District",,REP,Phil N Vanderpool,42,6,36
+Gray,3,"District Judge, 31st Judicial District",,REP,Under Votes,12,12,0
+Gray,3,"District Judge, 223rd Judicial District",,REP,Phil N Vanderpool,42,36,6
 Gray,3,"District Judge, 223rd Judicial District",,REP,Over Votes,0,0,0
-Gray,3,"District Judge, 223rd Judicial District",,REP,Under Votes,8,0,8
-Gray,3,County Judge,,REP,Richard Peet,25,2,23
-Gray,3,County Judge,,REP,Chris Porter,24,4,20
+Gray,3,"District Judge, 223rd Judicial District",,REP,Under Votes,8,8,0
+Gray,3,County Judge,,REP,Richard Peet,25,23,2
+Gray,3,County Judge,,REP,Chris Porter,24,20,4
 Gray,3,County Judge,,REP,Over Votes,0,0,0
-Gray,3,County Judge,,REP,Under Votes,1,0,1
-Gray,3,District Clerk,,REP,Jo Mays,38,6,32
+Gray,3,County Judge,,REP,Under Votes,1,1,0
+Gray,3,District Clerk,,REP,Jo Mays,38,32,6
 Gray,3,District Clerk,,REP,Over Votes,0,0,0
-Gray,3,District Clerk,,REP,Under Votes,12,0,12
-Gray,3,County Clerk,,REP,Jeanne Horton,37,5,32
+Gray,3,District Clerk,,REP,Under Votes,12,12,0
+Gray,3,County Clerk,,REP,Jeanne Horton,37,32,5
 Gray,3,County Clerk,,REP,Over Votes,0,0,0
-Gray,3,County Clerk,,REP,Under Votes,13,1,12
-Gray,3,County Treasurer,,REP,Scott Hahn,40,6,34
+Gray,3,County Clerk,,REP,Under Votes,13,12,1
+Gray,3,County Treasurer,,REP,Scott Hahn,40,34,6
 Gray,3,County Treasurer,,REP,Over Votes,0,0,0
-Gray,3,County Treasurer,,REP,Under Votes,10,0,10
-Gray,3,"Justice of the Peace, Precinct No. 1 and Precinct No. 3",,REP,Joe Patrick Martinez,38,5,33
+Gray,3,County Treasurer,,REP,Under Votes,10,10,0
+Gray,3,"Justice of the Peace, Precinct No. 1 and Precinct No. 3",,REP,Joe Patrick Martinez,38,33,5
 Gray,3,"Justice of the Peace, Precinct No. 1 and Precinct No. 3",,REP,Over Votes,0,0,0
-Gray,3,"Justice of the Peace, Precinct No. 1 and Precinct No. 3",,REP,Under Votes,12,1,11
+Gray,3,"Justice of the Peace, Precinct No. 1 and Precinct No. 3",,REP,Under Votes,12,11,1
 Gray,3,U.S. Senate,,DEM,Over Votes,0,0,0
 Gray,3,U.S. Senate,,DEM,Under Votes,0,0,0
 Gray,3,Registered Voters,,DEM,,110,,
-Gray,3,Ballots Cast,,DEM,,50,6,0
+Gray,3,Ballots Cast,,DEM,,50,0,6
 Gray,3,U.S. Senate,,DEM,Beto O'Rourke,0,0,0
 Gray,3,U.S. Senate,,DEM,Over Votes,0,0,0
 Gray,3,U.S. Senate,,DEM,Under Votes,0,0,0
@@ -716,983 +716,983 @@ Gray,3,Proposition #12 Right to Fair Taxation:,,,Yes,0,0,0
 Gray,3,Proposition #12 Right to Fair Taxation:,,,Over Votes,0,0,0
 Gray,3,Proposition #12 Right to Fair Taxation:,,,Under Votes,0,0,0
 Gray,3,Proposition #12 Right to Fair Taxation:,,,No,0,0,0
-Gray,3,Proposition 1,,,YES,17,2,15
+Gray,3,Proposition 1,,,YES,17,15,2
 Gray,3,Proposition 1,,,Over Votes,0,0,0
-Gray,3,Proposition 1,,,Under Votes,11,2,9
-Gray,3,Proposition 1,,,NO,22,2,20
-Gray,3,Proposition 2,,,YES,35,6,29
+Gray,3,Proposition 1,,,Under Votes,11,9,2
+Gray,3,Proposition 1,,,NO,22,20,2
+Gray,3,Proposition 2,,,YES,35,29,6
 Gray,3,Proposition 2,,,Over Votes,0,0,0
-Gray,3,Proposition 2,,,Under Votes,8,0,8
-Gray,3,Proposition 2,,,NO,7,0,7
-Gray,3,Proposition 3,,,YES,31,6,25
+Gray,3,Proposition 2,,,Under Votes,8,8,0
+Gray,3,Proposition 2,,,NO,7,7,0
+Gray,3,Proposition 3,,,YES,31,25,6
 Gray,3,Proposition 3,,,Over Votes,0,0,0
-Gray,3,Proposition 3,,,Under Votes,8,0,8
-Gray,3,Proposition 3,,,NO,11,0,11
-Gray,3,Proposition 4,,,YES,32,6,26
+Gray,3,Proposition 3,,,Under Votes,8,8,0
+Gray,3,Proposition 3,,,NO,11,11,0
+Gray,3,Proposition 4,,,YES,32,26,6
 Gray,3,Proposition 4,,,Over Votes,0,0,0
-Gray,3,Proposition 4,,,Under Votes,10,0,10
-Gray,3,Proposition 4,,,NO,8,0,8
-Gray,3,Proposition 5,,,YES,27,4,23
+Gray,3,Proposition 4,,,Under Votes,10,10,0
+Gray,3,Proposition 4,,,NO,8,8,0
+Gray,3,Proposition 5,,,YES,27,23,4
 Gray,3,Proposition 5,,,Over Votes,0,0,0
-Gray,3,Proposition 5,,,Under Votes,5,0,5
-Gray,3,Proposition 5,,,NO,18,2,16
-Gray,3,Proposition 6,,,YES,38,6,32
+Gray,3,Proposition 5,,,Under Votes,5,5,0
+Gray,3,Proposition 5,,,NO,18,16,2
+Gray,3,Proposition 6,,,YES,38,32,6
 Gray,3,Proposition 6,,,Over Votes,0,0,0
-Gray,3,Proposition 6,,,Under Votes,6,0,6
-Gray,3,Proposition 6,,,NO,6,0,6
-Gray,3,Proposition 7,,,YES,31,5,26
+Gray,3,Proposition 6,,,Under Votes,6,6,0
+Gray,3,Proposition 6,,,NO,6,6,0
+Gray,3,Proposition 7,,,YES,31,26,5
 Gray,3,Proposition 7,,,Over Votes,0,0,0
-Gray,3,Proposition 7,,,Under Votes,5,0,5
-Gray,3,Proposition 7,,,NO,14,1,13
-Gray,3,Proposition 8,,,YES,43,6,37
+Gray,3,Proposition 7,,,Under Votes,5,5,0
+Gray,3,Proposition 7,,,NO,14,13,1
+Gray,3,Proposition 8,,,YES,43,37,6
 Gray,3,Proposition 8,,,Over Votes,0,0,0
-Gray,3,Proposition 8,,,Under Votes,5,0,5
-Gray,3,Proposition 8,,,NO,2,0,2
-Gray,3,Proposition 9,,,YES,42,6,36
+Gray,3,Proposition 8,,,Under Votes,5,5,0
+Gray,3,Proposition 8,,,NO,2,2,0
+Gray,3,Proposition 9,,,YES,42,36,6
 Gray,3,Proposition 9,,,Over Votes,0,0,0
-Gray,3,Proposition 9,,,Under Votes,6,0,6
-Gray,3,Proposition 9,,,NO,2,0,2
-Gray,3,Proposition 10,,,YES,35,5,30
+Gray,3,Proposition 9,,,Under Votes,6,6,0
+Gray,3,Proposition 9,,,NO,2,2,0
+Gray,3,Proposition 10,,,YES,35,30,5
 Gray,3,Proposition 10,,,Over Votes,0,0,0
-Gray,3,Proposition 10,,,Under Votes,9,0,9
-Gray,3,Proposition 10,,,NO,6,1,5
-Gray,3,Proposition 11,,,YES,36,5,31
+Gray,3,Proposition 10,,,Under Votes,9,9,0
+Gray,3,Proposition 10,,,NO,6,5,1
+Gray,3,Proposition 11,,,YES,36,31,5
 Gray,3,Proposition 11,,,Over Votes,0,0,0
-Gray,3,Proposition 11,,,Under Votes,5,0,5
-Gray,3,Proposition 11,,,NO,9,1,8
-Gray,4,U.S. Senate,,REP,Stefano de Stefano,1,0,1
-Gray,4,U.S. Senate,,REP,Ted Cruz,138,15,123
+Gray,3,Proposition 11,,,Under Votes,5,5,0
+Gray,3,Proposition 11,,,NO,9,8,1
+Gray,4,U.S. Senate,,REP,Stefano de Stefano,1,1,0
+Gray,4,U.S. Senate,,REP,Ted Cruz,138,123,15
 Gray,4,U.S. Senate,,REP,Over Votes,0,0,0
-Gray,4,U.S. Senate,,REP,Under Votes,6,1,5
+Gray,4,U.S. Senate,,REP,Under Votes,6,5,1
 Gray,4,Registered Voters,,REP,,734,,
-Gray,4,Ballots Cast,,REP,,169,18,0
+Gray,4,Ballots Cast,,REP,,169,0,18
 Gray,4,U.S. Senate,,REP,Geraldine Sam,0,0,0
 Gray,4,U.S. Senate,,REP,Over Votes,0,0,0
-Gray,4,U.S. Senate,,REP,Under Votes,6,1,5
-Gray,4,U.S. Senate,,REP,"Bruce Jacobson, Jr.",7,0,7
-Gray,4,U.S. Senate,,REP,Mary Miller,8,1,7
-Gray,4,U.S. House,13,REP,Mac Thornberry,139,14,125
+Gray,4,U.S. Senate,,REP,Under Votes,6,5,1
+Gray,4,U.S. Senate,,REP,"Bruce Jacobson, Jr.",7,7,0
+Gray,4,U.S. Senate,,REP,Mary Miller,8,7,1
+Gray,4,U.S. House,13,REP,Mac Thornberry,139,125,14
 Gray,4,U.S. House,13,REP,Over Votes,0,0,0
-Gray,4,U.S. House,13,REP,Under Votes,21,3,18
-Gray,4,Governor,,REP,SECEDE Kilgore,2,0,2
-Gray,4,Governor,,REP,Greg Abbott,144,17,127
-Gray,4,Governor,,REP,Barbara Krueger,7,0,7
-Gray,4,Lieutenant Governor,,REP,Dan Patrick,118,13,105
-Gray,4,Lieutenant Governor,,REP,Scott Milder,35,3,32
+Gray,4,U.S. House,13,REP,Under Votes,21,18,3
+Gray,4,Governor,,REP,SECEDE Kilgore,2,2,0
+Gray,4,Governor,,REP,Greg Abbott,144,127,17
+Gray,4,Governor,,REP,Barbara Krueger,7,7,0
+Gray,4,Lieutenant Governor,,REP,Dan Patrick,118,105,13
+Gray,4,Lieutenant Governor,,REP,Scott Milder,35,32,3
 Gray,4,Lieutenant Governor,,REP,Over Votes,0,0,0
-Gray,4,Lieutenant Governor,,REP,Under Votes,7,1,6
-Gray,4,Attorney General,,REP,Ken Paxton,128,12,116
-Gray,4,Comptroller of Public Accounts,,REP,Glenn Hegar,119,12,107
+Gray,4,Lieutenant Governor,,REP,Under Votes,7,6,1
+Gray,4,Attorney General,,REP,Ken Paxton,128,116,12
+Gray,4,Comptroller of Public Accounts,,REP,Glenn Hegar,119,107,12
 Gray,4,Comptroller of Public Accounts,,REP,Over Votes,0,0,0
-Gray,4,Comptroller of Public Accounts,,REP,Under Votes,41,5,36
-Gray,4,Commissioner of the General Land Office,,REP,Rick Range,18,0,18
-Gray,4,Commissioner of the General Land Office,,REP,Jerry Patterson,45,12,33
-Gray,4,Commissioner of the General Land Office,,REP,Davey Edwards,7,0,7
+Gray,4,Comptroller of Public Accounts,,REP,Under Votes,41,36,5
+Gray,4,Commissioner of the General Land Office,,REP,Rick Range,18,18,0
+Gray,4,Commissioner of the General Land Office,,REP,Jerry Patterson,45,33,12
+Gray,4,Commissioner of the General Land Office,,REP,Davey Edwards,7,7,0
 Gray,4,Commissioner of the General Land Office,,REP,Over Votes,0,0,0
-Gray,4,Commissioner of the General Land Office,,REP,Under Votes,16,2,14
-Gray,4,Commissioner of the General Land Office,,REP,George P. Bush,74,3,71
-Gray,4,Commissioner of Agriculture,,REP,Jim Hogan,38,3,35
-Gray,4,Commissioner of Agriculture,,REP,Trey Blocker,31,1,30
-Gray,4,Commissioner of Agriculture,,REP,Sid Miller,70,10,60
-Gray,4,Railroad Commissioner,,REP,Weston Martinez,48,3,45
-Gray,4,Railroad Commissioner,,REP,Christi Craddick,87,11,76
+Gray,4,Commissioner of the General Land Office,,REP,Under Votes,16,14,2
+Gray,4,Commissioner of the General Land Office,,REP,George P. Bush,74,71,3
+Gray,4,Commissioner of Agriculture,,REP,Jim Hogan,38,35,3
+Gray,4,Commissioner of Agriculture,,REP,Trey Blocker,31,30,1
+Gray,4,Commissioner of Agriculture,,REP,Sid Miller,70,60,10
+Gray,4,Railroad Commissioner,,REP,Weston Martinez,48,45,3
+Gray,4,Railroad Commissioner,,REP,Christi Craddick,87,76,11
 Gray,4,Railroad Commissioner,,REP,Over Votes,0,0,0
-Gray,4,Railroad Commissioner,,REP,Under Votes,25,3,22
-Gray,4,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,119,12,107
+Gray,4,Railroad Commissioner,,REP,Under Votes,25,22,3
+Gray,4,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,119,107,12
 Gray,4,"Justice, Supreme Court, Place 2",,REP,Over Votes,0,0,0
-Gray,4,"Justice, Supreme Court, Place 2",,REP,Under Votes,41,5,36
-Gray,4,"Justice, Supreme Court, Place 4",,REP,John Devine,122,13,109
+Gray,4,"Justice, Supreme Court, Place 2",,REP,Under Votes,41,36,5
+Gray,4,"Justice, Supreme Court, Place 4",,REP,John Devine,122,109,13
 Gray,4,"Justice, Supreme Court, Place 4",,REP,Over Votes,0,0,0
-Gray,4,"Justice, Supreme Court, Place 4",,REP,Under Votes,38,4,34
-Gray,4,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,122,13,109
+Gray,4,"Justice, Supreme Court, Place 4",,REP,Under Votes,38,34,4
+Gray,4,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,122,109,13
 Gray,4,"Justice, Supreme Court, Place 6",,REP,Over Votes,0,0,0
-Gray,4,"Justice, Supreme Court, Place 6",,REP,Under Votes,38,4,34
-Gray,4,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,53,4,49
-Gray,4,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,72,7,65
+Gray,4,"Justice, Supreme Court, Place 6",,REP,Under Votes,38,34,4
+Gray,4,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,53,49,4
+Gray,4,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,72,65,7
 Gray,4,"Presiding Judge, Court of Criminal Appeals",,REP,Over Votes,0,0,0
-Gray,4,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,35,6,29
-Gray,4,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,120,13,107
+Gray,4,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,35,29,6
+Gray,4,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,120,107,13
 Gray,4,"Judge, Court of Criminal Appeals, Place 7",,REP,Over Votes,0,0,0
-Gray,4,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,40,4,36
-Gray,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,23,2,21
+Gray,4,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,40,36,4
+Gray,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,23,21,2
 Gray,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Over Votes,0,0,0
-Gray,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,32,3,29
-Gray,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,55,7,48
-Gray,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,50,5,45
-Gray,4,State Senator,31,REP,Victor Leal,42,4,38
-Gray,4,State Senator,31,REP,Kel Seliger,62,4,58
+Gray,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,32,29,3
+Gray,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,55,48,7
+Gray,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,50,45,5
+Gray,4,State Senator,31,REP,Victor Leal,42,38,4
+Gray,4,State Senator,31,REP,Kel Seliger,62,58,4
 Gray,4,State Senator,31,REP,Over Votes,0,0,0
-Gray,4,State Senator,31,REP,Under Votes,4,0,4
-Gray,4,State Senator,31,REP,Mike Canon,52,9,43
-Gray,4,State Representative,88,REP,Ken King,67,6,61
-Gray,4,State Representative,88,REP,Richard Beyea,42,5,37
-Gray,4,State Representative,88,REP,Jason Huddleston,45,5,40
+Gray,4,State Senator,31,REP,Under Votes,4,4,0
+Gray,4,State Senator,31,REP,Mike Canon,52,43,9
+Gray,4,State Representative,88,REP,Ken King,67,61,6
+Gray,4,State Representative,88,REP,Richard Beyea,42,37,5
+Gray,4,State Representative,88,REP,Jason Huddleston,45,40,5
 Gray,4,State Representative,88,REP,Over Votes,0,0,0
-Gray,4,State Representative,88,REP,Under Votes,6,1,5
-Gray,4,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,124,12,112
+Gray,4,State Representative,88,REP,Under Votes,6,5,1
+Gray,4,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,124,112,12
 Gray,4,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Over Votes,0,0,0
-Gray,4,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Under Votes,36,5,31
-Gray,4,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,121,12,109
+Gray,4,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Under Votes,36,31,5
+Gray,4,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,121,109,12
 Gray,4,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Over Votes,0,0,0
-Gray,4,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Under Votes,39,5,34
-Gray,4,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,133,13,120
+Gray,4,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Under Votes,39,34,5
+Gray,4,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,133,120,13
 Gray,4,"District Judge, 31st Judicial District",,REP,Over Votes,0,0,0
-Gray,4,"District Judge, 31st Judicial District",,REP,Under Votes,27,4,23
-Gray,4,"District Judge, 223rd Judicial District",,REP,Phil N Vanderpool,129,13,116
+Gray,4,"District Judge, 31st Judicial District",,REP,Under Votes,27,23,4
+Gray,4,"District Judge, 223rd Judicial District",,REP,Phil N Vanderpool,129,116,13
 Gray,4,"District Judge, 223rd Judicial District",,REP,Over Votes,0,0,0
-Gray,4,"District Judge, 223rd Judicial District",,REP,Under Votes,31,4,27
-Gray,4,County Judge,,REP,Richard Peet,65,6,59
-Gray,4,County Judge,,REP,Chris Porter,83,11,72
+Gray,4,"District Judge, 223rd Judicial District",,REP,Under Votes,31,27,4
+Gray,4,County Judge,,REP,Richard Peet,65,59,6
+Gray,4,County Judge,,REP,Chris Porter,83,72,11
 Gray,4,County Judge,,REP,Over Votes,0,0,0
-Gray,4,County Judge,,REP,Under Votes,12,0,12
-Gray,4,District Clerk,,REP,Jo Mays,127,14,113
+Gray,4,County Judge,,REP,Under Votes,12,12,0
+Gray,4,District Clerk,,REP,Jo Mays,127,113,14
 Gray,4,District Clerk,,REP,Over Votes,0,0,0
-Gray,4,District Clerk,,REP,Under Votes,33,3,30
-Gray,4,County Clerk,,REP,Jeanne Horton,131,14,117
+Gray,4,District Clerk,,REP,Under Votes,33,30,3
+Gray,4,County Clerk,,REP,Jeanne Horton,131,117,14
 Gray,4,County Clerk,,REP,Over Votes,0,0,0
-Gray,4,County Clerk,,REP,Under Votes,29,3,26
-Gray,4,County Treasurer,,REP,Scott Hahn,132,14,118
+Gray,4,County Clerk,,REP,Under Votes,29,26,3
+Gray,4,County Treasurer,,REP,Scott Hahn,132,118,14
 Gray,4,County Treasurer,,REP,Over Votes,0,0,0
-Gray,4,County Treasurer,,REP,Under Votes,28,3,25
-Gray,4,"County Commissioner, Precinct No. 4",,REP,Jeff Haley,128,14,114
+Gray,4,County Treasurer,,REP,Under Votes,28,25,3
+Gray,4,"County Commissioner, Precinct No. 4",,REP,Jeff Haley,128,114,14
 Gray,4,"County Commissioner, Precinct No. 4",,REP,Over Votes,0,0,0
-Gray,4,"County Commissioner, Precinct No. 4",,REP,Under Votes,32,3,29
-Gray,4,"Justice of the Peace, Precinct No. 2 and Precinct No. 4",,REP,Connie Ogle,121,14,107
+Gray,4,"County Commissioner, Precinct No. 4",,REP,Under Votes,32,29,3
+Gray,4,"Justice of the Peace, Precinct No. 2 and Precinct No. 4",,REP,Connie Ogle,121,107,14
 Gray,4,"Justice of the Peace, Precinct No. 2 and Precinct No. 4",,REP,Over Votes,0,0,0
-Gray,4,"Justice of the Peace, Precinct No. 2 and Precinct No. 4",,REP,Under Votes,39,3,36
+Gray,4,"Justice of the Peace, Precinct No. 2 and Precinct No. 4",,REP,Under Votes,39,36,3
 Gray,4,U.S. Senate,,DEM,Over Votes,0,0,0
-Gray,4,U.S. Senate,,DEM,Under Votes,1,0,1
+Gray,4,U.S. Senate,,DEM,Under Votes,1,1,0
 Gray,4,Registered Voters,,DEM,,734,,
-Gray,4,Ballots Cast,,DEM,,169,18,5
-Gray,4,U.S. Senate,,DEM,Beto O'Rourke,6,1,5
+Gray,4,Ballots Cast,,DEM,,169,5,18
+Gray,4,U.S. Senate,,DEM,Beto O'Rourke,6,5,1
 Gray,4,U.S. Senate,,DEM,Over Votes,0,0,0
-Gray,4,U.S. Senate,,DEM,Under Votes,1,0,1
-Gray,4,U.S. Senate,,DEM,Edward Kimbrough,2,0,2
+Gray,4,U.S. Senate,,DEM,Under Votes,1,1,0
+Gray,4,U.S. Senate,,DEM,Edward Kimbrough,2,2,0
 Gray,4,U.S. Senate,,DEM,Sema Hernandez,0,0,0
-Gray,4,U.S. House,13,DEM,Greg Sagan,8,1,7
+Gray,4,U.S. House,13,DEM,Greg Sagan,8,7,1
 Gray,4,U.S. House,13,DEM,Over Votes,0,0,0
-Gray,4,U.S. House,13,DEM,Under Votes,1,0,1
-Gray,4,Governor,,DEM,Tom Wakely,2,0,2
-Gray,4,Governor,,DEM,Grady Yarbrough,2,0,2
-Gray,4,Governor,,DEM,Andrew White,1,0,1
+Gray,4,U.S. House,13,DEM,Under Votes,1,1,0
+Gray,4,Governor,,DEM,Tom Wakely,2,2,0
+Gray,4,Governor,,DEM,Grady Yarbrough,2,2,0
+Gray,4,Governor,,DEM,Andrew White,1,1,0
 Gray,4,Governor,,DEM,"Cedric Davis, Sr.",0,0,0
 Gray,4,Governor,,DEM,Joe Mumbach,0,0,0
-Gray,4,Governor,,DEM,Jeffrey Payne,1,0,1
+Gray,4,Governor,,DEM,Jeffrey Payne,1,1,0
 Gray,4,Governor,,DEM,Lupe Valdez,2,1,1
 Gray,4,Governor,,DEM,James Jolly Clark,0,0,0
 Gray,4,Governor,,DEM,Adrian Ocegueda,0,0,0
 Gray,4,Governor,,DEM,Over Votes,0,0,0
-Gray,4,Governor,,DEM,Under Votes,1,0,1
-Gray,4,Lieutenant Governor,,DEM,Mike Collier,5,1,4
-Gray,4,Lieutenant Governor,,DEM,Michael Cooper,3,0,3
+Gray,4,Governor,,DEM,Under Votes,1,1,0
+Gray,4,Lieutenant Governor,,DEM,Mike Collier,5,4,1
+Gray,4,Lieutenant Governor,,DEM,Michael Cooper,3,3,0
 Gray,4,Lieutenant Governor,,DEM,Over Votes,0,0,0
-Gray,4,Lieutenant Governor,,DEM,Under Votes,1,0,1
-Gray,4,Attorney General,,DEM,Justin Nelson,8,1,7
+Gray,4,Lieutenant Governor,,DEM,Under Votes,1,1,0
+Gray,4,Attorney General,,DEM,Justin Nelson,8,7,1
 Gray,4,Attorney General,,DEM,Over Votes,0,0,0
-Gray,4,Attorney General,,DEM,Under Votes,1,0,1
-Gray,4,Comptroller of Public Accounts,,DEM,Joi Chevalier,3,1,2
+Gray,4,Attorney General,,DEM,Under Votes,1,1,0
+Gray,4,Comptroller of Public Accounts,,DEM,Joi Chevalier,3,2,1
 Gray,4,Comptroller of Public Accounts,,DEM,Over Votes,0,0,0
-Gray,4,Comptroller of Public Accounts,,DEM,Under Votes,1,0,1
-Gray,4,Comptroller of Public Accounts,,DEM,Tim Mahoney,5,0,5
-Gray,4,Commissioner of the General Land Office,,DEM,Tex Morgan,6,1,5
-Gray,4,Commissioner of the General Land Office,,DEM,Miguel Suazo,2,0,2
+Gray,4,Comptroller of Public Accounts,,DEM,Under Votes,1,1,0
+Gray,4,Comptroller of Public Accounts,,DEM,Tim Mahoney,5,5,0
+Gray,4,Commissioner of the General Land Office,,DEM,Tex Morgan,6,5,1
+Gray,4,Commissioner of the General Land Office,,DEM,Miguel Suazo,2,2,0
 Gray,4,Commissioner of the General Land Office,,DEM,Over Votes,0,0,0
-Gray,4,Commissioner of the General Land Office,,DEM,Under Votes,1,0,1
-Gray,4,Commissioner of Agriculture,,DEM,Kim Olson,8,1,7
+Gray,4,Commissioner of the General Land Office,,DEM,Under Votes,1,1,0
+Gray,4,Commissioner of Agriculture,,DEM,Kim Olson,8,7,1
 Gray,4,Commissioner of Agriculture,,DEM,Over Votes,0,0,0
-Gray,4,Commissioner of Agriculture,,DEM,Under Votes,1,0,1
-Gray,4,Railroad Commissioner,,DEM,Chris Spellmon,6,0,6
+Gray,4,Commissioner of Agriculture,,DEM,Under Votes,1,1,0
+Gray,4,Railroad Commissioner,,DEM,Chris Spellmon,6,6,0
 Gray,4,Railroad Commissioner,,DEM,Over Votes,0,0,0
-Gray,4,Railroad Commissioner,,DEM,Under Votes,1,0,1
+Gray,4,Railroad Commissioner,,DEM,Under Votes,1,1,0
 Gray,4,Railroad Commissioner,,DEM,Roman McAllen,2,1,1
-Gray,4,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,8,1,7
+Gray,4,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,8,7,1
 Gray,4,"Justice, Supreme Court, Place 2",,DEM,Over Votes,0,0,0
-Gray,4,"Justice, Supreme Court, Place 2",,DEM,Under Votes,1,0,1
-Gray,4,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,8,1,7
+Gray,4,"Justice, Supreme Court, Place 2",,DEM,Under Votes,1,1,0
+Gray,4,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,8,7,1
 Gray,4,"Justice, Supreme Court, Place 4",,DEM,Over Votes,0,0,0
-Gray,4,"Justice, Supreme Court, Place 4",,DEM,Under Votes,1,0,1
-Gray,4,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,8,1,7
+Gray,4,"Justice, Supreme Court, Place 4",,DEM,Under Votes,1,1,0
+Gray,4,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,8,7,1
 Gray,4,"Justice, Supreme Court, Place 6",,DEM,Over Votes,0,0,0
-Gray,4,"Justice, Supreme Court, Place 6",,DEM,Under Votes,1,0,1
-Gray,4,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,8,1,7
+Gray,4,"Justice, Supreme Court, Place 6",,DEM,Under Votes,1,1,0
+Gray,4,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,8,7,1
 Gray,4,"Presiding Judge, Court of Criminal Appeals",,DEM,Over Votes,0,0,0
-Gray,4,"Presiding Judge, Court of Criminal Appeals",,DEM,Under Votes,1,0,1
-Gray,4,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,8,1,7
+Gray,4,"Presiding Judge, Court of Criminal Appeals",,DEM,Under Votes,1,1,0
+Gray,4,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,8,7,1
 Gray,4,"Judge, Court of Criminal Appeals, Place 7",,DEM,Over Votes,0,0,0
-Gray,4,"Judge, Court of Criminal Appeals, Place 7",,DEM,Under Votes,1,0,1
-Gray,4,State Representative,88,DEM,Ezekiel Barron,8,1,7
+Gray,4,"Judge, Court of Criminal Appeals, Place 7",,DEM,Under Votes,1,1,0
+Gray,4,State Representative,88,DEM,Ezekiel Barron,8,7,1
 Gray,4,State Representative,88,DEM,Over Votes,0,0,0
-Gray,4,State Representative,88,DEM,Under Votes,1,0,1
-Gray,4,Proposition #1 Right to a 21st Century Public Education:,,,Yes,8,1,7
+Gray,4,State Representative,88,DEM,Under Votes,1,1,0
+Gray,4,Proposition #1 Right to a 21st Century Public Education:,,,Yes,8,7,1
 Gray,4,Proposition #1 Right to a 21st Century Public Education:,,,Over Votes,0,0,0
-Gray,4,Proposition #1 Right to a 21st Century Public Education:,,,Under Votes,1,0,1
+Gray,4,Proposition #1 Right to a 21st Century Public Education:,,,Under Votes,1,1,0
 Gray,4,Proposition #1 Right to a 21st Century Public Education:,,,No,0,0,0
-Gray,4,Proposition #2 Student Loan Debt:,,,Yes,8,1,7
+Gray,4,Proposition #2 Student Loan Debt:,,,Yes,8,7,1
 Gray,4,Proposition #2 Student Loan Debt:,,,Over Votes,0,0,0
-Gray,4,Proposition #2 Student Loan Debt:,,,Under Votes,1,0,1
+Gray,4,Proposition #2 Student Loan Debt:,,,Under Votes,1,1,0
 Gray,4,Proposition #2 Student Loan Debt:,,,No,0,0,0
-Gray,4,Proposition #3 Right to Healthcare:,,,Yes,7,1,6
+Gray,4,Proposition #3 Right to Healthcare:,,,Yes,7,6,1
 Gray,4,Proposition #3 Right to Healthcare:,,,Over Votes,0,0,0
-Gray,4,Proposition #3 Right to Healthcare:,,,Under Votes,1,0,1
-Gray,4,Proposition #3 Right to Healthcare:,,,No,1,0,1
-Gray,4,Proposition #4 Right to Economic Security:,,,Yes,8,1,7
+Gray,4,Proposition #3 Right to Healthcare:,,,Under Votes,1,1,0
+Gray,4,Proposition #3 Right to Healthcare:,,,No,1,1,0
+Gray,4,Proposition #4 Right to Economic Security:,,,Yes,8,7,1
 Gray,4,Proposition #4 Right to Economic Security:,,,Over Votes,0,0,0
-Gray,4,Proposition #4 Right to Economic Security:,,,Under Votes,1,0,1
+Gray,4,Proposition #4 Right to Economic Security:,,,Under Votes,1,1,0
 Gray,4,Proposition #4 Right to Economic Security:,,,No,0,0,0
-Gray,4,Proposition #5 National Jobs Program:,,,Yes,8,1,7
+Gray,4,Proposition #5 National Jobs Program:,,,Yes,8,7,1
 Gray,4,Proposition #5 National Jobs Program:,,,Over Votes,0,0,0
-Gray,4,Proposition #5 National Jobs Program:,,,Under Votes,1,0,1
+Gray,4,Proposition #5 National Jobs Program:,,,Under Votes,1,1,0
 Gray,4,Proposition #5 National Jobs Program:,,,No,0,0,0
-Gray,4,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,8,1,7
+Gray,4,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,8,7,1
 Gray,4,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Over Votes,0,0,0
-Gray,4,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Under Votes,1,0,1
+Gray,4,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Under Votes,1,1,0
 Gray,4,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,0,0,0
-Gray,4,Proposition #7 Right to Dignity & Respect:,,,Yes,8,1,7
+Gray,4,Proposition #7 Right to Dignity & Respect:,,,Yes,8,7,1
 Gray,4,Proposition #7 Right to Dignity & Respect:,,,Over Votes,0,0,0
-Gray,4,Proposition #7 Right to Dignity & Respect:,,,Under Votes,1,0,1
+Gray,4,Proposition #7 Right to Dignity & Respect:,,,Under Votes,1,1,0
 Gray,4,Proposition #7 Right to Dignity & Respect:,,,No,0,0,0
-Gray,4,Proposition #8 Right to Housing:,,,Yes,8,1,7
+Gray,4,Proposition #8 Right to Housing:,,,Yes,8,7,1
 Gray,4,Proposition #8 Right to Housing:,,,Over Votes,0,0,0
-Gray,4,Proposition #8 Right to Housing:,,,Under Votes,1,0,1
+Gray,4,Proposition #8 Right to Housing:,,,Under Votes,1,1,0
 Gray,4,Proposition #8 Right to Housing:,,,No,0,0,0
-Gray,4,Proposition #9 Right to Vote:,,,Yes,7,1,6
+Gray,4,Proposition #9 Right to Vote:,,,Yes,7,6,1
 Gray,4,Proposition #9 Right to Vote:,,,Over Votes,0,0,0
-Gray,4,Proposition #9 Right to Vote:,,,Under Votes,1,0,1
-Gray,4,Proposition #9 Right to Vote:,,,No,1,0,1
-Gray,4,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,7,1,6
+Gray,4,Proposition #9 Right to Vote:,,,Under Votes,1,1,0
+Gray,4,Proposition #9 Right to Vote:,,,No,1,1,0
+Gray,4,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,7,6,1
 Gray,4,Proposition #10 Right to a Fair Criminal Justice System:,,,Over Votes,0,0,0
-Gray,4,Proposition #10 Right to a Fair Criminal Justice System:,,,Under Votes,1,0,1
-Gray,4,Proposition #10 Right to a Fair Criminal Justice System:,,,No,1,0,1
-Gray,4,Proposition #11 Immigrant Rights:,,,Yes,6,1,5
+Gray,4,Proposition #10 Right to a Fair Criminal Justice System:,,,Under Votes,1,1,0
+Gray,4,Proposition #10 Right to a Fair Criminal Justice System:,,,No,1,1,0
+Gray,4,Proposition #11 Immigrant Rights:,,,Yes,6,5,1
 Gray,4,Proposition #11 Immigrant Rights:,,,Over Votes,0,0,0
-Gray,4,Proposition #11 Immigrant Rights:,,,Under Votes,1,0,1
-Gray,4,Proposition #11 Immigrant Rights:,,,No,2,0,2
-Gray,4,Proposition #12 Right to Fair Taxation:,,,Yes,8,1,7
+Gray,4,Proposition #11 Immigrant Rights:,,,Under Votes,1,1,0
+Gray,4,Proposition #11 Immigrant Rights:,,,No,2,2,0
+Gray,4,Proposition #12 Right to Fair Taxation:,,,Yes,8,7,1
 Gray,4,Proposition #12 Right to Fair Taxation:,,,Over Votes,0,0,0
-Gray,4,Proposition #12 Right to Fair Taxation:,,,Under Votes,1,0,1
+Gray,4,Proposition #12 Right to Fair Taxation:,,,Under Votes,1,1,0
 Gray,4,Proposition #12 Right to Fair Taxation:,,,No,0,0,0
-Gray,4,Proposition 1,,,YES,87,6,81
+Gray,4,Proposition 1,,,YES,87,81,6
 Gray,4,Proposition 1,,,Over Votes,0,0,0
-Gray,4,Proposition 1,,,Under Votes,15,1,14
-Gray,4,Proposition 1,,,NO,58,10,48
-Gray,4,Proposition 2,,,YES,140,13,127
+Gray,4,Proposition 1,,,Under Votes,15,14,1
+Gray,4,Proposition 1,,,NO,58,48,10
+Gray,4,Proposition 2,,,YES,140,127,13
 Gray,4,Proposition 2,,,Over Votes,0,0,0
-Gray,4,Proposition 2,,,Under Votes,9,1,8
-Gray,4,Proposition 2,,,NO,11,3,8
-Gray,4,Proposition 3,,,YES,135,14,121
+Gray,4,Proposition 2,,,Under Votes,9,8,1
+Gray,4,Proposition 2,,,NO,11,8,3
+Gray,4,Proposition 3,,,YES,135,121,14
 Gray,4,Proposition 3,,,Over Votes,0,0,0
-Gray,4,Proposition 3,,,Under Votes,9,0,9
-Gray,4,Proposition 3,,,NO,16,3,13
-Gray,4,Proposition 4,,,YES,143,17,126
+Gray,4,Proposition 3,,,Under Votes,9,9,0
+Gray,4,Proposition 3,,,NO,16,13,3
+Gray,4,Proposition 4,,,YES,143,126,17
 Gray,4,Proposition 4,,,Over Votes,0,0,0
-Gray,4,Proposition 4,,,Under Votes,7,0,7
-Gray,4,Proposition 4,,,NO,10,0,10
-Gray,4,Proposition 5,,,YES,117,14,103
+Gray,4,Proposition 4,,,Under Votes,7,7,0
+Gray,4,Proposition 4,,,NO,10,10,0
+Gray,4,Proposition 5,,,YES,117,103,14
 Gray,4,Proposition 5,,,Over Votes,0,0,0
-Gray,4,Proposition 5,,,Under Votes,8,0,8
-Gray,4,Proposition 5,,,NO,35,3,32
-Gray,4,Proposition 6,,,YES,148,17,131
+Gray,4,Proposition 5,,,Under Votes,8,8,0
+Gray,4,Proposition 5,,,NO,35,32,3
+Gray,4,Proposition 6,,,YES,148,131,17
 Gray,4,Proposition 6,,,Over Votes,0,0,0
-Gray,4,Proposition 6,,,Under Votes,6,0,6
-Gray,4,Proposition 6,,,NO,6,0,6
-Gray,4,Proposition 7,,,YES,118,15,103
+Gray,4,Proposition 6,,,Under Votes,6,6,0
+Gray,4,Proposition 6,,,NO,6,6,0
+Gray,4,Proposition 7,,,YES,118,103,15
 Gray,4,Proposition 7,,,Over Votes,0,0,0
-Gray,4,Proposition 7,,,Under Votes,11,1,10
-Gray,4,Proposition 7,,,NO,31,1,30
-Gray,4,Proposition 8,,,YES,152,17,135
+Gray,4,Proposition 7,,,Under Votes,11,10,1
+Gray,4,Proposition 7,,,NO,31,30,1
+Gray,4,Proposition 8,,,YES,152,135,17
 Gray,4,Proposition 8,,,Over Votes,0,0,0
-Gray,4,Proposition 8,,,Under Votes,4,0,4
-Gray,4,Proposition 8,,,NO,4,0,4
-Gray,4,Proposition 9,,,YES,141,17,124
+Gray,4,Proposition 8,,,Under Votes,4,4,0
+Gray,4,Proposition 8,,,NO,4,4,0
+Gray,4,Proposition 9,,,YES,141,124,17
 Gray,4,Proposition 9,,,Over Votes,0,0,0
-Gray,4,Proposition 9,,,Under Votes,8,0,8
-Gray,4,Proposition 9,,,NO,11,0,11
-Gray,4,Proposition 10,,,YES,141,16,125
+Gray,4,Proposition 9,,,Under Votes,8,8,0
+Gray,4,Proposition 9,,,NO,11,11,0
+Gray,4,Proposition 10,,,YES,141,125,16
 Gray,4,Proposition 10,,,Over Votes,0,0,0
-Gray,4,Proposition 10,,,Under Votes,9,0,9
-Gray,4,Proposition 10,,,NO,10,1,9
-Gray,4,Proposition 11,,,YES,127,16,111
+Gray,4,Proposition 10,,,Under Votes,9,9,0
+Gray,4,Proposition 10,,,NO,10,9,1
+Gray,4,Proposition 11,,,YES,127,111,16
 Gray,4,Proposition 11,,,Over Votes,0,0,0
-Gray,4,Proposition 11,,,Under Votes,7,0,7
-Gray,4,Proposition 11,,,NO,26,1,25
-Gray,5,U.S. Senate,,REP,Stefano de Stefano,17,10,7
-Gray,5,U.S. Senate,,REP,Ted Cruz,733,456,277
+Gray,4,Proposition 11,,,Under Votes,7,7,0
+Gray,4,Proposition 11,,,NO,26,25,1
+Gray,5,U.S. Senate,,REP,Stefano de Stefano,17,7,10
+Gray,5,U.S. Senate,,REP,Ted Cruz,733,277,456
 Gray,5,U.S. Senate,,REP,Over Votes,0,0,0
-Gray,5,U.S. Senate,,REP,Under Votes,18,6,12
+Gray,5,U.S. Senate,,REP,Under Votes,18,12,6
 Gray,5,Registered Voters,,REP,,3132,,
-Gray,5,Ballots Cast,,REP,,871,546,3
-Gray,5,U.S. Senate,,REP,Geraldine Sam,20,17,3
+Gray,5,Ballots Cast,,REP,,871,3,546
+Gray,5,U.S. Senate,,REP,Geraldine Sam,20,3,17
 Gray,5,U.S. Senate,,REP,Over Votes,0,0,0
-Gray,5,U.S. Senate,,REP,Under Votes,18,6,12
-Gray,5,U.S. Senate,,REP,"Bruce Jacobson, Jr.",34,25,9
-Gray,5,U.S. Senate,,REP,Mary Miller,26,19,7
-Gray,5,U.S. House,13,REP,Mac Thornberry,732,454,278
+Gray,5,U.S. Senate,,REP,Under Votes,18,12,6
+Gray,5,U.S. Senate,,REP,"Bruce Jacobson, Jr.",34,9,25
+Gray,5,U.S. Senate,,REP,Mary Miller,26,7,19
+Gray,5,U.S. House,13,REP,Mac Thornberry,732,278,454
 Gray,5,U.S. House,13,REP,Over Votes,0,0,0
-Gray,5,U.S. House,13,REP,Under Votes,116,79,37
-Gray,5,Governor,,REP,SECEDE Kilgore,24,16,8
-Gray,5,Governor,,REP,Greg Abbott,755,477,278
-Gray,5,Governor,,REP,Barbara Krueger,44,27,17
-Gray,5,Lieutenant Governor,,REP,Dan Patrick,620,391,229
-Gray,5,Lieutenant Governor,,REP,Scott Milder,189,124,65
+Gray,5,U.S. House,13,REP,Under Votes,116,37,79
+Gray,5,Governor,,REP,SECEDE Kilgore,24,8,16
+Gray,5,Governor,,REP,Greg Abbott,755,278,477
+Gray,5,Governor,,REP,Barbara Krueger,44,17,27
+Gray,5,Lieutenant Governor,,REP,Dan Patrick,620,229,391
+Gray,5,Lieutenant Governor,,REP,Scott Milder,189,65,124
 Gray,5,Lieutenant Governor,,REP,Over Votes,0,0,0
-Gray,5,Lieutenant Governor,,REP,Under Votes,39,18,21
-Gray,5,Attorney General,,REP,Ken Paxton,735,465,270
-Gray,5,Comptroller of Public Accounts,,REP,Glenn Hegar,717,455,262
+Gray,5,Lieutenant Governor,,REP,Under Votes,39,21,18
+Gray,5,Attorney General,,REP,Ken Paxton,735,270,465
+Gray,5,Comptroller of Public Accounts,,REP,Glenn Hegar,717,262,455
 Gray,5,Comptroller of Public Accounts,,REP,Over Votes,0,0,0
-Gray,5,Comptroller of Public Accounts,,REP,Under Votes,131,78,53
-Gray,5,Commissioner of the General Land Office,,REP,Rick Range,99,66,33
-Gray,5,Commissioner of the General Land Office,,REP,Jerry Patterson,136,76,60
-Gray,5,Commissioner of the General Land Office,,REP,Davey Edwards,57,38,19
+Gray,5,Comptroller of Public Accounts,,REP,Under Votes,131,53,78
+Gray,5,Commissioner of the General Land Office,,REP,Rick Range,99,33,66
+Gray,5,Commissioner of the General Land Office,,REP,Jerry Patterson,136,60,76
+Gray,5,Commissioner of the General Land Office,,REP,Davey Edwards,57,19,38
 Gray,5,Commissioner of the General Land Office,,REP,Over Votes,0,0,0
-Gray,5,Commissioner of the General Land Office,,REP,Under Votes,81,48,33
-Gray,5,Commissioner of the General Land Office,,REP,George P. Bush,475,305,170
-Gray,5,Commissioner of Agriculture,,REP,Jim Hogan,218,133,85
-Gray,5,Commissioner of Agriculture,,REP,Trey Blocker,150,88,62
-Gray,5,Commissioner of Agriculture,,REP,Sid Miller,352,234,118
-Gray,5,Railroad Commissioner,,REP,Weston Martinez,272,163,109
-Gray,5,Railroad Commissioner,,REP,Christi Craddick,456,296,160
+Gray,5,Commissioner of the General Land Office,,REP,Under Votes,81,33,48
+Gray,5,Commissioner of the General Land Office,,REP,George P. Bush,475,170,305
+Gray,5,Commissioner of Agriculture,,REP,Jim Hogan,218,85,133
+Gray,5,Commissioner of Agriculture,,REP,Trey Blocker,150,62,88
+Gray,5,Commissioner of Agriculture,,REP,Sid Miller,352,118,234
+Gray,5,Railroad Commissioner,,REP,Weston Martinez,272,109,163
+Gray,5,Railroad Commissioner,,REP,Christi Craddick,456,160,296
 Gray,5,Railroad Commissioner,,REP,Over Votes,0,0,0
-Gray,5,Railroad Commissioner,,REP,Under Votes,120,74,46
-Gray,5,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,679,433,246
+Gray,5,Railroad Commissioner,,REP,Under Votes,120,46,74
+Gray,5,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,679,246,433
 Gray,5,"Justice, Supreme Court, Place 2",,REP,Over Votes,0,0,0
-Gray,5,"Justice, Supreme Court, Place 2",,REP,Under Votes,169,100,69
-Gray,5,"Justice, Supreme Court, Place 4",,REP,John Devine,680,431,249
+Gray,5,"Justice, Supreme Court, Place 2",,REP,Under Votes,169,69,100
+Gray,5,"Justice, Supreme Court, Place 4",,REP,John Devine,680,249,431
 Gray,5,"Justice, Supreme Court, Place 4",,REP,Over Votes,0,0,0
-Gray,5,"Justice, Supreme Court, Place 4",,REP,Under Votes,168,102,66
-Gray,5,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,677,428,249
+Gray,5,"Justice, Supreme Court, Place 4",,REP,Under Votes,168,66,102
+Gray,5,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,677,249,428
 Gray,5,"Justice, Supreme Court, Place 6",,REP,Over Votes,0,0,0
-Gray,5,"Justice, Supreme Court, Place 6",,REP,Under Votes,171,105,66
-Gray,5,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,335,220,115
-Gray,5,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,361,220,141
+Gray,5,"Justice, Supreme Court, Place 6",,REP,Under Votes,171,66,105
+Gray,5,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,335,115,220
+Gray,5,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,361,141,220
 Gray,5,"Presiding Judge, Court of Criminal Appeals",,REP,Over Votes,0,0,0
-Gray,5,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,152,93,59
-Gray,5,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,659,417,242
+Gray,5,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,152,59,93
+Gray,5,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,659,242,417
 Gray,5,"Judge, Court of Criminal Appeals, Place 7",,REP,Over Votes,0,0,0
-Gray,5,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,189,116,73
-Gray,5,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,152,86,66
+Gray,5,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,189,73,116
+Gray,5,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,152,66,86
 Gray,5,"Judge, Court of Criminal Appeals, Place 8",,REP,Over Votes,0,0,0
-Gray,5,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,169,106,63
-Gray,5,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,283,189,94
-Gray,5,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,244,152,92
-Gray,5,State Senator,31,REP,Victor Leal,229,144,85
-Gray,5,State Senator,31,REP,Kel Seliger,418,264,154
+Gray,5,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,169,63,106
+Gray,5,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,283,94,189
+Gray,5,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,244,92,152
+Gray,5,State Senator,31,REP,Victor Leal,229,85,144
+Gray,5,State Senator,31,REP,Kel Seliger,418,154,264
 Gray,5,State Senator,31,REP,Over Votes,0,0,0
 Gray,5,State Senator,31,REP,Under Votes,16,8,8
-Gray,5,State Senator,31,REP,Mike Canon,185,117,68
-Gray,5,State Representative,88,REP,Ken King,367,224,143
-Gray,5,State Representative,88,REP,Richard Beyea,175,117,58
-Gray,5,State Representative,88,REP,Jason Huddleston,297,188,109
+Gray,5,State Senator,31,REP,Mike Canon,185,68,117
+Gray,5,State Representative,88,REP,Ken King,367,143,224
+Gray,5,State Representative,88,REP,Richard Beyea,175,58,117
+Gray,5,State Representative,88,REP,Jason Huddleston,297,109,188
 Gray,5,State Representative,88,REP,Over Votes,0,0,0
-Gray,5,State Representative,88,REP,Under Votes,9,4,5
-Gray,5,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,677,425,252
+Gray,5,State Representative,88,REP,Under Votes,9,5,4
+Gray,5,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,677,252,425
 Gray,5,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Over Votes,0,0,0
-Gray,5,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Under Votes,171,108,63
-Gray,5,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,670,422,248
+Gray,5,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Under Votes,171,63,108
+Gray,5,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,670,248,422
 Gray,5,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Over Votes,0,0,0
-Gray,5,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Under Votes,178,111,67
-Gray,5,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,713,455,258
+Gray,5,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Under Votes,178,67,111
+Gray,5,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,713,258,455
 Gray,5,"District Judge, 31st Judicial District",,REP,Over Votes,0,0,0
-Gray,5,"District Judge, 31st Judicial District",,REP,Under Votes,135,78,57
-Gray,5,"District Judge, 223rd Judicial District",,REP,Phil N Vanderpool,723,458,265
+Gray,5,"District Judge, 31st Judicial District",,REP,Under Votes,135,57,78
+Gray,5,"District Judge, 223rd Judicial District",,REP,Phil N Vanderpool,723,265,458
 Gray,5,"District Judge, 223rd Judicial District",,REP,Over Votes,0,0,0
-Gray,5,"District Judge, 223rd Judicial District",,REP,Under Votes,125,75,50
-Gray,5,County Judge,,REP,Richard Peet,372,241,131
-Gray,5,County Judge,,REP,Chris Porter,457,284,173
+Gray,5,"District Judge, 223rd Judicial District",,REP,Under Votes,125,50,75
+Gray,5,County Judge,,REP,Richard Peet,372,131,241
+Gray,5,County Judge,,REP,Chris Porter,457,173,284
 Gray,5,County Judge,,REP,Over Votes,0,0,0
-Gray,5,County Judge,,REP,Under Votes,19,8,11
-Gray,5,District Clerk,,REP,Jo Mays,716,455,261
+Gray,5,County Judge,,REP,Under Votes,19,11,8
+Gray,5,District Clerk,,REP,Jo Mays,716,261,455
 Gray,5,District Clerk,,REP,Over Votes,0,0,0
-Gray,5,District Clerk,,REP,Under Votes,132,78,54
-Gray,5,County Clerk,,REP,Jeanne Horton,717,450,267
+Gray,5,District Clerk,,REP,Under Votes,132,54,78
+Gray,5,County Clerk,,REP,Jeanne Horton,717,267,450
 Gray,5,County Clerk,,REP,Over Votes,0,0,0
-Gray,5,County Clerk,,REP,Under Votes,131,83,48
-Gray,5,County Treasurer,,REP,Scott Hahn,716,454,262
+Gray,5,County Clerk,,REP,Under Votes,131,48,83
+Gray,5,County Treasurer,,REP,Scott Hahn,716,262,454
 Gray,5,County Treasurer,,REP,Over Votes,0,0,0
-Gray,5,County Treasurer,,REP,Under Votes,132,79,53
-Gray,5,"Justice of the Peace, Precinct No. 1 and Precinct No. 3",,REP,Joe Patrick Martinez,740,466,274
+Gray,5,County Treasurer,,REP,Under Votes,132,53,79
+Gray,5,"Justice of the Peace, Precinct No. 1 and Precinct No. 3",,REP,Joe Patrick Martinez,740,274,466
 Gray,5,"Justice of the Peace, Precinct No. 1 and Precinct No. 3",,REP,Over Votes,0,0,0
-Gray,5,"Justice of the Peace, Precinct No. 1 and Precinct No. 3",,REP,Under Votes,108,67,41
+Gray,5,"Justice of the Peace, Precinct No. 1 and Precinct No. 3",,REP,Under Votes,108,41,67
 Gray,5,U.S. Senate,,DEM,Over Votes,0,0,0
-Gray,5,U.S. Senate,,DEM,Under Votes,1,1,0
+Gray,5,U.S. Senate,,DEM,Under Votes,1,0,1
 Gray,5,Registered Voters,,DEM,,3132,,
-Gray,5,Ballots Cast,,DEM,,871,546,6
-Gray,5,U.S. Senate,,DEM,Beto O'Rourke,10,4,6
+Gray,5,Ballots Cast,,DEM,,871,6,546
+Gray,5,U.S. Senate,,DEM,Beto O'Rourke,10,6,4
 Gray,5,U.S. Senate,,DEM,Over Votes,0,0,0
-Gray,5,U.S. Senate,,DEM,Under Votes,1,1,0
-Gray,5,U.S. Senate,,DEM,Edward Kimbrough,5,5,0
-Gray,5,U.S. Senate,,DEM,Sema Hernandez,7,3,4
-Gray,5,U.S. House,13,DEM,Greg Sagan,21,11,10
+Gray,5,U.S. Senate,,DEM,Under Votes,1,0,1
+Gray,5,U.S. Senate,,DEM,Edward Kimbrough,5,0,5
+Gray,5,U.S. Senate,,DEM,Sema Hernandez,7,4,3
+Gray,5,U.S. House,13,DEM,Greg Sagan,21,10,11
 Gray,5,U.S. House,13,DEM,Over Votes,0,0,0
-Gray,5,U.S. House,13,DEM,Under Votes,2,2,0
-Gray,5,Governor,,DEM,Tom Wakely,3,1,2
-Gray,5,Governor,,DEM,Grady Yarbrough,7,6,1
+Gray,5,U.S. House,13,DEM,Under Votes,2,0,2
+Gray,5,Governor,,DEM,Tom Wakely,3,2,1
+Gray,5,Governor,,DEM,Grady Yarbrough,7,1,6
 Gray,5,Governor,,DEM,Andrew White,4,2,2
-Gray,5,Governor,,DEM,"Cedric Davis, Sr.",1,1,0
-Gray,5,Governor,,DEM,Joe Mumbach,1,0,1
+Gray,5,Governor,,DEM,"Cedric Davis, Sr.",1,0,1
+Gray,5,Governor,,DEM,Joe Mumbach,1,1,0
 Gray,5,Governor,,DEM,Jeffrey Payne,0,0,0
-Gray,5,Governor,,DEM,Lupe Valdez,5,2,3
+Gray,5,Governor,,DEM,Lupe Valdez,5,3,2
 Gray,5,Governor,,DEM,James Jolly Clark,0,0,0
 Gray,5,Governor,,DEM,Adrian Ocegueda,0,0,0
 Gray,5,Governor,,DEM,Over Votes,0,0,0
 Gray,5,Governor,,DEM,Under Votes,2,1,1
-Gray,5,Lieutenant Governor,,DEM,Mike Collier,7,1,6
-Gray,5,Lieutenant Governor,,DEM,Michael Cooper,13,10,3
+Gray,5,Lieutenant Governor,,DEM,Mike Collier,7,6,1
+Gray,5,Lieutenant Governor,,DEM,Michael Cooper,13,3,10
 Gray,5,Lieutenant Governor,,DEM,Over Votes,0,0,0
-Gray,5,Lieutenant Governor,,DEM,Under Votes,3,2,1
-Gray,5,Attorney General,,DEM,Justin Nelson,21,11,10
+Gray,5,Lieutenant Governor,,DEM,Under Votes,3,1,2
+Gray,5,Attorney General,,DEM,Justin Nelson,21,10,11
 Gray,5,Attorney General,,DEM,Over Votes,0,0,0
-Gray,5,Attorney General,,DEM,Under Votes,2,2,0
-Gray,5,Comptroller of Public Accounts,,DEM,Joi Chevalier,10,7,3
+Gray,5,Attorney General,,DEM,Under Votes,2,0,2
+Gray,5,Comptroller of Public Accounts,,DEM,Joi Chevalier,10,3,7
 Gray,5,Comptroller of Public Accounts,,DEM,Over Votes,0,0,0
 Gray,5,Comptroller of Public Accounts,,DEM,Under Votes,2,1,1
-Gray,5,Comptroller of Public Accounts,,DEM,Tim Mahoney,11,5,6
-Gray,5,Commissioner of the General Land Office,,DEM,Tex Morgan,12,8,4
-Gray,5,Commissioner of the General Land Office,,DEM,Miguel Suazo,9,4,5
+Gray,5,Comptroller of Public Accounts,,DEM,Tim Mahoney,11,6,5
+Gray,5,Commissioner of the General Land Office,,DEM,Tex Morgan,12,4,8
+Gray,5,Commissioner of the General Land Office,,DEM,Miguel Suazo,9,5,4
 Gray,5,Commissioner of the General Land Office,,DEM,Over Votes,0,0,0
 Gray,5,Commissioner of the General Land Office,,DEM,Under Votes,2,1,1
-Gray,5,Commissioner of Agriculture,,DEM,Kim Olson,20,11,9
+Gray,5,Commissioner of Agriculture,,DEM,Kim Olson,20,9,11
 Gray,5,Commissioner of Agriculture,,DEM,Over Votes,0,0,0
-Gray,5,Commissioner of Agriculture,,DEM,Under Votes,3,2,1
-Gray,5,Railroad Commissioner,,DEM,Chris Spellmon,11,7,4
+Gray,5,Commissioner of Agriculture,,DEM,Under Votes,3,1,2
+Gray,5,Railroad Commissioner,,DEM,Chris Spellmon,11,4,7
 Gray,5,Railroad Commissioner,,DEM,Over Votes,0,0,0
 Gray,5,Railroad Commissioner,,DEM,Under Votes,2,1,1
 Gray,5,Railroad Commissioner,,DEM,Roman McAllen,10,5,5
-Gray,5,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,21,12,9
+Gray,5,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,21,9,12
 Gray,5,"Justice, Supreme Court, Place 2",,DEM,Over Votes,0,0,0
 Gray,5,"Justice, Supreme Court, Place 2",,DEM,Under Votes,2,1,1
-Gray,5,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,21,12,9
+Gray,5,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,21,9,12
 Gray,5,"Justice, Supreme Court, Place 4",,DEM,Over Votes,0,0,0
 Gray,5,"Justice, Supreme Court, Place 4",,DEM,Under Votes,2,1,1
-Gray,5,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,21,12,9
+Gray,5,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,21,9,12
 Gray,5,"Justice, Supreme Court, Place 6",,DEM,Over Votes,0,0,0
 Gray,5,"Justice, Supreme Court, Place 6",,DEM,Under Votes,2,1,1
-Gray,5,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,20,11,9
+Gray,5,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,20,9,11
 Gray,5,"Presiding Judge, Court of Criminal Appeals",,DEM,Over Votes,0,0,0
-Gray,5,"Presiding Judge, Court of Criminal Appeals",,DEM,Under Votes,3,2,1
-Gray,5,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,20,11,9
+Gray,5,"Presiding Judge, Court of Criminal Appeals",,DEM,Under Votes,3,1,2
+Gray,5,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,20,9,11
 Gray,5,"Judge, Court of Criminal Appeals, Place 7",,DEM,Over Votes,0,0,0
-Gray,5,"Judge, Court of Criminal Appeals, Place 7",,DEM,Under Votes,3,2,1
-Gray,5,State Representative,88,DEM,Ezekiel Barron,20,11,9
+Gray,5,"Judge, Court of Criminal Appeals, Place 7",,DEM,Under Votes,3,1,2
+Gray,5,State Representative,88,DEM,Ezekiel Barron,20,9,11
 Gray,5,State Representative,88,DEM,Over Votes,0,0,0
-Gray,5,State Representative,88,DEM,Under Votes,3,2,1
-Gray,5,Proposition #1 Right to a 21st Century Public Education:,,,Yes,20,12,8
+Gray,5,State Representative,88,DEM,Under Votes,3,1,2
+Gray,5,Proposition #1 Right to a 21st Century Public Education:,,,Yes,20,8,12
 Gray,5,Proposition #1 Right to a 21st Century Public Education:,,,Over Votes,0,0,0
-Gray,5,Proposition #1 Right to a 21st Century Public Education:,,,Under Votes,1,0,1
+Gray,5,Proposition #1 Right to a 21st Century Public Education:,,,Under Votes,1,1,0
 Gray,5,Proposition #1 Right to a 21st Century Public Education:,,,No,2,1,1
-Gray,5,Proposition #2 Student Loan Debt:,,,Yes,21,12,9
+Gray,5,Proposition #2 Student Loan Debt:,,,Yes,21,9,12
 Gray,5,Proposition #2 Student Loan Debt:,,,Over Votes,0,0,0
-Gray,5,Proposition #2 Student Loan Debt:,,,Under Votes,1,0,1
-Gray,5,Proposition #2 Student Loan Debt:,,,No,1,1,0
-Gray,5,Proposition #3 Right to Healthcare:,,,Yes,18,11,7
+Gray,5,Proposition #2 Student Loan Debt:,,,Under Votes,1,1,0
+Gray,5,Proposition #2 Student Loan Debt:,,,No,1,0,1
+Gray,5,Proposition #3 Right to Healthcare:,,,Yes,18,7,11
 Gray,5,Proposition #3 Right to Healthcare:,,,Over Votes,0,0,0
-Gray,5,Proposition #3 Right to Healthcare:,,,Under Votes,2,0,2
-Gray,5,Proposition #3 Right to Healthcare:,,,No,3,2,1
-Gray,5,Proposition #4 Right to Economic Security:,,,Yes,22,13,9
+Gray,5,Proposition #3 Right to Healthcare:,,,Under Votes,2,2,0
+Gray,5,Proposition #3 Right to Healthcare:,,,No,3,1,2
+Gray,5,Proposition #4 Right to Economic Security:,,,Yes,22,9,13
 Gray,5,Proposition #4 Right to Economic Security:,,,Over Votes,0,0,0
-Gray,5,Proposition #4 Right to Economic Security:,,,Under Votes,1,0,1
+Gray,5,Proposition #4 Right to Economic Security:,,,Under Votes,1,1,0
 Gray,5,Proposition #4 Right to Economic Security:,,,No,0,0,0
-Gray,5,Proposition #5 National Jobs Program:,,,Yes,20,12,8
+Gray,5,Proposition #5 National Jobs Program:,,,Yes,20,8,12
 Gray,5,Proposition #5 National Jobs Program:,,,Over Votes,0,0,0
-Gray,5,Proposition #5 National Jobs Program:,,,Under Votes,1,0,1
+Gray,5,Proposition #5 National Jobs Program:,,,Under Votes,1,1,0
 Gray,5,Proposition #5 National Jobs Program:,,,No,2,1,1
-Gray,5,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,22,13,9
+Gray,5,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,22,9,13
 Gray,5,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Over Votes,0,0,0
-Gray,5,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Under Votes,1,0,1
+Gray,5,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Under Votes,1,1,0
 Gray,5,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,0,0,0
-Gray,5,Proposition #7 Right to Dignity & Respect:,,,Yes,20,12,8
+Gray,5,Proposition #7 Right to Dignity & Respect:,,,Yes,20,8,12
 Gray,5,Proposition #7 Right to Dignity & Respect:,,,Over Votes,0,0,0
-Gray,5,Proposition #7 Right to Dignity & Respect:,,,Under Votes,1,0,1
+Gray,5,Proposition #7 Right to Dignity & Respect:,,,Under Votes,1,1,0
 Gray,5,Proposition #7 Right to Dignity & Respect:,,,No,2,1,1
-Gray,5,Proposition #8 Right to Housing:,,,Yes,22,13,9
+Gray,5,Proposition #8 Right to Housing:,,,Yes,22,9,13
 Gray,5,Proposition #8 Right to Housing:,,,Over Votes,0,0,0
-Gray,5,Proposition #8 Right to Housing:,,,Under Votes,1,0,1
+Gray,5,Proposition #8 Right to Housing:,,,Under Votes,1,1,0
 Gray,5,Proposition #8 Right to Housing:,,,No,0,0,0
-Gray,5,Proposition #9 Right to Vote:,,,Yes,21,13,8
+Gray,5,Proposition #9 Right to Vote:,,,Yes,21,8,13
 Gray,5,Proposition #9 Right to Vote:,,,Over Votes,0,0,0
-Gray,5,Proposition #9 Right to Vote:,,,Under Votes,1,0,1
-Gray,5,Proposition #9 Right to Vote:,,,No,1,0,1
-Gray,5,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,22,13,9
+Gray,5,Proposition #9 Right to Vote:,,,Under Votes,1,1,0
+Gray,5,Proposition #9 Right to Vote:,,,No,1,1,0
+Gray,5,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,22,9,13
 Gray,5,Proposition #10 Right to a Fair Criminal Justice System:,,,Over Votes,0,0,0
-Gray,5,Proposition #10 Right to a Fair Criminal Justice System:,,,Under Votes,1,0,1
+Gray,5,Proposition #10 Right to a Fair Criminal Justice System:,,,Under Votes,1,1,0
 Gray,5,Proposition #10 Right to a Fair Criminal Justice System:,,,No,0,0,0
-Gray,5,Proposition #11 Immigrant Rights:,,,Yes,21,13,8
+Gray,5,Proposition #11 Immigrant Rights:,,,Yes,21,8,13
 Gray,5,Proposition #11 Immigrant Rights:,,,Over Votes,0,0,0
-Gray,5,Proposition #11 Immigrant Rights:,,,Under Votes,1,0,1
-Gray,5,Proposition #11 Immigrant Rights:,,,No,1,0,1
-Gray,5,Proposition #12 Right to Fair Taxation:,,,Yes,22,13,9
+Gray,5,Proposition #11 Immigrant Rights:,,,Under Votes,1,1,0
+Gray,5,Proposition #11 Immigrant Rights:,,,No,1,1,0
+Gray,5,Proposition #12 Right to Fair Taxation:,,,Yes,22,9,13
 Gray,5,Proposition #12 Right to Fair Taxation:,,,Over Votes,0,0,0
-Gray,5,Proposition #12 Right to Fair Taxation:,,,Under Votes,1,0,1
+Gray,5,Proposition #12 Right to Fair Taxation:,,,Under Votes,1,1,0
 Gray,5,Proposition #12 Right to Fair Taxation:,,,No,0,0,0
-Gray,5,Proposition 1,,,YES,509,315,194
+Gray,5,Proposition 1,,,YES,509,194,315
 Gray,5,Proposition 1,,,Over Votes,0,0,0
-Gray,5,Proposition 1,,,Under Votes,70,43,27
-Gray,5,Proposition 1,,,NO,269,175,94
-Gray,5,Proposition 2,,,YES,750,480,270
+Gray,5,Proposition 1,,,Under Votes,70,27,43
+Gray,5,Proposition 1,,,NO,269,94,175
+Gray,5,Proposition 2,,,YES,750,270,480
 Gray,5,Proposition 2,,,Over Votes,0,0,0
-Gray,5,Proposition 2,,,Under Votes,35,19,16
-Gray,5,Proposition 2,,,NO,63,34,29
-Gray,5,Proposition 3,,,YES,704,447,257
+Gray,5,Proposition 2,,,Under Votes,35,16,19
+Gray,5,Proposition 2,,,NO,63,29,34
+Gray,5,Proposition 3,,,YES,704,257,447
 Gray,5,Proposition 3,,,Over Votes,0,0,0
-Gray,5,Proposition 3,,,Under Votes,46,24,22
-Gray,5,Proposition 3,,,NO,98,62,36
-Gray,5,Proposition 4,,,YES,744,468,276
+Gray,5,Proposition 3,,,Under Votes,46,22,24
+Gray,5,Proposition 3,,,NO,98,36,62
+Gray,5,Proposition 4,,,YES,744,276,468
 Gray,5,Proposition 4,,,Over Votes,0,0,0
-Gray,5,Proposition 4,,,Under Votes,39,23,16
-Gray,5,Proposition 4,,,NO,65,42,23
-Gray,5,Proposition 5,,,YES,596,370,226
+Gray,5,Proposition 4,,,Under Votes,39,16,23
+Gray,5,Proposition 4,,,NO,65,23,42
+Gray,5,Proposition 5,,,YES,596,226,370
 Gray,5,Proposition 5,,,Over Votes,0,0,0
-Gray,5,Proposition 5,,,Under Votes,33,19,14
-Gray,5,Proposition 5,,,NO,219,144,75
-Gray,5,Proposition 6,,,YES,791,503,288
+Gray,5,Proposition 5,,,Under Votes,33,14,19
+Gray,5,Proposition 5,,,NO,219,75,144
+Gray,5,Proposition 6,,,YES,791,288,503
 Gray,5,Proposition 6,,,Over Votes,0,0,0
-Gray,5,Proposition 6,,,Under Votes,25,12,13
-Gray,5,Proposition 6,,,NO,32,18,14
-Gray,5,Proposition 7,,,YES,626,385,241
+Gray,5,Proposition 6,,,Under Votes,25,13,12
+Gray,5,Proposition 6,,,NO,32,14,18
+Gray,5,Proposition 7,,,YES,626,241,385
 Gray,5,Proposition 7,,,Over Votes,0,0,0
-Gray,5,Proposition 7,,,Under Votes,36,21,15
-Gray,5,Proposition 7,,,NO,186,127,59
-Gray,5,Proposition 8,,,YES,801,512,289
+Gray,5,Proposition 7,,,Under Votes,36,15,21
+Gray,5,Proposition 7,,,NO,186,59,127
+Gray,5,Proposition 8,,,YES,801,289,512
 Gray,5,Proposition 8,,,Over Votes,0,0,0
-Gray,5,Proposition 8,,,Under Votes,23,9,14
+Gray,5,Proposition 8,,,Under Votes,23,14,9
 Gray,5,Proposition 8,,,NO,24,12,12
-Gray,5,Proposition 9,,,YES,760,481,279
+Gray,5,Proposition 9,,,YES,760,279,481
 Gray,5,Proposition 9,,,Over Votes,0,0,0
-Gray,5,Proposition 9,,,Under Votes,28,13,15
-Gray,5,Proposition 9,,,NO,60,39,21
-Gray,5,Proposition 10,,,YES,754,474,280
+Gray,5,Proposition 9,,,Under Votes,28,15,13
+Gray,5,Proposition 9,,,NO,60,21,39
+Gray,5,Proposition 10,,,YES,754,280,474
 Gray,5,Proposition 10,,,Over Votes,0,0,0
-Gray,5,Proposition 10,,,Under Votes,38,21,17
-Gray,5,Proposition 10,,,NO,56,38,18
-Gray,5,Proposition 11,,,YES,718,463,255
+Gray,5,Proposition 10,,,Under Votes,38,17,21
+Gray,5,Proposition 10,,,NO,56,18,38
+Gray,5,Proposition 11,,,YES,718,255,463
 Gray,5,Proposition 11,,,Over Votes,0,0,0
-Gray,5,Proposition 11,,,Under Votes,30,16,14
-Gray,5,Proposition 11,,,NO,100,54,46
-Gray,6,U.S. Senate,,REP,Stefano de Stefano,18,14,4
-Gray,6,U.S. Senate,,REP,Ted Cruz,787,483,304
+Gray,5,Proposition 11,,,Under Votes,30,14,16
+Gray,5,Proposition 11,,,NO,100,46,54
+Gray,6,U.S. Senate,,REP,Stefano de Stefano,18,4,14
+Gray,6,U.S. Senate,,REP,Ted Cruz,787,304,483
 Gray,6,U.S. Senate,,REP,Over Votes,0,0,0
-Gray,6,U.S. Senate,,REP,Under Votes,27,13,14
+Gray,6,U.S. Senate,,REP,Under Votes,27,14,13
 Gray,6,Registered Voters,,REP,,2788,,
-Gray,6,Ballots Cast,,REP,,926,569,3
-Gray,6,U.S. Senate,,REP,Geraldine Sam,11,8,3
+Gray,6,Ballots Cast,,REP,,926,3,569
+Gray,6,U.S. Senate,,REP,Geraldine Sam,11,3,8
 Gray,6,U.S. Senate,,REP,Over Votes,0,0,0
-Gray,6,U.S. Senate,,REP,Under Votes,27,13,14
-Gray,6,U.S. Senate,,REP,"Bruce Jacobson, Jr.",27,20,7
-Gray,6,U.S. Senate,,REP,Mary Miller,28,18,10
-Gray,6,U.S. House,13,REP,Mac Thornberry,785,478,307
+Gray,6,U.S. Senate,,REP,Under Votes,27,14,13
+Gray,6,U.S. Senate,,REP,"Bruce Jacobson, Jr.",27,7,20
+Gray,6,U.S. Senate,,REP,Mary Miller,28,10,18
+Gray,6,U.S. House,13,REP,Mac Thornberry,785,307,478
 Gray,6,U.S. House,13,REP,Over Votes,0,0,0
-Gray,6,U.S. House,13,REP,Under Votes,113,78,35
-Gray,6,Governor,,REP,SECEDE Kilgore,17,9,8
-Gray,6,Governor,,REP,Greg Abbott,802,497,305
-Gray,6,Governor,,REP,Barbara Krueger,54,36,18
-Gray,6,Lieutenant Governor,,REP,Dan Patrick,630,397,233
-Gray,6,Lieutenant Governor,,REP,Scott Milder,231,137,94
+Gray,6,U.S. House,13,REP,Under Votes,113,35,78
+Gray,6,Governor,,REP,SECEDE Kilgore,17,8,9
+Gray,6,Governor,,REP,Greg Abbott,802,305,497
+Gray,6,Governor,,REP,Barbara Krueger,54,18,36
+Gray,6,Lieutenant Governor,,REP,Dan Patrick,630,233,397
+Gray,6,Lieutenant Governor,,REP,Scott Milder,231,94,137
 Gray,6,Lieutenant Governor,,REP,Over Votes,0,0,0
-Gray,6,Lieutenant Governor,,REP,Under Votes,37,22,15
-Gray,6,Attorney General,,REP,Ken Paxton,779,482,297
-Gray,6,Comptroller of Public Accounts,,REP,Glenn Hegar,744,461,283
+Gray,6,Lieutenant Governor,,REP,Under Votes,37,15,22
+Gray,6,Attorney General,,REP,Ken Paxton,779,297,482
+Gray,6,Comptroller of Public Accounts,,REP,Glenn Hegar,744,283,461
 Gray,6,Comptroller of Public Accounts,,REP,Over Votes,0,0,0
-Gray,6,Comptroller of Public Accounts,,REP,Under Votes,154,95,59
-Gray,6,Commissioner of the General Land Office,,REP,Rick Range,67,42,25
-Gray,6,Commissioner of the General Land Office,,REP,Jerry Patterson,145,99,46
-Gray,6,Commissioner of the General Land Office,,REP,Davey Edwards,39,24,15
+Gray,6,Comptroller of Public Accounts,,REP,Under Votes,154,59,95
+Gray,6,Commissioner of the General Land Office,,REP,Rick Range,67,25,42
+Gray,6,Commissioner of the General Land Office,,REP,Jerry Patterson,145,46,99
+Gray,6,Commissioner of the General Land Office,,REP,Davey Edwards,39,15,24
 Gray,6,Commissioner of the General Land Office,,REP,Over Votes,0,0,0
-Gray,6,Commissioner of the General Land Office,,REP,Under Votes,82,51,31
-Gray,6,Commissioner of the General Land Office,,REP,George P. Bush,565,340,225
-Gray,6,Commissioner of Agriculture,,REP,Jim Hogan,256,152,104
-Gray,6,Commissioner of Agriculture,,REP,Trey Blocker,164,103,61
-Gray,6,Commissioner of Agriculture,,REP,Sid Miller,330,213,117
-Gray,6,Railroad Commissioner,,REP,Weston Martinez,257,147,110
-Gray,6,Railroad Commissioner,,REP,Christi Craddick,495,322,173
+Gray,6,Commissioner of the General Land Office,,REP,Under Votes,82,31,51
+Gray,6,Commissioner of the General Land Office,,REP,George P. Bush,565,225,340
+Gray,6,Commissioner of Agriculture,,REP,Jim Hogan,256,104,152
+Gray,6,Commissioner of Agriculture,,REP,Trey Blocker,164,61,103
+Gray,6,Commissioner of Agriculture,,REP,Sid Miller,330,117,213
+Gray,6,Railroad Commissioner,,REP,Weston Martinez,257,110,147
+Gray,6,Railroad Commissioner,,REP,Christi Craddick,495,173,322
 Gray,6,Railroad Commissioner,,REP,Over Votes,0,0,0
-Gray,6,Railroad Commissioner,,REP,Under Votes,146,87,59
-Gray,6,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,706,431,275
+Gray,6,Railroad Commissioner,,REP,Under Votes,146,59,87
+Gray,6,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,706,275,431
 Gray,6,"Justice, Supreme Court, Place 2",,REP,Over Votes,0,0,0
-Gray,6,"Justice, Supreme Court, Place 2",,REP,Under Votes,192,125,67
-Gray,6,"Justice, Supreme Court, Place 4",,REP,John Devine,710,435,275
+Gray,6,"Justice, Supreme Court, Place 2",,REP,Under Votes,192,67,125
+Gray,6,"Justice, Supreme Court, Place 4",,REP,John Devine,710,275,435
 Gray,6,"Justice, Supreme Court, Place 4",,REP,Over Votes,0,0,0
-Gray,6,"Justice, Supreme Court, Place 4",,REP,Under Votes,188,121,67
-Gray,6,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,711,436,275
+Gray,6,"Justice, Supreme Court, Place 4",,REP,Under Votes,188,67,121
+Gray,6,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,711,275,436
 Gray,6,"Justice, Supreme Court, Place 6",,REP,Over Votes,0,0,0
-Gray,6,"Justice, Supreme Court, Place 6",,REP,Under Votes,187,120,67
-Gray,6,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,388,241,147
-Gray,6,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,340,210,130
+Gray,6,"Justice, Supreme Court, Place 6",,REP,Under Votes,187,67,120
+Gray,6,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,388,147,241
+Gray,6,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,340,130,210
 Gray,6,"Presiding Judge, Court of Criminal Appeals",,REP,Over Votes,0,0,0
-Gray,6,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,170,105,65
-Gray,6,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,686,419,267
+Gray,6,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,170,65,105
+Gray,6,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,686,267,419
 Gray,6,"Judge, Court of Criminal Appeals, Place 7",,REP,Over Votes,0,0,0
-Gray,6,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,212,137,75
-Gray,6,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,172,106,66
+Gray,6,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,212,75,137
+Gray,6,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,172,66,106
 Gray,6,"Judge, Court of Criminal Appeals, Place 8",,REP,Over Votes,0,0,0
-Gray,6,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,193,117,76
-Gray,6,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,300,195,105
-Gray,6,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,233,138,95
-Gray,6,State Senator,31,REP,Victor Leal,232,142,90
-Gray,6,State Senator,31,REP,Kel Seliger,481,313,168
+Gray,6,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,193,76,117
+Gray,6,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,300,105,195
+Gray,6,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,233,95,138
+Gray,6,State Senator,31,REP,Victor Leal,232,90,142
+Gray,6,State Senator,31,REP,Kel Seliger,481,168,313
 Gray,6,State Senator,31,REP,Over Votes,0,0,0
-Gray,6,State Senator,31,REP,Under Votes,19,10,9
-Gray,6,State Senator,31,REP,Mike Canon,166,91,75
-Gray,6,State Representative,88,REP,Ken King,472,294,178
-Gray,6,State Representative,88,REP,Richard Beyea,181,119,62
-Gray,6,State Representative,88,REP,Jason Huddleston,229,133,96
+Gray,6,State Senator,31,REP,Under Votes,19,9,10
+Gray,6,State Senator,31,REP,Mike Canon,166,75,91
+Gray,6,State Representative,88,REP,Ken King,472,178,294
+Gray,6,State Representative,88,REP,Richard Beyea,181,62,119
+Gray,6,State Representative,88,REP,Jason Huddleston,229,96,133
 Gray,6,State Representative,88,REP,Over Votes,0,0,0
-Gray,6,State Representative,88,REP,Under Votes,16,10,6
-Gray,6,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,711,432,279
+Gray,6,State Representative,88,REP,Under Votes,16,6,10
+Gray,6,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,711,279,432
 Gray,6,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Over Votes,0,0,0
-Gray,6,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Under Votes,187,124,63
-Gray,6,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,678,417,261
+Gray,6,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Under Votes,187,63,124
+Gray,6,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,678,261,417
 Gray,6,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Over Votes,0,0,0
-Gray,6,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Under Votes,220,139,81
-Gray,6,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,745,458,287
+Gray,6,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Under Votes,220,81,139
+Gray,6,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,745,287,458
 Gray,6,"District Judge, 31st Judicial District",,REP,Over Votes,0,0,0
-Gray,6,"District Judge, 31st Judicial District",,REP,Under Votes,153,98,55
-Gray,6,"District Judge, 223rd Judicial District",,REP,Phil N Vanderpool,751,459,292
+Gray,6,"District Judge, 31st Judicial District",,REP,Under Votes,153,55,98
+Gray,6,"District Judge, 223rd Judicial District",,REP,Phil N Vanderpool,751,292,459
 Gray,6,"District Judge, 223rd Judicial District",,REP,Over Votes,0,0,0
-Gray,6,"District Judge, 223rd Judicial District",,REP,Under Votes,147,97,50
-Gray,6,County Judge,,REP,Richard Peet,344,213,131
-Gray,6,County Judge,,REP,Chris Porter,536,331,205
+Gray,6,"District Judge, 223rd Judicial District",,REP,Under Votes,147,50,97
+Gray,6,County Judge,,REP,Richard Peet,344,131,213
+Gray,6,County Judge,,REP,Chris Porter,536,205,331
 Gray,6,County Judge,,REP,Over Votes,0,0,0
-Gray,6,County Judge,,REP,Under Votes,18,12,6
-Gray,6,District Clerk,,REP,Jo Mays,752,464,288
+Gray,6,County Judge,,REP,Under Votes,18,6,12
+Gray,6,District Clerk,,REP,Jo Mays,752,288,464
 Gray,6,District Clerk,,REP,Over Votes,0,0,0
-Gray,6,District Clerk,,REP,Under Votes,146,92,54
-Gray,6,County Clerk,,REP,Jeanne Horton,756,467,289
+Gray,6,District Clerk,,REP,Under Votes,146,54,92
+Gray,6,County Clerk,,REP,Jeanne Horton,756,289,467
 Gray,6,County Clerk,,REP,Over Votes,0,0,0
-Gray,6,County Clerk,,REP,Under Votes,142,89,53
-Gray,6,County Treasurer,,REP,Scott Hahn,746,454,292
+Gray,6,County Clerk,,REP,Under Votes,142,53,89
+Gray,6,County Treasurer,,REP,Scott Hahn,746,292,454
 Gray,6,County Treasurer,,REP,Over Votes,0,0,0
-Gray,6,County Treasurer,,REP,Under Votes,152,102,50
-Gray,6,"County Commissioner, Precinct No. 4",,REP,Jeff Haley,759,462,297
+Gray,6,County Treasurer,,REP,Under Votes,152,50,102
+Gray,6,"County Commissioner, Precinct No. 4",,REP,Jeff Haley,759,297,462
 Gray,6,"County Commissioner, Precinct No. 4",,REP,Over Votes,0,0,0
-Gray,6,"County Commissioner, Precinct No. 4",,REP,Under Votes,139,94,45
-Gray,6,"Justice of the Peace, Precinct No. 2 and Precinct No. 4",,REP,Connie Ogle,714,443,271
+Gray,6,"County Commissioner, Precinct No. 4",,REP,Under Votes,139,45,94
+Gray,6,"Justice of the Peace, Precinct No. 2 and Precinct No. 4",,REP,Connie Ogle,714,271,443
 Gray,6,"Justice of the Peace, Precinct No. 2 and Precinct No. 4",,REP,Over Votes,0,0,0
-Gray,6,"Justice of the Peace, Precinct No. 2 and Precinct No. 4",,REP,Under Votes,184,113,71
+Gray,6,"Justice of the Peace, Precinct No. 2 and Precinct No. 4",,REP,Under Votes,184,71,113
 Gray,6,U.S. Senate,,DEM,Over Votes,0,0,0
-Gray,6,U.S. Senate,,DEM,Under Votes,1,0,1
+Gray,6,U.S. Senate,,DEM,Under Votes,1,1,0
 Gray,6,Registered Voters,,DEM,,2788,,
-Gray,6,Ballots Cast,,DEM,,926,569,8
-Gray,6,U.S. Senate,,DEM,Beto O'Rourke,12,4,8
+Gray,6,Ballots Cast,,DEM,,926,8,569
+Gray,6,U.S. Senate,,DEM,Beto O'Rourke,12,8,4
 Gray,6,U.S. Senate,,DEM,Over Votes,0,0,0
-Gray,6,U.S. Senate,,DEM,Under Votes,1,0,1
-Gray,6,U.S. Senate,,DEM,Edward Kimbrough,11,8,3
-Gray,6,U.S. Senate,,DEM,Sema Hernandez,4,1,3
-Gray,6,U.S. House,13,DEM,Greg Sagan,22,12,10
+Gray,6,U.S. Senate,,DEM,Under Votes,1,1,0
+Gray,6,U.S. Senate,,DEM,Edward Kimbrough,11,3,8
+Gray,6,U.S. Senate,,DEM,Sema Hernandez,4,3,1
+Gray,6,U.S. House,13,DEM,Greg Sagan,22,10,12
 Gray,6,U.S. House,13,DEM,Over Votes,0,0,0
-Gray,6,U.S. House,13,DEM,Under Votes,6,1,5
-Gray,6,Governor,,DEM,Tom Wakely,3,1,2
-Gray,6,Governor,,DEM,Grady Yarbrough,11,7,4
-Gray,6,Governor,,DEM,Andrew White,5,0,5
+Gray,6,U.S. House,13,DEM,Under Votes,6,5,1
+Gray,6,Governor,,DEM,Tom Wakely,3,2,1
+Gray,6,Governor,,DEM,Grady Yarbrough,11,4,7
+Gray,6,Governor,,DEM,Andrew White,5,5,0
 Gray,6,Governor,,DEM,"Cedric Davis, Sr.",0,0,0
 Gray,6,Governor,,DEM,Joe Mumbach,0,0,0
-Gray,6,Governor,,DEM,Jeffrey Payne,1,1,0
-Gray,6,Governor,,DEM,Lupe Valdez,7,4,3
+Gray,6,Governor,,DEM,Jeffrey Payne,1,0,1
+Gray,6,Governor,,DEM,Lupe Valdez,7,3,4
 Gray,6,Governor,,DEM,James Jolly Clark,0,0,0
 Gray,6,Governor,,DEM,Adrian Ocegueda,0,0,0
 Gray,6,Governor,,DEM,Over Votes,0,0,0
-Gray,6,Governor,,DEM,Under Votes,1,0,1
-Gray,6,Lieutenant Governor,,DEM,Mike Collier,13,7,6
-Gray,6,Lieutenant Governor,,DEM,Michael Cooper,13,6,7
+Gray,6,Governor,,DEM,Under Votes,1,1,0
+Gray,6,Lieutenant Governor,,DEM,Mike Collier,13,6,7
+Gray,6,Lieutenant Governor,,DEM,Michael Cooper,13,7,6
 Gray,6,Lieutenant Governor,,DEM,Over Votes,0,0,0
-Gray,6,Lieutenant Governor,,DEM,Under Votes,2,0,2
-Gray,6,Attorney General,,DEM,Justin Nelson,24,11,13
+Gray,6,Lieutenant Governor,,DEM,Under Votes,2,2,0
+Gray,6,Attorney General,,DEM,Justin Nelson,24,13,11
 Gray,6,Attorney General,,DEM,Over Votes,0,0,0
 Gray,6,Attorney General,,DEM,Under Votes,4,2,2
-Gray,6,Comptroller of Public Accounts,,DEM,Joi Chevalier,13,7,6
+Gray,6,Comptroller of Public Accounts,,DEM,Joi Chevalier,13,6,7
 Gray,6,Comptroller of Public Accounts,,DEM,Over Votes,0,0,0
-Gray,6,Comptroller of Public Accounts,,DEM,Under Votes,2,0,2
-Gray,6,Comptroller of Public Accounts,,DEM,Tim Mahoney,13,6,7
+Gray,6,Comptroller of Public Accounts,,DEM,Under Votes,2,2,0
+Gray,6,Comptroller of Public Accounts,,DEM,Tim Mahoney,13,7,6
 Gray,6,Commissioner of the General Land Office,,DEM,Tex Morgan,16,8,8
-Gray,6,Commissioner of the General Land Office,,DEM,Miguel Suazo,11,5,6
+Gray,6,Commissioner of the General Land Office,,DEM,Miguel Suazo,11,6,5
 Gray,6,Commissioner of the General Land Office,,DEM,Over Votes,0,0,0
-Gray,6,Commissioner of the General Land Office,,DEM,Under Votes,1,0,1
-Gray,6,Commissioner of Agriculture,,DEM,Kim Olson,23,12,11
+Gray,6,Commissioner of the General Land Office,,DEM,Under Votes,1,1,0
+Gray,6,Commissioner of Agriculture,,DEM,Kim Olson,23,11,12
 Gray,6,Commissioner of Agriculture,,DEM,Over Votes,0,0,0
-Gray,6,Commissioner of Agriculture,,DEM,Under Votes,5,1,4
-Gray,6,Railroad Commissioner,,DEM,Chris Spellmon,11,5,6
+Gray,6,Commissioner of Agriculture,,DEM,Under Votes,5,4,1
+Gray,6,Railroad Commissioner,,DEM,Chris Spellmon,11,6,5
 Gray,6,Railroad Commissioner,,DEM,Over Votes,0,0,0
-Gray,6,Railroad Commissioner,,DEM,Under Votes,2,0,2
-Gray,6,Railroad Commissioner,,DEM,Roman McAllen,15,8,7
-Gray,6,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,23,12,11
+Gray,6,Railroad Commissioner,,DEM,Under Votes,2,2,0
+Gray,6,Railroad Commissioner,,DEM,Roman McAllen,15,7,8
+Gray,6,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,23,11,12
 Gray,6,"Justice, Supreme Court, Place 2",,DEM,Over Votes,0,0,0
-Gray,6,"Justice, Supreme Court, Place 2",,DEM,Under Votes,5,1,4
-Gray,6,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,23,12,11
+Gray,6,"Justice, Supreme Court, Place 2",,DEM,Under Votes,5,4,1
+Gray,6,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,23,11,12
 Gray,6,"Justice, Supreme Court, Place 4",,DEM,Over Votes,0,0,0
-Gray,6,"Justice, Supreme Court, Place 4",,DEM,Under Votes,5,1,4
-Gray,6,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,23,12,11
+Gray,6,"Justice, Supreme Court, Place 4",,DEM,Under Votes,5,4,1
+Gray,6,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,23,11,12
 Gray,6,"Justice, Supreme Court, Place 6",,DEM,Over Votes,0,0,0
-Gray,6,"Justice, Supreme Court, Place 6",,DEM,Under Votes,5,1,4
+Gray,6,"Justice, Supreme Court, Place 6",,DEM,Under Votes,5,4,1
 Gray,6,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,24,12,12
 Gray,6,"Presiding Judge, Court of Criminal Appeals",,DEM,Over Votes,0,0,0
-Gray,6,"Presiding Judge, Court of Criminal Appeals",,DEM,Under Votes,4,1,3
-Gray,6,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,23,12,11
+Gray,6,"Presiding Judge, Court of Criminal Appeals",,DEM,Under Votes,4,3,1
+Gray,6,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,23,11,12
 Gray,6,"Judge, Court of Criminal Appeals, Place 7",,DEM,Over Votes,0,0,0
-Gray,6,"Judge, Court of Criminal Appeals, Place 7",,DEM,Under Votes,5,1,4
+Gray,6,"Judge, Court of Criminal Appeals, Place 7",,DEM,Under Votes,5,4,1
 Gray,6,State Representative,88,DEM,Ezekiel Barron,24,12,12
 Gray,6,State Representative,88,DEM,Over Votes,0,0,0
-Gray,6,State Representative,88,DEM,Under Votes,4,1,3
-Gray,6,Proposition #1 Right to a 21st Century Public Education:,,,Yes,26,12,14
+Gray,6,State Representative,88,DEM,Under Votes,4,3,1
+Gray,6,Proposition #1 Right to a 21st Century Public Education:,,,Yes,26,14,12
 Gray,6,Proposition #1 Right to a 21st Century Public Education:,,,Over Votes,0,0,0
 Gray,6,Proposition #1 Right to a 21st Century Public Education:,,,Under Votes,0,0,0
 Gray,6,Proposition #1 Right to a 21st Century Public Education:,,,No,2,1,1
 Gray,6,Proposition #2 Student Loan Debt:,,,Yes,24,12,12
 Gray,6,Proposition #2 Student Loan Debt:,,,Over Votes,0,0,0
 Gray,6,Proposition #2 Student Loan Debt:,,,Under Votes,0,0,0
-Gray,6,Proposition #2 Student Loan Debt:,,,No,4,1,3
+Gray,6,Proposition #2 Student Loan Debt:,,,No,4,3,1
 Gray,6,Proposition #3 Right to Healthcare:,,,Yes,24,12,12
 Gray,6,Proposition #3 Right to Healthcare:,,,Over Votes,0,0,0
 Gray,6,Proposition #3 Right to Healthcare:,,,Under Votes,0,0,0
-Gray,6,Proposition #3 Right to Healthcare:,,,No,4,1,3
-Gray,6,Proposition #4 Right to Economic Security:,,,Yes,27,13,14
+Gray,6,Proposition #3 Right to Healthcare:,,,No,4,3,1
+Gray,6,Proposition #4 Right to Economic Security:,,,Yes,27,14,13
 Gray,6,Proposition #4 Right to Economic Security:,,,Over Votes,0,0,0
 Gray,6,Proposition #4 Right to Economic Security:,,,Under Votes,0,0,0
-Gray,6,Proposition #4 Right to Economic Security:,,,No,1,0,1
+Gray,6,Proposition #4 Right to Economic Security:,,,No,1,1,0
 Gray,6,Proposition #5 National Jobs Program:,,,Yes,24,12,12
 Gray,6,Proposition #5 National Jobs Program:,,,Over Votes,0,0,0
 Gray,6,Proposition #5 National Jobs Program:,,,Under Votes,0,0,0
-Gray,6,Proposition #5 National Jobs Program:,,,No,4,1,3
-Gray,6,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,27,13,14
+Gray,6,Proposition #5 National Jobs Program:,,,No,4,3,1
+Gray,6,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,27,14,13
 Gray,6,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Over Votes,0,0,0
 Gray,6,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Under Votes,0,0,0
-Gray,6,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,1,0,1
-Gray,6,Proposition #7 Right to Dignity & Respect:,,,Yes,27,13,14
+Gray,6,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,1,1,0
+Gray,6,Proposition #7 Right to Dignity & Respect:,,,Yes,27,14,13
 Gray,6,Proposition #7 Right to Dignity & Respect:,,,Over Votes,0,0,0
 Gray,6,Proposition #7 Right to Dignity & Respect:,,,Under Votes,0,0,0
-Gray,6,Proposition #7 Right to Dignity & Respect:,,,No,1,0,1
+Gray,6,Proposition #7 Right to Dignity & Respect:,,,No,1,1,0
 Gray,6,Proposition #8 Right to Housing:,,,Yes,24,12,12
 Gray,6,Proposition #8 Right to Housing:,,,Over Votes,0,0,0
 Gray,6,Proposition #8 Right to Housing:,,,Under Votes,0,0,0
-Gray,6,Proposition #8 Right to Housing:,,,No,4,1,3
+Gray,6,Proposition #8 Right to Housing:,,,No,4,3,1
 Gray,6,Proposition #9 Right to Vote:,,,Yes,26,13,13
 Gray,6,Proposition #9 Right to Vote:,,,Over Votes,0,0,0
 Gray,6,Proposition #9 Right to Vote:,,,Under Votes,0,0,0
-Gray,6,Proposition #9 Right to Vote:,,,No,2,0,2
+Gray,6,Proposition #9 Right to Vote:,,,No,2,2,0
 Gray,6,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,26,13,13
 Gray,6,Proposition #10 Right to a Fair Criminal Justice System:,,,Over Votes,0,0,0
-Gray,6,Proposition #10 Right to a Fair Criminal Justice System:,,,Under Votes,1,0,1
-Gray,6,Proposition #10 Right to a Fair Criminal Justice System:,,,No,1,0,1
+Gray,6,Proposition #10 Right to a Fair Criminal Justice System:,,,Under Votes,1,1,0
+Gray,6,Proposition #10 Right to a Fair Criminal Justice System:,,,No,1,1,0
 Gray,6,Proposition #11 Immigrant Rights:,,,Yes,22,11,11
 Gray,6,Proposition #11 Immigrant Rights:,,,Over Votes,0,0,0
-Gray,6,Proposition #11 Immigrant Rights:,,,Under Votes,1,0,1
-Gray,6,Proposition #11 Immigrant Rights:,,,No,5,2,3
+Gray,6,Proposition #11 Immigrant Rights:,,,Under Votes,1,1,0
+Gray,6,Proposition #11 Immigrant Rights:,,,No,5,3,2
 Gray,6,Proposition #12 Right to Fair Taxation:,,,Yes,26,13,13
 Gray,6,Proposition #12 Right to Fair Taxation:,,,Over Votes,0,0,0
-Gray,6,Proposition #12 Right to Fair Taxation:,,,Under Votes,1,0,1
-Gray,6,Proposition #12 Right to Fair Taxation:,,,No,1,0,1
-Gray,6,Proposition 1,,,YES,511,307,204
+Gray,6,Proposition #12 Right to Fair Taxation:,,,Under Votes,1,1,0
+Gray,6,Proposition #12 Right to Fair Taxation:,,,No,1,1,0
+Gray,6,Proposition 1,,,YES,511,204,307
 Gray,6,Proposition 1,,,Over Votes,0,0,0
-Gray,6,Proposition 1,,,Under Votes,82,55,27
-Gray,6,Proposition 1,,,NO,305,194,111
-Gray,6,Proposition 2,,,YES,773,467,306
+Gray,6,Proposition 1,,,Under Votes,82,27,55
+Gray,6,Proposition 1,,,NO,305,111,194
+Gray,6,Proposition 2,,,YES,773,306,467
 Gray,6,Proposition 2,,,Over Votes,0,0,0
-Gray,6,Proposition 2,,,Under Votes,41,24,17
-Gray,6,Proposition 2,,,NO,84,65,19
-Gray,6,Proposition 3,,,YES,730,454,276
+Gray,6,Proposition 2,,,Under Votes,41,17,24
+Gray,6,Proposition 2,,,NO,84,19,65
+Gray,6,Proposition 3,,,YES,730,276,454
 Gray,6,Proposition 3,,,Over Votes,0,0,0
-Gray,6,Proposition 3,,,Under Votes,50,31,19
-Gray,6,Proposition 3,,,NO,118,71,47
-Gray,6,Proposition 4,,,YES,782,481,301
+Gray,6,Proposition 3,,,Under Votes,50,19,31
+Gray,6,Proposition 3,,,NO,118,47,71
+Gray,6,Proposition 4,,,YES,782,301,481
 Gray,6,Proposition 4,,,Over Votes,0,0,0
-Gray,6,Proposition 4,,,Under Votes,39,27,12
-Gray,6,Proposition 4,,,NO,77,48,29
-Gray,6,Proposition 5,,,YES,609,365,244
+Gray,6,Proposition 4,,,Under Votes,39,12,27
+Gray,6,Proposition 4,,,NO,77,29,48
+Gray,6,Proposition 5,,,YES,609,244,365
 Gray,6,Proposition 5,,,Over Votes,0,0,0
-Gray,6,Proposition 5,,,Under Votes,38,22,16
-Gray,6,Proposition 5,,,NO,251,169,82
-Gray,6,Proposition 6,,,YES,829,509,320
+Gray,6,Proposition 5,,,Under Votes,38,16,22
+Gray,6,Proposition 5,,,NO,251,82,169
+Gray,6,Proposition 6,,,YES,829,320,509
 Gray,6,Proposition 6,,,Over Votes,0,0,0
-Gray,6,Proposition 6,,,Under Votes,25,16,9
-Gray,6,Proposition 6,,,NO,44,31,13
-Gray,6,Proposition 7,,,YES,666,402,264
+Gray,6,Proposition 6,,,Under Votes,25,9,16
+Gray,6,Proposition 6,,,NO,44,13,31
+Gray,6,Proposition 7,,,YES,666,264,402
 Gray,6,Proposition 7,,,Over Votes,0,0,0
-Gray,6,Proposition 7,,,Under Votes,34,22,12
-Gray,6,Proposition 7,,,NO,198,132,66
-Gray,6,Proposition 8,,,YES,843,515,328
+Gray,6,Proposition 7,,,Under Votes,34,12,22
+Gray,6,Proposition 7,,,NO,198,66,132
+Gray,6,Proposition 8,,,YES,843,328,515
 Gray,6,Proposition 8,,,Over Votes,0,0,0
-Gray,6,Proposition 8,,,Under Votes,23,17,6
-Gray,6,Proposition 8,,,NO,32,24,8
-Gray,6,Proposition 9,,,YES,788,479,309
+Gray,6,Proposition 8,,,Under Votes,23,6,17
+Gray,6,Proposition 8,,,NO,32,8,24
+Gray,6,Proposition 9,,,YES,788,309,479
 Gray,6,Proposition 9,,,Over Votes,0,0,0
-Gray,6,Proposition 9,,,Under Votes,32,22,10
-Gray,6,Proposition 9,,,NO,78,55,23
-Gray,6,Proposition 10,,,YES,779,470,309
+Gray,6,Proposition 9,,,Under Votes,32,10,22
+Gray,6,Proposition 9,,,NO,78,23,55
+Gray,6,Proposition 10,,,YES,779,309,470
 Gray,6,Proposition 10,,,Over Votes,0,0,0
-Gray,6,Proposition 10,,,Under Votes,52,33,19
-Gray,6,Proposition 10,,,NO,67,53,14
-Gray,6,Proposition 11,,,YES,732,447,285
+Gray,6,Proposition 10,,,Under Votes,52,19,33
+Gray,6,Proposition 10,,,NO,67,14,53
+Gray,6,Proposition 11,,,YES,732,285,447
 Gray,6,Proposition 11,,,Over Votes,0,0,0
-Gray,6,Proposition 11,,,Under Votes,43,26,17
-Gray,6,Proposition 11,,,NO,123,83,40
-Gray,7,U.S. Senate,,REP,Stefano de Stefano,6,2,4
-Gray,7,U.S. Senate,,REP,Ted Cruz,341,176,165
+Gray,6,Proposition 11,,,Under Votes,43,17,26
+Gray,6,Proposition 11,,,NO,123,40,83
+Gray,7,U.S. Senate,,REP,Stefano de Stefano,6,4,2
+Gray,7,U.S. Senate,,REP,Ted Cruz,341,165,176
 Gray,7,U.S. Senate,,REP,Over Votes,0,0,0
-Gray,7,U.S. Senate,,REP,Under Votes,8,3,5
+Gray,7,U.S. Senate,,REP,Under Votes,8,5,3
 Gray,7,Registered Voters,,REP,,2498,,
-Gray,7,Ballots Cast,,REP,,408,205,5
-Gray,7,U.S. Senate,,REP,Geraldine Sam,7,2,5
+Gray,7,Ballots Cast,,REP,,408,5,205
+Gray,7,U.S. Senate,,REP,Geraldine Sam,7,5,2
 Gray,7,U.S. Senate,,REP,Over Votes,0,0,0
-Gray,7,U.S. Senate,,REP,Under Votes,8,3,5
+Gray,7,U.S. Senate,,REP,Under Votes,8,5,3
 Gray,7,U.S. Senate,,REP,"Bruce Jacobson, Jr.",16,8,8
-Gray,7,U.S. Senate,,REP,Mary Miller,12,5,7
-Gray,7,U.S. House,13,REP,Mac Thornberry,337,170,167
+Gray,7,U.S. Senate,,REP,Mary Miller,12,7,5
+Gray,7,U.S. House,13,REP,Mac Thornberry,337,167,170
 Gray,7,U.S. House,13,REP,Over Votes,0,0,0
-Gray,7,U.S. House,13,REP,Under Votes,53,26,27
-Gray,7,Governor,,REP,SECEDE Kilgore,8,2,6
-Gray,7,Governor,,REP,Greg Abbott,347,177,170
-Gray,7,Governor,,REP,Barbara Krueger,24,11,13
+Gray,7,U.S. House,13,REP,Under Votes,53,27,26
+Gray,7,Governor,,REP,SECEDE Kilgore,8,6,2
+Gray,7,Governor,,REP,Greg Abbott,347,170,177
+Gray,7,Governor,,REP,Barbara Krueger,24,13,11
 Gray,7,Lieutenant Governor,,REP,Dan Patrick,286,143,143
 Gray,7,Lieutenant Governor,,REP,Scott Milder,86,43,43
 Gray,7,Lieutenant Governor,,REP,Over Votes,0,0,0
-Gray,7,Lieutenant Governor,,REP,Under Votes,18,10,8
-Gray,7,Attorney General,,REP,Ken Paxton,347,174,173
-Gray,7,Comptroller of Public Accounts,,REP,Glenn Hegar,332,167,165
+Gray,7,Lieutenant Governor,,REP,Under Votes,18,8,10
+Gray,7,Attorney General,,REP,Ken Paxton,347,173,174
+Gray,7,Comptroller of Public Accounts,,REP,Glenn Hegar,332,165,167
 Gray,7,Comptroller of Public Accounts,,REP,Over Votes,0,0,0
 Gray,7,Comptroller of Public Accounts,,REP,Under Votes,58,29,29
-Gray,7,Commissioner of the General Land Office,,REP,Rick Range,48,26,22
-Gray,7,Commissioner of the General Land Office,,REP,Jerry Patterson,69,33,36
-Gray,7,Commissioner of the General Land Office,,REP,Davey Edwards,22,8,14
+Gray,7,Commissioner of the General Land Office,,REP,Rick Range,48,22,26
+Gray,7,Commissioner of the General Land Office,,REP,Jerry Patterson,69,36,33
+Gray,7,Commissioner of the General Land Office,,REP,Davey Edwards,22,14,8
 Gray,7,Commissioner of the General Land Office,,REP,Over Votes,0,0,0
-Gray,7,Commissioner of the General Land Office,,REP,Under Votes,28,17,11
-Gray,7,Commissioner of the General Land Office,,REP,George P. Bush,223,112,111
-Gray,7,Commissioner of Agriculture,,REP,Jim Hogan,108,56,52
-Gray,7,Commissioner of Agriculture,,REP,Trey Blocker,75,29,46
-Gray,7,Commissioner of Agriculture,,REP,Sid Miller,156,84,72
-Gray,7,Railroad Commissioner,,REP,Weston Martinez,116,57,59
-Gray,7,Railroad Commissioner,,REP,Christi Craddick,226,117,109
+Gray,7,Commissioner of the General Land Office,,REP,Under Votes,28,11,17
+Gray,7,Commissioner of the General Land Office,,REP,George P. Bush,223,111,112
+Gray,7,Commissioner of Agriculture,,REP,Jim Hogan,108,52,56
+Gray,7,Commissioner of Agriculture,,REP,Trey Blocker,75,46,29
+Gray,7,Commissioner of Agriculture,,REP,Sid Miller,156,72,84
+Gray,7,Railroad Commissioner,,REP,Weston Martinez,116,59,57
+Gray,7,Railroad Commissioner,,REP,Christi Craddick,226,109,117
 Gray,7,Railroad Commissioner,,REP,Over Votes,0,0,0
-Gray,7,Railroad Commissioner,,REP,Under Votes,48,22,26
-Gray,7,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,325,167,158
+Gray,7,Railroad Commissioner,,REP,Under Votes,48,26,22
+Gray,7,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,325,158,167
 Gray,7,"Justice, Supreme Court, Place 2",,REP,Over Votes,0,0,0
-Gray,7,"Justice, Supreme Court, Place 2",,REP,Under Votes,65,29,36
-Gray,7,"Justice, Supreme Court, Place 4",,REP,John Devine,324,168,156
+Gray,7,"Justice, Supreme Court, Place 2",,REP,Under Votes,65,36,29
+Gray,7,"Justice, Supreme Court, Place 4",,REP,John Devine,324,156,168
 Gray,7,"Justice, Supreme Court, Place 4",,REP,Over Votes,0,0,0
-Gray,7,"Justice, Supreme Court, Place 4",,REP,Under Votes,66,28,38
-Gray,7,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,327,169,158
+Gray,7,"Justice, Supreme Court, Place 4",,REP,Under Votes,66,38,28
+Gray,7,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,327,158,169
 Gray,7,"Justice, Supreme Court, Place 6",,REP,Over Votes,0,0,0
-Gray,7,"Justice, Supreme Court, Place 6",,REP,Under Votes,63,27,36
-Gray,7,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,176,86,90
-Gray,7,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,159,80,79
+Gray,7,"Justice, Supreme Court, Place 6",,REP,Under Votes,63,36,27
+Gray,7,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,176,90,86
+Gray,7,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,159,79,80
 Gray,7,"Presiding Judge, Court of Criminal Appeals",,REP,Over Votes,0,0,0
-Gray,7,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,55,30,25
-Gray,7,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,320,167,153
+Gray,7,"Presiding Judge, Court of Criminal Appeals",,REP,Under Votes,55,25,30
+Gray,7,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,320,153,167
 Gray,7,"Judge, Court of Criminal Appeals, Place 7",,REP,Over Votes,0,0,0
-Gray,7,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,70,29,41
-Gray,7,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,77,32,45
+Gray,7,"Judge, Court of Criminal Appeals, Place 7",,REP,Under Votes,70,41,29
+Gray,7,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,77,45,32
 Gray,7,"Judge, Court of Criminal Appeals, Place 8",,REP,Over Votes,0,0,0
-Gray,7,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,72,40,32
-Gray,7,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,119,59,60
-Gray,7,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,122,65,57
-Gray,7,State Senator,31,REP,Victor Leal,111,52,59
-Gray,7,State Senator,31,REP,Kel Seliger,181,101,80
+Gray,7,"Judge, Court of Criminal Appeals, Place 8",,REP,Under Votes,72,32,40
+Gray,7,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,119,60,59
+Gray,7,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,122,57,65
+Gray,7,State Senator,31,REP,Victor Leal,111,59,52
+Gray,7,State Senator,31,REP,Kel Seliger,181,80,101
 Gray,7,State Senator,31,REP,Over Votes,0,0,0
-Gray,7,State Senator,31,REP,Under Votes,12,8,4
-Gray,7,State Senator,31,REP,Mike Canon,86,35,51
-Gray,7,State Representative,88,REP,Ken King,171,80,91
-Gray,7,State Representative,88,REP,Richard Beyea,77,43,34
+Gray,7,State Senator,31,REP,Under Votes,12,4,8
+Gray,7,State Senator,31,REP,Mike Canon,86,51,35
+Gray,7,State Representative,88,REP,Ken King,171,91,80
+Gray,7,State Representative,88,REP,Richard Beyea,77,34,43
 Gray,7,State Representative,88,REP,Jason Huddleston,132,66,66
 Gray,7,State Representative,88,REP,Over Votes,0,0,0
-Gray,7,State Representative,88,REP,Under Votes,10,7,3
-Gray,7,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,326,167,159
+Gray,7,State Representative,88,REP,Under Votes,10,3,7
+Gray,7,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Judy Parker,326,159,167
 Gray,7,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Over Votes,0,0,0
-Gray,7,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Under Votes,64,29,35
-Gray,7,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,316,164,152
+Gray,7,"Justice, 7th Court of Appeals District, Place No. 2",,REP,Under Votes,64,35,29
+Gray,7,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Pat Pirtle,316,152,164
 Gray,7,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Over Votes,0,0,0
-Gray,7,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Under Votes,74,32,42
-Gray,7,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,330,172,158
+Gray,7,"Justice, 7th Court of Appeals District, Place No. 3",,REP,Under Votes,74,42,32
+Gray,7,"District Judge, 31st Judicial District",,REP,Steven R. Emmert,330,158,172
 Gray,7,"District Judge, 31st Judicial District",,REP,Over Votes,0,0,0
-Gray,7,"District Judge, 31st Judicial District",,REP,Under Votes,60,24,36
-Gray,7,"District Judge, 223rd Judicial District",,REP,Phil N Vanderpool,337,173,164
+Gray,7,"District Judge, 31st Judicial District",,REP,Under Votes,60,36,24
+Gray,7,"District Judge, 223rd Judicial District",,REP,Phil N Vanderpool,337,164,173
 Gray,7,"District Judge, 223rd Judicial District",,REP,Over Votes,0,0,0
-Gray,7,"District Judge, 223rd Judicial District",,REP,Under Votes,53,23,30
-Gray,7,County Judge,,REP,Richard Peet,163,88,75
-Gray,7,County Judge,,REP,Chris Porter,220,105,115
+Gray,7,"District Judge, 223rd Judicial District",,REP,Under Votes,53,30,23
+Gray,7,County Judge,,REP,Richard Peet,163,75,88
+Gray,7,County Judge,,REP,Chris Porter,220,115,105
 Gray,7,County Judge,,REP,Over Votes,0,0,0
-Gray,7,County Judge,,REP,Under Votes,7,3,4
-Gray,7,District Clerk,,REP,Jo Mays,337,174,163
+Gray,7,County Judge,,REP,Under Votes,7,4,3
+Gray,7,District Clerk,,REP,Jo Mays,337,163,174
 Gray,7,District Clerk,,REP,Over Votes,0,0,0
-Gray,7,District Clerk,,REP,Under Votes,53,22,31
-Gray,7,County Clerk,,REP,Jeanne Horton,334,171,163
+Gray,7,District Clerk,,REP,Under Votes,53,31,22
+Gray,7,County Clerk,,REP,Jeanne Horton,334,163,171
 Gray,7,County Clerk,,REP,Over Votes,0,0,0
-Gray,7,County Clerk,,REP,Under Votes,56,25,31
-Gray,7,County Treasurer,,REP,Scott Hahn,331,168,163
+Gray,7,County Clerk,,REP,Under Votes,56,31,25
+Gray,7,County Treasurer,,REP,Scott Hahn,331,163,168
 Gray,7,County Treasurer,,REP,Over Votes,0,0,0
-Gray,7,County Treasurer,,REP,Under Votes,59,28,31
+Gray,7,County Treasurer,,REP,Under Votes,59,31,28
 Gray,7,"Justice of the Peace, Precinct No. 1 and Precinct No. 3",,REP,Joe Patrick Martinez,344,172,172
 Gray,7,"Justice of the Peace, Precinct No. 1 and Precinct No. 3",,REP,Over Votes,0,0,0
-Gray,7,"Justice of the Peace, Precinct No. 1 and Precinct No. 3",,REP,Under Votes,46,24,22
+Gray,7,"Justice of the Peace, Precinct No. 1 and Precinct No. 3",,REP,Under Votes,46,22,24
 Gray,7,U.S. Senate,,DEM,Over Votes,0,0,0
-Gray,7,U.S. Senate,,DEM,Under Votes,1,1,0
+Gray,7,U.S. Senate,,DEM,Under Votes,1,0,1
 Gray,7,Registered Voters,,DEM,,2498,,
-Gray,7,Ballots Cast,,DEM,,408,205,5
-Gray,7,U.S. Senate,,DEM,Beto O'Rourke,9,4,5
+Gray,7,Ballots Cast,,DEM,,408,5,205
+Gray,7,U.S. Senate,,DEM,Beto O'Rourke,9,5,4
 Gray,7,U.S. Senate,,DEM,Over Votes,0,0,0
-Gray,7,U.S. Senate,,DEM,Under Votes,1,1,0
-Gray,7,U.S. Senate,,DEM,Edward Kimbrough,3,1,2
-Gray,7,U.S. Senate,,DEM,Sema Hernandez,5,3,2
-Gray,7,U.S. House,13,DEM,Greg Sagan,13,5,8
+Gray,7,U.S. Senate,,DEM,Under Votes,1,0,1
+Gray,7,U.S. Senate,,DEM,Edward Kimbrough,3,2,1
+Gray,7,U.S. Senate,,DEM,Sema Hernandez,5,2,3
+Gray,7,U.S. House,13,DEM,Greg Sagan,13,8,5
 Gray,7,U.S. House,13,DEM,Over Votes,0,0,0
-Gray,7,U.S. House,13,DEM,Under Votes,5,4,1
-Gray,7,Governor,,DEM,Tom Wakely,3,1,2
-Gray,7,Governor,,DEM,Grady Yarbrough,1,0,1
+Gray,7,U.S. House,13,DEM,Under Votes,5,1,4
+Gray,7,Governor,,DEM,Tom Wakely,3,2,1
+Gray,7,Governor,,DEM,Grady Yarbrough,1,1,0
 Gray,7,Governor,,DEM,Andrew White,2,1,1
 Gray,7,Governor,,DEM,"Cedric Davis, Sr.",0,0,0
 Gray,7,Governor,,DEM,Joe Mumbach,0,0,0
-Gray,7,Governor,,DEM,Jeffrey Payne,1,0,1
-Gray,7,Governor,,DEM,Lupe Valdez,8,5,3
+Gray,7,Governor,,DEM,Jeffrey Payne,1,1,0
+Gray,7,Governor,,DEM,Lupe Valdez,8,3,5
 Gray,7,Governor,,DEM,James Jolly Clark,0,0,0
 Gray,7,Governor,,DEM,Adrian Ocegueda,2,1,1
 Gray,7,Governor,,DEM,Over Votes,0,0,0
-Gray,7,Governor,,DEM,Under Votes,1,1,0
-Gray,7,Lieutenant Governor,,DEM,Mike Collier,12,5,7
+Gray,7,Governor,,DEM,Under Votes,1,0,1
+Gray,7,Lieutenant Governor,,DEM,Mike Collier,12,7,5
 Gray,7,Lieutenant Governor,,DEM,Michael Cooper,4,2,2
 Gray,7,Lieutenant Governor,,DEM,Over Votes,0,0,0
-Gray,7,Lieutenant Governor,,DEM,Under Votes,2,2,0
-Gray,7,Attorney General,,DEM,Justin Nelson,12,4,8
+Gray,7,Lieutenant Governor,,DEM,Under Votes,2,0,2
+Gray,7,Attorney General,,DEM,Justin Nelson,12,8,4
 Gray,7,Attorney General,,DEM,Over Votes,0,0,0
-Gray,7,Attorney General,,DEM,Under Votes,6,5,1
-Gray,7,Comptroller of Public Accounts,,DEM,Joi Chevalier,10,7,3
+Gray,7,Attorney General,,DEM,Under Votes,6,1,5
+Gray,7,Comptroller of Public Accounts,,DEM,Joi Chevalier,10,3,7
 Gray,7,Comptroller of Public Accounts,,DEM,Over Votes,0,0,0
-Gray,7,Comptroller of Public Accounts,,DEM,Under Votes,2,2,0
-Gray,7,Comptroller of Public Accounts,,DEM,Tim Mahoney,6,0,6
-Gray,7,Commissioner of the General Land Office,,DEM,Tex Morgan,8,3,5
+Gray,7,Comptroller of Public Accounts,,DEM,Under Votes,2,0,2
+Gray,7,Comptroller of Public Accounts,,DEM,Tim Mahoney,6,6,0
+Gray,7,Commissioner of the General Land Office,,DEM,Tex Morgan,8,5,3
 Gray,7,Commissioner of the General Land Office,,DEM,Miguel Suazo,8,4,4
 Gray,7,Commissioner of the General Land Office,,DEM,Over Votes,0,0,0
-Gray,7,Commissioner of the General Land Office,,DEM,Under Votes,2,2,0
-Gray,7,Commissioner of Agriculture,,DEM,Kim Olson,13,5,8
+Gray,7,Commissioner of the General Land Office,,DEM,Under Votes,2,0,2
+Gray,7,Commissioner of Agriculture,,DEM,Kim Olson,13,8,5
 Gray,7,Commissioner of Agriculture,,DEM,Over Votes,0,0,0
-Gray,7,Commissioner of Agriculture,,DEM,Under Votes,5,4,1
-Gray,7,Railroad Commissioner,,DEM,Chris Spellmon,9,2,7
+Gray,7,Commissioner of Agriculture,,DEM,Under Votes,5,1,4
+Gray,7,Railroad Commissioner,,DEM,Chris Spellmon,9,7,2
 Gray,7,Railroad Commissioner,,DEM,Over Votes,0,0,0
-Gray,7,Railroad Commissioner,,DEM,Under Votes,3,3,0
-Gray,7,Railroad Commissioner,,DEM,Roman McAllen,6,4,2
-Gray,7,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,14,5,9
+Gray,7,Railroad Commissioner,,DEM,Under Votes,3,0,3
+Gray,7,Railroad Commissioner,,DEM,Roman McAllen,6,2,4
+Gray,7,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,14,9,5
 Gray,7,"Justice, Supreme Court, Place 2",,DEM,Over Votes,0,0,0
-Gray,7,"Justice, Supreme Court, Place 2",,DEM,Under Votes,4,4,0
-Gray,7,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,14,5,9
+Gray,7,"Justice, Supreme Court, Place 2",,DEM,Under Votes,4,0,4
+Gray,7,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,14,9,5
 Gray,7,"Justice, Supreme Court, Place 4",,DEM,Over Votes,0,0,0
-Gray,7,"Justice, Supreme Court, Place 4",,DEM,Under Votes,4,4,0
+Gray,7,"Justice, Supreme Court, Place 4",,DEM,Under Votes,4,0,4
 Gray,7,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,16,8,8
 Gray,7,"Justice, Supreme Court, Place 6",,DEM,Over Votes,0,0,0
 Gray,7,"Justice, Supreme Court, Place 6",,DEM,Under Votes,2,1,1
-Gray,7,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,16,7,9
+Gray,7,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,16,9,7
 Gray,7,"Presiding Judge, Court of Criminal Appeals",,DEM,Over Votes,0,0,0
-Gray,7,"Presiding Judge, Court of Criminal Appeals",,DEM,Under Votes,2,2,0
-Gray,7,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,16,7,9
+Gray,7,"Presiding Judge, Court of Criminal Appeals",,DEM,Under Votes,2,0,2
+Gray,7,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,16,9,7
 Gray,7,"Judge, Court of Criminal Appeals, Place 7",,DEM,Over Votes,0,0,0
-Gray,7,"Judge, Court of Criminal Appeals, Place 7",,DEM,Under Votes,2,2,0
-Gray,7,State Representative,88,DEM,Ezekiel Barron,14,5,9
+Gray,7,"Judge, Court of Criminal Appeals, Place 7",,DEM,Under Votes,2,0,2
+Gray,7,State Representative,88,DEM,Ezekiel Barron,14,9,5
 Gray,7,State Representative,88,DEM,Over Votes,0,0,0
-Gray,7,State Representative,88,DEM,Under Votes,4,4,0
-Gray,7,Proposition #1 Right to a 21st Century Public Education:,,,Yes,17,8,9
+Gray,7,State Representative,88,DEM,Under Votes,4,0,4
+Gray,7,Proposition #1 Right to a 21st Century Public Education:,,,Yes,17,9,8
 Gray,7,Proposition #1 Right to a 21st Century Public Education:,,,Over Votes,0,0,0
 Gray,7,Proposition #1 Right to a 21st Century Public Education:,,,Under Votes,0,0,0
-Gray,7,Proposition #1 Right to a 21st Century Public Education:,,,No,1,1,0
-Gray,7,Proposition #2 Student Loan Debt:,,,Yes,16,7,9
+Gray,7,Proposition #1 Right to a 21st Century Public Education:,,,No,1,0,1
+Gray,7,Proposition #2 Student Loan Debt:,,,Yes,16,9,7
 Gray,7,Proposition #2 Student Loan Debt:,,,Over Votes,0,0,0
-Gray,7,Proposition #2 Student Loan Debt:,,,Under Votes,1,1,0
-Gray,7,Proposition #2 Student Loan Debt:,,,No,1,1,0
-Gray,7,Proposition #3 Right to Healthcare:,,,Yes,16,7,9
+Gray,7,Proposition #2 Student Loan Debt:,,,Under Votes,1,0,1
+Gray,7,Proposition #2 Student Loan Debt:,,,No,1,0,1
+Gray,7,Proposition #3 Right to Healthcare:,,,Yes,16,9,7
 Gray,7,Proposition #3 Right to Healthcare:,,,Over Votes,0,0,0
-Gray,7,Proposition #3 Right to Healthcare:,,,Under Votes,2,2,0
+Gray,7,Proposition #3 Right to Healthcare:,,,Under Votes,2,0,2
 Gray,7,Proposition #3 Right to Healthcare:,,,No,0,0,0
 Gray,7,Proposition #4 Right to Economic Security:,,,Yes,16,8,8
 Gray,7,Proposition #4 Right to Economic Security:,,,Over Votes,0,0,0
@@ -1700,77 +1700,77 @@ Gray,7,Proposition #4 Right to Economic Security:,,,Under Votes,0,0,0
 Gray,7,Proposition #4 Right to Economic Security:,,,No,2,1,1
 Gray,7,Proposition #5 National Jobs Program:,,,Yes,16,8,8
 Gray,7,Proposition #5 National Jobs Program:,,,Over Votes,0,0,0
-Gray,7,Proposition #5 National Jobs Program:,,,Under Votes,1,1,0
-Gray,7,Proposition #5 National Jobs Program:,,,No,1,0,1
+Gray,7,Proposition #5 National Jobs Program:,,,Under Votes,1,0,1
+Gray,7,Proposition #5 National Jobs Program:,,,No,1,1,0
 Gray,7,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,18,9,9
 Gray,7,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Over Votes,0,0,0
 Gray,7,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Under Votes,0,0,0
 Gray,7,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,0,0,0
-Gray,7,Proposition #7 Right to Dignity & Respect:,,,Yes,17,9,8
+Gray,7,Proposition #7 Right to Dignity & Respect:,,,Yes,17,8,9
 Gray,7,Proposition #7 Right to Dignity & Respect:,,,Over Votes,0,0,0
 Gray,7,Proposition #7 Right to Dignity & Respect:,,,Under Votes,0,0,0
-Gray,7,Proposition #7 Right to Dignity & Respect:,,,No,1,0,1
-Gray,7,Proposition #8 Right to Housing:,,,Yes,15,6,9
+Gray,7,Proposition #7 Right to Dignity & Respect:,,,No,1,1,0
+Gray,7,Proposition #8 Right to Housing:,,,Yes,15,9,6
 Gray,7,Proposition #8 Right to Housing:,,,Over Votes,0,0,0
 Gray,7,Proposition #8 Right to Housing:,,,Under Votes,0,0,0
-Gray,7,Proposition #8 Right to Housing:,,,No,3,3,0
-Gray,7,Proposition #9 Right to Vote:,,,Yes,16,7,9
+Gray,7,Proposition #8 Right to Housing:,,,No,3,0,3
+Gray,7,Proposition #9 Right to Vote:,,,Yes,16,9,7
 Gray,7,Proposition #9 Right to Vote:,,,Over Votes,0,0,0
-Gray,7,Proposition #9 Right to Vote:,,,Under Votes,1,1,0
-Gray,7,Proposition #9 Right to Vote:,,,No,1,1,0
+Gray,7,Proposition #9 Right to Vote:,,,Under Votes,1,0,1
+Gray,7,Proposition #9 Right to Vote:,,,No,1,0,1
 Gray,7,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,16,8,8
 Gray,7,Proposition #10 Right to a Fair Criminal Justice System:,,,Over Votes,0,0,0
-Gray,7,Proposition #10 Right to a Fair Criminal Justice System:,,,Under Votes,1,1,0
-Gray,7,Proposition #10 Right to a Fair Criminal Justice System:,,,No,1,0,1
-Gray,7,Proposition #11 Immigrant Rights:,,,Yes,15,8,7
+Gray,7,Proposition #10 Right to a Fair Criminal Justice System:,,,Under Votes,1,0,1
+Gray,7,Proposition #10 Right to a Fair Criminal Justice System:,,,No,1,1,0
+Gray,7,Proposition #11 Immigrant Rights:,,,Yes,15,7,8
 Gray,7,Proposition #11 Immigrant Rights:,,,Over Votes,0,0,0
-Gray,7,Proposition #11 Immigrant Rights:,,,Under Votes,1,1,0
-Gray,7,Proposition #11 Immigrant Rights:,,,No,2,0,2
-Gray,7,Proposition #12 Right to Fair Taxation:,,,Yes,17,8,9
+Gray,7,Proposition #11 Immigrant Rights:,,,Under Votes,1,0,1
+Gray,7,Proposition #11 Immigrant Rights:,,,No,2,2,0
+Gray,7,Proposition #12 Right to Fair Taxation:,,,Yes,17,9,8
 Gray,7,Proposition #12 Right to Fair Taxation:,,,Over Votes,0,0,0
-Gray,7,Proposition #12 Right to Fair Taxation:,,,Under Votes,1,1,0
+Gray,7,Proposition #12 Right to Fair Taxation:,,,Under Votes,1,0,1
 Gray,7,Proposition #12 Right to Fair Taxation:,,,No,0,0,0
-Gray,7,Proposition 1,,,YES,216,114,102
+Gray,7,Proposition 1,,,YES,216,102,114
 Gray,7,Proposition 1,,,Over Votes,0,0,0
-Gray,7,Proposition 1,,,Under Votes,28,11,17
-Gray,7,Proposition 1,,,NO,146,71,75
-Gray,7,Proposition 2,,,YES,340,176,164
+Gray,7,Proposition 1,,,Under Votes,28,17,11
+Gray,7,Proposition 1,,,NO,146,75,71
+Gray,7,Proposition 2,,,YES,340,164,176
 Gray,7,Proposition 2,,,Over Votes,0,0,0
-Gray,7,Proposition 2,,,Under Votes,17,6,11
-Gray,7,Proposition 2,,,NO,33,14,19
-Gray,7,Proposition 3,,,YES,326,170,156
+Gray,7,Proposition 2,,,Under Votes,17,11,6
+Gray,7,Proposition 2,,,NO,33,19,14
+Gray,7,Proposition 3,,,YES,326,156,170
 Gray,7,Proposition 3,,,Over Votes,0,0,0
-Gray,7,Proposition 3,,,Under Votes,20,7,13
-Gray,7,Proposition 3,,,NO,44,19,25
-Gray,7,Proposition 4,,,YES,354,175,179
+Gray,7,Proposition 3,,,Under Votes,20,13,7
+Gray,7,Proposition 3,,,NO,44,25,19
+Gray,7,Proposition 4,,,YES,354,179,175
 Gray,7,Proposition 4,,,Over Votes,0,0,0
-Gray,7,Proposition 4,,,Under Votes,10,4,6
-Gray,7,Proposition 4,,,NO,26,17,9
-Gray,7,Proposition 5,,,YES,297,151,146
+Gray,7,Proposition 4,,,Under Votes,10,6,4
+Gray,7,Proposition 4,,,NO,26,9,17
+Gray,7,Proposition 5,,,YES,297,146,151
 Gray,7,Proposition 5,,,Over Votes,0,0,0
-Gray,7,Proposition 5,,,Under Votes,14,4,10
-Gray,7,Proposition 5,,,NO,79,41,38
-Gray,7,Proposition 6,,,YES,359,183,176
+Gray,7,Proposition 5,,,Under Votes,14,10,4
+Gray,7,Proposition 5,,,NO,79,38,41
+Gray,7,Proposition 6,,,YES,359,176,183
 Gray,7,Proposition 6,,,Over Votes,0,0,0
-Gray,7,Proposition 6,,,Under Votes,9,2,7
+Gray,7,Proposition 6,,,Under Votes,9,7,2
 Gray,7,Proposition 6,,,NO,22,11,11
-Gray,7,Proposition 7,,,YES,297,152,145
+Gray,7,Proposition 7,,,YES,297,145,152
 Gray,7,Proposition 7,,,Over Votes,0,0,0
-Gray,7,Proposition 7,,,Under Votes,15,7,8
-Gray,7,Proposition 7,,,NO,78,37,41
-Gray,7,Proposition 8,,,YES,368,190,178
+Gray,7,Proposition 7,,,Under Votes,15,8,7
+Gray,7,Proposition 7,,,NO,78,41,37
+Gray,7,Proposition 8,,,YES,368,178,190
 Gray,7,Proposition 8,,,Over Votes,0,0,0
-Gray,7,Proposition 8,,,Under Votes,11,4,7
-Gray,7,Proposition 8,,,NO,11,2,9
-Gray,7,Proposition 9,,,YES,349,174,175
+Gray,7,Proposition 8,,,Under Votes,11,7,4
+Gray,7,Proposition 8,,,NO,11,9,2
+Gray,7,Proposition 9,,,YES,349,175,174
 Gray,7,Proposition 9,,,Over Votes,0,0,0
-Gray,7,Proposition 9,,,Under Votes,11,5,6
-Gray,7,Proposition 9,,,NO,30,17,13
-Gray,7,Proposition 10,,,YES,337,172,165
+Gray,7,Proposition 9,,,Under Votes,11,6,5
+Gray,7,Proposition 9,,,NO,30,13,17
+Gray,7,Proposition 10,,,YES,337,165,172
 Gray,7,Proposition 10,,,Over Votes,0,0,0
-Gray,7,Proposition 10,,,Under Votes,18,5,13
-Gray,7,Proposition 10,,,NO,35,19,16
-Gray,7,Proposition 11,,,YES,334,172,162
+Gray,7,Proposition 10,,,Under Votes,18,13,5
+Gray,7,Proposition 10,,,NO,35,16,19
+Gray,7,Proposition 11,,,YES,334,162,172
 Gray,7,Proposition 11,,,Over Votes,0,0,0
-Gray,7,Proposition 11,,,Under Votes,13,7,6
-Gray,7,Proposition 11,,,NO,43,17,26
+Gray,7,Proposition 11,,,Under Votes,13,6,7
+Gray,7,Proposition 11,,,NO,43,26,17

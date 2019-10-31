@@ -1,1009 +1,1009 @@
-county,precinct,office,district,party,candidate,votes,early_voting,election_day
-LaSalle,1,U.S. Senate,,REP,Mary Miller,2,2,0
-LaSalle,1,U.S. Senate,,REP,"Bruce Jacobson, Jr.",1,0,1
+county,precinct,office,district,party,candidate,votes,election_day,early_voting
+LaSalle,1,U.S. Senate,,REP,Mary Miller,2,0,2
+LaSalle,1,U.S. Senate,,REP,"Bruce Jacobson, Jr.",1,1,0
 LaSalle,1,U.S. Senate,,REP,Over Votes,0,0,0
-LaSalle,1,U.S. Senate,,REP,Under Votes,1,0,1
+LaSalle,1,U.S. Senate,,REP,Under Votes,1,1,0
 LaSalle,1,Registered Voters,,REP,,1025,,
-LaSalle,1,Ballots Cast,,REP,,524,343,0
-LaSalle,1,U.S. Senate,,REP,Geraldine Sam,1,1,0
+LaSalle,1,Ballots Cast,,REP,,524,0,343
+LaSalle,1,U.S. Senate,,REP,Geraldine Sam,1,0,1
 LaSalle,1,U.S. Senate,,REP,Stefano de Stefano,0,0,0
-LaSalle,1,U.S. Senate,,REP,Ted Cruz,25,23,2
-LaSalle,1,U.S. House,23,REP,Will Hurd,25,22,3
-LaSalle,1,U.S. House,23,REP,Alma Arredondo-Lynch,4,4,0
+LaSalle,1,U.S. Senate,,REP,Ted Cruz,25,2,23
+LaSalle,1,U.S. House,23,REP,Will Hurd,25,3,22
+LaSalle,1,U.S. House,23,REP,Alma Arredondo-Lynch,4,0,4
 LaSalle,1,Governor,,REP,SECEDE Kilgore,0,0,0
-LaSalle,1,Governor,,REP,Barbara Krueger,5,5,0
-LaSalle,1,Governor,,REP,Greg Abbott,24,21,3
-LaSalle,1,Lieutenant Governor,,REP,Scott Milder,7,5,2
-LaSalle,1,Lieutenant Governor,,REP,Dan Patrick,21,20,1
-LaSalle,1,Attorney General,,REP,Ken Paxton,24,21,3
-LaSalle,1,Comptroller of Public Accounts,,REP,Glenn Hegar,24,21,3
+LaSalle,1,Governor,,REP,Barbara Krueger,5,0,5
+LaSalle,1,Governor,,REP,Greg Abbott,24,3,21
+LaSalle,1,Lieutenant Governor,,REP,Scott Milder,7,2,5
+LaSalle,1,Lieutenant Governor,,REP,Dan Patrick,21,1,20
+LaSalle,1,Attorney General,,REP,Ken Paxton,24,3,21
+LaSalle,1,Comptroller of Public Accounts,,REP,Glenn Hegar,24,3,21
 LaSalle,1,Commissioner of the General Land Office,,REP,Rick Range,0,0,0
-LaSalle,1,Commissioner of the General Land Office,,REP,Davey Edwards,1,1,0
-LaSalle,1,Commissioner of the General Land Office,,REP,Jerry Patterson,14,13,1
-LaSalle,1,Commissioner of the General Land Office,,REP,George P. Bush,14,12,2
-LaSalle,1,Commissioner of Agriculture,,REP,Trey Blocker,10,8,2
-LaSalle,1,Commissioner of Agriculture,,REP,Jim Hogan,7,7,0
-LaSalle,1,Commissioner of Agriculture,,REP,Sid Miller,12,11,1
-LaSalle,1,Railroad Commissioner,,REP,Christi Craddick,22,21,1
-LaSalle,1,Railroad Commissioner,,REP,Weston Martinez,6,4,2
-LaSalle,1,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,24,21,3
-LaSalle,1,"Justice, Supreme Court, Place 4",,REP,John Devine,24,21,3
-LaSalle,1,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,24,21,3
-LaSalle,1,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,19,16,3
-LaSalle,1,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,9,9,0
-LaSalle,1,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,23,21,2
-LaSalle,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,15,13,2
-LaSalle,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,3,2,1
-LaSalle,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,8,8,0
-LaSalle,1,"Justice, 4th Court of Appeals District, Place No. 2",,REP,Marialyn Barnard,23,21,2
-LaSalle,1,"Justice, 4th Court of Appeals District, Place No. 3",,REP,Jason Pulliam,25,22,3
-LaSalle,1,"Justice, 4th Court of Appeals District, Place No. 4",,REP,Patrick Ballantyne,24,21,3
-LaSalle,1,"Justice, 4th Court of Appeals District, Place No. 5",,REP,Rebecca Simmons,23,21,2
-LaSalle,1,"Justice, 4th Court of Appeals District, Place No. 7",,REP,Shane Stolarczyk,25,22,3
-LaSalle,1,"District Judge, 81st Judicial District",,REP,Lynn Ellison,25,23,2
-LaSalle,1,"District Judge, 218th Judicial District",,REP,Russell Wilson,25,22,3
-LaSalle,1,County Chair,,REP,Jim Zetzsche,24,21,3
-LaSalle,1,U.S. Senate,,DEM,Sema Hernandez,127,82,45
-LaSalle,1,U.S. Senate,,DEM,Edward Kimbrough,74,50,24
+LaSalle,1,Commissioner of the General Land Office,,REP,Davey Edwards,1,0,1
+LaSalle,1,Commissioner of the General Land Office,,REP,Jerry Patterson,14,1,13
+LaSalle,1,Commissioner of the General Land Office,,REP,George P. Bush,14,2,12
+LaSalle,1,Commissioner of Agriculture,,REP,Trey Blocker,10,2,8
+LaSalle,1,Commissioner of Agriculture,,REP,Jim Hogan,7,0,7
+LaSalle,1,Commissioner of Agriculture,,REP,Sid Miller,12,1,11
+LaSalle,1,Railroad Commissioner,,REP,Christi Craddick,22,1,21
+LaSalle,1,Railroad Commissioner,,REP,Weston Martinez,6,2,4
+LaSalle,1,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,24,3,21
+LaSalle,1,"Justice, Supreme Court, Place 4",,REP,John Devine,24,3,21
+LaSalle,1,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,24,3,21
+LaSalle,1,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,19,3,16
+LaSalle,1,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,9,0,9
+LaSalle,1,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,23,2,21
+LaSalle,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,15,2,13
+LaSalle,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,3,1,2
+LaSalle,1,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,8,0,8
+LaSalle,1,"Justice, 4th Court of Appeals District, Place No. 2",,REP,Marialyn Barnard,23,2,21
+LaSalle,1,"Justice, 4th Court of Appeals District, Place No. 3",,REP,Jason Pulliam,25,3,22
+LaSalle,1,"Justice, 4th Court of Appeals District, Place No. 4",,REP,Patrick Ballantyne,24,3,21
+LaSalle,1,"Justice, 4th Court of Appeals District, Place No. 5",,REP,Rebecca Simmons,23,2,21
+LaSalle,1,"Justice, 4th Court of Appeals District, Place No. 7",,REP,Shane Stolarczyk,25,3,22
+LaSalle,1,"District Judge, 81st Judicial District",,REP,Lynn Ellison,25,2,23
+LaSalle,1,"District Judge, 218th Judicial District",,REP,Russell Wilson,25,3,22
+LaSalle,1,County Chair,,REP,Jim Zetzsche,24,3,21
+LaSalle,1,U.S. Senate,,DEM,Sema Hernandez,127,45,82
+LaSalle,1,U.S. Senate,,DEM,Edward Kimbrough,74,24,50
 LaSalle,1,U.S. Senate,,DEM,Over Votes,0,0,0
-LaSalle,1,U.S. Senate,,DEM,Under Votes,198,131,67
+LaSalle,1,U.S. Senate,,DEM,Under Votes,198,67,131
 LaSalle,1,Registered Voters,,DEM,,1025,,
-LaSalle,1,Ballots Cast,,DEM,,524,343,41
-LaSalle,1,U.S. Senate,,DEM,Beto O'Rourke,95,54,41
-LaSalle,1,U.S. House,23,DEM,Rick Treviño,103,61,42
-LaSalle,1,U.S. House,23,DEM,Jay Hulings,61,46,15
-LaSalle,1,U.S. House,23,DEM,Gina Ortiz Jones,103,57,46
-LaSalle,1,U.S. House,23,DEM,"Angela ""Angie"" Villescaz",16,12,4
-LaSalle,1,U.S. House,23,DEM,Judy Canales,33,21,12
-LaSalle,1,Governor,,DEM,Lupe Valdez,101,67,34
-LaSalle,1,Governor,,DEM,James Jolly Clark,15,10,5
-LaSalle,1,Governor,,DEM,"Cedric Davis, Sr.",8,1,7
-LaSalle,1,Governor,,DEM,Adrian Ocegueda,23,13,10
-LaSalle,1,Governor,,DEM,Jeffrey Payne,27,18,9
-LaSalle,1,Governor,,DEM,Grady Yarbrough,55,31,24
-LaSalle,1,Governor,,DEM,Tom Wakely,12,11,1
-LaSalle,1,Governor,,DEM,Joe Mumbach,3,1,2
-LaSalle,1,Governor,,DEM,Andrew White,34,22,12
-LaSalle,1,Lieutenant Governor,,DEM,Mike Collier,143,92,51
-LaSalle,1,Lieutenant Governor,,DEM,Michael Cooper,119,74,45
-LaSalle,1,Attorney General,,DEM,Justin Nelson,226,141,85
-LaSalle,1,Comptroller of Public Accounts,,DEM,Joi Chevalier,86,52,34
-LaSalle,1,Comptroller of Public Accounts,,DEM,Tim Mahoney,175,113,62
-LaSalle,1,Commissioner of the General Land Office,,DEM,Tex Morgan,107,63,44
-LaSalle,1,Commissioner of the General Land Office,,DEM,Miguel Suazo,163,105,58
-LaSalle,1,Commissioner of Agriculture,,DEM,Kim Olson,216,134,82
-LaSalle,1,Railroad Commissioner,,DEM,Roman McAllen,158,102,56
-LaSalle,1,Railroad Commissioner,,DEM,Chris Spellmon,98,59,39
-LaSalle,1,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,214,131,83
-LaSalle,1,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,214,132,82
-LaSalle,1,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,211,130,81
-LaSalle,1,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,218,136,82
-LaSalle,1,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,217,134,83
-LaSalle,1,State Representative,31,DEM,Ryan Guillen,215,138,77
-LaSalle,1,State Representative,31,DEM,Ana Lisa Garza,137,86,51
-LaSalle,1,"Justice, 4th Court of Appeals District, Place No. 2",,DEM,Beth Watkins,218,134,84
-LaSalle,1,"Justice, 4th Court of Appeals District, Place No. 3",,DEM,Patricia O'Connell Alvarez,221,137,84
-LaSalle,1,"Justice, 4th Court of Appeals District, Place No. 4",,DEM,Luz Elena Chapa,218,135,83
-LaSalle,1,"Justice, 4th Court of Appeals District, Place No. 5",,DEM,Liza Rodriguez,230,142,88
-LaSalle,1,"Justice, 4th Court of Appeals District, Place No. 7",,DEM,Rebeca Martinez,233,150,83
-LaSalle,1,"District Judge, 81st Judicial District",,DEM,Errlinda Castillo,224,144,80
-LaSalle,1,County Judge,,DEM,"Joel Rodriguez, Jr.",234,153,81
-LaSalle,1,County Judge,,DEM,John Barnes,254,163,91
-LaSalle,1,District and County Clerk,,DEM,"Margarita ""Margie"" Avila Esqueda",304,204,100
-LaSalle,1,County Treasurer,,DEM,Thelma R. Trevino,142,99,43
-LaSalle,1,County Treasurer,,DEM,"Maria ""Mary"" M. Perez",182,114,68
-LaSalle,1,County Treasurer,,DEM,Martin Kruger,65,43,22
-LaSalle,1,County Treasurer,,DEM,June Galvan,86,51,35
-LaSalle,1,"Justice of the Peace, Precinct No. 1",,DEM,Joe R. Lozano,104,74,30
-LaSalle,1,"Justice of the Peace, Precinct No. 1",,DEM,Vicki Rodriguez,256,165,91
-LaSalle,1,"Justice of the Peace, Precinct No. 1",,DEM,Roxanna G. Rodriguez,126,72,54
-LaSalle,1,Proposition #1 Right to a 21st Century Public Education:,,,Yes,317,194,123
-LaSalle,1,Proposition #1 Right to a 21st Century Public Education:,,,No,61,46,15
-LaSalle,1,Proposition #2 Student Loan Debt:,,,Yes,329,205,124
-LaSalle,1,Proposition #2 Student Loan Debt:,,,No,56,38,18
-LaSalle,1,Proposition #3 Right to Healthcare:,,,Yes,294,188,106
-LaSalle,1,Proposition #3 Right to Healthcare:,,,No,75,48,27
-LaSalle,1,Proposition #4 Right to Economic Security:,,,Yes,304,192,112
-LaSalle,1,Proposition #4 Right to Economic Security:,,,No,55,36,19
-LaSalle,1,Proposition #5 National Jobs Program:,,,Yes,261,167,94
-LaSalle,1,Proposition #5 National Jobs Program:,,,No,78,49,29
-LaSalle,1,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,323,205,118
-LaSalle,1,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,35,25,10
-LaSalle,1,Proposition #7 Right to Dignity & Respect:,,,Yes,291,189,102
-LaSalle,1,Proposition #7 Right to Dignity & Respect:,,,No,54,31,23
-LaSalle,1,Proposition #8 Right to Housing:,,,Yes,258,171,87
-LaSalle,1,Proposition #8 Right to Housing:,,,No,89,51,38
-LaSalle,1,Proposition #9 Right to Vote:,,,Yes,265,170,95
-LaSalle,1,Proposition #9 Right to Vote:,,,No,77,50,27
-LaSalle,1,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,280,176,104
-LaSalle,1,Proposition #10 Right to a Fair Criminal Justice System:,,,No,61,43,18
-LaSalle,1,Proposition #11 Immigrant Rights:,,,Yes,266,168,98
-LaSalle,1,Proposition #11 Immigrant Rights:,,,No,73,46,27
-LaSalle,1,Proposition #12 Right to Fair Taxation:,,,Yes,294,183,111
-LaSalle,1,Proposition #12 Right to Fair Taxation:,,,No,45,31,14
-LaSalle,1,Proposition 1,,,YES,20,19,1
-LaSalle,1,Proposition 1,,,NO,9,7,2
-LaSalle,1,Proposition 2,,,YES,25,22,3
-LaSalle,1,Proposition 2,,,NO,4,4,0
-LaSalle,1,Proposition 3,,,YES,26,24,2
-LaSalle,1,Proposition 3,,,NO,3,2,1
-LaSalle,1,Proposition 4,,,YES,28,26,2
-LaSalle,1,Proposition 4,,,NO,1,0,1
-LaSalle,1,Proposition 5,,,YES,27,24,3
-LaSalle,1,Proposition 5,,,NO,3,2,1
-LaSalle,1,Proposition 6,,,YES,27,26,1
-LaSalle,1,Proposition 6,,,NO,3,0,3
-LaSalle,1,Proposition 7,,,YES,20,16,4
-LaSalle,1,Proposition 7,,,NO,10,10,0
-LaSalle,1,Proposition 8,,,YES,30,26,4
+LaSalle,1,Ballots Cast,,DEM,,524,41,343
+LaSalle,1,U.S. Senate,,DEM,Beto O'Rourke,95,41,54
+LaSalle,1,U.S. House,23,DEM,Rick Treviño,103,42,61
+LaSalle,1,U.S. House,23,DEM,Jay Hulings,61,15,46
+LaSalle,1,U.S. House,23,DEM,Gina Ortiz Jones,103,46,57
+LaSalle,1,U.S. House,23,DEM,"Angela ""Angie"" Villescaz",16,4,12
+LaSalle,1,U.S. House,23,DEM,Judy Canales,33,12,21
+LaSalle,1,Governor,,DEM,Lupe Valdez,101,34,67
+LaSalle,1,Governor,,DEM,James Jolly Clark,15,5,10
+LaSalle,1,Governor,,DEM,"Cedric Davis, Sr.",8,7,1
+LaSalle,1,Governor,,DEM,Adrian Ocegueda,23,10,13
+LaSalle,1,Governor,,DEM,Jeffrey Payne,27,9,18
+LaSalle,1,Governor,,DEM,Grady Yarbrough,55,24,31
+LaSalle,1,Governor,,DEM,Tom Wakely,12,1,11
+LaSalle,1,Governor,,DEM,Joe Mumbach,3,2,1
+LaSalle,1,Governor,,DEM,Andrew White,34,12,22
+LaSalle,1,Lieutenant Governor,,DEM,Mike Collier,143,51,92
+LaSalle,1,Lieutenant Governor,,DEM,Michael Cooper,119,45,74
+LaSalle,1,Attorney General,,DEM,Justin Nelson,226,85,141
+LaSalle,1,Comptroller of Public Accounts,,DEM,Joi Chevalier,86,34,52
+LaSalle,1,Comptroller of Public Accounts,,DEM,Tim Mahoney,175,62,113
+LaSalle,1,Commissioner of the General Land Office,,DEM,Tex Morgan,107,44,63
+LaSalle,1,Commissioner of the General Land Office,,DEM,Miguel Suazo,163,58,105
+LaSalle,1,Commissioner of Agriculture,,DEM,Kim Olson,216,82,134
+LaSalle,1,Railroad Commissioner,,DEM,Roman McAllen,158,56,102
+LaSalle,1,Railroad Commissioner,,DEM,Chris Spellmon,98,39,59
+LaSalle,1,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,214,83,131
+LaSalle,1,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,214,82,132
+LaSalle,1,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,211,81,130
+LaSalle,1,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,218,82,136
+LaSalle,1,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,217,83,134
+LaSalle,1,State Representative,31,DEM,Ryan Guillen,215,77,138
+LaSalle,1,State Representative,31,DEM,Ana Lisa Garza,137,51,86
+LaSalle,1,"Justice, 4th Court of Appeals District, Place No. 2",,DEM,Beth Watkins,218,84,134
+LaSalle,1,"Justice, 4th Court of Appeals District, Place No. 3",,DEM,Patricia O'Connell Alvarez,221,84,137
+LaSalle,1,"Justice, 4th Court of Appeals District, Place No. 4",,DEM,Luz Elena Chapa,218,83,135
+LaSalle,1,"Justice, 4th Court of Appeals District, Place No. 5",,DEM,Liza Rodriguez,230,88,142
+LaSalle,1,"Justice, 4th Court of Appeals District, Place No. 7",,DEM,Rebeca Martinez,233,83,150
+LaSalle,1,"District Judge, 81st Judicial District",,DEM,Errlinda Castillo,224,80,144
+LaSalle,1,County Judge,,DEM,"Joel Rodriguez, Jr.",234,81,153
+LaSalle,1,County Judge,,DEM,John Barnes,254,91,163
+LaSalle,1,District and County Clerk,,DEM,"Margarita ""Margie"" Avila Esqueda",304,100,204
+LaSalle,1,County Treasurer,,DEM,Thelma R. Trevino,142,43,99
+LaSalle,1,County Treasurer,,DEM,"Maria ""Mary"" M. Perez",182,68,114
+LaSalle,1,County Treasurer,,DEM,Martin Kruger,65,22,43
+LaSalle,1,County Treasurer,,DEM,June Galvan,86,35,51
+LaSalle,1,"Justice of the Peace, Precinct No. 1",,DEM,Joe R. Lozano,104,30,74
+LaSalle,1,"Justice of the Peace, Precinct No. 1",,DEM,Vicki Rodriguez,256,91,165
+LaSalle,1,"Justice of the Peace, Precinct No. 1",,DEM,Roxanna G. Rodriguez,126,54,72
+LaSalle,1,Proposition #1 Right to a 21st Century Public Education:,,,Yes,317,123,194
+LaSalle,1,Proposition #1 Right to a 21st Century Public Education:,,,No,61,15,46
+LaSalle,1,Proposition #2 Student Loan Debt:,,,Yes,329,124,205
+LaSalle,1,Proposition #2 Student Loan Debt:,,,No,56,18,38
+LaSalle,1,Proposition #3 Right to Healthcare:,,,Yes,294,106,188
+LaSalle,1,Proposition #3 Right to Healthcare:,,,No,75,27,48
+LaSalle,1,Proposition #4 Right to Economic Security:,,,Yes,304,112,192
+LaSalle,1,Proposition #4 Right to Economic Security:,,,No,55,19,36
+LaSalle,1,Proposition #5 National Jobs Program:,,,Yes,261,94,167
+LaSalle,1,Proposition #5 National Jobs Program:,,,No,78,29,49
+LaSalle,1,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,323,118,205
+LaSalle,1,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,35,10,25
+LaSalle,1,Proposition #7 Right to Dignity & Respect:,,,Yes,291,102,189
+LaSalle,1,Proposition #7 Right to Dignity & Respect:,,,No,54,23,31
+LaSalle,1,Proposition #8 Right to Housing:,,,Yes,258,87,171
+LaSalle,1,Proposition #8 Right to Housing:,,,No,89,38,51
+LaSalle,1,Proposition #9 Right to Vote:,,,Yes,265,95,170
+LaSalle,1,Proposition #9 Right to Vote:,,,No,77,27,50
+LaSalle,1,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,280,104,176
+LaSalle,1,Proposition #10 Right to a Fair Criminal Justice System:,,,No,61,18,43
+LaSalle,1,Proposition #11 Immigrant Rights:,,,Yes,266,98,168
+LaSalle,1,Proposition #11 Immigrant Rights:,,,No,73,27,46
+LaSalle,1,Proposition #12 Right to Fair Taxation:,,,Yes,294,111,183
+LaSalle,1,Proposition #12 Right to Fair Taxation:,,,No,45,14,31
+LaSalle,1,Proposition 1,,,YES,20,1,19
+LaSalle,1,Proposition 1,,,NO,9,2,7
+LaSalle,1,Proposition 2,,,YES,25,3,22
+LaSalle,1,Proposition 2,,,NO,4,0,4
+LaSalle,1,Proposition 3,,,YES,26,2,24
+LaSalle,1,Proposition 3,,,NO,3,1,2
+LaSalle,1,Proposition 4,,,YES,28,2,26
+LaSalle,1,Proposition 4,,,NO,1,1,0
+LaSalle,1,Proposition 5,,,YES,27,3,24
+LaSalle,1,Proposition 5,,,NO,3,1,2
+LaSalle,1,Proposition 6,,,YES,27,1,26
+LaSalle,1,Proposition 6,,,NO,3,3,0
+LaSalle,1,Proposition 7,,,YES,20,4,16
+LaSalle,1,Proposition 7,,,NO,10,0,10
+LaSalle,1,Proposition 8,,,YES,30,4,26
 LaSalle,1,Proposition 8,,,NO,0,0,0
-LaSalle,1,Proposition 9,,,YES,29,25,4
-LaSalle,1,Proposition 9,,,NO,1,1,0
-LaSalle,1,Proposition 10,,,YES,30,26,4
+LaSalle,1,Proposition 9,,,YES,29,4,25
+LaSalle,1,Proposition 9,,,NO,1,0,1
+LaSalle,1,Proposition 10,,,YES,30,4,26
 LaSalle,1,Proposition 10,,,NO,0,0,0
-LaSalle,1,Proposition 11,,,YES,24,21,3
-LaSalle,1,Proposition 11,,,NO,6,5,1
-LaSalle,2,U.S. Senate,,REP,Mary Miller,1,1,0
-LaSalle,2,U.S. Senate,,REP,"Bruce Jacobson, Jr.",2,2,0
+LaSalle,1,Proposition 11,,,YES,24,3,21
+LaSalle,1,Proposition 11,,,NO,6,1,5
+LaSalle,2,U.S. Senate,,REP,Mary Miller,1,0,1
+LaSalle,2,U.S. Senate,,REP,"Bruce Jacobson, Jr.",2,0,2
 LaSalle,2,U.S. Senate,,REP,Over Votes,0,0,0
 LaSalle,2,U.S. Senate,,REP,Under Votes,0,0,0
 LaSalle,2,Registered Voters,,REP,,626,,
-LaSalle,2,Ballots Cast,,REP,,334,156,0
-LaSalle,2,U.S. Senate,,REP,Geraldine Sam,1,1,0
+LaSalle,2,Ballots Cast,,REP,,334,0,156
+LaSalle,2,U.S. Senate,,REP,Geraldine Sam,1,0,1
 LaSalle,2,U.S. Senate,,REP,Stefano de Stefano,0,0,0
-LaSalle,2,U.S. Senate,,REP,Ted Cruz,5,3,2
+LaSalle,2,U.S. Senate,,REP,Ted Cruz,5,2,3
 LaSalle,2,Governor,,REP,SECEDE Kilgore,0,0,0
-LaSalle,2,Governor,,REP,Barbara Krueger,1,1,0
-LaSalle,2,Governor,,REP,Greg Abbott,8,6,2
-LaSalle,2,Lieutenant Governor,,REP,Scott Milder,3,2,1
-LaSalle,2,Lieutenant Governor,,REP,Dan Patrick,5,4,1
-LaSalle,2,Attorney General,,REP,Ken Paxton,8,6,2
-LaSalle,2,Comptroller of Public Accounts,,REP,Glenn Hegar,8,6,2
-LaSalle,2,Commissioner of the General Land Office,,REP,Rick Range,1,1,0
+LaSalle,2,Governor,,REP,Barbara Krueger,1,0,1
+LaSalle,2,Governor,,REP,Greg Abbott,8,2,6
+LaSalle,2,Lieutenant Governor,,REP,Scott Milder,3,1,2
+LaSalle,2,Lieutenant Governor,,REP,Dan Patrick,5,1,4
+LaSalle,2,Attorney General,,REP,Ken Paxton,8,2,6
+LaSalle,2,Comptroller of Public Accounts,,REP,Glenn Hegar,8,2,6
+LaSalle,2,Commissioner of the General Land Office,,REP,Rick Range,1,0,1
 LaSalle,2,Commissioner of the General Land Office,,REP,Davey Edwards,0,0,0
 LaSalle,2,Commissioner of the General Land Office,,REP,Jerry Patterson,4,2,2
-LaSalle,2,Commissioner of the General Land Office,,REP,George P. Bush,3,3,0
+LaSalle,2,Commissioner of the General Land Office,,REP,George P. Bush,3,0,3
 LaSalle,2,Commissioner of Agriculture,,REP,Trey Blocker,0,0,0
-LaSalle,2,Commissioner of Agriculture,,REP,Jim Hogan,6,4,2
-LaSalle,2,Commissioner of Agriculture,,REP,Sid Miller,2,2,0
-LaSalle,2,Railroad Commissioner,,REP,Christi Craddick,6,5,1
-LaSalle,2,Railroad Commissioner,,REP,Weston Martinez,3,2,1
-LaSalle,2,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,7,5,2
-LaSalle,2,"Justice, Supreme Court, Place 4",,REP,John Devine,7,5,2
-LaSalle,2,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,7,5,2
-LaSalle,2,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,6,6,0
-LaSalle,2,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,3,1,2
-LaSalle,2,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,7,5,2
-LaSalle,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,5,5,0
-LaSalle,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,1,1,0
+LaSalle,2,Commissioner of Agriculture,,REP,Jim Hogan,6,2,4
+LaSalle,2,Commissioner of Agriculture,,REP,Sid Miller,2,0,2
+LaSalle,2,Railroad Commissioner,,REP,Christi Craddick,6,1,5
+LaSalle,2,Railroad Commissioner,,REP,Weston Martinez,3,1,2
+LaSalle,2,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,7,2,5
+LaSalle,2,"Justice, Supreme Court, Place 4",,REP,John Devine,7,2,5
+LaSalle,2,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,7,2,5
+LaSalle,2,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,6,0,6
+LaSalle,2,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,3,2,1
+LaSalle,2,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,7,2,5
+LaSalle,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,5,0,5
+LaSalle,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,1,0,1
 LaSalle,2,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,2,1,1
-LaSalle,2,"Justice, 4th Court of Appeals District, Place No. 2",,REP,Marialyn Barnard,7,5,2
-LaSalle,2,"Justice, 4th Court of Appeals District, Place No. 3",,REP,Jason Pulliam,7,5,2
-LaSalle,2,"Justice, 4th Court of Appeals District, Place No. 4",,REP,Patrick Ballantyne,7,5,2
-LaSalle,2,"Justice, 4th Court of Appeals District, Place No. 5",,REP,Rebecca Simmons,7,5,2
-LaSalle,2,"Justice, 4th Court of Appeals District, Place No. 7",,REP,Shane Stolarczyk,7,5,2
-LaSalle,2,"District Judge, 81st Judicial District",,REP,Lynn Ellison,6,5,1
-LaSalle,2,"District Judge, 218th Judicial District",,REP,Russell Wilson,7,5,2
-LaSalle,2,County Chair,,REP,Jim Zetzsche,7,5,2
-LaSalle,2,U.S. Senate,,DEM,Sema Hernandez,91,37,54
-LaSalle,2,U.S. Senate,,DEM,Edward Kimbrough,29,8,21
+LaSalle,2,"Justice, 4th Court of Appeals District, Place No. 2",,REP,Marialyn Barnard,7,2,5
+LaSalle,2,"Justice, 4th Court of Appeals District, Place No. 3",,REP,Jason Pulliam,7,2,5
+LaSalle,2,"Justice, 4th Court of Appeals District, Place No. 4",,REP,Patrick Ballantyne,7,2,5
+LaSalle,2,"Justice, 4th Court of Appeals District, Place No. 5",,REP,Rebecca Simmons,7,2,5
+LaSalle,2,"Justice, 4th Court of Appeals District, Place No. 7",,REP,Shane Stolarczyk,7,2,5
+LaSalle,2,"District Judge, 81st Judicial District",,REP,Lynn Ellison,6,1,5
+LaSalle,2,"District Judge, 218th Judicial District",,REP,Russell Wilson,7,2,5
+LaSalle,2,County Chair,,REP,Jim Zetzsche,7,2,5
+LaSalle,2,U.S. Senate,,DEM,Sema Hernandez,91,54,37
+LaSalle,2,U.S. Senate,,DEM,Edward Kimbrough,29,21,8
 LaSalle,2,U.S. Senate,,DEM,Over Votes,0,0,0
-LaSalle,2,U.S. Senate,,DEM,Under Votes,138,70,68
+LaSalle,2,U.S. Senate,,DEM,Under Votes,138,68,70
 LaSalle,2,Registered Voters,,DEM,,626,,
-LaSalle,2,Ballots Cast,,DEM,,334,156,33
-LaSalle,2,U.S. Senate,,DEM,Beto O'Rourke,67,34,33
-LaSalle,2,U.S. House,28,DEM,Henry Cuellar,169,69,100
-LaSalle,2,Governor,,DEM,Lupe Valdez,100,54,46
-LaSalle,2,Governor,,DEM,James Jolly Clark,7,1,6
+LaSalle,2,Ballots Cast,,DEM,,334,33,156
+LaSalle,2,U.S. Senate,,DEM,Beto O'Rourke,67,33,34
+LaSalle,2,U.S. House,28,DEM,Henry Cuellar,169,100,69
+LaSalle,2,Governor,,DEM,Lupe Valdez,100,46,54
+LaSalle,2,Governor,,DEM,James Jolly Clark,7,6,1
 LaSalle,2,Governor,,DEM,"Cedric Davis, Sr.",6,3,3
-LaSalle,2,Governor,,DEM,Adrian Ocegueda,16,7,9
-LaSalle,2,Governor,,DEM,Jeffrey Payne,14,6,8
-LaSalle,2,Governor,,DEM,Grady Yarbrough,8,2,6
-LaSalle,2,Governor,,DEM,Tom Wakely,9,3,6
-LaSalle,2,Governor,,DEM,Joe Mumbach,4,0,4
-LaSalle,2,Governor,,DEM,Andrew White,15,5,10
-LaSalle,2,Lieutenant Governor,,DEM,Mike Collier,70,31,39
-LaSalle,2,Lieutenant Governor,,DEM,Michael Cooper,78,29,49
-LaSalle,2,Attorney General,,DEM,Justin Nelson,124,50,74
-LaSalle,2,Comptroller of Public Accounts,,DEM,Joi Chevalier,52,27,25
-LaSalle,2,Comptroller of Public Accounts,,DEM,Tim Mahoney,92,31,61
-LaSalle,2,Commissioner of the General Land Office,,DEM,Tex Morgan,48,16,32
-LaSalle,2,Commissioner of the General Land Office,,DEM,Miguel Suazo,105,45,60
-LaSalle,2,Commissioner of Agriculture,,DEM,Kim Olson,113,49,64
-LaSalle,2,Railroad Commissioner,,DEM,Roman McAllen,97,45,52
-LaSalle,2,Railroad Commissioner,,DEM,Chris Spellmon,51,16,35
-LaSalle,2,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,107,47,60
-LaSalle,2,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,110,46,64
-LaSalle,2,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,105,45,60
-LaSalle,2,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,106,46,60
-LaSalle,2,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,107,49,58
-LaSalle,2,State Representative,31,DEM,Ryan Guillen,127,58,69
-LaSalle,2,State Representative,31,DEM,Ana Lisa Garza,82,34,48
-LaSalle,2,"Justice, 4th Court of Appeals District, Place No. 2",,DEM,Beth Watkins,105,47,58
-LaSalle,2,"Justice, 4th Court of Appeals District, Place No. 3",,DEM,Patricia O'Connell Alvarez,107,47,60
-LaSalle,2,"Justice, 4th Court of Appeals District, Place No. 4",,DEM,Luz Elena Chapa,117,51,66
-LaSalle,2,"Justice, 4th Court of Appeals District, Place No. 5",,DEM,Liza Rodriguez,114,51,63
-LaSalle,2,"Justice, 4th Court of Appeals District, Place No. 7",,DEM,Rebeca Martinez,113,47,66
-LaSalle,2,"District Judge, 81st Judicial District",,DEM,Errlinda Castillo,112,48,64
-LaSalle,2,County Judge,,DEM,"Joel Rodriguez, Jr.",206,114,92
-LaSalle,2,County Judge,,DEM,John Barnes,106,29,77
-LaSalle,2,District and County Clerk,,DEM,"Margarita ""Margie"" Avila Esqueda",175,90,85
-LaSalle,2,County Treasurer,,DEM,Thelma R. Trevino,118,66,52
-LaSalle,2,County Treasurer,,DEM,"Maria ""Mary"" M. Perez",152,64,88
-LaSalle,2,County Treasurer,,DEM,Martin Kruger,17,4,13
-LaSalle,2,County Treasurer,,DEM,June Galvan,25,11,14
-LaSalle,2,"County Commissioner, Precinct No. 2",,DEM,"Alfredo Valles, Jr.",42,15,27
-LaSalle,2,"County Commissioner, Precinct No. 2",,DEM,"Joaquin ""Jack"" Alba",202,98,104
-LaSalle,2,"County Commissioner, Precinct No. 2",,DEM,"Ricardo ""Poche"" Garza",70,31,39
-LaSalle,2,"Justice of the Peace, Precinct No. 2",,DEM,"William ""Frank"" Weikel",213,87,126
+LaSalle,2,Governor,,DEM,Adrian Ocegueda,16,9,7
+LaSalle,2,Governor,,DEM,Jeffrey Payne,14,8,6
+LaSalle,2,Governor,,DEM,Grady Yarbrough,8,6,2
+LaSalle,2,Governor,,DEM,Tom Wakely,9,6,3
+LaSalle,2,Governor,,DEM,Joe Mumbach,4,4,0
+LaSalle,2,Governor,,DEM,Andrew White,15,10,5
+LaSalle,2,Lieutenant Governor,,DEM,Mike Collier,70,39,31
+LaSalle,2,Lieutenant Governor,,DEM,Michael Cooper,78,49,29
+LaSalle,2,Attorney General,,DEM,Justin Nelson,124,74,50
+LaSalle,2,Comptroller of Public Accounts,,DEM,Joi Chevalier,52,25,27
+LaSalle,2,Comptroller of Public Accounts,,DEM,Tim Mahoney,92,61,31
+LaSalle,2,Commissioner of the General Land Office,,DEM,Tex Morgan,48,32,16
+LaSalle,2,Commissioner of the General Land Office,,DEM,Miguel Suazo,105,60,45
+LaSalle,2,Commissioner of Agriculture,,DEM,Kim Olson,113,64,49
+LaSalle,2,Railroad Commissioner,,DEM,Roman McAllen,97,52,45
+LaSalle,2,Railroad Commissioner,,DEM,Chris Spellmon,51,35,16
+LaSalle,2,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,107,60,47
+LaSalle,2,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,110,64,46
+LaSalle,2,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,105,60,45
+LaSalle,2,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,106,60,46
+LaSalle,2,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,107,58,49
+LaSalle,2,State Representative,31,DEM,Ryan Guillen,127,69,58
+LaSalle,2,State Representative,31,DEM,Ana Lisa Garza,82,48,34
+LaSalle,2,"Justice, 4th Court of Appeals District, Place No. 2",,DEM,Beth Watkins,105,58,47
+LaSalle,2,"Justice, 4th Court of Appeals District, Place No. 3",,DEM,Patricia O'Connell Alvarez,107,60,47
+LaSalle,2,"Justice, 4th Court of Appeals District, Place No. 4",,DEM,Luz Elena Chapa,117,66,51
+LaSalle,2,"Justice, 4th Court of Appeals District, Place No. 5",,DEM,Liza Rodriguez,114,63,51
+LaSalle,2,"Justice, 4th Court of Appeals District, Place No. 7",,DEM,Rebeca Martinez,113,66,47
+LaSalle,2,"District Judge, 81st Judicial District",,DEM,Errlinda Castillo,112,64,48
+LaSalle,2,County Judge,,DEM,"Joel Rodriguez, Jr.",206,92,114
+LaSalle,2,County Judge,,DEM,John Barnes,106,77,29
+LaSalle,2,District and County Clerk,,DEM,"Margarita ""Margie"" Avila Esqueda",175,85,90
+LaSalle,2,County Treasurer,,DEM,Thelma R. Trevino,118,52,66
+LaSalle,2,County Treasurer,,DEM,"Maria ""Mary"" M. Perez",152,88,64
+LaSalle,2,County Treasurer,,DEM,Martin Kruger,17,13,4
+LaSalle,2,County Treasurer,,DEM,June Galvan,25,14,11
+LaSalle,2,"County Commissioner, Precinct No. 2",,DEM,"Alfredo Valles, Jr.",42,27,15
+LaSalle,2,"County Commissioner, Precinct No. 2",,DEM,"Joaquin ""Jack"" Alba",202,104,98
+LaSalle,2,"County Commissioner, Precinct No. 2",,DEM,"Ricardo ""Poche"" Garza",70,39,31
+LaSalle,2,"Justice of the Peace, Precinct No. 2",,DEM,"William ""Frank"" Weikel",213,126,87
 LaSalle,2,"Justice of the Peace, Precinct No. 2",,DEM,"Randall ""Hank"" McKinney",80,40,40
-LaSalle,2,Proposition #1 Right to a 21st Century Public Education:,,,Yes,195,78,117
-LaSalle,2,Proposition #1 Right to a 21st Century Public Education:,,,No,8,2,6
-LaSalle,2,Proposition #2 Student Loan Debt:,,,Yes,184,74,110
-LaSalle,2,Proposition #2 Student Loan Debt:,,,No,15,6,9
-LaSalle,2,Proposition #3 Right to Healthcare:,,,Yes,177,71,106
-LaSalle,2,Proposition #3 Right to Healthcare:,,,No,9,4,5
-LaSalle,2,Proposition #4 Right to Economic Security:,,,Yes,174,72,102
-LaSalle,2,Proposition #4 Right to Economic Security:,,,No,5,1,4
-LaSalle,2,Proposition #5 National Jobs Program:,,,Yes,146,62,84
-LaSalle,2,Proposition #5 National Jobs Program:,,,No,22,6,16
-LaSalle,2,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,177,71,106
-LaSalle,2,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,1,1,0
-LaSalle,2,Proposition #7 Right to Dignity & Respect:,,,Yes,171,71,100
-LaSalle,2,Proposition #7 Right to Dignity & Respect:,,,No,6,2,4
-LaSalle,2,Proposition #8 Right to Housing:,,,Yes,156,66,90
-LaSalle,2,Proposition #8 Right to Housing:,,,No,15,5,10
-LaSalle,2,Proposition #9 Right to Vote:,,,Yes,156,64,92
-LaSalle,2,Proposition #9 Right to Vote:,,,No,10,1,9
-LaSalle,2,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,165,65,100
-LaSalle,2,Proposition #10 Right to a Fair Criminal Justice System:,,,No,5,3,2
-LaSalle,2,Proposition #11 Immigrant Rights:,,,Yes,144,55,89
-LaSalle,2,Proposition #11 Immigrant Rights:,,,No,21,8,13
-LaSalle,2,Proposition #12 Right to Fair Taxation:,,,Yes,164,65,99
-LaSalle,2,Proposition #12 Right to Fair Taxation:,,,No,8,2,6
-LaSalle,2,Proposition 1,,,YES,7,5,2
-LaSalle,2,Proposition 1,,,NO,2,2,0
-LaSalle,2,Proposition 2,,,YES,8,6,2
-LaSalle,2,Proposition 2,,,NO,1,1,0
-LaSalle,2,Proposition 3,,,YES,8,6,2
-LaSalle,2,Proposition 3,,,NO,1,1,0
-LaSalle,2,Proposition 4,,,YES,8,7,1
+LaSalle,2,Proposition #1 Right to a 21st Century Public Education:,,,Yes,195,117,78
+LaSalle,2,Proposition #1 Right to a 21st Century Public Education:,,,No,8,6,2
+LaSalle,2,Proposition #2 Student Loan Debt:,,,Yes,184,110,74
+LaSalle,2,Proposition #2 Student Loan Debt:,,,No,15,9,6
+LaSalle,2,Proposition #3 Right to Healthcare:,,,Yes,177,106,71
+LaSalle,2,Proposition #3 Right to Healthcare:,,,No,9,5,4
+LaSalle,2,Proposition #4 Right to Economic Security:,,,Yes,174,102,72
+LaSalle,2,Proposition #4 Right to Economic Security:,,,No,5,4,1
+LaSalle,2,Proposition #5 National Jobs Program:,,,Yes,146,84,62
+LaSalle,2,Proposition #5 National Jobs Program:,,,No,22,16,6
+LaSalle,2,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,177,106,71
+LaSalle,2,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,1,0,1
+LaSalle,2,Proposition #7 Right to Dignity & Respect:,,,Yes,171,100,71
+LaSalle,2,Proposition #7 Right to Dignity & Respect:,,,No,6,4,2
+LaSalle,2,Proposition #8 Right to Housing:,,,Yes,156,90,66
+LaSalle,2,Proposition #8 Right to Housing:,,,No,15,10,5
+LaSalle,2,Proposition #9 Right to Vote:,,,Yes,156,92,64
+LaSalle,2,Proposition #9 Right to Vote:,,,No,10,9,1
+LaSalle,2,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,165,100,65
+LaSalle,2,Proposition #10 Right to a Fair Criminal Justice System:,,,No,5,2,3
+LaSalle,2,Proposition #11 Immigrant Rights:,,,Yes,144,89,55
+LaSalle,2,Proposition #11 Immigrant Rights:,,,No,21,13,8
+LaSalle,2,Proposition #12 Right to Fair Taxation:,,,Yes,164,99,65
+LaSalle,2,Proposition #12 Right to Fair Taxation:,,,No,8,6,2
+LaSalle,2,Proposition 1,,,YES,7,2,5
+LaSalle,2,Proposition 1,,,NO,2,0,2
+LaSalle,2,Proposition 2,,,YES,8,2,6
+LaSalle,2,Proposition 2,,,NO,1,0,1
+LaSalle,2,Proposition 3,,,YES,8,2,6
+LaSalle,2,Proposition 3,,,NO,1,0,1
+LaSalle,2,Proposition 4,,,YES,8,1,7
 LaSalle,2,Proposition 4,,,NO,0,0,0
-LaSalle,2,Proposition 5,,,YES,9,7,2
+LaSalle,2,Proposition 5,,,YES,9,2,7
 LaSalle,2,Proposition 5,,,NO,0,0,0
-LaSalle,2,Proposition 6,,,YES,9,7,2
+LaSalle,2,Proposition 6,,,YES,9,2,7
 LaSalle,2,Proposition 6,,,NO,0,0,0
-LaSalle,2,Proposition 7,,,YES,5,3,2
-LaSalle,2,Proposition 7,,,NO,3,3,0
-LaSalle,2,Proposition 8,,,YES,9,7,2
+LaSalle,2,Proposition 7,,,YES,5,2,3
+LaSalle,2,Proposition 7,,,NO,3,0,3
+LaSalle,2,Proposition 8,,,YES,9,2,7
 LaSalle,2,Proposition 8,,,NO,0,0,0
-LaSalle,2,Proposition 9,,,YES,8,6,2
+LaSalle,2,Proposition 9,,,YES,8,2,6
 LaSalle,2,Proposition 9,,,NO,0,0,0
-LaSalle,2,Proposition 10,,,YES,9,7,2
+LaSalle,2,Proposition 10,,,YES,9,2,7
 LaSalle,2,Proposition 10,,,NO,0,0,0
-LaSalle,2,Proposition 11,,,YES,7,6,1
-LaSalle,2,Proposition 11,,,NO,1,0,1
+LaSalle,2,Proposition 11,,,YES,7,1,6
+LaSalle,2,Proposition 11,,,NO,1,1,0
 LaSalle,3,U.S. Senate,,REP,Mary Miller,0,0,0
 LaSalle,3,U.S. Senate,,REP,"Bruce Jacobson, Jr.",2,1,1
 LaSalle,3,U.S. Senate,,REP,Over Votes,0,0,0
 LaSalle,3,U.S. Senate,,REP,Under Votes,0,0,0
 LaSalle,3,Registered Voters,,REP,,1033,,
-LaSalle,3,Ballots Cast,,REP,,470,255,0
+LaSalle,3,Ballots Cast,,REP,,470,0,255
 LaSalle,3,U.S. Senate,,REP,Geraldine Sam,0,0,0
 LaSalle,3,U.S. Senate,,REP,Stefano de Stefano,0,0,0
-LaSalle,3,U.S. Senate,,REP,Ted Cruz,7,6,1
-LaSalle,3,U.S. House,23,REP,Will Hurd,7,6,1
+LaSalle,3,U.S. Senate,,REP,Ted Cruz,7,1,6
+LaSalle,3,U.S. House,23,REP,Will Hurd,7,1,6
 LaSalle,3,U.S. House,23,REP,Alma Arredondo-Lynch,2,1,1
-LaSalle,3,Governor,,REP,SECEDE Kilgore,1,0,1
-LaSalle,3,Governor,,REP,Barbara Krueger,1,1,0
-LaSalle,3,Governor,,REP,Greg Abbott,7,6,1
-LaSalle,3,Lieutenant Governor,,REP,Scott Milder,2,2,0
-LaSalle,3,Lieutenant Governor,,REP,Dan Patrick,7,5,2
-LaSalle,3,Attorney General,,REP,Ken Paxton,8,6,2
-LaSalle,3,Comptroller of Public Accounts,,REP,Glenn Hegar,8,6,2
-LaSalle,3,Commissioner of the General Land Office,,REP,Rick Range,1,1,0
+LaSalle,3,Governor,,REP,SECEDE Kilgore,1,1,0
+LaSalle,3,Governor,,REP,Barbara Krueger,1,0,1
+LaSalle,3,Governor,,REP,Greg Abbott,7,1,6
+LaSalle,3,Lieutenant Governor,,REP,Scott Milder,2,0,2
+LaSalle,3,Lieutenant Governor,,REP,Dan Patrick,7,2,5
+LaSalle,3,Attorney General,,REP,Ken Paxton,8,2,6
+LaSalle,3,Comptroller of Public Accounts,,REP,Glenn Hegar,8,2,6
+LaSalle,3,Commissioner of the General Land Office,,REP,Rick Range,1,0,1
 LaSalle,3,Commissioner of the General Land Office,,REP,Davey Edwards,0,0,0
-LaSalle,3,Commissioner of the General Land Office,,REP,Jerry Patterson,3,2,1
-LaSalle,3,Commissioner of the General Land Office,,REP,George P. Bush,5,4,1
-LaSalle,3,Commissioner of Agriculture,,REP,Trey Blocker,2,2,0
-LaSalle,3,Commissioner of Agriculture,,REP,Jim Hogan,3,2,1
+LaSalle,3,Commissioner of the General Land Office,,REP,Jerry Patterson,3,1,2
+LaSalle,3,Commissioner of the General Land Office,,REP,George P. Bush,5,1,4
+LaSalle,3,Commissioner of Agriculture,,REP,Trey Blocker,2,0,2
+LaSalle,3,Commissioner of Agriculture,,REP,Jim Hogan,3,1,2
 LaSalle,3,Commissioner of Agriculture,,REP,Sid Miller,2,1,1
-LaSalle,3,Railroad Commissioner,,REP,Christi Craddick,4,3,1
-LaSalle,3,Railroad Commissioner,,REP,Weston Martinez,4,3,1
-LaSalle,3,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,8,6,2
-LaSalle,3,"Justice, Supreme Court, Place 4",,REP,John Devine,7,5,2
-LaSalle,3,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,7,5,2
-LaSalle,3,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,5,4,1
+LaSalle,3,Railroad Commissioner,,REP,Christi Craddick,4,1,3
+LaSalle,3,Railroad Commissioner,,REP,Weston Martinez,4,1,3
+LaSalle,3,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,8,2,6
+LaSalle,3,"Justice, Supreme Court, Place 4",,REP,John Devine,7,2,5
+LaSalle,3,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,7,2,5
+LaSalle,3,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,5,1,4
 LaSalle,3,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,2,1,1
-LaSalle,3,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,9,7,2
-LaSalle,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,4,3,1
-LaSalle,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,3,2,1
-LaSalle,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,1,1,0
-LaSalle,3,"Justice, 4th Court of Appeals District, Place No. 2",,REP,Marialyn Barnard,8,6,2
-LaSalle,3,"Justice, 4th Court of Appeals District, Place No. 3",,REP,Jason Pulliam,8,6,2
-LaSalle,3,"Justice, 4th Court of Appeals District, Place No. 4",,REP,Patrick Ballantyne,8,6,2
-LaSalle,3,"Justice, 4th Court of Appeals District, Place No. 5",,REP,Rebecca Simmons,9,7,2
-LaSalle,3,"Justice, 4th Court of Appeals District, Place No. 7",,REP,Shane Stolarczyk,8,6,2
-LaSalle,3,"District Judge, 81st Judicial District",,REP,Lynn Ellison,8,6,2
-LaSalle,3,"District Judge, 218th Judicial District",,REP,Russell Wilson,7,5,2
-LaSalle,3,County Chair,,REP,Jim Zetzsche,8,6,2
-LaSalle,3,U.S. Senate,,DEM,Sema Hernandez,132,64,68
-LaSalle,3,U.S. Senate,,DEM,Edward Kimbrough,36,24,12
+LaSalle,3,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,9,2,7
+LaSalle,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,4,1,3
+LaSalle,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,3,1,2
+LaSalle,3,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,1,0,1
+LaSalle,3,"Justice, 4th Court of Appeals District, Place No. 2",,REP,Marialyn Barnard,8,2,6
+LaSalle,3,"Justice, 4th Court of Appeals District, Place No. 3",,REP,Jason Pulliam,8,2,6
+LaSalle,3,"Justice, 4th Court of Appeals District, Place No. 4",,REP,Patrick Ballantyne,8,2,6
+LaSalle,3,"Justice, 4th Court of Appeals District, Place No. 5",,REP,Rebecca Simmons,9,2,7
+LaSalle,3,"Justice, 4th Court of Appeals District, Place No. 7",,REP,Shane Stolarczyk,8,2,6
+LaSalle,3,"District Judge, 81st Judicial District",,REP,Lynn Ellison,8,2,6
+LaSalle,3,"District Judge, 218th Judicial District",,REP,Russell Wilson,7,2,5
+LaSalle,3,County Chair,,REP,Jim Zetzsche,8,2,6
+LaSalle,3,U.S. Senate,,DEM,Sema Hernandez,132,68,64
+LaSalle,3,U.S. Senate,,DEM,Edward Kimbrough,36,12,24
 LaSalle,3,U.S. Senate,,DEM,Over Votes,0,0,0
-LaSalle,3,U.S. Senate,,DEM,Under Votes,204,110,94
+LaSalle,3,U.S. Senate,,DEM,Under Votes,204,94,110
 LaSalle,3,Registered Voters,,DEM,,1033,,
-LaSalle,3,Ballots Cast,,DEM,,470,255,39
-LaSalle,3,U.S. Senate,,DEM,Beto O'Rourke,89,50,39
-LaSalle,3,U.S. House,23,DEM,Rick Treviño,95,35,60
-LaSalle,3,U.S. House,23,DEM,Jay Hulings,53,33,20
-LaSalle,3,U.S. House,23,DEM,Gina Ortiz Jones,95,51,44
-LaSalle,3,U.S. House,23,DEM,"Angela ""Angie"" Villescaz",21,10,11
-LaSalle,3,U.S. House,23,DEM,Judy Canales,20,15,5
-LaSalle,3,Governor,,DEM,Lupe Valdez,142,72,70
-LaSalle,3,Governor,,DEM,James Jolly Clark,8,6,2
-LaSalle,3,Governor,,DEM,"Cedric Davis, Sr.",8,3,5
-LaSalle,3,Governor,,DEM,Adrian Ocegueda,31,20,11
-LaSalle,3,Governor,,DEM,Jeffrey Payne,14,8,6
-LaSalle,3,Governor,,DEM,Grady Yarbrough,15,8,7
-LaSalle,3,Governor,,DEM,Tom Wakely,3,3,0
-LaSalle,3,Governor,,DEM,Joe Mumbach,5,3,2
-LaSalle,3,Governor,,DEM,Andrew White,23,13,10
-LaSalle,3,Lieutenant Governor,,DEM,Mike Collier,115,65,50
-LaSalle,3,Lieutenant Governor,,DEM,Michael Cooper,106,51,55
-LaSalle,3,Attorney General,,DEM,Justin Nelson,186,95,91
+LaSalle,3,Ballots Cast,,DEM,,470,39,255
+LaSalle,3,U.S. Senate,,DEM,Beto O'Rourke,89,39,50
+LaSalle,3,U.S. House,23,DEM,Rick Treviño,95,60,35
+LaSalle,3,U.S. House,23,DEM,Jay Hulings,53,20,33
+LaSalle,3,U.S. House,23,DEM,Gina Ortiz Jones,95,44,51
+LaSalle,3,U.S. House,23,DEM,"Angela ""Angie"" Villescaz",21,11,10
+LaSalle,3,U.S. House,23,DEM,Judy Canales,20,5,15
+LaSalle,3,Governor,,DEM,Lupe Valdez,142,70,72
+LaSalle,3,Governor,,DEM,James Jolly Clark,8,2,6
+LaSalle,3,Governor,,DEM,"Cedric Davis, Sr.",8,5,3
+LaSalle,3,Governor,,DEM,Adrian Ocegueda,31,11,20
+LaSalle,3,Governor,,DEM,Jeffrey Payne,14,6,8
+LaSalle,3,Governor,,DEM,Grady Yarbrough,15,7,8
+LaSalle,3,Governor,,DEM,Tom Wakely,3,0,3
+LaSalle,3,Governor,,DEM,Joe Mumbach,5,2,3
+LaSalle,3,Governor,,DEM,Andrew White,23,10,13
+LaSalle,3,Lieutenant Governor,,DEM,Mike Collier,115,50,65
+LaSalle,3,Lieutenant Governor,,DEM,Michael Cooper,106,55,51
+LaSalle,3,Attorney General,,DEM,Justin Nelson,186,91,95
 LaSalle,3,Comptroller of Public Accounts,,DEM,Joi Chevalier,84,42,42
-LaSalle,3,Comptroller of Public Accounts,,DEM,Tim Mahoney,135,75,60
-LaSalle,3,Commissioner of the General Land Office,,DEM,Tex Morgan,57,33,24
-LaSalle,3,Commissioner of the General Land Office,,DEM,Miguel Suazo,171,89,82
-LaSalle,3,Commissioner of Agriculture,,DEM,Kim Olson,173,91,82
-LaSalle,3,Railroad Commissioner,,DEM,Roman McAllen,131,68,63
-LaSalle,3,Railroad Commissioner,,DEM,Chris Spellmon,84,45,39
-LaSalle,3,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,175,93,82
-LaSalle,3,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,171,93,78
-LaSalle,3,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,175,94,81
-LaSalle,3,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,179,94,85
-LaSalle,3,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,172,94,78
-LaSalle,3,State Representative,31,DEM,Ryan Guillen,180,108,72
-LaSalle,3,State Representative,31,DEM,Ana Lisa Garza,126,59,67
-LaSalle,3,"Justice, 4th Court of Appeals District, Place No. 2",,DEM,Beth Watkins,176,94,82
-LaSalle,3,"Justice, 4th Court of Appeals District, Place No. 3",,DEM,Patricia O'Connell Alvarez,180,95,85
-LaSalle,3,"Justice, 4th Court of Appeals District, Place No. 4",,DEM,Luz Elena Chapa,187,94,93
-LaSalle,3,"Justice, 4th Court of Appeals District, Place No. 5",,DEM,Liza Rodriguez,191,97,94
-LaSalle,3,"Justice, 4th Court of Appeals District, Place No. 7",,DEM,Rebeca Martinez,195,99,96
-LaSalle,3,"District Judge, 81st Judicial District",,DEM,Errlinda Castillo,177,93,84
-LaSalle,3,County Judge,,DEM,"Joel Rodriguez, Jr.",292,167,125
-LaSalle,3,County Judge,,DEM,John Barnes,149,74,75
-LaSalle,3,District and County Clerk,,DEM,"Margarita ""Margie"" Avila Esqueda",254,132,122
-LaSalle,3,County Treasurer,,DEM,Thelma R. Trevino,163,93,70
-LaSalle,3,County Treasurer,,DEM,"Maria ""Mary"" M. Perez",198,112,86
-LaSalle,3,County Treasurer,,DEM,Martin Kruger,16,12,4
-LaSalle,3,County Treasurer,,DEM,June Galvan,70,30,40
-LaSalle,3,"Justice of the Peace, Precinct No. 3",,DEM,Mary Jean Garcia,109,66,43
-LaSalle,3,"Justice of the Peace, Precinct No. 3",,DEM,Jesus C. Gonzalez,69,41,28
-LaSalle,3,"Justice of the Peace, Precinct No. 3",,DEM,George Trigo,261,132,129
-LaSalle,3,Proposition #1 Right to a 21st Century Public Education:,,,Yes,279,143,136
-LaSalle,3,Proposition #1 Right to a 21st Century Public Education:,,,No,17,11,6
-LaSalle,3,Proposition #2 Student Loan Debt:,,,Yes,255,130,125
-LaSalle,3,Proposition #2 Student Loan Debt:,,,No,31,18,13
-LaSalle,3,Proposition #3 Right to Healthcare:,,,Yes,268,139,129
-LaSalle,3,Proposition #3 Right to Healthcare:,,,No,34,14,20
-LaSalle,3,Proposition #4 Right to Economic Security:,,,Yes,269,138,131
+LaSalle,3,Comptroller of Public Accounts,,DEM,Tim Mahoney,135,60,75
+LaSalle,3,Commissioner of the General Land Office,,DEM,Tex Morgan,57,24,33
+LaSalle,3,Commissioner of the General Land Office,,DEM,Miguel Suazo,171,82,89
+LaSalle,3,Commissioner of Agriculture,,DEM,Kim Olson,173,82,91
+LaSalle,3,Railroad Commissioner,,DEM,Roman McAllen,131,63,68
+LaSalle,3,Railroad Commissioner,,DEM,Chris Spellmon,84,39,45
+LaSalle,3,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,175,82,93
+LaSalle,3,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,171,78,93
+LaSalle,3,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,175,81,94
+LaSalle,3,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,179,85,94
+LaSalle,3,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,172,78,94
+LaSalle,3,State Representative,31,DEM,Ryan Guillen,180,72,108
+LaSalle,3,State Representative,31,DEM,Ana Lisa Garza,126,67,59
+LaSalle,3,"Justice, 4th Court of Appeals District, Place No. 2",,DEM,Beth Watkins,176,82,94
+LaSalle,3,"Justice, 4th Court of Appeals District, Place No. 3",,DEM,Patricia O'Connell Alvarez,180,85,95
+LaSalle,3,"Justice, 4th Court of Appeals District, Place No. 4",,DEM,Luz Elena Chapa,187,93,94
+LaSalle,3,"Justice, 4th Court of Appeals District, Place No. 5",,DEM,Liza Rodriguez,191,94,97
+LaSalle,3,"Justice, 4th Court of Appeals District, Place No. 7",,DEM,Rebeca Martinez,195,96,99
+LaSalle,3,"District Judge, 81st Judicial District",,DEM,Errlinda Castillo,177,84,93
+LaSalle,3,County Judge,,DEM,"Joel Rodriguez, Jr.",292,125,167
+LaSalle,3,County Judge,,DEM,John Barnes,149,75,74
+LaSalle,3,District and County Clerk,,DEM,"Margarita ""Margie"" Avila Esqueda",254,122,132
+LaSalle,3,County Treasurer,,DEM,Thelma R. Trevino,163,70,93
+LaSalle,3,County Treasurer,,DEM,"Maria ""Mary"" M. Perez",198,86,112
+LaSalle,3,County Treasurer,,DEM,Martin Kruger,16,4,12
+LaSalle,3,County Treasurer,,DEM,June Galvan,70,40,30
+LaSalle,3,"Justice of the Peace, Precinct No. 3",,DEM,Mary Jean Garcia,109,43,66
+LaSalle,3,"Justice of the Peace, Precinct No. 3",,DEM,Jesus C. Gonzalez,69,28,41
+LaSalle,3,"Justice of the Peace, Precinct No. 3",,DEM,George Trigo,261,129,132
+LaSalle,3,Proposition #1 Right to a 21st Century Public Education:,,,Yes,279,136,143
+LaSalle,3,Proposition #1 Right to a 21st Century Public Education:,,,No,17,6,11
+LaSalle,3,Proposition #2 Student Loan Debt:,,,Yes,255,125,130
+LaSalle,3,Proposition #2 Student Loan Debt:,,,No,31,13,18
+LaSalle,3,Proposition #3 Right to Healthcare:,,,Yes,268,129,139
+LaSalle,3,Proposition #3 Right to Healthcare:,,,No,34,20,14
+LaSalle,3,Proposition #4 Right to Economic Security:,,,Yes,269,131,138
 LaSalle,3,Proposition #4 Right to Economic Security:,,,No,18,9,9
-LaSalle,3,Proposition #5 National Jobs Program:,,,Yes,233,123,110
-LaSalle,3,Proposition #5 National Jobs Program:,,,No,35,17,18
-LaSalle,3,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,274,138,136
-LaSalle,3,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,9,7,2
-LaSalle,3,Proposition #7 Right to Dignity & Respect:,,,Yes,254,128,126
-LaSalle,3,Proposition #7 Right to Dignity & Respect:,,,No,21,13,8
-LaSalle,3,Proposition #8 Right to Housing:,,,Yes,219,110,109
-LaSalle,3,Proposition #8 Right to Housing:,,,No,54,28,26
-LaSalle,3,Proposition #9 Right to Vote:,,,Yes,228,120,108
-LaSalle,3,Proposition #9 Right to Vote:,,,No,42,19,23
-LaSalle,3,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,248,126,122
-LaSalle,3,Proposition #10 Right to a Fair Criminal Justice System:,,,No,22,14,8
-LaSalle,3,Proposition #11 Immigrant Rights:,,,Yes,233,120,113
-LaSalle,3,Proposition #11 Immigrant Rights:,,,No,42,20,22
-LaSalle,3,Proposition #12 Right to Fair Taxation:,,,Yes,257,130,127
-LaSalle,3,Proposition #12 Right to Fair Taxation:,,,No,14,11,3
-LaSalle,3,Proposition 1,,,YES,8,6,2
+LaSalle,3,Proposition #5 National Jobs Program:,,,Yes,233,110,123
+LaSalle,3,Proposition #5 National Jobs Program:,,,No,35,18,17
+LaSalle,3,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,274,136,138
+LaSalle,3,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,9,2,7
+LaSalle,3,Proposition #7 Right to Dignity & Respect:,,,Yes,254,126,128
+LaSalle,3,Proposition #7 Right to Dignity & Respect:,,,No,21,8,13
+LaSalle,3,Proposition #8 Right to Housing:,,,Yes,219,109,110
+LaSalle,3,Proposition #8 Right to Housing:,,,No,54,26,28
+LaSalle,3,Proposition #9 Right to Vote:,,,Yes,228,108,120
+LaSalle,3,Proposition #9 Right to Vote:,,,No,42,23,19
+LaSalle,3,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,248,122,126
+LaSalle,3,Proposition #10 Right to a Fair Criminal Justice System:,,,No,22,8,14
+LaSalle,3,Proposition #11 Immigrant Rights:,,,Yes,233,113,120
+LaSalle,3,Proposition #11 Immigrant Rights:,,,No,42,22,20
+LaSalle,3,Proposition #12 Right to Fair Taxation:,,,Yes,257,127,130
+LaSalle,3,Proposition #12 Right to Fair Taxation:,,,No,14,3,11
+LaSalle,3,Proposition 1,,,YES,8,2,6
 LaSalle,3,Proposition 1,,,NO,0,0,0
-LaSalle,3,Proposition 2,,,YES,6,4,2
-LaSalle,3,Proposition 2,,,NO,2,2,0
-LaSalle,3,Proposition 3,,,YES,4,4,0
+LaSalle,3,Proposition 2,,,YES,6,2,4
+LaSalle,3,Proposition 2,,,NO,2,0,2
+LaSalle,3,Proposition 3,,,YES,4,0,4
 LaSalle,3,Proposition 3,,,NO,4,2,2
-LaSalle,3,Proposition 4,,,YES,7,5,2
-LaSalle,3,Proposition 4,,,NO,1,1,0
-LaSalle,3,Proposition 5,,,YES,8,6,2
+LaSalle,3,Proposition 4,,,YES,7,2,5
+LaSalle,3,Proposition 4,,,NO,1,0,1
+LaSalle,3,Proposition 5,,,YES,8,2,6
 LaSalle,3,Proposition 5,,,NO,0,0,0
-LaSalle,3,Proposition 6,,,YES,8,6,2
-LaSalle,3,Proposition 6,,,NO,1,1,0
-LaSalle,3,Proposition 7,,,YES,7,6,1
+LaSalle,3,Proposition 6,,,YES,8,2,6
+LaSalle,3,Proposition 6,,,NO,1,0,1
+LaSalle,3,Proposition 7,,,YES,7,1,6
 LaSalle,3,Proposition 7,,,NO,2,1,1
-LaSalle,3,Proposition 8,,,YES,8,6,2
-LaSalle,3,Proposition 8,,,NO,1,1,0
-LaSalle,3,Proposition 9,,,YES,9,7,2
+LaSalle,3,Proposition 8,,,YES,8,2,6
+LaSalle,3,Proposition 8,,,NO,1,0,1
+LaSalle,3,Proposition 9,,,YES,9,2,7
 LaSalle,3,Proposition 9,,,NO,0,0,0
-LaSalle,3,Proposition 10,,,YES,7,5,2
-LaSalle,3,Proposition 10,,,NO,1,1,0
-LaSalle,3,Proposition 11,,,YES,6,5,1
-LaSalle,3,Proposition 11,,,NO,3,2,1
+LaSalle,3,Proposition 10,,,YES,7,2,5
+LaSalle,3,Proposition 10,,,NO,1,0,1
+LaSalle,3,Proposition 11,,,YES,6,1,5
+LaSalle,3,Proposition 11,,,NO,3,1,2
 LaSalle,3A,U.S. Senate,,REP,Mary Miller,0,0,0
 LaSalle,3A,U.S. Senate,,REP,"Bruce Jacobson, Jr.",0,0,0
 LaSalle,3A,U.S. Senate,,REP,Over Votes,0,0,0
 LaSalle,3A,U.S. Senate,,REP,Under Votes,0,0,0
 LaSalle,3A,Registered Voters,,REP,,17,,
-LaSalle,3A,Ballots Cast,,REP,,3,3,0
+LaSalle,3A,Ballots Cast,,REP,,3,0,3
 LaSalle,3A,U.S. Senate,,REP,Geraldine Sam,0,0,0
 LaSalle,3A,U.S. Senate,,REP,Stefano de Stefano,0,0,0
-LaSalle,3A,U.S. Senate,,REP,Ted Cruz,2,2,0
+LaSalle,3A,U.S. Senate,,REP,Ted Cruz,2,0,2
 LaSalle,3A,Governor,,REP,SECEDE Kilgore,0,0,0
 LaSalle,3A,Governor,,REP,Barbara Krueger,0,0,0
-LaSalle,3A,Governor,,REP,Greg Abbott,2,2,0
+LaSalle,3A,Governor,,REP,Greg Abbott,2,0,2
 LaSalle,3A,Lieutenant Governor,,REP,Scott Milder,0,0,0
-LaSalle,3A,Lieutenant Governor,,REP,Dan Patrick,1,1,0
-LaSalle,3A,Attorney General,,REP,Ken Paxton,1,1,0
-LaSalle,3A,Comptroller of Public Accounts,,REP,Glenn Hegar,1,1,0
+LaSalle,3A,Lieutenant Governor,,REP,Dan Patrick,1,0,1
+LaSalle,3A,Attorney General,,REP,Ken Paxton,1,0,1
+LaSalle,3A,Comptroller of Public Accounts,,REP,Glenn Hegar,1,0,1
 LaSalle,3A,Commissioner of the General Land Office,,REP,Rick Range,0,0,0
 LaSalle,3A,Commissioner of the General Land Office,,REP,Davey Edwards,0,0,0
-LaSalle,3A,Commissioner of the General Land Office,,REP,Jerry Patterson,2,2,0
+LaSalle,3A,Commissioner of the General Land Office,,REP,Jerry Patterson,2,0,2
 LaSalle,3A,Commissioner of the General Land Office,,REP,George P. Bush,0,0,0
 LaSalle,3A,Commissioner of Agriculture,,REP,Trey Blocker,0,0,0
 LaSalle,3A,Commissioner of Agriculture,,REP,Jim Hogan,0,0,0
-LaSalle,3A,Commissioner of Agriculture,,REP,Sid Miller,2,2,0
-LaSalle,3A,Railroad Commissioner,,REP,Christi Craddick,1,1,0
-LaSalle,3A,Railroad Commissioner,,REP,Weston Martinez,1,1,0
-LaSalle,3A,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,1,1,0
+LaSalle,3A,Commissioner of Agriculture,,REP,Sid Miller,2,0,2
+LaSalle,3A,Railroad Commissioner,,REP,Christi Craddick,1,0,1
+LaSalle,3A,Railroad Commissioner,,REP,Weston Martinez,1,0,1
+LaSalle,3A,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,1,0,1
 LaSalle,3A,"Justice, Supreme Court, Place 4",,REP,John Devine,0,0,0
-LaSalle,3A,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,2,2,0
+LaSalle,3A,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,2,0,2
 LaSalle,3A,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,0,0,0
-LaSalle,3A,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,1,1,0
-LaSalle,3A,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,1,1,0
+LaSalle,3A,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,1,0,1
+LaSalle,3A,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,1,0,1
 LaSalle,3A,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,0,0,0
 LaSalle,3A,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,0,0,0
-LaSalle,3A,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,1,1,0
-LaSalle,3A,"Justice, 4th Court of Appeals District, Place No. 2",,REP,Marialyn Barnard,1,1,0
-LaSalle,3A,"Justice, 4th Court of Appeals District, Place No. 3",,REP,Jason Pulliam,1,1,0
-LaSalle,3A,"Justice, 4th Court of Appeals District, Place No. 4",,REP,Patrick Ballantyne,1,1,0
-LaSalle,3A,"Justice, 4th Court of Appeals District, Place No. 5",,REP,Rebecca Simmons,1,1,0
-LaSalle,3A,"Justice, 4th Court of Appeals District, Place No. 7",,REP,Shane Stolarczyk,1,1,0
-LaSalle,3A,"District Judge, 81st Judicial District",,REP,Lynn Ellison,1,1,0
-LaSalle,3A,"District Judge, 218th Judicial District",,REP,Russell Wilson,1,1,0
-LaSalle,3A,County Chair,,REP,Jim Zetzsche,1,1,0
+LaSalle,3A,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,1,0,1
+LaSalle,3A,"Justice, 4th Court of Appeals District, Place No. 2",,REP,Marialyn Barnard,1,0,1
+LaSalle,3A,"Justice, 4th Court of Appeals District, Place No. 3",,REP,Jason Pulliam,1,0,1
+LaSalle,3A,"Justice, 4th Court of Appeals District, Place No. 4",,REP,Patrick Ballantyne,1,0,1
+LaSalle,3A,"Justice, 4th Court of Appeals District, Place No. 5",,REP,Rebecca Simmons,1,0,1
+LaSalle,3A,"Justice, 4th Court of Appeals District, Place No. 7",,REP,Shane Stolarczyk,1,0,1
+LaSalle,3A,"District Judge, 81st Judicial District",,REP,Lynn Ellison,1,0,1
+LaSalle,3A,"District Judge, 218th Judicial District",,REP,Russell Wilson,1,0,1
+LaSalle,3A,County Chair,,REP,Jim Zetzsche,1,0,1
 LaSalle,3A,U.S. Senate,,DEM,Sema Hernandez,0,0,0
-LaSalle,3A,U.S. Senate,,DEM,Edward Kimbrough,1,1,0
+LaSalle,3A,U.S. Senate,,DEM,Edward Kimbrough,1,0,1
 LaSalle,3A,U.S. Senate,,DEM,Over Votes,0,0,0
 LaSalle,3A,U.S. Senate,,DEM,Under Votes,0,0,0
 LaSalle,3A,Registered Voters,,DEM,,17,,
-LaSalle,3A,Ballots Cast,,DEM,,3,3,0
+LaSalle,3A,Ballots Cast,,DEM,,3,0,3
 LaSalle,3A,U.S. Senate,,DEM,Beto O'Rourke,0,0,0
-LaSalle,3A,U.S. House,28,DEM,Henry Cuellar,1,1,0
+LaSalle,3A,U.S. House,28,DEM,Henry Cuellar,1,0,1
 LaSalle,3A,Governor,,DEM,Lupe Valdez,0,0,0
 LaSalle,3A,Governor,,DEM,James Jolly Clark,0,0,0
 LaSalle,3A,Governor,,DEM,"Cedric Davis, Sr.",0,0,0
 LaSalle,3A,Governor,,DEM,Adrian Ocegueda,0,0,0
 LaSalle,3A,Governor,,DEM,Jeffrey Payne,0,0,0
 LaSalle,3A,Governor,,DEM,Grady Yarbrough,0,0,0
-LaSalle,3A,Governor,,DEM,Tom Wakely,1,1,0
+LaSalle,3A,Governor,,DEM,Tom Wakely,1,0,1
 LaSalle,3A,Governor,,DEM,Joe Mumbach,0,0,0
 LaSalle,3A,Governor,,DEM,Andrew White,0,0,0
 LaSalle,3A,Lieutenant Governor,,DEM,Mike Collier,0,0,0
-LaSalle,3A,Lieutenant Governor,,DEM,Michael Cooper,1,1,0
-LaSalle,3A,Attorney General,,DEM,Justin Nelson,1,1,0
+LaSalle,3A,Lieutenant Governor,,DEM,Michael Cooper,1,0,1
+LaSalle,3A,Attorney General,,DEM,Justin Nelson,1,0,1
 LaSalle,3A,Comptroller of Public Accounts,,DEM,Joi Chevalier,0,0,0
 LaSalle,3A,Comptroller of Public Accounts,,DEM,Tim Mahoney,0,0,0
-LaSalle,3A,Commissioner of the General Land Office,,DEM,Tex Morgan,1,1,0
+LaSalle,3A,Commissioner of the General Land Office,,DEM,Tex Morgan,1,0,1
 LaSalle,3A,Commissioner of the General Land Office,,DEM,Miguel Suazo,0,0,0
-LaSalle,3A,Commissioner of Agriculture,,DEM,Kim Olson,1,1,0
+LaSalle,3A,Commissioner of Agriculture,,DEM,Kim Olson,1,0,1
 LaSalle,3A,Railroad Commissioner,,DEM,Roman McAllen,0,0,0
-LaSalle,3A,Railroad Commissioner,,DEM,Chris Spellmon,1,1,0
-LaSalle,3A,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,1,1,0
-LaSalle,3A,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,1,1,0
-LaSalle,3A,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,1,1,0
-LaSalle,3A,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,1,1,0
-LaSalle,3A,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,1,1,0
-LaSalle,3A,State Representative,31,DEM,Ryan Guillen,1,1,0
+LaSalle,3A,Railroad Commissioner,,DEM,Chris Spellmon,1,0,1
+LaSalle,3A,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,1,0,1
+LaSalle,3A,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,1,0,1
+LaSalle,3A,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,1,0,1
+LaSalle,3A,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,1,0,1
+LaSalle,3A,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,1,0,1
+LaSalle,3A,State Representative,31,DEM,Ryan Guillen,1,0,1
 LaSalle,3A,State Representative,31,DEM,Ana Lisa Garza,0,0,0
-LaSalle,3A,"Justice, 4th Court of Appeals District, Place No. 2",,DEM,Beth Watkins,1,1,0
-LaSalle,3A,"Justice, 4th Court of Appeals District, Place No. 3",,DEM,Patricia O'Connell Alvarez,1,1,0
-LaSalle,3A,"Justice, 4th Court of Appeals District, Place No. 4",,DEM,Luz Elena Chapa,1,1,0
-LaSalle,3A,"Justice, 4th Court of Appeals District, Place No. 5",,DEM,Liza Rodriguez,1,1,0
-LaSalle,3A,"Justice, 4th Court of Appeals District, Place No. 7",,DEM,Rebeca Martinez,1,1,0
-LaSalle,3A,"District Judge, 81st Judicial District",,DEM,Errlinda Castillo,1,1,0
+LaSalle,3A,"Justice, 4th Court of Appeals District, Place No. 2",,DEM,Beth Watkins,1,0,1
+LaSalle,3A,"Justice, 4th Court of Appeals District, Place No. 3",,DEM,Patricia O'Connell Alvarez,1,0,1
+LaSalle,3A,"Justice, 4th Court of Appeals District, Place No. 4",,DEM,Luz Elena Chapa,1,0,1
+LaSalle,3A,"Justice, 4th Court of Appeals District, Place No. 5",,DEM,Liza Rodriguez,1,0,1
+LaSalle,3A,"Justice, 4th Court of Appeals District, Place No. 7",,DEM,Rebeca Martinez,1,0,1
+LaSalle,3A,"District Judge, 81st Judicial District",,DEM,Errlinda Castillo,1,0,1
 LaSalle,3A,County Judge,,DEM,"Joel Rodriguez, Jr.",0,0,0
-LaSalle,3A,County Judge,,DEM,John Barnes,1,1,0
-LaSalle,3A,District and County Clerk,,DEM,"Margarita ""Margie"" Avila Esqueda",1,1,0
+LaSalle,3A,County Judge,,DEM,John Barnes,1,0,1
+LaSalle,3A,District and County Clerk,,DEM,"Margarita ""Margie"" Avila Esqueda",1,0,1
 LaSalle,3A,County Treasurer,,DEM,Thelma R. Trevino,0,0,0
 LaSalle,3A,County Treasurer,,DEM,"Maria ""Mary"" M. Perez",0,0,0
-LaSalle,3A,County Treasurer,,DEM,Martin Kruger,1,1,0
+LaSalle,3A,County Treasurer,,DEM,Martin Kruger,1,0,1
 LaSalle,3A,County Treasurer,,DEM,June Galvan,0,0,0
 LaSalle,3A,"Justice of the Peace, Precinct No. 3",,DEM,Mary Jean Garcia,0,0,0
 LaSalle,3A,"Justice of the Peace, Precinct No. 3",,DEM,Jesus C. Gonzalez,0,0,0
-LaSalle,3A,"Justice of the Peace, Precinct No. 3",,DEM,George Trigo,1,1,0
+LaSalle,3A,"Justice of the Peace, Precinct No. 3",,DEM,George Trigo,1,0,1
 LaSalle,3A,Proposition #1 Right to a 21st Century Public Education:,,,Yes,0,0,0
-LaSalle,3A,Proposition #1 Right to a 21st Century Public Education:,,,No,1,1,0
+LaSalle,3A,Proposition #1 Right to a 21st Century Public Education:,,,No,1,0,1
 LaSalle,3A,Proposition #2 Student Loan Debt:,,,Yes,0,0,0
-LaSalle,3A,Proposition #2 Student Loan Debt:,,,No,1,1,0
+LaSalle,3A,Proposition #2 Student Loan Debt:,,,No,1,0,1
 LaSalle,3A,Proposition #3 Right to Healthcare:,,,Yes,0,0,0
-LaSalle,3A,Proposition #3 Right to Healthcare:,,,No,1,1,0
+LaSalle,3A,Proposition #3 Right to Healthcare:,,,No,1,0,1
 LaSalle,3A,Proposition #4 Right to Economic Security:,,,Yes,0,0,0
-LaSalle,3A,Proposition #4 Right to Economic Security:,,,No,1,1,0
+LaSalle,3A,Proposition #4 Right to Economic Security:,,,No,1,0,1
 LaSalle,3A,Proposition #5 National Jobs Program:,,,Yes,0,0,0
-LaSalle,3A,Proposition #5 National Jobs Program:,,,No,1,1,0
-LaSalle,3A,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,1,1,0
+LaSalle,3A,Proposition #5 National Jobs Program:,,,No,1,0,1
+LaSalle,3A,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,1,0,1
 LaSalle,3A,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,0,0,0
 LaSalle,3A,Proposition #7 Right to Dignity & Respect:,,,Yes,0,0,0
-LaSalle,3A,Proposition #7 Right to Dignity & Respect:,,,No,1,1,0
+LaSalle,3A,Proposition #7 Right to Dignity & Respect:,,,No,1,0,1
 LaSalle,3A,Proposition #8 Right to Housing:,,,Yes,0,0,0
-LaSalle,3A,Proposition #8 Right to Housing:,,,No,1,1,0
+LaSalle,3A,Proposition #8 Right to Housing:,,,No,1,0,1
 LaSalle,3A,Proposition #9 Right to Vote:,,,Yes,0,0,0
-LaSalle,3A,Proposition #9 Right to Vote:,,,No,1,1,0
+LaSalle,3A,Proposition #9 Right to Vote:,,,No,1,0,1
 LaSalle,3A,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,0,0,0
-LaSalle,3A,Proposition #10 Right to a Fair Criminal Justice System:,,,No,1,1,0
+LaSalle,3A,Proposition #10 Right to a Fair Criminal Justice System:,,,No,1,0,1
 LaSalle,3A,Proposition #11 Immigrant Rights:,,,Yes,0,0,0
-LaSalle,3A,Proposition #11 Immigrant Rights:,,,No,1,1,0
+LaSalle,3A,Proposition #11 Immigrant Rights:,,,No,1,0,1
 LaSalle,3A,Proposition #12 Right to Fair Taxation:,,,Yes,0,0,0
-LaSalle,3A,Proposition #12 Right to Fair Taxation:,,,No,1,1,0
-LaSalle,3A,Proposition 1,,,YES,1,1,0
-LaSalle,3A,Proposition 1,,,NO,1,1,0
-LaSalle,3A,Proposition 2,,,YES,2,2,0
+LaSalle,3A,Proposition #12 Right to Fair Taxation:,,,No,1,0,1
+LaSalle,3A,Proposition 1,,,YES,1,0,1
+LaSalle,3A,Proposition 1,,,NO,1,0,1
+LaSalle,3A,Proposition 2,,,YES,2,0,2
 LaSalle,3A,Proposition 2,,,NO,0,0,0
-LaSalle,3A,Proposition 3,,,YES,1,1,0
+LaSalle,3A,Proposition 3,,,YES,1,0,1
 LaSalle,3A,Proposition 3,,,NO,0,0,0
-LaSalle,3A,Proposition 4,,,YES,2,2,0
+LaSalle,3A,Proposition 4,,,YES,2,0,2
 LaSalle,3A,Proposition 4,,,NO,0,0,0
-LaSalle,3A,Proposition 5,,,YES,1,1,0
+LaSalle,3A,Proposition 5,,,YES,1,0,1
 LaSalle,3A,Proposition 5,,,NO,0,0,0
-LaSalle,3A,Proposition 6,,,YES,2,2,0
+LaSalle,3A,Proposition 6,,,YES,2,0,2
 LaSalle,3A,Proposition 6,,,NO,0,0,0
-LaSalle,3A,Proposition 7,,,YES,1,1,0
+LaSalle,3A,Proposition 7,,,YES,1,0,1
 LaSalle,3A,Proposition 7,,,NO,0,0,0
-LaSalle,3A,Proposition 8,,,YES,2,2,0
+LaSalle,3A,Proposition 8,,,YES,2,0,2
 LaSalle,3A,Proposition 8,,,NO,0,0,0
-LaSalle,3A,Proposition 9,,,YES,2,2,0
+LaSalle,3A,Proposition 9,,,YES,2,0,2
 LaSalle,3A,Proposition 9,,,NO,0,0,0
-LaSalle,3A,Proposition 10,,,YES,1,1,0
+LaSalle,3A,Proposition 10,,,YES,1,0,1
 LaSalle,3A,Proposition 10,,,NO,0,0,0
-LaSalle,3A,Proposition 11,,,YES,2,2,0
+LaSalle,3A,Proposition 11,,,YES,2,0,2
 LaSalle,3A,Proposition 11,,,NO,0,0,0
 LaSalle,4,U.S. Senate,,REP,Mary Miller,0,0,0
-LaSalle,4,U.S. Senate,,REP,"Bruce Jacobson, Jr.",1,0,1
+LaSalle,4,U.S. Senate,,REP,"Bruce Jacobson, Jr.",1,1,0
 LaSalle,4,U.S. Senate,,REP,Over Votes,0,0,0
-LaSalle,4,U.S. Senate,,REP,Under Votes,1,0,1
+LaSalle,4,U.S. Senate,,REP,Under Votes,1,1,0
 LaSalle,4,Registered Voters,,REP,,96,,
-LaSalle,4,Ballots Cast,,REP,,54,13,1
-LaSalle,4,U.S. Senate,,REP,Geraldine Sam,1,0,1
+LaSalle,4,Ballots Cast,,REP,,54,1,13
+LaSalle,4,U.S. Senate,,REP,Geraldine Sam,1,1,0
 LaSalle,4,U.S. Senate,,REP,Stefano de Stefano,0,0,0
-LaSalle,4,U.S. Senate,,REP,Ted Cruz,10,1,9
-LaSalle,4,U.S. House,23,REP,Will Hurd,7,1,6
-LaSalle,4,U.S. House,23,REP,Alma Arredondo-Lynch,4,0,4
+LaSalle,4,U.S. Senate,,REP,Ted Cruz,10,9,1
+LaSalle,4,U.S. House,23,REP,Will Hurd,7,6,1
+LaSalle,4,U.S. House,23,REP,Alma Arredondo-Lynch,4,4,0
 LaSalle,4,Governor,,REP,SECEDE Kilgore,0,0,0
-LaSalle,4,Governor,,REP,Barbara Krueger,2,0,2
-LaSalle,4,Governor,,REP,Greg Abbott,9,1,8
+LaSalle,4,Governor,,REP,Barbara Krueger,2,2,0
+LaSalle,4,Governor,,REP,Greg Abbott,9,8,1
 LaSalle,4,Lieutenant Governor,,REP,Scott Milder,0,0,0
-LaSalle,4,Lieutenant Governor,,REP,Dan Patrick,11,1,10
-LaSalle,4,Attorney General,,REP,Ken Paxton,11,1,10
-LaSalle,4,Comptroller of Public Accounts,,REP,Glenn Hegar,10,1,9
+LaSalle,4,Lieutenant Governor,,REP,Dan Patrick,11,10,1
+LaSalle,4,Attorney General,,REP,Ken Paxton,11,10,1
+LaSalle,4,Comptroller of Public Accounts,,REP,Glenn Hegar,10,9,1
 LaSalle,4,Commissioner of the General Land Office,,REP,Rick Range,0,0,0
-LaSalle,4,Commissioner of the General Land Office,,REP,Davey Edwards,1,0,1
-LaSalle,4,Commissioner of the General Land Office,,REP,Jerry Patterson,3,0,3
-LaSalle,4,Commissioner of the General Land Office,,REP,George P. Bush,7,1,6
-LaSalle,4,Commissioner of Agriculture,,REP,Trey Blocker,3,0,3
-LaSalle,4,Commissioner of Agriculture,,REP,Jim Hogan,5,0,5
-LaSalle,4,Commissioner of Agriculture,,REP,Sid Miller,3,1,2
-LaSalle,4,Railroad Commissioner,,REP,Christi Craddick,7,1,6
-LaSalle,4,Railroad Commissioner,,REP,Weston Martinez,4,0,4
-LaSalle,4,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,9,1,8
-LaSalle,4,"Justice, Supreme Court, Place 4",,REP,John Devine,9,1,8
-LaSalle,4,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,11,1,10
-LaSalle,4,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,5,1,4
-LaSalle,4,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,5,0,5
-LaSalle,4,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,10,1,9
-LaSalle,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,5,1,4
-LaSalle,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,2,0,2
-LaSalle,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,3,0,3
-LaSalle,4,"Justice, 4th Court of Appeals District, Place No. 2",,REP,Marialyn Barnard,9,1,8
-LaSalle,4,"Justice, 4th Court of Appeals District, Place No. 3",,REP,Jason Pulliam,8,1,7
-LaSalle,4,"Justice, 4th Court of Appeals District, Place No. 4",,REP,Patrick Ballantyne,9,1,8
-LaSalle,4,"Justice, 4th Court of Appeals District, Place No. 5",,REP,Rebecca Simmons,10,1,9
-LaSalle,4,"Justice, 4th Court of Appeals District, Place No. 7",,REP,Shane Stolarczyk,9,1,8
-LaSalle,4,"District Judge, 81st Judicial District",,REP,Lynn Ellison,8,1,7
-LaSalle,4,"District Judge, 218th Judicial District",,REP,Russell Wilson,9,1,8
-LaSalle,4,"Justice of the Peace, Precinct No. 4",,REP,Janie Megliorino,12,1,11
-LaSalle,4,County Chair,,REP,Jim Zetzsche,10,1,9
-LaSalle,4,U.S. Senate,,DEM,Sema Hernandez,2,0,2
-LaSalle,4,U.S. Senate,,DEM,Edward Kimbrough,10,1,9
+LaSalle,4,Commissioner of the General Land Office,,REP,Davey Edwards,1,1,0
+LaSalle,4,Commissioner of the General Land Office,,REP,Jerry Patterson,3,3,0
+LaSalle,4,Commissioner of the General Land Office,,REP,George P. Bush,7,6,1
+LaSalle,4,Commissioner of Agriculture,,REP,Trey Blocker,3,3,0
+LaSalle,4,Commissioner of Agriculture,,REP,Jim Hogan,5,5,0
+LaSalle,4,Commissioner of Agriculture,,REP,Sid Miller,3,2,1
+LaSalle,4,Railroad Commissioner,,REP,Christi Craddick,7,6,1
+LaSalle,4,Railroad Commissioner,,REP,Weston Martinez,4,4,0
+LaSalle,4,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,9,8,1
+LaSalle,4,"Justice, Supreme Court, Place 4",,REP,John Devine,9,8,1
+LaSalle,4,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,11,10,1
+LaSalle,4,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,5,4,1
+LaSalle,4,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,5,5,0
+LaSalle,4,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,10,9,1
+LaSalle,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,5,4,1
+LaSalle,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,2,2,0
+LaSalle,4,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,3,3,0
+LaSalle,4,"Justice, 4th Court of Appeals District, Place No. 2",,REP,Marialyn Barnard,9,8,1
+LaSalle,4,"Justice, 4th Court of Appeals District, Place No. 3",,REP,Jason Pulliam,8,7,1
+LaSalle,4,"Justice, 4th Court of Appeals District, Place No. 4",,REP,Patrick Ballantyne,9,8,1
+LaSalle,4,"Justice, 4th Court of Appeals District, Place No. 5",,REP,Rebecca Simmons,10,9,1
+LaSalle,4,"Justice, 4th Court of Appeals District, Place No. 7",,REP,Shane Stolarczyk,9,8,1
+LaSalle,4,"District Judge, 81st Judicial District",,REP,Lynn Ellison,8,7,1
+LaSalle,4,"District Judge, 218th Judicial District",,REP,Russell Wilson,9,8,1
+LaSalle,4,"Justice of the Peace, Precinct No. 4",,REP,Janie Megliorino,12,11,1
+LaSalle,4,County Chair,,REP,Jim Zetzsche,10,9,1
+LaSalle,4,U.S. Senate,,DEM,Sema Hernandez,2,2,0
+LaSalle,4,U.S. Senate,,DEM,Edward Kimbrough,10,9,1
 LaSalle,4,U.S. Senate,,DEM,Over Votes,0,0,0
-LaSalle,4,U.S. Senate,,DEM,Under Votes,27,10,17
+LaSalle,4,U.S. Senate,,DEM,Under Votes,27,17,10
 LaSalle,4,Registered Voters,,DEM,,96,,
-LaSalle,4,Ballots Cast,,DEM,,54,13,1
+LaSalle,4,Ballots Cast,,DEM,,54,1,13
 LaSalle,4,U.S. Senate,,DEM,Beto O'Rourke,2,1,1
-LaSalle,4,U.S. House,23,DEM,Rick Treviño,5,1,4
-LaSalle,4,U.S. House,23,DEM,Jay Hulings,6,1,5
+LaSalle,4,U.S. House,23,DEM,Rick Treviño,5,4,1
+LaSalle,4,U.S. House,23,DEM,Jay Hulings,6,5,1
 LaSalle,4,U.S. House,23,DEM,Gina Ortiz Jones,2,1,1
 LaSalle,4,U.S. House,23,DEM,"Angela ""Angie"" Villescaz",0,0,0
-LaSalle,4,U.S. House,23,DEM,Judy Canales,1,0,1
+LaSalle,4,U.S. House,23,DEM,Judy Canales,1,1,0
 LaSalle,4,Governor,,DEM,Lupe Valdez,2,1,1
-LaSalle,4,Governor,,DEM,James Jolly Clark,1,0,1
+LaSalle,4,Governor,,DEM,James Jolly Clark,1,1,0
 LaSalle,4,Governor,,DEM,"Cedric Davis, Sr.",0,0,0
 LaSalle,4,Governor,,DEM,Adrian Ocegueda,0,0,0
 LaSalle,4,Governor,,DEM,Jeffrey Payne,0,0,0
-LaSalle,4,Governor,,DEM,Grady Yarbrough,3,0,3
-LaSalle,4,Governor,,DEM,Tom Wakely,4,0,4
+LaSalle,4,Governor,,DEM,Grady Yarbrough,3,3,0
+LaSalle,4,Governor,,DEM,Tom Wakely,4,4,0
 LaSalle,4,Governor,,DEM,Joe Mumbach,0,0,0
-LaSalle,4,Governor,,DEM,Andrew White,1,1,0
-LaSalle,4,Lieutenant Governor,,DEM,Mike Collier,7,1,6
-LaSalle,4,Lieutenant Governor,,DEM,Michael Cooper,5,1,4
-LaSalle,4,Attorney General,,DEM,Justin Nelson,10,2,8
-LaSalle,4,Comptroller of Public Accounts,,DEM,Joi Chevalier,3,2,1
-LaSalle,4,Comptroller of Public Accounts,,DEM,Tim Mahoney,9,0,9
-LaSalle,4,Commissioner of the General Land Office,,DEM,Tex Morgan,9,1,8
-LaSalle,4,Commissioner of the General Land Office,,DEM,Miguel Suazo,5,1,4
-LaSalle,4,Commissioner of Agriculture,,DEM,Kim Olson,11,2,9
-LaSalle,4,Railroad Commissioner,,DEM,Roman McAllen,6,1,5
-LaSalle,4,Railroad Commissioner,,DEM,Chris Spellmon,6,1,5
-LaSalle,4,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,10,1,9
-LaSalle,4,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,11,2,9
-LaSalle,4,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,11,2,9
-LaSalle,4,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,11,2,9
-LaSalle,4,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,13,2,11
-LaSalle,4,State Representative,31,DEM,Ryan Guillen,12,1,11
-LaSalle,4,State Representative,31,DEM,Ana Lisa Garza,3,1,2
-LaSalle,4,"Justice, 4th Court of Appeals District, Place No. 2",,DEM,Beth Watkins,11,2,9
-LaSalle,4,"Justice, 4th Court of Appeals District, Place No. 3",,DEM,Patricia O'Connell Alvarez,10,2,8
-LaSalle,4,"Justice, 4th Court of Appeals District, Place No. 4",,DEM,Luz Elena Chapa,10,2,8
-LaSalle,4,"Justice, 4th Court of Appeals District, Place No. 5",,DEM,Liza Rodriguez,11,2,9
-LaSalle,4,"Justice, 4th Court of Appeals District, Place No. 7",,DEM,Rebeca Martinez,10,2,8
-LaSalle,4,"District Judge, 81st Judicial District",,DEM,Errlinda Castillo,10,2,8
-LaSalle,4,County Judge,,DEM,"Joel Rodriguez, Jr.",16,2,14
-LaSalle,4,County Judge,,DEM,John Barnes,24,9,15
-LaSalle,4,District and County Clerk,,DEM,"Margarita ""Margie"" Avila Esqueda",21,6,15
-LaSalle,4,County Treasurer,,DEM,Thelma R. Trevino,8,3,5
-LaSalle,4,County Treasurer,,DEM,"Maria ""Mary"" M. Perez",11,5,6
-LaSalle,4,County Treasurer,,DEM,Martin Kruger,10,1,9
+LaSalle,4,Governor,,DEM,Andrew White,1,0,1
+LaSalle,4,Lieutenant Governor,,DEM,Mike Collier,7,6,1
+LaSalle,4,Lieutenant Governor,,DEM,Michael Cooper,5,4,1
+LaSalle,4,Attorney General,,DEM,Justin Nelson,10,8,2
+LaSalle,4,Comptroller of Public Accounts,,DEM,Joi Chevalier,3,1,2
+LaSalle,4,Comptroller of Public Accounts,,DEM,Tim Mahoney,9,9,0
+LaSalle,4,Commissioner of the General Land Office,,DEM,Tex Morgan,9,8,1
+LaSalle,4,Commissioner of the General Land Office,,DEM,Miguel Suazo,5,4,1
+LaSalle,4,Commissioner of Agriculture,,DEM,Kim Olson,11,9,2
+LaSalle,4,Railroad Commissioner,,DEM,Roman McAllen,6,5,1
+LaSalle,4,Railroad Commissioner,,DEM,Chris Spellmon,6,5,1
+LaSalle,4,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,10,9,1
+LaSalle,4,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,11,9,2
+LaSalle,4,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,11,9,2
+LaSalle,4,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,11,9,2
+LaSalle,4,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,13,11,2
+LaSalle,4,State Representative,31,DEM,Ryan Guillen,12,11,1
+LaSalle,4,State Representative,31,DEM,Ana Lisa Garza,3,2,1
+LaSalle,4,"Justice, 4th Court of Appeals District, Place No. 2",,DEM,Beth Watkins,11,9,2
+LaSalle,4,"Justice, 4th Court of Appeals District, Place No. 3",,DEM,Patricia O'Connell Alvarez,10,8,2
+LaSalle,4,"Justice, 4th Court of Appeals District, Place No. 4",,DEM,Luz Elena Chapa,10,8,2
+LaSalle,4,"Justice, 4th Court of Appeals District, Place No. 5",,DEM,Liza Rodriguez,11,9,2
+LaSalle,4,"Justice, 4th Court of Appeals District, Place No. 7",,DEM,Rebeca Martinez,10,8,2
+LaSalle,4,"District Judge, 81st Judicial District",,DEM,Errlinda Castillo,10,8,2
+LaSalle,4,County Judge,,DEM,"Joel Rodriguez, Jr.",16,14,2
+LaSalle,4,County Judge,,DEM,John Barnes,24,15,9
+LaSalle,4,District and County Clerk,,DEM,"Margarita ""Margie"" Avila Esqueda",21,15,6
+LaSalle,4,County Treasurer,,DEM,Thelma R. Trevino,8,5,3
+LaSalle,4,County Treasurer,,DEM,"Maria ""Mary"" M. Perez",11,6,5
+LaSalle,4,County Treasurer,,DEM,Martin Kruger,10,9,1
 LaSalle,4,County Treasurer,,DEM,June Galvan,4,2,2
-LaSalle,4,"County Commisisoner, Precinct No. 4",,DEM,Genaro Garza IV,2,0,2
-LaSalle,4,"County Commisisoner, Precinct No. 4",,DEM,"Jesse ""La Perika"" Gonzales",1,1,0
-LaSalle,4,"County Commisisoner, Precinct No. 4",,DEM,Raul Ayala,30,10,20
-LaSalle,4,"County Commisisoner, Precinct No. 4",,DEM,"Francisco ""Frankie"" Miranda, Jr.",6,0,6
-LaSalle,4,"Justice of the Peace, Precinct No. 4",,DEM,Vickie R. Hanks,25,9,16
-LaSalle,4,Proposition #1 Right to a 21st Century Public Education:,,,Yes,23,4,19
+LaSalle,4,"County Commisisoner, Precinct No. 4",,DEM,Genaro Garza IV,2,2,0
+LaSalle,4,"County Commisisoner, Precinct No. 4",,DEM,"Jesse ""La Perika"" Gonzales",1,0,1
+LaSalle,4,"County Commisisoner, Precinct No. 4",,DEM,Raul Ayala,30,20,10
+LaSalle,4,"County Commisisoner, Precinct No. 4",,DEM,"Francisco ""Frankie"" Miranda, Jr.",6,6,0
+LaSalle,4,"Justice of the Peace, Precinct No. 4",,DEM,Vickie R. Hanks,25,16,9
+LaSalle,4,Proposition #1 Right to a 21st Century Public Education:,,,Yes,23,19,4
 LaSalle,4,Proposition #1 Right to a 21st Century Public Education:,,,No,6,3,3
-LaSalle,4,Proposition #2 Student Loan Debt:,,,Yes,20,4,16
-LaSalle,4,Proposition #2 Student Loan Debt:,,,No,5,2,3
-LaSalle,4,Proposition #3 Right to Healthcare:,,,Yes,19,3,16
-LaSalle,4,Proposition #3 Right to Healthcare:,,,No,7,3,4
-LaSalle,4,Proposition #4 Right to Economic Security:,,,Yes,16,3,13
+LaSalle,4,Proposition #2 Student Loan Debt:,,,Yes,20,16,4
+LaSalle,4,Proposition #2 Student Loan Debt:,,,No,5,3,2
+LaSalle,4,Proposition #3 Right to Healthcare:,,,Yes,19,16,3
+LaSalle,4,Proposition #3 Right to Healthcare:,,,No,7,4,3
+LaSalle,4,Proposition #4 Right to Economic Security:,,,Yes,16,13,3
 LaSalle,4,Proposition #4 Right to Economic Security:,,,No,6,3,3
-LaSalle,4,Proposition #5 National Jobs Program:,,,Yes,14,1,13
-LaSalle,4,Proposition #5 National Jobs Program:,,,No,9,4,5
-LaSalle,4,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,17,2,15
-LaSalle,4,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,4,3,1
-LaSalle,4,Proposition #7 Right to Dignity & Respect:,,,Yes,16,3,13
-LaSalle,4,Proposition #7 Right to Dignity & Respect:,,,No,8,3,5
-LaSalle,4,Proposition #8 Right to Housing:,,,Yes,10,1,9
-LaSalle,4,Proposition #8 Right to Housing:,,,No,12,4,8
-LaSalle,4,Proposition #9 Right to Vote:,,,Yes,15,2,13
+LaSalle,4,Proposition #5 National Jobs Program:,,,Yes,14,13,1
+LaSalle,4,Proposition #5 National Jobs Program:,,,No,9,5,4
+LaSalle,4,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,17,15,2
+LaSalle,4,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,4,1,3
+LaSalle,4,Proposition #7 Right to Dignity & Respect:,,,Yes,16,13,3
+LaSalle,4,Proposition #7 Right to Dignity & Respect:,,,No,8,5,3
+LaSalle,4,Proposition #8 Right to Housing:,,,Yes,10,9,1
+LaSalle,4,Proposition #8 Right to Housing:,,,No,12,8,4
+LaSalle,4,Proposition #9 Right to Vote:,,,Yes,15,13,2
 LaSalle,4,Proposition #9 Right to Vote:,,,No,8,4,4
-LaSalle,4,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,11,1,10
-LaSalle,4,Proposition #10 Right to a Fair Criminal Justice System:,,,No,9,4,5
-LaSalle,4,Proposition #11 Immigrant Rights:,,,Yes,9,1,8
-LaSalle,4,Proposition #11 Immigrant Rights:,,,No,12,4,8
-LaSalle,4,Proposition #12 Right to Fair Taxation:,,,Yes,18,3,15
+LaSalle,4,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,11,10,1
+LaSalle,4,Proposition #10 Right to a Fair Criminal Justice System:,,,No,9,5,4
+LaSalle,4,Proposition #11 Immigrant Rights:,,,Yes,9,8,1
+LaSalle,4,Proposition #11 Immigrant Rights:,,,No,12,8,4
+LaSalle,4,Proposition #12 Right to Fair Taxation:,,,Yes,18,15,3
 LaSalle,4,Proposition #12 Right to Fair Taxation:,,,No,4,2,2
-LaSalle,4,Proposition 1,,,YES,11,1,10
-LaSalle,4,Proposition 1,,,NO,1,0,1
-LaSalle,4,Proposition 2,,,YES,11,1,10
+LaSalle,4,Proposition 1,,,YES,11,10,1
+LaSalle,4,Proposition 1,,,NO,1,1,0
+LaSalle,4,Proposition 2,,,YES,11,10,1
 LaSalle,4,Proposition 2,,,NO,0,0,0
-LaSalle,4,Proposition 3,,,YES,10,1,9
-LaSalle,4,Proposition 3,,,NO,1,0,1
-LaSalle,4,Proposition 4,,,YES,12,1,11
+LaSalle,4,Proposition 3,,,YES,10,9,1
+LaSalle,4,Proposition 3,,,NO,1,1,0
+LaSalle,4,Proposition 4,,,YES,12,11,1
 LaSalle,4,Proposition 4,,,NO,0,0,0
-LaSalle,4,Proposition 5,,,YES,9,0,9
+LaSalle,4,Proposition 5,,,YES,9,9,0
 LaSalle,4,Proposition 5,,,NO,2,1,1
-LaSalle,4,Proposition 6,,,YES,11,1,10
+LaSalle,4,Proposition 6,,,YES,11,10,1
 LaSalle,4,Proposition 6,,,NO,0,0,0
-LaSalle,4,Proposition 7,,,YES,9,0,9
+LaSalle,4,Proposition 7,,,YES,9,9,0
 LaSalle,4,Proposition 7,,,NO,2,1,1
-LaSalle,4,Proposition 8,,,YES,11,1,10
-LaSalle,4,Proposition 8,,,NO,1,0,1
-LaSalle,4,Proposition 9,,,YES,13,1,12
+LaSalle,4,Proposition 8,,,YES,11,10,1
+LaSalle,4,Proposition 8,,,NO,1,1,0
+LaSalle,4,Proposition 9,,,YES,13,12,1
 LaSalle,4,Proposition 9,,,NO,0,0,0
-LaSalle,4,Proposition 10,,,YES,11,1,10
-LaSalle,4,Proposition 10,,,NO,2,0,2
-LaSalle,4,Proposition 11,,,YES,8,1,7
-LaSalle,4,Proposition 11,,,NO,3,0,3
+LaSalle,4,Proposition 10,,,YES,11,10,1
+LaSalle,4,Proposition 10,,,NO,2,2,0
+LaSalle,4,Proposition 11,,,YES,8,7,1
+LaSalle,4,Proposition 11,,,NO,3,3,0
 LaSalle,5,U.S. Senate,,REP,Mary Miller,0,0,0
 LaSalle,5,U.S. Senate,,REP,"Bruce Jacobson, Jr.",0,0,0
 LaSalle,5,U.S. Senate,,REP,Over Votes,0,0,0
 LaSalle,5,U.S. Senate,,REP,Under Votes,0,0,0
 LaSalle,5,Registered Voters,,REP,,900,,
-LaSalle,5,Ballots Cast,,REP,,514,322,0
+LaSalle,5,Ballots Cast,,REP,,514,0,322
 LaSalle,5,U.S. Senate,,REP,Geraldine Sam,0,0,0
 LaSalle,5,U.S. Senate,,REP,Stefano de Stefano,0,0,0
-LaSalle,5,U.S. Senate,,REP,Ted Cruz,11,9,2
-LaSalle,5,U.S. House,23,REP,Will Hurd,9,7,2
+LaSalle,5,U.S. Senate,,REP,Ted Cruz,11,2,9
+LaSalle,5,U.S. House,23,REP,Will Hurd,9,2,7
 LaSalle,5,U.S. House,23,REP,Alma Arredondo-Lynch,0,0,0
 LaSalle,5,Governor,,REP,SECEDE Kilgore,0,0,0
 LaSalle,5,Governor,,REP,Barbara Krueger,0,0,0
-LaSalle,5,Governor,,REP,Greg Abbott,9,7,2
-LaSalle,5,Lieutenant Governor,,REP,Scott Milder,2,2,0
-LaSalle,5,Lieutenant Governor,,REP,Dan Patrick,7,5,2
-LaSalle,5,Attorney General,,REP,Ken Paxton,7,5,2
-LaSalle,5,Comptroller of Public Accounts,,REP,Glenn Hegar,6,5,1
-LaSalle,5,Commissioner of the General Land Office,,REP,Rick Range,2,2,0
+LaSalle,5,Governor,,REP,Greg Abbott,9,2,7
+LaSalle,5,Lieutenant Governor,,REP,Scott Milder,2,0,2
+LaSalle,5,Lieutenant Governor,,REP,Dan Patrick,7,2,5
+LaSalle,5,Attorney General,,REP,Ken Paxton,7,2,5
+LaSalle,5,Comptroller of Public Accounts,,REP,Glenn Hegar,6,1,5
+LaSalle,5,Commissioner of the General Land Office,,REP,Rick Range,2,0,2
 LaSalle,5,Commissioner of the General Land Office,,REP,Davey Edwards,0,0,0
 LaSalle,5,Commissioner of the General Land Office,,REP,Jerry Patterson,2,1,1
-LaSalle,5,Commissioner of the General Land Office,,REP,George P. Bush,5,4,1
-LaSalle,5,Commissioner of Agriculture,,REP,Trey Blocker,5,4,1
-LaSalle,5,Commissioner of Agriculture,,REP,Jim Hogan,1,1,0
+LaSalle,5,Commissioner of the General Land Office,,REP,George P. Bush,5,1,4
+LaSalle,5,Commissioner of Agriculture,,REP,Trey Blocker,5,1,4
+LaSalle,5,Commissioner of Agriculture,,REP,Jim Hogan,1,0,1
 LaSalle,5,Commissioner of Agriculture,,REP,Sid Miller,2,1,1
-LaSalle,5,Railroad Commissioner,,REP,Christi Craddick,8,6,2
-LaSalle,5,Railroad Commissioner,,REP,Weston Martinez,1,1,0
-LaSalle,5,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,6,5,1
-LaSalle,5,"Justice, Supreme Court, Place 4",,REP,John Devine,6,5,1
-LaSalle,5,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,6,5,1
-LaSalle,5,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,8,7,1
+LaSalle,5,Railroad Commissioner,,REP,Christi Craddick,8,2,6
+LaSalle,5,Railroad Commissioner,,REP,Weston Martinez,1,0,1
+LaSalle,5,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,6,1,5
+LaSalle,5,"Justice, Supreme Court, Place 4",,REP,John Devine,6,1,5
+LaSalle,5,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,6,1,5
+LaSalle,5,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,8,1,7
 LaSalle,5,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,0,0,0
-LaSalle,5,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,5,5,0
-LaSalle,5,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,6,5,1
+LaSalle,5,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,5,0,5
+LaSalle,5,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,6,1,5
 LaSalle,5,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,0,0,0
-LaSalle,5,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,2,2,0
-LaSalle,5,"Justice, 4th Court of Appeals District, Place No. 2",,REP,Marialyn Barnard,5,5,0
-LaSalle,5,"Justice, 4th Court of Appeals District, Place No. 3",,REP,Jason Pulliam,6,5,1
-LaSalle,5,"Justice, 4th Court of Appeals District, Place No. 4",,REP,Patrick Ballantyne,6,5,1
-LaSalle,5,"Justice, 4th Court of Appeals District, Place No. 5",,REP,Rebecca Simmons,5,5,0
-LaSalle,5,"Justice, 4th Court of Appeals District, Place No. 7",,REP,Shane Stolarczyk,6,5,1
-LaSalle,5,"District Judge, 81st Judicial District",,REP,Lynn Ellison,7,5,2
-LaSalle,5,"District Judge, 218th Judicial District",,REP,Russell Wilson,7,5,2
-LaSalle,5,County Chair,,REP,Jim Zetzsche,7,5,2
-LaSalle,5,U.S. Senate,,DEM,Sema Hernandez,136,85,51
-LaSalle,5,U.S. Senate,,DEM,Edward Kimbrough,59,36,23
+LaSalle,5,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,2,0,2
+LaSalle,5,"Justice, 4th Court of Appeals District, Place No. 2",,REP,Marialyn Barnard,5,0,5
+LaSalle,5,"Justice, 4th Court of Appeals District, Place No. 3",,REP,Jason Pulliam,6,1,5
+LaSalle,5,"Justice, 4th Court of Appeals District, Place No. 4",,REP,Patrick Ballantyne,6,1,5
+LaSalle,5,"Justice, 4th Court of Appeals District, Place No. 5",,REP,Rebecca Simmons,5,0,5
+LaSalle,5,"Justice, 4th Court of Appeals District, Place No. 7",,REP,Shane Stolarczyk,6,1,5
+LaSalle,5,"District Judge, 81st Judicial District",,REP,Lynn Ellison,7,2,5
+LaSalle,5,"District Judge, 218th Judicial District",,REP,Russell Wilson,7,2,5
+LaSalle,5,County Chair,,REP,Jim Zetzsche,7,2,5
+LaSalle,5,U.S. Senate,,DEM,Sema Hernandez,136,51,85
+LaSalle,5,U.S. Senate,,DEM,Edward Kimbrough,59,23,36
 LaSalle,5,U.S. Senate,,DEM,Over Votes,0,0,0
-LaSalle,5,U.S. Senate,,DEM,Under Votes,246,160,86
+LaSalle,5,U.S. Senate,,DEM,Under Votes,246,86,160
 LaSalle,5,Registered Voters,,DEM,,900,,
-LaSalle,5,Ballots Cast,,DEM,,514,322,30
-LaSalle,5,U.S. Senate,,DEM,Beto O'Rourke,62,32,30
-LaSalle,5,U.S. House,23,DEM,Rick Treviño,107,65,42
-LaSalle,5,U.S. House,23,DEM,Jay Hulings,55,38,17
-LaSalle,5,U.S. House,23,DEM,Gina Ortiz Jones,69,44,25
-LaSalle,5,U.S. House,23,DEM,"Angela ""Angie"" Villescaz",18,11,7
-LaSalle,5,U.S. House,23,DEM,Judy Canales,41,21,20
-LaSalle,5,Governor,,DEM,Lupe Valdez,120,73,47
-LaSalle,5,Governor,,DEM,James Jolly Clark,14,9,5
-LaSalle,5,Governor,,DEM,"Cedric Davis, Sr.",3,0,3
-LaSalle,5,Governor,,DEM,Adrian Ocegueda,30,21,9
-LaSalle,5,Governor,,DEM,Jeffrey Payne,17,8,9
-LaSalle,5,Governor,,DEM,Grady Yarbrough,32,19,13
-LaSalle,5,Governor,,DEM,Tom Wakely,9,3,6
-LaSalle,5,Governor,,DEM,Joe Mumbach,3,2,1
-LaSalle,5,Governor,,DEM,Andrew White,25,11,14
-LaSalle,5,Lieutenant Governor,,DEM,Mike Collier,117,75,42
-LaSalle,5,Lieutenant Governor,,DEM,Michael Cooper,118,64,54
-LaSalle,5,Attorney General,,DEM,Justin Nelson,195,112,83
-LaSalle,5,Comptroller of Public Accounts,,DEM,Joi Chevalier,72,48,24
-LaSalle,5,Comptroller of Public Accounts,,DEM,Tim Mahoney,158,85,73
-LaSalle,5,Commissioner of the General Land Office,,DEM,Tex Morgan,72,40,32
-LaSalle,5,Commissioner of the General Land Office,,DEM,Miguel Suazo,163,99,64
-LaSalle,5,Commissioner of Agriculture,,DEM,Kim Olson,181,108,73
-LaSalle,5,Railroad Commissioner,,DEM,Roman McAllen,140,84,56
-LaSalle,5,Railroad Commissioner,,DEM,Chris Spellmon,89,52,37
-LaSalle,5,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,185,104,81
-LaSalle,5,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,191,110,81
-LaSalle,5,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,190,110,80
-LaSalle,5,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,194,112,82
-LaSalle,5,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,192,110,82
-LaSalle,5,State Representative,31,DEM,Ryan Guillen,158,104,54
-LaSalle,5,State Representative,31,DEM,Ana Lisa Garza,154,90,64
-LaSalle,5,"Justice, 4th Court of Appeals District, Place No. 2",,DEM,Beth Watkins,191,112,79
-LaSalle,5,"Justice, 4th Court of Appeals District, Place No. 3",,DEM,Patricia O'Connell Alvarez,198,115,83
-LaSalle,5,"Justice, 4th Court of Appeals District, Place No. 4",,DEM,Luz Elena Chapa,196,114,82
-LaSalle,5,"Justice, 4th Court of Appeals District, Place No. 5",,DEM,Liza Rodriguez,196,113,83
-LaSalle,5,"Justice, 4th Court of Appeals District, Place No. 7",,DEM,Rebeca Martinez,213,123,90
-LaSalle,5,"District Judge, 81st Judicial District",,DEM,Errlinda Castillo,193,112,81
-LaSalle,5,County Judge,,DEM,"Joel Rodriguez, Jr.",281,169,112
-LaSalle,5,County Judge,,DEM,John Barnes,207,135,72
-LaSalle,5,District and County Clerk,,DEM,"Margarita ""Margie"" Avila Esqueda",288,177,111
-LaSalle,5,County Treasurer,,DEM,Thelma R. Trevino,143,104,39
-LaSalle,5,County Treasurer,,DEM,"Maria ""Mary"" M. Perez",180,102,78
-LaSalle,5,County Treasurer,,DEM,Martin Kruger,52,34,18
-LaSalle,5,County Treasurer,,DEM,June Galvan,110,60,50
-LaSalle,5,"County Commisisoner, Precinct No. 4",,DEM,Genaro Garza IV,96,56,40
-LaSalle,5,"County Commisisoner, Precinct No. 4",,DEM,"Jesse ""La Perika"" Gonzales",46,27,19
-LaSalle,5,"County Commisisoner, Precinct No. 4",,DEM,Raul Ayala,252,169,83
-LaSalle,5,"County Commisisoner, Precinct No. 4",,DEM,"Francisco ""Frankie"" Miranda, Jr.",91,51,40
-LaSalle,5,"Justice of the Peace, Precinct No. 1",,DEM,Joe R. Lozano,128,78,50
-LaSalle,5,"Justice of the Peace, Precinct No. 1",,DEM,Vicki Rodriguez,194,127,67
-LaSalle,5,"Justice of the Peace, Precinct No. 1",,DEM,Roxanna G. Rodriguez,167,101,66
-LaSalle,5,Proposition #1 Right to a 21st Century Public Education:,,,Yes,285,177,108
-LaSalle,5,Proposition #1 Right to a 21st Century Public Education:,,,No,45,28,17
-LaSalle,5,Proposition #2 Student Loan Debt:,,,Yes,262,167,95
-LaSalle,5,Proposition #2 Student Loan Debt:,,,No,42,27,15
-LaSalle,5,Proposition #3 Right to Healthcare:,,,Yes,243,158,85
-LaSalle,5,Proposition #3 Right to Healthcare:,,,No,57,33,24
-LaSalle,5,Proposition #4 Right to Economic Security:,,,Yes,255,163,92
-LaSalle,5,Proposition #4 Right to Economic Security:,,,No,39,24,15
-LaSalle,5,Proposition #5 National Jobs Program:,,,Yes,229,148,81
-LaSalle,5,Proposition #5 National Jobs Program:,,,No,54,33,21
-LaSalle,5,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,263,168,95
-LaSalle,5,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,29,17,12
-LaSalle,5,Proposition #7 Right to Dignity & Respect:,,,Yes,250,162,88
-LaSalle,5,Proposition #7 Right to Dignity & Respect:,,,No,36,21,15
-LaSalle,5,Proposition #8 Right to Housing:,,,Yes,215,137,78
-LaSalle,5,Proposition #8 Right to Housing:,,,No,69,43,26
-LaSalle,5,Proposition #9 Right to Vote:,,,Yes,240,153,87
-LaSalle,5,Proposition #9 Right to Vote:,,,No,45,28,17
-LaSalle,5,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,245,153,92
-LaSalle,5,Proposition #10 Right to a Fair Criminal Justice System:,,,No,41,27,14
-LaSalle,5,Proposition #11 Immigrant Rights:,,,Yes,229,148,81
-LaSalle,5,Proposition #11 Immigrant Rights:,,,No,51,28,23
-LaSalle,5,Proposition #12 Right to Fair Taxation:,,,Yes,252,159,93
-LaSalle,5,Proposition #12 Right to Fair Taxation:,,,No,33,22,11
-LaSalle,5,Proposition 1,,,YES,7,6,1
-LaSalle,5,Proposition 1,,,NO,1,1,0
-LaSalle,5,Proposition 2,,,YES,8,6,2
-LaSalle,5,Proposition 2,,,NO,1,1,0
-LaSalle,5,Proposition 3,,,YES,8,6,2
-LaSalle,5,Proposition 3,,,NO,1,1,0
-LaSalle,5,Proposition 4,,,YES,9,7,2
+LaSalle,5,Ballots Cast,,DEM,,514,30,322
+LaSalle,5,U.S. Senate,,DEM,Beto O'Rourke,62,30,32
+LaSalle,5,U.S. House,23,DEM,Rick Treviño,107,42,65
+LaSalle,5,U.S. House,23,DEM,Jay Hulings,55,17,38
+LaSalle,5,U.S. House,23,DEM,Gina Ortiz Jones,69,25,44
+LaSalle,5,U.S. House,23,DEM,"Angela ""Angie"" Villescaz",18,7,11
+LaSalle,5,U.S. House,23,DEM,Judy Canales,41,20,21
+LaSalle,5,Governor,,DEM,Lupe Valdez,120,47,73
+LaSalle,5,Governor,,DEM,James Jolly Clark,14,5,9
+LaSalle,5,Governor,,DEM,"Cedric Davis, Sr.",3,3,0
+LaSalle,5,Governor,,DEM,Adrian Ocegueda,30,9,21
+LaSalle,5,Governor,,DEM,Jeffrey Payne,17,9,8
+LaSalle,5,Governor,,DEM,Grady Yarbrough,32,13,19
+LaSalle,5,Governor,,DEM,Tom Wakely,9,6,3
+LaSalle,5,Governor,,DEM,Joe Mumbach,3,1,2
+LaSalle,5,Governor,,DEM,Andrew White,25,14,11
+LaSalle,5,Lieutenant Governor,,DEM,Mike Collier,117,42,75
+LaSalle,5,Lieutenant Governor,,DEM,Michael Cooper,118,54,64
+LaSalle,5,Attorney General,,DEM,Justin Nelson,195,83,112
+LaSalle,5,Comptroller of Public Accounts,,DEM,Joi Chevalier,72,24,48
+LaSalle,5,Comptroller of Public Accounts,,DEM,Tim Mahoney,158,73,85
+LaSalle,5,Commissioner of the General Land Office,,DEM,Tex Morgan,72,32,40
+LaSalle,5,Commissioner of the General Land Office,,DEM,Miguel Suazo,163,64,99
+LaSalle,5,Commissioner of Agriculture,,DEM,Kim Olson,181,73,108
+LaSalle,5,Railroad Commissioner,,DEM,Roman McAllen,140,56,84
+LaSalle,5,Railroad Commissioner,,DEM,Chris Spellmon,89,37,52
+LaSalle,5,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,185,81,104
+LaSalle,5,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,191,81,110
+LaSalle,5,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,190,80,110
+LaSalle,5,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,194,82,112
+LaSalle,5,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,192,82,110
+LaSalle,5,State Representative,31,DEM,Ryan Guillen,158,54,104
+LaSalle,5,State Representative,31,DEM,Ana Lisa Garza,154,64,90
+LaSalle,5,"Justice, 4th Court of Appeals District, Place No. 2",,DEM,Beth Watkins,191,79,112
+LaSalle,5,"Justice, 4th Court of Appeals District, Place No. 3",,DEM,Patricia O'Connell Alvarez,198,83,115
+LaSalle,5,"Justice, 4th Court of Appeals District, Place No. 4",,DEM,Luz Elena Chapa,196,82,114
+LaSalle,5,"Justice, 4th Court of Appeals District, Place No. 5",,DEM,Liza Rodriguez,196,83,113
+LaSalle,5,"Justice, 4th Court of Appeals District, Place No. 7",,DEM,Rebeca Martinez,213,90,123
+LaSalle,5,"District Judge, 81st Judicial District",,DEM,Errlinda Castillo,193,81,112
+LaSalle,5,County Judge,,DEM,"Joel Rodriguez, Jr.",281,112,169
+LaSalle,5,County Judge,,DEM,John Barnes,207,72,135
+LaSalle,5,District and County Clerk,,DEM,"Margarita ""Margie"" Avila Esqueda",288,111,177
+LaSalle,5,County Treasurer,,DEM,Thelma R. Trevino,143,39,104
+LaSalle,5,County Treasurer,,DEM,"Maria ""Mary"" M. Perez",180,78,102
+LaSalle,5,County Treasurer,,DEM,Martin Kruger,52,18,34
+LaSalle,5,County Treasurer,,DEM,June Galvan,110,50,60
+LaSalle,5,"County Commisisoner, Precinct No. 4",,DEM,Genaro Garza IV,96,40,56
+LaSalle,5,"County Commisisoner, Precinct No. 4",,DEM,"Jesse ""La Perika"" Gonzales",46,19,27
+LaSalle,5,"County Commisisoner, Precinct No. 4",,DEM,Raul Ayala,252,83,169
+LaSalle,5,"County Commisisoner, Precinct No. 4",,DEM,"Francisco ""Frankie"" Miranda, Jr.",91,40,51
+LaSalle,5,"Justice of the Peace, Precinct No. 1",,DEM,Joe R. Lozano,128,50,78
+LaSalle,5,"Justice of the Peace, Precinct No. 1",,DEM,Vicki Rodriguez,194,67,127
+LaSalle,5,"Justice of the Peace, Precinct No. 1",,DEM,Roxanna G. Rodriguez,167,66,101
+LaSalle,5,Proposition #1 Right to a 21st Century Public Education:,,,Yes,285,108,177
+LaSalle,5,Proposition #1 Right to a 21st Century Public Education:,,,No,45,17,28
+LaSalle,5,Proposition #2 Student Loan Debt:,,,Yes,262,95,167
+LaSalle,5,Proposition #2 Student Loan Debt:,,,No,42,15,27
+LaSalle,5,Proposition #3 Right to Healthcare:,,,Yes,243,85,158
+LaSalle,5,Proposition #3 Right to Healthcare:,,,No,57,24,33
+LaSalle,5,Proposition #4 Right to Economic Security:,,,Yes,255,92,163
+LaSalle,5,Proposition #4 Right to Economic Security:,,,No,39,15,24
+LaSalle,5,Proposition #5 National Jobs Program:,,,Yes,229,81,148
+LaSalle,5,Proposition #5 National Jobs Program:,,,No,54,21,33
+LaSalle,5,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,263,95,168
+LaSalle,5,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,29,12,17
+LaSalle,5,Proposition #7 Right to Dignity & Respect:,,,Yes,250,88,162
+LaSalle,5,Proposition #7 Right to Dignity & Respect:,,,No,36,15,21
+LaSalle,5,Proposition #8 Right to Housing:,,,Yes,215,78,137
+LaSalle,5,Proposition #8 Right to Housing:,,,No,69,26,43
+LaSalle,5,Proposition #9 Right to Vote:,,,Yes,240,87,153
+LaSalle,5,Proposition #9 Right to Vote:,,,No,45,17,28
+LaSalle,5,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,245,92,153
+LaSalle,5,Proposition #10 Right to a Fair Criminal Justice System:,,,No,41,14,27
+LaSalle,5,Proposition #11 Immigrant Rights:,,,Yes,229,81,148
+LaSalle,5,Proposition #11 Immigrant Rights:,,,No,51,23,28
+LaSalle,5,Proposition #12 Right to Fair Taxation:,,,Yes,252,93,159
+LaSalle,5,Proposition #12 Right to Fair Taxation:,,,No,33,11,22
+LaSalle,5,Proposition 1,,,YES,7,1,6
+LaSalle,5,Proposition 1,,,NO,1,0,1
+LaSalle,5,Proposition 2,,,YES,8,2,6
+LaSalle,5,Proposition 2,,,NO,1,0,1
+LaSalle,5,Proposition 3,,,YES,8,2,6
+LaSalle,5,Proposition 3,,,NO,1,0,1
+LaSalle,5,Proposition 4,,,YES,9,2,7
 LaSalle,5,Proposition 4,,,NO,0,0,0
-LaSalle,5,Proposition 5,,,YES,7,6,1
+LaSalle,5,Proposition 5,,,YES,7,1,6
 LaSalle,5,Proposition 5,,,NO,2,1,1
-LaSalle,5,Proposition 6,,,YES,9,7,2
+LaSalle,5,Proposition 6,,,YES,9,2,7
 LaSalle,5,Proposition 6,,,NO,0,0,0
-LaSalle,5,Proposition 7,,,YES,1,1,0
-LaSalle,5,Proposition 7,,,NO,8,6,2
-LaSalle,5,Proposition 8,,,YES,9,7,2
+LaSalle,5,Proposition 7,,,YES,1,0,1
+LaSalle,5,Proposition 7,,,NO,8,2,6
+LaSalle,5,Proposition 8,,,YES,9,2,7
 LaSalle,5,Proposition 8,,,NO,0,0,0
-LaSalle,5,Proposition 9,,,YES,9,7,2
+LaSalle,5,Proposition 9,,,YES,9,2,7
 LaSalle,5,Proposition 9,,,NO,0,0,0
-LaSalle,5,Proposition 10,,,YES,8,6,2
-LaSalle,5,Proposition 10,,,NO,1,1,0
-LaSalle,5,Proposition 11,,,YES,9,7,2
+LaSalle,5,Proposition 10,,,YES,8,2,6
+LaSalle,5,Proposition 10,,,NO,1,0,1
+LaSalle,5,Proposition 11,,,YES,9,2,7
 LaSalle,5,Proposition 11,,,NO,0,0,0
-LaSalle,6,U.S. Senate,,REP,Mary Miller,1,1,0
+LaSalle,6,U.S. Senate,,REP,Mary Miller,1,0,1
 LaSalle,6,U.S. Senate,,REP,"Bruce Jacobson, Jr.",0,0,0
 LaSalle,6,U.S. Senate,,REP,Over Votes,0,0,0
 LaSalle,6,U.S. Senate,,REP,Under Votes,0,0,0
 LaSalle,6,Registered Voters,,REP,,438,,
-LaSalle,6,Ballots Cast,,REP,,210,115,0
+LaSalle,6,Ballots Cast,,REP,,210,0,115
 LaSalle,6,U.S. Senate,,REP,Geraldine Sam,0,0,0
 LaSalle,6,U.S. Senate,,REP,Stefano de Stefano,0,0,0
-LaSalle,6,U.S. Senate,,REP,Ted Cruz,7,7,0
-LaSalle,6,U.S. House,23,REP,Will Hurd,8,8,0
+LaSalle,6,U.S. Senate,,REP,Ted Cruz,7,0,7
+LaSalle,6,U.S. House,23,REP,Will Hurd,8,0,8
 LaSalle,6,U.S. House,23,REP,Alma Arredondo-Lynch,0,0,0
 LaSalle,6,Governor,,REP,SECEDE Kilgore,0,0,0
 LaSalle,6,Governor,,REP,Barbara Krueger,0,0,0
-LaSalle,6,Governor,,REP,Greg Abbott,8,8,0
-LaSalle,6,Lieutenant Governor,,REP,Scott Milder,1,1,0
-LaSalle,6,Lieutenant Governor,,REP,Dan Patrick,7,7,0
-LaSalle,6,Attorney General,,REP,Ken Paxton,8,8,0
-LaSalle,6,Comptroller of Public Accounts,,REP,Glenn Hegar,7,7,0
-LaSalle,6,Commissioner of the General Land Office,,REP,Rick Range,2,2,0
+LaSalle,6,Governor,,REP,Greg Abbott,8,0,8
+LaSalle,6,Lieutenant Governor,,REP,Scott Milder,1,0,1
+LaSalle,6,Lieutenant Governor,,REP,Dan Patrick,7,0,7
+LaSalle,6,Attorney General,,REP,Ken Paxton,8,0,8
+LaSalle,6,Comptroller of Public Accounts,,REP,Glenn Hegar,7,0,7
+LaSalle,6,Commissioner of the General Land Office,,REP,Rick Range,2,0,2
 LaSalle,6,Commissioner of the General Land Office,,REP,Davey Edwards,0,0,0
-LaSalle,6,Commissioner of the General Land Office,,REP,Jerry Patterson,2,2,0
-LaSalle,6,Commissioner of the General Land Office,,REP,George P. Bush,4,4,0
-LaSalle,6,Commissioner of Agriculture,,REP,Trey Blocker,1,1,0
-LaSalle,6,Commissioner of Agriculture,,REP,Jim Hogan,1,1,0
-LaSalle,6,Commissioner of Agriculture,,REP,Sid Miller,5,5,0
-LaSalle,6,Railroad Commissioner,,REP,Christi Craddick,6,6,0
-LaSalle,6,Railroad Commissioner,,REP,Weston Martinez,2,2,0
-LaSalle,6,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,7,7,0
-LaSalle,6,"Justice, Supreme Court, Place 4",,REP,John Devine,7,7,0
-LaSalle,6,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,7,7,0
-LaSalle,6,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,3,3,0
-LaSalle,6,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,5,5,0
-LaSalle,6,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,7,7,0
-LaSalle,6,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,4,4,0
+LaSalle,6,Commissioner of the General Land Office,,REP,Jerry Patterson,2,0,2
+LaSalle,6,Commissioner of the General Land Office,,REP,George P. Bush,4,0,4
+LaSalle,6,Commissioner of Agriculture,,REP,Trey Blocker,1,0,1
+LaSalle,6,Commissioner of Agriculture,,REP,Jim Hogan,1,0,1
+LaSalle,6,Commissioner of Agriculture,,REP,Sid Miller,5,0,5
+LaSalle,6,Railroad Commissioner,,REP,Christi Craddick,6,0,6
+LaSalle,6,Railroad Commissioner,,REP,Weston Martinez,2,0,2
+LaSalle,6,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,7,0,7
+LaSalle,6,"Justice, Supreme Court, Place 4",,REP,John Devine,7,0,7
+LaSalle,6,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,7,0,7
+LaSalle,6,"Presiding Judge, Court of Criminal Appeals",,REP,David Bridges,3,0,3
+LaSalle,6,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,5,0,5
+LaSalle,6,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,7,0,7
+LaSalle,6,"Judge, Court of Criminal Appeals, Place 8",,REP,Jay Brandon,4,0,4
 LaSalle,6,"Judge, Court of Criminal Appeals, Place 8",,REP,Dib Waldrip,0,0,0
-LaSalle,6,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,4,4,0
-LaSalle,6,"Justice, 4th Court of Appeals District, Place No. 2",,REP,Marialyn Barnard,7,7,0
-LaSalle,6,"Justice, 4th Court of Appeals District, Place No. 3",,REP,Jason Pulliam,7,7,0
-LaSalle,6,"Justice, 4th Court of Appeals District, Place No. 4",,REP,Patrick Ballantyne,7,7,0
-LaSalle,6,"Justice, 4th Court of Appeals District, Place No. 5",,REP,Rebecca Simmons,7,7,0
-LaSalle,6,"Justice, 4th Court of Appeals District, Place No. 7",,REP,Shane Stolarczyk,7,7,0
-LaSalle,6,"District Judge, 81st Judicial District",,REP,Lynn Ellison,7,7,0
-LaSalle,6,"District Judge, 218th Judicial District",,REP,Russell Wilson,7,7,0
-LaSalle,6,County Chair,,REP,Jim Zetzsche,7,7,0
-LaSalle,6,U.S. Senate,,DEM,Sema Hernandez,55,25,30
-LaSalle,6,U.S. Senate,,DEM,Edward Kimbrough,23,12,11
+LaSalle,6,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,4,0,4
+LaSalle,6,"Justice, 4th Court of Appeals District, Place No. 2",,REP,Marialyn Barnard,7,0,7
+LaSalle,6,"Justice, 4th Court of Appeals District, Place No. 3",,REP,Jason Pulliam,7,0,7
+LaSalle,6,"Justice, 4th Court of Appeals District, Place No. 4",,REP,Patrick Ballantyne,7,0,7
+LaSalle,6,"Justice, 4th Court of Appeals District, Place No. 5",,REP,Rebecca Simmons,7,0,7
+LaSalle,6,"Justice, 4th Court of Appeals District, Place No. 7",,REP,Shane Stolarczyk,7,0,7
+LaSalle,6,"District Judge, 81st Judicial District",,REP,Lynn Ellison,7,0,7
+LaSalle,6,"District Judge, 218th Judicial District",,REP,Russell Wilson,7,0,7
+LaSalle,6,County Chair,,REP,Jim Zetzsche,7,0,7
+LaSalle,6,U.S. Senate,,DEM,Sema Hernandez,55,30,25
+LaSalle,6,U.S. Senate,,DEM,Edward Kimbrough,23,11,12
 LaSalle,6,U.S. Senate,,DEM,Over Votes,0,0,0
-LaSalle,6,U.S. Senate,,DEM,Under Votes,90,53,37
+LaSalle,6,U.S. Senate,,DEM,Under Votes,90,37,53
 LaSalle,6,Registered Voters,,DEM,,438,,
-LaSalle,6,Ballots Cast,,DEM,,210,115,17
+LaSalle,6,Ballots Cast,,DEM,,210,17,115
 LaSalle,6,U.S. Senate,,DEM,Beto O'Rourke,34,17,17
-LaSalle,6,U.S. House,23,DEM,Rick Treviño,35,17,18
-LaSalle,6,U.S. House,23,DEM,Jay Hulings,24,18,6
-LaSalle,6,U.S. House,23,DEM,Gina Ortiz Jones,38,13,25
+LaSalle,6,U.S. House,23,DEM,Rick Treviño,35,18,17
+LaSalle,6,U.S. House,23,DEM,Jay Hulings,24,6,18
+LaSalle,6,U.S. House,23,DEM,Gina Ortiz Jones,38,25,13
 LaSalle,6,U.S. House,23,DEM,"Angela ""Angie"" Villescaz",8,4,4
-LaSalle,6,U.S. House,23,DEM,Judy Canales,19,6,13
-LaSalle,6,Governor,,DEM,Lupe Valdez,55,25,30
-LaSalle,6,Governor,,DEM,James Jolly Clark,1,0,1
-LaSalle,6,Governor,,DEM,"Cedric Davis, Sr.",2,2,0
+LaSalle,6,U.S. House,23,DEM,Judy Canales,19,13,6
+LaSalle,6,Governor,,DEM,Lupe Valdez,55,30,25
+LaSalle,6,Governor,,DEM,James Jolly Clark,1,1,0
+LaSalle,6,Governor,,DEM,"Cedric Davis, Sr.",2,0,2
 LaSalle,6,Governor,,DEM,Adrian Ocegueda,8,4,4
-LaSalle,6,Governor,,DEM,Jeffrey Payne,8,3,5
-LaSalle,6,Governor,,DEM,Grady Yarbrough,8,8,0
-LaSalle,6,Governor,,DEM,Tom Wakely,5,1,4
-LaSalle,6,Governor,,DEM,Joe Mumbach,1,0,1
+LaSalle,6,Governor,,DEM,Jeffrey Payne,8,5,3
+LaSalle,6,Governor,,DEM,Grady Yarbrough,8,0,8
+LaSalle,6,Governor,,DEM,Tom Wakely,5,4,1
+LaSalle,6,Governor,,DEM,Joe Mumbach,1,1,0
 LaSalle,6,Governor,,DEM,Andrew White,10,5,5
-LaSalle,6,Lieutenant Governor,,DEM,Mike Collier,54,25,29
-LaSalle,6,Lieutenant Governor,,DEM,Michael Cooper,45,20,25
-LaSalle,6,Attorney General,,DEM,Justin Nelson,75,37,38
-LaSalle,6,Comptroller of Public Accounts,,DEM,Joi Chevalier,25,10,15
+LaSalle,6,Lieutenant Governor,,DEM,Mike Collier,54,29,25
+LaSalle,6,Lieutenant Governor,,DEM,Michael Cooper,45,25,20
+LaSalle,6,Attorney General,,DEM,Justin Nelson,75,38,37
+LaSalle,6,Comptroller of Public Accounts,,DEM,Joi Chevalier,25,15,10
 LaSalle,6,Comptroller of Public Accounts,,DEM,Tim Mahoney,70,35,35
-LaSalle,6,Commissioner of the General Land Office,,DEM,Tex Morgan,31,16,15
-LaSalle,6,Commissioner of the General Land Office,,DEM,Miguel Suazo,65,30,35
+LaSalle,6,Commissioner of the General Land Office,,DEM,Tex Morgan,31,15,16
+LaSalle,6,Commissioner of the General Land Office,,DEM,Miguel Suazo,65,35,30
 LaSalle,6,Commissioner of Agriculture,,DEM,Kim Olson,72,36,36
-LaSalle,6,Railroad Commissioner,,DEM,Roman McAllen,55,22,33
-LaSalle,6,Railroad Commissioner,,DEM,Chris Spellmon,39,22,17
-LaSalle,6,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,73,37,36
+LaSalle,6,Railroad Commissioner,,DEM,Roman McAllen,55,33,22
+LaSalle,6,Railroad Commissioner,,DEM,Chris Spellmon,39,17,22
+LaSalle,6,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,73,36,37
 LaSalle,6,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,70,35,35
-LaSalle,6,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,71,34,37
-LaSalle,6,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,68,33,35
-LaSalle,6,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,70,33,37
-LaSalle,6,State Representative,31,DEM,Ryan Guillen,78,38,40
-LaSalle,6,State Representative,31,DEM,Ana Lisa Garza,60,27,33
-LaSalle,6,"Justice, 4th Court of Appeals District, Place No. 2",,DEM,Beth Watkins,70,33,37
-LaSalle,6,"Justice, 4th Court of Appeals District, Place No. 3",,DEM,Patricia O'Connell Alvarez,76,36,40
-LaSalle,6,"Justice, 4th Court of Appeals District, Place No. 4",,DEM,Luz Elena Chapa,77,36,41
-LaSalle,6,"Justice, 4th Court of Appeals District, Place No. 5",,DEM,Liza Rodriguez,79,39,40
-LaSalle,6,"Justice, 4th Court of Appeals District, Place No. 7",,DEM,Rebeca Martinez,78,38,40
-LaSalle,6,"District Judge, 81st Judicial District",,DEM,Errlinda Castillo,72,35,37
-LaSalle,6,County Judge,,DEM,"Joel Rodriguez, Jr.",82,47,35
-LaSalle,6,County Judge,,DEM,John Barnes,110,59,51
+LaSalle,6,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,71,37,34
+LaSalle,6,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,68,35,33
+LaSalle,6,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,70,37,33
+LaSalle,6,State Representative,31,DEM,Ryan Guillen,78,40,38
+LaSalle,6,State Representative,31,DEM,Ana Lisa Garza,60,33,27
+LaSalle,6,"Justice, 4th Court of Appeals District, Place No. 2",,DEM,Beth Watkins,70,37,33
+LaSalle,6,"Justice, 4th Court of Appeals District, Place No. 3",,DEM,Patricia O'Connell Alvarez,76,40,36
+LaSalle,6,"Justice, 4th Court of Appeals District, Place No. 4",,DEM,Luz Elena Chapa,77,41,36
+LaSalle,6,"Justice, 4th Court of Appeals District, Place No. 5",,DEM,Liza Rodriguez,79,40,39
+LaSalle,6,"Justice, 4th Court of Appeals District, Place No. 7",,DEM,Rebeca Martinez,78,40,38
+LaSalle,6,"District Judge, 81st Judicial District",,DEM,Errlinda Castillo,72,37,35
+LaSalle,6,County Judge,,DEM,"Joel Rodriguez, Jr.",82,35,47
+LaSalle,6,County Judge,,DEM,John Barnes,110,51,59
 LaSalle,6,District and County Clerk,,DEM,"Margarita ""Margie"" Avila Esqueda",112,56,56
-LaSalle,6,County Treasurer,,DEM,Thelma R. Trevino,53,32,21
-LaSalle,6,County Treasurer,,DEM,"Maria ""Mary"" M. Perez",69,27,42
-LaSalle,6,County Treasurer,,DEM,Martin Kruger,25,17,8
-LaSalle,6,County Treasurer,,DEM,June Galvan,49,27,22
-LaSalle,6,"County Commissioner, Precinct No. 2",,DEM,"Alfredo Valles, Jr.",48,22,26
-LaSalle,6,"County Commissioner, Precinct No. 2",,DEM,"Joaquin ""Jack"" Alba",98,56,42
+LaSalle,6,County Treasurer,,DEM,Thelma R. Trevino,53,21,32
+LaSalle,6,County Treasurer,,DEM,"Maria ""Mary"" M. Perez",69,42,27
+LaSalle,6,County Treasurer,,DEM,Martin Kruger,25,8,17
+LaSalle,6,County Treasurer,,DEM,June Galvan,49,22,27
+LaSalle,6,"County Commissioner, Precinct No. 2",,DEM,"Alfredo Valles, Jr.",48,26,22
+LaSalle,6,"County Commissioner, Precinct No. 2",,DEM,"Joaquin ""Jack"" Alba",98,42,56
 LaSalle,6,"County Commissioner, Precinct No. 2",,DEM,"Ricardo ""Poche"" Garza",30,15,15
-LaSalle,6,"Justice of the Peace, Precinct No. 1",,DEM,Joe R. Lozano,48,21,27
-LaSalle,6,"Justice of the Peace, Precinct No. 1",,DEM,Vicki Rodriguez,79,47,32
+LaSalle,6,"Justice of the Peace, Precinct No. 1",,DEM,Joe R. Lozano,48,27,21
+LaSalle,6,"Justice of the Peace, Precinct No. 1",,DEM,Vicki Rodriguez,79,32,47
 LaSalle,6,"Justice of the Peace, Precinct No. 1",,DEM,Roxanna G. Rodriguez,70,35,35
-LaSalle,6,Proposition #1 Right to a 21st Century Public Education:,,,Yes,108,51,57
-LaSalle,6,Proposition #1 Right to a 21st Century Public Education:,,,No,30,20,10
-LaSalle,6,Proposition #2 Student Loan Debt:,,,Yes,108,52,56
-LaSalle,6,Proposition #2 Student Loan Debt:,,,No,27,18,9
-LaSalle,6,Proposition #3 Right to Healthcare:,,,Yes,104,49,55
-LaSalle,6,Proposition #3 Right to Healthcare:,,,No,35,23,12
-LaSalle,6,Proposition #4 Right to Economic Security:,,,Yes,108,55,53
-LaSalle,6,Proposition #4 Right to Economic Security:,,,No,27,16,11
-LaSalle,6,Proposition #5 National Jobs Program:,,,Yes,101,51,50
-LaSalle,6,Proposition #5 National Jobs Program:,,,No,30,17,13
-LaSalle,6,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,115,59,56
-LaSalle,6,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,17,11,6
-LaSalle,6,Proposition #7 Right to Dignity & Respect:,,,Yes,103,50,53
-LaSalle,6,Proposition #7 Right to Dignity & Respect:,,,No,25,16,9
-LaSalle,6,Proposition #8 Right to Housing:,,,Yes,93,43,50
-LaSalle,6,Proposition #8 Right to Housing:,,,No,39,25,14
+LaSalle,6,Proposition #1 Right to a 21st Century Public Education:,,,Yes,108,57,51
+LaSalle,6,Proposition #1 Right to a 21st Century Public Education:,,,No,30,10,20
+LaSalle,6,Proposition #2 Student Loan Debt:,,,Yes,108,56,52
+LaSalle,6,Proposition #2 Student Loan Debt:,,,No,27,9,18
+LaSalle,6,Proposition #3 Right to Healthcare:,,,Yes,104,55,49
+LaSalle,6,Proposition #3 Right to Healthcare:,,,No,35,12,23
+LaSalle,6,Proposition #4 Right to Economic Security:,,,Yes,108,53,55
+LaSalle,6,Proposition #4 Right to Economic Security:,,,No,27,11,16
+LaSalle,6,Proposition #5 National Jobs Program:,,,Yes,101,50,51
+LaSalle,6,Proposition #5 National Jobs Program:,,,No,30,13,17
+LaSalle,6,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,Yes,115,56,59
+LaSalle,6,"Proposition #6 Right to Clean Air, Safe Water, and a Healthy Environment:",,,No,17,6,11
+LaSalle,6,Proposition #7 Right to Dignity & Respect:,,,Yes,103,53,50
+LaSalle,6,Proposition #7 Right to Dignity & Respect:,,,No,25,9,16
+LaSalle,6,Proposition #8 Right to Housing:,,,Yes,93,50,43
+LaSalle,6,Proposition #8 Right to Housing:,,,No,39,14,25
 LaSalle,6,Proposition #9 Right to Vote:,,,Yes,96,48,48
-LaSalle,6,Proposition #9 Right to Vote:,,,No,32,18,14
-LaSalle,6,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,98,46,52
-LaSalle,6,Proposition #10 Right to a Fair Criminal Justice System:,,,No,28,20,8
-LaSalle,6,Proposition #11 Immigrant Rights:,,,Yes,95,44,51
-LaSalle,6,Proposition #11 Immigrant Rights:,,,No,34,23,11
-LaSalle,6,Proposition #12 Right to Fair Taxation:,,,Yes,114,56,58
-LaSalle,6,Proposition #12 Right to Fair Taxation:,,,No,18,13,5
-LaSalle,6,Proposition 1,,,YES,5,5,0
-LaSalle,6,Proposition 1,,,NO,3,3,0
-LaSalle,6,Proposition 2,,,YES,7,7,0
-LaSalle,6,Proposition 2,,,NO,1,1,0
-LaSalle,6,Proposition 3,,,YES,7,7,0
-LaSalle,6,Proposition 3,,,NO,1,1,0
-LaSalle,6,Proposition 4,,,YES,7,7,0
-LaSalle,6,Proposition 4,,,NO,1,1,0
-LaSalle,6,Proposition 5,,,YES,7,7,0
-LaSalle,6,Proposition 5,,,NO,1,1,0
-LaSalle,6,Proposition 6,,,YES,8,8,0
+LaSalle,6,Proposition #9 Right to Vote:,,,No,32,14,18
+LaSalle,6,Proposition #10 Right to a Fair Criminal Justice System:,,,Yes,98,52,46
+LaSalle,6,Proposition #10 Right to a Fair Criminal Justice System:,,,No,28,8,20
+LaSalle,6,Proposition #11 Immigrant Rights:,,,Yes,95,51,44
+LaSalle,6,Proposition #11 Immigrant Rights:,,,No,34,11,23
+LaSalle,6,Proposition #12 Right to Fair Taxation:,,,Yes,114,58,56
+LaSalle,6,Proposition #12 Right to Fair Taxation:,,,No,18,5,13
+LaSalle,6,Proposition 1,,,YES,5,0,5
+LaSalle,6,Proposition 1,,,NO,3,0,3
+LaSalle,6,Proposition 2,,,YES,7,0,7
+LaSalle,6,Proposition 2,,,NO,1,0,1
+LaSalle,6,Proposition 3,,,YES,7,0,7
+LaSalle,6,Proposition 3,,,NO,1,0,1
+LaSalle,6,Proposition 4,,,YES,7,0,7
+LaSalle,6,Proposition 4,,,NO,1,0,1
+LaSalle,6,Proposition 5,,,YES,7,0,7
+LaSalle,6,Proposition 5,,,NO,1,0,1
+LaSalle,6,Proposition 6,,,YES,8,0,8
 LaSalle,6,Proposition 6,,,NO,0,0,0
-LaSalle,6,Proposition 7,,,YES,3,3,0
-LaSalle,6,Proposition 7,,,NO,5,5,0
-LaSalle,6,Proposition 8,,,YES,8,8,0
+LaSalle,6,Proposition 7,,,YES,3,0,3
+LaSalle,6,Proposition 7,,,NO,5,0,5
+LaSalle,6,Proposition 8,,,YES,8,0,8
 LaSalle,6,Proposition 8,,,NO,0,0,0
-LaSalle,6,Proposition 9,,,YES,8,8,0
+LaSalle,6,Proposition 9,,,YES,8,0,8
 LaSalle,6,Proposition 9,,,NO,0,0,0
-LaSalle,6,Proposition 10,,,YES,7,7,0
-LaSalle,6,Proposition 10,,,NO,1,1,0
-LaSalle,6,Proposition 11,,,YES,7,7,0
-LaSalle,6,Proposition 11,,,NO,1,1,0
+LaSalle,6,Proposition 10,,,YES,7,0,7
+LaSalle,6,Proposition 10,,,NO,1,0,1
+LaSalle,6,Proposition 11,,,YES,7,0,7
+LaSalle,6,Proposition 11,,,NO,1,0,1

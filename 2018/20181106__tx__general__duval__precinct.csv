@@ -1,559 +1,559 @@
-county,precinct,office,district,party,candidate,early_voting,election_day,votes
-Duval,1,,,,Ballots Cast,634,340,974
-Duval,1,,,,Ballots Cast,406,213,619
+county,precinct,office,district,party,candidate,votes,election_day,early_voting
+Duval,1,,,,Ballots Cast,974,340,634
+Duval,1,,,,Ballots Cast,619,213,406
 Duval,1,,,,Over Votes,0,0,0
-Duval,1,,,,Under Votes,228,127,355
-Duval,2,,,,Ballots Cast,578,221,799
-Duval,2,,,,Ballots Cast,337,138,475
+Duval,1,,,,Under Votes,355,127,228
+Duval,2,,,,Ballots Cast,799,221,578
+Duval,2,,,,Ballots Cast,475,138,337
 Duval,2,,,,Over Votes,0,0,0
-Duval,2,,,,Under Votes,241,83,324
-Duval,3,,,,Ballots Cast,170,115,285
-Duval,3,,,,Ballots Cast,84,62,146
+Duval,2,,,,Under Votes,324,83,241
+Duval,3,,,,Ballots Cast,285,115,170
+Duval,3,,,,Ballots Cast,146,62,84
 Duval,3,,,,Over Votes,0,0,0
-Duval,3,,,,Under Votes,86,53,139
-Duval,4,,,,Ballots Cast,65,35,100
-Duval,4,,,,Ballots Cast,37,17,54
+Duval,3,,,,Under Votes,139,53,86
+Duval,4,,,,Ballots Cast,100,35,65
+Duval,4,,,,Ballots Cast,54,17,37
 Duval,4,,,,Over Votes,0,0,0
-Duval,4,,,,Under Votes,28,18,46
-Duval,5,,,,Ballots Cast,139,68,207
-Duval,5,,,,Ballots Cast,87,42,129
+Duval,4,,,,Under Votes,46,18,28
+Duval,5,,,,Ballots Cast,207,68,139
+Duval,5,,,,Ballots Cast,129,42,87
 Duval,5,,,,Over Votes,0,0,0
-Duval,5,,,,Under Votes,52,26,78
-Duval,6,,,,Ballots Cast,59,33,92
-Duval,6,,,,Ballots Cast,30,18,48
+Duval,5,,,,Under Votes,78,26,52
+Duval,6,,,,Ballots Cast,92,33,59
+Duval,6,,,,Ballots Cast,48,18,30
 Duval,6,,,,Over Votes,0,0,0
-Duval,6,,,,Under Votes,29,15,44
-Duval,7,,,,Ballots Cast,55,21,76
-Duval,7,,,,Ballots Cast,23,10,33
+Duval,6,,,,Under Votes,44,15,29
+Duval,7,,,,Ballots Cast,76,21,55
+Duval,7,,,,Ballots Cast,33,10,23
 Duval,7,,,,Over Votes,0,0,0
-Duval,7,,,,Under Votes,32,11,43
-Duval,8,,,,Ballots Cast,845,317,1162
-Duval,8,,,,Ballots Cast,462,183,645
+Duval,7,,,,Under Votes,43,11,32
+Duval,8,,,,Ballots Cast,1162,317,845
+Duval,8,,,,Ballots Cast,645,183,462
 Duval,8,,,,Over Votes,0,0,0
-Duval,8,,,,Under Votes,383,134,517
-Duval,9,,,,Ballots Cast,381,231,612
-Duval,9,,,,Ballots Cast,243,143,386
+Duval,8,,,,Under Votes,517,134,383
+Duval,9,,,,Ballots Cast,612,231,381
+Duval,9,,,,Ballots Cast,386,143,243
 Duval,9,,,,Over Votes,1,0,1
-Duval,9,,,,Under Votes,137,88,225
-Duval,1,U.S. Senate,,REP,Ted Cruz,149,79,228
-Duval,1,U.S. Senate,,DEM,Beto O'Rourke ,466,237,703
-Duval,1,U.S. Senate,,LIB,Neal M. Dikeman,2,1,3
-Duval,1,U.S. Senate,,,Ballots Cast,617,317,934
+Duval,9,,,,Under Votes,225,88,137
+Duval,1,U.S. Senate,,REP,Ted Cruz,228,79,149
+Duval,1,U.S. Senate,,DEM,Beto O'Rourke ,703,237,466
+Duval,1,U.S. Senate,,LIB,Neal M. Dikeman,3,1,2
+Duval,1,U.S. Senate,,,Ballots Cast,934,317,617
 Duval,1,U.S. Senate,,,Over Votes,0,0,0
-Duval,1,U.S. Senate,,,Under Votes,17,23,40
-Duval,2,U.S. Senate,,REP,Ted Cruz,117,54,171
-Duval,2,U.S. Senate,,DEM,Beto O'Rourke ,424,157,581
-Duval,2,U.S. Senate,,LIB,Neal M. Dikeman,2,1,3
-Duval,2,U.S. Senate,,,Ballots Cast,543,212,755
+Duval,1,U.S. Senate,,,Under Votes,40,23,17
+Duval,2,U.S. Senate,,REP,Ted Cruz,171,54,117
+Duval,2,U.S. Senate,,DEM,Beto O'Rourke ,581,157,424
+Duval,2,U.S. Senate,,LIB,Neal M. Dikeman,3,1,2
+Duval,2,U.S. Senate,,,Ballots Cast,755,212,543
 Duval,2,U.S. Senate,,,Over Votes,0,0,0
-Duval,2,U.S. Senate,,,Under Votes,35,9,44
-Duval,3,U.S. Senate,,REP,Ted Cruz,45,24,69
-Duval,3,U.S. Senate,,DEM,Beto O'Rourke ,120,90,210
+Duval,2,U.S. Senate,,,Under Votes,44,9,35
+Duval,3,U.S. Senate,,REP,Ted Cruz,69,24,45
+Duval,3,U.S. Senate,,DEM,Beto O'Rourke ,210,90,120
 Duval,3,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0
-Duval,3,U.S. Senate,,,Ballots Cast,165,114,279
+Duval,3,U.S. Senate,,,Ballots Cast,279,114,165
 Duval,3,U.S. Senate,,,Over Votes,0,0,0
-Duval,3,U.S. Senate,,,Under Votes,5,1,6
-Duval,4,U.S. Senate,,REP,Ted Cruz,31,16,47
-Duval,4,U.S. Senate,,DEM,Beto O'Rourke ,32,18,50
+Duval,3,U.S. Senate,,,Under Votes,6,1,5
+Duval,4,U.S. Senate,,REP,Ted Cruz,47,16,31
+Duval,4,U.S. Senate,,DEM,Beto O'Rourke ,50,18,32
 Duval,4,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0
-Duval,4,U.S. Senate,,,Ballots Cast,63,34,97
+Duval,4,U.S. Senate,,,Ballots Cast,97,34,63
 Duval,4,U.S. Senate,,,Over Votes,0,0,0
-Duval,4,U.S. Senate,,,Under Votes,2,1,3
-Duval,5,U.S. Senate,,REP,Ted Cruz,45,18,63
-Duval,5,U.S. Senate,,DEM,Beto O'Rourke ,89,47,136
-Duval,5,U.S. Senate,,LIB,Neal M. Dikeman,1,1,2
-Duval,5,U.S. Senate,,,Ballots Cast,135,66,201
+Duval,4,U.S. Senate,,,Under Votes,3,1,2
+Duval,5,U.S. Senate,,REP,Ted Cruz,63,18,45
+Duval,5,U.S. Senate,,DEM,Beto O'Rourke ,136,47,89
+Duval,5,U.S. Senate,,LIB,Neal M. Dikeman,2,1,1
+Duval,5,U.S. Senate,,,Ballots Cast,201,66,135
 Duval,5,U.S. Senate,,,Over Votes,0,0,0
-Duval,5,U.S. Senate,,,Under Votes,4,2,6
-Duval,6,U.S. Senate,,REP,Ted Cruz,9,7,90
-Duval,6,U.S. Senate,,DEM,Beto O'Rourke ,48,26,0
-Duval,6,U.S. Senate,,LIB,Neal M. Dikeman,0,0,2
-Duval,6,U.S. Senate,,,Ballots Cast,57,33,90
-Duval,6,U.S. Senate,,,Over Votes,0,0,11
-Duval,6,U.S. Senate,,,Under Votes,2,0,62
-Duval,7,U.S. Senate,,REP,Ted Cruz,35,16,51
-Duval,7,U.S. Senate,,DEM,Beto O'Rourke ,17,5,22
+Duval,5,U.S. Senate,,,Under Votes,6,2,4
+Duval,6,U.S. Senate,,REP,Ted Cruz,90,7,9
+Duval,6,U.S. Senate,,DEM,Beto O'Rourke ,0,26,48
+Duval,6,U.S. Senate,,LIB,Neal M. Dikeman,2,0,0
+Duval,6,U.S. Senate,,,Ballots Cast,90,33,57
+Duval,6,U.S. Senate,,,Over Votes,11,0,0
+Duval,6,U.S. Senate,,,Under Votes,62,0,2
+Duval,7,U.S. Senate,,REP,Ted Cruz,51,16,35
+Duval,7,U.S. Senate,,DEM,Beto O'Rourke ,22,5,17
 Duval,7,U.S. Senate,,LIB,Neal M. Dikeman,1,0,1
-Duval,7,U.S. Senate,,,Ballots Cast,53,21,74
+Duval,7,U.S. Senate,,,Ballots Cast,74,21,53
 Duval,7,U.S. Senate,,,Over Votes,0,0,0
 Duval,7,U.S. Senate,,,Under Votes,2,0,2
-Duval,8,U.S. Senate,,REP,Ted Cruz,386,155,541
-Duval,8,U.S. Senate,,DEM,Beto O'Rourke ,408,147,555
-Duval,8,U.S. Senate,,LIB,Neal M. Dikeman,5,2,7
-Duval,8,U.S. Senate,,,Ballots Cast,799,304,1103
+Duval,8,U.S. Senate,,REP,Ted Cruz,541,155,386
+Duval,8,U.S. Senate,,DEM,Beto O'Rourke ,555,147,408
+Duval,8,U.S. Senate,,LIB,Neal M. Dikeman,7,2,5
+Duval,8,U.S. Senate,,,Ballots Cast,1103,304,799
 Duval,8,U.S. Senate,,,Over Votes,1,0,1
-Duval,8,U.S. Senate,,,Under Votes,45,13,58
-Duval,9,U.S. Senate,,REP,Ted Cruz,87,57,144
-Duval,9,U.S. Senate,,DEM,Beto O'Rourke ,270,164,434
-Duval,9,U.S. Senate,,LIB,Neal M. Dikeman,1,1,2
-Duval,9,U.S. Senate,,,Ballots Cast,358,222,580
+Duval,8,U.S. Senate,,,Under Votes,58,13,45
+Duval,9,U.S. Senate,,REP,Ted Cruz,144,57,87
+Duval,9,U.S. Senate,,DEM,Beto O'Rourke ,434,164,270
+Duval,9,U.S. Senate,,LIB,Neal M. Dikeman,2,1,1
+Duval,9,U.S. Senate,,,Ballots Cast,580,222,358
 Duval,9,U.S. Senate,,,Over Votes,0,0,0
-Duval,9,U.S. Senate,,,Under Votes,23,9,32
-Duval,1,U.S. House,15,REP,Tim Westley,78,56,134
-Duval,1,U.S. House,15,DEM,Vicente Gonzalez,502,243,745
-Duval,1,U.S. House,15,LIB,Anthony Cristo,9,3,12
-Duval,1,U.S. House,15,,Ballots Cast,589,302,891
+Duval,9,U.S. Senate,,,Under Votes,32,9,23
+Duval,1,U.S. House,15,REP,Tim Westley,134,56,78
+Duval,1,U.S. House,15,DEM,Vicente Gonzalez,745,243,502
+Duval,1,U.S. House,15,LIB,Anthony Cristo,12,3,9
+Duval,1,U.S. House,15,,Ballots Cast,891,302,589
 Duval,1,U.S. House,15,,Over Votes,0,0,0
-Duval,1,U.S. House,15,,Under Votes,45,38,83
-Duval,2,U.S. House,15,REP,Tim Westley,65,31,96
-Duval,2,U.S. House,15,DEM,Vicente Gonzalez,435,161,599
-Duval,2,U.S. House,15,LIB,Anthony Cristo,4,2,6
-Duval,2,U.S. House,15,,Ballots Cast,504,197,701
+Duval,1,U.S. House,15,,Under Votes,83,38,45
+Duval,2,U.S. House,15,REP,Tim Westley,96,31,65
+Duval,2,U.S. House,15,DEM,Vicente Gonzalez,599,161,435
+Duval,2,U.S. House,15,LIB,Anthony Cristo,6,2,4
+Duval,2,U.S. House,15,,Ballots Cast,701,197,504
 Duval,2,U.S. House,15,,Over Votes,0,0,0
-Duval,2,U.S. House,15,,Under Votes,74,24,98
-Duval,3,U.S. House,15,REP,Tim Westley,26,16,42
-Duval,3,U.S. House,15,DEM,Vicente Gonzalez,135,94,229
-Duval,3,U.S. House,15,LIB,Anthony Cristo,2,1,3
-Duval,3,U.S. House,15,,Ballots Cast,163,111,274
+Duval,2,U.S. House,15,,Under Votes,98,24,74
+Duval,3,U.S. House,15,REP,Tim Westley,42,16,26
+Duval,3,U.S. House,15,DEM,Vicente Gonzalez,229,94,135
+Duval,3,U.S. House,15,LIB,Anthony Cristo,3,1,2
+Duval,3,U.S. House,15,,Ballots Cast,274,111,163
 Duval,3,U.S. House,15,,Over Votes,0,0,0
-Duval,3,U.S. House,15,,Under Votes,7,4,11
-Duval,4,U.S. House,15,REP,Tim Westley,19,9,28
-Duval,4,U.S. House,15,DEM,Vicente Gonzalez,40,23,63
+Duval,3,U.S. House,15,,Under Votes,11,4,7
+Duval,4,U.S. House,15,REP,Tim Westley,28,9,19
+Duval,4,U.S. House,15,DEM,Vicente Gonzalez,63,23,40
 Duval,4,U.S. House,15,LIB,Anthony Cristo,0,0,0
-Duval,4,U.S. House,15,,Ballots Cast,59,32,91
+Duval,4,U.S. House,15,,Ballots Cast,91,32,59
 Duval,4,U.S. House,15,,Over Votes,0,0,0
-Duval,4,U.S. House,15,,Under Votes,6,3,9
-Duval,5,U.S. House,15,REP,Tim Westley,27,13,40
-Duval,5,U.S. House,15,DEM,Vicente Gonzalez,103,51,154
-Duval,5,U.S. House,15,LIB,Anthony Cristo,0,3,3
-Duval,5,U.S. House,15,,Ballots Cast,130,67,197
+Duval,4,U.S. House,15,,Under Votes,9,3,6
+Duval,5,U.S. House,15,REP,Tim Westley,40,13,27
+Duval,5,U.S. House,15,DEM,Vicente Gonzalez,154,51,103
+Duval,5,U.S. House,15,LIB,Anthony Cristo,3,3,0
+Duval,5,U.S. House,15,,Ballots Cast,197,67,130
 Duval,5,U.S. House,15,,Over Votes,0,0,0
-Duval,5,U.S. House,15,,Under Votes,9,1,10
-Duval,6,U.S. House,15,REP,Tim Westley,7,4,11
-Duval,6,U.S. House,15,DEM,Vicente Gonzalez,38,24,62
+Duval,5,U.S. House,15,,Under Votes,10,1,9
+Duval,6,U.S. House,15,REP,Tim Westley,11,4,7
+Duval,6,U.S. House,15,DEM,Vicente Gonzalez,62,24,38
 Duval,6,U.S. House,15,LIB,Anthony Cristo,0,0,0
-Duval,6,U.S. House,15,,Ballots Cast,45,28,73
+Duval,6,U.S. House,15,,Ballots Cast,73,28,45
 Duval,6,U.S. House,15,,Over Votes,0,0,0
-Duval,6,U.S. House,15,,Under Votes,14,5,19
-Duval,7,U.S. House,15,REP,Tim Westley,30,7,37
-Duval,7,U.S. House,15,DEM,Vicente Gonzalez,20,13,33
+Duval,6,U.S. House,15,,Under Votes,19,5,14
+Duval,7,U.S. House,15,REP,Tim Westley,37,7,30
+Duval,7,U.S. House,15,DEM,Vicente Gonzalez,33,13,20
 Duval,7,U.S. House,15,LIB,Anthony Cristo,1,0,1
-Duval,7,U.S. House,15,,Ballots Cast,51,20,71
+Duval,7,U.S. House,15,,Ballots Cast,71,20,51
 Duval,7,U.S. House,15,,Over Votes,0,0,0
-Duval,7,U.S. House,15,,Under Votes,4,1,5
-Duval,8,U.S. House,15,REP,Tim Westley,247,106,353
-Duval,8,U.S. House,15,DEM,Vicente Gonzalez,491,171,662
-Duval,8,U.S. House,15,LIB,Anthony Cristo,7,8,15
-Duval,8,U.S. House,15,,Ballots Cast,745,285,1030
+Duval,7,U.S. House,15,,Under Votes,5,1,4
+Duval,8,U.S. House,15,REP,Tim Westley,353,106,247
+Duval,8,U.S. House,15,DEM,Vicente Gonzalez,662,171,491
+Duval,8,U.S. House,15,LIB,Anthony Cristo,15,8,7
+Duval,8,U.S. House,15,,Ballots Cast,1030,285,745
 Duval,8,U.S. House,15,,Over Votes,0,0,0
-Duval,8,U.S. House,15,,Under Votes,100,32,132
-Duval,9,U.S. House,15,REP,Tim Westley,41,26,67
-Duval,9,U.S. House,15,DEM,Vicente Gonzalez,302,173,475
-Duval,9,U.S. House,15,LIB,Anthony Cristo,5,5,10
-Duval,9,U.S. House,15,,Ballots Cast,348,204,552
+Duval,8,U.S. House,15,,Under Votes,132,32,100
+Duval,9,U.S. House,15,REP,Tim Westley,67,26,41
+Duval,9,U.S. House,15,DEM,Vicente Gonzalez,475,173,302
+Duval,9,U.S. House,15,LIB,Anthony Cristo,10,5,5
+Duval,9,U.S. House,15,,Ballots Cast,552,204,348
 Duval,9,U.S. House,15,,Over Votes,0,0,0
-Duval,9,U.S. House,15,,Under Votes,33,27,60
-Duval,1,Governor,,REP,Greg Abbott,177,112,289
-Duval,1,Governor,,DEM,Lupe Valdez,418,190,608
-Duval,1,Governor,,LIB,Mark Jay Tippetts,4,5,9
-Duval,1,Governor,,,Ballots Cast,599,307,906
+Duval,9,U.S. House,15,,Under Votes,60,27,33
+Duval,1,Governor,,REP,Greg Abbott,289,112,177
+Duval,1,Governor,,DEM,Lupe Valdez,608,190,418
+Duval,1,Governor,,LIB,Mark Jay Tippetts,9,5,4
+Duval,1,Governor,,,Ballots Cast,906,307,599
 Duval,1,Governor,,,Over Votes,0,0,0
-Duval,1,Governor,,,Under Votes,35,33,68
-Duval,2,Governor,,REP,Greg Abbott,131,71,202
-Duval,2,Governor,,DEM,Lupe Valdez,379,130,509
+Duval,1,Governor,,,Under Votes,68,33,35
+Duval,2,Governor,,REP,Greg Abbott,202,71,131
+Duval,2,Governor,,DEM,Lupe Valdez,509,130,379
 Duval,2,Governor,,LIB,Mark Jay Tippetts,2,0,2
-Duval,2,Governor,,,Ballots Cast,512,201,713
+Duval,2,Governor,,,Ballots Cast,713,201,512
 Duval,2,Governor,,,Over Votes,0,0,0
-Duval,2,Governor,,,Under Votes,66,20,86
-Duval,3,Governor,,REP,Greg Abbott,35,36,71
-Duval,3,Governor,,DEM,Lupe Valdez,129,74,203
+Duval,2,Governor,,,Under Votes,86,20,66
+Duval,3,Governor,,REP,Greg Abbott,71,36,35
+Duval,3,Governor,,DEM,Lupe Valdez,203,74,129
 Duval,3,Governor,,LIB,Mark Jay Tippetts,2,0,2
-Duval,3,Governor,,,Ballots Cast,166,110,276
+Duval,3,Governor,,,Ballots Cast,276,110,166
 Duval,3,Governor,,,Over Votes,1,0,1
-Duval,3,Governor,,,Under Votes,3,5,8
-Duval,4,Governor,,REP,Greg Abbott,25,18,42
-Duval,4,Governor,,DEM,Lupe Valdez,35,18,53
+Duval,3,Governor,,,Under Votes,8,5,3
+Duval,4,Governor,,REP,Greg Abbott,42,18,25
+Duval,4,Governor,,DEM,Lupe Valdez,53,18,35
 Duval,4,Governor,,LIB,Mark Jay Tippetts,0,0,0
-Duval,4,Governor,,,Ballots Cast,60,35,95
+Duval,4,Governor,,,Ballots Cast,95,35,60
 Duval,4,Governor,,,Over Votes,0,0,0
 Duval,4,Governor,,,Under Votes,5,0,5
-Duval,5,Governor,,REP,Greg Abbott,58,26,84
-Duval,5,Governor,,DEM,Lupe Valdez,75,41,116
+Duval,5,Governor,,REP,Greg Abbott,84,26,58
+Duval,5,Governor,,DEM,Lupe Valdez,116,41,75
 Duval,5,Governor,,LIB,Mark Jay Tippetts,1,0,1
-Duval,5,Governor,,,Ballots Cast,134,67,201
+Duval,5,Governor,,,Ballots Cast,201,67,134
 Duval,5,Governor,,,Over Votes,0,0,0
-Duval,5,Governor,,,Under Votes,5,1,6
-Duval,6,Governor,,REP,Greg Abbott,10,9,19
-Duval,6,Governor,,DEM,Lupe Valdez,35,18,53
+Duval,5,Governor,,,Under Votes,6,1,5
+Duval,6,Governor,,REP,Greg Abbott,19,9,10
+Duval,6,Governor,,DEM,Lupe Valdez,53,18,35
 Duval,6,Governor,,LIB,Mark Jay Tippetts,0,0,0
-Duval,6,Governor,,,Ballots Cast,45,27,72
+Duval,6,Governor,,,Ballots Cast,72,27,45
 Duval,6,Governor,,,Over Votes,0,0,0
-Duval,6,Governor,,,Under Votes,14,6,20
-Duval,7,Governor,,REP,Greg Abbott,39,16,55
-Duval,7,Governor,,DEM,Lupe Valdez,15,4,19
-Duval,7,Governor,,LIB,Mark Jay Tippetts,0,1,1
-Duval,7,Governor,,,Ballots Cast,54,21,75
+Duval,6,Governor,,,Under Votes,20,6,14
+Duval,7,Governor,,REP,Greg Abbott,55,16,39
+Duval,7,Governor,,DEM,Lupe Valdez,19,4,15
+Duval,7,Governor,,LIB,Mark Jay Tippetts,1,1,0
+Duval,7,Governor,,,Ballots Cast,75,21,54
 Duval,7,Governor,,,Over Votes,0,0,0
 Duval,7,Governor,,,Under Votes,1,0,1
-Duval,8,Governor,,REP,Greg Abbott,386,171,557
-Duval,8,Governor,,DEM,Lupe Valdez,383,123,506
-Duval,8,Governor,,LIB,Mark Jay Tippetts,1,2,3
-Duval,8,Governor,,,Ballots Cast,770,296,1066
+Duval,8,Governor,,REP,Greg Abbott,557,171,386
+Duval,8,Governor,,DEM,Lupe Valdez,506,123,383
+Duval,8,Governor,,LIB,Mark Jay Tippetts,3,2,1
+Duval,8,Governor,,,Ballots Cast,1066,296,770
 Duval,8,Governor,,,Over Votes,0,0,0
-Duval,8,Governor,,,Under Votes,75,21,96
-Duval,9,Governor,,REP,Greg Abbott,92,68,160
-Duval,9,Governor,,DEM,Lupe Valdez,249,141,390
-Duval,9,Governor,,LIB,Mark Jay Tippetts,3,1,4
-Duval,9,Governor,,,Ballots Cast,344,210,554
+Duval,8,Governor,,,Under Votes,96,21,75
+Duval,9,Governor,,REP,Greg Abbott,160,68,92
+Duval,9,Governor,,DEM,Lupe Valdez,390,141,249
+Duval,9,Governor,,LIB,Mark Jay Tippetts,4,1,3
+Duval,9,Governor,,,Ballots Cast,554,210,344
 Duval,9,Governor,,,Over Votes,0,0,0
-Duval,9,Governor,,,Under Votes,37,21,58
-Duval,1,Lieutenant Governor,,REP,Dan Patrick,122,67,189
-Duval,1,Lieutenant Governor,,DEM,Mike Collier,457,224,681
-Duval,1,Lieutenant Governor,,LIB,Kerry Douglas McKennon,5,5,10
-Duval,1,Lieutenant Governor,,,Ballots Cast,584,296,880
+Duval,9,Governor,,,Under Votes,58,21,37
+Duval,1,Lieutenant Governor,,REP,Dan Patrick,189,67,122
+Duval,1,Lieutenant Governor,,DEM,Mike Collier,681,224,457
+Duval,1,Lieutenant Governor,,LIB,Kerry Douglas McKennon,10,5,5
+Duval,1,Lieutenant Governor,,,Ballots Cast,880,296,584
 Duval,1,Lieutenant Governor,,,Over Votes,0,0,0
-Duval,1,Lieutenant Governor,,,Under Votes,50,44,94
-Duval,2,Lieutenant Governor,,REP,Dan Patrick,89,45,134
-Duval,2,Lieutenant Governor,,DEM,Mike Collier,394,143,537
+Duval,1,Lieutenant Governor,,,Under Votes,94,44,50
+Duval,2,Lieutenant Governor,,REP,Dan Patrick,134,45,89
+Duval,2,Lieutenant Governor,,DEM,Mike Collier,537,143,394
 Duval,2,Lieutenant Governor,,LIB,Kerry Douglas McKennon,5,0,5
-Duval,2,Lieutenant Governor,,,Ballots Cast,488,188,676
+Duval,2,Lieutenant Governor,,,Ballots Cast,676,188,488
 Duval,2,Lieutenant Governor,,,Over Votes,0,0,0
-Duval,2,Lieutenant Governor,,,Under Votes,90,33,123
-Duval,3,Lieutenant Governor,,REP,Dan Patrick,28,25,53
-Duval,3,Lieutenant Governor,,DEM,Mike Collier,134,85,219
+Duval,2,Lieutenant Governor,,,Under Votes,123,33,90
+Duval,3,Lieutenant Governor,,REP,Dan Patrick,53,25,28
+Duval,3,Lieutenant Governor,,DEM,Mike Collier,219,85,134
 Duval,3,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,0,1
-Duval,3,Lieutenant Governor,,,Ballots Cast,163,110,273
+Duval,3,Lieutenant Governor,,,Ballots Cast,273,110,163
 Duval,3,Lieutenant Governor,,,Over Votes,0,0,0
-Duval,3,Lieutenant Governor,,,Under Votes,7,5,12
-Duval,4,Lieutenant Governor,,REP,Dan Patrick,19,13,32
-Duval,4,Lieutenant Governor,,DEM,Mike Collier,35,18,53
+Duval,3,Lieutenant Governor,,,Under Votes,12,5,7
+Duval,4,Lieutenant Governor,,REP,Dan Patrick,32,13,19
+Duval,4,Lieutenant Governor,,DEM,Mike Collier,53,18,35
 Duval,4,Lieutenant Governor,,LIB,Kerry Douglas McKennon,0,0,0
-Duval,4,Lieutenant Governor,,,Ballots Cast,54,31,85
+Duval,4,Lieutenant Governor,,,Ballots Cast,85,31,54
 Duval,4,Lieutenant Governor,,,Over Votes,0,0,0
-Duval,4,Lieutenant Governor,,,Under Votes,11,4,15
-Duval,5,Lieutenant Governor,,REP,Dan Patrick,39,17,56
-Duval,5,Lieutenant Governor,,DEM,Mike Collier,88,46,134
-Duval,5,Lieutenant Governor,,LIB,Kerry Douglas McKennon,3,3,6
-Duval,5,Lieutenant Governor,,,Ballots Cast,130,66,196
+Duval,4,Lieutenant Governor,,,Under Votes,15,4,11
+Duval,5,Lieutenant Governor,,REP,Dan Patrick,56,17,39
+Duval,5,Lieutenant Governor,,DEM,Mike Collier,134,46,88
+Duval,5,Lieutenant Governor,,LIB,Kerry Douglas McKennon,6,3,3
+Duval,5,Lieutenant Governor,,,Ballots Cast,196,66,130
 Duval,5,Lieutenant Governor,,,Over Votes,0,0,0
-Duval,5,Lieutenant Governor,,,Under Votes,9,2,11
-Duval,6,Lieutenant Governor,,REP,Dan Patrick,8,6,14
-Duval,6,Lieutenant Governor,,DEM,Mike Collier,36,21,57
+Duval,5,Lieutenant Governor,,,Under Votes,11,2,9
+Duval,6,Lieutenant Governor,,REP,Dan Patrick,14,6,8
+Duval,6,Lieutenant Governor,,DEM,Mike Collier,57,21,36
 Duval,6,Lieutenant Governor,,LIB,Kerry Douglas McKennon,0,0,0
-Duval,6,Lieutenant Governor,,,Ballots Cast,44,27,71
+Duval,6,Lieutenant Governor,,,Ballots Cast,71,27,44
 Duval,6,Lieutenant Governor,,,Over Votes,0,0,0
-Duval,6,Lieutenant Governor,,,Under Votes,15,6,21
-Duval,7,Lieutenant Governor,,REP,Dan Patrick,38,14,52
-Duval,7,Lieutenant Governor,,DEM,Mike Collier,13,5,18
-Duval,7,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,1,2
-Duval,7,Lieutenant Governor,,,Ballots Cast,52,20,72
+Duval,6,Lieutenant Governor,,,Under Votes,21,6,15
+Duval,7,Lieutenant Governor,,REP,Dan Patrick,52,14,38
+Duval,7,Lieutenant Governor,,DEM,Mike Collier,18,5,13
+Duval,7,Lieutenant Governor,,LIB,Kerry Douglas McKennon,2,1,1
+Duval,7,Lieutenant Governor,,,Ballots Cast,72,20,52
 Duval,7,Lieutenant Governor,,,Over Votes,0,0,0
-Duval,7,Lieutenant Governor,,,Under Votes,3,1,4
-Duval,8,Lieutenant Governor,,REP,Dan Patrick,306,131,437
-Duval,8,Lieutenant Governor,,DEM,Mike Collier,414,143,557
-Duval,8,Lieutenant Governor,,LIB,Kerry Douglas McKennon,12,3,15
-Duval,8,Lieutenant Governor,,,Ballots Cast,732,277,1009
+Duval,7,Lieutenant Governor,,,Under Votes,4,1,3
+Duval,8,Lieutenant Governor,,REP,Dan Patrick,437,131,306
+Duval,8,Lieutenant Governor,,DEM,Mike Collier,557,143,414
+Duval,8,Lieutenant Governor,,LIB,Kerry Douglas McKennon,15,3,12
+Duval,8,Lieutenant Governor,,,Ballots Cast,1009,277,732
 Duval,8,Lieutenant Governor,,,Over Votes,0,0,0
-Duval,8,Lieutenant Governor,,,Under Votes,113,40,153
-Duval,9,Lieutenant Governor,,REP,Dan Patrick,65,43,108
-Duval,9,Lieutenant Governor,,DEM,Mike Collier,271,159,430
-Duval,9,Lieutenant Governor,,LIB,Kerry Douglas McKennon,5,5,10
-Duval,9,Lieutenant Governor,,,Ballots Cast,341,207,548
+Duval,8,Lieutenant Governor,,,Under Votes,153,40,113
+Duval,9,Lieutenant Governor,,REP,Dan Patrick,108,43,65
+Duval,9,Lieutenant Governor,,DEM,Mike Collier,430,159,271
+Duval,9,Lieutenant Governor,,LIB,Kerry Douglas McKennon,10,5,5
+Duval,9,Lieutenant Governor,,,Ballots Cast,548,207,341
 Duval,9,Lieutenant Governor,,,Over Votes,0,0,0
-Duval,9,Lieutenant Governor,,,Under Votes,40,24,64
-Duval,1,Attorney General,,REP,Ken Paxton,118,72,190
-Duval,1,Attorney General,,DEM,Justin Nelson,451,220,671
-Duval,1,Attorney General,,LIB,Michael Ray Harris,13,4,17
-Duval,1,Attorney General,,,Ballots Cast,582,296,878
+Duval,9,Lieutenant Governor,,,Under Votes,64,24,40
+Duval,1,Attorney General,,REP,Ken Paxton,190,72,118
+Duval,1,Attorney General,,DEM,Justin Nelson,671,220,451
+Duval,1,Attorney General,,LIB,Michael Ray Harris,17,4,13
+Duval,1,Attorney General,,,Ballots Cast,878,296,582
 Duval,1,Attorney General,,,Over Votes,0,0,0
-Duval,1,Attorney General,,,Under Votes,52,44,96
-Duval,2,Attorney General,,REP,Ken Paxton,88,44,132
-Duval,2,Attorney General,,DEM,Justin Nelson,394,142,536
-Duval,2,Attorney General,,LIB,Michael Ray Harris,4,2,6
-Duval,2,Attorney General,,,Ballots Cast,486,188,674
+Duval,1,Attorney General,,,Under Votes,96,44,52
+Duval,2,Attorney General,,REP,Ken Paxton,132,44,88
+Duval,2,Attorney General,,DEM,Justin Nelson,536,142,394
+Duval,2,Attorney General,,LIB,Michael Ray Harris,6,2,4
+Duval,2,Attorney General,,,Ballots Cast,674,188,486
 Duval,2,Attorney General,,,Over Votes,0,0,0
-Duval,2,Attorney General,,,Under Votes,92,33,125
-Duval,3,Attorney General,,REP,Ken Paxton,30,24,54
-Duval,3,Attorney General,,DEM,Justin Nelson,133,84,217
-Duval,3,Attorney General,,LIB,Michael Ray Harris,1,2,3
-Duval,3,Attorney General,,,Ballots Cast,164,110,270
+Duval,2,Attorney General,,,Under Votes,125,33,92
+Duval,3,Attorney General,,REP,Ken Paxton,54,24,30
+Duval,3,Attorney General,,DEM,Justin Nelson,217,84,133
+Duval,3,Attorney General,,LIB,Michael Ray Harris,3,2,1
+Duval,3,Attorney General,,,Ballots Cast,270,110,164
 Duval,3,Attorney General,,,Over Votes,0,0,0
-Duval,3,Attorney General,,,Under Votes,6,5,11
-Duval,4,Attorney General,,REP,Ken Paxton,18,13,31
-Duval,4,Attorney General,,DEM,Justin Nelson,34,19,53
+Duval,3,Attorney General,,,Under Votes,11,5,6
+Duval,4,Attorney General,,REP,Ken Paxton,31,13,18
+Duval,4,Attorney General,,DEM,Justin Nelson,53,19,34
 Duval,4,Attorney General,,LIB,Michael Ray Harris,2,0,2
-Duval,4,Attorney General,,,Ballots Cast,54,32,86
+Duval,4,Attorney General,,,Ballots Cast,86,32,54
 Duval,4,Attorney General,,,Over Votes,0,0,0
-Duval,4,Attorney General,,,Under Votes,11,3,14
-Duval,5,Attorney General,,REP,Ken Paxton,36,20,56
-Duval,5,Attorney General,,DEM,Justin Nelson,91,43,134
-Duval,5,Attorney General,,LIB,Michael Ray Harris,4,2,6
-Duval,5,Attorney General,,,Ballots Cast,131,65,196
+Duval,4,Attorney General,,,Under Votes,14,3,11
+Duval,5,Attorney General,,REP,Ken Paxton,56,20,36
+Duval,5,Attorney General,,DEM,Justin Nelson,134,43,91
+Duval,5,Attorney General,,LIB,Michael Ray Harris,6,2,4
+Duval,5,Attorney General,,,Ballots Cast,196,65,131
 Duval,5,Attorney General,,,Over Votes,0,0,0
-Duval,5,Attorney General,,,Under Votes,8,3,11
-Duval,6,Attorney General,,REP,Ken Paxton,8,6,14
-Duval,6,Attorney General,,DEM,Justin Nelson,36,21,57
+Duval,5,Attorney General,,,Under Votes,11,3,8
+Duval,6,Attorney General,,REP,Ken Paxton,14,6,8
+Duval,6,Attorney General,,DEM,Justin Nelson,57,21,36
 Duval,6,Attorney General,,LIB,Michael Ray Harris,0,0,0
-Duval,6,Attorney General,,,Ballots Cast,44,27,71
+Duval,6,Attorney General,,,Ballots Cast,71,27,44
 Duval,6,Attorney General,,,Over Votes,0,0,0
-Duval,6,Attorney General,,,Under Votes,15,6,21
-Duval,7,Attorney General,,REP,Ken Paxton,33,11,44
-Duval,7,Attorney General,,DEM,Justin Nelson,15,9,24
+Duval,6,Attorney General,,,Under Votes,21,6,15
+Duval,7,Attorney General,,REP,Ken Paxton,44,11,33
+Duval,7,Attorney General,,DEM,Justin Nelson,24,9,15
 Duval,7,Attorney General,,LIB,Michael Ray Harris,3,0,3
-Duval,7,Attorney General,,,Ballots Cast,51,20,71
+Duval,7,Attorney General,,,Ballots Cast,71,20,51
 Duval,7,Attorney General,,,Over Votes,0,0,0
-Duval,7,Attorney General,,,Under Votes,4,1,5
-Duval,8,Attorney General,,REP,Ken Paxton,299,122,421
-Duval,8,Attorney General,,DEM,Justin Nelson,416,151,567
-Duval,8,Attorney General,,LIB,Michael Ray Harris,20,4,24
-Duval,8,Attorney General,,,Ballots Cast,735,277,1012
+Duval,7,Attorney General,,,Under Votes,5,1,4
+Duval,8,Attorney General,,REP,Ken Paxton,421,122,299
+Duval,8,Attorney General,,DEM,Justin Nelson,567,151,416
+Duval,8,Attorney General,,LIB,Michael Ray Harris,24,4,20
+Duval,8,Attorney General,,,Ballots Cast,1012,277,735
 Duval,8,Attorney General,,,Over Votes,0,0,0
-Duval,8,Attorney General,,,Under Votes,110,40,150
-Duval,9,Attorney General,,REP,Ken Paxton,60,39,99
-Duval,9,Attorney General,,DEM,Justin Nelson,275,155,430
-Duval,9,Attorney General,,LIB,Michael Ray Harris,9,9,18
-Duval,9,Attorney General,,,Ballots Cast,344,203,547
+Duval,8,Attorney General,,,Under Votes,150,40,110
+Duval,9,Attorney General,,REP,Ken Paxton,99,39,60
+Duval,9,Attorney General,,DEM,Justin Nelson,430,155,275
+Duval,9,Attorney General,,LIB,Michael Ray Harris,18,9,9
+Duval,9,Attorney General,,,Ballots Cast,547,203,344
 Duval,9,Attorney General,,,Over Votes,0,0,0
-Duval,9,Attorney General,,,Under Votes,37,28,65
-Duval,1,Comptroller of Public Accounts,,REP,Glenn Hegar,107,63,170
-Duval,1,Comptroller of Public Accounts,,DEM,Joi Chevalier,448,215,663
-Duval,1,Comptroller of Public Accounts,,LIB,Ben Sanders,20,18,38
-Duval,1,Comptroller of Public Accounts,,,Ballots Cast,575,296,871
+Duval,9,Attorney General,,,Under Votes,65,28,37
+Duval,1,Comptroller of Public Accounts,,REP,Glenn Hegar,170,63,107
+Duval,1,Comptroller of Public Accounts,,DEM,Joi Chevalier,663,215,448
+Duval,1,Comptroller of Public Accounts,,LIB,Ben Sanders,38,18,20
+Duval,1,Comptroller of Public Accounts,,,Ballots Cast,871,296,575
 Duval,1,Comptroller of Public Accounts,,,Over Votes,0,0,0
-Duval,1,Comptroller of Public Accounts,,,Under Votes,59,44,103
-Duval,2,Comptroller of Public Accounts,,REP,Glenn Hegar,81,35,116
-Duval,2,Comptroller of Public Accounts,,DEM,Joi Chevalier,394,143,537
-Duval,2,Comptroller of Public Accounts,,LIB,Ben Sanders,11,8,19
-Duval,2,Comptroller of Public Accounts,,,Ballots Cast,486,186,672
+Duval,1,Comptroller of Public Accounts,,,Under Votes,103,44,59
+Duval,2,Comptroller of Public Accounts,,REP,Glenn Hegar,116,35,81
+Duval,2,Comptroller of Public Accounts,,DEM,Joi Chevalier,537,143,394
+Duval,2,Comptroller of Public Accounts,,LIB,Ben Sanders,19,8,11
+Duval,2,Comptroller of Public Accounts,,,Ballots Cast,672,186,486
 Duval,2,Comptroller of Public Accounts,,,Over Votes,0,0,0
-Duval,2,Comptroller of Public Accounts,,,Under Votes,92,35,127
-Duval,3,Comptroller of Public Accounts,,REP,Glenn Hegar,28,25,53
-Duval,3,Comptroller of Public Accounts,,DEM,Joi Chevalier,130,85,215
+Duval,2,Comptroller of Public Accounts,,,Under Votes,127,35,92
+Duval,3,Comptroller of Public Accounts,,REP,Glenn Hegar,53,25,28
+Duval,3,Comptroller of Public Accounts,,DEM,Joi Chevalier,215,85,130
 Duval,3,Comptroller of Public Accounts,,LIB,Ben Sanders,2,0,2
-Duval,3,Comptroller of Public Accounts,,,Ballots Cast,160,110,270
+Duval,3,Comptroller of Public Accounts,,,Ballots Cast,270,110,160
 Duval,3,Comptroller of Public Accounts,,,Over Votes,0,0,0
-Duval,3,Comptroller of Public Accounts,,,Under Votes,10,5,15
-Duval,4,Comptroller of Public Accounts,,REP,Glenn Hegar,19,12,31
-Duval,4,Comptroller of Public Accounts,,DEM,Joi Chevalier,35,18,53
+Duval,3,Comptroller of Public Accounts,,,Under Votes,15,5,10
+Duval,4,Comptroller of Public Accounts,,REP,Glenn Hegar,31,12,19
+Duval,4,Comptroller of Public Accounts,,DEM,Joi Chevalier,53,18,35
 Duval,4,Comptroller of Public Accounts,,LIB,Ben Sanders,0,0,0
-Duval,4,Comptroller of Public Accounts,,,Ballots Cast,54,30,84
+Duval,4,Comptroller of Public Accounts,,,Ballots Cast,84,30,54
 Duval,4,Comptroller of Public Accounts,,,Over Votes,0,0,0
-Duval,4,Comptroller of Public Accounts,,,Under Votes,11,5,16
-Duval,5,Comptroller of Public Accounts,,REP,Glenn Hegar,33,16,49
-Duval,5,Comptroller of Public Accounts,,DEM,Joi Chevalier,89,46,135
-Duval,5,Comptroller of Public Accounts,,LIB,Ben Sanders,9,3,12
-Duval,5,Comptroller of Public Accounts,,,Ballots Cast,131,65,196
+Duval,4,Comptroller of Public Accounts,,,Under Votes,16,5,11
+Duval,5,Comptroller of Public Accounts,,REP,Glenn Hegar,49,16,33
+Duval,5,Comptroller of Public Accounts,,DEM,Joi Chevalier,135,46,89
+Duval,5,Comptroller of Public Accounts,,LIB,Ben Sanders,12,3,9
+Duval,5,Comptroller of Public Accounts,,,Ballots Cast,196,65,131
 Duval,5,Comptroller of Public Accounts,,,Over Votes,0,0,0
-Duval,5,Comptroller of Public Accounts,,,Under Votes,8,3,11
-Duval,6,Comptroller of Public Accounts,,REP,Glenn Hegar,8,6,14
-Duval,6,Comptroller of Public Accounts,,DEM,Joi Chevalier,35,20,55
-Duval,6,Comptroller of Public Accounts,,LIB,Ben Sanders,1,1,2
-Duval,6,Comptroller of Public Accounts,,,Ballots Cast,44,27,71
+Duval,5,Comptroller of Public Accounts,,,Under Votes,11,3,8
+Duval,6,Comptroller of Public Accounts,,REP,Glenn Hegar,14,6,8
+Duval,6,Comptroller of Public Accounts,,DEM,Joi Chevalier,55,20,35
+Duval,6,Comptroller of Public Accounts,,LIB,Ben Sanders,2,1,1
+Duval,6,Comptroller of Public Accounts,,,Ballots Cast,71,27,44
 Duval,6,Comptroller of Public Accounts,,,Over Votes,0,0,0
-Duval,6,Comptroller of Public Accounts,,,Under Votes,15,6,21
-Duval,7,Comptroller of Public Accounts,,REP,Glenn Hegar,35,11,46
-Duval,7,Comptroller of Public Accounts,,DEM,Joi Chevalier,14,8,22
+Duval,6,Comptroller of Public Accounts,,,Under Votes,21,6,15
+Duval,7,Comptroller of Public Accounts,,REP,Glenn Hegar,46,11,35
+Duval,7,Comptroller of Public Accounts,,DEM,Joi Chevalier,22,8,14
 Duval,7,Comptroller of Public Accounts,,LIB,Ben Sanders,2,0,2
-Duval,7,Comptroller of Public Accounts,,,Ballots Cast,51,19,70
+Duval,7,Comptroller of Public Accounts,,,Ballots Cast,70,19,51
 Duval,7,Comptroller of Public Accounts,,,Over Votes,0,0,0
-Duval,7,Comptroller of Public Accounts,,,Under Votes,4,2,6
-Duval,8,Comptroller of Public Accounts,,REP,Glenn Hegar,285,117,402
-Duval,8,Comptroller of Public Accounts,,DEM,Joi Chevalier,401,148,549
-Duval,8,Comptroller of Public Accounts,,LIB,Ben Sanders,37,9,46
-Duval,8,Comptroller of Public Accounts,,,Ballots Cast,723,274,997
+Duval,7,Comptroller of Public Accounts,,,Under Votes,6,2,4
+Duval,8,Comptroller of Public Accounts,,REP,Glenn Hegar,402,117,285
+Duval,8,Comptroller of Public Accounts,,DEM,Joi Chevalier,549,148,401
+Duval,8,Comptroller of Public Accounts,,LIB,Ben Sanders,46,9,37
+Duval,8,Comptroller of Public Accounts,,,Ballots Cast,997,274,723
 Duval,8,Comptroller of Public Accounts,,,Over Votes,0,0,0
-Duval,8,Comptroller of Public Accounts,,,Under Votes,122,43,165
-Duval,9,Comptroller of Public Accounts,,REP,Glenn Hegar,55,38,93
-Duval,9,Comptroller of Public Accounts,,DEM,Joi Chevalier,261,149,410
-Duval,9,Comptroller of Public Accounts,,LIB,Ben Sanders,22,15,37
-Duval,9,Comptroller of Public Accounts,,,Ballots Cast,338,202,540
-Duval,9,Comptroller of Public Accounts,,,Over Votes,0,1,1
-Duval,9,Comptroller of Public Accounts,,,Under Votes,43,28,71
-Duval,1,Commissioner of the General Land Office,,REP,George P. Bush,144,74,218
-Duval,1,Commissioner of the General Land Office,,DEM,Miguel Suazo,426,215,641
-Duval,1,Commissioner of the General Land Office,,LIB,Matt Pina,10,9,19
-Duval,1,Commissioner of the General Land Office,,,Ballots Cast,580,298,878
+Duval,8,Comptroller of Public Accounts,,,Under Votes,165,43,122
+Duval,9,Comptroller of Public Accounts,,REP,Glenn Hegar,93,38,55
+Duval,9,Comptroller of Public Accounts,,DEM,Joi Chevalier,410,149,261
+Duval,9,Comptroller of Public Accounts,,LIB,Ben Sanders,37,15,22
+Duval,9,Comptroller of Public Accounts,,,Ballots Cast,540,202,338
+Duval,9,Comptroller of Public Accounts,,,Over Votes,1,1,0
+Duval,9,Comptroller of Public Accounts,,,Under Votes,71,28,43
+Duval,1,Commissioner of the General Land Office,,REP,George P. Bush,218,74,144
+Duval,1,Commissioner of the General Land Office,,DEM,Miguel Suazo,641,215,426
+Duval,1,Commissioner of the General Land Office,,LIB,Matt Pina,19,9,10
+Duval,1,Commissioner of the General Land Office,,,Ballots Cast,878,298,580
 Duval,1,Commissioner of the General Land Office,,,Over Votes,0,0,0
-Duval,1,Commissioner of the General Land Office,,,Under Votes,54,42,96
-Duval,2,Commissioner of the General Land Office,,REP,George P. Bush,92,51,143
-Duval,2,Commissioner of the General Land Office,,DEM,Miguel Suazo,392,136,528
-Duval,2,Commissioner of the General Land Office,,LIB,Matt Pina,9,2,11
-Duval,2,Commissioner of the General Land Office,,,Ballots Cast,493,189,682
+Duval,1,Commissioner of the General Land Office,,,Under Votes,96,42,54
+Duval,2,Commissioner of the General Land Office,,REP,George P. Bush,143,51,92
+Duval,2,Commissioner of the General Land Office,,DEM,Miguel Suazo,528,136,392
+Duval,2,Commissioner of the General Land Office,,LIB,Matt Pina,11,2,9
+Duval,2,Commissioner of the General Land Office,,,Ballots Cast,682,189,493
 Duval,2,Commissioner of the General Land Office,,,Over Votes,0,0,0
-Duval,2,Commissioner of the General Land Office,,,Under Votes,85,32,117
-Duval,3,Commissioner of the General Land Office,,REP,George P. Bush,31,22,53
-Duval,3,Commissioner of the General Land Office,,DEM,Miguel Suazo,128,86,214
-Duval,3,Commissioner of the General Land Office,,LIB,Matt Pina,3,3,6
-Duval,3,Commissioner of the General Land Office,,,Ballots Cast,162,111,273
+Duval,2,Commissioner of the General Land Office,,,Under Votes,117,32,85
+Duval,3,Commissioner of the General Land Office,,REP,George P. Bush,53,22,31
+Duval,3,Commissioner of the General Land Office,,DEM,Miguel Suazo,214,86,128
+Duval,3,Commissioner of the General Land Office,,LIB,Matt Pina,6,3,3
+Duval,3,Commissioner of the General Land Office,,,Ballots Cast,273,111,162
 Duval,3,Commissioner of the General Land Office,,,Over Votes,0,0,0
-Duval,3,Commissioner of the General Land Office,,,Under Votes,8,4,12
-Duval,4,Commissioner of the General Land Office,,REP,George P. Bush,18,15,33
-Duval,4,Commissioner of the General Land Office,,DEM,Miguel Suazo,36,17,53
+Duval,3,Commissioner of the General Land Office,,,Under Votes,12,4,8
+Duval,4,Commissioner of the General Land Office,,REP,George P. Bush,33,15,18
+Duval,4,Commissioner of the General Land Office,,DEM,Miguel Suazo,53,17,36
 Duval,4,Commissioner of the General Land Office,,LIB,Matt Pina,2,0,2
-Duval,4,Commissioner of the General Land Office,,,Ballots Cast,56,32,88
+Duval,4,Commissioner of the General Land Office,,,Ballots Cast,88,32,56
 Duval,4,Commissioner of the General Land Office,,,Over Votes,0,0,0
-Duval,4,Commissioner of the General Land Office,,,Under Votes,9,3,12
-Duval,5,Commissioner of the General Land Office,,REP,George P. Bush,31,20,51
-Duval,5,Commissioner of the General Land Office,,DEM,Miguel Suazo,91,44,135
-Duval,5,Commissioner of the General Land Office,,LIB,Matt Pina,8,3,11
-Duval,5,Commissioner of the General Land Office,,,Ballots Cast,130,67,197
+Duval,4,Commissioner of the General Land Office,,,Under Votes,12,3,9
+Duval,5,Commissioner of the General Land Office,,REP,George P. Bush,51,20,31
+Duval,5,Commissioner of the General Land Office,,DEM,Miguel Suazo,135,44,91
+Duval,5,Commissioner of the General Land Office,,LIB,Matt Pina,11,3,8
+Duval,5,Commissioner of the General Land Office,,,Ballots Cast,197,67,130
 Duval,5,Commissioner of the General Land Office,,,Over Votes,1,0,1
-Duval,5,Commissioner of the General Land Office,,,Under Votes,8,1,9
-Duval,6,Commissioner of the General Land Office,,REP,George P. Bush,9,6,15
-Duval,6,Commissioner of the General Land Office,,DEM,Miguel Suazo,33,20,53
-Duval,6,Commissioner of the General Land Office,,LIB,Matt Pina,2,1,3
-Duval,6,Commissioner of the General Land Office,,,Ballots Cast,44,27,71
+Duval,5,Commissioner of the General Land Office,,,Under Votes,9,1,8
+Duval,6,Commissioner of the General Land Office,,REP,George P. Bush,15,6,9
+Duval,6,Commissioner of the General Land Office,,DEM,Miguel Suazo,53,20,33
+Duval,6,Commissioner of the General Land Office,,LIB,Matt Pina,3,1,2
+Duval,6,Commissioner of the General Land Office,,,Ballots Cast,71,27,44
 Duval,6,Commissioner of the General Land Office,,,Over Votes,0,0,0
-Duval,6,Commissioner of the General Land Office,,,Under Votes,15,6,21
-Duval,7,Commissioner of the General Land Office,,REP,George P. Bush,32,13,45
-Duval,7,Commissioner of the General Land Office,,DEM,Miguel Suazo,16,6,22
-Duval,7,Commissioner of the General Land Office,,LIB,Matt Pina,3,1,4
-Duval,7,Commissioner of the General Land Office,,,Ballots Cast,51,20,71
+Duval,6,Commissioner of the General Land Office,,,Under Votes,21,6,15
+Duval,7,Commissioner of the General Land Office,,REP,George P. Bush,45,13,32
+Duval,7,Commissioner of the General Land Office,,DEM,Miguel Suazo,22,6,16
+Duval,7,Commissioner of the General Land Office,,LIB,Matt Pina,4,1,3
+Duval,7,Commissioner of the General Land Office,,,Ballots Cast,71,20,51
 Duval,7,Commissioner of the General Land Office,,,Over Votes,0,0,0
-Duval,7,Commissioner of the General Land Office,,,Under Votes,4,1,5
-Duval,8,Commissioner of the General Land Office,,REP,George P. Bush,307,135,442
-Duval,8,Commissioner of the General Land Office,,DEM,Miguel Suazo,409,139,548
-Duval,8,Commissioner of the General Land Office,,LIB,Matt Pina,23,9,32
-Duval,8,Commissioner of the General Land Office,,,Ballots Cast,739,283,1022
+Duval,7,Commissioner of the General Land Office,,,Under Votes,5,1,4
+Duval,8,Commissioner of the General Land Office,,REP,George P. Bush,442,135,307
+Duval,8,Commissioner of the General Land Office,,DEM,Miguel Suazo,548,139,409
+Duval,8,Commissioner of the General Land Office,,LIB,Matt Pina,32,9,23
+Duval,8,Commissioner of the General Land Office,,,Ballots Cast,1022,283,739
 Duval,8,Commissioner of the General Land Office,,,Over Votes,0,0,0
-Duval,8,Commissioner of the General Land Office,,,Under Votes,106,34,140
-Duval,9,Commissioner of the General Land Office,,REP,George P. Bush,76,48,124
-Duval,9,Commissioner of the General Land Office,,DEM,Miguel Suazo,261,155,416
-Duval,9,Commissioner of the General Land Office,,LIB,Matt Pina,10,9,19
-Duval,9,Commissioner of the General Land Office,,,Ballots Cast,347,212,559
+Duval,8,Commissioner of the General Land Office,,,Under Votes,140,34,106
+Duval,9,Commissioner of the General Land Office,,REP,George P. Bush,124,48,76
+Duval,9,Commissioner of the General Land Office,,DEM,Miguel Suazo,416,155,261
+Duval,9,Commissioner of the General Land Office,,LIB,Matt Pina,19,9,10
+Duval,9,Commissioner of the General Land Office,,,Ballots Cast,559,212,347
 Duval,9,Commissioner of the General Land Office,,,Over Votes,0,0,0
-Duval,9,Commissioner of the General Land Office,,,Under Votes,34,19,53
-Duval,1,Commissioner of Agriculture,,REP,Sid Miller,99,63,162
-Duval,1,Commissioner of Agriculture,,DEM,Kim Olson,459,225,684
-Duval,1,Commissioner of Agriculture,,LIB,Richard Carpenter,18,9,27
-Duval,1,Commissioner of Agriculture,,,Ballots Cast,576,297,873
+Duval,9,Commissioner of the General Land Office,,,Under Votes,53,19,34
+Duval,1,Commissioner of Agriculture,,REP,Sid Miller,162,63,99
+Duval,1,Commissioner of Agriculture,,DEM,Kim Olson,684,225,459
+Duval,1,Commissioner of Agriculture,,LIB,Richard Carpenter,27,9,18
+Duval,1,Commissioner of Agriculture,,,Ballots Cast,873,297,576
 Duval,1,Commissioner of Agriculture,,,Over Votes,0,0,0
-Duval,1,Commissioner of Agriculture,,,Under Votes,58,43,101
-Duval,2,Commissioner of Agriculture,,REP,Sid Miller,80,37,117
-Duval,2,Commissioner of Agriculture,,DEM,Kim Olson,391,147,538
-Duval,2,Commissioner of Agriculture,,LIB,Richard Carpenter,9,3,12
-Duval,2,Commissioner of Agriculture,,,Ballots Cast,480,187,667
+Duval,1,Commissioner of Agriculture,,,Under Votes,101,43,58
+Duval,2,Commissioner of Agriculture,,REP,Sid Miller,117,37,80
+Duval,2,Commissioner of Agriculture,,DEM,Kim Olson,538,147,391
+Duval,2,Commissioner of Agriculture,,LIB,Richard Carpenter,12,3,9
+Duval,2,Commissioner of Agriculture,,,Ballots Cast,667,187,480
 Duval,2,Commissioner of Agriculture,,,Over Votes,0,0,0
-Duval,2,Commissioner of Agriculture,,,Under Votes,98,34,132
-Duval,3,Commissioner of Agriculture,,REP,Sid Miller,26,24,50
-Duval,3,Commissioner of Agriculture,,DEM,Kim Olson,135,85,220
+Duval,2,Commissioner of Agriculture,,,Under Votes,132,34,98
+Duval,3,Commissioner of Agriculture,,REP,Sid Miller,50,24,26
+Duval,3,Commissioner of Agriculture,,DEM,Kim Olson,220,85,135
 Duval,3,Commissioner of Agriculture,,LIB,Richard Carpenter,0,0,0
-Duval,3,Commissioner of Agriculture,,,Ballots Cast,161,109,270
+Duval,3,Commissioner of Agriculture,,,Ballots Cast,270,109,161
 Duval,3,Commissioner of Agriculture,,,Over Votes,0,0,0
-Duval,3,Commissioner of Agriculture,,,Under Votes,9,6,15
-Duval,4,Commissioner of Agriculture,,REP,Sid Miller,21,13,34
-Duval,4,Commissioner of Agriculture,,DEM,Kim Olson,33,20,53
+Duval,3,Commissioner of Agriculture,,,Under Votes,15,6,9
+Duval,4,Commissioner of Agriculture,,REP,Sid Miller,34,13,21
+Duval,4,Commissioner of Agriculture,,DEM,Kim Olson,53,20,33
 Duval,4,Commissioner of Agriculture,,LIB,Richard Carpenter,1,0,1
-Duval,4,Commissioner of Agriculture,,,Ballots Cast,55,33,88
+Duval,4,Commissioner of Agriculture,,,Ballots Cast,88,33,55
 Duval,4,Commissioner of Agriculture,,,Over Votes,0,0,0
-Duval,4,Commissioner of Agriculture,,,Under Votes,10,2,12
-Duval,5,Commissioner of Agriculture,,REP,Sid Miller,30,13,43
-Duval,5,Commissioner of Agriculture,,DEM,Kim Olson,95,49,144
-Duval,5,Commissioner of Agriculture,,LIB,Richard Carpenter,5,3,8
-Duval,5,Commissioner of Agriculture,,,Ballots Cast,130,65,195
+Duval,4,Commissioner of Agriculture,,,Under Votes,12,2,10
+Duval,5,Commissioner of Agriculture,,REP,Sid Miller,43,13,30
+Duval,5,Commissioner of Agriculture,,DEM,Kim Olson,144,49,95
+Duval,5,Commissioner of Agriculture,,LIB,Richard Carpenter,8,3,5
+Duval,5,Commissioner of Agriculture,,,Ballots Cast,195,65,130
 Duval,5,Commissioner of Agriculture,,,Over Votes,0,0,0
-Duval,5,Commissioner of Agriculture,,,Under Votes,9,3,12
-Duval,6,Commissioner of Agriculture,,REP,Sid Miller,8,5,13
-Duval,6,Commissioner of Agriculture,,DEM,Kim Olson,36,21,57
-Duval,6,Commissioner of Agriculture,,LIB,Richard Carpenter,0,1,1
-Duval,6,Commissioner of Agriculture,,,Ballots Cast,44,27,71
+Duval,5,Commissioner of Agriculture,,,Under Votes,12,3,9
+Duval,6,Commissioner of Agriculture,,REP,Sid Miller,13,5,8
+Duval,6,Commissioner of Agriculture,,DEM,Kim Olson,57,21,36
+Duval,6,Commissioner of Agriculture,,LIB,Richard Carpenter,1,1,0
+Duval,6,Commissioner of Agriculture,,,Ballots Cast,71,27,44
 Duval,6,Commissioner of Agriculture,,,Over Votes,0,0,0
-Duval,6,Commissioner of Agriculture,,,Under Votes,15,6,21
-Duval,7,Commissioner of Agriculture,,REP,Sid Miller,31,8,39
-Duval,7,Commissioner of Agriculture,,DEM,Kim Olson,17,11,28
+Duval,6,Commissioner of Agriculture,,,Under Votes,21,6,15
+Duval,7,Commissioner of Agriculture,,REP,Sid Miller,39,8,31
+Duval,7,Commissioner of Agriculture,,DEM,Kim Olson,28,11,17
 Duval,7,Commissioner of Agriculture,,LIB,Richard Carpenter,3,0,3
-Duval,7,Commissioner of Agriculture,,,Ballots Cast,51,19,70
+Duval,7,Commissioner of Agriculture,,,Ballots Cast,70,19,51
 Duval,7,Commissioner of Agriculture,,,Over Votes,0,0,0
-Duval,7,Commissioner of Agriculture,,,Under Votes,4,2,6
-Duval,8,Commissioner of Agriculture,,REP,Sid Miller,270,116,386
-Duval,8,Commissioner of Agriculture,,DEM,Kim Olson,425,149,574
-Duval,8,Commissioner of Agriculture,,LIB,Richard Carpenter,27,9,36
-Duval,8,Commissioner of Agriculture,,,Ballots Cast,722,274,996
+Duval,7,Commissioner of Agriculture,,,Under Votes,6,2,4
+Duval,8,Commissioner of Agriculture,,REP,Sid Miller,386,116,270
+Duval,8,Commissioner of Agriculture,,DEM,Kim Olson,574,149,425
+Duval,8,Commissioner of Agriculture,,LIB,Richard Carpenter,36,9,27
+Duval,8,Commissioner of Agriculture,,,Ballots Cast,996,274,722
 Duval,8,Commissioner of Agriculture,,,Over Votes,0,0,0
-Duval,8,Commissioner of Agriculture,,,Under Votes,123,43,166
-Duval,9,Commissioner of Agriculture,,REP,Sid Miller,55,37,92
-Duval,9,Commissioner of Agriculture,,DEM,Kim Olson,274,162,436
-Duval,9,Commissioner of Agriculture,,LIB,Richard Carpenter,11,4,15
-Duval,9,Commissioner of Agriculture,,,Ballots Cast,340,203,543
+Duval,8,Commissioner of Agriculture,,,Under Votes,166,43,123
+Duval,9,Commissioner of Agriculture,,REP,Sid Miller,92,37,55
+Duval,9,Commissioner of Agriculture,,DEM,Kim Olson,436,162,274
+Duval,9,Commissioner of Agriculture,,LIB,Richard Carpenter,15,4,11
+Duval,9,Commissioner of Agriculture,,,Ballots Cast,543,203,340
 Duval,9,Commissioner of Agriculture,,,Over Votes,0,0,0
-Duval,9,Commissioner of Agriculture,,,Under Votes,41,28,69
-Duval,1,Railroad Commissioner,,REP,Christi Craddick,107,62,169
-Duval,1,Railroad Commissioner,,DEM,Roman McAllen,461,226,687
-Duval,1,Railroad Commissioner,,LIB,Mike Wright,12,11,23
-Duval,1,Railroad Commissioner,,,Ballots Cast,580,299,879
+Duval,9,Commissioner of Agriculture,,,Under Votes,69,28,41
+Duval,1,Railroad Commissioner,,REP,Christi Craddick,169,62,107
+Duval,1,Railroad Commissioner,,DEM,Roman McAllen,687,226,461
+Duval,1,Railroad Commissioner,,LIB,Mike Wright,23,11,12
+Duval,1,Railroad Commissioner,,,Ballots Cast,879,299,580
 Duval,1,Railroad Commissioner,,,Over Votes,0,0,0
-Duval,1,Railroad Commissioner,,,Under Votes,54,41,95
-Duval,2,Railroad Commissioner,,REP,Christi Craddick,78,38,116
-Duval,2,Railroad Commissioner,,DEM,Roman McAllen,389,144,533
-Duval,2,Railroad Commissioner,,LIB,Mike Wright,9,5,14
-Duval,2,Railroad Commissioner,,,Ballots Cast,476,187,663
+Duval,1,Railroad Commissioner,,,Under Votes,95,41,54
+Duval,2,Railroad Commissioner,,REP,Christi Craddick,116,38,78
+Duval,2,Railroad Commissioner,,DEM,Roman McAllen,533,144,389
+Duval,2,Railroad Commissioner,,LIB,Mike Wright,14,5,9
+Duval,2,Railroad Commissioner,,,Ballots Cast,663,187,476
 Duval,2,Railroad Commissioner,,,Over Votes,0,0,0
-Duval,2,Railroad Commissioner,,,Under Votes,102,34,136
-Duval,3,Railroad Commissioner,,REP,Christi Craddick,28,18,46
-Duval,3,Railroad Commissioner,,DEM,Roman McAllen,132,88,220
-Duval,3,Railroad Commissioner,,LIB,Mike Wright,0,2,2
-Duval,3,Railroad Commissioner,,,Ballots Cast,160,108,268
+Duval,2,Railroad Commissioner,,,Under Votes,136,34,102
+Duval,3,Railroad Commissioner,,REP,Christi Craddick,46,18,28
+Duval,3,Railroad Commissioner,,DEM,Roman McAllen,220,88,132
+Duval,3,Railroad Commissioner,,LIB,Mike Wright,2,2,0
+Duval,3,Railroad Commissioner,,,Ballots Cast,268,108,160
 Duval,3,Railroad Commissioner,,,Over Votes,0,0,0
-Duval,3,Railroad Commissioner,,,Under Votes,10,7,17
-Duval,4,Railroad Commissioner,,REP,Christi Craddick,17,11,28
-Duval,4,Railroad Commissioner,,DEM,Roman McAllen,34,21,55
+Duval,3,Railroad Commissioner,,,Under Votes,17,7,10
+Duval,4,Railroad Commissioner,,REP,Christi Craddick,28,11,17
+Duval,4,Railroad Commissioner,,DEM,Roman McAllen,55,21,34
 Duval,4,Railroad Commissioner,,LIB,Mike Wright,3,0,3
-Duval,4,Railroad Commissioner,,,Ballots Cast,54,32,86
+Duval,4,Railroad Commissioner,,,Ballots Cast,86,32,54
 Duval,4,Railroad Commissioner,,,Over Votes,0,0,0
-Duval,4,Railroad Commissioner,,,Under Votes,11,3,14
-Duval,5,Railroad Commissioner,,REP,Christi Craddick,32,18,50
-Duval,5,Railroad Commissioner,,DEM,Roman McAllen,94,45,139
-Duval,5,Railroad Commissioner,,LIB,Mike Wright,5,3,8
-Duval,5,Railroad Commissioner,,,Ballots Cast,131,66,197
+Duval,4,Railroad Commissioner,,,Under Votes,14,3,11
+Duval,5,Railroad Commissioner,,REP,Christi Craddick,50,18,32
+Duval,5,Railroad Commissioner,,DEM,Roman McAllen,139,45,94
+Duval,5,Railroad Commissioner,,LIB,Mike Wright,8,3,5
+Duval,5,Railroad Commissioner,,,Ballots Cast,197,66,131
 Duval,5,Railroad Commissioner,,,Over Votes,0,0,0
-Duval,5,Railroad Commissioner,,,Under Votes,8,2,10
-Duval,6,Railroad Commissioner,,REP,Christi Craddick,8,6,14
-Duval,6,Railroad Commissioner,,DEM,Roman McAllen,36,21,57
+Duval,5,Railroad Commissioner,,,Under Votes,10,2,8
+Duval,6,Railroad Commissioner,,REP,Christi Craddick,14,6,8
+Duval,6,Railroad Commissioner,,DEM,Roman McAllen,57,21,36
 Duval,6,Railroad Commissioner,,LIB,Mike Wright,0,0,0
-Duval,6,Railroad Commissioner,,,Ballots Cast,44,27,71
+Duval,6,Railroad Commissioner,,,Ballots Cast,71,27,44
 Duval,6,Railroad Commissioner,,,Over Votes,0,0,0
-Duval,6,Railroad Commissioner,,,Under Votes,15,6,21
-Duval,7,Railroad Commissioner,,REP,Christi Craddick,31,12,43
-Duval,7,Railroad Commissioner,,DEM,Roman McAllen,18,7,25
+Duval,6,Railroad Commissioner,,,Under Votes,21,6,15
+Duval,7,Railroad Commissioner,,REP,Christi Craddick,43,12,31
+Duval,7,Railroad Commissioner,,DEM,Roman McAllen,25,7,18
 Duval,7,Railroad Commissioner,,LIB,Mike Wright,3,0,3
-Duval,7,Railroad Commissioner,,,Ballots Cast,52,19,71
+Duval,7,Railroad Commissioner,,,Ballots Cast,71,19,52
 Duval,7,Railroad Commissioner,,,Over Votes,0,0,0
-Duval,7,Railroad Commissioner,,,Under Votes,3,2,5
-Duval,8,Railroad Commissioner,,REP,Christi Craddick,276,116,392
-Duval,8,Railroad Commissioner,,DEM,Roman McAllen,423,150,573
-Duval,8,Railroad Commissioner,,LIB,Mike Wright,24,11,35
-Duval,8,Railroad Commissioner,,,Ballots Cast,723,277,1000
+Duval,7,Railroad Commissioner,,,Under Votes,5,2,3
+Duval,8,Railroad Commissioner,,REP,Christi Craddick,392,116,276
+Duval,8,Railroad Commissioner,,DEM,Roman McAllen,573,150,423
+Duval,8,Railroad Commissioner,,LIB,Mike Wright,35,11,24
+Duval,8,Railroad Commissioner,,,Ballots Cast,1000,277,723
 Duval,8,Railroad Commissioner,,,Over Votes,0,0,0
-Duval,8,Railroad Commissioner,,,Under Votes,122,40,162
-Duval,9,Railroad Commissioner,,REP,Christi Craddick,54,38,92
-Duval,9,Railroad Commissioner,,DEM,Roman McAllen,278,158,436
-Duval,9,Railroad Commissioner,,LIB,Mike Wright,10,8,18
-Duval,9,Railroad Commissioner,,,Ballots Cast,342,204,546
+Duval,8,Railroad Commissioner,,,Under Votes,162,40,122
+Duval,9,Railroad Commissioner,,REP,Christi Craddick,92,38,54
+Duval,9,Railroad Commissioner,,DEM,Roman McAllen,436,158,278
+Duval,9,Railroad Commissioner,,LIB,Mike Wright,18,8,10
+Duval,9,Railroad Commissioner,,,Ballots Cast,546,204,342
 Duval,9,Railroad Commissioner,,,Over Votes,0,0,0
-Duval,9,Railroad Commissioner,,,Under Votes,39,27,66
-Duval,1,State Representative,31,DEM,Ryan Guillen,510,252,762
-Duval,1,State Representative,31,,Ballots Cast,510,252,762
+Duval,9,Railroad Commissioner,,,Under Votes,66,27,39
+Duval,1,State Representative,31,DEM,Ryan Guillen,762,252,510
+Duval,1,State Representative,31,,Ballots Cast,762,252,510
 Duval,1,State Representative,31,,Over Votes,0,0,0
-Duval,1,State Representative,31,,Under Votes,124,88,212
-Duval,2,State Representative,31,DEM,Ryan Guillen,422,157,579
-Duval,2,State Representative,31,,Ballots Cast,422,157,579
+Duval,1,State Representative,31,,Under Votes,212,88,124
+Duval,2,State Representative,31,DEM,Ryan Guillen,579,157,422
+Duval,2,State Representative,31,,Ballots Cast,579,157,422
 Duval,2,State Representative,31,,Over Votes,0,0,0
-Duval,2,State Representative,31,,Under Votes,156,64,220
-Duval,3,State Representative,31,DEM,Ryan Guillen,141,96,237
-Duval,3,State Representative,31,,Ballots Cast,141,96,237
+Duval,2,State Representative,31,,Under Votes,220,64,156
+Duval,3,State Representative,31,DEM,Ryan Guillen,237,96,141
+Duval,3,State Representative,31,,Ballots Cast,237,96,141
 Duval,3,State Representative,31,,Over Votes,0,0,0
-Duval,3,State Representative,31,,Under Votes,29,19,48
-Duval,4,State Representative,31,DEM,Ryan Guillen,40,23,63
-Duval,4,State Representative,31,,Ballots Cast,40,23,63
+Duval,3,State Representative,31,,Under Votes,48,19,29
+Duval,4,State Representative,31,DEM,Ryan Guillen,63,23,40
+Duval,4,State Representative,31,,Ballots Cast,63,23,40
 Duval,4,State Representative,31,,Over Votes,0,0,0
-Duval,4,State Representative,31,,Under Votes,25,12,37
-Duval,5,State Representative,31,DEM,Ryan Guillen,113,57,170
-Duval,5,State Representative,31,,Ballots Cast,113,57,170
+Duval,4,State Representative,31,,Under Votes,37,12,25
+Duval,5,State Representative,31,DEM,Ryan Guillen,170,57,113
+Duval,5,State Representative,31,,Ballots Cast,170,57,113
 Duval,5,State Representative,31,,Over Votes,0,0,0
-Duval,5,State Representative,31,,Under Votes,26,11,37
-Duval,6,State Representative,31,DEM,Ryan Guillen,38,22,60
-Duval,6,State Representative,31,,Ballots Cast,38,22,60
+Duval,5,State Representative,31,,Under Votes,37,11,26
+Duval,6,State Representative,31,DEM,Ryan Guillen,60,22,38
+Duval,6,State Representative,31,,Ballots Cast,60,22,38
 Duval,6,State Representative,31,,Over Votes,0,0,0
-Duval,6,State Representative,31,,Under Votes,21,11,32
-Duval,7,State Representative,31,DEM,Ryan Guillen,31,16,47
-Duval,7,State Representative,31,,Ballots Cast,31,16,47
+Duval,6,State Representative,31,,Under Votes,32,11,21
+Duval,7,State Representative,31,DEM,Ryan Guillen,47,16,31
+Duval,7,State Representative,31,,Ballots Cast,47,16,31
 Duval,7,State Representative,31,,Over Votes,0,0,0
-Duval,7,State Representative,31,,Under Votes,24,5,29
-Duval,8,State Representative,31,DEM,Ryan Guillen,569,209,778
-Duval,8,State Representative,31,,Ballots Cast,569,209,778
+Duval,7,State Representative,31,,Under Votes,29,5,24
+Duval,8,State Representative,31,DEM,Ryan Guillen,778,209,569
+Duval,8,State Representative,31,,Ballots Cast,778,209,569
 Duval,8,State Representative,31,,Over Votes,0,0,0
-Duval,8,State Representative,31,,Under Votes,276,108,384
-Duval,9,State Representative,31,DEM,Ryan Guillen,304,180,484
-Duval,9,State Representative,31,,Ballots Cast,304,180,484
+Duval,8,State Representative,31,,Under Votes,384,108,276
+Duval,9,State Representative,31,DEM,Ryan Guillen,484,180,304
+Duval,9,State Representative,31,,Ballots Cast,484,180,304
 Duval,9,State Representative,31,,Over Votes,0,0,0
-Duval,9,State Representative,31,,Under Votes,77,51,128
+Duval,9,State Representative,31,,Under Votes,128,51,77

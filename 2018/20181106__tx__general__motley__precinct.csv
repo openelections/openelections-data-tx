@@ -1,169 +1,169 @@
-county,precinct,office,district,party,candidate,early_voting,election_day,votes
-Motley,1,U.S. Senate,,REP,Ted Cruz,105,38,143
-Motley,2,U.S. Senate,,REP,Ted Cruz,28,32,60
-Motley,3,U.S. Senate,,REP,Ted Cruz,9,5,14
-Motley,4,U.S. Senate,,REP,Ted Cruz,51,65,116
-Motley,5,U.S. Senate,,REP,Ted Cruz,51,25,76
-Motley,6,U.S. Senate,,REP,Ted Cruz,57,17,74
-Motley,1,U.S. Senate,,DEM,Beto O'Rourke,1,1,2
-Motley,2,U.S. Senate,,DEM,Beto O'Rourke,5,2,7
+county,precinct,office,district,party,candidate,votes,election_day,early_voting
+Motley,1,U.S. Senate,,REP,Ted Cruz,143,38,105
+Motley,2,U.S. Senate,,REP,Ted Cruz,60,32,28
+Motley,3,U.S. Senate,,REP,Ted Cruz,14,5,9
+Motley,4,U.S. Senate,,REP,Ted Cruz,116,65,51
+Motley,5,U.S. Senate,,REP,Ted Cruz,76,25,51
+Motley,6,U.S. Senate,,REP,Ted Cruz,74,17,57
+Motley,1,U.S. Senate,,DEM,Beto O'Rourke,2,1,1
+Motley,2,U.S. Senate,,DEM,Beto O'Rourke,7,2,5
 Motley,3,U.S. Senate,,DEM,Beto O'Rourke,1,0,1
-Motley,4,U.S. Senate,,DEM,Beto O'Rourke,7,5,12
-Motley,5,U.S. Senate,,DEM,Beto O'Rourke,5,2,7
-Motley,6,U.S. Senate,,DEM,Beto O'Rourke,5,6,11
-Motley,1,U.S. Senate,,LIB,Neal M. Dikeman,0,1,1
+Motley,4,U.S. Senate,,DEM,Beto O'Rourke,12,5,7
+Motley,5,U.S. Senate,,DEM,Beto O'Rourke,7,2,5
+Motley,6,U.S. Senate,,DEM,Beto O'Rourke,11,6,5
+Motley,1,U.S. Senate,,LIB,Neal M. Dikeman,1,1,0
 Motley,2,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0
 Motley,3,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0
-Motley,4,U.S. Senate,,LIB,Neal M. Dikeman,0,2,2
+Motley,4,U.S. Senate,,LIB,Neal M. Dikeman,2,2,0
 Motley,5,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0
 Motley,6,U.S. Senate,,LIB,Neal M. Dikeman,1,0,1
-Motley,1,U.S. House,13,REP,Mac Thornberry,104,39,143
-Motley,2,U.S. House,13,REP,Mac Thornberry,27,30,57
-Motley,3,U.S. House,13,REP,Mac Thornberry,9,5,14
-Motley,4,U.S. House,13,REP,Mac Thornberry,52,65,117
-Motley,5,U.S. House,13,REP,Mac Thornberry,51,24,75
-Motley,6,U.S. House,13,REP,Mac Thornberry,58,16,74
-Motley,1,U.S. House,13,DEM,Greg Sagan,1,2,3
-Motley,2,U.S. House,13,DEM,Greg Sagan,5,2,7
+Motley,1,U.S. House,13,REP,Mac Thornberry,143,39,104
+Motley,2,U.S. House,13,REP,Mac Thornberry,57,30,27
+Motley,3,U.S. House,13,REP,Mac Thornberry,14,5,9
+Motley,4,U.S. House,13,REP,Mac Thornberry,117,65,52
+Motley,5,U.S. House,13,REP,Mac Thornberry,75,24,51
+Motley,6,U.S. House,13,REP,Mac Thornberry,74,16,58
+Motley,1,U.S. House,13,DEM,Greg Sagan,3,2,1
+Motley,2,U.S. House,13,DEM,Greg Sagan,7,2,5
 Motley,3,U.S. House,13,DEM,Greg Sagan,1,0,1
-Motley,4,U.S. House,13,DEM,Greg Sagan,7,3,10
-Motley,5,U.S. House,13,DEM,Greg Sagan,4,3,7
-Motley,6,U.S. House,13,DEM,Greg Sagan,5,6,11
+Motley,4,U.S. House,13,DEM,Greg Sagan,10,3,7
+Motley,5,U.S. House,13,DEM,Greg Sagan,7,3,4
+Motley,6,U.S. House,13,DEM,Greg Sagan,11,6,5
 Motley,1,U.S. House,13,LIB,Calvin DeWeese,0,0,0
-Motley,2,U.S. House,13,LIB,Calvin DeWeese,0,1,1
+Motley,2,U.S. House,13,LIB,Calvin DeWeese,1,1,0
 Motley,3,U.S. House,13,LIB,Calvin DeWeese,0,0,0
-Motley,4,U.S. House,13,LIB,Calvin DeWeese,0,2,2
+Motley,4,U.S. House,13,LIB,Calvin DeWeese,2,2,0
 Motley,5,U.S. House,13,LIB,Calvin DeWeese,2,0,2
 Motley,6,U.S. House,13,LIB,Calvin DeWeese,1,0,1
-Motley,1,Governor,,REP,Greg Abbott,104,39,143
-Motley,2,Governor,,REP,Greg Abbott,28,31,59
-Motley,3,Governor,,REP,Greg Abbott,9,5,14
-Motley,4,Governor,,REP,Greg Abbott,52,66,118
-Motley,5,Governor,,REP,Greg Abbott,54,27,81
-Motley,6,Governor,,REP,Greg Abbott,59,15,74
-Motley,1,Governor,,DEM,Lupe Valdez,0,2,2
-Motley,2,Governor,,DEM,Lupe Valdez,4,2,6
+Motley,1,Governor,,REP,Greg Abbott,143,39,104
+Motley,2,Governor,,REP,Greg Abbott,59,31,28
+Motley,3,Governor,,REP,Greg Abbott,14,5,9
+Motley,4,Governor,,REP,Greg Abbott,118,66,52
+Motley,5,Governor,,REP,Greg Abbott,81,27,54
+Motley,6,Governor,,REP,Greg Abbott,74,15,59
+Motley,1,Governor,,DEM,Lupe Valdez,2,2,0
+Motley,2,Governor,,DEM,Lupe Valdez,6,2,4
 Motley,3,Governor,,DEM,Lupe Valdez,1,0,1
-Motley,4,Governor,,DEM,Lupe Valdez,7,3,10
-Motley,5,Governor,,DEM,Lupe Valdez,3,1,4
-Motley,6,Governor,,DEM,Lupe Valdez,5,7,12
+Motley,4,Governor,,DEM,Lupe Valdez,10,3,7
+Motley,5,Governor,,DEM,Lupe Valdez,4,1,3
+Motley,6,Governor,,DEM,Lupe Valdez,12,7,5
 Motley,1,Governor,,LIB,Mark Jay Tippetts,1,0,1
-Motley,2,Governor,,LIB,Mark Jay Tippetts,0,1,1
+Motley,2,Governor,,LIB,Mark Jay Tippetts,1,1,0
 Motley,3,Governor,,LIB,Mark Jay Tippetts,0,0,0
-Motley,4,Governor,,LIB,Mark Jay Tippetts,0,2,2
+Motley,4,Governor,,LIB,Mark Jay Tippetts,2,2,0
 Motley,5,Governor,,LIB,Mark Jay Tippetts,0,0,0
 Motley,6,Governor,,LIB,Mark Jay Tippetts,0,0,0
-Motley,1,Lieutenant Governor,,REP,Dan Patrick,97,31,128
-Motley,2,Lieutenant Governor,,REP,Dan Patrick,24,28,52
-Motley,3,Lieutenant Governor,,REP,Dan Patrick,9,5,14
-Motley,4,Lieutenant Governor,,REP,Dan Patrick,49,62,111
-Motley,5,Lieutenant Governor,,REP,Dan Patrick,57,24,81
-Motley,6,Lieutenant Governor,,REP,Dan Patrick,54,15,69
-Motley,1,Lieutenant Governor,,DEM,Mike Collier,5,10,15
-Motley,2,Lieutenant Governor,,DEM,Mike Collier,9,3,12
+Motley,1,Lieutenant Governor,,REP,Dan Patrick,128,31,97
+Motley,2,Lieutenant Governor,,REP,Dan Patrick,52,28,24
+Motley,3,Lieutenant Governor,,REP,Dan Patrick,14,5,9
+Motley,4,Lieutenant Governor,,REP,Dan Patrick,111,62,49
+Motley,5,Lieutenant Governor,,REP,Dan Patrick,81,24,57
+Motley,6,Lieutenant Governor,,REP,Dan Patrick,69,15,54
+Motley,1,Lieutenant Governor,,DEM,Mike Collier,15,10,5
+Motley,2,Lieutenant Governor,,DEM,Mike Collier,12,3,9
 Motley,3,Lieutenant Governor,,DEM,Mike Collier,1,0,1
-Motley,4,Lieutenant Governor,,DEM,Mike Collier,8,7,15
-Motley,5,Lieutenant Governor,,DEM,Mike Collier,7,4,11
-Motley,6,Lieutenant Governor,,DEM,Mike Collier,8,8,16
+Motley,4,Lieutenant Governor,,DEM,Mike Collier,15,7,8
+Motley,5,Lieutenant Governor,,DEM,Mike Collier,11,4,7
+Motley,6,Lieutenant Governor,,DEM,Mike Collier,16,8,8
 Motley,1,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,0,1
 Motley,2,Lieutenant Governor,,LIB,Kerry Douglas McKennon,0,0,0
 Motley,3,Lieutenant Governor,,LIB,Kerry Douglas McKennon,0,0,0
-Motley,4,Lieutenant Governor,,LIB,Kerry Douglas McKennon,2,2,4
+Motley,4,Lieutenant Governor,,LIB,Kerry Douglas McKennon,4,2,2
 Motley,5,Lieutenant Governor,,LIB,Kerry Douglas McKennon,3,0,3
 Motley,6,Lieutenant Governor,,LIB,Kerry Douglas McKennon,0,0,0
-Motley,1,Attorney General,,REP,Ken Paxton,99,37,136
-Motley,2,Attorney General,,REP,Ken Paxton,26,31,57
-Motley,3,Attorney General,,REP,Ken Paxton,9,5,14
-Motley,4,Attorney General,,REP,Ken Paxton,50,64,114
-Motley,5,Attorney General,,REP,Ken Paxton,51,25,76
-Motley,6,Attorney General,,REP,Ken Paxton,55,16,71
-Motley,1,Attorney General,,DEM,Justin Nelson,4,3,7
-Motley,2,Attorney General,,DEM,Justin Nelson,6,2,8
+Motley,1,Attorney General,,REP,Ken Paxton,136,37,99
+Motley,2,Attorney General,,REP,Ken Paxton,57,31,26
+Motley,3,Attorney General,,REP,Ken Paxton,14,5,9
+Motley,4,Attorney General,,REP,Ken Paxton,114,64,50
+Motley,5,Attorney General,,REP,Ken Paxton,76,25,51
+Motley,6,Attorney General,,REP,Ken Paxton,71,16,55
+Motley,1,Attorney General,,DEM,Justin Nelson,7,3,4
+Motley,2,Attorney General,,DEM,Justin Nelson,8,2,6
 Motley,3,Attorney General,,DEM,Justin Nelson,1,0,1
-Motley,4,Attorney General,,DEM,Justin Nelson,7,3,10
-Motley,5,Attorney General,,DEM,Justin Nelson,3,2,5
-Motley,6,Attorney General,,DEM,Justin Nelson,7,7,14
+Motley,4,Attorney General,,DEM,Justin Nelson,10,3,7
+Motley,5,Attorney General,,DEM,Justin Nelson,5,2,3
+Motley,6,Attorney General,,DEM,Justin Nelson,14,7,7
 Motley,1,Attorney General,,LIB,Michael Ray Harris,0,0,0
 Motley,2,Attorney General,,LIB,Michael Ray Harris,1,0,1
 Motley,3,Attorney General,,LIB,Michael Ray Harris,0,0,0
-Motley,4,Attorney General,,LIB,Michael Ray Harris,2,2,4
+Motley,4,Attorney General,,LIB,Michael Ray Harris,4,2,2
 Motley,5,Attorney General,,LIB,Michael Ray Harris,2,0,2
 Motley,6,Attorney General,,LIB,Michael Ray Harris,0,0,0
-Motley,1,Comptroller of Public Accounts,,REP,Glenn Hegar,101,40,141
-Motley,2,Comptroller of Public Accounts,,REP,Glenn Hegar,27,32,59
-Motley,3,Comptroller of Public Accounts,,REP,Glenn Hegar,8,5,13
-Motley,4,Comptroller of Public Accounts,,REP,Glenn Hegar,51,65,116
-Motley,5,Comptroller of Public Accounts,,REP,Glenn Hegar,49,25,74
-Motley,6,Comptroller of Public Accounts,,REP,Glenn Hegar,58,16,74
-Motley,1,Comptroller of Public Accounts,,DEM,Joi Chevalier,0,1,1
-Motley,2,Comptroller of Public Accounts,,DEM,Joi Chevalier,5,3,8
+Motley,1,Comptroller of Public Accounts,,REP,Glenn Hegar,141,40,101
+Motley,2,Comptroller of Public Accounts,,REP,Glenn Hegar,59,32,27
+Motley,3,Comptroller of Public Accounts,,REP,Glenn Hegar,13,5,8
+Motley,4,Comptroller of Public Accounts,,REP,Glenn Hegar,116,65,51
+Motley,5,Comptroller of Public Accounts,,REP,Glenn Hegar,74,25,49
+Motley,6,Comptroller of Public Accounts,,REP,Glenn Hegar,74,16,58
+Motley,1,Comptroller of Public Accounts,,DEM,Joi Chevalier,1,1,0
+Motley,2,Comptroller of Public Accounts,,DEM,Joi Chevalier,8,3,5
 Motley,3,Comptroller of Public Accounts,,DEM,Joi Chevalier,1,0,1
-Motley,4,Comptroller of Public Accounts,,DEM,Joi Chevalier,7,3,10
-Motley,5,Comptroller of Public Accounts,,DEM,Joi Chevalier,5,2,7
-Motley,6,Comptroller of Public Accounts,,DEM,Joi Chevalier,5,6,11
+Motley,4,Comptroller of Public Accounts,,DEM,Joi Chevalier,10,3,7
+Motley,5,Comptroller of Public Accounts,,DEM,Joi Chevalier,7,2,5
+Motley,6,Comptroller of Public Accounts,,DEM,Joi Chevalier,11,6,5
 Motley,1,Comptroller of Public Accounts,,LIB,Ben Sanders,1,0,1
 Motley,2,Comptroller of Public Accounts,,LIB,Ben Sanders,0,0,0
 Motley,3,Comptroller of Public Accounts,,LIB,Ben Sanders,0,0,0
-Motley,4,Comptroller of Public Accounts,,LIB,Ben Sanders,1,1,2
+Motley,4,Comptroller of Public Accounts,,LIB,Ben Sanders,2,1,1
 Motley,5,Comptroller of Public Accounts,,LIB,Ben Sanders,2,0,2
 Motley,6,Comptroller of Public Accounts,,LIB,Ben Sanders,0,0,0
-Motley,1,Commissioner of the General Land Office,,REP,George P. Bush,103,39,142
-Motley,2,Commissioner of the General Land Office,,REP,George P. Bush,27,30,57
-Motley,3,Commissioner of the General Land Office,,REP,George P. Bush,9,5,14
-Motley,4,Commissioner of the General Land Office,,REP,George P. Bush,48,64,112
-Motley,5,Commissioner of the General Land Office,,REP,George P. Bush,44,27,71
-Motley,6,Commissioner of the General Land Office,,REP,George P. Bush,59,17,76
-Motley,1,Commissioner of the General Land Office,,DEM,Miguel Suazo,1,1,2
-Motley,2,Commissioner of the General Land Office,,DEM,Miguel Suazo,4,2,6
+Motley,1,Commissioner of the General Land Office,,REP,George P. Bush,142,39,103
+Motley,2,Commissioner of the General Land Office,,REP,George P. Bush,57,30,27
+Motley,3,Commissioner of the General Land Office,,REP,George P. Bush,14,5,9
+Motley,4,Commissioner of the General Land Office,,REP,George P. Bush,112,64,48
+Motley,5,Commissioner of the General Land Office,,REP,George P. Bush,71,27,44
+Motley,6,Commissioner of the General Land Office,,REP,George P. Bush,76,17,59
+Motley,1,Commissioner of the General Land Office,,DEM,Miguel Suazo,2,1,1
+Motley,2,Commissioner of the General Land Office,,DEM,Miguel Suazo,6,2,4
 Motley,3,Commissioner of the General Land Office,,DEM,Miguel Suazo,1,0,1
-Motley,4,Commissioner of the General Land Office,,DEM,Miguel Suazo,8,3,11
-Motley,5,Commissioner of the General Land Office,,DEM,Miguel Suazo,5,1,6
-Motley,6,Commissioner of the General Land Office,,DEM,Miguel Suazo,5,5,10
+Motley,4,Commissioner of the General Land Office,,DEM,Miguel Suazo,11,3,8
+Motley,5,Commissioner of the General Land Office,,DEM,Miguel Suazo,6,1,5
+Motley,6,Commissioner of the General Land Office,,DEM,Miguel Suazo,10,5,5
 Motley,1,Commissioner of the General Land Office,,LIB,Matt Pina,1,0,1
 Motley,2,Commissioner of the General Land Office,,LIB,Matt Pina,0,0,0
 Motley,3,Commissioner of the General Land Office,,LIB,Matt Pina,0,0,0
-Motley,4,Commissioner of the General Land Office,,LIB,Matt Pina,3,2,5
+Motley,4,Commissioner of the General Land Office,,LIB,Matt Pina,5,2,3
 Motley,5,Commissioner of the General Land Office,,LIB,Matt Pina,4,0,4
 Motley,6,Commissioner of the General Land Office,,LIB,Matt Pina,0,0,0
-Motley,1,Commissioner of Agriculture,,REP,Sid Miller,98,38,136
-Motley,2,Commissioner of Agriculture,,REP,Sid Miller,27,30,57
-Motley,3,Commissioner of Agriculture,,REP,Sid Miller,9,5,14
-Motley,4,Commissioner of Agriculture,,REP,Sid Miller,51,65,116
-Motley,5,Commissioner of Agriculture,,REP,Sid Miller,48,25,73
-Motley,6,Commissioner of Agriculture,,REP,Sid Miller,58,14,72
-Motley,1,Commissioner of Agriculture,,DEM,Kim Olson,3,3,6
-Motley,2,Commissioner of Agriculture,,DEM,Kim Olson,5,3,8
+Motley,1,Commissioner of Agriculture,,REP,Sid Miller,136,38,98
+Motley,2,Commissioner of Agriculture,,REP,Sid Miller,57,30,27
+Motley,3,Commissioner of Agriculture,,REP,Sid Miller,14,5,9
+Motley,4,Commissioner of Agriculture,,REP,Sid Miller,116,65,51
+Motley,5,Commissioner of Agriculture,,REP,Sid Miller,73,25,48
+Motley,6,Commissioner of Agriculture,,REP,Sid Miller,72,14,58
+Motley,1,Commissioner of Agriculture,,DEM,Kim Olson,6,3,3
+Motley,2,Commissioner of Agriculture,,DEM,Kim Olson,8,3,5
 Motley,3,Commissioner of Agriculture,,DEM,Kim Olson,1,0,1
-Motley,4,Commissioner of Agriculture,,DEM,Kim Olson,7,5,12
-Motley,5,Commissioner of Agriculture,,DEM,Kim Olson,6,3,9
-Motley,6,Commissioner of Agriculture,,DEM,Kim Olson,5,7,12
+Motley,4,Commissioner of Agriculture,,DEM,Kim Olson,12,5,7
+Motley,5,Commissioner of Agriculture,,DEM,Kim Olson,9,3,6
+Motley,6,Commissioner of Agriculture,,DEM,Kim Olson,12,7,5
 Motley,1,Commissioner of Agriculture,,LIB,Richard Carpenter,0,0,0
-Motley,2,Commissioner of Agriculture,,LIB,Richard Carpenter,0,1,1
+Motley,2,Commissioner of Agriculture,,LIB,Richard Carpenter,1,1,0
 Motley,3,Commissioner of Agriculture,,LIB,Richard Carpenter,0,0,0
-Motley,4,Commissioner of Agriculture,,LIB,Richard Carpenter,1,1,2
+Motley,4,Commissioner of Agriculture,,LIB,Richard Carpenter,2,1,1
 Motley,5,Commissioner of Agriculture,,LIB,Richard Carpenter,1,0,1
 Motley,6,Commissioner of Agriculture,,LIB,Richard Carpenter,0,0,0
-Motley,1,Railroad Commissioner,,REP,Christi Craddick,101,40,141
-Motley,2,Railroad Commissioner,,REP,Christi Craddick,23,31,54
-Motley,3,Railroad Commissioner,,REP,Christi Craddick,9,5,14
-Motley,4,Railroad Commissioner,,REP,Christi Craddick,52,62,114
-Motley,5,Railroad Commissioner,,REP,Christi Craddick,49,26,75
-Motley,6,Railroad Commissioner,,REP,Christi Craddick,58,15,73
-Motley,1,Railroad Commissioner,,DEM,Roman McAllen,0,1,1
-Motley,2,Railroad Commissioner,,DEM,Roman McAllen,6,2,8
+Motley,1,Railroad Commissioner,,REP,Christi Craddick,141,40,101
+Motley,2,Railroad Commissioner,,REP,Christi Craddick,54,31,23
+Motley,3,Railroad Commissioner,,REP,Christi Craddick,14,5,9
+Motley,4,Railroad Commissioner,,REP,Christi Craddick,114,62,52
+Motley,5,Railroad Commissioner,,REP,Christi Craddick,75,26,49
+Motley,6,Railroad Commissioner,,REP,Christi Craddick,73,15,58
+Motley,1,Railroad Commissioner,,DEM,Roman McAllen,1,1,0
+Motley,2,Railroad Commissioner,,DEM,Roman McAllen,8,2,6
 Motley,3,Railroad Commissioner,,DEM,Roman McAllen,1,0,1
-Motley,4,Railroad Commissioner,,DEM,Roman McAllen,7,5,12
-Motley,5,Railroad Commissioner,,DEM,Roman McAllen,6,2,8
-Motley,6,Railroad Commissioner,,DEM,Roman McAllen,5,6,11
+Motley,4,Railroad Commissioner,,DEM,Roman McAllen,12,5,7
+Motley,5,Railroad Commissioner,,DEM,Roman McAllen,8,2,6
+Motley,6,Railroad Commissioner,,DEM,Roman McAllen,11,6,5
 Motley,1,Railroad Commissioner,,LIB,Mike Wright,1,0,1
-Motley,2,Railroad Commissioner,,LIB,Mike Wright,0,1,1
+Motley,2,Railroad Commissioner,,LIB,Mike Wright,1,1,0
 Motley,3,Railroad Commissioner,,LIB,Mike Wright,0,0,0
-Motley,4,Railroad Commissioner,,LIB,Mike Wright,0,3,3
+Motley,4,Railroad Commissioner,,LIB,Mike Wright,3,3,0
 Motley,5,Railroad Commissioner,,LIB,Mike Wright,0,0,0
 Motley,6,Railroad Commissioner,,LIB,Mike Wright,0,0,0
-Motley,1,State Representative,68,REP,Drew Springer,105,40,145
-Motley,2,State Representative,68,REP,Drew Springer,25,31,56
-Motley,3,State Representative,68,REP,Drew Springer,9,5,14
-Motley,4,State Representative,68,REP,Drew Springer,53,66,119
-Motley,5,State Representative,68,REP,Drew Springer,53,28,81
-Motley,6,State Representative,68,REP,Drew Springer,57,17,74
+Motley,1,State Representative,68,REP,Drew Springer,145,40,105
+Motley,2,State Representative,68,REP,Drew Springer,56,31,25
+Motley,3,State Representative,68,REP,Drew Springer,14,5,9
+Motley,4,State Representative,68,REP,Drew Springer,119,66,53
+Motley,5,State Representative,68,REP,Drew Springer,81,28,53
+Motley,6,State Representative,68,REP,Drew Springer,74,17,57

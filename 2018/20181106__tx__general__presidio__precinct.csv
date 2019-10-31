@@ -1,197 +1,197 @@
-county,precinct,office,district,party,candidate,early_voting,election_day,votes
-Presidio,1,U.S. Senate,,REP,Ted Cruz,19,29,48
-Presidio,2,U.S. Senate,,REP,Ted Cruz,31,20,51
-Presidio,3,U.S. Senate,,REP,Ted Cruz,2,1,3
-Presidio,4,U.S. Senate,,REP,Ted Cruz,19,22,41
-Presidio,5,U.S. Senate,,REP,Ted Cruz,20,10,30
-Presidio,6,U.S. Senate,,REP,Ted Cruz,9,2,11
-Presidio,7,U.S. Senate,,REP,Ted Cruz,159,63,222
-Presidio,1,U.S. Senate,,DEM,Beto O'Rourke,41,30,71
-Presidio,2,U.S. Senate,,DEM,Beto O'Rourke,68,61,129
-Presidio,3,U.S. Senate,,DEM,Beto O'Rourke,10,6,16
-Presidio,4,U.S. Senate,,DEM,Beto O'Rourke,143,94,237
-Presidio,5,U.S. Senate,,DEM,Beto O'Rourke,80,51,131
+county,precinct,office,district,party,candidate,votes,election_day,early_voting
+Presidio,1,U.S. Senate,,REP,Ted Cruz,48,29,19
+Presidio,2,U.S. Senate,,REP,Ted Cruz,51,20,31
+Presidio,3,U.S. Senate,,REP,Ted Cruz,3,1,2
+Presidio,4,U.S. Senate,,REP,Ted Cruz,41,22,19
+Presidio,5,U.S. Senate,,REP,Ted Cruz,30,10,20
+Presidio,6,U.S. Senate,,REP,Ted Cruz,11,2,9
+Presidio,7,U.S. Senate,,REP,Ted Cruz,222,63,159
+Presidio,1,U.S. Senate,,DEM,Beto O'Rourke,71,30,41
+Presidio,2,U.S. Senate,,DEM,Beto O'Rourke,129,61,68
+Presidio,3,U.S. Senate,,DEM,Beto O'Rourke,16,6,10
+Presidio,4,U.S. Senate,,DEM,Beto O'Rourke,237,94,143
+Presidio,5,U.S. Senate,,DEM,Beto O'Rourke,131,51,80
 Presidio,6,U.S. Senate,,DEM,Beto O'Rourke,4,0,4
-Presidio,7,U.S. Senate,,DEM,Beto O'Rourke,423,161,584
+Presidio,7,U.S. Senate,,DEM,Beto O'Rourke,584,161,423
 Presidio,1,U.S. Senate,,LIB,Neal M. Dikeman,1,0,1
 Presidio,2,U.S. Senate,,LIB,Neal M. Dikeman,1,0,1
 Presidio,3,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0
-Presidio,4,U.S. Senate,,LIB,Neal M. Dikeman,1,2,3
+Presidio,4,U.S. Senate,,LIB,Neal M. Dikeman,3,2,1
 Presidio,5,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0
 Presidio,6,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0
-Presidio,7,U.S. Senate,,LIB,Neal M. Dikeman,2,3,5
-Presidio,1,U.S. House,23,REP,Will Hurd,47,27,74
-Presidio,2,U.S. House,23,REP,Will Hurd,30,19,49
-Presidio,3,U.S. House,23,REP,Will Hurd,3,1,4
-Presidio,4,U.S. House,23,REP,Will Hurd,21,22,43
-Presidio,5,U.S. House,23,REP,Will Hurd,18,16,34
-Presidio,6,U.S. House,23,REP,Will Hurd,8,2,10
-Presidio,7,U.S. House,23,REP,Will Hurd,153,64,217
-Presidio,1,U.S. House,23,DEM,Gina Ortiz Jones,87,32,119
-Presidio,2,U.S. House,23,DEM,Gina Ortiz Jones,67,57,124
-Presidio,3,U.S. House,23,DEM,Gina Ortiz Jones,3,6,9
-Presidio,4,U.S. House,23,DEM,Gina Ortiz Jones,138,87,225
-Presidio,5,U.S. House,23,DEM,Gina Ortiz Jones,88,44,132
+Presidio,7,U.S. Senate,,LIB,Neal M. Dikeman,5,3,2
+Presidio,1,U.S. House,23,REP,Will Hurd,74,27,47
+Presidio,2,U.S. House,23,REP,Will Hurd,49,19,30
+Presidio,3,U.S. House,23,REP,Will Hurd,4,1,3
+Presidio,4,U.S. House,23,REP,Will Hurd,43,22,21
+Presidio,5,U.S. House,23,REP,Will Hurd,34,16,18
+Presidio,6,U.S. House,23,REP,Will Hurd,10,2,8
+Presidio,7,U.S. House,23,REP,Will Hurd,217,64,153
+Presidio,1,U.S. House,23,DEM,Gina Ortiz Jones,119,32,87
+Presidio,2,U.S. House,23,DEM,Gina Ortiz Jones,124,57,67
+Presidio,3,U.S. House,23,DEM,Gina Ortiz Jones,9,6,3
+Presidio,4,U.S. House,23,DEM,Gina Ortiz Jones,225,87,138
+Presidio,5,U.S. House,23,DEM,Gina Ortiz Jones,132,44,88
 Presidio,6,U.S. House,23,DEM,Gina Ortiz Jones,4,0,4
-Presidio,7,U.S. House,23,DEM,Gina Ortiz Jones,426,157,583
+Presidio,7,U.S. House,23,DEM,Gina Ortiz Jones,583,157,426
 Presidio,1,U.S. House,23,LIB,Ruben Corvalan,3,0,3
-Presidio,2,U.S. House,23,LIB,Ruben Corvalan,1,4,5
+Presidio,2,U.S. House,23,LIB,Ruben Corvalan,5,4,1
 Presidio,3,U.S. House,23,LIB,Ruben Corvalan,0,0,0
-Presidio,4,U.S. House,23,LIB,Ruben Corvalan,4,3,7
-Presidio,5,U.S. House,23,LIB,Ruben Corvalan,0,1,1
+Presidio,4,U.S. House,23,LIB,Ruben Corvalan,7,3,4
+Presidio,5,U.S. House,23,LIB,Ruben Corvalan,1,1,0
 Presidio,6,U.S. House,23,LIB,Ruben Corvalan,0,0,0
-Presidio,7,U.S. House,23,LIB,Ruben Corvalan,2,8,10
-Presidio,1,Governor,,REP,Greg Abbott,57,28,85
-Presidio,2,Governor,,REP,Greg Abbott,31,20,51
-Presidio,3,Governor,,REP,Greg Abbott,2,1,3
-Presidio,4,Governor,,REP,Greg Abbott,16,24,40
-Presidio,5,Governor,,REP,Greg Abbott,19,11,30
-Presidio,6,Governor,,REP,Greg Abbott,9,2,11
-Presidio,7,Governor,,REP,Greg Abbott,172,73,245
-Presidio,1,Governor,,DEM,Lupe Valdez,78,31,109
-Presidio,2,Governor,,DEM,Lupe Valdez,60,61,121
-Presidio,3,Governor,,DEM,Lupe Valdez,9,6,15
-Presidio,4,Governor,,DEM,Lupe Valdez,142,87,229
-Presidio,5,Governor,,DEM,Lupe Valdez,80,48,128
+Presidio,7,U.S. House,23,LIB,Ruben Corvalan,10,8,2
+Presidio,1,Governor,,REP,Greg Abbott,85,28,57
+Presidio,2,Governor,,REP,Greg Abbott,51,20,31
+Presidio,3,Governor,,REP,Greg Abbott,3,1,2
+Presidio,4,Governor,,REP,Greg Abbott,40,24,16
+Presidio,5,Governor,,REP,Greg Abbott,30,11,19
+Presidio,6,Governor,,REP,Greg Abbott,11,2,9
+Presidio,7,Governor,,REP,Greg Abbott,245,73,172
+Presidio,1,Governor,,DEM,Lupe Valdez,109,31,78
+Presidio,2,Governor,,DEM,Lupe Valdez,121,61,60
+Presidio,3,Governor,,DEM,Lupe Valdez,15,6,9
+Presidio,4,Governor,,DEM,Lupe Valdez,229,87,142
+Presidio,5,Governor,,DEM,Lupe Valdez,128,48,80
 Presidio,6,Governor,,DEM,Lupe Valdez,4,0,4
-Presidio,7,Governor,,DEM,Lupe Valdez,397,146,543
+Presidio,7,Governor,,DEM,Lupe Valdez,543,146,397
 Presidio,1,Governor,,LIB,Mark Jay Tippetts,3,0,3
 Presidio,2,Governor,,LIB,Mark Jay Tippetts,0,0,0
 Presidio,3,Governor,,LIB,Mark Jay Tippetts,1,0,1
-Presidio,4,Governor,,LIB,Mark Jay Tippetts,1,2,3
-Presidio,5,Governor,,LIB,Mark Jay Tippetts,2,1,3
+Presidio,4,Governor,,LIB,Mark Jay Tippetts,3,2,1
+Presidio,5,Governor,,LIB,Mark Jay Tippetts,3,1,2
 Presidio,6,Governor,,LIB,Mark Jay Tippetts,0,0,0
-Presidio,7,Governor,,LIB,Mark Jay Tippetts,9,11,20
-Presidio,1,Lieutenant Governor,,REP,Dan Patrick,50,25,75
-Presidio,2,Lieutenant Governor,,REP,Dan Patrick,30,19,49
-Presidio,3,Lieutenant Governor,,REP,Dan Patrick,3,1,4
-Presidio,4,Lieutenant Governor,,REP,Dan Patrick,17,23,40
-Presidio,5,Lieutenant Governor,,REP,Dan Patrick,21,10,31
-Presidio,6,Lieutenant Governor,,REP,Dan Patrick,8,2,10
-Presidio,7,Lieutenant Governor,,REP,Dan Patrick,154,69,223
-Presidio,1,Lieutenant Governor,,DEM,Mike Collier,77,28,105
-Presidio,2,Lieutenant Governor,,DEM,Mike Collier,63,60,123
-Presidio,3,Lieutenant Governor,,DEM,Mike Collier,9,6,15
-Presidio,4,Lieutenant Governor,,DEM,Mike Collier,133,81,214
-Presidio,5,Lieutenant Governor,,DEM,Mike Collier,76,49,125
+Presidio,7,Governor,,LIB,Mark Jay Tippetts,20,11,9
+Presidio,1,Lieutenant Governor,,REP,Dan Patrick,75,25,50
+Presidio,2,Lieutenant Governor,,REP,Dan Patrick,49,19,30
+Presidio,3,Lieutenant Governor,,REP,Dan Patrick,4,1,3
+Presidio,4,Lieutenant Governor,,REP,Dan Patrick,40,23,17
+Presidio,5,Lieutenant Governor,,REP,Dan Patrick,31,10,21
+Presidio,6,Lieutenant Governor,,REP,Dan Patrick,10,2,8
+Presidio,7,Lieutenant Governor,,REP,Dan Patrick,223,69,154
+Presidio,1,Lieutenant Governor,,DEM,Mike Collier,105,28,77
+Presidio,2,Lieutenant Governor,,DEM,Mike Collier,123,60,63
+Presidio,3,Lieutenant Governor,,DEM,Mike Collier,15,6,9
+Presidio,4,Lieutenant Governor,,DEM,Mike Collier,214,81,133
+Presidio,5,Lieutenant Governor,,DEM,Mike Collier,125,49,76
 Presidio,6,Lieutenant Governor,,DEM,Mike Collier,4,0,4
-Presidio,7,Lieutenant Governor,,DEM,Mike Collier,402,144,546
-Presidio,1,Lieutenant Governor,,LIB,Kerry Douglas McKennon,7,2,9
+Presidio,7,Lieutenant Governor,,DEM,Mike Collier,546,144,402
+Presidio,1,Lieutenant Governor,,LIB,Kerry Douglas McKennon,9,2,7
 Presidio,2,Lieutenant Governor,,LIB,Kerry Douglas McKennon,4,0,4
 Presidio,3,Lieutenant Governor,,LIB,Kerry Douglas McKennon,0,0,0
-Presidio,4,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,2,3
-Presidio,5,Lieutenant Governor,,LIB,Kerry Douglas McKennon,3,1,4
+Presidio,4,Lieutenant Governor,,LIB,Kerry Douglas McKennon,3,2,1
+Presidio,5,Lieutenant Governor,,LIB,Kerry Douglas McKennon,4,1,3
 Presidio,6,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,0,1
-Presidio,7,Lieutenant Governor,,LIB,Kerry Douglas McKennon,11,11,22
-Presidio,1,Attorney General,,REP,Ken Paxton,51,26,77
-Presidio,2,Attorney General,,REP,Ken Paxton,29,18,47
-Presidio,3,Attorney General,,REP,Ken Paxton,3,1,4
-Presidio,4,Attorney General,,REP,Ken Paxton,14,24,38
-Presidio,5,Attorney General,,REP,Ken Paxton,17,9,26
-Presidio,6,Attorney General,,REP,Ken Paxton,9,2,11
-Presidio,7,Attorney General,,REP,Ken Paxton,149,64,213
-Presidio,1,Attorney General,,DEM,Justin Nelson,78,26,104
-Presidio,2,Attorney General,,DEM,Justin Nelson,61,58,119
-Presidio,3,Attorney General,,DEM,Justin Nelson,9,6,15
-Presidio,4,Attorney General,,DEM,Justin Nelson,127,83,210
-Presidio,5,Attorney General,,DEM,Justin Nelson,79,48,127
+Presidio,7,Lieutenant Governor,,LIB,Kerry Douglas McKennon,22,11,11
+Presidio,1,Attorney General,,REP,Ken Paxton,77,26,51
+Presidio,2,Attorney General,,REP,Ken Paxton,47,18,29
+Presidio,3,Attorney General,,REP,Ken Paxton,4,1,3
+Presidio,4,Attorney General,,REP,Ken Paxton,38,24,14
+Presidio,5,Attorney General,,REP,Ken Paxton,26,9,17
+Presidio,6,Attorney General,,REP,Ken Paxton,11,2,9
+Presidio,7,Attorney General,,REP,Ken Paxton,213,64,149
+Presidio,1,Attorney General,,DEM,Justin Nelson,104,26,78
+Presidio,2,Attorney General,,DEM,Justin Nelson,119,58,61
+Presidio,3,Attorney General,,DEM,Justin Nelson,15,6,9
+Presidio,4,Attorney General,,DEM,Justin Nelson,210,83,127
+Presidio,5,Attorney General,,DEM,Justin Nelson,127,48,79
 Presidio,6,Attorney General,,DEM,Justin Nelson,4,0,4
-Presidio,7,Attorney General,,DEM,Justin Nelson,404,148,552
-Presidio,1,Attorney General,,LIB,Michael Ray Harris,6,3,9
-Presidio,2,Attorney General,,LIB,Michael Ray Harris,3,3,6
+Presidio,7,Attorney General,,DEM,Justin Nelson,552,148,404
+Presidio,1,Attorney General,,LIB,Michael Ray Harris,9,3,6
+Presidio,2,Attorney General,,LIB,Michael Ray Harris,6,3,3
 Presidio,3,Attorney General,,LIB,Michael Ray Harris,12,0,12
-Presidio,4,Attorney General,,LIB,Michael Ray Harris,6,2,8
-Presidio,5,Attorney General,,LIB,Michael Ray Harris,4,2,6
-Presidio,6,Attorney General,,LIB,Michael Ray Harris,0,2,2
-Presidio,7,Attorney General,,LIB,Michael Ray Harris,13,12,25
-Presidio,1,Comptroller of Public Accounts,,REP,Glenn Hegar,55,28,83
-Presidio,2,Comptroller of Public Accounts,,REP,Glenn Hegar,26,17,43
-Presidio,3,Comptroller of Public Accounts,,REP,Glenn Hegar,2,1,3
-Presidio,4,Comptroller of Public Accounts,,REP,Glenn Hegar,16,24,40
-Presidio,5,Comptroller of Public Accounts,,REP,Glenn Hegar,19,7,26
-Presidio,6,Comptroller of Public Accounts,,REP,Glenn Hegar,9,2,11
-Presidio,7,Comptroller of Public Accounts,,REP,Glenn Hegar,153,61,214
-Presidio,1,Comptroller of Public Accounts,,DEM,Joi Chevalier,71,25,96
-Presidio,2,Comptroller of Public Accounts,,DEM,Joi Chevalier,65,54,119
-Presidio,3,Comptroller of Public Accounts,,DEM,Joi Chevalier,9,6,15
-Presidio,4,Comptroller of Public Accounts,,DEM,Joi Chevalier,126,78,204
-Presidio,5,Comptroller of Public Accounts,,DEM,Joi Chevalier,78,48,126
+Presidio,4,Attorney General,,LIB,Michael Ray Harris,8,2,6
+Presidio,5,Attorney General,,LIB,Michael Ray Harris,6,2,4
+Presidio,6,Attorney General,,LIB,Michael Ray Harris,2,2,0
+Presidio,7,Attorney General,,LIB,Michael Ray Harris,25,12,13
+Presidio,1,Comptroller of Public Accounts,,REP,Glenn Hegar,83,28,55
+Presidio,2,Comptroller of Public Accounts,,REP,Glenn Hegar,43,17,26
+Presidio,3,Comptroller of Public Accounts,,REP,Glenn Hegar,3,1,2
+Presidio,4,Comptroller of Public Accounts,,REP,Glenn Hegar,40,24,16
+Presidio,5,Comptroller of Public Accounts,,REP,Glenn Hegar,26,7,19
+Presidio,6,Comptroller of Public Accounts,,REP,Glenn Hegar,11,2,9
+Presidio,7,Comptroller of Public Accounts,,REP,Glenn Hegar,214,61,153
+Presidio,1,Comptroller of Public Accounts,,DEM,Joi Chevalier,96,25,71
+Presidio,2,Comptroller of Public Accounts,,DEM,Joi Chevalier,119,54,65
+Presidio,3,Comptroller of Public Accounts,,DEM,Joi Chevalier,15,6,9
+Presidio,4,Comptroller of Public Accounts,,DEM,Joi Chevalier,204,78,126
+Presidio,5,Comptroller of Public Accounts,,DEM,Joi Chevalier,126,48,78
 Presidio,6,Comptroller of Public Accounts,,DEM,Joi Chevalier,4,0,4
-Presidio,7,Comptroller of Public Accounts,,DEM,Joi Chevalier,382,143,525
-Presidio,1,Comptroller of Public Accounts,,LIB,Ben Sanders,4,3,7
-Presidio,2,Comptroller of Public Accounts,,LIB,Ben Sanders,2,5,7
+Presidio,7,Comptroller of Public Accounts,,DEM,Joi Chevalier,525,143,382
+Presidio,1,Comptroller of Public Accounts,,LIB,Ben Sanders,7,3,4
+Presidio,2,Comptroller of Public Accounts,,LIB,Ben Sanders,7,5,2
 Presidio,3,Comptroller of Public Accounts,,LIB,Ben Sanders,0,0,0
-Presidio,4,Comptroller of Public Accounts,,LIB,Ben Sanders,9,3,12
-Presidio,5,Comptroller of Public Accounts,,LIB,Ben Sanders,2,3,5
+Presidio,4,Comptroller of Public Accounts,,LIB,Ben Sanders,12,3,9
+Presidio,5,Comptroller of Public Accounts,,LIB,Ben Sanders,5,3,2
 Presidio,6,Comptroller of Public Accounts,,LIB,Ben Sanders,0,0,0
-Presidio,7,Comptroller of Public Accounts,,LIB,Ben Sanders,20,11,31
-Presidio,1,Commissioner of the General Land Office,,REP,George P. Bush,50,28,78
-Presidio,2,Commissioner of the General Land Office,,REP,George P. Bush,30,20,50
-Presidio,3,Commissioner of the General Land Office,,REP,George P. Bush,3,1,4
-Presidio,4,Commissioner of the General Land Office,,REP,George P. Bush,19,23,42
-Presidio,5,Commissioner of the General Land Office,,REP,George P. Bush,21,10,31
-Presidio,6,Commissioner of the General Land Office,,REP,George P. Bush,8,2,10
-Presidio,7,Commissioner of the General Land Office,,REP,George P. Bush,155,66,221
-Presidio,1,Commissioner of the General Land Office,,DEM,Miguel Suazo,74,26,100
-Presidio,2,Commissioner of the General Land Office,,DEM,Miguel Suazo,58,54,112
-Presidio,3,Commissioner of the General Land Office,,DEM,Miguel Suazo,9,6,15
-Presidio,4,Commissioner of the General Land Office,,DEM,Miguel Suazo,131,81,212
-Presidio,5,Commissioner of the General Land Office,,DEM,Miguel Suazo,75,46,121
+Presidio,7,Comptroller of Public Accounts,,LIB,Ben Sanders,31,11,20
+Presidio,1,Commissioner of the General Land Office,,REP,George P. Bush,78,28,50
+Presidio,2,Commissioner of the General Land Office,,REP,George P. Bush,50,20,30
+Presidio,3,Commissioner of the General Land Office,,REP,George P. Bush,4,1,3
+Presidio,4,Commissioner of the General Land Office,,REP,George P. Bush,42,23,19
+Presidio,5,Commissioner of the General Land Office,,REP,George P. Bush,31,10,21
+Presidio,6,Commissioner of the General Land Office,,REP,George P. Bush,10,2,8
+Presidio,7,Commissioner of the General Land Office,,REP,George P. Bush,221,66,155
+Presidio,1,Commissioner of the General Land Office,,DEM,Miguel Suazo,100,26,74
+Presidio,2,Commissioner of the General Land Office,,DEM,Miguel Suazo,112,54,58
+Presidio,3,Commissioner of the General Land Office,,DEM,Miguel Suazo,15,6,9
+Presidio,4,Commissioner of the General Land Office,,DEM,Miguel Suazo,212,81,131
+Presidio,5,Commissioner of the General Land Office,,DEM,Miguel Suazo,121,46,75
 Presidio,6,Commissioner of the General Land Office,,DEM,Miguel Suazo,4,0,4
-Presidio,7,Commissioner of the General Land Office,,DEM,Miguel Suazo,393,144,537
-Presidio,1,Commissioner of the General Land Office,,LIB,Matt Pina,8,3,11
-Presidio,2,Commissioner of the General Land Office,,LIB,Matt Pina,4,4,8
+Presidio,7,Commissioner of the General Land Office,,DEM,Miguel Suazo,537,144,393
+Presidio,1,Commissioner of the General Land Office,,LIB,Matt Pina,11,3,8
+Presidio,2,Commissioner of the General Land Office,,LIB,Matt Pina,8,4,4
 Presidio,3,Commissioner of the General Land Office,,LIB,Matt Pina,0,0,0
-Presidio,4,Commissioner of the General Land Office,,LIB,Matt Pina,4,4,8
-Presidio,5,Commissioner of the General Land Office,,LIB,Matt Pina,3,1,4
+Presidio,4,Commissioner of the General Land Office,,LIB,Matt Pina,8,4,4
+Presidio,5,Commissioner of the General Land Office,,LIB,Matt Pina,4,1,3
 Presidio,6,Commissioner of the General Land Office,,LIB,Matt Pina,1,0,1
-Presidio,7,Commissioner of the General Land Office,,LIB,Matt Pina,12,9,21
-Presidio,1,Commissioner of Agriculture,,REP,Sid Miller,54,27,81
-Presidio,2,Commissioner of Agriculture,,REP,Sid Miller,26,15,41
-Presidio,3,Commissioner of Agriculture,,REP,Sid Miller,2,1,3
-Presidio,4,Commissioner of Agriculture,,REP,Sid Miller,17,22,39
-Presidio,5,Commissioner of Agriculture,,REP,Sid Miller,16,10,26
-Presidio,6,Commissioner of Agriculture,,REP,Sid Miller,9,2,11
-Presidio,7,Commissioner of Agriculture,,REP,Sid Miller,137,54,191
-Presidio,1,Commissioner of Agriculture,,DEM,Kim Olson,74,28,102
-Presidio,2,Commissioner of Agriculture,,DEM,Kim Olson,68,59,127
-Presidio,3,Commissioner of Agriculture,,DEM,Kim Olson,10,6,16
-Presidio,4,Commissioner of Agriculture,,DEM,Kim Olson,127,82,209
-Presidio,5,Commissioner of Agriculture,,DEM,Kim Olson,81,48,129
+Presidio,7,Commissioner of the General Land Office,,LIB,Matt Pina,21,9,12
+Presidio,1,Commissioner of Agriculture,,REP,Sid Miller,81,27,54
+Presidio,2,Commissioner of Agriculture,,REP,Sid Miller,41,15,26
+Presidio,3,Commissioner of Agriculture,,REP,Sid Miller,3,1,2
+Presidio,4,Commissioner of Agriculture,,REP,Sid Miller,39,22,17
+Presidio,5,Commissioner of Agriculture,,REP,Sid Miller,26,10,16
+Presidio,6,Commissioner of Agriculture,,REP,Sid Miller,11,2,9
+Presidio,7,Commissioner of Agriculture,,REP,Sid Miller,191,54,137
+Presidio,1,Commissioner of Agriculture,,DEM,Kim Olson,102,28,74
+Presidio,2,Commissioner of Agriculture,,DEM,Kim Olson,127,59,68
+Presidio,3,Commissioner of Agriculture,,DEM,Kim Olson,16,6,10
+Presidio,4,Commissioner of Agriculture,,DEM,Kim Olson,209,82,127
+Presidio,5,Commissioner of Agriculture,,DEM,Kim Olson,129,48,81
 Presidio,6,Commissioner of Agriculture,,DEM,Kim Olson,4,0,4
-Presidio,7,Commissioner of Agriculture,,DEM,Kim Olson,399,154,553
-Presidio,1,Commissioner of Agriculture,,LIB,Richard Carpenter,4,2,6
-Presidio,2,Commissioner of Agriculture,,LIB,Richard Carpenter,1,3,4
+Presidio,7,Commissioner of Agriculture,,DEM,Kim Olson,553,154,399
+Presidio,1,Commissioner of Agriculture,,LIB,Richard Carpenter,6,2,4
+Presidio,2,Commissioner of Agriculture,,LIB,Richard Carpenter,4,3,1
 Presidio,3,Commissioner of Agriculture,,LIB,Richard Carpenter,0,0,0
-Presidio,4,Commissioner of Agriculture,,LIB,Richard Carpenter,6,3,9
-Presidio,5,Commissioner of Agriculture,,LIB,Richard Carpenter,1,2,3
+Presidio,4,Commissioner of Agriculture,,LIB,Richard Carpenter,9,3,6
+Presidio,5,Commissioner of Agriculture,,LIB,Richard Carpenter,3,2,1
 Presidio,6,Commissioner of Agriculture,,LIB,Richard Carpenter,0,0,0
-Presidio,7,Commissioner of Agriculture,,LIB,Richard Carpenter,17,13,30
-Presidio,1,Railroad Commissioner,,REP,Christi Craddick,52,28,80
-Presidio,2,Railroad Commissioner,,REP,Christi Craddick,28,17,45
-Presidio,3,Railroad Commissioner,,REP,Christi Craddick,2,1,3
-Presidio,4,Railroad Commissioner,,REP,Christi Craddick,14,22,36
-Presidio,5,Railroad Commissioner,,REP,Christi Craddick,17,9,26
-Presidio,6,Railroad Commissioner,,REP,Christi Craddick,9,2,11
-Presidio,7,Railroad Commissioner,,REP,Christi Craddick,142,61,203
-Presidio,1,Railroad Commissioner,,DEM,Roman McAllen,75,28,103
-Presidio,2,Railroad Commissioner,,DEM,Roman McAllen,64,56,120
-Presidio,3,Railroad Commissioner,,DEM,Roman McAllen,9,6,15
-Presidio,4,Railroad Commissioner,,DEM,Roman McAllen,128,83,211
-Presidio,5,Railroad Commissioner,,DEM,Roman McAllen,81,46,127
+Presidio,7,Commissioner of Agriculture,,LIB,Richard Carpenter,30,13,17
+Presidio,1,Railroad Commissioner,,REP,Christi Craddick,80,28,52
+Presidio,2,Railroad Commissioner,,REP,Christi Craddick,45,17,28
+Presidio,3,Railroad Commissioner,,REP,Christi Craddick,3,1,2
+Presidio,4,Railroad Commissioner,,REP,Christi Craddick,36,22,14
+Presidio,5,Railroad Commissioner,,REP,Christi Craddick,26,9,17
+Presidio,6,Railroad Commissioner,,REP,Christi Craddick,11,2,9
+Presidio,7,Railroad Commissioner,,REP,Christi Craddick,203,61,142
+Presidio,1,Railroad Commissioner,,DEM,Roman McAllen,103,28,75
+Presidio,2,Railroad Commissioner,,DEM,Roman McAllen,120,56,64
+Presidio,3,Railroad Commissioner,,DEM,Roman McAllen,15,6,9
+Presidio,4,Railroad Commissioner,,DEM,Roman McAllen,211,83,128
+Presidio,5,Railroad Commissioner,,DEM,Roman McAllen,127,46,81
 Presidio,6,Railroad Commissioner,,DEM,Roman McAllen,4,0,4
-Presidio,7,Railroad Commissioner,,DEM,Roman McAllen,387,142,529
-Presidio,1,Railroad Commissioner,,LIB,Mike Wright,6,1,7
-Presidio,2,Railroad Commissioner,,LIB,Mike Wright,3,4,7
+Presidio,7,Railroad Commissioner,,DEM,Roman McAllen,529,142,387
+Presidio,1,Railroad Commissioner,,LIB,Mike Wright,7,1,6
+Presidio,2,Railroad Commissioner,,LIB,Mike Wright,7,4,3
 Presidio,3,Railroad Commissioner,,LIB,Mike Wright,0,0,0
-Presidio,4,Railroad Commissioner,,LIB,Mike Wright,10,3,13
-Presidio,5,Railroad Commissioner,,LIB,Mike Wright,2,4,6
+Presidio,4,Railroad Commissioner,,LIB,Mike Wright,13,3,10
+Presidio,5,Railroad Commissioner,,LIB,Mike Wright,6,4,2
 Presidio,6,Railroad Commissioner,,LIB,Mike Wright,0,0,0
-Presidio,7,Railroad Commissioner,,LIB,Mike Wright,24,15,39
-Presidio,1,State Representative,74,DEM,Poncho Nevarez,90,35,125
-Presidio,2,State Representative,74,DEM,Poncho Nevarez,71,66,137
-Presidio,3,State Representative,74,DEM,Poncho Nevarez,9,6,15
-Presidio,4,State Representative,74,DEM,Poncho Nevarez,142,95,237
-Presidio,5,State Representative,74,DEM,Poncho Nevarez,89,56,145
-Presidio,6,State Representative,74,DEM,Poncho Nevarez,5,1,6
-Presidio,7,State Representative,74,DEM,Poncho Nevarez,452,172,624
+Presidio,7,Railroad Commissioner,,LIB,Mike Wright,39,15,24
+Presidio,1,State Representative,74,DEM,Poncho Nevarez,125,35,90
+Presidio,2,State Representative,74,DEM,Poncho Nevarez,137,66,71
+Presidio,3,State Representative,74,DEM,Poncho Nevarez,15,6,9
+Presidio,4,State Representative,74,DEM,Poncho Nevarez,237,95,142
+Presidio,5,State Representative,74,DEM,Poncho Nevarez,145,56,89
+Presidio,6,State Representative,74,DEM,Poncho Nevarez,6,1,5
+Presidio,7,State Representative,74,DEM,Poncho Nevarez,624,172,452

@@ -1,628 +1,628 @@
-county,precinct,office,district,party,candidate,early_voting,election_day,votes
-Dickens,Precinct 1,Ballots Cast,,,,,,80
-Dickens,Precinct 1,Straight Party,,REP,Republican Party,19,13,32
-Dickens,Precinct 1,Straight Party,,DEM,Democratic Party,0,5,5
+county,precinct,office,district,party,candidate,votes,election_day,early_voting
+Dickens,Precinct 1,Ballots Cast,,,,80,,
+Dickens,Precinct 1,Straight Party,,REP,Republican Party,32,13,19
+Dickens,Precinct 1,Straight Party,,DEM,Democratic Party,5,5,0
 Dickens,Precinct 1,Straight Party,,LIB,Libertarian Party,0,0,0
 Dickens,Precinct 1,Straight Party,,,Over Votes,0,0,0
-Dickens,Precinct 1,Straight Party,,,Under Votes,12,22,34
-Dickens,Precinct 1,U.S. Senate,,REP,Ted Cruz,30,31,61
-Dickens,Precinct 1,U.S. Senate,,DEM,Beto O'Rourke,0,7,7
+Dickens,Precinct 1,Straight Party,,,Under Votes,34,22,12
+Dickens,Precinct 1,U.S. Senate,,REP,Ted Cruz,61,31,30
+Dickens,Precinct 1,U.S. Senate,,DEM,Beto O'Rourke,7,7,0
 Dickens,Precinct 1,U.S. Senate,,LIB,Neal M. Dikeman,1,0,1
 Dickens,Precinct 1,U.S. Senate,,,Over Votes,0,0,0
-Dickens,Precinct 1,U.S. Senate,,,Under Votes,0,2,2
-Dickens,Precinct 1,U.S. House,13,REP,Mac Thornberry,31,32,63
-Dickens,Precinct 1,U.S. House,13,DEM,Greg Sagan,0,8,8
+Dickens,Precinct 1,U.S. Senate,,,Under Votes,2,2,0
+Dickens,Precinct 1,U.S. House,13,REP,Mac Thornberry,63,32,31
+Dickens,Precinct 1,U.S. House,13,DEM,Greg Sagan,8,8,0
 Dickens,Precinct 1,U.S. House,13,LIB,Calvin DeWeese,0,0,0
 Dickens,Precinct 1,U.S. House,13,,Over Votes,0,0,0
 Dickens,Precinct 1,U.S. House,13,,Under Votes,0,0,0
-Dickens,Precinct 1,Governor,,REP,Greg Abbott,29,31,60
-Dickens,Precinct 1,Governor,,DEM,Lupe Valdez,0,8,8
-Dickens,Precinct 1,Governor,,LIB,Mark Jay Tippetts,1,1,2
+Dickens,Precinct 1,Governor,,REP,Greg Abbott,60,31,29
+Dickens,Precinct 1,Governor,,DEM,Lupe Valdez,8,8,0
+Dickens,Precinct 1,Governor,,LIB,Mark Jay Tippetts,2,1,1
 Dickens,Precinct 1,Governor,,,Over Votes,0,0,0
 Dickens,Precinct 1,Governor,,,Under Votes,1,0,1
-Dickens,Precinct 1,Lieutenant Governor,,REP,Dan Patrick,29,31,60
-Dickens,Precinct 1,Lieutenant Governor,,DEM,Mike Collier,2,8,10
+Dickens,Precinct 1,Lieutenant Governor,,REP,Dan Patrick,60,31,29
+Dickens,Precinct 1,Lieutenant Governor,,DEM,Mike Collier,10,8,2
 Dickens,Precinct 1,Lieutenant Governor,,LIB,Kerry Douglas McKennon,0,0,0
 Dickens,Precinct 1,Lieutenant Governor,,,Over Votes,0,0,0
-Dickens,Precinct 1,Lieutenant Governor,,,Under Votes,0,1,1
-Dickens,Precinct 1,Attorney General,,REP,Ken Paxton,28,30,58
-Dickens,Precinct 1,Attorney General,,DEM,Justin Nelson,2,10,12
+Dickens,Precinct 1,Lieutenant Governor,,,Under Votes,1,1,0
+Dickens,Precinct 1,Attorney General,,REP,Ken Paxton,58,30,28
+Dickens,Precinct 1,Attorney General,,DEM,Justin Nelson,12,10,2
 Dickens,Precinct 1,Attorney General,,LIB,Michael Ray Harris,1,0,1
 Dickens,Precinct 1,Attorney General,,,Over Votes,0,0,0
 Dickens,Precinct 1,Attorney General,,,Under Votes,0,0,0
-Dickens,Precinct 1,Comptroller of Public Accounts,,REP,Glenn Hegar,29,31,60
-Dickens,Precinct 1,Comptroller of Public Accounts,,DEM,Joi Chevalier,1,8,9
-Dickens,Precinct 1,Comptroller of Public Accounts,,LIB,Ben Sanders,1,1,2
+Dickens,Precinct 1,Comptroller of Public Accounts,,REP,Glenn Hegar,60,31,29
+Dickens,Precinct 1,Comptroller of Public Accounts,,DEM,Joi Chevalier,9,8,1
+Dickens,Precinct 1,Comptroller of Public Accounts,,LIB,Ben Sanders,2,1,1
 Dickens,Precinct 1,Comptroller of Public Accounts,,,Over Votes,0,0,0
 Dickens,Precinct 1,Comptroller of Public Accounts,,,Under Votes,0,0,0
-Dickens,Precinct 1,Commissioner of the General Land Office,,REP,George P. Bush,28,30,58
-Dickens,Precinct 1,Commissioner of the General Land Office,,DEM,Miguel Suazo,2,9,11
-Dickens,Precinct 1,Commissioner of the General Land Office,,LIB,Matt Pi_a,1,1,2
+Dickens,Precinct 1,Commissioner of the General Land Office,,REP,George P. Bush,58,30,28
+Dickens,Precinct 1,Commissioner of the General Land Office,,DEM,Miguel Suazo,11,9,2
+Dickens,Precinct 1,Commissioner of the General Land Office,,LIB,Matt Pi_a,2,1,1
 Dickens,Precinct 1,Commissioner of the General Land Office,,,Over Votes,0,0,0
 Dickens,Precinct 1,Commissioner of the General Land Office,,,Under Votes,0,0,0
-Dickens,Precinct 1,Commissioner of Agriculture,,REP,Sid Miller,29,30,59
-Dickens,Precinct 1,Commissioner of Agriculture,,DEM,Kim Olson,1,10,11
+Dickens,Precinct 1,Commissioner of Agriculture,,REP,Sid Miller,59,30,29
+Dickens,Precinct 1,Commissioner of Agriculture,,DEM,Kim Olson,11,10,1
 Dickens,Precinct 1,Commissioner of Agriculture,,LIB,Richard Carpenter,1,0,1
 Dickens,Precinct 1,Commissioner of Agriculture,,,Over Votes,0,0,0
 Dickens,Precinct 1,Commissioner of Agriculture,,,Under Votes,0,0,0
-Dickens,Precinct 1,Railroad Commissioner,,REP,Christi Craddick,30,32,62
-Dickens,Precinct 1,Railroad Commissioner,,DEM,Roman McAllen,1,8,9
+Dickens,Precinct 1,Railroad Commissioner,,REP,Christi Craddick,62,32,30
+Dickens,Precinct 1,Railroad Commissioner,,DEM,Roman McAllen,9,8,1
 Dickens,Precinct 1,Railroad Commissioner,,LIB,Mike Wright,0,0,0
 Dickens,Precinct 1,Railroad Commissioner,,,Over Votes,0,0,0
 Dickens,Precinct 1,Railroad Commissioner,,,Under Votes,0,0,0
-Dickens,Precinct 1,"Justice, Supreme Court, Place 2",,,Jimmy Blacklock,30,31,61
-Dickens,Precinct 1,"Justice, Supreme Court, Place 2",,,Steven Kirkland,1,8,9
+Dickens,Precinct 1,"Justice, Supreme Court, Place 2",,,Jimmy Blacklock,61,31,30
+Dickens,Precinct 1,"Justice, Supreme Court, Place 2",,,Steven Kirkland,9,8,1
 Dickens,Precinct 1,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0
-Dickens,Precinct 1,"Justice, Supreme Court, Place 2",,,Under Votes,0,1,1
-Dickens,Precinct 1,"Justice, Supreme Court, Place 4",,,John Devine,29,31,60
-Dickens,Precinct 1,"Justice, Supreme Court, Place 4",,,R.K. Sandill,2,9,11
+Dickens,Precinct 1,"Justice, Supreme Court, Place 2",,,Under Votes,1,1,0
+Dickens,Precinct 1,"Justice, Supreme Court, Place 4",,,John Devine,60,31,29
+Dickens,Precinct 1,"Justice, Supreme Court, Place 4",,,R.K. Sandill,11,9,2
 Dickens,Precinct 1,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0
 Dickens,Precinct 1,"Justice, Supreme Court, Place 4",,,Under Votes,0,0,0
-Dickens,Precinct 1,"Justice, Supreme Court, Place 6",,,Jeff Brown,29,32,61
-Dickens,Precinct 1,"Justice, Supreme Court, Place 6",,,Kathy Cheng,1,8,9
+Dickens,Precinct 1,"Justice, Supreme Court, Place 6",,,Jeff Brown,61,32,29
+Dickens,Precinct 1,"Justice, Supreme Court, Place 6",,,Kathy Cheng,9,8,1
 Dickens,Precinct 1,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0
 Dickens,Precinct 1,"Justice, Supreme Court, Place 6",,,Under Votes,1,0,1
-Dickens,Precinct 1,"Presiding Judge, Court of Criminal Appeals",,,Sharon Keller,30,30,60
-Dickens,Precinct 1,"Presiding Judge, Court of Criminal Appeals",,,Maria T. (Terri) Jackson,1,10,11
+Dickens,Precinct 1,"Presiding Judge, Court of Criminal Appeals",,,Sharon Keller,60,30,30
+Dickens,Precinct 1,"Presiding Judge, Court of Criminal Appeals",,,Maria T. (Terri) Jackson,11,10,1
 Dickens,Precinct 1,"Presiding Judge, Court of Criminal Appeals",,,William Bryan Strange III,0,0,0
 Dickens,Precinct 1,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0
 Dickens,Precinct 1,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,0,0,0
-Dickens,Precinct 1,"Judge, Court of Criminal Appeals, Place 7",,,Barbara Parker Hervey,30,32,62
-Dickens,Precinct 1,"Judge, Court of Criminal Appeals, Place 7",,,Ramona Franklin,1,8,9
+Dickens,Precinct 1,"Judge, Court of Criminal Appeals, Place 7",,,Barbara Parker Hervey,62,32,30
+Dickens,Precinct 1,"Judge, Court of Criminal Appeals, Place 7",,,Ramona Franklin,9,8,1
 Dickens,Precinct 1,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0
 Dickens,Precinct 1,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,0,0,0
-Dickens,Precinct 1,"Judge, Court of Criminal Appeals, Place 8",,,Michelle Slaughter,29,33,62
-Dickens,Precinct 1,"Judge, Court of Criminal Appeals, Place 8",,,Mark Ash,2,2,4
+Dickens,Precinct 1,"Judge, Court of Criminal Appeals, Place 8",,,Michelle Slaughter,62,33,29
+Dickens,Precinct 1,"Judge, Court of Criminal Appeals, Place 8",,,Mark Ash,4,2,2
 Dickens,Precinct 1,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0
-Dickens,Precinct 1,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,1,5,6
-Dickens,Precinct 1,State Representative,68,REP,Drew Springer,31,32,63
+Dickens,Precinct 1,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,6,5,1
+Dickens,Precinct 1,State Representative,68,REP,Drew Springer,63,32,31
 Dickens,Precinct 1,State Representative,68,,Over Votes,0,0,0
-Dickens,Precinct 1,State Representative,68,,Under Votes,0,8,8
-Dickens,Precinct 1,"Justice, 7th Court of Appeals District, Place No. 2",,,Judy Parker,29,32,61
+Dickens,Precinct 1,State Representative,68,,Under Votes,8,8,0
+Dickens,Precinct 1,"Justice, 7th Court of Appeals District, Place No. 2",,,Judy Parker,61,32,29
 Dickens,Precinct 1,"Justice, 7th Court of Appeals District, Place No. 2",,,Over Votes,0,0,0
-Dickens,Precinct 1,"Justice, 7th Court of Appeals District, Place No. 2",,,Under Votes,2,8,10
-Dickens,Precinct 1,"Justice, 7th Court of Appeals District, Place No. 3",,,Pat Pirtle,29,32,61
+Dickens,Precinct 1,"Justice, 7th Court of Appeals District, Place No. 2",,,Under Votes,10,8,2
+Dickens,Precinct 1,"Justice, 7th Court of Appeals District, Place No. 3",,,Pat Pirtle,61,32,29
 Dickens,Precinct 1,"Justice, 7th Court of Appeals District, Place No. 3",,,Over Votes,0,0,0
-Dickens,Precinct 1,"Justice, 7th Court of Appeals District, Place No. 3",,,Under Votes,2,8,10
-Dickens,Precinct 1,"District Judge, 110th Judicial District",,,William P. Smith,30,33,63
+Dickens,Precinct 1,"Justice, 7th Court of Appeals District, Place No. 3",,,Under Votes,10,8,2
+Dickens,Precinct 1,"District Judge, 110th Judicial District",,,William P. Smith,63,33,30
 Dickens,Precinct 1,"District Judge, 110th Judicial District",,,Over Votes,0,0,0
-Dickens,Precinct 1,"District Judge, 110th Judicial District",,,Under Votes,1,7,8
-Dickens,Precinct 1,County Judge,,,Kevin Brendle,30,36,66
+Dickens,Precinct 1,"District Judge, 110th Judicial District",,,Under Votes,8,7,1
+Dickens,Precinct 1,County Judge,,,Kevin Brendle,66,36,30
 Dickens,Precinct 1,County Judge,,,Over Votes,0,0,0
-Dickens,Precinct 1,County Judge,,,Under Votes,0,4,4
-Dickens,Precinct 1,County Attorney - Unexpired Term,,,Aaron Clements (W,1,8,9
+Dickens,Precinct 1,County Judge,,,Under Votes,4,4,0
+Dickens,Precinct 1,County Attorney - Unexpired Term,,,Aaron Clements (W,9,8,1
 Dickens,Precinct 1,County Attorney - Unexpired Term,,,Over Votes,0,0,0
-Dickens,Precinct 1,County Attorney - Unexpired Term,,,Under Votes,27,36,63
-Dickens,Precinct 1,District and County Clerk,,,Becky S. Hill,31,35,66
+Dickens,Precinct 1,County Attorney - Unexpired Term,,,Under Votes,63,36,27
+Dickens,Precinct 1,District and County Clerk,,,Becky S. Hill,66,35,31
 Dickens,Precinct 1,District and County Clerk,,,Over Votes,0,0,0
-Dickens,Precinct 1,District and County Clerk,,,Under Votes,0,5,5
-Dickens,Precinct 1,County Treasurer,,,Darla Thomason,31,36,67
+Dickens,Precinct 1,District and County Clerk,,,Under Votes,5,5,0
+Dickens,Precinct 1,County Treasurer,,,Darla Thomason,67,36,31
 Dickens,Precinct 1,County Treasurer,,,Over Votes,0,0,0
-Dickens,Precinct 1,County Treasurer,,,Under Votes,0,4,4
-Dickens,Precinct 1,Justice of the Peace,,,Nancy Stone,31,35,66
+Dickens,Precinct 1,County Treasurer,,,Under Votes,4,4,0
+Dickens,Precinct 1,Justice of the Peace,,,Nancy Stone,66,35,31
 Dickens,Precinct 1,Justice of the Peace,,,Over Votes,0,0,0
-Dickens,Precinct 1,Justice of the Peace,,,Under Votes,0,5,5
-Dickens,Precinct 1,Straight Party,,REP,Republican Party,21,7,28
-Dickens,Precinct 1,Straight Party,,DEM,Democratic Party,0,2,2
+Dickens,Precinct 1,Justice of the Peace,,,Under Votes,5,5,0
+Dickens,Precinct 1,Straight Party,,REP,Republican Party,28,7,21
+Dickens,Precinct 1,Straight Party,,DEM,Democratic Party,2,2,0
 Dickens,Precinct 1,Straight Party,,LIB,Libertarian Party,0,0,0
 Dickens,Precinct 1,Straight Party,,,Over Votes,0,0,0
-Dickens,Precinct 1,Straight Party,,,Under Votes,19,17,36
-Dickens,Precinct 1,U.S. Senate,,REP,Ted Cruz,34,20,54
-Dickens,Precinct 1,U.S. Senate,,DEM,Beto O'Rourke,4,4,8
-Dickens,Precinct 1,U.S. Senate,,LIB,Neal M. Dikeman,0,1,1
+Dickens,Precinct 1,Straight Party,,,Under Votes,36,17,19
+Dickens,Precinct 1,U.S. Senate,,REP,Ted Cruz,54,20,34
+Dickens,Precinct 1,U.S. Senate,,DEM,Beto O'Rourke,8,4,4
+Dickens,Precinct 1,U.S. Senate,,LIB,Neal M. Dikeman,1,1,0
 Dickens,Precinct 1,U.S. Senate,,,Over Votes,0,0,0
-Dickens,Precinct 1,U.S. Senate,,,Under Votes,0,1,1
-Dickens,Precinct 1,U.S. House,13,REP,Mac Thornberry,33,22,55
-Dickens,Precinct 1,U.S. House,13,DEM,Greg Sagan,3,2,5
+Dickens,Precinct 1,U.S. Senate,,,Under Votes,1,1,0
+Dickens,Precinct 1,U.S. House,13,REP,Mac Thornberry,55,22,33
+Dickens,Precinct 1,U.S. House,13,DEM,Greg Sagan,5,2,3
 Dickens,Precinct 1,U.S. House,13,LIB,Calvin DeWeese,0,0,0
 Dickens,Precinct 1,U.S. House,13,,Over Votes,0,0,0
-Dickens,Precinct 1,U.S. House,13,,Under Votes,1,2,3
-Dickens,Precinct 1,Governor,,REP,Greg Abbott,33,19,52
-Dickens,Precinct 1,Governor,,DEM,Lupe Valdez,4,6,10
+Dickens,Precinct 1,U.S. House,13,,Under Votes,3,2,1
+Dickens,Precinct 1,Governor,,REP,Greg Abbott,52,19,33
+Dickens,Precinct 1,Governor,,DEM,Lupe Valdez,10,6,4
 Dickens,Precinct 1,Governor,,LIB,Mark Jay Tippetts,0,0,0
 Dickens,Precinct 1,Governor,,,Over Votes,0,0,0
-Dickens,Precinct 1,Governor,,,Under Votes,1,1,2
-Dickens,Precinct 1,Lieutenant Governor,,REP,Dan Patrick,28,12,40
-Dickens,Precinct 1,Lieutenant Governor,,DEM,Mike Collier,7,12,19
+Dickens,Precinct 1,Governor,,,Under Votes,2,1,1
+Dickens,Precinct 1,Lieutenant Governor,,REP,Dan Patrick,40,12,28
+Dickens,Precinct 1,Lieutenant Governor,,DEM,Mike Collier,19,12,7
 Dickens,Precinct 1,Lieutenant Governor,,LIB,Kerry Douglas McKennon,0,0,0
 Dickens,Precinct 1,Lieutenant Governor,,,Over Votes,0,0,0
-Dickens,Precinct 1,Lieutenant Governor,,,Under Votes,3,2,5
-Dickens,Precinct 1,Attorney General,,REP,Ken Paxton,33,20,53
-Dickens,Precinct 1,Attorney General,,DEM,Justin Nelson,3,5,8
+Dickens,Precinct 1,Lieutenant Governor,,,Under Votes,5,2,3
+Dickens,Precinct 1,Attorney General,,REP,Ken Paxton,53,20,33
+Dickens,Precinct 1,Attorney General,,DEM,Justin Nelson,8,5,3
 Dickens,Precinct 1,Attorney General,,LIB,Michael Ray Harris,0,0,0
 Dickens,Precinct 1,Attorney General,,,Over Votes,0,0,0
-Dickens,Precinct 1,Attorney General,,,Under Votes,1,1,2
-Dickens,Precinct 1,Comptroller of Public Accounts,,REP,Glenn Hegar,33,19,52
-Dickens,Precinct 1,Comptroller of Public Accounts,,DEM,Joi Chevalier,3,4,7
-Dickens,Precinct 1,Comptroller of Public Accounts,,LIB,Ben Sanders,0,1,1
+Dickens,Precinct 1,Attorney General,,,Under Votes,2,1,1
+Dickens,Precinct 1,Comptroller of Public Accounts,,REP,Glenn Hegar,52,19,33
+Dickens,Precinct 1,Comptroller of Public Accounts,,DEM,Joi Chevalier,7,4,3
+Dickens,Precinct 1,Comptroller of Public Accounts,,LIB,Ben Sanders,1,1,0
 Dickens,Precinct 1,Comptroller of Public Accounts,,,Over Votes,0,0,0
-Dickens,Precinct 1,Comptroller of Public Accounts,,,Under Votes,1,2,3
-Dickens,Precinct 1,Commissioner of the General Land Office,,REP,George P. Bush,33,20,53
-Dickens,Precinct 1,Commissioner of the General Land Office,,DEM,Miguel Suazo,3,4,7
-Dickens,Precinct 1,Commissioner of the General Land Office,,LIB,Matt Pi_a,0,1,1
+Dickens,Precinct 1,Comptroller of Public Accounts,,,Under Votes,3,2,1
+Dickens,Precinct 1,Commissioner of the General Land Office,,REP,George P. Bush,53,20,33
+Dickens,Precinct 1,Commissioner of the General Land Office,,DEM,Miguel Suazo,7,4,3
+Dickens,Precinct 1,Commissioner of the General Land Office,,LIB,Matt Pi_a,1,1,0
 Dickens,Precinct 1,Commissioner of the General Land Office,,,Over Votes,0,0,0
-Dickens,Precinct 1,Commissioner of the General Land Office,,,Under Votes,1,1,2
-Dickens,Precinct 1,Commissioner of Agriculture,,REP,Sid Miller,32,20,52
-Dickens,Precinct 1,Commissioner of Agriculture,,DEM,Kim Olson,4,5,9
+Dickens,Precinct 1,Commissioner of the General Land Office,,,Under Votes,2,1,1
+Dickens,Precinct 1,Commissioner of Agriculture,,REP,Sid Miller,52,20,32
+Dickens,Precinct 1,Commissioner of Agriculture,,DEM,Kim Olson,9,5,4
 Dickens,Precinct 1,Commissioner of Agriculture,,LIB,Richard Carpenter,1,0,1
 Dickens,Precinct 1,Commissioner of Agriculture,,,Over Votes,0,0,0
-Dickens,Precinct 1,Commissioner of Agriculture,,,Under Votes,1,1,2
-Dickens,Precinct 1,Railroad Commissioner,,REP,Christi Craddick,33,20,53
-Dickens,Precinct 1,Railroad Commissioner,,DEM,Roman McAllen,3,4,7
+Dickens,Precinct 1,Commissioner of Agriculture,,,Under Votes,2,1,1
+Dickens,Precinct 1,Railroad Commissioner,,REP,Christi Craddick,53,20,33
+Dickens,Precinct 1,Railroad Commissioner,,DEM,Roman McAllen,7,4,3
 Dickens,Precinct 1,Railroad Commissioner,,LIB,Mike Wright,0,0,0
 Dickens,Precinct 1,Railroad Commissioner,,,Over Votes,0,0,0
-Dickens,Precinct 1,Railroad Commissioner,,,Under Votes,1,2,3
-Dickens,Precinct 1,"Justice, Supreme Court, Place 2",,,Jimmy Blacklock,33,21,54
-Dickens,Precinct 1,"Justice, Supreme Court, Place 2",,,Steven Kirkland,3,2,5
+Dickens,Precinct 1,Railroad Commissioner,,,Under Votes,3,2,1
+Dickens,Precinct 1,"Justice, Supreme Court, Place 2",,,Jimmy Blacklock,54,21,33
+Dickens,Precinct 1,"Justice, Supreme Court, Place 2",,,Steven Kirkland,5,2,3
 Dickens,Precinct 1,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0
-Dickens,Precinct 1,"Justice, Supreme Court, Place 2",,,Under Votes,1,3,4
-Dickens,Precinct 1,"Justice, Supreme Court, Place 4",,,John Devine,33,20,53
-Dickens,Precinct 1,"Justice, Supreme Court, Place 4",,,R.K. Sandill,3,4,7
+Dickens,Precinct 1,"Justice, Supreme Court, Place 2",,,Under Votes,4,3,1
+Dickens,Precinct 1,"Justice, Supreme Court, Place 4",,,John Devine,53,20,33
+Dickens,Precinct 1,"Justice, Supreme Court, Place 4",,,R.K. Sandill,7,4,3
 Dickens,Precinct 1,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0
-Dickens,Precinct 1,"Justice, Supreme Court, Place 4",,,Under Votes,1,2,3
-Dickens,Precinct 1,"Justice, Supreme Court, Place 6",,,Jeff Brown,33,21,54
-Dickens,Precinct 1,"Justice, Supreme Court, Place 6",,,Kathy Cheng,4,3,7
+Dickens,Precinct 1,"Justice, Supreme Court, Place 4",,,Under Votes,3,2,1
+Dickens,Precinct 1,"Justice, Supreme Court, Place 6",,,Jeff Brown,54,21,33
+Dickens,Precinct 1,"Justice, Supreme Court, Place 6",,,Kathy Cheng,7,3,4
 Dickens,Precinct 1,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0
-Dickens,Precinct 1,"Justice, Supreme Court, Place 6",,,Under Votes,1,2,3
-Dickens,Precinct 1,"Presiding Judge, Court of Criminal Appeals",,,Sharon Keller,33,20,53
-Dickens,Precinct 1,"Presiding Judge, Court of Criminal Appeals",,,Maria T. (Terri) Jackson,4,2,6
-Dickens,Precinct 1,"Presiding Judge, Court of Criminal Appeals",,,William Bryan Strange III,0,1,1
+Dickens,Precinct 1,"Justice, Supreme Court, Place 6",,,Under Votes,3,2,1
+Dickens,Precinct 1,"Presiding Judge, Court of Criminal Appeals",,,Sharon Keller,53,20,33
+Dickens,Precinct 1,"Presiding Judge, Court of Criminal Appeals",,,Maria T. (Terri) Jackson,6,2,4
+Dickens,Precinct 1,"Presiding Judge, Court of Criminal Appeals",,,William Bryan Strange III,1,1,0
 Dickens,Precinct 1,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0
-Dickens,Precinct 1,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,1,3,4
-Dickens,Precinct 1,"Judge, Court of Criminal Appeals, Place 7",,,Barbara Parker Hervey,33,21,54
-Dickens,Precinct 1,"Judge, Court of Criminal Appeals, Place 7",,,Ramona Franklin,4,2,6
+Dickens,Precinct 1,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,4,3,1
+Dickens,Precinct 1,"Judge, Court of Criminal Appeals, Place 7",,,Barbara Parker Hervey,54,21,33
+Dickens,Precinct 1,"Judge, Court of Criminal Appeals, Place 7",,,Ramona Franklin,6,2,4
 Dickens,Precinct 1,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0
-Dickens,Precinct 1,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,1,3,4
-Dickens,Precinct 1,"Judge, Court of Criminal Appeals, Place 8",,,Michelle Slaughter,32,20,52
-Dickens,Precinct 1,"Judge, Court of Criminal Appeals, Place 8",,,Mark Ash,3,2,5
+Dickens,Precinct 1,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,4,3,1
+Dickens,Precinct 1,"Judge, Court of Criminal Appeals, Place 8",,,Michelle Slaughter,52,20,32
+Dickens,Precinct 1,"Judge, Court of Criminal Appeals, Place 8",,,Mark Ash,5,2,3
 Dickens,Precinct 1,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0
-Dickens,Precinct 1,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,2,4,6
-Dickens,Precinct 1,State Representative,68,REP,Drew Springer,33,22,55
+Dickens,Precinct 1,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,6,4,2
+Dickens,Precinct 1,State Representative,68,REP,Drew Springer,55,22,33
 Dickens,Precinct 1,State Representative,68,,Over Votes,0,0,0
-Dickens,Precinct 1,State Representative,68,,Under Votes,4,4,8
-Dickens,Precinct 1,"Justice, 7th Court of Appeals District, Place No. 2",,,Judy Parker,33,21,54
+Dickens,Precinct 1,State Representative,68,,Under Votes,8,4,4
+Dickens,Precinct 1,"Justice, 7th Court of Appeals District, Place No. 2",,,Judy Parker,54,21,33
 Dickens,Precinct 1,"Justice, 7th Court of Appeals District, Place No. 2",,,Over Votes,0,0,0
-Dickens,Precinct 1,"Justice, 7th Court of Appeals District, Place No. 2",,,Under Votes,4,5,9
-Dickens,Precinct 1,"Justice, 7th Court of Appeals District, Place No. 3",,,Pat Pirtle,32,21,53
+Dickens,Precinct 1,"Justice, 7th Court of Appeals District, Place No. 2",,,Under Votes,9,5,4
+Dickens,Precinct 1,"Justice, 7th Court of Appeals District, Place No. 3",,,Pat Pirtle,53,21,32
 Dickens,Precinct 1,"Justice, 7th Court of Appeals District, Place No. 3",,,Over Votes,0,0,0
-Dickens,Precinct 1,"Justice, 7th Court of Appeals District, Place No. 3",,,Under Votes,5,5,10
-Dickens,Precinct 1,"District Judge, 110th Judicial District",,,William P. Smith,33,21,54
+Dickens,Precinct 1,"Justice, 7th Court of Appeals District, Place No. 3",,,Under Votes,10,5,5
+Dickens,Precinct 1,"District Judge, 110th Judicial District",,,William P. Smith,54,21,33
 Dickens,Precinct 1,"District Judge, 110th Judicial District",,,Over Votes,0,0,0
-Dickens,Precinct 1,"District Judge, 110th Judicial District",,,Under Votes,4,5,9
-Dickens,Precinct 1,County Judge,,,Kevin Brendle,34,21,55
+Dickens,Precinct 1,"District Judge, 110th Judicial District",,,Under Votes,9,5,4
+Dickens,Precinct 1,County Judge,,,Kevin Brendle,55,21,34
 Dickens,Precinct 1,County Judge,,,Over Votes,0,0,0
-Dickens,Precinct 1,County Judge,,,Under Votes,4,5,9
-Dickens,Precinct 1,County Attorney - Unexpired Term,,,Aaron Clements (W,9,24,33
+Dickens,Precinct 1,County Judge,,,Under Votes,9,5,4
+Dickens,Precinct 1,County Attorney - Unexpired Term,,,Aaron Clements (W,33,24,9
 Dickens,Precinct 1,County Attorney - Unexpired Term,,,Over Votes,0,0,0
-Dickens,Precinct 1,County Attorney - Unexpired Term,,,Under Votes,28,14,42
-Dickens,Precinct 1,District and County Clerk,,,Becky S. Hill,33,22,55
+Dickens,Precinct 1,County Attorney - Unexpired Term,,,Under Votes,42,14,28
+Dickens,Precinct 1,District and County Clerk,,,Becky S. Hill,55,22,33
 Dickens,Precinct 1,District and County Clerk,,,Over Votes,0,0,0
-Dickens,Precinct 1,District and County Clerk,,,Under Votes,5,4,9
-Dickens,Precinct 2,Ballots Cast,,,,,,90
-Dickens,Precinct 2,County Treasurer,,,Darla Thomason,33,22,55
+Dickens,Precinct 1,District and County Clerk,,,Under Votes,9,4,5
+Dickens,Precinct 2,Ballots Cast,,,,90,,
+Dickens,Precinct 2,County Treasurer,,,Darla Thomason,55,22,33
 Dickens,Precinct 2,County Treasurer,,,Over Votes,0,0,0
-Dickens,Precinct 2,County Treasurer,,,Under Votes,5,4,9
-Dickens,Precinct 2,"County Commissioner, Precinct No. 2",,,Mike Smith,33,23,56
+Dickens,Precinct 2,County Treasurer,,,Under Votes,9,4,5
+Dickens,Precinct 2,"County Commissioner, Precinct No. 2",,,Mike Smith,56,23,33
 Dickens,Precinct 2,"County Commissioner, Precinct No. 2",,,Over Votes,0,0,0
-Dickens,Precinct 2,"County Commissioner, Precinct No. 2",,,Under Votes,5,3,8
-Dickens,Precinct 2,Justice of the Peace,,,Nancy Stone,32,23,55
+Dickens,Precinct 2,"County Commissioner, Precinct No. 2",,,Under Votes,8,3,5
+Dickens,Precinct 2,Justice of the Peace,,,Nancy Stone,55,23,32
 Dickens,Precinct 2,Justice of the Peace,,,Over Votes,0,0,0
-Dickens,Precinct 2,Justice of the Peace,,,Under Votes,6,3,9
-Dickens,Precinct 3,Ballots Cast,,,,,,203
-Dickens,Precinct 3,Straight Party,,REP,Republican Party,35,56,91
-Dickens,Precinct 3,Straight Party,,DEM,Democratic Party,6,4,10
+Dickens,Precinct 2,Justice of the Peace,,,Under Votes,9,3,6
+Dickens,Precinct 3,Ballots Cast,,,,203,,
+Dickens,Precinct 3,Straight Party,,REP,Republican Party,91,56,35
+Dickens,Precinct 3,Straight Party,,DEM,Democratic Party,10,4,6
 Dickens,Precinct 3,Straight Party,,LIB,Libertarian Party,0,0,0
 Dickens,Precinct 3,Straight Party,,,Over Votes,0,0,0
-Dickens,Precinct 3,Straight Party,,,Under Votes,48,42,90
-Dickens,Precinct 3,U.S. Senate,,REP,Ted Cruz,78,88,166
-Dickens,Precinct 3,U.S. Senate,,DEM,Beto O'Rourke,16,9,25
-Dickens,Precinct 3,U.S. Senate,,LIB,Neal M. Dikeman,0,1,1
+Dickens,Precinct 3,Straight Party,,,Under Votes,90,42,48
+Dickens,Precinct 3,U.S. Senate,,REP,Ted Cruz,166,88,78
+Dickens,Precinct 3,U.S. Senate,,DEM,Beto O'Rourke,25,9,16
+Dickens,Precinct 3,U.S. Senate,,LIB,Neal M. Dikeman,1,1,0
 Dickens,Precinct 3,U.S. Senate,,,Over Votes,0,0,0
-Dickens,Precinct 3,U.S. Senate,,,Under Votes,1,4,5
-Dickens,Precinct 3,U.S. House,13,REP,Mac Thornberry,78,92,170
-Dickens,Precinct 3,U.S. House,13,DEM,Greg Sagan,14,8,22
+Dickens,Precinct 3,U.S. Senate,,,Under Votes,5,4,1
+Dickens,Precinct 3,U.S. House,13,REP,Mac Thornberry,170,92,78
+Dickens,Precinct 3,U.S. House,13,DEM,Greg Sagan,22,8,14
 Dickens,Precinct 3,U.S. House,13,LIB,Calvin DeWeese,0,0,0
 Dickens,Precinct 3,U.S. House,13,,Over Votes,0,0,0
-Dickens,Precinct 3,U.S. House,13,,Under Votes,2,2,4
-Dickens,Precinct 3,Governor,,REP,Greg Abbott,81,92,173
-Dickens,Precinct 3,Governor,,DEM,Lupe Valdez,13,8,21
-Dickens,Precinct 3,Governor,,LIB,Mark Jay Tippetts,0,1,1
+Dickens,Precinct 3,U.S. House,13,,Under Votes,4,2,2
+Dickens,Precinct 3,Governor,,REP,Greg Abbott,173,92,81
+Dickens,Precinct 3,Governor,,DEM,Lupe Valdez,21,8,13
+Dickens,Precinct 3,Governor,,LIB,Mark Jay Tippetts,1,1,0
 Dickens,Precinct 3,Governor,,,Over Votes,0,0,0
-Dickens,Precinct 3,Governor,,,Under Votes,1,1,2
-Dickens,Precinct 3,Lieutenant Governor,,REP,Dan Patrick,70,87,157
-Dickens,Precinct 3,Lieutenant Governor,,DEM,Mike Collier,23,11,34
-Dickens,Precinct 3,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,1,2
+Dickens,Precinct 3,Governor,,,Under Votes,2,1,1
+Dickens,Precinct 3,Lieutenant Governor,,REP,Dan Patrick,157,87,70
+Dickens,Precinct 3,Lieutenant Governor,,DEM,Mike Collier,34,11,23
+Dickens,Precinct 3,Lieutenant Governor,,LIB,Kerry Douglas McKennon,2,1,1
 Dickens,Precinct 3,Lieutenant Governor,,,Over Votes,0,0,0
-Dickens,Precinct 3,Lieutenant Governor,,,Under Votes,1,3,4
-Dickens,Precinct 3,Attorney General,,REP,Ken Paxton,77,91,168
-Dickens,Precinct 3,Attorney General,,DEM,Justin Nelson,16,9,25
+Dickens,Precinct 3,Lieutenant Governor,,,Under Votes,4,3,1
+Dickens,Precinct 3,Attorney General,,REP,Ken Paxton,168,91,77
+Dickens,Precinct 3,Attorney General,,DEM,Justin Nelson,25,9,16
 Dickens,Precinct 3,Attorney General,,LIB,Michael Ray Harris,1,0,1
 Dickens,Precinct 3,Attorney General,,,Over Votes,0,0,0
-Dickens,Precinct 3,Attorney General,,,Under Votes,1,2,3
-Dickens,Precinct 3,Comptroller of Public Accounts,,REP,Glenn Hegar,78,93,171
-Dickens,Precinct 3,Comptroller of Public Accounts,,DEM,Joi Chevalier,13,7,20
+Dickens,Precinct 3,Attorney General,,,Under Votes,3,2,1
+Dickens,Precinct 3,Comptroller of Public Accounts,,REP,Glenn Hegar,171,93,78
+Dickens,Precinct 3,Comptroller of Public Accounts,,DEM,Joi Chevalier,20,7,13
 Dickens,Precinct 3,Comptroller of Public Accounts,,LIB,Ben Sanders,2,0,2
 Dickens,Precinct 3,Comptroller of Public Accounts,,,Over Votes,0,0,0
-Dickens,Precinct 3,Comptroller of Public Accounts,,,Under Votes,1,2,3
-Dickens,Precinct 3,Commissioner of the General Land Office,,REP,George P. Bush,69,90,159
-Dickens,Precinct 3,Commissioner of the General Land Office,,DEM,Miguel Suazo,14,8,22
-Dickens,Precinct 3,Commissioner of the General Land Office,,LIB,Matt Pi_a,8,2,10
+Dickens,Precinct 3,Comptroller of Public Accounts,,,Under Votes,3,2,1
+Dickens,Precinct 3,Commissioner of the General Land Office,,REP,George P. Bush,159,90,69
+Dickens,Precinct 3,Commissioner of the General Land Office,,DEM,Miguel Suazo,22,8,14
+Dickens,Precinct 3,Commissioner of the General Land Office,,LIB,Matt Pi_a,10,2,8
 Dickens,Precinct 3,Commissioner of the General Land Office,,,Over Votes,0,0,0
-Dickens,Precinct 3,Commissioner of the General Land Office,,,Under Votes,3,2,5
-Dickens,Precinct 3,Commissioner of Agriculture,,REP,Sid Miller,79,94,173
-Dickens,Precinct 3,Commissioner of Agriculture,,DEM,Kim Olson,14,8,22
+Dickens,Precinct 3,Commissioner of the General Land Office,,,Under Votes,5,2,3
+Dickens,Precinct 3,Commissioner of Agriculture,,REP,Sid Miller,173,94,79
+Dickens,Precinct 3,Commissioner of Agriculture,,DEM,Kim Olson,22,8,14
 Dickens,Precinct 3,Commissioner of Agriculture,,LIB,Richard Carpenter,0,0,0
 Dickens,Precinct 3,Commissioner of Agriculture,,,Over Votes,0,0,0
 Dickens,Precinct 3,Commissioner of Agriculture,,,Under Votes,1,0,1
-Dickens,Precinct 3,Railroad Commissioner,,REP,Christi Craddick,79,94,173
-Dickens,Precinct 3,Railroad Commissioner,,DEM,Roman McAllen,13,7,20
+Dickens,Precinct 3,Railroad Commissioner,,REP,Christi Craddick,173,94,79
+Dickens,Precinct 3,Railroad Commissioner,,DEM,Roman McAllen,20,7,13
 Dickens,Precinct 3,Railroad Commissioner,,LIB,Mike Wright,1,0,1
 Dickens,Precinct 3,Railroad Commissioner,,,Over Votes,0,0,0
-Dickens,Precinct 3,Railroad Commissioner,,,Under Votes,1,1,2
-Dickens,Precinct 3,"Justice, Supreme Court, Place 2",,,Jimmy Blacklock,80,93,173
-Dickens,Precinct 3,"Justice, Supreme Court, Place 2",,,Steven Kirkland,13,7,20
+Dickens,Precinct 3,Railroad Commissioner,,,Under Votes,2,1,1
+Dickens,Precinct 3,"Justice, Supreme Court, Place 2",,,Jimmy Blacklock,173,93,80
+Dickens,Precinct 3,"Justice, Supreme Court, Place 2",,,Steven Kirkland,20,7,13
 Dickens,Precinct 3,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0
-Dickens,Precinct 3,"Justice, Supreme Court, Place 2",,,Under Votes,1,2,3
-Dickens,Precinct 3,"Justice, Supreme Court, Place 4",,,John Devine,78,94,172
-Dickens,Precinct 3,"Justice, Supreme Court, Place 4",,,R.K. Sandill,14,7,21
+Dickens,Precinct 3,"Justice, Supreme Court, Place 2",,,Under Votes,3,2,1
+Dickens,Precinct 3,"Justice, Supreme Court, Place 4",,,John Devine,172,94,78
+Dickens,Precinct 3,"Justice, Supreme Court, Place 4",,,R.K. Sandill,21,7,14
 Dickens,Precinct 3,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0
-Dickens,Precinct 3,"Justice, Supreme Court, Place 4",,,Under Votes,2,1,3
-Dickens,Precinct 3,"Justice, Supreme Court, Place 6",,,Jeff Brown,78,92,170
-Dickens,Precinct 3,"Justice, Supreme Court, Place 6",,,Kathy Cheng,15,8,23
+Dickens,Precinct 3,"Justice, Supreme Court, Place 4",,,Under Votes,3,1,2
+Dickens,Precinct 3,"Justice, Supreme Court, Place 6",,,Jeff Brown,170,92,78
+Dickens,Precinct 3,"Justice, Supreme Court, Place 6",,,Kathy Cheng,23,8,15
 Dickens,Precinct 3,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0
-Dickens,Precinct 3,"Justice, Supreme Court, Place 6",,,Under Votes,1,2,3
-Dickens,Precinct 3,"Presiding Judge, Court of Criminal Appeals",,,Sharon Keller,77,94,171
-Dickens,Precinct 3,"Presiding Judge, Court of Criminal Appeals",,,Maria T. (Terri) Jackson,15,7,22
+Dickens,Precinct 3,"Justice, Supreme Court, Place 6",,,Under Votes,3,2,1
+Dickens,Precinct 3,"Presiding Judge, Court of Criminal Appeals",,,Sharon Keller,171,94,77
+Dickens,Precinct 3,"Presiding Judge, Court of Criminal Appeals",,,Maria T. (Terri) Jackson,22,7,15
 Dickens,Precinct 3,"Presiding Judge, Court of Criminal Appeals",,,William Bryan Strange III,2,0,2
 Dickens,Precinct 3,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0
-Dickens,Precinct 3,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,0,1,1
-Dickens,Precinct 3,"Judge, Court of Criminal Appeals, Place 7",,,Barbara Parker Hervey,80,91,171
-Dickens,Precinct 3,"Judge, Court of Criminal Appeals, Place 7",,,Ramona Franklin,13,9,22
+Dickens,Precinct 3,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,1,1,0
+Dickens,Precinct 3,"Judge, Court of Criminal Appeals, Place 7",,,Barbara Parker Hervey,171,91,80
+Dickens,Precinct 3,"Judge, Court of Criminal Appeals, Place 7",,,Ramona Franklin,22,9,13
 Dickens,Precinct 3,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0
-Dickens,Precinct 3,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,1,2,3
-Dickens,Precinct 3,"Judge, Court of Criminal Appeals, Place 8",,,Michelle Slaughter,82,93,175
-Dickens,Precinct 3,"Judge, Court of Criminal Appeals, Place 8",,,Mark Ash,6,2,8
+Dickens,Precinct 3,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,3,2,1
+Dickens,Precinct 3,"Judge, Court of Criminal Appeals, Place 8",,,Michelle Slaughter,175,93,82
+Dickens,Precinct 3,"Judge, Court of Criminal Appeals, Place 8",,,Mark Ash,8,2,6
 Dickens,Precinct 3,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0
-Dickens,Precinct 3,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,6,7,13
-Dickens,Precinct 3,State Representative,68,REP,Drew Springer,88,95,183
+Dickens,Precinct 3,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,13,7,6
+Dickens,Precinct 3,State Representative,68,REP,Drew Springer,183,95,88
 Dickens,Precinct 3,State Representative,68,,Over Votes,0,0,0
-Dickens,Precinct 3,State Representative,68,,Under Votes,7,7,14
-Dickens,Precinct 3,"Justice, 7th Court of Appeals District, Place No. 2",,,Judy Parker,87,93,180
+Dickens,Precinct 3,State Representative,68,,Under Votes,14,7,7
+Dickens,Precinct 3,"Justice, 7th Court of Appeals District, Place No. 2",,,Judy Parker,180,93,87
 Dickens,Precinct 3,"Justice, 7th Court of Appeals District, Place No. 2",,,Over Votes,0,0,0
-Dickens,Precinct 3,"Justice, 7th Court of Appeals District, Place No. 2",,,Under Votes,8,9,17
-Dickens,Precinct 3,"Justice, 7th Court of Appeals District, Place No. 3",,,Pat Pirtle,87,91,178
+Dickens,Precinct 3,"Justice, 7th Court of Appeals District, Place No. 2",,,Under Votes,17,9,8
+Dickens,Precinct 3,"Justice, 7th Court of Appeals District, Place No. 3",,,Pat Pirtle,178,91,87
 Dickens,Precinct 3,"Justice, 7th Court of Appeals District, Place No. 3",,,Over Votes,0,0,0
-Dickens,Precinct 3,"Justice, 7th Court of Appeals District, Place No. 3",,,Under Votes,8,11,19
-Dickens,Precinct 3,"District Judge, 110th Judicial District",,,William P. Smith,88,93,181
+Dickens,Precinct 3,"Justice, 7th Court of Appeals District, Place No. 3",,,Under Votes,19,11,8
+Dickens,Precinct 3,"District Judge, 110th Judicial District",,,William P. Smith,181,93,88
 Dickens,Precinct 3,"District Judge, 110th Judicial District",,,Over Votes,0,0,0
-Dickens,Precinct 3,"District Judge, 110th Judicial District",,,Under Votes,7,9,16
-Dickens,Precinct 3,County Judge,,,Kevin Brendle,86,91,177
+Dickens,Precinct 3,"District Judge, 110th Judicial District",,,Under Votes,16,9,7
+Dickens,Precinct 3,County Judge,,,Kevin Brendle,177,91,86
 Dickens,Precinct 3,County Judge,,,Over Votes,0,0,0
-Dickens,Precinct 3,County Judge,,,Under Votes,8,11,19
-Dickens,Precinct 3,County Attorney - Unexpired Term,,,Aaron Clements (W,20,11,31
+Dickens,Precinct 3,County Judge,,,Under Votes,19,11,8
+Dickens,Precinct 3,County Attorney - Unexpired Term,,,Aaron Clements (W,31,11,20
 Dickens,Precinct 3,County Attorney - Unexpired Term,,,Over Votes,0,0,0
-Dickens,Precinct 3,County Attorney - Unexpired Term,,,Under Votes,67,97,164
-Dickens,Precinct 3,District and County Clerk,,,Becky S. Hill,89,97,186
+Dickens,Precinct 3,County Attorney - Unexpired Term,,,Under Votes,164,97,67
+Dickens,Precinct 3,District and County Clerk,,,Becky S. Hill,186,97,89
 Dickens,Precinct 3,District and County Clerk,,,Over Votes,0,0,0
-Dickens,Precinct 3,District and County Clerk,,,Under Votes,6,5,11
-Dickens,Precinct 3,County Treasurer,,,Darla Thomason,84,91,175
+Dickens,Precinct 3,District and County Clerk,,,Under Votes,11,5,6
+Dickens,Precinct 3,County Treasurer,,,Darla Thomason,175,91,84
 Dickens,Precinct 3,County Treasurer,,,Over Votes,0,0,0
-Dickens,Precinct 3,County Treasurer,,,Under Votes,11,11,22
-Dickens,Precinct 3,Justice of the Peace,,,Nancy Stone,86,93,179
+Dickens,Precinct 3,County Treasurer,,,Under Votes,22,11,11
+Dickens,Precinct 3,Justice of the Peace,,,Nancy Stone,179,93,86
 Dickens,Precinct 3,Justice of the Peace,,,Over Votes,0,0,0
-Dickens,Precinct 3,Justice of the Peace,,,Under Votes,8,9,17
-Dickens,Precinct 4,Straight Party,,REP,Republican Party,33,26,59
-Dickens,Precinct 4,Straight Party,,DEM,Democratic Party,9,11,20
-Dickens,Precinct 4,Straight Party,,LIB,Libertarian Party,0,1,1
+Dickens,Precinct 3,Justice of the Peace,,,Under Votes,17,9,8
+Dickens,Precinct 4,Straight Party,,REP,Republican Party,59,26,33
+Dickens,Precinct 4,Straight Party,,DEM,Democratic Party,20,11,9
+Dickens,Precinct 4,Straight Party,,LIB,Libertarian Party,1,1,0
 Dickens,Precinct 4,Straight Party,,,Over Votes,0,0,0
-Dickens,Precinct 4,Straight Party,,,Under Votes,19,23,42
-Dickens,Precinct 4,U.S. Senate,,REP,Ted Cruz,44,34,78
-Dickens,Precinct 4,U.S. Senate,,DEM,Beto O'Rourke,9,22,31
-Dickens,Precinct 4,U.S. Senate,,LIB,Neal M. Dikeman,0,1,1
+Dickens,Precinct 4,Straight Party,,,Under Votes,42,23,19
+Dickens,Precinct 4,U.S. Senate,,REP,Ted Cruz,78,34,44
+Dickens,Precinct 4,U.S. Senate,,DEM,Beto O'Rourke,31,22,9
+Dickens,Precinct 4,U.S. Senate,,LIB,Neal M. Dikeman,1,1,0
 Dickens,Precinct 4,U.S. Senate,,,Over Votes,0,0,0
-Dickens,Precinct 4,U.S. Senate,,,Under Votes,1,4,5
-Dickens,Precinct 4,U.S. House,13,REP,Mac Thornberry,45,41,86
-Dickens,Precinct 4,U.S. House,13,DEM,Greg Sagan,8,18,26
+Dickens,Precinct 4,U.S. Senate,,,Under Votes,5,4,1
+Dickens,Precinct 4,U.S. House,13,REP,Mac Thornberry,86,41,45
+Dickens,Precinct 4,U.S. House,13,DEM,Greg Sagan,26,18,8
 Dickens,Precinct 4,U.S. House,13,LIB,Calvin DeWeese,1,0,1
 Dickens,Precinct 4,U.S. House,13,,Over Votes,0,0,0
-Dickens,Precinct 4,U.S. House,13,,Under Votes,0,2,2
-Dickens,Precinct 4,Governor,,REP,Greg Abbott,46,43,89
-Dickens,Precinct 4,Governor,,DEM,Lupe Valdez,7,17,24
+Dickens,Precinct 4,U.S. House,13,,Under Votes,2,2,0
+Dickens,Precinct 4,Governor,,REP,Greg Abbott,89,43,46
+Dickens,Precinct 4,Governor,,DEM,Lupe Valdez,24,17,7
 Dickens,Precinct 4,Governor,,LIB,Mark Jay Tippetts,0,0,0
 Dickens,Precinct 4,Governor,,,Over Votes,0,0,0
-Dickens,Precinct 4,Governor,,,Under Votes,1,1,2
-Dickens,Precinct 4,Lieutenant Governor,,REP,Dan Patrick,42,39,81
-Dickens,Precinct 4,Lieutenant Governor,,DEM,Mike Collier,11,18,29
-Dickens,Precinct 4,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,1,2
+Dickens,Precinct 4,Governor,,,Under Votes,2,1,1
+Dickens,Precinct 4,Lieutenant Governor,,REP,Dan Patrick,81,39,42
+Dickens,Precinct 4,Lieutenant Governor,,DEM,Mike Collier,29,18,11
+Dickens,Precinct 4,Lieutenant Governor,,LIB,Kerry Douglas McKennon,2,1,1
 Dickens,Precinct 4,Lieutenant Governor,,,Over Votes,0,0,0
-Dickens,Precinct 4,Lieutenant Governor,,,Under Votes,0,3,3
-Dickens,Precinct 4,Attorney General,,REP,Ken Paxton,44,39,83
-Dickens,Precinct 4,Attorney General,,DEM,Justin Nelson,8,19,27
-Dickens,Precinct 4,Attorney General,,LIB,Michael Ray Harris,1,1,2
+Dickens,Precinct 4,Lieutenant Governor,,,Under Votes,3,3,0
+Dickens,Precinct 4,Attorney General,,REP,Ken Paxton,83,39,44
+Dickens,Precinct 4,Attorney General,,DEM,Justin Nelson,27,19,8
+Dickens,Precinct 4,Attorney General,,LIB,Michael Ray Harris,2,1,1
 Dickens,Precinct 4,Attorney General,,,Over Votes,0,0,0
-Dickens,Precinct 4,Attorney General,,,Under Votes,1,2,3
-Dickens,Precinct 4,Comptroller of Public Accounts,,REP,Glenn Hegar,44,38,82
-Dickens,Precinct 4,Comptroller of Public Accounts,,DEM,Joi Chevalier,7,18,25
-Dickens,Precinct 4,Comptroller of Public Accounts,,LIB,Ben Sanders,1,1,2
+Dickens,Precinct 4,Attorney General,,,Under Votes,3,2,1
+Dickens,Precinct 4,Comptroller of Public Accounts,,REP,Glenn Hegar,82,38,44
+Dickens,Precinct 4,Comptroller of Public Accounts,,DEM,Joi Chevalier,25,18,7
+Dickens,Precinct 4,Comptroller of Public Accounts,,LIB,Ben Sanders,2,1,1
 Dickens,Precinct 4,Comptroller of Public Accounts,,,Over Votes,0,0,0
-Dickens,Precinct 4,Comptroller of Public Accounts,,,Under Votes,2,4,6
-Dickens,Precinct 4,Commissioner of the General Land Office,,REP,George P. Bush,41,41,82
-Dickens,Precinct 4,Commissioner of the General Land Office,,DEM,Miguel Suazo,9,14,23
-Dickens,Precinct 4,Commissioner of the General Land Office,,LIB,Matt Pi_a,3,2,5
+Dickens,Precinct 4,Comptroller of Public Accounts,,,Under Votes,6,4,2
+Dickens,Precinct 4,Commissioner of the General Land Office,,REP,George P. Bush,82,41,41
+Dickens,Precinct 4,Commissioner of the General Land Office,,DEM,Miguel Suazo,23,14,9
+Dickens,Precinct 4,Commissioner of the General Land Office,,LIB,Matt Pi_a,5,2,3
 Dickens,Precinct 4,Commissioner of the General Land Office,,,Over Votes,0,0,0
-Dickens,Precinct 4,Commissioner of the General Land Office,,,Under Votes,1,4,5
-Dickens,Precinct 4,Commissioner of Agriculture,,REP,Sid Miller,45,42,87
-Dickens,Precinct 4,Commissioner of Agriculture,,DEM,Kim Olson,7,15,22
+Dickens,Precinct 4,Commissioner of the General Land Office,,,Under Votes,5,4,1
+Dickens,Precinct 4,Commissioner of Agriculture,,REP,Sid Miller,87,42,45
+Dickens,Precinct 4,Commissioner of Agriculture,,DEM,Kim Olson,22,15,7
 Dickens,Precinct 4,Commissioner of Agriculture,,LIB,Richard Carpenter,0,0,0
 Dickens,Precinct 4,Commissioner of Agriculture,,,Over Votes,0,0,0
-Dickens,Precinct 4,Commissioner of Agriculture,,,Under Votes,2,4,6
-Dickens,Precinct 4,Railroad Commissioner,,REP,Christi Craddick,46,39,85
-Dickens,Precinct 4,Railroad Commissioner,,DEM,Roman McAllen,8,17,25
-Dickens,Precinct 4,Railroad Commissioner,,LIB,Mike Wright,0,1,1
+Dickens,Precinct 4,Commissioner of Agriculture,,,Under Votes,6,4,2
+Dickens,Precinct 4,Railroad Commissioner,,REP,Christi Craddick,85,39,46
+Dickens,Precinct 4,Railroad Commissioner,,DEM,Roman McAllen,25,17,8
+Dickens,Precinct 4,Railroad Commissioner,,LIB,Mike Wright,1,1,0
 Dickens,Precinct 4,Railroad Commissioner,,,Over Votes,0,0,0
-Dickens,Precinct 4,Railroad Commissioner,,,Under Votes,0,4,4
-Dickens,Precinct 4,"Justice, Supreme Court, Place 2",,,Jimmy Blacklock,44,38,82
-Dickens,Precinct 4,"Justice, Supreme Court, Place 2",,,Steven Kirkland,9,19,28
+Dickens,Precinct 4,Railroad Commissioner,,,Under Votes,4,4,0
+Dickens,Precinct 4,"Justice, Supreme Court, Place 2",,,Jimmy Blacklock,82,38,44
+Dickens,Precinct 4,"Justice, Supreme Court, Place 2",,,Steven Kirkland,28,19,9
 Dickens,Precinct 4,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0
-Dickens,Precinct 4,"Justice, Supreme Court, Place 2",,,Under Votes,1,4,5
-Dickens,Precinct 4,"Justice, Supreme Court, Place 4",,,John Devine,45,40,85
-Dickens,Precinct 4,"Justice, Supreme Court, Place 4",,,R.K. Sandill,8,17,25
+Dickens,Precinct 4,"Justice, Supreme Court, Place 2",,,Under Votes,5,4,1
+Dickens,Precinct 4,"Justice, Supreme Court, Place 4",,,John Devine,85,40,45
+Dickens,Precinct 4,"Justice, Supreme Court, Place 4",,,R.K. Sandill,25,17,8
 Dickens,Precinct 4,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0
-Dickens,Precinct 4,"Justice, Supreme Court, Place 4",,,Under Votes,1,4,5
-Dickens,Precinct 4,"Justice, Supreme Court, Place 6",,,Jeff Brown,45,41,86
-Dickens,Precinct 4,"Justice, Supreme Court, Place 6",,,Kathy Cheng,8,16,24
+Dickens,Precinct 4,"Justice, Supreme Court, Place 4",,,Under Votes,5,4,1
+Dickens,Precinct 4,"Justice, Supreme Court, Place 6",,,Jeff Brown,86,41,45
+Dickens,Precinct 4,"Justice, Supreme Court, Place 6",,,Kathy Cheng,24,16,8
 Dickens,Precinct 4,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0
-Dickens,Precinct 4,"Justice, Supreme Court, Place 6",,,Under Votes,1,4,5
-Dickens,Precinct 4,"Presiding Judge, Court of Criminal Appeals",,,Sharon Keller,44,38,82
-Dickens,Precinct 4,"Presiding Judge, Court of Criminal Appeals",,,Maria T. (Terri) Jackson,8,18,26
-Dickens,Precinct 4,"Presiding Judge, Court of Criminal Appeals",,,William Bryan Strange III,0,1,1
+Dickens,Precinct 4,"Justice, Supreme Court, Place 6",,,Under Votes,5,4,1
+Dickens,Precinct 4,"Presiding Judge, Court of Criminal Appeals",,,Sharon Keller,82,38,44
+Dickens,Precinct 4,"Presiding Judge, Court of Criminal Appeals",,,Maria T. (Terri) Jackson,26,18,8
+Dickens,Precinct 4,"Presiding Judge, Court of Criminal Appeals",,,William Bryan Strange III,1,1,0
 Dickens,Precinct 4,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0
-Dickens,Precinct 4,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,2,4,6
-Dickens,Precinct 4,"Judge, Court of Criminal Appeals, Place 7",,,Barbara Parker Hervey,44,38,82
-Dickens,Precinct 4,"Judge, Court of Criminal Appeals, Place 7",,,Ramona Franklin,7,19,26
+Dickens,Precinct 4,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,6,4,2
+Dickens,Precinct 4,"Judge, Court of Criminal Appeals, Place 7",,,Barbara Parker Hervey,82,38,44
+Dickens,Precinct 4,"Judge, Court of Criminal Appeals, Place 7",,,Ramona Franklin,26,19,7
 Dickens,Precinct 4,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0
-Dickens,Precinct 4,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,3,4,7
-Dickens,Precinct 4,"Judge, Court of Criminal Appeals, Place 8",,,Michelle Slaughter,46,41,87
-Dickens,Precinct 4,"Judge, Court of Criminal Appeals, Place 8",,,Mark Ash,2,7,9
+Dickens,Precinct 4,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,7,4,3
+Dickens,Precinct 4,"Judge, Court of Criminal Appeals, Place 8",,,Michelle Slaughter,87,41,46
+Dickens,Precinct 4,"Judge, Court of Criminal Appeals, Place 8",,,Mark Ash,9,7,2
 Dickens,Precinct 4,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0
-Dickens,Precinct 4,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,6,13,19
-Dickens,Precinct 4,State Representative,68,REP,Drew Springer,46,43,89
+Dickens,Precinct 4,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,19,13,6
+Dickens,Precinct 4,State Representative,68,REP,Drew Springer,89,43,46
 Dickens,Precinct 4,State Representative,68,,Over Votes,0,0,0
-Dickens,Precinct 4,State Representative,68,,Under Votes,7,18,25
-Dickens,Precinct 4,"Justice, 7th Court of Appeals District, Place No. 2",,,Judy Parker,46,42,88
+Dickens,Precinct 4,State Representative,68,,Under Votes,25,18,7
+Dickens,Precinct 4,"Justice, 7th Court of Appeals District, Place No. 2",,,Judy Parker,88,42,46
 Dickens,Precinct 4,"Justice, 7th Court of Appeals District, Place No. 2",,,Over Votes,0,0,0
-Dickens,Precinct 4,"Justice, 7th Court of Appeals District, Place No. 2",,,Under Votes,7,19,26
-Dickens,Precinct 4,"Justice, 7th Court of Appeals District, Place No. 3",,,Pat Pirtle,46,42,88
+Dickens,Precinct 4,"Justice, 7th Court of Appeals District, Place No. 2",,,Under Votes,26,19,7
+Dickens,Precinct 4,"Justice, 7th Court of Appeals District, Place No. 3",,,Pat Pirtle,88,42,46
 Dickens,Precinct 4,"Justice, 7th Court of Appeals District, Place No. 3",,,Over Votes,0,0,0
-Dickens,Precinct 4,"Justice, 7th Court of Appeals District, Place No. 3",,,Under Votes,7,19,26
-Dickens,Precinct 4,"District Judge, 110th Judicial District",,,William P. Smith,46,43,89
+Dickens,Precinct 4,"Justice, 7th Court of Appeals District, Place No. 3",,,Under Votes,26,19,7
+Dickens,Precinct 4,"District Judge, 110th Judicial District",,,William P. Smith,89,43,46
 Dickens,Precinct 4,"District Judge, 110th Judicial District",,,Over Votes,0,0,0
-Dickens,Precinct 4,"District Judge, 110th Judicial District",,,Under Votes,7,18,25
-Dickens,Precinct 4,County Judge,,,Kevin Brendle,49,49,98
+Dickens,Precinct 4,"District Judge, 110th Judicial District",,,Under Votes,25,18,7
+Dickens,Precinct 4,County Judge,,,Kevin Brendle,98,49,49
 Dickens,Precinct 4,County Judge,,,Over Votes,0,0,0
-Dickens,Precinct 4,County Judge,,,Under Votes,4,12,16
-Dickens,Precinct 4,County Attorney - Unexpired Term,,,Aaron Clements (W,4,10,14
+Dickens,Precinct 4,County Judge,,,Under Votes,16,12,4
+Dickens,Precinct 4,County Attorney - Unexpired Term,,,Aaron Clements (W,14,10,4
 Dickens,Precinct 4,County Attorney - Unexpired Term,,,Over Votes,0,0,0
-Dickens,Precinct 4,County Attorney - Unexpired Term,,,Under Votes,44,57,101
-Dickens,Precinct 4,District and County Clerk,,,Becky S. Hill,50,50,100
+Dickens,Precinct 4,County Attorney - Unexpired Term,,,Under Votes,101,57,44
+Dickens,Precinct 4,District and County Clerk,,,Becky S. Hill,100,50,50
 Dickens,Precinct 4,District and County Clerk,,,Over Votes,0,0,0
-Dickens,Precinct 4,District and County Clerk,,,Under Votes,2,11,13
-Dickens,Precinct 4,Ballots Cast,,,,,,128
-Dickens,Precinct 4,County Treasurer,,,Darla Thomason,50,48,98
+Dickens,Precinct 4,District and County Clerk,,,Under Votes,13,11,2
+Dickens,Precinct 4,Ballots Cast,,,,128,,
+Dickens,Precinct 4,County Treasurer,,,Darla Thomason,98,48,50
 Dickens,Precinct 4,County Treasurer,,,Over Votes,0,0,0
-Dickens,Precinct 4,County Treasurer,,,Under Votes,3,13,16
-Dickens,Precinct 4,"County Commissioner, Precinct No. 4",,,Jerry Alexander,49,45,94
+Dickens,Precinct 4,County Treasurer,,,Under Votes,16,13,3
+Dickens,Precinct 4,"County Commissioner, Precinct No. 4",,,Jerry Alexander,94,45,49
 Dickens,Precinct 4,"County Commissioner, Precinct No. 4",,,Over Votes,0,0,0
-Dickens,Precinct 4,"County Commissioner, Precinct No. 4",,,Under Votes,4,16,20
-Dickens,Precinct 4,Justice of the Peace,,,Nancy Stone,51,52,103
+Dickens,Precinct 4,"County Commissioner, Precinct No. 4",,,Under Votes,20,16,4
+Dickens,Precinct 4,Justice of the Peace,,,Nancy Stone,103,52,51
 Dickens,Precinct 4,Justice of the Peace,,,Over Votes,0,0,0
-Dickens,Precinct 4,Justice of the Peace,,,Under Votes,2,9,11
-Dickens,Precinct 5,Ballots Cast,,,,,,128
-Dickens,Precinct 5,Straight Party,,REP,Republican Party,47,16,63
+Dickens,Precinct 4,Justice of the Peace,,,Under Votes,11,9,2
+Dickens,Precinct 5,Ballots Cast,,,,128,,
+Dickens,Precinct 5,Straight Party,,REP,Republican Party,63,16,47
 Dickens,Precinct 5,Straight Party,,DEM,Democratic Party,4,0,4
 Dickens,Precinct 5,Straight Party,,LIB,Libertarian Party,1,0,1
 Dickens,Precinct 5,Straight Party,,,Over Votes,0,0,0
-Dickens,Precinct 5,Straight Party,,,Under Votes,37,16,53
-Dickens,Precinct 5,U.S. Senate,,REP,Ted Cruz,82,32,114
+Dickens,Precinct 5,Straight Party,,,Under Votes,53,16,37
+Dickens,Precinct 5,U.S. Senate,,REP,Ted Cruz,114,32,82
 Dickens,Precinct 5,U.S. Senate,,DEM,Beto O'Rourke,13,0,13
 Dickens,Precinct 5,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0
 Dickens,Precinct 5,U.S. Senate,,,Over Votes,0,0,0
 Dickens,Precinct 5,U.S. Senate,,,Under Votes,1,0,1
-Dickens,Precinct 5,U.S. House,13,REP,Mac Thornberry,83,32,115
+Dickens,Precinct 5,U.S. House,13,REP,Mac Thornberry,115,32,83
 Dickens,Precinct 5,U.S. House,13,DEM,Greg Sagan,10,0,10
 Dickens,Precinct 5,U.S. House,13,LIB,Calvin DeWeese,1,0,1
 Dickens,Precinct 5,U.S. House,13,,Over Votes,0,0,0
 Dickens,Precinct 5,U.S. House,13,,Under Votes,2,0,2
-Dickens,Precinct 5,Governor,,REP,Greg Abbott,82,31,113
-Dickens,Precinct 5,Governor,,DEM,Lupe Valdez,10,1,11
+Dickens,Precinct 5,Governor,,REP,Greg Abbott,113,31,82
+Dickens,Precinct 5,Governor,,DEM,Lupe Valdez,11,1,10
 Dickens,Precinct 5,Governor,,LIB,Mark Jay Tippetts,2,0,2
 Dickens,Precinct 5,Governor,,,Over Votes,0,0,0
 Dickens,Precinct 5,Governor,,,Under Votes,2,0,2
-Dickens,Precinct 5,Lieutenant Governor,,REP,Dan Patrick,80,28,108
-Dickens,Precinct 5,Lieutenant Governor,,DEM,Mike Collier,12,4,16
+Dickens,Precinct 5,Lieutenant Governor,,REP,Dan Patrick,108,28,80
+Dickens,Precinct 5,Lieutenant Governor,,DEM,Mike Collier,16,4,12
 Dickens,Precinct 5,Lieutenant Governor,,LIB,Kerry Douglas McKennon,3,0,3
 Dickens,Precinct 5,Lieutenant Governor,,,Over Votes,0,0,0
 Dickens,Precinct 5,Lieutenant Governor,,,Under Votes,1,0,1
-Dickens,Precinct 5,Attorney General,,REP,Ken Paxton,81,30,111
-Dickens,Precinct 5,Attorney General,,DEM,Justin Nelson,13,2,15
+Dickens,Precinct 5,Attorney General,,REP,Ken Paxton,111,30,81
+Dickens,Precinct 5,Attorney General,,DEM,Justin Nelson,15,2,13
 Dickens,Precinct 5,Attorney General,,LIB,Michael Ray Harris,1,0,1
 Dickens,Precinct 5,Attorney General,,,Over Votes,0,0,0
 Dickens,Precinct 5,Attorney General,,,Under Votes,0,0,0
-Dickens,Precinct 5,Comptroller of Public Accounts,,REP,Glenn Hegar,82,31,113
+Dickens,Precinct 5,Comptroller of Public Accounts,,REP,Glenn Hegar,113,31,82
 Dickens,Precinct 5,Comptroller of Public Accounts,,DEM,Joi Chevalier,8,0,8
 Dickens,Precinct 5,Comptroller of Public Accounts,,LIB,Ben Sanders,2,0,2
 Dickens,Precinct 5,Comptroller of Public Accounts,,,Over Votes,0,0,0
-Dickens,Precinct 5,Comptroller of Public Accounts,,,Under Votes,3,1,4
-Dickens,Precinct 5,Commissioner of the General Land Office,,REP,George P. Bush,82,32,114
+Dickens,Precinct 5,Comptroller of Public Accounts,,,Under Votes,4,1,3
+Dickens,Precinct 5,Commissioner of the General Land Office,,REP,George P. Bush,114,32,82
 Dickens,Precinct 5,Commissioner of the General Land Office,,DEM,Miguel Suazo,11,0,11
 Dickens,Precinct 5,Commissioner of the General Land Office,,LIB,Matt Pi_a,1,0,1
 Dickens,Precinct 5,Commissioner of the General Land Office,,,Over Votes,0,0,0
 Dickens,Precinct 5,Commissioner of the General Land Office,,,Under Votes,1,0,1
-Dickens,Precinct 5,Commissioner of Agriculture,,REP,Sid Miller,83,31,114
+Dickens,Precinct 5,Commissioner of Agriculture,,REP,Sid Miller,114,31,83
 Dickens,Precinct 5,Commissioner of Agriculture,,DEM,Kim Olson,11,0,11
 Dickens,Precinct 5,Commissioner of Agriculture,,LIB,Richard Carpenter,0,0,0
 Dickens,Precinct 5,Commissioner of Agriculture,,,Over Votes,0,0,0
-Dickens,Precinct 5,Commissioner of Agriculture,,,Under Votes,1,1,2
-Dickens,Precinct 5,Railroad Commissioner,,REP,Christi Craddick,82,30,112
-Dickens,Precinct 5,Railroad Commissioner,,DEM,Roman McAllen,10,1,11
+Dickens,Precinct 5,Commissioner of Agriculture,,,Under Votes,2,1,1
+Dickens,Precinct 5,Railroad Commissioner,,REP,Christi Craddick,112,30,82
+Dickens,Precinct 5,Railroad Commissioner,,DEM,Roman McAllen,11,1,10
 Dickens,Precinct 5,Railroad Commissioner,,LIB,Mike Wright,1,0,1
 Dickens,Precinct 5,Railroad Commissioner,,,Over Votes,0,0,0
-Dickens,Precinct 5,Railroad Commissioner,,,Under Votes,2,1,3
-Dickens,Precinct 5,"Justice, Supreme Court, Place 2",,,Jimmy Blacklock,80,31,111
+Dickens,Precinct 5,Railroad Commissioner,,,Under Votes,3,1,2
+Dickens,Precinct 5,"Justice, Supreme Court, Place 2",,,Jimmy Blacklock,111,31,80
 Dickens,Precinct 5,"Justice, Supreme Court, Place 2",,,Steven Kirkland,11,0,11
 Dickens,Precinct 5,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0
-Dickens,Precinct 5,"Justice, Supreme Court, Place 2",,,Under Votes,3,1,4
-Dickens,Precinct 5,"Justice, Supreme Court, Place 4",,,John Devine,80,30,110
-Dickens,Precinct 5,"Justice, Supreme Court, Place 4",,,R.K. Sandill,12,1,13
+Dickens,Precinct 5,"Justice, Supreme Court, Place 2",,,Under Votes,4,1,3
+Dickens,Precinct 5,"Justice, Supreme Court, Place 4",,,John Devine,110,30,80
+Dickens,Precinct 5,"Justice, Supreme Court, Place 4",,,R.K. Sandill,13,1,12
 Dickens,Precinct 5,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0
-Dickens,Precinct 5,"Justice, Supreme Court, Place 4",,,Under Votes,3,1,4
-Dickens,Precinct 5,"Justice, Supreme Court, Place 6",,,Jeff Brown,82,31,113
+Dickens,Precinct 5,"Justice, Supreme Court, Place 4",,,Under Votes,4,1,3
+Dickens,Precinct 5,"Justice, Supreme Court, Place 6",,,Jeff Brown,113,31,82
 Dickens,Precinct 5,"Justice, Supreme Court, Place 6",,,Kathy Cheng,10,0,10
 Dickens,Precinct 5,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0
-Dickens,Precinct 5,"Justice, Supreme Court, Place 6",,,Under Votes,3,1,4
-Dickens,Precinct 5,"Presiding Judge, Court of Criminal Appeals",,,Sharon Keller,80,30,110
-Dickens,Precinct 5,"Presiding Judge, Court of Criminal Appeals",,,Maria T. (Terri) Jackson,12,1,13
+Dickens,Precinct 5,"Justice, Supreme Court, Place 6",,,Under Votes,4,1,3
+Dickens,Precinct 5,"Presiding Judge, Court of Criminal Appeals",,,Sharon Keller,110,30,80
+Dickens,Precinct 5,"Presiding Judge, Court of Criminal Appeals",,,Maria T. (Terri) Jackson,13,1,12
 Dickens,Precinct 5,"Presiding Judge, Court of Criminal Appeals",,,William Bryan Strange III,0,0,0
 Dickens,Precinct 5,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0
-Dickens,Precinct 5,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,3,1,4
-Dickens,Precinct 5,"Judge, Court of Criminal Appeals, Place 7",,,Barbara Parker Hervey,82,31,113
+Dickens,Precinct 5,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,4,1,3
+Dickens,Precinct 5,"Judge, Court of Criminal Appeals, Place 7",,,Barbara Parker Hervey,113,31,82
 Dickens,Precinct 5,"Judge, Court of Criminal Appeals, Place 7",,,Ramona Franklin,10,0,10
 Dickens,Precinct 5,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0
-Dickens,Precinct 5,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,3,1,4
-Dickens,Precinct 5,"Judge, Court of Criminal Appeals, Place 8",,,Michelle Slaughter,83,31,114
+Dickens,Precinct 5,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,4,1,3
+Dickens,Precinct 5,"Judge, Court of Criminal Appeals, Place 8",,,Michelle Slaughter,114,31,83
 Dickens,Precinct 5,"Judge, Court of Criminal Appeals, Place 8",,,Mark Ash,4,0,4
 Dickens,Precinct 5,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0
-Dickens,Precinct 5,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,6,1,7
-Dickens,Precinct 5,State Representative,68,REP,Drew Springer,82,31,113
+Dickens,Precinct 5,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,7,1,6
+Dickens,Precinct 5,State Representative,68,REP,Drew Springer,113,31,82
 Dickens,Precinct 5,State Representative,68,,Over Votes,0,0,0
-Dickens,Precinct 5,State Representative,68,,Under Votes,9,1,10
-Dickens,Precinct 5,"Justice, 7th Court of Appeals District, Place No. 2",,,Judy Parker,81,31,112
+Dickens,Precinct 5,State Representative,68,,Under Votes,10,1,9
+Dickens,Precinct 5,"Justice, 7th Court of Appeals District, Place No. 2",,,Judy Parker,112,31,81
 Dickens,Precinct 5,"Justice, 7th Court of Appeals District, Place No. 2",,,Over Votes,0,0,0
-Dickens,Precinct 5,"Justice, 7th Court of Appeals District, Place No. 2",,,Under Votes,9,1,10
-Dickens,Precinct 5,"Justice, 7th Court of Appeals District, Place No. 3",,,Pat Pirtle,80,31,111
+Dickens,Precinct 5,"Justice, 7th Court of Appeals District, Place No. 2",,,Under Votes,10,1,9
+Dickens,Precinct 5,"Justice, 7th Court of Appeals District, Place No. 3",,,Pat Pirtle,111,31,80
 Dickens,Precinct 5,"Justice, 7th Court of Appeals District, Place No. 3",,,Over Votes,0,0,0
-Dickens,Precinct 5,"Justice, 7th Court of Appeals District, Place No. 3",,,Under Votes,10,1,11
-Dickens,Precinct 5,"District Judge, 110th Judicial District",,,William P. Smith,80,31,111
+Dickens,Precinct 5,"Justice, 7th Court of Appeals District, Place No. 3",,,Under Votes,11,1,10
+Dickens,Precinct 5,"District Judge, 110th Judicial District",,,William P. Smith,111,31,80
 Dickens,Precinct 5,"District Judge, 110th Judicial District",,,Over Votes,0,0,0
-Dickens,Precinct 5,"District Judge, 110th Judicial District",,,Under Votes,11,1,12
-Dickens,Precinct 5,County Judge,,,Kevin Brendle,82,31,113
+Dickens,Precinct 5,"District Judge, 110th Judicial District",,,Under Votes,12,1,11
+Dickens,Precinct 5,County Judge,,,Kevin Brendle,113,31,82
 Dickens,Precinct 5,County Judge,,,Over Votes,0,0,0
-Dickens,Precinct 5,County Judge,,,Under Votes,11,1,12
+Dickens,Precinct 5,County Judge,,,Under Votes,12,1,11
 Dickens,Precinct 5,County Attorney - Unexpired Term,,,Aaron Clements (W,19,0,19
 Dickens,Precinct 5,County Attorney - Unexpired Term,,,Over Votes,0,0,0
-Dickens,Precinct 5,County Attorney - Unexpired Term,,,Under Votes,66,32,98
-Dickens,Precinct 5,District and County Clerk,,,Becky S. Hill,86,32,118
+Dickens,Precinct 5,County Attorney - Unexpired Term,,,Under Votes,98,32,66
+Dickens,Precinct 5,District and County Clerk,,,Becky S. Hill,118,32,86
 Dickens,Precinct 5,District and County Clerk,,,Over Votes,0,0,0
 Dickens,Precinct 5,District and County Clerk,,,Under Votes,7,0,7
-Dickens,Precinct 5,County Treasurer,,,Darla Thomason,80,29,109
+Dickens,Precinct 5,County Treasurer,,,Darla Thomason,109,29,80
 Dickens,Precinct 5,County Treasurer,,,Over Votes,0,0,0
-Dickens,Precinct 5,County Treasurer,,,Under Votes,13,3,16
-Dickens,Precinct 5,"County Commissioner, Precinct No. 2",,,Mike Smith,81,29,110
+Dickens,Precinct 5,County Treasurer,,,Under Votes,16,3,13
+Dickens,Precinct 5,"County Commissioner, Precinct No. 2",,,Mike Smith,110,29,81
 Dickens,Precinct 5,"County Commissioner, Precinct No. 2",,,Over Votes,0,0,0
-Dickens,Precinct 5,"County Commissioner, Precinct No. 2",,,Under Votes,10,3,13
-Dickens,Precinct 5,Justice of the Peace,,,Nancy Stone,86,31,117
+Dickens,Precinct 5,"County Commissioner, Precinct No. 2",,,Under Votes,13,3,10
+Dickens,Precinct 5,Justice of the Peace,,,Nancy Stone,117,31,86
 Dickens,Precinct 5,Justice of the Peace,,,Over Votes,0,0,0
-Dickens,Precinct 5,Justice of the Peace,,,Under Votes,7,1,8
-Dickens,Precinct 5,Straight Party,,REP,Republican Party,52,47,99
-Dickens,Precinct 5,Straight Party,,DEM,Democratic Party,9,7,16
+Dickens,Precinct 5,Justice of the Peace,,,Under Votes,8,1,7
+Dickens,Precinct 5,Straight Party,,REP,Republican Party,99,47,52
+Dickens,Precinct 5,Straight Party,,DEM,Democratic Party,16,7,9
 Dickens,Precinct 5,Straight Party,,LIB,Libertarian Party,1,0,1
 Dickens,Precinct 5,Straight Party,,,Over Votes,0,0,0
-Dickens,Precinct 5,Straight Party,,,Under Votes,33,46,79
-Dickens,Precinct 5,U.S. Senate,,REP,Ted Cruz,78,84,162
-Dickens,Precinct 5,U.S. Senate,,DEM,Beto O'Rourke,16,13,29
+Dickens,Precinct 5,Straight Party,,,Under Votes,79,46,33
+Dickens,Precinct 5,U.S. Senate,,REP,Ted Cruz,162,84,78
+Dickens,Precinct 5,U.S. Senate,,DEM,Beto O'Rourke,29,13,16
 Dickens,Precinct 5,U.S. Senate,,LIB,Neal M. Dikeman,2,0,2
 Dickens,Precinct 5,U.S. Senate,,,Over Votes,0,0,0
-Dickens,Precinct 5,U.S. Senate,,,Under Votes,0,3,3
-Dickens,Precinct 5,U.S. House,13,REP,Mac Thornberry,81,84,165
-Dickens,Precinct 5,U.S. House,13,DEM,Greg Sagan,14,9,23
+Dickens,Precinct 5,U.S. Senate,,,Under Votes,3,3,0
+Dickens,Precinct 5,U.S. House,13,REP,Mac Thornberry,165,84,81
+Dickens,Precinct 5,U.S. House,13,DEM,Greg Sagan,23,9,14
 Dickens,Precinct 5,U.S. House,13,LIB,Calvin DeWeese,0,0,0
 Dickens,Precinct 5,U.S. House,13,,Over Votes,0,0,0
-Dickens,Precinct 5,U.S. House,13,,Under Votes,1,7,8
-Dickens,Precinct 5,Governor,,REP,Greg Abbott,83,86,169
-Dickens,Precinct 5,Governor,,DEM,Lupe Valdez,13,9,22
-Dickens,Precinct 5,Governor,,LIB,Mark Jay Tippetts,0,1,1
+Dickens,Precinct 5,U.S. House,13,,Under Votes,8,7,1
+Dickens,Precinct 5,Governor,,REP,Greg Abbott,169,86,83
+Dickens,Precinct 5,Governor,,DEM,Lupe Valdez,22,9,13
+Dickens,Precinct 5,Governor,,LIB,Mark Jay Tippetts,1,1,0
 Dickens,Precinct 5,Governor,,,Over Votes,0,0,0
-Dickens,Precinct 5,Governor,,,Under Votes,0,4,4
-Dickens,Precinct 5,Lieutenant Governor,,REP,Dan Patrick,78,72,150
-Dickens,Precinct 5,Lieutenant Governor,,DEM,Mike Collier,16,16,32
-Dickens,Precinct 5,Lieutenant Governor,,LIB,Kerry Douglas McKennon,2,4,6
+Dickens,Precinct 5,Governor,,,Under Votes,4,4,0
+Dickens,Precinct 5,Lieutenant Governor,,REP,Dan Patrick,150,72,78
+Dickens,Precinct 5,Lieutenant Governor,,DEM,Mike Collier,32,16,16
+Dickens,Precinct 5,Lieutenant Governor,,LIB,Kerry Douglas McKennon,6,4,2
 Dickens,Precinct 5,Lieutenant Governor,,,Over Votes,0,0,0
-Dickens,Precinct 5,Lieutenant Governor,,,Under Votes,0,8,8
-Dickens,Precinct 5,Attorney General,,REP,Ken Paxton,77,77,154
-Dickens,Precinct 5,Attorney General,,DEM,Justin Nelson,18,17,35
+Dickens,Precinct 5,Lieutenant Governor,,,Under Votes,8,8,0
+Dickens,Precinct 5,Attorney General,,REP,Ken Paxton,154,77,77
+Dickens,Precinct 5,Attorney General,,DEM,Justin Nelson,35,17,18
 Dickens,Precinct 5,Attorney General,,LIB,Michael Ray Harris,1,0,1
 Dickens,Precinct 5,Attorney General,,,Over Votes,0,0,0
-Dickens,Precinct 5,Attorney General,,,Under Votes,0,6,6
-Dickens,Precinct 5,Comptroller of Public Accounts,,REP,Glenn Hegar,79,78,157
-Dickens,Precinct 5,Comptroller of Public Accounts,,DEM,Joi Chevalier,16,13,29
-Dickens,Precinct 5,Comptroller of Public Accounts,,LIB,Ben Sanders,1,2,3
+Dickens,Precinct 5,Attorney General,,,Under Votes,6,6,0
+Dickens,Precinct 5,Comptroller of Public Accounts,,REP,Glenn Hegar,157,78,79
+Dickens,Precinct 5,Comptroller of Public Accounts,,DEM,Joi Chevalier,29,13,16
+Dickens,Precinct 5,Comptroller of Public Accounts,,LIB,Ben Sanders,3,2,1
 Dickens,Precinct 5,Comptroller of Public Accounts,,,Over Votes,0,0,0
-Dickens,Precinct 5,Comptroller of Public Accounts,,,Under Votes,0,7,7
-Dickens,Precinct 5,Commissioner of the General Land Office,,REP,George P. Bush,77,77,154
-Dickens,Precinct 5,Commissioner of the General Land Office,,DEM,Miguel Suazo,16,17,33
+Dickens,Precinct 5,Comptroller of Public Accounts,,,Under Votes,7,7,0
+Dickens,Precinct 5,Commissioner of the General Land Office,,REP,George P. Bush,154,77,77
+Dickens,Precinct 5,Commissioner of the General Land Office,,DEM,Miguel Suazo,33,17,16
 Dickens,Precinct 5,Commissioner of the General Land Office,,LIB,Matt Pi_a,2,0,2
 Dickens,Precinct 5,Commissioner of the General Land Office,,,Over Votes,0,0,0
-Dickens,Precinct 5,Commissioner of the General Land Office,,,Under Votes,1,6,7
-Dickens,Precinct 5,Commissioner of Agriculture,,REP,Sid Miller,78,75,153
-Dickens,Precinct 5,Commissioner of Agriculture,,DEM,Kim Olson,17,16,33
-Dickens,Precinct 5,Commissioner of Agriculture,,LIB,Richard Carpenter,1,1,2
+Dickens,Precinct 5,Commissioner of the General Land Office,,,Under Votes,7,6,1
+Dickens,Precinct 5,Commissioner of Agriculture,,REP,Sid Miller,153,75,78
+Dickens,Precinct 5,Commissioner of Agriculture,,DEM,Kim Olson,33,16,17
+Dickens,Precinct 5,Commissioner of Agriculture,,LIB,Richard Carpenter,2,1,1
 Dickens,Precinct 5,Commissioner of Agriculture,,,Over Votes,0,0,0
-Dickens,Precinct 5,Commissioner of Agriculture,,,Under Votes,0,8,8
-Dickens,Precinct 5,Railroad Commissioner,,REP,Christi Craddick,77,75,152
-Dickens,Precinct 5,Railroad Commissioner,,DEM,Roman McAllen,16,15,31
-Dickens,Precinct 5,Railroad Commissioner,,LIB,Mike Wright,2,1,3
+Dickens,Precinct 5,Commissioner of Agriculture,,,Under Votes,8,8,0
+Dickens,Precinct 5,Railroad Commissioner,,REP,Christi Craddick,152,75,77
+Dickens,Precinct 5,Railroad Commissioner,,DEM,Roman McAllen,31,15,16
+Dickens,Precinct 5,Railroad Commissioner,,LIB,Mike Wright,3,1,2
 Dickens,Precinct 5,Railroad Commissioner,,,Over Votes,0,0,0
-Dickens,Precinct 5,Railroad Commissioner,,,Under Votes,1,9,10
-Dickens,Precinct 5,"Justice, Supreme Court, Place 2",,,Jimmy Blacklock,78,77,155
-Dickens,Precinct 5,"Justice, Supreme Court, Place 2",,,Steven Kirkland,16,14,30
+Dickens,Precinct 5,Railroad Commissioner,,,Under Votes,10,9,1
+Dickens,Precinct 5,"Justice, Supreme Court, Place 2",,,Jimmy Blacklock,155,77,78
+Dickens,Precinct 5,"Justice, Supreme Court, Place 2",,,Steven Kirkland,30,14,16
 Dickens,Precinct 5,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0
-Dickens,Precinct 5,"Justice, Supreme Court, Place 2",,,Under Votes,2,9,11
-Dickens,Precinct 5,"Justice, Supreme Court, Place 4",,,John Devine,77,78,155
-Dickens,Precinct 5,"Justice, Supreme Court, Place 4",,,R.K. Sandill,17,13,30
+Dickens,Precinct 5,"Justice, Supreme Court, Place 2",,,Under Votes,11,9,2
+Dickens,Precinct 5,"Justice, Supreme Court, Place 4",,,John Devine,155,78,77
+Dickens,Precinct 5,"Justice, Supreme Court, Place 4",,,R.K. Sandill,30,13,17
 Dickens,Precinct 5,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0
-Dickens,Precinct 5,"Justice, Supreme Court, Place 4",,,Under Votes,2,9,11
-Dickens,Precinct 5,"Justice, Supreme Court, Place 6",,,Jeff Brown,74,76,150
-Dickens,Precinct 5,"Justice, Supreme Court, Place 6",,,Kathy Cheng,18,15,33
+Dickens,Precinct 5,"Justice, Supreme Court, Place 4",,,Under Votes,11,9,2
+Dickens,Precinct 5,"Justice, Supreme Court, Place 6",,,Jeff Brown,150,76,74
+Dickens,Precinct 5,"Justice, Supreme Court, Place 6",,,Kathy Cheng,33,15,18
 Dickens,Precinct 5,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0
-Dickens,Precinct 5,"Justice, Supreme Court, Place 6",,,Under Votes,3,9,12
-Dickens,Precinct 5,"Presiding Judge, Court of Criminal Appeals",,,Sharon Keller,74,78,152
-Dickens,Precinct 5,"Presiding Judge, Court of Criminal Appeals",,,Maria T. (Terri) Jackson,17,12,29
+Dickens,Precinct 5,"Justice, Supreme Court, Place 6",,,Under Votes,12,9,3
+Dickens,Precinct 5,"Presiding Judge, Court of Criminal Appeals",,,Sharon Keller,152,78,74
+Dickens,Precinct 5,"Presiding Judge, Court of Criminal Appeals",,,Maria T. (Terri) Jackson,29,12,17
 Dickens,Precinct 5,"Presiding Judge, Court of Criminal Appeals",,,William Bryan Strange III,3,0,3
 Dickens,Precinct 5,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0
-Dickens,Precinct 5,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,2,10,12
-Dickens,Precinct 5,"Judge, Court of Criminal Appeals, Place 7",,,Barbara Parker Hervey,77,78,155
-Dickens,Precinct 5,"Judge, Court of Criminal Appeals, Place 7",,,Ramona Franklin,17,12,29
+Dickens,Precinct 5,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,12,10,2
+Dickens,Precinct 5,"Judge, Court of Criminal Appeals, Place 7",,,Barbara Parker Hervey,155,78,77
+Dickens,Precinct 5,"Judge, Court of Criminal Appeals, Place 7",,,Ramona Franklin,29,12,17
 Dickens,Precinct 5,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0
-Dickens,Precinct 5,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,2,10,12
-Dickens,Precinct 5,"Judge, Court of Criminal Appeals, Place 8",,,Michelle Slaughter,79,77,156
-Dickens,Precinct 5,"Judge, Court of Criminal Appeals, Place 8",,,Mark Ash,8,5,13
+Dickens,Precinct 5,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,12,10,2
+Dickens,Precinct 5,"Judge, Court of Criminal Appeals, Place 8",,,Michelle Slaughter,156,77,79
+Dickens,Precinct 5,"Judge, Court of Criminal Appeals, Place 8",,,Mark Ash,13,5,8
 Dickens,Precinct 5,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0
-Dickens,Precinct 5,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,9,18,27
-Dickens,Precinct 5,State Representative,68,REP,Drew Springer,82,80,162
+Dickens,Precinct 5,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,27,18,9
+Dickens,Precinct 5,State Representative,68,REP,Drew Springer,162,80,82
 Dickens,Precinct 5,State Representative,68,,Over Votes,0,0,0
-Dickens,Precinct 5,State Representative,68,,Under Votes,12,20,32
-Dickens,Precinct 5,"Justice, 7th Court of Appeals District, Place No. 2",,,Judy Parker,82,78,160
+Dickens,Precinct 5,State Representative,68,,Under Votes,32,20,12
+Dickens,Precinct 5,"Justice, 7th Court of Appeals District, Place No. 2",,,Judy Parker,160,78,82
 Dickens,Precinct 5,"Justice, 7th Court of Appeals District, Place No. 2",,,Over Votes,0,0,0
-Dickens,Precinct 5,"Justice, 7th Court of Appeals District, Place No. 2",,,Under Votes,12,22,34
-Dickens,Precinct 5,"Justice, 7th Court of Appeals District, Place No. 3",,,Pat Pirtle,82,78,160
+Dickens,Precinct 5,"Justice, 7th Court of Appeals District, Place No. 2",,,Under Votes,34,22,12
+Dickens,Precinct 5,"Justice, 7th Court of Appeals District, Place No. 3",,,Pat Pirtle,160,78,82
 Dickens,Precinct 5,"Justice, 7th Court of Appeals District, Place No. 3",,,Over Votes,0,0,0
-Dickens,Precinct 5,"Justice, 7th Court of Appeals District, Place No. 3",,,Under Votes,12,22,34
-Dickens,Precinct 5,"District Judge, 110th Judicial District",,,William P. Smith,83,79,162
+Dickens,Precinct 5,"Justice, 7th Court of Appeals District, Place No. 3",,,Under Votes,34,22,12
+Dickens,Precinct 5,"District Judge, 110th Judicial District",,,William P. Smith,162,79,83
 Dickens,Precinct 5,"District Judge, 110th Judicial District",,,Over Votes,0,0,0
-Dickens,Precinct 5,"District Judge, 110th Judicial District",,,Under Votes,9,21,30
-Dickens,Precinct 5,County Judge,,,Kevin Brendle,83,90,173
+Dickens,Precinct 5,"District Judge, 110th Judicial District",,,Under Votes,30,21,9
+Dickens,Precinct 5,County Judge,,,Kevin Brendle,173,90,83
 Dickens,Precinct 5,County Judge,,,Over Votes,0,0,0
-Dickens,Precinct 5,County Judge,,,Under Votes,9,10,19
-Dickens,Precinct 5,County Attorney - Unexpired Term,,,Aaron Clements (W,18,12,30
+Dickens,Precinct 5,County Judge,,,Under Votes,19,10,9
+Dickens,Precinct 5,County Attorney - Unexpired Term,,,Aaron Clements (W,30,12,18
 Dickens,Precinct 5,County Attorney - Unexpired Term,,,Over Votes,0,0,0
-Dickens,Precinct 5,County Attorney - Unexpired Term,,,Under Votes,70,94,164
-Dickens,Precinct 5,District and County Clerk,,,Becky S. Hill,84,88,172
+Dickens,Precinct 5,County Attorney - Unexpired Term,,,Under Votes,164,94,70
+Dickens,Precinct 5,District and County Clerk,,,Becky S. Hill,172,88,84
 Dickens,Precinct 5,District and County Clerk,,,Over Votes,0,0,0
-Dickens,Precinct 5,District and County Clerk,,,Under Votes,8,12,20
-Dickens,Precinct 6,Ballots Cast,,,,,,202
-Dickens,Precinct 6,County Treasurer,,,Darla Thomason,83,86,169
+Dickens,Precinct 5,District and County Clerk,,,Under Votes,20,12,8
+Dickens,Precinct 6,Ballots Cast,,,,202,,
+Dickens,Precinct 6,County Treasurer,,,Darla Thomason,169,86,83
 Dickens,Precinct 6,County Treasurer,,,Over Votes,0,0,0
-Dickens,Precinct 6,County Treasurer,,,Under Votes,9,14,23
-Dickens,Precinct 6,Justice of the Peace,,,Nancy Stone,83,88,171
+Dickens,Precinct 6,County Treasurer,,,Under Votes,23,14,9
+Dickens,Precinct 6,Justice of the Peace,,,Nancy Stone,171,88,83
 Dickens,Precinct 6,Justice of the Peace,,,Over Votes,0,0,0
-Dickens,Precinct 6,Justice of the Peace,,,Under Votes,9,12,21
+Dickens,Precinct 6,Justice of the Peace,,,Under Votes,21,12,9

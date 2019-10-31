@@ -1,1519 +1,1519 @@
-county,precinct,office,district,party,candidate,early_voting,election_day,votes
-Cass,Precinct 1,Ballots Cast,,,,,,1710
-Cass,Precinct 1,Straight Party,,REP,Republican Party,580,234,814
-Cass,Precinct 1,Straight Party,,DEM,Democratic Party,153,73,226
-Cass,Precinct 1,Straight Party,,LIB,Libertarian Party,2,2,4
+county,precinct,office,district,party,candidate,votes,election_day,early_voting
+Cass,Precinct 1,Ballots Cast,,,,1710,,
+Cass,Precinct 1,Straight Party,,REP,Republican Party,814,234,580
+Cass,Precinct 1,Straight Party,,DEM,Democratic Party,226,73,153
+Cass,Precinct 1,Straight Party,,LIB,Libertarian Party,4,2,2
 Cass,Precinct 1,Straight Party,,,Over Votes,1,0,1
-Cass,Precinct 1,Straight Party,,,Under Votes,471,193,664
-Cass,Precinct 1,U.S. Senate,,REP,Ted Cruz,941,395,1336
-Cass,Precinct 1,U.S. Senate,,DEM,Beto O'Rourke,234,92,326
-Cass,Precinct 1,U.S. Senate,,LIB,Neal M. Dikeman,6,2,8
+Cass,Precinct 1,Straight Party,,,Under Votes,664,193,471
+Cass,Precinct 1,U.S. Senate,,REP,Ted Cruz,1336,395,941
+Cass,Precinct 1,U.S. Senate,,DEM,Beto O'Rourke,326,92,234
+Cass,Precinct 1,U.S. Senate,,LIB,Neal M. Dikeman,8,2,6
 Cass,Precinct 1,U.S. Senate,,,Over Votes,0,0,0
-Cass,Precinct 1,U.S. Senate,,,Under Votes,27,13,40
-Cass,Precinct 1,U.S. House,4,REP,John Ratcliffe,951,381,1332
-Cass,Precinct 1,U.S. House,4,DEM,Catherine Krantz,232,97,329
-Cass,Precinct 1,U.S. House,4,LIB,Ken Ashby,5,10,15
+Cass,Precinct 1,U.S. Senate,,,Under Votes,40,13,27
+Cass,Precinct 1,U.S. House,4,REP,John Ratcliffe,1332,381,951
+Cass,Precinct 1,U.S. House,4,DEM,Catherine Krantz,329,97,232
+Cass,Precinct 1,U.S. House,4,LIB,Ken Ashby,15,10,5
 Cass,Precinct 1,U.S. House,4,,Over Votes,0,0,0
-Cass,Precinct 1,U.S. House,4,,Under Votes,20,14,34
-Cass,Precinct 1,Governor,,REP,Greg Abbott,959,391,1350
-Cass,Precinct 1,Governor,,DEM,Lupe Valdez,225,94,319
-Cass,Precinct 1,Governor,,LIB,Mark Jay Tippetts,9,7,16
+Cass,Precinct 1,U.S. House,4,,Under Votes,34,14,20
+Cass,Precinct 1,Governor,,REP,Greg Abbott,1350,391,959
+Cass,Precinct 1,Governor,,DEM,Lupe Valdez,319,94,225
+Cass,Precinct 1,Governor,,LIB,Mark Jay Tippetts,16,7,9
 Cass,Precinct 1,Governor,,,Over Votes,0,0,0
-Cass,Precinct 1,Governor,,,Under Votes,15,10,25
-Cass,Precinct 1,Lieutenant Governor,,REP,Dan Patrick,896,370,1266
-Cass,Precinct 1,Lieutenant Governor,,DEM,Mike Collier,277,111,388
-Cass,Precinct 1,Lieutenant Governor,,LIB,Kerry Douglas McKennon,14,6,20
+Cass,Precinct 1,Governor,,,Under Votes,25,10,15
+Cass,Precinct 1,Lieutenant Governor,,REP,Dan Patrick,1266,370,896
+Cass,Precinct 1,Lieutenant Governor,,DEM,Mike Collier,388,111,277
+Cass,Precinct 1,Lieutenant Governor,,LIB,Kerry Douglas McKennon,20,6,14
 Cass,Precinct 1,Lieutenant Governor,,,Over Votes,0,0,0
-Cass,Precinct 1,Lieutenant Governor,,,Under Votes,21,15,36
-Cass,Precinct 1,Attorney General,,REP,Ken Paxton,914,375,1289
-Cass,Precinct 1,Attorney General,,DEM,Justin Nelson,262,104,366
-Cass,Precinct 1,Attorney General,,LIB,Michael Ray Harris,12,7,19
+Cass,Precinct 1,Lieutenant Governor,,,Under Votes,36,15,21
+Cass,Precinct 1,Attorney General,,REP,Ken Paxton,1289,375,914
+Cass,Precinct 1,Attorney General,,DEM,Justin Nelson,366,104,262
+Cass,Precinct 1,Attorney General,,LIB,Michael Ray Harris,19,7,12
 Cass,Precinct 1,Attorney General,,,Over Votes,0,0,0
-Cass,Precinct 1,Attorney General,,,Under Votes,20,16,36
-Cass,Precinct 1,Comptroller of Public Accounts,,REP,Glenn Hegar,939,385,1324
-Cass,Precinct 1,Comptroller of Public Accounts,,DEM,Joi Chevalier,217,90,307
-Cass,Precinct 1,Comptroller of Public Accounts,,LIB,Ben Sanders,20,11,31
+Cass,Precinct 1,Attorney General,,,Under Votes,36,16,20
+Cass,Precinct 1,Comptroller of Public Accounts,,REP,Glenn Hegar,1324,385,939
+Cass,Precinct 1,Comptroller of Public Accounts,,DEM,Joi Chevalier,307,90,217
+Cass,Precinct 1,Comptroller of Public Accounts,,LIB,Ben Sanders,31,11,20
 Cass,Precinct 1,Comptroller of Public Accounts,,,Over Votes,1,0,1
-Cass,Precinct 1,Comptroller of Public Accounts,,,Under Votes,31,16,47
-Cass,Precinct 1,Commissioner of the General Land Office,,REP,George P. Bush,909,374,1283
-Cass,Precinct 1,Commissioner of the General Land Office,,DEM,Miguel Suazo,248,97,345
-Cass,Precinct 1,Commissioner of the General Land Office,,LIB,Matt Pina,29,17,46
+Cass,Precinct 1,Comptroller of Public Accounts,,,Under Votes,47,16,31
+Cass,Precinct 1,Commissioner of the General Land Office,,REP,George P. Bush,1283,374,909
+Cass,Precinct 1,Commissioner of the General Land Office,,DEM,Miguel Suazo,345,97,248
+Cass,Precinct 1,Commissioner of the General Land Office,,LIB,Matt Pina,46,17,29
 Cass,Precinct 1,Commissioner of the General Land Office,,,Over Votes,1,0,1
-Cass,Precinct 1,Commissioner of the General Land Office,,,Under Votes,21,14,35
-Cass,Precinct 1,Commissioner of Agriculture,,REP,Sid Miller,898,379,1277
-Cass,Precinct 1,Commissioner of Agriculture,,DEM,Kim Olson,260,101,361
-Cass,Precinct 1,Commissioner of Agriculture,,LIB,Richard Carpenter,17,7,24
+Cass,Precinct 1,Commissioner of the General Land Office,,,Under Votes,35,14,21
+Cass,Precinct 1,Commissioner of Agriculture,,REP,Sid Miller,1277,379,898
+Cass,Precinct 1,Commissioner of Agriculture,,DEM,Kim Olson,361,101,260
+Cass,Precinct 1,Commissioner of Agriculture,,LIB,Richard Carpenter,24,7,17
 Cass,Precinct 1,Commissioner of Agriculture,,,Over Votes,0,0,0
-Cass,Precinct 1,Commissioner of Agriculture,,,Under Votes,33,15,48
-Cass,Precinct 1,Railroad Commissioner,,REP,Christi Craddick,929,378,1307
-Cass,Precinct 1,Railroad Commissioner,,DEM,Roman McAllen,236,97,333
-Cass,Precinct 1,Railroad Commissioner,,LIB,Mike Wright,11,12,23
+Cass,Precinct 1,Commissioner of Agriculture,,,Under Votes,48,15,33
+Cass,Precinct 1,Railroad Commissioner,,REP,Christi Craddick,1307,378,929
+Cass,Precinct 1,Railroad Commissioner,,DEM,Roman McAllen,333,97,236
+Cass,Precinct 1,Railroad Commissioner,,LIB,Mike Wright,23,12,11
 Cass,Precinct 1,Railroad Commissioner,,,Over Votes,0,0,0
-Cass,Precinct 1,Railroad Commissioner,,,Under Votes,32,15,47
-Cass,Precinct 1,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,923,380,1303
-Cass,Precinct 1,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,249,106,355
+Cass,Precinct 1,Railroad Commissioner,,,Under Votes,47,15,32
+Cass,Precinct 1,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,1303,380,923
+Cass,Precinct 1,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,355,106,249
 Cass,Precinct 1,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0
-Cass,Precinct 1,"Justice, Supreme Court, Place 2",,,Under Votes,36,16,52
-Cass,Precinct 1,"Justice, Supreme Court, Place 4",,REP,John Devine,932,384,1316
-Cass,Precinct 1,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,239,103,342
+Cass,Precinct 1,"Justice, Supreme Court, Place 2",,,Under Votes,52,16,36
+Cass,Precinct 1,"Justice, Supreme Court, Place 4",,REP,John Devine,1316,384,932
+Cass,Precinct 1,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,342,103,239
 Cass,Precinct 1,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0
-Cass,Precinct 1,"Justice, Supreme Court, Place 4",,,Under Votes,37,15,52
-Cass,Precinct 1,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,925,385,1310
-Cass,Precinct 1,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,248,102,350
+Cass,Precinct 1,"Justice, Supreme Court, Place 4",,,Under Votes,52,15,37
+Cass,Precinct 1,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,1310,385,925
+Cass,Precinct 1,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,350,102,248
 Cass,Precinct 1,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0
-Cass,Precinct 1,"Justice, Supreme Court, Place 6",,,Under Votes,35,15,50
-Cass,Precinct 1,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,919,383,1302
-Cass,Precinct 1,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,244,94,338
-Cass,Precinct 1,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,10,9,19
+Cass,Precinct 1,"Justice, Supreme Court, Place 6",,,Under Votes,50,15,35
+Cass,Precinct 1,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,1302,383,919
+Cass,Precinct 1,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,338,94,244
+Cass,Precinct 1,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,19,9,10
 Cass,Precinct 1,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0
-Cass,Precinct 1,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,35,16,51
-Cass,Precinct 1,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,939,391,1330
-Cass,Precinct 1,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,232,94,326
+Cass,Precinct 1,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,51,16,35
+Cass,Precinct 1,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,1330,391,939
+Cass,Precinct 1,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,326,94,232
 Cass,Precinct 1,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0
-Cass,Precinct 1,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,37,17,54
-Cass,Precinct 1,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,956,391,1347
-Cass,Precinct 1,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,82,29,111
+Cass,Precinct 1,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,54,17,37
+Cass,Precinct 1,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,1347,391,956
+Cass,Precinct 1,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,111,29,82
 Cass,Precinct 1,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0
-Cass,Precinct 1,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,170,82,252
-Cass,Precinct 1,State Representative,9,REP,Chris Paddie,987,403,1390
+Cass,Precinct 1,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,252,82,170
+Cass,Precinct 1,State Representative,9,REP,Chris Paddie,1390,403,987
 Cass,Precinct 1,State Representative,9,,Over Votes,0,0,0
-Cass,Precinct 1,State Representative,9,,Under Votes,221,99,320
-Cass,Precinct 1,"Justice, 6th Court of Appeals District, Place No. 2",,REP,Scott Stevens,976,400,1376
+Cass,Precinct 1,State Representative,9,,Under Votes,320,99,221
+Cass,Precinct 1,"Justice, 6th Court of Appeals District, Place No. 2",,REP,Scott Stevens,1376,400,976
 Cass,Precinct 1,"Justice, 6th Court of Appeals District, Place No. 2",,,Over Votes,0,0,0
-Cass,Precinct 1,"Justice, 6th Court of Appeals District, Place No. 2",,,Under Votes,232,102,334
-Cass,Precinct 1,Trustee - Place 3,,,Kay Stephens,482,172,654
-Cass,Precinct 1,Trustee - Place 3,,,R. Curtis Lane,329,133,462
+Cass,Precinct 1,"Justice, 6th Court of Appeals District, Place No. 2",,,Under Votes,334,102,232
+Cass,Precinct 1,Trustee - Place 3,,,Kay Stephens,654,172,482
+Cass,Precinct 1,Trustee - Place 3,,,R. Curtis Lane,462,133,329
 Cass,Precinct 1,Trustee - Place 3,,,Over Votes,1,0,1
-Cass,Precinct 1,Trustee - Place 3,,,Under Votes,317,162,479
-Cass,Precinct 1,Trustee - Place 4,,,Kerry Wells,684,275,959
+Cass,Precinct 1,Trustee - Place 3,,,Under Votes,479,162,317
+Cass,Precinct 1,Trustee - Place 4,,,Kerry Wells,959,275,684
 Cass,Precinct 1,Trustee - Place 4,,,Over Votes,0,0,0
-Cass,Precinct 1,Trustee - Place 4,,,Under Votes,444,192,636
-Cass,Precinct 2,Ballots Cast,,,,,,232
-Cass,Precinct 2,Straight Party,,REP,Republican Party,74,44,118
-Cass,Precinct 2,Straight Party,,DEM,Democratic Party,19,22,41
+Cass,Precinct 1,Trustee - Place 4,,,Under Votes,636,192,444
+Cass,Precinct 2,Ballots Cast,,,,232,,
+Cass,Precinct 2,Straight Party,,REP,Republican Party,118,44,74
+Cass,Precinct 2,Straight Party,,DEM,Democratic Party,41,22,19
 Cass,Precinct 2,Straight Party,,LIB,Libertarian Party,0,0,0
 Cass,Precinct 2,Straight Party,,,Over Votes,0,0,0
-Cass,Precinct 2,Straight Party,,,Under Votes,35,38,73
-Cass,Precinct 2,U.S. Senate,,REP,Ted Cruz,105,70,175
-Cass,Precinct 2,U.S. Senate,,DEM,Beto O'Rourke,22,31,53
-Cass,Precinct 2,U.S. Senate,,LIB,Neal M. Dikeman,1,1,2
+Cass,Precinct 2,Straight Party,,,Under Votes,73,38,35
+Cass,Precinct 2,U.S. Senate,,REP,Ted Cruz,175,70,105
+Cass,Precinct 2,U.S. Senate,,DEM,Beto O'Rourke,53,31,22
+Cass,Precinct 2,U.S. Senate,,LIB,Neal M. Dikeman,2,1,1
 Cass,Precinct 2,U.S. Senate,,,Over Votes,0,0,0
-Cass,Precinct 2,U.S. Senate,,,Under Votes,0,2,2
-Cass,Precinct 2,U.S. House,4,REP,John Ratcliffe,104,73,177
-Cass,Precinct 2,U.S. House,4,DEM,Catherine Krantz,22,29,51
-Cass,Precinct 2,U.S. House,4,LIB,Ken Ashby,1,1,2
+Cass,Precinct 2,U.S. Senate,,,Under Votes,2,2,0
+Cass,Precinct 2,U.S. House,4,REP,John Ratcliffe,177,73,104
+Cass,Precinct 2,U.S. House,4,DEM,Catherine Krantz,51,29,22
+Cass,Precinct 2,U.S. House,4,LIB,Ken Ashby,2,1,1
 Cass,Precinct 2,U.S. House,4,,Over Votes,0,0,0
-Cass,Precinct 2,U.S. House,4,,Under Votes,1,1,2
-Cass,Precinct 2,Governor,,REP,Greg Abbott,104,77,181
-Cass,Precinct 2,Governor,,DEM,Lupe Valdez,23,25,48
-Cass,Precinct 2,Governor,,LIB,Mark Jay Tippetts,0,1,1
+Cass,Precinct 2,U.S. House,4,,Under Votes,2,1,1
+Cass,Precinct 2,Governor,,REP,Greg Abbott,181,77,104
+Cass,Precinct 2,Governor,,DEM,Lupe Valdez,48,25,23
+Cass,Precinct 2,Governor,,LIB,Mark Jay Tippetts,1,1,0
 Cass,Precinct 2,Governor,,,Over Votes,0,0,0
-Cass,Precinct 2,Governor,,,Under Votes,1,1,2
-Cass,Precinct 2,Lieutenant Governor,,REP,Dan Patrick,102,67,169
-Cass,Precinct 2,Lieutenant Governor,,DEM,Mike Collier,24,33,57
-Cass,Precinct 2,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,3,4
+Cass,Precinct 2,Governor,,,Under Votes,2,1,1
+Cass,Precinct 2,Lieutenant Governor,,REP,Dan Patrick,169,67,102
+Cass,Precinct 2,Lieutenant Governor,,DEM,Mike Collier,57,33,24
+Cass,Precinct 2,Lieutenant Governor,,LIB,Kerry Douglas McKennon,4,3,1
 Cass,Precinct 2,Lieutenant Governor,,,Over Votes,0,0,0
-Cass,Precinct 2,Lieutenant Governor,,,Under Votes,1,1,2
-Cass,Precinct 2,Attorney General,,REP,Ken Paxton,103,69,172
-Cass,Precinct 2,Attorney General,,DEM,Justin Nelson,24,31,55
-Cass,Precinct 2,Attorney General,,LIB,Michael Ray Harris,0,1,1
+Cass,Precinct 2,Lieutenant Governor,,,Under Votes,2,1,1
+Cass,Precinct 2,Attorney General,,REP,Ken Paxton,172,69,103
+Cass,Precinct 2,Attorney General,,DEM,Justin Nelson,55,31,24
+Cass,Precinct 2,Attorney General,,LIB,Michael Ray Harris,1,1,0
 Cass,Precinct 2,Attorney General,,,Over Votes,0,0,0
-Cass,Precinct 2,Attorney General,,,Under Votes,1,3,4
-Cass,Precinct 2,Comptroller of Public Accounts,,REP,Glenn Hegar,104,70,174
-Cass,Precinct 2,Comptroller of Public Accounts,,DEM,Joi Chevalier,23,28,51
-Cass,Precinct 2,Comptroller of Public Accounts,,LIB,Ben Sanders,0,4,4
+Cass,Precinct 2,Attorney General,,,Under Votes,4,3,1
+Cass,Precinct 2,Comptroller of Public Accounts,,REP,Glenn Hegar,174,70,104
+Cass,Precinct 2,Comptroller of Public Accounts,,DEM,Joi Chevalier,51,28,23
+Cass,Precinct 2,Comptroller of Public Accounts,,LIB,Ben Sanders,4,4,0
 Cass,Precinct 2,Comptroller of Public Accounts,,,Over Votes,0,0,0
-Cass,Precinct 2,Comptroller of Public Accounts,,,Under Votes,1,2,3
-Cass,Precinct 2,Commissioner of the General Land Office,,REP,George P. Bush,100,72,172
-Cass,Precinct 2,Commissioner of the General Land Office,,DEM,Miguel Suazo,23,29,52
-Cass,Precinct 2,Commissioner of the General Land Office,,LIB,Matt Pina,2,2,4
+Cass,Precinct 2,Comptroller of Public Accounts,,,Under Votes,3,2,1
+Cass,Precinct 2,Commissioner of the General Land Office,,REP,George P. Bush,172,72,100
+Cass,Precinct 2,Commissioner of the General Land Office,,DEM,Miguel Suazo,52,29,23
+Cass,Precinct 2,Commissioner of the General Land Office,,LIB,Matt Pina,4,2,2
 Cass,Precinct 2,Commissioner of the General Land Office,,,Over Votes,0,0,0
-Cass,Precinct 2,Commissioner of the General Land Office,,,Under Votes,3,1,4
-Cass,Precinct 2,Commissioner of Agriculture,,REP,Sid Miller,103,71,174
-Cass,Precinct 2,Commissioner of Agriculture,,DEM,Kim Olson,24,29,53
-Cass,Precinct 2,Commissioner of Agriculture,,LIB,Richard Carpenter,0,3,3
+Cass,Precinct 2,Commissioner of the General Land Office,,,Under Votes,4,1,3
+Cass,Precinct 2,Commissioner of Agriculture,,REP,Sid Miller,174,71,103
+Cass,Precinct 2,Commissioner of Agriculture,,DEM,Kim Olson,53,29,24
+Cass,Precinct 2,Commissioner of Agriculture,,LIB,Richard Carpenter,3,3,0
 Cass,Precinct 2,Commissioner of Agriculture,,,Over Votes,0,0,0
-Cass,Precinct 2,Commissioner of Agriculture,,,Under Votes,1,1,2
-Cass,Precinct 2,Railroad Commissioner,,REP,Christi Craddick,102,72,174
-Cass,Precinct 2,Railroad Commissioner,,DEM,Roman McAllen,24,29,53
-Cass,Precinct 2,Railroad Commissioner,,LIB,Mike Wright,2,2,4
+Cass,Precinct 2,Commissioner of Agriculture,,,Under Votes,2,1,1
+Cass,Precinct 2,Railroad Commissioner,,REP,Christi Craddick,174,72,102
+Cass,Precinct 2,Railroad Commissioner,,DEM,Roman McAllen,53,29,24
+Cass,Precinct 2,Railroad Commissioner,,LIB,Mike Wright,4,2,2
 Cass,Precinct 2,Railroad Commissioner,,,Over Votes,0,0,0
-Cass,Precinct 2,Railroad Commissioner,,,Under Votes,0,1,1
-Cass,Precinct 2,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,104,73,177
-Cass,Precinct 2,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,24,30,54
+Cass,Precinct 2,Railroad Commissioner,,,Under Votes,1,1,0
+Cass,Precinct 2,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,177,73,104
+Cass,Precinct 2,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,54,30,24
 Cass,Precinct 2,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0
-Cass,Precinct 2,"Justice, Supreme Court, Place 2",,,Under Votes,0,1,1
-Cass,Precinct 2,"Justice, Supreme Court, Place 4",,REP,John Devine,104,70,174
-Cass,Precinct 2,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,24,32,56
+Cass,Precinct 2,"Justice, Supreme Court, Place 2",,,Under Votes,1,1,0
+Cass,Precinct 2,"Justice, Supreme Court, Place 4",,REP,John Devine,174,70,104
+Cass,Precinct 2,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,56,32,24
 Cass,Precinct 2,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0
-Cass,Precinct 2,"Justice, Supreme Court, Place 4",,,Under Votes,0,2,2
-Cass,Precinct 2,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,104,73,177
-Cass,Precinct 2,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,24,30,54
+Cass,Precinct 2,"Justice, Supreme Court, Place 4",,,Under Votes,2,2,0
+Cass,Precinct 2,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,177,73,104
+Cass,Precinct 2,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,54,30,24
 Cass,Precinct 2,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0
-Cass,Precinct 2,"Justice, Supreme Court, Place 6",,,Under Votes,0,1,1
-Cass,Precinct 2,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,103,73,176
-Cass,Precinct 2,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,23,28,51
-Cass,Precinct 2,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,2,2,4
+Cass,Precinct 2,"Justice, Supreme Court, Place 6",,,Under Votes,1,1,0
+Cass,Precinct 2,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,176,73,103
+Cass,Precinct 2,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,51,28,23
+Cass,Precinct 2,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,4,2,2
 Cass,Precinct 2,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0
-Cass,Precinct 2,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,0,1,1
-Cass,Precinct 2,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,104,73,177
-Cass,Precinct 2,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,24,30,54
+Cass,Precinct 2,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,1,1,0
+Cass,Precinct 2,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,177,73,104
+Cass,Precinct 2,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,54,30,24
 Cass,Precinct 2,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0
-Cass,Precinct 2,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,0,1,1
-Cass,Precinct 2,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,104,76,180
-Cass,Precinct 2,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,8,7,15
+Cass,Precinct 2,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,1,1,0
+Cass,Precinct 2,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,180,76,104
+Cass,Precinct 2,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,15,7,8
 Cass,Precinct 2,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0
-Cass,Precinct 2,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,16,21,37
-Cass,Precinct 2,State Representative,9,REP,Chris Paddie,109,80,189
+Cass,Precinct 2,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,37,21,16
+Cass,Precinct 2,State Representative,9,REP,Chris Paddie,189,80,109
 Cass,Precinct 2,State Representative,9,,Over Votes,0,0,0
-Cass,Precinct 2,State Representative,9,,Under Votes,19,24,43
-Cass,Precinct 2,"Justice, 6th Court of Appeals District, Place No. 2",,REP,Scott Stevens,108,78,186
+Cass,Precinct 2,State Representative,9,,Under Votes,43,24,19
+Cass,Precinct 2,"Justice, 6th Court of Appeals District, Place No. 2",,REP,Scott Stevens,186,78,108
 Cass,Precinct 2,"Justice, 6th Court of Appeals District, Place No. 2",,,Over Votes,0,0,0
-Cass,Precinct 2,"Justice, 6th Court of Appeals District, Place No. 2",,,Under Votes,20,26,46
-Cass,Precinct 2,Trustee - Place 3,,,Kay Stephens,22,30,52
-Cass,Precinct 2,Trustee - Place 3,,,R. Curtis Lane,26,27,53
+Cass,Precinct 2,"Justice, 6th Court of Appeals District, Place No. 2",,,Under Votes,46,26,20
+Cass,Precinct 2,Trustee - Place 3,,,Kay Stephens,52,30,22
+Cass,Precinct 2,Trustee - Place 3,,,R. Curtis Lane,53,27,26
 Cass,Precinct 2,Trustee - Place 3,,,Over Votes,0,0,0
-Cass,Precinct 2,Trustee - Place 3,,,Under Votes,34,22,56
-Cass,Precinct 2,Trustee - Place 4,,,Kerry Wells,45,51,96
+Cass,Precinct 2,Trustee - Place 3,,,Under Votes,56,22,34
+Cass,Precinct 2,Trustee - Place 4,,,Kerry Wells,96,51,45
 Cass,Precinct 2,Trustee - Place 4,,,Over Votes,0,0,0
-Cass,Precinct 2,Trustee - Place 4,,,Under Votes,37,28,65
-Cass,Precinct 2,Straight Party,,REP,Republican Party,69,34,103
-Cass,Precinct 2,Straight Party,,DEM,Democratic Party,33,23,56
-Cass,Precinct 2,Straight Party,,LIB,Libertarian Party,0,1,1
+Cass,Precinct 2,Trustee - Place 4,,,Under Votes,65,28,37
+Cass,Precinct 2,Straight Party,,REP,Republican Party,103,34,69
+Cass,Precinct 2,Straight Party,,DEM,Democratic Party,56,23,33
+Cass,Precinct 2,Straight Party,,LIB,Libertarian Party,1,1,0
 Cass,Precinct 2,Straight Party,,,Over Votes,0,0,0
-Cass,Precinct 2,Straight Party,,,Under Votes,46,36,82
-Cass,Precinct 2,U.S. Senate,,REP,Ted Cruz,103,61,164
-Cass,Precinct 2,U.S. Senate,,DEM,Beto O'Rourke,42,28,70
-Cass,Precinct 2,U.S. Senate,,LIB,Neal M. Dikeman,1,1,2
+Cass,Precinct 2,Straight Party,,,Under Votes,82,36,46
+Cass,Precinct 2,U.S. Senate,,REP,Ted Cruz,164,61,103
+Cass,Precinct 2,U.S. Senate,,DEM,Beto O'Rourke,70,28,42
+Cass,Precinct 2,U.S. Senate,,LIB,Neal M. Dikeman,2,1,1
 Cass,Precinct 2,U.S. Senate,,,Over Votes,0,0,0
-Cass,Precinct 2,U.S. Senate,,,Under Votes,2,4,6
-Cass,Precinct 2,U.S. House,4,REP,John Ratcliffe,102,60,162
-Cass,Precinct 2,U.S. House,4,DEM,Catherine Krantz,42,26,68
-Cass,Precinct 2,U.S. House,4,LIB,Ken Ashby,2,3,5
+Cass,Precinct 2,U.S. Senate,,,Under Votes,6,4,2
+Cass,Precinct 2,U.S. House,4,REP,John Ratcliffe,162,60,102
+Cass,Precinct 2,U.S. House,4,DEM,Catherine Krantz,68,26,42
+Cass,Precinct 2,U.S. House,4,LIB,Ken Ashby,5,3,2
 Cass,Precinct 2,U.S. House,4,,Over Votes,0,0,0
-Cass,Precinct 2,U.S. House,4,,Under Votes,2,5,7
-Cass,Precinct 2,Governor,,REP,Greg Abbott,99,63,162
-Cass,Precinct 2,Governor,,DEM,Lupe Valdez,43,23,66
-Cass,Precinct 2,Governor,,LIB,Mark Jay Tippetts,1,1,2
+Cass,Precinct 2,U.S. House,4,,Under Votes,7,5,2
+Cass,Precinct 2,Governor,,REP,Greg Abbott,162,63,99
+Cass,Precinct 2,Governor,,DEM,Lupe Valdez,66,23,43
+Cass,Precinct 2,Governor,,LIB,Mark Jay Tippetts,2,1,1
 Cass,Precinct 2,Governor,,,Over Votes,0,0,0
-Cass,Precinct 2,Governor,,,Under Votes,5,7,12
-Cass,Precinct 2,Lieutenant Governor,,REP,Dan Patrick,93,53,146
-Cass,Precinct 2,Lieutenant Governor,,DEM,Mike Collier,49,33,82
-Cass,Precinct 2,Lieutenant Governor,,LIB,Kerry Douglas McKennon,2,2,4
+Cass,Precinct 2,Governor,,,Under Votes,12,7,5
+Cass,Precinct 2,Lieutenant Governor,,REP,Dan Patrick,146,53,93
+Cass,Precinct 2,Lieutenant Governor,,DEM,Mike Collier,82,33,49
+Cass,Precinct 2,Lieutenant Governor,,LIB,Kerry Douglas McKennon,4,2,2
 Cass,Precinct 2,Lieutenant Governor,,,Over Votes,0,0,0
-Cass,Precinct 2,Lieutenant Governor,,,Under Votes,4,6,10
-Cass,Precinct 2,Attorney General,,REP,Ken Paxton,102,59,161
-Cass,Precinct 2,Attorney General,,DEM,Justin Nelson,42,29,71
-Cass,Precinct 2,Attorney General,,LIB,Michael Ray Harris,1,2,3
+Cass,Precinct 2,Lieutenant Governor,,,Under Votes,10,6,4
+Cass,Precinct 2,Attorney General,,REP,Ken Paxton,161,59,102
+Cass,Precinct 2,Attorney General,,DEM,Justin Nelson,71,29,42
+Cass,Precinct 2,Attorney General,,LIB,Michael Ray Harris,3,2,1
 Cass,Precinct 2,Attorney General,,,Over Votes,0,0,0
-Cass,Precinct 2,Attorney General,,,Under Votes,3,4,7
-Cass,Precinct 2,Comptroller of Public Accounts,,REP,Glenn Hegar,104,61,165
-Cass,Precinct 2,Comptroller of Public Accounts,,DEM,Joi Chevalier,39,25,64
-Cass,Precinct 2,Comptroller of Public Accounts,,LIB,Ben Sanders,1,3,4
+Cass,Precinct 2,Attorney General,,,Under Votes,7,4,3
+Cass,Precinct 2,Comptroller of Public Accounts,,REP,Glenn Hegar,165,61,104
+Cass,Precinct 2,Comptroller of Public Accounts,,DEM,Joi Chevalier,64,25,39
+Cass,Precinct 2,Comptroller of Public Accounts,,LIB,Ben Sanders,4,3,1
 Cass,Precinct 2,Comptroller of Public Accounts,,,Over Votes,0,0,0
-Cass,Precinct 2,Comptroller of Public Accounts,,,Under Votes,4,5,9
-Cass,Precinct 2,Commissioner of the General Land Office,,REP,George P. Bush,97,57,154
-Cass,Precinct 2,Commissioner of the General Land Office,,DEM,Miguel Suazo,43,29,72
-Cass,Precinct 2,Commissioner of the General Land Office,,LIB,Matt Pina,5,4,9
+Cass,Precinct 2,Comptroller of Public Accounts,,,Under Votes,9,5,4
+Cass,Precinct 2,Commissioner of the General Land Office,,REP,George P. Bush,154,57,97
+Cass,Precinct 2,Commissioner of the General Land Office,,DEM,Miguel Suazo,72,29,43
+Cass,Precinct 2,Commissioner of the General Land Office,,LIB,Matt Pina,9,4,5
 Cass,Precinct 2,Commissioner of the General Land Office,,,Over Votes,0,0,0
-Cass,Precinct 2,Commissioner of the General Land Office,,,Under Votes,3,4,7
-Cass,Precinct 2,Commissioner of Agriculture,,REP,Sid Miller,100,57,157
-Cass,Precinct 2,Commissioner of Agriculture,,DEM,Kim Olson,43,28,71
-Cass,Precinct 2,Commissioner of Agriculture,,LIB,Richard Carpenter,1,4,5
+Cass,Precinct 2,Commissioner of the General Land Office,,,Under Votes,7,4,3
+Cass,Precinct 2,Commissioner of Agriculture,,REP,Sid Miller,157,57,100
+Cass,Precinct 2,Commissioner of Agriculture,,DEM,Kim Olson,71,28,43
+Cass,Precinct 2,Commissioner of Agriculture,,LIB,Richard Carpenter,5,4,1
 Cass,Precinct 2,Commissioner of Agriculture,,,Over Votes,0,0,0
-Cass,Precinct 2,Commissioner of Agriculture,,,Under Votes,4,5,9
-Cass,Precinct 2,Railroad Commissioner,,REP,Christi Craddick,99,60,159
-Cass,Precinct 2,Railroad Commissioner,,DEM,Roman McAllen,42,25,67
-Cass,Precinct 2,Railroad Commissioner,,LIB,Mike Wright,2,4,6
+Cass,Precinct 2,Commissioner of Agriculture,,,Under Votes,9,5,4
+Cass,Precinct 2,Railroad Commissioner,,REP,Christi Craddick,159,60,99
+Cass,Precinct 2,Railroad Commissioner,,DEM,Roman McAllen,67,25,42
+Cass,Precinct 2,Railroad Commissioner,,LIB,Mike Wright,6,4,2
 Cass,Precinct 2,Railroad Commissioner,,,Over Votes,0,0,0
-Cass,Precinct 2,Railroad Commissioner,,,Under Votes,5,5,10
-Cass,Precinct 2,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,100,60,160
-Cass,Precinct 2,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,43,29,72
+Cass,Precinct 2,Railroad Commissioner,,,Under Votes,10,5,5
+Cass,Precinct 2,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,160,60,100
+Cass,Precinct 2,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,72,29,43
 Cass,Precinct 2,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0
-Cass,Precinct 2,"Justice, Supreme Court, Place 2",,,Under Votes,5,5,10
-Cass,Precinct 2,"Justice, Supreme Court, Place 4",,REP,John Devine,102,60,162
-Cass,Precinct 2,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,43,27,70
+Cass,Precinct 2,"Justice, Supreme Court, Place 2",,,Under Votes,10,5,5
+Cass,Precinct 2,"Justice, Supreme Court, Place 4",,REP,John Devine,162,60,102
+Cass,Precinct 2,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,70,27,43
 Cass,Precinct 2,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0
-Cass,Precinct 2,"Justice, Supreme Court, Place 4",,,Under Votes,3,7,10
-Cass,Precinct 2,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,102,62,164
-Cass,Precinct 2,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,42,27,69
+Cass,Precinct 2,"Justice, Supreme Court, Place 4",,,Under Votes,10,7,3
+Cass,Precinct 2,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,164,62,102
+Cass,Precinct 2,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,69,27,42
 Cass,Precinct 2,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0
-Cass,Precinct 2,"Justice, Supreme Court, Place 6",,,Under Votes,4,5,9
-Cass,Precinct 2,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,102,59,161
-Cass,Precinct 2,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,40,30,70
-Cass,Precinct 2,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,3,3,6
+Cass,Precinct 2,"Justice, Supreme Court, Place 6",,,Under Votes,9,5,4
+Cass,Precinct 2,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,161,59,102
+Cass,Precinct 2,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,70,30,40
+Cass,Precinct 2,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,6,3,3
 Cass,Precinct 2,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0
-Cass,Precinct 2,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,3,2,5
-Cass,Precinct 2,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,102,59,161
-Cass,Precinct 2,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,41,30,71
+Cass,Precinct 2,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,5,2,3
+Cass,Precinct 2,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,161,59,102
+Cass,Precinct 2,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,71,30,41
 Cass,Precinct 2,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0
-Cass,Precinct 2,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,5,5,10
-Cass,Precinct 2,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,105,63,168
-Cass,Precinct 2,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,10,10,20
+Cass,Precinct 2,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,10,5,5
+Cass,Precinct 2,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,168,63,105
+Cass,Precinct 2,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,20,10,10
 Cass,Precinct 2,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0
-Cass,Precinct 2,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,33,21,54
-Cass,Precinct 4,Ballots Cast,,,,,,242
-Cass,Precinct 4,State Representative,9,REP,Chris Paddie,98,65,163
+Cass,Precinct 2,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,54,21,33
+Cass,Precinct 4,Ballots Cast,,,,242,,
+Cass,Precinct 4,State Representative,9,REP,Chris Paddie,163,65,98
 Cass,Precinct 4,State Representative,9,,Over Votes,0,0,0
-Cass,Precinct 4,State Representative,9,,Under Votes,50,29,79
-Cass,Precinct 4,"Justice, 6th Court of Appeals District, Place No. 2",,REP,Scott Stevens,101,66,167
+Cass,Precinct 4,State Representative,9,,Under Votes,79,29,50
+Cass,Precinct 4,"Justice, 6th Court of Appeals District, Place No. 2",,REP,Scott Stevens,167,66,101
 Cass,Precinct 4,"Justice, 6th Court of Appeals District, Place No. 2",,,Over Votes,0,0,0
-Cass,Precinct 4,"Justice, 6th Court of Appeals District, Place No. 2",,,Under Votes,47,28,75
-Cass,Precinct 4,Trustee - Place 3,,,Kay Stephens,17,7,24
-Cass,Precinct 4,Trustee - Place 3,,,R. Curtis Lane,14,10,24
+Cass,Precinct 4,"Justice, 6th Court of Appeals District, Place No. 2",,,Under Votes,75,28,47
+Cass,Precinct 4,Trustee - Place 3,,,Kay Stephens,24,7,17
+Cass,Precinct 4,Trustee - Place 3,,,R. Curtis Lane,24,10,14
 Cass,Precinct 4,Trustee - Place 3,,,Over Votes,0,0,0
-Cass,Precinct 4,Trustee - Place 3,,,Under Votes,9,4,13
-Cass,Precinct 4,Trustee - Place 4,,,Kerry Wells,25,16,41
+Cass,Precinct 4,Trustee - Place 3,,,Under Votes,13,4,9
+Cass,Precinct 4,Trustee - Place 4,,,Kerry Wells,41,16,25
 Cass,Precinct 4,Trustee - Place 4,,,Over Votes,0,0,0
-Cass,Precinct 4,Trustee - Place 4,,,Under Votes,15,5,20
-Cass,Precinct 5,Ballots Cast,,,,,,478
-Cass,Precinct 5,Straight Party,,REP,Republican Party,128,168,296
-Cass,Precinct 5,Straight Party,,DEM,Democratic Party,22,46,68
-Cass,Precinct 5,Straight Party,,LIB,Libertarian Party,1,1,2
+Cass,Precinct 4,Trustee - Place 4,,,Under Votes,20,5,15
+Cass,Precinct 5,Ballots Cast,,,,478,,
+Cass,Precinct 5,Straight Party,,REP,Republican Party,296,168,128
+Cass,Precinct 5,Straight Party,,DEM,Democratic Party,68,46,22
+Cass,Precinct 5,Straight Party,,LIB,Libertarian Party,2,1,1
 Cass,Precinct 5,Straight Party,,,Over Votes,0,0,0
-Cass,Precinct 5,Straight Party,,,Under Votes,30,82,112
-Cass,Precinct 5,U.S. Senate,,REP,Ted Cruz,152,228,380
-Cass,Precinct 5,U.S. Senate,,DEM,Beto O'Rourke,25,62,87
-Cass,Precinct 5,U.S. Senate,,LIB,Neal M. Dikeman,0,2,2
+Cass,Precinct 5,Straight Party,,,Under Votes,112,82,30
+Cass,Precinct 5,U.S. Senate,,REP,Ted Cruz,380,228,152
+Cass,Precinct 5,U.S. Senate,,DEM,Beto O'Rourke,87,62,25
+Cass,Precinct 5,U.S. Senate,,LIB,Neal M. Dikeman,2,2,0
 Cass,Precinct 5,U.S. Senate,,,Over Votes,0,0,0
-Cass,Precinct 5,U.S. Senate,,,Under Votes,4,5,9
-Cass,Precinct 5,U.S. House,4,REP,John Ratcliffe,152,227,379
-Cass,Precinct 5,U.S. House,4,DEM,Catherine Krantz,25,62,87
-Cass,Precinct 5,U.S. House,4,LIB,Ken Ashby,2,3,5
+Cass,Precinct 5,U.S. Senate,,,Under Votes,9,5,4
+Cass,Precinct 5,U.S. House,4,REP,John Ratcliffe,379,227,152
+Cass,Precinct 5,U.S. House,4,DEM,Catherine Krantz,87,62,25
+Cass,Precinct 5,U.S. House,4,LIB,Ken Ashby,5,3,2
 Cass,Precinct 5,U.S. House,4,,Over Votes,0,0,0
-Cass,Precinct 5,U.S. House,4,,Under Votes,2,5,7
-Cass,Precinct 5,Governor,,REP,Greg Abbott,152,239,391
-Cass,Precinct 5,Governor,,DEM,Lupe Valdez,24,55,79
-Cass,Precinct 5,Governor,,LIB,Mark Jay Tippetts,2,3,5
+Cass,Precinct 5,U.S. House,4,,Under Votes,7,5,2
+Cass,Precinct 5,Governor,,REP,Greg Abbott,391,239,152
+Cass,Precinct 5,Governor,,DEM,Lupe Valdez,79,55,24
+Cass,Precinct 5,Governor,,LIB,Mark Jay Tippetts,5,3,2
 Cass,Precinct 5,Governor,,,Over Votes,0,0,0
 Cass,Precinct 5,Governor,,,Under Votes,3,0,3
-Cass,Precinct 5,Lieutenant Governor,,REP,Dan Patrick,145,225,370
-Cass,Precinct 5,Lieutenant Governor,,DEM,Mike Collier,29,65,94
-Cass,Precinct 5,Lieutenant Governor,,LIB,Kerry Douglas McKennon,7,6,13
+Cass,Precinct 5,Lieutenant Governor,,REP,Dan Patrick,370,225,145
+Cass,Precinct 5,Lieutenant Governor,,DEM,Mike Collier,94,65,29
+Cass,Precinct 5,Lieutenant Governor,,LIB,Kerry Douglas McKennon,13,6,7
 Cass,Precinct 5,Lieutenant Governor,,,Over Votes,0,0,0
-Cass,Precinct 5,Lieutenant Governor,,,Under Votes,0,1,1
-Cass,Precinct 5,Attorney General,,REP,Ken Paxton,147,230,377
-Cass,Precinct 5,Attorney General,,DEM,Justin Nelson,26,63,89
-Cass,Precinct 5,Attorney General,,LIB,Michael Ray Harris,6,4,10
+Cass,Precinct 5,Lieutenant Governor,,,Under Votes,1,1,0
+Cass,Precinct 5,Attorney General,,REP,Ken Paxton,377,230,147
+Cass,Precinct 5,Attorney General,,DEM,Justin Nelson,89,63,26
+Cass,Precinct 5,Attorney General,,LIB,Michael Ray Harris,10,4,6
 Cass,Precinct 5,Attorney General,,,Over Votes,0,0,0
 Cass,Precinct 5,Attorney General,,,Under Votes,2,0,2
-Cass,Precinct 5,Comptroller of Public Accounts,,REP,Glenn Hegar,149,227,376
-Cass,Precinct 5,Comptroller of Public Accounts,,DEM,Joi Chevalier,25,60,85
-Cass,Precinct 5,Comptroller of Public Accounts,,LIB,Ben Sanders,5,6,11
+Cass,Precinct 5,Comptroller of Public Accounts,,REP,Glenn Hegar,376,227,149
+Cass,Precinct 5,Comptroller of Public Accounts,,DEM,Joi Chevalier,85,60,25
+Cass,Precinct 5,Comptroller of Public Accounts,,LIB,Ben Sanders,11,6,5
 Cass,Precinct 5,Comptroller of Public Accounts,,,Over Votes,0,0,0
-Cass,Precinct 5,Comptroller of Public Accounts,,,Under Votes,2,4,6
-Cass,Precinct 5,Commissioner of the General Land Office,,REP,George P. Bush,146,226,372
-Cass,Precinct 5,Commissioner of the General Land Office,,DEM,Miguel Suazo,25,61,86
-Cass,Precinct 5,Commissioner of the General Land Office,,LIB,Matt Pina,6,6,12
+Cass,Precinct 5,Comptroller of Public Accounts,,,Under Votes,6,4,2
+Cass,Precinct 5,Commissioner of the General Land Office,,REP,George P. Bush,372,226,146
+Cass,Precinct 5,Commissioner of the General Land Office,,DEM,Miguel Suazo,86,61,25
+Cass,Precinct 5,Commissioner of the General Land Office,,LIB,Matt Pina,12,6,6
 Cass,Precinct 5,Commissioner of the General Land Office,,,Over Votes,0,0,0
-Cass,Precinct 5,Commissioner of the General Land Office,,,Under Votes,4,4,8
-Cass,Precinct 5,Commissioner of Agriculture,,REP,Sid Miller,145,229,374
-Cass,Precinct 5,Commissioner of Agriculture,,DEM,Kim Olson,28,61,89
-Cass,Precinct 5,Commissioner of Agriculture,,LIB,Richard Carpenter,5,3,8
+Cass,Precinct 5,Commissioner of the General Land Office,,,Under Votes,8,4,4
+Cass,Precinct 5,Commissioner of Agriculture,,REP,Sid Miller,374,229,145
+Cass,Precinct 5,Commissioner of Agriculture,,DEM,Kim Olson,89,61,28
+Cass,Precinct 5,Commissioner of Agriculture,,LIB,Richard Carpenter,8,3,5
 Cass,Precinct 5,Commissioner of Agriculture,,,Over Votes,0,0,0
-Cass,Precinct 5,Commissioner of Agriculture,,,Under Votes,3,4,7
-Cass,Precinct 5,Railroad Commissioner,,REP,Christi Craddick,147,231,378
-Cass,Precinct 5,Railroad Commissioner,,DEM,Roman McAllen,28,58,86
-Cass,Precinct 5,Railroad Commissioner,,LIB,Mike Wright,4,4,8
+Cass,Precinct 5,Commissioner of Agriculture,,,Under Votes,7,4,3
+Cass,Precinct 5,Railroad Commissioner,,REP,Christi Craddick,378,231,147
+Cass,Precinct 5,Railroad Commissioner,,DEM,Roman McAllen,86,58,28
+Cass,Precinct 5,Railroad Commissioner,,LIB,Mike Wright,8,4,4
 Cass,Precinct 5,Railroad Commissioner,,,Over Votes,0,0,0
-Cass,Precinct 5,Railroad Commissioner,,,Under Votes,2,4,6
-Cass,Precinct 5,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,148,234,382
-Cass,Precinct 5,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,27,60,87
+Cass,Precinct 5,Railroad Commissioner,,,Under Votes,6,4,2
+Cass,Precinct 5,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,382,234,148
+Cass,Precinct 5,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,87,60,27
 Cass,Precinct 5,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0
-Cass,Precinct 5,"Justice, Supreme Court, Place 2",,,Under Votes,6,3,9
-Cass,Precinct 5,"Justice, Supreme Court, Place 4",,REP,John Devine,148,234,382
-Cass,Precinct 5,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,27,60,87
+Cass,Precinct 5,"Justice, Supreme Court, Place 2",,,Under Votes,9,3,6
+Cass,Precinct 5,"Justice, Supreme Court, Place 4",,REP,John Devine,382,234,148
+Cass,Precinct 5,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,87,60,27
 Cass,Precinct 5,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0
-Cass,Precinct 5,"Justice, Supreme Court, Place 4",,,Under Votes,6,3,9
-Cass,Precinct 5,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,150,232,382
-Cass,Precinct 5,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,25,61,86
+Cass,Precinct 5,"Justice, Supreme Court, Place 4",,,Under Votes,9,3,6
+Cass,Precinct 5,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,382,232,150
+Cass,Precinct 5,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,86,61,25
 Cass,Precinct 5,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0
-Cass,Precinct 5,"Justice, Supreme Court, Place 6",,,Under Votes,6,4,10
-Cass,Precinct 5,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,149,231,380
-Cass,Precinct 5,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,27,60,87
-Cass,Precinct 5,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,3,2,5
+Cass,Precinct 5,"Justice, Supreme Court, Place 6",,,Under Votes,10,4,6
+Cass,Precinct 5,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,380,231,149
+Cass,Precinct 5,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,87,60,27
+Cass,Precinct 5,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,5,2,3
 Cass,Precinct 5,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0
-Cass,Precinct 5,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,2,4,6
-Cass,Precinct 5,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,151,232,383
-Cass,Precinct 5,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,26,60,86
+Cass,Precinct 5,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,6,4,2
+Cass,Precinct 5,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,383,232,151
+Cass,Precinct 5,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,86,60,26
 Cass,Precinct 5,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0
-Cass,Precinct 5,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,4,5,9
-Cass,Precinct 5,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,151,236,387
-Cass,Precinct 5,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,9,16,25
+Cass,Precinct 5,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,9,5,4
+Cass,Precinct 5,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,387,236,151
+Cass,Precinct 5,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,25,16,9
 Cass,Precinct 5,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0
-Cass,Precinct 5,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,21,45,66
-Cass,Precinct 5,State Representative,9,REP,Chris Paddie,154,242,396
+Cass,Precinct 5,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,66,45,21
+Cass,Precinct 5,State Representative,9,REP,Chris Paddie,396,242,154
 Cass,Precinct 5,State Representative,9,,Over Votes,0,0,0
-Cass,Precinct 5,State Representative,9,,Under Votes,27,55,82
-Cass,Precinct 5,"Justice, 6th Court of Appeals District, Place No. 2",,REP,Scott Stevens,152,241,393
+Cass,Precinct 5,State Representative,9,,Under Votes,82,55,27
+Cass,Precinct 5,"Justice, 6th Court of Appeals District, Place No. 2",,REP,Scott Stevens,393,241,152
 Cass,Precinct 5,"Justice, 6th Court of Appeals District, Place No. 2",,,Over Votes,0,0,0
-Cass,Precinct 5,"Justice, 6th Court of Appeals District, Place No. 2",,,Under Votes,29,56,85
-Cass,Precinct 5,Straight Party,,REP,Republican Party,46,128,174
-Cass,Precinct 5,Straight Party,,DEM,Democratic Party,9,11,20
-Cass,Precinct 5,Straight Party,,LIB,Libertarian Party,0,1,1
+Cass,Precinct 5,"Justice, 6th Court of Appeals District, Place No. 2",,,Under Votes,85,56,29
+Cass,Precinct 5,Straight Party,,REP,Republican Party,174,128,46
+Cass,Precinct 5,Straight Party,,DEM,Democratic Party,20,11,9
+Cass,Precinct 5,Straight Party,,LIB,Libertarian Party,1,1,0
 Cass,Precinct 5,Straight Party,,,Over Votes,0,0,0
-Cass,Precinct 5,Straight Party,,,Under Votes,26,67,93
-Cass,Precinct 5,U.S. Senate,,REP,Ted Cruz,66,182,248
-Cass,Precinct 5,U.S. Senate,,DEM,Beto O'Rourke,13,17,30
-Cass,Precinct 5,U.S. Senate,,LIB,Neal M. Dikeman,0,2,2
+Cass,Precinct 5,Straight Party,,,Under Votes,93,67,26
+Cass,Precinct 5,U.S. Senate,,REP,Ted Cruz,248,182,66
+Cass,Precinct 5,U.S. Senate,,DEM,Beto O'Rourke,30,17,13
+Cass,Precinct 5,U.S. Senate,,LIB,Neal M. Dikeman,2,2,0
 Cass,Precinct 5,U.S. Senate,,,Over Votes,0,0,0
-Cass,Precinct 5,U.S. Senate,,,Under Votes,2,6,8
-Cass,Precinct 5,U.S. House,4,REP,John Ratcliffe,67,186,253
-Cass,Precinct 5,U.S. House,4,DEM,Catherine Krantz,13,16,29
-Cass,Precinct 5,U.S. House,4,LIB,Ken Ashby,0,1,1
+Cass,Precinct 5,U.S. Senate,,,Under Votes,8,6,2
+Cass,Precinct 5,U.S. House,4,REP,John Ratcliffe,253,186,67
+Cass,Precinct 5,U.S. House,4,DEM,Catherine Krantz,29,16,13
+Cass,Precinct 5,U.S. House,4,LIB,Ken Ashby,1,1,0
 Cass,Precinct 5,U.S. House,4,,Over Votes,0,0,0
-Cass,Precinct 5,U.S. House,4,,Under Votes,1,4,5
-Cass,Precinct 5,Governor,,REP,Greg Abbott,67,188,255
-Cass,Precinct 5,Governor,,DEM,Lupe Valdez,12,15,27
-Cass,Precinct 5,Governor,,LIB,Mark Jay Tippetts,1,2,3
+Cass,Precinct 5,U.S. House,4,,Under Votes,5,4,1
+Cass,Precinct 5,Governor,,REP,Greg Abbott,255,188,67
+Cass,Precinct 5,Governor,,DEM,Lupe Valdez,27,15,12
+Cass,Precinct 5,Governor,,LIB,Mark Jay Tippetts,3,2,1
 Cass,Precinct 5,Governor,,,Over Votes,0,0,0
-Cass,Precinct 5,Governor,,,Under Votes,1,2,3
-Cass,Precinct 5,Lieutenant Governor,,REP,Dan Patrick,67,177,244
-Cass,Precinct 5,Lieutenant Governor,,DEM,Mike Collier,13,24,37
-Cass,Precinct 5,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,4,5
+Cass,Precinct 5,Governor,,,Under Votes,3,2,1
+Cass,Precinct 5,Lieutenant Governor,,REP,Dan Patrick,244,177,67
+Cass,Precinct 5,Lieutenant Governor,,DEM,Mike Collier,37,24,13
+Cass,Precinct 5,Lieutenant Governor,,LIB,Kerry Douglas McKennon,5,4,1
 Cass,Precinct 5,Lieutenant Governor,,,Over Votes,0,0,0
-Cass,Precinct 5,Lieutenant Governor,,,Under Votes,0,2,2
-Cass,Precinct 5,Attorney General,,REP,Ken Paxton,68,183,251
-Cass,Precinct 5,Attorney General,,DEM,Justin Nelson,13,20,33
-Cass,Precinct 5,Attorney General,,LIB,Michael Ray Harris,0,2,2
+Cass,Precinct 5,Lieutenant Governor,,,Under Votes,2,2,0
+Cass,Precinct 5,Attorney General,,REP,Ken Paxton,251,183,68
+Cass,Precinct 5,Attorney General,,DEM,Justin Nelson,33,20,13
+Cass,Precinct 5,Attorney General,,LIB,Michael Ray Harris,2,2,0
 Cass,Precinct 5,Attorney General,,,Over Votes,0,0,0
-Cass,Precinct 5,Attorney General,,,Under Votes,0,2,2
-Cass,Precinct 5,Comptroller of Public Accounts,,REP,Glenn Hegar,68,185,253
-Cass,Precinct 5,Comptroller of Public Accounts,,DEM,Joi Chevalier,12,18,30
-Cass,Precinct 5,Comptroller of Public Accounts,,LIB,Ben Sanders,1,1,2
+Cass,Precinct 5,Attorney General,,,Under Votes,2,2,0
+Cass,Precinct 5,Comptroller of Public Accounts,,REP,Glenn Hegar,253,185,68
+Cass,Precinct 5,Comptroller of Public Accounts,,DEM,Joi Chevalier,30,18,12
+Cass,Precinct 5,Comptroller of Public Accounts,,LIB,Ben Sanders,2,1,1
 Cass,Precinct 5,Comptroller of Public Accounts,,,Over Votes,0,0,0
-Cass,Precinct 5,Comptroller of Public Accounts,,,Under Votes,0,3,3
-Cass,Precinct 5,Commissioner of the General Land Office,,REP,George P. Bush,63,180,243
-Cass,Precinct 5,Commissioner of the General Land Office,,DEM,Miguel Suazo,15,20,35
-Cass,Precinct 5,Commissioner of the General Land Office,,LIB,Matt Pina,3,5,8
+Cass,Precinct 5,Comptroller of Public Accounts,,,Under Votes,3,3,0
+Cass,Precinct 5,Commissioner of the General Land Office,,REP,George P. Bush,243,180,63
+Cass,Precinct 5,Commissioner of the General Land Office,,DEM,Miguel Suazo,35,20,15
+Cass,Precinct 5,Commissioner of the General Land Office,,LIB,Matt Pina,8,5,3
 Cass,Precinct 5,Commissioner of the General Land Office,,,Over Votes,0,0,0
-Cass,Precinct 5,Commissioner of the General Land Office,,,Under Votes,0,2,2
-Cass,Precinct 5,Commissioner of Agriculture,,REP,Sid Miller,68,183,251
-Cass,Precinct 5,Commissioner of Agriculture,,DEM,Kim Olson,13,18,31
-Cass,Precinct 5,Commissioner of Agriculture,,LIB,Richard Carpenter,0,2,2
+Cass,Precinct 5,Commissioner of the General Land Office,,,Under Votes,2,2,0
+Cass,Precinct 5,Commissioner of Agriculture,,REP,Sid Miller,251,183,68
+Cass,Precinct 5,Commissioner of Agriculture,,DEM,Kim Olson,31,18,13
+Cass,Precinct 5,Commissioner of Agriculture,,LIB,Richard Carpenter,2,2,0
 Cass,Precinct 5,Commissioner of Agriculture,,,Over Votes,0,0,0
-Cass,Precinct 5,Commissioner of Agriculture,,,Under Votes,0,4,4
-Cass,Precinct 5,Railroad Commissioner,,REP,Christi Craddick,69,184,253
-Cass,Precinct 5,Railroad Commissioner,,DEM,Roman McAllen,11,18,29
-Cass,Precinct 5,Railroad Commissioner,,LIB,Mike Wright,1,1,2
+Cass,Precinct 5,Commissioner of Agriculture,,,Under Votes,4,4,0
+Cass,Precinct 5,Railroad Commissioner,,REP,Christi Craddick,253,184,69
+Cass,Precinct 5,Railroad Commissioner,,DEM,Roman McAllen,29,18,11
+Cass,Precinct 5,Railroad Commissioner,,LIB,Mike Wright,2,1,1
 Cass,Precinct 5,Railroad Commissioner,,,Over Votes,0,0,0
-Cass,Precinct 5,Railroad Commissioner,,,Under Votes,0,4,4
-Cass,Precinct 5,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,68,185,253
-Cass,Precinct 5,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,13,17,30
+Cass,Precinct 5,Railroad Commissioner,,,Under Votes,4,4,0
+Cass,Precinct 5,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,253,185,68
+Cass,Precinct 5,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,30,17,13
 Cass,Precinct 5,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0
-Cass,Precinct 5,"Justice, Supreme Court, Place 2",,,Under Votes,0,5,5
-Cass,Precinct 5,"Justice, Supreme Court, Place 4",,REP,John Devine,68,186,254
-Cass,Precinct 5,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,13,17,30
+Cass,Precinct 5,"Justice, Supreme Court, Place 2",,,Under Votes,5,5,0
+Cass,Precinct 5,"Justice, Supreme Court, Place 4",,REP,John Devine,254,186,68
+Cass,Precinct 5,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,30,17,13
 Cass,Precinct 5,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0
-Cass,Precinct 5,"Justice, Supreme Court, Place 4",,,Under Votes,0,4,4
-Cass,Precinct 5,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,68,186,254
-Cass,Precinct 5,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,13,16,29
+Cass,Precinct 5,"Justice, Supreme Court, Place 4",,,Under Votes,4,4,0
+Cass,Precinct 5,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,254,186,68
+Cass,Precinct 5,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,29,16,13
 Cass,Precinct 5,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0
-Cass,Precinct 5,"Justice, Supreme Court, Place 6",,,Under Votes,0,5,5
-Cass,Precinct 5,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,68,184,252
-Cass,Precinct 5,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,12,17,29
-Cass,Precinct 5,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,1,1,2
+Cass,Precinct 5,"Justice, Supreme Court, Place 6",,,Under Votes,5,5,0
+Cass,Precinct 5,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,252,184,68
+Cass,Precinct 5,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,29,17,12
+Cass,Precinct 5,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,2,1,1
 Cass,Precinct 5,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0
-Cass,Precinct 5,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,0,5,5
-Cass,Precinct 5,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,69,185,254
-Cass,Precinct 5,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,12,17,29
+Cass,Precinct 5,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,5,5,0
+Cass,Precinct 5,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,254,185,69
+Cass,Precinct 5,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,29,17,12
 Cass,Precinct 5,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0
-Cass,Precinct 5,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,0,5,5
-Cass,Precinct 5,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,69,188,257
-Cass,Precinct 5,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,4,4,8
+Cass,Precinct 5,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,5,5,0
+Cass,Precinct 5,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,257,188,69
+Cass,Precinct 5,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,8,4,4
 Cass,Precinct 5,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0
-Cass,Precinct 5,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,8,15,23
-Cass,Precinct 6,Ballots Cast,,,,,,288
-Cass,Precinct 6,State Representative,9,REP,Chris Paddie,71,191,262
+Cass,Precinct 5,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,23,15,8
+Cass,Precinct 6,Ballots Cast,,,,288,,
+Cass,Precinct 6,State Representative,9,REP,Chris Paddie,262,191,71
 Cass,Precinct 6,State Representative,9,,Over Votes,0,0,0
-Cass,Precinct 6,State Representative,9,,Under Votes,10,16,26
-Cass,Precinct 6,"Justice, 6th Court of Appeals District, Place No. 2",,REP,Scott Stevens,71,189,260
+Cass,Precinct 6,State Representative,9,,Under Votes,26,16,10
+Cass,Precinct 6,"Justice, 6th Court of Appeals District, Place No. 2",,REP,Scott Stevens,260,189,71
 Cass,Precinct 6,"Justice, 6th Court of Appeals District, Place No. 2",,,Over Votes,0,0,0
-Cass,Precinct 6,"Justice, 6th Court of Appeals District, Place No. 2",,,Under Votes,10,18,28
-Cass,Precinct 7,Ballots Cast,,,,,,1010
-Cass,Precinct 7,Straight Party,,REP,Republican Party,203,327,530
-Cass,Precinct 7,Straight Party,,DEM,Democratic Party,61,96,157
-Cass,Precinct 7,Straight Party,,LIB,Libertarian Party,1,3,4
+Cass,Precinct 6,"Justice, 6th Court of Appeals District, Place No. 2",,,Under Votes,28,18,10
+Cass,Precinct 7,Ballots Cast,,,,1010,,
+Cass,Precinct 7,Straight Party,,REP,Republican Party,530,327,203
+Cass,Precinct 7,Straight Party,,DEM,Democratic Party,157,96,61
+Cass,Precinct 7,Straight Party,,LIB,Libertarian Party,4,3,1
 Cass,Precinct 7,Straight Party,,,Over Votes,0,0,0
-Cass,Precinct 7,Straight Party,,,Under Votes,124,195,319
-Cass,Precinct 7,U.S. Senate,,REP,Ted Cruz,300,476,776
-Cass,Precinct 7,U.S. Senate,,DEM,Beto O'Rourke,82,126,208
-Cass,Precinct 7,U.S. Senate,,LIB,Neal M. Dikeman,1,2,3
+Cass,Precinct 7,Straight Party,,,Under Votes,319,195,124
+Cass,Precinct 7,U.S. Senate,,REP,Ted Cruz,776,476,300
+Cass,Precinct 7,U.S. Senate,,DEM,Beto O'Rourke,208,126,82
+Cass,Precinct 7,U.S. Senate,,LIB,Neal M. Dikeman,3,2,1
 Cass,Precinct 7,U.S. Senate,,,Over Votes,0,0,0
-Cass,Precinct 7,U.S. Senate,,,Under Votes,6,17,23
-Cass,Precinct 7,U.S. House,4,REP,John Ratcliffe,304,489,793
-Cass,Precinct 7,U.S. House,4,DEM,Catherine Krantz,81,122,203
-Cass,Precinct 7,U.S. House,4,LIB,Ken Ashby,1,5,6
+Cass,Precinct 7,U.S. Senate,,,Under Votes,23,17,6
+Cass,Precinct 7,U.S. House,4,REP,John Ratcliffe,793,489,304
+Cass,Precinct 7,U.S. House,4,DEM,Catherine Krantz,203,122,81
+Cass,Precinct 7,U.S. House,4,LIB,Ken Ashby,6,5,1
 Cass,Precinct 7,U.S. House,4,,Over Votes,0,0,0
-Cass,Precinct 7,U.S. House,4,,Under Votes,3,5,8
-Cass,Precinct 7,Governor,,REP,Greg Abbott,310,494,804
-Cass,Precinct 7,Governor,,DEM,Lupe Valdez,77,117,194
-Cass,Precinct 7,Governor,,LIB,Mark Jay Tippetts,0,5,5
+Cass,Precinct 7,U.S. House,4,,Under Votes,8,5,3
+Cass,Precinct 7,Governor,,REP,Greg Abbott,804,494,310
+Cass,Precinct 7,Governor,,DEM,Lupe Valdez,194,117,77
+Cass,Precinct 7,Governor,,LIB,Mark Jay Tippetts,5,5,0
 Cass,Precinct 7,Governor,,,Over Votes,0,0,0
-Cass,Precinct 7,Governor,,,Under Votes,2,5,7
-Cass,Precinct 7,Lieutenant Governor,,REP,Dan Patrick,292,447,739
-Cass,Precinct 7,Lieutenant Governor,,DEM,Mike Collier,93,159,252
-Cass,Precinct 7,Lieutenant Governor,,LIB,Kerry Douglas McKennon,2,8,10
+Cass,Precinct 7,Governor,,,Under Votes,7,5,2
+Cass,Precinct 7,Lieutenant Governor,,REP,Dan Patrick,739,447,292
+Cass,Precinct 7,Lieutenant Governor,,DEM,Mike Collier,252,159,93
+Cass,Precinct 7,Lieutenant Governor,,LIB,Kerry Douglas McKennon,10,8,2
 Cass,Precinct 7,Lieutenant Governor,,,Over Votes,0,0,0
-Cass,Precinct 7,Lieutenant Governor,,,Under Votes,2,7,9
-Cass,Precinct 7,Attorney General,,REP,Ken Paxton,295,477,772
-Cass,Precinct 7,Attorney General,,DEM,Justin Nelson,89,128,217
-Cass,Precinct 7,Attorney General,,LIB,Michael Ray Harris,3,9,12
+Cass,Precinct 7,Lieutenant Governor,,,Under Votes,9,7,2
+Cass,Precinct 7,Attorney General,,REP,Ken Paxton,772,477,295
+Cass,Precinct 7,Attorney General,,DEM,Justin Nelson,217,128,89
+Cass,Precinct 7,Attorney General,,LIB,Michael Ray Harris,12,9,3
 Cass,Precinct 7,Attorney General,,,Over Votes,0,0,0
-Cass,Precinct 7,Attorney General,,,Under Votes,2,7,9
-Cass,Precinct 7,Comptroller of Public Accounts,,REP,Glenn Hegar,300,482,782
-Cass,Precinct 7,Comptroller of Public Accounts,,DEM,Joi Chevalier,84,118,202
-Cass,Precinct 7,Comptroller of Public Accounts,,LIB,Ben Sanders,3,12,15
+Cass,Precinct 7,Attorney General,,,Under Votes,9,7,2
+Cass,Precinct 7,Comptroller of Public Accounts,,REP,Glenn Hegar,782,482,300
+Cass,Precinct 7,Comptroller of Public Accounts,,DEM,Joi Chevalier,202,118,84
+Cass,Precinct 7,Comptroller of Public Accounts,,LIB,Ben Sanders,15,12,3
 Cass,Precinct 7,Comptroller of Public Accounts,,,Over Votes,0,0,0
-Cass,Precinct 7,Comptroller of Public Accounts,,,Under Votes,2,9,11
-Cass,Precinct 7,Commissioner of the General Land Office,,REP,George P. Bush,291,480,771
-Cass,Precinct 7,Commissioner of the General Land Office,,DEM,Miguel Suazo,89,121,210
-Cass,Precinct 7,Commissioner of the General Land Office,,LIB,Matt Pina,6,14,20
+Cass,Precinct 7,Comptroller of Public Accounts,,,Under Votes,11,9,2
+Cass,Precinct 7,Commissioner of the General Land Office,,REP,George P. Bush,771,480,291
+Cass,Precinct 7,Commissioner of the General Land Office,,DEM,Miguel Suazo,210,121,89
+Cass,Precinct 7,Commissioner of the General Land Office,,LIB,Matt Pina,20,14,6
 Cass,Precinct 7,Commissioner of the General Land Office,,,Over Votes,0,0,0
-Cass,Precinct 7,Commissioner of the General Land Office,,,Under Votes,3,6,9
-Cass,Precinct 7,Commissioner of Agriculture,,REP,Sid Miller,296,478,774
-Cass,Precinct 7,Commissioner of Agriculture,,DEM,Kim Olson,88,127,215
-Cass,Precinct 7,Commissioner of Agriculture,,LIB,Richard Carpenter,4,8,12
+Cass,Precinct 7,Commissioner of the General Land Office,,,Under Votes,9,6,3
+Cass,Precinct 7,Commissioner of Agriculture,,REP,Sid Miller,774,478,296
+Cass,Precinct 7,Commissioner of Agriculture,,DEM,Kim Olson,215,127,88
+Cass,Precinct 7,Commissioner of Agriculture,,LIB,Richard Carpenter,12,8,4
 Cass,Precinct 7,Commissioner of Agriculture,,,Over Votes,0,0,0
-Cass,Precinct 7,Commissioner of Agriculture,,,Under Votes,1,8,9
-Cass,Precinct 7,Railroad Commissioner,,REP,Christi Craddick,300,481,781
-Cass,Precinct 7,Railroad Commissioner,,DEM,Roman McAllen,85,122,207
-Cass,Precinct 7,Railroad Commissioner,,LIB,Mike Wright,3,11,14
+Cass,Precinct 7,Commissioner of Agriculture,,,Under Votes,9,8,1
+Cass,Precinct 7,Railroad Commissioner,,REP,Christi Craddick,781,481,300
+Cass,Precinct 7,Railroad Commissioner,,DEM,Roman McAllen,207,122,85
+Cass,Precinct 7,Railroad Commissioner,,LIB,Mike Wright,14,11,3
 Cass,Precinct 7,Railroad Commissioner,,,Over Votes,0,0,0
-Cass,Precinct 7,Railroad Commissioner,,,Under Votes,1,7,8
-Cass,Precinct 7,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,303,482,785
-Cass,Precinct 7,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,84,127,211
+Cass,Precinct 7,Railroad Commissioner,,,Under Votes,8,7,1
+Cass,Precinct 7,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,785,482,303
+Cass,Precinct 7,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,211,127,84
 Cass,Precinct 7,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0
-Cass,Precinct 7,"Justice, Supreme Court, Place 2",,,Under Votes,2,12,14
-Cass,Precinct 7,"Justice, Supreme Court, Place 4",,REP,John Devine,303,483,786
-Cass,Precinct 7,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,84,126,210
+Cass,Precinct 7,"Justice, Supreme Court, Place 2",,,Under Votes,14,12,2
+Cass,Precinct 7,"Justice, Supreme Court, Place 4",,REP,John Devine,786,483,303
+Cass,Precinct 7,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,210,126,84
 Cass,Precinct 7,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0
-Cass,Precinct 7,"Justice, Supreme Court, Place 4",,,Under Votes,2,12,14
-Cass,Precinct 7,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,306,485,791
-Cass,Precinct 7,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,82,126,208
+Cass,Precinct 7,"Justice, Supreme Court, Place 4",,,Under Votes,14,12,2
+Cass,Precinct 7,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,791,485,306
+Cass,Precinct 7,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,208,126,82
 Cass,Precinct 7,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0
-Cass,Precinct 7,"Justice, Supreme Court, Place 6",,,Under Votes,1,10,11
-Cass,Precinct 7,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,299,482,781
-Cass,Precinct 7,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,88,125,213
-Cass,Precinct 7,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,1,5,6
+Cass,Precinct 7,"Justice, Supreme Court, Place 6",,,Under Votes,11,10,1
+Cass,Precinct 7,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,781,482,299
+Cass,Precinct 7,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,213,125,88
+Cass,Precinct 7,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,6,5,1
 Cass,Precinct 7,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0
-Cass,Precinct 7,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,1,9,10
-Cass,Precinct 7,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,301,488,789
-Cass,Precinct 7,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,88,122,210
+Cass,Precinct 7,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,10,9,1
+Cass,Precinct 7,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,789,488,301
+Cass,Precinct 7,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,210,122,88
 Cass,Precinct 7,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0
-Cass,Precinct 7,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,0,11,11
-Cass,Precinct 7,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,306,491,797
-Cass,Precinct 7,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,28,30,58
+Cass,Precinct 7,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,11,11,0
+Cass,Precinct 7,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,797,491,306
+Cass,Precinct 7,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,58,30,28
 Cass,Precinct 7,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0
-Cass,Precinct 7,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,55,100,155
-Cass,Precinct 7,State Representative,9,REP,Chris Paddie,311,500,811
+Cass,Precinct 7,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,155,100,55
+Cass,Precinct 7,State Representative,9,REP,Chris Paddie,811,500,311
 Cass,Precinct 7,State Representative,9,,Over Votes,0,0,0
-Cass,Precinct 7,State Representative,9,,Under Votes,78,121,199
-Cass,Precinct 7,"Justice, 6th Court of Appeals District, Place No. 2",,REP,Scott Stevens,314,499,813
+Cass,Precinct 7,State Representative,9,,Under Votes,199,121,78
+Cass,Precinct 7,"Justice, 6th Court of Appeals District, Place No. 2",,REP,Scott Stevens,813,499,314
 Cass,Precinct 7,"Justice, 6th Court of Appeals District, Place No. 2",,,Over Votes,0,0,0
-Cass,Precinct 7,"Justice, 6th Court of Appeals District, Place No. 2",,,Under Votes,75,122,197
-Cass,Precinct 7,Straight Party,,REP,Republican Party,108,155,263
-Cass,Precinct 7,Straight Party,,DEM,Democratic Party,42,62,104
+Cass,Precinct 7,"Justice, 6th Court of Appeals District, Place No. 2",,,Under Votes,197,122,75
+Cass,Precinct 7,Straight Party,,REP,Republican Party,263,155,108
+Cass,Precinct 7,Straight Party,,DEM,Democratic Party,104,62,42
 Cass,Precinct 7,Straight Party,,LIB,Libertarian Party,0,0,0
 Cass,Precinct 7,Straight Party,,,Over Votes,0,0,0
-Cass,Precinct 7,Straight Party,,,Under Votes,65,142,207
-Cass,Precinct 7,U.S. Senate,,REP,Ted Cruz,150,262,412
-Cass,Precinct 7,U.S. Senate,,DEM,Beto O'Rourke,59,92,151
-Cass,Precinct 7,U.S. Senate,,LIB,Neal M. Dikeman,0,1,1
+Cass,Precinct 7,Straight Party,,,Under Votes,207,142,65
+Cass,Precinct 7,U.S. Senate,,REP,Ted Cruz,412,262,150
+Cass,Precinct 7,U.S. Senate,,DEM,Beto O'Rourke,151,92,59
+Cass,Precinct 7,U.S. Senate,,LIB,Neal M. Dikeman,1,1,0
 Cass,Precinct 7,U.S. Senate,,,Over Votes,0,0,0
-Cass,Precinct 7,U.S. Senate,,,Under Votes,6,4,10
-Cass,Precinct 7,U.S. House,4,REP,John Ratcliffe,154,262,416
-Cass,Precinct 7,U.S. House,4,DEM,Catherine Krantz,57,88,145
-Cass,Precinct 7,U.S. House,4,LIB,Ken Ashby,2,3,5
+Cass,Precinct 7,U.S. Senate,,,Under Votes,10,4,6
+Cass,Precinct 7,U.S. House,4,REP,John Ratcliffe,416,262,154
+Cass,Precinct 7,U.S. House,4,DEM,Catherine Krantz,145,88,57
+Cass,Precinct 7,U.S. House,4,LIB,Ken Ashby,5,3,2
 Cass,Precinct 7,U.S. House,4,,Over Votes,0,0,0
-Cass,Precinct 7,U.S. House,4,,Under Votes,2,6,8
-Cass,Precinct 7,Governor,,REP,Greg Abbott,160,270,430
-Cass,Precinct 7,Governor,,DEM,Lupe Valdez,54,84,138
-Cass,Precinct 7,Governor,,LIB,Mark Jay Tippetts,1,1,2
+Cass,Precinct 7,U.S. House,4,,Under Votes,8,6,2
+Cass,Precinct 7,Governor,,REP,Greg Abbott,430,270,160
+Cass,Precinct 7,Governor,,DEM,Lupe Valdez,138,84,54
+Cass,Precinct 7,Governor,,LIB,Mark Jay Tippetts,2,1,1
 Cass,Precinct 7,Governor,,,Over Votes,0,0,0
-Cass,Precinct 7,Governor,,,Under Votes,0,4,4
-Cass,Precinct 7,Lieutenant Governor,,REP,Dan Patrick,149,239,388
-Cass,Precinct 7,Lieutenant Governor,,DEM,Mike Collier,63,108,171
-Cass,Precinct 7,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,4,5
+Cass,Precinct 7,Governor,,,Under Votes,4,4,0
+Cass,Precinct 7,Lieutenant Governor,,REP,Dan Patrick,388,239,149
+Cass,Precinct 7,Lieutenant Governor,,DEM,Mike Collier,171,108,63
+Cass,Precinct 7,Lieutenant Governor,,LIB,Kerry Douglas McKennon,5,4,1
 Cass,Precinct 7,Lieutenant Governor,,,Over Votes,0,0,0
-Cass,Precinct 7,Lieutenant Governor,,,Under Votes,2,8,10
-Cass,Precinct 7,Attorney General,,REP,Ken Paxton,153,252,405
-Cass,Precinct 7,Attorney General,,DEM,Justin Nelson,59,94,153
-Cass,Precinct 7,Attorney General,,LIB,Michael Ray Harris,1,6,7
+Cass,Precinct 7,Lieutenant Governor,,,Under Votes,10,8,2
+Cass,Precinct 7,Attorney General,,REP,Ken Paxton,405,252,153
+Cass,Precinct 7,Attorney General,,DEM,Justin Nelson,153,94,59
+Cass,Precinct 7,Attorney General,,LIB,Michael Ray Harris,7,6,1
 Cass,Precinct 7,Attorney General,,,Over Votes,0,0,0
-Cass,Precinct 7,Attorney General,,,Under Votes,2,7,9
-Cass,Precinct 7,Comptroller of Public Accounts,,REP,Glenn Hegar,154,258,412
-Cass,Precinct 7,Comptroller of Public Accounts,,DEM,Joi Chevalier,57,89,146
-Cass,Precinct 7,Comptroller of Public Accounts,,LIB,Ben Sanders,2,6,8
+Cass,Precinct 7,Attorney General,,,Under Votes,9,7,2
+Cass,Precinct 7,Comptroller of Public Accounts,,REP,Glenn Hegar,412,258,154
+Cass,Precinct 7,Comptroller of Public Accounts,,DEM,Joi Chevalier,146,89,57
+Cass,Precinct 7,Comptroller of Public Accounts,,LIB,Ben Sanders,8,6,2
 Cass,Precinct 7,Comptroller of Public Accounts,,,Over Votes,0,0,0
-Cass,Precinct 7,Comptroller of Public Accounts,,,Under Votes,2,6,8
-Cass,Precinct 7,Commissioner of the General Land Office,,REP,George P. Bush,141,257,398
-Cass,Precinct 7,Commissioner of the General Land Office,,DEM,Miguel Suazo,60,92,152
-Cass,Precinct 7,Commissioner of the General Land Office,,LIB,Matt Pina,10,6,16
+Cass,Precinct 7,Comptroller of Public Accounts,,,Under Votes,8,6,2
+Cass,Precinct 7,Commissioner of the General Land Office,,REP,George P. Bush,398,257,141
+Cass,Precinct 7,Commissioner of the General Land Office,,DEM,Miguel Suazo,152,92,60
+Cass,Precinct 7,Commissioner of the General Land Office,,LIB,Matt Pina,16,6,10
 Cass,Precinct 7,Commissioner of the General Land Office,,,Over Votes,0,0,0
-Cass,Precinct 7,Commissioner of the General Land Office,,,Under Votes,4,4,8
-Cass,Precinct 7,Commissioner of Agriculture,,REP,Sid Miller,149,256,405
-Cass,Precinct 7,Commissioner of Agriculture,,DEM,Kim Olson,61,92,153
-Cass,Precinct 7,Commissioner of Agriculture,,LIB,Richard Carpenter,2,5,7
+Cass,Precinct 7,Commissioner of the General Land Office,,,Under Votes,8,4,4
+Cass,Precinct 7,Commissioner of Agriculture,,REP,Sid Miller,405,256,149
+Cass,Precinct 7,Commissioner of Agriculture,,DEM,Kim Olson,153,92,61
+Cass,Precinct 7,Commissioner of Agriculture,,LIB,Richard Carpenter,7,5,2
 Cass,Precinct 7,Commissioner of Agriculture,,,Over Votes,0,0,0
-Cass,Precinct 7,Commissioner of Agriculture,,,Under Votes,3,6,9
-Cass,Precinct 7,Railroad Commissioner,,REP,Christi Craddick,152,256,408
-Cass,Precinct 7,Railroad Commissioner,,DEM,Roman McAllen,58,91,149
-Cass,Precinct 7,Railroad Commissioner,,LIB,Mike Wright,3,6,9
+Cass,Precinct 7,Commissioner of Agriculture,,,Under Votes,9,6,3
+Cass,Precinct 7,Railroad Commissioner,,REP,Christi Craddick,408,256,152
+Cass,Precinct 7,Railroad Commissioner,,DEM,Roman McAllen,149,91,58
+Cass,Precinct 7,Railroad Commissioner,,LIB,Mike Wright,9,6,3
 Cass,Precinct 7,Railroad Commissioner,,,Over Votes,0,0,0
-Cass,Precinct 7,Railroad Commissioner,,,Under Votes,2,6,8
-Cass,Precinct 7,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,152,261,413
-Cass,Precinct 7,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,60,94,154
+Cass,Precinct 7,Railroad Commissioner,,,Under Votes,8,6,2
+Cass,Precinct 7,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,413,261,152
+Cass,Precinct 7,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,154,94,60
 Cass,Precinct 7,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0
-Cass,Precinct 7,"Justice, Supreme Court, Place 2",,,Under Votes,3,4,7
-Cass,Precinct 7,"Justice, Supreme Court, Place 4",,REP,John Devine,151,261,412
-Cass,Precinct 7,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,60,92,152
+Cass,Precinct 7,"Justice, Supreme Court, Place 2",,,Under Votes,7,4,3
+Cass,Precinct 7,"Justice, Supreme Court, Place 4",,REP,John Devine,412,261,151
+Cass,Precinct 7,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,152,92,60
 Cass,Precinct 7,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0
-Cass,Precinct 7,"Justice, Supreme Court, Place 4",,,Under Votes,4,6,10
-Cass,Precinct 7,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,151,261,412
-Cass,Precinct 7,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,60,94,154
+Cass,Precinct 7,"Justice, Supreme Court, Place 4",,,Under Votes,10,6,4
+Cass,Precinct 7,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,412,261,151
+Cass,Precinct 7,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,154,94,60
 Cass,Precinct 7,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0
-Cass,Precinct 7,"Justice, Supreme Court, Place 6",,,Under Votes,4,4,8
-Cass,Precinct 7,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,150,255,405
-Cass,Precinct 7,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,59,95,154
-Cass,Precinct 7,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,2,5,7
+Cass,Precinct 7,"Justice, Supreme Court, Place 6",,,Under Votes,8,4,4
+Cass,Precinct 7,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,405,255,150
+Cass,Precinct 7,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,154,95,59
+Cass,Precinct 7,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,7,5,2
 Cass,Precinct 7,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0
-Cass,Precinct 7,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,4,4,8
-Cass,Precinct 7,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,151,262,413
-Cass,Precinct 7,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,60,89,149
+Cass,Precinct 7,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,8,4,4
+Cass,Precinct 7,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,413,262,151
+Cass,Precinct 7,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,149,89,60
 Cass,Precinct 7,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0
-Cass,Precinct 7,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,4,8,12
-Cass,Precinct 7,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,157,264,421
-Cass,Precinct 7,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,18,28,46
+Cass,Precinct 7,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,12,8,4
+Cass,Precinct 7,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,421,264,157
+Cass,Precinct 7,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,46,28,18
 Cass,Precinct 7,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0
-Cass,Precinct 7,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,40,67,107
-Cass,Precinct 9,Ballots Cast,,,,,,574
-Cass,Precinct 9,State Representative,9,REP,Chris Paddie,159,275,434
+Cass,Precinct 7,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,107,67,40
+Cass,Precinct 9,Ballots Cast,,,,574,,
+Cass,Precinct 9,State Representative,9,REP,Chris Paddie,434,275,159
 Cass,Precinct 9,State Representative,9,,Over Votes,0,0,0
-Cass,Precinct 9,State Representative,9,,Under Votes,56,84,140
-Cass,Precinct 9,"Justice, 6th Court of Appeals District, Place No. 2",,REP,Scott Stevens,162,274,436
+Cass,Precinct 9,State Representative,9,,Under Votes,140,84,56
+Cass,Precinct 9,"Justice, 6th Court of Appeals District, Place No. 2",,REP,Scott Stevens,436,274,162
 Cass,Precinct 9,"Justice, 6th Court of Appeals District, Place No. 2",,,Over Votes,0,0,0
-Cass,Precinct 9,"Justice, 6th Court of Appeals District, Place No. 2",,,Under Votes,53,85,138
-Cass,Precinct 9,Trustee - Place 3,,,Kay Stephens,5,5,10
-Cass,Precinct 9,Trustee - Place 3,,,R. Curtis Lane,4,5,9
+Cass,Precinct 9,"Justice, 6th Court of Appeals District, Place No. 2",,,Under Votes,138,85,53
+Cass,Precinct 9,Trustee - Place 3,,,Kay Stephens,10,5,5
+Cass,Precinct 9,Trustee - Place 3,,,R. Curtis Lane,9,5,4
 Cass,Precinct 9,Trustee - Place 3,,,Over Votes,0,0,0
-Cass,Precinct 9,Trustee - Place 3,,,Under Votes,20,7,27
-Cass,Precinct 9,Trustee - Place 4,,,Kerry Wells,11,9,20
+Cass,Precinct 9,Trustee - Place 3,,,Under Votes,27,7,20
+Cass,Precinct 9,Trustee - Place 4,,,Kerry Wells,20,9,11
 Cass,Precinct 9,Trustee - Place 4,,,Over Votes,0,0,0
-Cass,Precinct 9,Trustee - Place 4,,,Under Votes,18,8,26
-Cass,Precinct 9,Straight Party,,REP,Republican Party,85,91,176
-Cass,Precinct 9,Straight Party,,DEM,Democratic Party,36,45,81
+Cass,Precinct 9,Trustee - Place 4,,,Under Votes,26,8,18
+Cass,Precinct 9,Straight Party,,REP,Republican Party,176,91,85
+Cass,Precinct 9,Straight Party,,DEM,Democratic Party,81,45,36
 Cass,Precinct 9,Straight Party,,LIB,Libertarian Party,1,0,1
 Cass,Precinct 9,Straight Party,,,Over Votes,1,0,1
-Cass,Precinct 9,Straight Party,,,Under Votes,34,61,95
-Cass,Precinct 9,U.S. Senate,,REP,Ted Cruz,109,142,251
-Cass,Precinct 9,U.S. Senate,,DEM,Beto O'Rourke,45,54,99
+Cass,Precinct 9,Straight Party,,,Under Votes,95,61,34
+Cass,Precinct 9,U.S. Senate,,REP,Ted Cruz,251,142,109
+Cass,Precinct 9,U.S. Senate,,DEM,Beto O'Rourke,99,54,45
 Cass,Precinct 9,U.S. Senate,,LIB,Neal M. Dikeman,1,0,1
 Cass,Precinct 9,U.S. Senate,,,Over Votes,0,0,0
-Cass,Precinct 9,U.S. Senate,,,Under Votes,2,1,3
-Cass,Precinct 9,U.S. House,4,REP,John Ratcliffe,110,141,251
-Cass,Precinct 9,U.S. House,4,DEM,Catherine Krantz,46,52,98
-Cass,Precinct 9,U.S. House,4,LIB,Ken Ashby,0,2,2
+Cass,Precinct 9,U.S. Senate,,,Under Votes,3,1,2
+Cass,Precinct 9,U.S. House,4,REP,John Ratcliffe,251,141,110
+Cass,Precinct 9,U.S. House,4,DEM,Catherine Krantz,98,52,46
+Cass,Precinct 9,U.S. House,4,LIB,Ken Ashby,2,2,0
 Cass,Precinct 9,U.S. House,4,,Over Votes,0,0,0
-Cass,Precinct 9,U.S. House,4,,Under Votes,1,2,3
-Cass,Precinct 9,Governor,,REP,Greg Abbott,109,141,250
-Cass,Precinct 9,Governor,,DEM,Lupe Valdez,46,51,97
-Cass,Precinct 9,Governor,,LIB,Mark Jay Tippetts,1,3,4
+Cass,Precinct 9,U.S. House,4,,Under Votes,3,2,1
+Cass,Precinct 9,Governor,,REP,Greg Abbott,250,141,109
+Cass,Precinct 9,Governor,,DEM,Lupe Valdez,97,51,46
+Cass,Precinct 9,Governor,,LIB,Mark Jay Tippetts,4,3,1
 Cass,Precinct 9,Governor,,,Over Votes,0,0,0
-Cass,Precinct 9,Governor,,,Under Votes,1,2,3
-Cass,Precinct 9,Lieutenant Governor,,REP,Dan Patrick,105,123,228
-Cass,Precinct 9,Lieutenant Governor,,DEM,Mike Collier,49,70,119
-Cass,Precinct 9,Lieutenant Governor,,LIB,Kerry Douglas McKennon,2,2,4
+Cass,Precinct 9,Governor,,,Under Votes,3,2,1
+Cass,Precinct 9,Lieutenant Governor,,REP,Dan Patrick,228,123,105
+Cass,Precinct 9,Lieutenant Governor,,DEM,Mike Collier,119,70,49
+Cass,Precinct 9,Lieutenant Governor,,LIB,Kerry Douglas McKennon,4,2,2
 Cass,Precinct 9,Lieutenant Governor,,,Over Votes,0,0,0
-Cass,Precinct 9,Lieutenant Governor,,,Under Votes,1,2,3
-Cass,Precinct 9,Attorney General,,REP,Ken Paxton,109,140,249
-Cass,Precinct 9,Attorney General,,DEM,Justin Nelson,45,54,99
-Cass,Precinct 9,Attorney General,,LIB,Michael Ray Harris,0,1,1
+Cass,Precinct 9,Lieutenant Governor,,,Under Votes,3,2,1
+Cass,Precinct 9,Attorney General,,REP,Ken Paxton,249,140,109
+Cass,Precinct 9,Attorney General,,DEM,Justin Nelson,99,54,45
+Cass,Precinct 9,Attorney General,,LIB,Michael Ray Harris,1,1,0
 Cass,Precinct 9,Attorney General,,,Over Votes,0,0,0
-Cass,Precinct 9,Attorney General,,,Under Votes,3,2,5
-Cass,Precinct 9,Comptroller of Public Accounts,,REP,Glenn Hegar,106,138,244
-Cass,Precinct 9,Comptroller of Public Accounts,,DEM,Joi Chevalier,45,51,96
-Cass,Precinct 9,Comptroller of Public Accounts,,LIB,Ben Sanders,3,4,7
+Cass,Precinct 9,Attorney General,,,Under Votes,5,2,3
+Cass,Precinct 9,Comptroller of Public Accounts,,REP,Glenn Hegar,244,138,106
+Cass,Precinct 9,Comptroller of Public Accounts,,DEM,Joi Chevalier,96,51,45
+Cass,Precinct 9,Comptroller of Public Accounts,,LIB,Ben Sanders,7,4,3
 Cass,Precinct 9,Comptroller of Public Accounts,,,Over Votes,0,0,0
-Cass,Precinct 9,Comptroller of Public Accounts,,,Under Votes,3,4,7
-Cass,Precinct 9,Commissioner of the General Land Office,,REP,George P. Bush,110,134,244
-Cass,Precinct 9,Commissioner of the General Land Office,,DEM,Miguel Suazo,44,54,98
-Cass,Precinct 9,Commissioner of the General Land Office,,LIB,Matt Pina,2,6,8
+Cass,Precinct 9,Comptroller of Public Accounts,,,Under Votes,7,4,3
+Cass,Precinct 9,Commissioner of the General Land Office,,REP,George P. Bush,244,134,110
+Cass,Precinct 9,Commissioner of the General Land Office,,DEM,Miguel Suazo,98,54,44
+Cass,Precinct 9,Commissioner of the General Land Office,,LIB,Matt Pina,8,6,2
 Cass,Precinct 9,Commissioner of the General Land Office,,,Over Votes,0,0,0
-Cass,Precinct 9,Commissioner of the General Land Office,,,Under Votes,1,3,4
-Cass,Precinct 9,Commissioner of Agriculture,,REP,Sid Miller,107,139,246
-Cass,Precinct 9,Commissioner of Agriculture,,DEM,Kim Olson,47,54,101
-Cass,Precinct 9,Commissioner of Agriculture,,LIB,Richard Carpenter,1,2,3
+Cass,Precinct 9,Commissioner of the General Land Office,,,Under Votes,4,3,1
+Cass,Precinct 9,Commissioner of Agriculture,,REP,Sid Miller,246,139,107
+Cass,Precinct 9,Commissioner of Agriculture,,DEM,Kim Olson,101,54,47
+Cass,Precinct 9,Commissioner of Agriculture,,LIB,Richard Carpenter,3,2,1
 Cass,Precinct 9,Commissioner of Agriculture,,,Over Votes,0,0,0
-Cass,Precinct 9,Commissioner of Agriculture,,,Under Votes,2,2,4
-Cass,Precinct 9,Railroad Commissioner,,REP,Christi Craddick,107,138,245
-Cass,Precinct 9,Railroad Commissioner,,DEM,Roman McAllen,46,53,99
-Cass,Precinct 9,Railroad Commissioner,,LIB,Mike Wright,2,3,5
+Cass,Precinct 9,Commissioner of Agriculture,,,Under Votes,4,2,2
+Cass,Precinct 9,Railroad Commissioner,,REP,Christi Craddick,245,138,107
+Cass,Precinct 9,Railroad Commissioner,,DEM,Roman McAllen,99,53,46
+Cass,Precinct 9,Railroad Commissioner,,LIB,Mike Wright,5,3,2
 Cass,Precinct 9,Railroad Commissioner,,,Over Votes,0,0,0
-Cass,Precinct 9,Railroad Commissioner,,,Under Votes,2,3,5
-Cass,Precinct 9,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,108,140,248
-Cass,Precinct 9,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,47,54,101
+Cass,Precinct 9,Railroad Commissioner,,,Under Votes,5,3,2
+Cass,Precinct 9,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,248,140,108
+Cass,Precinct 9,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,101,54,47
 Cass,Precinct 9,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0
-Cass,Precinct 9,"Justice, Supreme Court, Place 2",,,Under Votes,2,3,5
-Cass,Precinct 9,"Justice, Supreme Court, Place 4",,REP,John Devine,108,141,249
-Cass,Precinct 9,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,47,53,100
+Cass,Precinct 9,"Justice, Supreme Court, Place 2",,,Under Votes,5,3,2
+Cass,Precinct 9,"Justice, Supreme Court, Place 4",,REP,John Devine,249,141,108
+Cass,Precinct 9,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,100,53,47
 Cass,Precinct 9,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0
-Cass,Precinct 9,"Justice, Supreme Court, Place 4",,,Under Votes,2,3,5
-Cass,Precinct 9,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,108,141,249
-Cass,Precinct 9,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,47,53,100
+Cass,Precinct 9,"Justice, Supreme Court, Place 4",,,Under Votes,5,3,2
+Cass,Precinct 9,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,249,141,108
+Cass,Precinct 9,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,100,53,47
 Cass,Precinct 9,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0
-Cass,Precinct 9,"Justice, Supreme Court, Place 6",,,Under Votes,2,3,5
-Cass,Precinct 9,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,107,139,246
-Cass,Precinct 9,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,46,53,99
-Cass,Precinct 9,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,2,1,3
+Cass,Precinct 9,"Justice, Supreme Court, Place 6",,,Under Votes,5,3,2
+Cass,Precinct 9,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,246,139,107
+Cass,Precinct 9,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,99,53,46
+Cass,Precinct 9,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,3,1,2
 Cass,Precinct 9,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0
-Cass,Precinct 9,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,2,4,6
-Cass,Precinct 9,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,108,140,248
-Cass,Precinct 9,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,47,52,99
+Cass,Precinct 9,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,6,4,2
+Cass,Precinct 9,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,248,140,108
+Cass,Precinct 9,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,99,52,47
 Cass,Precinct 9,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0
-Cass,Precinct 9,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,2,5,7
-Cass,Precinct 9,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,108,142,250
-Cass,Precinct 9,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,19,11,30
+Cass,Precinct 9,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,7,5,2
+Cass,Precinct 9,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,250,142,108
+Cass,Precinct 9,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,30,11,19
 Cass,Precinct 9,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0
-Cass,Precinct 9,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,30,44,74
-Cass,Precinct 11,Ballots Cast,,,,,,354
-Cass,Precinct 11,State Representative,9,REP,Chris Paddie,110,146,256
+Cass,Precinct 9,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,74,44,30
+Cass,Precinct 11,Ballots Cast,,,,354,,
+Cass,Precinct 11,State Representative,9,REP,Chris Paddie,256,146,110
 Cass,Precinct 11,State Representative,9,,Over Votes,0,0,0
-Cass,Precinct 11,State Representative,9,,Under Votes,47,51,98
-Cass,Precinct 11,"Justice, 6th Court of Appeals District, Place No. 2",,REP,Scott Stevens,109,143,252
+Cass,Precinct 11,State Representative,9,,Under Votes,98,51,47
+Cass,Precinct 11,"Justice, 6th Court of Appeals District, Place No. 2",,REP,Scott Stevens,252,143,109
 Cass,Precinct 11,"Justice, 6th Court of Appeals District, Place No. 2",,,Over Votes,0,0,0
-Cass,Precinct 11,"Justice, 6th Court of Appeals District, Place No. 2",,,Under Votes,48,54,102
-Cass,Precinct 11,Trustee - Place 3,,,Kay Stephens,10,11,21
-Cass,Precinct 11,Trustee - Place 3,,,R. Curtis Lane,5,7,12
+Cass,Precinct 11,"Justice, 6th Court of Appeals District, Place No. 2",,,Under Votes,102,54,48
+Cass,Precinct 11,Trustee - Place 3,,,Kay Stephens,21,11,10
+Cass,Precinct 11,Trustee - Place 3,,,R. Curtis Lane,12,7,5
 Cass,Precinct 11,Trustee - Place 3,,,Over Votes,0,0,0
-Cass,Precinct 11,Trustee - Place 3,,,Under Votes,22,8,30
-Cass,Precinct 11,Trustee - Place 4,,,Kerry Wells,12,15,27
+Cass,Precinct 11,Trustee - Place 3,,,Under Votes,30,8,22
+Cass,Precinct 11,Trustee - Place 4,,,Kerry Wells,27,15,12
 Cass,Precinct 11,Trustee - Place 4,,,Over Votes,0,0,0
-Cass,Precinct 11,Trustee - Place 4,,,Under Votes,25,11,36
-Cass,Precinct 11,Straight Party,,REP,Republican Party,133,58,191
-Cass,Precinct 11,Straight Party,,DEM,Democratic Party,19,6,25
+Cass,Precinct 11,Trustee - Place 4,,,Under Votes,36,11,25
+Cass,Precinct 11,Straight Party,,REP,Republican Party,191,58,133
+Cass,Precinct 11,Straight Party,,DEM,Democratic Party,25,6,19
 Cass,Precinct 11,Straight Party,,LIB,Libertarian Party,0,0,0
 Cass,Precinct 11,Straight Party,,,Over Votes,0,0,0
-Cass,Precinct 11,Straight Party,,,Under Votes,81,43,124
-Cass,Precinct 11,U.S. Senate,,REP,Ted Cruz,199,98,297
-Cass,Precinct 11,U.S. Senate,,DEM,Beto O'Rourke,29,9,38
+Cass,Precinct 11,Straight Party,,,Under Votes,124,43,81
+Cass,Precinct 11,U.S. Senate,,REP,Ted Cruz,297,98,199
+Cass,Precinct 11,U.S. Senate,,DEM,Beto O'Rourke,38,9,29
 Cass,Precinct 11,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0
 Cass,Precinct 11,U.S. Senate,,,Over Votes,0,0,0
 Cass,Precinct 11,U.S. Senate,,,Under Votes,5,0,5
-Cass,Precinct 11,U.S. House,4,REP,John Ratcliffe,207,95,302
-Cass,Precinct 11,U.S. House,4,DEM,Catherine Krantz,24,9,33
-Cass,Precinct 11,U.S. House,4,LIB,Ken Ashby,0,2,2
+Cass,Precinct 11,U.S. House,4,REP,John Ratcliffe,302,95,207
+Cass,Precinct 11,U.S. House,4,DEM,Catherine Krantz,33,9,24
+Cass,Precinct 11,U.S. House,4,LIB,Ken Ashby,2,2,0
 Cass,Precinct 11,U.S. House,4,,Over Votes,0,0,0
-Cass,Precinct 11,U.S. House,4,,Under Votes,2,1,3
-Cass,Precinct 11,Governor,,REP,Greg Abbott,201,100,301
-Cass,Precinct 11,Governor,,DEM,Lupe Valdez,28,7,35
+Cass,Precinct 11,U.S. House,4,,Under Votes,3,1,2
+Cass,Precinct 11,Governor,,REP,Greg Abbott,301,100,201
+Cass,Precinct 11,Governor,,DEM,Lupe Valdez,35,7,28
 Cass,Precinct 11,Governor,,LIB,Mark Jay Tippetts,3,0,3
 Cass,Precinct 11,Governor,,,Over Votes,0,0,0
 Cass,Precinct 11,Governor,,,Under Votes,1,0,1
-Cass,Precinct 11,Lieutenant Governor,,REP,Dan Patrick,190,83,273
-Cass,Precinct 11,Lieutenant Governor,,DEM,Mike Collier,36,21,57
+Cass,Precinct 11,Lieutenant Governor,,REP,Dan Patrick,273,83,190
+Cass,Precinct 11,Lieutenant Governor,,DEM,Mike Collier,57,21,36
 Cass,Precinct 11,Lieutenant Governor,,LIB,Kerry Douglas McKennon,2,0,2
 Cass,Precinct 11,Lieutenant Governor,,,Over Votes,0,0,0
-Cass,Precinct 11,Lieutenant Governor,,,Under Votes,5,3,8
-Cass,Precinct 11,Attorney General,,REP,Ken Paxton,196,93,289
-Cass,Precinct 11,Attorney General,,DEM,Justin Nelson,31,10,41
-Cass,Precinct 11,Attorney General,,LIB,Michael Ray Harris,4,1,5
+Cass,Precinct 11,Lieutenant Governor,,,Under Votes,8,3,5
+Cass,Precinct 11,Attorney General,,REP,Ken Paxton,289,93,196
+Cass,Precinct 11,Attorney General,,DEM,Justin Nelson,41,10,31
+Cass,Precinct 11,Attorney General,,LIB,Michael Ray Harris,5,1,4
 Cass,Precinct 11,Attorney General,,,Over Votes,0,0,0
-Cass,Precinct 11,Attorney General,,,Under Votes,2,3,5
-Cass,Precinct 11,Comptroller of Public Accounts,,REP,Glenn Hegar,201,91,292
-Cass,Precinct 11,Comptroller of Public Accounts,,DEM,Joi Chevalier,24,11,35
-Cass,Precinct 11,Comptroller of Public Accounts,,LIB,Ben Sanders,4,2,6
+Cass,Precinct 11,Attorney General,,,Under Votes,5,3,2
+Cass,Precinct 11,Comptroller of Public Accounts,,REP,Glenn Hegar,292,91,201
+Cass,Precinct 11,Comptroller of Public Accounts,,DEM,Joi Chevalier,35,11,24
+Cass,Precinct 11,Comptroller of Public Accounts,,LIB,Ben Sanders,6,2,4
 Cass,Precinct 11,Comptroller of Public Accounts,,,Over Votes,0,0,0
-Cass,Precinct 11,Comptroller of Public Accounts,,,Under Votes,4,3,7
-Cass,Precinct 11,Commissioner of the General Land Office,,REP,George P. Bush,197,91,288
-Cass,Precinct 11,Commissioner of the General Land Office,,DEM,Miguel Suazo,29,10,39
-Cass,Precinct 11,Commissioner of the General Land Office,,LIB,Matt Pina,4,5,9
+Cass,Precinct 11,Comptroller of Public Accounts,,,Under Votes,7,3,4
+Cass,Precinct 11,Commissioner of the General Land Office,,REP,George P. Bush,288,91,197
+Cass,Precinct 11,Commissioner of the General Land Office,,DEM,Miguel Suazo,39,10,29
+Cass,Precinct 11,Commissioner of the General Land Office,,LIB,Matt Pina,9,5,4
 Cass,Precinct 11,Commissioner of the General Land Office,,,Over Votes,0,0,0
-Cass,Precinct 11,Commissioner of the General Land Office,,,Under Votes,3,1,4
-Cass,Precinct 11,Commissioner of Agriculture,,REP,Sid Miller,198,93,291
-Cass,Precinct 11,Commissioner of Agriculture,,DEM,Kim Olson,28,11,39
-Cass,Precinct 11,Commissioner of Agriculture,,LIB,Richard Carpenter,2,2,4
+Cass,Precinct 11,Commissioner of the General Land Office,,,Under Votes,4,1,3
+Cass,Precinct 11,Commissioner of Agriculture,,REP,Sid Miller,291,93,198
+Cass,Precinct 11,Commissioner of Agriculture,,DEM,Kim Olson,39,11,28
+Cass,Precinct 11,Commissioner of Agriculture,,LIB,Richard Carpenter,4,2,2
 Cass,Precinct 11,Commissioner of Agriculture,,,Over Votes,0,0,0
-Cass,Precinct 11,Commissioner of Agriculture,,,Under Votes,5,1,6
-Cass,Precinct 11,Railroad Commissioner,,REP,Christi Craddick,201,93,294
-Cass,Precinct 11,Railroad Commissioner,,DEM,Roman McAllen,26,11,37
-Cass,Precinct 11,Railroad Commissioner,,LIB,Mike Wright,0,1,1
+Cass,Precinct 11,Commissioner of Agriculture,,,Under Votes,6,1,5
+Cass,Precinct 11,Railroad Commissioner,,REP,Christi Craddick,294,93,201
+Cass,Precinct 11,Railroad Commissioner,,DEM,Roman McAllen,37,11,26
+Cass,Precinct 11,Railroad Commissioner,,LIB,Mike Wright,1,1,0
 Cass,Precinct 11,Railroad Commissioner,,,Over Votes,0,0,0
-Cass,Precinct 11,Railroad Commissioner,,,Under Votes,6,2,8
-Cass,Precinct 11,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,202,94,296
-Cass,Precinct 11,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,26,12,38
+Cass,Precinct 11,Railroad Commissioner,,,Under Votes,8,2,6
+Cass,Precinct 11,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,296,94,202
+Cass,Precinct 11,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,38,12,26
 Cass,Precinct 11,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0
-Cass,Precinct 11,"Justice, Supreme Court, Place 2",,,Under Votes,5,1,6
-Cass,Precinct 11,"Justice, Supreme Court, Place 4",,REP,John Devine,199,95,294
-Cass,Precinct 11,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,29,11,40
+Cass,Precinct 11,"Justice, Supreme Court, Place 2",,,Under Votes,6,1,5
+Cass,Precinct 11,"Justice, Supreme Court, Place 4",,REP,John Devine,294,95,199
+Cass,Precinct 11,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,40,11,29
 Cass,Precinct 11,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0
-Cass,Precinct 11,"Justice, Supreme Court, Place 4",,,Under Votes,5,1,6
-Cass,Precinct 11,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,203,95,298
-Cass,Precinct 11,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,26,10,36
+Cass,Precinct 11,"Justice, Supreme Court, Place 4",,,Under Votes,6,1,5
+Cass,Precinct 11,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,298,95,203
+Cass,Precinct 11,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,36,10,26
 Cass,Precinct 11,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0
-Cass,Precinct 11,"Justice, Supreme Court, Place 6",,,Under Votes,4,2,6
-Cass,Precinct 11,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,198,94,292
-Cass,Precinct 11,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,30,10,40
-Cass,Precinct 11,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,0,1,1
+Cass,Precinct 11,"Justice, Supreme Court, Place 6",,,Under Votes,6,2,4
+Cass,Precinct 11,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,292,94,198
+Cass,Precinct 11,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,40,10,30
+Cass,Precinct 11,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,1,1,0
 Cass,Precinct 11,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0
-Cass,Precinct 11,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,5,2,7
-Cass,Precinct 11,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,201,95,296
-Cass,Precinct 11,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,27,10,37
+Cass,Precinct 11,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,7,2,5
+Cass,Precinct 11,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,296,95,201
+Cass,Precinct 11,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,37,10,27
 Cass,Precinct 11,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0
-Cass,Precinct 11,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,5,2,7
-Cass,Precinct 11,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,204,93,297
-Cass,Precinct 11,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,8,9,17
+Cass,Precinct 11,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,7,2,5
+Cass,Precinct 11,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,297,93,204
+Cass,Precinct 11,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,17,9,8
 Cass,Precinct 11,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0
-Cass,Precinct 11,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,21,5,26
-Cass,Precinct 15,Ballots Cast,,,,,,340
-Cass,Precinct 15,State Representative,9,REP,Chris Paddie,208,99,307
+Cass,Precinct 11,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,26,5,21
+Cass,Precinct 15,Ballots Cast,,,,340,,
+Cass,Precinct 15,State Representative,9,REP,Chris Paddie,307,99,208
 Cass,Precinct 15,State Representative,9,,Over Votes,0,0,0
-Cass,Precinct 15,State Representative,9,,Under Votes,25,8,33
-Cass,Precinct 15,"Justice, 6th Court of Appeals District, Place No. 2",,REP,Scott Stevens,204,99,303
+Cass,Precinct 15,State Representative,9,,Under Votes,33,8,25
+Cass,Precinct 15,"Justice, 6th Court of Appeals District, Place No. 2",,REP,Scott Stevens,303,99,204
 Cass,Precinct 15,"Justice, 6th Court of Appeals District, Place No. 2",,,Over Votes,0,0,0
-Cass,Precinct 15,"Justice, 6th Court of Appeals District, Place No. 2",,,Under Votes,29,8,37
-Cass,Precinct 15,Trustee - Place 3,,,Kay Stephens,5,1,6
+Cass,Precinct 15,"Justice, 6th Court of Appeals District, Place No. 2",,,Under Votes,37,8,29
+Cass,Precinct 15,Trustee - Place 3,,,Kay Stephens,6,1,5
 Cass,Precinct 15,Trustee - Place 3,,,R. Curtis Lane,0,0,0
 Cass,Precinct 15,Trustee - Place 3,,,Over Votes,0,0,0
-Cass,Precinct 15,Trustee - Place 3,,,Under Votes,9,1,10
+Cass,Precinct 15,Trustee - Place 3,,,Under Votes,10,1,9
 Cass,Precinct 15,Trustee - Place 4,,,Kerry Wells,5,0,5
 Cass,Precinct 15,Trustee - Place 4,,,Over Votes,0,0,0
-Cass,Precinct 15,Trustee - Place 4,,,Under Votes,9,2,11
-Cass,Precinct 12,Ballots Cast,,,,,,442
-Cass,Precinct 12,Straight Party,,REP,Republican Party,119,106,225
-Cass,Precinct 12,Straight Party,,DEM,Democratic Party,33,51,84
+Cass,Precinct 15,Trustee - Place 4,,,Under Votes,11,2,9
+Cass,Precinct 12,Ballots Cast,,,,442,,
+Cass,Precinct 12,Straight Party,,REP,Republican Party,225,106,119
+Cass,Precinct 12,Straight Party,,DEM,Democratic Party,84,51,33
 Cass,Precinct 12,Straight Party,,LIB,Libertarian Party,1,0,1
 Cass,Precinct 12,Straight Party,,,Over Votes,0,0,0
-Cass,Precinct 12,Straight Party,,,Under Votes,57,75,132
-Cass,Precinct 12,U.S. Senate,,REP,Ted Cruz,154,153,307
-Cass,Precinct 12,U.S. Senate,,DEM,Beto O'Rourke,48,75,123
-Cass,Precinct 12,U.S. Senate,,LIB,Neal M. Dikeman,1,2,3
+Cass,Precinct 12,Straight Party,,,Under Votes,132,75,57
+Cass,Precinct 12,U.S. Senate,,REP,Ted Cruz,307,153,154
+Cass,Precinct 12,U.S. Senate,,DEM,Beto O'Rourke,123,75,48
+Cass,Precinct 12,U.S. Senate,,LIB,Neal M. Dikeman,3,2,1
 Cass,Precinct 12,U.S. Senate,,,Over Votes,0,0,0
-Cass,Precinct 12,U.S. Senate,,,Under Votes,7,2,9
-Cass,Precinct 12,U.S. House,4,REP,John Ratcliffe,160,157,317
-Cass,Precinct 12,U.S. House,4,DEM,Catherine Krantz,46,70,116
-Cass,Precinct 12,U.S. House,4,LIB,Ken Ashby,0,1,1
+Cass,Precinct 12,U.S. Senate,,,Under Votes,9,2,7
+Cass,Precinct 12,U.S. House,4,REP,John Ratcliffe,317,157,160
+Cass,Precinct 12,U.S. House,4,DEM,Catherine Krantz,116,70,46
+Cass,Precinct 12,U.S. House,4,LIB,Ken Ashby,1,1,0
 Cass,Precinct 12,U.S. House,4,,Over Votes,0,0,0
-Cass,Precinct 12,U.S. House,4,,Under Votes,4,4,8
-Cass,Precinct 12,Governor,,REP,Greg Abbott,161,162,323
-Cass,Precinct 12,Governor,,DEM,Lupe Valdez,46,66,112
-Cass,Precinct 12,Governor,,LIB,Mark Jay Tippetts,0,1,1
+Cass,Precinct 12,U.S. House,4,,Under Votes,8,4,4
+Cass,Precinct 12,Governor,,REP,Greg Abbott,323,162,161
+Cass,Precinct 12,Governor,,DEM,Lupe Valdez,112,66,46
+Cass,Precinct 12,Governor,,LIB,Mark Jay Tippetts,1,1,0
 Cass,Precinct 12,Governor,,,Over Votes,0,0,0
-Cass,Precinct 12,Governor,,,Under Votes,3,3,6
-Cass,Precinct 12,Lieutenant Governor,,REP,Dan Patrick,153,146,299
-Cass,Precinct 12,Lieutenant Governor,,DEM,Mike Collier,55,78,133
-Cass,Precinct 12,Lieutenant Governor,,LIB,Kerry Douglas McKennon,0,6,6
+Cass,Precinct 12,Governor,,,Under Votes,6,3,3
+Cass,Precinct 12,Lieutenant Governor,,REP,Dan Patrick,299,146,153
+Cass,Precinct 12,Lieutenant Governor,,DEM,Mike Collier,133,78,55
+Cass,Precinct 12,Lieutenant Governor,,LIB,Kerry Douglas McKennon,6,6,0
 Cass,Precinct 12,Lieutenant Governor,,,Over Votes,0,0,0
-Cass,Precinct 12,Lieutenant Governor,,,Under Votes,2,2,4
-Cass,Precinct 12,Attorney General,,REP,Ken Paxton,155,154,309
-Cass,Precinct 12,Attorney General,,DEM,Justin Nelson,53,73,126
-Cass,Precinct 12,Attorney General,,LIB,Michael Ray Harris,1,3,4
+Cass,Precinct 12,Lieutenant Governor,,,Under Votes,4,2,2
+Cass,Precinct 12,Attorney General,,REP,Ken Paxton,309,154,155
+Cass,Precinct 12,Attorney General,,DEM,Justin Nelson,126,73,53
+Cass,Precinct 12,Attorney General,,LIB,Michael Ray Harris,4,3,1
 Cass,Precinct 12,Attorney General,,,Over Votes,0,0,0
-Cass,Precinct 12,Attorney General,,,Under Votes,1,2,3
-Cass,Precinct 12,Comptroller of Public Accounts,,REP,Glenn Hegar,156,152,308
-Cass,Precinct 12,Comptroller of Public Accounts,,DEM,Joi Chevalier,49,74,123
-Cass,Precinct 12,Comptroller of Public Accounts,,LIB,Ben Sanders,2,5,7
+Cass,Precinct 12,Attorney General,,,Under Votes,3,2,1
+Cass,Precinct 12,Comptroller of Public Accounts,,REP,Glenn Hegar,308,152,156
+Cass,Precinct 12,Comptroller of Public Accounts,,DEM,Joi Chevalier,123,74,49
+Cass,Precinct 12,Comptroller of Public Accounts,,LIB,Ben Sanders,7,5,2
 Cass,Precinct 12,Comptroller of Public Accounts,,,Over Votes,0,0,0
-Cass,Precinct 12,Comptroller of Public Accounts,,,Under Votes,3,1,4
-Cass,Precinct 12,Commissioner of the General Land Office,,REP,George P. Bush,161,154,315
-Cass,Precinct 12,Commissioner of the General Land Office,,DEM,Miguel Suazo,48,70,118
-Cass,Precinct 12,Commissioner of the General Land Office,,LIB,Matt Pina,1,5,6
+Cass,Precinct 12,Comptroller of Public Accounts,,,Under Votes,4,1,3
+Cass,Precinct 12,Commissioner of the General Land Office,,REP,George P. Bush,315,154,161
+Cass,Precinct 12,Commissioner of the General Land Office,,DEM,Miguel Suazo,118,70,48
+Cass,Precinct 12,Commissioner of the General Land Office,,LIB,Matt Pina,6,5,1
 Cass,Precinct 12,Commissioner of the General Land Office,,,Over Votes,0,0,0
-Cass,Precinct 12,Commissioner of the General Land Office,,,Under Votes,0,3,3
-Cass,Precinct 12,Commissioner of Agriculture,,REP,Sid Miller,158,150,308
-Cass,Precinct 12,Commissioner of Agriculture,,DEM,Kim Olson,48,77,125
-Cass,Precinct 12,Commissioner of Agriculture,,LIB,Richard Carpenter,2,3,5
+Cass,Precinct 12,Commissioner of the General Land Office,,,Under Votes,3,3,0
+Cass,Precinct 12,Commissioner of Agriculture,,REP,Sid Miller,308,150,158
+Cass,Precinct 12,Commissioner of Agriculture,,DEM,Kim Olson,125,77,48
+Cass,Precinct 12,Commissioner of Agriculture,,LIB,Richard Carpenter,5,3,2
 Cass,Precinct 12,Commissioner of Agriculture,,,Over Votes,0,0,0
-Cass,Precinct 12,Commissioner of Agriculture,,,Under Votes,2,2,4
-Cass,Precinct 12,Railroad Commissioner,,REP,Christi Craddick,159,149,308
-Cass,Precinct 12,Railroad Commissioner,,DEM,Roman McAllen,49,76,125
-Cass,Precinct 12,Railroad Commissioner,,LIB,Mike Wright,1,5,6
+Cass,Precinct 12,Commissioner of Agriculture,,,Under Votes,4,2,2
+Cass,Precinct 12,Railroad Commissioner,,REP,Christi Craddick,308,149,159
+Cass,Precinct 12,Railroad Commissioner,,DEM,Roman McAllen,125,76,49
+Cass,Precinct 12,Railroad Commissioner,,LIB,Mike Wright,6,5,1
 Cass,Precinct 12,Railroad Commissioner,,,Over Votes,0,0,0
-Cass,Precinct 12,Railroad Commissioner,,,Under Votes,1,2,3
-Cass,Precinct 12,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,157,154,311
-Cass,Precinct 12,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,53,76,129
+Cass,Precinct 12,Railroad Commissioner,,,Under Votes,3,2,1
+Cass,Precinct 12,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,311,154,157
+Cass,Precinct 12,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,129,76,53
 Cass,Precinct 12,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0
-Cass,Precinct 12,"Justice, Supreme Court, Place 2",,,Under Votes,0,2,2
-Cass,Precinct 12,"Justice, Supreme Court, Place 4",,REP,John Devine,157,156,313
-Cass,Precinct 12,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,52,74,126
+Cass,Precinct 12,"Justice, Supreme Court, Place 2",,,Under Votes,2,2,0
+Cass,Precinct 12,"Justice, Supreme Court, Place 4",,REP,John Devine,313,156,157
+Cass,Precinct 12,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,126,74,52
 Cass,Precinct 12,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0
-Cass,Precinct 12,"Justice, Supreme Court, Place 4",,,Under Votes,1,2,3
-Cass,Precinct 12,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,160,156,316
-Cass,Precinct 12,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,50,74,124
+Cass,Precinct 12,"Justice, Supreme Court, Place 4",,,Under Votes,3,2,1
+Cass,Precinct 12,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,316,156,160
+Cass,Precinct 12,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,124,74,50
 Cass,Precinct 12,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0
-Cass,Precinct 12,"Justice, Supreme Court, Place 6",,,Under Votes,0,2,2
-Cass,Precinct 12,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,158,152,310
-Cass,Precinct 12,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,50,70,120
-Cass,Precinct 12,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,1,8,9
+Cass,Precinct 12,"Justice, Supreme Court, Place 6",,,Under Votes,2,2,0
+Cass,Precinct 12,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,310,152,158
+Cass,Precinct 12,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,120,70,50
+Cass,Precinct 12,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,9,8,1
 Cass,Precinct 12,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0
-Cass,Precinct 12,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,1,2,3
-Cass,Precinct 12,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,158,157,315
-Cass,Precinct 12,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,48,72,120
+Cass,Precinct 12,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,3,2,1
+Cass,Precinct 12,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,315,157,158
+Cass,Precinct 12,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,120,72,48
 Cass,Precinct 12,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0
-Cass,Precinct 12,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,4,3,7
-Cass,Precinct 12,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,159,159,318
-Cass,Precinct 12,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,20,23,43
+Cass,Precinct 12,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,7,3,4
+Cass,Precinct 12,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,318,159,159
+Cass,Precinct 12,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,43,23,20
 Cass,Precinct 12,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0
-Cass,Precinct 12,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,31,50,81
-Cass,Precinct 12,State Representative,9,REP,Chris Paddie,167,167,334
+Cass,Precinct 12,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,81,50,31
+Cass,Precinct 12,State Representative,9,REP,Chris Paddie,334,167,167
 Cass,Precinct 12,State Representative,9,,Over Votes,0,0,0
-Cass,Precinct 12,State Representative,9,,Under Votes,43,65,108
-Cass,Precinct 12,"Justice, 6th Court of Appeals District, Place No. 2",,REP,Scott Stevens,167,166,333
+Cass,Precinct 12,State Representative,9,,Under Votes,108,65,43
+Cass,Precinct 12,"Justice, 6th Court of Appeals District, Place No. 2",,REP,Scott Stevens,333,166,167
 Cass,Precinct 12,"Justice, 6th Court of Appeals District, Place No. 2",,,Over Votes,0,0,0
-Cass,Precinct 12,"Justice, 6th Court of Appeals District, Place No. 2",,,Under Votes,43,66,109
-Cass,Precinct 12,Straight Party,,REP,Republican Party,186,98,284
-Cass,Precinct 12,Straight Party,,DEM,Democratic Party,121,126,247
-Cass,Precinct 12,Straight Party,,LIB,Libertarian Party,1,1,2
+Cass,Precinct 12,"Justice, 6th Court of Appeals District, Place No. 2",,,Under Votes,109,66,43
+Cass,Precinct 12,Straight Party,,REP,Republican Party,284,98,186
+Cass,Precinct 12,Straight Party,,DEM,Democratic Party,247,126,121
+Cass,Precinct 12,Straight Party,,LIB,Libertarian Party,2,1,1
 Cass,Precinct 12,Straight Party,,,Over Votes,1,0,1
-Cass,Precinct 12,Straight Party,,,Under Votes,107,98,205
-Cass,Precinct 12,U.S. Senate,,REP,Ted Cruz,256,167,423
-Cass,Precinct 12,U.S. Senate,,DEM,Beto O'Rourke,153,153,306
-Cass,Precinct 12,U.S. Senate,,LIB,Neal M. Dikeman,0,2,2
+Cass,Precinct 12,Straight Party,,,Under Votes,205,98,107
+Cass,Precinct 12,U.S. Senate,,REP,Ted Cruz,423,167,256
+Cass,Precinct 12,U.S. Senate,,DEM,Beto O'Rourke,306,153,153
+Cass,Precinct 12,U.S. Senate,,LIB,Neal M. Dikeman,2,2,0
 Cass,Precinct 12,U.S. Senate,,,Over Votes,0,0,0
-Cass,Precinct 12,U.S. Senate,,,Under Votes,7,1,8
-Cass,Precinct 12,U.S. House,4,REP,John Ratcliffe,263,167,430
-Cass,Precinct 12,U.S. House,4,DEM,Catherine Krantz,147,150,297
-Cass,Precinct 12,U.S. House,4,LIB,Ken Ashby,2,1,3
+Cass,Precinct 12,U.S. Senate,,,Under Votes,8,1,7
+Cass,Precinct 12,U.S. House,4,REP,John Ratcliffe,430,167,263
+Cass,Precinct 12,U.S. House,4,DEM,Catherine Krantz,297,150,147
+Cass,Precinct 12,U.S. House,4,LIB,Ken Ashby,3,1,2
 Cass,Precinct 12,U.S. House,4,,Over Votes,0,0,0
-Cass,Precinct 12,U.S. House,4,,Under Votes,4,5,9
-Cass,Precinct 12,Governor,,REP,Greg Abbott,268,173,441
-Cass,Precinct 12,Governor,,DEM,Lupe Valdez,145,145,290
-Cass,Precinct 12,Governor,,LIB,Mark Jay Tippetts,1,1,2
+Cass,Precinct 12,U.S. House,4,,Under Votes,9,5,4
+Cass,Precinct 12,Governor,,REP,Greg Abbott,441,173,268
+Cass,Precinct 12,Governor,,DEM,Lupe Valdez,290,145,145
+Cass,Precinct 12,Governor,,LIB,Mark Jay Tippetts,2,1,1
 Cass,Precinct 12,Governor,,,Over Votes,0,0,0
-Cass,Precinct 12,Governor,,,Under Votes,2,4,6
-Cass,Precinct 12,Lieutenant Governor,,REP,Dan Patrick,254,155,409
-Cass,Precinct 12,Lieutenant Governor,,DEM,Mike Collier,155,163,318
-Cass,Precinct 12,Lieutenant Governor,,LIB,Kerry Douglas McKennon,4,2,6
+Cass,Precinct 12,Governor,,,Under Votes,6,4,2
+Cass,Precinct 12,Lieutenant Governor,,REP,Dan Patrick,409,155,254
+Cass,Precinct 12,Lieutenant Governor,,DEM,Mike Collier,318,163,155
+Cass,Precinct 12,Lieutenant Governor,,LIB,Kerry Douglas McKennon,6,2,4
 Cass,Precinct 12,Lieutenant Governor,,,Over Votes,0,0,0
-Cass,Precinct 12,Lieutenant Governor,,,Under Votes,3,3,6
-Cass,Precinct 12,Attorney General,,REP,Ken Paxton,255,162,417
-Cass,Precinct 12,Attorney General,,DEM,Justin Nelson,155,154,309
-Cass,Precinct 12,Attorney General,,LIB,Michael Ray Harris,3,3,6
+Cass,Precinct 12,Lieutenant Governor,,,Under Votes,6,3,3
+Cass,Precinct 12,Attorney General,,REP,Ken Paxton,417,162,255
+Cass,Precinct 12,Attorney General,,DEM,Justin Nelson,309,154,155
+Cass,Precinct 12,Attorney General,,LIB,Michael Ray Harris,6,3,3
 Cass,Precinct 12,Attorney General,,,Over Votes,0,0,0
-Cass,Precinct 12,Attorney General,,,Under Votes,3,4,7
-Cass,Precinct 12,Comptroller of Public Accounts,,REP,Glenn Hegar,256,159,415
-Cass,Precinct 12,Comptroller of Public Accounts,,DEM,Joi Chevalier,149,154,303
-Cass,Precinct 12,Comptroller of Public Accounts,,LIB,Ben Sanders,7,5,12
+Cass,Precinct 12,Attorney General,,,Under Votes,7,4,3
+Cass,Precinct 12,Comptroller of Public Accounts,,REP,Glenn Hegar,415,159,256
+Cass,Precinct 12,Comptroller of Public Accounts,,DEM,Joi Chevalier,303,154,149
+Cass,Precinct 12,Comptroller of Public Accounts,,LIB,Ben Sanders,12,5,7
 Cass,Precinct 12,Comptroller of Public Accounts,,,Over Votes,0,0,0
-Cass,Precinct 12,Comptroller of Public Accounts,,,Under Votes,4,5,9
-Cass,Precinct 12,Commissioner of the General Land Office,,REP,George P. Bush,261,166,427
-Cass,Precinct 12,Commissioner of the General Land Office,,DEM,Miguel Suazo,146,154,300
-Cass,Precinct 12,Commissioner of the General Land Office,,LIB,Matt Pina,5,2,7
+Cass,Precinct 12,Comptroller of Public Accounts,,,Under Votes,9,5,4
+Cass,Precinct 12,Commissioner of the General Land Office,,REP,George P. Bush,427,166,261
+Cass,Precinct 12,Commissioner of the General Land Office,,DEM,Miguel Suazo,300,154,146
+Cass,Precinct 12,Commissioner of the General Land Office,,LIB,Matt Pina,7,2,5
 Cass,Precinct 12,Commissioner of the General Land Office,,,Over Votes,0,0,0
-Cass,Precinct 12,Commissioner of the General Land Office,,,Under Votes,4,1,5
-Cass,Precinct 12,Commissioner of Agriculture,,REP,Sid Miller,258,155,413
-Cass,Precinct 12,Commissioner of Agriculture,,DEM,Kim Olson,148,161,309
-Cass,Precinct 12,Commissioner of Agriculture,,LIB,Richard Carpenter,2,3,5
+Cass,Precinct 12,Commissioner of the General Land Office,,,Under Votes,5,1,4
+Cass,Precinct 12,Commissioner of Agriculture,,REP,Sid Miller,413,155,258
+Cass,Precinct 12,Commissioner of Agriculture,,DEM,Kim Olson,309,161,148
+Cass,Precinct 12,Commissioner of Agriculture,,LIB,Richard Carpenter,5,3,2
 Cass,Precinct 12,Commissioner of Agriculture,,,Over Votes,0,0,0
-Cass,Precinct 12,Commissioner of Agriculture,,,Under Votes,8,4,12
-Cass,Precinct 12,Railroad Commissioner,,REP,Christi Craddick,260,164,424
-Cass,Precinct 12,Railroad Commissioner,,DEM,Roman McAllen,148,153,301
-Cass,Precinct 12,Railroad Commissioner,,LIB,Mike Wright,3,4,7
+Cass,Precinct 12,Commissioner of Agriculture,,,Under Votes,12,4,8
+Cass,Precinct 12,Railroad Commissioner,,REP,Christi Craddick,424,164,260
+Cass,Precinct 12,Railroad Commissioner,,DEM,Roman McAllen,301,153,148
+Cass,Precinct 12,Railroad Commissioner,,LIB,Mike Wright,7,4,3
 Cass,Precinct 12,Railroad Commissioner,,,Over Votes,0,0,0
-Cass,Precinct 12,Railroad Commissioner,,,Under Votes,5,2,7
-Cass,Precinct 12,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,258,161,419
-Cass,Precinct 12,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,151,158,309
+Cass,Precinct 12,Railroad Commissioner,,,Under Votes,7,2,5
+Cass,Precinct 12,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,419,161,258
+Cass,Precinct 12,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,309,158,151
 Cass,Precinct 12,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0
-Cass,Precinct 12,"Justice, Supreme Court, Place 2",,,Under Votes,7,4,11
-Cass,Precinct 12,"Justice, Supreme Court, Place 4",,REP,John Devine,262,162,424
-Cass,Precinct 12,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,150,157,307
+Cass,Precinct 12,"Justice, Supreme Court, Place 2",,,Under Votes,11,4,7
+Cass,Precinct 12,"Justice, Supreme Court, Place 4",,REP,John Devine,424,162,262
+Cass,Precinct 12,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,307,157,150
 Cass,Precinct 12,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0
-Cass,Precinct 12,"Justice, Supreme Court, Place 4",,,Under Votes,4,4,8
-Cass,Precinct 12,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,261,160,421
-Cass,Precinct 12,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,151,158,309
+Cass,Precinct 12,"Justice, Supreme Court, Place 4",,,Under Votes,8,4,4
+Cass,Precinct 12,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,421,160,261
+Cass,Precinct 12,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,309,158,151
 Cass,Precinct 12,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0
-Cass,Precinct 12,"Justice, Supreme Court, Place 6",,,Under Votes,4,5,9
-Cass,Precinct 12,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,260,156,416
-Cass,Precinct 12,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,149,157,306
-Cass,Precinct 12,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,2,6,8
+Cass,Precinct 12,"Justice, Supreme Court, Place 6",,,Under Votes,9,5,4
+Cass,Precinct 12,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,416,156,260
+Cass,Precinct 12,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,306,157,149
+Cass,Precinct 12,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,8,6,2
 Cass,Precinct 12,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0
-Cass,Precinct 12,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,5,4,9
-Cass,Precinct 12,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,261,165,426
-Cass,Precinct 12,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,147,155,302
+Cass,Precinct 12,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,9,4,5
+Cass,Precinct 12,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,426,165,261
+Cass,Precinct 12,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,302,155,147
 Cass,Precinct 12,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0
-Cass,Precinct 12,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,8,3,11
-Cass,Precinct 12,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,267,177,444
-Cass,Precinct 12,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,43,35,78
+Cass,Precinct 12,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,11,3,8
+Cass,Precinct 12,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,444,177,267
+Cass,Precinct 12,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,78,35,43
 Cass,Precinct 12,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0
-Cass,Precinct 12,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,106,111,217
-Cass,Precinct 13T,Ballots Cast,,,,,,739
-Cass,Precinct 13T,State Representative,9,REP,Chris Paddie,279,194,473
+Cass,Precinct 12,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,217,111,106
+Cass,Precinct 13T,Ballots Cast,,,,739,,
+Cass,Precinct 13T,State Representative,9,REP,Chris Paddie,473,194,279
 Cass,Precinct 13T,State Representative,9,,Over Votes,0,0,0
-Cass,Precinct 13T,State Representative,9,,Under Votes,137,129,266
-Cass,Precinct 13T,"Justice, 6th Court of Appeals District, Place No. 2",,REP,Scott Stevens,277,190,467
+Cass,Precinct 13T,State Representative,9,,Under Votes,266,129,137
+Cass,Precinct 13T,"Justice, 6th Court of Appeals District, Place No. 2",,REP,Scott Stevens,467,190,277
 Cass,Precinct 13T,"Justice, 6th Court of Appeals District, Place No. 2",,,Over Votes,0,0,0
-Cass,Precinct 13T,"Justice, 6th Court of Appeals District, Place No. 2",,,Under Votes,139,133,272
-Cass,Precinct 14,Ballots Cast,,,,,,1138
-Cass,Precinct 14,Straight Party,,REP,Republican Party,380,247,627
-Cass,Precinct 14,Straight Party,,DEM,Democratic Party,75,43,118
+Cass,Precinct 13T,"Justice, 6th Court of Appeals District, Place No. 2",,,Under Votes,272,133,139
+Cass,Precinct 14,Ballots Cast,,,,1138,,
+Cass,Precinct 14,Straight Party,,REP,Republican Party,627,247,380
+Cass,Precinct 14,Straight Party,,DEM,Democratic Party,118,43,75
 Cass,Precinct 14,Straight Party,,LIB,Libertarian Party,0,0,0
 Cass,Precinct 14,Straight Party,,,Over Votes,0,0,0
-Cass,Precinct 14,Straight Party,,,Under Votes,213,180,393
-Cass,Precinct 14,U.S. Senate,,REP,Ted Cruz,558,386,944
-Cass,Precinct 14,U.S. Senate,,DEM,Beto O'Rourke,101,71,172
-Cass,Precinct 14,U.S. Senate,,LIB,Neal M. Dikeman,5,2,7
+Cass,Precinct 14,Straight Party,,,Under Votes,393,180,213
+Cass,Precinct 14,U.S. Senate,,REP,Ted Cruz,944,386,558
+Cass,Precinct 14,U.S. Senate,,DEM,Beto O'Rourke,172,71,101
+Cass,Precinct 14,U.S. Senate,,LIB,Neal M. Dikeman,7,2,5
 Cass,Precinct 14,U.S. Senate,,,Over Votes,0,0,0
-Cass,Precinct 14,U.S. Senate,,,Under Votes,4,11,15
-Cass,Precinct 14,U.S. House,4,REP,John Ratcliffe,557,389,946
-Cass,Precinct 14,U.S. House,4,DEM,Catherine Krantz,99,69,168
-Cass,Precinct 14,U.S. House,4,LIB,Ken Ashby,6,4,10
+Cass,Precinct 14,U.S. Senate,,,Under Votes,15,11,4
+Cass,Precinct 14,U.S. House,4,REP,John Ratcliffe,946,389,557
+Cass,Precinct 14,U.S. House,4,DEM,Catherine Krantz,168,69,99
+Cass,Precinct 14,U.S. House,4,LIB,Ken Ashby,10,4,6
 Cass,Precinct 14,U.S. House,4,,Over Votes,0,0,0
-Cass,Precinct 14,U.S. House,4,,Under Votes,6,8,14
-Cass,Precinct 14,Governor,,REP,Greg Abbott,560,398,958
-Cass,Precinct 14,Governor,,DEM,Lupe Valdez,101,63,164
-Cass,Precinct 14,Governor,,LIB,Mark Jay Tippetts,6,3,9
+Cass,Precinct 14,U.S. House,4,,Under Votes,14,8,6
+Cass,Precinct 14,Governor,,REP,Greg Abbott,958,398,560
+Cass,Precinct 14,Governor,,DEM,Lupe Valdez,164,63,101
+Cass,Precinct 14,Governor,,LIB,Mark Jay Tippetts,9,3,6
 Cass,Precinct 14,Governor,,,Over Votes,0,0,0
-Cass,Precinct 14,Governor,,,Under Votes,1,6,7
-Cass,Precinct 14,Lieutenant Governor,,REP,Dan Patrick,531,343,874
-Cass,Precinct 14,Lieutenant Governor,,DEM,Mike Collier,124,110,234
-Cass,Precinct 14,Lieutenant Governor,,LIB,Kerry Douglas McKennon,8,6,14
+Cass,Precinct 14,Governor,,,Under Votes,7,6,1
+Cass,Precinct 14,Lieutenant Governor,,REP,Dan Patrick,874,343,531
+Cass,Precinct 14,Lieutenant Governor,,DEM,Mike Collier,234,110,124
+Cass,Precinct 14,Lieutenant Governor,,LIB,Kerry Douglas McKennon,14,6,8
 Cass,Precinct 14,Lieutenant Governor,,,Over Votes,0,0,0
-Cass,Precinct 14,Lieutenant Governor,,,Under Votes,5,11,16
-Cass,Precinct 14,Attorney General,,REP,Ken Paxton,541,380,921
-Cass,Precinct 14,Attorney General,,DEM,Justin Nelson,115,73,188
-Cass,Precinct 14,Attorney General,,LIB,Michael Ray Harris,6,5,11
+Cass,Precinct 14,Lieutenant Governor,,,Under Votes,16,11,5
+Cass,Precinct 14,Attorney General,,REP,Ken Paxton,921,380,541
+Cass,Precinct 14,Attorney General,,DEM,Justin Nelson,188,73,115
+Cass,Precinct 14,Attorney General,,LIB,Michael Ray Harris,11,5,6
 Cass,Precinct 14,Attorney General,,,Over Votes,0,0,0
-Cass,Precinct 14,Attorney General,,,Under Votes,6,12,18
-Cass,Precinct 14,Comptroller of Public Accounts,,REP,Glenn Hegar,553,386,939
-Cass,Precinct 14,Comptroller of Public Accounts,,DEM,Joi Chevalier,97,63,160
-Cass,Precinct 14,Comptroller of Public Accounts,,LIB,Ben Sanders,11,7,18
+Cass,Precinct 14,Attorney General,,,Under Votes,18,12,6
+Cass,Precinct 14,Comptroller of Public Accounts,,REP,Glenn Hegar,939,386,553
+Cass,Precinct 14,Comptroller of Public Accounts,,DEM,Joi Chevalier,160,63,97
+Cass,Precinct 14,Comptroller of Public Accounts,,LIB,Ben Sanders,18,7,11
 Cass,Precinct 14,Comptroller of Public Accounts,,,Over Votes,0,0,0
-Cass,Precinct 14,Comptroller of Public Accounts,,,Under Votes,7,14,21
-Cass,Precinct 14,Commissioner of the General Land Office,,REP,George P. Bush,545,387,932
-Cass,Precinct 14,Commissioner of the General Land Office,,DEM,Miguel Suazo,100,63,163
-Cass,Precinct 14,Commissioner of the General Land Office,,LIB,Matt Pina,18,10,28
+Cass,Precinct 14,Comptroller of Public Accounts,,,Under Votes,21,14,7
+Cass,Precinct 14,Commissioner of the General Land Office,,REP,George P. Bush,932,387,545
+Cass,Precinct 14,Commissioner of the General Land Office,,DEM,Miguel Suazo,163,63,100
+Cass,Precinct 14,Commissioner of the General Land Office,,LIB,Matt Pina,28,10,18
 Cass,Precinct 14,Commissioner of the General Land Office,,,Over Votes,0,0,0
-Cass,Precinct 14,Commissioner of the General Land Office,,,Under Votes,5,10,15
-Cass,Precinct 14,Commissioner of Agriculture,,REP,Sid Miller,544,382,926
-Cass,Precinct 14,Commissioner of Agriculture,,DEM,Kim Olson,107,69,176
-Cass,Precinct 14,Commissioner of Agriculture,,LIB,Richard Carpenter,9,6,15
+Cass,Precinct 14,Commissioner of the General Land Office,,,Under Votes,15,10,5
+Cass,Precinct 14,Commissioner of Agriculture,,REP,Sid Miller,926,382,544
+Cass,Precinct 14,Commissioner of Agriculture,,DEM,Kim Olson,176,69,107
+Cass,Precinct 14,Commissioner of Agriculture,,LIB,Richard Carpenter,15,6,9
 Cass,Precinct 14,Commissioner of Agriculture,,,Over Votes,0,0,0
-Cass,Precinct 14,Commissioner of Agriculture,,,Under Votes,8,13,21
-Cass,Precinct 14,Railroad Commissioner,,REP,Christi Craddick,544,386,930
-Cass,Precinct 14,Railroad Commissioner,,DEM,Roman McAllen,105,64,169
-Cass,Precinct 14,Railroad Commissioner,,LIB,Mike Wright,10,4,14
+Cass,Precinct 14,Commissioner of Agriculture,,,Under Votes,21,13,8
+Cass,Precinct 14,Railroad Commissioner,,REP,Christi Craddick,930,386,544
+Cass,Precinct 14,Railroad Commissioner,,DEM,Roman McAllen,169,64,105
+Cass,Precinct 14,Railroad Commissioner,,LIB,Mike Wright,14,4,10
 Cass,Precinct 14,Railroad Commissioner,,,Over Votes,0,0,0
-Cass,Precinct 14,Railroad Commissioner,,,Under Votes,9,16,25
-Cass,Precinct 14,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,551,385,936
-Cass,Precinct 14,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,108,73,181
+Cass,Precinct 14,Railroad Commissioner,,,Under Votes,25,16,9
+Cass,Precinct 14,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,936,385,551
+Cass,Precinct 14,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,181,73,108
 Cass,Precinct 14,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0
-Cass,Precinct 14,"Justice, Supreme Court, Place 2",,,Under Votes,9,12,21
-Cass,Precinct 14,"Justice, Supreme Court, Place 4",,REP,John Devine,554,389,943
-Cass,Precinct 14,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,105,68,173
+Cass,Precinct 14,"Justice, Supreme Court, Place 2",,,Under Votes,21,12,9
+Cass,Precinct 14,"Justice, Supreme Court, Place 4",,REP,John Devine,943,389,554
+Cass,Precinct 14,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,173,68,105
 Cass,Precinct 14,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0
-Cass,Precinct 14,"Justice, Supreme Court, Place 4",,,Under Votes,9,13,22
-Cass,Precinct 14,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,558,388,946
-Cass,Precinct 14,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,103,70,173
+Cass,Precinct 14,"Justice, Supreme Court, Place 4",,,Under Votes,22,13,9
+Cass,Precinct 14,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,946,388,558
+Cass,Precinct 14,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,173,70,103
 Cass,Precinct 14,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0
-Cass,Precinct 14,"Justice, Supreme Court, Place 6",,,Under Votes,7,12,19
-Cass,Precinct 14,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,547,388,935
-Cass,Precinct 14,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,105,67,172
-Cass,Precinct 14,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,8,7,15
+Cass,Precinct 14,"Justice, Supreme Court, Place 6",,,Under Votes,19,12,7
+Cass,Precinct 14,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,935,388,547
+Cass,Precinct 14,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,172,67,105
+Cass,Precinct 14,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,15,7,8
 Cass,Precinct 14,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0
-Cass,Precinct 14,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,8,8,16
-Cass,Precinct 14,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,552,391,943
-Cass,Precinct 14,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,106,66,172
+Cass,Precinct 14,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,16,8,8
+Cass,Precinct 14,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,943,391,552
+Cass,Precinct 14,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,172,66,106
 Cass,Precinct 14,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0
-Cass,Precinct 14,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,10,13,23
-Cass,Precinct 14,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,558,397,955
-Cass,Precinct 14,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,46,28,74
+Cass,Precinct 14,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,23,13,10
+Cass,Precinct 14,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,955,397,558
+Cass,Precinct 14,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,74,28,46
 Cass,Precinct 14,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0
-Cass,Precinct 14,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,64,45,109
-Cass,Precinct 14,State Representative,9,REP,Chris Paddie,585,411,996
+Cass,Precinct 14,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,109,45,64
+Cass,Precinct 14,State Representative,9,REP,Chris Paddie,996,411,585
 Cass,Precinct 14,State Representative,9,,Over Votes,0,0,0
-Cass,Precinct 14,State Representative,9,,Under Votes,83,59,142
-Cass,Precinct 14,"Justice, 6th Court of Appeals District, Place No. 2",,REP,Scott Stevens,578,408,986
+Cass,Precinct 14,State Representative,9,,Under Votes,142,59,83
+Cass,Precinct 14,"Justice, 6th Court of Appeals District, Place No. 2",,REP,Scott Stevens,986,408,578
 Cass,Precinct 14,"Justice, 6th Court of Appeals District, Place No. 2",,,Over Votes,0,0,0
-Cass,Precinct 14,"Justice, 6th Court of Appeals District, Place No. 2",,,Under Votes,90,62,152
-Cass,Precinct 16,Ballots Cast,,,,,,277
-Cass,Precinct 16,Straight Party,,REP,Republican Party,56,107,163
-Cass,Precinct 16,Straight Party,,DEM,Democratic Party,13,5,18
-Cass,Precinct 16,Straight Party,,LIB,Libertarian Party,1,1,2
+Cass,Precinct 14,"Justice, 6th Court of Appeals District, Place No. 2",,,Under Votes,152,62,90
+Cass,Precinct 16,Ballots Cast,,,,277,,
+Cass,Precinct 16,Straight Party,,REP,Republican Party,163,107,56
+Cass,Precinct 16,Straight Party,,DEM,Democratic Party,18,5,13
+Cass,Precinct 16,Straight Party,,LIB,Libertarian Party,2,1,1
 Cass,Precinct 16,Straight Party,,,Over Votes,0,0,0
-Cass,Precinct 16,Straight Party,,,Under Votes,34,60,94
-Cass,Precinct 16,U.S. Senate,,REP,Ted Cruz,83,162,245
-Cass,Precinct 16,U.S. Senate,,DEM,Beto O'Rourke,21,8,29
-Cass,Precinct 16,U.S. Senate,,LIB,Neal M. Dikeman,0,2,2
+Cass,Precinct 16,Straight Party,,,Under Votes,94,60,34
+Cass,Precinct 16,U.S. Senate,,REP,Ted Cruz,245,162,83
+Cass,Precinct 16,U.S. Senate,,DEM,Beto O'Rourke,29,8,21
+Cass,Precinct 16,U.S. Senate,,LIB,Neal M. Dikeman,2,2,0
 Cass,Precinct 16,U.S. Senate,,,Over Votes,0,0,0
-Cass,Precinct 16,U.S. Senate,,,Under Votes,0,1,1
-Cass,Precinct 16,U.S. House,4,REP,John Ratcliffe,83,155,238
-Cass,Precinct 16,U.S. House,4,DEM,Catherine Krantz,19,9,28
-Cass,Precinct 16,U.S. House,4,LIB,Ken Ashby,2,2,4
+Cass,Precinct 16,U.S. Senate,,,Under Votes,1,1,0
+Cass,Precinct 16,U.S. House,4,REP,John Ratcliffe,238,155,83
+Cass,Precinct 16,U.S. House,4,DEM,Catherine Krantz,28,9,19
+Cass,Precinct 16,U.S. House,4,LIB,Ken Ashby,4,2,2
 Cass,Precinct 16,U.S. House,4,,Over Votes,0,0,0
-Cass,Precinct 16,U.S. House,4,,Under Votes,0,7,7
-Cass,Precinct 16,Governor,,REP,Greg Abbott,84,158,242
-Cass,Precinct 16,Governor,,DEM,Lupe Valdez,18,10,28
-Cass,Precinct 16,Governor,,LIB,Mark Jay Tippetts,1,1,2
+Cass,Precinct 16,U.S. House,4,,Under Votes,7,7,0
+Cass,Precinct 16,Governor,,REP,Greg Abbott,242,158,84
+Cass,Precinct 16,Governor,,DEM,Lupe Valdez,28,10,18
+Cass,Precinct 16,Governor,,LIB,Mark Jay Tippetts,2,1,1
 Cass,Precinct 16,Governor,,,Over Votes,0,0,0
-Cass,Precinct 16,Governor,,,Under Votes,1,4,5
-Cass,Precinct 16,Lieutenant Governor,,REP,Dan Patrick,79,133,212
-Cass,Precinct 16,Lieutenant Governor,,DEM,Mike Collier,23,32,55
-Cass,Precinct 16,Lieutenant Governor,,LIB,Kerry Douglas McKennon,2,1,3
+Cass,Precinct 16,Governor,,,Under Votes,5,4,1
+Cass,Precinct 16,Lieutenant Governor,,REP,Dan Patrick,212,133,79
+Cass,Precinct 16,Lieutenant Governor,,DEM,Mike Collier,55,32,23
+Cass,Precinct 16,Lieutenant Governor,,LIB,Kerry Douglas McKennon,3,1,2
 Cass,Precinct 16,Lieutenant Governor,,,Over Votes,0,0,0
-Cass,Precinct 16,Lieutenant Governor,,,Under Votes,0,7,7
-Cass,Precinct 16,Attorney General,,REP,Ken Paxton,82,153,235
-Cass,Precinct 16,Attorney General,,DEM,Justin Nelson,19,10,29
-Cass,Precinct 16,Attorney General,,LIB,Michael Ray Harris,2,2,4
+Cass,Precinct 16,Lieutenant Governor,,,Under Votes,7,7,0
+Cass,Precinct 16,Attorney General,,REP,Ken Paxton,235,153,82
+Cass,Precinct 16,Attorney General,,DEM,Justin Nelson,29,10,19
+Cass,Precinct 16,Attorney General,,LIB,Michael Ray Harris,4,2,2
 Cass,Precinct 16,Attorney General,,,Over Votes,0,0,0
-Cass,Precinct 16,Attorney General,,,Under Votes,1,8,9
-Cass,Precinct 16,Comptroller of Public Accounts,,REP,Glenn Hegar,81,158,239
-Cass,Precinct 16,Comptroller of Public Accounts,,DEM,Joi Chevalier,20,8,28
-Cass,Precinct 16,Comptroller of Public Accounts,,LIB,Ben Sanders,1,1,2
+Cass,Precinct 16,Attorney General,,,Under Votes,9,8,1
+Cass,Precinct 16,Comptroller of Public Accounts,,REP,Glenn Hegar,239,158,81
+Cass,Precinct 16,Comptroller of Public Accounts,,DEM,Joi Chevalier,28,8,20
+Cass,Precinct 16,Comptroller of Public Accounts,,LIB,Ben Sanders,2,1,1
 Cass,Precinct 16,Comptroller of Public Accounts,,,Over Votes,0,0,0
-Cass,Precinct 16,Comptroller of Public Accounts,,,Under Votes,2,6,8
-Cass,Precinct 16,Commissioner of the General Land Office,,REP,George P. Bush,82,155,237
-Cass,Precinct 16,Commissioner of the General Land Office,,DEM,Miguel Suazo,18,13,31
-Cass,Precinct 16,Commissioner of the General Land Office,,LIB,Matt Pina,4,3,7
+Cass,Precinct 16,Comptroller of Public Accounts,,,Under Votes,8,6,2
+Cass,Precinct 16,Commissioner of the General Land Office,,REP,George P. Bush,237,155,82
+Cass,Precinct 16,Commissioner of the General Land Office,,DEM,Miguel Suazo,31,13,18
+Cass,Precinct 16,Commissioner of the General Land Office,,LIB,Matt Pina,7,3,4
 Cass,Precinct 16,Commissioner of the General Land Office,,,Over Votes,0,0,0
-Cass,Precinct 16,Commissioner of the General Land Office,,,Under Votes,0,2,2
-Cass,Precinct 16,Commissioner of Agriculture,,REP,Sid Miller,79,157,236
-Cass,Precinct 16,Commissioner of Agriculture,,DEM,Kim Olson,19,9,28
-Cass,Precinct 16,Commissioner of Agriculture,,LIB,Richard Carpenter,4,2,6
+Cass,Precinct 16,Commissioner of the General Land Office,,,Under Votes,2,2,0
+Cass,Precinct 16,Commissioner of Agriculture,,REP,Sid Miller,236,157,79
+Cass,Precinct 16,Commissioner of Agriculture,,DEM,Kim Olson,28,9,19
+Cass,Precinct 16,Commissioner of Agriculture,,LIB,Richard Carpenter,6,2,4
 Cass,Precinct 16,Commissioner of Agriculture,,,Over Votes,0,0,0
-Cass,Precinct 16,Commissioner of Agriculture,,,Under Votes,2,5,7
-Cass,Precinct 16,Railroad Commissioner,,REP,Christi Craddick,84,158,242
-Cass,Precinct 16,Railroad Commissioner,,DEM,Roman McAllen,18,9,27
-Cass,Precinct 16,Railroad Commissioner,,LIB,Mike Wright,1,1,2
+Cass,Precinct 16,Commissioner of Agriculture,,,Under Votes,7,5,2
+Cass,Precinct 16,Railroad Commissioner,,REP,Christi Craddick,242,158,84
+Cass,Precinct 16,Railroad Commissioner,,DEM,Roman McAllen,27,9,18
+Cass,Precinct 16,Railroad Commissioner,,LIB,Mike Wright,2,1,1
 Cass,Precinct 16,Railroad Commissioner,,,Over Votes,0,0,0
-Cass,Precinct 16,Railroad Commissioner,,,Under Votes,1,5,6
-Cass,Precinct 16,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,80,157,237
-Cass,Precinct 16,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,20,9,29
+Cass,Precinct 16,Railroad Commissioner,,,Under Votes,6,5,1
+Cass,Precinct 16,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,237,157,80
+Cass,Precinct 16,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,29,9,20
 Cass,Precinct 16,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0
-Cass,Precinct 16,"Justice, Supreme Court, Place 2",,,Under Votes,4,7,11
-Cass,Precinct 16,"Justice, Supreme Court, Place 4",,REP,John Devine,81,156,237
-Cass,Precinct 16,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,20,9,29
+Cass,Precinct 16,"Justice, Supreme Court, Place 2",,,Under Votes,11,7,4
+Cass,Precinct 16,"Justice, Supreme Court, Place 4",,REP,John Devine,237,156,81
+Cass,Precinct 16,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,29,9,20
 Cass,Precinct 16,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0
-Cass,Precinct 16,"Justice, Supreme Court, Place 4",,,Under Votes,3,8,11
-Cass,Precinct 16,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,81,156,237
-Cass,Precinct 16,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,20,9,29
+Cass,Precinct 16,"Justice, Supreme Court, Place 4",,,Under Votes,11,8,3
+Cass,Precinct 16,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,237,156,81
+Cass,Precinct 16,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,29,9,20
 Cass,Precinct 16,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0
-Cass,Precinct 16,"Justice, Supreme Court, Place 6",,,Under Votes,3,8,11
-Cass,Precinct 16,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,82,158,240
-Cass,Precinct 16,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,20,8,28
-Cass,Precinct 16,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,1,1,2
+Cass,Precinct 16,"Justice, Supreme Court, Place 6",,,Under Votes,11,8,3
+Cass,Precinct 16,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,240,158,82
+Cass,Precinct 16,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,28,8,20
+Cass,Precinct 16,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,2,1,1
 Cass,Precinct 16,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0
-Cass,Precinct 16,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,1,6,7
-Cass,Precinct 16,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,83,159,242
-Cass,Precinct 16,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,19,8,27
+Cass,Precinct 16,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,7,6,1
+Cass,Precinct 16,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,242,159,83
+Cass,Precinct 16,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,27,8,19
 Cass,Precinct 16,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0
-Cass,Precinct 16,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,2,6,8
-Cass,Precinct 16,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,85,157,242
-Cass,Precinct 16,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,8,3,11
+Cass,Precinct 16,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,8,6,2
+Cass,Precinct 16,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,242,157,85
+Cass,Precinct 16,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,11,3,8
 Cass,Precinct 16,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0
-Cass,Precinct 16,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,11,13,24
-Cass,Precinct 16,State Representative,9,REP,Chris Paddie,88,162,250
+Cass,Precinct 16,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,24,13,11
+Cass,Precinct 16,State Representative,9,REP,Chris Paddie,250,162,88
 Cass,Precinct 16,State Representative,9,,Over Votes,0,0,0
-Cass,Precinct 16,State Representative,9,,Under Votes,16,11,27
-Cass,Precinct 16,"Justice, 6th Court of Appeals District, Place No. 2",,REP,Scott Stevens,87,159,246
+Cass,Precinct 16,State Representative,9,,Under Votes,27,11,16
+Cass,Precinct 16,"Justice, 6th Court of Appeals District, Place No. 2",,REP,Scott Stevens,246,159,87
 Cass,Precinct 16,"Justice, 6th Court of Appeals District, Place No. 2",,,Over Votes,0,0,0
-Cass,Precinct 16,"Justice, 6th Court of Appeals District, Place No. 2",,,Under Votes,17,14,31
-Cass,Precinct 16,Straight Party,,REP,Republican Party,709,272,981
-Cass,Precinct 16,Straight Party,,DEM,Democratic Party,96,62,158
-Cass,Precinct 16,Straight Party,,LIB,Libertarian Party,0,1,1
+Cass,Precinct 16,"Justice, 6th Court of Appeals District, Place No. 2",,,Under Votes,31,14,17
+Cass,Precinct 16,Straight Party,,REP,Republican Party,981,272,709
+Cass,Precinct 16,Straight Party,,DEM,Democratic Party,158,62,96
+Cass,Precinct 16,Straight Party,,LIB,Libertarian Party,1,1,0
 Cass,Precinct 16,Straight Party,,,Over Votes,2,0,2
-Cass,Precinct 16,Straight Party,,,Under Votes,394,172,566
-Cass,Precinct 16,U.S. Senate,,REP,Ted Cruz,1020,401,1421
-Cass,Precinct 16,U.S. Senate,,DEM,Beto O'Rourke,164,96,260
-Cass,Precinct 16,U.S. Senate,,LIB,Neal M. Dikeman,6,1,7
+Cass,Precinct 16,Straight Party,,,Under Votes,566,172,394
+Cass,Precinct 16,U.S. Senate,,REP,Ted Cruz,1421,401,1020
+Cass,Precinct 16,U.S. Senate,,DEM,Beto O'Rourke,260,96,164
+Cass,Precinct 16,U.S. Senate,,LIB,Neal M. Dikeman,7,1,6
 Cass,Precinct 16,U.S. Senate,,,Over Votes,0,0,0
-Cass,Precinct 16,U.S. Senate,,,Under Votes,12,9,21
-Cass,Precinct 16,U.S. House,4,REP,John Ratcliffe,1027,413,1440
-Cass,Precinct 16,U.S. House,4,DEM,Catherine Krantz,154,87,241
-Cass,Precinct 16,U.S. House,4,LIB,Ken Ashby,5,5,10
+Cass,Precinct 16,U.S. Senate,,,Under Votes,21,9,12
+Cass,Precinct 16,U.S. House,4,REP,John Ratcliffe,1440,413,1027
+Cass,Precinct 16,U.S. House,4,DEM,Catherine Krantz,241,87,154
+Cass,Precinct 16,U.S. House,4,LIB,Ken Ashby,10,5,5
 Cass,Precinct 16,U.S. House,4,,Over Votes,0,0,0
-Cass,Precinct 16,U.S. House,4,,Under Votes,16,2,18
-Cass,Precinct 16,Governor,,REP,Greg Abbott,1035,415,1450
-Cass,Precinct 16,Governor,,DEM,Lupe Valdez,148,81,229
-Cass,Precinct 16,Governor,,LIB,Mark Jay Tippetts,6,8,14
+Cass,Precinct 16,U.S. House,4,,Under Votes,18,2,16
+Cass,Precinct 16,Governor,,REP,Greg Abbott,1450,415,1035
+Cass,Precinct 16,Governor,,DEM,Lupe Valdez,229,81,148
+Cass,Precinct 16,Governor,,LIB,Mark Jay Tippetts,14,8,6
 Cass,Precinct 16,Governor,,,Over Votes,0,0,0
-Cass,Precinct 16,Governor,,,Under Votes,13,3,16
-Cass,Precinct 16,Lieutenant Governor,,REP,Dan Patrick,978,379,1357
-Cass,Precinct 16,Lieutenant Governor,,DEM,Mike Collier,204,121,325
-Cass,Precinct 16,Lieutenant Governor,,LIB,Kerry Douglas McKennon,9,5,14
+Cass,Precinct 16,Governor,,,Under Votes,16,3,13
+Cass,Precinct 16,Lieutenant Governor,,REP,Dan Patrick,1357,379,978
+Cass,Precinct 16,Lieutenant Governor,,DEM,Mike Collier,325,121,204
+Cass,Precinct 16,Lieutenant Governor,,LIB,Kerry Douglas McKennon,14,5,9
 Cass,Precinct 16,Lieutenant Governor,,,Over Votes,0,0,0
-Cass,Precinct 16,Lieutenant Governor,,,Under Votes,11,2,13
-Cass,Precinct 16,Attorney General,,REP,Ken Paxton,1010,404,1414
-Cass,Precinct 16,Attorney General,,DEM,Justin Nelson,170,92,262
-Cass,Precinct 16,Attorney General,,LIB,Michael Ray Harris,7,5,12
+Cass,Precinct 16,Lieutenant Governor,,,Under Votes,13,2,11
+Cass,Precinct 16,Attorney General,,REP,Ken Paxton,1414,404,1010
+Cass,Precinct 16,Attorney General,,DEM,Justin Nelson,262,92,170
+Cass,Precinct 16,Attorney General,,LIB,Michael Ray Harris,12,5,7
 Cass,Precinct 16,Attorney General,,,Over Votes,0,0,0
-Cass,Precinct 16,Attorney General,,,Under Votes,15,6,21
-Cass,Precinct 16,Comptroller of Public Accounts,,REP,Glenn Hegar,1028,402,1430
-Cass,Precinct 16,Comptroller of Public Accounts,,DEM,Joi Chevalier,146,87,233
-Cass,Precinct 16,Comptroller of Public Accounts,,LIB,Ben Sanders,10,11,21
+Cass,Precinct 16,Attorney General,,,Under Votes,21,6,15
+Cass,Precinct 16,Comptroller of Public Accounts,,REP,Glenn Hegar,1430,402,1028
+Cass,Precinct 16,Comptroller of Public Accounts,,DEM,Joi Chevalier,233,87,146
+Cass,Precinct 16,Comptroller of Public Accounts,,LIB,Ben Sanders,21,11,10
 Cass,Precinct 16,Comptroller of Public Accounts,,,Over Votes,0,0,0
-Cass,Precinct 16,Comptroller of Public Accounts,,,Under Votes,18,7,25
-Cass,Precinct 16,Commissioner of the General Land Office,,REP,George P. Bush,1004,396,1400
-Cass,Precinct 16,Commissioner of the General Land Office,,DEM,Miguel Suazo,151,88,239
-Cass,Precinct 16,Commissioner of the General Land Office,,LIB,Matt Pina,33,17,50
+Cass,Precinct 16,Comptroller of Public Accounts,,,Under Votes,25,7,18
+Cass,Precinct 16,Commissioner of the General Land Office,,REP,George P. Bush,1400,396,1004
+Cass,Precinct 16,Commissioner of the General Land Office,,DEM,Miguel Suazo,239,88,151
+Cass,Precinct 16,Commissioner of the General Land Office,,LIB,Matt Pina,50,17,33
 Cass,Precinct 16,Commissioner of the General Land Office,,,Over Votes,0,0,0
-Cass,Precinct 16,Commissioner of the General Land Office,,,Under Votes,14,6,20
-Cass,Precinct 16,Commissioner of Agriculture,,REP,Sid Miller,1009,400,1409
-Cass,Precinct 16,Commissioner of Agriculture,,DEM,Kim Olson,162,92,254
-Cass,Precinct 16,Commissioner of Agriculture,,LIB,Richard Carpenter,13,8,21
+Cass,Precinct 16,Commissioner of the General Land Office,,,Under Votes,20,6,14
+Cass,Precinct 16,Commissioner of Agriculture,,REP,Sid Miller,1409,400,1009
+Cass,Precinct 16,Commissioner of Agriculture,,DEM,Kim Olson,254,92,162
+Cass,Precinct 16,Commissioner of Agriculture,,LIB,Richard Carpenter,21,8,13
 Cass,Precinct 16,Commissioner of Agriculture,,,Over Votes,0,0,0
-Cass,Precinct 16,Commissioner of Agriculture,,,Under Votes,18,7,25
-Cass,Precinct 16,Railroad Commissioner,,REP,Christi Craddick,1022,404,1426
-Cass,Precinct 16,Railroad Commissioner,,DEM,Roman McAllen,149,87,236
-Cass,Precinct 16,Railroad Commissioner,,LIB,Mike Wright,14,7,21
+Cass,Precinct 16,Commissioner of Agriculture,,,Under Votes,25,7,18
+Cass,Precinct 16,Railroad Commissioner,,REP,Christi Craddick,1426,404,1022
+Cass,Precinct 16,Railroad Commissioner,,DEM,Roman McAllen,236,87,149
+Cass,Precinct 16,Railroad Commissioner,,LIB,Mike Wright,21,7,14
 Cass,Precinct 16,Railroad Commissioner,,,Over Votes,0,0,0
-Cass,Precinct 16,Railroad Commissioner,,,Under Votes,17,9,26
-Cass,Precinct 16,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,1020,406,1426
-Cass,Precinct 16,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,165,94,259
+Cass,Precinct 16,Railroad Commissioner,,,Under Votes,26,9,17
+Cass,Precinct 16,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,1426,406,1020
+Cass,Precinct 16,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,259,94,165
 Cass,Precinct 16,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0
-Cass,Precinct 16,"Justice, Supreme Court, Place 2",,,Under Votes,17,7,24
-Cass,Precinct 16,"Justice, Supreme Court, Place 4",,REP,John Devine,1026,405,1431
-Cass,Precinct 16,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,159,95,254
+Cass,Precinct 16,"Justice, Supreme Court, Place 2",,,Under Votes,24,7,17
+Cass,Precinct 16,"Justice, Supreme Court, Place 4",,REP,John Devine,1431,405,1026
+Cass,Precinct 16,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,254,95,159
 Cass,Precinct 16,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0
-Cass,Precinct 16,"Justice, Supreme Court, Place 4",,,Under Votes,17,7,24
-Cass,Precinct 16,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,1027,405,1432
-Cass,Precinct 16,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,158,95,253
+Cass,Precinct 16,"Justice, Supreme Court, Place 4",,,Under Votes,24,7,17
+Cass,Precinct 16,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,1432,405,1027
+Cass,Precinct 16,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,253,95,158
 Cass,Precinct 16,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0
-Cass,Precinct 16,"Justice, Supreme Court, Place 6",,,Under Votes,17,7,24
-Cass,Precinct 16,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,1021,406,1427
-Cass,Precinct 16,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,159,88,247
-Cass,Precinct 16,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,5,6,11
+Cass,Precinct 16,"Justice, Supreme Court, Place 6",,,Under Votes,24,7,17
+Cass,Precinct 16,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,1427,406,1021
+Cass,Precinct 16,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,247,88,159
+Cass,Precinct 16,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,11,6,5
 Cass,Precinct 16,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0
-Cass,Precinct 16,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,17,7,24
-Cass,Precinct 16,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,1023,405,1428
-Cass,Precinct 16,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,160,92,252
+Cass,Precinct 16,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,24,7,17
+Cass,Precinct 16,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,1428,405,1023
+Cass,Precinct 16,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,252,92,160
 Cass,Precinct 16,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0
-Cass,Precinct 16,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,19,10,29
-Cass,Precinct 16,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,1039,410,1449
-Cass,Precinct 16,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,55,40,95
+Cass,Precinct 16,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,29,10,19
+Cass,Precinct 16,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,1449,410,1039
+Cass,Precinct 16,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,95,40,55
 Cass,Precinct 16,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0
-Cass,Precinct 16,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,108,57,165
-Cass,Precinct 17,Ballots Cast,,,,,,1709
-Cass,Precinct 17,State Representative,9,REP,Chris Paddie,1041,431,1472
+Cass,Precinct 16,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,165,57,108
+Cass,Precinct 17,Ballots Cast,,,,1709,,
+Cass,Precinct 17,State Representative,9,REP,Chris Paddie,1472,431,1041
 Cass,Precinct 17,State Representative,9,,Over Votes,0,0,0
-Cass,Precinct 17,State Representative,9,,Under Votes,161,76,237
-Cass,Precinct 17,"Justice, 6th Court of Appeals District, Place No. 2",,REP,Scott Stevens,1046,429,1475
+Cass,Precinct 17,State Representative,9,,Under Votes,237,76,161
+Cass,Precinct 17,"Justice, 6th Court of Appeals District, Place No. 2",,REP,Scott Stevens,1475,429,1046
 Cass,Precinct 17,"Justice, 6th Court of Appeals District, Place No. 2",,,Over Votes,0,0,0
-Cass,Precinct 17,"Justice, 6th Court of Appeals District, Place No. 2",,,Under Votes,156,78,234
-Cass,Precinct 18,Ballots Cast,,,,,,306
-Cass,Precinct 18,Straight Party,,REP,Republican Party,91,110,201
-Cass,Precinct 18,Straight Party,,DEM,Democratic Party,5,6,11
+Cass,Precinct 17,"Justice, 6th Court of Appeals District, Place No. 2",,,Under Votes,234,78,156
+Cass,Precinct 18,Ballots Cast,,,,306,,
+Cass,Precinct 18,Straight Party,,REP,Republican Party,201,110,91
+Cass,Precinct 18,Straight Party,,DEM,Democratic Party,11,6,5
 Cass,Precinct 18,Straight Party,,LIB,Libertarian Party,0,0,0
 Cass,Precinct 18,Straight Party,,,Over Votes,0,0,0
-Cass,Precinct 18,Straight Party,,,Under Votes,22,72,94
-Cass,Precinct 18,U.S. Senate,,REP,Ted Cruz,112,174,286
-Cass,Precinct 18,U.S. Senate,,DEM,Beto O'Rourke,5,10,15
-Cass,Precinct 18,U.S. Senate,,LIB,Neal M. Dikeman,0,1,1
+Cass,Precinct 18,Straight Party,,,Under Votes,94,72,22
+Cass,Precinct 18,U.S. Senate,,REP,Ted Cruz,286,174,112
+Cass,Precinct 18,U.S. Senate,,DEM,Beto O'Rourke,15,10,5
+Cass,Precinct 18,U.S. Senate,,LIB,Neal M. Dikeman,1,1,0
 Cass,Precinct 18,U.S. Senate,,,Over Votes,0,0,0
-Cass,Precinct 18,U.S. Senate,,,Under Votes,1,3,4
-Cass,Precinct 18,U.S. House,4,REP,John Ratcliffe,112,174,286
-Cass,Precinct 18,U.S. House,4,DEM,Catherine Krantz,5,10,15
-Cass,Precinct 18,U.S. House,4,LIB,Ken Ashby,0,2,2
+Cass,Precinct 18,U.S. Senate,,,Under Votes,4,3,1
+Cass,Precinct 18,U.S. House,4,REP,John Ratcliffe,286,174,112
+Cass,Precinct 18,U.S. House,4,DEM,Catherine Krantz,15,10,5
+Cass,Precinct 18,U.S. House,4,LIB,Ken Ashby,2,2,0
 Cass,Precinct 18,U.S. House,4,,Over Votes,0,0,0
-Cass,Precinct 18,U.S. House,4,,Under Votes,1,2,3
-Cass,Precinct 18,Governor,,REP,Greg Abbott,112,180,292
-Cass,Precinct 18,Governor,,DEM,Lupe Valdez,5,7,12
-Cass,Precinct 18,Governor,,LIB,Mark Jay Tippetts,0,1,1
+Cass,Precinct 18,U.S. House,4,,Under Votes,3,2,1
+Cass,Precinct 18,Governor,,REP,Greg Abbott,292,180,112
+Cass,Precinct 18,Governor,,DEM,Lupe Valdez,12,7,5
+Cass,Precinct 18,Governor,,LIB,Mark Jay Tippetts,1,1,0
 Cass,Precinct 18,Governor,,,Over Votes,0,0,0
 Cass,Precinct 18,Governor,,,Under Votes,1,0,1
-Cass,Precinct 18,Lieutenant Governor,,REP,Dan Patrick,107,166,273
-Cass,Precinct 18,Lieutenant Governor,,DEM,Mike Collier,11,17,28
-Cass,Precinct 18,Lieutenant Governor,,LIB,Kerry Douglas McKennon,0,3,3
+Cass,Precinct 18,Lieutenant Governor,,REP,Dan Patrick,273,166,107
+Cass,Precinct 18,Lieutenant Governor,,DEM,Mike Collier,28,17,11
+Cass,Precinct 18,Lieutenant Governor,,LIB,Kerry Douglas McKennon,3,3,0
 Cass,Precinct 18,Lieutenant Governor,,,Over Votes,0,0,0
-Cass,Precinct 18,Lieutenant Governor,,,Under Votes,0,2,2
-Cass,Precinct 18,Attorney General,,REP,Ken Paxton,110,175,285
-Cass,Precinct 18,Attorney General,,DEM,Justin Nelson,7,9,16
-Cass,Precinct 18,Attorney General,,LIB,Michael Ray Harris,0,2,2
+Cass,Precinct 18,Lieutenant Governor,,,Under Votes,2,2,0
+Cass,Precinct 18,Attorney General,,REP,Ken Paxton,285,175,110
+Cass,Precinct 18,Attorney General,,DEM,Justin Nelson,16,9,7
+Cass,Precinct 18,Attorney General,,LIB,Michael Ray Harris,2,2,0
 Cass,Precinct 18,Attorney General,,,Over Votes,0,0,0
-Cass,Precinct 18,Attorney General,,,Under Votes,1,2,3
-Cass,Precinct 18,Comptroller of Public Accounts,,REP,Glenn Hegar,111,175,286
-Cass,Precinct 18,Comptroller of Public Accounts,,DEM,Joi Chevalier,5,7,12
-Cass,Precinct 18,Comptroller of Public Accounts,,LIB,Ben Sanders,1,3,4
+Cass,Precinct 18,Attorney General,,,Under Votes,3,2,1
+Cass,Precinct 18,Comptroller of Public Accounts,,REP,Glenn Hegar,286,175,111
+Cass,Precinct 18,Comptroller of Public Accounts,,DEM,Joi Chevalier,12,7,5
+Cass,Precinct 18,Comptroller of Public Accounts,,LIB,Ben Sanders,4,3,1
 Cass,Precinct 18,Comptroller of Public Accounts,,,Over Votes,0,0,0
-Cass,Precinct 18,Comptroller of Public Accounts,,,Under Votes,1,3,4
-Cass,Precinct 18,Commissioner of the General Land Office,,REP,George P. Bush,113,176,289
-Cass,Precinct 18,Commissioner of the General Land Office,,DEM,Miguel Suazo,5,7,12
-Cass,Precinct 18,Commissioner of the General Land Office,,LIB,Matt Pina,0,2,2
+Cass,Precinct 18,Comptroller of Public Accounts,,,Under Votes,4,3,1
+Cass,Precinct 18,Commissioner of the General Land Office,,REP,George P. Bush,289,176,113
+Cass,Precinct 18,Commissioner of the General Land Office,,DEM,Miguel Suazo,12,7,5
+Cass,Precinct 18,Commissioner of the General Land Office,,LIB,Matt Pina,2,2,0
 Cass,Precinct 18,Commissioner of the General Land Office,,,Over Votes,0,0,0
-Cass,Precinct 18,Commissioner of the General Land Office,,,Under Votes,0,3,3
-Cass,Precinct 18,Commissioner of Agriculture,,REP,Sid Miller,113,173,286
-Cass,Precinct 18,Commissioner of Agriculture,,DEM,Kim Olson,5,9,14
-Cass,Precinct 18,Commissioner of Agriculture,,LIB,Richard Carpenter,0,3,3
+Cass,Precinct 18,Commissioner of the General Land Office,,,Under Votes,3,3,0
+Cass,Precinct 18,Commissioner of Agriculture,,REP,Sid Miller,286,173,113
+Cass,Precinct 18,Commissioner of Agriculture,,DEM,Kim Olson,14,9,5
+Cass,Precinct 18,Commissioner of Agriculture,,LIB,Richard Carpenter,3,3,0
 Cass,Precinct 18,Commissioner of Agriculture,,,Over Votes,0,0,0
-Cass,Precinct 18,Commissioner of Agriculture,,,Under Votes,0,3,3
-Cass,Precinct 18,Railroad Commissioner,,REP,Christi Craddick,113,172,285
-Cass,Precinct 18,Railroad Commissioner,,DEM,Roman McAllen,5,9,14
-Cass,Precinct 18,Railroad Commissioner,,LIB,Mike Wright,0,5,5
+Cass,Precinct 18,Commissioner of Agriculture,,,Under Votes,3,3,0
+Cass,Precinct 18,Railroad Commissioner,,REP,Christi Craddick,285,172,113
+Cass,Precinct 18,Railroad Commissioner,,DEM,Roman McAllen,14,9,5
+Cass,Precinct 18,Railroad Commissioner,,LIB,Mike Wright,5,5,0
 Cass,Precinct 18,Railroad Commissioner,,,Over Votes,0,0,0
-Cass,Precinct 18,Railroad Commissioner,,,Under Votes,0,2,2
-Cass,Precinct 18,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,112,176,288
-Cass,Precinct 18,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,5,10,15
+Cass,Precinct 18,Railroad Commissioner,,,Under Votes,2,2,0
+Cass,Precinct 18,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,288,176,112
+Cass,Precinct 18,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,15,10,5
 Cass,Precinct 18,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0
-Cass,Precinct 18,"Justice, Supreme Court, Place 2",,,Under Votes,1,2,3
-Cass,Precinct 18,"Justice, Supreme Court, Place 4",,REP,John Devine,112,176,288
-Cass,Precinct 18,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,5,8,13
+Cass,Precinct 18,"Justice, Supreme Court, Place 2",,,Under Votes,3,2,1
+Cass,Precinct 18,"Justice, Supreme Court, Place 4",,REP,John Devine,288,176,112
+Cass,Precinct 18,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,13,8,5
 Cass,Precinct 18,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0
-Cass,Precinct 18,"Justice, Supreme Court, Place 4",,,Under Votes,1,4,5
-Cass,Precinct 18,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,112,177,289
-Cass,Precinct 18,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,5,9,14
+Cass,Precinct 18,"Justice, Supreme Court, Place 4",,,Under Votes,5,4,1
+Cass,Precinct 18,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,289,177,112
+Cass,Precinct 18,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,14,9,5
 Cass,Precinct 18,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0
-Cass,Precinct 18,"Justice, Supreme Court, Place 6",,,Under Votes,1,2,3
-Cass,Precinct 18,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,112,171,283
-Cass,Precinct 18,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,5,11,16
-Cass,Precinct 18,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,0,4,4
+Cass,Precinct 18,"Justice, Supreme Court, Place 6",,,Under Votes,3,2,1
+Cass,Precinct 18,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,283,171,112
+Cass,Precinct 18,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,16,11,5
+Cass,Precinct 18,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,4,4,0
 Cass,Precinct 18,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0
-Cass,Precinct 18,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,1,2,3
-Cass,Precinct 18,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,113,176,289
-Cass,Precinct 18,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,5,9,14
+Cass,Precinct 18,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,3,2,1
+Cass,Precinct 18,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,289,176,113
+Cass,Precinct 18,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,14,9,5
 Cass,Precinct 18,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0
-Cass,Precinct 18,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,0,3,3
-Cass,Precinct 18,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,113,176,289
-Cass,Precinct 18,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,3,4,7
+Cass,Precinct 18,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,3,3,0
+Cass,Precinct 18,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,289,176,113
+Cass,Precinct 18,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,7,4,3
 Cass,Precinct 18,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0
-Cass,Precinct 18,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,2,8,10
-Cass,Precinct 18,State Representative,9,REP,Chris Paddie,112,180,292
+Cass,Precinct 18,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,10,8,2
+Cass,Precinct 18,State Representative,9,REP,Chris Paddie,292,180,112
 Cass,Precinct 18,State Representative,9,,Over Votes,0,0,0
-Cass,Precinct 18,State Representative,9,,Under Votes,6,8,14
-Cass,Precinct 18,"Justice, 6th Court of Appeals District, Place No. 2",,REP,Scott Stevens,112,179,291
+Cass,Precinct 18,State Representative,9,,Under Votes,14,8,6
+Cass,Precinct 18,"Justice, 6th Court of Appeals District, Place No. 2",,REP,Scott Stevens,291,179,112
 Cass,Precinct 18,"Justice, 6th Court of Appeals District, Place No. 2",,,Over Votes,0,0,0
-Cass,Precinct 18,"Justice, 6th Court of Appeals District, Place No. 2",,,Under Votes,6,9,15
-Cass,Precinct 18,Straight Party,,REP,Republican Party,48,107,155
-Cass,Precinct 18,Straight Party,,DEM,Democratic Party,9,5,14
+Cass,Precinct 18,"Justice, 6th Court of Appeals District, Place No. 2",,,Under Votes,15,9,6
+Cass,Precinct 18,Straight Party,,REP,Republican Party,155,107,48
+Cass,Precinct 18,Straight Party,,DEM,Democratic Party,14,5,9
 Cass,Precinct 18,Straight Party,,LIB,Libertarian Party,0,0,0
 Cass,Precinct 18,Straight Party,,,Over Votes,0,0,0
-Cass,Precinct 18,Straight Party,,,Under Votes,20,68,88
-Cass,Precinct 18,U.S. Senate,,REP,Ted Cruz,62,165,227
-Cass,Precinct 18,U.S. Senate,,DEM,Beto O'Rourke,12,11,23
+Cass,Precinct 18,Straight Party,,,Under Votes,88,68,20
+Cass,Precinct 18,U.S. Senate,,REP,Ted Cruz,227,165,62
+Cass,Precinct 18,U.S. Senate,,DEM,Beto O'Rourke,23,11,12
 Cass,Precinct 18,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0
 Cass,Precinct 18,U.S. Senate,,,Over Votes,0,0,0
-Cass,Precinct 18,U.S. Senate,,,Under Votes,3,4,7
-Cass,Precinct 18,U.S. House,4,REP,John Ratcliffe,64,168,232
-Cass,Precinct 18,U.S. House,4,DEM,Catherine Krantz,13,10,23
-Cass,Precinct 18,U.S. House,4,LIB,Ken Ashby,0,1,1
+Cass,Precinct 18,U.S. Senate,,,Under Votes,7,4,3
+Cass,Precinct 18,U.S. House,4,REP,John Ratcliffe,232,168,64
+Cass,Precinct 18,U.S. House,4,DEM,Catherine Krantz,23,10,13
+Cass,Precinct 18,U.S. House,4,LIB,Ken Ashby,1,1,0
 Cass,Precinct 18,U.S. House,4,,Over Votes,0,0,0
-Cass,Precinct 18,U.S. House,4,,Under Votes,0,1,1
-Cass,Precinct 18,Governor,,REP,Greg Abbott,66,167,233
-Cass,Precinct 18,Governor,,DEM,Lupe Valdez,11,8,19
-Cass,Precinct 18,Governor,,LIB,Mark Jay Tippetts,0,4,4
+Cass,Precinct 18,U.S. House,4,,Under Votes,1,1,0
+Cass,Precinct 18,Governor,,REP,Greg Abbott,233,167,66
+Cass,Precinct 18,Governor,,DEM,Lupe Valdez,19,8,11
+Cass,Precinct 18,Governor,,LIB,Mark Jay Tippetts,4,4,0
 Cass,Precinct 18,Governor,,,Over Votes,0,0,0
-Cass,Precinct 18,Governor,,,Under Votes,0,1,1
-Cass,Precinct 18,Lieutenant Governor,,REP,Dan Patrick,65,143,208
-Cass,Precinct 18,Lieutenant Governor,,DEM,Mike Collier,12,34,46
-Cass,Precinct 18,Lieutenant Governor,,LIB,Kerry Douglas McKennon,0,2,2
+Cass,Precinct 18,Governor,,,Under Votes,1,1,0
+Cass,Precinct 18,Lieutenant Governor,,REP,Dan Patrick,208,143,65
+Cass,Precinct 18,Lieutenant Governor,,DEM,Mike Collier,46,34,12
+Cass,Precinct 18,Lieutenant Governor,,LIB,Kerry Douglas McKennon,2,2,0
 Cass,Precinct 18,Lieutenant Governor,,,Over Votes,0,0,0
-Cass,Precinct 18,Lieutenant Governor,,,Under Votes,0,1,1
-Cass,Precinct 18,Attorney General,,REP,Ken Paxton,64,164,228
-Cass,Precinct 18,Attorney General,,DEM,Justin Nelson,13,11,24
-Cass,Precinct 18,Attorney General,,LIB,Michael Ray Harris,0,4,4
+Cass,Precinct 18,Lieutenant Governor,,,Under Votes,1,1,0
+Cass,Precinct 18,Attorney General,,REP,Ken Paxton,228,164,64
+Cass,Precinct 18,Attorney General,,DEM,Justin Nelson,24,11,13
+Cass,Precinct 18,Attorney General,,LIB,Michael Ray Harris,4,4,0
 Cass,Precinct 18,Attorney General,,,Over Votes,0,0,0
-Cass,Precinct 18,Attorney General,,,Under Votes,0,1,1
-Cass,Precinct 18,Comptroller of Public Accounts,,REP,Glenn Hegar,64,164,228
-Cass,Precinct 18,Comptroller of Public Accounts,,DEM,Joi Chevalier,13,11,24
-Cass,Precinct 18,Comptroller of Public Accounts,,LIB,Ben Sanders,0,2,2
+Cass,Precinct 18,Attorney General,,,Under Votes,1,1,0
+Cass,Precinct 18,Comptroller of Public Accounts,,REP,Glenn Hegar,228,164,64
+Cass,Precinct 18,Comptroller of Public Accounts,,DEM,Joi Chevalier,24,11,13
+Cass,Precinct 18,Comptroller of Public Accounts,,LIB,Ben Sanders,2,2,0
 Cass,Precinct 18,Comptroller of Public Accounts,,,Over Votes,0,0,0
-Cass,Precinct 18,Comptroller of Public Accounts,,,Under Votes,0,3,3
-Cass,Precinct 18,Commissioner of the General Land Office,,REP,George P. Bush,61,163,224
-Cass,Precinct 18,Commissioner of the General Land Office,,DEM,Miguel Suazo,13,11,24
-Cass,Precinct 18,Commissioner of the General Land Office,,LIB,Matt Pina,3,3,6
+Cass,Precinct 18,Comptroller of Public Accounts,,,Under Votes,3,3,0
+Cass,Precinct 18,Commissioner of the General Land Office,,REP,George P. Bush,224,163,61
+Cass,Precinct 18,Commissioner of the General Land Office,,DEM,Miguel Suazo,24,11,13
+Cass,Precinct 18,Commissioner of the General Land Office,,LIB,Matt Pina,6,3,3
 Cass,Precinct 18,Commissioner of the General Land Office,,,Over Votes,0,0,0
-Cass,Precinct 18,Commissioner of the General Land Office,,,Under Votes,0,3,3
-Cass,Precinct 18,Commissioner of Agriculture,,REP,Sid Miller,64,159,223
-Cass,Precinct 18,Commissioner of Agriculture,,DEM,Kim Olson,13,14,27
-Cass,Precinct 18,Commissioner of Agriculture,,LIB,Richard Carpenter,0,3,3
+Cass,Precinct 18,Commissioner of the General Land Office,,,Under Votes,3,3,0
+Cass,Precinct 18,Commissioner of Agriculture,,REP,Sid Miller,223,159,64
+Cass,Precinct 18,Commissioner of Agriculture,,DEM,Kim Olson,27,14,13
+Cass,Precinct 18,Commissioner of Agriculture,,LIB,Richard Carpenter,3,3,0
 Cass,Precinct 18,Commissioner of Agriculture,,,Over Votes,0,0,0
-Cass,Precinct 18,Commissioner of Agriculture,,,Under Votes,0,4,4
-Cass,Precinct 18,Railroad Commissioner,,REP,Christi Craddick,64,163,227
-Cass,Precinct 18,Railroad Commissioner,,DEM,Roman McAllen,12,11,23
-Cass,Precinct 18,Railroad Commissioner,,LIB,Mike Wright,1,3,4
+Cass,Precinct 18,Commissioner of Agriculture,,,Under Votes,4,4,0
+Cass,Precinct 18,Railroad Commissioner,,REP,Christi Craddick,227,163,64
+Cass,Precinct 18,Railroad Commissioner,,DEM,Roman McAllen,23,11,12
+Cass,Precinct 18,Railroad Commissioner,,LIB,Mike Wright,4,3,1
 Cass,Precinct 18,Railroad Commissioner,,,Over Votes,0,0,0
-Cass,Precinct 18,Railroad Commissioner,,,Under Votes,0,3,3
-Cass,Precinct 18,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,64,162,226
-Cass,Precinct 18,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,13,15,28
+Cass,Precinct 18,Railroad Commissioner,,,Under Votes,3,3,0
+Cass,Precinct 18,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,226,162,64
+Cass,Precinct 18,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,28,15,13
 Cass,Precinct 18,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0
-Cass,Precinct 18,"Justice, Supreme Court, Place 2",,,Under Votes,0,3,3
-Cass,Precinct 18,"Justice, Supreme Court, Place 4",,REP,John Devine,64,163,227
-Cass,Precinct 18,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,13,12,25
+Cass,Precinct 18,"Justice, Supreme Court, Place 2",,,Under Votes,3,3,0
+Cass,Precinct 18,"Justice, Supreme Court, Place 4",,REP,John Devine,227,163,64
+Cass,Precinct 18,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,25,12,13
 Cass,Precinct 18,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0
-Cass,Precinct 18,"Justice, Supreme Court, Place 4",,,Under Votes,0,5,5
-Cass,Precinct 18,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,64,164,228
-Cass,Precinct 18,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,13,12,25
+Cass,Precinct 18,"Justice, Supreme Court, Place 4",,,Under Votes,5,5,0
+Cass,Precinct 18,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,228,164,64
+Cass,Precinct 18,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,25,12,13
 Cass,Precinct 18,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0
-Cass,Precinct 18,"Justice, Supreme Court, Place 6",,,Under Votes,0,4,4
-Cass,Precinct 18,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,64,160,224
-Cass,Precinct 18,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,12,11,23
-Cass,Precinct 18,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,1,4,5
+Cass,Precinct 18,"Justice, Supreme Court, Place 6",,,Under Votes,4,4,0
+Cass,Precinct 18,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,224,160,64
+Cass,Precinct 18,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,23,11,12
+Cass,Precinct 18,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,5,4,1
 Cass,Precinct 18,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0
-Cass,Precinct 18,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,0,5,5
-Cass,Precinct 18,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,64,164,228
-Cass,Precinct 18,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,13,11,24
+Cass,Precinct 18,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,5,5,0
+Cass,Precinct 18,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,228,164,64
+Cass,Precinct 18,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,24,11,13
 Cass,Precinct 18,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0
-Cass,Precinct 18,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,0,5,5
-Cass,Precinct 18,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,65,168,233
-Cass,Precinct 18,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,3,6,9
+Cass,Precinct 18,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,5,5,0
+Cass,Precinct 18,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,233,168,65
+Cass,Precinct 18,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,9,6,3
 Cass,Precinct 18,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0
-Cass,Precinct 18,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,9,6,15
-Cass,Precinct 19,Ballots Cast,,,,,,257
-Cass,Precinct 19,State Representative,9,REP,Chris Paddie,65,171,236
+Cass,Precinct 18,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,15,6,9
+Cass,Precinct 19,Ballots Cast,,,,257,,
+Cass,Precinct 19,State Representative,9,REP,Chris Paddie,236,171,65
 Cass,Precinct 19,State Representative,9,,Over Votes,0,0,0
-Cass,Precinct 19,State Representative,9,,Under Votes,12,9,21
-Cass,Precinct 19,"Justice, 6th Court of Appeals District, Place No. 2",,REP,Scott Stevens,65,170,235
+Cass,Precinct 19,State Representative,9,,Under Votes,21,9,12
+Cass,Precinct 19,"Justice, 6th Court of Appeals District, Place No. 2",,REP,Scott Stevens,235,170,65
 Cass,Precinct 19,"Justice, 6th Court of Appeals District, Place No. 2",,,Over Votes,0,0,0
-Cass,Precinct 19,"Justice, 6th Court of Appeals District, Place No. 2",,,Under Votes,12,10,22
-Cass,Precinct 19,Straight Party,,REP,Republican Party,39,43,82
-Cass,Precinct 19,Straight Party,,DEM,Democratic Party,4,7,11
+Cass,Precinct 19,"Justice, 6th Court of Appeals District, Place No. 2",,,Under Votes,22,10,12
+Cass,Precinct 19,Straight Party,,REP,Republican Party,82,43,39
+Cass,Precinct 19,Straight Party,,DEM,Democratic Party,11,7,4
 Cass,Precinct 19,Straight Party,,LIB,Libertarian Party,0,0,0
 Cass,Precinct 19,Straight Party,,,Over Votes,0,0,0
-Cass,Precinct 19,Straight Party,,,Under Votes,18,25,43
-Cass,Precinct 19,U.S. Senate,,REP,Ted Cruz,55,60,115
-Cass,Precinct 19,U.S. Senate,,DEM,Beto O'Rourke,6,14,20
+Cass,Precinct 19,Straight Party,,,Under Votes,43,25,18
+Cass,Precinct 19,U.S. Senate,,REP,Ted Cruz,115,60,55
+Cass,Precinct 19,U.S. Senate,,DEM,Beto O'Rourke,20,14,6
 Cass,Precinct 19,U.S. Senate,,LIB,Neal M. Dikeman,0,0,0
 Cass,Precinct 19,U.S. Senate,,,Over Votes,0,0,0
-Cass,Precinct 19,U.S. Senate,,,Under Votes,0,1,1
-Cass,Precinct 19,U.S. House,4,REP,John Ratcliffe,55,64,119
-Cass,Precinct 19,U.S. House,4,DEM,Catherine Krantz,6,10,16
-Cass,Precinct 19,U.S. House,4,LIB,Ken Ashby,0,1,1
+Cass,Precinct 19,U.S. Senate,,,Under Votes,1,1,0
+Cass,Precinct 19,U.S. House,4,REP,John Ratcliffe,119,64,55
+Cass,Precinct 19,U.S. House,4,DEM,Catherine Krantz,16,10,6
+Cass,Precinct 19,U.S. House,4,LIB,Ken Ashby,1,1,0
 Cass,Precinct 19,U.S. House,4,,Over Votes,0,0,0
 Cass,Precinct 19,U.S. House,4,,Under Votes,0,0,0
-Cass,Precinct 19,Governor,,REP,Greg Abbott,55,64,119
-Cass,Precinct 19,Governor,,DEM,Lupe Valdez,6,11,17
+Cass,Precinct 19,Governor,,REP,Greg Abbott,119,64,55
+Cass,Precinct 19,Governor,,DEM,Lupe Valdez,17,11,6
 Cass,Precinct 19,Governor,,LIB,Mark Jay Tippetts,0,0,0
 Cass,Precinct 19,Governor,,,Over Votes,0,0,0
 Cass,Precinct 19,Governor,,,Under Votes,0,0,0
-Cass,Precinct 19,Lieutenant Governor,,REP,Dan Patrick,54,59,113
-Cass,Precinct 19,Lieutenant Governor,,DEM,Mike Collier,6,13,19
-Cass,Precinct 19,Lieutenant Governor,,LIB,Kerry Douglas McKennon,0,1,1
+Cass,Precinct 19,Lieutenant Governor,,REP,Dan Patrick,113,59,54
+Cass,Precinct 19,Lieutenant Governor,,DEM,Mike Collier,19,13,6
+Cass,Precinct 19,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,1,0
 Cass,Precinct 19,Lieutenant Governor,,,Over Votes,0,0,0
-Cass,Precinct 19,Lieutenant Governor,,,Under Votes,1,2,3
-Cass,Precinct 19,Attorney General,,REP,Ken Paxton,55,61,116
-Cass,Precinct 19,Attorney General,,DEM,Justin Nelson,6,12,18
-Cass,Precinct 19,Attorney General,,LIB,Michael Ray Harris,0,1,1
+Cass,Precinct 19,Lieutenant Governor,,,Under Votes,3,2,1
+Cass,Precinct 19,Attorney General,,REP,Ken Paxton,116,61,55
+Cass,Precinct 19,Attorney General,,DEM,Justin Nelson,18,12,6
+Cass,Precinct 19,Attorney General,,LIB,Michael Ray Harris,1,1,0
 Cass,Precinct 19,Attorney General,,,Over Votes,0,0,0
-Cass,Precinct 19,Attorney General,,,Under Votes,0,1,1
-Cass,Precinct 19,Comptroller of Public Accounts,,REP,Glenn Hegar,55,60,115
-Cass,Precinct 19,Comptroller of Public Accounts,,DEM,Joi Chevalier,6,12,18
-Cass,Precinct 19,Comptroller of Public Accounts,,LIB,Ben Sanders,0,2,2
+Cass,Precinct 19,Attorney General,,,Under Votes,1,1,0
+Cass,Precinct 19,Comptroller of Public Accounts,,REP,Glenn Hegar,115,60,55
+Cass,Precinct 19,Comptroller of Public Accounts,,DEM,Joi Chevalier,18,12,6
+Cass,Precinct 19,Comptroller of Public Accounts,,LIB,Ben Sanders,2,2,0
 Cass,Precinct 19,Comptroller of Public Accounts,,,Over Votes,0,0,0
-Cass,Precinct 19,Comptroller of Public Accounts,,,Under Votes,0,1,1
-Cass,Precinct 19,Commissioner of the General Land Office,,REP,George P. Bush,52,58,110
-Cass,Precinct 19,Commissioner of the General Land Office,,DEM,Miguel Suazo,6,11,17
-Cass,Precinct 19,Commissioner of the General Land Office,,LIB,Matt Pina,0,6,6
+Cass,Precinct 19,Comptroller of Public Accounts,,,Under Votes,1,1,0
+Cass,Precinct 19,Commissioner of the General Land Office,,REP,George P. Bush,110,58,52
+Cass,Precinct 19,Commissioner of the General Land Office,,DEM,Miguel Suazo,17,11,6
+Cass,Precinct 19,Commissioner of the General Land Office,,LIB,Matt Pina,6,6,0
 Cass,Precinct 19,Commissioner of the General Land Office,,,Over Votes,0,0,0
 Cass,Precinct 19,Commissioner of the General Land Office,,,Under Votes,3,0,3
-Cass,Precinct 19,Commissioner of Agriculture,,REP,Sid Miller,56,60,116
-Cass,Precinct 19,Commissioner of Agriculture,,DEM,Kim Olson,5,10,15
-Cass,Precinct 19,Commissioner of Agriculture,,LIB,Richard Carpenter,0,2,2
+Cass,Precinct 19,Commissioner of Agriculture,,REP,Sid Miller,116,60,56
+Cass,Precinct 19,Commissioner of Agriculture,,DEM,Kim Olson,15,10,5
+Cass,Precinct 19,Commissioner of Agriculture,,LIB,Richard Carpenter,2,2,0
 Cass,Precinct 19,Commissioner of Agriculture,,,Over Votes,0,0,0
-Cass,Precinct 19,Commissioner of Agriculture,,,Under Votes,0,3,3
-Cass,Precinct 19,Railroad Commissioner,,REP,Christi Craddick,55,61,116
-Cass,Precinct 19,Railroad Commissioner,,DEM,Roman McAllen,6,10,16
-Cass,Precinct 19,Railroad Commissioner,,LIB,Mike Wright,0,2,2
+Cass,Precinct 19,Commissioner of Agriculture,,,Under Votes,3,3,0
+Cass,Precinct 19,Railroad Commissioner,,REP,Christi Craddick,116,61,55
+Cass,Precinct 19,Railroad Commissioner,,DEM,Roman McAllen,16,10,6
+Cass,Precinct 19,Railroad Commissioner,,LIB,Mike Wright,2,2,0
 Cass,Precinct 19,Railroad Commissioner,,,Over Votes,0,0,0
-Cass,Precinct 19,Railroad Commissioner,,,Under Votes,0,2,2
-Cass,Precinct 19,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,55,62,117
-Cass,Precinct 19,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,6,11,17
+Cass,Precinct 19,Railroad Commissioner,,,Under Votes,2,2,0
+Cass,Precinct 19,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,117,62,55
+Cass,Precinct 19,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,17,11,6
 Cass,Precinct 19,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0
-Cass,Precinct 19,"Justice, Supreme Court, Place 2",,,Under Votes,0,2,2
-Cass,Precinct 19,"Justice, Supreme Court, Place 4",,REP,John Devine,55,62,117
-Cass,Precinct 19,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,6,11,17
+Cass,Precinct 19,"Justice, Supreme Court, Place 2",,,Under Votes,2,2,0
+Cass,Precinct 19,"Justice, Supreme Court, Place 4",,REP,John Devine,117,62,55
+Cass,Precinct 19,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,17,11,6
 Cass,Precinct 19,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0
-Cass,Precinct 19,"Justice, Supreme Court, Place 4",,,Under Votes,0,2,2
-Cass,Precinct 19,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,55,61,116
-Cass,Precinct 19,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,6,12,18
+Cass,Precinct 19,"Justice, Supreme Court, Place 4",,,Under Votes,2,2,0
+Cass,Precinct 19,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,116,61,55
+Cass,Precinct 19,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,18,12,6
 Cass,Precinct 19,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0
-Cass,Precinct 19,"Justice, Supreme Court, Place 6",,,Under Votes,0,2,2
-Cass,Precinct 19,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,55,62,117
-Cass,Precinct 19,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,6,10,16
-Cass,Precinct 19,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,0,2,2
+Cass,Precinct 19,"Justice, Supreme Court, Place 6",,,Under Votes,2,2,0
+Cass,Precinct 19,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,117,62,55
+Cass,Precinct 19,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,16,10,6
+Cass,Precinct 19,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,2,2,0
 Cass,Precinct 19,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0
-Cass,Precinct 19,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,0,1,1
-Cass,Precinct 19,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,55,62,117
-Cass,Precinct 19,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,6,13,19
+Cass,Precinct 19,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,1,1,0
+Cass,Precinct 19,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,117,62,55
+Cass,Precinct 19,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,19,13,6
 Cass,Precinct 19,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0
 Cass,Precinct 19,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,0,0,0
-Cass,Precinct 19,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,58,62,120
-Cass,Precinct 19,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,2,7,9
+Cass,Precinct 19,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,120,62,58
+Cass,Precinct 19,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,9,7,2
 Cass,Precinct 19,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0
-Cass,Precinct 19,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,1,6,7
-Cass,Precinct 20E,Ballots Cast,,,,,,136
-Cass,Precinct 20E,State Representative,9,REP,Chris Paddie,60,64,124
+Cass,Precinct 19,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,7,6,1
+Cass,Precinct 20E,Ballots Cast,,,,136,,
+Cass,Precinct 20E,State Representative,9,REP,Chris Paddie,124,64,60
 Cass,Precinct 20E,State Representative,9,,Over Votes,0,0,0
-Cass,Precinct 20E,State Representative,9,,Under Votes,1,11,12
-Cass,Precinct 20E,"Justice, 6th Court of Appeals District, Place No. 2",,REP,Scott Stevens,59,64,123
+Cass,Precinct 20E,State Representative,9,,Under Votes,12,11,1
+Cass,Precinct 20E,"Justice, 6th Court of Appeals District, Place No. 2",,REP,Scott Stevens,123,64,59
 Cass,Precinct 20E,"Justice, 6th Court of Appeals District, Place No. 2",,,Over Votes,0,0,0
-Cass,Precinct 20E,"Justice, 6th Court of Appeals District, Place No. 2",,,Under Votes,2,11,13
-Cass,Precinct 21,Ballots Cast,,,,,,159
-Cass,Precinct 21,Straight Party,,REP,Republican Party,30,69,99
-Cass,Precinct 21,Straight Party,,DEM,Democratic Party,6,2,8
-Cass,Precinct 21,Straight Party,,LIB,Libertarian Party,0,1,1
+Cass,Precinct 20E,"Justice, 6th Court of Appeals District, Place No. 2",,,Under Votes,13,11,2
+Cass,Precinct 21,Ballots Cast,,,,159,,
+Cass,Precinct 21,Straight Party,,REP,Republican Party,99,69,30
+Cass,Precinct 21,Straight Party,,DEM,Democratic Party,8,2,6
+Cass,Precinct 21,Straight Party,,LIB,Libertarian Party,1,1,0
 Cass,Precinct 21,Straight Party,,,Over Votes,0,0,0
-Cass,Precinct 21,Straight Party,,,Under Votes,10,41,51
-Cass,Precinct 21,U.S. Senate,,REP,Ted Cruz,38,103,141
-Cass,Precinct 21,U.S. Senate,,DEM,Beto O'Rourke,8,6,14
-Cass,Precinct 21,U.S. Senate,,LIB,Neal M. Dikeman,0,2,2
+Cass,Precinct 21,Straight Party,,,Under Votes,51,41,10
+Cass,Precinct 21,U.S. Senate,,REP,Ted Cruz,141,103,38
+Cass,Precinct 21,U.S. Senate,,DEM,Beto O'Rourke,14,6,8
+Cass,Precinct 21,U.S. Senate,,LIB,Neal M. Dikeman,2,2,0
 Cass,Precinct 21,U.S. Senate,,,Over Votes,0,0,0
-Cass,Precinct 21,U.S. Senate,,,Under Votes,0,2,2
-Cass,Precinct 21,U.S. House,4,REP,John Ratcliffe,38,106,144
-Cass,Precinct 21,U.S. House,4,DEM,Catherine Krantz,8,5,13
-Cass,Precinct 21,U.S. House,4,LIB,Ken Ashby,0,2,2
+Cass,Precinct 21,U.S. Senate,,,Under Votes,2,2,0
+Cass,Precinct 21,U.S. House,4,REP,John Ratcliffe,144,106,38
+Cass,Precinct 21,U.S. House,4,DEM,Catherine Krantz,13,5,8
+Cass,Precinct 21,U.S. House,4,LIB,Ken Ashby,2,2,0
 Cass,Precinct 21,U.S. House,4,,Over Votes,0,0,0
 Cass,Precinct 21,U.S. House,4,,Under Votes,0,0,0
-Cass,Precinct 21,Governor,,REP,Greg Abbott,37,104,141
-Cass,Precinct 21,Governor,,DEM,Lupe Valdez,9,7,16
-Cass,Precinct 21,Governor,,LIB,Mark Jay Tippetts,0,2,2
+Cass,Precinct 21,Governor,,REP,Greg Abbott,141,104,37
+Cass,Precinct 21,Governor,,DEM,Lupe Valdez,16,7,9
+Cass,Precinct 21,Governor,,LIB,Mark Jay Tippetts,2,2,0
 Cass,Precinct 21,Governor,,,Over Votes,0,0,0
 Cass,Precinct 21,Governor,,,Under Votes,0,0,0
-Cass,Precinct 21,Lieutenant Governor,,REP,Dan Patrick,37,93,130
-Cass,Precinct 21,Lieutenant Governor,,DEM,Mike Collier,9,16,25
-Cass,Precinct 21,Lieutenant Governor,,LIB,Kerry Douglas McKennon,0,3,3
+Cass,Precinct 21,Lieutenant Governor,,REP,Dan Patrick,130,93,37
+Cass,Precinct 21,Lieutenant Governor,,DEM,Mike Collier,25,16,9
+Cass,Precinct 21,Lieutenant Governor,,LIB,Kerry Douglas McKennon,3,3,0
 Cass,Precinct 21,Lieutenant Governor,,,Over Votes,0,0,0
-Cass,Precinct 21,Lieutenant Governor,,,Under Votes,0,1,1
-Cass,Precinct 21,Attorney General,,REP,Ken Paxton,35,104,139
-Cass,Precinct 21,Attorney General,,DEM,Justin Nelson,10,7,17
-Cass,Precinct 21,Attorney General,,LIB,Michael Ray Harris,0,2,2
+Cass,Precinct 21,Lieutenant Governor,,,Under Votes,1,1,0
+Cass,Precinct 21,Attorney General,,REP,Ken Paxton,139,104,35
+Cass,Precinct 21,Attorney General,,DEM,Justin Nelson,17,7,10
+Cass,Precinct 21,Attorney General,,LIB,Michael Ray Harris,2,2,0
 Cass,Precinct 21,Attorney General,,,Over Votes,0,0,0
 Cass,Precinct 21,Attorney General,,,Under Votes,1,0,1
-Cass,Precinct 21,Comptroller of Public Accounts,,REP,Glenn Hegar,37,104,141
-Cass,Precinct 21,Comptroller of Public Accounts,,DEM,Joi Chevalier,8,7,15
-Cass,Precinct 21,Comptroller of Public Accounts,,LIB,Ben Sanders,0,2,2
+Cass,Precinct 21,Comptroller of Public Accounts,,REP,Glenn Hegar,141,104,37
+Cass,Precinct 21,Comptroller of Public Accounts,,DEM,Joi Chevalier,15,7,8
+Cass,Precinct 21,Comptroller of Public Accounts,,LIB,Ben Sanders,2,2,0
 Cass,Precinct 21,Comptroller of Public Accounts,,,Over Votes,0,0,0
 Cass,Precinct 21,Comptroller of Public Accounts,,,Under Votes,1,0,1
-Cass,Precinct 21,Commissioner of the General Land Office,,REP,George P. Bush,38,100,138
-Cass,Precinct 21,Commissioner of the General Land Office,,DEM,Miguel Suazo,8,6,14
-Cass,Precinct 21,Commissioner of the General Land Office,,LIB,Matt Pina,0,7,7
+Cass,Precinct 21,Commissioner of the General Land Office,,REP,George P. Bush,138,100,38
+Cass,Precinct 21,Commissioner of the General Land Office,,DEM,Miguel Suazo,14,6,8
+Cass,Precinct 21,Commissioner of the General Land Office,,LIB,Matt Pina,7,7,0
 Cass,Precinct 21,Commissioner of the General Land Office,,,Over Votes,0,0,0
 Cass,Precinct 21,Commissioner of the General Land Office,,,Under Votes,0,0,0
-Cass,Precinct 21,Commissioner of Agriculture,,REP,Sid Miller,38,104,142
-Cass,Precinct 21,Commissioner of Agriculture,,DEM,Kim Olson,8,7,15
-Cass,Precinct 21,Commissioner of Agriculture,,LIB,Richard Carpenter,0,2,2
+Cass,Precinct 21,Commissioner of Agriculture,,REP,Sid Miller,142,104,38
+Cass,Precinct 21,Commissioner of Agriculture,,DEM,Kim Olson,15,7,8
+Cass,Precinct 21,Commissioner of Agriculture,,LIB,Richard Carpenter,2,2,0
 Cass,Precinct 21,Commissioner of Agriculture,,,Over Votes,0,0,0
 Cass,Precinct 21,Commissioner of Agriculture,,,Under Votes,0,0,0
-Cass,Precinct 21,Railroad Commissioner,,REP,Christi Craddick,38,104,142
-Cass,Precinct 21,Railroad Commissioner,,DEM,Roman McAllen,8,7,15
-Cass,Precinct 21,Railroad Commissioner,,LIB,Mike Wright,0,2,2
+Cass,Precinct 21,Railroad Commissioner,,REP,Christi Craddick,142,104,38
+Cass,Precinct 21,Railroad Commissioner,,DEM,Roman McAllen,15,7,8
+Cass,Precinct 21,Railroad Commissioner,,LIB,Mike Wright,2,2,0
 Cass,Precinct 21,Railroad Commissioner,,,Over Votes,0,0,0
 Cass,Precinct 21,Railroad Commissioner,,,Under Votes,0,0,0
-Cass,Precinct 21,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,37,103,140
-Cass,Precinct 21,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,9,7,16
+Cass,Precinct 21,"Justice, Supreme Court, Place 2",,REP,Jimmy Blacklock,140,103,37
+Cass,Precinct 21,"Justice, Supreme Court, Place 2",,DEM,Steven Kirkland,16,7,9
 Cass,Precinct 21,"Justice, Supreme Court, Place 2",,,Over Votes,0,0,0
-Cass,Precinct 21,"Justice, Supreme Court, Place 2",,,Under Votes,0,3,3
-Cass,Precinct 21,"Justice, Supreme Court, Place 4",,REP,John Devine,38,104,142
-Cass,Precinct 21,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,8,7,15
+Cass,Precinct 21,"Justice, Supreme Court, Place 2",,,Under Votes,3,3,0
+Cass,Precinct 21,"Justice, Supreme Court, Place 4",,REP,John Devine,142,104,38
+Cass,Precinct 21,"Justice, Supreme Court, Place 4",,DEM,R.K. Sandill,15,7,8
 Cass,Precinct 21,"Justice, Supreme Court, Place 4",,,Over Votes,0,0,0
-Cass,Precinct 21,"Justice, Supreme Court, Place 4",,,Under Votes,0,2,2
-Cass,Precinct 21,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,38,104,142
-Cass,Precinct 21,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,8,7,15
+Cass,Precinct 21,"Justice, Supreme Court, Place 4",,,Under Votes,2,2,0
+Cass,Precinct 21,"Justice, Supreme Court, Place 6",,REP,Jeff Brown,142,104,38
+Cass,Precinct 21,"Justice, Supreme Court, Place 6",,DEM,Kathy Cheng,15,7,8
 Cass,Precinct 21,"Justice, Supreme Court, Place 6",,,Over Votes,0,0,0
-Cass,Precinct 21,"Justice, Supreme Court, Place 6",,,Under Votes,0,2,2
-Cass,Precinct 21,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,37,104,141
-Cass,Precinct 21,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,9,7,16
-Cass,Precinct 21,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,0,2,2
+Cass,Precinct 21,"Justice, Supreme Court, Place 6",,,Under Votes,2,2,0
+Cass,Precinct 21,"Presiding Judge, Court of Criminal Appeals",,REP,Sharon Keller,141,104,37
+Cass,Precinct 21,"Presiding Judge, Court of Criminal Appeals",,DEM,Maria T. (Terri) Jackson,16,7,9
+Cass,Precinct 21,"Presiding Judge, Court of Criminal Appeals",,LIB,William Bryan Strange III,2,2,0
 Cass,Precinct 21,"Presiding Judge, Court of Criminal Appeals",,,Over Votes,0,0,0
 Cass,Precinct 21,"Presiding Judge, Court of Criminal Appeals",,,Under Votes,0,0,0
-Cass,Precinct 21,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,37,104,141
-Cass,Precinct 21,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,8,7,15
+Cass,Precinct 21,"Judge, Court of Criminal Appeals, Place 7",,REP,Barbara Parker Hervey,141,104,37
+Cass,Precinct 21,"Judge, Court of Criminal Appeals, Place 7",,DEM,Ramona Franklin,15,7,8
 Cass,Precinct 21,"Judge, Court of Criminal Appeals, Place 7",,,Over Votes,0,0,0
-Cass,Precinct 21,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,1,2,3
-Cass,Precinct 21,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,39,105,144
-Cass,Precinct 21,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,0,6,6
+Cass,Precinct 21,"Judge, Court of Criminal Appeals, Place 7",,,Under Votes,3,2,1
+Cass,Precinct 21,"Judge, Court of Criminal Appeals, Place 8",,REP,Michelle Slaughter,144,105,39
+Cass,Precinct 21,"Judge, Court of Criminal Appeals, Place 8",,LIB,Mark Ash,6,6,0
 Cass,Precinct 21,"Judge, Court of Criminal Appeals, Place 8",,,Over Votes,0,0,0
-Cass,Precinct 21,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,7,2,9
-Cass,Precinct 21,State Representative,9,REP,Chris Paddie,38,108,146
+Cass,Precinct 21,"Judge, Court of Criminal Appeals, Place 8",,,Under Votes,9,2,7
+Cass,Precinct 21,State Representative,9,REP,Chris Paddie,146,108,38
 Cass,Precinct 21,State Representative,9,,Over Votes,0,0,0
-Cass,Precinct 21,State Representative,9,,Under Votes,8,5,13
-Cass,Precinct 21,"Justice, 6th Court of Appeals District, Place No. 2",,REP,Scott Stevens,37,107,144
+Cass,Precinct 21,State Representative,9,,Under Votes,13,5,8
+Cass,Precinct 21,"Justice, 6th Court of Appeals District, Place No. 2",,REP,Scott Stevens,144,107,37
 Cass,Precinct 21,"Justice, 6th Court of Appeals District, Place No. 2",,,Over Votes,0,0,0
-Cass,Precinct 21,"Justice, 6th Court of Appeals District, Place No. 2",,,Under Votes,9,6,15
+Cass,Precinct 21,"Justice, 6th Court of Appeals District, Place No. 2",,,Under Votes,15,6,9

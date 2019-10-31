@@ -1,249 +1,249 @@
-county,precinct,office,district,party,candidate,early_voting,election_day,votes
-Franklin,101,Straight Party,,REP,Republican,215,94,309
-Franklin,102,Straight Party,,REP,Republican,81,87,168
-Franklin,201,Straight Party,,REP,Republican,119,38,157
-Franklin,202,Straight Party,,REP,Republican,136,54,190
-Franklin,301,Straight Party,,REP,Republican,166,75,241
-Franklin,302,Straight Party,,REP,Republican,111,119,230
-Franklin,401,Straight Party,,REP,Republican,279,131,410
-Franklin,402,Straight Party,,REP,Republican,151,116,267
-Franklin,101,Straight Party,,DEM,Democratic,28,14,42
-Franklin,102,Straight Party,,DEM,Democratic,5,13,18
-Franklin,201,Straight Party,,DEM,Democratic,8,6,14
-Franklin,202,Straight Party,,DEM,Democratic,36,41,77
-Franklin,301,Straight Party,,DEM,Democratic,20,9,29
-Franklin,302,Straight Party,,DEM,Democratic,21,20,41
-Franklin,401,Straight Party,,DEM,Democratic,38,11,49
-Franklin,402,Straight Party,,DEM,Democratic,23,12,35
+county,precinct,office,district,party,candidate,votes,election_day,early_voting
+Franklin,101,Straight Party,,REP,Republican,309,94,215
+Franklin,102,Straight Party,,REP,Republican,168,87,81
+Franklin,201,Straight Party,,REP,Republican,157,38,119
+Franklin,202,Straight Party,,REP,Republican,190,54,136
+Franklin,301,Straight Party,,REP,Republican,241,75,166
+Franklin,302,Straight Party,,REP,Republican,230,119,111
+Franklin,401,Straight Party,,REP,Republican,410,131,279
+Franklin,402,Straight Party,,REP,Republican,267,116,151
+Franklin,101,Straight Party,,DEM,Democratic,42,14,28
+Franklin,102,Straight Party,,DEM,Democratic,18,13,5
+Franklin,201,Straight Party,,DEM,Democratic,14,6,8
+Franklin,202,Straight Party,,DEM,Democratic,77,41,36
+Franklin,301,Straight Party,,DEM,Democratic,29,9,20
+Franklin,302,Straight Party,,DEM,Democratic,41,20,21
+Franklin,401,Straight Party,,DEM,Democratic,49,11,38
+Franklin,402,Straight Party,,DEM,Democratic,35,12,23
 Franklin,101,Straight Party,,LIB,Libertarian,0,0,0
-Franklin,102,Straight Party,,LIB,Libertarian,0,1,1
+Franklin,102,Straight Party,,LIB,Libertarian,1,1,0
 Franklin,201,Straight Party,,LIB,Libertarian,0,0,0
 Franklin,202,Straight Party,,LIB,Libertarian,1,0,1
 Franklin,301,Straight Party,,LIB,Libertarian,1,0,1
 Franklin,302,Straight Party,,LIB,Libertarian,0,0,0
-Franklin,401,Straight Party,,LIB,Libertarian,1,1,2
+Franklin,401,Straight Party,,LIB,Libertarian,2,1,1
 Franklin,402,Straight Party,,LIB,Libertarian,0,0,0
-Franklin,101,U.S. Senate,,REP,Ted Cruz,386,155,541
-Franklin,102,U.S. Senate,,REP,Ted Cruz,132,137,269
-Franklin,201,U.S. Senate,,REP,Ted Cruz,236,91,327
-Franklin,202,U.S. Senate,,REP,Ted Cruz,265,122,387
-Franklin,301,U.S. Senate,,REP,Ted Cruz,296,117,413
-Franklin,302,U.S. Senate,,REP,Ted Cruz,144,195,339
-Franklin,401,U.S. Senate,,REP,Ted Cruz,431,198,629
-Franklin,402,U.S. Senate,,REP,Ted Cruz,214,181,395
-Franklin,101,U.S. Senate,,DEM,Beto O' Rourke,81,30,111
-Franklin,102,U.S. Senate,,DEM,Beto O' Rourke,11,21,32
-Franklin,201,U.S. Senate,,DEM,Beto O' Rourke,24,14,38
-Franklin,202,U.S. Senate,,DEM,Beto O' Rourke,68,62,130
-Franklin,301,U.S. Senate,,DEM,Beto O' Rourke,49,16,65
-Franklin,302,U.S. Senate,,DEM,Beto O' Rourke,36,36,72
-Franklin,401,U.S. Senate,,DEM,Beto O' Rourke,83,24,107
-Franklin,402,U.S. Senate,,DEM,Beto O' Rourke,46,38,84
+Franklin,101,U.S. Senate,,REP,Ted Cruz,541,155,386
+Franklin,102,U.S. Senate,,REP,Ted Cruz,269,137,132
+Franklin,201,U.S. Senate,,REP,Ted Cruz,327,91,236
+Franklin,202,U.S. Senate,,REP,Ted Cruz,387,122,265
+Franklin,301,U.S. Senate,,REP,Ted Cruz,413,117,296
+Franklin,302,U.S. Senate,,REP,Ted Cruz,339,195,144
+Franklin,401,U.S. Senate,,REP,Ted Cruz,629,198,431
+Franklin,402,U.S. Senate,,REP,Ted Cruz,395,181,214
+Franklin,101,U.S. Senate,,DEM,Beto O' Rourke,111,30,81
+Franklin,102,U.S. Senate,,DEM,Beto O' Rourke,32,21,11
+Franklin,201,U.S. Senate,,DEM,Beto O' Rourke,38,14,24
+Franklin,202,U.S. Senate,,DEM,Beto O' Rourke,130,62,68
+Franklin,301,U.S. Senate,,DEM,Beto O' Rourke,65,16,49
+Franklin,302,U.S. Senate,,DEM,Beto O' Rourke,72,36,36
+Franklin,401,U.S. Senate,,DEM,Beto O' Rourke,107,24,83
+Franklin,402,U.S. Senate,,DEM,Beto O' Rourke,84,38,46
 Franklin,101,U.S. Senate,,LIB,Neal M. Dikeman,3,0,3
-Franklin,102,U.S. Senate,,LIB,Neal M. Dikeman,0,1,1
-Franklin,201,U.S. Senate,,LIB,Neal M. Dikeman,3,1,4
-Franklin,202,U.S. Senate,,LIB,Neal M. Dikeman,4,1,5
-Franklin,301,U.S. Senate,,LIB,Neal M. Dikeman,3,3,6
-Franklin,302,U.S. Senate,,LIB,Neal M. Dikeman,1,5,6
-Franklin,401,U.S. Senate,,LIB,Neal M. Dikeman,4,4,8
-Franklin,402,U.S. Senate,,LIB,Neal M. Dikeman,1,1,2
-Franklin,101,U.S. House,4,REP,John Ratcliffe,385,155,540
-Franklin,102,U.S. House,4,REP,John Ratcliffe,131,138,269
-Franklin,201,U.S. House,4,REP,John Ratcliffe,238,89,327
-Franklin,202,U.S. House,4,REP,John Ratcliffe,267,122,389
-Franklin,301,U.S. House,4,REP,John Ratcliffe,291,120,411
-Franklin,302,U.S. House,4,REP,John Ratcliffe,144,197,341
-Franklin,401,U.S. House,4,REP,John Ratcliffe,442,200,642
-Franklin,402,U.S. House,4,REP,John Ratcliffe,217,183,400
-Franklin,101,U.S. House,4,DEM,Catherine Krantz,66,26,92
-Franklin,102,U.S. House,4,DEM,Catherine Krantz,12,19,31
-Franklin,201,U.S. House,4,DEM,Catherine Krantz,21,12,33
-Franklin,202,U.S. House,4,DEM,Catherine Krantz,61,59,120
-Franklin,301,U.S. House,4,DEM,Catherine Krantz,48,13,61
-Franklin,302,U.S. House,4,DEM,Catherine Krantz,35,36,71
-Franklin,401,U.S. House,4,DEM,Catherine Krantz,70,19,89
-Franklin,402,U.S. House,4,DEM,Catherine Krantz,38,32,70
-Franklin,101,U.S. House,4,LIB,Ken Ashby,8,1,9
-Franklin,102,U.S. House,4,LIB,Ken Ashby,0,1,1
-Franklin,201,U.S. House,4,LIB,Ken Ashby,3,2,5
-Franklin,202,U.S. House,4,LIB,Ken Ashby,4,1,5
-Franklin,301,U.S. House,4,LIB,Ken Ashby,3,2,5
-Franklin,302,U.S. House,4,LIB,Ken Ashby,0,3,3
-Franklin,401,U.S. House,4,LIB,Ken Ashby,3,6,9
-Franklin,402,U.S. House,4,LIB,Ken Ashby,3,3,6
-Franklin,101,Governor,,REP,Greg Abbott,388,158,546
-Franklin,102,Governor,,REP,Greg Abbott,131,139,270
-Franklin,201,Governor,,REP,Greg Abbott,236,89,325
-Franklin,202,Governor,,REP,Greg Abbott,273,129,402
-Franklin,301,Governor,,REP,Greg Abbott,298,121,419
-Franklin,302,Governor,,REP,Greg Abbott,145,197,342
-Franklin,401,Governor,,REP,Greg Abbott,445,203,648
-Franklin,402,Governor,,REP,Greg Abbott,219,188,407
-Franklin,101,Governor,,DEM,Lupe Valdez,62,24,86
-Franklin,102,Governor,,DEM,Lupe Valdez,9,17,26
-Franklin,201,Governor,,DEM,Lupe Valdez,23,14,37
-Franklin,202,Governor,,DEM,Lupe Valdez,55,52,107
-Franklin,301,Governor,,DEM,Lupe Valdez,42,13,55
-Franklin,302,Governor,,DEM,Lupe Valdez,34,36,70
-Franklin,401,Governor,,DEM,Lupe Valdez,67,21,88
-Franklin,402,Governor,,DEM,Lupe Valdez,38,30,68
+Franklin,102,U.S. Senate,,LIB,Neal M. Dikeman,1,1,0
+Franklin,201,U.S. Senate,,LIB,Neal M. Dikeman,4,1,3
+Franklin,202,U.S. Senate,,LIB,Neal M. Dikeman,5,1,4
+Franklin,301,U.S. Senate,,LIB,Neal M. Dikeman,6,3,3
+Franklin,302,U.S. Senate,,LIB,Neal M. Dikeman,6,5,1
+Franklin,401,U.S. Senate,,LIB,Neal M. Dikeman,8,4,4
+Franklin,402,U.S. Senate,,LIB,Neal M. Dikeman,2,1,1
+Franklin,101,U.S. House,4,REP,John Ratcliffe,540,155,385
+Franklin,102,U.S. House,4,REP,John Ratcliffe,269,138,131
+Franklin,201,U.S. House,4,REP,John Ratcliffe,327,89,238
+Franklin,202,U.S. House,4,REP,John Ratcliffe,389,122,267
+Franklin,301,U.S. House,4,REP,John Ratcliffe,411,120,291
+Franklin,302,U.S. House,4,REP,John Ratcliffe,341,197,144
+Franklin,401,U.S. House,4,REP,John Ratcliffe,642,200,442
+Franklin,402,U.S. House,4,REP,John Ratcliffe,400,183,217
+Franklin,101,U.S. House,4,DEM,Catherine Krantz,92,26,66
+Franklin,102,U.S. House,4,DEM,Catherine Krantz,31,19,12
+Franklin,201,U.S. House,4,DEM,Catherine Krantz,33,12,21
+Franklin,202,U.S. House,4,DEM,Catherine Krantz,120,59,61
+Franklin,301,U.S. House,4,DEM,Catherine Krantz,61,13,48
+Franklin,302,U.S. House,4,DEM,Catherine Krantz,71,36,35
+Franklin,401,U.S. House,4,DEM,Catherine Krantz,89,19,70
+Franklin,402,U.S. House,4,DEM,Catherine Krantz,70,32,38
+Franklin,101,U.S. House,4,LIB,Ken Ashby,9,1,8
+Franklin,102,U.S. House,4,LIB,Ken Ashby,1,1,0
+Franklin,201,U.S. House,4,LIB,Ken Ashby,5,2,3
+Franklin,202,U.S. House,4,LIB,Ken Ashby,5,1,4
+Franklin,301,U.S. House,4,LIB,Ken Ashby,5,2,3
+Franklin,302,U.S. House,4,LIB,Ken Ashby,3,3,0
+Franklin,401,U.S. House,4,LIB,Ken Ashby,9,6,3
+Franklin,402,U.S. House,4,LIB,Ken Ashby,6,3,3
+Franklin,101,Governor,,REP,Greg Abbott,546,158,388
+Franklin,102,Governor,,REP,Greg Abbott,270,139,131
+Franklin,201,Governor,,REP,Greg Abbott,325,89,236
+Franklin,202,Governor,,REP,Greg Abbott,402,129,273
+Franklin,301,Governor,,REP,Greg Abbott,419,121,298
+Franklin,302,Governor,,REP,Greg Abbott,342,197,145
+Franklin,401,Governor,,REP,Greg Abbott,648,203,445
+Franklin,402,Governor,,REP,Greg Abbott,407,188,219
+Franklin,101,Governor,,DEM,Lupe Valdez,86,24,62
+Franklin,102,Governor,,DEM,Lupe Valdez,26,17,9
+Franklin,201,Governor,,DEM,Lupe Valdez,37,14,23
+Franklin,202,Governor,,DEM,Lupe Valdez,107,52,55
+Franklin,301,Governor,,DEM,Lupe Valdez,55,13,42
+Franklin,302,Governor,,DEM,Lupe Valdez,70,36,34
+Franklin,401,Governor,,DEM,Lupe Valdez,88,21,67
+Franklin,402,Governor,,DEM,Lupe Valdez,68,30,38
 Franklin,101,Governor,,LIB,Mark Jay Tippetts,13,0,13
-Franklin,102,Governor,,LIB,Mark Jay Tippetts,2,3,5
-Franklin,201,Governor,,LIB,Mark Jay Tippetts,2,1,3
-Franklin,202,Governor,,LIB,Mark Jay Tippetts,7,3,10
-Franklin,301,Governor,,LIB,Mark Jay Tippetts,8,2,10
-Franklin,302,Governor,,LIB,Mark Jay Tippetts,2,3,5
-Franklin,401,Governor,,LIB,Mark Jay Tippetts,5,3,8
-Franklin,402,Governor,,LIB,Mark Jay Tippetts,3,2,5
-Franklin,101,Lieutenant Governor,,REP,Dan Patrick,337,146,483
-Franklin,102,Lieutenant Governor,,REP,Dan Patrick,127,125,252
-Franklin,201,Lieutenant Governor,,REP,Dan Patrick,214,86,300
-Franklin,202,Lieutenant Governor,,REP,Dan Patrick,256,115,371
-Franklin,301,Lieutenant Governor,,REP,Dan Patrick,271,111,382
-Franklin,302,Lieutenant Governor,,REP,Dan Patrick,143,186,329
-Franklin,401,Lieutenant Governor,,REP,Dan Patrick,421,194,615
-Franklin,402,Lieutenant Governor,,REP,Dan Patrick,210,174,384
-Franklin,101,Lieutenant Governor,,DEM,Mike Collier,107,33,140
-Franklin,102,Lieutenant Governor,,DEM,Mike Collier,16,29,45
-Franklin,201,Lieutenant Governor,,DEM,Mike Collier,42,15,57
-Franklin,202,Lieutenant Governor,,DEM,Mike Collier,70,65,135
-Franklin,301,Lieutenant Governor,,DEM,Mike Collier,63,20,83
-Franklin,302,Lieutenant Governor,,DEM,Mike Collier,36,46,82
-Franklin,401,Lieutenant Governor,,DEM,Mike Collier,87,26,113
-Franklin,402,Lieutenant Governor,,DEM,Mike Collier,45,39,84
-Franklin,101,Lieutenant Governor,,LIB,Kerry Douglas McKennon,10,1,11
-Franklin,102,Lieutenant Governor,,LIB,Kerry Douglas McKennon,0,3,3
-Franklin,201,Lieutenant Governor,,LIB,Kerry Douglas McKennon,4,2,6
-Franklin,202,Lieutenant Governor,,LIB,Kerry Douglas McKennon,8,2,10
-Franklin,301,Lieutenant Governor,,LIB,Kerry Douglas McKennon,10,5,15
-Franklin,302,Lieutenant Governor,,LIB,Kerry Douglas McKennon,1,4,5
-Franklin,401,Lieutenant Governor,,LIB,Kerry Douglas McKennon,7,5,12
-Franklin,402,Lieutenant Governor,,LIB,Kerry Douglas McKennon,3,5,8
-Franklin,101,Attorney General,,REP,Ken Paxton,367,149,516
-Franklin,102,Attorney General,,REP,Ken Paxton,128,133,261
-Franklin,201,Attorney General,,REP,Ken Paxton,228,86,314
-Franklin,202,Attorney General,,REP,Ken Paxton,256,113,369
-Franklin,301,Attorney General,,REP,Ken Paxton,292,115,407
-Franklin,302,Attorney General,,REP,Ken Paxton,142,195,337
-Franklin,401,Attorney General,,REP,Ken Paxton,420,194,614
-Franklin,402,Attorney General,,REP,Ken Paxton,208,174,382
-Franklin,101,Attorney General,,DEM,Justin Nelson,87,28,115
-Franklin,102,Attorney General,,DEM,Justin Nelson,13,21,34
-Franklin,201,Attorney General,,DEM,Justin Nelson,23,11,34
-Franklin,202,Attorney General,,DEM,Justin Nelson,71,65,136
-Franklin,301,Attorney General,,DEM,Justin Nelson,46,14,60
-Franklin,302,Attorney General,,DEM,Justin Nelson,35,38,73
-Franklin,401,Attorney General,,DEM,Justin Nelson,86,26,112
-Franklin,402,Attorney General,,DEM,Justin Nelson,49,39,88
-Franklin,101,Attorney General,,LIB,Michael Ray Harris,8,3,11
-Franklin,102,Attorney General,,LIB,Michael Ray Harris,1,4,5
-Franklin,201,Attorney General,,LIB,Michael Ray Harris,5,4,9
-Franklin,202,Attorney General,,LIB,Michael Ray Harris,5,4,9
-Franklin,301,Attorney General,,LIB,Michael Ray Harris,6,5,11
-Franklin,302,Attorney General,,LIB,Michael Ray Harris,2,2,4
-Franklin,401,Attorney General,,LIB,Michael Ray Harris,5,6,11
-Franklin,402,Attorney General,,LIB,Michael Ray Harris,1,5,6
-Franklin,101,Comptroller of Public Accounts,,REP,Glenn Hegar,380,153,533
-Franklin,102,Comptroller of Public Accounts,,REP,Glenn Hegar,128,137,265
-Franklin,201,Comptroller of Public Accounts,,REP,Glenn Hegar,225,84,309
-Franklin,202,Comptroller of Public Accounts,,REP,Glenn Hegar,260,114,374
-Franklin,301,Comptroller of Public Accounts,,REP,Glenn Hegar,286,116,402
-Franklin,302,Comptroller of Public Accounts,,REP,Glenn Hegar,142,196,338
-Franklin,401,Comptroller of Public Accounts,,REP,Glenn Hegar,431,197,628
-Franklin,402,Comptroller of Public Accounts,,REP,Glenn Hegar,217,183,400
-Franklin,101,Comptroller of Public Accounts,,DEM,Joi Chevalier,64,24,88
-Franklin,102,Comptroller of Public Accounts,,DEM,Joi Chevalier,11,16,27
-Franklin,201,Comptroller of Public Accounts,,DEM,Joi Chevalier,23,10,33
-Franklin,202,Comptroller of Public Accounts,,DEM,Joi Chevalier,58,60,118
-Franklin,301,Comptroller of Public Accounts,,DEM,Joi Chevalier,40,12,52
-Franklin,302,Comptroller of Public Accounts,,DEM,Joi Chevalier,33,34,67
-Franklin,401,Comptroller of Public Accounts,,DEM,Joi Chevalier,71,22,93
-Franklin,402,Comptroller of Public Accounts,,DEM,Joi Chevalier,37,28,65
-Franklin,101,Comptroller of Public Accounts,,LIB,Ben Sanders,12,3,15
-Franklin,102,Comptroller of Public Accounts,,LIB,Ben Sanders,0,4,4
-Franklin,201,Comptroller of Public Accounts,,LIB,Ben Sanders,6,5,11
-Franklin,202,Comptroller of Public Accounts,,LIB,Ben Sanders,11,7,18
-Franklin,301,Comptroller of Public Accounts,,LIB,Ben Sanders,12,6,18
-Franklin,302,Comptroller of Public Accounts,,LIB,Ben Sanders,5,4,9
-Franklin,401,Comptroller of Public Accounts,,LIB,Ben Sanders,9,6,15
-Franklin,402,Comptroller of Public Accounts,,LIB,Ben Sanders,3,3,6
-Franklin,101,Commissioner of the General Land Office,,REP,George P. Bush,382,157,539
-Franklin,102,Commissioner of the General Land Office,,REP,George P. Bush,129,133,262
-Franklin,201,Commissioner of the General Land Office,,REP,George P. Bush,233,87,320
-Franklin,202,Commissioner of the General Land Office,,REP,George P. Bush,256,121,377
-Franklin,301,Commissioner of the General Land Office,,REP,George P. Bush,286,118,404
-Franklin,302,Commissioner of the General Land Office,,REP,George P. Bush,134,193,327
-Franklin,401,Commissioner of the General Land Office,,REP,George P. Bush,426,202,628
-Franklin,402,Commissioner of the General Land Office,,REP,George P. Bush,213,181,394
-Franklin,101,Commissioner of the General Land Office,,DEM,Miguel Suazo,59,20,79
-Franklin,102,Commissioner of the General Land Office,,DEM,Miguel Suazo,10,18,28
-Franklin,201,Commissioner of the General Land Office,,DEM,Miguel Suazo,21,10,31
-Franklin,202,Commissioner of the General Land Office,,DEM,Miguel Suazo,59,59,118
-Franklin,301,Commissioner of the General Land Office,,DEM,Miguel Suazo,43,12,55
-Franklin,302,Commissioner of the General Land Office,,DEM,Miguel Suazo,36,35,71
-Franklin,401,Commissioner of the General Land Office,,DEM,Miguel Suazo,72,18,90
-Franklin,402,Commissioner of the General Land Office,,DEM,Miguel Suazo,36,24,60
-Franklin,101,Commissioner of the General Land Office,,LIB,Matt Pina,15,4,19
-Franklin,102,Commissioner of the General Land Office,,LIB,Matt Pina,2,5,7
-Franklin,201,Commissioner of the General Land Office,,LIB,Matt Pina,6,3,9
-Franklin,202,Commissioner of the General Land Office,,LIB,Matt Pina,15,4,19
-Franklin,301,Commissioner of the General Land Office,,LIB,Matt Pina,15,3,18
-Franklin,302,Commissioner of the General Land Office,,LIB,Matt Pina,10,8,18
-Franklin,401,Commissioner of the General Land Office,,LIB,Matt Pina,14,6,20
-Franklin,402,Commissioner of the General Land Office,,LIB,Matt Pina,7,10,17
-Franklin,101,Commissioner of Agriculture,,REP,Sid Miller,371,153,524
-Franklin,102,Commissioner of Agriculture,,REP,Sid Miller,129,135,264
-Franklin,201,Commissioner of Agriculture,,REP,Sid Miller,221,83,304
-Franklin,202,Commissioner of Agriculture,,REP,Sid Miller,263,112,375
-Franklin,301,Commissioner of Agriculture,,REP,Sid Miller,284,116,400
-Franklin,302,Commissioner of Agriculture,,REP,Sid Miller,140,197,337
-Franklin,401,Commissioner of Agriculture,,REP,Sid Miller,423,192,615
-Franklin,402,Commissioner of Agriculture,,REP,Sid Miller,211,173,384
-Franklin,101,Commissioner of Agriculture,,DEM,Kim Olson,74,25,99
-Franklin,102,Commissioner of Agriculture,,DEM,Kim Olson,13,19,32
-Franklin,201,Commissioner of Agriculture,,DEM,Kim Olson,25,14,39
-Franklin,202,Commissioner of Agriculture,,DEM,Kim Olson,62,66,128
-Franklin,301,Commissioner of Agriculture,,DEM,Kim Olson,48,13,61
-Franklin,302,Commissioner of Agriculture,,DEM,Kim Olson,35,36,71
-Franklin,401,Commissioner of Agriculture,,DEM,Kim Olson,78,26,104
-Franklin,402,Commissioner of Agriculture,,DEM,Kim Olson,43,37,80
-Franklin,101,Commissioner of Agriculture,,LIB,Richard Carpenter,16,3,19
-Franklin,102,Commissioner of Agriculture,,LIB,Richard Carpenter,1,3,4
-Franklin,201,Commissioner of Agriculture,,LIB,Richard Carpenter,10,3,13
-Franklin,202,Commissioner of Agriculture,,LIB,Richard Carpenter,8,3,11
-Franklin,301,Commissioner of Agriculture,,LIB,Richard Carpenter,8,4,12
-Franklin,302,Commissioner of Agriculture,,LIB,Richard Carpenter,3,2,5
-Franklin,401,Commissioner of Agriculture,,LIB,Richard Carpenter,9,7,16
-Franklin,402,Commissioner of Agriculture,,LIB,Richard Carpenter,4,6,10
-Franklin,101,Railroad Commissioner,,REP,Christi Craddick,369,156,525
-Franklin,102,Railroad Commissioner,,REP,Christi Craddick,130,139,269
-Franklin,201,Railroad Commissioner,,REP,Christi Craddick,227,86,313
-Franklin,202,Railroad Commissioner,,REP,Christi Craddick,264,113,377
-Franklin,301,Railroad Commissioner,,REP,Christi Craddick,283,117,400
-Franklin,302,Railroad Commissioner,,REP,Christi Craddick,141,195,336
-Franklin,401,Railroad Commissioner,,REP,Christi Craddick,431,195,626
-Franklin,402,Railroad Commissioner,,REP,Christi Craddick,213,178,391
-Franklin,101,Railroad Commissioner,,DEM,Roman McAllen,68,20,88
-Franklin,102,Railroad Commissioner,,DEM,Roman McAllen,10,17,27
-Franklin,201,Railroad Commissioner,,DEM,Roman McAllen,20,12,32
-Franklin,202,Railroad Commissioner,,DEM,Roman McAllen,55,62,117
-Franklin,301,Railroad Commissioner,,DEM,Roman McAllen,48,12,60
-Franklin,302,Railroad Commissioner,,DEM,Roman McAllen,33,37,70
-Franklin,401,Railroad Commissioner,,DEM,Roman McAllen,71,20,91
-Franklin,402,Railroad Commissioner,,DEM,Roman McAllen,40,29,69
-Franklin,101,Railroad Commissioner,,LIB,Mike Wright,22,5,27
-Franklin,102,Railroad Commissioner,,LIB,Mike Wright,0,2,2
-Franklin,201,Railroad Commissioner,,LIB,Mike Wright,6,3,9
-Franklin,202,Railroad Commissioner,,LIB,Mike Wright,12,4,16
-Franklin,301,Railroad Commissioner,,LIB,Mike Wright,7,5,12
-Franklin,302,Railroad Commissioner,,LIB,Mike Wright,6,2,8
-Franklin,401,Railroad Commissioner,,LIB,Mike Wright,9,8,17
-Franklin,402,Railroad Commissioner,,LIB,Mike Wright,5,8,13
-Franklin,101,State Representative,1,REP,Gary Van Deaver,403,164,567
-Franklin,102,State Representative,1,REP,Gary Van Deaver,132,138,270
-Franklin,201,State Representative,1,REP,Gary Van Deaver,232,93,325
-Franklin,202,State Representative,1,REP,Gary Van Deaver,279,142,421
-Franklin,301,State Representative,1,REP,Gary Van Deaver,292,123,415
-Franklin,302,State Representative,1,REP,Gary Van Deaver,152,212,364
-Franklin,401,State Representative,1,REP,Gary Van Deaver,442,206,648
-Franklin,402,State Representative,1,REP,Gary Van Deaver,222,194,416
+Franklin,102,Governor,,LIB,Mark Jay Tippetts,5,3,2
+Franklin,201,Governor,,LIB,Mark Jay Tippetts,3,1,2
+Franklin,202,Governor,,LIB,Mark Jay Tippetts,10,3,7
+Franklin,301,Governor,,LIB,Mark Jay Tippetts,10,2,8
+Franklin,302,Governor,,LIB,Mark Jay Tippetts,5,3,2
+Franklin,401,Governor,,LIB,Mark Jay Tippetts,8,3,5
+Franklin,402,Governor,,LIB,Mark Jay Tippetts,5,2,3
+Franklin,101,Lieutenant Governor,,REP,Dan Patrick,483,146,337
+Franklin,102,Lieutenant Governor,,REP,Dan Patrick,252,125,127
+Franklin,201,Lieutenant Governor,,REP,Dan Patrick,300,86,214
+Franklin,202,Lieutenant Governor,,REP,Dan Patrick,371,115,256
+Franklin,301,Lieutenant Governor,,REP,Dan Patrick,382,111,271
+Franklin,302,Lieutenant Governor,,REP,Dan Patrick,329,186,143
+Franklin,401,Lieutenant Governor,,REP,Dan Patrick,615,194,421
+Franklin,402,Lieutenant Governor,,REP,Dan Patrick,384,174,210
+Franklin,101,Lieutenant Governor,,DEM,Mike Collier,140,33,107
+Franklin,102,Lieutenant Governor,,DEM,Mike Collier,45,29,16
+Franklin,201,Lieutenant Governor,,DEM,Mike Collier,57,15,42
+Franklin,202,Lieutenant Governor,,DEM,Mike Collier,135,65,70
+Franklin,301,Lieutenant Governor,,DEM,Mike Collier,83,20,63
+Franklin,302,Lieutenant Governor,,DEM,Mike Collier,82,46,36
+Franklin,401,Lieutenant Governor,,DEM,Mike Collier,113,26,87
+Franklin,402,Lieutenant Governor,,DEM,Mike Collier,84,39,45
+Franklin,101,Lieutenant Governor,,LIB,Kerry Douglas McKennon,11,1,10
+Franklin,102,Lieutenant Governor,,LIB,Kerry Douglas McKennon,3,3,0
+Franklin,201,Lieutenant Governor,,LIB,Kerry Douglas McKennon,6,2,4
+Franklin,202,Lieutenant Governor,,LIB,Kerry Douglas McKennon,10,2,8
+Franklin,301,Lieutenant Governor,,LIB,Kerry Douglas McKennon,15,5,10
+Franklin,302,Lieutenant Governor,,LIB,Kerry Douglas McKennon,5,4,1
+Franklin,401,Lieutenant Governor,,LIB,Kerry Douglas McKennon,12,5,7
+Franklin,402,Lieutenant Governor,,LIB,Kerry Douglas McKennon,8,5,3
+Franklin,101,Attorney General,,REP,Ken Paxton,516,149,367
+Franklin,102,Attorney General,,REP,Ken Paxton,261,133,128
+Franklin,201,Attorney General,,REP,Ken Paxton,314,86,228
+Franklin,202,Attorney General,,REP,Ken Paxton,369,113,256
+Franklin,301,Attorney General,,REP,Ken Paxton,407,115,292
+Franklin,302,Attorney General,,REP,Ken Paxton,337,195,142
+Franklin,401,Attorney General,,REP,Ken Paxton,614,194,420
+Franklin,402,Attorney General,,REP,Ken Paxton,382,174,208
+Franklin,101,Attorney General,,DEM,Justin Nelson,115,28,87
+Franklin,102,Attorney General,,DEM,Justin Nelson,34,21,13
+Franklin,201,Attorney General,,DEM,Justin Nelson,34,11,23
+Franklin,202,Attorney General,,DEM,Justin Nelson,136,65,71
+Franklin,301,Attorney General,,DEM,Justin Nelson,60,14,46
+Franklin,302,Attorney General,,DEM,Justin Nelson,73,38,35
+Franklin,401,Attorney General,,DEM,Justin Nelson,112,26,86
+Franklin,402,Attorney General,,DEM,Justin Nelson,88,39,49
+Franklin,101,Attorney General,,LIB,Michael Ray Harris,11,3,8
+Franklin,102,Attorney General,,LIB,Michael Ray Harris,5,4,1
+Franklin,201,Attorney General,,LIB,Michael Ray Harris,9,4,5
+Franklin,202,Attorney General,,LIB,Michael Ray Harris,9,4,5
+Franklin,301,Attorney General,,LIB,Michael Ray Harris,11,5,6
+Franklin,302,Attorney General,,LIB,Michael Ray Harris,4,2,2
+Franklin,401,Attorney General,,LIB,Michael Ray Harris,11,6,5
+Franklin,402,Attorney General,,LIB,Michael Ray Harris,6,5,1
+Franklin,101,Comptroller of Public Accounts,,REP,Glenn Hegar,533,153,380
+Franklin,102,Comptroller of Public Accounts,,REP,Glenn Hegar,265,137,128
+Franklin,201,Comptroller of Public Accounts,,REP,Glenn Hegar,309,84,225
+Franklin,202,Comptroller of Public Accounts,,REP,Glenn Hegar,374,114,260
+Franklin,301,Comptroller of Public Accounts,,REP,Glenn Hegar,402,116,286
+Franklin,302,Comptroller of Public Accounts,,REP,Glenn Hegar,338,196,142
+Franklin,401,Comptroller of Public Accounts,,REP,Glenn Hegar,628,197,431
+Franklin,402,Comptroller of Public Accounts,,REP,Glenn Hegar,400,183,217
+Franklin,101,Comptroller of Public Accounts,,DEM,Joi Chevalier,88,24,64
+Franklin,102,Comptroller of Public Accounts,,DEM,Joi Chevalier,27,16,11
+Franklin,201,Comptroller of Public Accounts,,DEM,Joi Chevalier,33,10,23
+Franklin,202,Comptroller of Public Accounts,,DEM,Joi Chevalier,118,60,58
+Franklin,301,Comptroller of Public Accounts,,DEM,Joi Chevalier,52,12,40
+Franklin,302,Comptroller of Public Accounts,,DEM,Joi Chevalier,67,34,33
+Franklin,401,Comptroller of Public Accounts,,DEM,Joi Chevalier,93,22,71
+Franklin,402,Comptroller of Public Accounts,,DEM,Joi Chevalier,65,28,37
+Franklin,101,Comptroller of Public Accounts,,LIB,Ben Sanders,15,3,12
+Franklin,102,Comptroller of Public Accounts,,LIB,Ben Sanders,4,4,0
+Franklin,201,Comptroller of Public Accounts,,LIB,Ben Sanders,11,5,6
+Franklin,202,Comptroller of Public Accounts,,LIB,Ben Sanders,18,7,11
+Franklin,301,Comptroller of Public Accounts,,LIB,Ben Sanders,18,6,12
+Franklin,302,Comptroller of Public Accounts,,LIB,Ben Sanders,9,4,5
+Franklin,401,Comptroller of Public Accounts,,LIB,Ben Sanders,15,6,9
+Franklin,402,Comptroller of Public Accounts,,LIB,Ben Sanders,6,3,3
+Franklin,101,Commissioner of the General Land Office,,REP,George P. Bush,539,157,382
+Franklin,102,Commissioner of the General Land Office,,REP,George P. Bush,262,133,129
+Franklin,201,Commissioner of the General Land Office,,REP,George P. Bush,320,87,233
+Franklin,202,Commissioner of the General Land Office,,REP,George P. Bush,377,121,256
+Franklin,301,Commissioner of the General Land Office,,REP,George P. Bush,404,118,286
+Franklin,302,Commissioner of the General Land Office,,REP,George P. Bush,327,193,134
+Franklin,401,Commissioner of the General Land Office,,REP,George P. Bush,628,202,426
+Franklin,402,Commissioner of the General Land Office,,REP,George P. Bush,394,181,213
+Franklin,101,Commissioner of the General Land Office,,DEM,Miguel Suazo,79,20,59
+Franklin,102,Commissioner of the General Land Office,,DEM,Miguel Suazo,28,18,10
+Franklin,201,Commissioner of the General Land Office,,DEM,Miguel Suazo,31,10,21
+Franklin,202,Commissioner of the General Land Office,,DEM,Miguel Suazo,118,59,59
+Franklin,301,Commissioner of the General Land Office,,DEM,Miguel Suazo,55,12,43
+Franklin,302,Commissioner of the General Land Office,,DEM,Miguel Suazo,71,35,36
+Franklin,401,Commissioner of the General Land Office,,DEM,Miguel Suazo,90,18,72
+Franklin,402,Commissioner of the General Land Office,,DEM,Miguel Suazo,60,24,36
+Franklin,101,Commissioner of the General Land Office,,LIB,Matt Pina,19,4,15
+Franklin,102,Commissioner of the General Land Office,,LIB,Matt Pina,7,5,2
+Franklin,201,Commissioner of the General Land Office,,LIB,Matt Pina,9,3,6
+Franklin,202,Commissioner of the General Land Office,,LIB,Matt Pina,19,4,15
+Franklin,301,Commissioner of the General Land Office,,LIB,Matt Pina,18,3,15
+Franklin,302,Commissioner of the General Land Office,,LIB,Matt Pina,18,8,10
+Franklin,401,Commissioner of the General Land Office,,LIB,Matt Pina,20,6,14
+Franklin,402,Commissioner of the General Land Office,,LIB,Matt Pina,17,10,7
+Franklin,101,Commissioner of Agriculture,,REP,Sid Miller,524,153,371
+Franklin,102,Commissioner of Agriculture,,REP,Sid Miller,264,135,129
+Franklin,201,Commissioner of Agriculture,,REP,Sid Miller,304,83,221
+Franklin,202,Commissioner of Agriculture,,REP,Sid Miller,375,112,263
+Franklin,301,Commissioner of Agriculture,,REP,Sid Miller,400,116,284
+Franklin,302,Commissioner of Agriculture,,REP,Sid Miller,337,197,140
+Franklin,401,Commissioner of Agriculture,,REP,Sid Miller,615,192,423
+Franklin,402,Commissioner of Agriculture,,REP,Sid Miller,384,173,211
+Franklin,101,Commissioner of Agriculture,,DEM,Kim Olson,99,25,74
+Franklin,102,Commissioner of Agriculture,,DEM,Kim Olson,32,19,13
+Franklin,201,Commissioner of Agriculture,,DEM,Kim Olson,39,14,25
+Franklin,202,Commissioner of Agriculture,,DEM,Kim Olson,128,66,62
+Franklin,301,Commissioner of Agriculture,,DEM,Kim Olson,61,13,48
+Franklin,302,Commissioner of Agriculture,,DEM,Kim Olson,71,36,35
+Franklin,401,Commissioner of Agriculture,,DEM,Kim Olson,104,26,78
+Franklin,402,Commissioner of Agriculture,,DEM,Kim Olson,80,37,43
+Franklin,101,Commissioner of Agriculture,,LIB,Richard Carpenter,19,3,16
+Franklin,102,Commissioner of Agriculture,,LIB,Richard Carpenter,4,3,1
+Franklin,201,Commissioner of Agriculture,,LIB,Richard Carpenter,13,3,10
+Franklin,202,Commissioner of Agriculture,,LIB,Richard Carpenter,11,3,8
+Franklin,301,Commissioner of Agriculture,,LIB,Richard Carpenter,12,4,8
+Franklin,302,Commissioner of Agriculture,,LIB,Richard Carpenter,5,2,3
+Franklin,401,Commissioner of Agriculture,,LIB,Richard Carpenter,16,7,9
+Franklin,402,Commissioner of Agriculture,,LIB,Richard Carpenter,10,6,4
+Franklin,101,Railroad Commissioner,,REP,Christi Craddick,525,156,369
+Franklin,102,Railroad Commissioner,,REP,Christi Craddick,269,139,130
+Franklin,201,Railroad Commissioner,,REP,Christi Craddick,313,86,227
+Franklin,202,Railroad Commissioner,,REP,Christi Craddick,377,113,264
+Franklin,301,Railroad Commissioner,,REP,Christi Craddick,400,117,283
+Franklin,302,Railroad Commissioner,,REP,Christi Craddick,336,195,141
+Franklin,401,Railroad Commissioner,,REP,Christi Craddick,626,195,431
+Franklin,402,Railroad Commissioner,,REP,Christi Craddick,391,178,213
+Franklin,101,Railroad Commissioner,,DEM,Roman McAllen,88,20,68
+Franklin,102,Railroad Commissioner,,DEM,Roman McAllen,27,17,10
+Franklin,201,Railroad Commissioner,,DEM,Roman McAllen,32,12,20
+Franklin,202,Railroad Commissioner,,DEM,Roman McAllen,117,62,55
+Franklin,301,Railroad Commissioner,,DEM,Roman McAllen,60,12,48
+Franklin,302,Railroad Commissioner,,DEM,Roman McAllen,70,37,33
+Franklin,401,Railroad Commissioner,,DEM,Roman McAllen,91,20,71
+Franklin,402,Railroad Commissioner,,DEM,Roman McAllen,69,29,40
+Franklin,101,Railroad Commissioner,,LIB,Mike Wright,27,5,22
+Franklin,102,Railroad Commissioner,,LIB,Mike Wright,2,2,0
+Franklin,201,Railroad Commissioner,,LIB,Mike Wright,9,3,6
+Franklin,202,Railroad Commissioner,,LIB,Mike Wright,16,4,12
+Franklin,301,Railroad Commissioner,,LIB,Mike Wright,12,5,7
+Franklin,302,Railroad Commissioner,,LIB,Mike Wright,8,2,6
+Franklin,401,Railroad Commissioner,,LIB,Mike Wright,17,8,9
+Franklin,402,Railroad Commissioner,,LIB,Mike Wright,13,8,5
+Franklin,101,State Representative,1,REP,Gary Van Deaver,567,164,403
+Franklin,102,State Representative,1,REP,Gary Van Deaver,270,138,132
+Franklin,201,State Representative,1,REP,Gary Van Deaver,325,93,232
+Franklin,202,State Representative,1,REP,Gary Van Deaver,421,142,279
+Franklin,301,State Representative,1,REP,Gary Van Deaver,415,123,292
+Franklin,302,State Representative,1,REP,Gary Van Deaver,364,212,152
+Franklin,401,State Representative,1,REP,Gary Van Deaver,648,206,442
+Franklin,402,State Representative,1,REP,Gary Van Deaver,416,194,222
