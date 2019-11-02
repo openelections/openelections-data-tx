@@ -14,9 +14,12 @@ Pre-processed election results for Texas. These CSV files are converted from [or
 | 2010  |  not started | not started |
 | 2008  |  not started | not started |
 
-
 ## County Results
 
 Complete for elections from 2000 through 2018 primary.
 
 To contribute, email openelections@gmail.com or [find us on Twitter](https://twitter.com/openelex) and let us know what counties/elections you'd like to work on. You also can leave a comment on one of the [issues](https://github.com/openelections/openelections-data-tx/issues) in this repository. Volunteers can do as much or as little as they like - one county or all 254.
+
+## Results Notes
+
+* Sherman County 2018 primary results include three early voting columns: `early_voting`, `early_voting_os` and `early_voting_ts`. The last two refer to specific models of voting machines.
