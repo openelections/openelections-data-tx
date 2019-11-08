@@ -1,7 +1,7 @@
-county,precinct,office,district,party,candidate,votes,early_votes,election_day,absentee
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
 Nueces,1,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,1,U.S. Senate,,REP,Under Votes,3,1,2,0
-Nueces,1,Registered Voters,,REP,,1248,,
+Nueces,1,Registered Voters,,REP,,1248,,,
 Nueces,1,U.S. Senate,,REP,Stefano de Stefano,7,1,4,2
 Nueces,1,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,1,U.S. Senate,,REP,Under Votes,3,1,2,0
@@ -343,7 +343,7 @@ Nueces,1,Proposition No. 12,,DEM,Under Votes,7,4,2,1
 Nueces,1,Proposition No. 12,,DEM,NO,2,0,2,0
 Nueces,2,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,2,U.S. Senate,,REP,Under Votes,3,1,1,1
-Nueces,2,Registered Voters,,REP,,2479,,
+Nueces,2,Registered Voters,,REP,,2479,,,
 Nueces,2,U.S. Senate,,REP,Stefano de Stefano,7,3,4,0
 Nueces,2,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,2,U.S. Senate,,REP,Under Votes,3,1,1,1
@@ -671,7 +671,7 @@ Nueces,2,Proposition No. 12,,DEM,Under Votes,6,2,3,1
 Nueces,2,Proposition No. 12,,DEM,NO,2,0,1,1
 Nueces,3,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,3,U.S. Senate,,REP,Under Votes,3,0,3,0
-Nueces,3,Registered Voters,,REP,,3438,,
+Nueces,3,Registered Voters,,REP,,3438,,,
 Nueces,3,U.S. Senate,,REP,Stefano de Stefano,9,2,7,0
 Nueces,3,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,3,U.S. Senate,,REP,Under Votes,3,0,3,0
@@ -1010,7 +1010,7 @@ Nueces,3,Proposition No. 12,,DEM,Under Votes,14,4,9,1
 Nueces,3,Proposition No. 12,,DEM,NO,3,0,2,1
 Nueces,4,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,4,U.S. Senate,,REP,Under Votes,3,1,2,0
-Nueces,4,Registered Voters,,REP,,2414,,
+Nueces,4,Registered Voters,,REP,,2414,,,
 Nueces,4,U.S. Senate,,REP,Stefano de Stefano,4,2,2,0
 Nueces,4,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,4,U.S. Senate,,REP,Under Votes,3,1,2,0
@@ -1341,7 +1341,7 @@ Nueces,4,Proposition No. 12,,DEM,Under Votes,8,4,4,0
 Nueces,4,Proposition No. 12,,DEM,NO,5,2,1,2
 Nueces,5,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,5,U.S. Senate,,REP,Under Votes,6,4,2,0
-Nueces,5,Registered Voters,,REP,,1497,,
+Nueces,5,Registered Voters,,REP,,1497,,,
 Nueces,5,U.S. Senate,,REP,Stefano de Stefano,12,1,11,0
 Nueces,5,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,5,U.S. Senate,,REP,Under Votes,6,4,2,0
@@ -1672,7 +1672,7 @@ Nueces,5,Proposition No. 12,,DEM,Under Votes,5,0,4,1
 Nueces,5,Proposition No. 12,,DEM,NO,3,1,2,0
 Nueces,6,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,6,U.S. Senate,,REP,Under Votes,4,1,3,0
-Nueces,6,Registered Voters,,REP,,3380,,
+Nueces,6,Registered Voters,,REP,,3380,,,
 Nueces,6,U.S. Senate,,REP,Stefano de Stefano,9,3,6,0
 Nueces,6,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,6,U.S. Senate,,REP,Under Votes,4,1,3,0
@@ -2003,7 +2003,7 @@ Nueces,6,Proposition No. 12,,DEM,Under Votes,4,1,3,0
 Nueces,6,Proposition No. 12,,DEM,NO,3,1,2,0
 Nueces,7,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,7,U.S. Senate,,REP,Under Votes,1,0,1,0
-Nueces,7,Registered Voters,,REP,,745,,
+Nueces,7,Registered Voters,,REP,,745,,,
 Nueces,7,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,7,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,7,U.S. Senate,,REP,Under Votes,1,0,1,0
@@ -2345,7 +2345,7 @@ Nueces,7,Proposition No. 12,,DEM,Under Votes,1,1,0,0
 Nueces,7,Proposition No. 12,,DEM,NO,1,0,0,1
 Nueces,8,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,8,U.S. Senate,,REP,Under Votes,6,3,3,0
-Nueces,8,Registered Voters,,REP,,3946,,
+Nueces,8,Registered Voters,,REP,,3946,,,
 Nueces,8,U.S. Senate,,REP,Stefano de Stefano,6,3,3,0
 Nueces,8,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,8,U.S. Senate,,REP,Under Votes,6,3,3,0
@@ -2680,7 +2680,7 @@ Nueces,8,Proposition No. 12,,DEM,Under Votes,7,3,4,0
 Nueces,8,Proposition No. 12,,DEM,NO,6,1,3,2
 Nueces,157,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,157,U.S. Senate,,REP,Under Votes,7,2,5,0
-Nueces,157,Registered Voters,,REP,,1936,,
+Nueces,157,Registered Voters,,REP,,1936,,,
 Nueces,157,U.S. Senate,,REP,Stefano de Stefano,1,1,0,0
 Nueces,157,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,157,U.S. Senate,,REP,Under Votes,7,2,5,0
@@ -3022,7 +3022,7 @@ Nueces,157,Proposition No. 12,,DEM,Under Votes,3,2,0,1
 Nueces,157,Proposition No. 12,,DEM,NO,5,4,1,0
 Nueces,10,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,10,U.S. Senate,,REP,Under Votes,3,2,1,0
-Nueces,10,Registered Voters,,REP,,1054,,
+Nueces,10,Registered Voters,,REP,,1054,,,
 Nueces,10,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,10,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,10,U.S. Senate,,REP,Under Votes,3,2,1,0
@@ -3358,7 +3358,7 @@ Nueces,10,Proposition No. 12,,DEM,Under Votes,14,7,7,0
 Nueces,10,Proposition No. 12,,DEM,NO,5,2,3,0
 Nueces,11,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,11,U.S. Senate,,REP,Under Votes,1,1,0,0
-Nueces,11,Registered Voters,,REP,,605,,
+Nueces,11,Registered Voters,,REP,,605,,,
 Nueces,11,U.S. Senate,,REP,Stefano de Stefano,1,1,0,0
 Nueces,11,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,11,U.S. Senate,,REP,Under Votes,1,1,0,0
@@ -3688,7 +3688,7 @@ Nueces,11,Proposition No. 12,,DEM,Under Votes,42,20,22,0
 Nueces,11,Proposition No. 12,,DEM,NO,7,3,4,0
 Nueces,12,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,12,U.S. Senate,,REP,Under Votes,3,2,0,1
-Nueces,12,Registered Voters,,REP,,1236,,
+Nueces,12,Registered Voters,,REP,,1236,,,
 Nueces,12,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,12,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,12,U.S. Senate,,REP,Under Votes,3,2,0,1
@@ -4018,7 +4018,7 @@ Nueces,12,Proposition No. 12,,DEM,Under Votes,83,44,36,3
 Nueces,12,Proposition No. 12,,DEM,NO,7,1,6,0
 Nueces,13,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,13,U.S. Senate,,REP,Under Votes,1,1,0,0
-Nueces,13,Registered Voters,,REP,,1129,,
+Nueces,13,Registered Voters,,REP,,1129,,,
 Nueces,13,U.S. Senate,,REP,Stefano de Stefano,1,0,1,0
 Nueces,13,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,13,U.S. Senate,,REP,Under Votes,1,1,0,0
@@ -4348,7 +4348,7 @@ Nueces,13,Proposition No. 12,,DEM,Under Votes,29,17,3,9
 Nueces,13,Proposition No. 12,,DEM,NO,3,1,0,2
 Nueces,14,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,14,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,14,Registered Voters,,REP,,343,,
+Nueces,14,Registered Voters,,REP,,343,,,
 Nueces,14,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,14,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,14,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -4680,7 +4680,7 @@ Nueces,14,Proposition No. 12,,DEM,Under Votes,0,0,0,0
 Nueces,14,Proposition No. 12,,DEM,NO,1,0,1,0
 Nueces,15,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,15,U.S. Senate,,REP,Under Votes,1,0,1,0
-Nueces,15,Registered Voters,,REP,,936,,
+Nueces,15,Registered Voters,,REP,,936,,,
 Nueces,15,U.S. Senate,,REP,Stefano de Stefano,1,1,0,0
 Nueces,15,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,15,U.S. Senate,,REP,Under Votes,1,0,1,0
@@ -5019,7 +5019,7 @@ Nueces,15,Proposition No. 12,,DEM,Under Votes,3,1,2,0
 Nueces,15,Proposition No. 12,,DEM,NO,0,0,0,0
 Nueces,16,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,16,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,16,Registered Voters,,REP,,525,,
+Nueces,16,Registered Voters,,REP,,525,,,
 Nueces,16,U.S. Senate,,REP,Stefano de Stefano,1,0,0,1
 Nueces,16,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,16,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -5353,7 +5353,7 @@ Nueces,16,Proposition No. 12,,DEM,Under Votes,0,0,0,0
 Nueces,16,Proposition No. 12,,DEM,NO,0,0,0,0
 Nueces,17,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,17,U.S. Senate,,REP,Under Votes,1,1,0,0
-Nueces,17,Registered Voters,,REP,,2911,,
+Nueces,17,Registered Voters,,REP,,2911,,,
 Nueces,17,U.S. Senate,,REP,Stefano de Stefano,5,3,2,0
 Nueces,17,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,17,U.S. Senate,,REP,Under Votes,1,1,0,0
@@ -5681,7 +5681,7 @@ Nueces,17,Proposition No. 12,,DEM,Under Votes,9,4,2,3
 Nueces,17,Proposition No. 12,,DEM,NO,4,1,2,1
 Nueces,18,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,18,U.S. Senate,,REP,Under Votes,4,3,1,0
-Nueces,18,Registered Voters,,REP,,3037,,
+Nueces,18,Registered Voters,,REP,,3037,,,
 Nueces,18,U.S. Senate,,REP,Stefano de Stefano,3,2,1,0
 Nueces,18,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,18,U.S. Senate,,REP,Under Votes,4,3,1,0
@@ -6012,7 +6012,7 @@ Nueces,18,Proposition No. 12,,DEM,Under Votes,1,0,1,0
 Nueces,18,Proposition No. 12,,DEM,NO,3,2,1,0
 Nueces,19,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,19,U.S. Senate,,REP,Under Votes,13,6,4,3
-Nueces,19,Registered Voters,,REP,,3237,,
+Nueces,19,Registered Voters,,REP,,3237,,,
 Nueces,19,U.S. Senate,,REP,Stefano de Stefano,14,5,9,0
 Nueces,19,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,19,U.S. Senate,,REP,Under Votes,13,6,4,3
@@ -6341,7 +6341,7 @@ Nueces,19,Proposition No. 12,,DEM,Under Votes,10,2,7,1
 Nueces,19,Proposition No. 12,,DEM,NO,5,1,4,0
 Nueces,20,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,20,U.S. Senate,,REP,Under Votes,1,0,1,0
-Nueces,20,Registered Voters,,REP,,2864,,
+Nueces,20,Registered Voters,,REP,,2864,,,
 Nueces,20,U.S. Senate,,REP,Stefano de Stefano,2,2,0,0
 Nueces,20,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,20,U.S. Senate,,REP,Under Votes,1,0,1,0
@@ -6677,7 +6677,7 @@ Nueces,20,Proposition No. 12,,DEM,Under Votes,5,3,1,1
 Nueces,20,Proposition No. 12,,DEM,NO,5,3,2,0
 Nueces,21,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,21,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,21,Registered Voters,,REP,,459,,
+Nueces,21,Registered Voters,,REP,,459,,,
 Nueces,21,U.S. Senate,,REP,Stefano de Stefano,4,1,3,0
 Nueces,21,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,21,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -7019,7 +7019,7 @@ Nueces,21,Proposition No. 12,,DEM,Under Votes,0,0,0,0
 Nueces,21,Proposition No. 12,,DEM,NO,0,0,0,0
 Nueces,22,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,22,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,22,Registered Voters,,REP,,419,,
+Nueces,22,Registered Voters,,REP,,419,,,
 Nueces,22,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,22,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,22,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -7351,7 +7351,7 @@ Nueces,22,Proposition No. 12,,DEM,Under Votes,0,0,0,0
 Nueces,22,Proposition No. 12,,DEM,NO,0,0,0,0
 Nueces,23,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,23,U.S. Senate,,REP,Under Votes,7,2,4,1
-Nueces,23,Registered Voters,,REP,,2057,,
+Nueces,23,Registered Voters,,REP,,2057,,,
 Nueces,23,U.S. Senate,,REP,Stefano de Stefano,3,1,2,0
 Nueces,23,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,23,U.S. Senate,,REP,Under Votes,7,2,4,1
@@ -7687,7 +7687,7 @@ Nueces,23,Proposition No. 12,,DEM,Under Votes,4,1,3,0
 Nueces,23,Proposition No. 12,,DEM,NO,7,3,2,2
 Nueces,24,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,24,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,24,Registered Voters,,REP,,856,,
+Nueces,24,Registered Voters,,REP,,856,,,
 Nueces,24,U.S. Senate,,REP,Stefano de Stefano,1,0,1,0
 Nueces,24,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,24,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -8023,7 +8023,7 @@ Nueces,24,Proposition No. 12,,DEM,Under Votes,1,0,0,1
 Nueces,24,Proposition No. 12,,DEM,NO,1,0,1,0
 Nueces,25,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,25,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,25,Registered Voters,,REP,,484,,
+Nueces,25,Registered Voters,,REP,,484,,,
 Nueces,25,U.S. Senate,,REP,Stefano de Stefano,1,0,1,0
 Nueces,25,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,25,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -8359,7 +8359,7 @@ Nueces,25,Proposition No. 12,,DEM,Under Votes,9,5,4,0
 Nueces,25,Proposition No. 12,,DEM,NO,1,0,1,0
 Nueces,26,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,26,U.S. Senate,,REP,Under Votes,5,1,4,0
-Nueces,26,Registered Voters,,REP,,4102,,
+Nueces,26,Registered Voters,,REP,,4102,,,
 Nueces,26,U.S. Senate,,REP,Stefano de Stefano,21,14,4,3
 Nueces,26,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,26,U.S. Senate,,REP,Under Votes,5,1,4,0
@@ -8690,7 +8690,7 @@ Nueces,26,Proposition No. 12,,DEM,Under Votes,6,4,2,0
 Nueces,26,Proposition No. 12,,DEM,NO,3,1,2,0
 Nueces,27,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,27,U.S. Senate,,REP,Under Votes,1,0,0,1
-Nueces,27,Registered Voters,,REP,,754,,
+Nueces,27,Registered Voters,,REP,,754,,,
 Nueces,27,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,27,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,27,U.S. Senate,,REP,Under Votes,1,0,0,1
@@ -9019,7 +9019,7 @@ Nueces,27,Proposition No. 12,,DEM,Under Votes,1,0,1,0
 Nueces,27,Proposition No. 12,,DEM,NO,0,0,0,0
 Nueces,28,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,28,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,28,Registered Voters,,REP,,206,,
+Nueces,28,Registered Voters,,REP,,206,,,
 Nueces,28,U.S. Senate,,REP,Stefano de Stefano,3,2,1,0
 Nueces,28,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,28,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -9355,7 +9355,7 @@ Nueces,28,Proposition No. 12,,DEM,Under Votes,0,0,0,0
 Nueces,28,Proposition No. 12,,DEM,NO,0,0,0,0
 Nueces,29,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,29,U.S. Senate,,REP,Under Votes,2,1,1,0
-Nueces,29,Registered Voters,,REP,,3036,,
+Nueces,29,Registered Voters,,REP,,3036,,,
 Nueces,29,U.S. Senate,,REP,Stefano de Stefano,7,2,5,0
 Nueces,29,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,29,U.S. Senate,,REP,Under Votes,2,1,1,0
@@ -9689,7 +9689,7 @@ Nueces,29,Proposition No. 12,,DEM,Under Votes,5,2,2,1
 Nueces,29,Proposition No. 12,,DEM,NO,6,2,3,1
 Nueces,30,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,30,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,30,Registered Voters,,REP,,337,,
+Nueces,30,Registered Voters,,REP,,337,,,
 Nueces,30,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,30,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,30,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -10028,7 +10028,7 @@ Nueces,30,Proposition No. 12,,DEM,Under Votes,0,0,0,0
 Nueces,30,Proposition No. 12,,DEM,NO,0,0,0,0
 Nueces,31,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,31,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,31,Registered Voters,,REP,,651,,
+Nueces,31,Registered Voters,,REP,,651,,,
 Nueces,31,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,31,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,31,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -10367,7 +10367,7 @@ Nueces,31,Proposition No. 12,,DEM,Under Votes,2,1,1,0
 Nueces,31,Proposition No. 12,,DEM,NO,0,0,0,0
 Nueces,32,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,32,U.S. Senate,,REP,Under Votes,4,1,3,0
-Nueces,32,Registered Voters,,REP,,1982,,
+Nueces,32,Registered Voters,,REP,,1982,,,
 Nueces,32,U.S. Senate,,REP,Stefano de Stefano,5,1,4,0
 Nueces,32,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,32,U.S. Senate,,REP,Under Votes,4,1,3,0
@@ -10698,7 +10698,7 @@ Nueces,32,Proposition No. 12,,DEM,Under Votes,3,1,0,2
 Nueces,32,Proposition No. 12,,DEM,NO,4,4,0,0
 Nueces,33,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,33,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,33,Registered Voters,,REP,,1137,,
+Nueces,33,Registered Voters,,REP,,1137,,,
 Nueces,33,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,33,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,33,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -11037,7 +11037,7 @@ Nueces,33,Proposition No. 12,,DEM,Under Votes,0,0,0,0
 Nueces,33,Proposition No. 12,,DEM,NO,1,0,0,1
 Nueces,34,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,34,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,34,Registered Voters,,REP,,483,,
+Nueces,34,Registered Voters,,REP,,483,,,
 Nueces,34,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,34,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,34,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -11373,7 +11373,7 @@ Nueces,34,Proposition No. 12,,DEM,Under Votes,3,1,0,2
 Nueces,34,Proposition No. 12,,DEM,NO,0,0,0,0
 Nueces,35,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,35,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,35,Registered Voters,,REP,,854,,
+Nueces,35,Registered Voters,,REP,,854,,,
 Nueces,35,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,35,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,35,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -11703,7 +11703,7 @@ Nueces,35,Proposition No. 12,,DEM,Under Votes,24,18,3,3
 Nueces,35,Proposition No. 12,,DEM,NO,3,2,1,0
 Nueces,36,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,36,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,36,Registered Voters,,REP,,900,,
+Nueces,36,Registered Voters,,REP,,900,,,
 Nueces,36,U.S. Senate,,REP,Stefano de Stefano,2,0,2,0
 Nueces,36,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,36,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -12035,7 +12035,7 @@ Nueces,36,Proposition No. 12,,DEM,Under Votes,5,0,2,3
 Nueces,36,Proposition No. 12,,DEM,NO,1,0,1,0
 Nueces,37,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,37,U.S. Senate,,REP,Under Votes,1,1,0,0
-Nueces,37,Registered Voters,,REP,,1331,,
+Nueces,37,Registered Voters,,REP,,1331,,,
 Nueces,37,U.S. Senate,,REP,Stefano de Stefano,1,1,0,0
 Nueces,37,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,37,U.S. Senate,,REP,Under Votes,1,1,0,0
@@ -12365,7 +12365,7 @@ Nueces,37,Proposition No. 12,,DEM,Under Votes,23,16,6,1
 Nueces,37,Proposition No. 12,,DEM,NO,1,1,0,0
 Nueces,38,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,38,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,38,Registered Voters,,REP,,654,,
+Nueces,38,Registered Voters,,REP,,654,,,
 Nueces,38,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,38,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,38,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -12704,7 +12704,7 @@ Nueces,38,Proposition No. 12,,DEM,Under Votes,0,0,0,0
 Nueces,38,Proposition No. 12,,DEM,NO,0,0,0,0
 Nueces,39,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,39,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,39,Registered Voters,,REP,,608,,
+Nueces,39,Registered Voters,,REP,,608,,,
 Nueces,39,U.S. Senate,,REP,Stefano de Stefano,5,3,2,0
 Nueces,39,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,39,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -13043,7 +13043,7 @@ Nueces,39,Proposition No. 12,,DEM,Under Votes,5,2,2,1
 Nueces,39,Proposition No. 12,,DEM,NO,0,0,0,0
 Nueces,40,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,40,U.S. Senate,,REP,Under Votes,18,5,11,2
-Nueces,40,Registered Voters,,REP,,3803,,
+Nueces,40,Registered Voters,,REP,,3803,,,
 Nueces,40,U.S. Senate,,REP,Stefano de Stefano,32,11,17,4
 Nueces,40,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,40,U.S. Senate,,REP,Under Votes,18,5,11,2
@@ -13372,7 +13372,7 @@ Nueces,40,Proposition No. 12,,DEM,Under Votes,3,0,3,0
 Nueces,40,Proposition No. 12,,DEM,NO,2,0,2,0
 Nueces,41,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,41,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,41,Registered Voters,,REP,,446,,
+Nueces,41,Registered Voters,,REP,,446,,,
 Nueces,41,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,41,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,41,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -13714,7 +13714,7 @@ Nueces,41,Proposition No. 12,,DEM,Under Votes,0,0,0,0
 Nueces,41,Proposition No. 12,,DEM,NO,0,0,0,0
 Nueces,42,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,42,U.S. Senate,,REP,Under Votes,2,1,1,0
-Nueces,42,Registered Voters,,REP,,375,,
+Nueces,42,Registered Voters,,REP,,375,,,
 Nueces,42,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,42,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,42,U.S. Senate,,REP,Under Votes,2,1,1,0
@@ -14053,7 +14053,7 @@ Nueces,42,Proposition No. 12,,DEM,Under Votes,2,0,2,0
 Nueces,42,Proposition No. 12,,DEM,NO,0,0,0,0
 Nueces,43,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,43,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,43,Registered Voters,,REP,,588,,
+Nueces,43,Registered Voters,,REP,,588,,,
 Nueces,43,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,43,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,43,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -14395,7 +14395,7 @@ Nueces,43,Proposition No. 12,,DEM,Under Votes,2,0,2,0
 Nueces,43,Proposition No. 12,,DEM,NO,0,0,0,0
 Nueces,44,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,44,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,44,Registered Voters,,REP,,1007,,
+Nueces,44,Registered Voters,,REP,,1007,,,
 Nueces,44,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,44,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,44,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -14737,7 +14737,7 @@ Nueces,44,Proposition No. 12,,DEM,Under Votes,3,1,2,0
 Nueces,44,Proposition No. 12,,DEM,NO,1,1,0,0
 Nueces,45,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,45,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,45,Registered Voters,,REP,,617,,
+Nueces,45,Registered Voters,,REP,,617,,,
 Nueces,45,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,45,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,45,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -15079,7 +15079,7 @@ Nueces,45,Proposition No. 12,,DEM,Under Votes,1,0,1,0
 Nueces,45,Proposition No. 12,,DEM,NO,1,0,0,1
 Nueces,46,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,46,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,46,Registered Voters,,REP,,356,,
+Nueces,46,Registered Voters,,REP,,356,,,
 Nueces,46,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,46,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,46,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -15421,7 +15421,7 @@ Nueces,46,Proposition No. 12,,DEM,Under Votes,0,0,0,0
 Nueces,46,Proposition No. 12,,DEM,NO,0,0,0,0
 Nueces,47,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,47,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,47,Registered Voters,,REP,,477,,
+Nueces,47,Registered Voters,,REP,,477,,,
 Nueces,47,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,47,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,47,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -15763,7 +15763,7 @@ Nueces,47,Proposition No. 12,,DEM,Under Votes,0,0,0,0
 Nueces,47,Proposition No. 12,,DEM,NO,1,1,0,0
 Nueces,48,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,48,U.S. Senate,,REP,Under Votes,2,1,1,0
-Nueces,48,Registered Voters,,REP,,1360,,
+Nueces,48,Registered Voters,,REP,,1360,,,
 Nueces,48,U.S. Senate,,REP,Stefano de Stefano,1,0,1,0
 Nueces,48,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,48,U.S. Senate,,REP,Under Votes,2,1,1,0
@@ -16094,7 +16094,7 @@ Nueces,48,Proposition No. 12,,DEM,Under Votes,4,1,3,0
 Nueces,48,Proposition No. 12,,DEM,NO,3,1,2,0
 Nueces,49,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,49,U.S. Senate,,REP,Under Votes,2,1,1,0
-Nueces,49,Registered Voters,,REP,,978,,
+Nueces,49,Registered Voters,,REP,,978,,,
 Nueces,49,U.S. Senate,,REP,Stefano de Stefano,3,1,2,0
 Nueces,49,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,49,U.S. Senate,,REP,Under Votes,2,1,1,0
@@ -16436,7 +16436,7 @@ Nueces,49,Proposition No. 12,,DEM,Under Votes,1,1,0,0
 Nueces,49,Proposition No. 12,,DEM,NO,1,0,1,0
 Nueces,50,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,50,U.S. Senate,,REP,Under Votes,1,1,0,0
-Nueces,50,Registered Voters,,REP,,476,,
+Nueces,50,Registered Voters,,REP,,476,,,
 Nueces,50,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,50,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,50,U.S. Senate,,REP,Under Votes,1,1,0,0
@@ -16764,7 +16764,7 @@ Nueces,50,Proposition No. 12,,DEM,Under Votes,2,0,2,0
 Nueces,50,Proposition No. 12,,DEM,NO,1,0,1,0
 Nueces,51,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,51,U.S. Senate,,REP,Under Votes,1,0,1,0
-Nueces,51,Registered Voters,,REP,,2097,,
+Nueces,51,Registered Voters,,REP,,2097,,,
 Nueces,51,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,51,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,51,U.S. Senate,,REP,Under Votes,1,0,1,0
@@ -17106,7 +17106,7 @@ Nueces,51,Proposition No. 12,,DEM,Under Votes,1,0,1,0
 Nueces,51,Proposition No. 12,,DEM,NO,4,0,1,3
 Nueces,52,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,52,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,52,Registered Voters,,REP,,834,,
+Nueces,52,Registered Voters,,REP,,834,,,
 Nueces,52,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,52,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,52,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -17448,7 +17448,7 @@ Nueces,52,Proposition No. 12,,DEM,Under Votes,2,2,0,0
 Nueces,52,Proposition No. 12,,DEM,NO,1,0,1,0
 Nueces,53,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,53,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,53,Registered Voters,,REP,,713,,
+Nueces,53,Registered Voters,,REP,,713,,,
 Nueces,53,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,53,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,53,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -17782,7 +17782,7 @@ Nueces,53,Proposition No. 12,,DEM,Under Votes,2,1,1,0
 Nueces,53,Proposition No. 12,,DEM,NO,2,0,1,1
 Nueces,54,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,54,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,54,Registered Voters,,REP,,1314,,
+Nueces,54,Registered Voters,,REP,,1314,,,
 Nueces,54,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,54,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,54,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -18112,7 +18112,7 @@ Nueces,54,Proposition No. 12,,DEM,Under Votes,31,21,5,5
 Nueces,54,Proposition No. 12,,DEM,NO,6,3,3,0
 Nueces,55,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,55,U.S. Senate,,REP,Under Votes,1,0,1,0
-Nueces,55,Registered Voters,,REP,,1003,,
+Nueces,55,Registered Voters,,REP,,1003,,,
 Nueces,55,U.S. Senate,,REP,Stefano de Stefano,1,0,1,0
 Nueces,55,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,55,U.S. Senate,,REP,Under Votes,1,0,1,0
@@ -18442,7 +18442,7 @@ Nueces,55,Proposition No. 12,,DEM,Under Votes,37,27,7,3
 Nueces,55,Proposition No. 12,,DEM,NO,1,1,0,0
 Nueces,56,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,56,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,56,Registered Voters,,REP,,1167,,
+Nueces,56,Registered Voters,,REP,,1167,,,
 Nueces,56,U.S. Senate,,REP,Stefano de Stefano,1,0,1,0
 Nueces,56,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,56,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -18778,7 +18778,7 @@ Nueces,56,Proposition No. 12,,DEM,Under Votes,3,0,1,2
 Nueces,56,Proposition No. 12,,DEM,NO,0,0,0,0
 Nueces,57,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,57,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,57,Registered Voters,,REP,,786,,
+Nueces,57,Registered Voters,,REP,,786,,,
 Nueces,57,U.S. Senate,,REP,Stefano de Stefano,1,0,1,0
 Nueces,57,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,57,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -19111,7 +19111,7 @@ Nueces,57,Proposition No. 12,,DEM,Under Votes,1,0,1,0
 Nueces,57,Proposition No. 12,,DEM,NO,0,0,0,0
 Nueces,58,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,58,U.S. Senate,,REP,Under Votes,7,5,2,0
-Nueces,58,Registered Voters,,REP,,1165,,
+Nueces,58,Registered Voters,,REP,,1165,,,
 Nueces,58,U.S. Senate,,REP,Stefano de Stefano,8,1,7,0
 Nueces,58,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,58,U.S. Senate,,REP,Under Votes,7,5,2,0
@@ -19450,7 +19450,7 @@ Nueces,58,Proposition No. 12,,DEM,Under Votes,5,2,2,1
 Nueces,58,Proposition No. 12,,DEM,NO,4,1,3,0
 Nueces,59,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,59,U.S. Senate,,REP,Under Votes,5,0,5,0
-Nueces,59,Registered Voters,,REP,,1467,,
+Nueces,59,Registered Voters,,REP,,1467,,,
 Nueces,59,U.S. Senate,,REP,Stefano de Stefano,8,5,3,0
 Nueces,59,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,59,U.S. Senate,,REP,Under Votes,5,0,5,0
@@ -19789,7 +19789,7 @@ Nueces,59,Proposition No. 12,,DEM,Under Votes,3,1,2,0
 Nueces,59,Proposition No. 12,,DEM,NO,4,2,2,0
 Nueces,60,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,60,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,60,Registered Voters,,REP,,1095,,
+Nueces,60,Registered Voters,,REP,,1095,,,
 Nueces,60,U.S. Senate,,REP,Stefano de Stefano,1,0,1,0
 Nueces,60,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,60,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -20131,7 +20131,7 @@ Nueces,60,Proposition No. 12,,DEM,Under Votes,3,1,1,1
 Nueces,60,Proposition No. 12,,DEM,NO,1,1,0,0
 Nueces,61,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,61,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,61,Registered Voters,,REP,,806,,
+Nueces,61,Registered Voters,,REP,,806,,,
 Nueces,61,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,61,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,61,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -20473,7 +20473,7 @@ Nueces,61,Proposition No. 12,,DEM,Under Votes,3,2,1,0
 Nueces,61,Proposition No. 12,,DEM,NO,1,1,0,0
 Nueces,62,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,62,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,62,Registered Voters,,REP,,896,,
+Nueces,62,Registered Voters,,REP,,896,,,
 Nueces,62,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,62,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,62,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -20812,7 +20812,7 @@ Nueces,62,Proposition No. 12,,DEM,Under Votes,0,0,0,0
 Nueces,62,Proposition No. 12,,DEM,NO,1,0,0,1
 Nueces,63,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,63,U.S. Senate,,REP,Under Votes,12,4,7,1
-Nueces,63,Registered Voters,,REP,,2259,,
+Nueces,63,Registered Voters,,REP,,2259,,,
 Nueces,63,U.S. Senate,,REP,Stefano de Stefano,30,8,21,1
 Nueces,63,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,63,U.S. Senate,,REP,Under Votes,12,4,7,1
@@ -21145,7 +21145,7 @@ Nueces,63,Proposition No. 12,,DEM,Under Votes,20,8,12,0
 Nueces,63,Proposition No. 12,,DEM,NO,7,3,3,1
 Nueces,64,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,64,U.S. Senate,,REP,Under Votes,9,3,5,1
-Nueces,64,Registered Voters,,REP,,880,,
+Nueces,64,Registered Voters,,REP,,880,,,
 Nueces,64,U.S. Senate,,REP,Stefano de Stefano,14,5,9,0
 Nueces,64,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,64,U.S. Senate,,REP,Under Votes,9,3,5,1
@@ -21478,7 +21478,7 @@ Nueces,64,Proposition No. 12,,DEM,Under Votes,3,2,0,1
 Nueces,64,Proposition No. 12,,DEM,NO,3,1,2,0
 Nueces,65,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,65,U.S. Senate,,REP,Under Votes,9,5,4,0
-Nueces,65,Registered Voters,,REP,,3165,,
+Nueces,65,Registered Voters,,REP,,3165,,,
 Nueces,65,U.S. Senate,,REP,Stefano de Stefano,35,9,25,1
 Nueces,65,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,65,U.S. Senate,,REP,Under Votes,9,5,4,0
@@ -21809,7 +21809,7 @@ Nueces,65,Proposition No. 12,,DEM,Under Votes,13,1,8,4
 Nueces,65,Proposition No. 12,,DEM,NO,6,3,3,0
 Nueces,66,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,66,U.S. Senate,,REP,Under Votes,2,1,1,0
-Nueces,66,Registered Voters,,REP,,1393,,
+Nueces,66,Registered Voters,,REP,,1393,,,
 Nueces,66,U.S. Senate,,REP,Stefano de Stefano,6,0,6,0
 Nueces,66,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,66,U.S. Senate,,REP,Under Votes,2,1,1,0
@@ -22137,7 +22137,7 @@ Nueces,66,Proposition No. 12,,DEM,Under Votes,2,2,0,0
 Nueces,66,Proposition No. 12,,DEM,NO,1,0,1,0
 Nueces,67,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,67,U.S. Senate,,REP,Under Votes,5,1,1,3
-Nueces,67,Registered Voters,,REP,,3579,,
+Nueces,67,Registered Voters,,REP,,3579,,,
 Nueces,67,U.S. Senate,,REP,Stefano de Stefano,15,9,5,1
 Nueces,67,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,67,U.S. Senate,,REP,Under Votes,5,1,1,3
@@ -22468,7 +22468,7 @@ Nueces,67,Proposition No. 12,,DEM,Under Votes,3,1,2,0
 Nueces,67,Proposition No. 12,,DEM,NO,2,2,0,0
 Nueces,68,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,68,U.S. Senate,,REP,Under Votes,3,2,0,1
-Nueces,68,Registered Voters,,REP,,1047,,
+Nueces,68,Registered Voters,,REP,,1047,,,
 Nueces,68,U.S. Senate,,REP,Stefano de Stefano,2,1,0,1
 Nueces,68,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,68,U.S. Senate,,REP,Under Votes,3,2,0,1
@@ -22796,7 +22796,7 @@ Nueces,68,Proposition No. 12,,DEM,Under Votes,1,0,0,1
 Nueces,68,Proposition No. 12,,DEM,NO,3,1,2,0
 Nueces,69,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,69,U.S. Senate,,REP,Under Votes,3,1,1,1
-Nueces,69,Registered Voters,,REP,,1799,,
+Nueces,69,Registered Voters,,REP,,1799,,,
 Nueces,69,U.S. Senate,,REP,Stefano de Stefano,2,1,1,0
 Nueces,69,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,69,U.S. Senate,,REP,Under Votes,3,1,1,1
@@ -23127,7 +23127,7 @@ Nueces,69,Proposition No. 12,,DEM,Under Votes,6,3,3,0
 Nueces,69,Proposition No. 12,,DEM,NO,3,1,2,0
 Nueces,70,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,70,U.S. Senate,,REP,Under Votes,2,1,1,0
-Nueces,70,Registered Voters,,REP,,2677,,
+Nueces,70,Registered Voters,,REP,,2677,,,
 Nueces,70,U.S. Senate,,REP,Stefano de Stefano,1,1,0,0
 Nueces,70,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,70,U.S. Senate,,REP,Under Votes,2,1,1,0
@@ -23455,7 +23455,7 @@ Nueces,70,Proposition No. 12,,DEM,Under Votes,4,1,2,1
 Nueces,70,Proposition No. 12,,DEM,NO,9,3,3,3
 Nueces,71,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,71,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,71,Registered Voters,,REP,,1633,,
+Nueces,71,Registered Voters,,REP,,1633,,,
 Nueces,71,U.S. Senate,,REP,Stefano de Stefano,1,1,0,0
 Nueces,71,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,71,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -23789,7 +23789,7 @@ Nueces,71,Proposition No. 12,,DEM,Under Votes,5,2,3,0
 Nueces,71,Proposition No. 12,,DEM,NO,2,1,1,0
 Nueces,72,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,72,U.S. Senate,,REP,Under Votes,1,0,1,0
-Nueces,72,Registered Voters,,REP,,1565,,
+Nueces,72,Registered Voters,,REP,,1565,,,
 Nueces,72,U.S. Senate,,REP,Stefano de Stefano,2,0,2,0
 Nueces,72,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,72,U.S. Senate,,REP,Under Votes,1,0,1,0
@@ -24120,7 +24120,7 @@ Nueces,72,Proposition No. 12,,DEM,Under Votes,4,3,0,1
 Nueces,72,Proposition No. 12,,DEM,NO,1,1,0,0
 Nueces,73,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,73,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,73,Registered Voters,,REP,,1416,,
+Nueces,73,Registered Voters,,REP,,1416,,,
 Nueces,73,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,73,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,73,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -24454,7 +24454,7 @@ Nueces,73,Proposition No. 12,,DEM,Under Votes,5,3,1,1
 Nueces,73,Proposition No. 12,,DEM,NO,2,1,1,0
 Nueces,74,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,74,U.S. Senate,,REP,Under Votes,1,1,0,0
-Nueces,74,Registered Voters,,REP,,1647,,
+Nueces,74,Registered Voters,,REP,,1647,,,
 Nueces,74,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,74,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,74,U.S. Senate,,REP,Under Votes,1,1,0,0
@@ -24793,7 +24793,7 @@ Nueces,74,Proposition No. 12,,DEM,Under Votes,6,6,0,0
 Nueces,74,Proposition No. 12,,DEM,NO,9,4,3,2
 Nueces,75,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,75,U.S. Senate,,REP,Under Votes,2,0,2,0
-Nueces,75,Registered Voters,,REP,,2185,,
+Nueces,75,Registered Voters,,REP,,2185,,,
 Nueces,75,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,75,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,75,U.S. Senate,,REP,Under Votes,2,0,2,0
@@ -25129,7 +25129,7 @@ Nueces,75,Proposition No. 12,,DEM,Under Votes,6,5,1,0
 Nueces,75,Proposition No. 12,,DEM,NO,2,1,1,0
 Nueces,76,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,76,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,76,Registered Voters,,REP,,809,,
+Nueces,76,Registered Voters,,REP,,809,,,
 Nueces,76,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,76,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,76,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -25471,7 +25471,7 @@ Nueces,76,Proposition No. 12,,DEM,Under Votes,1,0,1,0
 Nueces,76,Proposition No. 12,,DEM,NO,2,0,2,0
 Nueces,77,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,77,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,77,Registered Voters,,REP,,307,,
+Nueces,77,Registered Voters,,REP,,307,,,
 Nueces,77,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,77,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,77,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -25813,7 +25813,7 @@ Nueces,77,Proposition No. 12,,DEM,Under Votes,1,0,1,0
 Nueces,77,Proposition No. 12,,DEM,NO,1,0,1,0
 Nueces,78,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,78,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,78,Registered Voters,,REP,,1598,,
+Nueces,78,Registered Voters,,REP,,1598,,,
 Nueces,78,U.S. Senate,,REP,Stefano de Stefano,3,1,0,2
 Nueces,78,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,78,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -26152,7 +26152,7 @@ Nueces,78,Proposition No. 12,,DEM,Under Votes,8,4,3,1
 Nueces,78,Proposition No. 12,,DEM,NO,0,0,0,0
 Nueces,79,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,79,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,79,Registered Voters,,REP,,1126,,
+Nueces,79,Registered Voters,,REP,,1126,,,
 Nueces,79,U.S. Senate,,REP,Stefano de Stefano,1,0,1,0
 Nueces,79,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,79,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -26494,7 +26494,7 @@ Nueces,79,Proposition No. 12,,DEM,Under Votes,1,0,1,0
 Nueces,79,Proposition No. 12,,DEM,NO,2,1,0,1
 Nueces,80,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,80,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,80,Registered Voters,,REP,,1586,,
+Nueces,80,Registered Voters,,REP,,1586,,,
 Nueces,80,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,80,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,80,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -26833,7 +26833,7 @@ Nueces,80,Proposition No. 12,,DEM,Under Votes,6,4,2,0
 Nueces,80,Proposition No. 12,,DEM,NO,8,1,7,0
 Nueces,81,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,81,U.S. Senate,,REP,Under Votes,11,4,6,1
-Nueces,81,Registered Voters,,REP,,3744,,
+Nueces,81,Registered Voters,,REP,,3744,,,
 Nueces,81,U.S. Senate,,REP,Stefano de Stefano,17,10,7,0
 Nueces,81,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,81,U.S. Senate,,REP,Under Votes,11,4,6,1
@@ -27162,7 +27162,7 @@ Nueces,81,Proposition No. 12,,DEM,Under Votes,8,3,3,2
 Nueces,81,Proposition No. 12,,DEM,NO,4,1,3,0
 Nueces,82,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,82,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,82,Registered Voters,,REP,,674,,
+Nueces,82,Registered Voters,,REP,,674,,,
 Nueces,82,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,82,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,82,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -27504,7 +27504,7 @@ Nueces,82,Proposition No. 12,,DEM,Under Votes,1,0,0,1
 Nueces,82,Proposition No. 12,,DEM,NO,1,0,1,0
 Nueces,83,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,83,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,83,Registered Voters,,REP,,1064,,
+Nueces,83,Registered Voters,,REP,,1064,,,
 Nueces,83,U.S. Senate,,REP,Stefano de Stefano,1,0,1,0
 Nueces,83,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,83,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -27846,7 +27846,7 @@ Nueces,83,Proposition No. 12,,DEM,Under Votes,2,1,1,0
 Nueces,83,Proposition No. 12,,DEM,NO,1,0,0,1
 Nueces,84,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,84,U.S. Senate,,REP,Under Votes,1,1,0,0
-Nueces,84,Registered Voters,,REP,,773,,
+Nueces,84,Registered Voters,,REP,,773,,,
 Nueces,84,U.S. Senate,,REP,Stefano de Stefano,2,0,2,0
 Nueces,84,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,84,U.S. Senate,,REP,Under Votes,1,1,0,0
@@ -28174,7 +28174,7 @@ Nueces,84,Proposition No. 12,,DEM,Under Votes,2,1,1,0
 Nueces,84,Proposition No. 12,,DEM,NO,6,4,1,1
 Nueces,85,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,85,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,85,Registered Voters,,REP,,508,,
+Nueces,85,Registered Voters,,REP,,508,,,
 Nueces,85,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,85,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,85,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -28513,7 +28513,7 @@ Nueces,85,Proposition No. 12,,DEM,Under Votes,0,0,0,0
 Nueces,85,Proposition No. 12,,DEM,NO,3,0,3,0
 Nueces,86,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,86,U.S. Senate,,REP,Under Votes,1,0,1,0
-Nueces,86,Registered Voters,,REP,,609,,
+Nueces,86,Registered Voters,,REP,,609,,,
 Nueces,86,U.S. Senate,,REP,Stefano de Stefano,1,0,1,0
 Nueces,86,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,86,U.S. Senate,,REP,Under Votes,1,0,1,0
@@ -28852,7 +28852,7 @@ Nueces,86,Proposition No. 12,,DEM,Under Votes,5,2,3,0
 Nueces,86,Proposition No. 12,,DEM,NO,2,1,1,0
 Nueces,87,U.S. Senate,,REP,Over Votes,1,0,0,1
 Nueces,87,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,87,Registered Voters,,REP,,1444,,
+Nueces,87,Registered Voters,,REP,,1444,,,
 Nueces,87,U.S. Senate,,REP,Stefano de Stefano,1,1,0,0
 Nueces,87,U.S. Senate,,REP,Over Votes,1,0,0,1
 Nueces,87,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -29183,7 +29183,7 @@ Nueces,87,Proposition No. 12,,DEM,Under Votes,3,0,3,0
 Nueces,87,Proposition No. 12,,DEM,NO,1,0,1,0
 Nueces,88,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,88,U.S. Senate,,REP,Under Votes,4,0,3,1
-Nueces,88,Registered Voters,,REP,,2279,,
+Nueces,88,Registered Voters,,REP,,2279,,,
 Nueces,88,U.S. Senate,,REP,Stefano de Stefano,8,1,7,0
 Nueces,88,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,88,U.S. Senate,,REP,Under Votes,4,0,3,1
@@ -29514,7 +29514,7 @@ Nueces,88,Proposition No. 12,,DEM,Under Votes,7,3,2,2
 Nueces,88,Proposition No. 12,,DEM,NO,5,0,2,3
 Nueces,89,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,89,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,89,Registered Voters,,REP,,669,,
+Nueces,89,Registered Voters,,REP,,669,,,
 Nueces,89,U.S. Senate,,REP,Stefano de Stefano,1,0,1,0
 Nueces,89,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,89,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -29842,7 +29842,7 @@ Nueces,89,Proposition No. 12,,DEM,Under Votes,1,1,0,0
 Nueces,89,Proposition No. 12,,DEM,NO,2,1,1,0
 Nueces,90,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,90,U.S. Senate,,REP,Under Votes,1,1,0,0
-Nueces,90,Registered Voters,,REP,,807,,
+Nueces,90,Registered Voters,,REP,,807,,,
 Nueces,90,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,90,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,90,U.S. Senate,,REP,Under Votes,1,1,0,0
@@ -30170,7 +30170,7 @@ Nueces,90,Proposition No. 12,,DEM,Under Votes,2,0,2,0
 Nueces,90,Proposition No. 12,,DEM,NO,0,0,0,0
 Nueces,91,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,91,U.S. Senate,,REP,Under Votes,3,0,3,0
-Nueces,91,Registered Voters,,REP,,3152,,
+Nueces,91,Registered Voters,,REP,,3152,,,
 Nueces,91,U.S. Senate,,REP,Stefano de Stefano,7,3,4,0
 Nueces,91,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,91,U.S. Senate,,REP,Under Votes,3,0,3,0
@@ -30501,7 +30501,7 @@ Nueces,91,Proposition No. 12,,DEM,Under Votes,7,1,2,4
 Nueces,91,Proposition No. 12,,DEM,NO,3,1,2,0
 Nueces,92,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,92,U.S. Senate,,REP,Under Votes,4,3,0,1
-Nueces,92,Registered Voters,,REP,,1805,,
+Nueces,92,Registered Voters,,REP,,1805,,,
 Nueces,92,U.S. Senate,,REP,Stefano de Stefano,19,5,12,2
 Nueces,92,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,92,U.S. Senate,,REP,Under Votes,4,3,0,1
@@ -30832,7 +30832,7 @@ Nueces,92,Proposition No. 12,,DEM,Under Votes,4,1,2,1
 Nueces,92,Proposition No. 12,,DEM,NO,3,0,3,0
 Nueces,93,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,93,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,93,Registered Voters,,REP,,2706,,
+Nueces,93,Registered Voters,,REP,,2706,,,
 Nueces,93,U.S. Senate,,REP,Stefano de Stefano,1,1,0,0
 Nueces,93,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,93,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -31172,7 +31172,7 @@ Nueces,93,Proposition No. 12,,DEM,Under Votes,5,4,1,0
 Nueces,93,Proposition No. 12,,DEM,NO,9,1,4,4
 Nueces,94,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,94,U.S. Senate,,REP,Under Votes,4,2,2,0
-Nueces,94,Registered Voters,,REP,,1890,,
+Nueces,94,Registered Voters,,REP,,1890,,,
 Nueces,94,U.S. Senate,,REP,Stefano de Stefano,2,0,2,0
 Nueces,94,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,94,U.S. Senate,,REP,Under Votes,4,2,2,0
@@ -31503,7 +31503,7 @@ Nueces,94,Proposition No. 12,,DEM,Under Votes,2,1,0,1
 Nueces,94,Proposition No. 12,,DEM,NO,1,1,0,0
 Nueces,95,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,95,U.S. Senate,,REP,Under Votes,1,0,1,0
-Nueces,95,Registered Voters,,REP,,786,,
+Nueces,95,Registered Voters,,REP,,786,,,
 Nueces,95,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,95,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,95,U.S. Senate,,REP,Under Votes,1,0,1,0
@@ -31837,7 +31837,7 @@ Nueces,95,Proposition No. 12,,DEM,Under Votes,5,4,1,0
 Nueces,95,Proposition No. 12,,DEM,NO,1,1,0,0
 Nueces,96,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,96,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,96,Registered Voters,,REP,,888,,
+Nueces,96,Registered Voters,,REP,,888,,,
 Nueces,96,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,96,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,96,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -32168,7 +32168,7 @@ Nueces,96,Proposition No. 12,,DEM,Under Votes,5,1,2,2
 Nueces,96,Proposition No. 12,,DEM,NO,0,0,0,0
 Nueces,97,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,97,U.S. Senate,,REP,Under Votes,1,0,1,0
-Nueces,97,Registered Voters,,REP,,1111,,
+Nueces,97,Registered Voters,,REP,,1111,,,
 Nueces,97,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,97,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,97,U.S. Senate,,REP,Under Votes,1,0,1,0
@@ -32502,7 +32502,7 @@ Nueces,97,Proposition No. 12,,DEM,Under Votes,0,0,0,0
 Nueces,97,Proposition No. 12,,DEM,NO,2,1,1,0
 Nueces,98,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,98,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,98,Registered Voters,,REP,,1712,,
+Nueces,98,Registered Voters,,REP,,1712,,,
 Nueces,98,U.S. Senate,,REP,Stefano de Stefano,1,1,0,0
 Nueces,98,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,98,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -32841,7 +32841,7 @@ Nueces,98,Proposition No. 12,,DEM,Under Votes,8,2,5,1
 Nueces,98,Proposition No. 12,,DEM,NO,5,1,4,0
 Nueces,99,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,99,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,99,Registered Voters,,REP,,582,,
+Nueces,99,Registered Voters,,REP,,582,,,
 Nueces,99,U.S. Senate,,REP,Stefano de Stefano,1,0,1,0
 Nueces,99,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,99,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -33183,7 +33183,7 @@ Nueces,99,Proposition No. 12,,DEM,Under Votes,0,0,0,0
 Nueces,99,Proposition No. 12,,DEM,NO,2,1,1,0
 Nueces,100,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,100,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,100,Registered Voters,,REP,,1153,,
+Nueces,100,Registered Voters,,REP,,1153,,,
 Nueces,100,U.S. Senate,,REP,Stefano de Stefano,1,0,1,0
 Nueces,100,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,100,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -33525,7 +33525,7 @@ Nueces,100,Proposition No. 12,,DEM,Under Votes,5,2,1,2
 Nueces,100,Proposition No. 12,,DEM,NO,1,0,0,1
 Nueces,101,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,101,U.S. Senate,,REP,Under Votes,6,3,3,0
-Nueces,101,Registered Voters,,REP,,2994,,
+Nueces,101,Registered Voters,,REP,,2994,,,
 Nueces,101,U.S. Senate,,REP,Stefano de Stefano,2,1,1,0
 Nueces,101,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,101,U.S. Senate,,REP,Under Votes,6,3,3,0
@@ -33867,7 +33867,7 @@ Nueces,101,Proposition No. 12,,DEM,Under Votes,9,5,3,1
 Nueces,101,Proposition No. 12,,DEM,NO,5,1,4,0
 Nueces,102,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,102,U.S. Senate,,REP,Under Votes,4,1,3,0
-Nueces,102,Registered Voters,,REP,,1483,,
+Nueces,102,Registered Voters,,REP,,1483,,,
 Nueces,102,U.S. Senate,,REP,Stefano de Stefano,2,0,2,0
 Nueces,102,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,102,U.S. Senate,,REP,Under Votes,4,1,3,0
@@ -34199,7 +34199,7 @@ Nueces,102,Proposition No. 12,,DEM,Under Votes,5,3,1,1
 Nueces,102,Proposition No. 12,,DEM,NO,2,0,2,0
 Nueces,103,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,103,U.S. Senate,,REP,Under Votes,1,1,0,0
-Nueces,103,Registered Voters,,REP,,1964,,
+Nueces,103,Registered Voters,,REP,,1964,,,
 Nueces,103,U.S. Senate,,REP,Stefano de Stefano,10,4,5,1
 Nueces,103,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,103,U.S. Senate,,REP,Under Votes,1,1,0,0
@@ -34541,7 +34541,7 @@ Nueces,103,Proposition No. 12,,DEM,Under Votes,3,2,1,0
 Nueces,103,Proposition No. 12,,DEM,NO,1,1,0,0
 Nueces,104,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,104,U.S. Senate,,REP,Under Votes,1,1,0,0
-Nueces,104,Registered Voters,,REP,,859,,
+Nueces,104,Registered Voters,,REP,,859,,,
 Nueces,104,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,104,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,104,U.S. Senate,,REP,Under Votes,1,1,0,0
@@ -34871,7 +34871,7 @@ Nueces,104,Proposition No. 12,,DEM,Under Votes,23,11,10,2
 Nueces,104,Proposition No. 12,,DEM,NO,0,0,0,0
 Nueces,105,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,105,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,105,Registered Voters,,REP,,1257,,
+Nueces,105,Registered Voters,,REP,,1257,,,
 Nueces,105,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,105,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,105,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -35201,7 +35201,7 @@ Nueces,105,Proposition No. 12,,DEM,Under Votes,25,18,4,3
 Nueces,105,Proposition No. 12,,DEM,NO,1,0,0,1
 Nueces,106,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,106,U.S. Senate,,REP,Under Votes,6,3,0,3
-Nueces,106,Registered Voters,,REP,,2204,,
+Nueces,106,Registered Voters,,REP,,2204,,,
 Nueces,106,U.S. Senate,,REP,Stefano de Stefano,6,4,2,0
 Nueces,106,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,106,U.S. Senate,,REP,Under Votes,6,3,0,3
@@ -35540,7 +35540,7 @@ Nueces,106,Proposition No. 12,,DEM,Under Votes,11,5,4,2
 Nueces,106,Proposition No. 12,,DEM,NO,6,1,3,2
 Nueces,107,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,107,U.S. Senate,,REP,Under Votes,11,4,7,0
-Nueces,107,Registered Voters,,REP,,4022,,
+Nueces,107,Registered Voters,,REP,,4022,,,
 Nueces,107,U.S. Senate,,REP,Stefano de Stefano,17,9,6,2
 Nueces,107,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,107,U.S. Senate,,REP,Under Votes,11,4,7,0
@@ -35882,7 +35882,7 @@ Nueces,107,Proposition No. 12,,DEM,Under Votes,8,6,2,0
 Nueces,107,Proposition No. 12,,DEM,NO,4,3,1,0
 Nueces,108,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,108,U.S. Senate,,REP,Under Votes,2,1,1,0
-Nueces,108,Registered Voters,,REP,,647,,
+Nueces,108,Registered Voters,,REP,,647,,,
 Nueces,108,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,108,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,108,U.S. Senate,,REP,Under Votes,2,1,1,0
@@ -36212,7 +36212,7 @@ Nueces,108,Proposition No. 12,,DEM,Under Votes,12,8,4,0
 Nueces,108,Proposition No. 12,,DEM,NO,1,1,0,0
 Nueces,109,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,109,U.S. Senate,,REP,Under Votes,1,1,0,0
-Nueces,109,Registered Voters,,REP,,488,,
+Nueces,109,Registered Voters,,REP,,488,,,
 Nueces,109,U.S. Senate,,REP,Stefano de Stefano,2,1,1,0
 Nueces,109,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,109,U.S. Senate,,REP,Under Votes,1,1,0,0
@@ -36540,7 +36540,7 @@ Nueces,109,Proposition No. 12,,DEM,Under Votes,2,0,2,0
 Nueces,109,Proposition No. 12,,DEM,NO,1,1,0,0
 Nueces,110,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,110,U.S. Senate,,REP,Under Votes,10,5,5,0
-Nueces,110,Registered Voters,,REP,,1362,,
+Nueces,110,Registered Voters,,REP,,1362,,,
 Nueces,110,U.S. Senate,,REP,Stefano de Stefano,1,0,1,0
 Nueces,110,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,110,U.S. Senate,,REP,Under Votes,10,5,5,0
@@ -36882,7 +36882,7 @@ Nueces,110,Proposition No. 12,,DEM,Under Votes,6,3,3,0
 Nueces,110,Proposition No. 12,,DEM,NO,3,3,0,0
 Nueces,111,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,111,U.S. Senate,,REP,Under Votes,2,0,2,0
-Nueces,111,Registered Voters,,REP,,1018,,
+Nueces,111,Registered Voters,,REP,,1018,,,
 Nueces,111,U.S. Senate,,REP,Stefano de Stefano,1,0,1,0
 Nueces,111,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,111,U.S. Senate,,REP,Under Votes,2,0,2,0
@@ -37224,7 +37224,7 @@ Nueces,111,Proposition No. 12,,DEM,Under Votes,6,2,3,1
 Nueces,111,Proposition No. 12,,DEM,NO,1,0,1,0
 Nueces,112,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,112,U.S. Senate,,REP,Under Votes,4,2,2,0
-Nueces,112,Registered Voters,,REP,,2028,,
+Nueces,112,Registered Voters,,REP,,2028,,,
 Nueces,112,U.S. Senate,,REP,Stefano de Stefano,7,4,2,1
 Nueces,112,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,112,U.S. Senate,,REP,Under Votes,4,2,2,0
@@ -37567,7 +37567,7 @@ Nueces,112,Proposition No. 12,,DEM,Under Votes,5,4,1,0
 Nueces,112,Proposition No. 12,,DEM,NO,2,1,0,1
 Nueces,113,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,113,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,113,Registered Voters,,REP,,459,,
+Nueces,113,Registered Voters,,REP,,459,,,
 Nueces,113,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,113,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,113,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -37906,7 +37906,7 @@ Nueces,113,Proposition No. 12,,DEM,Under Votes,0,0,0,0
 Nueces,113,Proposition No. 12,,DEM,NO,0,0,0,0
 Nueces,114,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,114,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,114,Registered Voters,,REP,,670,,
+Nueces,114,Registered Voters,,REP,,670,,,
 Nueces,114,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,114,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,114,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -38242,7 +38242,7 @@ Nueces,114,Proposition No. 12,,DEM,Under Votes,1,0,1,0
 Nueces,114,Proposition No. 12,,DEM,NO,0,0,0,0
 Nueces,115,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,115,U.S. Senate,,REP,Under Votes,1,0,1,0
-Nueces,115,Registered Voters,,REP,,1891,,
+Nueces,115,Registered Voters,,REP,,1891,,,
 Nueces,115,U.S. Senate,,REP,Stefano de Stefano,8,6,2,0
 Nueces,115,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,115,U.S. Senate,,REP,Under Votes,1,0,1,0
@@ -38577,7 +38577,7 @@ Nueces,115,Proposition No. 12,,DEM,Under Votes,4,2,2,0
 Nueces,115,Proposition No. 12,,DEM,NO,1,0,0,1
 Nueces,116,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,116,U.S. Senate,,REP,Under Votes,3,1,2,0
-Nueces,116,Registered Voters,,REP,,3926,,
+Nueces,116,Registered Voters,,REP,,3926,,,
 Nueces,116,U.S. Senate,,REP,Stefano de Stefano,2,0,2,0
 Nueces,116,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,116,U.S. Senate,,REP,Under Votes,3,1,2,0
@@ -38916,7 +38916,7 @@ Nueces,116,Proposition No. 12,,DEM,Under Votes,6,2,4,0
 Nueces,116,Proposition No. 12,,DEM,NO,11,6,4,1
 Nueces,117,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,117,U.S. Senate,,REP,Under Votes,5,2,2,1
-Nueces,117,Registered Voters,,REP,,3018,,
+Nueces,117,Registered Voters,,REP,,3018,,,
 Nueces,117,U.S. Senate,,REP,Stefano de Stefano,6,4,2,0
 Nueces,117,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,117,U.S. Senate,,REP,Under Votes,5,2,2,1
@@ -39247,7 +39247,7 @@ Nueces,117,Proposition No. 12,,DEM,Under Votes,3,0,3,0
 Nueces,117,Proposition No. 12,,DEM,NO,1,0,1,0
 Nueces,118,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,118,U.S. Senate,,REP,Under Votes,0,0,0,0
-Nueces,118,Registered Voters,,REP,,2554,,
+Nueces,118,Registered Voters,,REP,,2554,,,
 Nueces,118,U.S. Senate,,REP,Stefano de Stefano,2,2,0,0
 Nueces,118,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,118,U.S. Senate,,REP,Under Votes,0,0,0,0
@@ -39583,7 +39583,7 @@ Nueces,118,Proposition No. 12,,DEM,Under Votes,9,7,2,0
 Nueces,118,Proposition No. 12,,DEM,NO,1,1,0,0
 Nueces,119,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,119,U.S. Senate,,REP,Under Votes,3,2,1,0
-Nueces,119,Registered Voters,,REP,,3022,,
+Nueces,119,Registered Voters,,REP,,3022,,,
 Nueces,119,U.S. Senate,,REP,Stefano de Stefano,14,3,8,3
 Nueces,119,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,119,U.S. Senate,,REP,Under Votes,3,2,1,0
@@ -39914,7 +39914,7 @@ Nueces,119,Proposition No. 12,,DEM,Under Votes,8,2,4,2
 Nueces,119,Proposition No. 12,,DEM,NO,6,3,2,1
 Nueces,120,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,120,U.S. Senate,,REP,Under Votes,7,2,4,1
-Nueces,120,Registered Voters,,REP,,2071,,
+Nueces,120,Registered Voters,,REP,,2071,,,
 Nueces,120,U.S. Senate,,REP,Stefano de Stefano,4,3,1,0
 Nueces,120,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,120,U.S. Senate,,REP,Under Votes,7,2,4,1
@@ -40242,7 +40242,7 @@ Nueces,120,Proposition No. 12,,DEM,Under Votes,8,1,2,5
 Nueces,120,Proposition No. 12,,DEM,NO,2,0,2,0
 Nueces,121,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,121,U.S. Senate,,REP,Under Votes,2,0,2,0
-Nueces,121,Registered Voters,,REP,,1464,,
+Nueces,121,Registered Voters,,REP,,1464,,,
 Nueces,121,U.S. Senate,,REP,Stefano de Stefano,0,0,0,0
 Nueces,121,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,121,U.S. Senate,,REP,Under Votes,2,0,2,0
@@ -40576,7 +40576,7 @@ Nueces,121,Proposition No. 12,,DEM,Under Votes,3,0,2,1
 Nueces,121,Proposition No. 12,,DEM,NO,2,1,1,0
 Nueces,122,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,122,U.S. Senate,,REP,Under Votes,6,1,5,0
-Nueces,122,Registered Voters,,REP,,3221,,
+Nueces,122,Registered Voters,,REP,,3221,,,
 Nueces,122,U.S. Senate,,REP,Stefano de Stefano,3,1,2,0
 Nueces,122,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,122,U.S. Senate,,REP,Under Votes,6,1,5,0
@@ -40907,7 +40907,7 @@ Nueces,122,Proposition No. 12,,DEM,Under Votes,3,1,2,0
 Nueces,122,Proposition No. 12,,DEM,NO,2,1,1,0
 Nueces,123,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,123,U.S. Senate,,REP,Under Votes,4,1,3,0
-Nueces,123,Registered Voters,,REP,,1926,,
+Nueces,123,Registered Voters,,REP,,1926,,,
 Nueces,123,U.S. Senate,,REP,Stefano de Stefano,5,4,1,0
 Nueces,123,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,123,U.S. Senate,,REP,Under Votes,4,1,3,0
@@ -41249,7 +41249,7 @@ Nueces,123,Proposition No. 12,,DEM,Under Votes,3,0,3,0
 Nueces,123,Proposition No. 12,,DEM,NO,1,0,1,0
 Nueces,124,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,124,U.S. Senate,,REP,Under Votes,1,0,1,0
-Nueces,124,Registered Voters,,REP,,2984,,
+Nueces,124,Registered Voters,,REP,,2984,,,
 Nueces,124,U.S. Senate,,REP,Stefano de Stefano,7,2,5,0
 Nueces,124,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,124,U.S. Senate,,REP,Under Votes,1,0,1,0
@@ -41580,7 +41580,7 @@ Nueces,124,Proposition No. 12,,DEM,Under Votes,6,2,3,1
 Nueces,124,Proposition No. 12,,DEM,NO,2,1,1,0
 Nueces,125,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,125,U.S. Senate,,REP,Under Votes,10,8,2,0
-Nueces,125,Registered Voters,,REP,,4567,,
+Nueces,125,Registered Voters,,REP,,4567,,,
 Nueces,125,U.S. Senate,,REP,Stefano de Stefano,10,5,5,0
 Nueces,125,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,125,U.S. Senate,,REP,Under Votes,10,8,2,0
@@ -41911,7 +41911,7 @@ Nueces,125,Proposition No. 12,,DEM,Under Votes,8,3,3,2
 Nueces,125,Proposition No. 12,,DEM,NO,5,2,2,1
 Nueces,126,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,126,U.S. Senate,,REP,Under Votes,3,1,2,0
-Nueces,126,Registered Voters,,REP,,2617,,
+Nueces,126,Registered Voters,,REP,,2617,,,
 Nueces,126,U.S. Senate,,REP,Stefano de Stefano,2,2,0,0
 Nueces,126,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,126,U.S. Senate,,REP,Under Votes,3,1,2,0
@@ -42242,7 +42242,7 @@ Nueces,126,Proposition No. 12,,DEM,Under Votes,5,1,4,0
 Nueces,126,Proposition No. 12,,DEM,NO,1,0,1,0
 Nueces,127,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,127,U.S. Senate,,REP,Under Votes,6,4,2,0
-Nueces,127,Registered Voters,,REP,,1310,,
+Nueces,127,Registered Voters,,REP,,1310,,,
 Nueces,127,U.S. Senate,,REP,Stefano de Stefano,5,2,3,0
 Nueces,127,U.S. Senate,,REP,Over Votes,0,0,0,0
 Nueces,127,U.S. Senate,,REP,Under Votes,6,4,2,0
