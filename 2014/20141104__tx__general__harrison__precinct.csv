@@ -1,8 +1,8 @@
 county,precinct,office,district,party,candidate,votes,early_votes,election_day
-Harrison,1.0,STRAIGHT PARTY,,REP,Republican Party,360.0,246.0,114.0
-Harrison,1.0,STRAIGHT PARTY,,DEM,Democratic Party,142.0,79.0,63.0
-Harrison,1.0,STRAIGHT PARTY,,LIB,Libertarian Party,0.0,0.0,0.0
-Harrison,1.0,STRAIGHT PARTY,,GRN,Green Party,0.0,0.0,0.0
+Harrison,1.0,Straight Party,,REP,Republican Party,360.0,246.0,114.0
+Harrison,1.0,Straight Party,,DEM,Democratic Party,142.0,79.0,63.0
+Harrison,1.0,Straight Party,,LIB,Libertarian Party,0.0,0.0,0.0
+Harrison,1.0,Straight Party,,GRN,Green Party,0.0,0.0,0.0
 Harrison,1.0,U.S. Senate,,REP,John Cornyn,633.0,430.0,203.0
 Harrison,1.0,U.S. Senate,,DEM,David M. Alameel,229.0,134.0,95.0
 Harrison,1.0,U.S. Senate,,LIB,Rebecca Paddock,18.0,8.0,10.0
@@ -15,26 +15,26 @@ Harrison,1.0,GOVERNOR,,DEM,Wendy R. Davis,267.0,157.0,110.0
 Harrison,1.0,GOVERNOR,,LIB,Kathie Glass,7.0,6.0,1.0
 Harrison,1.0,GOVERNOR,,GRN,Brandon Parmer,4.0,0.0,4.0
 Harrison,1.0,GOVERNOR,,"",Sarah M Pavitt,0.0,0.0,0.0
-Harrison,1.0,LIEUTENANT GOVERNOR,,REP,Dan Patrick,609.0,411.0,198.0
-Harrison,1.0,LIEUTENANT GOVERNOR,,DEM,Leticia Van de Putte,258.0,153.0,105.0
-Harrison,1.0,LIEUTENANT GOVERNOR,,LIB,Robert D. Butler,18.0,11.0,7.0
-Harrison,1.0,LIEUTENANT GOVERNOR,,GRN,Chandrakantha Courtney,3.0,2.0,1.0
-Harrison,1.0,ATTORNEY GENERAL,,REP,Ken Paxton,602.0,412.0,190.0
-Harrison,1.0,ATTORNEY GENERAL,,DEM,Sam Houston,261.0,152.0,109.0
-Harrison,1.0,ATTORNEY GENERAL,,LIB,Jamie Balagia,15.0,9.0,6.0
-Harrison,1.0,ATTORNEY GENERAL,,GRN,Jamar Osborne,1.0,0.0,1.0
-Harrison,1.0,COMPTROLLER OF PUBLIC ACCOUNTS,,REP,Glenn Hegar,593.0,408.0,185.0
-Harrison,1.0,COMPTROLLER OF PUBLIC ACCOUNTS,,DEM,Mike Collier,269.0,156.0,113.0
-Harrison,1.0,COMPTROLLER OF PUBLIC ACCOUNTS,,LIB,Ben Sanders,12.0,5.0,7.0
-Harrison,1.0,COMPTROLLER OF PUBLIC ACCOUNTS,,GRN,Deb Shafto,3.0,2.0,1.0
+Harrison,1.0,Lieutenant Governor,,REP,Dan Patrick,609.0,411.0,198.0
+Harrison,1.0,Lieutenant Governor,,DEM,Leticia Van de Putte,258.0,153.0,105.0
+Harrison,1.0,Lieutenant Governor,,LIB,Robert D. Butler,18.0,11.0,7.0
+Harrison,1.0,Lieutenant Governor,,GRN,Chandrakantha Courtney,3.0,2.0,1.0
+Harrison,1.0,Attorney General,,REP,Ken Paxton,602.0,412.0,190.0
+Harrison,1.0,Attorney General,,DEM,Sam Houston,261.0,152.0,109.0
+Harrison,1.0,Attorney General,,LIB,Jamie Balagia,15.0,9.0,6.0
+Harrison,1.0,Attorney General,,GRN,Jamar Osborne,1.0,0.0,1.0
+Harrison,1.0,Comptroller	of Public Accounts,,REP,Glenn Hegar,593.0,408.0,185.0
+Harrison,1.0,Comptroller	of Public Accounts,,DEM,Mike Collier,269.0,156.0,113.0
+Harrison,1.0,Comptroller	of Public Accounts,,LIB,Ben Sanders,12.0,5.0,7.0
+Harrison,1.0,Comptroller	of Public Accounts,,GRN,Deb Shafto,3.0,2.0,1.0
 Harrison,1.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,REP,George P. Bush,608.0,412.0,196.0
 Harrison,1.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,DEM,John Cook,253.0,147.0,106.0
 Harrison,1.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,LIB,Justin Knight,18.0,11.0,7.0
 Harrison,1.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,GRN,Valerie Alessi,4.0,4.0,0.0
-Harrison,1.0,COMMISSIONER OF AGRICULTURE,,REP,Sid Miller,568.0,389.0,179.0
-Harrison,1.0,COMMISSIONER OF AGRICULTURE,,DEM,Jim Hogan,278.0,163.0,115.0
-Harrison,1.0,COMMISSIONER OF AGRICULTURE,,LIB,David (Rocky) Palmquist,20.0,12.0,8.0
-Harrison,1.0,COMMISSIONER OF AGRICULTURE,,GRN,Kenneth Kendrick,6.0,1.0,5.0
+Harrison,1.0,Commissioner of Agriculture,,REP,Sid Miller,568.0,389.0,179.0
+Harrison,1.0,Commissioner of Agriculture,,DEM,Jim Hogan,278.0,163.0,115.0
+Harrison,1.0,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,20.0,12.0,8.0
+Harrison,1.0,Commissioner of Agriculture,,GRN,Kenneth Kendrick,6.0,1.0,5.0
 Harrison,1.0,RAILROAD COMMISSIONER,,REP,Ryan Sitton,584.0,401.0,183.0
 Harrison,1.0,RAILROAD COMMISSIONER,,DEM,Steve Brown,260.0,150.0,110.0
 Harrison,1.0,RAILROAD COMMISSIONER,,LIB,Mark A. Miller,21.0,13.0,8.0
@@ -74,10 +74,10 @@ Harrison,1.0,"JUSTICE OF THE PEACE, PRECINCT NO. 1",,REP,Megan Hickey Pinson,617
 Harrison,1.0,"JUSTICE OF THE PEACE, PRECINCT NO. 1",,DEM,Edwin Mazier Lee,263.0,158.0,105.0
 Harrison,1.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",FOR,680.0,442.0,238.0
 Harrison,1.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",AGAINST,141.0,84.0,57.0
-Harrison,2.0,STRAIGHT PARTY,,REP,Republican Party,108.0,74.0,34.0
-Harrison,2.0,STRAIGHT PARTY,,DEM,Democratic Party,279.0,178.0,101.0
-Harrison,2.0,STRAIGHT PARTY,,LIB,Libertarian Party,1.0,1.0,0.0
-Harrison,2.0,STRAIGHT PARTY,,GRN,Green Party,0.0,0.0,0.0
+Harrison,2.0,Straight Party,,REP,Republican Party,108.0,74.0,34.0
+Harrison,2.0,Straight Party,,DEM,Democratic Party,279.0,178.0,101.0
+Harrison,2.0,Straight Party,,LIB,Libertarian Party,1.0,1.0,0.0
+Harrison,2.0,Straight Party,,GRN,Green Party,0.0,0.0,0.0
 Harrison,2.0,U.S. Senate,,REP,John Cornyn,184.0,123.0,61.0
 Harrison,2.0,U.S. Senate,,DEM,David M. Alameel,355.0,219.0,136.0
 Harrison,2.0,U.S. Senate,,LIB,Rebecca Paddock,10.0,8.0,2.0
@@ -90,26 +90,26 @@ Harrison,2.0,GOVERNOR,,DEM,Wendy R. Davis,382.0,236.0,146.0
 Harrison,2.0,GOVERNOR,,LIB,Kathie Glass,3.0,3.0,0.0
 Harrison,2.0,GOVERNOR,,GRN,Brandon Parmer,2.0,2.0,0.0
 Harrison,2.0,GOVERNOR,,"",Sarah M Pavitt,0.0,0.0,0.0
-Harrison,2.0,LIEUTENANT GOVERNOR,,REP,Dan Patrick,183.0,125.0,58.0
-Harrison,2.0,LIEUTENANT GOVERNOR,,DEM,Leticia Van de Putte,364.0,225.0,139.0
-Harrison,2.0,LIEUTENANT GOVERNOR,,LIB,Robert D. Butler,9.0,6.0,3.0
-Harrison,2.0,LIEUTENANT GOVERNOR,,GRN,Chandrakantha Courtney,1.0,1.0,0.0
-Harrison,2.0,ATTORNEY GENERAL,,REP,Ken Paxton,175.0,119.0,56.0
-Harrison,2.0,ATTORNEY GENERAL,,DEM,Sam Houston,377.0,236.0,141.0
-Harrison,2.0,ATTORNEY GENERAL,,LIB,Jamie Balagia,8.0,5.0,3.0
-Harrison,2.0,ATTORNEY GENERAL,,GRN,Jamar Osborne,2.0,1.0,1.0
-Harrison,2.0,COMPTROLLER OF PUBLIC ACCOUNTS,,REP,Glenn Hegar,173.0,122.0,51.0
-Harrison,2.0,COMPTROLLER OF PUBLIC ACCOUNTS,,DEM,Mike Collier,370.0,228.0,142.0
-Harrison,2.0,COMPTROLLER OF PUBLIC ACCOUNTS,,LIB,Ben Sanders,13.0,8.0,5.0
-Harrison,2.0,COMPTROLLER OF PUBLIC ACCOUNTS,,GRN,Deb Shafto,1.0,1.0,0.0
+Harrison,2.0,Lieutenant Governor,,REP,Dan Patrick,183.0,125.0,58.0
+Harrison,2.0,Lieutenant Governor,,DEM,Leticia Van de Putte,364.0,225.0,139.0
+Harrison,2.0,Lieutenant Governor,,LIB,Robert D. Butler,9.0,6.0,3.0
+Harrison,2.0,Lieutenant Governor,,GRN,Chandrakantha Courtney,1.0,1.0,0.0
+Harrison,2.0,Attorney General,,REP,Ken Paxton,175.0,119.0,56.0
+Harrison,2.0,Attorney General,,DEM,Sam Houston,377.0,236.0,141.0
+Harrison,2.0,Attorney General,,LIB,Jamie Balagia,8.0,5.0,3.0
+Harrison,2.0,Attorney General,,GRN,Jamar Osborne,2.0,1.0,1.0
+Harrison,2.0,Comptroller	of Public Accounts,,REP,Glenn Hegar,173.0,122.0,51.0
+Harrison,2.0,Comptroller	of Public Accounts,,DEM,Mike Collier,370.0,228.0,142.0
+Harrison,2.0,Comptroller	of Public Accounts,,LIB,Ben Sanders,13.0,8.0,5.0
+Harrison,2.0,Comptroller	of Public Accounts,,GRN,Deb Shafto,1.0,1.0,0.0
 Harrison,2.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,REP,George P. Bush,168.0,114.0,54.0
 Harrison,2.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,DEM,John Cook,368.0,227.0,141.0
 Harrison,2.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,LIB,Justin Knight,11.0,10.0,1.0
 Harrison,2.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,GRN,Valerie Alessi,10.0,6.0,4.0
-Harrison,2.0,COMMISSIONER OF AGRICULTURE,,REP,Sid Miller,170.0,118.0,52.0
-Harrison,2.0,COMMISSIONER OF AGRICULTURE,,DEM,Jim Hogan,372.0,230.0,142.0
-Harrison,2.0,COMMISSIONER OF AGRICULTURE,,LIB,David (Rocky) Palmquist,7.0,5.0,2.0
-Harrison,2.0,COMMISSIONER OF AGRICULTURE,,GRN,Kenneth Kendrick,7.0,5.0,2.0
+Harrison,2.0,Commissioner of Agriculture,,REP,Sid Miller,170.0,118.0,52.0
+Harrison,2.0,Commissioner of Agriculture,,DEM,Jim Hogan,372.0,230.0,142.0
+Harrison,2.0,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,7.0,5.0,2.0
+Harrison,2.0,Commissioner of Agriculture,,GRN,Kenneth Kendrick,7.0,5.0,2.0
 Harrison,2.0,RAILROAD COMMISSIONER,,REP,Ryan Sitton,175.0,120.0,55.0
 Harrison,2.0,RAILROAD COMMISSIONER,,DEM,Steve Brown,366.0,226.0,140.0
 Harrison,2.0,RAILROAD COMMISSIONER,,LIB,Mark A. Miller,14.0,11.0,3.0
@@ -151,10 +151,10 @@ Harrison,2.0,"JUSTICE OF THE PEACE, PRECINCT NO. 2",,REP,Libby Wyatt,181.0,123.0
 Harrison,2.0,"JUSTICE OF THE PEACE, PRECINCT NO. 2",,DEM,"Clarice ""Brenda"" Watkins",374.0,232.0,142.0
 Harrison,2.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",FOR,336.0,206.0,130.0
 Harrison,2.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",AGAINST,99.0,64.0,35.0
-Harrison,3.0,STRAIGHT PARTY,,REP,Republican Party,38.0,30.0,8.0
-Harrison,3.0,STRAIGHT PARTY,,DEM,Democratic Party,479.0,268.0,211.0
-Harrison,3.0,STRAIGHT PARTY,,LIB,Libertarian Party,2.0,0.0,2.0
-Harrison,3.0,STRAIGHT PARTY,,GRN,Green Party,4.0,3.0,1.0
+Harrison,3.0,Straight Party,,REP,Republican Party,38.0,30.0,8.0
+Harrison,3.0,Straight Party,,DEM,Democratic Party,479.0,268.0,211.0
+Harrison,3.0,Straight Party,,LIB,Libertarian Party,2.0,0.0,2.0
+Harrison,3.0,Straight Party,,GRN,Green Party,4.0,3.0,1.0
 Harrison,3.0,U.S. Senate,,REP,John Cornyn,69.0,51.0,18.0
 Harrison,3.0,U.S. Senate,,DEM,David M. Alameel,611.0,356.0,255.0
 Harrison,3.0,U.S. Senate,,LIB,Rebecca Paddock,7.0,5.0,2.0
@@ -167,26 +167,26 @@ Harrison,3.0,GOVERNOR,,DEM,Wendy R. Davis,630.0,363.0,267.0
 Harrison,3.0,GOVERNOR,,LIB,Kathie Glass,7.0,3.0,4.0
 Harrison,3.0,GOVERNOR,,GRN,Brandon Parmer,3.0,3.0,0.0
 Harrison,3.0,GOVERNOR,,"",Sarah M Pavitt,1.0,1.0,0.0
-Harrison,3.0,LIEUTENANT GOVERNOR,,REP,Dan Patrick,68.0,52.0,16.0
-Harrison,3.0,LIEUTENANT GOVERNOR,,DEM,Leticia Van de Putte,619.0,357.0,262.0
-Harrison,3.0,LIEUTENANT GOVERNOR,,LIB,Robert D. Butler,10.0,4.0,6.0
-Harrison,3.0,LIEUTENANT GOVERNOR,,GRN,Chandrakantha Courtney,3.0,2.0,1.0
-Harrison,3.0,ATTORNEY GENERAL,,REP,Ken Paxton,61.0,48.0,13.0
-Harrison,3.0,ATTORNEY GENERAL,,DEM,Sam Houston,633.0,367.0,266.0
-Harrison,3.0,ATTORNEY GENERAL,,LIB,Jamie Balagia,4.0,0.0,4.0
-Harrison,3.0,ATTORNEY GENERAL,,GRN,Jamar Osborne,5.0,2.0,3.0
-Harrison,3.0,COMPTROLLER OF PUBLIC ACCOUNTS,,REP,Glenn Hegar,68.0,49.0,19.0
-Harrison,3.0,COMPTROLLER OF PUBLIC ACCOUNTS,,DEM,Mike Collier,620.0,361.0,259.0
-Harrison,3.0,COMPTROLLER OF PUBLIC ACCOUNTS,,LIB,Ben Sanders,10.0,4.0,6.0
-Harrison,3.0,COMPTROLLER OF PUBLIC ACCOUNTS,,GRN,Deb Shafto,2.0,2.0,0.0
+Harrison,3.0,Lieutenant Governor,,REP,Dan Patrick,68.0,52.0,16.0
+Harrison,3.0,Lieutenant Governor,,DEM,Leticia Van de Putte,619.0,357.0,262.0
+Harrison,3.0,Lieutenant Governor,,LIB,Robert D. Butler,10.0,4.0,6.0
+Harrison,3.0,Lieutenant Governor,,GRN,Chandrakantha Courtney,3.0,2.0,1.0
+Harrison,3.0,Attorney General,,REP,Ken Paxton,61.0,48.0,13.0
+Harrison,3.0,Attorney General,,DEM,Sam Houston,633.0,367.0,266.0
+Harrison,3.0,Attorney General,,LIB,Jamie Balagia,4.0,0.0,4.0
+Harrison,3.0,Attorney General,,GRN,Jamar Osborne,5.0,2.0,3.0
+Harrison,3.0,Comptroller	of Public Accounts,,REP,Glenn Hegar,68.0,49.0,19.0
+Harrison,3.0,Comptroller	of Public Accounts,,DEM,Mike Collier,620.0,361.0,259.0
+Harrison,3.0,Comptroller	of Public Accounts,,LIB,Ben Sanders,10.0,4.0,6.0
+Harrison,3.0,Comptroller	of Public Accounts,,GRN,Deb Shafto,2.0,2.0,0.0
 Harrison,3.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,REP,George P. Bush,65.0,50.0,15.0
 Harrison,3.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,DEM,John Cook,627.0,365.0,262.0
 Harrison,3.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,LIB,Justin Knight,6.0,3.0,3.0
 Harrison,3.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,GRN,Valerie Alessi,7.0,2.0,5.0
-Harrison,3.0,COMMISSIONER OF AGRICULTURE,,REP,Sid Miller,64.0,46.0,18.0
-Harrison,3.0,COMMISSIONER OF AGRICULTURE,,DEM,Jim Hogan,621.0,362.0,259.0
-Harrison,3.0,COMMISSIONER OF AGRICULTURE,,LIB,David (Rocky) Palmquist,8.0,5.0,3.0
-Harrison,3.0,COMMISSIONER OF AGRICULTURE,,GRN,Kenneth Kendrick,5.0,3.0,2.0
+Harrison,3.0,Commissioner of Agriculture,,REP,Sid Miller,64.0,46.0,18.0
+Harrison,3.0,Commissioner of Agriculture,,DEM,Jim Hogan,621.0,362.0,259.0
+Harrison,3.0,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,8.0,5.0,3.0
+Harrison,3.0,Commissioner of Agriculture,,GRN,Kenneth Kendrick,5.0,3.0,2.0
 Harrison,3.0,RAILROAD COMMISSIONER,,REP,Ryan Sitton,65.0,48.0,17.0
 Harrison,3.0,RAILROAD COMMISSIONER,,DEM,Steve Brown,622.0,365.0,257.0
 Harrison,3.0,RAILROAD COMMISSIONER,,LIB,Mark A. Miller,6.0,2.0,4.0
@@ -228,10 +228,10 @@ Harrison,3.0,"JUSTICE OF THE PEACE, PRECINCT NO. 2",,REP,Libby Wyatt,66.0,50.0,1
 Harrison,3.0,"JUSTICE OF THE PEACE, PRECINCT NO. 2",,DEM,"Clarice ""Brenda"" Watkins",639.0,373.0,266.0
 Harrison,3.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",FOR,414.0,239.0,175.0
 Harrison,3.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",AGAINST,104.0,55.0,49.0
-Harrison,4.0,STRAIGHT PARTY,,REP,Republican Party,194.0,126.0,68.0
-Harrison,4.0,STRAIGHT PARTY,,DEM,Democratic Party,136.0,74.0,62.0
-Harrison,4.0,STRAIGHT PARTY,,LIB,Libertarian Party,0.0,0.0,0.0
-Harrison,4.0,STRAIGHT PARTY,,GRN,Green Party,0.0,0.0,0.0
+Harrison,4.0,Straight Party,,REP,Republican Party,194.0,126.0,68.0
+Harrison,4.0,Straight Party,,DEM,Democratic Party,136.0,74.0,62.0
+Harrison,4.0,Straight Party,,LIB,Libertarian Party,0.0,0.0,0.0
+Harrison,4.0,Straight Party,,GRN,Green Party,0.0,0.0,0.0
 Harrison,4.0,U.S. Senate,,REP,John Cornyn,335.0,221.0,114.0
 Harrison,4.0,U.S. Senate,,DEM,David M. Alameel,207.0,124.0,83.0
 Harrison,4.0,U.S. Senate,,LIB,Rebecca Paddock,7.0,5.0,2.0
@@ -244,26 +244,26 @@ Harrison,4.0,GOVERNOR,,DEM,Wendy R. Davis,231.0,143.0,88.0
 Harrison,4.0,GOVERNOR,,LIB,Kathie Glass,5.0,2.0,3.0
 Harrison,4.0,GOVERNOR,,GRN,Brandon Parmer,0.0,0.0,0.0
 Harrison,4.0,GOVERNOR,,"",Sarah M Pavitt,0.0,0.0,0.0
-Harrison,4.0,LIEUTENANT GOVERNOR,,REP,Dan Patrick,323.0,215.0,108.0
-Harrison,4.0,LIEUTENANT GOVERNOR,,DEM,Leticia Van de Putte,218.0,133.0,85.0
-Harrison,4.0,LIEUTENANT GOVERNOR,,LIB,Robert D. Butler,10.0,2.0,8.0
-Harrison,4.0,LIEUTENANT GOVERNOR,,GRN,Chandrakantha Courtney,0.0,0.0,0.0
-Harrison,4.0,ATTORNEY GENERAL,,REP,Ken Paxton,310.0,200.0,110.0
-Harrison,4.0,ATTORNEY GENERAL,,DEM,Sam Houston,232.0,145.0,87.0
-Harrison,4.0,ATTORNEY GENERAL,,LIB,Jamie Balagia,5.0,2.0,3.0
-Harrison,4.0,ATTORNEY GENERAL,,GRN,Jamar Osborne,0.0,0.0,0.0
-Harrison,4.0,COMPTROLLER OF PUBLIC ACCOUNTS,,REP,Glenn Hegar,297.0,194.0,103.0
-Harrison,4.0,COMPTROLLER OF PUBLIC ACCOUNTS,,DEM,Mike Collier,230.0,140.0,90.0
-Harrison,4.0,COMPTROLLER OF PUBLIC ACCOUNTS,,LIB,Ben Sanders,12.0,7.0,5.0
-Harrison,4.0,COMPTROLLER OF PUBLIC ACCOUNTS,,GRN,Deb Shafto,5.0,4.0,1.0
+Harrison,4.0,Lieutenant Governor,,REP,Dan Patrick,323.0,215.0,108.0
+Harrison,4.0,Lieutenant Governor,,DEM,Leticia Van de Putte,218.0,133.0,85.0
+Harrison,4.0,Lieutenant Governor,,LIB,Robert D. Butler,10.0,2.0,8.0
+Harrison,4.0,Lieutenant Governor,,GRN,Chandrakantha Courtney,0.0,0.0,0.0
+Harrison,4.0,Attorney General,,REP,Ken Paxton,310.0,200.0,110.0
+Harrison,4.0,Attorney General,,DEM,Sam Houston,232.0,145.0,87.0
+Harrison,4.0,Attorney General,,LIB,Jamie Balagia,5.0,2.0,3.0
+Harrison,4.0,Attorney General,,GRN,Jamar Osborne,0.0,0.0,0.0
+Harrison,4.0,Comptroller	of Public Accounts,,REP,Glenn Hegar,297.0,194.0,103.0
+Harrison,4.0,Comptroller	of Public Accounts,,DEM,Mike Collier,230.0,140.0,90.0
+Harrison,4.0,Comptroller	of Public Accounts,,LIB,Ben Sanders,12.0,7.0,5.0
+Harrison,4.0,Comptroller	of Public Accounts,,GRN,Deb Shafto,5.0,4.0,1.0
 Harrison,4.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,REP,George P. Bush,313.0,207.0,106.0
 Harrison,4.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,DEM,John Cook,221.0,133.0,88.0
 Harrison,4.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,LIB,Justin Knight,13.0,6.0,7.0
 Harrison,4.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,GRN,Valerie Alessi,2.0,0.0,2.0
-Harrison,4.0,COMMISSIONER OF AGRICULTURE,,REP,Sid Miller,300.0,199.0,101.0
-Harrison,4.0,COMMISSIONER OF AGRICULTURE,,DEM,Jim Hogan,230.0,138.0,92.0
-Harrison,4.0,COMMISSIONER OF AGRICULTURE,,LIB,David (Rocky) Palmquist,9.0,4.0,5.0
-Harrison,4.0,COMMISSIONER OF AGRICULTURE,,GRN,Kenneth Kendrick,4.0,2.0,2.0
+Harrison,4.0,Commissioner of Agriculture,,REP,Sid Miller,300.0,199.0,101.0
+Harrison,4.0,Commissioner of Agriculture,,DEM,Jim Hogan,230.0,138.0,92.0
+Harrison,4.0,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,9.0,4.0,5.0
+Harrison,4.0,Commissioner of Agriculture,,GRN,Kenneth Kendrick,4.0,2.0,2.0
 Harrison,4.0,RAILROAD COMMISSIONER,,REP,Ryan Sitton,308.0,199.0,109.0
 Harrison,4.0,RAILROAD COMMISSIONER,,DEM,Steve Brown,222.0,137.0,85.0
 Harrison,4.0,RAILROAD COMMISSIONER,,LIB,Mark A. Miller,11.0,6.0,5.0
@@ -303,10 +303,10 @@ Harrison,4.0,"COUNTY COMMISSIONER, PRECINCT NO. 4",,REP,Jay Ebarb,341.0,223.0,11
 Harrison,4.0,"COUNTY COMMISSIONER, PRECINCT NO. 4",,DEM,James Roy (J.R.) Barrett,204.0,121.0,83.0
 Harrison,4.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",FOR,401.0,264.0,137.0
 Harrison,4.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",AGAINST,88.0,66.0,22.0
-Harrison,5.0,STRAIGHT PARTY,,REP,Republican Party,162.0,72.0,90.0
-Harrison,5.0,STRAIGHT PARTY,,DEM,Democratic Party,50.0,20.0,30.0
-Harrison,5.0,STRAIGHT PARTY,,LIB,Libertarian Party,2.0,0.0,2.0
-Harrison,5.0,STRAIGHT PARTY,,GRN,Green Party,0.0,0.0,0.0
+Harrison,5.0,Straight Party,,REP,Republican Party,162.0,72.0,90.0
+Harrison,5.0,Straight Party,,DEM,Democratic Party,50.0,20.0,30.0
+Harrison,5.0,Straight Party,,LIB,Libertarian Party,2.0,0.0,2.0
+Harrison,5.0,Straight Party,,GRN,Green Party,0.0,0.0,0.0
 Harrison,5.0,U.S. Senate,,REP,John Cornyn,263.0,106.0,157.0
 Harrison,5.0,U.S. Senate,,DEM,David M. Alameel,70.0,27.0,43.0
 Harrison,5.0,U.S. Senate,,LIB,Rebecca Paddock,11.0,1.0,10.0
@@ -319,26 +319,26 @@ Harrison,5.0,GOVERNOR,,DEM,Wendy R. Davis,74.0,24.0,50.0
 Harrison,5.0,GOVERNOR,,LIB,Kathie Glass,9.0,2.0,7.0
 Harrison,5.0,GOVERNOR,,GRN,Brandon Parmer,1.0,0.0,1.0
 Harrison,5.0,GOVERNOR,,"",Sarah M Pavitt,0.0,0.0,0.0
-Harrison,5.0,LIEUTENANT GOVERNOR,,REP,Dan Patrick,259.0,107.0,152.0
-Harrison,5.0,LIEUTENANT GOVERNOR,,DEM,Leticia Van de Putte,71.0,25.0,46.0
-Harrison,5.0,LIEUTENANT GOVERNOR,,LIB,Robert D. Butler,14.0,2.0,12.0
-Harrison,5.0,LIEUTENANT GOVERNOR,,GRN,Chandrakantha Courtney,0.0,0.0,0.0
-Harrison,5.0,ATTORNEY GENERAL,,REP,Ken Paxton,264.0,107.0,157.0
-Harrison,5.0,ATTORNEY GENERAL,,DEM,Sam Houston,71.0,25.0,46.0
-Harrison,5.0,ATTORNEY GENERAL,,LIB,Jamie Balagia,8.0,1.0,7.0
-Harrison,5.0,ATTORNEY GENERAL,,GRN,Jamar Osborne,0.0,0.0,0.0
-Harrison,5.0,COMPTROLLER OF PUBLIC ACCOUNTS,,REP,Glenn Hegar,255.0,105.0,150.0
-Harrison,5.0,COMPTROLLER OF PUBLIC ACCOUNTS,,DEM,Mike Collier,73.0,26.0,47.0
-Harrison,5.0,COMPTROLLER OF PUBLIC ACCOUNTS,,LIB,Ben Sanders,15.0,3.0,12.0
-Harrison,5.0,COMPTROLLER OF PUBLIC ACCOUNTS,,GRN,Deb Shafto,2.0,0.0,2.0
+Harrison,5.0,Lieutenant Governor,,REP,Dan Patrick,259.0,107.0,152.0
+Harrison,5.0,Lieutenant Governor,,DEM,Leticia Van de Putte,71.0,25.0,46.0
+Harrison,5.0,Lieutenant Governor,,LIB,Robert D. Butler,14.0,2.0,12.0
+Harrison,5.0,Lieutenant Governor,,GRN,Chandrakantha Courtney,0.0,0.0,0.0
+Harrison,5.0,Attorney General,,REP,Ken Paxton,264.0,107.0,157.0
+Harrison,5.0,Attorney General,,DEM,Sam Houston,71.0,25.0,46.0
+Harrison,5.0,Attorney General,,LIB,Jamie Balagia,8.0,1.0,7.0
+Harrison,5.0,Attorney General,,GRN,Jamar Osborne,0.0,0.0,0.0
+Harrison,5.0,Comptroller	of Public Accounts,,REP,Glenn Hegar,255.0,105.0,150.0
+Harrison,5.0,Comptroller	of Public Accounts,,DEM,Mike Collier,73.0,26.0,47.0
+Harrison,5.0,Comptroller	of Public Accounts,,LIB,Ben Sanders,15.0,3.0,12.0
+Harrison,5.0,Comptroller	of Public Accounts,,GRN,Deb Shafto,2.0,0.0,2.0
 Harrison,5.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,REP,George P. Bush,261.0,107.0,154.0
 Harrison,5.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,DEM,John Cook,73.0,26.0,47.0
 Harrison,5.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,LIB,Justin Knight,11.0,1.0,10.0
 Harrison,5.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,GRN,Valerie Alessi,1.0,0.0,1.0
-Harrison,5.0,COMMISSIONER OF AGRICULTURE,,REP,Sid Miller,254.0,105.0,149.0
-Harrison,5.0,COMMISSIONER OF AGRICULTURE,,DEM,Jim Hogan,76.0,25.0,51.0
-Harrison,5.0,COMMISSIONER OF AGRICULTURE,,LIB,David (Rocky) Palmquist,15.0,4.0,11.0
-Harrison,5.0,COMMISSIONER OF AGRICULTURE,,GRN,Kenneth Kendrick,1.0,0.0,1.0
+Harrison,5.0,Commissioner of Agriculture,,REP,Sid Miller,254.0,105.0,149.0
+Harrison,5.0,Commissioner of Agriculture,,DEM,Jim Hogan,76.0,25.0,51.0
+Harrison,5.0,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,15.0,4.0,11.0
+Harrison,5.0,Commissioner of Agriculture,,GRN,Kenneth Kendrick,1.0,0.0,1.0
 Harrison,5.0,RAILROAD COMMISSIONER,,REP,Ryan Sitton,253.0,105.0,148.0
 Harrison,5.0,RAILROAD COMMISSIONER,,DEM,Steve Brown,73.0,26.0,47.0
 Harrison,5.0,RAILROAD COMMISSIONER,,LIB,Mark A. Miller,19.0,3.0,16.0
@@ -378,10 +378,10 @@ Harrison,5.0,"JUSTICE OF THE PEACE, PRECINCT NO. 1",,REP,Megan Hickey Pinson,275
 Harrison,5.0,"JUSTICE OF THE PEACE, PRECINCT NO. 1",,DEM,Edwin Mazier Lee,66.0,25.0,41.0
 Harrison,5.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",FOR,243.0,89.0,154.0
 Harrison,5.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",AGAINST,54.0,20.0,34.0
-Harrison,6.0,STRAIGHT PARTY,,REP,Republican Party,247.0,72.0,175.0
-Harrison,6.0,STRAIGHT PARTY,,DEM,Democratic Party,59.0,29.0,30.0
-Harrison,6.0,STRAIGHT PARTY,,LIB,Libertarian Party,6.0,1.0,5.0
-Harrison,6.0,STRAIGHT PARTY,,GRN,Green Party,0.0,0.0,0.0
+Harrison,6.0,Straight Party,,REP,Republican Party,247.0,72.0,175.0
+Harrison,6.0,Straight Party,,DEM,Democratic Party,59.0,29.0,30.0
+Harrison,6.0,Straight Party,,LIB,Libertarian Party,6.0,1.0,5.0
+Harrison,6.0,Straight Party,,GRN,Green Party,0.0,0.0,0.0
 Harrison,6.0,U.S. Senate,,REP,John Cornyn,409.0,135.0,274.0
 Harrison,6.0,U.S. Senate,,DEM,David M. Alameel,103.0,48.0,55.0
 Harrison,6.0,U.S. Senate,,LIB,Rebecca Paddock,19.0,5.0,14.0
@@ -394,26 +394,26 @@ Harrison,6.0,GOVERNOR,,DEM,Wendy R. Davis,120.0,48.0,72.0
 Harrison,6.0,GOVERNOR,,LIB,Kathie Glass,12.0,2.0,10.0
 Harrison,6.0,GOVERNOR,,GRN,Brandon Parmer,1.0,0.0,1.0
 Harrison,6.0,GOVERNOR,,"",Sarah M Pavitt,1.0,1.0,0.0
-Harrison,6.0,LIEUTENANT GOVERNOR,,REP,Dan Patrick,413.0,137.0,276.0
-Harrison,6.0,LIEUTENANT GOVERNOR,,DEM,Leticia Van de Putte,104.0,50.0,54.0
-Harrison,6.0,LIEUTENANT GOVERNOR,,LIB,Robert D. Butler,17.0,5.0,12.0
-Harrison,6.0,LIEUTENANT GOVERNOR,,GRN,Chandrakantha Courtney,1.0,0.0,1.0
-Harrison,6.0,ATTORNEY GENERAL,,REP,Ken Paxton,406.0,135.0,271.0
-Harrison,6.0,ATTORNEY GENERAL,,DEM,Sam Houston,113.0,50.0,63.0
-Harrison,6.0,ATTORNEY GENERAL,,LIB,Jamie Balagia,12.0,2.0,10.0
-Harrison,6.0,ATTORNEY GENERAL,,GRN,Jamar Osborne,2.0,1.0,1.0
-Harrison,6.0,COMPTROLLER OF PUBLIC ACCOUNTS,,REP,Glenn Hegar,399.0,134.0,265.0
-Harrison,6.0,COMPTROLLER OF PUBLIC ACCOUNTS,,DEM,Mike Collier,116.0,51.0,65.0
-Harrison,6.0,COMPTROLLER OF PUBLIC ACCOUNTS,,LIB,Ben Sanders,14.0,4.0,10.0
-Harrison,6.0,COMPTROLLER OF PUBLIC ACCOUNTS,,GRN,Deb Shafto,4.0,2.0,2.0
+Harrison,6.0,Lieutenant Governor,,REP,Dan Patrick,413.0,137.0,276.0
+Harrison,6.0,Lieutenant Governor,,DEM,Leticia Van de Putte,104.0,50.0,54.0
+Harrison,6.0,Lieutenant Governor,,LIB,Robert D. Butler,17.0,5.0,12.0
+Harrison,6.0,Lieutenant Governor,,GRN,Chandrakantha Courtney,1.0,0.0,1.0
+Harrison,6.0,Attorney General,,REP,Ken Paxton,406.0,135.0,271.0
+Harrison,6.0,Attorney General,,DEM,Sam Houston,113.0,50.0,63.0
+Harrison,6.0,Attorney General,,LIB,Jamie Balagia,12.0,2.0,10.0
+Harrison,6.0,Attorney General,,GRN,Jamar Osborne,2.0,1.0,1.0
+Harrison,6.0,Comptroller	of Public Accounts,,REP,Glenn Hegar,399.0,134.0,265.0
+Harrison,6.0,Comptroller	of Public Accounts,,DEM,Mike Collier,116.0,51.0,65.0
+Harrison,6.0,Comptroller	of Public Accounts,,LIB,Ben Sanders,14.0,4.0,10.0
+Harrison,6.0,Comptroller	of Public Accounts,,GRN,Deb Shafto,4.0,2.0,2.0
 Harrison,6.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,REP,George P. Bush,398.0,130.0,268.0
 Harrison,6.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,DEM,John Cook,119.0,53.0,66.0
 Harrison,6.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,LIB,Justin Knight,13.0,5.0,8.0
 Harrison,6.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,GRN,Valerie Alessi,4.0,1.0,3.0
-Harrison,6.0,COMMISSIONER OF AGRICULTURE,,REP,Sid Miller,404.0,136.0,268.0
-Harrison,6.0,COMMISSIONER OF AGRICULTURE,,DEM,Jim Hogan,115.0,51.0,64.0
-Harrison,6.0,COMMISSIONER OF AGRICULTURE,,LIB,David (Rocky) Palmquist,9.0,3.0,6.0
-Harrison,6.0,COMMISSIONER OF AGRICULTURE,,GRN,Kenneth Kendrick,3.0,1.0,2.0
+Harrison,6.0,Commissioner of Agriculture,,REP,Sid Miller,404.0,136.0,268.0
+Harrison,6.0,Commissioner of Agriculture,,DEM,Jim Hogan,115.0,51.0,64.0
+Harrison,6.0,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,9.0,3.0,6.0
+Harrison,6.0,Commissioner of Agriculture,,GRN,Kenneth Kendrick,3.0,1.0,2.0
 Harrison,6.0,RAILROAD COMMISSIONER,,REP,Ryan Sitton,391.0,131.0,260.0
 Harrison,6.0,RAILROAD COMMISSIONER,,DEM,Steve Brown,123.0,55.0,68.0
 Harrison,6.0,RAILROAD COMMISSIONER,,LIB,Mark A. Miller,15.0,4.0,11.0
@@ -453,10 +453,10 @@ Harrison,6.0,"JUSTICE OF THE PEACE, PRECINCT NO. 1",,REP,Megan Hickey Pinson,430
 Harrison,6.0,"JUSTICE OF THE PEACE, PRECINCT NO. 1",,DEM,Edwin Mazier Lee,108.0,50.0,58.0
 Harrison,6.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",FOR,370.0,126.0,244.0
 Harrison,6.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",AGAINST,110.0,42.0,68.0
-Harrison,7.0,STRAIGHT PARTY,,REP,Republican Party,170.0,88.0,82.0
-Harrison,7.0,STRAIGHT PARTY,,DEM,Democratic Party,58.0,32.0,26.0
-Harrison,7.0,STRAIGHT PARTY,,LIB,Libertarian Party,1.0,0.0,1.0
-Harrison,7.0,STRAIGHT PARTY,,GRN,Green Party,0.0,0.0,0.0
+Harrison,7.0,Straight Party,,REP,Republican Party,170.0,88.0,82.0
+Harrison,7.0,Straight Party,,DEM,Democratic Party,58.0,32.0,26.0
+Harrison,7.0,Straight Party,,LIB,Libertarian Party,1.0,0.0,1.0
+Harrison,7.0,Straight Party,,GRN,Green Party,0.0,0.0,0.0
 Harrison,7.0,U.S. Senate,,REP,John Cornyn,269.0,133.0,136.0
 Harrison,7.0,U.S. Senate,,DEM,David M. Alameel,83.0,50.0,33.0
 Harrison,7.0,U.S. Senate,,LIB,Rebecca Paddock,6.0,4.0,2.0
@@ -469,26 +469,26 @@ Harrison,7.0,GOVERNOR,,DEM,Wendy R. Davis,93.0,55.0,38.0
 Harrison,7.0,GOVERNOR,,LIB,Kathie Glass,3.0,0.0,3.0
 Harrison,7.0,GOVERNOR,,GRN,Brandon Parmer,2.0,1.0,1.0
 Harrison,7.0,GOVERNOR,,"",Sarah M Pavitt,0.0,0.0,0.0
-Harrison,7.0,LIEUTENANT GOVERNOR,,REP,Dan Patrick,270.0,136.0,134.0
-Harrison,7.0,LIEUTENANT GOVERNOR,,DEM,Leticia Van de Putte,82.0,50.0,32.0
-Harrison,7.0,LIEUTENANT GOVERNOR,,LIB,Robert D. Butler,8.0,2.0,6.0
-Harrison,7.0,LIEUTENANT GOVERNOR,,GRN,Chandrakantha Courtney,2.0,1.0,1.0
-Harrison,7.0,ATTORNEY GENERAL,,REP,Ken Paxton,259.0,132.0,127.0
-Harrison,7.0,ATTORNEY GENERAL,,DEM,Sam Houston,92.0,52.0,40.0
-Harrison,7.0,ATTORNEY GENERAL,,LIB,Jamie Balagia,9.0,4.0,5.0
-Harrison,7.0,ATTORNEY GENERAL,,GRN,Jamar Osborne,2.0,1.0,1.0
-Harrison,7.0,COMPTROLLER OF PUBLIC ACCOUNTS,,REP,Glenn Hegar,257.0,131.0,126.0
-Harrison,7.0,COMPTROLLER OF PUBLIC ACCOUNTS,,DEM,Mike Collier,87.0,52.0,35.0
-Harrison,7.0,COMPTROLLER OF PUBLIC ACCOUNTS,,LIB,Ben Sanders,15.0,5.0,10.0
-Harrison,7.0,COMPTROLLER OF PUBLIC ACCOUNTS,,GRN,Deb Shafto,1.0,0.0,1.0
+Harrison,7.0,Lieutenant Governor,,REP,Dan Patrick,270.0,136.0,134.0
+Harrison,7.0,Lieutenant Governor,,DEM,Leticia Van de Putte,82.0,50.0,32.0
+Harrison,7.0,Lieutenant Governor,,LIB,Robert D. Butler,8.0,2.0,6.0
+Harrison,7.0,Lieutenant Governor,,GRN,Chandrakantha Courtney,2.0,1.0,1.0
+Harrison,7.0,Attorney General,,REP,Ken Paxton,259.0,132.0,127.0
+Harrison,7.0,Attorney General,,DEM,Sam Houston,92.0,52.0,40.0
+Harrison,7.0,Attorney General,,LIB,Jamie Balagia,9.0,4.0,5.0
+Harrison,7.0,Attorney General,,GRN,Jamar Osborne,2.0,1.0,1.0
+Harrison,7.0,Comptroller	of Public Accounts,,REP,Glenn Hegar,257.0,131.0,126.0
+Harrison,7.0,Comptroller	of Public Accounts,,DEM,Mike Collier,87.0,52.0,35.0
+Harrison,7.0,Comptroller	of Public Accounts,,LIB,Ben Sanders,15.0,5.0,10.0
+Harrison,7.0,Comptroller	of Public Accounts,,GRN,Deb Shafto,1.0,0.0,1.0
 Harrison,7.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,REP,George P. Bush,262.0,133.0,129.0
 Harrison,7.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,DEM,John Cook,87.0,51.0,36.0
 Harrison,7.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,LIB,Justin Knight,12.0,4.0,8.0
 Harrison,7.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,GRN,Valerie Alessi,2.0,1.0,1.0
-Harrison,7.0,COMMISSIONER OF AGRICULTURE,,REP,Sid Miller,260.0,133.0,127.0
-Harrison,7.0,COMMISSIONER OF AGRICULTURE,,DEM,Jim Hogan,87.0,51.0,36.0
-Harrison,7.0,COMMISSIONER OF AGRICULTURE,,LIB,David (Rocky) Palmquist,12.0,3.0,9.0
-Harrison,7.0,COMMISSIONER OF AGRICULTURE,,GRN,Kenneth Kendrick,2.0,1.0,1.0
+Harrison,7.0,Commissioner of Agriculture,,REP,Sid Miller,260.0,133.0,127.0
+Harrison,7.0,Commissioner of Agriculture,,DEM,Jim Hogan,87.0,51.0,36.0
+Harrison,7.0,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,12.0,3.0,9.0
+Harrison,7.0,Commissioner of Agriculture,,GRN,Kenneth Kendrick,2.0,1.0,1.0
 Harrison,7.0,RAILROAD COMMISSIONER,,REP,Ryan Sitton,260.0,131.0,129.0
 Harrison,7.0,RAILROAD COMMISSIONER,,DEM,Steve Brown,85.0,49.0,36.0
 Harrison,7.0,RAILROAD COMMISSIONER,,LIB,Mark A. Miller,11.0,4.0,7.0
@@ -528,10 +528,10 @@ Harrison,7.0,"JUSTICE OF THE PEACE, PRECINCT NO. 1",,REP,Megan Hickey Pinson,276
 Harrison,7.0,"JUSTICE OF THE PEACE, PRECINCT NO. 1",,DEM,Edwin Mazier Lee,89.0,50.0,39.0
 Harrison,7.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",FOR,249.0,132.0,117.0
 Harrison,7.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",AGAINST,79.0,40.0,39.0
-Harrison,8.0,STRAIGHT PARTY,,REP,Republican Party,471.0,298.0,173.0
-Harrison,8.0,STRAIGHT PARTY,,DEM,Democratic Party,103.0,57.0,46.0
-Harrison,8.0,STRAIGHT PARTY,,LIB,Libertarian Party,4.0,2.0,2.0
-Harrison,8.0,STRAIGHT PARTY,,GRN,Green Party,1.0,1.0,0.0
+Harrison,8.0,Straight Party,,REP,Republican Party,471.0,298.0,173.0
+Harrison,8.0,Straight Party,,DEM,Democratic Party,103.0,57.0,46.0
+Harrison,8.0,Straight Party,,LIB,Libertarian Party,4.0,2.0,2.0
+Harrison,8.0,Straight Party,,GRN,Green Party,1.0,1.0,0.0
 Harrison,8.0,U.S. Senate,,REP,John Cornyn,835.0,536.0,299.0
 Harrison,8.0,U.S. Senate,,DEM,David M. Alameel,200.0,114.0,86.0
 Harrison,8.0,U.S. Senate,,LIB,Rebecca Paddock,22.0,9.0,13.0
@@ -544,26 +544,26 @@ Harrison,8.0,GOVERNOR,,DEM,Wendy R. Davis,222.0,134.0,88.0
 Harrison,8.0,GOVERNOR,,LIB,Kathie Glass,11.0,3.0,8.0
 Harrison,8.0,GOVERNOR,,GRN,Brandon Parmer,3.0,1.0,2.0
 Harrison,8.0,GOVERNOR,,"",Sarah M Pavitt,0.0,0.0,0.0
-Harrison,8.0,LIEUTENANT GOVERNOR,,REP,Dan Patrick,809.0,521.0,288.0
-Harrison,8.0,LIEUTENANT GOVERNOR,,DEM,Leticia Van de Putte,219.0,125.0,94.0
-Harrison,8.0,LIEUTENANT GOVERNOR,,LIB,Robert D. Butler,29.0,11.0,18.0
-Harrison,8.0,LIEUTENANT GOVERNOR,,GRN,Chandrakantha Courtney,3.0,2.0,1.0
-Harrison,8.0,ATTORNEY GENERAL,,REP,Ken Paxton,800.0,517.0,283.0
-Harrison,8.0,ATTORNEY GENERAL,,DEM,Sam Houston,238.0,131.0,107.0
-Harrison,8.0,ATTORNEY GENERAL,,LIB,Jamie Balagia,12.0,4.0,8.0
-Harrison,8.0,ATTORNEY GENERAL,,GRN,Jamar Osborne,5.0,2.0,3.0
-Harrison,8.0,COMPTROLLER OF PUBLIC ACCOUNTS,,REP,Glenn Hegar,779.0,501.0,278.0
-Harrison,8.0,COMPTROLLER OF PUBLIC ACCOUNTS,,DEM,Mike Collier,238.0,139.0,99.0
-Harrison,8.0,COMPTROLLER OF PUBLIC ACCOUNTS,,LIB,Ben Sanders,28.0,10.0,18.0
-Harrison,8.0,COMPTROLLER OF PUBLIC ACCOUNTS,,GRN,Deb Shafto,5.0,2.0,3.0
+Harrison,8.0,Lieutenant Governor,,REP,Dan Patrick,809.0,521.0,288.0
+Harrison,8.0,Lieutenant Governor,,DEM,Leticia Van de Putte,219.0,125.0,94.0
+Harrison,8.0,Lieutenant Governor,,LIB,Robert D. Butler,29.0,11.0,18.0
+Harrison,8.0,Lieutenant Governor,,GRN,Chandrakantha Courtney,3.0,2.0,1.0
+Harrison,8.0,Attorney General,,REP,Ken Paxton,800.0,517.0,283.0
+Harrison,8.0,Attorney General,,DEM,Sam Houston,238.0,131.0,107.0
+Harrison,8.0,Attorney General,,LIB,Jamie Balagia,12.0,4.0,8.0
+Harrison,8.0,Attorney General,,GRN,Jamar Osborne,5.0,2.0,3.0
+Harrison,8.0,Comptroller	of Public Accounts,,REP,Glenn Hegar,779.0,501.0,278.0
+Harrison,8.0,Comptroller	of Public Accounts,,DEM,Mike Collier,238.0,139.0,99.0
+Harrison,8.0,Comptroller	of Public Accounts,,LIB,Ben Sanders,28.0,10.0,18.0
+Harrison,8.0,Comptroller	of Public Accounts,,GRN,Deb Shafto,5.0,2.0,3.0
 Harrison,8.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,REP,George P. Bush,812.0,519.0,293.0
 Harrison,8.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,DEM,John Cook,213.0,123.0,90.0
 Harrison,8.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,LIB,Justin Knight,30.0,14.0,16.0
 Harrison,8.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,GRN,Valerie Alessi,6.0,3.0,3.0
-Harrison,8.0,COMMISSIONER OF AGRICULTURE,,REP,Sid Miller,781.0,497.0,284.0
-Harrison,8.0,COMMISSIONER OF AGRICULTURE,,DEM,Jim Hogan,229.0,135.0,94.0
-Harrison,8.0,COMMISSIONER OF AGRICULTURE,,LIB,David (Rocky) Palmquist,31.0,14.0,17.0
-Harrison,8.0,COMMISSIONER OF AGRICULTURE,,GRN,Kenneth Kendrick,8.0,4.0,4.0
+Harrison,8.0,Commissioner of Agriculture,,REP,Sid Miller,781.0,497.0,284.0
+Harrison,8.0,Commissioner of Agriculture,,DEM,Jim Hogan,229.0,135.0,94.0
+Harrison,8.0,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,31.0,14.0,17.0
+Harrison,8.0,Commissioner of Agriculture,,GRN,Kenneth Kendrick,8.0,4.0,4.0
 Harrison,8.0,RAILROAD COMMISSIONER,,REP,Ryan Sitton,788.0,504.0,284.0
 Harrison,8.0,RAILROAD COMMISSIONER,,DEM,Steve Brown,222.0,131.0,91.0
 Harrison,8.0,RAILROAD COMMISSIONER,,LIB,Mark A. Miller,37.0,15.0,22.0
@@ -603,10 +603,10 @@ Harrison,8.0,"COUNTY COMMISSIONER, PRECINCT NO. 4",,REP,Jay Ebarb,854.0,544.0,31
 Harrison,8.0,"COUNTY COMMISSIONER, PRECINCT NO. 4",,DEM,James Roy (J.R.) Barrett,199.0,109.0,90.0
 Harrison,8.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",FOR,792.0,521.0,271.0
 Harrison,8.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",AGAINST,168.0,94.0,74.0
-Harrison,9.0,STRAIGHT PARTY,,REP,Republican Party,203.0,119.0,84.0
-Harrison,9.0,STRAIGHT PARTY,,DEM,Democratic Party,95.0,57.0,38.0
-Harrison,9.0,STRAIGHT PARTY,,LIB,Libertarian Party,2.0,2.0,0.0
-Harrison,9.0,STRAIGHT PARTY,,GRN,Green Party,0.0,0.0,0.0
+Harrison,9.0,Straight Party,,REP,Republican Party,203.0,119.0,84.0
+Harrison,9.0,Straight Party,,DEM,Democratic Party,95.0,57.0,38.0
+Harrison,9.0,Straight Party,,LIB,Libertarian Party,2.0,2.0,0.0
+Harrison,9.0,Straight Party,,GRN,Green Party,0.0,0.0,0.0
 Harrison,9.0,U.S. Senate,,REP,John Cornyn,330.0,198.0,132.0
 Harrison,9.0,U.S. Senate,,DEM,David M. Alameel,130.0,74.0,56.0
 Harrison,9.0,U.S. Senate,,LIB,Rebecca Paddock,18.0,10.0,8.0
@@ -619,26 +619,26 @@ Harrison,9.0,GOVERNOR,,DEM,Wendy R. Davis,148.0,86.0,62.0
 Harrison,9.0,GOVERNOR,,LIB,Kathie Glass,7.0,4.0,3.0
 Harrison,9.0,GOVERNOR,,GRN,Brandon Parmer,1.0,0.0,1.0
 Harrison,9.0,GOVERNOR,,"",Sarah M Pavitt,0.0,0.0,0.0
-Harrison,9.0,LIEUTENANT GOVERNOR,,REP,Dan Patrick,336.0,197.0,139.0
-Harrison,9.0,LIEUTENANT GOVERNOR,,DEM,Leticia Van de Putte,134.0,82.0,52.0
-Harrison,9.0,LIEUTENANT GOVERNOR,,LIB,Robert D. Butler,11.0,9.0,2.0
-Harrison,9.0,LIEUTENANT GOVERNOR,,GRN,Chandrakantha Courtney,1.0,1.0,0.0
-Harrison,9.0,ATTORNEY GENERAL,,REP,Ken Paxton,325.0,195.0,130.0
-Harrison,9.0,ATTORNEY GENERAL,,DEM,Sam Houston,147.0,86.0,61.0
-Harrison,9.0,ATTORNEY GENERAL,,LIB,Jamie Balagia,8.0,6.0,2.0
-Harrison,9.0,ATTORNEY GENERAL,,GRN,Jamar Osborne,2.0,1.0,1.0
-Harrison,9.0,COMPTROLLER OF PUBLIC ACCOUNTS,,REP,Glenn Hegar,317.0,186.0,131.0
-Harrison,9.0,COMPTROLLER OF PUBLIC ACCOUNTS,,DEM,Mike Collier,140.0,85.0,55.0
-Harrison,9.0,COMPTROLLER OF PUBLIC ACCOUNTS,,LIB,Ben Sanders,20.0,12.0,8.0
-Harrison,9.0,COMPTROLLER OF PUBLIC ACCOUNTS,,GRN,Deb Shafto,3.0,3.0,0.0
+Harrison,9.0,Lieutenant Governor,,REP,Dan Patrick,336.0,197.0,139.0
+Harrison,9.0,Lieutenant Governor,,DEM,Leticia Van de Putte,134.0,82.0,52.0
+Harrison,9.0,Lieutenant Governor,,LIB,Robert D. Butler,11.0,9.0,2.0
+Harrison,9.0,Lieutenant Governor,,GRN,Chandrakantha Courtney,1.0,1.0,0.0
+Harrison,9.0,Attorney General,,REP,Ken Paxton,325.0,195.0,130.0
+Harrison,9.0,Attorney General,,DEM,Sam Houston,147.0,86.0,61.0
+Harrison,9.0,Attorney General,,LIB,Jamie Balagia,8.0,6.0,2.0
+Harrison,9.0,Attorney General,,GRN,Jamar Osborne,2.0,1.0,1.0
+Harrison,9.0,Comptroller	of Public Accounts,,REP,Glenn Hegar,317.0,186.0,131.0
+Harrison,9.0,Comptroller	of Public Accounts,,DEM,Mike Collier,140.0,85.0,55.0
+Harrison,9.0,Comptroller	of Public Accounts,,LIB,Ben Sanders,20.0,12.0,8.0
+Harrison,9.0,Comptroller	of Public Accounts,,GRN,Deb Shafto,3.0,3.0,0.0
 Harrison,9.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,REP,George P. Bush,323.0,193.0,130.0
 Harrison,9.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,DEM,John Cook,139.0,82.0,57.0
 Harrison,9.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,LIB,Justin Knight,20.0,12.0,8.0
 Harrison,9.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,GRN,Valerie Alessi,2.0,2.0,0.0
-Harrison,9.0,COMMISSIONER OF AGRICULTURE,,REP,Sid Miller,315.0,189.0,126.0
-Harrison,9.0,COMMISSIONER OF AGRICULTURE,,DEM,Jim Hogan,145.0,88.0,57.0
-Harrison,9.0,COMMISSIONER OF AGRICULTURE,,LIB,David (Rocky) Palmquist,13.0,5.0,8.0
-Harrison,9.0,COMMISSIONER OF AGRICULTURE,,GRN,Kenneth Kendrick,5.0,4.0,1.0
+Harrison,9.0,Commissioner of Agriculture,,REP,Sid Miller,315.0,189.0,126.0
+Harrison,9.0,Commissioner of Agriculture,,DEM,Jim Hogan,145.0,88.0,57.0
+Harrison,9.0,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,13.0,5.0,8.0
+Harrison,9.0,Commissioner of Agriculture,,GRN,Kenneth Kendrick,5.0,4.0,1.0
 Harrison,9.0,RAILROAD COMMISSIONER,,REP,Ryan Sitton,322.0,192.0,130.0
 Harrison,9.0,RAILROAD COMMISSIONER,,DEM,Steve Brown,139.0,84.0,55.0
 Harrison,9.0,RAILROAD COMMISSIONER,,LIB,Mark A. Miller,16.0,8.0,8.0
@@ -678,10 +678,10 @@ Harrison,9.0,"COUNTY COMMISSIONER, PRECINCT NO. 4",,REP,Jay Ebarb,328.0,195.0,13
 Harrison,9.0,"COUNTY COMMISSIONER, PRECINCT NO. 4",,DEM,James Roy (J.R.) Barrett,150.0,90.0,60.0
 Harrison,9.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",FOR,324.0,198.0,126.0
 Harrison,9.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",AGAINST,102.0,60.0,42.0
-Harrison,10.0,STRAIGHT PARTY,,REP,Republican Party,198.0,127.0,71.0
-Harrison,10.0,STRAIGHT PARTY,,DEM,Democratic Party,48.0,29.0,19.0
-Harrison,10.0,STRAIGHT PARTY,,LIB,Libertarian Party,2.0,1.0,1.0
-Harrison,10.0,STRAIGHT PARTY,,GRN,Green Party,0.0,0.0,0.0
+Harrison,10.0,Straight Party,,REP,Republican Party,198.0,127.0,71.0
+Harrison,10.0,Straight Party,,DEM,Democratic Party,48.0,29.0,19.0
+Harrison,10.0,Straight Party,,LIB,Libertarian Party,2.0,1.0,1.0
+Harrison,10.0,Straight Party,,GRN,Green Party,0.0,0.0,0.0
 Harrison,10.0,U.S. Senate,,REP,John Cornyn,337.0,205.0,132.0
 Harrison,10.0,U.S. Senate,,DEM,David M. Alameel,75.0,45.0,30.0
 Harrison,10.0,U.S. Senate,,LIB,Rebecca Paddock,5.0,3.0,2.0
@@ -694,26 +694,26 @@ Harrison,10.0,GOVERNOR,,DEM,Wendy R. Davis,81.0,51.0,30.0
 Harrison,10.0,GOVERNOR,,LIB,Kathie Glass,2.0,0.0,2.0
 Harrison,10.0,GOVERNOR,,GRN,Brandon Parmer,2.0,1.0,1.0
 Harrison,10.0,GOVERNOR,,"",Sarah M Pavitt,0.0,0.0,0.0
-Harrison,10.0,LIEUTENANT GOVERNOR,,REP,Dan Patrick,332.0,201.0,131.0
-Harrison,10.0,LIEUTENANT GOVERNOR,,DEM,Leticia Van de Putte,79.0,49.0,30.0
-Harrison,10.0,LIEUTENANT GOVERNOR,,LIB,Robert D. Butler,8.0,5.0,3.0
-Harrison,10.0,LIEUTENANT GOVERNOR,,GRN,Chandrakantha Courtney,1.0,0.0,1.0
-Harrison,10.0,ATTORNEY GENERAL,,REP,Ken Paxton,328.0,198.0,130.0
-Harrison,10.0,ATTORNEY GENERAL,,DEM,Sam Houston,75.0,48.0,27.0
-Harrison,10.0,ATTORNEY GENERAL,,LIB,Jamie Balagia,12.0,6.0,6.0
-Harrison,10.0,ATTORNEY GENERAL,,GRN,Jamar Osborne,1.0,0.0,1.0
-Harrison,10.0,COMPTROLLER OF PUBLIC ACCOUNTS,,REP,Glenn Hegar,319.0,192.0,127.0
-Harrison,10.0,COMPTROLLER OF PUBLIC ACCOUNTS,,DEM,Mike Collier,82.0,50.0,32.0
-Harrison,10.0,COMPTROLLER OF PUBLIC ACCOUNTS,,LIB,Ben Sanders,9.0,6.0,3.0
-Harrison,10.0,COMPTROLLER OF PUBLIC ACCOUNTS,,GRN,Deb Shafto,2.0,1.0,1.0
+Harrison,10.0,Lieutenant Governor,,REP,Dan Patrick,332.0,201.0,131.0
+Harrison,10.0,Lieutenant Governor,,DEM,Leticia Van de Putte,79.0,49.0,30.0
+Harrison,10.0,Lieutenant Governor,,LIB,Robert D. Butler,8.0,5.0,3.0
+Harrison,10.0,Lieutenant Governor,,GRN,Chandrakantha Courtney,1.0,0.0,1.0
+Harrison,10.0,Attorney General,,REP,Ken Paxton,328.0,198.0,130.0
+Harrison,10.0,Attorney General,,DEM,Sam Houston,75.0,48.0,27.0
+Harrison,10.0,Attorney General,,LIB,Jamie Balagia,12.0,6.0,6.0
+Harrison,10.0,Attorney General,,GRN,Jamar Osborne,1.0,0.0,1.0
+Harrison,10.0,Comptroller	of Public Accounts,,REP,Glenn Hegar,319.0,192.0,127.0
+Harrison,10.0,Comptroller	of Public Accounts,,DEM,Mike Collier,82.0,50.0,32.0
+Harrison,10.0,Comptroller	of Public Accounts,,LIB,Ben Sanders,9.0,6.0,3.0
+Harrison,10.0,Comptroller	of Public Accounts,,GRN,Deb Shafto,2.0,1.0,1.0
 Harrison,10.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,REP,George P. Bush,323.0,195.0,128.0
 Harrison,10.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,DEM,John Cook,84.0,52.0,32.0
 Harrison,10.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,LIB,Justin Knight,12.0,8.0,4.0
 Harrison,10.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,GRN,Valerie Alessi,1.0,0.0,1.0
-Harrison,10.0,COMMISSIONER OF AGRICULTURE,,REP,Sid Miller,321.0,194.0,127.0
-Harrison,10.0,COMMISSIONER OF AGRICULTURE,,DEM,Jim Hogan,76.0,48.0,28.0
-Harrison,10.0,COMMISSIONER OF AGRICULTURE,,LIB,David (Rocky) Palmquist,11.0,5.0,6.0
-Harrison,10.0,COMMISSIONER OF AGRICULTURE,,GRN,Kenneth Kendrick,4.0,2.0,2.0
+Harrison,10.0,Commissioner of Agriculture,,REP,Sid Miller,321.0,194.0,127.0
+Harrison,10.0,Commissioner of Agriculture,,DEM,Jim Hogan,76.0,48.0,28.0
+Harrison,10.0,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,11.0,5.0,6.0
+Harrison,10.0,Commissioner of Agriculture,,GRN,Kenneth Kendrick,4.0,2.0,2.0
 Harrison,10.0,RAILROAD COMMISSIONER,,REP,Ryan Sitton,322.0,196.0,126.0
 Harrison,10.0,RAILROAD COMMISSIONER,,DEM,Steve Brown,78.0,48.0,30.0
 Harrison,10.0,RAILROAD COMMISSIONER,,LIB,Mark A. Miller,10.0,7.0,3.0
@@ -753,10 +753,10 @@ Harrison,10.0,"JUSTICE OF THE PEACE, PRECINCT NO. 1",,REP,Megan Hickey Pinson,33
 Harrison,10.0,"JUSTICE OF THE PEACE, PRECINCT NO. 1",,DEM,Edwin Mazier Lee,86.0,46.0,40.0
 Harrison,10.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",FOR,299.0,190.0,109.0
 Harrison,10.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",AGAINST,77.0,39.0,38.0
-Harrison,11.0,STRAIGHT PARTY,,REP,Republican Party,74.0,48.0,26.0
-Harrison,11.0,STRAIGHT PARTY,,DEM,Democratic Party,33.0,17.0,16.0
-Harrison,11.0,STRAIGHT PARTY,,LIB,Libertarian Party,0.0,0.0,0.0
-Harrison,11.0,STRAIGHT PARTY,,GRN,Green Party,0.0,0.0,0.0
+Harrison,11.0,Straight Party,,REP,Republican Party,74.0,48.0,26.0
+Harrison,11.0,Straight Party,,DEM,Democratic Party,33.0,17.0,16.0
+Harrison,11.0,Straight Party,,LIB,Libertarian Party,0.0,0.0,0.0
+Harrison,11.0,Straight Party,,GRN,Green Party,0.0,0.0,0.0
 Harrison,11.0,U.S. Senate,,REP,John Cornyn,116.0,75.0,41.0
 Harrison,11.0,U.S. Senate,,DEM,David M. Alameel,52.0,29.0,23.0
 Harrison,11.0,U.S. Senate,,LIB,Rebecca Paddock,4.0,0.0,4.0
@@ -769,26 +769,26 @@ Harrison,11.0,GOVERNOR,,DEM,Wendy R. Davis,58.0,34.0,24.0
 Harrison,11.0,GOVERNOR,,LIB,Kathie Glass,2.0,1.0,1.0
 Harrison,11.0,GOVERNOR,,GRN,Brandon Parmer,0.0,0.0,0.0
 Harrison,11.0,GOVERNOR,,"",Sarah M Pavitt,0.0,0.0,0.0
-Harrison,11.0,LIEUTENANT GOVERNOR,,REP,Dan Patrick,113.0,73.0,40.0
-Harrison,11.0,LIEUTENANT GOVERNOR,,DEM,Leticia Van de Putte,55.0,31.0,24.0
-Harrison,11.0,LIEUTENANT GOVERNOR,,LIB,Robert D. Butler,4.0,0.0,4.0
-Harrison,11.0,LIEUTENANT GOVERNOR,,GRN,Chandrakantha Courtney,0.0,0.0,0.0
-Harrison,11.0,ATTORNEY GENERAL,,REP,Ken Paxton,111.0,71.0,40.0
-Harrison,11.0,ATTORNEY GENERAL,,DEM,Sam Houston,58.0,32.0,26.0
-Harrison,11.0,ATTORNEY GENERAL,,LIB,Jamie Balagia,2.0,0.0,2.0
-Harrison,11.0,ATTORNEY GENERAL,,GRN,Jamar Osborne,0.0,0.0,0.0
-Harrison,11.0,COMPTROLLER OF PUBLIC ACCOUNTS,,REP,Glenn Hegar,109.0,68.0,41.0
-Harrison,11.0,COMPTROLLER OF PUBLIC ACCOUNTS,,DEM,Mike Collier,61.0,36.0,25.0
-Harrison,11.0,COMPTROLLER OF PUBLIC ACCOUNTS,,LIB,Ben Sanders,2.0,0.0,2.0
-Harrison,11.0,COMPTROLLER OF PUBLIC ACCOUNTS,,GRN,Deb Shafto,0.0,0.0,0.0
+Harrison,11.0,Lieutenant Governor,,REP,Dan Patrick,113.0,73.0,40.0
+Harrison,11.0,Lieutenant Governor,,DEM,Leticia Van de Putte,55.0,31.0,24.0
+Harrison,11.0,Lieutenant Governor,,LIB,Robert D. Butler,4.0,0.0,4.0
+Harrison,11.0,Lieutenant Governor,,GRN,Chandrakantha Courtney,0.0,0.0,0.0
+Harrison,11.0,Attorney General,,REP,Ken Paxton,111.0,71.0,40.0
+Harrison,11.0,Attorney General,,DEM,Sam Houston,58.0,32.0,26.0
+Harrison,11.0,Attorney General,,LIB,Jamie Balagia,2.0,0.0,2.0
+Harrison,11.0,Attorney General,,GRN,Jamar Osborne,0.0,0.0,0.0
+Harrison,11.0,Comptroller	of Public Accounts,,REP,Glenn Hegar,109.0,68.0,41.0
+Harrison,11.0,Comptroller	of Public Accounts,,DEM,Mike Collier,61.0,36.0,25.0
+Harrison,11.0,Comptroller	of Public Accounts,,LIB,Ben Sanders,2.0,0.0,2.0
+Harrison,11.0,Comptroller	of Public Accounts,,GRN,Deb Shafto,0.0,0.0,0.0
 Harrison,11.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,REP,George P. Bush,106.0,67.0,39.0
 Harrison,11.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,DEM,John Cook,60.0,37.0,23.0
 Harrison,11.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,LIB,Justin Knight,5.0,0.0,5.0
 Harrison,11.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,GRN,Valerie Alessi,0.0,0.0,0.0
-Harrison,11.0,COMMISSIONER OF AGRICULTURE,,REP,Sid Miller,106.0,67.0,39.0
-Harrison,11.0,COMMISSIONER OF AGRICULTURE,,DEM,Jim Hogan,55.0,32.0,23.0
-Harrison,11.0,COMMISSIONER OF AGRICULTURE,,LIB,David (Rocky) Palmquist,6.0,2.0,4.0
-Harrison,11.0,COMMISSIONER OF AGRICULTURE,,GRN,Kenneth Kendrick,3.0,2.0,1.0
+Harrison,11.0,Commissioner of Agriculture,,REP,Sid Miller,106.0,67.0,39.0
+Harrison,11.0,Commissioner of Agriculture,,DEM,Jim Hogan,55.0,32.0,23.0
+Harrison,11.0,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,6.0,2.0,4.0
+Harrison,11.0,Commissioner of Agriculture,,GRN,Kenneth Kendrick,3.0,2.0,1.0
 Harrison,11.0,RAILROAD COMMISSIONER,,REP,Ryan Sitton,106.0,68.0,38.0
 Harrison,11.0,RAILROAD COMMISSIONER,,DEM,Steve Brown,60.0,34.0,26.0
 Harrison,11.0,RAILROAD COMMISSIONER,,LIB,Mark A. Miller,5.0,2.0,3.0
@@ -830,10 +830,10 @@ Harrison,11.0,"JUSTICE OF THE PEACE, PRECINCT NO. 2",,REP,Libby Wyatt,116.0,72.0
 Harrison,11.0,"JUSTICE OF THE PEACE, PRECINCT NO. 2",,DEM,"Clarice ""Brenda"" Watkins",56.0,33.0,23.0
 Harrison,11.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",FOR,113.0,73.0,40.0
 Harrison,11.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",AGAINST,46.0,23.0,23.0
-Harrison,12.0,STRAIGHT PARTY,,REP,Republican Party,838.0,263.0,575.0
-Harrison,12.0,STRAIGHT PARTY,,DEM,Democratic Party,91.0,37.0,54.0
-Harrison,12.0,STRAIGHT PARTY,,LIB,Libertarian Party,4.0,3.0,1.0
-Harrison,12.0,STRAIGHT PARTY,,GRN,Green Party,2.0,0.0,2.0
+Harrison,12.0,Straight Party,,REP,Republican Party,838.0,263.0,575.0
+Harrison,12.0,Straight Party,,DEM,Democratic Party,91.0,37.0,54.0
+Harrison,12.0,Straight Party,,LIB,Libertarian Party,4.0,3.0,1.0
+Harrison,12.0,Straight Party,,GRN,Green Party,2.0,0.0,2.0
 Harrison,12.0,U.S. Senate,,REP,John Cornyn,1309.0,411.0,898.0
 Harrison,12.0,U.S. Senate,,DEM,David M. Alameel,160.0,64.0,96.0
 Harrison,12.0,U.S. Senate,,LIB,Rebecca Paddock,28.0,7.0,21.0
@@ -846,26 +846,26 @@ Harrison,12.0,GOVERNOR,,DEM,Wendy R. Davis,202.0,81.0,121.0
 Harrison,12.0,GOVERNOR,,LIB,Kathie Glass,17.0,7.0,10.0
 Harrison,12.0,GOVERNOR,,GRN,Brandon Parmer,2.0,1.0,1.0
 Harrison,12.0,GOVERNOR,,"",Sarah M Pavitt,0.0,0.0,0.0
-Harrison,12.0,LIEUTENANT GOVERNOR,,REP,Dan Patrick,1263.0,397.0,866.0
-Harrison,12.0,LIEUTENANT GOVERNOR,,DEM,Leticia Van de Putte,199.0,78.0,121.0
-Harrison,12.0,LIEUTENANT GOVERNOR,,LIB,Robert D. Butler,32.0,6.0,26.0
-Harrison,12.0,LIEUTENANT GOVERNOR,,GRN,Chandrakantha Courtney,6.0,1.0,5.0
-Harrison,12.0,ATTORNEY GENERAL,,REP,Ken Paxton,1258.0,394.0,864.0
-Harrison,12.0,ATTORNEY GENERAL,,DEM,Sam Houston,207.0,78.0,129.0
-Harrison,12.0,ATTORNEY GENERAL,,LIB,Jamie Balagia,25.0,8.0,17.0
-Harrison,12.0,ATTORNEY GENERAL,,GRN,Jamar Osborne,5.0,1.0,4.0
-Harrison,12.0,COMPTROLLER OF PUBLIC ACCOUNTS,,REP,Glenn Hegar,1226.0,382.0,844.0
-Harrison,12.0,COMPTROLLER OF PUBLIC ACCOUNTS,,DEM,Mike Collier,210.0,77.0,133.0
-Harrison,12.0,COMPTROLLER OF PUBLIC ACCOUNTS,,LIB,Ben Sanders,39.0,13.0,26.0
-Harrison,12.0,COMPTROLLER OF PUBLIC ACCOUNTS,,GRN,Deb Shafto,6.0,1.0,5.0
+Harrison,12.0,Lieutenant Governor,,REP,Dan Patrick,1263.0,397.0,866.0
+Harrison,12.0,Lieutenant Governor,,DEM,Leticia Van de Putte,199.0,78.0,121.0
+Harrison,12.0,Lieutenant Governor,,LIB,Robert D. Butler,32.0,6.0,26.0
+Harrison,12.0,Lieutenant Governor,,GRN,Chandrakantha Courtney,6.0,1.0,5.0
+Harrison,12.0,Attorney General,,REP,Ken Paxton,1258.0,394.0,864.0
+Harrison,12.0,Attorney General,,DEM,Sam Houston,207.0,78.0,129.0
+Harrison,12.0,Attorney General,,LIB,Jamie Balagia,25.0,8.0,17.0
+Harrison,12.0,Attorney General,,GRN,Jamar Osborne,5.0,1.0,4.0
+Harrison,12.0,Comptroller	of Public Accounts,,REP,Glenn Hegar,1226.0,382.0,844.0
+Harrison,12.0,Comptroller	of Public Accounts,,DEM,Mike Collier,210.0,77.0,133.0
+Harrison,12.0,Comptroller	of Public Accounts,,LIB,Ben Sanders,39.0,13.0,26.0
+Harrison,12.0,Comptroller	of Public Accounts,,GRN,Deb Shafto,6.0,1.0,5.0
 Harrison,12.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,REP,George P. Bush,1259.0,395.0,864.0
 Harrison,12.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,DEM,John Cook,186.0,72.0,114.0
 Harrison,12.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,LIB,Justin Knight,45.0,14.0,31.0
 Harrison,12.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,GRN,Valerie Alessi,9.0,2.0,7.0
-Harrison,12.0,COMMISSIONER OF AGRICULTURE,,REP,Sid Miller,1238.0,382.0,856.0
-Harrison,12.0,COMMISSIONER OF AGRICULTURE,,DEM,Jim Hogan,199.0,76.0,123.0
-Harrison,12.0,COMMISSIONER OF AGRICULTURE,,LIB,David (Rocky) Palmquist,41.0,14.0,27.0
-Harrison,12.0,COMMISSIONER OF AGRICULTURE,,GRN,Kenneth Kendrick,9.0,3.0,6.0
+Harrison,12.0,Commissioner of Agriculture,,REP,Sid Miller,1238.0,382.0,856.0
+Harrison,12.0,Commissioner of Agriculture,,DEM,Jim Hogan,199.0,76.0,123.0
+Harrison,12.0,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,41.0,14.0,27.0
+Harrison,12.0,Commissioner of Agriculture,,GRN,Kenneth Kendrick,9.0,3.0,6.0
 Harrison,12.0,RAILROAD COMMISSIONER,,REP,Ryan Sitton,1237.0,384.0,853.0
 Harrison,12.0,RAILROAD COMMISSIONER,,DEM,Steve Brown,198.0,78.0,120.0
 Harrison,12.0,RAILROAD COMMISSIONER,,LIB,Mark A. Miller,45.0,14.0,31.0
@@ -904,10 +904,10 @@ Harrison,12.0,COUNTY TREASURER,,REP,Jamie Marie Noland,1347.0,413.0,934.0
 Harrison,12.0,"JUSTICE OF THE PEACE, PRECINCT NO. 3",,REP,Mike Smith,1365.0,422.0,943.0
 Harrison,12.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",FOR,1053.0,338.0,715.0
 Harrison,12.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",AGAINST,248.0,82.0,166.0
-Harrison,13.0,STRAIGHT PARTY,,REP,Republican Party,314.0,128.0,186.0
-Harrison,13.0,STRAIGHT PARTY,,DEM,Democratic Party,16.0,7.0,9.0
-Harrison,13.0,STRAIGHT PARTY,,LIB,Libertarian Party,0.0,0.0,0.0
-Harrison,13.0,STRAIGHT PARTY,,GRN,Green Party,0.0,0.0,0.0
+Harrison,13.0,Straight Party,,REP,Republican Party,314.0,128.0,186.0
+Harrison,13.0,Straight Party,,DEM,Democratic Party,16.0,7.0,9.0
+Harrison,13.0,Straight Party,,LIB,Libertarian Party,0.0,0.0,0.0
+Harrison,13.0,Straight Party,,GRN,Green Party,0.0,0.0,0.0
 Harrison,13.0,U.S. Senate,,REP,John Cornyn,463.0,167.0,296.0
 Harrison,13.0,U.S. Senate,,DEM,David M. Alameel,33.0,16.0,17.0
 Harrison,13.0,U.S. Senate,,LIB,Rebecca Paddock,9.0,5.0,4.0
@@ -920,26 +920,26 @@ Harrison,13.0,GOVERNOR,,DEM,Wendy R. Davis,43.0,21.0,22.0
 Harrison,13.0,GOVERNOR,,LIB,Kathie Glass,7.0,1.0,6.0
 Harrison,13.0,GOVERNOR,,GRN,Brandon Parmer,0.0,0.0,0.0
 Harrison,13.0,GOVERNOR,,"",Sarah M Pavitt,0.0,0.0,0.0
-Harrison,13.0,LIEUTENANT GOVERNOR,,REP,Dan Patrick,454.0,167.0,287.0
-Harrison,13.0,LIEUTENANT GOVERNOR,,DEM,Leticia Van de Putte,41.0,20.0,21.0
-Harrison,13.0,LIEUTENANT GOVERNOR,,LIB,Robert D. Butler,10.0,1.0,9.0
-Harrison,13.0,LIEUTENANT GOVERNOR,,GRN,Chandrakantha Courtney,1.0,0.0,1.0
-Harrison,13.0,ATTORNEY GENERAL,,REP,Ken Paxton,461.0,168.0,293.0
-Harrison,13.0,ATTORNEY GENERAL,,DEM,Sam Houston,41.0,18.0,23.0
-Harrison,13.0,ATTORNEY GENERAL,,LIB,Jamie Balagia,3.0,1.0,2.0
-Harrison,13.0,ATTORNEY GENERAL,,GRN,Jamar Osborne,1.0,1.0,0.0
-Harrison,13.0,COMPTROLLER OF PUBLIC ACCOUNTS,,REP,Glenn Hegar,452.0,162.0,290.0
-Harrison,13.0,COMPTROLLER OF PUBLIC ACCOUNTS,,DEM,Mike Collier,41.0,21.0,20.0
-Harrison,13.0,COMPTROLLER OF PUBLIC ACCOUNTS,,LIB,Ben Sanders,11.0,4.0,7.0
-Harrison,13.0,COMPTROLLER OF PUBLIC ACCOUNTS,,GRN,Deb Shafto,1.0,1.0,0.0
+Harrison,13.0,Lieutenant Governor,,REP,Dan Patrick,454.0,167.0,287.0
+Harrison,13.0,Lieutenant Governor,,DEM,Leticia Van de Putte,41.0,20.0,21.0
+Harrison,13.0,Lieutenant Governor,,LIB,Robert D. Butler,10.0,1.0,9.0
+Harrison,13.0,Lieutenant Governor,,GRN,Chandrakantha Courtney,1.0,0.0,1.0
+Harrison,13.0,Attorney General,,REP,Ken Paxton,461.0,168.0,293.0
+Harrison,13.0,Attorney General,,DEM,Sam Houston,41.0,18.0,23.0
+Harrison,13.0,Attorney General,,LIB,Jamie Balagia,3.0,1.0,2.0
+Harrison,13.0,Attorney General,,GRN,Jamar Osborne,1.0,1.0,0.0
+Harrison,13.0,Comptroller	of Public Accounts,,REP,Glenn Hegar,452.0,162.0,290.0
+Harrison,13.0,Comptroller	of Public Accounts,,DEM,Mike Collier,41.0,21.0,20.0
+Harrison,13.0,Comptroller	of Public Accounts,,LIB,Ben Sanders,11.0,4.0,7.0
+Harrison,13.0,Comptroller	of Public Accounts,,GRN,Deb Shafto,1.0,1.0,0.0
 Harrison,13.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,REP,George P. Bush,457.0,167.0,290.0
 Harrison,13.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,DEM,John Cook,37.0,18.0,19.0
 Harrison,13.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,LIB,Justin Knight,10.0,3.0,7.0
 Harrison,13.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,GRN,Valerie Alessi,0.0,0.0,0.0
-Harrison,13.0,COMMISSIONER OF AGRICULTURE,,REP,Sid Miller,458.0,167.0,291.0
-Harrison,13.0,COMMISSIONER OF AGRICULTURE,,DEM,Jim Hogan,36.0,18.0,18.0
-Harrison,13.0,COMMISSIONER OF AGRICULTURE,,LIB,David (Rocky) Palmquist,10.0,3.0,7.0
-Harrison,13.0,COMMISSIONER OF AGRICULTURE,,GRN,Kenneth Kendrick,1.0,0.0,1.0
+Harrison,13.0,Commissioner of Agriculture,,REP,Sid Miller,458.0,167.0,291.0
+Harrison,13.0,Commissioner of Agriculture,,DEM,Jim Hogan,36.0,18.0,18.0
+Harrison,13.0,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,10.0,3.0,7.0
+Harrison,13.0,Commissioner of Agriculture,,GRN,Kenneth Kendrick,1.0,0.0,1.0
 Harrison,13.0,RAILROAD COMMISSIONER,,REP,Ryan Sitton,455.0,167.0,288.0
 Harrison,13.0,RAILROAD COMMISSIONER,,DEM,Steve Brown,38.0,17.0,21.0
 Harrison,13.0,RAILROAD COMMISSIONER,,LIB,Mark A. Miller,9.0,3.0,6.0
@@ -979,10 +979,10 @@ Harrison,13.0,"COUNTY COMMISSIONER, PRECINCT NO. 4",,REP,Jay Ebarb,461.0,166.0,2
 Harrison,13.0,"COUNTY COMMISSIONER, PRECINCT NO. 4",,DEM,James Roy (J.R.) Barrett,40.0,19.0,21.0
 Harrison,13.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",FOR,357.0,128.0,229.0
 Harrison,13.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",AGAINST,105.0,37.0,68.0
-Harrison,14.0,STRAIGHT PARTY,,REP,Republican Party,247.0,114.0,133.0
-Harrison,14.0,STRAIGHT PARTY,,DEM,Democratic Party,60.0,41.0,19.0
-Harrison,14.0,STRAIGHT PARTY,,LIB,Libertarian Party,1.0,1.0,0.0
-Harrison,14.0,STRAIGHT PARTY,,GRN,Green Party,0.0,0.0,0.0
+Harrison,14.0,Straight Party,,REP,Republican Party,247.0,114.0,133.0
+Harrison,14.0,Straight Party,,DEM,Democratic Party,60.0,41.0,19.0
+Harrison,14.0,Straight Party,,LIB,Libertarian Party,1.0,1.0,0.0
+Harrison,14.0,Straight Party,,GRN,Green Party,0.0,0.0,0.0
 Harrison,14.0,U.S. Senate,,REP,John Cornyn,362.0,179.0,183.0
 Harrison,14.0,U.S. Senate,,DEM,David M. Alameel,95.0,64.0,31.0
 Harrison,14.0,U.S. Senate,,LIB,Rebecca Paddock,12.0,9.0,3.0
@@ -995,26 +995,26 @@ Harrison,14.0,GOVERNOR,,DEM,Wendy R. Davis,101.0,68.0,33.0
 Harrison,14.0,GOVERNOR,,LIB,Kathie Glass,5.0,3.0,2.0
 Harrison,14.0,GOVERNOR,,GRN,Brandon Parmer,0.0,0.0,0.0
 Harrison,14.0,GOVERNOR,,"",Sarah M Pavitt,0.0,0.0,0.0
-Harrison,14.0,LIEUTENANT GOVERNOR,,REP,Dan Patrick,354.0,180.0,174.0
-Harrison,14.0,LIEUTENANT GOVERNOR,,DEM,Leticia Van de Putte,97.0,64.0,33.0
-Harrison,14.0,LIEUTENANT GOVERNOR,,LIB,Robert D. Butler,14.0,8.0,6.0
-Harrison,14.0,LIEUTENANT GOVERNOR,,GRN,Chandrakantha Courtney,0.0,0.0,0.0
-Harrison,14.0,ATTORNEY GENERAL,,REP,Ken Paxton,349.0,176.0,173.0
-Harrison,14.0,ATTORNEY GENERAL,,DEM,Sam Houston,103.0,68.0,35.0
-Harrison,14.0,ATTORNEY GENERAL,,LIB,Jamie Balagia,9.0,5.0,4.0
-Harrison,14.0,ATTORNEY GENERAL,,GRN,Jamar Osborne,1.0,0.0,1.0
-Harrison,14.0,COMPTROLLER OF PUBLIC ACCOUNTS,,REP,Glenn Hegar,342.0,171.0,171.0
-Harrison,14.0,COMPTROLLER OF PUBLIC ACCOUNTS,,DEM,Mike Collier,104.0,68.0,36.0
-Harrison,14.0,COMPTROLLER OF PUBLIC ACCOUNTS,,LIB,Ben Sanders,15.0,9.0,6.0
-Harrison,14.0,COMPTROLLER OF PUBLIC ACCOUNTS,,GRN,Deb Shafto,1.0,0.0,1.0
+Harrison,14.0,Lieutenant Governor,,REP,Dan Patrick,354.0,180.0,174.0
+Harrison,14.0,Lieutenant Governor,,DEM,Leticia Van de Putte,97.0,64.0,33.0
+Harrison,14.0,Lieutenant Governor,,LIB,Robert D. Butler,14.0,8.0,6.0
+Harrison,14.0,Lieutenant Governor,,GRN,Chandrakantha Courtney,0.0,0.0,0.0
+Harrison,14.0,Attorney General,,REP,Ken Paxton,349.0,176.0,173.0
+Harrison,14.0,Attorney General,,DEM,Sam Houston,103.0,68.0,35.0
+Harrison,14.0,Attorney General,,LIB,Jamie Balagia,9.0,5.0,4.0
+Harrison,14.0,Attorney General,,GRN,Jamar Osborne,1.0,0.0,1.0
+Harrison,14.0,Comptroller	of Public Accounts,,REP,Glenn Hegar,342.0,171.0,171.0
+Harrison,14.0,Comptroller	of Public Accounts,,DEM,Mike Collier,104.0,68.0,36.0
+Harrison,14.0,Comptroller	of Public Accounts,,LIB,Ben Sanders,15.0,9.0,6.0
+Harrison,14.0,Comptroller	of Public Accounts,,GRN,Deb Shafto,1.0,0.0,1.0
 Harrison,14.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,REP,George P. Bush,348.0,176.0,172.0
 Harrison,14.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,DEM,John Cook,100.0,64.0,36.0
 Harrison,14.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,LIB,Justin Knight,16.0,9.0,7.0
 Harrison,14.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,GRN,Valerie Alessi,1.0,0.0,1.0
-Harrison,14.0,COMMISSIONER OF AGRICULTURE,,REP,Sid Miller,343.0,172.0,171.0
-Harrison,14.0,COMMISSIONER OF AGRICULTURE,,DEM,Jim Hogan,100.0,66.0,34.0
-Harrison,14.0,COMMISSIONER OF AGRICULTURE,,LIB,David (Rocky) Palmquist,15.0,8.0,7.0
-Harrison,14.0,COMMISSIONER OF AGRICULTURE,,GRN,Kenneth Kendrick,1.0,1.0,0.0
+Harrison,14.0,Commissioner of Agriculture,,REP,Sid Miller,343.0,172.0,171.0
+Harrison,14.0,Commissioner of Agriculture,,DEM,Jim Hogan,100.0,66.0,34.0
+Harrison,14.0,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,15.0,8.0,7.0
+Harrison,14.0,Commissioner of Agriculture,,GRN,Kenneth Kendrick,1.0,1.0,0.0
 Harrison,14.0,RAILROAD COMMISSIONER,,REP,Ryan Sitton,341.0,172.0,169.0
 Harrison,14.0,RAILROAD COMMISSIONER,,DEM,Steve Brown,101.0,65.0,36.0
 Harrison,14.0,RAILROAD COMMISSIONER,,LIB,Mark A. Miller,18.0,11.0,7.0
@@ -1054,10 +1054,10 @@ Harrison,14.0,"COUNTY COMMISSIONER, PRECINCT NO. 4",,REP,Jay Ebarb,370.0,187.0,1
 Harrison,14.0,"COUNTY COMMISSIONER, PRECINCT NO. 4",,DEM,James Roy (J.R.) Barrett,95.0,63.0,32.0
 Harrison,14.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",FOR,344.0,180.0,164.0
 Harrison,14.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",AGAINST,85.0,41.0,44.0
-Harrison,15.0,STRAIGHT PARTY,,REP,Republican Party,175.0,60.0,115.0
-Harrison,15.0,STRAIGHT PARTY,,DEM,Democratic Party,15.0,3.0,12.0
-Harrison,15.0,STRAIGHT PARTY,,LIB,Libertarian Party,2.0,1.0,1.0
-Harrison,15.0,STRAIGHT PARTY,,GRN,Green Party,1.0,0.0,1.0
+Harrison,15.0,Straight Party,,REP,Republican Party,175.0,60.0,115.0
+Harrison,15.0,Straight Party,,DEM,Democratic Party,15.0,3.0,12.0
+Harrison,15.0,Straight Party,,LIB,Libertarian Party,2.0,1.0,1.0
+Harrison,15.0,Straight Party,,GRN,Green Party,1.0,0.0,1.0
 Harrison,15.0,U.S. Senate,,REP,John Cornyn,329.0,113.0,216.0
 Harrison,15.0,U.S. Senate,,DEM,David M. Alameel,31.0,9.0,22.0
 Harrison,15.0,U.S. Senate,,LIB,Rebecca Paddock,7.0,1.0,6.0
@@ -1070,26 +1070,26 @@ Harrison,15.0,GOVERNOR,,DEM,Wendy R. Davis,37.0,12.0,25.0
 Harrison,15.0,GOVERNOR,,LIB,Kathie Glass,2.0,1.0,1.0
 Harrison,15.0,GOVERNOR,,GRN,Brandon Parmer,1.0,0.0,1.0
 Harrison,15.0,GOVERNOR,,"",Sarah M Pavitt,0.0,0.0,0.0
-Harrison,15.0,LIEUTENANT GOVERNOR,,REP,Dan Patrick,325.0,106.0,219.0
-Harrison,15.0,LIEUTENANT GOVERNOR,,DEM,Leticia Van de Putte,36.0,13.0,23.0
-Harrison,15.0,LIEUTENANT GOVERNOR,,LIB,Robert D. Butler,6.0,3.0,3.0
-Harrison,15.0,LIEUTENANT GOVERNOR,,GRN,Chandrakantha Courtney,1.0,0.0,1.0
-Harrison,15.0,ATTORNEY GENERAL,,REP,Ken Paxton,317.0,106.0,211.0
-Harrison,15.0,ATTORNEY GENERAL,,DEM,Sam Houston,43.0,13.0,30.0
-Harrison,15.0,ATTORNEY GENERAL,,LIB,Jamie Balagia,6.0,3.0,3.0
-Harrison,15.0,ATTORNEY GENERAL,,GRN,Jamar Osborne,1.0,0.0,1.0
-Harrison,15.0,COMPTROLLER OF PUBLIC ACCOUNTS,,REP,Glenn Hegar,309.0,106.0,203.0
-Harrison,15.0,COMPTROLLER OF PUBLIC ACCOUNTS,,DEM,Mike Collier,43.0,11.0,32.0
-Harrison,15.0,COMPTROLLER OF PUBLIC ACCOUNTS,,LIB,Ben Sanders,10.0,3.0,7.0
-Harrison,15.0,COMPTROLLER OF PUBLIC ACCOUNTS,,GRN,Deb Shafto,1.0,0.0,1.0
+Harrison,15.0,Lieutenant Governor,,REP,Dan Patrick,325.0,106.0,219.0
+Harrison,15.0,Lieutenant Governor,,DEM,Leticia Van de Putte,36.0,13.0,23.0
+Harrison,15.0,Lieutenant Governor,,LIB,Robert D. Butler,6.0,3.0,3.0
+Harrison,15.0,Lieutenant Governor,,GRN,Chandrakantha Courtney,1.0,0.0,1.0
+Harrison,15.0,Attorney General,,REP,Ken Paxton,317.0,106.0,211.0
+Harrison,15.0,Attorney General,,DEM,Sam Houston,43.0,13.0,30.0
+Harrison,15.0,Attorney General,,LIB,Jamie Balagia,6.0,3.0,3.0
+Harrison,15.0,Attorney General,,GRN,Jamar Osborne,1.0,0.0,1.0
+Harrison,15.0,Comptroller	of Public Accounts,,REP,Glenn Hegar,309.0,106.0,203.0
+Harrison,15.0,Comptroller	of Public Accounts,,DEM,Mike Collier,43.0,11.0,32.0
+Harrison,15.0,Comptroller	of Public Accounts,,LIB,Ben Sanders,10.0,3.0,7.0
+Harrison,15.0,Comptroller	of Public Accounts,,GRN,Deb Shafto,1.0,0.0,1.0
 Harrison,15.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,REP,George P. Bush,315.0,107.0,208.0
 Harrison,15.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,DEM,John Cook,37.0,11.0,26.0
 Harrison,15.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,LIB,Justin Knight,10.0,2.0,8.0
 Harrison,15.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,GRN,Valerie Alessi,3.0,0.0,3.0
-Harrison,15.0,COMMISSIONER OF AGRICULTURE,,REP,Sid Miller,309.0,105.0,204.0
-Harrison,15.0,COMMISSIONER OF AGRICULTURE,,DEM,Jim Hogan,38.0,11.0,27.0
-Harrison,15.0,COMMISSIONER OF AGRICULTURE,,LIB,David (Rocky) Palmquist,11.0,3.0,8.0
-Harrison,15.0,COMMISSIONER OF AGRICULTURE,,GRN,Kenneth Kendrick,4.0,0.0,4.0
+Harrison,15.0,Commissioner of Agriculture,,REP,Sid Miller,309.0,105.0,204.0
+Harrison,15.0,Commissioner of Agriculture,,DEM,Jim Hogan,38.0,11.0,27.0
+Harrison,15.0,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,11.0,3.0,8.0
+Harrison,15.0,Commissioner of Agriculture,,GRN,Kenneth Kendrick,4.0,0.0,4.0
 Harrison,15.0,RAILROAD COMMISSIONER,,REP,Ryan Sitton,309.0,103.0,206.0
 Harrison,15.0,RAILROAD COMMISSIONER,,DEM,Steve Brown,39.0,14.0,25.0
 Harrison,15.0,RAILROAD COMMISSIONER,,LIB,Mark A. Miller,14.0,5.0,9.0
@@ -1129,10 +1129,10 @@ Harrison,15.0,"COUNTY COMMISSIONER, PRECINCT NO. 4",,REP,Jay Ebarb,316.0,114.0,2
 Harrison,15.0,"COUNTY COMMISSIONER, PRECINCT NO. 4",,DEM,James Roy (J.R.) Barrett,60.0,15.0,45.0
 Harrison,15.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",FOR,223.0,73.0,150.0
 Harrison,15.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",AGAINST,81.0,31.0,50.0
-Harrison,16.0,STRAIGHT PARTY,,REP,Republican Party,83.0,28.0,55.0
-Harrison,16.0,STRAIGHT PARTY,,DEM,Democratic Party,25.0,6.0,19.0
-Harrison,16.0,STRAIGHT PARTY,,LIB,Libertarian Party,2.0,1.0,1.0
-Harrison,16.0,STRAIGHT PARTY,,GRN,Green Party,1.0,0.0,1.0
+Harrison,16.0,Straight Party,,REP,Republican Party,83.0,28.0,55.0
+Harrison,16.0,Straight Party,,DEM,Democratic Party,25.0,6.0,19.0
+Harrison,16.0,Straight Party,,LIB,Libertarian Party,2.0,1.0,1.0
+Harrison,16.0,Straight Party,,GRN,Green Party,1.0,0.0,1.0
 Harrison,16.0,U.S. Senate,,REP,John Cornyn,175.0,55.0,120.0
 Harrison,16.0,U.S. Senate,,DEM,David M. Alameel,39.0,11.0,28.0
 Harrison,16.0,U.S. Senate,,LIB,Rebecca Paddock,7.0,3.0,4.0
@@ -1145,26 +1145,26 @@ Harrison,16.0,GOVERNOR,,DEM,Wendy R. Davis,42.0,11.0,31.0
 Harrison,16.0,GOVERNOR,,LIB,Kathie Glass,6.0,2.0,4.0
 Harrison,16.0,GOVERNOR,,GRN,Brandon Parmer,2.0,1.0,1.0
 Harrison,16.0,GOVERNOR,,"",Sarah M Pavitt,0.0,0.0,0.0
-Harrison,16.0,LIEUTENANT GOVERNOR,,REP,Dan Patrick,166.0,51.0,115.0
-Harrison,16.0,LIEUTENANT GOVERNOR,,DEM,Leticia Van de Putte,46.0,15.0,31.0
-Harrison,16.0,LIEUTENANT GOVERNOR,,LIB,Robert D. Butler,6.0,2.0,4.0
-Harrison,16.0,LIEUTENANT GOVERNOR,,GRN,Chandrakantha Courtney,2.0,1.0,1.0
-Harrison,16.0,ATTORNEY GENERAL,,REP,Ken Paxton,170.0,55.0,115.0
-Harrison,16.0,ATTORNEY GENERAL,,DEM,Sam Houston,45.0,12.0,33.0
-Harrison,16.0,ATTORNEY GENERAL,,LIB,Jamie Balagia,5.0,2.0,3.0
-Harrison,16.0,ATTORNEY GENERAL,,GRN,Jamar Osborne,1.0,0.0,1.0
-Harrison,16.0,COMPTROLLER OF PUBLIC ACCOUNTS,,REP,Glenn Hegar,163.0,53.0,110.0
-Harrison,16.0,COMPTROLLER OF PUBLIC ACCOUNTS,,DEM,Mike Collier,46.0,13.0,33.0
-Harrison,16.0,COMPTROLLER OF PUBLIC ACCOUNTS,,LIB,Ben Sanders,8.0,1.0,7.0
-Harrison,16.0,COMPTROLLER OF PUBLIC ACCOUNTS,,GRN,Deb Shafto,3.0,1.0,2.0
+Harrison,16.0,Lieutenant Governor,,REP,Dan Patrick,166.0,51.0,115.0
+Harrison,16.0,Lieutenant Governor,,DEM,Leticia Van de Putte,46.0,15.0,31.0
+Harrison,16.0,Lieutenant Governor,,LIB,Robert D. Butler,6.0,2.0,4.0
+Harrison,16.0,Lieutenant Governor,,GRN,Chandrakantha Courtney,2.0,1.0,1.0
+Harrison,16.0,Attorney General,,REP,Ken Paxton,170.0,55.0,115.0
+Harrison,16.0,Attorney General,,DEM,Sam Houston,45.0,12.0,33.0
+Harrison,16.0,Attorney General,,LIB,Jamie Balagia,5.0,2.0,3.0
+Harrison,16.0,Attorney General,,GRN,Jamar Osborne,1.0,0.0,1.0
+Harrison,16.0,Comptroller	of Public Accounts,,REP,Glenn Hegar,163.0,53.0,110.0
+Harrison,16.0,Comptroller	of Public Accounts,,DEM,Mike Collier,46.0,13.0,33.0
+Harrison,16.0,Comptroller	of Public Accounts,,LIB,Ben Sanders,8.0,1.0,7.0
+Harrison,16.0,Comptroller	of Public Accounts,,GRN,Deb Shafto,3.0,1.0,2.0
 Harrison,16.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,REP,George P. Bush,167.0,53.0,114.0
 Harrison,16.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,DEM,John Cook,45.0,13.0,32.0
 Harrison,16.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,LIB,Justin Knight,9.0,3.0,6.0
 Harrison,16.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,GRN,Valerie Alessi,2.0,0.0,2.0
-Harrison,16.0,COMMISSIONER OF AGRICULTURE,,REP,Sid Miller,159.0,51.0,108.0
-Harrison,16.0,COMMISSIONER OF AGRICULTURE,,DEM,Jim Hogan,48.0,15.0,33.0
-Harrison,16.0,COMMISSIONER OF AGRICULTURE,,LIB,David (Rocky) Palmquist,9.0,2.0,7.0
-Harrison,16.0,COMMISSIONER OF AGRICULTURE,,GRN,Kenneth Kendrick,4.0,1.0,3.0
+Harrison,16.0,Commissioner of Agriculture,,REP,Sid Miller,159.0,51.0,108.0
+Harrison,16.0,Commissioner of Agriculture,,DEM,Jim Hogan,48.0,15.0,33.0
+Harrison,16.0,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,9.0,2.0,7.0
+Harrison,16.0,Commissioner of Agriculture,,GRN,Kenneth Kendrick,4.0,1.0,3.0
 Harrison,16.0,RAILROAD COMMISSIONER,,REP,Ryan Sitton,161.0,50.0,111.0
 Harrison,16.0,RAILROAD COMMISSIONER,,DEM,Steve Brown,45.0,14.0,31.0
 Harrison,16.0,RAILROAD COMMISSIONER,,LIB,Mark A. Miller,12.0,5.0,7.0
@@ -1204,10 +1204,10 @@ Harrison,16.0,"COUNTY COMMISSIONER, PRECINCT NO. 4",,REP,Jay Ebarb,188.0,58.0,13
 Harrison,16.0,"COUNTY COMMISSIONER, PRECINCT NO. 4",,DEM,James Roy (J.R.) Barrett,44.0,13.0,31.0
 Harrison,16.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",FOR,139.0,51.0,88.0
 Harrison,16.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",AGAINST,51.0,11.0,40.0
-Harrison,17.0,STRAIGHT PARTY,,REP,Republican Party,145.0,80.0,65.0
-Harrison,17.0,STRAIGHT PARTY,,DEM,Democratic Party,204.0,117.0,87.0
-Harrison,17.0,STRAIGHT PARTY,,LIB,Libertarian Party,0.0,0.0,0.0
-Harrison,17.0,STRAIGHT PARTY,,GRN,Green Party,1.0,0.0,1.0
+Harrison,17.0,Straight Party,,REP,Republican Party,145.0,80.0,65.0
+Harrison,17.0,Straight Party,,DEM,Democratic Party,204.0,117.0,87.0
+Harrison,17.0,Straight Party,,LIB,Libertarian Party,0.0,0.0,0.0
+Harrison,17.0,Straight Party,,GRN,Green Party,1.0,0.0,1.0
 Harrison,17.0,U.S. Senate,,REP,John Cornyn,235.0,131.0,104.0
 Harrison,17.0,U.S. Senate,,DEM,David M. Alameel,274.0,166.0,108.0
 Harrison,17.0,U.S. Senate,,LIB,Rebecca Paddock,5.0,3.0,2.0
@@ -1220,26 +1220,26 @@ Harrison,17.0,GOVERNOR,,DEM,Wendy R. Davis,281.0,167.0,114.0
 Harrison,17.0,GOVERNOR,,LIB,Kathie Glass,2.0,0.0,2.0
 Harrison,17.0,GOVERNOR,,GRN,Brandon Parmer,2.0,1.0,1.0
 Harrison,17.0,GOVERNOR,,"",Sarah M Pavitt,0.0,0.0,0.0
-Harrison,17.0,LIEUTENANT GOVERNOR,,REP,Dan Patrick,237.0,134.0,103.0
-Harrison,17.0,LIEUTENANT GOVERNOR,,DEM,Leticia Van de Putte,273.0,164.0,109.0
-Harrison,17.0,LIEUTENANT GOVERNOR,,LIB,Robert D. Butler,8.0,3.0,5.0
-Harrison,17.0,LIEUTENANT GOVERNOR,,GRN,Chandrakantha Courtney,2.0,0.0,2.0
-Harrison,17.0,ATTORNEY GENERAL,,REP,Ken Paxton,231.0,130.0,101.0
-Harrison,17.0,ATTORNEY GENERAL,,DEM,Sam Houston,277.0,167.0,110.0
-Harrison,17.0,ATTORNEY GENERAL,,LIB,Jamie Balagia,6.0,1.0,5.0
-Harrison,17.0,ATTORNEY GENERAL,,GRN,Jamar Osborne,3.0,1.0,2.0
-Harrison,17.0,COMPTROLLER OF PUBLIC ACCOUNTS,,REP,Glenn Hegar,222.0,126.0,96.0
-Harrison,17.0,COMPTROLLER OF PUBLIC ACCOUNTS,,DEM,Mike Collier,284.0,170.0,114.0
-Harrison,17.0,COMPTROLLER OF PUBLIC ACCOUNTS,,LIB,Ben Sanders,7.0,2.0,5.0
-Harrison,17.0,COMPTROLLER OF PUBLIC ACCOUNTS,,GRN,Deb Shafto,3.0,1.0,2.0
+Harrison,17.0,Lieutenant Governor,,REP,Dan Patrick,237.0,134.0,103.0
+Harrison,17.0,Lieutenant Governor,,DEM,Leticia Van de Putte,273.0,164.0,109.0
+Harrison,17.0,Lieutenant Governor,,LIB,Robert D. Butler,8.0,3.0,5.0
+Harrison,17.0,Lieutenant Governor,,GRN,Chandrakantha Courtney,2.0,0.0,2.0
+Harrison,17.0,Attorney General,,REP,Ken Paxton,231.0,130.0,101.0
+Harrison,17.0,Attorney General,,DEM,Sam Houston,277.0,167.0,110.0
+Harrison,17.0,Attorney General,,LIB,Jamie Balagia,6.0,1.0,5.0
+Harrison,17.0,Attorney General,,GRN,Jamar Osborne,3.0,1.0,2.0
+Harrison,17.0,Comptroller	of Public Accounts,,REP,Glenn Hegar,222.0,126.0,96.0
+Harrison,17.0,Comptroller	of Public Accounts,,DEM,Mike Collier,284.0,170.0,114.0
+Harrison,17.0,Comptroller	of Public Accounts,,LIB,Ben Sanders,7.0,2.0,5.0
+Harrison,17.0,Comptroller	of Public Accounts,,GRN,Deb Shafto,3.0,1.0,2.0
 Harrison,17.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,REP,George P. Bush,233.0,132.0,101.0
 Harrison,17.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,DEM,John Cook,274.0,165.0,109.0
 Harrison,17.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,LIB,Justin Knight,5.0,1.0,4.0
 Harrison,17.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,GRN,Valerie Alessi,7.0,2.0,5.0
-Harrison,17.0,COMMISSIONER OF AGRICULTURE,,REP,Sid Miller,226.0,126.0,100.0
-Harrison,17.0,COMMISSIONER OF AGRICULTURE,,DEM,Jim Hogan,277.0,166.0,111.0
-Harrison,17.0,COMMISSIONER OF AGRICULTURE,,LIB,David (Rocky) Palmquist,7.0,5.0,2.0
-Harrison,17.0,COMMISSIONER OF AGRICULTURE,,GRN,Kenneth Kendrick,6.0,1.0,5.0
+Harrison,17.0,Commissioner of Agriculture,,REP,Sid Miller,226.0,126.0,100.0
+Harrison,17.0,Commissioner of Agriculture,,DEM,Jim Hogan,277.0,166.0,111.0
+Harrison,17.0,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,7.0,5.0,2.0
+Harrison,17.0,Commissioner of Agriculture,,GRN,Kenneth Kendrick,6.0,1.0,5.0
 Harrison,17.0,RAILROAD COMMISSIONER,,REP,Ryan Sitton,229.0,126.0,103.0
 Harrison,17.0,RAILROAD COMMISSIONER,,DEM,Steve Brown,276.0,169.0,107.0
 Harrison,17.0,RAILROAD COMMISSIONER,,LIB,Mark A. Miller,9.0,4.0,5.0
@@ -1281,10 +1281,10 @@ Harrison,17.0,"JUSTICE OF THE PEACE, PRECINCT NO. 2",,REP,Libby Wyatt,244.0,138.
 Harrison,17.0,"JUSTICE OF THE PEACE, PRECINCT NO. 2",,DEM,"Clarice ""Brenda"" Watkins",273.0,166.0,107.0
 Harrison,17.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",FOR,314.0,194.0,120.0
 Harrison,17.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",AGAINST,88.0,54.0,34.0
-Harrison,18.0,STRAIGHT PARTY,,REP,Republican Party,167.0,122.0,45.0
-Harrison,18.0,STRAIGHT PARTY,,DEM,Democratic Party,14.0,6.0,8.0
-Harrison,18.0,STRAIGHT PARTY,,LIB,Libertarian Party,1.0,1.0,0.0
-Harrison,18.0,STRAIGHT PARTY,,GRN,Green Party,0.0,0.0,0.0
+Harrison,18.0,Straight Party,,REP,Republican Party,167.0,122.0,45.0
+Harrison,18.0,Straight Party,,DEM,Democratic Party,14.0,6.0,8.0
+Harrison,18.0,Straight Party,,LIB,Libertarian Party,1.0,1.0,0.0
+Harrison,18.0,Straight Party,,GRN,Green Party,0.0,0.0,0.0
 Harrison,18.0,U.S. Senate,,REP,John Cornyn,248.0,177.0,71.0
 Harrison,18.0,U.S. Senate,,DEM,David M. Alameel,32.0,17.0,15.0
 Harrison,18.0,U.S. Senate,,LIB,Rebecca Paddock,3.0,3.0,0.0
@@ -1297,26 +1297,26 @@ Harrison,18.0,GOVERNOR,,DEM,Wendy R. Davis,35.0,21.0,14.0
 Harrison,18.0,GOVERNOR,,LIB,Kathie Glass,3.0,3.0,0.0
 Harrison,18.0,GOVERNOR,,GRN,Brandon Parmer,0.0,0.0,0.0
 Harrison,18.0,GOVERNOR,,"",Sarah M Pavitt,0.0,0.0,0.0
-Harrison,18.0,LIEUTENANT GOVERNOR,,REP,Dan Patrick,241.0,173.0,68.0
-Harrison,18.0,LIEUTENANT GOVERNOR,,DEM,Leticia Van de Putte,37.0,21.0,16.0
-Harrison,18.0,LIEUTENANT GOVERNOR,,LIB,Robert D. Butler,3.0,3.0,0.0
-Harrison,18.0,LIEUTENANT GOVERNOR,,GRN,Chandrakantha Courtney,1.0,1.0,0.0
-Harrison,18.0,ATTORNEY GENERAL,,REP,Ken Paxton,241.0,173.0,68.0
-Harrison,18.0,ATTORNEY GENERAL,,DEM,Sam Houston,40.0,24.0,16.0
-Harrison,18.0,ATTORNEY GENERAL,,LIB,Jamie Balagia,2.0,2.0,0.0
-Harrison,18.0,ATTORNEY GENERAL,,GRN,Jamar Osborne,0.0,0.0,0.0
-Harrison,18.0,COMPTROLLER OF PUBLIC ACCOUNTS,,REP,Glenn Hegar,238.0,169.0,69.0
-Harrison,18.0,COMPTROLLER OF PUBLIC ACCOUNTS,,DEM,Mike Collier,40.0,25.0,15.0
-Harrison,18.0,COMPTROLLER OF PUBLIC ACCOUNTS,,LIB,Ben Sanders,4.0,4.0,0.0
-Harrison,18.0,COMPTROLLER OF PUBLIC ACCOUNTS,,GRN,Deb Shafto,0.0,0.0,0.0
+Harrison,18.0,Lieutenant Governor,,REP,Dan Patrick,241.0,173.0,68.0
+Harrison,18.0,Lieutenant Governor,,DEM,Leticia Van de Putte,37.0,21.0,16.0
+Harrison,18.0,Lieutenant Governor,,LIB,Robert D. Butler,3.0,3.0,0.0
+Harrison,18.0,Lieutenant Governor,,GRN,Chandrakantha Courtney,1.0,1.0,0.0
+Harrison,18.0,Attorney General,,REP,Ken Paxton,241.0,173.0,68.0
+Harrison,18.0,Attorney General,,DEM,Sam Houston,40.0,24.0,16.0
+Harrison,18.0,Attorney General,,LIB,Jamie Balagia,2.0,2.0,0.0
+Harrison,18.0,Attorney General,,GRN,Jamar Osborne,0.0,0.0,0.0
+Harrison,18.0,Comptroller	of Public Accounts,,REP,Glenn Hegar,238.0,169.0,69.0
+Harrison,18.0,Comptroller	of Public Accounts,,DEM,Mike Collier,40.0,25.0,15.0
+Harrison,18.0,Comptroller	of Public Accounts,,LIB,Ben Sanders,4.0,4.0,0.0
+Harrison,18.0,Comptroller	of Public Accounts,,GRN,Deb Shafto,0.0,0.0,0.0
 Harrison,18.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,REP,George P. Bush,248.0,178.0,70.0
 Harrison,18.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,DEM,John Cook,31.0,17.0,14.0
 Harrison,18.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,LIB,Justin Knight,2.0,2.0,0.0
 Harrison,18.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,GRN,Valerie Alessi,2.0,2.0,0.0
-Harrison,18.0,COMMISSIONER OF AGRICULTURE,,REP,Sid Miller,243.0,175.0,68.0
-Harrison,18.0,COMMISSIONER OF AGRICULTURE,,DEM,Jim Hogan,34.0,18.0,16.0
-Harrison,18.0,COMMISSIONER OF AGRICULTURE,,LIB,David (Rocky) Palmquist,4.0,4.0,0.0
-Harrison,18.0,COMMISSIONER OF AGRICULTURE,,GRN,Kenneth Kendrick,1.0,1.0,0.0
+Harrison,18.0,Commissioner of Agriculture,,REP,Sid Miller,243.0,175.0,68.0
+Harrison,18.0,Commissioner of Agriculture,,DEM,Jim Hogan,34.0,18.0,16.0
+Harrison,18.0,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,4.0,4.0,0.0
+Harrison,18.0,Commissioner of Agriculture,,GRN,Kenneth Kendrick,1.0,1.0,0.0
 Harrison,18.0,RAILROAD COMMISSIONER,,REP,Ryan Sitton,243.0,175.0,68.0
 Harrison,18.0,RAILROAD COMMISSIONER,,DEM,Steve Brown,35.0,19.0,16.0
 Harrison,18.0,RAILROAD COMMISSIONER,,LIB,Mark A. Miller,4.0,4.0,0.0
@@ -1356,10 +1356,10 @@ Harrison,18.0,"JUSTICE OF THE PEACE, PRECINCT NO. 1",,REP,Megan Hickey Pinson,25
 Harrison,18.0,"JUSTICE OF THE PEACE, PRECINCT NO. 1",,DEM,Edwin Mazier Lee,30.0,16.0,14.0
 Harrison,18.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",FOR,212.0,151.0,61.0
 Harrison,18.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",AGAINST,45.0,32.0,13.0
-Harrison,19.0,STRAIGHT PARTY,,REP,Republican Party,555.0,211.0,344.0
-Harrison,19.0,STRAIGHT PARTY,,DEM,Democratic Party,101.0,55.0,46.0
-Harrison,19.0,STRAIGHT PARTY,,LIB,Libertarian Party,1.0,0.0,1.0
-Harrison,19.0,STRAIGHT PARTY,,GRN,Green Party,0.0,0.0,0.0
+Harrison,19.0,Straight Party,,REP,Republican Party,555.0,211.0,344.0
+Harrison,19.0,Straight Party,,DEM,Democratic Party,101.0,55.0,46.0
+Harrison,19.0,Straight Party,,LIB,Libertarian Party,1.0,0.0,1.0
+Harrison,19.0,Straight Party,,GRN,Green Party,0.0,0.0,0.0
 Harrison,19.0,U.S. Senate,,REP,John Cornyn,844.0,321.0,523.0
 Harrison,19.0,U.S. Senate,,DEM,David M. Alameel,142.0,71.0,71.0
 Harrison,19.0,U.S. Senate,,LIB,Rebecca Paddock,13.0,2.0,11.0
@@ -1372,26 +1372,26 @@ Harrison,19.0,GOVERNOR,,DEM,Wendy R. Davis,166.0,78.0,88.0
 Harrison,19.0,GOVERNOR,,LIB,Kathie Glass,8.0,3.0,5.0
 Harrison,19.0,GOVERNOR,,GRN,Brandon Parmer,1.0,0.0,1.0
 Harrison,19.0,GOVERNOR,,"",Sarah M Pavitt,0.0,0.0,0.0
-Harrison,19.0,LIEUTENANT GOVERNOR,,REP,Dan Patrick,816.0,308.0,508.0
-Harrison,19.0,LIEUTENANT GOVERNOR,,DEM,Leticia Van de Putte,170.0,84.0,86.0
-Harrison,19.0,LIEUTENANT GOVERNOR,,LIB,Robert D. Butler,16.0,3.0,13.0
-Harrison,19.0,LIEUTENANT GOVERNOR,,GRN,Chandrakantha Courtney,3.0,0.0,3.0
-Harrison,19.0,ATTORNEY GENERAL,,REP,Ken Paxton,823.0,309.0,514.0
-Harrison,19.0,ATTORNEY GENERAL,,DEM,Sam Houston,168.0,83.0,85.0
-Harrison,19.0,ATTORNEY GENERAL,,LIB,Jamie Balagia,10.0,3.0,7.0
-Harrison,19.0,ATTORNEY GENERAL,,GRN,Jamar Osborne,1.0,0.0,1.0
-Harrison,19.0,COMPTROLLER OF PUBLIC ACCOUNTS,,REP,Glenn Hegar,797.0,300.0,497.0
-Harrison,19.0,COMPTROLLER OF PUBLIC ACCOUNTS,,DEM,Mike Collier,169.0,82.0,87.0
-Harrison,19.0,COMPTROLLER OF PUBLIC ACCOUNTS,,LIB,Ben Sanders,17.0,6.0,11.0
-Harrison,19.0,COMPTROLLER OF PUBLIC ACCOUNTS,,GRN,Deb Shafto,5.0,1.0,4.0
+Harrison,19.0,Lieutenant Governor,,REP,Dan Patrick,816.0,308.0,508.0
+Harrison,19.0,Lieutenant Governor,,DEM,Leticia Van de Putte,170.0,84.0,86.0
+Harrison,19.0,Lieutenant Governor,,LIB,Robert D. Butler,16.0,3.0,13.0
+Harrison,19.0,Lieutenant Governor,,GRN,Chandrakantha Courtney,3.0,0.0,3.0
+Harrison,19.0,Attorney General,,REP,Ken Paxton,823.0,309.0,514.0
+Harrison,19.0,Attorney General,,DEM,Sam Houston,168.0,83.0,85.0
+Harrison,19.0,Attorney General,,LIB,Jamie Balagia,10.0,3.0,7.0
+Harrison,19.0,Attorney General,,GRN,Jamar Osborne,1.0,0.0,1.0
+Harrison,19.0,Comptroller	of Public Accounts,,REP,Glenn Hegar,797.0,300.0,497.0
+Harrison,19.0,Comptroller	of Public Accounts,,DEM,Mike Collier,169.0,82.0,87.0
+Harrison,19.0,Comptroller	of Public Accounts,,LIB,Ben Sanders,17.0,6.0,11.0
+Harrison,19.0,Comptroller	of Public Accounts,,GRN,Deb Shafto,5.0,1.0,4.0
 Harrison,19.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,REP,George P. Bush,816.0,309.0,507.0
 Harrison,19.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,DEM,John Cook,162.0,80.0,82.0
 Harrison,19.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,LIB,Justin Knight,16.0,5.0,11.0
 Harrison,19.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,GRN,Valerie Alessi,5.0,0.0,5.0
-Harrison,19.0,COMMISSIONER OF AGRICULTURE,,REP,Sid Miller,809.0,305.0,504.0
-Harrison,19.0,COMMISSIONER OF AGRICULTURE,,DEM,Jim Hogan,162.0,79.0,83.0
-Harrison,19.0,COMMISSIONER OF AGRICULTURE,,LIB,David (Rocky) Palmquist,14.0,3.0,11.0
-Harrison,19.0,COMMISSIONER OF AGRICULTURE,,GRN,Kenneth Kendrick,3.0,1.0,2.0
+Harrison,19.0,Commissioner of Agriculture,,REP,Sid Miller,809.0,305.0,504.0
+Harrison,19.0,Commissioner of Agriculture,,DEM,Jim Hogan,162.0,79.0,83.0
+Harrison,19.0,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,14.0,3.0,11.0
+Harrison,19.0,Commissioner of Agriculture,,GRN,Kenneth Kendrick,3.0,1.0,2.0
 Harrison,19.0,RAILROAD COMMISSIONER,,REP,Ryan Sitton,802.0,303.0,499.0
 Harrison,19.0,RAILROAD COMMISSIONER,,DEM,Steve Brown,164.0,79.0,85.0
 Harrison,19.0,RAILROAD COMMISSIONER,,LIB,Mark A. Miller,18.0,4.0,14.0
@@ -1430,10 +1430,10 @@ Harrison,19.0,COUNTY TREASURER,,REP,Jamie Marie Noland,844.0,318.0,526.0
 Harrison,19.0,"JUSTICE OF THE PEACE, PRECINCT NO. 3",,REP,Mike Smith,843.0,310.0,533.0
 Harrison,19.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",FOR,686.0,275.0,411.0
 Harrison,19.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",AGAINST,180.0,71.0,109.0
-Harrison,20.0,STRAIGHT PARTY,,REP,Republican Party,407.0,133.0,274.0
-Harrison,20.0,STRAIGHT PARTY,,DEM,Democratic Party,139.0,58.0,81.0
-Harrison,20.0,STRAIGHT PARTY,,LIB,Libertarian Party,5.0,0.0,5.0
-Harrison,20.0,STRAIGHT PARTY,,GRN,Green Party,1.0,0.0,1.0
+Harrison,20.0,Straight Party,,REP,Republican Party,407.0,133.0,274.0
+Harrison,20.0,Straight Party,,DEM,Democratic Party,139.0,58.0,81.0
+Harrison,20.0,Straight Party,,LIB,Libertarian Party,5.0,0.0,5.0
+Harrison,20.0,Straight Party,,GRN,Green Party,1.0,0.0,1.0
 Harrison,20.0,U.S. Senate,,REP,John Cornyn,618.0,215.0,403.0
 Harrison,20.0,U.S. Senate,,DEM,David M. Alameel,202.0,79.0,123.0
 Harrison,20.0,U.S. Senate,,LIB,Rebecca Paddock,17.0,3.0,14.0
@@ -1446,26 +1446,26 @@ Harrison,20.0,GOVERNOR,,DEM,Wendy R. Davis,221.0,88.0,133.0
 Harrison,20.0,GOVERNOR,,LIB,Kathie Glass,12.0,3.0,9.0
 Harrison,20.0,GOVERNOR,,GRN,Brandon Parmer,1.0,0.0,1.0
 Harrison,20.0,GOVERNOR,,"",Sarah M Pavitt,0.0,0.0,0.0
-Harrison,20.0,LIEUTENANT GOVERNOR,,REP,Dan Patrick,621.0,208.0,413.0
-Harrison,20.0,LIEUTENANT GOVERNOR,,DEM,Leticia Van de Putte,199.0,83.0,116.0
-Harrison,20.0,LIEUTENANT GOVERNOR,,LIB,Robert D. Butler,14.0,4.0,10.0
-Harrison,20.0,LIEUTENANT GOVERNOR,,GRN,Chandrakantha Courtney,7.0,2.0,5.0
-Harrison,20.0,ATTORNEY GENERAL,,REP,Ken Paxton,596.0,204.0,392.0
-Harrison,20.0,ATTORNEY GENERAL,,DEM,Sam Houston,224.0,89.0,135.0
-Harrison,20.0,ATTORNEY GENERAL,,LIB,Jamie Balagia,15.0,2.0,13.0
-Harrison,20.0,ATTORNEY GENERAL,,GRN,Jamar Osborne,4.0,1.0,3.0
-Harrison,20.0,COMPTROLLER OF PUBLIC ACCOUNTS,,REP,Glenn Hegar,585.0,199.0,386.0
-Harrison,20.0,COMPTROLLER OF PUBLIC ACCOUNTS,,DEM,Mike Collier,222.0,90.0,132.0
-Harrison,20.0,COMPTROLLER OF PUBLIC ACCOUNTS,,LIB,Ben Sanders,21.0,5.0,16.0
-Harrison,20.0,COMPTROLLER OF PUBLIC ACCOUNTS,,GRN,Deb Shafto,8.0,1.0,7.0
+Harrison,20.0,Lieutenant Governor,,REP,Dan Patrick,621.0,208.0,413.0
+Harrison,20.0,Lieutenant Governor,,DEM,Leticia Van de Putte,199.0,83.0,116.0
+Harrison,20.0,Lieutenant Governor,,LIB,Robert D. Butler,14.0,4.0,10.0
+Harrison,20.0,Lieutenant Governor,,GRN,Chandrakantha Courtney,7.0,2.0,5.0
+Harrison,20.0,Attorney General,,REP,Ken Paxton,596.0,204.0,392.0
+Harrison,20.0,Attorney General,,DEM,Sam Houston,224.0,89.0,135.0
+Harrison,20.0,Attorney General,,LIB,Jamie Balagia,15.0,2.0,13.0
+Harrison,20.0,Attorney General,,GRN,Jamar Osborne,4.0,1.0,3.0
+Harrison,20.0,Comptroller	of Public Accounts,,REP,Glenn Hegar,585.0,199.0,386.0
+Harrison,20.0,Comptroller	of Public Accounts,,DEM,Mike Collier,222.0,90.0,132.0
+Harrison,20.0,Comptroller	of Public Accounts,,LIB,Ben Sanders,21.0,5.0,16.0
+Harrison,20.0,Comptroller	of Public Accounts,,GRN,Deb Shafto,8.0,1.0,7.0
 Harrison,20.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,REP,George P. Bush,587.0,200.0,387.0
 Harrison,20.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,DEM,John Cook,224.0,89.0,135.0
 Harrison,20.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,LIB,Justin Knight,19.0,7.0,12.0
 Harrison,20.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,GRN,Valerie Alessi,10.0,0.0,10.0
-Harrison,20.0,COMMISSIONER OF AGRICULTURE,,REP,Sid Miller,591.0,201.0,390.0
-Harrison,20.0,COMMISSIONER OF AGRICULTURE,,DEM,Jim Hogan,220.0,87.0,133.0
-Harrison,20.0,COMMISSIONER OF AGRICULTURE,,LIB,David (Rocky) Palmquist,19.0,3.0,16.0
-Harrison,20.0,COMMISSIONER OF AGRICULTURE,,GRN,Kenneth Kendrick,7.0,2.0,5.0
+Harrison,20.0,Commissioner of Agriculture,,REP,Sid Miller,591.0,201.0,390.0
+Harrison,20.0,Commissioner of Agriculture,,DEM,Jim Hogan,220.0,87.0,133.0
+Harrison,20.0,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,19.0,3.0,16.0
+Harrison,20.0,Commissioner of Agriculture,,GRN,Kenneth Kendrick,7.0,2.0,5.0
 Harrison,20.0,RAILROAD COMMISSIONER,,REP,Ryan Sitton,594.0,204.0,390.0
 Harrison,20.0,RAILROAD COMMISSIONER,,DEM,Steve Brown,213.0,84.0,129.0
 Harrison,20.0,RAILROAD COMMISSIONER,,LIB,Mark A. Miller,24.0,6.0,18.0
@@ -1505,10 +1505,10 @@ Harrison,20.0,"JUSTICE OF THE PEACE, PRECINCT NO. 1",,REP,Megan Hickey Pinson,64
 Harrison,20.0,"JUSTICE OF THE PEACE, PRECINCT NO. 1",,DEM,Edwin Mazier Lee,201.0,79.0,122.0
 Harrison,20.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",FOR,602.0,214.0,388.0
 Harrison,20.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",AGAINST,147.0,44.0,103.0
-Harrison,21.0,STRAIGHT PARTY,,REP,Republican Party,97.0,55.0,42.0
-Harrison,21.0,STRAIGHT PARTY,,DEM,Democratic Party,77.0,52.0,25.0
-Harrison,21.0,STRAIGHT PARTY,,LIB,Libertarian Party,0.0,0.0,0.0
-Harrison,21.0,STRAIGHT PARTY,,GRN,Green Party,1.0,1.0,0.0
+Harrison,21.0,Straight Party,,REP,Republican Party,97.0,55.0,42.0
+Harrison,21.0,Straight Party,,DEM,Democratic Party,77.0,52.0,25.0
+Harrison,21.0,Straight Party,,LIB,Libertarian Party,0.0,0.0,0.0
+Harrison,21.0,Straight Party,,GRN,Green Party,1.0,1.0,0.0
 Harrison,21.0,U.S. Senate,,REP,John Cornyn,169.0,98.0,71.0
 Harrison,21.0,U.S. Senate,,DEM,David M. Alameel,105.0,72.0,33.0
 Harrison,21.0,U.S. Senate,,LIB,Rebecca Paddock,5.0,4.0,1.0
@@ -1521,26 +1521,26 @@ Harrison,21.0,GOVERNOR,,DEM,Wendy R. Davis,113.0,78.0,35.0
 Harrison,21.0,GOVERNOR,,LIB,Kathie Glass,4.0,3.0,1.0
 Harrison,21.0,GOVERNOR,,GRN,Brandon Parmer,0.0,0.0,0.0
 Harrison,21.0,GOVERNOR,,"",Sarah M Pavitt,0.0,0.0,0.0
-Harrison,21.0,LIEUTENANT GOVERNOR,,REP,Dan Patrick,163.0,96.0,67.0
-Harrison,21.0,LIEUTENANT GOVERNOR,,DEM,Leticia Van de Putte,108.0,76.0,32.0
-Harrison,21.0,LIEUTENANT GOVERNOR,,LIB,Robert D. Butler,7.0,2.0,5.0
-Harrison,21.0,LIEUTENANT GOVERNOR,,GRN,Chandrakantha Courtney,0.0,0.0,0.0
-Harrison,21.0,ATTORNEY GENERAL,,REP,Ken Paxton,154.0,91.0,63.0
-Harrison,21.0,ATTORNEY GENERAL,,DEM,Sam Houston,114.0,78.0,36.0
-Harrison,21.0,ATTORNEY GENERAL,,LIB,Jamie Balagia,6.0,3.0,3.0
-Harrison,21.0,ATTORNEY GENERAL,,GRN,Jamar Osborne,2.0,1.0,1.0
-Harrison,21.0,COMPTROLLER OF PUBLIC ACCOUNTS,,REP,Glenn Hegar,152.0,88.0,64.0
-Harrison,21.0,COMPTROLLER OF PUBLIC ACCOUNTS,,DEM,Mike Collier,119.0,82.0,37.0
-Harrison,21.0,COMPTROLLER OF PUBLIC ACCOUNTS,,LIB,Ben Sanders,5.0,2.0,3.0
-Harrison,21.0,COMPTROLLER OF PUBLIC ACCOUNTS,,GRN,Deb Shafto,1.0,1.0,0.0
+Harrison,21.0,Lieutenant Governor,,REP,Dan Patrick,163.0,96.0,67.0
+Harrison,21.0,Lieutenant Governor,,DEM,Leticia Van de Putte,108.0,76.0,32.0
+Harrison,21.0,Lieutenant Governor,,LIB,Robert D. Butler,7.0,2.0,5.0
+Harrison,21.0,Lieutenant Governor,,GRN,Chandrakantha Courtney,0.0,0.0,0.0
+Harrison,21.0,Attorney General,,REP,Ken Paxton,154.0,91.0,63.0
+Harrison,21.0,Attorney General,,DEM,Sam Houston,114.0,78.0,36.0
+Harrison,21.0,Attorney General,,LIB,Jamie Balagia,6.0,3.0,3.0
+Harrison,21.0,Attorney General,,GRN,Jamar Osborne,2.0,1.0,1.0
+Harrison,21.0,Comptroller	of Public Accounts,,REP,Glenn Hegar,152.0,88.0,64.0
+Harrison,21.0,Comptroller	of Public Accounts,,DEM,Mike Collier,119.0,82.0,37.0
+Harrison,21.0,Comptroller	of Public Accounts,,LIB,Ben Sanders,5.0,2.0,3.0
+Harrison,21.0,Comptroller	of Public Accounts,,GRN,Deb Shafto,1.0,1.0,0.0
 Harrison,21.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,REP,George P. Bush,157.0,91.0,66.0
 Harrison,21.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,DEM,John Cook,114.0,78.0,36.0
 Harrison,21.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,LIB,Justin Knight,6.0,3.0,3.0
 Harrison,21.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,GRN,Valerie Alessi,0.0,0.0,0.0
-Harrison,21.0,COMMISSIONER OF AGRICULTURE,,REP,Sid Miller,157.0,90.0,67.0
-Harrison,21.0,COMMISSIONER OF AGRICULTURE,,DEM,Jim Hogan,110.0,76.0,34.0
-Harrison,21.0,COMMISSIONER OF AGRICULTURE,,LIB,David (Rocky) Palmquist,8.0,5.0,3.0
-Harrison,21.0,COMMISSIONER OF AGRICULTURE,,GRN,Kenneth Kendrick,1.0,0.0,1.0
+Harrison,21.0,Commissioner of Agriculture,,REP,Sid Miller,157.0,90.0,67.0
+Harrison,21.0,Commissioner of Agriculture,,DEM,Jim Hogan,110.0,76.0,34.0
+Harrison,21.0,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,8.0,5.0,3.0
+Harrison,21.0,Commissioner of Agriculture,,GRN,Kenneth Kendrick,1.0,0.0,1.0
 Harrison,21.0,RAILROAD COMMISSIONER,,REP,Ryan Sitton,162.0,95.0,67.0
 Harrison,21.0,RAILROAD COMMISSIONER,,DEM,Steve Brown,109.0,77.0,32.0
 Harrison,21.0,RAILROAD COMMISSIONER,,LIB,Mark A. Miller,5.0,1.0,4.0
@@ -1580,10 +1580,10 @@ Harrison,21.0,"JUSTICE OF THE PEACE, PRECINCT NO. 1",,REP,Megan Hickey Pinson,17
 Harrison,21.0,"JUSTICE OF THE PEACE, PRECINCT NO. 1",,DEM,Edwin Mazier Lee,105.0,72.0,33.0
 Harrison,21.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",FOR,187.0,122.0,65.0
 Harrison,21.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",AGAINST,50.0,28.0,22.0
-Harrison,22.0,STRAIGHT PARTY,,REP,Republican Party,143.0,98.0,45.0
-Harrison,22.0,STRAIGHT PARTY,,DEM,Democratic Party,190.0,100.0,90.0
-Harrison,22.0,STRAIGHT PARTY,,LIB,Libertarian Party,2.0,1.0,1.0
-Harrison,22.0,STRAIGHT PARTY,,GRN,Green Party,1.0,0.0,1.0
+Harrison,22.0,Straight Party,,REP,Republican Party,143.0,98.0,45.0
+Harrison,22.0,Straight Party,,DEM,Democratic Party,190.0,100.0,90.0
+Harrison,22.0,Straight Party,,LIB,Libertarian Party,2.0,1.0,1.0
+Harrison,22.0,Straight Party,,GRN,Green Party,1.0,0.0,1.0
 Harrison,22.0,U.S. Senate,,REP,John Cornyn,266.0,175.0,91.0
 Harrison,22.0,U.S. Senate,,DEM,David M. Alameel,276.0,162.0,114.0
 Harrison,22.0,U.S. Senate,,LIB,Rebecca Paddock,11.0,7.0,4.0
@@ -1596,26 +1596,26 @@ Harrison,22.0,GOVERNOR,,DEM,Wendy R. Davis,302.0,175.0,127.0
 Harrison,22.0,GOVERNOR,,LIB,Kathie Glass,10.0,9.0,1.0
 Harrison,22.0,GOVERNOR,,GRN,Brandon Parmer,1.0,1.0,0.0
 Harrison,22.0,GOVERNOR,,"",Sarah M Pavitt,0.0,0.0,0.0
-Harrison,22.0,LIEUTENANT GOVERNOR,,REP,Dan Patrick,255.0,172.0,83.0
-Harrison,22.0,LIEUTENANT GOVERNOR,,DEM,Leticia Van de Putte,286.0,165.0,121.0
-Harrison,22.0,LIEUTENANT GOVERNOR,,LIB,Robert D. Butler,12.0,8.0,4.0
-Harrison,22.0,LIEUTENANT GOVERNOR,,GRN,Chandrakantha Courtney,4.0,2.0,2.0
-Harrison,22.0,ATTORNEY GENERAL,,REP,Ken Paxton,244.0,165.0,79.0
-Harrison,22.0,ATTORNEY GENERAL,,DEM,Sam Houston,294.0,171.0,123.0
-Harrison,22.0,ATTORNEY GENERAL,,LIB,Jamie Balagia,15.0,9.0,6.0
-Harrison,22.0,ATTORNEY GENERAL,,GRN,Jamar Osborne,3.0,2.0,1.0
-Harrison,22.0,COMPTROLLER OF PUBLIC ACCOUNTS,,REP,Glenn Hegar,238.0,159.0,79.0
-Harrison,22.0,COMPTROLLER OF PUBLIC ACCOUNTS,,DEM,Mike Collier,296.0,172.0,124.0
-Harrison,22.0,COMPTROLLER OF PUBLIC ACCOUNTS,,LIB,Ben Sanders,17.0,12.0,5.0
-Harrison,22.0,COMPTROLLER OF PUBLIC ACCOUNTS,,GRN,Deb Shafto,4.0,2.0,2.0
+Harrison,22.0,Lieutenant Governor,,REP,Dan Patrick,255.0,172.0,83.0
+Harrison,22.0,Lieutenant Governor,,DEM,Leticia Van de Putte,286.0,165.0,121.0
+Harrison,22.0,Lieutenant Governor,,LIB,Robert D. Butler,12.0,8.0,4.0
+Harrison,22.0,Lieutenant Governor,,GRN,Chandrakantha Courtney,4.0,2.0,2.0
+Harrison,22.0,Attorney General,,REP,Ken Paxton,244.0,165.0,79.0
+Harrison,22.0,Attorney General,,DEM,Sam Houston,294.0,171.0,123.0
+Harrison,22.0,Attorney General,,LIB,Jamie Balagia,15.0,9.0,6.0
+Harrison,22.0,Attorney General,,GRN,Jamar Osborne,3.0,2.0,1.0
+Harrison,22.0,Comptroller	of Public Accounts,,REP,Glenn Hegar,238.0,159.0,79.0
+Harrison,22.0,Comptroller	of Public Accounts,,DEM,Mike Collier,296.0,172.0,124.0
+Harrison,22.0,Comptroller	of Public Accounts,,LIB,Ben Sanders,17.0,12.0,5.0
+Harrison,22.0,Comptroller	of Public Accounts,,GRN,Deb Shafto,4.0,2.0,2.0
 Harrison,22.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,REP,George P. Bush,241.0,159.0,82.0
 Harrison,22.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,DEM,John Cook,292.0,171.0,121.0
 Harrison,22.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,LIB,Justin Knight,16.0,9.0,7.0
 Harrison,22.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,GRN,Valerie Alessi,4.0,2.0,2.0
-Harrison,22.0,COMMISSIONER OF AGRICULTURE,,REP,Sid Miller,236.0,158.0,78.0
-Harrison,22.0,COMMISSIONER OF AGRICULTURE,,DEM,Jim Hogan,289.0,170.0,119.0
-Harrison,22.0,COMMISSIONER OF AGRICULTURE,,LIB,David (Rocky) Palmquist,15.0,7.0,8.0
-Harrison,22.0,COMMISSIONER OF AGRICULTURE,,GRN,Kenneth Kendrick,9.0,5.0,4.0
+Harrison,22.0,Commissioner of Agriculture,,REP,Sid Miller,236.0,158.0,78.0
+Harrison,22.0,Commissioner of Agriculture,,DEM,Jim Hogan,289.0,170.0,119.0
+Harrison,22.0,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,15.0,7.0,8.0
+Harrison,22.0,Commissioner of Agriculture,,GRN,Kenneth Kendrick,9.0,5.0,4.0
 Harrison,22.0,RAILROAD COMMISSIONER,,REP,Ryan Sitton,241.0,160.0,81.0
 Harrison,22.0,RAILROAD COMMISSIONER,,DEM,Steve Brown,285.0,167.0,118.0
 Harrison,22.0,RAILROAD COMMISSIONER,,LIB,Mark A. Miller,18.0,10.0,8.0
@@ -1657,10 +1657,10 @@ Harrison,22.0,"JUSTICE OF THE PEACE, PRECINCT NO. 2",,REP,Libby Wyatt,266.0,182.
 Harrison,22.0,"JUSTICE OF THE PEACE, PRECINCT NO. 2",,DEM,"Clarice ""Brenda"" Watkins",285.0,161.0,124.0
 Harrison,22.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",FOR,378.0,250.0,128.0
 Harrison,22.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",AGAINST,78.0,44.0,34.0
-Harrison,23.0,STRAIGHT PARTY,,REP,Republican Party,110.0,33.0,77.0
-Harrison,23.0,STRAIGHT PARTY,,DEM,Democratic Party,7.0,5.0,2.0
-Harrison,23.0,STRAIGHT PARTY,,LIB,Libertarian Party,0.0,0.0,0.0
-Harrison,23.0,STRAIGHT PARTY,,GRN,Green Party,0.0,0.0,0.0
+Harrison,23.0,Straight Party,,REP,Republican Party,110.0,33.0,77.0
+Harrison,23.0,Straight Party,,DEM,Democratic Party,7.0,5.0,2.0
+Harrison,23.0,Straight Party,,LIB,Libertarian Party,0.0,0.0,0.0
+Harrison,23.0,Straight Party,,GRN,Green Party,0.0,0.0,0.0
 Harrison,23.0,U.S. Senate,,REP,John Cornyn,184.0,60.0,124.0
 Harrison,23.0,U.S. Senate,,DEM,David M. Alameel,11.0,6.0,5.0
 Harrison,23.0,U.S. Senate,,LIB,Rebecca Paddock,2.0,0.0,2.0
@@ -1673,26 +1673,26 @@ Harrison,23.0,GOVERNOR,,DEM,Wendy R. Davis,14.0,7.0,7.0
 Harrison,23.0,GOVERNOR,,LIB,Kathie Glass,1.0,0.0,1.0
 Harrison,23.0,GOVERNOR,,GRN,Brandon Parmer,0.0,0.0,0.0
 Harrison,23.0,GOVERNOR,,"",Sarah M Pavitt,0.0,0.0,0.0
-Harrison,23.0,LIEUTENANT GOVERNOR,,REP,Dan Patrick,183.0,58.0,125.0
-Harrison,23.0,LIEUTENANT GOVERNOR,,DEM,Leticia Van de Putte,13.0,7.0,6.0
-Harrison,23.0,LIEUTENANT GOVERNOR,,LIB,Robert D. Butler,2.0,0.0,2.0
-Harrison,23.0,LIEUTENANT GOVERNOR,,GRN,Chandrakantha Courtney,1.0,0.0,1.0
-Harrison,23.0,ATTORNEY GENERAL,,REP,Ken Paxton,184.0,57.0,127.0
-Harrison,23.0,ATTORNEY GENERAL,,DEM,Sam Houston,13.0,7.0,6.0
-Harrison,23.0,ATTORNEY GENERAL,,LIB,Jamie Balagia,1.0,0.0,1.0
-Harrison,23.0,ATTORNEY GENERAL,,GRN,Jamar Osborne,0.0,0.0,0.0
-Harrison,23.0,COMPTROLLER OF PUBLIC ACCOUNTS,,REP,Glenn Hegar,180.0,55.0,125.0
-Harrison,23.0,COMPTROLLER OF PUBLIC ACCOUNTS,,DEM,Mike Collier,13.0,8.0,5.0
-Harrison,23.0,COMPTROLLER OF PUBLIC ACCOUNTS,,LIB,Ben Sanders,2.0,0.0,2.0
-Harrison,23.0,COMPTROLLER OF PUBLIC ACCOUNTS,,GRN,Deb Shafto,2.0,1.0,1.0
+Harrison,23.0,Lieutenant Governor,,REP,Dan Patrick,183.0,58.0,125.0
+Harrison,23.0,Lieutenant Governor,,DEM,Leticia Van de Putte,13.0,7.0,6.0
+Harrison,23.0,Lieutenant Governor,,LIB,Robert D. Butler,2.0,0.0,2.0
+Harrison,23.0,Lieutenant Governor,,GRN,Chandrakantha Courtney,1.0,0.0,1.0
+Harrison,23.0,Attorney General,,REP,Ken Paxton,184.0,57.0,127.0
+Harrison,23.0,Attorney General,,DEM,Sam Houston,13.0,7.0,6.0
+Harrison,23.0,Attorney General,,LIB,Jamie Balagia,1.0,0.0,1.0
+Harrison,23.0,Attorney General,,GRN,Jamar Osborne,0.0,0.0,0.0
+Harrison,23.0,Comptroller	of Public Accounts,,REP,Glenn Hegar,180.0,55.0,125.0
+Harrison,23.0,Comptroller	of Public Accounts,,DEM,Mike Collier,13.0,8.0,5.0
+Harrison,23.0,Comptroller	of Public Accounts,,LIB,Ben Sanders,2.0,0.0,2.0
+Harrison,23.0,Comptroller	of Public Accounts,,GRN,Deb Shafto,2.0,1.0,1.0
 Harrison,23.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,REP,George P. Bush,181.0,55.0,126.0
 Harrison,23.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,DEM,John Cook,14.0,7.0,7.0
 Harrison,23.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,LIB,Justin Knight,4.0,2.0,2.0
 Harrison,23.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,GRN,Valerie Alessi,0.0,0.0,0.0
-Harrison,23.0,COMMISSIONER OF AGRICULTURE,,REP,Sid Miller,179.0,56.0,123.0
-Harrison,23.0,COMMISSIONER OF AGRICULTURE,,DEM,Jim Hogan,14.0,8.0,6.0
-Harrison,23.0,COMMISSIONER OF AGRICULTURE,,LIB,David (Rocky) Palmquist,2.0,0.0,2.0
-Harrison,23.0,COMMISSIONER OF AGRICULTURE,,GRN,Kenneth Kendrick,1.0,0.0,1.0
+Harrison,23.0,Commissioner of Agriculture,,REP,Sid Miller,179.0,56.0,123.0
+Harrison,23.0,Commissioner of Agriculture,,DEM,Jim Hogan,14.0,8.0,6.0
+Harrison,23.0,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,2.0,0.0,2.0
+Harrison,23.0,Commissioner of Agriculture,,GRN,Kenneth Kendrick,1.0,0.0,1.0
 Harrison,23.0,RAILROAD COMMISSIONER,,REP,Ryan Sitton,178.0,56.0,122.0
 Harrison,23.0,RAILROAD COMMISSIONER,,DEM,Steve Brown,15.0,8.0,7.0
 Harrison,23.0,RAILROAD COMMISSIONER,,LIB,Mark A. Miller,4.0,0.0,4.0
@@ -1732,10 +1732,10 @@ Harrison,23.0,"COUNTY COMMISSIONER, PRECINCT NO. 4",,REP,Jay Ebarb,187.0,58.0,12
 Harrison,23.0,"COUNTY COMMISSIONER, PRECINCT NO. 4",,DEM,James Roy (J.R.) Barrett,14.0,7.0,7.0
 Harrison,23.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",FOR,109.0,37.0,72.0
 Harrison,23.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",AGAINST,54.0,21.0,33.0
-Harrison,24.0,STRAIGHT PARTY,,REP,Republican Party,61.0,22.0,39.0
-Harrison,24.0,STRAIGHT PARTY,,DEM,Democratic Party,37.0,14.0,23.0
-Harrison,24.0,STRAIGHT PARTY,,LIB,Libertarian Party,1.0,0.0,1.0
-Harrison,24.0,STRAIGHT PARTY,,GRN,Green Party,0.0,0.0,0.0
+Harrison,24.0,Straight Party,,REP,Republican Party,61.0,22.0,39.0
+Harrison,24.0,Straight Party,,DEM,Democratic Party,37.0,14.0,23.0
+Harrison,24.0,Straight Party,,LIB,Libertarian Party,1.0,0.0,1.0
+Harrison,24.0,Straight Party,,GRN,Green Party,0.0,0.0,0.0
 Harrison,24.0,U.S. Senate,,REP,John Cornyn,126.0,46.0,80.0
 Harrison,24.0,U.S. Senate,,DEM,David M. Alameel,53.0,24.0,29.0
 Harrison,24.0,U.S. Senate,,LIB,Rebecca Paddock,1.0,0.0,1.0
@@ -1748,26 +1748,26 @@ Harrison,24.0,GOVERNOR,,DEM,Wendy R. Davis,56.0,24.0,32.0
 Harrison,24.0,GOVERNOR,,LIB,Kathie Glass,0.0,0.0,0.0
 Harrison,24.0,GOVERNOR,,GRN,Brandon Parmer,0.0,0.0,0.0
 Harrison,24.0,GOVERNOR,,"",Sarah M Pavitt,0.0,0.0,0.0
-Harrison,24.0,LIEUTENANT GOVERNOR,,REP,Dan Patrick,123.0,45.0,78.0
-Harrison,24.0,LIEUTENANT GOVERNOR,,DEM,Leticia Van de Putte,53.0,23.0,30.0
-Harrison,24.0,LIEUTENANT GOVERNOR,,LIB,Robert D. Butler,2.0,0.0,2.0
-Harrison,24.0,LIEUTENANT GOVERNOR,,GRN,Chandrakantha Courtney,0.0,0.0,0.0
-Harrison,24.0,ATTORNEY GENERAL,,REP,Ken Paxton,119.0,40.0,79.0
-Harrison,24.0,ATTORNEY GENERAL,,DEM,Sam Houston,60.0,30.0,30.0
-Harrison,24.0,ATTORNEY GENERAL,,LIB,Jamie Balagia,0.0,0.0,0.0
-Harrison,24.0,ATTORNEY GENERAL,,GRN,Jamar Osborne,0.0,0.0,0.0
-Harrison,24.0,COMPTROLLER OF PUBLIC ACCOUNTS,,REP,Glenn Hegar,114.0,38.0,76.0
-Harrison,24.0,COMPTROLLER OF PUBLIC ACCOUNTS,,DEM,Mike Collier,62.0,29.0,33.0
-Harrison,24.0,COMPTROLLER OF PUBLIC ACCOUNTS,,LIB,Ben Sanders,2.0,1.0,1.0
-Harrison,24.0,COMPTROLLER OF PUBLIC ACCOUNTS,,GRN,Deb Shafto,0.0,0.0,0.0
+Harrison,24.0,Lieutenant Governor,,REP,Dan Patrick,123.0,45.0,78.0
+Harrison,24.0,Lieutenant Governor,,DEM,Leticia Van de Putte,53.0,23.0,30.0
+Harrison,24.0,Lieutenant Governor,,LIB,Robert D. Butler,2.0,0.0,2.0
+Harrison,24.0,Lieutenant Governor,,GRN,Chandrakantha Courtney,0.0,0.0,0.0
+Harrison,24.0,Attorney General,,REP,Ken Paxton,119.0,40.0,79.0
+Harrison,24.0,Attorney General,,DEM,Sam Houston,60.0,30.0,30.0
+Harrison,24.0,Attorney General,,LIB,Jamie Balagia,0.0,0.0,0.0
+Harrison,24.0,Attorney General,,GRN,Jamar Osborne,0.0,0.0,0.0
+Harrison,24.0,Comptroller	of Public Accounts,,REP,Glenn Hegar,114.0,38.0,76.0
+Harrison,24.0,Comptroller	of Public Accounts,,DEM,Mike Collier,62.0,29.0,33.0
+Harrison,24.0,Comptroller	of Public Accounts,,LIB,Ben Sanders,2.0,1.0,1.0
+Harrison,24.0,Comptroller	of Public Accounts,,GRN,Deb Shafto,0.0,0.0,0.0
 Harrison,24.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,REP,George P. Bush,120.0,42.0,78.0
 Harrison,24.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,DEM,John Cook,58.0,27.0,31.0
 Harrison,24.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,LIB,Justin Knight,2.0,1.0,1.0
 Harrison,24.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,GRN,Valerie Alessi,0.0,0.0,0.0
-Harrison,24.0,COMMISSIONER OF AGRICULTURE,,REP,Sid Miller,114.0,40.0,74.0
-Harrison,24.0,COMMISSIONER OF AGRICULTURE,,DEM,Jim Hogan,62.0,29.0,33.0
-Harrison,24.0,COMMISSIONER OF AGRICULTURE,,LIB,David (Rocky) Palmquist,2.0,0.0,2.0
-Harrison,24.0,COMMISSIONER OF AGRICULTURE,,GRN,Kenneth Kendrick,0.0,0.0,0.0
+Harrison,24.0,Commissioner of Agriculture,,REP,Sid Miller,114.0,40.0,74.0
+Harrison,24.0,Commissioner of Agriculture,,DEM,Jim Hogan,62.0,29.0,33.0
+Harrison,24.0,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,2.0,0.0,2.0
+Harrison,24.0,Commissioner of Agriculture,,GRN,Kenneth Kendrick,0.0,0.0,0.0
 Harrison,24.0,RAILROAD COMMISSIONER,,REP,Ryan Sitton,116.0,40.0,76.0
 Harrison,24.0,RAILROAD COMMISSIONER,,DEM,Steve Brown,59.0,28.0,31.0
 Harrison,24.0,RAILROAD COMMISSIONER,,LIB,Mark A. Miller,1.0,0.0,1.0
@@ -1807,10 +1807,10 @@ Harrison,24.0,"COUNTY COMMISSIONER, PRECINCT NO. 4",,REP,Jay Ebarb,130.0,49.0,81
 Harrison,24.0,"COUNTY COMMISSIONER, PRECINCT NO. 4",,DEM,James Roy (J.R.) Barrett,61.0,26.0,35.0
 Harrison,24.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",FOR,120.0,55.0,65.0
 Harrison,24.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",AGAINST,33.0,8.0,25.0
-Harrison,25.0,STRAIGHT PARTY,,REP,Republican Party,791.0,372.0,419.0
-Harrison,25.0,STRAIGHT PARTY,,DEM,Democratic Party,54.0,22.0,32.0
-Harrison,25.0,STRAIGHT PARTY,,LIB,Libertarian Party,2.0,1.0,1.0
-Harrison,25.0,STRAIGHT PARTY,,GRN,Green Party,0.0,0.0,0.0
+Harrison,25.0,Straight Party,,REP,Republican Party,791.0,372.0,419.0
+Harrison,25.0,Straight Party,,DEM,Democratic Party,54.0,22.0,32.0
+Harrison,25.0,Straight Party,,LIB,Libertarian Party,2.0,1.0,1.0
+Harrison,25.0,Straight Party,,GRN,Green Party,0.0,0.0,0.0
 Harrison,25.0,U.S. Senate,,REP,John Cornyn,1144.0,495.0,649.0
 Harrison,25.0,U.S. Senate,,DEM,David M. Alameel,116.0,45.0,71.0
 Harrison,25.0,U.S. Senate,,LIB,Rebecca Paddock,28.0,12.0,16.0
@@ -1823,26 +1823,26 @@ Harrison,25.0,GOVERNOR,,DEM,Wendy R. Davis,131.0,49.0,82.0
 Harrison,25.0,GOVERNOR,,LIB,Kathie Glass,12.0,4.0,8.0
 Harrison,25.0,GOVERNOR,,GRN,Brandon Parmer,1.0,1.0,0.0
 Harrison,25.0,GOVERNOR,,"",Sarah M Pavitt,0.0,0.0,0.0
-Harrison,25.0,LIEUTENANT GOVERNOR,,REP,Dan Patrick,1131.0,498.0,633.0
-Harrison,25.0,LIEUTENANT GOVERNOR,,DEM,Leticia Van de Putte,135.0,50.0,85.0
-Harrison,25.0,LIEUTENANT GOVERNOR,,LIB,Robert D. Butler,22.0,9.0,13.0
-Harrison,25.0,LIEUTENANT GOVERNOR,,GRN,Chandrakantha Courtney,4.0,0.0,4.0
-Harrison,25.0,ATTORNEY GENERAL,,REP,Ken Paxton,1129.0,497.0,632.0
-Harrison,25.0,ATTORNEY GENERAL,,DEM,Sam Houston,144.0,54.0,90.0
-Harrison,25.0,ATTORNEY GENERAL,,LIB,Jamie Balagia,17.0,4.0,13.0
-Harrison,25.0,ATTORNEY GENERAL,,GRN,Jamar Osborne,1.0,0.0,1.0
-Harrison,25.0,COMPTROLLER OF PUBLIC ACCOUNTS,,REP,Glenn Hegar,1115.0,493.0,622.0
-Harrison,25.0,COMPTROLLER OF PUBLIC ACCOUNTS,,DEM,Mike Collier,140.0,50.0,90.0
-Harrison,25.0,COMPTROLLER OF PUBLIC ACCOUNTS,,LIB,Ben Sanders,25.0,8.0,17.0
-Harrison,25.0,COMPTROLLER OF PUBLIC ACCOUNTS,,GRN,Deb Shafto,6.0,1.0,5.0
+Harrison,25.0,Lieutenant Governor,,REP,Dan Patrick,1131.0,498.0,633.0
+Harrison,25.0,Lieutenant Governor,,DEM,Leticia Van de Putte,135.0,50.0,85.0
+Harrison,25.0,Lieutenant Governor,,LIB,Robert D. Butler,22.0,9.0,13.0
+Harrison,25.0,Lieutenant Governor,,GRN,Chandrakantha Courtney,4.0,0.0,4.0
+Harrison,25.0,Attorney General,,REP,Ken Paxton,1129.0,497.0,632.0
+Harrison,25.0,Attorney General,,DEM,Sam Houston,144.0,54.0,90.0
+Harrison,25.0,Attorney General,,LIB,Jamie Balagia,17.0,4.0,13.0
+Harrison,25.0,Attorney General,,GRN,Jamar Osborne,1.0,0.0,1.0
+Harrison,25.0,Comptroller	of Public Accounts,,REP,Glenn Hegar,1115.0,493.0,622.0
+Harrison,25.0,Comptroller	of Public Accounts,,DEM,Mike Collier,140.0,50.0,90.0
+Harrison,25.0,Comptroller	of Public Accounts,,LIB,Ben Sanders,25.0,8.0,17.0
+Harrison,25.0,Comptroller	of Public Accounts,,GRN,Deb Shafto,6.0,1.0,5.0
 Harrison,25.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,REP,George P. Bush,1123.0,492.0,631.0
 Harrison,25.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,DEM,John Cook,131.0,47.0,84.0
 Harrison,25.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,LIB,Justin Knight,28.0,11.0,17.0
 Harrison,25.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,GRN,Valerie Alessi,4.0,0.0,4.0
-Harrison,25.0,COMMISSIONER OF AGRICULTURE,,REP,Sid Miller,1121.0,495.0,626.0
-Harrison,25.0,COMMISSIONER OF AGRICULTURE,,DEM,Jim Hogan,125.0,46.0,79.0
-Harrison,25.0,COMMISSIONER OF AGRICULTURE,,LIB,David (Rocky) Palmquist,27.0,9.0,18.0
-Harrison,25.0,COMMISSIONER OF AGRICULTURE,,GRN,Kenneth Kendrick,9.0,1.0,8.0
+Harrison,25.0,Commissioner of Agriculture,,REP,Sid Miller,1121.0,495.0,626.0
+Harrison,25.0,Commissioner of Agriculture,,DEM,Jim Hogan,125.0,46.0,79.0
+Harrison,25.0,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,27.0,9.0,18.0
+Harrison,25.0,Commissioner of Agriculture,,GRN,Kenneth Kendrick,9.0,1.0,8.0
 Harrison,25.0,RAILROAD COMMISSIONER,,REP,Ryan Sitton,1119.0,495.0,624.0
 Harrison,25.0,RAILROAD COMMISSIONER,,DEM,Steve Brown,123.0,43.0,80.0
 Harrison,25.0,RAILROAD COMMISSIONER,,LIB,Mark A. Miller,26.0,9.0,17.0
@@ -1881,10 +1881,10 @@ Harrison,25.0,COUNTY TREASURER,,REP,Jamie Marie Noland,1167.0,509.0,658.0
 Harrison,25.0,"JUSTICE OF THE PEACE, PRECINCT NO. 3",,REP,Mike Smith,1171.0,511.0,660.0
 Harrison,25.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",FOR,889.0,393.0,496.0
 Harrison,25.0,PROPOSED CONSTITUTIONAL AMENDMENT,,"",AGAINST,244.0,105.0,139.0
-Harrison,26.0,STRAIGHT PARTY,,REP,Republican Party,145.0,96.0,49.0
-Harrison,26.0,STRAIGHT PARTY,,DEM,Democratic Party,19.0,13.0,6.0
-Harrison,26.0,STRAIGHT PARTY,,LIB,Libertarian Party,0.0,0.0,0.0
-Harrison,26.0,STRAIGHT PARTY,,GRN,Green Party,0.0,0.0,0.0
+Harrison,26.0,Straight Party,,REP,Republican Party,145.0,96.0,49.0
+Harrison,26.0,Straight Party,,DEM,Democratic Party,19.0,13.0,6.0
+Harrison,26.0,Straight Party,,LIB,Libertarian Party,0.0,0.0,0.0
+Harrison,26.0,Straight Party,,GRN,Green Party,0.0,0.0,0.0
 Harrison,26.0,U.S. Senate,,REP,John Cornyn,221.0,152.0,69.0
 Harrison,26.0,U.S. Senate,,DEM,David M. Alameel,30.0,18.0,12.0
 Harrison,26.0,U.S. Senate,,LIB,Rebecca Paddock,6.0,2.0,4.0
@@ -1897,26 +1897,26 @@ Harrison,26.0,GOVERNOR,,DEM,Wendy R. Davis,36.0,25.0,11.0
 Harrison,26.0,GOVERNOR,,LIB,Kathie Glass,1.0,0.0,1.0
 Harrison,26.0,GOVERNOR,,GRN,Brandon Parmer,0.0,0.0,0.0
 Harrison,26.0,GOVERNOR,,"",Sarah M Pavitt,0.0,0.0,0.0
-Harrison,26.0,LIEUTENANT GOVERNOR,,REP,Dan Patrick,222.0,153.0,69.0
-Harrison,26.0,LIEUTENANT GOVERNOR,,DEM,Leticia Van de Putte,33.0,20.0,13.0
-Harrison,26.0,LIEUTENANT GOVERNOR,,LIB,Robert D. Butler,1.0,0.0,1.0
-Harrison,26.0,LIEUTENANT GOVERNOR,,GRN,Chandrakantha Courtney,0.0,0.0,0.0
-Harrison,26.0,ATTORNEY GENERAL,,REP,Ken Paxton,217.0,148.0,69.0
-Harrison,26.0,ATTORNEY GENERAL,,DEM,Sam Houston,34.0,23.0,11.0
-Harrison,26.0,ATTORNEY GENERAL,,LIB,Jamie Balagia,3.0,1.0,2.0
-Harrison,26.0,ATTORNEY GENERAL,,GRN,Jamar Osborne,1.0,0.0,1.0
-Harrison,26.0,COMPTROLLER OF PUBLIC ACCOUNTS,,REP,Glenn Hegar,212.0,143.0,69.0
-Harrison,26.0,COMPTROLLER OF PUBLIC ACCOUNTS,,DEM,Mike Collier,34.0,24.0,10.0
-Harrison,26.0,COMPTROLLER OF PUBLIC ACCOUNTS,,LIB,Ben Sanders,4.0,2.0,2.0
-Harrison,26.0,COMPTROLLER OF PUBLIC ACCOUNTS,,GRN,Deb Shafto,2.0,0.0,2.0
+Harrison,26.0,Lieutenant Governor,,REP,Dan Patrick,222.0,153.0,69.0
+Harrison,26.0,Lieutenant Governor,,DEM,Leticia Van de Putte,33.0,20.0,13.0
+Harrison,26.0,Lieutenant Governor,,LIB,Robert D. Butler,1.0,0.0,1.0
+Harrison,26.0,Lieutenant Governor,,GRN,Chandrakantha Courtney,0.0,0.0,0.0
+Harrison,26.0,Attorney General,,REP,Ken Paxton,217.0,148.0,69.0
+Harrison,26.0,Attorney General,,DEM,Sam Houston,34.0,23.0,11.0
+Harrison,26.0,Attorney General,,LIB,Jamie Balagia,3.0,1.0,2.0
+Harrison,26.0,Attorney General,,GRN,Jamar Osborne,1.0,0.0,1.0
+Harrison,26.0,Comptroller	of Public Accounts,,REP,Glenn Hegar,212.0,143.0,69.0
+Harrison,26.0,Comptroller	of Public Accounts,,DEM,Mike Collier,34.0,24.0,10.0
+Harrison,26.0,Comptroller	of Public Accounts,,LIB,Ben Sanders,4.0,2.0,2.0
+Harrison,26.0,Comptroller	of Public Accounts,,GRN,Deb Shafto,2.0,0.0,2.0
 Harrison,26.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,REP,George P. Bush,220.0,150.0,70.0
 Harrison,26.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,DEM,John Cook,32.0,21.0,11.0
 Harrison,26.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,LIB,Justin Knight,1.0,1.0,0.0
 Harrison,26.0,COMMISSIONER OF THE GENERAL LAND OFFICE,,GRN,Valerie Alessi,1.0,0.0,1.0
-Harrison,26.0,COMMISSIONER OF AGRICULTURE,,REP,Sid Miller,212.0,146.0,66.0
-Harrison,26.0,COMMISSIONER OF AGRICULTURE,,DEM,Jim Hogan,33.0,22.0,11.0
-Harrison,26.0,COMMISSIONER OF AGRICULTURE,,LIB,David (Rocky) Palmquist,2.0,1.0,1.0
-Harrison,26.0,COMMISSIONER OF AGRICULTURE,,GRN,Kenneth Kendrick,4.0,1.0,3.0
+Harrison,26.0,Commissioner of Agriculture,,REP,Sid Miller,212.0,146.0,66.0
+Harrison,26.0,Commissioner of Agriculture,,DEM,Jim Hogan,33.0,22.0,11.0
+Harrison,26.0,Commissioner of Agriculture,,LIB,David (Rocky) Palmquist,2.0,1.0,1.0
+Harrison,26.0,Commissioner of Agriculture,,GRN,Kenneth Kendrick,4.0,1.0,3.0
 Harrison,26.0,RAILROAD COMMISSIONER,,REP,Ryan Sitton,213.0,146.0,67.0
 Harrison,26.0,RAILROAD COMMISSIONER,,DEM,Steve Brown,34.0,22.0,12.0
 Harrison,26.0,RAILROAD COMMISSIONER,,LIB,Mark A. Miller,3.0,2.0,1.0
