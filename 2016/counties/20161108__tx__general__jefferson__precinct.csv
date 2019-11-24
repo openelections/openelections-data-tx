@@ -1,10 +1,10 @@
 county,precinct,office,district,party,candidate,votes,early_voting,election_day
-Jefferson,1,STRAIGHT PARTY,,REP,Republican Party,63,50,213
-Jefferson,1,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,1,STRAIGHT PARTY,,,Under Votes,135,111,24
-Jefferson,1,STRAIGHT PARTY,,DEM,Democratic Party,814,640,213
-Jefferson,1,STRAIGHT PARTY,,LIB,Libertarian Party,5,5,213
-Jefferson,1,STRAIGHT PARTY,,GRN,Green Party,4,2,213
+Jefferson,1,Straight Party,,REP,Republican Party,63,50,213
+Jefferson,1,Straight Party,,,Over Votes,0,0,0
+Jefferson,1,Straight Party,,,Under Votes,135,111,24
+Jefferson,1,Straight Party,,DEM,Democratic Party,814,640,213
+Jefferson,1,Straight Party,,LIB,Libertarian Party,5,5,213
+Jefferson,1,Straight Party,,GRN,Green Party,4,2,213
 Jefferson,1,President,,REP,Donald J. Trump / Mike Pence,91,71,213
 Jefferson,1,President,,,Over Votes,0,0,0
 Jefferson,1,President,,,Under Votes,16,12,4
@@ -86,12 +86,12 @@ Jefferson,1,Sheriff,,REP,Ray Beck,100,81,213
 Jefferson,1,Sheriff,,,Over Votes,0,0,0
 Jefferson,1,Sheriff,,,Under Votes,13,11,2
 Jefferson,1,Sheriff,,DEM,Zena Stephens,908,716,213
-Jefferson,2,STRAIGHT PARTY,,REP,Republican Party,77,62,126
-Jefferson,2,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,2,STRAIGHT PARTY,,,Under Votes,109,83,26
-Jefferson,2,STRAIGHT PARTY,,DEM,Democratic Party,413,329,126
-Jefferson,2,STRAIGHT PARTY,,LIB,Libertarian Party,7,6,126
-Jefferson,2,STRAIGHT PARTY,,GRN,Green Party,2,2,126
+Jefferson,2,Straight Party,,REP,Republican Party,77,62,126
+Jefferson,2,Straight Party,,,Over Votes,0,0,0
+Jefferson,2,Straight Party,,,Under Votes,109,83,26
+Jefferson,2,Straight Party,,DEM,Democratic Party,413,329,126
+Jefferson,2,Straight Party,,LIB,Libertarian Party,7,6,126
+Jefferson,2,Straight Party,,GRN,Green Party,2,2,126
 Jefferson,2,President,,REP,Donald J. Trump / Mike Pence,112,89,126
 Jefferson,2,President,,,Over Votes,0,0,0
 Jefferson,2,President,,,Under Votes,9,8,1
@@ -173,12 +173,12 @@ Jefferson,2,Sheriff,,REP,Ray Beck,111,87,126
 Jefferson,2,Sheriff,,,Over Votes,0,0,0
 Jefferson,2,Sheriff,,,Under Votes,10,9,1
 Jefferson,2,Sheriff,,DEM,Zena Stephens,487,386,126
-Jefferson,3,STRAIGHT PARTY,,REP,Republican Party,43,34,275
-Jefferson,3,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,3,STRAIGHT PARTY,,,Under Votes,125,103,22
-Jefferson,3,STRAIGHT PARTY,,DEM,Democratic Party,923,681,275
-Jefferson,3,STRAIGHT PARTY,,LIB,Libertarian Party,3,1,275
-Jefferson,3,STRAIGHT PARTY,,GRN,Green Party,4,4,275
+Jefferson,3,Straight Party,,REP,Republican Party,43,34,275
+Jefferson,3,Straight Party,,,Over Votes,0,0,0
+Jefferson,3,Straight Party,,,Under Votes,125,103,22
+Jefferson,3,Straight Party,,DEM,Democratic Party,923,681,275
+Jefferson,3,Straight Party,,LIB,Libertarian Party,3,1,275
+Jefferson,3,Straight Party,,GRN,Green Party,4,4,275
 Jefferson,3,President,,REP,Donald J. Trump / Mike Pence,57,48,275
 Jefferson,3,President,,,Over Votes,0,0,0
 Jefferson,3,President,,,Under Votes,9,8,1
@@ -260,12 +260,12 @@ Jefferson,3,Sheriff,,REP,Ray Beck,68,57,275
 Jefferson,3,Sheriff,,,Over Votes,0,0,0
 Jefferson,3,Sheriff,,,Under Votes,11,8,3
 Jefferson,3,Sheriff,,DEM,Zena Stephens,1019,758,275
-Jefferson,4,STRAIGHT PARTY,,REP,Republican Party,334,272,216
-Jefferson,4,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,4,STRAIGHT PARTY,,,Under Votes,532,406,126
-Jefferson,4,STRAIGHT PARTY,,DEM,Democratic Party,130,106,216
-Jefferson,4,STRAIGHT PARTY,,LIB,Libertarian Party,9,5,216
-Jefferson,4,STRAIGHT PARTY,,GRN,Green Party,2,2,216
+Jefferson,4,Straight Party,,REP,Republican Party,334,272,216
+Jefferson,4,Straight Party,,,Over Votes,0,0,0
+Jefferson,4,Straight Party,,,Under Votes,532,406,126
+Jefferson,4,Straight Party,,DEM,Democratic Party,130,106,216
+Jefferson,4,Straight Party,,LIB,Libertarian Party,9,5,216
+Jefferson,4,Straight Party,,GRN,Green Party,2,2,216
 Jefferson,4,President,,REP,Donald J. Trump / Mike Pence,627,499,216
 Jefferson,4,President,,,Over Votes,0,0,0
 Jefferson,4,President,,,Under Votes,27,16,11
@@ -347,12 +347,12 @@ Jefferson,4,Sheriff,,REP,Ray Beck,651,510,216
 Jefferson,4,Sheriff,,,Over Votes,0,0,0
 Jefferson,4,Sheriff,,,Under Votes,15,13,2
 Jefferson,4,Sheriff,,DEM,Zena Stephens,341,268,216
-Jefferson,5,STRAIGHT PARTY,,REP,Republican Party,238,194,178
-Jefferson,5,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,5,STRAIGHT PARTY,,,Under Votes,380,314,66
-Jefferson,5,STRAIGHT PARTY,,DEM,Democratic Party,347,280,178
-Jefferson,5,STRAIGHT PARTY,,LIB,Libertarian Party,5,4,178
-Jefferson,5,STRAIGHT PARTY,,GRN,Green Party,0,0,178
+Jefferson,5,Straight Party,,REP,Republican Party,238,194,178
+Jefferson,5,Straight Party,,,Over Votes,0,0,0
+Jefferson,5,Straight Party,,,Under Votes,380,314,66
+Jefferson,5,Straight Party,,DEM,Democratic Party,347,280,178
+Jefferson,5,Straight Party,,LIB,Libertarian Party,5,4,178
+Jefferson,5,Straight Party,,GRN,Green Party,0,0,178
 Jefferson,5,President,,REP,Donald J. Trump / Mike Pence,434,357,178
 Jefferson,5,President,,,Over Votes,0,0,0
 Jefferson,5,President,,,Under Votes,14,8,6
@@ -434,12 +434,12 @@ Jefferson,5,Sheriff,,REP,Ray Beck,414,339,178
 Jefferson,5,Sheriff,,,Over Votes,0,0,0
 Jefferson,5,Sheriff,,,Under Votes,17,13,4
 Jefferson,5,Sheriff,,DEM,Zena Stephens,539,440,178
-Jefferson,6,STRAIGHT PARTY,,REP,Republican Party,117,88,200
-Jefferson,6,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,6,STRAIGHT PARTY,,,Under Votes,245,188,57
-Jefferson,6,STRAIGHT PARTY,,DEM,Democratic Party,387,274,200
-Jefferson,6,STRAIGHT PARTY,,LIB,Libertarian Party,4,3,200
-Jefferson,6,STRAIGHT PARTY,,GRN,Green Party,0,0,200
+Jefferson,6,Straight Party,,REP,Republican Party,117,88,200
+Jefferson,6,Straight Party,,,Over Votes,0,0,0
+Jefferson,6,Straight Party,,,Under Votes,245,188,57
+Jefferson,6,Straight Party,,DEM,Democratic Party,387,274,200
+Jefferson,6,Straight Party,,LIB,Libertarian Party,4,3,200
+Jefferson,6,Straight Party,,GRN,Green Party,0,0,200
 Jefferson,6,President,,REP,Donald J. Trump / Mike Pence,239,183,200
 Jefferson,6,President,,,Over Votes,0,0,0
 Jefferson,6,President,,,Under Votes,7,6,1
@@ -521,12 +521,12 @@ Jefferson,6,Sheriff,,REP,Ray Beck,222,173,200
 Jefferson,6,Sheriff,,,Over Votes,0,0,0
 Jefferson,6,Sheriff,,,Under Votes,8,7,1
 Jefferson,6,Sheriff,,DEM,Zena Stephens,523,373,200
-Jefferson,7,STRAIGHT PARTY,,REP,Republican Party,170,120,243
-Jefferson,7,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,7,STRAIGHT PARTY,,,Under Votes,311,222,89
-Jefferson,7,STRAIGHT PARTY,,DEM,Democratic Party,313,211,243
-Jefferson,7,STRAIGHT PARTY,,LIB,Libertarian Party,3,2,243
-Jefferson,7,STRAIGHT PARTY,,GRN,Green Party,2,1,243
+Jefferson,7,Straight Party,,REP,Republican Party,170,120,243
+Jefferson,7,Straight Party,,,Over Votes,0,0,0
+Jefferson,7,Straight Party,,,Under Votes,311,222,89
+Jefferson,7,Straight Party,,DEM,Democratic Party,313,211,243
+Jefferson,7,Straight Party,,LIB,Libertarian Party,3,2,243
+Jefferson,7,Straight Party,,GRN,Green Party,2,1,243
 Jefferson,7,President,,REP,Donald J. Trump / Mike Pence,322,232,243
 Jefferson,7,President,,,Over Votes,0,0,0
 Jefferson,7,President,,,Under Votes,8,6,2
@@ -608,12 +608,12 @@ Jefferson,7,Sheriff,,REP,Ray Beck,329,228,243
 Jefferson,7,Sheriff,,,Over Votes,0,0,0
 Jefferson,7,Sheriff,,,Under Votes,8,4,4
 Jefferson,7,Sheriff,,DEM,Zena Stephens,462,324,243
-Jefferson,8,STRAIGHT PARTY,,REP,Republican Party,14,9,110
-Jefferson,8,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,8,STRAIGHT PARTY,,,Under Votes,49,39,10
-Jefferson,8,STRAIGHT PARTY,,DEM,Democratic Party,317,222,110
-Jefferson,8,STRAIGHT PARTY,,LIB,Libertarian Party,1,1,110
-Jefferson,8,STRAIGHT PARTY,,GRN,Green Party,0,0,110
+Jefferson,8,Straight Party,,REP,Republican Party,14,9,110
+Jefferson,8,Straight Party,,,Over Votes,0,0,0
+Jefferson,8,Straight Party,,,Under Votes,49,39,10
+Jefferson,8,Straight Party,,DEM,Democratic Party,317,222,110
+Jefferson,8,Straight Party,,LIB,Libertarian Party,1,1,110
+Jefferson,8,Straight Party,,GRN,Green Party,0,0,110
 Jefferson,8,President,,REP,Donald J. Trump / Mike Pence,22,14,110
 Jefferson,8,President,,,Over Votes,0,0,0
 Jefferson,8,President,,,Under Votes,5,3,2
@@ -695,12 +695,12 @@ Jefferson,8,Sheriff,,REP,Ray Beck,22,15,110
 Jefferson,8,Sheriff,,,Over Votes,0,0,0
 Jefferson,8,Sheriff,,,Under Votes,5,4,1
 Jefferson,8,Sheriff,,DEM,Zena Stephens,354,252,110
-Jefferson,9,STRAIGHT PARTY,,REP,Republican Party,1135,1010,291
-Jefferson,9,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,9,STRAIGHT PARTY,,,Under Votes,1212,1068,144
-Jefferson,9,STRAIGHT PARTY,,DEM,Democratic Party,169,149,291
-Jefferson,9,STRAIGHT PARTY,,LIB,Libertarian Party,5,3,291
-Jefferson,9,STRAIGHT PARTY,,GRN,Green Party,2,2,291
+Jefferson,9,Straight Party,,REP,Republican Party,1135,1010,291
+Jefferson,9,Straight Party,,,Over Votes,0,0,0
+Jefferson,9,Straight Party,,,Under Votes,1212,1068,144
+Jefferson,9,Straight Party,,DEM,Democratic Party,169,149,291
+Jefferson,9,Straight Party,,LIB,Libertarian Party,5,3,291
+Jefferson,9,Straight Party,,GRN,Green Party,2,2,291
 Jefferson,9,President,,REP,Donald J. Trump / Mike Pence,2058,1824,291
 Jefferson,9,President,,,Over Votes,0,0,0
 Jefferson,9,President,,,Under Votes,34,30,4
@@ -795,12 +795,12 @@ Jefferson,9,"School Board Trustee, Place 5",,||,Brandon Cropper,1096,970,291
 Jefferson,9,"School Board Trustee, Place 5",,,Over Votes,0,0,0
 Jefferson,9,"School Board Trustee, Place 5",,,Under Votes,539,464,75
 Jefferson,9,"School Board Trustee, Place 5",,||,Rodney Balsamo,888,798,291
-Jefferson,9,STRAIGHT PARTY,,REP,Republican Party,49,42,25
-Jefferson,9,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,9,STRAIGHT PARTY,,,Under Votes,62,48,14
-Jefferson,9,STRAIGHT PARTY,,DEM,Democratic Party,21,17,25
-Jefferson,9,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,25
-Jefferson,9,STRAIGHT PARTY,,GRN,Green Party,0,0,25
+Jefferson,9,Straight Party,,REP,Republican Party,49,42,25
+Jefferson,9,Straight Party,,,Over Votes,0,0,0
+Jefferson,9,Straight Party,,,Under Votes,62,48,14
+Jefferson,9,Straight Party,,DEM,Democratic Party,21,17,25
+Jefferson,9,Straight Party,,LIB,Libertarian Party,0,0,25
+Jefferson,9,Straight Party,,GRN,Green Party,0,0,25
 Jefferson,9,President,,REP,Donald J. Trump / Mike Pence,100,84,25
 Jefferson,9,President,,,Over Votes,0,0,0
 Jefferson,9,President,,,Under Votes,3,1,2
@@ -882,12 +882,12 @@ Jefferson,9,Sheriff,,REP,Ray Beck,92,77,25
 Jefferson,9,Sheriff,,,Over Votes,0,0,0
 Jefferson,9,Sheriff,,,Under Votes,3,2,1
 Jefferson,9,Sheriff,,DEM,Zena Stephens,37,28,25
-Jefferson,10,STRAIGHT PARTY,,REP,Republican Party,39,26,82
-Jefferson,10,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,10,STRAIGHT PARTY,,,Under Votes,79,60,19
-Jefferson,10,STRAIGHT PARTY,,DEM,Democratic Party,215,166,82
-Jefferson,10,STRAIGHT PARTY,,LIB,Libertarian Party,2,1,82
-Jefferson,10,STRAIGHT PARTY,,GRN,Green Party,3,3,82
+Jefferson,10,Straight Party,,REP,Republican Party,39,26,82
+Jefferson,10,Straight Party,,,Over Votes,0,0,0
+Jefferson,10,Straight Party,,,Under Votes,79,60,19
+Jefferson,10,Straight Party,,DEM,Democratic Party,215,166,82
+Jefferson,10,Straight Party,,LIB,Libertarian Party,2,1,82
+Jefferson,10,Straight Party,,GRN,Green Party,3,3,82
 Jefferson,10,President,,REP,Donald J. Trump / Mike Pence,63,44,82
 Jefferson,10,President,,,Over Votes,0,0,0
 Jefferson,10,President,,,Under Votes,8,6,2
@@ -969,12 +969,12 @@ Jefferson,10,Sheriff,,REP,Ray Beck,61,47,82
 Jefferson,10,Sheriff,,,Over Votes,0,0,0
 Jefferson,10,Sheriff,,,Under Votes,12,7,5
 Jefferson,10,Sheriff,,DEM,Zena Stephens,265,202,82
-Jefferson,11,STRAIGHT PARTY,,REP,Republican Party,13,10,42
-Jefferson,11,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,11,STRAIGHT PARTY,,,Under Votes,51,42,9
-Jefferson,11,STRAIGHT PARTY,,DEM,Democratic Party,142,113,42
-Jefferson,11,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,42
-Jefferson,11,STRAIGHT PARTY,,GRN,Green Party,0,0,42
+Jefferson,11,Straight Party,,REP,Republican Party,13,10,42
+Jefferson,11,Straight Party,,,Over Votes,0,0,0
+Jefferson,11,Straight Party,,,Under Votes,51,42,9
+Jefferson,11,Straight Party,,DEM,Democratic Party,142,113,42
+Jefferson,11,Straight Party,,LIB,Libertarian Party,1,0,42
+Jefferson,11,Straight Party,,GRN,Green Party,0,0,42
 Jefferson,11,President,,REP,Donald J. Trump / Mike Pence,32,25,42
 Jefferson,11,President,,,Over Votes,0,0,0
 Jefferson,11,President,,,Under Votes,3,1,2
@@ -1056,12 +1056,12 @@ Jefferson,11,Sheriff,,REP,Ray Beck,31,25,42
 Jefferson,11,Sheriff,,,Over Votes,0,0,0
 Jefferson,11,Sheriff,,,Under Votes,1,0,1
 Jefferson,11,Sheriff,,DEM,Zena Stephens,175,140,42
-Jefferson,12,STRAIGHT PARTY,,REP,Republican Party,3,2,61
-Jefferson,12,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,12,STRAIGHT PARTY,,,Under Votes,36,27,9
-Jefferson,12,STRAIGHT PARTY,,DEM,Democratic Party,232,181,61
-Jefferson,12,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,61
-Jefferson,12,STRAIGHT PARTY,,GRN,Green Party,0,0,61
+Jefferson,12,Straight Party,,REP,Republican Party,3,2,61
+Jefferson,12,Straight Party,,,Over Votes,0,0,0
+Jefferson,12,Straight Party,,,Under Votes,36,27,9
+Jefferson,12,Straight Party,,DEM,Democratic Party,232,181,61
+Jefferson,12,Straight Party,,LIB,Libertarian Party,0,0,61
+Jefferson,12,Straight Party,,GRN,Green Party,0,0,61
 Jefferson,12,President,,REP,Donald J. Trump / Mike Pence,7,6,61
 Jefferson,12,President,,,Over Votes,0,0,0
 Jefferson,12,President,,,Under Votes,2,1,1
@@ -1143,12 +1143,12 @@ Jefferson,12,Sheriff,,REP,Ray Beck,11,9,61
 Jefferson,12,Sheriff,,,Over Votes,0,0,0
 Jefferson,12,Sheriff,,,Under Votes,4,1,3
 Jefferson,12,Sheriff,,DEM,Zena Stephens,256,200,61
-Jefferson,13,STRAIGHT PARTY,,REP,Republican Party,6,3,59
-Jefferson,13,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,13,STRAIGHT PARTY,,,Under Votes,17,13,4
-Jefferson,13,STRAIGHT PARTY,,DEM,Democratic Party,208,156,59
-Jefferson,13,STRAIGHT PARTY,,LIB,Libertarian Party,1,1,59
-Jefferson,13,STRAIGHT PARTY,,GRN,Green Party,0,0,59
+Jefferson,13,Straight Party,,REP,Republican Party,6,3,59
+Jefferson,13,Straight Party,,,Over Votes,0,0,0
+Jefferson,13,Straight Party,,,Under Votes,17,13,4
+Jefferson,13,Straight Party,,DEM,Democratic Party,208,156,59
+Jefferson,13,Straight Party,,LIB,Libertarian Party,1,1,59
+Jefferson,13,Straight Party,,GRN,Green Party,0,0,59
 Jefferson,13,President,,REP,Donald J. Trump / Mike Pence,8,5,59
 Jefferson,13,President,,,Over Votes,0,0,0
 Jefferson,13,President,,,Under Votes,1,0,1
@@ -1230,12 +1230,12 @@ Jefferson,13,Sheriff,,REP,Ray Beck,10,6,59
 Jefferson,13,Sheriff,,,Over Votes,0,0,0
 Jefferson,13,Sheriff,,,Under Votes,1,1,0
 Jefferson,13,Sheriff,,DEM,Zena Stephens,221,166,59
-Jefferson,14,STRAIGHT PARTY,,REP,Republican Party,16,10,175
-Jefferson,14,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,14,STRAIGHT PARTY,,,Under Votes,115,91,24
-Jefferson,14,STRAIGHT PARTY,,DEM,Democratic Party,643,499,175
-Jefferson,14,STRAIGHT PARTY,,LIB,Libertarian Party,3,3,175
-Jefferson,14,STRAIGHT PARTY,,GRN,Green Party,1,0,175
+Jefferson,14,Straight Party,,REP,Republican Party,16,10,175
+Jefferson,14,Straight Party,,,Over Votes,0,0,0
+Jefferson,14,Straight Party,,,Under Votes,115,91,24
+Jefferson,14,Straight Party,,DEM,Democratic Party,643,499,175
+Jefferson,14,Straight Party,,LIB,Libertarian Party,3,3,175
+Jefferson,14,Straight Party,,GRN,Green Party,1,0,175
 Jefferson,14,President,,REP,Donald J. Trump / Mike Pence,33,18,175
 Jefferson,14,President,,,Over Votes,0,0,0
 Jefferson,14,President,,,Under Votes,5,4,1
@@ -1317,12 +1317,12 @@ Jefferson,14,Sheriff,,REP,Ray Beck,37,25,175
 Jefferson,14,Sheriff,,,Over Votes,0,0,0
 Jefferson,14,Sheriff,,,Under Votes,9,4,5
 Jefferson,14,Sheriff,,DEM,Zena Stephens,732,574,175
-Jefferson,15,STRAIGHT PARTY,,REP,Republican Party,42,28,168
-Jefferson,15,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,15,STRAIGHT PARTY,,,Under Votes,91,75,16
-Jefferson,15,STRAIGHT PARTY,,DEM,Democratic Party,558,424,168
-Jefferson,15,STRAIGHT PARTY,,LIB,Libertarian Party,4,0,168
-Jefferson,15,STRAIGHT PARTY,,GRN,Green Party,0,0,168
+Jefferson,15,Straight Party,,REP,Republican Party,42,28,168
+Jefferson,15,Straight Party,,,Over Votes,0,0,0
+Jefferson,15,Straight Party,,,Under Votes,91,75,16
+Jefferson,15,Straight Party,,DEM,Democratic Party,558,424,168
+Jefferson,15,Straight Party,,LIB,Libertarian Party,4,0,168
+Jefferson,15,Straight Party,,GRN,Green Party,0,0,168
 Jefferson,15,President,,REP,Donald J. Trump / Mike Pence,56,39,168
 Jefferson,15,President,,,Over Votes,0,0,0
 Jefferson,15,President,,,Under Votes,8,6,2
@@ -1404,12 +1404,12 @@ Jefferson,15,Sheriff,,REP,Ray Beck,67,44,168
 Jefferson,15,Sheriff,,,Over Votes,0,0,0
 Jefferson,15,Sheriff,,,Under Votes,8,8,0
 Jefferson,15,Sheriff,,DEM,Zena Stephens,620,475,168
-Jefferson,16,STRAIGHT PARTY,,REP,Republican Party,11,6,60
-Jefferson,16,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,16,STRAIGHT PARTY,,,Under Votes,44,31,13
-Jefferson,16,STRAIGHT PARTY,,DEM,Democratic Party,154,113,60
-Jefferson,16,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,60
-Jefferson,16,STRAIGHT PARTY,,GRN,Green Party,1,0,60
+Jefferson,16,Straight Party,,REP,Republican Party,11,6,60
+Jefferson,16,Straight Party,,,Over Votes,0,0,0
+Jefferson,16,Straight Party,,,Under Votes,44,31,13
+Jefferson,16,Straight Party,,DEM,Democratic Party,154,113,60
+Jefferson,16,Straight Party,,LIB,Libertarian Party,0,0,60
+Jefferson,16,Straight Party,,GRN,Green Party,1,0,60
 Jefferson,16,President,,REP,Donald J. Trump / Mike Pence,23,15,60
 Jefferson,16,President,,,Over Votes,0,0,0
 Jefferson,16,President,,,Under Votes,4,3,1
@@ -1491,12 +1491,12 @@ Jefferson,16,Sheriff,,REP,Ray Beck,24,15,60
 Jefferson,16,Sheriff,,,Over Votes,0,0,0
 Jefferson,16,Sheriff,,,Under Votes,1,0,1
 Jefferson,16,Sheriff,,DEM,Zena Stephens,185,135,60
-Jefferson,17,STRAIGHT PARTY,,REP,Republican Party,409,312,312
-Jefferson,17,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,17,STRAIGHT PARTY,,,Under Votes,544,429,115
-Jefferson,17,STRAIGHT PARTY,,DEM,Democratic Party,646,548,312
-Jefferson,17,STRAIGHT PARTY,,LIB,Libertarian Party,10,8,312
-Jefferson,17,STRAIGHT PARTY,,GRN,Green Party,2,2,312
+Jefferson,17,Straight Party,,REP,Republican Party,409,312,312
+Jefferson,17,Straight Party,,,Over Votes,0,0,0
+Jefferson,17,Straight Party,,,Under Votes,544,429,115
+Jefferson,17,Straight Party,,DEM,Democratic Party,646,548,312
+Jefferson,17,Straight Party,,LIB,Libertarian Party,10,8,312
+Jefferson,17,Straight Party,,GRN,Green Party,2,2,312
 Jefferson,17,President,,REP,Donald J. Trump / Mike Pence,705,547,312
 Jefferson,17,President,,,Over Votes,0,0,0
 Jefferson,17,President,,,Under Votes,14,11,3
@@ -1578,12 +1578,12 @@ Jefferson,17,Sheriff,,REP,Ray Beck,698,543,312
 Jefferson,17,Sheriff,,,Over Votes,0,0,0
 Jefferson,17,Sheriff,,,Under Votes,31,22,9
 Jefferson,17,Sheriff,,DEM,Zena Stephens,882,734,312
-Jefferson,18,STRAIGHT PARTY,,REP,Republican Party,12,8,142
-Jefferson,18,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,18,STRAIGHT PARTY,,,Under Votes,105,89,16
-Jefferson,18,STRAIGHT PARTY,,DEM,Democratic Party,676,554,142
-Jefferson,18,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,142
-Jefferson,18,STRAIGHT PARTY,,GRN,Green Party,0,0,142
+Jefferson,18,Straight Party,,REP,Republican Party,12,8,142
+Jefferson,18,Straight Party,,,Over Votes,0,0,0
+Jefferson,18,Straight Party,,,Under Votes,105,89,16
+Jefferson,18,Straight Party,,DEM,Democratic Party,676,554,142
+Jefferson,18,Straight Party,,LIB,Libertarian Party,0,0,142
+Jefferson,18,Straight Party,,GRN,Green Party,0,0,142
 Jefferson,18,President,,REP,Donald J. Trump / Mike Pence,17,11,142
 Jefferson,18,President,,,Over Votes,0,0,0
 Jefferson,18,President,,,Under Votes,6,6,0
@@ -1665,12 +1665,12 @@ Jefferson,18,Sheriff,,REP,Ray Beck,30,25,142
 Jefferson,18,Sheriff,,,Over Votes,0,0,0
 Jefferson,18,Sheriff,,,Under Votes,9,9,0
 Jefferson,18,Sheriff,,DEM,Zena Stephens,754,617,142
-Jefferson,19,STRAIGHT PARTY,,REP,Republican Party,33,25,182
-Jefferson,19,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,19,STRAIGHT PARTY,,,Under Votes,93,80,13
-Jefferson,19,STRAIGHT PARTY,,DEM,Democratic Party,701,543,182
-Jefferson,19,STRAIGHT PARTY,,LIB,Libertarian Party,2,1,182
-Jefferson,19,STRAIGHT PARTY,,GRN,Green Party,2,0,182
+Jefferson,19,Straight Party,,REP,Republican Party,33,25,182
+Jefferson,19,Straight Party,,,Over Votes,0,0,0
+Jefferson,19,Straight Party,,,Under Votes,93,80,13
+Jefferson,19,Straight Party,,DEM,Democratic Party,701,543,182
+Jefferson,19,Straight Party,,LIB,Libertarian Party,2,1,182
+Jefferson,19,Straight Party,,GRN,Green Party,2,0,182
 Jefferson,19,President,,REP,Donald J. Trump / Mike Pence,53,42,182
 Jefferson,19,President,,,Over Votes,0,0,0
 Jefferson,19,President,,,Under Votes,9,6,3
@@ -1752,12 +1752,12 @@ Jefferson,19,Sheriff,,REP,Ray Beck,54,42,182
 Jefferson,19,Sheriff,,,Over Votes,0,0,0
 Jefferson,19,Sheriff,,,Under Votes,12,10,2
 Jefferson,19,Sheriff,,DEM,Zena Stephens,765,597,182
-Jefferson,20,STRAIGHT PARTY,,REP,Republican Party,33,22,182
-Jefferson,20,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,20,STRAIGHT PARTY,,,Under Votes,91,68,23
-Jefferson,20,STRAIGHT PARTY,,DEM,Democratic Party,519,372,182
-Jefferson,20,STRAIGHT PARTY,,LIB,Libertarian Party,1,1,182
-Jefferson,20,STRAIGHT PARTY,,GRN,Green Party,1,0,182
+Jefferson,20,Straight Party,,REP,Republican Party,33,22,182
+Jefferson,20,Straight Party,,,Over Votes,0,0,0
+Jefferson,20,Straight Party,,,Under Votes,91,68,23
+Jefferson,20,Straight Party,,DEM,Democratic Party,519,372,182
+Jefferson,20,Straight Party,,LIB,Libertarian Party,1,1,182
+Jefferson,20,Straight Party,,GRN,Green Party,1,0,182
 Jefferson,20,President,,REP,Donald J. Trump / Mike Pence,54,35,182
 Jefferson,20,President,,,Over Votes,0,0,0
 Jefferson,20,President,,,Under Votes,9,7,2
@@ -1839,12 +1839,12 @@ Jefferson,20,Sheriff,,REP,Ray Beck,62,42,182
 Jefferson,20,Sheriff,,,Over Votes,0,0,0
 Jefferson,20,Sheriff,,,Under Votes,6,4,2
 Jefferson,20,Sheriff,,DEM,Zena Stephens,577,417,182
-Jefferson,21,STRAIGHT PARTY,,REP,Republican Party,63,44,36
-Jefferson,21,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,21,STRAIGHT PARTY,,,Under Votes,40,33,7
-Jefferson,21,STRAIGHT PARTY,,DEM,Democratic Party,56,46,36
-Jefferson,21,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,36
-Jefferson,21,STRAIGHT PARTY,,GRN,Green Party,0,0,36
+Jefferson,21,Straight Party,,REP,Republican Party,63,44,36
+Jefferson,21,Straight Party,,,Over Votes,0,0,0
+Jefferson,21,Straight Party,,,Under Votes,40,33,7
+Jefferson,21,Straight Party,,DEM,Democratic Party,56,46,36
+Jefferson,21,Straight Party,,LIB,Libertarian Party,0,0,36
+Jefferson,21,Straight Party,,GRN,Green Party,0,0,36
 Jefferson,21,President,,REP,Donald J. Trump / Mike Pence,91,66,36
 Jefferson,21,President,,,Over Votes,0,0,0
 Jefferson,21,President,,,Under Votes,1,1,0
@@ -1926,12 +1926,12 @@ Jefferson,21,Sheriff,,REP,Ray Beck,84,59,36
 Jefferson,21,Sheriff,,,Over Votes,0,0,0
 Jefferson,21,Sheriff,,,Under Votes,0,0,0
 Jefferson,21,Sheriff,,DEM,Zena Stephens,75,64,36
-Jefferson,22,STRAIGHT PARTY,,REP,Republican Party,637,463,596
-Jefferson,22,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,22,STRAIGHT PARTY,,,Under Votes,763,578,185
-Jefferson,22,STRAIGHT PARTY,,DEM,Democratic Party,1108,878,596
-Jefferson,22,STRAIGHT PARTY,,LIB,Libertarian Party,13,7,596
-Jefferson,22,STRAIGHT PARTY,,GRN,Green Party,4,3,596
+Jefferson,22,Straight Party,,REP,Republican Party,637,463,596
+Jefferson,22,Straight Party,,,Over Votes,0,0,0
+Jefferson,22,Straight Party,,,Under Votes,763,578,185
+Jefferson,22,Straight Party,,DEM,Democratic Party,1108,878,596
+Jefferson,22,Straight Party,,LIB,Libertarian Party,13,7,596
+Jefferson,22,Straight Party,,GRN,Green Party,4,3,596
 Jefferson,22,President,,REP,Donald J. Trump / Mike Pence,1024,750,596
 Jefferson,22,President,,,Over Votes,0,0,0
 Jefferson,22,President,,,Under Votes,28,23,5
@@ -2013,12 +2013,12 @@ Jefferson,22,Sheriff,,REP,Ray Beck,1010,739,596
 Jefferson,22,Sheriff,,,Over Votes,0,0,0
 Jefferson,22,Sheriff,,,Under Votes,33,19,14
 Jefferson,22,Sheriff,,DEM,Zena Stephens,1482,1171,596
-Jefferson,23,STRAIGHT PARTY,,REP,Republican Party,237,192,247
-Jefferson,23,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,23,STRAIGHT PARTY,,,Under Votes,379,313,66
-Jefferson,23,STRAIGHT PARTY,,DEM,Democratic Party,762,628,247
-Jefferson,23,STRAIGHT PARTY,,LIB,Libertarian Party,4,2,247
-Jefferson,23,STRAIGHT PARTY,,GRN,Green Party,4,4,247
+Jefferson,23,Straight Party,,REP,Republican Party,237,192,247
+Jefferson,23,Straight Party,,,Over Votes,0,0,0
+Jefferson,23,Straight Party,,,Under Votes,379,313,66
+Jefferson,23,Straight Party,,DEM,Democratic Party,762,628,247
+Jefferson,23,Straight Party,,LIB,Libertarian Party,4,2,247
+Jefferson,23,Straight Party,,GRN,Green Party,4,4,247
 Jefferson,23,President,,REP,Donald J. Trump / Mike Pence,365,297,247
 Jefferson,23,President,,,Over Votes,0,0,0
 Jefferson,23,President,,,Under Votes,17,15,2
@@ -2100,12 +2100,12 @@ Jefferson,23,Sheriff,,REP,Ray Beck,373,304,247
 Jefferson,23,Sheriff,,,Over Votes,0,0,0
 Jefferson,23,Sheriff,,,Under Votes,21,16,5
 Jefferson,23,Sheriff,,DEM,Zena Stephens,992,819,247
-Jefferson,24,STRAIGHT PARTY,,REP,Republican Party,135,117,59
-Jefferson,24,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,24,STRAIGHT PARTY,,,Under Votes,123,102,21
-Jefferson,24,STRAIGHT PARTY,,DEM,Democratic Party,81,61,59
-Jefferson,24,STRAIGHT PARTY,,LIB,Libertarian Party,1,1,59
-Jefferson,24,STRAIGHT PARTY,,GRN,Green Party,0,0,59
+Jefferson,24,Straight Party,,REP,Republican Party,135,117,59
+Jefferson,24,Straight Party,,,Over Votes,0,0,0
+Jefferson,24,Straight Party,,,Under Votes,123,102,21
+Jefferson,24,Straight Party,,DEM,Democratic Party,81,61,59
+Jefferson,24,Straight Party,,LIB,Libertarian Party,1,1,59
+Jefferson,24,Straight Party,,GRN,Green Party,0,0,59
 Jefferson,24,President,,REP,Donald J. Trump / Mike Pence,235,202,59
 Jefferson,24,President,,,Over Votes,0,0,0
 Jefferson,24,President,,,Under Votes,5,4,1
@@ -2187,12 +2187,12 @@ Jefferson,24,Sheriff,,REP,Ray Beck,244,208,59
 Jefferson,24,Sheriff,,,Over Votes,0,0,0
 Jefferson,24,Sheriff,,,Under Votes,6,3,3
 Jefferson,24,Sheriff,,DEM,Zena Stephens,90,70,59
-Jefferson,25,STRAIGHT PARTY,,REP,Republican Party,602,483,254
-Jefferson,25,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,25,STRAIGHT PARTY,,,Under Votes,590,497,93
-Jefferson,25,STRAIGHT PARTY,,DEM,Democratic Party,192,154,254
-Jefferson,25,STRAIGHT PARTY,,LIB,Libertarian Party,7,4,254
-Jefferson,25,STRAIGHT PARTY,,GRN,Green Party,3,2,254
+Jefferson,25,Straight Party,,REP,Republican Party,602,483,254
+Jefferson,25,Straight Party,,,Over Votes,0,0,0
+Jefferson,25,Straight Party,,,Under Votes,590,497,93
+Jefferson,25,Straight Party,,DEM,Democratic Party,192,154,254
+Jefferson,25,Straight Party,,LIB,Libertarian Party,7,4,254
+Jefferson,25,Straight Party,,GRN,Green Party,3,2,254
 Jefferson,25,President,,REP,Donald J. Trump / Mike Pence,1069,877,254
 Jefferson,25,President,,,Over Votes,0,0,0
 Jefferson,25,President,,,Under Votes,23,22,1
@@ -2274,12 +2274,12 @@ Jefferson,25,Sheriff,,REP,Ray Beck,932,758,254
 Jefferson,25,Sheriff,,,Over Votes,0,0,0
 Jefferson,25,Sheriff,,,Under Votes,28,25,3
 Jefferson,25,Sheriff,,DEM,Zena Stephens,434,357,254
-Jefferson,26,STRAIGHT PARTY,,REP,Republican Party,559,458,312
-Jefferson,26,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,26,STRAIGHT PARTY,,,Under Votes,686,548,138
-Jefferson,26,STRAIGHT PARTY,,DEM,Democratic Party,435,365,312
-Jefferson,26,STRAIGHT PARTY,,LIB,Libertarian Party,5,3,312
-Jefferson,26,STRAIGHT PARTY,,GRN,Green Party,3,2,312
+Jefferson,26,Straight Party,,REP,Republican Party,559,458,312
+Jefferson,26,Straight Party,,,Over Votes,0,0,0
+Jefferson,26,Straight Party,,,Under Votes,686,548,138
+Jefferson,26,Straight Party,,DEM,Democratic Party,435,365,312
+Jefferson,26,Straight Party,,LIB,Libertarian Party,5,3,312
+Jefferson,26,Straight Party,,GRN,Green Party,3,2,312
 Jefferson,26,President,,REP,Donald J. Trump / Mike Pence,967,789,312
 Jefferson,26,President,,,Over Votes,0,0,0
 Jefferson,26,President,,,Under Votes,23,16,7
@@ -2361,12 +2361,12 @@ Jefferson,26,Sheriff,,REP,Ray Beck,946,773,312
 Jefferson,26,Sheriff,,,Over Votes,0,0,0
 Jefferson,26,Sheriff,,,Under Votes,29,20,9
 Jefferson,26,Sheriff,,DEM,Zena Stephens,713,583,312
-Jefferson,27,STRAIGHT PARTY,,REP,Republican Party,222,181,177
-Jefferson,27,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,27,STRAIGHT PARTY,,,Under Votes,312,260,52
-Jefferson,27,STRAIGHT PARTY,,DEM,Democratic Party,330,247,177
-Jefferson,27,STRAIGHT PARTY,,LIB,Libertarian Party,1,1,177
-Jefferson,27,STRAIGHT PARTY,,GRN,Green Party,3,2,177
+Jefferson,27,Straight Party,,REP,Republican Party,222,181,177
+Jefferson,27,Straight Party,,,Over Votes,0,0,0
+Jefferson,27,Straight Party,,,Under Votes,312,260,52
+Jefferson,27,Straight Party,,DEM,Democratic Party,330,247,177
+Jefferson,27,Straight Party,,LIB,Libertarian Party,1,1,177
+Jefferson,27,Straight Party,,GRN,Green Party,3,2,177
 Jefferson,27,President,,REP,Donald J. Trump / Mike Pence,393,326,177
 Jefferson,27,President,,,Over Votes,0,0,0
 Jefferson,27,President,,,Under Votes,8,4,4
@@ -2448,12 +2448,12 @@ Jefferson,27,Sheriff,,REP,Ray Beck,381,317,177
 Jefferson,27,Sheriff,,,Over Votes,0,0,0
 Jefferson,27,Sheriff,,,Under Votes,11,6,5
 Jefferson,27,Sheriff,,DEM,Zena Stephens,476,368,177
-Jefferson,28,STRAIGHT PARTY,,REP,Republican Party,63,51,102
-Jefferson,28,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,28,STRAIGHT PARTY,,,Under Votes,114,88,26
-Jefferson,28,STRAIGHT PARTY,,DEM,Democratic Party,176,113,102
-Jefferson,28,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,102
-Jefferson,28,STRAIGHT PARTY,,GRN,Green Party,0,0,102
+Jefferson,28,Straight Party,,REP,Republican Party,63,51,102
+Jefferson,28,Straight Party,,,Over Votes,0,0,0
+Jefferson,28,Straight Party,,,Under Votes,114,88,26
+Jefferson,28,Straight Party,,DEM,Democratic Party,176,113,102
+Jefferson,28,Straight Party,,LIB,Libertarian Party,1,0,102
+Jefferson,28,Straight Party,,GRN,Green Party,0,0,102
 Jefferson,28,President,,REP,Donald J. Trump / Mike Pence,142,111,102
 Jefferson,28,President,,,Over Votes,0,0,0
 Jefferson,28,President,,,Under Votes,7,4,3
@@ -2557,12 +2557,12 @@ Jefferson,28,"Trustee, Position 4",,||,Bob Thewman,151,104,102
 Jefferson,28,"Trustee, Position 4",,,Over Votes,0,0,0
 Jefferson,28,"Trustee, Position 4",,,Under Votes,144,104,40
 Jefferson,28,"Trustee, Position 4",,||,Craig Berry,59,44,102
-Jefferson,28,STRAIGHT PARTY,,REP,Republican Party,16,10,52
-Jefferson,28,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,28,STRAIGHT PARTY,,,Under Votes,49,37,12
-Jefferson,28,STRAIGHT PARTY,,DEM,Democratic Party,129,96,52
-Jefferson,28,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,52
-Jefferson,28,STRAIGHT PARTY,,GRN,Green Party,0,0,52
+Jefferson,28,Straight Party,,REP,Republican Party,16,10,52
+Jefferson,28,Straight Party,,,Over Votes,0,0,0
+Jefferson,28,Straight Party,,,Under Votes,49,37,12
+Jefferson,28,Straight Party,,DEM,Democratic Party,129,96,52
+Jefferson,28,Straight Party,,LIB,Libertarian Party,1,0,52
+Jefferson,28,Straight Party,,GRN,Green Party,0,0,52
 Jefferson,28,President,,REP,Donald J. Trump / Mike Pence,29,18,52
 Jefferson,28,President,,,Over Votes,0,0,0
 Jefferson,28,President,,,Under Votes,6,1,5
@@ -2644,12 +2644,12 @@ Jefferson,28,Sheriff,,REP,Ray Beck,27,20,52
 Jefferson,28,Sheriff,,,Over Votes,0,0,0
 Jefferson,28,Sheriff,,,Under Votes,4,1,3
 Jefferson,28,Sheriff,,DEM,Zena Stephens,164,122,52
-Jefferson,29,STRAIGHT PARTY,,REP,Republican Party,484,366,301
-Jefferson,29,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,29,STRAIGHT PARTY,,,Under Votes,616,462,154
-Jefferson,29,STRAIGHT PARTY,,DEM,Democratic Party,75,49,301
-Jefferson,29,STRAIGHT PARTY,,LIB,Libertarian Party,8,7,301
-Jefferson,29,STRAIGHT PARTY,,GRN,Green Party,3,1,301
+Jefferson,29,Straight Party,,REP,Republican Party,484,366,301
+Jefferson,29,Straight Party,,,Over Votes,0,0,0
+Jefferson,29,Straight Party,,,Under Votes,616,462,154
+Jefferson,29,Straight Party,,DEM,Democratic Party,75,49,301
+Jefferson,29,Straight Party,,LIB,Libertarian Party,8,7,301
+Jefferson,29,Straight Party,,GRN,Green Party,3,1,301
 Jefferson,29,President,,REP,Donald J. Trump / Mike Pence,1011,757,301
 Jefferson,29,President,,,Over Votes,0,0,0
 Jefferson,29,President,,,Under Votes,10,9,1
@@ -2753,12 +2753,12 @@ Jefferson,29,"Trustee, Position 4",,||,Bob Thewman,474,345,301
 Jefferson,29,"Trustee, Position 4",,,Over Votes,0,0,0
 Jefferson,29,"Trustee, Position 4",,,Under Votes,252,191,61
 Jefferson,29,"Trustee, Position 4",,||,Craig Berry,460,349,301
-Jefferson,30,STRAIGHT PARTY,,REP,Republican Party,335,296,107
-Jefferson,30,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,30,STRAIGHT PARTY,,,Under Votes,400,338,62
-Jefferson,30,STRAIGHT PARTY,,DEM,Democratic Party,47,41,107
-Jefferson,30,STRAIGHT PARTY,,LIB,Libertarian Party,4,4,107
-Jefferson,30,STRAIGHT PARTY,,GRN,Green Party,0,0,107
+Jefferson,30,Straight Party,,REP,Republican Party,335,296,107
+Jefferson,30,Straight Party,,,Over Votes,0,0,0
+Jefferson,30,Straight Party,,,Under Votes,400,338,62
+Jefferson,30,Straight Party,,DEM,Democratic Party,47,41,107
+Jefferson,30,Straight Party,,LIB,Libertarian Party,4,4,107
+Jefferson,30,Straight Party,,GRN,Green Party,0,0,107
 Jefferson,30,President,,REP,Donald J. Trump / Mike Pence,673,582,107
 Jefferson,30,President,,,Over Votes,0,0,0
 Jefferson,30,President,,,Under Votes,12,11,1
@@ -2862,12 +2862,12 @@ Jefferson,30,"Trustee, Position 4",,||,Bob Thewman,338,293,107
 Jefferson,30,"Trustee, Position 4",,,Over Votes,0,0,0
 Jefferson,30,"Trustee, Position 4",,,Under Votes,188,165,23
 Jefferson,30,"Trustee, Position 4",,||,Craig Berry,260,221,107
-Jefferson,31,STRAIGHT PARTY,,REP,Republican Party,383,317,157
-Jefferson,31,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,31,STRAIGHT PARTY,,,Under Votes,394,311,83
-Jefferson,31,STRAIGHT PARTY,,DEM,Democratic Party,46,40,157
-Jefferson,31,STRAIGHT PARTY,,LIB,Libertarian Party,2,0,157
-Jefferson,31,STRAIGHT PARTY,,GRN,Green Party,0,0,157
+Jefferson,31,Straight Party,,REP,Republican Party,383,317,157
+Jefferson,31,Straight Party,,,Over Votes,0,0,0
+Jefferson,31,Straight Party,,,Under Votes,394,311,83
+Jefferson,31,Straight Party,,DEM,Democratic Party,46,40,157
+Jefferson,31,Straight Party,,LIB,Libertarian Party,2,0,157
+Jefferson,31,Straight Party,,GRN,Green Party,0,0,157
 Jefferson,31,President,,REP,Donald J. Trump / Mike Pence,708,577,157
 Jefferson,31,President,,,Over Votes,0,0,0
 Jefferson,31,President,,,Under Votes,11,9,2
@@ -2971,12 +2971,12 @@ Jefferson,31,"Trustee, Position 4",,||,Bob Thewman,349,274,157
 Jefferson,31,"Trustee, Position 4",,,Over Votes,0,0,0
 Jefferson,31,"Trustee, Position 4",,,Under Votes,256,219,37
 Jefferson,31,"Trustee, Position 4",,||,Craig Berry,220,175,157
-Jefferson,31,STRAIGHT PARTY,,REP,Republican Party,1,1,0
-Jefferson,31,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,31,STRAIGHT PARTY,,,Under Votes,2,2,0
-Jefferson,31,STRAIGHT PARTY,,DEM,Democratic Party,0,0,0
-Jefferson,31,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0
-Jefferson,31,STRAIGHT PARTY,,GRN,Green Party,0,0,0
+Jefferson,31,Straight Party,,REP,Republican Party,1,1,0
+Jefferson,31,Straight Party,,,Over Votes,0,0,0
+Jefferson,31,Straight Party,,,Under Votes,2,2,0
+Jefferson,31,Straight Party,,DEM,Democratic Party,0,0,0
+Jefferson,31,Straight Party,,LIB,Libertarian Party,0,0,0
+Jefferson,31,Straight Party,,GRN,Green Party,0,0,0
 Jefferson,31,President,,REP,Donald J. Trump / Mike Pence,3,3,0
 Jefferson,31,President,,,Over Votes,0,0,0
 Jefferson,31,President,,,Under Votes,0,0,0
@@ -3058,12 +3058,12 @@ Jefferson,31,Sheriff,,REP,Ray Beck,3,3,0
 Jefferson,31,Sheriff,,,Over Votes,0,0,0
 Jefferson,31,Sheriff,,,Under Votes,0,0,0
 Jefferson,31,Sheriff,,DEM,Zena Stephens,0,0,0
-Jefferson,32,STRAIGHT PARTY,,REP,Republican Party,81,21,114
-Jefferson,32,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,32,STRAIGHT PARTY,,,Under Votes,60,15,45
-Jefferson,32,STRAIGHT PARTY,,DEM,Democratic Party,20,11,114
-Jefferson,32,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,114
-Jefferson,32,STRAIGHT PARTY,,GRN,Green Party,0,0,114
+Jefferson,32,Straight Party,,REP,Republican Party,81,21,114
+Jefferson,32,Straight Party,,,Over Votes,0,0,0
+Jefferson,32,Straight Party,,,Under Votes,60,15,45
+Jefferson,32,Straight Party,,DEM,Democratic Party,20,11,114
+Jefferson,32,Straight Party,,LIB,Libertarian Party,0,0,114
+Jefferson,32,Straight Party,,GRN,Green Party,0,0,114
 Jefferson,32,President,,REP,Donald J. Trump / Mike Pence,126,29,114
 Jefferson,32,President,,,Over Votes,0,0,0
 Jefferson,32,President,,,Under Votes,2,0,2
@@ -3165,12 +3165,12 @@ Jefferson,32,Port Arthur Charter Amendment,,,Yes,79,20,114
 Jefferson,32,Port Arthur Charter Amendment,,,Over Votes,0,0,0
 Jefferson,32,Port Arthur Charter Amendment,,,Under Votes,50,14,36
 Jefferson,32,Port Arthur Charter Amendment,,,No,32,13,114
-Jefferson,32,STRAIGHT PARTY,,REP,Republican Party,0,0,0
-Jefferson,32,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,32,STRAIGHT PARTY,,,Under Votes,2,2,0
-Jefferson,32,STRAIGHT PARTY,,DEM,Democratic Party,0,0,0
-Jefferson,32,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0
-Jefferson,32,STRAIGHT PARTY,,GRN,Green Party,0,0,0
+Jefferson,32,Straight Party,,REP,Republican Party,0,0,0
+Jefferson,32,Straight Party,,,Over Votes,0,0,0
+Jefferson,32,Straight Party,,,Under Votes,2,2,0
+Jefferson,32,Straight Party,,DEM,Democratic Party,0,0,0
+Jefferson,32,Straight Party,,LIB,Libertarian Party,0,0,0
+Jefferson,32,Straight Party,,GRN,Green Party,0,0,0
 Jefferson,32,President,,REP,Donald J. Trump / Mike Pence,2,2,0
 Jefferson,32,President,,,Over Votes,0,0,0
 Jefferson,32,President,,,Under Votes,0,0,0
@@ -3262,12 +3262,12 @@ Jefferson,32,PROPOSITION,,,FOR,2,2,0
 Jefferson,32,PROPOSITION,,,Over Votes,0,0,0
 Jefferson,32,PROPOSITION,,,Under Votes,0,0,0
 Jefferson,32,PROPOSITION,,,AGAINST,0,0,0
-Jefferson,33,STRAIGHT PARTY,,REP,Republican Party,558,439,308
-Jefferson,33,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,33,STRAIGHT PARTY,,,Under Votes,516,403,113
-Jefferson,33,STRAIGHT PARTY,,DEM,Democratic Party,294,221,308
-Jefferson,33,STRAIGHT PARTY,,LIB,Libertarian Party,5,3,308
-Jefferson,33,STRAIGHT PARTY,,GRN,Green Party,1,0,308
+Jefferson,33,Straight Party,,REP,Republican Party,558,439,308
+Jefferson,33,Straight Party,,,Over Votes,0,0,0
+Jefferson,33,Straight Party,,,Under Votes,516,403,113
+Jefferson,33,Straight Party,,DEM,Democratic Party,294,221,308
+Jefferson,33,Straight Party,,LIB,Libertarian Party,5,3,308
+Jefferson,33,Straight Party,,GRN,Green Party,1,0,308
 Jefferson,33,President,,REP,Donald J. Trump / Mike Pence,930,741,308
 Jefferson,33,President,,,Over Votes,0,0,0
 Jefferson,33,President,,,Under Votes,26,17,9
@@ -3359,12 +3359,12 @@ Jefferson,33,Port Arthur Charter Amendment,,,Yes,674,513,308
 Jefferson,33,Port Arthur Charter Amendment,,,Over Votes,0,0,0
 Jefferson,33,Port Arthur Charter Amendment,,,Under Votes,345,270,75
 Jefferson,33,Port Arthur Charter Amendment,,,No,355,283,308
-Jefferson,33,STRAIGHT PARTY,,REP,Republican Party,5,5,0
-Jefferson,33,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,33,STRAIGHT PARTY,,,Under Votes,3,3,0
-Jefferson,33,STRAIGHT PARTY,,DEM,Democratic Party,0,0,0
-Jefferson,33,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0
-Jefferson,33,STRAIGHT PARTY,,GRN,Green Party,0,0,0
+Jefferson,33,Straight Party,,REP,Republican Party,5,5,0
+Jefferson,33,Straight Party,,,Over Votes,0,0,0
+Jefferson,33,Straight Party,,,Under Votes,3,3,0
+Jefferson,33,Straight Party,,DEM,Democratic Party,0,0,0
+Jefferson,33,Straight Party,,LIB,Libertarian Party,0,0,0
+Jefferson,33,Straight Party,,GRN,Green Party,0,0,0
 Jefferson,33,President,,REP,Donald J. Trump / Mike Pence,8,8,0
 Jefferson,33,President,,,Over Votes,0,0,0
 Jefferson,33,President,,,Under Votes,0,0,0
@@ -3446,12 +3446,12 @@ Jefferson,33,Sheriff,,REP,Ray Beck,6,6,0
 Jefferson,33,Sheriff,,,Over Votes,0,0,0
 Jefferson,33,Sheriff,,,Under Votes,0,0,0
 Jefferson,33,Sheriff,,DEM,Zena Stephens,2,2,0
-Jefferson,34,STRAIGHT PARTY,,REP,Republican Party,15,13,165
-Jefferson,34,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,34,STRAIGHT PARTY,,,Under Votes,210,174,36
-Jefferson,34,STRAIGHT PARTY,,DEM,Democratic Party,847,721,165
-Jefferson,34,STRAIGHT PARTY,,LIB,Libertarian Party,4,4,165
-Jefferson,34,STRAIGHT PARTY,,GRN,Green Party,1,0,165
+Jefferson,34,Straight Party,,REP,Republican Party,15,13,165
+Jefferson,34,Straight Party,,,Over Votes,0,0,0
+Jefferson,34,Straight Party,,,Under Votes,210,174,36
+Jefferson,34,Straight Party,,DEM,Democratic Party,847,721,165
+Jefferson,34,Straight Party,,LIB,Libertarian Party,4,4,165
+Jefferson,34,Straight Party,,GRN,Green Party,1,0,165
 Jefferson,34,President,,REP,Donald J. Trump / Mike Pence,33,28,165
 Jefferson,34,President,,,Over Votes,0,0,0
 Jefferson,34,President,,,Under Votes,25,20,5
@@ -3543,12 +3543,12 @@ Jefferson,34,Port Arthur Charter Amendment,,,Yes,506,428,165
 Jefferson,34,Port Arthur Charter Amendment,,,Over Votes,0,0,0
 Jefferson,34,Port Arthur Charter Amendment,,,Under Votes,237,196,41
 Jefferson,34,Port Arthur Charter Amendment,,,No,334,288,165
-Jefferson,35,STRAIGHT PARTY,,REP,Republican Party,299,250,99
-Jefferson,35,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,35,STRAIGHT PARTY,,,Under Votes,225,189,36
-Jefferson,35,STRAIGHT PARTY,,DEM,Democratic Party,62,48,99
-Jefferson,35,STRAIGHT PARTY,,LIB,Libertarian Party,1,1,99
-Jefferson,35,STRAIGHT PARTY,,GRN,Green Party,2,2,99
+Jefferson,35,Straight Party,,REP,Republican Party,299,250,99
+Jefferson,35,Straight Party,,,Over Votes,0,0,0
+Jefferson,35,Straight Party,,,Under Votes,225,189,36
+Jefferson,35,Straight Party,,DEM,Democratic Party,62,48,99
+Jefferson,35,Straight Party,,LIB,Libertarian Party,1,1,99
+Jefferson,35,Straight Party,,GRN,Green Party,2,2,99
 Jefferson,35,President,,REP,Donald J. Trump / Mike Pence,489,410,99
 Jefferson,35,President,,,Over Votes,0,0,0
 Jefferson,35,President,,,Under Votes,5,3,2
@@ -3630,12 +3630,12 @@ Jefferson,35,Sheriff,,REP,Ray Beck,454,386,99
 Jefferson,35,Sheriff,,,Over Votes,0,0,0
 Jefferson,35,Sheriff,,,Under Votes,11,10,1
 Jefferson,35,Sheriff,,DEM,Zena Stephens,124,94,99
-Jefferson,36,STRAIGHT PARTY,,REP,Republican Party,508,437,171
-Jefferson,36,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,36,STRAIGHT PARTY,,,Under Votes,395,324,71
-Jefferson,36,STRAIGHT PARTY,,DEM,Democratic Party,113,84,171
-Jefferson,36,STRAIGHT PARTY,,LIB,Libertarian Party,1,1,171
-Jefferson,36,STRAIGHT PARTY,,GRN,Green Party,3,3,171
+Jefferson,36,Straight Party,,REP,Republican Party,508,437,171
+Jefferson,36,Straight Party,,,Over Votes,0,0,0
+Jefferson,36,Straight Party,,,Under Votes,395,324,71
+Jefferson,36,Straight Party,,DEM,Democratic Party,113,84,171
+Jefferson,36,Straight Party,,LIB,Libertarian Party,1,1,171
+Jefferson,36,Straight Party,,GRN,Green Party,3,3,171
 Jefferson,36,President,,REP,Donald J. Trump / Mike Pence,800,678,171
 Jefferson,36,President,,,Over Votes,0,0,0
 Jefferson,36,President,,,Under Votes,11,10,1
@@ -3717,12 +3717,12 @@ Jefferson,36,Sheriff,,REP,Ray Beck,804,686,171
 Jefferson,36,Sheriff,,,Over Votes,0,0,0
 Jefferson,36,Sheriff,,,Under Votes,20,13,7
 Jefferson,36,Sheriff,,DEM,Zena Stephens,196,150,171
-Jefferson,37,STRAIGHT PARTY,,REP,Republican Party,748,638,240
-Jefferson,37,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,37,STRAIGHT PARTY,,,Under Votes,665,566,99
-Jefferson,37,STRAIGHT PARTY,,DEM,Democratic Party,196,167,240
-Jefferson,37,STRAIGHT PARTY,,LIB,Libertarian Party,12,10,240
-Jefferson,37,STRAIGHT PARTY,,GRN,Green Party,1,1,240
+Jefferson,37,Straight Party,,REP,Republican Party,748,638,240
+Jefferson,37,Straight Party,,,Over Votes,0,0,0
+Jefferson,37,Straight Party,,,Under Votes,665,566,99
+Jefferson,37,Straight Party,,DEM,Democratic Party,196,167,240
+Jefferson,37,Straight Party,,LIB,Libertarian Party,12,10,240
+Jefferson,37,Straight Party,,GRN,Green Party,1,1,240
 Jefferson,37,President,,REP,Donald J. Trump / Mike Pence,1227,1050,240
 Jefferson,37,President,,,Over Votes,0,0,0
 Jefferson,37,President,,,Under Votes,22,21,1
@@ -3804,12 +3804,12 @@ Jefferson,37,Sheriff,,REP,Ray Beck,1238,1061,240
 Jefferson,37,Sheriff,,,Over Votes,0,0,0
 Jefferson,37,Sheriff,,,Under Votes,44,36,8
 Jefferson,37,Sheriff,,DEM,Zena Stephens,340,285,240
-Jefferson,38,STRAIGHT PARTY,,REP,Republican Party,451,392,134
-Jefferson,38,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,38,STRAIGHT PARTY,,,Under Votes,429,363,66
-Jefferson,38,STRAIGHT PARTY,,DEM,Democratic Party,80,71,134
-Jefferson,38,STRAIGHT PARTY,,LIB,Libertarian Party,5,5,134
-Jefferson,38,STRAIGHT PARTY,,GRN,Green Party,1,1,134
+Jefferson,38,Straight Party,,REP,Republican Party,451,392,134
+Jefferson,38,Straight Party,,,Over Votes,0,0,0
+Jefferson,38,Straight Party,,,Under Votes,429,363,66
+Jefferson,38,Straight Party,,DEM,Democratic Party,80,71,134
+Jefferson,38,Straight Party,,LIB,Libertarian Party,5,5,134
+Jefferson,38,Straight Party,,GRN,Green Party,1,1,134
 Jefferson,38,President,,REP,Donald J. Trump / Mike Pence,790,680,134
 Jefferson,38,President,,,Over Votes,0,0,0
 Jefferson,38,President,,,Under Votes,7,7,0
@@ -3904,12 +3904,12 @@ Jefferson,38,"School Board Trustee, Place 5",,||,Brandon Cropper,381,328,134
 Jefferson,38,"School Board Trustee, Place 5",,,Over Votes,0,0,0
 Jefferson,38,"School Board Trustee, Place 5",,,Under Votes,225,191,34
 Jefferson,38,"School Board Trustee, Place 5",,||,Rodney Balsamo,360,313,134
-Jefferson,38,STRAIGHT PARTY,,REP,Republican Party,259,226,62
-Jefferson,38,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,38,STRAIGHT PARTY,,,Under Votes,206,183,23
-Jefferson,38,STRAIGHT PARTY,,DEM,Democratic Party,40,34,62
-Jefferson,38,STRAIGHT PARTY,,LIB,Libertarian Party,1,1,62
-Jefferson,38,STRAIGHT PARTY,,GRN,Green Party,0,0,62
+Jefferson,38,Straight Party,,REP,Republican Party,259,226,62
+Jefferson,38,Straight Party,,,Over Votes,0,0,0
+Jefferson,38,Straight Party,,,Under Votes,206,183,23
+Jefferson,38,Straight Party,,DEM,Democratic Party,40,34,62
+Jefferson,38,Straight Party,,LIB,Libertarian Party,1,1,62
+Jefferson,38,Straight Party,,GRN,Green Party,0,0,62
 Jefferson,38,President,,REP,Donald J. Trump / Mike Pence,415,370,62
 Jefferson,38,President,,,Over Votes,0,0,0
 Jefferson,38,President,,,Under Votes,5,5,0
@@ -3991,12 +3991,12 @@ Jefferson,38,Sheriff,,REP,Ray Beck,413,368,62
 Jefferson,38,Sheriff,,,Over Votes,0,0,0
 Jefferson,38,Sheriff,,,Under Votes,16,12,4
 Jefferson,38,Sheriff,,DEM,Zena Stephens,77,64,62
-Jefferson,39,STRAIGHT PARTY,,REP,Republican Party,9,6,212
-Jefferson,39,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,39,STRAIGHT PARTY,,,Under Votes,162,138,24
-Jefferson,39,STRAIGHT PARTY,,DEM,Democratic Party,1002,817,212
-Jefferson,39,STRAIGHT PARTY,,LIB,Libertarian Party,2,2,212
-Jefferson,39,STRAIGHT PARTY,,GRN,Green Party,2,2,212
+Jefferson,39,Straight Party,,REP,Republican Party,9,6,212
+Jefferson,39,Straight Party,,,Over Votes,0,0,0
+Jefferson,39,Straight Party,,,Under Votes,162,138,24
+Jefferson,39,Straight Party,,DEM,Democratic Party,1002,817,212
+Jefferson,39,Straight Party,,LIB,Libertarian Party,2,2,212
+Jefferson,39,Straight Party,,GRN,Green Party,2,2,212
 Jefferson,39,President,,REP,Donald J. Trump / Mike Pence,21,15,212
 Jefferson,39,President,,,Over Votes,0,0,0
 Jefferson,39,President,,,Under Votes,17,14,3
@@ -4078,12 +4078,12 @@ Jefferson,39,Sheriff,,REP,Ray Beck,28,21,212
 Jefferson,39,Sheriff,,,Over Votes,0,0,0
 Jefferson,39,Sheriff,,,Under Votes,17,15,2
 Jefferson,39,Sheriff,,DEM,Zena Stephens,1132,929,212
-Jefferson,40,STRAIGHT PARTY,,REP,Republican Party,816,678,354
-Jefferson,40,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,40,STRAIGHT PARTY,,,Under Votes,879,697,182
-Jefferson,40,STRAIGHT PARTY,,DEM,Democratic Party,177,146,354
-Jefferson,40,STRAIGHT PARTY,,LIB,Libertarian Party,6,3,354
-Jefferson,40,STRAIGHT PARTY,,GRN,Green Party,1,1,354
+Jefferson,40,Straight Party,,REP,Republican Party,816,678,354
+Jefferson,40,Straight Party,,,Over Votes,0,0,0
+Jefferson,40,Straight Party,,,Under Votes,879,697,182
+Jefferson,40,Straight Party,,DEM,Democratic Party,177,146,354
+Jefferson,40,Straight Party,,LIB,Libertarian Party,6,3,354
+Jefferson,40,Straight Party,,GRN,Green Party,1,1,354
 Jefferson,40,President,,REP,Donald J. Trump / Mike Pence,1496,1227,354
 Jefferson,40,President,,,Over Votes,0,0,0
 Jefferson,40,President,,,Under Votes,28,22,6
@@ -4178,12 +4178,12 @@ Jefferson,40,"School Board Trustee, Place 5",,||,Brandon Cropper,906,741,354
 Jefferson,40,"School Board Trustee, Place 5",,,Over Votes,0,0,0
 Jefferson,40,"School Board Trustee, Place 5",,,Under Votes,454,362,92
 Jefferson,40,"School Board Trustee, Place 5",,||,Rodney Balsamo,519,422,354
-Jefferson,41,STRAIGHT PARTY,,REP,Republican Party,32,23,22
-Jefferson,41,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,41,STRAIGHT PARTY,,,Under Votes,52,41,11
-Jefferson,41,STRAIGHT PARTY,,DEM,Democratic Party,19,18,22
-Jefferson,41,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,22
-Jefferson,41,STRAIGHT PARTY,,GRN,Green Party,2,1,22
+Jefferson,41,Straight Party,,REP,Republican Party,32,23,22
+Jefferson,41,Straight Party,,,Over Votes,0,0,0
+Jefferson,41,Straight Party,,,Under Votes,52,41,11
+Jefferson,41,Straight Party,,DEM,Democratic Party,19,18,22
+Jefferson,41,Straight Party,,LIB,Libertarian Party,0,0,22
+Jefferson,41,Straight Party,,GRN,Green Party,2,1,22
 Jefferson,41,President,,REP,Donald J. Trump / Mike Pence,63,48,22
 Jefferson,41,President,,,Over Votes,0,0,0
 Jefferson,41,President,,,Under Votes,5,3,2
@@ -4278,12 +4278,12 @@ Jefferson,41,"School Board Trustee, Place 5",,||,Brandon Cropper,51,45,22
 Jefferson,41,"School Board Trustee, Place 5",,,Over Votes,0,0,0
 Jefferson,41,"School Board Trustee, Place 5",,,Under Votes,29,20,9
 Jefferson,41,"School Board Trustee, Place 5",,||,Rodney Balsamo,25,18,22
-Jefferson,42,STRAIGHT PARTY,,REP,Republican Party,699,591,238
-Jefferson,42,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,42,STRAIGHT PARTY,,,Under Votes,679,578,101
-Jefferson,42,STRAIGHT PARTY,,DEM,Democratic Party,178,150,238
-Jefferson,42,STRAIGHT PARTY,,LIB,Libertarian Party,5,5,238
-Jefferson,42,STRAIGHT PARTY,,GRN,Green Party,3,2,238
+Jefferson,42,Straight Party,,REP,Republican Party,699,591,238
+Jefferson,42,Straight Party,,,Over Votes,0,0,0
+Jefferson,42,Straight Party,,,Under Votes,679,578,101
+Jefferson,42,Straight Party,,DEM,Democratic Party,178,150,238
+Jefferson,42,Straight Party,,LIB,Libertarian Party,5,5,238
+Jefferson,42,Straight Party,,GRN,Green Party,3,2,238
 Jefferson,42,President,,REP,Donald J. Trump / Mike Pence,1231,1055,238
 Jefferson,42,President,,,Over Votes,0,0,0
 Jefferson,42,President,,,Under Votes,13,10,3
@@ -4378,12 +4378,12 @@ Jefferson,42,"School Board Trustee, Place 5",,||,Brandon Cropper,761,645,238
 Jefferson,42,"School Board Trustee, Place 5",,,Over Votes,0,0,0
 Jefferson,42,"School Board Trustee, Place 5",,,Under Votes,355,288,67
 Jefferson,42,"School Board Trustee, Place 5",,||,Rodney Balsamo,448,393,238
-Jefferson,42,STRAIGHT PARTY,,REP,Republican Party,29,26,3
-Jefferson,42,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,42,STRAIGHT PARTY,,,Under Votes,11,11,0
-Jefferson,42,STRAIGHT PARTY,,DEM,Democratic Party,0,0,3
-Jefferson,42,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,3
-Jefferson,42,STRAIGHT PARTY,,GRN,Green Party,0,0,3
+Jefferson,42,Straight Party,,REP,Republican Party,29,26,3
+Jefferson,42,Straight Party,,,Over Votes,0,0,0
+Jefferson,42,Straight Party,,,Under Votes,11,11,0
+Jefferson,42,Straight Party,,DEM,Democratic Party,0,0,3
+Jefferson,42,Straight Party,,LIB,Libertarian Party,0,0,3
+Jefferson,42,Straight Party,,GRN,Green Party,0,0,3
 Jefferson,42,President,,REP,Donald J. Trump / Mike Pence,39,36,3
 Jefferson,42,President,,,Over Votes,0,0,0
 Jefferson,42,President,,,Under Votes,0,0,0
@@ -4488,12 +4488,12 @@ Jefferson,42,Port Arthur Charter Amendment,,,Yes,26,24,3
 Jefferson,42,Port Arthur Charter Amendment,,,Over Votes,0,0,0
 Jefferson,42,Port Arthur Charter Amendment,,,Under Votes,13,12,1
 Jefferson,42,Port Arthur Charter Amendment,,,No,1,1,3
-Jefferson,43,STRAIGHT PARTY,,REP,Republican Party,595,497,232
-Jefferson,43,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,43,STRAIGHT PARTY,,,Under Votes,575,476,99
-Jefferson,43,STRAIGHT PARTY,,DEM,Democratic Party,138,104,232
-Jefferson,43,STRAIGHT PARTY,,LIB,Libertarian Party,4,3,232
-Jefferson,43,STRAIGHT PARTY,,GRN,Green Party,0,0,232
+Jefferson,43,Straight Party,,REP,Republican Party,595,497,232
+Jefferson,43,Straight Party,,,Over Votes,0,0,0
+Jefferson,43,Straight Party,,,Under Votes,575,476,99
+Jefferson,43,Straight Party,,DEM,Democratic Party,138,104,232
+Jefferson,43,Straight Party,,LIB,Libertarian Party,4,3,232
+Jefferson,43,Straight Party,,GRN,Green Party,0,0,232
 Jefferson,43,President,,REP,Donald J. Trump / Mike Pence,1025,865,232
 Jefferson,43,President,,,Over Votes,0,0,0
 Jefferson,43,President,,,Under Votes,15,12,3
@@ -4588,12 +4588,12 @@ Jefferson,43,"School Board Trustee, Place 5",,||,Brandon Cropper,647,524,232
 Jefferson,43,"School Board Trustee, Place 5",,,Over Votes,0,0,0
 Jefferson,43,"School Board Trustee, Place 5",,,Under Votes,353,292,61
 Jefferson,43,"School Board Trustee, Place 5",,||,Rodney Balsamo,312,264,232
-Jefferson,43,STRAIGHT PARTY,,REP,Republican Party,2,2,1
-Jefferson,43,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,43,STRAIGHT PARTY,,,Under Votes,1,0,1
-Jefferson,43,STRAIGHT PARTY,,DEM,Democratic Party,0,0,1
-Jefferson,43,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,1
-Jefferson,43,STRAIGHT PARTY,,GRN,Green Party,0,0,1
+Jefferson,43,Straight Party,,REP,Republican Party,2,2,1
+Jefferson,43,Straight Party,,,Over Votes,0,0,0
+Jefferson,43,Straight Party,,,Under Votes,1,0,1
+Jefferson,43,Straight Party,,DEM,Democratic Party,0,0,1
+Jefferson,43,Straight Party,,LIB,Libertarian Party,0,0,1
+Jefferson,43,Straight Party,,GRN,Green Party,0,0,1
 Jefferson,43,President,,REP,Donald J. Trump / Mike Pence,3,2,1
 Jefferson,43,President,,,Over Votes,0,0,0
 Jefferson,43,President,,,Under Votes,0,0,0
@@ -4698,12 +4698,12 @@ Jefferson,43,Port Arthur Charter Amendment,,,Yes,0,0,1
 Jefferson,43,Port Arthur Charter Amendment,,,Over Votes,0,0,0
 Jefferson,43,Port Arthur Charter Amendment,,,Under Votes,3,2,1
 Jefferson,43,Port Arthur Charter Amendment,,,No,0,0,1
-Jefferson,43,STRAIGHT PARTY,,REP,Republican Party,47,38,37
-Jefferson,43,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,43,STRAIGHT PARTY,,,Under Votes,61,47,14
-Jefferson,43,STRAIGHT PARTY,,DEM,Democratic Party,44,31,37
-Jefferson,43,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,37
-Jefferson,43,STRAIGHT PARTY,,GRN,Green Party,1,0,37
+Jefferson,43,Straight Party,,REP,Republican Party,47,38,37
+Jefferson,43,Straight Party,,,Over Votes,0,0,0
+Jefferson,43,Straight Party,,,Under Votes,61,47,14
+Jefferson,43,Straight Party,,DEM,Democratic Party,44,31,37
+Jefferson,43,Straight Party,,LIB,Libertarian Party,0,0,37
+Jefferson,43,Straight Party,,GRN,Green Party,1,0,37
 Jefferson,43,President,,REP,Donald J. Trump / Mike Pence,89,73,37
 Jefferson,43,President,,,Over Votes,0,0,0
 Jefferson,43,President,,,Under Votes,3,3,0
@@ -4785,12 +4785,12 @@ Jefferson,43,Sheriff,,REP,Ray Beck,90,75,37
 Jefferson,43,Sheriff,,,Over Votes,0,0,0
 Jefferson,43,Sheriff,,,Under Votes,5,2,3
 Jefferson,43,Sheriff,,DEM,Zena Stephens,58,39,37
-Jefferson,44,STRAIGHT PARTY,,REP,Republican Party,101,84,84
-Jefferson,44,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,44,STRAIGHT PARTY,,,Under Votes,125,97,28
-Jefferson,44,STRAIGHT PARTY,,DEM,Democratic Party,164,125,84
-Jefferson,44,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,84
-Jefferson,44,STRAIGHT PARTY,,GRN,Green Party,1,1,84
+Jefferson,44,Straight Party,,REP,Republican Party,101,84,84
+Jefferson,44,Straight Party,,,Over Votes,0,0,0
+Jefferson,44,Straight Party,,,Under Votes,125,97,28
+Jefferson,44,Straight Party,,DEM,Democratic Party,164,125,84
+Jefferson,44,Straight Party,,LIB,Libertarian Party,0,0,84
+Jefferson,44,Straight Party,,GRN,Green Party,1,1,84
 Jefferson,44,President,,REP,Donald J. Trump / Mike Pence,175,137,84
 Jefferson,44,President,,,Over Votes,0,0,0
 Jefferson,44,President,,,Under Votes,7,6,1
@@ -4882,12 +4882,12 @@ Jefferson,44,Port Arthur Charter Amendment,,,Yes,208,161,84
 Jefferson,44,Port Arthur Charter Amendment,,,Over Votes,0,0,0
 Jefferson,44,Port Arthur Charter Amendment,,,Under Votes,93,73,20
 Jefferson,44,Port Arthur Charter Amendment,,,No,90,73,84
-Jefferson,45,STRAIGHT PARTY,,REP,Republican Party,102,86,137
-Jefferson,45,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,45,STRAIGHT PARTY,,,Under Votes,158,129,29
-Jefferson,45,STRAIGHT PARTY,,DEM,Democratic Party,385,296,137
-Jefferson,45,STRAIGHT PARTY,,LIB,Libertarian Party,2,1,137
-Jefferson,45,STRAIGHT PARTY,,GRN,Green Party,4,2,137
+Jefferson,45,Straight Party,,REP,Republican Party,102,86,137
+Jefferson,45,Straight Party,,,Over Votes,0,0,0
+Jefferson,45,Straight Party,,,Under Votes,158,129,29
+Jefferson,45,Straight Party,,DEM,Democratic Party,385,296,137
+Jefferson,45,Straight Party,,LIB,Libertarian Party,2,1,137
+Jefferson,45,Straight Party,,GRN,Green Party,4,2,137
 Jefferson,45,President,,REP,Donald J. Trump / Mike Pence,177,155,137
 Jefferson,45,President,,,Over Votes,0,0,0
 Jefferson,45,President,,,Under Votes,14,10,4
@@ -4979,12 +4979,12 @@ Jefferson,45,Port Arthur Charter Amendment,,,Yes,330,267,137
 Jefferson,45,Port Arthur Charter Amendment,,,Over Votes,0,0,0
 Jefferson,45,Port Arthur Charter Amendment,,,Under Votes,172,135,37
 Jefferson,45,Port Arthur Charter Amendment,,,No,149,112,137
-Jefferson,46,STRAIGHT PARTY,,REP,Republican Party,110,92,157
-Jefferson,46,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,46,STRAIGHT PARTY,,,Under Votes,161,130,31
-Jefferson,46,STRAIGHT PARTY,,DEM,Democratic Party,396,294,157
-Jefferson,46,STRAIGHT PARTY,,LIB,Libertarian Party,3,0,157
-Jefferson,46,STRAIGHT PARTY,,GRN,Green Party,5,2,157
+Jefferson,46,Straight Party,,REP,Republican Party,110,92,157
+Jefferson,46,Straight Party,,,Over Votes,0,0,0
+Jefferson,46,Straight Party,,,Under Votes,161,130,31
+Jefferson,46,Straight Party,,DEM,Democratic Party,396,294,157
+Jefferson,46,Straight Party,,LIB,Libertarian Party,3,0,157
+Jefferson,46,Straight Party,,GRN,Green Party,5,2,157
 Jefferson,46,President,,REP,Donald J. Trump / Mike Pence,169,137,157
 Jefferson,46,President,,,Over Votes,0,0,0
 Jefferson,46,President,,,Under Votes,24,17,7
@@ -5076,12 +5076,12 @@ Jefferson,46,Port Arthur Charter Amendment,,,Yes,347,271,157
 Jefferson,46,Port Arthur Charter Amendment,,,Over Votes,0,0,0
 Jefferson,46,Port Arthur Charter Amendment,,,Under Votes,182,135,47
 Jefferson,46,Port Arthur Charter Amendment,,,No,146,112,157
-Jefferson,47,STRAIGHT PARTY,,REP,Republican Party,120,92,173
-Jefferson,47,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,47,STRAIGHT PARTY,,,Under Votes,181,140,41
-Jefferson,47,STRAIGHT PARTY,,DEM,Democratic Party,428,328,173
-Jefferson,47,STRAIGHT PARTY,,LIB,Libertarian Party,8,4,173
-Jefferson,47,STRAIGHT PARTY,,GRN,Green Party,1,1,173
+Jefferson,47,Straight Party,,REP,Republican Party,120,92,173
+Jefferson,47,Straight Party,,,Over Votes,0,0,0
+Jefferson,47,Straight Party,,,Under Votes,181,140,41
+Jefferson,47,Straight Party,,DEM,Democratic Party,428,328,173
+Jefferson,47,Straight Party,,LIB,Libertarian Party,8,4,173
+Jefferson,47,Straight Party,,GRN,Green Party,1,1,173
 Jefferson,47,President,,REP,Donald J. Trump / Mike Pence,197,155,173
 Jefferson,47,President,,,Over Votes,0,0,0
 Jefferson,47,President,,,Under Votes,11,10,1
@@ -5173,12 +5173,12 @@ Jefferson,47,Port Arthur Charter Amendment,,,Yes,367,281,173
 Jefferson,47,Port Arthur Charter Amendment,,,Over Votes,0,0,0
 Jefferson,47,Port Arthur Charter Amendment,,,Under Votes,183,141,42
 Jefferson,47,Port Arthur Charter Amendment,,,No,188,143,173
-Jefferson,48,STRAIGHT PARTY,,REP,Republican Party,54,46,130
-Jefferson,48,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,48,STRAIGHT PARTY,,,Under Votes,72,54,18
-Jefferson,48,STRAIGHT PARTY,,DEM,Democratic Party,379,278,130
-Jefferson,48,STRAIGHT PARTY,,LIB,Libertarian Party,5,2,130
-Jefferson,48,STRAIGHT PARTY,,GRN,Green Party,1,1,130
+Jefferson,48,Straight Party,,REP,Republican Party,54,46,130
+Jefferson,48,Straight Party,,,Over Votes,0,0,0
+Jefferson,48,Straight Party,,,Under Votes,72,54,18
+Jefferson,48,Straight Party,,DEM,Democratic Party,379,278,130
+Jefferson,48,Straight Party,,LIB,Libertarian Party,5,2,130
+Jefferson,48,Straight Party,,GRN,Green Party,1,1,130
 Jefferson,48,President,,REP,Donald J. Trump / Mike Pence,71,61,130
 Jefferson,48,President,,,Over Votes,0,0,0
 Jefferson,48,President,,,Under Votes,10,7,3
@@ -5270,12 +5270,12 @@ Jefferson,48,Port Arthur Charter Amendment,,,Yes,240,174,130
 Jefferson,48,Port Arthur Charter Amendment,,,Over Votes,0,0,0
 Jefferson,48,Port Arthur Charter Amendment,,,Under Votes,145,115,30
 Jefferson,48,Port Arthur Charter Amendment,,,No,126,92,130
-Jefferson,49,STRAIGHT PARTY,,REP,Republican Party,24,13,68
-Jefferson,49,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,49,STRAIGHT PARTY,,,Under Votes,33,22,11
-Jefferson,49,STRAIGHT PARTY,,DEM,Democratic Party,163,117,68
-Jefferson,49,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,68
-Jefferson,49,STRAIGHT PARTY,,GRN,Green Party,1,1,68
+Jefferson,49,Straight Party,,REP,Republican Party,24,13,68
+Jefferson,49,Straight Party,,,Over Votes,0,0,0
+Jefferson,49,Straight Party,,,Under Votes,33,22,11
+Jefferson,49,Straight Party,,DEM,Democratic Party,163,117,68
+Jefferson,49,Straight Party,,LIB,Libertarian Party,0,0,68
+Jefferson,49,Straight Party,,GRN,Green Party,1,1,68
 Jefferson,49,President,,REP,Donald J. Trump / Mike Pence,29,13,68
 Jefferson,49,President,,,Over Votes,0,0,0
 Jefferson,49,President,,,Under Votes,7,4,3
@@ -5367,12 +5367,12 @@ Jefferson,49,Port Arthur Charter Amendment,,,Yes,110,79,68
 Jefferson,49,Port Arthur Charter Amendment,,,Over Votes,0,0,0
 Jefferson,49,Port Arthur Charter Amendment,,,Under Votes,77,45,32
 Jefferson,49,Port Arthur Charter Amendment,,,No,34,29,68
-Jefferson,50,STRAIGHT PARTY,,REP,Republican Party,94,62,287
-Jefferson,50,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,50,STRAIGHT PARTY,,,Under Votes,227,179,48
-Jefferson,50,STRAIGHT PARTY,,DEM,Democratic Party,884,682,287
-Jefferson,50,STRAIGHT PARTY,,LIB,Libertarian Party,3,2,287
-Jefferson,50,STRAIGHT PARTY,,GRN,Green Party,5,1,287
+Jefferson,50,Straight Party,,REP,Republican Party,94,62,287
+Jefferson,50,Straight Party,,,Over Votes,0,0,0
+Jefferson,50,Straight Party,,,Under Votes,227,179,48
+Jefferson,50,Straight Party,,DEM,Democratic Party,884,682,287
+Jefferson,50,Straight Party,,LIB,Libertarian Party,3,2,287
+Jefferson,50,Straight Party,,GRN,Green Party,5,1,287
 Jefferson,50,President,,REP,Donald J. Trump / Mike Pence,149,103,287
 Jefferson,50,President,,,Over Votes,0,0,0
 Jefferson,50,President,,,Under Votes,19,12,7
@@ -5464,12 +5464,12 @@ Jefferson,50,Port Arthur Charter Amendment,,,Yes,588,450,287
 Jefferson,50,Port Arthur Charter Amendment,,,Over Votes,0,0,0
 Jefferson,50,Port Arthur Charter Amendment,,,Under Votes,276,202,74
 Jefferson,50,Port Arthur Charter Amendment,,,No,349,274,287
-Jefferson,51,STRAIGHT PARTY,,REP,Republican Party,8,6,41
-Jefferson,51,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,51,STRAIGHT PARTY,,,Under Votes,20,16,4
-Jefferson,51,STRAIGHT PARTY,,DEM,Democratic Party,169,134,41
-Jefferson,51,STRAIGHT PARTY,,LIB,Libertarian Party,1,1,41
-Jefferson,51,STRAIGHT PARTY,,GRN,Green Party,0,0,41
+Jefferson,51,Straight Party,,REP,Republican Party,8,6,41
+Jefferson,51,Straight Party,,,Over Votes,0,0,0
+Jefferson,51,Straight Party,,,Under Votes,20,16,4
+Jefferson,51,Straight Party,,DEM,Democratic Party,169,134,41
+Jefferson,51,Straight Party,,LIB,Libertarian Party,1,1,41
+Jefferson,51,Straight Party,,GRN,Green Party,0,0,41
 Jefferson,51,President,,REP,Donald J. Trump / Mike Pence,12,8,41
 Jefferson,51,President,,,Over Votes,0,0,0
 Jefferson,51,President,,,Under Votes,8,6,2
@@ -5561,12 +5561,12 @@ Jefferson,51,Port Arthur Charter Amendment,,,Yes,92,67,41
 Jefferson,51,Port Arthur Charter Amendment,,,Over Votes,0,0,0
 Jefferson,51,Port Arthur Charter Amendment,,,Under Votes,49,41,8
 Jefferson,51,Port Arthur Charter Amendment,,,No,57,49,41
-Jefferson,52,STRAIGHT PARTY,,REP,Republican Party,5,4,40
-Jefferson,52,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,52,STRAIGHT PARTY,,,Under Votes,33,30,3
-Jefferson,52,STRAIGHT PARTY,,DEM,Democratic Party,223,188,40
-Jefferson,52,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,40
-Jefferson,52,STRAIGHT PARTY,,GRN,Green Party,2,1,40
+Jefferson,52,Straight Party,,REP,Republican Party,5,4,40
+Jefferson,52,Straight Party,,,Over Votes,0,0,0
+Jefferson,52,Straight Party,,,Under Votes,33,30,3
+Jefferson,52,Straight Party,,DEM,Democratic Party,223,188,40
+Jefferson,52,Straight Party,,LIB,Libertarian Party,0,0,40
+Jefferson,52,Straight Party,,GRN,Green Party,2,1,40
 Jefferson,52,President,,REP,Donald J. Trump / Mike Pence,7,6,40
 Jefferson,52,President,,,Over Votes,0,0,0
 Jefferson,52,President,,,Under Votes,3,3,0
@@ -5658,12 +5658,12 @@ Jefferson,52,Port Arthur Charter Amendment,,,Yes,130,108,40
 Jefferson,52,Port Arthur Charter Amendment,,,Over Votes,0,0,0
 Jefferson,52,Port Arthur Charter Amendment,,,Under Votes,51,44,7
 Jefferson,52,Port Arthur Charter Amendment,,,No,82,71,40
-Jefferson,53,STRAIGHT PARTY,,REP,Republican Party,31,26,172
-Jefferson,53,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,53,STRAIGHT PARTY,,,Under Votes,95,73,22
-Jefferson,53,STRAIGHT PARTY,,DEM,Democratic Party,658,516,172
-Jefferson,53,STRAIGHT PARTY,,LIB,Libertarian Party,2,0,172
-Jefferson,53,STRAIGHT PARTY,,GRN,Green Party,1,0,172
+Jefferson,53,Straight Party,,REP,Republican Party,31,26,172
+Jefferson,53,Straight Party,,,Over Votes,0,0,0
+Jefferson,53,Straight Party,,,Under Votes,95,73,22
+Jefferson,53,Straight Party,,DEM,Democratic Party,658,516,172
+Jefferson,53,Straight Party,,LIB,Libertarian Party,2,0,172
+Jefferson,53,Straight Party,,GRN,Green Party,1,0,172
 Jefferson,53,President,,REP,Donald J. Trump / Mike Pence,47,39,172
 Jefferson,53,President,,,Over Votes,0,0,0
 Jefferson,53,President,,,Under Votes,12,9,3
@@ -5755,12 +5755,12 @@ Jefferson,53,Port Arthur Charter Amendment,,,Yes,350,261,172
 Jefferson,53,Port Arthur Charter Amendment,,,Over Votes,0,0,0
 Jefferson,53,Port Arthur Charter Amendment,,,Under Votes,225,176,49
 Jefferson,53,Port Arthur Charter Amendment,,,No,212,178,172
-Jefferson,54,STRAIGHT PARTY,,REP,Republican Party,4,4,56
-Jefferson,54,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,54,STRAIGHT PARTY,,,Under Votes,29,26,3
-Jefferson,54,STRAIGHT PARTY,,DEM,Democratic Party,229,176,56
-Jefferson,54,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,56
-Jefferson,54,STRAIGHT PARTY,,GRN,Green Party,0,0,56
+Jefferson,54,Straight Party,,REP,Republican Party,4,4,56
+Jefferson,54,Straight Party,,,Over Votes,0,0,0
+Jefferson,54,Straight Party,,,Under Votes,29,26,3
+Jefferson,54,Straight Party,,DEM,Democratic Party,229,176,56
+Jefferson,54,Straight Party,,LIB,Libertarian Party,0,0,56
+Jefferson,54,Straight Party,,GRN,Green Party,0,0,56
 Jefferson,54,President,,REP,Donald J. Trump / Mike Pence,8,8,56
 Jefferson,54,President,,,Over Votes,0,0,0
 Jefferson,54,President,,,Under Votes,2,1,1
@@ -5852,12 +5852,12 @@ Jefferson,54,Port Arthur Charter Amendment,,,Yes,127,98,56
 Jefferson,54,Port Arthur Charter Amendment,,,Over Votes,0,0,0
 Jefferson,54,Port Arthur Charter Amendment,,,Under Votes,66,54,12
 Jefferson,54,Port Arthur Charter Amendment,,,No,69,54,56
-Jefferson,55,STRAIGHT PARTY,,REP,Republican Party,1,0,41
-Jefferson,55,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,55,STRAIGHT PARTY,,,Under Votes,28,25,3
-Jefferson,55,STRAIGHT PARTY,,DEM,Democratic Party,195,158,41
-Jefferson,55,STRAIGHT PARTY,,LIB,Libertarian Party,1,1,41
-Jefferson,55,STRAIGHT PARTY,,GRN,Green Party,0,0,41
+Jefferson,55,Straight Party,,REP,Republican Party,1,0,41
+Jefferson,55,Straight Party,,,Over Votes,0,0,0
+Jefferson,55,Straight Party,,,Under Votes,28,25,3
+Jefferson,55,Straight Party,,DEM,Democratic Party,195,158,41
+Jefferson,55,Straight Party,,LIB,Libertarian Party,1,1,41
+Jefferson,55,Straight Party,,GRN,Green Party,0,0,41
 Jefferson,55,President,,REP,Donald J. Trump / Mike Pence,3,2,41
 Jefferson,55,President,,,Over Votes,0,0,0
 Jefferson,55,President,,,Under Votes,6,5,1
@@ -5949,12 +5949,12 @@ Jefferson,55,Port Arthur Charter Amendment,,,Yes,92,75,41
 Jefferson,55,Port Arthur Charter Amendment,,,Over Votes,0,0,0
 Jefferson,55,Port Arthur Charter Amendment,,,Under Votes,57,41,16
 Jefferson,55,Port Arthur Charter Amendment,,,No,76,68,41
-Jefferson,56,STRAIGHT PARTY,,REP,Republican Party,980,858,277
-Jefferson,56,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,56,STRAIGHT PARTY,,,Under Votes,887,767,120
-Jefferson,56,STRAIGHT PARTY,,DEM,Democratic Party,195,167,277
-Jefferson,56,STRAIGHT PARTY,,LIB,Libertarian Party,11,6,277
-Jefferson,56,STRAIGHT PARTY,,GRN,Green Party,2,0,277
+Jefferson,56,Straight Party,,REP,Republican Party,980,858,277
+Jefferson,56,Straight Party,,,Over Votes,0,0,0
+Jefferson,56,Straight Party,,,Under Votes,887,767,120
+Jefferson,56,Straight Party,,DEM,Democratic Party,195,167,277
+Jefferson,56,Straight Party,,LIB,Libertarian Party,11,6,277
+Jefferson,56,Straight Party,,GRN,Green Party,2,0,277
 Jefferson,56,President,,REP,Donald J. Trump / Mike Pence,1649,1455,277
 Jefferson,56,President,,,Over Votes,0,0,0
 Jefferson,56,President,,,Under Votes,28,23,5
@@ -6036,12 +6036,12 @@ Jefferson,56,Sheriff,,REP,Ray Beck,1658,1455,277
 Jefferson,56,Sheriff,,,Over Votes,0,0,0
 Jefferson,56,Sheriff,,,Under Votes,45,32,13
 Jefferson,56,Sheriff,,DEM,Zena Stephens,372,311,277
-Jefferson,57,STRAIGHT PARTY,,REP,Republican Party,8,7,95
-Jefferson,57,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,57,STRAIGHT PARTY,,,Under Votes,63,54,9
-Jefferson,57,STRAIGHT PARTY,,DEM,Democratic Party,416,331,95
-Jefferson,57,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,95
-Jefferson,57,STRAIGHT PARTY,,GRN,Green Party,0,0,95
+Jefferson,57,Straight Party,,REP,Republican Party,8,7,95
+Jefferson,57,Straight Party,,,Over Votes,0,0,0
+Jefferson,57,Straight Party,,,Under Votes,63,54,9
+Jefferson,57,Straight Party,,DEM,Democratic Party,416,331,95
+Jefferson,57,Straight Party,,LIB,Libertarian Party,0,0,95
+Jefferson,57,Straight Party,,GRN,Green Party,0,0,95
 Jefferson,57,President,,REP,Donald J. Trump / Mike Pence,9,8,95
 Jefferson,57,President,,,Over Votes,0,0,0
 Jefferson,57,President,,,Under Votes,3,1,2
@@ -6133,12 +6133,12 @@ Jefferson,57,Port Arthur Charter Amendment,,,Yes,209,169,95
 Jefferson,57,Port Arthur Charter Amendment,,,Over Votes,0,0,0
 Jefferson,57,Port Arthur Charter Amendment,,,Under Votes,119,95,24
 Jefferson,57,Port Arthur Charter Amendment,,,No,159,128,95
-Jefferson,58,STRAIGHT PARTY,,REP,Republican Party,14,12,3
-Jefferson,58,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,58,STRAIGHT PARTY,,,Under Votes,17,16,1
-Jefferson,58,STRAIGHT PARTY,,DEM,Democratic Party,4,4,3
-Jefferson,58,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,3
-Jefferson,58,STRAIGHT PARTY,,GRN,Green Party,0,0,3
+Jefferson,58,Straight Party,,REP,Republican Party,14,12,3
+Jefferson,58,Straight Party,,,Over Votes,0,0,0
+Jefferson,58,Straight Party,,,Under Votes,17,16,1
+Jefferson,58,Straight Party,,DEM,Democratic Party,4,4,3
+Jefferson,58,Straight Party,,LIB,Libertarian Party,0,0,3
+Jefferson,58,Straight Party,,GRN,Green Party,0,0,3
 Jefferson,58,President,,REP,Donald J. Trump / Mike Pence,26,23,3
 Jefferson,58,President,,,Over Votes,0,0,0
 Jefferson,58,President,,,Under Votes,0,0,0
@@ -6240,12 +6240,12 @@ Jefferson,58,Port Arthur Charter Amendment,,,Yes,15,12,3
 Jefferson,58,Port Arthur Charter Amendment,,,Over Votes,0,0,0
 Jefferson,58,Port Arthur Charter Amendment,,,Under Votes,10,10,0
 Jefferson,58,Port Arthur Charter Amendment,,,No,10,10,3
-Jefferson,58,STRAIGHT PARTY,,REP,Republican Party,0,0,0
-Jefferson,58,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,58,STRAIGHT PARTY,,,Under Votes,0,0,0
-Jefferson,58,STRAIGHT PARTY,,DEM,Democratic Party,1,1,0
-Jefferson,58,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0
-Jefferson,58,STRAIGHT PARTY,,GRN,Green Party,0,0,0
+Jefferson,58,Straight Party,,REP,Republican Party,0,0,0
+Jefferson,58,Straight Party,,,Over Votes,0,0,0
+Jefferson,58,Straight Party,,,Under Votes,0,0,0
+Jefferson,58,Straight Party,,DEM,Democratic Party,1,1,0
+Jefferson,58,Straight Party,,LIB,Libertarian Party,0,0,0
+Jefferson,58,Straight Party,,GRN,Green Party,0,0,0
 Jefferson,58,President,,REP,Donald J. Trump / Mike Pence,0,0,0
 Jefferson,58,President,,,Over Votes,0,0,0
 Jefferson,58,President,,,Under Votes,0,0,0
@@ -6337,12 +6337,12 @@ Jefferson,58,Port Arthur Charter Amendment,,,Yes,0,0,0
 Jefferson,58,Port Arthur Charter Amendment,,,Over Votes,0,0,0
 Jefferson,58,Port Arthur Charter Amendment,,,Under Votes,1,1,0
 Jefferson,58,Port Arthur Charter Amendment,,,No,0,0,0
-Jefferson,59,STRAIGHT PARTY,,REP,Republican Party,4,3,110
-Jefferson,59,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,59,STRAIGHT PARTY,,,Under Votes,107,98,9
-Jefferson,59,STRAIGHT PARTY,,DEM,Democratic Party,513,415,110
-Jefferson,59,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,110
-Jefferson,59,STRAIGHT PARTY,,GRN,Green Party,2,1,110
+Jefferson,59,Straight Party,,REP,Republican Party,4,3,110
+Jefferson,59,Straight Party,,,Over Votes,0,0,0
+Jefferson,59,Straight Party,,,Under Votes,107,98,9
+Jefferson,59,Straight Party,,DEM,Democratic Party,513,415,110
+Jefferson,59,Straight Party,,LIB,Libertarian Party,1,0,110
+Jefferson,59,Straight Party,,GRN,Green Party,2,1,110
 Jefferson,59,President,,REP,Donald J. Trump / Mike Pence,9,7,110
 Jefferson,59,President,,,Over Votes,0,0,0
 Jefferson,59,President,,,Under Votes,10,9,1
@@ -6434,12 +6434,12 @@ Jefferson,59,Port Arthur Charter Amendment,,,Yes,285,235,110
 Jefferson,59,Port Arthur Charter Amendment,,,Over Votes,0,0,0
 Jefferson,59,Port Arthur Charter Amendment,,,Under Votes,137,120,17
 Jefferson,59,Port Arthur Charter Amendment,,,No,205,162,110
-Jefferson,60,STRAIGHT PARTY,,REP,Republican Party,893,745,327
-Jefferson,60,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,60,STRAIGHT PARTY,,,Under Votes,810,683,127
-Jefferson,60,STRAIGHT PARTY,,DEM,Democratic Party,237,190,327
-Jefferson,60,STRAIGHT PARTY,,LIB,Libertarian Party,11,8,327
-Jefferson,60,STRAIGHT PARTY,,GRN,Green Party,4,2,327
+Jefferson,60,Straight Party,,REP,Republican Party,893,745,327
+Jefferson,60,Straight Party,,,Over Votes,0,0,0
+Jefferson,60,Straight Party,,,Under Votes,810,683,127
+Jefferson,60,Straight Party,,DEM,Democratic Party,237,190,327
+Jefferson,60,Straight Party,,LIB,Libertarian Party,11,8,327
+Jefferson,60,Straight Party,,GRN,Green Party,4,2,327
 Jefferson,60,President,,REP,Donald J. Trump / Mike Pence,1529,1280,327
 Jefferson,60,President,,,Over Votes,0,0,0
 Jefferson,60,President,,,Under Votes,22,18,4
@@ -6534,12 +6534,12 @@ Jefferson,60,"School Board Trustee, Place 5",,||,Brandon Cropper,887,750,327
 Jefferson,60,"School Board Trustee, Place 5",,,Over Votes,0,0,0
 Jefferson,60,"School Board Trustee, Place 5",,,Under Votes,519,414,105
 Jefferson,60,"School Board Trustee, Place 5",,||,Rodney Balsamo,549,464,327
-Jefferson,60,STRAIGHT PARTY,,REP,Republican Party,16,14,4
-Jefferson,60,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,60,STRAIGHT PARTY,,,Under Votes,7,7,0
-Jefferson,60,STRAIGHT PARTY,,DEM,Democratic Party,7,6,4
-Jefferson,60,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,4
-Jefferson,60,STRAIGHT PARTY,,GRN,Green Party,0,0,4
+Jefferson,60,Straight Party,,REP,Republican Party,16,14,4
+Jefferson,60,Straight Party,,,Over Votes,0,0,0
+Jefferson,60,Straight Party,,,Under Votes,7,7,0
+Jefferson,60,Straight Party,,DEM,Democratic Party,7,6,4
+Jefferson,60,Straight Party,,LIB,Libertarian Party,1,0,4
+Jefferson,60,Straight Party,,GRN,Green Party,0,0,4
 Jefferson,60,President,,REP,Donald J. Trump / Mike Pence,22,20,4
 Jefferson,60,President,,,Over Votes,0,0,0
 Jefferson,60,President,,,Under Votes,0,0,0
@@ -6621,12 +6621,12 @@ Jefferson,60,Sheriff,,REP,Ray Beck,21,19,4
 Jefferson,60,Sheriff,,,Over Votes,0,0,0
 Jefferson,60,Sheriff,,,Under Votes,1,1,0
 Jefferson,60,Sheriff,,DEM,Zena Stephens,9,7,4
-Jefferson,61,STRAIGHT PARTY,,REP,Republican Party,125,107,47
-Jefferson,61,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,61,STRAIGHT PARTY,,,Under Votes,102,82,20
-Jefferson,61,STRAIGHT PARTY,,DEM,Democratic Party,64,55,47
-Jefferson,61,STRAIGHT PARTY,,LIB,Libertarian Party,3,3,47
-Jefferson,61,STRAIGHT PARTY,,GRN,Green Party,0,0,47
+Jefferson,61,Straight Party,,REP,Republican Party,125,107,47
+Jefferson,61,Straight Party,,,Over Votes,0,0,0
+Jefferson,61,Straight Party,,,Under Votes,102,82,20
+Jefferson,61,Straight Party,,DEM,Democratic Party,64,55,47
+Jefferson,61,Straight Party,,LIB,Libertarian Party,3,3,47
+Jefferson,61,Straight Party,,GRN,Green Party,0,0,47
 Jefferson,61,President,,REP,Donald J. Trump / Mike Pence,202,170,47
 Jefferson,61,President,,,Over Votes,0,0,0
 Jefferson,61,President,,,Under Votes,5,4,1
@@ -6721,12 +6721,12 @@ Jefferson,61,"School Board Trustee, Place 5",,||,Brandon Cropper,111,89,47
 Jefferson,61,"School Board Trustee, Place 5",,,Over Votes,0,0,0
 Jefferson,61,"School Board Trustee, Place 5",,,Under Votes,100,87,13
 Jefferson,61,"School Board Trustee, Place 5",,||,Rodney Balsamo,83,71,47
-Jefferson,61,STRAIGHT PARTY,,REP,Republican Party,245,212,147
-Jefferson,61,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,61,STRAIGHT PARTY,,,Under Votes,247,201,46
-Jefferson,61,STRAIGHT PARTY,,DEM,Democratic Party,237,174,147
-Jefferson,61,STRAIGHT PARTY,,LIB,Libertarian Party,4,2,147
-Jefferson,61,STRAIGHT PARTY,,GRN,Green Party,4,1,147
+Jefferson,61,Straight Party,,REP,Republican Party,245,212,147
+Jefferson,61,Straight Party,,,Over Votes,0,0,0
+Jefferson,61,Straight Party,,,Under Votes,247,201,46
+Jefferson,61,Straight Party,,DEM,Democratic Party,237,174,147
+Jefferson,61,Straight Party,,LIB,Libertarian Party,4,2,147
+Jefferson,61,Straight Party,,GRN,Green Party,4,1,147
 Jefferson,61,President,,REP,Donald J. Trump / Mike Pence,376,328,147
 Jefferson,61,President,,,Over Votes,0,0,0
 Jefferson,61,President,,,Under Votes,10,7,3
@@ -6808,12 +6808,12 @@ Jefferson,61,Sheriff,,REP,Ray Beck,383,329,147
 Jefferson,61,Sheriff,,,Over Votes,0,0,0
 Jefferson,61,Sheriff,,,Under Votes,24,17,7
 Jefferson,61,Sheriff,,DEM,Zena Stephens,330,244,147
-Jefferson,62,STRAIGHT PARTY,,REP,Republican Party,624,533,265
-Jefferson,62,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,62,STRAIGHT PARTY,,,Under Votes,883,755,128
-Jefferson,62,STRAIGHT PARTY,,DEM,Democratic Party,272,229,265
-Jefferson,62,STRAIGHT PARTY,,LIB,Libertarian Party,12,10,265
-Jefferson,62,STRAIGHT PARTY,,GRN,Green Party,4,3,265
+Jefferson,62,Straight Party,,REP,Republican Party,624,533,265
+Jefferson,62,Straight Party,,,Over Votes,0,0,0
+Jefferson,62,Straight Party,,,Under Votes,883,755,128
+Jefferson,62,Straight Party,,DEM,Democratic Party,272,229,265
+Jefferson,62,Straight Party,,LIB,Libertarian Party,12,10,265
+Jefferson,62,Straight Party,,GRN,Green Party,4,3,265
 Jefferson,62,President,,REP,Donald J. Trump / Mike Pence,1162,991,265
 Jefferson,62,President,,,Over Votes,0,0,0
 Jefferson,62,President,,,Under Votes,31,23,8
@@ -6895,12 +6895,12 @@ Jefferson,62,Sheriff,,REP,Ray Beck,1173,1012,265
 Jefferson,62,Sheriff,,,Over Votes,0,0,0
 Jefferson,62,Sheriff,,,Under Votes,37,31,6
 Jefferson,62,Sheriff,,DEM,Zena Stephens,585,487,265
-Jefferson,63,STRAIGHT PARTY,,REP,Republican Party,22,18,167
-Jefferson,63,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,63,STRAIGHT PARTY,,,Under Votes,89,67,22
-Jefferson,63,STRAIGHT PARTY,,DEM,Democratic Party,709,568,167
-Jefferson,63,STRAIGHT PARTY,,LIB,Libertarian Party,5,5,167
-Jefferson,63,STRAIGHT PARTY,,GRN,Green Party,0,0,167
+Jefferson,63,Straight Party,,REP,Republican Party,22,18,167
+Jefferson,63,Straight Party,,,Over Votes,0,0,0
+Jefferson,63,Straight Party,,,Under Votes,89,67,22
+Jefferson,63,Straight Party,,DEM,Democratic Party,709,568,167
+Jefferson,63,Straight Party,,LIB,Libertarian Party,5,5,167
+Jefferson,63,Straight Party,,GRN,Green Party,0,0,167
 Jefferson,63,President,,REP,Donald J. Trump / Mike Pence,38,25,167
 Jefferson,63,President,,,Over Votes,0,0,0
 Jefferson,63,President,,,Under Votes,12,8,4
@@ -6982,12 +6982,12 @@ Jefferson,63,Sheriff,,REP,Ray Beck,37,26,167
 Jefferson,63,Sheriff,,,Over Votes,0,0,0
 Jefferson,63,Sheriff,,,Under Votes,15,10,5
 Jefferson,63,Sheriff,,DEM,Zena Stephens,773,622,167
-Jefferson,64,STRAIGHT PARTY,,REP,Republican Party,66,52,85
-Jefferson,64,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,64,STRAIGHT PARTY,,,Under Votes,122,102,20
-Jefferson,64,STRAIGHT PARTY,,DEM,Democratic Party,318,268,85
-Jefferson,64,STRAIGHT PARTY,,LIB,Libertarian Party,3,2,85
-Jefferson,64,STRAIGHT PARTY,,GRN,Green Party,0,0,85
+Jefferson,64,Straight Party,,REP,Republican Party,66,52,85
+Jefferson,64,Straight Party,,,Over Votes,0,0,0
+Jefferson,64,Straight Party,,,Under Votes,122,102,20
+Jefferson,64,Straight Party,,DEM,Democratic Party,318,268,85
+Jefferson,64,Straight Party,,LIB,Libertarian Party,3,2,85
+Jefferson,64,Straight Party,,GRN,Green Party,0,0,85
 Jefferson,64,President,,REP,Donald J. Trump / Mike Pence,107,82,85
 Jefferson,64,President,,,Over Votes,0,0,0
 Jefferson,64,President,,,Under Votes,7,7,0
@@ -7069,12 +7069,12 @@ Jefferson,64,Sheriff,,REP,Ray Beck,114,84,85
 Jefferson,64,Sheriff,,,Over Votes,0,0,0
 Jefferson,64,Sheriff,,,Under Votes,5,5,0
 Jefferson,64,Sheriff,,DEM,Zena Stephens,390,335,85
-Jefferson,65,STRAIGHT PARTY,,REP,Republican Party,492,455,127
-Jefferson,65,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,65,STRAIGHT PARTY,,,Under Votes,705,631,74
-Jefferson,65,STRAIGHT PARTY,,DEM,Democratic Party,131,117,127
-Jefferson,65,STRAIGHT PARTY,,LIB,Libertarian Party,4,2,127
-Jefferson,65,STRAIGHT PARTY,,GRN,Green Party,0,0,127
+Jefferson,65,Straight Party,,REP,Republican Party,492,455,127
+Jefferson,65,Straight Party,,,Over Votes,0,0,0
+Jefferson,65,Straight Party,,,Under Votes,705,631,74
+Jefferson,65,Straight Party,,DEM,Democratic Party,131,117,127
+Jefferson,65,Straight Party,,LIB,Libertarian Party,4,2,127
+Jefferson,65,Straight Party,,GRN,Green Party,0,0,127
 Jefferson,65,President,,REP,Donald J. Trump / Mike Pence,976,890,127
 Jefferson,65,President,,,Over Votes,0,0,0
 Jefferson,65,President,,,Under Votes,25,23,2
@@ -7156,12 +7156,12 @@ Jefferson,65,Sheriff,,REP,Ray Beck,975,898,127
 Jefferson,65,Sheriff,,,Over Votes,0,0,0
 Jefferson,65,Sheriff,,,Under Votes,21,16,5
 Jefferson,65,Sheriff,,DEM,Zena Stephens,336,291,127
-Jefferson,66,STRAIGHT PARTY,,REP,Republican Party,580,337,473
-Jefferson,66,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,66,STRAIGHT PARTY,,,Under Votes,546,363,183
-Jefferson,66,STRAIGHT PARTY,,DEM,Democratic Party,149,105,473
-Jefferson,66,STRAIGHT PARTY,,LIB,Libertarian Party,4,2,473
-Jefferson,66,STRAIGHT PARTY,,GRN,Green Party,1,0,473
+Jefferson,66,Straight Party,,REP,Republican Party,580,337,473
+Jefferson,66,Straight Party,,,Over Votes,0,0,0
+Jefferson,66,Straight Party,,,Under Votes,546,363,183
+Jefferson,66,Straight Party,,DEM,Democratic Party,149,105,473
+Jefferson,66,Straight Party,,LIB,Libertarian Party,4,2,473
+Jefferson,66,Straight Party,,GRN,Green Party,1,0,473
 Jefferson,66,President,,REP,Donald J. Trump / Mike Pence,994,605,473
 Jefferson,66,President,,,Over Votes,0,0,0
 Jefferson,66,President,,,Under Votes,17,7,10
@@ -7243,12 +7243,12 @@ Jefferson,66,Sheriff,,REP,Ray Beck,977,595,473
 Jefferson,66,Sheriff,,,Over Votes,0,0,0
 Jefferson,66,Sheriff,,,Under Votes,18,9,9
 Jefferson,66,Sheriff,,DEM,Zena Stephens,285,203,473
-Jefferson,67,STRAIGHT PARTY,,REP,Republican Party,84,66,283
-Jefferson,67,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,67,STRAIGHT PARTY,,,Under Votes,273,219,54
-Jefferson,67,STRAIGHT PARTY,,DEM,Democratic Party,1004,795,283
-Jefferson,67,STRAIGHT PARTY,,LIB,Libertarian Party,4,4,283
-Jefferson,67,STRAIGHT PARTY,,GRN,Green Party,3,1,283
+Jefferson,67,Straight Party,,REP,Republican Party,84,66,283
+Jefferson,67,Straight Party,,,Over Votes,0,0,0
+Jefferson,67,Straight Party,,,Under Votes,273,219,54
+Jefferson,67,Straight Party,,DEM,Democratic Party,1004,795,283
+Jefferson,67,Straight Party,,LIB,Libertarian Party,4,4,283
+Jefferson,67,Straight Party,,GRN,Green Party,3,1,283
 Jefferson,67,President,,REP,Donald J. Trump / Mike Pence,157,119,283
 Jefferson,67,President,,,Over Votes,0,0,0
 Jefferson,67,President,,,Under Votes,16,10,6
@@ -7330,12 +7330,12 @@ Jefferson,67,Sheriff,,REP,Ray Beck,176,137,283
 Jefferson,67,Sheriff,,,Over Votes,0,0,0
 Jefferson,67,Sheriff,,,Under Votes,24,15,9
 Jefferson,67,Sheriff,,DEM,Zena Stephens,1168,933,283
-Jefferson,68,STRAIGHT PARTY,,REP,Republican Party,424,369,235
-Jefferson,68,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,68,STRAIGHT PARTY,,,Under Votes,631,520,111
-Jefferson,68,STRAIGHT PARTY,,DEM,Democratic Party,413,346,235
-Jefferson,68,STRAIGHT PARTY,,LIB,Libertarian Party,6,4,235
-Jefferson,68,STRAIGHT PARTY,,GRN,Green Party,3,3,235
+Jefferson,68,Straight Party,,REP,Republican Party,424,369,235
+Jefferson,68,Straight Party,,,Over Votes,0,0,0
+Jefferson,68,Straight Party,,,Under Votes,631,520,111
+Jefferson,68,Straight Party,,DEM,Democratic Party,413,346,235
+Jefferson,68,Straight Party,,LIB,Libertarian Party,6,4,235
+Jefferson,68,Straight Party,,GRN,Green Party,3,3,235
 Jefferson,68,President,,REP,Donald J. Trump / Mike Pence,795,684,235
 Jefferson,68,President,,,Over Votes,0,0,0
 Jefferson,68,President,,,Under Votes,21,14,7
@@ -7417,12 +7417,12 @@ Jefferson,68,Sheriff,,REP,Ray Beck,797,683,235
 Jefferson,68,Sheriff,,,Over Votes,0,0,0
 Jefferson,68,Sheriff,,,Under Votes,15,10,5
 Jefferson,68,Sheriff,,DEM,Zena Stephens,665,549,235
-Jefferson,69,STRAIGHT PARTY,,REP,Republican Party,940,781,392
-Jefferson,69,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,69,STRAIGHT PARTY,,,Under Votes,788,616,172
-Jefferson,69,STRAIGHT PARTY,,DEM,Democratic Party,254,202,392
-Jefferson,69,STRAIGHT PARTY,,LIB,Libertarian Party,14,8,392
-Jefferson,69,STRAIGHT PARTY,,GRN,Green Party,6,3,392
+Jefferson,69,Straight Party,,REP,Republican Party,940,781,392
+Jefferson,69,Straight Party,,,Over Votes,0,0,0
+Jefferson,69,Straight Party,,,Under Votes,788,616,172
+Jefferson,69,Straight Party,,DEM,Democratic Party,254,202,392
+Jefferson,69,Straight Party,,LIB,Libertarian Party,14,8,392
+Jefferson,69,Straight Party,,GRN,Green Party,6,3,392
 Jefferson,69,President,,REP,Donald J. Trump / Mike Pence,1497,1229,392
 Jefferson,69,President,,,Over Votes,0,0,0
 Jefferson,69,President,,,Under Votes,33,20,13
@@ -7504,12 +7504,12 @@ Jefferson,69,Sheriff,,REP,Ray Beck,1505,1226,392
 Jefferson,69,Sheriff,,,Over Votes,0,0,0
 Jefferson,69,Sheriff,,,Under Votes,56,44,12
 Jefferson,69,Sheriff,,DEM,Zena Stephens,441,340,392
-Jefferson,70,STRAIGHT PARTY,,REP,Republican Party,129,107,93
-Jefferson,70,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,70,STRAIGHT PARTY,,,Under Votes,172,143,29
-Jefferson,70,STRAIGHT PARTY,,DEM,Democratic Party,181,140,93
-Jefferson,70,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,93
-Jefferson,70,STRAIGHT PARTY,,GRN,Green Party,0,0,93
+Jefferson,70,Straight Party,,REP,Republican Party,129,107,93
+Jefferson,70,Straight Party,,,Over Votes,0,0,0
+Jefferson,70,Straight Party,,,Under Votes,172,143,29
+Jefferson,70,Straight Party,,DEM,Democratic Party,181,140,93
+Jefferson,70,Straight Party,,LIB,Libertarian Party,1,0,93
+Jefferson,70,Straight Party,,GRN,Green Party,0,0,93
 Jefferson,70,President,,REP,Donald J. Trump / Mike Pence,234,198,93
 Jefferson,70,President,,,Over Votes,0,0,0
 Jefferson,70,President,,,Under Votes,10,7,3
@@ -7614,12 +7614,12 @@ Jefferson,70,Port Arthur Charter Amendment,,,Yes,274,222,93
 Jefferson,70,Port Arthur Charter Amendment,,,Over Votes,0,0,0
 Jefferson,70,Port Arthur Charter Amendment,,,Under Votes,124,100,24
 Jefferson,70,Port Arthur Charter Amendment,,,No,85,68,93
-Jefferson,70,STRAIGHT PARTY,,REP,Republican Party,162,133,186
-Jefferson,70,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,70,STRAIGHT PARTY,,,Under Votes,233,189,44
-Jefferson,70,STRAIGHT PARTY,,DEM,Democratic Party,497,384,186
-Jefferson,70,STRAIGHT PARTY,,LIB,Libertarian Party,4,4,186
-Jefferson,70,STRAIGHT PARTY,,GRN,Green Party,1,1,186
+Jefferson,70,Straight Party,,REP,Republican Party,162,133,186
+Jefferson,70,Straight Party,,,Over Votes,0,0,0
+Jefferson,70,Straight Party,,,Under Votes,233,189,44
+Jefferson,70,Straight Party,,DEM,Democratic Party,497,384,186
+Jefferson,70,Straight Party,,LIB,Libertarian Party,4,4,186
+Jefferson,70,Straight Party,,GRN,Green Party,1,1,186
 Jefferson,70,President,,REP,Donald J. Trump / Mike Pence,267,220,186
 Jefferson,70,President,,,Over Votes,0,0,0
 Jefferson,70,President,,,Under Votes,16,13,3
@@ -7711,12 +7711,12 @@ Jefferson,70,Port Arthur Charter Amendment,,,Yes,427,343,186
 Jefferson,70,Port Arthur Charter Amendment,,,Over Votes,0,0,0
 Jefferson,70,Port Arthur Charter Amendment,,,Under Votes,251,209,42
 Jefferson,70,Port Arthur Charter Amendment,,,No,219,159,186
-Jefferson,71,STRAIGHT PARTY,,REP,Republican Party,3,3,0
-Jefferson,71,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,71,STRAIGHT PARTY,,,Under Votes,3,3,0
-Jefferson,71,STRAIGHT PARTY,,DEM,Democratic Party,0,0,0
-Jefferson,71,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0
-Jefferson,71,STRAIGHT PARTY,,GRN,Green Party,0,0,0
+Jefferson,71,Straight Party,,REP,Republican Party,3,3,0
+Jefferson,71,Straight Party,,,Over Votes,0,0,0
+Jefferson,71,Straight Party,,,Under Votes,3,3,0
+Jefferson,71,Straight Party,,DEM,Democratic Party,0,0,0
+Jefferson,71,Straight Party,,LIB,Libertarian Party,0,0,0
+Jefferson,71,Straight Party,,GRN,Green Party,0,0,0
 Jefferson,71,President,,REP,Donald J. Trump / Mike Pence,6,6,0
 Jefferson,71,President,,,Over Votes,0,0,0
 Jefferson,71,President,,,Under Votes,0,0,0
@@ -7811,12 +7811,12 @@ Jefferson,71,"School Board Trustee, Place 5",,||,Brandon Cropper,1,1,0
 Jefferson,71,"School Board Trustee, Place 5",,,Over Votes,0,0,0
 Jefferson,71,"School Board Trustee, Place 5",,,Under Votes,2,2,0
 Jefferson,71,"School Board Trustee, Place 5",,||,Rodney Balsamo,3,3,0
-Jefferson,71,STRAIGHT PARTY,,REP,Republican Party,23,20,15
-Jefferson,71,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,71,STRAIGHT PARTY,,,Under Votes,21,12,9
-Jefferson,71,STRAIGHT PARTY,,DEM,Democratic Party,7,4,15
-Jefferson,71,STRAIGHT PARTY,,LIB,Libertarian Party,1,1,15
-Jefferson,71,STRAIGHT PARTY,,GRN,Green Party,0,0,15
+Jefferson,71,Straight Party,,REP,Republican Party,23,20,15
+Jefferson,71,Straight Party,,,Over Votes,0,0,0
+Jefferson,71,Straight Party,,,Under Votes,21,12,9
+Jefferson,71,Straight Party,,DEM,Democratic Party,7,4,15
+Jefferson,71,Straight Party,,LIB,Libertarian Party,1,1,15
+Jefferson,71,Straight Party,,GRN,Green Party,0,0,15
 Jefferson,71,President,,REP,Donald J. Trump / Mike Pence,39,28,15
 Jefferson,71,President,,,Over Votes,0,0,0
 Jefferson,71,President,,,Under Votes,0,0,0
@@ -7921,12 +7921,12 @@ Jefferson,71,Port Arthur Charter Amendment,,,Yes,25,19,15
 Jefferson,71,Port Arthur Charter Amendment,,,Over Votes,0,0,0
 Jefferson,71,Port Arthur Charter Amendment,,,Under Votes,22,15,7
 Jefferson,71,Port Arthur Charter Amendment,,,No,5,3,15
-Jefferson,72,STRAIGHT PARTY,,REP,Republican Party,322,239,306
-Jefferson,72,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,72,STRAIGHT PARTY,,,Under Votes,485,377,108
-Jefferson,72,STRAIGHT PARTY,,DEM,Democratic Party,593,485,306
-Jefferson,72,STRAIGHT PARTY,,LIB,Libertarian Party,9,6,306
-Jefferson,72,STRAIGHT PARTY,,GRN,Green Party,8,4,306
+Jefferson,72,Straight Party,,REP,Republican Party,322,239,306
+Jefferson,72,Straight Party,,,Over Votes,0,0,0
+Jefferson,72,Straight Party,,,Under Votes,485,377,108
+Jefferson,72,Straight Party,,DEM,Democratic Party,593,485,306
+Jefferson,72,Straight Party,,LIB,Libertarian Party,9,6,306
+Jefferson,72,Straight Party,,GRN,Green Party,8,4,306
 Jefferson,72,President,,REP,Donald J. Trump / Mike Pence,560,427,306
 Jefferson,72,President,,,Over Votes,0,0,0
 Jefferson,72,President,,,Under Votes,16,13,3
@@ -8008,12 +8008,12 @@ Jefferson,72,Sheriff,,REP,Ray Beck,546,410,306
 Jefferson,72,Sheriff,,,Over Votes,0,0,0
 Jefferson,72,Sheriff,,,Under Votes,24,16,8
 Jefferson,72,Sheriff,,DEM,Zena Stephens,847,685,306
-Jefferson,73,STRAIGHT PARTY,,REP,Republican Party,601,533,199
-Jefferson,73,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,73,STRAIGHT PARTY,,,Under Votes,841,742,99
-Jefferson,73,STRAIGHT PARTY,,DEM,Democratic Party,258,228,199
-Jefferson,73,STRAIGHT PARTY,,LIB,Libertarian Party,8,7,199
-Jefferson,73,STRAIGHT PARTY,,GRN,Green Party,2,1,199
+Jefferson,73,Straight Party,,REP,Republican Party,601,533,199
+Jefferson,73,Straight Party,,,Over Votes,0,0,0
+Jefferson,73,Straight Party,,,Under Votes,841,742,99
+Jefferson,73,Straight Party,,DEM,Democratic Party,258,228,199
+Jefferson,73,Straight Party,,LIB,Libertarian Party,8,7,199
+Jefferson,73,Straight Party,,GRN,Green Party,2,1,199
 Jefferson,73,President,,REP,Donald J. Trump / Mike Pence,1171,1051,199
 Jefferson,73,President,,,Over Votes,0,0,0
 Jefferson,73,President,,,Under Votes,24,19,5
@@ -8095,12 +8095,12 @@ Jefferson,73,Sheriff,,REP,Ray Beck,1124,1003,199
 Jefferson,73,Sheriff,,,Over Votes,0,0,0
 Jefferson,73,Sheriff,,,Under Votes,31,27,4
 Jefferson,73,Sheriff,,DEM,Zena Stephens,555,481,199
-Jefferson,74,STRAIGHT PARTY,,REP,Republican Party,977,813,348
-Jefferson,74,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,74,STRAIGHT PARTY,,,Under Votes,763,612,151
-Jefferson,74,STRAIGHT PARTY,,DEM,Democratic Party,165,136,348
-Jefferson,74,STRAIGHT PARTY,,LIB,Libertarian Party,11,8,348
-Jefferson,74,STRAIGHT PARTY,,GRN,Green Party,5,4,348
+Jefferson,74,Straight Party,,REP,Republican Party,977,813,348
+Jefferson,74,Straight Party,,,Over Votes,0,0,0
+Jefferson,74,Straight Party,,,Under Votes,763,612,151
+Jefferson,74,Straight Party,,DEM,Democratic Party,165,136,348
+Jefferson,74,Straight Party,,LIB,Libertarian Party,11,8,348
+Jefferson,74,Straight Party,,GRN,Green Party,5,4,348
 Jefferson,74,President,,REP,Donald J. Trump / Mike Pence,1578,1303,348
 Jefferson,74,President,,,Over Votes,0,0,0
 Jefferson,74,President,,,Under Votes,22,19,3
@@ -8182,12 +8182,12 @@ Jefferson,74,Sheriff,,REP,Ray Beck,1560,1293,348
 Jefferson,74,Sheriff,,,Over Votes,0,0,0
 Jefferson,74,Sheriff,,,Under Votes,39,28,11
 Jefferson,74,Sheriff,,DEM,Zena Stephens,322,252,348
-Jefferson,75,STRAIGHT PARTY,,REP,Republican Party,27,17,167
-Jefferson,75,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,75,STRAIGHT PARTY,,,Under Votes,118,78,40
-Jefferson,75,STRAIGHT PARTY,,DEM,Democratic Party,302,188,167
-Jefferson,75,STRAIGHT PARTY,,LIB,Libertarian Party,2,1,167
-Jefferson,75,STRAIGHT PARTY,,GRN,Green Party,5,3,167
+Jefferson,75,Straight Party,,REP,Republican Party,27,17,167
+Jefferson,75,Straight Party,,,Over Votes,0,0,0
+Jefferson,75,Straight Party,,,Under Votes,118,78,40
+Jefferson,75,Straight Party,,DEM,Democratic Party,302,188,167
+Jefferson,75,Straight Party,,LIB,Libertarian Party,2,1,167
+Jefferson,75,Straight Party,,GRN,Green Party,5,3,167
 Jefferson,75,President,,REP,Donald J. Trump / Mike Pence,48,33,167
 Jefferson,75,President,,,Over Votes,0,0,0
 Jefferson,75,President,,,Under Votes,6,3,3
@@ -8269,12 +8269,12 @@ Jefferson,75,Sheriff,,REP,Ray Beck,55,35,167
 Jefferson,75,Sheriff,,,Over Votes,0,0,0
 Jefferson,75,Sheriff,,,Under Votes,12,7,5
 Jefferson,75,Sheriff,,DEM,Zena Stephens,387,245,167
-Jefferson,76,STRAIGHT PARTY,,REP,Republican Party,47,35,143
-Jefferson,76,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,76,STRAIGHT PARTY,,,Under Votes,76,57,19
-Jefferson,76,STRAIGHT PARTY,,DEM,Democratic Party,368,258,143
-Jefferson,76,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,143
-Jefferson,76,STRAIGHT PARTY,,GRN,Green Party,2,0,143
+Jefferson,76,Straight Party,,REP,Republican Party,47,35,143
+Jefferson,76,Straight Party,,,Over Votes,0,0,0
+Jefferson,76,Straight Party,,,Under Votes,76,57,19
+Jefferson,76,Straight Party,,DEM,Democratic Party,368,258,143
+Jefferson,76,Straight Party,,LIB,Libertarian Party,0,0,143
+Jefferson,76,Straight Party,,GRN,Green Party,2,0,143
 Jefferson,76,President,,REP,Donald J. Trump / Mike Pence,78,58,143
 Jefferson,76,President,,,Over Votes,0,0,0
 Jefferson,76,President,,,Under Votes,4,4,0
@@ -8366,12 +8366,12 @@ Jefferson,76,Port Arthur Charter Amendment,,,Yes,248,181,143
 Jefferson,76,Port Arthur Charter Amendment,,,Over Votes,0,0,0
 Jefferson,76,Port Arthur Charter Amendment,,,Under Votes,137,91,46
 Jefferson,76,Port Arthur Charter Amendment,,,No,108,78,143
-Jefferson,77,STRAIGHT PARTY,,REP,Republican Party,18,16,147
-Jefferson,77,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,77,STRAIGHT PARTY,,,Under Votes,106,92,14
-Jefferson,77,STRAIGHT PARTY,,DEM,Democratic Party,626,495,147
-Jefferson,77,STRAIGHT PARTY,,LIB,Libertarian Party,1,1,147
-Jefferson,77,STRAIGHT PARTY,,GRN,Green Party,2,2,147
+Jefferson,77,Straight Party,,REP,Republican Party,18,16,147
+Jefferson,77,Straight Party,,,Over Votes,0,0,0
+Jefferson,77,Straight Party,,,Under Votes,106,92,14
+Jefferson,77,Straight Party,,DEM,Democratic Party,626,495,147
+Jefferson,77,Straight Party,,LIB,Libertarian Party,1,1,147
+Jefferson,77,Straight Party,,GRN,Green Party,2,2,147
 Jefferson,77,President,,REP,Donald J. Trump / Mike Pence,26,21,147
 Jefferson,77,President,,,Over Votes,0,0,0
 Jefferson,77,President,,,Under Votes,10,9,1
@@ -8453,12 +8453,12 @@ Jefferson,77,Sheriff,,REP,Ray Beck,38,33,147
 Jefferson,77,Sheriff,,,Over Votes,0,0,0
 Jefferson,77,Sheriff,,,Under Votes,10,8,2
 Jefferson,77,Sheriff,,DEM,Zena Stephens,705,565,147
-Jefferson,78,STRAIGHT PARTY,,REP,Republican Party,235,168,254
-Jefferson,78,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,78,STRAIGHT PARTY,,,Under Votes,375,293,82
-Jefferson,78,STRAIGHT PARTY,,DEM,Democratic Party,542,442,254
-Jefferson,78,STRAIGHT PARTY,,LIB,Libertarian Party,8,4,254
-Jefferson,78,STRAIGHT PARTY,,GRN,Green Party,4,3,254
+Jefferson,78,Straight Party,,REP,Republican Party,235,168,254
+Jefferson,78,Straight Party,,,Over Votes,0,0,0
+Jefferson,78,Straight Party,,,Under Votes,375,293,82
+Jefferson,78,Straight Party,,DEM,Democratic Party,542,442,254
+Jefferson,78,Straight Party,,LIB,Libertarian Party,8,4,254
+Jefferson,78,Straight Party,,GRN,Green Party,4,3,254
 Jefferson,78,President,,REP,Donald J. Trump / Mike Pence,422,317,254
 Jefferson,78,President,,,Over Votes,0,0,0
 Jefferson,78,President,,,Under Votes,10,6,4
@@ -8540,12 +8540,12 @@ Jefferson,78,Sheriff,,REP,Ray Beck,415,311,254
 Jefferson,78,Sheriff,,,Over Votes,0,0,0
 Jefferson,78,Sheriff,,,Under Votes,22,15,7
 Jefferson,78,Sheriff,,DEM,Zena Stephens,727,584,254
-Jefferson,79,STRAIGHT PARTY,,REP,Republican Party,476,417,204
-Jefferson,79,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,79,STRAIGHT PARTY,,,Under Votes,535,451,84
-Jefferson,79,STRAIGHT PARTY,,DEM,Democratic Party,298,241,204
-Jefferson,79,STRAIGHT PARTY,,LIB,Libertarian Party,6,4,204
-Jefferson,79,STRAIGHT PARTY,,GRN,Green Party,3,1,204
+Jefferson,79,Straight Party,,REP,Republican Party,476,417,204
+Jefferson,79,Straight Party,,,Over Votes,0,0,0
+Jefferson,79,Straight Party,,,Under Votes,535,451,84
+Jefferson,79,Straight Party,,DEM,Democratic Party,298,241,204
+Jefferson,79,Straight Party,,LIB,Libertarian Party,6,4,204
+Jefferson,79,Straight Party,,GRN,Green Party,3,1,204
 Jefferson,79,President,,REP,Donald J. Trump / Mike Pence,810,708,204
 Jefferson,79,President,,,Over Votes,0,0,0
 Jefferson,79,President,,,Under Votes,23,17,6
@@ -8627,12 +8627,12 @@ Jefferson,79,Sheriff,,REP,Ray Beck,805,698,204
 Jefferson,79,Sheriff,,,Over Votes,0,0,0
 Jefferson,79,Sheriff,,,Under Votes,25,15,10
 Jefferson,79,Sheriff,,DEM,Zena Stephens,488,401,204
-Jefferson,80,STRAIGHT PARTY,,REP,Republican Party,56,47,30
-Jefferson,80,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,80,STRAIGHT PARTY,,,Under Votes,83,68,15
-Jefferson,80,STRAIGHT PARTY,,DEM,Democratic Party,18,13,30
-Jefferson,80,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,30
-Jefferson,80,STRAIGHT PARTY,,GRN,Green Party,0,0,30
+Jefferson,80,Straight Party,,REP,Republican Party,56,47,30
+Jefferson,80,Straight Party,,,Over Votes,0,0,0
+Jefferson,80,Straight Party,,,Under Votes,83,68,15
+Jefferson,80,Straight Party,,DEM,Democratic Party,18,13,30
+Jefferson,80,Straight Party,,LIB,Libertarian Party,1,0,30
+Jefferson,80,Straight Party,,GRN,Green Party,0,0,30
 Jefferson,80,President,,REP,Donald J. Trump / Mike Pence,128,104,30
 Jefferson,80,President,,,Over Votes,0,0,0
 Jefferson,80,President,,,Under Votes,3,3,0
@@ -8736,12 +8736,12 @@ Jefferson,80,"Trustee, Position 4",,||,Bob Thewman,64,50,30
 Jefferson,80,"Trustee, Position 4",,,Over Votes,0,0,0
 Jefferson,80,"Trustee, Position 4",,,Under Votes,53,42,11
 Jefferson,80,"Trustee, Position 4",,||,Craig Berry,41,36,30
-Jefferson,80,STRAIGHT PARTY,,REP,Republican Party,0,0,0
-Jefferson,80,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,80,STRAIGHT PARTY,,,Under Votes,1,1,0
-Jefferson,80,STRAIGHT PARTY,,DEM,Democratic Party,0,0,0
-Jefferson,80,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0
-Jefferson,80,STRAIGHT PARTY,,GRN,Green Party,0,0,0
+Jefferson,80,Straight Party,,REP,Republican Party,0,0,0
+Jefferson,80,Straight Party,,,Over Votes,0,0,0
+Jefferson,80,Straight Party,,,Under Votes,1,1,0
+Jefferson,80,Straight Party,,DEM,Democratic Party,0,0,0
+Jefferson,80,Straight Party,,LIB,Libertarian Party,0,0,0
+Jefferson,80,Straight Party,,GRN,Green Party,0,0,0
 Jefferson,80,President,,REP,Donald J. Trump / Mike Pence,0,0,0
 Jefferson,80,President,,,Over Votes,0,0,0
 Jefferson,80,President,,,Under Votes,0,0,0
@@ -8823,12 +8823,12 @@ Jefferson,80,Sheriff,,REP,Ray Beck,0,0,0
 Jefferson,80,Sheriff,,,Over Votes,0,0,0
 Jefferson,80,Sheriff,,,Under Votes,0,0,0
 Jefferson,80,Sheriff,,DEM,Zena Stephens,1,1,0
-Jefferson,81,STRAIGHT PARTY,,REP,Republican Party,9,3,88
-Jefferson,81,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,81,STRAIGHT PARTY,,,Under Votes,65,53,12
-Jefferson,81,STRAIGHT PARTY,,DEM,Democratic Party,398,328,88
-Jefferson,81,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,88
-Jefferson,81,STRAIGHT PARTY,,GRN,Green Party,1,1,88
+Jefferson,81,Straight Party,,REP,Republican Party,9,3,88
+Jefferson,81,Straight Party,,,Over Votes,0,0,0
+Jefferson,81,Straight Party,,,Under Votes,65,53,12
+Jefferson,81,Straight Party,,DEM,Democratic Party,398,328,88
+Jefferson,81,Straight Party,,LIB,Libertarian Party,0,0,88
+Jefferson,81,Straight Party,,GRN,Green Party,1,1,88
 Jefferson,81,President,,REP,Donald J. Trump / Mike Pence,14,7,88
 Jefferson,81,President,,,Over Votes,0,0,0
 Jefferson,81,President,,,Under Votes,9,9,0
@@ -8920,12 +8920,12 @@ Jefferson,81,Port Arthur Charter Amendment,,,Yes,198,159,88
 Jefferson,81,Port Arthur Charter Amendment,,,Over Votes,0,0,0
 Jefferson,81,Port Arthur Charter Amendment,,,Under Votes,124,98,26
 Jefferson,81,Port Arthur Charter Amendment,,,No,151,128,88
-Jefferson,82,STRAIGHT PARTY,,REP,Republican Party,315,278,238
-Jefferson,82,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,82,STRAIGHT PARTY,,,Under Votes,359,317,42
-Jefferson,82,STRAIGHT PARTY,,DEM,Democratic Party,724,568,238
-Jefferson,82,STRAIGHT PARTY,,LIB,Libertarian Party,2,1,238
-Jefferson,82,STRAIGHT PARTY,,GRN,Green Party,2,0,238
+Jefferson,82,Straight Party,,REP,Republican Party,315,278,238
+Jefferson,82,Straight Party,,,Over Votes,0,0,0
+Jefferson,82,Straight Party,,,Under Votes,359,317,42
+Jefferson,82,Straight Party,,DEM,Democratic Party,724,568,238
+Jefferson,82,Straight Party,,LIB,Libertarian Party,2,1,238
+Jefferson,82,Straight Party,,GRN,Green Party,2,0,238
 Jefferson,82,President,,REP,Donald J. Trump / Mike Pence,486,428,238
 Jefferson,82,President,,,Over Votes,0,0,0
 Jefferson,82,President,,,Under Votes,25,24,1
@@ -9017,12 +9017,12 @@ Jefferson,82,Port Arthur Charter Amendment,,,Yes,730,608,238
 Jefferson,82,Port Arthur Charter Amendment,,,Over Votes,0,0,0
 Jefferson,82,Port Arthur Charter Amendment,,,Under Votes,373,317,56
 Jefferson,82,Port Arthur Charter Amendment,,,No,299,239,238
-Jefferson,83,STRAIGHT PARTY,,REP,Republican Party,406,358,107
-Jefferson,83,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,83,STRAIGHT PARTY,,,Under Votes,327,282,45
-Jefferson,83,STRAIGHT PARTY,,DEM,Democratic Party,73,61,107
-Jefferson,83,STRAIGHT PARTY,,LIB,Libertarian Party,6,4,107
-Jefferson,83,STRAIGHT PARTY,,GRN,Green Party,1,1,107
+Jefferson,83,Straight Party,,REP,Republican Party,406,358,107
+Jefferson,83,Straight Party,,,Over Votes,0,0,0
+Jefferson,83,Straight Party,,,Under Votes,327,282,45
+Jefferson,83,Straight Party,,DEM,Democratic Party,73,61,107
+Jefferson,83,Straight Party,,LIB,Libertarian Party,6,4,107
+Jefferson,83,Straight Party,,GRN,Green Party,1,1,107
 Jefferson,83,President,,REP,Donald J. Trump / Mike Pence,638,557,107
 Jefferson,83,President,,,Over Votes,0,0,0
 Jefferson,83,President,,,Under Votes,19,18,1
@@ -9104,12 +9104,12 @@ Jefferson,83,Sheriff,,REP,Ray Beck,651,572,107
 Jefferson,83,Sheriff,,,Over Votes,0,0,0
 Jefferson,83,Sheriff,,,Under Votes,24,17,7
 Jefferson,83,Sheriff,,DEM,Zena Stephens,138,117,107
-Jefferson,84,STRAIGHT PARTY,,REP,Republican Party,16,15,145
-Jefferson,84,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,84,STRAIGHT PARTY,,,Under Votes,102,89,13
-Jefferson,84,STRAIGHT PARTY,,DEM,Democratic Party,629,498,145
-Jefferson,84,STRAIGHT PARTY,,LIB,Libertarian Party,1,1,145
-Jefferson,84,STRAIGHT PARTY,,GRN,Green Party,0,0,145
+Jefferson,84,Straight Party,,REP,Republican Party,16,15,145
+Jefferson,84,Straight Party,,,Over Votes,0,0,0
+Jefferson,84,Straight Party,,,Under Votes,102,89,13
+Jefferson,84,Straight Party,,DEM,Democratic Party,629,498,145
+Jefferson,84,Straight Party,,LIB,Libertarian Party,1,1,145
+Jefferson,84,Straight Party,,GRN,Green Party,0,0,145
 Jefferson,84,President,,REP,Donald J. Trump / Mike Pence,27,23,145
 Jefferson,84,President,,,Over Votes,0,0,0
 Jefferson,84,President,,,Under Votes,15,11,4
@@ -9191,12 +9191,12 @@ Jefferson,84,Sheriff,,REP,Ray Beck,36,34,145
 Jefferson,84,Sheriff,,,Over Votes,0,0,0
 Jefferson,84,Sheriff,,,Under Votes,13,10,3
 Jefferson,84,Sheriff,,DEM,Zena Stephens,699,559,145
-Jefferson,85,STRAIGHT PARTY,,REP,Republican Party,48,41,108
-Jefferson,85,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,85,STRAIGHT PARTY,,,Under Votes,174,149,25
-Jefferson,85,STRAIGHT PARTY,,DEM,Democratic Party,594,523,108
-Jefferson,85,STRAIGHT PARTY,,LIB,Libertarian Party,3,1,108
-Jefferson,85,STRAIGHT PARTY,,GRN,Green Party,5,2,108
+Jefferson,85,Straight Party,,REP,Republican Party,48,41,108
+Jefferson,85,Straight Party,,,Over Votes,0,0,0
+Jefferson,85,Straight Party,,,Under Votes,174,149,25
+Jefferson,85,Straight Party,,DEM,Democratic Party,594,523,108
+Jefferson,85,Straight Party,,LIB,Libertarian Party,3,1,108
+Jefferson,85,Straight Party,,GRN,Green Party,5,2,108
 Jefferson,85,President,,REP,Donald J. Trump / Mike Pence,84,67,108
 Jefferson,85,President,,,Over Votes,0,0,0
 Jefferson,85,President,,,Under Votes,15,10,5
@@ -9278,12 +9278,12 @@ Jefferson,85,Sheriff,,REP,Ray Beck,94,75,108
 Jefferson,85,Sheriff,,,Over Votes,0,0,0
 Jefferson,85,Sheriff,,,Under Votes,20,16,4
 Jefferson,85,Sheriff,,DEM,Zena Stephens,710,625,108
-Jefferson,86,STRAIGHT PARTY,,REP,Republican Party,233,199,128
-Jefferson,86,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,86,STRAIGHT PARTY,,,Under Votes,284,250,34
-Jefferson,86,STRAIGHT PARTY,,DEM,Democratic Party,259,200,128
-Jefferson,86,STRAIGHT PARTY,,LIB,Libertarian Party,2,2,128
-Jefferson,86,STRAIGHT PARTY,,GRN,Green Party,1,0,128
+Jefferson,86,Straight Party,,REP,Republican Party,233,199,128
+Jefferson,86,Straight Party,,,Over Votes,0,0,0
+Jefferson,86,Straight Party,,,Under Votes,284,250,34
+Jefferson,86,Straight Party,,DEM,Democratic Party,259,200,128
+Jefferson,86,Straight Party,,LIB,Libertarian Party,2,2,128
+Jefferson,86,Straight Party,,GRN,Green Party,1,0,128
 Jefferson,86,President,,REP,Donald J. Trump / Mike Pence,402,351,128
 Jefferson,86,President,,,Over Votes,0,0,0
 Jefferson,86,President,,,Under Votes,12,8,4
@@ -9365,12 +9365,12 @@ Jefferson,86,Sheriff,,REP,Ray Beck,387,335,128
 Jefferson,86,Sheriff,,,Over Votes,0,0,0
 Jefferson,86,Sheriff,,,Under Votes,12,9,3
 Jefferson,86,Sheriff,,DEM,Zena Stephens,380,307,128
-Jefferson,87,STRAIGHT PARTY,,REP,Republican Party,48,37,142
-Jefferson,87,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,87,STRAIGHT PARTY,,,Under Votes,109,84,25
-Jefferson,87,STRAIGHT PARTY,,DEM,Democratic Party,492,388,142
-Jefferson,87,STRAIGHT PARTY,,LIB,Libertarian Party,3,1,142
-Jefferson,87,STRAIGHT PARTY,,GRN,Green Party,0,0,142
+Jefferson,87,Straight Party,,REP,Republican Party,48,37,142
+Jefferson,87,Straight Party,,,Over Votes,0,0,0
+Jefferson,87,Straight Party,,,Under Votes,109,84,25
+Jefferson,87,Straight Party,,DEM,Democratic Party,492,388,142
+Jefferson,87,Straight Party,,LIB,Libertarian Party,3,1,142
+Jefferson,87,Straight Party,,GRN,Green Party,0,0,142
 Jefferson,87,President,,REP,Donald J. Trump / Mike Pence,73,55,142
 Jefferson,87,President,,,Over Votes,0,0,0
 Jefferson,87,President,,,Under Votes,9,7,2
@@ -9452,12 +9452,12 @@ Jefferson,87,Sheriff,,REP,Ray Beck,81,66,142
 Jefferson,87,Sheriff,,,Over Votes,0,0,0
 Jefferson,87,Sheriff,,,Under Votes,6,4,2
 Jefferson,87,Sheriff,,DEM,Zena Stephens,565,440,142
-Jefferson,88,STRAIGHT PARTY,,REP,Republican Party,144,93,174
-Jefferson,88,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,88,STRAIGHT PARTY,,,Under Votes,219,161,58
-Jefferson,88,STRAIGHT PARTY,,DEM,Democratic Party,275,211,174
-Jefferson,88,STRAIGHT PARTY,,LIB,Libertarian Party,5,4,174
-Jefferson,88,STRAIGHT PARTY,,GRN,Green Party,0,0,174
+Jefferson,88,Straight Party,,REP,Republican Party,144,93,174
+Jefferson,88,Straight Party,,,Over Votes,0,0,0
+Jefferson,88,Straight Party,,,Under Votes,219,161,58
+Jefferson,88,Straight Party,,DEM,Democratic Party,275,211,174
+Jefferson,88,Straight Party,,LIB,Libertarian Party,5,4,174
+Jefferson,88,Straight Party,,GRN,Green Party,0,0,174
 Jefferson,88,President,,REP,Donald J. Trump / Mike Pence,215,138,174
 Jefferson,88,President,,,Over Votes,0,0,0
 Jefferson,88,President,,,Under Votes,7,5,2
@@ -9539,12 +9539,12 @@ Jefferson,88,Sheriff,,REP,Ray Beck,236,157,174
 Jefferson,88,Sheriff,,,Over Votes,0,0,0
 Jefferson,88,Sheriff,,,Under Votes,10,9,1
 Jefferson,88,Sheriff,,DEM,Zena Stephens,397,303,174
-Jefferson,89,STRAIGHT PARTY,,REP,Republican Party,49,39,53
-Jefferson,89,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,89,STRAIGHT PARTY,,,Under Votes,60,47,13
-Jefferson,89,STRAIGHT PARTY,,DEM,Democratic Party,145,115,53
-Jefferson,89,STRAIGHT PARTY,,LIB,Libertarian Party,1,1,53
-Jefferson,89,STRAIGHT PARTY,,GRN,Green Party,0,0,53
+Jefferson,89,Straight Party,,REP,Republican Party,49,39,53
+Jefferson,89,Straight Party,,,Over Votes,0,0,0
+Jefferson,89,Straight Party,,,Under Votes,60,47,13
+Jefferson,89,Straight Party,,DEM,Democratic Party,145,115,53
+Jefferson,89,Straight Party,,LIB,Libertarian Party,1,1,53
+Jefferson,89,Straight Party,,GRN,Green Party,0,0,53
 Jefferson,89,President,,REP,Donald J. Trump / Mike Pence,71,56,53
 Jefferson,89,President,,,Over Votes,0,0,0
 Jefferson,89,President,,,Under Votes,2,2,0
@@ -9626,12 +9626,12 @@ Jefferson,89,Sheriff,,REP,Ray Beck,71,55,53
 Jefferson,89,Sheriff,,,Over Votes,0,0,0
 Jefferson,89,Sheriff,,,Under Votes,8,7,1
 Jefferson,89,Sheriff,,DEM,Zena Stephens,176,140,53
-Jefferson,90,STRAIGHT PARTY,,REP,Republican Party,19,18,5
-Jefferson,90,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,90,STRAIGHT PARTY,,,Under Votes,22,19,3
-Jefferson,90,STRAIGHT PARTY,,DEM,Democratic Party,19,18,5
-Jefferson,90,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,5
-Jefferson,90,STRAIGHT PARTY,,GRN,Green Party,0,0,5
+Jefferson,90,Straight Party,,REP,Republican Party,19,18,5
+Jefferson,90,Straight Party,,,Over Votes,0,0,0
+Jefferson,90,Straight Party,,,Under Votes,22,19,3
+Jefferson,90,Straight Party,,DEM,Democratic Party,19,18,5
+Jefferson,90,Straight Party,,LIB,Libertarian Party,0,0,5
+Jefferson,90,Straight Party,,GRN,Green Party,0,0,5
 Jefferson,90,President,,REP,Donald J. Trump / Mike Pence,29,26,5
 Jefferson,90,President,,,Over Votes,0,0,0
 Jefferson,90,President,,,Under Votes,0,0,0
@@ -9713,12 +9713,12 @@ Jefferson,90,Sheriff,,REP,Ray Beck,34,30,5
 Jefferson,90,Sheriff,,,Over Votes,0,0,0
 Jefferson,90,Sheriff,,,Under Votes,0,0,0
 Jefferson,90,Sheriff,,DEM,Zena Stephens,26,25,5
-Jefferson,91,STRAIGHT PARTY,,REP,Republican Party,158,130,70
-Jefferson,91,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,91,STRAIGHT PARTY,,,Under Votes,220,185,35
-Jefferson,91,STRAIGHT PARTY,,DEM,Democratic Party,20,13,70
-Jefferson,91,STRAIGHT PARTY,,LIB,Libertarian Party,1,1,70
-Jefferson,91,STRAIGHT PARTY,,GRN,Green Party,0,0,70
+Jefferson,91,Straight Party,,REP,Republican Party,158,130,70
+Jefferson,91,Straight Party,,,Over Votes,0,0,0
+Jefferson,91,Straight Party,,,Under Votes,220,185,35
+Jefferson,91,Straight Party,,DEM,Democratic Party,20,13,70
+Jefferson,91,Straight Party,,LIB,Libertarian Party,1,1,70
+Jefferson,91,Straight Party,,GRN,Green Party,0,0,70
 Jefferson,91,President,,REP,Donald J. Trump / Mike Pence,344,286,70
 Jefferson,91,President,,,Over Votes,0,0,0
 Jefferson,91,President,,,Under Votes,1,0,1
@@ -9822,12 +9822,12 @@ Jefferson,91,"Trustee, Position 4",,||,Bob Thewman,177,149,70
 Jefferson,91,"Trustee, Position 4",,,Over Votes,0,0,0
 Jefferson,91,"Trustee, Position 4",,,Under Votes,111,92,19
 Jefferson,91,"Trustee, Position 4",,||,Craig Berry,111,88,70
-Jefferson,91,STRAIGHT PARTY,,REP,Republican Party,28,26,6
-Jefferson,91,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,91,STRAIGHT PARTY,,,Under Votes,29,26,3
-Jefferson,91,STRAIGHT PARTY,,DEM,Democratic Party,4,3,6
-Jefferson,91,STRAIGHT PARTY,,LIB,Libertarian Party,1,1,6
-Jefferson,91,STRAIGHT PARTY,,GRN,Green Party,0,0,6
+Jefferson,91,Straight Party,,REP,Republican Party,28,26,6
+Jefferson,91,Straight Party,,,Over Votes,0,0,0
+Jefferson,91,Straight Party,,,Under Votes,29,26,3
+Jefferson,91,Straight Party,,DEM,Democratic Party,4,3,6
+Jefferson,91,Straight Party,,LIB,Libertarian Party,1,1,6
+Jefferson,91,Straight Party,,GRN,Green Party,0,0,6
 Jefferson,91,President,,REP,Donald J. Trump / Mike Pence,51,47,6
 Jefferson,91,President,,,Over Votes,0,0,0
 Jefferson,91,President,,,Under Votes,2,2,0
@@ -9909,12 +9909,12 @@ Jefferson,91,Sheriff,,REP,Ray Beck,55,50,6
 Jefferson,91,Sheriff,,,Over Votes,0,0,0
 Jefferson,91,Sheriff,,,Under Votes,1,1,0
 Jefferson,91,Sheriff,,DEM,Zena Stephens,6,5,6
-Jefferson,92,STRAIGHT PARTY,,REP,Republican Party,197,158,99
-Jefferson,92,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,92,STRAIGHT PARTY,,,Under Votes,307,256,51
-Jefferson,92,STRAIGHT PARTY,,DEM,Democratic Party,103,96,99
-Jefferson,92,STRAIGHT PARTY,,LIB,Libertarian Party,3,1,99
-Jefferson,92,STRAIGHT PARTY,,GRN,Green Party,0,0,99
+Jefferson,92,Straight Party,,REP,Republican Party,197,158,99
+Jefferson,92,Straight Party,,,Over Votes,0,0,0
+Jefferson,92,Straight Party,,,Under Votes,307,256,51
+Jefferson,92,Straight Party,,DEM,Democratic Party,103,96,99
+Jefferson,92,Straight Party,,LIB,Libertarian Party,3,1,99
+Jefferson,92,Straight Party,,GRN,Green Party,0,0,99
 Jefferson,92,President,,REP,Donald J. Trump / Mike Pence,417,340,99
 Jefferson,92,President,,,Over Votes,0,0,0
 Jefferson,92,President,,,Under Votes,12,9,3
@@ -10018,12 +10018,12 @@ Jefferson,92,"Trustee, Position 4",,||,Bob Thewman,263,221,99
 Jefferson,92,"Trustee, Position 4",,,Over Votes,0,0,0
 Jefferson,92,"Trustee, Position 4",,,Under Votes,201,167,34
 Jefferson,92,"Trustee, Position 4",,||,Craig Berry,146,123,99
-Jefferson,92,STRAIGHT PARTY,,REP,Republican Party,56,44,35
-Jefferson,92,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,92,STRAIGHT PARTY,,,Under Votes,67,53,14
-Jefferson,92,STRAIGHT PARTY,,DEM,Democratic Party,59,50,35
-Jefferson,92,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,35
-Jefferson,92,STRAIGHT PARTY,,GRN,Green Party,1,1,35
+Jefferson,92,Straight Party,,REP,Republican Party,56,44,35
+Jefferson,92,Straight Party,,,Over Votes,0,0,0
+Jefferson,92,Straight Party,,,Under Votes,67,53,14
+Jefferson,92,Straight Party,,DEM,Democratic Party,59,50,35
+Jefferson,92,Straight Party,,LIB,Libertarian Party,0,0,35
+Jefferson,92,Straight Party,,GRN,Green Party,1,1,35
 Jefferson,92,President,,REP,Donald J. Trump / Mike Pence,98,79,35
 Jefferson,92,President,,,Over Votes,0,0,0
 Jefferson,92,President,,,Under Votes,0,0,0
@@ -10105,12 +10105,12 @@ Jefferson,92,Sheriff,,REP,Ray Beck,82,66,35
 Jefferson,92,Sheriff,,,Over Votes,0,0,0
 Jefferson,92,Sheriff,,,Under Votes,4,4,0
 Jefferson,92,Sheriff,,DEM,Zena Stephens,97,78,35
-Jefferson,93,STRAIGHT PARTY,,REP,Republican Party,42,32,114
-Jefferson,93,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,93,STRAIGHT PARTY,,,Under Votes,57,43,14
-Jefferson,93,STRAIGHT PARTY,,DEM,Democratic Party,264,175,114
-Jefferson,93,STRAIGHT PARTY,,LIB,Libertarian Party,4,4,114
-Jefferson,93,STRAIGHT PARTY,,GRN,Green Party,2,1,114
+Jefferson,93,Straight Party,,REP,Republican Party,42,32,114
+Jefferson,93,Straight Party,,,Over Votes,0,0,0
+Jefferson,93,Straight Party,,,Under Votes,57,43,14
+Jefferson,93,Straight Party,,DEM,Democratic Party,264,175,114
+Jefferson,93,Straight Party,,LIB,Libertarian Party,4,4,114
+Jefferson,93,Straight Party,,GRN,Green Party,2,1,114
 Jefferson,93,President,,REP,Donald J. Trump / Mike Pence,55,40,114
 Jefferson,93,President,,,Over Votes,0,0,0
 Jefferson,93,President,,,Under Votes,6,5,1
@@ -10202,12 +10202,12 @@ Jefferson,93,Port Arthur Charter Amendment,,,Yes,161,119,114
 Jefferson,93,Port Arthur Charter Amendment,,,Over Votes,0,0,0
 Jefferson,93,Port Arthur Charter Amendment,,,Under Votes,101,65,36
 Jefferson,93,Port Arthur Charter Amendment,,,No,107,71,114
-Jefferson,94,STRAIGHT PARTY,,REP,Republican Party,560,499,182
-Jefferson,94,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,94,STRAIGHT PARTY,,,Under Votes,683,599,84
-Jefferson,94,STRAIGHT PARTY,,DEM,Democratic Party,203,166,182
-Jefferson,94,STRAIGHT PARTY,,LIB,Libertarian Party,2,2,182
-Jefferson,94,STRAIGHT PARTY,,GRN,Green Party,0,0,182
+Jefferson,94,Straight Party,,REP,Republican Party,560,499,182
+Jefferson,94,Straight Party,,,Over Votes,0,0,0
+Jefferson,94,Straight Party,,,Under Votes,683,599,84
+Jefferson,94,Straight Party,,DEM,Democratic Party,203,166,182
+Jefferson,94,Straight Party,,LIB,Libertarian Party,2,2,182
+Jefferson,94,Straight Party,,GRN,Green Party,0,0,182
 Jefferson,94,President,,REP,Donald J. Trump / Mike Pence,1005,895,182
 Jefferson,94,President,,,Over Votes,0,0,0
 Jefferson,94,President,,,Under Votes,22,20,2
@@ -10289,12 +10289,12 @@ Jefferson,94,Sheriff,,REP,Ray Beck,994,883,182
 Jefferson,94,Sheriff,,,Over Votes,0,0,0
 Jefferson,94,Sheriff,,,Under Votes,28,22,6
 Jefferson,94,Sheriff,,DEM,Zena Stephens,426,361,182
-Jefferson,95,STRAIGHT PARTY,,REP,Republican Party,45,40,11
-Jefferson,95,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,95,STRAIGHT PARTY,,,Under Votes,45,41,4
-Jefferson,95,STRAIGHT PARTY,,DEM,Democratic Party,17,15,11
-Jefferson,95,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,11
-Jefferson,95,STRAIGHT PARTY,,GRN,Green Party,0,0,11
+Jefferson,95,Straight Party,,REP,Republican Party,45,40,11
+Jefferson,95,Straight Party,,,Over Votes,0,0,0
+Jefferson,95,Straight Party,,,Under Votes,45,41,4
+Jefferson,95,Straight Party,,DEM,Democratic Party,17,15,11
+Jefferson,95,Straight Party,,LIB,Libertarian Party,0,0,11
+Jefferson,95,Straight Party,,GRN,Green Party,0,0,11
 Jefferson,95,President,,REP,Donald J. Trump / Mike Pence,76,68,11
 Jefferson,95,President,,,Over Votes,0,0,0
 Jefferson,95,President,,,Under Votes,2,2,0
@@ -10399,12 +10399,12 @@ Jefferson,95,Port Arthur Charter Amendment,,,Yes,46,40,11
 Jefferson,95,Port Arthur Charter Amendment,,,Over Votes,0,0,0
 Jefferson,95,Port Arthur Charter Amendment,,,Under Votes,39,35,4
 Jefferson,95,Port Arthur Charter Amendment,,,No,22,21,11
-Jefferson,95,STRAIGHT PARTY,,REP,Republican Party,85,72,36
-Jefferson,95,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,95,STRAIGHT PARTY,,,Under Votes,73,66,7
-Jefferson,95,STRAIGHT PARTY,,DEM,Democratic Party,64,51,36
-Jefferson,95,STRAIGHT PARTY,,LIB,Libertarian Party,3,0,36
-Jefferson,95,STRAIGHT PARTY,,GRN,Green Party,0,0,36
+Jefferson,95,Straight Party,,REP,Republican Party,85,72,36
+Jefferson,95,Straight Party,,,Over Votes,0,0,0
+Jefferson,95,Straight Party,,,Under Votes,73,66,7
+Jefferson,95,Straight Party,,DEM,Democratic Party,64,51,36
+Jefferson,95,Straight Party,,LIB,Libertarian Party,3,0,36
+Jefferson,95,Straight Party,,GRN,Green Party,0,0,36
 Jefferson,95,President,,REP,Donald J. Trump / Mike Pence,124,108,36
 Jefferson,95,President,,,Over Votes,0,0,0
 Jefferson,95,President,,,Under Votes,0,0,0
@@ -10496,12 +10496,12 @@ Jefferson,95,Port Arthur Charter Amendment,,,Yes,123,103,36
 Jefferson,95,Port Arthur Charter Amendment,,,Over Votes,0,0,0
 Jefferson,95,Port Arthur Charter Amendment,,,Under Votes,62,51,11
 Jefferson,95,Port Arthur Charter Amendment,,,No,40,35,36
-Jefferson,96,STRAIGHT PARTY,,REP,Republican Party,35,30,64
-Jefferson,96,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,96,STRAIGHT PARTY,,,Under Votes,56,45,11
-Jefferson,96,STRAIGHT PARTY,,DEM,Democratic Party,197,150,64
-Jefferson,96,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,64
-Jefferson,96,STRAIGHT PARTY,,GRN,Green Party,0,0,64
+Jefferson,96,Straight Party,,REP,Republican Party,35,30,64
+Jefferson,96,Straight Party,,,Over Votes,0,0,0
+Jefferson,96,Straight Party,,,Under Votes,56,45,11
+Jefferson,96,Straight Party,,DEM,Democratic Party,197,150,64
+Jefferson,96,Straight Party,,LIB,Libertarian Party,1,0,64
+Jefferson,96,Straight Party,,GRN,Green Party,0,0,64
 Jefferson,96,President,,REP,Donald J. Trump / Mike Pence,57,50,64
 Jefferson,96,President,,,Over Votes,0,0,0
 Jefferson,96,President,,,Under Votes,5,3,2
@@ -10593,12 +10593,12 @@ Jefferson,96,Port Arthur Charter Amendment,,,Yes,146,110,64
 Jefferson,96,Port Arthur Charter Amendment,,,Over Votes,0,0,0
 Jefferson,96,Port Arthur Charter Amendment,,,Under Votes,80,66,14
 Jefferson,96,Port Arthur Charter Amendment,,,No,63,49,64
-Jefferson,97,STRAIGHT PARTY,,REP,Republican Party,0,0,0
-Jefferson,97,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,97,STRAIGHT PARTY,,,Under Votes,1,1,0
-Jefferson,97,STRAIGHT PARTY,,DEM,Democratic Party,0,0,0
-Jefferson,97,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0
-Jefferson,97,STRAIGHT PARTY,,GRN,Green Party,0,0,0
+Jefferson,97,Straight Party,,REP,Republican Party,0,0,0
+Jefferson,97,Straight Party,,,Over Votes,0,0,0
+Jefferson,97,Straight Party,,,Under Votes,1,1,0
+Jefferson,97,Straight Party,,DEM,Democratic Party,0,0,0
+Jefferson,97,Straight Party,,LIB,Libertarian Party,0,0,0
+Jefferson,97,Straight Party,,GRN,Green Party,0,0,0
 Jefferson,97,President,,REP,Donald J. Trump / Mike Pence,1,1,0
 Jefferson,97,President,,,Over Votes,0,0,0
 Jefferson,97,President,,,Under Votes,0,0,0
@@ -10690,12 +10690,12 @@ Jefferson,97,Port Arthur Charter Amendment,,,Yes,1,1,0
 Jefferson,97,Port Arthur Charter Amendment,,,Over Votes,0,0,0
 Jefferson,97,Port Arthur Charter Amendment,,,Under Votes,0,0,0
 Jefferson,97,Port Arthur Charter Amendment,,,No,0,0,0
-Jefferson,98,STRAIGHT PARTY,,REP,Republican Party,87,68,51
-Jefferson,98,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,98,STRAIGHT PARTY,,,Under Votes,102,79,23
-Jefferson,98,STRAIGHT PARTY,,DEM,Democratic Party,56,48,51
-Jefferson,98,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,51
-Jefferson,98,STRAIGHT PARTY,,GRN,Green Party,0,0,51
+Jefferson,98,Straight Party,,REP,Republican Party,87,68,51
+Jefferson,98,Straight Party,,,Over Votes,0,0,0
+Jefferson,98,Straight Party,,,Under Votes,102,79,23
+Jefferson,98,Straight Party,,DEM,Democratic Party,56,48,51
+Jefferson,98,Straight Party,,LIB,Libertarian Party,1,0,51
+Jefferson,98,Straight Party,,GRN,Green Party,0,0,51
 Jefferson,98,President,,REP,Donald J. Trump / Mike Pence,142,112,51
 Jefferson,98,President,,,Over Votes,0,0,0
 Jefferson,98,President,,,Under Votes,3,3,0
@@ -10787,12 +10787,12 @@ Jefferson,98,Port Arthur Charter Amendment,,,Yes,143,111,51
 Jefferson,98,Port Arthur Charter Amendment,,,Over Votes,0,0,0
 Jefferson,98,Port Arthur Charter Amendment,,,Under Votes,69,53,16
 Jefferson,98,Port Arthur Charter Amendment,,,No,34,31,51
-Jefferson,99,STRAIGHT PARTY,,REP,Republican Party,65,52,94
-Jefferson,99,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,99,STRAIGHT PARTY,,,Under Votes,143,112,31
-Jefferson,99,STRAIGHT PARTY,,DEM,Democratic Party,203,156,94
-Jefferson,99,STRAIGHT PARTY,,LIB,Libertarian Party,3,1,94
-Jefferson,99,STRAIGHT PARTY,,GRN,Green Party,2,1,94
+Jefferson,99,Straight Party,,REP,Republican Party,65,52,94
+Jefferson,99,Straight Party,,,Over Votes,0,0,0
+Jefferson,99,Straight Party,,,Under Votes,143,112,31
+Jefferson,99,Straight Party,,DEM,Democratic Party,203,156,94
+Jefferson,99,Straight Party,,LIB,Libertarian Party,3,1,94
+Jefferson,99,Straight Party,,GRN,Green Party,2,1,94
 Jefferson,99,President,,REP,Donald J. Trump / Mike Pence,117,91,94
 Jefferson,99,President,,,Over Votes,0,0,0
 Jefferson,99,President,,,Under Votes,8,7,1
@@ -10874,12 +10874,12 @@ Jefferson,99,Sheriff,,REP,Ray Beck,114,95,94
 Jefferson,99,Sheriff,,,Over Votes,0,0,0
 Jefferson,99,Sheriff,,,Under Votes,16,8,8
 Jefferson,99,Sheriff,,DEM,Zena Stephens,286,219,94
-Jefferson,100,STRAIGHT PARTY,,REP,Republican Party,598,517,246
-Jefferson,100,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,100,STRAIGHT PARTY,,,Under Votes,759,667,92
-Jefferson,100,STRAIGHT PARTY,,DEM,Democratic Party,444,377,246
-Jefferson,100,STRAIGHT PARTY,,LIB,Libertarian Party,14,9,246
-Jefferson,100,STRAIGHT PARTY,,GRN,Green Party,2,1,246
+Jefferson,100,Straight Party,,REP,Republican Party,598,517,246
+Jefferson,100,Straight Party,,,Over Votes,0,0,0
+Jefferson,100,Straight Party,,,Under Votes,759,667,92
+Jefferson,100,Straight Party,,DEM,Democratic Party,444,377,246
+Jefferson,100,Straight Party,,LIB,Libertarian Party,14,9,246
+Jefferson,100,Straight Party,,GRN,Green Party,2,1,246
 Jefferson,100,President,,REP,Donald J. Trump / Mike Pence,1042,917,246
 Jefferson,100,President,,,Over Votes,0,0,0
 Jefferson,100,President,,,Under Votes,24,23,1
@@ -10961,12 +10961,12 @@ Jefferson,100,Sheriff,,REP,Ray Beck,1030,903,246
 Jefferson,100,Sheriff,,,Over Votes,0,0,0
 Jefferson,100,Sheriff,,,Under Votes,30,21,9
 Jefferson,100,Sheriff,,DEM,Zena Stephens,757,647,246
-Jefferson,101,STRAIGHT PARTY,,REP,Republican Party,1,1,1
-Jefferson,101,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,101,STRAIGHT PARTY,,,Under Votes,0,0,0
-Jefferson,101,STRAIGHT PARTY,,DEM,Democratic Party,1,0,1
-Jefferson,101,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,1
-Jefferson,101,STRAIGHT PARTY,,GRN,Green Party,0,0,1
+Jefferson,101,Straight Party,,REP,Republican Party,1,1,1
+Jefferson,101,Straight Party,,,Over Votes,0,0,0
+Jefferson,101,Straight Party,,,Under Votes,0,0,0
+Jefferson,101,Straight Party,,DEM,Democratic Party,1,0,1
+Jefferson,101,Straight Party,,LIB,Libertarian Party,0,0,1
+Jefferson,101,Straight Party,,GRN,Green Party,0,0,1
 Jefferson,101,President,,REP,Donald J. Trump / Mike Pence,1,1,1
 Jefferson,101,President,,,Over Votes,0,0,0
 Jefferson,101,President,,,Under Votes,0,0,0
@@ -11070,12 +11070,12 @@ Jefferson,101,"Trustee, Position 4",,||,Bob Thewman,1,1,1
 Jefferson,101,"Trustee, Position 4",,,Over Votes,0,0,0
 Jefferson,101,"Trustee, Position 4",,,Under Votes,0,0,0
 Jefferson,101,"Trustee, Position 4",,||,Craig Berry,1,0,1
-Jefferson,102,STRAIGHT PARTY,,REP,Republican Party,2,2,0
-Jefferson,102,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,102,STRAIGHT PARTY,,,Under Votes,0,0,0
-Jefferson,102,STRAIGHT PARTY,,DEM,Democratic Party,0,0,0
-Jefferson,102,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0
-Jefferson,102,STRAIGHT PARTY,,GRN,Green Party,0,0,0
+Jefferson,102,Straight Party,,REP,Republican Party,2,2,0
+Jefferson,102,Straight Party,,,Over Votes,0,0,0
+Jefferson,102,Straight Party,,,Under Votes,0,0,0
+Jefferson,102,Straight Party,,DEM,Democratic Party,0,0,0
+Jefferson,102,Straight Party,,LIB,Libertarian Party,0,0,0
+Jefferson,102,Straight Party,,GRN,Green Party,0,0,0
 Jefferson,102,President,,REP,Donald J. Trump / Mike Pence,2,2,0
 Jefferson,102,President,,,Over Votes,0,0,0
 Jefferson,102,President,,,Under Votes,0,0,0
@@ -11170,12 +11170,12 @@ Jefferson,102,"School Board Trustee, Place 5",,||,Brandon Cropper,0,0,0
 Jefferson,102,"School Board Trustee, Place 5",,,Over Votes,0,0,0
 Jefferson,102,"School Board Trustee, Place 5",,,Under Votes,2,2,0
 Jefferson,102,"School Board Trustee, Place 5",,||,Rodney Balsamo,0,0,0
-Jefferson,102,STRAIGHT PARTY,,REP,Republican Party,44,32,25
-Jefferson,102,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,102,STRAIGHT PARTY,,,Under Votes,54,46,8
-Jefferson,102,STRAIGHT PARTY,,DEM,Democratic Party,24,19,25
-Jefferson,102,STRAIGHT PARTY,,LIB,Libertarian Party,1,1,25
-Jefferson,102,STRAIGHT PARTY,,GRN,Green Party,0,0,25
+Jefferson,102,Straight Party,,REP,Republican Party,44,32,25
+Jefferson,102,Straight Party,,,Over Votes,0,0,0
+Jefferson,102,Straight Party,,,Under Votes,54,46,8
+Jefferson,102,Straight Party,,DEM,Democratic Party,24,19,25
+Jefferson,102,Straight Party,,LIB,Libertarian Party,1,1,25
+Jefferson,102,Straight Party,,GRN,Green Party,0,0,25
 Jefferson,102,President,,REP,Donald J. Trump / Mike Pence,85,69,25
 Jefferson,102,President,,,Over Votes,0,0,0
 Jefferson,102,President,,,Under Votes,3,1,2
@@ -11280,12 +11280,12 @@ Jefferson,102,Port Arthur Charter Amendment,,,Yes,66,54,25
 Jefferson,102,Port Arthur Charter Amendment,,,Over Votes,0,0,0
 Jefferson,102,Port Arthur Charter Amendment,,,Under Votes,44,33,11
 Jefferson,102,Port Arthur Charter Amendment,,,No,13,11,25
-Jefferson,103,STRAIGHT PARTY,,REP,Republican Party,11,10,4
-Jefferson,103,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,103,STRAIGHT PARTY,,,Under Votes,5,2,3
-Jefferson,103,STRAIGHT PARTY,,DEM,Democratic Party,0,0,4
-Jefferson,103,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,4
-Jefferson,103,STRAIGHT PARTY,,GRN,Green Party,0,0,4
+Jefferson,103,Straight Party,,REP,Republican Party,11,10,4
+Jefferson,103,Straight Party,,,Over Votes,0,0,0
+Jefferson,103,Straight Party,,,Under Votes,5,2,3
+Jefferson,103,Straight Party,,DEM,Democratic Party,0,0,4
+Jefferson,103,Straight Party,,LIB,Libertarian Party,0,0,4
+Jefferson,103,Straight Party,,GRN,Green Party,0,0,4
 Jefferson,103,President,,REP,Donald J. Trump / Mike Pence,14,11,4
 Jefferson,103,President,,,Over Votes,0,0,0
 Jefferson,103,President,,,Under Votes,1,1,0
@@ -11367,12 +11367,12 @@ Jefferson,103,Sheriff,,REP,Ray Beck,15,12,4
 Jefferson,103,Sheriff,,,Over Votes,0,0,0
 Jefferson,103,Sheriff,,,Under Votes,0,0,0
 Jefferson,103,Sheriff,,DEM,Zena Stephens,1,0,4
-Jefferson,104,STRAIGHT PARTY,,REP,Republican Party,26,21,8
-Jefferson,104,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,104,STRAIGHT PARTY,,,Under Votes,27,24,3
-Jefferson,104,STRAIGHT PARTY,,DEM,Democratic Party,5,5,8
-Jefferson,104,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,8
-Jefferson,104,STRAIGHT PARTY,,GRN,Green Party,0,0,8
+Jefferson,104,Straight Party,,REP,Republican Party,26,21,8
+Jefferson,104,Straight Party,,,Over Votes,0,0,0
+Jefferson,104,Straight Party,,,Under Votes,27,24,3
+Jefferson,104,Straight Party,,DEM,Democratic Party,5,5,8
+Jefferson,104,Straight Party,,LIB,Libertarian Party,0,0,8
+Jefferson,104,Straight Party,,GRN,Green Party,0,0,8
 Jefferson,104,President,,REP,Donald J. Trump / Mike Pence,42,34,8
 Jefferson,104,President,,,Over Votes,0,0,0
 Jefferson,104,President,,,Under Votes,1,1,0
@@ -11464,12 +11464,12 @@ Jefferson,104,Port Arthur Charter Amendment,,,Yes,34,29,8
 Jefferson,104,Port Arthur Charter Amendment,,,Over Votes,0,0,0
 Jefferson,104,Port Arthur Charter Amendment,,,Under Votes,13,12,1
 Jefferson,104,Port Arthur Charter Amendment,,,No,11,9,8
-Jefferson,105,STRAIGHT PARTY,,REP,Republican Party,19,13,31
-Jefferson,105,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,105,STRAIGHT PARTY,,,Under Votes,18,13,5
-Jefferson,105,STRAIGHT PARTY,,DEM,Democratic Party,41,21,31
-Jefferson,105,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,31
-Jefferson,105,STRAIGHT PARTY,,GRN,Green Party,0,0,31
+Jefferson,105,Straight Party,,REP,Republican Party,19,13,31
+Jefferson,105,Straight Party,,,Over Votes,0,0,0
+Jefferson,105,Straight Party,,,Under Votes,18,13,5
+Jefferson,105,Straight Party,,DEM,Democratic Party,41,21,31
+Jefferson,105,Straight Party,,LIB,Libertarian Party,0,0,31
+Jefferson,105,Straight Party,,GRN,Green Party,0,0,31
 Jefferson,105,President,,REP,Donald J. Trump / Mike Pence,26,19,31
 Jefferson,105,President,,,Over Votes,0,0,0
 Jefferson,105,President,,,Under Votes,2,2,0
@@ -11561,12 +11561,12 @@ Jefferson,105,Port Arthur Charter Amendment,,,Yes,38,20,31
 Jefferson,105,Port Arthur Charter Amendment,,,Over Votes,0,0,0
 Jefferson,105,Port Arthur Charter Amendment,,,Under Votes,24,19,5
 Jefferson,105,Port Arthur Charter Amendment,,,No,16,8,31
-Jefferson,106,STRAIGHT PARTY,,REP,Republican Party,8,6,5
-Jefferson,106,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,106,STRAIGHT PARTY,,,Under Votes,6,4,2
-Jefferson,106,STRAIGHT PARTY,,DEM,Democratic Party,5,4,5
-Jefferson,106,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,5
-Jefferson,106,STRAIGHT PARTY,,GRN,Green Party,0,0,5
+Jefferson,106,Straight Party,,REP,Republican Party,8,6,5
+Jefferson,106,Straight Party,,,Over Votes,0,0,0
+Jefferson,106,Straight Party,,,Under Votes,6,4,2
+Jefferson,106,Straight Party,,DEM,Democratic Party,5,4,5
+Jefferson,106,Straight Party,,LIB,Libertarian Party,0,0,5
+Jefferson,106,Straight Party,,GRN,Green Party,0,0,5
 Jefferson,106,President,,REP,Donald J. Trump / Mike Pence,13,10,5
 Jefferson,106,President,,,Over Votes,0,0,0
 Jefferson,106,President,,,Under Votes,0,0,0
@@ -11648,12 +11648,12 @@ Jefferson,106,Sheriff,,REP,Ray Beck,14,10,5
 Jefferson,106,Sheriff,,,Over Votes,0,0,0
 Jefferson,106,Sheriff,,,Under Votes,0,0,0
 Jefferson,106,Sheriff,,DEM,Zena Stephens,5,4,5
-Jefferson,107,STRAIGHT PARTY,,REP,Republican Party,0,0,0
-Jefferson,107,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,107,STRAIGHT PARTY,,,Under Votes,1,1,0
-Jefferson,107,STRAIGHT PARTY,,DEM,Democratic Party,1,1,0
-Jefferson,107,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0
-Jefferson,107,STRAIGHT PARTY,,GRN,Green Party,0,0,0
+Jefferson,107,Straight Party,,REP,Republican Party,0,0,0
+Jefferson,107,Straight Party,,,Over Votes,0,0,0
+Jefferson,107,Straight Party,,,Under Votes,1,1,0
+Jefferson,107,Straight Party,,DEM,Democratic Party,1,1,0
+Jefferson,107,Straight Party,,LIB,Libertarian Party,0,0,0
+Jefferson,107,Straight Party,,GRN,Green Party,0,0,0
 Jefferson,107,President,,REP,Donald J. Trump / Mike Pence,1,1,0
 Jefferson,107,President,,,Over Votes,0,0,0
 Jefferson,107,President,,,Under Votes,0,0,0
@@ -11735,12 +11735,12 @@ Jefferson,107,Sheriff,,REP,Ray Beck,1,1,0
 Jefferson,107,Sheriff,,,Over Votes,0,0,0
 Jefferson,107,Sheriff,,,Under Votes,1,1,0
 Jefferson,107,Sheriff,,DEM,Zena Stephens,0,0,0
-Jefferson,108,STRAIGHT PARTY,,REP,Republican Party,121,105,47
-Jefferson,108,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,108,STRAIGHT PARTY,,,Under Votes,192,167,25
-Jefferson,108,STRAIGHT PARTY,,DEM,Democratic Party,16,11,47
-Jefferson,108,STRAIGHT PARTY,,LIB,Libertarian Party,2,1,47
-Jefferson,108,STRAIGHT PARTY,,GRN,Green Party,0,0,47
+Jefferson,108,Straight Party,,REP,Republican Party,121,105,47
+Jefferson,108,Straight Party,,,Over Votes,0,0,0
+Jefferson,108,Straight Party,,,Under Votes,192,167,25
+Jefferson,108,Straight Party,,DEM,Democratic Party,16,11,47
+Jefferson,108,Straight Party,,LIB,Libertarian Party,2,1,47
+Jefferson,108,Straight Party,,GRN,Green Party,0,0,47
 Jefferson,108,President,,REP,Donald J. Trump / Mike Pence,277,241,47
 Jefferson,108,President,,,Over Votes,0,0,0
 Jefferson,108,President,,,Under Votes,1,1,0
@@ -11844,12 +11844,12 @@ Jefferson,108,"Trustee, Position 4",,||,Bob Thewman,158,132,47
 Jefferson,108,"Trustee, Position 4",,,Over Votes,0,0,0
 Jefferson,108,"Trustee, Position 4",,,Under Votes,70,59,11
 Jefferson,108,"Trustee, Position 4",,||,Craig Berry,103,93,47
-Jefferson,109,STRAIGHT PARTY,,REP,Republican Party,60,51,26
-Jefferson,109,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,109,STRAIGHT PARTY,,,Under Votes,66,54,12
-Jefferson,109,STRAIGHT PARTY,,DEM,Democratic Party,16,11,26
-Jefferson,109,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,26
-Jefferson,109,STRAIGHT PARTY,,GRN,Green Party,1,1,26
+Jefferson,109,Straight Party,,REP,Republican Party,60,51,26
+Jefferson,109,Straight Party,,,Over Votes,0,0,0
+Jefferson,109,Straight Party,,,Under Votes,66,54,12
+Jefferson,109,Straight Party,,DEM,Democratic Party,16,11,26
+Jefferson,109,Straight Party,,LIB,Libertarian Party,0,0,26
+Jefferson,109,Straight Party,,GRN,Green Party,1,1,26
 Jefferson,109,President,,REP,Donald J. Trump / Mike Pence,111,94,26
 Jefferson,109,President,,,Over Votes,0,0,0
 Jefferson,109,President,,,Under Votes,2,1,1
@@ -11944,12 +11944,12 @@ Jefferson,109,"School Board Trustee, Place 5",,||,Brandon Cropper,56,47,26
 Jefferson,109,"School Board Trustee, Place 5",,,Over Votes,0,0,0
 Jefferson,109,"School Board Trustee, Place 5",,,Under Votes,41,32,9
 Jefferson,109,"School Board Trustee, Place 5",,||,Rodney Balsamo,46,38,26
-Jefferson,110,STRAIGHT PARTY,,REP,Republican Party,90,90,0
-Jefferson,110,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,110,STRAIGHT PARTY,,,Under Votes,94,94,0
-Jefferson,110,STRAIGHT PARTY,,DEM,Democratic Party,83,83,0
-Jefferson,110,STRAIGHT PARTY,,LIB,Libertarian Party,7,7,0
-Jefferson,110,STRAIGHT PARTY,,GRN,Green Party,0,0,0
+Jefferson,110,Straight Party,,REP,Republican Party,90,90,0
+Jefferson,110,Straight Party,,,Over Votes,0,0,0
+Jefferson,110,Straight Party,,,Under Votes,94,94,0
+Jefferson,110,Straight Party,,DEM,Democratic Party,83,83,0
+Jefferson,110,Straight Party,,LIB,Libertarian Party,7,7,0
+Jefferson,110,Straight Party,,GRN,Green Party,0,0,0
 Jefferson,110,President,,REP,Donald J. Trump / Mike Pence,141,141,0
 Jefferson,110,President,,,Over Votes,0,0,0
 Jefferson,110,President,,,Under Votes,3,3,0
@@ -12019,12 +12019,12 @@ Jefferson,110,"State Representative,  ",22,,Under Votes,252,252,0
 Jefferson,110,"Justice, 9th Court of Appeals District, Place 2",,REP,Charles A. Kreger,55,55,0
 Jefferson,110,"Justice, 9th Court of Appeals District, Place 2",,,Over Votes,0,0,0
 Jefferson,110,"Justice, 9th Court of Appeals District, Place 2",,,Under Votes,219,219,0
-Jefferson,111,STRAIGHT PARTY,,REP,Republican Party,3,3,0
-Jefferson,111,STRAIGHT PARTY,,,Over Votes,0,0,0
-Jefferson,111,STRAIGHT PARTY,,,Under Votes,30,30,0
-Jefferson,111,STRAIGHT PARTY,,DEM,Democratic Party,8,8,0
-Jefferson,111,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0
-Jefferson,111,STRAIGHT PARTY,,GRN,Green Party,0,0,0
+Jefferson,111,Straight Party,,REP,Republican Party,3,3,0
+Jefferson,111,Straight Party,,,Over Votes,0,0,0
+Jefferson,111,Straight Party,,,Under Votes,30,30,0
+Jefferson,111,Straight Party,,DEM,Democratic Party,8,8,0
+Jefferson,111,Straight Party,,LIB,Libertarian Party,0,0,0
+Jefferson,111,Straight Party,,GRN,Green Party,0,0,0
 Jefferson,111,President,,REP,Donald J. Trump / Mike Pence,12,12,0
 Jefferson,111,President,,,Over Votes,0,0,0
 Jefferson,111,President,,,Under Votes,0,0,0
