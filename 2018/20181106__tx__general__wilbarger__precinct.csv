@@ -1,7 +1,7 @@
 county,precinct,office,district,party,candidate,votes,early_voting,election_day
-Wilbarger,Precinct 1,Candidate for:,,REP,Republican Party,176,100,76
-Wilbarger,Precinct 1,Candidate for:,,DEM,Democratic Party,59,31,28
-Wilbarger,Precinct 1,Candidate for:,,LIB,Libertarian Party,4,2,2
+Wilbarger,Precinct 1,Straight Party,,REP,Republican Party,176,100,76
+Wilbarger,Precinct 1,Straight Party,,DEM,Democratic Party,59,31,28
+Wilbarger,Precinct 1,Straight Party,,LIB,Libertarian Party,4,2,2
 Wilbarger,Precinct 1,Registered Voters,,,,1352,,
 Wilbarger,Precinct 1,U.S. Senate,,REP,Ted Cruz,430,288,142
 Wilbarger,Precinct 1,U.S. Senate,,DEM,Beto O'Rourke,95,51,44
@@ -42,7 +42,7 @@ Wilbarger,Precinct 1,"Judge, Court of Criminal Appeals Place 7",,REP,Barbara Par
 Wilbarger,Precinct 1,"Judge, Court of Criminal Appeals Place 7",,DEM,Ramona Franklin,94,53,41
 Wilbarger,Precinct 1,"Judge, Court of Criminal Appeals Place 8",,REP,MIchelle Slaughter,434,285,149
 Wilbarger,Precinct 1,"Judge, Court of Criminal Appeals Place 8",,LIB,Mark Ash,39,19,20
-Wilbarger,Precinct 1,State Representative District 68,,REP,Drew Springer,452,293,159
+Wilbarger,Precinct 1,State Representative,68,REP,Drew Springer,452,293,159
 Wilbarger,Precinct 1,"Justice, 7th Court of Appeals District Place 2",,REP,Judy Parker,446,289,157
 Wilbarger,Precinct 1,"Justice, 7th Court of Appeals District Place 3, Unexipired Term",,REP,Pat Pirtle,449,290,159
 Wilbarger,Precinct 1,"District Judge, 46th Judicial District",,REP,Dan Mike Bird,459,297,162
@@ -53,9 +53,9 @@ Wilbarger,Precinct 1,County Treasurer,,DEM,Joann Carter,330,214,116
 Wilbarger,Precinct 1,"County Commissioner, Precinct No. 1",,REP,John T. Wright,261,155,106
 Wilbarger,Precinct 1,"County Commissioner, Precinct No. 1",,DEM,Billy D. Taylor,274,191,83
 Wilbarger,Precinct 1,"Justice of the Peace, Precinct No. 1",,REP,Gene Morton,460,299,161
-Wilbarger,Precinct 9,Candidate for:,,REP,Republican Party,183,123,60
-Wilbarger,Precinct 9,Candidate for:,,DEM,Democratic Party,56,39,17
-Wilbarger,Precinct 9,Candidate for:,,LIB,Libertarian Party,2,2,0
+Wilbarger,Precinct 9,Straight Party,,REP,Republican Party,183,123,60
+Wilbarger,Precinct 9,Straight Party,,DEM,Democratic Party,56,39,17
+Wilbarger,Precinct 9,Straight Party,,LIB,Libertarian Party,2,2,0
 Wilbarger,Precinct 9,Registered Voters,,,,1021,,
 Wilbarger,Precinct 9,U.S. Senate,,REP,Ted Cruz,355,250,105
 Wilbarger,Precinct 9,U.S. Senate,,DEM,Beto O'Rourke,116,81,35
@@ -96,7 +96,7 @@ Wilbarger,Precinct 9,"Judge, Court of Criminal Appeals Place 7",,REP,Barbara Par
 Wilbarger,Precinct 9,"Judge, Court of Criminal Appeals Place 7",,DEM,Ramona Franklin,107,76,31
 Wilbarger,Precinct 9,"Judge, Court of Criminal Appeals Place 8",,REP,MIchelle Slaughter,384,273,111
 Wilbarger,Precinct 9,"Judge, Court of Criminal Appeals Place 8",,LIB,Mark Ash,39,28,11
-Wilbarger,Precinct 9,State Representative District 68,,REP,Drew Springer,407,288,119
+Wilbarger,Precinct 9,State Representative,68,REP,Drew Springer,407,288,119
 Wilbarger,Precinct 9,"Justice, 7th Court of Appeals District Place 2",,REP,Judy Parker,406,287,119
 Wilbarger,Precinct 9,"Justice, 7th Court of Appeals District Place 3, Unexipired Term",,REP,Pat Pirtle,408,289,119
 Wilbarger,Precinct 9,"District Judge, 46th Judicial District",,REP,Dan Mike Bird,413,294,119
@@ -107,9 +107,9 @@ Wilbarger,Precinct 9,County Treasurer,,DEM,Joann Carter,283,198,85
 Wilbarger,Precinct 9,"County Commissioner, Precinct No. 1",,REP,John T. Wright,278,187,91
 Wilbarger,Precinct 9,"County Commissioner, Precinct No. 1",,DEM,Billy D. Taylor,196,144,52
 Wilbarger,Precinct 9,"Justice of the Peace, Precinct No. 1",,REP,Gene Morton,411,292,119
-Wilbarger,Precinct 19,Candidate for:,,REP,Republican Party,232,145,87
-Wilbarger,Precinct 19,Candidate for:,,DEM,Democratic Party,182,117,65
-Wilbarger,Precinct 19,Candidate for:,,LIB,Libertarian Party,3,0,3
+Wilbarger,Precinct 19,Straight Party,,REP,Republican Party,232,145,87
+Wilbarger,Precinct 19,Straight Party,,DEM,Democratic Party,182,117,65
+Wilbarger,Precinct 19,Straight Party,,LIB,Libertarian Party,3,0,3
 Wilbarger,Precinct 19,Registered Voters,,,,1941,,
 Wilbarger,Precinct 19,U.S. Senate,,REP,Ted Cruz,403,268,135
 Wilbarger,Precinct 19,U.S. Senate,,DEM,Beto O'Rourke,230,148,82
@@ -150,7 +150,7 @@ Wilbarger,Precinct 19,"Judge, Court of Criminal Appeals Place 7",,REP,Barbara Pa
 Wilbarger,Precinct 19,"Judge, Court of Criminal Appeals Place 7",,DEM,Ramona Franklin,223,140,83
 Wilbarger,Precinct 19,"Judge, Court of Criminal Appeals Place 8",,REP,MIchelle Slaughter,416,275,141
 Wilbarger,Precinct 19,"Judge, Court of Criminal Appeals Place 8",,LIB,Mark Ash,64,38,26
-Wilbarger,Precinct 19,State Representative District 68,,REP,Drew Springer,454,295,159
+Wilbarger,Precinct 19,State Representative,68,REP,Drew Springer,454,295,159
 Wilbarger,Precinct 19,"Justice, 7th Court of Appeals District Place 2",,REP,Judy Parker,444,291,153
 Wilbarger,Precinct 19,"Justice, 7th Court of Appeals District Place 3, Unexipired Term",,REP,Pat Pirtle,448,293,155
 Wilbarger,Precinct 19,"District Judge, 46th Judicial District",,REP,Dan Mike Bird,456,302,154
@@ -159,9 +159,9 @@ Wilbarger,Precinct 19,County Judge,,DEM,Greg Tyra,405,266,139
 Wilbarger,Precinct 19,County Clerk,,REP,Jana Kennon,450,296,154
 Wilbarger,Precinct 19,County Treasurer,,DEM,Joann Carter,392,254,138
 Wilbarger,Precinct 19,"Justice of the Peace, Precinct No. 2",,REP,Lewis D. Templeton,466,306,160
-Wilbarger,Precinct 20,Candidate for:,,REP,Republican Party,156,96,60
-Wilbarger,Precinct 20,Candidate for:,,DEM,Democratic Party,76,45,31
-Wilbarger,Precinct 20,Candidate for:,,LIB,Libertarian Party,1,1,0
+Wilbarger,Precinct 20,Straight Party,,REP,Republican Party,156,96,60
+Wilbarger,Precinct 20,Straight Party,,DEM,Democratic Party,76,45,31
+Wilbarger,Precinct 20,Straight Party,,LIB,Libertarian Party,1,1,0
 Wilbarger,Precinct 20,Registered Voters,,,,1593,,
 Wilbarger,Precinct 20,U.S. Senate,,REP,Ted Cruz,297,192,105
 Wilbarger,Precinct 20,U.S. Senate,,DEM,Beto O'Rourke,126,75,51
@@ -202,7 +202,7 @@ Wilbarger,Precinct 20,"Judge, Court of Criminal Appeals Place 7",,REP,Barbara Pa
 Wilbarger,Precinct 20,"Judge, Court of Criminal Appeals Place 7",,DEM,Ramona Franklin,113,67,46
 Wilbarger,Precinct 20,"Judge, Court of Criminal Appeals Place 8",,REP,MIchelle Slaughter,320,205,115
 Wilbarger,Precinct 20,"Judge, Court of Criminal Appeals Place 8",,LIB,Mark Ash,36,18,18
-Wilbarger,Precinct 20,State Representative District 68,,REP,Drew Springer,336,210,126
+Wilbarger,Precinct 20,State Representative,68,REP,Drew Springer,336,210,126
 Wilbarger,Precinct 20,"Justice, 7th Court of Appeals District Place 2",,REP,Judy Parker,335,210,125
 Wilbarger,Precinct 20,"Justice, 7th Court of Appeals District Place 3, Unexipired Term",,REP,Pat Pirtle,336,211,125
 Wilbarger,Precinct 20,"District Judge, 46th Judicial District",,REP,Dan Mike Bird,338,215,123
@@ -213,9 +213,9 @@ Wilbarger,Precinct 20,County Treasurer,,DEM,Joann Carter,253,161,92
 Wilbarger,Precinct 20,"County Commissioner, Precinct No. 4",,REP,Josh Patterson,260,170,90
 Wilbarger,Precinct 20,"County Commissioner, Precinct No. 4",,DEM,Ruben Hinojosa,163,97,66
 Wilbarger,Precinct 20,"Justice of the Peace, Precinct No. 1",,REP,Gene Morton,348,220,128
-Wilbarger,Precinct 21,Candidate for:,,REP,Republican Party,450,316,134
-Wilbarger,Precinct 21,Candidate for:,,DEM,Democratic Party,62,34,28
-Wilbarger,Precinct 21,Candidate for:,,LIB,Libertarian Party,4,0,4
+Wilbarger,Precinct 21,Straight Party,,REP,Republican Party,450,316,134
+Wilbarger,Precinct 21,Straight Party,,DEM,Democratic Party,62,34,28
+Wilbarger,Precinct 21,Straight Party,,LIB,Libertarian Party,4,0,4
 Wilbarger,Precinct 21,Registered Voters,,,,2209,,
 Wilbarger,Precinct 21,U.S. Senate,,REP,Ted Cruz,871,617,254
 Wilbarger,Precinct 21,U.S. Senate,,DEM,Beto O'Rourke,134,90,44
@@ -256,7 +256,7 @@ Wilbarger,Precinct 21,"Judge, Court of Criminal Appeals Place 7",,REP,Barbara Pa
 Wilbarger,Precinct 21,"Judge, Court of Criminal Appeals Place 7",,DEM,Ramona Franklin,126,80,46
 Wilbarger,Precinct 21,"Judge, Court of Criminal Appeals Place 8",,REP,MIchelle Slaughter,872,614,258
 Wilbarger,Precinct 21,"Judge, Court of Criminal Appeals Place 8",,LIB,Mark Ash,55,37,18
-Wilbarger,Precinct 21,State Representative District 68,,REP,Drew Springer,911,640,271
+Wilbarger,Precinct 21,State Representative,68,REP,Drew Springer,911,640,271
 Wilbarger,Precinct 21,"Justice, 7th Court of Appeals District Place 2",,REP,Judy Parker,896,628,268
 Wilbarger,Precinct 21,"Justice, 7th Court of Appeals District Place 3, Unexipired Term",,REP,Pat Pirtle,893,627,266
 Wilbarger,Precinct 21,"District Judge, 46th Judicial District",,REP,Dan Mike Bird,918,647,271
@@ -266,9 +266,9 @@ Wilbarger,Precinct 21,County Clerk,,REP,Jana Kennon,920,644,276
 Wilbarger,Precinct 21,County Treasurer,,DEM,Joann Carter,557,385,172
 Wilbarger,Precinct 21,"County Commissioner, Precinct No. 2",,REP,Phillip C. Graf,913,643,270
 Wilbarger,Precinct 21,"Justice of the Peace, Precinct No. 2",,REP,Lewis D. Templeton,915,642,273
-Wilbarger,Northside 1,Candidate for:,,REP,Republican Party,14,6,8
-Wilbarger,Northside 1,Candidate for:,,DEM,Democratic Party,1,1,0
-Wilbarger,Northside 1,Candidate for:,,LIB,Libertarian Party,0,0,0
+Wilbarger,Northside 1,Straight Party,,REP,Republican Party,14,6,8
+Wilbarger,Northside 1,Straight Party,,DEM,Democratic Party,1,1,0
+Wilbarger,Northside 1,Straight Party,,LIB,Libertarian Party,0,0,0
 Wilbarger,Northside 1,Registered Voters,,,,0,,
 Wilbarger,Northside 1,U.S. Senate,,REP,Ted Cruz,44,30,14
 Wilbarger,Northside 1,U.S. Senate,,DEM,Beto O'Rourke,4,2,2
@@ -309,7 +309,7 @@ Wilbarger,Northside 1,"Judge, Court of Criminal Appeals Place 7",,REP,Barbara Pa
 Wilbarger,Northside 1,"Judge, Court of Criminal Appeals Place 7",,DEM,Ramona Franklin,4,3,1
 Wilbarger,Northside 1,"Judge, Court of Criminal Appeals Place 8",,REP,MIchelle Slaughter,40,25,15
 Wilbarger,Northside 1,"Judge, Court of Criminal Appeals Place 8",,LIB,Mark Ash,3,2,1
-Wilbarger,Northside 1,State Representative District 68,,REP,Drew Springer,43,28,15
+Wilbarger,Northside 1,State Representative,68,REP,Drew Springer,43,28,15
 Wilbarger,Northside 1,"Justice, 7th Court of Appeals District Place 2",,REP,Judy Parker,40,25,15
 Wilbarger,Northside 1,"Justice, 7th Court of Appeals District Place 3, Unexipired Term",,REP,Pat Pirtle,41,25,16
 Wilbarger,Northside 1,"District Judge, 46th Judicial District",,REP,Dan Mike Bird,45,31,14
@@ -325,9 +325,9 @@ Wilbarger,Northside 1,Northside ISD School Board,,"",Betsy Smith,28,18,10
 Wilbarger,Northside 1,Northside ISD School Board,,"",Phoebe Reeves,33,20,13
 Wilbarger,Northside 1,Northside ISD School Board,,"",Kathy Nickels,24,15,9
 Wilbarger,Northside 1,Northside ISD School Board,,"",Matthew Martin,22,14,8
-Wilbarger,Northside 19,Candidate for:,,REP,Republican Party,19,16,3
-Wilbarger,Northside 19,Candidate for:,,DEM,Democratic Party,2,2,0
-Wilbarger,Northside 19,Candidate for:,,LIB,Libertarian Party,0,0,0
+Wilbarger,Northside 19,Straight Party,,REP,Republican Party,19,16,3
+Wilbarger,Northside 19,Straight Party,,DEM,Democratic Party,2,2,0
+Wilbarger,Northside 19,Straight Party,,LIB,Libertarian Party,0,0,0
 Wilbarger,Northside 19,Registered Voters,,,,0,,
 Wilbarger,Northside 19,U.S. Senate,,REP,Ted Cruz,37,29,8
 Wilbarger,Northside 19,U.S. Senate,,DEM,Beto O'Rourke,3,3,0
@@ -368,7 +368,7 @@ Wilbarger,Northside 19,"Judge, Court of Criminal Appeals Place 7",,REP,Barbara P
 Wilbarger,Northside 19,"Judge, Court of Criminal Appeals Place 7",,DEM,Ramona Franklin,2,2,0
 Wilbarger,Northside 19,"Judge, Court of Criminal Appeals Place 8",,REP,MIchelle Slaughter,35,28,7
 Wilbarger,Northside 19,"Judge, Court of Criminal Appeals Place 8",,LIB,Mark Ash,1,1,0
-Wilbarger,Northside 19,State Representative District 68,,REP,Drew Springer,36,28,8
+Wilbarger,Northside 19,State Representative,68,REP,Drew Springer,36,28,8
 Wilbarger,Northside 19,"Justice, 7th Court of Appeals District Place 2",,REP,Judy Parker,35,28,7
 Wilbarger,Northside 19,"Justice, 7th Court of Appeals District Place 3, Unexipired Term",,REP,Pat Pirtle,35,28,7
 Wilbarger,Northside 19,"District Judge, 46th Judicial District",,REP,Dan Mike Bird,36,30,6
