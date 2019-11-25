@@ -7,8 +7,8 @@ Pre-processed election results for Texas. These CSV files are converted from [or
 
 | year  | general  | primary  |
 |---|---|---|
-| 2018  | [working](https://github.com/openelections/openelections-data-tx/issues/151) | [working](https://github.com/openelections/openelections-data-tx/issues/123)
-| 2016  | done  |  [working](https://github.com/openelections/openelections-data-tx/issues/12) |
+| 2018  | [done](https://github.com/openelections/openelections-data-tx/blob/master/2018/20181106__tx__general__precinct.csv) | [working](https://github.com/openelections/openelections-data-tx/issues/123)
+| 2016  | [done](https://github.com/openelections/openelections-data-tx/blob/master/2016/20161108__tx__general__precinct.csv) |  [working](https://github.com/openelections/openelections-data-tx/issues/12) |
 | 2014 |  [working](https://github.com/openelections/openelections-data-tx/issues/11) | [working](https://github.com/openelections/openelections-data-tx/issues/111)  |
 | 2012  |   not started | not started |
 | 2010  |  not started | not started |
