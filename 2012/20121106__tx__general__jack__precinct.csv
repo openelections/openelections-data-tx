@@ -1,0 +1,265 @@
+﻿county,precinct,office,district,candidate,party,absentee,early_voting,election_day,votes
+Jack,1,Registered Voters,,,,,,,1131
+Jack,2,Registered Voters,,,,,,,925
+Jack,3,Registered Voters,,,,,,,229
+Jack,4,Registered Voters,,,,,,,754
+Jack,5,Registered Voters,,,,,,,589
+Jack,6,Registered Voters,,,,,,,1073
+Jack,1,Ballots Cast,,,,44,397,232,673
+Jack,2,Ballots Cast,,,,30,211,366,607
+Jack,3,Ballots Cast,,,,2,50,75,127
+Jack,4,Ballots Cast,,,,28,337,164,529
+Jack,5,Ballots Cast,,,,16,113,242,371
+Jack,6,Ballots Cast,,,,44,411,204,659
+Jack,1,Straight Party,,Republican,REP,19,170,74,263
+Jack,2,Straight Party,,Republican,REP,12,99,181,292
+Jack,3,Straight Party,,Republican,REP,1,20,30,51
+Jack,4,Straight Party,,Republican,REP,15,166,71,252
+Jack,5,Straight Party,,Republican,REP,9,59,121,189
+Jack,6,Straight Party,,Republican,REP,19,214,94,327
+Jack,1,Straight Party,,Democrat,DEM,1,11,20,32
+Jack,2,Straight Party,,Democrat,DEM,0,19,30,49
+Jack,3,Straight Party,,Democrat,DEM,1,4,5,10
+Jack,4,Straight Party,,Democrat,DEM,2,9,15,26
+Jack,5,Straight Party,,Democrat,DEM,0,6,14,20
+Jack,6,Straight Party,,Democrat,DEM,3,24,8,35
+Jack,1,Straight Party,,Libertarian,LIB,0,0,0,0
+Jack,2,Straight Party,,Libertarian,LIB,0,0,1,1
+Jack,3,Straight Party,,Libertarian,LIB,0,0,0,0
+Jack,4,Straight Party,,Libertarian,LIB,0,0,0,0
+Jack,5,Straight Party,,Libertarian,LIB,0,0,0,0
+Jack,6,Straight Party,,Libertarian,LIB,0,0,0,0
+Jack,1,Straight Party,,Green,GRN,0,0,0,0
+Jack,2,Straight Party,,Green,GRN,0,2,1,3
+Jack,3,Straight Party,,Green,GRN,0,0,0,0
+Jack,4,Straight Party,,Green,GRN,0,0,0,0
+Jack,5,Straight Party,,Green,GRN,0,0,0,0
+Jack,6,Straight Party,,Green,GRN,0,1,0,1
+Jack,1,Straight Party,,overvotes,,1,0,0,1
+Jack,2,Straight Party,,overvotes,,3,0,0,3
+Jack,3,Straight Party,,overvotes,,0,0,0,0
+Jack,4,Straight Party,,overvotes,,1,0,0,1
+Jack,5,Straight Party,,overvotes,,0,0,0,0
+Jack,6,Straight Party,,overvotes,,4,0,0,4
+Jack,1,Straight Party,,undervotes,,23,216,138,377
+Jack,2,Straight Party,,undervotes,,15,91,153,259
+Jack,3,Straight Party,,undervotes,,0,26,40,66
+Jack,4,Straight Party,,undervotes,,10,162,78,250
+Jack,5,Straight Party,,undervotes,,7,48,107,162
+Jack,6,Straight Party,,undervotes,,18,172,102,292
+Jack,1,President,,Mitt Romney,REP,42,355,188,585
+Jack,2,President,,Mitt Romney,REP,25,173,318,516
+Jack,3,President,,Mitt Romney,REP,1,42,66,109
+Jack,4,President,,Mitt Romney,REP,24,312,139,475
+Jack,5,President,,Mitt Romney,REP,13,105,214,332
+Jack,6,President,,Mitt Romney,REP,37,353,173,563
+Jack,1,President,,Barack Obama,DEM,2,28,39,69
+Jack,2,President,,Barack Obama,DEM,5,32,34,71
+Jack,3,President,,Barack Obama,DEM,1,7,9,17
+Jack,4,President,,Barack Obama,DEM,3,22,21,46
+Jack,5,President,,Barack Obama,DEM,2,7,17,26
+Jack,6,President,,Barack Obama,DEM,7,43,24,74
+Jack,1,President,,Gary Johnson,LIB,0,1,3,4
+Jack,2,President,,Gary Johnson,LIB,0,2,6,8
+Jack,3,President,,Gary Johnson,LIB,0,0,0,0
+Jack,4,President,,Gary Johnson,LIB,0,0,1,1
+Jack,5,President,,Gary Johnson,LIB,1,0,2,3
+Jack,6,President,,Gary Johnson,LIB,0,1,2,3
+Jack,1,President,,Jill Stein,GRN,0,0,0,0
+Jack,2,President,,Jill Stein,GRN,0,2,1,3
+Jack,3,President,,Jill Stein,GRN,0,0,0,0
+Jack,4,President,,Jill Stein,GRN,0,0,0,0
+Jack,5,President,,Jill Stein,GRN,0,0,0,0
+Jack,6,President,,Jill Stein,GRN,0,1,1,2
+Jack,1,President,,write-in,WRI,0,0,0,1
+Jack,2,President,,write-in,WRI,0,0,0,0
+Jack,3,President,,write-in,WRI,0,0,0,0
+Jack,4,President,,write-in,WRI,0,0,0,0
+Jack,5,President,,write-in,WRI,0,0,0,0
+Jack,6,President,,Thaddeus Hill,WRI,0,0,1,1
+Jack,1,President,,overvotes,,0,0,0,0
+Jack,2,President,,overvotes,,0,0,0,0
+Jack,3,President,,overvotes,,0,0,0,0
+Jack,4,President,,overvotes,,1,0,0,1
+Jack,5,President,,overvotes,,0,0,0,0
+Jack,6,President,,overvotes,,0,0,0,0
+Jack,1,President,,undervotes,,0,13,2,15
+Jack,2,President,,undervotes,,0,2,7,9
+Jack,3,President,,undervotes,,0,1,0,1
+Jack,4,President,,undervotes,,0,3,3,6
+Jack,5,President,,undervotes,,0,1,9,10
+Jack,6,President,,undervotes,,0,13,3,16
+Jack,1,U.S. Senate,,Ted Cruz,REP,40,326,167,533
+Jack,2,U.S. Senate,,Ted Cruz,REP,25,152,294,471
+Jack,3,U.S. Senate,,Ted Cruz,REP,1,38,58,97
+Jack,4,U.S. Senate,,Ted Cruz,REP,23,290,124,437
+Jack,5,U.S. Senate,,Ted Cruz,REP,12,102,203,317
+Jack,6,U.S. Senate,,Ted Cruz,REP,34,331,162,527
+Jack,1,U.S. Senate,,Paul Sadler,DEM,3,41,46,90
+Jack,2,U.S. Senate,,Paul Sadler,DEM,4,43,45,92
+Jack,3,U.S. Senate,,Paul Sadler,DEM,1,8,9,18
+Jack,4,U.S. Senate,,Paul Sadler,DEM,2,30,26,58
+Jack,5,U.S. Senate,,Paul Sadler,DEM,1,10,27,38
+Jack,6,U.S. Senate,,Paul Sadler,DEM,7,61,27,95
+Jack,1,U.S. Senate,,John Myers,LIB,1,5,4,10
+Jack,2,U.S. Senate,,John Myers,LIB,1,6,8,15
+Jack,3,U.S. Senate,,John Myers,LIB,0,1,0,1
+Jack,4,U.S. Senate,,John Myers,LIB,1,6,3,10
+Jack,5,U.S. Senate,,John Myers,LIB,1,0,3,4
+Jack,6,U.S. Senate,,John Myers,LIB,0,6,5,11
+Jack,1,U.S. Senate,,David Collins,GRN,0,3,2,5
+Jack,2,U.S. Senate,,David Collins,GRN,0,5,3,8
+Jack,3,U.S. Senate,,David Collins,GRN,0,1,1,2
+Jack,4,U.S. Senate,,David Collins,GRN,0,3,0,3
+Jack,5,U.S. Senate,,David Collins,GRN,0,0,0,0
+Jack,6,U.S. Senate,,David Collins,GRN,0,3,2,5
+Jack,1,U.S. Senate,,overvotes,,0,0,0,0
+Jack,2,U.S. Senate,,overvotes,,0,0,0,0
+Jack,3,U.S. Senate,,overvotes,,0,0,0,0
+Jack,4,U.S. Senate,,overvotes,,1,0,0,1
+Jack,5,U.S. Senate,,overvotes,,0,0,0,0
+Jack,6,U.S. Senate,,overvotes,,0,0,0,0
+Jack,1,U.S. Senate,,undervotes,,0,22,13,35
+Jack,2,U.S. Senate,,undervotes,,0,5,16,21
+Jack,3,U.S. Senate,,undervotes,,0,2,7,9
+Jack,4,U.S. Senate,,undervotes,,2,8,11,21
+Jack,5,U.S. Senate,,undervotes,,2,1,9,12
+Jack,6,U.S. Senate,,undervotes,,3,10,8,21
+Jack,1,U.S. House,13,Mac Thornberry,REP,41,351,183,575
+Jack,2,U.S. House,13,Mac Thornberry,REP,22,162,299,483
+Jack,3,U.S. House,13,Mac Thornberry,REP,1,39,62,102
+Jack,4,U.S. House,13,Mac Thornberry,REP,24,305,135,464
+Jack,5,U.S. House,13,Mac Thornberry,REP,14,105,215,334
+Jack,6,U.S. House,13,Mac Thornberry,REP,32,360,172,564
+Jack,1,U.S. House,13,John Deek,LIB,1,10,17,28
+Jack,2,U.S. House,13,John Deek,LIB,3,9,12,24
+Jack,3,U.S. House,13,John Deek,LIB,0,1,1,2
+Jack,4,U.S. House,13,John Deek,LIB,0,7,3,10
+Jack,5,U.S. House,13,John Deek,LIB,1,3,5,9
+Jack,6,U.S. House,13,John Deek,LIB,1,11,7,19
+Jack,1,U.S. House,13,Keith Houston,GRN,0,4,3,7
+Jack,2,U.S. House,13,Keith Houston,GRN,2,15,9,26
+Jack,3,U.S. House,13,Keith Houston,GRN,0,0,1,1
+Jack,4,U.S. House,13,Keith Houston,GRN,0,5,4,9
+Jack,5,U.S. House,13,Keith Houston,GRN,0,3,4,7
+Jack,6,U.S. House,13,Keith Houston,GRN,0,5,10,15
+Jack,1,U.S. House,13,overvotes,,1,0,0,1
+Jack,2,U.S. House,13,overvotes,,3,0,0,3
+Jack,3,U.S. House,13,overvotes,,0,0,0,0
+Jack,4,U.S. House,13,overvotes,,1,0,0,1
+Jack,5,U.S. House,13,overvotes,,0,0,0,0
+Jack,6,U.S. House,13,overvotes,,4,0,0,4
+Jack,1,U.S. House,13,undervotes,,1,32,29,62
+Jack,2,U.S. House,13,undervotes,,0,25,46,71
+Jack,3,U.S. House,13,undervotes,,1,10,11,22
+Jack,4,U.S. House,13,undervotes,,3,20,22,45
+Jack,5,U.S. House,13,undervotes,,1,2,18,21
+Jack,6,U.S. House,13,undervotes,,7,35,15,57
+Jack,1,Railroad Commissioner,,Christi Craddick,REP,40,323,161,524
+Jack,2,Railroad Commissioner,,Christi Craddick,REP,21,155,284,460
+Jack,3,Railroad Commissioner,,Christi Craddick,REP,1,38,55,94
+Jack,4,Railroad Commissioner,,Christi Craddick,REP,24,286,127,437
+Jack,5,Railroad Commissioner,,Christi Craddick,REP,12,100,193,305
+Jack,6,Railroad Commissioner,,Christi Craddick,REP,29,334,162,525
+Jack,1,Railroad Commissioner,,Dale Henry,DEM,3,34,44,81
+Jack,2,Railroad Commissioner,,Dale Henry,DEM,3,39,48,90
+Jack,3,Railroad Commissioner,,Dale Henry,DEM,1,6,7,14
+Jack,4,Railroad Commissioner,,Dale Henry,DEM,2,30,25,57
+Jack,5,Railroad Commissioner,,Dale Henry,DEM,1,10,30,41
+Jack,6,Railroad Commissioner,,Dale Henry,DEM,4,55,27,86
+Jack,1,Railroad Commissioner,,Vik Wall,LIB,0,7,4,11
+Jack,2,Railroad Commissioner,,Vik Wall,LIB,2,2,2,6
+Jack,3,Railroad Commissioner,,Vik Wall,LIB,0,0,0,0
+Jack,4,Railroad Commissioner,,Vik Wall,LIB,0,0,1,1
+Jack,5,Railroad Commissioner,,Vik Wall,LIB,0,2,2,4
+Jack,6,Railroad Commissioner,,Vik Wall,LIB,0,5,3,8
+Jack,1,Railroad Commissioner,,Chris Kennedy,GRN,0,3,3,6
+Jack,2,Railroad Commissioner,,Chris Kennedy,GRN,1,7,11,19
+Jack,3,Railroad Commissioner,,Chris Kennedy,GRN,0,0,1,1
+Jack,4,Railroad Commissioner,,Chris Kennedy,GRN,0,5,1,6
+Jack,5,Railroad Commissioner,,Chris Kennedy,GRN,0,0,3,3
+Jack,6,Railroad Commissioner,,Chris Kennedy,GRN,0,2,3,5
+Jack,1,Railroad Commissioner,,overvotes,,1,0,0,1
+Jack,2,Railroad Commissioner,,overvotes,,3,0,0,3
+Jack,3,Railroad Commissioner,,overvotes,,0,0,0,0
+Jack,4,Railroad Commissioner,,overvotes,,1,0,0,1
+Jack,5,Railroad Commissioner,,overvotes,,0,0,0,0
+Jack,6,Railroad Commissioner,,overvotes,,4,0,0,4
+Jack,1,Railroad Commissioner,,undervotes,,0,30,20,50
+Jack,2,Railroad Commissioner,,undervotes,,0,8,21,29
+Jack,3,Railroad Commissioner,,undervotes,,0,6,12,18
+Jack,4,Railroad Commissioner,,undervotes,,1,16,10,27
+Jack,5,Railroad Commissioner,,undervotes,,3,1,14,18
+Jack,6,Railroad Commissioner,,undervotes,,7,15,9,31
+Jack,1,Railroad Commissioner,unexpired,Barry Smitherman,REP,39,322,168,529
+Jack,2,Railroad Commissioner,unexpired,Barry Smitherman,REP,18,152,297,467
+Jack,3,Railroad Commissioner,unexpired,Barry Smitherman,REP,1,38,55,94
+Jack,4,Railroad Commissioner,unexpired,Barry Smitherman,REP,24,293,131,448
+Jack,5,Railroad Commissioner,unexpired,Barry Smitherman,REP,12,102,202,316
+Jack,6,Railroad Commissioner,unexpired,Barry Smitherman,REP,29,344,161,534
+Jack,1,Railroad Commissioner,unexpired,Jaime Perez,LIB,1,18,21,40
+Jack,2,Railroad Commissioner,unexpired,Jaime Perez,LIB,4,12,10,26
+Jack,3,Railroad Commissioner,unexpired,Jaime Perez,LIB,0,1,3,4
+Jack,4,Railroad Commissioner,unexpired,Jaime Perez,LIB,0,5,3,8
+Jack,5,Railroad Commissioner,unexpired,Jaime Perez,LIB,1,3,7,11
+Jack,6,Railroad Commissioner,unexpired,Jaime Perez,LIB,0,11,11,22
+Jack,1,Railroad Commissioner,unexpired,Josh Wendel,GRN,0,10,7,17
+Jack,2,Railroad Commissioner,unexpired,Josh Wendel,GRN,2,17,8,27
+Jack,3,Railroad Commissioner,unexpired,Josh Wendel,GRN,0,1,0,1
+Jack,4,Railroad Commissioner,unexpired,Josh Wendel,GRN,0,8,7,15
+Jack,5,Railroad Commissioner,unexpired,Josh Wendel,GRN,0,4,8,12
+Jack,6,Railroad Commissioner,unexpired,Josh Wendel,GRN,0,7,11,18
+Jack,1,Railroad Commissioner,unexpired,overvotes,,1,0,0,1
+Jack,2,Railroad Commissioner,unexpired,overvotes,,3,0,0,3
+Jack,3,Railroad Commissioner,unexpired,overvotes,,0,0,0,0
+Jack,4,Railroad Commissioner,unexpired,overvotes,,1,0,0,1
+Jack,5,Railroad Commissioner,unexpired,overvotes,,0,0,0,0
+Jack,6,Railroad Commissioner,unexpired,overvotes,,4,0,0,4
+Jack,1,Railroad Commissioner,unexpired,undervotes,,3,47,36,86
+Jack,2,Railroad Commissioner,unexpired,undervotes,,0,8,21,29
+Jack,3,Railroad Commissioner,unexpired,undervotes,,1,10,17,28
+Jack,4,Railroad Commissioner,unexpired,undervotes,,3,31,23,57
+Jack,5,Railroad Commissioner,unexpired,undervotes,,3,4,25,32
+Jack,6,Railroad Commissioner,unexpired,undervotes,,11,49,21,81
+Jack,1,State Senate,30,Craig Estes,REP,40,332,180,552
+Jack,2,State Senate,30,Craig Estes,REP,22,160,300,482
+Jack,3,State Senate,30,Craig Estes,REP,1,38,58,97
+Jack,4,State Senate,30,Craig Estes,REP,24,297,130,451
+Jack,5,State Senate,30,Craig Estes,REP,14,102,208,324
+Jack,6,State Senate,30,Craig Estes,REP,31,342,171,544
+Jack,1,State Senate,30,Richard Forsythe,LIB,1,23,18,42
+Jack,2,State Senate,30,Richard Forsythe,LIB,4,25,19,48
+Jack,3,State Senate,30,Richard Forsythe,LIB,0,2,5,7
+Jack,4,State Senate,30,Richard Forsythe,LIB,0,16,10,26
+Jack,5,State Senate,30,Richard Forsythe,LIB,2,9,11,22
+Jack,6,State Senate,30,Richard Forsythe,LIB,0,26,14,40
+Jack,1,State Senate,30,overvotes,,1,0,0,1
+Jack,2,State Senate,30,overvotes,,3,0,0,3
+Jack,3,State Senate,30,overvotes,,0,0,0,0
+Jack,4,State Senate,30,overvotes,,1,0,0,1
+Jack,5,State Senate,30,overvotes,,0,0,0,0
+Jack,6,State Senate,30,overvotes,,4,0,0,4
+Jack,1,State Senate,30,undervotes,,2,42,34,78
+Jack,2,State Senate,30,undervotes,,1,26,47,74
+Jack,3,State Senate,30,undervotes,,1,10,12,23
+Jack,4,State Senate,30,undervotes,,3,24,24,51
+Jack,5,State Senate,30,undervotes,,0,2,23,25
+Jack,6,State Senate,30,undervotes,,9,43,19,71
+Jack,1,State Representative,68,Drew Springer,REP,37,345,184,566
+Jack,2,State Representative,68,Drew Springer,REP,24,165,315,504
+Jack,3,State Representative,68,Drew Springer,REP,1,40,62,103
+Jack,4,State Representative,68,Drew Springer,REP,24,306,135,465
+Jack,5,State Representative,68,Drew Springer,REP,12,103,209,324
+Jack,6,State Representative,68,Drew Springer,REP,29,355,176,560
+Jack,1,State Representative,68,overvotes,,0,0,0,0
+Jack,2,State Representative,68,overvotes,,0,0,0,0
+Jack,3,State Representative,68,overvotes,,0,0,0,0
+Jack,4,State Representative,68,overvotes,,0,0,0,0
+Jack,5,State Representative,68,overvotes,,0,0,0,0
+Jack,6,State Representative,68,overvotes,,0,0,0,0
+Jack,1,State Representative,68,undervotes,,7,52,48,107
+Jack,2,State Representative,68,undervotes,,6,46,51,103
+Jack,3,State Representative,68,undervotes,,1,10,13,24
+Jack,4,State Representative,68,undervotes,,4,31,29,64
+Jack,5,State Representative,68,undervotes,,4,10,33,47
+Jack,6,State Representative,68,undervotes,,15,56,28,99
