@@ -3,19 +3,23 @@ from bs4 import BeautifulSoup
 import csv
 
 def get_elections():
-    r = requests.get('http://elections.sos.state.tx.us/index.htm')
-    soup = BeautifulSoup(r.text)
+    r = requests.get('https://elections.sos.state.tx.us/index.htm')
+    soup = BeautifulSoup(r.text, features="html.parser")
     return [{'election_code': o['value'], 'title': o.text} for o in soup.select('option')]
 
 def get_counties():
-    r = requests.get('http://elections.sos.state.tx.us/elchist175_countyselect.htm')
-    soup = BeautifulSoup(r.text)
-    return [{'id': o['value'], 'name': o.text} for o in soup.select('option')]
+    r = requests.get('https://elections.sos.state.tx.us/elchist175_countyselect.htm')
+    soup = BeautifulSoup(r.text, features="html.parser")
+    select = soup.find('select')
+    values = list(select.stripped_strings)
+    return [{'id': values.index(v)+1, 'name': v} for v in values]
 
 def get_countylist(election_code):
-    r = requests.get('http://elections.sos.state.tx.us/elchist%s_countyselect.htm' % election_code)
-    soup = BeautifulSoup(r.text)
-    return [{'id': o['value'], 'name': o.text} for o in soup.select('option')]
+    r = requests.get('https://elections.sos.state.tx.us/elchist%s_countyselect.htm' % election_code)
+    soup = BeautifulSoup(r.text, features="html.parser")
+    select = soup.find('select')
+    values = list(select.stripped_strings)
+    return [{'id': values.index(v)+1, 'name': v} for v in values]
 
 def get_elections_by_type(election_type):
     return [(x['value'], x.string) for x in get_elections() if election_type in x.string.lower()]
@@ -23,11 +27,11 @@ def get_elections_by_type(election_type):
 def get_results(election_code, county=None, counties=None):
     results = []
     if county:
-        base_url = "http://elections.sos.state.tx.us/elchist%s_county%s.htm" % (election_code, county)
+        base_url = "https://elections.sos.state.tx.us/elchist%s_county%s.htm" % (election_code, county)
     else:
-        base_url = "http://elections.sos.state.tx.us/elchist%s_state.htm" % (election_code)
+        base_url = "https://elections.sos.state.tx.us/elchist%s_state.htm" % (election_code)
     r = requests.get(base_url)
-    soup = BeautifulSoup(r.text)
+    soup = BeautifulSoup(r.text, features="html.parser")
     table = soup.find('table')
     if not table:
         return None
