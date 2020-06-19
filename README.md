@@ -7,16 +7,17 @@ Pre-processed election results for Texas. These CSV files are converted from [or
 
 | year  | general  | primary  |
 |---|---|---|
+| 2020  | N/A  | [working](https://github.com/openelections/openelections-data-tx/issues/286) |
 | 2018  | [done](https://github.com/openelections/openelections-data-tx/blob/master/2018/20181106__tx__general__precinct.csv) | [working](https://github.com/openelections/openelections-data-tx/issues/123)
 | 2016  | [done](https://github.com/openelections/openelections-data-tx/blob/master/2016/20161108__tx__general__precinct.csv) |  [working](https://github.com/openelections/openelections-data-tx/issues/12) |
 | 2014 |  [working](https://github.com/openelections/openelections-data-tx/issues/11) | [working](https://github.com/openelections/openelections-data-tx/issues/111)  |
-| 2012  |   not started | not started |
+| 2012  |   [working](https://github.com/openelections/openelections-data-tx/issues/285) | not started |
 | 2010  |  not started | not started |
 | 2008  |  not started | not started |
 
 ## County Results
 
-Complete for elections from 2000 through 2018 primary.
+Complete for elections from 2000 through 2018 general.
 
 To contribute, email openelections@gmail.com or [find us on Twitter](https://twitter.com/openelex) and let us know what counties/elections you'd like to work on. You also can leave a comment on one of the [issues](https://github.com/openelections/openelections-data-tx/issues) in this repository. Volunteers can do as much or as little as they like - one county or all 254.
 
