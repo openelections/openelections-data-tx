@@ -1,0 +1,673 @@
+county,precinct,office,district,Candidate,party,votes,election_day,early_voting ,mail ,provisional 
+Bosque,Precinct 1,President,,Tom Steyer,DEM,0,0,0,0,0
+Bosque,Precinct 2,President,,Tom Steyer,DEM,4,4,0,0,0
+Bosque,Precinct 3,President,,Tom Steyer,DEM,1,0,1,0,0
+Bosque,Precinct 4,President,,Tom Steyer,DEM,0,0,0,0,0
+Bosque,Precinct 5,President,,Tom Steyer,DEM,1,1,0,0,0
+Bosque,Precinct 6,President,,Tom Steyer,DEM,1,0,1,0,0
+Bosque,Precinct 7,President,,Tom Steyer,DEM,2,1,0,1,0
+Bosque,Precinct 8,President,,Tom Steyer,DEM,1,0,1,0,0
+Bosque,Precinct 9,President,,Tom Steyer,DEM,0,0,0,0,0
+Bosque,Precinct 10,President,,Tom Steyer,DEM,1,1,0,0,0
+Bosque,Precinct 11,President,,Tom Steyer,DEM,1,0,0,1,0
+Bosque,Total,President,,Tom Steyer,DEM,12,7,3,2,0
+Bosque,Precinct 1,President,,Amy Klobuchar,DEM,1,0,1,0,0
+Bosque,Precinct 2,President,,Amy Klobuchar,DEM,0,0,0,0,0
+Bosque,Precinct 3,President,,Amy Klobuchar,DEM,3,0,3,0,0
+Bosque,Precinct 4,President,,Amy Klobuchar,DEM,0,0,0,0,0
+Bosque,Precinct 5,President,,Amy Klobuchar,DEM,6,0,5,1,1
+Bosque,Precinct 6,President,,Amy Klobuchar,DEM,4,0,4,0,0
+Bosque,Precinct 7,President,,Amy Klobuchar,DEM,1,0,0,1,0
+Bosque,Precinct 8,President,,Amy Klobuchar,DEM,1,0,0,1,0
+Bosque,Precinct 9,President,,Amy Klobuchar,DEM,4,0,4,0,0
+Bosque,Precinct 10,President,,Amy Klobuchar,DEM,2,0,2,0,0
+Bosque,Precinct 11,President,,Amy Klobuchar,DEM,3,0,3,0,0
+Bosque,Total,President,,Amy Klobuchar,DEM,25,0,22,3,1
+Bosque,Precinct 1,President,,Bernie Sanders,DEM,3,2,0,1,0
+Bosque,Precinct 2,President,,Bernie Sanders,DEM,22,15,7,0,0
+Bosque,Precinct 3,President,,Bernie Sanders,DEM,10,5,5,0,0
+Bosque,Precinct 4,President,,Bernie Sanders,DEM,7,6,1,0,0
+Bosque,Precinct 5,President,,Bernie Sanders,DEM,27,15,7,5,5
+Bosque,Precinct 6,President,,Bernie Sanders,DEM,24,15,4,5,0
+Bosque,Precinct 7,President,,Bernie Sanders,DEM,3,1,2,0,0
+Bosque,Precinct 8,President,,Bernie Sanders,DEM,33,21,6,6,0
+Bosque,Precinct 9,President,,Bernie Sanders,DEM,13,8,4,1,0
+Bosque,Precinct 10,President,,Bernie Sanders,DEM,21,15,4,2,0
+Bosque,Precinct 11,President,,Bernie Sanders,DEM,9,5,3,1,0
+Bosque,Total,President,,Bernie Sanders,DEM,172,108,43,21,5
+Bosque,Precinct 1,President,,Robby Wells,DEM,0,0,0,0,0
+Bosque,Precinct 2,President,,Robby Wells,DEM,0,0,0,0,0
+Bosque,Precinct 3,President,,Robby Wells,DEM,0,0,0,0,0
+Bosque,Precinct 4,President,,Robby Wells,DEM,0,0,0,0,0
+Bosque,Precinct 5,President,,Robby Wells,DEM,0,0,0,0,0
+Bosque,Precinct 6,President,,Robby Wells,DEM,1,0,1,0,0
+Bosque,Precinct 7,President,,Robby Wells,DEM,0,0,0,0,0
+Bosque,Precinct 8,President,,Robby Wells,DEM,0,0,0,0,0
+Bosque,Precinct 9,President,,Robby Wells,DEM,0,0,0,0,0
+Bosque,Precinct 10,President,,Robby Wells,DEM,0,0,0,0,0
+Bosque,Precinct 11,President,,Robby Wells,DEM,0,0,0,0,0
+Bosque,Total,President,,Robby Wells,DEM,1,0,1,0,0
+Bosque,Precinct 1,President,,Joseph R. Biden,DEM,12,11,0,1,0
+Bosque,Precinct 2,President,,Joseph R. Biden,DEM,21,13,5,3,0
+Bosque,Precinct 3,President,,Joseph R. Biden,DEM,21,12,9,0,0
+Bosque,Precinct 4,President,,Joseph R. Biden,DEM,8,3,3,2,0
+Bosque,Precinct 5,President,,Joseph R. Biden,DEM,49,27,12,10,10
+Bosque,Precinct 6,President,,Joseph R. Biden,DEM,39,28,6,5,0
+Bosque,Precinct 7,President,,Joseph R. Biden,DEM,23,17,3,3,0
+Bosque,Precinct 8,President,,Joseph R. Biden,DEM,50,37,6,7,0
+Bosque,Precinct 9,President,,Joseph R. Biden,DEM,24,20,2,2,0
+Bosque,Precinct 10,President,,Joseph R. Biden,DEM,32,26,2,4,0
+Bosque,Precinct 11,President,,Joseph R. Biden,DEM,14,7,6,1,0
+Bosque,Total,President,,Joseph R. Biden,DEM,293,201,54,38,10
+Bosque,Precinct 1,President,,Tulsi Gabbard,DEM,0,0,0,0,0
+Bosque,Precinct 2,President,,Tulsi Gabbard,DEM,0,0,0,0,0
+Bosque,Precinct 3,President,,Tulsi Gabbard,DEM,0,0,0,0,0
+Bosque,Precinct 4,President,,Tulsi Gabbard,DEM,0,0,0,0,0
+Bosque,Precinct 5,President,,Tulsi Gabbard,DEM,0,0,0,0,0
+Bosque,Precinct 6,President,,Tulsi Gabbard,DEM,1,1,0,0,0
+Bosque,Precinct 7,President,,Tulsi Gabbard,DEM,0,0,0,0,0
+Bosque,Precinct 8,President,,Tulsi Gabbard,DEM,2,1,1,0,0
+Bosque,Precinct 9,President,,Tulsi Gabbard,DEM,0,0,0,0,0
+Bosque,Precinct 10,President,,Tulsi Gabbard,DEM,0,0,0,0,0
+Bosque,Precinct 11,President,,Tulsi Gabbard,DEM,0,0,0,0,0
+Bosque,Total,President,,Tulsi Gabbard,DEM,3,2,1,0,0
+Bosque,Precinct 1,President,,"Rogue ""Rocky"" De La Fuente",DEM,1,1,0,0,0
+Bosque,Precinct 2,President,,"Rogue ""Rocky"" De La Fuente",DEM,0,0,0,0,0
+Bosque,Precinct 3,President,,"Rogue ""Rocky"" De La Fuente",DEM,0,0,0,0,0
+Bosque,Precinct 4,President,,"Rogue ""Rocky"" De La Fuente",DEM,0,0,0,0,0
+Bosque,Precinct 5,President,,"Rogue ""Rocky"" De La Fuente",DEM,0,0,0,0,0
+Bosque,Precinct 6,President,,"Rogue ""Rocky"" De La Fuente",DEM,0,0,0,0,0
+Bosque,Precinct 7,President,,"Rogue ""Rocky"" De La Fuente",DEM,0,0,0,0,0
+Bosque,Precinct 8,President,,"Rogue ""Rocky"" De La Fuente",DEM,0,0,0,0,0
+Bosque,Precinct 9,President,,"Rogue ""Rocky"" De La Fuente",DEM,0,0,0,0,0
+Bosque,Precinct 10,President,,"Rogue ""Rocky"" De La Fuente",DEM,0,0,0,0,0
+Bosque,Precinct 11,President,,"Rogue ""Rocky"" De La Fuente",DEM,0,0,0,0,0
+Bosque,Total,President,,"Rogue ""Rocky"" De La Fuente",DEM,1,1,0,0,0
+Bosque,Precinct 1,President,,Julian Castro,DEM,0,0,0,0,0
+Bosque,Precinct 2,President,,Julian Castro,DEM,0,0,0,0,0
+Bosque,Precinct 3,President,,Julian Castro,DEM,0,0,0,0,0
+Bosque,Precinct 4,President,,Julian Castro,DEM,0,0,0,0,0
+Bosque,Precinct 5,President,,Julian Castro,DEM,0,0,0,0,0
+Bosque,Precinct 6,President,,Julian Castro,DEM,0,0,0,0,0
+Bosque,Precinct 7,President,,Julian Castro,DEM,0,0,0,0,0
+Bosque,Precinct 8,President,,Julian Castro,DEM,1,0,0,1,0
+Bosque,Precinct 9,President,,Julian Castro,DEM,0,0,0,0,0
+Bosque,Precinct 10,President,,Julian Castro,DEM,0,0,0,0,0
+Bosque,Precinct 11,President,,Julian Castro,DEM,0,0,0,0,0
+Bosque,Total,President,,Julian Castro,DEM,1,0,0,1,0
+Bosque,Precinct 1,President,,Andrew Yang,DEM,0,0,0,0,0
+Bosque,Precinct 2,President,,Andrew Yang,DEM,0,0,0,0,0
+Bosque,Precinct 3,President,,Andrew Yang,DEM,0,0,0,0,0
+Bosque,Precinct 4,President,,Andrew Yang,DEM,0,0,0,0,0
+Bosque,Precinct 5,President,,Andrew Yang,DEM,0,0,0,0,0
+Bosque,Precinct 6,President,,Andrew Yang,DEM,0,0,0,0,0
+Bosque,Precinct 7,President,,Andrew Yang,DEM,0,0,0,0,0
+Bosque,Precinct 8,President,,Andrew Yang,DEM,0,0,0,0,0
+Bosque,Precinct 9,President,,Andrew Yang,DEM,0,0,0,0,0
+Bosque,Precinct 10,President,,Andrew Yang,DEM,0,0,0,0,0
+Bosque,Precinct 11,President,,Andrew Yang,DEM,0,0,0,0,0
+Bosque,Total,President,,Andrew Yang,DEM,0,0,0,0,0
+Bosque,Precinct 1,President,,Pete Buttigieg,DEM,0,0,0,0,0
+Bosque,Precinct 2,President,,Pete Buttigieg,DEM,1,0,0,1,0
+Bosque,Precinct 3,President,,Pete Buttigieg,DEM,2,0,2,0,0
+Bosque,Precinct 4,President,,Pete Buttigieg,DEM,1,0,1,0,0
+Bosque,Precinct 5,President,,Pete Buttigieg,DEM,1,1,0,0,0
+Bosque,Precinct 6,President,,Pete Buttigieg,DEM,1,0,1,0,0
+Bosque,Precinct 7,President,,Pete Buttigieg,DEM,0,0,0,0,0
+Bosque,Precinct 8,President,,Pete Buttigieg,DEM,6,0,3,3,0
+Bosque,Precinct 9,President,,Pete Buttigieg,DEM,0,0,0,0,0
+Bosque,Precinct 10,President,,Pete Buttigieg,DEM,0,0,0,0,0
+Bosque,Precinct 11,President,,Pete Buttigieg,DEM,5,1,2,2,0
+Bosque,Total,President,,Pete Buttigieg,DEM,17,2,9,6,0
+Bosque,Precinct 1,President,,Marianne Williamson,DEM,1,0,0,1,0
+Bosque,Precinct 2,President,,Marianne Williamson,DEM,0,0,0,0,0
+Bosque,Precinct 3,President,,Marianne Williamson,DEM,0,0,0,0,0
+Bosque,Precinct 4,President,,Marianne Williamson,DEM,0,0,0,0,0
+Bosque,Precinct 5,President,,Marianne Williamson,DEM,0,0,0,0,0
+Bosque,Precinct 6,President,,Marianne Williamson,DEM,0,0,0,0,0
+Bosque,Precinct 7,President,,Marianne Williamson,DEM,0,0,0,0,0
+Bosque,Precinct 8,President,,Marianne Williamson,DEM,0,0,0,0,0
+Bosque,Precinct 9,President,,Marianne Williamson,DEM,0,0,0,0,0
+Bosque,Precinct 10,President,,Marianne Williamson,DEM,0,0,0,0,0
+Bosque,Precinct 11,President,,Marianne Williamson,DEM,0,0,0,0,0
+Bosque,Total,President,,Marianne Williamson,DEM,1,0,0,1,0
+Bosque,Precinct 1,President,,Elizabeth Warren,DEM,4,3,1,0,0
+Bosque,Precinct 2,President,,Elizabeth Warren,DEM,4,1,3,0,0
+Bosque,Precinct 3,President,,Elizabeth Warren,DEM,6,3,3,0,0
+Bosque,Precinct 4,President,,Elizabeth Warren,DEM,3,1,2,0,0
+Bosque,Precinct 5,President,,Elizabeth Warren,DEM,12,6,4,2,17
+Bosque,Precinct 6,President,,Elizabeth Warren,DEM,4,1,3,0,0
+Bosque,Precinct 7,President,,Elizabeth Warren,DEM,3,2,1,0,0
+Bosque,Precinct 8,President,,Elizabeth Warren,DEM,8,5,2,1,0
+Bosque,Precinct 9,President,,Elizabeth Warren,DEM,9,2,7,0,0
+Bosque,Precinct 10,President,,Elizabeth Warren,DEM,11,9,2,0,0
+Bosque,Precinct 11,President,,Elizabeth Warren,DEM,5,3,2,0,0
+Bosque,Total,President,,Elizabeth Warren,DEM,69,36,30,3,0
+Bosque,Precinct 1,President,,Michael R. Bloomberg,DEM,6,4,0,2,0
+Bosque,Precinct 2,President,,Michael R. Bloomberg,DEM,8,4,1,3,0
+Bosque,Precinct 3,President,,Michael R. Bloomberg,DEM,4,2,2,0,0
+Bosque,Precinct 4,President,,Michael R. Bloomberg,DEM,4,1,2,1,0
+Bosque,Precinct 5,President,,Michael R. Bloomberg,DEM,21,7,10,4,0
+Bosque,Precinct 6,President,,Michael R. Bloomberg,DEM,13,8,4,1,0
+Bosque,Precinct 7,President,,Michael R. Bloomberg,DEM,3,0,1,2,0
+Bosque,Precinct 8,President,,Michael R. Bloomberg,DEM,28,17,1,10,0
+Bosque,Precinct 9,President,,Michael R. Bloomberg,DEM,9,3,2,4,0
+Bosque,Precinct 10,President,,Michael R. Bloomberg,DEM,9,6,0,3,0
+Bosque,Precinct 11,President,,Michael R. Bloomberg,DEM,9,4,3,2,0
+Bosque,Total,President,,Michael R. Bloomberg,DEM,114,56,26,32,0
+Bosque,Precinct 1,President,,John K. Delaney,DEM,0,0,0,0,0
+Bosque,Precinct 2,President,,John K. Delaney,DEM,1,1,0,0,0
+Bosque,Precinct 3,President,,John K. Delaney,DEM,0,0,0,0,0
+Bosque,Precinct 4,President,,John K. Delaney,DEM,0,0,0,0,0
+Bosque,Precinct 5,President,,John K. Delaney,DEM,0,0,0,0,0
+Bosque,Precinct 6,President,,John K. Delaney,DEM,0,0,0,0,0
+Bosque,Precinct 7,President,,John K. Delaney,DEM,0,0,0,0,0
+Bosque,Precinct 8,President,,John K. Delaney,DEM,3,1,0,2,0
+Bosque,Precinct 9,President,,John K. Delaney,DEM,0,0,0,0,0
+Bosque,Precinct 10,President,,John K. Delaney,DEM,0,0,0,0,0
+Bosque,Precinct 11,President,,John K. Delaney,DEM,0,0,0,0,0
+Bosque,Total,President,,John K. Delaney,DEM,4,2,0,2,0
+Bosque,Precinct 1,President,,Michael Bennet,DEM,1,0,1,0,0
+Bosque,Precinct 2,President,,Michael Bennet,DEM,0,0,0,0,0
+Bosque,Precinct 3,President,,Michael Bennet,DEM,0,0,0,0,0
+Bosque,Precinct 4,President,,Michael Bennet,DEM,0,0,0,0,0
+Bosque,Precinct 5,President,,Michael Bennet,DEM,0,0,0,0,0
+Bosque,Precinct 6,President,,Michael Bennet,DEM,0,0,0,0,0
+Bosque,Precinct 7,President,,Michael Bennet,DEM,0,0,0,0,0
+Bosque,Precinct 8,President,,Michael Bennet,DEM,0,0,0,0,0
+Bosque,Precinct 9,President,,Michael Bennet,DEM,0,0,0,0,0
+Bosque,Precinct 10,President,,Michael Bennet,DEM,1,1,0,0,0
+Bosque,Precinct 11,President,,Michael Bennet,DEM,0,0,0,0,0
+Bosque,Total,President,,Michael Bennet,DEM,2,1,1,0,0
+Bosque,Precinct 1,President,,Cory Booker,DEM,0,0,0,0,0
+Bosque,Precinct 2,President,,Cory Booker,DEM,0,0,0,0,0
+Bosque,Precinct 3,President,,Cory Booker,DEM,0,0,0,0,0
+Bosque,Precinct 4,President,,Cory Booker,DEM,0,0,0,0,0
+Bosque,Precinct 5,President,,Cory Booker,DEM,0,0,0,0,0
+Bosque,Precinct 6,President,,Cory Booker,DEM,13,0,0,0,0
+Bosque,Precinct 7,President,,Cory Booker,DEM,0,0,0,0,0
+Bosque,Precinct 8,President,,Cory Booker,DEM,0,0,0,0,0
+Bosque,Precinct 9,President,,Cory Booker,DEM,0,0,0,0,0
+Bosque,Precinct 10,President,,Cory Booker,DEM,0,0,0,0,0
+Bosque,Precinct 11,President,,Cory Booker,DEM,0,0,0,0,0
+Bosque,Total,President,,Cory Booker,DEM,13,0,0,0,0
+Bosque,Precinct 1,President,,Deval Patrick,DEM,0,0,0,0,0
+Bosque,Precinct 2,President,,Deval Patrick,DEM,0,0,0,0,0
+Bosque,Precinct 3,President,,Deval Patrick,DEM,0,0,0,0,0
+Bosque,Precinct 4,President,,Deval Patrick,DEM,0,0,0,0,0
+Bosque,Precinct 5,President,,Deval Patrick,DEM,0,0,0,0,0
+Bosque,Precinct 6,President,,Deval Patrick,DEM,0,0,0,0,0
+Bosque,Precinct 7,President,,Deval Patrick,DEM,0,0,0,0,0
+Bosque,Precinct 8,President,,Deval Patrick,DEM,0,0,0,0,0
+Bosque,Precinct 9,President,,Deval Patrick,DEM,0,0,0,0,0
+Bosque,Precinct 10,President,,Deval Patrick,DEM,0,0,0,0,0
+Bosque,Precinct 11,President,,Deval Patrick,DEM,0,0,0,0,0
+Bosque,Total,President,,Deval Patrick,DEM,0,0,0,0,0
+Bosque,Precinct 1,President,,Donald J. Trump,REP,230,169,57,4,0
+Bosque,Precinct 2,President,,Donald J. Trump,REP,267,176,75,15,1
+Bosque,Precinct 3,President,,Donald J. Trump,REP,380,167,192,19,2
+Bosque,Precinct 4,President,,Donald J. Trump,REP,197,98,96,2,1
+Bosque,Precinct 5,President,,Donald J. Trump,REP,428,245,160,23,0
+Bosque,Precinct 6,President,,Donald J. Trump,REP,384,258,107,17,2
+Bosque,Precinct 7,President,,Donald J. Trump,REP,238,140,85,13,0
+Bosque,Precinct 8,President,,Donald J. Trump,REP,718,407,265,46,0
+Bosque,Precinct 9,President,,Donald J. Trump,REP,288,159,105,24,0
+Bosque,Precinct 10,President,,Donald J. Trump,REP,312,255,49,8,0
+Bosque,Precinct 11,President,,Donald J. Trump,REP,211,135,63,13,0
+Bosque,Total,President,,Donald J. Trump,REP,3653,2209,1254,184,6
+Bosque,Precinct 1,President,,Roque Rocky DeLa Fuente Guerra,REP,2,1,1,0,0
+Bosque,Precinct 2,President,,Roque Rocky DeLa Fuente Guerra,REP,0,0,0,0,0
+Bosque,Precinct 3,President,,Roque Rocky DeLa Fuente Guerra,REP,0,0,0,0,0
+Bosque,Precinct 4,President,,Roque Rocky DeLa Fuente Guerra,REP,0,0,0,0,0
+Bosque,Precinct 5,President,,Roque Rocky DeLa Fuente Guerra,REP,1,1,0,0,0
+Bosque,Precinct 6,President,,Roque Rocky DeLa Fuente Guerra,REP,1,1,0,0,0
+Bosque,Precinct 7,President,,Roque Rocky DeLa Fuente Guerra,REP,1,0,1,0,0
+Bosque,Precinct 8,President,,Roque Rocky DeLa Fuente Guerra,REP,1,1,0,0,0
+Bosque,Precinct 9,President,,Roque Rocky DeLa Fuente Guerra,REP,1,1,0,0,0
+Bosque,Precinct 10,President,,Roque Rocky DeLa Fuente Guerra,REP,4,4,0,0,0
+Bosque,Precinct 11,President,,Roque Rocky DeLa Fuente Guerra,REP,1,1,0,0,0
+Bosque,Total,President,,Roque Rocky DeLa Fuente Guerra,REP,12,10,2,0,0
+Bosque,Precinct 1,President,,Bill Weld,REP,0,0,0,0,0
+Bosque,Precinct 2,President,,Bill Weld,REP,1,1,0,0,0
+Bosque,Precinct 3,President,,Bill Weld,REP,5,1,4,0,0
+Bosque,Precinct 4,President,,Bill Weld,REP,1,1,0,0,0
+Bosque,Precinct 5,President,,Bill Weld,REP,1,1,0,0,0
+Bosque,Precinct 6,President,,Bill Weld,REP,0,0,0,0,0
+Bosque,Precinct 7,President,,Bill Weld,REP,0,0,0,0,0
+Bosque,Precinct 8,President,,Bill Weld,REP,2,2,0,0,0
+Bosque,Precinct 9,President,,Bill Weld,REP,0,0,0,0,0
+Bosque,Precinct 10,President,,Bill Weld,REP,1,1,0,0,0
+Bosque,Precinct 11,President,,Bill Weld,REP,0,0,0,0,0
+Bosque,Total,President,,Bill Weld,REP,11,7,4,0,0
+Bosque,Precinct 1,President,,Bob Ely,REP,0,0,0,0,0
+Bosque,Precinct 2,President,,Bob Ely,REP,0,0,0,0,0
+Bosque,Precinct 3,President,,Bob Ely,REP,1,1,0,0,0
+Bosque,Precinct 4,President,,Bob Ely,REP,0,0,0,0,0
+Bosque,Precinct 5,President,,Bob Ely,REP,1,0,1,0,0
+Bosque,Precinct 6,President,,Bob Ely,REP,1,1,0,0,0
+Bosque,Precinct 7,President,,Bob Ely,REP,0,0,0,0,0
+Bosque,Precinct 8,President,,Bob Ely,REP,0,0,0,0,0
+Bosque,Precinct 9,President,,Bob Ely,REP,0,0,0,0,0
+Bosque,Precinct 10,President,,Bob Ely,REP,1,1,0,0,0
+Bosque,Precinct 11,President,,Bob Ely,REP,0,0,0,0,0
+Bosque,Total,President,,Bob Ely,REP,4,3,1,0,0
+Bosque,Precinct 1,President,,Zoltan G. Istvan,REP,0,0,0,0,0
+Bosque,Precinct 2,President,,Zoltan G. Istvan,REP,0,0,0,0,0
+Bosque,Precinct 3,President,,Zoltan G. Istvan,REP,0,0,0,0,0
+Bosque,Precinct 4,President,,Zoltan G. Istvan,REP,0,0,0,0,0
+Bosque,Precinct 5,President,,Zoltan G. Istvan,REP,1,1,0,0,0
+Bosque,Precinct 6,President,,Zoltan G. Istvan,REP,0,0,0,0,0
+Bosque,Precinct 7,President,,Zoltan G. Istvan,REP,0,0,0,0,0
+Bosque,Precinct 8,President,,Zoltan G. Istvan,REP,0,0,0,0,0
+Bosque,Precinct 9,President,,Zoltan G. Istvan,REP,0,0,0,0,0
+Bosque,Precinct 10,President,,Zoltan G. Istvan,REP,0,0,0,0,0
+Bosque,Precinct 11,President,,Zoltan G. Istvan,REP,0,0,0,0,0
+Bosque,Total,President,,Zoltan G. Istvan,REP,1,1,0,0,0
+Bosque,Precinct 1,President,,Joe Walsh,REP,0,0,0,0,0
+Bosque,Precinct 2,President,,Joe Walsh,REP,2,1,1,0,0
+Bosque,Precinct 3,President,,Joe Walsh,REP,1,1,0,0,0
+Bosque,Precinct 4,President,,Joe Walsh,REP,1,0,1,0,0
+Bosque,Precinct 5,President,,Joe Walsh,REP,3,2,1,0,0
+Bosque,Precinct 6,President,,Joe Walsh,REP,3,3,0,0,0
+Bosque,Precinct 7,President,,Joe Walsh,REP,0,0,0,0,0
+Bosque,Precinct 8,President,,Joe Walsh,REP,5,4,1,0,0
+Bosque,Precinct 9,President,,Joe Walsh,REP,0,0,0,0,0
+Bosque,Precinct 10,President,,Joe Walsh,REP,2,0,2,0,0
+Bosque,Precinct 11,President,,Joe Walsh,REP,3,2,0,1,0
+Bosque,Total,President,,Joe Walsh,REP,20,13,6,1,0
+Bosque,Precinct 1,President,,Matthew John Matern,REP,0,0,0,0,0
+Bosque,Precinct 2,President,,Matthew John Matern,REP,0,0,0,0,0
+Bosque,Precinct 3,President,,Matthew John Matern,REP,0,0,0,0,0
+Bosque,Precinct 4,President,,Matthew John Matern,REP,0,0,0,0,0
+Bosque,Precinct 5,President,,Matthew John Matern,REP,0,0,0,0,0
+Bosque,Precinct 6,President,,Matthew John Matern,REP,1,1,0,0,0
+Bosque,Precinct 7,President,,Matthew John Matern,REP,0,0,0,0,0
+Bosque,Precinct 8,President,,Matthew John Matern,REP,1,1,0,0,0
+Bosque,Precinct 9,President,,Matthew John Matern,REP,0,0,0,0,0
+Bosque,Precinct 10,President,,Matthew John Matern,REP,0,0,0,0,0
+Bosque,Precinct 11,President,,Matthew John Matern,REP,0,0,0,0,0
+Bosque,Total,President,,Matthew John Matern,REP,2,2,0,0,0
+Bosque,Precinct 1,President,,Uncommitted,REP,3,1,2,0,0
+Bosque,Precinct 2,President,,Uncommitted,REP,5,4,1,0,0
+Bosque,Precinct 3,President,,Uncommitted,REP,21,9,10,2,0
+Bosque,Precinct 4,President,,Uncommitted,REP,6,5,1,0,0
+Bosque,Precinct 5,President,,Uncommitted,REP,17,11,5,1,0
+Bosque,Precinct 6,President,,Uncommitted,REP,11,8,2,1,0
+Bosque,Precinct 7,President,,Uncommitted,REP,4,4,0,0,0
+Bosque,Precinct 8,President,,Uncommitted,REP,15,6,8,1,0
+Bosque,Precinct 9,President,,Uncommitted,REP,12,7,3,2,0
+Bosque,Precinct 10,President,,Uncommitted,REP,9,8,1,0,0
+Bosque,Precinct 11,President,,Uncommitted,REP,4,1,2,1,0
+Bosque,Total,President,,Uncommitted,REP,107,64,35,8,0
+Bosque,Precinct 1,U.S. Senate,,Adrian Ocegueda,DEM,0,0,0,0,0
+Bosque,Precinct 2,U.S. Senate,,Adrian Ocegueda,DEM,1,1,0,0,0
+Bosque,Precinct 3,U.S. Senate,,Adrian Ocegueda,DEM,1,1,0,0,0
+Bosque,Precinct 4,U.S. Senate,,Adrian Ocegueda,DEM,0,0,0,0,0
+Bosque,Precinct 5,U.S. Senate,,Adrian Ocegueda,DEM,1,1,0,0,0
+Bosque,Precinct 6,U.S. Senate,,Adrian Ocegueda,DEM,1,1,0,0,0
+Bosque,Precinct 7,U.S. Senate,,Adrian Ocegueda,DEM,0,0,0,0,0
+Bosque,Precinct 8,U.S. Senate,,Adrian Ocegueda,DEM,8,7,0,1,0
+Bosque,Precinct 9,U.S. Senate,,Adrian Ocegueda,DEM,4,3,1,0,0
+Bosque,Precinct 10,U.S. Senate,,Adrian Ocegueda,DEM,3,3,0,0,0
+Bosque,Precinct 11,U.S. Senate,,Adrian Ocegueda,DEM,0,0,1,0,0
+Bosque,Total,U.S. Senate,,Adrian Ocegueda,DEM,19,17,2,1,0
+Bosque,Precinct 1,U.S. Senate,,Chris Bell,DEM,2,1,1,0,0
+Bosque,Precinct 2,U.S. Senate,,Chris Bell,DEM,5,4,0,1,0
+Bosque,Precinct 3,U.S. Senate,,Chris Bell,DEM,7,5,2,0,0
+Bosque,Precinct 4,U.S. Senate,,Chris Bell,DEM,0,0,0,0,0
+Bosque,Precinct 5,U.S. Senate,,Chris Bell,DEM,14,4,8,2,0
+Bosque,Precinct 6,U.S. Senate,,Chris Bell,DEM,7,6,0,1,0
+Bosque,Precinct 7,U.S. Senate,,Chris Bell,DEM,5,3,0,2,0
+Bosque,Precinct 8,U.S. Senate,,Chris Bell,DEM,18,13,2,3,0
+Bosque,Precinct 9,U.S. Senate,,Chris Bell,DEM,7,4,3,0,0
+Bosque,Precinct 10,U.S. Senate,,Chris Bell,DEM,2,1,0,1,0
+Bosque,Precinct 11,U.S. Senate,,Chris Bell,DEM,5,3,2,0,0
+Bosque,Total,U.S. Senate,,Chris Bell,DEM,72,44,18,10,0
+Bosque,Precinct 1,U.S. Senate,,Royce West,DEM,9,5,2,2,0
+Bosque,Precinct 2,U.S. Senate,,Royce West,DEM,7,6,1,0,0
+Bosque,Precinct 3,U.S. Senate,,Royce West,DEM,9,3,6,0,0
+Bosque,Precinct 4,U.S. Senate,,Royce West,DEM,4,2,1,1,0
+Bosque,Precinct 5,U.S. Senate,,Royce West,DEM,22,11,6,5,0
+Bosque,Precinct 6,U.S. Senate,,Royce West,DEM,10,6,3,1,0
+Bosque,Precinct 7,U.S. Senate,,Royce West,DEM,3,0,1,2,0
+Bosque,Precinct 8,U.S. Senate,,Royce West,DEM,15,5,2,8,0
+Bosque,Precinct 9,U.S. Senate,,Royce West,DEM,9,2,4,3,0
+Bosque,Precinct 10,U.S. Senate,,Royce West,DEM,4,2,2,0,0
+Bosque,Precinct 11,U.S. Senate,,Royce West,DEM,5,1,4,0,0
+Bosque,Total,U.S. Senate,,Royce West,DEM,97,43,32,22,0
+Bosque,Precinct 1,U.S. Senate,,Sema Hernandez,DEM,1,1,0,0,0
+Bosque,Precinct 2,U.S. Senate,,Sema Hernandez,DEM,4,4,0,0,0
+Bosque,Precinct 3,U.S. Senate,,Sema Hernandez,DEM,1,0,1,0,0
+Bosque,Precinct 4,U.S. Senate,,Sema Hernandez,DEM,1,1,0,0,0
+Bosque,Precinct 5,U.S. Senate,,Sema Hernandez,DEM,4,1,3,0,0
+Bosque,Precinct 6,U.S. Senate,,Sema Hernandez,DEM,2,2,0,0,0
+Bosque,Precinct 7,U.S. Senate,,Sema Hernandez,DEM,2,1,1,0,0
+Bosque,Precinct 8,U.S. Senate,,Sema Hernandez,DEM,4,3,1,0,0
+Bosque,Precinct 9,U.S. Senate,,Sema Hernandez,DEM,0,0,0,0,0
+Bosque,Precinct 10,U.S. Senate,,Sema Hernandez,DEM,2,1,1,0,0
+Bosque,Precinct 11,U.S. Senate,,Sema Hernandez,DEM,3,1,1,1,0
+Bosque,Total,U.S. Senate,,Sema Hernandez,DEM,24,15,8,1,0
+Bosque,Precinct 1,U.S. Senate,,Cristina Tzintzun Ramirez,DEM,3,3,0,0,0
+Bosque,Precinct 2,U.S. Senate,,Cristina Tzintzun Ramirez,DEM,6,4,1,1,0
+Bosque,Precinct 3,U.S. Senate,,Cristina Tzintzun Ramirez,DEM,3,2,1,0,0
+Bosque,Precinct 4,U.S. Senate,,Cristina Tzintzun Ramirez,DEM,5,3,2,0,0
+Bosque,Precinct 5,U.S. Senate,,Cristina Tzintzun Ramirez,DEM,4,4,0,0,0
+Bosque,Precinct 6,U.S. Senate,,Cristina Tzintzun Ramirez,DEM,1,1,0,0,0
+Bosque,Precinct 7,U.S. Senate,,Cristina Tzintzun Ramirez,DEM,2,1,1,0,0
+Bosque,Precinct 8,U.S. Senate,,Cristina Tzintzun Ramirez,DEM,9,4,5,0,0
+Bosque,Precinct 9,U.S. Senate,,Cristina Tzintzun Ramirez,DEM,5,4,1,0,0
+Bosque,Precinct 10,U.S. Senate,,Cristina Tzintzun Ramirez,DEM,10,5,5,0,0
+Bosque,Precinct 11,U.S. Senate,,Cristina Tzintzun Ramirez,DEM,1,1,0,0,0
+Bosque,Total,U.S. Senate,,Cristina Tzintzun Ramirez,DEM,49,32,16,1,0
+Bosque,Precinct 1,U.S. Senate,,"Jack Daniel Foster, Jr,",DEM,3,3,0,0,0
+Bosque,Precinct 2,U.S. Senate,,"Jack Daniel Foster, Jr,",DEM,1,1,0,0,0
+Bosque,Precinct 3,U.S. Senate,,"Jack Daniel Foster, Jr,",DEM,1,1,0,0,0
+Bosque,Precinct 4,U.S. Senate,,"Jack Daniel Foster, Jr,",DEM,0,0,0,0,0
+Bosque,Precinct 5,U.S. Senate,,"Jack Daniel Foster, Jr,",DEM,1,1,0,0,0
+Bosque,Precinct 6,U.S. Senate,,"Jack Daniel Foster, Jr,",DEM,2,1,1,0,0
+Bosque,Precinct 7,U.S. Senate,,"Jack Daniel Foster, Jr,",DEM,0,0,0,0,0
+Bosque,Precinct 8,U.S. Senate,,"Jack Daniel Foster, Jr,",DEM,2,1,0,1,0
+Bosque,Precinct 9,U.S. Senate,,"Jack Daniel Foster, Jr,",DEM,1,1,0,0,0
+Bosque,Precinct 10,U.S. Senate,,"Jack Daniel Foster, Jr,",DEM,4,4,0,0,0
+Bosque,Precinct 11,U.S. Senate,,"Jack Daniel Foster, Jr,",DEM,1,1,0,0,0
+Bosque,Total,U.S. Senate,,"Jack Daniel Foster, Jr,",DEM,16,14,1,1,0
+Bosque,Precinct 1,U.S. Senate,,D. R. Hunter,DEM,0,0,0,0,0
+Bosque,Precinct 2,U.S. Senate,,D. R. Hunter,DEM,0,0,0,0,0
+Bosque,Precinct 3,U.S. Senate,,D. R. Hunter,DEM,1,0,1,0,0
+Bosque,Precinct 4,U.S. Senate,,D. R. Hunter,DEM,1,0,0,1,0
+Bosque,Precinct 5,U.S. Senate,,D. R. Hunter,DEM,1,1,0,0,0
+Bosque,Precinct 6,U.S. Senate,,D. R. Hunter,DEM,2,0,1,1,0
+Bosque,Precinct 7,U.S. Senate,,D. R. Hunter,DEM,0,0,0,0,0
+Bosque,Precinct 8,U.S. Senate,,D. R. Hunter,DEM,2,1,1,0,0
+Bosque,Precinct 9,U.S. Senate,,D. R. Hunter,DEM,1,0,1,0,0
+Bosque,Precinct 10,U.S. Senate,,D. R. Hunter,DEM,1,0,1,0,0
+Bosque,Precinct 11,U.S. Senate,,D. R. Hunter,DEM,2,2,0,0,0
+Bosque,Total,U.S. Senate,,D. R. Hunter,DEM,11,4,5,2,0
+Bosque,Precinct 1,U.S. Senate,,"Mary ""MJ"" Heger",DEM,5,4,0,1,0
+Bosque,Precinct 2,U.S. Senate,,"Mary ""MJ"" Heger",DEM,20,8,11,1,0
+Bosque,Precinct 3,U.S. Senate,,"Mary ""MJ"" Heger",DEM,13,5,8,0,0
+Bosque,Precinct 4,U.S. Senate,,"Mary ""MJ"" Heger",DEM,5,1,3,1,0
+Bosque,Precinct 5,U.S. Senate,,"Mary ""MJ"" Heger",DEM,45,17,17,11,0
+Bosque,Precinct 6,U.S. Senate,,"Mary ""MJ"" Heger",DEM,44,23,15,6,0
+Bosque,Precinct 7,U.S. Senate,,"Mary ""MJ"" Heger",DEM,13,11,1,1,0
+Bosque,Precinct 8,U.S. Senate,,"Mary ""MJ"" Heger",DEM,38,21,5,12,0
+Bosque,Precinct 9,U.S. Senate,,"Mary ""MJ"" Heger",DEM,25,15,6,4,0
+Bosque,Precinct 10,U.S. Senate,,"Mary ""MJ"" Heger",DEM,23,18,0,5,0
+Bosque,Precinct 11,U.S. Senate,,"Mary ""MJ"" Heger",DEM,19,5,10,4,0
+Bosque,Total,U.S. Senate,,"Mary ""MJ"" Heger",DEM,250,128,76,46,0
+Bosque,Precinct 1,U.S. Senate,,"Annie ""Mama"" Garcia",DEM,3,3,0,0,0
+Bosque,Precinct 2,U.S. Senate,,"Annie ""Mama"" Garcia",DEM,4,3,1,0,0
+Bosque,Precinct 3,U.S. Senate,,"Annie ""Mama"" Garcia",DEM,3,1,2,0,0
+Bosque,Precinct 4,U.S. Senate,,"Annie ""Mama"" Garcia",DEM,2,2,0,0,0
+Bosque,Precinct 5,U.S. Senate,,"Annie ""Mama"" Garcia",DEM,6,3,2,1,0
+Bosque,Precinct 6,U.S. Senate,,"Annie ""Mama"" Garcia",DEM,7,5,2,0,0
+Bosque,Precinct 7,U.S. Senate,,"Annie ""Mama"" Garcia",DEM,1,1,0,0,0
+Bosque,Precinct 8,U.S. Senate,,"Annie ""Mama"" Garcia",DEM,9,7,1,1,0
+Bosque,Precinct 9,U.S. Senate,,"Annie ""Mama"" Garcia",DEM,1,1,0,0,0
+Bosque,Precinct 10,U.S. Senate,,"Annie ""Mama"" Garcia",DEM,6,5,1,0,0
+Bosque,Precinct 11,U.S. Senate,,"Annie ""Mama"" Garcia",DEM,3,1,0,2,0
+Bosque,Total,U.S. Senate,,"Annie ""Mama"" Garcia",DEM,45,32,9,4,0
+Bosque,Precinct 1,U.S. Senate,,Michael Cooper,DEM,0,0,0,0,0
+Bosque,Precinct 2,U.S. Senate,,Michael Cooper,DEM,3,3,0,0,0
+Bosque,Precinct 3,U.S. Senate,,Michael Cooper,DEM,0,0,0,0,0
+Bosque,Precinct 4,U.S. Senate,,Michael Cooper,DEM,1,0,1,0,0
+Bosque,Precinct 5,U.S. Senate,,Michael Cooper,DEM,1,1,0,0,0
+Bosque,Precinct 6,U.S. Senate,,Michael Cooper,DEM,2,1,0,1,0
+Bosque,Precinct 7,U.S. Senate,,Michael Cooper,DEM,0,0,0,0,0
+Bosque,Precinct 8,U.S. Senate,,Michael Cooper,DEM,2,1,0,1,0
+Bosque,Precinct 9,U.S. Senate,,Michael Cooper,DEM,0,0,0,0,0
+Bosque,Precinct 10,U.S. Senate,,Michael Cooper,DEM,0,0,0,0,0
+Bosque,Precinct 11,U.S. Senate,,Michael Cooper,DEM,1,1,0,0,0
+Bosque,Total,U.S. Senate,,Michael Cooper,DEM,10,7,1,2,0
+Bosque,Precinct 1,U.S. Senate,,Amanda K. Edwards,DEM,0,0,0,0,0
+Bosque,Precinct 2,U.S. Senate,,Amanda K. Edwards,DEM,2,1,1,0,0
+Bosque,Precinct 3,U.S. Senate,,Amanda K. Edwards,DEM,5,2,3,0,0
+Bosque,Precinct 4,U.S. Senate,,Amanda K. Edwards,DEM,1,1,0,0,0
+Bosque,Precinct 5,U.S. Senate,,Amanda K. Edwards,DEM,8,7,0,1,0
+Bosque,Precinct 6,U.S. Senate,,Amanda K. Edwards,DEM,3,2,1,0,0
+Bosque,Precinct 7,U.S. Senate,,Amanda K. Edwards,DEM,3,0,2,1,0
+Bosque,Precinct 8,U.S. Senate,,Amanda K. Edwards,DEM,4,3,1,0,0
+Bosque,Precinct 9,U.S. Senate,,Amanda K. Edwards,DEM,5,2,3,0,0
+Bosque,Precinct 10,U.S. Senate,,Amanda K. Edwards,DEM,7,6,0,1,0
+Bosque,Precinct 11,U.S. Senate,,Amanda K. Edwards,DEM,1,1,0,0,0
+Bosque,Total,U.S. Senate,,Amanda K. Edwards,DEM,39,25,11,3,0
+Bosque,Precinct 1,U.S. Senate,,Victor Hugo Harris,DEM,1,1,0,0,0
+Bosque,Precinct 2,U.S. Senate,,Victor Hugo Harris,DEM,0,0,0,0,0
+Bosque,Precinct 3,U.S. Senate,,Victor Hugo Harris,DEM,0,0,0,0,0
+Bosque,Precinct 4,U.S. Senate,,Victor Hugo Harris,DEM,0,0,0,0,0
+Bosque,Precinct 5,U.S. Senate,,Victor Hugo Harris,DEM,2,2,0,0,0
+Bosque,Precinct 6,U.S. Senate,,Victor Hugo Harris,DEM,2,2,0,0,0
+Bosque,Precinct 7,U.S. Senate,,Victor Hugo Harris,DEM,0,0,0,0,0
+Bosque,Precinct 8,U.S. Senate,,Victor Hugo Harris,DEM,2,2,0,0,0
+Bosque,Precinct 9,U.S. Senate,,Victor Hugo Harris,DEM,1,1,0,0,0
+Bosque,Precinct 10,U.S. Senate,,Victor Hugo Harris,DEM,1,1,0,0,0
+Bosque,Precinct 11,U.S. Senate,,Victor Hugo Harris,DEM,1,1,0,0,0
+Bosque,Total,U.S. Senate,,Victor Hugo Harris,DEM,10,10,0,0,0
+Bosque,Precinct 1,U.S. Senate,,Dwayne Stovall,REP,35,27,8,0,0
+Bosque,Precinct 2,U.S. Senate,,Dwayne Stovall,REP,63,43,17,3,0
+Bosque,Precinct 3,U.S. Senate,,Dwayne Stovall,REP,82,38,41,3,0
+Bosque,Precinct 4,U.S. Senate,,Dwayne Stovall,REP,36,12,24,0,0
+Bosque,Precinct 5,U.S. Senate,,Dwayne Stovall,REP,86,49,31,6,0
+Bosque,Precinct 6,U.S. Senate,,Dwayne Stovall,REP,85,61,20,3,1
+Bosque,Precinct 7,U.S. Senate,,Dwayne Stovall,REP,46,34,9,3,0
+Bosque,Precinct 8,U.S. Senate,,Dwayne Stovall,REP,137,86,46,5,0
+Bosque,Precinct 9,U.S. Senate,,Dwayne Stovall,REP,44,25,19,0,0
+Bosque,Precinct 10,U.S. Senate,,Dwayne Stovall,REP,66,48,15,3,0
+Bosque,Precinct 11,U.S. Senate,,Dwayne Stovall,REP,53,36,13,4,0
+Bosque,Total,U.S. Senate,,Dwayne Stovall,REP,733,459,243,30,1
+Bosque,Precinct 1,U.S. Senate,,Mark Yancey,REP,8,5,2,1,0
+Bosque,Precinct 2,U.S. Senate,,Mark Yancey,REP,19,15,4,0,0
+Bosque,Precinct 3,U.S. Senate,,Mark Yancey,REP,23,11,11,1,0
+Bosque,Precinct 4,U.S. Senate,,Mark Yancey,REP,10,3,7,0,0
+Bosque,Precinct 5,U.S. Senate,,Mark Yancey,REP,26,16,10,0,0
+Bosque,Precinct 6,U.S. Senate,,Mark Yancey,REP,29,23,6,0,0
+Bosque,Precinct 7,U.S. Senate,,Mark Yancey,REP,9,6,3,0,0
+Bosque,Precinct 8,U.S. Senate,,Mark Yancey,REP,37,22,14,1,0
+Bosque,Precinct 9,U.S. Senate,,Mark Yancey,REP,16,12,4,0,0
+Bosque,Precinct 10,U.S. Senate,,Mark Yancey,REP,8,6,2,0,0
+Bosque,Precinct 11,U.S. Senate,,Mark Yancey,REP,14,9,4,1,0
+Bosque,Total,U.S. Senate,,Mark Yancey,REP,199,128,67,4,0
+Bosque,Precinct 1,U.S. Senate,,John Anthony Castro,REP,6,3,3,0,0
+Bosque,Precinct 2,U.S. Senate,,John Anthony Castro,REP,10,6,3,1,0
+Bosque,Precinct 3,U.S. Senate,,John Anthony Castro,REP,17,7,10,0,0
+Bosque,Precinct 4,U.S. Senate,,John Anthony Castro,REP,5,3,2,0,0
+Bosque,Precinct 5,U.S. Senate,,John Anthony Castro,REP,19,15,3,1,0
+Bosque,Precinct 6,U.S. Senate,,John Anthony Castro,REP,15,12,1,1,1
+Bosque,Precinct 7,U.S. Senate,,John Anthony Castro,REP,3,1,2,0,0
+Bosque,Precinct 8,U.S. Senate,,John Anthony Castro,REP,35,28,6,1,0
+Bosque,Precinct 9,U.S. Senate,,John Anthony Castro,REP,3,2,1,0,0
+Bosque,Precinct 10,U.S. Senate,,John Anthony Castro,REP,12,12,0,0,0
+Bosque,Precinct 11,U.S. Senate,,John Anthony Castro,REP,5,2,3,0,0
+Bosque,Total,U.S. Senate,,John Anthony Castro,REP,130,91,34,4,1
+Bosque,Precinct 1,U.S. Senate,,John Cornyn,REP,170,121,46,3,0
+Bosque,Precinct 2,U.S. Senate,,John Cornyn,REP,164,104,48,11,1
+Bosque,Precinct 3,U.S. Senate,,John Cornyn,REP,256,104,135,15,2
+Bosque,Precinct 4,U.S. Senate,,John Cornyn,REP,136,74,59,2,1
+Bosque,Precinct 5,U.S. Senate,,John Cornyn,REP,293,159,117,17,0
+Bosque,Precinct 6,U.S. Senate,,John Cornyn,REP,253,161,79,13,0
+Bosque,Precinct 7,U.S. Senate,,John Cornyn,REP,171,90,71,10,0
+Bosque,Precinct 8,U.S. Senate,,John Cornyn,REP,495,262,192,41,0
+Bosque,Precinct 9,U.S. Senate,,John Cornyn,REP,223,118,79,26,0
+Bosque,Precinct 10,U.S. Senate,,John Cornyn,REP,234,196,33,5,0
+Bosque,Precinct 11,U.S. Senate,,John Cornyn,REP,135,87,38,10,0
+Bosque,Total,U.S. Senate,,John Cornyn,REP,2530,1476,897,153,4
+Bosque,Precinct 1,U.S. Senate,,Virgil Bierschwale,REP,1,1,0,0,0
+Bosque,Precinct 2,U.S. Senate,,Virgil Bierschwale,REP,0,0,0,0,0
+Bosque,Precinct 3,U.S. Senate,,Virgil Bierschwale,REP,8,5,2,1,0
+Bosque,Precinct 4,U.S. Senate,,Virgil Bierschwale,REP,4,1,3,0,0
+Bosque,Precinct 5,U.S. Senate,,Virgil Bierschwale,REP,3,3,0,0,0
+Bosque,Precinct 6,U.S. Senate,,Virgil Bierschwale,REP,8,7,1,0,0
+Bosque,Precinct 7,U.S. Senate,,Virgil Bierschwale,REP,2,1,1,0,0
+Bosque,Precinct 8,U.S. Senate,,Virgil Bierschwale,REP,3,3,0,0,0
+Bosque,Precinct 9,U.S. Senate,,Virgil Bierschwale,REP,4,3,1,0,0
+Bosque,Precinct 10,U.S. Senate,,Virgil Bierschwale,REP,2,1,1,0,0
+Bosque,Precinct 11,U.S. Senate,,Virgil Bierschwale,REP,3,2,1,0,0
+Bosque,Total,U.S. Senate,,Virgil Bierschwale,REP,38,27,10,1,0
+Bosque,Precinct 1,U.S. House,25,Julie Oliver,DEM,21,14,2,5,0
+Bosque,Precinct 2,U.S. House,25,Julie Oliver,DEM,43,28,12,3,0
+Bosque,Precinct 3,U.S. House,25,Julie Oliver,DEM,33,13,20,0,0
+Bosque,Precinct 4,U.S. House,25,Julie Oliver,DEM,11,5,5,1,0
+Bosque,Precinct 5,U.S. House,25,Julie Oliver,DEM,76,40,21,15,0
+Bosque,Precinct 6,U.S. House,25,Julie Oliver,DEM,65,39,16,10,0
+Bosque,Precinct 7,U.S. House,25,Julie Oliver,DEM,17,8,4,5,0
+Bosque,Precinct 8,U.S. House,25,Julie Oliver,DEM,71,42,9,20,0
+Bosque,Precinct 9,U.S. House,25,Julie Oliver,DEM,41,21,13,7,0
+Bosque,Precinct 10,U.S. House,25,Julie Oliver,DEM,44,30,8,6,0
+Bosque,Precinct 11,U.S. House,25,Julie Oliver,DEM,36,16,15,5,0
+Bosque,Total,U.S. House,25,Julie Oliver,DEM,458,256,125,77,0
+Bosque,Precinct 1,U.S. House,25,Heidi Sloan,DEM,7,6,1,0,0
+Bosque,Precinct 2,U.S. House,25,Heidi Sloan,DEM,15,9,4,2,0
+Bosque,Precinct 3,U.S. House,25,Heidi Sloan,DEM,9,5,4,0,0
+Bosque,Precinct 4,U.S. House,25,Heidi Sloan,DEM,8,5,1,2,0
+Bosque,Precinct 5,U.S. House,25,Heidi Sloan,DEM,31,11,15,5,0
+Bosque,Precinct 6,U.S. House,25,Heidi Sloan,DEM,17,11,5,1,0
+Bosque,Precinct 7,U.S. House,25,Heidi Sloan,DEM,12,9,2,1,0
+Bosque,Precinct 8,U.S. House,25,Heidi Sloan,DEM,49,32,8,9,0
+Bosque,Precinct 9,U.S. House,25,Heidi Sloan,DEM,16,11,5,0,0
+Bosque,Precinct 10,U.S. House,25,Heidi Sloan,DEM,23,20,2,1,0
+Bosque,Precinct 11,U.S. House,25,Heidi Sloan,DEM,6,1,3,2,0
+Bosque,Total,U.S. House,25,Heidi Sloan,DEM,193,120,50,23,0
+Bosque,Precinct 1,U.S. House,25,Roger Williams,REP,194,139,51,4,0
+Bosque,Precinct 2,U.S. House,25,Roger Williams,REP,224,148,62,13,1
+Bosque,Precinct 3,U.S. House,25,Roger Williams,REP,340,146,174,18,2
+Bosque,Precinct 4,U.S. House,25,Roger Williams,REP,170,82,85,2,1
+Bosque,Precinct 5,U.S. House,25,Roger Williams,REP,359,201,137,21,0
+Bosque,Precinct 6,U.S. House,25,Roger Williams,REP,324,216,89,17,2
+Bosque,Precinct 7,U.S. House,25,Roger Williams,REP,201,114,75,12,0
+Bosque,Precinct 8,U.S. House,25,Roger Williams,REP,625,349,233,43,0
+Bosque,Precinct 9,U.S. House,25,Roger Williams,REP,266,147,95,24,0
+Bosque,Precinct 10,U.S. House,25,Roger Williams,REP,276,224,46,6,0
+Bosque,Precinct 11,U.S. House,25,Roger Williams,REP,175,112,50,13,0
+Bosque,Total,U.S. House,25,Roger Williams,REP,3154,1878,1097,173,6
+Bosque,Precinct 1,U.S. House,25,Keith Neuendorff,REP,15,12,3,0,0
+Bosque,Precinct 2,U.S. House,25,Keith Neuendorff,REP,27,20,7,0,0
+Bosque,Precinct 3,U.S. House,25,Keith Neuendorff,REP,32,13,18,1,0
+Bosque,Precinct 4,U.S. House,25,Keith Neuendorff,REP,15,8,7,0,0
+Bosque,Precinct 5,U.S. House,25,Keith Neuendorff,REP,52,32,18,2,0
+Bosque,Precinct 6,U.S. House,25,Keith Neuendorff,REP,49,35,14,0,0
+Bosque,Precinct 7,U.S. House,25,Keith Neuendorff,REP,24,15,8,1,0
+Bosque,Precinct 8,U.S. House,25,Keith Neuendorff,REP,64,39,23,2,0
+Bosque,Precinct 9,U.S. House,25,Keith Neuendorff,REP,21,10,9,2,0
+Bosque,Precinct 10,U.S. House,25,Keith Neuendorff,REP,36,28,6,2,0
+Bosque,Precinct 11,U.S. House,25,Keith Neuendorff,REP,22,13,7,2,0
+Bosque,Total,U.S. House,25,Keith Neuendorff,REP,357,225,120,12,0
+Bosque,Precinct 1,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,8,5,2,1,0
+Bosque,Precinct 2,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,14,9,5,0,0
+Bosque,Precinct 3,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,12,6,6,0,0
+Bosque,Precinct 4,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,2,1,1,0,0
+Bosque,Precinct 5,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,24,12,9,3,0
+Bosque,Precinct 6,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,21,17,3,1,0
+Bosque,Precinct 7,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,10,7,1,2,0
+Bosque,Precinct 8,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,28,22,2,4,0
+Bosque,Precinct 9,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,13,10,3,0,0
+Bosque,Precinct 10,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,16,12,3,0,0
+Bosque,Precinct 11,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,12,4,4,4,0
+Bosque,Total,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,160,105,39,15,0
+Bosque,Precinct 1,Railroad Commissioner,,Mark Watson,DEM,9,7,1,1,0
+Bosque,Precinct 2,Railroad Commissioner,,Mark Watson,DEM,13,8,1,4,0
+Bosque,Precinct 3,Railroad Commissioner,,Mark Watson,DEM,9,3,6,0,0
+Bosque,Precinct 4,Railroad Commissioner,,Mark Watson,DEM,5,3,1,1,0
+Bosque,Precinct 5,Railroad Commissioner,,Mark Watson,DEM,28,11,7,10,0
+Bosque,Precinct 6,Railroad Commissioner,,Mark Watson,DEM,20,12,5,3,0
+Bosque,Precinct 7,Railroad Commissioner,,Mark Watson,DEM,5,4,1,0,0
+Bosque,Precinct 8,Railroad Commissioner,,Mark Watson,DEM,30,15,5,10,0
+Bosque,Precinct 9,Railroad Commissioner,,Mark Watson,DEM,0,3,1,4,0
+Bosque,Precinct 10,Railroad Commissioner,,Mark Watson,DEM,13,10,2,1,0
+Bosque,Precinct 11,Railroad Commissioner,,Mark Watson,DEM,11,6,4,1,0
+Bosque,Total,Railroad Commissioner,,Mark Watson,DEM,143,82,34,35,0
+Bosque,Precinct 1,Railroad Commissioner,,Chrysta Castaneda,DEM,5,4,0,1,0
+Bosque,Precinct 2,Railroad Commissioner,,Chrysta Castaneda,DEM,17,10,7,0,0
+Bosque,Precinct 3,Railroad Commissioner,,Chrysta Castaneda,DEM,7,4,3,0,0
+Bosque,Precinct 4,Railroad Commissioner,,Chrysta Castaneda,DEM,7,3,3,1,0
+Bosque,Precinct 5,Railroad Commissioner,,Chrysta Castaneda,DEM,25,9,14,2,0
+Bosque,Precinct 6,Railroad Commissioner,,Chrysta Castaneda,DEM,17,6,7,4,0
+Bosque,Precinct 7,Railroad Commissioner,,Chrysta Castaneda,DEM,7,1,2,4,0
+Bosque,Precinct 8,Railroad Commissioner,,Chrysta Castaneda,DEM,25,14,4,7,0
+Bosque,Precinct 9,Railroad Commissioner,,Chrysta Castaneda,DEM,17,7,7,3,0
+Bosque,Precinct 10,Railroad Commissioner,,Chrysta Castaneda,DEM,25,15,5,5,0
+Bosque,Precinct 11,Railroad Commissioner,,Chrysta Castaneda,DEM,11,3,6,2,0
+Bosque,Total,Railroad Commissioner,,Chrysta Castaneda,DEM,163,76,58,29,0
+Bosque,Precinct 1,Railroad Commissioner,,Kelly Stone,DEM,3,3,0,0,0
+Bosque,Precinct 2,Railroad Commissioner,,Kelly Stone,DEM,11,7,3,1,0
+Bosque,Precinct 3,Railroad Commissioner,,Kelly Stone,DEM,10,3,7,0,0
+Bosque,Precinct 4,Railroad Commissioner,,Kelly Stone,DEM,4,3,0,1,0
+Bosque,Precinct 5,Railroad Commissioner,,Kelly Stone,DEM,27,15,6,6,0
+Bosque,Precinct 6,Railroad Commissioner,,Kelly Stone,DEM,23,13,7,3,0
+Bosque,Precinct 7,Railroad Commissioner,,Kelly Stone,DEM,6,4,2,0,0
+Bosque,Precinct 8,Railroad Commissioner,,Kelly Stone,DEM,31,19,5,7,0
+Bosque,Precinct 9,Railroad Commissioner,,Kelly Stone,DEM,17,10,7,0,0
+Bosque,Precinct 10,Railroad Commissioner,,Kelly Stone,DEM,12,12,0,0,0
+Bosque,Precinct 11,Railroad Commissioner,,Kelly Stone,DEM,8,5,3,0,0
+Bosque,Total,Railroad Commissioner,,Kelly Stone,DEM,152,94,40,18,0
+Bosque,Precinct 1,Railroad Commissioner,,Ryan Sitton,REP,101,69,29,3,0
+Bosque,Precinct 2,Railroad Commissioner,,Ryan Sitton,REP,103,65,29,9,0
+Bosque,Precinct 3,Railroad Commissioner,,Ryan Sitton,REP,154,74,70,8,2
+Bosque,Precinct 4,Railroad Commissioner,,Ryan Sitton,REP,88,34,52,2,0
+Bosque,Precinct 5,Railroad Commissioner,,Ryan Sitton,REP,174,90,74,10,0
+Bosque,Precinct 6,Railroad Commissioner,,Ryan Sitton,REP,137,93,35,7,2
+Bosque,Precinct 7,Railroad Commissioner,,Ryan Sitton,REP,104,58,40,6,0
+Bosque,Precinct 8,Railroad Commissioner,,Ryan Sitton,REP,298,179,103,16,0
+Bosque,Precinct 9,Railroad Commissioner,,Ryan Sitton,REP,124,56,54,14,0
+Bosque,Precinct 10,Railroad Commissioner,,Ryan Sitton,REP,112,92,17,3,0
+Bosque,Precinct 11,Railroad Commissioner,,Ryan Sitton,REP,95,59,24,12,0
+Bosque,Total,Railroad Commissioner,,Ryan Sitton,REP,1490,869,527,90,4
+Bosque,Precinct 1,Railroad Commissioner,,"James ""Jim"" Wright",REP,110,83,26,1,0
+Bosque,Precinct 2,Railroad Commissioner,,"James ""Jim"" Wright",REP,138,93,40,4,1
+Bosque,Precinct 3,Railroad Commissioner,,"James ""Jim"" Wright",REP,193,76,107,10,0
+Bosque,Precinct 4,Railroad Commissioner,,"James ""Jim"" Wright",REP,94,51,43,0,0
+Bosque,Precinct 5,Railroad Commissioner,,"James ""Jim"" Wright",REP,236,144,79,13,0
+Bosque,Precinct 6,Railroad Commissioner,,"James ""Jim"" Wright",REP,227,157,62,8,0
+Bosque,Precinct 7,Railroad Commissioner,,"James ""Jim"" Wright",REP,106,62,37,7,0
+Bosque,Precinct 8,Railroad Commissioner,,"James ""Jim"" Wright",REP,361,199,139,23,0
+Bosque,Precinct 9,Railroad Commissioner,,"James ""Jim"" Wright",REP,147,97,42,8,0
+Bosque,Precinct 10,Railroad Commissioner,,"James ""Jim"" Wright",REP,197,160,32,5,0
+Bosque,Precinct 11,Railroad Commissioner,,"James ""Jim"" Wright",REP,107,71,33,3,0
+Bosque,Total,Railroad Commissioner,,"James ""Jim"" Wright",REP,1916,1193,640,82,1
+Bosque,Precinct 1,State Senate,22,Robert Vick,DEM,22,16,3,3,0
+Bosque,Precinct 2,State Senate,22,Robert Vick,DEM,47,30,14,3,0
+Bosque,Precinct 3,State Senate,22,Robert Vick,DEM,32,16,16,0,0
+Bosque,Precinct 4,State Senate,22,Robert Vick,DEM,21,10,8,3,0
+Bosque,Precinct 5,State Senate,22,Robert Vick,DEM,94,44,32,18,0
+Bosque,Precinct 6,State Senate,22,Robert Vick,DEM,74,43,22,9,0
+Bosque,Precinct 7,State Senate,22,Robert Vick,DEM,23,12,6,5,0
+Bosque,Precinct 8,State Senate,22,Robert Vick,DEM,100,60,13,27,0
+Bosque,Precinct 9,State Senate,22,Robert Vick,DEM,52,28,18,6,0
+Bosque,Precinct 10,State Senate,22,Robert Vick,DEM,58,45,7,6,0
+Bosque,Precinct 11,State Senate,22,Robert Vick,DEM,39,17,15,7,0
+Bosque,Total,State Senate,22,Robert Vick,DEM,562,321,154,87,0
+Bosque,Precinct 1,State Senate,22,Brian Birdwell,REP,197,140,53,4,0
+Bosque,Precinct 2,State Senate,22,Brian Birdwell,REP,234,153,70,10,1
+Bosque,Precinct 3,State Senate,22,Brian Birdwell,REP,344,151,173,18,2
+Bosque,Precinct 4,State Senate,22,Brian Birdwell,REP,179,89,87,2,1
+Bosque,Precinct 5,State Senate,22,Brian Birdwell,REP,400,227,151,22,0
+Bosque,Precinct 6,State Senate,22,Brian Birdwell,REP,354,239,99,14,2
+Bosque,Precinct 7,State Senate,22,Brian Birdwell,REP,211,124,74,13,0
+Bosque,Precinct 8,State Senate,22,Brian Birdwell,REP,663,375,245,43,0
+Bosque,Precinct 9,State Senate,22,Brian Birdwell,REP,267,146,96,25,0
+Bosque,Precinct 10,State Senate,22,Brian Birdwell,REP,298,242,48,8,0
+Bosque,Precinct 11,State Senate,22,Brian Birdwell,REP,196,127,56,13,0
+Bosque,Total,State Senate,22,Brian Birdwell,REP,3343,2013,1152,172,6
+Bosque,Precinct 1,State Representative ,58,Cindy Rocha,DEM,21,15,3,3,0
+Bosque,Precinct 2,State Representative ,58,Cindy Rocha,DEM,45,28,14,3,0
+Bosque,Precinct 3,State Representative ,58,Cindy Rocha,DEM,34,17,17,0,0
+Bosque,Precinct 4,State Representative ,58,Cindy Rocha,DEM,21,10,8,3,0
+Bosque,Precinct 5,State Representative ,58,Cindy Rocha,DEM,94,43,33,18,0
+Bosque,Precinct 6,State Representative ,58,Cindy Rocha,DEM,72,42,21,9,0
+Bosque,Precinct 7,State Representative ,58,Cindy Rocha,DEM,24,12,6,6,0
+Bosque,Precinct 8,State Representative ,58,Cindy Rocha,DEM,102,63,13,26,0
+Bosque,Precinct 9,State Representative ,58,Cindy Rocha,DEM,55,31,18,6,0
+Bosque,Precinct 10,State Representative ,58,Cindy Rocha,DEM,59,44,9,6,0
+Bosque,Precinct 11,State Representative ,58,Cindy Rocha,DEM,37,17,14,6,0
+Bosque,Total,State Representative ,58,Cindy Rocha,DEM,564,322,156,86,0
+Bosque,Precinct 1,State Representative ,58,DeWayne Burns,REP,195,141,50,4,0
+Bosque,Precinct 2,State Representative ,58,DeWayne Burns,REP,235,154,69,11,1
+Bosque,Precinct 3,State Representative ,58,DeWayne Burns,REP,344,151,172,19,2
+Bosque,Precinct 4,State Representative ,58,DeWayne Burns,REP,177,87,87,2,1
+Bosque,Precinct 5,State Representative ,58,DeWayne Burns,REP,393,223,148,22,0
+Bosque,Precinct 6,State Representative ,58,DeWayne Burns,REP,357,243,98,14,2
+Bosque,Precinct 7,State Representative ,58,DeWayne Burns,REP,210,122,75,13,0
+Bosque,Precinct 8,State Representative ,58,DeWayne Burns,REP,659,378,239,42,0
+Bosque,Precinct 9,State Representative ,58,DeWayne Burns,REP,266,150,91,25,0
+Bosque,Precinct 10,State Representative ,58,DeWayne Burns,REP,297,242,47,8,0
+Bosque,Precinct 11,State Representative ,58,DeWayne Burns,REP,194,124,56,14,0
+Bosque,Total,State Representative ,58,DeWayne Burns,REP,3327,2015,1132,174,6
