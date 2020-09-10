@@ -1,223 +1,497 @@
-﻿county,precinct,office,district,party,candidate,mail,early_voting,election_day,votes
-Kimble,BBM,President,,REP,BILL WELD,0,0,0,0
-Kimble,PCT 1,President,,REP,BILL WELD,0,6,4,10
-Kimble,PCT 2,President,,REP,BILL WELD,0,0,1,1
-Kimble,PCT 3,President,,REP,BILL WELD,0,0,1,1
-Kimble,PCT 4,President,,REP,BILL WELD,0,3,0,3
-Kimble,PCT 6,President,,REP,BILL WELD,0,0,0,0
-Kimble,PCT 7,President,,REP,BILL WELD,0,0,2,2
-Kimble,PCT 9,President,,REP,BILL WELD,0,3,0,3
-Kimble,BBM,President,,REP,BOB ELY,0,0,0,0
-Kimble,PCT 1,President,,REP,BOB ELY,0,0,0,0
-Kimble,PCT 2,President,,REP,BOB ELY,0,0,0,0
-Kimble,PCT 3,President,,REP,BOB ELY,0,1,1,2
-Kimble,PCT 4,President,,REP,BOB ELY,0,0,0,0
-Kimble,PCT 6,President,,REP,BOB ELY,0,0,0,0
-Kimble,PCT 7,President,,REP,BOB ELY,0,0,0,0
-Kimble,PCT 9,President,,REP,BOB ELY,0,0,0,0
-Kimble,BBM,President,,REP,DONALD J TRUMP,47,0,0,47
-Kimble,PCT 1,President,,REP,DONALD J TRUMP,0,196,139,335
-Kimble,PCT 2,President,,REP,DONALD J TRUMP,0,95,69,164
-Kimble,PCT 3,President,,REP,DONALD J TRUMP,0,55,61,116
-Kimble,PCT 4,President,,REP,DONALD J TRUMP,0,93,71,164
-Kimble,PCT 6,President,,REP,DONALD J TRUMP,0,48,98,146
-Kimble,PCT 7,President,,REP,DONALD J TRUMP,0,32,79,111
-Kimble,PCT 9,President,,REP,DONALD J TRUMP,0,137,76,213
-Kimble,BBM,President,,REP,JOE WALSH,0,0,0,0
-Kimble,PCT 1,President,,REP,JOE WALSH,0,1,0,1
-Kimble,PCT 2,President,,REP,JOE WALSH,0,2,2,4
-Kimble,PCT 3,President,,REP,JOE WALSH,0,0,2,2
-Kimble,PCT 4,President,,REP,JOE WALSH,0,0,0,0
-Kimble,PCT 6,President,,REP,JOE WALSH,0,0,2,2
-Kimble,PCT 7,President,,REP,JOE WALSH,0,0,0,0
-Kimble,PCT 9,President,,REP,JOE WALSH,0,0,0,0
-Kimble,BBM,President,,REP,MATTHEW JOHN MATERN,0,0,0,0
-Kimble,PCT 1,President,,REP,MATTHEW JOHN MATERN,0,1,0,1
-Kimble,PCT 2,President,,REP,MATTHEW JOHN MATERN,0,0,0,0
-Kimble,PCT 3,President,,REP,MATTHEW JOHN MATERN,0,1,0,1
-Kimble,PCT 4,President,,REP,MATTHEW JOHN MATERN,0,0,0,0
-Kimble,PCT 6,President,,REP,MATTHEW JOHN MATERN,0,0,0,0
-Kimble,PCT 7,President,,REP,MATTHEW JOHN MATERN,0,0,1,1
-Kimble,PCT 9,President,,REP,MATTHEW JOHN MATERN,0,0,0,0
-Kimble,BBM,President,,REP,"ROQUE ""ROCKY"" DEL FUENTE GUERRA",0,0,0,0
-Kimble,PCT 1,President,,REP,"ROQUE ""ROCKY"" DEL FUENTE GUERRA",0,2,1,3
-Kimble,PCT 2,President,,REP,"ROQUE ""ROCKY"" DEL FUENTE GUERRA",0,1,2,3
-Kimble,PCT 3,President,,REP,"ROQUE ""ROCKY"" DEL FUENTE GUERRA",0,2,0,2
-Kimble,PCT 4,President,,REP,"ROQUE ""ROCKY"" DEL FUENTE GUERRA",0,0,0,0
-Kimble,PCT 6,President,,REP,"ROQUE ""ROCKY"" DEL FUENTE GUERRA",0,0,0,0
-Kimble,PCT 7,President,,REP,"ROQUE ""ROCKY"" DEL FUENTE GUERRA",0,0,0,0
-Kimble,PCT 9,President,,REP,"ROQUE ""ROCKY"" DEL FUENTE GUERRA",0,1,0,1
-Kimble,BBM,President,,REP,UNCOMMITTED,0,0,0,0
-Kimble,PCT 1,President,,REP,UNCOMMITTED,0,18,1,19
-Kimble,PCT 2,President,,REP,UNCOMMITTED,0,1,6,7
-Kimble,PCT 3,President,,REP,UNCOMMITTED,0,2,3,5
-Kimble,PCT 4,President,,REP,UNCOMMITTED,0,3,3,6
-Kimble,PCT 6,President,,REP,UNCOMMITTED,0,0,4,4
-Kimble,PCT 7,President,,REP,UNCOMMITTED,0,0,0,0
-Kimble,PCT 9,President,,REP,UNCOMMITTED,0,2,10,12
-Kimble,BBM,President,,REP,ZOLTAN G. ISTVAN,0,0,0,0
-Kimble,PCT 1,President,,REP,ZOLTAN G. ISTVAN,0,0,0,0
-Kimble,PCT 2,President,,REP,ZOLTAN G. ISTVAN,0,0,0,0
-Kimble,PCT 3,President,,REP,ZOLTAN G. ISTVAN,0,0,0,0
-Kimble,PCT 4,President,,REP,ZOLTAN G. ISTVAN,0,0,0,0
-Kimble,PCT 6,President,,REP,ZOLTAN G. ISTVAN,0,1,0,1
-Kimble,PCT 7,President,,REP,ZOLTAN G. ISTVAN,0,0,0,0
-Kimble,PCT 9,President,,REP,ZOLTAN G. ISTVAN,0,0,0,0
-Kimble,BBM,Railroad Commissioner,,REP,"JAMES ""JIM"" WRIGHT",23,0,0,23
-Kimble,PCT 1,Railroad Commissioner,,REP,"JAMES ""JIM"" WRIGHT",0,150,94,244
-Kimble,PCT 2,Railroad Commissioner,,REP,"JAMES ""JIM"" WRIGHT",0,57,61,118
-Kimble,PCT 3,Railroad Commissioner,,REP,"JAMES ""JIM"" WRIGHT",0,36,49,85
-Kimble,PCT 4,Railroad Commissioner,,REP,"JAMES ""JIM"" WRIGHT",0,65,50,115
-Kimble,PCT 6,Railroad Commissioner,,REP,"JAMES ""JIM"" WRIGHT",0,32,65,97
-Kimble,PCT 7,Railroad Commissioner,,REP,"JAMES ""JIM"" WRIGHT",0,21,55,76
-Kimble,PCT 9,Railroad Commissioner,,REP,"JAMES ""JIM"" WRIGHT",0,94,55,149
-Kimble,BBM,Railroad Commissioner,,REP,RYAN SITTON,20,0,0,20
-Kimble,PCT 1,Railroad Commissioner,,REP,RYAN SITTON,0,40,30,70
-Kimble,PCT 2,Railroad Commissioner,,REP,RYAN SITTON,0,21,5,26
-Kimble,PCT 3,Railroad Commissioner,,REP,RYAN SITTON,0,14,14,28
-Kimble,PCT 4,Railroad Commissioner,,REP,RYAN SITTON,0,20,19,39
-Kimble,PCT 6,Railroad Commissioner,,REP,RYAN SITTON,0,10,25,35
-Kimble,PCT 7,Railroad Commissioner,,REP,RYAN SITTON,0,9,15,24
-Kimble,PCT 9,Railroad Commissioner,,REP,RYAN SITTON,0,26,14,40
-Kimble,BBM,State Representative,53,REP,ANDREW S. MURR,44,0,0,44
-Kimble,PCT 1,State Representative,53,REP,ANDREW S. MURR,0,199,130,329
-Kimble,PCT 2,State Representative,53,REP,ANDREW S. MURR,0,85,75,160
-Kimble,PCT 3,State Representative,53,REP,ANDREW S. MURR,0,58,67,125
-Kimble,PCT 4,State Representative,53,REP,ANDREW S. MURR,0,93,66,159
-Kimble,PCT 6,State Representative,53,REP,ANDREW S. MURR,0,43,96,139
-Kimble,PCT 7,State Representative,53,REP,ANDREW S. MURR,0,29,76,105
-Kimble,PCT 9,State Representative,53,REP,ANDREW S. MURR,0,128,75,203
-Kimble,BBM,State Senator,28,REP,CHARLES PERRY,40,0,0,40
-Kimble,PCT 1,State Senator,28,REP,CHARLES PERRY,0,173,109,282
-Kimble,PCT 2,State Senator,28,REP,CHARLES PERRY,0,72,61,133
-Kimble,PCT 3,State Senator,28,REP,CHARLES PERRY,0,46,60,106
-Kimble,PCT 4,State Senator,28,REP,CHARLES PERRY,0,76,57,133
-Kimble,PCT 6,State Senator,28,REP,CHARLES PERRY,0,37,82,119
-Kimble,PCT 7,State Senator,28,REP,CHARLES PERRY,0,25,70,95
-Kimble,PCT 9,State Senator,28,REP,CHARLES PERRY,0,103,62,165
-Kimble,BBM,U.S. House,11,REP,AUGUST PFLUGER,38,0,0,38
-Kimble,PCT 1,U.S. House,11,REP,AUGUST PFLUGER,0,159,82,241
-Kimble,PCT 2,U.S. House,11,REP,AUGUST PFLUGER,0,66,46,112
-Kimble,PCT 3,U.S. House,11,REP,AUGUST PFLUGER,0,50,38,88
-Kimble,PCT 4,U.S. House,11,REP,AUGUST PFLUGER,0,65,41,106
-Kimble,PCT 6,U.S. House,11,REP,AUGUST PFLUGER,0,24,60,84
-Kimble,PCT 7,U.S. House,11,REP,AUGUST PFLUGER,0,17,35,52
-Kimble,PCT 9,U.S. House,11,REP,AUGUST PFLUGER,0,96,43,139
-Kimble,BBM,U.S. House,11,REP,BRANDON BATCH,2,0,0,2
-Kimble,PCT 1,U.S. House,11,REP,BRANDON BATCH,0,29,22,51
-Kimble,PCT 2,U.S. House,11,REP,BRANDON BATCH,0,15,17,32
-Kimble,PCT 3,U.S. House,11,REP,BRANDON BATCH,0,1,16,17
-Kimble,PCT 4,U.S. House,11,REP,BRANDON BATCH,0,14,21,35
-Kimble,PCT 6,U.S. House,11,REP,BRANDON BATCH,0,18,23,41
-Kimble,PCT 6,U.S. House,11,REP,BRANDON BATCH,0,3,14,17
-Kimble,PCT 9,U.S. House,11,REP,BRANDON BATCH,0,26,21,47
-Kimble,BBM,U.S. House,11,REP,CASEY GRAY,0,0,0,0
-Kimble,PCT 1,U.S. House,11,REP,CASEY GRAY,0,1,3,4
-Kimble,PCT 2,U.S. House,11,REP,CASEY GRAY,0,1,1,2
-Kimble,PCT 3,U.S. House,11,REP,CASEY GRAY,0,1,0,1
-Kimble,PCT 4,U.S. House,11,REP,CASEY GRAY,0,0,0,0
-Kimble,PCT 6,U.S. House,11,REP,CASEY GRAY,0,0,1,1
-Kimble,PCT 7,U.S. House,11,REP,CASEY GRAY,0,0,2,2
-Kimble,PCT 9,U.S. House,11,REP,CASEY GRAY,0,1,1,2
-Kimble,BBM,U.S. House,11,REP,GENE BARBAR,2,0,0,2
-Kimble,PCT 1,U.S. House,11,REP,GENE BARBAR,0,2,2,4
-Kimble,PCT 2,U.S. House,11,REP,GENE BARBAR,0,2,2,4
-Kimble,PCT 3,U.S. House,11,REP,GENE BARBAR,0,0,3,3
-Kimble,PCT 4,U.S. House,11,REP,GENE BARBAR,0,1,1,2
-Kimble,PCT 6,U.S. House,11,REP,GENE BARBAR,0,0,1,1
-Kimble,PCT 7,U.S. House,11,REP,GENE BARBAR,0,1,3,4
-Kimble,PCT 9,U.S. House,11,REP,GENE BARBAR,0,0,2,2
-Kimble,BBM,U.S. House,11,REP,J. ROSS LACY,0,0,0,0
-Kimble,PCT 1,U.S. House,11,REP,J. ROSS LACY,0,2,7,9
-Kimble,PCT 2,U.S. House,11,REP,J. ROSS LACY,0,2,0,2
-Kimble,PCT 3,U.S. House,11,REP,J. ROSS LACY,0,1,1,2
-Kimble,PCT 4,U.S. House,11,REP,J. ROSS LACY,0,1,1,2
-Kimble,PCT 6,U.S. House,11,REP,J. ROSS LACY,0,0,2,2
-Kimble,PCT 7,U.S. House,11,REP,J. ROSS LACY,0,0,2,2
-Kimble,PCT 9,U.S. House,11,REP,J. ROSS LACY,0,2,3,5
-Kimble,BBM,U.S. House,11,REP,J.D. FAIRCLOTH,2,0,0,2
-Kimble,PCT 1,U.S. House,11,REP,J.D. FAIRCLOTH,0,6,1,7
-Kimble,PCT 2,U.S. House,11,REP,J.D. FAIRCLOTH,0,3,0,3
-Kimble,PCT 3,U.S. House,11,REP,J.D. FAIRCLOTH,0,1,0,1
-Kimble,PCT 4,U.S. House,11,REP,J.D. FAIRCLOTH,0,0,0,0
-Kimble,PCT 6,U.S. House,11,REP,J.D. FAIRCLOTH,0,1,2,3
-Kimble,PCT 7,U.S. House,11,REP,J.D. FAIRCLOTH,0,0,0,0
-Kimble,PCT 9,U.S. House,11,REP,J.D. FAIRCLOTH,0,1,2,3
-Kimble,BBM,U.S. House,11,REP,JAMIE BERRYHILL,0,0,0,0
-Kimble,PCT 1,U.S. House,11,REP,JAMIE BERRYHILL,0,0,7,7
-Kimble,PCT 2,U.S. House,11,REP,JAMIE BERRYHILL,0,2,1,3
-Kimble,PCT 3,U.S. House,11,REP,JAMIE BERRYHILL,0,3,1,4
-Kimble,PCT 4,U.S. House,11,REP,JAMIE BERRYHILL,0,0,1,1
-Kimble,PCT 6,U.S. House,11,REP,JAMIE BERRYHILL,0,1,3,4
-Kimble,PCT 7,U.S. House,11,REP,JAMIE BERRYHILL,0,5,4,9
-Kimble,PCT 9,U.S. House,11,REP,JAMIE BERRYHILL,0,7,7,14
-Kimble,BBM,U.S. House,11,REP,NED LUSCOMBE,0,0,0,0
-Kimble,PCT 1,U.S. House,11,REP,NED LUSCOMBE,0,11,3,14
-Kimble,PCT 2,U.S. House,11,REP,NED LUSCOMBE,0,0,2,2
-Kimble,PCT 3,U.S. House,11,REP,NED LUSCOMBE,0,0,1,1
-Kimble,PCT 4,U.S. House,11,REP,NED LUSCOMBE,0,3,1,4
-Kimble,PCT 6,U.S. House,11,REP,NED LUSCOMBE,0,0,0,0
-Kimble,PCT 7,U.S. House,11,REP,NED LUSCOMBE,0,2,1,3
-Kimble,PCT 9,U.S. House,11,REP,NED LUSCOMBE,0,2,2,4
-Kimble,BBM,U.S. House,11,REP,ROBERT TUCKER,0,0,0,0
-Kimble,PCT 1,U.S. House,11,REP,ROBERT TUCKER,0,3,5,8
-Kimble,PCT 2,U.S. House,11,REP,ROBERT TUCKER,0,1,3,4
-Kimble,PCT 3,U.S. House,11,REP,ROBERT TUCKER,0,1,3,4
-Kimble,PCT 4,U.S. House,11,REP,ROBERT TUCKER,0,5,2,7
-Kimble,PCT 6,U.S. House,11,REP,ROBERT TUCKER,0,1,3,4
-Kimble,PCT 7,U.S. House,11,REP,ROBERT TUCKER,0,1,4,5
-Kimble,PCT 9,U.S. House,11,REP,ROBERT TUCKER,0,2,1,3
-Kimble,BBM,U.S. House,11,REP,WESLEY W. VIRDELL,0,0,0,0
-Kimble,PCT 1,U.S. House,11,REP,WESLEY W. VIRDELL,0,4,2,6
-Kimble,PCT 2,U.S. House,11,REP,WESLEY W. VIRDELL,0,2,2,4
-Kimble,PCT 3,U.S. House,11,REP,WESLEY W. VIRDELL,0,0,3,3
-Kimble,PCT 4,U.S. House,11,REP,WESLEY W. VIRDELL,0,3,2,5
-Kimble,PCT 6,U.S. House,11,REP,WESLEY W. VIRDELL,0,3,3,6
-Kimble,PCT 7,U.S. House,11,REP,WESLEY W. VIRDELL,0,3,8,11
-Kimble,PCT 9,U.S. House,11,REP,WESLEY W. VIRDELL,0,1,0,1
-Kimble,BBM,U.S. Senate,,REP,DWAYNE STOVALL,8,0,0,8
-Kimble,PCT 1,U.S. Senate,,REP,DWAYNE STOVALL,0,32,24,56
-Kimble,PCT 2,U.S. Senate,,REP,DWAYNE STOVALL,0,9,14,23
-Kimble,PCT 3,U.S. Senate,,REP,DWAYNE STOVALL,0,3,16,19
-Kimble,PCT 4,U.S. Senate,,REP,DWAYNE STOVALL,0,13,15,28
-Kimble,PCT 6,U.S. Senate,,REP,DWAYNE STOVALL,0,8,20,28
-Kimble,PCT 7,U.S. Senate,,REP,DWAYNE STOVALL,0,7,12,19
-Kimble,PCT 9,U.S. Senate,,REP,DWAYNE STOVALL,0,22,16,38
-Kimble,BBM,U.S. Senate,,REP,JOHN ANTHONY CASTRO,0,0,0,0
-Kimble,PCT 1,U.S. Senate,,REP,JOHN ANTHONY CASTRO,0,9,6,15
-Kimble,PCT 2,U.S. Senate,,REP,JOHN ANTHONY CASTRO,0,2,8,10
-Kimble,PCT 3,U.S. Senate,,REP,JOHN ANTHONY CASTRO,0,2,2,4
-Kimble,PCT 4,U.S. Senate,,REP,JOHN ANTHONY CASTRO,0,6,5,11
-Kimble,PCT 6,U.S. Senate,,REP,JOHN ANTHONY CASTRO,0,1,7,8
-Kimble,PCT 7,U.S. Senate,,REP,JOHN ANTHONY CASTRO,0,0,1,1
-Kimble,PCT 9,U.S. Senate,,REP,JOHN ANTHONY CASTRO,0,3,6,9
-Kimble,BBM,U.S. Senate,,REP,JOHN CORNYN,35,0,0,35
-Kimble,PCT 1,U.S. Senate,,REP,JOHN CORNYN,0,140,78,218
-Kimble,PCT 2,U.S. Senate,,REP,JOHN CORNYN,0,57,37,94
-Kimble,PCT 3,U.S. Senate,,REP,JOHN CORNYN,0,48,41,89
-Kimble,PCT 4,U.S. Senate,,REP,JOHN CORNYN,0,58,43,101
-Kimble,PCT 6,U.S. Senate,,REP,JOHN CORNYN,0,29,58,87
-Kimble,PCT 7,U.S. Senate,,REP,JOHN CORNYN,0,22,63,85
-Kimble,PCT 9,U.S. Senate,,REP,JOHN CORNYN,0,90,49,139
-Kimble,BBM,U.S. Senate,,REP,MARK YANCY,0,0,0,0
-Kimble,PCT 1,U.S. Senate,,REP,MARK YANCY,0,4,8,12
-Kimble,PCT 2,U.S. Senate,,REP,MARK YANCY,0,5,5,10
-Kimble,PCT 3,U.S. Senate,,REP,MARK YANCY,0,1,1,2
-Kimble,PCT 4,U.S. Senate,,REP,MARK YANCY,0,3,4,7
-Kimble,PCT 6,U.S. Senate,,REP,MARK YANCY,0,2,3,5
-Kimble,PCT 7,U.S. Senate,,REP,MARK YANCY,0,2,0,2
-Kimble,PCT 9,U.S. Senate,,REP,MARK YANCY,0,11,1,12
-Kimble,BBM,U.S. Senate,,REP,VIRGIL BIERSCHWALE,3,0,0,3
-Kimble,PCT 1,U.S. Senate,,REP,VIRGIL BIERSCHWALE,0,34,21,55
-Kimble,PCT 2,U.S. Senate,,REP,VIRGIL BIERSCHWALE,0,17,8,25
-Kimble,PCT 3,U.S. Senate,,REP,VIRGIL BIERSCHWALE,0,5,5,10
-Kimble,PCT 4,U.S. Senate,,REP,VIRGIL BIERSCHWALE,0,7,4,11
-Kimble,PCT 6,U.S. Senate,,REP,VIRGIL BIERSCHWALE,0,4,11,15
-Kimble,PCT 7,U.S. Senate,,REP,VIRGIL BIERSCHWALE,0,1,3,4
-Kimble,PCT 9,U.S. Senate,,REP,VIRGIL BIERSCHWALE,0,7,8,15
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
+county,precinct,office,district,party,candidate,early_voting,election_day,votes
+Kimble,1,President,,DEM,JULIAN CASTRO,0,1,1
+Kimble,1,President,,DEM,TULSI GABBARD,0,0,0
+Kimble,1,President,,DEM,MARIANNE WILLIAMSON,0,0,0
+Kimble,1,President,,DEM,PETE BUTTIGIEG,0,0,0
+Kimble,1,President,,DEM,BERNIE SANDERS,2,1,3
+Kimble,1,President,,DEM,AMY KLOBUCHAR,1,0,1
+Kimble,1,President,,DEM,"ROQUE ""ROCKY"" DE LA FUENTE",1,0,1
+Kimble,1,President,,DEM,MICHAEL BENNETT,0,0,0
+Kimble,1,President,,DEM,ELIZABETH WARREN,1,1,2
+Kimble,1,President,,DEM,CORY BOOKER,0,0,0
+Kimble,1,President,,DEM,JOHN K. DELANEY,0,0,0
+Kimble,1,President,,DEM,ANDREW YANG,0,0,0
+Kimble,1,President,,DEM,ROBBY WELLS,0,0,0
+Kimble,1,President,,DEM,MICHAEL BLOOMBERG,0,3,3
+Kimble,1,President,,DEM,TOM STEYER,0,0,0
+Kimble,1,President,,DEM,DEVAL PATRICK,0,0,0
+Kimble,1,President,,DEM,JOSEPH R. BIDEN,2,6,8
+Kimble,1,U.S. Senate,,DEM,CRISTINA TZINTZUN RAMIREZ,2,2,4
+Kimble,1,U.S. Senate,,DEM,D. R. HUNTER,0,1,1
+Kimble,1,U.S. Senate,,DEM,"JACK DANIEL FOSTER, JR.",0,0,0
+Kimble,1,U.S. Senate,,DEM,SEMA HERNANDEZ,1,4,5
+Kimble,1,U.S. Senate,,DEM,CHRIS BELL,0,0,0
+Kimble,1,U.S. Senate,,DEM,"ANNIE ""MAMA"" GARCIA",2,0,2
+Kimble,1,U.S. Senate,,DEM,ADRIAN OCEGUEDA,0,0,0
+Kimble,1,U.S. Senate,,DEM,VICTOR HUGE HARRIS,0,0,0
+Kimble,1,U.S. Senate,,DEM,AMAMDA L. EDWARDS,0,0,0
+Kimble,1,U.S. Senate,,DEM,ROYCE WEST,0,1,1
+Kimble,1,U.S. Senate,,DEM,MICHAEL COOPER,0,1,1
+Kimble,1,U.S. Senate,,DEM,"MARY ""MJ"" HEGAR",1,3,4
+Kimble,1,U.S. House,11,DEM,JON MARK HOGG,3,11,14
+Kimble,1,Railroad Commissioner,,DEM,"ROBERTO R. ""BETO"" ALONZO",1,4,5
+Kimble,1,Railroad Commissioner,,DEM,CHRYSTA CASTENEDA,2,3,5
+Kimble,1,Railroad Commissioner,,DEM,KELLY STONE,0,2,2
+Kimble,1,Railroad Commissioner,,DEM,MARK WATSON,2,3,5
+Kimble,1,State Representative,53,DEM,JOE P. HERRERA,3,11,14
+Kimble,Mail,President,,DEM,JULIAN CASTRO,,,0
+Kimble,Mail,President,,DEM,TULSI GABBARD,,,0
+Kimble,Mail,President,,DEM,MARIANNE WILLIAMSON,,,0
+Kimble,Mail,President,,DEM,PETE BUTTIGIEG,,,0
+Kimble,Mail,President,,DEM,BERNIE SANDERS,,,2
+Kimble,Mail,President,,DEM,AMY KLOBUCHAR,,,0
+Kimble,Mail,President,,DEM,"ROQUE ""ROCKY"" DE LA FUENTE",,,0
+Kimble,Mail,President,,DEM,MICHAEL BENNETT,,,0
+Kimble,Mail,President,,DEM,ELIZABETH WARREN,,,0
+Kimble,Mail,President,,DEM,CORY BOOKER,,,0
+Kimble,Mail,President,,DEM,JOHN K. DELANEY,,,0
+Kimble,Mail,President,,DEM,ANDREW YANG,,,0
+Kimble,Mail,President,,DEM,ROBBY WELLS,,,0
+Kimble,Mail,President,,DEM,MICHAEL BLOOMBERG,,,1
+Kimble,Mail,President,,DEM,TOM STEYER,,,0
+Kimble,Mail,President,,DEM,DEVAL PATRICK,,,0
+Kimble,Mail,President,,DEM,JOSEPH R. BIDEN,,,8
+Kimble,Mail,U.S. Senate,,DEM,CRISTINA TZINTZUN RAMIREZ,,,2
+Kimble,Mail,U.S. Senate,,DEM,D. R. HUNTER,,,0
+Kimble,Mail,U.S. Senate,,DEM,"JACK DANIEL FOSTER, JR.",,,0
+Kimble,Mail,U.S. Senate,,DEM,SEMA HERNANDEZ,,,1
+Kimble,Mail,U.S. Senate,,DEM,CHRIS BELL,,,1
+Kimble,Mail,U.S. Senate,,DEM,"ANNIE ""MAMA"" GARCIA",,,0
+Kimble,Mail,U.S. Senate,,DEM,ADRIAN OCEGUEDA,,,0
+Kimble,Mail,U.S. Senate,,DEM,VICTOR HUGE HARRIS,,,1
+Kimble,Mail,U.S. Senate,,DEM,AMAMDA L. EDWARDS,,,1
+Kimble,Mail,U.S. Senate,,DEM,ROYCE WEST,,,1
+Kimble,Mail,U.S. Senate,,DEM,MICHAEL COOPER,,,0
+Kimble,Mail,U.S. Senate,,DEM,"MARY ""MJ"" HEGAR",,,2
+Kimble,Mail,U.S. House,11,DEM,JON MARK HOGG,,,11
+Kimble,Mail,Railroad Commissioner,,DEM,"ROBERTO R. ""BETO"" ALONZO",,,5
+Kimble,Mail,Railroad Commissioner,,DEM,CHRYSTA CASTENEDA,,,2
+Kimble,Mail,Railroad Commissioner,,DEM,KELLY STONE,,,3
+Kimble,Mail,Railroad Commissioner,,DEM,MARK WATSON,,,0
+Kimble,Mail,State Representative,53,DEM,JOE P. HERRERA,,,9
+Kimble,2,President,,DEM,JULIAN CASTRO,0,0,0
+Kimble,2,President,,DEM,TULSI GABBARD,0,0,0
+Kimble,2,President,,DEM,MARIANNE WILLIAMSON,0,0,0
+Kimble,2,President,,DEM,PETE BUTTIGIEG,1,0,1
+Kimble,2,President,,DEM,BERNIE SANDERS,2,1,3
+Kimble,2,President,,DEM,AMY KLOBUCHAR,0,0,0
+Kimble,2,President,,DEM,"ROQUE ""ROCKY"" DE LA FUENTE",0,0,0
+Kimble,2,President,,DEM,MICHAEL BENNETT,0,0,0
+Kimble,2,President,,DEM,ELIZABETH WARREN,0,2,2
+Kimble,2,President,,DEM,CORY BOOKER,0,0,0
+Kimble,2,President,,DEM,JOHN K. DELANEY,0,0,0
+Kimble,2,President,,DEM,ANDREW YANG,0,0,0
+Kimble,2,President,,DEM,ROBBY WELLS,0,0,0
+Kimble,2,President,,DEM,MICHAEL BLOOMBERG,1,0,1
+Kimble,2,President,,DEM,TOM STEYER,0,0,0
+Kimble,2,President,,DEM,DEVAL PATRICK,0,0,0
+Kimble,2,President,,DEM,JOSEPH R. BIDEN,0,1,1
+Kimble,2,U.S. Senate,,DEM,CRISTINA TZINTZUN RAMIREZ,1,1,2
+Kimble,2,U.S. Senate,,DEM,D. R. HUNTER,0,0,0
+Kimble,2,U.S. Senate,,DEM,"JACK DANIEL FOSTER, JR.",0,0,0
+Kimble,2,U.S. Senate,,DEM,SEMA HERNANDEZ,0,1,1
+Kimble,2,U.S. Senate,,DEM,CHRIS BELL,0,0,0
+Kimble,2,U.S. Senate,,DEM,"ANNIE ""MAMA"" GARCIA",1,1,2
+Kimble,2,U.S. Senate,,DEM,ADRIAN OCEGUEDA,0,0,0
+Kimble,2,U.S. Senate,,DEM,VICTOR HUGE HARRIS,0,0,0
+Kimble,2,U.S. Senate,,DEM,AMAMDA L. EDWARDS,1,0,1
+Kimble,2,U.S. Senate,,DEM,ROYCE WEST,0,0,0
+Kimble,2,U.S. Senate,,DEM,MICHAEL COOPER,0,0,0
+Kimble,2,U.S. Senate,,DEM,"MARY ""MJ"" HEGAR",0,0,0
+Kimble,2,U.S. House,11,DEM,JON MARK HOGG,3,3,6
+Kimble,2,Railroad Commissioner,,DEM,"ROBERTO R. ""BETO"" ALONZO",0,1,1
+Kimble,2,Railroad Commissioner,,DEM,CHRYSTA CASTENEDA,1,0,1
+Kimble,2,Railroad Commissioner,,DEM,KELLY STONE,1,1,2
+Kimble,2,Railroad Commissioner,,DEM,MARK WATSON,1,0,1
+Kimble,2,State Representative,53,DEM,JOE P. HERRERA,3,2,5
+Kimble,3,President,,DEM,JULIAN CASTRO,0,0,0
+Kimble,3,President,,DEM,TULSI GABBARD,0,0,0
+Kimble,3,President,,DEM,MARIANNE WILLIAMSON,0,0,0
+Kimble,3,President,,DEM,PETE BUTTIGIEG,0,0,0
+Kimble,3,President,,DEM,BERNIE SANDERS,0,1,1
+Kimble,3,President,,DEM,AMY KLOBUCHAR,1,0,1
+Kimble,3,President,,DEM,"ROQUE ""ROCKY"" DE LA FUENTE",0,0,0
+Kimble,3,President,,DEM,MICHAEL BENNETT,0,0,0
+Kimble,3,President,,DEM,ELIZABETH WARREN,0,0,0
+Kimble,3,President,,DEM,CORY BOOKER,0,0,0
+Kimble,3,President,,DEM,JOHN K. DELANEY,0,0,0
+Kimble,3,President,,DEM,ANDREW YANG,0,0,0
+Kimble,3,President,,DEM,ROBBY WELLS,0,0,0
+Kimble,3,President,,DEM,MICHAEL BLOOMBERG,1,1,2
+Kimble,3,President,,DEM,TOM STEYER,0,0,0
+Kimble,3,President,,DEM,DEVAL PATRICK,0,0,0
+Kimble,3,President,,DEM,JOSEPH R. BIDEN,2,2,4
+Kimble,3,U.S. Senate,,DEM,CRISTINA TZINTZUN RAMIREZ,1,1,2
+Kimble,3,U.S. Senate,,DEM,D. R. HUNTER,0,0,0
+Kimble,3,U.S. Senate,,DEM,"JACK DANIEL FOSTER, JR.",0,1,1
+Kimble,3,U.S. Senate,,DEM,SEMA HERNANDEZ,1,0,1
+Kimble,3,U.S. Senate,,DEM,CHRIS BELL,0,1,1
+Kimble,3,U.S. Senate,,DEM,"ANNIE ""MAMA"" GARCIA",0,0,0
+Kimble,3,U.S. Senate,,DEM,ADRIAN OCEGUEDA,0,0,0
+Kimble,3,U.S. Senate,,DEM,VICTOR HUGE HARRIS,0,0,0
+Kimble,3,U.S. Senate,,DEM,AMAMDA L. EDWARDS,0,0,0
+Kimble,3,U.S. Senate,,DEM,ROYCE WEST,0,1,1
+Kimble,3,U.S. Senate,,DEM,MICHAEL COOPER,0,0,0
+Kimble,3,U.S. Senate,,DEM,"MARY ""MJ"" HEGAR",2,0,2
+Kimble,3,U.S. House,11,DEM,JON MARK HOGG,3,4,7
+Kimble,3,Railroad Commissioner,,DEM,"ROBERTO R. ""BETO"" ALONZO",1,2,3
+Kimble,3,Railroad Commissioner,,DEM,CHRYSTA CASTENEDA,2,0,2
+Kimble,3,Railroad Commissioner,,DEM,KELLY STONE,1,2,3
+Kimble,3,Railroad Commissioner,,DEM,MARK WATSON,0,0,0
+Kimble,3,State Representative,53,DEM,JOE P. HERRERA,2,4,6
+Kimble,4,President,,DEM,JULIAN CASTRO,0,0,0
+Kimble,4,President,,DEM,TULSI GABBARD,0,0,0
+Kimble,4,President,,DEM,MARIANNE WILLIAMSON,0,0,0
+Kimble,4,President,,DEM,PETE BUTTIGIEG,1,0,1
+Kimble,4,President,,DEM,BERNIE SANDERS,5,3,8
+Kimble,4,President,,DEM,AMY KLOBUCHAR,0,0,0
+Kimble,4,President,,DEM,"ROQUE ""ROCKY"" DE LA FUENTE",0,0,0
+Kimble,4,President,,DEM,MICHAEL BENNETT,0,0,0
+Kimble,4,President,,DEM,ELIZABETH WARREN,0,0,0
+Kimble,4,President,,DEM,CORY BOOKER,0,0,0
+Kimble,4,President,,DEM,JOHN K. DELANEY,0,0,0
+Kimble,4,President,,DEM,ANDREW YANG,0,0,0
+Kimble,4,President,,DEM,ROBBY WELLS,0,0,0
+Kimble,4,President,,DEM,MICHAEL BLOOMBERG,0,2,2
+Kimble,4,President,,DEM,TOM STEYER,0,0,0
+Kimble,4,President,,DEM,DEVAL PATRICK,0,0,0
+Kimble,4,President,,DEM,JOSEPH R. BIDEN,0,4,4
+Kimble,4,U.S. Senate,,DEM,CRISTINA TZINTZUN RAMIREZ,3,2,5
+Kimble,4,U.S. Senate,,DEM,D. R. HUNTER,0,0,0
+Kimble,4,U.S. Senate,,DEM,"JACK DANIEL FOSTER, JR.",0,2,2
+Kimble,4,U.S. Senate,,DEM,SEMA HERNANDEZ,0,0,0
+Kimble,4,U.S. Senate,,DEM,CHRIS BELL,2,0,2
+Kimble,4,U.S. Senate,,DEM,"ANNIE ""MAMA"" GARCIA",0,0,0
+Kimble,4,U.S. Senate,,DEM,ADRIAN OCEGUEDA,0,0,0
+Kimble,4,U.S. Senate,,DEM,VICTOR HUGE HARRIS,0,0,0
+Kimble,4,U.S. Senate,,DEM,AMAMDA L. EDWARDS,0,1,1
+Kimble,4,U.S. Senate,,DEM,ROYCE WEST,0,2,2
+Kimble,4,U.S. Senate,,DEM,MICHAEL COOPER,0,0,0
+Kimble,4,U.S. Senate,,DEM,"MARY ""MJ"" HEGAR",1,1,2
+Kimble,4,U.S. House,11,DEM,JON MARK HOGG,5,7,12
+Kimble,4,Railroad Commissioner,,DEM,"ROBERTO R. ""BETO"" ALONZO",1,1,2
+Kimble,4,Railroad Commissioner,,DEM,CHRYSTA CASTENEDA,1,2,3
+Kimble,4,Railroad Commissioner,,DEM,KELLY STONE,2,3,5
+Kimble,4,Railroad Commissioner,,DEM,MARK WATSON,2,2,4
+Kimble,4,State Representative,53,DEM,JOE P. HERRERA,5,6,11
+Kimble,6,President,,DEM,JULIAN CASTRO,0,0,0
+Kimble,6,President,,DEM,TULSI GABBARD,0,0,0
+Kimble,6,President,,DEM,MARIANNE WILLIAMSON,0,0,0
+Kimble,6,President,,DEM,PETE BUTTIGIEG,0,0,0
+Kimble,6,President,,DEM,BERNIE SANDERS,0,0,0
+Kimble,6,President,,DEM,AMY KLOBUCHAR,1,0,1
+Kimble,6,President,,DEM,"ROQUE ""ROCKY"" DE LA FUENTE",0,0,0
+Kimble,6,President,,DEM,MICHAEL BENNETT,0,0,0
+Kimble,6,President,,DEM,ELIZABETH WARREN,2,0,2
+Kimble,6,President,,DEM,CORY BOOKER,0,0,0
+Kimble,6,President,,DEM,JOHN K. DELANEY,0,0,0
+Kimble,6,President,,DEM,ANDREW YANG,0,0,0
+Kimble,6,President,,DEM,ROBBY WELLS,0,0,0
+Kimble,6,President,,DEM,MICHAEL BLOOMBERG,0,0,0
+Kimble,6,President,,DEM,TOM STEYER,0,0,0
+Kimble,6,President,,DEM,DEVAL PATRICK,0,0,0
+Kimble,6,President,,DEM,JOSEPH R. BIDEN,0,3,3
+Kimble,6,U.S. Senate,,DEM,CRISTINA TZINTZUN RAMIREZ,0,0,0
+Kimble,6,U.S. Senate,,DEM,D. R. HUNTER,0,0,0
+Kimble,6,U.S. Senate,,DEM,"JACK DANIEL FOSTER, JR.",0,0,0
+Kimble,6,U.S. Senate,,DEM,SEMA HERNANDEZ,0,1,1
+Kimble,6,U.S. Senate,,DEM,CHRIS BELL,0,1,1
+Kimble,6,U.S. Senate,,DEM,"ANNIE ""MAMA"" GARCIA",0,0,0
+Kimble,6,U.S. Senate,,DEM,ADRIAN OCEGUEDA,0,0,0
+Kimble,6,U.S. Senate,,DEM,VICTOR HUGE HARRIS,0,0,0
+Kimble,6,U.S. Senate,,DEM,AMAMDA L. EDWARDS,0,0,0
+Kimble,6,U.S. Senate,,DEM,ROYCE WEST,0,0,0
+Kimble,6,U.S. Senate,,DEM,MICHAEL COOPER,0,0,0
+Kimble,6,U.S. Senate,,DEM,"MARY ""MJ"" HEGAR",3,1,4
+Kimble,6,U.S. House,11,DEM,JON MARK HOGG,3,3,6
+Kimble,6,Railroad Commissioner,,DEM,"ROBERTO R. ""BETO"" ALONZO",0,1,1
+Kimble,6,Railroad Commissioner,,DEM,CHRYSTA CASTENEDA,2,1,3
+Kimble,6,Railroad Commissioner,,DEM,KELLY STONE,1,0,1
+Kimble,6,Railroad Commissioner,,DEM,MARK WATSON,0,1,1
+Kimble,6,State Representative,53,DEM,JOE P. HERRERA,3,3,6
+Kimble,7,President,,DEM,JULIAN CASTRO,0,0,0
+Kimble,7,President,,DEM,TULSI GABBARD,0,0,0
+Kimble,7,President,,DEM,MARIANNE WILLIAMSON,0,0,0
+Kimble,7,President,,DEM,PETE BUTTIGIEG,1,0,1
+Kimble,7,President,,DEM,BERNIE SANDERS,2,4,6
+Kimble,7,President,,DEM,AMY KLOBUCHAR,0,0,0
+Kimble,7,President,,DEM,"ROQUE ""ROCKY"" DE LA FUENTE",0,0,0
+Kimble,7,President,,DEM,MICHAEL BENNETT,0,0,0
+Kimble,7,President,,DEM,ELIZABETH WARREN,0,1,1
+Kimble,7,President,,DEM,CORY BOOKER,0,0,0
+Kimble,7,President,,DEM,JOHN K. DELANEY,0,0,0
+Kimble,7,President,,DEM,ANDREW YANG,0,0,0
+Kimble,7,President,,DEM,ROBBY WELLS,0,0,0
+Kimble,7,President,,DEM,MICHAEL BLOOMBERG,2,1,3
+Kimble,7,President,,DEM,TOM STEYER,0,0,0
+Kimble,7,President,,DEM,DEVAL PATRICK,0,0,0
+Kimble,7,President,,DEM,JOSEPH R. BIDEN,0,4,4
+Kimble,7,U.S. Senate,,DEM,CRISTINA TZINTZUN RAMIREZ,2,1,3
+Kimble,7,U.S. Senate,,DEM,D. R. HUNTER,0,1,1
+Kimble,7,U.S. Senate,,DEM,"JACK DANIEL FOSTER, JR.",1,0,1
+Kimble,7,U.S. Senate,,DEM,SEMA HERNANDEZ,0,1,1
+Kimble,7,U.S. Senate,,DEM,CHRIS BELL,0,2,2
+Kimble,7,U.S. Senate,,DEM,"ANNIE ""MAMA"" GARCIA",0,0,0
+Kimble,7,U.S. Senate,,DEM,ADRIAN OCEGUEDA,0,0,0
+Kimble,7,U.S. Senate,,DEM,VICTOR HUGE HARRIS,0,0,0
+Kimble,7,U.S. Senate,,DEM,AMAMDA L. EDWARDS,0,1,1
+Kimble,7,U.S. Senate,,DEM,ROYCE WEST,0,0,0
+Kimble,7,U.S. Senate,,DEM,MICHAEL COOPER,0,1,1
+Kimble,7,U.S. Senate,,DEM,"MARY ""MJ"" HEGAR",2,3,5
+Kimble,7,U.S. House,11,DEM,JON MARK HOGG,5,9,14
+Kimble,7,Railroad Commissioner,,DEM,"ROBERTO R. ""BETO"" ALONZO",3,2,5
+Kimble,7,Railroad Commissioner,,DEM,CHRYSTA CASTENEDA,0,2,2
+Kimble,7,Railroad Commissioner,,DEM,KELLY STONE,1,3,4
+Kimble,7,Railroad Commissioner,,DEM,MARK WATSON,1,2,3
+Kimble,7,State Representative,53,DEM,JOE P. HERRERA,5,10,15
+Kimble,9,President,,DEM,JULIAN CASTRO,0,0,0
+Kimble,9,President,,DEM,TULSI GABBARD,0,0,0
+Kimble,9,President,,DEM,MARIANNE WILLIAMSON,0,0,0
+Kimble,9,President,,DEM,PETE BUTTIGIEG,2,0,2
+Kimble,9,President,,DEM,BERNIE SANDERS,3,1,4
+Kimble,9,President,,DEM,AMY KLOBUCHAR,0,0,0
+Kimble,9,President,,DEM,"ROQUE ""ROCKY"" DE LA FUENTE",0,0,0
+Kimble,9,President,,DEM,MICHAEL BENNETT,0,0,0
+Kimble,9,President,,DEM,ELIZABETH WARREN,2,1,3
+Kimble,9,President,,DEM,CORY BOOKER,0,0,0
+Kimble,9,President,,DEM,JOHN K. DELANEY,0,0,0
+Kimble,9,President,,DEM,ANDREW YANG,0,0,0
+Kimble,9,President,,DEM,ROBBY WELLS,0,0,0
+Kimble,9,President,,DEM,MICHAEL BLOOMBERG,1,1,2
+Kimble,9,President,,DEM,TOM STEYER,0,0,0
+Kimble,9,President,,DEM,DEVAL PATRICK,0,0,0
+Kimble,9,President,,DEM,JOSEPH R. BIDEN,2,7,9
+Kimble,9,U.S. Senate,,DEM,CRISTINA TZINTZUN RAMIREZ,2,2,4
+Kimble,9,U.S. Senate,,DEM,D. R. HUNTER,0,0,0
+Kimble,9,U.S. Senate,,DEM,"JACK DANIEL FOSTER, JR.",0,0,0
+Kimble,9,U.S. Senate,,DEM,SEMA HERNANDEZ,0,0,0
+Kimble,9,U.S. Senate,,DEM,CHRIS BELL,0,0,0
+Kimble,9,U.S. Senate,,DEM,"ANNIE ""MAMA"" GARCIA",1,1,2
+Kimble,9,U.S. Senate,,DEM,ADRIAN OCEGUEDA,0,0,0
+Kimble,9,U.S. Senate,,DEM,VICTOR HUGE HARRIS,0,0,0
+Kimble,9,U.S. Senate,,DEM,AMAMDA L. EDWARDS,0,1,1
+Kimble,9,U.S. Senate,,DEM,ROYCE WEST,0,0,0
+Kimble,9,U.S. Senate,,DEM,MICHAEL COOPER,1,0,1
+Kimble,9,U.S. Senate,,DEM,"MARY ""MJ"" HEGAR",3,3,6
+Kimble,9,U.S. House,11,DEM,JON MARK HOGG,7,6,13
+Kimble,9,Railroad Commissioner,,DEM,"ROBERTO R. ""BETO"" ALONZO",0,1,1
+Kimble,9,Railroad Commissioner,,DEM,CHRYSTA CASTENEDA,5,0,5
+Kimble,9,Railroad Commissioner,,DEM,KELLY STONE,2,4,6
+Kimble,9,Railroad Commissioner,,DEM,MARK WATSON,0,1,1
+Kimble,9,State Representative,53,DEM,JOE P. HERRERA,7,7,14
+Kimble,Mail,President,,REP,DONALD J TRUMP,,,47
+Kimble,Mail,President,,REP,BILL WELD,,,0
+Kimble,Mail,President,,REP,MATTHEW JOHN MATERN,,,0
+Kimble,Mail,President,,REP,"ROQUE ""ROCKY"" DEL FUENTE GUERRA",,,0
+Kimble,Mail,President,,REP,ZOLTAN G. ISTVAN,,,0
+Kimble,Mail,President,,REP,JOE WALSH,,,0
+Kimble,Mail,President,,REP,BOB ELY,,,0
+Kimble,Mail,President,,REP,UNCOMMITTED,,,0
+Kimble,Mail,U.S. Senate,,REP,DWAYNE STOVALL,,,8
+Kimble,Mail,U.S. Senate,,REP,JOHN CORNYN,,,35
+Kimble,Mail,U.S. Senate,,REP,MARK YANCY,,,0
+Kimble,Mail,U.S. Senate,,REP,VIRGIL BIERSCHWALE,,,3
+Kimble,Mail,U.S. Senate,,REP,JOHN ANTHONY CASTRO,,,0
+Kimble,Mail,U.S. House,11,REP,BRANDON BATCH,,,2
+Kimble,Mail,U.S. House,11,REP,GENE BARBAR,,,2
+Kimble,Mail,U.S. House,11,REP,ROBERT TUCKER,,,0
+Kimble,Mail,U.S. House,11,REP,WESLEY W. VIRDELL,,,0
+Kimble,Mail,U.S. House,11,REP,NED LUSCOMBE,,,0
+Kimble,Mail,U.S. House,11,REP,J. ROSS LACY,,,0
+Kimble,Mail,U.S. House,11,REP,CASEY GRAY,,,0
+Kimble,Mail,U.S. House,11,REP,J.D. FAIRCLOTH,,,2
+Kimble,Mail,U.S. House,11,REP,JAMIE BERRYHILL,,,0
+Kimble,Mail,U.S. House,11,REP,AUGUST PFLUGER,,,38
+Kimble,Mail,Railroad Commissioner,,REP,"JAMES ""JIM"" WRIGHT",,,23
+Kimble,Mail,Railroad Commissioner,,REP,RYAN SITTON,,,20
+Kimble,Mail,State Senate,28,REP,CHARLES PERRY,,,40
+Kimble,Mail,State Representative,53,REP,ANDREW S. MURR,,,44
+Kimble,1,President,,REP,DONALD J TRUMP,196,139,335
+Kimble,1,President,,REP,BILL WELD,6,4,10
+Kimble,1,President,,REP,MATTHEW JOHN MATERN,1,0,1
+Kimble,1,President,,REP,"ROQUE ""ROCKY"" DEL FUENTE GUERRA",2,1,3
+Kimble,1,President,,REP,ZOLTAN G. ISTVAN,0,0,0
+Kimble,1,President,,REP,JOE WALSH,1,0,1
+Kimble,1,President,,REP,BOB ELY,0,0,0
+Kimble,1,President,,REP,UNCOMMITTED,18,1,19
+Kimble,1,U.S. Senate,,REP,DWAYNE STOVALL,32,24,56
+Kimble,1,U.S. Senate,,REP,JOHN CORNYN,140,78,218
+Kimble,1,U.S. Senate,,REP,MARK YANCY,4,8,12
+Kimble,1,U.S. Senate,,REP,VIRGIL BIERSCHWALE,34,21,55
+Kimble,1,U.S. Senate,,REP,JOHN ANTHONY CASTRO,9,6,15
+Kimble,1,U.S. House,11,REP,BRANDON BATCH,29,22,51
+Kimble,1,U.S. House,11,REP,GENE BARBAR,2,2,4
+Kimble,1,U.S. House,11,REP,ROBERT TUCKER,3,5,8
+Kimble,1,U.S. House,11,REP,WESLEY W. VIRDELL,4,2,6
+Kimble,1,U.S. House,11,REP,NED LUSCOMBE,11,3,14
+Kimble,1,U.S. House,11,REP,J. ROSS LACY,2,7,9
+Kimble,1,U.S. House,11,REP,CASEY GRAY,1,3,4
+Kimble,1,U.S. House,11,REP,J.D. FAIRCLOTH,6,1,7
+Kimble,1,U.S. House,11,REP,JAMIE BERRYHILL,0,7,7
+Kimble,1,U.S. House,11,REP,AUGUST PFLUGER,159,82,241
+Kimble,1,Railroad Commissioner,,REP,"JAMES ""JIM"" WRIGHT",150,94,244
+Kimble,1,Railroad Commissioner,,REP,RYAN SITTON,40,30,70
+Kimble,1,State Senate,28,REP,CHARLES PERRY,173,109,282
+Kimble,1,State Representative,53,REP,ANDREW S. MURR,199,130,329
+Kimble,2,President,,REP,DONALD J TRUMP,95,69,164
+Kimble,2,President,,REP,BILL WELD,0,1,1
+Kimble,2,President,,REP,MATTHEW JOHN MATERN,0,0,0
+Kimble,2,President,,REP,"ROQUE ""ROCKY"" DEL FUENTE GUERRA",1,2,3
+Kimble,2,President,,REP,ZOLTAN G. ISTVAN,0,0,0
+Kimble,2,President,,REP,JOE WALSH,2,2,4
+Kimble,2,President,,REP,BOB ELY,0,0,0
+Kimble,2,President,,REP,UNCOMMITTED,1,6,7
+Kimble,2,U.S. Senate,,REP,DWAYNE STOVALL,9,14,23
+Kimble,2,U.S. Senate,,REP,JOHN CORNYN,57,37,94
+Kimble,2,U.S. Senate,,REP,MARK YANCY,5,5,10
+Kimble,2,U.S. Senate,,REP,VIRGIL BIERSCHWALE,17,8,25
+Kimble,2,U.S. Senate,,REP,JOHN ANTHONY CASTRO,2,8,10
+Kimble,2,U.S. House,11,REP,BRANDON BATCH,15,17,32
+Kimble,2,U.S. House,11,REP,GENE BARBAR,2,2,4
+Kimble,2,U.S. House,11,REP,ROBERT TUCKER,1,3,4
+Kimble,2,U.S. House,11,REP,WESLEY W. VIRDELL,2,2,4
+Kimble,2,U.S. House,11,REP,NED LUSCOMBE,0,2,2
+Kimble,2,U.S. House,11,REP,J. ROSS LACY,2,0,2
+Kimble,2,U.S. House,11,REP,CASEY GRAY,1,1,2
+Kimble,2,U.S. House,11,REP,J.D. FAIRCLOTH,3,0,3
+Kimble,2,U.S. House,11,REP,JAMIE BERRYHILL,2,1,3
+Kimble,2,U.S. House,11,REP,AUGUST PFLUGER,66,46,112
+Kimble,2,Railroad Commissioner,,REP,"JAMES ""JIM"" WRIGHT",57,61,118
+Kimble,2,Railroad Commissioner,,REP,RYAN SITTON,21,5,26
+Kimble,2,State Senate,28,REP,CHARLES PERRY,72,61,133
+Kimble,2,State Representative,53,REP,ANDREW S. MURR,85,75,160
+Kimble,3,President,,REP,DONALD J TRUMP,55,61,116
+Kimble,3,President,,REP,BILL WELD,0,1,1
+Kimble,3,President,,REP,MATTHEW JOHN MATERN,1,0,1
+Kimble,3,President,,REP,"ROQUE ""ROCKY"" DEL FUENTE GUERRA",2,0,2
+Kimble,3,President,,REP,ZOLTAN G. ISTVAN,0,0,0
+Kimble,3,President,,REP,JOE WALSH,0,2,2
+Kimble,3,President,,REP,BOB ELY,1,1,2
+Kimble,3,President,,REP,UNCOMMITTED,2,3,5
+Kimble,3,U.S. Senate,,REP,DWAYNE STOVALL,3,16,19
+Kimble,3,U.S. Senate,,REP,JOHN CORNYN,48,41,89
+Kimble,3,U.S. Senate,,REP,MARK YANCY,1,1,2
+Kimble,3,U.S. Senate,,REP,VIRGIL BIERSCHWALE,5,5,10
+Kimble,3,U.S. Senate,,REP,JOHN ANTHONY CASTRO,2,2,4
+Kimble,3,U.S. House,11,REP,BRANDON BATCH,1,16,17
+Kimble,3,U.S. House,11,REP,GENE BARBAR,0,3,3
+Kimble,3,U.S. House,11,REP,ROBERT TUCKER,1,3,4
+Kimble,3,U.S. House,11,REP,WESLEY W. VIRDELL,0,3,3
+Kimble,3,U.S. House,11,REP,NED LUSCOMBE,0,1,1
+Kimble,3,U.S. House,11,REP,J. ROSS LACY,1,1,2
+Kimble,3,U.S. House,11,REP,CASEY GRAY,1,0,1
+Kimble,3,U.S. House,11,REP,J.D. FAIRCLOTH,1,0,1
+Kimble,3,U.S. House,11,REP,JAMIE BERRYHILL,3,1,4
+Kimble,3,U.S. House,11,REP,AUGUST PFLUGER,50,38,88
+Kimble,3,Railroad Commissioner,,REP,"JAMES ""JIM"" WRIGHT",36,49,85
+Kimble,3,Railroad Commissioner,,REP,RYAN SITTON,14,14,28
+Kimble,3,State Senate,28,REP,CHARLES PERRY,46,60,106
+Kimble,3,State Representative,53,REP,ANDREW S. MURR,58,67,125
+Kimble,4,President,,REP,DONALD J TRUMP,93,71,164
+Kimble,4,President,,REP,BILL WELD,3,0,3
+Kimble,4,President,,REP,MATTHEW JOHN MATERN,0,0,0
+Kimble,4,President,,REP,"ROQUE ""ROCKY"" DEL FUENTE GUERRA",0,0,0
+Kimble,4,President,,REP,ZOLTAN G. ISTVAN,0,0,0
+Kimble,4,President,,REP,JOE WALSH,0,0,0
+Kimble,4,President,,REP,BOB ELY,0,0,0
+Kimble,4,President,,REP,UNCOMMITTED,3,3,6
+Kimble,4,U.S. Senate,,REP,DWAYNE STOVALL,13,15,28
+Kimble,4,U.S. Senate,,REP,JOHN CORNYN,58,43,101
+Kimble,4,U.S. Senate,,REP,MARK YANCY,3,4,7
+Kimble,4,U.S. Senate,,REP,VIRGIL BIERSCHWALE,7,4,11
+Kimble,4,U.S. Senate,,REP,JOHN ANTHONY CASTRO,6,5,11
+Kimble,4,U.S. House,11,REP,BRANDON BATCH,14,21,35
+Kimble,4,U.S. House,11,REP,GENE BARBAR,1,1,2
+Kimble,4,U.S. House,11,REP,ROBERT TUCKER,5,2,7
+Kimble,4,U.S. House,11,REP,WESLEY W. VIRDELL,3,2,5
+Kimble,4,U.S. House,11,REP,NED LUSCOMBE,3,1,4
+Kimble,4,U.S. House,11,REP,J. ROSS LACY,1,1,2
+Kimble,4,U.S. House,11,REP,CASEY GRAY,0,0,0
+Kimble,4,U.S. House,11,REP,J.D. FAIRCLOTH,0,0,0
+Kimble,4,U.S. House,11,REP,JAMIE BERRYHILL,0,1,1
+Kimble,4,U.S. House,11,REP,AUGUST PFLUGER,65,41,106
+Kimble,4,Railroad Commissioner,,REP,"JAMES ""JIM"" WRIGHT",65,50,115
+Kimble,4,Railroad Commissioner,,REP,RYAN SITTON,20,19,39
+Kimble,4,State Senate,28,REP,CHARLES PERRY,76,57,133
+Kimble,4,State Representative,53,REP,ANDREW S. MURR,93,66,159
+Kimble,6,President,,REP,DONALD J TRUMP,48,98,146
+Kimble,6,President,,REP,BILL WELD,0,0,0
+Kimble,6,President,,REP,MATTHEW JOHN MATERN,0,0,0
+Kimble,6,President,,REP,"ROQUE ""ROCKY"" DEL FUENTE GUERRA",0,0,0
+Kimble,6,President,,REP,ZOLTAN G. ISTVAN,1,0,1
+Kimble,6,President,,REP,JOE WALSH,0,2,2
+Kimble,6,President,,REP,BOB ELY,0,0,0
+Kimble,6,President,,REP,UNCOMMITTED,0,4,4
+Kimble,6,U.S. Senate,,REP,DWAYNE STOVALL,8,20,28
+Kimble,6,U.S. Senate,,REP,JOHN CORNYN,29,57,86
+Kimble,6,U.S. Senate,,REP,MARK YANCY,2,3,5
+Kimble,6,U.S. Senate,,REP,VIRGIL BIERSCHWALE,4,11,15
+Kimble,6,U.S. Senate,,REP,JOHN ANTHONY CASTRO,1,7,8
+Kimble,6,U.S. House,11,REP,BRANDON BATCH,18,23,41
+Kimble,6,U.S. House,11,REP,GENE BARBAR,0,1,1
+Kimble,6,U.S. House,11,REP,ROBERT TUCKER,1,3,4
+Kimble,6,U.S. House,11,REP,WESLEY W. VIRDELL,3,3,6
+Kimble,6,U.S. House,11,REP,NED LUSCOMBE,0,0,0
+Kimble,6,U.S. House,11,REP,J. ROSS LACY,0,2,2
+Kimble,6,U.S. House,11,REP,CASEY GRAY,0,1,1
+Kimble,6,U.S. House,11,REP,J.D. FAIRCLOTH,1,2,3
+Kimble,6,U.S. House,11,REP,JAMIE BERRYHILL,1,3,4
+Kimble,6,U.S. House,11,REP,AUGUST PFLUGER,24,60,84
+Kimble,6,Railroad Commissioner,,REP,"JAMES ""JIM"" WRIGHT",32,65,97
+Kimble,6,Railroad Commissioner,,REP,RYAN SITTON,10,25,35
+Kimble,6,State Senate,28,REP,CHARLES PERRY,37,82,119
+Kimble,6,State Representative,53,REP,ANDREW S. MURR,43,96,139
+Kimble,7,President,,REP,DONALD J TRUMP,32,79,111
+Kimble,7,President,,REP,BILL WELD,0,2,2
+Kimble,7,President,,REP,MATTHEW JOHN MATERN,0,1,1
+Kimble,7,President,,REP,"ROQUE ""ROCKY"" DEL FUENTE GUERRA",0,0,0
+Kimble,7,President,,REP,ZOLTAN G. ISTVAN,0,0,0
+Kimble,7,President,,REP,JOE WALSH,0,0,0
+Kimble,7,President,,REP,BOB ELY,0,0,0
+Kimble,7,President,,REP,UNCOMMITTED,0,0,0
+Kimble,7,U.S. Senate,,REP,DWAYNE STOVALL,7,12,19
+Kimble,7,U.S. Senate,,REP,JOHN CORNYN,22,63,85
+Kimble,7,U.S. Senate,,REP,MARK YANCY,2,0,2
+Kimble,7,U.S. Senate,,REP,VIRGIL BIERSCHWALE,1,3,4
+Kimble,7,U.S. Senate,,REP,JOHN ANTHONY CASTRO,0,1,1
+Kimble,7,U.S. House,11,REP,BRANDON BATCH,3,14,17
+Kimble,7,U.S. House,11,REP,GENE BARBAR,1,3,4
+Kimble,7,U.S. House,11,REP,ROBERT TUCKER,1,4,5
+Kimble,7,U.S. House,11,REP,WESLEY W. VIRDELL,3,8,11
+Kimble,7,U.S. House,11,REP,NED LUSCOMBE,2,1,3
+Kimble,7,U.S. House,11,REP,J. ROSS LACY,0,2,2
+Kimble,7,U.S. House,11,REP,CASEY GRAY,0,2,2
+Kimble,7,U.S. House,11,REP,J.D. FAIRCLOTH,0,0,0
+Kimble,7,U.S. House,11,REP,JAMIE BERRYHILL,5,4,9
+Kimble,7,U.S. House,11,REP,AUGUST PFLUGER,17,35,52
+Kimble,7,Railroad Commissioner,,REP,"JAMES ""JIM"" WRIGHT",21,55,76
+Kimble,7,Railroad Commissioner,,REP,RYAN SITTON,9,15,24
+Kimble,7,State Senate,28,REP,CHARLES PERRY,25,70,95
+Kimble,7,State Representative,53,REP,ANDREW S. MURR,29,76,105
+Kimble,9,President,,REP,DONALD J TRUMP,137,76,213
+Kimble,9,President,,REP,BILL WELD,3,0,3
+Kimble,9,President,,REP,MATTHEW JOHN MATERN,0,0,0
+Kimble,9,President,,REP,"ROQUE ""ROCKY"" DEL FUENTE GUERRA",1,0,1
+Kimble,9,President,,REP,ZOLTAN G. ISTVAN,0,0,0
+Kimble,9,President,,REP,JOE WALSH,0,0,0
+Kimble,9,President,,REP,BOB ELY,0,0,0
+Kimble,9,President,,REP,UNCOMMITTED,2,10,12
+Kimble,9,U.S. Senate,,REP,DWAYNE STOVALL,22,16,38
+Kimble,9,U.S. Senate,,REP,JOHN CORNYN,90,49,139
+Kimble,9,U.S. Senate,,REP,MARK YANCY,11,1,12
+Kimble,9,U.S. Senate,,REP,VIRGIL BIERSCHWALE,7,8,15
+Kimble,9,U.S. Senate,,REP,JOHN ANTHONY CASTRO,3,6,9
+Kimble,9,U.S. House,11,REP,BRANDON BATCH,26,21,47
+Kimble,9,U.S. House,11,REP,GENE BARBAR,0,2,2
+Kimble,9,U.S. House,11,REP,ROBERT TUCKER,2,1,3
+Kimble,9,U.S. House,11,REP,WESLEY W. VIRDELL,1,0,1
+Kimble,9,U.S. House,11,REP,NED LUSCOMBE,2,2,4
+Kimble,9,U.S. House,11,REP,J. ROSS LACY,2,3,5
+Kimble,9,U.S. House,11,REP,CASEY GRAY,1,1,2
+Kimble,9,U.S. House,11,REP,J.D. FAIRCLOTH,1,2,3
+Kimble,9,U.S. House,11,REP,JAMIE BERRYHILL,7,7,14
+Kimble,9,U.S. House,11,REP,AUGUST PFLUGER,96,43,139
+Kimble,9,Railroad Commissioner,,REP,"JAMES ""JIM"" WRIGHT",94,55,149
+Kimble,9,Railroad Commissioner,,REP,RYAN SITTON,26,14,40
+Kimble,9,State Senate,28,REP,CHARLES PERRY,103,62,165
+Kimble,9,State Representative,53,REP,ANDREW S. MURR,128,75,203
