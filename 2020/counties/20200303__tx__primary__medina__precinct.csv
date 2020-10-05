@@ -34,14 +34,14 @@ Medina,1A,U.S. Senate,,DEM,"Annie ""Mama"" Garcia",1,0,2,3
 Medina,1A,U.S. Senate,,DEM,Ballots Cast,40,34,4,78
 Medina,1A,U.S. Senate,,DEM,Undervotes,2,5,3,10
 Medina,1A,U.S. Senate,,DEM,Overvotes,0,0,0,0
-Medina,1A,U.S. Representative District 23,,DEM,Ricardo R. Madrid,3,1,0,4
-Medina,1A,U.S. Representative District 23,,DEM,"Rosalinda ""Rosey"" Ramos Abuabara",6,2,0,8
-Medina,1A,U.S. Representative District 23,,DEM,Efrain V Valdez,5,1,0,6
-Medina,1A,U.S. Representative District 23,,DEM,Gina Ortiz Jones,24,28,4,56
-Medina,1A,U.S. Representative District 23,,DEM,Jaime Escuder,1,1,2,4
-Medina,1A,U.S. Representative District 23,,DEM,Ballots Cast,39,33,6,78
-Medina,1A,U.S. Representative District 23,,DEM,Undervotes,3,6,1,10
-Medina,1A,U.S. Representative District 23,,DEM,Overvotes,0,0,0,0
+Medina,1A,U.S. House,23,DEM,Ricardo R. Madrid,3,1,0,4
+Medina,1A,U.S. House,23,DEM,"Rosalinda ""Rosey"" Ramos Abuabara",6,2,0,8
+Medina,1A,U.S. House,23,DEM,Efrain V Valdez,5,1,0,6
+Medina,1A,U.S. House,23,DEM,Gina Ortiz Jones,24,28,4,56
+Medina,1A,U.S. House,23,DEM,Jaime Escuder,1,1,2,4
+Medina,1A,U.S. House,23,DEM,Ballots Cast,39,33,6,78
+Medina,1A,U.S. House,23,DEM,Undervotes,3,6,1,10
+Medina,1A,U.S. House,23,DEM,Overvotes,0,0,0,0
 Medina,1A,Railroad Commissioner,,DEM,Mark Watson,5,9,3,17
 Medina,1A,Railroad Commissioner,,DEM,"Roberto R. ""Beto"" Alonzo",10,9,0,19
 Medina,1A,Railroad Commissioner,,DEM,Kelly Stone,13,5,0,18
@@ -88,12 +88,12 @@ Medina,1A,"Member, State Board of Education, District 1",,DEM,Georgina Perez,35,
 Medina,1A,"Member, State Board of Education, District 1",,DEM,Ballots Cast,35,28,4,67
 Medina,1A,"Member, State Board of Education, District 1",,DEM,Undervotes,7,11,3,21
 Medina,1A,"Member, State Board of Education, District 1",,DEM,Overvotes,0,0,0,0
-Medina,1A,"State Senator, District 19",,DEM,Roland Gutierrez,11,12,3,26
-Medina,1A,"State Senator, District 19",,DEM,Xochil Pe√±a Rodriguez,20,13,2,35
-Medina,1A,"State Senator, District 19",,DEM,Freddy Ramirez,4,4,2,10
-Medina,1A,"State Senator, District 19",,DEM,Ballots Cast,35,29,7,71
-Medina,1A,"State Senator, District 19",,DEM,Undervotes,7,10,0,17
-Medina,1A,"State Senator, District 19",,DEM,Overvotes,0,0,0,0
+Medina,1A,State Senate,19,DEM,Roland Gutierrez,11,12,3,26
+Medina,1A,State Senate,19,DEM,Xochil Pe√±a Rodriguez,20,13,2,35
+Medina,1A,State Senate,19,DEM,Freddy Ramirez,4,4,2,10
+Medina,1A,State Senate,19,DEM,Ballots Cast,35,29,7,71
+Medina,1A,State Senate,19,DEM,Undervotes,7,10,0,17
+Medina,1A,State Senate,19,DEM,Overvotes,0,0,0,0
 Medina,1A,State Representative,53,DEM,Joe P. Herrera,35,26,4,65
 Medina,1A,State Representative,53,DEM,Ballots Cast,35,26,4,65
 Medina,1A,State Representative,53,DEM,Undervotes,7,13,3,23
@@ -172,26 +172,26 @@ Medina,1A,President,,REP,Uncommitted,1,10,0,11
 Medina,1A,President,,REP,Ballots Cast,142,346,4,492
 Medina,1A,President,,REP,Undervotes,1,2,0,3
 Medina,1A,President,,REP,Overvotes,0,0,0,0
-Medina,1A,U. S. Senator,,REP,Mark Yancey,14,21,1,36
-Medina,1A,U. S. Senator,,REP,John Anthony Castro,2,10,0,12
-Medina,1A,U. S. Senator,,REP,Dwayne Stovall,12,26,0,38
-Medina,1A,U. S. Senator,,REP,John Cornyn,104,266,3,373
-Medina,1A,U. S. Senator,,REP,Virgil Bierschwale,3,5,0,8
-Medina,1A,U. S. Senator,,REP,Ballots Cast,135,328,4,467
-Medina,1A,U. S. Senator,,REP,Undervotes,8,20,0,28
-Medina,1A,U. S. Senator,,REP,Overvotes,0,0,0,0
-Medina,1A,U. S. Representative District 23,,REP,Alma Arredondo-Lynch,30,45,0,75
-Medina,1A,U. S. Representative District 23,,REP,Tony Gonzales,28,65,1,94
-Medina,1A,U. S. Representative District 23,,REP,Ben Van Winkle,7,31,1,39
-Medina,1A,U. S. Representative District 23,,REP,Raul Reyes,44,139,1,184
-Medina,1A,U. S. Representative District 23,,REP,Alia Ureste,1,2,0,3
-Medina,1A,U. S. Representative District 23,,REP,Jeff Mcfarlin,12,22,1,35
-Medina,1A,U. S. Representative District 23,,REP,Sharon Breckenridge Thomas,9,14,0,23
-Medina,1A,U. S. Representative District 23,,REP,"Cecil B. ""Burt"" Jones",2,3,0,5
-Medina,1A,U. S. Representative District 23,,REP,Darwin Boedeker,3,3,0,6
-Medina,1A,U. S. Representative District 23,,REP,Ballots Cast,136,324,4,464
-Medina,1A,U. S. Representative District 23,,REP,Undervotes,7,24,0,31
-Medina,1A,U. S. Representative District 23,,REP,Overvotes,0,0,0,0
+Medina,1A,U.S. Senate,,REP,Mark Yancey,14,21,1,36
+Medina,1A,U.S. Senate,,REP,John Anthony Castro,2,10,0,12
+Medina,1A,U.S. Senate,,REP,Dwayne Stovall,12,26,0,38
+Medina,1A,U.S. Senate,,REP,John Cornyn,104,266,3,373
+Medina,1A,U.S. Senate,,REP,Virgil Bierschwale,3,5,0,8
+Medina,1A,U.S. Senate,,REP,Ballots Cast,135,328,4,467
+Medina,1A,U.S. Senate,,REP,Undervotes,8,20,0,28
+Medina,1A,U.S. Senate,,REP,Overvotes,0,0,0,0
+Medina,1A,U.S. House,23,REP,Alma Arredondo-Lynch,30,45,0,75
+Medina,1A,U.S. House,23,REP,Tony Gonzales,28,65,1,94
+Medina,1A,U.S. House,23,REP,Ben Van Winkle,7,31,1,39
+Medina,1A,U.S. House,23,REP,Raul Reyes,44,139,1,184
+Medina,1A,U.S. House,23,REP,Alia Ureste,1,2,0,3
+Medina,1A,U.S. House,23,REP,Jeff Mcfarlin,12,22,1,35
+Medina,1A,U.S. House,23,REP,Sharon Breckenridge Thomas,9,14,0,23
+Medina,1A,U.S. House,23,REP,"Cecil B. ""Burt"" Jones",2,3,0,5
+Medina,1A,U.S. House,23,REP,Darwin Boedeker,3,3,0,6
+Medina,1A,U.S. House,23,REP,Ballots Cast,136,324,4,464
+Medina,1A,U.S. House,23,REP,Undervotes,7,24,0,31
+Medina,1A,U.S. House,23,REP,Overvotes,0,0,0,0
 Medina,1A,Railroad Commissioner,,REP,"James ""Jim"" Wright",69,192,3,264
 Medina,1A,Railroad Commissioner,,REP,Ryan Sitton,51,108,1,160
 Medina,1A,Railroad Commissioner,,REP,Ballots Cast,120,300,4,424
@@ -230,10 +230,10 @@ Medina,1A,"Member, State Board of Education, District 1",,REP,Jennifer Ivey,116,
 Medina,1A,"Member, State Board of Education, District 1",,REP,Ballots Cast,116,272,4,392
 Medina,1A,"Member, State Board of Education, District 1",,REP,Undervotes,27,76,0,103
 Medina,1A,"Member, State Board of Education, District 1",,REP,Overvotes,0,0,0,0
-Medina,1A,"State Senator, District 19",,REP,"Peter P. ""Pete"" Flores",123,282,4,409
-Medina,1A,"State Senator, District 19",,REP,Ballots Cast,123,282,4,409
-Medina,1A,"State Senator, District 19",,REP,Undervotes,20,66,0,86
-Medina,1A,"State Senator, District 19",,REP,Overvotes,0,0,0,0
+Medina,1A,State Senate,19,REP,"Peter P. ""Pete"" Flores",123,282,4,409
+Medina,1A,State Senate,19,REP,Ballots Cast,123,282,4,409
+Medina,1A,State Senate,19,REP,Undervotes,20,66,0,86
+Medina,1A,State Senate,19,REP,Overvotes,0,0,0,0
 Medina,1A,State Representative,53,REP,Andrew S. Murr,125,282,4,411
 Medina,1A,State Representative,53,REP,Ballots Cast,125,282,4,411
 Medina,1A,State Representative,53,REP,Undervotes,18,66,0,84
@@ -358,14 +358,14 @@ Medina,1B,U.S. Senate,,DEM,"Annie ""Mama"" Garcia",4,1,1,6
 Medina,1B,U.S. Senate,,DEM,Ballots Cast,26,43,6,75
 Medina,1B,U.S. Senate,,DEM,Undervotes,5,4,2,11
 Medina,1B,U.S. Senate,,DEM,Overvotes,0,0,0,0
-Medina,1B,U.S. Representative District 23,,DEM,Ricardo R. Madrid,0,1,0,1
-Medina,1B,U.S. Representative District 23,,DEM,"Rosalinda ""Rosey"" Ramos Abuabara",5,4,0,9
-Medina,1B,U.S. Representative District 23,,DEM,Efrain V Valdez,0,3,0,3
-Medina,1B,U.S. Representative District 23,,DEM,Gina Ortiz Jones,22,32,6,60
-Medina,1B,U.S. Representative District 23,,DEM,Jaime Escuder,0,2,0,2
-Medina,1B,U.S. Representative District 23,,DEM,Ballots Cast,27,42,6,75
-Medina,1B,U.S. Representative District 23,,DEM,Undervotes,4,5,2,11
-Medina,1B,U.S. Representative District 23,,DEM,Overvotes,0,0,0,0
+Medina,1B,U.S. House,23,DEM,Ricardo R. Madrid,0,1,0,1
+Medina,1B,U.S. House,23,DEM,"Rosalinda ""Rosey"" Ramos Abuabara",5,4,0,9
+Medina,1B,U.S. House,23,DEM,Efrain V Valdez,0,3,0,3
+Medina,1B,U.S. House,23,DEM,Gina Ortiz Jones,22,32,6,60
+Medina,1B,U.S. House,23,DEM,Jaime Escuder,0,2,0,2
+Medina,1B,U.S. House,23,DEM,Ballots Cast,27,42,6,75
+Medina,1B,U.S. House,23,DEM,Undervotes,4,5,2,11
+Medina,1B,U.S. House,23,DEM,Overvotes,0,0,0,0
 Medina,1B,Railroad Commissioner,,DEM,Mark Watson,3,10,2,15
 Medina,1B,Railroad Commissioner,,DEM,"Roberto R. ""Beto"" Alonzo",7,5,2,14
 Medina,1B,Railroad Commissioner,,DEM,Kelly Stone,4,14,0,18
@@ -412,12 +412,12 @@ Medina,1B,"Member, State Board of Education, District 1",,DEM,Georgina Perez,20,
 Medina,1B,"Member, State Board of Education, District 1",,DEM,Ballots Cast,20,37,5,62
 Medina,1B,"Member, State Board of Education, District 1",,DEM,Undervotes,11,10,3,24
 Medina,1B,"Member, State Board of Education, District 1",,DEM,Overvotes,0,0,0,0
-Medina,1B,"State Senator, District 19",,DEM,Roland Gutierrez,4,15,2,21
-Medina,1B,"State Senator, District 19",,DEM,Xochil Pe√±a Rodriguez,16,22,2,40
-Medina,1B,"State Senator, District 19",,DEM,Freddy Ramirez,4,5,2,11
-Medina,1B,"State Senator, District 19",,DEM,Ballots Cast,24,42,6,72
-Medina,1B,"State Senator, District 19",,DEM,Undervotes,7,5,2,14
-Medina,1B,"State Senator, District 19",,DEM,Overvotes,0,0,0,0
+Medina,1B,State Senate,19,DEM,Roland Gutierrez,4,15,2,21
+Medina,1B,State Senate,19,DEM,Xochil Pe√±a Rodriguez,16,22,2,40
+Medina,1B,State Senate,19,DEM,Freddy Ramirez,4,5,2,11
+Medina,1B,State Senate,19,DEM,Ballots Cast,24,42,6,72
+Medina,1B,State Senate,19,DEM,Undervotes,7,5,2,14
+Medina,1B,State Senate,19,DEM,Overvotes,0,0,0,0
 Medina,1B,State Representative,53,DEM,Joe P. Herrera,16,38,5,59
 Medina,1B,State Representative,53,DEM,Ballots Cast,16,38,5,59
 Medina,1B,State Representative,53,DEM,Undervotes,15,9,3,27
@@ -496,26 +496,26 @@ Medina,1B,President,,REP,Uncommitted,6,5,0,11
 Medina,1B,President,,REP,Ballots Cast,187,304,12,503
 Medina,1B,President,,REP,Undervotes,0,2,1,3
 Medina,1B,President,,REP,Overvotes,0,0,0,0
-Medina,1B,U. S. Senator,,REP,Mark Yancey,24,23,0,47
-Medina,1B,U. S. Senator,,REP,John Anthony Castro,9,15,0,24
-Medina,1B,U. S. Senator,,REP,Dwayne Stovall,13,17,0,30
-Medina,1B,U. S. Senator,,REP,John Cornyn,123,217,13,353
-Medina,1B,U. S. Senator,,REP,Virgil Bierschwale,3,6,0,9
-Medina,1B,U. S. Senator,,REP,Ballots Cast,172,278,13,463
-Medina,1B,U. S. Senator,,REP,Undervotes,15,28,0,43
-Medina,1B,U. S. Senator,,REP,Overvotes,0,0,0,0
-Medina,1B,U. S. Representative District 23,,REP,Alma Arredondo-Lynch,32,37,1,70
-Medina,1B,U. S. Representative District 23,,REP,Tony Gonzales,36,56,1,93
-Medina,1B,U. S. Representative District 23,,REP,Ben Van Winkle,23,34,0,57
-Medina,1B,U. S. Representative District 23,,REP,Raul Reyes,60,136,8,204
-Medina,1B,U. S. Representative District 23,,REP,Alia Ureste,3,1,0,4
-Medina,1B,U. S. Representative District 23,,REP,Jeff Mcfarlin,4,6,0,10
-Medina,1B,U. S. Representative District 23,,REP,Sharon Breckenridge Thomas,8,9,0,17
-Medina,1B,U. S. Representative District 23,,REP,"Cecil B. ""Burt"" Jones",8,4,1,13
-Medina,1B,U. S. Representative District 23,,REP,Darwin Boedeker,1,2,1,4
-Medina,1B,U. S. Representative District 23,,REP,Ballots Cast,175,285,12,472
-Medina,1B,U. S. Representative District 23,,REP,Undervotes,12,21,1,34
-Medina,1B,U. S. Representative District 23,,REP,Overvotes,0,0,0,0
+Medina,1B,U.S. Senate,,REP,Mark Yancey,24,23,0,47
+Medina,1B,U.S. Senate,,REP,John Anthony Castro,9,15,0,24
+Medina,1B,U.S. Senate,,REP,Dwayne Stovall,13,17,0,30
+Medina,1B,U.S. Senate,,REP,John Cornyn,123,217,13,353
+Medina,1B,U.S. Senate,,REP,Virgil Bierschwale,3,6,0,9
+Medina,1B,U.S. Senate,,REP,Ballots Cast,172,278,13,463
+Medina,1B,U.S. Senate,,REP,Undervotes,15,28,0,43
+Medina,1B,U.S. Senate,,REP,Overvotes,0,0,0,0
+Medina,1B,U.S. House,23,REP,Alma Arredondo-Lynch,32,37,1,70
+Medina,1B,U.S. House,23,REP,Tony Gonzales,36,56,1,93
+Medina,1B,U.S. House,23,REP,Ben Van Winkle,23,34,0,57
+Medina,1B,U.S. House,23,REP,Raul Reyes,60,136,8,204
+Medina,1B,U.S. House,23,REP,Alia Ureste,3,1,0,4
+Medina,1B,U.S. House,23,REP,Jeff Mcfarlin,4,6,0,10
+Medina,1B,U.S. House,23,REP,Sharon Breckenridge Thomas,8,9,0,17
+Medina,1B,U.S. House,23,REP,"Cecil B. ""Burt"" Jones",8,4,1,13
+Medina,1B,U.S. House,23,REP,Darwin Boedeker,1,2,1,4
+Medina,1B,U.S. House,23,REP,Ballots Cast,175,285,12,472
+Medina,1B,U.S. House,23,REP,Undervotes,12,21,1,34
+Medina,1B,U.S. House,23,REP,Overvotes,0,0,0,0
 Medina,1B,Railroad Commissioner,,REP,"James ""Jim"" Wright",97,162,9,268
 Medina,1B,Railroad Commissioner,,REP,Ryan Sitton,57,91,4,152
 Medina,1B,Railroad Commissioner,,REP,Ballots Cast,154,253,13,420
@@ -554,10 +554,10 @@ Medina,1B,"Member, State Board of Education, District 1",,REP,Jennifer Ivey,142,
 Medina,1B,"Member, State Board of Education, District 1",,REP,Ballots Cast,142,238,11,391
 Medina,1B,"Member, State Board of Education, District 1",,REP,Undervotes,45,68,2,115
 Medina,1B,"Member, State Board of Education, District 1",,REP,Overvotes,0,0,0,0
-Medina,1B,"State Senator, District 19",,REP,"Peter P. ""Pete"" Flores",148,251,11,410
-Medina,1B,"State Senator, District 19",,REP,Ballots Cast,148,251,11,410
-Medina,1B,"State Senator, District 19",,REP,Undervotes,39,55,2,96
-Medina,1B,"State Senator, District 19",,REP,Overvotes,0,0,0,0
+Medina,1B,State Senate,19,REP,"Peter P. ""Pete"" Flores",148,251,11,410
+Medina,1B,State Senate,19,REP,Ballots Cast,148,251,11,410
+Medina,1B,State Senate,19,REP,Undervotes,39,55,2,96
+Medina,1B,State Senate,19,REP,Overvotes,0,0,0,0
 Medina,1B,State Representative,53,REP,Andrew S. Murr,151,253,11,415
 Medina,1B,State Representative,53,REP,Ballots Cast,151,253,11,415
 Medina,1B,State Representative,53,REP,Undervotes,36,53,2,91
@@ -682,14 +682,14 @@ Medina,1C,U.S. Senate,,DEM,"Annie ""Mama"" Garcia",7,4,1,12
 Medina,1C,U.S. Senate,,DEM,Ballots Cast,134,84,24,242
 Medina,1C,U.S. Senate,,DEM,Undervotes,23,8,3,34
 Medina,1C,U.S. Senate,,DEM,Overvotes,0,0,0,0
-Medina,1C,U.S. Representative District 23,,DEM,Ricardo R. Madrid,11,6,2,19
-Medina,1C,U.S. Representative District 23,,DEM,"Rosalinda ""Rosey"" Ramos Abuabara",13,13,1,27
-Medina,1C,U.S. Representative District 23,,DEM,Efrain V Valdez,12,5,1,18
-Medina,1C,U.S. Representative District 23,,DEM,Gina Ortiz Jones,96,60,20,176
-Medina,1C,U.S. Representative District 23,,DEM,Jaime Escuder,6,1,0,7
-Medina,1C,U.S. Representative District 23,,DEM,Ballots Cast,138,85,24,247
-Medina,1C,U.S. Representative District 23,,DEM,Undervotes,19,7,3,29
-Medina,1C,U.S. Representative District 23,,DEM,Overvotes,0,0,0,0
+Medina,1C,U.S. House,23,DEM,Ricardo R. Madrid,11,6,2,19
+Medina,1C,U.S. House,23,DEM,"Rosalinda ""Rosey"" Ramos Abuabara",13,13,1,27
+Medina,1C,U.S. House,23,DEM,Efrain V Valdez,12,5,1,18
+Medina,1C,U.S. House,23,DEM,Gina Ortiz Jones,96,60,20,176
+Medina,1C,U.S. House,23,DEM,Jaime Escuder,6,1,0,7
+Medina,1C,U.S. House,23,DEM,Ballots Cast,138,85,24,247
+Medina,1C,U.S. House,23,DEM,Undervotes,19,7,3,29
+Medina,1C,U.S. House,23,DEM,Overvotes,0,0,0,0
 Medina,1C,Railroad Commissioner,,DEM,Mark Watson,13,10,1,24
 Medina,1C,Railroad Commissioner,,DEM,"Roberto R. ""Beto"" Alonzo",27,17,4,48
 Medina,1C,Railroad Commissioner,,DEM,Kelly Stone,34,19,5,58
@@ -736,12 +736,12 @@ Medina,1C,"Member, State Board of Education, District 1",,DEM,Georgina Perez,113
 Medina,1C,"Member, State Board of Education, District 1",,DEM,Ballots Cast,113,81,19,213
 Medina,1C,"Member, State Board of Education, District 1",,DEM,Undervotes,44,11,8,63
 Medina,1C,"Member, State Board of Education, District 1",,DEM,Overvotes,0,0,0,0
-Medina,1C,"State Senator, District 19",,DEM,Roland Gutierrez,35,34,8,77
-Medina,1C,"State Senator, District 19",,DEM,Xochil Pe√±a Rodriguez,71,42,11,124
-Medina,1C,"State Senator, District 19",,DEM,Freddy Ramirez,19,7,3,29
-Medina,1C,"State Senator, District 19",,DEM,Ballots Cast,125,83,22,230
-Medina,1C,"State Senator, District 19",,DEM,Undervotes,32,9,5,46
-Medina,1C,"State Senator, District 19",,DEM,Overvotes,0,0,0,0
+Medina,1C,State Senate,19,DEM,Roland Gutierrez,35,34,8,77
+Medina,1C,State Senate,19,DEM,Xochil Pe√±a Rodriguez,71,42,11,124
+Medina,1C,State Senate,19,DEM,Freddy Ramirez,19,7,3,29
+Medina,1C,State Senate,19,DEM,Ballots Cast,125,83,22,230
+Medina,1C,State Senate,19,DEM,Undervotes,32,9,5,46
+Medina,1C,State Senate,19,DEM,Overvotes,0,0,0,0
 Medina,1C,State Representative,53,DEM,Joe P. Herrera,110,77,19,206
 Medina,1C,State Representative,53,DEM,Ballots Cast,110,77,19,206
 Medina,1C,State Representative,53,DEM,Undervotes,47,15,8,70
@@ -820,26 +820,26 @@ Medina,1C,President,,REP,Uncommitted,4,1,0,5
 Medina,1C,President,,REP,Ballots Cast,277,221,3,501
 Medina,1C,President,,REP,Undervotes,3,0,1,4
 Medina,1C,President,,REP,Overvotes,0,0,0,0
-Medina,1C,U. S. Senator,,REP,Mark Yancey,29,23,0,52
-Medina,1C,U. S. Senator,,REP,John Anthony Castro,13,9,0,22
-Medina,1C,U. S. Senator,,REP,Dwayne Stovall,24,14,0,38
-Medina,1C,U. S. Senator,,REP,John Cornyn,197,166,3,366
-Medina,1C,U. S. Senator,,REP,Virgil Bierschwale,4,1,0,5
-Medina,1C,U. S. Senator,,REP,Ballots Cast,267,213,3,483
-Medina,1C,U. S. Senator,,REP,Undervotes,13,8,1,22
-Medina,1C,U. S. Senator,,REP,Overvotes,0,0,0,0
-Medina,1C,U. S. Representative District 23,,REP,Alma Arredondo-Lynch,21,15,0,36
-Medina,1C,U. S. Representative District 23,,REP,Tony Gonzales,85,45,2,132
-Medina,1C,U. S. Representative District 23,,REP,Ben Van Winkle,31,21,0,52
-Medina,1C,U. S. Representative District 23,,REP,Raul Reyes,74,103,0,177
-Medina,1C,U. S. Representative District 23,,REP,Alia Ureste,8,1,0,9
-Medina,1C,U. S. Representative District 23,,REP,Jeff Mcfarlin,14,17,1,32
-Medina,1C,U. S. Representative District 23,,REP,Sharon Breckenridge Thomas,15,7,0,22
-Medina,1C,U. S. Representative District 23,,REP,"Cecil B. ""Burt"" Jones",5,3,0,8
-Medina,1C,U. S. Representative District 23,,REP,Darwin Boedeker,5,1,0,6
-Medina,1C,U. S. Representative District 23,,REP,Ballots Cast,258,213,3,474
-Medina,1C,U. S. Representative District 23,,REP,Undervotes,22,8,1,31
-Medina,1C,U. S. Representative District 23,,REP,Overvotes,0,0,0,0
+Medina,1C,U.S. Senate,,REP,Mark Yancey,29,23,0,52
+Medina,1C,U.S. Senate,,REP,John Anthony Castro,13,9,0,22
+Medina,1C,U.S. Senate,,REP,Dwayne Stovall,24,14,0,38
+Medina,1C,U.S. Senate,,REP,John Cornyn,197,166,3,366
+Medina,1C,U.S. Senate,,REP,Virgil Bierschwale,4,1,0,5
+Medina,1C,U.S. Senate,,REP,Ballots Cast,267,213,3,483
+Medina,1C,U.S. Senate,,REP,Undervotes,13,8,1,22
+Medina,1C,U.S. Senate,,REP,Overvotes,0,0,0,0
+Medina,1C,U.S. House,23,REP,Alma Arredondo-Lynch,21,15,0,36
+Medina,1C,U.S. House,23,REP,Tony Gonzales,85,45,2,132
+Medina,1C,U.S. House,23,REP,Ben Van Winkle,31,21,0,52
+Medina,1C,U.S. House,23,REP,Raul Reyes,74,103,0,177
+Medina,1C,U.S. House,23,REP,Alia Ureste,8,1,0,9
+Medina,1C,U.S. House,23,REP,Jeff Mcfarlin,14,17,1,32
+Medina,1C,U.S. House,23,REP,Sharon Breckenridge Thomas,15,7,0,22
+Medina,1C,U.S. House,23,REP,"Cecil B. ""Burt"" Jones",5,3,0,8
+Medina,1C,U.S. House,23,REP,Darwin Boedeker,5,1,0,6
+Medina,1C,U.S. House,23,REP,Ballots Cast,258,213,3,474
+Medina,1C,U.S. House,23,REP,Undervotes,22,8,1,31
+Medina,1C,U.S. House,23,REP,Overvotes,0,0,0,0
 Medina,1C,Railroad Commissioner,,REP,"James ""Jim"" Wright",144,114,1,259
 Medina,1C,Railroad Commissioner,,REP,Ryan Sitton,104,84,2,190
 Medina,1C,Railroad Commissioner,,REP,Ballots Cast,248,198,3,449
@@ -878,10 +878,10 @@ Medina,1C,"Member, State Board of Education, District 1",,REP,Jennifer Ivey,239,
 Medina,1C,"Member, State Board of Education, District 1",,REP,Ballots Cast,239,189,3,431
 Medina,1C,"Member, State Board of Education, District 1",,REP,Undervotes,41,32,1,74
 Medina,1C,"Member, State Board of Education, District 1",,REP,Overvotes,0,0,0,0
-Medina,1C,"State Senator, District 19",,REP,"Peter P. ""Pete"" Flores",244,192,3,439
-Medina,1C,"State Senator, District 19",,REP,Ballots Cast,244,192,3,439
-Medina,1C,"State Senator, District 19",,REP,Undervotes,36,29,1,66
-Medina,1C,"State Senator, District 19",,REP,Overvotes,0,0,0,0
+Medina,1C,State Senate,19,REP,"Peter P. ""Pete"" Flores",244,192,3,439
+Medina,1C,State Senate,19,REP,Ballots Cast,244,192,3,439
+Medina,1C,State Senate,19,REP,Undervotes,36,29,1,66
+Medina,1C,State Senate,19,REP,Overvotes,0,0,0,0
 Medina,1C,State Representative,53,REP,Andrew S. Murr,243,191,3,437
 Medina,1C,State Representative,53,REP,Ballots Cast,243,191,3,437
 Medina,1C,State Representative,53,REP,Undervotes,37,30,1,68
@@ -1006,14 +1006,14 @@ Medina,1D,U.S. Senate,,DEM,"Annie ""Mama"" Garcia",1,7,1,9
 Medina,1D,U.S. Senate,,DEM,Ballots Cast,51,58,16,125
 Medina,1D,U.S. Senate,,DEM,Undervotes,10,8,4,22
 Medina,1D,U.S. Senate,,DEM,Overvotes,0,0,0,0
-Medina,1D,U.S. Representative District 23,,DEM,Ricardo R. Madrid,2,1,0,3
-Medina,1D,U.S. Representative District 23,,DEM,"Rosalinda ""Rosey"" Ramos Abuabara",4,2,2,8
-Medina,1D,U.S. Representative District 23,,DEM,Efrain V Valdez,5,6,0,11
-Medina,1D,U.S. Representative District 23,,DEM,Gina Ortiz Jones,44,50,13,107
-Medina,1D,U.S. Representative District 23,,DEM,Jaime Escuder,0,4,1,5
-Medina,1D,U.S. Representative District 23,,DEM,Ballots Cast,55,63,16,134
-Medina,1D,U.S. Representative District 23,,DEM,Undervotes,6,3,4,13
-Medina,1D,U.S. Representative District 23,,DEM,Overvotes,0,0,0,0
+Medina,1D,U.S. House,23,DEM,Ricardo R. Madrid,2,1,0,3
+Medina,1D,U.S. House,23,DEM,"Rosalinda ""Rosey"" Ramos Abuabara",4,2,2,8
+Medina,1D,U.S. House,23,DEM,Efrain V Valdez,5,6,0,11
+Medina,1D,U.S. House,23,DEM,Gina Ortiz Jones,44,50,13,107
+Medina,1D,U.S. House,23,DEM,Jaime Escuder,0,4,1,5
+Medina,1D,U.S. House,23,DEM,Ballots Cast,55,63,16,134
+Medina,1D,U.S. House,23,DEM,Undervotes,6,3,4,13
+Medina,1D,U.S. House,23,DEM,Overvotes,0,0,0,0
 Medina,1D,Railroad Commissioner,,DEM,Mark Watson,5,8,5,18
 Medina,1D,Railroad Commissioner,,DEM,"Roberto R. ""Beto"" Alonzo",22,17,4,43
 Medina,1D,Railroad Commissioner,,DEM,Kelly Stone,7,15,2,24
@@ -1060,12 +1060,12 @@ Medina,1D,"Member, State Board of Education, District 1",,DEM,Georgina Perez,47,
 Medina,1D,"Member, State Board of Education, District 1",,DEM,Ballots Cast,47,54,11,112
 Medina,1D,"Member, State Board of Education, District 1",,DEM,Undervotes,14,12,9,35
 Medina,1D,"Member, State Board of Education, District 1",,DEM,Overvotes,0,0,0,0
-Medina,1D,"State Senator, District 19",,DEM,Roland Gutierrez,17,22,7,46
-Medina,1D,"State Senator, District 19",,DEM,Xochil Pe√±a Rodriguez,28,25,6,59
-Medina,1D,"State Senator, District 19",,DEM,Freddy Ramirez,6,11,1,18
-Medina,1D,"State Senator, District 19",,DEM,Ballots Cast,51,58,14,123
-Medina,1D,"State Senator, District 19",,DEM,Undervotes,10,8,6,24
-Medina,1D,"State Senator, District 19",,DEM,Overvotes,0,0,0,0
+Medina,1D,State Senate,19,DEM,Roland Gutierrez,17,22,7,46
+Medina,1D,State Senate,19,DEM,Xochil Pe√±a Rodriguez,28,25,6,59
+Medina,1D,State Senate,19,DEM,Freddy Ramirez,6,11,1,18
+Medina,1D,State Senate,19,DEM,Ballots Cast,51,58,14,123
+Medina,1D,State Senate,19,DEM,Undervotes,10,8,6,24
+Medina,1D,State Senate,19,DEM,Overvotes,0,0,0,0
 Medina,1D,State Representative,53,DEM,Joe P. Herrera,44,56,12,112
 Medina,1D,State Representative,53,DEM,Ballots Cast,44,56,12,112
 Medina,1D,State Representative,53,DEM,Undervotes,17,10,8,35
@@ -1144,26 +1144,26 @@ Medina,1D,President,,REP,Uncommitted,6,12,0,18
 Medina,1D,President,,REP,Ballots Cast,196,446,16,658
 Medina,1D,President,,REP,Undervotes,1,7,0,8
 Medina,1D,President,,REP,Overvotes,0,0,0,0
-Medina,1D,U. S. Senator,,REP,Mark Yancey,24,47,2,73
-Medina,1D,U. S. Senator,,REP,John Anthony Castro,12,10,0,22
-Medina,1D,U. S. Senator,,REP,Dwayne Stovall,9,23,0,32
-Medina,1D,U. S. Senator,,REP,John Cornyn,136,339,14,489
-Medina,1D,U. S. Senator,,REP,Virgil Bierschwale,2,8,0,10
-Medina,1D,U. S. Senator,,REP,Ballots Cast,183,427,16,626
-Medina,1D,U. S. Senator,,REP,Undervotes,14,26,0,40
-Medina,1D,U. S. Senator,,REP,Overvotes,0,0,0,0
-Medina,1D,U. S. Representative District 23,,REP,Alma Arredondo-Lynch,52,62,3,117
-Medina,1D,U. S. Representative District 23,,REP,Tony Gonzales,29,59,6,94
-Medina,1D,U. S. Representative District 23,,REP,Ben Van Winkle,18,43,1,62
-Medina,1D,U. S. Representative District 23,,REP,Raul Reyes,61,234,2,297
-Medina,1D,U. S. Representative District 23,,REP,Alia Ureste,2,4,1,7
-Medina,1D,U. S. Representative District 23,,REP,Jeff Mcfarlin,10,13,2,25
-Medina,1D,U. S. Representative District 23,,REP,Sharon Breckenridge Thomas,7,5,0,12
-Medina,1D,U. S. Representative District 23,,REP,"Cecil B. ""Burt"" Jones",3,6,0,9
-Medina,1D,U. S. Representative District 23,,REP,Darwin Boedeker,1,1,0,2
-Medina,1D,U. S. Representative District 23,,REP,Ballots Cast,183,427,15,625
-Medina,1D,U. S. Representative District 23,,REP,Undervotes,14,26,1,41
-Medina,1D,U. S. Representative District 23,,REP,Overvotes,0,0,0,0
+Medina,1D,U.S. Senate,,REP,Mark Yancey,24,47,2,73
+Medina,1D,U.S. Senate,,REP,John Anthony Castro,12,10,0,22
+Medina,1D,U.S. Senate,,REP,Dwayne Stovall,9,23,0,32
+Medina,1D,U.S. Senate,,REP,John Cornyn,136,339,14,489
+Medina,1D,U.S. Senate,,REP,Virgil Bierschwale,2,8,0,10
+Medina,1D,U.S. Senate,,REP,Ballots Cast,183,427,16,626
+Medina,1D,U.S. Senate,,REP,Undervotes,14,26,0,40
+Medina,1D,U.S. Senate,,REP,Overvotes,0,0,0,0
+Medina,1D,U.S. House,23,REP,Alma Arredondo-Lynch,52,62,3,117
+Medina,1D,U.S. House,23,REP,Tony Gonzales,29,59,6,94
+Medina,1D,U.S. House,23,REP,Ben Van Winkle,18,43,1,62
+Medina,1D,U.S. House,23,REP,Raul Reyes,61,234,2,297
+Medina,1D,U.S. House,23,REP,Alia Ureste,2,4,1,7
+Medina,1D,U.S. House,23,REP,Jeff Mcfarlin,10,13,2,25
+Medina,1D,U.S. House,23,REP,Sharon Breckenridge Thomas,7,5,0,12
+Medina,1D,U.S. House,23,REP,"Cecil B. ""Burt"" Jones",3,6,0,9
+Medina,1D,U.S. House,23,REP,Darwin Boedeker,1,1,0,2
+Medina,1D,U.S. House,23,REP,Ballots Cast,183,427,15,625
+Medina,1D,U.S. House,23,REP,Undervotes,14,26,1,41
+Medina,1D,U.S. House,23,REP,Overvotes,0,0,0,0
 Medina,1D,Railroad Commissioner,,REP,"James ""Jim"" Wright",116,268,7,391
 Medina,1D,Railroad Commissioner,,REP,Ryan Sitton,57,135,8,200
 Medina,1D,Railroad Commissioner,,REP,Ballots Cast,173,403,15,591
@@ -1202,10 +1202,10 @@ Medina,1D,"Member, State Board of Education, District 1",,REP,Jennifer Ivey,161,
 Medina,1D,"Member, State Board of Education, District 1",,REP,Ballots Cast,161,369,12,542
 Medina,1D,"Member, State Board of Education, District 1",,REP,Undervotes,36,84,4,124
 Medina,1D,"Member, State Board of Education, District 1",,REP,Overvotes,0,0,0,0
-Medina,1D,"State Senator, District 19",,REP,"Peter P. ""Pete"" Flores",162,388,12,562
-Medina,1D,"State Senator, District 19",,REP,Ballots Cast,162,388,12,562
-Medina,1D,"State Senator, District 19",,REP,Undervotes,35,65,4,104
-Medina,1D,"State Senator, District 19",,REP,Overvotes,0,0,0,0
+Medina,1D,State Senate,19,REP,"Peter P. ""Pete"" Flores",162,388,12,562
+Medina,1D,State Senate,19,REP,Ballots Cast,162,388,12,562
+Medina,1D,State Senate,19,REP,Undervotes,35,65,4,104
+Medina,1D,State Senate,19,REP,Overvotes,0,0,0,0
 Medina,1D,State Representative,53,REP,Andrew S. Murr,169,394,12,575
 Medina,1D,State Representative,53,REP,Ballots Cast,169,394,12,575
 Medina,1D,State Representative,53,REP,Undervotes,28,59,4,91
@@ -1330,14 +1330,14 @@ Medina,2A,U.S. Senate,,DEM,"Annie ""Mama"" Garcia",9,1,0,10
 Medina,2A,U.S. Senate,,DEM,Ballots Cast,100,76,11,187
 Medina,2A,U.S. Senate,,DEM,Undervotes,10,11,1,22
 Medina,2A,U.S. Senate,,DEM,Overvotes,0,0,0,0
-Medina,2A,U.S. Representative District 23,,DEM,Ricardo R. Madrid,5,3,2,10
-Medina,2A,U.S. Representative District 23,,DEM,"Rosalinda ""Rosey"" Ramos Abuabara",17,16,0,33
-Medina,2A,U.S. Representative District 23,,DEM,Efrain V Valdez,8,1,0,9
-Medina,2A,U.S. Representative District 23,,DEM,Gina Ortiz Jones,67,59,8,134
-Medina,2A,U.S. Representative District 23,,DEM,Jaime Escuder,7,2,2,11
-Medina,2A,U.S. Representative District 23,,DEM,Ballots Cast,104,81,12,197
-Medina,2A,U.S. Representative District 23,,DEM,Undervotes,6,6,0,12
-Medina,2A,U.S. Representative District 23,,DEM,Overvotes,0,0,0,0
+Medina,2A,U.S. House,23,DEM,Ricardo R. Madrid,5,3,2,10
+Medina,2A,U.S. House,23,DEM,"Rosalinda ""Rosey"" Ramos Abuabara",17,16,0,33
+Medina,2A,U.S. House,23,DEM,Efrain V Valdez,8,1,0,9
+Medina,2A,U.S. House,23,DEM,Gina Ortiz Jones,67,59,8,134
+Medina,2A,U.S. House,23,DEM,Jaime Escuder,7,2,2,11
+Medina,2A,U.S. House,23,DEM,Ballots Cast,104,81,12,197
+Medina,2A,U.S. House,23,DEM,Undervotes,6,6,0,12
+Medina,2A,U.S. House,23,DEM,Overvotes,0,0,0,0
 Medina,2A,Railroad Commissioner,,DEM,Mark Watson,14,13,1,28
 Medina,2A,Railroad Commissioner,,DEM,"Roberto R. ""Beto"" Alonzo",28,30,3,61
 Medina,2A,Railroad Commissioner,,DEM,Kelly Stone,19,11,1,31
@@ -1384,12 +1384,12 @@ Medina,2A,"Member, State Board of Education, District 1",,DEM,Georgina Perez,93,
 Medina,2A,"Member, State Board of Education, District 1",,DEM,Ballots Cast,93,76,7,176
 Medina,2A,"Member, State Board of Education, District 1",,DEM,Undervotes,17,11,5,33
 Medina,2A,"Member, State Board of Education, District 1",,DEM,Overvotes,0,0,0,0
-Medina,2A,"State Senator, District 19",,DEM,Roland Gutierrez,23,28,9,60
-Medina,2A,"State Senator, District 19",,DEM,Xochil Pe√±a Rodriguez,54,39,2,95
-Medina,2A,"State Senator, District 19",,DEM,Freddy Ramirez,20,10,0,30
-Medina,2A,"State Senator, District 19",,DEM,Ballots Cast,97,77,11,185
-Medina,2A,"State Senator, District 19",,DEM,Undervotes,13,10,1,24
-Medina,2A,"State Senator, District 19",,DEM,Overvotes,0,0,0,0
+Medina,2A,State Senate,19,DEM,Roland Gutierrez,23,28,9,60
+Medina,2A,State Senate,19,DEM,Xochil Pe√±a Rodriguez,54,39,2,95
+Medina,2A,State Senate,19,DEM,Freddy Ramirez,20,10,0,30
+Medina,2A,State Senate,19,DEM,Ballots Cast,97,77,11,185
+Medina,2A,State Senate,19,DEM,Undervotes,13,10,1,24
+Medina,2A,State Senate,19,DEM,Overvotes,0,0,0,0
 Medina,2A,State Representative,53,DEM,Joe P. Herrera,90,73,8,171
 Medina,2A,State Representative,53,DEM,Ballots Cast,90,73,8,171
 Medina,2A,State Representative,53,DEM,Undervotes,20,14,4,38
@@ -1468,26 +1468,26 @@ Medina,2A,President,,REP,Uncommitted,2,2,0,4
 Medina,2A,President,,REP,Ballots Cast,123,177,1,301
 Medina,2A,President,,REP,Undervotes,0,0,0,0
 Medina,2A,President,,REP,Overvotes,0,0,0,0
-Medina,2A,U. S. Senator,,REP,Mark Yancey,13,23,0,36
-Medina,2A,U. S. Senator,,REP,John Anthony Castro,10,5,0,15
-Medina,2A,U. S. Senator,,REP,Dwayne Stovall,12,8,0,20
-Medina,2A,U. S. Senator,,REP,John Cornyn,84,135,1,220
-Medina,2A,U. S. Senator,,REP,Virgil Bierschwale,1,1,0,2
-Medina,2A,U. S. Senator,,REP,Ballots Cast,120,172,1,293
-Medina,2A,U. S. Senator,,REP,Undervotes,3,5,0,8
-Medina,2A,U. S. Senator,,REP,Overvotes,0,0,0,0
-Medina,2A,U. S. Representative District 23,,REP,Alma Arredondo-Lynch,10,18,0,28
-Medina,2A,U. S. Representative District 23,,REP,Tony Gonzales,27,39,0,66
-Medina,2A,U. S. Representative District 23,,REP,Ben Van Winkle,12,21,1,34
-Medina,2A,U. S. Representative District 23,,REP,Raul Reyes,48,71,0,119
-Medina,2A,U. S. Representative District 23,,REP,Alia Ureste,2,1,0,3
-Medina,2A,U. S. Representative District 23,,REP,Jeff Mcfarlin,8,9,0,17
-Medina,2A,U. S. Representative District 23,,REP,Sharon Breckenridge Thomas,6,6,0,12
-Medina,2A,U. S. Representative District 23,,REP,"Cecil B. ""Burt"" Jones",2,3,0,5
-Medina,2A,U. S. Representative District 23,,REP,Darwin Boedeker,5,1,0,6
-Medina,2A,U. S. Representative District 23,,REP,Ballots Cast,120,169,1,290
-Medina,2A,U. S. Representative District 23,,REP,Undervotes,3,8,0,11
-Medina,2A,U. S. Representative District 23,,REP,Overvotes,0,0,0,0
+Medina,2A,U.S. Senate,,REP,Mark Yancey,13,23,0,36
+Medina,2A,U.S. Senate,,REP,John Anthony Castro,10,5,0,15
+Medina,2A,U.S. Senate,,REP,Dwayne Stovall,12,8,0,20
+Medina,2A,U.S. Senate,,REP,John Cornyn,84,135,1,220
+Medina,2A,U.S. Senate,,REP,Virgil Bierschwale,1,1,0,2
+Medina,2A,U.S. Senate,,REP,Ballots Cast,120,172,1,293
+Medina,2A,U.S. Senate,,REP,Undervotes,3,5,0,8
+Medina,2A,U.S. Senate,,REP,Overvotes,0,0,0,0
+Medina,2A,U.S. House,23,REP,Alma Arredondo-Lynch,10,18,0,28
+Medina,2A,U.S. House,23,REP,Tony Gonzales,27,39,0,66
+Medina,2A,U.S. House,23,REP,Ben Van Winkle,12,21,1,34
+Medina,2A,U.S. House,23,REP,Raul Reyes,48,71,0,119
+Medina,2A,U.S. House,23,REP,Alia Ureste,2,1,0,3
+Medina,2A,U.S. House,23,REP,Jeff Mcfarlin,8,9,0,17
+Medina,2A,U.S. House,23,REP,Sharon Breckenridge Thomas,6,6,0,12
+Medina,2A,U.S. House,23,REP,"Cecil B. ""Burt"" Jones",2,3,0,5
+Medina,2A,U.S. House,23,REP,Darwin Boedeker,5,1,0,6
+Medina,2A,U.S. House,23,REP,Ballots Cast,120,169,1,290
+Medina,2A,U.S. House,23,REP,Undervotes,3,8,0,11
+Medina,2A,U.S. House,23,REP,Overvotes,0,0,0,0
 Medina,2A,Railroad Commissioner,,REP,"James ""Jim"" Wright",69,95,1,165
 Medina,2A,Railroad Commissioner,,REP,Ryan Sitton,42,63,0,105
 Medina,2A,Railroad Commissioner,,REP,Ballots Cast,111,158,1,270
@@ -1526,10 +1526,10 @@ Medina,2A,"Member, State Board of Education, District 1",,REP,Jennifer Ivey,99,1
 Medina,2A,"Member, State Board of Education, District 1",,REP,Ballots Cast,99,147,0,246
 Medina,2A,"Member, State Board of Education, District 1",,REP,Undervotes,24,30,1,55
 Medina,2A,"Member, State Board of Education, District 1",,REP,Overvotes,0,0,0,0
-Medina,2A,"State Senator, District 19",,REP,"Peter P. ""Pete"" Flores",101,159,0,260
-Medina,2A,"State Senator, District 19",,REP,Ballots Cast,101,159,0,260
-Medina,2A,"State Senator, District 19",,REP,Undervotes,22,18,1,41
-Medina,2A,"State Senator, District 19",,REP,Overvotes,0,0,0,0
+Medina,2A,State Senate,19,REP,"Peter P. ""Pete"" Flores",101,159,0,260
+Medina,2A,State Senate,19,REP,Ballots Cast,101,159,0,260
+Medina,2A,State Senate,19,REP,Undervotes,22,18,1,41
+Medina,2A,State Senate,19,REP,Overvotes,0,0,0,0
 Medina,2A,State Representative,53,REP,Andrew S. Murr,98,153,0,251
 Medina,2A,State Representative,53,REP,Ballots Cast,98,153,0,251
 Medina,2A,State Representative,53,REP,Undervotes,25,24,1,50
@@ -1651,14 +1651,14 @@ Medina,2B,U.S. Senate,,DEM,"Annie ""Mama"" Garcia",5,6,2,13
 Medina,2B,U.S. Senate,,DEM,Ballots Cast,90,98,13,201
 Medina,2B,U.S. Senate,,DEM,Undervotes,18,15,6,39
 Medina,2B,U.S. Senate,,DEM,Overvotes,0,0,0,0
-Medina,2B,U.S. Representative District 23,,DEM,Ricardo R. Madrid,6,4,0,10
-Medina,2B,U.S. Representative District 23,,DEM,"Rosalinda ""Rosey"" Ramos Abuabara",7,9,1,17
-Medina,2B,U.S. Representative District 23,,DEM,Efrain V Valdez,5,3,1,9
-Medina,2B,U.S. Representative District 23,,DEM,Gina Ortiz Jones,71,85,13,169
-Medina,2B,U.S. Representative District 23,,DEM,Jaime Escuder,6,2,0,8
-Medina,2B,U.S. Representative District 23,,DEM,Ballots Cast,95,103,15,213
-Medina,2B,U.S. Representative District 23,,DEM,Undervotes,13,10,4,27
-Medina,2B,U.S. Representative District 23,,DEM,Overvotes,0,0,0,0
+Medina,2B,U.S. House,23,DEM,Ricardo R. Madrid,6,4,0,10
+Medina,2B,U.S. House,23,DEM,"Rosalinda ""Rosey"" Ramos Abuabara",7,9,1,17
+Medina,2B,U.S. House,23,DEM,Efrain V Valdez,5,3,1,9
+Medina,2B,U.S. House,23,DEM,Gina Ortiz Jones,71,85,13,169
+Medina,2B,U.S. House,23,DEM,Jaime Escuder,6,2,0,8
+Medina,2B,U.S. House,23,DEM,Ballots Cast,95,103,15,213
+Medina,2B,U.S. House,23,DEM,Undervotes,13,10,4,27
+Medina,2B,U.S. House,23,DEM,Overvotes,0,0,0,0
 Medina,2B,Railroad Commissioner,,DEM,Mark Watson,12,15,6,33
 Medina,2B,Railroad Commissioner,,DEM,"Roberto R. ""Beto"" Alonzo",30,34,4,68
 Medina,2B,Railroad Commissioner,,DEM,Kelly Stone,20,11,1,32
@@ -1705,12 +1705,12 @@ Medina,2B,"Member, State Board of Education, District 1",,DEM,Georgina Perez,80,
 Medina,2B,"Member, State Board of Education, District 1",,DEM,Ballots Cast,80,79,7,166
 Medina,2B,"Member, State Board of Education, District 1",,DEM,Undervotes,28,34,12,74
 Medina,2B,"Member, State Board of Education, District 1",,DEM,Overvotes,0,0,0,0
-Medina,2B,"State Senator, District 19",,DEM,Roland Gutierrez,31,32,8,71
-Medina,2B,"State Senator, District 19",,DEM,Xochil Pe√±a Rodriguez,34,52,1,87
-Medina,2B,"State Senator, District 19",,DEM,Freddy Ramirez,19,10,0,29
-Medina,2B,"State Senator, District 19",,DEM,Ballots Cast,84,94,9,187
-Medina,2B,"State Senator, District 19",,DEM,Undervotes,24,19,10,53
-Medina,2B,"State Senator, District 19",,DEM,Overvotes,0,0,0,0
+Medina,2B,State Senate,19,DEM,Roland Gutierrez,31,32,8,71
+Medina,2B,State Senate,19,DEM,Xochil Pe√±a Rodriguez,34,52,1,87
+Medina,2B,State Senate,19,DEM,Freddy Ramirez,19,10,0,29
+Medina,2B,State Senate,19,DEM,Ballots Cast,84,94,9,187
+Medina,2B,State Senate,19,DEM,Undervotes,24,19,10,53
+Medina,2B,State Senate,19,DEM,Overvotes,0,0,0,0
 Medina,2B,State Representative,53,DEM,Joe P. Herrera,79,83,8,170
 Medina,2B,State Representative,53,DEM,Ballots Cast,79,83,8,170
 Medina,2B,State Representative,53,DEM,Undervotes,29,30,11,70
@@ -1789,26 +1789,26 @@ Medina,2B,President,,REP,Uncommitted,7,8,0,15
 Medina,2B,President,,REP,Ballots Cast,195,452,16,663
 Medina,2B,President,,REP,Undervotes,0,3,0,3
 Medina,2B,President,,REP,Overvotes,0,0,0,0
-Medina,2B,U. S. Senator,,REP,Mark Yancey,27,31,1,59
-Medina,2B,U. S. Senator,,REP,John Anthony Castro,14,12,0,26
-Medina,2B,U. S. Senator,,REP,Dwayne Stovall,8,17,0,25
-Medina,2B,U. S. Senator,,REP,John Cornyn,136,375,15,526
-Medina,2B,U. S. Senator,,REP,Virgil Bierschwale,0,4,0,4
-Medina,2B,U. S. Senator,,REP,Ballots Cast,185,439,16,640
-Medina,2B,U. S. Senator,,REP,Undervotes,10,16,0,26
-Medina,2B,U. S. Senator,,REP,Overvotes,0,0,0,0
-Medina,2B,U. S. Representative District 23,,REP,Alma Arredondo-Lynch,18,28,1,47
-Medina,2B,U. S. Representative District 23,,REP,Tony Gonzales,31,62,3,96
-Medina,2B,U. S. Representative District 23,,REP,Ben Van Winkle,39,59,0,98
-Medina,2B,U. S. Representative District 23,,REP,Raul Reyes,84,284,6,374
-Medina,2B,U. S. Representative District 23,,REP,Alia Ureste,1,0,0,1
-Medina,2B,U. S. Representative District 23,,REP,Jeff Mcfarlin,8,6,0,14
-Medina,2B,U. S. Representative District 23,,REP,Sharon Breckenridge Thomas,5,4,3,12
-Medina,2B,U. S. Representative District 23,,REP,"Cecil B. ""Burt"" Jones",0,2,0,2
-Medina,2B,U. S. Representative District 23,,REP,Darwin Boedeker,1,0,1,2
-Medina,2B,U. S. Representative District 23,,REP,Ballots Cast,187,445,14,646
-Medina,2B,U. S. Representative District 23,,REP,Undervotes,8,10,2,20
-Medina,2B,U. S. Representative District 23,,REP,Overvotes,0,0,0,0
+Medina,2B,U.S. Senate,,REP,Mark Yancey,27,31,1,59
+Medina,2B,U.S. Senate,,REP,John Anthony Castro,14,12,0,26
+Medina,2B,U.S. Senate,,REP,Dwayne Stovall,8,17,0,25
+Medina,2B,U.S. Senate,,REP,John Cornyn,136,375,15,526
+Medina,2B,U.S. Senate,,REP,Virgil Bierschwale,0,4,0,4
+Medina,2B,U.S. Senate,,REP,Ballots Cast,185,439,16,640
+Medina,2B,U.S. Senate,,REP,Undervotes,10,16,0,26
+Medina,2B,U.S. Senate,,REP,Overvotes,0,0,0,0
+Medina,2B,U.S. House,23,REP,Alma Arredondo-Lynch,18,28,1,47
+Medina,2B,U.S. House,23,REP,Tony Gonzales,31,62,3,96
+Medina,2B,U.S. House,23,REP,Ben Van Winkle,39,59,0,98
+Medina,2B,U.S. House,23,REP,Raul Reyes,84,284,6,374
+Medina,2B,U.S. House,23,REP,Alia Ureste,1,0,0,1
+Medina,2B,U.S. House,23,REP,Jeff Mcfarlin,8,6,0,14
+Medina,2B,U.S. House,23,REP,Sharon Breckenridge Thomas,5,4,3,12
+Medina,2B,U.S. House,23,REP,"Cecil B. ""Burt"" Jones",0,2,0,2
+Medina,2B,U.S. House,23,REP,Darwin Boedeker,1,0,1,2
+Medina,2B,U.S. House,23,REP,Ballots Cast,187,445,14,646
+Medina,2B,U.S. House,23,REP,Undervotes,8,10,2,20
+Medina,2B,U.S. House,23,REP,Overvotes,0,0,0,0
 Medina,2B,Railroad Commissioner,,REP,"James ""Jim"" Wright",122,234,13,369
 Medina,2B,Railroad Commissioner,,REP,Ryan Sitton,53,166,2,221
 Medina,2B,Railroad Commissioner,,REP,Ballots Cast,175,400,15,590
@@ -1847,10 +1847,10 @@ Medina,2B,"Member, State Board of Education, District 1",,REP,Jennifer Ivey,168,
 Medina,2B,"Member, State Board of Education, District 1",,REP,Ballots Cast,168,384,11,563
 Medina,2B,"Member, State Board of Education, District 1",,REP,Undervotes,27,71,5,103
 Medina,2B,"Member, State Board of Education, District 1",,REP,Overvotes,0,0,0,0
-Medina,2B,"State Senator, District 19",,REP,"Peter P. ""Pete"" Flores",173,394,13,580
-Medina,2B,"State Senator, District 19",,REP,Ballots Cast,173,394,13,580
-Medina,2B,"State Senator, District 19",,REP,Undervotes,22,61,3,86
-Medina,2B,"State Senator, District 19",,REP,Overvotes,0,0,0,0
+Medina,2B,State Senate,19,REP,"Peter P. ""Pete"" Flores",173,394,13,580
+Medina,2B,State Senate,19,REP,Ballots Cast,173,394,13,580
+Medina,2B,State Senate,19,REP,Undervotes,22,61,3,86
+Medina,2B,State Senate,19,REP,Overvotes,0,0,0,0
 Medina,2B,State Representative,53,REP,Andrew S. Murr,169,387,13,569
 Medina,2B,State Representative,53,REP,Ballots Cast,169,387,13,569
 Medina,2B,State Representative,53,REP,Undervotes,26,68,3,97
@@ -1972,14 +1972,14 @@ Medina,2C,U.S. Senate,,DEM,"Annie ""Mama"" Garcia",10,8,1,19
 Medina,2C,U.S. Senate,,DEM,Ballots Cast,92,119,20,231
 Medina,2C,U.S. Senate,,DEM,Undervotes,18,11,4,33
 Medina,2C,U.S. Senate,,DEM,Overvotes,0,0,0,0
-Medina,2C,U.S. Representative District 23,,DEM,Ricardo R. Madrid,6,6,0,12
-Medina,2C,U.S. Representative District 23,,DEM,"Rosalinda ""Rosey"" Ramos Abuabara",11,18,3,32
-Medina,2C,U.S. Representative District 23,,DEM,Efrain V Valdez,2,8,1,11
-Medina,2C,U.S. Representative District 23,,DEM,Gina Ortiz Jones,74,84,16,174
-Medina,2C,U.S. Representative District 23,,DEM,Jaime Escuder,3,4,0,7
-Medina,2C,U.S. Representative District 23,,DEM,Ballots Cast,96,120,20,236
-Medina,2C,U.S. Representative District 23,,DEM,Undervotes,14,10,4,28
-Medina,2C,U.S. Representative District 23,,DEM,Overvotes,0,0,0,0
+Medina,2C,U.S. House,23,DEM,Ricardo R. Madrid,6,6,0,12
+Medina,2C,U.S. House,23,DEM,"Rosalinda ""Rosey"" Ramos Abuabara",11,18,3,32
+Medina,2C,U.S. House,23,DEM,Efrain V Valdez,2,8,1,11
+Medina,2C,U.S. House,23,DEM,Gina Ortiz Jones,74,84,16,174
+Medina,2C,U.S. House,23,DEM,Jaime Escuder,3,4,0,7
+Medina,2C,U.S. House,23,DEM,Ballots Cast,96,120,20,236
+Medina,2C,U.S. House,23,DEM,Undervotes,14,10,4,28
+Medina,2C,U.S. House,23,DEM,Overvotes,0,0,0,0
 Medina,2C,Railroad Commissioner,,DEM,Mark Watson,16,13,2,31
 Medina,2C,Railroad Commissioner,,DEM,"Roberto R. ""Beto"" Alonzo",32,35,12,79
 Medina,2C,Railroad Commissioner,,DEM,Kelly Stone,18,14,2,34
@@ -2026,12 +2026,12 @@ Medina,2C,"Member, State Board of Education, District 1",,DEM,Georgina Perez,85,
 Medina,2C,"Member, State Board of Education, District 1",,DEM,Ballots Cast,85,108,13,206
 Medina,2C,"Member, State Board of Education, District 1",,DEM,Undervotes,25,22,11,58
 Medina,2C,"Member, State Board of Education, District 1",,DEM,Overvotes,0,0,0,0
-Medina,2C,"State Senator, District 19",,DEM,Roland Gutierrez,27,38,10,75
-Medina,2C,"State Senator, District 19",,DEM,Xochil Pe√±a Rodriguez,44,56,8,108
-Medina,2C,"State Senator, District 19",,DEM,Freddy Ramirez,19,17,2,38
-Medina,2C,"State Senator, District 19",,DEM,Ballots Cast,90,111,20,221
-Medina,2C,"State Senator, District 19",,DEM,Undervotes,20,19,4,43
-Medina,2C,"State Senator, District 19",,DEM,Overvotes,0,0,0,0
+Medina,2C,State Senate,19,DEM,Roland Gutierrez,27,38,10,75
+Medina,2C,State Senate,19,DEM,Xochil Pe√±a Rodriguez,44,56,8,108
+Medina,2C,State Senate,19,DEM,Freddy Ramirez,19,17,2,38
+Medina,2C,State Senate,19,DEM,Ballots Cast,90,111,20,221
+Medina,2C,State Senate,19,DEM,Undervotes,20,19,4,43
+Medina,2C,State Senate,19,DEM,Overvotes,0,0,0,0
 Medina,2C,State Representative,53,DEM,Joe P. Herrera,82,101,15,198
 Medina,2C,State Representative,53,DEM,Ballots Cast,82,101,15,198
 Medina,2C,State Representative,53,DEM,Undervotes,28,29,9,66
@@ -2110,26 +2110,26 @@ Medina,2C,President,,REP,Uncommitted,11,14,0,25
 Medina,2C,President,,REP,Ballots Cast,286,461,5,752
 Medina,2C,President,,REP,Undervotes,0,0,0,0
 Medina,2C,President,,REP,Overvotes,0,0,1,1
-Medina,2C,U. S. Senator,,REP,Mark Yancey,39,41,0,80
-Medina,2C,U. S. Senator,,REP,John Anthony Castro,21,20,0,41
-Medina,2C,U. S. Senator,,REP,Dwayne Stovall,21,24,0,45
-Medina,2C,U. S. Senator,,REP,John Cornyn,181,353,6,540
-Medina,2C,U. S. Senator,,REP,Virgil Bierschwale,3,3,0,6
-Medina,2C,U. S. Senator,,REP,Ballots Cast,265,441,6,712
-Medina,2C,U. S. Senator,,REP,Undervotes,21,20,0,41
-Medina,2C,U. S. Senator,,REP,Overvotes,0,0,0,0
-Medina,2C,U. S. Representative District 23,,REP,Alma Arredondo-Lynch,31,44,0,75
-Medina,2C,U. S. Representative District 23,,REP,Tony Gonzales,65,73,3,141
-Medina,2C,U. S. Representative District 23,,REP,Ben Van Winkle,61,77,3,141
-Medina,2C,U. S. Representative District 23,,REP,Raul Reyes,87,226,0,313
-Medina,2C,U. S. Representative District 23,,REP,Alia Ureste,1,1,0,2
-Medina,2C,U. S. Representative District 23,,REP,Jeff Mcfarlin,17,16,0,33
-Medina,2C,U. S. Representative District 23,,REP,Sharon Breckenridge Thomas,10,13,0,23
-Medina,2C,U. S. Representative District 23,,REP,"Cecil B. ""Burt"" Jones",2,1,0,3
-Medina,2C,U. S. Representative District 23,,REP,Darwin Boedeker,3,0,0,3
-Medina,2C,U. S. Representative District 23,,REP,Ballots Cast,277,451,6,734
-Medina,2C,U. S. Representative District 23,,REP,Undervotes,9,10,0,19
-Medina,2C,U. S. Representative District 23,,REP,Overvotes,0,0,0,0
+Medina,2C,U.S. Senate,,REP,Mark Yancey,39,41,0,80
+Medina,2C,U.S. Senate,,REP,John Anthony Castro,21,20,0,41
+Medina,2C,U.S. Senate,,REP,Dwayne Stovall,21,24,0,45
+Medina,2C,U.S. Senate,,REP,John Cornyn,181,353,6,540
+Medina,2C,U.S. Senate,,REP,Virgil Bierschwale,3,3,0,6
+Medina,2C,U.S. Senate,,REP,Ballots Cast,265,441,6,712
+Medina,2C,U.S. Senate,,REP,Undervotes,21,20,0,41
+Medina,2C,U.S. Senate,,REP,Overvotes,0,0,0,0
+Medina,2C,U.S. House,23,REP,Alma Arredondo-Lynch,31,44,0,75
+Medina,2C,U.S. House,23,REP,Tony Gonzales,65,73,3,141
+Medina,2C,U.S. House,23,REP,Ben Van Winkle,61,77,3,141
+Medina,2C,U.S. House,23,REP,Raul Reyes,87,226,0,313
+Medina,2C,U.S. House,23,REP,Alia Ureste,1,1,0,2
+Medina,2C,U.S. House,23,REP,Jeff Mcfarlin,17,16,0,33
+Medina,2C,U.S. House,23,REP,Sharon Breckenridge Thomas,10,13,0,23
+Medina,2C,U.S. House,23,REP,"Cecil B. ""Burt"" Jones",2,1,0,3
+Medina,2C,U.S. House,23,REP,Darwin Boedeker,3,0,0,3
+Medina,2C,U.S. House,23,REP,Ballots Cast,277,451,6,734
+Medina,2C,U.S. House,23,REP,Undervotes,9,10,0,19
+Medina,2C,U.S. House,23,REP,Overvotes,0,0,0,0
 Medina,2C,Railroad Commissioner,,REP,"James ""Jim"" Wright",173,252,4,429
 Medina,2C,Railroad Commissioner,,REP,Ryan Sitton,88,171,2,261
 Medina,2C,Railroad Commissioner,,REP,Ballots Cast,261,423,6,690
@@ -2168,10 +2168,10 @@ Medina,2C,"Member, State Board of Education, District 1",,REP,Jennifer Ivey,253,
 Medina,2C,"Member, State Board of Education, District 1",,REP,Ballots Cast,253,387,6,646
 Medina,2C,"Member, State Board of Education, District 1",,REP,Undervotes,33,74,0,107
 Medina,2C,"Member, State Board of Education, District 1",,REP,Overvotes,0,0,0,0
-Medina,2C,"State Senator, District 19",,REP,"Peter P. ""Pete"" Flores",253,401,6,660
-Medina,2C,"State Senator, District 19",,REP,Ballots Cast,253,401,6,660
-Medina,2C,"State Senator, District 19",,REP,Undervotes,33,60,0,93
-Medina,2C,"State Senator, District 19",,REP,Overvotes,0,0,0,0
+Medina,2C,State Senate,19,REP,"Peter P. ""Pete"" Flores",253,401,6,660
+Medina,2C,State Senate,19,REP,Ballots Cast,253,401,6,660
+Medina,2C,State Senate,19,REP,Undervotes,33,60,0,93
+Medina,2C,State Senate,19,REP,Overvotes,0,0,0,0
 Medina,2C,State Representative,53,REP,Andrew S. Murr,253,395,6,654
 Medina,2C,State Representative,53,REP,Ballots Cast,253,395,6,654
 Medina,2C,State Representative,53,REP,Undervotes,33,66,0,99
@@ -2293,14 +2293,14 @@ Medina,3A,U.S. Senate,,DEM,"Annie ""Mama"" Garcia",5,2,1,8
 Medina,3A,U.S. Senate,,DEM,Ballots Cast,37,21,6,64
 Medina,3A,U.S. Senate,,DEM,Undervotes,8,3,3,14
 Medina,3A,U.S. Senate,,DEM,Overvotes,0,0,0,0
-Medina,3A,U.S. Representative District 23,,DEM,Ricardo R. Madrid,3,2,3,8
-Medina,3A,U.S. Representative District 23,,DEM,"Rosalinda ""Rosey"" Ramos Abuabara",5,2,0,7
-Medina,3A,U.S. Representative District 23,,DEM,Efrain V Valdez,1,1,0,2
-Medina,3A,U.S. Representative District 23,,DEM,Gina Ortiz Jones,31,14,5,50
-Medina,3A,U.S. Representative District 23,,DEM,Jaime Escuder,1,0,0,1
-Medina,3A,U.S. Representative District 23,,DEM,Ballots Cast,41,19,8,68
-Medina,3A,U.S. Representative District 23,,DEM,Undervotes,4,5,1,10
-Medina,3A,U.S. Representative District 23,,DEM,Overvotes,0,0,0,0
+Medina,3A,U.S. House,23,DEM,Ricardo R. Madrid,3,2,3,8
+Medina,3A,U.S. House,23,DEM,"Rosalinda ""Rosey"" Ramos Abuabara",5,2,0,7
+Medina,3A,U.S. House,23,DEM,Efrain V Valdez,1,1,0,2
+Medina,3A,U.S. House,23,DEM,Gina Ortiz Jones,31,14,5,50
+Medina,3A,U.S. House,23,DEM,Jaime Escuder,1,0,0,1
+Medina,3A,U.S. House,23,DEM,Ballots Cast,41,19,8,68
+Medina,3A,U.S. House,23,DEM,Undervotes,4,5,1,10
+Medina,3A,U.S. House,23,DEM,Overvotes,0,0,0,0
 Medina,3A,Railroad Commissioner,,DEM,Mark Watson,9,3,1,13
 Medina,3A,Railroad Commissioner,,DEM,"Roberto R. ""Beto"" Alonzo",13,5,4,22
 Medina,3A,Railroad Commissioner,,DEM,Kelly Stone,6,1,2,9
@@ -2347,12 +2347,12 @@ Medina,3A,"Member, State Board of Education, District 1",,DEM,Georgina Perez,36,
 Medina,3A,"Member, State Board of Education, District 1",,DEM,Ballots Cast,36,15,8,59
 Medina,3A,"Member, State Board of Education, District 1",,DEM,Undervotes,9,9,1,19
 Medina,3A,"Member, State Board of Education, District 1",,DEM,Overvotes,0,0,0,0
-Medina,3A,"State Senator, District 19",,DEM,Roland Gutierrez,15,5,3,23
-Medina,3A,"State Senator, District 19",,DEM,Xochil Pe√±a Rodriguez,17,9,3,29
-Medina,3A,"State Senator, District 19",,DEM,Freddy Ramirez,7,3,3,13
-Medina,3A,"State Senator, District 19",,DEM,Ballots Cast,39,17,9,65
-Medina,3A,"State Senator, District 19",,DEM,Undervotes,6,7,0,13
-Medina,3A,"State Senator, District 19",,DEM,Overvotes,0,0,0,0
+Medina,3A,State Senate,19,DEM,Roland Gutierrez,15,5,3,23
+Medina,3A,State Senate,19,DEM,Xochil Pe√±a Rodriguez,17,9,3,29
+Medina,3A,State Senate,19,DEM,Freddy Ramirez,7,3,3,13
+Medina,3A,State Senate,19,DEM,Ballots Cast,39,17,9,65
+Medina,3A,State Senate,19,DEM,Undervotes,6,7,0,13
+Medina,3A,State Senate,19,DEM,Overvotes,0,0,0,0
 Medina,3A,State Representative,53,DEM,Joe P. Herrera,35,13,8,56
 Medina,3A,State Representative,53,DEM,Ballots Cast,35,13,8,56
 Medina,3A,State Representative,53,DEM,Undervotes,10,11,1,22
@@ -2435,26 +2435,26 @@ Medina,3A,President,,REP,Uncommitted,3,1,0,4
 Medina,3A,President,,REP,Ballots Cast,152,131,7,290
 Medina,3A,President,,REP,Undervotes,1,0,0,1
 Medina,3A,President,,REP,Overvotes,0,0,0,0
-Medina,3A,U. S. Senator,,REP,Mark Yancey,9,13,0,22
-Medina,3A,U. S. Senator,,REP,John Anthony Castro,4,3,0,7
-Medina,3A,U. S. Senator,,REP,Dwayne Stovall,7,6,0,13
-Medina,3A,U. S. Senator,,REP,John Cornyn,126,104,5,235
-Medina,3A,U. S. Senator,,REP,Virgil Bierschwale,1,2,0,3
-Medina,3A,U. S. Senator,,REP,Ballots Cast,147,128,5,280
-Medina,3A,U. S. Senator,,REP,Undervotes,6,3,2,11
-Medina,3A,U. S. Senator,,REP,Overvotes,0,0,0,0
-Medina,3A,U. S. Representative District 23,,REP,Alma Arredondo-Lynch,37,24,0,61
-Medina,3A,U. S. Representative District 23,,REP,Tony Gonzales,34,19,1,54
-Medina,3A,U. S. Representative District 23,,REP,Ben Van Winkle,12,7,0,19
-Medina,3A,U. S. Representative District 23,,REP,Raul Reyes,53,69,4,126
-Medina,3A,U. S. Representative District 23,,REP,Alia Ureste,0,3,0,3
-Medina,3A,U. S. Representative District 23,,REP,Jeff Mcfarlin,6,2,0,8
-Medina,3A,U. S. Representative District 23,,REP,Sharon Breckenridge Thomas,4,0,0,4
-Medina,3A,U. S. Representative District 23,,REP,"Cecil B. ""Burt"" Jones",1,1,0,2
-Medina,3A,U. S. Representative District 23,,REP,Darwin Boedeker,1,0,0,1
-Medina,3A,U. S. Representative District 23,,REP,Ballots Cast,148,125,5,278
-Medina,3A,U. S. Representative District 23,,REP,Undervotes,5,6,2,13
-Medina,3A,U. S. Representative District 23,,REP,Overvotes,0,0,0,0
+Medina,3A,U.S. Senate,,REP,Mark Yancey,9,13,0,22
+Medina,3A,U.S. Senate,,REP,John Anthony Castro,4,3,0,7
+Medina,3A,U.S. Senate,,REP,Dwayne Stovall,7,6,0,13
+Medina,3A,U.S. Senate,,REP,John Cornyn,126,104,5,235
+Medina,3A,U.S. Senate,,REP,Virgil Bierschwale,1,2,0,3
+Medina,3A,U.S. Senate,,REP,Ballots Cast,147,128,5,280
+Medina,3A,U.S. Senate,,REP,Undervotes,6,3,2,11
+Medina,3A,U.S. Senate,,REP,Overvotes,0,0,0,0
+Medina,3A,U.S. House,23,REP,Alma Arredondo-Lynch,37,24,0,61
+Medina,3A,U.S. House,23,REP,Tony Gonzales,34,19,1,54
+Medina,3A,U.S. House,23,REP,Ben Van Winkle,12,7,0,19
+Medina,3A,U.S. House,23,REP,Raul Reyes,53,69,4,126
+Medina,3A,U.S. House,23,REP,Alia Ureste,0,3,0,3
+Medina,3A,U.S. House,23,REP,Jeff Mcfarlin,6,2,0,8
+Medina,3A,U.S. House,23,REP,Sharon Breckenridge Thomas,4,0,0,4
+Medina,3A,U.S. House,23,REP,"Cecil B. ""Burt"" Jones",1,1,0,2
+Medina,3A,U.S. House,23,REP,Darwin Boedeker,1,0,0,1
+Medina,3A,U.S. House,23,REP,Ballots Cast,148,125,5,278
+Medina,3A,U.S. House,23,REP,Undervotes,5,6,2,13
+Medina,3A,U.S. House,23,REP,Overvotes,0,0,0,0
 Medina,3A,Railroad Commissioner,,REP,"James ""Jim"" Wright",94,81,3,178
 Medina,3A,Railroad Commissioner,,REP,Ryan Sitton,44,43,2,89
 Medina,3A,Railroad Commissioner,,REP,Ballots Cast,138,124,5,267
@@ -2493,10 +2493,10 @@ Medina,3A,"Member, State Board of Education, District 1",,REP,Jennifer Ivey,132,
 Medina,3A,"Member, State Board of Education, District 1",,REP,Ballots Cast,132,111,6,249
 Medina,3A,"Member, State Board of Education, District 1",,REP,Undervotes,21,20,1,42
 Medina,3A,"Member, State Board of Education, District 1",,REP,Overvotes,0,0,0,0
-Medina,3A,"State Senator, District 19",,REP,"Peter P. ""Pete"" Flores",134,116,6,256
-Medina,3A,"State Senator, District 19",,REP,Ballots Cast,134,116,6,256
-Medina,3A,"State Senator, District 19",,REP,Undervotes,19,15,1,35
-Medina,3A,"State Senator, District 19",,REP,Overvotes,0,0,0,0
+Medina,3A,State Senate,19,REP,"Peter P. ""Pete"" Flores",134,116,6,256
+Medina,3A,State Senate,19,REP,Ballots Cast,134,116,6,256
+Medina,3A,State Senate,19,REP,Undervotes,19,15,1,35
+Medina,3A,State Senate,19,REP,Overvotes,0,0,0,0
 Medina,3A,State Representative,53,REP,Andrew S. Murr,129,114,6,249
 Medina,3A,State Representative,53,REP,Ballots Cast,129,114,6,249
 Medina,3A,State Representative,53,REP,Undervotes,24,17,1,42
@@ -2618,14 +2618,14 @@ Medina,3B,U.S. Senate,,DEM,"Annie ""Mama"" Garcia",0,1,2,3
 Medina,3B,U.S. Senate,,DEM,Ballots Cast,9,5,8,22
 Medina,3B,U.S. Senate,,DEM,Undervotes,1,0,3,4
 Medina,3B,U.S. Senate,,DEM,Overvotes,0,0,0,0
-Medina,3B,U.S. Representative District 23,,DEM,Ricardo R. Madrid,0,0,0,0
-Medina,3B,U.S. Representative District 23,,DEM,"Rosalinda ""Rosey"" Ramos Abuabara",2,0,1,3
-Medina,3B,U.S. Representative District 23,,DEM,Efrain V Valdez,2,0,2,4
-Medina,3B,U.S. Representative District 23,,DEM,Gina Ortiz Jones,5,4,7,16
-Medina,3B,U.S. Representative District 23,,DEM,Jaime Escuder,0,1,0,1
-Medina,3B,U.S. Representative District 23,,DEM,Ballots Cast,9,5,10,24
-Medina,3B,U.S. Representative District 23,,DEM,Undervotes,1,0,1,2
-Medina,3B,U.S. Representative District 23,,DEM,Overvotes,0,0,0,0
+Medina,3B,U.S. House,23,DEM,Ricardo R. Madrid,0,0,0,0
+Medina,3B,U.S. House,23,DEM,"Rosalinda ""Rosey"" Ramos Abuabara",2,0,1,3
+Medina,3B,U.S. House,23,DEM,Efrain V Valdez,2,0,2,4
+Medina,3B,U.S. House,23,DEM,Gina Ortiz Jones,5,4,7,16
+Medina,3B,U.S. House,23,DEM,Jaime Escuder,0,1,0,1
+Medina,3B,U.S. House,23,DEM,Ballots Cast,9,5,10,24
+Medina,3B,U.S. House,23,DEM,Undervotes,1,0,1,2
+Medina,3B,U.S. House,23,DEM,Overvotes,0,0,0,0
 Medina,3B,Railroad Commissioner,,DEM,Mark Watson,1,0,2,3
 Medina,3B,Railroad Commissioner,,DEM,"Roberto R. ""Beto"" Alonzo",7,1,3,11
 Medina,3B,Railroad Commissioner,,DEM,Kelly Stone,0,1,0,1
@@ -2672,12 +2672,12 @@ Medina,3B,"Member, State Board of Education, District 1",,DEM,Georgina Perez,8,5
 Medina,3B,"Member, State Board of Education, District 1",,DEM,Ballots Cast,8,5,8,21
 Medina,3B,"Member, State Board of Education, District 1",,DEM,Undervotes,2,0,3,5
 Medina,3B,"Member, State Board of Education, District 1",,DEM,Overvotes,0,0,0,0
-Medina,3B,"State Senator, District 19",,DEM,Roland Gutierrez,3,3,4,10
-Medina,3B,"State Senator, District 19",,DEM,Xochil Pe√±a Rodriguez,4,2,2,8
-Medina,3B,"State Senator, District 19",,DEM,Freddy Ramirez,2,0,1,3
-Medina,3B,"State Senator, District 19",,DEM,Ballots Cast,9,5,7,21
-Medina,3B,"State Senator, District 19",,DEM,Undervotes,1,0,4,5
-Medina,3B,"State Senator, District 19",,DEM,Overvotes,0,0,0,0
+Medina,3B,State Senate,19,DEM,Roland Gutierrez,3,3,4,10
+Medina,3B,State Senate,19,DEM,Xochil Pe√±a Rodriguez,4,2,2,8
+Medina,3B,State Senate,19,DEM,Freddy Ramirez,2,0,1,3
+Medina,3B,State Senate,19,DEM,Ballots Cast,9,5,7,21
+Medina,3B,State Senate,19,DEM,Undervotes,1,0,4,5
+Medina,3B,State Senate,19,DEM,Overvotes,0,0,0,0
 Medina,3B,State Representative,53,DEM,Joe P. Herrera,8,5,7,20
 Medina,3B,State Representative,53,DEM,Ballots Cast,8,5,7,20
 Medina,3B,State Representative,53,DEM,Undervotes,2,0,4,6
@@ -2760,26 +2760,26 @@ Medina,3B,President,,REP,Uncommitted,0,1,0,1
 Medina,3B,President,,REP,Ballots Cast,44,82,5,131
 Medina,3B,President,,REP,Undervotes,0,0,0,0
 Medina,3B,President,,REP,Overvotes,0,0,0,0
-Medina,3B,U. S. Senator,,REP,Mark Yancey,8,9,0,17
-Medina,3B,U. S. Senator,,REP,John Anthony Castro,5,1,0,6
-Medina,3B,U. S. Senator,,REP,Dwayne Stovall,0,5,0,5
-Medina,3B,U. S. Senator,,REP,John Cornyn,28,62,5,95
-Medina,3B,U. S. Senator,,REP,Virgil Bierschwale,0,0,0,0
-Medina,3B,U. S. Senator,,REP,Ballots Cast,41,77,5,123
-Medina,3B,U. S. Senator,,REP,Undervotes,3,5,0,8
-Medina,3B,U. S. Senator,,REP,Overvotes,0,0,0,0
-Medina,3B,U. S. Representative District 23,,REP,Alma Arredondo-Lynch,8,19,0,27
-Medina,3B,U. S. Representative District 23,,REP,Tony Gonzales,13,7,2,22
-Medina,3B,U. S. Representative District 23,,REP,Ben Van Winkle,4,17,0,21
-Medina,3B,U. S. Representative District 23,,REP,Raul Reyes,8,27,3,38
-Medina,3B,U. S. Representative District 23,,REP,Alia Ureste,0,1,0,1
-Medina,3B,U. S. Representative District 23,,REP,Jeff Mcfarlin,2,5,0,7
-Medina,3B,U. S. Representative District 23,,REP,Sharon Breckenridge Thomas,3,2,0,5
-Medina,3B,U. S. Representative District 23,,REP,"Cecil B. ""Burt"" Jones",0,0,0,0
-Medina,3B,U. S. Representative District 23,,REP,Darwin Boedeker,1,1,0,2
-Medina,3B,U. S. Representative District 23,,REP,Ballots Cast,39,79,5,123
-Medina,3B,U. S. Representative District 23,,REP,Undervotes,5,3,0,8
-Medina,3B,U. S. Representative District 23,,REP,Overvotes,0,0,0,0
+Medina,3B,U.S. Senate,,REP,Mark Yancey,8,9,0,17
+Medina,3B,U.S. Senate,,REP,John Anthony Castro,5,1,0,6
+Medina,3B,U.S. Senate,,REP,Dwayne Stovall,0,5,0,5
+Medina,3B,U.S. Senate,,REP,John Cornyn,28,62,5,95
+Medina,3B,U.S. Senate,,REP,Virgil Bierschwale,0,0,0,0
+Medina,3B,U.S. Senate,,REP,Ballots Cast,41,77,5,123
+Medina,3B,U.S. Senate,,REP,Undervotes,3,5,0,8
+Medina,3B,U.S. Senate,,REP,Overvotes,0,0,0,0
+Medina,3B,U.S. House,23,REP,Alma Arredondo-Lynch,8,19,0,27
+Medina,3B,U.S. House,23,REP,Tony Gonzales,13,7,2,22
+Medina,3B,U.S. House,23,REP,Ben Van Winkle,4,17,0,21
+Medina,3B,U.S. House,23,REP,Raul Reyes,8,27,3,38
+Medina,3B,U.S. House,23,REP,Alia Ureste,0,1,0,1
+Medina,3B,U.S. House,23,REP,Jeff Mcfarlin,2,5,0,7
+Medina,3B,U.S. House,23,REP,Sharon Breckenridge Thomas,3,2,0,5
+Medina,3B,U.S. House,23,REP,"Cecil B. ""Burt"" Jones",0,0,0,0
+Medina,3B,U.S. House,23,REP,Darwin Boedeker,1,1,0,2
+Medina,3B,U.S. House,23,REP,Ballots Cast,39,79,5,123
+Medina,3B,U.S. House,23,REP,Undervotes,5,3,0,8
+Medina,3B,U.S. House,23,REP,Overvotes,0,0,0,0
 Medina,3B,Railroad Commissioner,,REP,"James ""Jim"" Wright",24,36,2,62
 Medina,3B,Railroad Commissioner,,REP,Ryan Sitton,13,38,2,53
 Medina,3B,Railroad Commissioner,,REP,Ballots Cast,37,74,4,115
@@ -2818,10 +2818,10 @@ Medina,3B,"Member, State Board of Education, District 1",,REP,Jennifer Ivey,38,6
 Medina,3B,"Member, State Board of Education, District 1",,REP,Ballots Cast,38,66,4,108
 Medina,3B,"Member, State Board of Education, District 1",,REP,Undervotes,6,16,1,23
 Medina,3B,"Member, State Board of Education, District 1",,REP,Overvotes,0,0,0,0
-Medina,3B,"State Senator, District 19",,REP,"Peter P. ""Pete"" Flores",38,70,4,112
-Medina,3B,"State Senator, District 19",,REP,Ballots Cast,38,70,4,112
-Medina,3B,"State Senator, District 19",,REP,Undervotes,6,12,1,19
-Medina,3B,"State Senator, District 19",,REP,Overvotes,0,0,0,0
+Medina,3B,State Senate,19,REP,"Peter P. ""Pete"" Flores",38,70,4,112
+Medina,3B,State Senate,19,REP,Ballots Cast,38,70,4,112
+Medina,3B,State Senate,19,REP,Undervotes,6,12,1,19
+Medina,3B,State Senate,19,REP,Overvotes,0,0,0,0
 Medina,3B,State Representative,53,REP,Andrew S. Murr,38,72,4,114
 Medina,3B,State Representative,53,REP,Ballots Cast,38,72,4,114
 Medina,3B,State Representative,53,REP,Undervotes,6,10,1,17
@@ -2943,14 +2943,14 @@ Medina,3C,U.S. Senate,,DEM,"Annie ""Mama"" Garcia",8,8,1,17
 Medina,3C,U.S. Senate,,DEM,Ballots Cast,86,64,21,171
 Medina,3C,U.S. Senate,,DEM,Undervotes,17,4,6,27
 Medina,3C,U.S. Senate,,DEM,Overvotes,0,0,0,0
-Medina,3C,U.S. Representative District 23,,DEM,Ricardo R. Madrid,5,3,0,8
-Medina,3C,U.S. Representative District 23,,DEM,"Rosalinda ""Rosey"" Ramos Abuabara",11,5,4,20
-Medina,3C,U.S. Representative District 23,,DEM,Efrain V Valdez,6,3,2,11
-Medina,3C,U.S. Representative District 23,,DEM,Gina Ortiz Jones,66,49,16,131
-Medina,3C,U.S. Representative District 23,,DEM,Jaime Escuder,1,3,1,5
-Medina,3C,U.S. Representative District 23,,DEM,Ballots Cast,89,63,23,175
-Medina,3C,U.S. Representative District 23,,DEM,Undervotes,14,5,4,23
-Medina,3C,U.S. Representative District 23,,DEM,Overvotes,0,0,0,0
+Medina,3C,U.S. House,23,DEM,Ricardo R. Madrid,5,3,0,8
+Medina,3C,U.S. House,23,DEM,"Rosalinda ""Rosey"" Ramos Abuabara",11,5,4,20
+Medina,3C,U.S. House,23,DEM,Efrain V Valdez,6,3,2,11
+Medina,3C,U.S. House,23,DEM,Gina Ortiz Jones,66,49,16,131
+Medina,3C,U.S. House,23,DEM,Jaime Escuder,1,3,1,5
+Medina,3C,U.S. House,23,DEM,Ballots Cast,89,63,23,175
+Medina,3C,U.S. House,23,DEM,Undervotes,14,5,4,23
+Medina,3C,U.S. House,23,DEM,Overvotes,0,0,0,0
 Medina,3C,Railroad Commissioner,,DEM,Mark Watson,16,10,0,26
 Medina,3C,Railroad Commissioner,,DEM,"Roberto R. ""Beto"" Alonzo",31,20,7,58
 Medina,3C,Railroad Commissioner,,DEM,Kelly Stone,14,9,1,24
@@ -2997,12 +2997,12 @@ Medina,3C,"Member, State Board of Education, District 1",,DEM,Georgina Perez,77,
 Medina,3C,"Member, State Board of Education, District 1",,DEM,Ballots Cast,77,58,14,149
 Medina,3C,"Member, State Board of Education, District 1",,DEM,Undervotes,26,10,13,49
 Medina,3C,"Member, State Board of Education, District 1",,DEM,Overvotes,0,0,0,0
-Medina,3C,"State Senator, District 19",,DEM,Roland Gutierrez,31,27,5,63
-Medina,3C,"State Senator, District 19",,DEM,Xochil Pe√±a Rodriguez,39,27,8,74
-Medina,3C,"State Senator, District 19",,DEM,Freddy Ramirez,14,9,4,27
-Medina,3C,"State Senator, District 19",,DEM,Ballots Cast,84,63,17,164
-Medina,3C,"State Senator, District 19",,DEM,Undervotes,19,5,10,34
-Medina,3C,"State Senator, District 19",,DEM,Overvotes,0,0,0,0
+Medina,3C,State Senate,19,DEM,Roland Gutierrez,31,27,5,63
+Medina,3C,State Senate,19,DEM,Xochil Pe√±a Rodriguez,39,27,8,74
+Medina,3C,State Senate,19,DEM,Freddy Ramirez,14,9,4,27
+Medina,3C,State Senate,19,DEM,Ballots Cast,84,63,17,164
+Medina,3C,State Senate,19,DEM,Undervotes,19,5,10,34
+Medina,3C,State Senate,19,DEM,Overvotes,0,0,0,0
 Medina,3C,State Representative,53,DEM,Joe P. Herrera,78,58,15,151
 Medina,3C,State Representative,53,DEM,Ballots Cast,78,58,15,151
 Medina,3C,State Representative,53,DEM,Undervotes,25,10,12,47
@@ -3085,26 +3085,26 @@ Medina,3C,President,,REP,Uncommitted,3,3,0,6
 Medina,3C,President,,REP,Ballots Cast,142,203,2,347
 Medina,3C,President,,REP,Undervotes,1,1,0,2
 Medina,3C,President,,REP,Overvotes,0,0,0,0
-Medina,3C,U. S. Senator,,REP,Mark Yancey,27,25,0,52
-Medina,3C,U. S. Senator,,REP,John Anthony Castro,11,5,0,16
-Medina,3C,U. S. Senator,,REP,Dwayne Stovall,10,21,0,31
-Medina,3C,U. S. Senator,,REP,John Cornyn,79,146,2,227
-Medina,3C,U. S. Senator,,REP,Virgil Bierschwale,1,1,0,2
-Medina,3C,U. S. Senator,,REP,Ballots Cast,128,198,2,328
-Medina,3C,U. S. Senator,,REP,Undervotes,15,6,0,21
-Medina,3C,U. S. Senator,,REP,Overvotes,0,0,0,0
-Medina,3C,U. S. Representative District 23,,REP,Alma Arredondo-Lynch,26,28,1,55
-Medina,3C,U. S. Representative District 23,,REP,Tony Gonzales,33,43,0,76
-Medina,3C,U. S. Representative District 23,,REP,Ben Van Winkle,15,28,0,43
-Medina,3C,U. S. Representative District 23,,REP,Raul Reyes,33,69,1,103
-Medina,3C,U. S. Representative District 23,,REP,Alia Ureste,4,1,0,5
-Medina,3C,U. S. Representative District 23,,REP,Jeff Mcfarlin,9,11,0,20
-Medina,3C,U. S. Representative District 23,,REP,Sharon Breckenridge Thomas,4,10,0,14
-Medina,3C,U. S. Representative District 23,,REP,"Cecil B. ""Burt"" Jones",2,2,0,4
-Medina,3C,U. S. Representative District 23,,REP,Darwin Boedeker,2,2,0,4
-Medina,3C,U. S. Representative District 23,,REP,Ballots Cast,128,194,2,324
-Medina,3C,U. S. Representative District 23,,REP,Undervotes,15,10,0,25
-Medina,3C,U. S. Representative District 23,,REP,Overvotes,0,0,0,0
+Medina,3C,U.S. Senate,,REP,Mark Yancey,27,25,0,52
+Medina,3C,U.S. Senate,,REP,John Anthony Castro,11,5,0,16
+Medina,3C,U.S. Senate,,REP,Dwayne Stovall,10,21,0,31
+Medina,3C,U.S. Senate,,REP,John Cornyn,79,146,2,227
+Medina,3C,U.S. Senate,,REP,Virgil Bierschwale,1,1,0,2
+Medina,3C,U.S. Senate,,REP,Ballots Cast,128,198,2,328
+Medina,3C,U.S. Senate,,REP,Undervotes,15,6,0,21
+Medina,3C,U.S. Senate,,REP,Overvotes,0,0,0,0
+Medina,3C,U.S. House,23,REP,Alma Arredondo-Lynch,26,28,1,55
+Medina,3C,U.S. House,23,REP,Tony Gonzales,33,43,0,76
+Medina,3C,U.S. House,23,REP,Ben Van Winkle,15,28,0,43
+Medina,3C,U.S. House,23,REP,Raul Reyes,33,69,1,103
+Medina,3C,U.S. House,23,REP,Alia Ureste,4,1,0,5
+Medina,3C,U.S. House,23,REP,Jeff Mcfarlin,9,11,0,20
+Medina,3C,U.S. House,23,REP,Sharon Breckenridge Thomas,4,10,0,14
+Medina,3C,U.S. House,23,REP,"Cecil B. ""Burt"" Jones",2,2,0,4
+Medina,3C,U.S. House,23,REP,Darwin Boedeker,2,2,0,4
+Medina,3C,U.S. House,23,REP,Ballots Cast,128,194,2,324
+Medina,3C,U.S. House,23,REP,Undervotes,15,10,0,25
+Medina,3C,U.S. House,23,REP,Overvotes,0,0,0,0
 Medina,3C,Railroad Commissioner,,REP,"James ""Jim"" Wright",92,128,2,222
 Medina,3C,Railroad Commissioner,,REP,Ryan Sitton,31,60,0,91
 Medina,3C,Railroad Commissioner,,REP,Ballots Cast,123,188,2,313
@@ -3143,10 +3143,10 @@ Medina,3C,"Member, State Board of Education, District 1",,REP,Jennifer Ivey,115,
 Medina,3C,"Member, State Board of Education, District 1",,REP,Ballots Cast,115,167,1,283
 Medina,3C,"Member, State Board of Education, District 1",,REP,Undervotes,28,37,1,66
 Medina,3C,"Member, State Board of Education, District 1",,REP,Overvotes,0,0,0,0
-Medina,3C,"State Senator, District 19",,REP,"Peter P. ""Pete"" Flores",111,176,1,288
-Medina,3C,"State Senator, District 19",,REP,Ballots Cast,111,176,1,288
-Medina,3C,"State Senator, District 19",,REP,Undervotes,32,28,1,61
-Medina,3C,"State Senator, District 19",,REP,Overvotes,0,0,0,0
+Medina,3C,State Senate,19,REP,"Peter P. ""Pete"" Flores",111,176,1,288
+Medina,3C,State Senate,19,REP,Ballots Cast,111,176,1,288
+Medina,3C,State Senate,19,REP,Undervotes,32,28,1,61
+Medina,3C,State Senate,19,REP,Overvotes,0,0,0,0
 Medina,3C,State Representative,53,REP,Andrew S. Murr,117,173,1,291
 Medina,3C,State Representative,53,REP,Ballots Cast,117,173,1,291
 Medina,3C,State Representative,53,REP,Undervotes,26,31,1,58
@@ -3268,14 +3268,14 @@ Medina,3D,U.S. Senate,,DEM,"Annie ""Mama"" Garcia",19,12,4,35
 Medina,3D,U.S. Senate,,DEM,Ballots Cast,113,69,33,215
 Medina,3D,U.S. Senate,,DEM,Undervotes,17,15,6,38
 Medina,3D,U.S. Senate,,DEM,Overvotes,0,0,0,0
-Medina,3D,U.S. Representative District 23,,DEM,Ricardo R. Madrid,12,4,5,21
-Medina,3D,U.S. Representative District 23,,DEM,"Rosalinda ""Rosey"" Ramos Abuabara",8,6,5,19
-Medina,3D,U.S. Representative District 23,,DEM,Efrain V Valdez,15,10,3,28
-Medina,3D,U.S. Representative District 23,,DEM,Gina Ortiz Jones,79,56,23,158
-Medina,3D,U.S. Representative District 23,,DEM,Jaime Escuder,3,1,0,4
-Medina,3D,U.S. Representative District 23,,DEM,Ballots Cast,117,77,36,230
-Medina,3D,U.S. Representative District 23,,DEM,Undervotes,13,7,2,22
-Medina,3D,U.S. Representative District 23,,DEM,Overvotes,0,0,1,1
+Medina,3D,U.S. House,23,DEM,Ricardo R. Madrid,12,4,5,21
+Medina,3D,U.S. House,23,DEM,"Rosalinda ""Rosey"" Ramos Abuabara",8,6,5,19
+Medina,3D,U.S. House,23,DEM,Efrain V Valdez,15,10,3,28
+Medina,3D,U.S. House,23,DEM,Gina Ortiz Jones,79,56,23,158
+Medina,3D,U.S. House,23,DEM,Jaime Escuder,3,1,0,4
+Medina,3D,U.S. House,23,DEM,Ballots Cast,117,77,36,230
+Medina,3D,U.S. House,23,DEM,Undervotes,13,7,2,22
+Medina,3D,U.S. House,23,DEM,Overvotes,0,0,1,1
 Medina,3D,Railroad Commissioner,,DEM,Mark Watson,18,4,0,22
 Medina,3D,Railroad Commissioner,,DEM,"Roberto R. ""Beto"" Alonzo",55,40,20,115
 Medina,3D,Railroad Commissioner,,DEM,Kelly Stone,10,7,3,20
@@ -3322,12 +3322,12 @@ Medina,3D,"Member, State Board of Education, District 1",,DEM,Georgina Perez,111
 Medina,3D,"Member, State Board of Education, District 1",,DEM,Ballots Cast,111,65,27,203
 Medina,3D,"Member, State Board of Education, District 1",,DEM,Undervotes,19,19,12,50
 Medina,3D,"Member, State Board of Education, District 1",,DEM,Overvotes,0,0,0,0
-Medina,3D,"State Senator, District 19",,DEM,Roland Gutierrez,37,24,17,78
-Medina,3D,"State Senator, District 19",,DEM,Xochil Pe√±a Rodriguez,53,41,15,109
-Medina,3D,"State Senator, District 19",,DEM,Freddy Ramirez,26,8,4,38
-Medina,3D,"State Senator, District 19",,DEM,Ballots Cast,116,73,36,225
-Medina,3D,"State Senator, District 19",,DEM,Undervotes,14,11,3,28
-Medina,3D,"State Senator, District 19",,DEM,Overvotes,0,0,0,0
+Medina,3D,State Senate,19,DEM,Roland Gutierrez,37,24,17,78
+Medina,3D,State Senate,19,DEM,Xochil Pe√±a Rodriguez,53,41,15,109
+Medina,3D,State Senate,19,DEM,Freddy Ramirez,26,8,4,38
+Medina,3D,State Senate,19,DEM,Ballots Cast,116,73,36,225
+Medina,3D,State Senate,19,DEM,Undervotes,14,11,3,28
+Medina,3D,State Senate,19,DEM,Overvotes,0,0,0,0
 Medina,3D,State Representative,53,DEM,Joe P. Herrera,103,67,26,196
 Medina,3D,State Representative,53,DEM,Ballots Cast,103,67,26,196
 Medina,3D,State Representative,53,DEM,Undervotes,27,17,13,57
@@ -3410,26 +3410,26 @@ Medina,3D,President,,REP,Uncommitted,0,5,0,5
 Medina,3D,President,,REP,Ballots Cast,58,107,1,166
 Medina,3D,President,,REP,Undervotes,3,2,0,5
 Medina,3D,President,,REP,Overvotes,0,0,0,0
-Medina,3D,U. S. Senator,,REP,Mark Yancey,11,6,0,17
-Medina,3D,U. S. Senator,,REP,John Anthony Castro,4,13,0,17
-Medina,3D,U. S. Senator,,REP,Dwayne Stovall,2,5,0,7
-Medina,3D,U. S. Senator,,REP,John Cornyn,33,75,1,109
-Medina,3D,U. S. Senator,,REP,Virgil Bierschwale,2,2,0,4
-Medina,3D,U. S. Senator,,REP,Ballots Cast,52,101,1,154
-Medina,3D,U. S. Senator,,REP,Undervotes,9,8,0,17
-Medina,3D,U. S. Senator,,REP,Overvotes,0,0,0,0
-Medina,3D,U. S. Representative District 23,,REP,Alma Arredondo-Lynch,5,19,0,24
-Medina,3D,U. S. Representative District 23,,REP,Tony Gonzales,13,23,0,36
-Medina,3D,U. S. Representative District 23,,REP,Ben Van Winkle,5,8,0,13
-Medina,3D,U. S. Representative District 23,,REP,Raul Reyes,17,46,1,64
-Medina,3D,U. S. Representative District 23,,REP,Alia Ureste,1,1,0,2
-Medina,3D,U. S. Representative District 23,,REP,Jeff Mcfarlin,5,1,0,6
-Medina,3D,U. S. Representative District 23,,REP,Sharon Breckenridge Thomas,2,0,0,2
-Medina,3D,U. S. Representative District 23,,REP,"Cecil B. ""Burt"" Jones",3,1,0,4
-Medina,3D,U. S. Representative District 23,,REP,Darwin Boedeker,2,0,0,2
-Medina,3D,U. S. Representative District 23,,REP,Ballots Cast,53,99,1,153
-Medina,3D,U. S. Representative District 23,,REP,Undervotes,8,10,0,18
-Medina,3D,U. S. Representative District 23,,REP,Overvotes,0,0,0,0
+Medina,3D,U.S. Senate,,REP,Mark Yancey,11,6,0,17
+Medina,3D,U.S. Senate,,REP,John Anthony Castro,4,13,0,17
+Medina,3D,U.S. Senate,,REP,Dwayne Stovall,2,5,0,7
+Medina,3D,U.S. Senate,,REP,John Cornyn,33,75,1,109
+Medina,3D,U.S. Senate,,REP,Virgil Bierschwale,2,2,0,4
+Medina,3D,U.S. Senate,,REP,Ballots Cast,52,101,1,154
+Medina,3D,U.S. Senate,,REP,Undervotes,9,8,0,17
+Medina,3D,U.S. Senate,,REP,Overvotes,0,0,0,0
+Medina,3D,U.S. House,23,REP,Alma Arredondo-Lynch,5,19,0,24
+Medina,3D,U.S. House,23,REP,Tony Gonzales,13,23,0,36
+Medina,3D,U.S. House,23,REP,Ben Van Winkle,5,8,0,13
+Medina,3D,U.S. House,23,REP,Raul Reyes,17,46,1,64
+Medina,3D,U.S. House,23,REP,Alia Ureste,1,1,0,2
+Medina,3D,U.S. House,23,REP,Jeff Mcfarlin,5,1,0,6
+Medina,3D,U.S. House,23,REP,Sharon Breckenridge Thomas,2,0,0,2
+Medina,3D,U.S. House,23,REP,"Cecil B. ""Burt"" Jones",3,1,0,4
+Medina,3D,U.S. House,23,REP,Darwin Boedeker,2,0,0,2
+Medina,3D,U.S. House,23,REP,Ballots Cast,53,99,1,153
+Medina,3D,U.S. House,23,REP,Undervotes,8,10,0,18
+Medina,3D,U.S. House,23,REP,Overvotes,0,0,0,0
 Medina,3D,Railroad Commissioner,,REP,"James ""Jim"" Wright",41,70,0,111
 Medina,3D,Railroad Commissioner,,REP,Ryan Sitton,11,27,1,39
 Medina,3D,Railroad Commissioner,,REP,Ballots Cast,52,97,1,150
@@ -3468,10 +3468,10 @@ Medina,3D,"Member, State Board of Education, District 1",,REP,Jennifer Ivey,49,8
 Medina,3D,"Member, State Board of Education, District 1",,REP,Ballots Cast,49,83,1,133
 Medina,3D,"Member, State Board of Education, District 1",,REP,Undervotes,12,26,0,38
 Medina,3D,"Member, State Board of Education, District 1",,REP,Overvotes,0,0,0,0
-Medina,3D,"State Senator, District 19",,REP,"Peter P. ""Pete"" Flores",50,86,0,136
-Medina,3D,"State Senator, District 19",,REP,Ballots Cast,50,86,0,136
-Medina,3D,"State Senator, District 19",,REP,Undervotes,11,23,1,35
-Medina,3D,"State Senator, District 19",,REP,Overvotes,0,0,0,0
+Medina,3D,State Senate,19,REP,"Peter P. ""Pete"" Flores",50,86,0,136
+Medina,3D,State Senate,19,REP,Ballots Cast,50,86,0,136
+Medina,3D,State Senate,19,REP,Undervotes,11,23,1,35
+Medina,3D,State Senate,19,REP,Overvotes,0,0,0,0
 Medina,3D,State Representative,53,REP,Andrew S. Murr,53,89,1,143
 Medina,3D,State Representative,53,REP,Ballots Cast,53,89,1,143
 Medina,3D,State Representative,53,REP,Undervotes,8,20,0,28
@@ -3593,14 +3593,14 @@ Medina,4A,U.S. Senate,,DEM,"Annie ""Mama"" Garcia",2,2,1,5
 Medina,4A,U.S. Senate,,DEM,Ballots Cast,38,33,15,86
 Medina,4A,U.S. Senate,,DEM,Undervotes,16,5,1,22
 Medina,4A,U.S. Senate,,DEM,Overvotes,0,0,0,0
-Medina,4A,U.S. Representative District 23,,DEM,Ricardo R. Madrid,0,3,2,5
-Medina,4A,U.S. Representative District 23,,DEM,"Rosalinda ""Rosey"" Ramos Abuabara",4,3,0,7
-Medina,4A,U.S. Representative District 23,,DEM,Efrain V Valdez,5,1,0,6
-Medina,4A,U.S. Representative District 23,,DEM,Gina Ortiz Jones,31,26,13,70
-Medina,4A,U.S. Representative District 23,,DEM,Jaime Escuder,0,2,0,2
-Medina,4A,U.S. Representative District 23,,DEM,Ballots Cast,40,35,15,90
-Medina,4A,U.S. Representative District 23,,DEM,Undervotes,14,3,1,18
-Medina,4A,U.S. Representative District 23,,DEM,Overvotes,0,0,0,0
+Medina,4A,U.S. House,23,DEM,Ricardo R. Madrid,0,3,2,5
+Medina,4A,U.S. House,23,DEM,"Rosalinda ""Rosey"" Ramos Abuabara",4,3,0,7
+Medina,4A,U.S. House,23,DEM,Efrain V Valdez,5,1,0,6
+Medina,4A,U.S. House,23,DEM,Gina Ortiz Jones,31,26,13,70
+Medina,4A,U.S. House,23,DEM,Jaime Escuder,0,2,0,2
+Medina,4A,U.S. House,23,DEM,Ballots Cast,40,35,15,90
+Medina,4A,U.S. House,23,DEM,Undervotes,14,3,1,18
+Medina,4A,U.S. House,23,DEM,Overvotes,0,0,0,0
 Medina,4A,Railroad Commissioner,,DEM,Mark Watson,4,6,5,15
 Medina,4A,Railroad Commissioner,,DEM,"Roberto R. ""Beto"" Alonzo",18,14,6,38
 Medina,4A,Railroad Commissioner,,DEM,Kelly Stone,2,4,2,8
@@ -3647,12 +3647,12 @@ Medina,4A,"Member, State Board of Education, District 1",,DEM,Georgina Perez,32,
 Medina,4A,"Member, State Board of Education, District 1",,DEM,Ballots Cast,32,33,10,75
 Medina,4A,"Member, State Board of Education, District 1",,DEM,Undervotes,22,5,6,33
 Medina,4A,"Member, State Board of Education, District 1",,DEM,Overvotes,0,0,0,0
-Medina,4A,"State Senator, District 19",,DEM,Roland Gutierrez,16,16,11,43
-Medina,4A,"State Senator, District 19",,DEM,Xochil Pe√±a Rodriguez,12,15,1,28
-Medina,4A,"State Senator, District 19",,DEM,Freddy Ramirez,8,3,3,14
-Medina,4A,"State Senator, District 19",,DEM,Ballots Cast,36,34,15,85
-Medina,4A,"State Senator, District 19",,DEM,Undervotes,18,4,1,23
-Medina,4A,"State Senator, District 19",,DEM,Overvotes,0,0,0,0
+Medina,4A,State Senate,19,DEM,Roland Gutierrez,16,16,11,43
+Medina,4A,State Senate,19,DEM,Xochil Pe√±a Rodriguez,12,15,1,28
+Medina,4A,State Senate,19,DEM,Freddy Ramirez,8,3,3,14
+Medina,4A,State Senate,19,DEM,Ballots Cast,36,34,15,85
+Medina,4A,State Senate,19,DEM,Undervotes,18,4,1,23
+Medina,4A,State Senate,19,DEM,Overvotes,0,0,0,0
 Medina,4A,State Representative,53,DEM,Joe P. Herrera,34,32,12,78
 Medina,4A,State Representative,53,DEM,Ballots Cast,34,32,12,78
 Medina,4A,State Representative,53,DEM,Undervotes,20,6,4,30
@@ -3731,26 +3731,26 @@ Medina,4A,President,,REP,Uncommitted,6,2,0,8
 Medina,4A,President,,REP,Ballots Cast,143,173,5,321
 Medina,4A,President,,REP,Undervotes,2,0,0,2
 Medina,4A,President,,REP,Overvotes,0,0,0,0
-Medina,4A,U. S. Senator,,REP,Mark Yancey,26,21,0,47
-Medina,4A,U. S. Senator,,REP,John Anthony Castro,8,4,0,12
-Medina,4A,U. S. Senator,,REP,Dwayne Stovall,9,10,0,19
-Medina,4A,U. S. Senator,,REP,John Cornyn,90,128,4,222
-Medina,4A,U. S. Senator,,REP,Virgil Bierschwale,0,0,0,0
-Medina,4A,U. S. Senator,,REP,Ballots Cast,133,163,4,300
-Medina,4A,U. S. Senator,,REP,Undervotes,12,10,1,23
-Medina,4A,U. S. Senator,,REP,Overvotes,0,0,0,0
-Medina,4A,U. S. Representative District 23,,REP,Alma Arredondo-Lynch,20,20,0,40
-Medina,4A,U. S. Representative District 23,,REP,Tony Gonzales,22,22,2,46
-Medina,4A,U. S. Representative District 23,,REP,Ben Van Winkle,14,22,0,36
-Medina,4A,U. S. Representative District 23,,REP,Raul Reyes,57,80,1,138
-Medina,4A,U. S. Representative District 23,,REP,Alia Ureste,2,2,0,4
-Medina,4A,U. S. Representative District 23,,REP,Jeff Mcfarlin,8,6,0,14
-Medina,4A,U. S. Representative District 23,,REP,Sharon Breckenridge Thomas,5,5,0,10
-Medina,4A,U. S. Representative District 23,,REP,"Cecil B. ""Burt"" Jones",1,3,0,4
-Medina,4A,U. S. Representative District 23,,REP,Darwin Boedeker,1,1,0,2
-Medina,4A,U. S. Representative District 23,,REP,Ballots Cast,130,161,3,294
-Medina,4A,U. S. Representative District 23,,REP,Undervotes,15,12,2,29
-Medina,4A,U. S. Representative District 23,,REP,Overvotes,0,0,0,0
+Medina,4A,U.S. Senate,,REP,Mark Yancey,26,21,0,47
+Medina,4A,U.S. Senate,,REP,John Anthony Castro,8,4,0,12
+Medina,4A,U.S. Senate,,REP,Dwayne Stovall,9,10,0,19
+Medina,4A,U.S. Senate,,REP,John Cornyn,90,128,4,222
+Medina,4A,U.S. Senate,,REP,Virgil Bierschwale,0,0,0,0
+Medina,4A,U.S. Senate,,REP,Ballots Cast,133,163,4,300
+Medina,4A,U.S. Senate,,REP,Undervotes,12,10,1,23
+Medina,4A,U.S. Senate,,REP,Overvotes,0,0,0,0
+Medina,4A,U.S. House,23,REP,Alma Arredondo-Lynch,20,20,0,40
+Medina,4A,U.S. House,23,REP,Tony Gonzales,22,22,2,46
+Medina,4A,U.S. House,23,REP,Ben Van Winkle,14,22,0,36
+Medina,4A,U.S. House,23,REP,Raul Reyes,57,80,1,138
+Medina,4A,U.S. House,23,REP,Alia Ureste,2,2,0,4
+Medina,4A,U.S. House,23,REP,Jeff Mcfarlin,8,6,0,14
+Medina,4A,U.S. House,23,REP,Sharon Breckenridge Thomas,5,5,0,10
+Medina,4A,U.S. House,23,REP,"Cecil B. ""Burt"" Jones",1,3,0,4
+Medina,4A,U.S. House,23,REP,Darwin Boedeker,1,1,0,2
+Medina,4A,U.S. House,23,REP,Ballots Cast,130,161,3,294
+Medina,4A,U.S. House,23,REP,Undervotes,15,12,2,29
+Medina,4A,U.S. House,23,REP,Overvotes,0,0,0,0
 Medina,4A,Railroad Commissioner,,REP,"James ""Jim"" Wright",82,107,1,190
 Medina,4A,Railroad Commissioner,,REP,Ryan Sitton,42,50,0,92
 Medina,4A,Railroad Commissioner,,REP,Ballots Cast,124,157,1,282
@@ -3789,10 +3789,10 @@ Medina,4A,"Member, State Board of Education, District 1",,REP,Jennifer Ivey,117,
 Medina,4A,"Member, State Board of Education, District 1",,REP,Ballots Cast,117,138,0,255
 Medina,4A,"Member, State Board of Education, District 1",,REP,Undervotes,28,35,5,68
 Medina,4A,"Member, State Board of Education, District 1",,REP,Overvotes,0,0,0,0
-Medina,4A,"State Senator, District 19",,REP,"Peter P. ""Pete"" Flores",118,141,0,259
-Medina,4A,"State Senator, District 19",,REP,Ballots Cast,118,141,0,259
-Medina,4A,"State Senator, District 19",,REP,Undervotes,27,32,5,64
-Medina,4A,"State Senator, District 19",,REP,Overvotes,0,0,0,0
+Medina,4A,State Senate,19,REP,"Peter P. ""Pete"" Flores",118,141,0,259
+Medina,4A,State Senate,19,REP,Ballots Cast,118,141,0,259
+Medina,4A,State Senate,19,REP,Undervotes,27,32,5,64
+Medina,4A,State Senate,19,REP,Overvotes,0,0,0,0
 Medina,4A,State Representative,53,REP,Andrew S. Murr,121,142,0,263
 Medina,4A,State Representative,53,REP,Ballots Cast,121,142,0,263
 Medina,4A,State Representative,53,REP,Undervotes,24,31,5,60
@@ -3910,14 +3910,14 @@ Medina,4B,U.S. Senate,,DEM,"Annie ""Mama"" Garcia",7,5,4,16
 Medina,4B,U.S. Senate,,DEM,Ballots Cast,114,53,32,199
 Medina,4B,U.S. Senate,,DEM,Undervotes,18,11,4,33
 Medina,4B,U.S. Senate,,DEM,Overvotes,0,0,0,0
-Medina,4B,U.S. Representative District 23,,DEM,Ricardo R. Madrid,6,3,1,10
-Medina,4B,U.S. Representative District 23,,DEM,"Rosalinda ""Rosey"" Ramos Abuabara",14,5,1,20
-Medina,4B,U.S. Representative District 23,,DEM,Efrain V Valdez,7,3,0,10
-Medina,4B,U.S. Representative District 23,,DEM,Gina Ortiz Jones,84,44,30,158
-Medina,4B,U.S. Representative District 23,,DEM,Jaime Escuder,3,4,0,7
-Medina,4B,U.S. Representative District 23,,DEM,Ballots Cast,114,59,32,205
-Medina,4B,U.S. Representative District 23,,DEM,Undervotes,18,5,4,27
-Medina,4B,U.S. Representative District 23,,DEM,Overvotes,0,0,0,0
+Medina,4B,U.S. House,23,DEM,Ricardo R. Madrid,6,3,1,10
+Medina,4B,U.S. House,23,DEM,"Rosalinda ""Rosey"" Ramos Abuabara",14,5,1,20
+Medina,4B,U.S. House,23,DEM,Efrain V Valdez,7,3,0,10
+Medina,4B,U.S. House,23,DEM,Gina Ortiz Jones,84,44,30,158
+Medina,4B,U.S. House,23,DEM,Jaime Escuder,3,4,0,7
+Medina,4B,U.S. House,23,DEM,Ballots Cast,114,59,32,205
+Medina,4B,U.S. House,23,DEM,Undervotes,18,5,4,27
+Medina,4B,U.S. House,23,DEM,Overvotes,0,0,0,0
 Medina,4B,Railroad Commissioner,,DEM,Mark Watson,24,9,5,38
 Medina,4B,Railroad Commissioner,,DEM,"Roberto R. ""Beto"" Alonzo",44,17,13,74
 Medina,4B,Railroad Commissioner,,DEM,Kelly Stone,16,5,3,24
@@ -3964,12 +3964,12 @@ Medina,4B,"Member, State Board of Education, District 1",,DEM,Georgina Perez,101
 Medina,4B,"Member, State Board of Education, District 1",,DEM,Ballots Cast,101,50,29,180
 Medina,4B,"Member, State Board of Education, District 1",,DEM,Undervotes,31,14,7,52
 Medina,4B,"Member, State Board of Education, District 1",,DEM,Overvotes,0,0,0,0
-Medina,4B,"State Senator, District 19",,DEM,Roland Gutierrez,48,31,14,93
-Medina,4B,"State Senator, District 19",,DEM,Xochil Pe√±a Rodriguez,48,17,12,77
-Medina,4B,"State Senator, District 19",,DEM,Freddy Ramirez,10,5,2,17
-Medina,4B,"State Senator, District 19",,DEM,Ballots Cast,106,53,28,187
-Medina,4B,"State Senator, District 19",,DEM,Undervotes,26,11,8,45
-Medina,4B,"State Senator, District 19",,DEM,Overvotes,0,0,0,0
+Medina,4B,State Senate,19,DEM,Roland Gutierrez,48,31,14,93
+Medina,4B,State Senate,19,DEM,Xochil Pe√±a Rodriguez,48,17,12,77
+Medina,4B,State Senate,19,DEM,Freddy Ramirez,10,5,2,17
+Medina,4B,State Senate,19,DEM,Ballots Cast,106,53,28,187
+Medina,4B,State Senate,19,DEM,Undervotes,26,11,8,45
+Medina,4B,State Senate,19,DEM,Overvotes,0,0,0,0
 Medina,4B,State Representative,53,DEM,Joe P. Herrera,101,51,27,179
 Medina,4B,State Representative,53,DEM,Ballots Cast,101,51,27,179
 Medina,4B,State Representative,53,DEM,Undervotes,31,13,9,53
@@ -4048,26 +4048,26 @@ Medina,4B,President,,REP,Uncommitted,5,6,0,11
 Medina,4B,President,,REP,Ballots Cast,287,292,8,587
 Medina,4B,President,,REP,Undervotes,0,0,0,0
 Medina,4B,President,,REP,Overvotes,0,0,0,0
-Medina,4B,U. S. Senator,,REP,Mark Yancey,50,32,1,83
-Medina,4B,U. S. Senator,,REP,John Anthony Castro,28,11,0,39
-Medina,4B,U. S. Senator,,REP,Dwayne Stovall,25,14,2,41
-Medina,4B,U. S. Senator,,REP,John Cornyn,164,218,5,387
-Medina,4B,U. S. Senator,,REP,Virgil Bierschwale,1,1,0,2
-Medina,4B,U. S. Senator,,REP,Ballots Cast,268,276,8,552
-Medina,4B,U. S. Senator,,REP,Undervotes,19,16,0,35
-Medina,4B,U. S. Senator,,REP,Overvotes,0,0,0,0
-Medina,4B,U. S. Representative District 23,,REP,Alma Arredondo-Lynch,53,40,0,93
-Medina,4B,U. S. Representative District 23,,REP,Tony Gonzales,66,62,2,130
-Medina,4B,U. S. Representative District 23,,REP,Ben Van Winkle,28,22,2,52
-Medina,4B,U. S. Representative District 23,,REP,Raul Reyes,76,119,2,197
-Medina,4B,U. S. Representative District 23,,REP,Alia Ureste,9,3,1,13
-Medina,4B,U. S. Representative District 23,,REP,Jeff Mcfarlin,22,16,0,38
-Medina,4B,U. S. Representative District 23,,REP,Sharon Breckenridge Thomas,7,13,1,21
-Medina,4B,U. S. Representative District 23,,REP,"Cecil B. ""Burt"" Jones",2,7,0,9
-Medina,4B,U. S. Representative District 23,,REP,Darwin Boedeker,1,0,0,1
-Medina,4B,U. S. Representative District 23,,REP,Ballots Cast,264,282,8,554
-Medina,4B,U. S. Representative District 23,,REP,Undervotes,23,10,0,33
-Medina,4B,U. S. Representative District 23,,REP,Overvotes,0,0,0,0
+Medina,4B,U.S. Senate,,REP,Mark Yancey,50,32,1,83
+Medina,4B,U.S. Senate,,REP,John Anthony Castro,28,11,0,39
+Medina,4B,U.S. Senate,,REP,Dwayne Stovall,25,14,2,41
+Medina,4B,U.S. Senate,,REP,John Cornyn,164,218,5,387
+Medina,4B,U.S. Senate,,REP,Virgil Bierschwale,1,1,0,2
+Medina,4B,U.S. Senate,,REP,Ballots Cast,268,276,8,552
+Medina,4B,U.S. Senate,,REP,Undervotes,19,16,0,35
+Medina,4B,U.S. Senate,,REP,Overvotes,0,0,0,0
+Medina,4B,U.S. House,23,REP,Alma Arredondo-Lynch,53,40,0,93
+Medina,4B,U.S. House,23,REP,Tony Gonzales,66,62,2,130
+Medina,4B,U.S. House,23,REP,Ben Van Winkle,28,22,2,52
+Medina,4B,U.S. House,23,REP,Raul Reyes,76,119,2,197
+Medina,4B,U.S. House,23,REP,Alia Ureste,9,3,1,13
+Medina,4B,U.S. House,23,REP,Jeff Mcfarlin,22,16,0,38
+Medina,4B,U.S. House,23,REP,Sharon Breckenridge Thomas,7,13,1,21
+Medina,4B,U.S. House,23,REP,"Cecil B. ""Burt"" Jones",2,7,0,9
+Medina,4B,U.S. House,23,REP,Darwin Boedeker,1,0,0,1
+Medina,4B,U.S. House,23,REP,Ballots Cast,264,282,8,554
+Medina,4B,U.S. House,23,REP,Undervotes,23,10,0,33
+Medina,4B,U.S. House,23,REP,Overvotes,0,0,0,0
 Medina,4B,Railroad Commissioner,,REP,"James ""Jim"" Wright",184,184,5,373
 Medina,4B,Railroad Commissioner,,REP,Ryan Sitton,64,80,3,147
 Medina,4B,Railroad Commissioner,,REP,Ballots Cast,248,264,8,520
@@ -4106,10 +4106,10 @@ Medina,4B,"Member, State Board of Education, District 1",,REP,Jennifer Ivey,239,
 Medina,4B,"Member, State Board of Education, District 1",,REP,Ballots Cast,239,241,6,486
 Medina,4B,"Member, State Board of Education, District 1",,REP,Undervotes,48,51,2,101
 Medina,4B,"Member, State Board of Education, District 1",,REP,Overvotes,0,0,0,0
-Medina,4B,"State Senator, District 19",,REP,"Peter P. ""Pete"" Flores",241,245,6,492
-Medina,4B,"State Senator, District 19",,REP,Ballots Cast,241,245,6,492
-Medina,4B,"State Senator, District 19",,REP,Undervotes,46,47,2,95
-Medina,4B,"State Senator, District 19",,REP,Overvotes,0,0,0,0
+Medina,4B,State Senate,19,REP,"Peter P. ""Pete"" Flores",241,245,6,492
+Medina,4B,State Senate,19,REP,Ballots Cast,241,245,6,492
+Medina,4B,State Senate,19,REP,Undervotes,46,47,2,95
+Medina,4B,State Senate,19,REP,Overvotes,0,0,0,0
 Medina,4B,State Representative,53,REP,Andrew S. Murr,239,247,5,491
 Medina,4B,State Representative,53,REP,Ballots Cast,239,247,5,491
 Medina,4B,State Representative,53,REP,Undervotes,48,45,3,96
@@ -4227,14 +4227,14 @@ Medina,4C,U.S. Senate,,DEM,"Annie ""Mama"" Garcia",8,3,0,11
 Medina,4C,U.S. Senate,,DEM,Ballots Cast,74,32,10,116
 Medina,4C,U.S. Senate,,DEM,Undervotes,5,9,1,15
 Medina,4C,U.S. Senate,,DEM,Overvotes,0,0,0,0
-Medina,4C,U.S. Representative District 23,,DEM,Ricardo R. Madrid,5,2,0,7
-Medina,4C,U.S. Representative District 23,,DEM,"Rosalinda ""Rosey"" Ramos Abuabara",13,7,0,20
-Medina,4C,U.S. Representative District 23,,DEM,Efrain V Valdez,3,1,0,4
-Medina,4C,U.S. Representative District 23,,DEM,Gina Ortiz Jones,51,26,11,88
-Medina,4C,U.S. Representative District 23,,DEM,Jaime Escuder,0,0,0,0
-Medina,4C,U.S. Representative District 23,,DEM,Ballots Cast,72,36,11,119
-Medina,4C,U.S. Representative District 23,,DEM,Undervotes,7,5,0,12
-Medina,4C,U.S. Representative District 23,,DEM,Overvotes,0,0,0,0
+Medina,4C,U.S. House,23,DEM,Ricardo R. Madrid,5,2,0,7
+Medina,4C,U.S. House,23,DEM,"Rosalinda ""Rosey"" Ramos Abuabara",13,7,0,20
+Medina,4C,U.S. House,23,DEM,Efrain V Valdez,3,1,0,4
+Medina,4C,U.S. House,23,DEM,Gina Ortiz Jones,51,26,11,88
+Medina,4C,U.S. House,23,DEM,Jaime Escuder,0,0,0,0
+Medina,4C,U.S. House,23,DEM,Ballots Cast,72,36,11,119
+Medina,4C,U.S. House,23,DEM,Undervotes,7,5,0,12
+Medina,4C,U.S. House,23,DEM,Overvotes,0,0,0,0
 Medina,4C,Railroad Commissioner,,DEM,Mark Watson,8,8,1,17
 Medina,4C,Railroad Commissioner,,DEM,"Roberto R. ""Beto"" Alonzo",32,11,3,46
 Medina,4C,Railroad Commissioner,,DEM,Kelly Stone,8,4,2,14
@@ -4281,12 +4281,12 @@ Medina,4C,"Member, State Board of Education, District 1",,DEM,Georgina Perez,67,
 Medina,4C,"Member, State Board of Education, District 1",,DEM,Ballots Cast,67,23,10,100
 Medina,4C,"Member, State Board of Education, District 1",,DEM,Undervotes,12,18,1,31
 Medina,4C,"Member, State Board of Education, District 1",,DEM,Overvotes,0,0,0,0
-Medina,4C,"State Senator, District 19",,DEM,Roland Gutierrez,25,8,4,37
-Medina,4C,"State Senator, District 19",,DEM,Xochil Pe√±a Rodriguez,33,19,6,58
-Medina,4C,"State Senator, District 19",,DEM,Freddy Ramirez,10,2,0,12
-Medina,4C,"State Senator, District 19",,DEM,Ballots Cast,68,29,10,107
-Medina,4C,"State Senator, District 19",,DEM,Undervotes,11,12,1,24
-Medina,4C,"State Senator, District 19",,DEM,Overvotes,0,0,0,0
+Medina,4C,State Senate,19,DEM,Roland Gutierrez,25,8,4,37
+Medina,4C,State Senate,19,DEM,Xochil Pe√±a Rodriguez,33,19,6,58
+Medina,4C,State Senate,19,DEM,Freddy Ramirez,10,2,0,12
+Medina,4C,State Senate,19,DEM,Ballots Cast,68,29,10,107
+Medina,4C,State Senate,19,DEM,Undervotes,11,12,1,24
+Medina,4C,State Senate,19,DEM,Overvotes,0,0,0,0
 Medina,4C,State Representative,53,DEM,Joe P. Herrera,65,25,9,99
 Medina,4C,State Representative,53,DEM,Ballots Cast,65,25,9,99
 Medina,4C,State Representative,53,DEM,Undervotes,14,16,2,32
@@ -4365,26 +4365,26 @@ Medina,4C,President,,REP,Uncommitted,5,0,0,5
 Medina,4C,President,,REP,Ballots Cast,79,72,3,154
 Medina,4C,President,,REP,Undervotes,1,0,0,1
 Medina,4C,President,,REP,Overvotes,0,0,0,0
-Medina,4C,U. S. Senator,,REP,Mark Yancey,12,14,0,26
-Medina,4C,U. S. Senator,,REP,John Anthony Castro,10,6,0,16
-Medina,4C,U. S. Senator,,REP,Dwayne Stovall,3,9,0,12
-Medina,4C,U. S. Senator,,REP,John Cornyn,51,40,3,94
-Medina,4C,U. S. Senator,,REP,Virgil Bierschwale,0,0,0,0
-Medina,4C,U. S. Senator,,REP,Ballots Cast,76,69,3,148
-Medina,4C,U. S. Senator,,REP,Undervotes,4,3,0,7
-Medina,4C,U. S. Senator,,REP,Overvotes,0,0,0,0
-Medina,4C,U. S. Representative District 23,,REP,Alma Arredondo-Lynch,17,14,1,32
-Medina,4C,U. S. Representative District 23,,REP,Tony Gonzales,16,15,0,31
-Medina,4C,U. S. Representative District 23,,REP,Ben Van Winkle,10,5,0,15
-Medina,4C,U. S. Representative District 23,,REP,Raul Reyes,23,16,2,41
-Medina,4C,U. S. Representative District 23,,REP,Alia Ureste,1,0,0,1
-Medina,4C,U. S. Representative District 23,,REP,Jeff Mcfarlin,5,7,0,12
-Medina,4C,U. S. Representative District 23,,REP,Sharon Breckenridge Thomas,4,8,0,12
-Medina,4C,U. S. Representative District 23,,REP,"Cecil B. ""Burt"" Jones",0,4,0,4
-Medina,4C,U. S. Representative District 23,,REP,Darwin Boedeker,1,0,0,1
-Medina,4C,U. S. Representative District 23,,REP,Ballots Cast,77,69,3,149
-Medina,4C,U. S. Representative District 23,,REP,Undervotes,3,3,0,6
-Medina,4C,U. S. Representative District 23,,REP,Overvotes,0,0,0,0
+Medina,4C,U.S. Senate,,REP,Mark Yancey,12,14,0,26
+Medina,4C,U.S. Senate,,REP,John Anthony Castro,10,6,0,16
+Medina,4C,U.S. Senate,,REP,Dwayne Stovall,3,9,0,12
+Medina,4C,U.S. Senate,,REP,John Cornyn,51,40,3,94
+Medina,4C,U.S. Senate,,REP,Virgil Bierschwale,0,0,0,0
+Medina,4C,U.S. Senate,,REP,Ballots Cast,76,69,3,148
+Medina,4C,U.S. Senate,,REP,Undervotes,4,3,0,7
+Medina,4C,U.S. Senate,,REP,Overvotes,0,0,0,0
+Medina,4C,U.S. House,23,REP,Alma Arredondo-Lynch,17,14,1,32
+Medina,4C,U.S. House,23,REP,Tony Gonzales,16,15,0,31
+Medina,4C,U.S. House,23,REP,Ben Van Winkle,10,5,0,15
+Medina,4C,U.S. House,23,REP,Raul Reyes,23,16,2,41
+Medina,4C,U.S. House,23,REP,Alia Ureste,1,0,0,1
+Medina,4C,U.S. House,23,REP,Jeff Mcfarlin,5,7,0,12
+Medina,4C,U.S. House,23,REP,Sharon Breckenridge Thomas,4,8,0,12
+Medina,4C,U.S. House,23,REP,"Cecil B. ""Burt"" Jones",0,4,0,4
+Medina,4C,U.S. House,23,REP,Darwin Boedeker,1,0,0,1
+Medina,4C,U.S. House,23,REP,Ballots Cast,77,69,3,149
+Medina,4C,U.S. House,23,REP,Undervotes,3,3,0,6
+Medina,4C,U.S. House,23,REP,Overvotes,0,0,0,0
 Medina,4C,Railroad Commissioner,,REP,"James ""Jim"" Wright",54,44,1,99
 Medina,4C,Railroad Commissioner,,REP,Ryan Sitton,21,23,2,46
 Medina,4C,Railroad Commissioner,,REP,Ballots Cast,75,67,3,145
@@ -4423,10 +4423,10 @@ Medina,4C,"Member, State Board of Education, District 1",,REP,Jennifer Ivey,72,6
 Medina,4C,"Member, State Board of Education, District 1",,REP,Ballots Cast,72,65,2,139
 Medina,4C,"Member, State Board of Education, District 1",,REP,Undervotes,8,7,1,16
 Medina,4C,"Member, State Board of Education, District 1",,REP,Overvotes,0,0,0,0
-Medina,4C,"State Senator, District 19",,REP,"Peter P. ""Pete"" Flores",72,66,2,140
-Medina,4C,"State Senator, District 19",,REP,Ballots Cast,72,66,2,140
-Medina,4C,"State Senator, District 19",,REP,Undervotes,8,6,1,15
-Medina,4C,"State Senator, District 19",,REP,Overvotes,0,0,0,0
+Medina,4C,State Senate,19,REP,"Peter P. ""Pete"" Flores",72,66,2,140
+Medina,4C,State Senate,19,REP,Ballots Cast,72,66,2,140
+Medina,4C,State Senate,19,REP,Undervotes,8,6,1,15
+Medina,4C,State Senate,19,REP,Overvotes,0,0,0,0
 Medina,4C,State Representative,53,REP,Andrew S. Murr,72,68,2,142
 Medina,4C,State Representative,53,REP,Ballots Cast,72,68,2,142
 Medina,4C,State Representative,53,REP,Undervotes,8,4,1,13
