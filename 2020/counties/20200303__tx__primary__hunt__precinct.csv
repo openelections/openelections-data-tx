@@ -35,10 +35,10 @@ Hunt,Precinct 101,U.S. Senate,,DEM,Jack Daniel Foster Jr,0,0,0
 Hunt,Precinct 101,U.S. Senate,,DEM,Ballots Cast,5,23,28
 Hunt,Precinct 101,U.S. Senate,,DEM,Over Votes,0,0,0
 Hunt,Precinct 101,U.S. Senate,,DEM,Under Votes,3,1,4
-Hunt,Precinct 101,"United States Representative, District 4",,DEM,Russell Foster,5,20,25
-Hunt,Precinct 101,"United States Representative, District 4",,DEM,Ballots Cast,5,20,25
-Hunt,Precinct 101,"United States Representative, District 4",,DEM,Over Votes,0,0,0
-Hunt,Precinct 101,"United States Representative, District 4",,DEM,Under Votes,3,4,7
+Hunt,Precinct 101,U.S. House,4,DEM,Russell Foster,5,20,25
+Hunt,Precinct 101,U.S. House,4,DEM,Ballots Cast,5,20,25
+Hunt,Precinct 101,U.S. House,4,DEM,Over Votes,0,0,0
+Hunt,Precinct 101,U.S. House,4,DEM,Under Votes,3,4,7
 Hunt,Precinct 101,Ballots Cast,,DEM,,,,32
 Hunt,Precinct 101,Railroad Commissioner,,DEM,Chrysta Casta√±eda,2,6,8
 Hunt,Precinct 101,Railroad Commissioner,,DEM,Kelly Stone,3,10,13
@@ -196,10 +196,10 @@ Hunt,Precinct 102,U.S. Senate,,DEM,Jack Daniel Foster Jr,1,1,2
 Hunt,Precinct 102,U.S. Senate,,DEM,Ballots Cast,23,43,66
 Hunt,Precinct 102,U.S. Senate,,DEM,Over Votes,0,0,0
 Hunt,Precinct 102,U.S. Senate,,DEM,Under Votes,0,7,7
-Hunt,Precinct 102,"United States Representative, District 4",,DEM,Russell Foster,19,38,57
-Hunt,Precinct 102,"United States Representative, District 4",,DEM,Ballots Cast,19,38,57
-Hunt,Precinct 102,"United States Representative, District 4",,DEM,Over Votes,0,0,0
-Hunt,Precinct 102,"United States Representative, District 4",,DEM,Under Votes,4,12,16
+Hunt,Precinct 102,U.S. House,4,DEM,Russell Foster,19,38,57
+Hunt,Precinct 102,U.S. House,4,DEM,Ballots Cast,19,38,57
+Hunt,Precinct 102,U.S. House,4,DEM,Over Votes,0,0,0
+Hunt,Precinct 102,U.S. House,4,DEM,Under Votes,4,12,16
 Hunt,Precinct 102,Ballots Cast,,DEM,,,,73
 Hunt,Precinct 102,Railroad Commissioner,,DEM,Chrysta Casta√±eda,4,10,14
 Hunt,Precinct 102,Railroad Commissioner,,DEM,Kelly Stone,8,8,16
@@ -357,10 +357,10 @@ Hunt,Precinct 103,U.S. Senate,,DEM,Jack Daniel Foster Jr,0,0,0
 Hunt,Precinct 103,U.S. Senate,,DEM,Ballots Cast,9,12,21
 Hunt,Precinct 103,U.S. Senate,,DEM,Over Votes,0,0,0
 Hunt,Precinct 103,U.S. Senate,,DEM,Under Votes,0,1,1
-Hunt,Precinct 103,"United States Representative, District 4",,DEM,Russell Foster,8,7,15
-Hunt,Precinct 103,"United States Representative, District 4",,DEM,Ballots Cast,8,7,15
-Hunt,Precinct 103,"United States Representative, District 4",,DEM,Over Votes,0,0,0
-Hunt,Precinct 103,"United States Representative, District 4",,DEM,Under Votes,1,6,7
+Hunt,Precinct 103,U.S. House,4,DEM,Russell Foster,8,7,15
+Hunt,Precinct 103,U.S. House,4,DEM,Ballots Cast,8,7,15
+Hunt,Precinct 103,U.S. House,4,DEM,Over Votes,0,0,0
+Hunt,Precinct 103,U.S. House,4,DEM,Under Votes,1,6,7
 Hunt,Precinct 103,Ballots Cast,,DEM,,,,22
 Hunt,Precinct 103,Railroad Commissioner,,DEM,Chrysta Casta√±eda,2,2,4
 Hunt,Precinct 103,Railroad Commissioner,,DEM,Kelly Stone,1,7,8
@@ -518,10 +518,10 @@ Hunt,Precinct 104,U.S. Senate,,DEM,Jack Daniel Foster Jr,0,1,1
 Hunt,Precinct 104,U.S. Senate,,DEM,Ballots Cast,20,27,47
 Hunt,Precinct 104,U.S. Senate,,DEM,Over Votes,0,0,0
 Hunt,Precinct 104,U.S. Senate,,DEM,Under Votes,2,5,7
-Hunt,Precinct 104,"United States Representative, District 4",,DEM,Russell Foster,17,24,41
-Hunt,Precinct 104,"United States Representative, District 4",,DEM,Ballots Cast,17,24,41
-Hunt,Precinct 104,"United States Representative, District 4",,DEM,Over Votes,0,0,0
-Hunt,Precinct 104,"United States Representative, District 4",,DEM,Under Votes,5,8,13
+Hunt,Precinct 104,U.S. House,4,DEM,Russell Foster,17,24,41
+Hunt,Precinct 104,U.S. House,4,DEM,Ballots Cast,17,24,41
+Hunt,Precinct 104,U.S. House,4,DEM,Over Votes,0,0,0
+Hunt,Precinct 104,U.S. House,4,DEM,Under Votes,5,8,13
 Hunt,Precinct 104,Ballots Cast,,DEM,,,,54
 Hunt,Precinct 104,Railroad Commissioner,,DEM,Chrysta Casta√±eda,3,11,14
 Hunt,Precinct 104,Railroad Commissioner,,DEM,Kelly Stone,3,7,10
@@ -679,10 +679,10 @@ Hunt,Precinct 105,U.S. Senate,,DEM,Jack Daniel Foster Jr,0,3,3
 Hunt,Precinct 105,U.S. Senate,,DEM,Ballots Cast,18,27,45
 Hunt,Precinct 105,U.S. Senate,,DEM,Over Votes,0,0,0
 Hunt,Precinct 105,U.S. Senate,,DEM,Under Votes,3,1,4
-Hunt,Precinct 105,"United States Representative, District 4",,DEM,Russell Foster,16,16,32
-Hunt,Precinct 105,"United States Representative, District 4",,DEM,Ballots Cast,16,16,32
-Hunt,Precinct 105,"United States Representative, District 4",,DEM,Over Votes,0,0,0
-Hunt,Precinct 105,"United States Representative, District 4",,DEM,Under Votes,5,12,17
+Hunt,Precinct 105,U.S. House,4,DEM,Russell Foster,16,16,32
+Hunt,Precinct 105,U.S. House,4,DEM,Ballots Cast,16,16,32
+Hunt,Precinct 105,U.S. House,4,DEM,Over Votes,0,0,0
+Hunt,Precinct 105,U.S. House,4,DEM,Under Votes,5,12,17
 Hunt,Precinct 105,Ballots Cast,,DEM,,,,49
 Hunt,Precinct 105,Railroad Commissioner,,DEM,Chrysta Casta√±eda,6,10,16
 Hunt,Precinct 105,Railroad Commissioner,,DEM,Kelly Stone,5,5,10
@@ -840,10 +840,10 @@ Hunt,Precinct 106,U.S. Senate,,DEM,Jack Daniel Foster Jr,2,0,2
 Hunt,Precinct 106,U.S. Senate,,DEM,Ballots Cast,50,58,108
 Hunt,Precinct 106,U.S. Senate,,DEM,Over Votes,0,0,0
 Hunt,Precinct 106,U.S. Senate,,DEM,Under Votes,12,8,20
-Hunt,Precinct 106,"United States Representative, District 4",,DEM,Russell Foster,44,44,88
-Hunt,Precinct 106,"United States Representative, District 4",,DEM,Ballots Cast,44,44,88
-Hunt,Precinct 106,"United States Representative, District 4",,DEM,Over Votes,0,0,0
-Hunt,Precinct 106,"United States Representative, District 4",,DEM,Under Votes,18,22,40
+Hunt,Precinct 106,U.S. House,4,DEM,Russell Foster,44,44,88
+Hunt,Precinct 106,U.S. House,4,DEM,Ballots Cast,44,44,88
+Hunt,Precinct 106,U.S. House,4,DEM,Over Votes,0,0,0
+Hunt,Precinct 106,U.S. House,4,DEM,Under Votes,18,22,40
 Hunt,Precinct 106,Ballots Cast,,DEM,,,,128
 Hunt,Precinct 106,Railroad Commissioner,,DEM,Chrysta Casta√±eda,15,17,32
 Hunt,Precinct 106,Railroad Commissioner,,DEM,Kelly Stone,15,16,31
@@ -1001,10 +1001,10 @@ Hunt,Precinct 107,U.S. Senate,,DEM,Jack Daniel Foster Jr,3,2,5
 Hunt,Precinct 107,U.S. Senate,,DEM,Ballots Cast,75,102,177
 Hunt,Precinct 107,U.S. Senate,,DEM,Over Votes,0,0,0
 Hunt,Precinct 107,U.S. Senate,,DEM,Under Votes,7,24,31
-Hunt,Precinct 107,"United States Representative, District 4",,DEM,Russell Foster,59,93,152
-Hunt,Precinct 107,"United States Representative, District 4",,DEM,Ballots Cast,59,93,152
-Hunt,Precinct 107,"United States Representative, District 4",,DEM,Over Votes,0,0,0
-Hunt,Precinct 107,"United States Representative, District 4",,DEM,Under Votes,23,33,56
+Hunt,Precinct 107,U.S. House,4,DEM,Russell Foster,59,93,152
+Hunt,Precinct 107,U.S. House,4,DEM,Ballots Cast,59,93,152
+Hunt,Precinct 107,U.S. House,4,DEM,Over Votes,0,0,0
+Hunt,Precinct 107,U.S. House,4,DEM,Under Votes,23,33,56
 Hunt,Precinct 107,Ballots Cast,,DEM,,,,208
 Hunt,Precinct 107,Railroad Commissioner,,DEM,Chrysta Casta√±eda,22,31,53
 Hunt,Precinct 107,Railroad Commissioner,,DEM,Kelly Stone,29,27,56
@@ -1162,10 +1162,10 @@ Hunt,Precinct 108,U.S. Senate,,DEM,Jack Daniel Foster Jr,0,1,1
 Hunt,Precinct 108,U.S. Senate,,DEM,Ballots Cast,49,45,94
 Hunt,Precinct 108,U.S. Senate,,DEM,Over Votes,0,0,0
 Hunt,Precinct 108,U.S. Senate,,DEM,Under Votes,4,7,11
-Hunt,Precinct 108,"United States Representative, District 4",,DEM,Russell Foster,40,35,75
-Hunt,Precinct 108,"United States Representative, District 4",,DEM,Ballots Cast,40,35,75
-Hunt,Precinct 108,"United States Representative, District 4",,DEM,Over Votes,0,0,0
-Hunt,Precinct 108,"United States Representative, District 4",,DEM,Under Votes,13,17,30
+Hunt,Precinct 108,U.S. House,4,DEM,Russell Foster,40,35,75
+Hunt,Precinct 108,U.S. House,4,DEM,Ballots Cast,40,35,75
+Hunt,Precinct 108,U.S. House,4,DEM,Over Votes,0,0,0
+Hunt,Precinct 108,U.S. House,4,DEM,Under Votes,13,17,30
 Hunt,Precinct 108,Ballots Cast,,DEM,,,,105
 Hunt,Precinct 108,Railroad Commissioner,,DEM,Chrysta Casta√±eda,15,14,29
 Hunt,Precinct 108,Railroad Commissioner,,DEM,Kelly Stone,8,12,20
@@ -1323,10 +1323,10 @@ Hunt,Precinct 109,U.S. Senate,,DEM,Jack Daniel Foster Jr,0,0,0
 Hunt,Precinct 109,U.S. Senate,,DEM,Ballots Cast,19,28,47
 Hunt,Precinct 109,U.S. Senate,,DEM,Over Votes,0,0,0
 Hunt,Precinct 109,U.S. Senate,,DEM,Under Votes,2,11,13
-Hunt,Precinct 109,"United States Representative, District 4",,DEM,Russell Foster,15,23,38
-Hunt,Precinct 109,"United States Representative, District 4",,DEM,Ballots Cast,15,23,38
-Hunt,Precinct 109,"United States Representative, District 4",,DEM,Over Votes,0,0,0
-Hunt,Precinct 109,"United States Representative, District 4",,DEM,Under Votes,6,16,22
+Hunt,Precinct 109,U.S. House,4,DEM,Russell Foster,15,23,38
+Hunt,Precinct 109,U.S. House,4,DEM,Ballots Cast,15,23,38
+Hunt,Precinct 109,U.S. House,4,DEM,Over Votes,0,0,0
+Hunt,Precinct 109,U.S. House,4,DEM,Under Votes,6,16,22
 Hunt,Precinct 109,Ballots Cast,,DEM,,,,60
 Hunt,Precinct 109,Railroad Commissioner,,DEM,Chrysta Casta√±eda,6,6,12
 Hunt,Precinct 109,Railroad Commissioner,,DEM,Kelly Stone,4,7,11
@@ -1484,10 +1484,10 @@ Hunt,Precinct 210,U.S. Senate,,DEM,Jack Daniel Foster Jr,0,0,0
 Hunt,Precinct 210,U.S. Senate,,DEM,Ballots Cast,13,28,41
 Hunt,Precinct 210,U.S. Senate,,DEM,Over Votes,0,0,0
 Hunt,Precinct 210,U.S. Senate,,DEM,Under Votes,1,3,4
-Hunt,Precinct 210,"United States Representative, District 4",,DEM,Russell Foster,6,25,31
-Hunt,Precinct 210,"United States Representative, District 4",,DEM,Ballots Cast,6,25,31
-Hunt,Precinct 210,"United States Representative, District 4",,DEM,Over Votes,0,0,0
-Hunt,Precinct 210,"United States Representative, District 4",,DEM,Under Votes,8,6,14
+Hunt,Precinct 210,U.S. House,4,DEM,Russell Foster,6,25,31
+Hunt,Precinct 210,U.S. House,4,DEM,Ballots Cast,6,25,31
+Hunt,Precinct 210,U.S. House,4,DEM,Over Votes,0,0,0
+Hunt,Precinct 210,U.S. House,4,DEM,Under Votes,8,6,14
 Hunt,Precinct 210,Ballots Cast,,DEM,,,,45
 Hunt,Precinct 210,Railroad Commissioner,,DEM,Chrysta Casta√±eda,5,11,16
 Hunt,Precinct 210,Railroad Commissioner,,DEM,Kelly Stone,2,6,8
@@ -1645,10 +1645,10 @@ Hunt,Precinct 211,U.S. Senate,,DEM,Jack Daniel Foster Jr,0,0,0
 Hunt,Precinct 211,U.S. Senate,,DEM,Ballots Cast,20,16,36
 Hunt,Precinct 211,U.S. Senate,,DEM,Over Votes,0,0,0
 Hunt,Precinct 211,U.S. Senate,,DEM,Under Votes,0,3,3
-Hunt,Precinct 211,"United States Representative, District 4",,DEM,Russell Foster,17,12,29
-Hunt,Precinct 211,"United States Representative, District 4",,DEM,Ballots Cast,17,12,29
-Hunt,Precinct 211,"United States Representative, District 4",,DEM,Over Votes,0,0,0
-Hunt,Precinct 211,"United States Representative, District 4",,DEM,Under Votes,3,7,10
+Hunt,Precinct 211,U.S. House,4,DEM,Russell Foster,17,12,29
+Hunt,Precinct 211,U.S. House,4,DEM,Ballots Cast,17,12,29
+Hunt,Precinct 211,U.S. House,4,DEM,Over Votes,0,0,0
+Hunt,Precinct 211,U.S. House,4,DEM,Under Votes,3,7,10
 Hunt,Precinct 211,Ballots Cast,,DEM,,,,39
 Hunt,Precinct 211,Railroad Commissioner,,DEM,Chrysta Casta√±eda,7,6,13
 Hunt,Precinct 211,Railroad Commissioner,,DEM,Kelly Stone,5,5,10
@@ -1806,10 +1806,10 @@ Hunt,Precinct 212,U.S. Senate,,DEM,Jack Daniel Foster Jr,3,0,3
 Hunt,Precinct 212,U.S. Senate,,DEM,Ballots Cast,34,48,82
 Hunt,Precinct 212,U.S. Senate,,DEM,Over Votes,0,0,0
 Hunt,Precinct 212,U.S. Senate,,DEM,Under Votes,3,7,10
-Hunt,Precinct 212,"United States Representative, District 4",,DEM,Russell Foster,27,42,69
-Hunt,Precinct 212,"United States Representative, District 4",,DEM,Ballots Cast,27,42,69
-Hunt,Precinct 212,"United States Representative, District 4",,DEM,Over Votes,0,0,0
-Hunt,Precinct 212,"United States Representative, District 4",,DEM,Under Votes,10,13,23
+Hunt,Precinct 212,U.S. House,4,DEM,Russell Foster,27,42,69
+Hunt,Precinct 212,U.S. House,4,DEM,Ballots Cast,27,42,69
+Hunt,Precinct 212,U.S. House,4,DEM,Over Votes,0,0,0
+Hunt,Precinct 212,U.S. House,4,DEM,Under Votes,10,13,23
 Hunt,Precinct 212,Ballots Cast,,DEM,,,,92
 Hunt,Precinct 212,Railroad Commissioner,,DEM,Chrysta Casta√±eda,7,14,21
 Hunt,Precinct 212,Railroad Commissioner,,DEM,Kelly Stone,10,15,25
@@ -1967,10 +1967,10 @@ Hunt,Precinct 213,U.S. Senate,,DEM,Jack Daniel Foster Jr,1,2,3
 Hunt,Precinct 213,U.S. Senate,,DEM,Ballots Cast,15,19,34
 Hunt,Precinct 213,U.S. Senate,,DEM,Over Votes,0,0,0
 Hunt,Precinct 213,U.S. Senate,,DEM,Under Votes,1,2,3
-Hunt,Precinct 213,"United States Representative, District 4",,DEM,Russell Foster,14,17,31
-Hunt,Precinct 213,"United States Representative, District 4",,DEM,Ballots Cast,14,17,31
-Hunt,Precinct 213,"United States Representative, District 4",,DEM,Over Votes,0,0,0
-Hunt,Precinct 213,"United States Representative, District 4",,DEM,Under Votes,2,4,6
+Hunt,Precinct 213,U.S. House,4,DEM,Russell Foster,14,17,31
+Hunt,Precinct 213,U.S. House,4,DEM,Ballots Cast,14,17,31
+Hunt,Precinct 213,U.S. House,4,DEM,Over Votes,0,0,0
+Hunt,Precinct 213,U.S. House,4,DEM,Under Votes,2,4,6
 Hunt,Precinct 213,Ballots Cast,,DEM,,,,37
 Hunt,Precinct 213,Railroad Commissioner,,DEM,Chrysta Casta√±eda,3,6,9
 Hunt,Precinct 213,Railroad Commissioner,,DEM,Kelly Stone,8,5,13
@@ -2128,10 +2128,10 @@ Hunt,Precinct 214,U.S. Senate,,DEM,Jack Daniel Foster Jr,1,4,5
 Hunt,Precinct 214,U.S. Senate,,DEM,Ballots Cast,38,84,122
 Hunt,Precinct 214,U.S. Senate,,DEM,Over Votes,0,0,0
 Hunt,Precinct 214,U.S. Senate,,DEM,Under Votes,4,15,19
-Hunt,Precinct 214,"United States Representative, District 4",,DEM,Russell Foster,36,68,104
-Hunt,Precinct 214,"United States Representative, District 4",,DEM,Ballots Cast,36,68,104
-Hunt,Precinct 214,"United States Representative, District 4",,DEM,Over Votes,0,0,0
-Hunt,Precinct 214,"United States Representative, District 4",,DEM,Under Votes,6,31,37
+Hunt,Precinct 214,U.S. House,4,DEM,Russell Foster,36,68,104
+Hunt,Precinct 214,U.S. House,4,DEM,Ballots Cast,36,68,104
+Hunt,Precinct 214,U.S. House,4,DEM,Over Votes,0,0,0
+Hunt,Precinct 214,U.S. House,4,DEM,Under Votes,6,31,37
 Hunt,Precinct 214,Ballots Cast,,DEM,,,,141
 Hunt,Precinct 214,Railroad Commissioner,,DEM,Chrysta Casta√±eda,12,21,33
 Hunt,Precinct 214,Railroad Commissioner,,DEM,Kelly Stone,16,21,37
@@ -2289,10 +2289,10 @@ Hunt,Precinct 215,U.S. Senate,,DEM,Jack Daniel Foster Jr,0,3,3
 Hunt,Precinct 215,U.S. Senate,,DEM,Ballots Cast,85,119,204
 Hunt,Precinct 215,U.S. Senate,,DEM,Over Votes,0,0,0
 Hunt,Precinct 215,U.S. Senate,,DEM,Under Votes,11,14,25
-Hunt,Precinct 215,"United States Representative, District 4",,DEM,Russell Foster,76,106,182
-Hunt,Precinct 215,"United States Representative, District 4",,DEM,Ballots Cast,76,106,182
-Hunt,Precinct 215,"United States Representative, District 4",,DEM,Over Votes,0,0,0
-Hunt,Precinct 215,"United States Representative, District 4",,DEM,Under Votes,20,27,47
+Hunt,Precinct 215,U.S. House,4,DEM,Russell Foster,76,106,182
+Hunt,Precinct 215,U.S. House,4,DEM,Ballots Cast,76,106,182
+Hunt,Precinct 215,U.S. House,4,DEM,Over Votes,0,0,0
+Hunt,Precinct 215,U.S. House,4,DEM,Under Votes,20,27,47
 Hunt,Precinct 215,Ballots Cast,,DEM,,,,229
 Hunt,Precinct 215,Railroad Commissioner,,DEM,Chrysta Casta√±eda,28,36,64
 Hunt,Precinct 215,Railroad Commissioner,,DEM,Kelly Stone,23,19,42
@@ -2450,10 +2450,10 @@ Hunt,Precinct 216,U.S. Senate,,DEM,Jack Daniel Foster Jr,0,2,2
 Hunt,Precinct 216,U.S. Senate,,DEM,Ballots Cast,31,90,121
 Hunt,Precinct 216,U.S. Senate,,DEM,Over Votes,0,0,0
 Hunt,Precinct 216,U.S. Senate,,DEM,Under Votes,1,17,18
-Hunt,Precinct 216,"United States Representative, District 4",,DEM,Russell Foster,27,73,100
-Hunt,Precinct 216,"United States Representative, District 4",,DEM,Ballots Cast,27,73,100
-Hunt,Precinct 216,"United States Representative, District 4",,DEM,Over Votes,0,0,0
-Hunt,Precinct 216,"United States Representative, District 4",,DEM,Under Votes,5,34,39
+Hunt,Precinct 216,U.S. House,4,DEM,Russell Foster,27,73,100
+Hunt,Precinct 216,U.S. House,4,DEM,Ballots Cast,27,73,100
+Hunt,Precinct 216,U.S. House,4,DEM,Over Votes,0,0,0
+Hunt,Precinct 216,U.S. House,4,DEM,Under Votes,5,34,39
 Hunt,Precinct 216,Ballots Cast,,DEM,,,,139
 Hunt,Precinct 216,Railroad Commissioner,,DEM,Chrysta Casta√±eda,9,16,25
 Hunt,Precinct 216,Railroad Commissioner,,DEM,Kelly Stone,6,30,36
@@ -2611,10 +2611,10 @@ Hunt,Precinct 217,U.S. Senate,,DEM,Jack Daniel Foster Jr,2,1,3
 Hunt,Precinct 217,U.S. Senate,,DEM,Ballots Cast,27,68,95
 Hunt,Precinct 217,U.S. Senate,,DEM,Over Votes,0,0,0
 Hunt,Precinct 217,U.S. Senate,,DEM,Under Votes,2,14,16
-Hunt,Precinct 217,"United States Representative, District 4",,DEM,Russell Foster,24,63,87
-Hunt,Precinct 217,"United States Representative, District 4",,DEM,Ballots Cast,24,63,87
-Hunt,Precinct 217,"United States Representative, District 4",,DEM,Over Votes,0,0,0
-Hunt,Precinct 217,"United States Representative, District 4",,DEM,Under Votes,5,19,24
+Hunt,Precinct 217,U.S. House,4,DEM,Russell Foster,24,63,87
+Hunt,Precinct 217,U.S. House,4,DEM,Ballots Cast,24,63,87
+Hunt,Precinct 217,U.S. House,4,DEM,Over Votes,0,0,0
+Hunt,Precinct 217,U.S. House,4,DEM,Under Votes,5,19,24
 Hunt,Precinct 217,Ballots Cast,,DEM,,,,111
 Hunt,Precinct 217,Railroad Commissioner,,DEM,Chrysta Casta√±eda,16,18,34
 Hunt,Precinct 217,Railroad Commissioner,,DEM,Kelly Stone,6,23,29
@@ -2772,10 +2772,10 @@ Hunt,Precinct 318,U.S. Senate,,DEM,Jack Daniel Foster Jr,0,0,0
 Hunt,Precinct 318,U.S. Senate,,DEM,Ballots Cast,13,10,23
 Hunt,Precinct 318,U.S. Senate,,DEM,Over Votes,0,0,0
 Hunt,Precinct 318,U.S. Senate,,DEM,Under Votes,1,2,3
-Hunt,Precinct 318,"United States Representative, District 4",,DEM,Russell Foster,12,8,20
-Hunt,Precinct 318,"United States Representative, District 4",,DEM,Ballots Cast,12,8,20
-Hunt,Precinct 318,"United States Representative, District 4",,DEM,Over Votes,0,0,0
-Hunt,Precinct 318,"United States Representative, District 4",,DEM,Under Votes,2,4,6
+Hunt,Precinct 318,U.S. House,4,DEM,Russell Foster,12,8,20
+Hunt,Precinct 318,U.S. House,4,DEM,Ballots Cast,12,8,20
+Hunt,Precinct 318,U.S. House,4,DEM,Over Votes,0,0,0
+Hunt,Precinct 318,U.S. House,4,DEM,Under Votes,2,4,6
 Hunt,Precinct 318,Ballots Cast,,DEM,,,,26
 Hunt,Precinct 318,Railroad Commissioner,,DEM,Chrysta Casta√±eda,2,1,3
 Hunt,Precinct 318,Railroad Commissioner,,DEM,Kelly Stone,2,2,4
@@ -2933,10 +2933,10 @@ Hunt,Precinct 319,U.S. Senate,,DEM,Jack Daniel Foster Jr,0,1,1
 Hunt,Precinct 319,U.S. Senate,,DEM,Ballots Cast,20,41,61
 Hunt,Precinct 319,U.S. Senate,,DEM,Over Votes,0,0,0
 Hunt,Precinct 319,U.S. Senate,,DEM,Under Votes,7,13,20
-Hunt,Precinct 319,"United States Representative, District 4",,DEM,Russell Foster,20,27,47
-Hunt,Precinct 319,"United States Representative, District 4",,DEM,Ballots Cast,20,27,47
-Hunt,Precinct 319,"United States Representative, District 4",,DEM,Over Votes,0,0,0
-Hunt,Precinct 319,"United States Representative, District 4",,DEM,Under Votes,7,27,34
+Hunt,Precinct 319,U.S. House,4,DEM,Russell Foster,20,27,47
+Hunt,Precinct 319,U.S. House,4,DEM,Ballots Cast,20,27,47
+Hunt,Precinct 319,U.S. House,4,DEM,Over Votes,0,0,0
+Hunt,Precinct 319,U.S. House,4,DEM,Under Votes,7,27,34
 Hunt,Precinct 319,Ballots Cast,,DEM,,,,81
 Hunt,Precinct 319,Railroad Commissioner,,DEM,Chrysta Casta√±eda,9,9,18
 Hunt,Precinct 319,Railroad Commissioner,,DEM,Kelly Stone,7,9,16
@@ -3094,10 +3094,10 @@ Hunt,Precinct 320,U.S. Senate,,DEM,Jack Daniel Foster Jr,1,1,2
 Hunt,Precinct 320,U.S. Senate,,DEM,Ballots Cast,28,76,104
 Hunt,Precinct 320,U.S. Senate,,DEM,Over Votes,0,2,2
 Hunt,Precinct 320,U.S. Senate,,DEM,Under Votes,0,8,8
-Hunt,Precinct 320,"United States Representative, District 4",,DEM,Russell Foster,24,67,91
-Hunt,Precinct 320,"United States Representative, District 4",,DEM,Ballots Cast,24,67,91
-Hunt,Precinct 320,"United States Representative, District 4",,DEM,Over Votes,0,0,0
-Hunt,Precinct 320,"United States Representative, District 4",,DEM,Under Votes,4,19,23
+Hunt,Precinct 320,U.S. House,4,DEM,Russell Foster,24,67,91
+Hunt,Precinct 320,U.S. House,4,DEM,Ballots Cast,24,67,91
+Hunt,Precinct 320,U.S. House,4,DEM,Over Votes,0,0,0
+Hunt,Precinct 320,U.S. House,4,DEM,Under Votes,4,19,23
 Hunt,Precinct 320,Ballots Cast,,DEM,,,,114
 Hunt,Precinct 320,Railroad Commissioner,,DEM,Chrysta Casta√±eda,7,17,24
 Hunt,Precinct 320,Railroad Commissioner,,DEM,Kelly Stone,6,27,33
@@ -3255,10 +3255,10 @@ Hunt,Precinct 321,U.S. Senate,,DEM,Jack Daniel Foster Jr,0,1,1
 Hunt,Precinct 321,U.S. Senate,,DEM,Ballots Cast,20,56,76
 Hunt,Precinct 321,U.S. Senate,,DEM,Over Votes,0,0,0
 Hunt,Precinct 321,U.S. Senate,,DEM,Under Votes,4,6,10
-Hunt,Precinct 321,"United States Representative, District 4",,DEM,Russell Foster,19,53,72
-Hunt,Precinct 321,"United States Representative, District 4",,DEM,Ballots Cast,19,53,72
-Hunt,Precinct 321,"United States Representative, District 4",,DEM,Over Votes,0,0,0
-Hunt,Precinct 321,"United States Representative, District 4",,DEM,Under Votes,5,9,14
+Hunt,Precinct 321,U.S. House,4,DEM,Russell Foster,19,53,72
+Hunt,Precinct 321,U.S. House,4,DEM,Ballots Cast,19,53,72
+Hunt,Precinct 321,U.S. House,4,DEM,Over Votes,0,0,0
+Hunt,Precinct 321,U.S. House,4,DEM,Under Votes,5,9,14
 Hunt,Precinct 321,Ballots Cast,,DEM,,,,86
 Hunt,Precinct 321,Railroad Commissioner,,DEM,Chrysta Casta√±eda,7,21,28
 Hunt,Precinct 321,Railroad Commissioner,,DEM,Kelly Stone,6,14,20
@@ -3416,10 +3416,10 @@ Hunt,Precinct 322,U.S. Senate,,DEM,Jack Daniel Foster Jr,0,1,1
 Hunt,Precinct 322,U.S. Senate,,DEM,Ballots Cast,11,35,46
 Hunt,Precinct 322,U.S. Senate,,DEM,Over Votes,0,0,0
 Hunt,Precinct 322,U.S. Senate,,DEM,Under Votes,1,4,5
-Hunt,Precinct 322,"United States Representative, District 4",,DEM,Russell Foster,6,33,39
-Hunt,Precinct 322,"United States Representative, District 4",,DEM,Ballots Cast,6,33,39
-Hunt,Precinct 322,"United States Representative, District 4",,DEM,Over Votes,0,0,0
-Hunt,Precinct 322,"United States Representative, District 4",,DEM,Under Votes,6,6,12
+Hunt,Precinct 322,U.S. House,4,DEM,Russell Foster,6,33,39
+Hunt,Precinct 322,U.S. House,4,DEM,Ballots Cast,6,33,39
+Hunt,Precinct 322,U.S. House,4,DEM,Over Votes,0,0,0
+Hunt,Precinct 322,U.S. House,4,DEM,Under Votes,6,6,12
 Hunt,Precinct 322,Ballots Cast,,DEM,,,,51
 Hunt,Precinct 322,Railroad Commissioner,,DEM,Chrysta Casta√±eda,4,11,15
 Hunt,Precinct 322,Railroad Commissioner,,DEM,Kelly Stone,5,9,14
@@ -3577,10 +3577,10 @@ Hunt,Precinct 323,U.S. Senate,,DEM,Jack Daniel Foster Jr,1,1,2
 Hunt,Precinct 323,U.S. Senate,,DEM,Ballots Cast,49,57,106
 Hunt,Precinct 323,U.S. Senate,,DEM,Over Votes,0,0,0
 Hunt,Precinct 323,U.S. Senate,,DEM,Under Votes,6,18,24
-Hunt,Precinct 323,"United States Representative, District 4",,DEM,Russell Foster,44,45,89
-Hunt,Precinct 323,"United States Representative, District 4",,DEM,Ballots Cast,44,45,89
-Hunt,Precinct 323,"United States Representative, District 4",,DEM,Over Votes,0,0,0
-Hunt,Precinct 323,"United States Representative, District 4",,DEM,Under Votes,11,30,41
+Hunt,Precinct 323,U.S. House,4,DEM,Russell Foster,44,45,89
+Hunt,Precinct 323,U.S. House,4,DEM,Ballots Cast,44,45,89
+Hunt,Precinct 323,U.S. House,4,DEM,Over Votes,0,0,0
+Hunt,Precinct 323,U.S. House,4,DEM,Under Votes,11,30,41
 Hunt,Precinct 323,Ballots Cast,,DEM,,,,130
 Hunt,Precinct 323,Railroad Commissioner,,DEM,Chrysta Casta√±eda,13,27,40
 Hunt,Precinct 323,Railroad Commissioner,,DEM,Kelly Stone,17,14,31
@@ -3738,10 +3738,10 @@ Hunt,Precinct 324,U.S. Senate,,DEM,Jack Daniel Foster Jr,0,1,1
 Hunt,Precinct 324,U.S. Senate,,DEM,Ballots Cast,48,68,116
 Hunt,Precinct 324,U.S. Senate,,DEM,Over Votes,0,0,0
 Hunt,Precinct 324,U.S. Senate,,DEM,Under Votes,10,13,23
-Hunt,Precinct 324,"United States Representative, District 4",,DEM,Russell Foster,42,62,104
-Hunt,Precinct 324,"United States Representative, District 4",,DEM,Ballots Cast,42,62,104
-Hunt,Precinct 324,"United States Representative, District 4",,DEM,Over Votes,0,0,0
-Hunt,Precinct 324,"United States Representative, District 4",,DEM,Under Votes,16,19,35
+Hunt,Precinct 324,U.S. House,4,DEM,Russell Foster,42,62,104
+Hunt,Precinct 324,U.S. House,4,DEM,Ballots Cast,42,62,104
+Hunt,Precinct 324,U.S. House,4,DEM,Over Votes,0,0,0
+Hunt,Precinct 324,U.S. House,4,DEM,Under Votes,16,19,35
 Hunt,Precinct 324,Ballots Cast,,DEM,,,,139
 Hunt,Precinct 324,Railroad Commissioner,,DEM,Chrysta Casta√±eda,10,18,28
 Hunt,Precinct 324,Railroad Commissioner,,DEM,Kelly Stone,18,21,39
@@ -3899,10 +3899,10 @@ Hunt,Precinct 325,U.S. Senate,,DEM,Jack Daniel Foster Jr,0,1,1
 Hunt,Precinct 325,U.S. Senate,,DEM,Ballots Cast,71,89,160
 Hunt,Precinct 325,U.S. Senate,,DEM,Over Votes,0,0,0
 Hunt,Precinct 325,U.S. Senate,,DEM,Under Votes,5,18,23
-Hunt,Precinct 325,"United States Representative, District 4",,DEM,Russell Foster,61,76,137
-Hunt,Precinct 325,"United States Representative, District 4",,DEM,Ballots Cast,61,76,137
-Hunt,Precinct 325,"United States Representative, District 4",,DEM,Over Votes,0,0,0
-Hunt,Precinct 325,"United States Representative, District 4",,DEM,Under Votes,15,31,46
+Hunt,Precinct 325,U.S. House,4,DEM,Russell Foster,61,76,137
+Hunt,Precinct 325,U.S. House,4,DEM,Ballots Cast,61,76,137
+Hunt,Precinct 325,U.S. House,4,DEM,Over Votes,0,0,0
+Hunt,Precinct 325,U.S. House,4,DEM,Under Votes,15,31,46
 Hunt,Precinct 325,Ballots Cast,,DEM,,,,183
 Hunt,Precinct 325,Railroad Commissioner,,DEM,Chrysta Casta√±eda,25,22,47
 Hunt,Precinct 325,Railroad Commissioner,,DEM,Kelly Stone,18,36,54
@@ -4060,10 +4060,10 @@ Hunt,Precinct 426,U.S. Senate,,DEM,Jack Daniel Foster Jr,0,0,0
 Hunt,Precinct 426,U.S. Senate,,DEM,Ballots Cast,15,25,40
 Hunt,Precinct 426,U.S. Senate,,DEM,Over Votes,0,0,0
 Hunt,Precinct 426,U.S. Senate,,DEM,Under Votes,1,0,1
-Hunt,Precinct 426,"United States Representative, District 4",,DEM,Russell Foster,10,20,30
-Hunt,Precinct 426,"United States Representative, District 4",,DEM,Ballots Cast,10,20,30
-Hunt,Precinct 426,"United States Representative, District 4",,DEM,Over Votes,0,0,0
-Hunt,Precinct 426,"United States Representative, District 4",,DEM,Under Votes,6,5,11
+Hunt,Precinct 426,U.S. House,4,DEM,Russell Foster,10,20,30
+Hunt,Precinct 426,U.S. House,4,DEM,Ballots Cast,10,20,30
+Hunt,Precinct 426,U.S. House,4,DEM,Over Votes,0,0,0
+Hunt,Precinct 426,U.S. House,4,DEM,Under Votes,6,5,11
 Hunt,Precinct 426,Ballots Cast,,DEM,,,,41
 Hunt,Precinct 426,Railroad Commissioner,,DEM,Chrysta Casta√±eda,0,9,9
 Hunt,Precinct 426,Railroad Commissioner,,DEM,Kelly Stone,3,7,10
@@ -4221,10 +4221,10 @@ Hunt,Precinct 427,U.S. Senate,,DEM,Jack Daniel Foster Jr,1,4,5
 Hunt,Precinct 427,U.S. Senate,,DEM,Ballots Cast,42,206,248
 Hunt,Precinct 427,U.S. Senate,,DEM,Over Votes,0,0,0
 Hunt,Precinct 427,U.S. Senate,,DEM,Under Votes,3,33,36
-Hunt,Precinct 427,"United States Representative, District 4",,DEM,Russell Foster,37,172,209
-Hunt,Precinct 427,"United States Representative, District 4",,DEM,Ballots Cast,37,172,209
-Hunt,Precinct 427,"United States Representative, District 4",,DEM,Over Votes,0,0,0
-Hunt,Precinct 427,"United States Representative, District 4",,DEM,Under Votes,8,67,75
+Hunt,Precinct 427,U.S. House,4,DEM,Russell Foster,37,172,209
+Hunt,Precinct 427,U.S. House,4,DEM,Ballots Cast,37,172,209
+Hunt,Precinct 427,U.S. House,4,DEM,Over Votes,0,0,0
+Hunt,Precinct 427,U.S. House,4,DEM,Under Votes,8,67,75
 Hunt,Precinct 427,Ballots Cast,,DEM,,,,284
 Hunt,Precinct 427,Railroad Commissioner,,DEM,Chrysta Casta√±eda,14,72,86
 Hunt,Precinct 427,Railroad Commissioner,,DEM,Kelly Stone,11,42,53
@@ -4382,10 +4382,10 @@ Hunt,Precinct 428,U.S. Senate,,DEM,Jack Daniel Foster Jr,3,1,4
 Hunt,Precinct 428,U.S. Senate,,DEM,Ballots Cast,58,140,198
 Hunt,Precinct 428,U.S. Senate,,DEM,Over Votes,0,0,0
 Hunt,Precinct 428,U.S. Senate,,DEM,Under Votes,8,22,30
-Hunt,Precinct 428,"United States Representative, District 4",,DEM,Russell Foster,55,115,170
-Hunt,Precinct 428,"United States Representative, District 4",,DEM,Ballots Cast,55,115,170
-Hunt,Precinct 428,"United States Representative, District 4",,DEM,Over Votes,0,0,0
-Hunt,Precinct 428,"United States Representative, District 4",,DEM,Under Votes,11,47,58
+Hunt,Precinct 428,U.S. House,4,DEM,Russell Foster,55,115,170
+Hunt,Precinct 428,U.S. House,4,DEM,Ballots Cast,55,115,170
+Hunt,Precinct 428,U.S. House,4,DEM,Over Votes,0,0,0
+Hunt,Precinct 428,U.S. House,4,DEM,Under Votes,11,47,58
 Hunt,Precinct 428,Ballots Cast,,DEM,,,,228
 Hunt,Precinct 428,Railroad Commissioner,,DEM,Chrysta Casta√±eda,20,46,66
 Hunt,Precinct 428,Railroad Commissioner,,DEM,Kelly Stone,11,36,47
@@ -4543,10 +4543,10 @@ Hunt,Precinct 429,U.S. Senate,,DEM,Jack Daniel Foster Jr,0,0,0
 Hunt,Precinct 429,U.S. Senate,,DEM,Ballots Cast,9,24,33
 Hunt,Precinct 429,U.S. Senate,,DEM,Over Votes,0,0,0
 Hunt,Precinct 429,U.S. Senate,,DEM,Under Votes,0,5,5
-Hunt,Precinct 429,"United States Representative, District 4",,DEM,Russell Foster,9,20,29
-Hunt,Precinct 429,"United States Representative, District 4",,DEM,Ballots Cast,9,20,29
-Hunt,Precinct 429,"United States Representative, District 4",,DEM,Over Votes,0,0,0
-Hunt,Precinct 429,"United States Representative, District 4",,DEM,Under Votes,0,9,9
+Hunt,Precinct 429,U.S. House,4,DEM,Russell Foster,9,20,29
+Hunt,Precinct 429,U.S. House,4,DEM,Ballots Cast,9,20,29
+Hunt,Precinct 429,U.S. House,4,DEM,Over Votes,0,0,0
+Hunt,Precinct 429,U.S. House,4,DEM,Under Votes,0,9,9
 Hunt,Precinct 429,Ballots Cast,,DEM,,,,38
 Hunt,Precinct 429,Railroad Commissioner,,DEM,Chrysta Casta√±eda,4,14,18
 Hunt,Precinct 429,Railroad Commissioner,,DEM,Kelly Stone,2,8,10
@@ -4704,10 +4704,10 @@ Hunt,Precinct 430,U.S. Senate,,DEM,Jack Daniel Foster Jr,0,1,1
 Hunt,Precinct 430,U.S. Senate,,DEM,Ballots Cast,18,19,37
 Hunt,Precinct 430,U.S. Senate,,DEM,Over Votes,0,0,0
 Hunt,Precinct 430,U.S. Senate,,DEM,Under Votes,2,6,8
-Hunt,Precinct 430,"United States Representative, District 4",,DEM,Russell Foster,16,19,35
-Hunt,Precinct 430,"United States Representative, District 4",,DEM,Ballots Cast,16,19,35
-Hunt,Precinct 430,"United States Representative, District 4",,DEM,Over Votes,0,0,0
-Hunt,Precinct 430,"United States Representative, District 4",,DEM,Under Votes,4,6,10
+Hunt,Precinct 430,U.S. House,4,DEM,Russell Foster,16,19,35
+Hunt,Precinct 430,U.S. House,4,DEM,Ballots Cast,16,19,35
+Hunt,Precinct 430,U.S. House,4,DEM,Over Votes,0,0,0
+Hunt,Precinct 430,U.S. House,4,DEM,Under Votes,4,6,10
 Hunt,Precinct 430,Ballots Cast,,DEM,,,,45
 Hunt,Precinct 430,Railroad Commissioner,,DEM,Chrysta Casta√±eda,7,8,15
 Hunt,Precinct 430,Railroad Commissioner,,DEM,Kelly Stone,5,1,6
@@ -4865,10 +4865,10 @@ Hunt,Precinct 431,U.S. Senate,,DEM,Jack Daniel Foster Jr,0,0,0
 Hunt,Precinct 431,U.S. Senate,,DEM,Ballots Cast,7,15,22
 Hunt,Precinct 431,U.S. Senate,,DEM,Over Votes,0,0,0
 Hunt,Precinct 431,U.S. Senate,,DEM,Under Votes,2,1,3
-Hunt,Precinct 431,"United States Representative, District 4",,DEM,Russell Foster,5,10,15
-Hunt,Precinct 431,"United States Representative, District 4",,DEM,Ballots Cast,5,10,15
-Hunt,Precinct 431,"United States Representative, District 4",,DEM,Over Votes,0,0,0
-Hunt,Precinct 431,"United States Representative, District 4",,DEM,Under Votes,4,6,10
+Hunt,Precinct 431,U.S. House,4,DEM,Russell Foster,5,10,15
+Hunt,Precinct 431,U.S. House,4,DEM,Ballots Cast,5,10,15
+Hunt,Precinct 431,U.S. House,4,DEM,Over Votes,0,0,0
+Hunt,Precinct 431,U.S. House,4,DEM,Under Votes,4,6,10
 Hunt,Precinct 431,Ballots Cast,,DEM,,,,25
 Hunt,Precinct 431,Railroad Commissioner,,DEM,Chrysta Casta√±eda,1,5,6
 Hunt,Precinct 431,Railroad Commissioner,,DEM,Kelly Stone,3,2,5
@@ -5026,10 +5026,10 @@ Hunt,Precinct 432,U.S. Senate,,DEM,Jack Daniel Foster Jr,0,0,0
 Hunt,Precinct 432,U.S. Senate,,DEM,Ballots Cast,3,5,8
 Hunt,Precinct 432,U.S. Senate,,DEM,Over Votes,0,0,0
 Hunt,Precinct 432,U.S. Senate,,DEM,Under Votes,0,2,2
-Hunt,Precinct 432,"United States Representative, District 4",,DEM,Russell Foster,3,5,8
-Hunt,Precinct 432,"United States Representative, District 4",,DEM,Ballots Cast,3,5,8
-Hunt,Precinct 432,"United States Representative, District 4",,DEM,Over Votes,0,0,0
-Hunt,Precinct 432,"United States Representative, District 4",,DEM,Under Votes,0,2,2
+Hunt,Precinct 432,U.S. House,4,DEM,Russell Foster,3,5,8
+Hunt,Precinct 432,U.S. House,4,DEM,Ballots Cast,3,5,8
+Hunt,Precinct 432,U.S. House,4,DEM,Over Votes,0,0,0
+Hunt,Precinct 432,U.S. House,4,DEM,Under Votes,0,2,2
 Hunt,Precinct 432,Ballots Cast,,DEM,,,,10
 Hunt,Precinct 432,Railroad Commissioner,,DEM,Chrysta Casta√±eda,0,1,1
 Hunt,Precinct 432,Railroad Commissioner,,DEM,Kelly Stone,1,0,1
@@ -5187,10 +5187,10 @@ Hunt,Precinct 433,U.S. Senate,,DEM,Jack Daniel Foster Jr,1,1,2
 Hunt,Precinct 433,U.S. Senate,,DEM,Ballots Cast,76,95,171
 Hunt,Precinct 433,U.S. Senate,,DEM,Over Votes,0,0,0
 Hunt,Precinct 433,U.S. Senate,,DEM,Under Votes,10,23,33
-Hunt,Precinct 433,"United States Representative, District 4",,DEM,Russell Foster,64,80,144
-Hunt,Precinct 433,"United States Representative, District 4",,DEM,Ballots Cast,64,80,144
-Hunt,Precinct 433,"United States Representative, District 4",,DEM,Over Votes,0,0,0
-Hunt,Precinct 433,"United States Representative, District 4",,DEM,Under Votes,22,38,60
+Hunt,Precinct 433,U.S. House,4,DEM,Russell Foster,64,80,144
+Hunt,Precinct 433,U.S. House,4,DEM,Ballots Cast,64,80,144
+Hunt,Precinct 433,U.S. House,4,DEM,Over Votes,0,0,0
+Hunt,Precinct 433,U.S. House,4,DEM,Under Votes,22,38,60
 Hunt,Precinct 433,Ballots Cast,,DEM,,,,204
 Hunt,Precinct 433,Railroad Commissioner,,DEM,Chrysta Casta√±eda,21,28,49
 Hunt,Precinct 433,Railroad Commissioner,,DEM,Kelly Stone,14,20,34
@@ -5348,10 +5348,10 @@ Hunt,Precinct 434,U.S. Senate,,DEM,Jack Daniel Foster Jr,0,2,2
 Hunt,Precinct 434,U.S. Senate,,DEM,Ballots Cast,18,44,62
 Hunt,Precinct 434,U.S. Senate,,DEM,Over Votes,0,0,0
 Hunt,Precinct 434,U.S. Senate,,DEM,Under Votes,3,10,13
-Hunt,Precinct 434,"United States Representative, District 4",,DEM,Russell Foster,18,33,51
-Hunt,Precinct 434,"United States Representative, District 4",,DEM,Ballots Cast,18,33,51
-Hunt,Precinct 434,"United States Representative, District 4",,DEM,Over Votes,0,0,0
-Hunt,Precinct 434,"United States Representative, District 4",,DEM,Under Votes,3,21,24
+Hunt,Precinct 434,U.S. House,4,DEM,Russell Foster,18,33,51
+Hunt,Precinct 434,U.S. House,4,DEM,Ballots Cast,18,33,51
+Hunt,Precinct 434,U.S. House,4,DEM,Over Votes,0,0,0
+Hunt,Precinct 434,U.S. House,4,DEM,Under Votes,3,21,24
 Hunt,Precinct 434,Ballots Cast,,DEM,,,,75
 Hunt,Precinct 434,Railroad Commissioner,,DEM,Chrysta Casta√±eda,7,11,18
 Hunt,Precinct 434,Railroad Commissioner,,DEM,Kelly Stone,6,15,21
@@ -5493,10 +5493,10 @@ Hunt,Precinct 101,U.S. Senate,,REP,Mark Yancey,2,18,20
 Hunt,Precinct 101,U.S. Senate,,REP,Ballots Cast,111,226,337
 Hunt,Precinct 101,U.S. Senate,,REP,Over Votes,0,0,0
 Hunt,Precinct 101,U.S. Senate,,REP,Under Votes,7,23,30
-Hunt,Precinct 101,"United States Representative, District 4",,REP,John Ratcliffe,99,205,304
-Hunt,Precinct 101,"United States Representative, District 4",,REP,Ballots Cast,99,205,304
-Hunt,Precinct 101,"United States Representative, District 4",,REP,Over Votes,0,0,0
-Hunt,Precinct 101,"United States Representative, District 4",,REP,Under Votes,19,44,63
+Hunt,Precinct 101,U.S. House,4,REP,John Ratcliffe,99,205,304
+Hunt,Precinct 101,U.S. House,4,REP,Ballots Cast,99,205,304
+Hunt,Precinct 101,U.S. House,4,REP,Over Votes,0,0,0
+Hunt,Precinct 101,U.S. House,4,REP,Under Votes,19,44,63
 Hunt,Precinct 101,Railroad Commissioner,,REP,Ryan Sitton,50,98,148
 Hunt,Precinct 101,Railroad Commissioner,,REP,"James ""Jim"" Wright",44,94,138
 Hunt,Precinct 101,Railroad Commissioner,,REP,Ballots Cast,94,192,286
@@ -5631,10 +5631,10 @@ Hunt,Precinct 102,U.S. Senate,,REP,Mark Yancey,7,5,12
 Hunt,Precinct 102,U.S. Senate,,REP,Ballots Cast,107,252,359
 Hunt,Precinct 102,U.S. Senate,,REP,Over Votes,2,0,2
 Hunt,Precinct 102,U.S. Senate,,REP,Under Votes,15,31,46
-Hunt,Precinct 102,"United States Representative, District 4",,REP,John Ratcliffe,103,224,327
-Hunt,Precinct 102,"United States Representative, District 4",,REP,Ballots Cast,103,224,327
-Hunt,Precinct 102,"United States Representative, District 4",,REP,Over Votes,0,0,0
-Hunt,Precinct 102,"United States Representative, District 4",,REP,Under Votes,21,59,80
+Hunt,Precinct 102,U.S. House,4,REP,John Ratcliffe,103,224,327
+Hunt,Precinct 102,U.S. House,4,REP,Ballots Cast,103,224,327
+Hunt,Precinct 102,U.S. House,4,REP,Over Votes,0,0,0
+Hunt,Precinct 102,U.S. House,4,REP,Under Votes,21,59,80
 Hunt,Precinct 102,Railroad Commissioner,,REP,Ryan Sitton,55,94,149
 Hunt,Precinct 102,Railroad Commissioner,,REP,"James ""Jim"" Wright",39,115,154
 Hunt,Precinct 102,Railroad Commissioner,,REP,Ballots Cast,94,209,303
@@ -5769,10 +5769,10 @@ Hunt,Precinct 103,U.S. Senate,,REP,Mark Yancey,2,5,7
 Hunt,Precinct 103,U.S. Senate,,REP,Ballots Cast,98,141,239
 Hunt,Precinct 103,U.S. Senate,,REP,Over Votes,0,0,0
 Hunt,Precinct 103,U.S. Senate,,REP,Under Votes,11,20,31
-Hunt,Precinct 103,"United States Representative, District 4",,REP,John Ratcliffe,97,131,228
-Hunt,Precinct 103,"United States Representative, District 4",,REP,Ballots Cast,97,131,228
-Hunt,Precinct 103,"United States Representative, District 4",,REP,Over Votes,0,0,0
-Hunt,Precinct 103,"United States Representative, District 4",,REP,Under Votes,12,30,42
+Hunt,Precinct 103,U.S. House,4,REP,John Ratcliffe,97,131,228
+Hunt,Precinct 103,U.S. House,4,REP,Ballots Cast,97,131,228
+Hunt,Precinct 103,U.S. House,4,REP,Over Votes,0,0,0
+Hunt,Precinct 103,U.S. House,4,REP,Under Votes,12,30,42
 Hunt,Precinct 103,Railroad Commissioner,,REP,Ryan Sitton,43,55,98
 Hunt,Precinct 103,Railroad Commissioner,,REP,"James ""Jim"" Wright",50,67,117
 Hunt,Precinct 103,Railroad Commissioner,,REP,Ballots Cast,93,122,215
@@ -5907,10 +5907,10 @@ Hunt,Precinct 104,U.S. Senate,,REP,Mark Yancey,3,6,9
 Hunt,Precinct 104,U.S. Senate,,REP,Ballots Cast,153,134,287
 Hunt,Precinct 104,U.S. Senate,,REP,Over Votes,0,0,0
 Hunt,Precinct 104,U.S. Senate,,REP,Under Votes,9,18,27
-Hunt,Precinct 104,"United States Representative, District 4",,REP,John Ratcliffe,144,127,271
-Hunt,Precinct 104,"United States Representative, District 4",,REP,Ballots Cast,144,127,271
-Hunt,Precinct 104,"United States Representative, District 4",,REP,Over Votes,0,0,0
-Hunt,Precinct 104,"United States Representative, District 4",,REP,Under Votes,18,25,43
+Hunt,Precinct 104,U.S. House,4,REP,John Ratcliffe,144,127,271
+Hunt,Precinct 104,U.S. House,4,REP,Ballots Cast,144,127,271
+Hunt,Precinct 104,U.S. House,4,REP,Over Votes,0,0,0
+Hunt,Precinct 104,U.S. House,4,REP,Under Votes,18,25,43
 Hunt,Precinct 104,Railroad Commissioner,,REP,Ryan Sitton,81,74,155
 Hunt,Precinct 104,Railroad Commissioner,,REP,"James ""Jim"" Wright",63,51,114
 Hunt,Precinct 104,Railroad Commissioner,,REP,Ballots Cast,144,125,269
@@ -6045,10 +6045,10 @@ Hunt,Precinct 105,U.S. Senate,,REP,Mark Yancey,1,3,4
 Hunt,Precinct 105,U.S. Senate,,REP,Ballots Cast,88,55,143
 Hunt,Precinct 105,U.S. Senate,,REP,Over Votes,0,0,0
 Hunt,Precinct 105,U.S. Senate,,REP,Under Votes,13,6,19
-Hunt,Precinct 105,"United States Representative, District 4",,REP,John Ratcliffe,87,49,136
-Hunt,Precinct 105,"United States Representative, District 4",,REP,Ballots Cast,87,49,136
-Hunt,Precinct 105,"United States Representative, District 4",,REP,Over Votes,0,0,0
-Hunt,Precinct 105,"United States Representative, District 4",,REP,Under Votes,14,12,26
+Hunt,Precinct 105,U.S. House,4,REP,John Ratcliffe,87,49,136
+Hunt,Precinct 105,U.S. House,4,REP,Ballots Cast,87,49,136
+Hunt,Precinct 105,U.S. House,4,REP,Over Votes,0,0,0
+Hunt,Precinct 105,U.S. House,4,REP,Under Votes,14,12,26
 Hunt,Precinct 105,Railroad Commissioner,,REP,Ryan Sitton,43,25,68
 Hunt,Precinct 105,Railroad Commissioner,,REP,"James ""Jim"" Wright",35,22,57
 Hunt,Precinct 105,Railroad Commissioner,,REP,Ballots Cast,78,47,125
@@ -6183,10 +6183,10 @@ Hunt,Precinct 106,U.S. Senate,,REP,Mark Yancey,6,7,13
 Hunt,Precinct 106,U.S. Senate,,REP,Ballots Cast,219,121,340
 Hunt,Precinct 106,U.S. Senate,,REP,Over Votes,1,0,1
 Hunt,Precinct 106,U.S. Senate,,REP,Under Votes,27,11,38
-Hunt,Precinct 106,"United States Representative, District 4",,REP,John Ratcliffe,198,113,311
-Hunt,Precinct 106,"United States Representative, District 4",,REP,Ballots Cast,198,113,311
-Hunt,Precinct 106,"United States Representative, District 4",,REP,Over Votes,0,0,0
-Hunt,Precinct 106,"United States Representative, District 4",,REP,Under Votes,49,19,68
+Hunt,Precinct 106,U.S. House,4,REP,John Ratcliffe,198,113,311
+Hunt,Precinct 106,U.S. House,4,REP,Ballots Cast,198,113,311
+Hunt,Precinct 106,U.S. House,4,REP,Over Votes,0,0,0
+Hunt,Precinct 106,U.S. House,4,REP,Under Votes,49,19,68
 Hunt,Precinct 106,Railroad Commissioner,,REP,Ryan Sitton,79,45,124
 Hunt,Precinct 106,Railroad Commissioner,,REP,"James ""Jim"" Wright",104,60,164
 Hunt,Precinct 106,Railroad Commissioner,,REP,Ballots Cast,183,105,288
@@ -6321,10 +6321,10 @@ Hunt,Precinct 107,U.S. Senate,,REP,Mark Yancey,21,13,34
 Hunt,Precinct 107,U.S. Senate,,REP,Ballots Cast,407,254,661
 Hunt,Precinct 107,U.S. Senate,,REP,Over Votes,0,0,0
 Hunt,Precinct 107,U.S. Senate,,REP,Under Votes,46,33,79
-Hunt,Precinct 107,"United States Representative, District 4",,REP,John Ratcliffe,376,245,621
-Hunt,Precinct 107,"United States Representative, District 4",,REP,Ballots Cast,376,245,621
-Hunt,Precinct 107,"United States Representative, District 4",,REP,Over Votes,0,0,0
-Hunt,Precinct 107,"United States Representative, District 4",,REP,Under Votes,77,42,119
+Hunt,Precinct 107,U.S. House,4,REP,John Ratcliffe,376,245,621
+Hunt,Precinct 107,U.S. House,4,REP,Ballots Cast,376,245,621
+Hunt,Precinct 107,U.S. House,4,REP,Over Votes,0,0,0
+Hunt,Precinct 107,U.S. House,4,REP,Under Votes,77,42,119
 Hunt,Precinct 107,Railroad Commissioner,,REP,Ryan Sitton,164,105,269
 Hunt,Precinct 107,Railroad Commissioner,,REP,"James ""Jim"" Wright",181,119,300
 Hunt,Precinct 107,Railroad Commissioner,,REP,Ballots Cast,345,224,569
@@ -6459,10 +6459,10 @@ Hunt,Precinct 108,U.S. Senate,,REP,Mark Yancey,6,7,13
 Hunt,Precinct 108,U.S. Senate,,REP,Ballots Cast,138,134,272
 Hunt,Precinct 108,U.S. Senate,,REP,Over Votes,0,0,0
 Hunt,Precinct 108,U.S. Senate,,REP,Under Votes,28,24,52
-Hunt,Precinct 108,"United States Representative, District 4",,REP,John Ratcliffe,137,132,269
-Hunt,Precinct 108,"United States Representative, District 4",,REP,Ballots Cast,137,132,269
-Hunt,Precinct 108,"United States Representative, District 4",,REP,Over Votes,0,0,0
-Hunt,Precinct 108,"United States Representative, District 4",,REP,Under Votes,29,26,55
+Hunt,Precinct 108,U.S. House,4,REP,John Ratcliffe,137,132,269
+Hunt,Precinct 108,U.S. House,4,REP,Ballots Cast,137,132,269
+Hunt,Precinct 108,U.S. House,4,REP,Over Votes,0,0,0
+Hunt,Precinct 108,U.S. House,4,REP,Under Votes,29,26,55
 Hunt,Precinct 108,Railroad Commissioner,,REP,Ryan Sitton,59,60,119
 Hunt,Precinct 108,Railroad Commissioner,,REP,"James ""Jim"" Wright",59,55,114
 Hunt,Precinct 108,Railroad Commissioner,,REP,Ballots Cast,118,115,233
@@ -6597,10 +6597,10 @@ Hunt,Precinct 109,U.S. Senate,,REP,Mark Yancey,7,7,14
 Hunt,Precinct 109,U.S. Senate,,REP,Ballots Cast,90,219,309
 Hunt,Precinct 109,U.S. Senate,,REP,Over Votes,0,0,0
 Hunt,Precinct 109,U.S. Senate,,REP,Under Votes,4,24,28
-Hunt,Precinct 109,"United States Representative, District 4",,REP,John Ratcliffe,84,212,296
-Hunt,Precinct 109,"United States Representative, District 4",,REP,Ballots Cast,84,212,296
-Hunt,Precinct 109,"United States Representative, District 4",,REP,Over Votes,0,0,0
-Hunt,Precinct 109,"United States Representative, District 4",,REP,Under Votes,10,31,41
+Hunt,Precinct 109,U.S. House,4,REP,John Ratcliffe,84,212,296
+Hunt,Precinct 109,U.S. House,4,REP,Ballots Cast,84,212,296
+Hunt,Precinct 109,U.S. House,4,REP,Over Votes,0,0,0
+Hunt,Precinct 109,U.S. House,4,REP,Under Votes,10,31,41
 Hunt,Precinct 109,Railroad Commissioner,,REP,Ryan Sitton,37,101,138
 Hunt,Precinct 109,Railroad Commissioner,,REP,"James ""Jim"" Wright",48,98,146
 Hunt,Precinct 109,Railroad Commissioner,,REP,Ballots Cast,85,199,284
@@ -6735,10 +6735,10 @@ Hunt,Precinct 210,U.S. Senate,,REP,Mark Yancey,2,7,9
 Hunt,Precinct 210,U.S. Senate,,REP,Ballots Cast,42,134,176
 Hunt,Precinct 210,U.S. Senate,,REP,Over Votes,0,0,0
 Hunt,Precinct 210,U.S. Senate,,REP,Under Votes,3,12,15
-Hunt,Precinct 210,"United States Representative, District 4",,REP,John Ratcliffe,40,134,174
-Hunt,Precinct 210,"United States Representative, District 4",,REP,Ballots Cast,40,134,174
-Hunt,Precinct 210,"United States Representative, District 4",,REP,Over Votes,0,0,0
-Hunt,Precinct 210,"United States Representative, District 4",,REP,Under Votes,5,12,17
+Hunt,Precinct 210,U.S. House,4,REP,John Ratcliffe,40,134,174
+Hunt,Precinct 210,U.S. House,4,REP,Ballots Cast,40,134,174
+Hunt,Precinct 210,U.S. House,4,REP,Over Votes,0,0,0
+Hunt,Precinct 210,U.S. House,4,REP,Under Votes,5,12,17
 Hunt,Precinct 210,Railroad Commissioner,,REP,Ryan Sitton,13,70,83
 Hunt,Precinct 210,Railroad Commissioner,,REP,"James ""Jim"" Wright",22,54,76
 Hunt,Precinct 210,Railroad Commissioner,,REP,Ballots Cast,35,124,159
@@ -6873,10 +6873,10 @@ Hunt,Precinct 211,U.S. Senate,,REP,Mark Yancey,1,5,6
 Hunt,Precinct 211,U.S. Senate,,REP,Ballots Cast,81,87,168
 Hunt,Precinct 211,U.S. Senate,,REP,Over Votes,1,0,1
 Hunt,Precinct 211,U.S. Senate,,REP,Under Votes,9,14,23
-Hunt,Precinct 211,"United States Representative, District 4",,REP,John Ratcliffe,73,84,157
-Hunt,Precinct 211,"United States Representative, District 4",,REP,Ballots Cast,73,84,157
-Hunt,Precinct 211,"United States Representative, District 4",,REP,Over Votes,0,0,0
-Hunt,Precinct 211,"United States Representative, District 4",,REP,Under Votes,18,17,35
+Hunt,Precinct 211,U.S. House,4,REP,John Ratcliffe,73,84,157
+Hunt,Precinct 211,U.S. House,4,REP,Ballots Cast,73,84,157
+Hunt,Precinct 211,U.S. House,4,REP,Over Votes,0,0,0
+Hunt,Precinct 211,U.S. House,4,REP,Under Votes,18,17,35
 Hunt,Precinct 211,Railroad Commissioner,,REP,Ryan Sitton,36,34,70
 Hunt,Precinct 211,Railroad Commissioner,,REP,"James ""Jim"" Wright",37,40,77
 Hunt,Precinct 211,Railroad Commissioner,,REP,Ballots Cast,73,74,147
@@ -7011,10 +7011,10 @@ Hunt,Precinct 212,U.S. Senate,,REP,Mark Yancey,3,7,10
 Hunt,Precinct 212,U.S. Senate,,REP,Ballots Cast,150,113,263
 Hunt,Precinct 212,U.S. Senate,,REP,Over Votes,0,0,0
 Hunt,Precinct 212,U.S. Senate,,REP,Under Votes,19,9,28
-Hunt,Precinct 212,"United States Representative, District 4",,REP,John Ratcliffe,139,100,239
-Hunt,Precinct 212,"United States Representative, District 4",,REP,Ballots Cast,139,100,239
-Hunt,Precinct 212,"United States Representative, District 4",,REP,Over Votes,0,0,0
-Hunt,Precinct 212,"United States Representative, District 4",,REP,Under Votes,30,22,52
+Hunt,Precinct 212,U.S. House,4,REP,John Ratcliffe,139,100,239
+Hunt,Precinct 212,U.S. House,4,REP,Ballots Cast,139,100,239
+Hunt,Precinct 212,U.S. House,4,REP,Over Votes,0,0,0
+Hunt,Precinct 212,U.S. House,4,REP,Under Votes,30,22,52
 Hunt,Precinct 212,Railroad Commissioner,,REP,Ryan Sitton,64,36,100
 Hunt,Precinct 212,Railroad Commissioner,,REP,"James ""Jim"" Wright",66,61,127
 Hunt,Precinct 212,Railroad Commissioner,,REP,Ballots Cast,130,97,227
@@ -7149,10 +7149,10 @@ Hunt,Precinct 213,U.S. Senate,,REP,Mark Yancey,3,8,11
 Hunt,Precinct 213,U.S. Senate,,REP,Ballots Cast,131,156,287
 Hunt,Precinct 213,U.S. Senate,,REP,Over Votes,0,0,0
 Hunt,Precinct 213,U.S. Senate,,REP,Under Votes,14,23,37
-Hunt,Precinct 213,"United States Representative, District 4",,REP,John Ratcliffe,120,151,271
-Hunt,Precinct 213,"United States Representative, District 4",,REP,Ballots Cast,120,151,271
-Hunt,Precinct 213,"United States Representative, District 4",,REP,Over Votes,0,0,0
-Hunt,Precinct 213,"United States Representative, District 4",,REP,Under Votes,25,28,53
+Hunt,Precinct 213,U.S. House,4,REP,John Ratcliffe,120,151,271
+Hunt,Precinct 213,U.S. House,4,REP,Ballots Cast,120,151,271
+Hunt,Precinct 213,U.S. House,4,REP,Over Votes,0,0,0
+Hunt,Precinct 213,U.S. House,4,REP,Under Votes,25,28,53
 Hunt,Precinct 213,Railroad Commissioner,,REP,Ryan Sitton,56,62,118
 Hunt,Precinct 213,Railroad Commissioner,,REP,"James ""Jim"" Wright",67,81,148
 Hunt,Precinct 213,Railroad Commissioner,,REP,Ballots Cast,123,143,266
@@ -7287,10 +7287,10 @@ Hunt,Precinct 214,U.S. Senate,,REP,Mark Yancey,2,18,20
 Hunt,Precinct 214,U.S. Senate,,REP,Ballots Cast,215,456,671
 Hunt,Precinct 214,U.S. Senate,,REP,Over Votes,0,0,0
 Hunt,Precinct 214,U.S. Senate,,REP,Under Votes,11,51,62
-Hunt,Precinct 214,"United States Representative, District 4",,REP,John Ratcliffe,196,436,632
-Hunt,Precinct 214,"United States Representative, District 4",,REP,Ballots Cast,196,436,632
-Hunt,Precinct 214,"United States Representative, District 4",,REP,Over Votes,0,0,0
-Hunt,Precinct 214,"United States Representative, District 4",,REP,Under Votes,30,71,101
+Hunt,Precinct 214,U.S. House,4,REP,John Ratcliffe,196,436,632
+Hunt,Precinct 214,U.S. House,4,REP,Ballots Cast,196,436,632
+Hunt,Precinct 214,U.S. House,4,REP,Over Votes,0,0,0
+Hunt,Precinct 214,U.S. House,4,REP,Under Votes,30,71,101
 Hunt,Precinct 214,Railroad Commissioner,,REP,Ryan Sitton,109,196,305
 Hunt,Precinct 214,Railroad Commissioner,,REP,"James ""Jim"" Wright",89,220,309
 Hunt,Precinct 214,Railroad Commissioner,,REP,Ballots Cast,198,416,614
@@ -7425,10 +7425,10 @@ Hunt,Precinct 215,U.S. Senate,,REP,Mark Yancey,14,33,47
 Hunt,Precinct 215,U.S. Senate,,REP,Ballots Cast,455,595,1050
 Hunt,Precinct 215,U.S. Senate,,REP,Over Votes,1,0,1
 Hunt,Precinct 215,U.S. Senate,,REP,Under Votes,40,60,100
-Hunt,Precinct 215,"United States Representative, District 4",,REP,John Ratcliffe,428,575,1003
-Hunt,Precinct 215,"United States Representative, District 4",,REP,Ballots Cast,428,575,1003
-Hunt,Precinct 215,"United States Representative, District 4",,REP,Over Votes,0,0,0
-Hunt,Precinct 215,"United States Representative, District 4",,REP,Under Votes,68,80,148
+Hunt,Precinct 215,U.S. House,4,REP,John Ratcliffe,428,575,1003
+Hunt,Precinct 215,U.S. House,4,REP,Ballots Cast,428,575,1003
+Hunt,Precinct 215,U.S. House,4,REP,Over Votes,0,0,0
+Hunt,Precinct 215,U.S. House,4,REP,Under Votes,68,80,148
 Hunt,Precinct 215,Railroad Commissioner,,REP,Ryan Sitton,196,264,460
 Hunt,Precinct 215,Railroad Commissioner,,REP,"James ""Jim"" Wright",217,267,484
 Hunt,Precinct 215,Railroad Commissioner,,REP,Ballots Cast,413,531,944
@@ -7563,10 +7563,10 @@ Hunt,Precinct 216,U.S. Senate,,REP,Mark Yancey,4,17,21
 Hunt,Precinct 216,U.S. Senate,,REP,Ballots Cast,104,340,444
 Hunt,Precinct 216,U.S. Senate,,REP,Over Votes,0,0,0
 Hunt,Precinct 216,U.S. Senate,,REP,Under Votes,5,38,43
-Hunt,Precinct 216,"United States Representative, District 4",,REP,John Ratcliffe,98,322,420
-Hunt,Precinct 216,"United States Representative, District 4",,REP,Ballots Cast,98,322,420
-Hunt,Precinct 216,"United States Representative, District 4",,REP,Over Votes,0,0,0
-Hunt,Precinct 216,"United States Representative, District 4",,REP,Under Votes,11,56,67
+Hunt,Precinct 216,U.S. House,4,REP,John Ratcliffe,98,322,420
+Hunt,Precinct 216,U.S. House,4,REP,Ballots Cast,98,322,420
+Hunt,Precinct 216,U.S. House,4,REP,Over Votes,0,0,0
+Hunt,Precinct 216,U.S. House,4,REP,Under Votes,11,56,67
 Hunt,Precinct 216,Railroad Commissioner,,REP,Ryan Sitton,53,164,217
 Hunt,Precinct 216,Railroad Commissioner,,REP,"James ""Jim"" Wright",41,139,180
 Hunt,Precinct 216,Railroad Commissioner,,REP,Ballots Cast,94,303,397
@@ -7701,10 +7701,10 @@ Hunt,Precinct 217,U.S. Senate,,REP,Mark Yancey,5,12,17
 Hunt,Precinct 217,U.S. Senate,,REP,Ballots Cast,66,278,344
 Hunt,Precinct 217,U.S. Senate,,REP,Over Votes,0,0,0
 Hunt,Precinct 217,U.S. Senate,,REP,Under Votes,3,26,29
-Hunt,Precinct 217,"United States Representative, District 4",,REP,John Ratcliffe,65,276,341
-Hunt,Precinct 217,"United States Representative, District 4",,REP,Ballots Cast,65,276,341
-Hunt,Precinct 217,"United States Representative, District 4",,REP,Over Votes,0,0,0
-Hunt,Precinct 217,"United States Representative, District 4",,REP,Under Votes,4,28,32
+Hunt,Precinct 217,U.S. House,4,REP,John Ratcliffe,65,276,341
+Hunt,Precinct 217,U.S. House,4,REP,Ballots Cast,65,276,341
+Hunt,Precinct 217,U.S. House,4,REP,Over Votes,0,0,0
+Hunt,Precinct 217,U.S. House,4,REP,Under Votes,4,28,32
 Hunt,Precinct 217,Railroad Commissioner,,REP,Ryan Sitton,31,136,167
 Hunt,Precinct 217,Railroad Commissioner,,REP,"James ""Jim"" Wright",31,121,152
 Hunt,Precinct 217,Railroad Commissioner,,REP,Ballots Cast,62,257,319
@@ -7839,10 +7839,10 @@ Hunt,Precinct 318,U.S. Senate,,REP,Mark Yancey,4,11,15
 Hunt,Precinct 318,U.S. Senate,,REP,Ballots Cast,82,154,236
 Hunt,Precinct 318,U.S. Senate,,REP,Over Votes,0,0,0
 Hunt,Precinct 318,U.S. Senate,,REP,Under Votes,11,17,28
-Hunt,Precinct 318,"United States Representative, District 4",,REP,John Ratcliffe,76,144,220
-Hunt,Precinct 318,"United States Representative, District 4",,REP,Ballots Cast,76,144,220
-Hunt,Precinct 318,"United States Representative, District 4",,REP,Over Votes,0,0,0
-Hunt,Precinct 318,"United States Representative, District 4",,REP,Under Votes,17,27,44
+Hunt,Precinct 318,U.S. House,4,REP,John Ratcliffe,76,144,220
+Hunt,Precinct 318,U.S. House,4,REP,Ballots Cast,76,144,220
+Hunt,Precinct 318,U.S. House,4,REP,Over Votes,0,0,0
+Hunt,Precinct 318,U.S. House,4,REP,Under Votes,17,27,44
 Hunt,Precinct 318,Railroad Commissioner,,REP,Ryan Sitton,35,75,110
 Hunt,Precinct 318,Railroad Commissioner,,REP,"James ""Jim"" Wright",40,66,106
 Hunt,Precinct 318,Railroad Commissioner,,REP,Ballots Cast,75,141,216
@@ -7977,10 +7977,10 @@ Hunt,Precinct 319,U.S. Senate,,REP,Mark Yancey,1,11,12
 Hunt,Precinct 319,U.S. Senate,,REP,Ballots Cast,163,331,494
 Hunt,Precinct 319,U.S. Senate,,REP,Over Votes,0,0,0
 Hunt,Precinct 319,U.S. Senate,,REP,Under Votes,8,34,42
-Hunt,Precinct 319,"United States Representative, District 4",,REP,John Ratcliffe,151,312,463
-Hunt,Precinct 319,"United States Representative, District 4",,REP,Ballots Cast,151,312,463
-Hunt,Precinct 319,"United States Representative, District 4",,REP,Over Votes,0,0,0
-Hunt,Precinct 319,"United States Representative, District 4",,REP,Under Votes,20,53,73
+Hunt,Precinct 319,U.S. House,4,REP,John Ratcliffe,151,312,463
+Hunt,Precinct 319,U.S. House,4,REP,Ballots Cast,151,312,463
+Hunt,Precinct 319,U.S. House,4,REP,Over Votes,0,0,0
+Hunt,Precinct 319,U.S. House,4,REP,Under Votes,20,53,73
 Hunt,Precinct 319,Railroad Commissioner,,REP,Ryan Sitton,72,129,201
 Hunt,Precinct 319,Railroad Commissioner,,REP,"James ""Jim"" Wright",71,155,226
 Hunt,Precinct 319,Railroad Commissioner,,REP,Ballots Cast,143,284,427
@@ -8115,10 +8115,10 @@ Hunt,Precinct 320,U.S. Senate,,REP,Mark Yancey,2,19,21
 Hunt,Precinct 320,U.S. Senate,,REP,Ballots Cast,76,344,420
 Hunt,Precinct 320,U.S. Senate,,REP,Over Votes,0,0,0
 Hunt,Precinct 320,U.S. Senate,,REP,Under Votes,5,28,33
-Hunt,Precinct 320,"United States Representative, District 4",,REP,John Ratcliffe,72,323,395
-Hunt,Precinct 320,"United States Representative, District 4",,REP,Ballots Cast,72,323,395
-Hunt,Precinct 320,"United States Representative, District 4",,REP,Over Votes,0,0,0
-Hunt,Precinct 320,"United States Representative, District 4",,REP,Under Votes,9,49,58
+Hunt,Precinct 320,U.S. House,4,REP,John Ratcliffe,72,323,395
+Hunt,Precinct 320,U.S. House,4,REP,Ballots Cast,72,323,395
+Hunt,Precinct 320,U.S. House,4,REP,Over Votes,0,0,0
+Hunt,Precinct 320,U.S. House,4,REP,Under Votes,9,49,58
 Hunt,Precinct 320,Railroad Commissioner,,REP,Ryan Sitton,30,144,174
 Hunt,Precinct 320,Railroad Commissioner,,REP,"James ""Jim"" Wright",37,173,210
 Hunt,Precinct 320,Railroad Commissioner,,REP,Ballots Cast,67,317,384
@@ -8253,10 +8253,10 @@ Hunt,Precinct 321,U.S. Senate,,REP,Mark Yancey,3,14,17
 Hunt,Precinct 321,U.S. Senate,,REP,Ballots Cast,44,258,302
 Hunt,Precinct 321,U.S. Senate,,REP,Over Votes,0,0,0
 Hunt,Precinct 321,U.S. Senate,,REP,Under Votes,2,13,15
-Hunt,Precinct 321,"United States Representative, District 4",,REP,John Ratcliffe,41,237,278
-Hunt,Precinct 321,"United States Representative, District 4",,REP,Ballots Cast,41,237,278
-Hunt,Precinct 321,"United States Representative, District 4",,REP,Over Votes,0,0,0
-Hunt,Precinct 321,"United States Representative, District 4",,REP,Under Votes,5,34,39
+Hunt,Precinct 321,U.S. House,4,REP,John Ratcliffe,41,237,278
+Hunt,Precinct 321,U.S. House,4,REP,Ballots Cast,41,237,278
+Hunt,Precinct 321,U.S. House,4,REP,Over Votes,0,0,0
+Hunt,Precinct 321,U.S. House,4,REP,Under Votes,5,34,39
 Hunt,Precinct 321,Railroad Commissioner,,REP,Ryan Sitton,19,102,121
 Hunt,Precinct 321,Railroad Commissioner,,REP,"James ""Jim"" Wright",24,140,164
 Hunt,Precinct 321,Railroad Commissioner,,REP,Ballots Cast,43,242,285
@@ -8391,10 +8391,10 @@ Hunt,Precinct 322,U.S. Senate,,REP,Mark Yancey,4,7,11
 Hunt,Precinct 322,U.S. Senate,,REP,Ballots Cast,51,135,186
 Hunt,Precinct 322,U.S. Senate,,REP,Over Votes,0,0,0
 Hunt,Precinct 322,U.S. Senate,,REP,Under Votes,1,7,8
-Hunt,Precinct 322,"United States Representative, District 4",,REP,John Ratcliffe,40,131,171
-Hunt,Precinct 322,"United States Representative, District 4",,REP,Ballots Cast,40,131,171
-Hunt,Precinct 322,"United States Representative, District 4",,REP,Over Votes,0,0,0
-Hunt,Precinct 322,"United States Representative, District 4",,REP,Under Votes,12,11,23
+Hunt,Precinct 322,U.S. House,4,REP,John Ratcliffe,40,131,171
+Hunt,Precinct 322,U.S. House,4,REP,Ballots Cast,40,131,171
+Hunt,Precinct 322,U.S. House,4,REP,Over Votes,0,0,0
+Hunt,Precinct 322,U.S. House,4,REP,Under Votes,12,11,23
 Hunt,Precinct 322,Railroad Commissioner,,REP,Ryan Sitton,16,55,71
 Hunt,Precinct 322,Railroad Commissioner,,REP,"James ""Jim"" Wright",30,74,104
 Hunt,Precinct 322,Railroad Commissioner,,REP,Ballots Cast,46,129,175
@@ -8529,10 +8529,10 @@ Hunt,Precinct 323,U.S. Senate,,REP,Mark Yancey,8,13,21
 Hunt,Precinct 323,U.S. Senate,,REP,Ballots Cast,382,401,783
 Hunt,Precinct 323,U.S. Senate,,REP,Over Votes,3,0,3
 Hunt,Precinct 323,U.S. Senate,,REP,Under Votes,28,44,72
-Hunt,Precinct 323,"United States Representative, District 4",,REP,John Ratcliffe,359,380,739
-Hunt,Precinct 323,"United States Representative, District 4",,REP,Ballots Cast,359,380,739
-Hunt,Precinct 323,"United States Representative, District 4",,REP,Over Votes,0,0,0
-Hunt,Precinct 323,"United States Representative, District 4",,REP,Under Votes,54,65,119
+Hunt,Precinct 323,U.S. House,4,REP,John Ratcliffe,359,380,739
+Hunt,Precinct 323,U.S. House,4,REP,Ballots Cast,359,380,739
+Hunt,Precinct 323,U.S. House,4,REP,Over Votes,0,0,0
+Hunt,Precinct 323,U.S. House,4,REP,Under Votes,54,65,119
 Hunt,Precinct 323,Railroad Commissioner,,REP,Ryan Sitton,171,180,351
 Hunt,Precinct 323,Railroad Commissioner,,REP,"James ""Jim"" Wright",160,160,320
 Hunt,Precinct 323,Railroad Commissioner,,REP,Ballots Cast,331,340,671
@@ -8667,10 +8667,10 @@ Hunt,Precinct 324,U.S. Senate,,REP,Mark Yancey,6,12,18
 Hunt,Precinct 324,U.S. Senate,,REP,Ballots Cast,342,283,625
 Hunt,Precinct 324,U.S. Senate,,REP,Over Votes,0,0,0
 Hunt,Precinct 324,U.S. Senate,,REP,Under Votes,31,25,56
-Hunt,Precinct 324,"United States Representative, District 4",,REP,John Ratcliffe,326,261,587
-Hunt,Precinct 324,"United States Representative, District 4",,REP,Ballots Cast,326,261,587
-Hunt,Precinct 324,"United States Representative, District 4",,REP,Over Votes,0,0,0
-Hunt,Precinct 324,"United States Representative, District 4",,REP,Under Votes,47,47,94
+Hunt,Precinct 324,U.S. House,4,REP,John Ratcliffe,326,261,587
+Hunt,Precinct 324,U.S. House,4,REP,Ballots Cast,326,261,587
+Hunt,Precinct 324,U.S. House,4,REP,Over Votes,0,0,0
+Hunt,Precinct 324,U.S. House,4,REP,Under Votes,47,47,94
 Hunt,Precinct 324,Railroad Commissioner,,REP,Ryan Sitton,158,122,280
 Hunt,Precinct 324,Railroad Commissioner,,REP,"James ""Jim"" Wright",131,104,235
 Hunt,Precinct 324,Railroad Commissioner,,REP,Ballots Cast,289,226,515
@@ -8805,10 +8805,10 @@ Hunt,Precinct 325,U.S. Senate,,REP,Mark Yancey,20,10,30
 Hunt,Precinct 325,U.S. Senate,,REP,Ballots Cast,510,312,822
 Hunt,Precinct 325,U.S. Senate,,REP,Over Votes,1,0,1
 Hunt,Precinct 325,U.S. Senate,,REP,Under Votes,52,33,85
-Hunt,Precinct 325,"United States Representative, District 4",,REP,John Ratcliffe,476,292,768
-Hunt,Precinct 325,"United States Representative, District 4",,REP,Ballots Cast,476,292,768
-Hunt,Precinct 325,"United States Representative, District 4",,REP,Over Votes,0,0,0
-Hunt,Precinct 325,"United States Representative, District 4",,REP,Under Votes,87,53,140
+Hunt,Precinct 325,U.S. House,4,REP,John Ratcliffe,476,292,768
+Hunt,Precinct 325,U.S. House,4,REP,Ballots Cast,476,292,768
+Hunt,Precinct 325,U.S. House,4,REP,Over Votes,0,0,0
+Hunt,Precinct 325,U.S. House,4,REP,Under Votes,87,53,140
 Hunt,Precinct 325,Railroad Commissioner,,REP,Ryan Sitton,212,140,352
 Hunt,Precinct 325,Railroad Commissioner,,REP,"James ""Jim"" Wright",227,124,351
 Hunt,Precinct 325,Railroad Commissioner,,REP,Ballots Cast,439,264,703
@@ -8943,10 +8943,10 @@ Hunt,Precinct 426,U.S. Senate,,REP,Mark Yancey,0,0,0
 Hunt,Precinct 426,U.S. Senate,,REP,Ballots Cast,41,58,99
 Hunt,Precinct 426,U.S. Senate,,REP,Over Votes,0,0,0
 Hunt,Precinct 426,U.S. Senate,,REP,Under Votes,1,6,7
-Hunt,Precinct 426,"United States Representative, District 4",,REP,John Ratcliffe,39,55,94
-Hunt,Precinct 426,"United States Representative, District 4",,REP,Ballots Cast,39,55,94
-Hunt,Precinct 426,"United States Representative, District 4",,REP,Over Votes,0,0,0
-Hunt,Precinct 426,"United States Representative, District 4",,REP,Under Votes,3,9,12
+Hunt,Precinct 426,U.S. House,4,REP,John Ratcliffe,39,55,94
+Hunt,Precinct 426,U.S. House,4,REP,Ballots Cast,39,55,94
+Hunt,Precinct 426,U.S. House,4,REP,Over Votes,0,0,0
+Hunt,Precinct 426,U.S. House,4,REP,Under Votes,3,9,12
 Hunt,Precinct 426,Railroad Commissioner,,REP,Ryan Sitton,15,28,43
 Hunt,Precinct 426,Railroad Commissioner,,REP,"James ""Jim"" Wright",18,27,45
 Hunt,Precinct 426,Railroad Commissioner,,REP,Ballots Cast,33,55,88
@@ -9081,10 +9081,10 @@ Hunt,Precinct 427,U.S. Senate,,REP,Mark Yancey,4,8,12
 Hunt,Precinct 427,U.S. Senate,,REP,Ballots Cast,74,227,301
 Hunt,Precinct 427,U.S. Senate,,REP,Over Votes,1,0,1
 Hunt,Precinct 427,U.S. Senate,,REP,Under Votes,5,22,27
-Hunt,Precinct 427,"United States Representative, District 4",,REP,John Ratcliffe,71,212,283
-Hunt,Precinct 427,"United States Representative, District 4",,REP,Ballots Cast,71,212,283
-Hunt,Precinct 427,"United States Representative, District 4",,REP,Over Votes,0,0,0
-Hunt,Precinct 427,"United States Representative, District 4",,REP,Under Votes,9,37,46
+Hunt,Precinct 427,U.S. House,4,REP,John Ratcliffe,71,212,283
+Hunt,Precinct 427,U.S. House,4,REP,Ballots Cast,71,212,283
+Hunt,Precinct 427,U.S. House,4,REP,Over Votes,0,0,0
+Hunt,Precinct 427,U.S. House,4,REP,Under Votes,9,37,46
 Hunt,Precinct 427,Railroad Commissioner,,REP,Ryan Sitton,40,96,136
 Hunt,Precinct 427,Railroad Commissioner,,REP,"James ""Jim"" Wright",25,102,127
 Hunt,Precinct 427,Railroad Commissioner,,REP,Ballots Cast,65,198,263
@@ -9219,10 +9219,10 @@ Hunt,Precinct 428,U.S. Senate,,REP,Mark Yancey,2,14,16
 Hunt,Precinct 428,U.S. Senate,,REP,Ballots Cast,101,232,333
 Hunt,Precinct 428,U.S. Senate,,REP,Over Votes,1,0,1
 Hunt,Precinct 428,U.S. Senate,,REP,Under Votes,13,34,47
-Hunt,Precinct 428,"United States Representative, District 4",,REP,John Ratcliffe,94,213,307
-Hunt,Precinct 428,"United States Representative, District 4",,REP,Ballots Cast,94,213,307
-Hunt,Precinct 428,"United States Representative, District 4",,REP,Over Votes,0,0,0
-Hunt,Precinct 428,"United States Representative, District 4",,REP,Under Votes,21,53,74
+Hunt,Precinct 428,U.S. House,4,REP,John Ratcliffe,94,213,307
+Hunt,Precinct 428,U.S. House,4,REP,Ballots Cast,94,213,307
+Hunt,Precinct 428,U.S. House,4,REP,Over Votes,0,0,0
+Hunt,Precinct 428,U.S. House,4,REP,Under Votes,21,53,74
 Hunt,Precinct 428,Railroad Commissioner,,REP,Ryan Sitton,41,107,148
 Hunt,Precinct 428,Railroad Commissioner,,REP,"James ""Jim"" Wright",51,98,149
 Hunt,Precinct 428,Railroad Commissioner,,REP,Ballots Cast,92,205,297
@@ -9357,10 +9357,10 @@ Hunt,Precinct 429,U.S. Senate,,REP,Mark Yancey,0,1,1
 Hunt,Precinct 429,U.S. Senate,,REP,Ballots Cast,26,87,113
 Hunt,Precinct 429,U.S. Senate,,REP,Over Votes,0,0,0
 Hunt,Precinct 429,U.S. Senate,,REP,Under Votes,2,12,14
-Hunt,Precinct 429,"United States Representative, District 4",,REP,John Ratcliffe,24,85,109
-Hunt,Precinct 429,"United States Representative, District 4",,REP,Ballots Cast,24,85,109
-Hunt,Precinct 429,"United States Representative, District 4",,REP,Over Votes,0,0,0
-Hunt,Precinct 429,"United States Representative, District 4",,REP,Under Votes,4,14,18
+Hunt,Precinct 429,U.S. House,4,REP,John Ratcliffe,24,85,109
+Hunt,Precinct 429,U.S. House,4,REP,Ballots Cast,24,85,109
+Hunt,Precinct 429,U.S. House,4,REP,Over Votes,0,0,0
+Hunt,Precinct 429,U.S. House,4,REP,Under Votes,4,14,18
 Hunt,Precinct 429,Railroad Commissioner,,REP,Ryan Sitton,11,48,59
 Hunt,Precinct 429,Railroad Commissioner,,REP,"James ""Jim"" Wright",13,34,47
 Hunt,Precinct 429,Railroad Commissioner,,REP,Ballots Cast,24,82,106
@@ -9495,10 +9495,10 @@ Hunt,Precinct 430,U.S. Senate,,REP,Mark Yancey,4,0,4
 Hunt,Precinct 430,U.S. Senate,,REP,Ballots Cast,78,68,146
 Hunt,Precinct 430,U.S. Senate,,REP,Over Votes,0,0,0
 Hunt,Precinct 430,U.S. Senate,,REP,Under Votes,12,9,21
-Hunt,Precinct 430,"United States Representative, District 4",,REP,John Ratcliffe,73,64,137
-Hunt,Precinct 430,"United States Representative, District 4",,REP,Ballots Cast,73,64,137
-Hunt,Precinct 430,"United States Representative, District 4",,REP,Over Votes,0,0,0
-Hunt,Precinct 430,"United States Representative, District 4",,REP,Under Votes,17,13,30
+Hunt,Precinct 430,U.S. House,4,REP,John Ratcliffe,73,64,137
+Hunt,Precinct 430,U.S. House,4,REP,Ballots Cast,73,64,137
+Hunt,Precinct 430,U.S. House,4,REP,Over Votes,0,0,0
+Hunt,Precinct 430,U.S. House,4,REP,Under Votes,17,13,30
 Hunt,Precinct 430,Railroad Commissioner,,REP,Ryan Sitton,29,23,52
 Hunt,Precinct 430,Railroad Commissioner,,REP,"James ""Jim"" Wright",42,30,72
 Hunt,Precinct 430,Railroad Commissioner,,REP,Ballots Cast,71,53,124
@@ -9633,10 +9633,10 @@ Hunt,Precinct 431,U.S. Senate,,REP,Mark Yancey,2,2,4
 Hunt,Precinct 431,U.S. Senate,,REP,Ballots Cast,68,61,129
 Hunt,Precinct 431,U.S. Senate,,REP,Over Votes,0,0,0
 Hunt,Precinct 431,U.S. Senate,,REP,Under Votes,7,10,17
-Hunt,Precinct 431,"United States Representative, District 4",,REP,John Ratcliffe,65,55,120
-Hunt,Precinct 431,"United States Representative, District 4",,REP,Ballots Cast,65,55,120
-Hunt,Precinct 431,"United States Representative, District 4",,REP,Over Votes,0,0,0
-Hunt,Precinct 431,"United States Representative, District 4",,REP,Under Votes,10,16,26
+Hunt,Precinct 431,U.S. House,4,REP,John Ratcliffe,65,55,120
+Hunt,Precinct 431,U.S. House,4,REP,Ballots Cast,65,55,120
+Hunt,Precinct 431,U.S. House,4,REP,Over Votes,0,0,0
+Hunt,Precinct 431,U.S. House,4,REP,Under Votes,10,16,26
 Hunt,Precinct 431,Railroad Commissioner,,REP,Ryan Sitton,30,24,54
 Hunt,Precinct 431,Railroad Commissioner,,REP,"James ""Jim"" Wright",29,28,57
 Hunt,Precinct 431,Railroad Commissioner,,REP,Ballots Cast,59,52,111
@@ -9771,10 +9771,10 @@ Hunt,Precinct 432,U.S. Senate,,REP,Mark Yancey,5,6,11
 Hunt,Precinct 432,U.S. Senate,,REP,Ballots Cast,95,115,210
 Hunt,Precinct 432,U.S. Senate,,REP,Over Votes,0,0,0
 Hunt,Precinct 432,U.S. Senate,,REP,Under Votes,9,9,18
-Hunt,Precinct 432,"United States Representative, District 4",,REP,John Ratcliffe,88,111,199
-Hunt,Precinct 432,"United States Representative, District 4",,REP,Ballots Cast,88,111,199
-Hunt,Precinct 432,"United States Representative, District 4",,REP,Over Votes,0,0,0
-Hunt,Precinct 432,"United States Representative, District 4",,REP,Under Votes,16,13,29
+Hunt,Precinct 432,U.S. House,4,REP,John Ratcliffe,88,111,199
+Hunt,Precinct 432,U.S. House,4,REP,Ballots Cast,88,111,199
+Hunt,Precinct 432,U.S. House,4,REP,Over Votes,0,0,0
+Hunt,Precinct 432,U.S. House,4,REP,Under Votes,16,13,29
 Hunt,Precinct 432,Railroad Commissioner,,REP,Ryan Sitton,34,52,86
 Hunt,Precinct 432,Railroad Commissioner,,REP,"James ""Jim"" Wright",49,51,100
 Hunt,Precinct 432,Railroad Commissioner,,REP,Ballots Cast,83,103,186
@@ -9909,10 +9909,10 @@ Hunt,Precinct 433,U.S. Senate,,REP,Mark Yancey,5,9,14
 Hunt,Precinct 433,U.S. Senate,,REP,Ballots Cast,74,77,151
 Hunt,Precinct 433,U.S. Senate,,REP,Over Votes,0,0,0
 Hunt,Precinct 433,U.S. Senate,,REP,Under Votes,33,22,55
-Hunt,Precinct 433,"United States Representative, District 4",,REP,John Ratcliffe,63,71,134
-Hunt,Precinct 433,"United States Representative, District 4",,REP,Ballots Cast,63,71,134
-Hunt,Precinct 433,"United States Representative, District 4",,REP,Over Votes,0,0,0
-Hunt,Precinct 433,"United States Representative, District 4",,REP,Under Votes,44,28,72
+Hunt,Precinct 433,U.S. House,4,REP,John Ratcliffe,63,71,134
+Hunt,Precinct 433,U.S. House,4,REP,Ballots Cast,63,71,134
+Hunt,Precinct 433,U.S. House,4,REP,Over Votes,0,0,0
+Hunt,Precinct 433,U.S. House,4,REP,Under Votes,44,28,72
 Hunt,Precinct 433,Railroad Commissioner,,REP,Ryan Sitton,33,31,64
 Hunt,Precinct 433,Railroad Commissioner,,REP,"James ""Jim"" Wright",29,30,59
 Hunt,Precinct 433,Railroad Commissioner,,REP,Ballots Cast,62,61,123
@@ -10047,10 +10047,10 @@ Hunt,Precinct 434,U.S. Senate,,REP,Mark Yancey,5,9,14
 Hunt,Precinct 434,U.S. Senate,,REP,Ballots Cast,170,248,418
 Hunt,Precinct 434,U.S. Senate,,REP,Over Votes,0,0,0
 Hunt,Precinct 434,U.S. Senate,,REP,Under Votes,15,30,45
-Hunt,Precinct 434,"United States Representative, District 4",,REP,John Ratcliffe,161,230,391
-Hunt,Precinct 434,"United States Representative, District 4",,REP,Ballots Cast,161,230,391
-Hunt,Precinct 434,"United States Representative, District 4",,REP,Over Votes,0,0,0
-Hunt,Precinct 434,"United States Representative, District 4",,REP,Under Votes,24,48,72
+Hunt,Precinct 434,U.S. House,4,REP,John Ratcliffe,161,230,391
+Hunt,Precinct 434,U.S. House,4,REP,Ballots Cast,161,230,391
+Hunt,Precinct 434,U.S. House,4,REP,Over Votes,0,0,0
+Hunt,Precinct 434,U.S. House,4,REP,Under Votes,24,48,72
 Hunt,Precinct 434,Railroad Commissioner,,REP,Ryan Sitton,65,128,193
 Hunt,Precinct 434,Railroad Commissioner,,REP,"James ""Jim"" Wright",85,93,178
 Hunt,Precinct 434,Railroad Commissioner,,REP,Ballots Cast,150,221,371
