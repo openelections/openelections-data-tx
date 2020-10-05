@@ -18,9 +18,9 @@ Henderson,1A,U.S. Senate,,REP,John Anthony Castro,11,4,5,2
 Henderson,1A,U.S. Senate,,REP,Virgil Bierschwale,2,0,2,0
 Henderson,1A,U.S. Senate,,REP,Dwayne Stovall,54,28,26,0
 Henderson,1A,U.S. Senate,,REP,Total Votes Cast,373,140,211,22
-Henderson,1A,"US Representative, Dist 5",,REP,Lance Gooden,336,128,188,20
-Henderson,1A,"US Representative, Dist 5",,REP,Don Hill,39,15,23,1
-Henderson,1A,"US Representative, Dist 5",,REP,Total Votes Cast,375,143,211,21
+Henderson,1A,U.S. House,5,REP,Lance Gooden,336,128,188,20
+Henderson,1A,U.S. House,5,REP,Don Hill,39,15,23,1
+Henderson,1A,U.S. House,5,REP,Total Votes Cast,375,143,211,21
 Henderson,1A,Railroad Commissioner,,REP,"James ""Jim"" Wright",261,93,153,15
 Henderson,1A,Railroad Commissioner,,REP,Ryan Sitton,101,43,52,6
 Henderson,1A,Railroad Commissioner,,REP,Total Votes Cast,362,136,205,21
@@ -128,8 +128,8 @@ Henderson,1A,U.S. Senate,,DEM,Chris Bell,3,1,2,0
 Henderson,1A,U.S. Senate,,DEM,Sema Hernandez,4,3,1,0
 Henderson,1A,U.S. Senate,,DEM,Adrian Ocegueda,1,0,1,0
 Henderson,1A,U.S. Senate,,DEM,Total Votes Cast,89,38,48,3
-Henderson,1A,"US Representative, Dist 5",,DEM,Carolyn Salter,81,37,42,2
-Henderson,1A,"US Representative, Dist 5",,DEM,Total Votes Cast,81,37,42,2
+Henderson,1A,U.S. House,5,DEM,Carolyn Salter,81,37,42,2
+Henderson,1A,U.S. House,5,DEM,Total Votes Cast,81,37,42,2
 Henderson,1A,Railroad Commissioner,,DEM,Kelly Stone,31,12,18,1
 Henderson,1A,Railroad Commissioner,,DEM,Mark Watson,15,5,10,0
 Henderson,1A,Railroad Commissioner,,DEM,Chrysta Castaneda,27,13,12,2
@@ -215,9 +215,9 @@ Henderson,1CR,U.S. Senate,,REP,John Anthony Castro,21,12,8,1
 Henderson,1CR,U.S. Senate,,REP,Virgil Bierschwale,2,2,0,0
 Henderson,1CR,U.S. Senate,,REP,Dwayne Stovall,94,61,33,0
 Henderson,1CR,U.S. Senate,,REP,Total Votes Cast,718,363,307,48
-Henderson,1CR,"US Representative, Dist 5",,REP,Lance Gooden,637,319,273,45
-Henderson,1CR,"US Representative, Dist 5",,REP,Don Hill,101,58,39,4
-Henderson,1CR,"US Representative, Dist 5",,REP,Total Votes Cast,738,377,312,49
+Henderson,1CR,U.S. House,5,REP,Lance Gooden,637,319,273,45
+Henderson,1CR,U.S. House,5,REP,Don Hill,101,58,39,4
+Henderson,1CR,U.S. House,5,REP,Total Votes Cast,738,377,312,49
 Henderson,1CR,Railroad Commissioner,,REP,"James ""Jim"" Wright",533,265,234,34
 Henderson,1CR,Railroad Commissioner,,REP,Ryan Sitton,171,90,68,13
 Henderson,1CR,Railroad Commissioner,,REP,Total Votes Cast,704,355,302,47
@@ -323,8 +323,8 @@ Henderson,1CR,U.S. Senate,,DEM,Chris Bell,11,6,3,2
 Henderson,1CR,U.S. Senate,,DEM,Sema Hernandez,4,1,3,0
 Henderson,1CR,U.S. Senate,,DEM,Adrian Ocegueda,1,0,1,0
 Henderson,1CR,U.S. Senate,,DEM,Total Votes Cast,113,44,42,27
-Henderson,1CR,"US Representative, Dist 5",,DEM,Carolyn Salter,97,37,36,24
-Henderson,1CR,"US Representative, Dist 5",,DEM,Total Votes Cast,97,37,36,24
+Henderson,1CR,U.S. House,5,DEM,Carolyn Salter,97,37,36,24
+Henderson,1CR,U.S. House,5,DEM,Total Votes Cast,97,37,36,24
 Henderson,1CR,Railroad Commissioner,,DEM,Kelly Stone,44,13,18,13
 Henderson,1CR,Railroad Commissioner,,DEM,Mark Watson,20,8,6,6
 Henderson,1CR,Railroad Commissioner,,DEM,Chrysta Castaneda,26,11,9,6
@@ -410,9 +410,9 @@ Henderson,1M,U.S. Senate,,REP,John Anthony Castro,11,8,1,2
 Henderson,1M,U.S. Senate,,REP,Virgil Bierschwale,4,1,3,0
 Henderson,1M,U.S. Senate,,REP,Dwayne Stovall,55,27,22,6
 Henderson,1M,U.S. Senate,,REP,Total Votes Cast,458,261,153,44
-Henderson,1M,"US Representative, Dist 5",,REP,Lance Gooden,413,237,131,45
-Henderson,1M,"US Representative, Dist 5",,REP,Don Hill,57,31,26,0
-Henderson,1M,"US Representative, Dist 5",,REP,Total Votes Cast,470,268,157,45
+Henderson,1M,U.S. House,5,REP,Lance Gooden,413,237,131,45
+Henderson,1M,U.S. House,5,REP,Don Hill,57,31,26,0
+Henderson,1M,U.S. House,5,REP,Total Votes Cast,470,268,157,45
 Henderson,1M,Railroad Commissioner,,REP,"James ""Jim"" Wright",326,190,107,29
 Henderson,1M,Railroad Commissioner,,REP,Ryan Sitton,121,66,43,12
 Henderson,1M,Railroad Commissioner,,REP,Total Votes Cast,447,256,150,41
@@ -520,8 +520,8 @@ Henderson,1M,U.S. Senate,,DEM,Chris Bell,10,8,2,0
 Henderson,1M,U.S. Senate,,DEM,Sema Hernandez,4,2,2,0
 Henderson,1M,U.S. Senate,,DEM,Adrian Ocegueda,0,0,0,0
 Henderson,1M,U.S. Senate,,DEM,Total Votes Cast,130,89,22,19
-Henderson,1M,"US Representative, Dist 5",,DEM,Carolyn Salter,116,78,19,19
-Henderson,1M,"US Representative, Dist 5",,DEM,Total Votes Cast,116,78,19,19
+Henderson,1M,U.S. House,5,DEM,Carolyn Salter,116,78,19,19
+Henderson,1M,U.S. House,5,DEM,Total Votes Cast,116,78,19,19
 Henderson,1M,Railroad Commissioner,,DEM,Kelly Stone,44,29,7,8
 Henderson,1M,Railroad Commissioner,,DEM,Mark Watson,25,18,5,2
 Henderson,1M,Railroad Commissioner,,DEM,Chrysta Castaneda,26,13,7,6
@@ -607,9 +607,9 @@ Henderson,1MN,U.S. Senate,,REP,John Anthony Castro,7,6,1,0
 Henderson,1MN,U.S. Senate,,REP,Virgil Bierschwale,0,0,0,0
 Henderson,1MN,U.S. Senate,,REP,Dwayne Stovall,22,15,6,1
 Henderson,1MN,U.S. Senate,,REP,Total Votes Cast,259,153,83,23
-Henderson,1MN,"US Representative, Dist 5",,REP,Lance Gooden,212,119,72,21
-Henderson,1MN,"US Representative, Dist 5",,REP,Don Hill,48,35,11,2
-Henderson,1MN,"US Representative, Dist 5",,REP,Total Votes Cast,260,154,83,23
+Henderson,1MN,U.S. House,5,REP,Lance Gooden,212,119,72,21
+Henderson,1MN,U.S. House,5,REP,Don Hill,48,35,11,2
+Henderson,1MN,U.S. House,5,REP,Total Votes Cast,260,154,83,23
 Henderson,1MN,Railroad Commissioner,,REP,"James ""Jim"" Wright",185,119,51,15
 Henderson,1MN,Railroad Commissioner,,REP,Ryan Sitton,66,28,29,9
 Henderson,1MN,Railroad Commissioner,,REP,Total Votes Cast,251,147,80,24
@@ -715,8 +715,8 @@ Henderson,1MN,U.S. Senate,,DEM,Chris Bell,6,4,1,1
 Henderson,1MN,U.S. Senate,,DEM,Sema Hernandez,5,4,1,0
 Henderson,1MN,U.S. Senate,,DEM,Adrian Ocegueda,0,0,0,0
 Henderson,1MN,U.S. Senate,,DEM,Total Votes Cast,100,66,18,16
-Henderson,1MN,"US Representative, Dist 5",,DEM,Carolyn Salter,93,65,16,12
-Henderson,1MN,"US Representative, Dist 5",,DEM,Total Votes Cast,93,65,16,12
+Henderson,1MN,U.S. House,5,DEM,Carolyn Salter,93,65,16,12
+Henderson,1MN,U.S. House,5,DEM,Total Votes Cast,93,65,16,12
 Henderson,1MN,Railroad Commissioner,,DEM,Kelly Stone,37,29,7,1
 Henderson,1MN,Railroad Commissioner,,DEM,Mark Watson,22,15,4,3
 Henderson,1MN,Railroad Commissioner,,DEM,Chrysta Castaneda,21,13,3,5
@@ -802,9 +802,9 @@ Henderson,1T,U.S. Senate,,REP,John Anthony Castro,13,9,3,1
 Henderson,1T,U.S. Senate,,REP,Virgil Bierschwale,0,0,0,0
 Henderson,1T,U.S. Senate,,REP,Dwayne Stovall,37,15,21,1
 Henderson,1T,U.S. Senate,,REP,Total Votes Cast,431,202,181,48
-Henderson,1T,"US Representative, Dist 5",,REP,Lance Gooden,390,184,162,44
-Henderson,1T,"US Representative, Dist 5",,REP,Don Hill,39,18,19,2
-Henderson,1T,"US Representative, Dist 5",,REP,Total Votes Cast,429,202,181,46
+Henderson,1T,U.S. House,5,REP,Lance Gooden,390,184,162,44
+Henderson,1T,U.S. House,5,REP,Don Hill,39,18,19,2
+Henderson,1T,U.S. House,5,REP,Total Votes Cast,429,202,181,46
 Henderson,1T,Railroad Commissioner,,REP,"James ""Jim"" Wright",299,145,124,30
 Henderson,1T,Railroad Commissioner,,REP,Ryan Sitton,118,55,50,13
 Henderson,1T,Railroad Commissioner,,REP,Total Votes Cast,417,200,174,43
@@ -912,8 +912,8 @@ Henderson,1T,U.S. Senate,,DEM,Chris Bell,9,6,3,0
 Henderson,1T,U.S. Senate,,DEM,Sema Hernandez,4,2,2,0
 Henderson,1T,U.S. Senate,,DEM,Adrian Ocegueda,1,0,1,0
 Henderson,1T,U.S. Senate,,DEM,Total Votes Cast,98,57,35,6
-Henderson,1T,"US Representative, Dist 5",,DEM,Carolyn Salter,90,55,30,5
-Henderson,1T,"US Representative, Dist 5",,DEM,Total Votes Cast,90,55,30,5
+Henderson,1T,U.S. House,5,DEM,Carolyn Salter,90,55,30,5
+Henderson,1T,U.S. House,5,DEM,Total Votes Cast,90,55,30,5
 Henderson,1T,Railroad Commissioner,,DEM,Kelly Stone,30,20,9,1
 Henderson,1T,Railroad Commissioner,,DEM,Mark Watson,27,18,7,2
 Henderson,1T,Railroad Commissioner,,DEM,Chrysta Castaneda,16,6,8,2
@@ -999,9 +999,9 @@ Henderson,1TC,U.S. Senate,,REP,John Anthony Castro,17,9,8,0
 Henderson,1TC,U.S. Senate,,REP,Virgil Bierschwale,3,2,1,0
 Henderson,1TC,U.S. Senate,,REP,Dwayne Stovall,61,24,33,4
 Henderson,1TC,U.S. Senate,,REP,Total Votes Cast,611,251,314,46
-Henderson,1TC,"US Representative, Dist 5",,REP,Lance Gooden,537,214,281,42
-Henderson,1TC,"US Representative, Dist 5",,REP,Don Hill,78,39,35,4
-Henderson,1TC,"US Representative, Dist 5",,REP,Total Votes Cast,615,253,316,46
+Henderson,1TC,U.S. House,5,REP,Lance Gooden,537,214,281,42
+Henderson,1TC,U.S. House,5,REP,Don Hill,78,39,35,4
+Henderson,1TC,U.S. House,5,REP,Total Votes Cast,615,253,316,46
 Henderson,1TC,Railroad Commissioner,,REP,"James ""Jim"" Wright",404,171,201,32
 Henderson,1TC,Railroad Commissioner,,REP,Ryan Sitton,185,62,109,14
 Henderson,1TC,Railroad Commissioner,,REP,Total Votes Cast,589,233,310,46
@@ -1109,8 +1109,8 @@ Henderson,1TC,U.S. Senate,,DEM,Chris Bell,19,12,5,2
 Henderson,1TC,U.S. Senate,,DEM,Sema Hernandez,8,5,1,2
 Henderson,1TC,U.S. Senate,,DEM,Adrian Ocegueda,1,1,0,0
 Henderson,1TC,U.S. Senate,,DEM,Total Votes Cast,165,99,49,17
-Henderson,1TC,"US Representative, Dist 5",,DEM,Carolyn Salter,152,90,46,16
-Henderson,1TC,"US Representative, Dist 5",,DEM,Total Votes Cast,152,90,46,16
+Henderson,1TC,U.S. House,5,DEM,Carolyn Salter,152,90,46,16
+Henderson,1TC,U.S. House,5,DEM,Total Votes Cast,152,90,46,16
 Henderson,1TC,Railroad Commissioner,,DEM,Kelly Stone,48,28,13,7
 Henderson,1TC,Railroad Commissioner,,DEM,Mark Watson,35,21,10,4
 Henderson,1TC,Railroad Commissioner,,DEM,Chrysta Castaneda,45,22,18,5
@@ -1196,9 +1196,9 @@ Henderson,2,U.S. Senate,,REP,John Anthony Castro,3,2,1,0
 Henderson,2,U.S. Senate,,REP,Virgil Bierschwale,0,0,0,0
 Henderson,2,U.S. Senate,,REP,Dwayne Stovall,13,4,9,0
 Henderson,2,U.S. Senate,,REP,Total Votes Cast,136,65,66,5
-Henderson,2,"US Representative, Dist 5",,REP,Lance Gooden,107,49,56,2
-Henderson,2,"US Representative, Dist 5",,REP,Don Hill,29,16,11,2
-Henderson,2,"US Representative, Dist 5",,REP,Total Votes Cast,136,65,67,4
+Henderson,2,U.S. House,5,REP,Lance Gooden,107,49,56,2
+Henderson,2,U.S. House,5,REP,Don Hill,29,16,11,2
+Henderson,2,U.S. House,5,REP,Total Votes Cast,136,65,67,4
 Henderson,2,Railroad Commissioner,,REP,"James ""Jim"" Wright",96,44,49,3
 Henderson,2,Railroad Commissioner,,REP,Ryan Sitton,35,16,17,2
 Henderson,2,Railroad Commissioner,,REP,Total Votes Cast,131,60,66,5
@@ -1300,8 +1300,8 @@ Henderson,2,U.S. Senate,,DEM,Chris Bell,3,1,2,0
 Henderson,2,U.S. Senate,,DEM,Sema Hernandez,2,0,2,0
 Henderson,2,U.S. Senate,,DEM,Adrian Ocegueda,2,1,1,0
 Henderson,2,U.S. Senate,,DEM,Total Votes Cast,30,13,15,2
-Henderson,2,"US Representative, Dist 5",,DEM,Carolyn Salter,28,12,14,2
-Henderson,2,"US Representative, Dist 5",,DEM,Total Votes Cast,28,12,14,2
+Henderson,2,U.S. House,5,DEM,Carolyn Salter,28,12,14,2
+Henderson,2,U.S. House,5,DEM,Total Votes Cast,28,12,14,2
 Henderson,2,Railroad Commissioner,,DEM,Kelly Stone,5,1,3,1
 Henderson,2,Railroad Commissioner,,DEM,Mark Watson,9,6,3,0
 Henderson,2,Railroad Commissioner,,DEM,Chrysta Castaneda,9,3,5,1
@@ -1387,9 +1387,9 @@ Henderson,2E,U.S. Senate,,REP,John Anthony Castro,15,13,2,0
 Henderson,2E,U.S. Senate,,REP,Virgil Bierschwale,0,0,0,0
 Henderson,2E,U.S. Senate,,REP,Dwayne Stovall,44,27,15,2
 Henderson,2E,U.S. Senate,,REP,Total Votes Cast,398,260,121,17
-Henderson,2E,"US Representative, Dist 5",,REP,Lance Gooden,354,230,107,17
-Henderson,2E,"US Representative, Dist 5",,REP,Don Hill,51,35,16,0
-Henderson,2E,"US Representative, Dist 5",,REP,Total Votes Cast,405,265,123,17
+Henderson,2E,U.S. House,5,REP,Lance Gooden,354,230,107,17
+Henderson,2E,U.S. House,5,REP,Don Hill,51,35,16,0
+Henderson,2E,U.S. House,5,REP,Total Votes Cast,405,265,123,17
 Henderson,2E,Railroad Commissioner,,REP,"James ""Jim"" Wright",292,192,90,10
 Henderson,2E,Railroad Commissioner,,REP,Ryan Sitton,98,64,28,6
 Henderson,2E,Railroad Commissioner,,REP,Total Votes Cast,390,256,118,16
@@ -1491,8 +1491,8 @@ Henderson,2E,U.S. Senate,,DEM,Chris Bell,7,4,1,2
 Henderson,2E,U.S. Senate,,DEM,Sema Hernandez,3,3,0,0
 Henderson,2E,U.S. Senate,,DEM,Adrian Ocegueda,1,1,0,0
 Henderson,2E,U.S. Senate,,DEM,Total Votes Cast,84,56,19,9
-Henderson,2E,"US Representative, Dist 5",,DEM,Carolyn Salter,77,53,17,7
-Henderson,2E,"US Representative, Dist 5",,DEM,Total Votes Cast,77,53,17,7
+Henderson,2E,U.S. House,5,DEM,Carolyn Salter,77,53,17,7
+Henderson,2E,U.S. House,5,DEM,Total Votes Cast,77,53,17,7
 Henderson,2E,Railroad Commissioner,,DEM,Kelly Stone,30,18,7,5
 Henderson,2E,Railroad Commissioner,,DEM,Mark Watson,16,9,5,2
 Henderson,2E,Railroad Commissioner,,DEM,Chrysta Castaneda,15,9,4,2
@@ -1578,9 +1578,9 @@ Henderson,2GBS,U.S. Senate,,REP,John Anthony Castro,13,10,1,2
 Henderson,2GBS,U.S. Senate,,REP,Virgil Bierschwale,1,0,1,0
 Henderson,2GBS,U.S. Senate,,REP,Dwayne Stovall,29,13,13,3
 Henderson,2GBS,U.S. Senate,,REP,Total Votes Cast,356,195,125,36
-Henderson,2GBS,"US Representative, Dist 5",,REP,Lance Gooden,314,166,112,36
-Henderson,2GBS,"US Representative, Dist 5",,REP,Don Hill,42,32,10,0
-Henderson,2GBS,"US Representative, Dist 5",,REP,Total Votes Cast,356,198,122,36
+Henderson,2GBS,U.S. House,5,REP,Lance Gooden,314,166,112,36
+Henderson,2GBS,U.S. House,5,REP,Don Hill,42,32,10,0
+Henderson,2GBS,U.S. House,5,REP,Total Votes Cast,356,198,122,36
 Henderson,2GBS,Railroad Commissioner,,REP,"James ""Jim"" Wright",260,147,91,22
 Henderson,2GBS,Railroad Commissioner,,REP,Ryan Sitton,92,49,30,13
 Henderson,2GBS,Railroad Commissioner,,REP,Total Votes Cast,352,196,121,35
@@ -1682,8 +1682,8 @@ Henderson,2GBS,U.S. Senate,,DEM,Chris Bell,9,2,7,0
 Henderson,2GBS,U.S. Senate,,DEM,Sema Hernandez,1,1,0,0
 Henderson,2GBS,U.S. Senate,,DEM,Adrian Ocegueda,3,2,1,0
 Henderson,2GBS,U.S. Senate,,DEM,Total Votes Cast,96,50,34,12
-Henderson,2GBS,"US Representative, Dist 5",,DEM,Carolyn Salter,87,43,32,12
-Henderson,2GBS,"US Representative, Dist 5",,DEM,Total Votes Cast,87,43,32,12
+Henderson,2GBS,U.S. House,5,DEM,Carolyn Salter,87,43,32,12
+Henderson,2GBS,U.S. House,5,DEM,Total Votes Cast,87,43,32,12
 Henderson,2GBS,Railroad Commissioner,,DEM,Kelly Stone,42,18,20,4
 Henderson,2GBS,Railroad Commissioner,,DEM,Mark Watson,19,11,5,3
 Henderson,2GBS,Railroad Commissioner,,DEM,Chrysta Castaneda,15,9,4,2
@@ -1769,9 +1769,9 @@ Henderson,2GBN,U.S. Senate,,REP,John Anthony Castro,22,16,6,0
 Henderson,2GBN,U.S. Senate,,REP,Virgil Bierschwale,6,4,2,0
 Henderson,2GBN,U.S. Senate,,REP,Dwayne Stovall,88,53,34,1
 Henderson,2GBN,U.S. Senate,,REP,Total Votes Cast,899,440,409,50
-Henderson,2GBN,"US Representative, Dist 5",,REP,Lance Gooden,788,376,364,48
-Henderson,2GBN,"US Representative, Dist 5",,REP,Don Hill,119,64,52,3
-Henderson,2GBN,"US Representative, Dist 5",,REP,Total Votes Cast,907,440,416,51
+Henderson,2GBN,U.S. House,5,REP,Lance Gooden,788,376,364,48
+Henderson,2GBN,U.S. House,5,REP,Don Hill,119,64,52,3
+Henderson,2GBN,U.S. House,5,REP,Total Votes Cast,907,440,416,51
 Henderson,2GBN,Railroad Commissioner,,REP,"James ""Jim"" Wright",666,318,306,42
 Henderson,2GBN,Railroad Commissioner,,REP,Ryan Sitton,207,110,93,4
 Henderson,2GBN,Railroad Commissioner,,REP,Total Votes Cast,873,428,399,46
@@ -1873,8 +1873,8 @@ Henderson,2GBN,U.S. Senate,,DEM,Chris Bell,18,12,6,0
 Henderson,2GBN,U.S. Senate,,DEM,Sema Hernandez,5,2,3,0
 Henderson,2GBN,U.S. Senate,,DEM,Adrian Ocegueda,3,2,1,0
 Henderson,2GBN,U.S. Senate,,DEM,Total Votes Cast,194,114,60,20
-Henderson,2GBN,"US Representative, Dist 5",,DEM,Carolyn Salter,178,104,56,18
-Henderson,2GBN,"US Representative, Dist 5",,DEM,Total Votes Cast,178,104,56,18
+Henderson,2GBN,U.S. House,5,DEM,Carolyn Salter,178,104,56,18
+Henderson,2GBN,U.S. House,5,DEM,Total Votes Cast,178,104,56,18
 Henderson,2GBN,Railroad Commissioner,,DEM,Kelly Stone,66,38,19,9
 Henderson,2GBN,Railroad Commissioner,,DEM,Mark Watson,52,31,15,6
 Henderson,2GBN,Railroad Commissioner,,DEM,Chrysta Castaneda,41,22,14,5
@@ -1960,9 +1960,9 @@ Henderson,2PSN,U.S. Senate,,REP,John Anthony Castro,5,4,0,1
 Henderson,2PSN,U.S. Senate,,REP,Virgil Bierschwale,1,1,0,0
 Henderson,2PSN,U.S. Senate,,REP,Dwayne Stovall,29,29,0,0
 Henderson,2PSN,U.S. Senate,,REP,Total Votes Cast,218,181,0,37
-Henderson,2PSN,"US Representative, Dist 5",,REP,Lance Gooden,192,154,0,38
-Henderson,2PSN,"US Representative, Dist 5",,REP,Don Hill,31,31,0,0
-Henderson,2PSN,"US Representative, Dist 5",,REP,Total Votes Cast,223,185,0,38
+Henderson,2PSN,U.S. House,5,REP,Lance Gooden,192,154,0,38
+Henderson,2PSN,U.S. House,5,REP,Don Hill,31,31,0,0
+Henderson,2PSN,U.S. House,5,REP,Total Votes Cast,223,185,0,38
 Henderson,2PSN,Railroad Commissioner,,REP,"James ""Jim"" Wright",150,125,0,25
 Henderson,2PSN,Railroad Commissioner,,REP,Ryan Sitton,65,57,0,8
 Henderson,2PSN,Railroad Commissioner,,REP,Total Votes Cast,215,182,0,33
@@ -2064,8 +2064,8 @@ Henderson,2PSN,U.S. Senate,,DEM,Chris Bell,17,10,6,1
 Henderson,2PSN,U.S. Senate,,DEM,Sema Hernandez,8,6,1,1
 Henderson,2PSN,U.S. Senate,,DEM,Adrian Ocegueda,2,2,0,0
 Henderson,2PSN,U.S. Senate,,DEM,Total Votes Cast,169,97,53,19
-Henderson,2PSN,"US Representative, Dist 5",,DEM,Carolyn Salter,157,90,47,20
-Henderson,2PSN,"US Representative, Dist 5",,DEM,Total Votes Cast,157,90,47,20
+Henderson,2PSN,U.S. House,5,DEM,Carolyn Salter,157,90,47,20
+Henderson,2PSN,U.S. House,5,DEM,Total Votes Cast,157,90,47,20
 Henderson,2PSN,Railroad Commissioner,,DEM,Kelly Stone,52,25,19,8
 Henderson,2PSN,Railroad Commissioner,,DEM,Mark Watson,33,18,12,3
 Henderson,2PSN,Railroad Commissioner,,DEM,Chrysta Castaneda,45,30,11,4
@@ -2151,9 +2151,9 @@ Henderson,2PSS,U.S. Senate,,REP,John Anthony Castro,4,4,0,0
 Henderson,2PSS,U.S. Senate,,REP,Virgil Bierschwale,1,1,0,0
 Henderson,2PSS,U.S. Senate,,REP,Dwayne Stovall,36,15,19,2
 Henderson,2PSS,U.S. Senate,,REP,Total Votes Cast,318,171,120,27
-Henderson,2PSS,"US Representative, Dist 5",,REP,Lance Gooden,279,149,101,29
-Henderson,2PSS,"US Representative, Dist 5",,REP,Don Hill,46,26,19,1
-Henderson,2PSS,"US Representative, Dist 5",,REP,Total Votes Cast,325,175,120,30
+Henderson,2PSS,U.S. House,5,REP,Lance Gooden,279,149,101,29
+Henderson,2PSS,U.S. House,5,REP,Don Hill,46,26,19,1
+Henderson,2PSS,U.S. House,5,REP,Total Votes Cast,325,175,120,30
 Henderson,2PSS,Railroad Commissioner,,REP,"James ""Jim"" Wright",220,127,72,21
 Henderson,2PSS,Railroad Commissioner,,REP,Ryan Sitton,91,40,46,5
 Henderson,2PSS,Railroad Commissioner,,REP,Total Votes Cast,311,167,118,26
@@ -2255,8 +2255,8 @@ Henderson,2PSS,U.S. Senate,,DEM,Chris Bell,5,4,1,0
 Henderson,2PSS,U.S. Senate,,DEM,Sema Hernandez,5,3,2,0
 Henderson,2PSS,U.S. Senate,,DEM,Adrian Ocegueda,0,0,0,0
 Henderson,2PSS,U.S. Senate,,DEM,Total Votes Cast,74,41,17,16
-Henderson,2PSS,"US Representative, Dist 5",,DEM,Carolyn Salter,65,36,17,12
-Henderson,2PSS,"US Representative, Dist 5",,DEM,Total Votes Cast,65,36,17,12
+Henderson,2PSS,U.S. House,5,DEM,Carolyn Salter,65,36,17,12
+Henderson,2PSS,U.S. House,5,DEM,Total Votes Cast,65,36,17,12
 Henderson,2PSS,Railroad Commissioner,,DEM,Kelly Stone,37,18,8,11
 Henderson,2PSS,Railroad Commissioner,,DEM,Mark Watson,14,10,3,1
 Henderson,2PSS,Railroad Commissioner,,DEM,Chrysta Castaneda,11,4,5,2
@@ -2342,9 +2342,9 @@ Henderson,3,U.S. Senate,,REP,John Anthony Castro,4,2,2,0
 Henderson,3,U.S. Senate,,REP,Virgil Bierschwale,1,1,0,0
 Henderson,3,U.S. Senate,,REP,Dwayne Stovall,6,1,3,2
 Henderson,3,U.S. Senate,,REP,Total Votes Cast,84,28,39,17
-Henderson,3,"US Representative, Dist 5",,REP,Lance Gooden,73,21,33,19
-Henderson,3,"US Representative, Dist 5",,REP,Don Hill,16,7,8,1
-Henderson,3,"US Representative, Dist 5",,REP,Total Votes Cast,89,28,41,20
+Henderson,3,U.S. House,5,REP,Lance Gooden,73,21,33,19
+Henderson,3,U.S. House,5,REP,Don Hill,16,7,8,1
+Henderson,3,U.S. House,5,REP,Total Votes Cast,89,28,41,20
 Henderson,3,Railroad Commissioner,,REP,"James ""Jim"" Wright",61,22,28,11
 Henderson,3,Railroad Commissioner,,REP,Ryan Sitton,22,6,11,5
 Henderson,3,Railroad Commissioner,,REP,Total Votes Cast,83,28,39,16
@@ -2448,8 +2448,8 @@ Henderson,3,U.S. Senate,,DEM,Chris Bell,12,3,5,4
 Henderson,3,U.S. Senate,,DEM,Sema Hernandez,7,4,3,0
 Henderson,3,U.S. Senate,,DEM,Adrian Ocegueda,2,2,0,0
 Henderson,3,U.S. Senate,,DEM,Total Votes Cast,154,64,51,39
-Henderson,3,"US Representative, Dist 5",,DEM,Carolyn Salter,123,53,40,30
-Henderson,3,"US Representative, Dist 5",,DEM,Total Votes Cast,123,53,40,30
+Henderson,3,U.S. House,5,DEM,Carolyn Salter,123,53,40,30
+Henderson,3,U.S. House,5,DEM,Total Votes Cast,123,53,40,30
 Henderson,3,Railroad Commissioner,,DEM,Kelly Stone,40,17,11,12
 Henderson,3,Railroad Commissioner,,DEM,Mark Watson,44,20,17,7
 Henderson,3,Railroad Commissioner,,DEM,Chrysta Castaneda,27,11,8,8
@@ -2535,9 +2535,9 @@ Henderson,3B,U.S. Senate,,REP,John Anthony Castro,6,5,1,0
 Henderson,3B,U.S. Senate,,REP,Virgil Bierschwale,0,0,0,0
 Henderson,3B,U.S. Senate,,REP,Dwayne Stovall,105,74,29,2
 Henderson,3B,U.S. Senate,,REP,Total Votes Cast,655,366,248,41
-Henderson,3B,"US Representative, Dist 5",,REP,Lance Gooden,587,328,218,41
-Henderson,3B,"US Representative, Dist 5",,REP,Don Hill,80,47,31,2
-Henderson,3B,"US Representative, Dist 5",,REP,Total Votes Cast,667,375,249,43
+Henderson,3B,U.S. House,5,REP,Lance Gooden,587,328,218,41
+Henderson,3B,U.S. House,5,REP,Don Hill,80,47,31,2
+Henderson,3B,U.S. House,5,REP,Total Votes Cast,667,375,249,43
 Henderson,3B,Railroad Commissioner,,REP,"James ""Jim"" Wright",449,252,171,26
 Henderson,3B,Railroad Commissioner,,REP,Ryan Sitton,182,106,65,11
 Henderson,3B,Railroad Commissioner,,REP,Total Votes Cast,631,358,236,37
@@ -2641,8 +2641,8 @@ Henderson,3B,U.S. Senate,,DEM,Chris Bell,10,10,0,0
 Henderson,3B,U.S. Senate,,DEM,Sema Hernandez,8,5,2,1
 Henderson,3B,U.S. Senate,,DEM,Adrian Ocegueda,1,1,0,0
 Henderson,3B,U.S. Senate,,DEM,Total Votes Cast,90,57,25,8
-Henderson,3B,"US Representative, Dist 5",,DEM,Carolyn Salter,85,52,24,9
-Henderson,3B,"US Representative, Dist 5",,DEM,Total Votes Cast,85,52,24,9
+Henderson,3B,U.S. House,5,DEM,Carolyn Salter,85,52,24,9
+Henderson,3B,U.S. House,5,DEM,Total Votes Cast,85,52,24,9
 Henderson,3B,Railroad Commissioner,,DEM,Kelly Stone,22,16,5,1
 Henderson,3B,Railroad Commissioner,,DEM,Mark Watson,24,15,8,1
 Henderson,3B,Railroad Commissioner,,DEM,Chrysta Castaneda,19,8,7,4
@@ -2728,9 +2728,9 @@ Henderson,3C,U.S. Senate,,REP,John Anthony Castro,30,17,13,0
 Henderson,3C,U.S. Senate,,REP,Virgil Bierschwale,4,4,0,0
 Henderson,3C,U.S. Senate,,REP,Dwayne Stovall,141,63,75,3
 Henderson,3C,U.S. Senate,,REP,Total Votes Cast,1054,448,541,65
-Henderson,3C,"US Representative, Dist 5",,REP,Lance Gooden,925,387,478,60
-Henderson,3C,"US Representative, Dist 5",,REP,Don Hill,140,66,69,5
-Henderson,3C,"US Representative, Dist 5",,REP,Total Votes Cast,1065,453,547,65
+Henderson,3C,U.S. House,5,REP,Lance Gooden,925,387,478,60
+Henderson,3C,U.S. House,5,REP,Don Hill,140,66,69,5
+Henderson,3C,U.S. House,5,REP,Total Votes Cast,1065,453,547,65
 Henderson,3C,Railroad Commissioner,,REP,"James ""Jim"" Wright",734,317,375,42
 Henderson,3C,Railroad Commissioner,,REP,Ryan Sitton,277,114,146,17
 Henderson,3C,Railroad Commissioner,,REP,Total Votes Cast,1011,431,521,59
@@ -2834,8 +2834,8 @@ Henderson,3C,U.S. Senate,,DEM,Chris Bell,29,13,13,3
 Henderson,3C,U.S. Senate,,DEM,Sema Hernandez,7,7,0,0
 Henderson,3C,U.S. Senate,,DEM,Adrian Ocegueda,1,0,1,0
 Henderson,3C,U.S. Senate,,DEM,Total Votes Cast,218,106,92,20
-Henderson,3C,"US Representative, Dist 5",,DEM,Carolyn Salter,207,101,86,20
-Henderson,3C,"US Representative, Dist 5",,DEM,Total Votes Cast,207,101,86,20
+Henderson,3C,U.S. House,5,DEM,Carolyn Salter,207,101,86,20
+Henderson,3C,U.S. House,5,DEM,Total Votes Cast,207,101,86,20
 Henderson,3C,Railroad Commissioner,,DEM,Kelly Stone,61,31,20,10
 Henderson,3C,Railroad Commissioner,,DEM,Mark Watson,59,27,28,4
 Henderson,3C,Railroad Commissioner,,DEM,Chrysta Castaneda,46,22,20,4
@@ -2921,9 +2921,9 @@ Henderson,3N,U.S. Senate,,REP,John Anthony Castro,3,2,1,0
 Henderson,3N,U.S. Senate,,REP,Virgil Bierschwale,3,2,1,0
 Henderson,3N,U.S. Senate,,REP,Dwayne Stovall,46,26,18,2
 Henderson,3N,U.S. Senate,,REP,Total Votes Cast,509,232,237,40
-Henderson,3N,"US Representative, Dist 5",,REP,Lance Gooden,429,187,203,39
-Henderson,3N,"US Representative, Dist 5",,REP,Don Hill,83,51,32,0
-Henderson,3N,"US Representative, Dist 5",,REP,Total Votes Cast,512,238,235,39
+Henderson,3N,U.S. House,5,REP,Lance Gooden,429,187,203,39
+Henderson,3N,U.S. House,5,REP,Don Hill,83,51,32,0
+Henderson,3N,U.S. House,5,REP,Total Votes Cast,512,238,235,39
 Henderson,3N,Railroad Commissioner,,REP,"James ""Jim"" Wright",383,187,172,24
 Henderson,3N,Railroad Commissioner,,REP,Ryan Sitton,117,42,63,12
 Henderson,3N,Railroad Commissioner,,REP,Total Votes Cast,500,229,235,36
@@ -3027,8 +3027,8 @@ Henderson,3N,U.S. Senate,,DEM,Chris Bell,12,8,3,1
 Henderson,3N,U.S. Senate,,DEM,Sema Hernandez,4,3,1,0
 Henderson,3N,U.S. Senate,,DEM,Adrian Ocegueda,1,0,1,0
 Henderson,3N,U.S. Senate,,DEM,Total Votes Cast,82,41,33,8
-Henderson,3N,"US Representative, Dist 5",,DEM,Carolyn Salter,76,39,31,6
-Henderson,3N,"US Representative, Dist 5",,DEM,Total Votes Cast,76,39,31,6
+Henderson,3N,U.S. House,5,DEM,Carolyn Salter,76,39,31,6
+Henderson,3N,U.S. House,5,DEM,Total Votes Cast,76,39,31,6
 Henderson,3N,Railroad Commissioner,,DEM,Kelly Stone,34,16,14,4
 Henderson,3N,Railroad Commissioner,,DEM,Mark Watson,19,10,7,2
 Henderson,3N,Railroad Commissioner,,DEM,Chrysta Castaneda,20,11,6,3
@@ -3114,9 +3114,9 @@ Henderson,3M,U.S. Senate,,REP,John Anthony Castro,7,5,2,0
 Henderson,3M,U.S. Senate,,REP,Virgil Bierschwale,0,0,0,0
 Henderson,3M,U.S. Senate,,REP,Dwayne Stovall,29,18,9,2
 Henderson,3M,U.S. Senate,,REP,Total Votes Cast,348,195,109,44
-Henderson,3M,"US Representative, Dist 5",,REP,Lance Gooden,291,154,98,39
-Henderson,3M,"US Representative, Dist 5",,REP,Don Hill,63,46,13,4
-Henderson,3M,"US Representative, Dist 5",,REP,Total Votes Cast,354,200,111,43
+Henderson,3M,U.S. House,5,REP,Lance Gooden,291,154,98,39
+Henderson,3M,U.S. House,5,REP,Don Hill,63,46,13,4
+Henderson,3M,U.S. House,5,REP,Total Votes Cast,354,200,111,43
 Henderson,3M,Railroad Commissioner,,REP,"James ""Jim"" Wright",262,150,84,28
 Henderson,3M,Railroad Commissioner,,REP,Ryan Sitton,81,42,26,13
 Henderson,3M,Railroad Commissioner,,REP,Total Votes Cast,343,192,110,41
@@ -3220,8 +3220,8 @@ Henderson,3M,U.S. Senate,,DEM,Chris Bell,5,4,1,0
 Henderson,3M,U.S. Senate,,DEM,Sema Hernandez,5,3,2,0
 Henderson,3M,U.S. Senate,,DEM,Adrian Ocegueda,0,0,0,0
 Henderson,3M,U.S. Senate,,DEM,Total Votes Cast,64,33,18,13
-Henderson,3M,"US Representative, Dist 5",,DEM,Carolyn Salter,64,33,18,13
-Henderson,3M,"US Representative, Dist 5",,DEM,Total Votes Cast,64,33,18,13
+Henderson,3M,U.S. House,5,DEM,Carolyn Salter,64,33,18,13
+Henderson,3M,U.S. House,5,DEM,Total Votes Cast,64,33,18,13
 Henderson,3M,Railroad Commissioner,,DEM,Kelly Stone,18,11,3,4
 Henderson,3M,Railroad Commissioner,,DEM,Mark Watson,20,7,9,4
 Henderson,3M,Railroad Commissioner,,DEM,Chrysta Castaneda,16,11,4,1
@@ -3307,9 +3307,9 @@ Henderson,3WS,U.S. Senate,,REP,John Anthony Castro,8,8,0,0
 Henderson,3WS,U.S. Senate,,REP,Virgil Bierschwale,4,3,1,0
 Henderson,3WS,U.S. Senate,,REP,Dwayne Stovall,44,28,13,3
 Henderson,3WS,U.S. Senate,,REP,Total Votes Cast,338,174,135,29
-Henderson,3WS,"US Representative, Dist 5",,REP,Lance Gooden,292,147,117,28
-Henderson,3WS,"US Representative, Dist 5",,REP,Don Hill,48,27,20,1
-Henderson,3WS,"US Representative, Dist 5",,REP,Total Votes Cast,340,174,137,29
+Henderson,3WS,U.S. House,5,REP,Lance Gooden,292,147,117,28
+Henderson,3WS,U.S. House,5,REP,Don Hill,48,27,20,1
+Henderson,3WS,U.S. House,5,REP,Total Votes Cast,340,174,137,29
 Henderson,3WS,Railroad Commissioner,,REP,"James ""Jim"" Wright",229,127,90,12
 Henderson,3WS,Railroad Commissioner,,REP,Ryan Sitton,88,43,38,7
 Henderson,3WS,Railroad Commissioner,,REP,Total Votes Cast,317,170,128,19
@@ -3413,8 +3413,8 @@ Henderson,3WS,U.S. Senate,,DEM,Chris Bell,8,7,1,0
 Henderson,3WS,U.S. Senate,,DEM,Sema Hernandez,6,5,1,0
 Henderson,3WS,U.S. Senate,,DEM,Adrian Ocegueda,1,1,0,0
 Henderson,3WS,U.S. Senate,,DEM,Total Votes Cast,76,47,23,6
-Henderson,3WS,"US Representative, Dist 5",,DEM,Carolyn Salter,65,38,21,6
-Henderson,3WS,"US Representative, Dist 5",,DEM,Total Votes Cast,65,38,21,6
+Henderson,3WS,U.S. House,5,DEM,Carolyn Salter,65,38,21,6
+Henderson,3WS,U.S. House,5,DEM,Total Votes Cast,65,38,21,6
 Henderson,3WS,Railroad Commissioner,,DEM,Kelly Stone,32,20,9,3
 Henderson,3WS,Railroad Commissioner,,DEM,Mark Watson,20,15,3,2
 Henderson,3WS,Railroad Commissioner,,DEM,Chrysta Castaneda,10,6,4,0
@@ -3500,9 +3500,9 @@ Henderson,4,U.S. Senate,,REP,John Anthony Castro,24,14,10,0
 Henderson,4,U.S. Senate,,REP,Virgil Bierschwale,4,1,3,0
 Henderson,4,U.S. Senate,,REP,Dwayne Stovall,40,24,14,2
 Henderson,4,U.S. Senate,,REP,Total Votes Cast,841,312,434,95
-Henderson,4,"US Representative, Dist 5",,REP,Lance Gooden,741,269,380,92
-Henderson,4,"US Representative, Dist 5",,REP,Don Hill,129,56,68,5
-Henderson,4,"US Representative, Dist 5",,REP,Total Votes Cast,870,325,448,97
+Henderson,4,U.S. House,5,REP,Lance Gooden,741,269,380,92
+Henderson,4,U.S. House,5,REP,Don Hill,129,56,68,5
+Henderson,4,U.S. House,5,REP,Total Votes Cast,870,325,448,97
 Henderson,4,Railroad Commissioner,,REP,"James ""Jim"" Wright",622,241,311,70
 Henderson,4,Railroad Commissioner,,REP,Ryan Sitton,180,56,106,18
 Henderson,4,Railroad Commissioner,,REP,Total Votes Cast,802,297,417,88
@@ -3611,8 +3611,8 @@ Henderson,4,U.S. Senate,,DEM,Chris Bell,35,23,9,3
 Henderson,4,U.S. Senate,,DEM,Sema Hernandez,7,4,3,0
 Henderson,4,U.S. Senate,,DEM,Adrian Ocegueda,6,5,1,0
 Henderson,4,U.S. Senate,,DEM,Total Votes Cast,218,127,75,16
-Henderson,4,"US Representative, Dist 5",,DEM,Carolyn Salter,199,113,68,18
-Henderson,4,"US Representative, Dist 5",,DEM,Total Votes Cast,199,113,68,18
+Henderson,4,U.S. House,5,DEM,Carolyn Salter,199,113,68,18
+Henderson,4,U.S. House,5,DEM,Total Votes Cast,199,113,68,18
 Henderson,4,Railroad Commissioner,,DEM,Kelly Stone,49,30,16,3
 Henderson,4,Railroad Commissioner,,DEM,Mark Watson,49,28,18,3
 Henderson,4,Railroad Commissioner,,DEM,Chrysta Castaneda,60,33,19,8
@@ -3698,9 +3698,9 @@ Henderson,4A,U.S. Senate,,REP,John Anthony Castro,6,3,3,0
 Henderson,4A,U.S. Senate,,REP,Virgil Bierschwale,1,1,0,0
 Henderson,4A,U.S. Senate,,REP,Dwayne Stovall,10,8,2,0
 Henderson,4A,U.S. Senate,,REP,Total Votes Cast,127,62,53,12
-Henderson,4A,"US Representative, Dist 5",,REP,Lance Gooden,106,51,44,11
-Henderson,4A,"US Representative, Dist 5",,REP,Don Hill,22,12,9,1
-Henderson,4A,"US Representative, Dist 5",,REP,Total Votes Cast,128,63,53,12
+Henderson,4A,U.S. House,5,REP,Lance Gooden,106,51,44,11
+Henderson,4A,U.S. House,5,REP,Don Hill,22,12,9,1
+Henderson,4A,U.S. House,5,REP,Total Votes Cast,128,63,53,12
 Henderson,4A,Railroad Commissioner,,REP,"James ""Jim"" Wright",95,52,32,11
 Henderson,4A,Railroad Commissioner,,REP,Ryan Sitton,27,9,17,1
 Henderson,4A,Railroad Commissioner,,REP,Total Votes Cast,122,61,49,12
@@ -3808,8 +3808,8 @@ Henderson,4A,U.S. Senate,,DEM,Chris Bell,5,3,2,0
 Henderson,4A,U.S. Senate,,DEM,Sema Hernandez,4,3,1,0
 Henderson,4A,U.S. Senate,,DEM,Adrian Ocegueda,1,1,0,0
 Henderson,4A,U.S. Senate,,DEM,Total Votes Cast,49,25,16,8
-Henderson,4A,"US Representative, Dist 5",,DEM,Carolyn Salter,46,24,14,8
-Henderson,4A,"US Representative, Dist 5",,DEM,Total Votes Cast,46,24,14,8
+Henderson,4A,U.S. House,5,DEM,Carolyn Salter,46,24,14,8
+Henderson,4A,U.S. House,5,DEM,Total Votes Cast,46,24,14,8
 Henderson,4A,Railroad Commissioner,,DEM,Kelly Stone,6,3,1,2
 Henderson,4A,Railroad Commissioner,,DEM,Mark Watson,13,5,5,3
 Henderson,4A,Railroad Commissioner,,DEM,Chrysta Castaneda,15,8,7,0
@@ -3895,9 +3895,9 @@ Henderson,4BV,U.S. Senate,,REP,John Anthony Castro,2,2,0,0
 Henderson,4BV,U.S. Senate,,REP,Virgil Bierschwale,0,0,0,0
 Henderson,4BV,U.S. Senate,,REP,Dwayne Stovall,27,25,1,1
 Henderson,4BV,U.S. Senate,,REP,Total Votes Cast,206,165,30,11
-Henderson,4BV,"US Representative, Dist 5",,REP,Lance Gooden,171,136,24,11
-Henderson,4BV,"US Representative, Dist 5",,REP,Don Hill,36,30,6,0
-Henderson,4BV,"US Representative, Dist 5",,REP,Total Votes Cast,207,166,30,11
+Henderson,4BV,U.S. House,5,REP,Lance Gooden,171,136,24,11
+Henderson,4BV,U.S. House,5,REP,Don Hill,36,30,6,0
+Henderson,4BV,U.S. House,5,REP,Total Votes Cast,207,166,30,11
 Henderson,4BV,Railroad Commissioner,,REP,"James ""Jim"" Wright",133,107,19,7
 Henderson,4BV,Railroad Commissioner,,REP,Ryan Sitton,67,55,9,3
 Henderson,4BV,Railroad Commissioner,,REP,Total Votes Cast,200,162,28,10
@@ -4006,8 +4006,8 @@ Henderson,4BV,U.S. Senate,,DEM,Chris Bell,2,2,0,0
 Henderson,4BV,U.S. Senate,,DEM,Sema Hernandez,2,1,1,0
 Henderson,4BV,U.S. Senate,,DEM,Adrian Ocegueda,0,0,0,0
 Henderson,4BV,U.S. Senate,,DEM,Total Votes Cast,50,36,9,5
-Henderson,4BV,"US Representative, Dist 5",,DEM,Carolyn Salter,48,34,9,5
-Henderson,4BV,"US Representative, Dist 5",,DEM,Total Votes Cast,48,34,9,5
+Henderson,4BV,U.S. House,5,DEM,Carolyn Salter,48,34,9,5
+Henderson,4BV,U.S. House,5,DEM,Total Votes Cast,48,34,9,5
 Henderson,4BV,Railroad Commissioner,,DEM,Kelly Stone,15,12,2,1
 Henderson,4BV,Railroad Commissioner,,DEM,Mark Watson,10,5,2,3
 Henderson,4BV,Railroad Commissioner,,DEM,Chrysta Castaneda,14,11,2,1
@@ -4093,9 +4093,9 @@ Henderson,4CC,U.S. Senate,,REP,John Anthony Castro,6,5,1,0
 Henderson,4CC,U.S. Senate,,REP,Virgil Bierschwale,1,1,0,0
 Henderson,4CC,U.S. Senate,,REP,Dwayne Stovall,64,44,15,5
 Henderson,4CC,U.S. Senate,,REP,Total Votes Cast,349,223,96,30
-Henderson,4CC,"US Representative, Dist 5",,REP,Lance Gooden,290,176,87,27
-Henderson,4CC,"US Representative, Dist 5",,REP,Don Hill,59,47,9,3
-Henderson,4CC,"US Representative, Dist 5",,REP,Total Votes Cast,349,223,96,30
+Henderson,4CC,U.S. House,5,REP,Lance Gooden,290,176,87,27
+Henderson,4CC,U.S. House,5,REP,Don Hill,59,47,9,3
+Henderson,4CC,U.S. House,5,REP,Total Votes Cast,349,223,96,30
 Henderson,4CC,Railroad Commissioner,,REP,"James ""Jim"" Wright",244,150,72,22
 Henderson,4CC,Railroad Commissioner,,REP,Ryan Sitton,88,60,21,7
 Henderson,4CC,Railroad Commissioner,,REP,Total Votes Cast,332,210,93,29
@@ -4204,8 +4204,8 @@ Henderson,4CC,U.S. Senate,,DEM,Chris Bell,13,7,1,5
 Henderson,4CC,U.S. Senate,,DEM,Sema Hernandez,4,2,2,0
 Henderson,4CC,U.S. Senate,,DEM,Adrian Ocegueda,3,3,0,0
 Henderson,4CC,U.S. Senate,,DEM,Total Votes Cast,108,63,27,18
-Henderson,4CC,"US Representative, Dist 5",,DEM,Carolyn Salter,95,52,26,17
-Henderson,4CC,"US Representative, Dist 5",,DEM,Total Votes Cast,95,52,26,17
+Henderson,4CC,U.S. House,5,DEM,Carolyn Salter,95,52,26,17
+Henderson,4CC,U.S. House,5,DEM,Total Votes Cast,95,52,26,17
 Henderson,4CC,Railroad Commissioner,,DEM,Kelly Stone,33,19,8,6
 Henderson,4CC,Railroad Commissioner,,DEM,Mark Watson,25,17,3,5
 Henderson,4CC,Railroad Commissioner,,DEM,Chrysta Castaneda,20,8,8,4
@@ -4291,9 +4291,9 @@ Henderson,4MS,U.S. Senate,,REP,John Anthony Castro,2,2,0,0
 Henderson,4MS,U.S. Senate,,REP,Virgil Bierschwale,1,0,0,1
 Henderson,4MS,U.S. Senate,,REP,Dwayne Stovall,8,2,4,2
 Henderson,4MS,U.S. Senate,,REP,Total Votes Cast,57,32,21,4
-Henderson,4MS,"US Representative, Dist 5",,REP,Lance Gooden,54,31,19,4
-Henderson,4MS,"US Representative, Dist 5",,REP,Don Hill,4,2,2,0
-Henderson,4MS,"US Representative, Dist 5",,REP,Total Votes Cast,58,33,21,4
+Henderson,4MS,U.S. House,5,REP,Lance Gooden,54,31,19,4
+Henderson,4MS,U.S. House,5,REP,Don Hill,4,2,2,0
+Henderson,4MS,U.S. House,5,REP,Total Votes Cast,58,33,21,4
 Henderson,4MS,Railroad Commissioner,,REP,"James ""Jim"" Wright",37,22,14,1
 Henderson,4MS,Railroad Commissioner,,REP,Ryan Sitton,19,9,7,3
 Henderson,4MS,Railroad Commissioner,,REP,Total Votes Cast,56,31,21,4
@@ -4402,8 +4402,8 @@ Henderson,4MS,U.S. Senate,,DEM,Chris Bell,7,7,0,0
 Henderson,4MS,U.S. Senate,,DEM,Sema Hernandez,2,2,0,0
 Henderson,4MS,U.S. Senate,,DEM,Adrian Ocegueda,1,1,0,0
 Henderson,4MS,U.S. Senate,,DEM,Total Votes Cast,72,54,5,13
-Henderson,4MS,"US Representative, Dist 5",,DEM,Carolyn Salter,67,49,6,12
-Henderson,4MS,"US Representative, Dist 5",,DEM,Total Votes Cast,67,49,6,12
+Henderson,4MS,U.S. House,5,DEM,Carolyn Salter,67,49,6,12
+Henderson,4MS,U.S. House,5,DEM,Total Votes Cast,67,49,6,12
 Henderson,4MS,Railroad Commissioner,,DEM,Kelly Stone,19,16,2,1
 Henderson,4MS,Railroad Commissioner,,DEM,Mark Watson,18,14,1,3
 Henderson,4MS,Railroad Commissioner,,DEM,Chrysta Castaneda,7,6,1,0
@@ -4489,9 +4489,9 @@ Henderson,4NYL,U.S. Senate,,REP,John Anthony Castro,3,1,2,0
 Henderson,4NYL,U.S. Senate,,REP,Virgil Bierschwale,1,1,0,0
 Henderson,4NYL,U.S. Senate,,REP,Dwayne Stovall,42,27,15,0
 Henderson,4NYL,U.S. Senate,,REP,Total Votes Cast,368,215,129,24
-Henderson,4NYL,"US Representative, Dist 5",,REP,Lance Gooden,309,173,114,22
-Henderson,4NYL,"US Representative, Dist 5",,REP,Don Hill,65,48,15,2
-Henderson,4NYL,"US Representative, Dist 5",,REP,Total Votes Cast,374,221,129,24
+Henderson,4NYL,U.S. House,5,REP,Lance Gooden,309,173,114,22
+Henderson,4NYL,U.S. House,5,REP,Don Hill,65,48,15,2
+Henderson,4NYL,U.S. House,5,REP,Total Votes Cast,374,221,129,24
 Henderson,4NYL,Railroad Commissioner,,REP,"James ""Jim"" Wright",284,165,101,18
 Henderson,4NYL,Railroad Commissioner,,REP,Ryan Sitton,72,45,22,5
 Henderson,4NYL,Railroad Commissioner,,REP,Total Votes Cast,356,210,123,23
@@ -4600,8 +4600,8 @@ Henderson,4NYL,U.S. Senate,,DEM,Chris Bell,7,6,1,0
 Henderson,4NYL,U.S. Senate,,DEM,Sema Hernandez,0,0,0,0
 Henderson,4NYL,U.S. Senate,,DEM,Adrian Ocegueda,0,0,0,0
 Henderson,4NYL,U.S. Senate,,DEM,Total Votes Cast,25,17,7,1
-Henderson,4NYL,"US Representative, Dist 5",,DEM,Carolyn Salter,24,16,7,1
-Henderson,4NYL,"US Representative, Dist 5",,DEM,Total Votes Cast,24,16,7,1
+Henderson,4NYL,U.S. House,5,DEM,Carolyn Salter,24,16,7,1
+Henderson,4NYL,U.S. House,5,DEM,Total Votes Cast,24,16,7,1
 Henderson,4NYL,Railroad Commissioner,,DEM,Kelly Stone,6,3,3,0
 Henderson,4NYL,Railroad Commissioner,,DEM,Mark Watson,11,8,2,1
 Henderson,4NYL,Railroad Commissioner,,DEM,Chrysta Castaneda,4,3,1,0
@@ -4687,9 +4687,9 @@ Henderson,4PF,U.S. Senate,,REP,John Anthony Castro,5,5,0,0
 Henderson,4PF,U.S. Senate,,REP,Virgil Bierschwale,0,0,0,0
 Henderson,4PF,U.S. Senate,,REP,Dwayne Stovall,10,9,1,0
 Henderson,4PF,U.S. Senate,,REP,Total Votes Cast,135,108,20,7
-Henderson,4PF,"US Representative, Dist 5",,REP,Lance Gooden,123,96,20,7
-Henderson,4PF,"US Representative, Dist 5",,REP,Don Hill,16,15,1,0
-Henderson,4PF,"US Representative, Dist 5",,REP,Total Votes Cast,139,111,21,7
+Henderson,4PF,U.S. House,5,REP,Lance Gooden,123,96,20,7
+Henderson,4PF,U.S. House,5,REP,Don Hill,16,15,1,0
+Henderson,4PF,U.S. House,5,REP,Total Votes Cast,139,111,21,7
 Henderson,4PF,Railroad Commissioner,,REP,"James ""Jim"" Wright",109,86,16,7
 Henderson,4PF,Railroad Commissioner,,REP,Ryan Sitton,22,19,3,0
 Henderson,4PF,Railroad Commissioner,,REP,Total Votes Cast,131,105,19,7
@@ -4798,8 +4798,8 @@ Henderson,4PF,U.S. Senate,,DEM,Chris Bell,2,1,0,1
 Henderson,4PF,U.S. Senate,,DEM,Sema Hernandez,0,0,0,0
 Henderson,4PF,U.S. Senate,,DEM,Adrian Ocegueda,0,0,0,0
 Henderson,4PF,U.S. Senate,,DEM,Total Votes Cast,27,21,1,5
-Henderson,4PF,"US Representative, Dist 5",,DEM,Carolyn Salter,27,21,1,5
-Henderson,4PF,"US Representative, Dist 5",,DEM,Total Votes Cast,27,21,1,5
+Henderson,4PF,U.S. House,5,DEM,Carolyn Salter,27,21,1,5
+Henderson,4PF,U.S. House,5,DEM,Total Votes Cast,27,21,1,5
 Henderson,4PF,Railroad Commissioner,,DEM,Kelly Stone,8,7,1,0
 Henderson,4PF,Railroad Commissioner,,DEM,Mark Watson,8,5,0,3
 Henderson,4PF,Railroad Commissioner,,DEM,Chrysta Castaneda,3,3,0,0
@@ -4885,9 +4885,9 @@ Henderson,4SE,U.S. Senate,,REP,John Anthony Castro,27,10,17,0
 Henderson,4SE,U.S. Senate,,REP,Virgil Bierschwale,3,0,3,0
 Henderson,4SE,U.S. Senate,,REP,Dwayne Stovall,80,35,43,2
 Henderson,4SE,U.S. Senate,,REP,Total Votes Cast,1035,370,573,92
-Henderson,4SE,"US Representative, Dist 5",,REP,Lance Gooden,898,308,501,89
-Henderson,4SE,"US Representative, Dist 5",,REP,Don Hill,154,72,77,5
-Henderson,4SE,"US Representative, Dist 5",,REP,Total Votes Cast,1052,380,578,94
+Henderson,4SE,U.S. House,5,REP,Lance Gooden,898,308,501,89
+Henderson,4SE,U.S. House,5,REP,Don Hill,154,72,77,5
+Henderson,4SE,U.S. House,5,REP,Total Votes Cast,1052,380,578,94
 Henderson,4SE,Railroad Commissioner,,REP,"James ""Jim"" Wright",744,267,410,67
 Henderson,4SE,Railroad Commissioner,,REP,Ryan Sitton,248,89,139,20
 Henderson,4SE,Railroad Commissioner,,REP,Total Votes Cast,992,356,549,87
@@ -4996,8 +4996,8 @@ Henderson,4SE,U.S. Senate,,DEM,Chris Bell,22,13,6,3
 Henderson,4SE,U.S. Senate,,DEM,Sema Hernandez,9,7,1,1
 Henderson,4SE,U.S. Senate,,DEM,Adrian Ocegueda,3,3,0,0
 Henderson,4SE,U.S. Senate,,DEM,Total Votes Cast,194,93,67,34
-Henderson,4SE,"US Representative, Dist 5",,DEM,Carolyn Salter,172,81,60,31
-Henderson,4SE,"US Representative, Dist 5",,DEM,Total Votes Cast,172,81,60,31
+Henderson,4SE,U.S. House,5,DEM,Carolyn Salter,172,81,60,31
+Henderson,4SE,U.S. House,5,DEM,Total Votes Cast,172,81,60,31
 Henderson,4SE,Railroad Commissioner,,DEM,Kelly Stone,45,24,10,11
 Henderson,4SE,Railroad Commissioner,,DEM,Mark Watson,50,26,17,7
 Henderson,4SE,Railroad Commissioner,,DEM,Chrysta Castaneda,55,20,23,12
@@ -5083,9 +5083,9 @@ Henderson,4W,U.S. Senate,,REP,John Anthony Castro,8,6,1,1
 Henderson,4W,U.S. Senate,,REP,Virgil Bierschwale,3,1,2,0
 Henderson,4W,U.S. Senate,,REP,Dwayne Stovall,27,15,11,1
 Henderson,4W,U.S. Senate,,REP,Total Votes Cast,271,126,127,18
-Henderson,4W,"US Representative, Dist 5",,REP,Lance Gooden,244,113,115,16
-Henderson,4W,"US Representative, Dist 5",,REP,Don Hill,33,17,15,1
-Henderson,4W,"US Representative, Dist 5",,REP,Total Votes Cast,277,130,130,17
+Henderson,4W,U.S. House,5,REP,Lance Gooden,244,113,115,16
+Henderson,4W,U.S. House,5,REP,Don Hill,33,17,15,1
+Henderson,4W,U.S. House,5,REP,Total Votes Cast,277,130,130,17
 Henderson,4W,Railroad Commissioner,,REP,"James ""Jim"" Wright",197,99,90,8
 Henderson,4W,Railroad Commissioner,,REP,Ryan Sitton,64,21,35,8
 Henderson,4W,Railroad Commissioner,,REP,Total Votes Cast,261,120,125,16
@@ -5193,8 +5193,8 @@ Henderson,4W,U.S. Senate,,DEM,Chris Bell,7,2,5,0
 Henderson,4W,U.S. Senate,,DEM,Sema Hernandez,3,1,2,0
 Henderson,4W,U.S. Senate,,DEM,Adrian Ocegueda,0,0,0,0
 Henderson,4W,U.S. Senate,,DEM,Total Votes Cast,56,19,28,9
-Henderson,4W,"US Representative, Dist 5",,DEM,Carolyn Salter,53,19,25,9
-Henderson,4W,"US Representative, Dist 5",,DEM,Total Votes Cast,53,19,25,9
+Henderson,4W,U.S. House,5,DEM,Carolyn Salter,53,19,25,9
+Henderson,4W,U.S. House,5,DEM,Total Votes Cast,53,19,25,9
 Henderson,4W,Railroad Commissioner,,DEM,Kelly Stone,13,5,6,2
 Henderson,4W,Railroad Commissioner,,DEM,Mark Watson,20,7,11,2
 Henderson,4W,Railroad Commissioner,,DEM,Chrysta Castaneda,9,2,5,2
