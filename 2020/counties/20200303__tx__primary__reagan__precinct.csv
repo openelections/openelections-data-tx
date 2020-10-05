@@ -28,11 +28,11 @@ Reagan,1,U.S. Senate,,DEM,Victor Hugo Harris,0,0,0
 Reagan,1,U.S. Senate,,DEM,Amanda K. Edwards,0,0,0
 Reagan,1,U.S. Senate,,DEM,"Annie ""Mam"" Garcia",3,2,1
 Reagan,1,U.S. Senate,,DEM,Cristina Tzintzun Ramirez,0,0,0
-Reagan,1,United States Representative,23,DEM,Ricardo R. Madrid,0,0,0
-Reagan,1,United States Representative,23,DEM,"Rosalinda ""Rosey"" Ramos Abuabara",1,1,0
-Reagan,1,United States Representative,23,DEM,Gina Ortiz Jones,3,1,2
-Reagan,1,United States Representative,23,DEM,Efrain V Valdez,2,2,0
-Reagan,1,United States Representative,23,DEM,Jaime Escuder,0,0,0
+Reagan,1,U.S. House,23,DEM,Ricardo R. Madrid,0,0,0
+Reagan,1,U.S. House,23,DEM,"Rosalinda ""Rosey"" Ramos Abuabara",1,1,0
+Reagan,1,U.S. House,23,DEM,Gina Ortiz Jones,3,1,2
+Reagan,1,U.S. House,23,DEM,Efrain V Valdez,2,2,0
+Reagan,1,U.S. House,23,DEM,Jaime Escuder,0,0,0
 Reagan,1,Railroad Commissioner,,DEM,Chrysta Castaeda,3,2,1
 Reagan,1,Railroad Commissioner,,DEM,Mark Watson,0,0,0
 Reagan,1,Railroad Commissioner,,DEM,Kelly Stone,1,1,0
@@ -67,15 +67,15 @@ Reagan,1,U.S. Senate,,REP,Mark Yancey,6,0,6
 Reagan,1,U.S. Senate,,REP,Virgil Bierschwale,0,0,0
 Reagan,1,U.S. Senate,,REP,Dwayne Stovall,5,2,3
 Reagan,1,U.S. Senate,,REP,John Anthony Castro,12,6,6
-Reagan,1,United States Representative,23,REP,Tony Gonzales,18,7,11
-Reagan,1,United States Representative,23,REP,Raul Reyes,23,13,10
-Reagan,1,United States Representative,23,REP,Ben Van Winkle,1,1,0
-Reagan,1,United States Representative,23,REP,Alma Arredondo-Lynch,2,1,1
-Reagan,1,United States Representative,23,REP,Jeff McFarlin,8,2,6
-Reagan,1,United States Representative,23,REP,Darwin Boedeker,2,0,2
-Reagan,1,United States Representative,23,REP,"Cecil B. ""Burt"" Jones",2,1,1
-Reagan,1,United States Representative,23,REP,Sharon Breckenridge Thomas,0,0,0
-Reagan,1,United States Representative,23,REP,Ala Ureste,1,1,0
+Reagan,1,U.S. House,23,REP,Tony Gonzales,18,7,11
+Reagan,1,U.S. House,23,REP,Raul Reyes,23,13,10
+Reagan,1,U.S. House,23,REP,Ben Van Winkle,1,1,0
+Reagan,1,U.S. House,23,REP,Alma Arredondo-Lynch,2,1,1
+Reagan,1,U.S. House,23,REP,Jeff McFarlin,8,2,6
+Reagan,1,U.S. House,23,REP,Darwin Boedeker,2,0,2
+Reagan,1,U.S. House,23,REP,"Cecil B. ""Burt"" Jones",2,1,1
+Reagan,1,U.S. House,23,REP,Sharon Breckenridge Thomas,0,0,0
+Reagan,1,U.S. House,23,REP,Ala Ureste,1,1,0
 Reagan,1,Railroad Commissioner,,REP,"James ""Jim"" Wright",39,17,22
 Reagan,1,Railroad Commissioner,,REP,Ryan Sitton,13,6,7
 Reagan,1,"Chief Justice, Supreme Court",,REP,Nathan Hecht,52,27,25
@@ -87,7 +87,7 @@ Reagan,1,"Judge, Court of Criminal Appeals, Place 3",,REP,Bert Richardson,21,11,
 Reagan,1,"Judge, Court of Criminal Appeals, Place 4",,REP,Kevin Patrick Yeary,49,25,24
 Reagan,1,"Judge, Court of Criminal Appeals, Place 9",,REP,David Newell,48,24,24
 Reagan,1,"Member, State Board of Education",1,REP,Jennifer Ivey,46,25,21
-Reagan,1,State Senator,28,REP,Charles Perry,47,26,21
+Reagan,1,State Senate,28,REP,Charles Perry,47,26,21
 Reagan,1,State Representative,72,REP,Lynette Lucas,13,2,11
 Reagan,1,State Representative,72,REP,Drew Darby,41,23,18
 Reagan,1,"Chief Justice, 8th Court of Appeals District",,REP,Jeff Alley,48,25,23
@@ -169,11 +169,11 @@ Reagan,2,U.S. Senate,,DEM,Victor Hugo Harris,0,0,0
 Reagan,2,U.S. Senate,,DEM,Amanda K. Edwards,1,0,1
 Reagan,2,U.S. Senate,,DEM,"Annie ""Mam"" Garcia",0,0,0
 Reagan,2,U.S. Senate,,DEM,Cristina Tzintzun Ramirez,0,0,0
-Reagan,2,United States Representative,23,DEM,Ricardo R. Madrid,0,0,0
-Reagan,2,United States Representative,23,DEM,"Rosalinda ""Rosey"" Ramos Abuabara",0,0,0
-Reagan,2,United States Representative,23,DEM,Gina Ortiz Jones,4,2,2
-Reagan,2,United States Representative,23,DEM,Efrain V Valdez,0,0,0
-Reagan,2,United States Representative,23,DEM,Jaime Escuder,0,0,0
+Reagan,2,U.S. House,23,DEM,Ricardo R. Madrid,0,0,0
+Reagan,2,U.S. House,23,DEM,"Rosalinda ""Rosey"" Ramos Abuabara",0,0,0
+Reagan,2,U.S. House,23,DEM,Gina Ortiz Jones,4,2,2
+Reagan,2,U.S. House,23,DEM,Efrain V Valdez,0,0,0
+Reagan,2,U.S. House,23,DEM,Jaime Escuder,0,0,0
 Reagan,2,Railroad Commissioner,,DEM,Chrysta Castaeda,2,0,2
 Reagan,2,Railroad Commissioner,,DEM,Mark Watson,2,2,0
 Reagan,2,Railroad Commissioner,,DEM,Kelly Stone,1,0,1
@@ -208,15 +208,15 @@ Reagan,2,U.S. Senate,,REP,Mark Yancey,15,8,7
 Reagan,2,U.S. Senate,,REP,Virgil Bierschwale,2,1,1
 Reagan,2,U.S. Senate,,REP,Dwayne Stovall,21,8,13
 Reagan,2,U.S. Senate,,REP,John Anthony Castro,26,15,11
-Reagan,2,United States Representative,23,REP,Tony Gonzales,61,31,30
-Reagan,2,United States Representative,23,REP,Raul Reyes,64,38,26
-Reagan,2,United States Representative,23,REP,Ben Van Winkle,12,8,4
-Reagan,2,United States Representative,23,REP,Alma Arredondo-Lynch,15,11,4
-Reagan,2,United States Representative,23,REP,Jeff McFarlin,29,11,18
-Reagan,2,United States Representative,23,REP,Darwin Boedeker,1,1,0
-Reagan,2,United States Representative,23,REP,"Cecil B. ""Burt"" Jones",6,4,2
-Reagan,2,United States Representative,23,REP,Sharon Breckenridge Thomas,10,6,4
-Reagan,2,United States Representative,23,REP,Ala Ureste,1,0,1
+Reagan,2,U.S. House,23,REP,Tony Gonzales,61,31,30
+Reagan,2,U.S. House,23,REP,Raul Reyes,64,38,26
+Reagan,2,U.S. House,23,REP,Ben Van Winkle,12,8,4
+Reagan,2,U.S. House,23,REP,Alma Arredondo-Lynch,15,11,4
+Reagan,2,U.S. House,23,REP,Jeff McFarlin,29,11,18
+Reagan,2,U.S. House,23,REP,Darwin Boedeker,1,1,0
+Reagan,2,U.S. House,23,REP,"Cecil B. ""Burt"" Jones",6,4,2
+Reagan,2,U.S. House,23,REP,Sharon Breckenridge Thomas,10,6,4
+Reagan,2,U.S. House,23,REP,Ala Ureste,1,0,1
 Reagan,2,Railroad Commissioner,,REP,"James ""Jim"" Wright",137,81,56
 Reagan,2,Railroad Commissioner,,REP,Ryan Sitton,54,24,30
 Reagan,2,"Chief Justice, Supreme Court",,REP,Nathan Hecht,190,109,81
@@ -228,7 +228,7 @@ Reagan,2,"Judge, Court of Criminal Appeals, Place 3",,REP,Bert Richardson,91,49,
 Reagan,2,"Judge, Court of Criminal Appeals, Place 4",,REP,Kevin Patrick Yeary,183,105,78
 Reagan,2,"Judge, Court of Criminal Appeals, Place 9",,REP,David Newell,182,104,78
 Reagan,2,"Member, State Board of Education",1,REP,Jennifer Ivey,180,105,75
-Reagan,2,State Senator,28,REP,Charles Perry,187,109,78
+Reagan,2,State Senate,28,REP,Charles Perry,187,109,78
 Reagan,2,State Representative,72,REP,Lynette Lucas,33,17,16
 Reagan,2,State Representative,72,REP,Drew Darby,177,103,74
 Reagan,2,"Chief Justice, 8th Court of Appeals District",,REP,Jeff Alley,179,103,76
@@ -309,11 +309,11 @@ Reagan,3,U.S. Senate,,DEM,Victor Hugo Harris,0,0,0
 Reagan,3,U.S. Senate,,DEM,Amanda K. Edwards,0,0,0
 Reagan,3,U.S. Senate,,DEM,"Annie ""Mam"" Garcia",1,0,1
 Reagan,3,U.S. Senate,,DEM,Cristina Tzintzun Ramirez,0,0,0
-Reagan,3,United States Representative,23,DEM,Ricardo R. Madrid,0,0,0
-Reagan,3,United States Representative,23,DEM,"Rosalinda ""Rosey"" Ramos Abuabara",1,0,1
-Reagan,3,United States Representative,23,DEM,Gina Ortiz Jones,2,0,2
-Reagan,3,United States Representative,23,DEM,Efrain V Valdez,0,0,0
-Reagan,3,United States Representative,23,DEM,Jaime Escuder,0,0,0
+Reagan,3,U.S. House,23,DEM,Ricardo R. Madrid,0,0,0
+Reagan,3,U.S. House,23,DEM,"Rosalinda ""Rosey"" Ramos Abuabara",1,0,1
+Reagan,3,U.S. House,23,DEM,Gina Ortiz Jones,2,0,2
+Reagan,3,U.S. House,23,DEM,Efrain V Valdez,0,0,0
+Reagan,3,U.S. House,23,DEM,Jaime Escuder,0,0,0
 Reagan,3,Railroad Commissioner,,DEM,Chrysta Castaeda,1,0,1
 Reagan,3,Railroad Commissioner,,DEM,Mark Watson,1,0,1
 Reagan,3,Railroad Commissioner,,DEM,Kelly Stone,0,0,0
@@ -348,15 +348,15 @@ Reagan,3,U.S. Senate,,REP,Mark Yancey,13,5,8
 Reagan,3,U.S. Senate,,REP,Virgil Bierschwale,1,0,1
 Reagan,3,U.S. Senate,,REP,Dwayne Stovall,25,13,12
 Reagan,3,U.S. Senate,,REP,John Anthony Castro,26,11,15
-Reagan,3,United States Representative,23,REP,Tony Gonzales,52,30,22
-Reagan,3,United States Representative,23,REP,Raul Reyes,46,26,20
-Reagan,3,United States Representative,23,REP,Ben Van Winkle,6,4,2
-Reagan,3,United States Representative,23,REP,Alma Arredondo-Lynch,8,4,4
-Reagan,3,United States Representative,23,REP,Jeff McFarlin,18,9,9
-Reagan,3,United States Representative,23,REP,Darwin Boedeker,4,4,0
-Reagan,3,United States Representative,23,REP,"Cecil B. ""Burt"" Jones",5,1,4
-Reagan,3,United States Representative,23,REP,Sharon Breckenridge Thomas,8,5,3
-Reagan,3,United States Representative,23,REP,Ala Ureste,3,0,3
+Reagan,3,U.S. House,23,REP,Tony Gonzales,52,30,22
+Reagan,3,U.S. House,23,REP,Raul Reyes,46,26,20
+Reagan,3,U.S. House,23,REP,Ben Van Winkle,6,4,2
+Reagan,3,U.S. House,23,REP,Alma Arredondo-Lynch,8,4,4
+Reagan,3,U.S. House,23,REP,Jeff McFarlin,18,9,9
+Reagan,3,U.S. House,23,REP,Darwin Boedeker,4,4,0
+Reagan,3,U.S. House,23,REP,"Cecil B. ""Burt"" Jones",5,1,4
+Reagan,3,U.S. House,23,REP,Sharon Breckenridge Thomas,8,5,3
+Reagan,3,U.S. House,23,REP,Ala Ureste,3,0,3
 Reagan,3,Railroad Commissioner,,REP,"James ""Jim"" Wright",109,63,46
 Reagan,3,Railroad Commissioner,,REP,Ryan Sitton,41,20,21
 Reagan,3,"Chief Justice, Supreme Court",,REP,Nathan Hecht,153,84,69
@@ -368,7 +368,7 @@ Reagan,3,"Judge, Court of Criminal Appeals, Place 3",,REP,Bert Richardson,66,42,
 Reagan,3,"Judge, Court of Criminal Appeals, Place 4",,REP,Kevin Patrick Yeary,146,81,65
 Reagan,3,"Judge, Court of Criminal Appeals, Place 9",,REP,David Newell,142,80,62
 Reagan,3,"Member, State Board of Education",1,REP,Jennifer Ivey,144,80,64
-Reagan,3,State Senator,28,REP,Charles Perry,147,83,64
+Reagan,3,State Senate,28,REP,Charles Perry,147,83,64
 Reagan,3,State Representative,72,REP,Lynette Lucas,41,21,20
 Reagan,3,State Representative,72,REP,Drew Darby,131,77,54
 Reagan,3,"Chief Justice, 8th Court of Appeals District",,REP,Jeff Alley,143,80,63
@@ -450,11 +450,11 @@ Reagan,4,U.S. Senate,,DEM,Victor Hugo Harris,0,0,0
 Reagan,4,U.S. Senate,,DEM,Amanda K. Edwards,1,0,1
 Reagan,4,U.S. Senate,,DEM,"Annie ""Mam"" Garcia",0,0,0
 Reagan,4,U.S. Senate,,DEM,Cristina Tzintzun Ramirez,0,0,0
-Reagan,4,United States Representative,23,DEM,Ricardo R. Madrid,3,2,1
-Reagan,4,United States Representative,23,DEM,"Rosalinda ""Rosey"" Ramos Abuabara",1,0,1
-Reagan,4,United States Representative,23,DEM,Gina Ortiz Jones,3,1,2
-Reagan,4,United States Representative,23,DEM,Efrain V Valdez,0,0,0
-Reagan,4,United States Representative,23,DEM,Jaime Escuder,0,0,0
+Reagan,4,U.S. House,23,DEM,Ricardo R. Madrid,3,2,1
+Reagan,4,U.S. House,23,DEM,"Rosalinda ""Rosey"" Ramos Abuabara",1,0,1
+Reagan,4,U.S. House,23,DEM,Gina Ortiz Jones,3,1,2
+Reagan,4,U.S. House,23,DEM,Efrain V Valdez,0,0,0
+Reagan,4,U.S. House,23,DEM,Jaime Escuder,0,0,0
 Reagan,4,Railroad Commissioner,,DEM,Chrysta Castaeda,5,2,3
 Reagan,4,Railroad Commissioner,,DEM,Mark Watson,0,0,0
 Reagan,4,Railroad Commissioner,,DEM,Kelly Stone,0,0,0
@@ -489,15 +489,15 @@ Reagan,4,U.S. Senate,,REP,Mark Yancey,5,2,3
 Reagan,4,U.S. Senate,,REP,Virgil Bierschwale,3,1,2
 Reagan,4,U.S. Senate,,REP,Dwayne Stovall,7,3,4
 Reagan,4,U.S. Senate,,REP,John Anthony Castro,15,6,9
-Reagan,4,United States Representative,23,REP,Tony Gonzales,34,19,15
-Reagan,4,United States Representative,23,REP,Raul Reyes,35,15,20
-Reagan,4,United States Representative,23,REP,Ben Van Winkle,3,2,1
-Reagan,4,United States Representative,23,REP,Alma Arredondo-Lynch,5,5,0
-Reagan,4,United States Representative,23,REP,Jeff McFarlin,16,8,8
-Reagan,4,United States Representative,23,REP,Darwin Boedeker,4,4,0
-Reagan,4,United States Representative,23,REP,"Cecil B. ""Burt"" Jones",5,1,4
-Reagan,4,United States Representative,23,REP,Sharon Breckenridge Thomas,5,4,1
-Reagan,4,United States Representative,23,REP,Ala Ureste,2,1,1
+Reagan,4,U.S. House,23,REP,Tony Gonzales,34,19,15
+Reagan,4,U.S. House,23,REP,Raul Reyes,35,15,20
+Reagan,4,U.S. House,23,REP,Ben Van Winkle,3,2,1
+Reagan,4,U.S. House,23,REP,Alma Arredondo-Lynch,5,5,0
+Reagan,4,U.S. House,23,REP,Jeff McFarlin,16,8,8
+Reagan,4,U.S. House,23,REP,Darwin Boedeker,4,4,0
+Reagan,4,U.S. House,23,REP,"Cecil B. ""Burt"" Jones",5,1,4
+Reagan,4,U.S. House,23,REP,Sharon Breckenridge Thomas,5,4,1
+Reagan,4,U.S. House,23,REP,Ala Ureste,2,1,1
 Reagan,4,Railroad Commissioner,,REP,"James ""Jim"" Wright",80,43,37
 Reagan,4,Railroad Commissioner,,REP,Ryan Sitton,30,18,12
 Reagan,4,"Chief Justice, Supreme Court",,REP,Nathan Hecht,106,59,47
@@ -509,7 +509,7 @@ Reagan,4,"Judge, Court of Criminal Appeals, Place 3",,REP,Bert Richardson,45,22,
 Reagan,4,"Judge, Court of Criminal Appeals, Place 4",,REP,Kevin Patrick Yeary,99,53,46
 Reagan,4,"Judge, Court of Criminal Appeals, Place 9",,REP,David Newell,98,52,46
 Reagan,4,"Member, State Board of Education",1,REP,Jennifer Ivey,93,49,44
-Reagan,4,State Senator,28,REP,Charles Perry,100,55,45
+Reagan,4,State Senate,28,REP,Charles Perry,100,55,45
 Reagan,4,State Representative,72,REP,Lynette Lucas,18,9,9
 Reagan,4,State Representative,72,REP,Drew Darby,98,57,41
 Reagan,4,"Chief Justice, 8th Court of Appeals District",,REP,Jeff Alley,97,53,44

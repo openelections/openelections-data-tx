@@ -34,9 +34,9 @@ Liberty,1,U.S. Senate,,DEM,Under Votes,1,0,1,0
 Liberty,1,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",7,2,3,2
 Liberty,1,U.S. Senate,,DEM,Royce West,0,0,0,0
 Liberty,1,U.S. Senate,,DEM,Jack Daniel Foster Jr,2,1,1,0
-Liberty,1,United States Representative,No. 36,DEM,Over Votes,0,0,0,0
-Liberty,1,United States Representative,No. 36,DEM,Under Votes,3,0,2,1
-Liberty,1,United States Representative,No. 36,DEM,Rashad Lewis,15,4,9,2
+Liberty,1,U.S. House,No. 36,DEM,Over Votes,0,0,0,0
+Liberty,1,U.S. House,No. 36,DEM,Under Votes,3,0,2,1
+Liberty,1,U.S. House,No. 36,DEM,Rashad Lewis,15,4,9,2
 Liberty,1,Railroad Commissioner,,DEM,Kelly Stone,7,3,4,0
 Liberty,1,Railroad Commissioner,,DEM,Mark Watson,3,1,2,0
 Liberty,1,Railroad Commissioner,,DEM,Over Votes,0,0,0,0
@@ -93,10 +93,10 @@ Liberty,1,U.S. Senate,,REP,Over Votes,0,0,0,0
 Liberty,1,U.S. Senate,,REP,Under Votes,6,2,4,0
 Liberty,1,U.S. Senate,,REP,Dwayne Stovall,18,8,10,0
 Liberty,1,U.S. Senate,,REP,Virgil Bierschwale,3,1,2,0
-Liberty,1,United States Representative,No. 36,REP,Over Votes,0,0,0,0
-Liberty,1,United States Representative,No. 36,REP,Under Votes,8,3,5,0
-Liberty,1,United States Representative,No. 36,REP,Brian Babin,98,41,57,0
-Liberty,1,United States Representative,No. 36,REP,RJ Boatman,21,5,15,1
+Liberty,1,U.S. House,No. 36,REP,Over Votes,0,0,0,0
+Liberty,1,U.S. House,No. 36,REP,Under Votes,8,3,5,0
+Liberty,1,U.S. House,No. 36,REP,Brian Babin,98,41,57,0
+Liberty,1,U.S. House,No. 36,REP,RJ Boatman,21,5,15,1
 Liberty,1,Railroad Commissioner,,REP,Over Votes,0,0,0,0
 Liberty,1,Railroad Commissioner,,REP,Under Votes,20,7,13,0
 Liberty,1,Railroad Commissioner,,REP,Ryan Sitton,44,21,23,0
@@ -278,9 +278,9 @@ Liberty,2,U.S. Senate,,DEM,Under Votes,6,2,4,0
 Liberty,2,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",2,0,1,1
 Liberty,2,U.S. Senate,,DEM,Royce West,2,0,2,0
 Liberty,2,U.S. Senate,,DEM,Jack Daniel Foster Jr,1,0,1,0
-Liberty,2,United States Representative,No. 36,DEM,Over Votes,0,0,0,0
-Liberty,2,United States Representative,No. 36,DEM,Under Votes,8,3,5,0
-Liberty,2,United States Representative,No. 36,DEM,Rashad Lewis,21,3,15,3
+Liberty,2,U.S. House,No. 36,DEM,Over Votes,0,0,0,0
+Liberty,2,U.S. House,No. 36,DEM,Under Votes,8,3,5,0
+Liberty,2,U.S. House,No. 36,DEM,Rashad Lewis,21,3,15,3
 Liberty,2,Railroad Commissioner,,DEM,Kelly Stone,5,0,5,0
 Liberty,2,Railroad Commissioner,,DEM,Mark Watson,9,2,5,2
 Liberty,2,Railroad Commissioner,,DEM,Over Votes,0,0,0,0
@@ -337,10 +337,10 @@ Liberty,2,U.S. Senate,,REP,Over Votes,2,2,0,0
 Liberty,2,U.S. Senate,,REP,Under Votes,29,11,18,0
 Liberty,2,U.S. Senate,,REP,Dwayne Stovall,55,23,31,1
 Liberty,2,U.S. Senate,,REP,Virgil Bierschwale,2,2,0,0
-Liberty,2,United States Representative,No. 36,REP,Over Votes,0,0,0,0
-Liberty,2,United States Representative,No. 36,REP,Under Votes,20,10,10,0
-Liberty,2,United States Representative,No. 36,REP,Brian Babin,298,153,143,2
-Liberty,2,United States Representative,No. 36,REP,RJ Boatman,25,14,10,1
+Liberty,2,U.S. House,No. 36,REP,Over Votes,0,0,0,0
+Liberty,2,U.S. House,No. 36,REP,Under Votes,20,10,10,0
+Liberty,2,U.S. House,No. 36,REP,Brian Babin,298,153,143,2
+Liberty,2,U.S. House,No. 36,REP,RJ Boatman,25,14,10,1
 Liberty,2,Railroad Commissioner,,REP,Over Votes,0,0,0,0
 Liberty,2,Railroad Commissioner,,REP,Under Votes,51,20,31,0
 Liberty,2,Railroad Commissioner,,REP,Ryan Sitton,143,83,59,1
@@ -522,9 +522,9 @@ Liberty,3,U.S. Senate,,DEM,Under Votes,4,1,3,0
 Liberty,3,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",6,5,1,0
 Liberty,3,U.S. Senate,,DEM,Royce West,2,2,0,0
 Liberty,3,U.S. Senate,,DEM,Jack Daniel Foster Jr,3,2,1,0
-Liberty,3,United States Representative,No. 36,DEM,Over Votes,0,0,0,0
-Liberty,3,United States Representative,No. 36,DEM,Under Votes,12,8,4,0
-Liberty,3,United States Representative,No. 36,DEM,Rashad Lewis,26,16,10,0
+Liberty,3,U.S. House,No. 36,DEM,Over Votes,0,0,0,0
+Liberty,3,U.S. House,No. 36,DEM,Under Votes,12,8,4,0
+Liberty,3,U.S. House,No. 36,DEM,Rashad Lewis,26,16,10,0
 Liberty,3,Railroad Commissioner,,DEM,Kelly Stone,15,12,3,0
 Liberty,3,Railroad Commissioner,,DEM,Mark Watson,4,4,0,0
 Liberty,3,Railroad Commissioner,,DEM,Over Votes,0,0,0,0
@@ -581,10 +581,10 @@ Liberty,3,U.S. Senate,,REP,Over Votes,0,0,0,0
 Liberty,3,U.S. Senate,,REP,Under Votes,73,40,32,1
 Liberty,3,U.S. Senate,,REP,Dwayne Stovall,91,55,36,0
 Liberty,3,U.S. Senate,,REP,Virgil Bierschwale,4,2,2,0
-Liberty,3,United States Representative,No. 36,REP,Over Votes,1,0,1,0
-Liberty,3,United States Representative,No. 36,REP,Under Votes,39,24,15,0
-Liberty,3,United States Representative,No. 36,REP,Brian Babin,636,417,218,1
-Liberty,3,United States Representative,No. 36,REP,RJ Boatman,63,45,18,0
+Liberty,3,U.S. House,No. 36,REP,Over Votes,1,0,1,0
+Liberty,3,U.S. House,No. 36,REP,Under Votes,39,24,15,0
+Liberty,3,U.S. House,No. 36,REP,Brian Babin,636,417,218,1
+Liberty,3,U.S. House,No. 36,REP,RJ Boatman,63,45,18,0
 Liberty,3,Railroad Commissioner,,REP,Over Votes,0,0,0,0
 Liberty,3,Railroad Commissioner,,REP,Under Votes,121,76,44,1
 Liberty,3,Railroad Commissioner,,REP,Ryan Sitton,266,175,91,0
@@ -766,9 +766,9 @@ Liberty,4,U.S. Senate,,DEM,Under Votes,1,0,1,0
 Liberty,4,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",2,1,1,0
 Liberty,4,U.S. Senate,,DEM,Royce West,1,1,0,0
 Liberty,4,U.S. Senate,,DEM,Jack Daniel Foster Jr,1,0,1,0
-Liberty,4,United States Representative,No. 36,DEM,Over Votes,0,0,0,0
-Liberty,4,United States Representative,No. 36,DEM,Under Votes,6,1,5,0
-Liberty,4,United States Representative,No. 36,DEM,Rashad Lewis,17,1,16,0
+Liberty,4,U.S. House,No. 36,DEM,Over Votes,0,0,0,0
+Liberty,4,U.S. House,No. 36,DEM,Under Votes,6,1,5,0
+Liberty,4,U.S. House,No. 36,DEM,Rashad Lewis,17,1,16,0
 Liberty,4,Railroad Commissioner,,DEM,Kelly Stone,8,2,6,0
 Liberty,4,Railroad Commissioner,,DEM,Mark Watson,6,0,6,0
 Liberty,4,Railroad Commissioner,,DEM,Over Votes,0,0,0,0
@@ -828,10 +828,10 @@ Liberty,4,U.S. Senate,,REP,Over Votes,0,0,0,0
 Liberty,4,U.S. Senate,,REP,Under Votes,18,2,15,1
 Liberty,4,U.S. Senate,,REP,Dwayne Stovall,14,7,7,0
 Liberty,4,U.S. Senate,,REP,Virgil Bierschwale,1,0,1,0
-Liberty,4,United States Representative,No. 36,REP,Over Votes,0,0,0,0
-Liberty,4,United States Representative,No. 36,REP,Under Votes,8,1,6,1
-Liberty,4,United States Representative,No. 36,REP,Brian Babin,165,60,103,2
-Liberty,4,United States Representative,No. 36,REP,RJ Boatman,8,4,4,0
+Liberty,4,U.S. House,No. 36,REP,Over Votes,0,0,0,0
+Liberty,4,U.S. House,No. 36,REP,Under Votes,8,1,6,1
+Liberty,4,U.S. House,No. 36,REP,Brian Babin,165,60,103,2
+Liberty,4,U.S. House,No. 36,REP,RJ Boatman,8,4,4,0
 Liberty,4,Railroad Commissioner,,REP,Over Votes,0,0,0,0
 Liberty,4,Railroad Commissioner,,REP,Under Votes,27,6,20,1
 Liberty,4,Railroad Commissioner,,REP,Ryan Sitton,85,25,59,1
@@ -1019,9 +1019,9 @@ Liberty,5,U.S. Senate,,DEM,Under Votes,4,2,2,0
 Liberty,5,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",18,12,5,1
 Liberty,5,U.S. Senate,,DEM,Royce West,3,2,1,0
 Liberty,5,U.S. Senate,,DEM,Jack Daniel Foster Jr,5,3,2,0
-Liberty,5,United States Representative,No. 36,DEM,Over Votes,0,0,0,0
-Liberty,5,United States Representative,No. 36,DEM,Under Votes,18,13,5,0
-Liberty,5,United States Representative,No. 36,DEM,Rashad Lewis,66,28,36,2
+Liberty,5,U.S. House,No. 36,DEM,Over Votes,0,0,0,0
+Liberty,5,U.S. House,No. 36,DEM,Under Votes,18,13,5,0
+Liberty,5,U.S. House,No. 36,DEM,Rashad Lewis,66,28,36,2
 Liberty,5,Railroad Commissioner,,DEM,Kelly Stone,18,6,10,2
 Liberty,5,Railroad Commissioner,,DEM,Mark Watson,26,14,12,0
 Liberty,5,Railroad Commissioner,,DEM,Over Votes,0,0,0,0
@@ -1084,10 +1084,10 @@ Liberty,5,U.S. Senate,,REP,Over Votes,1,0,1,0
 Liberty,5,U.S. Senate,,REP,Under Votes,67,42,25,0
 Liberty,5,U.S. Senate,,REP,Dwayne Stovall,86,64,22,0
 Liberty,5,U.S. Senate,,REP,Virgil Bierschwale,5,3,2,0
-Liberty,5,United States Representative,No. 36,REP,Over Votes,0,0,0,0
-Liberty,5,United States Representative,No. 36,REP,Under Votes,38,21,17,0
-Liberty,5,United States Representative,No. 36,REP,Brian Babin,575,416,152,7
-Liberty,5,United States Representative,No. 36,REP,RJ Boatman,81,57,24,0
+Liberty,5,U.S. House,No. 36,REP,Over Votes,0,0,0,0
+Liberty,5,U.S. House,No. 36,REP,Under Votes,38,21,17,0
+Liberty,5,U.S. House,No. 36,REP,Brian Babin,575,416,152,7
+Liberty,5,U.S. House,No. 36,REP,RJ Boatman,81,57,24,0
 Liberty,5,Railroad Commissioner,,REP,Over Votes,0,0,0,0
 Liberty,5,Railroad Commissioner,,REP,Under Votes,137,90,45,2
 Liberty,5,Railroad Commissioner,,REP,Ryan Sitton,252,179,70,3
@@ -1278,9 +1278,9 @@ Liberty,6,U.S. Senate,,DEM,Under Votes,2,1,1,0
 Liberty,6,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",4,1,3,0
 Liberty,6,U.S. Senate,,DEM,Royce West,1,0,1,0
 Liberty,6,U.S. Senate,,DEM,Jack Daniel Foster Jr,2,0,2,0
-Liberty,6,United States Representative,No. 36,DEM,Over Votes,0,0,0,0
-Liberty,6,United States Representative,No. 36,DEM,Under Votes,3,1,1,1
-Liberty,6,United States Representative,No. 36,DEM,Rashad Lewis,17,2,15,0
+Liberty,6,U.S. House,No. 36,DEM,Over Votes,0,0,0,0
+Liberty,6,U.S. House,No. 36,DEM,Under Votes,3,1,1,1
+Liberty,6,U.S. House,No. 36,DEM,Rashad Lewis,17,2,15,0
 Liberty,6,Railroad Commissioner,,DEM,Kelly Stone,2,0,2,0
 Liberty,6,Railroad Commissioner,,DEM,Mark Watson,9,2,6,1
 Liberty,6,Railroad Commissioner,,DEM,Over Votes,0,0,0,0
@@ -1343,10 +1343,10 @@ Liberty,6,U.S. Senate,,REP,Over Votes,0,0,0,0
 Liberty,6,U.S. Senate,,REP,Under Votes,17,6,11,0
 Liberty,6,U.S. Senate,,REP,Dwayne Stovall,65,19,45,1
 Liberty,6,U.S. Senate,,REP,Virgil Bierschwale,4,2,2,0
-Liberty,6,United States Representative,No. 36,REP,Over Votes,0,0,0,0
-Liberty,6,United States Representative,No. 36,REP,Under Votes,11,3,8,0
-Liberty,6,United States Representative,No. 36,REP,Brian Babin,254,110,142,2
-Liberty,6,United States Representative,No. 36,REP,RJ Boatman,42,22,19,1
+Liberty,6,U.S. House,No. 36,REP,Over Votes,0,0,0,0
+Liberty,6,U.S. House,No. 36,REP,Under Votes,11,3,8,0
+Liberty,6,U.S. House,No. 36,REP,Brian Babin,254,110,142,2
+Liberty,6,U.S. House,No. 36,REP,RJ Boatman,42,22,19,1
 Liberty,6,Railroad Commissioner,,REP,Over Votes,0,0,0,0
 Liberty,6,Railroad Commissioner,,REP,Under Votes,36,14,22,0
 Liberty,6,Railroad Commissioner,,REP,Ryan Sitton,123,54,68,1
@@ -1537,9 +1537,9 @@ Liberty,7,U.S. Senate,,DEM,Under Votes,17,9,8,0
 Liberty,7,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",17,7,6,4
 Liberty,7,U.S. Senate,,DEM,Royce West,3,1,2,0
 Liberty,7,U.S. Senate,,DEM,Jack Daniel Foster Jr,0,0,0,0
-Liberty,7,United States Representative,No. 36,DEM,Over Votes,0,0,0,0
-Liberty,7,United States Representative,No. 36,DEM,Under Votes,31,14,16,1
-Liberty,7,United States Representative,No. 36,DEM,Rashad Lewis,76,35,35,6
+Liberty,7,U.S. House,No. 36,DEM,Over Votes,0,0,0,0
+Liberty,7,U.S. House,No. 36,DEM,Under Votes,31,14,16,1
+Liberty,7,U.S. House,No. 36,DEM,Rashad Lewis,76,35,35,6
 Liberty,7,Railroad Commissioner,,DEM,Kelly Stone,26,18,6,2
 Liberty,7,Railroad Commissioner,,DEM,Mark Watson,20,8,8,4
 Liberty,7,Railroad Commissioner,,DEM,Over Votes,0,0,0,0
@@ -1599,10 +1599,10 @@ Liberty,7,U.S. Senate,,REP,Over Votes,0,0,0,0
 Liberty,7,U.S. Senate,,REP,Under Votes,38,25,13,0
 Liberty,7,U.S. Senate,,REP,Dwayne Stovall,70,46,23,1
 Liberty,7,U.S. Senate,,REP,Virgil Bierschwale,3,2,1,0
-Liberty,7,United States Representative,No. 36,REP,Over Votes,0,0,0,0
-Liberty,7,United States Representative,No. 36,REP,Under Votes,30,19,11,0
-Liberty,7,United States Representative,No. 36,REP,Brian Babin,324,228,96,0
-Liberty,7,United States Representative,No. 36,REP,RJ Boatman,32,17,14,1
+Liberty,7,U.S. House,No. 36,REP,Over Votes,0,0,0,0
+Liberty,7,U.S. House,No. 36,REP,Under Votes,30,19,11,0
+Liberty,7,U.S. House,No. 36,REP,Brian Babin,324,228,96,0
+Liberty,7,U.S. House,No. 36,REP,RJ Boatman,32,17,14,1
 Liberty,7,Railroad Commissioner,,REP,Over Votes,1,0,1,0
 Liberty,7,Railroad Commissioner,,REP,Under Votes,62,46,16,0
 Liberty,7,Railroad Commissioner,,REP,Ryan Sitton,132,94,37,1
@@ -1790,9 +1790,9 @@ Liberty,8,U.S. Senate,,DEM,Under Votes,5,0,5,0
 Liberty,8,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",8,2,5,1
 Liberty,8,U.S. Senate,,DEM,Royce West,2,0,2,0
 Liberty,8,U.S. Senate,,DEM,Jack Daniel Foster Jr,1,1,0,0
-Liberty,8,United States Representative,No. 36,DEM,Over Votes,0,0,0,0
-Liberty,8,United States Representative,No. 36,DEM,Under Votes,12,4,8,0
-Liberty,8,United States Representative,No. 36,DEM,Rashad Lewis,42,11,29,2
+Liberty,8,U.S. House,No. 36,DEM,Over Votes,0,0,0,0
+Liberty,8,U.S. House,No. 36,DEM,Under Votes,12,4,8,0
+Liberty,8,U.S. House,No. 36,DEM,Rashad Lewis,42,11,29,2
 Liberty,8,Railroad Commissioner,,DEM,Kelly Stone,6,1,5,0
 Liberty,8,Railroad Commissioner,,DEM,Mark Watson,22,8,13,1
 Liberty,8,Railroad Commissioner,,DEM,Over Votes,0,0,0,0
@@ -1849,10 +1849,10 @@ Liberty,8,U.S. Senate,,REP,Over Votes,0,0,0,0
 Liberty,8,U.S. Senate,,REP,Under Votes,15,9,6,0
 Liberty,8,U.S. Senate,,REP,Dwayne Stovall,309,176,133,0
 Liberty,8,U.S. Senate,,REP,Virgil Bierschwale,4,3,1,0
-Liberty,8,United States Representative,No. 36,REP,Over Votes,0,0,0,0
-Liberty,8,United States Representative,No. 36,REP,Under Votes,23,15,8,0
-Liberty,8,United States Representative,No. 36,REP,Brian Babin,459,252,206,1
-Liberty,8,United States Representative,No. 36,REP,RJ Boatman,76,44,32,0
+Liberty,8,U.S. House,No. 36,REP,Over Votes,0,0,0,0
+Liberty,8,U.S. House,No. 36,REP,Under Votes,23,15,8,0
+Liberty,8,U.S. House,No. 36,REP,Brian Babin,459,252,206,1
+Liberty,8,U.S. House,No. 36,REP,RJ Boatman,76,44,32,0
 Liberty,8,Railroad Commissioner,,REP,Over Votes,0,0,0,0
 Liberty,8,Railroad Commissioner,,REP,Under Votes,81,40,41,0
 Liberty,8,Railroad Commissioner,,REP,Ryan Sitton,211,128,83,0
@@ -2034,9 +2034,9 @@ Liberty,9,U.S. Senate,,DEM,Under Votes,12,4,8,0
 Liberty,9,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",12,6,6,0
 Liberty,9,U.S. Senate,,DEM,Royce West,4,1,3,0
 Liberty,9,U.S. Senate,,DEM,Jack Daniel Foster Jr,1,0,1,0
-Liberty,9,United States Representative,No. 36,DEM,Over Votes,0,0,0,0
-Liberty,9,United States Representative,No. 36,DEM,Under Votes,20,4,16,0
-Liberty,9,United States Representative,No. 36,DEM,Rashad Lewis,48,16,29,3
+Liberty,9,U.S. House,No. 36,DEM,Over Votes,0,0,0,0
+Liberty,9,U.S. House,No. 36,DEM,Under Votes,20,4,16,0
+Liberty,9,U.S. House,No. 36,DEM,Rashad Lewis,48,16,29,3
 Liberty,9,Railroad Commissioner,,DEM,Kelly Stone,18,8,10,0
 Liberty,9,Railroad Commissioner,,DEM,Mark Watson,16,5,8,3
 Liberty,9,Railroad Commissioner,,DEM,Over Votes,1,1,0,0
@@ -2093,10 +2093,10 @@ Liberty,9,U.S. Senate,,REP,Over Votes,0,0,0,0
 Liberty,9,U.S. Senate,,REP,Under Votes,28,11,17,0
 Liberty,9,U.S. Senate,,REP,Dwayne Stovall,288,146,141,1
 Liberty,9,U.S. Senate,,REP,Virgil Bierschwale,2,0,2,0
-Liberty,9,United States Representative,No. 36,REP,Over Votes,0,0,0,0
-Liberty,9,United States Representative,No. 36,REP,Under Votes,31,12,19,0
-Liberty,9,United States Representative,No. 36,REP,Brian Babin,505,276,227,2
-Liberty,9,United States Representative,No. 36,REP,RJ Boatman,78,37,41,0
+Liberty,9,U.S. House,No. 36,REP,Over Votes,0,0,0,0
+Liberty,9,U.S. House,No. 36,REP,Under Votes,31,12,19,0
+Liberty,9,U.S. House,No. 36,REP,Brian Babin,505,276,227,2
+Liberty,9,U.S. House,No. 36,REP,RJ Boatman,78,37,41,0
 Liberty,9,Railroad Commissioner,,REP,Over Votes,0,0,0,0
 Liberty,9,Railroad Commissioner,,REP,Under Votes,83,44,39,0
 Liberty,9,Railroad Commissioner,,REP,Ryan Sitton,244,128,116,0
@@ -2278,9 +2278,9 @@ Liberty,10,U.S. Senate,,DEM,Under Votes,13,8,2,3
 Liberty,10,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",21,16,3,2
 Liberty,10,U.S. Senate,,DEM,Royce West,5,5,0,0
 Liberty,10,U.S. Senate,,DEM,Jack Daniel Foster Jr,0,0,0,0
-Liberty,10,United States Representative,No. 36,DEM,Over Votes,0,0,0,0
-Liberty,10,United States Representative,No. 36,DEM,Under Votes,42,24,12,6
-Liberty,10,United States Representative,No. 36,DEM,Rashad Lewis,77,38,35,4
+Liberty,10,U.S. House,No. 36,DEM,Over Votes,0,0,0,0
+Liberty,10,U.S. House,No. 36,DEM,Under Votes,42,24,12,6
+Liberty,10,U.S. House,No. 36,DEM,Rashad Lewis,77,38,35,4
 Liberty,10,Railroad Commissioner,,DEM,Kelly Stone,31,15,15,1
 Liberty,10,Railroad Commissioner,,DEM,Mark Watson,19,9,8,2
 Liberty,10,Railroad Commissioner,,DEM,Over Votes,0,0,0,0
@@ -2337,10 +2337,10 @@ Liberty,10,U.S. Senate,,REP,Over Votes,1,1,0,0
 Liberty,10,U.S. Senate,,REP,Under Votes,59,40,19,0
 Liberty,10,U.S. Senate,,REP,Dwayne Stovall,73,44,29,0
 Liberty,10,U.S. Senate,,REP,Virgil Bierschwale,8,4,4,0
-Liberty,10,United States Representative,No. 36,REP,Over Votes,0,0,0,0
-Liberty,10,United States Representative,No. 36,REP,Under Votes,39,24,15,0
-Liberty,10,United States Representative,No. 36,REP,Brian Babin,649,442,200,7
-Liberty,10,United States Representative,No. 36,REP,RJ Boatman,56,36,20,0
+Liberty,10,U.S. House,No. 36,REP,Over Votes,0,0,0,0
+Liberty,10,U.S. House,No. 36,REP,Under Votes,39,24,15,0
+Liberty,10,U.S. House,No. 36,REP,Brian Babin,649,442,200,7
+Liberty,10,U.S. House,No. 36,REP,RJ Boatman,56,36,20,0
 Liberty,10,Railroad Commissioner,,REP,Over Votes,0,0,0,0
 Liberty,10,Railroad Commissioner,,REP,Under Votes,118,78,39,1
 Liberty,10,Railroad Commissioner,,REP,Ryan Sitton,293,200,89,4
@@ -2523,9 +2523,9 @@ Liberty,11,U.S. Senate,,DEM,Under Votes,8,2,6,0
 Liberty,11,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",9,4,5,0
 Liberty,11,U.S. Senate,,DEM,Royce West,5,1,3,1
 Liberty,11,U.S. Senate,,DEM,Jack Daniel Foster Jr,5,1,3,1
-Liberty,11,United States Representative,No. 36,DEM,Over Votes,0,0,0,0
-Liberty,11,United States Representative,No. 36,DEM,Under Votes,24,5,17,2
-Liberty,11,United States Representative,No. 36,DEM,Rashad Lewis,65,7,52,6
+Liberty,11,U.S. House,No. 36,DEM,Over Votes,0,0,0,0
+Liberty,11,U.S. House,No. 36,DEM,Under Votes,24,5,17,2
+Liberty,11,U.S. House,No. 36,DEM,Rashad Lewis,65,7,52,6
 Liberty,11,Railroad Commissioner,,DEM,Kelly Stone,23,3,18,2
 Liberty,11,Railroad Commissioner,,DEM,Mark Watson,23,2,19,2
 Liberty,11,Railroad Commissioner,,DEM,Over Votes,0,0,0,0
@@ -2585,10 +2585,10 @@ Liberty,11,U.S. Senate,,REP,Over Votes,0,0,0,0
 Liberty,11,U.S. Senate,,REP,Under Votes,25,6,19,0
 Liberty,11,U.S. Senate,,REP,Dwayne Stovall,18,10,8,0
 Liberty,11,U.S. Senate,,REP,Virgil Bierschwale,2,1,1,0
-Liberty,11,United States Representative,No. 36,REP,Over Votes,0,0,0,0
-Liberty,11,United States Representative,No. 36,REP,Under Votes,22,5,17,0
-Liberty,11,United States Representative,No. 36,REP,Brian Babin,144,73,70,1
-Liberty,11,United States Representative,No. 36,REP,RJ Boatman,15,4,11,0
+Liberty,11,U.S. House,No. 36,REP,Over Votes,0,0,0,0
+Liberty,11,U.S. House,No. 36,REP,Under Votes,22,5,17,0
+Liberty,11,U.S. House,No. 36,REP,Brian Babin,144,73,70,1
+Liberty,11,U.S. House,No. 36,REP,RJ Boatman,15,4,11,0
 Liberty,11,Railroad Commissioner,,REP,Over Votes,0,0,0,0
 Liberty,11,Railroad Commissioner,,REP,Under Votes,36,12,24,0
 Liberty,11,Railroad Commissioner,,REP,Ryan Sitton,56,33,22,1
@@ -2776,9 +2776,9 @@ Liberty,12,U.S. Senate,,DEM,Under Votes,9,3,6,0
 Liberty,12,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",13,6,6,1
 Liberty,12,U.S. Senate,,DEM,Royce West,1,0,0,1
 Liberty,12,U.S. Senate,,DEM,Jack Daniel Foster Jr,4,2,2,0
-Liberty,12,United States Representative,No. 36,DEM,Over Votes,0,0,0,0
-Liberty,12,United States Representative,No. 36,DEM,Under Votes,21,10,10,1
-Liberty,12,United States Representative,No. 36,DEM,Rashad Lewis,56,23,28,5
+Liberty,12,U.S. House,No. 36,DEM,Over Votes,0,0,0,0
+Liberty,12,U.S. House,No. 36,DEM,Under Votes,21,10,10,1
+Liberty,12,U.S. House,No. 36,DEM,Rashad Lewis,56,23,28,5
 Liberty,12,Railroad Commissioner,,DEM,Kelly Stone,23,11,10,2
 Liberty,12,Railroad Commissioner,,DEM,Mark Watson,14,6,5,3
 Liberty,12,Railroad Commissioner,,DEM,Over Votes,0,0,0,0
@@ -2838,10 +2838,10 @@ Liberty,12,U.S. Senate,,REP,Over Votes,0,0,0,0
 Liberty,12,U.S. Senate,,REP,Under Votes,17,14,3,0
 Liberty,12,U.S. Senate,,REP,Dwayne Stovall,71,51,20,0
 Liberty,12,U.S. Senate,,REP,Virgil Bierschwale,3,1,2,0
-Liberty,12,United States Representative,No. 36,REP,Over Votes,0,0,0,0
-Liberty,12,United States Representative,No. 36,REP,Under Votes,18,15,3,0
-Liberty,12,United States Representative,No. 36,REP,Brian Babin,214,138,75,1
-Liberty,12,United States Representative,No. 36,REP,RJ Boatman,32,22,10,0
+Liberty,12,U.S. House,No. 36,REP,Over Votes,0,0,0,0
+Liberty,12,U.S. House,No. 36,REP,Under Votes,18,15,3,0
+Liberty,12,U.S. House,No. 36,REP,Brian Babin,214,138,75,1
+Liberty,12,U.S. House,No. 36,REP,RJ Boatman,32,22,10,0
 Liberty,12,Railroad Commissioner,,REP,Over Votes,0,0,0,0
 Liberty,12,Railroad Commissioner,,REP,Under Votes,44,33,11,0
 Liberty,12,Railroad Commissioner,,REP,Ryan Sitton,104,68,35,1
@@ -3029,9 +3029,9 @@ Liberty,13,U.S. Senate,,DEM,Under Votes,0,0,0,0
 Liberty,13,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",4,3,1,0
 Liberty,13,U.S. Senate,,DEM,Royce West,0,0,0,0
 Liberty,13,U.S. Senate,,DEM,Jack Daniel Foster Jr,0,0,0,0
-Liberty,13,United States Representative,No. 36,DEM,Over Votes,0,0,0,0
-Liberty,13,United States Representative,No. 36,DEM,Under Votes,2,1,1,0
-Liberty,13,United States Representative,No. 36,DEM,Rashad Lewis,7,4,3,0
+Liberty,13,U.S. House,No. 36,DEM,Over Votes,0,0,0,0
+Liberty,13,U.S. House,No. 36,DEM,Under Votes,2,1,1,0
+Liberty,13,U.S. House,No. 36,DEM,Rashad Lewis,7,4,3,0
 Liberty,13,Railroad Commissioner,,DEM,Kelly Stone,1,0,1,0
 Liberty,13,Railroad Commissioner,,DEM,Mark Watson,5,4,1,0
 Liberty,13,Railroad Commissioner,,DEM,Over Votes,0,0,0,0
@@ -3088,10 +3088,10 @@ Liberty,13,U.S. Senate,,REP,Over Votes,0,0,0,0
 Liberty,13,U.S. Senate,,REP,Under Votes,20,7,13,0
 Liberty,13,U.S. Senate,,REP,Dwayne Stovall,30,5,25,0
 Liberty,13,U.S. Senate,,REP,Virgil Bierschwale,1,0,1,0
-Liberty,13,United States Representative,No. 36,REP,Over Votes,0,0,0,0
-Liberty,13,United States Representative,No. 36,REP,Under Votes,12,5,7,0
-Liberty,13,United States Representative,No. 36,REP,Brian Babin,146,36,106,4
-Liberty,13,United States Representative,No. 36,REP,RJ Boatman,20,7,13,0
+Liberty,13,U.S. House,No. 36,REP,Over Votes,0,0,0,0
+Liberty,13,U.S. House,No. 36,REP,Under Votes,12,5,7,0
+Liberty,13,U.S. House,No. 36,REP,Brian Babin,146,36,106,4
+Liberty,13,U.S. House,No. 36,REP,RJ Boatman,20,7,13,0
 Liberty,13,Railroad Commissioner,,REP,Over Votes,0,0,0,0
 Liberty,13,Railroad Commissioner,,REP,Under Votes,28,10,18,0
 Liberty,13,Railroad Commissioner,,REP,Ryan Sitton,68,16,51,1
@@ -3273,9 +3273,9 @@ Liberty,14,U.S. Senate,,DEM,Under Votes,1,1,0,0
 Liberty,14,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",4,1,3,0
 Liberty,14,U.S. Senate,,DEM,Royce West,0,0,0,0
 Liberty,14,U.S. Senate,,DEM,Jack Daniel Foster Jr,0,0,0,0
-Liberty,14,United States Representative,No. 36,DEM,Over Votes,0,0,0,0
-Liberty,14,United States Representative,No. 36,DEM,Under Votes,4,3,1,0
-Liberty,14,United States Representative,No. 36,DEM,Rashad Lewis,17,7,10,0
+Liberty,14,U.S. House,No. 36,DEM,Over Votes,0,0,0,0
+Liberty,14,U.S. House,No. 36,DEM,Under Votes,4,3,1,0
+Liberty,14,U.S. House,No. 36,DEM,Rashad Lewis,17,7,10,0
 Liberty,14,Railroad Commissioner,,DEM,Kelly Stone,1,0,1,0
 Liberty,14,Railroad Commissioner,,DEM,Mark Watson,6,1,5,0
 Liberty,14,Railroad Commissioner,,DEM,Over Votes,0,0,0,0
@@ -3335,10 +3335,10 @@ Liberty,14,U.S. Senate,,REP,Over Votes,0,0,0,0
 Liberty,14,U.S. Senate,,REP,Under Votes,2,0,2,0
 Liberty,14,U.S. Senate,,REP,Dwayne Stovall,15,4,11,0
 Liberty,14,U.S. Senate,,REP,Virgil Bierschwale,1,1,0,0
-Liberty,14,United States Representative,No. 36,REP,Over Votes,1,0,1,0
-Liberty,14,United States Representative,No. 36,REP,Under Votes,2,1,1,0
-Liberty,14,United States Representative,No. 36,REP,Brian Babin,94,45,49,0
-Liberty,14,United States Representative,No. 36,REP,RJ Boatman,10,4,6,0
+Liberty,14,U.S. House,No. 36,REP,Over Votes,1,0,1,0
+Liberty,14,U.S. House,No. 36,REP,Under Votes,2,1,1,0
+Liberty,14,U.S. House,No. 36,REP,Brian Babin,94,45,49,0
+Liberty,14,U.S. House,No. 36,REP,RJ Boatman,10,4,6,0
 Liberty,14,Railroad Commissioner,,REP,Over Votes,0,0,0,0
 Liberty,14,Railroad Commissioner,,REP,Under Votes,11,6,5,0
 Liberty,14,Railroad Commissioner,,REP,Ryan Sitton,48,26,22,0
@@ -3525,9 +3525,9 @@ Liberty,15,U.S. Senate,,DEM,Under Votes,2,0,2,0
 Liberty,15,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",5,5,0,0
 Liberty,15,U.S. Senate,,DEM,Royce West,2,0,0,2
 Liberty,15,U.S. Senate,,DEM,Jack Daniel Foster Jr,1,0,1,0
-Liberty,15,United States Representative,No. 36,DEM,Over Votes,0,0,0,0
-Liberty,15,United States Representative,No. 36,DEM,Under Votes,8,2,4,2
-Liberty,15,United States Representative,No. 36,DEM,Rashad Lewis,14,5,9,0
+Liberty,15,U.S. House,No. 36,DEM,Over Votes,0,0,0,0
+Liberty,15,U.S. House,No. 36,DEM,Under Votes,8,2,4,2
+Liberty,15,U.S. House,No. 36,DEM,Rashad Lewis,14,5,9,0
 Liberty,15,Railroad Commissioner,,DEM,Kelly Stone,4,2,2,0
 Liberty,15,Railroad Commissioner,,DEM,Mark Watson,9,2,7,0
 Liberty,15,Railroad Commissioner,,DEM,Over Votes,0,0,0,0
@@ -3584,10 +3584,10 @@ Liberty,15,U.S. Senate,,REP,Over Votes,0,0,0,0
 Liberty,15,U.S. Senate,,REP,Under Votes,4,1,3,0
 Liberty,15,U.S. Senate,,REP,Dwayne Stovall,25,6,19,0
 Liberty,15,U.S. Senate,,REP,Virgil Bierschwale,0,0,0,0
-Liberty,15,United States Representative,No. 36,REP,Over Votes,0,0,0,0
-Liberty,15,United States Representative,No. 36,REP,Under Votes,4,1,3,0
-Liberty,15,United States Representative,No. 36,REP,Brian Babin,72,12,57,3
-Liberty,15,United States Representative,No. 36,REP,RJ Boatman,23,6,17,0
+Liberty,15,U.S. House,No. 36,REP,Over Votes,0,0,0,0
+Liberty,15,U.S. House,No. 36,REP,Under Votes,4,1,3,0
+Liberty,15,U.S. House,No. 36,REP,Brian Babin,72,12,57,3
+Liberty,15,U.S. House,No. 36,REP,RJ Boatman,23,6,17,0
 Liberty,15,Railroad Commissioner,,REP,Over Votes,0,0,0,0
 Liberty,15,Railroad Commissioner,,REP,Under Votes,6,1,5,0
 Liberty,15,Railroad Commissioner,,REP,Ryan Sitton,43,7,33,3
@@ -3769,9 +3769,9 @@ Liberty,16,U.S. Senate,,DEM,Under Votes,3,0,1,2
 Liberty,16,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",2,2,0,0
 Liberty,16,U.S. Senate,,DEM,Royce West,1,1,0,0
 Liberty,16,U.S. Senate,,DEM,Jack Daniel Foster Jr,0,0,0,0
-Liberty,16,United States Representative,No. 36,DEM,Over Votes,0,0,0,0
-Liberty,16,United States Representative,No. 36,DEM,Under Votes,5,2,1,2
-Liberty,16,United States Representative,No. 36,DEM,Rashad Lewis,7,6,1,0
+Liberty,16,U.S. House,No. 36,DEM,Over Votes,0,0,0,0
+Liberty,16,U.S. House,No. 36,DEM,Under Votes,5,2,1,2
+Liberty,16,U.S. House,No. 36,DEM,Rashad Lewis,7,6,1,0
 Liberty,16,Railroad Commissioner,,DEM,Kelly Stone,4,3,1,0
 Liberty,16,Railroad Commissioner,,DEM,Mark Watson,1,1,0,0
 Liberty,16,Railroad Commissioner,,DEM,Over Votes,0,0,0,0
@@ -3828,10 +3828,10 @@ Liberty,16,U.S. Senate,,REP,Over Votes,0,0,0,0
 Liberty,16,U.S. Senate,,REP,Under Votes,3,1,2,0
 Liberty,16,U.S. Senate,,REP,Dwayne Stovall,45,16,29,0
 Liberty,16,U.S. Senate,,REP,Virgil Bierschwale,0,0,0,0
-Liberty,16,United States Representative,No. 36,REP,Over Votes,0,0,0,0
-Liberty,16,United States Representative,No. 36,REP,Under Votes,6,3,3,0
-Liberty,16,United States Representative,No. 36,REP,Brian Babin,110,45,65,0
-Liberty,16,United States Representative,No. 36,REP,RJ Boatman,9,4,5,0
+Liberty,16,U.S. House,No. 36,REP,Over Votes,0,0,0,0
+Liberty,16,U.S. House,No. 36,REP,Under Votes,6,3,3,0
+Liberty,16,U.S. House,No. 36,REP,Brian Babin,110,45,65,0
+Liberty,16,U.S. House,No. 36,REP,RJ Boatman,9,4,5,0
 Liberty,16,Railroad Commissioner,,REP,Over Votes,0,0,0,0
 Liberty,16,Railroad Commissioner,,REP,Under Votes,12,4,8,0
 Liberty,16,Railroad Commissioner,,REP,Ryan Sitton,47,22,25,0
@@ -4013,9 +4013,9 @@ Liberty,17,U.S. Senate,,DEM,Under Votes,1,0,1,0
 Liberty,17,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",3,0,3,0
 Liberty,17,U.S. Senate,,DEM,Royce West,2,1,1,0
 Liberty,17,U.S. Senate,,DEM,Jack Daniel Foster Jr,1,0,1,0
-Liberty,17,United States Representative,No. 36,DEM,Over Votes,0,0,0,0
-Liberty,17,United States Representative,No. 36,DEM,Under Votes,4,0,4,0
-Liberty,17,United States Representative,No. 36,DEM,Rashad Lewis,10,3,7,0
+Liberty,17,U.S. House,No. 36,DEM,Over Votes,0,0,0,0
+Liberty,17,U.S. House,No. 36,DEM,Under Votes,4,0,4,0
+Liberty,17,U.S. House,No. 36,DEM,Rashad Lewis,10,3,7,0
 Liberty,17,Railroad Commissioner,,DEM,Kelly Stone,4,0,4,0
 Liberty,17,Railroad Commissioner,,DEM,Mark Watson,3,0,3,0
 Liberty,17,Railroad Commissioner,,DEM,Over Votes,0,0,0,0
@@ -4072,10 +4072,10 @@ Liberty,17,U.S. Senate,,REP,Over Votes,0,0,0,0
 Liberty,17,U.S. Senate,,REP,Under Votes,14,4,10,0
 Liberty,17,U.S. Senate,,REP,Dwayne Stovall,25,11,14,0
 Liberty,17,U.S. Senate,,REP,Virgil Bierschwale,1,0,1,0
-Liberty,17,United States Representative,No. 36,REP,Over Votes,0,0,0,0
-Liberty,17,United States Representative,No. 36,REP,Under Votes,11,4,7,0
-Liberty,17,United States Representative,No. 36,REP,Brian Babin,140,66,74,0
-Liberty,17,United States Representative,No. 36,REP,RJ Boatman,19,8,11,0
+Liberty,17,U.S. House,No. 36,REP,Over Votes,0,0,0,0
+Liberty,17,U.S. House,No. 36,REP,Under Votes,11,4,7,0
+Liberty,17,U.S. House,No. 36,REP,Brian Babin,140,66,74,0
+Liberty,17,U.S. House,No. 36,REP,RJ Boatman,19,8,11,0
 Liberty,17,Railroad Commissioner,,REP,Over Votes,0,0,0,0
 Liberty,17,Railroad Commissioner,,REP,Under Votes,24,11,13,0
 Liberty,17,Railroad Commissioner,,REP,Ryan Sitton,61,28,33,0
@@ -4257,9 +4257,9 @@ Liberty,18,U.S. Senate,,DEM,Under Votes,21,3,17,1
 Liberty,18,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",10,5,4,1
 Liberty,18,U.S. Senate,,DEM,Royce West,11,2,9,0
 Liberty,18,U.S. Senate,,DEM,Jack Daniel Foster Jr,5,2,3,0
-Liberty,18,United States Representative,No. 36,DEM,Over Votes,0,0,0,0
-Liberty,18,United States Representative,No. 36,DEM,Under Votes,41,5,34,2
-Liberty,18,United States Representative,No. 36,DEM,Rashad Lewis,106,34,61,11
+Liberty,18,U.S. House,No. 36,DEM,Over Votes,0,0,0,0
+Liberty,18,U.S. House,No. 36,DEM,Under Votes,41,5,34,2
+Liberty,18,U.S. House,No. 36,DEM,Rashad Lewis,106,34,61,11
 Liberty,18,Railroad Commissioner,,DEM,Kelly Stone,36,12,20,4
 Liberty,18,Railroad Commissioner,,DEM,Mark Watson,32,6,24,2
 Liberty,18,Railroad Commissioner,,DEM,Over Votes,0,0,0,0
@@ -4322,10 +4322,10 @@ Liberty,18,U.S. Senate,,REP,Over Votes,0,0,0,0
 Liberty,18,U.S. Senate,,REP,Under Votes,26,8,18,0
 Liberty,18,U.S. Senate,,REP,Dwayne Stovall,25,8,16,1
 Liberty,18,U.S. Senate,,REP,Virgil Bierschwale,3,2,1,0
-Liberty,18,United States Representative,No. 36,REP,Over Votes,0,0,0,0
-Liberty,18,United States Representative,No. 36,REP,Under Votes,19,8,11,0
-Liberty,18,United States Representative,No. 36,REP,Brian Babin,123,75,47,1
-Liberty,18,United States Representative,No. 36,REP,RJ Boatman,20,13,7,0
+Liberty,18,U.S. House,No. 36,REP,Over Votes,0,0,0,0
+Liberty,18,U.S. House,No. 36,REP,Under Votes,19,8,11,0
+Liberty,18,U.S. House,No. 36,REP,Brian Babin,123,75,47,1
+Liberty,18,U.S. House,No. 36,REP,RJ Boatman,20,13,7,0
 Liberty,18,Railroad Commissioner,,REP,Over Votes,0,0,0,0
 Liberty,18,Railroad Commissioner,,REP,Under Votes,38,19,19,0
 Liberty,18,Railroad Commissioner,,REP,Ryan Sitton,56,35,20,1
@@ -4516,9 +4516,9 @@ Liberty,19,U.S. Senate,,DEM,Under Votes,9,5,4,0
 Liberty,19,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",12,3,8,1
 Liberty,19,U.S. Senate,,DEM,Royce West,4,4,0,0
 Liberty,19,U.S. Senate,,DEM,Jack Daniel Foster Jr,6,4,2,0
-Liberty,19,United States Representative,No. 36,DEM,Over Votes,0,0,0,0
-Liberty,19,United States Representative,No. 36,DEM,Under Votes,23,9,14,0
-Liberty,19,United States Representative,No. 36,DEM,Rashad Lewis,67,25,36,6
+Liberty,19,U.S. House,No. 36,DEM,Over Votes,0,0,0,0
+Liberty,19,U.S. House,No. 36,DEM,Under Votes,23,9,14,0
+Liberty,19,U.S. House,No. 36,DEM,Rashad Lewis,67,25,36,6
 Liberty,19,Railroad Commissioner,,DEM,Kelly Stone,24,11,11,2
 Liberty,19,Railroad Commissioner,,DEM,Mark Watson,20,7,12,1
 Liberty,19,Railroad Commissioner,,DEM,Over Votes,0,0,0,0
@@ -4581,10 +4581,10 @@ Liberty,19,U.S. Senate,,REP,Over Votes,1,0,1,0
 Liberty,19,U.S. Senate,,REP,Under Votes,51,39,12,0
 Liberty,19,U.S. Senate,,REP,Dwayne Stovall,77,50,27,0
 Liberty,19,U.S. Senate,,REP,Virgil Bierschwale,3,3,0,0
-Liberty,19,United States Representative,No. 36,REP,Over Votes,0,0,0,0
-Liberty,19,United States Representative,No. 36,REP,Under Votes,28,16,12,0
-Liberty,19,United States Representative,No. 36,REP,Brian Babin,412,315,96,1
-Liberty,19,United States Representative,No. 36,REP,RJ Boatman,61,40,21,0
+Liberty,19,U.S. House,No. 36,REP,Over Votes,0,0,0,0
+Liberty,19,U.S. House,No. 36,REP,Under Votes,28,16,12,0
+Liberty,19,U.S. House,No. 36,REP,Brian Babin,412,315,96,1
+Liberty,19,U.S. House,No. 36,REP,RJ Boatman,61,40,21,0
 Liberty,19,Railroad Commissioner,,REP,Over Votes,0,0,0,0
 Liberty,19,Railroad Commissioner,,REP,Under Votes,115,89,26,0
 Liberty,19,Railroad Commissioner,,REP,Ryan Sitton,178,136,42,0
@@ -4775,9 +4775,9 @@ Liberty,20,U.S. Senate,,DEM,Under Votes,32,11,20,1
 Liberty,20,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",7,1,5,1
 Liberty,20,U.S. Senate,,DEM,Royce West,18,4,11,3
 Liberty,20,U.S. Senate,,DEM,Jack Daniel Foster Jr,2,0,2,0
-Liberty,20,United States Representative,No. 36,DEM,Over Votes,0,0,0,0
-Liberty,20,United States Representative,No. 36,DEM,Under Votes,62,19,42,1
-Liberty,20,United States Representative,No. 36,DEM,Rashad Lewis,81,26,48,7
+Liberty,20,U.S. House,No. 36,DEM,Over Votes,0,0,0,0
+Liberty,20,U.S. House,No. 36,DEM,Under Votes,62,19,42,1
+Liberty,20,U.S. House,No. 36,DEM,Rashad Lewis,81,26,48,7
 Liberty,20,Railroad Commissioner,,DEM,Kelly Stone,25,10,15,0
 Liberty,20,Railroad Commissioner,,DEM,Mark Watson,32,9,19,4
 Liberty,20,Railroad Commissioner,,DEM,Over Votes,0,0,0,0
@@ -4837,10 +4837,10 @@ Liberty,20,U.S. Senate,,REP,Over Votes,0,0,0,0
 Liberty,20,U.S. Senate,,REP,Under Votes,34,21,13,0
 Liberty,20,U.S. Senate,,REP,Dwayne Stovall,3,2,1,0
 Liberty,20,U.S. Senate,,REP,Virgil Bierschwale,0,0,0,0
-Liberty,20,United States Representative,No. 36,REP,Over Votes,0,0,0,0
-Liberty,20,United States Representative,No. 36,REP,Under Votes,35,18,17,0
-Liberty,20,United States Representative,No. 36,REP,Brian Babin,16,7,9,0
-Liberty,20,United States Representative,No. 36,REP,RJ Boatman,10,6,4,0
+Liberty,20,U.S. House,No. 36,REP,Over Votes,0,0,0,0
+Liberty,20,U.S. House,No. 36,REP,Under Votes,35,18,17,0
+Liberty,20,U.S. House,No. 36,REP,Brian Babin,16,7,9,0
+Liberty,20,U.S. House,No. 36,REP,RJ Boatman,10,6,4,0
 Liberty,20,Railroad Commissioner,,REP,Over Votes,0,0,0,0
 Liberty,20,Railroad Commissioner,,REP,Under Votes,39,21,18,0
 Liberty,20,Railroad Commissioner,,REP,Ryan Sitton,9,3,6,0
@@ -5028,9 +5028,9 @@ Liberty,21,U.S. Senate,,DEM,Under Votes,9,2,7,0
 Liberty,21,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",35,20,11,4
 Liberty,21,U.S. Senate,,DEM,Royce West,4,2,2,0
 Liberty,21,U.S. Senate,,DEM,Jack Daniel Foster Jr,1,0,1,0
-Liberty,21,United States Representative,No. 36,DEM,Over Votes,0,0,0,0
-Liberty,21,United States Representative,No. 36,DEM,Under Votes,19,10,9,0
-Liberty,21,United States Representative,No. 36,DEM,Rashad Lewis,98,43,51,4
+Liberty,21,U.S. House,No. 36,DEM,Over Votes,0,0,0,0
+Liberty,21,U.S. House,No. 36,DEM,Under Votes,19,10,9,0
+Liberty,21,U.S. House,No. 36,DEM,Rashad Lewis,98,43,51,4
 Liberty,21,Railroad Commissioner,,DEM,Kelly Stone,32,17,15,0
 Liberty,21,Railroad Commissioner,,DEM,Mark Watson,21,9,10,2
 Liberty,21,Railroad Commissioner,,DEM,Over Votes,0,0,0,0
@@ -5087,10 +5087,10 @@ Liberty,21,U.S. Senate,,REP,Over Votes,0,0,0,0
 Liberty,21,U.S. Senate,,REP,Under Votes,55,31,24,0
 Liberty,21,U.S. Senate,,REP,Dwayne Stovall,127,80,46,1
 Liberty,21,U.S. Senate,,REP,Virgil Bierschwale,7,3,4,0
-Liberty,21,United States Representative,No. 36,REP,Over Votes,1,0,1,0
-Liberty,21,United States Representative,No. 36,REP,Under Votes,33,20,12,1
-Liberty,21,United States Representative,No. 36,REP,Brian Babin,735,464,269,2
-Liberty,21,United States Representative,No. 36,REP,RJ Boatman,104,68,36,0
+Liberty,21,U.S. House,No. 36,REP,Over Votes,1,0,1,0
+Liberty,21,U.S. House,No. 36,REP,Under Votes,33,20,12,1
+Liberty,21,U.S. House,No. 36,REP,Brian Babin,735,464,269,2
+Liberty,21,U.S. House,No. 36,REP,RJ Boatman,104,68,36,0
 Liberty,21,Railroad Commissioner,,REP,Over Votes,0,0,0,0
 Liberty,21,Railroad Commissioner,,REP,Under Votes,121,86,33,2
 Liberty,21,Railroad Commissioner,,REP,Ryan Sitton,349,235,114,0
@@ -5273,9 +5273,9 @@ Liberty,22,U.S. Senate,,DEM,Under Votes,11,2,9,0
 Liberty,22,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",15,8,7,0
 Liberty,22,U.S. Senate,,DEM,Royce West,8,5,3,0
 Liberty,22,U.S. Senate,,DEM,Jack Daniel Foster Jr,3,1,2,0
-Liberty,22,United States Representative,No. 36,DEM,Over Votes,0,0,0,0
-Liberty,22,United States Representative,No. 36,DEM,Under Votes,33,8,23,2
-Liberty,22,United States Representative,No. 36,DEM,Rashad Lewis,116,50,61,5
+Liberty,22,U.S. House,No. 36,DEM,Over Votes,0,0,0,0
+Liberty,22,U.S. House,No. 36,DEM,Under Votes,33,8,23,2
+Liberty,22,U.S. House,No. 36,DEM,Rashad Lewis,116,50,61,5
 Liberty,22,Railroad Commissioner,,DEM,Kelly Stone,30,13,14,3
 Liberty,22,Railroad Commissioner,,DEM,Mark Watson,33,18,14,1
 Liberty,22,Railroad Commissioner,,DEM,Over Votes,0,0,0,0
@@ -5332,10 +5332,10 @@ Liberty,22,U.S. Senate,,REP,Over Votes,1,1,0,0
 Liberty,22,U.S. Senate,,REP,Under Votes,31,24,7,0
 Liberty,22,U.S. Senate,,REP,Dwayne Stovall,93,59,34,0
 Liberty,22,U.S. Senate,,REP,Virgil Bierschwale,1,1,0,0
-Liberty,22,United States Representative,No. 36,REP,Over Votes,1,1,0,0
-Liberty,22,United States Representative,No. 36,REP,Under Votes,21,14,7,0
-Liberty,22,United States Representative,No. 36,REP,Brian Babin,534,364,169,1
-Liberty,22,United States Representative,No. 36,REP,RJ Boatman,60,47,12,1
+Liberty,22,U.S. House,No. 36,REP,Over Votes,1,1,0,0
+Liberty,22,U.S. House,No. 36,REP,Under Votes,21,14,7,0
+Liberty,22,U.S. House,No. 36,REP,Brian Babin,534,364,169,1
+Liberty,22,U.S. House,No. 36,REP,RJ Boatman,60,47,12,1
 Liberty,22,Railroad Commissioner,,REP,Over Votes,2,1,1,0
 Liberty,22,Railroad Commissioner,,REP,Under Votes,74,53,21,0
 Liberty,22,Railroad Commissioner,,REP,Ryan Sitton,272,198,73,1
@@ -5518,9 +5518,9 @@ Liberty,23,U.S. Senate,,DEM,Under Votes,2,1,0,1
 Liberty,23,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",9,5,4,0
 Liberty,23,U.S. Senate,,DEM,Royce West,4,2,2,0
 Liberty,23,U.S. Senate,,DEM,Jack Daniel Foster Jr,0,0,0,0
-Liberty,23,United States Representative,No. 36,DEM,Over Votes,0,0,0,0
-Liberty,23,United States Representative,No. 36,DEM,Under Votes,11,4,6,1
-Liberty,23,United States Representative,No. 36,DEM,Rashad Lewis,64,19,45,0
+Liberty,23,U.S. House,No. 36,DEM,Over Votes,0,0,0,0
+Liberty,23,U.S. House,No. 36,DEM,Under Votes,11,4,6,1
+Liberty,23,U.S. House,No. 36,DEM,Rashad Lewis,64,19,45,0
 Liberty,23,Railroad Commissioner,,DEM,Kelly Stone,17,6,11,0
 Liberty,23,Railroad Commissioner,,DEM,Mark Watson,8,2,6,0
 Liberty,23,Railroad Commissioner,,DEM,Over Votes,0,0,0,0
@@ -5580,10 +5580,10 @@ Liberty,23,U.S. Senate,,REP,Over Votes,0,0,0,0
 Liberty,23,U.S. Senate,,REP,Under Votes,25,10,15,0
 Liberty,23,U.S. Senate,,REP,Dwayne Stovall,83,36,47,0
 Liberty,23,U.S. Senate,,REP,Virgil Bierschwale,2,1,1,0
-Liberty,23,United States Representative,No. 36,REP,Over Votes,0,0,0,0
-Liberty,23,United States Representative,No. 36,REP,Under Votes,31,15,16,0
-Liberty,23,United States Representative,No. 36,REP,Brian Babin,287,121,163,3
-Liberty,23,United States Representative,No. 36,REP,RJ Boatman,41,20,21,0
+Liberty,23,U.S. House,No. 36,REP,Over Votes,0,0,0,0
+Liberty,23,U.S. House,No. 36,REP,Under Votes,31,15,16,0
+Liberty,23,U.S. House,No. 36,REP,Brian Babin,287,121,163,3
+Liberty,23,U.S. House,No. 36,REP,RJ Boatman,41,20,21,0
 Liberty,23,Railroad Commissioner,,REP,Over Votes,1,1,0,0
 Liberty,23,Railroad Commissioner,,REP,Under Votes,39,18,21,0
 Liberty,23,Railroad Commissioner,,REP,Ryan Sitton,165,78,86,1
@@ -5771,9 +5771,9 @@ Liberty,24,U.S. Senate,,DEM,Under Votes,2,1,1,0
 Liberty,24,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",3,2,0,1
 Liberty,24,U.S. Senate,,DEM,Royce West,0,0,0,0
 Liberty,24,U.S. Senate,,DEM,Jack Daniel Foster Jr,0,0,0,0
-Liberty,24,United States Representative,No. 36,DEM,Over Votes,0,0,0,0
-Liberty,24,United States Representative,No. 36,DEM,Under Votes,4,2,2,0
-Liberty,24,United States Representative,No. 36,DEM,Rashad Lewis,14,5,8,1
+Liberty,24,U.S. House,No. 36,DEM,Over Votes,0,0,0,0
+Liberty,24,U.S. House,No. 36,DEM,Under Votes,4,2,2,0
+Liberty,24,U.S. House,No. 36,DEM,Rashad Lewis,14,5,8,1
 Liberty,24,Railroad Commissioner,,DEM,Kelly Stone,6,3,2,1
 Liberty,24,Railroad Commissioner,,DEM,Mark Watson,5,1,4,0
 Liberty,24,Railroad Commissioner,,DEM,Over Votes,0,0,0,0
@@ -5830,10 +5830,10 @@ Liberty,24,U.S. Senate,,REP,Over Votes,0,0,0,0
 Liberty,24,U.S. Senate,,REP,Under Votes,11,4,7,0
 Liberty,24,U.S. Senate,,REP,Dwayne Stovall,17,8,9,0
 Liberty,24,U.S. Senate,,REP,Virgil Bierschwale,1,0,1,0
-Liberty,24,United States Representative,No. 36,REP,Over Votes,0,0,0,0
-Liberty,24,United States Representative,No. 36,REP,Under Votes,8,3,5,0
-Liberty,24,United States Representative,No. 36,REP,Brian Babin,126,64,61,1
-Liberty,24,United States Representative,No. 36,REP,RJ Boatman,18,10,8,0
+Liberty,24,U.S. House,No. 36,REP,Over Votes,0,0,0,0
+Liberty,24,U.S. House,No. 36,REP,Under Votes,8,3,5,0
+Liberty,24,U.S. House,No. 36,REP,Brian Babin,126,64,61,1
+Liberty,24,U.S. House,No. 36,REP,RJ Boatman,18,10,8,0
 Liberty,24,Railroad Commissioner,,REP,Over Votes,0,0,0,0
 Liberty,24,Railroad Commissioner,,REP,Under Votes,15,5,10,0
 Liberty,24,Railroad Commissioner,,REP,Ryan Sitton,63,35,27,1
@@ -6016,9 +6016,9 @@ Liberty,25,U.S. Senate,,DEM,Under Votes,2,0,2,0
 Liberty,25,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",6,4,2,0
 Liberty,25,U.S. Senate,,DEM,Royce West,1,1,0,0
 Liberty,25,U.S. Senate,,DEM,Jack Daniel Foster Jr,0,0,0,0
-Liberty,25,United States Representative,No. 36,DEM,Over Votes,0,0,0,0
-Liberty,25,United States Representative,No. 36,DEM,Under Votes,7,4,3,0
-Liberty,25,United States Representative,No. 36,DEM,Rashad Lewis,18,7,11,0
+Liberty,25,U.S. House,No. 36,DEM,Over Votes,0,0,0,0
+Liberty,25,U.S. House,No. 36,DEM,Under Votes,7,4,3,0
+Liberty,25,U.S. House,No. 36,DEM,Rashad Lewis,18,7,11,0
 Liberty,25,Railroad Commissioner,,DEM,Kelly Stone,9,5,4,0
 Liberty,25,Railroad Commissioner,,DEM,Mark Watson,5,2,3,0
 Liberty,25,Railroad Commissioner,,DEM,Over Votes,0,0,0,0
@@ -6078,10 +6078,10 @@ Liberty,25,U.S. Senate,,REP,Over Votes,1,1,0,0
 Liberty,25,U.S. Senate,,REP,Under Votes,13,3,10,0
 Liberty,25,U.S. Senate,,REP,Dwayne Stovall,108,55,52,1
 Liberty,25,U.S. Senate,,REP,Virgil Bierschwale,0,0,0,0
-Liberty,25,United States Representative,No. 36,REP,Over Votes,0,0,0,0
-Liberty,25,United States Representative,No. 36,REP,Under Votes,16,7,9,0
-Liberty,25,United States Representative,No. 36,REP,Brian Babin,187,99,86,2
-Liberty,25,United States Representative,No. 36,REP,RJ Boatman,38,18,19,1
+Liberty,25,U.S. House,No. 36,REP,Over Votes,0,0,0,0
+Liberty,25,U.S. House,No. 36,REP,Under Votes,16,7,9,0
+Liberty,25,U.S. House,No. 36,REP,Brian Babin,187,99,86,2
+Liberty,25,U.S. House,No. 36,REP,RJ Boatman,38,18,19,1
 Liberty,25,Railroad Commissioner,,REP,Over Votes,0,0,0,0
 Liberty,25,Railroad Commissioner,,REP,Under Votes,37,20,17,0
 Liberty,25,Railroad Commissioner,,REP,Ryan Sitton,77,45,30,2
@@ -6267,9 +6267,9 @@ Liberty,26,U.S. Senate,,DEM,Under Votes,10,6,4,0
 Liberty,26,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",9,5,3,1
 Liberty,26,U.S. Senate,,DEM,Royce West,4,3,1,0
 Liberty,26,U.S. Senate,,DEM,Jack Daniel Foster Jr,3,0,3,0
-Liberty,26,United States Representative,No. 36,DEM,Over Votes,0,0,0,0
-Liberty,26,United States Representative,No. 36,DEM,Under Votes,20,8,12,0
-Liberty,26,United States Representative,No. 36,DEM,Rashad Lewis,67,32,34,1
+Liberty,26,U.S. House,No. 36,DEM,Over Votes,0,0,0,0
+Liberty,26,U.S. House,No. 36,DEM,Under Votes,20,8,12,0
+Liberty,26,U.S. House,No. 36,DEM,Rashad Lewis,67,32,34,1
 Liberty,26,Railroad Commissioner,,DEM,Kelly Stone,19,11,8,0
 Liberty,26,Railroad Commissioner,,DEM,Mark Watson,11,6,5,0
 Liberty,26,Railroad Commissioner,,DEM,Over Votes,0,0,0,0
@@ -6329,10 +6329,10 @@ Liberty,26,U.S. Senate,,REP,Over Votes,0,0,0,0
 Liberty,26,U.S. Senate,,REP,Under Votes,54,37,17,0
 Liberty,26,U.S. Senate,,REP,Dwayne Stovall,103,55,48,0
 Liberty,26,U.S. Senate,,REP,Virgil Bierschwale,3,2,1,0
-Liberty,26,United States Representative,No. 36,REP,Over Votes,0,0,0,0
-Liberty,26,United States Representative,No. 36,REP,Under Votes,54,36,18,0
-Liberty,26,United States Representative,No. 36,REP,Brian Babin,362,204,156,2
-Liberty,26,United States Representative,No. 36,REP,RJ Boatman,57,31,26,0
+Liberty,26,U.S. House,No. 36,REP,Over Votes,0,0,0,0
+Liberty,26,U.S. House,No. 36,REP,Under Votes,54,36,18,0
+Liberty,26,U.S. House,No. 36,REP,Brian Babin,362,204,156,2
+Liberty,26,U.S. House,No. 36,REP,RJ Boatman,57,31,26,0
 Liberty,26,Railroad Commissioner,,REP,Over Votes,0,0,0,0
 Liberty,26,Railroad Commissioner,,REP,Under Votes,75,51,23,1
 Liberty,26,Railroad Commissioner,,REP,Ryan Sitton,193,107,86,0
@@ -6520,9 +6520,9 @@ Liberty,27,U.S. Senate,,DEM,Under Votes,2,1,0,1
 Liberty,27,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",1,0,1,0
 Liberty,27,U.S. Senate,,DEM,Royce West,0,0,0,0
 Liberty,27,U.S. Senate,,DEM,Jack Daniel Foster Jr,0,0,0,0
-Liberty,27,United States Representative,No. 36,DEM,Over Votes,0,0,0,0
-Liberty,27,United States Representative,No. 36,DEM,Under Votes,2,1,0,1
-Liberty,27,United States Representative,No. 36,DEM,Rashad Lewis,13,3,9,1
+Liberty,27,U.S. House,No. 36,DEM,Over Votes,0,0,0,0
+Liberty,27,U.S. House,No. 36,DEM,Under Votes,2,1,0,1
+Liberty,27,U.S. House,No. 36,DEM,Rashad Lewis,13,3,9,1
 Liberty,27,Railroad Commissioner,,DEM,Kelly Stone,3,2,1,0
 Liberty,27,Railroad Commissioner,,DEM,Mark Watson,2,0,2,0
 Liberty,27,Railroad Commissioner,,DEM,Over Votes,0,0,0,0
@@ -6582,10 +6582,10 @@ Liberty,27,U.S. Senate,,REP,Over Votes,0,0,0,0
 Liberty,27,U.S. Senate,,REP,Under Votes,5,4,1,0
 Liberty,27,U.S. Senate,,REP,Dwayne Stovall,15,7,8,0
 Liberty,27,U.S. Senate,,REP,Virgil Bierschwale,0,0,0,0
-Liberty,27,United States Representative,No. 36,REP,Over Votes,0,0,0,0
-Liberty,27,United States Representative,No. 36,REP,Under Votes,4,4,0,0
-Liberty,27,United States Representative,No. 36,REP,Brian Babin,78,52,26,0
-Liberty,27,United States Representative,No. 36,REP,RJ Boatman,11,8,3,0
+Liberty,27,U.S. House,No. 36,REP,Over Votes,0,0,0,0
+Liberty,27,U.S. House,No. 36,REP,Under Votes,4,4,0,0
+Liberty,27,U.S. House,No. 36,REP,Brian Babin,78,52,26,0
+Liberty,27,U.S. House,No. 36,REP,RJ Boatman,11,8,3,0
 Liberty,27,Railroad Commissioner,,REP,Over Votes,0,0,0,0
 Liberty,27,Railroad Commissioner,,REP,Under Votes,16,13,3,0
 Liberty,27,Railroad Commissioner,,REP,Ryan Sitton,31,20,11,0
@@ -6770,9 +6770,9 @@ Liberty,28,U.S. Senate,,DEM,Under Votes,3,1,2,0
 Liberty,28,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",4,1,2,1
 Liberty,28,U.S. Senate,,DEM,Royce West,0,0,0,0
 Liberty,28,U.S. Senate,,DEM,Jack Daniel Foster Jr,0,0,0,0
-Liberty,28,United States Representative,No. 36,DEM,Over Votes,0,0,0,0
-Liberty,28,United States Representative,No. 36,DEM,Under Votes,5,2,2,1
-Liberty,28,United States Representative,No. 36,DEM,Rashad Lewis,6,4,2,0
+Liberty,28,U.S. House,No. 36,DEM,Over Votes,0,0,0,0
+Liberty,28,U.S. House,No. 36,DEM,Under Votes,5,2,2,1
+Liberty,28,U.S. House,No. 36,DEM,Rashad Lewis,6,4,2,0
 Liberty,28,Railroad Commissioner,,DEM,Kelly Stone,4,3,0,1
 Liberty,28,Railroad Commissioner,,DEM,Mark Watson,1,0,1,0
 Liberty,28,Railroad Commissioner,,DEM,Over Votes,0,0,0,0
@@ -6829,10 +6829,10 @@ Liberty,28,U.S. Senate,,REP,Over Votes,1,1,0,0
 Liberty,28,U.S. Senate,,REP,Under Votes,7,5,2,0
 Liberty,28,U.S. Senate,,REP,Dwayne Stovall,37,19,18,0
 Liberty,28,U.S. Senate,,REP,Virgil Bierschwale,0,0,0,0
-Liberty,28,United States Representative,No. 36,REP,Over Votes,0,0,0,0
-Liberty,28,United States Representative,No. 36,REP,Under Votes,4,4,0,0
-Liberty,28,United States Representative,No. 36,REP,Brian Babin,136,80,54,2
-Liberty,28,United States Representative,No. 36,REP,RJ Boatman,15,9,6,0
+Liberty,28,U.S. House,No. 36,REP,Over Votes,0,0,0,0
+Liberty,28,U.S. House,No. 36,REP,Under Votes,4,4,0,0
+Liberty,28,U.S. House,No. 36,REP,Brian Babin,136,80,54,2
+Liberty,28,U.S. House,No. 36,REP,RJ Boatman,15,9,6,0
 Liberty,28,Railroad Commissioner,,REP,Over Votes,1,1,0,0
 Liberty,28,Railroad Commissioner,,REP,Under Votes,17,11,6,0
 Liberty,28,Railroad Commissioner,,REP,Ryan Sitton,58,34,22,2
@@ -7014,9 +7014,9 @@ Liberty,29,U.S. Senate,,DEM,Under Votes,4,0,4,0
 Liberty,29,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",14,3,11,0
 Liberty,29,U.S. Senate,,DEM,Royce West,3,0,1,2
 Liberty,29,U.S. Senate,,DEM,Jack Daniel Foster Jr,0,0,0,0
-Liberty,29,United States Representative,No. 36,DEM,Over Votes,0,0,0,0
-Liberty,29,United States Representative,No. 36,DEM,Under Votes,12,1,11,0
-Liberty,29,United States Representative,No. 36,DEM,Rashad Lewis,37,9,25,3
+Liberty,29,U.S. House,No. 36,DEM,Over Votes,0,0,0,0
+Liberty,29,U.S. House,No. 36,DEM,Under Votes,12,1,11,0
+Liberty,29,U.S. House,No. 36,DEM,Rashad Lewis,37,9,25,3
 Liberty,29,Railroad Commissioner,,DEM,Kelly Stone,15,3,9,3
 Liberty,29,Railroad Commissioner,,DEM,Mark Watson,11,1,10,0
 Liberty,29,Railroad Commissioner,,DEM,Over Votes,0,0,0,0
@@ -7076,10 +7076,10 @@ Liberty,29,U.S. Senate,,REP,Over Votes,0,0,0,0
 Liberty,29,U.S. Senate,,REP,Under Votes,12,5,7,0
 Liberty,29,U.S. Senate,,REP,Dwayne Stovall,40,19,21,0
 Liberty,29,U.S. Senate,,REP,Virgil Bierschwale,1,1,0,0
-Liberty,29,United States Representative,No. 36,REP,Over Votes,0,0,0,0
-Liberty,29,United States Representative,No. 36,REP,Under Votes,6,2,4,0
-Liberty,29,United States Representative,No. 36,REP,Brian Babin,204,115,87,2
-Liberty,29,United States Representative,No. 36,REP,RJ Boatman,25,16,9,0
+Liberty,29,U.S. House,No. 36,REP,Over Votes,0,0,0,0
+Liberty,29,U.S. House,No. 36,REP,Under Votes,6,2,4,0
+Liberty,29,U.S. House,No. 36,REP,Brian Babin,204,115,87,2
+Liberty,29,U.S. House,No. 36,REP,RJ Boatman,25,16,9,0
 Liberty,29,Railroad Commissioner,,REP,Over Votes,1,1,0,0
 Liberty,29,Railroad Commissioner,,REP,Under Votes,20,9,11,0
 Liberty,29,Railroad Commissioner,,REP,Ryan Sitton,101,64,36,1
@@ -7268,9 +7268,9 @@ Liberty,30,U.S. Senate,,DEM,Under Votes,9,4,5,0
 Liberty,30,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",17,9,6,2
 Liberty,30,U.S. Senate,,DEM,Royce West,7,4,3,0
 Liberty,30,U.S. Senate,,DEM,Jack Daniel Foster Jr,10,1,7,2
-Liberty,30,United States Representative,No. 36,DEM,Over Votes,0,0,0,0
-Liberty,30,United States Representative,No. 36,DEM,Under Votes,25,8,15,2
-Liberty,30,United States Representative,No. 36,DEM,Rashad Lewis,98,49,41,8
+Liberty,30,U.S. House,No. 36,DEM,Over Votes,0,0,0,0
+Liberty,30,U.S. House,No. 36,DEM,Under Votes,25,8,15,2
+Liberty,30,U.S. House,No. 36,DEM,Rashad Lewis,98,49,41,8
 Liberty,30,Railroad Commissioner,,DEM,Kelly Stone,28,11,15,2
 Liberty,30,Railroad Commissioner,,DEM,Mark Watson,25,12,9,4
 Liberty,30,Railroad Commissioner,,DEM,Over Votes,0,0,0,0
@@ -7330,10 +7330,10 @@ Liberty,30,U.S. Senate,,REP,Over Votes,0,0,0,0
 Liberty,30,U.S. Senate,,REP,Under Votes,27,23,4,0
 Liberty,30,U.S. Senate,,REP,Dwayne Stovall,34,21,13,0
 Liberty,30,U.S. Senate,,REP,Virgil Bierschwale,4,3,1,0
-Liberty,30,United States Representative,No. 36,REP,Over Votes,0,0,0,0
-Liberty,30,United States Representative,No. 36,REP,Under Votes,24,20,4,0
-Liberty,30,United States Representative,No. 36,REP,Brian Babin,350,263,86,1
-Liberty,30,United States Representative,No. 36,REP,RJ Boatman,38,21,16,1
+Liberty,30,U.S. House,No. 36,REP,Over Votes,0,0,0,0
+Liberty,30,U.S. House,No. 36,REP,Under Votes,24,20,4,0
+Liberty,30,U.S. House,No. 36,REP,Brian Babin,350,263,86,1
+Liberty,30,U.S. House,No. 36,REP,RJ Boatman,38,21,16,1
 Liberty,30,Railroad Commissioner,,REP,Over Votes,0,0,0,0
 Liberty,30,Railroad Commissioner,,REP,Under Votes,53,44,9,0
 Liberty,30,Railroad Commissioner,,REP,Ryan Sitton,174,131,41,2

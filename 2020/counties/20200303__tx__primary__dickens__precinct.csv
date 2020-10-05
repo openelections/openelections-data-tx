@@ -1,27 +1,16 @@
 county,precinct,office,district,party,candidate,absentee,early_voting,election_day,votes
 Dickens,Precinct 1,Ballots Cast,,REP,,,,,63
-Dickens,Precinct 1,"President REPUBLICAN PARTY
-",,REP,Donald J. Trump,4,20,30,54
-Dickens,Precinct 1,"President REPUBLICAN PARTY
-",,REP,Bob Ely,0,0,0,0
-Dickens,Precinct 1,"President REPUBLICAN PARTY
-",,REP,Bill Weld,1,0,0,1
-Dickens,Precinct 1,"President REPUBLICAN PARTY
-",,REP,Matthew John Matern,0,0,0,0
-Dickens,Precinct 1,"President REPUBLICAN PARTY
-",,REP,Joe Walsh,0,0,0,0
-Dickens,Precinct 1,"President REPUBLICAN PARTY
-",,REP,"Roque ""Rocky"" De La Fuente Guerra",0,0,0,0
-Dickens,Precinct 1,"President REPUBLICAN PARTY
-",,REP,Zoltan G. Istvan,0,0,0,0
-Dickens,Precinct 1,"President REPUBLICAN PARTY
-",,REP,Uncommitted,0,0,2,2
-Dickens,Precinct 1,"President REPUBLICAN PARTY
-",,REP,Ballots Cast,5,20,32,57
-Dickens,Precinct 1,"President REPUBLICAN PARTY
-",,REP,Over Votes:,0,0,0,0
-Dickens,Precinct 1,"President REPUBLICAN PARTY
-",,REP,Under Votes:,0,0,3,3
+Dickens,Precinct 1,President,,REP,Donald J. Trump,4,20,30,54
+Dickens,Precinct 1,President,,REP,Bob Ely,0,0,0,0
+Dickens,Precinct 1,President,,REP,Bill Weld,1,0,0,1
+Dickens,Precinct 1,President,,REP,Matthew John Matern,0,0,0,0
+Dickens,Precinct 1,President,,REP,Joe Walsh,0,0,0,0
+Dickens,Precinct 1,President,,REP,"Roque ""Rocky"" De La Fuente Guerra",0,0,0,0
+Dickens,Precinct 1,President,,REP,Zoltan G. Istvan,0,0,0,0
+Dickens,Precinct 1,President,,REP,Uncommitted,0,0,2,2
+Dickens,Precinct 1,President,,REP,Ballots Cast,5,20,32,57
+Dickens,Precinct 1,President,,REP,Over Votes:,0,0,0,0
+Dickens,Precinct 1,President,,REP,Under Votes:,0,0,3,3
 Dickens,Precinct 1,U.S. Senate,,REP,Dwayne Stovall,0,7,6,13
 Dickens,Precinct 1,U.S. Senate,,REP,Mark Yancey,0,1,1,2
 Dickens,Precinct 1,U.S. Senate,,REP,John Anthony Castro,1,0,1,2
@@ -114,14 +103,10 @@ Dickens,Precinct 1,County Attorney,,REP,Aaron Clements,4,13,28,45
 Dickens,Precinct 1,County Attorney,,REP,Ballots Cast,4,13,28,45
 Dickens,Precinct 1,County Attorney,,REP,Over Votes:,0,0,0,0
 Dickens,Precinct 1,County Attorney,,REP,Under Votes:,0,7,7,14
-Dickens,Precinct 1,"Sheriff REPUBLICAN PARTY
-",,REP,Terry Braly,5,15,29,49
-Dickens,Precinct 1,"Sheriff REPUBLICAN PARTY
-",,REP,Ballots Cast,5,15,29,49
-Dickens,Precinct 1,"Sheriff REPUBLICAN PARTY
-",,REP,Over Votes:,0,0,0,0
-Dickens,Precinct 1,"Sheriff REPUBLICAN PARTY
-",,REP,Under Votes:,0,5,6,11
+Dickens,Precinct 1,Sheriff,,REP,Terry Braly,5,15,29,49
+Dickens,Precinct 1,Sheriff,,REP,Ballots Cast,5,15,29,49
+Dickens,Precinct 1,Sheriff,,REP,Over Votes:,0,0,0,0
+Dickens,Precinct 1,Sheriff,,REP,Under Votes:,0,5,6,11
 Dickens,Precinct 1,County Tax Assessor-Collector,,REP,Rebecca Haney,5,15,27,47
 Dickens,Precinct 1,County Tax Assessor-Collector,,REP,Ballots Cast,5,15,27,47
 Dickens,Precinct 1,County Tax Assessor-Collector,,REP,Over Votes:,0,0,0,0
@@ -136,76 +121,41 @@ Dickens,Precinct 1,County Chairman,,REP,Ballots Cast,5,13,28,46
 Dickens,Precinct 1,County Chairman,,REP,Over Votes:,0,0,0,0
 Dickens,Precinct 1,County Chairman,,REP,Under Votes:,0,7,7,14
 Dickens,Precinct 1,Ballots Cast,,REP,,,,,63
-Dickens,Precinct 1,"President DEMOCRATIC PARTY
-",,DEM,Marianne Williamson,0,0,0,0
-Dickens,Precinct 1,"President DEMOCRATIC PARTY
-",,DEM,Michael R. Bloomberg,0,0,1,1
-Dickens,Precinct 1,"President DEMOCRATIC PARTY
-",,DEM,Robby Wells,0,0,0,0
-Dickens,Precinct 1,"President DEMOCRATIC PARTY
-",,DEM,Julián Castro,0,0,0,0
-Dickens,Precinct 1,"President DEMOCRATIC PARTY
-",,DEM,Pete Buttigieg,0,0,0,0
-Dickens,Precinct 1,"President DEMOCRATIC PARTY
-",,DEM,"Roque ""Rocky"" De La Fuente",0,0,0,0
-Dickens,Precinct 1,"President DEMOCRATIC PARTY
-",,DEM,Tulsi Gabbard,0,0,0,0
-Dickens,Precinct 1,"President DEMOCRATIC PARTY
-",,DEM,Amy Klobuchar,0,0,0,0
-Dickens,Precinct 1,"President DEMOCRATIC PARTY
-",,DEM,Tom Steyer,0,0,0,0
-Dickens,Precinct 1,"President DEMOCRATIC PARTY
-",,DEM,Cory Booker,0,0,0,0
-Dickens,Precinct 1,"President DEMOCRATIC PARTY
-",,DEM,John K. Delaney,0,0,0,0
-Dickens,Precinct 1,"President DEMOCRATIC PARTY
-",,DEM,Deval Patrick,0,0,0,0
-Dickens,Precinct 1,"President DEMOCRATIC PARTY
-",,DEM,Andrew Yang,0,0,0,0
-Dickens,Precinct 1,"President DEMOCRATIC PARTY
-",,DEM,Michael Bennet,0,0,0,0
-Dickens,Precinct 1,"President DEMOCRATIC PARTY
-",,DEM,Joseph R. Biden,0,0,1,1
-Dickens,Precinct 1,"President DEMOCRATIC PARTY
-",,DEM,Bernie Sanders,0,0,0,0
-Dickens,Precinct 1,"President DEMOCRATIC PARTY
-",,DEM,Elizabeth Warren,0,0,0,0
-Dickens,Precinct 1,"President DEMOCRATIC PARTY
-",,DEM,Ballots Cast,0,0,2,2
-Dickens,Precinct 1,"President DEMOCRATIC PARTY
-",,DEM,Over Votes:,0,0,0,0
-Dickens,Precinct 1,"President DEMOCRATIC PARTY
-",,DEM,Under Votes:,0,0,1,1
-Dickens,Precinct 1,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Chris Bell,0,0,2,2
-Dickens,Precinct 1,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Victor Hugo Harris,0,0,0,0
-Dickens,Precinct 1,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,"Annie ""Mamá"" Garcia",0,0,0,0
-Dickens,Precinct 1,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Royce West,0,0,0,0
-Dickens,Precinct 1,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Michael Cooper,0,0,0,0
-Dickens,Precinct 1,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Adrian Ocegueda,0,0,0,0
-Dickens,Precinct 1,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,D.R. Hunter,0,0,0,0
-Dickens,Precinct 1,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Amanda K. Edwards,0,0,0,0
-Dickens,Precinct 1,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,"Mary ""MJ"" Hegar",0,0,0,0
-Dickens,Precinct 1,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Jack Daniel Foster Jr,0,0,0,0
-Dickens,Precinct 1,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Sema Hernandez,0,0,0,0
-Dickens,Precinct 1,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Cristina Tzintzun Ramirez,0,0,0,0
-Dickens,Precinct 1,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Ballots Cast,0,0,2,2
-Dickens,Precinct 1,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Over Votes:,0,0,0,0
-Dickens,Precinct 1,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Under Votes:,0,0,1,1
+Dickens,Precinct 1,President,,DEM,Marianne Williamson,0,0,0,0
+Dickens,Precinct 1,President,,DEM,Michael R. Bloomberg,0,0,1,1
+Dickens,Precinct 1,President,,DEM,Robby Wells,0,0,0,0
+Dickens,Precinct 1,President,,DEM,Julián Castro,0,0,0,0
+Dickens,Precinct 1,President,,DEM,Pete Buttigieg,0,0,0,0
+Dickens,Precinct 1,President,,DEM,"Roque ""Rocky"" De La Fuente",0,0,0,0
+Dickens,Precinct 1,President,,DEM,Tulsi Gabbard,0,0,0,0
+Dickens,Precinct 1,President,,DEM,Amy Klobuchar,0,0,0,0
+Dickens,Precinct 1,President,,DEM,Tom Steyer,0,0,0,0
+Dickens,Precinct 1,President,,DEM,Cory Booker,0,0,0,0
+Dickens,Precinct 1,President,,DEM,John K. Delaney,0,0,0,0
+Dickens,Precinct 1,President,,DEM,Deval Patrick,0,0,0,0
+Dickens,Precinct 1,President,,DEM,Andrew Yang,0,0,0,0
+Dickens,Precinct 1,President,,DEM,Michael Bennet,0,0,0,0
+Dickens,Precinct 1,President,,DEM,Joseph R. Biden,0,0,1,1
+Dickens,Precinct 1,President,,DEM,Bernie Sanders,0,0,0,0
+Dickens,Precinct 1,President,,DEM,Elizabeth Warren,0,0,0,0
+Dickens,Precinct 1,President,,DEM,Ballots Cast,0,0,2,2
+Dickens,Precinct 1,President,,DEM,Over Votes:,0,0,0,0
+Dickens,Precinct 1,President,,DEM,Under Votes:,0,0,1,1
+Dickens,Precinct 1,U.S. Senate,,DEM,Chris Bell,0,0,2,2
+Dickens,Precinct 1,U.S. Senate,,DEM,Victor Hugo Harris,0,0,0,0
+Dickens,Precinct 1,U.S. Senate,,DEM,"Annie ""Mamá"" Garcia",0,0,0,0
+Dickens,Precinct 1,U.S. Senate,,DEM,Royce West,0,0,0,0
+Dickens,Precinct 1,U.S. Senate,,DEM,Michael Cooper,0,0,0,0
+Dickens,Precinct 1,U.S. Senate,,DEM,Adrian Ocegueda,0,0,0,0
+Dickens,Precinct 1,U.S. Senate,,DEM,D.R. Hunter,0,0,0,0
+Dickens,Precinct 1,U.S. Senate,,DEM,Amanda K. Edwards,0,0,0,0
+Dickens,Precinct 1,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",0,0,0,0
+Dickens,Precinct 1,U.S. Senate,,DEM,Jack Daniel Foster Jr,0,0,0,0
+Dickens,Precinct 1,U.S. Senate,,DEM,Sema Hernandez,0,0,0,0
+Dickens,Precinct 1,U.S. Senate,,DEM,Cristina Tzintzun Ramirez,0,0,0,0
+Dickens,Precinct 1,U.S. Senate,,DEM,Ballots Cast,0,0,2,2
+Dickens,Precinct 1,U.S. Senate,,DEM,Over Votes:,0,0,0,0
+Dickens,Precinct 1,U.S. Senate,,DEM,Under Votes:,0,0,1,1
 Dickens,Precinct 1,U.S. House,13,DEM,Gus Trujillo,0,0,2,2
 Dickens,Precinct 1,U.S. House,13,DEM,Timothy W. Gassaway,0,0,0,0
 Dickens,Precinct 1,U.S. House,13,DEM,Greg Sagan,0,0,1,1
@@ -378,28 +328,17 @@ Dickens,Precinct 1,Proposition 10,,REP,Ballots Cast,5,20,31,56
 Dickens,Precinct 1,Proposition 10,,REP,Over Votes:,0,0,0,0
 Dickens,Precinct 1,Proposition 10,,REP,Under Votes:,0,0,4,4
 Dickens,Precinct 2,Ballots Cast,,REP,,,,,61
-Dickens,Precinct 2,"President REPUBLICAN PARTY
-",,REP,Donald J. Trump,2,30,19,51
-Dickens,Precinct 2,"President REPUBLICAN PARTY
-",,REP,Bob Ely,0,0,0,0
-Dickens,Precinct 2,"President REPUBLICAN PARTY
-",,REP,Bill Weld,0,0,0,0
-Dickens,Precinct 2,"President REPUBLICAN PARTY
-",,REP,Matthew John Matern,0,0,0,0
-Dickens,Precinct 2,"President REPUBLICAN PARTY
-",,REP,Joe Walsh,0,0,0,0
-Dickens,Precinct 2,"President REPUBLICAN PARTY
-",,REP,"Roque ""Rocky"" De La Fuente Guerra",0,0,1,1
-Dickens,Precinct 2,"President REPUBLICAN PARTY
-",,REP,Zoltan G. Istvan,0,0,0,0
-Dickens,Precinct 2,"President REPUBLICAN PARTY
-",,REP,Uncommitted,0,0,1,1
-Dickens,Precinct 2,"President REPUBLICAN PARTY
-",,REP,Ballots Cast,2,30,21,53
-Dickens,Precinct 2,"President REPUBLICAN PARTY
-",,REP,Over Votes:,0,0,0,0
-Dickens,Precinct 2,"President REPUBLICAN PARTY
-",,REP,Under Votes:,0,0,0,0
+Dickens,Precinct 2,President,,REP,Donald J. Trump,2,30,19,51
+Dickens,Precinct 2,President,,REP,Bob Ely,0,0,0,0
+Dickens,Precinct 2,President,,REP,Bill Weld,0,0,0,0
+Dickens,Precinct 2,President,,REP,Matthew John Matern,0,0,0,0
+Dickens,Precinct 2,President,,REP,Joe Walsh,0,0,0,0
+Dickens,Precinct 2,President,,REP,"Roque ""Rocky"" De La Fuente Guerra",0,0,1,1
+Dickens,Precinct 2,President,,REP,Zoltan G. Istvan,0,0,0,0
+Dickens,Precinct 2,President,,REP,Uncommitted,0,0,1,1
+Dickens,Precinct 2,President,,REP,Ballots Cast,2,30,21,53
+Dickens,Precinct 2,President,,REP,Over Votes:,0,0,0,0
+Dickens,Precinct 2,President,,REP,Under Votes:,0,0,0,0
 Dickens,Precinct 2,U.S. Senate,,REP,Dwayne Stovall,1,3,3,7
 Dickens,Precinct 2,U.S. Senate,,REP,Mark Yancey,0,3,0,3
 Dickens,Precinct 2,U.S. Senate,,REP,John Anthony Castro,0,0,2,2
@@ -492,14 +431,10 @@ Dickens,Precinct 2,County Attorney,,REP,Aaron Clements,2,27,19,48
 Dickens,Precinct 2,County Attorney,,REP,Ballots Cast,2,27,19,48
 Dickens,Precinct 2,County Attorney,,REP,Over Votes:,0,0,0,0
 Dickens,Precinct 2,County Attorney,,REP,Under Votes:,0,3,2,5
-Dickens,Precinct 2,"Sheriff REPUBLICAN PARTY
-",,REP,Terry Braly,0,25,20,45
-Dickens,Precinct 2,"Sheriff REPUBLICAN PARTY
-",,REP,Ballots Cast,0,25,20,45
-Dickens,Precinct 2,"Sheriff REPUBLICAN PARTY
-",,REP,Over Votes:,0,0,0,0
-Dickens,Precinct 2,"Sheriff REPUBLICAN PARTY
-",,REP,Under Votes:,0,5,1,6
+Dickens,Precinct 2,Sheriff,,REP,Terry Braly,0,25,20,45
+Dickens,Precinct 2,Sheriff,,REP,Ballots Cast,0,25,20,45
+Dickens,Precinct 2,Sheriff,,REP,Over Votes:,0,0,0,0
+Dickens,Precinct 2,Sheriff,,REP,Under Votes:,0,5,1,6
 Dickens,Precinct 2,County Tax Assessor-Collector,,REP,Rebecca Haney,3,23,17,43
 Dickens,Precinct 2,County Tax Assessor-Collector,,REP,Ballots Cast,3,23,17,43
 Dickens,Precinct 2,County Tax Assessor-Collector,,REP,Over Votes:,0,0,0,0
@@ -509,76 +444,41 @@ Dickens,Precinct 2,County Chairman,,REP,Ballots Cast,1,23,18,42
 Dickens,Precinct 2,County Chairman,,REP,Over Votes:,0,0,0,0
 Dickens,Precinct 2,County Chairman,,REP,Under Votes:,0,7,3,10
 Dickens,Precinct 2,Ballots Cast,,REP,,,,,61
-Dickens,Precinct 2,"President DEMOCRATIC PARTY
-",,DEM,Marianne Williamson,0,0,0,0
-Dickens,Precinct 2,"President DEMOCRATIC PARTY
-",,DEM,Michael R. Bloomberg,0,0,0,0
-Dickens,Precinct 2,"President DEMOCRATIC PARTY
-",,DEM,Robby Wells,0,0,0,0
-Dickens,Precinct 2,"President DEMOCRATIC PARTY
-",,DEM,Julián Castro,0,0,1,1
-Dickens,Precinct 2,"President DEMOCRATIC PARTY
-",,DEM,Pete Buttigieg,0,0,0,0
-Dickens,Precinct 2,"President DEMOCRATIC PARTY
-",,DEM,"Roque ""Rocky"" De La Fuente",0,0,0,0
-Dickens,Precinct 2,"President DEMOCRATIC PARTY
-",,DEM,Tulsi Gabbard,0,0,0,0
-Dickens,Precinct 2,"President DEMOCRATIC PARTY
-",,DEM,Amy Klobuchar,0,0,0,0
-Dickens,Precinct 2,"President DEMOCRATIC PARTY
-",,DEM,Tom Steyer,0,0,0,0
-Dickens,Precinct 2,"President DEMOCRATIC PARTY
-",,DEM,Cory Booker,0,0,0,0
-Dickens,Precinct 2,"President DEMOCRATIC PARTY
-",,DEM,John K. Delaney,0,0,0,0
-Dickens,Precinct 2,"President DEMOCRATIC PARTY
-",,DEM,Deval Patrick,0,0,0,0
-Dickens,Precinct 2,"President DEMOCRATIC PARTY
-",,DEM,Andrew Yang,0,0,0,0
-Dickens,Precinct 2,"President DEMOCRATIC PARTY
-",,DEM,Michael Bennet,0,0,0,0
-Dickens,Precinct 2,"President DEMOCRATIC PARTY
-",,DEM,Joseph R. Biden,0,2,0,2
-Dickens,Precinct 2,"President DEMOCRATIC PARTY
-",,DEM,Bernie Sanders,2,0,1,3
-Dickens,Precinct 2,"President DEMOCRATIC PARTY
-",,DEM,Elizabeth Warren,1,0,0,1
-Dickens,Precinct 2,"President DEMOCRATIC PARTY
-",,DEM,Ballots Cast,3,2,2,7
-Dickens,Precinct 2,"President DEMOCRATIC PARTY
-",,DEM,Over Votes:,0,0,0,0
-Dickens,Precinct 2,"President DEMOCRATIC PARTY
-",,DEM,Under Votes:,0,0,0,0
-Dickens,Precinct 2,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Chris Bell,0,2,0,2
-Dickens,Precinct 2,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Victor Hugo Harris,0,0,0,0
-Dickens,Precinct 2,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,"Annie ""Mamá"" Garcia",0,0,1,1
-Dickens,Precinct 2,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Royce West,0,0,0,0
-Dickens,Precinct 2,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Michael Cooper,0,0,0,0
-Dickens,Precinct 2,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Adrian Ocegueda,0,0,0,0
-Dickens,Precinct 2,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,D.R. Hunter,0,0,0,0
-Dickens,Precinct 2,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Amanda K. Edwards,0,0,0,0
-Dickens,Precinct 2,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,"Mary ""MJ"" Hegar",1,0,0,1
-Dickens,Precinct 2,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Jack Daniel Foster Jr,0,0,0,0
-Dickens,Precinct 2,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Sema Hernandez,0,0,0,0
-Dickens,Precinct 2,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Cristina Tzintzun Ramirez,0,0,0,0
-Dickens,Precinct 2,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Ballots Cast,1,2,1,4
-Dickens,Precinct 2,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Over Votes:,0,0,0,0
-Dickens,Precinct 2,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Under Votes:,0,0,1,1
+Dickens,Precinct 2,President,,DEM,Marianne Williamson,0,0,0,0
+Dickens,Precinct 2,President,,DEM,Michael R. Bloomberg,0,0,0,0
+Dickens,Precinct 2,President,,DEM,Robby Wells,0,0,0,0
+Dickens,Precinct 2,President,,DEM,Julián Castro,0,0,1,1
+Dickens,Precinct 2,President,,DEM,Pete Buttigieg,0,0,0,0
+Dickens,Precinct 2,President,,DEM,"Roque ""Rocky"" De La Fuente",0,0,0,0
+Dickens,Precinct 2,President,,DEM,Tulsi Gabbard,0,0,0,0
+Dickens,Precinct 2,President,,DEM,Amy Klobuchar,0,0,0,0
+Dickens,Precinct 2,President,,DEM,Tom Steyer,0,0,0,0
+Dickens,Precinct 2,President,,DEM,Cory Booker,0,0,0,0
+Dickens,Precinct 2,President,,DEM,John K. Delaney,0,0,0,0
+Dickens,Precinct 2,President,,DEM,Deval Patrick,0,0,0,0
+Dickens,Precinct 2,President,,DEM,Andrew Yang,0,0,0,0
+Dickens,Precinct 2,President,,DEM,Michael Bennet,0,0,0,0
+Dickens,Precinct 2,President,,DEM,Joseph R. Biden,0,2,0,2
+Dickens,Precinct 2,President,,DEM,Bernie Sanders,2,0,1,3
+Dickens,Precinct 2,President,,DEM,Elizabeth Warren,1,0,0,1
+Dickens,Precinct 2,President,,DEM,Ballots Cast,3,2,2,7
+Dickens,Precinct 2,President,,DEM,Over Votes:,0,0,0,0
+Dickens,Precinct 2,President,,DEM,Under Votes:,0,0,0,0
+Dickens,Precinct 2,U.S. Senate,,DEM,Chris Bell,0,2,0,2
+Dickens,Precinct 2,U.S. Senate,,DEM,Victor Hugo Harris,0,0,0,0
+Dickens,Precinct 2,U.S. Senate,,DEM,"Annie ""Mamá"" Garcia",0,0,1,1
+Dickens,Precinct 2,U.S. Senate,,DEM,Royce West,0,0,0,0
+Dickens,Precinct 2,U.S. Senate,,DEM,Michael Cooper,0,0,0,0
+Dickens,Precinct 2,U.S. Senate,,DEM,Adrian Ocegueda,0,0,0,0
+Dickens,Precinct 2,U.S. Senate,,DEM,D.R. Hunter,0,0,0,0
+Dickens,Precinct 2,U.S. Senate,,DEM,Amanda K. Edwards,0,0,0,0
+Dickens,Precinct 2,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",1,0,0,1
+Dickens,Precinct 2,U.S. Senate,,DEM,Jack Daniel Foster Jr,0,0,0,0
+Dickens,Precinct 2,U.S. Senate,,DEM,Sema Hernandez,0,0,0,0
+Dickens,Precinct 2,U.S. Senate,,DEM,Cristina Tzintzun Ramirez,0,0,0,0
+Dickens,Precinct 2,U.S. Senate,,DEM,Ballots Cast,1,2,1,4
+Dickens,Precinct 2,U.S. Senate,,DEM,Over Votes:,0,0,0,0
+Dickens,Precinct 2,U.S. Senate,,DEM,Under Votes:,0,0,1,1
 Dickens,Precinct 2,U.S. House,13,DEM,Gus Trujillo,0,0,0,0
 Dickens,Precinct 2,U.S. House,13,DEM,Timothy W. Gassaway,0,0,0,0
 Dickens,Precinct 2,U.S. House,13,DEM,Greg Sagan,0,2,0,2
@@ -751,28 +651,17 @@ Dickens,Precinct 2,Proposition 10,,REP,Ballots Cast,3,30,21,54
 Dickens,Precinct 2,Proposition 10,,REP,Over Votes:,0,0,0,0
 Dickens,Precinct 2,Proposition 10,,REP,Under Votes:,0,0,0,0
 Dickens,Precinct 3,Ballots Cast,,REP,,,,,130
-Dickens,Precinct 3,"President REPUBLICAN PARTY
-",,REP,Donald J. Trump,8,22,77,107
-Dickens,Precinct 3,"President REPUBLICAN PARTY
-",,REP,Bob Ely,0,0,0,0
-Dickens,Precinct 3,"President REPUBLICAN PARTY
-",,REP,Bill Weld,0,0,0,0
-Dickens,Precinct 3,"President REPUBLICAN PARTY
-",,REP,Matthew John Matern,0,0,2,2
-Dickens,Precinct 3,"President REPUBLICAN PARTY
-",,REP,Joe Walsh,0,0,0,0
-Dickens,Precinct 3,"President REPUBLICAN PARTY
-",,REP,"Roque ""Rocky"" De La Fuente Guerra",0,0,0,0
-Dickens,Precinct 3,"President REPUBLICAN PARTY
-",,REP,Zoltan G. Istvan,0,0,1,1
-Dickens,Precinct 3,"President REPUBLICAN PARTY
-",,REP,Uncommitted,0,0,3,3
-Dickens,Precinct 3,"President REPUBLICAN PARTY
-",,REP,Ballots Cast,8,22,83,113
-Dickens,Precinct 3,"President REPUBLICAN PARTY
-",,REP,Over Votes:,0,0,0,0
-Dickens,Precinct 3,"President REPUBLICAN PARTY
-",,REP,Under Votes:,0,0,0,0
+Dickens,Precinct 3,President,,REP,Donald J. Trump,8,22,77,107
+Dickens,Precinct 3,President,,REP,Bob Ely,0,0,0,0
+Dickens,Precinct 3,President,,REP,Bill Weld,0,0,0,0
+Dickens,Precinct 3,President,,REP,Matthew John Matern,0,0,2,2
+Dickens,Precinct 3,President,,REP,Joe Walsh,0,0,0,0
+Dickens,Precinct 3,President,,REP,"Roque ""Rocky"" De La Fuente Guerra",0,0,0,0
+Dickens,Precinct 3,President,,REP,Zoltan G. Istvan,0,0,1,1
+Dickens,Precinct 3,President,,REP,Uncommitted,0,0,3,3
+Dickens,Precinct 3,President,,REP,Ballots Cast,8,22,83,113
+Dickens,Precinct 3,President,,REP,Over Votes:,0,0,0,0
+Dickens,Precinct 3,President,,REP,Under Votes:,0,0,0,0
 Dickens,Precinct 3,U.S. Senate,,REP,Dwayne Stovall,2,1,19,22
 Dickens,Precinct 3,U.S. Senate,,REP,Mark Yancey,1,0,2,3
 Dickens,Precinct 3,U.S. Senate,,REP,John Anthony Castro,0,0,3,3
@@ -865,14 +754,10 @@ Dickens,Precinct 3,County Attorney,,REP,Aaron Clements,6,20,67,93
 Dickens,Precinct 3,County Attorney,,REP,Ballots Cast,6,20,67,93
 Dickens,Precinct 3,County Attorney,,REP,Over Votes:,0,0,0,0
 Dickens,Precinct 3,County Attorney,,REP,Under Votes:,0,2,10,12
-Dickens,Precinct 3,"Sheriff REPUBLICAN PARTY
-",,REP,Terry Braly,4,19,66,89
-Dickens,Precinct 3,"Sheriff REPUBLICAN PARTY
-",,REP,Ballots Cast,4,19,66,89
-Dickens,Precinct 3,"Sheriff REPUBLICAN PARTY
-",,REP,Over Votes:,0,0,0,0
-Dickens,Precinct 3,"Sheriff REPUBLICAN PARTY
-",,REP,Under Votes:,0,3,15,18
+Dickens,Precinct 3,Sheriff,,REP,Terry Braly,4,19,66,89
+Dickens,Precinct 3,Sheriff,,REP,Ballots Cast,4,19,66,89
+Dickens,Precinct 3,Sheriff,,REP,Over Votes:,0,0,0,0
+Dickens,Precinct 3,Sheriff,,REP,Under Votes:,0,3,15,18
 Dickens,Precinct 3,County Tax Assessor-Collector,,REP,Rebecca Haney,4,21,65,90
 Dickens,Precinct 3,County Tax Assessor-Collector,,REP,Ballots Cast,4,21,65,90
 Dickens,Precinct 3,County Tax Assessor-Collector,,REP,Over Votes:,0,0,0,0
@@ -886,76 +771,41 @@ Dickens,Precinct 3,County Chairman,,REP,Ballots Cast,6,18,68,92
 Dickens,Precinct 3,County Chairman,,REP,Over Votes:,0,0,0,0
 Dickens,Precinct 3,County Chairman,,REP,Under Votes:,0,4,11,15
 Dickens,Precinct 3,Ballots Cast,,REP,,,,,130
-Dickens,Precinct 3,"President DEMOCRATIC PARTY
-",,DEM,Marianne Williamson,0,0,0,0
-Dickens,Precinct 3,"President DEMOCRATIC PARTY
-",,DEM,Michael R. Bloomberg,1,0,5,6
-Dickens,Precinct 3,"President DEMOCRATIC PARTY
-",,DEM,Robby Wells,0,0,0,0
-Dickens,Precinct 3,"President DEMOCRATIC PARTY
-",,DEM,Julián Castro,0,0,0,0
-Dickens,Precinct 3,"President DEMOCRATIC PARTY
-",,DEM,Pete Buttigieg,0,0,0,0
-Dickens,Precinct 3,"President DEMOCRATIC PARTY
-",,DEM,"Roque ""Rocky"" De La Fuente",0,0,0,0
-Dickens,Precinct 3,"President DEMOCRATIC PARTY
-",,DEM,Tulsi Gabbard,0,0,0,0
-Dickens,Precinct 3,"President DEMOCRATIC PARTY
-",,DEM,Amy Klobuchar,0,1,0,1
-Dickens,Precinct 3,"President DEMOCRATIC PARTY
-",,DEM,Tom Steyer,0,0,0,0
-Dickens,Precinct 3,"President DEMOCRATIC PARTY
-",,DEM,Cory Booker,0,0,0,0
-Dickens,Precinct 3,"President DEMOCRATIC PARTY
-",,DEM,John K. Delaney,0,0,0,0
-Dickens,Precinct 3,"President DEMOCRATIC PARTY
-",,DEM,Deval Patrick,0,0,0,0
-Dickens,Precinct 3,"President DEMOCRATIC PARTY
-",,DEM,Andrew Yang,0,0,0,0
-Dickens,Precinct 3,"President DEMOCRATIC PARTY
-",,DEM,Michael Bennet,0,0,0,0
-Dickens,Precinct 3,"President DEMOCRATIC PARTY
-",,DEM,Joseph R. Biden,0,0,4,4
-Dickens,Precinct 3,"President DEMOCRATIC PARTY
-",,DEM,Bernie Sanders,0,1,1,2
-Dickens,Precinct 3,"President DEMOCRATIC PARTY
-",,DEM,Elizabeth Warren,0,1,3,4
-Dickens,Precinct 3,"President DEMOCRATIC PARTY
-",,DEM,Ballots Cast,1,3,13,17
-Dickens,Precinct 3,"President DEMOCRATIC PARTY
-",,DEM,Over Votes:,0,0,0,0
-Dickens,Precinct 3,"President DEMOCRATIC PARTY
-",,DEM,Under Votes:,0,0,0,0
-Dickens,Precinct 3,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Chris Bell,0,0,4,4
-Dickens,Precinct 3,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Victor Hugo Harris,0,0,2,2
-Dickens,Precinct 3,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,"Annie ""Mamá"" Garcia",0,0,2,2
-Dickens,Precinct 3,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Royce West,0,0,0,0
-Dickens,Precinct 3,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Michael Cooper,0,0,1,1
-Dickens,Precinct 3,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Adrian Ocegueda,0,0,0,0
-Dickens,Precinct 3,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,D.R. Hunter,0,0,0,0
-Dickens,Precinct 3,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Amanda K. Edwards,1,1,0,2
-Dickens,Precinct 3,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,"Mary ""MJ"" Hegar",0,2,3,5
-Dickens,Precinct 3,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Jack Daniel Foster Jr,0,0,0,0
-Dickens,Precinct 3,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Sema Hernandez,0,0,1,1
-Dickens,Precinct 3,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Cristina Tzintzun Ramirez,0,0,0,0
-Dickens,Precinct 3,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Ballots Cast,1,3,13,17
-Dickens,Precinct 3,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Over Votes:,0,0,0,0
-Dickens,Precinct 3,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Under Votes:,0,0,0,0
+Dickens,Precinct 3,President,,DEM,Marianne Williamson,0,0,0,0
+Dickens,Precinct 3,President,,DEM,Michael R. Bloomberg,1,0,5,6
+Dickens,Precinct 3,President,,DEM,Robby Wells,0,0,0,0
+Dickens,Precinct 3,President,,DEM,Julián Castro,0,0,0,0
+Dickens,Precinct 3,President,,DEM,Pete Buttigieg,0,0,0,0
+Dickens,Precinct 3,President,,DEM,"Roque ""Rocky"" De La Fuente",0,0,0,0
+Dickens,Precinct 3,President,,DEM,Tulsi Gabbard,0,0,0,0
+Dickens,Precinct 3,President,,DEM,Amy Klobuchar,0,1,0,1
+Dickens,Precinct 3,President,,DEM,Tom Steyer,0,0,0,0
+Dickens,Precinct 3,President,,DEM,Cory Booker,0,0,0,0
+Dickens,Precinct 3,President,,DEM,John K. Delaney,0,0,0,0
+Dickens,Precinct 3,President,,DEM,Deval Patrick,0,0,0,0
+Dickens,Precinct 3,President,,DEM,Andrew Yang,0,0,0,0
+Dickens,Precinct 3,President,,DEM,Michael Bennet,0,0,0,0
+Dickens,Precinct 3,President,,DEM,Joseph R. Biden,0,0,4,4
+Dickens,Precinct 3,President,,DEM,Bernie Sanders,0,1,1,2
+Dickens,Precinct 3,President,,DEM,Elizabeth Warren,0,1,3,4
+Dickens,Precinct 3,President,,DEM,Ballots Cast,1,3,13,17
+Dickens,Precinct 3,President,,DEM,Over Votes:,0,0,0,0
+Dickens,Precinct 3,President,,DEM,Under Votes:,0,0,0,0
+Dickens,Precinct 3,U.S. Senate,,DEM,Chris Bell,0,0,4,4
+Dickens,Precinct 3,U.S. Senate,,DEM,Victor Hugo Harris,0,0,2,2
+Dickens,Precinct 3,U.S. Senate,,DEM,"Annie ""Mamá"" Garcia",0,0,2,2
+Dickens,Precinct 3,U.S. Senate,,DEM,Royce West,0,0,0,0
+Dickens,Precinct 3,U.S. Senate,,DEM,Michael Cooper,0,0,1,1
+Dickens,Precinct 3,U.S. Senate,,DEM,Adrian Ocegueda,0,0,0,0
+Dickens,Precinct 3,U.S. Senate,,DEM,D.R. Hunter,0,0,0,0
+Dickens,Precinct 3,U.S. Senate,,DEM,Amanda K. Edwards,1,1,0,2
+Dickens,Precinct 3,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",0,2,3,5
+Dickens,Precinct 3,U.S. Senate,,DEM,Jack Daniel Foster Jr,0,0,0,0
+Dickens,Precinct 3,U.S. Senate,,DEM,Sema Hernandez,0,0,1,1
+Dickens,Precinct 3,U.S. Senate,,DEM,Cristina Tzintzun Ramirez,0,0,0,0
+Dickens,Precinct 3,U.S. Senate,,DEM,Ballots Cast,1,3,13,17
+Dickens,Precinct 3,U.S. Senate,,DEM,Over Votes:,0,0,0,0
+Dickens,Precinct 3,U.S. Senate,,DEM,Under Votes:,0,0,0,0
 Dickens,Precinct 3,U.S. House,13,DEM,Gus Trujillo,0,2,5,7
 Dickens,Precinct 3,U.S. House,13,DEM,Timothy W. Gassaway,0,1,2,3
 Dickens,Precinct 3,U.S. House,13,DEM,Greg Sagan,1,0,5,6
@@ -1128,28 +978,17 @@ Dickens,Precinct 3,Proposition 10,,REP,Ballots Cast,6,20,79,105
 Dickens,Precinct 3,Proposition 10,,REP,Over Votes:,0,0,0,0
 Dickens,Precinct 3,Proposition 10,,REP,Under Votes:,0,2,4,6
 Dickens,Precinct 4,Ballots Cast,,REP,,,,,79
-Dickens,Precinct 4,"President REPUBLICAN PARTY
-",,REP,Donald J. Trump,3,10,45,58
-Dickens,Precinct 4,"President REPUBLICAN PARTY
-",,REP,Bob Ely,0,0,0,0
-Dickens,Precinct 4,"President REPUBLICAN PARTY
-",,REP,Bill Weld,0,0,0,0
-Dickens,Precinct 4,"President REPUBLICAN PARTY
-",,REP,Matthew John Matern,0,0,0,0
-Dickens,Precinct 4,"President REPUBLICAN PARTY
-",,REP,Joe Walsh,0,0,1,1
-Dickens,Precinct 4,"President REPUBLICAN PARTY
-",,REP,"Roque ""Rocky"" De La Fuente Guerra",0,0,0,0
-Dickens,Precinct 4,"President REPUBLICAN PARTY
-",,REP,Zoltan G. Istvan,0,0,0,0
-Dickens,Precinct 4,"President REPUBLICAN PARTY
-",,REP,Uncommitted,1,0,1,2
-Dickens,Precinct 4,"President REPUBLICAN PARTY
-",,REP,Ballots Cast,4,10,47,61
-Dickens,Precinct 4,"President REPUBLICAN PARTY
-",,REP,Over Votes:,0,0,0,0
-Dickens,Precinct 4,"President REPUBLICAN PARTY
-",,REP,Under Votes:,0,0,3,3
+Dickens,Precinct 4,President,,REP,Donald J. Trump,3,10,45,58
+Dickens,Precinct 4,President,,REP,Bob Ely,0,0,0,0
+Dickens,Precinct 4,President,,REP,Bill Weld,0,0,0,0
+Dickens,Precinct 4,President,,REP,Matthew John Matern,0,0,0,0
+Dickens,Precinct 4,President,,REP,Joe Walsh,0,0,1,1
+Dickens,Precinct 4,President,,REP,"Roque ""Rocky"" De La Fuente Guerra",0,0,0,0
+Dickens,Precinct 4,President,,REP,Zoltan G. Istvan,0,0,0,0
+Dickens,Precinct 4,President,,REP,Uncommitted,1,0,1,2
+Dickens,Precinct 4,President,,REP,Ballots Cast,4,10,47,61
+Dickens,Precinct 4,President,,REP,Over Votes:,0,0,0,0
+Dickens,Precinct 4,President,,REP,Under Votes:,0,0,3,3
 Dickens,Precinct 4,U.S. Senate,,REP,Dwayne Stovall,1,2,9,12
 Dickens,Precinct 4,U.S. Senate,,REP,Mark Yancey,0,0,1,1
 Dickens,Precinct 4,U.S. Senate,,REP,John Anthony Castro,0,0,2,2
@@ -1242,14 +1081,10 @@ Dickens,Precinct 4,County Attorney,,REP,Aaron Clements,2,10,37,49
 Dickens,Precinct 4,County Attorney,,REP,Ballots Cast,2,10,37,49
 Dickens,Precinct 4,County Attorney,,REP,Over Votes:,0,0,0,0
 Dickens,Precinct 4,County Attorney,,REP,Under Votes:,0,0,13,13
-Dickens,Precinct 4,"Sheriff REPUBLICAN PARTY
-",,REP,Terry Braly,2,9,34,45
-Dickens,Precinct 4,"Sheriff REPUBLICAN PARTY
-",,REP,Ballots Cast,2,9,34,45
-Dickens,Precinct 4,"Sheriff REPUBLICAN PARTY
-",,REP,Over Votes:,0,0,0,0
-Dickens,Precinct 4,"Sheriff REPUBLICAN PARTY
-",,REP,Under Votes:,0,1,16,17
+Dickens,Precinct 4,Sheriff,,REP,Terry Braly,2,9,34,45
+Dickens,Precinct 4,Sheriff,,REP,Ballots Cast,2,9,34,45
+Dickens,Precinct 4,Sheriff,,REP,Over Votes:,0,0,0,0
+Dickens,Precinct 4,Sheriff,,REP,Under Votes:,0,1,16,17
 Dickens,Precinct 4,County Tax Assessor-Collector,,REP,Rebecca Haney,2,8,38,48
 Dickens,Precinct 4,County Tax Assessor-Collector,,REP,Ballots Cast,2,8,38,48
 Dickens,Precinct 4,County Tax Assessor-Collector,,REP,Over Votes:,0,0,0,0
@@ -1259,76 +1094,41 @@ Dickens,Precinct 4,County Chairman,,REP,Ballots Cast,2,8,36,46
 Dickens,Precinct 4,County Chairman,,REP,Over Votes:,0,0,0,0
 Dickens,Precinct 4,County Chairman,,REP,Under Votes:,0,2,14,16
 Dickens,Precinct 4,Ballots Cast,,REP,,,,,79
-Dickens,Precinct 4,"President DEMOCRATIC PARTY
-",,DEM,Marianne Williamson,0,0,0,0
-Dickens,Precinct 4,"President DEMOCRATIC PARTY
-",,DEM,Michael R. Bloomberg,2,1,2,5
-Dickens,Precinct 4,"President DEMOCRATIC PARTY
-",,DEM,Robby Wells,0,0,0,0
-Dickens,Precinct 4,"President DEMOCRATIC PARTY
-",,DEM,Julián Castro,0,0,0,0
-Dickens,Precinct 4,"President DEMOCRATIC PARTY
-",,DEM,Pete Buttigieg,0,2,0,2
-Dickens,Precinct 4,"President DEMOCRATIC PARTY
-",,DEM,"Roque ""Rocky"" De La Fuente",0,0,0,0
-Dickens,Precinct 4,"President DEMOCRATIC PARTY
-",,DEM,Tulsi Gabbard,0,0,0,0
-Dickens,Precinct 4,"President DEMOCRATIC PARTY
-",,DEM,Amy Klobuchar,0,0,0,0
-Dickens,Precinct 4,"President DEMOCRATIC PARTY
-",,DEM,Tom Steyer,0,0,0,0
-Dickens,Precinct 4,"President DEMOCRATIC PARTY
-",,DEM,Cory Booker,0,0,0,0
-Dickens,Precinct 4,"President DEMOCRATIC PARTY
-",,DEM,John K. Delaney,0,0,0,0
-Dickens,Precinct 4,"President DEMOCRATIC PARTY
-",,DEM,Deval Patrick,0,0,0,0
-Dickens,Precinct 4,"President DEMOCRATIC PARTY
-",,DEM,Andrew Yang,0,0,0,0
-Dickens,Precinct 4,"President DEMOCRATIC PARTY
-",,DEM,Michael Bennet,0,0,0,0
-Dickens,Precinct 4,"President DEMOCRATIC PARTY
-",,DEM,Joseph R. Biden,0,0,1,1
-Dickens,Precinct 4,"President DEMOCRATIC PARTY
-",,DEM,Bernie Sanders,0,0,2,2
-Dickens,Precinct 4,"President DEMOCRATIC PARTY
-",,DEM,Elizabeth Warren,0,2,3,5
-Dickens,Precinct 4,"President DEMOCRATIC PARTY
-",,DEM,Ballots Cast,2,5,8,15
-Dickens,Precinct 4,"President DEMOCRATIC PARTY
-",,DEM,Over Votes:,0,0,0,0
-Dickens,Precinct 4,"President DEMOCRATIC PARTY
-",,DEM,Under Votes:,0,0,0,0
-Dickens,Precinct 4,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Chris Bell,1,0,1,2
-Dickens,Precinct 4,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Victor Hugo Harris,0,0,1,1
-Dickens,Precinct 4,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,"Annie ""Mamá"" Garcia",0,0,2,2
-Dickens,Precinct 4,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Royce West,0,0,0,0
-Dickens,Precinct 4,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Michael Cooper,0,0,0,0
-Dickens,Precinct 4,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Adrian Ocegueda,1,0,0,1
-Dickens,Precinct 4,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,D.R. Hunter,0,0,1,1
-Dickens,Precinct 4,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Amanda K. Edwards,0,1,0,1
-Dickens,Precinct 4,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,"Mary ""MJ"" Hegar",0,3,2,5
-Dickens,Precinct 4,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Jack Daniel Foster Jr,0,0,0,0
-Dickens,Precinct 4,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Sema Hernandez,0,0,0,0
-Dickens,Precinct 4,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Cristina Tzintzun Ramirez,0,1,0,1
-Dickens,Precinct 4,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Ballots Cast,2,5,7,14
-Dickens,Precinct 4,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Over Votes:,0,0,0,0
-Dickens,Precinct 4,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Under Votes:,0,0,1,1
+Dickens,Precinct 4,President,,DEM,Marianne Williamson,0,0,0,0
+Dickens,Precinct 4,President,,DEM,Michael R. Bloomberg,2,1,2,5
+Dickens,Precinct 4,President,,DEM,Robby Wells,0,0,0,0
+Dickens,Precinct 4,President,,DEM,Julián Castro,0,0,0,0
+Dickens,Precinct 4,President,,DEM,Pete Buttigieg,0,2,0,2
+Dickens,Precinct 4,President,,DEM,"Roque ""Rocky"" De La Fuente",0,0,0,0
+Dickens,Precinct 4,President,,DEM,Tulsi Gabbard,0,0,0,0
+Dickens,Precinct 4,President,,DEM,Amy Klobuchar,0,0,0,0
+Dickens,Precinct 4,President,,DEM,Tom Steyer,0,0,0,0
+Dickens,Precinct 4,President,,DEM,Cory Booker,0,0,0,0
+Dickens,Precinct 4,President,,DEM,John K. Delaney,0,0,0,0
+Dickens,Precinct 4,President,,DEM,Deval Patrick,0,0,0,0
+Dickens,Precinct 4,President,,DEM,Andrew Yang,0,0,0,0
+Dickens,Precinct 4,President,,DEM,Michael Bennet,0,0,0,0
+Dickens,Precinct 4,President,,DEM,Joseph R. Biden,0,0,1,1
+Dickens,Precinct 4,President,,DEM,Bernie Sanders,0,0,2,2
+Dickens,Precinct 4,President,,DEM,Elizabeth Warren,0,2,3,5
+Dickens,Precinct 4,President,,DEM,Ballots Cast,2,5,8,15
+Dickens,Precinct 4,President,,DEM,Over Votes:,0,0,0,0
+Dickens,Precinct 4,President,,DEM,Under Votes:,0,0,0,0
+Dickens,Precinct 4,U.S. Senate,,DEM,Chris Bell,1,0,1,2
+Dickens,Precinct 4,U.S. Senate,,DEM,Victor Hugo Harris,0,0,1,1
+Dickens,Precinct 4,U.S. Senate,,DEM,"Annie ""Mamá"" Garcia",0,0,2,2
+Dickens,Precinct 4,U.S. Senate,,DEM,Royce West,0,0,0,0
+Dickens,Precinct 4,U.S. Senate,,DEM,Michael Cooper,0,0,0,0
+Dickens,Precinct 4,U.S. Senate,,DEM,Adrian Ocegueda,1,0,0,1
+Dickens,Precinct 4,U.S. Senate,,DEM,D.R. Hunter,0,0,1,1
+Dickens,Precinct 4,U.S. Senate,,DEM,Amanda K. Edwards,0,1,0,1
+Dickens,Precinct 4,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",0,3,2,5
+Dickens,Precinct 4,U.S. Senate,,DEM,Jack Daniel Foster Jr,0,0,0,0
+Dickens,Precinct 4,U.S. Senate,,DEM,Sema Hernandez,0,0,0,0
+Dickens,Precinct 4,U.S. Senate,,DEM,Cristina Tzintzun Ramirez,0,1,0,1
+Dickens,Precinct 4,U.S. Senate,,DEM,Ballots Cast,2,5,7,14
+Dickens,Precinct 4,U.S. Senate,,DEM,Over Votes:,0,0,0,0
+Dickens,Precinct 4,U.S. Senate,,DEM,Under Votes:,0,0,1,1
 Dickens,Precinct 4,U.S. House,13,DEM,Gus Trujillo,0,2,1,3
 Dickens,Precinct 4,U.S. House,13,DEM,Timothy W. Gassaway,0,0,3,3
 Dickens,Precinct 4,U.S. House,13,DEM,Greg Sagan,2,3,2,7
@@ -1501,28 +1301,17 @@ Dickens,Precinct 4,Proposition 10,,REP,Ballots Cast,4,10,47,61
 Dickens,Precinct 4,Proposition 10,,REP,Over Votes:,0,0,0,0
 Dickens,Precinct 4,Proposition 10,,REP,Under Votes:,0,0,3,3
 Dickens,Precinct 5,Ballots Cast,,REP,,,,,80
-Dickens,Precinct 5,"President REPUBLICAN PARTY
-",,REP,Donald J. Trump,5,24,40,69
-Dickens,Precinct 5,"President REPUBLICAN PARTY
-",,REP,Bob Ely,0,0,1,1
-Dickens,Precinct 5,"President REPUBLICAN PARTY
-",,REP,Bill Weld,0,0,0,0
-Dickens,Precinct 5,"President REPUBLICAN PARTY
-",,REP,Matthew John Matern,0,0,0,0
-Dickens,Precinct 5,"President REPUBLICAN PARTY
-",,REP,Joe Walsh,0,0,1,1
-Dickens,Precinct 5,"President REPUBLICAN PARTY
-",,REP,"Roque ""Rocky"" De La Fuente Guerra",0,0,0,0
-Dickens,Precinct 5,"President REPUBLICAN PARTY
-",,REP,Zoltan G. Istvan,0,0,0,0
-Dickens,Precinct 5,"President REPUBLICAN PARTY
-",,REP,Uncommitted,0,1,0,1
-Dickens,Precinct 5,"President REPUBLICAN PARTY
-",,REP,Ballots Cast,5,25,42,72
-Dickens,Precinct 5,"President REPUBLICAN PARTY
-",,REP,Over Votes:,0,0,0,0
-Dickens,Precinct 5,"President REPUBLICAN PARTY
-",,REP,Under Votes:,0,0,0,0
+Dickens,Precinct 5,President,,REP,Donald J. Trump,5,24,40,69
+Dickens,Precinct 5,President,,REP,Bob Ely,0,0,1,1
+Dickens,Precinct 5,President,,REP,Bill Weld,0,0,0,0
+Dickens,Precinct 5,President,,REP,Matthew John Matern,0,0,0,0
+Dickens,Precinct 5,President,,REP,Joe Walsh,0,0,1,1
+Dickens,Precinct 5,President,,REP,"Roque ""Rocky"" De La Fuente Guerra",0,0,0,0
+Dickens,Precinct 5,President,,REP,Zoltan G. Istvan,0,0,0,0
+Dickens,Precinct 5,President,,REP,Uncommitted,0,1,0,1
+Dickens,Precinct 5,President,,REP,Ballots Cast,5,25,42,72
+Dickens,Precinct 5,President,,REP,Over Votes:,0,0,0,0
+Dickens,Precinct 5,President,,REP,Under Votes:,0,0,0,0
 Dickens,Precinct 5,U.S. Senate,,REP,Dwayne Stovall,4,3,12,19
 Dickens,Precinct 5,U.S. Senate,,REP,Mark Yancey,0,3,3,6
 Dickens,Precinct 5,U.S. Senate,,REP,John Anthony Castro,0,1,0,1
@@ -1615,14 +1404,10 @@ Dickens,Precinct 5,County Attorney,,REP,Aaron Clements,3,22,32,57
 Dickens,Precinct 5,County Attorney,,REP,Ballots Cast,3,22,32,57
 Dickens,Precinct 5,County Attorney,,REP,Over Votes:,0,0,0,0
 Dickens,Precinct 5,County Attorney,,REP,Under Votes:,0,3,10,13
-Dickens,Precinct 5,"Sheriff REPUBLICAN PARTY
-",,REP,Terry Braly,4,15,31,50
-Dickens,Precinct 5,"Sheriff REPUBLICAN PARTY
-",,REP,Ballots Cast,4,15,31,50
-Dickens,Precinct 5,"Sheriff REPUBLICAN PARTY
-",,REP,Over Votes:,0,0,0,0
-Dickens,Precinct 5,"Sheriff REPUBLICAN PARTY
-",,REP,Under Votes:,0,10,11,21
+Dickens,Precinct 5,Sheriff,,REP,Terry Braly,4,15,31,50
+Dickens,Precinct 5,Sheriff,,REP,Ballots Cast,4,15,31,50
+Dickens,Precinct 5,Sheriff,,REP,Over Votes:,0,0,0,0
+Dickens,Precinct 5,Sheriff,,REP,Under Votes:,0,10,11,21
 Dickens,Precinct 5,County Tax Assessor-Collector,,REP,Rebecca Haney,4,12,29,45
 Dickens,Precinct 5,County Tax Assessor-Collector,,REP,Ballots Cast,4,12,29,45
 Dickens,Precinct 5,County Tax Assessor-Collector,,REP,Over Votes:,0,0,0,0
@@ -1632,76 +1417,41 @@ Dickens,Precinct 5,County Chairman,,REP,Ballots Cast,4,21,31,56
 Dickens,Precinct 5,County Chairman,,REP,Over Votes:,0,0,0,0
 Dickens,Precinct 5,County Chairman,,REP,Under Votes:,0,4,11,15
 Dickens,Precinct 5,Ballots Cast,,REP,,,,,80
-Dickens,Precinct 5,"President DEMOCRATIC PARTY
-",,DEM,Marianne Williamson,0,0,0,0
-Dickens,Precinct 5,"President DEMOCRATIC PARTY
-",,DEM,Michael R. Bloomberg,1,0,1,2
-Dickens,Precinct 5,"President DEMOCRATIC PARTY
-",,DEM,Robby Wells,0,0,0,0
-Dickens,Precinct 5,"President DEMOCRATIC PARTY
-",,DEM,Julián Castro,0,0,0,0
-Dickens,Precinct 5,"President DEMOCRATIC PARTY
-",,DEM,Pete Buttigieg,0,0,0,0
-Dickens,Precinct 5,"President DEMOCRATIC PARTY
-",,DEM,"Roque ""Rocky"" De La Fuente",0,0,0,0
-Dickens,Precinct 5,"President DEMOCRATIC PARTY
-",,DEM,Tulsi Gabbard,0,0,0,0
-Dickens,Precinct 5,"President DEMOCRATIC PARTY
-",,DEM,Amy Klobuchar,1,0,0,1
-Dickens,Precinct 5,"President DEMOCRATIC PARTY
-",,DEM,Tom Steyer,0,0,0,0
-Dickens,Precinct 5,"President DEMOCRATIC PARTY
-",,DEM,Cory Booker,0,0,0,0
-Dickens,Precinct 5,"President DEMOCRATIC PARTY
-",,DEM,John K. Delaney,0,0,0,0
-Dickens,Precinct 5,"President DEMOCRATIC PARTY
-",,DEM,Deval Patrick,0,0,0,0
-Dickens,Precinct 5,"President DEMOCRATIC PARTY
-",,DEM,Andrew Yang,0,0,0,0
-Dickens,Precinct 5,"President DEMOCRATIC PARTY
-",,DEM,Michael Bennet,0,0,0,0
-Dickens,Precinct 5,"President DEMOCRATIC PARTY
-",,DEM,Joseph R. Biden,0,1,2,3
-Dickens,Precinct 5,"President DEMOCRATIC PARTY
-",,DEM,Bernie Sanders,0,0,0,0
-Dickens,Precinct 5,"President DEMOCRATIC PARTY
-",,DEM,Elizabeth Warren,0,0,0,0
-Dickens,Precinct 5,"President DEMOCRATIC PARTY
-",,DEM,Ballots Cast,2,1,3,6
-Dickens,Precinct 5,"President DEMOCRATIC PARTY
-",,DEM,Over Votes:,0,0,0,0
-Dickens,Precinct 5,"President DEMOCRATIC PARTY
-",,DEM,Under Votes:,0,0,0,0
-Dickens,Precinct 5,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Chris Bell,0,1,0,1
-Dickens,Precinct 5,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Victor Hugo Harris,2,0,0,2
-Dickens,Precinct 5,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,"Annie ""Mamá"" Garcia",0,0,1,1
-Dickens,Precinct 5,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Royce West,0,0,1,1
-Dickens,Precinct 5,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Michael Cooper,0,0,1,1
-Dickens,Precinct 5,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Adrian Ocegueda,0,0,0,0
-Dickens,Precinct 5,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,D.R. Hunter,0,0,0,0
-Dickens,Precinct 5,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Amanda K. Edwards,0,0,0,0
-Dickens,Precinct 5,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,"Mary ""MJ"" Hegar",1,0,0,1
-Dickens,Precinct 5,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Jack Daniel Foster Jr,0,0,0,0
-Dickens,Precinct 5,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Sema Hernandez,0,0,0,0
-Dickens,Precinct 5,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Cristina Tzintzun Ramirez,0,0,0,0
-Dickens,Precinct 5,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Ballots Cast,3,1,3,7
-Dickens,Precinct 5,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Over Votes:,0,0,0,0
-Dickens,Precinct 5,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Under Votes:,0,0,0,0
+Dickens,Precinct 5,President,,DEM,Marianne Williamson,0,0,0,0
+Dickens,Precinct 5,President,,DEM,Michael R. Bloomberg,1,0,1,2
+Dickens,Precinct 5,President,,DEM,Robby Wells,0,0,0,0
+Dickens,Precinct 5,President,,DEM,Julián Castro,0,0,0,0
+Dickens,Precinct 5,President,,DEM,Pete Buttigieg,0,0,0,0
+Dickens,Precinct 5,President,,DEM,"Roque ""Rocky"" De La Fuente",0,0,0,0
+Dickens,Precinct 5,President,,DEM,Tulsi Gabbard,0,0,0,0
+Dickens,Precinct 5,President,,DEM,Amy Klobuchar,1,0,0,1
+Dickens,Precinct 5,President,,DEM,Tom Steyer,0,0,0,0
+Dickens,Precinct 5,President,,DEM,Cory Booker,0,0,0,0
+Dickens,Precinct 5,President,,DEM,John K. Delaney,0,0,0,0
+Dickens,Precinct 5,President,,DEM,Deval Patrick,0,0,0,0
+Dickens,Precinct 5,President,,DEM,Andrew Yang,0,0,0,0
+Dickens,Precinct 5,President,,DEM,Michael Bennet,0,0,0,0
+Dickens,Precinct 5,President,,DEM,Joseph R. Biden,0,1,2,3
+Dickens,Precinct 5,President,,DEM,Bernie Sanders,0,0,0,0
+Dickens,Precinct 5,President,,DEM,Elizabeth Warren,0,0,0,0
+Dickens,Precinct 5,President,,DEM,Ballots Cast,2,1,3,6
+Dickens,Precinct 5,President,,DEM,Over Votes:,0,0,0,0
+Dickens,Precinct 5,President,,DEM,Under Votes:,0,0,0,0
+Dickens,Precinct 5,U.S. Senate,,DEM,Chris Bell,0,1,0,1
+Dickens,Precinct 5,U.S. Senate,,DEM,Victor Hugo Harris,2,0,0,2
+Dickens,Precinct 5,U.S. Senate,,DEM,"Annie ""Mamá"" Garcia",0,0,1,1
+Dickens,Precinct 5,U.S. Senate,,DEM,Royce West,0,0,1,1
+Dickens,Precinct 5,U.S. Senate,,DEM,Michael Cooper,0,0,1,1
+Dickens,Precinct 5,U.S. Senate,,DEM,Adrian Ocegueda,0,0,0,0
+Dickens,Precinct 5,U.S. Senate,,DEM,D.R. Hunter,0,0,0,0
+Dickens,Precinct 5,U.S. Senate,,DEM,Amanda K. Edwards,0,0,0,0
+Dickens,Precinct 5,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",1,0,0,1
+Dickens,Precinct 5,U.S. Senate,,DEM,Jack Daniel Foster Jr,0,0,0,0
+Dickens,Precinct 5,U.S. Senate,,DEM,Sema Hernandez,0,0,0,0
+Dickens,Precinct 5,U.S. Senate,,DEM,Cristina Tzintzun Ramirez,0,0,0,0
+Dickens,Precinct 5,U.S. Senate,,DEM,Ballots Cast,3,1,3,7
+Dickens,Precinct 5,U.S. Senate,,DEM,Over Votes:,0,0,0,0
+Dickens,Precinct 5,U.S. Senate,,DEM,Under Votes:,0,0,0,0
 Dickens,Precinct 5,U.S. House,13,DEM,Gus Trujillo,3,1,2,6
 Dickens,Precinct 5,U.S. House,13,DEM,Timothy W. Gassaway,0,0,0,0
 Dickens,Precinct 5,U.S. House,13,DEM,Greg Sagan,0,0,1,1
@@ -1874,28 +1624,17 @@ Dickens,Precinct 5,Proposition 10,,REP,Ballots Cast,5,25,39,69
 Dickens,Precinct 5,Proposition 10,,REP,Over Votes:,0,0,0,0
 Dickens,Precinct 5,Proposition 10,,REP,Under Votes:,0,0,3,3
 Dickens,Precinct 6,Ballots Cast,,REP,,,,,153
-Dickens,Precinct 6,"President REPUBLICAN PARTY
-",,REP,Donald J. Trump,7,41,71,119
-Dickens,Precinct 6,"President REPUBLICAN PARTY
-",,REP,Bob Ely,0,0,0,0
-Dickens,Precinct 6,"President REPUBLICAN PARTY
-",,REP,Bill Weld,0,0,2,2
-Dickens,Precinct 6,"President REPUBLICAN PARTY
-",,REP,Matthew John Matern,0,0,1,1
-Dickens,Precinct 6,"President REPUBLICAN PARTY
-",,REP,Joe Walsh,0,0,2,2
-Dickens,Precinct 6,"President REPUBLICAN PARTY
-",,REP,"Roque ""Rocky"" De La Fuente Guerra",0,0,0,0
-Dickens,Precinct 6,"President REPUBLICAN PARTY
-",,REP,Zoltan G. Istvan,0,1,0,1
-Dickens,Precinct 6,"President REPUBLICAN PARTY
-",,REP,Uncommitted,0,2,4,6
-Dickens,Precinct 6,"President REPUBLICAN PARTY
-",,REP,Ballots Cast,7,44,80,131
-Dickens,Precinct 6,"President REPUBLICAN PARTY
-",,REP,Over Votes:,0,0,0,0
-Dickens,Precinct 6,"President REPUBLICAN PARTY
-",,REP,Under Votes:,0,3,6,9
+Dickens,Precinct 6,President,,REP,Donald J. Trump,7,41,71,119
+Dickens,Precinct 6,President,,REP,Bob Ely,0,0,0,0
+Dickens,Precinct 6,President,,REP,Bill Weld,0,0,2,2
+Dickens,Precinct 6,President,,REP,Matthew John Matern,0,0,1,1
+Dickens,Precinct 6,President,,REP,Joe Walsh,0,0,2,2
+Dickens,Precinct 6,President,,REP,"Roque ""Rocky"" De La Fuente Guerra",0,0,0,0
+Dickens,Precinct 6,President,,REP,Zoltan G. Istvan,0,1,0,1
+Dickens,Precinct 6,President,,REP,Uncommitted,0,2,4,6
+Dickens,Precinct 6,President,,REP,Ballots Cast,7,44,80,131
+Dickens,Precinct 6,President,,REP,Over Votes:,0,0,0,0
+Dickens,Precinct 6,President,,REP,Under Votes:,0,3,6,9
 Dickens,Precinct 6,U.S. Senate,,REP,Dwayne Stovall,0,6,14,20
 Dickens,Precinct 6,U.S. Senate,,REP,Mark Yancey,1,1,5,7
 Dickens,Precinct 6,U.S. Senate,,REP,John Anthony Castro,0,1,2,3
@@ -1988,14 +1727,10 @@ Dickens,Precinct 6,County Attorney,,REP,Aaron Clements,7,36,60,103
 Dickens,Precinct 6,County Attorney,,REP,Ballots Cast,7,36,60,103
 Dickens,Precinct 6,County Attorney,,REP,Over Votes:,0,0,0,0
 Dickens,Precinct 6,County Attorney,,REP,Under Votes:,0,11,24,35
-Dickens,Precinct 6,"Sheriff REPUBLICAN PARTY
-",,REP,Terry Braly,7,30,59,96
-Dickens,Precinct 6,"Sheriff REPUBLICAN PARTY
-",,REP,Ballots Cast,7,30,59,96
-Dickens,Precinct 6,"Sheriff REPUBLICAN PARTY
-",,REP,Over Votes:,0,0,0,0
-Dickens,Precinct 6,"Sheriff REPUBLICAN PARTY
-",,REP,Under Votes:,0,17,26,43
+Dickens,Precinct 6,Sheriff,,REP,Terry Braly,7,30,59,96
+Dickens,Precinct 6,Sheriff,,REP,Ballots Cast,7,30,59,96
+Dickens,Precinct 6,Sheriff,,REP,Over Votes:,0,0,0,0
+Dickens,Precinct 6,Sheriff,,REP,Under Votes:,0,17,26,43
 Dickens,Precinct 6,County Tax Assessor-Collector,,REP,Rebecca Haney,7,38,66,111
 Dickens,Precinct 6,County Tax Assessor-Collector,,REP,Ballots Cast,7,38,66,111
 Dickens,Precinct 6,County Tax Assessor-Collector,,REP,Over Votes:,0,0,0,0
@@ -2010,76 +1745,41 @@ Dickens,Precinct 6,County Chairman,,REP,Ballots Cast,7,41,56,104
 Dickens,Precinct 6,County Chairman,,REP,Over Votes:,0,0,0,0
 Dickens,Precinct 6,County Chairman,,REP,Under Votes:,0,6,28,34
 Dickens,Precinct 6,Ballots Cast,,REP,,,,,153
-Dickens,Precinct 6,"President DEMOCRATIC PARTY
-",,DEM,Marianne Williamson,0,0,0,0
-Dickens,Precinct 6,"President DEMOCRATIC PARTY
-",,DEM,Michael R. Bloomberg,1,1,2,4
-Dickens,Precinct 6,"President DEMOCRATIC PARTY
-",,DEM,Robby Wells,0,0,0,0
-Dickens,Precinct 6,"President DEMOCRATIC PARTY
-",,DEM,Julián Castro,0,0,0,0
-Dickens,Precinct 6,"President DEMOCRATIC PARTY
-",,DEM,Pete Buttigieg,0,0,0,0
-Dickens,Precinct 6,"President DEMOCRATIC PARTY
-",,DEM,"Roque ""Rocky"" De La Fuente",0,0,0,0
-Dickens,Precinct 6,"President DEMOCRATIC PARTY
-",,DEM,Tulsi Gabbard,0,0,0,0
-Dickens,Precinct 6,"President DEMOCRATIC PARTY
-",,DEM,Amy Klobuchar,0,0,0,0
-Dickens,Precinct 6,"President DEMOCRATIC PARTY
-",,DEM,Tom Steyer,0,0,0,0
-Dickens,Precinct 6,"President DEMOCRATIC PARTY
-",,DEM,Cory Booker,0,0,0,0
-Dickens,Precinct 6,"President DEMOCRATIC PARTY
-",,DEM,John K. Delaney,0,0,0,0
-Dickens,Precinct 6,"President DEMOCRATIC PARTY
-",,DEM,Deval Patrick,0,0,0,0
-Dickens,Precinct 6,"President DEMOCRATIC PARTY
-",,DEM,Andrew Yang,0,0,0,0
-Dickens,Precinct 6,"President DEMOCRATIC PARTY
-",,DEM,Michael Bennet,0,0,0,0
-Dickens,Precinct 6,"President DEMOCRATIC PARTY
-",,DEM,Joseph R. Biden,0,0,5,5
-Dickens,Precinct 6,"President DEMOCRATIC PARTY
-",,DEM,Bernie Sanders,0,1,0,1
-Dickens,Precinct 6,"President DEMOCRATIC PARTY
-",,DEM,Elizabeth Warren,1,0,0,1
-Dickens,Precinct 6,"President DEMOCRATIC PARTY
-",,DEM,Ballots Cast,2,2,7,11
-Dickens,Precinct 6,"President DEMOCRATIC PARTY
-",,DEM,Over Votes:,0,0,0,0
-Dickens,Precinct 6,"President DEMOCRATIC PARTY
-",,DEM,Under Votes:,0,0,0,0
-Dickens,Precinct 6,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Chris Bell,0,1,2,3
-Dickens,Precinct 6,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Victor Hugo Harris,0,0,1,1
-Dickens,Precinct 6,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,"Annie ""Mamá"" Garcia",0,1,0,1
-Dickens,Precinct 6,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Royce West,0,0,0,0
-Dickens,Precinct 6,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Michael Cooper,0,0,0,0
-Dickens,Precinct 6,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Adrian Ocegueda,0,0,0,0
-Dickens,Precinct 6,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,D.R. Hunter,0,0,0,0
-Dickens,Precinct 6,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Amanda K. Edwards,0,0,0,0
-Dickens,Precinct 6,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,"Mary ""MJ"" Hegar",0,0,1,1
-Dickens,Precinct 6,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Jack Daniel Foster Jr,0,0,2,2
-Dickens,Precinct 6,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Sema Hernandez,0,0,0,0
-Dickens,Precinct 6,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Cristina Tzintzun Ramirez,0,0,0,0
-Dickens,Precinct 6,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Ballots Cast,0,2,6,8
-Dickens,Precinct 6,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Over Votes:,0,0,0,0
-Dickens,Precinct 6,"U.S. Senate DEMOCRATIC PARTY
-",,DEM,Under Votes:,0,0,1,1
+Dickens,Precinct 6,President,,DEM,Marianne Williamson,0,0,0,0
+Dickens,Precinct 6,President,,DEM,Michael R. Bloomberg,1,1,2,4
+Dickens,Precinct 6,President,,DEM,Robby Wells,0,0,0,0
+Dickens,Precinct 6,President,,DEM,Julián Castro,0,0,0,0
+Dickens,Precinct 6,President,,DEM,Pete Buttigieg,0,0,0,0
+Dickens,Precinct 6,President,,DEM,"Roque ""Rocky"" De La Fuente",0,0,0,0
+Dickens,Precinct 6,President,,DEM,Tulsi Gabbard,0,0,0,0
+Dickens,Precinct 6,President,,DEM,Amy Klobuchar,0,0,0,0
+Dickens,Precinct 6,President,,DEM,Tom Steyer,0,0,0,0
+Dickens,Precinct 6,President,,DEM,Cory Booker,0,0,0,0
+Dickens,Precinct 6,President,,DEM,John K. Delaney,0,0,0,0
+Dickens,Precinct 6,President,,DEM,Deval Patrick,0,0,0,0
+Dickens,Precinct 6,President,,DEM,Andrew Yang,0,0,0,0
+Dickens,Precinct 6,President,,DEM,Michael Bennet,0,0,0,0
+Dickens,Precinct 6,President,,DEM,Joseph R. Biden,0,0,5,5
+Dickens,Precinct 6,President,,DEM,Bernie Sanders,0,1,0,1
+Dickens,Precinct 6,President,,DEM,Elizabeth Warren,1,0,0,1
+Dickens,Precinct 6,President,,DEM,Ballots Cast,2,2,7,11
+Dickens,Precinct 6,President,,DEM,Over Votes:,0,0,0,0
+Dickens,Precinct 6,President,,DEM,Under Votes:,0,0,0,0
+Dickens,Precinct 6,U.S. Senate,,DEM,Chris Bell,0,1,2,3
+Dickens,Precinct 6,U.S. Senate,,DEM,Victor Hugo Harris,0,0,1,1
+Dickens,Precinct 6,U.S. Senate,,DEM,"Annie ""Mamá"" Garcia",0,1,0,1
+Dickens,Precinct 6,U.S. Senate,,DEM,Royce West,0,0,0,0
+Dickens,Precinct 6,U.S. Senate,,DEM,Michael Cooper,0,0,0,0
+Dickens,Precinct 6,U.S. Senate,,DEM,Adrian Ocegueda,0,0,0,0
+Dickens,Precinct 6,U.S. Senate,,DEM,D.R. Hunter,0,0,0,0
+Dickens,Precinct 6,U.S. Senate,,DEM,Amanda K. Edwards,0,0,0,0
+Dickens,Precinct 6,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",0,0,1,1
+Dickens,Precinct 6,U.S. Senate,,DEM,Jack Daniel Foster Jr,0,0,2,2
+Dickens,Precinct 6,U.S. Senate,,DEM,Sema Hernandez,0,0,0,0
+Dickens,Precinct 6,U.S. Senate,,DEM,Cristina Tzintzun Ramirez,0,0,0,0
+Dickens,Precinct 6,U.S. Senate,,DEM,Ballots Cast,0,2,6,8
+Dickens,Precinct 6,U.S. Senate,,DEM,Over Votes:,0,0,0,0
+Dickens,Precinct 6,U.S. Senate,,DEM,Under Votes:,0,0,1,1
 Dickens,Precinct 6,U.S. House,13,DEM,Gus Trujillo,1,0,1,2
 Dickens,Precinct 6,U.S. House,13,DEM,Timothy W. Gassaway,0,1,5,6
 Dickens,Precinct 6,U.S. House,13,DEM,Greg Sagan,0,1,1,2

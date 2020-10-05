@@ -8,11 +8,11 @@ Childress,PRECINCT 101,President,,REP,Matthew John Matern,0,0,0,0
 Childress,PRECINCT 101,President,,REP,Bill Weld,1,0,0,1
 Childress,PRECINCT 101,President,,REP,Joe Walsh,1,0,0,1
 Childress,PRECINCT 101,President,,REP,Uncommitted,6,0,4,2
-Childress,PRECINCT 101,US Senator,,REP,Virgil Bierschwale,5,0,3,2
-Childress,PRECINCT 101,US Senator,,REP,John Anthony Castro,19,0,12,7
-Childress,PRECINCT 101,US Senator,,REP,Dwayne Stovall,32,0,17,15
-Childress,PRECINCT 101,US Senator,,REP,Mark Yancey,12,0,6,6
-Childress,PRECINCT 101,US Senator,,REP,John Cornyn,195,4,92,99
+Childress,PRECINCT 101,U.S. Senate,,REP,Virgil Bierschwale,5,0,3,2
+Childress,PRECINCT 101,U.S. Senate,,REP,John Anthony Castro,19,0,12,7
+Childress,PRECINCT 101,U.S. Senate,,REP,Dwayne Stovall,32,0,17,15
+Childress,PRECINCT 101,U.S. Senate,,REP,Mark Yancey,12,0,6,6
+Childress,PRECINCT 101,U.S. Senate,,REP,John Cornyn,195,4,92,99
 Childress,PRECINCT 101,"US Representative, Dist 13",,REP,Elaine Hays,11,0,9,2
 Childress,PRECINCT 101,"US Representative, Dist 13",,REP,Chris Ekstrom,51,0,30,21
 Childress,PRECINCT 101,"US Representative, Dist 13",,REP,Ronny Jackson,54,2,25,27
@@ -39,8 +39,8 @@ Childress,PRECINCT 101,"Judge, Ct of Crim App, Pl 3",,REP,Gina Parker,84,2,44,38
 Childress,PRECINCT 101,"Judge, Ct of Crim App, Pl 4",,REP,Kevin Patrick Yeary,256,3,128,125
 Childress,PRECINCT 101,"Judge, Ct of Crim App, Pl 9",,REP,David Newell,255,3,126,126
 Childress,PRECINCT 101,"Member, State BoE, Dist 15",,REP,Jay Johnson,256,3,126,127
-Childress,PRECINCT 101,"State Senator, Dist 28",,REP,Charles Perry,262,3,130,129
-Childress,PRECINCT 101,"State Representative, Dist 68",,REP,Drew Springer,264,3,130,131
+Childress,PRECINCT 101,State Senate,28,REP,Charles Perry,262,3,130,129
+Childress,PRECINCT 101,State Representative,68,REP,Drew Springer,264,3,130,131
 Childress,PRECINCT 101,"Chief Justice, 7th Ct of App Dist",,REP,Brian Quinn,252,3,127,122
 Childress,PRECINCT 101,"Justice, 7th Ct of App Dist, Pl 4",,REP,Larry Doss,139,3,70,66
 Childress,PRECINCT 101,"Justice, 7th Ct of App Dist, Pl 4",,REP,Steven Denny,109,1,55,53
@@ -93,18 +93,18 @@ Childress,PRECINCT 101,President,,DEM,Tom Steyer,0,0,0,0
 Childress,PRECINCT 101,President,,DEM,Robby Wells,0,0,0,0
 Childress,PRECINCT 101,President,,DEM,Tulsi Gabbard,0,0,0,0
 Childress,PRECINCT 101,President,,DEM,Julian Castro,0,0,0,0
-Childress,PRECINCT 101,US Senator,,DEM,"Jack Daniel Foster, Jr.",6,0,0,6
-Childress,PRECINCT 101,US Senator,,DEM,Michael Cooper,0,0,0,0
-Childress,PRECINCT 101,US Senator,,DEM,Amanda K. Edwards,3,0,1,2
-Childress,PRECINCT 101,US Senator,,DEM,Cristina Tzintzun Ramirez,2,0,1,1
-Childress,PRECINCT 101,US Senator,,DEM,Chris Bell,3,0,0,3
-Childress,PRECINCT 101,US Senator,,DEM,"Annie ""Mama"" Garcia",1,0,0,1
-Childress,PRECINCT 101,US Senator,,DEM,Royce West,0,0,0,0
-Childress,PRECINCT 101,US Senator,,DEM,Victor Hugo Harris,0,0,0,0
-Childress,PRECINCT 101,US Senator,,DEM,Adrian Ocegueda,0,0,0,0
-Childress,PRECINCT 101,US Senator,,DEM,"Mary ""MJ"" Hegar",2,1,0,1
-Childress,PRECINCT 101,US Senator,,DEM,Sema Hernandez,2,0,1,1
-Childress,PRECINCT 101,US Senator,,DEM,D. R. Hunter,1,0,0,1
+Childress,PRECINCT 101,U.S. Senate,,DEM,"Jack Daniel Foster, Jr.",6,0,0,6
+Childress,PRECINCT 101,U.S. Senate,,DEM,Michael Cooper,0,0,0,0
+Childress,PRECINCT 101,U.S. Senate,,DEM,Amanda K. Edwards,3,0,1,2
+Childress,PRECINCT 101,U.S. Senate,,DEM,Cristina Tzintzun Ramirez,2,0,1,1
+Childress,PRECINCT 101,U.S. Senate,,DEM,Chris Bell,3,0,0,3
+Childress,PRECINCT 101,U.S. Senate,,DEM,"Annie ""Mama"" Garcia",1,0,0,1
+Childress,PRECINCT 101,U.S. Senate,,DEM,Royce West,0,0,0,0
+Childress,PRECINCT 101,U.S. Senate,,DEM,Victor Hugo Harris,0,0,0,0
+Childress,PRECINCT 101,U.S. Senate,,DEM,Adrian Ocegueda,0,0,0,0
+Childress,PRECINCT 101,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",2,1,0,1
+Childress,PRECINCT 101,U.S. Senate,,DEM,Sema Hernandez,2,0,1,1
+Childress,PRECINCT 101,U.S. Senate,,DEM,D. R. Hunter,1,0,0,1
 Childress,PRECINCT 101,"US Representative, Dist 13",,DEM,Gus Trujillo,8,0,1,7
 Childress,PRECINCT 101,"US Representative, Dist 13",,DEM,Greg Sagan,7,1,1,5
 Childress,PRECINCT 101,"US Representative, Dist 13",,DEM,Timothy W. Gassaway,3,0,0,3
@@ -127,7 +127,7 @@ Childress,PRECINCT 101,"Judge, Ct of Crim App, Pl 4",,DEM,Steven Miears,9,0,1,8
 Childress,PRECINCT 101,"Judge, Ct of Crim App, Pl 4",,DEM,Tina Clinton,10,1,2,7
 Childress,PRECINCT 101,"Judge, Ct of Crim App, Pl 9",,DEM,Brandon Birmingham,18,1,3,14
 Childress,PRECINCT 101,"Member, State BoE, Dist 15",,DEM,John Betancourt,17,1,2,14
-Childress,PRECINCT 101,"State Representative, Dist 68",,DEM,Patsy Ledbetter,18,1,3,14
+Childress,PRECINCT 101,State Representative,68,DEM,Patsy Ledbetter,18,1,3,14
 Childress,PRECINCT 101,County Chair,,DEM,Grace Holman,19,1,3,15
 Childress,PRECINCT 101,Proposition #1,,DEM,Yes,21,1,3,17
 Childress,PRECINCT 101,Proposition #1,,DEM,No,1,0,0,1
@@ -160,11 +160,11 @@ Childress,PRECINCT 201,President,,REP,Matthew John Matern,1,0,0,1
 Childress,PRECINCT 201,President,,REP,Bill Weld,0,0,0,0
 Childress,PRECINCT 201,President,,REP,Joe Walsh,7,0,3,4
 Childress,PRECINCT 201,President,,REP,Uncommitted,9,0,4,5
-Childress,PRECINCT 201,US Senator,,REP,Virgil Bierschwale,13,0,6,7
-Childress,PRECINCT 201,US Senator,,REP,John Anthony Castro,14,0,6,8
-Childress,PRECINCT 201,US Senator,,REP,Dwayne Stovall,35,0,17,18
-Childress,PRECINCT 201,US Senator,,REP,Mark Yancey,23,0,8,15
-Childress,PRECINCT 201,US Senator,,REP,John Cornyn,247,1,124,122
+Childress,PRECINCT 201,U.S. Senate,,REP,Virgil Bierschwale,13,0,6,7
+Childress,PRECINCT 201,U.S. Senate,,REP,John Anthony Castro,14,0,6,8
+Childress,PRECINCT 201,U.S. Senate,,REP,Dwayne Stovall,35,0,17,18
+Childress,PRECINCT 201,U.S. Senate,,REP,Mark Yancey,23,0,8,15
+Childress,PRECINCT 201,U.S. Senate,,REP,John Cornyn,247,1,124,122
 Childress,PRECINCT 201,"US Representative, Dist 13",,REP,Elaine Hays,20,0,12,8
 Childress,PRECINCT 201,"US Representative, Dist 13",,REP,Chris Ekstrom,58,0,32,26
 Childress,PRECINCT 201,"US Representative, Dist 13",,REP,Ronny Jackson,63,0,34,29
@@ -191,8 +191,8 @@ Childress,PRECINCT 201,"Judge, Ct of Crim App, Pl 3",,REP,Gina Parker,106,0,54,5
 Childress,PRECINCT 201,"Judge, Ct of Crim App, Pl 4",,REP,Kevin Patrick Yeary,316,1,150,165
 Childress,PRECINCT 201,"Judge, Ct of Crim App, Pl 9",,REP,David Newell,314,1,150,163
 Childress,PRECINCT 201,"Member, State BoE, Dist 15",,REP,Jay Johnson,313,1,149,163
-Childress,PRECINCT 201,"State Senator, Dist 28",,REP,Charles Perry,327,1,153,173
-Childress,PRECINCT 201,"State Representative, Dist 68",,REP,Drew Springer,328,0,156,172
+Childress,PRECINCT 201,State Senate,28,REP,Charles Perry,327,1,153,173
+Childress,PRECINCT 201,State Representative,68,REP,Drew Springer,328,0,156,172
 Childress,PRECINCT 201,"Chief Justice, 7th Ct of App Dist",,REP,Brian Quinn,313,1,149,163
 Childress,PRECINCT 201,"Justice, 7th Ct of App Dist, Pl 4",,REP,Larry Doss,160,1,75,84
 Childress,PRECINCT 201,"Justice, 7th Ct of App Dist, Pl 4",,REP,Steven Denny,146,0,73,73
@@ -244,18 +244,18 @@ Childress,PRECINCT 201,President,,DEM,Tom Steyer,1,0,1,0
 Childress,PRECINCT 201,President,,DEM,Robby Wells,0,0,0,0
 Childress,PRECINCT 201,President,,DEM,Tulsi Gabbard,0,0,0,0
 Childress,PRECINCT 201,President,,DEM,Julian Castro,0,0,0,0
-Childress,PRECINCT 201,US Senator,,DEM,"Jack Daniel Foster, Jr.",5,0,1,4
-Childress,PRECINCT 201,US Senator,,DEM,Michael Cooper,5,1,2,2
-Childress,PRECINCT 201,US Senator,,DEM,Amanda K. Edwards,3,0,2,1
-Childress,PRECINCT 201,US Senator,,DEM,Cristina Tzintzun Ramirez,3,0,1,2
-Childress,PRECINCT 201,US Senator,,DEM,Chris Bell,2,0,2,0
-Childress,PRECINCT 201,US Senator,,DEM,"Annie ""Mama"" Garcia",4,0,2,2
-Childress,PRECINCT 201,US Senator,,DEM,Royce West,0,0,0,0
-Childress,PRECINCT 201,US Senator,,DEM,Victor Hugo Harris,0,0,0,0
-Childress,PRECINCT 201,US Senator,,DEM,Adrian Ocegueda,0,0,0,0
-Childress,PRECINCT 201,US Senator,,DEM,"Mary ""MJ"" Hegar",1,0,0,1
-Childress,PRECINCT 201,US Senator,,DEM,Sema Hernandez,1,0,0,1
-Childress,PRECINCT 201,US Senator,,DEM,D. R. Hunter,0,0,0,0
+Childress,PRECINCT 201,U.S. Senate,,DEM,"Jack Daniel Foster, Jr.",5,0,1,4
+Childress,PRECINCT 201,U.S. Senate,,DEM,Michael Cooper,5,1,2,2
+Childress,PRECINCT 201,U.S. Senate,,DEM,Amanda K. Edwards,3,0,2,1
+Childress,PRECINCT 201,U.S. Senate,,DEM,Cristina Tzintzun Ramirez,3,0,1,2
+Childress,PRECINCT 201,U.S. Senate,,DEM,Chris Bell,2,0,2,0
+Childress,PRECINCT 201,U.S. Senate,,DEM,"Annie ""Mama"" Garcia",4,0,2,2
+Childress,PRECINCT 201,U.S. Senate,,DEM,Royce West,0,0,0,0
+Childress,PRECINCT 201,U.S. Senate,,DEM,Victor Hugo Harris,0,0,0,0
+Childress,PRECINCT 201,U.S. Senate,,DEM,Adrian Ocegueda,0,0,0,0
+Childress,PRECINCT 201,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",1,0,0,1
+Childress,PRECINCT 201,U.S. Senate,,DEM,Sema Hernandez,1,0,0,1
+Childress,PRECINCT 201,U.S. Senate,,DEM,D. R. Hunter,0,0,0,0
 Childress,PRECINCT 201,"US Representative, Dist 13",,DEM,Gus Trujillo,9,1,5,3
 Childress,PRECINCT 201,"US Representative, Dist 13",,DEM,Greg Sagan,8,0,4,4
 Childress,PRECINCT 201,"US Representative, Dist 13",,DEM,Timothy W. Gassaway,9,0,2,7
@@ -278,7 +278,7 @@ Childress,PRECINCT 201,"Judge, Ct of Crim App, Pl 4",,DEM,Steven Miears,6,0,3,3
 Childress,PRECINCT 201,"Judge, Ct of Crim App, Pl 4",,DEM,Tina Clinton,18,1,7,10
 Childress,PRECINCT 201,"Judge, Ct of Crim App, Pl 9",,DEM,Brandon Birmingham,24,1,10,13
 Childress,PRECINCT 201,"Member, State BoE, Dist 15",,DEM,John Betancourt,27,1,10,16
-Childress,PRECINCT 201,"State Representative, Dist 68",,DEM,Patsy Ledbetter,26,1,10,15
+Childress,PRECINCT 201,State Representative,68,DEM,Patsy Ledbetter,26,1,10,15
 Childress,PRECINCT 201,County Chair,,DEM,Grace Holman,28,1,11,16
 Childress,PRECINCT 201,Proposition #1,,DEM,Yes,27,1,10,16
 Childress,PRECINCT 201,Proposition #1,,DEM,No,1,0,0,1
@@ -311,11 +311,11 @@ Childress,PRECINCT 301,President,,REP,Matthew John Matern,1,0,1,0
 Childress,PRECINCT 301,President,,REP,Bill Weld,3,0,1,2
 Childress,PRECINCT 301,President,,REP,Joe Walsh,1,0,1,0
 Childress,PRECINCT 301,President,,REP,Uncommitted,15,2,3,10
-Childress,PRECINCT 301,US Senator,,REP,Virgil Bierschwale,4,0,2,2
-Childress,PRECINCT 301,US Senator,,REP,John Anthony Castro,21,0,8,13
-Childress,PRECINCT 301,US Senator,,REP,Dwayne Stovall,37,0,13,24
-Childress,PRECINCT 301,US Senator,,REP,Mark Yancey,22,0,9,13
-Childress,PRECINCT 301,US Senator,,REP,John Cornyn,197,2,89,106
+Childress,PRECINCT 301,U.S. Senate,,REP,Virgil Bierschwale,4,0,2,2
+Childress,PRECINCT 301,U.S. Senate,,REP,John Anthony Castro,21,0,8,13
+Childress,PRECINCT 301,U.S. Senate,,REP,Dwayne Stovall,37,0,13,24
+Childress,PRECINCT 301,U.S. Senate,,REP,Mark Yancey,22,0,9,13
+Childress,PRECINCT 301,U.S. Senate,,REP,John Cornyn,197,2,89,106
 Childress,PRECINCT 301,"US Representative, Dist 13",,REP,Elaine Hays,23,0,13,10
 Childress,PRECINCT 301,"US Representative, Dist 13",,REP,Chris Ekstrom,33,0,9,24
 Childress,PRECINCT 301,"US Representative, Dist 13",,REP,Ronny Jackson,41,0,17,24
@@ -342,8 +342,8 @@ Childress,PRECINCT 301,"Judge, Ct of Crim App, Pl 3",,REP,Gina Parker,96,0,43,53
 Childress,PRECINCT 301,"Judge, Ct of Crim App, Pl 4",,REP,Kevin Patrick Yeary,263,3,112,148
 Childress,PRECINCT 301,"Judge, Ct of Crim App, Pl 9",,REP,David Newell,265,3,112,150
 Childress,PRECINCT 301,"Member, State BoE, Dist 15",,REP,Jay Johnson,265,3,113,149
-Childress,PRECINCT 301,"State Senator, Dist 28",,REP,Charles Perry,271,3,116,152
-Childress,PRECINCT 301,"State Representative, Dist 68",,REP,Drew Springer,273,3,118,152
+Childress,PRECINCT 301,State Senate,28,REP,Charles Perry,271,3,116,152
+Childress,PRECINCT 301,State Representative,68,REP,Drew Springer,273,3,118,152
 Childress,PRECINCT 301,"Chief Justice, 7th Ct of App Dist",,REP,Brian Quinn,262,3,111,148
 Childress,PRECINCT 301,"Justice, 7th Ct of App Dist, Pl 4",,REP,Larry Doss,147,0,74,73
 Childress,PRECINCT 301,"Justice, 7th Ct of App Dist, Pl 4",,REP,Steven Denny,109,2,37,70
@@ -397,18 +397,18 @@ Childress,PRECINCT 301,President,,DEM,Tom Steyer,1,0,1,0
 Childress,PRECINCT 301,President,,DEM,Robby Wells,1,0,0,1
 Childress,PRECINCT 301,President,,DEM,Tulsi Gabbard,0,0,0,0
 Childress,PRECINCT 301,President,,DEM,Julian Castro,0,0,0,0
-Childress,PRECINCT 301,US Senator,,DEM,"Jack Daniel Foster, Jr.",1,0,0,1
-Childress,PRECINCT 301,US Senator,,DEM,Michael Cooper,1,0,0,1
-Childress,PRECINCT 301,US Senator,,DEM,Amanda K. Edwards,5,0,0,5
-Childress,PRECINCT 301,US Senator,,DEM,Cristina Tzintzun Ramirez,3,0,0,3
-Childress,PRECINCT 301,US Senator,,DEM,Chris Bell,2,0,1,1
-Childress,PRECINCT 301,US Senator,,DEM,"Annie ""Mama"" Garcia",4,0,1,3
-Childress,PRECINCT 301,US Senator,,DEM,Royce West,2,1,0,1
-Childress,PRECINCT 301,US Senator,,DEM,Victor Hugo Harris,3,0,1,2
-Childress,PRECINCT 301,US Senator,,DEM,Adrian Ocegueda,0,0,0,0
-Childress,PRECINCT 301,US Senator,,DEM,"Mary ""MJ"" Hegar",1,0,0,1
-Childress,PRECINCT 301,US Senator,,DEM,Sema Hernandez,4,0,1,3
-Childress,PRECINCT 301,US Senator,,DEM,D. R. Hunter,1,0,0,1
+Childress,PRECINCT 301,U.S. Senate,,DEM,"Jack Daniel Foster, Jr.",1,0,0,1
+Childress,PRECINCT 301,U.S. Senate,,DEM,Michael Cooper,1,0,0,1
+Childress,PRECINCT 301,U.S. Senate,,DEM,Amanda K. Edwards,5,0,0,5
+Childress,PRECINCT 301,U.S. Senate,,DEM,Cristina Tzintzun Ramirez,3,0,0,3
+Childress,PRECINCT 301,U.S. Senate,,DEM,Chris Bell,2,0,1,1
+Childress,PRECINCT 301,U.S. Senate,,DEM,"Annie ""Mama"" Garcia",4,0,1,3
+Childress,PRECINCT 301,U.S. Senate,,DEM,Royce West,2,1,0,1
+Childress,PRECINCT 301,U.S. Senate,,DEM,Victor Hugo Harris,3,0,1,2
+Childress,PRECINCT 301,U.S. Senate,,DEM,Adrian Ocegueda,0,0,0,0
+Childress,PRECINCT 301,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",1,0,0,1
+Childress,PRECINCT 301,U.S. Senate,,DEM,Sema Hernandez,4,0,1,3
+Childress,PRECINCT 301,U.S. Senate,,DEM,D. R. Hunter,1,0,0,1
 Childress,PRECINCT 301,"US Representative, Dist 13",,DEM,Gus Trujillo,11,1,2,8
 Childress,PRECINCT 301,"US Representative, Dist 13",,DEM,Greg Sagan,6,0,2,4
 Childress,PRECINCT 301,"US Representative, Dist 13",,DEM,Timothy W. Gassaway,10,0,0,10
@@ -431,7 +431,7 @@ Childress,PRECINCT 301,"Judge, Ct of Crim App, Pl 4",,DEM,Steven Miears,7,0,1,6
 Childress,PRECINCT 301,"Judge, Ct of Crim App, Pl 4",,DEM,Tina Clinton,19,1,3,15
 Childress,PRECINCT 301,"Judge, Ct of Crim App, Pl 9",,DEM,Brandon Birmingham,25,1,4,20
 Childress,PRECINCT 301,"Member, State BoE, Dist 15",,DEM,John Betancourt,27,1,4,22
-Childress,PRECINCT 301,"State Representative, Dist 68",,DEM,Patsy Ledbetter,26,1,4,21
+Childress,PRECINCT 301,State Representative,68,DEM,Patsy Ledbetter,26,1,4,21
 Childress,PRECINCT 301,County Chair,,DEM,Grace Holman,27,1,4,22
 Childress,PRECINCT 301,Proposition #1,,DEM,Yes,28,1,4,23
 Childress,PRECINCT 301,Proposition #1,,DEM,No,0,0,0,0
@@ -464,11 +464,11 @@ Childress,PRECINCT 401,President,,REP,Matthew John Matern,0,0,0,0
 Childress,PRECINCT 401,President,,REP,Bill Weld,0,0,0,0
 Childress,PRECINCT 401,President,,REP,Joe Walsh,1,0,1,0
 Childress,PRECINCT 401,President,,REP,Uncommitted,10,0,2,8
-Childress,PRECINCT 401,US Senator,,REP,Virgil Bierschwale,10,0,2,8
-Childress,PRECINCT 401,US Senator,,REP,John Anthony Castro,16,0,5,11
-Childress,PRECINCT 401,US Senator,,REP,Dwayne Stovall,48,0,19,29
-Childress,PRECINCT 401,US Senator,,REP,Mark Yancey,20,0,7,13
-Childress,PRECINCT 401,US Senator,,REP,John Cornyn,235,0,118,117
+Childress,PRECINCT 401,U.S. Senate,,REP,Virgil Bierschwale,10,0,2,8
+Childress,PRECINCT 401,U.S. Senate,,REP,John Anthony Castro,16,0,5,11
+Childress,PRECINCT 401,U.S. Senate,,REP,Dwayne Stovall,48,0,19,29
+Childress,PRECINCT 401,U.S. Senate,,REP,Mark Yancey,20,0,7,13
+Childress,PRECINCT 401,U.S. Senate,,REP,John Cornyn,235,0,118,117
 Childress,PRECINCT 401,"US Representative, Dist 13",,REP,Elaine Hays,26,0,16,10
 Childress,PRECINCT 401,"US Representative, Dist 13",,REP,Chris Ekstrom,32,0,18,14
 Childress,PRECINCT 401,"US Representative, Dist 13",,REP,Ronny Jackson,97,0,33,64
@@ -495,8 +495,8 @@ Childress,PRECINCT 401,"Judge, Ct of Crim App, Pl 3",,REP,Gina Parker,107,0,49,5
 Childress,PRECINCT 401,"Judge, Ct of Crim App, Pl 4",,REP,Kevin Patrick Yeary,321,0,149,172
 Childress,PRECINCT 401,"Judge, Ct of Crim App, Pl 9",,REP,David Newell,323,0,149,174
 Childress,PRECINCT 401,"Member, State BoE, Dist 15",,REP,Jay Johnson,322,0,148,174
-Childress,PRECINCT 401,"State Senator, Dist 28",,REP,Charles Perry,330,0,150,180
-Childress,PRECINCT 401,"State Representative, Dist 68",,REP,Drew Springer,332,0,152,180
+Childress,PRECINCT 401,State Senate,28,REP,Charles Perry,330,0,150,180
+Childress,PRECINCT 401,State Representative,68,REP,Drew Springer,332,0,152,180
 Childress,PRECINCT 401,"Chief Justice, 7th Ct of App Dist",,REP,Brian Quinn,325,0,149,176
 Childress,PRECINCT 401,"Justice, 7th Ct of App Dist, Pl 4",,REP,Larry Doss,159,0,72,87
 Childress,PRECINCT 401,"Justice, 7th Ct of App Dist, Pl 4",,REP,Steven Denny,150,0,68,82
@@ -548,18 +548,18 @@ Childress,PRECINCT 401,President,,DEM,Tom Steyer,1,0,1,0
 Childress,PRECINCT 401,President,,DEM,Robby Wells,0,0,0,0
 Childress,PRECINCT 401,President,,DEM,Tulsi Gabbard,0,0,0,0
 Childress,PRECINCT 401,President,,DEM,Julian Castro,1,0,0,1
-Childress,PRECINCT 401,US Senator,,DEM,"Jack Daniel Foster, Jr.",1,0,0,1
-Childress,PRECINCT 401,US Senator,,DEM,Michael Cooper,2,0,1,1
-Childress,PRECINCT 401,US Senator,,DEM,Amanda K. Edwards,5,0,0,5
-Childress,PRECINCT 401,US Senator,,DEM,Cristina Tzintzun Ramirez,4,0,1,3
-Childress,PRECINCT 401,US Senator,,DEM,Chris Bell,6,2,3,1
-Childress,PRECINCT 401,US Senator,,DEM,"Annie ""Mama"" Garcia",7,0,2,5
-Childress,PRECINCT 401,US Senator,,DEM,Royce West,1,0,0,1
-Childress,PRECINCT 401,US Senator,,DEM,Victor Hugo Harris,2,0,2,0
-Childress,PRECINCT 401,US Senator,,DEM,Adrian Ocegueda,2,0,1,1
-Childress,PRECINCT 401,US Senator,,DEM,"Mary ""MJ"" Hegar",6,1,1,4
-Childress,PRECINCT 401,US Senator,,DEM,Sema Hernandez,3,0,0,3
-Childress,PRECINCT 401,US Senator,,DEM,D. R. Hunter,1,0,0,1
+Childress,PRECINCT 401,U.S. Senate,,DEM,"Jack Daniel Foster, Jr.",1,0,0,1
+Childress,PRECINCT 401,U.S. Senate,,DEM,Michael Cooper,2,0,1,1
+Childress,PRECINCT 401,U.S. Senate,,DEM,Amanda K. Edwards,5,0,0,5
+Childress,PRECINCT 401,U.S. Senate,,DEM,Cristina Tzintzun Ramirez,4,0,1,3
+Childress,PRECINCT 401,U.S. Senate,,DEM,Chris Bell,6,2,3,1
+Childress,PRECINCT 401,U.S. Senate,,DEM,"Annie ""Mama"" Garcia",7,0,2,5
+Childress,PRECINCT 401,U.S. Senate,,DEM,Royce West,1,0,0,1
+Childress,PRECINCT 401,U.S. Senate,,DEM,Victor Hugo Harris,2,0,2,0
+Childress,PRECINCT 401,U.S. Senate,,DEM,Adrian Ocegueda,2,0,1,1
+Childress,PRECINCT 401,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",6,1,1,4
+Childress,PRECINCT 401,U.S. Senate,,DEM,Sema Hernandez,3,0,0,3
+Childress,PRECINCT 401,U.S. Senate,,DEM,D. R. Hunter,1,0,0,1
 Childress,PRECINCT 401,"US Representative, Dist 13",,DEM,Gus Trujillo,17,1,6,10
 Childress,PRECINCT 401,"US Representative, Dist 13",,DEM,Greg Sagan,13,0,5,8
 Childress,PRECINCT 401,"US Representative, Dist 13",,DEM,Timothy W. Gassaway,5,1,0,4
@@ -582,7 +582,7 @@ Childress,PRECINCT 401,"Judge, Ct of Crim App, Pl 4",,DEM,Steven Miears,7,0,3,4
 Childress,PRECINCT 401,"Judge, Ct of Crim App, Pl 4",,DEM,Tina Clinton,30,1,8,21
 Childress,PRECINCT 401,"Judge, Ct of Crim App, Pl 9",,DEM,Brandon Birmingham,37,2,11,24
 Childress,PRECINCT 401,"Member, State BoE, Dist 15",,DEM,John Betancourt,39,2,11,26
-Childress,PRECINCT 401,"State Representative, Dist 68",,DEM,Patsy Ledbetter,39,2,11,26
+Childress,PRECINCT 401,State Representative,68,DEM,Patsy Ledbetter,39,2,11,26
 Childress,PRECINCT 401,County Chair,,DEM,Grace Holman,40,3,11,26
 Childress,PRECINCT 401,Proposition #1,,DEM,Yes,38,2,11,25
 Childress,PRECINCT 401,Proposition #1,,DEM,No,3,1,0,2
