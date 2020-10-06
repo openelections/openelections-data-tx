@@ -90,11 +90,11 @@ Real,Precinct 2,U.S. Senate,,REP,Dwayne Stovall,14,4,10,0,0
 Real,Precinct 3,U.S. Senate,,REP,Dwayne Stovall,9,6,3,0,0
 Real,Precinct 4/7,U.S. Senate,,REP,Dwayne Stovall,8,6,2,0,0
 Real,Precinct 6,U.S. Senate,,REP,Dwayne Stovall,7,2,5,0,0
-Real,Precinct 1,"US Representative, Dist 21",,REP,Chip Roy,186,64,119,3,0
-Real,Precinct 2,"US Representative, Dist 21",,REP,Chip Roy,236,73,156,7,0
-Real,Precinct 3,"US Representative, Dist 21",,REP,Chip Roy,110,64,46,0,0
-Real,Precinct 4/7,"US Representative, Dist 21",,REP,Chip Roy,84,44,37,3,0
-Real,Precinct 6,"US Representative, Dist 21",,REP,Chip Roy,104,41,62,1,0
+Real,Precinct 1,U.S. House,21,REP,Chip Roy,186,64,119,3,0
+Real,Precinct 2,U.S. House,21,REP,Chip Roy,236,73,156,7,0
+Real,Precinct 3,U.S. House,21,REP,Chip Roy,110,64,46,0,0
+Real,Precinct 4/7,U.S. House,21,REP,Chip Roy,84,44,37,3,0
+Real,Precinct 6,U.S. House,21,REP,Chip Roy,104,41,62,1,0
 Real,Precinct 1,Railroad Commissioner,,REP,Ryan Sitton,65,20,42,3,0
 Real,Precinct 2,Railroad Commissioner,,REP,Ryan Sitton,89,22,63,4,0
 Real,Precinct 3,Railroad Commissioner,,REP,Ryan Sitton,49,26,23,0,0
@@ -510,20 +510,20 @@ Real,Precinct 4/7,U.S. Senate,,DEM,Cristina Tzintzun Ramirez,0,0,0,0,0
 Real,Precinct 6,U.S. Senate,,DEM,Cristina Tzintzun Ramirez,0,0,0,0,0
 Real,"Precinct 1,2,6",U.S. Senate,,DEM,Cristina Tzintzun Ramirez,10,8,2,0,0
 Real,"Precinct 3,4,7",U.S. Senate,,DEM,Cristina Tzintzun Ramirez,4,4,0,0,0
-Real,Precinct 1,"US Representative, Dist 21",,DEM,Jennie Lou Leeder,0,0,0,0,0
-Real,Precinct 2,"US Representative, Dist 21",,DEM,Jennie Lou Leeder,0,0,0,0,0
-Real,Precinct 3,"US Representative, Dist 21",,DEM,Jennie Lou Leeder,0,0,0,0,0
-Real,Precinct 4/7,"US Representative, Dist 21",,DEM,Jennie Lou Leeder,0,0,0,0,0
-Real,Precinct 6,"US Representative, Dist 21",,DEM,Jennie Lou Leeder,0,0,0,0,0
-Real,"Precinct 1,2,6","US Representative, Dist 21",,DEM,Jennie Lou Leeder,22,12,7,3,0
-Real,"Precinct 3,4,7","US Representative, Dist 21",,DEM,Jennie Lou Leeder,4,3,1,0,0
-Real,Precinct 1,"US Representative, Dist 21",,DEM,Wendy R. Davis,0,0,0,0,0
-Real,Precinct 2,"US Representative, Dist 21",,DEM,Wendy R. Davis,0,0,0,0,0
-Real,Precinct 3,"US Representative, Dist 21",,DEM,Wendy R. Davis,0,0,0,0,0
-Real,Precinct 4/7,"US Representative, Dist 21",,DEM,Wendy R. Davis,0,0,0,0,0
-Real,Precinct 6,"US Representative, Dist 21",,DEM,Wendy R. Davis,0,0,0,0,0
-Real,"Precinct 1,2,6","US Representative, Dist 21",,DEM,Wendy R. Davis,56,27,26,3,0
-Real,"Precinct 3,4,7","US Representative, Dist 21",,DEM,Wendy R. Davis,27,13,10,4,0
+Real,Precinct 1,U.S. House,21,DEM,Jennie Lou Leeder,0,0,0,0,0
+Real,Precinct 2,U.S. House,21,DEM,Jennie Lou Leeder,0,0,0,0,0
+Real,Precinct 3,U.S. House,21,DEM,Jennie Lou Leeder,0,0,0,0,0
+Real,Precinct 4/7,U.S. House,21,DEM,Jennie Lou Leeder,0,0,0,0,0
+Real,Precinct 6,U.S. House,21,DEM,Jennie Lou Leeder,0,0,0,0,0
+Real,"Precinct 1,2,6",U.S. House,21,DEM,Jennie Lou Leeder,22,12,7,3,0
+Real,"Precinct 3,4,7",U.S. House,21,DEM,Jennie Lou Leeder,4,3,1,0,0
+Real,Precinct 1,U.S. House,21,DEM,Wendy R. Davis,0,0,0,0,0
+Real,Precinct 2,U.S. House,21,DEM,Wendy R. Davis,0,0,0,0,0
+Real,Precinct 3,U.S. House,21,DEM,Wendy R. Davis,0,0,0,0,0
+Real,Precinct 4/7,U.S. House,21,DEM,Wendy R. Davis,0,0,0,0,0
+Real,Precinct 6,U.S. House,21,DEM,Wendy R. Davis,0,0,0,0,0
+Real,"Precinct 1,2,6",U.S. House,21,DEM,Wendy R. Davis,56,27,26,3,0
+Real,"Precinct 3,4,7",U.S. House,21,DEM,Wendy R. Davis,27,13,10,4,0
 Real,Precinct 1,Railroad Commissioner,,DEM,"Roberto R. ""Beto"" Alonzo",0,0,0,0,0
 Real,Precinct 2,Railroad Commissioner,,DEM,"Roberto R. ""Beto"" Alonzo",0,0,0,0,0
 Real,Precinct 3,Railroad Commissioner,,DEM,"Roberto R. ""Beto"" Alonzo",0,0,0,0,0

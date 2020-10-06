@@ -16,8 +16,8 @@ Yoakum,PRECINCT 101,U.S. Senate,,REP,John Cornyn,176,4,93,79
 Yoakum,PRECINCT 101,U.S. Senate,,REP,Dwayne Stovall,30,2,12,16
 Yoakum,PRECINCT 101,U.S. Senate,,REP,Virgil Bierschwale,3,0,3,0
 Yoakum,PRECINCT 101,U.S. Senate,,REP,Mark Yancey,10,0,4,6
-Yoakum,PRECINCT 101,"US Representative, Dist 19",,REP,Vance W. Boyd,25,1,11,13
-Yoakum,PRECINCT 101,"US Representative, Dist 19",,REP,Jodey C. Arrington,236,6,120,110
+Yoakum,PRECINCT 101,U.S. House,19,REP,Vance W. Boyd,25,1,11,13
+Yoakum,PRECINCT 101,U.S. House,19,REP,Jodey C. Arrington,236,6,120,110
 Yoakum,PRECINCT 101,Railroad Commissioner,,REP,James Jim Wright,151,3,66,82
 Yoakum,PRECINCT 101,Railroad Commissioner,,REP,Ryan Sitton,99,3,58,38
 Yoakum,PRECINCT 101,"Chief Justice, Supreme Court",,REP,Nathan Hecht,253,6,124,123
@@ -88,7 +88,7 @@ Yoakum,PRECINCT 101,U.S. Senate,,DEM,Adrian Ocegueda,0,0,0,0
 Yoakum,PRECINCT 101,U.S. Senate,,DEM,Annie Mama Garcia,2,0,1,1
 Yoakum,PRECINCT 101,U.S. Senate,,DEM,Mary MJ Hegar,1,0,1,0
 Yoakum,PRECINCT 101,U.S. Senate,,DEM,Royce West,2,0,0,2
-Yoakum,PRECINCT 101,"US Representative, Dist 19",,DEM,Tom Watson,15,0,3,12
+Yoakum,PRECINCT 101,U.S. House,19,DEM,Tom Watson,15,0,3,12
 Yoakum,PRECINCT 101,Railroad Commissioner,,DEM,Kelly Stone,2,0,1,1
 Yoakum,PRECINCT 101,Railroad Commissioner,,DEM,Mark Watson,3,0,0,3
 Yoakum,PRECINCT 101,Railroad Commissioner,,DEM,Roberto R. Beto Alonzo,9,0,1,8
@@ -147,8 +147,8 @@ Yoakum,PRECINCT 202,U.S. Senate,,REP,John Cornyn,200,10,92,98
 Yoakum,PRECINCT 202,U.S. Senate,,REP,Dwayne Stovall,38,0,20,18
 Yoakum,PRECINCT 202,U.S. Senate,,REP,Virgil Bierschwale,5,0,2,3
 Yoakum,PRECINCT 202,U.S. Senate,,REP,Mark Yancey,7,0,2,5
-Yoakum,PRECINCT 202,"US Representative, Dist 19",,REP,Vance W. Boyd,26,0,10,16
-Yoakum,PRECINCT 202,"US Representative, Dist 19",,REP,Jodey C. Arrington,253,10,119,124
+Yoakum,PRECINCT 202,U.S. House,19,REP,Vance W. Boyd,26,0,10,16
+Yoakum,PRECINCT 202,U.S. House,19,REP,Jodey C. Arrington,253,10,119,124
 Yoakum,PRECINCT 202,Railroad Commissioner,,REP,James Jim Wright,165,8,70,87
 Yoakum,PRECINCT 202,Railroad Commissioner,,REP,Ryan Sitton,109,2,58,49
 Yoakum,PRECINCT 202,"Chief Justice, Supreme Court",,REP,Nathan Hecht,266,9,123,134
@@ -218,7 +218,7 @@ Yoakum,PRECINCT 202,U.S. Senate,,DEM,Adrian Ocegueda,0,0,0,0
 Yoakum,PRECINCT 202,U.S. Senate,,DEM,Annie Mama Garcia,3,0,0,3
 Yoakum,PRECINCT 202,U.S. Senate,,DEM,Mary MJ Hegar,0,0,0,0
 Yoakum,PRECINCT 202,U.S. Senate,,DEM,Royce West,1,0,1,0
-Yoakum,PRECINCT 202,"US Representative, Dist 19",,DEM,Tom Watson,17,1,5,11
+Yoakum,PRECINCT 202,U.S. House,19,DEM,Tom Watson,17,1,5,11
 Yoakum,PRECINCT 202,Railroad Commissioner,,DEM,Kelly Stone,6,0,2,4
 Yoakum,PRECINCT 202,Railroad Commissioner,,DEM,Mark Watson,4,1,1,2
 Yoakum,PRECINCT 202,Railroad Commissioner,,DEM,Roberto R. Beto Alonzo,4,0,1,3
@@ -277,8 +277,8 @@ Yoakum,PRECINCT 303,U.S. Senate,,REP,John Cornyn,79,1,39,39
 Yoakum,PRECINCT 303,U.S. Senate,,REP,Dwayne Stovall,13,0,5,8
 Yoakum,PRECINCT 303,U.S. Senate,,REP,Virgil Bierschwale,0,0,0,0
 Yoakum,PRECINCT 303,U.S. Senate,,REP,Mark Yancey,13,1,5,7
-Yoakum,PRECINCT 303,"US Representative, Dist 19",,REP,Vance W. Boyd,15,0,4,11
-Yoakum,PRECINCT 303,"US Representative, Dist 19",,REP,Jodey C. Arrington,117,2,55,60
+Yoakum,PRECINCT 303,U.S. House,19,REP,Vance W. Boyd,15,0,4,11
+Yoakum,PRECINCT 303,U.S. House,19,REP,Jodey C. Arrington,117,2,55,60
 Yoakum,PRECINCT 303,Railroad Commissioner,,REP,James Jim Wright,66,0,26,40
 Yoakum,PRECINCT 303,Railroad Commissioner,,REP,Ryan Sitton,58,2,30,26
 Yoakum,PRECINCT 303,"Chief Justice, Supreme Court",,REP,Nathan Hecht,108,0,49,59
@@ -349,7 +349,7 @@ Yoakum,PRECINCT 303,U.S. Senate,,DEM,Adrian Ocegueda,0,0,0,0
 Yoakum,PRECINCT 303,U.S. Senate,,DEM,Annie Mama Garcia,0,0,0,0
 Yoakum,PRECINCT 303,U.S. Senate,,DEM,Mary MJ Hegar,0,0,0,0
 Yoakum,PRECINCT 303,U.S. Senate,,DEM,Royce West,0,0,0,0
-Yoakum,PRECINCT 303,"US Representative, Dist 19",,DEM,Tom Watson,8,1,3,4
+Yoakum,PRECINCT 303,U.S. House,19,DEM,Tom Watson,8,1,3,4
 Yoakum,PRECINCT 303,Railroad Commissioner,,DEM,Kelly Stone,1,0,1,0
 Yoakum,PRECINCT 303,Railroad Commissioner,,DEM,Mark Watson,1,0,1,0
 Yoakum,PRECINCT 303,Railroad Commissioner,,DEM,Roberto R. Beto Alonzo,3,0,1,2
@@ -408,8 +408,8 @@ Yoakum,PRECINCT 404,U.S. Senate,,REP,John Cornyn,142,5,76,61
 Yoakum,PRECINCT 404,U.S. Senate,,REP,Dwayne Stovall,15,0,6,9
 Yoakum,PRECINCT 404,U.S. Senate,,REP,Virgil Bierschwale,1,0,0,1
 Yoakum,PRECINCT 404,U.S. Senate,,REP,Mark Yancey,7,0,1,6
-Yoakum,PRECINCT 404,"US Representative, Dist 19",,REP,Vance W. Boyd,17,0,7,10
-Yoakum,PRECINCT 404,"US Representative, Dist 19",,REP,Jodey C. Arrington,177,5,84,88
+Yoakum,PRECINCT 404,U.S. House,19,REP,Vance W. Boyd,17,0,7,10
+Yoakum,PRECINCT 404,U.S. House,19,REP,Jodey C. Arrington,177,5,84,88
 Yoakum,PRECINCT 404,Railroad Commissioner,,REP,James Jim Wright,88,3,34,51
 Yoakum,PRECINCT 404,Railroad Commissioner,,REP,Ryan Sitton,93,2,47,44
 Yoakum,PRECINCT 404,"Chief Justice, Supreme Court",,REP,Nathan Hecht,168,5,71,92
@@ -479,7 +479,7 @@ Yoakum,PRECINCT 404,U.S. Senate,,DEM,Adrian Ocegueda,0,0,0,0
 Yoakum,PRECINCT 404,U.S. Senate,,DEM,Annie Mama Garcia,0,0,0,0
 Yoakum,PRECINCT 404,U.S. Senate,,DEM,Mary MJ Hegar,2,2,0,0
 Yoakum,PRECINCT 404,U.S. Senate,,DEM,Royce West,1,0,1,0
-Yoakum,PRECINCT 404,"US Representative, Dist 19",,DEM,Tom Watson,10,1,3,6
+Yoakum,PRECINCT 404,U.S. House,19,DEM,Tom Watson,10,1,3,6
 Yoakum,PRECINCT 404,Railroad Commissioner,,DEM,Kelly Stone,2,0,1,1
 Yoakum,PRECINCT 404,Railroad Commissioner,,DEM,Mark Watson,2,1,1,0
 Yoakum,PRECINCT 404,Railroad Commissioner,,DEM,Roberto R. Beto Alonzo,5,0,2,3
@@ -538,8 +538,8 @@ Yoakum,PRECINCT 305,U.S. Senate,,REP,John Cornyn,36,1,15,20
 Yoakum,PRECINCT 305,U.S. Senate,,REP,Dwayne Stovall,12,0,6,6
 Yoakum,PRECINCT 305,U.S. Senate,,REP,Virgil Bierschwale,0,0,0,0
 Yoakum,PRECINCT 305,U.S. Senate,,REP,Mark Yancey,4,0,1,3
-Yoakum,PRECINCT 305,"US Representative, Dist 19",,REP,Vance W. Boyd,10,0,2,8
-Yoakum,PRECINCT 305,"US Representative, Dist 19",,REP,Jodey C. Arrington,52,1,22,29
+Yoakum,PRECINCT 305,U.S. House,19,REP,Vance W. Boyd,10,0,2,8
+Yoakum,PRECINCT 305,U.S. House,19,REP,Jodey C. Arrington,52,1,22,29
 Yoakum,PRECINCT 305,Railroad Commissioner,,REP,James Jim Wright,43,1,13,29
 Yoakum,PRECINCT 305,Railroad Commissioner,,REP,Ryan Sitton,18,0,10,8
 Yoakum,PRECINCT 305,"Chief Justice, Supreme Court",,REP,Nathan Hecht,62,1,24,37
@@ -610,7 +610,7 @@ Yoakum,PRECINCT 305,U.S. Senate,,DEM,Adrian Ocegueda,0,0,0,0
 Yoakum,PRECINCT 305,U.S. Senate,,DEM,Annie Mama Garcia,2,0,0,2
 Yoakum,PRECINCT 305,U.S. Senate,,DEM,Mary MJ Hegar,2,0,2,0
 Yoakum,PRECINCT 305,U.S. Senate,,DEM,Royce West,0,0,0,0
-Yoakum,PRECINCT 305,"US Representative, Dist 19",,DEM,Tom Watson,12,0,2,10
+Yoakum,PRECINCT 305,U.S. House,19,DEM,Tom Watson,12,0,2,10
 Yoakum,PRECINCT 305,Railroad Commissioner,,DEM,Kelly Stone,3,0,2,1
 Yoakum,PRECINCT 305,Railroad Commissioner,,DEM,Mark Watson,2,0,0,2
 Yoakum,PRECINCT 305,Railroad Commissioner,,DEM,Roberto R. Beto Alonzo,4,0,0,4
@@ -669,8 +669,8 @@ Yoakum,PRECINCT 406,U.S. Senate,,REP,John Cornyn,51,3,29,19
 Yoakum,PRECINCT 406,U.S. Senate,,REP,Dwayne Stovall,5,0,3,2
 Yoakum,PRECINCT 406,U.S. Senate,,REP,Virgil Bierschwale,1,0,0,1
 Yoakum,PRECINCT 406,U.S. Senate,,REP,Mark Yancey,4,0,2,2
-Yoakum,PRECINCT 406,"US Representative, Dist 19",,REP,Vance W. Boyd,5,0,1,4
-Yoakum,PRECINCT 406,"US Representative, Dist 19",,REP,Jodey C. Arrington,70,3,38,29
+Yoakum,PRECINCT 406,U.S. House,19,REP,Vance W. Boyd,5,0,1,4
+Yoakum,PRECINCT 406,U.S. House,19,REP,Jodey C. Arrington,70,3,38,29
 Yoakum,PRECINCT 406,Railroad Commissioner,,REP,James Jim Wright,48,3,19,26
 Yoakum,PRECINCT 406,Railroad Commissioner,,REP,Ryan Sitton,22,0,17,5
 Yoakum,PRECINCT 406,"Chief Justice, Supreme Court",,REP,Nathan Hecht,71,3,37,31
@@ -740,7 +740,7 @@ Yoakum,PRECINCT 406,U.S. Senate,,DEM,Adrian Ocegueda,1,0,0,1
 Yoakum,PRECINCT 406,U.S. Senate,,DEM,Annie Mama Garcia,5,0,3,2
 Yoakum,PRECINCT 406,U.S. Senate,,DEM,Mary MJ Hegar,1,0,0,1
 Yoakum,PRECINCT 406,U.S. Senate,,DEM,Royce West,0,0,0,0
-Yoakum,PRECINCT 406,"US Representative, Dist 19",,DEM,Tom Watson,16,0,6,10
+Yoakum,PRECINCT 406,U.S. House,19,DEM,Tom Watson,16,0,6,10
 Yoakum,PRECINCT 406,Railroad Commissioner,,DEM,Kelly Stone,4,0,3,1
 Yoakum,PRECINCT 406,Railroad Commissioner,,DEM,Mark Watson,3,0,1,2
 Yoakum,PRECINCT 406,Railroad Commissioner,,DEM,Roberto R. Beto Alonzo,7,0,1,6
