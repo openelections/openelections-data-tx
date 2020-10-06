@@ -1,6 +1,6 @@
 county,precinct,office,district,candidate,party,votes,early_voting,election_day,mail
 Lynn,Precinct 1/5,Registered Voters,,,,411,,,
-Lynn,Precinct 1/5,Ballots Cast Total,,,,132,46,78,8
+Lynn,Precinct 1/5,Ballots Cast,,,,132,46,78,8
 Lynn,Precinct 1/5,Ballots Cast,,,REP,125,43,77,5
 Lynn,Precinct 1/5,Ballots Cast,,,DEM,7,3,1,3
 Lynn,Precinct 1/5,President,,Bill Weld,REP,0,0,0,0
@@ -59,7 +59,7 @@ Lynn,Precinct 1/5,Railroad Commissioner,,Mark Watson,DEM,1,1,0,0
 Lynn,Precinct 1/5,State Representative,83,James Barrick,DEM,3,1,0,2
 Lynn,Precinct 1/5,State Representative,83,Addison Perry-Franks,DEM,1,0,1,0
 Lynn,Precinct 2/8,Registered Voters,,,,456,,,
-Lynn,Precinct 2/8,Ballots Cast Total,,,,120,11,104,5
+Lynn,Precinct 2/8,Ballots Cast,,,,120,11,104,5
 Lynn,Precinct 2/8,Ballots Cast,,,REP,114,9,101,4
 Lynn,Precinct 2/8,Ballots Cast,,,DEM,6,2,3,1
 Lynn,Precinct 2/8,President,,Bill Weld,REP,1,0,1,0
@@ -118,7 +118,7 @@ Lynn,Precinct 2/8,Railroad Commissioner,,Mark Watson,DEM,2,1,1,0
 Lynn,Precinct 2/8,State Representative,83,James Barrick,DEM,2,0,2,0
 Lynn,Precinct 2/8,State Representative,83,Addison Perry-Franks,DEM,4,2,1,1
 Lynn,Precinct 3/10,Registered Voters,,,,676,,,
-Lynn,Precinct 3/10,Ballots Cast Total,,,,154,19,133,2
+Lynn,Precinct 3/10,Ballots Cast,,,,154,19,133,2
 Lynn,Precinct 3/10,Ballots Cast,,,REP,144,19,123,2
 Lynn,Precinct 3/10,Ballots Cast,,,DEM,10,0,10,0
 Lynn,Precinct 3/10,President,,Bill Weld,REP,1,0,1,0
@@ -177,7 +177,7 @@ Lynn,Precinct 3/10,Railroad Commissioner,,Mark Watson,DEM,1,0,1,0
 Lynn,Precinct 3/10,State Representative,83,James Barrick,DEM,5,0,5,0
 Lynn,Precinct 3/10,State Representative,83,Addison Perry-Franks,DEM,4,0,4,0
 Lynn,Precinct 4/11,Registered Voters,,,,704,,,
-Lynn,Precinct 4/11,Ballots Cast Total,,,,215,11,196,8
+Lynn,Precinct 4/11,Ballots Cast,,,,215,11,196,8
 Lynn,Precinct 4/11,Ballots Cast,,,REP,202,8,188,6
 Lynn,Precinct 4/11,Ballots Cast,,,DEM,13,3,8,2
 Lynn,Precinct 4/11,President,,Bill Weld,REP,0,0,0,0
@@ -236,7 +236,7 @@ Lynn,Precinct 4/11,Railroad Commissioner,,Mark Watson,DEM,0,0,0,0
 Lynn,Precinct 4/11,State Representative,83,James Barrick,DEM,7,0,5,2
 Lynn,Precinct 4/11,State Representative,83,Addison Perry-Franks,DEM,4,2,2,0
 Lynn,Precinct 6,Registered Voters,,,,414,,,
-Lynn,Precinct 6,Ballots Cast Total,,,,143,54,85,4
+Lynn,Precinct 6,Ballots Cast,,,,143,54,85,4
 Lynn,Precinct 6,Ballots Cast,,,REP,134,53,77,4
 Lynn,Precinct 6,Ballots Cast,,,DEM,9,1,8,0
 Lynn,Precinct 6,President,,Bill Weld,REP,0,0,0,0
@@ -295,7 +295,7 @@ Lynn,Precinct 6,Railroad Commissioner,,Mark Watson,DEM,0,0,0,0
 Lynn,Precinct 6,State Representative,83,James Barrick,DEM,2,1,1,0
 Lynn,Precinct 6,State Representative,83,Addison Perry-Franks,DEM,3,0,3,0
 Lynn,Precinct 7,Registered Voters,,,,43,,,
-Lynn,Precinct 7,Ballots Cast Total,,,,14,4,7,3
+Lynn,Precinct 7,Ballots Cast,,,,14,4,7,3
 Lynn,Precinct 7,Ballots Cast,,,REP,14,4,7,3
 Lynn,Precinct 7,Ballots Cast,,,DEM,0,0,0,0
 Lynn,Precinct 7,President,,Bill Weld,REP,0,0,0,0
@@ -354,7 +354,7 @@ Lynn,Precinct 7,Railroad Commissioner,,Mark Watson,DEM,0,0,0,0
 Lynn,Precinct 7,State Representative,83,James Barrick,DEM,0,0,0,0
 Lynn,Precinct 7,State Representative,83,Addison Perry-Franks,DEM,0,0,0,0
 Lynn,Precinct 9,Registered Voters,,,,401,,,
-Lynn,Precinct 9,Ballots Cast Total,,,,164,51,107,6
+Lynn,Precinct 9,Ballots Cast,,,,164,51,107,6
 Lynn,Precinct 9,Ballots Cast,,,REP,157,47,104,6
 Lynn,Precinct 9,Ballots Cast,,,DEM,7,4,3,0
 Lynn,Precinct 9,President,,Bill Weld,REP,1,1,0,0
@@ -413,7 +413,7 @@ Lynn,Precinct 9,Railroad Commissioner,,Mark Watson,DEM,1,1,0,0
 Lynn,Precinct 9,State Representative,83,James Barrick,DEM,2,2,0,0
 Lynn,Precinct 9,State Representative,83,Addison Perry-Franks,DEM,3,0,3,0
 Lynn,Precinct 12,Registered Voters,,,,245,,,
-Lynn,Precinct 12,Ballots Cast Total,,,,59,17,40,2
+Lynn,Precinct 12,Ballots Cast,,,,59,17,40,2
 Lynn,Precinct 12,Ballots Cast,,,REP,54,17,35,2
 Lynn,Precinct 12,Ballots Cast,,,DEM,5,0,5,0
 Lynn,Precinct 12,President,,Bill Weld,REP,1,0,1,0
@@ -472,7 +472,7 @@ Lynn,Precinct 12,Railroad Commissioner,,Mark Watson,DEM,0,0,0,0
 Lynn,Precinct 12,State Representative,83,James Barrick,DEM,0,0,0,0
 Lynn,Precinct 12,State Representative,83,Addison Perry-Franks,DEM,1,0,1,0
 Lynn,Precinct 13,Registered Voters,,,,138,,,
-Lynn,Precinct 13,Ballots Cast Total,,,,45,12,31,2
+Lynn,Precinct 13,Ballots Cast,,,,45,12,31,2
 Lynn,Precinct 13,Ballots Cast,,,REP,39,11,27,1
 Lynn,Precinct 13,Ballots Cast,,,DEM,6,1,4,1
 Lynn,Precinct 13,President,,Bill Weld,REP,0,0,0,0
@@ -531,7 +531,7 @@ Lynn,Precinct 13,Railroad Commissioner,,Mark Watson,DEM,1,0,1,0
 Lynn,Precinct 13,State Representative,83,James Barrick,DEM,1,1,0,0
 Lynn,Precinct 13,State Representative,83,Addison Perry-Franks,DEM,2,0,1,1
 Lynn,Precinct 14,Registered Voters,,,,439,,,
-Lynn,Precinct 14,Ballots Cast Total,,,,70,16,50,4
+Lynn,Precinct 14,Ballots Cast,,,,70,16,50,4
 Lynn,Precinct 14,Ballots Cast,,,REP,60,16,42,2
 Lynn,Precinct 14,Ballots Cast,,,DEM,10,0,8,2
 Lynn,Precinct 14,President,,Bill Weld,REP,0,0,0,0

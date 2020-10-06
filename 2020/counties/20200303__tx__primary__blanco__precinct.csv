@@ -1,8 +1,8 @@
 ﻿county,precinct,office,district,candidate,party,votes,election day,early_voting,absentee
 Blanco,Pct 102,Registered Voters,,,,0,,,
-Blanco,Pct 102,Ballots Cast Total,,,,792,450,291,51
-Blanco,Pct 102,Ballots Cast Republican Party,,,,569,336,206,27
-Blanco,Pct 102,Ballots Cast Democratic Party,,,,223,114,85,24
+Blanco,Pct 102,Ballots Cast,,,,792,450,291,51
+Blanco,Pct 102,Ballots Cast,,,REP,569,336,206,27
+Blanco,Pct 102,Ballots Cast,,,DEM,223,114,85,24
 Blanco,Pct 102,President,,Zoltan G. Istvan,REP,0,0,0,0
 Blanco,Pct 102,President,,Donald J. Trump,REP,539,318,198,23
 Blanco,Pct 102,President,,Bill Weld,REP,4,3,1,0
@@ -62,9 +62,9 @@ Blanco,Pct 102,State Senate,24,Clayton Tucker,DEM,184,94,74,16
 Blanco,Pct 102,State Representative,45,Liliana Posada,DEM,54,27,23,4
 Blanco,Pct 102,State Representative,45,Erin Zwiener,DEM,159,82,60,17
 Blanco,Pct 201,Registered Voters,,,,0,,,
-Blanco,Pct 201,Ballots Cast Total,,,,869,375,438,56
-Blanco,Pct 201,Ballots Cast Republican Party,,,,599,253,317,29
-Blanco,Pct 201,Ballots Cast Democratic Party,,,,270,122,121,27
+Blanco,Pct 201,Ballots Cast,,,,869,375,438,56
+Blanco,Pct 201,Ballots Cast,,,REP,599,253,317,29
+Blanco,Pct 201,Ballots Cast,,,DEM,270,122,121,27
 Blanco,Pct 201,President,,Zoltan G. Istvan,REP,0,0,0,0
 Blanco,Pct 201,President,,Donald J. Trump,REP,574,241,307,26
 Blanco,Pct 201,President,,Bill Weld,REP,2,0,2,0
@@ -124,9 +124,9 @@ Blanco,Pct 201,State Senate,24,Clayton Tucker,DEM,222,91,110,21
 Blanco,Pct 201,State Representative,45,Liliana Posada,DEM,66,30,27,9
 Blanco,Pct 201,State Representative,45,Erin Zwiener,DEM,183,76,90,17
 Blanco,Pct 302,Registered Voters,,,,0,,,
-Blanco,Pct 302,Ballots Cast Total,,,,479,235,221,23
-Blanco,Pct 302,Ballots Cast Republican Party,,,,302,149,143,10
-Blanco,Pct 302,Ballots Cast Democratic Party,,,,177,86,78,13
+Blanco,Pct 302,Ballots Cast,,,,479,235,221,23
+Blanco,Pct 302,Ballots Cast,,,REP,302,149,143,10
+Blanco,Pct 302,Ballots Cast,,,DEM,177,86,78,13
 Blanco,Pct 302,President,,Zoltan G. Istvan,REP,0,0,0,0
 Blanco,Pct 302,President,,Donald J. Trump,REP,290,140,141,9
 Blanco,Pct 302,President,,Bill Weld,REP,3,3,0,0
@@ -186,9 +186,9 @@ Blanco,Pct 302,State Senate,24,Clayton Tucker,DEM,151,69,70,12
 Blanco,Pct 302,State Representative,45,Liliana Posada,DEM,27,14,12,1
 Blanco,Pct 302,State Representative,45,Erin Zwiener,DEM,141,65,64,12
 Blanco,Pct 303,Registered Voters,,,,0,,,
-Blanco,Pct 303,Ballots Cast Total,,,,202,108,83,11
-Blanco,Pct 303,Ballots Cast Republican Party,,,,157,79,68,10
-Blanco,Pct 303,Ballots Cast Democratic Party,,,,45,29,15,1
+Blanco,Pct 303,Ballots Cast,,,,202,108,83,11
+Blanco,Pct 303,Ballots Cast,,,REP,157,79,68,10
+Blanco,Pct 303,Ballots Cast,,,DEM,45,29,15,1
 Blanco,Pct 303,President,,Zoltan G. Istvan,REP,0,0,0,0
 Blanco,Pct 303,President,,Donald J. Trump,REP,152,78,64,10
 Blanco,Pct 303,President,,Bill Weld,REP,0,0,0,0
@@ -248,9 +248,9 @@ Blanco,Pct 303,State Senate,24,Clayton Tucker,DEM,39,27,11,1
 Blanco,Pct 303,State Representative,45,Liliana Posada,DEM,11,8,2,1
 Blanco,Pct 303,State Representative,45,Erin Zwiener,DEM,29,18,11,0
 Blanco,Pct 304,Registered Voters,,,,0,,,
-Blanco,Pct 304,Ballots Cast Total,,,,113,71,35,7
-Blanco,Pct 304,Ballots Cast Republican Party,,,,74,49,21,4
-Blanco,Pct 304,Ballots Cast Democratic Party,,,,39,22,14,3
+Blanco,Pct 304,Ballots Cast,,,,113,71,35,7
+Blanco,Pct 304,Ballots Cast,,,REP,74,49,21,4
+Blanco,Pct 304,Ballots Cast,,,DEM,39,22,14,3
 Blanco,Pct 304,President,,Zoltan G. Istvan,REP,0,0,0,0
 Blanco,Pct 304,President,,Donald J. Trump,REP,73,48,21,4
 Blanco,Pct 304,President,,Bill Weld,REP,0,0,0,0
@@ -310,9 +310,9 @@ Blanco,Pct 304,State Senate,24,Clayton Tucker,DEM,34,20,12,2
 Blanco,Pct 304,State Representative,45,Liliana Posada,DEM,20,13,5,2
 Blanco,Pct 304,State Representative,45,Erin Zwiener,DEM,17,7,9,1
 Blanco,Pct 401,Registered Voters,,,,0,,,
-Blanco,Pct 401,Ballots Cast Total,,,,920,466,391,63
-Blanco,Pct 401,Ballots Cast Republican Party,,,,631,315,289,27
-Blanco,Pct 401,Ballots Cast Democratic Party,,,,289,151,102,36
+Blanco,Pct 401,Ballots Cast,,,,920,466,391,63
+Blanco,Pct 401,Ballots Cast,,,REP,631,315,289,27
+Blanco,Pct 401,Ballots Cast,,,DEM,289,151,102,36
 Blanco,Pct 401,President,,Zoltan G. Istvan,REP,0,0,0,0
 Blanco,Pct 401,President,,Donald J. Trump,REP,604,299,279,26
 Blanco,Pct 401,President,,Bill Weld,REP,4,3,0,1

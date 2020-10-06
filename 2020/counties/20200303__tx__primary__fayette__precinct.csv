@@ -1,19 +1,19 @@
 ﻿county,precinct,office,district,candidate,party,votes
 Fayette,01 East La Grange,Registered Voters,,,,1145
-Fayette,01 East La Grange,Ballots Cast Total,,,,475
-Fayette,01 East La Grange,Ballots Cast - Republican Party,,,,408
-Fayette,01 East La Grange,Ballots Cast - Democratic Party,,,,67
-Fayette,01 East La Grange,President,,Matthew John Matern,REP,2
-Fayette,01 East La Grange,President,,Zoltan G. Istvan,REP,0
-Fayette,01 East La Grange,President,,Bob Ely,REP,1
-Fayette,01 East La Grange,President,,Bill Weld,REP,0
-Fayette,01 East La Grange,President,,Roque Rocky De La Fuente Guerra,REP,1
-Fayette,01 East La Grange,President,,Donald J. Trump,REP,380
-Fayette,01 East La Grange,President,,Joe Walsh,REP,6
-Fayette,01 East La Grange,President,,Uncommitted,REP,11
-Fayette,01 East La Grange,U.S. Senate,,Mark Yancey,REP,16
-Fayette,01 East La Grange,U.S. Senate,,John Anthony Castro,REP,10
-Fayette,01 East La Grange,U.S. Senate,,Virgil Bierschwale,REP,3
+Fayette,01 East La Grange,Ballots Cast,,,,475
+Fayette,01 East La Grange,Ballots Cast,,,REP,408
+Fayette,01 East La Grange,Ballots Cast,,,DEM,67
+Fayette,01 East La Grange,President,,Matthew John Matern,DEM,2
+Fayette,01 East La Grange,President,,Zoltan G. Istvan,DEM,0
+Fayette,01 East La Grange,President,,Bob Ely,DEM,1
+Fayette,01 East La Grange,President,,Bill Weld,DEM,0
+Fayette,01 East La Grange,President,,Roque Rocky De La Fuente Guerra,DEM,1
+Fayette,01 East La Grange,President,,Donald J. Trump,DEM,380
+Fayette,01 East La Grange,President,,Joe Walsh,DEM,6
+Fayette,01 East La Grange,President,,Uncommitted,DEM,11
+Fayette,01 East La Grange,U.S. Senate,,Mark Yancey,DEM,16
+Fayette,01 East La Grange,U.S. Senate,,John Anthony Castro,DEM,10
+Fayette,01 East La Grange,U.S. Senate,,Virgil Bierschwale,DEM,3
 Fayette,01 East La Grange,U.S. Senate,,Dwayne Stovall,REP,56
 Fayette,01 East La Grange,U.S. Senate,,John Cornyn,REP,295
 Fayette,01 East La Grange,U.S. House,10,Michael McCaul,REP,355
@@ -59,9 +59,9 @@ Fayette,01 East La Grange,Railroad Commissioner,,Kelly Stone,DEM,10
 Fayette,01 East La Grange,Railroad Commissioner,,Mark Watson,DEM,15
 Fayette,01 East La Grange,State Senate,18,Michael Antalan,DEM,46
 Fayette,01 North La Grange,Registered Voters,,,,2262
-Fayette,01 North La Grange,Ballots Cast Total,,,,697
-Fayette,01 North La Grange,Ballots Cast - Republican Party,,,,505
-Fayette,01 North La Grange,Ballots Cast - Democratic Party,,,,192
+Fayette,01 North La Grange,Ballots Cast,,,,697
+Fayette,01 North La Grange,Ballots Cast,,,REP,505
+Fayette,01 North La Grange,Ballots Cast,,,DEM,192
 Fayette,01 North La Grange,President,,Matthew John Matern,REP,3
 Fayette,01 North La Grange,President,,Zoltan G. Istvan,REP,0
 Fayette,01 North La Grange,President,,Bob Ely,REP,1
@@ -118,9 +118,9 @@ Fayette,01 North La Grange,Railroad Commissioner,,Kelly Stone,DEM,42
 Fayette,01 North La Grange,Railroad Commissioner,,Mark Watson,DEM,38
 Fayette,01 North La Grange,State Senate,18,Michael Antalan,DEM,153
 Fayette,01 West La Grange,Registered Voters,,,,1486
-Fayette,01 West La Grange,Ballots Cast Total,,,,602
-Fayette,01 West La Grange,Ballots Cast - Republican Party,,,,490
-Fayette,01 West La Grange,Ballots Cast - Democratic Party,,,,112
+Fayette,01 West La Grange,Ballots Cast,,,,602
+Fayette,01 West La Grange,Ballots Cast,,,REP,490
+Fayette,01 West La Grange,Ballots Cast,,,DEM,112
 Fayette,01 West La Grange,President,,Matthew John Matern,REP,0
 Fayette,01 West La Grange,President,,Zoltan G. Istvan,REP,0
 Fayette,01 West La Grange,President,,Bob Ely,REP,3
@@ -177,9 +177,9 @@ Fayette,01 West La Grange,Railroad Commissioner,,Kelly Stone,DEM,15
 Fayette,01 West La Grange,Railroad Commissioner,,Mark Watson,DEM,23
 Fayette,01 West La Grange,State Senate,18,Michael Antalan,DEM,95
 Fayette,04 Fayetteville,Registered Voters,,,,1423
-Fayette,04 Fayetteville,Ballots Cast Total,,,,672
-Fayette,04 Fayetteville,Ballots Cast - Republican Party,,,,558
-Fayette,04 Fayetteville,Ballots Cast - Democratic Party,,,,114
+Fayette,04 Fayetteville,Ballots Cast,,,,672
+Fayette,04 Fayetteville,Ballots Cast,,,REP,558
+Fayette,04 Fayetteville,Ballots Cast,,,DEM,114
 Fayette,04 Fayetteville,President,,Matthew John Matern,REP,1
 Fayette,04 Fayetteville,President,,Zoltan G. Istvan,REP,0
 Fayette,04 Fayetteville,President,,Bob Ely,REP,0
@@ -236,9 +236,9 @@ Fayette,04 Fayetteville,Railroad Commissioner,,Kelly Stone,DEM,18
 Fayette,04 Fayetteville,Railroad Commissioner,,Mark Watson,DEM,18
 Fayette,04 Fayetteville,State Senate,18,Michael Antalan,DEM,78
 Fayette,07 Round Top,Registered Voters,,,,1725
-Fayette,07 Round Top,Ballots Cast Total,,,,817
-Fayette,07 Round Top,Ballots Cast - Republican Party,,,,667
-Fayette,07 Round Top,Ballots Cast - Democratic Party,,,,150
+Fayette,07 Round Top,Ballots Cast,,,,817
+Fayette,07 Round Top,Ballots Cast,,,REP,667
+Fayette,07 Round Top,Ballots Cast,,,DEM,150
 Fayette,07 Round Top,President,,Matthew John Matern,REP,1
 Fayette,07 Round Top,President,,Zoltan G. Istvan,REP,0
 Fayette,07 Round Top,President,,Bob Ely,REP,2
@@ -295,9 +295,9 @@ Fayette,07 Round Top,Railroad Commissioner,,Kelly Stone,DEM,21
 Fayette,07 Round Top,Railroad Commissioner,,Mark Watson,DEM,21
 Fayette,07 Round Top,State Senate,18,Michael Antalan,DEM,105
 Fayette,10 Warda,Registered Voters,,,,1028
-Fayette,10 Warda,Ballots Cast Total,,,,400
-Fayette,10 Warda,Ballots Cast - Republican Party,,,,330
-Fayette,10 Warda,Ballots Cast - Democratic Party,,,,70
+Fayette,10 Warda,Ballots Cast,,,,400
+Fayette,10 Warda,Ballots Cast,,,REP,330
+Fayette,10 Warda,Ballots Cast,,,DEM,70
 Fayette,10 Warda,President,,Matthew John Matern,REP,1
 Fayette,10 Warda,President,,Zoltan G. Istvan,REP,0
 Fayette,10 Warda,President,,Bob Ely,REP,0
@@ -354,9 +354,9 @@ Fayette,10 Warda,Railroad Commissioner,,Kelly Stone,DEM,19
 Fayette,10 Warda,Railroad Commissioner,,Mark Watson,DEM,19
 Fayette,10 Warda,State Senate,18,Michael Antalan,DEM,55
 Fayette,12 Plum,Registered Voters,,,,1165
-Fayette,12 Plum,Ballots Cast Total,,,,380
-Fayette,12 Plum,Ballots Cast - Republican Party,,,,295
-Fayette,12 Plum,Ballots Cast - Democratic Party,,,,85
+Fayette,12 Plum,Ballots Cast,,,,380
+Fayette,12 Plum,Ballots Cast,,,REP,295
+Fayette,12 Plum,Ballots Cast,,,DEM,85
 Fayette,12 Plum,President,,Matthew John Matern,REP,0
 Fayette,12 Plum,President,,Zoltan G. Istvan,REP,0
 Fayette,12 Plum,President,,Bob Ely,REP,0
@@ -413,9 +413,9 @@ Fayette,12 Plum,Railroad Commissioner,,Kelly Stone,DEM,17
 Fayette,12 Plum,Railroad Commissioner,,Mark Watson,DEM,17
 Fayette,12 Plum,State Senate,18,Michael Antalan,DEM,72
 Fayette,14 Muldoon,Registered Voters,,,,621
-Fayette,14 Muldoon,Ballots Cast Total,,,,234
-Fayette,14 Muldoon,Ballots Cast - Republican Party,,,,195
-Fayette,14 Muldoon,Ballots Cast - Democratic Party,,,,39
+Fayette,14 Muldoon,Ballots Cast,,,,234
+Fayette,14 Muldoon,Ballots Cast,,,REP,195
+Fayette,14 Muldoon,Ballots Cast,,,DEM,39
 Fayette,14 Muldoon,President,,Matthew John Matern,REP,0
 Fayette,14 Muldoon,President,,Zoltan G. Istvan,REP,0
 Fayette,14 Muldoon,President,,Bob Ely,REP,0
@@ -472,9 +472,9 @@ Fayette,14 Muldoon,Railroad Commissioner,,Kelly Stone,DEM,12
 Fayette,14 Muldoon,Railroad Commissioner,,Mark Watson,DEM,7
 Fayette,14 Muldoon,State Senate,18,Michael Antalan,DEM,27
 Fayette,16 Flatonia,Registered Voters,,,,1964
-Fayette,16 Flatonia,Ballots Cast Total,,,,723
-Fayette,16 Flatonia,Ballots Cast - Republican Party,,,,584
-Fayette,16 Flatonia,Ballots Cast - Democratic Party,,,,139
+Fayette,16 Flatonia,Ballots Cast,,,,723
+Fayette,16 Flatonia,Ballots Cast,,,REP,584
+Fayette,16 Flatonia,Ballots Cast,,,DEM,139
 Fayette,16 Flatonia,President,,Matthew John Matern,REP,0
 Fayette,16 Flatonia,President,,Zoltan G. Istvan,REP,0
 Fayette,16 Flatonia,President,,Bob Ely,REP,0
@@ -531,9 +531,9 @@ Fayette,16 Flatonia,Railroad Commissioner,,Kelly Stone,DEM,19
 Fayette,16 Flatonia,Railroad Commissioner,,Mark Watson,DEM,42
 Fayette,16 Flatonia,State Senate,18,Michael Antalan,DEM,107
 Fayette,21 Swiss Alp,Registered Voters,,,,419
-Fayette,21 Swiss Alp,Ballots Cast Total,,,,184
-Fayette,21 Swiss Alp,Ballots Cast - Republican Party,,,,145
-Fayette,21 Swiss Alp,Ballots Cast - Democratic Party,,,,39
+Fayette,21 Swiss Alp,Ballots Cast,,,,184
+Fayette,21 Swiss Alp,Ballots Cast,,,REP,145
+Fayette,21 Swiss Alp,Ballots Cast,,,DEM,39
 Fayette,21 Swiss Alp,President,,Matthew John Matern,REP,0
 Fayette,21 Swiss Alp,President,,Zoltan G. Istvan,REP,0
 Fayette,21 Swiss Alp,President,,Bob Ely,REP,0
@@ -590,9 +590,9 @@ Fayette,21 Swiss Alp,Railroad Commissioner,,Kelly Stone,DEM,5
 Fayette,21 Swiss Alp,Railroad Commissioner,,Mark Watson,DEM,9
 Fayette,21 Swiss Alp,State Senate,18,Michael Antalan,DEM,28
 Fayette,23 Holman,Registered Voters,,,,801
-Fayette,23 Holman,Ballots Cast Total,,,,300
-Fayette,23 Holman,Ballots Cast - Republican Party,,,,247
-Fayette,23 Holman,Ballots Cast - Democratic Party,,,,53
+Fayette,23 Holman,Ballots Cast,,,,300
+Fayette,23 Holman,Ballots Cast,,,REP,247
+Fayette,23 Holman,Ballots Cast,,,DEM,53
 Fayette,23 Holman,President,,Matthew John Matern,REP,0
 Fayette,23 Holman,President,,Zoltan G. Istvan,REP,0
 Fayette,23 Holman,President,,Bob Ely,REP,0
@@ -649,9 +649,9 @@ Fayette,23 Holman,Railroad Commissioner,,Kelly Stone,DEM,13
 Fayette,23 Holman,Railroad Commissioner,,Mark Watson,DEM,9
 Fayette,23 Holman,State Senate,18,Michael Antalan,DEM,39
 Fayette,25 Schulenburg,Registered Voters,,,,2775
-Fayette,25 Schulenburg,Ballots Cast Total,,,,835
-Fayette,25 Schulenburg,Ballots Cast - Republican Party,,,,652
-Fayette,25 Schulenburg,Ballots Cast - Democratic Party,,,,183
+Fayette,25 Schulenburg,Ballots Cast,,,,835
+Fayette,25 Schulenburg,Ballots Cast,,,REP,652
+Fayette,25 Schulenburg,Ballots Cast,,,DEM,183
 Fayette,25 Schulenburg,President,,Matthew John Matern,REP,1
 Fayette,25 Schulenburg,President,,Zoltan G. Istvan,REP,1
 Fayette,25 Schulenburg,President,,Bob Ely,REP,1

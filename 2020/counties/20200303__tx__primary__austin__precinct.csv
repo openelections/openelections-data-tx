@@ -1,8 +1,8 @@
 ﻿county,precinct,office,district,candidate,party,votes,election_day,early_voting,absentee
 Austin,101,Registered Voters,,,,1390,,,
-Austin,101,Ballots Cast Total,,,,392,174,203,15
-Austin,101,Ballots Cast Republican Party,,,,328,148,169,11
-Austin,101,Ballots Cast Democratic Party,,,,64,26,34,4
+Austin,101,Ballots Cast,,,,392,174,203,15
+Austin,101,Ballots Cast,,,REP,328,148,169,11
+Austin,101,Ballots Cast,,,DEM,64,26,34,4
 Austin,101,President,,Cory Booker,DEM,1,1,0,0
 Austin,101,President,,John K. Delaney,DEM,0,0,0,1
 Austin,101,President,,Joseph R. Biden,DEM,24,14,9,0
@@ -41,9 +41,9 @@ Austin,101,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,7,4,3,0
 Austin,101,Railroad Commissioner,,Chrysta Castaneda,DEM,15,5,9,1
 Austin,101,State Senate,18,Michael Antalan,DEM,53,19,30,4
 Austin,102,Registered Voters,,,,1339,,,
-Austin,102,Ballots Cast Total,,,,434,175,236,23
-Austin,102,Ballots Cast Republican Party,,,,353,135,202,16
-Austin,102,Ballots Cast Democratic Party,,,,81,40,34,7
+Austin,102,Ballots Cast,,,,434,175,236,23
+Austin,102,Ballots Cast,,,REP,353,135,202,16
+Austin,102,Ballots Cast,,,DEM,81,40,34,7
 Austin,102,President,,Cory Booker,DEM,1,0,0,1
 Austin,102,President,,John K. Delaney,DEM,0,0,0,0
 Austin,102,President,,Joseph R. Biden,DEM,36,24,9,3
@@ -82,9 +82,9 @@ Austin,102,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,21,10,10,1
 Austin,102,Railroad Commissioner,,Chrysta Castaneda,DEM,11,7,3,1
 Austin,102,State Senate,18,Michael Antalan,DEM,63,27,31,5
 Austin,103,Registered Voters,,,,1432,,,
-Austin,103,Ballots Cast Total,,,,503,212,274,17
-Austin,103,Ballots Cast Republican Party,,,,425,177,233,15
-Austin,103,Ballots Cast Democratic Party,,,,78,35,41,2
+Austin,103,Ballots Cast,,,,503,212,274,17
+Austin,103,Ballots Cast,,,REP,425,177,233,15
+Austin,103,Ballots Cast,,,DEM,78,35,41,2
 Austin,103,President,,Cory Booker,DEM,0,0,0,0
 Austin,103,President,,John K. Delaney,DEM,0,0,0,0
 Austin,103,President,,Joseph R. Biden,DEM,27,16,10,1
@@ -123,9 +123,9 @@ Austin,103,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,11,4,7,0
 Austin,103,Railroad Commissioner,,Chrysta Castaneda,DEM,21,9,11,1
 Austin,103,State Senate,18,Michael Antalan,DEM,64,24,38,2
 Austin,104,Registered Voters,,,,792,,,
-Austin,104,Ballots Cast Total,,,,292,125,148,19
-Austin,104,Ballots Cast Republican Party,,,,262,109,138,15
-Austin,104,Ballots Cast Democratic Party,,,,30,16,10,4
+Austin,104,Ballots Cast,,,,292,125,148,19
+Austin,104,Ballots Cast,,,REP,262,109,138,15
+Austin,104,Ballots Cast,,,DEM,30,16,10,4
 Austin,104,President,,Cory Booker,DEM,0,0,0,0
 Austin,104,President,,John K. Delaney,DEM,0,0,0,0
 Austin,104,President,,Joseph R. Biden,DEM,8,4,3,1
@@ -164,9 +164,9 @@ Austin,104,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,7,3,3,1
 Austin,104,Railroad Commissioner,,Chrysta Castaneda,DEM,9,5,3,1
 Austin,104,State Senate,18,Michael Antalan,DEM,18,6,9,3
 Austin,205,Registered Voters,,,,1928,,,
-Austin,205,Ballots Cast Total,,,,609,255,308,46
-Austin,205,Ballots Cast Republican Party,,,,497,203,261,33
-Austin,205,Ballots Cast Democratic Party,,,,112,52,47,13
+Austin,205,Ballots Cast,,,,609,255,308,46
+Austin,205,Ballots Cast,,,REP,497,203,261,33
+Austin,205,Ballots Cast,,,DEM,112,52,47,13
 Austin,205,President,,Cory Booker,DEM,0,0,0,0
 Austin,205,President,,John K. Delaney,DEM,0,0,0,0
 Austin,205,President,,Joseph R. Biden,DEM,41,30,7,4
@@ -205,9 +205,9 @@ Austin,205,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,16,7,6,3
 Austin,205,Railroad Commissioner,,Chrysta Castaneda,DEM,21,10,10,1
 Austin,205,State Senate,18,Michael Antalan,DEM,88,41,39,8
 Austin,206,Registered Voters,,,,571,,,
-Austin,206,Ballots Cast Total,,,,189,120,60,9
-Austin,206,Ballots Cast Republican Party,,,,157,96,56,5
-Austin,206,Ballots Cast Democratic Party,,,,32,24,4,4
+Austin,206,Ballots Cast,,,,189,120,60,9
+Austin,206,Ballots Cast,,,REP,157,96,56,5
+Austin,206,Ballots Cast,,,DEM,32,24,4,4
 Austin,206,President,,Cory Booker,DEM,0,0,0,0
 Austin,206,President,,John K. Delaney,DEM,1,1,0,0
 Austin,206,President,,Joseph R. Biden,DEM,16,13,3,0
@@ -246,9 +246,9 @@ Austin,206,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,6,3,2,1
 Austin,206,Railroad Commissioner,,Chrysta Castaneda,DEM,7,4,1,2
 Austin,206,State Senate,18,Michael Antalan,DEM,25,18,4,3
 Austin,207 & 208,Registered Voters,,,,1059,,,
-Austin,207 & 208,Ballots Cast Total,,,,382,255,119,8
-Austin,207 & 208,Ballots Cast Republican Party,,,,337,219,112,6
-Austin,207 & 208,Ballots Cast Democratic Party,,,,45,36,7,2
+Austin,207 & 208,Ballots Cast,,,,382,255,119,8
+Austin,207 & 208,Ballots Cast,,,REP,337,219,112,6
+Austin,207 & 208,Ballots Cast,,,DEM,45,36,7,2
 Austin,207 & 208,President,,Cory Booker,DEM,0,0,0,0
 Austin,207 & 208,President,,John K. Delaney,DEM,0,0,0,0
 Austin,207 & 208,President,,Joseph R. Biden,DEM,25,21,4,0
@@ -287,9 +287,9 @@ Austin,207 & 208,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,6,5,0,1
 Austin,207 & 208,Railroad Commissioner,,Chrysta Castaneda,DEM,11,7,3,1
 Austin,207 & 208,State Senate,18,Michael Antalan,DEM,35,28,5,2
 Austin,210,Registered Voters,,,,707,,,
-Austin,210,Ballots Cast Total,,,,280,218,46,16
-Austin,210,Ballots Cast Republican Party,,,,234,188,34,12
-Austin,210,Ballots Cast Democratic Party,,,,46,30,12,4
+Austin,210,Ballots Cast,,,,280,218,46,16
+Austin,210,Ballots Cast,,,REP,234,188,34,12
+Austin,210,Ballots Cast,,,DEM,46,30,12,4
 Austin,210,President,,Cory Booker,DEM,0,0,0,0
 Austin,210,President,,John K. Delaney,DEM,0,0,0,0
 Austin,210,President,,Joseph R. Biden,DEM,26,19,4,3
@@ -328,9 +328,9 @@ Austin,210,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,5,4,1,0
 Austin,210,Railroad Commissioner,,Chrysta Castaneda,DEM,13,6,4,3
 Austin,210,State Senate,18,Michael Antalan,DEM,36,20,12,4
 Austin,209 & 211,Registered Voters,,,,949,,,
-Austin,209 & 211,Ballots Cast Total,,,,351,203,137,11
-Austin,209 & 211,Ballots Cast Republican Party,,,,281,162,113,6
-Austin,209 & 211,Ballots Cast Democratic Party,,,,70,41,24,5
+Austin,209 & 211,Ballots Cast,,,,351,203,137,11
+Austin,209 & 211,Ballots Cast,,,REP,281,162,113,6
+Austin,209 & 211,Ballots Cast,,,DEM,70,41,24,5
 Austin,209 & 211,President,,Cory Booker,DEM,0,0,0,0
 Austin,209 & 211,President,,John K. Delaney,DEM,0,0,0,0
 Austin,209 & 211,President,,Joseph R. Biden,DEM,38,26,11,1
@@ -369,9 +369,9 @@ Austin,209 & 211,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,8,8,0,0
 Austin,209 & 211,Railroad Commissioner,,Chrysta Castaneda,DEM,11,4,4,3
 Austin,209 & 211,State Senate,18,Michael Antalan,DEM,47,23,22,2
 Austin,312,Registered Voters,,,,586,,,
-Austin,312,Ballots Cast Total,,,,259,130,117,12
-Austin,312,Ballots Cast Republican Party,,,,244,127,112,5
-Austin,312,Ballots Cast Democratic Party,,,,15,3,5,7
+Austin,312,Ballots Cast,,,,259,130,117,12
+Austin,312,Ballots Cast,,,REP,244,127,112,5
+Austin,312,Ballots Cast,,,DEM,15,3,5,7
 Austin,312,President,,Cory Booker,DEM,0,0,0,0
 Austin,312,President,,John K. Delaney,DEM,0,0,0,0
 Austin,312,President,,Joseph R. Biden,DEM,7,2,0,5
@@ -410,9 +410,9 @@ Austin,312,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,0,0,0,0
 Austin,312,Railroad Commissioner,,Chrysta Castaneda,DEM,3,1,0,2
 Austin,312,State Senate,18,Michael Antalan,DEM,10,3,2,5
 Austin,313,Registered Voters,,,,1175,,,
-Austin,313,Ballots Cast Total,,,,240,125,105,10
-Austin,313,Ballots Cast Republican Party,,,,144,67,74,3
-Austin,313,Ballots Cast Democratic Party,,,,96,58,31,7
+Austin,313,Ballots Cast,,,,240,125,105,10
+Austin,313,Ballots Cast,,,REP,144,67,74,3
+Austin,313,Ballots Cast,,,DEM,96,58,31,7
 Austin,313,President,,Cory Booker,DEM,0,0,0,0
 Austin,313,President,,John K. Delaney,DEM,0,0,0,0
 Austin,313,President,,Joseph R. Biden,DEM,48,34,12,2
@@ -451,9 +451,9 @@ Austin,313,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,23,17,4,2
 Austin,313,Railroad Commissioner,,Chrysta Castaneda,DEM,15,7,6,2
 Austin,313,State Senate,18,Michael Antalan,DEM,74,47,23,4
 Austin,314,Registered Voters,,,,2770,,,
-Austin,314,Ballots Cast Total,,,,750,349,366,35
-Austin,314,Ballots Cast Republican Party,,,,624,275,329,20
-Austin,314,Ballots Cast Democratic Party,,,,126,74,37,15
+Austin,314,Ballots Cast,,,,750,349,366,35
+Austin,314,Ballots Cast,,,REP,624,275,329,20
+Austin,314,Ballots Cast,,,DEM,126,74,37,15
 Austin,314,President,,Cory Booker,DEM,0,0,0,0
 Austin,314,President,,John K. Delaney,DEM,1,0,0,1
 Austin,314,President,,Joseph R. Biden,DEM,48,35,12,1
@@ -492,9 +492,9 @@ Austin,314,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,26,18,5,3
 Austin,314,Railroad Commissioner,,Chrysta Castaneda,DEM,31,11,12,8
 Austin,314,State Senate,18,Michael Antalan,DEM,106,58,34,14
 Austin,415,Registered Voters,,,,1520,,,
-Austin,415,Ballots Cast Total,,,,373,303,51,19
-Austin,415,Ballots Cast Republican Party,,,,279,222,44,13
-Austin,415,Ballots Cast Democratic Party,,,,94,81,7,6
+Austin,415,Ballots Cast,,,,373,303,51,19
+Austin,415,Ballots Cast,,,REP,279,222,44,13
+Austin,415,Ballots Cast,,,DEM,94,81,7,6
 Austin,415,President,,Cory Booker,DEM,0,0,0,0
 Austin,415,President,,John K. Delaney,DEM,0,0,0,0
 Austin,415,President,,Joseph R. Biden,DEM,40,39,0,1
@@ -533,9 +533,9 @@ Austin,415,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,30,28,1,1
 Austin,415,Railroad Commissioner,,Chrysta Castaneda,DEM,15,14,1,0
 Austin,415,State Senate,18,Michael Antalan,DEM,66,56,7,3
 Austin,416,Registered Voters,,,,1344,,,
-Austin,416,Ballots Cast Total,,,,335,181,129,25
-Austin,416,Ballots Cast Republican Party,,,,280,147,111,22
-Austin,416,Ballots Cast Democratic Party,,,,55,34,18,3
+Austin,416,Ballots Cast,,,,335,181,129,25
+Austin,416,Ballots Cast,,,REP,280,147,111,22
+Austin,416,Ballots Cast,,,DEM,55,34,18,3
 Austin,416,President,,Cory Booker,DEM,0,0,0,0
 Austin,416,President,,John K. Delaney,DEM,0,0,0,0
 Austin,416,President,,Joseph R. Biden,DEM,16,14,2,0
@@ -574,9 +574,9 @@ Austin,416,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,9,4,5,0
 Austin,416,Railroad Commissioner,,Chrysta Castaneda,DEM,14,10,3,1
 Austin,416,State Senate,18,Michael Antalan,DEM,42,24,15,3
 Austin,417,Registered Voters,,,,662,,,
-Austin,417,Ballots Cast Total,,,,154,113,29,12
-Austin,417,Ballots Cast Republican Party,,,,96,64,25,7
-Austin,417,Ballots Cast Democratic Party,,,,58,49,4,5
+Austin,417,Ballots Cast,,,,154,113,29,12
+Austin,417,Ballots Cast,,,REP,96,64,25,7
+Austin,417,Ballots Cast,,,DEM,58,49,4,5
 Austin,417,President,,Cory Booker,DEM,0,0,0,0
 Austin,417,President,,John K. Delaney,DEM,0,0,0,0
 Austin,417,President,,Joseph R. Biden,DEM,42,37,2,3
@@ -615,9 +615,9 @@ Austin,417,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,12,10,1,1
 Austin,417,Railroad Commissioner,,Chrysta Castaneda,DEM,7,5,2,0
 Austin,417,State Senate,18,Michael Antalan,DEM,36,27,4,5
 Austin,418,Registered Voters,,,,1393,,,
-Austin,418,Ballots Cast Total,,,,421,277,126,18
-Austin,418,Ballots Cast Republican Party,,,,378,248,113,17
-Austin,418,Ballots Cast Democratic Party,,,,43,29,13,1
+Austin,418,Ballots Cast,,,,421,277,126,18
+Austin,418,Ballots Cast,,,REP,378,248,113,17
+Austin,418,Ballots Cast,,,DEM,43,29,13,1
 Austin,418,President,,Cory Booker,DEM,0,0,0,0
 Austin,418,President,,John K. Delaney,DEM,0,0,0,0
 Austin,418,President,,Joseph R. Biden,DEM,18,18,0,0

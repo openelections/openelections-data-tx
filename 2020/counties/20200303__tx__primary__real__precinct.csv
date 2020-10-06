@@ -1,23 +1,23 @@
 ﻿county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day,provisional
-Real,Precinct 1,REGISTERED VOTERS,,,REGISTERED VOTERS,678,0,0,0,0
-Real,Precinct 2,REGISTERED VOTERS,,,REGISTERED VOTERS,673,0,0,0,0
-Real,Precinct 3,REGISTERED VOTERS,,,REGISTERED VOTERS,524,0,0,0,0
-Real,Precinct 4/7,REGISTERED VOTERS,,,REGISTERED VOTERS,298,0,0,0,0
-Real,Precinct 6,REGISTERED VOTERS,,,REGISTERED VOTERS,349,0,0,0,0
-Real,Precinct 1,BALLOTS CAST,,,BALLOTS CAST,238,88,145,5,0
-Real,Precinct 2,BALLOTS CAST,,,BALLOTS CAST,278,82,188,8,0
-Real,Precinct 3,BALLOTS CAST,,,BALLOTS CAST,134,80,54,0,0
-Real,Precinct 4/7,BALLOTS CAST,,,BALLOTS CAST,92,51,38,3,0
-Real,Precinct 6,BALLOTS CAST,,,BALLOTS CAST,123,50,72,1,0
-Real,"Precinct 1,2,6",BALLOTS CAST,,,BALLOTS CAST,96,49,41,6,0
-Real,"Precinct 3,4,7",BALLOTS CAST,,,BALLOTS CAST,40,25,11,4,0
-Real,Precinct 1,BALLOTS CAST,,REP,BALLOTS CAST,238,88,145,5,0
-Real,Precinct 2,BALLOTS CAST,,REP,BALLOTS CAST,278,82,188,8,0
-Real,Precinct 3,BALLOTS CAST,,REP,BALLOTS CAST,134,80,54,0,0
-Real,Precinct 4/7,BALLOTS CAST,,REP,BALLOTS CAST,92,51,38,3,0
-Real,Precinct 6,BALLOTS CAST,,REP,BALLOTS CAST,123,50,72,1,0
-Real,"Precinct 1,2,6",BALLOTS CAST,,DEM,BALLOTS CAST,96,49,41,6,0
-Real,"Precinct 3,4,7",BALLOTS CAST,,DEM,BALLOTS CAST,40,25,11,4,0
+Real,Precinct 1,Registered Voters,,,Registered Voters,678,0,0,0,0
+Real,Precinct 2,Registered Voters,,,Registered Voters,673,0,0,0,0
+Real,Precinct 3,Registered Voters,,,Registered Voters,524,0,0,0,0
+Real,Precinct 4/7,Registered Voters,,,Registered Voters,298,0,0,0,0
+Real,Precinct 6,Registered Voters,,,Registered Voters,349,0,0,0,0
+Real,Precinct 1,Ballots Cast,,,Ballots Cast,238,88,145,5,0
+Real,Precinct 2,Ballots Cast,,,Ballots Cast,278,82,188,8,0
+Real,Precinct 3,Ballots Cast,,,Ballots Cast,134,80,54,0,0
+Real,Precinct 4/7,Ballots Cast,,,Ballots Cast,92,51,38,3,0
+Real,Precinct 6,Ballots Cast,,,Ballots Cast,123,50,72,1,0
+Real,"Precinct 1,2,6",Ballots Cast,,,Ballots Cast,96,49,41,6,0
+Real,"Precinct 3,4,7",Ballots Cast,,,Ballots Cast,40,25,11,4,0
+Real,Precinct 1,Ballots Cast,,REP,Ballots Cast,238,88,145,5,0
+Real,Precinct 2,Ballots Cast,,REP,Ballots Cast,278,82,188,8,0
+Real,Precinct 3,Ballots Cast,,REP,Ballots Cast,134,80,54,0,0
+Real,Precinct 4/7,Ballots Cast,,REP,Ballots Cast,92,51,38,3,0
+Real,Precinct 6,Ballots Cast,,REP,Ballots Cast,123,50,72,1,0
+Real,"Precinct 1,2,6",Ballots Cast,,DEM,Ballots Cast,96,49,41,6,0
+Real,"Precinct 3,4,7",Ballots Cast,,DEM,Ballots Cast,40,25,11,4,0
 Real,Precinct 1,BALLOTS CAST - BLANK,,,BALLOTS CAST - BLANK,0,0,0,0,0
 Real,Precinct 2,BALLOTS CAST - BLANK,,,BALLOTS CAST - BLANK,0,0,0,0,0
 Real,Precinct 3,BALLOTS CAST - BLANK,,,BALLOTS CAST - BLANK,0,0,0,0,0

@@ -1,8 +1,8 @@
 ﻿county,precinct,office,district,candidate,party,votes,absentee,early_voting,election_day,provisional
 Van Zandt,1A,Registered Voters,,,,0,,,,
-Van Zandt,1A,Ballots Cast Total,,,,609,33,292,269,15
-Van Zandt,1A,Ballots Cast Republican Party,,,,542,29,265,233,15
-Van Zandt,1A,Ballots Cast Democratic Party,,,,67,4,27,36,0
+Van Zandt,1A,Ballots Cast,,,,609,33,292,269,15
+Van Zandt,1A,Ballots Cast,,,REP,542,29,265,233,15
+Van Zandt,1A,Ballots Cast,,,DEM,67,4,27,36,0
 Van Zandt,1A,President,,"Roque ""Rocky"" De La Fuente Guerrra",REP,1,0,0,1,0
 Van Zandt,1A,President,,Matthew John Matern,REP,2,0,0,2,0
 Van Zandt,1A,President,,Joe Walsh,REP,1,0,0,1,0
@@ -59,9 +59,9 @@ Van Zandt,1A,Railroad Commissioner,,Mark Watson,DEM,10,0,3,7,0
 Van Zandt,1A,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,13,0,3,10,0
 Van Zandt,1A,State Representative,2,Bill Brannon,DEM,56,3,22,31,0
 Van Zandt,1B,Registered Voters,,,,0,,,,
-Van Zandt,1B,Ballots Cast Total,,,,1042,56,291,690,5
-Van Zandt,1B,Ballots Cast Republican Party,,,,911,46,262,598,5
-Van Zandt,1B,Ballots Cast Democratic Party,,,,131,10,29,92,0
+Van Zandt,1B,Ballots Cast,,,,1042,56,291,690,5
+Van Zandt,1B,Ballots Cast,,,REP,911,46,262,598,5
+Van Zandt,1B,Ballots Cast,,,DEM,131,10,29,92,0
 Van Zandt,1B,President,,"Roque ""Rocky"" De La Fuente Guerrra",REP,0,0,0,0,0
 Van Zandt,1B,President,,Matthew John Matern,REP,1,0,0,1,0
 Van Zandt,1B,President,,Joe Walsh,REP,3,0,0,3,0
@@ -118,9 +118,9 @@ Van Zandt,1B,Railroad Commissioner,,Mark Watson,DEM,39,2,8,29,0
 Van Zandt,1B,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,11,0,3,8,0
 Van Zandt,1B,State Representative,2,Bill Brannon,DEM,99,9,21,69,0
 Van Zandt,1C,Registered Voters,,,,0,,,,
-Van Zandt,1C,Ballots Cast Total,,,,552,24,120,408,0
-Van Zandt,1C,Ballots Cast Republican Party,,,,495,18,111,366,0
-Van Zandt,1C,Ballots Cast Democratic Party,,,,57,6,9,42,0
+Van Zandt,1C,Ballots Cast,,,,552,24,120,408,0
+Van Zandt,1C,Ballots Cast,,,REP,495,18,111,366,0
+Van Zandt,1C,Ballots Cast,,,DEM,57,6,9,42,0
 Van Zandt,1C,President,,"Roque ""Rocky"" De La Fuente Guerrra",REP,0,0,0,0,0
 Van Zandt,1C,President,,Matthew John Matern,REP,0,0,0,0,0
 Van Zandt,1C,President,,Joe Walsh,REP,0,0,0,0,0
@@ -177,9 +177,9 @@ Van Zandt,1C,Railroad Commissioner,,Mark Watson,DEM,7,0,1,6,0
 Van Zandt,1C,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,4,0,1,3,0
 Van Zandt,1C,State Representative,2,Bill Brannon,DEM,47,6,5,36,0
 Van Zandt,1D,Registered Voters,,,,0,,,,
-Van Zandt,1D,Ballots Cast Total,,,,467,24,130,311,2
-Van Zandt,1D,Ballots Cast Republican Party,,,,427,20,124,281,2
-Van Zandt,1D,Ballots Cast Democratic Party,,,,40,4,6,30,0
+Van Zandt,1D,Ballots Cast,,,,467,24,130,311,2
+Van Zandt,1D,Ballots Cast,,,REP,427,20,124,281,2
+Van Zandt,1D,Ballots Cast,,,DEM,40,4,6,30,0
 Van Zandt,1D,President,,"Roque ""Rocky"" De La Fuente Guerrra",REP,2,0,0,2,0
 Van Zandt,1D,President,,Matthew John Matern,REP,1,1,0,0,0
 Van Zandt,1D,President,,Joe Walsh,REP,4,0,0,4,0
@@ -236,9 +236,9 @@ Van Zandt,1D,Railroad Commissioner,,Mark Watson,DEM,9,0,2,7,0
 Van Zandt,1D,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,3,0,0,3,0
 Van Zandt,1D,State Representative,2,Bill Brannon,DEM,28,3,4,21,0
 Van Zandt,1E,Registered Voters,,,,0,,,, 
-Van Zandt,1E,Ballots Cast Total,,,,252,13,71,168,0
-Van Zandt,1E,Ballots Cast Republican Party,,,,202,12,56,134,0
-Van Zandt,1E,Ballots Cast Democratic Party,,,,50,1,15,34,0
+Van Zandt,1E,Ballots Cast,,,,252,13,71,168,0
+Van Zandt,1E,Ballots Cast,,,REP,202,12,56,134,0
+Van Zandt,1E,Ballots Cast,,,DEM,50,1,15,34,0
 Van Zandt,1E,President,,"Roque ""Rocky"" De La Fuente Guerrra",REP,0,0,0,0,0
 Van Zandt,1E,President,,Matthew John Matern,REP,0,0,0,0,0
 Van Zandt,1E,President,,Joe Walsh,REP,0,0,0,0,0
@@ -295,9 +295,9 @@ Van Zandt,1E,Railroad Commissioner,,Mark Watson,DEM,9,1,2,6,0
 Van Zandt,1E,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,8,0,2,6,0
 Van Zandt,1E,State Representative,2,Bill Brannon,DEM,30,1,11,18,0
 Van Zandt,2A,Registered Voters,,,,0,,,,
-Van Zandt,2A,Ballots Cast Total,,,,1194,64,685,444,1
-Van Zandt,2A,Ballots Cast Republican Party,,,,1067,49,637,380,1
-Van Zandt,2A,Ballots Cast Democratic Party,,,,127,15,48,64,0
+Van Zandt,2A,Ballots Cast,,,,1194,64,685,444,1
+Van Zandt,2A,Ballots Cast,,,REP,1067,49,637,380,1
+Van Zandt,2A,Ballots Cast,,,DEM,127,15,48,64,0
 Van Zandt,2A,President,,"Roque ""Rocky"" De La Fuente Guerrra",REP,1,0,1,0,0
 Van Zandt,2A,President,,Matthew John Matern,REP,2,1,1,0,0
 Van Zandt,2A,President,,Joe Walsh,REP,5,0,3,2,0
@@ -354,9 +354,9 @@ Van Zandt,2A,Railroad Commissioner,,Mark Watson,DEM,22,3,7,12,0
 Van Zandt,2A,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,20,3,8,9,0
 Van Zandt,2A,State Representative,2,Bill Brannon,DEM,101,13,41,47,0
 Van Zandt,2B,Registered Voters,,,,0,,,,
-Van Zandt,2B,Ballots Cast Total,,,,552,28,196,328,0
-Van Zandt,2B,Ballots Cast Republican Party,,,,493,21,177,295,0
-Van Zandt,2B,Ballots Cast Democratic Party,,,,59,7,19,33,0
+Van Zandt,2B,Ballots Cast,,,,552,28,196,328,0
+Van Zandt,2B,Ballots Cast,,,REP,493,21,177,295,0
+Van Zandt,2B,Ballots Cast,,,DEM,59,7,19,33,0
 Van Zandt,2B,President,,"Roque ""Rocky"" De La Fuente Guerrra",REP,0,0,0,0,0
 Van Zandt,2B,President,,Matthew John Matern,REP,0,0,0,0,0
 Van Zandt,2B,President,,Joe Walsh,REP,2,0,1,1,0
@@ -413,9 +413,9 @@ Van Zandt,2B,Railroad Commissioner,,Mark Watson,DEM,8,0,3,5,0
 Van Zandt,2B,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,5,0,1,4,0
 Van Zandt,2B,State Representative,2,Bill Brannon,DEM,47,6,17,24,0
 Van Zandt,2C,Registered Voters,,,,0,,,,
-Van Zandt,2C,Ballots Cast Total,,,,697,33,227,435,2
-Van Zandt,2C,Ballots Cast Republican Party,,,,615,28,205,380,2
-Van Zandt,2C,Ballots Cast Democratic Party,,,,82,5,22,55,0
+Van Zandt,2C,Ballots Cast,,,,697,33,227,435,2
+Van Zandt,2C,Ballots Cast,,,REP,615,28,205,380,2
+Van Zandt,2C,Ballots Cast,,,DEM,82,5,22,55,0
 Van Zandt,2C,President,,"Roque ""Rocky"" De La Fuente Guerrra",REP,0,0,0,0,0
 Van Zandt,2C,President,,Matthew John Matern,REP,0,0,0,0,0
 Van Zandt,2C,President,,Joe Walsh,REP,1,0,0,1,0
@@ -472,9 +472,9 @@ Van Zandt,2C,Railroad Commissioner,,Mark Watson,DEM,22,3,6,13,0
 Van Zandt,2C,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,6,1,0,5,0
 Van Zandt,2C,State Representative,2,Bill Brannon,DEM,55,4,12,39,0
 Van Zandt,2D,Registered Voters,,,,0,,,,
-Van Zandt,2D,Ballots Cast Total,,,,717,32,307,378,0
-Van Zandt,2D,Ballots Cast Republican Party,,,,636,19,290,327,0
-Van Zandt,2D,Ballots Cast Democratic Party,,,,81,13,17,51,0
+Van Zandt,2D,Ballots Cast,,,,717,32,307,378,0
+Van Zandt,2D,Ballots Cast,,,REP,636,19,290,327,0
+Van Zandt,2D,Ballots Cast,,,DEM,81,13,17,51,0
 Van Zandt,2D,President,,"Roque ""Rocky"" De La Fuente Guerrra",REP,1,0,1,0,0
 Van Zandt,2D,President,,Matthew John Matern,REP,1,0,1,0,0
 Van Zandt,2D,President,,Joe Walsh,REP,3,0,2,1,0
@@ -531,9 +531,9 @@ Van Zandt,2D,Railroad Commissioner,,Mark Watson,DEM,16,2,2,12,0
 Van Zandt,2D,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,4,0,1,3,0
 Van Zandt,2D,State Representative,2,Bill Brannon,DEM,68,13,16,39,0
 Van Zandt,3A,Registered Voters,,,,0,,,,
-Van Zandt,3A,Ballots Cast Total,,,,389,16,203,170,0
-Van Zandt,3A,Ballots Cast Republican Party,,,,340,14,186,140,0
-Van Zandt,3A,Ballots Cast Democratic Party,,,,49,2,17,30,0
+Van Zandt,3A,Ballots Cast,,,,389,16,203,170,0
+Van Zandt,3A,Ballots Cast,,,REP,340,14,186,140,0
+Van Zandt,3A,Ballots Cast,,,DEM,49,2,17,30,0
 Van Zandt,3A,President,,"Roque ""Rocky"" De La Fuente Guerrra",REP,0,0,0,0,0
 Van Zandt,3A,President,,Matthew John Matern,REP,0,0,0,0,0
 Van Zandt,3A,President,,Joe Walsh,REP,3,0,2,1,0
@@ -590,9 +590,9 @@ Van Zandt,3A,Railroad Commissioner,,Mark Watson,DEM,12,0,2,10,0
 Van Zandt,3A,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,12,0,4,8,0
 Van Zandt,3A,State Representative,2,Bill Brannon,DEM,35,1,13,21,0
 Van Zandt,3B,Registered Voters,,,,0,,,,
-Van Zandt,3B,Ballots Cast Total,,,,460,28,140,291,1
-Van Zandt,3B,Ballots Cast Republican Party,,,,345,16,132,197,0
-Van Zandt,3B,Ballots Cast Democratic Party,,,,115,12,8,94,1
+Van Zandt,3B,Ballots Cast,,,,460,28,140,291,1
+Van Zandt,3B,Ballots Cast,,,REP,345,16,132,197,0
+Van Zandt,3B,Ballots Cast,,,DEM,115,12,8,94,1
 Van Zandt,3B,President,,"Roque ""Rocky"" De La Fuente Guerrra",REP,1,0,1,0,0
 Van Zandt,3B,President,,Matthew John Matern,REP,0,0,0,0,0
 Van Zandt,3B,President,,Joe Walsh,REP,0,0,0,0,0
@@ -649,9 +649,9 @@ Van Zandt,3B,Railroad Commissioner,,Mark Watson,DEM,29,4,1,23,1
 Van Zandt,3B,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,25,1,3,21,0
 Van Zandt,3B,State Representative,2,Bill Brannon,DEM,80,8,5,66,1
 Van Zandt,3C,Registered Voters,,,,0,,,,
-Van Zandt,3C,Ballots Cast Total,,,,945,43,231,671,0
-Van Zandt,3C,Ballots Cast Republican Party,,,,801,34,211,556,0
-Van Zandt,3C,Ballots Cast Democratic Party,,,,144,9,20,115,0
+Van Zandt,3C,Ballots Cast,,,,945,43,231,671,0
+Van Zandt,3C,Ballots Cast,,,REP,801,34,211,556,0
+Van Zandt,3C,Ballots Cast,,,DEM,144,9,20,115,0
 Van Zandt,3C,President,,"Roque ""Rocky"" De La Fuente Guerrra",REP,1,0,0,1,0
 Van Zandt,3C,President,,Matthew John Matern,REP,0,0,0,0,0
 Van Zandt,3C,President,,Joe Walsh,REP,0,0,0,0,0
@@ -708,9 +708,9 @@ Van Zandt,3C,Railroad Commissioner,,Mark Watson,DEM,38,3,7,28,0
 Van Zandt,3C,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,27,1,3,23,0
 Van Zandt,3C,State Representative,2,Bill Brannon,DEM,110,6,15,89,0
 Van Zandt,3D,Registered Voters,,,,0,,,,
-Van Zandt,3D,Ballots Cast Total,,,,1000,45,368,587,0
-Van Zandt,3D,Ballots Cast Republican Party,,,,894,38,340,516,0
-Van Zandt,3D,Ballots Cast Democratic Party,,,,106,7,28,71,0
+Van Zandt,3D,Ballots Cast,,,,1000,45,368,587,0
+Van Zandt,3D,Ballots Cast,,,REP,894,38,340,516,0
+Van Zandt,3D,Ballots Cast,,,DEM,106,7,28,71,0
 Van Zandt,3D,President,,"Roque ""Rocky"" De La Fuente Guerrra",REP,0,0,0,0,0
 Van Zandt,3D,President,,Matthew John Matern,REP,0,0,0,0,0
 Van Zandt,3D,President,,Joe Walsh,REP,3,0,1,2,0
@@ -767,9 +767,9 @@ Van Zandt,3D,Railroad Commissioner,,Mark Watson,DEM,17,1,3,13,0
 Van Zandt,3D,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,16,1,7,8,0
 Van Zandt,3D,State Representative,2,Bill Brannon,DEM,65,6,19,40,0
 Van Zandt,4A,Registered Voters,,,,0,,,,
-Van Zandt,4A,Ballots Cast Total,,,,492,15,271,203,3
-Van Zandt,4A,Ballots Cast Republican Party,,,,441,11,254,174,2
-Van Zandt,4A,Ballots Cast Democratic Party,,,,51,4,17,29,1
+Van Zandt,4A,Ballots Cast,,,,492,15,271,203,3
+Van Zandt,4A,Ballots Cast,,,REP,441,11,254,174,2
+Van Zandt,4A,Ballots Cast,,,DEM,51,4,17,29,1
 Van Zandt,4A,President,,"Roque ""Rocky"" De La Fuente Guerrra",REP,1,0,1,0,0
 Van Zandt,4A,President,,Matthew John Matern,REP,0,0,0,0,0
 Van Zandt,4A,President,,Joe Walsh,REP,1,0,1,0,0
@@ -826,9 +826,9 @@ Van Zandt,4A,Railroad Commissioner,,Mark Watson,DEM,14,1,3,10,0
 Van Zandt,4A,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,7,0,5,2,0
 Van Zandt,4A,State Representative,2,Bill Brannon,DEM,34,2,13,18,1
 Van Zandt,4B,Registered Voters,,,,0,,,,
-Van Zandt,4B,Ballots Cast Total,,,,557,26,99,432,0
-Van Zandt,4B,Ballots Cast Republican Party,,,,498,24,93,381,0
-Van Zandt,4B,Ballots Cast Democratic Party,,,,59,2,6,51,0
+Van Zandt,4B,Ballots Cast,,,,557,26,99,432,0
+Van Zandt,4B,Ballots Cast,,,REP,498,24,93,381,0
+Van Zandt,4B,Ballots Cast,,,DEM,59,2,6,51,0
 Van Zandt,4B,President,,"Roque ""Rocky"" De La Fuente Guerrra",REP,1,0,0,1,0
 Van Zandt,4B,President,,Matthew John Matern,REP,0,0,0,0,0
 Van Zandt,4B,President,,Joe Walsh,REP,1,0,1,0,0
@@ -885,9 +885,9 @@ Van Zandt,4B,Railroad Commissioner,,Mark Watson,DEM,9,1,0,8,0
 Van Zandt,4B,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,10,0,0,10,0
 Van Zandt,4B,State Representative,2,Bill Brannon,DEM,49,1,6,42,0
 Van Zandt,4C,Registered Voters,,,,0,,,,
-Van Zandt,4C,Ballots Cast Total,,,,612,35,171,405,1
-Van Zandt,4C,Ballots Cast Republican Party,,,,538,27,152,358,1
-Van Zandt,4C,Ballots Cast Democratic Party,,,,74,8,19,47,0
+Van Zandt,4C,Ballots Cast,,,,612,35,171,405,1
+Van Zandt,4C,Ballots Cast,,,REP,538,27,152,358,1
+Van Zandt,4C,Ballots Cast,,,DEM,74,8,19,47,0
 Van Zandt,4C,President,,"Roque ""Rocky"" De La Fuente Guerrra",REP,0,0,0,0,0
 Van Zandt,4C,President,,Matthew John Matern,REP,1,0,0,1,0
 Van Zandt,4C,President,,Joe Walsh,REP,0,0,0,0,0
@@ -944,9 +944,9 @@ Van Zandt,4C,Railroad Commissioner,,Mark Watson,DEM,13,2,5,6,0
 Van Zandt,4C,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,9,1,1,7,0
 Van Zandt,4C,State Representative,2,Bill Brannon,DEM,53,7,17,29,0
 Van Zandt,4D,Registered Voters,,,,0,,,,
-Van Zandt,4D,Ballots Cast Total,,,,1151,99,314,738,0
-Van Zandt,4D,Ballots Cast Republican Party,,,,961,74,262,625,0
-Van Zandt,4D,Ballots Cast Democratic Party,,,,190,25,52,113,0
+Van Zandt,4D,Ballots Cast,,,,1151,99,314,738,0
+Van Zandt,4D,Ballots Cast,,,REP,961,74,262,625,0
+Van Zandt,4D,Ballots Cast,,,DEM,190,25,52,113,0
 Van Zandt,4D,President,,"Roque ""Rocky"" De La Fuente Guerrra",REP,2,0,0,2,0
 Van Zandt,4D,President,,Matthew John Matern,REP,0,0,0,0,0
 Van Zandt,4D,President,,Joe Walsh,REP,1,0,0,1,0
@@ -1003,9 +1003,9 @@ Van Zandt,4D,Railroad Commissioner,,Mark Watson,DEM,37,7,10,20,0
 Van Zandt,4D,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,25,2,5,18,0
 Van Zandt,4D,State Representative,2,Bill Brannon,DEM,147,19,42,86,0
 Van Zandt,4E,Registered Voters,,,,0,,,,
-Van Zandt,4E,Ballots Cast Total,,,,428,19,156,253,0
-Van Zandt,4E,Ballots Cast Republican Party,,,,373,12,141,220,0
-Van Zandt,4E,Ballots Cast Democratic Party,,,,55,7,15,33,0
+Van Zandt,4E,Ballots Cast,,,,428,19,156,253,0
+Van Zandt,4E,Ballots Cast,,,REP,373,12,141,220,0
+Van Zandt,4E,Ballots Cast,,,DEM,55,7,15,33,0
 Van Zandt,4E,President,,"Roque ""Rocky"" De La Fuente Guerrra",REP,0,0,0,0,0
 Van Zandt,4E,President,,Matthew John Matern,REP,0,0,0,0,0
 Van Zandt,4E,President,,Joe Walsh,REP,4,0,2,2,0

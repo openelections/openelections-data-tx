@@ -1,8 +1,8 @@
 ﻿county,precinct,office,district,candidate,party,votes,mail,early_voting,election_day
 Camp,Precinct 1001,Registered Voters,,,,1875,,,
-Camp,Precinct 1001,Ballots Cast Total,,,,678,38,364,276
-Camp,Precinct 1001,Ballots Cast Republican Party,,,,517,18,297,202
-Camp,Precinct 1001,Ballots Cast Democratic Party,,,,161,20,67,74
+Camp,Precinct 1001,Ballots Cast,,,,678,38,364,276
+Camp,Precinct 1001,Ballots Cast,,,REP,517,18,297,202
+Camp,Precinct 1001,Ballots Cast,,,DEM,161,20,67,74
 Camp,Precinct 1001,President,,"Roque ""Rocky"" De La Fuente Guerra",REP,4,0,1,3
 Camp,Precinct 1001,President,,Donald J. Trump,REP,492,18,286,188
 Camp,Precinct 1001,President,,Matthew John Matern,REP,0,0,0,0
@@ -58,9 +58,9 @@ Camp,Precinct 1001,Railroad Commissioner,,Chrysta Castaneda,DEM,25,0,11,14
 Camp,Precinct 1001,State Senate,,Audrey Spanko,DEM,125,17,51,57
 Camp,Precinct 1001,State Representative,5,Lawyanda Prince,DEM,131,17,56,58
 Camp,Precinct 2002,Registered Voters,,,,2152,,,
-Camp,Precinct 2002,Ballots Cast Total,,,,813,47,456,310
-Camp,Precinct 2002,Ballots Cast Republican Party,,,,657,24,397,236
-Camp,Precinct 2002,Ballots Cast Democratic Party,,,,156,23,59,74
+Camp,Precinct 2002,Ballots Cast,,,,813,47,456,310
+Camp,Precinct 2002,Ballots Cast,,,REP,657,24,397,236
+Camp,Precinct 2002,Ballots Cast,,,DEM,156,23,59,74
 Camp,Precinct 2002,President,,"Roque ""Rocky"" De La Fuente Guerra",REP,1,0,1,0
 Camp,Precinct 2002,President,,Donald J. Trump,REP,622,23,376,223
 Camp,Precinct 2002,President,,Matthew John Matern,REP,0,0,0,0
@@ -116,9 +116,9 @@ Camp,Precinct 2002,Railroad Commissioner,,Chrysta Castaneda,DEM,35,14,7,14
 Camp,Precinct 2002,State Senate,,Audrey Spanko,DEM,125,20,47,58
 Camp,Precinct 2002,State Representative,5,Lawyanda Prince,DEM,124,20,46,58
 Camp,Precinct 3003,Registered Voters,,,,1734,,,
-Camp,Precinct 3003,Ballots Cast Total,,,,502,43,208,251
-Camp,Precinct 3003,Ballots Cast Republican Party,,,,268,5,159,104
-Camp,Precinct 3003,Ballots Cast Democratic Party,,,,234,38,49,147
+Camp,Precinct 3003,Ballots Cast,,,,502,43,208,251
+Camp,Precinct 3003,Ballots Cast,,,REP,268,5,159,104
+Camp,Precinct 3003,Ballots Cast,,,DEM,234,38,49,147
 Camp,Precinct 3003,President,,"Roque ""Rocky"" De La Fuente Guerra",REP,1,0,1,0
 Camp,Precinct 3003,President,,Donald J. Trump,REP,248,5,145,98
 Camp,Precinct 3003,President,,Matthew John Matern,REP,0,0,0,0
@@ -174,9 +174,9 @@ Camp,Precinct 3003,Railroad Commissioner,,Chrysta Castaneda,DEM,35,2,5,28
 Camp,Precinct 3003,State Senate,,Audrey Spanko,DEM,179,32,27,120
 Camp,Precinct 3003,State Representative,5,Lawyanda Prince,DEM,185,32,28,125
 Camp,Precinct 4004,Registered Voters,,,,1917,,,
-Camp,Precinct 4004,Ballots Cast Total,,,,665,25,357,283
-Camp,Precinct 4004,Ballots Cast Republican Party,,,,538,9,315,214
-Camp,Precinct 4004,Ballots Cast Democratic Party,,,,127,16,42,69
+Camp,Precinct 4004,Ballots Cast,,,,665,25,357,283
+Camp,Precinct 4004,Ballots Cast,,,REP,538,9,315,214
+Camp,Precinct 4004,Ballots Cast,,,DEM,127,16,42,69
 Camp,Precinct 4004,President,,"Roque ""Rocky"" De La Fuente Guerra",REP,2,0,0,2
 Camp,Precinct 4004,President,,Donald J. Trump,REP,512,9,302,201
 Camp,Precinct 4004,President,,Matthew John Matern,REP,2,0,0,2

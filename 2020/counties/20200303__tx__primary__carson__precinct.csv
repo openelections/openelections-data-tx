@@ -1,9 +1,9 @@
 county,precinct,office,district,candidate,party,votes
 Carson,101,Registered Voters,,,,0
-Carson,101,Ballots Cast Total,,,,187
-Carson,101,Ballots Cast Republican Party,,,,171
-Carson,101,Ballots Cast Democratic Party,,,,16
-Carson,101,Ballots Cast Nonpartisan,,,,0
+Carson,101,Ballots Cast,,,,187
+Carson,101,Ballots Cast,,,REP,171
+Carson,101,Ballots Cast,,,DEM,16
+Carson,101,Ballots Cast,,,NPA,0
 Carson,101,Ballots Cast Blank,,,,0
 Carson,101,President,,Donald J. Trump,REP,166
 Carson,101,President,,Bill Weld,REP,0
@@ -73,10 +73,10 @@ Carson,101,Railroad Commissioner,,Mark Watson,DEM,4
 Carson,101,Railroad Commissioner,,Chrysta Castaneda,DEM,4
 Carson,101,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,2
 Carson,102,Registered Voters,,,,0
-Carson,102,Ballots Cast Total,,,,37
-Carson,102,Ballots Cast Republican Party,,,,37
-Carson,102,Ballots Cast Democratic Party,,,,0
-Carson,102,Ballots Cast Nonpartisan,,,,0
+Carson,102,Ballots Cast,,,,37
+Carson,102,Ballots Cast,,,REP,37
+Carson,102,Ballots Cast,,,DEM,0
+Carson,102,Ballots Cast,,,NPA,0
 Carson,102,Ballots Cast Blank,,,,0
 Carson,102,President,,Donald J. Trump,REP,37
 Carson,102,President,,Bill Weld,REP,0
@@ -146,10 +146,10 @@ Carson,102,Railroad Commissioner,,Mark Watson,DEM,0
 Carson,102,Railroad Commissioner,,Chrysta Castaneda,DEM,0
 Carson,102,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,0
 Carson,103,Registered Voters,,,,0
-Carson,103,Ballots Cast Total,,,,150
-Carson,103,Ballots Cast Republican Party,,,,133
-Carson,103,Ballots Cast Democratic Party,,,,17
-Carson,103,Ballots Cast Nonpartisan,,,,0
+Carson,103,Ballots Cast,,,,150
+Carson,103,Ballots Cast,,,REP,133
+Carson,103,Ballots Cast,,,DEM,17
+Carson,103,Ballots Cast,,,NPA,0
 Carson,103,Ballots Cast Blank,,,,0
 Carson,103,President,,Donald J. Trump,REP,131
 Carson,103,President,,Bill Weld,REP,0
@@ -219,10 +219,10 @@ Carson,103,Railroad Commissioner,,Mark Watson,DEM,2
 Carson,103,Railroad Commissioner,,Chrysta Castaneda,DEM,8
 Carson,103,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,3
 Carson,201,Registered Voters,,,,0
-Carson,201,Ballots Cast Total,,,,397
-Carson,201,Ballots Cast Republican Party,,,,369
-Carson,201,Ballots Cast Democratic Party,,,,28
-Carson,201,Ballots Cast Nonpartisan,,,,0
+Carson,201,Ballots Cast,,,,397
+Carson,201,Ballots Cast,,,REP,369
+Carson,201,Ballots Cast,,,DEM,28
+Carson,201,Ballots Cast,,,NPA,0
 Carson,201,Ballots Cast Blank,,,,0
 Carson,201,President,,Donald J. Trump,REP,359
 Carson,201,President,,Bill Weld,REP,0
@@ -292,10 +292,10 @@ Carson,201,Railroad Commissioner,,Mark Watson,DEM,6
 Carson,201,Railroad Commissioner,,Chrysta Castaneda,DEM,8
 Carson,201,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,3
 Carson,301,Registered Voters,,,,0
-Carson,301,Ballots Cast Total,,,,299
-Carson,301,Ballots Cast Republican Party,,,,266
-Carson,301,Ballots Cast Democratic Party,,,,33
-Carson,301,Ballots Cast Nonpartisan,,,,0
+Carson,301,Ballots Cast,,,,299
+Carson,301,Ballots Cast,,,REP,266
+Carson,301,Ballots Cast,,,DEM,33
+Carson,301,Ballots Cast,,,NPA,0
 Carson,301,Ballots Cast Blank,,,,0
 Carson,301,President,,Donald J. Trump,REP,249
 Carson,301,President,,Bill Weld,REP,2
@@ -365,10 +365,10 @@ Carson,301,Railroad Commissioner,,Mark Watson,DEM,8
 Carson,301,Railroad Commissioner,,Chrysta Castaneda,DEM,6
 Carson,301,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,4
 Carson,302,Registered Voters,,,,0
-Carson,302,Ballots Cast Total,,,,135
-Carson,302,Ballots Cast Republican Party,,,,127
-Carson,302,Ballots Cast Democratic Party,,,,8
-Carson,302,Ballots Cast Nonpartisan,,,,0
+Carson,302,Ballots Cast,,,,135
+Carson,302,Ballots Cast,,,REP,127
+Carson,302,Ballots Cast,,,DEM,8
+Carson,302,Ballots Cast,,,NPA,0
 Carson,302,Ballots Cast Blank,,,,0
 Carson,302,President,,Donald J. Trump,REP,127
 Carson,302,President,,Bill Weld,REP,0
@@ -438,10 +438,10 @@ Carson,302,Railroad Commissioner,,Mark Watson,DEM,3
 Carson,302,Railroad Commissioner,,Chrysta Castaneda,DEM,2
 Carson,302,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,2
 Carson,401,Registered Voters,,,,0
-Carson,401,Ballots Cast Total,,,,272
-Carson,401,Ballots Cast Republican Party,,,,248
-Carson,401,Ballots Cast Democratic Party,,,,24
-Carson,401,Ballots Cast Nonpartisan,,,,0
+Carson,401,Ballots Cast,,,,272
+Carson,401,Ballots Cast,,,REP,248
+Carson,401,Ballots Cast,,,DEM,24
+Carson,401,Ballots Cast,,,NPA,0
 Carson,401,Ballots Cast Blank,,,,0
 Carson,401,President,,Donald J. Trump,REP,244
 Carson,401,President,,Bill Weld,REP,0
@@ -511,10 +511,10 @@ Carson,401,Railroad Commissioner,,Mark Watson,DEM,5
 Carson,401,Railroad Commissioner,,Chrysta Castaneda,DEM,1
 Carson,401,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,4
 Carson,402,Registered Voters,,,,0
-Carson,402,Ballots Cast Total,,,,119
-Carson,402,Ballots Cast Republican Party,,,,112
-Carson,402,Ballots Cast Democratic Party,,,,7
-Carson,402,Ballots Cast Nonpartisan,,,,0
+Carson,402,Ballots Cast,,,,119
+Carson,402,Ballots Cast,,,REP,112
+Carson,402,Ballots Cast,,,DEM,7
+Carson,402,Ballots Cast,,,NPA,0
 Carson,402,Ballots Cast Blank,,,,0
 Carson,402,President,,Donald J. Trump,REP,109
 Carson,402,President,,Bill Weld,REP,0
