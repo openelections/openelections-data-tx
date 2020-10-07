@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,absentee,early_voting,election day,votes
+county,precinct,office,district,candidate,party,absentee,early_voting,election_day,votes
 Milam,Precinct 101,Registered Voters,,,,,,,2349
 Milam,Precinct 101,Ballots Cast,,,REP,40,632,256,928
 Milam,Precinct 101,President,,Bob Ely,REP,,,,5
@@ -9,15 +9,15 @@ Milam,Precinct 101,President,,Donald J. Trump,REP,,,,824
 Milam,Precinct 101,President,,"Roque ""Rocky"" De La Fuente Guerra",REP,,,,6
 Milam,Precinct 101,President,,Bill Weld,REP,,,,7
 Milam,Precinct 101,President,,Uncommitted,REP,,,,46
-Milam,Precinct 101,President,,Undervotes,REP,,,,26
-Milam,Precinct 101,President,,Overvotes,REP,,,,0
+Milam,Precinct 101,President,,Under Votes,REP,,,,26
+Milam,Precinct 101,President,,Over Votes,REP,,,,0
 Milam,Precinct 101,U.S. Senate,,Mark Yancey,REP,,,,74
 Milam,Precinct 101,U.S. Senate,,John Cornyn,REP,,,,633
 Milam,Precinct 101,U.S. Senate,,John Anthony Castro,REP,,,,49
 Milam,Precinct 101,U.S. Senate,,Dwayne Stovall,REP,,,,78
 Milam,Precinct 101,U.S. Senate,,Virgil Bierschwale,REP,,,,10
-Milam,Precinct 101,U.S. Senate,,Undervotes,REP,,,,84
-Milam,Precinct 101,U.S. Senate,,Overvotes,REP,,,,0
+Milam,Precinct 101,U.S. Senate,,Under Votes,REP,,,,84
+Milam,Precinct 101,U.S. Senate,,Over Votes,REP,,,,0
 Milam,Precinct 101,U.S. House,17,Renee Swann,REP,,,,356
 Milam,Precinct 101,U.S. House,17,Kristen Alamo Rowin,REP,,,,16
 Milam,Precinct 101,U.S. House,17,Scott Bland,REP,,,,50
@@ -30,15 +30,15 @@ Milam,Precinct 101,U.S. House,17,Elianor Vessali,REP,,,,29
 Milam,Precinct 101,U.S. House,17,Ahmad Adnan,REP,,,,1
 Milam,Precinct 101,U.S. House,17,Pete Sessions,REP,,,,153
 Milam,Precinct 101,U.S. House,17,Todd Kent,REP,,,,15
-Milam,Precinct 101,U.S. House,17,Undervotes,REP,,,,91
-Milam,Precinct 101,U.S. House,17,Overvotes,REP,,,,0
+Milam,Precinct 101,U.S. House,17,Under Votes,REP,,,,91
+Milam,Precinct 101,U.S. House,17,Over Votes,REP,,,,0
 Milam,Precinct 101,Railroad Commissioner,,Ryan Sitton,REP,,,,285
 Milam,Precinct 101,Railroad Commissioner,,"James ""Jim"" Wright",REP,,,,482
-Milam,Precinct 101,Railroad Commissioner,,Undervotes,REP,,,,161
-Milam,Precinct 101,Railroad Commissioner,,Overvotes,REP,,,,0
+Milam,Precinct 101,Railroad Commissioner,,Under Votes,REP,,,,161
+Milam,Precinct 101,Railroad Commissioner,,Over Votes,REP,,,,0
 Milam,Precinct 101,State Representative,20,Terry M. Wilson,REP,,,,740
-Milam,Precinct 101,State Representative,20,Undervotes,REP,,,,188
-Milam,Precinct 101,State Representative,20,Overvotes,REP,,,,0
+Milam,Precinct 101,State Representative,20,Under Votes,REP,,,,188
+Milam,Precinct 101,State Representative,20,Over Votes,REP,,,,0
 Milam,Precinct 101,Ballots Cast,,,DEM,21,52,65,138
 Milam,Precinct 101,President,,Michael R. Bloomberg,DEM,,,,23
 Milam,Precinct 101,President,,Andrew Yang,DEM,,,,1
@@ -57,8 +57,8 @@ Milam,Precinct 101,President,,Joseph R. Biden,DEM,,,,45
 Milam,Precinct 101,President,,Julian Castro,DEM,,,,0
 Milam,Precinct 101,President,,Pete Buttigieg,DEM,,,,4
 Milam,Precinct 101,President,,Michael Bennet,DEM,,,,0
-Milam,Precinct 101,President,,Undervotes,DEM,,,,8
-Milam,Precinct 101,President,,Overvotes,DEM,,,,0
+Milam,Precinct 101,President,,Under Votes,DEM,,,,8
+Milam,Precinct 101,President,,Over Votes,DEM,,,,0
 Milam,Precinct 101,U.S. Senate,,"Annie ""Mama"" Garcia",DEM,,,,21
 Milam,Precinct 101,U.S. Senate,,"Mary ""MJ"" Hegar",DEM,,,,44
 Milam,Precinct 101,U.S. Senate,,Cristina Tzintzun Ramirez,DEM,,,,6
@@ -71,22 +71,22 @@ Milam,Precinct 101,U.S. Senate,,Amanda K. Edwards,DEM,,,,5
 Milam,Precinct 101,U.S. Senate,,Jack Daniel Foster Jr,DEM,,,,2
 Milam,Precinct 101,U.S. Senate,,Royce West,DEM,,,,7
 Milam,Precinct 101,U.S. Senate,,Sema Hernandez,DEM,,,,2
-Milam,Precinct 101,U.S. Senate,,Undervotes,DEM,,,,17
-Milam,Precinct 101,U.S. Senate,,Overvotes,DEM,,,,0
+Milam,Precinct 101,U.S. Senate,,Under Votes,DEM,,,,17
+Milam,Precinct 101,U.S. Senate,,Over Votes,DEM,,,,0
 Milam,Precinct 101,U.S. House,17,William Foster III,DEM,,,,22
 Milam,Precinct 101,U.S. House,17,David Anthony Jaramillo,DEM,,,,30
 Milam,Precinct 101,U.S. House,17,Rick Kennedy,DEM,,,,62
-Milam,Precinct 101,U.S. House,17,Undervotes,DEM,,,,24
-Milam,Precinct 101,U.S. House,17,Overvotes,DEM,,,,0
+Milam,Precinct 101,U.S. House,17,Under Votes,DEM,,,,24
+Milam,Precinct 101,U.S. House,17,Over Votes,DEM,,,,0
 Milam,Precinct 101,Railroad Commissioner,,Mark Watson,DEM,,,,42
 Milam,Precinct 101,Railroad Commissioner,,Kelly Stone,DEM,,,,29
 Milam,Precinct 101,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,,,,21
 Milam,Precinct 101,Railroad Commissioner,,Chrysta Castaneda,DEM,,,,23
-Milam,Precinct 101,Railroad Commissioner,,Undervotes,DEM,,,,23
-Milam,Precinct 101,Railroad Commissioner,,Overvotes,DEM,,,,0
+Milam,Precinct 101,Railroad Commissioner,,Under Votes,DEM,,,,23
+Milam,Precinct 101,Railroad Commissioner,,Over Votes,DEM,,,,0
 Milam,Precinct 101,State Representative,20,Jessica Tiedt,DEM,,,,109
-Milam,Precinct 101,State Representative,20,Undervotes,DEM,,,,29
-Milam,Precinct 101,State Representative,20,Overvotes,DEM,,,,0
+Milam,Precinct 101,State Representative,20,Under Votes,DEM,,,,29
+Milam,Precinct 101,State Representative,20,Over Votes,DEM,,,,0
 Milam,Precinct 105,Registered Voters,,,,,,,1137
 Milam,Precinct 105,Ballots Cast,,,REP,15,130,164,309
 Milam,Precinct 105,President,,Bob Ely,REP,,,,2
@@ -97,15 +97,15 @@ Milam,Precinct 105,President,,Donald J. Trump,REP,,,,285
 Milam,Precinct 105,President,,"Roque ""Rocky"" De La Fuente Guerra",REP,,,,0
 Milam,Precinct 105,President,,Bill Weld,REP,,,,3
 Milam,Precinct 105,President,,Uncommitted,REP,,,,13
-Milam,Precinct 105,President,,Undervotes,REP,,,,3
-Milam,Precinct 105,President,,Overvotes,REP,,,,0
+Milam,Precinct 105,President,,Under Votes,REP,,,,3
+Milam,Precinct 105,President,,Over Votes,REP,,,,0
 Milam,Precinct 105,U.S. Senate,,Mark Yancey,REP,,,,32
 Milam,Precinct 105,U.S. Senate,,John Cornyn,REP,,,,207
 Milam,Precinct 105,U.S. Senate,,John Anthony Castro,REP,,,,6
 Milam,Precinct 105,U.S. Senate,,Dwayne Stovall,REP,,,,44
 Milam,Precinct 105,U.S. Senate,,Virgil Bierschwale,REP,,,,3
-Milam,Precinct 105,U.S. Senate,,Undervotes,REP,,,,17
-Milam,Precinct 105,U.S. Senate,,Overvotes,REP,,,,0
+Milam,Precinct 105,U.S. Senate,,Under Votes,REP,,,,17
+Milam,Precinct 105,U.S. Senate,,Over Votes,REP,,,,0
 Milam,Precinct 105,U.S. House,17,Renee Swann,REP,,,,112
 Milam,Precinct 105,U.S. House,17,Kristen Alamo Rowin,REP,,,,7
 Milam,Precinct 105,U.S. House,17,Scott Bland,REP,,,,13
@@ -118,15 +118,15 @@ Milam,Precinct 105,U.S. House,17,Elianor Vessali,REP,,,,11
 Milam,Precinct 105,U.S. House,17,Ahmad Adnan,REP,,,,2
 Milam,Precinct 105,U.S. House,17,Pete Sessions,REP,,,,53
 Milam,Precinct 105,U.S. House,17,Todd Kent,REP,,,,7
-Milam,Precinct 105,U.S. House,17,Undervotes,REP,,,,19
-Milam,Precinct 105,U.S. House,17,Overvotes,REP,,,,0
+Milam,Precinct 105,U.S. House,17,Under Votes,REP,,,,19
+Milam,Precinct 105,U.S. House,17,Over Votes,REP,,,,0
 Milam,Precinct 105,Railroad Commissioner,,Ryan Sitton,REP,,,,111
 Milam,Precinct 105,Railroad Commissioner,,"James ""Jim"" Wright",REP,,,,154
-Milam,Precinct 105,Railroad Commissioner,,Undervotes,REP,,,,44
-Milam,Precinct 105,Railroad Commissioner,,Overvotes,REP,,,,0
+Milam,Precinct 105,Railroad Commissioner,,Under Votes,REP,,,,44
+Milam,Precinct 105,Railroad Commissioner,,Over Votes,REP,,,,0
 Milam,Precinct 105,State Representative,20,Terry M. Wilson,REP,,,,255
-Milam,Precinct 105,State Representative,20,Undervotes,REP,,,,54
-Milam,Precinct 105,State Representative,20,Overvotes,REP,,,,0
+Milam,Precinct 105,State Representative,20,Under Votes,REP,,,,54
+Milam,Precinct 105,State Representative,20,Over Votes,REP,,,,0
 Milam,Precinct 105,Ballots Cast,,,DEM,11,15,42,68
 Milam,Precinct 105,President,,Michael R. Bloomberg,DEM,,,,10
 Milam,Precinct 105,President,,Andrew Yang,DEM,,,,0
@@ -145,8 +145,8 @@ Milam,Precinct 105,President,,Joseph R. Biden,DEM,,,,28
 Milam,Precinct 105,President,,Julian Castro,DEM,,,,0
 Milam,Precinct 105,President,,Pete Buttigieg,DEM,,,,3
 Milam,Precinct 105,President,,Michael Bennet,DEM,,,,1
-Milam,Precinct 105,President,,Undervotes,DEM,,,,1
-Milam,Precinct 105,President,,Overvotes,DEM,,,,0
+Milam,Precinct 105,President,,Under Votes,DEM,,,,1
+Milam,Precinct 105,President,,Over Votes,DEM,,,,0
 Milam,Precinct 105,U.S. Senate,,"Annie ""Mama"" Garcia",DEM,,,,8
 Milam,Precinct 105,U.S. Senate,,"Mary ""MJ"" Hegar",DEM,,,,34
 Milam,Precinct 105,U.S. Senate,,Cristina Tzintzun Ramirez,DEM,,,,1
@@ -159,22 +159,22 @@ Milam,Precinct 105,U.S. Senate,,Amanda K. Edwards,DEM,,,,2
 Milam,Precinct 105,U.S. Senate,,Jack Daniel Foster Jr,DEM,,,,1
 Milam,Precinct 105,U.S. Senate,,Royce West,DEM,,,,1
 Milam,Precinct 105,U.S. Senate,,Sema Hernandez,DEM,,,,2
-Milam,Precinct 105,U.S. Senate,,Undervotes,DEM,,,,11
-Milam,Precinct 105,U.S. Senate,,Overvotes,DEM,,,,0
+Milam,Precinct 105,U.S. Senate,,Under Votes,DEM,,,,11
+Milam,Precinct 105,U.S. Senate,,Over Votes,DEM,,,,0
 Milam,Precinct 105,U.S. House,17,William Foster III,DEM,,,,3
 Milam,Precinct 105,U.S. House,17,David Anthony Jaramillo,DEM,,,,18
 Milam,Precinct 105,U.S. House,17,Rick Kennedy,DEM,,,,36
-Milam,Precinct 105,U.S. House,17,Undervotes,DEM,,,,11
-Milam,Precinct 105,U.S. House,17,Overvotes,DEM,,,,0
+Milam,Precinct 105,U.S. House,17,Under Votes,DEM,,,,11
+Milam,Precinct 105,U.S. House,17,Over Votes,DEM,,,,0
 Milam,Precinct 105,Railroad Commissioner,,Mark Watson,DEM,,,,12
 Milam,Precinct 105,Railroad Commissioner,,Kelly Stone,DEM,,,,12
 Milam,Precinct 105,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,,,,17
 Milam,Precinct 105,Railroad Commissioner,,Chrysta Castaneda,DEM,,,,14
-Milam,Precinct 105,Railroad Commissioner,,Undervotes,DEM,,,,13
-Milam,Precinct 105,Railroad Commissioner,,Overvotes,DEM,,,,0
+Milam,Precinct 105,Railroad Commissioner,,Under Votes,DEM,,,,13
+Milam,Precinct 105,Railroad Commissioner,,Over Votes,DEM,,,,0
 Milam,Precinct 105,State Representative,20,Jessica Tiedt,DEM,,,,51
-Milam,Precinct 105,State Representative,20,Undervotes,DEM,,,,17
-Milam,Precinct 105,State Representative,20,Overvotes,DEM,,,,0
+Milam,Precinct 105,State Representative,20,Under Votes,DEM,,,,17
+Milam,Precinct 105,State Representative,20,Over Votes,DEM,,,,0
 Milam,Precinct 203,Registered Voters,,,,,,,385
 Milam,Precinct 203,Ballots Cast,,,REP,7,70,53,130
 Milam,Precinct 203,President,,Bob Ely,REP,,,,0
@@ -185,15 +185,15 @@ Milam,Precinct 203,President,,Donald J. Trump,REP,,,,126
 Milam,Precinct 203,President,,"Roque ""Rocky"" De La Fuente Guerra",REP,,,,0
 Milam,Precinct 203,President,,Bill Weld,REP,,,,2
 Milam,Precinct 203,President,,Uncommitted,REP,,,,1
-Milam,Precinct 203,President,,Undervotes,REP,,,,0
-Milam,Precinct 203,President,,Overvotes,REP,,,,0
+Milam,Precinct 203,President,,Under Votes,REP,,,,0
+Milam,Precinct 203,President,,Over Votes,REP,,,,0
 Milam,Precinct 203,U.S. Senate,,Mark Yancey,REP,,,,15
 Milam,Precinct 203,U.S. Senate,,John Cornyn,REP,,,,83
 Milam,Precinct 203,U.S. Senate,,John Anthony Castro,REP,,,,4
 Milam,Precinct 203,U.S. Senate,,Dwayne Stovall,REP,,,,14
 Milam,Precinct 203,U.S. Senate,,Virgil Bierschwale,REP,,,,3
-Milam,Precinct 203,U.S. Senate,,Undervotes,REP,,,,11
-Milam,Precinct 203,U.S. Senate,,Overvotes,REP,,,,0
+Milam,Precinct 203,U.S. Senate,,Under Votes,REP,,,,11
+Milam,Precinct 203,U.S. Senate,,Over Votes,REP,,,,0
 Milam,Precinct 203,U.S. House,17,Renee Swann,REP,,,,38
 Milam,Precinct 203,U.S. House,17,Kristen Alamo Rowin,REP,,,,6
 Milam,Precinct 203,U.S. House,17,Scott Bland,REP,,,,6
@@ -206,15 +206,15 @@ Milam,Precinct 203,U.S. House,17,Elianor Vessali,REP,,,,5
 Milam,Precinct 203,U.S. House,17,Ahmad Adnan,REP,,,,0
 Milam,Precinct 203,U.S. House,17,Pete Sessions,REP,,,,26
 Milam,Precinct 203,U.S. House,17,Todd Kent,REP,,,,2
-Milam,Precinct 203,U.S. House,17,Undervotes,REP,,,,7
-Milam,Precinct 203,U.S. House,17,Overvotes,REP,,,,0
+Milam,Precinct 203,U.S. House,17,Under Votes,REP,,,,7
+Milam,Precinct 203,U.S. House,17,Over Votes,REP,,,,0
 Milam,Precinct 203,Railroad Commissioner,,Ryan Sitton,REP,,,,49
 Milam,Precinct 203,Railroad Commissioner,,"James ""Jim"" Wright",REP,,,,67
-Milam,Precinct 203,Railroad Commissioner,,Undervotes,REP,,,,14
-Milam,Precinct 203,Railroad Commissioner,,Overvotes,REP,,,,0
+Milam,Precinct 203,Railroad Commissioner,,Under Votes,REP,,,,14
+Milam,Precinct 203,Railroad Commissioner,,Over Votes,REP,,,,0
 Milam,Precinct 203,State Representative,20,Terry M. Wilson,REP,,,,112
-Milam,Precinct 203,State Representative,20,Undervotes,REP,,,,18
-Milam,Precinct 203,State Representative,20,Overvotes,REP,,,,0
+Milam,Precinct 203,State Representative,20,Under Votes,REP,,,,18
+Milam,Precinct 203,State Representative,20,Over Votes,REP,,,,0
 Milam,Precinct 203,Ballots Cast,,,DEM,1,8,12,21
 Milam,Precinct 203,President,,Michael R. Bloomberg,DEM,,,,3
 Milam,Precinct 203,President,,Andrew Yang,DEM,,,,0
@@ -233,8 +233,8 @@ Milam,Precinct 203,President,,Joseph R. Biden,DEM,,,,8
 Milam,Precinct 203,President,,Julian Castro,DEM,,,,0
 Milam,Precinct 203,President,,Pete Buttigieg,DEM,,,,0
 Milam,Precinct 203,President,,Michael Bennet,DEM,,,,0
-Milam,Precinct 203,President,,Undervotes,DEM,,,,0
-Milam,Precinct 203,President,,Overvotes,DEM,,,,0
+Milam,Precinct 203,President,,Under Votes,DEM,,,,0
+Milam,Precinct 203,President,,Over Votes,DEM,,,,0
 Milam,Precinct 203,U.S. Senate,,"Annie ""Mama"" Garcia",DEM,,,,3
 Milam,Precinct 203,U.S. Senate,,"Mary ""MJ"" Hegar",DEM,,,,9
 Milam,Precinct 203,U.S. Senate,,Cristina Tzintzun Ramirez,DEM,,,,3
@@ -247,22 +247,22 @@ Milam,Precinct 203,U.S. Senate,,Amanda K. Edwards,DEM,,,,0
 Milam,Precinct 203,U.S. Senate,,Jack Daniel Foster Jr,DEM,,,,0
 Milam,Precinct 203,U.S. Senate,,Royce West,DEM,,,,1
 Milam,Precinct 203,U.S. Senate,,Sema Hernandez,DEM,,,,1
-Milam,Precinct 203,U.S. Senate,,Undervotes,DEM,,,,2
-Milam,Precinct 203,U.S. Senate,,Overvotes,DEM,,,,0
+Milam,Precinct 203,U.S. Senate,,Under Votes,DEM,,,,2
+Milam,Precinct 203,U.S. Senate,,Over Votes,DEM,,,,0
 Milam,Precinct 203,U.S. House,17,William Foster III,DEM,,,,3
 Milam,Precinct 203,U.S. House,17,David Anthony Jaramillo,DEM,,,,6
 Milam,Precinct 203,U.S. House,17,Rick Kennedy,DEM,,,,10
-Milam,Precinct 203,U.S. House,17,Undervotes,DEM,,,,2
-Milam,Precinct 203,U.S. House,17,Overvotes,DEM,,,,0
+Milam,Precinct 203,U.S. House,17,Under Votes,DEM,,,,2
+Milam,Precinct 203,U.S. House,17,Over Votes,DEM,,,,0
 Milam,Precinct 203,Railroad Commissioner,,Mark Watson,DEM,,,,6
 Milam,Precinct 203,Railroad Commissioner,,Kelly Stone,DEM,,,,4
 Milam,Precinct 203,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,,,,6
 Milam,Precinct 203,Railroad Commissioner,,Chrysta Castaneda,DEM,,,,3
-Milam,Precinct 203,Railroad Commissioner,,Undervotes,DEM,,,,2
-Milam,Precinct 203,Railroad Commissioner,,Overvotes,DEM,,,,0
+Milam,Precinct 203,Railroad Commissioner,,Under Votes,DEM,,,,2
+Milam,Precinct 203,Railroad Commissioner,,Over Votes,DEM,,,,0
 Milam,Precinct 203,State Representative,20,Jessica Tiedt,DEM,,,,20
-Milam,Precinct 203,State Representative,20,Undervotes,DEM,,,,1
-Milam,Precinct 203,State Representative,20,Overvotes,DEM,,,,0
+Milam,Precinct 203,State Representative,20,Under Votes,DEM,,,,1
+Milam,Precinct 203,State Representative,20,Over Votes,DEM,,,,0
 Milam,Precinct 207,Registered Voters,,,,,,,597
 Milam,Precinct 207,Ballots Cast,,,REP,6,48,65,119
 Milam,Precinct 207,President,,Bob Ely,REP,,,,2
@@ -273,15 +273,15 @@ Milam,Precinct 207,President,,Donald J. Trump,REP,,,,112
 Milam,Precinct 207,President,,"Roque ""Rocky"" De La Fuente Guerra",REP,,,,0
 Milam,Precinct 207,President,,Bill Weld,REP,,,,0
 Milam,Precinct 207,President,,Uncommitted,REP,,,,2
-Milam,Precinct 207,President,,Undervotes,REP,,,,3
-Milam,Precinct 207,President,,Overvotes,REP,,,,0
+Milam,Precinct 207,President,,Under Votes,REP,,,,3
+Milam,Precinct 207,President,,Over Votes,REP,,,,0
 Milam,Precinct 207,U.S. Senate,,Mark Yancey,REP,,,,12
 Milam,Precinct 207,U.S. Senate,,John Cornyn,REP,,,,78
 Milam,Precinct 207,U.S. Senate,,John Anthony Castro,REP,,,,5
 Milam,Precinct 207,U.S. Senate,,Dwayne Stovall,REP,,,,8
 Milam,Precinct 207,U.S. Senate,,Virgil Bierschwale,REP,,,,4
-Milam,Precinct 207,U.S. Senate,,Undervotes,REP,,,,12
-Milam,Precinct 207,U.S. Senate,,Overvotes,REP,,,,0
+Milam,Precinct 207,U.S. Senate,,Under Votes,REP,,,,12
+Milam,Precinct 207,U.S. Senate,,Over Votes,REP,,,,0
 Milam,Precinct 207,U.S. House,17,Renee Swann,REP,,,,37
 Milam,Precinct 207,U.S. House,17,Kristen Alamo Rowin,REP,,,,3
 Milam,Precinct 207,U.S. House,17,Scott Bland,REP,,,,11
@@ -294,15 +294,15 @@ Milam,Precinct 207,U.S. House,17,Elianor Vessali,REP,,,,6
 Milam,Precinct 207,U.S. House,17,Ahmad Adnan,REP,,,,0
 Milam,Precinct 207,U.S. House,17,Pete Sessions,REP,,,,23
 Milam,Precinct 207,U.S. House,17,Todd Kent,REP,,,,2
-Milam,Precinct 207,U.S. House,17,Undervotes,REP,,,,7
-Milam,Precinct 207,U.S. House,17,Overvotes,REP,,,,0
+Milam,Precinct 207,U.S. House,17,Under Votes,REP,,,,7
+Milam,Precinct 207,U.S. House,17,Over Votes,REP,,,,0
 Milam,Precinct 207,Railroad Commissioner,,Ryan Sitton,REP,,,,42
 Milam,Precinct 207,Railroad Commissioner,,"James ""Jim"" Wright",REP,,,,61
-Milam,Precinct 207,Railroad Commissioner,,Undervotes,REP,,,,16
-Milam,Precinct 207,Railroad Commissioner,,Overvotes,REP,,,,0
+Milam,Precinct 207,Railroad Commissioner,,Under Votes,REP,,,,16
+Milam,Precinct 207,Railroad Commissioner,,Over Votes,REP,,,,0
 Milam,Precinct 207,State Representative,20,Terry M. Wilson,REP,,,,105
-Milam,Precinct 207,State Representative,20,Undervotes,REP,,,,14
-Milam,Precinct 207,State Representative,20,Overvotes,REP,,,,0
+Milam,Precinct 207,State Representative,20,Under Votes,REP,,,,14
+Milam,Precinct 207,State Representative,20,Over Votes,REP,,,,0
 Milam,Precinct 207,Ballots Cast,,,DEM,9,12,30,51
 Milam,Precinct 207,President,,Michael R. Bloomberg,DEM,,,,9
 Milam,Precinct 207,President,,Andrew Yang,DEM,,,,0
@@ -321,8 +321,8 @@ Milam,Precinct 207,President,,Joseph R. Biden,DEM,,,,19
 Milam,Precinct 207,President,,Julian Castro,DEM,,,,0
 Milam,Precinct 207,President,,Pete Buttigieg,DEM,,,,1
 Milam,Precinct 207,President,,Michael Bennet,DEM,,,,0
-Milam,Precinct 207,President,,Undervotes,DEM,,,,3
-Milam,Precinct 207,President,,Overvotes,DEM,,,,0
+Milam,Precinct 207,President,,Under Votes,DEM,,,,3
+Milam,Precinct 207,President,,Over Votes,DEM,,,,0
 Milam,Precinct 207,U.S. Senate,,"Annie ""Mama"" Garcia",DEM,,,,10
 Milam,Precinct 207,U.S. Senate,,"Mary ""MJ"" Hegar",DEM,,,,13
 Milam,Precinct 207,U.S. Senate,,Cristina Tzintzun Ramirez,DEM,,,,2
@@ -335,22 +335,22 @@ Milam,Precinct 207,U.S. Senate,,Amanda K. Edwards,DEM,,,,1
 Milam,Precinct 207,U.S. Senate,,Jack Daniel Foster Jr,DEM,,,,1
 Milam,Precinct 207,U.S. Senate,,Royce West,DEM,,,,2
 Milam,Precinct 207,U.S. Senate,,Sema Hernandez,DEM,,,,3
-Milam,Precinct 207,U.S. Senate,,Undervotes,DEM,,,,3
-Milam,Precinct 207,U.S. Senate,,Overvotes,DEM,,,,0
+Milam,Precinct 207,U.S. Senate,,Under Votes,DEM,,,,3
+Milam,Precinct 207,U.S. Senate,,Over Votes,DEM,,,,0
 Milam,Precinct 207,U.S. House,17,William Foster III,DEM,,,,9
 Milam,Precinct 207,U.S. House,17,David Anthony Jaramillo,DEM,,,,21
 Milam,Precinct 207,U.S. House,17,Rick Kennedy,DEM,,,,15
-Milam,Precinct 207,U.S. House,17,Undervotes,DEM,,,,6
-Milam,Precinct 207,U.S. House,17,Overvotes,DEM,,,,0
+Milam,Precinct 207,U.S. House,17,Under Votes,DEM,,,,6
+Milam,Precinct 207,U.S. House,17,Over Votes,DEM,,,,0
 Milam,Precinct 207,Railroad Commissioner,,Mark Watson,DEM,,,,16
 Milam,Precinct 207,Railroad Commissioner,,Kelly Stone,DEM,,,,6
 Milam,Precinct 207,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,,,,13
 Milam,Precinct 207,Railroad Commissioner,,Chrysta Castaneda,DEM,,,,13
-Milam,Precinct 207,Railroad Commissioner,,Undervotes,DEM,,,,3
-Milam,Precinct 207,Railroad Commissioner,,Overvotes,DEM,,,,0
+Milam,Precinct 207,Railroad Commissioner,,Under Votes,DEM,,,,3
+Milam,Precinct 207,Railroad Commissioner,,Over Votes,DEM,,,,0
 Milam,Precinct 207,State Representative,20,Jessica Tiedt,DEM,,,,42
-Milam,Precinct 207,State Representative,20,Undervotes,DEM,,,,9
-Milam,Precinct 207,State Representative,20,Overvotes,DEM,,,,0
+Milam,Precinct 207,State Representative,20,Under Votes,DEM,,,,9
+Milam,Precinct 207,State Representative,20,Over Votes,DEM,,,,0
 Milam,Precinct 210,Registered Voters,,,,,,,528
 Milam,Precinct 210,Ballots Cast,,,REP,2,90,61,153
 Milam,Precinct 210,President,,Bob Ely,REP,,,,1
@@ -361,15 +361,15 @@ Milam,Precinct 210,President,,Donald J. Trump,REP,,,,146
 Milam,Precinct 210,President,,"Roque ""Rocky"" De La Fuente Guerra",REP,,,,0
 Milam,Precinct 210,President,,Bill Weld,REP,,,,2
 Milam,Precinct 210,President,,Uncommitted,REP,,,,4
-Milam,Precinct 210,President,,Undervotes,REP,,,,0
-Milam,Precinct 210,President,,Overvotes,REP,,,,0
+Milam,Precinct 210,President,,Under Votes,REP,,,,0
+Milam,Precinct 210,President,,Over Votes,REP,,,,0
 Milam,Precinct 210,U.S. Senate,,Mark Yancey,REP,,,,15
 Milam,Precinct 210,U.S. Senate,,John Cornyn,REP,,,,113
 Milam,Precinct 210,U.S. Senate,,John Anthony Castro,REP,,,,1
 Milam,Precinct 210,U.S. Senate,,Dwayne Stovall,REP,,,,10
 Milam,Precinct 210,U.S. Senate,,Virgil Bierschwale,REP,,,,5
-Milam,Precinct 210,U.S. Senate,,Undervotes,REP,,,,9
-Milam,Precinct 210,U.S. Senate,,Overvotes,REP,,,,0
+Milam,Precinct 210,U.S. Senate,,Under Votes,REP,,,,9
+Milam,Precinct 210,U.S. Senate,,Over Votes,REP,,,,0
 Milam,Precinct 210,U.S. House,17,Renee Swann,REP,,,,57
 Milam,Precinct 210,U.S. House,17,Kristen Alamo Rowin,REP,,,,4
 Milam,Precinct 210,U.S. House,17,Scott Bland,REP,,,,11
@@ -382,15 +382,15 @@ Milam,Precinct 210,U.S. House,17,Elianor Vessali,REP,,,,10
 Milam,Precinct 210,U.S. House,17,Ahmad Adnan,REP,,,,0
 Milam,Precinct 210,U.S. House,17,Pete Sessions,REP,,,,18
 Milam,Precinct 210,U.S. House,17,Todd Kent,REP,,,,5
-Milam,Precinct 210,U.S. House,17,Undervotes,REP,,,,14
-Milam,Precinct 210,U.S. House,17,Overvotes,REP,,,,0
+Milam,Precinct 210,U.S. House,17,Under Votes,REP,,,,14
+Milam,Precinct 210,U.S. House,17,Over Votes,REP,,,,0
 Milam,Precinct 210,Railroad Commissioner,,Ryan Sitton,REP,,,,60
 Milam,Precinct 210,Railroad Commissioner,,"James ""Jim"" Wright",REP,,,,68
-Milam,Precinct 210,Railroad Commissioner,,Undervotes,REP,,,,25
-Milam,Precinct 210,Railroad Commissioner,,Overvotes,REP,,,,0
+Milam,Precinct 210,Railroad Commissioner,,Under Votes,REP,,,,25
+Milam,Precinct 210,Railroad Commissioner,,Over Votes,REP,,,,0
 Milam,Precinct 210,State Representative,20,Terry M. Wilson,REP,,,,123
-Milam,Precinct 210,State Representative,20,Undervotes,REP,,,,30
-Milam,Precinct 210,State Representative,20,Overvotes,REP,,,,0
+Milam,Precinct 210,State Representative,20,Under Votes,REP,,,,30
+Milam,Precinct 210,State Representative,20,Over Votes,REP,,,,0
 Milam,Precinct 210,Ballots Cast,,,DEM,5,7,22,34
 Milam,Precinct 210,President,,Michael R. Bloomberg,DEM,,,,10
 Milam,Precinct 210,President,,Andrew Yang,DEM,,,,0
@@ -409,8 +409,8 @@ Milam,Precinct 210,President,,Joseph R. Biden,DEM,,,,15
 Milam,Precinct 210,President,,Julian Castro,DEM,,,,0
 Milam,Precinct 210,President,,Pete Buttigieg,DEM,,,,0
 Milam,Precinct 210,President,,Michael Bennet,DEM,,,,0
-Milam,Precinct 210,President,,Undervotes,DEM,,,,0
-Milam,Precinct 210,President,,Overvotes,DEM,,,,0
+Milam,Precinct 210,President,,Under Votes,DEM,,,,0
+Milam,Precinct 210,President,,Over Votes,DEM,,,,0
 Milam,Precinct 210,U.S. Senate,,"Annie ""Mama"" Garcia",DEM,,,,3
 Milam,Precinct 210,U.S. Senate,,"Mary ""MJ"" Hegar",DEM,,,,6
 Milam,Precinct 210,U.S. Senate,,Cristina Tzintzun Ramirez,DEM,,,,1
@@ -423,22 +423,22 @@ Milam,Precinct 210,U.S. Senate,,Amanda K. Edwards,DEM,,,,3
 Milam,Precinct 210,U.S. Senate,,Jack Daniel Foster Jr,DEM,,,,2
 Milam,Precinct 210,U.S. Senate,,Royce West,DEM,,,,2
 Milam,Precinct 210,U.S. Senate,,Sema Hernandez,DEM,,,,0
-Milam,Precinct 210,U.S. Senate,,Undervotes,DEM,,,,1
-Milam,Precinct 210,U.S. Senate,,Overvotes,DEM,,,,0
+Milam,Precinct 210,U.S. Senate,,Under Votes,DEM,,,,1
+Milam,Precinct 210,U.S. Senate,,Over Votes,DEM,,,,0
 Milam,Precinct 210,U.S. House,17,William Foster III,DEM,,,,9
 Milam,Precinct 210,U.S. House,17,David Anthony Jaramillo,DEM,,,,5
 Milam,Precinct 210,U.S. House,17,Rick Kennedy,DEM,,,,15
-Milam,Precinct 210,U.S. House,17,Undervotes,DEM,,,,5
-Milam,Precinct 210,U.S. House,17,Overvotes,DEM,,,,0
+Milam,Precinct 210,U.S. House,17,Under Votes,DEM,,,,5
+Milam,Precinct 210,U.S. House,17,Over Votes,DEM,,,,0
 Milam,Precinct 210,Railroad Commissioner,,Mark Watson,DEM,,,,16
 Milam,Precinct 210,Railroad Commissioner,,Kelly Stone,DEM,,,,6
 Milam,Precinct 210,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,,,,4
 Milam,Precinct 210,Railroad Commissioner,,Chrysta Castaneda,DEM,,,,5
-Milam,Precinct 210,Railroad Commissioner,,Undervotes,DEM,,,,3
-Milam,Precinct 210,Railroad Commissioner,,Overvotes,DEM,,,,0
+Milam,Precinct 210,Railroad Commissioner,,Under Votes,DEM,,,,3
+Milam,Precinct 210,Railroad Commissioner,,Over Votes,DEM,,,,0
 Milam,Precinct 210,State Representative,20,Jessica Tiedt,DEM,,,,30
-Milam,Precinct 210,State Representative,20,Undervotes,DEM,,,,4
-Milam,Precinct 210,State Representative,20,Overvotes,DEM,,,,0
+Milam,Precinct 210,State Representative,20,Under Votes,DEM,,,,4
+Milam,Precinct 210,State Representative,20,Over Votes,DEM,,,,0
 Milam,Precinct 212,Registered Voters,,,,,,,1951
 Milam,Precinct 212,Ballots Cast,,,REP,21,296,153,470
 Milam,Precinct 212,President,,Bob Ely,REP,,,,1
@@ -449,15 +449,15 @@ Milam,Precinct 212,President,,Donald J. Trump,REP,,,,422
 Milam,Precinct 212,President,,"Roque ""Rocky"" De La Fuente Guerra",REP,,,,1
 Milam,Precinct 212,President,,Bill Weld,REP,,,,3
 Milam,Precinct 212,President,,Uncommitted,REP,,,,22
-Milam,Precinct 212,President,,Undervotes,REP,,,,17
-Milam,Precinct 212,President,,Overvotes,REP,,,,0
+Milam,Precinct 212,President,,Under Votes,REP,,,,17
+Milam,Precinct 212,President,,Over Votes,REP,,,,0
 Milam,Precinct 212,U.S. Senate,,Mark Yancey,REP,,,,35
 Milam,Precinct 212,U.S. Senate,,John Cornyn,REP,,,,296
 Milam,Precinct 212,U.S. Senate,,John Anthony Castro,REP,,,,30
 Milam,Precinct 212,U.S. Senate,,Dwayne Stovall,REP,,,,59
 Milam,Precinct 212,U.S. Senate,,Virgil Bierschwale,REP,,,,2
-Milam,Precinct 212,U.S. Senate,,Undervotes,REP,,,,48
-Milam,Precinct 212,U.S. Senate,,Overvotes,REP,,,,0
+Milam,Precinct 212,U.S. Senate,,Under Votes,REP,,,,48
+Milam,Precinct 212,U.S. Senate,,Over Votes,REP,,,,0
 Milam,Precinct 212,U.S. House,17,Renee Swann,REP,,,,181
 Milam,Precinct 212,U.S. House,17,Kristen Alamo Rowin,REP,,,,11
 Milam,Precinct 212,U.S. House,17,Scott Bland,REP,,,,26
@@ -470,15 +470,15 @@ Milam,Precinct 212,U.S. House,17,Elianor Vessali,REP,,,,15
 Milam,Precinct 212,U.S. House,17,Ahmad Adnan,REP,,,,1
 Milam,Precinct 212,U.S. House,17,Pete Sessions,REP,,,,66
 Milam,Precinct 212,U.S. House,17,Todd Kent,REP,,,,15
-Milam,Precinct 212,U.S. House,17,Undervotes,REP,,,,44
-Milam,Precinct 212,U.S. House,17,Overvotes,REP,,,,0
+Milam,Precinct 212,U.S. House,17,Under Votes,REP,,,,44
+Milam,Precinct 212,U.S. House,17,Over Votes,REP,,,,0
 Milam,Precinct 212,Railroad Commissioner,,Ryan Sitton,REP,,,,154
 Milam,Precinct 212,Railroad Commissioner,,"James ""Jim"" Wright",REP,,,,228
-Milam,Precinct 212,Railroad Commissioner,,Undervotes,REP,,,,88
-Milam,Precinct 212,Railroad Commissioner,,Overvotes,REP,,,,0
+Milam,Precinct 212,Railroad Commissioner,,Under Votes,REP,,,,88
+Milam,Precinct 212,Railroad Commissioner,,Over Votes,REP,,,,0
 Milam,Precinct 212,State Representative,20,Terry M. Wilson,REP,,,,372
-Milam,Precinct 212,State Representative,20,Undervotes,REP,,,,98
-Milam,Precinct 212,State Representative,20,Overvotes,REP,,,,0
+Milam,Precinct 212,State Representative,20,Under Votes,REP,,,,98
+Milam,Precinct 212,State Representative,20,Over Votes,REP,,,,0
 Milam,Precinct 212,Ballots Cast,,,DEM,29,56,88,173
 Milam,Precinct 212,President,,Michael R. Bloomberg,DEM,,,,35
 Milam,Precinct 212,President,,Andrew Yang,DEM,,,,2
@@ -497,8 +497,8 @@ Milam,Precinct 212,President,,Joseph R. Biden,DEM,,,,53
 Milam,Precinct 212,President,,Julian Castro,DEM,,,,1
 Milam,Precinct 212,President,,Pete Buttigieg,DEM,,,,8
 Milam,Precinct 212,President,,Michael Bennet,DEM,,,,1
-Milam,Precinct 212,President,,Undervotes,DEM,,,,9
-Milam,Precinct 212,President,,Overvotes,DEM,,,,0
+Milam,Precinct 212,President,,Under Votes,DEM,,,,9
+Milam,Precinct 212,President,,Over Votes,DEM,,,,0
 Milam,Precinct 212,U.S. Senate,,"Annie ""Mama"" Garcia",DEM,,,,23
 Milam,Precinct 212,U.S. Senate,,"Mary ""MJ"" Hegar",DEM,,,,50
 Milam,Precinct 212,U.S. Senate,,Cristina Tzintzun Ramirez,DEM,,,,10
@@ -511,22 +511,22 @@ Milam,Precinct 212,U.S. Senate,,Amanda K. Edwards,DEM,,,,7
 Milam,Precinct 212,U.S. Senate,,Jack Daniel Foster Jr,DEM,,,,4
 Milam,Precinct 212,U.S. Senate,,Royce West,DEM,,,,10
 Milam,Precinct 212,U.S. Senate,,Sema Hernandez,DEM,,,,6
-Milam,Precinct 212,U.S. Senate,,Undervotes,DEM,,,,25
-Milam,Precinct 212,U.S. Senate,,Overvotes,DEM,,,,0
+Milam,Precinct 212,U.S. Senate,,Under Votes,DEM,,,,25
+Milam,Precinct 212,U.S. Senate,,Over Votes,DEM,,,,0
 Milam,Precinct 212,U.S. House,17,William Foster III,DEM,,,,35
 Milam,Precinct 212,U.S. House,17,David Anthony Jaramillo,DEM,,,,48
 Milam,Precinct 212,U.S. House,17,Rick Kennedy,DEM,,,,68
-Milam,Precinct 212,U.S. House,17,Undervotes,DEM,,,,22
-Milam,Precinct 212,U.S. House,17,Overvotes,DEM,,,,0
+Milam,Precinct 212,U.S. House,17,Under Votes,DEM,,,,22
+Milam,Precinct 212,U.S. House,17,Over Votes,DEM,,,,0
 Milam,Precinct 212,Railroad Commissioner,,Mark Watson,DEM,,,,40
 Milam,Precinct 212,Railroad Commissioner,,Kelly Stone,DEM,,,,34
 Milam,Precinct 212,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,,,,46
 Milam,Precinct 212,Railroad Commissioner,,Chrysta Castaneda,DEM,,,,35
-Milam,Precinct 212,Railroad Commissioner,,Undervotes,DEM,,,,18
-Milam,Precinct 212,Railroad Commissioner,,Overvotes,DEM,,,,0
+Milam,Precinct 212,Railroad Commissioner,,Under Votes,DEM,,,,18
+Milam,Precinct 212,Railroad Commissioner,,Over Votes,DEM,,,,0
 Milam,Precinct 212,State Representative,20,Jessica Tiedt,DEM,,,,147
-Milam,Precinct 212,State Representative,20,Undervotes,DEM,,,,26
-Milam,Precinct 212,State Representative,20,Overvotes,DEM,,,,0
+Milam,Precinct 212,State Representative,20,Under Votes,DEM,,,,26
+Milam,Precinct 212,State Representative,20,Over Votes,DEM,,,,0
 Milam,Precinct 316,Registered Voters,,,,,,,661
 Milam,Precinct 316,Ballots Cast,,,REP,12,72,149,233
 Milam,Precinct 316,President,,Bob Ely,REP,,,,2
@@ -537,15 +537,15 @@ Milam,Precinct 316,President,,Donald J. Trump,REP,,,,224
 Milam,Precinct 316,President,,"Roque ""Rocky"" De La Fuente Guerra",REP,,,,0
 Milam,Precinct 316,President,,Bill Weld,REP,,,,1
 Milam,Precinct 316,President,,Uncommitted,REP,,,,3
-Milam,Precinct 316,President,,Undervotes,REP,,,,2
-Milam,Precinct 316,President,,Overvotes,REP,,,,0
+Milam,Precinct 316,President,,Under Votes,REP,,,,2
+Milam,Precinct 316,President,,Over Votes,REP,,,,0
 Milam,Precinct 316,U.S. Senate,,Mark Yancey,REP,,,,35
 Milam,Precinct 316,U.S. Senate,,John Cornyn,REP,,,,141
 Milam,Precinct 316,U.S. Senate,,John Anthony Castro,REP,,,,7
 Milam,Precinct 316,U.S. Senate,,Dwayne Stovall,REP,,,,30
 Milam,Precinct 316,U.S. Senate,,Virgil Bierschwale,REP,,,,5
-Milam,Precinct 316,U.S. Senate,,Undervotes,REP,,,,15
-Milam,Precinct 316,U.S. Senate,,Overvotes,REP,,,,0
+Milam,Precinct 316,U.S. Senate,,Under Votes,REP,,,,15
+Milam,Precinct 316,U.S. Senate,,Over Votes,REP,,,,0
 Milam,Precinct 316,U.S. House,17,Renee Swann,REP,,,,73
 Milam,Precinct 316,U.S. House,17,Kristen Alamo Rowin,REP,,,,4
 Milam,Precinct 316,U.S. House,17,Scott Bland,REP,,,,16
@@ -558,15 +558,15 @@ Milam,Precinct 316,U.S. House,17,Elianor Vessali,REP,,,,8
 Milam,Precinct 316,U.S. House,17,Ahmad Adnan,REP,,,,0
 Milam,Precinct 316,U.S. House,17,Pete Sessions,REP,,,,51
 Milam,Precinct 316,U.S. House,17,Todd Kent,REP,,,,15
-Milam,Precinct 316,U.S. House,17,Undervotes,REP,,,,18
-Milam,Precinct 316,U.S. House,17,Overvotes,REP,,,,0
+Milam,Precinct 316,U.S. House,17,Under Votes,REP,,,,18
+Milam,Precinct 316,U.S. House,17,Over Votes,REP,,,,0
 Milam,Precinct 316,Railroad Commissioner,,Ryan Sitton,REP,,,,75
 Milam,Precinct 316,Railroad Commissioner,,"James ""Jim"" Wright",REP,,,,136
-Milam,Precinct 316,Railroad Commissioner,,Undervotes,REP,,,,22
-Milam,Precinct 316,Railroad Commissioner,,Overvotes,REP,,,,0
+Milam,Precinct 316,Railroad Commissioner,,Under Votes,REP,,,,22
+Milam,Precinct 316,Railroad Commissioner,,Over Votes,REP,,,,0
 Milam,Precinct 316,State Representative,20,Terry M. Wilson,REP,,,,212
-Milam,Precinct 316,State Representative,20,Undervotes,REP,,,,21
-Milam,Precinct 316,State Representative,20,Overvotes,REP,,,,0
+Milam,Precinct 316,State Representative,20,Under Votes,REP,,,,21
+Milam,Precinct 316,State Representative,20,Over Votes,REP,,,,0
 Milam,Precinct 316,Ballots Cast,,,DEM,7,14,39,60
 Milam,Precinct 316,President,,Michael R. Bloomberg,DEM,,,,9
 Milam,Precinct 316,President,,Andrew Yang,DEM,,,,1
@@ -585,8 +585,8 @@ Milam,Precinct 316,President,,Joseph R. Biden,DEM,,,,28
 Milam,Precinct 316,President,,Julian Castro,DEM,,,,0
 Milam,Precinct 316,President,,Pete Buttigieg,DEM,,,,0
 Milam,Precinct 316,President,,Michael Bennet,DEM,,,,0
-Milam,Precinct 316,President,,Undervotes,DEM,,,,0
-Milam,Precinct 316,President,,Overvotes,DEM,,,,0
+Milam,Precinct 316,President,,Under Votes,DEM,,,,0
+Milam,Precinct 316,President,,Over Votes,DEM,,,,0
 Milam,Precinct 316,U.S. Senate,,"Annie ""Mama"" Garcia",DEM,,,,10
 Milam,Precinct 316,U.S. Senate,,"Mary ""MJ"" Hegar",DEM,,,,19
 Milam,Precinct 316,U.S. Senate,,Cristina Tzintzun Ramirez,DEM,,,,3
@@ -599,22 +599,22 @@ Milam,Precinct 316,U.S. Senate,,Amanda K. Edwards,DEM,,,,0
 Milam,Precinct 316,U.S. Senate,,Jack Daniel Foster Jr,DEM,,,,1
 Milam,Precinct 316,U.S. Senate,,Royce West,DEM,,,,4
 Milam,Precinct 316,U.S. Senate,,Sema Hernandez,DEM,,,,0
-Milam,Precinct 316,U.S. Senate,,Undervotes,DEM,,,,8
-Milam,Precinct 316,U.S. Senate,,Overvotes,DEM,,,,0
+Milam,Precinct 316,U.S. Senate,,Under Votes,DEM,,,,8
+Milam,Precinct 316,U.S. Senate,,Over Votes,DEM,,,,0
 Milam,Precinct 316,U.S. House,17,William Foster III,DEM,,,,21
 Milam,Precinct 316,U.S. House,17,David Anthony Jaramillo,DEM,,,,17
 Milam,Precinct 316,U.S. House,17,Rick Kennedy,DEM,,,,18
-Milam,Precinct 316,U.S. House,17,Undervotes,DEM,,,,4
-Milam,Precinct 316,U.S. House,17,Overvotes,DEM,,,,0
+Milam,Precinct 316,U.S. House,17,Under Votes,DEM,,,,4
+Milam,Precinct 316,U.S. House,17,Over Votes,DEM,,,,0
 Milam,Precinct 316,Railroad Commissioner,,Mark Watson,DEM,,,,16
 Milam,Precinct 316,Railroad Commissioner,,Kelly Stone,DEM,,,,17
 Milam,Precinct 316,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,,,,12
 Milam,Precinct 316,Railroad Commissioner,,Chrysta Castaneda,DEM,,,,10
-Milam,Precinct 316,Railroad Commissioner,,Undervotes,DEM,,,,5
-Milam,Precinct 316,Railroad Commissioner,,Overvotes,DEM,,,,0
+Milam,Precinct 316,Railroad Commissioner,,Under Votes,DEM,,,,5
+Milam,Precinct 316,Railroad Commissioner,,Over Votes,DEM,,,,0
 Milam,Precinct 316,State Representative,20,Jessica Tiedt,DEM,,,,55
-Milam,Precinct 316,State Representative,20,Undervotes,DEM,,,,5
-Milam,Precinct 316,State Representative,20,Overvotes,DEM,,,,0
+Milam,Precinct 316,State Representative,20,Under Votes,DEM,,,,5
+Milam,Precinct 316,State Representative,20,Over Votes,DEM,,,,0
 Milam,Precinct 317,Registered Voters,,,,,,,1118
 Milam,Precinct 317,Ballots Cast,,,REP,17,187,241,445
 Milam,Precinct 317,President,,Bob Ely,REP,,,,1
@@ -625,15 +625,15 @@ Milam,Precinct 317,President,,Donald J. Trump,REP,,,,410
 Milam,Precinct 317,President,,"Roque ""Rocky"" De La Fuente Guerra",REP,,,,4
 Milam,Precinct 317,President,,Bill Weld,REP,,,,6
 Milam,Precinct 317,President,,Uncommitted,REP,,,,11
-Milam,Precinct 317,President,,Undervotes,REP,,,,7
-Milam,Precinct 317,President,,Overvotes,REP,,,,0
+Milam,Precinct 317,President,,Under Votes,REP,,,,7
+Milam,Precinct 317,President,,Over Votes,REP,,,,0
 Milam,Precinct 317,U.S. Senate,,Mark Yancey,REP,,,,44
 Milam,Precinct 317,U.S. Senate,,John Cornyn,REP,,,,293
 Milam,Precinct 317,U.S. Senate,,John Anthony Castro,REP,,,,21
 Milam,Precinct 317,U.S. Senate,,Dwayne Stovall,REP,,,,40
 Milam,Precinct 317,U.S. Senate,,Virgil Bierschwale,REP,,,,8
-Milam,Precinct 317,U.S. Senate,,Undervotes,REP,,,,39
-Milam,Precinct 317,U.S. Senate,,Overvotes,REP,,,,0
+Milam,Precinct 317,U.S. Senate,,Under Votes,REP,,,,39
+Milam,Precinct 317,U.S. Senate,,Over Votes,REP,,,,0
 Milam,Precinct 317,U.S. House,17,Renee Swann,REP,,,,151
 Milam,Precinct 317,U.S. House,17,Kristen Alamo Rowin,REP,,,,8
 Milam,Precinct 317,U.S. House,17,Scott Bland,REP,,,,34
@@ -646,15 +646,15 @@ Milam,Precinct 317,U.S. House,17,Elianor Vessali,REP,,,,16
 Milam,Precinct 317,U.S. House,17,Ahmad Adnan,REP,,,,1
 Milam,Precinct 317,U.S. House,17,Pete Sessions,REP,,,,79
 Milam,Precinct 317,U.S. House,17,Todd Kent,REP,,,,9
-Milam,Precinct 317,U.S. House,17,Undervotes,REP,,,,45
-Milam,Precinct 317,U.S. House,17,Overvotes,REP,,,,0
+Milam,Precinct 317,U.S. House,17,Under Votes,REP,,,,45
+Milam,Precinct 317,U.S. House,17,Over Votes,REP,,,,0
 Milam,Precinct 317,Railroad Commissioner,,Ryan Sitton,REP,,,,138
 Milam,Precinct 317,Railroad Commissioner,,"James ""Jim"" Wright",REP,,,,228
-Milam,Precinct 317,Railroad Commissioner,,Undervotes,REP,,,,79
-Milam,Precinct 317,Railroad Commissioner,,Overvotes,REP,,,,0
+Milam,Precinct 317,Railroad Commissioner,,Under Votes,REP,,,,79
+Milam,Precinct 317,Railroad Commissioner,,Over Votes,REP,,,,0
 Milam,Precinct 317,State Representative,20,Terry M. Wilson,REP,,,,366
-Milam,Precinct 317,State Representative,20,Undervotes,REP,,,,79
-Milam,Precinct 317,State Representative,20,Overvotes,REP,,,,0
+Milam,Precinct 317,State Representative,20,Under Votes,REP,,,,79
+Milam,Precinct 317,State Representative,20,Over Votes,REP,,,,0
 Milam,Precinct 317,Ballots Cast,,,DEM,8,22,29,59
 Milam,Precinct 317,President,,Michael R. Bloomberg,DEM,,,,8
 Milam,Precinct 317,President,,Andrew Yang,DEM,,,,0
@@ -673,8 +673,8 @@ Milam,Precinct 317,President,,Joseph R. Biden,DEM,,,,23
 Milam,Precinct 317,President,,Julian Castro,DEM,,,,0
 Milam,Precinct 317,President,,Pete Buttigieg,DEM,,,,1
 Milam,Precinct 317,President,,Michael Bennet,DEM,,,,0
-Milam,Precinct 317,President,,Undervotes,DEM,,,,1
-Milam,Precinct 317,President,,Overvotes,DEM,,,,0
+Milam,Precinct 317,President,,Under Votes,DEM,,,,1
+Milam,Precinct 317,President,,Over Votes,DEM,,,,0
 Milam,Precinct 317,U.S. Senate,,"Annie ""Mama"" Garcia",DEM,,,,7
 Milam,Precinct 317,U.S. Senate,,"Mary ""MJ"" Hegar",DEM,,,,14
 Milam,Precinct 317,U.S. Senate,,Cristina Tzintzun Ramirez,DEM,,,,7
@@ -687,22 +687,22 @@ Milam,Precinct 317,U.S. Senate,,Amanda K. Edwards,DEM,,,,2
 Milam,Precinct 317,U.S. Senate,,Jack Daniel Foster Jr,DEM,,,,0
 Milam,Precinct 317,U.S. Senate,,Royce West,DEM,,,,6
 Milam,Precinct 317,U.S. Senate,,Sema Hernandez,DEM,,,,1
-Milam,Precinct 317,U.S. Senate,,Undervotes,DEM,,,,5
-Milam,Precinct 317,U.S. Senate,,Overvotes,DEM,,,,0
+Milam,Precinct 317,U.S. Senate,,Under Votes,DEM,,,,5
+Milam,Precinct 317,U.S. Senate,,Over Votes,DEM,,,,0
 Milam,Precinct 317,U.S. House,17,William Foster III,DEM,,,,10
 Milam,Precinct 317,U.S. House,17,David Anthony Jaramillo,DEM,,,,12
 Milam,Precinct 317,U.S. House,17,Rick Kennedy,DEM,,,,34
-Milam,Precinct 317,U.S. House,17,Undervotes,DEM,,,,3
-Milam,Precinct 317,U.S. House,17,Overvotes,DEM,,,,0
+Milam,Precinct 317,U.S. House,17,Under Votes,DEM,,,,3
+Milam,Precinct 317,U.S. House,17,Over Votes,DEM,,,,0
 Milam,Precinct 317,Railroad Commissioner,,Mark Watson,DEM,,,,13
 Milam,Precinct 317,Railroad Commissioner,,Kelly Stone,DEM,,,,14
 Milam,Precinct 317,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,,,,16
 Milam,Precinct 317,Railroad Commissioner,,Chrysta Castaneda,DEM,,,,12
-Milam,Precinct 317,Railroad Commissioner,,Undervotes,DEM,,,,4
-Milam,Precinct 317,Railroad Commissioner,,Overvotes,DEM,,,,0
+Milam,Precinct 317,Railroad Commissioner,,Under Votes,DEM,,,,4
+Milam,Precinct 317,Railroad Commissioner,,Over Votes,DEM,,,,0
 Milam,Precinct 317,State Representative,20,Jessica Tiedt,DEM,,,,48
-Milam,Precinct 317,State Representative,20,Undervotes,DEM,,,,11
-Milam,Precinct 317,State Representative,20,Overvotes,DEM,,,,0
+Milam,Precinct 317,State Representative,20,Under Votes,DEM,,,,11
+Milam,Precinct 317,State Representative,20,Over Votes,DEM,,,,0
 Milam,Precinct 318,Registered Voters,,,,,,,2326
 Milam,Precinct 318,Ballots Cast,,,REP,25,314,288,627
 Milam,Precinct 318,President,,Bob Ely,REP,,,,5
@@ -713,15 +713,15 @@ Milam,Precinct 318,President,,Donald J. Trump,REP,,,,567
 Milam,Precinct 318,President,,"Roque ""Rocky"" De La Fuente Guerra",REP,,,,3
 Milam,Precinct 318,President,,Bill Weld,REP,,,,3
 Milam,Precinct 318,President,,Uncommitted,REP,,,,26
-Milam,Precinct 318,President,,Undervotes,REP,,,,12
-Milam,Precinct 318,President,,Overvotes,REP,,,,0
+Milam,Precinct 318,President,,Under Votes,REP,,,,12
+Milam,Precinct 318,President,,Over Votes,REP,,,,0
 Milam,Precinct 318,U.S. Senate,,Mark Yancey,REP,,,,47
 Milam,Precinct 318,U.S. Senate,,John Cornyn,REP,,,,443
 Milam,Precinct 318,U.S. Senate,,John Anthony Castro,REP,,,,26
 Milam,Precinct 318,U.S. Senate,,Dwayne Stovall,REP,,,,47
 Milam,Precinct 318,U.S. Senate,,Virgil Bierschwale,REP,,,,4
-Milam,Precinct 318,U.S. Senate,,Undervotes,REP,,,,60
-Milam,Precinct 318,U.S. Senate,,Overvotes,REP,,,,0
+Milam,Precinct 318,U.S. Senate,,Under Votes,REP,,,,60
+Milam,Precinct 318,U.S. Senate,,Over Votes,REP,,,,0
 Milam,Precinct 318,U.S. House,17,Renee Swann,REP,,,,207
 Milam,Precinct 318,U.S. House,17,Kristen Alamo Rowin,REP,,,,16
 Milam,Precinct 318,U.S. House,17,Scott Bland,REP,,,,51
@@ -734,15 +734,15 @@ Milam,Precinct 318,U.S. House,17,Elianor Vessali,REP,,,,18
 Milam,Precinct 318,U.S. House,17,Ahmad Adnan,REP,,,,2
 Milam,Precinct 318,U.S. House,17,Pete Sessions,REP,,,,88
 Milam,Precinct 318,U.S. House,17,Todd Kent,REP,,,,21
-Milam,Precinct 318,U.S. House,17,Undervotes,REP,,,,57
-Milam,Precinct 318,U.S. House,17,Overvotes,REP,,,,0
+Milam,Precinct 318,U.S. House,17,Under Votes,REP,,,,57
+Milam,Precinct 318,U.S. House,17,Over Votes,REP,,,,0
 Milam,Precinct 318,Railroad Commissioner,,Ryan Sitton,REP,,,,177
 Milam,Precinct 318,Railroad Commissioner,,"James ""Jim"" Wright",REP,,,,352
-Milam,Precinct 318,Railroad Commissioner,,Undervotes,REP,,,,98
-Milam,Precinct 318,Railroad Commissioner,,Overvotes,REP,,,,0
+Milam,Precinct 318,Railroad Commissioner,,Under Votes,REP,,,,98
+Milam,Precinct 318,Railroad Commissioner,,Over Votes,REP,,,,0
 Milam,Precinct 318,State Representative,20,Terry M. Wilson,REP,,,,525
-Milam,Precinct 318,State Representative,20,Undervotes,REP,,,,102
-Milam,Precinct 318,State Representative,20,Overvotes,REP,,,,0
+Milam,Precinct 318,State Representative,20,Under Votes,REP,,,,102
+Milam,Precinct 318,State Representative,20,Over Votes,REP,,,,0
 Milam,Precinct 318,Ballots Cast,,,DEM,34,60,98,192
 Milam,Precinct 318,President,,Michael R. Bloomberg,DEM,,,,30
 Milam,Precinct 318,President,,Andrew Yang,DEM,,,,2
@@ -761,8 +761,8 @@ Milam,Precinct 318,President,,Joseph R. Biden,DEM,,,,72
 Milam,Precinct 318,President,,Julian Castro,DEM,,,,0
 Milam,Precinct 318,President,,Pete Buttigieg,DEM,,,,9
 Milam,Precinct 318,President,,Michael Bennet,DEM,,,,1
-Milam,Precinct 318,President,,Undervotes,DEM,,,,7
-Milam,Precinct 318,President,,Overvotes,DEM,,,,0
+Milam,Precinct 318,President,,Under Votes,DEM,,,,7
+Milam,Precinct 318,President,,Over Votes,DEM,,,,0
 Milam,Precinct 318,U.S. Senate,,"Annie ""Mama"" Garcia",DEM,,,,35
 Milam,Precinct 318,U.S. Senate,,"Mary ""MJ"" Hegar",DEM,,,,69
 Milam,Precinct 318,U.S. Senate,,Cristina Tzintzun Ramirez,DEM,,,,12
@@ -775,22 +775,22 @@ Milam,Precinct 318,U.S. Senate,,Amanda K. Edwards,DEM,,,,9
 Milam,Precinct 318,U.S. Senate,,Jack Daniel Foster Jr,DEM,,,,0
 Milam,Precinct 318,U.S. Senate,,Royce West,DEM,,,,3
 Milam,Precinct 318,U.S. Senate,,Sema Hernandez,DEM,,,,4
-Milam,Precinct 318,U.S. Senate,,Undervotes,DEM,,,,15
-Milam,Precinct 318,U.S. Senate,,Overvotes,DEM,,,,0
+Milam,Precinct 318,U.S. Senate,,Under Votes,DEM,,,,15
+Milam,Precinct 318,U.S. Senate,,Over Votes,DEM,,,,0
 Milam,Precinct 318,U.S. House,17,William Foster III,DEM,,,,33
 Milam,Precinct 318,U.S. House,17,David Anthony Jaramillo,DEM,,,,53
 Milam,Precinct 318,U.S. House,17,Rick Kennedy,DEM,,,,87
-Milam,Precinct 318,U.S. House,17,Undervotes,DEM,,,,19
-Milam,Precinct 318,U.S. House,17,Overvotes,DEM,,,,0
+Milam,Precinct 318,U.S. House,17,Under Votes,DEM,,,,19
+Milam,Precinct 318,U.S. House,17,Over Votes,DEM,,,,0
 Milam,Precinct 318,Railroad Commissioner,,Mark Watson,DEM,,,,60
 Milam,Precinct 318,Railroad Commissioner,,Kelly Stone,DEM,,,,50
 Milam,Precinct 318,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,,,,31
 Milam,Precinct 318,Railroad Commissioner,,Chrysta Castaneda,DEM,,,,30
-Milam,Precinct 318,Railroad Commissioner,,Undervotes,DEM,,,,21
-Milam,Precinct 318,Railroad Commissioner,,Overvotes,DEM,,,,0
+Milam,Precinct 318,Railroad Commissioner,,Under Votes,DEM,,,,21
+Milam,Precinct 318,Railroad Commissioner,,Over Votes,DEM,,,,0
 Milam,Precinct 318,State Representative,20,Jessica Tiedt,DEM,,,,166
-Milam,Precinct 318,State Representative,20,Undervotes,DEM,,,,26
-Milam,Precinct 318,State Representative,20,Overvotes,DEM,,,,0
+Milam,Precinct 318,State Representative,20,Under Votes,DEM,,,,26
+Milam,Precinct 318,State Representative,20,Over Votes,DEM,,,,0
 Milam,Precinct 419,Registered Voters,,,,,,,1959
 Milam,Precinct 419,Ballots Cast,,,REP,7,197,203,407
 Milam,Precinct 419,President,,Bob Ely,REP,,,,5
@@ -801,15 +801,15 @@ Milam,Precinct 419,President,,Donald J. Trump,REP,,,,369
 Milam,Precinct 419,President,,"Roque ""Rocky"" De La Fuente Guerra",REP,,,,2
 Milam,Precinct 419,President,,Bill Weld,REP,,,,5
 Milam,Precinct 419,President,,Uncommitted,REP,,,,12
-Milam,Precinct 419,President,,Undervotes,REP,,,,4
-Milam,Precinct 419,President,,Overvotes,REP,,,,0
+Milam,Precinct 419,President,,Under Votes,REP,,,,4
+Milam,Precinct 419,President,,Over Votes,REP,,,,0
 Milam,Precinct 419,U.S. Senate,,Mark Yancey,REP,,,,34
 Milam,Precinct 419,U.S. Senate,,John Cornyn,REP,,,,293
 Milam,Precinct 419,U.S. Senate,,John Anthony Castro,REP,,,,21
 Milam,Precinct 419,U.S. Senate,,Dwayne Stovall,REP,,,,27
 Milam,Precinct 419,U.S. Senate,,Virgil Bierschwale,REP,,,,7
-Milam,Precinct 419,U.S. Senate,,Undervotes,REP,,,,25
-Milam,Precinct 419,U.S. Senate,,Overvotes,REP,,,,0
+Milam,Precinct 419,U.S. Senate,,Under Votes,REP,,,,25
+Milam,Precinct 419,U.S. Senate,,Over Votes,REP,,,,0
 Milam,Precinct 419,U.S. House,17,Renee Swann,REP,,,,150
 Milam,Precinct 419,U.S. House,17,Kristen Alamo Rowin,REP,,,,15
 Milam,Precinct 419,U.S. House,17,Scott Bland,REP,,,,30
@@ -822,15 +822,15 @@ Milam,Precinct 419,U.S. House,17,Elianor Vessali,REP,,,,8
 Milam,Precinct 419,U.S. House,17,Ahmad Adnan,REP,,,,0
 Milam,Precinct 419,U.S. House,17,Pete Sessions,REP,,,,65
 Milam,Precinct 419,U.S. House,17,Todd Kent,REP,,,,7
-Milam,Precinct 419,U.S. House,17,Undervotes,REP,,,,28
-Milam,Precinct 419,U.S. House,17,Overvotes,REP,,,,0
+Milam,Precinct 419,U.S. House,17,Under Votes,REP,,,,28
+Milam,Precinct 419,U.S. House,17,Over Votes,REP,,,,0
 Milam,Precinct 419,Railroad Commissioner,,Ryan Sitton,REP,,,,104
 Milam,Precinct 419,Railroad Commissioner,,"James ""Jim"" Wright",REP,,,,250
-Milam,Precinct 419,Railroad Commissioner,,Undervotes,REP,,,,53
-Milam,Precinct 419,Railroad Commissioner,,Overvotes,REP,,,,0
+Milam,Precinct 419,Railroad Commissioner,,Under Votes,REP,,,,53
+Milam,Precinct 419,Railroad Commissioner,,Over Votes,REP,,,,0
 Milam,Precinct 419,State Representative,20,Terry M. Wilson,REP,,,,352
-Milam,Precinct 419,State Representative,20,Undervotes,REP,,,,55
-Milam,Precinct 419,State Representative,20,Overvotes,REP,,,,0
+Milam,Precinct 419,State Representative,20,Under Votes,REP,,,,55
+Milam,Precinct 419,State Representative,20,Over Votes,REP,,,,0
 Milam,Precinct 419,Ballots Cast,,,DEM,25,43,86,154
 Milam,Precinct 419,President,,Michael R. Bloomberg,DEM,,,,19
 Milam,Precinct 419,President,,Andrew Yang,DEM,,,,0
@@ -849,8 +849,8 @@ Milam,Precinct 419,President,,Joseph R. Biden,DEM,,,,74
 Milam,Precinct 419,President,,Julian Castro,DEM,,,,0
 Milam,Precinct 419,President,,Pete Buttigieg,DEM,,,,7
 Milam,Precinct 419,President,,Michael Bennet,DEM,,,,0
-Milam,Precinct 419,President,,Undervotes,DEM,,,,8
-Milam,Precinct 419,President,,Overvotes,DEM,,,,0
+Milam,Precinct 419,President,,Under Votes,DEM,,,,8
+Milam,Precinct 419,President,,Over Votes,DEM,,,,0
 Milam,Precinct 419,U.S. Senate,,"Annie ""Mama"" Garcia",DEM,,,,24
 Milam,Precinct 419,U.S. Senate,,"Mary ""MJ"" Hegar",DEM,,,,56
 Milam,Precinct 419,U.S. Senate,,Cristina Tzintzun Ramirez,DEM,,,,10
@@ -863,22 +863,22 @@ Milam,Precinct 419,U.S. Senate,,Amanda K. Edwards,DEM,,,,5
 Milam,Precinct 419,U.S. Senate,,Jack Daniel Foster Jr,DEM,,,,0
 Milam,Precinct 419,U.S. Senate,,Royce West,DEM,,,,2
 Milam,Precinct 419,U.S. Senate,,Sema Hernandez,DEM,,,,6
-Milam,Precinct 419,U.S. Senate,,Undervotes,DEM,,,,19
-Milam,Precinct 419,U.S. Senate,,Overvotes,DEM,,,,0
+Milam,Precinct 419,U.S. Senate,,Under Votes,DEM,,,,19
+Milam,Precinct 419,U.S. Senate,,Over Votes,DEM,,,,0
 Milam,Precinct 419,U.S. House,17,William Foster III,DEM,,,,32
 Milam,Precinct 419,U.S. House,17,David Anthony Jaramillo,DEM,,,,40
 Milam,Precinct 419,U.S. House,17,Rick Kennedy,DEM,,,,59
-Milam,Precinct 419,U.S. House,17,Undervotes,DEM,,,,23
-Milam,Precinct 419,U.S. House,17,Overvotes,DEM,,,,0
+Milam,Precinct 419,U.S. House,17,Under Votes,DEM,,,,23
+Milam,Precinct 419,U.S. House,17,Over Votes,DEM,,,,0
 Milam,Precinct 419,Railroad Commissioner,,Mark Watson,DEM,,,,43
 Milam,Precinct 419,Railroad Commissioner,,Kelly Stone,DEM,,,,24
 Milam,Precinct 419,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,,,,42
 Milam,Precinct 419,Railroad Commissioner,,Chrysta Castaneda,DEM,,,,24
-Milam,Precinct 419,Railroad Commissioner,,Undervotes,DEM,,,,21
-Milam,Precinct 419,Railroad Commissioner,,Overvotes,DEM,,,,0
+Milam,Precinct 419,Railroad Commissioner,,Under Votes,DEM,,,,21
+Milam,Precinct 419,Railroad Commissioner,,Over Votes,DEM,,,,0
 Milam,Precinct 419,State Representative,20,Jessica Tiedt,DEM,,,,126
-Milam,Precinct 419,State Representative,20,Undervotes,DEM,,,,28
-Milam,Precinct 419,State Representative,20,Overvotes,DEM,,,,0
+Milam,Precinct 419,State Representative,20,Under Votes,DEM,,,,28
+Milam,Precinct 419,State Representative,20,Over Votes,DEM,,,,0
 Milam,Precinct 420,Registered Voters,,,,,,,2081
 Milam,Precinct 420,Ballots Cast,,,REP,14,216,200,430
 Milam,Precinct 420,President,,Bob Ely,REP,,,,1
@@ -889,15 +889,15 @@ Milam,Precinct 420,President,,Donald J. Trump,REP,,,,407
 Milam,Precinct 420,President,,"Roque ""Rocky"" De La Fuente Guerra",REP,,,,1
 Milam,Precinct 420,President,,Bill Weld,REP,,,,5
 Milam,Precinct 420,President,,Uncommitted,REP,,,,8
-Milam,Precinct 420,President,,Undervotes,REP,,,,3
-Milam,Precinct 420,President,,Overvotes,REP,,,,0
+Milam,Precinct 420,President,,Under Votes,REP,,,,3
+Milam,Precinct 420,President,,Over Votes,REP,,,,0
 Milam,Precinct 420,U.S. Senate,,Mark Yancey,REP,,,,29
 Milam,Precinct 420,U.S. Senate,,John Cornyn,REP,,,,309
 Milam,Precinct 420,U.S. Senate,,John Anthony Castro,REP,,,,9
 Milam,Precinct 420,U.S. Senate,,Dwayne Stovall,REP,,,,52
 Milam,Precinct 420,U.S. Senate,,Virgil Bierschwale,REP,,,,5
-Milam,Precinct 420,U.S. Senate,,Undervotes,REP,,,,26
-Milam,Precinct 420,U.S. Senate,,Overvotes,REP,,,,0
+Milam,Precinct 420,U.S. Senate,,Under Votes,REP,,,,26
+Milam,Precinct 420,U.S. Senate,,Over Votes,REP,,,,0
 Milam,Precinct 420,U.S. House,17,Renee Swann,REP,,,,119
 Milam,Precinct 420,U.S. House,17,Kristen Alamo Rowin,REP,,,,9
 Milam,Precinct 420,U.S. House,17,Scott Bland,REP,,,,38
@@ -910,15 +910,15 @@ Milam,Precinct 420,U.S. House,17,Elianor Vessali,REP,,,,18
 Milam,Precinct 420,U.S. House,17,Ahmad Adnan,REP,,,,0
 Milam,Precinct 420,U.S. House,17,Pete Sessions,REP,,,,92
 Milam,Precinct 420,U.S. House,17,Todd Kent,REP,,,,17
-Milam,Precinct 420,U.S. House,17,Undervotes,REP,,,,47
-Milam,Precinct 420,U.S. House,17,Overvotes,REP,,,,0
+Milam,Precinct 420,U.S. House,17,Under Votes,REP,,,,47
+Milam,Precinct 420,U.S. House,17,Over Votes,REP,,,,0
 Milam,Precinct 420,Railroad Commissioner,,Ryan Sitton,REP,,,,123
 Milam,Precinct 420,Railroad Commissioner,,"James ""Jim"" Wright",REP,,,,237
-Milam,Precinct 420,Railroad Commissioner,,Undervotes,REP,,,,70
-Milam,Precinct 420,Railroad Commissioner,,Overvotes,REP,,,,0
+Milam,Precinct 420,Railroad Commissioner,,Under Votes,REP,,,,70
+Milam,Precinct 420,Railroad Commissioner,,Over Votes,REP,,,,0
 Milam,Precinct 420,State Representative,20,Terry M. Wilson,REP,,,,375
-Milam,Precinct 420,State Representative,20,Undervotes,REP,,,,55
-Milam,Precinct 420,State Representative,20,Overvotes,REP,,,,0
+Milam,Precinct 420,State Representative,20,Under Votes,REP,,,,55
+Milam,Precinct 420,State Representative,20,Over Votes,REP,,,,0
 Milam,Precinct 420,Ballots Cast,,,DEM,14,54,82,150
 Milam,Precinct 420,President,,Michael R. Bloomberg,DEM,,,,23
 Milam,Precinct 420,President,,Andrew Yang,DEM,,,,1
@@ -937,8 +937,8 @@ Milam,Precinct 420,President,,Joseph R. Biden,DEM,,,,63
 Milam,Precinct 420,President,,Julian Castro,DEM,,,,0
 Milam,Precinct 420,President,,Pete Buttigieg,DEM,,,,4
 Milam,Precinct 420,President,,Michael Bennet,DEM,,,,0
-Milam,Precinct 420,President,,Undervotes,DEM,,,,4
-Milam,Precinct 420,President,,Overvotes,DEM,,,,0
+Milam,Precinct 420,President,,Under Votes,DEM,,,,4
+Milam,Precinct 420,President,,Over Votes,DEM,,,,0
 Milam,Precinct 420,U.S. Senate,,"Annie ""Mama"" Garcia",DEM,,,,11
 Milam,Precinct 420,U.S. Senate,,"Mary ""MJ"" Hegar",DEM,,,,84
 Milam,Precinct 420,U.S. Senate,,Cristina Tzintzun Ramirez,DEM,,,,6
@@ -951,19 +951,19 @@ Milam,Precinct 420,U.S. Senate,,Amanda K. Edwards,DEM,,,,5
 Milam,Precinct 420,U.S. Senate,,Jack Daniel Foster Jr,DEM,,,,3
 Milam,Precinct 420,U.S. Senate,,Royce West,DEM,,,,4
 Milam,Precinct 420,U.S. Senate,,Sema Hernandez,DEM,,,,1
-Milam,Precinct 420,U.S. Senate,,Undervotes,DEM,,,,13
-Milam,Precinct 420,U.S. Senate,,Overvotes,DEM,,,,0
+Milam,Precinct 420,U.S. Senate,,Under Votes,DEM,,,,13
+Milam,Precinct 420,U.S. Senate,,Over Votes,DEM,,,,0
 Milam,Precinct 420,U.S. House,17,William Foster III,DEM,,,,26
 Milam,Precinct 420,U.S. House,17,David Anthony Jaramillo,DEM,,,,31
 Milam,Precinct 420,U.S. House,17,Rick Kennedy,DEM,,,,77
-Milam,Precinct 420,U.S. House,17,Undervotes,DEM,,,,16
-Milam,Precinct 420,U.S. House,17,Overvotes,DEM,,,,0
+Milam,Precinct 420,U.S. House,17,Under Votes,DEM,,,,16
+Milam,Precinct 420,U.S. House,17,Over Votes,DEM,,,,0
 Milam,Precinct 420,Railroad Commissioner,,Mark Watson,DEM,,,,55
 Milam,Precinct 420,Railroad Commissioner,,Kelly Stone,DEM,,,,43
 Milam,Precinct 420,Railroad Commissioner,,"Roberto R. ""Beto"" Alonzo",DEM,,,,16
 Milam,Precinct 420,Railroad Commissioner,,Chrysta Castaneda,DEM,,,,22
-Milam,Precinct 420,Railroad Commissioner,,Undervotes,DEM,,,,14
-Milam,Precinct 420,Railroad Commissioner,,Overvotes,DEM,,,,0
+Milam,Precinct 420,Railroad Commissioner,,Under Votes,DEM,,,,14
+Milam,Precinct 420,Railroad Commissioner,,Over Votes,DEM,,,,0
 Milam,Precinct 420,State Representative,20,Jessica Tiedt,DEM,,,,126
-Milam,Precinct 420,State Representative,20,Undervotes,DEM,,,,24
-Milam,Precinct 420,State Representative,20,Overvotes,DEM,,,,0
+Milam,Precinct 420,State Representative,20,Under Votes,DEM,,,,24
+Milam,Precinct 420,State Representative,20,Over Votes,DEM,,,,0

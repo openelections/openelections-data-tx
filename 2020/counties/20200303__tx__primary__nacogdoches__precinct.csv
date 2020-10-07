@@ -1,4 +1,4 @@
-﻿county,precinct,office,district,party,candidate,votes,early_votes,election_day
+county,precinct,office,district,party,candidate,votes,early_voting,election_day
 Nacogdoches,12,Registered Voters,,,,1875,,
 Nacogdoches,12,President,,DEM,Cory Booker,0,0,0
 Nacogdoches,12,President,,DEM,Elizabeth Warren,16,9,7
@@ -14,7 +14,7 @@ Nacogdoches,12,President,,DEM,Joseph R. Biden,52,17,35
 Nacogdoches,12,President,,DEM,Andrew Yang,0,0,0
 Nacogdoches,12,President,,DEM,"Roque ""Rocky"" De La Fuente",0,0,0
 Nacogdoches,12,President,,DEM,John K. Delaney,0,0,0
-Nacogdoches,12,President,,DEM,Julin Castro,0,0,0
+Nacogdoches,12,President,,DEM,Julián Castro,0,0,0
 Nacogdoches,12,President,,DEM,Deval Patrick,0,0,0
 Nacogdoches,12,President,,DEM,Michael R. Bloomberg,16,10,6
 Nacogdoches,12,U.S. Senate,,DEM,Michael Cooper,8,4,4
@@ -89,7 +89,7 @@ Nacogdoches,13,President,,DEM,Joseph R. Biden,44,17,27
 Nacogdoches,13,President,,DEM,Andrew Yang,1,1,0
 Nacogdoches,13,President,,DEM,"Roque ""Rocky"" De La Fuente",0,0,0
 Nacogdoches,13,President,,DEM,John K. Delaney,0,0,0
-Nacogdoches,13,President,,DEM,Julin Castro,0,0,0
+Nacogdoches,13,President,,DEM,Julián Castro,0,0,0
 Nacogdoches,13,President,,DEM,Deval Patrick,0,0,0
 Nacogdoches,13,President,,DEM,Michael R. Bloomberg,15,10,5
 Nacogdoches,13,U.S. Senate,,DEM,Michael Cooper,10,5,5
@@ -164,7 +164,7 @@ Nacogdoches,14 & 17,President,,DEM,Joseph R. Biden,91,32,59
 Nacogdoches,14 & 17,President,,DEM,Andrew Yang,1,1,0
 Nacogdoches,14 & 17,President,,DEM,"Roque ""Rocky"" De La Fuente",0,0,0
 Nacogdoches,14 & 17,President,,DEM,John K. Delaney,0,0,0
-Nacogdoches,14 & 17,President,,DEM,Julin Castro,0,0,0
+Nacogdoches,14 & 17,President,,DEM,Julián Castro,0,0,0
 Nacogdoches,14 & 17,President,,DEM,Deval Patrick,0,0,0
 Nacogdoches,14 & 17,President,,DEM,Michael R. Bloomberg,33,15,18
 Nacogdoches,14 & 17,U.S. Senate,,DEM,Michael Cooper,26,10,16
@@ -239,7 +239,7 @@ Nacogdoches,15,President,,DEM,Joseph R. Biden,39,8,31
 Nacogdoches,15,President,,DEM,Andrew Yang,0,0,0
 Nacogdoches,15,President,,DEM,"Roque ""Rocky"" De La Fuente",0,0,0
 Nacogdoches,15,President,,DEM,John K. Delaney,0,0,0
-Nacogdoches,15,President,,DEM,Julin Castro,0,0,0
+Nacogdoches,15,President,,DEM,Julián Castro,0,0,0
 Nacogdoches,15,President,,DEM,Deval Patrick,0,0,0
 Nacogdoches,15,President,,DEM,Michael R. Bloomberg,6,4,2
 Nacogdoches,15,U.S. Senate,,DEM,Michael Cooper,8,0,8
@@ -314,7 +314,7 @@ Nacogdoches,16,President,,DEM,Joseph R. Biden,84,17,67
 Nacogdoches,16,President,,DEM,Andrew Yang,1,1,0
 Nacogdoches,16,President,,DEM,"Roque ""Rocky"" De La Fuente",0,0,0
 Nacogdoches,16,President,,DEM,John K. Delaney,0,0,0
-Nacogdoches,16,President,,DEM,Julin Castro,0,0,0
+Nacogdoches,16,President,,DEM,Julián Castro,0,0,0
 Nacogdoches,16,President,,DEM,Deval Patrick,0,0,0
 Nacogdoches,16,President,,DEM,Michael R. Bloomberg,28,17,11
 Nacogdoches,16,U.S. Senate,,DEM,Michael Cooper,14,6,8
@@ -389,7 +389,7 @@ Nacogdoches,21,President,,DEM,Joseph R. Biden,40,13,27
 Nacogdoches,21,President,,DEM,Andrew Yang,0,0,0
 Nacogdoches,21,President,,DEM,"Roque ""Rocky"" De La Fuente",0,0,0
 Nacogdoches,21,President,,DEM,John K. Delaney,0,0,0
-Nacogdoches,21,President,,DEM,Julin Castro,0,0,0
+Nacogdoches,21,President,,DEM,Julián Castro,0,0,0
 Nacogdoches,21,President,,DEM,Deval Patrick,0,0,0
 Nacogdoches,21,President,,DEM,Michael R. Bloomberg,14,6,8
 Nacogdoches,21,U.S. Senate,,DEM,Michael Cooper,2,2,0
@@ -465,7 +465,7 @@ Nacogdoches,22-23-24-25,President,,DEM,Joseph R. Biden,118,50,68
 Nacogdoches,22-23-24-25,President,,DEM,Andrew Yang,1,1,0
 Nacogdoches,22-23-24-25,President,,DEM,"Roque ""Rocky"" De La Fuente",0,0,0
 Nacogdoches,22-23-24-25,President,,DEM,John K. Delaney,1,1,0
-Nacogdoches,22-23-24-25,President,,DEM,Julin Castro,0,0,0
+Nacogdoches,22-23-24-25,President,,DEM,Julián Castro,0,0,0
 Nacogdoches,22-23-24-25,President,,DEM,Deval Patrick,0,0,0
 Nacogdoches,22-23-24-25,President,,DEM,Michael R. Bloomberg,33,16,17
 Nacogdoches,22-23-24-25,U.S. Senate,,DEM,Michael Cooper,25,14,11
@@ -541,7 +541,7 @@ Nacogdoches,26,President,,DEM,Joseph R. Biden,142,52,90
 Nacogdoches,26,President,,DEM,Andrew Yang,2,1,1
 Nacogdoches,26,President,,DEM,"Roque ""Rocky"" De La Fuente",0,0,0
 Nacogdoches,26,President,,DEM,John K. Delaney,1,1,0
-Nacogdoches,26,President,,DEM,Julin Castro,0,0,0
+Nacogdoches,26,President,,DEM,Julián Castro,0,0,0
 Nacogdoches,26,President,,DEM,Deval Patrick,0,0,0
 Nacogdoches,26,President,,DEM,Michael R. Bloomberg,38,24,14
 Nacogdoches,26,U.S. Senate,,DEM,Michael Cooper,49,22,27
@@ -617,7 +617,7 @@ Nacogdoches,27,President,,DEM,Joseph R. Biden,146,64,82
 Nacogdoches,27,President,,DEM,Andrew Yang,2,1,1
 Nacogdoches,27,President,,DEM,"Roque ""Rocky"" De La Fuente",0,0,0
 Nacogdoches,27,President,,DEM,John K. Delaney,1,0,1
-Nacogdoches,27,President,,DEM,Julin Castro,0,0,0
+Nacogdoches,27,President,,DEM,Julián Castro,0,0,0
 Nacogdoches,27,President,,DEM,Deval Patrick,1,1,0
 Nacogdoches,27,President,,DEM,Michael R. Bloomberg,46,32,14
 Nacogdoches,27,U.S. Senate,,DEM,Michael Cooper,30,12,18
@@ -693,7 +693,7 @@ Nacogdoches,30-31-32,President,,DEM,Joseph R. Biden,128,37,91
 Nacogdoches,30-31-32,President,,DEM,Andrew Yang,5,1,4
 Nacogdoches,30-31-32,President,,DEM,"Roque ""Rocky"" De La Fuente",0,0,0
 Nacogdoches,30-31-32,President,,DEM,John K. Delaney,0,0,0
-Nacogdoches,30-31-32,President,,DEM,Julin Castro,1,1,0
+Nacogdoches,30-31-32,President,,DEM,Julián Castro,1,1,0
 Nacogdoches,30-31-32,President,,DEM,Deval Patrick,0,0,0
 Nacogdoches,30-31-32,President,,DEM,Michael R. Bloomberg,29,18,11
 Nacogdoches,30-31-32,U.S. Senate,,DEM,Michael Cooper,37,13,24
@@ -768,7 +768,7 @@ Nacogdoches,33-34,President,,DEM,Joseph R. Biden,211,62,149
 Nacogdoches,33-34,President,,DEM,Andrew Yang,1,1,0
 Nacogdoches,33-34,President,,DEM,"Roque ""Rocky"" De La Fuente",0,0,0
 Nacogdoches,33-34,President,,DEM,John K. Delaney,0,0,0
-Nacogdoches,33-34,President,,DEM,Julin Castro,0,0,0
+Nacogdoches,33-34,President,,DEM,Julián Castro,0,0,0
 Nacogdoches,33-34,President,,DEM,Deval Patrick,0,0,0
 Nacogdoches,33-34,President,,DEM,Michael R. Bloomberg,61,36,25
 Nacogdoches,33-34,U.S. Senate,,DEM,Michael Cooper,34,15,19
@@ -843,7 +843,7 @@ Nacogdoches,41 & 43,President,,DEM,Joseph R. Biden,118,48,70
 Nacogdoches,41 & 43,President,,DEM,Andrew Yang,1,1,0
 Nacogdoches,41 & 43,President,,DEM,"Roque ""Rocky"" De La Fuente",0,0,0
 Nacogdoches,41 & 43,President,,DEM,John K. Delaney,1,0,1
-Nacogdoches,41 & 43,President,,DEM,Julin Castro,0,0,0
+Nacogdoches,41 & 43,President,,DEM,Julián Castro,0,0,0
 Nacogdoches,41 & 43,President,,DEM,Deval Patrick,0,0,0
 Nacogdoches,41 & 43,President,,DEM,Michael R. Bloomberg,31,21,10
 Nacogdoches,41 & 43,U.S. Senate,,DEM,Michael Cooper,23,10,13
@@ -918,7 +918,7 @@ Nacogdoches,42,President,,DEM,Joseph R. Biden,52,21,31
 Nacogdoches,42,President,,DEM,Andrew Yang,0,0,0
 Nacogdoches,42,President,,DEM,"Roque ""Rocky"" De La Fuente",1,0,1
 Nacogdoches,42,President,,DEM,John K. Delaney,1,1,0
-Nacogdoches,42,President,,DEM,Julin Castro,0,0,0
+Nacogdoches,42,President,,DEM,Julián Castro,0,0,0
 Nacogdoches,42,President,,DEM,Deval Patrick,0,0,0
 Nacogdoches,42,President,,DEM,Michael R. Bloomberg,19,11,8
 Nacogdoches,42,U.S. Senate,,DEM,Michael Cooper,11,6,5
@@ -993,7 +993,7 @@ Nacogdoches,44,President,,DEM,Joseph R. Biden,36,8,28
 Nacogdoches,44,President,,DEM,Andrew Yang,1,0,1
 Nacogdoches,44,President,,DEM,"Roque ""Rocky"" De La Fuente",0,0,0
 Nacogdoches,44,President,,DEM,John K. Delaney,0,0,0
-Nacogdoches,44,President,,DEM,Julin Castro,0,0,0
+Nacogdoches,44,President,,DEM,Julián Castro,0,0,0
 Nacogdoches,44,President,,DEM,Deval Patrick,0,0,0
 Nacogdoches,44,President,,DEM,Michael R. Bloomberg,14,3,11
 Nacogdoches,44,U.S. Senate,,DEM,Michael Cooper,11,1,10
@@ -1068,7 +1068,7 @@ Nacogdoches,45,President,,DEM,Joseph R. Biden,21,5,16
 Nacogdoches,45,President,,DEM,Andrew Yang,1,1,0
 Nacogdoches,45,President,,DEM,"Roque ""Rocky"" De La Fuente",0,0,0
 Nacogdoches,45,President,,DEM,John K. Delaney,0,0,0
-Nacogdoches,45,President,,DEM,Julin Castro,0,0,0
+Nacogdoches,45,President,,DEM,Julián Castro,0,0,0
 Nacogdoches,45,President,,DEM,Deval Patrick,0,0,0
 Nacogdoches,45,President,,DEM,Michael R. Bloomberg,7,4,3
 Nacogdoches,45,U.S. Senate,,DEM,Michael Cooper,3,0,3
@@ -1143,7 +1143,7 @@ Nacogdoches,46,President,,DEM,Joseph R. Biden,29,11,18
 Nacogdoches,46,President,,DEM,Andrew Yang,0,0,0
 Nacogdoches,46,President,,DEM,"Roque ""Rocky"" De La Fuente",0,0,0
 Nacogdoches,46,President,,DEM,John K. Delaney,0,0,0
-Nacogdoches,46,President,,DEM,Julin Castro,0,0,0
+Nacogdoches,46,President,,DEM,Julián Castro,0,0,0
 Nacogdoches,46,President,,DEM,Deval Patrick,1,0,1
 Nacogdoches,46,President,,DEM,Michael R. Bloomberg,8,5,3
 Nacogdoches,46,U.S. Senate,,DEM,Michael Cooper,4,3,1
@@ -1218,7 +1218,7 @@ Nacogdoches,47,President,,DEM,Joseph R. Biden,19,4,15
 Nacogdoches,47,President,,DEM,Andrew Yang,0,0,0
 Nacogdoches,47,President,,DEM,"Roque ""Rocky"" De La Fuente",0,0,0
 Nacogdoches,47,President,,DEM,John K. Delaney,0,0,0
-Nacogdoches,47,President,,DEM,Julin Castro,0,0,0
+Nacogdoches,47,President,,DEM,Julián Castro,0,0,0
 Nacogdoches,47,President,,DEM,Deval Patrick,0,0,0
 Nacogdoches,47,President,,DEM,Michael R. Bloomberg,6,2,4
 Nacogdoches,47,U.S. Senate,,DEM,Michael Cooper,3,0,3
