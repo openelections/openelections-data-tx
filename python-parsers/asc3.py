@@ -16,18 +16,18 @@ def print_asc(line):
     print('Contest Number: {}'.format(line[0:4]))
     print('Candidate Number: {}'.format(line[4:7]))
     print('Precinct Code: {}'.format(line[7:11]))
-    print('Total Votes: {}'.format(line[11:17]))
+    print('Total Votes: {}'.format(line[12:18]))
     print('Early Voting: {}'.format(line[17:23]))
     print('Election Day: {}'.format(line[23:29]))
-    print('Provisional: {}'.format(line[29:35]))
+    print('Provisional: {}'.format(line[29:36]))
     print('Vote Group 4: {}'.format(line[35:41]))
     print('Vote Group 5: {}'.format(line[41:47]))
-    print('Party Code: {}'.format(line[47:50]))
+    print('Party Code: {}'.format(line[18:21]))
     print('District Type ID: {}'.format(line[50:53]))
-    print('District Code: {}'.format(line[53:57]))
-    print('Contest Title: {}'.format(line[57:113]))
-    print('Candidate Name: {}'.format(line[113:151]))
-    print('Precinct Name: {}'.format(line[151:181]))
+    print('District Code: {}'.format(line[62:64]))
+    print('Contest Title: {}'.format(line[28:83]))
+    print('Candidate Name: {}'.format(line[84:121]))
+    print('Precinct Name: {}'.format(line[122:176]))
     print('District Name: {}'.format(line[181:206]))
     print('Votes Allowed: {}'.format(line[206:208]))
     print('Referendum Flag: {}'.format(line[208]))
@@ -42,11 +42,11 @@ def create_csv(datafile, output_filename):
             current_race = 0
             for line in data:
                 temp = {'county': County,
-                        'precinct': int(line[151:181].strip().split(None)[1]),
-                        'office': line[57:113].strip(),
-                        'party': line[47:50].strip(),
-                        'candidate': line[113:151].strip(),
-                        'votes': int(line[11:17]),
+                        'precinct': line[205:236].strip(),
+                        'office': line[111:166].strip(),
+                        'party': line[101:105].strip(),
+                        'candidate': line[167:204].strip(),
+                        'votes': int(line[13:17]),
                         'absentee': line[18:23],
                         'early_voting1': line[24:29],
                         'early_voting2': int(line[29:35]),
