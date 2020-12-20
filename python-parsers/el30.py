@@ -1,7 +1,7 @@
 import csv
 
-source = '/Users/dwillis/code/openelections-sources-tx/2018/general/Kleberg.txt'
-offices = ['Straight Party', 'US Senator', 'GOVERNOR', 'US Representative, District 34', 'Governor', 'Lieutenant Governor', 'Attorney General', 'Comptroller of Public Accounts', 'Commissioner of the General Land Office', 'Commissioner of Agriculture', 'Railroad Commissioner', 'State Representative, District 43']
+source = '/Users/derekwillis/code/openelections-sources-tx/2020/primary/JASPER_COUNTY-2020_MARCH_3RD_DEMOCRATIC_PRIMARY_332020-PCT REPORT WITH DETAIL.txt'
+offices = ['Straight Party', 'President', 'US Senator', 'GOVERNOR', 'US Representative, District 34', 'Governor', 'Lieutenant Governor', 'Attorney General', 'Comptroller of Public Accounts', 'Commissioner of the General Land Office', 'Commissioner of Agriculture', 'Railroad Commissioner', 'State Representative, District 43']
 
 lines = open(source).readlines()
 results = []
