@@ -8,6 +8,13 @@ rows = t.entries
 results = []
 headers = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes', 'early_votes', 'election_day']
 
+offices = {
+  'President and Vice President' => ['President', nil],
+  'United States Senator' => ['U.S. Senate', nil],
+  'United States Representative, District No. 13' => ['U.S. House', 13],
+  'State Representative, District No. 69' => ['State Representative', 69]
+}
+
 rows.each do |row|
   if row['race_name'].include?(", District")
     office, district = row['race_name'].split(", District ")
@@ -28,7 +35,7 @@ rows.each do |row|
 #  end
 end
 
-CSV.open("20200303__tx__primary__#{county.downcase.gsub(' ','_')}__precinct.csv", "w") do |csv|
+CSV.open("20201103__tx__general__#{county.downcase.gsub(' ','_')}__precinct.csv", "w") do |csv|
   csv << headers
   results.map{|r| csv << r}
 end
