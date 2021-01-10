@@ -1,8 +1,8 @@
 import csv
 
-county = 'Cass'
+county = 'Dickens'
 
-lines = open('/Users/dwillis/code/openelections-sources-tx/2020/primary/CASS_COUNTY-2020_MARCH_3RD_DEMOCRATIC_PRIMARY_332020-precinct.official precinct report primary election 03-03-2020.txt').readlines()
+lines = open('/Users/dwillis/code/openelections-sources-tx/2020/primary/Dickens TX precinct2020.txt').readlines()
 results = []
 
 for line in lines:
@@ -38,7 +38,7 @@ for line in lines:
             candidate = line.split('\t')[0]
             results.append([county, precinct, office, None, party, candidate, int(line.split('\t')[1].replace(',','')), int(line.split('\t')[3].replace(',','')), int(line.split('\t')[5].replace(',','')), int(line.split('\t')[7].replace(',',''))])
 
-with open('20200303__tx__primary__cass__precinct2.csv', 'wt') as csvfile:
+with open('20200303__tx__primary__dickens__precinct.csv', 'wt') as csvfile:
     writer = csv.writer(csvfile)
     writer.writerow(['county', 'precinct', 'office', 'district', 'party', 'candidate','absentee', 'early_voting', 'election_day', 'votes'])
     writer.writerows(results)
