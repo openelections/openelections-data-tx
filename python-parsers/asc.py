@@ -35,7 +35,7 @@ def print_asc(line):
 def create_csv(datafile, output_filename):
     with open(output_filename, 'w', newline='') as f:
         with open(datafile) as data:
-            fieldnames=['county','precinct','office','district','party','candidate','votes','early_voting','election_day','provisional']
+            fieldnames=['county','precinct','office','district','party','candidate','votes','absentee','early_voting1','early_voting2', 'election_day1', 'election_day2']
             writer = csv.DictWriter(f, fieldnames=fieldnames)
             writer.writeheader()
             current_precinct = 0
@@ -47,9 +47,11 @@ def create_csv(datafile, output_filename):
                         'party': line[47:50].strip(),
                         'candidate': line[113:151].strip(),
                         'votes': int(line[11:17]),
-                        'early_voting': int(line[17:23]),
-                        'election_day': int(line[23:29]),
-                        'provisional': int(line[29:35])}
+                        'absentee': line[18:23],
+                        'early_voting1': line[24:29],
+                        'early_voting2': int(line[29:35]),
+                        'election_day1': int(line[36:41]),
+                        'election_day2': int(line[42:47])}
                 if 'State Representative' in temp['office']:
                     temp['district'] = int(temp['office'].split(None)[-1])
                     temp['office'] = 'State Representative'

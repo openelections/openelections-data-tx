@@ -104,6 +104,7 @@ def precinct_results(county_name, filename):
 
     vote_types = list(set(vote_types))
 #    vote_types.remove('Over Votes')
+#    vote_types.remove('Under Votes')
     vote_types.remove('regVotersCounty')
     with open(f, "wt") as csvfile:
         w = csv.writer(csvfile)
