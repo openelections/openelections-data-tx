@@ -1,0 +1,23 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+requests = "*"
+bs4 = "*"
+pdfreader = "*"
+tabula-py = "*"
+pandas = "*"
+numpy = "*"
+clarify = "*"
+pypdf2 = "*"
+chardet = "*"
+camelot-py = {extras = ["cv"], version = "*"}
+xlrd = "*"
+pyexcel-xlsx = "*"
+
+[requires]
+python_version = "3.8"
