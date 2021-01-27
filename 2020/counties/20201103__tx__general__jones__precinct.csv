@@ -1,0 +1,837 @@
+county,precinct,office,district,party,candidate,votes
+Jones,PRECINCT 101,President,,REP,Donald J. Trump,753
+Jones,PRECINCT 102,President,,REP,Donald J. Trump,52
+Jones,PRECINCT 103,President,,REP,Donald J. Trump,243
+Jones,PRECINCT 201,President,,REP,Donald J. Trump,856
+Jones,PRECINCT 202,President,,REP,Donald J. Trump,187
+Jones,PRECINCT 203,President,,REP,Donald J. Trump,183
+Jones,PRECINCT 301,President,,REP,Donald J. Trump,192
+Jones,PRECINCT 302,President,,REP,Donald J. Trump,649
+Jones,PRECINCT 303,President,,REP,Donald J. Trump,803
+Jones,PRECINCT 401,President,,REP,Donald J. Trump,999
+Jones,PRECINCT 402,President,,REP,Donald J. Trump,743
+Jones,PRECINCT 101,President,,DEM,Joseph R. Biden,151
+Jones,PRECINCT 102,President,,DEM,Joseph R. Biden,44
+Jones,PRECINCT 103,President,,DEM,Joseph R. Biden,72
+Jones,PRECINCT 201,President,,DEM,Joseph R. Biden,238
+Jones,PRECINCT 202,President,,DEM,Joseph R. Biden,29
+Jones,PRECINCT 203,President,,DEM,Joseph R. Biden,16
+Jones,PRECINCT 301,President,,DEM,Joseph R. Biden,17
+Jones,PRECINCT 302,President,,DEM,Joseph R. Biden,80
+Jones,PRECINCT 303,President,,DEM,Joseph R. Biden,75
+Jones,PRECINCT 401,President,,DEM,Joseph R. Biden,119
+Jones,PRECINCT 402,President,,DEM,Joseph R. Biden,158
+Jones,PRECINCT 101,President,,LIB,Jo Jorgensen,5
+Jones,PRECINCT 102,President,,LIB,Jo Jorgensen,0
+Jones,PRECINCT 103,President,,LIB,Jo Jorgensen,6
+Jones,PRECINCT 201,President,,LIB,Jo Jorgensen,8
+Jones,PRECINCT 202,President,,LIB,Jo Jorgensen,4
+Jones,PRECINCT 203,President,,LIB,Jo Jorgensen,1
+Jones,PRECINCT 301,President,,LIB,Jo Jorgensen,1
+Jones,PRECINCT 302,President,,LIB,Jo Jorgensen,12
+Jones,PRECINCT 303,President,,LIB,Jo Jorgensen,7
+Jones,PRECINCT 401,President,,LIB,Jo Jorgensen,11
+Jones,PRECINCT 402,President,,LIB,Jo Jorgensen,8
+Jones,PRECINCT 101,President,,GRN,Howie Hawkins,1
+Jones,PRECINCT 102,President,,GRN,Howie Hawkins,1
+Jones,PRECINCT 103,President,,GRN,Howie Hawkins,2
+Jones,PRECINCT 201,President,,GRN,Howie Hawkins,5
+Jones,PRECINCT 202,President,,GRN,Howie Hawkins,0
+Jones,PRECINCT 203,President,,GRN,Howie Hawkins,1
+Jones,PRECINCT 301,President,,GRN,Howie Hawkins,2
+Jones,PRECINCT 302,President,,GRN,Howie Hawkins,1
+Jones,PRECINCT 303,President,,GRN,Howie Hawkins,1
+Jones,PRECINCT 401,President,,GRN,Howie Hawkins,3
+Jones,PRECINCT 402,President,,GRN,Howie Hawkins,2
+Jones,PRECINCT 101,President,,NON,WRITE-IN,0
+Jones,PRECINCT 102,President,,NON,WRITE-IN,1
+Jones,PRECINCT 103,President,,NON,WRITE-IN,2
+Jones,PRECINCT 201,President,,NON,WRITE-IN,1
+Jones,PRECINCT 202,President,,NON,WRITE-IN,1
+Jones,PRECINCT 203,President,,NON,WRITE-IN,1
+Jones,PRECINCT 301,President,,NON,WRITE-IN,0
+Jones,PRECINCT 302,President,,NON,WRITE-IN,0
+Jones,PRECINCT 303,President,,NON,WRITE-IN,0
+Jones,PRECINCT 401,President,,NON,WRITE-IN,0
+Jones,PRECINCT 402,President,,NON,WRITE-IN,0
+Jones,PRECINCT 101,President,,,OVER VOTES,0
+Jones,PRECINCT 102,President,,,OVER VOTES,0
+Jones,PRECINCT 103,President,,,OVER VOTES,0
+Jones,PRECINCT 201,President,,,OVER VOTES,0
+Jones,PRECINCT 202,President,,,OVER VOTES,0
+Jones,PRECINCT 203,President,,,OVER VOTES,0
+Jones,PRECINCT 301,President,,,OVER VOTES,0
+Jones,PRECINCT 302,President,,,OVER VOTES,0
+Jones,PRECINCT 303,President,,,OVER VOTES,0
+Jones,PRECINCT 401,President,,,OVER VOTES,0
+Jones,PRECINCT 402,President,,,OVER VOTES,0
+Jones,PRECINCT 101,President,,,UNDER VOTES,1
+Jones,PRECINCT 102,President,,,UNDER VOTES,0
+Jones,PRECINCT 103,President,,,UNDER VOTES,0
+Jones,PRECINCT 201,President,,,UNDER VOTES,6
+Jones,PRECINCT 202,President,,,UNDER VOTES,0
+Jones,PRECINCT 203,President,,,UNDER VOTES,0
+Jones,PRECINCT 301,President,,,UNDER VOTES,0
+Jones,PRECINCT 302,President,,,UNDER VOTES,2
+Jones,PRECINCT 303,President,,,UNDER VOTES,0
+Jones,PRECINCT 401,President,,,UNDER VOTES,1
+Jones,PRECINCT 402,President,,,UNDER VOTES,3
+Jones,PRECINCT 101,U.S. Senate,,REP,John Cornyn,733
+Jones,PRECINCT 102,U.S. Senate,,REP,John Cornyn,48
+Jones,PRECINCT 103,U.S. Senate,,REP,John Cornyn,239
+Jones,PRECINCT 201,U.S. Senate,,REP,John Cornyn,846
+Jones,PRECINCT 202,U.S. Senate,,REP,John Cornyn,182
+Jones,PRECINCT 203,U.S. Senate,,REP,John Cornyn,181
+Jones,PRECINCT 301,U.S. Senate,,REP,John Cornyn,185
+Jones,PRECINCT 302,U.S. Senate,,REP,John Cornyn,647
+Jones,PRECINCT 303,U.S. Senate,,REP,John Cornyn,771
+Jones,PRECINCT 401,U.S. Senate,,REP,John Cornyn,984
+Jones,PRECINCT 402,U.S. Senate,,REP,John Cornyn,730
+Jones,PRECINCT 101,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",143
+Jones,PRECINCT 102,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",47
+Jones,PRECINCT 103,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",66
+Jones,PRECINCT 201,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",217
+Jones,PRECINCT 202,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",32
+Jones,PRECINCT 203,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",14
+Jones,PRECINCT 301,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",21
+Jones,PRECINCT 302,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",77
+Jones,PRECINCT 303,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",79
+Jones,PRECINCT 401,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",118
+Jones,PRECINCT 402,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",153
+Jones,PRECINCT 101,U.S. Senate,,LIB,Kerry Douglas McKennon,10
+Jones,PRECINCT 102,U.S. Senate,,LIB,Kerry Douglas McKennon,0
+Jones,PRECINCT 103,U.S. Senate,,LIB,Kerry Douglas McKennon,5
+Jones,PRECINCT 201,U.S. Senate,,LIB,Kerry Douglas McKennon,13
+Jones,PRECINCT 202,U.S. Senate,,LIB,Kerry Douglas McKennon,2
+Jones,PRECINCT 203,U.S. Senate,,LIB,Kerry Douglas McKennon,2
+Jones,PRECINCT 301,U.S. Senate,,LIB,Kerry Douglas McKennon,3
+Jones,PRECINCT 302,U.S. Senate,,LIB,Kerry Douglas McKennon,10
+Jones,PRECINCT 303,U.S. Senate,,LIB,Kerry Douglas McKennon,13
+Jones,PRECINCT 401,U.S. Senate,,LIB,Kerry Douglas McKennon,9
+Jones,PRECINCT 402,U.S. Senate,,LIB,Kerry Douglas McKennon,14
+Jones,PRECINCT 101,U.S. Senate,,GRN,David B. Collins,1
+Jones,PRECINCT 102,U.S. Senate,,GRN,David B. Collins,1
+Jones,PRECINCT 103,U.S. Senate,,GRN,David B. Collins,3
+Jones,PRECINCT 201,U.S. Senate,,GRN,David B. Collins,5
+Jones,PRECINCT 202,U.S. Senate,,GRN,David B. Collins,2
+Jones,PRECINCT 203,U.S. Senate,,GRN,David B. Collins,1
+Jones,PRECINCT 301,U.S. Senate,,GRN,David B. Collins,0
+Jones,PRECINCT 302,U.S. Senate,,GRN,David B. Collins,0
+Jones,PRECINCT 303,U.S. Senate,,GRN,David B. Collins,4
+Jones,PRECINCT 401,U.S. Senate,,GRN,David B. Collins,8
+Jones,PRECINCT 402,U.S. Senate,,GRN,David B. Collins,2
+Jones,PRECINCT 101,U.S. Senate,,NON,WRITE-IN,0
+Jones,PRECINCT 102,U.S. Senate,,NON,WRITE-IN,0
+Jones,PRECINCT 103,U.S. Senate,,NON,WRITE-IN,1
+Jones,PRECINCT 201,U.S. Senate,,NON,WRITE-IN,2
+Jones,PRECINCT 202,U.S. Senate,,NON,WRITE-IN,0
+Jones,PRECINCT 203,U.S. Senate,,NON,WRITE-IN,0
+Jones,PRECINCT 301,U.S. Senate,,NON,WRITE-IN,0
+Jones,PRECINCT 302,U.S. Senate,,NON,WRITE-IN,0
+Jones,PRECINCT 303,U.S. Senate,,NON,WRITE-IN,0
+Jones,PRECINCT 401,U.S. Senate,,NON,WRITE-IN,0
+Jones,PRECINCT 402,U.S. Senate,,NON,WRITE-IN,1
+Jones,PRECINCT 101,U.S. Senate,,,OVER VOTES,0
+Jones,PRECINCT 102,U.S. Senate,,,OVER VOTES,0
+Jones,PRECINCT 103,U.S. Senate,,,OVER VOTES,0
+Jones,PRECINCT 201,U.S. Senate,,,OVER VOTES,0
+Jones,PRECINCT 202,U.S. Senate,,,OVER VOTES,0
+Jones,PRECINCT 203,U.S. Senate,,,OVER VOTES,0
+Jones,PRECINCT 301,U.S. Senate,,,OVER VOTES,0
+Jones,PRECINCT 302,U.S. Senate,,,OVER VOTES,0
+Jones,PRECINCT 303,U.S. Senate,,,OVER VOTES,0
+Jones,PRECINCT 401,U.S. Senate,,,OVER VOTES,0
+Jones,PRECINCT 402,U.S. Senate,,,OVER VOTES,0
+Jones,PRECINCT 101,U.S. Senate,,,UNDER VOTES,24
+Jones,PRECINCT 102,U.S. Senate,,,UNDER VOTES,2
+Jones,PRECINCT 103,U.S. Senate,,,UNDER VOTES,11
+Jones,PRECINCT 201,U.S. Senate,,,UNDER VOTES,31
+Jones,PRECINCT 202,U.S. Senate,,,UNDER VOTES,3
+Jones,PRECINCT 203,U.S. Senate,,,UNDER VOTES,4
+Jones,PRECINCT 301,U.S. Senate,,,UNDER VOTES,3
+Jones,PRECINCT 302,U.S. Senate,,,UNDER VOTES,10
+Jones,PRECINCT 303,U.S. Senate,,,UNDER VOTES,19
+Jones,PRECINCT 401,U.S. Senate,,,UNDER VOTES,14
+Jones,PRECINCT 402,U.S. Senate,,,UNDER VOTES,14
+Jones,PRECINCT 101,U.S. House,19,REP,Jodey C. Arrington,729
+Jones,PRECINCT 102,U.S. House,19,REP,Jodey C. Arrington,56
+Jones,PRECINCT 103,U.S. House,19,REP,Jodey C. Arrington,239
+Jones,PRECINCT 201,U.S. House,19,REP,Jodey C. Arrington,878
+Jones,PRECINCT 202,U.S. House,19,REP,Jodey C. Arrington,185
+Jones,PRECINCT 203,U.S. House,19,REP,Jodey C. Arrington,185
+Jones,PRECINCT 301,U.S. House,19,REP,Jodey C. Arrington,193
+Jones,PRECINCT 302,U.S. House,19,REP,Jodey C. Arrington,647
+Jones,PRECINCT 303,U.S. House,19,REP,Jodey C. Arrington,791
+Jones,PRECINCT 401,U.S. House,19,REP,Jodey C. Arrington,995
+Jones,PRECINCT 402,U.S. House,19,REP,Jodey C. Arrington,752
+Jones,PRECINCT 101,U.S. House,19,DEM,Tom Watson,131
+Jones,PRECINCT 102,U.S. House,19,DEM,Tom Watson,34
+Jones,PRECINCT 103,U.S. House,19,DEM,Tom Watson,66
+Jones,PRECINCT 201,U.S. House,19,DEM,Tom Watson,197
+Jones,PRECINCT 202,U.S. House,19,DEM,Tom Watson,30
+Jones,PRECINCT 203,U.S. House,19,DEM,Tom Watson,15
+Jones,PRECINCT 301,U.S. House,19,DEM,Tom Watson,13
+Jones,PRECINCT 302,U.S. House,19,DEM,Tom Watson,67
+Jones,PRECINCT 303,U.S. House,19,DEM,Tom Watson,70
+Jones,PRECINCT 401,U.S. House,19,DEM,Tom Watson,109
+Jones,PRECINCT 402,U.S. House,19,DEM,Tom Watson,134
+Jones,PRECINCT 101,U.S. House,19,LIB,Joe Burnes,12
+Jones,PRECINCT 102,U.S. House,19,LIB,Joe Burnes,2
+Jones,PRECINCT 103,U.S. House,19,LIB,Joe Burnes,8
+Jones,PRECINCT 201,U.S. House,19,LIB,Joe Burnes,15
+Jones,PRECINCT 202,U.S. House,19,LIB,Joe Burnes,2
+Jones,PRECINCT 203,U.S. House,19,LIB,Joe Burnes,1
+Jones,PRECINCT 301,U.S. House,19,LIB,Joe Burnes,3
+Jones,PRECINCT 302,U.S. House,19,LIB,Joe Burnes,14
+Jones,PRECINCT 303,U.S. House,19,LIB,Joe Burnes,13
+Jones,PRECINCT 401,U.S. House,19,LIB,Joe Burnes,15
+Jones,PRECINCT 402,U.S. House,19,LIB,Joe Burnes,16
+Jones,PRECINCT 101,U.S. House,19,,OVER VOTES,0
+Jones,PRECINCT 102,U.S. House,19,,OVER VOTES,0
+Jones,PRECINCT 103,U.S. House,19,,OVER VOTES,0
+Jones,PRECINCT 201,U.S. House,19,,OVER VOTES,0
+Jones,PRECINCT 202,U.S. House,19,,OVER VOTES,0
+Jones,PRECINCT 203,U.S. House,19,,OVER VOTES,0
+Jones,PRECINCT 301,U.S. House,19,,OVER VOTES,0
+Jones,PRECINCT 302,U.S. House,19,,OVER VOTES,0
+Jones,PRECINCT 303,U.S. House,19,,OVER VOTES,0
+Jones,PRECINCT 401,U.S. House,19,,OVER VOTES,0
+Jones,PRECINCT 402,U.S. House,19,,OVER VOTES,0
+Jones,PRECINCT 101,U.S. House,19,,UNDER VOTES,39
+Jones,PRECINCT 102,U.S. House,19,,UNDER VOTES,6
+Jones,PRECINCT 103,U.S. House,19,,UNDER VOTES,12
+Jones,PRECINCT 201,U.S. House,19,,UNDER VOTES,24
+Jones,PRECINCT 202,U.S. House,19,,UNDER VOTES,4
+Jones,PRECINCT 203,U.S. House,19,,UNDER VOTES,1
+Jones,PRECINCT 301,U.S. House,19,,UNDER VOTES,3
+Jones,PRECINCT 302,U.S. House,19,,UNDER VOTES,16
+Jones,PRECINCT 303,U.S. House,19,,UNDER VOTES,12
+Jones,PRECINCT 401,U.S. House,19,,UNDER VOTES,14
+Jones,PRECINCT 402,U.S. House,19,,UNDER VOTES,12
+Jones,PRECINCT 101,Railroad Commissioner,,REP,"James ""Jim"" Wright",742
+Jones,PRECINCT 102,Railroad Commissioner,,REP,"James ""Jim"" Wright",50
+Jones,PRECINCT 103,Railroad Commissioner,,REP,"James ""Jim"" Wright",224
+Jones,PRECINCT 201,Railroad Commissioner,,REP,"James ""Jim"" Wright",833
+Jones,PRECINCT 202,Railroad Commissioner,,REP,"James ""Jim"" Wright",182
+Jones,PRECINCT 203,Railroad Commissioner,,REP,"James ""Jim"" Wright",178
+Jones,PRECINCT 301,Railroad Commissioner,,REP,"James ""Jim"" Wright",190
+Jones,PRECINCT 302,Railroad Commissioner,,REP,"James ""Jim"" Wright",639
+Jones,PRECINCT 303,Railroad Commissioner,,REP,"James ""Jim"" Wright",781
+Jones,PRECINCT 401,Railroad Commissioner,,REP,"James ""Jim"" Wright",974
+Jones,PRECINCT 402,Railroad Commissioner,,REP,"James ""Jim"" Wright",725
+Jones,PRECINCT 101,Railroad Commissioner,,DEM,Chrysta Castaneda,136
+Jones,PRECINCT 102,Railroad Commissioner,,DEM,Chrysta Castaneda,41
+Jones,PRECINCT 103,Railroad Commissioner,,DEM,Chrysta Castaneda,74
+Jones,PRECINCT 201,Railroad Commissioner,,DEM,Chrysta Castaneda,218
+Jones,PRECINCT 202,Railroad Commissioner,,DEM,Chrysta Castaneda,27
+Jones,PRECINCT 203,Railroad Commissioner,,DEM,Chrysta Castaneda,18
+Jones,PRECINCT 301,Railroad Commissioner,,DEM,Chrysta Castaneda,13
+Jones,PRECINCT 302,Railroad Commissioner,,DEM,Chrysta Castaneda,67
+Jones,PRECINCT 303,Railroad Commissioner,,DEM,Chrysta Castaneda,75
+Jones,PRECINCT 401,Railroad Commissioner,,DEM,Chrysta Castaneda,108
+Jones,PRECINCT 402,Railroad Commissioner,,DEM,Chrysta Castaneda,150
+Jones,PRECINCT 101,Railroad Commissioner,,LIB,Matt Sterett,9
+Jones,PRECINCT 102,Railroad Commissioner,,LIB,Matt Sterett,0
+Jones,PRECINCT 103,Railroad Commissioner,,LIB,Matt Sterett,8
+Jones,PRECINCT 201,Railroad Commissioner,,LIB,Matt Sterett,19
+Jones,PRECINCT 202,Railroad Commissioner,,LIB,Matt Sterett,4
+Jones,PRECINCT 203,Railroad Commissioner,,LIB,Matt Sterett,1
+Jones,PRECINCT 301,Railroad Commissioner,,LIB,Matt Sterett,5
+Jones,PRECINCT 302,Railroad Commissioner,,LIB,Matt Sterett,14
+Jones,PRECINCT 303,Railroad Commissioner,,LIB,Matt Sterett,9
+Jones,PRECINCT 401,Railroad Commissioner,,LIB,Matt Sterett,30
+Jones,PRECINCT 402,Railroad Commissioner,,LIB,Matt Sterett,18
+Jones,PRECINCT 101,Railroad Commissioner,,GRN,"Katija ""Kat"" Gruene",4
+Jones,PRECINCT 102,Railroad Commissioner,,GRN,"Katija ""Kat"" Gruene",2
+Jones,PRECINCT 103,Railroad Commissioner,,GRN,"Katija ""Kat"" Gruene",3
+Jones,PRECINCT 201,Railroad Commissioner,,GRN,"Katija ""Kat"" Gruene",9
+Jones,PRECINCT 202,Railroad Commissioner,,GRN,"Katija ""Kat"" Gruene",0
+Jones,PRECINCT 203,Railroad Commissioner,,GRN,"Katija ""Kat"" Gruene",1
+Jones,PRECINCT 301,Railroad Commissioner,,GRN,"Katija ""Kat"" Gruene",1
+Jones,PRECINCT 302,Railroad Commissioner,,GRN,"Katija ""Kat"" Gruene",4
+Jones,PRECINCT 303,Railroad Commissioner,,GRN,"Katija ""Kat"" Gruene",2
+Jones,PRECINCT 401,Railroad Commissioner,,GRN,"Katija ""Kat"" Gruene",3
+Jones,PRECINCT 402,Railroad Commissioner,,GRN,"Katija ""Kat"" Gruene",3
+Jones,PRECINCT 101,Railroad Commissioner,,,OVER VOTES,0
+Jones,PRECINCT 102,Railroad Commissioner,,,OVER VOTES,0
+Jones,PRECINCT 103,Railroad Commissioner,,,OVER VOTES,0
+Jones,PRECINCT 201,Railroad Commissioner,,,OVER VOTES,0
+Jones,PRECINCT 202,Railroad Commissioner,,,OVER VOTES,0
+Jones,PRECINCT 203,Railroad Commissioner,,,OVER VOTES,0
+Jones,PRECINCT 301,Railroad Commissioner,,,OVER VOTES,0
+Jones,PRECINCT 302,Railroad Commissioner,,,OVER VOTES,0
+Jones,PRECINCT 303,Railroad Commissioner,,,OVER VOTES,0
+Jones,PRECINCT 401,Railroad Commissioner,,,OVER VOTES,0
+Jones,PRECINCT 402,Railroad Commissioner,,,OVER VOTES,0
+Jones,PRECINCT 101,Railroad Commissioner,,,UNDER VOTES,20
+Jones,PRECINCT 102,Railroad Commissioner,,,UNDER VOTES,5
+Jones,PRECINCT 103,Railroad Commissioner,,,UNDER VOTES,16
+Jones,PRECINCT 201,Railroad Commissioner,,,UNDER VOTES,35
+Jones,PRECINCT 202,Railroad Commissioner,,,UNDER VOTES,8
+Jones,PRECINCT 203,Railroad Commissioner,,,UNDER VOTES,4
+Jones,PRECINCT 301,Railroad Commissioner,,,UNDER VOTES,3
+Jones,PRECINCT 302,Railroad Commissioner,,,UNDER VOTES,20
+Jones,PRECINCT 303,Railroad Commissioner,,,UNDER VOTES,19
+Jones,PRECINCT 401,Railroad Commissioner,,,UNDER VOTES,18
+Jones,PRECINCT 402,Railroad Commissioner,,,UNDER VOTES,18
+Jones,PRECINCT 101,"Chief Justice, Supreme Court",,REP,Nathan Hecht,726
+Jones,PRECINCT 102,"Chief Justice, Supreme Court",,REP,Nathan Hecht,51
+Jones,PRECINCT 103,"Chief Justice, Supreme Court",,REP,Nathan Hecht,225
+Jones,PRECINCT 201,"Chief Justice, Supreme Court",,REP,Nathan Hecht,818
+Jones,PRECINCT 202,"Chief Justice, Supreme Court",,REP,Nathan Hecht,179
+Jones,PRECINCT 203,"Chief Justice, Supreme Court",,REP,Nathan Hecht,177
+Jones,PRECINCT 301,"Chief Justice, Supreme Court",,REP,Nathan Hecht,188
+Jones,PRECINCT 302,"Chief Justice, Supreme Court",,REP,Nathan Hecht,633
+Jones,PRECINCT 303,"Chief Justice, Supreme Court",,REP,Nathan Hecht,774
+Jones,PRECINCT 401,"Chief Justice, Supreme Court",,REP,Nathan Hecht,976
+Jones,PRECINCT 402,"Chief Justice, Supreme Court",,REP,Nathan Hecht,721
+Jones,PRECINCT 101,"Chief Justice, Supreme Court",,DEM,Amy Clark Meachum,147
+Jones,PRECINCT 102,"Chief Justice, Supreme Court",,DEM,Amy Clark Meachum,40
+Jones,PRECINCT 103,"Chief Justice, Supreme Court",,DEM,Amy Clark Meachum,79
+Jones,PRECINCT 201,"Chief Justice, Supreme Court",,DEM,Amy Clark Meachum,231
+Jones,PRECINCT 202,"Chief Justice, Supreme Court",,DEM,Amy Clark Meachum,28
+Jones,PRECINCT 203,"Chief Justice, Supreme Court",,DEM,Amy Clark Meachum,18
+Jones,PRECINCT 301,"Chief Justice, Supreme Court",,DEM,Amy Clark Meachum,20
+Jones,PRECINCT 302,"Chief Justice, Supreme Court",,DEM,Amy Clark Meachum,81
+Jones,PRECINCT 303,"Chief Justice, Supreme Court",,DEM,Amy Clark Meachum,87
+Jones,PRECINCT 401,"Chief Justice, Supreme Court",,DEM,Amy Clark Meachum,123
+Jones,PRECINCT 402,"Chief Justice, Supreme Court",,DEM,Amy Clark Meachum,155
+Jones,PRECINCT 101,"Chief Justice, Supreme Court",,LIB,Mark Ash,10
+Jones,PRECINCT 102,"Chief Justice, Supreme Court",,LIB,Mark Ash,1
+Jones,PRECINCT 103,"Chief Justice, Supreme Court",,LIB,Mark Ash,8
+Jones,PRECINCT 201,"Chief Justice, Supreme Court",,LIB,Mark Ash,23
+Jones,PRECINCT 202,"Chief Justice, Supreme Court",,LIB,Mark Ash,4
+Jones,PRECINCT 203,"Chief Justice, Supreme Court",,LIB,Mark Ash,1
+Jones,PRECINCT 301,"Chief Justice, Supreme Court",,LIB,Mark Ash,1
+Jones,PRECINCT 302,"Chief Justice, Supreme Court",,LIB,Mark Ash,12
+Jones,PRECINCT 303,"Chief Justice, Supreme Court",,LIB,Mark Ash,9
+Jones,PRECINCT 401,"Chief Justice, Supreme Court",,LIB,Mark Ash,17
+Jones,PRECINCT 402,"Chief Justice, Supreme Court",,LIB,Mark Ash,19
+Jones,PRECINCT 101,"Chief Justice, Supreme Court",,,OVER VOTES,0
+Jones,PRECINCT 102,"Chief Justice, Supreme Court",,,OVER VOTES,0
+Jones,PRECINCT 103,"Chief Justice, Supreme Court",,,OVER VOTES,0
+Jones,PRECINCT 201,"Chief Justice, Supreme Court",,,OVER VOTES,0
+Jones,PRECINCT 202,"Chief Justice, Supreme Court",,,OVER VOTES,0
+Jones,PRECINCT 203,"Chief Justice, Supreme Court",,,OVER VOTES,0
+Jones,PRECINCT 301,"Chief Justice, Supreme Court",,,OVER VOTES,0
+Jones,PRECINCT 302,"Chief Justice, Supreme Court",,,OVER VOTES,0
+Jones,PRECINCT 303,"Chief Justice, Supreme Court",,,OVER VOTES,0
+Jones,PRECINCT 401,"Chief Justice, Supreme Court",,,OVER VOTES,0
+Jones,PRECINCT 402,"Chief Justice, Supreme Court",,,OVER VOTES,0
+Jones,PRECINCT 101,"Chief Justice, Supreme Court",,,UNDER VOTES,28
+Jones,PRECINCT 102,"Chief Justice, Supreme Court",,,UNDER VOTES,6
+Jones,PRECINCT 103,"Chief Justice, Supreme Court",,,UNDER VOTES,13
+Jones,PRECINCT 201,"Chief Justice, Supreme Court",,,UNDER VOTES,42
+Jones,PRECINCT 202,"Chief Justice, Supreme Court",,,UNDER VOTES,10
+Jones,PRECINCT 203,"Chief Justice, Supreme Court",,,UNDER VOTES,6
+Jones,PRECINCT 301,"Chief Justice, Supreme Court",,,UNDER VOTES,3
+Jones,PRECINCT 302,"Chief Justice, Supreme Court",,,UNDER VOTES,18
+Jones,PRECINCT 303,"Chief Justice, Supreme Court",,,UNDER VOTES,16
+Jones,PRECINCT 401,"Chief Justice, Supreme Court",,,UNDER VOTES,17
+Jones,PRECINCT 402,"Chief Justice, Supreme Court",,,UNDER VOTES,19
+Jones,PRECINCT 101,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,738
+Jones,PRECINCT 102,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,53
+Jones,PRECINCT 103,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,236
+Jones,PRECINCT 201,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,843
+Jones,PRECINCT 202,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,182
+Jones,PRECINCT 203,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,182
+Jones,PRECINCT 301,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,189
+Jones,PRECINCT 302,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,650
+Jones,PRECINCT 303,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,790
+Jones,PRECINCT 401,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,1001
+Jones,PRECINCT 402,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,743
+Jones,PRECINCT 101,"Justice, Supreme Court, Pl 6",,DEM,Kathy Cheng,146
+Jones,PRECINCT 102,"Justice, Supreme Court, Pl 6",,DEM,Kathy Cheng,38
+Jones,PRECINCT 103,"Justice, Supreme Court, Pl 6",,DEM,Kathy Cheng,70
+Jones,PRECINCT 201,"Justice, Supreme Court, Pl 6",,DEM,Kathy Cheng,218
+Jones,PRECINCT 202,"Justice, Supreme Court, Pl 6",,DEM,Kathy Cheng,28
+Jones,PRECINCT 203,"Justice, Supreme Court, Pl 6",,DEM,Kathy Cheng,15
+Jones,PRECINCT 301,"Justice, Supreme Court, Pl 6",,DEM,Kathy Cheng,18
+Jones,PRECINCT 302,"Justice, Supreme Court, Pl 6",,DEM,Kathy Cheng,71
+Jones,PRECINCT 303,"Justice, Supreme Court, Pl 6",,DEM,Kathy Cheng,77
+Jones,PRECINCT 401,"Justice, Supreme Court, Pl 6",,DEM,Kathy Cheng,116
+Jones,PRECINCT 402,"Justice, Supreme Court, Pl 6",,DEM,Kathy Cheng,147
+Jones,PRECINCT 101,"Justice, Supreme Court, Pl 6",,,OVER VOTES,0
+Jones,PRECINCT 102,"Justice, Supreme Court, Pl 6",,,OVER VOTES,0
+Jones,PRECINCT 103,"Justice, Supreme Court, Pl 6",,,OVER VOTES,0
+Jones,PRECINCT 201,"Justice, Supreme Court, Pl 6",,,OVER VOTES,0
+Jones,PRECINCT 202,"Justice, Supreme Court, Pl 6",,,OVER VOTES,0
+Jones,PRECINCT 203,"Justice, Supreme Court, Pl 6",,,OVER VOTES,0
+Jones,PRECINCT 301,"Justice, Supreme Court, Pl 6",,,OVER VOTES,0
+Jones,PRECINCT 302,"Justice, Supreme Court, Pl 6",,,OVER VOTES,0
+Jones,PRECINCT 303,"Justice, Supreme Court, Pl 6",,,OVER VOTES,0
+Jones,PRECINCT 401,"Justice, Supreme Court, Pl 6",,,OVER VOTES,0
+Jones,PRECINCT 402,"Justice, Supreme Court, Pl 6",,,OVER VOTES,0
+Jones,PRECINCT 101,"Justice, Supreme Court, Pl 6",,,UNDER VOTES,27
+Jones,PRECINCT 102,"Justice, Supreme Court, Pl 6",,,UNDER VOTES,7
+Jones,PRECINCT 103,"Justice, Supreme Court, Pl 6",,,UNDER VOTES,19
+Jones,PRECINCT 201,"Justice, Supreme Court, Pl 6",,,UNDER VOTES,53
+Jones,PRECINCT 202,"Justice, Supreme Court, Pl 6",,,UNDER VOTES,11
+Jones,PRECINCT 203,"Justice, Supreme Court, Pl 6",,,UNDER VOTES,5
+Jones,PRECINCT 301,"Justice, Supreme Court, Pl 6",,,UNDER VOTES,5
+Jones,PRECINCT 302,"Justice, Supreme Court, Pl 6",,,UNDER VOTES,23
+Jones,PRECINCT 303,"Justice, Supreme Court, Pl 6",,,UNDER VOTES,19
+Jones,PRECINCT 401,"Justice, Supreme Court, Pl 6",,,UNDER VOTES,16
+Jones,PRECINCT 402,"Justice, Supreme Court, Pl 6",,,UNDER VOTES,24
+Jones,PRECINCT 101,"Justice, Supreme Court, Pl 7",,REP,Jeff Boyd,730
+Jones,PRECINCT 102,"Justice, Supreme Court, Pl 7",,REP,Jeff Boyd,51
+Jones,PRECINCT 103,"Justice, Supreme Court, Pl 7",,REP,Jeff Boyd,231
+Jones,PRECINCT 201,"Justice, Supreme Court, Pl 7",,REP,Jeff Boyd,824
+Jones,PRECINCT 202,"Justice, Supreme Court, Pl 7",,REP,Jeff Boyd,180
+Jones,PRECINCT 203,"Justice, Supreme Court, Pl 7",,REP,Jeff Boyd,182
+Jones,PRECINCT 301,"Justice, Supreme Court, Pl 7",,REP,Jeff Boyd,183
+Jones,PRECINCT 302,"Justice, Supreme Court, Pl 7",,REP,Jeff Boyd,636
+Jones,PRECINCT 303,"Justice, Supreme Court, Pl 7",,REP,Jeff Boyd,774
+Jones,PRECINCT 401,"Justice, Supreme Court, Pl 7",,REP,Jeff Boyd,974
+Jones,PRECINCT 402,"Justice, Supreme Court, Pl 7",,REP,Jeff Boyd,726
+Jones,PRECINCT 101,"Justice, Supreme Court, Pl 7",,DEM,Staci Williams,145
+Jones,PRECINCT 102,"Justice, Supreme Court, Pl 7",,DEM,Staci Williams,41
+Jones,PRECINCT 103,"Justice, Supreme Court, Pl 7",,DEM,Staci Williams,69
+Jones,PRECINCT 201,"Justice, Supreme Court, Pl 7",,DEM,Staci Williams,229
+Jones,PRECINCT 202,"Justice, Supreme Court, Pl 7",,DEM,Staci Williams,28
+Jones,PRECINCT 203,"Justice, Supreme Court, Pl 7",,DEM,Staci Williams,16
+Jones,PRECINCT 301,"Justice, Supreme Court, Pl 7",,DEM,Staci Williams,20
+Jones,PRECINCT 302,"Justice, Supreme Court, Pl 7",,DEM,Staci Williams,70
+Jones,PRECINCT 303,"Justice, Supreme Court, Pl 7",,DEM,Staci Williams,76
+Jones,PRECINCT 401,"Justice, Supreme Court, Pl 7",,DEM,Staci Williams,127
+Jones,PRECINCT 402,"Justice, Supreme Court, Pl 7",,DEM,Staci Williams,152
+Jones,PRECINCT 101,"Justice, Supreme Court, Pl 7",,LIB,William Bryan Strange III,10
+Jones,PRECINCT 102,"Justice, Supreme Court, Pl 7",,LIB,William Bryan Strange III,0
+Jones,PRECINCT 103,"Justice, Supreme Court, Pl 7",,LIB,William Bryan Strange III,8
+Jones,PRECINCT 201,"Justice, Supreme Court, Pl 7",,LIB,William Bryan Strange III,11
+Jones,PRECINCT 202,"Justice, Supreme Court, Pl 7",,LIB,William Bryan Strange III,1
+Jones,PRECINCT 203,"Justice, Supreme Court, Pl 7",,LIB,William Bryan Strange III,2
+Jones,PRECINCT 301,"Justice, Supreme Court, Pl 7",,LIB,William Bryan Strange III,3
+Jones,PRECINCT 302,"Justice, Supreme Court, Pl 7",,LIB,William Bryan Strange III,17
+Jones,PRECINCT 303,"Justice, Supreme Court, Pl 7",,LIB,William Bryan Strange III,16
+Jones,PRECINCT 401,"Justice, Supreme Court, Pl 7",,LIB,William Bryan Strange III,15
+Jones,PRECINCT 402,"Justice, Supreme Court, Pl 7",,LIB,William Bryan Strange III,17
+Jones,PRECINCT 101,"Justice, Supreme Court, Pl 7",,,OVER VOTES,0
+Jones,PRECINCT 102,"Justice, Supreme Court, Pl 7",,,OVER VOTES,0
+Jones,PRECINCT 103,"Justice, Supreme Court, Pl 7",,,OVER VOTES,0
+Jones,PRECINCT 201,"Justice, Supreme Court, Pl 7",,,OVER VOTES,0
+Jones,PRECINCT 202,"Justice, Supreme Court, Pl 7",,,OVER VOTES,0
+Jones,PRECINCT 203,"Justice, Supreme Court, Pl 7",,,OVER VOTES,0
+Jones,PRECINCT 301,"Justice, Supreme Court, Pl 7",,,OVER VOTES,0
+Jones,PRECINCT 302,"Justice, Supreme Court, Pl 7",,,OVER VOTES,0
+Jones,PRECINCT 303,"Justice, Supreme Court, Pl 7",,,OVER VOTES,0
+Jones,PRECINCT 401,"Justice, Supreme Court, Pl 7",,,OVER VOTES,0
+Jones,PRECINCT 402,"Justice, Supreme Court, Pl 7",,,OVER VOTES,0
+Jones,PRECINCT 101,"Justice, Supreme Court, Pl 7",,,UNDER VOTES,26
+Jones,PRECINCT 102,"Justice, Supreme Court, Pl 7",,,UNDER VOTES,6
+Jones,PRECINCT 103,"Justice, Supreme Court, Pl 7",,,UNDER VOTES,17
+Jones,PRECINCT 201,"Justice, Supreme Court, Pl 7",,,UNDER VOTES,50
+Jones,PRECINCT 202,"Justice, Supreme Court, Pl 7",,,UNDER VOTES,12
+Jones,PRECINCT 203,"Justice, Supreme Court, Pl 7",,,UNDER VOTES,2
+Jones,PRECINCT 301,"Justice, Supreme Court, Pl 7",,,UNDER VOTES,6
+Jones,PRECINCT 302,"Justice, Supreme Court, Pl 7",,,UNDER VOTES,21
+Jones,PRECINCT 303,"Justice, Supreme Court, Pl 7",,,UNDER VOTES,20
+Jones,PRECINCT 401,"Justice, Supreme Court, Pl 7",,,UNDER VOTES,17
+Jones,PRECINCT 402,"Justice, Supreme Court, Pl 7",,,UNDER VOTES,19
+Jones,PRECINCT 101,"Justice, Supreme Court, Pl 8",,REP,Brett Busby,726
+Jones,PRECINCT 102,"Justice, Supreme Court, Pl 8",,REP,Brett Busby,52
+Jones,PRECINCT 103,"Justice, Supreme Court, Pl 8",,REP,Brett Busby,229
+Jones,PRECINCT 201,"Justice, Supreme Court, Pl 8",,REP,Brett Busby,828
+Jones,PRECINCT 202,"Justice, Supreme Court, Pl 8",,REP,Brett Busby,179
+Jones,PRECINCT 203,"Justice, Supreme Court, Pl 8",,REP,Brett Busby,178
+Jones,PRECINCT 301,"Justice, Supreme Court, Pl 8",,REP,Brett Busby,189
+Jones,PRECINCT 302,"Justice, Supreme Court, Pl 8",,REP,Brett Busby,633
+Jones,PRECINCT 303,"Justice, Supreme Court, Pl 8",,REP,Brett Busby,780
+Jones,PRECINCT 401,"Justice, Supreme Court, Pl 8",,REP,Brett Busby,979
+Jones,PRECINCT 402,"Justice, Supreme Court, Pl 8",,REP,Brett Busby,727
+Jones,PRECINCT 101,"Justice, Supreme Court, Pl 8",,DEM,Gisela D. Triana,145
+Jones,PRECINCT 102,"Justice, Supreme Court, Pl 8",,DEM,Gisela D. Triana,40
+Jones,PRECINCT 103,"Justice, Supreme Court, Pl 8",,DEM,Gisela D. Triana,70
+Jones,PRECINCT 201,"Justice, Supreme Court, Pl 8",,DEM,Gisela D. Triana,216
+Jones,PRECINCT 202,"Justice, Supreme Court, Pl 8",,DEM,Gisela D. Triana,25
+Jones,PRECINCT 203,"Justice, Supreme Court, Pl 8",,DEM,Gisela D. Triana,18
+Jones,PRECINCT 301,"Justice, Supreme Court, Pl 8",,DEM,Gisela D. Triana,17
+Jones,PRECINCT 302,"Justice, Supreme Court, Pl 8",,DEM,Gisela D. Triana,67
+Jones,PRECINCT 303,"Justice, Supreme Court, Pl 8",,DEM,Gisela D. Triana,71
+Jones,PRECINCT 401,"Justice, Supreme Court, Pl 8",,DEM,Gisela D. Triana,111
+Jones,PRECINCT 402,"Justice, Supreme Court, Pl 8",,DEM,Gisela D. Triana,154
+Jones,PRECINCT 101,"Justice, Supreme Court, Pl 8",,LIB,Tom Oxford,14
+Jones,PRECINCT 102,"Justice, Supreme Court, Pl 8",,LIB,Tom Oxford,1
+Jones,PRECINCT 103,"Justice, Supreme Court, Pl 8",,LIB,Tom Oxford,9
+Jones,PRECINCT 201,"Justice, Supreme Court, Pl 8",,LIB,Tom Oxford,18
+Jones,PRECINCT 202,"Justice, Supreme Court, Pl 8",,LIB,Tom Oxford,4
+Jones,PRECINCT 203,"Justice, Supreme Court, Pl 8",,LIB,Tom Oxford,2
+Jones,PRECINCT 301,"Justice, Supreme Court, Pl 8",,LIB,Tom Oxford,2
+Jones,PRECINCT 302,"Justice, Supreme Court, Pl 8",,LIB,Tom Oxford,20
+Jones,PRECINCT 303,"Justice, Supreme Court, Pl 8",,LIB,Tom Oxford,15
+Jones,PRECINCT 401,"Justice, Supreme Court, Pl 8",,LIB,Tom Oxford,24
+Jones,PRECINCT 402,"Justice, Supreme Court, Pl 8",,LIB,Tom Oxford,16
+Jones,PRECINCT 101,"Justice, Supreme Court, Pl 8",,,OVER VOTES,0
+Jones,PRECINCT 102,"Justice, Supreme Court, Pl 8",,,OVER VOTES,0
+Jones,PRECINCT 103,"Justice, Supreme Court, Pl 8",,,OVER VOTES,0
+Jones,PRECINCT 201,"Justice, Supreme Court, Pl 8",,,OVER VOTES,0
+Jones,PRECINCT 202,"Justice, Supreme Court, Pl 8",,,OVER VOTES,0
+Jones,PRECINCT 203,"Justice, Supreme Court, Pl 8",,,OVER VOTES,0
+Jones,PRECINCT 301,"Justice, Supreme Court, Pl 8",,,OVER VOTES,0
+Jones,PRECINCT 302,"Justice, Supreme Court, Pl 8",,,OVER VOTES,0
+Jones,PRECINCT 303,"Justice, Supreme Court, Pl 8",,,OVER VOTES,0
+Jones,PRECINCT 401,"Justice, Supreme Court, Pl 8",,,OVER VOTES,0
+Jones,PRECINCT 402,"Justice, Supreme Court, Pl 8",,,OVER VOTES,0
+Jones,PRECINCT 101,"Justice, Supreme Court, Pl 8",,,UNDER VOTES,26
+Jones,PRECINCT 102,"Justice, Supreme Court, Pl 8",,,UNDER VOTES,5
+Jones,PRECINCT 103,"Justice, Supreme Court, Pl 8",,,UNDER VOTES,17
+Jones,PRECINCT 201,"Justice, Supreme Court, Pl 8",,,UNDER VOTES,52
+Jones,PRECINCT 202,"Justice, Supreme Court, Pl 8",,,UNDER VOTES,13
+Jones,PRECINCT 203,"Justice, Supreme Court, Pl 8",,,UNDER VOTES,4
+Jones,PRECINCT 301,"Justice, Supreme Court, Pl 8",,,UNDER VOTES,4
+Jones,PRECINCT 302,"Justice, Supreme Court, Pl 8",,,UNDER VOTES,24
+Jones,PRECINCT 303,"Justice, Supreme Court, Pl 8",,,UNDER VOTES,20
+Jones,PRECINCT 401,"Justice, Supreme Court, Pl 8",,,UNDER VOTES,19
+Jones,PRECINCT 402,"Justice, Supreme Court, Pl 8",,,UNDER VOTES,17
+Jones,PRECINCT 101,"Judge, Ct of Crim App, Pl 3",,REP,Bert Richardson,737
+Jones,PRECINCT 102,"Judge, Ct of Crim App, Pl 3",,REP,Bert Richardson,53
+Jones,PRECINCT 103,"Judge, Ct of Crim App, Pl 3",,REP,Bert Richardson,237
+Jones,PRECINCT 201,"Judge, Ct of Crim App, Pl 3",,REP,Bert Richardson,829
+Jones,PRECINCT 202,"Judge, Ct of Crim App, Pl 3",,REP,Bert Richardson,181
+Jones,PRECINCT 203,"Judge, Ct of Crim App, Pl 3",,REP,Bert Richardson,180
+Jones,PRECINCT 301,"Judge, Ct of Crim App, Pl 3",,REP,Bert Richardson,189
+Jones,PRECINCT 302,"Judge, Ct of Crim App, Pl 3",,REP,Bert Richardson,649
+Jones,PRECINCT 303,"Judge, Ct of Crim App, Pl 3",,REP,Bert Richardson,783
+Jones,PRECINCT 401,"Judge, Ct of Crim App, Pl 3",,REP,Bert Richardson,990
+Jones,PRECINCT 402,"Judge, Ct of Crim App, Pl 3",,REP,Bert Richardson,733
+Jones,PRECINCT 101,"Judge, Ct of Crim App, Pl 3",,DEM,Elizabeth Davis Frizell,142
+Jones,PRECINCT 102,"Judge, Ct of Crim App, Pl 3",,DEM,Elizabeth Davis Frizell,39
+Jones,PRECINCT 103,"Judge, Ct of Crim App, Pl 3",,DEM,Elizabeth Davis Frizell,71
+Jones,PRECINCT 201,"Judge, Ct of Crim App, Pl 3",,DEM,Elizabeth Davis Frizell,235
+Jones,PRECINCT 202,"Judge, Ct of Crim App, Pl 3",,DEM,Elizabeth Davis Frizell,29
+Jones,PRECINCT 203,"Judge, Ct of Crim App, Pl 3",,DEM,Elizabeth Davis Frizell,19
+Jones,PRECINCT 301,"Judge, Ct of Crim App, Pl 3",,DEM,Elizabeth Davis Frizell,19
+Jones,PRECINCT 302,"Judge, Ct of Crim App, Pl 3",,DEM,Elizabeth Davis Frizell,70
+Jones,PRECINCT 303,"Judge, Ct of Crim App, Pl 3",,DEM,Elizabeth Davis Frizell,84
+Jones,PRECINCT 401,"Judge, Ct of Crim App, Pl 3",,DEM,Elizabeth Davis Frizell,126
+Jones,PRECINCT 402,"Judge, Ct of Crim App, Pl 3",,DEM,Elizabeth Davis Frizell,161
+Jones,PRECINCT 101,"Judge, Ct of Crim App, Pl 3",,,OVER VOTES,0
+Jones,PRECINCT 102,"Judge, Ct of Crim App, Pl 3",,,OVER VOTES,0
+Jones,PRECINCT 103,"Judge, Ct of Crim App, Pl 3",,,OVER VOTES,0
+Jones,PRECINCT 201,"Judge, Ct of Crim App, Pl 3",,,OVER VOTES,0
+Jones,PRECINCT 202,"Judge, Ct of Crim App, Pl 3",,,OVER VOTES,0
+Jones,PRECINCT 203,"Judge, Ct of Crim App, Pl 3",,,OVER VOTES,0
+Jones,PRECINCT 301,"Judge, Ct of Crim App, Pl 3",,,OVER VOTES,0
+Jones,PRECINCT 302,"Judge, Ct of Crim App, Pl 3",,,OVER VOTES,0
+Jones,PRECINCT 303,"Judge, Ct of Crim App, Pl 3",,,OVER VOTES,0
+Jones,PRECINCT 401,"Judge, Ct of Crim App, Pl 3",,,OVER VOTES,0
+Jones,PRECINCT 402,"Judge, Ct of Crim App, Pl 3",,,OVER VOTES,0
+Jones,PRECINCT 101,"Judge, Ct of Crim App, Pl 3",,,UNDER VOTES,31
+Jones,PRECINCT 102,"Judge, Ct of Crim App, Pl 3",,,UNDER VOTES,6
+Jones,PRECINCT 103,"Judge, Ct of Crim App, Pl 3",,,UNDER VOTES,17
+Jones,PRECINCT 201,"Judge, Ct of Crim App, Pl 3",,,UNDER VOTES,50
+Jones,PRECINCT 202,"Judge, Ct of Crim App, Pl 3",,,UNDER VOTES,11
+Jones,PRECINCT 203,"Judge, Ct of Crim App, Pl 3",,,UNDER VOTES,3
+Jones,PRECINCT 301,"Judge, Ct of Crim App, Pl 3",,,UNDER VOTES,4
+Jones,PRECINCT 302,"Judge, Ct of Crim App, Pl 3",,,UNDER VOTES,25
+Jones,PRECINCT 303,"Judge, Ct of Crim App, Pl 3",,,UNDER VOTES,19
+Jones,PRECINCT 401,"Judge, Ct of Crim App, Pl 3",,,UNDER VOTES,17
+Jones,PRECINCT 402,"Judge, Ct of Crim App, Pl 3",,,UNDER VOTES,20
+Jones,PRECINCT 101,"Judge, Ct of Crim App, Pl 4",,REP,Kevin Patrick Yeary,734
+Jones,PRECINCT 102,"Judge, Ct of Crim App, Pl 4",,REP,Kevin Patrick Yeary,51
+Jones,PRECINCT 103,"Judge, Ct of Crim App, Pl 4",,REP,Kevin Patrick Yeary,232
+Jones,PRECINCT 201,"Judge, Ct of Crim App, Pl 4",,REP,Kevin Patrick Yeary,833
+Jones,PRECINCT 202,"Judge, Ct of Crim App, Pl 4",,REP,Kevin Patrick Yeary,180
+Jones,PRECINCT 203,"Judge, Ct of Crim App, Pl 4",,REP,Kevin Patrick Yeary,181
+Jones,PRECINCT 301,"Judge, Ct of Crim App, Pl 4",,REP,Kevin Patrick Yeary,192
+Jones,PRECINCT 302,"Judge, Ct of Crim App, Pl 4",,REP,Kevin Patrick Yeary,642
+Jones,PRECINCT 303,"Judge, Ct of Crim App, Pl 4",,REP,Kevin Patrick Yeary,790
+Jones,PRECINCT 401,"Judge, Ct of Crim App, Pl 4",,REP,Kevin Patrick Yeary,993
+Jones,PRECINCT 402,"Judge, Ct of Crim App, Pl 4",,REP,Kevin Patrick Yeary,736
+Jones,PRECINCT 101,"Judge, Ct of Crim App, Pl 4",,DEM,Tina Clinton,144
+Jones,PRECINCT 102,"Judge, Ct of Crim App, Pl 4",,DEM,Tina Clinton,41
+Jones,PRECINCT 103,"Judge, Ct of Crim App, Pl 4",,DEM,Tina Clinton,71
+Jones,PRECINCT 201,"Judge, Ct of Crim App, Pl 4",,DEM,Tina Clinton,230
+Jones,PRECINCT 202,"Judge, Ct of Crim App, Pl 4",,DEM,Tina Clinton,27
+Jones,PRECINCT 203,"Judge, Ct of Crim App, Pl 4",,DEM,Tina Clinton,17
+Jones,PRECINCT 301,"Judge, Ct of Crim App, Pl 4",,DEM,Tina Clinton,17
+Jones,PRECINCT 302,"Judge, Ct of Crim App, Pl 4",,DEM,Tina Clinton,74
+Jones,PRECINCT 303,"Judge, Ct of Crim App, Pl 4",,DEM,Tina Clinton,77
+Jones,PRECINCT 401,"Judge, Ct of Crim App, Pl 4",,DEM,Tina Clinton,116
+Jones,PRECINCT 402,"Judge, Ct of Crim App, Pl 4",,DEM,Tina Clinton,155
+Jones,PRECINCT 101,"Judge, Ct of Crim App, Pl 4",,,OVER VOTES,0
+Jones,PRECINCT 102,"Judge, Ct of Crim App, Pl 4",,,OVER VOTES,0
+Jones,PRECINCT 103,"Judge, Ct of Crim App, Pl 4",,,OVER VOTES,0
+Jones,PRECINCT 201,"Judge, Ct of Crim App, Pl 4",,,OVER VOTES,0
+Jones,PRECINCT 202,"Judge, Ct of Crim App, Pl 4",,,OVER VOTES,0
+Jones,PRECINCT 203,"Judge, Ct of Crim App, Pl 4",,,OVER VOTES,0
+Jones,PRECINCT 301,"Judge, Ct of Crim App, Pl 4",,,OVER VOTES,0
+Jones,PRECINCT 302,"Judge, Ct of Crim App, Pl 4",,,OVER VOTES,0
+Jones,PRECINCT 303,"Judge, Ct of Crim App, Pl 4",,,OVER VOTES,0
+Jones,PRECINCT 401,"Judge, Ct of Crim App, Pl 4",,,OVER VOTES,0
+Jones,PRECINCT 402,"Judge, Ct of Crim App, Pl 4",,,OVER VOTES,0
+Jones,PRECINCT 101,"Judge, Ct of Crim App, Pl 4",,,UNDER VOTES,32
+Jones,PRECINCT 102,"Judge, Ct of Crim App, Pl 4",,,UNDER VOTES,6
+Jones,PRECINCT 103,"Judge, Ct of Crim App, Pl 4",,,UNDER VOTES,22
+Jones,PRECINCT 201,"Judge, Ct of Crim App, Pl 4",,,UNDER VOTES,51
+Jones,PRECINCT 202,"Judge, Ct of Crim App, Pl 4",,,UNDER VOTES,14
+Jones,PRECINCT 203,"Judge, Ct of Crim App, Pl 4",,,UNDER VOTES,4
+Jones,PRECINCT 301,"Judge, Ct of Crim App, Pl 4",,,UNDER VOTES,3
+Jones,PRECINCT 302,"Judge, Ct of Crim App, Pl 4",,,UNDER VOTES,28
+Jones,PRECINCT 303,"Judge, Ct of Crim App, Pl 4",,,UNDER VOTES,19
+Jones,PRECINCT 401,"Judge, Ct of Crim App, Pl 4",,,UNDER VOTES,24
+Jones,PRECINCT 402,"Judge, Ct of Crim App, Pl 4",,,UNDER VOTES,23
+Jones,PRECINCT 101,"Judge, Ct of Crim App, Pl 9",,REP,David Newell,728
+Jones,PRECINCT 102,"Judge, Ct of Crim App, Pl 9",,REP,David Newell,50
+Jones,PRECINCT 103,"Judge, Ct of Crim App, Pl 9",,REP,David Newell,237
+Jones,PRECINCT 201,"Judge, Ct of Crim App, Pl 9",,REP,David Newell,828
+Jones,PRECINCT 202,"Judge, Ct of Crim App, Pl 9",,REP,David Newell,178
+Jones,PRECINCT 203,"Judge, Ct of Crim App, Pl 9",,REP,David Newell,182
+Jones,PRECINCT 301,"Judge, Ct of Crim App, Pl 9",,REP,David Newell,189
+Jones,PRECINCT 302,"Judge, Ct of Crim App, Pl 9",,REP,David Newell,645
+Jones,PRECINCT 303,"Judge, Ct of Crim App, Pl 9",,REP,David Newell,781
+Jones,PRECINCT 401,"Judge, Ct of Crim App, Pl 9",,REP,David Newell,998
+Jones,PRECINCT 402,"Judge, Ct of Crim App, Pl 9",,REP,David Newell,736
+Jones,PRECINCT 101,"Judge, Ct of Crim App, Pl 9",,DEM,Brandon Birmingham,147
+Jones,PRECINCT 102,"Judge, Ct of Crim App, Pl 9",,DEM,Brandon Birmingham,42
+Jones,PRECINCT 103,"Judge, Ct of Crim App, Pl 9",,DEM,Brandon Birmingham,70
+Jones,PRECINCT 201,"Judge, Ct of Crim App, Pl 9",,DEM,Brandon Birmingham,230
+Jones,PRECINCT 202,"Judge, Ct of Crim App, Pl 9",,DEM,Brandon Birmingham,29
+Jones,PRECINCT 203,"Judge, Ct of Crim App, Pl 9",,DEM,Brandon Birmingham,15
+Jones,PRECINCT 301,"Judge, Ct of Crim App, Pl 9",,DEM,Brandon Birmingham,18
+Jones,PRECINCT 302,"Judge, Ct of Crim App, Pl 9",,DEM,Brandon Birmingham,73
+Jones,PRECINCT 303,"Judge, Ct of Crim App, Pl 9",,DEM,Brandon Birmingham,85
+Jones,PRECINCT 401,"Judge, Ct of Crim App, Pl 9",,DEM,Brandon Birmingham,112
+Jones,PRECINCT 402,"Judge, Ct of Crim App, Pl 9",,DEM,Brandon Birmingham,153
+Jones,PRECINCT 101,"Judge, Ct of Crim App, Pl 9",,,OVER VOTES,0
+Jones,PRECINCT 102,"Judge, Ct of Crim App, Pl 9",,,OVER VOTES,0
+Jones,PRECINCT 103,"Judge, Ct of Crim App, Pl 9",,,OVER VOTES,0
+Jones,PRECINCT 201,"Judge, Ct of Crim App, Pl 9",,,OVER VOTES,0
+Jones,PRECINCT 202,"Judge, Ct of Crim App, Pl 9",,,OVER VOTES,0
+Jones,PRECINCT 203,"Judge, Ct of Crim App, Pl 9",,,OVER VOTES,0
+Jones,PRECINCT 301,"Judge, Ct of Crim App, Pl 9",,,OVER VOTES,0
+Jones,PRECINCT 302,"Judge, Ct of Crim App, Pl 9",,,OVER VOTES,0
+Jones,PRECINCT 303,"Judge, Ct of Crim App, Pl 9",,,OVER VOTES,0
+Jones,PRECINCT 401,"Judge, Ct of Crim App, Pl 9",,,OVER VOTES,0
+Jones,PRECINCT 402,"Judge, Ct of Crim App, Pl 9",,,OVER VOTES,0
+Jones,PRECINCT 101,"Judge, Ct of Crim App, Pl 9",,,UNDER VOTES,35
+Jones,PRECINCT 102,"Judge, Ct of Crim App, Pl 9",,,UNDER VOTES,6
+Jones,PRECINCT 103,"Judge, Ct of Crim App, Pl 9",,,UNDER VOTES,18
+Jones,PRECINCT 201,"Judge, Ct of Crim App, Pl 9",,,UNDER VOTES,56
+Jones,PRECINCT 202,"Judge, Ct of Crim App, Pl 9",,,UNDER VOTES,14
+Jones,PRECINCT 203,"Judge, Ct of Crim App, Pl 9",,,UNDER VOTES,5
+Jones,PRECINCT 301,"Judge, Ct of Crim App, Pl 9",,,UNDER VOTES,5
+Jones,PRECINCT 302,"Judge, Ct of Crim App, Pl 9",,,UNDER VOTES,26
+Jones,PRECINCT 303,"Judge, Ct of Crim App, Pl 9",,,UNDER VOTES,20
+Jones,PRECINCT 401,"Judge, Ct of Crim App, Pl 9",,,UNDER VOTES,23
+Jones,PRECINCT 402,"Judge, Ct of Crim App, Pl 9",,,UNDER VOTES,25
+Jones,PRECINCT 101,"Member, State BoE, Dist 15",,REP,Jay Johnson,721
+Jones,PRECINCT 102,"Member, State BoE, Dist 15",,REP,Jay Johnson,53
+Jones,PRECINCT 103,"Member, State BoE, Dist 15",,REP,Jay Johnson,236
+Jones,PRECINCT 201,"Member, State BoE, Dist 15",,REP,Jay Johnson,830
+Jones,PRECINCT 202,"Member, State BoE, Dist 15",,REP,Jay Johnson,180
+Jones,PRECINCT 203,"Member, State BoE, Dist 15",,REP,Jay Johnson,183
+Jones,PRECINCT 301,"Member, State BoE, Dist 15",,REP,Jay Johnson,190
+Jones,PRECINCT 302,"Member, State BoE, Dist 15",,REP,Jay Johnson,647
+Jones,PRECINCT 303,"Member, State BoE, Dist 15",,REP,Jay Johnson,782
+Jones,PRECINCT 401,"Member, State BoE, Dist 15",,REP,Jay Johnson,999
+Jones,PRECINCT 402,"Member, State BoE, Dist 15",,REP,Jay Johnson,738
+Jones,PRECINCT 101,"Member, State BoE, Dist 15",,DEM,John Betancourt,146
+Jones,PRECINCT 102,"Member, State BoE, Dist 15",,DEM,John Betancourt,39
+Jones,PRECINCT 103,"Member, State BoE, Dist 15",,DEM,John Betancourt,68
+Jones,PRECINCT 201,"Member, State BoE, Dist 15",,DEM,John Betancourt,227
+Jones,PRECINCT 202,"Member, State BoE, Dist 15",,DEM,John Betancourt,25
+Jones,PRECINCT 203,"Member, State BoE, Dist 15",,DEM,John Betancourt,15
+Jones,PRECINCT 301,"Member, State BoE, Dist 15",,DEM,John Betancourt,17
+Jones,PRECINCT 302,"Member, State BoE, Dist 15",,DEM,John Betancourt,75
+Jones,PRECINCT 303,"Member, State BoE, Dist 15",,DEM,John Betancourt,79
+Jones,PRECINCT 401,"Member, State BoE, Dist 15",,DEM,John Betancourt,111
+Jones,PRECINCT 402,"Member, State BoE, Dist 15",,DEM,John Betancourt,155
+Jones,PRECINCT 101,"Member, State BoE, Dist 15",,,OVER VOTES,0
+Jones,PRECINCT 102,"Member, State BoE, Dist 15",,,OVER VOTES,0
+Jones,PRECINCT 103,"Member, State BoE, Dist 15",,,OVER VOTES,0
+Jones,PRECINCT 201,"Member, State BoE, Dist 15",,,OVER VOTES,0
+Jones,PRECINCT 202,"Member, State BoE, Dist 15",,,OVER VOTES,0
+Jones,PRECINCT 203,"Member, State BoE, Dist 15",,,OVER VOTES,0
+Jones,PRECINCT 301,"Member, State BoE, Dist 15",,,OVER VOTES,0
+Jones,PRECINCT 302,"Member, State BoE, Dist 15",,,OVER VOTES,0
+Jones,PRECINCT 303,"Member, State BoE, Dist 15",,,OVER VOTES,0
+Jones,PRECINCT 401,"Member, State BoE, Dist 15",,,OVER VOTES,0
+Jones,PRECINCT 402,"Member, State BoE, Dist 15",,,OVER VOTES,0
+Jones,PRECINCT 101,"Member, State BoE, Dist 15",,,UNDER VOTES,43
+Jones,PRECINCT 102,"Member, State BoE, Dist 15",,,UNDER VOTES,6
+Jones,PRECINCT 103,"Member, State BoE, Dist 15",,,UNDER VOTES,21
+Jones,PRECINCT 201,"Member, State BoE, Dist 15",,,UNDER VOTES,57
+Jones,PRECINCT 202,"Member, State BoE, Dist 15",,,UNDER VOTES,16
+Jones,PRECINCT 203,"Member, State BoE, Dist 15",,,UNDER VOTES,4
+Jones,PRECINCT 301,"Member, State BoE, Dist 15",,,UNDER VOTES,5
+Jones,PRECINCT 302,"Member, State BoE, Dist 15",,,UNDER VOTES,22
+Jones,PRECINCT 303,"Member, State BoE, Dist 15",,,UNDER VOTES,25
+Jones,PRECINCT 401,"Member, State BoE, Dist 15",,,UNDER VOTES,23
+Jones,PRECINCT 402,"Member, State BoE, Dist 15",,,UNDER VOTES,21
+Jones,PRECINCT 101,State Senate,28,REP,Charles Perry,753
+Jones,PRECINCT 102,State Senate,28,REP,Charles Perry,57
+Jones,PRECINCT 103,State Senate,28,REP,Charles Perry,258
+Jones,PRECINCT 201,State Senate,28,REP,Charles Perry,927
+Jones,PRECINCT 202,State Senate,28,REP,Charles Perry,194
+Jones,PRECINCT 203,State Senate,28,REP,Charles Perry,186
+Jones,PRECINCT 301,State Senate,28,REP,Charles Perry,194
+Jones,PRECINCT 302,State Senate,28,REP,Charles Perry,671
+Jones,PRECINCT 303,State Senate,28,REP,Charles Perry,817
+Jones,PRECINCT 401,State Senate,28,REP,Charles Perry,1040
+Jones,PRECINCT 402,State Senate,28,REP,Charles Perry,794
+Jones,PRECINCT 101,State Senate,28,,OVER VOTES,0
+Jones,PRECINCT 102,State Senate,28,,OVER VOTES,0
+Jones,PRECINCT 103,State Senate,28,,OVER VOTES,0
+Jones,PRECINCT 201,State Senate,28,,OVER VOTES,0
+Jones,PRECINCT 202,State Senate,28,,OVER VOTES,0
+Jones,PRECINCT 203,State Senate,28,,OVER VOTES,0
+Jones,PRECINCT 301,State Senate,28,,OVER VOTES,0
+Jones,PRECINCT 302,State Senate,28,,OVER VOTES,0
+Jones,PRECINCT 303,State Senate,28,,OVER VOTES,0
+Jones,PRECINCT 401,State Senate,28,,OVER VOTES,0
+Jones,PRECINCT 402,State Senate,28,,OVER VOTES,0
+Jones,PRECINCT 101,State Senate,28,,UNDER VOTES,157
+Jones,PRECINCT 102,State Senate,28,,UNDER VOTES,41
+Jones,PRECINCT 103,State Senate,28,,UNDER VOTES,67
+Jones,PRECINCT 201,State Senate,28,,UNDER VOTES,187
+Jones,PRECINCT 202,State Senate,28,,UNDER VOTES,27
+Jones,PRECINCT 203,State Senate,28,,UNDER VOTES,16
+Jones,PRECINCT 301,State Senate,28,,UNDER VOTES,18
+Jones,PRECINCT 302,State Senate,28,,UNDER VOTES,73
+Jones,PRECINCT 303,State Senate,28,,UNDER VOTES,69
+Jones,PRECINCT 401,State Senate,28,,UNDER VOTES,93
+Jones,PRECINCT 402,State Senate,28,,UNDER VOTES,120
+Jones,PRECINCT 101,State Representative,71,REP,Stan Lambert,728
+Jones,PRECINCT 102,State Representative,71,REP,Stan Lambert,51
+Jones,PRECINCT 103,State Representative,71,REP,Stan Lambert,250
+Jones,PRECINCT 201,State Representative,71,REP,Stan Lambert,871
+Jones,PRECINCT 202,State Representative,71,REP,Stan Lambert,185
+Jones,PRECINCT 203,State Representative,71,REP,Stan Lambert,186
+Jones,PRECINCT 301,State Representative,71,REP,Stan Lambert,189
+Jones,PRECINCT 302,State Representative,71,REP,Stan Lambert,663
+Jones,PRECINCT 303,State Representative,71,REP,Stan Lambert,792
+Jones,PRECINCT 401,State Representative,71,REP,Stan Lambert,1004
+Jones,PRECINCT 402,State Representative,71,REP,Stan Lambert,757
+Jones,PRECINCT 101,State Representative,71,DEM,Samuel Hatton,137
+Jones,PRECINCT 102,State Representative,71,DEM,Samuel Hatton,41
+Jones,PRECINCT 103,State Representative,71,DEM,Samuel Hatton,63
+Jones,PRECINCT 201,State Representative,71,DEM,Samuel Hatton,207
+Jones,PRECINCT 202,State Representative,71,DEM,Samuel Hatton,28
+Jones,PRECINCT 203,State Representative,71,DEM,Samuel Hatton,13
+Jones,PRECINCT 301,State Representative,71,DEM,Samuel Hatton,17
+Jones,PRECINCT 302,State Representative,71,DEM,Samuel Hatton,64
+Jones,PRECINCT 303,State Representative,71,DEM,Samuel Hatton,74
+Jones,PRECINCT 401,State Representative,71,DEM,Samuel Hatton,109
+Jones,PRECINCT 402,State Representative,71,DEM,Samuel Hatton,141
+Jones,PRECINCT 101,State Representative,71,,OVER VOTES,0
+Jones,PRECINCT 102,State Representative,71,,OVER VOTES,0
+Jones,PRECINCT 103,State Representative,71,,OVER VOTES,0
+Jones,PRECINCT 201,State Representative,71,,OVER VOTES,0
+Jones,PRECINCT 202,State Representative,71,,OVER VOTES,0
+Jones,PRECINCT 203,State Representative,71,,OVER VOTES,0
+Jones,PRECINCT 301,State Representative,71,,OVER VOTES,0
+Jones,PRECINCT 302,State Representative,71,,OVER VOTES,0
+Jones,PRECINCT 303,State Representative,71,,OVER VOTES,0
+Jones,PRECINCT 401,State Representative,71,,OVER VOTES,0
+Jones,PRECINCT 402,State Representative,71,,OVER VOTES,0
+Jones,PRECINCT 101,State Representative,71,,UNDER VOTES,45
+Jones,PRECINCT 102,State Representative,71,,UNDER VOTES,6
+Jones,PRECINCT 103,State Representative,71,,UNDER VOTES,12
+Jones,PRECINCT 201,State Representative,71,,UNDER VOTES,36
+Jones,PRECINCT 202,State Representative,71,,UNDER VOTES,8
+Jones,PRECINCT 203,State Representative,71,,UNDER VOTES,3
+Jones,PRECINCT 301,State Representative,71,,UNDER VOTES,6
+Jones,PRECINCT 302,State Representative,71,,UNDER VOTES,17
+Jones,PRECINCT 303,State Representative,71,,UNDER VOTES,20
+Jones,PRECINCT 401,State Representative,71,,UNDER VOTES,20
+Jones,PRECINCT 402,State Representative,71,,UNDER VOTES,16
+Jones,PRECINCT 101,"Justice, 11 Ct of App Dist, Pl 2",,REP,Bruce Williams,740
+Jones,PRECINCT 102,"Justice, 11 Ct of App Dist, Pl 2",,REP,Bruce Williams,57
+Jones,PRECINCT 103,"Justice, 11 Ct of App Dist, Pl 2",,REP,Bruce Williams,248
+Jones,PRECINCT 201,"Justice, 11 Ct of App Dist, Pl 2",,REP,Bruce Williams,891
+Jones,PRECINCT 202,"Justice, 11 Ct of App Dist, Pl 2",,REP,Bruce Williams,186
+Jones,PRECINCT 203,"Justice, 11 Ct of App Dist, Pl 2",,REP,Bruce Williams,173
+Jones,PRECINCT 301,"Justice, 11 Ct of App Dist, Pl 2",,REP,Bruce Williams,193
+Jones,PRECINCT 302,"Justice, 11 Ct of App Dist, Pl 2",,REP,Bruce Williams,657
+Jones,PRECINCT 303,"Justice, 11 Ct of App Dist, Pl 2",,REP,Bruce Williams,804
+Jones,PRECINCT 401,"Justice, 11 Ct of App Dist, Pl 2",,REP,Bruce Williams,1028
+Jones,PRECINCT 402,"Justice, 11 Ct of App Dist, Pl 2",,REP,Bruce Williams,761
+Jones,PRECINCT 101,"Justice, 11 Ct of App Dist, Pl 2",,,OVER VOTES,0
+Jones,PRECINCT 102,"Justice, 11 Ct of App Dist, Pl 2",,,OVER VOTES,0
+Jones,PRECINCT 103,"Justice, 11 Ct of App Dist, Pl 2",,,OVER VOTES,0
+Jones,PRECINCT 201,"Justice, 11 Ct of App Dist, Pl 2",,,OVER VOTES,0
+Jones,PRECINCT 202,"Justice, 11 Ct of App Dist, Pl 2",,,OVER VOTES,0
+Jones,PRECINCT 203,"Justice, 11 Ct of App Dist, Pl 2",,,OVER VOTES,0
+Jones,PRECINCT 301,"Justice, 11 Ct of App Dist, Pl 2",,,OVER VOTES,0
+Jones,PRECINCT 302,"Justice, 11 Ct of App Dist, Pl 2",,,OVER VOTES,0
+Jones,PRECINCT 303,"Justice, 11 Ct of App Dist, Pl 2",,,OVER VOTES,0
+Jones,PRECINCT 401,"Justice, 11 Ct of App Dist, Pl 2",,,OVER VOTES,0
+Jones,PRECINCT 402,"Justice, 11 Ct of App Dist, Pl 2",,,OVER VOTES,0
+Jones,PRECINCT 101,"Justice, 11 Ct of App Dist, Pl 2",,,UNDER VOTES,170
+Jones,PRECINCT 102,"Justice, 11 Ct of App Dist, Pl 2",,,UNDER VOTES,41
+Jones,PRECINCT 103,"Justice, 11 Ct of App Dist, Pl 2",,,UNDER VOTES,77
+Jones,PRECINCT 201,"Justice, 11 Ct of App Dist, Pl 2",,,UNDER VOTES,223
+Jones,PRECINCT 202,"Justice, 11 Ct of App Dist, Pl 2",,,UNDER VOTES,35
+Jones,PRECINCT 203,"Justice, 11 Ct of App Dist, Pl 2",,,UNDER VOTES,29
+Jones,PRECINCT 301,"Justice, 11 Ct of App Dist, Pl 2",,,UNDER VOTES,19
+Jones,PRECINCT 302,"Justice, 11 Ct of App Dist, Pl 2",,,UNDER VOTES,87
+Jones,PRECINCT 303,"Justice, 11 Ct of App Dist, Pl 2",,,UNDER VOTES,82
+Jones,PRECINCT 401,"Justice, 11 Ct of App Dist, Pl 2",,,UNDER VOTES,105
+Jones,PRECINCT 402,"Justice, 11 Ct of App Dist, Pl 2",,,UNDER VOTES,153
+Jones,PRECINCT 101,"Justice, 11th Ct of App Dist, Pl 3",,REP,W. Stacy Trotter,710
+Jones,PRECINCT 102,"Justice, 11th Ct of App Dist, Pl 3",,REP,W. Stacy Trotter,57
+Jones,PRECINCT 103,"Justice, 11th Ct of App Dist, Pl 3",,REP,W. Stacy Trotter,238
+Jones,PRECINCT 201,"Justice, 11th Ct of App Dist, Pl 3",,REP,W. Stacy Trotter,849
+Jones,PRECINCT 202,"Justice, 11th Ct of App Dist, Pl 3",,REP,W. Stacy Trotter,181
+Jones,PRECINCT 203,"Justice, 11th Ct of App Dist, Pl 3",,REP,W. Stacy Trotter,170
+Jones,PRECINCT 301,"Justice, 11th Ct of App Dist, Pl 3",,REP,W. Stacy Trotter,184
+Jones,PRECINCT 302,"Justice, 11th Ct of App Dist, Pl 3",,REP,W. Stacy Trotter,621
+Jones,PRECINCT 303,"Justice, 11th Ct of App Dist, Pl 3",,REP,W. Stacy Trotter,773
+Jones,PRECINCT 401,"Justice, 11th Ct of App Dist, Pl 3",,REP,W. Stacy Trotter,983
+Jones,PRECINCT 402,"Justice, 11th Ct of App Dist, Pl 3",,REP,W. Stacy Trotter,728
+Jones,PRECINCT 101,"Justice, 11th Ct of App Dist, Pl 3",,,OVER VOTES,0
+Jones,PRECINCT 102,"Justice, 11th Ct of App Dist, Pl 3",,,OVER VOTES,0
+Jones,PRECINCT 103,"Justice, 11th Ct of App Dist, Pl 3",,,OVER VOTES,0
+Jones,PRECINCT 201,"Justice, 11th Ct of App Dist, Pl 3",,,OVER VOTES,0
+Jones,PRECINCT 202,"Justice, 11th Ct of App Dist, Pl 3",,,OVER VOTES,0
+Jones,PRECINCT 203,"Justice, 11th Ct of App Dist, Pl 3",,,OVER VOTES,0
+Jones,PRECINCT 301,"Justice, 11th Ct of App Dist, Pl 3",,,OVER VOTES,0
+Jones,PRECINCT 302,"Justice, 11th Ct of App Dist, Pl 3",,,OVER VOTES,0
+Jones,PRECINCT 303,"Justice, 11th Ct of App Dist, Pl 3",,,OVER VOTES,0
+Jones,PRECINCT 401,"Justice, 11th Ct of App Dist, Pl 3",,,OVER VOTES,0
+Jones,PRECINCT 402,"Justice, 11th Ct of App Dist, Pl 3",,,OVER VOTES,0
+Jones,PRECINCT 101,"Justice, 11th Ct of App Dist, Pl 3",,,UNDER VOTES,200
+Jones,PRECINCT 102,"Justice, 11th Ct of App Dist, Pl 3",,,UNDER VOTES,41
+Jones,PRECINCT 103,"Justice, 11th Ct of App Dist, Pl 3",,,UNDER VOTES,87
+Jones,PRECINCT 201,"Justice, 11th Ct of App Dist, Pl 3",,,UNDER VOTES,265
+Jones,PRECINCT 202,"Justice, 11th Ct of App Dist, Pl 3",,,UNDER VOTES,40
+Jones,PRECINCT 203,"Justice, 11th Ct of App Dist, Pl 3",,,UNDER VOTES,32
+Jones,PRECINCT 301,"Justice, 11th Ct of App Dist, Pl 3",,,UNDER VOTES,28
+Jones,PRECINCT 302,"Justice, 11th Ct of App Dist, Pl 3",,,UNDER VOTES,123
+Jones,PRECINCT 303,"Justice, 11th Ct of App Dist, Pl 3",,,UNDER VOTES,113
+Jones,PRECINCT 401,"Justice, 11th Ct of App Dist, Pl 3",,,UNDER VOTES,150
+Jones,PRECINCT 402,"Justice, 11th Ct of App Dist, Pl 3",,,UNDER VOTES,186
+Jones,PRECINCT 101,"District Attorney, 259th Judicial Dist",,REP,Joe Edd Boaz,712
+Jones,PRECINCT 102,"District Attorney, 259th Judicial Dist",,REP,Joe Edd Boaz,63
+Jones,PRECINCT 103,"District Attorney, 259th Judicial Dist",,REP,Joe Edd Boaz,270
+Jones,PRECINCT 201,"District Attorney, 259th Judicial Dist",,REP,Joe Edd Boaz,873
+Jones,PRECINCT 202,"District Attorney, 259th Judicial Dist",,REP,Joe Edd Boaz,178
+Jones,PRECINCT 203,"District Attorney, 259th Judicial Dist",,REP,Joe Edd Boaz,172
+Jones,PRECINCT 301,"District Attorney, 259th Judicial Dist",,REP,Joe Edd Boaz,186
+Jones,PRECINCT 302,"District Attorney, 259th Judicial Dist",,REP,Joe Edd Boaz,631
+Jones,PRECINCT 303,"District Attorney, 259th Judicial Dist",,REP,Joe Edd Boaz,770
+Jones,PRECINCT 401,"District Attorney, 259th Judicial Dist",,REP,Joe Edd Boaz,995
+Jones,PRECINCT 402,"District Attorney, 259th Judicial Dist",,REP,Joe Edd Boaz,743
+Jones,PRECINCT 101,"District Attorney, 259th Judicial Dist",,,OVER VOTES,0
+Jones,PRECINCT 102,"District Attorney, 259th Judicial Dist",,,OVER VOTES,0
+Jones,PRECINCT 103,"District Attorney, 259th Judicial Dist",,,OVER VOTES,0
+Jones,PRECINCT 201,"District Attorney, 259th Judicial Dist",,,OVER VOTES,0
+Jones,PRECINCT 202,"District Attorney, 259th Judicial Dist",,,OVER VOTES,0
+Jones,PRECINCT 203,"District Attorney, 259th Judicial Dist",,,OVER VOTES,0
+Jones,PRECINCT 301,"District Attorney, 259th Judicial Dist",,,OVER VOTES,0
+Jones,PRECINCT 302,"District Attorney, 259th Judicial Dist",,,OVER VOTES,0
+Jones,PRECINCT 303,"District Attorney, 259th Judicial Dist",,,OVER VOTES,0
+Jones,PRECINCT 401,"District Attorney, 259th Judicial Dist",,,OVER VOTES,0
+Jones,PRECINCT 402,"District Attorney, 259th Judicial Dist",,,OVER VOTES,0
+Jones,PRECINCT 101,"District Attorney, 259th Judicial Dist",,,UNDER VOTES,198
+Jones,PRECINCT 102,"District Attorney, 259th Judicial Dist",,,UNDER VOTES,35
+Jones,PRECINCT 103,"District Attorney, 259th Judicial Dist",,,UNDER VOTES,55
+Jones,PRECINCT 201,"District Attorney, 259th Judicial Dist",,,UNDER VOTES,241
+Jones,PRECINCT 202,"District Attorney, 259th Judicial Dist",,,UNDER VOTES,43
+Jones,PRECINCT 203,"District Attorney, 259th Judicial Dist",,,UNDER VOTES,30
+Jones,PRECINCT 301,"District Attorney, 259th Judicial Dist",,,UNDER VOTES,26
+Jones,PRECINCT 302,"District Attorney, 259th Judicial Dist",,,UNDER VOTES,113
+Jones,PRECINCT 303,"District Attorney, 259th Judicial Dist",,,UNDER VOTES,116
+Jones,PRECINCT 401,"District Attorney, 259th Judicial Dist",,,UNDER VOTES,138
+Jones,PRECINCT 402,"District Attorney, 259th Judicial Dist",,,UNDER VOTES,171
