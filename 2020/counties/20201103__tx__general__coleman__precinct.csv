@@ -1,0 +1,682 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Coleman,Precinct 1,REGISTERED VOTERS,,,,1525,,,
+Coleman,Precinct 2,REGISTERED VOTERS,,,,1144,,,
+Coleman,Precinct 2e,REGISTERED VOTERS,,,,419,,,
+Coleman,Precinct 3,REGISTERED VOTERS,,,,1331,,,
+Coleman,Precinct 4,REGISTERED VOTERS,,,,1536,,,
+Coleman,Precinct 1,BALLOTS CAST,,,,1034,97,812,125
+Coleman,Precinct 2,BALLOTS CAST,,,,811,88,548,175
+Coleman,Precinct 2e,BALLOTS CAST,,,,302,36,219,47
+Coleman,Precinct 3,BALLOTS CAST,,,,885,92,681,112
+Coleman,Precinct 4,BALLOTS CAST,,,,1124,122,886,116
+Coleman,Precinct 1,BALLOTS CAST - BLANK,,,,0,0,0,0
+Coleman,Precinct 2,BALLOTS CAST - BLANK,,,,0,0,0,0
+Coleman,Precinct 2e,BALLOTS CAST - BLANK,,,,0,0,0,0
+Coleman,Precinct 3,BALLOTS CAST - BLANK,,,,0,0,0,0
+Coleman,Precinct 4,BALLOTS CAST - BLANK,,,,0,0,0,0
+Coleman,Precinct 1,President,,REP,Donald J. Trump,926,72,744,110
+Coleman,Precinct 2,President,,REP,Donald J. Trump,690,54,481,155
+Coleman,Precinct 2e,President,,REP,Donald J. Trump,264,23,200,41
+Coleman,Precinct 3,President,,REP,Donald J. Trump,781,72,609,100
+Coleman,Precinct 4,President,,REP,Donald J. Trump,980,90,784,106
+Coleman,Precinct 1,President,,DEM,Joseph R. Biden,92,23,56,13
+Coleman,Precinct 2,President,,DEM,Joseph R. Biden,110,32,60,18
+Coleman,Precinct 2e,President,,DEM,Joseph R. Biden,35,12,18,5
+Coleman,Precinct 3,President,,DEM,Joseph R. Biden,92,18,63,11
+Coleman,Precinct 4,President,,DEM,Joseph R. Biden,122,28,84,10
+Coleman,Precinct 1,President,,LIB,"Jo Jorgensen",9,1,7,1
+Coleman,Precinct 2,President,,LIB,"Jo Jorgensen",7,2,3,2
+Coleman,Precinct 2e,President,,LIB,"Jo Jorgensen",1,1,0,0
+Coleman,Precinct 3,President,,LIB,"Jo Jorgensen",4,0,3,1
+Coleman,Precinct 4,President,,LIB,"Jo Jorgensen",2,0,2,0
+Coleman,Precinct 1,President,,GRN,Howie Hawkins,1,0,0,1
+Coleman,Precinct 2,President,,GRN,Howie Hawkins,1,0,1,0
+Coleman,Precinct 2e,President,,GRN,Howie Hawkins,1,0,0,1
+Coleman,Precinct 3,President,,GRN,Howie Hawkins,2,0,2,0
+Coleman,Precinct 4,President,,GRN,Howie Hawkins,4,0,4,0
+Coleman,Precinct 1,President,,NON,Write-in,0,0,0,0
+Coleman,Precinct 2,President,,NON,Write-in,0,0,0,0
+Coleman,Precinct 2e,President,,NON,Write-in,0,0,0,0
+Coleman,Precinct 3,President,,NON,Write-in,2,0,2,0
+Coleman,Precinct 4,President,,NON,Write-in,3,0,3,0
+Coleman,Precinct 1,President,,,OVER VOTES,0,0,0,0
+Coleman,Precinct 2,President,,,OVER VOTES,0,0,0,0
+Coleman,Precinct 2e,President,,,OVER VOTES,0,0,0,0
+Coleman,Precinct 3,President,,,OVER VOTES,2,2,0,0
+Coleman,Precinct 4,President,,,OVER VOTES,1,1,0,0
+Coleman,Precinct 1,President,,,UNDER VOTES,6,1,5,0
+Coleman,Precinct 2,President,,,UNDER VOTES,3,0,3,0
+Coleman,Precinct 2e,President,,,UNDER VOTES,1,0,1,0
+Coleman,Precinct 3,President,,,UNDER VOTES,2,0,2,0
+Coleman,Precinct 4,President,,,UNDER VOTES,6,3,3,0
+Coleman,Precinct 1,U.S. Senate,,REP,John Cornyn,909,72,732,105
+Coleman,Precinct 2,U.S. Senate,,REP,John Cornyn,670,55,473,142
+Coleman,Precinct 2e,U.S. Senate,,REP,John Cornyn,264,23,200,41
+Coleman,Precinct 3,U.S. Senate,,REP,John Cornyn,767,74,594,99
+Coleman,Precinct 4,U.S. Senate,,REP,John Cornyn,976,92,782,102
+Coleman,Precinct 1,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",89,20,57,12
+Coleman,Precinct 2,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",110,29,60,21
+Coleman,Precinct 2e,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",31,9,16,6
+Coleman,Precinct 3,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",80,16,56,8
+Coleman,Precinct 4,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",116,28,78,10
+Coleman,Precinct 1,U.S. Senate,,LIB,Kerry Douglas McKennon,11,0,7,4
+Coleman,Precinct 2,U.S. Senate,,LIB,Kerry Douglas McKennon,7,1,3,3
+Coleman,Precinct 2e,U.S. Senate,,LIB,Kerry Douglas McKennon,1,1,0,0
+Coleman,Precinct 3,U.S. Senate,,LIB,Kerry Douglas McKennon,11,0,10,1
+Coleman,Precinct 4,U.S. Senate,,LIB,Kerry Douglas McKennon,7,0,6,1
+Coleman,Precinct 1,U.S. Senate,,GRN,David B. Collins,4,1,3,0
+Coleman,Precinct 2,U.S. Senate,,GRN,David B. Collins,4,0,2,2
+Coleman,Precinct 2e,U.S. Senate,,GRN,David B. Collins,1,1,0,0
+Coleman,Precinct 3,U.S. Senate,,GRN,David B. Collins,3,0,3,0
+Coleman,Precinct 4,U.S. Senate,,GRN,David B. Collins,4,0,4,0
+Coleman,Precinct 1,U.S. Senate,,NON,Write-in,0,0,0,0
+Coleman,Precinct 2,U.S. Senate,,NON,Write-in,0,0,0,0
+Coleman,Precinct 2e,U.S. Senate,,NON,Write-in,0,0,0,0
+Coleman,Precinct 3,U.S. Senate,,NON,Write-in,0,0,0,0
+Coleman,Precinct 4,U.S. Senate,,NON,Write-in,0,0,0,0
+Coleman,Precinct 1,U.S. Senate,,,OVER VOTES,0,0,0,0
+Coleman,Precinct 2,U.S. Senate,,,OVER VOTES,0,0,0,0
+Coleman,Precinct 2e,U.S. Senate,,,OVER VOTES,0,0,0,0
+Coleman,Precinct 3,U.S. Senate,,,OVER VOTES,0,0,0,0
+Coleman,Precinct 4,U.S. Senate,,,OVER VOTES,0,0,0,0
+Coleman,Precinct 1,U.S. Senate,,,UNDER VOTES,19,2,13,4
+Coleman,Precinct 2,U.S. Senate,,,UNDER VOTES,20,3,10,7
+Coleman,Precinct 2e,U.S. Senate,,,UNDER VOTES,4,1,3,0
+Coleman,Precinct 3,U.S. Senate,,,UNDER VOTES,24,2,18,4
+Coleman,Precinct 4,U.S. Senate,,,UNDER VOTES,21,2,16,3
+Coleman,Precinct 1,U.S. House,11,REP,August Pfluger,921,72,738,111
+Coleman,Precinct 2,U.S. House,11,REP,August Pfluger,667,54,467,146
+Coleman,Precinct 2e,U.S. House,11,REP,August Pfluger,263,22,199,42
+Coleman,Precinct 3,U.S. House,11,REP,August Pfluger,780,74,607,99
+Coleman,Precinct 4,U.S. House,11,REP,August Pfluger,980,91,785,104
+Coleman,Precinct 1,U.S. House,11,DEM,Jon Mark Hogg,86,20,56,10
+Coleman,Precinct 2,U.S. House,11,DEM,Jon Mark Hogg,99,28,54,17
+Coleman,Precinct 2e,U.S. House,11,DEM,Jon Mark Hogg,31,10,16,5
+Coleman,Precinct 3,U.S. House,11,DEM,Jon Mark Hogg,74,15,50,9
+Coleman,Precinct 4,U.S. House,11,DEM,Jon Mark Hogg,110,28,74,8
+Coleman,Precinct 1,U.S. House,11,LIB,Wacey Alpha Cody,5,0,3,2
+Coleman,Precinct 2,U.S. House,11,LIB,Wacey Alpha Cody,18,1,13,4
+Coleman,Precinct 2e,U.S. House,11,LIB,Wacey Alpha Cody,3,2,1,0
+Coleman,Precinct 3,U.S. House,11,LIB,Wacey Alpha Cody,9,1,7,1
+Coleman,Precinct 4,U.S. House,11,LIB,Wacey Alpha Cody,8,1,6,1
+Coleman,Precinct 1,U.S. House,11,,OVER VOTES,0,0,0,0
+Coleman,Precinct 2,U.S. House,11,,OVER VOTES,0,0,0,0
+Coleman,Precinct 2e,U.S. House,11,,OVER VOTES,0,0,0,0
+Coleman,Precinct 3,U.S. House,11,,OVER VOTES,0,0,0,0
+Coleman,Precinct 4,U.S. House,11,,OVER VOTES,0,0,0,0
+Coleman,Precinct 1,U.S. House,11,,UNDER VOTES,21,5,14,2
+Coleman,Precinct 2,U.S. House,11,,UNDER VOTES,25,5,12,8
+Coleman,Precinct 2e,U.S. House,11,,UNDER VOTES,5,2,3,0
+Coleman,Precinct 3,U.S. House,11,,UNDER VOTES,20,2,15,3
+Coleman,Precinct 4,U.S. House,11,,UNDER VOTES,21,2,16,3
+Coleman,Precinct 1,Railroad Commissioner,,REP,"James ""Jim"" Wright",921,72,740,109
+Coleman,Precinct 2,Railroad Commissioner,,REP,"James ""Jim"" Wright",672,55,471,146
+Coleman,Precinct 2e,Railroad Commissioner,,REP,"James ""Jim"" Wright",258,22,196,40
+Coleman,Precinct 3,Railroad Commissioner,,REP,"James ""Jim"" Wright",770,74,603,93
+Coleman,Precinct 4,Railroad Commissioner,,REP,"James ""Jim"" Wright",978,91,782,105
+Coleman,Precinct 1,Railroad Commissioner,,DEM,Chrysta Castaneda,82,19,51,12
+Coleman,Precinct 2,Railroad Commissioner,,DEM,Chrysta Castaneda,102,27,59,16
+Coleman,Precinct 2e,Railroad Commissioner,,DEM,Chrysta Castaneda,33,11,17,5
+Coleman,Precinct 3,Railroad Commissioner,,DEM,Chrysta Castaneda,82,16,56,10
+Coleman,Precinct 4,Railroad Commissioner,,DEM,Chrysta Castaneda,107,27,73,7
+Coleman,Precinct 1,Railroad Commissioner,,LIB,Matt Sterett,8,1,5,2
+Coleman,Precinct 2,Railroad Commissioner,,LIB,Matt Sterett,11,2,6,3
+Coleman,Precinct 2e,Railroad Commissioner,,LIB,Matt Sterett,4,1,1,2
+Coleman,Precinct 3,Railroad Commissioner,,LIB,Matt Sterett,12,0,9,3
+Coleman,Precinct 4,Railroad Commissioner,,LIB,Matt Sterett,7,1,6,0
+Coleman,Precinct 1,Railroad Commissioner,,GRN,Katija 'Kat' Gruene,2,0,2,0
+Coleman,Precinct 2,Railroad Commissioner,,GRN,Katija 'Kat' Gruene,2,2,0,0
+Coleman,Precinct 2e,Railroad Commissioner,,GRN,Katija 'Kat' Gruene,1,1,0,0
+Coleman,Precinct 3,Railroad Commissioner,,GRN,Katija 'Kat' Gruene,2,0,2,0
+Coleman,Precinct 4,Railroad Commissioner,,GRN,Katija 'Kat' Gruene,4,0,4,0
+Coleman,Precinct 1,Railroad Commissioner,,,OVER VOTES,0,0,0,0
+Coleman,Precinct 2,Railroad Commissioner,,,OVER VOTES,0,0,0,0
+Coleman,Precinct 2e,Railroad Commissioner,,,OVER VOTES,0,0,0,0
+Coleman,Precinct 3,Railroad Commissioner,,,OVER VOTES,0,0,0,0
+Coleman,Precinct 4,Railroad Commissioner,,,OVER VOTES,0,0,0,0
+Coleman,Precinct 1,Railroad Commissioner,,,UNDER VOTES,21,5,14,2
+Coleman,Precinct 2,Railroad Commissioner,,,UNDER VOTES,23,2,11,10
+Coleman,Precinct 2e,Railroad Commissioner,,,UNDER VOTES,6,1,5,0
+Coleman,Precinct 3,Railroad Commissioner,,,UNDER VOTES,19,2,11,6
+Coleman,Precinct 4,Railroad Commissioner,,,UNDER VOTES,28,3,21,4
+Coleman,Precinct 1,"Chief Justice, Supreme Court",,REP,Nathan Hecht,903,70,725,108
+Coleman,Precinct 2,"Chief Justice, Supreme Court",,REP,Nathan Hecht,658,52,465,141
+Coleman,Precinct 2e,"Chief Justice, Supreme Court",,REP,Nathan Hecht,260,22,199,39
+Coleman,Precinct 3,"Chief Justice, Supreme Court",,REP,Nathan Hecht,756,72,593,91
+Coleman,Precinct 4,"Chief Justice, Supreme Court",,REP,Nathan Hecht,966,91,775,100
+Coleman,Precinct 1,"Chief Justice, Supreme Court",,DEM,Amy Clark Meachum,94,21,61,12
+Coleman,Precinct 2,"Chief Justice, Supreme Court",,DEM,Amy Clark Meachum,110,29,62,19
+Coleman,Precinct 2e,"Chief Justice, Supreme Court",,DEM,Amy Clark Meachum,30,9,16,5
+Coleman,Precinct 3,"Chief Justice, Supreme Court",,DEM,Amy Clark Meachum,85,16,59,10
+Coleman,Precinct 4,"Chief Justice, Supreme Court",,DEM,Amy Clark Meachum,119,28,82,9
+Coleman,Precinct 1,"Chief Justice, Supreme Court",,LIB,Mark Ash,17,1,14,2
+Coleman,Precinct 2,"Chief Justice, Supreme Court",,LIB,Mark Ash,15,2,8,5
+Coleman,Precinct 2e,"Chief Justice, Supreme Court",,LIB,Mark Ash,4,2,0,2
+Coleman,Precinct 3,"Chief Justice, Supreme Court",,LIB,Mark Ash,18,2,13,3
+Coleman,Precinct 4,"Chief Justice, Supreme Court",,LIB,Mark Ash,7,0,5,2
+Coleman,Precinct 1,"Chief Justice, Supreme Court",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 2,"Chief Justice, Supreme Court",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 2e,"Chief Justice, Supreme Court",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 3,"Chief Justice, Supreme Court",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 4,"Chief Justice, Supreme Court",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 1,"Chief Justice, Supreme Court",,,UNDER VOTES,20,5,12,3
+Coleman,Precinct 2,"Chief Justice, Supreme Court",,,UNDER VOTES,27,5,12,10
+Coleman,Precinct 2e,"Chief Justice, Supreme Court",,,UNDER VOTES,8,3,4,1
+Coleman,Precinct 3,"Chief Justice, Supreme Court",,,UNDER VOTES,26,2,16,8
+Coleman,Precinct 4,"Chief Justice, Supreme Court",,,UNDER VOTES,32,3,24,5
+Coleman,Precinct 1,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,928,72,744,112
+Coleman,Precinct 2,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,684,54,483,147
+Coleman,Precinct 2e,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,266,23,201,42
+Coleman,Precinct 3,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,772,74,603,95
+Coleman,Precinct 4,"Justice, Supreme Court, Pl 6",,REP,Jane Bland,981,91,785,105
+Coleman,Precinct 1,"Justice, Supreme Court, Pl 6",,DEM,Kathy Cheng,87,21,55,11
+Coleman,Precinct 2,"Justice, Supreme Court, Pl 6",,DEM,Kathy Cheng,101,28,55,18
+Coleman,Precinct 2e,"Justice, Supreme Court, Pl 6",,DEM,Kathy Cheng,30,10,15,5
+Coleman,Precinct 3,"Justice, Supreme Court, Pl 6",,DEM,Kathy Cheng,81,15,56,10
+Coleman,Precinct 4,"Justice, Supreme Court, Pl 6",,DEM,Kathy Cheng,115,28,80,7
+Coleman,Precinct 1,"Justice, Supreme Court, Pl 6",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 2,"Justice, Supreme Court, Pl 6",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 2e,"Justice, Supreme Court, Pl 6",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 3,"Justice, Supreme Court, Pl 6",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 4,"Justice, Supreme Court, Pl 6",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 1,"Justice, Supreme Court, Pl 6",,,UNDER VOTES,19,4,13,2
+Coleman,Precinct 2,"Justice, Supreme Court, Pl 6",,,UNDER VOTES,26,6,10,10
+Coleman,Precinct 2e,"Justice, Supreme Court, Pl 6",,,UNDER VOTES,6,3,3,0
+Coleman,Precinct 3,"Justice, Supreme Court, Pl 6",,,UNDER VOTES,32,3,22,7
+Coleman,Precinct 4,"Justice, Supreme Court, Pl 6",,,UNDER VOTES,28,3,21,4
+Coleman,Precinct 1,"Justice, Supreme Court, Pl 7",,REP,Jeff Boyd,913,71,734,108
+Coleman,Precinct 2,"Justice, Supreme Court, Pl 7",,REP,Jeff Boyd,664,53,469,142
+Coleman,Precinct 2e,"Justice, Supreme Court, Pl 7",,REP,Jeff Boyd,264,22,200,42
+Coleman,Precinct 3,"Justice, Supreme Court, Pl 7",,REP,Jeff Boyd,765,72,600,93
+Coleman,Precinct 4,"Justice, Supreme Court, Pl 7",,REP,Jeff Boyd,973,92,778,103
+Coleman,Precinct 1,"Justice, Supreme Court, Pl 7",,DEM,Staci Williams,90,20,56,14
+Coleman,Precinct 2,"Justice, Supreme Court, Pl 7",,DEM,Staci Williams,104,27,58,19
+Coleman,Precinct 2e,"Justice, Supreme Court, Pl 7",,DEM,Staci Williams,30,9,16,5
+Coleman,Precinct 3,"Justice, Supreme Court, Pl 7",,DEM,Staci Williams,83,15,58,10
+Coleman,Precinct 4,"Justice, Supreme Court, Pl 7",,DEM,Staci Williams,114,27,78,9
+Coleman,Precinct 1,"Justice, Supreme Court, Pl 7",,LIB,William Bryan Strange III,10,1,8,1
+Coleman,Precinct 2,"Justice, Supreme Court, Pl 7",,LIB,William Bryan Strange III,15,2,9,4
+Coleman,Precinct 2e,"Justice, Supreme Court, Pl 7",,LIB,William Bryan Strange III,2,2,0,0
+Coleman,Precinct 3,"Justice, Supreme Court, Pl 7",,LIB,William Bryan Strange III,11,2,7,2
+Coleman,Precinct 4,"Justice, Supreme Court, Pl 7",,LIB,William Bryan Strange III,10,0,9,1
+Coleman,Precinct 1,"Justice, Supreme Court, Pl 7",,,OVER VOTES,1,1,0,0
+Coleman,Precinct 2,"Justice, Supreme Court, Pl 7",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 2e,"Justice, Supreme Court, Pl 7",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 3,"Justice, Supreme Court, Pl 7",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 4,"Justice, Supreme Court, Pl 7",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 1,"Justice, Supreme Court, Pl 7",,,UNDER VOTES,20,4,14,2
+Coleman,Precinct 2,"Justice, Supreme Court, Pl 7",,,UNDER VOTES,28,6,12,10
+Coleman,Precinct 2e,"Justice, Supreme Court, Pl 7",,,UNDER VOTES,6,3,3,0
+Coleman,Precinct 3,"Justice, Supreme Court, Pl 7",,,UNDER VOTES,26,3,16,7
+Coleman,Precinct 4,"Justice, Supreme Court, Pl 7",,,UNDER VOTES,27,3,21,3
+Coleman,Precinct 1,"Justice, Supreme Court, Pl 8",,REP,Brett Busby,919,71,738,110
+Coleman,Precinct 2,"Justice, Supreme Court, Pl 8",,REP,Brett Busby,668,53,472,143
+Coleman,Precinct 2e,"Justice, Supreme Court, Pl 8",,REP,Brett Busby,260,22,198,40
+Coleman,Precinct 3,"Justice, Supreme Court, Pl 8",,REP,Brett Busby,761,73,596,92
+Coleman,Precinct 4,"Justice, Supreme Court, Pl 8",,REP,Brett Busby,976,91,781,104
+Coleman,Precinct 1,"Justice, Supreme Court, Pl 8",,DEM,Gisela D. Triana,87,21,55,11
+Coleman,Precinct 2,"Justice, Supreme Court, Pl 8",,DEM,Gisela D. Triana,99,26,57,16
+Coleman,Precinct 2e,"Justice, Supreme Court, Pl 8",,DEM,Gisela D. Triana,32,10,16,6
+Coleman,Precinct 3,"Justice, Supreme Court, Pl 8",,DEM,Gisela D. Triana,79,15,54,10
+Coleman,Precinct 4,"Justice, Supreme Court, Pl 8",,DEM,Gisela D. Triana,105,28,71,6
+Coleman,Precinct 1,"Justice, Supreme Court, Pl 8",,LIB,Tom Oxford,8,1,6,1
+Coleman,Precinct 2,"Justice, Supreme Court, Pl 8",,LIB,Tom Oxford,14,2,6,6
+Coleman,Precinct 2e,"Justice, Supreme Court, Pl 8",,LIB,Tom Oxford,2,1,0,1
+Coleman,Precinct 3,"Justice, Supreme Court, Pl 8",,LIB,Tom Oxford,14,0,12,2
+Coleman,Precinct 4,"Justice, Supreme Court, Pl 8",,LIB,Tom Oxford,9,0,7,2
+Coleman,Precinct 1,"Justice, Supreme Court, Pl 8",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 2,"Justice, Supreme Court, Pl 8",,,OVER VOTES,1,1,0,0
+Coleman,Precinct 2e,"Justice, Supreme Court, Pl 8",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 3,"Justice, Supreme Court, Pl 8",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 4,"Justice, Supreme Court, Pl 8",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 1,"Justice, Supreme Court, Pl 8",,,UNDER VOTES,19,4,12,3
+Coleman,Precinct 2,"Justice, Supreme Court, Pl 8",,,UNDER VOTES,29,6,13,10
+Coleman,Precinct 2e,"Justice, Supreme Court, Pl 8",,,UNDER VOTES,8,3,5,0
+Coleman,Precinct 3,"Justice, Supreme Court, Pl 8",,,UNDER VOTES,31,4,19,8
+Coleman,Precinct 4,"Justice, Supreme Court, Pl 8",,,UNDER VOTES,34,3,27,4
+Coleman,Precinct 1,"Judge, Ct of Crim App, Pl 3",,REP,Bert Richardson,922,73,740,109
+Coleman,Precinct 2,"Judge, Ct of Crim App, Pl 3",,REP,Bert Richardson,674,53,478,143
+Coleman,Precinct 2e,"Judge, Ct of Crim App, Pl 3",,REP,Bert Richardson,265,21,201,43
+Coleman,Precinct 3,"Judge, Ct of Crim App, Pl 3",,REP,Bert Richardson,773,73,606,94
+Coleman,Precinct 4,"Judge, Ct of Crim App, Pl 3",,REP,Bert Richardson,979,89,786,104
+Coleman,Precinct 1,"Judge, Ct of Crim App, Pl 3",,DEM,Elizabeth Davis Frizell,89,19,56,14
+Coleman,Precinct 2,"Judge, Ct of Crim App, Pl 3",,DEM,Elizabeth Davis Frizell,108,27,61,20
+Coleman,Precinct 2e,"Judge, Ct of Crim App, Pl 3",,DEM,Elizabeth Davis Frizell,30,12,14,4
+Coleman,Precinct 3,"Judge, Ct of Crim App, Pl 3",,DEM,Elizabeth Davis Frizell,82,15,57,10
+Coleman,Precinct 4,"Judge, Ct of Crim App, Pl 3",,DEM,Elizabeth Davis Frizell,114,28,78,8
+Coleman,Precinct 1,"Judge, Ct of Crim App, Pl 3",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 2,"Judge, Ct of Crim App, Pl 3",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 2e,"Judge, Ct of Crim App, Pl 3",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 3,"Judge, Ct of Crim App, Pl 3",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 4,"Judge, Ct of Crim App, Pl 3",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 1,"Judge, Ct of Crim App, Pl 3",,,UNDER VOTES,23,5,16,2
+Coleman,Precinct 2,"Judge, Ct of Crim App, Pl 3",,,UNDER VOTES,29,8,9,12
+Coleman,Precinct 2e,"Judge, Ct of Crim App, Pl 3",,,UNDER VOTES,7,3,4,0
+Coleman,Precinct 3,"Judge, Ct of Crim App, Pl 3",,,UNDER VOTES,30,4,18,8
+Coleman,Precinct 4,"Judge, Ct of Crim App, Pl 3",,,UNDER VOTES,31,5,22,4
+Coleman,Precinct 1,"Judge, Ct of Crim App, Pl 4",,REP,Kevin Patrick Yeary,922,72,738,112
+Coleman,Precinct 2,"Judge, Ct of Crim App, Pl 4",,REP,Kevin Patrick Yeary,676,53,478,145
+Coleman,Precinct 2e,"Judge, Ct of Crim App, Pl 4",,REP,Kevin Patrick Yeary,260,19,199,42
+Coleman,Precinct 3,"Judge, Ct of Crim App, Pl 4",,REP,Kevin Patrick Yeary,775,74,608,93
+Coleman,Precinct 4,"Judge, Ct of Crim App, Pl 4",,REP,Kevin Patrick Yeary,981,88,790,103
+Coleman,Precinct 1,"Judge, Ct of Crim App, Pl 4",,DEM,Tina Clinton,87,20,56,11
+Coleman,Precinct 2,"Judge, Ct of Crim App, Pl 4",,DEM,Tina Clinton,107,29,60,18
+Coleman,Precinct 2e,"Judge, Ct of Crim App, Pl 4",,DEM,Tina Clinton,32,12,15,5
+Coleman,Precinct 3,"Judge, Ct of Crim App, Pl 4",,DEM,Tina Clinton,76,14,52,10
+Coleman,Precinct 4,"Judge, Ct of Crim App, Pl 4",,DEM,Tina Clinton,110,28,74,8
+Coleman,Precinct 1,"Judge, Ct of Crim App, Pl 4",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 2,"Judge, Ct of Crim App, Pl 4",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 2e,"Judge, Ct of Crim App, Pl 4",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 3,"Judge, Ct of Crim App, Pl 4",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 4,"Judge, Ct of Crim App, Pl 4",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 1,"Judge, Ct of Crim App, Pl 4",,,UNDER VOTES,25,5,18,2
+Coleman,Precinct 2,"Judge, Ct of Crim App, Pl 4",,,UNDER VOTES,28,6,10,12
+Coleman,Precinct 2e,"Judge, Ct of Crim App, Pl 4",,,UNDER VOTES,10,5,5,0
+Coleman,Precinct 3,"Judge, Ct of Crim App, Pl 4",,,UNDER VOTES,34,4,21,9
+Coleman,Precinct 4,"Judge, Ct of Crim App, Pl 4",,,UNDER VOTES,33,6,22,5
+Coleman,Precinct 1,"Judge, Ct of Crim App, Pl 9",,REP,David Newell,918,70,739,109
+Coleman,Precinct 2,"Judge, Ct of Crim App, Pl 9",,REP,David Newell,674,53,476,145
+Coleman,Precinct 2e,"Judge, Ct of Crim App, Pl 9",,REP,David Newell,263,22,199,42
+Coleman,Precinct 3,"Judge, Ct of Crim App, Pl 9",,REP,David Newell,767,73,601,93
+Coleman,Precinct 4,"Judge, Ct of Crim App, Pl 9",,REP,David Newell,976,80,791,105
+Coleman,Precinct 1,"Judge, Ct of Crim App, Pl 9",,DEM,Brandon Birmingham,91,22,56,13
+Coleman,Precinct 2,"Judge, Ct of Crim App, Pl 9",,DEM,Brandon Birmingham,108,29,60,19
+Coleman,Precinct 2e,"Judge, Ct of Crim App, Pl 9",,DEM,Brandon Birmingham,30,9,16,5
+Coleman,Precinct 3,"Judge, Ct of Crim App, Pl 9",,DEM,Brandon Birmingham,84,14,60,10
+Coleman,Precinct 4,"Judge, Ct of Crim App, Pl 9",,DEM,Brandon Birmingham,104,27,71,6
+Coleman,Precinct 1,"Judge, Ct of Crim App, Pl 9",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 2,"Judge, Ct of Crim App, Pl 9",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 2e,"Judge, Ct of Crim App, Pl 9",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 3,"Judge, Ct of Crim App, Pl 9",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 4,"Judge, Ct of Crim App, Pl 9",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 1,"Judge, Ct of Crim App, Pl 9",,,UNDER VOTES,24,5,16,3
+Coleman,Precinct 2,"Judge, Ct of Crim App, Pl 9",,,UNDER VOTES,29,6,12,11
+Coleman,Precinct 2e,"Judge, Ct of Crim App, Pl 9",,,UNDER VOTES,9,5,4,0
+Coleman,Precinct 3,"Judge, Ct of Crim App, Pl 9",,,UNDER VOTES,33,5,19,9
+Coleman,Precinct 4,"Judge, Ct of Crim App, Pl 9",,,UNDER VOTES,44,15,24,5
+Coleman,Precinct 1,"Member, State BoE, Dist 15",,REP,Jay Johnson,915,67,736,112
+Coleman,Precinct 2,"Member, State BoE, Dist 15",,REP,Jay Johnson,673,53,473,147
+Coleman,Precinct 2e,"Member, State BoE, Dist 15",,REP,Jay Johnson,259,22,195,42
+Coleman,Precinct 3,"Member, State BoE, Dist 15",,REP,Jay Johnson,767,71,601,95
+Coleman,Precinct 4,"Member, State BoE, Dist 15",,REP,Jay Johnson,977,91,778,108
+Coleman,Precinct 1,"Member, State BoE, Dist 15",,DEM,John Betancourt,90,24,56,10
+Coleman,Precinct 2,"Member, State BoE, Dist 15",,DEM,John Betancourt,105,28,60,17
+Coleman,Precinct 2e,"Member, State BoE, Dist 15",,DEM,John Betancourt,34,11,18,5
+Coleman,Precinct 3,"Member, State BoE, Dist 15",,DEM,John Betancourt,82,14,57,11
+Coleman,Precinct 4,"Member, State BoE, Dist 15",,DEM,John Betancourt,108,27,76,5
+Coleman,Precinct 1,"Member, State BoE, Dist 15",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 2,"Member, State BoE, Dist 15",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 2e,"Member, State BoE, Dist 15",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 3,"Member, State BoE, Dist 15",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 4,"Member, State BoE, Dist 15",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 1,"Member, State BoE, Dist 15",,,UNDER VOTES,25,6,16,3
+Coleman,Precinct 2,"Member, State BoE, Dist 15",,,UNDER VOTES,30,7,12,11
+Coleman,Precinct 2e,"Member, State BoE, Dist 15",,,UNDER VOTES,7,3,4,0
+Coleman,Precinct 3,"Member, State BoE, Dist 15",,,UNDER VOTES,30,7,17,6
+Coleman,Precinct 4,"Member, State BoE, Dist 15",,,UNDER VOTES,33,4,26,3
+Coleman,Precinct 1,State Senate,28,REP,Charles Perry,953,74,758,121
+Coleman,Precinct 2,State Senate,28,REP,Charles Perry,717,58,503,156
+Coleman,Precinct 2e,State Senate,28,REP,Charles Perry,273,27,201,45
+Coleman,Precinct 3,State Senate,28,REP,Charles Perry,799,74,625,100
+Coleman,Precinct 4,State Senate,28,REP,Charles Perry,1013,91,812,110
+Coleman,Precinct 1,State Senate,28,,OVER VOTES,0,0,0,0
+Coleman,Precinct 2,State Senate,28,,OVER VOTES,0,0,0,0
+Coleman,Precinct 2e,State Senate,28,,OVER VOTES,0,0,0,0
+Coleman,Precinct 3,State Senate,28,,OVER VOTES,0,0,0,0
+Coleman,Precinct 4,State Senate,28,,OVER VOTES,0,0,0,0
+Coleman,Precinct 1,State Senate,28,,UNDER VOTES,77,23,50,4
+Coleman,Precinct 2,State Senate,28,,UNDER VOTES,88,30,39,19
+Coleman,Precinct 2e,State Senate,28,,UNDER VOTES,27,9,16,2
+Coleman,Precinct 3,State Senate,28,,UNDER VOTES,77,18,47,12
+Coleman,Precinct 4,State Senate,28,,UNDER VOTES,104,30,68,6
+Coleman,Precinct 1,State Representative,60,REP,Glenn Rogers,964,80,763,121
+Coleman,Precinct 2,State Representative,60,REP,Glenn Rogers,720,59,505,156
+Coleman,Precinct 2e,State Representative,60,REP,Glenn Rogers,278,25,207,46
+Coleman,Precinct 3,State Representative,60,REP,Glenn Rogers,803,75,628,100
+Coleman,Precinct 4,State Representative,60,REP,Glenn Rogers,1015,97,807,111
+Coleman,Precinct 1,State Representative,60,,OVER VOTES,0,0,0,0
+Coleman,Precinct 2,State Representative,60,,OVER VOTES,0,0,0,0
+Coleman,Precinct 2e,State Representative,60,,OVER VOTES,0,0,0,0
+Coleman,Precinct 3,State Representative,60,,OVER VOTES,0,0,0,0
+Coleman,Precinct 4,State Representative,60,,OVER VOTES,0,0,0,0
+Coleman,Precinct 1,State Representative,60,,UNDER VOTES,67,17,46,4
+Coleman,Precinct 2,State Representative,60,,UNDER VOTES,86,29,38,19
+Coleman,Precinct 2e,State Representative,60,,UNDER VOTES,22,11,10,1
+Coleman,Precinct 3,State Representative,60,,UNDER VOTES,71,17,42,12
+Coleman,Precinct 4,State Representative,60,,UNDER VOTES,103,25,73,5
+Coleman,Precinct 1,"Justice, 11th Ct of App Dist, Pl 2",,REP,Bruce Williams,961,78,762,121
+Coleman,Precinct 2,"Justice, 11th Ct of App Dist, Pl 2",,REP,Bruce Williams,718,56,504,158
+Coleman,Precinct 2e,"Justice, 11th Ct of App Dist, Pl 2",,REP,Bruce Williams,278,27,206,45
+Coleman,Precinct 3,"Justice, 11th Ct of App Dist, Pl 2",,REP,Bruce Williams,802,76,625,101
+Coleman,Precinct 4,"Justice, 11th Ct of App Dist, Pl 2",,REP,Bruce Williams,1013,95,806,112
+Coleman,Precinct 1,"Justice, 11th Ct of App Dist, Pl 2",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 2,"Justice, 11th Ct of App Dist, Pl 2",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 2e,"Justice, 11th Ct of App Dist, Pl 2",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 3,"Justice, 11th Ct of App Dist, Pl 2",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 4,"Justice, 11th Ct of App Dist, Pl 2",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 1,"Justice, 11th Ct of App Dist, Pl 2",,,UNDER VOTES,70,19,47,4
+Coleman,Precinct 2,"Justice, 11th Ct of App Dist, Pl 2",,,UNDER VOTES,89,32,40,17
+Coleman,Precinct 2e,"Justice, 11th Ct of App Dist, Pl 2",,,UNDER VOTES,22,9,11,2
+Coleman,Precinct 3,"Justice, 11th Ct of App Dist, Pl 2",,,UNDER VOTES,70,16,43,11
+Coleman,Precinct 4,"Justice, 11th Ct of App Dist, Pl 2",,,UNDER VOTES,106,27,75,4
+Coleman,Precinct 1,"Justice, 11th Ct of App Dist, Pl 3",,REP,W. Stacy Trotter,964,80,764,120
+Coleman,Precinct 2,"Justice, 11th Ct of App Dist, Pl 3",,REP,W. Stacy Trotter,713,56,501,156
+Coleman,Precinct 2e,"Justice, 11th Ct of App Dist, Pl 3",,REP,W. Stacy Trotter,278,28,205,45
+Coleman,Precinct 3,"Justice, 11th Ct of App Dist, Pl 3",,REP,W. Stacy Trotter,803,76,627,100
+Coleman,Precinct 4,"Justice, 11th Ct of App Dist, Pl 3",,REP,W. Stacy Trotter,1011,97,803,111
+Coleman,Precinct 1,"Justice, 11th Ct of App Dist, Pl 3",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 2,"Justice, 11th Ct of App Dist, Pl 3",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 2e,"Justice, 11th Ct of App Dist, Pl 3",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 3,"Justice, 11th Ct of App Dist, Pl 3",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 4,"Justice, 11th Ct of App Dist, Pl 3",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 1,"Justice, 11th Ct of App Dist, Pl 3",,,UNDER VOTES,68,17,46,5
+Coleman,Precinct 2,"Justice, 11th Ct of App Dist, Pl 3",,,UNDER VOTES,94,32,43,19
+Coleman,Precinct 2e,"Justice, 11th Ct of App Dist, Pl 3",,,UNDER VOTES,22,8,12,2
+Coleman,Precinct 3,"Justice, 11th Ct of App Dist, Pl 3",,,UNDER VOTES,71,16,43,12
+Coleman,Precinct 4,"Justice, 11th Ct of App Dist, Pl 3",,,UNDER VOTES,108,25,78,5
+Coleman,Precinct 1,"Dist Judge, 42nd Judicial Dist",,REP,James Eidson,964,80,763,121
+Coleman,Precinct 2,"Dist Judge, 42nd Judicial Dist",,REP,James Eidson,712,59,498,155
+Coleman,Precinct 2e,"Dist Judge, 42nd Judicial Dist",,REP,James Eidson,278,27,206,45
+Coleman,Precinct 3,"Dist Judge, 42nd Judicial Dist",,REP,James Eidson,804,77,627,100
+Coleman,Precinct 4,"Dist Judge, 42nd Judicial Dist",,REP,James Eidson,1014,98,804,112
+Coleman,Precinct 1,"Dist Judge, 42nd Judicial Dist",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 2,"Dist Judge, 42nd Judicial Dist",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 2e,"Dist Judge, 42nd Judicial Dist",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 3,"Dist Judge, 42nd Judicial Dist",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 4,"Dist Judge, 42nd Judicial Dist",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 1,"Dist Judge, 42nd Judicial Dist",,,UNDER VOTES,65,16,45,4
+Coleman,Precinct 2,"Dist Judge, 42nd Judicial Dist",,,UNDER VOTES,93,29,44,20
+Coleman,Precinct 2e,"Dist Judge, 42nd Judicial Dist",,,UNDER VOTES,22,9,11,2
+Coleman,Precinct 3,"Dist Judge, 42nd Judicial Dist",,,UNDER VOTES,68,15,41,12
+Coleman,Precinct 4,"Dist Judge, 42nd Judicial Dist",,,UNDER VOTES,103,23,76,4
+Coleman,Precinct 1,"Dist Attorney, 42nd Judicial Dist",,REP,Heath Hemphill,968,81,766,121
+Coleman,Precinct 2,"Dist Attorney, 42nd Judicial Dist",,REP,Heath Hemphill,715,62,499,154
+Coleman,Precinct 2e,"Dist Attorney, 42nd Judicial Dist",,REP,Heath Hemphill,277,27,206,44
+Coleman,Precinct 3,"Dist Attorney, 42nd Judicial Dist",,REP,Heath Hemphill,807,78,628,101
+Coleman,Precinct 4,"Dist Attorney, 42nd Judicial Dist",,REP,Heath Hemphill,1027,98,817,112
+Coleman,Precinct 1,"Dist Attorney, 42nd Judicial Dist",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 2,"Dist Attorney, 42nd Judicial Dist",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 2e,"Dist Attorney, 42nd Judicial Dist",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 3,"Dist Attorney, 42nd Judicial Dist",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 4,"Dist Attorney, 42nd Judicial Dist",,,OVER VOTES,0,0,0,0
+Coleman,Precinct 1,"Dist Attorney, 42nd Judicial Dist",,,UNDER VOTES,62,16,42,4
+Coleman,Precinct 2,"Dist Attorney, 42nd Judicial Dist",,,UNDER VOTES,90,26,43,21
+Coleman,Precinct 2e,"Dist Attorney, 42nd Judicial Dist",,,UNDER VOTES,23,9,11,3
+Coleman,Precinct 3,"Dist Attorney, 42nd Judicial Dist",,,UNDER VOTES,65,14,40,11
+Coleman,Precinct 4,"Dist Attorney, 42nd Judicial Dist",,,UNDER VOTES,90,23,63,4
+Coleman,Precinct 1,County Attorney,,REP,Hayden Wise,972,83,767,122
+Coleman,Precinct 2,County Attorney,,REP,Hayden Wise,724,59,507,158
+Coleman,Precinct 2e,County Attorney,,REP,Hayden Wise,286,31,209,46
+Coleman,Precinct 3,County Attorney,,REP,Hayden Wise,814,80,631,103
+Coleman,Precinct 4,County Attorney,,REP,Hayden Wise,1040,103,824,113
+Coleman,Precinct 1,County Attorney,,,OVER VOTES,0,0,0,0
+Coleman,Precinct 2,County Attorney,,,OVER VOTES,0,0,0,0
+Coleman,Precinct 2e,County Attorney,,,OVER VOTES,0,0,0,0
+Coleman,Precinct 3,County Attorney,,,OVER VOTES,0,0,0,0
+Coleman,Precinct 4,County Attorney,,,OVER VOTES,0,0,0,0
+Coleman,Precinct 1,County Attorney,,,UNDER VOTES,58,14,41,3
+Coleman,Precinct 2,County Attorney,,,UNDER VOTES,81,29,35,17
+Coleman,Precinct 2e,County Attorney,,,UNDER VOTES,14,5,8,1
+Coleman,Precinct 3,County Attorney,,,UNDER VOTES,58,12,37,9
+Coleman,Precinct 4,County Attorney,,,UNDER VOTES,77,18,56,3
+Coleman,Precinct 1,Sheriff,,REP,Les Cogdill,960,83,757,120
+Coleman,Precinct 2,Sheriff,,REP,Les Cogdill,711,54,499,158
+Coleman,Precinct 2e,Sheriff,,REP,Les Cogdill,272,28,201,43
+Coleman,Precinct 3,Sheriff,,REP,Les Cogdill,802,80,617,105
+Coleman,Precinct 4,Sheriff,,REP,Les Cogdill,1028,100,818,110
+Coleman,Precinct 1,Sheriff,,,OVER VOTES,0,0,0,0
+Coleman,Precinct 2,Sheriff,,,OVER VOTES,0,0,0,0
+Coleman,Precinct 2e,Sheriff,,,OVER VOTES,0,0,0,0
+Coleman,Precinct 3,Sheriff,,,OVER VOTES,0,0,0,0
+Coleman,Precinct 4,Sheriff,,,OVER VOTES,0,0,0,0
+Coleman,Precinct 1,Sheriff,,,UNDER VOTES,70,14,51,5
+Coleman,Precinct 2,Sheriff,,,UNDER VOTES,94,34,43,17
+Coleman,Precinct 2e,Sheriff,,,UNDER VOTES,28,8,16,4
+Coleman,Precinct 3,Sheriff,,,UNDER VOTES,70,12,51,7
+Coleman,Precinct 4,Sheriff,,,UNDER VOTES,89,21,62,6
+Coleman,Precinct 1,County Tax Assessor-Collector,,REP,Jamie Trammell,981,83,775,123
+Coleman,Precinct 2,County Tax Assessor-Collector,,REP,Jamie Trammell,730,61,509,160
+Coleman,Precinct 2e,County Tax Assessor-Collector,,REP,Jamie Trammell,277,26,205,46
+Coleman,Precinct 3,County Tax Assessor-Collector,,REP,Jamie Trammell,819,78,635,106
+Coleman,Precinct 4,County Tax Assessor-Collector,,REP,Jamie Trammell,1053,104,836,113
+Coleman,Precinct 1,County Tax Assessor-Collector,,,OVER VOTES,0,0,0,0
+Coleman,Precinct 2,County Tax Assessor-Collector,,,OVER VOTES,0,0,0,0
+Coleman,Precinct 2e,County Tax Assessor-Collector,,,OVER VOTES,0,0,0,0
+Coleman,Precinct 3,County Tax Assessor-Collector,,,OVER VOTES,0,0,0,0
+Coleman,Precinct 4,County Tax Assessor-Collector,,,OVER VOTES,0,0,0,0
+Coleman,Precinct 1,County Tax Assessor-Collector,,,UNDER VOTES,49,14,33,2
+Coleman,Precinct 2,County Tax Assessor-Collector,,,UNDER VOTES,75,27,33,15
+Coleman,Precinct 2e,County Tax Assessor-Collector,,,UNDER VOTES,23,10,12,1
+Coleman,Precinct 3,County Tax Assessor-Collector,,,UNDER VOTES,53,14,33,6
+Coleman,Precinct 4,County Tax Assessor-Collector,,,UNDER VOTES,64,17,44,3
+Coleman,Precinct 1,County Constable,,REP,Mike Barker,934,80,735,119
+Coleman,Precinct 2,County Constable,,REP,Mike Barker,704,57,492,155
+Coleman,Precinct 2e,County Constable,,REP,Mike Barker,268,27,197,44
+Coleman,Precinct 3,County Constable,,REP,Mike Barker,785,76,607,102
+Coleman,Precinct 4,County Constable,,REP,Mike Barker,1012,100,802,110
+Coleman,Precinct 1,County Constable,,,OVER VOTES,0,0,0,0
+Coleman,Precinct 2,County Constable,,,OVER VOTES,0,0,0,0
+Coleman,Precinct 2e,County Constable,,,OVER VOTES,0,0,0,0
+Coleman,Precinct 3,County Constable,,,OVER VOTES,0,0,0,0
+Coleman,Precinct 4,County Constable,,,OVER VOTES,0,0,0,0
+Coleman,Precinct 1,County Constable,,,UNDER VOTES,96,17,73,6
+Coleman,Precinct 2,County Constable,,,UNDER VOTES,101,31,50,20
+Coleman,Precinct 2e,County Constable,,,UNDER VOTES,32,9,20,3
+Coleman,Precinct 3,County Constable,,,UNDER VOTES,87,16,61,10
+Coleman,Precinct 4,County Constable,,,UNDER VOTES,105,21,78,6
+Coleman,Precinct 1                    P,County Commissioner Pct 1,,REPC,REP Matt Henderson,962,83,758,121
+Coleman,Precinct 1                    P,County Commissioner Pct 1,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 1                    P,County Commissioner Pct 1,,C,UNDER VOTES,68,14,50,4
+Coleman,Precinct 2                    P,County Commissioner Pct 2,,REPC,REP Jim Rice,735,64,504,167
+Coleman,Precinct 2e                   P,County Commissioner Pct 2,,REPC,REP Jim Rice,278,26,206,46
+Coleman,Precinct 2                    P,County Commissioner Pct 2,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 2e                   P,County Commissioner Pct 2,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 2                    P,County Commissioner Pct 2,,C,UNDER VOTES,70,24,38,8
+Coleman,Precinct 2e                   P,County Commissioner Pct 2,,C,UNDER VOTES,22,10,11,1
+Coleman,Precinct 3                    P,County Commissioner Pct 3,,REPC,REP Scotty Lawrence,792,75,617,100
+Coleman,Precinct 3                    P,County Commissioner Pct 3,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 3                    P,County Commissioner Pct 3,,C,UNDER VOTES,80,17,51,12
+Coleman,Precinct 1                    C,Proposition A City of Coleman,,NONC,For,367,41,266,60
+Coleman,Precinct 2e                   C,Proposition A City of Coleman,,NONC,For,204,25,150,29
+Coleman,Precinct 3                    C,Proposition A City of Coleman,,NONC,For,368,36,271,61
+Coleman,Precinct 4                    C,Proposition A City of Coleman,,NONC,For,426,46,331,49
+Coleman,Precinct 1                    C,Proposition A City of Coleman,,NONC,Against,68,4,56,8
+Coleman,Precinct 2e                   C,Proposition A City of Coleman,,NONC,Against,48,5,34,9
+Coleman,Precinct 3                    C,Proposition A City of Coleman,,NONC,Against,72,4,57,11
+Coleman,Precinct 4                    C,Proposition A City of Coleman,,NONC,Against,80,3,64,13
+Coleman,Precinct 1                    C,Proposition A City of Coleman,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 2e                   C,Proposition A City of Coleman,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 3                    C,Proposition A City of Coleman,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 4                    C,Proposition A City of Coleman,,C,OVER VOTES,1,1,0,0
+Coleman,Precinct 1                    C,Proposition A City of Coleman,,C,UNDER VOTES,36,4,28,4
+Coleman,Precinct 2e                   C,Proposition A City of Coleman,,C,UNDER VOTES,15,4,11,0
+Coleman,Precinct 3                    C,Proposition A City of Coleman,,C,UNDER VOTES,37,3,28,6
+Coleman,Precinct 4                    C,Proposition A City of Coleman,,C,UNDER VOTES,30,5,23,2
+Coleman,Precinct 1                    C,Proposition B City of Coleman,,NONC,For,351,38,255,58
+Coleman,Precinct 2e                   C,Proposition B City of Coleman,,NONC,For,194,25,145,24
+Coleman,Precinct 3                    C,Proposition B City of Coleman,,NONC,For,349,34,257,58
+Coleman,Precinct 4                    C,Proposition B City of Coleman,,NONC,For,417,45,324,48
+Coleman,Precinct 1                    C,Proposition B City of Coleman,,NONC,Against,78,8,60,10
+Coleman,Precinct 2e                   C,Proposition B City of Coleman,,NONC,Against,58,7,38,13
+Coleman,Precinct 3                    C,Proposition B City of Coleman,,NONC,Against,82,2,68,12
+Coleman,Precinct 4                    C,Proposition B City of Coleman,,NONC,Against,89,5,72,12
+Coleman,Precinct 1                    C,Proposition B City of Coleman,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 2e                   C,Proposition B City of Coleman,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 3                    C,Proposition B City of Coleman,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 4                    C,Proposition B City of Coleman,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 1                    C,Proposition B City of Coleman,,C,UNDER VOTES,42,3,35,4
+Coleman,Precinct 2e                   C,Proposition B City of Coleman,,C,UNDER VOTES,15,2,12,1
+Coleman,Precinct 3                    C,Proposition B City of Coleman,,C,UNDER VOTES,46,7,31,8
+Coleman,Precinct 4                    C,Proposition B City of Coleman,,C,UNDER VOTES,31,5,22,4
+Coleman,Precinct 1                    C,Proposition C City of Coleman,,NONC,For,245,22,179,44
+Coleman,Precinct 2e                   C,Proposition C City of Coleman,,NONC,For,140,19,105,16
+Coleman,Precinct 3                    C,Proposition C City of Coleman,,NONC,For,253,23,199,31
+Coleman,Precinct 4                    C,Proposition C City of Coleman,,NONC,For,283,31,226,26
+Coleman,Precinct 1                    C,Proposition C City of Coleman,,NONC,Against,197,23,148,26
+Coleman,Precinct 2e                   C,Proposition C City of Coleman,,NONC,Against,113,13,78,22
+Coleman,Precinct 3                    C,Proposition C City of Coleman,,NONC,Against,194,13,139,42
+Coleman,Precinct 4                    C,Proposition C City of Coleman,,NONC,Against,228,21,174,33
+Coleman,Precinct 1                    C,Proposition C City of Coleman,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 2e                   C,Proposition C City of Coleman,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 3                    C,Proposition C City of Coleman,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 4                    C,Proposition C City of Coleman,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 1                    C,Proposition C City of Coleman,,C,UNDER VOTES,29,4,23,2
+Coleman,Precinct 2e                   C,Proposition C City of Coleman,,C,UNDER VOTES,14,2,12,0
+Coleman,Precinct 3                    C,Proposition C City of Coleman,,C,UNDER VOTES,30,7,18,5
+Coleman,Precinct 4                    C,Proposition C City of Coleman,,C,UNDER VOTES,26,3,18,5
+Coleman,Precinct 1                    C,Proposition D City of Coleman,,NONC,For,354,41,254,59
+Coleman,Precinct 2e                   C,Proposition D City of Coleman,,NONC,For,195,27,144,24
+Coleman,Precinct 3                    C,Proposition D City of Coleman,,NONC,For,363,31,266,66
+Coleman,Precinct 4                    C,Proposition D City of Coleman,,NONC,For,424,44,333,47
+Coleman,Precinct 1                    C,Proposition D City of Coleman,,NONC,Against,86,5,72,9
+Coleman,Precinct 2e                   C,Proposition D City of Coleman,,NONC,Against,58,5,39,14
+Coleman,Precinct 3                    C,Proposition D City of Coleman,,NONC,Against,84,7,69,8
+Coleman,Precinct 4                    C,Proposition D City of Coleman,,NONC,Against,86,7,68,11
+Coleman,Precinct 1                    C,Proposition D City of Coleman,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 2e                   C,Proposition D City of Coleman,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 3                    C,Proposition D City of Coleman,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 4                    C,Proposition D City of Coleman,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 1                    C,Proposition D City of Coleman,,C,UNDER VOTES,31,3,24,4
+Coleman,Precinct 2e                   C,Proposition D City of Coleman,,C,UNDER VOTES,14,2,12,0
+Coleman,Precinct 3                    C,Proposition D City of Coleman,,C,UNDER VOTES,30,5,21,4
+Coleman,Precinct 4                    C,Proposition D City of Coleman,,C,UNDER VOTES,27,4,17,6
+Coleman,Precinct 1                    C,Proposition E City of Coleman,,NONC,For,364,42,263,59
+Coleman,Precinct 2e                   C,Proposition E City of Coleman,,NONC,For,214,22,160,32
+Coleman,Precinct 3                    C,Proposition E City of Coleman,,NONC,For,371,31,283,57
+Coleman,Precinct 4                    C,Proposition E City of Coleman,,NONC,For,442,46,347,49
+Coleman,Precinct 1                    C,Proposition E City of Coleman,,NONC,Against,80,4,65,11
+Coleman,Precinct 2e                   C,Proposition E City of Coleman,,NONC,Against,40,9,25,6
+Coleman,Precinct 3                    C,Proposition E City of Coleman,,NONC,Against,72,5,52,15
+Coleman,Precinct 4                    C,Proposition E City of Coleman,,NONC,Against,67,6,52,9
+Coleman,Precinct 1                    C,Proposition E City of Coleman,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 2e                   C,Proposition E City of Coleman,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 3                    C,Proposition E City of Coleman,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 4                    C,Proposition E City of Coleman,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 1                    C,Proposition E City of Coleman,,C,UNDER VOTES,27,3,22,2
+Coleman,Precinct 2e                   C,Proposition E City of Coleman,,C,UNDER VOTES,13,3,10,0
+Coleman,Precinct 3                    C,Proposition E City of Coleman,,C,UNDER VOTES,34,7,21,6
+Coleman,Precinct 4                    C,Proposition E City of Coleman,,C,UNDER VOTES,28,3,19,6
+Coleman,Precinct 1                    C,Proposition F City of Coleman,,NONC,For,372,44,264,64
+Coleman,Precinct 2e                   C,Proposition F City of Coleman,,NONC,For,214,25,159,30
+Coleman,Precinct 3                    C,Proposition F City of Coleman,,NONC,For,389,35,290,64
+Coleman,Precinct 4                    C,Proposition F City of Coleman,,NONC,For,447,48,347,52
+Coleman,Precinct 1                    C,Proposition F City of Coleman,,NONC,Against,64,2,57,5
+Coleman,Precinct 2e                   C,Proposition F City of Coleman,,NONC,Against,39,6,25,8
+Coleman,Precinct 3                    C,Proposition F City of Coleman,,NONC,Against,53,3,42,8
+Coleman,Precinct 4                    C,Proposition F City of Coleman,,NONC,Against,61,5,50,6
+Coleman,Precinct 1                    C,Proposition F City of Coleman,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 2e                   C,Proposition F City of Coleman,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 3                    C,Proposition F City of Coleman,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 4                    C,Proposition F City of Coleman,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 1                    C,Proposition F City of Coleman,,C,UNDER VOTES,35,3,29,3
+Coleman,Precinct 2e                   C,Proposition F City of Coleman,,C,UNDER VOTES,14,3,11,0
+Coleman,Precinct 3                    C,Proposition F City of Coleman,,C,UNDER VOTES,35,5,24,6
+Coleman,Precinct 4                    C,Proposition F City of Coleman,,C,UNDER VOTES,29,2,21,6
+Coleman,Precinct 1                    C,Proposition G City of Coleman,,NONC,For,335,34,242,59
+Coleman,Precinct 2e                   C,Proposition G City of Coleman,,NONC,For,185,24,137,24
+Coleman,Precinct 3                    C,Proposition G City of Coleman,,NONC,For,340,29,257,54
+Coleman,Precinct 4                    C,Proposition G City of Coleman,,NONC,For,389,41,304,44
+Coleman,Precinct 1                    C,Proposition G City of Coleman,,NONC,Against,92,10,72,10
+Coleman,Precinct 2e                   C,Proposition G City of Coleman,,NONC,Against,65,6,46,13
+Coleman,Precinct 3                    C,Proposition G City of Coleman,,NONC,Against,98,9,71,18
+Coleman,Precinct 4                    C,Proposition G City of Coleman,,NONC,Against,112,8,88,16
+Coleman,Precinct 1                    C,Proposition G City of Coleman,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 2e                   C,Proposition G City of Coleman,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 3                    C,Proposition G City of Coleman,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 4                    C,Proposition G City of Coleman,,C,OVER VOTES,2,2,0,0
+Coleman,Precinct 1                    C,Proposition G City of Coleman,,C,UNDER VOTES,44,5,36,3
+Coleman,Precinct 2e                   C,Proposition G City of Coleman,,C,UNDER VOTES,17,4,12,1
+Coleman,Precinct 3                    C,Proposition G City of Coleman,,C,UNDER VOTES,39,5,28,6
+Coleman,Precinct 4                    C,Proposition G City of Coleman,,C,UNDER VOTES,34,4,26,4
+Coleman,Precinct 1                    C,Proposition H City of Coleman,,NONC,For,348,34,254,60
+Coleman,Precinct 2e                   C,Proposition H City of Coleman,,NONC,For,205,23,152,30
+Coleman,Precinct 3                    C,Proposition H City of Coleman,,NONC,For,353,33,266,54
+Coleman,Precinct 4                    C,Proposition H City of Coleman,,NONC,For,422,47,324,51
+Coleman,Precinct 1                    C,Proposition H City of Coleman,,NONC,Against,79,10,60,9
+Coleman,Precinct 2e                   C,Proposition H City of Coleman,,NONC,Against,44,5,31,8
+Coleman,Precinct 3                    C,Proposition H City of Coleman,,NONC,Against,82,5,63,14
+Coleman,Precinct 4                    C,Proposition H City of Coleman,,NONC,Against,77,4,65,8
+Coleman,Precinct 1                    C,Proposition H City of Coleman,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 2e                   C,Proposition H City of Coleman,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 3                    C,Proposition H City of Coleman,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 4                    C,Proposition H City of Coleman,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 1                    C,Proposition H City of Coleman,,C,UNDER VOTES,44,5,36,3
+Coleman,Precinct 2e                   C,Proposition H City of Coleman,,C,UNDER VOTES,18,6,12,0
+Coleman,Precinct 3                    C,Proposition H City of Coleman,,C,UNDER VOTES,42,5,27,10
+Coleman,Precinct 4                    C,Proposition H City of Coleman,,C,UNDER VOTES,38,4,29,5
+Coleman,Precinct 1                    C,Proposition I City of Coleman,,NONC,For,292,32,208,52
+Coleman,Precinct 2e                   C,Proposition I City of Coleman,,NONC,For,167,19,124,24
+Coleman,Precinct 3                    C,Proposition I City of Coleman,,NONC,For,299,29,218,52
+Coleman,Precinct 4                    C,Proposition I City of Coleman,,NONC,For,348,37,272,39
+Coleman,Precinct 1                    C,Proposition I City of Coleman,,NONC,Against,141,14,110,17
+Coleman,Precinct 2e                   C,Proposition I City of Coleman,,NONC,Against,82,10,58,14
+Coleman,Precinct 3                    C,Proposition I City of Coleman,,NONC,Against,141,9,114,18
+Coleman,Precinct 4                    C,Proposition I City of Coleman,,NONC,Against,159,16,124,19
+Coleman,Precinct 1                    C,Proposition I City of Coleman,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 2e                   C,Proposition I City of Coleman,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 3                    C,Proposition I City of Coleman,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 4                    C,Proposition I City of Coleman,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 1                    C,Proposition I City of Coleman,,C,UNDER VOTES,38,3,32,3
+Coleman,Precinct 2e                   C,Proposition I City of Coleman,,C,UNDER VOTES,18,5,13,0
+Coleman,Precinct 3                    C,Proposition I City of Coleman,,C,UNDER VOTES,37,5,24,8
+Coleman,Precinct 4                    C,Proposition I City of Coleman,,C,UNDER VOTES,30,2,22,6
+Coleman,Precinct 1                    C,Proposition J City of Coleman,,NONC,For,302,32,218,52
+Coleman,Precinct 2e                   C,Proposition J City of Coleman,,NONC,For,177,22,129,26
+Coleman,Precinct 3                    C,Proposition J City of Coleman,,NONC,For,328,29,247,52
+Coleman,Precinct 4                    C,Proposition J City of Coleman,,NONC,For,359,41,281,37
+Coleman,Precinct 1                    C,Proposition J City of Coleman,,NONC,Against,133,14,102,17
+Coleman,Precinct 2e                   C,Proposition J City of Coleman,,NONC,Against,74,8,54,12
+Coleman,Precinct 3                    C,Proposition J City of Coleman,,NONC,Against,120,10,89,21
+Coleman,Precinct 4                    C,Proposition J City of Coleman,,NONC,Against,141,11,108,22
+Coleman,Precinct 1                    C,Proposition J City of Coleman,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 2e                   C,Proposition J City of Coleman,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 3                    C,Proposition J City of Coleman,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 4                    C,Proposition J City of Coleman,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 1                    C,Proposition J City of Coleman,,C,UNDER VOTES,36,3,30,3
+Coleman,Precinct 2e                   C,Proposition J City of Coleman,,C,UNDER VOTES,16,4,12,0
+Coleman,Precinct 3                    C,Proposition J City of Coleman,,C,UNDER VOTES,29,4,20,5
+Coleman,Precinct 4                    C,Proposition J City of Coleman,,C,UNDER VOTES,37,3,29,5
+Coleman,Precinct 1                    C,Proposition K City of Coleman,,NONC,For,379,43,273,63
+Coleman,Precinct 2e                   C,Proposition K City of Coleman,,NONC,For,221,27,164,30
+Coleman,Precinct 3                    C,Proposition K City of Coleman,,NONC,For,383,33,286,64
+Coleman,Precinct 4                    C,Proposition K City of Coleman,,NONC,For,451,45,350,56
+Coleman,Precinct 1                    C,Proposition K City of Coleman,,NONC,Against,50,1,44,5
+Coleman,Precinct 2e                   C,Proposition K City of Coleman,,NONC,Against,26,3,17,6
+Coleman,Precinct 3                    C,Proposition K City of Coleman,,NONC,Against,55,3,44,8
+Coleman,Precinct 4                    C,Proposition K City of Coleman,,NONC,Against,48,6,39,3
+Coleman,Precinct 1                    C,Proposition K City of Coleman,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 2e                   C,Proposition K City of Coleman,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 3                    C,Proposition K City of Coleman,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 4                    C,Proposition K City of Coleman,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 1                    C,Proposition K City of Coleman,,C,UNDER VOTES,42,5,33,4
+Coleman,Precinct 2e                   C,Proposition K City of Coleman,,C,UNDER VOTES,20,4,14,2
+Coleman,Precinct 3                    C,Proposition K City of Coleman,,C,UNDER VOTES,39,7,26,6
+Coleman,Precinct 4                    C,Proposition K City of Coleman,,C,UNDER VOTES,38,4,29,5
+Coleman,Precinct 4                    C,Mayor City of Novice,,NONC,Terrilyn Taylor,18,2,15,1
+Coleman,Precinct 4                    C,Mayor City of Novice,,NONC,Bobby G. Green,46,1,36,9
+Coleman,Precinct 4                    C,Mayor City of Novice,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 4                    C,Mayor City of Novice,,C,UNDER VOTES,4,2,2,0
+Coleman,Precinct 4                    C,Proposition City of Novice,,NONC,For,38,1,29,8
+Coleman,Precinct 4                    C,Proposition City of Novice,,NONC,Against,28,3,23,2
+Coleman,Precinct 4                    C,Proposition City of Novice,,C,OVER VOTES,0,0,0,0
+Coleman,Precinct 4                    C,Proposition City of Novice,,C,UNDER VOTES,2,1,1,0
+Coleman,Precinct 1                    B,Board Member Bangs ISD,,NONI,Lyndyl Tidwell,6,0,5,1
+Coleman,Precinct 1                    B,Board Member Bangs ISD,,NONI,Larry Drury,10,0,9,1
+Coleman,Precinct 1                    B,Board Member Bangs ISD,,NONI,Ken Loewrigkeit,2,0,2,0
+Coleman,Precinct 1                    B,Board Member Bangs ISD,,I,OVER VOTES,0,0,0,0
+Coleman,Precinct 1                    B,Board Member Bangs ISD,,I,UNDER VOTES,12,2,10,0
+Coleman,Precinct 1                    S,Board Member Santa Anna ISD,,NONI,Laurel Guthrie,34,3,26,5
+Coleman,Precinct 2                    S,Board Member Santa Anna ISD,,NONI,Laurel Guthrie,327,28,226,73
+Coleman,Precinct 2e                   S,Board Member Santa Anna ISD,,NONI,Laurel Guthrie,3,0,2,1
+Coleman,Precinct 1                    S,Board Member Santa Anna ISD,,NONI,Janice Fellers,36,4,28,4
+Coleman,Precinct 2                    S,Board Member Santa Anna ISD,,NONI,Janice Fellers,459,48,314,97
+Coleman,Precinct 2e                   S,Board Member Santa Anna ISD,,NONI,Janice Fellers,2,0,1,1
+Coleman,Precinct 1                    S,Board Member Santa Anna ISD,,NONI,Josh Daniel,23,1,18,4
+Coleman,Precinct 2                    S,Board Member Santa Anna ISD,,NONI,Josh Daniel,357,27,242,88
+Coleman,Precinct 2e                   S,Board Member Santa Anna ISD,,NONI,Josh Daniel,0,0,0,0
+Coleman,Precinct 1                    S,Board Member Santa Anna ISD,,I,OVER VOTES,0,0,0,0
+Coleman,Precinct 2                    S,Board Member Santa Anna ISD,,I,OVER VOTES,0,0,0,0
+Coleman,Precinct 2e                   S,Board Member Santa Anna ISD,,I,OVER VOTES,0,0,0,0
+Coleman,Precinct 1                    S,Board Member Santa Anna ISD,,I,UNDER VOTES,31,6,24,1
+Coleman,Precinct 2                    S,Board Member Santa Anna ISD,,I,UNDER VOTES,427,67,270,90
+Coleman,Precinct 2e                   S,Board Member Santa Anna ISD,,I,UNDER VOTES,1,0,1,0
