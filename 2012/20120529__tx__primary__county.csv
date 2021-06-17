@@ -431,7 +431,7 @@ BAYLOR,"Presiding Judge, Court of Criminal Appeals",,Keith Hampton,FALSE,DEM,73,
 BAYLOR,"Presiding Judge, Court of Criminal Appeals",,Total,,,73,
 BAYLOR,Member State Board of Education,15,Steven D. Schafersman,FALSE,DEM,70,100
 BAYLOR,Member State Board of Education,15,Total,,,70,
-BAYLOR,District Judge,50th Judicial District,W.H. ,TRUE,DEM,88,100
+BAYLOR,District Judge,50th Judicial District,W.H.,TRUE,DEM,88,100
 BAYLOR,District Judge,50th Judicial District,Total,,,88,
 BAYLOR,Prop 1 In state high school graduate eligible for tuition/legal status,,IN FAVOR,FALSE,DEM,77,78.57
 BAYLOR,Prop 1 In state high school graduate eligible for tuition/legal status,,AGAINST,FALSE,DEM,21,21.43
@@ -1939,7 +1939,7 @@ COTTLE,Member State Board of Education,15,Steven D. Schafersman,FALSE,DEM,57,100
 COTTLE,Member State Board of Education,15,Total,,,57,
 COTTLE,State Representative,68,Lanhon Odom,FALSE,DEM,51,100
 COTTLE,State Representative,68,Total,,,51,
-COTTLE,District Judge,50th Judicial District,W.H. ,TRUE,DEM,63,100
+COTTLE,District Judge,50th Judicial District,W.H.,TRUE,DEM,63,100
 COTTLE,District Judge,50th Judicial District,Total,,,63,
 COTTLE,Prop 1 In state high school graduate eligible for tuition/legal status,,IN FAVOR,FALSE,DEM,50,70.42
 COTTLE,Prop 1 In state high school graduate eligible for tuition/legal status,,AGAINST,FALSE,DEM,21,29.58
@@ -5355,7 +5355,7 @@ KING,Member State Board of Education,15,Steven D. Schafersman,FALSE,DEM,9,100
 KING,Member State Board of Education,15,Total,,,9,
 KING,State Representative,68,Lanhon Odom,FALSE,DEM,8,100
 KING,State Representative,68,Total,,,8,
-KING,District Judge,50th Judicial District,W.H. ,TRUE,DEM,12,100
+KING,District Judge,50th Judicial District,W.H.,TRUE,DEM,12,100
 KING,District Judge,50th Judicial District,Total,,,12,
 KING,Prop 1 In state high school graduate eligible for tuition/legal status,,IN FAVOR,FALSE,DEM,6,50
 KING,Prop 1 In state high school graduate eligible for tuition/legal status,,AGAINST,FALSE,DEM,6,50
@@ -5407,7 +5407,7 @@ KINNEY,Justice 4th Court of Appeals District,5,Total,,,270,
 KINNEY,Justice 4th Court of Appeals District,7,Rebeca C. Martinez,FALSE,DEM,206,59.2
 KINNEY,Justice 4th Court of Appeals District,7,Carmen A. Samaniego,FALSE,DEM,142,40.8
 KINNEY,Justice 4th Court of Appeals District,7,Total,,,348,
-KINNEY,District Judge,63rd Judicial District,Enrique ,TRUE,DEM,315,100
+KINNEY,District Judge,63rd Judicial District,Enrique,TRUE,DEM,315,100
 KINNEY,District Judge,63rd Judicial District,Total,,,315,
 KINNEY,District Attorney,63rd Judicial District,Fred Hernandez,TRUE,DEM,300,100
 KINNEY,District Attorney,63rd Judicial District,Total,,,300,
@@ -5489,7 +5489,7 @@ KNOX,"Presiding Judge, Court of Criminal Appeals",,Keith Hampton,FALSE,DEM,33,10
 KNOX,"Presiding Judge, Court of Criminal Appeals",,Total,,,33,
 KNOX,Member State Board of Education,15,Steven D. Schafersman,FALSE,DEM,0,0
 KNOX,Member State Board of Education,15,Total,,,0,
-KNOX,District Judge,50th Judicial District,W.H. ,TRUE,DEM,38,100
+KNOX,District Judge,50th Judicial District,W.H.,TRUE,DEM,38,100
 KNOX,District Judge,50th Judicial District,Total,,,38,
 KNOX,Prop 1 In state high school graduate eligible for tuition/legal status,,IN FAVOR,FALSE,DEM,29,72.5
 KNOX,Prop 1 In state high school graduate eligible for tuition/legal status,,AGAINST,FALSE,DEM,11,27.5
@@ -8484,7 +8484,7 @@ TERRELL,Justice 8th Court of Appeals District,2,Tom Stanton,FALSE,DEM,85,53.13
 TERRELL,Justice 8th Court of Appeals District,2,Total,,,160,
 TERRELL,Justice 8th Court of Appeals District,3,"Guadalupe ""Lupe"" Rivera",TRUE,DEM,122,100
 TERRELL,Justice 8th Court of Appeals District,3,Total,,,122,
-TERRELL,District Judge,63rd Judicial District,Enrique ,TRUE,DEM,151,100
+TERRELL,District Judge,63rd Judicial District,Enrique,TRUE,DEM,151,100
 TERRELL,District Judge,63rd Judicial District,Total,,,151,
 TERRELL,District Attorney,63rd Judicial District,Fred Hernandez,TRUE,DEM,131,100
 TERRELL,District Attorney,63rd Judicial District,Total,,,131,
@@ -8938,7 +8938,7 @@ VAL VERDE,Justice 4th Court of Appeals District,5,Total,,,1721,
 VAL VERDE,Justice 4th Court of Appeals District,7,Rebeca C. Martinez,FALSE,DEM,1170,57.41
 VAL VERDE,Justice 4th Court of Appeals District,7,Carmen A. Samaniego,FALSE,DEM,868,42.59
 VAL VERDE,Justice 4th Court of Appeals District,7,Total,,,2038,
-VAL VERDE,District Judge,63rd Judicial District,Enrique ,TRUE,DEM,1970,100
+VAL VERDE,District Judge,63rd Judicial District,Enrique,TRUE,DEM,1970,100
 VAL VERDE,District Judge,63rd Judicial District,Total,,,1970,
 VAL VERDE,District Attorney,63rd Judicial District,Fred Hernandez,TRUE,DEM,1826,100
 VAL VERDE,District Attorney,63rd Judicial District,Total,,,1826,
@@ -22814,7 +22814,7 @@ KAUFMAN,Justice 5th Court of Appeals District,12,"Robert M. ""Bob"" Fillmore",TR
 KAUFMAN,Justice 5th Court of Appeals District,12,Total,,,5655,
 KAUFMAN,Justice 5th Court of Appeals District,13,Elizabeth Lang Miers,FALSE,REP,5632,100
 KAUFMAN,Justice 5th Court of Appeals District,13,Total,,,5632,
-KAUFMAN,District Judge,422nd Judicial District,B. Michael ,TRUE,REP,6268,100
+KAUFMAN,District Judge,422nd Judicial District,B. Michael,TRUE,REP,6268,100
 KAUFMAN,District Judge,422nd Judicial District,Total,,,6268,
 KAUFMAN,Prop 1 Allows parents the freedom to choose their child's school,,IN FAVOR,FALSE,REP,7025,84.15
 KAUFMAN,Prop 1 Allows parents the freedom to choose their child's school,,AGAINST,FALSE,REP,1323,15.85
@@ -25028,7 +25028,7 @@ LUBBOCK,Justice 7th Court of Appeals District,3,Pat Pirtle,FALSE,REP,18979,100
 LUBBOCK,Justice 7th Court of Appeals District,3,Total,,,18979,
 LUBBOCK,District Judge,72nd Judicial District,Ruben G. Reyes,FALSE,REP,19006,100
 LUBBOCK,District Judge,72nd Judicial District,Total,,,19006,
-LUBBOCK,District Judge,99th Judicial District,William C. ,TRUE,REP,20965,100
+LUBBOCK,District Judge,99th Judicial District,William C.,TRUE,REP,20965,100
 LUBBOCK,District Judge,99th Judicial District,Total,,,20965,
 LUBBOCK,District Judge,140th Judicial District,Jim Bob Darnell,TRUE,REP,20363,100
 LUBBOCK,District Judge,140th Judicial District,Total,,,20363,

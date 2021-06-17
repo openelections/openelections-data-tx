@@ -96,18 +96,18 @@ Howard,"42, 44, 45, 46",U.S. House,19,,"Richard ""Chip"" Peterson",9,12,21
 Howard,"404, 405, 406",U.S. House,19,,"Richard ""Chip"" Peterson",3,3,6
 Howard,"407, 408",U.S. House,19,,"Richard ""Chip"" Peterson",0,0,0
 Howard,409,U.S. House,19,,"Richard ""Chip"" Peterson",1,4,5
-Howard,"11, 12, 16, 112",U.S. House,19,, Write In,2,0,2
-Howard,"103, 104, 105",U.S. House,19,, Write In,0,0,0
-Howard,"22, 24, 25, 26",U.S. House,19,, Write In,0,1,1
-Howard,205,U.S. House,19,, Write In,0,0,0
-Howard,"207, 207c",U.S. House,19,, Write In,0,0,0
-Howard,208,U.S. House,19,, Write In,0,0,0
-Howard,"33, 24, 35",U.S. House,19,, Write In,0,0,0
-Howard,304,U.S. House,19,, Write In,0,0,0
-Howard,"42, 44, 45, 46",U.S. House,19,, Write In,0,0,0
-Howard,"404, 405, 406",U.S. House,19,, Write In,0,0,0
-Howard,"407, 408",U.S. House,19,, Write In,0,0,0
-Howard,409,U.S. House,19,, Write In,0,0,0
+Howard,"11, 12, 16, 112",U.S. House,19,,Write In,2,0,2
+Howard,"103, 104, 105",U.S. House,19,,Write In,0,0,0
+Howard,"22, 24, 25, 26",U.S. House,19,,Write In,0,1,1
+Howard,205,U.S. House,19,,Write In,0,0,0
+Howard,"207, 207c",U.S. House,19,,Write In,0,0,0
+Howard,208,U.S. House,19,,Write In,0,0,0
+Howard,"33, 24, 35",U.S. House,19,,Write In,0,0,0
+Howard,304,U.S. House,19,,Write In,0,0,0
+Howard,"42, 44, 45, 46",U.S. House,19,,Write In,0,0,0
+Howard,"404, 405, 406",U.S. House,19,,Write In,0,0,0
+Howard,"407, 408",U.S. House,19,,Write In,0,0,0
+Howard,409,U.S. House,19,,Write In,0,0,0
 Howard,"11, 12, 16, 112",Governor,,REP,Greg Abbott,137,94,231
 Howard,"103, 104, 105",Governor,,REP,Greg Abbott,46,48,94
 Howard,"22, 24, 25, 26",Governor,,REP,Greg Abbott,404,205,609
@@ -465,7 +465,7 @@ Howard,208,State Senate,,REP,Kel Seliger,13,23,36
 Howard,"33, 24, 35",State Senate,,REP,Kel Seliger,487,280,767
 Howard,304,State Senate,,REP,Kel Seliger,60,71,131
 Howard,"42, 44, 45, 46",State Senate,,REP,Kel Seliger,207,182,389
-Howard,"404, 405, ",State Senate,,REP,Kel Seliger,119,117,236
+Howard,"404, 405,",State Senate,,REP,Kel Seliger,119,117,236
 Howard,408,State Senate,,REP,Kel Seliger,13,7,20
 Howard,409,State Senate,,REP,Kel Seliger,55,86,141
 Howard,"11, 12, 12a, 13,16",State Senate,,LIB,Steven Gibson,33,34,67
@@ -477,7 +477,7 @@ Howard,208,State Senate,,LIB,Steven Gibson,0,1,1
 Howard,"33, 24, 35",State Senate,,LIB,Steven Gibson,65,55,120
 Howard,304,State Senate,,LIB,Steven Gibson,12,5,17
 Howard,"42, 44, 45, 46",State Senate,,LIB,Steven Gibson,41,32,73
-Howard,"404, 405, ",State Senate,,LIB,Steven Gibson,11,9,20
+Howard,"404, 405,",State Senate,,LIB,Steven Gibson,11,9,20
 Howard,408,State Senate,,LIB,Steven Gibson,0,0,0
 Howard,409,State Senate,,LIB,Steven Gibson,4,10,14
 Howard,"11, 12, 12a, 13,16",State Representative,72,REP,Drew Darby,157,108,265
@@ -489,6 +489,6 @@ Howard,208,State Representative,72,REP,Drew Darby,13,22,35
 Howard,"33, 24, 35",State Representative,72,REP,Drew Darby,508,301,809
 Howard,304,State Representative,72,REP,Drew Darby,68,71,139
 Howard,"42, 44, 45, 46",State Representative,72,REP,Drew Darby,211,199,410
-Howard,"404, 405, ",State Representative,72,REP,Drew Darby,121,117,238
+Howard,"404, 405,",State Representative,72,REP,Drew Darby,121,117,238
 Howard,408,State Representative,72,REP,Drew Darby,12,7,19
 Howard,409,State Representative,72,REP,Drew Darby,57,89,146
