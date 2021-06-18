@@ -57,17 +57,17 @@ Colorado,Precinct 304,President,,DEM,Joseph R. Biden,57,10,31,16
 Colorado,Precinct 305,President,,DEM,Joseph R. Biden,279,50,188,41
 Colorado,Precinct 401,President,,DEM,Joseph R. Biden,113,24,75,14
 Colorado,Precinct 402,President,,DEM,Joseph R. Biden,716,115,497,104
-Colorado,Precinct 101,President,,LIB,"Jo Jorgensen",8,2,4,2
-Colorado,Precinct 102,President,,LIB,"Jo Jorgensen",4,0,3,1
-Colorado,Precinct 103,President,,LIB,"Jo Jorgensen",0,0,0,0
-Colorado,Precinct 201,President,,LIB,"Jo Jorgensen",16,1,13,2
-Colorado,Precinct 202,President,,LIB,"Jo Jorgensen",2,0,1,1
-Colorado,Precinct 302,President,,LIB,"Jo Jorgensen",1,0,1,0
-Colorado,Precinct 303,President,,LIB,"Jo Jorgensen",5,0,3,2
-Colorado,Precinct 304,President,,LIB,"Jo Jorgensen",1,0,0,1
-Colorado,Precinct 305,President,,LIB,"Jo Jorgensen",3,0,3,0
-Colorado,Precinct 401,President,,LIB,"Jo Jorgensen",2,0,1,1
-Colorado,Precinct 402,President,,LIB,"Jo Jorgensen",8,0,6,2
+Colorado,Precinct 101,President,,LIB,Jo Jorgensen,8,2,4,2
+Colorado,Precinct 102,President,,LIB,Jo Jorgensen,4,0,3,1
+Colorado,Precinct 103,President,,LIB,Jo Jorgensen,0,0,0,0
+Colorado,Precinct 201,President,,LIB,Jo Jorgensen,16,1,13,2
+Colorado,Precinct 202,President,,LIB,Jo Jorgensen,2,0,1,1
+Colorado,Precinct 302,President,,LIB,Jo Jorgensen,1,0,1,0
+Colorado,Precinct 303,President,,LIB,Jo Jorgensen,5,0,3,2
+Colorado,Precinct 304,President,,LIB,Jo Jorgensen,1,0,0,1
+Colorado,Precinct 305,President,,LIB,Jo Jorgensen,3,0,3,0
+Colorado,Precinct 401,President,,LIB,Jo Jorgensen,2,0,1,1
+Colorado,Precinct 402,President,,LIB,Jo Jorgensen,8,0,6,2
 Colorado,Precinct 101,President,,GRN,Howie Hawkins / Angela Walker,3,1,2,0
 Colorado,Precinct 102,President,,GRN,Howie Hawkins / Angela Walker,0,0,0,0
 Colorado,Precinct 103,President,,GRN,Howie Hawkins / Angela Walker,0,0,0,0
@@ -1025,26 +1025,26 @@ Colorado,Precinct 305,Trustee Columbus ISD,,I,UNDER VOTES,636,86,440,110
 Colorado,Precinct 401,Trustee Columbus ISD,,I,UNDER VOTES,116,16,84,16
 Colorado,Precinct 402,Trustee Columbus ISD,,I,UNDER VOTES,38,3,31,4
 Colorado,Precinct 209,Trustee Columbus ISD,,I,UNDER VOTES,2,1,1,0
-Colorado,Precinct 201                  W,Mayor Weimar,,NON,Milton Ray Koller,741,73,583,85
-Colorado,Precinct 201                  W,Mayor Weimar,,,OVER VOTES,0,0,0,0
-Colorado,Precinct 201                  W,Mayor Weimar,,,UNDER VOTES,89,10,70,9
-Colorado,Precinct 201                  W,"Councilman, Place 2 Weimar",,NON,"Jerry Wayne Shupak, Jr.",453,31,360,62
-Colorado,Precinct 201                  W,"Councilman, Place 2 Weimar",,NON,Ronell Wilson,342,48,266,28
-Colorado,Precinct 201                  W,"Councilman, Place 2 Weimar",,,OVER VOTES,0,0,0,0
-Colorado,Precinct 201                  W,"Councilman, Place 2 Weimar",,,UNDER VOTES,35,4,27,4
-Colorado,Precinct 201                  W,"Councilman, Place 4 Weimar",,NON,"Kevin ""Catfish"" Janecka",716,64,564,88
-Colorado,Precinct 201                  W,"Councilman, Place 4 Weimar",,,OVER VOTES,0,0,0,0
-Colorado,Precinct 201                  W,"Councilman, Place 4 Weimar",,,UNDER VOTES,114,19,89,6
-Colorado,Precinct 402                  E,Mayor Eagle Lake,,NON,Mary Parr,760,82,522,156
-Colorado,Precinct 402                  E,Mayor Eagle Lake,,,OVER VOTES,0,0,0,0
-Colorado,Precinct 402                  E,Mayor Eagle Lake,,,UNDER VOTES,386,51,279,56
-Colorado,Precinct 402                  E,Alderman Eagle Lake,,NON,Larry Contreras,527,58,369,100
-Colorado,Precinct 402                  E,Alderman Eagle Lake,,NON,John Young,649,89,448,112
-Colorado,Precinct 402                  E,Alderman Eagle Lake,,NON,Eve Lucas,385,36,283,66
-Colorado,Precinct 402                  E,Alderman Eagle Lake,,NON,Anthony Johnson,300,35,204,61
-Colorado,Precinct 402                  E,Alderman Eagle Lake,,,OVER VOTES,0,0,0,0
-Colorado,Precinct 402                  E,Alderman Eagle Lake,,,UNDER VOTES,431,48,298,85
-Colorado,Precinct 402                  E,Proposition Eagle Lake,,NON,For,730,80,504,146
-Colorado,Precinct 402                  E,Proposition Eagle Lake,,NON,Against,363,48,256,59
-Colorado,Precinct 402                  E,Proposition Eagle Lake,,,OVER VOTES,0,0,0,0
-Colorado,Precinct 402                  E,Proposition Eagle Lake,,,UNDER VOTES,53,5,41,7
+Colorado,Precinct 201 W,Mayor Weimar,,NON,Milton Ray Koller,741,73,583,85
+Colorado,Precinct 201 W,Mayor Weimar,,,OVER VOTES,0,0,0,0
+Colorado,Precinct 201 W,Mayor Weimar,,,UNDER VOTES,89,10,70,9
+Colorado,Precinct 201 W,"Councilman, Place 2 Weimar",,NON,"Jerry Wayne Shupak, Jr.",453,31,360,62
+Colorado,Precinct 201 W,"Councilman, Place 2 Weimar",,NON,Ronell Wilson,342,48,266,28
+Colorado,Precinct 201 W,"Councilman, Place 2 Weimar",,,OVER VOTES,0,0,0,0
+Colorado,Precinct 201 W,"Councilman, Place 2 Weimar",,,UNDER VOTES,35,4,27,4
+Colorado,Precinct 201 W,"Councilman, Place 4 Weimar",,NON,"Kevin ""Catfish"" Janecka",716,64,564,88
+Colorado,Precinct 201 W,"Councilman, Place 4 Weimar",,,OVER VOTES,0,0,0,0
+Colorado,Precinct 201 W,"Councilman, Place 4 Weimar",,,UNDER VOTES,114,19,89,6
+Colorado,Precinct 402 E,Mayor Eagle Lake,,NON,Mary Parr,760,82,522,156
+Colorado,Precinct 402 E,Mayor Eagle Lake,,,OVER VOTES,0,0,0,0
+Colorado,Precinct 402 E,Mayor Eagle Lake,,,UNDER VOTES,386,51,279,56
+Colorado,Precinct 402 E,Alderman Eagle Lake,,NON,Larry Contreras,527,58,369,100
+Colorado,Precinct 402 E,Alderman Eagle Lake,,NON,John Young,649,89,448,112
+Colorado,Precinct 402 E,Alderman Eagle Lake,,NON,Eve Lucas,385,36,283,66
+Colorado,Precinct 402 E,Alderman Eagle Lake,,NON,Anthony Johnson,300,35,204,61
+Colorado,Precinct 402 E,Alderman Eagle Lake,,,OVER VOTES,0,0,0,0
+Colorado,Precinct 402 E,Alderman Eagle Lake,,,UNDER VOTES,431,48,298,85
+Colorado,Precinct 402 E,Proposition Eagle Lake,,NON,For,730,80,504,146
+Colorado,Precinct 402 E,Proposition Eagle Lake,,NON,Against,363,48,256,59
+Colorado,Precinct 402 E,Proposition Eagle Lake,,,OVER VOTES,0,0,0,0
+Colorado,Precinct 402 E,Proposition Eagle Lake,,,UNDER VOTES,53,5,41,7
