@@ -1,235 +1,73 @@
-county,precinct,office,district,party,candidate,absentee,early_voting,election_day,votes,
-Foard,Precinct 101,Ballots Cast,,,,,,,97,
-Foard,Precinct 101,President,,REP,Donald J Trump,0,54,15,69,
-Foard,Precinct 101,President,,DEM,Joseph R Biden,2,13,6,21,
-Foard,Precinct 101,President,,LIB,Jo Jorgensen,0,3,0,3,
-Foard,Precinct 101,President,,GRN,Howie Hawkins,0,0,0,0,
-Foard,Precinct 101,U.S. Senate,,REP,John Cornyn,0,52,15,67,
-Foard,Precinct 101,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",2,14,5,21,
-Foard,Precinct 101,U.S. Senate,,LIB,Kerry Douglas McKennon,0,1,0,1,
-Foard,Precinct 101,U.S. Senate,,GRN,David B. Collins,0,0,0,0,
-Foard,Precinct 101,U.S. House,13,,Ronny Jackson,0,53,14,67,
-Foard,Precinct 101,U.S. House,13,,Gus Trujillo,2,14,5,21,
-Foard,Precinct 101,U.S. House,13,,Jack B. Westbrook,0,1,0,1,
-Foard,Precinct 101,Railroad Commissioner,,REP,"James ""Jim""Wright",0,54,14,68,
-Foard,Precinct 101,Railroad Commissioner,,DEM,Chrysta Castaneda,2,11,6,19,
-Foard,Precinct 101,Railroad Commissioner,,LIB,Matt Sterett,0,0,0,0,
-Foard,Precinct 101,Railroad Commissioner,,GRN,"Katija ""Kat"" Gruene",0,0,0,0,
-Foard,Precinct 101,State Senate,28,,Charles Perry,2,57,14,73,
-Foard,Precinct 101,State Representative,69,REP,James B. Frank,2,54,13,69,
-Foard,Precinct 201,Ballots Cast,,,,,,,159,
-Foard,Precinct 201,President,,REP,Donald J Trump,12,92,35,139,
-Foard,Precinct 201,President,,DEM,Joseph R Biden,0,16,3,19,
-Foard,Precinct 201,President,,LIB,Jo Jorgensen,0,0,1,1,
-Foard,Precinct 201,President,,GRN,Howie Hawkins,0,0,0,0,
-Foard,Precinct 201,U.S. Senate,,REP,John Cornyn,11,81,31,123,
-Foard,Precinct 201,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",0,18,6,24,
-Foard,Precinct 201,U.S. Senate,,LIB,Kerry Douglas McKennon,0,0,1,1,
-Foard,Precinct 201,U.S. Senate,,GRN,David B. Collins,0,1,0,1,
-Foard,Precinct 201,U.S. House,13,,Ronny Jackson,10,86,33,129,
-Foard,Precinct 201,U.S. House,13,,Gus Trujillo,0,14,3,17,
-Foard,Precinct 201,U.S. House,13,,Jack B. Westbrook,0,1,1,2,
-Foard,Precinct 201,Railroad Commissioner,,REP,"James ""Jim""Wright",10,82,33,125,
-Foard,Precinct 201,Railroad Commissioner,,DEM,Chrysta Castaneda,0,14,3,17,
-Foard,Precinct 201,Railroad Commissioner,,LIB,Matt Sterett,0,1,1,2,
-Foard,Precinct 201,Railroad Commissioner,,GRN,"Katija ""Kat"" Gruene",0,0,0,0,
-Foard,Precinct 201,State Senate,28,,Charles Perry,10,88,29,127,
-Foard,Precinct 201,State Representative,69,REP,James B. Frank,10,86,31,127,
-Foard,Precinct 301,Ballots Cast,,,,,,,139,
-Foard,Precinct 301,President,,REP,Donald J Trump,2,79,29,110,
-Foard,Precinct 301,President,,DEM,Joseph R Biden,1,20,7,28,
-Foard,Precinct 301,President,,LIB,Jo Jorgensen,0,0,0,0,
-Foard,Precinct 301,President,,GRN,Howie Hawkins,1,0,0,1,
-Foard,Precinct 301,U.S. Senate,,REP,John Cornyn,2,73,23,98,
-Foard,Precinct 301,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",1,21,9,31,
-Foard,Precinct 301,U.S. Senate,,LIB,Kerry Douglas McKennon,1,0,0,1,
-Foard,Precinct 301,U.S. Senate,,GRN,David B. Collins,0,0,0,0,
-Foard,Precinct 301,U.S. House,13,,Ronny Jackson,3,74,25,102,
-Foard,Precinct 301,U.S. House,13,,Gus Trujillo,0,20,7,27,
-Foard,Precinct 301,U.S. House,13,,Jack B. Westbrook,1,0,0,1,
-Foard,Precinct 301,Railroad Commissioner,,REP,"James ""Jim""Wright",2,74,27,103,
-Foard,Precinct 301,Railroad Commissioner,,DEM,Chrysta Castaneda,0,20,5,25,
-Foard,Precinct 301,Railroad Commissioner,,LIB,Matt Sterett,1,0,0,1,
-Foard,Precinct 301,Railroad Commissioner,,GRN,"Katija ""Kat"" Gruene",0,0,0,0,
-Foard,Precinct 301,State Senate,28,,Charles Perry,3,75,28,106,
-Foard,Precinct 301,State Representative,69,REP,James B. Frank,3,75,28,106,
-Foard,Precinct 401,Ballots Cast,,,,,,,163,
-Foard,Precinct 401,President,,REP,Donald J Trump,3,90,34,127,
-Foard,Precinct 401,President,,DEM,Joseph R Biden,2,22,7,31,
-Foard,Precinct 401,President,,LIB,Jo Jorgensen,0,0,2,2,
-Foard,Precinct 401,President,,GRN,Howie Hawkins,0,0,0,0,
-Foard,Precinct 401,U.S. Senate,,REP,John Cornyn,3,82,31,116,
-Foard,Precinct 401,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",2,21,8,31,
-Foard,Precinct 401,U.S. Senate,,LIB,Kerry Douglas McKennon,0,3,1,4,
-Foard,Precinct 401,U.S. Senate,,GRN,David B. Collins,0,0,0,0,
-Foard,Precinct 401,U.S. House,13,,Ronny Jackson,3,83,31,117,
-Foard,Precinct 401,U.S. House,13,,Gus Trujillo,2,19,9,30,
-Foard,Precinct 401,U.S. House,13,,Jack B. Westbrook,0,0,0,0,
-Foard,Precinct 401,Railroad Commissioner,,REP,"James ""Jim""Wright",2,78,32,112,
-Foard,Precinct 401,Railroad Commissioner,,DEM,Chrysta Castaneda,1,21,8,30,
-Foard,Precinct 401,Railroad Commissioner,,LIB,Matt Sterett,0,0,0,0,
-Foard,Precinct 401,Railroad Commissioner,,GRN,"Katija ""Kat"" Gruene",0,0,0,0,
-Foard,Precinct 401,State Senate,28,,Charles Perry,3,82,32,117,
-Foard,Precinct 401,State Representative,69,REP,James B. Frank,3,81,31,115,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
+county,precinct,office,district,party,candidate,absentee,early_voting,election_day,votes
+Foard,Precinct 101,Ballots Cast,,,,,,,97
+Foard,Precinct 101,President,,REP,Donald J Trump,0,54,15,69
+Foard,Precinct 101,President,,DEM,Joseph R Biden,2,13,6,21
+Foard,Precinct 101,President,,LIB,Jo Jorgensen,0,3,0,3
+Foard,Precinct 101,President,,GRN,Howie Hawkins,0,0,0,0
+Foard,Precinct 101,U.S. Senate,,REP,John Cornyn,0,52,15,67
+Foard,Precinct 101,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",2,14,5,21
+Foard,Precinct 101,U.S. Senate,,LIB,Kerry Douglas McKennon,0,1,0,1
+Foard,Precinct 101,U.S. Senate,,GRN,David B. Collins,0,0,0,0
+Foard,Precinct 101,U.S. House,13,,Ronny Jackson,0,53,14,67
+Foard,Precinct 101,U.S. House,13,,Gus Trujillo,2,14,5,21
+Foard,Precinct 101,U.S. House,13,,Jack B. Westbrook,0,1,0,1
+Foard,Precinct 101,Railroad Commissioner,,REP,"James ""Jim""Wright",0,54,14,68
+Foard,Precinct 101,Railroad Commissioner,,DEM,Chrysta Castaneda,2,11,6,19
+Foard,Precinct 101,Railroad Commissioner,,LIB,Matt Sterett,0,0,0,0
+Foard,Precinct 101,Railroad Commissioner,,GRN,"Katija ""Kat"" Gruene",0,0,0,0
+Foard,Precinct 101,State Senate,28,,Charles Perry,2,57,14,73
+Foard,Precinct 101,State Representative,69,REP,James B. Frank,2,54,13,69
+Foard,Precinct 201,Ballots Cast,,,,,,,159
+Foard,Precinct 201,President,,REP,Donald J Trump,12,92,35,139
+Foard,Precinct 201,President,,DEM,Joseph R Biden,0,16,3,19
+Foard,Precinct 201,President,,LIB,Jo Jorgensen,0,0,1,1
+Foard,Precinct 201,President,,GRN,Howie Hawkins,0,0,0,0
+Foard,Precinct 201,U.S. Senate,,REP,John Cornyn,11,81,31,123
+Foard,Precinct 201,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",0,18,6,24
+Foard,Precinct 201,U.S. Senate,,LIB,Kerry Douglas McKennon,0,0,1,1
+Foard,Precinct 201,U.S. Senate,,GRN,David B. Collins,0,1,0,1
+Foard,Precinct 201,U.S. House,13,,Ronny Jackson,10,86,33,129
+Foard,Precinct 201,U.S. House,13,,Gus Trujillo,0,14,3,17
+Foard,Precinct 201,U.S. House,13,,Jack B. Westbrook,0,1,1,2
+Foard,Precinct 201,Railroad Commissioner,,REP,"James ""Jim""Wright",10,82,33,125
+Foard,Precinct 201,Railroad Commissioner,,DEM,Chrysta Castaneda,0,14,3,17
+Foard,Precinct 201,Railroad Commissioner,,LIB,Matt Sterett,0,1,1,2
+Foard,Precinct 201,Railroad Commissioner,,GRN,"Katija ""Kat"" Gruene",0,0,0,0
+Foard,Precinct 201,State Senate,28,,Charles Perry,10,88,29,127
+Foard,Precinct 201,State Representative,69,REP,James B. Frank,10,86,31,127
+Foard,Precinct 301,Ballots Cast,,,,,,,139
+Foard,Precinct 301,President,,REP,Donald J Trump,2,79,29,110
+Foard,Precinct 301,President,,DEM,Joseph R Biden,1,20,7,28
+Foard,Precinct 301,President,,LIB,Jo Jorgensen,0,0,0,0
+Foard,Precinct 301,President,,GRN,Howie Hawkins,1,0,0,1
+Foard,Precinct 301,U.S. Senate,,REP,John Cornyn,2,73,23,98
+Foard,Precinct 301,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",1,21,9,31
+Foard,Precinct 301,U.S. Senate,,LIB,Kerry Douglas McKennon,1,0,0,1
+Foard,Precinct 301,U.S. Senate,,GRN,David B. Collins,0,0,0,0
+Foard,Precinct 301,U.S. House,13,,Ronny Jackson,3,74,25,102
+Foard,Precinct 301,U.S. House,13,,Gus Trujillo,0,20,7,27
+Foard,Precinct 301,U.S. House,13,,Jack B. Westbrook,1,0,0,1
+Foard,Precinct 301,Railroad Commissioner,,REP,"James ""Jim""Wright",2,74,27,103
+Foard,Precinct 301,Railroad Commissioner,,DEM,Chrysta Castaneda,0,20,5,25
+Foard,Precinct 301,Railroad Commissioner,,LIB,Matt Sterett,1,0,0,1
+Foard,Precinct 301,Railroad Commissioner,,GRN,"Katija ""Kat"" Gruene",0,0,0,0
+Foard,Precinct 301,State Senate,28,,Charles Perry,3,75,28,106
+Foard,Precinct 301,State Representative,69,REP,James B. Frank,3,75,28,106
+Foard,Precinct 401,Ballots Cast,,,,,,,163
+Foard,Precinct 401,President,,REP,Donald J Trump,3,90,34,127
+Foard,Precinct 401,President,,DEM,Joseph R Biden,2,22,7,31
+Foard,Precinct 401,President,,LIB,Jo Jorgensen,0,0,2,2
+Foard,Precinct 401,President,,GRN,Howie Hawkins,0,0,0,0
+Foard,Precinct 401,U.S. Senate,,REP,John Cornyn,3,82,31,116
+Foard,Precinct 401,U.S. Senate,,DEM,"Mary ""MJ"" Hegar",2,21,8,31
+Foard,Precinct 401,U.S. Senate,,LIB,Kerry Douglas McKennon,0,3,1,4
+Foard,Precinct 401,U.S. Senate,,GRN,David B. Collins,0,0,0,0
+Foard,Precinct 401,U.S. House,13,,Ronny Jackson,3,83,31,117
+Foard,Precinct 401,U.S. House,13,,Gus Trujillo,2,19,9,30
+Foard,Precinct 401,U.S. House,13,,Jack B. Westbrook,0,0,0,0
+Foard,Precinct 401,Railroad Commissioner,,REP,"James ""Jim""Wright",2,78,32,112
+Foard,Precinct 401,Railroad Commissioner,,DEM,Chrysta Castaneda,1,21,8,30
+Foard,Precinct 401,Railroad Commissioner,,LIB,Matt Sterett,0,0,0,0
+Foard,Precinct 401,Railroad Commissioner,,GRN,"Katija ""Kat"" Gruene",0,0,0,0
+Foard,Precinct 401,State Senate,28,,Charles Perry,3,82,32,117
+Foard,Precinct 401,State Representative,69,REP,James B. Frank,3,81,31,115
