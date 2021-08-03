@@ -103,7 +103,7 @@ class DownloadWilliamson(CountyScraper):
         return all_candidates
 
 def main():
-    election_map = {'2014': {'e-id': '801607', 'date':'20141104'}}
+    election_map = {'2020': {'e-id': '764184', 'date':'20201103'}}
     logging.basicConfig(format='%(asctime)s %(name)s |  %(message)s', level=logging.INFO)
     logger = logging.getLogger(__name__)
     wilco = DownloadWilliamson()
