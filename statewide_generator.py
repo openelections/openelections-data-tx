@@ -3,9 +3,9 @@ import glob
 import csv
 
 year = '2020'
-election = '20200303'
+election = '20201103'
 path = election+'*precinct.csv'
-output_file = election+'__tx__primary__precinct.csv'
+output_file = election+'__tx__general__precinct.csv'
 
 def generate_headers(year, path):
     os.chdir(year)
@@ -14,13 +14,40 @@ def generate_headers(year, path):
     for fname in glob.glob(path):
         print(fname)
         with open(fname, "r") as csvfile:
-            reader = csv.reader(csvfile)
-            headers = next(reader)
+            dict_reader = csv.DictReader(csvfile)
+            row = next(dict_reader)
+            headers = list(row.keys())
             print(set(list(h for h in headers if h not in ['county','precinct', 'office', 'district', 'candidate', 'party'])))
-            vote_headers.append(h for h in headers if h not in ['county','precinct', 'office', 'district', 'candidate', 'party'])
-    with open('vote_headers.csv', "w") as csv_outfile:
+            c = { 'county': row['county'], 'votes': False, 'mail': False, 'absentee': False, 'early_voting': False, 'election_day': False, 'provisional': False, 'limited': False, 'other': False}
+            if 'votes' in headers:
+                c['votes'] = True
+                headers.remove('votes')
+            if 'mail' in headers:
+                c['mail'] = True
+                headers.remove('mail')
+            if 'absentee' in headers:
+                c['absentee'] = True
+                headers.remove('absentee')
+            if 'early_voting' in headers:
+                c['early_voting'] = True
+                headers.remove('early_voting')
+            if 'election_day' in headers:
+                c['election_day'] = True
+                headers.remove('election_day')
+            if 'provisional' in headers:
+                c['provisional'] = True
+                headers.remove('provisional')
+            if 'limited' in headers:
+                c['limited'] = True
+                headers.remove('limited')
+            if len(headers) > 6:
+                c['other'] = True
+            vote_headers.append(c)
+    with open(f"../{election}__tx__general__headers.csv", "w") as csv_outfile:
         outfile = csv.writer(csv_outfile)
-        outfile.writerows(vote_headers)
+        outfile.writerow(['county', 'votes', 'mail', 'absentee', 'early_voting', 'election_day', 'provisional', 'limited', 'other'])
+        for row in sorted(vote_headers, key = lambda i: i['county']):
+            outfile.writerow([row['county'], row['votes'], row['mail'], row['absentee'], row['early_voting'], row['election_day'], row['provisional'], row['limited'], row['other']])
 
 def generate_offices(year, path):
     os.chdir(year)
