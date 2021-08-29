@@ -1,7 +1,7 @@
 county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
 Marion,1.0,President,,,Over Votes,0.0,0.0,0.0,0.0
 Marion,1.0,President,,,Under Votes,6.0,2.0,4.0,0.0
-Marion,1.0,Registered Voters,,,,653.0,,
+Marion,1.0,Registered Voters,,,,653.0,,,
 Marion,1.0,Ballots Cast,,,,429.0,309.0,120.0,0.0
 Marion,1.0,President,,REP,Donald J. Trump Michael R. Pence,296.0,205.0,91.0,0.0
 Marion,1.0,President,,DEM,Joseph R. Biden Kamala D. Harris,125.0,100.0,25.0,0.0
@@ -63,7 +63,7 @@ Marion,1.0,"Trustee, Place V JISD",,,Kevin Godfrey,191.0,120.0,71.0,0.0
 Marion,1.0,"Trustee, Place V JISD",,,Tolesia Smith-Davis,89.0,75.0,14.0,0.0
 Marion,2.0,President,,,Over Votes,0.0,0.0,0.0,0.0
 Marion,2.0,President,,,Under Votes,2.0,1.0,1.0,0.0
-Marion,2.0,Registered Voters,,,,1225.0,,
+Marion,2.0,Registered Voters,,,,1225.0,,,
 Marion,2.0,Ballots Cast,,,,817.0,623.0,194.0,0.0
 Marion,2.0,President,,REP,Donald J. Trump Michael R. Pence,664.0,506.0,158.0,0.0
 Marion,2.0,President,,DEM,Joseph R. Biden Kamala D. Harris,141.0,111.0,30.0,0.0
@@ -125,7 +125,7 @@ Marion,2.0,"Trustee, Place V JISD",,,Kevin Godfrey,429.0,325.0,104.0,0.0
 Marion,2.0,"Trustee, Place V JISD",,,Tolesia Smith-Davis,113.0,81.0,32.0,0.0
 Marion,3.0,President,,,Over Votes,0.0,0.0,0.0,0.0
 Marion,3.0,President,,,Under Votes,3.0,1.0,2.0,0.0
-Marion,3.0,Registered Voters,,,,595.0,,
+Marion,3.0,Registered Voters,,,,595.0,,,
 Marion,3.0,Ballots Cast,,,,403.0,305.0,98.0,0.0
 Marion,3.0,President,,REP,Donald J. Trump Michael R. Pence,309.0,226.0,83.0,0.0
 Marion,3.0,President,,DEM,Joseph R. Biden Kamala D. Harris,85.0,74.0,11.0,0.0
@@ -186,7 +186,7 @@ Marion,3.0,"Trustee, Place V JISD",,,Kevin Godfrey,194.0,147.0,47.0,0.0
 Marion,3.0,"Trustee, Place V JISD",,,Tolesia Smith-Davis,86.0,70.0,16.0,0.0
 Marion,3.0,President,,,Over Votes,0.0,0.0,0.0,0.0
 Marion,3.0,President,,,Under Votes,0.0,0.0,0.0,0.0
-Marion,3.0,Registered Voters,,,,0.0,,
+Marion,3.0,Registered Voters,,,,0.0,,,
 Marion,3.0,Ballots Cast,,,,22.0,14.0,8.0,0.0
 Marion,3.0,President,,REP,Donald J. Trump Michael R. Pence,21.0,14.0,7.0,0.0
 Marion,3.0,President,,DEM,Joseph R. Biden Kamala D. Harris,1.0,0.0,1.0,0.0
@@ -244,7 +244,7 @@ Marion,3.0,County Tax Assessor-Collector,,DEM,Karen Jones,12.0,8.0,4.0,0.0
 Marion,3.0,"Constable, Precinct No. 1",,REP,Ed Baird,21.0,13.0,8.0,0.0
 Marion,4.0,President,,,Over Votes,0.0,0.0,0.0,0.0
 Marion,4.0,President,,,Under Votes,0.0,0.0,0.0,0.0
-Marion,4.0,Registered Voters,,,,501.0,,
+Marion,4.0,Registered Voters,,,,501.0,,,
 Marion,4.0,Ballots Cast,,,,4.0,4.0,0.0,0.0
 Marion,4.0,President,,REP,Donald J. Trump Michael R. Pence,3.0,3.0,0.0,0.0
 Marion,4.0,President,,DEM,Joseph R. Biden Kamala D. Harris,1.0,1.0,0.0,0.0
@@ -305,7 +305,7 @@ Marion,4.0,"Trustee, Place V JISD",,,Kevin Godfrey,2.0,2.0,0.0,0.0
 Marion,4.0,"Trustee, Place V JISD",,,Tolesia Smith-Davis,2.0,2.0,0.0,0.0
 Marion,4.0,President,,,Over Votes,0.0,0.0,0.0,0.0
 Marion,4.0,President,,,Under Votes,1.0,1.0,0.0,0.0
-Marion,4.0,Registered Voters,,,,0.0,,
+Marion,4.0,Registered Voters,,,,0.0,,,
 Marion,4.0,Ballots Cast,,,,85.0,78.0,7.0,0.0
 Marion,4.0,President,,REP,Donald J. Trump Michael R. Pence,50.0,48.0,2.0,0.0
 Marion,4.0,President,,DEM,Joseph R. Biden Kamala D. Harris,32.0,27.0,5.0,0.0
@@ -370,7 +370,7 @@ Marion,4.0,"Trustee, Place V JISD",,,Kevin Godfrey,45.0,43.0,2.0,0.0
 Marion,4.0,"Trustee, Place V JISD",,,Tolesia Smith-Davis,25.0,21.0,4.0,0.0
 Marion,4.0,President,,,Over Votes,0.0,0.0,0.0,0.0
 Marion,4.0,President,,,Under Votes,1.0,1.0,0.0,0.0
-Marion,4.0,Registered Voters,,,,0.0,,
+Marion,4.0,Registered Voters,,,,0.0,,,
 Marion,4.0,Ballots Cast,,,,277.0,247.0,30.0,0.0
 Marion,4.0,President,,REP,Donald J. Trump Michael R. Pence,184.0,166.0,18.0,0.0
 Marion,4.0,President,,DEM,Joseph R. Biden Kamala D. Harris,90.0,79.0,11.0,0.0
@@ -437,7 +437,7 @@ Marion,4.0,"Trustee, Place V JISD",,,Kevin Godfrey,131.0,117.0,14.0,0.0
 Marion,4.0,"Trustee, Place V JISD",,,Tolesia Smith-Davis,92.0,82.0,10.0,0.0
 Marion,5.0,President,,,Over Votes,0.0,0.0,0.0,0.0
 Marion,5.0,President,,,Under Votes,3.0,3.0,0.0,0.0
-Marion,5.0,Registered Voters,,,,788.0,,
+Marion,5.0,Registered Voters,,,,788.0,,,
 Marion,5.0,Ballots Cast,,,,551.0,453.0,98.0,0.0
 Marion,5.0,President,,REP,Donald J. Trump Michael R. Pence,426.0,351.0,75.0,0.0
 Marion,5.0,President,,DEM,Joseph R. Biden Kamala D. Harris,117.0,94.0,23.0,0.0
@@ -498,7 +498,7 @@ Marion,5.0,"Trustee, Place V JISD",,,Kevin Godfrey,304.0,254.0,50.0,0.0
 Marion,5.0,"Trustee, Place V JISD",,,Tolesia Smith-Davis,102.0,79.0,23.0,0.0
 Marion,6.0,President,,,Over Votes,1.0,1.0,0.0,0.0
 Marion,6.0,President,,,Under Votes,6.0,2.0,4.0,0.0
-Marion,6.0,Registered Voters,,,,946.0,,
+Marion,6.0,Registered Voters,,,,946.0,,,
 Marion,6.0,Ballots Cast,,,,605.0,370.0,235.0,0.0
 Marion,6.0,President,,REP,Donald J. Trump Michael R. Pence,408.0,224.0,184.0,0.0
 Marion,6.0,President,,DEM,Joseph R. Biden Kamala D. Harris,185.0,142.0,43.0,0.0
@@ -563,7 +563,7 @@ Marion,6.0,"Trustee, Place V JISD",,,Kevin Godfrey,260.0,127.0,133.0,0.0
 Marion,6.0,"Trustee, Place V JISD",,,Tolesia Smith-Davis,133.0,95.0,38.0,0.0
 Marion,7.0,President,,,Over Votes,0.0,0.0,0.0,0.0
 Marion,7.0,President,,,Under Votes,2.0,1.0,1.0,0.0
-Marion,7.0,Registered Voters,,,,835.0,,
+Marion,7.0,Registered Voters,,,,835.0,,,
 Marion,7.0,Ballots Cast,,,,195.0,161.0,34.0,0.0
 Marion,7.0,President,,REP,Donald J. Trump Michael R. Pence,98.0,81.0,17.0,0.0
 Marion,7.0,President,,DEM,Joseph R. Biden Kamala D. Harris,94.0,78.0,16.0,0.0
@@ -628,7 +628,7 @@ Marion,7.0,"Trustee, Place V JISD",,,Kevin Godfrey,64.0,52.0,12.0,0.0
 Marion,7.0,"Trustee, Place V JISD",,,Tolesia Smith-Davis,64.0,49.0,15.0,0.0
 Marion,7.0,President,,,Over Votes,0.0,0.0,0.0,0.0
 Marion,7.0,President,,,Under Votes,2.0,2.0,0.0,0.0
-Marion,7.0,Registered Voters,,,,0.0,,
+Marion,7.0,Registered Voters,,,,0.0,,,
 Marion,7.0,Ballots Cast,,,,139.0,107.0,32.0,0.0
 Marion,7.0,President,,REP,Donald J. Trump Michael R. Pence,23.0,19.0,4.0,0.0
 Marion,7.0,President,,DEM,Joseph R. Biden Kamala D. Harris,107.0,82.0,25.0,0.0
@@ -697,7 +697,7 @@ Marion,7.0,"Trustee, Place V JISD",,,Kevin Godfrey,17.0,11.0,6.0,0.0
 Marion,7.0,"Trustee, Place V JISD",,,Tolesia Smith-Davis,94.0,75.0,19.0,0.0
 Marion,7.0,President,,,Over Votes,0.0,0.0,0.0,0.0
 Marion,7.0,President,,,Under Votes,0.0,0.0,0.0,0.0
-Marion,7.0,Registered Voters,,,,0.0,,
+Marion,7.0,Registered Voters,,,,0.0,,,
 Marion,7.0,Ballots Cast,,,,33.0,31.0,2.0,0.0
 Marion,7.0,President,,REP,Donald J. Trump Michael R. Pence,20.0,20.0,0.0,0.0
 Marion,7.0,President,,DEM,Joseph R. Biden Kamala D. Harris,12.0,10.0,2.0,0.0
@@ -768,7 +768,7 @@ Marion,7.0,"Trustee, Place V JISD",,,Kevin Godfrey,12.0,12.0,0.0,0.0
 Marion,7.0,"Trustee, Place V JISD",,,Tolesia Smith-Davis,9.0,7.0,2.0,0.0
 Marion,7.0,President,,,Over Votes,1.0,1.0,0.0,0.0
 Marion,7.0,President,,,Under Votes,1.0,1.0,0.0,0.0
-Marion,7.0,Registered Voters,,,,0.0,,
+Marion,7.0,Registered Voters,,,,0.0,,,
 Marion,7.0,Ballots Cast,,,,138.0,128.0,10.0,0.0
 Marion,7.0,President,,REP,Donald J. Trump Michael R. Pence,89.0,80.0,9.0,0.0
 Marion,7.0,President,,DEM,Joseph R. Biden Kamala D. Harris,47.0,46.0,1.0,0.0
@@ -838,7 +838,7 @@ Marion,7.0,"Trustee, Place V JISD",,,Kevin Godfrey,67.0,60.0,7.0,0.0
 Marion,7.0,"Trustee, Place V JISD",,,Tolesia Smith-Davis,40.0,37.0,3.0,0.0
 Marion,8.0,President,,,Over Votes,0.0,0.0,0.0,0.0
 Marion,8.0,President,,,Under Votes,0.0,0.0,0.0,0.0
-Marion,8.0,Registered Voters,,,,879.0,,
+Marion,8.0,Registered Voters,,,,879.0,,,
 Marion,8.0,Ballots Cast,,,,315.0,260.0,55.0,0.0
 Marion,8.0,President,,REP,Donald J. Trump Michael R. Pence,241.0,200.0,41.0,0.0
 Marion,8.0,President,,DEM,Joseph R. Biden Kamala D. Harris,73.0,60.0,13.0,0.0
@@ -899,7 +899,7 @@ Marion,8.0,"Trustee, Place V JISD",,,Kevin Godfrey,156.0,130.0,26.0,0.0
 Marion,8.0,"Trustee, Place V JISD",,,Tolesia Smith-Davis,69.0,57.0,12.0,0.0
 Marion,8.0,President,,,Over Votes,0.0,0.0,0.0,0.0
 Marion,8.0,President,,,Under Votes,0.0,0.0,0.0,0.0
-Marion,8.0,Registered Voters,,,,0.0,,
+Marion,8.0,Registered Voters,,,,0.0,,,
 Marion,8.0,Ballots Cast,,,,71.0,66.0,5.0,0.0
 Marion,8.0,President,,REP,Donald J. Trump Michael R. Pence,52.0,50.0,2.0,0.0
 Marion,8.0,President,,DEM,Joseph R. Biden Kamala D. Harris,18.0,15.0,3.0,0.0
@@ -964,7 +964,7 @@ Marion,8.0,"Trustee, Place V JISD",,,Kevin Godfrey,36.0,34.0,2.0,0.0
 Marion,8.0,"Trustee, Place V JISD",,,Tolesia Smith-Davis,20.0,17.0,3.0,0.0
 Marion,8.0,President,,,Over Votes,0.0,0.0,0.0,0.0
 Marion,8.0,President,,,Under Votes,3.0,1.0,2.0,0.0
-Marion,8.0,Registered Voters,,,,0.0,,
+Marion,8.0,Registered Voters,,,,0.0,,,
 Marion,8.0,Ballots Cast,,,,252.0,236.0,16.0,0.0
 Marion,8.0,President,,REP,Donald J. Trump Michael R. Pence,185.0,175.0,10.0,0.0
 Marion,8.0,President,,DEM,Joseph R. Biden Kamala D. Harris,60.0,57.0,3.0,0.0
@@ -1030,7 +1030,7 @@ Marion,8.0,"Trustee, Place V JISD",,,Kevin Godfrey,129.0,120.0,9.0,0.0
 Marion,8.0,"Trustee, Place V JISD",,,Tolesia Smith-Davis,68.0,64.0,4.0,0.0
 Marion,9.0,President,,,Over Votes,0.0,0.0,0.0,0.0
 Marion,9.0,President,,,Under Votes,5.0,2.0,3.0,0.0
-Marion,9.0,Registered Voters,,,,444.0,,
+Marion,9.0,Registered Voters,,,,444.0,,,
 Marion,9.0,Ballots Cast,,,,281.0,181.0,100.0,0.0
 Marion,9.0,President,,REP,Donald J. Trump Michael R. Pence,214.0,136.0,78.0,0.0
 Marion,9.0,President,,DEM,Joseph R. Biden Kamala D. Harris,59.0,42.0,17.0,0.0
@@ -1091,7 +1091,7 @@ Marion,9.0,"Trustee, Place V JISD",,,Kevin Godfrey,128.0,80.0,48.0,0.0
 Marion,9.0,"Trustee, Place V JISD",,,Tolesia Smith-Davis,50.0,30.0,20.0,0.0
 Marion,10.0,President,,,Over Votes,0.0,0.0,0.0,0.0
 Marion,10.0,President,,,Under Votes,0.0,0.0,0.0,0.0
-Marion,10.0,Registered Voters,,,,536.0,,
+Marion,10.0,Registered Voters,,,,536.0,,,
 Marion,10.0,Ballots Cast,,,,29.0,18.0,11.0,0.0
 Marion,10.0,President,,REP,Donald J. Trump Michael R. Pence,11.0,5.0,6.0,0.0
 Marion,10.0,President,,DEM,Joseph R. Biden Kamala D. Harris,18.0,13.0,5.0,0.0
@@ -1152,7 +1152,7 @@ Marion,10.0,"Trustee, Place V JISD",,,Kevin Godfrey,11.0,6.0,5.0,0.0
 Marion,10.0,"Trustee, Place V JISD",,,Tolesia Smith-Davis,11.0,7.0,4.0,0.0
 Marion,10.0,President,,,Over Votes,0.0,0.0,0.0,0.0
 Marion,10.0,President,,,Under Votes,1.0,1.0,0.0,0.0
-Marion,10.0,Registered Voters,,,,0.0,,
+Marion,10.0,Registered Voters,,,,0.0,,,
 Marion,10.0,Ballots Cast,,,,256.0,160.0,96.0,0.0
 Marion,10.0,President,,REP,Donald J. Trump Michael R. Pence,176.0,103.0,73.0,0.0
 Marion,10.0,President,,DEM,Joseph R. Biden Kamala D. Harris,74.0,52.0,22.0,0.0
