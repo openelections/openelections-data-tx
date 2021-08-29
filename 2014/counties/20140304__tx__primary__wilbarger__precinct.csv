@@ -1,7 +1,7 @@
 county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
 Wilbarger,Precinct 1,U.S. Senate,,REP,Over Votes,0,0,0,0
 Wilbarger,Precinct 1,U.S. Senate,,REP,Under Votes,5,2,3,0
-Wilbarger,Precinct 1,Registered Voters,,REP,,1308,,
+Wilbarger,Precinct 1,Registered Voters,,REP,,1308,,,
 Wilbarger,Precinct 1,Ballots Cast,,REP,,271,138,133,0
 Wilbarger,Precinct 1,U.S. Senate,,REP,Reid Reasor,9,6,3,0
 Wilbarger,Precinct 1,U.S. Senate,,REP,Over Votes,0,0,0,0
@@ -106,7 +106,7 @@ Wilbarger,Precinct 1,County Chairman,,REP,Over Votes,0,0,0,0
 Wilbarger,Precinct 1,County Chairman,,REP,Under Votes,17,12,5,0
 Wilbarger,Precinct 1,U.S. Senate,,DEM,Over Votes,0,0,0,0
 Wilbarger,Precinct 1,U.S. Senate,,DEM,Under Votes,63,27,36,0
-Wilbarger,Precinct 1,Registered Voters,,DEM,,1308,,
+Wilbarger,Precinct 1,Registered Voters,,DEM,,1308,,,
 Wilbarger,Precinct 1,Ballots Cast,,DEM,,271,138,133,0
 Wilbarger,Precinct 1,U.S. Senate,,DEM,Harry Kim,19,7,12,0
 Wilbarger,Precinct 1,U.S. Senate,,DEM,Over Votes,0,0,0,0
@@ -210,7 +210,7 @@ Wilbarger,Precinct 1,Proposition #4: On non-discrimination Legislation,,,Under V
 Wilbarger,Precinct 1,Proposition #4: On non-discrimination Legislation,,,No,49,22,27,0
 Wilbarger,Precinct 7,U.S. Senate,,REP,Over Votes,0,0,0,0
 Wilbarger,Precinct 7,U.S. Senate,,REP,Under Votes,7,2,5,0
-Wilbarger,Precinct 7,Registered Voters,,REP,,385,,
+Wilbarger,Precinct 7,Registered Voters,,REP,,385,,,
 Wilbarger,Precinct 7,Ballots Cast,,REP,,117,52,65,0
 Wilbarger,Precinct 7,U.S. Senate,,REP,Reid Reasor,2,1,1,0
 Wilbarger,Precinct 7,U.S. Senate,,REP,Over Votes,0,0,0,0
@@ -319,7 +319,7 @@ Wilbarger,Precinct 7,County Chairman,,REP,Over Votes,0,0,0,0
 Wilbarger,Precinct 7,County Chairman,,REP,Under Votes,16,5,11,0
 Wilbarger,Precinct 7,U.S. Senate,,DEM,Over Votes,0,0,0,0
 Wilbarger,Precinct 7,U.S. Senate,,DEM,Under Votes,11,5,6,0
-Wilbarger,Precinct 7,Registered Voters,,DEM,,385,,
+Wilbarger,Precinct 7,Registered Voters,,DEM,,385,,,
 Wilbarger,Precinct 7,Ballots Cast,,DEM,,117,52,65,0
 Wilbarger,Precinct 7,U.S. Senate,,DEM,Harry Kim,5,1,4,0
 Wilbarger,Precinct 7,U.S. Senate,,DEM,Over Votes,0,0,0,0
@@ -423,7 +423,7 @@ Wilbarger,Precinct 7,Proposition #4: On non-discrimination Legislation,,,Under V
 Wilbarger,Precinct 7,Proposition #4: On non-discrimination Legislation,,,No,10,3,7,0
 Wilbarger,Precinct 9,U.S. Senate,,REP,Over Votes,0,0,0,0
 Wilbarger,Precinct 9,U.S. Senate,,REP,Under Votes,5,2,3,0
-Wilbarger,Precinct 9,Registered Voters,,REP,,979,,
+Wilbarger,Precinct 9,Registered Voters,,REP,,979,,,
 Wilbarger,Precinct 9,Ballots Cast,,REP,,212,119,93,0
 Wilbarger,Precinct 9,U.S. Senate,,REP,Reid Reasor,3,1,2,0
 Wilbarger,Precinct 9,U.S. Senate,,REP,Over Votes,0,0,0,0
@@ -528,7 +528,7 @@ Wilbarger,Precinct 9,County Chairman,,REP,Over Votes,0,0,0,0
 Wilbarger,Precinct 9,County Chairman,,REP,Under Votes,11,4,7,0
 Wilbarger,Precinct 9,U.S. Senate,,DEM,Over Votes,0,0,0,0
 Wilbarger,Precinct 9,U.S. Senate,,DEM,Under Votes,36,24,12,0
-Wilbarger,Precinct 9,Registered Voters,,DEM,,979,,
+Wilbarger,Precinct 9,Registered Voters,,DEM,,979,,,
 Wilbarger,Precinct 9,Ballots Cast,,DEM,,212,119,93,0
 Wilbarger,Precinct 9,U.S. Senate,,DEM,Harry Kim,25,19,6,0
 Wilbarger,Precinct 9,U.S. Senate,,DEM,Over Votes,0,0,0,0
@@ -632,7 +632,7 @@ Wilbarger,Precinct 9,Proposition #4: On non-discrimination Legislation,,,Under V
 Wilbarger,Precinct 9,Proposition #4: On non-discrimination Legislation,,,No,43,26,17,0
 Wilbarger,Precinct 19,U.S. Senate,,REP,Over Votes,0,0,0,0
 Wilbarger,Precinct 19,U.S. Senate,,REP,Under Votes,9,3,6,0
-Wilbarger,Precinct 19,Registered Voters,,REP,,1836,,
+Wilbarger,Precinct 19,Registered Voters,,REP,,1836,,,
 Wilbarger,Precinct 19,Ballots Cast,,REP,,300,167,133,0
 Wilbarger,Precinct 19,U.S. Senate,,REP,Reid Reasor,6,2,4,0
 Wilbarger,Precinct 19,U.S. Senate,,REP,Over Votes,0,0,0,0
@@ -737,7 +737,7 @@ Wilbarger,Precinct 19,County Chairman,,REP,Over Votes,0,0,0,0
 Wilbarger,Precinct 19,County Chairman,,REP,Under Votes,19,11,8,0
 Wilbarger,Precinct 19,U.S. Senate,,DEM,Over Votes,0,0,0,0
 Wilbarger,Precinct 19,U.S. Senate,,DEM,Under Votes,73,45,28,0
-Wilbarger,Precinct 19,Registered Voters,,DEM,,1836,,
+Wilbarger,Precinct 19,Registered Voters,,DEM,,1836,,,
 Wilbarger,Precinct 19,Ballots Cast,,DEM,,300,167,133,0
 Wilbarger,Precinct 19,U.S. Senate,,DEM,Harry Kim,40,15,25,0
 Wilbarger,Precinct 19,U.S. Senate,,DEM,Over Votes,0,0,0,0
@@ -841,7 +841,7 @@ Wilbarger,Precinct 19,Proposition #4: On non-discrimination Legislation,,,Under 
 Wilbarger,Precinct 19,Proposition #4: On non-discrimination Legislation,,,No,41,18,23,0
 Wilbarger,Precinct 20,U.S. Senate,,REP,Over Votes,0,0,0,0
 Wilbarger,Precinct 20,U.S. Senate,,REP,Under Votes,5,3,2,0
-Wilbarger,Precinct 20,Registered Voters,,REP,,1536,,
+Wilbarger,Precinct 20,Registered Voters,,REP,,1536,,,
 Wilbarger,Precinct 20,Ballots Cast,,REP,,156,89,67,0
 Wilbarger,Precinct 20,U.S. Senate,,REP,Reid Reasor,2,1,1,0
 Wilbarger,Precinct 20,U.S. Senate,,REP,Over Votes,0,0,0,0
@@ -949,7 +949,7 @@ Wilbarger,Precinct 20,County Chairman,,REP,Over Votes,0,0,0,0
 Wilbarger,Precinct 20,County Chairman,,REP,Under Votes,16,9,7,0
 Wilbarger,Precinct 20,U.S. Senate,,DEM,Over Votes,0,0,0,0
 Wilbarger,Precinct 20,U.S. Senate,,DEM,Under Votes,25,13,12,0
-Wilbarger,Precinct 20,Registered Voters,,DEM,,1536,,
+Wilbarger,Precinct 20,Registered Voters,,DEM,,1536,,,
 Wilbarger,Precinct 20,Ballots Cast,,DEM,,156,89,67,0
 Wilbarger,Precinct 20,U.S. Senate,,DEM,Harry Kim,11,6,5,0
 Wilbarger,Precinct 20,U.S. Senate,,DEM,Over Votes,0,0,0,0
@@ -1053,7 +1053,7 @@ Wilbarger,Precinct 20,Proposition #4: On non-discrimination Legislation,,,Under 
 Wilbarger,Precinct 20,Proposition #4: On non-discrimination Legislation,,,No,24,14,10,0
 Wilbarger,Precinct 21,U.S. Senate,,REP,Over Votes,0,0,0,0
 Wilbarger,Precinct 21,U.S. Senate,,REP,Under Votes,35,20,15,0
-Wilbarger,Precinct 21,Registered Voters,,REP,,1757,,
+Wilbarger,Precinct 21,Registered Voters,,REP,,1757,,,
 Wilbarger,Precinct 21,Ballots Cast,,REP,,509,275,234,0
 Wilbarger,Precinct 21,U.S. Senate,,REP,Reid Reasor,16,11,5,0
 Wilbarger,Precinct 21,U.S. Senate,,REP,Over Votes,0,0,0,0
@@ -1162,7 +1162,7 @@ Wilbarger,Precinct 21,County Chairman,,REP,Over Votes,0,0,0,0
 Wilbarger,Precinct 21,County Chairman,,REP,Under Votes,42,30,12,0
 Wilbarger,Precinct 21,U.S. Senate,,DEM,Over Votes,0,0,0,0
 Wilbarger,Precinct 21,U.S. Senate,,DEM,Under Votes,81,51,30,0
-Wilbarger,Precinct 21,Registered Voters,,DEM,,1757,,
+Wilbarger,Precinct 21,Registered Voters,,DEM,,1757,,,
 Wilbarger,Precinct 21,Ballots Cast,,DEM,,509,275,234,0
 Wilbarger,Precinct 21,U.S. Senate,,DEM,Harry Kim,32,15,17,0
 Wilbarger,Precinct 21,U.S. Senate,,DEM,Over Votes,0,0,0,0
