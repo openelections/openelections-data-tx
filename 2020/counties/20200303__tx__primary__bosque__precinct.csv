@@ -15,26 +15,26 @@ Bosque,Precinct 1,President,,Amy Klobuchar,DEM,1,0,1,0,0
 Bosque,Precinct 2,President,,Amy Klobuchar,DEM,0,0,0,0,0
 Bosque,Precinct 3,President,,Amy Klobuchar,DEM,3,0,3,0,0
 Bosque,Precinct 4,President,,Amy Klobuchar,DEM,0,0,0,0,0
-Bosque,Precinct 5,President,,Amy Klobuchar,DEM,6,0,5,1,1
+Bosque,Precinct 5,President,,Amy Klobuchar,DEM,6,0,5,1,0
 Bosque,Precinct 6,President,,Amy Klobuchar,DEM,4,0,4,0,0
 Bosque,Precinct 7,President,,Amy Klobuchar,DEM,1,0,0,1,0
 Bosque,Precinct 8,President,,Amy Klobuchar,DEM,1,0,0,1,0
 Bosque,Precinct 9,President,,Amy Klobuchar,DEM,4,0,4,0,0
 Bosque,Precinct 10,President,,Amy Klobuchar,DEM,2,0,2,0,0
 Bosque,Precinct 11,President,,Amy Klobuchar,DEM,3,0,3,0,0
-Bosque,Total,President,,Amy Klobuchar,DEM,25,0,22,3,1
+Bosque,Total,President,,Amy Klobuchar,DEM,25,0,22,3,0
 Bosque,Precinct 1,President,,Bernie Sanders,DEM,3,2,0,1,0
 Bosque,Precinct 2,President,,Bernie Sanders,DEM,22,15,7,0,0
 Bosque,Precinct 3,President,,Bernie Sanders,DEM,10,5,5,0,0
 Bosque,Precinct 4,President,,Bernie Sanders,DEM,7,6,1,0,0
-Bosque,Precinct 5,President,,Bernie Sanders,DEM,27,15,7,5,5
+Bosque,Precinct 5,President,,Bernie Sanders,DEM,27,15,7,5,0
 Bosque,Precinct 6,President,,Bernie Sanders,DEM,24,15,4,5,0
 Bosque,Precinct 7,President,,Bernie Sanders,DEM,3,1,2,0,0
 Bosque,Precinct 8,President,,Bernie Sanders,DEM,33,21,6,6,0
 Bosque,Precinct 9,President,,Bernie Sanders,DEM,13,8,4,1,0
 Bosque,Precinct 10,President,,Bernie Sanders,DEM,21,15,4,2,0
 Bosque,Precinct 11,President,,Bernie Sanders,DEM,9,5,3,1,0
-Bosque,Total,President,,Bernie Sanders,DEM,172,108,43,21,5
+Bosque,Total,President,,Bernie Sanders,DEM,172,108,43,21,0
 Bosque,Precinct 1,President,,Robby Wells,DEM,0,0,0,0,0
 Bosque,Precinct 2,President,,Robby Wells,DEM,0,0,0,0,0
 Bosque,Precinct 3,President,,Robby Wells,DEM,0,0,0,0,0
@@ -135,7 +135,7 @@ Bosque,Precinct 1,President,,Elizabeth Warren,DEM,4,3,1,0,0
 Bosque,Precinct 2,President,,Elizabeth Warren,DEM,4,1,3,0,0
 Bosque,Precinct 3,President,,Elizabeth Warren,DEM,6,3,3,0,0
 Bosque,Precinct 4,President,,Elizabeth Warren,DEM,3,1,2,0,0
-Bosque,Precinct 5,President,,Elizabeth Warren,DEM,12,6,4,2,17
+Bosque,Precinct 5,President,,Elizabeth Warren,DEM,12,6,4,2,0
 Bosque,Precinct 6,President,,Elizabeth Warren,DEM,4,1,3,0,0
 Bosque,Precinct 7,President,,Elizabeth Warren,DEM,3,2,1,0,0
 Bosque,Precinct 8,President,,Elizabeth Warren,DEM,8,5,2,1,0
@@ -204,17 +204,17 @@ Bosque,Precinct 10,President,,Deval Patrick,DEM,0,0,0,0,0
 Bosque,Precinct 11,President,,Deval Patrick,DEM,0,0,0,0,0
 Bosque,Total,President,,Deval Patrick,DEM,0,0,0,0,0
 Bosque,Precinct 1,President,,Donald J. Trump,REP,230,169,57,4,0
-Bosque,Precinct 2,President,,Donald J. Trump,REP,267,176,75,15,1
-Bosque,Precinct 3,President,,Donald J. Trump,REP,380,167,192,19,2
-Bosque,Precinct 4,President,,Donald J. Trump,REP,197,98,96,2,1
+Bosque,Precinct 2,President,,Donald J. Trump,REP,267,176,75,15,0
+Bosque,Precinct 3,President,,Donald J. Trump,REP,380,167,192,19,0
+Bosque,Precinct 4,President,,Donald J. Trump,REP,197,98,96,2,0
 Bosque,Precinct 5,President,,Donald J. Trump,REP,428,245,160,23,0
-Bosque,Precinct 6,President,,Donald J. Trump,REP,384,258,107,17,2
+Bosque,Precinct 6,President,,Donald J. Trump,REP,384,258,107,17,0
 Bosque,Precinct 7,President,,Donald J. Trump,REP,238,140,85,13,0
 Bosque,Precinct 8,President,,Donald J. Trump,REP,718,407,265,46,0
 Bosque,Precinct 9,President,,Donald J. Trump,REP,288,159,105,24,0
 Bosque,Precinct 10,President,,Donald J. Trump,REP,312,255,49,8,0
 Bosque,Precinct 11,President,,Donald J. Trump,REP,211,135,63,13,0
-Bosque,Total,President,,Donald J. Trump,REP,3653,2209,1254,184,6
+Bosque,Total,President,,Donald J. Trump,REP,3653,2209,1254,184,0
 Bosque,Precinct 1,President,,Roque Rocky DeLa Fuente Guerra,REP,2,1,1,0,0
 Bosque,Precinct 2,President,,Roque Rocky DeLa Fuente Guerra,REP,0,0,0,0,0
 Bosque,Precinct 3,President,,Roque Rocky DeLa Fuente Guerra,REP,0,0,0,0,0
@@ -448,13 +448,13 @@ Bosque,Precinct 2,U.S. Senate,,Dwayne Stovall,REP,63,43,17,3,0
 Bosque,Precinct 3,U.S. Senate,,Dwayne Stovall,REP,82,38,41,3,0
 Bosque,Precinct 4,U.S. Senate,,Dwayne Stovall,REP,36,12,24,0,0
 Bosque,Precinct 5,U.S. Senate,,Dwayne Stovall,REP,86,49,31,6,0
-Bosque,Precinct 6,U.S. Senate,,Dwayne Stovall,REP,85,61,20,3,1
+Bosque,Precinct 6,U.S. Senate,,Dwayne Stovall,REP,85,61,20,3,0
 Bosque,Precinct 7,U.S. Senate,,Dwayne Stovall,REP,46,34,9,3,0
 Bosque,Precinct 8,U.S. Senate,,Dwayne Stovall,REP,137,86,46,5,0
 Bosque,Precinct 9,U.S. Senate,,Dwayne Stovall,REP,44,25,19,0,0
 Bosque,Precinct 10,U.S. Senate,,Dwayne Stovall,REP,66,48,15,3,0
 Bosque,Precinct 11,U.S. Senate,,Dwayne Stovall,REP,53,36,13,4,0
-Bosque,Total,U.S. Senate,,Dwayne Stovall,REP,733,459,243,30,1
+Bosque,Total,U.S. Senate,,Dwayne Stovall,REP,733,459,243,30,0
 Bosque,Precinct 1,U.S. Senate,,Mark Yancey,REP,8,5,2,1,0
 Bosque,Precinct 2,U.S. Senate,,Mark Yancey,REP,19,15,4,0,0
 Bosque,Precinct 3,U.S. Senate,,Mark Yancey,REP,23,11,11,1,0
@@ -472,17 +472,17 @@ Bosque,Precinct 2,U.S. Senate,,John Anthony Castro,REP,10,6,3,1,0
 Bosque,Precinct 3,U.S. Senate,,John Anthony Castro,REP,17,7,10,0,0
 Bosque,Precinct 4,U.S. Senate,,John Anthony Castro,REP,5,3,2,0,0
 Bosque,Precinct 5,U.S. Senate,,John Anthony Castro,REP,19,15,3,1,0
-Bosque,Precinct 6,U.S. Senate,,John Anthony Castro,REP,15,12,1,1,1
+Bosque,Precinct 6,U.S. Senate,,John Anthony Castro,REP,15,12,1,1,0
 Bosque,Precinct 7,U.S. Senate,,John Anthony Castro,REP,3,1,2,0,0
 Bosque,Precinct 8,U.S. Senate,,John Anthony Castro,REP,35,28,6,1,0
 Bosque,Precinct 9,U.S. Senate,,John Anthony Castro,REP,3,2,1,0,0
 Bosque,Precinct 10,U.S. Senate,,John Anthony Castro,REP,12,12,0,0,0
 Bosque,Precinct 11,U.S. Senate,,John Anthony Castro,REP,5,2,3,0,0
-Bosque,Total,U.S. Senate,,John Anthony Castro,REP,130,91,34,4,1
+Bosque,Total,U.S. Senate,,John Anthony Castro,REP,130,91,34,4,0
 Bosque,Precinct 1,U.S. Senate,,John Cornyn,REP,170,121,46,3,0
-Bosque,Precinct 2,U.S. Senate,,John Cornyn,REP,164,104,48,11,1
-Bosque,Precinct 3,U.S. Senate,,John Cornyn,REP,256,104,135,15,2
-Bosque,Precinct 4,U.S. Senate,,John Cornyn,REP,136,74,59,2,1
+Bosque,Precinct 2,U.S. Senate,,John Cornyn,REP,164,104,48,11,0
+Bosque,Precinct 3,U.S. Senate,,John Cornyn,REP,256,104,135,15,0
+Bosque,Precinct 4,U.S. Senate,,John Cornyn,REP,136,74,59,2,0
 Bosque,Precinct 5,U.S. Senate,,John Cornyn,REP,293,159,117,17,0
 Bosque,Precinct 6,U.S. Senate,,John Cornyn,REP,253,161,79,13,0
 Bosque,Precinct 7,U.S. Senate,,John Cornyn,REP,171,90,71,10,0
@@ -490,7 +490,7 @@ Bosque,Precinct 8,U.S. Senate,,John Cornyn,REP,495,262,192,41,0
 Bosque,Precinct 9,U.S. Senate,,John Cornyn,REP,223,118,79,26,0
 Bosque,Precinct 10,U.S. Senate,,John Cornyn,REP,234,196,33,5,0
 Bosque,Precinct 11,U.S. Senate,,John Cornyn,REP,135,87,38,10,0
-Bosque,Total,U.S. Senate,,John Cornyn,REP,2530,1476,897,153,4
+Bosque,Total,U.S. Senate,,John Cornyn,REP,2530,1476,897,153,0
 Bosque,Precinct 1,U.S. Senate,,Virgil Bierschwale,REP,1,1,0,0,0
 Bosque,Precinct 2,U.S. Senate,,Virgil Bierschwale,REP,0,0,0,0,0
 Bosque,Precinct 3,U.S. Senate,,Virgil Bierschwale,REP,8,5,2,1,0
@@ -528,17 +528,17 @@ Bosque,Precinct 10,U.S. House,25,Heidi Sloan,DEM,23,20,2,1,0
 Bosque,Precinct 11,U.S. House,25,Heidi Sloan,DEM,6,1,3,2,0
 Bosque,Total,U.S. House,25,Heidi Sloan,DEM,193,120,50,23,0
 Bosque,Precinct 1,U.S. House,25,Roger Williams,REP,194,139,51,4,0
-Bosque,Precinct 2,U.S. House,25,Roger Williams,REP,224,148,62,13,1
-Bosque,Precinct 3,U.S. House,25,Roger Williams,REP,340,146,174,18,2
-Bosque,Precinct 4,U.S. House,25,Roger Williams,REP,170,82,85,2,1
+Bosque,Precinct 2,U.S. House,25,Roger Williams,REP,224,148,62,13,0
+Bosque,Precinct 3,U.S. House,25,Roger Williams,REP,340,146,174,18,0
+Bosque,Precinct 4,U.S. House,25,Roger Williams,REP,170,82,85,2,0
 Bosque,Precinct 5,U.S. House,25,Roger Williams,REP,359,201,137,21,0
-Bosque,Precinct 6,U.S. House,25,Roger Williams,REP,324,216,89,17,2
+Bosque,Precinct 6,U.S. House,25,Roger Williams,REP,324,216,89,17,0
 Bosque,Precinct 7,U.S. House,25,Roger Williams,REP,201,114,75,12,0
 Bosque,Precinct 8,U.S. House,25,Roger Williams,REP,625,349,233,43,0
 Bosque,Precinct 9,U.S. House,25,Roger Williams,REP,266,147,95,24,0
 Bosque,Precinct 10,U.S. House,25,Roger Williams,REP,276,224,46,6,0
 Bosque,Precinct 11,U.S. House,25,Roger Williams,REP,175,112,50,13,0
-Bosque,Total,U.S. House,25,Roger Williams,REP,3154,1878,1097,173,6
+Bosque,Total,U.S. House,25,Roger Williams,REP,3154,1878,1097,173,0
 Bosque,Precinct 1,U.S. House,25,Keith Neuendorff,REP,15,12,3,0,0
 Bosque,Precinct 2,U.S. House,25,Keith Neuendorff,REP,27,20,7,0,0
 Bosque,Precinct 3,U.S. House,25,Keith Neuendorff,REP,32,13,18,1,0
@@ -601,18 +601,18 @@ Bosque,Precinct 11,Railroad Commissioner,,Kelly Stone,DEM,8,5,3,0,0
 Bosque,Total,Railroad Commissioner,,Kelly Stone,DEM,152,94,40,18,0
 Bosque,Precinct 1,Railroad Commissioner,,Ryan Sitton,REP,101,69,29,3,0
 Bosque,Precinct 2,Railroad Commissioner,,Ryan Sitton,REP,103,65,29,9,0
-Bosque,Precinct 3,Railroad Commissioner,,Ryan Sitton,REP,154,74,70,8,2
+Bosque,Precinct 3,Railroad Commissioner,,Ryan Sitton,REP,154,74,70,8,0
 Bosque,Precinct 4,Railroad Commissioner,,Ryan Sitton,REP,88,34,52,2,0
 Bosque,Precinct 5,Railroad Commissioner,,Ryan Sitton,REP,174,90,74,10,0
-Bosque,Precinct 6,Railroad Commissioner,,Ryan Sitton,REP,137,93,35,7,2
+Bosque,Precinct 6,Railroad Commissioner,,Ryan Sitton,REP,137,93,35,7,0
 Bosque,Precinct 7,Railroad Commissioner,,Ryan Sitton,REP,104,58,40,6,0
 Bosque,Precinct 8,Railroad Commissioner,,Ryan Sitton,REP,298,179,103,16,0
 Bosque,Precinct 9,Railroad Commissioner,,Ryan Sitton,REP,124,56,54,14,0
 Bosque,Precinct 10,Railroad Commissioner,,Ryan Sitton,REP,112,92,17,3,0
 Bosque,Precinct 11,Railroad Commissioner,,Ryan Sitton,REP,95,59,24,12,0
-Bosque,Total,Railroad Commissioner,,Ryan Sitton,REP,1490,869,527,90,4
+Bosque,Total,Railroad Commissioner,,Ryan Sitton,REP,1490,869,527,90,0
 Bosque,Precinct 1,Railroad Commissioner,,"James ""Jim"" Wright",REP,110,83,26,1,0
-Bosque,Precinct 2,Railroad Commissioner,,"James ""Jim"" Wright",REP,138,93,40,4,1
+Bosque,Precinct 2,Railroad Commissioner,,"James ""Jim"" Wright",REP,138,93,40,4,0
 Bosque,Precinct 3,Railroad Commissioner,,"James ""Jim"" Wright",REP,193,76,107,10,0
 Bosque,Precinct 4,Railroad Commissioner,,"James ""Jim"" Wright",REP,94,51,43,0,0
 Bosque,Precinct 5,Railroad Commissioner,,"James ""Jim"" Wright",REP,236,144,79,13,0
@@ -622,7 +622,7 @@ Bosque,Precinct 8,Railroad Commissioner,,"James ""Jim"" Wright",REP,361,199,139,
 Bosque,Precinct 9,Railroad Commissioner,,"James ""Jim"" Wright",REP,147,97,42,8,0
 Bosque,Precinct 10,Railroad Commissioner,,"James ""Jim"" Wright",REP,197,160,32,5,0
 Bosque,Precinct 11,Railroad Commissioner,,"James ""Jim"" Wright",REP,107,71,33,3,0
-Bosque,Total,Railroad Commissioner,,"James ""Jim"" Wright",REP,1916,1193,640,82,1
+Bosque,Total,Railroad Commissioner,,"James ""Jim"" Wright",REP,1916,1193,640,82,0
 Bosque,Precinct 1,State Senate,22,Robert Vick,DEM,22,16,3,3,0
 Bosque,Precinct 2,State Senate,22,Robert Vick,DEM,47,30,14,3,0
 Bosque,Precinct 3,State Senate,22,Robert Vick,DEM,32,16,16,0,0
@@ -636,17 +636,17 @@ Bosque,Precinct 10,State Senate,22,Robert Vick,DEM,58,45,7,6,0
 Bosque,Precinct 11,State Senate,22,Robert Vick,DEM,39,17,15,7,0
 Bosque,Total,State Senate,22,Robert Vick,DEM,562,321,154,87,0
 Bosque,Precinct 1,State Senate,22,Brian Birdwell,REP,197,140,53,4,0
-Bosque,Precinct 2,State Senate,22,Brian Birdwell,REP,234,153,70,10,1
-Bosque,Precinct 3,State Senate,22,Brian Birdwell,REP,344,151,173,18,2
-Bosque,Precinct 4,State Senate,22,Brian Birdwell,REP,179,89,87,2,1
+Bosque,Precinct 2,State Senate,22,Brian Birdwell,REP,234,153,70,10,0
+Bosque,Precinct 3,State Senate,22,Brian Birdwell,REP,344,151,173,18,0
+Bosque,Precinct 4,State Senate,22,Brian Birdwell,REP,179,89,87,2,0
 Bosque,Precinct 5,State Senate,22,Brian Birdwell,REP,400,227,151,22,0
-Bosque,Precinct 6,State Senate,22,Brian Birdwell,REP,354,239,99,14,2
+Bosque,Precinct 6,State Senate,22,Brian Birdwell,REP,354,239,99,14,0
 Bosque,Precinct 7,State Senate,22,Brian Birdwell,REP,211,124,74,13,0
 Bosque,Precinct 8,State Senate,22,Brian Birdwell,REP,663,375,245,43,0
 Bosque,Precinct 9,State Senate,22,Brian Birdwell,REP,267,146,96,25,0
 Bosque,Precinct 10,State Senate,22,Brian Birdwell,REP,298,242,48,8,0
 Bosque,Precinct 11,State Senate,22,Brian Birdwell,REP,196,127,56,13,0
-Bosque,Total,State Senate,22,Brian Birdwell,REP,3343,2013,1152,172,6
+Bosque,Total,State Senate,22,Brian Birdwell,REP,3343,2013,1152,172,0
 Bosque,Precinct 1,State Representative,58,Cindy Rocha,DEM,21,15,3,3,0
 Bosque,Precinct 2,State Representative,58,Cindy Rocha,DEM,45,28,14,3,0
 Bosque,Precinct 3,State Representative,58,Cindy Rocha,DEM,34,17,17,0,0
@@ -660,14 +660,14 @@ Bosque,Precinct 10,State Representative,58,Cindy Rocha,DEM,59,44,9,6,0
 Bosque,Precinct 11,State Representative,58,Cindy Rocha,DEM,37,17,14,6,0
 Bosque,Total,State Representative,58,Cindy Rocha,DEM,564,322,156,86,0
 Bosque,Precinct 1,State Representative,58,DeWayne Burns,REP,195,141,50,4,0
-Bosque,Precinct 2,State Representative,58,DeWayne Burns,REP,235,154,69,11,1
-Bosque,Precinct 3,State Representative,58,DeWayne Burns,REP,344,151,172,19,2
-Bosque,Precinct 4,State Representative,58,DeWayne Burns,REP,177,87,87,2,1
+Bosque,Precinct 2,State Representative,58,DeWayne Burns,REP,235,154,69,11,0
+Bosque,Precinct 3,State Representative,58,DeWayne Burns,REP,344,151,172,19,0
+Bosque,Precinct 4,State Representative,58,DeWayne Burns,REP,177,87,87,2,0
 Bosque,Precinct 5,State Representative,58,DeWayne Burns,REP,393,223,148,22,0
-Bosque,Precinct 6,State Representative,58,DeWayne Burns,REP,357,243,98,14,2
+Bosque,Precinct 6,State Representative,58,DeWayne Burns,REP,357,243,98,14,0
 Bosque,Precinct 7,State Representative,58,DeWayne Burns,REP,210,122,75,13,0
 Bosque,Precinct 8,State Representative,58,DeWayne Burns,REP,659,378,239,42,0
 Bosque,Precinct 9,State Representative,58,DeWayne Burns,REP,266,150,91,25,0
 Bosque,Precinct 10,State Representative,58,DeWayne Burns,REP,297,242,47,8,0
 Bosque,Precinct 11,State Representative,58,DeWayne Burns,REP,194,124,56,14,0
-Bosque,Total,State Representative,58,DeWayne Burns,REP,3327,2015,1132,174,6
+Bosque,Total,State Representative,58,DeWayne Burns,REP,3327,2015,1132,174,0
