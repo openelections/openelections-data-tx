@@ -53,8 +53,8 @@ Floyd,9,President,,Donald Trump,REP,45,22,67
 Floyd,18,President,,Donald Trump,REP,351,146,497
 Floyd,23,President,,Donald Trump,REP,136,60,196
 Floyd,24,President,,Donald Trump,REP,65,36,101
-Floyd,24B,President,,Donald Trump,REP,19,13,21
-Floyd,Total,President,,Donald Trump,REP,1069,405,1463
+Floyd,24B,President,,Donald Trump,REP,19,13,32
+Floyd,Total,President,,Donald Trump,REP,1069,405,1474
 Floyd,1,President,,Hillary Clinton,DEM,89,37,126
 Floyd,9,President,,Hillary Clinton,DEM,0,3,3
 Floyd,18,President,,Hillary Clinton,DEM,64,43,107
@@ -83,13 +83,13 @@ Floyd,23,President,,Over Votes,,0,0,0
 Floyd,24,President,,Over Votes,,0,0,0
 Floyd,24B,President,,Over Votes,,0,0,0
 Floyd,Total,President,,Over Votes,,0,0,0
-Floyd,1,President,,Under Votes,,12,8,18
+Floyd,1,President,,Under Votes,,12,6,18
 Floyd,9,President,,Under Votes,,0,0,0
 Floyd,18,President,,Under Votes,,9,7,16
 Floyd,23,President,,Under Votes,,6,4,10
 Floyd,24,President,,Under Votes,,0,0,0
 Floyd,24B,President,,Under Votes,,3,2,5
-Floyd,Total,President,,Under Votes,,30,21,49
+Floyd,Total,President,,Under Votes,,30,19,49
 Floyd,18,U.S. House,13,Mac Thornberry,REP,371,160,531
 Floyd,24,U.S. House,13,Mac Thornberry,REP,71,38,109
 Floyd,Total,U.S. House,13,Mac Thornberry,REP,442,198,640
@@ -112,14 +112,14 @@ Floyd,24B,U.S. House,19,Jodey Arrington,REP,24,20,44
 Floyd,Total,U.S. House,19,Jodey Arrington,REP,694,262,1041
 Floyd,1,U.S. House,19,Troy Bonar,LIB,13,8,21
 Floyd,9,U.S. House,19,Troy Bonar,LIB,0,1,1
-Floyd,23,U.S. House,19,Troy Bonar,LIB,9,7,0
+Floyd,23,U.S. House,19,Troy Bonar,LIB,9,7,16
 Floyd,24B,U.S. House,19,Troy Bonar,LIB,3,5,8
-Floyd,Total,U.S. House,19,Troy Bonar,LIB,25,21,30
+Floyd,Total,U.S. House,19,Troy Bonar,LIB,25,21,46
 Floyd,1,U.S. House,19,Mark Lawson,GRN,10,2,12
 Floyd,9,U.S. House,19,Mark Lawson,GRN,0,0,0
-Floyd,23,U.S. House,19,Mark Lawson,GRN,5,8,10
+Floyd,23,U.S. House,19,Mark Lawson,GRN,5,8,13
 Floyd,24B,U.S. House,19,Mark Lawson,GRN,1,2,3
-Floyd,Total,U.S. House,19,Mark Lawson,GRN,16,12,25
+Floyd,Total,U.S. House,19,Mark Lawson,GRN,16,12,28
 Floyd,1,U.S. House,19,Over Votes,,0,0,0
 Floyd,9,U.S. House,19,Over Votes,,0,0,0
 Floyd,23,U.S. House,19,Over Votes,,0,0,16
@@ -127,9 +127,9 @@ Floyd,24B,U.S. House,19,Over Votes,,0,0,0
 Floyd,Total,U.S. House,19,Over Votes,,0,0,16
 Floyd,1,U.S. House,19,Under Votes,,52,29,81
 Floyd,9,U.S. House,19,Under Votes,,3,3,6
-Floyd,23,U.S. House,19,Under Votes,,38,33,13
+Floyd,23,U.S. House,19,Under Votes,,38,33,71
 Floyd,24B,U.S. House,19,Under Votes,,14,17,31
-Floyd,Total,U.S. House,19,Under Votes,,107,82,131
+Floyd,Total,U.S. House,19,Under Votes,,107,82,189
 Floyd,1,Railroad Commissioner,,Wayne Christian,REP,423,114,537
 Floyd,9,Railroad Commissioner,,Wayne Christian,REP,41,16,57
 Floyd,18,Railroad Commissioner,,Wayne Christian,REP,346,135,481
