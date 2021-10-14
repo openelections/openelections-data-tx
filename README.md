@@ -10,7 +10,7 @@ Pre-processed election results for Texas. These CSV files are converted from [or
 
 | year  | general  | primary  |
 |---|---|---|
-| 2020  | N/A  | [working](https://github.com/openelections/openelections-data-tx/issues/286) |
+| 2020  | [done](https://github.com/openelections/openelections-data-tx/blob/master/2020/20201103__tx__general__precinct.csv)  | [done](https://github.com/openelections/openelections-data-tx/blob/master/2020/20200303__tx__primary__precinct.csv) |
 | 2018  | [done](https://github.com/openelections/openelections-data-tx/blob/master/2018/20181106__tx__general__precinct.csv) | [working](https://github.com/openelections/openelections-data-tx/issues/123)
 | 2016  | [done](https://github.com/openelections/openelections-data-tx/blob/master/2016/20161108__tx__general__precinct.csv) |  [working](https://github.com/openelections/openelections-data-tx/issues/12) |
 | 2014 |  [working](https://github.com/openelections/openelections-data-tx/issues/11) | [working](https://github.com/openelections/openelections-data-tx/issues/111)  |
