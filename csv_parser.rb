@@ -1,13 +1,13 @@
 require 'remote_table'
 require 'csv'
 
-county = 'Midland'
-county_abbrev = 'MIDLA'
-t = RemoteTable.new("/Users/dwillis/code/openelections-sources-tx/2020/general/MIDLAND_COUNTY-2020_NOVEMBER_3RD_GENERAL_ELECTION_1132020-20201103_Midland County_General Election_EXPORT.CSV", headers: false)
+county = 'Lampasas'
+county_abbrev = 'LAMPA'
+t = RemoteTable.new("/Users/dwillis/code/openelections-sources-tx/2020/general/LAMPASAS_COUNTY-2020_NOVEMBER_3RD_GENERAL_ELECTION_1132020-Official 20201103 General_EXPORT.CSV", headers: false)
 rows = t.entries
 
 results = []
-headers = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes', 'absentee', 'early_voting', 'election_day', 'provisional']
+headers = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes', 'absentee', 'early_voting', 'election_day']
 vote_methods = ['absentee', 'early_voting', 'election_day']
 raw_offices = rows.first[4..-1]
 raw_candidates = rows[2][4..-1]
@@ -41,9 +41,11 @@ office_lookup = {
   'United States Representative, District No. 10' => ['U.S. House', 10],
   'United States Representative, District No. 17' => ['U.S. House', 17],
   'U.S. Representative District 17' => ['U.S. House', 17],
+  'US Representative, Dist 19' => ['U.S. House', 19],
   'United States Representative, District No. 21' => ['U.S. House', 21],
   'United States Representative, District 24' => ['U.S. House', 24],
   'U. S. Congressional Dist 24' => ['U.S. House', 24],
+  'US Representative, Dist 25' => ['U.S. House', 25],
   'United States Representative, District 26' => ['U.S. House', 26],
   'U. S. Congressional Dist 26' => ['U.S. House', 26],
   'United States Representative, District No. 27' => ['U.S. House', 27],
@@ -60,13 +62,16 @@ office_lookup = {
   'State Senator, District 21' => ['State Senate', 21],
   'State Senator, District No. 21' => ['State Senate', 21],
   'State Senator, District No. 24' => ['State Senate', 24],
+  'State Senator, Dist 24' => ['State Senate', 24],
   'STATE SENATOR, DISTRICT 28' => ['State Senate', 28],
+  'State Senator, Dist 28' => ['State Senate', 28],
   'State Representative, District No. 3' => ['State Representative', 3],
   'State Representative District 12' => ['State Representative', 12],
   'State Representative, District No. 13' => ['State Representative', 13],
   'State Representative, District No. 30' => ['State Representative', 30],
   'State Representative, District No. 43' => ['State Representative', 43],
   'State Representative, District No. 53' => ['State Representative', 53],
+  'State Representative, Dist 54' => ['State Representative', 54],
   'State Representative, District No. 60' => ['State Representative', 60],
   'STATE REPRESENTATIVE DISTRICT 60' => ['State Representative', 60],
   'STATE REPRESENTATIVE, DISTRICT 61' => ['State Representative', 61],
@@ -74,7 +79,9 @@ office_lookup = {
   'State Representative, District 64' => ['State Representative', 64],
   'State Representative, District 65' => ['State Representative', 65],
   'State Representative, District No. 68' => ['State Representative', 68],
+  'State Representative, Dist 68' => ['State Representative', 68],
   'State Representative, District No. 69' => ['State Representative', 69],
+  'State Representative, Dist 69' => ['State Representative', 69],
   'STATE REPRESENTATIVE, DISTRICT 72' => ['State Representative', 72],
   'State Representative, District No. 80' => ['State Representative', 80],
   'State Representative, Dist 82' => ['State Representative', 82],
@@ -104,16 +111,16 @@ range = (0..raw_results.size-1)
 raw_results.each_with_index do |raw_result, idx|
   votes = raw_result[4..83]
   registered_voters = raw_result[3]
-  results << {'county': county, 'precinct': raw_result[2], 'office': 'Registered Voters', 'district': nil, 'party': nil, 'candidate': nil, 'absentee': nil, 'early_voting': nil, 'election_day': nil, 'provisional': nil, 'votes': registered_voters}
+  results << {'county': county, 'precinct': raw_result[2], 'office': 'Registered Voters', 'district': nil, 'party': nil, 'candidate': nil, 'absentee': nil, 'early_voting': nil, 'election_day': nil, 'votes': registered_voters}
 
-  if range.step(4).to_a.include?(idx)
+  if range.step(3).to_a.include?(idx)
     vote_type = :absentee
-  elsif range.step(4).to_a.map{|x| x+1}.include?(idx)
+  elsif range.step(3).to_a.map{|x| x+1}.include?(idx)
     vote_type = :early_voting
-  elsif range.step(4).to_a.map{|x| x+2}.include?(idx)
+  elsif range.step(3).to_a.map{|x| x+2}.include?(idx)
     vote_type = :election_day
-  else
-    vote_type = :provisional
+#  else
+#    vote_type = :provisional
   end
 
   combo.zip(votes).each do |office_candidate, c_votes|
@@ -148,8 +155,8 @@ CSV.open("20201103__tx__general__#{county.downcase.gsub(' ','_')}__precinct.csv"
   csv << headers
   results.uniq.each do |result|
     if not result.has_key?(:votes)
-      result[:votes] = result[:absentee].to_i + result[:early_voting].to_i + result[:election_day].to_i + result[:provisional].to_i
+      result[:votes] = result[:absentee].to_i + result[:early_voting].to_i + result[:election_day].to_i
     end
-    csv << [result[:county], result[:precinct], result[:office], result[:district], result[:party], result[:candidate], result[:votes], result[:absentee], result[:early_voting], result[:election_day], result[:provisional]]
+    csv << [result[:county], result[:precinct], result[:office], result[:district], result[:party], result[:candidate], result[:votes], result[:absentee], result[:early_voting], result[:election_day]]
   end
 end

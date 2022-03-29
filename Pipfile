@@ -11,13 +11,9 @@ bs4 = "*"
 pdfreader = "*"
 tabula-py = "*"
 pandas = "*"
-numpy = "*"
-clarify = "*"
-pypdf2 = "*"
-chardet = "*"
-camelot-py = {extras = ["cv"], version = "*"}
-xlrd = "*"
+xlrd = "==1.2.0"
 pyexcel-xlsx = "*"
+clarify = {editable = true, git = "https://github.com/openelections/clarify.git"}
 
 [requires]
 python_version = "3.8"
