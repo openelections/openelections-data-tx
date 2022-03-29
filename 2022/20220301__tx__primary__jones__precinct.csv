@@ -1,0 +1,832 @@
+county,precinct,office,district,party,candidate,votes
+Jones,PRECINCT 1,Ballots Cast,,,,320
+Jones,PRECINCT 2,Ballots Cast,,,,493
+Jones,PRECINCT 3,Ballots Cast,,,,563
+Jones,PRECINCT 4,Ballots Cast,,,,706
+Jones,PRECINCT 1,Ballots Cast,,REP,,265
+Jones,PRECINCT 2,Ballots Cast,,REP,,438
+Jones,PRECINCT 3,Ballots Cast,,REP,,536
+Jones,PRECINCT 4,Ballots Cast,,REP,,653
+Jones,PRECINCT 1,Ballots Cast,,DEM,,55
+Jones,PRECINCT 2,Ballots Cast,,DEM,,55
+Jones,PRECINCT 3,Ballots Cast,,DEM,,27
+Jones,PRECINCT 4,Ballots Cast,,DEM,,53
+Jones,PRECINCT 1,U.S. House,19,REP,Jodey C. Arrington,217
+Jones,PRECINCT 2,U.S. House,19,REP,Jodey C. Arrington,365
+Jones,PRECINCT 3,U.S. House,19,REP,Jodey C. Arrington,439
+Jones,PRECINCT 4,U.S. House,19,REP,Jodey C. Arrington,516
+Jones,PRECINCT 1,U.S. House,19,REP,OVER VOTES,0
+Jones,PRECINCT 2,U.S. House,19,REP,OVER VOTES,0
+Jones,PRECINCT 3,U.S. House,19,REP,OVER VOTES,0
+Jones,PRECINCT 4,U.S. House,19,REP,OVER VOTES,0
+Jones,PRECINCT 1,U.S. House,19,REP,UNDER VOTES,48
+Jones,PRECINCT 2,U.S. House,19,REP,UNDER VOTES,73
+Jones,PRECINCT 3,U.S. House,19,REP,UNDER VOTES,97
+Jones,PRECINCT 4,U.S. House,19,REP,UNDER VOTES,137
+Jones,PRECINCT 1,Governor,,REP,Allen B. West,20
+Jones,PRECINCT 2,Governor,,REP,Allen B. West,40
+Jones,PRECINCT 3,Governor,,REP,Allen B. West,47
+Jones,PRECINCT 4,Governor,,REP,Allen B. West,62
+Jones,PRECINCT 1,Governor,,REP,Don Huffines,19
+Jones,PRECINCT 2,Governor,,REP,Don Huffines,25
+Jones,PRECINCT 3,Governor,,REP,Don Huffines,60
+Jones,PRECINCT 4,Governor,,REP,Don Huffines,66
+Jones,PRECINCT 1,Governor,,REP,Danny Harrison,5
+Jones,PRECINCT 2,Governor,,REP,Danny Harrison,4
+Jones,PRECINCT 3,Governor,,REP,Danny Harrison,2
+Jones,PRECINCT 4,Governor,,REP,Danny Harrison,4
+Jones,PRECINCT 1,Governor,,REP,Chad Prather,19
+Jones,PRECINCT 2,Governor,,REP,Chad Prather,30
+Jones,PRECINCT 3,Governor,,REP,Chad Prather,46
+Jones,PRECINCT 4,Governor,,REP,Chad Prather,29
+Jones,PRECINCT 1,Governor,,REP,Paul Belew,0
+Jones,PRECINCT 2,Governor,,REP,Paul Belew,1
+Jones,PRECINCT 3,Governor,,REP,Paul Belew,0
+Jones,PRECINCT 4,Governor,,REP,Paul Belew,0
+Jones,PRECINCT 1,Governor,,REP,Rick Perry,10
+Jones,PRECINCT 2,Governor,,REP,Rick Perry,15
+Jones,PRECINCT 3,Governor,,REP,Rick Perry,6
+Jones,PRECINCT 4,Governor,,REP,Rick Perry,28
+Jones,PRECINCT 1,Governor,,REP,Kandy Kaye Horn,1
+Jones,PRECINCT 2,Governor,,REP,Kandy Kaye Horn,1
+Jones,PRECINCT 3,Governor,,REP,Kandy Kaye Horn,5
+Jones,PRECINCT 4,Governor,,REP,Kandy Kaye Horn,11
+Jones,PRECINCT 1,Governor,,REP,Greg Abbott,186
+Jones,PRECINCT 2,Governor,,REP,Greg Abbott,314
+Jones,PRECINCT 3,Governor,,REP,Greg Abbott,364
+Jones,PRECINCT 4,Governor,,REP,Greg Abbott,445
+Jones,PRECINCT 1,Governor,,REP,OVER VOTES,0
+Jones,PRECINCT 2,Governor,,REP,OVER VOTES,0
+Jones,PRECINCT 3,Governor,,REP,OVER VOTES,0
+Jones,PRECINCT 4,Governor,,REP,OVER VOTES,0
+Jones,PRECINCT 1,Governor,,REP,UNDER VOTES,5
+Jones,PRECINCT 2,Governor,,REP,UNDER VOTES,8
+Jones,PRECINCT 3,Governor,,REP,UNDER VOTES,6
+Jones,PRECINCT 4,Governor,,REP,UNDER VOTES,8
+Jones,PRECINCT 1,Lieutenant Governor,,REP,Dan Patrick,186
+Jones,PRECINCT 2,Lieutenant Governor,,REP,Dan Patrick,336
+Jones,PRECINCT 3,Lieutenant Governor,,REP,Dan Patrick,379
+Jones,PRECINCT 4,Lieutenant Governor,,REP,Dan Patrick,485
+Jones,PRECINCT 1,Lieutenant Governor,,REP,Aaron Sorrells,8
+Jones,PRECINCT 2,Lieutenant Governor,,REP,Aaron Sorrells,15
+Jones,PRECINCT 3,Lieutenant Governor,,REP,Aaron Sorrells,20
+Jones,PRECINCT 4,Lieutenant Governor,,REP,Aaron Sorrells,33
+Jones,PRECINCT 1,Lieutenant Governor,,REP,Todd M. Bullis,2
+Jones,PRECINCT 2,Lieutenant Governor,,REP,Todd M. Bullis,4
+Jones,PRECINCT 3,Lieutenant Governor,,REP,Todd M. Bullis,14
+Jones,PRECINCT 4,Lieutenant Governor,,REP,Todd M. Bullis,7
+Jones,PRECINCT 1,Lieutenant Governor,,REP,Daniel Miller,20
+Jones,PRECINCT 2,Lieutenant Governor,,REP,Daniel Miller,26
+Jones,PRECINCT 3,Lieutenant Governor,,REP,Daniel Miller,37
+Jones,PRECINCT 4,Lieutenant Governor,,REP,Daniel Miller,40
+Jones,PRECINCT 1,Lieutenant Governor,,REP,Zach Vance,4
+Jones,PRECINCT 2,Lieutenant Governor,,REP,Zach Vance,9
+Jones,PRECINCT 3,Lieutenant Governor,,REP,Zach Vance,8
+Jones,PRECINCT 4,Lieutenant Governor,,REP,Zach Vance,13
+Jones,PRECINCT 1,Lieutenant Governor,,REP,Trayce Bradford,14
+Jones,PRECINCT 2,Lieutenant Governor,,REP,Trayce Bradford,10
+Jones,PRECINCT 3,Lieutenant Governor,,REP,Trayce Bradford,33
+Jones,PRECINCT 4,Lieutenant Governor,,REP,Trayce Bradford,24
+Jones,PRECINCT 1,Lieutenant Governor,,REP,OVER VOTES,0
+Jones,PRECINCT 2,Lieutenant Governor,,REP,OVER VOTES,0
+Jones,PRECINCT 3,Lieutenant Governor,,REP,OVER VOTES,0
+Jones,PRECINCT 4,Lieutenant Governor,,REP,OVER VOTES,0
+Jones,PRECINCT 1,Lieutenant Governor,,REP,UNDER VOTES,31
+Jones,PRECINCT 2,Lieutenant Governor,,REP,UNDER VOTES,38
+Jones,PRECINCT 3,Lieutenant Governor,,REP,UNDER VOTES,45
+Jones,PRECINCT 4,Lieutenant Governor,,REP,UNDER VOTES,51
+Jones,PRECINCT 1,Attorney General,,REP,George P. Bush,67
+Jones,PRECINCT 2,Attorney General,,REP,George P. Bush,96
+Jones,PRECINCT 3,Attorney General,,REP,George P. Bush,88
+Jones,PRECINCT 4,Attorney General,,REP,George P. Bush,131
+Jones,PRECINCT 1,Attorney General,,REP,Eva Guzman,50
+Jones,PRECINCT 2,Attorney General,,REP,Eva Guzman,93
+Jones,PRECINCT 3,Attorney General,,REP,Eva Guzman,103
+Jones,PRECINCT 4,Attorney General,,REP,Eva Guzman,145
+Jones,PRECINCT 1,Attorney General,,REP,Ken Paxton,106
+Jones,PRECINCT 2,Attorney General,,REP,Ken Paxton,176
+Jones,PRECINCT 3,Attorney General,,REP,Ken Paxton,271
+Jones,PRECINCT 4,Attorney General,,REP,Ken Paxton,283
+Jones,PRECINCT 1,Attorney General,,REP,Louie Gohmert,26
+Jones,PRECINCT 2,Attorney General,,REP,Louie Gohmert,56
+Jones,PRECINCT 3,Attorney General,,REP,Louie Gohmert,47
+Jones,PRECINCT 4,Attorney General,,REP,Louie Gohmert,59
+Jones,PRECINCT 1,Attorney General,,REP,OVER VOTES,0
+Jones,PRECINCT 2,Attorney General,,REP,OVER VOTES,0
+Jones,PRECINCT 3,Attorney General,,REP,OVER VOTES,0
+Jones,PRECINCT 4,Attorney General,,REP,OVER VOTES,0
+Jones,PRECINCT 1,Attorney General,,REP,UNDER VOTES,16
+Jones,PRECINCT 2,Attorney General,,REP,UNDER VOTES,17
+Jones,PRECINCT 3,Attorney General,,REP,UNDER VOTES,27
+Jones,PRECINCT 4,Attorney General,,REP,UNDER VOTES,35
+Jones,PRECINCT 1,Comptroller of Public Accounts,,REP,Glenn Hegar,180
+Jones,PRECINCT 2,Comptroller of Public Accounts,,REP,Glenn Hegar,319
+Jones,PRECINCT 3,Comptroller of Public Accounts,,REP,Glenn Hegar,366
+Jones,PRECINCT 4,Comptroller of Public Accounts,,REP,Glenn Hegar,462
+Jones,PRECINCT 1,Comptroller of Public Accounts,,REP,Mark V. Goloby,27
+Jones,PRECINCT 2,Comptroller of Public Accounts,,REP,Mark V. Goloby,45
+Jones,PRECINCT 3,Comptroller of Public Accounts,,REP,Mark V. Goloby,64
+Jones,PRECINCT 4,Comptroller of Public Accounts,,REP,Mark V. Goloby,76
+Jones,PRECINCT 1,Comptroller of Public Accounts,,REP,OVER VOTES,0
+Jones,PRECINCT 2,Comptroller of Public Accounts,,REP,OVER VOTES,0
+Jones,PRECINCT 3,Comptroller of Public Accounts,,REP,OVER VOTES,0
+Jones,PRECINCT 4,Comptroller of Public Accounts,,REP,OVER VOTES,0
+Jones,PRECINCT 1,Comptroller of Public Accounts,,REP,UNDER VOTES,58
+Jones,PRECINCT 2,Comptroller of Public Accounts,,REP,UNDER VOTES,74
+Jones,PRECINCT 3,Comptroller of Public Accounts,,REP,UNDER VOTES,106
+Jones,PRECINCT 4,Comptroller of Public Accounts,,REP,UNDER VOTES,115
+Jones,PRECINCT 1,Commissioner of the General Land Office,,REP,Dawn Buckingham,115
+Jones,PRECINCT 2,Commissioner of the General Land Office,,REP,Dawn Buckingham,229
+Jones,PRECINCT 3,Commissioner of the General Land Office,,REP,Dawn Buckingham,263
+Jones,PRECINCT 4,Commissioner of the General Land Office,,REP,Dawn Buckingham,337
+Jones,PRECINCT 1,Commissioner of the General Land Office,,REP,Ben Armenta,6
+Jones,PRECINCT 2,Commissioner of the General Land Office,,REP,Ben Armenta,2
+Jones,PRECINCT 3,Commissioner of the General Land Office,,REP,Ben Armenta,11
+Jones,PRECINCT 4,Commissioner of the General Land Office,,REP,Ben Armenta,11
+Jones,PRECINCT 1,Commissioner of the General Land Office,,REP,Don W. Minton,8
+Jones,PRECINCT 2,Commissioner of the General Land Office,,REP,Don W. Minton,15
+Jones,PRECINCT 3,Commissioner of the General Land Office,,REP,Don W. Minton,17
+Jones,PRECINCT 4,Commissioner of the General Land Office,,REP,Don W. Minton,25
+Jones,PRECINCT 1,Commissioner of the General Land Office,,REP,Victor Avila,12
+Jones,PRECINCT 2,Commissioner of the General Land Office,,REP,Victor Avila,15
+Jones,PRECINCT 3,Commissioner of the General Land Office,,REP,Victor Avila,11
+Jones,PRECINCT 4,Commissioner of the General Land Office,,REP,Victor Avila,23
+Jones,PRECINCT 1,Commissioner of the General Land Office,,REP,Rufus Lopez,10
+Jones,PRECINCT 2,Commissioner of the General Land Office,,REP,Rufus Lopez,5
+Jones,PRECINCT 3,Commissioner of the General Land Office,,REP,Rufus Lopez,6
+Jones,PRECINCT 4,Commissioner of the General Land Office,,REP,Rufus Lopez,15
+Jones,PRECINCT 1,Commissioner of the General Land Office,,REP,Weston Martinez,11
+Jones,PRECINCT 2,Commissioner of the General Land Office,,REP,Weston Martinez,12
+Jones,PRECINCT 3,Commissioner of the General Land Office,,REP,Weston Martinez,15
+Jones,PRECINCT 4,Commissioner of the General Land Office,,REP,Weston Martinez,17
+Jones,PRECINCT 1,Commissioner of the General Land Office,,REP,Jon Spiers,19
+Jones,PRECINCT 2,Commissioner of the General Land Office,,REP,Jon Spiers,40
+Jones,PRECINCT 3,Commissioner of the General Land Office,,REP,Jon Spiers,53
+Jones,PRECINCT 4,Commissioner of the General Land Office,,REP,Jon Spiers,62
+Jones,PRECINCT 1,Commissioner of the General Land Office,,REP,Tim Westley,28
+Jones,PRECINCT 2,Commissioner of the General Land Office,,REP,Tim Westley,39
+Jones,PRECINCT 3,Commissioner of the General Land Office,,REP,Tim Westley,58
+Jones,PRECINCT 4,Commissioner of the General Land Office,,REP,Tim Westley,51
+Jones,PRECINCT 1,Commissioner of the General Land Office,,REP,OVER VOTES,0
+Jones,PRECINCT 2,Commissioner of the General Land Office,,REP,OVER VOTES,0
+Jones,PRECINCT 3,Commissioner of the General Land Office,,REP,OVER VOTES,0
+Jones,PRECINCT 4,Commissioner of the General Land Office,,REP,OVER VOTES,0
+Jones,PRECINCT 1,Commissioner of the General Land Office,,REP,UNDER VOTES,56
+Jones,PRECINCT 2,Commissioner of the General Land Office,,REP,UNDER VOTES,81
+Jones,PRECINCT 3,Commissioner of the General Land Office,,REP,UNDER VOTES,102
+Jones,PRECINCT 4,Commissioner of the General Land Office,,REP,UNDER VOTES,112
+Jones,PRECINCT 1,Commissioner of Agriculture,,REP,James White,75
+Jones,PRECINCT 2,Commissioner of Agriculture,,REP,James White,81
+Jones,PRECINCT 3,Commissioner of Agriculture,,REP,James White,121
+Jones,PRECINCT 4,Commissioner of Agriculture,,REP,James White,166
+Jones,PRECINCT 1,Commissioner of Agriculture,,REP,Carey A. Counsil,11
+Jones,PRECINCT 2,Commissioner of Agriculture,,REP,Carey A. Counsil,26
+Jones,PRECINCT 3,Commissioner of Agriculture,,REP,Carey A. Counsil,25
+Jones,PRECINCT 4,Commissioner of Agriculture,,REP,Carey A. Counsil,26
+Jones,PRECINCT 1,Commissioner of Agriculture,,REP,Sid Miller,136
+Jones,PRECINCT 2,Commissioner of Agriculture,,REP,Sid Miller,277
+Jones,PRECINCT 3,Commissioner of Agriculture,,REP,Sid Miller,313
+Jones,PRECINCT 4,Commissioner of Agriculture,,REP,Sid Miller,377
+Jones,PRECINCT 1,Commissioner of Agriculture,,REP,OVER VOTES,0
+Jones,PRECINCT 2,Commissioner of Agriculture,,REP,OVER VOTES,0
+Jones,PRECINCT 3,Commissioner of Agriculture,,REP,OVER VOTES,0
+Jones,PRECINCT 4,Commissioner of Agriculture,,REP,OVER VOTES,0
+Jones,PRECINCT 1,Commissioner of Agriculture,,REP,UNDER VOTES,43
+Jones,PRECINCT 2,Commissioner of Agriculture,,REP,UNDER VOTES,54
+Jones,PRECINCT 3,Commissioner of Agriculture,,REP,UNDER VOTES,77
+Jones,PRECINCT 4,Commissioner of Agriculture,,REP,UNDER VOTES,84
+Jones,PRECINCT 1,Railroad Commissioner,,REP,Wayne Christian,92
+Jones,PRECINCT 2,Railroad Commissioner,,REP,Wayne Christian,174
+Jones,PRECINCT 3,Railroad Commissioner,,REP,Wayne Christian,203
+Jones,PRECINCT 4,Railroad Commissioner,,REP,Wayne Christian,239
+Jones,PRECINCT 1,Railroad Commissioner,,REP,Tom Slocum Jr,23
+Jones,PRECINCT 2,Railroad Commissioner,,REP,Tom Slocum Jr,54
+Jones,PRECINCT 3,Railroad Commissioner,,REP,Tom Slocum Jr,50
+Jones,PRECINCT 4,Railroad Commissioner,,REP,Tom Slocum Jr,51
+Jones,PRECINCT 1,Railroad Commissioner,,REP,Sarah Stogner,29
+Jones,PRECINCT 2,Railroad Commissioner,,REP,Sarah Stogner,39
+Jones,PRECINCT 3,Railroad Commissioner,,REP,Sarah Stogner,44
+Jones,PRECINCT 4,Railroad Commissioner,,REP,Sarah Stogner,72
+Jones,PRECINCT 1,Railroad Commissioner,,REP,"Marvin ""Sarge"" Summers",24
+Jones,PRECINCT 2,Railroad Commissioner,,REP,"Marvin ""Sarge"" Summers",32
+Jones,PRECINCT 3,Railroad Commissioner,,REP,"Marvin ""Sarge"" Summers",49
+Jones,PRECINCT 4,Railroad Commissioner,,REP,"Marvin ""Sarge"" Summers",61
+Jones,PRECINCT 1,Railroad Commissioner,,REP,Dawayne Tipton,30
+Jones,PRECINCT 2,Railroad Commissioner,,REP,Dawayne Tipton,37
+Jones,PRECINCT 3,Railroad Commissioner,,REP,Dawayne Tipton,55
+Jones,PRECINCT 4,Railroad Commissioner,,REP,Dawayne Tipton,78
+Jones,PRECINCT 1,Railroad Commissioner,,REP,OVER VOTES,0
+Jones,PRECINCT 2,Railroad Commissioner,,REP,OVER VOTES,0
+Jones,PRECINCT 3,Railroad Commissioner,,REP,OVER VOTES,0
+Jones,PRECINCT 4,Railroad Commissioner,,REP,OVER VOTES,0
+Jones,PRECINCT 1,Railroad Commissioner,,REP,UNDER VOTES,67
+Jones,PRECINCT 2,Railroad Commissioner,,REP,UNDER VOTES,102
+Jones,PRECINCT 3,Railroad Commissioner,,REP,UNDER VOTES,135
+Jones,PRECINCT 4,Railroad Commissioner,,REP,UNDER VOTES,152
+Jones,PRECINCT 1,"Justice, Supreme Court, P3",,REP,Debra Lehrmann,192
+Jones,PRECINCT 2,"Justice, Supreme Court, P3",,REP,Debra Lehrmann,311
+Jones,PRECINCT 3,"Justice, Supreme Court, P3",,REP,Debra Lehrmann,371
+Jones,PRECINCT 4,"Justice, Supreme Court, P3",,REP,Debra Lehrmann,453
+Jones,PRECINCT 1,"Justice, Supreme Court, P3",,REP,OVER VOTES,0
+Jones,PRECINCT 2,"Justice, Supreme Court, P3",,REP,OVER VOTES,0
+Jones,PRECINCT 3,"Justice, Supreme Court, P3",,REP,OVER VOTES,0
+Jones,PRECINCT 4,"Justice, Supreme Court, P3",,REP,OVER VOTES,0
+Jones,PRECINCT 1,"Justice, Supreme Court, P3",,REP,UNDER VOTES,73
+Jones,PRECINCT 2,"Justice, Supreme Court, P3",,REP,UNDER VOTES,127
+Jones,PRECINCT 3,"Justice, Supreme Court, P3",,REP,UNDER VOTES,165
+Jones,PRECINCT 4,"Justice, Supreme Court, P3",,REP,UNDER VOTES,200
+Jones,PRECINCT 1,"Justice, Supreme Court, P5",,REP,Rebeca Huddle,192
+Jones,PRECINCT 2,"Justice, Supreme Court, P5",,REP,Rebeca Huddle,303
+Jones,PRECINCT 3,"Justice, Supreme Court, P5",,REP,Rebeca Huddle,369
+Jones,PRECINCT 4,"Justice, Supreme Court, P5",,REP,Rebeca Huddle,448
+Jones,PRECINCT 1,"Justice, Supreme Court, P5",,REP,OVER VOTES,0
+Jones,PRECINCT 2,"Justice, Supreme Court, P5",,REP,OVER VOTES,0
+Jones,PRECINCT 3,"Justice, Supreme Court, P5",,REP,OVER VOTES,0
+Jones,PRECINCT 4,"Justice, Supreme Court, P5",,REP,OVER VOTES,0
+Jones,PRECINCT 1,"Justice, Supreme Court, P5",,REP,UNDER VOTES,73
+Jones,PRECINCT 2,"Justice, Supreme Court, P5",,REP,UNDER VOTES,135
+Jones,PRECINCT 3,"Justice, Supreme Court, P5",,REP,UNDER VOTES,167
+Jones,PRECINCT 4,"Justice, Supreme Court, P5",,REP,UNDER VOTES,205
+Jones,PRECINCT 1,"Justice, Supreme Court, P9",,REP,David J. Schenck,89
+Jones,PRECINCT 2,"Justice, Supreme Court, P9",,REP,David J. Schenck,146
+Jones,PRECINCT 3,"Justice, Supreme Court, P9",,REP,David J. Schenck,157
+Jones,PRECINCT 4,"Justice, Supreme Court, P9",,REP,David J. Schenck,217
+Jones,PRECINCT 1,"Justice, Supreme Court, P9",,REP,Evan Young,101
+Jones,PRECINCT 2,"Justice, Supreme Court, P9",,REP,Evan Young,178
+Jones,PRECINCT 3,"Justice, Supreme Court, P9",,REP,Evan Young,223
+Jones,PRECINCT 4,"Justice, Supreme Court, P9",,REP,Evan Young,259
+Jones,PRECINCT 1,"Justice, Supreme Court, P9",,REP,OVER VOTES,0
+Jones,PRECINCT 2,"Justice, Supreme Court, P9",,REP,OVER VOTES,0
+Jones,PRECINCT 3,"Justice, Supreme Court, P9",,REP,OVER VOTES,0
+Jones,PRECINCT 4,"Justice, Supreme Court, P9",,REP,OVER VOTES,0
+Jones,PRECINCT 1,"Justice, Supreme Court, P9",,REP,UNDER VOTES,75
+Jones,PRECINCT 2,"Justice, Supreme Court, P9",,REP,UNDER VOTES,114
+Jones,PRECINCT 3,"Justice, Supreme Court, P9",,REP,UNDER VOTES,156
+Jones,PRECINCT 4,"Justice, Supreme Court, P9",,REP,UNDER VOTES,177
+Jones,PRECINCT 1,"Judge, Ct of Crim Appeals, P2",,REP,Mary Lou Keel,185
+Jones,PRECINCT 2,"Judge, Ct of Crim Appeals, P2",,REP,Mary Lou Keel,299
+Jones,PRECINCT 3,"Judge, Ct of Crim Appeals, P2",,REP,Mary Lou Keel,361
+Jones,PRECINCT 4,"Judge, Ct of Crim Appeals, P2",,REP,Mary Lou Keel,447
+Jones,PRECINCT 1,"Judge, Ct of Crim Appeals, P2",,REP,OVER VOTES,0
+Jones,PRECINCT 2,"Judge, Ct of Crim Appeals, P2",,REP,OVER VOTES,0
+Jones,PRECINCT 3,"Judge, Ct of Crim Appeals, P2",,REP,OVER VOTES,0
+Jones,PRECINCT 4,"Judge, Ct of Crim Appeals, P2",,REP,OVER VOTES,0
+Jones,PRECINCT 1,"Judge, Ct of Crim Appeals, P2",,REP,UNDER VOTES,80
+Jones,PRECINCT 2,"Judge, Ct of Crim Appeals, P2",,REP,UNDER VOTES,139
+Jones,PRECINCT 3,"Judge, Ct of Crim Appeals, P2",,REP,UNDER VOTES,175
+Jones,PRECINCT 4,"Judge, Ct of Crim Appeals, P2",,REP,UNDER VOTES,206
+Jones,PRECINCT 1,"Judge, Ct of Crim Appeals, P5",,REP,Scott Walker,137
+Jones,PRECINCT 2,"Judge, Ct of Crim Appeals, P5",,REP,Scott Walker,236
+Jones,PRECINCT 3,"Judge, Ct of Crim Appeals, P5",,REP,Scott Walker,239
+Jones,PRECINCT 4,"Judge, Ct of Crim Appeals, P5",,REP,Scott Walker,332
+Jones,PRECINCT 1,"Judge, Ct of Crim Appeals, P5",,REP,Clint Morgan,45
+Jones,PRECINCT 2,"Judge, Ct of Crim Appeals, P5",,REP,Clint Morgan,89
+Jones,PRECINCT 3,"Judge, Ct of Crim Appeals, P5",,REP,Clint Morgan,143
+Jones,PRECINCT 4,"Judge, Ct of Crim Appeals, P5",,REP,Clint Morgan,151
+Jones,PRECINCT 1,"Judge, Ct of Crim Appeals, P5",,REP,OVER VOTES,0
+Jones,PRECINCT 2,"Judge, Ct of Crim Appeals, P5",,REP,OVER VOTES,0
+Jones,PRECINCT 3,"Judge, Ct of Crim Appeals, P5",,REP,OVER VOTES,0
+Jones,PRECINCT 4,"Judge, Ct of Crim Appeals, P5",,REP,OVER VOTES,0
+Jones,PRECINCT 1,"Judge, Ct of Crim Appeals, P5",,REP,UNDER VOTES,83
+Jones,PRECINCT 2,"Judge, Ct of Crim Appeals, P5",,REP,UNDER VOTES,113
+Jones,PRECINCT 3,"Judge, Ct of Crim Appeals, P5",,REP,UNDER VOTES,154
+Jones,PRECINCT 4,"Judge, Ct of Crim Appeals, P5",,REP,UNDER VOTES,170
+Jones,PRECINCT 1,"Judge, Ct of Crim Appeals, P6",,REP,"Jesse F. McClure, III",176
+Jones,PRECINCT 2,"Judge, Ct of Crim Appeals, P6",,REP,"Jesse F. McClure, III",287
+Jones,PRECINCT 3,"Judge, Ct of Crim Appeals, P6",,REP,"Jesse F. McClure, III",361
+Jones,PRECINCT 4,"Judge, Ct of Crim Appeals, P6",,REP,"Jesse F. McClure, III",434
+Jones,PRECINCT 1,"Judge, Ct of Crim Appeals, P6",,REP,OVER VOTES,0
+Jones,PRECINCT 2,"Judge, Ct of Crim Appeals, P6",,REP,OVER VOTES,0
+Jones,PRECINCT 3,"Judge, Ct of Crim Appeals, P6",,REP,OVER VOTES,0
+Jones,PRECINCT 4,"Judge, Ct of Crim Appeals, P6",,REP,OVER VOTES,0
+Jones,PRECINCT 1,"Judge, Ct of Crim Appeals, P6",,REP,UNDER VOTES,89
+Jones,PRECINCT 2,"Judge, Ct of Crim Appeals, P6",,REP,UNDER VOTES,151
+Jones,PRECINCT 3,"Judge, Ct of Crim Appeals, P6",,REP,UNDER VOTES,175
+Jones,PRECINCT 4,"Judge, Ct of Crim Appeals, P6",,REP,UNDER VOTES,219
+Jones,PRECINCT 1,"Member, State BoE, Dist 15",,REP,Aaron Kinsey,93
+Jones,PRECINCT 2,"Member, State BoE, Dist 15",,REP,Aaron Kinsey,174
+Jones,PRECINCT 3,"Member, State BoE, Dist 15",,REP,Aaron Kinsey,202
+Jones,PRECINCT 4,"Member, State BoE, Dist 15",,REP,Aaron Kinsey,255
+Jones,PRECINCT 1,"Member, State BoE, Dist 15",,REP,Jay Johnson,89
+Jones,PRECINCT 2,"Member, State BoE, Dist 15",,REP,Jay Johnson,143
+Jones,PRECINCT 3,"Member, State BoE, Dist 15",,REP,Jay Johnson,177
+Jones,PRECINCT 4,"Member, State BoE, Dist 15",,REP,Jay Johnson,237
+Jones,PRECINCT 1,"Member, State BoE, Dist 15",,REP,OVER VOTES,0
+Jones,PRECINCT 2,"Member, State BoE, Dist 15",,REP,OVER VOTES,0
+Jones,PRECINCT 3,"Member, State BoE, Dist 15",,REP,OVER VOTES,0
+Jones,PRECINCT 4,"Member, State BoE, Dist 15",,REP,OVER VOTES,0
+Jones,PRECINCT 1,"Member, State BoE, Dist 15",,REP,UNDER VOTES,83
+Jones,PRECINCT 2,"Member, State BoE, Dist 15",,REP,UNDER VOTES,121
+Jones,PRECINCT 3,"Member, State BoE, Dist 15",,REP,UNDER VOTES,157
+Jones,PRECINCT 4,"Member, State BoE, Dist 15",,REP,UNDER VOTES,161
+Jones,PRECINCT 1,State Senate,28,REP,Charles Perry,198
+Jones,PRECINCT 2,State Senate,28,REP,Charles Perry,311
+Jones,PRECINCT 3,State Senate,28,REP,Charles Perry,385
+Jones,PRECINCT 4,State Senate,28,REP,Charles Perry,463
+Jones,PRECINCT 1,State Senate,28,REP,OVER VOTES,0
+Jones,PRECINCT 2,State Senate,28,REP,OVER VOTES,0
+Jones,PRECINCT 3,State Senate,28,REP,OVER VOTES,0
+Jones,PRECINCT 4,State Senate,28,REP,OVER VOTES,0
+Jones,PRECINCT 1,State Senate,28,REP,UNDER VOTES,67
+Jones,PRECINCT 2,State Senate,28,REP,UNDER VOTES,127
+Jones,PRECINCT 3,State Senate,28,REP,UNDER VOTES,151
+Jones,PRECINCT 4,State Senate,28,REP,UNDER VOTES,190
+Jones,PRECINCT 1,State Representative,71,REP,Stan Lambert,171
+Jones,PRECINCT 2,State Representative,71,REP,Stan Lambert,337
+Jones,PRECINCT 3,State Representative,71,REP,Stan Lambert,351
+Jones,PRECINCT 4,State Representative,71,REP,Stan Lambert,440
+Jones,PRECINCT 1,State Representative,71,REP,Samuel Weatherby,56
+Jones,PRECINCT 2,State Representative,71,REP,Samuel Weatherby,59
+Jones,PRECINCT 3,State Representative,71,REP,Samuel Weatherby,125
+Jones,PRECINCT 4,State Representative,71,REP,Samuel Weatherby,147
+Jones,PRECINCT 1,State Representative,71,REP,OVER VOTES,0
+Jones,PRECINCT 2,State Representative,71,REP,OVER VOTES,0
+Jones,PRECINCT 3,State Representative,71,REP,OVER VOTES,0
+Jones,PRECINCT 4,State Representative,71,REP,OVER VOTES,0
+Jones,PRECINCT 1,State Representative,71,REP,UNDER VOTES,38
+Jones,PRECINCT 2,State Representative,71,REP,UNDER VOTES,42
+Jones,PRECINCT 3,State Representative,71,REP,UNDER VOTES,60
+Jones,PRECINCT 4,State Representative,71,REP,UNDER VOTES,66
+Jones,PRECINCT 1,"Justice, 11th Ct of App Dist, Pl 3",,REP,W. Stacy Trotter,177
+Jones,PRECINCT 2,"Justice, 11th Ct of App Dist, Pl 3",,REP,W. Stacy Trotter,290
+Jones,PRECINCT 3,"Justice, 11th Ct of App Dist, Pl 3",,REP,W. Stacy Trotter,367
+Jones,PRECINCT 4,"Justice, 11th Ct of App Dist, Pl 3",,REP,W. Stacy Trotter,435
+Jones,PRECINCT 1,"Justice, 11th Ct of App Dist, Pl 3",,REP,OVER VOTES,0
+Jones,PRECINCT 2,"Justice, 11th Ct of App Dist, Pl 3",,REP,OVER VOTES,0
+Jones,PRECINCT 3,"Justice, 11th Ct of App Dist, Pl 3",,REP,OVER VOTES,0
+Jones,PRECINCT 4,"Justice, 11th Ct of App Dist, Pl 3",,REP,OVER VOTES,0
+Jones,PRECINCT 1,"Justice, 11th Ct of App Dist, Pl 3",,REP,UNDER VOTES,88
+Jones,PRECINCT 2,"Justice, 11th Ct of App Dist, Pl 3",,REP,UNDER VOTES,148
+Jones,PRECINCT 3,"Justice, 11th Ct of App Dist, Pl 3",,REP,UNDER VOTES,169
+Jones,PRECINCT 4,"Justice, 11th Ct of App Dist, Pl 3",,REP,UNDER VOTES,218
+Jones,PRECINCT 1,County Judge,,REP,Dale Spurgin,199
+Jones,PRECINCT 2,County Judge,,REP,Dale Spurgin,323
+Jones,PRECINCT 3,County Judge,,REP,Dale Spurgin,394
+Jones,PRECINCT 4,County Judge,,REP,Dale Spurgin,484
+Jones,PRECINCT 1,County Judge,,REP,OVER VOTES,0
+Jones,PRECINCT 2,County Judge,,REP,OVER VOTES,0
+Jones,PRECINCT 3,County Judge,,REP,OVER VOTES,0
+Jones,PRECINCT 4,County Judge,,REP,OVER VOTES,0
+Jones,PRECINCT 1,County Judge,,REP,UNDER VOTES,66
+Jones,PRECINCT 2,County Judge,,REP,UNDER VOTES,115
+Jones,PRECINCT 3,County Judge,,REP,UNDER VOTES,142
+Jones,PRECINCT 4,County Judge,,REP,UNDER VOTES,169
+Jones,PRECINCT 1,District Clerk,,REP,Lacey Hansen,206
+Jones,PRECINCT 2,District Clerk,,REP,Lacey Hansen,329
+Jones,PRECINCT 3,District Clerk,,REP,Lacey Hansen,378
+Jones,PRECINCT 4,District Clerk,,REP,Lacey Hansen,482
+Jones,PRECINCT 1,District Clerk,,REP,OVER VOTES,0
+Jones,PRECINCT 2,District Clerk,,REP,OVER VOTES,0
+Jones,PRECINCT 3,District Clerk,,REP,OVER VOTES,0
+Jones,PRECINCT 4,District Clerk,,REP,OVER VOTES,0
+Jones,PRECINCT 1,District Clerk,,REP,UNDER VOTES,59
+Jones,PRECINCT 2,District Clerk,,REP,UNDER VOTES,109
+Jones,PRECINCT 3,District Clerk,,REP,UNDER VOTES,158
+Jones,PRECINCT 4,District Clerk,,REP,UNDER VOTES,171
+Jones,PRECINCT 1,County Clerk,,REP,LeeAnn Jennings,221
+Jones,PRECINCT 2,County Clerk,,REP,LeeAnn Jennings,339
+Jones,PRECINCT 3,County Clerk,,REP,LeeAnn Jennings,392
+Jones,PRECINCT 4,County Clerk,,REP,LeeAnn Jennings,498
+Jones,PRECINCT 1,County Clerk,,REP,OVER VOTES,0
+Jones,PRECINCT 2,County Clerk,,REP,OVER VOTES,0
+Jones,PRECINCT 3,County Clerk,,REP,OVER VOTES,0
+Jones,PRECINCT 4,County Clerk,,REP,OVER VOTES,0
+Jones,PRECINCT 1,County Clerk,,REP,UNDER VOTES,44
+Jones,PRECINCT 2,County Clerk,,REP,UNDER VOTES,99
+Jones,PRECINCT 3,County Clerk,,REP,UNDER VOTES,144
+Jones,PRECINCT 4,County Clerk,,REP,UNDER VOTES,155
+Jones,PRECINCT 1,County Treasurer,,REP,Sandy Taber,197
+Jones,PRECINCT 2,County Treasurer,,REP,Sandy Taber,317
+Jones,PRECINCT 3,County Treasurer,,REP,Sandy Taber,368
+Jones,PRECINCT 4,County Treasurer,,REP,Sandy Taber,463
+Jones,PRECINCT 1,County Treasurer,,REP,OVER VOTES,0
+Jones,PRECINCT 2,County Treasurer,,REP,OVER VOTES,0
+Jones,PRECINCT 3,County Treasurer,,REP,OVER VOTES,0
+Jones,PRECINCT 4,County Treasurer,,REP,OVER VOTES,0
+Jones,PRECINCT 1,County Treasurer,,REP,UNDER VOTES,68
+Jones,PRECINCT 2,County Treasurer,,REP,UNDER VOTES,121
+Jones,PRECINCT 3,County Treasurer,,REP,UNDER VOTES,168
+Jones,PRECINCT 4,County Treasurer,,REP,UNDER VOTES,190
+Jones,PRECINCT 1,Justice of the Peace,,REP,Cheryl Guernsey,204
+Jones,PRECINCT 2,Justice of the Peace,,REP,Cheryl Guernsey,326
+Jones,PRECINCT 3,Justice of the Peace,,REP,Cheryl Guernsey,377
+Jones,PRECINCT 4,Justice of the Peace,,REP,Cheryl Guernsey,485
+Jones,PRECINCT 1,Justice of the Peace,,REP,OVER VOTES,0
+Jones,PRECINCT 2,Justice of the Peace,,REP,OVER VOTES,0
+Jones,PRECINCT 3,Justice of the Peace,,REP,OVER VOTES,0
+Jones,PRECINCT 4,Justice of the Peace,,REP,OVER VOTES,0
+Jones,PRECINCT 1,Justice of the Peace,,REP,UNDER VOTES,61
+Jones,PRECINCT 2,Justice of the Peace,,REP,UNDER VOTES,112
+Jones,PRECINCT 3,Justice of the Peace,,REP,UNDER VOTES,159
+Jones,PRECINCT 4,Justice of the Peace,,REP,UNDER VOTES,168
+Jones,PRECINCT 2,"County Commissioner, Precinct No. 2",,REP,Lonnie Vivian,327
+Jones,PRECINCT 2,"County Commissioner, Precinct No. 2",,REP,OVER VOTES,0
+Jones,PRECINCT 2,"County Commissioner, Precinct No. 2",,REP,UNDER VOTES,111
+Jones,PRECINCT 4,"County Commissioner, Precinct No. 4",,REP,Joel Spraberry,360
+Jones,PRECINCT 4,"County Commissioner, Precinct No. 4",,REP,Anthony Ramos,247
+Jones,PRECINCT 4,"County Commissioner, Precinct No. 4",,REP,OVER VOTES,0
+Jones,PRECINCT 4,"County Commissioner, Precinct No. 4",,REP,UNDER VOTES,46
+Jones,PRECINCT 1,County Chair,,REP,W. B. Harrison III,196
+Jones,PRECINCT 2,County Chair,,REP,W. B. Harrison III,329
+Jones,PRECINCT 3,County Chair,,REP,W. B. Harrison III,370
+Jones,PRECINCT 4,County Chair,,REP,W. B. Harrison III,456
+Jones,PRECINCT 1,County Chair,,REP,OVER VOTES,0
+Jones,PRECINCT 2,County Chair,,REP,OVER VOTES,0
+Jones,PRECINCT 3,County Chair,,REP,OVER VOTES,0
+Jones,PRECINCT 4,County Chair,,REP,OVER VOTES,0
+Jones,PRECINCT 1,County Chair,,REP,UNDER VOTES,69
+Jones,PRECINCT 2,County Chair,,REP,UNDER VOTES,109
+Jones,PRECINCT 3,County Chair,,REP,UNDER VOTES,166
+Jones,PRECINCT 4,County Chair,,REP,UNDER VOTES,197
+Jones,PRECINCT 1,Governor,,DEM,Joy Diaz,3
+Jones,PRECINCT 2,Governor,,DEM,Joy Diaz,3
+Jones,PRECINCT 3,Governor,,DEM,Joy Diaz,3
+Jones,PRECINCT 4,Governor,,DEM,Joy Diaz,1
+Jones,PRECINCT 1,Governor,,DEM,Inocencio (Inno) Barrientez,1
+Jones,PRECINCT 2,Governor,,DEM,Inocencio (Inno) Barrientez,1
+Jones,PRECINCT 3,Governor,,DEM,Inocencio (Inno) Barrientez,1
+Jones,PRECINCT 4,Governor,,DEM,Inocencio (Inno) Barrientez,1
+Jones,PRECINCT 1,Governor,,DEM,Beto O'Rourke,48
+Jones,PRECINCT 2,Governor,,DEM,Beto O'Rourke,48
+Jones,PRECINCT 3,Governor,,DEM,Beto O'Rourke,18
+Jones,PRECINCT 4,Governor,,DEM,Beto O'Rourke,46
+Jones,PRECINCT 1,Governor,,DEM,Michael Cooper,1
+Jones,PRECINCT 2,Governor,,DEM,Michael Cooper,2
+Jones,PRECINCT 3,Governor,,DEM,Michael Cooper,1
+Jones,PRECINCT 4,Governor,,DEM,Michael Cooper,2
+Jones,PRECINCT 1,Governor,,DEM,Rich Wakeland,1
+Jones,PRECINCT 2,Governor,,DEM,Rich Wakeland,0
+Jones,PRECINCT 3,Governor,,DEM,Rich Wakeland,1
+Jones,PRECINCT 4,Governor,,DEM,Rich Wakeland,2
+Jones,PRECINCT 1,Governor,,DEM,OVER VOTES,0
+Jones,PRECINCT 2,Governor,,DEM,OVER VOTES,0
+Jones,PRECINCT 3,Governor,,DEM,OVER VOTES,0
+Jones,PRECINCT 4,Governor,,DEM,OVER VOTES,0
+Jones,PRECINCT 1,Governor,,DEM,UNDER VOTES,1
+Jones,PRECINCT 2,Governor,,DEM,UNDER VOTES,1
+Jones,PRECINCT 3,Governor,,DEM,UNDER VOTES,3
+Jones,PRECINCT 4,Governor,,DEM,UNDER VOTES,1
+Jones,PRECINCT 1,Lieutenant Governor,,DEM,Michelle Beckley,13
+Jones,PRECINCT 2,Lieutenant Governor,,DEM,Michelle Beckley,12
+Jones,PRECINCT 3,Lieutenant Governor,,DEM,Michelle Beckley,9
+Jones,PRECINCT 4,Lieutenant Governor,,DEM,Michelle Beckley,17
+Jones,PRECINCT 1,Lieutenant Governor,,DEM,Carla Brailey,14
+Jones,PRECINCT 2,Lieutenant Governor,,DEM,Carla Brailey,13
+Jones,PRECINCT 3,Lieutenant Governor,,DEM,Carla Brailey,3
+Jones,PRECINCT 4,Lieutenant Governor,,DEM,Carla Brailey,10
+Jones,PRECINCT 1,Lieutenant Governor,,DEM,Mike Collier,22
+Jones,PRECINCT 2,Lieutenant Governor,,DEM,Mike Collier,24
+Jones,PRECINCT 3,Lieutenant Governor,,DEM,Mike Collier,12
+Jones,PRECINCT 4,Lieutenant Governor,,DEM,Mike Collier,23
+Jones,PRECINCT 1,Lieutenant Governor,,DEM,OVER VOTES,0
+Jones,PRECINCT 2,Lieutenant Governor,,DEM,OVER VOTES,0
+Jones,PRECINCT 3,Lieutenant Governor,,DEM,OVER VOTES,0
+Jones,PRECINCT 4,Lieutenant Governor,,DEM,OVER VOTES,0
+Jones,PRECINCT 1,Lieutenant Governor,,DEM,UNDER VOTES,6
+Jones,PRECINCT 2,Lieutenant Governor,,DEM,UNDER VOTES,6
+Jones,PRECINCT 3,Lieutenant Governor,,DEM,UNDER VOTES,3
+Jones,PRECINCT 4,Lieutenant Governor,,DEM,UNDER VOTES,3
+Jones,PRECINCT 1,Attorney General,,DEM,"S. ""TBONE"" Raynor",3
+Jones,PRECINCT 2,Attorney General,,DEM,"S. ""TBONE"" Raynor",10
+Jones,PRECINCT 3,Attorney General,,DEM,"S. ""TBONE"" Raynor",7
+Jones,PRECINCT 4,Attorney General,,DEM,"S. ""TBONE"" Raynor",2
+Jones,PRECINCT 1,Attorney General,,DEM,Joe Jaworski,12
+Jones,PRECINCT 2,Attorney General,,DEM,Joe Jaworski,8
+Jones,PRECINCT 3,Attorney General,,DEM,Joe Jaworski,8
+Jones,PRECINCT 4,Attorney General,,DEM,Joe Jaworski,16
+Jones,PRECINCT 1,Attorney General,,DEM,Rochelle Mercedes Garza,22
+Jones,PRECINCT 2,Attorney General,,DEM,Rochelle Mercedes Garza,17
+Jones,PRECINCT 3,Attorney General,,DEM,Rochelle Mercedes Garza,8
+Jones,PRECINCT 4,Attorney General,,DEM,Rochelle Mercedes Garza,18
+Jones,PRECINCT 1,Attorney General,,DEM,Mike Fields,9
+Jones,PRECINCT 2,Attorney General,,DEM,Mike Fields,10
+Jones,PRECINCT 3,Attorney General,,DEM,Mike Fields,0
+Jones,PRECINCT 4,Attorney General,,DEM,Mike Fields,5
+Jones,PRECINCT 1,Attorney General,,DEM,Lee Merritt,4
+Jones,PRECINCT 2,Attorney General,,DEM,Lee Merritt,5
+Jones,PRECINCT 3,Attorney General,,DEM,Lee Merritt,1
+Jones,PRECINCT 4,Attorney General,,DEM,Lee Merritt,9
+Jones,PRECINCT 1,Attorney General,,DEM,OVER VOTES,0
+Jones,PRECINCT 2,Attorney General,,DEM,OVER VOTES,0
+Jones,PRECINCT 3,Attorney General,,DEM,OVER VOTES,0
+Jones,PRECINCT 4,Attorney General,,DEM,OVER VOTES,0
+Jones,PRECINCT 1,Attorney General,,DEM,UNDER VOTES,5
+Jones,PRECINCT 2,Attorney General,,DEM,UNDER VOTES,5
+Jones,PRECINCT 3,Attorney General,,DEM,UNDER VOTES,3
+Jones,PRECINCT 4,Attorney General,,DEM,UNDER VOTES,3
+Jones,PRECINCT 1,Comptroller of Public Accounts,,DEM,Tim Mahoney,10
+Jones,PRECINCT 2,Comptroller of Public Accounts,,DEM,Tim Mahoney,20
+Jones,PRECINCT 3,Comptroller of Public Accounts,,DEM,Tim Mahoney,8
+Jones,PRECINCT 4,Comptroller of Public Accounts,,DEM,Tim Mahoney,18
+Jones,PRECINCT 1,Comptroller of Public Accounts,,DEM,Angel Luis Vega,21
+Jones,PRECINCT 2,Comptroller of Public Accounts,,DEM,Angel Luis Vega,12
+Jones,PRECINCT 3,Comptroller of Public Accounts,,DEM,Angel Luis Vega,4
+Jones,PRECINCT 4,Comptroller of Public Accounts,,DEM,Angel Luis Vega,17
+Jones,PRECINCT 1,Comptroller of Public Accounts,,DEM,Janet T. Dudding,19
+Jones,PRECINCT 2,Comptroller of Public Accounts,,DEM,Janet T. Dudding,15
+Jones,PRECINCT 3,Comptroller of Public Accounts,,DEM,Janet T. Dudding,11
+Jones,PRECINCT 4,Comptroller of Public Accounts,,DEM,Janet T. Dudding,14
+Jones,PRECINCT 1,Comptroller of Public Accounts,,DEM,OVER VOTES,0
+Jones,PRECINCT 2,Comptroller of Public Accounts,,DEM,OVER VOTES,0
+Jones,PRECINCT 3,Comptroller of Public Accounts,,DEM,OVER VOTES,0
+Jones,PRECINCT 4,Comptroller of Public Accounts,,DEM,OVER VOTES,0
+Jones,PRECINCT 1,Comptroller of Public Accounts,,DEM,UNDER VOTES,5
+Jones,PRECINCT 2,Comptroller of Public Accounts,,DEM,UNDER VOTES,8
+Jones,PRECINCT 3,Comptroller of Public Accounts,,DEM,UNDER VOTES,4
+Jones,PRECINCT 4,Comptroller of Public Accounts,,DEM,UNDER VOTES,4
+Jones,PRECINCT 1,Commissioner of the General Land Office,,DEM,Sandragrace Martinez,17
+Jones,PRECINCT 2,Commissioner of the General Land Office,,DEM,Sandragrace Martinez,14
+Jones,PRECINCT 3,Commissioner of the General Land Office,,DEM,Sandragrace Martinez,7
+Jones,PRECINCT 4,Commissioner of the General Land Office,,DEM,Sandragrace Martinez,19
+Jones,PRECINCT 1,Commissioner of the General Land Office,,DEM,Michael Lange,12
+Jones,PRECINCT 2,Commissioner of the General Land Office,,DEM,Michael Lange,12
+Jones,PRECINCT 3,Commissioner of the General Land Office,,DEM,Michael Lange,7
+Jones,PRECINCT 4,Commissioner of the General Land Office,,DEM,Michael Lange,10
+Jones,PRECINCT 1,Commissioner of the General Land Office,,DEM,Jinny Suh,5
+Jones,PRECINCT 2,Commissioner of the General Land Office,,DEM,Jinny Suh,8
+Jones,PRECINCT 3,Commissioner of the General Land Office,,DEM,Jinny Suh,5
+Jones,PRECINCT 4,Commissioner of the General Land Office,,DEM,Jinny Suh,6
+Jones,PRECINCT 1,Commissioner of the General Land Office,,DEM,Jay Kleberg,13
+Jones,PRECINCT 2,Commissioner of the General Land Office,,DEM,Jay Kleberg,14
+Jones,PRECINCT 3,Commissioner of the General Land Office,,DEM,Jay Kleberg,5
+Jones,PRECINCT 4,Commissioner of the General Land Office,,DEM,Jay Kleberg,14
+Jones,PRECINCT 1,Commissioner of the General Land Office,,DEM,OVER VOTES,0
+Jones,PRECINCT 2,Commissioner of the General Land Office,,DEM,OVER VOTES,0
+Jones,PRECINCT 3,Commissioner of the General Land Office,,DEM,OVER VOTES,0
+Jones,PRECINCT 4,Commissioner of the General Land Office,,DEM,OVER VOTES,0
+Jones,PRECINCT 1,Commissioner of the General Land Office,,DEM,UNDER VOTES,8
+Jones,PRECINCT 2,Commissioner of the General Land Office,,DEM,UNDER VOTES,7
+Jones,PRECINCT 3,Commissioner of the General Land Office,,DEM,UNDER VOTES,3
+Jones,PRECINCT 4,Commissioner of the General Land Office,,DEM,UNDER VOTES,4
+Jones,PRECINCT 1,Commissioner of Agriculture,,DEM,Susan Hays,37
+Jones,PRECINCT 2,Commissioner of Agriculture,,DEM,Susan Hays,43
+Jones,PRECINCT 3,Commissioner of Agriculture,,DEM,Susan Hays,24
+Jones,PRECINCT 4,Commissioner of Agriculture,,DEM,Susan Hays,40
+Jones,PRECINCT 1,Commissioner of Agriculture,,DEM,Ed Ireson,13
+Jones,PRECINCT 2,Commissioner of Agriculture,,DEM,Ed Ireson,7
+Jones,PRECINCT 3,Commissioner of Agriculture,,DEM,Ed Ireson,2
+Jones,PRECINCT 4,Commissioner of Agriculture,,DEM,Ed Ireson,8
+Jones,PRECINCT 1,Commissioner of Agriculture,,DEM,OVER VOTES,0
+Jones,PRECINCT 2,Commissioner of Agriculture,,DEM,OVER VOTES,0
+Jones,PRECINCT 3,Commissioner of Agriculture,,DEM,OVER VOTES,0
+Jones,PRECINCT 4,Commissioner of Agriculture,,DEM,OVER VOTES,0
+Jones,PRECINCT 1,Commissioner of Agriculture,,DEM,UNDER VOTES,5
+Jones,PRECINCT 2,Commissioner of Agriculture,,DEM,UNDER VOTES,5
+Jones,PRECINCT 3,Commissioner of Agriculture,,DEM,UNDER VOTES,1
+Jones,PRECINCT 4,Commissioner of Agriculture,,DEM,UNDER VOTES,5
+Jones,PRECINCT 1,Railroad Commissioner,,DEM,Luke Warford,44
+Jones,PRECINCT 2,Railroad Commissioner,,DEM,Luke Warford,48
+Jones,PRECINCT 3,Railroad Commissioner,,DEM,Luke Warford,27
+Jones,PRECINCT 4,Railroad Commissioner,,DEM,Luke Warford,43
+Jones,PRECINCT 1,Railroad Commissioner,,DEM,OVER VOTES,0
+Jones,PRECINCT 2,Railroad Commissioner,,DEM,OVER VOTES,0
+Jones,PRECINCT 3,Railroad Commissioner,,DEM,OVER VOTES,0
+Jones,PRECINCT 4,Railroad Commissioner,,DEM,OVER VOTES,0
+Jones,PRECINCT 1,Railroad Commissioner,,DEM,UNDER VOTES,11
+Jones,PRECINCT 2,Railroad Commissioner,,DEM,UNDER VOTES,7
+Jones,PRECINCT 3,Railroad Commissioner,,DEM,UNDER VOTES,0
+Jones,PRECINCT 4,Railroad Commissioner,,DEM,UNDER VOTES,10
+Jones,PRECINCT 1,"Justice, Supreme Court, P3",,DEM,Erin A Nowell,39
+Jones,PRECINCT 2,"Justice, Supreme Court, P3",,DEM,Erin A Nowell,45
+Jones,PRECINCT 3,"Justice, Supreme Court, P3",,DEM,Erin A Nowell,26
+Jones,PRECINCT 4,"Justice, Supreme Court, P3",,DEM,Erin A Nowell,39
+Jones,PRECINCT 1,"Justice, Supreme Court, P3",,DEM,OVER VOTES,0
+Jones,PRECINCT 2,"Justice, Supreme Court, P3",,DEM,OVER VOTES,0
+Jones,PRECINCT 3,"Justice, Supreme Court, P3",,DEM,OVER VOTES,0
+Jones,PRECINCT 4,"Justice, Supreme Court, P3",,DEM,OVER VOTES,0
+Jones,PRECINCT 1,"Justice, Supreme Court, P3",,DEM,UNDER VOTES,16
+Jones,PRECINCT 2,"Justice, Supreme Court, P3",,DEM,UNDER VOTES,10
+Jones,PRECINCT 3,"Justice, Supreme Court, P3",,DEM,UNDER VOTES,1
+Jones,PRECINCT 4,"Justice, Supreme Court, P3",,DEM,UNDER VOTES,14
+Jones,PRECINCT 1,"Justice, Supreme Court, P5",,DEM,Amanda Reichek,40
+Jones,PRECINCT 2,"Justice, Supreme Court, P5",,DEM,Amanda Reichek,44
+Jones,PRECINCT 3,"Justice, Supreme Court, P5",,DEM,Amanda Reichek,25
+Jones,PRECINCT 4,"Justice, Supreme Court, P5",,DEM,Amanda Reichek,41
+Jones,PRECINCT 1,"Justice, Supreme Court, P5",,DEM,OVER VOTES,0
+Jones,PRECINCT 2,"Justice, Supreme Court, P5",,DEM,OVER VOTES,0
+Jones,PRECINCT 3,"Justice, Supreme Court, P5",,DEM,OVER VOTES,0
+Jones,PRECINCT 4,"Justice, Supreme Court, P5",,DEM,OVER VOTES,0
+Jones,PRECINCT 1,"Justice, Supreme Court, P5",,DEM,UNDER VOTES,15
+Jones,PRECINCT 2,"Justice, Supreme Court, P5",,DEM,UNDER VOTES,11
+Jones,PRECINCT 3,"Justice, Supreme Court, P5",,DEM,UNDER VOTES,2
+Jones,PRECINCT 4,"Justice, Supreme Court, P5",,DEM,UNDER VOTES,12
+Jones,PRECINCT 1,"Justice, Supreme Court, P9",,DEM,Julia Maldonado,44
+Jones,PRECINCT 2,"Justice, Supreme Court, P9",,DEM,Julia Maldonado,45
+Jones,PRECINCT 3,"Justice, Supreme Court, P9",,DEM,Julia Maldonado,25
+Jones,PRECINCT 4,"Justice, Supreme Court, P9",,DEM,Julia Maldonado,39
+Jones,PRECINCT 1,"Justice, Supreme Court, P9",,DEM,OVER VOTES,0
+Jones,PRECINCT 2,"Justice, Supreme Court, P9",,DEM,OVER VOTES,0
+Jones,PRECINCT 3,"Justice, Supreme Court, P9",,DEM,OVER VOTES,0
+Jones,PRECINCT 4,"Justice, Supreme Court, P9",,DEM,OVER VOTES,0
+Jones,PRECINCT 1,"Justice, Supreme Court, P9",,DEM,UNDER VOTES,11
+Jones,PRECINCT 2,"Justice, Supreme Court, P9",,DEM,UNDER VOTES,10
+Jones,PRECINCT 3,"Justice, Supreme Court, P9",,DEM,UNDER VOTES,2
+Jones,PRECINCT 4,"Justice, Supreme Court, P9",,DEM,UNDER VOTES,14
+Jones,PRECINCT 1,"Judge, Ct of Crim Appeals, P5",,DEM,Dana Huffman,40
+Jones,PRECINCT 2,"Judge, Ct of Crim Appeals, P5",,DEM,Dana Huffman,45
+Jones,PRECINCT 3,"Judge, Ct of Crim Appeals, P5",,DEM,Dana Huffman,26
+Jones,PRECINCT 4,"Judge, Ct of Crim Appeals, P5",,DEM,Dana Huffman,40
+Jones,PRECINCT 1,"Judge, Ct of Crim Appeals, P5",,DEM,OVER VOTES,0
+Jones,PRECINCT 2,"Judge, Ct of Crim Appeals, P5",,DEM,OVER VOTES,0
+Jones,PRECINCT 3,"Judge, Ct of Crim Appeals, P5",,DEM,OVER VOTES,0
+Jones,PRECINCT 4,"Judge, Ct of Crim Appeals, P5",,DEM,OVER VOTES,0
+Jones,PRECINCT 1,"Judge, Ct of Crim Appeals, P5",,DEM,UNDER VOTES,15
+Jones,PRECINCT 2,"Judge, Ct of Crim Appeals, P5",,DEM,UNDER VOTES,10
+Jones,PRECINCT 3,"Judge, Ct of Crim Appeals, P5",,DEM,UNDER VOTES,1
+Jones,PRECINCT 4,"Judge, Ct of Crim Appeals, P5",,DEM,UNDER VOTES,13
+Jones,PRECINCT 1,"Judge, Ct of Crim Appeals, P6",,DEM,Robert  Johnson,42
+Jones,PRECINCT 2,"Judge, Ct of Crim Appeals, P6",,DEM,Robert  Johnson,45
+Jones,PRECINCT 3,"Judge, Ct of Crim Appeals, P6",,DEM,Robert  Johnson,26
+Jones,PRECINCT 4,"Judge, Ct of Crim Appeals, P6",,DEM,Robert  Johnson,41
+Jones,PRECINCT 1,"Judge, Ct of Crim Appeals, P6",,DEM,OVER VOTES,0
+Jones,PRECINCT 2,"Judge, Ct of Crim Appeals, P6",,DEM,OVER VOTES,0
+Jones,PRECINCT 3,"Judge, Ct of Crim Appeals, P6",,DEM,OVER VOTES,0
+Jones,PRECINCT 4,"Judge, Ct of Crim Appeals, P6",,DEM,OVER VOTES,0
+Jones,PRECINCT 1,"Judge, Ct of Crim Appeals, P6",,DEM,UNDER VOTES,13
+Jones,PRECINCT 2,"Judge, Ct of Crim Appeals, P6",,DEM,UNDER VOTES,10
+Jones,PRECINCT 3,"Judge, Ct of Crim Appeals, P6",,DEM,UNDER VOTES,1
+Jones,PRECINCT 4,"Judge, Ct of Crim Appeals, P6",,DEM,UNDER VOTES,12
+Jones,PRECINCT 1,State Representative,71,DEM,Linda Goolsbee,44
+Jones,PRECINCT 2,State Representative,71,DEM,Linda Goolsbee,42
+Jones,PRECINCT 3,State Representative,71,DEM,Linda Goolsbee,25
+Jones,PRECINCT 4,State Representative,71,DEM,Linda Goolsbee,41
+Jones,PRECINCT 1,State Representative,71,DEM,OVER VOTES,0
+Jones,PRECINCT 2,State Representative,71,DEM,OVER VOTES,0
+Jones,PRECINCT 3,State Representative,71,DEM,OVER VOTES,0
+Jones,PRECINCT 4,State Representative,71,DEM,OVER VOTES,0
+Jones,PRECINCT 1,State Representative,71,DEM,UNDER VOTES,11
+Jones,PRECINCT 2,State Representative,71,DEM,UNDER VOTES,13
+Jones,PRECINCT 3,State Representative,71,DEM,UNDER VOTES,2
+Jones,PRECINCT 4,State Representative,71,DEM,UNDER VOTES,12
+Jones,PRECINCT 1,"District Judge, 259th Judicial Dist",,DEM,Brooks Hagler,48
+Jones,PRECINCT 2,"District Judge, 259th Judicial Dist",,DEM,Brooks Hagler,47
+Jones,PRECINCT 3,"District Judge, 259th Judicial Dist",,DEM,Brooks Hagler,27
+Jones,PRECINCT 4,"District Judge, 259th Judicial Dist",,DEM,Brooks Hagler,48
+Jones,PRECINCT 1,"District Judge, 259th Judicial Dist",,DEM,OVER VOTES,0
+Jones,PRECINCT 2,"District Judge, 259th Judicial Dist",,DEM,OVER VOTES,0
+Jones,PRECINCT 3,"District Judge, 259th Judicial Dist",,DEM,OVER VOTES,0
+Jones,PRECINCT 4,"District Judge, 259th Judicial Dist",,DEM,OVER VOTES,0
+Jones,PRECINCT 1,"District Judge, 259th Judicial Dist",,DEM,UNDER VOTES,7
+Jones,PRECINCT 2,"District Judge, 259th Judicial Dist",,DEM,UNDER VOTES,8
+Jones,PRECINCT 3,"District Judge, 259th Judicial Dist",,DEM,UNDER VOTES,0
+Jones,PRECINCT 4,"District Judge, 259th Judicial Dist",,DEM,UNDER VOTES,5
+Jones,PRECINCT 1,Proposition 1,,REP,YES,252
+Jones,PRECINCT 2,Proposition 1,,REP,YES,412
+Jones,PRECINCT 3,Proposition 1,,REP,YES,514
+Jones,PRECINCT 4,Proposition 1,,REP,YES,612
+Jones,PRECINCT 1,Proposition 1,,REP,NO,4
+Jones,PRECINCT 2,Proposition 1,,REP,NO,20
+Jones,PRECINCT 3,Proposition 1,,REP,NO,16
+Jones,PRECINCT 4,Proposition 1,,REP,NO,29
+Jones,PRECINCT 1,Proposition 1,,REP,OVER VOTES,0
+Jones,PRECINCT 2,Proposition 1,,REP,OVER VOTES,0
+Jones,PRECINCT 3,Proposition 1,,REP,OVER VOTES,0
+Jones,PRECINCT 4,Proposition 1,,REP,OVER VOTES,0
+Jones,PRECINCT 1,Proposition 1,,REP,UNDER VOTES,9
+Jones,PRECINCT 2,Proposition 1,,REP,UNDER VOTES,6
+Jones,PRECINCT 3,Proposition 1,,REP,UNDER VOTES,6
+Jones,PRECINCT 4,Proposition 1,,REP,UNDER VOTES,12
+Jones,PRECINCT 1,Proposition 2,,REP,YES,188
+Jones,PRECINCT 2,Proposition 2,,REP,YES,307
+Jones,PRECINCT 3,Proposition 2,,REP,YES,425
+Jones,PRECINCT 4,Proposition 2,,REP,YES,516
+Jones,PRECINCT 1,Proposition 2,,REP,NO,53
+Jones,PRECINCT 2,Proposition 2,,REP,NO,115
+Jones,PRECINCT 3,Proposition 2,,REP,NO,85
+Jones,PRECINCT 4,Proposition 2,,REP,NO,96
+Jones,PRECINCT 1,Proposition 2,,REP,OVER VOTES,0
+Jones,PRECINCT 2,Proposition 2,,REP,OVER VOTES,0
+Jones,PRECINCT 3,Proposition 2,,REP,OVER VOTES,0
+Jones,PRECINCT 4,Proposition 2,,REP,OVER VOTES,0
+Jones,PRECINCT 1,Proposition 2,,REP,UNDER VOTES,24
+Jones,PRECINCT 2,Proposition 2,,REP,UNDER VOTES,16
+Jones,PRECINCT 3,Proposition 2,,REP,UNDER VOTES,26
+Jones,PRECINCT 4,Proposition 2,,REP,UNDER VOTES,41
+Jones,PRECINCT 1,Proposition 3,,REP,YES,228
+Jones,PRECINCT 2,Proposition 3,,REP,YES,402
+Jones,PRECINCT 3,Proposition 3,,REP,YES,495
+Jones,PRECINCT 4,Proposition 3,,REP,YES,600
+Jones,PRECINCT 1,Proposition 3,,REP,NO,31
+Jones,PRECINCT 2,Proposition 3,,REP,NO,33
+Jones,PRECINCT 3,Proposition 3,,REP,NO,34
+Jones,PRECINCT 4,Proposition 3,,REP,NO,38
+Jones,PRECINCT 1,Proposition 3,,REP,OVER VOTES,0
+Jones,PRECINCT 2,Proposition 3,,REP,OVER VOTES,0
+Jones,PRECINCT 3,Proposition 3,,REP,OVER VOTES,0
+Jones,PRECINCT 4,Proposition 3,,REP,OVER VOTES,0
+Jones,PRECINCT 1,Proposition 3,,REP,UNDER VOTES,6
+Jones,PRECINCT 2,Proposition 3,,REP,UNDER VOTES,3
+Jones,PRECINCT 3,Proposition 3,,REP,UNDER VOTES,7
+Jones,PRECINCT 4,Proposition 3,,REP,UNDER VOTES,15
+Jones,PRECINCT 1,Proposition 4,,REP,YES,233
+Jones,PRECINCT 2,Proposition 4,,REP,YES,398
+Jones,PRECINCT 3,Proposition 4,,REP,YES,492
+Jones,PRECINCT 4,Proposition 4,,REP,YES,593
+Jones,PRECINCT 1,Proposition 4,,REP,NO,19
+Jones,PRECINCT 2,Proposition 4,,REP,NO,33
+Jones,PRECINCT 3,Proposition 4,,REP,NO,36
+Jones,PRECINCT 4,Proposition 4,,REP,NO,41
+Jones,PRECINCT 1,Proposition 4,,REP,OVER VOTES,0
+Jones,PRECINCT 2,Proposition 4,,REP,OVER VOTES,0
+Jones,PRECINCT 3,Proposition 4,,REP,OVER VOTES,0
+Jones,PRECINCT 4,Proposition 4,,REP,OVER VOTES,0
+Jones,PRECINCT 1,Proposition 4,,REP,UNDER VOTES,13
+Jones,PRECINCT 2,Proposition 4,,REP,UNDER VOTES,7
+Jones,PRECINCT 3,Proposition 4,,REP,UNDER VOTES,8
+Jones,PRECINCT 4,Proposition 4,,REP,UNDER VOTES,19
+Jones,PRECINCT 1,Proposition 5,,REP,YES,236
+Jones,PRECINCT 2,Proposition 5,,REP,YES,378
+Jones,PRECINCT 3,Proposition 5,,REP,YES,476
+Jones,PRECINCT 4,Proposition 5,,REP,YES,554
+Jones,PRECINCT 1,Proposition 5,,REP,NO,13
+Jones,PRECINCT 2,Proposition 5,,REP,NO,47
+Jones,PRECINCT 3,Proposition 5,,REP,NO,41
+Jones,PRECINCT 4,Proposition 5,,REP,NO,73
+Jones,PRECINCT 1,Proposition 5,,REP,OVER VOTES,0
+Jones,PRECINCT 2,Proposition 5,,REP,OVER VOTES,0
+Jones,PRECINCT 3,Proposition 5,,REP,OVER VOTES,0
+Jones,PRECINCT 4,Proposition 5,,REP,OVER VOTES,0
+Jones,PRECINCT 1,Proposition 5,,REP,UNDER VOTES,16
+Jones,PRECINCT 2,Proposition 5,,REP,UNDER VOTES,13
+Jones,PRECINCT 3,Proposition 5,,REP,UNDER VOTES,19
+Jones,PRECINCT 4,Proposition 5,,REP,UNDER VOTES,26
+Jones,PRECINCT 1,Proposition 6,,REP,YES,214
+Jones,PRECINCT 2,Proposition 6,,REP,YES,345
+Jones,PRECINCT 3,Proposition 6,,REP,YES,457
+Jones,PRECINCT 4,Proposition 6,,REP,YES,526
+Jones,PRECINCT 1,Proposition 6,,REP,NO,22
+Jones,PRECINCT 2,Proposition 6,,REP,NO,77
+Jones,PRECINCT 3,Proposition 6,,REP,NO,57
+Jones,PRECINCT 4,Proposition 6,,REP,NO,83
+Jones,PRECINCT 1,Proposition 6,,REP,OVER VOTES,0
+Jones,PRECINCT 2,Proposition 6,,REP,OVER VOTES,0
+Jones,PRECINCT 3,Proposition 6,,REP,OVER VOTES,0
+Jones,PRECINCT 4,Proposition 6,,REP,OVER VOTES,0
+Jones,PRECINCT 1,Proposition 6,,REP,UNDER VOTES,29
+Jones,PRECINCT 2,Proposition 6,,REP,UNDER VOTES,16
+Jones,PRECINCT 3,Proposition 6,,REP,UNDER VOTES,22
+Jones,PRECINCT 4,Proposition 6,,REP,UNDER VOTES,44
+Jones,PRECINCT 1,Proposition 7,,REP,YES,255
+Jones,PRECINCT 2,Proposition 7,,REP,YES,423
+Jones,PRECINCT 3,Proposition 7,,REP,YES,518
+Jones,PRECINCT 4,Proposition 7,,REP,YES,618
+Jones,PRECINCT 1,Proposition 7,,REP,NO,3
+Jones,PRECINCT 2,Proposition 7,,REP,NO,11
+Jones,PRECINCT 3,Proposition 7,,REP,NO,8
+Jones,PRECINCT 4,Proposition 7,,REP,NO,16
+Jones,PRECINCT 1,Proposition 7,,REP,OVER VOTES,0
+Jones,PRECINCT 2,Proposition 7,,REP,OVER VOTES,0
+Jones,PRECINCT 3,Proposition 7,,REP,OVER VOTES,0
+Jones,PRECINCT 4,Proposition 7,,REP,OVER VOTES,0
+Jones,PRECINCT 1,Proposition 7,,REP,UNDER VOTES,7
+Jones,PRECINCT 2,Proposition 7,,REP,UNDER VOTES,4
+Jones,PRECINCT 3,Proposition 7,,REP,UNDER VOTES,10
+Jones,PRECINCT 4,Proposition 7,,REP,UNDER VOTES,19
+Jones,PRECINCT 1,Proposition 8,,REP,YES,242
+Jones,PRECINCT 2,Proposition 8,,REP,YES,414
+Jones,PRECINCT 3,Proposition 8,,REP,YES,498
+Jones,PRECINCT 4,Proposition 8,,REP,YES,600
+Jones,PRECINCT 1,Proposition 8,,REP,NO,17
+Jones,PRECINCT 2,Proposition 8,,REP,NO,21
+Jones,PRECINCT 3,Proposition 8,,REP,NO,22
+Jones,PRECINCT 4,Proposition 8,,REP,NO,31
+Jones,PRECINCT 1,Proposition 8,,REP,OVER VOTES,0
+Jones,PRECINCT 2,Proposition 8,,REP,OVER VOTES,0
+Jones,PRECINCT 3,Proposition 8,,REP,OVER VOTES,0
+Jones,PRECINCT 4,Proposition 8,,REP,OVER VOTES,0
+Jones,PRECINCT 1,Proposition 8,,REP,UNDER VOTES,6
+Jones,PRECINCT 2,Proposition 8,,REP,UNDER VOTES,3
+Jones,PRECINCT 3,Proposition 8,,REP,UNDER VOTES,16
+Jones,PRECINCT 4,Proposition 8,,REP,UNDER VOTES,22
+Jones,PRECINCT 1,Proposition 9,,REP,YES,229
+Jones,PRECINCT 2,Proposition 9,,REP,YES,361
+Jones,PRECINCT 3,Proposition 9,,REP,YES,465
+Jones,PRECINCT 4,Proposition 9,,REP,YES,568
+Jones,PRECINCT 1,Proposition 9,,REP,NO,28
+Jones,PRECINCT 2,Proposition 9,,REP,NO,71
+Jones,PRECINCT 3,Proposition 9,,REP,NO,65
+Jones,PRECINCT 4,Proposition 9,,REP,NO,67
+Jones,PRECINCT 1,Proposition 9,,REP,OVER VOTES,0
+Jones,PRECINCT 2,Proposition 9,,REP,OVER VOTES,0
+Jones,PRECINCT 3,Proposition 9,,REP,OVER VOTES,0
+Jones,PRECINCT 4,Proposition 9,,REP,OVER VOTES,0
+Jones,PRECINCT 1,Proposition 9,,REP,UNDER VOTES,8
+Jones,PRECINCT 2,Proposition 9,,REP,UNDER VOTES,6
+Jones,PRECINCT 3,Proposition 9,,REP,UNDER VOTES,6
+Jones,PRECINCT 4,Proposition 9,,REP,UNDER VOTES,18
+Jones,PRECINCT 1,Proposition 10,,REP,YES,243
+Jones,PRECINCT 2,Proposition 10,,REP,YES,411
+Jones,PRECINCT 3,Proposition 10,,REP,YES,509
+Jones,PRECINCT 4,Proposition 10,,REP,YES,616
+Jones,PRECINCT 1,Proposition 10,,REP,NO,12
+Jones,PRECINCT 2,Proposition 10,,REP,NO,19
+Jones,PRECINCT 3,Proposition 10,,REP,NO,21
+Jones,PRECINCT 4,Proposition 10,,REP,NO,22
+Jones,PRECINCT 1,Proposition 10,,REP,OVER VOTES,0
+Jones,PRECINCT 2,Proposition 10,,REP,OVER VOTES,0
+Jones,PRECINCT 3,Proposition 10,,REP,OVER VOTES,0
+Jones,PRECINCT 4,Proposition 10,,REP,OVER VOTES,0
+Jones,PRECINCT 1,Proposition 10,,REP,UNDER VOTES,10
+Jones,PRECINCT 2,Proposition 10,,REP,UNDER VOTES,8
+Jones,PRECINCT 3,Proposition 10,,REP,UNDER VOTES,6
+Jones,PRECINCT 4,Proposition 10,,REP,UNDER VOTES,15
