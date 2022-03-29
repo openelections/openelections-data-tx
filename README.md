@@ -1,4 +1,7 @@
-OpenElections Data TX [![Build Status](https://github.com/openelections/openelections-data-tx/actions/workflows/format_tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-tx/actions)
+[![Build Status](https://github.com/openelections/openelections-data-tx/actions/workflows/data_tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-tx/actions/workflows/data_tests.yml?query=branch%3Amaster)
+[![Build Status](https://github.com/openelections/openelections-data-tx/actions/workflows/format_tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-tx/actions/workflows/format_tests.yml?query=branch%3Amaster)
+
+OpenElections Data TX
 =====================
 
 Pre-processed election results for Texas. These CSV files are converted from [original source files](https://github.com/openelections/openelections-sources-tx) from individual counties. You can refer to the below table for overall progress. Elections marked as `done` have all counties completed for that level. Those marked as `working` mean that at least one volunteer is working on this election, and this could be a good place to start if you're new. `Not started` means that this election is wide open and could use a volunteer.
@@ -7,7 +10,7 @@ Pre-processed election results for Texas. These CSV files are converted from [or
 
 | year  | general  | primary  |
 |---|---|---|
-| 2020  | N/A  | [working](https://github.com/openelections/openelections-data-tx/issues/286) |
+| 2020  | [done](https://github.com/openelections/openelections-data-tx/blob/master/2020/20201103__tx__general__precinct.csv)  | [done](https://github.com/openelections/openelections-data-tx/blob/master/2020/20200303__tx__primary__precinct.csv) |
 | 2018  | [done](https://github.com/openelections/openelections-data-tx/blob/master/2018/20181106__tx__general__precinct.csv) | [working](https://github.com/openelections/openelections-data-tx/issues/123)
 | 2016  | [done](https://github.com/openelections/openelections-data-tx/blob/master/2016/20161108__tx__general__precinct.csv) |  [working](https://github.com/openelections/openelections-data-tx/issues/12) |
 | 2014 |  [working](https://github.com/openelections/openelections-data-tx/issues/11) | [working](https://github.com/openelections/openelections-data-tx/issues/111)  |
