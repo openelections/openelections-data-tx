@@ -1,0 +1,2520 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Lavaca,Precinct 101,Registered Voters,,,,1405,0,0,0
+Lavaca,Precinct 102,Registered Voters,,,,1518,0,0,0
+Lavaca,Precinct 208,Registered Voters,,,,738,0,0,0
+Lavaca,Precinct 309,Registered Voters,,,,1432,0,0,0
+Lavaca,Precinct 311,Registered Voters,,,,789,0,0,0
+Lavaca,Precinct 416,Registered Voters,,,,781,0,0,0
+Lavaca,Precinct 119,Registered Voters,,,,785,0,0,0
+Lavaca,Precinct 223,Registered Voters,,,,1290,0,0,0
+Lavaca,Precinct 329,Registered Voters,,,,1471,0,0,0
+Lavaca,Precinct 430,Registered Voters,,,,2090,0,0,0
+Lavaca,Precinct 231,Registered Voters,,,,1492,0,0,0
+Lavaca,Precinct 101,Registered Voters - Nonpartisan,,NON,,1405,0,0,0
+Lavaca,Precinct 102,Registered Voters - Nonpartisan,,NON,,1518,0,0,0
+Lavaca,Precinct 208,Registered Voters - Nonpartisan,,NON,,738,0,0,0
+Lavaca,Precinct 309,Registered Voters - Nonpartisan,,NON,,1432,0,0,0
+Lavaca,Precinct 311,Registered Voters - Nonpartisan,,NON,,789,0,0,0
+Lavaca,Precinct 416,Registered Voters - Nonpartisan,,NON,,781,0,0,0
+Lavaca,Precinct 119,Registered Voters - Nonpartisan,,NON,,785,0,0,0
+Lavaca,Precinct 223,Registered Voters - Nonpartisan,,NON,,1290,0,0,0
+Lavaca,Precinct 329,Registered Voters - Nonpartisan,,NON,,1471,0,0,0
+Lavaca,Precinct 430,Registered Voters - Nonpartisan,,NON,,2090,0,0,0
+Lavaca,Precinct 231,Registered Voters - Nonpartisan,,NON,,1492,0,0,0
+Lavaca,Precinct 101,Ballots Cast,,,,606,35,385,186
+Lavaca,Precinct 102,Ballots Cast,,,,627,32,372,223
+Lavaca,Precinct 208,Ballots Cast,,,,344,9,122,213
+Lavaca,Precinct 309,Ballots Cast,,,,457,36,91,330
+Lavaca,Precinct 311,Ballots Cast,,,,238,20,65,153
+Lavaca,Precinct 416,Ballots Cast,,,,258,6,107,145
+Lavaca,Precinct 119,Ballots Cast,,,,312,23,181,108
+Lavaca,Precinct 223,Ballots Cast,,,,463,32,105,326
+Lavaca,Precinct 329,Ballots Cast,,,,499,39,146,314
+Lavaca,Precinct 430,Ballots Cast,,,,471,34,81,356
+Lavaca,Precinct 231,Ballots Cast,,,,628,42,387,199
+Lavaca,Precinct 101,Ballots Cast,,REP,,588,25,383,180
+Lavaca,Precinct 102,Ballots Cast,,REP,,581,16,359,206
+Lavaca,Precinct 208,Ballots Cast,,REP,,331,7,119,205
+Lavaca,Precinct 309,Ballots Cast,,REP,,428,22,81,325
+Lavaca,Precinct 311,Ballots Cast,,REP,,224,11,65,148
+Lavaca,Precinct 416,Ballots Cast,,REP,,252,5,105,142
+Lavaca,Precinct 119,Ballots Cast,,REP,,291,18,171,102
+Lavaca,Precinct 223,Ballots Cast,,REP,,443,20,104,319
+Lavaca,Precinct 329,Ballots Cast,,REP,,465,22,142,301
+Lavaca,Precinct 430,Ballots Cast,,REP,,436,25,78,333
+Lavaca,Precinct 231,Ballots Cast,,REP,,594,29,376,189
+Lavaca,Precinct 101,Ballots Cast,,DEM,,18,10,2,6
+Lavaca,Precinct 102,Ballots Cast,,DEM,,46,16,13,17
+Lavaca,Precinct 208,Ballots Cast,,DEM,,13,2,3,8
+Lavaca,Precinct 309,Ballots Cast,,DEM,,29,14,10,5
+Lavaca,Precinct 311,Ballots Cast,,DEM,,14,9,0,5
+Lavaca,Precinct 416,Ballots Cast,,DEM,,6,1,2,3
+Lavaca,Precinct 119,Ballots Cast,,DEM,,21,5,10,6
+Lavaca,Precinct 223,Ballots Cast,,DEM,,20,12,1,7
+Lavaca,Precinct 329,Ballots Cast,,DEM,,34,17,4,13
+Lavaca,Precinct 430,Ballots Cast,,DEM,,35,9,3,23
+Lavaca,Precinct 231,Ballots Cast,,DEM,,34,13,11,10
+Lavaca,Precinct 101,Ballots Cast,,NON,,0,0,0,0
+Lavaca,Precinct 102,Ballots Cast,,NON,,0,0,0,0
+Lavaca,Precinct 208,Ballots Cast,,NON,,0,0,0,0
+Lavaca,Precinct 309,Ballots Cast,,NON,,0,0,0,0
+Lavaca,Precinct 311,Ballots Cast,,NON,,0,0,0,0
+Lavaca,Precinct 416,Ballots Cast,,NON,,0,0,0,0
+Lavaca,Precinct 119,Ballots Cast,,NON,,0,0,0,0
+Lavaca,Precinct 223,Ballots Cast,,NON,,0,0,0,0
+Lavaca,Precinct 329,Ballots Cast,,NON,,0,0,0,0
+Lavaca,Precinct 430,Ballots Cast,,NON,,0,0,0,0
+Lavaca,Precinct 231,Ballots Cast,,NON,,0,0,0,0
+Lavaca,Precinct 101,Ballots Cast - Blank,,,,1,1,0,0
+Lavaca,Precinct 102,Ballots Cast - Blank,,,,1,0,0,1
+Lavaca,Precinct 208,Ballots Cast - Blank,,,,0,0,0,0
+Lavaca,Precinct 309,Ballots Cast - Blank,,,,0,0,0,0
+Lavaca,Precinct 311,Ballots Cast - Blank,,,,0,0,0,0
+Lavaca,Precinct 416,Ballots Cast - Blank,,,,0,0,0,0
+Lavaca,Precinct 119,Ballots Cast - Blank,,,,0,0,0,0
+Lavaca,Precinct 223,Ballots Cast - Blank,,,,0,0,0,0
+Lavaca,Precinct 329,Ballots Cast - Blank,,,,0,0,0,0
+Lavaca,Precinct 430,Ballots Cast - Blank,,,,1,0,0,1
+Lavaca,Precinct 231,Ballots Cast - Blank,,,,0,0,0,0
+Lavaca,Precinct 101,U.S. House,27,REP,Eric Mireles,6,0,6,0
+Lavaca,Precinct 102,U.S. House,27,REP,Eric Mireles,16,0,9,7
+Lavaca,Precinct 208,U.S. House,27,REP,Eric Mireles,6,0,4,2
+Lavaca,Precinct 309,U.S. House,27,REP,Eric Mireles,9,0,2,7
+Lavaca,Precinct 311,U.S. House,27,REP,Eric Mireles,3,0,1,2
+Lavaca,Precinct 416,U.S. House,27,REP,Eric Mireles,8,0,6,2
+Lavaca,Precinct 119,U.S. House,27,REP,Eric Mireles,2,0,1,1
+Lavaca,Precinct 223,U.S. House,27,REP,Eric Mireles,15,1,3,11
+Lavaca,Precinct 329,U.S. House,27,REP,Eric Mireles,13,0,3,10
+Lavaca,Precinct 430,U.S. House,27,REP,Eric Mireles,13,0,3,10
+Lavaca,Precinct 231,U.S. House,27,REP,Eric Mireles,10,1,6,3
+Lavaca,Precinct 101,U.S. House,27,REP,AJ Louderback,110,3,76,31
+Lavaca,Precinct 102,U.S. House,27,REP,AJ Louderback,110,1,73,36
+Lavaca,Precinct 208,U.S. House,27,REP,AJ Louderback,44,0,16,28
+Lavaca,Precinct 309,U.S. House,27,REP,AJ Louderback,48,0,12,36
+Lavaca,Precinct 311,U.S. House,27,REP,AJ Louderback,37,0,7,30
+Lavaca,Precinct 416,U.S. House,27,REP,AJ Louderback,75,1,36,38
+Lavaca,Precinct 119,U.S. House,27,REP,AJ Louderback,69,1,48,20
+Lavaca,Precinct 223,U.S. House,27,REP,AJ Louderback,50,1,10,39
+Lavaca,Precinct 329,U.S. House,27,REP,AJ Louderback,66,2,24,40
+Lavaca,Precinct 430,U.S. House,27,REP,AJ Louderback,55,1,14,40
+Lavaca,Precinct 231,U.S. House,27,REP,AJ Louderback,93,2,66,25
+Lavaca,Precinct 101,U.S. House,27,REP,Andrew Alvarez,11,0,3,8
+Lavaca,Precinct 102,U.S. House,27,REP,Andrew Alvarez,8,0,7,1
+Lavaca,Precinct 208,U.S. House,27,REP,Andrew Alvarez,8,1,5,2
+Lavaca,Precinct 309,U.S. House,27,REP,Andrew Alvarez,8,0,0,8
+Lavaca,Precinct 311,U.S. House,27,REP,Andrew Alvarez,4,0,2,2
+Lavaca,Precinct 416,U.S. House,27,REP,Andrew Alvarez,2,0,0,2
+Lavaca,Precinct 119,U.S. House,27,REP,Andrew Alvarez,4,1,1,2
+Lavaca,Precinct 223,U.S. House,27,REP,Andrew Alvarez,11,0,2,9
+Lavaca,Precinct 329,U.S. House,27,REP,Andrew Alvarez,4,1,1,2
+Lavaca,Precinct 430,U.S. House,27,REP,Andrew Alvarez,4,0,2,2
+Lavaca,Precinct 231,U.S. House,27,REP,Andrew Alvarez,9,0,6,3
+Lavaca,Precinct 101,U.S. House,27,REP,Michael Cloud,391,20,258,113
+Lavaca,Precinct 102,U.S. House,27,REP,Michael Cloud,382,15,234,133
+Lavaca,Precinct 208,U.S. House,27,REP,Michael Cloud,223,3,78,142
+Lavaca,Precinct 309,U.S. House,27,REP,Michael Cloud,298,21,54,223
+Lavaca,Precinct 311,U.S. House,27,REP,Michael Cloud,163,11,50,102
+Lavaca,Precinct 416,U.S. House,27,REP,Michael Cloud,144,3,57,84
+Lavaca,Precinct 119,U.S. House,27,REP,Michael Cloud,174,11,100,63
+Lavaca,Precinct 223,U.S. House,27,REP,Michael Cloud,295,17,78,200
+Lavaca,Precinct 329,U.S. House,27,REP,Michael Cloud,342,19,103,220
+Lavaca,Precinct 430,U.S. House,27,REP,Michael Cloud,320,24,53,243
+Lavaca,Precinct 231,U.S. House,27,REP,Michael Cloud,410,23,255,132
+Lavaca,Precinct 101,U.S. House,27,REP,Chris Mapp,18,0,9,9
+Lavaca,Precinct 102,U.S. House,27,REP,Chris Mapp,12,0,7,5
+Lavaca,Precinct 208,U.S. House,27,REP,Chris Mapp,21,2,7,12
+Lavaca,Precinct 309,U.S. House,27,REP,Chris Mapp,20,1,4,15
+Lavaca,Precinct 311,U.S. House,27,REP,Chris Mapp,6,0,3,3
+Lavaca,Precinct 416,U.S. House,27,REP,Chris Mapp,5,0,3,2
+Lavaca,Precinct 119,U.S. House,27,REP,Chris Mapp,18,1,8,9
+Lavaca,Precinct 223,U.S. House,27,REP,Chris Mapp,27,1,3,23
+Lavaca,Precinct 329,U.S. House,27,REP,Chris Mapp,14,0,6,8
+Lavaca,Precinct 430,U.S. House,27,REP,Chris Mapp,14,0,2,12
+Lavaca,Precinct 231,U.S. House,27,REP,Chris Mapp,18,1,11,6
+Lavaca,Precinct 101,U.S. House,27,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,U.S. House,27,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,U.S. House,27,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,U.S. House,27,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,U.S. House,27,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,U.S. House,27,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,U.S. House,27,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,U.S. House,27,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,U.S. House,27,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,U.S. House,27,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,U.S. House,27,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,U.S. House,27,REP,UNDER VOTES,52,2,31,19
+Lavaca,Precinct 102,U.S. House,27,REP,UNDER VOTES,53,0,29,24
+Lavaca,Precinct 208,U.S. House,27,REP,UNDER VOTES,29,1,9,19
+Lavaca,Precinct 309,U.S. House,27,REP,UNDER VOTES,45,0,9,36
+Lavaca,Precinct 311,U.S. House,27,REP,UNDER VOTES,11,0,2,9
+Lavaca,Precinct 416,U.S. House,27,REP,UNDER VOTES,18,1,3,14
+Lavaca,Precinct 119,U.S. House,27,REP,UNDER VOTES,24,4,13,7
+Lavaca,Precinct 223,U.S. House,27,REP,UNDER VOTES,45,0,8,37
+Lavaca,Precinct 329,U.S. House,27,REP,UNDER VOTES,26,0,5,21
+Lavaca,Precinct 430,U.S. House,27,REP,UNDER VOTES,30,0,4,26
+Lavaca,Precinct 231,U.S. House,27,REP,UNDER VOTES,54,2,32,20
+Lavaca,Precinct 101,Governor,,REP,Greg Abbott,427,21,275,131
+Lavaca,Precinct 102,Governor,,REP,Greg Abbott,438,13,286,139
+Lavaca,Precinct 208,Governor,,REP,Greg Abbott,228,6,77,145
+Lavaca,Precinct 309,Governor,,REP,Greg Abbott,310,21,56,233
+Lavaca,Precinct 311,Governor,,REP,Greg Abbott,155,10,54,91
+Lavaca,Precinct 416,Governor,,REP,Greg Abbott,162,2,64,96
+Lavaca,Precinct 119,Governor,,REP,Greg Abbott,181,10,105,66
+Lavaca,Precinct 223,Governor,,REP,Greg Abbott,343,18,84,241
+Lavaca,Precinct 329,Governor,,REP,Greg Abbott,357,16,114,227
+Lavaca,Precinct 430,Governor,,REP,Greg Abbott,319,23,53,243
+Lavaca,Precinct 231,Governor,,REP,Greg Abbott,438,21,284,133
+Lavaca,Precinct 101,Governor,,REP,Kandy Kaye Horn,5,0,3,2
+Lavaca,Precinct 102,Governor,,REP,Kandy Kaye Horn,3,0,3,0
+Lavaca,Precinct 208,Governor,,REP,Kandy Kaye Horn,5,0,3,2
+Lavaca,Precinct 309,Governor,,REP,Kandy Kaye Horn,7,1,0,6
+Lavaca,Precinct 311,Governor,,REP,Kandy Kaye Horn,1,0,1,0
+Lavaca,Precinct 416,Governor,,REP,Kandy Kaye Horn,1,0,1,0
+Lavaca,Precinct 119,Governor,,REP,Kandy Kaye Horn,3,0,2,1
+Lavaca,Precinct 223,Governor,,REP,Kandy Kaye Horn,0,0,0,0
+Lavaca,Precinct 329,Governor,,REP,Kandy Kaye Horn,4,0,1,3
+Lavaca,Precinct 430,Governor,,REP,Kandy Kaye Horn,2,0,2,0
+Lavaca,Precinct 231,Governor,,REP,Kandy Kaye Horn,6,1,4,1
+Lavaca,Precinct 101,Governor,,REP,Don Huffines,55,0,39,16
+Lavaca,Precinct 102,Governor,,REP,Don Huffines,63,2,30,31
+Lavaca,Precinct 208,Governor,,REP,Don Huffines,38,0,9,29
+Lavaca,Precinct 309,Governor,,REP,Don Huffines,42,0,10,32
+Lavaca,Precinct 311,Governor,,REP,Don Huffines,25,0,5,20
+Lavaca,Precinct 416,Governor,,REP,Don Huffines,21,3,13,5
+Lavaca,Precinct 119,Governor,,REP,Don Huffines,34,1,17,16
+Lavaca,Precinct 223,Governor,,REP,Don Huffines,34,0,3,31
+Lavaca,Precinct 329,Governor,,REP,Don Huffines,36,2,15,19
+Lavaca,Precinct 430,Governor,,REP,Don Huffines,50,2,11,37
+Lavaca,Precinct 231,Governor,,REP,Don Huffines,53,2,25,26
+Lavaca,Precinct 101,Governor,,REP,Paul Belew,0,0,0,0
+Lavaca,Precinct 102,Governor,,REP,Paul Belew,2,0,2,0
+Lavaca,Precinct 208,Governor,,REP,Paul Belew,0,0,0,0
+Lavaca,Precinct 309,Governor,,REP,Paul Belew,2,0,0,2
+Lavaca,Precinct 311,Governor,,REP,Paul Belew,0,0,0,0
+Lavaca,Precinct 416,Governor,,REP,Paul Belew,1,0,0,1
+Lavaca,Precinct 119,Governor,,REP,Paul Belew,0,0,0,0
+Lavaca,Precinct 223,Governor,,REP,Paul Belew,1,0,0,1
+Lavaca,Precinct 329,Governor,,REP,Paul Belew,1,0,0,1
+Lavaca,Precinct 430,Governor,,REP,Paul Belew,1,0,0,1
+Lavaca,Precinct 231,Governor,,REP,Paul Belew,2,0,2,0
+Lavaca,Precinct 101,Governor,,REP,Danny Harrison,0,0,0,0
+Lavaca,Precinct 102,Governor,,REP,Danny Harrison,0,0,0,0
+Lavaca,Precinct 208,Governor,,REP,Danny Harrison,0,0,0,0
+Lavaca,Precinct 309,Governor,,REP,Danny Harrison,0,0,0,0
+Lavaca,Precinct 311,Governor,,REP,Danny Harrison,3,0,0,3
+Lavaca,Precinct 416,Governor,,REP,Danny Harrison,0,0,0,0
+Lavaca,Precinct 119,Governor,,REP,Danny Harrison,1,0,0,1
+Lavaca,Precinct 223,Governor,,REP,Danny Harrison,1,0,0,1
+Lavaca,Precinct 329,Governor,,REP,Danny Harrison,0,0,0,0
+Lavaca,Precinct 430,Governor,,REP,Danny Harrison,1,0,0,1
+Lavaca,Precinct 231,Governor,,REP,Danny Harrison,0,0,0,0
+Lavaca,Precinct 101,Governor,,REP,Rick Perry,11,0,8,3
+Lavaca,Precinct 102,Governor,,REP,Rick Perry,9,0,4,5
+Lavaca,Precinct 208,Governor,,REP,Rick Perry,9,1,3,5
+Lavaca,Precinct 309,Governor,,REP,Rick Perry,2,0,0,2
+Lavaca,Precinct 311,Governor,,REP,Rick Perry,2,0,0,2
+Lavaca,Precinct 416,Governor,,REP,Rick Perry,3,0,2,1
+Lavaca,Precinct 119,Governor,,REP,Rick Perry,5,1,3,1
+Lavaca,Precinct 223,Governor,,REP,Rick Perry,12,1,3,8
+Lavaca,Precinct 329,Governor,,REP,Rick Perry,9,0,3,6
+Lavaca,Precinct 430,Governor,,REP,Rick Perry,5,0,0,5
+Lavaca,Precinct 231,Governor,,REP,Rick Perry,17,1,13,3
+Lavaca,Precinct 101,Governor,,REP,Allen B. West,63,4,37,22
+Lavaca,Precinct 102,Governor,,REP,Allen B. West,36,0,16,20
+Lavaca,Precinct 208,Governor,,REP,Allen B. West,35,0,17,18
+Lavaca,Precinct 309,Governor,,REP,Allen B. West,36,0,7,29
+Lavaca,Precinct 311,Governor,,REP,Allen B. West,24,1,5,18
+Lavaca,Precinct 416,Governor,,REP,Allen B. West,39,0,17,22
+Lavaca,Precinct 119,Governor,,REP,Allen B. West,46,4,32,10
+Lavaca,Precinct 223,Governor,,REP,Allen B. West,26,1,7,18
+Lavaca,Precinct 329,Governor,,REP,Allen B. West,30,4,5,21
+Lavaca,Precinct 430,Governor,,REP,Allen B. West,26,0,6,20
+Lavaca,Precinct 231,Governor,,REP,Allen B. West,48,4,30,14
+Lavaca,Precinct 101,Governor,,REP,Chad Prather,17,0,12,5
+Lavaca,Precinct 102,Governor,,REP,Chad Prather,24,1,12,11
+Lavaca,Precinct 208,Governor,,REP,Chad Prather,10,0,6,4
+Lavaca,Precinct 309,Governor,,REP,Chad Prather,24,0,6,18
+Lavaca,Precinct 311,Governor,,REP,Chad Prather,14,0,0,14
+Lavaca,Precinct 416,Governor,,REP,Chad Prather,22,0,7,15
+Lavaca,Precinct 119,Governor,,REP,Chad Prather,16,0,10,6
+Lavaca,Precinct 223,Governor,,REP,Chad Prather,22,0,4,18
+Lavaca,Precinct 329,Governor,,REP,Chad Prather,27,0,4,23
+Lavaca,Precinct 430,Governor,,REP,Chad Prather,28,0,4,24
+Lavaca,Precinct 231,Governor,,REP,Chad Prather,23,0,15,8
+Lavaca,Precinct 101,Governor,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,Governor,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,Governor,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,Governor,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,Governor,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,Governor,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,Governor,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,Governor,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,Governor,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,Governor,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,Governor,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,Governor,,REP,UNDER VOTES,10,0,9,1
+Lavaca,Precinct 102,Governor,,REP,UNDER VOTES,6,0,6,0
+Lavaca,Precinct 208,Governor,,REP,UNDER VOTES,6,0,4,2
+Lavaca,Precinct 309,Governor,,REP,UNDER VOTES,5,0,2,3
+Lavaca,Precinct 311,Governor,,REP,UNDER VOTES,0,0,0,0
+Lavaca,Precinct 416,Governor,,REP,UNDER VOTES,3,0,1,2
+Lavaca,Precinct 119,Governor,,REP,UNDER VOTES,5,2,2,1
+Lavaca,Precinct 223,Governor,,REP,UNDER VOTES,4,0,3,1
+Lavaca,Precinct 329,Governor,,REP,UNDER VOTES,1,0,0,1
+Lavaca,Precinct 430,Governor,,REP,UNDER VOTES,4,0,2,2
+Lavaca,Precinct 231,Governor,,REP,UNDER VOTES,7,0,3,4
+Lavaca,Precinct 101,Lieutenant Governor,,REP,Daniel Miller,54,4,38,12
+Lavaca,Precinct 102,Lieutenant Governor,,REP,Daniel Miller,69,0,45,24
+Lavaca,Precinct 208,Lieutenant Governor,,REP,Daniel Miller,31,0,10,21
+Lavaca,Precinct 309,Lieutenant Governor,,REP,Daniel Miller,36,0,13,23
+Lavaca,Precinct 311,Lieutenant Governor,,REP,Daniel Miller,16,0,2,14
+Lavaca,Precinct 416,Lieutenant Governor,,REP,Daniel Miller,25,0,9,16
+Lavaca,Precinct 119,Lieutenant Governor,,REP,Daniel Miller,44,0,27,17
+Lavaca,Precinct 223,Lieutenant Governor,,REP,Daniel Miller,45,0,8,37
+Lavaca,Precinct 329,Lieutenant Governor,,REP,Daniel Miller,31,1,5,25
+Lavaca,Precinct 430,Lieutenant Governor,,REP,Daniel Miller,43,0,6,37
+Lavaca,Precinct 231,Lieutenant Governor,,REP,Daniel Miller,62,3,32,27
+Lavaca,Precinct 101,Lieutenant Governor,,REP,Trayce Bradford,17,2,12,3
+Lavaca,Precinct 102,Lieutenant Governor,,REP,Trayce Bradford,19,1,9,9
+Lavaca,Precinct 208,Lieutenant Governor,,REP,Trayce Bradford,17,0,9,8
+Lavaca,Precinct 309,Lieutenant Governor,,REP,Trayce Bradford,13,0,3,10
+Lavaca,Precinct 311,Lieutenant Governor,,REP,Trayce Bradford,6,0,2,4
+Lavaca,Precinct 416,Lieutenant Governor,,REP,Trayce Bradford,8,0,4,4
+Lavaca,Precinct 119,Lieutenant Governor,,REP,Trayce Bradford,7,1,3,3
+Lavaca,Precinct 223,Lieutenant Governor,,REP,Trayce Bradford,11,0,2,9
+Lavaca,Precinct 329,Lieutenant Governor,,REP,Trayce Bradford,12,0,4,8
+Lavaca,Precinct 430,Lieutenant Governor,,REP,Trayce Bradford,18,0,6,12
+Lavaca,Precinct 231,Lieutenant Governor,,REP,Trayce Bradford,14,0,9,5
+Lavaca,Precinct 101,Lieutenant Governor,,REP,Zach Vance,8,0,7,1
+Lavaca,Precinct 102,Lieutenant Governor,,REP,Zach Vance,5,0,2,3
+Lavaca,Precinct 208,Lieutenant Governor,,REP,Zach Vance,7,0,5,2
+Lavaca,Precinct 309,Lieutenant Governor,,REP,Zach Vance,9,1,2,6
+Lavaca,Precinct 311,Lieutenant Governor,,REP,Zach Vance,4,0,1,3
+Lavaca,Precinct 416,Lieutenant Governor,,REP,Zach Vance,5,0,1,4
+Lavaca,Precinct 119,Lieutenant Governor,,REP,Zach Vance,6,0,3,3
+Lavaca,Precinct 223,Lieutenant Governor,,REP,Zach Vance,6,0,0,6
+Lavaca,Precinct 329,Lieutenant Governor,,REP,Zach Vance,7,0,3,4
+Lavaca,Precinct 430,Lieutenant Governor,,REP,Zach Vance,5,0,1,4
+Lavaca,Precinct 231,Lieutenant Governor,,REP,Zach Vance,13,1,11,1
+Lavaca,Precinct 101,Lieutenant Governor,,REP,Dan Patrick,420,17,273,130
+Lavaca,Precinct 102,Lieutenant Governor,,REP,Dan Patrick,401,14,248,139
+Lavaca,Precinct 208,Lieutenant Governor,,REP,Dan Patrick,227,6,70,151
+Lavaca,Precinct 309,Lieutenant Governor,,REP,Dan Patrick,315,21,52,242
+Lavaca,Precinct 311,Lieutenant Governor,,REP,Dan Patrick,169,11,52,106
+Lavaca,Precinct 416,Lieutenant Governor,,REP,Dan Patrick,188,4,83,101
+Lavaca,Precinct 119,Lieutenant Governor,,REP,Dan Patrick,205,13,122,70
+Lavaca,Precinct 223,Lieutenant Governor,,REP,Dan Patrick,308,19,76,213
+Lavaca,Precinct 329,Lieutenant Governor,,REP,Dan Patrick,352,20,121,211
+Lavaca,Precinct 430,Lieutenant Governor,,REP,Dan Patrick,321,25,57,239
+Lavaca,Precinct 231,Lieutenant Governor,,REP,Dan Patrick,419,23,269,127
+Lavaca,Precinct 101,Lieutenant Governor,,REP,Aaron Sorrells,11,2,8,1
+Lavaca,Precinct 102,Lieutenant Governor,,REP,Aaron Sorrells,13,0,6,7
+Lavaca,Precinct 208,Lieutenant Governor,,REP,Aaron Sorrells,11,0,5,6
+Lavaca,Precinct 309,Lieutenant Governor,,REP,Aaron Sorrells,11,0,1,10
+Lavaca,Precinct 311,Lieutenant Governor,,REP,Aaron Sorrells,7,0,0,7
+Lavaca,Precinct 416,Lieutenant Governor,,REP,Aaron Sorrells,6,1,1,4
+Lavaca,Precinct 119,Lieutenant Governor,,REP,Aaron Sorrells,4,0,2,2
+Lavaca,Precinct 223,Lieutenant Governor,,REP,Aaron Sorrells,7,1,0,6
+Lavaca,Precinct 329,Lieutenant Governor,,REP,Aaron Sorrells,10,0,2,8
+Lavaca,Precinct 430,Lieutenant Governor,,REP,Aaron Sorrells,13,0,0,13
+Lavaca,Precinct 231,Lieutenant Governor,,REP,Aaron Sorrells,12,1,7,4
+Lavaca,Precinct 101,Lieutenant Governor,,REP,Todd M. Bullis,6,0,6,0
+Lavaca,Precinct 102,Lieutenant Governor,,REP,Todd M. Bullis,14,0,8,6
+Lavaca,Precinct 208,Lieutenant Governor,,REP,Todd M. Bullis,11,1,4,6
+Lavaca,Precinct 309,Lieutenant Governor,,REP,Todd M. Bullis,6,0,1,5
+Lavaca,Precinct 311,Lieutenant Governor,,REP,Todd M. Bullis,2,0,1,1
+Lavaca,Precinct 416,Lieutenant Governor,,REP,Todd M. Bullis,1,0,1,0
+Lavaca,Precinct 119,Lieutenant Governor,,REP,Todd M. Bullis,3,1,1,1
+Lavaca,Precinct 223,Lieutenant Governor,,REP,Todd M. Bullis,12,0,3,9
+Lavaca,Precinct 329,Lieutenant Governor,,REP,Todd M. Bullis,6,0,1,5
+Lavaca,Precinct 430,Lieutenant Governor,,REP,Todd M. Bullis,8,0,3,5
+Lavaca,Precinct 231,Lieutenant Governor,,REP,Todd M. Bullis,10,0,9,1
+Lavaca,Precinct 101,Lieutenant Governor,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,Lieutenant Governor,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,Lieutenant Governor,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,Lieutenant Governor,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,Lieutenant Governor,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,Lieutenant Governor,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,Lieutenant Governor,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,Lieutenant Governor,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,Lieutenant Governor,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,Lieutenant Governor,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,Lieutenant Governor,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,Lieutenant Governor,,REP,UNDER VOTES,72,0,39,33
+Lavaca,Precinct 102,Lieutenant Governor,,REP,UNDER VOTES,60,1,41,18
+Lavaca,Precinct 208,Lieutenant Governor,,REP,UNDER VOTES,27,0,16,11
+Lavaca,Precinct 309,Lieutenant Governor,,REP,UNDER VOTES,38,0,9,29
+Lavaca,Precinct 311,Lieutenant Governor,,REP,UNDER VOTES,20,0,7,13
+Lavaca,Precinct 416,Lieutenant Governor,,REP,UNDER VOTES,19,0,6,13
+Lavaca,Precinct 119,Lieutenant Governor,,REP,UNDER VOTES,22,3,13,6
+Lavaca,Precinct 223,Lieutenant Governor,,REP,UNDER VOTES,54,0,15,39
+Lavaca,Precinct 329,Lieutenant Governor,,REP,UNDER VOTES,47,1,6,40
+Lavaca,Precinct 430,Lieutenant Governor,,REP,UNDER VOTES,28,0,5,23
+Lavaca,Precinct 231,Lieutenant Governor,,REP,UNDER VOTES,64,1,39,24
+Lavaca,Precinct 101,Attorney General,,REP,Ken Paxton,281,17,192,72
+Lavaca,Precinct 102,Attorney General,,REP,Ken Paxton,301,7,193,101
+Lavaca,Precinct 208,Attorney General,,REP,Ken Paxton,159,4,53,102
+Lavaca,Precinct 309,Attorney General,,REP,Ken Paxton,184,11,34,139
+Lavaca,Precinct 311,Attorney General,,REP,Ken Paxton,115,8,38,69
+Lavaca,Precinct 416,Attorney General,,REP,Ken Paxton,129,3,49,77
+Lavaca,Precinct 119,Attorney General,,REP,Ken Paxton,144,9,84,51
+Lavaca,Precinct 223,Attorney General,,REP,Ken Paxton,214,10,61,143
+Lavaca,Precinct 329,Attorney General,,REP,Ken Paxton,232,12,75,145
+Lavaca,Precinct 430,Attorney General,,REP,Ken Paxton,178,12,32,134
+Lavaca,Precinct 231,Attorney General,,REP,Ken Paxton,282,13,174,95
+Lavaca,Precinct 101,Attorney General,,REP,George P. Bush,127,2,66,59
+Lavaca,Precinct 102,Attorney General,,REP,George P. Bush,139,3,76,60
+Lavaca,Precinct 208,Attorney General,,REP,George P. Bush,65,1,22,42
+Lavaca,Precinct 309,Attorney General,,REP,George P. Bush,121,4,20,97
+Lavaca,Precinct 311,Attorney General,,REP,George P. Bush,46,2,12,32
+Lavaca,Precinct 416,Attorney General,,REP,George P. Bush,53,1,22,30
+Lavaca,Precinct 119,Attorney General,,REP,George P. Bush,59,0,38,21
+Lavaca,Precinct 223,Attorney General,,REP,George P. Bush,119,5,18,96
+Lavaca,Precinct 329,Attorney General,,REP,George P. Bush,104,3,26,75
+Lavaca,Precinct 430,Attorney General,,REP,George P. Bush,124,4,21,99
+Lavaca,Precinct 231,Attorney General,,REP,George P. Bush,144,8,83,53
+Lavaca,Precinct 101,Attorney General,,REP,Louie Gohmert,79,1,50,28
+Lavaca,Precinct 102,Attorney General,,REP,Louie Gohmert,56,1,30,25
+Lavaca,Precinct 208,Attorney General,,REP,Louie Gohmert,45,1,8,36
+Lavaca,Precinct 309,Attorney General,,REP,Louie Gohmert,61,4,10,47
+Lavaca,Precinct 311,Attorney General,,REP,Louie Gohmert,36,1,8,27
+Lavaca,Precinct 416,Attorney General,,REP,Louie Gohmert,34,0,16,18
+Lavaca,Precinct 119,Attorney General,,REP,Louie Gohmert,38,0,17,21
+Lavaca,Precinct 223,Attorney General,,REP,Louie Gohmert,44,1,7,36
+Lavaca,Precinct 329,Attorney General,,REP,Louie Gohmert,64,4,22,38
+Lavaca,Precinct 430,Attorney General,,REP,Louie Gohmert,75,4,10,61
+Lavaca,Precinct 231,Attorney General,,REP,Louie Gohmert,60,0,48,12
+Lavaca,Precinct 101,Attorney General,,REP,Eva Guzman,51,5,40,6
+Lavaca,Precinct 102,Attorney General,,REP,Eva Guzman,54,5,37,12
+Lavaca,Precinct 208,Attorney General,,REP,Eva Guzman,45,1,27,17
+Lavaca,Precinct 309,Attorney General,,REP,Eva Guzman,36,3,10,23
+Lavaca,Precinct 311,Attorney General,,REP,Eva Guzman,20,0,6,14
+Lavaca,Precinct 416,Attorney General,,REP,Eva Guzman,21,1,15,5
+Lavaca,Precinct 119,Attorney General,,REP,Eva Guzman,38,6,27,5
+Lavaca,Precinct 223,Attorney General,,REP,Eva Guzman,34,4,12,18
+Lavaca,Precinct 329,Attorney General,,REP,Eva Guzman,41,3,15,23
+Lavaca,Precinct 430,Attorney General,,REP,Eva Guzman,42,5,11,26
+Lavaca,Precinct 231,Attorney General,,REP,Eva Guzman,69,7,46,16
+Lavaca,Precinct 101,Attorney General,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,Attorney General,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,Attorney General,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,Attorney General,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,Attorney General,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,Attorney General,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,Attorney General,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,Attorney General,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,Attorney General,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,Attorney General,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,Attorney General,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,Attorney General,,REP,UNDER VOTES,50,0,35,15
+Lavaca,Precinct 102,Attorney General,,REP,UNDER VOTES,31,0,23,8
+Lavaca,Precinct 208,Attorney General,,REP,UNDER VOTES,17,0,9,8
+Lavaca,Precinct 309,Attorney General,,REP,UNDER VOTES,26,0,7,19
+Lavaca,Precinct 311,Attorney General,,REP,UNDER VOTES,7,0,1,6
+Lavaca,Precinct 416,Attorney General,,REP,UNDER VOTES,15,0,3,12
+Lavaca,Precinct 119,Attorney General,,REP,UNDER VOTES,12,3,5,4
+Lavaca,Precinct 223,Attorney General,,REP,UNDER VOTES,32,0,6,26
+Lavaca,Precinct 329,Attorney General,,REP,UNDER VOTES,24,0,4,20
+Lavaca,Precinct 430,Attorney General,,REP,UNDER VOTES,17,0,4,13
+Lavaca,Precinct 231,Attorney General,,REP,UNDER VOTES,39,1,25,13
+Lavaca,Precinct 101,Comptroller of Public Accounts,,REP,Glenn Hegar,447,21,300,126
+Lavaca,Precinct 102,Comptroller of Public Accounts,,REP,Glenn Hegar,435,13,274,148
+Lavaca,Precinct 208,Comptroller of Public Accounts,,REP,Glenn Hegar,253,6,89,158
+Lavaca,Precinct 309,Comptroller of Public Accounts,,REP,Glenn Hegar,320,21,57,242
+Lavaca,Precinct 311,Comptroller of Public Accounts,,REP,Glenn Hegar,188,9,55,124
+Lavaca,Precinct 416,Comptroller of Public Accounts,,REP,Glenn Hegar,185,3,81,101
+Lavaca,Precinct 119,Comptroller of Public Accounts,,REP,Glenn Hegar,223,12,135,76
+Lavaca,Precinct 223,Comptroller of Public Accounts,,REP,Glenn Hegar,329,18,81,230
+Lavaca,Precinct 329,Comptroller of Public Accounts,,REP,Glenn Hegar,373,19,126,228
+Lavaca,Precinct 430,Comptroller of Public Accounts,,REP,Glenn Hegar,323,22,58,243
+Lavaca,Precinct 231,Comptroller of Public Accounts,,REP,Glenn Hegar,449,21,290,138
+Lavaca,Precinct 101,Comptroller of Public Accounts,,REP,Mark V. Goloby,32,2,19,11
+Lavaca,Precinct 102,Comptroller of Public Accounts,,REP,Mark V. Goloby,41,3,22,16
+Lavaca,Precinct 208,Comptroller of Public Accounts,,REP,Mark V. Goloby,22,0,7,15
+Lavaca,Precinct 309,Comptroller of Public Accounts,,REP,Mark V. Goloby,30,0,7,23
+Lavaca,Precinct 311,Comptroller of Public Accounts,,REP,Mark V. Goloby,15,1,4,10
+Lavaca,Precinct 416,Comptroller of Public Accounts,,REP,Mark V. Goloby,14,1,8,5
+Lavaca,Precinct 119,Comptroller of Public Accounts,,REP,Mark V. Goloby,23,0,13,10
+Lavaca,Precinct 223,Comptroller of Public Accounts,,REP,Mark V. Goloby,31,2,5,24
+Lavaca,Precinct 329,Comptroller of Public Accounts,,REP,Mark V. Goloby,25,3,5,17
+Lavaca,Precinct 430,Comptroller of Public Accounts,,REP,Mark V. Goloby,52,1,10,41
+Lavaca,Precinct 231,Comptroller of Public Accounts,,REP,Mark V. Goloby,37,3,23,11
+Lavaca,Precinct 101,Comptroller of Public Accounts,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,Comptroller of Public Accounts,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,Comptroller of Public Accounts,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,Comptroller of Public Accounts,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,Comptroller of Public Accounts,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,Comptroller of Public Accounts,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,Comptroller of Public Accounts,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,Comptroller of Public Accounts,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,Comptroller of Public Accounts,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,Comptroller of Public Accounts,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,Comptroller of Public Accounts,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,Comptroller of Public Accounts,,REP,UNDER VOTES,109,2,64,43
+Lavaca,Precinct 102,Comptroller of Public Accounts,,REP,UNDER VOTES,105,0,63,42
+Lavaca,Precinct 208,Comptroller of Public Accounts,,REP,UNDER VOTES,56,1,23,32
+Lavaca,Precinct 309,Comptroller of Public Accounts,,REP,UNDER VOTES,78,1,17,60
+Lavaca,Precinct 311,Comptroller of Public Accounts,,REP,UNDER VOTES,21,1,6,14
+Lavaca,Precinct 416,Comptroller of Public Accounts,,REP,UNDER VOTES,53,1,16,36
+Lavaca,Precinct 119,Comptroller of Public Accounts,,REP,UNDER VOTES,45,6,23,16
+Lavaca,Precinct 223,Comptroller of Public Accounts,,REP,UNDER VOTES,83,0,18,65
+Lavaca,Precinct 329,Comptroller of Public Accounts,,REP,UNDER VOTES,67,0,11,56
+Lavaca,Precinct 430,Comptroller of Public Accounts,,REP,UNDER VOTES,61,2,10,49
+Lavaca,Precinct 231,Comptroller of Public Accounts,,REP,UNDER VOTES,108,5,63,40
+Lavaca,Precinct 101,Comm General Land Office,,REP,Tim Westley,104,4,63,37
+Lavaca,Precinct 102,Comm General Land Office,,REP,Tim Westley,126,5,84,37
+Lavaca,Precinct 208,Comm General Land Office,,REP,Tim Westley,76,2,26,48
+Lavaca,Precinct 309,Comm General Land Office,,REP,Tim Westley,77,7,19,51
+Lavaca,Precinct 311,Comm General Land Office,,REP,Tim Westley,59,3,15,41
+Lavaca,Precinct 416,Comm General Land Office,,REP,Tim Westley,55,1,21,33
+Lavaca,Precinct 119,Comm General Land Office,,REP,Tim Westley,63,0,37,26
+Lavaca,Precinct 223,Comm General Land Office,,REP,Tim Westley,85,1,22,62
+Lavaca,Precinct 329,Comm General Land Office,,REP,Tim Westley,105,3,30,72
+Lavaca,Precinct 430,Comm General Land Office,,REP,Tim Westley,91,5,17,69
+Lavaca,Precinct 231,Comm General Land Office,,REP,Tim Westley,125,4,66,55
+Lavaca,Precinct 101,Comm General Land Office,,REP,Victor Avila,28,0,23,5
+Lavaca,Precinct 102,Comm General Land Office,,REP,Victor Avila,14,0,8,6
+Lavaca,Precinct 208,Comm General Land Office,,REP,Victor Avila,6,0,3,3
+Lavaca,Precinct 309,Comm General Land Office,,REP,Victor Avila,11,0,4,7
+Lavaca,Precinct 311,Comm General Land Office,,REP,Victor Avila,6,0,0,6
+Lavaca,Precinct 416,Comm General Land Office,,REP,Victor Avila,10,0,3,7
+Lavaca,Precinct 119,Comm General Land Office,,REP,Victor Avila,12,0,7,5
+Lavaca,Precinct 223,Comm General Land Office,,REP,Victor Avila,14,2,0,12
+Lavaca,Precinct 329,Comm General Land Office,,REP,Victor Avila,21,0,3,18
+Lavaca,Precinct 430,Comm General Land Office,,REP,Victor Avila,17,0,5,12
+Lavaca,Precinct 231,Comm General Land Office,,REP,Victor Avila,22,2,14,6
+Lavaca,Precinct 101,Comm General Land Office,,REP,Don W. Minton,38,1,29,8
+Lavaca,Precinct 102,Comm General Land Office,,REP,Don W. Minton,48,2,32,14
+Lavaca,Precinct 208,Comm General Land Office,,REP,Don W. Minton,26,3,9,14
+Lavaca,Precinct 309,Comm General Land Office,,REP,Don W. Minton,37,2,7,28
+Lavaca,Precinct 311,Comm General Land Office,,REP,Don W. Minton,16,0,7,9
+Lavaca,Precinct 416,Comm General Land Office,,REP,Don W. Minton,28,1,11,16
+Lavaca,Precinct 119,Comm General Land Office,,REP,Don W. Minton,17,3,9,5
+Lavaca,Precinct 223,Comm General Land Office,,REP,Don W. Minton,32,1,8,23
+Lavaca,Precinct 329,Comm General Land Office,,REP,Don W. Minton,45,2,16,27
+Lavaca,Precinct 430,Comm General Land Office,,REP,Don W. Minton,32,2,5,25
+Lavaca,Precinct 231,Comm General Land Office,,REP,Don W. Minton,63,3,43,17
+Lavaca,Precinct 101,Comm General Land Office,,REP,Weston Martinez,8,0,7,1
+Lavaca,Precinct 102,Comm General Land Office,,REP,Weston Martinez,7,0,1,6
+Lavaca,Precinct 208,Comm General Land Office,,REP,Weston Martinez,3,0,1,2
+Lavaca,Precinct 309,Comm General Land Office,,REP,Weston Martinez,10,0,4,6
+Lavaca,Precinct 311,Comm General Land Office,,REP,Weston Martinez,7,0,6,1
+Lavaca,Precinct 416,Comm General Land Office,,REP,Weston Martinez,7,0,5,2
+Lavaca,Precinct 119,Comm General Land Office,,REP,Weston Martinez,5,0,4,1
+Lavaca,Precinct 223,Comm General Land Office,,REP,Weston Martinez,16,2,4,10
+Lavaca,Precinct 329,Comm General Land Office,,REP,Weston Martinez,11,0,4,7
+Lavaca,Precinct 430,Comm General Land Office,,REP,Weston Martinez,10,0,6,4
+Lavaca,Precinct 231,Comm General Land Office,,REP,Weston Martinez,8,0,5,3
+Lavaca,Precinct 101,Comm General Land Office,,REP,Ben Armenta,7,0,6,1
+Lavaca,Precinct 102,Comm General Land Office,,REP,Ben Armenta,10,1,7,2
+Lavaca,Precinct 208,Comm General Land Office,,REP,Ben Armenta,3,0,1,2
+Lavaca,Precinct 309,Comm General Land Office,,REP,Ben Armenta,6,0,1,5
+Lavaca,Precinct 311,Comm General Land Office,,REP,Ben Armenta,1,0,0,1
+Lavaca,Precinct 416,Comm General Land Office,,REP,Ben Armenta,1,0,1,0
+Lavaca,Precinct 119,Comm General Land Office,,REP,Ben Armenta,3,0,1,2
+Lavaca,Precinct 223,Comm General Land Office,,REP,Ben Armenta,4,0,2,2
+Lavaca,Precinct 329,Comm General Land Office,,REP,Ben Armenta,4,0,1,3
+Lavaca,Precinct 430,Comm General Land Office,,REP,Ben Armenta,18,0,2,16
+Lavaca,Precinct 231,Comm General Land Office,,REP,Ben Armenta,12,1,7,4
+Lavaca,Precinct 101,Comm General Land Office,,REP,Rufus Lopez,2,0,1,1
+Lavaca,Precinct 102,Comm General Land Office,,REP,Rufus Lopez,2,1,1,0
+Lavaca,Precinct 208,Comm General Land Office,,REP,Rufus Lopez,3,1,0,2
+Lavaca,Precinct 309,Comm General Land Office,,REP,Rufus Lopez,5,0,0,5
+Lavaca,Precinct 311,Comm General Land Office,,REP,Rufus Lopez,1,0,1,0
+Lavaca,Precinct 416,Comm General Land Office,,REP,Rufus Lopez,2,0,0,2
+Lavaca,Precinct 119,Comm General Land Office,,REP,Rufus Lopez,2,0,1,1
+Lavaca,Precinct 223,Comm General Land Office,,REP,Rufus Lopez,10,0,1,9
+Lavaca,Precinct 329,Comm General Land Office,,REP,Rufus Lopez,4,0,2,2
+Lavaca,Precinct 430,Comm General Land Office,,REP,Rufus Lopez,5,0,1,4
+Lavaca,Precinct 231,Comm General Land Office,,REP,Rufus Lopez,4,0,4,0
+Lavaca,Precinct 101,Comm General Land Office,,REP,Dawn Buckingham,138,11,91,36
+Lavaca,Precinct 102,Comm General Land Office,,REP,Dawn Buckingham,113,3,65,45
+Lavaca,Precinct 208,Comm General Land Office,,REP,Dawn Buckingham,82,0,26,56
+Lavaca,Precinct 309,Comm General Land Office,,REP,Dawn Buckingham,99,1,19,79
+Lavaca,Precinct 311,Comm General Land Office,,REP,Dawn Buckingham,56,5,14,37
+Lavaca,Precinct 416,Comm General Land Office,,REP,Dawn Buckingham,50,2,24,24
+Lavaca,Precinct 119,Comm General Land Office,,REP,Dawn Buckingham,73,5,49,19
+Lavaca,Precinct 223,Comm General Land Office,,REP,Dawn Buckingham,79,7,26,46
+Lavaca,Precinct 329,Comm General Land Office,,REP,Dawn Buckingham,115,7,47,61
+Lavaca,Precinct 430,Comm General Land Office,,REP,Dawn Buckingham,102,8,20,74
+Lavaca,Precinct 231,Comm General Land Office,,REP,Dawn Buckingham,120,9,86,25
+Lavaca,Precinct 101,Comm General Land Office,,REP,Jon Spiers,61,4,38,19
+Lavaca,Precinct 102,Comm General Land Office,,REP,Jon Spiers,67,0,47,20
+Lavaca,Precinct 208,Comm General Land Office,,REP,Jon Spiers,42,0,16,26
+Lavaca,Precinct 309,Comm General Land Office,,REP,Jon Spiers,46,6,7,33
+Lavaca,Precinct 311,Comm General Land Office,,REP,Jon Spiers,25,2,6,17
+Lavaca,Precinct 416,Comm General Land Office,,REP,Jon Spiers,26,0,14,12
+Lavaca,Precinct 119,Comm General Land Office,,REP,Jon Spiers,39,3,26,10
+Lavaca,Precinct 223,Comm General Land Office,,REP,Jon Spiers,48,3,7,38
+Lavaca,Precinct 329,Comm General Land Office,,REP,Jon Spiers,46,4,12,30
+Lavaca,Precinct 430,Comm General Land Office,,REP,Jon Spiers,51,2,9,40
+Lavaca,Precinct 231,Comm General Land Office,,REP,Jon Spiers,53,4,27,22
+Lavaca,Precinct 101,Comm General Land Office,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,Comm General Land Office,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,Comm General Land Office,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,Comm General Land Office,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,Comm General Land Office,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,Comm General Land Office,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,Comm General Land Office,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,Comm General Land Office,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,Comm General Land Office,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,Comm General Land Office,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,Comm General Land Office,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,Comm General Land Office,,REP,UNDER VOTES,202,5,125,72
+Lavaca,Precinct 102,Comm General Land Office,,REP,UNDER VOTES,194,4,114,76
+Lavaca,Precinct 208,Comm General Land Office,,REP,UNDER VOTES,90,1,37,52
+Lavaca,Precinct 309,Comm General Land Office,,REP,UNDER VOTES,137,6,20,111
+Lavaca,Precinct 311,Comm General Land Office,,REP,UNDER VOTES,53,1,16,36
+Lavaca,Precinct 416,Comm General Land Office,,REP,UNDER VOTES,73,1,26,46
+Lavaca,Precinct 119,Comm General Land Office,,REP,UNDER VOTES,77,7,37,33
+Lavaca,Precinct 223,Comm General Land Office,,REP,UNDER VOTES,155,4,34,117
+Lavaca,Precinct 329,Comm General Land Office,,REP,UNDER VOTES,114,6,27,81
+Lavaca,Precinct 430,Comm General Land Office,,REP,UNDER VOTES,110,8,13,89
+Lavaca,Precinct 231,Comm General Land Office,,REP,UNDER VOTES,187,6,124,57
+Lavaca,Precinct 101,Commissioner of Agriculture,,REP,Sid Miller,326,16,216,94
+Lavaca,Precinct 102,Commissioner of Agriculture,,REP,Sid Miller,285,10,179,96
+Lavaca,Precinct 208,Commissioner of Agriculture,,REP,Sid Miller,181,4,58,119
+Lavaca,Precinct 309,Commissioner of Agriculture,,REP,Sid Miller,207,11,40,156
+Lavaca,Precinct 311,Commissioner of Agriculture,,REP,Sid Miller,133,7,35,91
+Lavaca,Precinct 416,Commissioner of Agriculture,,REP,Sid Miller,133,4,59,70
+Lavaca,Precinct 119,Commissioner of Agriculture,,REP,Sid Miller,157,6,93,58
+Lavaca,Precinct 223,Commissioner of Agriculture,,REP,Sid Miller,231,7,57,167
+Lavaca,Precinct 329,Commissioner of Agriculture,,REP,Sid Miller,254,11,100,143
+Lavaca,Precinct 430,Commissioner of Agriculture,,REP,Sid Miller,213,17,37,159
+Lavaca,Precinct 231,Commissioner of Agriculture,,REP,Sid Miller,275,9,179,87
+Lavaca,Precinct 101,Commissioner of Agriculture,,REP,James White,121,7,80,34
+Lavaca,Precinct 102,Commissioner of Agriculture,,REP,James White,154,2,104,48
+Lavaca,Precinct 208,Commissioner of Agriculture,,REP,James White,79,1,30,48
+Lavaca,Precinct 309,Commissioner of Agriculture,,REP,James White,104,7,25,72
+Lavaca,Precinct 311,Commissioner of Agriculture,,REP,James White,48,1,20,27
+Lavaca,Precinct 416,Commissioner of Agriculture,,REP,James White,52,0,18,34
+Lavaca,Precinct 119,Commissioner of Agriculture,,REP,James White,72,6,43,23
+Lavaca,Precinct 223,Commissioner of Agriculture,,REP,James White,104,11,20,73
+Lavaca,Precinct 329,Commissioner of Agriculture,,REP,James White,113,4,28,81
+Lavaca,Precinct 430,Commissioner of Agriculture,,REP,James White,112,5,23,84
+Lavaca,Precinct 231,Commissioner of Agriculture,,REP,James White,139,9,84,46
+Lavaca,Precinct 101,Commissioner of Agriculture,,REP,Carey A. Counsil,32,0,24,8
+Lavaca,Precinct 102,Commissioner of Agriculture,,REP,Carey A. Counsil,27,1,12,14
+Lavaca,Precinct 208,Commissioner of Agriculture,,REP,Carey A. Counsil,18,1,6,11
+Lavaca,Precinct 309,Commissioner of Agriculture,,REP,Carey A. Counsil,14,0,4,10
+Lavaca,Precinct 311,Commissioner of Agriculture,,REP,Carey A. Counsil,6,0,3,3
+Lavaca,Precinct 416,Commissioner of Agriculture,,REP,Carey A. Counsil,13,1,6,6
+Lavaca,Precinct 119,Commissioner of Agriculture,,REP,Carey A. Counsil,19,1,13,5
+Lavaca,Precinct 223,Commissioner of Agriculture,,REP,Carey A. Counsil,13,0,4,9
+Lavaca,Precinct 329,Commissioner of Agriculture,,REP,Carey A. Counsil,21,3,4,14
+Lavaca,Precinct 430,Commissioner of Agriculture,,REP,Carey A. Counsil,35,0,4,31
+Lavaca,Precinct 231,Commissioner of Agriculture,,REP,Carey A. Counsil,41,5,22,14
+Lavaca,Precinct 101,Commissioner of Agriculture,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,Commissioner of Agriculture,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,Commissioner of Agriculture,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,Commissioner of Agriculture,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,Commissioner of Agriculture,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,Commissioner of Agriculture,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,Commissioner of Agriculture,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,Commissioner of Agriculture,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,Commissioner of Agriculture,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,Commissioner of Agriculture,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,Commissioner of Agriculture,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,Commissioner of Agriculture,,REP,UNDER VOTES,109,2,63,44
+Lavaca,Precinct 102,Commissioner of Agriculture,,REP,UNDER VOTES,115,3,64,48
+Lavaca,Precinct 208,Commissioner of Agriculture,,REP,UNDER VOTES,53,1,25,27
+Lavaca,Precinct 309,Commissioner of Agriculture,,REP,UNDER VOTES,103,4,12,87
+Lavaca,Precinct 311,Commissioner of Agriculture,,REP,UNDER VOTES,37,3,7,27
+Lavaca,Precinct 416,Commissioner of Agriculture,,REP,UNDER VOTES,54,0,22,32
+Lavaca,Precinct 119,Commissioner of Agriculture,,REP,UNDER VOTES,43,5,22,16
+Lavaca,Precinct 223,Commissioner of Agriculture,,REP,UNDER VOTES,95,2,23,70
+Lavaca,Precinct 329,Commissioner of Agriculture,,REP,UNDER VOTES,77,4,10,63
+Lavaca,Precinct 430,Commissioner of Agriculture,,REP,UNDER VOTES,76,3,14,59
+Lavaca,Precinct 231,Commissioner of Agriculture,,REP,UNDER VOTES,139,6,91,42
+Lavaca,Precinct 101,Railroad Commissioner,,REP,Tom Slocum Jr,109,6,82,21
+Lavaca,Precinct 102,Railroad Commissioner,,REP,Tom Slocum Jr,121,3,80,38
+Lavaca,Precinct 208,Railroad Commissioner,,REP,Tom Slocum Jr,66,1,18,47
+Lavaca,Precinct 309,Railroad Commissioner,,REP,Tom Slocum Jr,84,6,14,64
+Lavaca,Precinct 311,Railroad Commissioner,,REP,Tom Slocum Jr,53,3,17,33
+Lavaca,Precinct 416,Railroad Commissioner,,REP,Tom Slocum Jr,50,1,21,28
+Lavaca,Precinct 119,Railroad Commissioner,,REP,Tom Slocum Jr,54,2,36,16
+Lavaca,Precinct 223,Railroad Commissioner,,REP,Tom Slocum Jr,82,3,10,69
+Lavaca,Precinct 329,Railroad Commissioner,,REP,Tom Slocum Jr,104,2,33,69
+Lavaca,Precinct 430,Railroad Commissioner,,REP,Tom Slocum Jr,105,2,19,84
+Lavaca,Precinct 231,Railroad Commissioner,,REP,Tom Slocum Jr,107,8,58,41
+Lavaca,Precinct 101,Railroad Commissioner,,REP,Sarah Stogner,57,1,41,15
+Lavaca,Precinct 102,Railroad Commissioner,,REP,Sarah Stogner,62,1,35,26
+Lavaca,Precinct 208,Railroad Commissioner,,REP,Sarah Stogner,40,0,18,22
+Lavaca,Precinct 309,Railroad Commissioner,,REP,Sarah Stogner,43,1,13,29
+Lavaca,Precinct 311,Railroad Commissioner,,REP,Sarah Stogner,33,1,9,23
+Lavaca,Precinct 416,Railroad Commissioner,,REP,Sarah Stogner,26,1,11,14
+Lavaca,Precinct 119,Railroad Commissioner,,REP,Sarah Stogner,36,3,18,15
+Lavaca,Precinct 223,Railroad Commissioner,,REP,Sarah Stogner,36,3,9,24
+Lavaca,Precinct 329,Railroad Commissioner,,REP,Sarah Stogner,58,0,21,37
+Lavaca,Precinct 430,Railroad Commissioner,,REP,Sarah Stogner,55,5,11,39
+Lavaca,Precinct 231,Railroad Commissioner,,REP,Sarah Stogner,71,5,50,16
+Lavaca,Precinct 101,Railroad Commissioner,,REP,Dawayne Tipton,36,1,15,20
+Lavaca,Precinct 102,Railroad Commissioner,,REP,Dawayne Tipton,31,0,20,11
+Lavaca,Precinct 208,Railroad Commissioner,,REP,Dawayne Tipton,27,0,11,16
+Lavaca,Precinct 309,Railroad Commissioner,,REP,Dawayne Tipton,34,1,11,22
+Lavaca,Precinct 311,Railroad Commissioner,,REP,Dawayne Tipton,16,0,6,10
+Lavaca,Precinct 416,Railroad Commissioner,,REP,Dawayne Tipton,17,0,7,10
+Lavaca,Precinct 119,Railroad Commissioner,,REP,Dawayne Tipton,26,3,13,10
+Lavaca,Precinct 223,Railroad Commissioner,,REP,Dawayne Tipton,34,4,9,21
+Lavaca,Precinct 329,Railroad Commissioner,,REP,Dawayne Tipton,51,4,12,35
+Lavaca,Precinct 430,Railroad Commissioner,,REP,Dawayne Tipton,30,1,4,25
+Lavaca,Precinct 231,Railroad Commissioner,,REP,Dawayne Tipton,45,4,26,15
+Lavaca,Precinct 101,Railroad Commissioner,,REP,"Marvin ""Sarge"" Summers",44,3,24,17
+Lavaca,Precinct 102,Railroad Commissioner,,REP,"Marvin ""Sarge"" Summers",49,5,24,20
+Lavaca,Precinct 208,Railroad Commissioner,,REP,"Marvin ""Sarge"" Summers",28,1,9,18
+Lavaca,Precinct 309,Railroad Commissioner,,REP,"Marvin ""Sarge"" Summers",28,4,7,17
+Lavaca,Precinct 311,Railroad Commissioner,,REP,"Marvin ""Sarge"" Summers",20,0,5,15
+Lavaca,Precinct 416,Railroad Commissioner,,REP,"Marvin ""Sarge"" Summers",26,0,11,15
+Lavaca,Precinct 119,Railroad Commissioner,,REP,"Marvin ""Sarge"" Summers",26,2,15,9
+Lavaca,Precinct 223,Railroad Commissioner,,REP,"Marvin ""Sarge"" Summers",33,2,7,24
+Lavaca,Precinct 329,Railroad Commissioner,,REP,"Marvin ""Sarge"" Summers",41,4,14,23
+Lavaca,Precinct 430,Railroad Commissioner,,REP,"Marvin ""Sarge"" Summers",33,2,4,27
+Lavaca,Precinct 231,Railroad Commissioner,,REP,"Marvin ""Sarge"" Summers",49,0,27,22
+Lavaca,Precinct 101,Railroad Commissioner,,REP,Wayne Christian,151,8,109,34
+Lavaca,Precinct 102,Railroad Commissioner,,REP,Wayne Christian,128,4,86,38
+Lavaca,Precinct 208,Railroad Commissioner,,REP,Wayne Christian,91,3,31,57
+Lavaca,Precinct 309,Railroad Commissioner,,REP,Wayne Christian,99,5,15,79
+Lavaca,Precinct 311,Railroad Commissioner,,REP,Wayne Christian,53,3,17,33
+Lavaca,Precinct 416,Railroad Commissioner,,REP,Wayne Christian,55,2,25,28
+Lavaca,Precinct 119,Railroad Commissioner,,REP,Wayne Christian,77,2,51,24
+Lavaca,Precinct 223,Railroad Commissioner,,REP,Wayne Christian,120,5,35,80
+Lavaca,Precinct 329,Railroad Commissioner,,REP,Wayne Christian,94,8,38,48
+Lavaca,Precinct 430,Railroad Commissioner,,REP,Wayne Christian,105,9,22,74
+Lavaca,Precinct 231,Railroad Commissioner,,REP,Wayne Christian,139,6,94,39
+Lavaca,Precinct 101,Railroad Commissioner,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,Railroad Commissioner,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,Railroad Commissioner,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,Railroad Commissioner,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,Railroad Commissioner,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,Railroad Commissioner,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,Railroad Commissioner,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,Railroad Commissioner,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,Railroad Commissioner,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,Railroad Commissioner,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,Railroad Commissioner,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,Railroad Commissioner,,REP,UNDER VOTES,191,6,112,73
+Lavaca,Precinct 102,Railroad Commissioner,,REP,UNDER VOTES,190,3,114,73
+Lavaca,Precinct 208,Railroad Commissioner,,REP,UNDER VOTES,79,2,32,45
+Lavaca,Precinct 309,Railroad Commissioner,,REP,UNDER VOTES,140,5,21,114
+Lavaca,Precinct 311,Railroad Commissioner,,REP,UNDER VOTES,49,4,11,34
+Lavaca,Precinct 416,Railroad Commissioner,,REP,UNDER VOTES,78,1,30,47
+Lavaca,Precinct 119,Railroad Commissioner,,REP,UNDER VOTES,72,6,38,28
+Lavaca,Precinct 223,Railroad Commissioner,,REP,UNDER VOTES,138,3,34,101
+Lavaca,Precinct 329,Railroad Commissioner,,REP,UNDER VOTES,117,4,24,89
+Lavaca,Precinct 430,Railroad Commissioner,,REP,UNDER VOTES,108,6,18,84
+Lavaca,Precinct 231,Railroad Commissioner,,REP,UNDER VOTES,183,6,121,56
+Lavaca,Precinct 101,"Justice, Supreme Court, Pl 3",,REP,Debra Lehrmann,379,22,259,98
+Lavaca,Precinct 102,"Justice, Supreme Court, Pl 3",,REP,Debra Lehrmann,365,13,230,122
+Lavaca,Precinct 208,"Justice, Supreme Court, Pl 3",,REP,Debra Lehrmann,220,3,77,140
+Lavaca,Precinct 309,"Justice, Supreme Court, Pl 3",,REP,Debra Lehrmann,282,16,53,213
+Lavaca,Precinct 311,"Justice, Supreme Court, Pl 3",,REP,Debra Lehrmann,168,10,52,106
+Lavaca,Precinct 416,"Justice, Supreme Court, Pl 3",,REP,Debra Lehrmann,165,5,70,90
+Lavaca,Precinct 119,"Justice, Supreme Court, Pl 3",,REP,Debra Lehrmann,203,11,121,71
+Lavaca,Precinct 223,"Justice, Supreme Court, Pl 3",,REP,Debra Lehrmann,286,17,66,203
+Lavaca,Precinct 329,"Justice, Supreme Court, Pl 3",,REP,Debra Lehrmann,335,17,110,208
+Lavaca,Precinct 430,"Justice, Supreme Court, Pl 3",,REP,Debra Lehrmann,318,19,57,242
+Lavaca,Precinct 231,"Justice, Supreme Court, Pl 3",,REP,Debra Lehrmann,383,21,236,126
+Lavaca,Precinct 101,"Justice, Supreme Court, Pl 3",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,"Justice, Supreme Court, Pl 3",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,"Justice, Supreme Court, Pl 3",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,"Justice, Supreme Court, Pl 3",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,"Justice, Supreme Court, Pl 3",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,"Justice, Supreme Court, Pl 3",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,"Justice, Supreme Court, Pl 3",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,"Justice, Supreme Court, Pl 3",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,"Justice, Supreme Court, Pl 3",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,"Justice, Supreme Court, Pl 3",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,"Justice, Supreme Court, Pl 3",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,"Justice, Supreme Court, Pl 3",,REP,UNDER VOTES,209,3,124,82
+Lavaca,Precinct 102,"Justice, Supreme Court, Pl 3",,REP,UNDER VOTES,216,3,129,84
+Lavaca,Precinct 208,"Justice, Supreme Court, Pl 3",,REP,UNDER VOTES,111,4,42,65
+Lavaca,Precinct 309,"Justice, Supreme Court, Pl 3",,REP,UNDER VOTES,146,6,28,112
+Lavaca,Precinct 311,"Justice, Supreme Court, Pl 3",,REP,UNDER VOTES,56,1,13,42
+Lavaca,Precinct 416,"Justice, Supreme Court, Pl 3",,REP,UNDER VOTES,87,0,35,52
+Lavaca,Precinct 119,"Justice, Supreme Court, Pl 3",,REP,UNDER VOTES,88,7,50,31
+Lavaca,Precinct 223,"Justice, Supreme Court, Pl 3",,REP,UNDER VOTES,157,3,38,116
+Lavaca,Precinct 329,"Justice, Supreme Court, Pl 3",,REP,UNDER VOTES,130,5,32,93
+Lavaca,Precinct 430,"Justice, Supreme Court, Pl 3",,REP,UNDER VOTES,118,6,21,91
+Lavaca,Precinct 231,"Justice, Supreme Court, Pl 3",,REP,UNDER VOTES,211,8,140,63
+Lavaca,Precinct 101,"Justice, Supreme Court, Pl 5",,REP,Rebeca Huddle,368,20,255,93
+Lavaca,Precinct 102,"Justice, Supreme Court, Pl 5",,REP,Rebeca Huddle,365,13,228,124
+Lavaca,Precinct 208,"Justice, Supreme Court, Pl 5",,REP,Rebeca Huddle,218,4,78,136
+Lavaca,Precinct 309,"Justice, Supreme Court, Pl 5",,REP,Rebeca Huddle,278,16,53,209
+Lavaca,Precinct 311,"Justice, Supreme Court, Pl 5",,REP,Rebeca Huddle,170,10,51,109
+Lavaca,Precinct 416,"Justice, Supreme Court, Pl 5",,REP,Rebeca Huddle,164,5,69,90
+Lavaca,Precinct 119,"Justice, Supreme Court, Pl 5",,REP,Rebeca Huddle,204,11,122,71
+Lavaca,Precinct 223,"Justice, Supreme Court, Pl 5",,REP,Rebeca Huddle,280,17,64,199
+Lavaca,Precinct 329,"Justice, Supreme Court, Pl 5",,REP,Rebeca Huddle,336,17,111,208
+Lavaca,Precinct 430,"Justice, Supreme Court, Pl 5",,REP,Rebeca Huddle,317,19,57,241
+Lavaca,Precinct 231,"Justice, Supreme Court, Pl 5",,REP,Rebeca Huddle,378,19,235,124
+Lavaca,Precinct 101,"Justice, Supreme Court, Pl 5",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,"Justice, Supreme Court, Pl 5",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,"Justice, Supreme Court, Pl 5",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,"Justice, Supreme Court, Pl 5",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,"Justice, Supreme Court, Pl 5",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,"Justice, Supreme Court, Pl 5",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,"Justice, Supreme Court, Pl 5",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,"Justice, Supreme Court, Pl 5",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,"Justice, Supreme Court, Pl 5",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,"Justice, Supreme Court, Pl 5",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,"Justice, Supreme Court, Pl 5",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,"Justice, Supreme Court, Pl 5",,REP,UNDER VOTES,220,5,128,87
+Lavaca,Precinct 102,"Justice, Supreme Court, Pl 5",,REP,UNDER VOTES,216,3,131,82
+Lavaca,Precinct 208,"Justice, Supreme Court, Pl 5",,REP,UNDER VOTES,113,3,41,69
+Lavaca,Precinct 309,"Justice, Supreme Court, Pl 5",,REP,UNDER VOTES,150,6,28,116
+Lavaca,Precinct 311,"Justice, Supreme Court, Pl 5",,REP,UNDER VOTES,54,1,14,39
+Lavaca,Precinct 416,"Justice, Supreme Court, Pl 5",,REP,UNDER VOTES,88,0,36,52
+Lavaca,Precinct 119,"Justice, Supreme Court, Pl 5",,REP,UNDER VOTES,87,7,49,31
+Lavaca,Precinct 223,"Justice, Supreme Court, Pl 5",,REP,UNDER VOTES,163,3,40,120
+Lavaca,Precinct 329,"Justice, Supreme Court, Pl 5",,REP,UNDER VOTES,129,5,31,93
+Lavaca,Precinct 430,"Justice, Supreme Court, Pl 5",,REP,UNDER VOTES,119,6,21,92
+Lavaca,Precinct 231,"Justice, Supreme Court, Pl 5",,REP,UNDER VOTES,216,10,141,65
+Lavaca,Precinct 101,"Justice, Supreme Court, Pl 9",,REP,Evan Young,224,13,149,62
+Lavaca,Precinct 102,"Justice, Supreme Court, Pl 9",,REP,Evan Young,218,4,133,81
+Lavaca,Precinct 208,"Justice, Supreme Court, Pl 9",,REP,Evan Young,131,3,47,81
+Lavaca,Precinct 309,"Justice, Supreme Court, Pl 9",,REP,Evan Young,158,9,36,113
+Lavaca,Precinct 311,"Justice, Supreme Court, Pl 9",,REP,Evan Young,104,8,30,66
+Lavaca,Precinct 416,"Justice, Supreme Court, Pl 9",,REP,Evan Young,99,2,47,50
+Lavaca,Precinct 119,"Justice, Supreme Court, Pl 9",,REP,Evan Young,115,4,69,42
+Lavaca,Precinct 223,"Justice, Supreme Court, Pl 9",,REP,Evan Young,177,9,42,126
+Lavaca,Precinct 329,"Justice, Supreme Court, Pl 9",,REP,Evan Young,202,10,64,128
+Lavaca,Precinct 430,"Justice, Supreme Court, Pl 9",,REP,Evan Young,205,12,29,164
+Lavaca,Precinct 231,"Justice, Supreme Court, Pl 9",,REP,Evan Young,222,14,133,75
+Lavaca,Precinct 101,"Justice, Supreme Court, Pl 9",,REP,David J. Schenck,143,5,103,35
+Lavaca,Precinct 102,"Justice, Supreme Court, Pl 9",,REP,David J. Schenck,142,8,85,49
+Lavaca,Precinct 208,"Justice, Supreme Court, Pl 9",,REP,David J. Schenck,90,3,27,60
+Lavaca,Precinct 309,"Justice, Supreme Court, Pl 9",,REP,David J. Schenck,113,6,19,88
+Lavaca,Precinct 311,"Justice, Supreme Court, Pl 9",,REP,David J. Schenck,63,0,19,44
+Lavaca,Precinct 416,"Justice, Supreme Court, Pl 9",,REP,David J. Schenck,61,2,22,37
+Lavaca,Precinct 119,"Justice, Supreme Court, Pl 9",,REP,David J. Schenck,82,3,57,22
+Lavaca,Precinct 223,"Justice, Supreme Court, Pl 9",,REP,David J. Schenck,97,6,19,72
+Lavaca,Precinct 329,"Justice, Supreme Court, Pl 9",,REP,David J. Schenck,126,6,43,77
+Lavaca,Precinct 430,"Justice, Supreme Court, Pl 9",,REP,David J. Schenck,110,7,23,80
+Lavaca,Precinct 231,"Justice, Supreme Court, Pl 9",,REP,David J. Schenck,153,6,94,53
+Lavaca,Precinct 101,"Justice, Supreme Court, Pl 9",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,"Justice, Supreme Court, Pl 9",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,"Justice, Supreme Court, Pl 9",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,"Justice, Supreme Court, Pl 9",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,"Justice, Supreme Court, Pl 9",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,"Justice, Supreme Court, Pl 9",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,"Justice, Supreme Court, Pl 9",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,"Justice, Supreme Court, Pl 9",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,"Justice, Supreme Court, Pl 9",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,"Justice, Supreme Court, Pl 9",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,"Justice, Supreme Court, Pl 9",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,"Justice, Supreme Court, Pl 9",,REP,UNDER VOTES,221,7,131,83
+Lavaca,Precinct 102,"Justice, Supreme Court, Pl 9",,REP,UNDER VOTES,221,4,141,76
+Lavaca,Precinct 208,"Justice, Supreme Court, Pl 9",,REP,UNDER VOTES,110,1,45,64
+Lavaca,Precinct 309,"Justice, Supreme Court, Pl 9",,REP,UNDER VOTES,157,7,26,124
+Lavaca,Precinct 311,"Justice, Supreme Court, Pl 9",,REP,UNDER VOTES,57,3,16,38
+Lavaca,Precinct 416,"Justice, Supreme Court, Pl 9",,REP,UNDER VOTES,92,1,36,55
+Lavaca,Precinct 119,"Justice, Supreme Court, Pl 9",,REP,UNDER VOTES,94,11,45,38
+Lavaca,Precinct 223,"Justice, Supreme Court, Pl 9",,REP,UNDER VOTES,169,5,43,121
+Lavaca,Precinct 329,"Justice, Supreme Court, Pl 9",,REP,UNDER VOTES,137,6,35,96
+Lavaca,Precinct 430,"Justice, Supreme Court, Pl 9",,REP,UNDER VOTES,121,6,26,89
+Lavaca,Precinct 231,"Justice, Supreme Court, Pl 9",,REP,UNDER VOTES,219,9,149,61
+Lavaca,Precinct 101,"Judge, Ct of Crim App, Pl 2",,REP,Mary Lou Keel,357,20,243,94
+Lavaca,Precinct 102,"Judge, Ct of Crim App, Pl 2",,REP,Mary Lou Keel,353,13,225,115
+Lavaca,Precinct 208,"Judge, Ct of Crim App, Pl 2",,REP,Mary Lou Keel,208,3,74,131
+Lavaca,Precinct 309,"Judge, Ct of Crim App, Pl 2",,REP,Mary Lou Keel,264,16,48,200
+Lavaca,Precinct 311,"Judge, Ct of Crim App, Pl 2",,REP,Mary Lou Keel,159,9,49,101
+Lavaca,Precinct 416,"Judge, Ct of Crim App, Pl 2",,REP,Mary Lou Keel,154,5,66,83
+Lavaca,Precinct 119,"Judge, Ct of Crim App, Pl 2",,REP,Mary Lou Keel,188,11,115,62
+Lavaca,Precinct 223,"Judge, Ct of Crim App, Pl 2",,REP,Mary Lou Keel,266,17,66,183
+Lavaca,Precinct 329,"Judge, Ct of Crim App, Pl 2",,REP,Mary Lou Keel,316,18,101,197
+Lavaca,Precinct 430,"Judge, Ct of Crim App, Pl 2",,REP,Mary Lou Keel,301,19,53,229
+Lavaca,Precinct 231,"Judge, Ct of Crim App, Pl 2",,REP,Mary Lou Keel,366,19,224,123
+Lavaca,Precinct 101,"Judge, Ct of Crim App, Pl 2",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,"Judge, Ct of Crim App, Pl 2",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,"Judge, Ct of Crim App, Pl 2",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,"Judge, Ct of Crim App, Pl 2",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,"Judge, Ct of Crim App, Pl 2",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,"Judge, Ct of Crim App, Pl 2",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,"Judge, Ct of Crim App, Pl 2",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,"Judge, Ct of Crim App, Pl 2",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,"Judge, Ct of Crim App, Pl 2",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,"Judge, Ct of Crim App, Pl 2",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,"Judge, Ct of Crim App, Pl 2",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,"Judge, Ct of Crim App, Pl 2",,REP,UNDER VOTES,231,5,140,86
+Lavaca,Precinct 102,"Judge, Ct of Crim App, Pl 2",,REP,UNDER VOTES,228,3,134,91
+Lavaca,Precinct 208,"Judge, Ct of Crim App, Pl 2",,REP,UNDER VOTES,123,4,45,74
+Lavaca,Precinct 309,"Judge, Ct of Crim App, Pl 2",,REP,UNDER VOTES,164,6,33,125
+Lavaca,Precinct 311,"Judge, Ct of Crim App, Pl 2",,REP,UNDER VOTES,65,2,16,47
+Lavaca,Precinct 416,"Judge, Ct of Crim App, Pl 2",,REP,UNDER VOTES,98,0,39,59
+Lavaca,Precinct 119,"Judge, Ct of Crim App, Pl 2",,REP,UNDER VOTES,103,7,56,40
+Lavaca,Precinct 223,"Judge, Ct of Crim App, Pl 2",,REP,UNDER VOTES,177,3,38,136
+Lavaca,Precinct 329,"Judge, Ct of Crim App, Pl 2",,REP,UNDER VOTES,149,4,41,104
+Lavaca,Precinct 430,"Judge, Ct of Crim App, Pl 2",,REP,UNDER VOTES,135,6,25,104
+Lavaca,Precinct 231,"Judge, Ct of Crim App, Pl 2",,REP,UNDER VOTES,228,10,152,66
+Lavaca,Precinct 101,"Judge, Ct of Crim App, Pl 5",,REP,Scott Walker,233,13,162,58
+Lavaca,Precinct 102,"Judge, Ct of Crim App, Pl 5",,REP,Scott Walker,238,8,149,81
+Lavaca,Precinct 208,"Judge, Ct of Crim App, Pl 5",,REP,Scott Walker,130,0,45,85
+Lavaca,Precinct 309,"Judge, Ct of Crim App, Pl 5",,REP,Scott Walker,172,11,38,123
+Lavaca,Precinct 311,"Judge, Ct of Crim App, Pl 5",,REP,Scott Walker,106,6,32,68
+Lavaca,Precinct 416,"Judge, Ct of Crim App, Pl 5",,REP,Scott Walker,107,2,45,60
+Lavaca,Precinct 119,"Judge, Ct of Crim App, Pl 5",,REP,Scott Walker,124,5,71,48
+Lavaca,Precinct 223,"Judge, Ct of Crim App, Pl 5",,REP,Scott Walker,184,11,43,130
+Lavaca,Precinct 329,"Judge, Ct of Crim App, Pl 5",,REP,Scott Walker,214,13,77,124
+Lavaca,Precinct 430,"Judge, Ct of Crim App, Pl 5",,REP,Scott Walker,199,18,37,144
+Lavaca,Precinct 231,"Judge, Ct of Crim App, Pl 5",,REP,Scott Walker,241,15,145,81
+Lavaca,Precinct 101,"Judge, Ct of Crim App, Pl 5",,REP,Clint Morgan,130,6,88,36
+Lavaca,Precinct 102,"Judge, Ct of Crim App, Pl 5",,REP,Clint Morgan,111,4,69,38
+Lavaca,Precinct 208,"Judge, Ct of Crim App, Pl 5",,REP,Clint Morgan,88,6,26,56
+Lavaca,Precinct 309,"Judge, Ct of Crim App, Pl 5",,REP,Clint Morgan,98,4,16,78
+Lavaca,Precinct 311,"Judge, Ct of Crim App, Pl 5",,REP,Clint Morgan,55,1,19,35
+Lavaca,Precinct 416,"Judge, Ct of Crim App, Pl 5",,REP,Clint Morgan,49,2,21,26
+Lavaca,Precinct 119,"Judge, Ct of Crim App, Pl 5",,REP,Clint Morgan,67,3,46,18
+Lavaca,Precinct 223,"Judge, Ct of Crim App, Pl 5",,REP,Clint Morgan,85,4,21,60
+Lavaca,Precinct 329,"Judge, Ct of Crim App, Pl 5",,REP,Clint Morgan,105,5,30,70
+Lavaca,Precinct 430,"Judge, Ct of Crim App, Pl 5",,REP,Clint Morgan,117,2,23,92
+Lavaca,Precinct 231,"Judge, Ct of Crim App, Pl 5",,REP,Clint Morgan,125,6,80,39
+Lavaca,Precinct 101,"Judge, Ct of Crim App, Pl 5",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,"Judge, Ct of Crim App, Pl 5",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,"Judge, Ct of Crim App, Pl 5",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,"Judge, Ct of Crim App, Pl 5",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,"Judge, Ct of Crim App, Pl 5",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,"Judge, Ct of Crim App, Pl 5",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,"Judge, Ct of Crim App, Pl 5",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,"Judge, Ct of Crim App, Pl 5",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,"Judge, Ct of Crim App, Pl 5",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,"Judge, Ct of Crim App, Pl 5",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,"Judge, Ct of Crim App, Pl 5",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,"Judge, Ct of Crim App, Pl 5",,REP,UNDER VOTES,225,6,133,86
+Lavaca,Precinct 102,"Judge, Ct of Crim App, Pl 5",,REP,UNDER VOTES,232,4,141,87
+Lavaca,Precinct 208,"Judge, Ct of Crim App, Pl 5",,REP,UNDER VOTES,113,1,48,64
+Lavaca,Precinct 309,"Judge, Ct of Crim App, Pl 5",,REP,UNDER VOTES,158,7,27,124
+Lavaca,Precinct 311,"Judge, Ct of Crim App, Pl 5",,REP,UNDER VOTES,63,4,14,45
+Lavaca,Precinct 416,"Judge, Ct of Crim App, Pl 5",,REP,UNDER VOTES,96,1,39,56
+Lavaca,Precinct 119,"Judge, Ct of Crim App, Pl 5",,REP,UNDER VOTES,100,10,54,36
+Lavaca,Precinct 223,"Judge, Ct of Crim App, Pl 5",,REP,UNDER VOTES,174,5,40,129
+Lavaca,Precinct 329,"Judge, Ct of Crim App, Pl 5",,REP,UNDER VOTES,146,4,35,107
+Lavaca,Precinct 430,"Judge, Ct of Crim App, Pl 5",,REP,UNDER VOTES,120,5,18,97
+Lavaca,Precinct 231,"Judge, Ct of Crim App, Pl 5",,REP,UNDER VOTES,228,8,151,69
+Lavaca,Precinct 101,"Judge, Ct of Crim App, Pl 6",,REP,"Jesse F. McClure, III",354,21,241,92
+Lavaca,Precinct 102,"Judge, Ct of Crim App, Pl 6",,REP,"Jesse F. McClure, III",343,13,214,116
+Lavaca,Precinct 208,"Judge, Ct of Crim App, Pl 6",,REP,"Jesse F. McClure, III",202,3,67,132
+Lavaca,Precinct 309,"Judge, Ct of Crim App, Pl 6",,REP,"Jesse F. McClure, III",268,16,52,200
+Lavaca,Precinct 311,"Judge, Ct of Crim App, Pl 6",,REP,"Jesse F. McClure, III",160,10,50,100
+Lavaca,Precinct 416,"Judge, Ct of Crim App, Pl 6",,REP,"Jesse F. McClure, III",145,5,61,79
+Lavaca,Precinct 119,"Judge, Ct of Crim App, Pl 6",,REP,"Jesse F. McClure, III",192,11,116,65
+Lavaca,Precinct 223,"Judge, Ct of Crim App, Pl 6",,REP,"Jesse F. McClure, III",265,17,60,188
+Lavaca,Precinct 329,"Judge, Ct of Crim App, Pl 6",,REP,"Jesse F. McClure, III",318,18,103,197
+Lavaca,Precinct 430,"Judge, Ct of Crim App, Pl 6",,REP,"Jesse F. McClure, III",301,18,57,226
+Lavaca,Precinct 231,"Judge, Ct of Crim App, Pl 6",,REP,"Jesse F. McClure, III",363,18,222,123
+Lavaca,Precinct 101,"Judge, Ct of Crim App, Pl 6",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,"Judge, Ct of Crim App, Pl 6",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,"Judge, Ct of Crim App, Pl 6",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,"Judge, Ct of Crim App, Pl 6",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,"Judge, Ct of Crim App, Pl 6",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,"Judge, Ct of Crim App, Pl 6",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,"Judge, Ct of Crim App, Pl 6",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,"Judge, Ct of Crim App, Pl 6",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,"Judge, Ct of Crim App, Pl 6",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,"Judge, Ct of Crim App, Pl 6",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,"Judge, Ct of Crim App, Pl 6",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,"Judge, Ct of Crim App, Pl 6",,REP,UNDER VOTES,234,4,142,88
+Lavaca,Precinct 102,"Judge, Ct of Crim App, Pl 6",,REP,UNDER VOTES,238,3,145,90
+Lavaca,Precinct 208,"Judge, Ct of Crim App, Pl 6",,REP,UNDER VOTES,129,4,52,73
+Lavaca,Precinct 309,"Judge, Ct of Crim App, Pl 6",,REP,UNDER VOTES,160,6,29,125
+Lavaca,Precinct 311,"Judge, Ct of Crim App, Pl 6",,REP,UNDER VOTES,64,1,15,48
+Lavaca,Precinct 416,"Judge, Ct of Crim App, Pl 6",,REP,UNDER VOTES,107,0,44,63
+Lavaca,Precinct 119,"Judge, Ct of Crim App, Pl 6",,REP,UNDER VOTES,99,7,55,37
+Lavaca,Precinct 223,"Judge, Ct of Crim App, Pl 6",,REP,UNDER VOTES,178,3,44,131
+Lavaca,Precinct 329,"Judge, Ct of Crim App, Pl 6",,REP,UNDER VOTES,147,4,39,104
+Lavaca,Precinct 430,"Judge, Ct of Crim App, Pl 6",,REP,UNDER VOTES,135,7,21,107
+Lavaca,Precinct 231,"Judge, Ct of Crim App, Pl 6",,REP,UNDER VOTES,231,11,154,66
+Lavaca,Precinct 101,"Member, State BoE, Dist 3",,REP,Lana Jean Holland,144,5,98,41
+Lavaca,Precinct 102,"Member, State BoE, Dist 3",,REP,Lana Jean Holland,152,7,96,49
+Lavaca,Precinct 208,"Member, State BoE, Dist 3",,REP,Lana Jean Holland,98,4,27,67
+Lavaca,Precinct 309,"Member, State BoE, Dist 3",,REP,Lana Jean Holland,120,5,22,93
+Lavaca,Precinct 311,"Member, State BoE, Dist 3",,REP,Lana Jean Holland,58,3,19,36
+Lavaca,Precinct 416,"Member, State BoE, Dist 3",,REP,Lana Jean Holland,61,3,20,38
+Lavaca,Precinct 119,"Member, State BoE, Dist 3",,REP,Lana Jean Holland,93,6,61,26
+Lavaca,Precinct 223,"Member, State BoE, Dist 3",,REP,Lana Jean Holland,109,3,25,81
+Lavaca,Precinct 329,"Member, State BoE, Dist 3",,REP,Lana Jean Holland,132,7,39,86
+Lavaca,Precinct 430,"Member, State BoE, Dist 3",,REP,Lana Jean Holland,145,9,30,106
+Lavaca,Precinct 231,"Member, State BoE, Dist 3",,REP,Lana Jean Holland,140,13,88,39
+Lavaca,Precinct 101,"Member, State BoE, Dist 3",,REP,Ken Morrow,237,17,163,57
+Lavaca,Precinct 102,"Member, State BoE, Dist 3",,REP,Ken Morrow,206,6,132,68
+Lavaca,Precinct 208,"Member, State BoE, Dist 3",,REP,Ken Morrow,128,2,46,80
+Lavaca,Precinct 309,"Member, State BoE, Dist 3",,REP,Ken Morrow,177,13,37,127
+Lavaca,Precinct 311,"Member, State BoE, Dist 3",,REP,Ken Morrow,101,3,30,68
+Lavaca,Precinct 416,"Member, State BoE, Dist 3",,REP,Ken Morrow,101,1,45,55
+Lavaca,Precinct 119,"Member, State BoE, Dist 3",,REP,Ken Morrow,113,3,66,44
+Lavaca,Precinct 223,"Member, State BoE, Dist 3",,REP,Ken Morrow,177,8,39,130
+Lavaca,Precinct 329,"Member, State BoE, Dist 3",,REP,Ken Morrow,216,7,74,135
+Lavaca,Precinct 430,"Member, State BoE, Dist 3",,REP,Ken Morrow,178,11,31,136
+Lavaca,Precinct 231,"Member, State BoE, Dist 3",,REP,Ken Morrow,253,8,156,89
+Lavaca,Precinct 101,"Member, State BoE, Dist 3",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,"Member, State BoE, Dist 3",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,"Member, State BoE, Dist 3",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,"Member, State BoE, Dist 3",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,"Member, State BoE, Dist 3",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,"Member, State BoE, Dist 3",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,"Member, State BoE, Dist 3",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,"Member, State BoE, Dist 3",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,"Member, State BoE, Dist 3",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,"Member, State BoE, Dist 3",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,"Member, State BoE, Dist 3",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,"Member, State BoE, Dist 3",,REP,UNDER VOTES,207,3,122,82
+Lavaca,Precinct 102,"Member, State BoE, Dist 3",,REP,UNDER VOTES,223,3,131,89
+Lavaca,Precinct 208,"Member, State BoE, Dist 3",,REP,UNDER VOTES,105,1,46,58
+Lavaca,Precinct 309,"Member, State BoE, Dist 3",,REP,UNDER VOTES,131,4,22,105
+Lavaca,Precinct 311,"Member, State BoE, Dist 3",,REP,UNDER VOTES,65,5,16,44
+Lavaca,Precinct 416,"Member, State BoE, Dist 3",,REP,UNDER VOTES,90,1,40,49
+Lavaca,Precinct 119,"Member, State BoE, Dist 3",,REP,UNDER VOTES,85,9,44,32
+Lavaca,Precinct 223,"Member, State BoE, Dist 3",,REP,UNDER VOTES,157,9,40,108
+Lavaca,Precinct 329,"Member, State BoE, Dist 3",,REP,UNDER VOTES,117,8,29,80
+Lavaca,Precinct 430,"Member, State BoE, Dist 3",,REP,UNDER VOTES,113,5,17,91
+Lavaca,Precinct 231,"Member, State BoE, Dist 3",,REP,UNDER VOTES,201,8,132,61
+Lavaca,Precinct 101,State Senate,18,REP,Lois W. Kolkhorst,478,23,317,138
+Lavaca,Precinct 102,State Senate,18,REP,Lois W. Kolkhorst,449,15,278,156
+Lavaca,Precinct 208,State Senate,18,REP,Lois W. Kolkhorst,265,5,92,168
+Lavaca,Precinct 309,State Senate,18,REP,Lois W. Kolkhorst,332,20,64,248
+Lavaca,Precinct 311,State Senate,18,REP,Lois W. Kolkhorst,189,10,56,123
+Lavaca,Precinct 416,State Senate,18,REP,Lois W. Kolkhorst,189,5,83,101
+Lavaca,Precinct 119,State Senate,18,REP,Lois W. Kolkhorst,223,14,134,75
+Lavaca,Precinct 223,State Senate,18,REP,Lois W. Kolkhorst,333,20,71,242
+Lavaca,Precinct 329,State Senate,18,REP,Lois W. Kolkhorst,387,19,130,238
+Lavaca,Precinct 430,State Senate,18,REP,Lois W. Kolkhorst,364,21,64,279
+Lavaca,Precinct 231,State Senate,18,REP,Lois W. Kolkhorst,464,25,294,145
+Lavaca,Precinct 101,State Senate,18,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,State Senate,18,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,State Senate,18,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,State Senate,18,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,State Senate,18,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,State Senate,18,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,State Senate,18,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,State Senate,18,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,State Senate,18,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,State Senate,18,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,State Senate,18,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,State Senate,18,REP,UNDER VOTES,110,2,66,42
+Lavaca,Precinct 102,State Senate,18,REP,UNDER VOTES,132,1,81,50
+Lavaca,Precinct 208,State Senate,18,REP,UNDER VOTES,66,2,27,37
+Lavaca,Precinct 309,State Senate,18,REP,UNDER VOTES,96,2,17,77
+Lavaca,Precinct 311,State Senate,18,REP,UNDER VOTES,35,1,9,25
+Lavaca,Precinct 416,State Senate,18,REP,UNDER VOTES,63,0,22,41
+Lavaca,Precinct 119,State Senate,18,REP,UNDER VOTES,68,4,37,27
+Lavaca,Precinct 223,State Senate,18,REP,UNDER VOTES,110,0,33,77
+Lavaca,Precinct 329,State Senate,18,REP,UNDER VOTES,78,3,12,63
+Lavaca,Precinct 430,State Senate,18,REP,UNDER VOTES,72,4,14,54
+Lavaca,Precinct 231,State Senate,18,REP,UNDER VOTES,130,4,82,44
+Lavaca,Precinct 101,State House,30,REP,Geanie W. Morrison,447,19,301,127
+Lavaca,Precinct 102,State House,30,REP,Geanie W. Morrison,421,14,260,147
+Lavaca,Precinct 208,State House,30,REP,Geanie W. Morrison,242,5,86,151
+Lavaca,Precinct 309,State House,30,REP,Geanie W. Morrison,320,20,61,239
+Lavaca,Precinct 311,State House,30,REP,Geanie W. Morrison,187,10,57,120
+Lavaca,Precinct 416,State House,30,REP,Geanie W. Morrison,185,5,78,102
+Lavaca,Precinct 119,State House,30,REP,Geanie W. Morrison,205,13,121,71
+Lavaca,Precinct 223,State House,30,REP,Geanie W. Morrison,318,19,70,229
+Lavaca,Precinct 329,State House,30,REP,Geanie W. Morrison,372,19,125,228
+Lavaca,Precinct 430,State House,30,REP,Geanie W. Morrison,354,18,62,274
+Lavaca,Precinct 231,State House,30,REP,Geanie W. Morrison,431,20,272,139
+Lavaca,Precinct 101,State House,30,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,State House,30,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,State House,30,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,State House,30,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,State House,30,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,State House,30,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,State House,30,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,State House,30,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,State House,30,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,State House,30,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,State House,30,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,State House,30,REP,UNDER VOTES,141,6,82,53
+Lavaca,Precinct 102,State House,30,REP,UNDER VOTES,160,2,99,59
+Lavaca,Precinct 208,State House,30,REP,UNDER VOTES,89,2,33,54
+Lavaca,Precinct 309,State House,30,REP,UNDER VOTES,108,2,20,86
+Lavaca,Precinct 311,State House,30,REP,UNDER VOTES,37,1,8,28
+Lavaca,Precinct 416,State House,30,REP,UNDER VOTES,67,0,27,40
+Lavaca,Precinct 119,State House,30,REP,UNDER VOTES,86,5,50,31
+Lavaca,Precinct 223,State House,30,REP,UNDER VOTES,125,1,34,90
+Lavaca,Precinct 329,State House,30,REP,UNDER VOTES,93,3,17,73
+Lavaca,Precinct 430,State House,30,REP,UNDER VOTES,82,7,16,59
+Lavaca,Precinct 231,State House,30,REP,UNDER VOTES,163,9,104,50
+Lavaca,Precinct 101,"Justice, 13th Ct of App Dist, Pl 3",,REP,Aaron Pena,244,14,173,57
+Lavaca,Precinct 102,"Justice, 13th Ct of App Dist, Pl 3",,REP,Aaron Pena,240,9,150,81
+Lavaca,Precinct 208,"Justice, 13th Ct of App Dist, Pl 3",,REP,Aaron Pena,162,3,51,108
+Lavaca,Precinct 309,"Justice, 13th Ct of App Dist, Pl 3",,REP,Aaron Pena,184,6,35,143
+Lavaca,Precinct 311,"Justice, 13th Ct of App Dist, Pl 3",,REP,Aaron Pena,111,6,36,69
+Lavaca,Precinct 416,"Justice, 13th Ct of App Dist, Pl 3",,REP,Aaron Pena,108,1,43,64
+Lavaca,Precinct 119,"Justice, 13th Ct of App Dist, Pl 3",,REP,Aaron Pena,132,5,82,45
+Lavaca,Precinct 223,"Justice, 13th Ct of App Dist, Pl 3",,REP,Aaron Pena,180,8,39,133
+Lavaca,Precinct 329,"Justice, 13th Ct of App Dist, Pl 3",,REP,Aaron Pena,236,9,82,145
+Lavaca,Precinct 430,"Justice, 13th Ct of App Dist, Pl 3",,REP,Aaron Pena,204,16,31,157
+Lavaca,Precinct 231,"Justice, 13th Ct of App Dist, Pl 3",,REP,Aaron Pena,267,10,167,90
+Lavaca,Precinct 101,"Justice, 13th Ct of App Dist, Pl 3",,REP,Ysmael Fonseca,111,6,77,28
+Lavaca,Precinct 102,"Justice, 13th Ct of App Dist, Pl 3",,REP,Ysmael Fonseca,86,2,54,30
+Lavaca,Precinct 208,"Justice, 13th Ct of App Dist, Pl 3",,REP,Ysmael Fonseca,51,3,18,30
+Lavaca,Precinct 309,"Justice, 13th Ct of App Dist, Pl 3",,REP,Ysmael Fonseca,71,5,16,50
+Lavaca,Precinct 311,"Justice, 13th Ct of App Dist, Pl 3",,REP,Ysmael Fonseca,42,3,9,30
+Lavaca,Precinct 416,"Justice, 13th Ct of App Dist, Pl 3",,REP,Ysmael Fonseca,40,2,21,17
+Lavaca,Precinct 119,"Justice, 13th Ct of App Dist, Pl 3",,REP,Ysmael Fonseca,66,3,44,19
+Lavaca,Precinct 223,"Justice, 13th Ct of App Dist, Pl 3",,REP,Ysmael Fonseca,72,3,19,50
+Lavaca,Precinct 329,"Justice, 13th Ct of App Dist, Pl 3",,REP,Ysmael Fonseca,68,5,24,39
+Lavaca,Precinct 430,"Justice, 13th Ct of App Dist, Pl 3",,REP,Ysmael Fonseca,92,2,26,64
+Lavaca,Precinct 231,"Justice, 13th Ct of App Dist, Pl 3",,REP,Ysmael Fonseca,95,8,58,29
+Lavaca,Precinct 101,"Justice, 13th Ct of App Dist, Pl 3",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,"Justice, 13th Ct of App Dist, Pl 3",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,"Justice, 13th Ct of App Dist, Pl 3",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,"Justice, 13th Ct of App Dist, Pl 3",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,"Justice, 13th Ct of App Dist, Pl 3",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,"Justice, 13th Ct of App Dist, Pl 3",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,"Justice, 13th Ct of App Dist, Pl 3",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,"Justice, 13th Ct of App Dist, Pl 3",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,"Justice, 13th Ct of App Dist, Pl 3",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,"Justice, 13th Ct of App Dist, Pl 3",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,"Justice, 13th Ct of App Dist, Pl 3",,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,"Justice, 13th Ct of App Dist, Pl 3",,REP,UNDER VOTES,233,5,133,95
+Lavaca,Precinct 102,"Justice, 13th Ct of App Dist, Pl 3",,REP,UNDER VOTES,255,5,155,95
+Lavaca,Precinct 208,"Justice, 13th Ct of App Dist, Pl 3",,REP,UNDER VOTES,118,1,50,67
+Lavaca,Precinct 309,"Justice, 13th Ct of App Dist, Pl 3",,REP,UNDER VOTES,173,11,30,132
+Lavaca,Precinct 311,"Justice, 13th Ct of App Dist, Pl 3",,REP,UNDER VOTES,71,2,20,49
+Lavaca,Precinct 416,"Justice, 13th Ct of App Dist, Pl 3",,REP,UNDER VOTES,104,2,41,61
+Lavaca,Precinct 119,"Justice, 13th Ct of App Dist, Pl 3",,REP,UNDER VOTES,93,10,45,38
+Lavaca,Precinct 223,"Justice, 13th Ct of App Dist, Pl 3",,REP,UNDER VOTES,191,9,46,136
+Lavaca,Precinct 329,"Justice, 13th Ct of App Dist, Pl 3",,REP,UNDER VOTES,161,8,36,117
+Lavaca,Precinct 430,"Justice, 13th Ct of App Dist, Pl 3",,REP,UNDER VOTES,140,7,21,112
+Lavaca,Precinct 231,"Justice, 13th Ct of App Dist, Pl 3",,REP,UNDER VOTES,232,11,151,70
+Lavaca,Precinct 101,County Judge,,REP,Keith Mudd,450,13,305,132
+Lavaca,Precinct 102,County Judge,,REP,Keith Mudd,417,7,260,150
+Lavaca,Precinct 208,County Judge,,REP,Keith Mudd,232,0,95,137
+Lavaca,Precinct 309,County Judge,,REP,Keith Mudd,289,8,56,225
+Lavaca,Precinct 311,County Judge,,REP,Keith Mudd,152,8,44,100
+Lavaca,Precinct 416,County Judge,,REP,Keith Mudd,148,3,53,92
+Lavaca,Precinct 119,County Judge,,REP,Keith Mudd,136,7,76,53
+Lavaca,Precinct 223,County Judge,,REP,Keith Mudd,290,19,60,211
+Lavaca,Precinct 329,County Judge,,REP,Keith Mudd,290,15,78,197
+Lavaca,Precinct 430,County Judge,,REP,Keith Mudd,205,6,33,166
+Lavaca,Precinct 231,County Judge,,REP,Keith Mudd,431,12,280,139
+Lavaca,Precinct 101,County Judge,,REP,Mark Myers,135,12,77,46
+Lavaca,Precinct 102,County Judge,,REP,Mark Myers,157,9,96,52
+Lavaca,Precinct 208,County Judge,,REP,Mark Myers,96,6,24,66
+Lavaca,Precinct 309,County Judge,,REP,Mark Myers,124,14,22,88
+Lavaca,Precinct 311,County Judge,,REP,Mark Myers,68,3,21,44
+Lavaca,Precinct 416,County Judge,,REP,Mark Myers,89,1,48,40
+Lavaca,Precinct 119,County Judge,,REP,Mark Myers,151,11,91,49
+Lavaca,Precinct 223,County Judge,,REP,Mark Myers,144,1,41,102
+Lavaca,Precinct 329,County Judge,,REP,Mark Myers,167,7,63,97
+Lavaca,Precinct 430,County Judge,,REP,Mark Myers,221,19,43,159
+Lavaca,Precinct 231,County Judge,,REP,Mark Myers,156,16,94,46
+Lavaca,Precinct 101,County Judge,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,County Judge,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,County Judge,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,County Judge,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,County Judge,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,County Judge,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,County Judge,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,County Judge,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,County Judge,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,County Judge,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,County Judge,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,County Judge,,REP,UNDER VOTES,3,0,1,2
+Lavaca,Precinct 102,County Judge,,REP,UNDER VOTES,7,0,3,4
+Lavaca,Precinct 208,County Judge,,REP,UNDER VOTES,3,1,0,2
+Lavaca,Precinct 309,County Judge,,REP,UNDER VOTES,15,0,3,12
+Lavaca,Precinct 311,County Judge,,REP,UNDER VOTES,4,0,0,4
+Lavaca,Precinct 416,County Judge,,REP,UNDER VOTES,15,1,4,10
+Lavaca,Precinct 119,County Judge,,REP,UNDER VOTES,4,0,4,0
+Lavaca,Precinct 223,County Judge,,REP,UNDER VOTES,9,0,3,6
+Lavaca,Precinct 329,County Judge,,REP,UNDER VOTES,8,0,1,7
+Lavaca,Precinct 430,County Judge,,REP,UNDER VOTES,10,0,2,8
+Lavaca,Precinct 231,County Judge,,REP,UNDER VOTES,7,1,2,4
+Lavaca,Precinct 101,District Clerk,,REP,Lori A. Wenske,486,24,322,140
+Lavaca,Precinct 102,District Clerk,,REP,Lori A. Wenske,470,14,292,164
+Lavaca,Precinct 208,District Clerk,,REP,Lori A. Wenske,268,5,96,167
+Lavaca,Precinct 309,District Clerk,,REP,Lori A. Wenske,372,18,74,280
+Lavaca,Precinct 311,District Clerk,,REP,Lori A. Wenske,186,9,55,122
+Lavaca,Precinct 416,District Clerk,,REP,Lori A. Wenske,186,5,77,104
+Lavaca,Precinct 119,District Clerk,,REP,Lori A. Wenske,234,12,143,79
+Lavaca,Precinct 223,District Clerk,,REP,Lori A. Wenske,363,18,86,259
+Lavaca,Precinct 329,District Clerk,,REP,Lori A. Wenske,422,19,130,273
+Lavaca,Precinct 430,District Clerk,,REP,Lori A. Wenske,357,19,64,274
+Lavaca,Precinct 231,District Clerk,,REP,Lori A. Wenske,475,19,302,154
+Lavaca,Precinct 101,District Clerk,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,District Clerk,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,District Clerk,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,District Clerk,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,District Clerk,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,District Clerk,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,District Clerk,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,District Clerk,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,District Clerk,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,District Clerk,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,District Clerk,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,District Clerk,,REP,UNDER VOTES,102,1,61,40
+Lavaca,Precinct 102,District Clerk,,REP,UNDER VOTES,111,2,67,42
+Lavaca,Precinct 208,District Clerk,,REP,UNDER VOTES,63,2,23,38
+Lavaca,Precinct 309,District Clerk,,REP,UNDER VOTES,56,4,7,45
+Lavaca,Precinct 311,District Clerk,,REP,UNDER VOTES,38,2,10,26
+Lavaca,Precinct 416,District Clerk,,REP,UNDER VOTES,66,0,28,38
+Lavaca,Precinct 119,District Clerk,,REP,UNDER VOTES,57,6,28,23
+Lavaca,Precinct 223,District Clerk,,REP,UNDER VOTES,80,2,18,60
+Lavaca,Precinct 329,District Clerk,,REP,UNDER VOTES,43,3,12,28
+Lavaca,Precinct 430,District Clerk,,REP,UNDER VOTES,79,6,14,59
+Lavaca,Precinct 231,District Clerk,,REP,UNDER VOTES,119,10,74,35
+Lavaca,Precinct 101,County Clerk,,REP,Barbara K Steffek,509,24,334,151
+Lavaca,Precinct 102,County Clerk,,REP,Barbara K Steffek,495,13,309,173
+Lavaca,Precinct 208,County Clerk,,REP,Barbara K Steffek,291,5,102,184
+Lavaca,Precinct 309,County Clerk,,REP,Barbara K Steffek,355,18,72,265
+Lavaca,Precinct 311,County Clerk,,REP,Barbara K Steffek,184,10,55,119
+Lavaca,Precinct 416,County Clerk,,REP,Barbara K Steffek,190,5,77,108
+Lavaca,Precinct 119,County Clerk,,REP,Barbara K Steffek,239,13,143,83
+Lavaca,Precinct 223,County Clerk,,REP,Barbara K Steffek,362,18,90,254
+Lavaca,Precinct 329,County Clerk,,REP,Barbara K Steffek,405,19,130,256
+Lavaca,Precinct 430,County Clerk,,REP,Barbara K Steffek,358,19,64,275
+Lavaca,Precinct 231,County Clerk,,REP,Barbara K Steffek,500,23,320,157
+Lavaca,Precinct 101,County Clerk,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,County Clerk,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,County Clerk,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,County Clerk,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,County Clerk,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,County Clerk,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,County Clerk,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,County Clerk,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,County Clerk,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,County Clerk,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,County Clerk,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,County Clerk,,REP,UNDER VOTES,79,1,49,29
+Lavaca,Precinct 102,County Clerk,,REP,UNDER VOTES,86,3,50,33
+Lavaca,Precinct 208,County Clerk,,REP,UNDER VOTES,40,2,17,21
+Lavaca,Precinct 309,County Clerk,,REP,UNDER VOTES,73,4,9,60
+Lavaca,Precinct 311,County Clerk,,REP,UNDER VOTES,40,1,10,29
+Lavaca,Precinct 416,County Clerk,,REP,UNDER VOTES,62,0,28,34
+Lavaca,Precinct 119,County Clerk,,REP,UNDER VOTES,52,5,28,19
+Lavaca,Precinct 223,County Clerk,,REP,UNDER VOTES,81,2,14,65
+Lavaca,Precinct 329,County Clerk,,REP,UNDER VOTES,60,3,12,45
+Lavaca,Precinct 430,County Clerk,,REP,UNDER VOTES,78,6,14,58
+Lavaca,Precinct 231,County Clerk,,REP,UNDER VOTES,94,6,56,32
+Lavaca,Precinct 101,County Treasurer,,REP,Karen Bludau,516,23,340,153
+Lavaca,Precinct 102,County Treasurer,,REP,Karen Bludau,494,14,307,173
+Lavaca,Precinct 208,County Treasurer,,REP,Karen Bludau,283,5,103,175
+Lavaca,Precinct 309,County Treasurer,,REP,Karen Bludau,350,18,72,260
+Lavaca,Precinct 311,County Treasurer,,REP,Karen Bludau,184,10,55,119
+Lavaca,Precinct 416,County Treasurer,,REP,Karen Bludau,186,5,76,105
+Lavaca,Precinct 119,County Treasurer,,REP,Karen Bludau,236,13,143,80
+Lavaca,Precinct 223,County Treasurer,,REP,Karen Bludau,354,18,87,249
+Lavaca,Precinct 329,County Treasurer,,REP,Karen Bludau,401,19,129,253
+Lavaca,Precinct 430,County Treasurer,,REP,Karen Bludau,359,19,66,274
+Lavaca,Precinct 231,County Treasurer,,REP,Karen Bludau,504,23,320,161
+Lavaca,Precinct 101,County Treasurer,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,County Treasurer,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,County Treasurer,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,County Treasurer,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,County Treasurer,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,County Treasurer,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,County Treasurer,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,County Treasurer,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,County Treasurer,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,County Treasurer,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,County Treasurer,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,County Treasurer,,REP,UNDER VOTES,72,2,43,27
+Lavaca,Precinct 102,County Treasurer,,REP,UNDER VOTES,87,2,52,33
+Lavaca,Precinct 208,County Treasurer,,REP,UNDER VOTES,48,2,16,30
+Lavaca,Precinct 309,County Treasurer,,REP,UNDER VOTES,78,4,9,65
+Lavaca,Precinct 311,County Treasurer,,REP,UNDER VOTES,40,1,10,29
+Lavaca,Precinct 416,County Treasurer,,REP,UNDER VOTES,66,0,29,37
+Lavaca,Precinct 119,County Treasurer,,REP,UNDER VOTES,55,5,28,22
+Lavaca,Precinct 223,County Treasurer,,REP,UNDER VOTES,89,2,17,70
+Lavaca,Precinct 329,County Treasurer,,REP,UNDER VOTES,64,3,13,48
+Lavaca,Precinct 430,County Treasurer,,REP,UNDER VOTES,77,6,12,59
+Lavaca,Precinct 231,County Treasurer,,REP,UNDER VOTES,90,6,56,28
+Lavaca,Precinct 208,County Commissioner Pct 2,,REP,Steven Jurena,126,3,46,77
+Lavaca,Precinct 223,County Commissioner Pct 2,,REP,Steven Jurena,99,4,22,73
+Lavaca,Precinct 231,County Commissioner Pct 2,,REP,Steven Jurena,183,9,114,60
+Lavaca,Precinct 208,County Commissioner Pct 2,,REP,Darel Fishbeck,20,0,4,16
+Lavaca,Precinct 223,County Commissioner Pct 2,,REP,Darel Fishbeck,163,3,31,129
+Lavaca,Precinct 231,County Commissioner Pct 2,,REP,Darel Fishbeck,73,5,40,28
+Lavaca,Precinct 208,County Commissioner Pct 2,,REP,Wayne Faircloth,166,4,62,100
+Lavaca,Precinct 223,County Commissioner Pct 2,,REP,Wayne Faircloth,149,8,40,101
+Lavaca,Precinct 231,County Commissioner Pct 2,,REP,Wayne Faircloth,271,10,184,77
+Lavaca,Precinct 208,County Commissioner Pct 2,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,County Commissioner Pct 2,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,County Commissioner Pct 2,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,County Commissioner Pct 2,,REP,UNDER VOTES,19,0,7,12
+Lavaca,Precinct 223,County Commissioner Pct 2,,REP,UNDER VOTES,32,5,11,16
+Lavaca,Precinct 231,County Commissioner Pct 2,,REP,UNDER VOTES,67,5,38,24
+Lavaca,Precinct 416,County Commissioner Pct 4,,REP,Dennis W. Kocian,180,5,72,103
+Lavaca,Precinct 430,County Commissioner Pct 4,,REP,Dennis W. Kocian,356,19,60,277
+Lavaca,Precinct 416,County Commissioner Pct 4,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,County Commissioner Pct 4,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,County Commissioner Pct 4,,REP,UNDER VOTES,72,0,33,39
+Lavaca,Precinct 430,County Commissioner Pct 4,,REP,UNDER VOTES,80,6,18,56
+Lavaca,Precinct 101,JOP Pct 1,,REP,Steven E. Greenwell,131,4,88,39
+Lavaca,Precinct 102,JOP Pct 1,,REP,Steven E. Greenwell,161,1,104,56
+Lavaca,Precinct 119,JOP Pct 1,,REP,Steven E. Greenwell,92,2,51,39
+Lavaca,Precinct 101,JOP Pct 1,,REP,Jeri Ivey,102,5,70,27
+Lavaca,Precinct 102,JOP Pct 1,,REP,Jeri Ivey,115,5,69,41
+Lavaca,Precinct 119,JOP Pct 1,,REP,Jeri Ivey,65,8,31,26
+Lavaca,Precinct 101,JOP Pct 1,,REP,Kevin B. Bright,119,12,77,30
+Lavaca,Precinct 102,JOP Pct 1,,REP,Kevin B. Bright,104,5,67,32
+Lavaca,Precinct 119,JOP Pct 1,,REP,Kevin B. Bright,69,3,45,21
+Lavaca,Precinct 101,JOP Pct 1,,REP,James Whited,197,3,125,69
+Lavaca,Precinct 102,JOP Pct 1,,REP,James Whited,154,2,96,56
+Lavaca,Precinct 119,JOP Pct 1,,REP,James Whited,39,3,27,9
+Lavaca,Precinct 101,JOP Pct 1,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,JOP Pct 1,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,JOP Pct 1,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,JOP Pct 1,,REP,UNDER VOTES,39,1,23,15
+Lavaca,Precinct 102,JOP Pct 1,,REP,UNDER VOTES,47,3,23,21
+Lavaca,Precinct 119,JOP Pct 1,,REP,UNDER VOTES,26,2,17,7
+Lavaca,Precinct 208,JOP Pct 2,,REP,Travis Hill,246,5,83,158
+Lavaca,Precinct 223,JOP Pct 2,,REP,Travis Hill,323,16,74,233
+Lavaca,Precinct 231,JOP Pct 2,,REP,Travis Hill,432,21,266,145
+Lavaca,Precinct 208,JOP Pct 2,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,JOP Pct 2,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,JOP Pct 2,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,JOP Pct 2,,REP,UNDER VOTES,85,2,36,47
+Lavaca,Precinct 223,JOP Pct 2,,REP,UNDER VOTES,120,4,30,86
+Lavaca,Precinct 231,JOP Pct 2,,REP,UNDER VOTES,162,8,110,44
+Lavaca,Precinct 309,JOP Pct 3,,REP,Tierra Furrh,97,4,22,71
+Lavaca,Precinct 311,JOP Pct 3,,REP,Tierra Furrh,67,2,23,42
+Lavaca,Precinct 329,JOP Pct 3,,REP,Tierra Furrh,103,4,35,64
+Lavaca,Precinct 309,JOP Pct 3,,REP,Mark Yackel,310,17,55,238
+Lavaca,Precinct 311,JOP Pct 3,,REP,Mark Yackel,127,4,36,87
+Lavaca,Precinct 329,JOP Pct 3,,REP,Mark Yackel,343,17,103,223
+Lavaca,Precinct 309,JOP Pct 3,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,JOP Pct 3,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,JOP Pct 3,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,JOP Pct 3,,REP,UNDER VOTES,21,1,4,16
+Lavaca,Precinct 311,JOP Pct 3,,REP,UNDER VOTES,30,5,6,19
+Lavaca,Precinct 329,JOP Pct 3,,REP,UNDER VOTES,19,1,4,14
+Lavaca,Precinct 416,JOP Pct 4,,REP,Hallie Hall,179,5,72,102
+Lavaca,Precinct 430,JOP Pct 4,,REP,Hallie Hall,361,19,63,279
+Lavaca,Precinct 416,JOP Pct 4,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,JOP Pct 4,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,JOP Pct 4,,REP,UNDER VOTES,73,0,33,40
+Lavaca,Precinct 430,JOP Pct 4,,REP,UNDER VOTES,75,6,15,54
+Lavaca,Precinct 101,County Chair,,REP,Cheryl Thompson-Draper,349,19,223,107
+Lavaca,Precinct 102,County Chair,,REP,Cheryl Thompson-Draper,353,11,216,126
+Lavaca,Precinct 208,County Chair,,REP,Cheryl Thompson-Draper,217,5,67,145
+Lavaca,Precinct 309,County Chair,,REP,Cheryl Thompson-Draper,285,16,52,217
+Lavaca,Precinct 311,County Chair,,REP,Cheryl Thompson-Draper,159,8,48,103
+Lavaca,Precinct 416,County Chair,,REP,Cheryl Thompson-Draper,156,5,63,88
+Lavaca,Precinct 119,County Chair,,REP,Cheryl Thompson-Draper,202,13,121,68
+Lavaca,Precinct 223,County Chair,,REP,Cheryl Thompson-Draper,282,13,66,203
+Lavaca,Precinct 329,County Chair,,REP,Cheryl Thompson-Draper,336,18,107,211
+Lavaca,Precinct 430,County Chair,,REP,Cheryl Thompson-Draper,312,19,55,238
+Lavaca,Precinct 231,County Chair,,REP,Cheryl Thompson-Draper,397,20,241,136
+Lavaca,Precinct 101,County Chair,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,County Chair,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,County Chair,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,County Chair,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,County Chair,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,County Chair,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,County Chair,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,County Chair,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,County Chair,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,County Chair,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,County Chair,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,County Chair,,REP,UNDER VOTES,239,6,160,73
+Lavaca,Precinct 102,County Chair,,REP,UNDER VOTES,228,5,143,80
+Lavaca,Precinct 208,County Chair,,REP,UNDER VOTES,114,2,52,60
+Lavaca,Precinct 309,County Chair,,REP,UNDER VOTES,143,6,29,108
+Lavaca,Precinct 311,County Chair,,REP,UNDER VOTES,65,3,17,45
+Lavaca,Precinct 416,County Chair,,REP,UNDER VOTES,96,0,42,54
+Lavaca,Precinct 119,County Chair,,REP,UNDER VOTES,89,5,50,34
+Lavaca,Precinct 223,County Chair,,REP,UNDER VOTES,161,7,38,116
+Lavaca,Precinct 329,County Chair,,REP,UNDER VOTES,129,4,35,90
+Lavaca,Precinct 430,County Chair,,REP,UNDER VOTES,124,6,23,95
+Lavaca,Precinct 231,County Chair,,REP,UNDER VOTES,197,9,135,53
+Lavaca,Precinct 101,Proposition 1,,REP,YES,526,25,339,162
+Lavaca,Precinct 102,Proposition 1,,REP,YES,526,16,328,182
+Lavaca,Precinct 208,Proposition 1,,REP,YES,296,6,100,190
+Lavaca,Precinct 309,Proposition 1,,REP,YES,390,21,71,298
+Lavaca,Precinct 311,Proposition 1,,REP,YES,210,11,61,138
+Lavaca,Precinct 416,Proposition 1,,REP,YES,230,5,100,125
+Lavaca,Precinct 119,Proposition 1,,REP,YES,269,16,157,96
+Lavaca,Precinct 223,Proposition 1,,REP,YES,401,17,98,286
+Lavaca,Precinct 329,Proposition 1,,REP,YES,433,21,138,274
+Lavaca,Precinct 430,Proposition 1,,REP,YES,407,24,71,312
+Lavaca,Precinct 231,Proposition 1,,REP,YES,543,24,340,179
+Lavaca,Precinct 101,Proposition 1,,REP,NO,25,0,18,7
+Lavaca,Precinct 102,Proposition 1,,REP,NO,32,0,16,16
+Lavaca,Precinct 208,Proposition 1,,REP,NO,15,1,10,4
+Lavaca,Precinct 309,Proposition 1,,REP,NO,16,0,5,11
+Lavaca,Precinct 311,Proposition 1,,REP,NO,7,0,2,5
+Lavaca,Precinct 416,Proposition 1,,REP,NO,13,0,3,10
+Lavaca,Precinct 119,Proposition 1,,REP,NO,12,0,10,2
+Lavaca,Precinct 223,Proposition 1,,REP,NO,15,0,2,13
+Lavaca,Precinct 329,Proposition 1,,REP,NO,17,0,2,15
+Lavaca,Precinct 430,Proposition 1,,REP,NO,18,1,4,13
+Lavaca,Precinct 231,Proposition 1,,REP,NO,20,2,15,3
+Lavaca,Precinct 101,Proposition 1,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,Proposition 1,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,Proposition 1,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,Proposition 1,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,Proposition 1,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,Proposition 1,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,Proposition 1,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,Proposition 1,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,Proposition 1,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,Proposition 1,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,Proposition 1,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,Proposition 1,,REP,UNDER VOTES,37,0,26,11
+Lavaca,Precinct 102,Proposition 1,,REP,UNDER VOTES,23,0,15,8
+Lavaca,Precinct 208,Proposition 1,,REP,UNDER VOTES,20,0,9,11
+Lavaca,Precinct 309,Proposition 1,,REP,UNDER VOTES,22,1,5,16
+Lavaca,Precinct 311,Proposition 1,,REP,UNDER VOTES,7,0,2,5
+Lavaca,Precinct 416,Proposition 1,,REP,UNDER VOTES,9,0,2,7
+Lavaca,Precinct 119,Proposition 1,,REP,UNDER VOTES,10,2,4,4
+Lavaca,Precinct 223,Proposition 1,,REP,UNDER VOTES,27,3,4,20
+Lavaca,Precinct 329,Proposition 1,,REP,UNDER VOTES,15,1,2,12
+Lavaca,Precinct 430,Proposition 1,,REP,UNDER VOTES,11,0,3,8
+Lavaca,Precinct 231,Proposition 1,,REP,UNDER VOTES,31,3,21,7
+Lavaca,Precinct 101,Proposition 2,,REP,YES,415,23,259,133
+Lavaca,Precinct 102,Proposition 2,,REP,YES,443,9,270,164
+Lavaca,Precinct 208,Proposition 2,,REP,YES,239,5,79,155
+Lavaca,Precinct 309,Proposition 2,,REP,YES,295,12,49,234
+Lavaca,Precinct 311,Proposition 2,,REP,YES,175,11,50,114
+Lavaca,Precinct 416,Proposition 2,,REP,YES,200,4,91,105
+Lavaca,Precinct 119,Proposition 2,,REP,YES,237,16,138,83
+Lavaca,Precinct 223,Proposition 2,,REP,YES,335,12,76,247
+Lavaca,Precinct 329,Proposition 2,,REP,YES,348,16,112,220
+Lavaca,Precinct 430,Proposition 2,,REP,YES,345,18,65,262
+Lavaca,Precinct 231,Proposition 2,,REP,YES,415,17,252,146
+Lavaca,Precinct 101,Proposition 2,,REP,NO,100,1,78,21
+Lavaca,Precinct 102,Proposition 2,,REP,NO,85,6,52,27
+Lavaca,Precinct 208,Proposition 2,,REP,NO,66,1,33,32
+Lavaca,Precinct 309,Proposition 2,,REP,NO,89,6,24,59
+Lavaca,Precinct 311,Proposition 2,,REP,NO,37,0,10,27
+Lavaca,Precinct 416,Proposition 2,,REP,NO,37,1,10,26
+Lavaca,Precinct 119,Proposition 2,,REP,NO,40,0,28,12
+Lavaca,Precinct 223,Proposition 2,,REP,NO,71,5,21,45
+Lavaca,Precinct 329,Proposition 2,,REP,NO,86,5,27,54
+Lavaca,Precinct 430,Proposition 2,,REP,NO,64,5,10,49
+Lavaca,Precinct 231,Proposition 2,,REP,NO,121,8,85,28
+Lavaca,Precinct 101,Proposition 2,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,Proposition 2,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,Proposition 2,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,Proposition 2,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,Proposition 2,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,Proposition 2,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,Proposition 2,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,Proposition 2,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,Proposition 2,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,Proposition 2,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,Proposition 2,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,Proposition 2,,REP,UNDER VOTES,73,1,46,26
+Lavaca,Precinct 102,Proposition 2,,REP,UNDER VOTES,53,1,37,15
+Lavaca,Precinct 208,Proposition 2,,REP,UNDER VOTES,26,1,7,18
+Lavaca,Precinct 309,Proposition 2,,REP,UNDER VOTES,44,4,8,32
+Lavaca,Precinct 311,Proposition 2,,REP,UNDER VOTES,12,0,5,7
+Lavaca,Precinct 416,Proposition 2,,REP,UNDER VOTES,15,0,4,11
+Lavaca,Precinct 119,Proposition 2,,REP,UNDER VOTES,14,2,5,7
+Lavaca,Precinct 223,Proposition 2,,REP,UNDER VOTES,37,3,7,27
+Lavaca,Precinct 329,Proposition 2,,REP,UNDER VOTES,31,1,3,27
+Lavaca,Precinct 430,Proposition 2,,REP,UNDER VOTES,27,2,3,22
+Lavaca,Precinct 231,Proposition 2,,REP,UNDER VOTES,58,4,39,15
+Lavaca,Precinct 101,Proposition 3,,REP,YES,513,25,331,157
+Lavaca,Precinct 102,Proposition 3,,REP,YES,513,14,312,187
+Lavaca,Precinct 208,Proposition 3,,REP,YES,285,6,100,179
+Lavaca,Precinct 309,Proposition 3,,REP,YES,378,14,72,292
+Lavaca,Precinct 311,Proposition 3,,REP,YES,206,11,57,138
+Lavaca,Precinct 416,Proposition 3,,REP,YES,230,5,100,125
+Lavaca,Precinct 119,Proposition 3,,REP,YES,264,14,155,95
+Lavaca,Precinct 223,Proposition 3,,REP,YES,387,14,92,281
+Lavaca,Precinct 329,Proposition 3,,REP,YES,424,20,128,276
+Lavaca,Precinct 430,Proposition 3,,REP,YES,382,17,69,296
+Lavaca,Precinct 231,Proposition 3,,REP,YES,518,22,324,172
+Lavaca,Precinct 101,Proposition 3,,REP,NO,45,0,31,14
+Lavaca,Precinct 102,Proposition 3,,REP,NO,46,2,33,11
+Lavaca,Precinct 208,Proposition 3,,REP,NO,26,1,12,13
+Lavaca,Precinct 309,Proposition 3,,REP,NO,33,7,6,20
+Lavaca,Precinct 311,Proposition 3,,REP,NO,12,0,6,6
+Lavaca,Precinct 416,Proposition 3,,REP,NO,15,0,5,10
+Lavaca,Precinct 119,Proposition 3,,REP,NO,20,2,14,4
+Lavaca,Precinct 223,Proposition 3,,REP,NO,33,5,8,20
+Lavaca,Precinct 329,Proposition 3,,REP,NO,28,1,12,15
+Lavaca,Precinct 430,Proposition 3,,REP,NO,41,6,6,29
+Lavaca,Precinct 231,Proposition 3,,REP,NO,45,3,29,13
+Lavaca,Precinct 101,Proposition 3,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,Proposition 3,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,Proposition 3,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,Proposition 3,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,Proposition 3,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,Proposition 3,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,Proposition 3,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,Proposition 3,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,Proposition 3,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,Proposition 3,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,Proposition 3,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,Proposition 3,,REP,UNDER VOTES,30,0,21,9
+Lavaca,Precinct 102,Proposition 3,,REP,UNDER VOTES,22,0,14,8
+Lavaca,Precinct 208,Proposition 3,,REP,UNDER VOTES,20,0,7,13
+Lavaca,Precinct 309,Proposition 3,,REP,UNDER VOTES,17,1,3,13
+Lavaca,Precinct 311,Proposition 3,,REP,UNDER VOTES,6,0,2,4
+Lavaca,Precinct 416,Proposition 3,,REP,UNDER VOTES,7,0,0,7
+Lavaca,Precinct 119,Proposition 3,,REP,UNDER VOTES,7,2,2,3
+Lavaca,Precinct 223,Proposition 3,,REP,UNDER VOTES,23,1,4,18
+Lavaca,Precinct 329,Proposition 3,,REP,UNDER VOTES,13,1,2,10
+Lavaca,Precinct 430,Proposition 3,,REP,UNDER VOTES,13,2,3,8
+Lavaca,Precinct 231,Proposition 3,,REP,UNDER VOTES,31,4,23,4
+Lavaca,Precinct 101,Proposition 4,,REP,YES,515,25,332,158
+Lavaca,Precinct 102,Proposition 4,,REP,YES,514,16,315,183
+Lavaca,Precinct 208,Proposition 4,,REP,YES,286,6,99,181
+Lavaca,Precinct 309,Proposition 4,,REP,YES,364,21,69,274
+Lavaca,Precinct 311,Proposition 4,,REP,YES,201,11,58,132
+Lavaca,Precinct 416,Proposition 4,,REP,YES,229,5,99,125
+Lavaca,Precinct 119,Proposition 4,,REP,YES,261,16,154,91
+Lavaca,Precinct 223,Proposition 4,,REP,YES,388,17,94,277
+Lavaca,Precinct 329,Proposition 4,,REP,YES,424,21,134,269
+Lavaca,Precinct 430,Proposition 4,,REP,YES,405,25,70,310
+Lavaca,Precinct 231,Proposition 4,,REP,YES,513,23,322,168
+Lavaca,Precinct 101,Proposition 4,,REP,NO,29,0,23,6
+Lavaca,Precinct 102,Proposition 4,,REP,NO,30,0,20,10
+Lavaca,Precinct 208,Proposition 4,,REP,NO,18,1,9,8
+Lavaca,Precinct 309,Proposition 4,,REP,NO,35,0,5,30
+Lavaca,Precinct 311,Proposition 4,,REP,NO,15,0,4,11
+Lavaca,Precinct 416,Proposition 4,,REP,NO,12,0,4,8
+Lavaca,Precinct 119,Proposition 4,,REP,NO,17,0,12,5
+Lavaca,Precinct 223,Proposition 4,,REP,NO,22,0,6,16
+Lavaca,Precinct 329,Proposition 4,,REP,NO,18,0,6,12
+Lavaca,Precinct 430,Proposition 4,,REP,NO,19,0,5,14
+Lavaca,Precinct 231,Proposition 4,,REP,NO,33,2,17,14
+Lavaca,Precinct 101,Proposition 4,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,Proposition 4,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,Proposition 4,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,Proposition 4,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,Proposition 4,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,Proposition 4,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,Proposition 4,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,Proposition 4,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,Proposition 4,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,Proposition 4,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,Proposition 4,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,Proposition 4,,REP,UNDER VOTES,44,0,28,16
+Lavaca,Precinct 102,Proposition 4,,REP,UNDER VOTES,37,0,24,13
+Lavaca,Precinct 208,Proposition 4,,REP,UNDER VOTES,27,0,11,16
+Lavaca,Precinct 309,Proposition 4,,REP,UNDER VOTES,29,1,7,21
+Lavaca,Precinct 311,Proposition 4,,REP,UNDER VOTES,8,0,3,5
+Lavaca,Precinct 416,Proposition 4,,REP,UNDER VOTES,11,0,2,9
+Lavaca,Precinct 119,Proposition 4,,REP,UNDER VOTES,13,2,5,6
+Lavaca,Precinct 223,Proposition 4,,REP,UNDER VOTES,33,3,4,26
+Lavaca,Precinct 329,Proposition 4,,REP,UNDER VOTES,23,1,2,20
+Lavaca,Precinct 430,Proposition 4,,REP,UNDER VOTES,12,0,3,9
+Lavaca,Precinct 231,Proposition 4,,REP,UNDER VOTES,48,4,37,7
+Lavaca,Precinct 101,Proposition 5,,REP,YES,509,25,329,155
+Lavaca,Precinct 102,Proposition 5,,REP,YES,509,16,315,178
+Lavaca,Precinct 208,Proposition 5,,REP,YES,277,6,96,175
+Lavaca,Precinct 309,Proposition 5,,REP,YES,347,15,62,270
+Lavaca,Precinct 311,Proposition 5,,REP,YES,196,11,55,130
+Lavaca,Precinct 416,Proposition 5,,REP,YES,215,5,88,122
+Lavaca,Precinct 119,Proposition 5,,REP,YES,246,12,145,89
+Lavaca,Precinct 223,Proposition 5,,REP,YES,374,16,94,264
+Lavaca,Precinct 329,Proposition 5,,REP,YES,420,19,134,267
+Lavaca,Precinct 430,Proposition 5,,REP,YES,389,23,69,297
+Lavaca,Precinct 231,Proposition 5,,REP,YES,484,22,302,160
+Lavaca,Precinct 101,Proposition 5,,REP,NO,31,0,21,10
+Lavaca,Precinct 102,Proposition 5,,REP,NO,30,0,16,14
+Lavaca,Precinct 208,Proposition 5,,REP,NO,29,1,15,13
+Lavaca,Precinct 309,Proposition 5,,REP,NO,42,3,13,26
+Lavaca,Precinct 311,Proposition 5,,REP,NO,19,0,7,12
+Lavaca,Precinct 416,Proposition 5,,REP,NO,20,0,11,9
+Lavaca,Precinct 119,Proposition 5,,REP,NO,32,4,23,5
+Lavaca,Precinct 223,Proposition 5,,REP,NO,37,0,8,29
+Lavaca,Precinct 329,Proposition 5,,REP,NO,21,2,4,15
+Lavaca,Precinct 430,Proposition 5,,REP,NO,30,1,5,24
+Lavaca,Precinct 231,Proposition 5,,REP,NO,51,3,30,18
+Lavaca,Precinct 101,Proposition 5,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,Proposition 5,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,Proposition 5,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,Proposition 5,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,Proposition 5,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,Proposition 5,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,Proposition 5,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,Proposition 5,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,Proposition 5,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,Proposition 5,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,Proposition 5,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,Proposition 5,,REP,UNDER VOTES,48,0,33,15
+Lavaca,Precinct 102,Proposition 5,,REP,UNDER VOTES,42,0,28,14
+Lavaca,Precinct 208,Proposition 5,,REP,UNDER VOTES,25,0,8,17
+Lavaca,Precinct 309,Proposition 5,,REP,UNDER VOTES,39,4,6,29
+Lavaca,Precinct 311,Proposition 5,,REP,UNDER VOTES,9,0,3,6
+Lavaca,Precinct 416,Proposition 5,,REP,UNDER VOTES,17,0,6,11
+Lavaca,Precinct 119,Proposition 5,,REP,UNDER VOTES,13,2,3,8
+Lavaca,Precinct 223,Proposition 5,,REP,UNDER VOTES,32,4,2,26
+Lavaca,Precinct 329,Proposition 5,,REP,UNDER VOTES,24,1,4,19
+Lavaca,Precinct 430,Proposition 5,,REP,UNDER VOTES,17,1,4,12
+Lavaca,Precinct 231,Proposition 5,,REP,UNDER VOTES,59,4,44,11
+Lavaca,Precinct 101,Proposition 6,,REP,YES,447,21,285,141
+Lavaca,Precinct 102,Proposition 6,,REP,YES,475,15,298,162
+Lavaca,Precinct 208,Proposition 6,,REP,YES,262,6,82,174
+Lavaca,Precinct 309,Proposition 6,,REP,YES,317,14,57,246
+Lavaca,Precinct 311,Proposition 6,,REP,YES,189,11,55,123
+Lavaca,Precinct 416,Proposition 6,,REP,YES,201,3,89,109
+Lavaca,Precinct 119,Proposition 6,,REP,YES,243,15,147,81
+Lavaca,Precinct 223,Proposition 6,,REP,YES,332,14,81,237
+Lavaca,Precinct 329,Proposition 6,,REP,YES,365,19,112,234
+Lavaca,Precinct 430,Proposition 6,,REP,YES,344,16,62,266
+Lavaca,Precinct 231,Proposition 6,,REP,YES,448,19,279,150
+Lavaca,Precinct 101,Proposition 6,,REP,NO,75,4,55,16
+Lavaca,Precinct 102,Proposition 6,,REP,NO,46,0,26,20
+Lavaca,Precinct 208,Proposition 6,,REP,NO,37,1,24,12
+Lavaca,Precinct 309,Proposition 6,,REP,NO,60,2,15,43
+Lavaca,Precinct 311,Proposition 6,,REP,NO,21,0,6,15
+Lavaca,Precinct 416,Proposition 6,,REP,NO,26,1,7,18
+Lavaca,Precinct 119,Proposition 6,,REP,NO,30,1,19,10
+Lavaca,Precinct 223,Proposition 6,,REP,NO,55,1,14,40
+Lavaca,Precinct 329,Proposition 6,,REP,NO,65,2,23,40
+Lavaca,Precinct 430,Proposition 6,,REP,NO,67,7,11,49
+Lavaca,Precinct 231,Proposition 6,,REP,NO,75,6,52,17
+Lavaca,Precinct 101,Proposition 6,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,Proposition 6,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,Proposition 6,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,Proposition 6,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,Proposition 6,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,Proposition 6,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,Proposition 6,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,Proposition 6,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,Proposition 6,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,Proposition 6,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,Proposition 6,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,Proposition 6,,REP,UNDER VOTES,66,0,43,23
+Lavaca,Precinct 102,Proposition 6,,REP,UNDER VOTES,60,1,35,24
+Lavaca,Precinct 208,Proposition 6,,REP,UNDER VOTES,32,0,13,19
+Lavaca,Precinct 309,Proposition 6,,REP,UNDER VOTES,51,6,9,36
+Lavaca,Precinct 311,Proposition 6,,REP,UNDER VOTES,14,0,4,10
+Lavaca,Precinct 416,Proposition 6,,REP,UNDER VOTES,25,1,9,15
+Lavaca,Precinct 119,Proposition 6,,REP,UNDER VOTES,18,2,5,11
+Lavaca,Precinct 223,Proposition 6,,REP,UNDER VOTES,56,5,9,42
+Lavaca,Precinct 329,Proposition 6,,REP,UNDER VOTES,35,1,7,27
+Lavaca,Precinct 430,Proposition 6,,REP,UNDER VOTES,25,2,5,18
+Lavaca,Precinct 231,Proposition 6,,REP,UNDER VOTES,71,4,45,22
+Lavaca,Precinct 101,Proposition 7,,REP,YES,538,25,345,168
+Lavaca,Precinct 102,Proposition 7,,REP,YES,547,16,334,197
+Lavaca,Precinct 208,Proposition 7,,REP,YES,301,6,105,190
+Lavaca,Precinct 309,Proposition 7,,REP,YES,393,21,71,301
+Lavaca,Precinct 311,Proposition 7,,REP,YES,215,11,63,141
+Lavaca,Precinct 416,Proposition 7,,REP,YES,232,5,98,129
+Lavaca,Precinct 119,Proposition 7,,REP,YES,277,16,164,97
+Lavaca,Precinct 223,Proposition 7,,REP,YES,407,18,101,288
+Lavaca,Precinct 329,Proposition 7,,REP,YES,441,21,138,282
+Lavaca,Precinct 430,Proposition 7,,REP,YES,411,25,72,314
+Lavaca,Precinct 231,Proposition 7,,REP,YES,552,24,344,184
+Lavaca,Precinct 101,Proposition 7,,REP,NO,9,0,8,1
+Lavaca,Precinct 102,Proposition 7,,REP,NO,3,0,3,0
+Lavaca,Precinct 208,Proposition 7,,REP,NO,8,1,7,0
+Lavaca,Precinct 309,Proposition 7,,REP,NO,9,0,4,5
+Lavaca,Precinct 311,Proposition 7,,REP,NO,3,0,1,2
+Lavaca,Precinct 416,Proposition 7,,REP,NO,10,0,3,7
+Lavaca,Precinct 119,Proposition 7,,REP,NO,5,0,5,0
+Lavaca,Precinct 223,Proposition 7,,REP,NO,10,0,2,8
+Lavaca,Precinct 329,Proposition 7,,REP,NO,5,0,1,4
+Lavaca,Precinct 430,Proposition 7,,REP,NO,9,0,3,6
+Lavaca,Precinct 231,Proposition 7,,REP,NO,7,2,4,1
+Lavaca,Precinct 101,Proposition 7,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,Proposition 7,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,Proposition 7,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,Proposition 7,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,Proposition 7,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,Proposition 7,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,Proposition 7,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,Proposition 7,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,Proposition 7,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,Proposition 7,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,Proposition 7,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,Proposition 7,,REP,UNDER VOTES,41,0,30,11
+Lavaca,Precinct 102,Proposition 7,,REP,UNDER VOTES,31,0,22,9
+Lavaca,Precinct 208,Proposition 7,,REP,UNDER VOTES,22,0,7,15
+Lavaca,Precinct 309,Proposition 7,,REP,UNDER VOTES,26,1,6,19
+Lavaca,Precinct 311,Proposition 7,,REP,UNDER VOTES,6,0,1,5
+Lavaca,Precinct 416,Proposition 7,,REP,UNDER VOTES,10,0,4,6
+Lavaca,Precinct 119,Proposition 7,,REP,UNDER VOTES,9,2,2,5
+Lavaca,Precinct 223,Proposition 7,,REP,UNDER VOTES,26,2,1,23
+Lavaca,Precinct 329,Proposition 7,,REP,UNDER VOTES,19,1,3,15
+Lavaca,Precinct 430,Proposition 7,,REP,UNDER VOTES,16,0,3,13
+Lavaca,Precinct 231,Proposition 7,,REP,UNDER VOTES,35,3,28,4
+Lavaca,Precinct 101,Proposition 8,,REP,YES,517,25,333,159
+Lavaca,Precinct 102,Proposition 8,,REP,YES,524,15,327,182
+Lavaca,Precinct 208,Proposition 8,,REP,YES,292,7,104,181
+Lavaca,Precinct 309,Proposition 8,,REP,YES,374,20,71,283
+Lavaca,Precinct 311,Proposition 8,,REP,YES,205,11,57,137
+Lavaca,Precinct 416,Proposition 8,,REP,YES,223,5,91,127
+Lavaca,Precinct 119,Proposition 8,,REP,YES,272,16,160,96
+Lavaca,Precinct 223,Proposition 8,,REP,YES,399,17,99,283
+Lavaca,Precinct 329,Proposition 8,,REP,YES,435,21,138,276
+Lavaca,Precinct 430,Proposition 8,,REP,YES,401,23,70,308
+Lavaca,Precinct 231,Proposition 8,,REP,YES,521,23,324,174
+Lavaca,Precinct 101,Proposition 8,,REP,NO,29,0,21,8
+Lavaca,Precinct 102,Proposition 8,,REP,NO,21,0,11,10
+Lavaca,Precinct 208,Proposition 8,,REP,NO,11,0,6,5
+Lavaca,Precinct 309,Proposition 8,,REP,NO,23,0,4,19
+Lavaca,Precinct 311,Proposition 8,,REP,NO,10,0,5,5
+Lavaca,Precinct 416,Proposition 8,,REP,NO,16,0,7,9
+Lavaca,Precinct 119,Proposition 8,,REP,NO,10,0,9,1
+Lavaca,Precinct 223,Proposition 8,,REP,NO,13,1,1,11
+Lavaca,Precinct 329,Proposition 8,,REP,NO,7,0,1,6
+Lavaca,Precinct 430,Proposition 8,,REP,NO,19,2,4,13
+Lavaca,Precinct 231,Proposition 8,,REP,NO,28,2,20,6
+Lavaca,Precinct 101,Proposition 8,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,Proposition 8,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,Proposition 8,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,Proposition 8,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,Proposition 8,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,Proposition 8,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,Proposition 8,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,Proposition 8,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,Proposition 8,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,Proposition 8,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,Proposition 8,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,Proposition 8,,REP,UNDER VOTES,42,0,29,13
+Lavaca,Precinct 102,Proposition 8,,REP,UNDER VOTES,36,1,21,14
+Lavaca,Precinct 208,Proposition 8,,REP,UNDER VOTES,28,0,9,19
+Lavaca,Precinct 309,Proposition 8,,REP,UNDER VOTES,31,2,6,23
+Lavaca,Precinct 311,Proposition 8,,REP,UNDER VOTES,9,0,3,6
+Lavaca,Precinct 416,Proposition 8,,REP,UNDER VOTES,13,0,7,6
+Lavaca,Precinct 119,Proposition 8,,REP,UNDER VOTES,9,2,2,5
+Lavaca,Precinct 223,Proposition 8,,REP,UNDER VOTES,31,2,4,25
+Lavaca,Precinct 329,Proposition 8,,REP,UNDER VOTES,23,1,3,19
+Lavaca,Precinct 430,Proposition 8,,REP,UNDER VOTES,16,0,4,12
+Lavaca,Precinct 231,Proposition 8,,REP,UNDER VOTES,45,4,32,9
+Lavaca,Precinct 101,Proposition 9,,REP,YES,479,20,305,154
+Lavaca,Precinct 102,Proposition 9,,REP,YES,483,16,290,177
+Lavaca,Precinct 208,Proposition 9,,REP,YES,268,5,94,169
+Lavaca,Precinct 309,Proposition 9,,REP,YES,319,14,63,242
+Lavaca,Precinct 311,Proposition 9,,REP,YES,196,11,57,128
+Lavaca,Precinct 416,Proposition 9,,REP,YES,214,5,90,119
+Lavaca,Precinct 119,Proposition 9,,REP,YES,263,14,154,95
+Lavaca,Precinct 223,Proposition 9,,REP,YES,365,15,94,256
+Lavaca,Precinct 329,Proposition 9,,REP,YES,386,18,122,246
+Lavaca,Precinct 430,Proposition 9,,REP,YES,368,19,68,281
+Lavaca,Precinct 231,Proposition 9,,REP,YES,488,22,302,164
+Lavaca,Precinct 101,Proposition 9,,REP,NO,69,5,49,15
+Lavaca,Precinct 102,Proposition 9,,REP,NO,61,0,42,19
+Lavaca,Precinct 208,Proposition 9,,REP,NO,41,2,20,19
+Lavaca,Precinct 309,Proposition 9,,REP,NO,86,7,13,66
+Lavaca,Precinct 311,Proposition 9,,REP,NO,20,0,6,14
+Lavaca,Precinct 416,Proposition 9,,REP,NO,27,0,11,16
+Lavaca,Precinct 119,Proposition 9,,REP,NO,20,2,15,3
+Lavaca,Precinct 223,Proposition 9,,REP,NO,49,1,7,41
+Lavaca,Precinct 329,Proposition 9,,REP,NO,59,3,16,40
+Lavaca,Precinct 430,Proposition 9,,REP,NO,46,5,6,35
+Lavaca,Precinct 231,Proposition 9,,REP,NO,70,4,47,19
+Lavaca,Precinct 101,Proposition 9,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,Proposition 9,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,Proposition 9,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,Proposition 9,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,Proposition 9,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,Proposition 9,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,Proposition 9,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,Proposition 9,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,Proposition 9,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,Proposition 9,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,Proposition 9,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,Proposition 9,,REP,UNDER VOTES,40,0,29,11
+Lavaca,Precinct 102,Proposition 9,,REP,UNDER VOTES,37,0,27,10
+Lavaca,Precinct 208,Proposition 9,,REP,UNDER VOTES,22,0,5,17
+Lavaca,Precinct 309,Proposition 9,,REP,UNDER VOTES,23,1,5,17
+Lavaca,Precinct 311,Proposition 9,,REP,UNDER VOTES,8,0,2,6
+Lavaca,Precinct 416,Proposition 9,,REP,UNDER VOTES,11,0,4,7
+Lavaca,Precinct 119,Proposition 9,,REP,UNDER VOTES,8,2,2,4
+Lavaca,Precinct 223,Proposition 9,,REP,UNDER VOTES,29,4,3,22
+Lavaca,Precinct 329,Proposition 9,,REP,UNDER VOTES,20,1,4,15
+Lavaca,Precinct 430,Proposition 9,,REP,UNDER VOTES,22,1,4,17
+Lavaca,Precinct 231,Proposition 9,,REP,UNDER VOTES,36,3,27,6
+Lavaca,Precinct 101,Proposition 10,,REP,YES,524,25,335,164
+Lavaca,Precinct 102,Proposition 10,,REP,YES,516,15,313,188
+Lavaca,Precinct 208,Proposition 10,,REP,YES,292,6,101,185
+Lavaca,Precinct 309,Proposition 10,,REP,YES,373,20,70,283
+Lavaca,Precinct 311,Proposition 10,,REP,YES,205,11,60,134
+Lavaca,Precinct 416,Proposition 10,,REP,YES,226,5,94,127
+Lavaca,Precinct 119,Proposition 10,,REP,YES,269,15,159,95
+Lavaca,Precinct 223,Proposition 10,,REP,YES,403,16,99,288
+Lavaca,Precinct 329,Proposition 10,,REP,YES,433,19,135,279
+Lavaca,Precinct 430,Proposition 10,,REP,YES,400,19,71,310
+Lavaca,Precinct 231,Proposition 10,,REP,YES,536,23,339,174
+Lavaca,Precinct 101,Proposition 10,,REP,NO,19,0,14,5
+Lavaca,Precinct 102,Proposition 10,,REP,NO,15,0,12,3
+Lavaca,Precinct 208,Proposition 10,,REP,NO,14,1,7,6
+Lavaca,Precinct 309,Proposition 10,,REP,NO,22,0,4,18
+Lavaca,Precinct 311,Proposition 10,,REP,NO,8,0,2,6
+Lavaca,Precinct 416,Proposition 10,,REP,NO,12,0,5,7
+Lavaca,Precinct 119,Proposition 10,,REP,NO,10,1,8,1
+Lavaca,Precinct 223,Proposition 10,,REP,NO,18,0,2,16
+Lavaca,Precinct 329,Proposition 10,,REP,NO,9,2,3,4
+Lavaca,Precinct 430,Proposition 10,,REP,NO,16,3,3,10
+Lavaca,Precinct 231,Proposition 10,,REP,NO,23,3,14,6
+Lavaca,Precinct 101,Proposition 10,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,Proposition 10,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,Proposition 10,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,Proposition 10,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,Proposition 10,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,Proposition 10,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,Proposition 10,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,Proposition 10,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,Proposition 10,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,Proposition 10,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,Proposition 10,,REP,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,Proposition 10,,REP,UNDER VOTES,45,0,34,11
+Lavaca,Precinct 102,Proposition 10,,REP,UNDER VOTES,50,1,34,15
+Lavaca,Precinct 208,Proposition 10,,REP,UNDER VOTES,25,0,11,14
+Lavaca,Precinct 309,Proposition 10,,REP,UNDER VOTES,33,2,7,24
+Lavaca,Precinct 311,Proposition 10,,REP,UNDER VOTES,11,0,3,8
+Lavaca,Precinct 416,Proposition 10,,REP,UNDER VOTES,14,0,6,8
+Lavaca,Precinct 119,Proposition 10,,REP,UNDER VOTES,12,2,4,6
+Lavaca,Precinct 223,Proposition 10,,REP,UNDER VOTES,22,4,3,15
+Lavaca,Precinct 329,Proposition 10,,REP,UNDER VOTES,23,1,4,18
+Lavaca,Precinct 430,Proposition 10,,REP,UNDER VOTES,20,3,4,13
+Lavaca,Precinct 231,Proposition 10,,REP,UNDER VOTES,35,3,23,9
+Lavaca,Precinct 101,U.S. House,27,DEM,Victor Melgoza,4,2,1,1
+Lavaca,Precinct 102,U.S. House,27,DEM,Victor Melgoza,6,4,0,2
+Lavaca,Precinct 208,U.S. House,27,DEM,Victor Melgoza,2,1,0,1
+Lavaca,Precinct 309,U.S. House,27,DEM,Victor Melgoza,8,5,2,1
+Lavaca,Precinct 311,U.S. House,27,DEM,Victor Melgoza,3,1,0,2
+Lavaca,Precinct 416,U.S. House,27,DEM,Victor Melgoza,2,1,0,1
+Lavaca,Precinct 119,U.S. House,27,DEM,Victor Melgoza,5,0,2,3
+Lavaca,Precinct 223,U.S. House,27,DEM,Victor Melgoza,4,3,0,1
+Lavaca,Precinct 329,U.S. House,27,DEM,Victor Melgoza,8,5,0,3
+Lavaca,Precinct 430,U.S. House,27,DEM,Victor Melgoza,14,3,1,10
+Lavaca,Precinct 231,U.S. House,27,DEM,Victor Melgoza,4,3,1,0
+Lavaca,Precinct 101,U.S. House,27,DEM,Anthony J Tristan,5,4,0,1
+Lavaca,Precinct 102,U.S. House,27,DEM,Anthony J Tristan,22,7,6,9
+Lavaca,Precinct 208,U.S. House,27,DEM,Anthony J Tristan,9,1,3,5
+Lavaca,Precinct 309,U.S. House,27,DEM,Anthony J Tristan,10,7,1,2
+Lavaca,Precinct 311,U.S. House,27,DEM,Anthony J Tristan,7,5,0,2
+Lavaca,Precinct 416,U.S. House,27,DEM,Anthony J Tristan,2,0,2,0
+Lavaca,Precinct 119,U.S. House,27,DEM,Anthony J Tristan,14,5,6,3
+Lavaca,Precinct 223,U.S. House,27,DEM,Anthony J Tristan,10,5,1,4
+Lavaca,Precinct 329,U.S. House,27,DEM,Anthony J Tristan,15,7,3,5
+Lavaca,Precinct 430,U.S. House,27,DEM,Anthony J Tristan,10,5,1,4
+Lavaca,Precinct 231,U.S. House,27,DEM,Anthony J Tristan,17,4,5,8
+Lavaca,Precinct 101,U.S. House,27,DEM,Maclovio Perez Jr,5,2,1,2
+Lavaca,Precinct 102,U.S. House,27,DEM,Maclovio Perez Jr,12,3,6,3
+Lavaca,Precinct 208,U.S. House,27,DEM,Maclovio Perez Jr,2,0,0,2
+Lavaca,Precinct 309,U.S. House,27,DEM,Maclovio Perez Jr,5,1,3,1
+Lavaca,Precinct 311,U.S. House,27,DEM,Maclovio Perez Jr,0,0,0,0
+Lavaca,Precinct 416,U.S. House,27,DEM,Maclovio Perez Jr,0,0,0,0
+Lavaca,Precinct 119,U.S. House,27,DEM,Maclovio Perez Jr,2,0,2,0
+Lavaca,Precinct 223,U.S. House,27,DEM,Maclovio Perez Jr,3,3,0,0
+Lavaca,Precinct 329,U.S. House,27,DEM,Maclovio Perez Jr,8,3,1,4
+Lavaca,Precinct 430,U.S. House,27,DEM,Maclovio Perez Jr,7,0,1,6
+Lavaca,Precinct 231,U.S. House,27,DEM,Maclovio Perez Jr,5,4,0,1
+Lavaca,Precinct 101,U.S. House,27,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,U.S. House,27,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,U.S. House,27,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,U.S. House,27,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,U.S. House,27,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,U.S. House,27,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,U.S. House,27,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,U.S. House,27,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,U.S. House,27,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,U.S. House,27,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,U.S. House,27,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,U.S. House,27,DEM,UNDER VOTES,4,2,0,2
+Lavaca,Precinct 102,U.S. House,27,DEM,UNDER VOTES,6,2,1,3
+Lavaca,Precinct 208,U.S. House,27,DEM,UNDER VOTES,0,0,0,0
+Lavaca,Precinct 309,U.S. House,27,DEM,UNDER VOTES,6,1,4,1
+Lavaca,Precinct 311,U.S. House,27,DEM,UNDER VOTES,4,3,0,1
+Lavaca,Precinct 416,U.S. House,27,DEM,UNDER VOTES,2,0,0,2
+Lavaca,Precinct 119,U.S. House,27,DEM,UNDER VOTES,0,0,0,0
+Lavaca,Precinct 223,U.S. House,27,DEM,UNDER VOTES,3,1,0,2
+Lavaca,Precinct 329,U.S. House,27,DEM,UNDER VOTES,3,2,0,1
+Lavaca,Precinct 430,U.S. House,27,DEM,UNDER VOTES,4,1,0,3
+Lavaca,Precinct 231,U.S. House,27,DEM,UNDER VOTES,8,2,5,1
+Lavaca,Precinct 101,Governor,,DEM,Rich Wakeland,1,0,1,0
+Lavaca,Precinct 102,Governor,,DEM,Rich Wakeland,1,0,0,1
+Lavaca,Precinct 208,Governor,,DEM,Rich Wakeland,0,0,0,0
+Lavaca,Precinct 309,Governor,,DEM,Rich Wakeland,0,0,0,0
+Lavaca,Precinct 311,Governor,,DEM,Rich Wakeland,0,0,0,0
+Lavaca,Precinct 416,Governor,,DEM,Rich Wakeland,1,1,0,0
+Lavaca,Precinct 119,Governor,,DEM,Rich Wakeland,1,0,0,1
+Lavaca,Precinct 223,Governor,,DEM,Rich Wakeland,0,0,0,0
+Lavaca,Precinct 329,Governor,,DEM,Rich Wakeland,0,0,0,0
+Lavaca,Precinct 430,Governor,,DEM,Rich Wakeland,0,0,0,0
+Lavaca,Precinct 231,Governor,,DEM,Rich Wakeland,2,1,1,0
+Lavaca,Precinct 101,Governor,,DEM,Michael Cooper,1,1,0,0
+Lavaca,Precinct 102,Governor,,DEM,Michael Cooper,3,1,1,1
+Lavaca,Precinct 208,Governor,,DEM,Michael Cooper,0,0,0,0
+Lavaca,Precinct 309,Governor,,DEM,Michael Cooper,2,0,2,0
+Lavaca,Precinct 311,Governor,,DEM,Michael Cooper,0,0,0,0
+Lavaca,Precinct 416,Governor,,DEM,Michael Cooper,0,0,0,0
+Lavaca,Precinct 119,Governor,,DEM,Michael Cooper,1,0,0,1
+Lavaca,Precinct 223,Governor,,DEM,Michael Cooper,1,1,0,0
+Lavaca,Precinct 329,Governor,,DEM,Michael Cooper,1,1,0,0
+Lavaca,Precinct 430,Governor,,DEM,Michael Cooper,4,0,0,4
+Lavaca,Precinct 231,Governor,,DEM,Michael Cooper,0,0,0,0
+Lavaca,Precinct 101,Governor,,DEM,Inocencio (Inno) Barrientez,0,0,0,0
+Lavaca,Precinct 102,Governor,,DEM,Inocencio (Inno) Barrientez,3,0,0,3
+Lavaca,Precinct 208,Governor,,DEM,Inocencio (Inno) Barrientez,0,0,0,0
+Lavaca,Precinct 309,Governor,,DEM,Inocencio (Inno) Barrientez,0,0,0,0
+Lavaca,Precinct 311,Governor,,DEM,Inocencio (Inno) Barrientez,0,0,0,0
+Lavaca,Precinct 416,Governor,,DEM,Inocencio (Inno) Barrientez,0,0,0,0
+Lavaca,Precinct 119,Governor,,DEM,Inocencio (Inno) Barrientez,0,0,0,0
+Lavaca,Precinct 223,Governor,,DEM,Inocencio (Inno) Barrientez,0,0,0,0
+Lavaca,Precinct 329,Governor,,DEM,Inocencio (Inno) Barrientez,1,0,0,1
+Lavaca,Precinct 430,Governor,,DEM,Inocencio (Inno) Barrientez,0,0,0,0
+Lavaca,Precinct 231,Governor,,DEM,Inocencio (Inno) Barrientez,0,0,0,0
+Lavaca,Precinct 101,Governor,,DEM,Beto O'Rourke,14,8,1,5
+Lavaca,Precinct 102,Governor,,DEM,Beto O'Rourke,36,13,12,11
+Lavaca,Precinct 208,Governor,,DEM,Beto O'Rourke,13,2,3,8
+Lavaca,Precinct 309,Governor,,DEM,Beto O'Rourke,25,13,7,5
+Lavaca,Precinct 311,Governor,,DEM,Beto O'Rourke,13,9,0,4
+Lavaca,Precinct 416,Governor,,DEM,Beto O'Rourke,4,0,2,2
+Lavaca,Precinct 119,Governor,,DEM,Beto O'Rourke,18,5,9,4
+Lavaca,Precinct 223,Governor,,DEM,Beto O'Rourke,16,10,1,5
+Lavaca,Precinct 329,Governor,,DEM,Beto O'Rourke,28,14,3,11
+Lavaca,Precinct 430,Governor,,DEM,Beto O'Rourke,27,8,3,16
+Lavaca,Precinct 231,Governor,,DEM,Beto O'Rourke,30,11,10,9
+Lavaca,Precinct 101,Governor,,DEM,Joy Diaz,1,0,0,1
+Lavaca,Precinct 102,Governor,,DEM,Joy Diaz,2,2,0,0
+Lavaca,Precinct 208,Governor,,DEM,Joy Diaz,0,0,0,0
+Lavaca,Precinct 309,Governor,,DEM,Joy Diaz,2,1,1,0
+Lavaca,Precinct 311,Governor,,DEM,Joy Diaz,0,0,0,0
+Lavaca,Precinct 416,Governor,,DEM,Joy Diaz,0,0,0,0
+Lavaca,Precinct 119,Governor,,DEM,Joy Diaz,1,0,1,0
+Lavaca,Precinct 223,Governor,,DEM,Joy Diaz,3,1,0,2
+Lavaca,Precinct 329,Governor,,DEM,Joy Diaz,3,1,1,1
+Lavaca,Precinct 430,Governor,,DEM,Joy Diaz,2,0,0,2
+Lavaca,Precinct 231,Governor,,DEM,Joy Diaz,1,1,0,0
+Lavaca,Precinct 101,Governor,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,Governor,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,Governor,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,Governor,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,Governor,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,Governor,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,Governor,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,Governor,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,Governor,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,Governor,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,Governor,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,Governor,,DEM,UNDER VOTES,1,1,0,0
+Lavaca,Precinct 102,Governor,,DEM,UNDER VOTES,1,0,0,1
+Lavaca,Precinct 208,Governor,,DEM,UNDER VOTES,0,0,0,0
+Lavaca,Precinct 309,Governor,,DEM,UNDER VOTES,0,0,0,0
+Lavaca,Precinct 311,Governor,,DEM,UNDER VOTES,1,0,0,1
+Lavaca,Precinct 416,Governor,,DEM,UNDER VOTES,1,0,0,1
+Lavaca,Precinct 119,Governor,,DEM,UNDER VOTES,0,0,0,0
+Lavaca,Precinct 223,Governor,,DEM,UNDER VOTES,0,0,0,0
+Lavaca,Precinct 329,Governor,,DEM,UNDER VOTES,1,1,0,0
+Lavaca,Precinct 430,Governor,,DEM,UNDER VOTES,2,1,0,1
+Lavaca,Precinct 231,Governor,,DEM,UNDER VOTES,1,0,0,1
+Lavaca,Precinct 101,Lieutenant Governor,,DEM,Mike Collier,10,5,1,4
+Lavaca,Precinct 102,Lieutenant Governor,,DEM,Mike Collier,20,7,6,7
+Lavaca,Precinct 208,Lieutenant Governor,,DEM,Mike Collier,4,0,1,3
+Lavaca,Precinct 309,Lieutenant Governor,,DEM,Mike Collier,11,7,3,1
+Lavaca,Precinct 311,Lieutenant Governor,,DEM,Mike Collier,8,6,0,2
+Lavaca,Precinct 416,Lieutenant Governor,,DEM,Mike Collier,3,1,0,2
+Lavaca,Precinct 119,Lieutenant Governor,,DEM,Mike Collier,8,0,6,2
+Lavaca,Precinct 223,Lieutenant Governor,,DEM,Mike Collier,10,8,0,2
+Lavaca,Precinct 329,Lieutenant Governor,,DEM,Mike Collier,20,13,2,5
+Lavaca,Precinct 430,Lieutenant Governor,,DEM,Mike Collier,15,3,3,9
+Lavaca,Precinct 231,Lieutenant Governor,,DEM,Mike Collier,10,3,3,4
+Lavaca,Precinct 101,Lieutenant Governor,,DEM,Michelle Beckley,4,2,0,2
+Lavaca,Precinct 102,Lieutenant Governor,,DEM,Michelle Beckley,11,5,2,4
+Lavaca,Precinct 208,Lieutenant Governor,,DEM,Michelle Beckley,3,1,0,2
+Lavaca,Precinct 309,Lieutenant Governor,,DEM,Michelle Beckley,10,5,2,3
+Lavaca,Precinct 311,Lieutenant Governor,,DEM,Michelle Beckley,4,2,0,2
+Lavaca,Precinct 416,Lieutenant Governor,,DEM,Michelle Beckley,2,0,2,0
+Lavaca,Precinct 119,Lieutenant Governor,,DEM,Michelle Beckley,7,3,2,2
+Lavaca,Precinct 223,Lieutenant Governor,,DEM,Michelle Beckley,6,3,1,2
+Lavaca,Precinct 329,Lieutenant Governor,,DEM,Michelle Beckley,7,3,1,3
+Lavaca,Precinct 430,Lieutenant Governor,,DEM,Michelle Beckley,7,1,0,6
+Lavaca,Precinct 231,Lieutenant Governor,,DEM,Michelle Beckley,9,3,2,4
+Lavaca,Precinct 101,Lieutenant Governor,,DEM,Carla Brailey,3,2,1,0
+Lavaca,Precinct 102,Lieutenant Governor,,DEM,Carla Brailey,11,4,5,2
+Lavaca,Precinct 208,Lieutenant Governor,,DEM,Carla Brailey,6,1,2,3
+Lavaca,Precinct 309,Lieutenant Governor,,DEM,Carla Brailey,7,2,4,1
+Lavaca,Precinct 311,Lieutenant Governor,,DEM,Carla Brailey,0,0,0,0
+Lavaca,Precinct 416,Lieutenant Governor,,DEM,Carla Brailey,0,0,0,0
+Lavaca,Precinct 119,Lieutenant Governor,,DEM,Carla Brailey,6,2,2,2
+Lavaca,Precinct 223,Lieutenant Governor,,DEM,Carla Brailey,3,0,0,3
+Lavaca,Precinct 329,Lieutenant Governor,,DEM,Carla Brailey,5,1,0,4
+Lavaca,Precinct 430,Lieutenant Governor,,DEM,Carla Brailey,9,4,0,5
+Lavaca,Precinct 231,Lieutenant Governor,,DEM,Carla Brailey,8,6,2,0
+Lavaca,Precinct 101,Lieutenant Governor,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,Lieutenant Governor,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,Lieutenant Governor,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,Lieutenant Governor,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,Lieutenant Governor,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,Lieutenant Governor,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,Lieutenant Governor,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,Lieutenant Governor,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,Lieutenant Governor,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,Lieutenant Governor,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,Lieutenant Governor,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,Lieutenant Governor,,DEM,UNDER VOTES,1,1,0,0
+Lavaca,Precinct 102,Lieutenant Governor,,DEM,UNDER VOTES,4,0,0,4
+Lavaca,Precinct 208,Lieutenant Governor,,DEM,UNDER VOTES,0,0,0,0
+Lavaca,Precinct 309,Lieutenant Governor,,DEM,UNDER VOTES,1,0,1,0
+Lavaca,Precinct 311,Lieutenant Governor,,DEM,UNDER VOTES,2,1,0,1
+Lavaca,Precinct 416,Lieutenant Governor,,DEM,UNDER VOTES,1,0,0,1
+Lavaca,Precinct 119,Lieutenant Governor,,DEM,UNDER VOTES,0,0,0,0
+Lavaca,Precinct 223,Lieutenant Governor,,DEM,UNDER VOTES,1,1,0,0
+Lavaca,Precinct 329,Lieutenant Governor,,DEM,UNDER VOTES,2,0,1,1
+Lavaca,Precinct 430,Lieutenant Governor,,DEM,UNDER VOTES,4,1,0,3
+Lavaca,Precinct 231,Lieutenant Governor,,DEM,UNDER VOTES,7,1,4,2
+Lavaca,Precinct 101,Attorney General,,DEM,Rochelle Mercedes Garza,6,3,1,2
+Lavaca,Precinct 102,Attorney General,,DEM,Rochelle Mercedes Garza,18,5,8,5
+Lavaca,Precinct 208,Attorney General,,DEM,Rochelle Mercedes Garza,5,2,1,2
+Lavaca,Precinct 309,Attorney General,,DEM,Rochelle Mercedes Garza,11,2,5,4
+Lavaca,Precinct 311,Attorney General,,DEM,Rochelle Mercedes Garza,2,2,0,0
+Lavaca,Precinct 416,Attorney General,,DEM,Rochelle Mercedes Garza,1,0,1,0
+Lavaca,Precinct 119,Attorney General,,DEM,Rochelle Mercedes Garza,6,1,3,2
+Lavaca,Precinct 223,Attorney General,,DEM,Rochelle Mercedes Garza,7,5,1,1
+Lavaca,Precinct 329,Attorney General,,DEM,Rochelle Mercedes Garza,9,5,1,3
+Lavaca,Precinct 430,Attorney General,,DEM,Rochelle Mercedes Garza,16,2,1,13
+Lavaca,Precinct 231,Attorney General,,DEM,Rochelle Mercedes Garza,8,4,1,3
+Lavaca,Precinct 101,Attorney General,,DEM,Mike Fields,4,3,0,1
+Lavaca,Precinct 102,Attorney General,,DEM,Mike Fields,7,4,2,1
+Lavaca,Precinct 208,Attorney General,,DEM,Mike Fields,2,0,0,2
+Lavaca,Precinct 309,Attorney General,,DEM,Mike Fields,13,10,3,0
+Lavaca,Precinct 311,Attorney General,,DEM,Mike Fields,4,1,0,3
+Lavaca,Precinct 416,Attorney General,,DEM,Mike Fields,2,1,0,1
+Lavaca,Precinct 119,Attorney General,,DEM,Mike Fields,6,1,3,2
+Lavaca,Precinct 223,Attorney General,,DEM,Mike Fields,3,1,0,2
+Lavaca,Precinct 329,Attorney General,,DEM,Mike Fields,6,4,0,2
+Lavaca,Precinct 430,Attorney General,,DEM,Mike Fields,3,2,0,1
+Lavaca,Precinct 231,Attorney General,,DEM,Mike Fields,9,5,2,2
+Lavaca,Precinct 101,Attorney General,,DEM,Lee Merritt,3,2,0,1
+Lavaca,Precinct 102,Attorney General,,DEM,Lee Merritt,6,2,0,4
+Lavaca,Precinct 208,Attorney General,,DEM,Lee Merritt,0,0,0,0
+Lavaca,Precinct 309,Attorney General,,DEM,Lee Merritt,0,0,0,0
+Lavaca,Precinct 311,Attorney General,,DEM,Lee Merritt,0,0,0,0
+Lavaca,Precinct 416,Attorney General,,DEM,Lee Merritt,1,0,1,0
+Lavaca,Precinct 119,Attorney General,,DEM,Lee Merritt,0,0,0,0
+Lavaca,Precinct 223,Attorney General,,DEM,Lee Merritt,0,0,0,0
+Lavaca,Precinct 329,Attorney General,,DEM,Lee Merritt,0,0,0,0
+Lavaca,Precinct 430,Attorney General,,DEM,Lee Merritt,6,2,0,4
+Lavaca,Precinct 231,Attorney General,,DEM,Lee Merritt,5,0,2,3
+Lavaca,Precinct 101,Attorney General,,DEM,Joe Jaworski,4,1,1,2
+Lavaca,Precinct 102,Attorney General,,DEM,Joe Jaworski,9,4,3,2
+Lavaca,Precinct 208,Attorney General,,DEM,Joe Jaworski,5,0,2,3
+Lavaca,Precinct 309,Attorney General,,DEM,Joe Jaworski,2,2,0,0
+Lavaca,Precinct 311,Attorney General,,DEM,Joe Jaworski,4,3,0,1
+Lavaca,Precinct 416,Attorney General,,DEM,Joe Jaworski,2,0,0,2
+Lavaca,Precinct 119,Attorney General,,DEM,Joe Jaworski,9,3,4,2
+Lavaca,Precinct 223,Attorney General,,DEM,Joe Jaworski,6,3,0,3
+Lavaca,Precinct 329,Attorney General,,DEM,Joe Jaworski,17,8,3,6
+Lavaca,Precinct 430,Attorney General,,DEM,Joe Jaworski,4,1,2,1
+Lavaca,Precinct 231,Attorney General,,DEM,Joe Jaworski,4,0,3,1
+Lavaca,Precinct 101,Attorney General,,DEM,"S. ""TBONE"" Raynor",0,0,0,0
+Lavaca,Precinct 102,Attorney General,,DEM,"S. ""TBONE"" Raynor",3,1,0,2
+Lavaca,Precinct 208,Attorney General,,DEM,"S. ""TBONE"" Raynor",0,0,0,0
+Lavaca,Precinct 309,Attorney General,,DEM,"S. ""TBONE"" Raynor",0,0,0,0
+Lavaca,Precinct 311,Attorney General,,DEM,"S. ""TBONE"" Raynor",2,2,0,0
+Lavaca,Precinct 416,Attorney General,,DEM,"S. ""TBONE"" Raynor",0,0,0,0
+Lavaca,Precinct 119,Attorney General,,DEM,"S. ""TBONE"" Raynor",0,0,0,0
+Lavaca,Precinct 223,Attorney General,,DEM,"S. ""TBONE"" Raynor",1,1,0,0
+Lavaca,Precinct 329,Attorney General,,DEM,"S. ""TBONE"" Raynor",0,0,0,0
+Lavaca,Precinct 430,Attorney General,,DEM,"S. ""TBONE"" Raynor",4,1,0,3
+Lavaca,Precinct 231,Attorney General,,DEM,"S. ""TBONE"" Raynor",1,1,0,0
+Lavaca,Precinct 101,Attorney General,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,Attorney General,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,Attorney General,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,Attorney General,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,Attorney General,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,Attorney General,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,Attorney General,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,Attorney General,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,Attorney General,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,Attorney General,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,Attorney General,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,Attorney General,,DEM,UNDER VOTES,1,1,0,0
+Lavaca,Precinct 102,Attorney General,,DEM,UNDER VOTES,3,0,0,3
+Lavaca,Precinct 208,Attorney General,,DEM,UNDER VOTES,1,0,0,1
+Lavaca,Precinct 309,Attorney General,,DEM,UNDER VOTES,3,0,2,1
+Lavaca,Precinct 311,Attorney General,,DEM,UNDER VOTES,2,1,0,1
+Lavaca,Precinct 416,Attorney General,,DEM,UNDER VOTES,0,0,0,0
+Lavaca,Precinct 119,Attorney General,,DEM,UNDER VOTES,0,0,0,0
+Lavaca,Precinct 223,Attorney General,,DEM,UNDER VOTES,3,2,0,1
+Lavaca,Precinct 329,Attorney General,,DEM,UNDER VOTES,2,0,0,2
+Lavaca,Precinct 430,Attorney General,,DEM,UNDER VOTES,2,1,0,1
+Lavaca,Precinct 231,Attorney General,,DEM,UNDER VOTES,7,3,3,1
+Lavaca,Precinct 101,Comptroller of Public Accounts,,DEM,Janet T. Dudding,7,2,1,4
+Lavaca,Precinct 102,Comptroller of Public Accounts,,DEM,Janet T. Dudding,12,5,4,3
+Lavaca,Precinct 208,Comptroller of Public Accounts,,DEM,Janet T. Dudding,10,1,3,6
+Lavaca,Precinct 309,Comptroller of Public Accounts,,DEM,Janet T. Dudding,16,11,2,3
+Lavaca,Precinct 311,Comptroller of Public Accounts,,DEM,Janet T. Dudding,6,5,0,1
+Lavaca,Precinct 416,Comptroller of Public Accounts,,DEM,Janet T. Dudding,3,0,1,2
+Lavaca,Precinct 119,Comptroller of Public Accounts,,DEM,Janet T. Dudding,12,4,5,3
+Lavaca,Precinct 223,Comptroller of Public Accounts,,DEM,Janet T. Dudding,4,2,1,1
+Lavaca,Precinct 329,Comptroller of Public Accounts,,DEM,Janet T. Dudding,13,8,2,3
+Lavaca,Precinct 430,Comptroller of Public Accounts,,DEM,Janet T. Dudding,13,3,1,9
+Lavaca,Precinct 231,Comptroller of Public Accounts,,DEM,Janet T. Dudding,20,9,5,6
+Lavaca,Precinct 101,Comptroller of Public Accounts,,DEM,Tim Mahoney,8,6,0,2
+Lavaca,Precinct 102,Comptroller of Public Accounts,,DEM,Tim Mahoney,16,4,5,7
+Lavaca,Precinct 208,Comptroller of Public Accounts,,DEM,Tim Mahoney,3,1,0,2
+Lavaca,Precinct 309,Comptroller of Public Accounts,,DEM,Tim Mahoney,5,2,3,0
+Lavaca,Precinct 311,Comptroller of Public Accounts,,DEM,Tim Mahoney,4,2,0,2
+Lavaca,Precinct 416,Comptroller of Public Accounts,,DEM,Tim Mahoney,2,1,0,1
+Lavaca,Precinct 119,Comptroller of Public Accounts,,DEM,Tim Mahoney,6,1,3,2
+Lavaca,Precinct 223,Comptroller of Public Accounts,,DEM,Tim Mahoney,13,9,0,4
+Lavaca,Precinct 329,Comptroller of Public Accounts,,DEM,Tim Mahoney,13,5,1,7
+Lavaca,Precinct 430,Comptroller of Public Accounts,,DEM,Tim Mahoney,7,3,0,4
+Lavaca,Precinct 231,Comptroller of Public Accounts,,DEM,Tim Mahoney,6,1,3,2
+Lavaca,Precinct 101,Comptroller of Public Accounts,,DEM,Angel Luis Vega,2,1,1,0
+Lavaca,Precinct 102,Comptroller of Public Accounts,,DEM,Angel Luis Vega,9,5,3,1
+Lavaca,Precinct 208,Comptroller of Public Accounts,,DEM,Angel Luis Vega,0,0,0,0
+Lavaca,Precinct 309,Comptroller of Public Accounts,,DEM,Angel Luis Vega,6,1,3,2
+Lavaca,Precinct 311,Comptroller of Public Accounts,,DEM,Angel Luis Vega,1,1,0,0
+Lavaca,Precinct 416,Comptroller of Public Accounts,,DEM,Angel Luis Vega,1,0,1,0
+Lavaca,Precinct 119,Comptroller of Public Accounts,,DEM,Angel Luis Vega,3,0,2,1
+Lavaca,Precinct 223,Comptroller of Public Accounts,,DEM,Angel Luis Vega,0,0,0,0
+Lavaca,Precinct 329,Comptroller of Public Accounts,,DEM,Angel Luis Vega,4,2,0,2
+Lavaca,Precinct 430,Comptroller of Public Accounts,,DEM,Angel Luis Vega,13,2,2,9
+Lavaca,Precinct 231,Comptroller of Public Accounts,,DEM,Angel Luis Vega,3,2,0,1
+Lavaca,Precinct 101,Comptroller of Public Accounts,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,Comptroller of Public Accounts,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,Comptroller of Public Accounts,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,Comptroller of Public Accounts,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,Comptroller of Public Accounts,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,Comptroller of Public Accounts,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,Comptroller of Public Accounts,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,Comptroller of Public Accounts,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,Comptroller of Public Accounts,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,Comptroller of Public Accounts,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,Comptroller of Public Accounts,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,Comptroller of Public Accounts,,DEM,UNDER VOTES,1,1,0,0
+Lavaca,Precinct 102,Comptroller of Public Accounts,,DEM,UNDER VOTES,9,2,1,6
+Lavaca,Precinct 208,Comptroller of Public Accounts,,DEM,UNDER VOTES,0,0,0,0
+Lavaca,Precinct 309,Comptroller of Public Accounts,,DEM,UNDER VOTES,2,0,2,0
+Lavaca,Precinct 311,Comptroller of Public Accounts,,DEM,UNDER VOTES,3,1,0,2
+Lavaca,Precinct 416,Comptroller of Public Accounts,,DEM,UNDER VOTES,0,0,0,0
+Lavaca,Precinct 119,Comptroller of Public Accounts,,DEM,UNDER VOTES,0,0,0,0
+Lavaca,Precinct 223,Comptroller of Public Accounts,,DEM,UNDER VOTES,3,1,0,2
+Lavaca,Precinct 329,Comptroller of Public Accounts,,DEM,UNDER VOTES,4,2,1,1
+Lavaca,Precinct 430,Comptroller of Public Accounts,,DEM,UNDER VOTES,2,1,0,1
+Lavaca,Precinct 231,Comptroller of Public Accounts,,DEM,UNDER VOTES,5,1,3,1
+Lavaca,Precinct 101,Comm General Land Office,,DEM,Jay Kleberg,5,3,0,2
+Lavaca,Precinct 102,Comm General Land Office,,DEM,Jay Kleberg,10,6,3,1
+Lavaca,Precinct 208,Comm General Land Office,,DEM,Jay Kleberg,6,1,2,3
+Lavaca,Precinct 309,Comm General Land Office,,DEM,Jay Kleberg,11,8,2,1
+Lavaca,Precinct 311,Comm General Land Office,,DEM,Jay Kleberg,7,5,0,2
+Lavaca,Precinct 416,Comm General Land Office,,DEM,Jay Kleberg,2,1,0,1
+Lavaca,Precinct 119,Comm General Land Office,,DEM,Jay Kleberg,11,5,2,4
+Lavaca,Precinct 223,Comm General Land Office,,DEM,Jay Kleberg,10,7,0,3
+Lavaca,Precinct 329,Comm General Land Office,,DEM,Jay Kleberg,10,6,0,4
+Lavaca,Precinct 430,Comm General Land Office,,DEM,Jay Kleberg,6,3,0,3
+Lavaca,Precinct 231,Comm General Land Office,,DEM,Jay Kleberg,13,6,5,2
+Lavaca,Precinct 101,Comm General Land Office,,DEM,Sandragrace Martinez,1,1,0,0
+Lavaca,Precinct 102,Comm General Land Office,,DEM,Sandragrace Martinez,13,5,6,2
+Lavaca,Precinct 208,Comm General Land Office,,DEM,Sandragrace Martinez,1,0,0,1
+Lavaca,Precinct 309,Comm General Land Office,,DEM,Sandragrace Martinez,6,0,3,3
+Lavaca,Precinct 311,Comm General Land Office,,DEM,Sandragrace Martinez,0,0,0,0
+Lavaca,Precinct 416,Comm General Land Office,,DEM,Sandragrace Martinez,0,0,0,0
+Lavaca,Precinct 119,Comm General Land Office,,DEM,Sandragrace Martinez,6,0,5,1
+Lavaca,Precinct 223,Comm General Land Office,,DEM,Sandragrace Martinez,4,3,0,1
+Lavaca,Precinct 329,Comm General Land Office,,DEM,Sandragrace Martinez,6,3,0,3
+Lavaca,Precinct 430,Comm General Land Office,,DEM,Sandragrace Martinez,10,1,2,7
+Lavaca,Precinct 231,Comm General Land Office,,DEM,Sandragrace Martinez,4,3,1,0
+Lavaca,Precinct 101,Comm General Land Office,,DEM,Michael Lange,6,4,1,1
+Lavaca,Precinct 102,Comm General Land Office,,DEM,Michael Lange,11,1,3,7
+Lavaca,Precinct 208,Comm General Land Office,,DEM,Michael Lange,2,0,0,2
+Lavaca,Precinct 309,Comm General Land Office,,DEM,Michael Lange,9,6,3,0
+Lavaca,Precinct 311,Comm General Land Office,,DEM,Michael Lange,5,3,0,2
+Lavaca,Precinct 416,Comm General Land Office,,DEM,Michael Lange,2,0,1,1
+Lavaca,Precinct 119,Comm General Land Office,,DEM,Michael Lange,3,0,2,1
+Lavaca,Precinct 223,Comm General Land Office,,DEM,Michael Lange,3,1,0,2
+Lavaca,Precinct 329,Comm General Land Office,,DEM,Michael Lange,10,4,2,4
+Lavaca,Precinct 430,Comm General Land Office,,DEM,Michael Lange,10,3,0,7
+Lavaca,Precinct 231,Comm General Land Office,,DEM,Michael Lange,7,2,1,4
+Lavaca,Precinct 101,Comm General Land Office,,DEM,Jinny Suh,4,1,1,2
+Lavaca,Precinct 102,Comm General Land Office,,DEM,Jinny Suh,4,2,0,2
+Lavaca,Precinct 208,Comm General Land Office,,DEM,Jinny Suh,4,1,1,2
+Lavaca,Precinct 309,Comm General Land Office,,DEM,Jinny Suh,1,0,1,0
+Lavaca,Precinct 311,Comm General Land Office,,DEM,Jinny Suh,0,0,0,0
+Lavaca,Precinct 416,Comm General Land Office,,DEM,Jinny Suh,2,0,1,1
+Lavaca,Precinct 119,Comm General Land Office,,DEM,Jinny Suh,1,0,1,0
+Lavaca,Precinct 223,Comm General Land Office,,DEM,Jinny Suh,1,0,1,0
+Lavaca,Precinct 329,Comm General Land Office,,DEM,Jinny Suh,3,2,1,0
+Lavaca,Precinct 430,Comm General Land Office,,DEM,Jinny Suh,6,1,1,4
+Lavaca,Precinct 231,Comm General Land Office,,DEM,Jinny Suh,5,1,1,3
+Lavaca,Precinct 101,Comm General Land Office,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,Comm General Land Office,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,Comm General Land Office,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,Comm General Land Office,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,Comm General Land Office,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,Comm General Land Office,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,Comm General Land Office,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,Comm General Land Office,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,Comm General Land Office,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,Comm General Land Office,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,Comm General Land Office,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,Comm General Land Office,,DEM,UNDER VOTES,2,1,0,1
+Lavaca,Precinct 102,Comm General Land Office,,DEM,UNDER VOTES,8,2,1,5
+Lavaca,Precinct 208,Comm General Land Office,,DEM,UNDER VOTES,0,0,0,0
+Lavaca,Precinct 309,Comm General Land Office,,DEM,UNDER VOTES,2,0,1,1
+Lavaca,Precinct 311,Comm General Land Office,,DEM,UNDER VOTES,2,1,0,1
+Lavaca,Precinct 416,Comm General Land Office,,DEM,UNDER VOTES,0,0,0,0
+Lavaca,Precinct 119,Comm General Land Office,,DEM,UNDER VOTES,0,0,0,0
+Lavaca,Precinct 223,Comm General Land Office,,DEM,UNDER VOTES,2,1,0,1
+Lavaca,Precinct 329,Comm General Land Office,,DEM,UNDER VOTES,5,2,1,2
+Lavaca,Precinct 430,Comm General Land Office,,DEM,UNDER VOTES,3,1,0,2
+Lavaca,Precinct 231,Comm General Land Office,,DEM,UNDER VOTES,5,1,3,1
+Lavaca,Precinct 101,Commissioner of Agriculture,,DEM,Ed Ireson,6,4,0,2
+Lavaca,Precinct 102,Commissioner of Agriculture,,DEM,Ed Ireson,11,2,2,7
+Lavaca,Precinct 208,Commissioner of Agriculture,,DEM,Ed Ireson,2,2,0,0
+Lavaca,Precinct 309,Commissioner of Agriculture,,DEM,Ed Ireson,8,6,2,0
+Lavaca,Precinct 311,Commissioner of Agriculture,,DEM,Ed Ireson,4,3,0,1
+Lavaca,Precinct 416,Commissioner of Agriculture,,DEM,Ed Ireson,2,1,1,0
+Lavaca,Precinct 119,Commissioner of Agriculture,,DEM,Ed Ireson,4,1,3,0
+Lavaca,Precinct 223,Commissioner of Agriculture,,DEM,Ed Ireson,7,5,0,2
+Lavaca,Precinct 329,Commissioner of Agriculture,,DEM,Ed Ireson,8,4,0,4
+Lavaca,Precinct 430,Commissioner of Agriculture,,DEM,Ed Ireson,7,3,0,4
+Lavaca,Precinct 231,Commissioner of Agriculture,,DEM,Ed Ireson,4,3,1,0
+Lavaca,Precinct 101,Commissioner of Agriculture,,DEM,Susan Hays,11,5,2,4
+Lavaca,Precinct 102,Commissioner of Agriculture,,DEM,Susan Hays,28,12,10,6
+Lavaca,Precinct 208,Commissioner of Agriculture,,DEM,Susan Hays,11,0,3,8
+Lavaca,Precinct 309,Commissioner of Agriculture,,DEM,Susan Hays,20,8,7,5
+Lavaca,Precinct 311,Commissioner of Agriculture,,DEM,Susan Hays,8,5,0,3
+Lavaca,Precinct 416,Commissioner of Agriculture,,DEM,Susan Hays,3,0,1,2
+Lavaca,Precinct 119,Commissioner of Agriculture,,DEM,Susan Hays,15,4,5,6
+Lavaca,Precinct 223,Commissioner of Agriculture,,DEM,Susan Hays,11,6,1,4
+Lavaca,Precinct 329,Commissioner of Agriculture,,DEM,Susan Hays,21,11,3,7
+Lavaca,Precinct 430,Commissioner of Agriculture,,DEM,Susan Hays,27,6,3,18
+Lavaca,Precinct 231,Commissioner of Agriculture,,DEM,Susan Hays,25,9,7,9
+Lavaca,Precinct 101,Commissioner of Agriculture,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,Commissioner of Agriculture,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,Commissioner of Agriculture,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,Commissioner of Agriculture,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,Commissioner of Agriculture,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,Commissioner of Agriculture,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,Commissioner of Agriculture,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,Commissioner of Agriculture,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,Commissioner of Agriculture,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,Commissioner of Agriculture,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,Commissioner of Agriculture,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,Commissioner of Agriculture,,DEM,UNDER VOTES,1,1,0,0
+Lavaca,Precinct 102,Commissioner of Agriculture,,DEM,UNDER VOTES,7,2,1,4
+Lavaca,Precinct 208,Commissioner of Agriculture,,DEM,UNDER VOTES,0,0,0,0
+Lavaca,Precinct 309,Commissioner of Agriculture,,DEM,UNDER VOTES,1,0,1,0
+Lavaca,Precinct 311,Commissioner of Agriculture,,DEM,UNDER VOTES,2,1,0,1
+Lavaca,Precinct 416,Commissioner of Agriculture,,DEM,UNDER VOTES,1,0,0,1
+Lavaca,Precinct 119,Commissioner of Agriculture,,DEM,UNDER VOTES,2,0,2,0
+Lavaca,Precinct 223,Commissioner of Agriculture,,DEM,UNDER VOTES,2,1,0,1
+Lavaca,Precinct 329,Commissioner of Agriculture,,DEM,UNDER VOTES,5,2,1,2
+Lavaca,Precinct 430,Commissioner of Agriculture,,DEM,UNDER VOTES,1,0,0,1
+Lavaca,Precinct 231,Commissioner of Agriculture,,DEM,UNDER VOTES,5,1,3,1
+Lavaca,Precinct 101,Railroad Commissioner,,DEM,Luke Warford,14,8,1,5
+Lavaca,Precinct 102,Railroad Commissioner,,DEM,Luke Warford,32,14,10,8
+Lavaca,Precinct 208,Railroad Commissioner,,DEM,Luke Warford,12,1,3,8
+Lavaca,Precinct 309,Railroad Commissioner,,DEM,Luke Warford,22,12,6,4
+Lavaca,Precinct 311,Railroad Commissioner,,DEM,Luke Warford,13,9,0,4
+Lavaca,Precinct 416,Railroad Commissioner,,DEM,Luke Warford,6,1,2,3
+Lavaca,Precinct 119,Railroad Commissioner,,DEM,Luke Warford,16,2,8,6
+Lavaca,Precinct 223,Railroad Commissioner,,DEM,Luke Warford,15,11,1,3
+Lavaca,Precinct 329,Railroad Commissioner,,DEM,Luke Warford,29,15,4,10
+Lavaca,Precinct 430,Railroad Commissioner,,DEM,Luke Warford,30,9,2,19
+Lavaca,Precinct 231,Railroad Commissioner,,DEM,Luke Warford,22,8,5,9
+Lavaca,Precinct 101,Railroad Commissioner,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,Railroad Commissioner,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,Railroad Commissioner,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,Railroad Commissioner,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,Railroad Commissioner,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,Railroad Commissioner,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,Railroad Commissioner,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,Railroad Commissioner,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,Railroad Commissioner,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,Railroad Commissioner,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,Railroad Commissioner,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,Railroad Commissioner,,DEM,UNDER VOTES,4,2,1,1
+Lavaca,Precinct 102,Railroad Commissioner,,DEM,UNDER VOTES,14,2,3,9
+Lavaca,Precinct 208,Railroad Commissioner,,DEM,UNDER VOTES,1,1,0,0
+Lavaca,Precinct 309,Railroad Commissioner,,DEM,UNDER VOTES,7,2,4,1
+Lavaca,Precinct 311,Railroad Commissioner,,DEM,UNDER VOTES,1,0,0,1
+Lavaca,Precinct 416,Railroad Commissioner,,DEM,UNDER VOTES,0,0,0,0
+Lavaca,Precinct 119,Railroad Commissioner,,DEM,UNDER VOTES,5,3,2,0
+Lavaca,Precinct 223,Railroad Commissioner,,DEM,UNDER VOTES,5,1,0,4
+Lavaca,Precinct 329,Railroad Commissioner,,DEM,UNDER VOTES,5,2,0,3
+Lavaca,Precinct 430,Railroad Commissioner,,DEM,UNDER VOTES,5,0,1,4
+Lavaca,Precinct 231,Railroad Commissioner,,DEM,UNDER VOTES,12,5,6,1
+Lavaca,Precinct 101,"Justice, Supreme Court, Pl 3",,DEM,Erin A Nowell,12,8,0,4
+Lavaca,Precinct 102,"Justice, Supreme Court, Pl 3",,DEM,Erin A Nowell,34,14,11,9
+Lavaca,Precinct 208,"Justice, Supreme Court, Pl 3",,DEM,Erin A Nowell,12,1,3,8
+Lavaca,Precinct 309,"Justice, Supreme Court, Pl 3",,DEM,Erin A Nowell,24,12,8,4
+Lavaca,Precinct 311,"Justice, Supreme Court, Pl 3",,DEM,Erin A Nowell,14,9,0,5
+Lavaca,Precinct 416,"Justice, Supreme Court, Pl 3",,DEM,Erin A Nowell,5,1,2,2
+Lavaca,Precinct 119,"Justice, Supreme Court, Pl 3",,DEM,Erin A Nowell,16,2,8,6
+Lavaca,Precinct 223,"Justice, Supreme Court, Pl 3",,DEM,Erin A Nowell,15,11,1,3
+Lavaca,Precinct 329,"Justice, Supreme Court, Pl 3",,DEM,Erin A Nowell,28,14,4,10
+Lavaca,Precinct 430,"Justice, Supreme Court, Pl 3",,DEM,Erin A Nowell,28,9,2,17
+Lavaca,Precinct 231,"Justice, Supreme Court, Pl 3",,DEM,Erin A Nowell,22,7,6,9
+Lavaca,Precinct 101,"Justice, Supreme Court, Pl 3",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,"Justice, Supreme Court, Pl 3",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,"Justice, Supreme Court, Pl 3",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,"Justice, Supreme Court, Pl 3",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,"Justice, Supreme Court, Pl 3",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,"Justice, Supreme Court, Pl 3",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,"Justice, Supreme Court, Pl 3",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,"Justice, Supreme Court, Pl 3",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,"Justice, Supreme Court, Pl 3",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,"Justice, Supreme Court, Pl 3",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,"Justice, Supreme Court, Pl 3",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,"Justice, Supreme Court, Pl 3",,DEM,UNDER VOTES,6,2,2,2
+Lavaca,Precinct 102,"Justice, Supreme Court, Pl 3",,DEM,UNDER VOTES,12,2,2,8
+Lavaca,Precinct 208,"Justice, Supreme Court, Pl 3",,DEM,UNDER VOTES,1,1,0,0
+Lavaca,Precinct 309,"Justice, Supreme Court, Pl 3",,DEM,UNDER VOTES,5,2,2,1
+Lavaca,Precinct 311,"Justice, Supreme Court, Pl 3",,DEM,UNDER VOTES,0,0,0,0
+Lavaca,Precinct 416,"Justice, Supreme Court, Pl 3",,DEM,UNDER VOTES,1,0,0,1
+Lavaca,Precinct 119,"Justice, Supreme Court, Pl 3",,DEM,UNDER VOTES,5,3,2,0
+Lavaca,Precinct 223,"Justice, Supreme Court, Pl 3",,DEM,UNDER VOTES,5,1,0,4
+Lavaca,Precinct 329,"Justice, Supreme Court, Pl 3",,DEM,UNDER VOTES,6,3,0,3
+Lavaca,Precinct 430,"Justice, Supreme Court, Pl 3",,DEM,UNDER VOTES,7,0,1,6
+Lavaca,Precinct 231,"Justice, Supreme Court, Pl 3",,DEM,UNDER VOTES,12,6,5,1
+Lavaca,Precinct 101,"Justice, Supreme Court, Pl 5",,DEM,Amanda Reichek,14,8,1,5
+Lavaca,Precinct 102,"Justice, Supreme Court, Pl 5",,DEM,Amanda Reichek,36,14,12,10
+Lavaca,Precinct 208,"Justice, Supreme Court, Pl 5",,DEM,Amanda Reichek,12,1,3,8
+Lavaca,Precinct 309,"Justice, Supreme Court, Pl 5",,DEM,Amanda Reichek,22,11,7,4
+Lavaca,Precinct 311,"Justice, Supreme Court, Pl 5",,DEM,Amanda Reichek,13,8,0,5
+Lavaca,Precinct 416,"Justice, Supreme Court, Pl 5",,DEM,Amanda Reichek,6,1,2,3
+Lavaca,Precinct 119,"Justice, Supreme Court, Pl 5",,DEM,Amanda Reichek,15,2,8,5
+Lavaca,Precinct 223,"Justice, Supreme Court, Pl 5",,DEM,Amanda Reichek,15,11,1,3
+Lavaca,Precinct 329,"Justice, Supreme Court, Pl 5",,DEM,Amanda Reichek,28,14,4,10
+Lavaca,Precinct 430,"Justice, Supreme Court, Pl 5",,DEM,Amanda Reichek,30,9,2,19
+Lavaca,Precinct 231,"Justice, Supreme Court, Pl 5",,DEM,Amanda Reichek,23,8,6,9
+Lavaca,Precinct 101,"Justice, Supreme Court, Pl 5",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,"Justice, Supreme Court, Pl 5",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,"Justice, Supreme Court, Pl 5",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,"Justice, Supreme Court, Pl 5",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,"Justice, Supreme Court, Pl 5",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,"Justice, Supreme Court, Pl 5",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,"Justice, Supreme Court, Pl 5",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,"Justice, Supreme Court, Pl 5",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,"Justice, Supreme Court, Pl 5",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,"Justice, Supreme Court, Pl 5",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,"Justice, Supreme Court, Pl 5",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,"Justice, Supreme Court, Pl 5",,DEM,UNDER VOTES,4,2,1,1
+Lavaca,Precinct 102,"Justice, Supreme Court, Pl 5",,DEM,UNDER VOTES,10,2,1,7
+Lavaca,Precinct 208,"Justice, Supreme Court, Pl 5",,DEM,UNDER VOTES,1,1,0,0
+Lavaca,Precinct 309,"Justice, Supreme Court, Pl 5",,DEM,UNDER VOTES,7,3,3,1
+Lavaca,Precinct 311,"Justice, Supreme Court, Pl 5",,DEM,UNDER VOTES,1,1,0,0
+Lavaca,Precinct 416,"Justice, Supreme Court, Pl 5",,DEM,UNDER VOTES,0,0,0,0
+Lavaca,Precinct 119,"Justice, Supreme Court, Pl 5",,DEM,UNDER VOTES,6,3,2,1
+Lavaca,Precinct 223,"Justice, Supreme Court, Pl 5",,DEM,UNDER VOTES,5,1,0,4
+Lavaca,Precinct 329,"Justice, Supreme Court, Pl 5",,DEM,UNDER VOTES,6,3,0,3
+Lavaca,Precinct 430,"Justice, Supreme Court, Pl 5",,DEM,UNDER VOTES,5,0,1,4
+Lavaca,Precinct 231,"Justice, Supreme Court, Pl 5",,DEM,UNDER VOTES,11,5,5,1
+Lavaca,Precinct 101,"Justice, Supreme Court, Pl 9",,DEM,Julia Maldonado,12,8,0,4
+Lavaca,Precinct 102,"Justice, Supreme Court, Pl 9",,DEM,Julia Maldonado,36,14,13,9
+Lavaca,Precinct 208,"Justice, Supreme Court, Pl 9",,DEM,Julia Maldonado,12,1,3,8
+Lavaca,Precinct 309,"Justice, Supreme Court, Pl 9",,DEM,Julia Maldonado,24,13,6,5
+Lavaca,Precinct 311,"Justice, Supreme Court, Pl 9",,DEM,Julia Maldonado,14,9,0,5
+Lavaca,Precinct 416,"Justice, Supreme Court, Pl 9",,DEM,Julia Maldonado,6,1,2,3
+Lavaca,Precinct 119,"Justice, Supreme Court, Pl 9",,DEM,Julia Maldonado,16,2,8,6
+Lavaca,Precinct 223,"Justice, Supreme Court, Pl 9",,DEM,Julia Maldonado,17,11,1,5
+Lavaca,Precinct 329,"Justice, Supreme Court, Pl 9",,DEM,Julia Maldonado,27,14,4,9
+Lavaca,Precinct 430,"Justice, Supreme Court, Pl 9",,DEM,Julia Maldonado,30,9,3,18
+Lavaca,Precinct 231,"Justice, Supreme Court, Pl 9",,DEM,Julia Maldonado,21,7,6,8
+Lavaca,Precinct 101,"Justice, Supreme Court, Pl 9",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,"Justice, Supreme Court, Pl 9",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,"Justice, Supreme Court, Pl 9",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,"Justice, Supreme Court, Pl 9",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,"Justice, Supreme Court, Pl 9",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,"Justice, Supreme Court, Pl 9",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,"Justice, Supreme Court, Pl 9",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,"Justice, Supreme Court, Pl 9",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,"Justice, Supreme Court, Pl 9",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,"Justice, Supreme Court, Pl 9",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,"Justice, Supreme Court, Pl 9",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,"Justice, Supreme Court, Pl 9",,DEM,UNDER VOTES,6,2,2,2
+Lavaca,Precinct 102,"Justice, Supreme Court, Pl 9",,DEM,UNDER VOTES,10,2,0,8
+Lavaca,Precinct 208,"Justice, Supreme Court, Pl 9",,DEM,UNDER VOTES,1,1,0,0
+Lavaca,Precinct 309,"Justice, Supreme Court, Pl 9",,DEM,UNDER VOTES,5,1,4,0
+Lavaca,Precinct 311,"Justice, Supreme Court, Pl 9",,DEM,UNDER VOTES,0,0,0,0
+Lavaca,Precinct 416,"Justice, Supreme Court, Pl 9",,DEM,UNDER VOTES,0,0,0,0
+Lavaca,Precinct 119,"Justice, Supreme Court, Pl 9",,DEM,UNDER VOTES,5,3,2,0
+Lavaca,Precinct 223,"Justice, Supreme Court, Pl 9",,DEM,UNDER VOTES,3,1,0,2
+Lavaca,Precinct 329,"Justice, Supreme Court, Pl 9",,DEM,UNDER VOTES,7,3,0,4
+Lavaca,Precinct 430,"Justice, Supreme Court, Pl 9",,DEM,UNDER VOTES,5,0,0,5
+Lavaca,Precinct 231,"Justice, Supreme Court, Pl 9",,DEM,UNDER VOTES,13,6,5,2
+Lavaca,Precinct 101,"Judge, Ct of Crim App, Pl 5",,DEM,Dana Huffman,11,8,0,3
+Lavaca,Precinct 102,"Judge, Ct of Crim App, Pl 5",,DEM,Dana Huffman,36,14,12,10
+Lavaca,Precinct 208,"Judge, Ct of Crim App, Pl 5",,DEM,Dana Huffman,12,1,3,8
+Lavaca,Precinct 309,"Judge, Ct of Crim App, Pl 5",,DEM,Dana Huffman,24,13,6,5
+Lavaca,Precinct 311,"Judge, Ct of Crim App, Pl 5",,DEM,Dana Huffman,14,9,0,5
+Lavaca,Precinct 416,"Judge, Ct of Crim App, Pl 5",,DEM,Dana Huffman,6,1,2,3
+Lavaca,Precinct 119,"Judge, Ct of Crim App, Pl 5",,DEM,Dana Huffman,15,2,8,5
+Lavaca,Precinct 223,"Judge, Ct of Crim App, Pl 5",,DEM,Dana Huffman,16,10,1,5
+Lavaca,Precinct 329,"Judge, Ct of Crim App, Pl 5",,DEM,Dana Huffman,26,15,4,7
+Lavaca,Precinct 430,"Judge, Ct of Crim App, Pl 5",,DEM,Dana Huffman,28,9,3,16
+Lavaca,Precinct 231,"Judge, Ct of Crim App, Pl 5",,DEM,Dana Huffman,24,8,7,9
+Lavaca,Precinct 101,"Judge, Ct of Crim App, Pl 5",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,"Judge, Ct of Crim App, Pl 5",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,"Judge, Ct of Crim App, Pl 5",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,"Judge, Ct of Crim App, Pl 5",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,"Judge, Ct of Crim App, Pl 5",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,"Judge, Ct of Crim App, Pl 5",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,"Judge, Ct of Crim App, Pl 5",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,"Judge, Ct of Crim App, Pl 5",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,"Judge, Ct of Crim App, Pl 5",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,"Judge, Ct of Crim App, Pl 5",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,"Judge, Ct of Crim App, Pl 5",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,"Judge, Ct of Crim App, Pl 5",,DEM,UNDER VOTES,7,2,2,3
+Lavaca,Precinct 102,"Judge, Ct of Crim App, Pl 5",,DEM,UNDER VOTES,10,2,1,7
+Lavaca,Precinct 208,"Judge, Ct of Crim App, Pl 5",,DEM,UNDER VOTES,1,1,0,0
+Lavaca,Precinct 309,"Judge, Ct of Crim App, Pl 5",,DEM,UNDER VOTES,5,1,4,0
+Lavaca,Precinct 311,"Judge, Ct of Crim App, Pl 5",,DEM,UNDER VOTES,0,0,0,0
+Lavaca,Precinct 416,"Judge, Ct of Crim App, Pl 5",,DEM,UNDER VOTES,0,0,0,0
+Lavaca,Precinct 119,"Judge, Ct of Crim App, Pl 5",,DEM,UNDER VOTES,6,3,2,1
+Lavaca,Precinct 223,"Judge, Ct of Crim App, Pl 5",,DEM,UNDER VOTES,4,2,0,2
+Lavaca,Precinct 329,"Judge, Ct of Crim App, Pl 5",,DEM,UNDER VOTES,8,2,0,6
+Lavaca,Precinct 430,"Judge, Ct of Crim App, Pl 5",,DEM,UNDER VOTES,7,0,0,7
+Lavaca,Precinct 231,"Judge, Ct of Crim App, Pl 5",,DEM,UNDER VOTES,10,5,4,1
+Lavaca,Precinct 101,"Judge, Ct of Crim App, Pl 6",,DEM,Robert Johnson,13,8,1,4
+Lavaca,Precinct 102,"Judge, Ct of Crim App, Pl 6",,DEM,Robert Johnson,36,15,11,10
+Lavaca,Precinct 208,"Judge, Ct of Crim App, Pl 6",,DEM,Robert Johnson,12,1,3,8
+Lavaca,Precinct 309,"Judge, Ct of Crim App, Pl 6",,DEM,Robert Johnson,23,13,6,4
+Lavaca,Precinct 311,"Judge, Ct of Crim App, Pl 6",,DEM,Robert Johnson,12,8,0,4
+Lavaca,Precinct 416,"Judge, Ct of Crim App, Pl 6",,DEM,Robert Johnson,6,1,2,3
+Lavaca,Precinct 119,"Judge, Ct of Crim App, Pl 6",,DEM,Robert Johnson,16,2,8,6
+Lavaca,Precinct 223,"Judge, Ct of Crim App, Pl 6",,DEM,Robert Johnson,17,11,1,5
+Lavaca,Precinct 329,"Judge, Ct of Crim App, Pl 6",,DEM,Robert Johnson,27,15,4,8
+Lavaca,Precinct 430,"Judge, Ct of Crim App, Pl 6",,DEM,Robert Johnson,29,9,3,17
+Lavaca,Precinct 231,"Judge, Ct of Crim App, Pl 6",,DEM,Robert Johnson,24,8,7,9
+Lavaca,Precinct 101,"Judge, Ct of Crim App, Pl 6",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,"Judge, Ct of Crim App, Pl 6",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,"Judge, Ct of Crim App, Pl 6",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,"Judge, Ct of Crim App, Pl 6",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,"Judge, Ct of Crim App, Pl 6",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,"Judge, Ct of Crim App, Pl 6",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,"Judge, Ct of Crim App, Pl 6",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,"Judge, Ct of Crim App, Pl 6",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,"Judge, Ct of Crim App, Pl 6",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,"Judge, Ct of Crim App, Pl 6",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,"Judge, Ct of Crim App, Pl 6",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,"Judge, Ct of Crim App, Pl 6",,DEM,UNDER VOTES,5,2,1,2
+Lavaca,Precinct 102,"Judge, Ct of Crim App, Pl 6",,DEM,UNDER VOTES,10,1,2,7
+Lavaca,Precinct 208,"Judge, Ct of Crim App, Pl 6",,DEM,UNDER VOTES,1,1,0,0
+Lavaca,Precinct 309,"Judge, Ct of Crim App, Pl 6",,DEM,UNDER VOTES,6,1,4,1
+Lavaca,Precinct 311,"Judge, Ct of Crim App, Pl 6",,DEM,UNDER VOTES,2,1,0,1
+Lavaca,Precinct 416,"Judge, Ct of Crim App, Pl 6",,DEM,UNDER VOTES,0,0,0,0
+Lavaca,Precinct 119,"Judge, Ct of Crim App, Pl 6",,DEM,UNDER VOTES,5,3,2,0
+Lavaca,Precinct 223,"Judge, Ct of Crim App, Pl 6",,DEM,UNDER VOTES,3,1,0,2
+Lavaca,Precinct 329,"Judge, Ct of Crim App, Pl 6",,DEM,UNDER VOTES,7,2,0,5
+Lavaca,Precinct 430,"Judge, Ct of Crim App, Pl 6",,DEM,UNDER VOTES,6,0,0,6
+Lavaca,Precinct 231,"Judge, Ct of Crim App, Pl 6",,DEM,UNDER VOTES,10,5,4,1
+Lavaca,Precinct 101,"Member, State BoE, Dist 3",,DEM,Marisa B. Perez-Diaz,13,8,1,4
+Lavaca,Precinct 102,"Member, State BoE, Dist 3",,DEM,Marisa B. Perez-Diaz,36,14,12,10
+Lavaca,Precinct 208,"Member, State BoE, Dist 3",,DEM,Marisa B. Perez-Diaz,12,1,3,8
+Lavaca,Precinct 309,"Member, State BoE, Dist 3",,DEM,Marisa B. Perez-Diaz,24,12,7,5
+Lavaca,Precinct 311,"Member, State BoE, Dist 3",,DEM,Marisa B. Perez-Diaz,14,9,0,5
+Lavaca,Precinct 416,"Member, State BoE, Dist 3",,DEM,Marisa B. Perez-Diaz,6,1,2,3
+Lavaca,Precinct 119,"Member, State BoE, Dist 3",,DEM,Marisa B. Perez-Diaz,15,2,8,5
+Lavaca,Precinct 223,"Member, State BoE, Dist 3",,DEM,Marisa B. Perez-Diaz,17,11,1,5
+Lavaca,Precinct 329,"Member, State BoE, Dist 3",,DEM,Marisa B. Perez-Diaz,29,15,4,10
+Lavaca,Precinct 430,"Member, State BoE, Dist 3",,DEM,Marisa B. Perez-Diaz,28,9,3,16
+Lavaca,Precinct 231,"Member, State BoE, Dist 3",,DEM,Marisa B. Perez-Diaz,23,8,7,8
+Lavaca,Precinct 101,"Member, State BoE, Dist 3",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,"Member, State BoE, Dist 3",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,"Member, State BoE, Dist 3",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,"Member, State BoE, Dist 3",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,"Member, State BoE, Dist 3",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,"Member, State BoE, Dist 3",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,"Member, State BoE, Dist 3",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,"Member, State BoE, Dist 3",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,"Member, State BoE, Dist 3",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,"Member, State BoE, Dist 3",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,"Member, State BoE, Dist 3",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,"Member, State BoE, Dist 3",,DEM,UNDER VOTES,5,2,1,2
+Lavaca,Precinct 102,"Member, State BoE, Dist 3",,DEM,UNDER VOTES,10,2,1,7
+Lavaca,Precinct 208,"Member, State BoE, Dist 3",,DEM,UNDER VOTES,1,1,0,0
+Lavaca,Precinct 309,"Member, State BoE, Dist 3",,DEM,UNDER VOTES,5,2,3,0
+Lavaca,Precinct 311,"Member, State BoE, Dist 3",,DEM,UNDER VOTES,0,0,0,0
+Lavaca,Precinct 416,"Member, State BoE, Dist 3",,DEM,UNDER VOTES,0,0,0,0
+Lavaca,Precinct 119,"Member, State BoE, Dist 3",,DEM,UNDER VOTES,6,3,2,1
+Lavaca,Precinct 223,"Member, State BoE, Dist 3",,DEM,UNDER VOTES,3,1,0,2
+Lavaca,Precinct 329,"Member, State BoE, Dist 3",,DEM,UNDER VOTES,5,2,0,3
+Lavaca,Precinct 430,"Member, State BoE, Dist 3",,DEM,UNDER VOTES,7,0,0,7
+Lavaca,Precinct 231,"Member, State BoE, Dist 3",,DEM,UNDER VOTES,11,5,4,2
+Lavaca,Precinct 101,State Senate,18,DEM,Josh Tutt,12,8,0,4
+Lavaca,Precinct 102,State Senate,18,DEM,Josh Tutt,35,14,11,10
+Lavaca,Precinct 208,State Senate,18,DEM,Josh Tutt,12,1,3,8
+Lavaca,Precinct 309,State Senate,18,DEM,Josh Tutt,22,12,5,5
+Lavaca,Precinct 311,State Senate,18,DEM,Josh Tutt,14,9,0,5
+Lavaca,Precinct 416,State Senate,18,DEM,Josh Tutt,6,1,2,3
+Lavaca,Precinct 119,State Senate,18,DEM,Josh Tutt,15,2,8,5
+Lavaca,Precinct 223,State Senate,18,DEM,Josh Tutt,17,11,1,5
+Lavaca,Precinct 329,State Senate,18,DEM,Josh Tutt,29,15,4,10
+Lavaca,Precinct 430,State Senate,18,DEM,Josh Tutt,29,9,3,17
+Lavaca,Precinct 231,State Senate,18,DEM,Josh Tutt,23,8,6,9
+Lavaca,Precinct 101,State Senate,18,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,State Senate,18,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,State Senate,18,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,State Senate,18,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,State Senate,18,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,State Senate,18,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,State Senate,18,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,State Senate,18,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,State Senate,18,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,State Senate,18,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,State Senate,18,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,State Senate,18,DEM,UNDER VOTES,6,2,2,2
+Lavaca,Precinct 102,State Senate,18,DEM,UNDER VOTES,11,2,2,7
+Lavaca,Precinct 208,State Senate,18,DEM,UNDER VOTES,1,1,0,0
+Lavaca,Precinct 309,State Senate,18,DEM,UNDER VOTES,7,2,5,0
+Lavaca,Precinct 311,State Senate,18,DEM,UNDER VOTES,0,0,0,0
+Lavaca,Precinct 416,State Senate,18,DEM,UNDER VOTES,0,0,0,0
+Lavaca,Precinct 119,State Senate,18,DEM,UNDER VOTES,6,3,2,1
+Lavaca,Precinct 223,State Senate,18,DEM,UNDER VOTES,3,1,0,2
+Lavaca,Precinct 329,State Senate,18,DEM,UNDER VOTES,5,2,0,3
+Lavaca,Precinct 430,State Senate,18,DEM,UNDER VOTES,6,0,0,6
+Lavaca,Precinct 231,State Senate,18,DEM,UNDER VOTES,11,5,5,1
+Lavaca,Precinct 101,"Justice, 13 Ct of App Dist, Pl 3",,DEM,Leticia Hinojosa,13,8,1,4
+Lavaca,Precinct 102,"Justice, 13 Ct of App Dist, Pl 3",,DEM,Leticia Hinojosa,37,14,12,11
+Lavaca,Precinct 208,"Justice, 13 Ct of App Dist, Pl 3",,DEM,Leticia Hinojosa,11,1,3,7
+Lavaca,Precinct 309,"Justice, 13 Ct of App Dist, Pl 3",,DEM,Leticia Hinojosa,25,12,8,5
+Lavaca,Precinct 311,"Justice, 13 Ct of App Dist, Pl 3",,DEM,Leticia Hinojosa,14,9,0,5
+Lavaca,Precinct 416,"Justice, 13 Ct of App Dist, Pl 3",,DEM,Leticia Hinojosa,6,1,2,3
+Lavaca,Precinct 119,"Justice, 13 Ct of App Dist, Pl 3",,DEM,Leticia Hinojosa,15,2,7,6
+Lavaca,Precinct 223,"Justice, 13 Ct of App Dist, Pl 3",,DEM,Leticia Hinojosa,17,11,1,5
+Lavaca,Precinct 329,"Justice, 13 Ct of App Dist, Pl 3",,DEM,Leticia Hinojosa,28,15,4,9
+Lavaca,Precinct 430,"Justice, 13 Ct of App Dist, Pl 3",,DEM,Leticia Hinojosa,31,9,3,19
+Lavaca,Precinct 231,"Justice, 13 Ct of App Dist, Pl 3",,DEM,Leticia Hinojosa,22,7,7,8
+Lavaca,Precinct 101,"Justice, 13 Ct of App Dist, Pl 3",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,"Justice, 13 Ct of App Dist, Pl 3",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,"Justice, 13 Ct of App Dist, Pl 3",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,"Justice, 13 Ct of App Dist, Pl 3",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,"Justice, 13 Ct of App Dist, Pl 3",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,"Justice, 13 Ct of App Dist, Pl 3",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,"Justice, 13 Ct of App Dist, Pl 3",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,"Justice, 13 Ct of App Dist, Pl 3",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,"Justice, 13 Ct of App Dist, Pl 3",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,"Justice, 13 Ct of App Dist, Pl 3",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,"Justice, 13 Ct of App Dist, Pl 3",,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,"Justice, 13 Ct of App Dist, Pl 3",,DEM,UNDER VOTES,5,2,1,2
+Lavaca,Precinct 102,"Justice, 13 Ct of App Dist, Pl 3",,DEM,UNDER VOTES,9,2,1,6
+Lavaca,Precinct 208,"Justice, 13 Ct of App Dist, Pl 3",,DEM,UNDER VOTES,2,1,0,1
+Lavaca,Precinct 309,"Justice, 13 Ct of App Dist, Pl 3",,DEM,UNDER VOTES,4,2,2,0
+Lavaca,Precinct 311,"Justice, 13 Ct of App Dist, Pl 3",,DEM,UNDER VOTES,0,0,0,0
+Lavaca,Precinct 416,"Justice, 13 Ct of App Dist, Pl 3",,DEM,UNDER VOTES,0,0,0,0
+Lavaca,Precinct 119,"Justice, 13 Ct of App Dist, Pl 3",,DEM,UNDER VOTES,6,3,3,0
+Lavaca,Precinct 223,"Justice, 13 Ct of App Dist, Pl 3",,DEM,UNDER VOTES,3,1,0,2
+Lavaca,Precinct 329,"Justice, 13 Ct of App Dist, Pl 3",,DEM,UNDER VOTES,6,2,0,4
+Lavaca,Precinct 430,"Justice, 13 Ct of App Dist, Pl 3",,DEM,UNDER VOTES,4,0,0,4
+Lavaca,Precinct 231,"Justice, 13 Ct of App Dist, Pl 3",,DEM,UNDER VOTES,12,6,4,2
+Lavaca,Precinct 101,County Chair,,DEM,Carroll Brincefield,13,8,1,4
+Lavaca,Precinct 102,County Chair,,DEM,Carroll Brincefield,38,14,12,12
+Lavaca,Precinct 208,County Chair,,DEM,Carroll Brincefield,12,1,3,8
+Lavaca,Precinct 309,County Chair,,DEM,Carroll Brincefield,24,12,8,4
+Lavaca,Precinct 311,County Chair,,DEM,Carroll Brincefield,14,9,0,5
+Lavaca,Precinct 416,County Chair,,DEM,Carroll Brincefield,6,1,2,3
+Lavaca,Precinct 119,County Chair,,DEM,Carroll Brincefield,15,2,8,5
+Lavaca,Precinct 223,County Chair,,DEM,Carroll Brincefield,17,11,1,5
+Lavaca,Precinct 329,County Chair,,DEM,Carroll Brincefield,28,15,4,9
+Lavaca,Precinct 430,County Chair,,DEM,Carroll Brincefield,28,9,3,16
+Lavaca,Precinct 231,County Chair,,DEM,Carroll Brincefield,26,7,9,10
+Lavaca,Precinct 101,County Chair,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 102,County Chair,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 208,County Chair,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 309,County Chair,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 311,County Chair,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 416,County Chair,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 119,County Chair,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 223,County Chair,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 329,County Chair,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 430,County Chair,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 231,County Chair,,DEM,OVER VOTES,0,0,0,0
+Lavaca,Precinct 101,County Chair,,DEM,UNDER VOTES,5,2,1,2
+Lavaca,Precinct 102,County Chair,,DEM,UNDER VOTES,8,2,1,5
+Lavaca,Precinct 208,County Chair,,DEM,UNDER VOTES,1,1,0,0
+Lavaca,Precinct 309,County Chair,,DEM,UNDER VOTES,5,2,2,1
+Lavaca,Precinct 311,County Chair,,DEM,UNDER VOTES,0,0,0,0
+Lavaca,Precinct 416,County Chair,,DEM,UNDER VOTES,0,0,0,0
+Lavaca,Precinct 119,County Chair,,DEM,UNDER VOTES,6,3,2,1
+Lavaca,Precinct 223,County Chair,,DEM,UNDER VOTES,3,1,0,2
+Lavaca,Precinct 329,County Chair,,DEM,UNDER VOTES,6,2,0,4
+Lavaca,Precinct 430,County Chair,,DEM,UNDER VOTES,7,0,0,7
+Lavaca,Precinct 231,County Chair,,DEM,UNDER VOTES,8,6,2,0
