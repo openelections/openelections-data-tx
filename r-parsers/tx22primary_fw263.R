@@ -19,7 +19,7 @@ library("tidyverse")
 
 # Source files expected to be at following location relative to directory r-parsers.
 # The working directory should be set to r-parsers. It can be set via the setwd command.
-# If you get the message "len=0", the value of dir below is incorrect. Modify it to match the directory.
+# If you get the message "nfiles=0", the value of dir below is incorrect. Modify it to match the directory.
 # Add an out subdirectory to this directory to contain the output files.
 # NOTE: Had to use just the subdirectory 2022- 1 March Primary PctxPct due to file paths becoming too long for Windows.
 #dir <- "..\\2022- 1 March Primary PctxPct-20220808T225503Z-001\\2022- 1 March Primary PctxPct\\"
@@ -28,6 +28,7 @@ start <- c(1,5, 8,12,18,24,30,36, 42,102,105,112,168,206,236,261)
 end   <- c(4,7,11,17,23,29,35,41,101,104,111,167,205,235,260,263)
 nms   <- c("irace","icandidate","iprecinct","votes","absentee","early_voting","election_day","provisional",
            "unused","party","party2","office","candidate","precinct","precinct2","racetype")
+match_county <- "EL PASO" # set to county in upper case to limit search, i.e. match_county <- "EL PASO"
 
 # Use PopulationEstimates.csv to get county names
 filename <- "PopulationEstimates.csv"
@@ -39,12 +40,16 @@ counties <- gsub(" County","",counties)
 
 list <- list.files(dir, pattern = "*", full.names = FALSE)
 len <- length(list)
-print(paste0("len=",len))
+print(paste0("nfiles=",len))
 for (f in list){
     mm <- str_match(f, "^([A-Z_]+)_COUNTY")
     if(!is.na(mm[1,1])){
         county0 <- mm[1,2]
         county <- gsub("_"," ",county0)
+        #print(county) #DEBUG
+        if (match_county != ""){
+            if (county != match_county) next
+        }
         if (grepl("DEMOCRATIC",f)){
             party <- "DEM"
             #print(paste0("DEM ",county))
@@ -94,6 +99,8 @@ for (f in list){
                 xx$office[grepl("^Ballots Cast - Nonpartisan",xx$office)] <- "Ballots Cast"
                 xx$office[grepl("^Ballots Cast - Total",xx$office)] <- "Ballots Cast"
                 xx$candidate[grepl("^BALLOTS CAST",xx$candidate,ignore.case = TRUE)] <- ""
+                xx$party[grepl("^\\(R\\) ",xx$office, ignore.case = TRUE)] <- "REP"
+                xx$party[grepl("^\\(D\\) ",xx$office, ignore.case = TRUE)] <- "DEM"
                 xx$party[grepl("^Rep ",xx$office, ignore.case = TRUE)] <- "REP"
                 xx$party[grepl("^Dem ",xx$office, ignore.case = TRUE)] <- "DEM"
                 xx$office <- gsub("^\\(R\\) ","",xx$office, ignore.case = TRUE) # El Paso County
