@@ -1,17 +1,30 @@
 county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day,provisional
-Robertson,Calvert 1,Registered Voters,,,,1301,,,,
-Robertson,Hearne 2,Registered Voters,,,,1347,,,,
-Robertson,Wheelock 3,Registered Voters,,,,592,,,,
-Robertson,Bald Prairie 4,Registered Voters,,,,706,,,,
-Robertson,Bremond 5,Registered Voters,,,,1482,,,,
-Robertson,Franklin 6,Registered Voters,,,,1566,,,,
-Robertson,Seale 8,Registered Voters,,,,250,,,,
-Robertson,Benchley 11,Registered Voters,,,,1251,,,,
-Robertson,Elliott 13,Registered Voters,,,,226,,,,
-Robertson,Easterly 16,Registered Voters,,,,278,,,,
-Robertson,New Baden 19,Registered Voters,,,,594,,,,
-Robertson,Teal Center 22,Registered Voters,,,,1493,,,,
-Robertson,Christian Faith 23,Registered Voters,,,,756,,,,
+Robertson,Calvert 1,Registered Voters,,,,1301,0,0,0,0
+Robertson,Hearne 2,Registered Voters,,,,1347,0,0,0,0
+Robertson,Wheelock 3,Registered Voters,,,,592,0,0,0,0
+Robertson,Bald Prairie 4,Registered Voters,,,,706,0,0,0,0
+Robertson,Bremond 5,Registered Voters,,,,1482,0,0,0,0
+Robertson,Franklin 6,Registered Voters,,,,1566,0,0,0,0
+Robertson,Seale 8,Registered Voters,,,,250,0,0,0,0
+Robertson,Benchley 11,Registered Voters,,,,1251,0,0,0,0
+Robertson,Elliott 13,Registered Voters,,,,226,0,0,0,0
+Robertson,Easterly 16,Registered Voters,,,,278,0,0,0,0
+Robertson,New Baden 19,Registered Voters,,,,594,0,0,0,0
+Robertson,Teal Center 22,Registered Voters,,,,1493,0,0,0,0
+Robertson,Christian Faith 23,Registered Voters,,,,756,0,0,0,0
+Robertson,Calvert 1,Registered Voters - Nonpartisan,,NON,,1301,0,0,0,0
+Robertson,Hearne 2,Registered Voters - Nonpartisan,,NON,,1347,0,0,0,0
+Robertson,Wheelock 3,Registered Voters - Nonpartisan,,NON,,592,0,0,0,0
+Robertson,Bald Prairie 4,Registered Voters - Nonpartisan,,NON,,706,0,0,0,0
+Robertson,Bremond 5,Registered Voters - Nonpartisan,,NON,,1482,0,0,0,0
+Robertson,Franklin 6,Registered Voters - Nonpartisan,,NON,,1566,0,0,0,0
+Robertson,Seale 8,Registered Voters - Nonpartisan,,NON,,250,0,0,0,0
+Robertson,Benchley 11,Registered Voters - Nonpartisan,,NON,,1251,0,0,0,0
+Robertson,Elliott 13,Registered Voters - Nonpartisan,,NON,,226,0,0,0,0
+Robertson,Easterly 16,Registered Voters - Nonpartisan,,NON,,278,0,0,0,0
+Robertson,New Baden 19,Registered Voters - Nonpartisan,,NON,,594,0,0,0,0
+Robertson,Teal Center 22,Registered Voters - Nonpartisan,,NON,,1493,0,0,0,0
+Robertson,Christian Faith 23,Registered Voters - Nonpartisan,,NON,,756,0,0,0,0
 Robertson,Calvert 1,Ballots Cast,,,,342,10,183,149,0
 Robertson,Hearne 2,Ballots Cast,,,,354,11,190,153,0
 Robertson,Wheelock 3,Ballots Cast,,,,240,4,79,157,0
@@ -51,6 +64,32 @@ Robertson,Easterly 16,Ballots Cast,,DEM,,2,0,0,2,0
 Robertson,New Baden 19,Ballots Cast,,DEM,,13,4,3,6,0
 Robertson,Teal Center 22,Ballots Cast,,DEM,,116,18,41,56,1
 Robertson,Christian Faith 23,Ballots Cast,,DEM,,32,9,7,16,0
+Robertson,Calvert 1,Ballots Cast,,NON,,0,0,0,0,0
+Robertson,Hearne 2,Ballots Cast,,NON,,0,0,0,0,0
+Robertson,Wheelock 3,Ballots Cast,,NON,,0,0,0,0,0
+Robertson,Bald Prairie 4,Ballots Cast,,NON,,0,0,0,0,0
+Robertson,Bremond 5,Ballots Cast,,NON,,0,0,0,0,0
+Robertson,Franklin 6,Ballots Cast,,NON,,0,0,0,0,0
+Robertson,Seale 8,Ballots Cast,,NON,,0,0,0,0,0
+Robertson,Benchley 11,Ballots Cast,,NON,,0,0,0,0,0
+Robertson,Elliott 13,Ballots Cast,,NON,,0,0,0,0,0
+Robertson,Easterly 16,Ballots Cast,,NON,,0,0,0,0,0
+Robertson,New Baden 19,Ballots Cast,,NON,,0,0,0,0,0
+Robertson,Teal Center 22,Ballots Cast,,NON,,0,0,0,0,0
+Robertson,Christian Faith 23,Ballots Cast,,NON,,0,0,0,0,0
+Robertson,Calvert 1,Ballots Cast - Blank,,,,0,0,0,0,0
+Robertson,Hearne 2,Ballots Cast - Blank,,,,0,0,0,0,0
+Robertson,Wheelock 3,Ballots Cast - Blank,,,,0,0,0,0,0
+Robertson,Bald Prairie 4,Ballots Cast - Blank,,,,0,0,0,0,0
+Robertson,Bremond 5,Ballots Cast - Blank,,,,0,0,0,0,0
+Robertson,Franklin 6,Ballots Cast - Blank,,,,0,0,0,0,0
+Robertson,Seale 8,Ballots Cast - Blank,,,,0,0,0,0,0
+Robertson,Benchley 11,Ballots Cast - Blank,,,,0,0,0,0,0
+Robertson,Elliott 13,Ballots Cast - Blank,,,,0,0,0,0,0
+Robertson,Easterly 16,Ballots Cast - Blank,,,,0,0,0,0,0
+Robertson,New Baden 19,Ballots Cast - Blank,,,,0,0,0,0,0
+Robertson,Teal Center 22,Ballots Cast - Blank,,,,0,0,0,0,0
+Robertson,Christian Faith 23,Ballots Cast - Blank,,,,0,0,0,0,0
 Robertson,Calvert 1,U.S. House,17,REP,"Jason ""Stormchaser"" Nelson",26,0,13,13,0
 Robertson,Hearne 2,U.S. House,17,REP,"Jason ""Stormchaser"" Nelson",22,0,10,12,0
 Robertson,Wheelock 3,U.S. House,17,REP,"Jason ""Stormchaser"" Nelson",22,0,5,17,0
@@ -1078,110 +1117,110 @@ Robertson,Easterly 16,"Member, State BoE, Dist 10",,REP,UNDER VOTES,30,0,15,15,0
 Robertson,New Baden 19,"Member, State BoE, Dist 10",,REP,UNDER VOTES,46,1,25,20,0
 Robertson,Teal Center 22,"Member, State BoE, Dist 10",,REP,UNDER VOTES,26,0,12,14,0
 Robertson,Christian Faith 23,"Member, State BoE, Dist 10",,REP,UNDER VOTES,30,0,19,11,0
-Robertson,Calvert 1,State Senator,5,REP,Charles Schwertner,216,4,126,86,0
-Robertson,Hearne 2,State Senator,5,REP,Charles Schwertner,234,6,126,102,0
-Robertson,Wheelock 3,State Senator,5,REP,Charles Schwertner,170,0,56,114,0
-Robertson,Bald Prairie 4,State Senator,5,REP,Charles Schwertner,204,1,143,60,0
-Robertson,Bremond 5,State Senator,5,REP,Charles Schwertner,325,8,144,173,0
-Robertson,Franklin 6,State Senator,5,REP,Charles Schwertner,348,4,198,146,0
-Robertson,Seale 8,State Senator,5,REP,Charles Schwertner,105,8,21,76,0
-Robertson,Benchley 11,State Senator,5,REP,Charles Schwertner,215,8,78,129,0
-Robertson,Elliott 13,State Senator,5,REP,Charles Schwertner,70,1,43,26,0
-Robertson,Easterly 16,State Senator,5,REP,Charles Schwertner,82,2,35,45,0
-Robertson,New Baden 19,State Senator,5,REP,Charles Schwertner,195,6,109,80,0
-Robertson,Teal Center 22,State Senator,5,REP,Charles Schwertner,56,1,21,34,0
-Robertson,Christian Faith 23,State Senator,5,REP,Charles Schwertner,80,1,46,33,0
-Robertson,Calvert 1,State Senator,5,REP,OVER VOTES,0,0,0,0,0
-Robertson,Hearne 2,State Senator,5,REP,OVER VOTES,0,0,0,0,0
-Robertson,Wheelock 3,State Senator,5,REP,OVER VOTES,0,0,0,0,0
-Robertson,Bald Prairie 4,State Senator,5,REP,OVER VOTES,0,0,0,0,0
-Robertson,Bremond 5,State Senator,5,REP,OVER VOTES,0,0,0,0,0
-Robertson,Franklin 6,State Senator,5,REP,OVER VOTES,0,0,0,0,0
-Robertson,Seale 8,State Senator,5,REP,OVER VOTES,0,0,0,0,0
-Robertson,Benchley 11,State Senator,5,REP,OVER VOTES,0,0,0,0,0
-Robertson,Elliott 13,State Senator,5,REP,OVER VOTES,0,0,0,0,0
-Robertson,Easterly 16,State Senator,5,REP,OVER VOTES,0,0,0,0,0
-Robertson,New Baden 19,State Senator,5,REP,OVER VOTES,0,0,0,0,0
-Robertson,Teal Center 22,State Senator,5,REP,OVER VOTES,0,0,0,0,0
-Robertson,Christian Faith 23,State Senator,5,REP,OVER VOTES,0,0,0,0,0
-Robertson,Calvert 1,State Senator,5,REP,UNDER VOTES,68,0,35,33,0
-Robertson,Hearne 2,State Senator,5,REP,UNDER VOTES,81,4,41,36,0
-Robertson,Wheelock 3,State Senator,5,REP,UNDER VOTES,57,3,17,37,0
-Robertson,Bald Prairie 4,State Senator,5,REP,UNDER VOTES,61,0,36,25,0
-Robertson,Bremond 5,State Senator,5,REP,UNDER VOTES,118,1,45,72,0
-Robertson,Franklin 6,State Senator,5,REP,UNDER VOTES,115,3,51,61,0
-Robertson,Seale 8,State Senator,5,REP,UNDER VOTES,21,0,0,20,1
-Robertson,Benchley 11,State Senator,5,REP,UNDER VOTES,58,0,13,45,0
-Robertson,Elliott 13,State Senator,5,REP,UNDER VOTES,15,0,6,9,0
-Robertson,Easterly 16,State Senator,5,REP,UNDER VOTES,29,0,15,14,0
-Robertson,New Baden 19,State Senator,5,REP,UNDER VOTES,47,1,26,20,0
-Robertson,Teal Center 22,State Senator,5,REP,UNDER VOTES,29,0,15,14,0
-Robertson,Christian Faith 23,State Senator,5,REP,UNDER VOTES,31,0,19,12,0
-Robertson,Calvert 1,State Representative,12,REP,Joshua Hamm,20,0,8,12,0
-Robertson,Hearne 2,State Representative,12,REP,Joshua Hamm,26,1,11,14,0
-Robertson,Wheelock 3,State Representative,12,REP,Joshua Hamm,21,0,4,17,0
-Robertson,Bald Prairie 4,State Representative,12,REP,Joshua Hamm,14,0,10,4,0
-Robertson,Bremond 5,State Representative,12,REP,Joshua Hamm,48,0,18,30,0
-Robertson,Franklin 6,State Representative,12,REP,Joshua Hamm,33,0,21,12,0
-Robertson,Seale 8,State Representative,12,REP,Joshua Hamm,14,0,2,12,0
-Robertson,Benchley 11,State Representative,12,REP,Joshua Hamm,27,1,10,16,0
-Robertson,Elliott 13,State Representative,12,REP,Joshua Hamm,4,0,2,2,0
-Robertson,Easterly 16,State Representative,12,REP,Joshua Hamm,10,0,4,6,0
-Robertson,New Baden 19,State Representative,12,REP,Joshua Hamm,21,0,6,15,0
-Robertson,Teal Center 22,State Representative,12,REP,Joshua Hamm,20,0,8,12,0
-Robertson,Christian Faith 23,State Representative,12,REP,Joshua Hamm,6,0,4,2,0
-Robertson,Calvert 1,State Representative,12,REP,Kyle Kacal,185,4,111,70,0
-Robertson,Hearne 2,State Representative,12,REP,Kyle Kacal,197,7,114,76,0
-Robertson,Wheelock 3,State Representative,12,REP,Kyle Kacal,130,1,49,80,0
-Robertson,Bald Prairie 4,State Representative,12,REP,Kyle Kacal,183,1,128,54,0
-Robertson,Bremond 5,State Representative,12,REP,Kyle Kacal,291,8,128,155,0
-Robertson,Franklin 6,State Representative,12,REP,Kyle Kacal,303,7,170,126,0
-Robertson,Seale 8,State Representative,12,REP,Kyle Kacal,95,6,19,69,1
-Robertson,Benchley 11,State Representative,12,REP,Kyle Kacal,138,6,59,73,0
-Robertson,Elliott 13,State Representative,12,REP,Kyle Kacal,47,1,27,19,0
-Robertson,Easterly 16,State Representative,12,REP,Kyle Kacal,72,0,33,39,0
-Robertson,New Baden 19,State Representative,12,REP,Kyle Kacal,153,5,93,55,0
-Robertson,Teal Center 22,State Representative,12,REP,Kyle Kacal,38,1,18,19,0
-Robertson,Christian Faith 23,State Representative,12,REP,Kyle Kacal,66,1,39,26,0
-Robertson,Calvert 1,State Representative,12,REP,Ben Bius,51,0,27,24,0
-Robertson,Hearne 2,State Representative,12,REP,Ben Bius,57,1,22,34,0
-Robertson,Wheelock 3,State Representative,12,REP,Ben Bius,67,2,19,46,0
-Robertson,Bald Prairie 4,State Representative,12,REP,Ben Bius,50,0,32,18,0
-Robertson,Bremond 5,State Representative,12,REP,Ben Bius,69,1,35,33,0
-Robertson,Franklin 6,State Representative,12,REP,Ben Bius,83,0,37,46,0
-Robertson,Seale 8,State Representative,12,REP,Ben Bius,8,1,0,7,0
-Robertson,Benchley 11,State Representative,12,REP,Ben Bius,95,1,19,75,0
-Robertson,Elliott 13,State Representative,12,REP,Ben Bius,30,0,20,10,0
-Robertson,Easterly 16,State Representative,12,REP,Ben Bius,25,2,12,11,0
-Robertson,New Baden 19,State Representative,12,REP,Ben Bius,55,2,33,20,0
-Robertson,Teal Center 22,State Representative,12,REP,Ben Bius,14,0,4,10,0
-Robertson,Christian Faith 23,State Representative,12,REP,Ben Bius,25,0,11,14,0
-Robertson,Calvert 1,State Representative,12,REP,OVER VOTES,0,0,0,0,0
-Robertson,Hearne 2,State Representative,12,REP,OVER VOTES,0,0,0,0,0
-Robertson,Wheelock 3,State Representative,12,REP,OVER VOTES,0,0,0,0,0
-Robertson,Bald Prairie 4,State Representative,12,REP,OVER VOTES,0,0,0,0,0
-Robertson,Bremond 5,State Representative,12,REP,OVER VOTES,0,0,0,0,0
-Robertson,Franklin 6,State Representative,12,REP,OVER VOTES,0,0,0,0,0
-Robertson,Seale 8,State Representative,12,REP,OVER VOTES,0,0,0,0,0
-Robertson,Benchley 11,State Representative,12,REP,OVER VOTES,0,0,0,0,0
-Robertson,Elliott 13,State Representative,12,REP,OVER VOTES,0,0,0,0,0
-Robertson,Easterly 16,State Representative,12,REP,OVER VOTES,0,0,0,0,0
-Robertson,New Baden 19,State Representative,12,REP,OVER VOTES,0,0,0,0,0
-Robertson,Teal Center 22,State Representative,12,REP,OVER VOTES,0,0,0,0,0
-Robertson,Christian Faith 23,State Representative,12,REP,OVER VOTES,0,0,0,0,0
-Robertson,Calvert 1,State Representative,12,REP,UNDER VOTES,28,0,15,13,0
-Robertson,Hearne 2,State Representative,12,REP,UNDER VOTES,35,1,20,14,0
-Robertson,Wheelock 3,State Representative,12,REP,UNDER VOTES,9,0,1,8,0
-Robertson,Bald Prairie 4,State Representative,12,REP,UNDER VOTES,18,0,9,9,0
-Robertson,Bremond 5,State Representative,12,REP,UNDER VOTES,35,0,8,27,0
-Robertson,Franklin 6,State Representative,12,REP,UNDER VOTES,44,0,21,23,0
-Robertson,Seale 8,State Representative,12,REP,UNDER VOTES,9,1,0,8,0
-Robertson,Benchley 11,State Representative,12,REP,UNDER VOTES,13,0,3,10,0
-Robertson,Elliott 13,State Representative,12,REP,UNDER VOTES,4,0,0,4,0
-Robertson,Easterly 16,State Representative,12,REP,UNDER VOTES,4,0,1,3,0
-Robertson,New Baden 19,State Representative,12,REP,UNDER VOTES,13,0,3,10,0
-Robertson,Teal Center 22,State Representative,12,REP,UNDER VOTES,13,0,6,7,0
-Robertson,Christian Faith 23,State Representative,12,REP,UNDER VOTES,14,0,11,3,0
+Robertson,Calvert 1,State Senate,5,REP,Charles Schwertner,216,4,126,86,0
+Robertson,Hearne 2,State Senate,5,REP,Charles Schwertner,234,6,126,102,0
+Robertson,Wheelock 3,State Senate,5,REP,Charles Schwertner,170,0,56,114,0
+Robertson,Bald Prairie 4,State Senate,5,REP,Charles Schwertner,204,1,143,60,0
+Robertson,Bremond 5,State Senate,5,REP,Charles Schwertner,325,8,144,173,0
+Robertson,Franklin 6,State Senate,5,REP,Charles Schwertner,348,4,198,146,0
+Robertson,Seale 8,State Senate,5,REP,Charles Schwertner,105,8,21,76,0
+Robertson,Benchley 11,State Senate,5,REP,Charles Schwertner,215,8,78,129,0
+Robertson,Elliott 13,State Senate,5,REP,Charles Schwertner,70,1,43,26,0
+Robertson,Easterly 16,State Senate,5,REP,Charles Schwertner,82,2,35,45,0
+Robertson,New Baden 19,State Senate,5,REP,Charles Schwertner,195,6,109,80,0
+Robertson,Teal Center 22,State Senate,5,REP,Charles Schwertner,56,1,21,34,0
+Robertson,Christian Faith 23,State Senate,5,REP,Charles Schwertner,80,1,46,33,0
+Robertson,Calvert 1,State Senate,5,REP,OVER VOTES,0,0,0,0,0
+Robertson,Hearne 2,State Senate,5,REP,OVER VOTES,0,0,0,0,0
+Robertson,Wheelock 3,State Senate,5,REP,OVER VOTES,0,0,0,0,0
+Robertson,Bald Prairie 4,State Senate,5,REP,OVER VOTES,0,0,0,0,0
+Robertson,Bremond 5,State Senate,5,REP,OVER VOTES,0,0,0,0,0
+Robertson,Franklin 6,State Senate,5,REP,OVER VOTES,0,0,0,0,0
+Robertson,Seale 8,State Senate,5,REP,OVER VOTES,0,0,0,0,0
+Robertson,Benchley 11,State Senate,5,REP,OVER VOTES,0,0,0,0,0
+Robertson,Elliott 13,State Senate,5,REP,OVER VOTES,0,0,0,0,0
+Robertson,Easterly 16,State Senate,5,REP,OVER VOTES,0,0,0,0,0
+Robertson,New Baden 19,State Senate,5,REP,OVER VOTES,0,0,0,0,0
+Robertson,Teal Center 22,State Senate,5,REP,OVER VOTES,0,0,0,0,0
+Robertson,Christian Faith 23,State Senate,5,REP,OVER VOTES,0,0,0,0,0
+Robertson,Calvert 1,State Senate,5,REP,UNDER VOTES,68,0,35,33,0
+Robertson,Hearne 2,State Senate,5,REP,UNDER VOTES,81,4,41,36,0
+Robertson,Wheelock 3,State Senate,5,REP,UNDER VOTES,57,3,17,37,0
+Robertson,Bald Prairie 4,State Senate,5,REP,UNDER VOTES,61,0,36,25,0
+Robertson,Bremond 5,State Senate,5,REP,UNDER VOTES,118,1,45,72,0
+Robertson,Franklin 6,State Senate,5,REP,UNDER VOTES,115,3,51,61,0
+Robertson,Seale 8,State Senate,5,REP,UNDER VOTES,21,0,0,20,1
+Robertson,Benchley 11,State Senate,5,REP,UNDER VOTES,58,0,13,45,0
+Robertson,Elliott 13,State Senate,5,REP,UNDER VOTES,15,0,6,9,0
+Robertson,Easterly 16,State Senate,5,REP,UNDER VOTES,29,0,15,14,0
+Robertson,New Baden 19,State Senate,5,REP,UNDER VOTES,47,1,26,20,0
+Robertson,Teal Center 22,State Senate,5,REP,UNDER VOTES,29,0,15,14,0
+Robertson,Christian Faith 23,State Senate,5,REP,UNDER VOTES,31,0,19,12,0
+Robertson,Calvert 1,State House,12,REP,Joshua Hamm,20,0,8,12,0
+Robertson,Hearne 2,State House,12,REP,Joshua Hamm,26,1,11,14,0
+Robertson,Wheelock 3,State House,12,REP,Joshua Hamm,21,0,4,17,0
+Robertson,Bald Prairie 4,State House,12,REP,Joshua Hamm,14,0,10,4,0
+Robertson,Bremond 5,State House,12,REP,Joshua Hamm,48,0,18,30,0
+Robertson,Franklin 6,State House,12,REP,Joshua Hamm,33,0,21,12,0
+Robertson,Seale 8,State House,12,REP,Joshua Hamm,14,0,2,12,0
+Robertson,Benchley 11,State House,12,REP,Joshua Hamm,27,1,10,16,0
+Robertson,Elliott 13,State House,12,REP,Joshua Hamm,4,0,2,2,0
+Robertson,Easterly 16,State House,12,REP,Joshua Hamm,10,0,4,6,0
+Robertson,New Baden 19,State House,12,REP,Joshua Hamm,21,0,6,15,0
+Robertson,Teal Center 22,State House,12,REP,Joshua Hamm,20,0,8,12,0
+Robertson,Christian Faith 23,State House,12,REP,Joshua Hamm,6,0,4,2,0
+Robertson,Calvert 1,State House,12,REP,Kyle Kacal,185,4,111,70,0
+Robertson,Hearne 2,State House,12,REP,Kyle Kacal,197,7,114,76,0
+Robertson,Wheelock 3,State House,12,REP,Kyle Kacal,130,1,49,80,0
+Robertson,Bald Prairie 4,State House,12,REP,Kyle Kacal,183,1,128,54,0
+Robertson,Bremond 5,State House,12,REP,Kyle Kacal,291,8,128,155,0
+Robertson,Franklin 6,State House,12,REP,Kyle Kacal,303,7,170,126,0
+Robertson,Seale 8,State House,12,REP,Kyle Kacal,95,6,19,69,1
+Robertson,Benchley 11,State House,12,REP,Kyle Kacal,138,6,59,73,0
+Robertson,Elliott 13,State House,12,REP,Kyle Kacal,47,1,27,19,0
+Robertson,Easterly 16,State House,12,REP,Kyle Kacal,72,0,33,39,0
+Robertson,New Baden 19,State House,12,REP,Kyle Kacal,153,5,93,55,0
+Robertson,Teal Center 22,State House,12,REP,Kyle Kacal,38,1,18,19,0
+Robertson,Christian Faith 23,State House,12,REP,Kyle Kacal,66,1,39,26,0
+Robertson,Calvert 1,State House,12,REP,Ben Bius,51,0,27,24,0
+Robertson,Hearne 2,State House,12,REP,Ben Bius,57,1,22,34,0
+Robertson,Wheelock 3,State House,12,REP,Ben Bius,67,2,19,46,0
+Robertson,Bald Prairie 4,State House,12,REP,Ben Bius,50,0,32,18,0
+Robertson,Bremond 5,State House,12,REP,Ben Bius,69,1,35,33,0
+Robertson,Franklin 6,State House,12,REP,Ben Bius,83,0,37,46,0
+Robertson,Seale 8,State House,12,REP,Ben Bius,8,1,0,7,0
+Robertson,Benchley 11,State House,12,REP,Ben Bius,95,1,19,75,0
+Robertson,Elliott 13,State House,12,REP,Ben Bius,30,0,20,10,0
+Robertson,Easterly 16,State House,12,REP,Ben Bius,25,2,12,11,0
+Robertson,New Baden 19,State House,12,REP,Ben Bius,55,2,33,20,0
+Robertson,Teal Center 22,State House,12,REP,Ben Bius,14,0,4,10,0
+Robertson,Christian Faith 23,State House,12,REP,Ben Bius,25,0,11,14,0
+Robertson,Calvert 1,State House,12,REP,OVER VOTES,0,0,0,0,0
+Robertson,Hearne 2,State House,12,REP,OVER VOTES,0,0,0,0,0
+Robertson,Wheelock 3,State House,12,REP,OVER VOTES,0,0,0,0,0
+Robertson,Bald Prairie 4,State House,12,REP,OVER VOTES,0,0,0,0,0
+Robertson,Bremond 5,State House,12,REP,OVER VOTES,0,0,0,0,0
+Robertson,Franklin 6,State House,12,REP,OVER VOTES,0,0,0,0,0
+Robertson,Seale 8,State House,12,REP,OVER VOTES,0,0,0,0,0
+Robertson,Benchley 11,State House,12,REP,OVER VOTES,0,0,0,0,0
+Robertson,Elliott 13,State House,12,REP,OVER VOTES,0,0,0,0,0
+Robertson,Easterly 16,State House,12,REP,OVER VOTES,0,0,0,0,0
+Robertson,New Baden 19,State House,12,REP,OVER VOTES,0,0,0,0,0
+Robertson,Teal Center 22,State House,12,REP,OVER VOTES,0,0,0,0,0
+Robertson,Christian Faith 23,State House,12,REP,OVER VOTES,0,0,0,0,0
+Robertson,Calvert 1,State House,12,REP,UNDER VOTES,28,0,15,13,0
+Robertson,Hearne 2,State House,12,REP,UNDER VOTES,35,1,20,14,0
+Robertson,Wheelock 3,State House,12,REP,UNDER VOTES,9,0,1,8,0
+Robertson,Bald Prairie 4,State House,12,REP,UNDER VOTES,18,0,9,9,0
+Robertson,Bremond 5,State House,12,REP,UNDER VOTES,35,0,8,27,0
+Robertson,Franklin 6,State House,12,REP,UNDER VOTES,44,0,21,23,0
+Robertson,Seale 8,State House,12,REP,UNDER VOTES,9,1,0,8,0
+Robertson,Benchley 11,State House,12,REP,UNDER VOTES,13,0,3,10,0
+Robertson,Elliott 13,State House,12,REP,UNDER VOTES,4,0,0,4,0
+Robertson,Easterly 16,State House,12,REP,UNDER VOTES,4,0,1,3,0
+Robertson,New Baden 19,State House,12,REP,UNDER VOTES,13,0,3,10,0
+Robertson,Teal Center 22,State House,12,REP,UNDER VOTES,13,0,6,7,0
+Robertson,Christian Faith 23,State House,12,REP,UNDER VOTES,14,0,11,3,0
 Robertson,Calvert 1,"Justice, 10th Ct of App Dist, Pl 3",,REP,Steve Smith,208,4,118,86,0
 Robertson,Hearne 2,"Justice, 10th Ct of App Dist, Pl 3",,REP,Steve Smith,229,5,123,101,0
 Robertson,Wheelock 3,"Justice, 10th Ct of App Dist, Pl 3",,REP,Steve Smith,173,0,58,115,0
@@ -1455,48 +1494,48 @@ Robertson,Easterly 16,County Treasurer,,REP,UNDER VOTES,2,0,0,2,0
 Robertson,New Baden 19,County Treasurer,,REP,UNDER VOTES,10,0,6,4,0
 Robertson,Teal Center 22,County Treasurer,,REP,UNDER VOTES,11,0,7,4,0
 Robertson,Christian Faith 23,County Treasurer,,REP,UNDER VOTES,6,0,5,1,0
-Robertson,Hearne 2                      P,County Commissioner Pct 2,,REP,Donald Threadgill,254,8,140,106,0
-Robertson,Benchley 11                   P,County Commissioner Pct 2,,REP,Donald Threadgill,210,8,76,126,0
-Robertson,Elliott 13                    P,County Commissioner Pct 2,,REP,Donald Threadgill,75,1,46,28,0
-Robertson,Hearne 2                      P,County Commissioner Pct 2,,REP,OVER VOTES,0,0,0,0,0
-Robertson,Benchley 11                   P,County Commissioner Pct 2,,REP,OVER VOTES,0,0,0,0,0
-Robertson,Elliott 13                    P,County Commissioner Pct 2,,REP,OVER VOTES,0,0,0,0,0
-Robertson,Hearne 2                      P,County Commissioner Pct 2,,REP,UNDER VOTES,61,2,27,32,0
-Robertson,Benchley 11                   P,County Commissioner Pct 2,,REP,UNDER VOTES,63,0,15,48,0
-Robertson,Elliott 13                    P,County Commissioner Pct 2,,REP,UNDER VOTES,10,0,3,7,0
-Robertson,Calvert 1                     P,JOP Pct 1,,REP,Carla Werner Barker,229,4,128,97,0
-Robertson,Bald Prairie 4                P,JOP Pct 1,,REP,Carla Werner Barker,217,1,151,65,0
-Robertson,Seale 8                       P,JOP Pct 1,,REP,Carla Werner Barker,103,7,21,75,0
-Robertson,Christian Faith 23            P,JOP Pct 1,,REP,Carla Werner Barker,83,1,48,34,0
-Robertson,Calvert 1                     P,JOP Pct 1,,REP,OVER VOTES,0,0,0,0,0
-Robertson,Bald Prairie 4                P,JOP Pct 1,,REP,OVER VOTES,0,0,0,0,0
-Robertson,Seale 8                       P,JOP Pct 1,,REP,OVER VOTES,0,0,0,0,0
-Robertson,Christian Faith 23            P,JOP Pct 1,,REP,OVER VOTES,0,0,0,0,0
-Robertson,Calvert 1                     P,JOP Pct 1,,REP,UNDER VOTES,55,0,33,22,0
-Robertson,Bald Prairie 4                P,JOP Pct 1,,REP,UNDER VOTES,48,0,28,20,0
-Robertson,Seale 8                       P,JOP Pct 1,,REP,UNDER VOTES,23,1,0,21,1
-Robertson,Christian Faith 23            P,JOP Pct 1,,REP,UNDER VOTES,28,0,17,11,0
-Robertson,Hearne 2                      P,JOP Pct 2,,REP,Ramona (Monie) Aguirre,267,8,151,108,0
-Robertson,Benchley 11                   P,JOP Pct 2,,REP,Ramona (Monie) Aguirre,200,8,72,120,0
-Robertson,Elliott 13                    P,JOP Pct 2,,REP,Ramona (Monie) Aguirre,74,1,44,29,0
-Robertson,Hearne 2                      P,JOP Pct 2,,REP,OVER VOTES,0,0,0,0,0
-Robertson,Benchley 11                   P,JOP Pct 2,,REP,OVER VOTES,0,0,0,0,0
-Robertson,Elliott 13                    P,JOP Pct 2,,REP,OVER VOTES,0,0,0,0,0
-Robertson,Hearne 2                      P,JOP Pct 2,,REP,UNDER VOTES,48,2,16,30,0
-Robertson,Benchley 11                   P,JOP Pct 2,,REP,UNDER VOTES,73,0,19,54,0
-Robertson,Elliott 13                    P,JOP Pct 2,,REP,UNDER VOTES,11,0,5,6,0
-Robertson,Wheelock 3                    P,JOP Pct 3,,REP,Melanie Green,183,0,61,122,0
-Robertson,Franklin 6                    P,JOP Pct 3,,REP,Melanie Green,397,5,213,179,0
-Robertson,Easterly 16                   P,JOP Pct 3,,REP,Melanie Green,94,2,44,48,0
-Robertson,New Baden 19                  P,JOP Pct 3,,REP,Melanie Green,211,7,120,84,0
-Robertson,Wheelock 3                    P,JOP Pct 3,,REP,OVER VOTES,0,0,0,0,0
-Robertson,Franklin 6                    P,JOP Pct 3,,REP,OVER VOTES,0,0,0,0,0
-Robertson,Easterly 16                   P,JOP Pct 3,,REP,OVER VOTES,0,0,0,0,0
-Robertson,New Baden 19                  P,JOP Pct 3,,REP,OVER VOTES,0,0,0,0,0
-Robertson,Wheelock 3                    P,JOP Pct 3,,REP,UNDER VOTES,44,3,12,29,0
-Robertson,Franklin 6                    P,JOP Pct 3,,REP,UNDER VOTES,66,2,36,28,0
-Robertson,Easterly 16                   P,JOP Pct 3,,REP,UNDER VOTES,17,0,6,11,0
-Robertson,New Baden 19                  P,JOP Pct 3,,REP,UNDER VOTES,31,0,15,16,0
+Robertson,Hearne 2,County Commissioner Pct 2,,REP,Donald Threadgill,254,8,140,106,0
+Robertson,Benchley 11,County Commissioner Pct 2,,REP,Donald Threadgill,210,8,76,126,0
+Robertson,Elliott 13,County Commissioner Pct 2,,REP,Donald Threadgill,75,1,46,28,0
+Robertson,Hearne 2,County Commissioner Pct 2,,REP,OVER VOTES,0,0,0,0,0
+Robertson,Benchley 11,County Commissioner Pct 2,,REP,OVER VOTES,0,0,0,0,0
+Robertson,Elliott 13,County Commissioner Pct 2,,REP,OVER VOTES,0,0,0,0,0
+Robertson,Hearne 2,County Commissioner Pct 2,,REP,UNDER VOTES,61,2,27,32,0
+Robertson,Benchley 11,County Commissioner Pct 2,,REP,UNDER VOTES,63,0,15,48,0
+Robertson,Elliott 13,County Commissioner Pct 2,,REP,UNDER VOTES,10,0,3,7,0
+Robertson,Calvert 1,JOP Pct 1,,REP,Carla Werner Barker,229,4,128,97,0
+Robertson,Bald Prairie 4,JOP Pct 1,,REP,Carla Werner Barker,217,1,151,65,0
+Robertson,Seale 8,JOP Pct 1,,REP,Carla Werner Barker,103,7,21,75,0
+Robertson,Christian Faith 23,JOP Pct 1,,REP,Carla Werner Barker,83,1,48,34,0
+Robertson,Calvert 1,JOP Pct 1,,REP,OVER VOTES,0,0,0,0,0
+Robertson,Bald Prairie 4,JOP Pct 1,,REP,OVER VOTES,0,0,0,0,0
+Robertson,Seale 8,JOP Pct 1,,REP,OVER VOTES,0,0,0,0,0
+Robertson,Christian Faith 23,JOP Pct 1,,REP,OVER VOTES,0,0,0,0,0
+Robertson,Calvert 1,JOP Pct 1,,REP,UNDER VOTES,55,0,33,22,0
+Robertson,Bald Prairie 4,JOP Pct 1,,REP,UNDER VOTES,48,0,28,20,0
+Robertson,Seale 8,JOP Pct 1,,REP,UNDER VOTES,23,1,0,21,1
+Robertson,Christian Faith 23,JOP Pct 1,,REP,UNDER VOTES,28,0,17,11,0
+Robertson,Hearne 2,JOP Pct 2,,REP,Ramona (Monie) Aguirre,267,8,151,108,0
+Robertson,Benchley 11,JOP Pct 2,,REP,Ramona (Monie) Aguirre,200,8,72,120,0
+Robertson,Elliott 13,JOP Pct 2,,REP,Ramona (Monie) Aguirre,74,1,44,29,0
+Robertson,Hearne 2,JOP Pct 2,,REP,OVER VOTES,0,0,0,0,0
+Robertson,Benchley 11,JOP Pct 2,,REP,OVER VOTES,0,0,0,0,0
+Robertson,Elliott 13,JOP Pct 2,,REP,OVER VOTES,0,0,0,0,0
+Robertson,Hearne 2,JOP Pct 2,,REP,UNDER VOTES,48,2,16,30,0
+Robertson,Benchley 11,JOP Pct 2,,REP,UNDER VOTES,73,0,19,54,0
+Robertson,Elliott 13,JOP Pct 2,,REP,UNDER VOTES,11,0,5,6,0
+Robertson,Wheelock 3,JOP Pct 3,,REP,Melanie Green,183,0,61,122,0
+Robertson,Franklin 6,JOP Pct 3,,REP,Melanie Green,397,5,213,179,0
+Robertson,Easterly 16,JOP Pct 3,,REP,Melanie Green,94,2,44,48,0
+Robertson,New Baden 19,JOP Pct 3,,REP,Melanie Green,211,7,120,84,0
+Robertson,Wheelock 3,JOP Pct 3,,REP,OVER VOTES,0,0,0,0,0
+Robertson,Franklin 6,JOP Pct 3,,REP,OVER VOTES,0,0,0,0,0
+Robertson,Easterly 16,JOP Pct 3,,REP,OVER VOTES,0,0,0,0,0
+Robertson,New Baden 19,JOP Pct 3,,REP,OVER VOTES,0,0,0,0,0
+Robertson,Wheelock 3,JOP Pct 3,,REP,UNDER VOTES,44,3,12,29,0
+Robertson,Franklin 6,JOP Pct 3,,REP,UNDER VOTES,66,2,36,28,0
+Robertson,Easterly 16,JOP Pct 3,,REP,UNDER VOTES,17,0,6,11,0
+Robertson,New Baden 19,JOP Pct 3,,REP,UNDER VOTES,31,0,15,16,0
 Robertson,Calvert 1,County Chair,,REP,Wallace M. Johnson,201,4,115,82,0
 Robertson,Hearne 2,County Chair,,REP,Wallace M. Johnson,234,5,128,101,0
 Robertson,Wheelock 3,County Chair,,REP,Wallace M. Johnson,173,0,58,115,0
@@ -2771,27 +2810,27 @@ Robertson,Easterly 16,"Judge, Ct of Crim App, Pl 6",,DEM,UNDER VOTES,0,0,0,0,0
 Robertson,New Baden 19,"Judge, Ct of Crim App, Pl 6",,DEM,UNDER VOTES,2,1,0,1,0
 Robertson,Teal Center 22,"Judge, Ct of Crim App, Pl 6",,DEM,UNDER VOTES,21,6,9,6,0
 Robertson,Christian Faith 23,"Judge, Ct of Crim App, Pl 6",,DEM,UNDER VOTES,6,0,2,4,0
-Robertson,Hearne 2                      P,County Commissioner Pct 2,,DEM,George U. Vaults,36,1,21,14,0
-Robertson,Benchley 11                   P,County Commissioner Pct 2,,DEM,George U. Vaults,45,16,11,18,0
-Robertson,Elliott 13                    P,County Commissioner Pct 2,,DEM,George U. Vaults,2,0,1,1,0
-Robertson,Hearne 2                      P,County Commissioner Pct 2,,DEM,OVER VOTES,0,0,0,0,0
-Robertson,Benchley 11                   P,County Commissioner Pct 2,,DEM,OVER VOTES,0,0,0,0,0
-Robertson,Elliott 13                    P,County Commissioner Pct 2,,DEM,OVER VOTES,0,0,0,0,0
-Robertson,Hearne 2                      P,County Commissioner Pct 2,,DEM,UNDER VOTES,3,0,2,1,0
-Robertson,Benchley 11                   P,County Commissioner Pct 2,,DEM,UNDER VOTES,5,1,2,2,0
-Robertson,Elliott 13                    P,County Commissioner Pct 2,,DEM,UNDER VOTES,0,0,0,0,0
-Robertson,Bremond 5                     P,County Commissioner Pct 4,,DEM,James Taylor,50,9,18,23,0
-Robertson,Teal Center 22                P,County Commissioner Pct 4,,DEM,James Taylor,112,17,41,53,1
-Robertson,Bremond 5                     P,County Commissioner Pct 4,,DEM,OVER VOTES,0,0,0,0,0
-Robertson,Teal Center 22                P,County Commissioner Pct 4,,DEM,OVER VOTES,0,0,0,0,0
-Robertson,Bremond 5                     P,County Commissioner Pct 4,,DEM,UNDER VOTES,9,2,3,4,0
-Robertson,Teal Center 22                P,County Commissioner Pct 4,,DEM,UNDER VOTES,4,1,0,3,0
-Robertson,Bremond 5                     P,JOP Pct 4,,DEM,Fredrick B. Webber,47,8,17,22,0
-Robertson,Teal Center 22                P,JOP Pct 4,,DEM,Fredrick B. Webber,113,17,41,54,1
-Robertson,Bremond 5                     P,JOP Pct 4,,DEM,OVER VOTES,0,0,0,0,0
-Robertson,Teal Center 22                P,JOP Pct 4,,DEM,OVER VOTES,0,0,0,0,0
-Robertson,Bremond 5                     P,JOP Pct 4,,DEM,UNDER VOTES,12,3,4,5,0
-Robertson,Teal Center 22                P,JOP Pct 4,,DEM,UNDER VOTES,3,1,0,2,0
+Robertson,Hearne 2,County Commissioner Pct 2,,DEM,George U. Vaults,36,1,21,14,0
+Robertson,Benchley 11,County Commissioner Pct 2,,DEM,George U. Vaults,45,16,11,18,0
+Robertson,Elliott 13,County Commissioner Pct 2,,DEM,George U. Vaults,2,0,1,1,0
+Robertson,Hearne 2,County Commissioner Pct 2,,DEM,OVER VOTES,0,0,0,0,0
+Robertson,Benchley 11,County Commissioner Pct 2,,DEM,OVER VOTES,0,0,0,0,0
+Robertson,Elliott 13,County Commissioner Pct 2,,DEM,OVER VOTES,0,0,0,0,0
+Robertson,Hearne 2,County Commissioner Pct 2,,DEM,UNDER VOTES,3,0,2,1,0
+Robertson,Benchley 11,County Commissioner Pct 2,,DEM,UNDER VOTES,5,1,2,2,0
+Robertson,Elliott 13,County Commissioner Pct 2,,DEM,UNDER VOTES,0,0,0,0,0
+Robertson,Bremond 5,County Commissioner Pct 4,,DEM,James Taylor,50,9,18,23,0
+Robertson,Teal Center 22,County Commissioner Pct 4,,DEM,James Taylor,112,17,41,53,1
+Robertson,Bremond 5,County Commissioner Pct 4,,DEM,OVER VOTES,0,0,0,0,0
+Robertson,Teal Center 22,County Commissioner Pct 4,,DEM,OVER VOTES,0,0,0,0,0
+Robertson,Bremond 5,County Commissioner Pct 4,,DEM,UNDER VOTES,9,2,3,4,0
+Robertson,Teal Center 22,County Commissioner Pct 4,,DEM,UNDER VOTES,4,1,0,3,0
+Robertson,Bremond 5,JOP Pct 4,,DEM,Fredrick B. Webber,47,8,17,22,0
+Robertson,Teal Center 22,JOP Pct 4,,DEM,Fredrick B. Webber,113,17,41,54,1
+Robertson,Bremond 5,JOP Pct 4,,DEM,OVER VOTES,0,0,0,0,0
+Robertson,Teal Center 22,JOP Pct 4,,DEM,OVER VOTES,0,0,0,0,0
+Robertson,Bremond 5,JOP Pct 4,,DEM,UNDER VOTES,12,3,4,5,0
+Robertson,Teal Center 22,JOP Pct 4,,DEM,UNDER VOTES,3,1,0,2,0
 Robertson,Calvert 1,County Chair,,DEM,Lisa L. Miller,51,3,20,28,0
 Robertson,Hearne 2,County Chair,,DEM,Lisa L. Miller,36,1,21,14,0
 Robertson,Wheelock 3,County Chair,,DEM,Lisa L. Miller,13,1,6,6,0
