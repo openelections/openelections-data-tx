@@ -1,13 +1,22 @@
 county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
-Nolan,Precinct 1,Registered Voters,,,,955,,,
-Nolan,Precinct 2,Registered Voters,,,,1059,,,
-Nolan,Precinct 3,Registered Voters,,,,1725,,,
-Nolan,Precinct 4,Registered Voters,,,,1814,,,
-Nolan,Precinct 5,Registered Voters,,,,145,,,
-Nolan,Precinct 6,Registered Voters,,,,1062,,,
-Nolan,Precinct 7,Registered Voters,,,,292,,,
-Nolan,Precinct 8,Registered Voters,,,,164,,,
-Nolan,Precinct 9,Registered Voters,,,,1435,,,
+Nolan,Precinct 1,Registered Voters,,,,955,0,0,0
+Nolan,Precinct 2,Registered Voters,,,,1059,0,0,0
+Nolan,Precinct 3,Registered Voters,,,,1725,0,0,0
+Nolan,Precinct 4,Registered Voters,,,,1814,0,0,0
+Nolan,Precinct 5,Registered Voters,,,,145,0,0,0
+Nolan,Precinct 6,Registered Voters,,,,1062,0,0,0
+Nolan,Precinct 7,Registered Voters,,,,292,0,0,0
+Nolan,Precinct 8,Registered Voters,,,,164,0,0,0
+Nolan,Precinct 9,Registered Voters,,,,1435,0,0,0
+Nolan,Precinct 1,Registered Voters - Nonpartisan,,NON,,955,0,0,0
+Nolan,Precinct 2,Registered Voters - Nonpartisan,,NON,,1059,0,0,0
+Nolan,Precinct 3,Registered Voters - Nonpartisan,,NON,,1725,0,0,0
+Nolan,Precinct 4,Registered Voters - Nonpartisan,,NON,,1814,0,0,0
+Nolan,Precinct 5,Registered Voters - Nonpartisan,,NON,,145,0,0,0
+Nolan,Precinct 6,Registered Voters - Nonpartisan,,NON,,1062,0,0,0
+Nolan,Precinct 7,Registered Voters - Nonpartisan,,NON,,292,0,0,0
+Nolan,Precinct 8,Registered Voters - Nonpartisan,,NON,,164,0,0,0
+Nolan,Precinct 9,Registered Voters - Nonpartisan,,NON,,1435,0,0,0
 Nolan,Precinct 1,Ballots Cast,,,,182,4,52,126
 Nolan,Precinct 2,Ballots Cast,,,,333,7,101,225
 Nolan,Precinct 3,Ballots Cast,,,,317,14,107,196
@@ -35,33 +44,51 @@ Nolan,Precinct 6,Ballots Cast,,DEM,,16,2,2,12
 Nolan,Precinct 7,Ballots Cast,,DEM,,0,0,0,0
 Nolan,Precinct 8,Ballots Cast,,DEM,,4,0,0,4
 Nolan,Precinct 9,Ballots Cast,,DEM,,22,4,7,11
-Nolan,Precinct 1,"US Representative, District 19",,REP,Jodey C. Arrington,131,0,38,93
-Nolan,Precinct 2,"US Representative, District 19",,REP,Jodey C. Arrington,268,3,80,185
-Nolan,Precinct 3,"US Representative, District 19",,REP,Jodey C. Arrington,235,4,77,154
-Nolan,Precinct 4,"US Representative, District 19",,REP,Jodey C. Arrington,162,3,52,107
-Nolan,Precinct 5,"US Representative, District 19",,REP,Jodey C. Arrington,42,0,6,36
-Nolan,Precinct 6,"US Representative, District 19",,REP,Jodey C. Arrington,205,1,37,167
-Nolan,Precinct 7,"US Representative, District 19",,REP,Jodey C. Arrington,75,0,7,68
-Nolan,Precinct 8,"US Representative, District 19",,REP,Jodey C. Arrington,52,0,4,48
-Nolan,Precinct 9,"US Representative, District 19",,REP,Jodey C. Arrington,333,3,105,225
-Nolan,Precinct 1,"US Representative, District 19",,REP,OVER VOTES,0,0,0,0
-Nolan,Precinct 2,"US Representative, District 19",,REP,OVER VOTES,0,0,0,0
-Nolan,Precinct 3,"US Representative, District 19",,REP,OVER VOTES,0,0,0,0
-Nolan,Precinct 4,"US Representative, District 19",,REP,OVER VOTES,0,0,0,0
-Nolan,Precinct 5,"US Representative, District 19",,REP,OVER VOTES,0,0,0,0
-Nolan,Precinct 6,"US Representative, District 19",,REP,OVER VOTES,0,0,0,0
-Nolan,Precinct 7,"US Representative, District 19",,REP,OVER VOTES,0,0,0,0
-Nolan,Precinct 8,"US Representative, District 19",,REP,OVER VOTES,0,0,0,0
-Nolan,Precinct 9,"US Representative, District 19",,REP,OVER VOTES,0,0,0,0
-Nolan,Precinct 1,"US Representative, District 19",,REP,UNDER VOTES,19,0,7,12
-Nolan,Precinct 2,"US Representative, District 19",,REP,UNDER VOTES,48,1,19,28
-Nolan,Precinct 3,"US Representative, District 19",,REP,UNDER VOTES,41,1,16,24
-Nolan,Precinct 4,"US Representative, District 19",,REP,UNDER VOTES,63,0,22,41
-Nolan,Precinct 5,"US Representative, District 19",,REP,UNDER VOTES,9,0,1,8
-Nolan,Precinct 6,"US Representative, District 19",,REP,UNDER VOTES,29,0,5,24
-Nolan,Precinct 7,"US Representative, District 19",,REP,UNDER VOTES,19,0,4,15
-Nolan,Precinct 8,"US Representative, District 19",,REP,UNDER VOTES,10,0,2,8
-Nolan,Precinct 9,"US Representative, District 19",,REP,UNDER VOTES,74,0,26,48
+Nolan,Precinct 1,Ballots Cast,,NON,,0,0,0,0
+Nolan,Precinct 2,Ballots Cast,,NON,,0,0,0,0
+Nolan,Precinct 3,Ballots Cast,,NON,,0,0,0,0
+Nolan,Precinct 4,Ballots Cast,,NON,,0,0,0,0
+Nolan,Precinct 5,Ballots Cast,,NON,,0,0,0,0
+Nolan,Precinct 6,Ballots Cast,,NON,,0,0,0,0
+Nolan,Precinct 7,Ballots Cast,,NON,,0,0,0,0
+Nolan,Precinct 8,Ballots Cast,,NON,,0,0,0,0
+Nolan,Precinct 9,Ballots Cast,,NON,,0,0,0,0
+Nolan,Precinct 1,Ballots Cast - Blank,,,,0,0,0,0
+Nolan,Precinct 2,Ballots Cast - Blank,,,,0,0,0,0
+Nolan,Precinct 3,Ballots Cast - Blank,,,,0,0,0,0
+Nolan,Precinct 4,Ballots Cast - Blank,,,,0,0,0,0
+Nolan,Precinct 5,Ballots Cast - Blank,,,,0,0,0,0
+Nolan,Precinct 6,Ballots Cast - Blank,,,,0,0,0,0
+Nolan,Precinct 7,Ballots Cast - Blank,,,,0,0,0,0
+Nolan,Precinct 8,Ballots Cast - Blank,,,,0,0,0,0
+Nolan,Precinct 9,Ballots Cast - Blank,,,,0,0,0,0
+Nolan,Precinct 1,U.S. House,19,REP,Jodey C. Arrington,131,0,38,93
+Nolan,Precinct 2,U.S. House,19,REP,Jodey C. Arrington,268,3,80,185
+Nolan,Precinct 3,U.S. House,19,REP,Jodey C. Arrington,235,4,77,154
+Nolan,Precinct 4,U.S. House,19,REP,Jodey C. Arrington,162,3,52,107
+Nolan,Precinct 5,U.S. House,19,REP,Jodey C. Arrington,42,0,6,36
+Nolan,Precinct 6,U.S. House,19,REP,Jodey C. Arrington,205,1,37,167
+Nolan,Precinct 7,U.S. House,19,REP,Jodey C. Arrington,75,0,7,68
+Nolan,Precinct 8,U.S. House,19,REP,Jodey C. Arrington,52,0,4,48
+Nolan,Precinct 9,U.S. House,19,REP,Jodey C. Arrington,333,3,105,225
+Nolan,Precinct 1,U.S. House,19,REP,OVER VOTES,0,0,0,0
+Nolan,Precinct 2,U.S. House,19,REP,OVER VOTES,0,0,0,0
+Nolan,Precinct 3,U.S. House,19,REP,OVER VOTES,0,0,0,0
+Nolan,Precinct 4,U.S. House,19,REP,OVER VOTES,0,0,0,0
+Nolan,Precinct 5,U.S. House,19,REP,OVER VOTES,0,0,0,0
+Nolan,Precinct 6,U.S. House,19,REP,OVER VOTES,0,0,0,0
+Nolan,Precinct 7,U.S. House,19,REP,OVER VOTES,0,0,0,0
+Nolan,Precinct 8,U.S. House,19,REP,OVER VOTES,0,0,0,0
+Nolan,Precinct 9,U.S. House,19,REP,OVER VOTES,0,0,0,0
+Nolan,Precinct 1,U.S. House,19,REP,UNDER VOTES,19,0,7,12
+Nolan,Precinct 2,U.S. House,19,REP,UNDER VOTES,48,1,19,28
+Nolan,Precinct 3,U.S. House,19,REP,UNDER VOTES,41,1,16,24
+Nolan,Precinct 4,U.S. House,19,REP,UNDER VOTES,63,0,22,41
+Nolan,Precinct 5,U.S. House,19,REP,UNDER VOTES,9,0,1,8
+Nolan,Precinct 6,U.S. House,19,REP,UNDER VOTES,29,0,5,24
+Nolan,Precinct 7,U.S. House,19,REP,UNDER VOTES,19,0,4,15
+Nolan,Precinct 8,U.S. House,19,REP,UNDER VOTES,10,0,2,8
+Nolan,Precinct 9,U.S. House,19,REP,UNDER VOTES,74,0,26,48
 Nolan,Precinct 1,Governor,,REP,Paul Belew,0,0,0,0
 Nolan,Precinct 2,Governor,,REP,Paul Belew,0,0,0,0
 Nolan,Precinct 3,Governor,,REP,Paul Belew,3,0,2,1
@@ -728,69 +755,69 @@ Nolan,Precinct 6,"Member, State BoE, Dist 15",,REP,UNDER VOTES,57,0,6,51
 Nolan,Precinct 7,"Member, State BoE, Dist 15",,REP,UNDER VOTES,20,0,3,17
 Nolan,Precinct 8,"Member, State BoE, Dist 15",,REP,UNDER VOTES,15,0,2,13
 Nolan,Precinct 9,"Member, State BoE, Dist 15",,REP,UNDER VOTES,109,0,33,76
-Nolan,Precinct 1,State Senator,28,REP,Charles Perry,118,0,29,89
-Nolan,Precinct 2,State Senator,28,REP,Charles Perry,250,3,77,170
-Nolan,Precinct 3,State Senator,28,REP,Charles Perry,210,4,68,138
-Nolan,Precinct 4,State Senator,28,REP,Charles Perry,157,3,48,106
-Nolan,Precinct 5,State Senator,28,REP,Charles Perry,41,0,7,34
-Nolan,Precinct 6,State Senator,28,REP,Charles Perry,189,1,30,158
-Nolan,Precinct 7,State Senator,28,REP,Charles Perry,75,0,6,69
-Nolan,Precinct 8,State Senator,28,REP,Charles Perry,52,0,5,47
-Nolan,Precinct 9,State Senator,28,REP,Charles Perry,317,3,102,212
-Nolan,Precinct 1,State Senator,28,REP,OVER VOTES,0,0,0,0
-Nolan,Precinct 2,State Senator,28,REP,OVER VOTES,0,0,0,0
-Nolan,Precinct 3,State Senator,28,REP,OVER VOTES,0,0,0,0
-Nolan,Precinct 4,State Senator,28,REP,OVER VOTES,0,0,0,0
-Nolan,Precinct 5,State Senator,28,REP,OVER VOTES,0,0,0,0
-Nolan,Precinct 6,State Senator,28,REP,OVER VOTES,0,0,0,0
-Nolan,Precinct 7,State Senator,28,REP,OVER VOTES,0,0,0,0
-Nolan,Precinct 8,State Senator,28,REP,OVER VOTES,0,0,0,0
-Nolan,Precinct 9,State Senator,28,REP,OVER VOTES,0,0,0,0
-Nolan,Precinct 1,State Senator,28,REP,UNDER VOTES,32,0,16,16
-Nolan,Precinct 2,State Senator,28,REP,UNDER VOTES,66,1,22,43
-Nolan,Precinct 3,State Senator,28,REP,UNDER VOTES,66,1,25,40
-Nolan,Precinct 4,State Senator,28,REP,UNDER VOTES,68,0,26,42
-Nolan,Precinct 5,State Senator,28,REP,UNDER VOTES,10,0,0,10
-Nolan,Precinct 6,State Senator,28,REP,UNDER VOTES,45,0,12,33
-Nolan,Precinct 7,State Senator,28,REP,UNDER VOTES,19,0,5,14
-Nolan,Precinct 8,State Senator,28,REP,UNDER VOTES,10,0,1,9
-Nolan,Precinct 9,State Senator,28,REP,UNDER VOTES,90,0,29,61
-Nolan,Precinct 1,State Representative,71,REP,Stan Lambert,112,0,33,79
-Nolan,Precinct 2,State Representative,71,REP,Stan Lambert,243,3,74,166
-Nolan,Precinct 3,State Representative,71,REP,Stan Lambert,189,4,62,123
-Nolan,Precinct 4,State Representative,71,REP,Stan Lambert,139,2,39,98
-Nolan,Precinct 5,State Representative,71,REP,Stan Lambert,42,0,7,35
-Nolan,Precinct 6,State Representative,71,REP,Stan Lambert,173,0,31,142
-Nolan,Precinct 7,State Representative,71,REP,Stan Lambert,64,0,6,58
-Nolan,Precinct 8,State Representative,71,REP,Stan Lambert,41,0,4,37
-Nolan,Precinct 9,State Representative,71,REP,Stan Lambert,299,3,93,203
-Nolan,Precinct 1,State Representative,71,REP,Samuel Weatherby,25,0,5,20
-Nolan,Precinct 2,State Representative,71,REP,Samuel Weatherby,39,0,11,28
-Nolan,Precinct 3,State Representative,71,REP,Samuel Weatherby,61,0,21,40
-Nolan,Precinct 4,State Representative,71,REP,Samuel Weatherby,39,1,16,22
-Nolan,Precinct 5,State Representative,71,REP,Samuel Weatherby,7,0,0,7
-Nolan,Precinct 6,State Representative,71,REP,Samuel Weatherby,45,1,8,36
-Nolan,Precinct 7,State Representative,71,REP,Samuel Weatherby,19,0,3,16
-Nolan,Precinct 8,State Representative,71,REP,Samuel Weatherby,14,0,0,14
-Nolan,Precinct 9,State Representative,71,REP,Samuel Weatherby,69,0,25,44
-Nolan,Precinct 1,State Representative,71,REP,OVER VOTES,0,0,0,0
-Nolan,Precinct 2,State Representative,71,REP,OVER VOTES,0,0,0,0
-Nolan,Precinct 3,State Representative,71,REP,OVER VOTES,0,0,0,0
-Nolan,Precinct 4,State Representative,71,REP,OVER VOTES,0,0,0,0
-Nolan,Precinct 5,State Representative,71,REP,OVER VOTES,0,0,0,0
-Nolan,Precinct 6,State Representative,71,REP,OVER VOTES,0,0,0,0
-Nolan,Precinct 7,State Representative,71,REP,OVER VOTES,0,0,0,0
-Nolan,Precinct 8,State Representative,71,REP,OVER VOTES,0,0,0,0
-Nolan,Precinct 9,State Representative,71,REP,OVER VOTES,0,0,0,0
-Nolan,Precinct 1,State Representative,71,REP,UNDER VOTES,13,0,7,6
-Nolan,Precinct 2,State Representative,71,REP,UNDER VOTES,34,1,14,19
-Nolan,Precinct 3,State Representative,71,REP,UNDER VOTES,26,1,10,15
-Nolan,Precinct 4,State Representative,71,REP,UNDER VOTES,47,0,19,28
-Nolan,Precinct 5,State Representative,71,REP,UNDER VOTES,2,0,0,2
-Nolan,Precinct 6,State Representative,71,REP,UNDER VOTES,16,0,3,13
-Nolan,Precinct 7,State Representative,71,REP,UNDER VOTES,11,0,2,9
-Nolan,Precinct 8,State Representative,71,REP,UNDER VOTES,7,0,2,5
-Nolan,Precinct 9,State Representative,71,REP,UNDER VOTES,39,0,13,26
+Nolan,Precinct 1,State Senate,28,REP,Charles Perry,118,0,29,89
+Nolan,Precinct 2,State Senate,28,REP,Charles Perry,250,3,77,170
+Nolan,Precinct 3,State Senate,28,REP,Charles Perry,210,4,68,138
+Nolan,Precinct 4,State Senate,28,REP,Charles Perry,157,3,48,106
+Nolan,Precinct 5,State Senate,28,REP,Charles Perry,41,0,7,34
+Nolan,Precinct 6,State Senate,28,REP,Charles Perry,189,1,30,158
+Nolan,Precinct 7,State Senate,28,REP,Charles Perry,75,0,6,69
+Nolan,Precinct 8,State Senate,28,REP,Charles Perry,52,0,5,47
+Nolan,Precinct 9,State Senate,28,REP,Charles Perry,317,3,102,212
+Nolan,Precinct 1,State Senate,28,REP,OVER VOTES,0,0,0,0
+Nolan,Precinct 2,State Senate,28,REP,OVER VOTES,0,0,0,0
+Nolan,Precinct 3,State Senate,28,REP,OVER VOTES,0,0,0,0
+Nolan,Precinct 4,State Senate,28,REP,OVER VOTES,0,0,0,0
+Nolan,Precinct 5,State Senate,28,REP,OVER VOTES,0,0,0,0
+Nolan,Precinct 6,State Senate,28,REP,OVER VOTES,0,0,0,0
+Nolan,Precinct 7,State Senate,28,REP,OVER VOTES,0,0,0,0
+Nolan,Precinct 8,State Senate,28,REP,OVER VOTES,0,0,0,0
+Nolan,Precinct 9,State Senate,28,REP,OVER VOTES,0,0,0,0
+Nolan,Precinct 1,State Senate,28,REP,UNDER VOTES,32,0,16,16
+Nolan,Precinct 2,State Senate,28,REP,UNDER VOTES,66,1,22,43
+Nolan,Precinct 3,State Senate,28,REP,UNDER VOTES,66,1,25,40
+Nolan,Precinct 4,State Senate,28,REP,UNDER VOTES,68,0,26,42
+Nolan,Precinct 5,State Senate,28,REP,UNDER VOTES,10,0,0,10
+Nolan,Precinct 6,State Senate,28,REP,UNDER VOTES,45,0,12,33
+Nolan,Precinct 7,State Senate,28,REP,UNDER VOTES,19,0,5,14
+Nolan,Precinct 8,State Senate,28,REP,UNDER VOTES,10,0,1,9
+Nolan,Precinct 9,State Senate,28,REP,UNDER VOTES,90,0,29,61
+Nolan,Precinct 1,State House,71,REP,Stan Lambert,112,0,33,79
+Nolan,Precinct 2,State House,71,REP,Stan Lambert,243,3,74,166
+Nolan,Precinct 3,State House,71,REP,Stan Lambert,189,4,62,123
+Nolan,Precinct 4,State House,71,REP,Stan Lambert,139,2,39,98
+Nolan,Precinct 5,State House,71,REP,Stan Lambert,42,0,7,35
+Nolan,Precinct 6,State House,71,REP,Stan Lambert,173,0,31,142
+Nolan,Precinct 7,State House,71,REP,Stan Lambert,64,0,6,58
+Nolan,Precinct 8,State House,71,REP,Stan Lambert,41,0,4,37
+Nolan,Precinct 9,State House,71,REP,Stan Lambert,299,3,93,203
+Nolan,Precinct 1,State House,71,REP,Samuel Weatherby,25,0,5,20
+Nolan,Precinct 2,State House,71,REP,Samuel Weatherby,39,0,11,28
+Nolan,Precinct 3,State House,71,REP,Samuel Weatherby,61,0,21,40
+Nolan,Precinct 4,State House,71,REP,Samuel Weatherby,39,1,16,22
+Nolan,Precinct 5,State House,71,REP,Samuel Weatherby,7,0,0,7
+Nolan,Precinct 6,State House,71,REP,Samuel Weatherby,45,1,8,36
+Nolan,Precinct 7,State House,71,REP,Samuel Weatherby,19,0,3,16
+Nolan,Precinct 8,State House,71,REP,Samuel Weatherby,14,0,0,14
+Nolan,Precinct 9,State House,71,REP,Samuel Weatherby,69,0,25,44
+Nolan,Precinct 1,State House,71,REP,OVER VOTES,0,0,0,0
+Nolan,Precinct 2,State House,71,REP,OVER VOTES,0,0,0,0
+Nolan,Precinct 3,State House,71,REP,OVER VOTES,0,0,0,0
+Nolan,Precinct 4,State House,71,REP,OVER VOTES,0,0,0,0
+Nolan,Precinct 5,State House,71,REP,OVER VOTES,0,0,0,0
+Nolan,Precinct 6,State House,71,REP,OVER VOTES,0,0,0,0
+Nolan,Precinct 7,State House,71,REP,OVER VOTES,0,0,0,0
+Nolan,Precinct 8,State House,71,REP,OVER VOTES,0,0,0,0
+Nolan,Precinct 9,State House,71,REP,OVER VOTES,0,0,0,0
+Nolan,Precinct 1,State House,71,REP,UNDER VOTES,13,0,7,6
+Nolan,Precinct 2,State House,71,REP,UNDER VOTES,34,1,14,19
+Nolan,Precinct 3,State House,71,REP,UNDER VOTES,26,1,10,15
+Nolan,Precinct 4,State House,71,REP,UNDER VOTES,47,0,19,28
+Nolan,Precinct 5,State House,71,REP,UNDER VOTES,2,0,0,2
+Nolan,Precinct 6,State House,71,REP,UNDER VOTES,16,0,3,13
+Nolan,Precinct 7,State House,71,REP,UNDER VOTES,11,0,2,9
+Nolan,Precinct 8,State House,71,REP,UNDER VOTES,7,0,2,5
+Nolan,Precinct 9,State House,71,REP,UNDER VOTES,39,0,13,26
 Nolan,Precinct 1,"Justice, 11th Ct of App Dist, Pl 3",,REP,W. Stacy Trotter,115,0,29,86
 Nolan,Precinct 2,"Justice, 11th Ct of App Dist, Pl 3",,REP,W. Stacy Trotter,223,3,66,154
 Nolan,Precinct 3,"Justice, 11th Ct of App Dist, Pl 3",,REP,W. Stacy Trotter,204,4,66,134
@@ -962,54 +989,54 @@ Nolan,Precinct 6,County Treasurer,,REP,UNDER VOTES,42,0,7,35
 Nolan,Precinct 7,County Treasurer,,REP,UNDER VOTES,20,0,5,15
 Nolan,Precinct 8,County Treasurer,,REP,UNDER VOTES,12,0,2,10
 Nolan,Precinct 9,County Treasurer,,REP,UNDER VOTES,82,0,26,56
-Nolan,Precinct 1                    J,Justice of the Peace JOP,,REP,Angie Collier,87,0,25,62
-Nolan,Precinct 2                    J,Justice of the Peace JOP,,REP,Angie Collier,151,1,52,98
-Nolan,Precinct 3                    J,Justice of the Peace JOP,,REP,Angie Collier,157,2,48,107
-Nolan,Precinct 4                    J,Justice of the Peace JOP,,REP,Angie Collier,107,1,33,73
-Nolan,Precinct 5                    J,Justice of the Peace JOP,,REP,Angie Collier,31,0,5,26
-Nolan,Precinct 6                    J,Justice of the Peace JOP,,REP,Angie Collier,159,1,31,127
-Nolan,Precinct 7                    J,Justice of the Peace JOP,,REP,Angie Collier,59,0,7,52
-Nolan,Precinct 8                    J,Justice of the Peace JOP,,REP,Angie Collier,36,0,3,33
-Nolan,Precinct 9                    J,Justice of the Peace JOP,,REP,Angie Collier,249,1,77,171
-Nolan,Precinct 1                    J,Justice of the Peace JOP,,REP,Danny Heine,58,0,17,41
-Nolan,Precinct 2                    J,Justice of the Peace JOP,,REP,Danny Heine,156,3,45,108
-Nolan,Precinct 3                    J,Justice of the Peace JOP,,REP,Danny Heine,104,2,40,62
-Nolan,Precinct 4                    J,Justice of the Peace JOP,,REP,Danny Heine,99,2,32,65
-Nolan,Precinct 5                    J,Justice of the Peace JOP,,REP,Danny Heine,13,0,2,11
-Nolan,Precinct 6                    J,Justice of the Peace JOP,,REP,Danny Heine,60,0,10,50
-Nolan,Precinct 7                    J,Justice of the Peace JOP,,REP,Danny Heine,25,0,2,23
-Nolan,Precinct 8                    J,Justice of the Peace JOP,,REP,Danny Heine,19,0,1,18
-Nolan,Precinct 9                    J,Justice of the Peace JOP,,REP,Danny Heine,139,0,49,90
-Nolan,Precinct 1                    J,Justice of the Peace JOP,,REP,OVER VOTES,0,0,0,0
-Nolan,Precinct 2                    J,Justice of the Peace JOP,,REP,OVER VOTES,0,0,0,0
-Nolan,Precinct 3                    J,Justice of the Peace JOP,,REP,OVER VOTES,0,0,0,0
-Nolan,Precinct 4                    J,Justice of the Peace JOP,,REP,OVER VOTES,0,0,0,0
-Nolan,Precinct 5                    J,Justice of the Peace JOP,,REP,OVER VOTES,0,0,0,0
-Nolan,Precinct 6                    J,Justice of the Peace JOP,,REP,OVER VOTES,1,0,1,0
-Nolan,Precinct 7                    J,Justice of the Peace JOP,,REP,OVER VOTES,0,0,0,0
-Nolan,Precinct 8                    J,Justice of the Peace JOP,,REP,OVER VOTES,0,0,0,0
-Nolan,Precinct 9                    J,Justice of the Peace JOP,,REP,OVER VOTES,0,0,0,0
-Nolan,Precinct 1                    J,Justice of the Peace JOP,,REP,UNDER VOTES,5,0,3,2
-Nolan,Precinct 2                    J,Justice of the Peace JOP,,REP,UNDER VOTES,9,0,2,7
-Nolan,Precinct 3                    J,Justice of the Peace JOP,,REP,UNDER VOTES,15,1,5,9
-Nolan,Precinct 4                    J,Justice of the Peace JOP,,REP,UNDER VOTES,19,0,9,10
-Nolan,Precinct 5                    J,Justice of the Peace JOP,,REP,UNDER VOTES,7,0,0,7
-Nolan,Precinct 6                    J,Justice of the Peace JOP,,REP,UNDER VOTES,14,0,0,14
-Nolan,Precinct 7                    J,Justice of the Peace JOP,,REP,UNDER VOTES,10,0,2,8
-Nolan,Precinct 8                    J,Justice of the Peace JOP,,REP,UNDER VOTES,7,0,2,5
-Nolan,Precinct 9                    J,Justice of the Peace JOP,,REP,UNDER VOTES,19,2,5,12
-Nolan,Precinct 2                    P,County Commissioner Pct 2,,REP,Seth Mahaffey,260,3,76,181
-Nolan,Precinct 9                    P,County Commissioner Pct 2,,REP,Seth Mahaffey,341,3,110,228
-Nolan,Precinct 2                    P,County Commissioner Pct 2,,REP,OVER VOTES,0,0,0,0
-Nolan,Precinct 9                    P,County Commissioner Pct 2,,REP,OVER VOTES,0,0,0,0
-Nolan,Precinct 2                    P,County Commissioner Pct 2,,REP,UNDER VOTES,56,1,23,32
-Nolan,Precinct 9                    P,County Commissioner Pct 2,,REP,UNDER VOTES,66,0,21,45
-Nolan,Precinct 4                    P,County Commissioner Pct 4,,REP,Henry Ortega,167,3,53,111
-Nolan,Precinct 8                    P,County Commissioner Pct 4,,REP,Henry Ortega,50,0,5,45
-Nolan,Precinct 4                    P,County Commissioner Pct 4,,REP,OVER VOTES,0,0,0,0
-Nolan,Precinct 8                    P,County Commissioner Pct 4,,REP,OVER VOTES,0,0,0,0
-Nolan,Precinct 4                    P,County Commissioner Pct 4,,REP,UNDER VOTES,58,0,21,37
-Nolan,Precinct 8                    P,County Commissioner Pct 4,,REP,UNDER VOTES,12,0,1,11
+Nolan,Precinct 1,Justice of the Peace Jop,,REP,Angie Collier,87,0,25,62
+Nolan,Precinct 2,Justice of the Peace Jop,,REP,Angie Collier,151,1,52,98
+Nolan,Precinct 3,Justice of the Peace Jop,,REP,Angie Collier,157,2,48,107
+Nolan,Precinct 4,Justice of the Peace Jop,,REP,Angie Collier,107,1,33,73
+Nolan,Precinct 5,Justice of the Peace Jop,,REP,Angie Collier,31,0,5,26
+Nolan,Precinct 6,Justice of the Peace Jop,,REP,Angie Collier,159,1,31,127
+Nolan,Precinct 7,Justice of the Peace Jop,,REP,Angie Collier,59,0,7,52
+Nolan,Precinct 8,Justice of the Peace Jop,,REP,Angie Collier,36,0,3,33
+Nolan,Precinct 9,Justice of the Peace Jop,,REP,Angie Collier,249,1,77,171
+Nolan,Precinct 1,Justice of the Peace Jop,,REP,Danny Heine,58,0,17,41
+Nolan,Precinct 2,Justice of the Peace Jop,,REP,Danny Heine,156,3,45,108
+Nolan,Precinct 3,Justice of the Peace Jop,,REP,Danny Heine,104,2,40,62
+Nolan,Precinct 4,Justice of the Peace Jop,,REP,Danny Heine,99,2,32,65
+Nolan,Precinct 5,Justice of the Peace Jop,,REP,Danny Heine,13,0,2,11
+Nolan,Precinct 6,Justice of the Peace Jop,,REP,Danny Heine,60,0,10,50
+Nolan,Precinct 7,Justice of the Peace Jop,,REP,Danny Heine,25,0,2,23
+Nolan,Precinct 8,Justice of the Peace Jop,,REP,Danny Heine,19,0,1,18
+Nolan,Precinct 9,Justice of the Peace Jop,,REP,Danny Heine,139,0,49,90
+Nolan,Precinct 1,Justice of the Peace Jop,,REP,OVER VOTES,0,0,0,0
+Nolan,Precinct 2,Justice of the Peace Jop,,REP,OVER VOTES,0,0,0,0
+Nolan,Precinct 3,Justice of the Peace Jop,,REP,OVER VOTES,0,0,0,0
+Nolan,Precinct 4,Justice of the Peace Jop,,REP,OVER VOTES,0,0,0,0
+Nolan,Precinct 5,Justice of the Peace Jop,,REP,OVER VOTES,0,0,0,0
+Nolan,Precinct 6,Justice of the Peace Jop,,REP,OVER VOTES,1,0,1,0
+Nolan,Precinct 7,Justice of the Peace Jop,,REP,OVER VOTES,0,0,0,0
+Nolan,Precinct 8,Justice of the Peace Jop,,REP,OVER VOTES,0,0,0,0
+Nolan,Precinct 9,Justice of the Peace Jop,,REP,OVER VOTES,0,0,0,0
+Nolan,Precinct 1,Justice of the Peace Jop,,REP,UNDER VOTES,5,0,3,2
+Nolan,Precinct 2,Justice of the Peace Jop,,REP,UNDER VOTES,9,0,2,7
+Nolan,Precinct 3,Justice of the Peace Jop,,REP,UNDER VOTES,15,1,5,9
+Nolan,Precinct 4,Justice of the Peace Jop,,REP,UNDER VOTES,19,0,9,10
+Nolan,Precinct 5,Justice of the Peace Jop,,REP,UNDER VOTES,7,0,0,7
+Nolan,Precinct 6,Justice of the Peace Jop,,REP,UNDER VOTES,14,0,0,14
+Nolan,Precinct 7,Justice of the Peace Jop,,REP,UNDER VOTES,10,0,2,8
+Nolan,Precinct 8,Justice of the Peace Jop,,REP,UNDER VOTES,7,0,2,5
+Nolan,Precinct 9,Justice of the Peace Jop,,REP,UNDER VOTES,19,2,5,12
+Nolan,Precinct 2,County Commissioner Pct 2,,REP,Seth Mahaffey,260,3,76,181
+Nolan,Precinct 9,County Commissioner Pct 2,,REP,Seth Mahaffey,341,3,110,228
+Nolan,Precinct 2,County Commissioner Pct 2,,REP,OVER VOTES,0,0,0,0
+Nolan,Precinct 9,County Commissioner Pct 2,,REP,OVER VOTES,0,0,0,0
+Nolan,Precinct 2,County Commissioner Pct 2,,REP,UNDER VOTES,56,1,23,32
+Nolan,Precinct 9,County Commissioner Pct 2,,REP,UNDER VOTES,66,0,21,45
+Nolan,Precinct 4,County Commissioner Pct 4,,REP,Henry Ortega,167,3,53,111
+Nolan,Precinct 8,County Commissioner Pct 4,,REP,Henry Ortega,50,0,5,45
+Nolan,Precinct 4,County Commissioner Pct 4,,REP,OVER VOTES,0,0,0,0
+Nolan,Precinct 8,County Commissioner Pct 4,,REP,OVER VOTES,0,0,0,0
+Nolan,Precinct 4,County Commissioner Pct 4,,REP,UNDER VOTES,58,0,21,37
+Nolan,Precinct 8,County Commissioner Pct 4,,REP,UNDER VOTES,12,0,1,11
 Nolan,Precinct 1,County Chair,,REP,Larry May,129,0,37,92
 Nolan,Precinct 2,County Chair,,REP,Larry May,221,2,65,154
 Nolan,Precinct 3,County Chair,,REP,Larry May,230,4,73,153
@@ -1865,33 +1892,33 @@ Nolan,Precinct 6,"Judge, Ct of Crim App, Pl 6",,DEM,UNDER VOTES,0,0,0,0
 Nolan,Precinct 7,"Judge, Ct of Crim App, Pl 6",,DEM,UNDER VOTES,0,0,0,0
 Nolan,Precinct 8,"Judge, Ct of Crim App, Pl 6",,DEM,UNDER VOTES,1,0,0,1
 Nolan,Precinct 9,"Judge, Ct of Crim App, Pl 6",,DEM,UNDER VOTES,4,1,2,1
-Nolan,Precinct 1,State Senator,71,DEM,Linda Goolsbee,27,3,5,19
-Nolan,Precinct 2,State Senator,71,DEM,Linda Goolsbee,15,3,1,11
-Nolan,Precinct 3,State Senator,71,DEM,Linda Goolsbee,38,6,14,18
-Nolan,Precinct 4,State Senator,71,DEM,Linda Goolsbee,39,7,9,23
-Nolan,Precinct 5,State Senator,71,DEM,Linda Goolsbee,5,0,0,5
-Nolan,Precinct 6,State Senator,71,DEM,Linda Goolsbee,16,2,2,12
-Nolan,Precinct 7,State Senator,71,DEM,Linda Goolsbee,0,0,0,0
-Nolan,Precinct 8,State Senator,71,DEM,Linda Goolsbee,2,0,0,2
-Nolan,Precinct 9,State Senator,71,DEM,Linda Goolsbee,22,4,7,11
-Nolan,Precinct 1,State Senator,71,DEM,OVER VOTES,0,0,0,0
-Nolan,Precinct 2,State Senator,71,DEM,OVER VOTES,0,0,0,0
-Nolan,Precinct 3,State Senator,71,DEM,OVER VOTES,0,0,0,0
-Nolan,Precinct 4,State Senator,71,DEM,OVER VOTES,0,0,0,0
-Nolan,Precinct 5,State Senator,71,DEM,OVER VOTES,0,0,0,0
-Nolan,Precinct 6,State Senator,71,DEM,OVER VOTES,0,0,0,0
-Nolan,Precinct 7,State Senator,71,DEM,OVER VOTES,0,0,0,0
-Nolan,Precinct 8,State Senator,71,DEM,OVER VOTES,0,0,0,0
-Nolan,Precinct 9,State Senator,71,DEM,OVER VOTES,0,0,0,0
-Nolan,Precinct 1,State Senator,71,DEM,UNDER VOTES,5,1,2,2
-Nolan,Precinct 2,State Senator,71,DEM,UNDER VOTES,2,0,1,1
-Nolan,Precinct 3,State Senator,71,DEM,UNDER VOTES,3,3,0,0
-Nolan,Precinct 4,State Senator,71,DEM,UNDER VOTES,7,0,1,6
-Nolan,Precinct 5,State Senator,71,DEM,UNDER VOTES,2,1,0,1
-Nolan,Precinct 6,State Senator,71,DEM,UNDER VOTES,0,0,0,0
-Nolan,Precinct 7,State Senator,71,DEM,UNDER VOTES,0,0,0,0
-Nolan,Precinct 8,State Senator,71,DEM,UNDER VOTES,2,0,0,2
-Nolan,Precinct 9,State Senator,71,DEM,UNDER VOTES,0,0,0,0
+Nolan,Precinct 1,State Senate,71,DEM,Linda Goolsbee,27,3,5,19
+Nolan,Precinct 2,State Senate,71,DEM,Linda Goolsbee,15,3,1,11
+Nolan,Precinct 3,State Senate,71,DEM,Linda Goolsbee,38,6,14,18
+Nolan,Precinct 4,State Senate,71,DEM,Linda Goolsbee,39,7,9,23
+Nolan,Precinct 5,State Senate,71,DEM,Linda Goolsbee,5,0,0,5
+Nolan,Precinct 6,State Senate,71,DEM,Linda Goolsbee,16,2,2,12
+Nolan,Precinct 7,State Senate,71,DEM,Linda Goolsbee,0,0,0,0
+Nolan,Precinct 8,State Senate,71,DEM,Linda Goolsbee,2,0,0,2
+Nolan,Precinct 9,State Senate,71,DEM,Linda Goolsbee,22,4,7,11
+Nolan,Precinct 1,State Senate,71,DEM,OVER VOTES,0,0,0,0
+Nolan,Precinct 2,State Senate,71,DEM,OVER VOTES,0,0,0,0
+Nolan,Precinct 3,State Senate,71,DEM,OVER VOTES,0,0,0,0
+Nolan,Precinct 4,State Senate,71,DEM,OVER VOTES,0,0,0,0
+Nolan,Precinct 5,State Senate,71,DEM,OVER VOTES,0,0,0,0
+Nolan,Precinct 6,State Senate,71,DEM,OVER VOTES,0,0,0,0
+Nolan,Precinct 7,State Senate,71,DEM,OVER VOTES,0,0,0,0
+Nolan,Precinct 8,State Senate,71,DEM,OVER VOTES,0,0,0,0
+Nolan,Precinct 9,State Senate,71,DEM,OVER VOTES,0,0,0,0
+Nolan,Precinct 1,State Senate,71,DEM,UNDER VOTES,5,1,2,2
+Nolan,Precinct 2,State Senate,71,DEM,UNDER VOTES,2,0,1,1
+Nolan,Precinct 3,State Senate,71,DEM,UNDER VOTES,3,3,0,0
+Nolan,Precinct 4,State Senate,71,DEM,UNDER VOTES,7,0,1,6
+Nolan,Precinct 5,State Senate,71,DEM,UNDER VOTES,2,1,0,1
+Nolan,Precinct 6,State Senate,71,DEM,UNDER VOTES,0,0,0,0
+Nolan,Precinct 7,State Senate,71,DEM,UNDER VOTES,0,0,0,0
+Nolan,Precinct 8,State Senate,71,DEM,UNDER VOTES,2,0,0,2
+Nolan,Precinct 9,State Senate,71,DEM,UNDER VOTES,0,0,0,0
 Nolan,Precinct 1,County Chair,,DEM,Mark Hampton,25,3,5,17
 Nolan,Precinct 2,County Chair,,DEM,Mark Hampton,15,3,2,10
 Nolan,Precinct 3,County Chair,,DEM,Mark Hampton,37,6,14,17
