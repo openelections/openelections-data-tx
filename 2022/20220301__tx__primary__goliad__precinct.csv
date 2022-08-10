@@ -1,13 +1,22 @@
 county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
-Goliad,Precinct 11,Registered Voters,,,,1026,,,
-Goliad,Precinct 12,Registered Voters,,,,467,,,
-Goliad,Precinct 21,Registered Voters,,,,1183,,,
-Goliad,Precinct 22,Registered Voters,,,,273,,,
-Goliad,Precinct 31,Registered Voters,,,,634,,,
-Goliad,Precinct 32,Registered Voters,,,,648,,,
-Goliad,Precinct 41,Registered Voters,,,,404,,,
-Goliad,Precinct 42,Registered Voters,,,,662,,,
-Goliad,Precinct 43,Registered Voters,,,,438,,,
+Goliad,Precinct 11,Registered Voters,,,,1026,0,0,0
+Goliad,Precinct 12,Registered Voters,,,,467,0,0,0
+Goliad,Precinct 21,Registered Voters,,,,1183,0,0,0
+Goliad,Precinct 22,Registered Voters,,,,273,0,0,0
+Goliad,Precinct 31,Registered Voters,,,,634,0,0,0
+Goliad,Precinct 32,Registered Voters,,,,648,0,0,0
+Goliad,Precinct 41,Registered Voters,,,,404,0,0,0
+Goliad,Precinct 42,Registered Voters,,,,662,0,0,0
+Goliad,Precinct 43,Registered Voters,,,,438,0,0,0
+Goliad,Precinct 11,Registered Voters - Nonpartisan,,NON,,1026,0,0,0
+Goliad,Precinct 12,Registered Voters - Nonpartisan,,NON,,467,0,0,0
+Goliad,Precinct 21,Registered Voters - Nonpartisan,,NON,,1183,0,0,0
+Goliad,Precinct 22,Registered Voters - Nonpartisan,,NON,,273,0,0,0
+Goliad,Precinct 31,Registered Voters - Nonpartisan,,NON,,634,0,0,0
+Goliad,Precinct 32,Registered Voters - Nonpartisan,,NON,,648,0,0,0
+Goliad,Precinct 41,Registered Voters - Nonpartisan,,NON,,404,0,0,0
+Goliad,Precinct 42,Registered Voters - Nonpartisan,,NON,,662,0,0,0
+Goliad,Precinct 43,Registered Voters - Nonpartisan,,NON,,438,0,0,0
 Goliad,Precinct 11,Ballots Cast,,,,267,14,126,127
 Goliad,Precinct 12,Ballots Cast,,,,158,7,69,82
 Goliad,Precinct 21,Ballots Cast,,,,408,15,221,172
@@ -44,15 +53,15 @@ Goliad,Precinct 32,Ballots Cast,,NON,,0,0,0,0
 Goliad,Precinct 41,Ballots Cast,,NON,,0,0,0,0
 Goliad,Precinct 42,Ballots Cast,,NON,,0,0,0,0
 Goliad,Precinct 43,Ballots Cast,,NON,,0,0,0,0
-Goliad,Precinct 11,BALLOTS CAST - BLANK,,,BALLOTS CAST - BLANK,0,0,0,0
-Goliad,Precinct 12,BALLOTS CAST - BLANK,,,BALLOTS CAST - BLANK,0,0,0,0
-Goliad,Precinct 21,BALLOTS CAST - BLANK,,,BALLOTS CAST - BLANK,0,0,0,0
-Goliad,Precinct 22,BALLOTS CAST - BLANK,,,BALLOTS CAST - BLANK,0,0,0,0
-Goliad,Precinct 31,BALLOTS CAST - BLANK,,,BALLOTS CAST - BLANK,0,0,0,0
-Goliad,Precinct 32,BALLOTS CAST - BLANK,,,BALLOTS CAST - BLANK,0,0,0,0
-Goliad,Precinct 41,BALLOTS CAST - BLANK,,,BALLOTS CAST - BLANK,0,0,0,0
-Goliad,Precinct 42,BALLOTS CAST - BLANK,,,BALLOTS CAST - BLANK,0,0,0,0
-Goliad,Precinct 43,BALLOTS CAST - BLANK,,,BALLOTS CAST - BLANK,0,0,0,0
+Goliad,Precinct 11,Ballots Cast - Blank,,,,0,0,0,0
+Goliad,Precinct 12,Ballots Cast - Blank,,,,0,0,0,0
+Goliad,Precinct 21,Ballots Cast - Blank,,,,0,0,0,0
+Goliad,Precinct 22,Ballots Cast - Blank,,,,0,0,0,0
+Goliad,Precinct 31,Ballots Cast - Blank,,,,0,0,0,0
+Goliad,Precinct 32,Ballots Cast - Blank,,,,0,0,0,0
+Goliad,Precinct 41,Ballots Cast - Blank,,,,0,0,0,0
+Goliad,Precinct 42,Ballots Cast - Blank,,,,0,0,0,0
+Goliad,Precinct 43,Ballots Cast - Blank,,,,0,0,0,0
 Goliad,Precinct 11,U.S. House,27,REP,Eric Mireles,24,0,14,10
 Goliad,Precinct 12,U.S. House,27,REP,Eric Mireles,4,0,1,3
 Goliad,Precinct 21,U.S. House,27,REP,Eric Mireles,43,0,18,25
@@ -809,33 +818,33 @@ Goliad,Precinct 32,State Senate,18,REP,UNDER VOTES,47,0,18,29
 Goliad,Precinct 41,State Senate,18,REP,UNDER VOTES,44,1,17,26
 Goliad,Precinct 42,State Senate,18,REP,UNDER VOTES,52,0,13,39
 Goliad,Precinct 43,State Senate,18,REP,UNDER VOTES,42,1,17,24
-Goliad,Precinct 11,State Representative,30,REP,Geanie W. Morrison,134,3,64,67
-Goliad,Precinct 12,State Representative,30,REP,Geanie W. Morrison,126,6,58,62
-Goliad,Precinct 21,State Representative,30,REP,Geanie W. Morrison,231,3,133,95
-Goliad,Precinct 22,State Representative,30,REP,Geanie W. Morrison,58,0,23,35
-Goliad,Precinct 31,State Representative,30,REP,Geanie W. Morrison,124,1,70,53
-Goliad,Precinct 32,State Representative,30,REP,Geanie W. Morrison,161,2,67,92
-Goliad,Precinct 41,State Representative,30,REP,Geanie W. Morrison,119,0,31,88
-Goliad,Precinct 42,State Representative,30,REP,Geanie W. Morrison,167,1,42,124
-Goliad,Precinct 43,State Representative,30,REP,Geanie W. Morrison,117,1,70,46
-Goliad,Precinct 11,State Representative,30,REP,OVER VOTES,0,0,0,0
-Goliad,Precinct 12,State Representative,30,REP,OVER VOTES,0,0,0,0
-Goliad,Precinct 21,State Representative,30,REP,OVER VOTES,0,0,0,0
-Goliad,Precinct 22,State Representative,30,REP,OVER VOTES,0,0,0,0
-Goliad,Precinct 31,State Representative,30,REP,OVER VOTES,0,0,0,0
-Goliad,Precinct 32,State Representative,30,REP,OVER VOTES,0,0,0,0
-Goliad,Precinct 41,State Representative,30,REP,OVER VOTES,0,0,0,0
-Goliad,Precinct 42,State Representative,30,REP,OVER VOTES,0,0,0,0
-Goliad,Precinct 43,State Representative,30,REP,OVER VOTES,0,0,0,0
-Goliad,Precinct 11,State Representative,30,REP,UNDER VOTES,72,1,40,31
-Goliad,Precinct 12,State Representative,30,REP,UNDER VOTES,28,0,11,17
-Goliad,Precinct 21,State Representative,30,REP,UNDER VOTES,122,4,71,47
-Goliad,Precinct 22,State Representative,30,REP,UNDER VOTES,36,0,12,24
-Goliad,Precinct 31,State Representative,30,REP,UNDER VOTES,41,0,22,19
-Goliad,Precinct 32,State Representative,30,REP,UNDER VOTES,47,0,13,34
-Goliad,Precinct 41,State Representative,30,REP,UNDER VOTES,42,2,16,24
-Goliad,Precinct 42,State Representative,30,REP,UNDER VOTES,51,0,14,37
-Goliad,Precinct 43,State Representative,30,REP,UNDER VOTES,42,1,21,20
+Goliad,Precinct 11,State House,30,REP,Geanie W. Morrison,134,3,64,67
+Goliad,Precinct 12,State House,30,REP,Geanie W. Morrison,126,6,58,62
+Goliad,Precinct 21,State House,30,REP,Geanie W. Morrison,231,3,133,95
+Goliad,Precinct 22,State House,30,REP,Geanie W. Morrison,58,0,23,35
+Goliad,Precinct 31,State House,30,REP,Geanie W. Morrison,124,1,70,53
+Goliad,Precinct 32,State House,30,REP,Geanie W. Morrison,161,2,67,92
+Goliad,Precinct 41,State House,30,REP,Geanie W. Morrison,119,0,31,88
+Goliad,Precinct 42,State House,30,REP,Geanie W. Morrison,167,1,42,124
+Goliad,Precinct 43,State House,30,REP,Geanie W. Morrison,117,1,70,46
+Goliad,Precinct 11,State House,30,REP,OVER VOTES,0,0,0,0
+Goliad,Precinct 12,State House,30,REP,OVER VOTES,0,0,0,0
+Goliad,Precinct 21,State House,30,REP,OVER VOTES,0,0,0,0
+Goliad,Precinct 22,State House,30,REP,OVER VOTES,0,0,0,0
+Goliad,Precinct 31,State House,30,REP,OVER VOTES,0,0,0,0
+Goliad,Precinct 32,State House,30,REP,OVER VOTES,0,0,0,0
+Goliad,Precinct 41,State House,30,REP,OVER VOTES,0,0,0,0
+Goliad,Precinct 42,State House,30,REP,OVER VOTES,0,0,0,0
+Goliad,Precinct 43,State House,30,REP,OVER VOTES,0,0,0,0
+Goliad,Precinct 11,State House,30,REP,UNDER VOTES,72,1,40,31
+Goliad,Precinct 12,State House,30,REP,UNDER VOTES,28,0,11,17
+Goliad,Precinct 21,State House,30,REP,UNDER VOTES,122,4,71,47
+Goliad,Precinct 22,State House,30,REP,UNDER VOTES,36,0,12,24
+Goliad,Precinct 31,State House,30,REP,UNDER VOTES,41,0,22,19
+Goliad,Precinct 32,State House,30,REP,UNDER VOTES,47,0,13,34
+Goliad,Precinct 41,State House,30,REP,UNDER VOTES,42,2,16,24
+Goliad,Precinct 42,State House,30,REP,UNDER VOTES,51,0,14,37
+Goliad,Precinct 43,State House,30,REP,UNDER VOTES,42,1,21,20
 Goliad,Precinct 11,"Justice, 13th Ct of App Dist, Pl 3",,REP,Ysmael Fonseca,58,2,28,28
 Goliad,Precinct 12,"Justice, 13th Ct of App Dist, Pl 3",,REP,Ysmael Fonseca,42,2,25,15
 Goliad,Precinct 21,"Justice, 13th Ct of App Dist, Pl 3",,REP,Ysmael Fonseca,102,4,60,38
@@ -998,69 +1007,69 @@ Goliad,Precinct 32,County Treasurer,,REP,UNDER VOTES,49,0,16,33
 Goliad,Precinct 41,County Treasurer,,REP,UNDER VOTES,52,1,18,33
 Goliad,Precinct 42,County Treasurer,,REP,UNDER VOTES,59,0,13,46
 Goliad,Precinct 43,County Treasurer,,REP,UNDER VOTES,51,2,24,25
-Goliad,Precinct 21                   P,County Commissioner Pct 2,,REP,David Young,164,6,101,57
-Goliad,Precinct 22                   P,County Commissioner Pct 2,,REP,David Young,31,0,13,18
-Goliad,Precinct 21                   P,County Commissioner Pct 2,,REP,Lionel Garcia,113,0,57,56
-Goliad,Precinct 22                   P,County Commissioner Pct 2,,REP,Lionel Garcia,25,0,6,19
-Goliad,Precinct 21                   P,County Commissioner Pct 2,,REP,Robert Zavesky,60,1,38,21
-Goliad,Precinct 22                   P,County Commissioner Pct 2,,REP,Robert Zavesky,30,0,16,14
-Goliad,Precinct 21                   P,County Commissioner Pct 2,,REP,OVER VOTES,0,0,0,0
-Goliad,Precinct 22                   P,County Commissioner Pct 2,,REP,OVER VOTES,0,0,0,0
-Goliad,Precinct 21                   P,County Commissioner Pct 2,,REP,UNDER VOTES,16,0,8,8
-Goliad,Precinct 22                   P,County Commissioner Pct 2,,REP,UNDER VOTES,8,0,0,8
-Goliad,Precinct 41                   P,County Commissioner Pct 4,,REP,Staci Holbert,6,0,3,3
-Goliad,Precinct 42                   P,County Commissioner Pct 4,,REP,Staci Holbert,6,0,1,5
-Goliad,Precinct 43                   P,County Commissioner Pct 4,,REP,Staci Holbert,15,1,9,5
-Goliad,Precinct 41                   P,County Commissioner Pct 4,,REP,Matthew Farris,39,1,7,31
-Goliad,Precinct 42                   P,County Commissioner Pct 4,,REP,Matthew Farris,57,0,23,34
-Goliad,Precinct 43                   P,County Commissioner Pct 4,,REP,Matthew Farris,31,0,18,13
-Goliad,Precinct 41                   P,County Commissioner Pct 4,,REP,Kevin Fagg,36,0,12,24
-Goliad,Precinct 42                   P,County Commissioner Pct 4,,REP,Kevin Fagg,60,0,16,44
-Goliad,Precinct 43                   P,County Commissioner Pct 4,,REP,Kevin Fagg,61,0,31,30
-Goliad,Precinct 41                   P,County Commissioner Pct 4,,REP,Robert Bone,76,1,24,51
-Goliad,Precinct 42                   P,County Commissioner Pct 4,,REP,Robert Bone,91,1,15,75
-Goliad,Precinct 43                   P,County Commissioner Pct 4,,REP,Robert Bone,45,0,32,13
-Goliad,Precinct 41                   P,County Commissioner Pct 4,,REP,OVER VOTES,0,0,0,0
-Goliad,Precinct 42                   P,County Commissioner Pct 4,,REP,OVER VOTES,0,0,0,0
-Goliad,Precinct 43                   P,County Commissioner Pct 4,,REP,OVER VOTES,0,0,0,0
-Goliad,Precinct 41                   P,County Commissioner Pct 4,,REP,UNDER VOTES,4,0,1,3
-Goliad,Precinct 42                   P,County Commissioner Pct 4,,REP,UNDER VOTES,4,0,1,3
-Goliad,Precinct 43                   P,County Commissioner Pct 4,,REP,UNDER VOTES,7,1,1,5
-Goliad,Precinct 11                   P,JOP Pct 1,,REP,Malinda Garcia Rodriguez,37,1,17,19
-Goliad,Precinct 12                   P,JOP Pct 1,,REP,Malinda Garcia Rodriguez,14,0,8,6
-Goliad,Precinct 21                   P,JOP Pct 1,,REP,Malinda Garcia Rodriguez,84,3,39,42
-Goliad,Precinct 22                   P,JOP Pct 1,,REP,Malinda Garcia Rodriguez,32,0,9,23
-Goliad,Precinct 11                   P,JOP Pct 1,,REP,P.T. (Pat) Calhoun,82,0,37,45
-Goliad,Precinct 12                   P,JOP Pct 1,,REP,P.T. (Pat) Calhoun,39,2,15,22
-Goliad,Precinct 21                   P,JOP Pct 1,,REP,P.T. (Pat) Calhoun,145,1,95,49
-Goliad,Precinct 22                   P,JOP Pct 1,,REP,P.T. (Pat) Calhoun,28,0,10,18
-Goliad,Precinct 11                   P,JOP Pct 1,,REP,Herman Roe II,68,3,44,21
-Goliad,Precinct 12                   P,JOP Pct 1,,REP,Herman Roe II,92,4,43,45
-Goliad,Precinct 21                   P,JOP Pct 1,,REP,Herman Roe II,104,3,64,37
-Goliad,Precinct 22                   P,JOP Pct 1,,REP,Herman Roe II,27,0,16,11
-Goliad,Precinct 11                   P,JOP Pct 1,,REP,OVER VOTES,0,0,0,0
-Goliad,Precinct 12                   P,JOP Pct 1,,REP,OVER VOTES,0,0,0,0
-Goliad,Precinct 21                   P,JOP Pct 1,,REP,OVER VOTES,0,0,0,0
-Goliad,Precinct 22                   P,JOP Pct 1,,REP,OVER VOTES,0,0,0,0
-Goliad,Precinct 11                   P,JOP Pct 1,,REP,UNDER VOTES,19,0,6,13
-Goliad,Precinct 12                   P,JOP Pct 1,,REP,UNDER VOTES,9,0,3,6
-Goliad,Precinct 21                   P,JOP Pct 1,,REP,UNDER VOTES,20,0,6,14
-Goliad,Precinct 22                   P,JOP Pct 1,,REP,UNDER VOTES,7,0,0,7
-Goliad,Precinct 31                   P,JOP Pct 2,,REP,Jimmy Schulze,105,1,60,44
-Goliad,Precinct 32                   P,JOP Pct 2,,REP,Jimmy Schulze,139,2,54,83
-Goliad,Precinct 41                   P,JOP Pct 2,,REP,Jimmy Schulze,112,1,29,82
-Goliad,Precinct 42                   P,JOP Pct 2,,REP,Jimmy Schulze,162,1,43,118
-Goliad,Precinct 43                   P,JOP Pct 2,,REP,Jimmy Schulze,113,1,66,46
-Goliad,Precinct 31                   P,JOP Pct 2,,REP,OVER VOTES,0,0,0,0
-Goliad,Precinct 32                   P,JOP Pct 2,,REP,OVER VOTES,0,0,0,0
-Goliad,Precinct 41                   P,JOP Pct 2,,REP,OVER VOTES,0,0,0,0
-Goliad,Precinct 42                   P,JOP Pct 2,,REP,OVER VOTES,0,0,0,0
-Goliad,Precinct 43                   P,JOP Pct 2,,REP,OVER VOTES,0,0,0,0
-Goliad,Precinct 31                   P,JOP Pct 2,,REP,UNDER VOTES,60,0,32,28
-Goliad,Precinct 32                   P,JOP Pct 2,,REP,UNDER VOTES,69,0,26,43
-Goliad,Precinct 41                   P,JOP Pct 2,,REP,UNDER VOTES,49,1,18,30
-Goliad,Precinct 42                   P,JOP Pct 2,,REP,UNDER VOTES,56,0,13,43
-Goliad,Precinct 43                   P,JOP Pct 2,,REP,UNDER VOTES,46,1,25,20
+Goliad,Precinct 21,County Commissioner Pct 2,,REP,David Young,164,6,101,57
+Goliad,Precinct 22,County Commissioner Pct 2,,REP,David Young,31,0,13,18
+Goliad,Precinct 21,County Commissioner Pct 2,,REP,Lionel Garcia,113,0,57,56
+Goliad,Precinct 22,County Commissioner Pct 2,,REP,Lionel Garcia,25,0,6,19
+Goliad,Precinct 21,County Commissioner Pct 2,,REP,Robert Zavesky,60,1,38,21
+Goliad,Precinct 22,County Commissioner Pct 2,,REP,Robert Zavesky,30,0,16,14
+Goliad,Precinct 21,County Commissioner Pct 2,,REP,OVER VOTES,0,0,0,0
+Goliad,Precinct 22,County Commissioner Pct 2,,REP,OVER VOTES,0,0,0,0
+Goliad,Precinct 21,County Commissioner Pct 2,,REP,UNDER VOTES,16,0,8,8
+Goliad,Precinct 22,County Commissioner Pct 2,,REP,UNDER VOTES,8,0,0,8
+Goliad,Precinct 41,County Commissioner Pct 4,,REP,Staci Holbert,6,0,3,3
+Goliad,Precinct 42,County Commissioner Pct 4,,REP,Staci Holbert,6,0,1,5
+Goliad,Precinct 43,County Commissioner Pct 4,,REP,Staci Holbert,15,1,9,5
+Goliad,Precinct 41,County Commissioner Pct 4,,REP,Matthew Farris,39,1,7,31
+Goliad,Precinct 42,County Commissioner Pct 4,,REP,Matthew Farris,57,0,23,34
+Goliad,Precinct 43,County Commissioner Pct 4,,REP,Matthew Farris,31,0,18,13
+Goliad,Precinct 41,County Commissioner Pct 4,,REP,Kevin Fagg,36,0,12,24
+Goliad,Precinct 42,County Commissioner Pct 4,,REP,Kevin Fagg,60,0,16,44
+Goliad,Precinct 43,County Commissioner Pct 4,,REP,Kevin Fagg,61,0,31,30
+Goliad,Precinct 41,County Commissioner Pct 4,,REP,Robert Bone,76,1,24,51
+Goliad,Precinct 42,County Commissioner Pct 4,,REP,Robert Bone,91,1,15,75
+Goliad,Precinct 43,County Commissioner Pct 4,,REP,Robert Bone,45,0,32,13
+Goliad,Precinct 41,County Commissioner Pct 4,,REP,OVER VOTES,0,0,0,0
+Goliad,Precinct 42,County Commissioner Pct 4,,REP,OVER VOTES,0,0,0,0
+Goliad,Precinct 43,County Commissioner Pct 4,,REP,OVER VOTES,0,0,0,0
+Goliad,Precinct 41,County Commissioner Pct 4,,REP,UNDER VOTES,4,0,1,3
+Goliad,Precinct 42,County Commissioner Pct 4,,REP,UNDER VOTES,4,0,1,3
+Goliad,Precinct 43,County Commissioner Pct 4,,REP,UNDER VOTES,7,1,1,5
+Goliad,Precinct 11,JOP Pct 1,,REP,Malinda Garcia Rodriguez,37,1,17,19
+Goliad,Precinct 12,JOP Pct 1,,REP,Malinda Garcia Rodriguez,14,0,8,6
+Goliad,Precinct 21,JOP Pct 1,,REP,Malinda Garcia Rodriguez,84,3,39,42
+Goliad,Precinct 22,JOP Pct 1,,REP,Malinda Garcia Rodriguez,32,0,9,23
+Goliad,Precinct 11,JOP Pct 1,,REP,P.T. (Pat) Calhoun,82,0,37,45
+Goliad,Precinct 12,JOP Pct 1,,REP,P.T. (Pat) Calhoun,39,2,15,22
+Goliad,Precinct 21,JOP Pct 1,,REP,P.T. (Pat) Calhoun,145,1,95,49
+Goliad,Precinct 22,JOP Pct 1,,REP,P.T. (Pat) Calhoun,28,0,10,18
+Goliad,Precinct 11,JOP Pct 1,,REP,Herman Roe II,68,3,44,21
+Goliad,Precinct 12,JOP Pct 1,,REP,Herman Roe II,92,4,43,45
+Goliad,Precinct 21,JOP Pct 1,,REP,Herman Roe II,104,3,64,37
+Goliad,Precinct 22,JOP Pct 1,,REP,Herman Roe II,27,0,16,11
+Goliad,Precinct 11,JOP Pct 1,,REP,OVER VOTES,0,0,0,0
+Goliad,Precinct 12,JOP Pct 1,,REP,OVER VOTES,0,0,0,0
+Goliad,Precinct 21,JOP Pct 1,,REP,OVER VOTES,0,0,0,0
+Goliad,Precinct 22,JOP Pct 1,,REP,OVER VOTES,0,0,0,0
+Goliad,Precinct 11,JOP Pct 1,,REP,UNDER VOTES,19,0,6,13
+Goliad,Precinct 12,JOP Pct 1,,REP,UNDER VOTES,9,0,3,6
+Goliad,Precinct 21,JOP Pct 1,,REP,UNDER VOTES,20,0,6,14
+Goliad,Precinct 22,JOP Pct 1,,REP,UNDER VOTES,7,0,0,7
+Goliad,Precinct 31,JOP Pct 2,,REP,Jimmy Schulze,105,1,60,44
+Goliad,Precinct 32,JOP Pct 2,,REP,Jimmy Schulze,139,2,54,83
+Goliad,Precinct 41,JOP Pct 2,,REP,Jimmy Schulze,112,1,29,82
+Goliad,Precinct 42,JOP Pct 2,,REP,Jimmy Schulze,162,1,43,118
+Goliad,Precinct 43,JOP Pct 2,,REP,Jimmy Schulze,113,1,66,46
+Goliad,Precinct 31,JOP Pct 2,,REP,OVER VOTES,0,0,0,0
+Goliad,Precinct 32,JOP Pct 2,,REP,OVER VOTES,0,0,0,0
+Goliad,Precinct 41,JOP Pct 2,,REP,OVER VOTES,0,0,0,0
+Goliad,Precinct 42,JOP Pct 2,,REP,OVER VOTES,0,0,0,0
+Goliad,Precinct 43,JOP Pct 2,,REP,OVER VOTES,0,0,0,0
+Goliad,Precinct 31,JOP Pct 2,,REP,UNDER VOTES,60,0,32,28
+Goliad,Precinct 32,JOP Pct 2,,REP,UNDER VOTES,69,0,26,43
+Goliad,Precinct 41,JOP Pct 2,,REP,UNDER VOTES,49,1,18,30
+Goliad,Precinct 42,JOP Pct 2,,REP,UNDER VOTES,56,0,13,43
+Goliad,Precinct 43,JOP Pct 2,,REP,UNDER VOTES,46,1,25,20
 Goliad,Precinct 11,County Chair,,REP,Myra Sue Schulze,115,2,55,58
 Goliad,Precinct 12,County Chair,,REP,Myra Sue Schulze,116,6,54,56
 Goliad,Precinct 21,County Chair,,REP,Myra Sue Schulze,205,3,117,85
@@ -2069,24 +2078,24 @@ Goliad,Precinct 32,County Judge,,DEM,UNDER VOTES,1,0,0,1
 Goliad,Precinct 41,County Judge,,DEM,UNDER VOTES,0,0,0,0
 Goliad,Precinct 42,County Judge,,DEM,UNDER VOTES,2,0,1,1
 Goliad,Precinct 43,County Judge,,DEM,UNDER VOTES,1,0,1,0
-Goliad,Precinct 21                   P,County Commissioner Pct 2,,DEM,Alonzo Morales Jr,47,8,14,25
-Goliad,Precinct 22                   P,County Commissioner Pct 2,,DEM,Alonzo Morales Jr,5,0,1,4
-Goliad,Precinct 21                   P,County Commissioner Pct 2,,DEM,OVER VOTES,0,0,0,0
-Goliad,Precinct 22                   P,County Commissioner Pct 2,,DEM,OVER VOTES,0,0,0,0
-Goliad,Precinct 21                   P,County Commissioner Pct 2,,DEM,UNDER VOTES,8,0,3,5
-Goliad,Precinct 22                   P,County Commissioner Pct 2,,DEM,UNDER VOTES,0,0,0,0
-Goliad,Precinct 11                   P,JOP Pct 1,,DEM,Sylvia Valdez,52,10,17,25
-Goliad,Precinct 12                   P,JOP Pct 1,,DEM,Sylvia Valdez,3,1,0,2
-Goliad,Precinct 21                   P,JOP Pct 1,,DEM,Sylvia Valdez,42,6,13,23
-Goliad,Precinct 22                   P,JOP Pct 1,,DEM,Sylvia Valdez,2,0,1,1
-Goliad,Precinct 11                   P,JOP Pct 1,,DEM,OVER VOTES,0,0,0,0
-Goliad,Precinct 12                   P,JOP Pct 1,,DEM,OVER VOTES,0,0,0,0
-Goliad,Precinct 21                   P,JOP Pct 1,,DEM,OVER VOTES,0,0,0,0
-Goliad,Precinct 22                   P,JOP Pct 1,,DEM,OVER VOTES,0,0,0,0
-Goliad,Precinct 11                   P,JOP Pct 1,,DEM,UNDER VOTES,9,0,5,4
-Goliad,Precinct 12                   P,JOP Pct 1,,DEM,UNDER VOTES,1,0,0,1
-Goliad,Precinct 21                   P,JOP Pct 1,,DEM,UNDER VOTES,13,2,4,7
-Goliad,Precinct 22                   P,JOP Pct 1,,DEM,UNDER VOTES,3,0,0,3
+Goliad,Precinct 21,County Commissioner Pct 2,,DEM,Alonzo Morales Jr,47,8,14,25
+Goliad,Precinct 22,County Commissioner Pct 2,,DEM,Alonzo Morales Jr,5,0,1,4
+Goliad,Precinct 21,County Commissioner Pct 2,,DEM,OVER VOTES,0,0,0,0
+Goliad,Precinct 22,County Commissioner Pct 2,,DEM,OVER VOTES,0,0,0,0
+Goliad,Precinct 21,County Commissioner Pct 2,,DEM,UNDER VOTES,8,0,3,5
+Goliad,Precinct 22,County Commissioner Pct 2,,DEM,UNDER VOTES,0,0,0,0
+Goliad,Precinct 11,JOP Pct 1,,DEM,Sylvia Valdez,52,10,17,25
+Goliad,Precinct 12,JOP Pct 1,,DEM,Sylvia Valdez,3,1,0,2
+Goliad,Precinct 21,JOP Pct 1,,DEM,Sylvia Valdez,42,6,13,23
+Goliad,Precinct 22,JOP Pct 1,,DEM,Sylvia Valdez,2,0,1,1
+Goliad,Precinct 11,JOP Pct 1,,DEM,OVER VOTES,0,0,0,0
+Goliad,Precinct 12,JOP Pct 1,,DEM,OVER VOTES,0,0,0,0
+Goliad,Precinct 21,JOP Pct 1,,DEM,OVER VOTES,0,0,0,0
+Goliad,Precinct 22,JOP Pct 1,,DEM,OVER VOTES,0,0,0,0
+Goliad,Precinct 11,JOP Pct 1,,DEM,UNDER VOTES,9,0,5,4
+Goliad,Precinct 12,JOP Pct 1,,DEM,UNDER VOTES,1,0,0,1
+Goliad,Precinct 21,JOP Pct 1,,DEM,UNDER VOTES,13,2,4,7
+Goliad,Precinct 22,JOP Pct 1,,DEM,UNDER VOTES,3,0,0,3
 Goliad,Precinct 11,County Chair,,DEM,Charles Clapsaddle,50,10,16,24
 Goliad,Precinct 12,County Chair,,DEM,Charles Clapsaddle,3,1,0,2
 Goliad,Precinct 21,County Chair,,DEM,Charles Clapsaddle,43,7,12,24
