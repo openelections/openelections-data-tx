@@ -1,0 +1,811 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Hall,101,Registered Voters,,,,394,0,0,0
+Hall,201,Registered Voters,,,,95,0,0,0
+Hall,202,Registered Voters,,,,402,0,0,0
+Hall,301,Registered Voters,,,,112,0,0,0
+Hall,302,Registered Voters,,,,333,0,0,0
+Hall,401,Registered Voters,,,,297,0,0,0
+Hall,402,Registered Voters,,,,184,0,0,0
+Hall,101,Registered Voters - Nonpartisan,,NON,,394,0,0,0
+Hall,201,Registered Voters - Nonpartisan,,NON,,95,0,0,0
+Hall,202,Registered Voters - Nonpartisan,,NON,,402,0,0,0
+Hall,301,Registered Voters - Nonpartisan,,NON,,112,0,0,0
+Hall,302,Registered Voters - Nonpartisan,,NON,,333,0,0,0
+Hall,401,Registered Voters - Nonpartisan,,NON,,297,0,0,0
+Hall,402,Registered Voters - Nonpartisan,,NON,,184,0,0,0
+Hall,101,Ballots Cast,,,,42,11,7,24
+Hall,201,Ballots Cast,,,,46,0,22,24
+Hall,202,Ballots Cast,,,,83,7,26,50
+Hall,301,Ballots Cast,,,,24,0,1,23
+Hall,302,Ballots Cast,,,,61,10,20,31
+Hall,401,Ballots Cast,,,,79,1,3,75
+Hall,402,Ballots Cast,,,,32,3,19,10
+Hall,101,Ballots Cast,,REP,,34,4,7,23
+Hall,201,Ballots Cast,,REP,,42,0,22,20
+Hall,202,Ballots Cast,,REP,,80,7,24,49
+Hall,301,Ballots Cast,,REP,,20,0,0,20
+Hall,302,Ballots Cast,,REP,,55,6,20,29
+Hall,401,Ballots Cast,,REP,,72,0,3,69
+Hall,402,Ballots Cast,,REP,,29,2,17,10
+Hall,101,Ballots Cast,,NON,,0,0,0,0
+Hall,201,Ballots Cast,,NON,,0,0,0,0
+Hall,202,Ballots Cast,,NON,,0,0,0,0
+Hall,301,Ballots Cast,,NON,,0,0,0,0
+Hall,302,Ballots Cast,,NON,,0,0,0,0
+Hall,401,Ballots Cast,,NON,,0,0,0,0
+Hall,402,Ballots Cast,,NON,,0,0,0,0
+Hall,101,Ballots Cast - Blank,,,,0,0,0,0
+Hall,201,Ballots Cast - Blank,,,,0,0,0,0
+Hall,202,Ballots Cast - Blank,,,,0,0,0,0
+Hall,301,Ballots Cast - Blank,,,,0,0,0,0
+Hall,302,Ballots Cast - Blank,,,,0,0,0,0
+Hall,401,Ballots Cast - Blank,,,,0,0,0,0
+Hall,402,Ballots Cast - Blank,,,,0,0,0,0
+Hall,101,U.S. House,13,REP,Ronny Jackson,26,2,7,17
+Hall,201,U.S. House,13,REP,Ronny Jackson,40,0,22,18
+Hall,202,U.S. House,13,REP,Ronny Jackson,72,6,23,43
+Hall,301,U.S. House,13,REP,Ronny Jackson,19,0,0,19
+Hall,302,U.S. House,13,REP,Ronny Jackson,49,4,19,26
+Hall,401,U.S. House,13,REP,Ronny Jackson,66,0,3,63
+Hall,402,U.S. House,13,REP,Ronny Jackson,27,2,15,10
+Hall,101,Governor,,REP,Greg Abbott,28,3,6,19
+Hall,201,Governor,,REP,Greg Abbott,33,0,18,15
+Hall,202,Governor,,REP,Greg Abbott,60,6,20,34
+Hall,301,Governor,,REP,Greg Abbott,13,0,0,13
+Hall,302,Governor,,REP,Greg Abbott,47,6,17,24
+Hall,401,Governor,,REP,Greg Abbott,50,0,3,47
+Hall,402,Governor,,REP,Greg Abbott,24,2,15,7
+Hall,101,Governor,,REP,Danny Harrison,0,0,0,0
+Hall,201,Governor,,REP,Danny Harrison,0,0,0,0
+Hall,202,Governor,,REP,Danny Harrison,0,0,0,0
+Hall,301,Governor,,REP,Danny Harrison,0,0,0,0
+Hall,302,Governor,,REP,Danny Harrison,0,0,0,0
+Hall,401,Governor,,REP,Danny Harrison,0,0,0,0
+Hall,402,Governor,,REP,Danny Harrison,0,0,0,0
+Hall,101,Governor,,REP,Allen B. West,5,1,1,3
+Hall,201,Governor,,REP,Allen B. West,2,0,2,0
+Hall,202,Governor,,REP,Allen B. West,1,0,0,1
+Hall,301,Governor,,REP,Allen B. West,3,0,0,3
+Hall,302,Governor,,REP,Allen B. West,3,0,3,0
+Hall,401,Governor,,REP,Allen B. West,6,0,0,6
+Hall,402,Governor,,REP,Allen B. West,3,0,2,1
+Hall,101,Governor,,REP,Rick Perry,0,0,0,0
+Hall,201,Governor,,REP,Rick Perry,0,0,0,0
+Hall,202,Governor,,REP,Rick Perry,2,1,0,1
+Hall,301,Governor,,REP,Rick Perry,0,0,0,0
+Hall,302,Governor,,REP,Rick Perry,1,0,0,1
+Hall,401,Governor,,REP,Rick Perry,3,0,0,3
+Hall,402,Governor,,REP,Rick Perry,0,0,0,0
+Hall,101,Governor,,REP,Kandy Kaye Horn,0,0,0,0
+Hall,201,Governor,,REP,Kandy Kaye Horn,0,0,0,0
+Hall,202,Governor,,REP,Kandy Kaye Horn,1,0,0,1
+Hall,301,Governor,,REP,Kandy Kaye Horn,0,0,0,0
+Hall,302,Governor,,REP,Kandy Kaye Horn,0,0,0,0
+Hall,401,Governor,,REP,Kandy Kaye Horn,0,0,0,0
+Hall,402,Governor,,REP,Kandy Kaye Horn,0,0,0,0
+Hall,101,Governor,,REP,Chad Prather,0,0,0,0
+Hall,201,Governor,,REP,Chad Prather,5,0,1,4
+Hall,202,Governor,,REP,Chad Prather,11,0,3,8
+Hall,301,Governor,,REP,Chad Prather,2,0,0,2
+Hall,302,Governor,,REP,Chad Prather,2,0,0,2
+Hall,401,Governor,,REP,Chad Prather,6,0,0,6
+Hall,402,Governor,,REP,Chad Prather,1,0,0,1
+Hall,101,Governor,,REP,Paul Belew,0,0,0,0
+Hall,201,Governor,,REP,Paul Belew,0,0,0,0
+Hall,202,Governor,,REP,Paul Belew,0,0,0,0
+Hall,301,Governor,,REP,Paul Belew,0,0,0,0
+Hall,302,Governor,,REP,Paul Belew,0,0,0,0
+Hall,401,Governor,,REP,Paul Belew,0,0,0,0
+Hall,402,Governor,,REP,Paul Belew,0,0,0,0
+Hall,101,Governor,,REP,Don Huffines,1,0,0,1
+Hall,201,Governor,,REP,Don Huffines,2,0,1,1
+Hall,202,Governor,,REP,Don Huffines,5,0,1,4
+Hall,301,Governor,,REP,Don Huffines,2,0,0,2
+Hall,302,Governor,,REP,Don Huffines,2,0,0,2
+Hall,401,Governor,,REP,Don Huffines,7,0,0,7
+Hall,402,Governor,,REP,Don Huffines,1,0,0,1
+Hall,101,Lieutenant Governor,,REP,Dan Patrick,27,3,6,18
+Hall,201,Lieutenant Governor,,REP,Dan Patrick,34,0,18,16
+Hall,202,Lieutenant Governor,,REP,Dan Patrick,56,5,20,31
+Hall,301,Lieutenant Governor,,REP,Dan Patrick,13,0,0,13
+Hall,302,Lieutenant Governor,,REP,Dan Patrick,44,4,15,25
+Hall,401,Lieutenant Governor,,REP,Dan Patrick,51,0,3,48
+Hall,402,Lieutenant Governor,,REP,Dan Patrick,25,2,15,8
+Hall,101,Lieutenant Governor,,REP,Zach Vance,0,0,0,0
+Hall,201,Lieutenant Governor,,REP,Zach Vance,0,0,0,0
+Hall,202,Lieutenant Governor,,REP,Zach Vance,3,0,0,3
+Hall,301,Lieutenant Governor,,REP,Zach Vance,1,0,0,1
+Hall,302,Lieutenant Governor,,REP,Zach Vance,1,0,0,1
+Hall,401,Lieutenant Governor,,REP,Zach Vance,3,0,0,3
+Hall,402,Lieutenant Governor,,REP,Zach Vance,0,0,0,0
+Hall,101,Lieutenant Governor,,REP,Trayce Bradford,0,0,0,0
+Hall,201,Lieutenant Governor,,REP,Trayce Bradford,0,0,0,0
+Hall,202,Lieutenant Governor,,REP,Trayce Bradford,5,1,0,4
+Hall,301,Lieutenant Governor,,REP,Trayce Bradford,0,0,0,0
+Hall,302,Lieutenant Governor,,REP,Trayce Bradford,5,0,4,1
+Hall,401,Lieutenant Governor,,REP,Trayce Bradford,7,0,0,7
+Hall,402,Lieutenant Governor,,REP,Trayce Bradford,0,0,0,0
+Hall,101,Lieutenant Governor,,REP,Todd M. Bullis,1,0,1,0
+Hall,201,Lieutenant Governor,,REP,Todd M. Bullis,0,0,0,0
+Hall,202,Lieutenant Governor,,REP,Todd M. Bullis,0,0,0,0
+Hall,301,Lieutenant Governor,,REP,Todd M. Bullis,1,0,0,1
+Hall,302,Lieutenant Governor,,REP,Todd M. Bullis,0,0,0,0
+Hall,401,Lieutenant Governor,,REP,Todd M. Bullis,2,0,0,2
+Hall,402,Lieutenant Governor,,REP,Todd M. Bullis,0,0,0,0
+Hall,101,Lieutenant Governor,,REP,Aaron Sorrells,1,1,0,0
+Hall,201,Lieutenant Governor,,REP,Aaron Sorrells,0,0,0,0
+Hall,202,Lieutenant Governor,,REP,Aaron Sorrells,1,0,0,1
+Hall,301,Lieutenant Governor,,REP,Aaron Sorrells,0,0,0,0
+Hall,302,Lieutenant Governor,,REP,Aaron Sorrells,1,0,1,0
+Hall,401,Lieutenant Governor,,REP,Aaron Sorrells,4,0,0,4
+Hall,402,Lieutenant Governor,,REP,Aaron Sorrells,0,0,0,0
+Hall,101,Lieutenant Governor,,REP,Daniel Miller,1,0,0,1
+Hall,201,Lieutenant Governor,,REP,Daniel Miller,2,0,2,0
+Hall,202,Lieutenant Governor,,REP,Daniel Miller,3,0,0,3
+Hall,301,Lieutenant Governor,,REP,Daniel Miller,1,0,0,1
+Hall,302,Lieutenant Governor,,REP,Daniel Miller,1,1,0,0
+Hall,401,Lieutenant Governor,,REP,Daniel Miller,1,0,0,1
+Hall,402,Lieutenant Governor,,REP,Daniel Miller,0,0,0,0
+Hall,101,Attorney General,,REP,Eva Guzman,6,0,3,3
+Hall,201,Attorney General,,REP,Eva Guzman,6,0,3,3
+Hall,202,Attorney General,,REP,Eva Guzman,20,1,5,14
+Hall,301,Attorney General,,REP,Eva Guzman,4,0,0,4
+Hall,302,Attorney General,,REP,Eva Guzman,12,1,5,6
+Hall,401,Attorney General,,REP,Eva Guzman,16,0,0,16
+Hall,402,Attorney General,,REP,Eva Guzman,7,0,5,2
+Hall,101,Attorney General,,REP,Ken Paxton,19,1,4,14
+Hall,201,Attorney General,,REP,Ken Paxton,27,0,16,11
+Hall,202,Attorney General,,REP,Ken Paxton,43,4,17,22
+Hall,301,Attorney General,,REP,Ken Paxton,10,0,0,10
+Hall,302,Attorney General,,REP,Ken Paxton,29,3,11,15
+Hall,401,Attorney General,,REP,Ken Paxton,40,0,2,38
+Hall,402,Attorney General,,REP,Ken Paxton,11,2,4,5
+Hall,101,Attorney General,,REP,Louie Gohmert,5,3,0,2
+Hall,201,Attorney General,,REP,Louie Gohmert,2,0,1,1
+Hall,202,Attorney General,,REP,Louie Gohmert,7,0,1,6
+Hall,301,Attorney General,,REP,Louie Gohmert,2,0,0,2
+Hall,302,Attorney General,,REP,Louie Gohmert,2,0,1,1
+Hall,401,Attorney General,,REP,Louie Gohmert,8,0,1,7
+Hall,402,Attorney General,,REP,Louie Gohmert,3,0,3,0
+Hall,101,Attorney General,,REP,George P. Bush,2,0,0,2
+Hall,201,Attorney General,,REP,George P. Bush,2,0,2,0
+Hall,202,Attorney General,,REP,George P. Bush,8,2,0,6
+Hall,301,Attorney General,,REP,George P. Bush,3,0,0,3
+Hall,302,Attorney General,,REP,George P. Bush,10,2,3,5
+Hall,401,Attorney General,,REP,George P. Bush,7,0,0,7
+Hall,402,Attorney General,,REP,George P. Bush,5,0,4,1
+Hall,101,Comptroller of Public Accounts,,REP,Glenn Hegar,19,3,6,10
+Hall,201,Comptroller of Public Accounts,,REP,Glenn Hegar,30,0,18,12
+Hall,202,Comptroller of Public Accounts,,REP,Glenn Hegar,51,5,16,30
+Hall,301,Comptroller of Public Accounts,,REP,Glenn Hegar,12,0,0,12
+Hall,302,Comptroller of Public Accounts,,REP,Glenn Hegar,33,3,16,14
+Hall,401,Comptroller of Public Accounts,,REP,Glenn Hegar,47,0,2,45
+Hall,402,Comptroller of Public Accounts,,REP,Glenn Hegar,19,0,13,6
+Hall,101,Comptroller of Public Accounts,,REP,Mark V. Goloby,3,1,0,2
+Hall,201,Comptroller of Public Accounts,,REP,Mark V. Goloby,1,0,1,0
+Hall,202,Comptroller of Public Accounts,,REP,Mark V. Goloby,8,1,3,4
+Hall,301,Comptroller of Public Accounts,,REP,Mark V. Goloby,0,0,0,0
+Hall,302,Comptroller of Public Accounts,,REP,Mark V. Goloby,2,0,1,1
+Hall,401,Comptroller of Public Accounts,,REP,Mark V. Goloby,7,0,0,7
+Hall,402,Comptroller of Public Accounts,,REP,Mark V. Goloby,3,2,0,1
+Hall,101,Comm General Land Office,,REP,Weston Martinez,5,0,2,3
+Hall,201,Comm General Land Office,,REP,Weston Martinez,3,0,1,2
+Hall,202,Comm General Land Office,,REP,Weston Martinez,9,0,1,8
+Hall,301,Comm General Land Office,,REP,Weston Martinez,0,0,0,0
+Hall,302,Comm General Land Office,,REP,Weston Martinez,4,0,3,1
+Hall,401,Comm General Land Office,,REP,Weston Martinez,6,0,0,6
+Hall,402,Comm General Land Office,,REP,Weston Martinez,2,0,2,0
+Hall,101,Comm General Land Office,,REP,Victor Avila,4,0,0,4
+Hall,201,Comm General Land Office,,REP,Victor Avila,1,0,0,1
+Hall,202,Comm General Land Office,,REP,Victor Avila,6,0,2,4
+Hall,301,Comm General Land Office,,REP,Victor Avila,1,0,0,1
+Hall,302,Comm General Land Office,,REP,Victor Avila,1,0,0,1
+Hall,401,Comm General Land Office,,REP,Victor Avila,2,0,0,2
+Hall,402,Comm General Land Office,,REP,Victor Avila,3,0,2,1
+Hall,101,Comm General Land Office,,REP,Tim Westley,6,1,1,4
+Hall,201,Comm General Land Office,,REP,Tim Westley,2,0,2,0
+Hall,202,Comm General Land Office,,REP,Tim Westley,10,0,6,4
+Hall,301,Comm General Land Office,,REP,Tim Westley,5,0,0,5
+Hall,302,Comm General Land Office,,REP,Tim Westley,7,0,2,5
+Hall,401,Comm General Land Office,,REP,Tim Westley,16,0,1,15
+Hall,402,Comm General Land Office,,REP,Tim Westley,4,0,3,1
+Hall,101,Comm General Land Office,,REP,Dawn Buckingham,8,2,1,5
+Hall,201,Comm General Land Office,,REP,Dawn Buckingham,15,0,7,8
+Hall,202,Comm General Land Office,,REP,Dawn Buckingham,20,4,6,10
+Hall,301,Comm General Land Office,,REP,Dawn Buckingham,1,0,0,1
+Hall,302,Comm General Land Office,,REP,Dawn Buckingham,17,0,9,8
+Hall,401,Comm General Land Office,,REP,Dawn Buckingham,17,0,0,17
+Hall,402,Comm General Land Office,,REP,Dawn Buckingham,10,2,7,1
+Hall,101,Comm General Land Office,,REP,Ben Armenta,0,0,0,0
+Hall,201,Comm General Land Office,,REP,Ben Armenta,1,0,1,0
+Hall,202,Comm General Land Office,,REP,Ben Armenta,2,0,1,1
+Hall,301,Comm General Land Office,,REP,Ben Armenta,0,0,0,0
+Hall,302,Comm General Land Office,,REP,Ben Armenta,1,0,1,0
+Hall,401,Comm General Land Office,,REP,Ben Armenta,1,0,0,1
+Hall,402,Comm General Land Office,,REP,Ben Armenta,0,0,0,0
+Hall,101,Comm General Land Office,,REP,Jon Spiers,0,0,0,0
+Hall,201,Comm General Land Office,,REP,Jon Spiers,6,0,5,1
+Hall,202,Comm General Land Office,,REP,Jon Spiers,4,0,2,2
+Hall,301,Comm General Land Office,,REP,Jon Spiers,0,0,0,0
+Hall,302,Comm General Land Office,,REP,Jon Spiers,5,3,0,2
+Hall,401,Comm General Land Office,,REP,Jon Spiers,10,0,1,9
+Hall,402,Comm General Land Office,,REP,Jon Spiers,1,0,1,0
+Hall,101,Comm General Land Office,,REP,Don W. Minton,4,0,3,1
+Hall,201,Comm General Land Office,,REP,Don W. Minton,1,0,1,0
+Hall,202,Comm General Land Office,,REP,Don W. Minton,2,2,0,0
+Hall,301,Comm General Land Office,,REP,Don W. Minton,2,0,0,2
+Hall,302,Comm General Land Office,,REP,Don W. Minton,1,0,1,0
+Hall,401,Comm General Land Office,,REP,Don W. Minton,1,0,0,1
+Hall,402,Comm General Land Office,,REP,Don W. Minton,1,0,0,1
+Hall,101,Comm General Land Office,,REP,Rufus Lopez,0,0,0,0
+Hall,201,Comm General Land Office,,REP,Rufus Lopez,0,0,0,0
+Hall,202,Comm General Land Office,,REP,Rufus Lopez,3,0,0,3
+Hall,301,Comm General Land Office,,REP,Rufus Lopez,1,0,0,1
+Hall,302,Comm General Land Office,,REP,Rufus Lopez,1,0,0,1
+Hall,401,Comm General Land Office,,REP,Rufus Lopez,0,0,0,0
+Hall,402,Comm General Land Office,,REP,Rufus Lopez,0,0,0,0
+Hall,101,Commissioner of Agriculture,,REP,Sid Miller,22,2,7,13
+Hall,201,Commissioner of Agriculture,,REP,Sid Miller,31,0,15,16
+Hall,202,Commissioner of Agriculture,,REP,Sid Miller,50,4,16,30
+Hall,301,Commissioner of Agriculture,,REP,Sid Miller,12,0,0,12
+Hall,302,Commissioner of Agriculture,,REP,Sid Miller,43,4,18,21
+Hall,401,Commissioner of Agriculture,,REP,Sid Miller,48,0,1,47
+Hall,402,Commissioner of Agriculture,,REP,Sid Miller,17,0,12,5
+Hall,101,Commissioner of Agriculture,,REP,Carey A. Counsil,4,1,0,3
+Hall,201,Commissioner of Agriculture,,REP,Carey A. Counsil,0,0,0,0
+Hall,202,Commissioner of Agriculture,,REP,Carey A. Counsil,2,0,1,1
+Hall,301,Commissioner of Agriculture,,REP,Carey A. Counsil,1,0,0,1
+Hall,302,Commissioner of Agriculture,,REP,Carey A. Counsil,1,0,0,1
+Hall,401,Commissioner of Agriculture,,REP,Carey A. Counsil,4,0,0,4
+Hall,402,Commissioner of Agriculture,,REP,Carey A. Counsil,0,0,0,0
+Hall,101,Commissioner of Agriculture,,REP,James White,4,1,0,3
+Hall,201,Commissioner of Agriculture,,REP,James White,5,0,5,0
+Hall,202,Commissioner of Agriculture,,REP,James White,16,3,4,9
+Hall,301,Commissioner of Agriculture,,REP,James White,0,0,0,0
+Hall,302,Commissioner of Agriculture,,REP,James White,3,0,0,3
+Hall,401,Commissioner of Agriculture,,REP,James White,14,0,1,13
+Hall,402,Commissioner of Agriculture,,REP,James White,6,2,3,1
+Hall,101,Railroad Commissioner,,REP,Tom Slocum Jr,8,0,3,5
+Hall,201,Railroad Commissioner,,REP,Tom Slocum Jr,9,0,4,5
+Hall,202,Railroad Commissioner,,REP,Tom Slocum Jr,14,0,5,9
+Hall,301,Railroad Commissioner,,REP,Tom Slocum Jr,4,0,0,4
+Hall,302,Railroad Commissioner,,REP,Tom Slocum Jr,14,2,5,7
+Hall,401,Railroad Commissioner,,REP,Tom Slocum Jr,14,0,0,14
+Hall,402,Railroad Commissioner,,REP,Tom Slocum Jr,5,0,3,2
+Hall,101,Railroad Commissioner,,REP,Dawayne Tipton,3,0,1,2
+Hall,201,Railroad Commissioner,,REP,Dawayne Tipton,3,0,3,0
+Hall,202,Railroad Commissioner,,REP,Dawayne Tipton,9,0,0,9
+Hall,301,Railroad Commissioner,,REP,Dawayne Tipton,1,0,0,1
+Hall,302,Railroad Commissioner,,REP,Dawayne Tipton,2,0,1,1
+Hall,401,Railroad Commissioner,,REP,Dawayne Tipton,10,0,0,10
+Hall,402,Railroad Commissioner,,REP,Dawayne Tipton,3,2,0,1
+Hall,101,Railroad Commissioner,,REP,"Marvin ""Sarge"" Summers",2,1,1,0
+Hall,201,Railroad Commissioner,,REP,"Marvin ""Sarge"" Summers",4,0,4,0
+Hall,202,Railroad Commissioner,,REP,"Marvin ""Sarge"" Summers",3,0,2,1
+Hall,301,Railroad Commissioner,,REP,"Marvin ""Sarge"" Summers",2,0,0,2
+Hall,302,Railroad Commissioner,,REP,"Marvin ""Sarge"" Summers",2,0,1,1
+Hall,401,Railroad Commissioner,,REP,"Marvin ""Sarge"" Summers",3,0,0,3
+Hall,402,Railroad Commissioner,,REP,"Marvin ""Sarge"" Summers",4,0,3,1
+Hall,101,Railroad Commissioner,,REP,Sarah Stogner,1,1,0,0
+Hall,201,Railroad Commissioner,,REP,Sarah Stogner,3,0,2,1
+Hall,202,Railroad Commissioner,,REP,Sarah Stogner,8,2,1,5
+Hall,301,Railroad Commissioner,,REP,Sarah Stogner,3,0,0,3
+Hall,302,Railroad Commissioner,,REP,Sarah Stogner,4,0,0,4
+Hall,401,Railroad Commissioner,,REP,Sarah Stogner,6,0,0,6
+Hall,402,Railroad Commissioner,,REP,Sarah Stogner,3,0,2,1
+Hall,101,Railroad Commissioner,,REP,Wayne Christian,12,1,2,9
+Hall,201,Railroad Commissioner,,REP,Wayne Christian,13,0,5,8
+Hall,202,Railroad Commissioner,,REP,Wayne Christian,30,5,10,15
+Hall,301,Railroad Commissioner,,REP,Wayne Christian,2,0,0,2
+Hall,302,Railroad Commissioner,,REP,Wayne Christian,18,2,8,8
+Hall,401,Railroad Commissioner,,REP,Wayne Christian,24,0,2,22
+Hall,402,Railroad Commissioner,,REP,Wayne Christian,7,0,5,2
+Hall,101,"Justice, Supreme Court, Pl 3",,REP,Debra Lehrmann,23,2,7,14
+Hall,201,"Justice, Supreme Court, Pl 3",,REP,Debra Lehrmann,29,0,17,12
+Hall,202,"Justice, Supreme Court, Pl 3",,REP,Debra Lehrmann,46,2,14,30
+Hall,301,"Justice, Supreme Court, Pl 3",,REP,Debra Lehrmann,10,0,0,10
+Hall,302,"Justice, Supreme Court, Pl 3",,REP,Debra Lehrmann,39,5,16,18
+Hall,401,"Justice, Supreme Court, Pl 3",,REP,Debra Lehrmann,53,0,2,51
+Hall,402,"Justice, Supreme Court, Pl 3",,REP,Debra Lehrmann,19,0,13,6
+Hall,101,"Justice, Supreme Court, Pl 5",,REP,Rebeca Huddle,24,2,7,15
+Hall,201,"Justice, Supreme Court, Pl 5",,REP,Rebeca Huddle,28,0,16,12
+Hall,202,"Justice, Supreme Court, Pl 5",,REP,Rebeca Huddle,44,2,14,28
+Hall,301,"Justice, Supreme Court, Pl 5",,REP,Rebeca Huddle,9,0,0,9
+Hall,302,"Justice, Supreme Court, Pl 5",,REP,Rebeca Huddle,39,5,16,18
+Hall,401,"Justice, Supreme Court, Pl 5",,REP,Rebeca Huddle,53,0,2,51
+Hall,402,"Justice, Supreme Court, Pl 5",,REP,Rebeca Huddle,18,0,12,6
+Hall,101,"Justice, Supreme Court, Pl 9",,REP,David J. Schenck,17,2,3,12
+Hall,201,"Justice, Supreme Court, Pl 9",,REP,David J. Schenck,14,0,9,5
+Hall,202,"Justice, Supreme Court, Pl 9",,REP,David J. Schenck,28,1,10,17
+Hall,301,"Justice, Supreme Court, Pl 9",,REP,David J. Schenck,4,0,0,4
+Hall,302,"Justice, Supreme Court, Pl 9",,REP,David J. Schenck,23,1,8,14
+Hall,401,"Justice, Supreme Court, Pl 9",,REP,David J. Schenck,37,0,1,36
+Hall,402,"Justice, Supreme Court, Pl 9",,REP,David J. Schenck,13,0,7,6
+Hall,101,"Justice, Supreme Court, Pl 9",,REP,Evan Young,9,1,4,4
+Hall,201,"Justice, Supreme Court, Pl 9",,REP,Evan Young,13,0,7,6
+Hall,202,"Justice, Supreme Court, Pl 9",,REP,Evan Young,24,4,7,13
+Hall,301,"Justice, Supreme Court, Pl 9",,REP,Evan Young,6,0,0,6
+Hall,302,"Justice, Supreme Court, Pl 9",,REP,Evan Young,15,3,8,4
+Hall,401,"Justice, Supreme Court, Pl 9",,REP,Evan Young,19,0,1,18
+Hall,402,"Justice, Supreme Court, Pl 9",,REP,Evan Young,8,2,5,1
+Hall,101,"Judge, Ct of Crim App, Pl 2",,REP,Mary Lou Keel,23,3,6,14
+Hall,201,"Judge, Ct of Crim App, Pl 2",,REP,Mary Lou Keel,25,0,16,9
+Hall,202,"Judge, Ct of Crim App, Pl 2",,REP,Mary Lou Keel,40,2,14,24
+Hall,301,"Judge, Ct of Crim App, Pl 2",,REP,Mary Lou Keel,9,0,0,9
+Hall,302,"Judge, Ct of Crim App, Pl 2",,REP,Mary Lou Keel,35,5,15,15
+Hall,401,"Judge, Ct of Crim App, Pl 2",,REP,Mary Lou Keel,50,0,2,48
+Hall,402,"Judge, Ct of Crim App, Pl 2",,REP,Mary Lou Keel,16,0,12,4
+Hall,101,"Judge, Ct of Crim App, Pl 5",,REP,Scott Walker,17,2,7,8
+Hall,201,"Judge, Ct of Crim App, Pl 5",,REP,Scott Walker,18,0,9,9
+Hall,202,"Judge, Ct of Crim App, Pl 5",,REP,Scott Walker,30,2,11,17
+Hall,301,"Judge, Ct of Crim App, Pl 5",,REP,Scott Walker,9,0,0,9
+Hall,302,"Judge, Ct of Crim App, Pl 5",,REP,Scott Walker,27,4,11,12
+Hall,401,"Judge, Ct of Crim App, Pl 5",,REP,Scott Walker,29,0,1,28
+Hall,402,"Judge, Ct of Crim App, Pl 5",,REP,Scott Walker,17,2,10,5
+Hall,101,"Judge, Ct of Crim App, Pl 5",,REP,Clint Morgan,7,0,0,7
+Hall,201,"Judge, Ct of Crim App, Pl 5",,REP,Clint Morgan,9,0,6,3
+Hall,202,"Judge, Ct of Crim App, Pl 5",,REP,Clint Morgan,16,2,5,9
+Hall,301,"Judge, Ct of Crim App, Pl 5",,REP,Clint Morgan,2,0,0,2
+Hall,302,"Judge, Ct of Crim App, Pl 5",,REP,Clint Morgan,13,0,5,8
+Hall,401,"Judge, Ct of Crim App, Pl 5",,REP,Clint Morgan,24,0,1,23
+Hall,402,"Judge, Ct of Crim App, Pl 5",,REP,Clint Morgan,6,0,4,2
+Hall,101,"Judge, Ct of Crim App, Pl 6",,REP,"Jesse F. McClure, III",21,2,7,12
+Hall,201,"Judge, Ct of Crim App, Pl 6",,REP,"Jesse F. McClure, III",27,0,15,12
+Hall,202,"Judge, Ct of Crim App, Pl 6",,REP,"Jesse F. McClure, III",42,2,14,26
+Hall,301,"Judge, Ct of Crim App, Pl 6",,REP,"Jesse F. McClure, III",9,0,0,9
+Hall,302,"Judge, Ct of Crim App, Pl 6",,REP,"Jesse F. McClure, III",38,5,16,17
+Hall,401,"Judge, Ct of Crim App, Pl 6",,REP,"Jesse F. McClure, III",50,0,2,48
+Hall,402,"Judge, Ct of Crim App, Pl 6",,REP,"Jesse F. McClure, III",19,0,13,6
+Hall,101,"Member, State BoE, Dist 15",,REP,Aaron Kinsey,13,2,3,8
+Hall,201,"Member, State BoE, Dist 15",,REP,Aaron Kinsey,12,0,5,7
+Hall,202,"Member, State BoE, Dist 15",,REP,Aaron Kinsey,31,2,12,17
+Hall,301,"Member, State BoE, Dist 15",,REP,Aaron Kinsey,6,0,0,6
+Hall,302,"Member, State BoE, Dist 15",,REP,Aaron Kinsey,27,3,9,15
+Hall,401,"Member, State BoE, Dist 15",,REP,Aaron Kinsey,38,0,2,36
+Hall,402,"Member, State BoE, Dist 15",,REP,Aaron Kinsey,8,0,6,2
+Hall,101,"Member, State BoE, Dist 15",,REP,Jay Johnson,12,1,4,7
+Hall,201,"Member, State BoE, Dist 15",,REP,Jay Johnson,15,0,12,3
+Hall,202,"Member, State BoE, Dist 15",,REP,Jay Johnson,20,3,7,10
+Hall,301,"Member, State BoE, Dist 15",,REP,Jay Johnson,4,0,0,4
+Hall,302,"Member, State BoE, Dist 15",,REP,Jay Johnson,15,1,8,6
+Hall,401,"Member, State BoE, Dist 15",,REP,Jay Johnson,15,0,0,15
+Hall,402,"Member, State BoE, Dist 15",,REP,Jay Johnson,13,2,7,4
+Hall,101,State Senate,31,REP,Tim Reid,12,0,3,9
+Hall,201,State Senate,31,REP,Tim Reid,5,0,1,4
+Hall,202,State Senate,31,REP,Tim Reid,19,0,5,14
+Hall,301,State Senate,31,REP,Tim Reid,2,0,0,2
+Hall,302,State Senate,31,REP,Tim Reid,7,1,1,5
+Hall,401,State Senate,31,REP,Tim Reid,21,0,2,19
+Hall,402,State Senate,31,REP,Tim Reid,6,2,2,2
+Hall,101,State Senate,31,REP,Kevin Sparks,14,3,3,8
+Hall,201,State Senate,31,REP,Kevin Sparks,24,0,15,9
+Hall,202,State Senate,31,REP,Kevin Sparks,38,6,11,21
+Hall,301,State Senate,31,REP,Kevin Sparks,3,0,0,3
+Hall,302,State Senate,31,REP,Kevin Sparks,33,4,11,18
+Hall,401,State Senate,31,REP,Kevin Sparks,24,0,1,23
+Hall,402,State Senate,31,REP,Kevin Sparks,10,0,6,4
+Hall,101,State Senate,31,REP,Stormy Bradley,3,0,0,3
+Hall,201,State Senate,31,REP,Stormy Bradley,2,0,1,1
+Hall,202,State Senate,31,REP,Stormy Bradley,6,1,0,5
+Hall,301,State Senate,31,REP,Stormy Bradley,4,0,0,4
+Hall,302,State Senate,31,REP,Stormy Bradley,3,0,2,1
+Hall,401,State Senate,31,REP,Stormy Bradley,10,0,0,10
+Hall,402,State Senate,31,REP,Stormy Bradley,7,0,5,2
+Hall,101,State Senate,31,REP,Jesse Quackenbush,2,1,1,0
+Hall,201,State Senate,31,REP,Jesse Quackenbush,3,0,3,0
+Hall,202,State Senate,31,REP,Jesse Quackenbush,6,0,4,2
+Hall,301,State Senate,31,REP,Jesse Quackenbush,5,0,0,5
+Hall,302,State Senate,31,REP,Jesse Quackenbush,2,0,2,0
+Hall,401,State Senate,31,REP,Jesse Quackenbush,5,0,0,5
+Hall,402,State Senate,31,REP,Jesse Quackenbush,1,0,1,0
+Hall,101,State House,88,REP,Ken King,24,3,6,15
+Hall,201,State House,88,REP,Ken King,28,0,15,13
+Hall,202,State House,88,REP,Ken King,55,3,18,34
+Hall,301,State House,88,REP,Ken King,13,0,0,13
+Hall,302,State House,88,REP,Ken King,30,2,8,20
+Hall,401,State House,88,REP,Ken King,59,0,1,58
+Hall,402,State House,88,REP,Ken King,17,0,11,6
+Hall,101,State House,88,REP,Ted Hutto,8,1,1,6
+Hall,201,State House,88,REP,Ted Hutto,8,0,5,3
+Hall,202,State House,88,REP,Ted Hutto,11,2,3,6
+Hall,301,State House,88,REP,Ted Hutto,1,0,0,1
+Hall,302,State House,88,REP,Ted Hutto,16,2,10,4
+Hall,401,State House,88,REP,Ted Hutto,10,0,1,9
+Hall,402,State House,88,REP,Ted Hutto,7,2,4,1
+Hall,101,"Justice, 7th Ct of App Dist, Pl 4",,REP,Larry Doss,21,3,7,11
+Hall,201,"Justice, 7th Ct of App Dist, Pl 4",,REP,Larry Doss,28,0,16,12
+Hall,202,"Justice, 7th Ct of App Dist, Pl 4",,REP,Larry Doss,40,3,14,23
+Hall,301,"Justice, 7th Ct of App Dist, Pl 4",,REP,Larry Doss,9,0,0,9
+Hall,302,"Justice, 7th Ct of App Dist, Pl 4",,REP,Larry Doss,40,5,17,18
+Hall,401,"Justice, 7th Ct of App Dist, Pl 4",,REP,Larry Doss,52,0,2,50
+Hall,402,"Justice, 7th Ct of App Dist, Pl 4",,REP,Larry Doss,19,0,13,6
+Hall,101,County Judge,,REP,Ray Powell,25,3,5,17
+Hall,201,County Judge,,REP,Ray Powell,38,0,22,16
+Hall,202,County Judge,,REP,Ray Powell,72,6,23,43
+Hall,301,County Judge,,REP,Ray Powell,14,0,0,14
+Hall,302,County Judge,,REP,Ray Powell,43,5,18,20
+Hall,401,County Judge,,REP,Ray Powell,65,0,2,63
+Hall,402,County Judge,,REP,Ray Powell,24,0,15,9
+Hall,101,County Clerk/District Clerk,,REP,Kaci Mills,23,3,4,16
+Hall,201,County Clerk/District Clerk,,REP,Kaci Mills,35,0,21,14
+Hall,202,County Clerk/District Clerk,,REP,Kaci Mills,55,5,18,32
+Hall,301,County Clerk/District Clerk,,REP,Kaci Mills,14,0,0,14
+Hall,302,County Clerk/District Clerk,,REP,Kaci Mills,39,5,15,19
+Hall,401,County Clerk/District Clerk,,REP,Kaci Mills,59,0,3,56
+Hall,402,County Clerk/District Clerk,,REP,Kaci Mills,20,0,13,7
+Hall,101,County Treasurer,,REP,Janet Bridges,24,3,4,17
+Hall,201,County Treasurer,,REP,Janet Bridges,36,0,21,15
+Hall,202,County Treasurer,,REP,Janet Bridges,65,6,20,39
+Hall,301,County Treasurer,,REP,Janet Bridges,16,0,0,16
+Hall,302,County Treasurer,,REP,Janet Bridges,44,5,18,21
+Hall,401,County Treasurer,,REP,Janet Bridges,63,0,3,60
+Hall,402,County Treasurer,,REP,Janet Bridges,23,0,15,8
+Hall,101,County Commissioner Pct 1 - Unexpired Term,,REP,Ronny Wilson,20,4,5,11
+Hall,201,County Commissioner Pct 2,,REP,Terry Lindsey,31,0,17,14
+Hall,202,County Commissioner Pct 2,,REP,Terry Lindsey,68,6,23,39
+Hall,401,County Commissioner Pct 4,,REP,Troy Glover,66,0,2,64
+Hall,402,County Commissioner Pct 4,,REP,Troy Glover,22,0,15,7
+Hall,101,"JOP Pct No. 1, 2, 3",,REP,Sherrie Stone,29,4,7,18
+Hall,201,"JOP Pct No. 1, 2, 3",,REP,Sherrie Stone,35,0,19,16
+Hall,202,"JOP Pct No. 1, 2, 3",,REP,Sherrie Stone,63,6,20,37
+Hall,301,"JOP Pct No. 1, 2, 3",,REP,Sherrie Stone,15,0,0,15
+Hall,302,"JOP Pct No. 1, 2, 3",,REP,Sherrie Stone,49,5,19,25
+Hall,401,JOP Pct 4,,REP,Teresa Heck,44,0,2,42
+Hall,402,JOP Pct 4,,REP,Teresa Heck,21,0,12,9
+Hall,101,County Chair,,REP,Kacee McGraw,21,4,6,11
+Hall,201,County Chair,,REP,Kacee McGraw,30,0,16,14
+Hall,202,County Chair,,REP,Kacee McGraw,49,5,16,28
+Hall,301,County Chair,,REP,Kacee McGraw,8,0,0,8
+Hall,302,County Chair,,REP,Kacee McGraw,36,5,17,14
+Hall,401,County Chair,,REP,Kacee McGraw,39,0,2,37
+Hall,402,County Chair,,REP,Kacee McGraw,18,0,10,8
+Hall,101,Proposition 1,,REP,YES,29,4,5,20
+Hall,201,Proposition 1,,REP,YES,41,0,22,19
+Hall,202,Proposition 1,,REP,YES,73,6,22,45
+Hall,301,Proposition 1,,REP,YES,19,0,0,19
+Hall,302,Proposition 1,,REP,YES,53,6,20,27
+Hall,401,Proposition 1,,REP,YES,70,0,3,67
+Hall,402,Proposition 1,,REP,YES,28,2,16,10
+Hall,101,Proposition 1,,REP,NO,3,0,2,1
+Hall,201,Proposition 1,,REP,NO,0,0,0,0
+Hall,202,Proposition 1,,REP,NO,3,1,0,2
+Hall,301,Proposition 1,,REP,NO,0,0,0,0
+Hall,302,Proposition 1,,REP,NO,1,0,0,1
+Hall,401,Proposition 1,,REP,NO,0,0,0,0
+Hall,402,Proposition 1,,REP,NO,1,0,1,0
+Hall,101,Proposition 2,,REP,YES,19,3,3,13
+Hall,201,Proposition 2,,REP,YES,27,0,18,9
+Hall,202,Proposition 2,,REP,YES,58,4,21,33
+Hall,301,Proposition 2,,REP,YES,13,0,0,13
+Hall,302,Proposition 2,,REP,YES,37,4,12,21
+Hall,401,Proposition 2,,REP,YES,56,0,2,54
+Hall,402,Proposition 2,,REP,YES,21,2,13,6
+Hall,101,Proposition 2,,REP,NO,11,1,4,6
+Hall,201,Proposition 2,,REP,NO,10,0,3,7
+Hall,202,Proposition 2,,REP,NO,15,3,1,11
+Hall,301,Proposition 2,,REP,NO,5,0,0,5
+Hall,302,Proposition 2,,REP,NO,16,2,8,6
+Hall,401,Proposition 2,,REP,NO,15,0,1,14
+Hall,402,Proposition 2,,REP,NO,6,0,4,2
+Hall,101,Proposition 3,,REP,YES,30,4,7,19
+Hall,201,Proposition 3,,REP,YES,39,0,20,19
+Hall,202,Proposition 3,,REP,YES,67,7,21,39
+Hall,301,Proposition 3,,REP,YES,18,0,0,18
+Hall,302,Proposition 3,,REP,YES,51,6,20,25
+Hall,401,Proposition 3,,REP,YES,71,0,3,68
+Hall,402,Proposition 3,,REP,YES,27,2,15,10
+Hall,101,Proposition 3,,REP,NO,2,0,0,2
+Hall,201,Proposition 3,,REP,NO,2,0,2,0
+Hall,202,Proposition 3,,REP,NO,9,0,2,7
+Hall,301,Proposition 3,,REP,NO,1,0,0,1
+Hall,302,Proposition 3,,REP,NO,3,0,0,3
+Hall,401,Proposition 3,,REP,NO,1,0,0,1
+Hall,402,Proposition 3,,REP,NO,2,0,2,0
+Hall,101,Proposition 4,,REP,YES,29,4,7,18
+Hall,201,Proposition 4,,REP,YES,40,0,22,18
+Hall,202,Proposition 4,,REP,YES,67,6,22,39
+Hall,301,Proposition 4,,REP,YES,18,0,0,18
+Hall,302,Proposition 4,,REP,YES,51,6,20,25
+Hall,401,Proposition 4,,REP,YES,70,0,3,67
+Hall,402,Proposition 4,,REP,YES,24,2,15,7
+Hall,101,Proposition 4,,REP,NO,2,0,0,2
+Hall,201,Proposition 4,,REP,NO,0,0,0,0
+Hall,202,Proposition 4,,REP,NO,8,0,1,7
+Hall,301,Proposition 4,,REP,NO,1,0,0,1
+Hall,302,Proposition 4,,REP,NO,2,0,0,2
+Hall,401,Proposition 4,,REP,NO,1,0,0,1
+Hall,402,Proposition 4,,REP,NO,3,0,1,2
+Hall,101,Proposition 5,,REP,YES,28,4,5,19
+Hall,201,Proposition 5,,REP,YES,37,0,21,16
+Hall,202,Proposition 5,,REP,YES,67,6,23,38
+Hall,301,Proposition 5,,REP,YES,17,0,0,17
+Hall,302,Proposition 5,,REP,YES,49,6,20,23
+Hall,401,Proposition 5,,REP,YES,65,0,1,64
+Hall,402,Proposition 5,,REP,YES,28,2,17,9
+Hall,101,Proposition 5,,REP,NO,3,0,2,1
+Hall,201,Proposition 5,,REP,NO,3,0,1,2
+Hall,202,Proposition 5,,REP,NO,9,1,0,8
+Hall,301,Proposition 5,,REP,NO,2,0,0,2
+Hall,302,Proposition 5,,REP,NO,5,0,0,5
+Hall,401,Proposition 5,,REP,NO,5,0,2,3
+Hall,402,Proposition 5,,REP,NO,0,0,0,0
+Hall,101,Proposition 6,,REP,YES,26,3,7,16
+Hall,201,Proposition 6,,REP,YES,37,0,19,18
+Hall,202,Proposition 6,,REP,YES,66,4,22,40
+Hall,301,Proposition 6,,REP,YES,16,0,0,16
+Hall,302,Proposition 6,,REP,YES,41,6,16,19
+Hall,401,Proposition 6,,REP,YES,64,0,3,61
+Hall,402,Proposition 6,,REP,YES,22,2,15,5
+Hall,101,Proposition 6,,REP,NO,4,0,0,4
+Hall,201,Proposition 6,,REP,NO,2,0,2,0
+Hall,202,Proposition 6,,REP,NO,10,2,1,7
+Hall,301,Proposition 6,,REP,NO,3,0,0,3
+Hall,302,Proposition 6,,REP,NO,10,0,3,7
+Hall,401,Proposition 6,,REP,NO,5,0,0,5
+Hall,402,Proposition 6,,REP,NO,3,0,1,2
+Hall,101,Proposition 7,,REP,YES,31,4,7,20
+Hall,201,Proposition 7,,REP,YES,39,0,21,18
+Hall,202,Proposition 7,,REP,YES,75,7,23,45
+Hall,301,Proposition 7,,REP,YES,19,0,0,19
+Hall,302,Proposition 7,,REP,YES,50,6,19,25
+Hall,401,Proposition 7,,REP,YES,71,0,3,68
+Hall,402,Proposition 7,,REP,YES,28,2,17,9
+Hall,101,Proposition 7,,REP,NO,0,0,0,0
+Hall,201,Proposition 7,,REP,NO,1,0,1,0
+Hall,202,Proposition 7,,REP,NO,2,0,0,2
+Hall,301,Proposition 7,,REP,NO,0,0,0,0
+Hall,302,Proposition 7,,REP,NO,1,0,0,1
+Hall,401,Proposition 7,,REP,NO,0,0,0,0
+Hall,402,Proposition 7,,REP,NO,0,0,0,0
+Hall,101,Proposition 8,,REP,YES,29,3,5,21
+Hall,201,Proposition 8,,REP,YES,37,0,20,17
+Hall,202,Proposition 8,,REP,YES,69,7,21,41
+Hall,301,Proposition 8,,REP,YES,19,0,0,19
+Hall,302,Proposition 8,,REP,YES,48,6,18,24
+Hall,401,Proposition 8,,REP,YES,72,0,3,69
+Hall,402,Proposition 8,,REP,YES,26,2,15,9
+Hall,101,Proposition 8,,REP,NO,2,0,2,0
+Hall,201,Proposition 8,,REP,NO,1,0,0,1
+Hall,202,Proposition 8,,REP,NO,7,0,2,5
+Hall,301,Proposition 8,,REP,NO,0,0,0,0
+Hall,302,Proposition 8,,REP,NO,2,0,1,1
+Hall,401,Proposition 8,,REP,NO,0,0,0,0
+Hall,402,Proposition 8,,REP,NO,2,0,2,0
+Hall,101,Proposition 9,,REP,YES,30,3,7,20
+Hall,201,Proposition 9,,REP,YES,37,0,20,17
+Hall,202,Proposition 9,,REP,YES,70,6,21,43
+Hall,301,Proposition 9,,REP,YES,18,0,0,18
+Hall,302,Proposition 9,,REP,YES,47,6,17,24
+Hall,401,Proposition 9,,REP,YES,63,0,3,60
+Hall,402,Proposition 9,,REP,YES,26,2,16,8
+Hall,101,Proposition 9,,REP,NO,1,0,0,1
+Hall,201,Proposition 9,,REP,NO,3,0,2,1
+Hall,202,Proposition 9,,REP,NO,7,1,2,4
+Hall,301,Proposition 9,,REP,NO,1,0,0,1
+Hall,302,Proposition 9,,REP,NO,3,0,2,1
+Hall,401,Proposition 9,,REP,NO,8,0,0,8
+Hall,402,Proposition 9,,REP,NO,2,0,1,1
+Hall,101,Proposition 10,,REP,YES,31,3,7,21
+Hall,201,Proposition 10,,REP,YES,38,0,21,17
+Hall,202,Proposition 10,,REP,YES,73,6,23,44
+Hall,301,Proposition 10,,REP,YES,19,0,0,19
+Hall,302,Proposition 10,,REP,YES,48,6,17,25
+Hall,401,Proposition 10,,REP,YES,69,0,2,67
+Hall,402,Proposition 10,,REP,YES,28,2,16,10
+Hall,101,Proposition 10,,REP,NO,0,0,0,0
+Hall,201,Proposition 10,,REP,NO,2,0,1,1
+Hall,202,Proposition 10,,REP,NO,3,1,0,2
+Hall,301,Proposition 10,,REP,NO,0,0,0,0
+Hall,302,Proposition 10,,REP,NO,3,0,2,1
+Hall,401,Proposition 10,,REP,NO,2,0,1,1
+Hall,402,Proposition 10,,REP,NO,1,0,1,0
+Hall,101,Ballots Cast,,DEM,,8,7,0,1
+Hall,201,Ballots Cast,,DEM,,4,0,0,4
+Hall,202,Ballots Cast,,DEM,,3,0,2,1
+Hall,301,Ballots Cast,,DEM,,4,0,1,3
+Hall,302,Ballots Cast,,DEM,,6,4,0,2
+Hall,401,Ballots Cast,,DEM,,7,1,0,6
+Hall,402,Ballots Cast,,DEM,,3,1,2,0
+Hall,101,U.S. House,13,DEM,Kathleen Brown,4,4,0,0
+Hall,201,U.S. House,13,DEM,Kathleen Brown,3,0,0,3
+Hall,202,U.S. House,13,DEM,Kathleen Brown,2,0,1,1
+Hall,301,U.S. House,13,DEM,Kathleen Brown,2,0,1,1
+Hall,302,U.S. House,13,DEM,Kathleen Brown,4,3,0,1
+Hall,401,U.S. House,13,DEM,Kathleen Brown,5,1,0,4
+Hall,402,U.S. House,13,DEM,Kathleen Brown,1,1,0,0
+Hall,101,Governor,,DEM,Michael Cooper,0,0,0,0
+Hall,201,Governor,,DEM,Michael Cooper,1,0,0,1
+Hall,202,Governor,,DEM,Michael Cooper,0,0,0,0
+Hall,301,Governor,,DEM,Michael Cooper,0,0,0,0
+Hall,302,Governor,,DEM,Michael Cooper,0,0,0,0
+Hall,401,Governor,,DEM,Michael Cooper,1,0,0,1
+Hall,402,Governor,,DEM,Michael Cooper,1,0,1,0
+Hall,101,Governor,,DEM,Inocencio (Inno) Barrientez,0,0,0,0
+Hall,201,Governor,,DEM,Inocencio (Inno) Barrientez,0,0,0,0
+Hall,202,Governor,,DEM,Inocencio (Inno) Barrientez,0,0,0,0
+Hall,301,Governor,,DEM,Inocencio (Inno) Barrientez,0,0,0,0
+Hall,302,Governor,,DEM,Inocencio (Inno) Barrientez,0,0,0,0
+Hall,401,Governor,,DEM,Inocencio (Inno) Barrientez,0,0,0,0
+Hall,402,Governor,,DEM,Inocencio (Inno) Barrientez,0,0,0,0
+Hall,101,Governor,,DEM,Joy Diaz,0,0,0,0
+Hall,201,Governor,,DEM,Joy Diaz,1,0,0,1
+Hall,202,Governor,,DEM,Joy Diaz,0,0,0,0
+Hall,301,Governor,,DEM,Joy Diaz,1,0,0,1
+Hall,302,Governor,,DEM,Joy Diaz,1,1,0,0
+Hall,401,Governor,,DEM,Joy Diaz,3,0,0,3
+Hall,402,Governor,,DEM,Joy Diaz,1,1,0,0
+Hall,101,Governor,,DEM,Beto O'Rourke,8,7,0,1
+Hall,201,Governor,,DEM,Beto O'Rourke,1,0,0,1
+Hall,202,Governor,,DEM,Beto O'Rourke,3,0,2,1
+Hall,301,Governor,,DEM,Beto O'Rourke,2,0,1,1
+Hall,302,Governor,,DEM,Beto O'Rourke,4,2,0,2
+Hall,401,Governor,,DEM,Beto O'Rourke,3,1,0,2
+Hall,402,Governor,,DEM,Beto O'Rourke,0,0,0,0
+Hall,101,Governor,,DEM,Rich Wakeland,0,0,0,0
+Hall,201,Governor,,DEM,Rich Wakeland,0,0,0,0
+Hall,202,Governor,,DEM,Rich Wakeland,0,0,0,0
+Hall,301,Governor,,DEM,Rich Wakeland,0,0,0,0
+Hall,302,Governor,,DEM,Rich Wakeland,0,0,0,0
+Hall,401,Governor,,DEM,Rich Wakeland,0,0,0,0
+Hall,402,Governor,,DEM,Rich Wakeland,0,0,0,0
+Hall,101,Lieutenant Governor,,DEM,Carla Brailey,2,2,0,0
+Hall,201,Lieutenant Governor,,DEM,Carla Brailey,2,0,0,2
+Hall,202,Lieutenant Governor,,DEM,Carla Brailey,0,0,0,0
+Hall,301,Lieutenant Governor,,DEM,Carla Brailey,1,0,0,1
+Hall,302,Lieutenant Governor,,DEM,Carla Brailey,1,1,0,0
+Hall,401,Lieutenant Governor,,DEM,Carla Brailey,0,0,0,0
+Hall,402,Lieutenant Governor,,DEM,Carla Brailey,1,1,0,0
+Hall,101,Lieutenant Governor,,DEM,Mike Collier,0,0,0,0
+Hall,201,Lieutenant Governor,,DEM,Mike Collier,1,0,0,1
+Hall,202,Lieutenant Governor,,DEM,Mike Collier,1,0,1,0
+Hall,301,Lieutenant Governor,,DEM,Mike Collier,1,0,1,0
+Hall,302,Lieutenant Governor,,DEM,Mike Collier,3,2,0,1
+Hall,401,Lieutenant Governor,,DEM,Mike Collier,2,1,0,1
+Hall,402,Lieutenant Governor,,DEM,Mike Collier,0,0,0,0
+Hall,101,Lieutenant Governor,,DEM,Michelle Beckley,3,3,0,0
+Hall,201,Lieutenant Governor,,DEM,Michelle Beckley,0,0,0,0
+Hall,202,Lieutenant Governor,,DEM,Michelle Beckley,1,0,0,1
+Hall,301,Lieutenant Governor,,DEM,Michelle Beckley,0,0,0,0
+Hall,302,Lieutenant Governor,,DEM,Michelle Beckley,0,0,0,0
+Hall,401,Lieutenant Governor,,DEM,Michelle Beckley,3,0,0,3
+Hall,402,Lieutenant Governor,,DEM,Michelle Beckley,1,0,1,0
+Hall,101,Attorney General,,DEM,Rochelle Mercedes Garza,1,0,0,1
+Hall,201,Attorney General,,DEM,Rochelle Mercedes Garza,1,0,0,1
+Hall,202,Attorney General,,DEM,Rochelle Mercedes Garza,2,0,2,0
+Hall,301,Attorney General,,DEM,Rochelle Mercedes Garza,1,0,0,1
+Hall,302,Attorney General,,DEM,Rochelle Mercedes Garza,1,1,0,0
+Hall,401,Attorney General,,DEM,Rochelle Mercedes Garza,3,1,0,2
+Hall,402,Attorney General,,DEM,Rochelle Mercedes Garza,1,0,1,0
+Hall,101,Attorney General,,DEM,Lee Merritt,0,0,0,0
+Hall,201,Attorney General,,DEM,Lee Merritt,0,0,0,0
+Hall,202,Attorney General,,DEM,Lee Merritt,0,0,0,0
+Hall,301,Attorney General,,DEM,Lee Merritt,2,0,1,1
+Hall,302,Attorney General,,DEM,Lee Merritt,1,0,0,1
+Hall,401,Attorney General,,DEM,Lee Merritt,1,0,0,1
+Hall,402,Attorney General,,DEM,Lee Merritt,1,1,0,0
+Hall,101,Attorney General,,DEM,Mike Fields,3,3,0,0
+Hall,201,Attorney General,,DEM,Mike Fields,2,0,0,2
+Hall,202,Attorney General,,DEM,Mike Fields,1,0,0,1
+Hall,301,Attorney General,,DEM,Mike Fields,0,0,0,0
+Hall,302,Attorney General,,DEM,Mike Fields,0,0,0,0
+Hall,401,Attorney General,,DEM,Mike Fields,3,0,0,3
+Hall,402,Attorney General,,DEM,Mike Fields,0,0,0,0
+Hall,101,Attorney General,,DEM,"S. ""TBONE"" Raynor",0,0,0,0
+Hall,201,Attorney General,,DEM,"S. ""TBONE"" Raynor",1,0,0,1
+Hall,202,Attorney General,,DEM,"S. ""TBONE"" Raynor",0,0,0,0
+Hall,301,Attorney General,,DEM,"S. ""TBONE"" Raynor",0,0,0,0
+Hall,302,Attorney General,,DEM,"S. ""TBONE"" Raynor",0,0,0,0
+Hall,401,Attorney General,,DEM,"S. ""TBONE"" Raynor",0,0,0,0
+Hall,402,Attorney General,,DEM,"S. ""TBONE"" Raynor",0,0,0,0
+Hall,101,Attorney General,,DEM,Joe Jaworski,1,1,0,0
+Hall,201,Attorney General,,DEM,Joe Jaworski,0,0,0,0
+Hall,202,Attorney General,,DEM,Joe Jaworski,0,0,0,0
+Hall,301,Attorney General,,DEM,Joe Jaworski,0,0,0,0
+Hall,302,Attorney General,,DEM,Joe Jaworski,2,2,0,0
+Hall,401,Attorney General,,DEM,Joe Jaworski,0,0,0,0
+Hall,402,Attorney General,,DEM,Joe Jaworski,1,0,1,0
+Hall,101,Comptroller of Public Accounts,,DEM,Tim Mahoney,0,0,0,0
+Hall,201,Comptroller of Public Accounts,,DEM,Tim Mahoney,3,0,0,3
+Hall,202,Comptroller of Public Accounts,,DEM,Tim Mahoney,0,0,0,0
+Hall,301,Comptroller of Public Accounts,,DEM,Tim Mahoney,0,0,0,0
+Hall,302,Comptroller of Public Accounts,,DEM,Tim Mahoney,2,1,0,1
+Hall,401,Comptroller of Public Accounts,,DEM,Tim Mahoney,2,0,0,2
+Hall,402,Comptroller of Public Accounts,,DEM,Tim Mahoney,0,0,0,0
+Hall,101,Comptroller of Public Accounts,,DEM,Angel Luis Vega,2,1,0,1
+Hall,201,Comptroller of Public Accounts,,DEM,Angel Luis Vega,0,0,0,0
+Hall,202,Comptroller of Public Accounts,,DEM,Angel Luis Vega,1,0,1,0
+Hall,301,Comptroller of Public Accounts,,DEM,Angel Luis Vega,2,0,1,1
+Hall,302,Comptroller of Public Accounts,,DEM,Angel Luis Vega,1,1,0,0
+Hall,401,Comptroller of Public Accounts,,DEM,Angel Luis Vega,1,0,0,1
+Hall,402,Comptroller of Public Accounts,,DEM,Angel Luis Vega,0,0,0,0
+Hall,101,Comptroller of Public Accounts,,DEM,Janet T. Dudding,2,2,0,0
+Hall,201,Comptroller of Public Accounts,,DEM,Janet T. Dudding,0,0,0,0
+Hall,202,Comptroller of Public Accounts,,DEM,Janet T. Dudding,1,0,0,1
+Hall,301,Comptroller of Public Accounts,,DEM,Janet T. Dudding,1,0,0,1
+Hall,302,Comptroller of Public Accounts,,DEM,Janet T. Dudding,1,1,0,0
+Hall,401,Comptroller of Public Accounts,,DEM,Janet T. Dudding,2,1,0,1
+Hall,402,Comptroller of Public Accounts,,DEM,Janet T. Dudding,2,1,1,0
+Hall,101,Comm General Land Office,,DEM,Sandragrace Martinez,0,0,0,0
+Hall,201,Comm General Land Office,,DEM,Sandragrace Martinez,0,0,0,0
+Hall,202,Comm General Land Office,,DEM,Sandragrace Martinez,2,0,2,0
+Hall,301,Comm General Land Office,,DEM,Sandragrace Martinez,2,0,1,1
+Hall,302,Comm General Land Office,,DEM,Sandragrace Martinez,2,1,0,1
+Hall,401,Comm General Land Office,,DEM,Sandragrace Martinez,2,0,0,2
+Hall,402,Comm General Land Office,,DEM,Sandragrace Martinez,0,0,0,0
+Hall,101,Comm General Land Office,,DEM,Jinny Suh,0,0,0,0
+Hall,201,Comm General Land Office,,DEM,Jinny Suh,0,0,0,0
+Hall,202,Comm General Land Office,,DEM,Jinny Suh,0,0,0,0
+Hall,301,Comm General Land Office,,DEM,Jinny Suh,0,0,0,0
+Hall,302,Comm General Land Office,,DEM,Jinny Suh,0,0,0,0
+Hall,401,Comm General Land Office,,DEM,Jinny Suh,0,0,0,0
+Hall,402,Comm General Land Office,,DEM,Jinny Suh,0,0,0,0
+Hall,101,Comm General Land Office,,DEM,Michael Lange,2,2,0,0
+Hall,201,Comm General Land Office,,DEM,Michael Lange,2,0,0,2
+Hall,202,Comm General Land Office,,DEM,Michael Lange,0,0,0,0
+Hall,301,Comm General Land Office,,DEM,Michael Lange,0,0,0,0
+Hall,302,Comm General Land Office,,DEM,Michael Lange,0,0,0,0
+Hall,401,Comm General Land Office,,DEM,Michael Lange,2,1,0,1
+Hall,402,Comm General Land Office,,DEM,Michael Lange,2,1,1,0
+Hall,101,Comm General Land Office,,DEM,Jay Kleberg,1,1,0,0
+Hall,201,Comm General Land Office,,DEM,Jay Kleberg,1,0,0,1
+Hall,202,Comm General Land Office,,DEM,Jay Kleberg,1,0,0,1
+Hall,301,Comm General Land Office,,DEM,Jay Kleberg,0,0,0,0
+Hall,302,Comm General Land Office,,DEM,Jay Kleberg,3,3,0,0
+Hall,401,Comm General Land Office,,DEM,Jay Kleberg,1,0,0,1
+Hall,402,Comm General Land Office,,DEM,Jay Kleberg,0,0,0,0
+Hall,101,Commissioner of Agriculture,,DEM,Susan Hays,4,4,0,0
+Hall,201,Commissioner of Agriculture,,DEM,Susan Hays,1,0,0,1
+Hall,202,Commissioner of Agriculture,,DEM,Susan Hays,1,0,1,0
+Hall,301,Commissioner of Agriculture,,DEM,Susan Hays,2,0,1,1
+Hall,302,Commissioner of Agriculture,,DEM,Susan Hays,5,4,0,1
+Hall,401,Commissioner of Agriculture,,DEM,Susan Hays,3,1,0,2
+Hall,402,Commissioner of Agriculture,,DEM,Susan Hays,1,0,1,0
+Hall,101,Commissioner of Agriculture,,DEM,Ed Ireson,1,1,0,0
+Hall,201,Commissioner of Agriculture,,DEM,Ed Ireson,1,0,0,1
+Hall,202,Commissioner of Agriculture,,DEM,Ed Ireson,1,0,0,1
+Hall,301,Commissioner of Agriculture,,DEM,Ed Ireson,0,0,0,0
+Hall,302,Commissioner of Agriculture,,DEM,Ed Ireson,0,0,0,0
+Hall,401,Commissioner of Agriculture,,DEM,Ed Ireson,2,0,0,2
+Hall,402,Commissioner of Agriculture,,DEM,Ed Ireson,1,1,0,0
+Hall,101,Railroad Commissioner,,DEM,Luke Warford,6,6,0,0
+Hall,201,Railroad Commissioner,,DEM,Luke Warford,3,0,0,3
+Hall,202,Railroad Commissioner,,DEM,Luke Warford,3,0,2,1
+Hall,301,Railroad Commissioner,,DEM,Luke Warford,2,0,1,1
+Hall,302,Railroad Commissioner,,DEM,Luke Warford,5,4,0,1
+Hall,401,Railroad Commissioner,,DEM,Luke Warford,5,1,0,4
+Hall,402,Railroad Commissioner,,DEM,Luke Warford,2,1,1,0
+Hall,101,"Justice, Supreme Court, Pl 3",,DEM,Erin A Nowell,5,5,0,0
+Hall,201,"Justice, Supreme Court, Pl 3",,DEM,Erin A Nowell,3,0,0,3
+Hall,202,"Justice, Supreme Court, Pl 3",,DEM,Erin A Nowell,2,0,1,1
+Hall,301,"Justice, Supreme Court, Pl 3",,DEM,Erin A Nowell,2,0,1,1
+Hall,302,"Justice, Supreme Court, Pl 3",,DEM,Erin A Nowell,4,3,0,1
+Hall,401,"Justice, Supreme Court, Pl 3",,DEM,Erin A Nowell,5,1,0,4
+Hall,402,"Justice, Supreme Court, Pl 3",,DEM,Erin A Nowell,2,1,1,0
+Hall,101,"Justice, Supreme Court, Pl 5",,DEM,Amanda Reichek,6,6,0,0
+Hall,201,"Justice, Supreme Court, Pl 5",,DEM,Amanda Reichek,3,0,0,3
+Hall,202,"Justice, Supreme Court, Pl 5",,DEM,Amanda Reichek,2,0,1,1
+Hall,301,"Justice, Supreme Court, Pl 5",,DEM,Amanda Reichek,2,0,1,1
+Hall,302,"Justice, Supreme Court, Pl 5",,DEM,Amanda Reichek,4,3,0,1
+Hall,401,"Justice, Supreme Court, Pl 5",,DEM,Amanda Reichek,5,1,0,4
+Hall,402,"Justice, Supreme Court, Pl 5",,DEM,Amanda Reichek,1,1,0,0
+Hall,101,"Justice, Supreme Court, Pl 9",,DEM,Julia Maldonado,7,6,0,1
+Hall,201,"Justice, Supreme Court, Pl 9",,DEM,Julia Maldonado,2,0,0,2
+Hall,202,"Justice, Supreme Court, Pl 9",,DEM,Julia Maldonado,3,0,2,1
+Hall,301,"Justice, Supreme Court, Pl 9",,DEM,Julia Maldonado,2,0,1,1
+Hall,302,"Justice, Supreme Court, Pl 9",,DEM,Julia Maldonado,5,3,0,2
+Hall,401,"Justice, Supreme Court, Pl 9",,DEM,Julia Maldonado,5,1,0,4
+Hall,402,"Justice, Supreme Court, Pl 9",,DEM,Julia Maldonado,2,1,1,0
+Hall,101,"Judge, Ct of Crim App, Pl 5",,DEM,Dana Huffman,6,6,0,0
+Hall,201,"Judge, Ct of Crim App, Pl 5",,DEM,Dana Huffman,3,0,0,3
+Hall,202,"Judge, Ct of Crim App, Pl 5",,DEM,Dana Huffman,2,0,1,1
+Hall,301,"Judge, Ct of Crim App, Pl 5",,DEM,Dana Huffman,2,0,1,1
+Hall,302,"Judge, Ct of Crim App, Pl 5",,DEM,Dana Huffman,4,3,0,1
+Hall,401,"Judge, Ct of Crim App, Pl 5",,DEM,Dana Huffman,6,1,0,5
+Hall,402,"Judge, Ct of Crim App, Pl 5",,DEM,Dana Huffman,2,1,1,0
+Hall,101,"Judge, Ct of Crim App, Pl 6",,DEM,Robert Johnson,5,5,0,0
+Hall,201,"Judge, Ct of Crim App, Pl 6",,DEM,Robert Johnson,2,0,0,2
+Hall,202,"Judge, Ct of Crim App, Pl 6",,DEM,Robert Johnson,2,0,1,1
+Hall,301,"Judge, Ct of Crim App, Pl 6",,DEM,Robert Johnson,2,0,1,1
+Hall,302,"Judge, Ct of Crim App, Pl 6",,DEM,Robert Johnson,5,4,0,1
+Hall,401,"Judge, Ct of Crim App, Pl 6",,DEM,Robert Johnson,6,1,0,5
+Hall,402,"Judge, Ct of Crim App, Pl 6",,DEM,Robert Johnson,2,1,1,0
