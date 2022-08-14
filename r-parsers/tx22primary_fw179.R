@@ -36,7 +36,7 @@ nms   <- c("irace","icandidate","iprecinct","votes",
 # Use PopulationEstimates.csv to get county names
 filename <- "PopulationEstimates.csv"
 us <- read_csv(filename, skip = 4)
-names(us) <- c("FIPS","State","Area","Rucode","Pop90","Pop00","Pop10","Pop20","Pop21")
+names(us)[1:9] <- c("FIPS","State","Area","Rucode","Pop90","Pop00","Pop10","Pop20","Pop21")
 tx <- us[us$State == "TX" & us$Area != "Texas",]
 counties <- tx$Area
 counties <- gsub(" County","",counties)
@@ -61,19 +61,24 @@ for (f in list){
             party <- ""
             #print(paste0("########## NO PARTY FOUND IN ",f))
         }
-        if (party != "" & grepl(".txt$",f)){
+        nn <- str_match(f, "\\.([A-Za-z]+)$")
+        ext <- ""
+        if (!is.na(nn[1,1])){
+            ext <- nn[1,1]
+        }
+        if (party != "" & ext %in% c(".txt",".ASC")){
             file_txt <- paste0(dir,f)
             rr <- readLines(file_txt)
             nc <- nchar(rr[1])
             print(paste0(nc,"  ",county0))
             if (nc == 179){
                 file_csv <- paste0(dir,"out/",f)
-                file_csv <- gsub(".txt",".csv",file_csv)
+                file_csv <- gsub(ext,".csv",file_csv)
                 f_std <- paste0("20220301__tx__primary__",tolower(county0),"__precinct.csv")
                 file_std <- paste0(dir,"out/",f_std)
-                #print(paste0("BEFORE read ", file_txt))
+                #print(paste0("BEFORE read ", file_txt)) #DEBUG
                 xx <- read_fwf(file_txt, fwf_positions(start, end, nms), col_types = "ccccccccccc")
-                #print(paste0(" AFTER read ", file_txt))
+                #print(paste0(" AFTER read ", file_txt)) #DEBUG
                 xx$county <- str_to_title(county) # match standard
                 xx$district <- ""
                 # nms   <- c("irace","icandidate","iprecinct","votes",
@@ -115,26 +120,26 @@ for (f in list){
                 xx$office <- gsub("^United States Representative","U.S. House",xx$office, ignore.case = TRUE) # Guadalupe County
                 
                 for (i in 1:NROW(xx)){
-                    mm <- str_match(xx$office[i], "U.S. House, District (\\d+)")
+                    mm <- str_match(xx$office[i], "U.S. House, Dist(?:rict)? (\\d+)")
                     if(!is.na(mm[1,1])){
                         xx$district[i] <- mm[1,2]
                         xx$office[i] <- "U.S. House"
                         next
                     }
-                    mm <- str_match(xx$office[i],"^(DEM|REP) US Rep, District (\\d+)")
-                    if (!is.na(mm[1,1])){
+                    mm <- str_match(xx$office[i],"^(DEM|REP) US Rep, Dist(?:rict)? (\\d+)")
+                    if(!is.na(mm[1,1])){
                         xx$office[i] <- paste0(mm[1,2]," US Rep")
                         xx$district[i] <- mm[1,3]
                         xx$office[i] <- "U.S. House"
                         next
                     }
-                    mm <- str_match(xx$office[i], "State Senate, Dist (\\d+)")
+                    mm <- str_match(xx$office[i], "State Senate, Dist(?:rict)? (\\d+)")
                     if(!is.na(mm[1,1])){
                         xx$district[i] <- mm[1,2]
                         xx$office[i] <- "State Senate"
                         next
                     }
-                    mm <- str_match(xx$office[i], "State Representative, Dist (\\d+)")
+                    mm <- str_match(xx$office[i], "State Representative, Dist(?:rict)? (\\d+)")
                     if(!is.na(mm[1,1])){
                         xx$district[i] <- mm[1,2]
                         xx$office[i] <- "State House"
