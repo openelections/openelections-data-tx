@@ -28,7 +28,7 @@ start <- c(1,5, 8,12,18,24,30,36, 42,102,105,112,168,206,236,261)
 end   <- c(4,7,11,17,23,29,35,41,101,104,111,167,205,235,260,263)
 nms   <- c("irace","icandidate","iprecinct","votes","absentee","early_voting","election_day","provisional",
            "unused","party","party2","office","candidate","precinct","precinct2","racetype")
-match_county <- "EL PASO" # set to county in upper case to limit search, i.e. match_county <- "EL PASO"
+match_county <- "" # set to county in upper case (like "EL PASO") to limit search; set to "" to search all counties
 
 # Use PopulationEstimates.csv to get county names
 filename <- "PopulationEstimates.csv"
@@ -88,7 +88,7 @@ for (f in list){
                 xx$party[xx$party == "(D)"] <- "DEM" # El Paso County
                 xx$party[xx$party == "(R)"] <- "REP" # El Paso County
                 xx$office <- str_to_title(xx$office)
-                
+
                 xx$office[xx$office == "Registered Voters - Total"] <- "Registered Voters"
                 xx$candidate[grepl("^REGISTERED VOTERS",xx$candidate,ignore.case = TRUE)] <- ""
                 
@@ -119,7 +119,8 @@ for (f in list){
                 xx$office <- gsub("^Us Representative","U.S. House",xx$office, ignore.case = TRUE)
                 xx$office <- gsub("^Us Rep,","U.S. House,",xx$office, ignore.case = TRUE) # Goliad County
                 xx$office <- gsub("^United States Representative","U.S. House",xx$office, ignore.case = TRUE) # Guadalupe County
-                
+                xx$office <- gsub("^County  Commissioner","County Commissioner",xx$office, ignore.case = TRUE) # Guadalupe County
+
                 for (i in 1:NROW(xx)){
                     mm <- str_match(xx$office[i], "U.S. House, District (\\d+)")
                     if(!is.na(mm[1,1])){
