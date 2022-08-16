@@ -14,11 +14,21 @@
 
 library("tidyverse")
 
-dir <- ".\\2022- 1 March Primary PctxPct-20220729T231127Z-001\\2022- 1 March Primary PctxPct\\"
-start <- c(1,5, 8,12,18,24,30,36, 42,102,105,112,168,206,236,261)
-end   <- c(4,7,11,17,23,29,35,41,101,104,111,167,205,235,260,263)
-nms   <- c("irace","icandidate","iprecinct","votes","absentee","early_voting","election_day","provisional",
-           "unused","party","party2","office","candidate","precinct","precinct2","racetype")
+# Source files expected to be at following location relative to directory r-parsers.
+# The working directory should be set to r-parsers. It can be set via the setwd command.
+# If you get the message "len=0", the value of dir below is incorrect. Modify it to match the directory.
+# Add an out subdirectory to this directory to contain the output files.
+# NOTE: Had to use just the subdirectory 2022- 1 March Primary PctxPct due to file paths becoming too long for Windows.
+#dir <- "..\\2022- 1 March Primary PctxPct-20220808T225503Z-001\\2022- 1 March Primary PctxPct\\"
+dir <- "..\\2022- 1 March Primary PctxPct\\"
+# start <- c(1,5, 8,12,18,24,30,36, 42,102,105,112,168,206,236,261)
+# end   <- c(4,7,11,17,23,29,35,41,101,104,111,167,205,235,260,263)
+# nms   <- c("irace","icandidate","iprecinct","votes","absentee","early_voting","election_day","provisional",
+#            "unused","party","party2","office","candidate","precinct","precinct2","racetype")
+start <- c(1,5, 8,12,18,21,28, 84,122,152,177)
+end   <- c(4,7,11,17,20,27,83,121,151,176,179)
+nms   <- c("irace","icandidate","iprecinct","votes",
+           "party","party2","office","candidate","precinct","precinct2","racetype")
 
 # Use PopulationEstimates.csv to get county names
 filename <- "PopulationEstimates.csv"
@@ -32,9 +42,10 @@ list <- list.files(dir, pattern = "*", full.names = FALSE)
 len <- length(list)
 print(paste0("len=",len))
 for (f in list){
-    mm <- str_match(f, "([A-Z]+)_COUNTY")
+    mm <- str_match(f, "^([A-Z_]+)_COUNTY")
     if(!is.na(mm[1,1])){
-        county <- mm[1,2]
+        county0 <- mm[1,2]
+        county <- gsub("_"," ",county0)
         if (grepl("DEMOCRATIC",f)){
             party <- "DEM"
             #print(paste0("DEM ",county))
@@ -51,23 +62,26 @@ for (f in list){
             file_txt <- paste0(dir,f)
             rr <- readLines(file_txt)
             nc <- nchar(rr[1])
-            print(nc)
-            if (nc == 263){
+            print(paste0(nc,"  ",county0))
+            if (nc == 179){
                 file_csv <- paste0(dir,"out/",f)
                 file_csv <- gsub(".txt",".csv",file_csv)
-                f_std <- paste0("20220301__tx__primary__",tolower(county),"__precinct.csv")
+                f_std <- paste0("20220301__tx__primary__",tolower(county0),"__precinct.csv")
                 file_std <- paste0(dir,"out/",f_std)
                 #print(paste0("BEFORE read ", file_txt))
-                xx <- read_fwf(file_txt, fwf_positions(start, end, nms), col_types = "cccc")
+                xx <- read_fwf(file_txt, fwf_positions(start, end, nms), col_types = "ccccccc")
                 #print(paste0(" AFTER read ", file_txt))
                 xx$county <- str_to_title(county) # match standard
                 xx$district <- ""
-                # nms   <- c("irace","icandidate","iprecinct","votes","early_voting","absentee","election_day",
-                #            "provincial","unused","party","party2","office","candidate","precinct","racetype")
-                nmsxx   <- c("county","precinct","office","district","party","candidate","votes",
-                             "absentee","early_voting","election_day","provisional")
+                # nms   <- c("irace","icandidate","iprecinct","votes",
+                #            "party","party2","office","candidate","precinct","racetype")
+                nmsxx   <- c("county","precinct","office","district","party","candidate","votes")
                 xx <- xx[nmsxx]
                 # Changes to match standard
+                xx$precinct <- gsub("^Precinct [0]*","",xx$precinct, ignore.case = TRUE)
+                #xx$precinct <- gsub("^PCT ","",xx$precinct, ignore.case = TRUE) # Wharton County
+                xx$party[xx$party == "(D)"] <- "DEM" # El Paso County
+                xx$party[xx$party == "(R)"] <- "REP" # El Paso County
                 xx$office <- str_to_title(xx$office)
                 
                 xx$office[xx$office == "Registered Voters - Total"] <- "Registered Voters"
@@ -126,10 +140,10 @@ for (f in list){
                 }
 
                 xx$votes        <- as.numeric(xx$votes)
-                xx$absentee     <- as.numeric(xx$absentee)
-                xx$early_voting <- as.numeric(xx$early_voting)
-                xx$election_day <- as.numeric(xx$election_day)
-                xx$provisional  <- as.numeric(xx$provisional)
+                # xx$absentee     <- as.numeric(xx$absentee)
+                # xx$early_voting <- as.numeric(xx$early_voting)
+                # xx$election_day <- as.numeric(xx$election_day)
+                # xx$provisional  <- as.numeric(xx$provisional)
                 
                 # Only delete if all votes for all lines in an office group are zero
                 #xx <- xx[xx$office != "Registered Voters - Nonpartisan",] # Robertson County
@@ -144,13 +158,13 @@ for (f in list){
                                 }
                             }
                         }
-                        nonzero <- (xx$votes[i] != 0 | xx$absentee[i] != 0 | xx$early_voting[i] != 0 | xx$election_day[i] != 0 | xx$provisional[i] != 0)
+                        nonzero <- (xx$votes[i] != 0)
                         lastoffice <- xx$office[i]
                         firsti <- i
                     }
                     else{
                         if (!nonzero){
-                            if (xx$votes[i] != 0 | xx$absentee[i] != 0 | xx$early_voting[i] != 0 | xx$election_day[i] != 0 | xx$provisional[i] != 0){
+                            if (xx$votes[i] != 0){
                                 nonzero <- TRUE
                             }
                         }
@@ -159,13 +173,19 @@ for (f in list){
                 xx <- xx[!is.na(xx$county),]
                 
                 xx$party[is.na(xx$party)] <- ""
-                sumprov <- sum(xx$provisional)
-                if (sumprov == 0){
-                    xx <- xx[-NCOL(xx)]
-                }
+                # sumprov <- sum(xx$provisional)
+                # if (sumprov == 0){
+                #     xx <- xx[-NCOL(xx)]
+                # }
                 write_csv(xx, file_csv)
                 write_csv(xx, file_std)
                 print(paste0(" AFTER write ", file_std))
+                # Write DEM.txt to DEM.csv and REP.txt to REP.csv and write both to [file_std].csv.
+                # This is required for final step which is currently done manually. If the DEM.csv
+                # and REP.csv are identical, then [file_std].csv should contain the final file.
+                # If they are different, diff the DEM.csv and REP.csv files and add that part of
+                # the DEM.csv not duplicated in the REP.csv to the end of [file_std].csv. This
+                # should include only one header (on the first line) and should be the final file.
             }
         }
     }
