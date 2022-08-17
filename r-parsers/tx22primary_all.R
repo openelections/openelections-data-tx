@@ -122,11 +122,15 @@ for (f in list){
                     if (!is.na(dd$skip[1])){
                         nskip <- as.numeric(dd$skip[1])
                     }
+                    nsheet <- 1
+                    if (!is.na(dd$sheet[1])){
+                        nsheet <- dd$sheet[1]
+                    }
                     if (toupper(ext) == ".CSV"){
                         vv <- read_csv(filename, col_types = "c", skip = nskip)
                     }
                     else{
-                        vv <- read_excel(filename, sheet = dd$sheet[1], skip = nskip)
+                        vv <- read_excel(filename, sheet = nsheet, skip = nskip)
                     }
                     zvv <<- vv #DEBUG
                 }
@@ -363,6 +367,11 @@ for (f in list){
                     nmsxx <- c("county","precinct","office","district","candidate","party",
                                "early_voting","election_day","votes")
                     xx <- xx[nmsxx]
+                }
+                else if (toupper(county) == "CAMERON"){
+                    #xx$precinct <- lapply(xx$precinct[], function(x) paste('Precinct ', x))
+                    xx$precinct <- gsub("^","Precinct ",xx$precinct)
+                    xx$office <- gsub("State House","State Representative",xx$office)
                 }
                 else if (toupper(county) == "BAILEY"){
                     nmsxx <- c("county","precinct","office","district","candidate","party",
