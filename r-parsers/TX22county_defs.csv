@@ -7,7 +7,7 @@ Archer,csv,longx,,,,Precinct_name,Contest_title,|District No.| District No.,,can
 Armstrong,pdf,,,,,,,,,,,,,,,,,,,,,,,,
 Atascosa,csv,p*opc,,,,PRECINCT NAME,-1,|Dist|District,-2,-3,,,,,,,,|UNDER VOTES,|OVER VOTES,,,US Representative,State Senator,State Representative,
 Austin,xlsx,long,Sheet1,,Political Subdivision,Precinct Number,Race Name,|Dist|District,|DEM|REP.,Candidate Name,,Early Vote Totals,Election Day Vote Totals,,,,,,,,,US Representative,State Senator,State Representative,One NA precinct (fixed by parser).
-Bailey,xlsx,long,ALL,,POLITICAL SUBDIVISION,PRECINCT NUMBER,RACE NAME,|DIST|DISTRICT,PARTY CODE,CANDIDATE NAME,TOTAL,EARLY VOTES,ELECTION VOTES ,TOTAL PROVISIONAL BALLOTS,TOTAL PROVISIONAL BALLOTS COUNTED,,,,,ALL|REP|DEM sheets,,US REPRESENTATIVE,STATE SENATOR,STATE REPRESENTATIVE,Should names be put in title-case (lowercase with first character of each word capitalized)?
+Bailey,xlsx,long,ALL,,POLITICAL SUBDIVISION,PRECINCT NUMBER,RACE NAME,|DIST|DISTRICT,PARTY CODE,CANDIDATE NAME,TOTAL,EARLY VOTES,ELECTION VOTES ,TOTAL PROVISIONAL BALLOTS,TOTAL PROVISIONAL BALLOTS COUNTED,,,,,,,US REPRESENTATIVE,STATE SENATOR,STATE REPRESENTATIVE,ALL|REP|DEM sheets in spreadsheet; Should names be put in title-case (lowercase with first character of each word capitalized)?
 Bandera,csv,longx,,1,Political Subdivision,#Precinct,Contest Title,|District No.,,Choice Name,,Early Vote Totals,Election Day Vote Totals,Total Provisional Ballots,Total Provisional Ballots Counted,,,,,,,United States Representative,State Senator,State Representative,Headers differ - Early Voting Votes (REP) vs. Early Vote Totals (DEM); Election Day Voting Votes (REP) vs. Election Day Vote Totals (DEM).
 Bastrop,fw263,,,,,,,,,,,,,,,,,,,,,,,,
 Baylor,NA,,,,,,,,,,,,,,,,,,,,,,,,
@@ -15,7 +15,7 @@ Bee,csv,longx,,,political_subdivision,precinct_number,race_name,|District No.,,c
 Bell,NA,,,,,,,,,,,,,,,,,,,,,,,,
 Bexar,csv,p*opc,,,,PRECINCT NAME,-1,|District,-2,-3,,,,,,,,|UNDER VOTES,|OVER VOTES,,,United States Representative,State Senator,State Representative,
 Blanco_skip_for_now,xlsx,c*v,Recovered_Sheet1,,,Precinct…,,|District,,,TOTAL,Early Voting,Election Day,,,,Absentee,,,,,US Representative,State Senator,State Representative,
-Borden,xls,c*p,Sheet1,,,,,|DISTRICT,,,,,,,,,,,,(Senators and Reps only in REPUBLICAN PARTY files),,NA,NA,NA,"U.S. Representative, State Senator, and other items only in 3 Rep files, not in 3 Dem files."
+Borden,xls,c*p,Sheet1,,,,,|DISTRICT,,,,,,,,,,,,,,NA,NA,NA,"U.S. Representative, State Senator, and other items only in 3 Rep files, not in 3 Dem files."
 Bosque,pdf,file by pct,,,,,,,,,,,,,,,,,,,,UNITED STATE REP.,STATE SENATOR,STATE REPRESENTATIVE,
 Bowie,pdf/xlsx,,,,,,,,,,,,,,,,,,,,,,,,
 Brazoria,csv,long,,,political_subdivision,precinct_number,race_name,|District,party_code,candidate_name,,early_votes,election_votes,total provisional ballots,total provisional ballots counted,,,,,,,U. S. Representative,State Senator,State Representative,
