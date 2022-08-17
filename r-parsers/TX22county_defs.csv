@@ -3,30 +3,30 @@ Anderson,fw263,,,,,,,,,,,,,,,,,,,,,,,
 Andrews,fw263,,,,,,,,,,,,,,,,,,,,,,,
 Angelina,fw263,,,,,,,,,,,,,,,,,,,,,,,
 Aransas,pdf,,,,,,,,,,,,,,,,,,,,,,,
-Archer,csv,long,,,,Precinct_name,Contest_title,|District No.| District No.,,candidate_name,total_votes,early_votes,election_votes,,,,,total_under_votes,total_over_votes,y,,United States Representative,State Senator,State Representative
+Archer,csv,longx,,,,Precinct_name,Contest_title,|District No.| District No.,,candidate_name,total_votes,early_votes,election_votes,,,,,total_under_votes,total_over_votes,y,,United States Representative,State Senator,State Representative
 Armstrong,pdf,,,,,,,,,,,,,,,,,,,,,,,
 Atascosa,csv,p*opc,,,,PRECINCT NAME,-1,|Dist|District,-2,-3,,,,,,,,|UNDER VOTES,|OVER VOTES,,,US Representative,State Senator,State Representative
-Austin,xlsx,long,Sheet1,,Political Subdivision,Precinct Number,Race Name,|Dist|District,|DEM|REP.,Candidate Name,,Early Vote Totals,Election Day Vote Totals,Total Provisional Ballots,Total Provisional Ballots Counted,,absentee_votes,,,,,US Representative,State Senator,State Representative
+Austin,xlsx,long,Sheet1,,Political Subdivision,Precinct Number,Race Name,|Dist|District,|DEM|REP.,Candidate Name,,Early Vote Totals,Election Day Vote Totals,,,,,,,,,US Representative,State Senator,State Representative
 Bailey,xlsx,long,ALL,,POLITICAL SUBDIVISION,PRECINCT NUMBER,RACE NAME,|DIST|DISTRICT,PARTY CODE,CANDIDATE NAME,TOTAL,EARLY VOTES,ELECTION VOTES ,TOTAL PROVISIONAL BALLOTS,TOTAL PROVISIONAL BALLOTS COUNTED,,,,,ALL|REP|DEM sheets,,US REPRESENTATIVE,STATE SENATOR,STATE REPRESENTATIVE
-Bandera,csv,long,,1,Political Subdivision,#Precinct,Contest Title,|District No.,,Choice Name,,Early Vote Totals,Election Day Vote Totals,Total Provisional Ballots,Total Provisional Ballots Counted,,,,,,,United States Representative,State Senator,State Representative
+Bandera,csv,longx,,1,Political Subdivision,#Precinct,Contest Title,|District No.,,Choice Name,,Early Vote Totals,Election Day Vote Totals,Total Provisional Ballots,Total Provisional Ballots Counted,,,,,,,United States Representative,State Senator,State Representative
 Bastrop,fw263,,,,,,,,,,,,,,,,,,,,,,,
 Baylor,NA,,,,,,,,,,,,,,,,,,,,,,,
-Bee,csv,long,,,political_subdivision,precinct_number,race_name,|District No.,,candidate_name,,early_votes,election_name (ERROR-use 2nd occurrence or last column),total provisional ballots,total provisonal ballots counted,,,,,,,,,
+Bee,csv,longx,,,political_subdivision,precinct_number,race_name,|District No.,,candidate_name,,early_votes,election_name (ERROR-use 2nd occurrence or last column),total provisional ballots,total provisonal ballots counted,,,,,,,,,
 Bell,NA,,,,,,,,,,,,,,,,,,,,,,,
 Bexar,csv,p*opc,,,,PRECINCT NAME,-1,|District,-2,-3,,,,,,,,|UNDER VOTES,|OVER VOTES,,,United States Representative,State Senator,State Representative
-Blanco,xlsx,c*v,Recovered_Sheet1,,,Precinct…,,|District,,,TOTAL,Early Voting,Election Day,,,,Absentee,,,,,US Representative,State Senator,State Representative
+Blanco_skip_for_now,xlsx,c*v,Recovered_Sheet1,,,Precinct…,,|District,,,TOTAL,Early Voting,Election Day,,,,Absentee,,,,,US Representative,State Senator,State Representative
 Borden,xls,c*p,Sheet1,,,,,|DISTRICT,,,,,,,,,,,,(Senators and Reps only in REPUBLICAN PARTY files),,NA,NA,NA
 Bosque,pdf,file by pct,,,,,,,,,,,,,,,,,,,,UNITED STATE REP.,STATE SENATOR,STATE REPRESENTATIVE
 Bowie,pdf/xlsx,,,,,,,,,,,,,,,,,,,,,,,
 Brazoria,csv,long,,,political_subdivision,precinct_number,race_name,|District,party_code,candidate_name,,early_votes,election_votes,total provisional ballots,total provisional ballots counted,,,,,,,U. S. Representative,State Senator,State Representative
-Brazos,csv,long,,,political_subdivision,precinct_number,race_name,|DISTRICT,,candidate_name,,Early Voting Votes,election_votes,total provisional ballots,total provisional ballots counted,,early_votes,,,,,US REPRESENTATIVE,STATE SENATOR,STATE REPRESENTATIVE
+Brazos,csv,long,,,political_subdivision,precinct_number,race_name,|DISTRICT,election_name,candidate_name,,Early Voting Votes,election_votes,total provisional ballots,total provisional ballots counted,,early_votes,,,,,US REPRESENTATIVE,STATE SENATOR,STATE REPRESENTATIVE
 Brewster,NA,,,,,,,,,,,,,,,,,,,,,,,
 Briscoe,fw179,,,,,,,,,,,,,,,,,,,,,,,
 Brooks,NA,,,,,,,,,,,,,,,,,,,,,,,
 Brown,NA,,,,,,,,,,,,,,,,,,,,,,,
 Burleson,NA,,,,,,,,,,,,,,,,,,,,,,,
 Burnet,NA,,,,,,,,,,,,,,,,,,,,,,,
-Caldwell,NA,,,,,,,,,,,,,,,,,,,,,,,
+Caldwell,NA,,,,,,,,,,,,,,,,,,,,,non,,
 Calhoun,fw263,,,,,,,,,,,,,,,,,,,,,,,
 Callahan,NA,,,,,,,,,,,,,,,,,,,,,,,
 Cameron,fw179(ASC),,,,,,,,,,,,,,,,,,,,,,,
