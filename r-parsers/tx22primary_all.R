@@ -113,28 +113,32 @@ for (f in list){
         #######################################################################
         else if (party != "" & toupper(ext) %in% c(".CSV",".XLSX")){
             dd <- def[toupper(def$counties) == toupper(county),]
+            zdd <<- dd #DEBUG-RM
             if (is.na(dd$desc[1]) | dd$desc[1] == "NA") next
             gotxx <- FALSE
             if (NROW(dd) == 1){
-                if (!is.na(dd$desc2[1]) & dd$desc2[1] == "long"){ # load files only for long format, for now
-                    filename <- paste0(dir,f)
-                    nskip <- 0
-                    if (!is.na(dd$skip[1])){
-                        nskip <- as.numeric(dd$skip[1])
-                    }
-                    nsheet <- 1
-                    if (!is.na(dd$sheet[1])){
-                        nsheet <- dd$sheet[1]
-                    }
+                filename <- paste0(dir,f)
+                nskip <- 0
+                if (!is.na(dd$skip[1])){
+                    nskip <- as.numeric(dd$skip[1])
+                }
+                nsheet <- 1
+                if (!is.na(dd$sheet[1])){
+                    nsheet <- dd$sheet[1]
+                }
+                if (!is.na(dd$desc2[1]) & dd$desc2[1] == "long"){
                     if (toupper(ext) == ".CSV"){
                         vv <- read_csv(filename, col_types = "c", skip = nskip)
                     }
                     else{
                         vv <- read_excel(filename, sheet = nsheet, skip = nskip)
                     }
+                    if (county == "BEE"){
+                        if (grepl("^election_name",names(vv)[11])){
+                            names(vv)[11] <- "election_day_votes"
+                        }
+                    }
                     zvv <<- vv #DEBUG
-                }
-                if (!is.na(dd$desc2[1]) & dd$desc2[1] == "long"){
                     xx <- vv[c(dd$precinct[1],dd$office[1],dd$candidate[1])]
                     names(xx) <- c("precinct","office","candidate")
                     xx$county <- str_to_title(county) # match standard
@@ -201,6 +205,20 @@ for (f in list){
                     }
                     gotxx <- TRUE
                 }
+                else if (!is.na(dd$desc2[1]) & dd$desc2[1] == "opc_hdr"){
+                    if (toupper(ext) == ".CSV"){
+                        #xxparty <- read_delim(filenamex, ' ', col_names = FALSE, n_max = 1)
+                        ohdr <- read_csv(filename, col_names = FALSE, skip = nskip, n_max = 1)
+                        phdr <- read_csv(filename, col_names = FALSE, skip = (nskip+1), n_max = 1)
+                        chdr <- read_csv(filename, col_names = FALSE, skip = (nskip+2), n_max = 1)
+                        vv <- read_csv(filename, col_types = "c", skip = (nskip+2))
+                    }
+                    # else{
+                    #     vv <- read_excel(filename, sheet = nsheet, skip = nskip)
+                    # }
+                    # Additional logic here
+                    gotxx <- FALSE
+                } 
                 else{
                     gotxx <- FALSE
                 }
