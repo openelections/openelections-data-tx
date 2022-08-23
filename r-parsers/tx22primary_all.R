@@ -273,31 +273,33 @@ for (f in list){
             xx$office <- gsub("^Jop ","JOP ",xx$office) # Donley County
             xx$office <- gsub("State Boe","State BoE",xx$office)
             xx$office <- gsub("State Senator","State Senate",xx$office) # Clay County
+            xx$office <- gsub("State Representative","State House",xx$office) # Callahan County
             xx$office <- gsub("^U\\.? ?s\\.? Representative","U.S. House",xx$office, ignore.case = TRUE) # Brazos County
             xx$office <- gsub("^U\\.? ?s\\.? Rep,","U.S. House,",xx$office, ignore.case = TRUE) # Goliad County
             xx$office <- gsub("^United States Representative","U.S. House",xx$office, ignore.case = TRUE) # Guadalupe County
             xx$office <- gsub("^County  Commissioner","County Commissioner",xx$office, ignore.case = TRUE) # Guadalupe County
             
             for (i in 1:NROW(xx)){
-                mm <- str_match(xx$office[i], "U.S. House\\,? Dist\\.?(?:rict)? (\\d+)")
+                mm <- str_match(xx$office[i], "U.S. House\\,? Dist\\.?(?:rict)?(?: No.)? (\\d+)")
                 if(!is.na(mm[1,1])){
                     xx$district[i] <- mm[1,2]
                     xx$office[i] <- "U.S. House"
                     next
                 }
-                mm <- str_match(xx$office[i],"Us Rep(?: \\d+ Us)\\,? Dist\\.?(?:rict)? (\\d+)")
+                mm <- str_match(xx$office[i],"Us Rep(?: \\d+ Us)\\,? Dist\\.?(?:rict)?(?: No.)? (\\d+)")
                 if(!is.na(mm[1,1])){
                     xx$district[i] <- mm[1,2]
                     xx$office[i] <- "U.S. House"
                     next
                 }
-                mm <- str_match(xx$office[i], "State Senate\\,? Dist\\.?(?:rict)? (\\d+)")
+                mm <- str_match(xx$office[i], "State Senate\\,? Dist\\.?(?:rict)?(?: No.)? (\\d+)")
                 if(!is.na(mm[1,1])){
                     xx$district[i] <- mm[1,2]
                     xx$office[i] <- "State Senate"
                     next
                 }
-                mm <- str_match(xx$office[i], "State Representative\\,? Dist\\.?(?:rict)? (\\d+)")
+                #mm <- str_match(xx$office[i], "State Representative\\,? Dist\\.?(?:rict)?(?: No.)? (\\d+)")
+                mm <- str_match(xx$office[i], "State House\\,? *Dist\\.?(?:rict)?(?: No.)? (\\d+)") # Callahan County dbl-space
                 if(!is.na(mm[1,1])){
                     xx$district[i] <- mm[1,2]
                     xx$office[i] <- "State House"
