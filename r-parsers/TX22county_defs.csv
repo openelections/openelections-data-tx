@@ -11,7 +11,7 @@ done,Bailey,xlsx,long,ALL,,POLITICAL SUBDIVISION,PRECINCT NUMBER,RACE NAME,|DIST
 done,Bandera,csv,longx,,1,Political Subdivision,#Precinct,Contest Title,|District No.,,Choice Name,,Early Vote Totals,Election Day Vote Totals,Total Provisional Ballots,Total Provisional Ballots Counted,,,,,,,United States Representative,State Senator,State Representative,Headers differ - Early Voting Votes (REP) vs. Early Vote Totals (DEM); Election Day Voting Votes (REP) vs. Election Day Vote Totals (DEM).
 done,Bastrop,fw263,,,,,,,,,,,,,,,,,,,,,,,,
 ,Baylor,xlsx,long,,,,,,,,,,,,,,,,,,,,,,,In file pctcpct_dataentry_20220328-0840.xlsx
-,Bee,csv,long,,,political_subdivision,precinct_number,race_name,|District No.,,candidate_name,,early_votes,election_day_votes,total provisional ballots,total provisonal ballots counted,,,,,,,,,,election_day_votes are the 2nd column labeled election_name. This would likely be mishandled by many parsers. This parser renames the column to election_day_votes.
+,Bee,csv,long,,,political_subdivision,precinct_number,race_name,|District No.,,candidate_name,,early_votes,election_day_votes,total provisional ballots,total provisonal ballots counted,,,,,,,,,,"election_day_votes are the 2nd column labeled election_name. This would likely be mishandled by many parsers. This parser renames the column to election_day_votes. Also, there is no indication of party (i.e., of Beto O'Rourke vs. Greg Abbott)."
 ,Bell,NA,,,,,,,,,,,,,,,,,,,,,,,,
 ,Bexar,csv,opc_hdr,,,,4,1,|District,2,3,5,,,,,,,|UNDER VOTES,|OVER VOTES,,,United States Representative,State Senator,State Representative,"Comparing TX SOS file of 8/22/22 to posting at https://www.bexar.org/DocumentCenter/View/33016/March-1-2022-Precinct-by-Precinct-Report-PDF , file appears to be missing Election Day votes; also, unclear what type of vote some lines of file represents"
 ,Blanco_skip_for_now,xlsx,c*v,Recovered_Sheet1,,,Precinct…,,|District,,,TOTAL,Early Voting,Election Day,,,,Absentee,,,,,US Representative,State Senator,State Representative,
@@ -24,11 +24,11 @@ done,Brazos,csv,long,,,political_subdivision,precinct_number,race_name,|DISTRICT
 done,Briscoe,fw179,,,,,,,,,,,,,,,,,,,,,,,,
 ,Brooks,pdf,,,,,,,,,,,,,,,,,,,,,,,,
 ,Brown,csv,,,,,,,,,,,,,,,,,,,,,,,,Confusing labels like Textbox25 and ID1__Votes.
-,Burleson,NA,,,,,,,,,,,,,,,,,,,,,,,,
+,Burleson,csv,,,,,,,,,,,,,,,,,,,,,,,,Confusing labels like Textbox25 and ID1__Votes.
 ,Burnet,NA,,,,,,,,,,,,,,,,,,,,,,,,
-,Caldwell,NA,,,,,,,,,,,,,,,,,,,,,non,,,
+,Caldwell,CSV,opc_hdr,,,,,,,,,,,,,,,,,,,,,,,
 done,Calhoun,fw263,,,,,,,,,,,,,,,,,,,,,,,,
-,Callahan,NA,,,,,,,,,,,,,,,,,,,,,,,,
+done,Callahan,CSV,long,,1,,Precinct ID,Contest Title,|District No.,Contest Party,Choice Name,Total Votes,Early Voting Votes,Election Day Voting Votes,,,,Absentee Voting Votes,,,yes,,,,,
 done,Cameron,fw179(ASC),,,,,,,,,,,,,,,,,,,,,,,,
 ,Camp,NA,,,,,,,,,,,,,,,,,,,,,,,,
 done,Carson,fw179,,,,,,,,,,,,,,,,,,,,,,,,
