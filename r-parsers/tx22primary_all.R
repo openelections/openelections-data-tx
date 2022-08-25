@@ -378,6 +378,11 @@ for (f in list){
                     }
                 }
             }
+            if (toupper(county) == "CAMERON"){ # fixes to match current file
+                xx$party[grepl("^Ballots Cast - Blank$",xx$office)] <- party
+                xx <- xx[xx$office != "Ballots Cast" | xx$party != "",] # exclude if no party
+                xx <- xx[xx$office != "Registered Voters" | party != "DEM",] # include only in REP file
+            }
             zxx <<- xx #DEBUG
             # tests to replicate prior files
             test_replicates <- FALSE
@@ -388,10 +393,19 @@ for (f in list){
                                "early_voting","election_day","votes")
                     xx <- xx[nmsxx]
                 }
+                else if (toupper(county) == "CALHOUN"){
+                    #xx$precinct <- lapply(xx$precinct[], function(x) paste('Precinct ', x))
+                    xx$precinct <- gsub("^","Precinct ",xx$precinct)
+                    xx$office <- gsub("State House","State Representative",xx$office)
+                    xx$office <- gsub("State Senate","State Senator",xx$office)
+                    xx$office <- gsub("Crim Dist Attorney, Calhoun County","REP Crim Dist Attorney, Calhoun County",xx$office) # add REP
+                }
                 else if (toupper(county) == "CAMERON"){
                     #xx$precinct <- lapply(xx$precinct[], function(x) paste('Precinct ', x))
                     xx$precinct <- gsub("^","Precinct ",xx$precinct)
                     xx$office <- gsub("State House","State Representative",xx$office)
+                    xx$office <- gsub("Ballots Cast - Blank","BALLOTS CAST - BLANK",xx$office)
+                    
                 }
                 else if (toupper(county) == "BAILEY"){
                     nmsxx <- c("county","precinct","office","district","candidate","party",
