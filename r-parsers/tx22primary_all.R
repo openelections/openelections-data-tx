@@ -243,8 +243,9 @@ for (f in list){
             xx$party[xx$party == "(R)"] <- "REP" # El Paso County
             xx$party[grepl("^Democratic",xx$party, ignore.case = TRUE)] <- "DEM" #Brazos County
             xx$party[grepl("^Republican",xx$party, ignore.case = TRUE)] <- "REP" #Brazos County
+            xx$office <- str_squish(xx$office) # change all multiple spaces to a single space
             xx$office <- str_to_title(xx$office)
-            
+
             xx$office[xx$office == "Registered Voters - Total"] <- "Registered Voters"
             xx$candidate[grepl("^REGISTERED VOTERS",xx$candidate,ignore.case = TRUE)] <- ""
             
@@ -277,8 +278,7 @@ for (f in list){
             xx$office <- gsub("^U\\.? ?s\\.? Representative","U.S. House",xx$office, ignore.case = TRUE) # Brazos County
             xx$office <- gsub("^U\\.? ?s\\.? Rep,","U.S. House,",xx$office, ignore.case = TRUE) # Goliad County
             xx$office <- gsub("^United States Representative","U.S. House",xx$office, ignore.case = TRUE) # Guadalupe County
-            xx$office <- gsub("^County  Commissioner","County Commissioner",xx$office, ignore.case = TRUE) # Guadalupe County
-            
+
             for (i in 1:NROW(xx)){
                 mm <- str_match(xx$office[i], "U.S. House\\,? Dist\\.?(?:rict)?(?: No.)? (\\d+)")
                 if(!is.na(mm[1,1])){
@@ -299,7 +299,7 @@ for (f in list){
                     next
                 }
                 #mm <- str_match(xx$office[i], "State Representative\\,? Dist\\.?(?:rict)?(?: No.)? (\\d+)")
-                mm <- str_match(xx$office[i], "State House\\,? *Dist\\.?(?:rict)?(?: No.)? (\\d+)") # Callahan County dbl-space
+                mm <- str_match(xx$office[i], "State House\\,? Dist\\.?(?:rict)?(?: No.)? (\\d+)") # Callahan County dbl-space
                 if(!is.na(mm[1,1])){
                     xx$district[i] <- mm[1,2]
                     xx$office[i] <- "State House"
