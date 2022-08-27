@@ -383,6 +383,10 @@ for (f in list){
                 xx <- xx[xx$office != "Ballots Cast" | xx$party != "",] # exclude if no party
                 xx <- xx[xx$office != "Registered Voters" | party != "DEM",] # include only in REP file
             }
+            else if (toupper(county) == "COLEMAN"){ # fixes to match current file
+                xx <- xx[xx$office != "Ballots Cast - Blank",]
+                xx <- xx[xx$office != "Registered Voters" | party != "REP",] # include only in DEM file
+            }
             zxx <<- xx #DEBUG
             # tests to replicate prior files
             test_replicates <- FALSE
@@ -406,6 +410,20 @@ for (f in list){
                     xx$office <- gsub("State House","State Representative",xx$office)
                     xx$office <- gsub("Ballots Cast - Blank","BALLOTS CAST - BLANK",xx$office)
                     
+                }
+                else if (toupper(county) == "CARSON"){
+                    xx$precinct <- gsub("^","Precinct ",xx$precinct)
+                    xx$office <- gsub("State House","State Representative",xx$office)
+                }
+                else if (toupper(county) == "CLAY"){
+                    xx$precinct <- gsub("^","Precinct ",xx$precinct)
+                    xx$office <- gsub("State House","State Representative",xx$office)
+                    xx$office <- gsub("Ballots Cast - Blank","BALLOTS CAST - BLANK",xx$office)
+                }
+                else if (toupper(county) == "COLEMAN"){
+                    xx$precinct <- gsub("^","Precinct ",xx$precinct)
+                    xx$office <- gsub("State House","State Representative",xx$office)
+                    #xx$office <- gsub("Ballots Cast - Blank","BALLOTS CAST - BLANK",xx$office)
                 }
                 else if (toupper(county) == "BAILEY"){
                     nmsxx <- c("county","precinct","office","district","candidate","party",
