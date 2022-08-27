@@ -131,7 +131,7 @@ for (f in list){
                         vv <- read_csv(filename, col_types = "c", skip = nskip)
                     }
                     else{
-                        vv <- read_excel(filename, sheet = nsheet, skip = nskip)
+                        vv <- read_excel(filename, sheet = nsheet, col_types = "text", skip = nskip)
                     }
                     if (county == "BEE"){
                         if (grepl("^election_name",names(vv)[11])){
@@ -370,6 +370,8 @@ for (f in list){
             ipna <- which(is.na(xx$precinct))
             lpna <- length(ipna)
             if (lpna > 0){
+                zipna <<- ipna #DEBUG
+                zlpna <<- lpna #DEBUG
                 for (i in 1:lpna){
                     if (ipna[i] > 1 & ipna[i] < NROW(xx)){
                         if (xx$precinct[ipna[i]-1] == xx$precinct[ipna[i]+1]){
