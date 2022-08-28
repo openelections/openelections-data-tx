@@ -30,6 +30,9 @@ dir <- "..\\2022- 1 March Primary PctxPct\\"
 ###############################################################################
 match_county <- "" # set to county in upper case (like "EL PASO") to limit search; set to "" to search all counties
 
+if (!file.exists("TX22county_defs.csv")){
+    setwd("./r-parsers")
+}
 def <- read_csv("TX22county_defs.csv")
 
 # Use PopulationEstimates.csv to get county names
@@ -109,9 +112,9 @@ for (f in list){
             }
         }
         #######################################################################
-        # Check for all known csv and xlsx formats
+        # Check for all known csv, xlsx and xls formats
         #######################################################################
-        else if (party != "" & toupper(ext) %in% c(".CSV",".XLSX")){
+        else if (party != "" & toupper(ext) %in% c(".CSV",".XLSX",".XLS")){
             dd <- def[toupper(def$counties) == toupper(county),]
             zdd <<- dd #DEBUG-RM
             if (is.na(dd$desc[1]) | dd$desc[1] == "NA") next
