@@ -246,8 +246,10 @@ for (f in list){
             xx$party[xx$party == "(R)"] <- "REP" # El Paso County
             xx$party[grepl("^Democratic",xx$party, ignore.case = TRUE)] <- "DEM" #Brazos County
             xx$party[grepl("^Republican",xx$party, ignore.case = TRUE)] <- "REP" #Brazos County
+            xx$candidate <- str_squish(xx$candidate) # change all multiple spaces to a single space - Ellis County
             xx$office <- str_squish(xx$office) # change all multiple spaces to a single space
             xx$office <- str_to_title(xx$office)
+            gsub
 
             xx$office[xx$office == "Registered Voters - Total"] <- "Registered Voters"
             xx$candidate[grepl("^REGISTERED VOTERS",xx$candidate,ignore.case = TRUE)] <- ""
@@ -263,6 +265,8 @@ for (f in list){
             xx$party[grepl("^\\(D\\) ",xx$office, ignore.case = TRUE)] <- "DEM" # El Paso County
             xx$party[grepl("^Rep ",xx$office, ignore.case = TRUE)] <- "REP"
             xx$party[grepl("^Dem ",xx$office, ignore.case = TRUE)] <- "DEM"
+            xx$office <- gsub(" \\(R\\)$","",xx$office, ignore.case = TRUE) # Hays County
+            xx$office <- gsub(" \\(D\\)$","",xx$office, ignore.case = TRUE) # Hays County
             xx$office <- gsub("^\\(R\\) ","",xx$office, ignore.case = TRUE) # El Paso County
             xx$office <- gsub("^\\(D\\) ","",xx$office, ignore.case = TRUE) # El Paso County
             xx$office <- gsub("^Rep\\.? ","",xx$office, ignore.case = TRUE)
@@ -392,6 +396,11 @@ for (f in list){
                 xx <- xx[xx$office != "Ballots Cast - Blank",]
                 xx <- xx[xx$office != "Registered Voters" | party != "REP",] # include only in DEM file
             }
+            else if (toupper(county) == "ELLIS"){ # fixes to match current file
+                xx <- xx[xx$office != "Registered Voters - Democratic Party",] # exclude DEM registered voters
+                xx$party[xx$office == "Registered Voters - Republican Party"] <- "" 
+                xx$office[xx$office == "Registered Voters - Republican Party"] <- "Registered Voters" 
+            }
             zxx <<- xx #DEBUG
             # tests to replicate prior files
             test_replicates <- FALSE
@@ -401,6 +410,20 @@ for (f in list){
                     nmsxx <- c("county","precinct","office","district","candidate","party",
                                "early_voting","election_day","votes")
                     xx <- xx[nmsxx]
+                }
+                else if (toupper(county) == "BAILEY"){
+                    nmsxx <- c("county","precinct","office","district","candidate","party",
+                               "early_voting","election_day","provisional","votes")
+                    xx <- xx[nmsxx]
+                    xx <- xx[-which(names(xx) == "provisional")] #DEBUG-DUPLICATE
+                    xx$office <- toupper(xx$office)
+                    xx$office <- gsub("U.S. HOUSE","U.S. House",xx$office)
+                    xx$office <- gsub("COMM GENERAL LAND OFFICE","COMM GENERAL LAND OFFICE ",xx$office)
+                    xx$candidate <- gsub("KEN PAXTON","KEN PAXTON ",xx$candidate)
+                    xx$candidate <- gsub("JAMES WHITE","JAMES WHITE ",xx$candidate)
+                    xx$candidate <- gsub("JOY DIAZ","JOY DIAZ ",xx$candidate)
+                    xx$office <- gsub("STATE SENATE","State Senate",xx$office)
+                    xx$office <- gsub("STATE HOUSE","State Representative",xx$office)
                 }
                 else if (toupper(county) == "CALHOUN"){
                     #xx$precinct <- lapply(xx$precinct[], function(x) paste('Precinct ', x))
@@ -430,19 +453,8 @@ for (f in list){
                     xx$office <- gsub("State House","State Representative",xx$office)
                     #xx$office <- gsub("Ballots Cast - Blank","BALLOTS CAST - BLANK",xx$office)
                 }
-                else if (toupper(county) == "BAILEY"){
-                    nmsxx <- c("county","precinct","office","district","candidate","party",
-                               "early_voting","election_day","provisional","votes")
-                    xx <- xx[nmsxx]
-                    xx <- xx[-which(names(xx) == "provisional")] #DEBUG-DUPLICATE
-                    xx$office <- toupper(xx$office)
-                    xx$office <- gsub("U.S. HOUSE","U.S. House",xx$office)
-                    xx$office <- gsub("COMM GENERAL LAND OFFICE","COMM GENERAL LAND OFFICE ",xx$office)
-                    xx$candidate <- gsub("KEN PAXTON","KEN PAXTON ",xx$candidate)
-                    xx$candidate <- gsub("JAMES WHITE","JAMES WHITE ",xx$candidate)
-                    xx$candidate <- gsub("JOY DIAZ","JOY DIAZ ",xx$candidate)
-                    xx$office <- gsub("STATE SENATE","State Senate",xx$office)
-                    xx$office <- gsub("STATE HOUSE","State Representative",xx$office)
+                else if (toupper(county) == "ELLIS"){
+                    xx$office <- gsub("State House","State Representative",xx$office)
                 }
             }
             write_csv(xx, file_csv)
