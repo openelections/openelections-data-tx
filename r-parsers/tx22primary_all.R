@@ -211,16 +211,94 @@ for (f in list){
                 else if (!is.na(dd$desc2[1]) & dd$desc2[1] == "opc_hdr"){
                     if (toupper(ext) == ".CSV"){
                         #xxparty <- read_delim(filenamex, ' ', col_names = FALSE, n_max = 1)
-                        ohdr <- read_csv(filename, col_names = FALSE, skip = nskip, n_max = 1)
-                        phdr <- read_csv(filename, col_names = FALSE, skip = (nskip+1), n_max = 1)
-                        chdr <- read_csv(filename, col_names = FALSE, skip = (nskip+2), n_max = 1)
+                        #hdr usually ordered by office, party, candidate
+                        oskip <- as.numeric(dd$office[1]) + nskip - 1
+                        pskip <- as.numeric(dd$party[1]) + nskip - 1
+                        cskip <- as.numeric(dd$candidate[1]) + nskip - 1
+                        ohdr <- read_csv(filename, col_names = FALSE, skip = oskip, n_max = 1)
+                        phdr <- read_csv(filename, col_names = FALSE, skip = pskip, n_max = 1)
+                        chdr <- read_csv(filename, col_names = FALSE, skip = cskip, n_max = 1)
+                        col1 <- as.numeric(dd$votes[1])
+                        office    <- as.character(ohdr[1,col1:NCOL(ohdr)])
+                        party     <- as.character(phdr[1,col1:NCOL(phdr)])
+                        candidate <- as.character(chdr[1,col1:NCOL(chdr)])
+                        #candidate <- candidate[!is.na(candidate)]
                         vv <- read_csv(filename, col_types = "c", skip = (nskip+2))
+                        xx <- data.frame(office,party,candidate)
+                        xx$county <- county
+                        xx$precinct <- NA
+                        xx$district <- NA
+                        xx$votes <- 0
+                        xx <- xx[,c("county","precinct","office","district","party","candidate","votes")]
+                        colname <- NULL
+                        colindx <- NULL
+                        xvotes <- FALSE
+                        if (!is.na(dd$absentee[1])){
+                            iabsentee <- as.numeric(dd$absentee[1])
+                            xx$absentee <- 0
+                            colname <- c(colname, "absentee")
+                            colindx <- c(colindx, iabsentee)
+                            xvotes <- TRUE
+                        }
+                        if (!is.na(dd$early_voting[1])){
+                            iearly_voting <- as.numeric(dd$early_voting[1])
+                            xx$early_voting <- 0
+                            colname <- c(colname, "early_voting")
+                            colindx <- c(colindx, iearly_voting)
+                            xvotes <- TRUE
+                        }
+                        if (!is.na(dd$election_day[1])){
+                            ielection_day <- as.numeric(dd$election_day[1])
+                            xx$election_day <- 0
+                            colname <- c(colname, "election_day")
+                            colindx <- c(colindx, ielection_day)
+                            xvotes <- TRUE
+                        }
+                        if (!is.na(dd$provisional_counted[1])){
+                            iprovisional <- as.numeric(dd$provisional_counted[1])
+                            xx$provisional <- 0
+                            colname <- c(colname, "provisional")
+                            colindx <- c(colindx, iprovisional)
+                            xvotes <- TRUE
+                        }
+                        j <- 1
+                        last_precinct <- ""
+                        iprecinct <- dd$precinct[1]
+                        yy <- NULL
+                        vv <- vv[vv[,as.numeric(iprecinct)] != "COUNTY TOTALS",]
+                        for (i in 1:NROW(vv)){
+                            precinct <- vv[i, as.numeric(iprecinct)]
+                            if (last_precinct != precinct){
+                                j <- 1
+                                if (i > 1){
+                                    xx$precinct <- as.character(last_precinct)
+                                    if (is.null(yy)){
+                                        yy <- xx
+                                    }
+                                    else{
+                                        yy <- rbind(yy,xx)
+                                    }
+                                    xx$votes <- 0
+                                }
+                                last_precinct <- precinct
+                            }
+                            #xx$precinct <- precinct
+                            voteinfo <- as.character(vv[i,col1:NCOL(vv)])
+                            xx[[colname[which(colindx == j)]]] <- voteinfo
+                            xx$votes <- xx$votes + as.numeric(voteinfo)
+                            j <- j+1
+                        }
+                        xx$precinct <- as.character(last_precinct)
+                        yy <- rbind(yy,xx)
                     }
                     # else{
                     #     vv <- read_excel(filename, sheet = nsheet, skip = nskip)
                     # }
                     # Additional logic here
-                    gotxx <- FALSE
+                    yy <- yy[!is.na(yy$votes),]
+                    zyy <<- yy #DEBUG-RM
+                    xx <- yy
+                    gotxx <- TRUE
                 } 
                 else{
                     gotxx <- FALSE
