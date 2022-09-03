@@ -116,6 +116,12 @@ for (f in list){
         #######################################################################
         else if (party != "" & toupper(ext) %in% c(".CSV",".XLSX",".XLS")){
             dd <- def[toupper(def$counties) == toupper(county),]
+            if (toupper(county) == "BANDERA"){ # DEM and REP don't match
+                if (party == "REP"){
+                    dd$early_voting[1] <- "Early Voting Votes"
+                    dd$election_day[1] <- "Election Day Voting Votes"
+                }
+            }
             zdd <<- dd #DEBUG-RM
             if (is.na(dd$desc[1]) | dd$desc[1] == "NA") next
             gotxx <- FALSE
@@ -502,6 +508,12 @@ for (f in list){
                     xx$candidate <- gsub("JOY DIAZ","JOY DIAZ ",xx$candidate)
                     xx$office <- gsub("STATE SENATE","State Senate",xx$office)
                     xx$office <- gsub("STATE HOUSE","State Representative",xx$office)
+                }
+                else if (toupper(county) == "BANDERA"){
+                    cols <- c("county","party","precinct","office","district","candidate",
+                              "early_voting","election_day","votes")
+                    xx <- xx[,cols]
+                    xx$office <- gsub("State House","State Representative",xx$office)
                 }
                 else if (toupper(county) == "CALHOUN"){
                     #xx$precinct <- lapply(xx$precinct[], function(x) paste('Precinct ', x))
