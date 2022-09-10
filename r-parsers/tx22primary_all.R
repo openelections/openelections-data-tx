@@ -214,6 +214,140 @@ for (f in list){
                     }
                     gotxx <- TRUE
                 }
+                else if (!is.na(dd$desc2[1]) & dd$desc2[1] == "mtab_oc"){
+                    col0 <- 3 #start column of 1st candidate
+                    ncol <- 5 #columns per candidate
+                    skip0 <- 2 #number of rows to skip to read candidates
+                    tt <- read_excel(filename, sheet = nsheet, col_types = "text", skip = nskip)
+                    yy <- NULL
+                    if (toupper(county) == "DALLAS"){
+                        vv <- read_excel(filename, sheet = "Registered Voters", col_types = "text",
+                                         skip = 0)
+                        xx <- data.frame(vv$Precinct)
+                        names(xx)[1] <- "precinct"
+                        xx$county <- str_to_title(county)
+                        xx$office <- "Registered Voters"
+                        xx$district <- ""
+                        xx$party <- party
+                        xx$candidate <- ""
+                        xx$votes <- vv$`Registered Voters`
+                        xx$absentee <- ""
+                        xx$early_voting <- ""
+                        xx$election_day <- ""
+                        xx$provisional <- ""
+                        nmsxx <- c("county","precinct","office","district","party","candidate","votes",
+                                  "absentee","early_voting","election_day","provisional")
+                        yy <- xx[nmsxx]
+                        
+                        xx$office <- "Ballots Cast"
+                        xx$district <- ""
+                        xx$party <- party
+                        xx$candidate <- ""
+                        xx$votes <- vv$`Ballots Cast`
+                        xx$absentee <- vv$`EV Mail`
+                        xx$early_voting <- vv$`EV In-person`
+                        xx$election_day <- vv$`Election Day`
+                        xx$provisional <- vv$`PROV/EV/ED`
+                        yy <- rbind(yy, xx)
+                    }
+                    for (i in 1:NROW(tt)){
+                        if (tt$Contest[i] == "Registered Voters"){
+                            next #do separately for both parties
+                        }
+                        roff <- read_excel(filename, sheet = tt$Page[i], col_types = "text",
+                                           skip = (as.numeric(dd$office[1])-1), n_max = 1)
+                        rcan <- read_excel(filename, sheet = tt$Page[i], col_types = "text",
+                                           skip = (as.numeric(dd$candidate[1])-1), n_max = 1)
+                        vv <- read_excel(filename, sheet = tt$Page[i], col_types = "text",
+                                         skip = skip0)
+                        zvv <<- vv #DEBUG-RM
+                        precinct <- vv[,as.numeric(dd$precinct[1])]
+                        j <- 3
+                        while(names(vv)[j] != "Total"){ #no more candidates
+                            xx <- data.frame(precinct)
+                            names(xx)[1] <- "precinct"
+                            xx$county <- str_to_title(county)
+                            office1 <- names(roff)[1]
+                            office1 <- gsub(" \\(Vote For \\d+\\)","",office1,ignore.case = TRUE)
+                            xx$office <- office1
+                            xx$district <- ""
+                            xx$party <- party
+                            xx$candidate <- names(rcan)[j]
+                            #print(paste0("Candidate=",names(rcan)[j])) #DEBUG-RM
+                            nmsxx <- c("county","precinct","office","district","party","candidate")
+                            xx <- xx[nmsxx]
+                            xvotes <- FALSE
+                            ivotes        <- as.numeric(dd$votes[1])+j-1
+                            iabsentee     <- as.numeric(dd$absentee[1])+j-1
+                            iearly_voting <- as.numeric(dd$early_voting[1])+j-1
+                            ielection_day <- as.numeric(dd$election_day[1])+j-1
+                            iprovisional  <- as.numeric(dd$provisional_counted[1])+j-1
+                            xx$votes <- as.numeric(vv[[ivotes]])
+                            if (!is.na(iabsentee)){
+                                xx$absentee <- as.numeric(vv[[iabsentee]])
+                                xx$absentee[is.na(xx$absentee)] <- 0
+                                xx$votes <- xx$votes + xx$absentee
+                                got_absentee <- TRUE
+                                xvotes <- TRUE
+                            }
+                            else{
+                                xx$absentee <- 0
+                                got_absentee <- FALSE
+                            }
+                            if (!is.na(iearly_voting)){
+                                xx$early_voting <- as.numeric(vv[[iearly_voting]])
+                                xx$early_voting[is.na(xx$early_voting)] <- 0
+                                xx$votes <- xx$votes + xx$early_voting
+                                got_early_voting <- TRUE
+                                xvotes <- TRUE
+                            }
+                            else{
+                                xx$early_voting <- 0
+                                got_early_voting <- FALSE
+                            }
+                            if (!is.na(ielection_day)){
+                                xx$election_day <- as.numeric(vv[[ielection_day]])
+                                xx$election_day[is.na(xx$election_day)] <- 0
+                                xx$votes <- xx$votes + xx$election_day
+                                got_election_day <- TRUE
+                                xvotes <- TRUE
+                            }
+                            else{
+                                xx$election_day <- 0
+                                got_election_day <- FALSE
+                            }
+                            if (!is.na(iprovisional)){
+                                xx$provisional <- as.numeric(vv[[iprovisional]])
+                                xx$provisional[is.na(xx$provisional)] <- 0
+                                xx$votes <- xx$votes + xx$provisional
+                                got_provisional <- TRUE
+                                xvotes <- TRUE
+                            }
+                            else{
+                                xx$provisional <- 0
+                                got_provisional <- FALSE
+                            }
+                            if (!is.na(ivotes)){
+                                xx$votes <- vv[[ivotes]]
+                                got_votes <- TRUE
+                            }
+                            gotxx <- TRUE
+                            zdal <<- xx #DEBUG-RM
+                            j <- j+5
+                        }
+                        xx <- xx[xx$precinct != "Total:",]
+                        if (is.null(yy)){
+                            yy <- xx
+                        }
+                        else{
+                            yy <- rbind(yy, xx)
+                        }
+                    }
+                    zyy <- yy #DEBUG-RM
+                    ztt <<- tt #DEBUG-RM
+                    xx <- yy
+                    gotxx <- TRUE
+                }
                 else if (!is.na(dd$desc2[1]) & dd$desc2[1] == "opc_hdr"){
                     if (toupper(ext) == ".CSV"){
                         #xxparty <- read_delim(filenamex, ' ', col_names = FALSE, n_max = 1)
@@ -317,8 +451,12 @@ for (f in list){
                 gotxx <- FALSE
             }
         }
-        gxx1 <<- xx #DEBUG-RM
+        else{
+            #print(paste0("SKIP ",f))
+            gotxx <- FALSE
+        }
         if (gotxx){
+            gxx1 <<- xx #DEBUG-RM
             file_csv <- paste0(dir,"out/",f)
             file_csv <- gsub(ext,".csv",file_csv)
             f_std <- paste0("20220301__tx__primary__",tolower(county0),"__precinct.csv")
@@ -366,10 +504,12 @@ for (f in list){
             xx$office <- gsub("State Boe","State BoE",xx$office)
             xx$office <- gsub("State Senator","State Senate",xx$office) # Clay County
             xx$office <- gsub("State Representative","State House",xx$office) # Callahan County
+            xx$office <- gsub("State Rep\\.?","State House",xx$office) # Dallas County
             xx$office <- gsub("^U\\.? ?s\\.? Representative","U.S. House",xx$office, ignore.case = TRUE) # Brazos County
             xx$office <- gsub("^U\\.? ?s\\.? Rep,","U.S. House,",xx$office, ignore.case = TRUE) # Goliad County
             xx$office <- gsub("^United States Representative","U.S. House",xx$office, ignore.case = TRUE) # Guadalupe County
-
+            xx$office <- gsub("^U\\.s\\. Congressional","U.S. House",xx$office, ignore.case = TRUE) # Dallas County
+            
             for (i in 1:NROW(xx)){
                 mm <- str_match(xx$office[i], "U.S. House\\,? Dist\\.?(?:rict)?(?: No.)? (\\d+)")
                 if(!is.na(mm[1,1])){
