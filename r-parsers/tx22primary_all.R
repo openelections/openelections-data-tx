@@ -333,14 +333,14 @@ for (f in list){
                             }
                             gotxx <- TRUE
                             zdal <<- xx #DEBUG-RM
+                            xx <- xx[xx$precinct != "Total:",]
+                            if (is.null(yy)){
+                                yy <- xx
+                            }
+                            else{
+                                yy <- rbind(yy, xx)
+                            }
                             j <- j+5
-                        }
-                        xx <- xx[xx$precinct != "Total:",]
-                        if (is.null(yy)){
-                            yy <- xx
-                        }
-                        else{
-                            yy <- rbind(yy, xx)
                         }
                     }
                     zyy <- yy #DEBUG-RM
