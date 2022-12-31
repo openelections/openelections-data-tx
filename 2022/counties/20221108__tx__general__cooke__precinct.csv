@@ -1,26 +1,715 @@
-county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day,mail,provisional
-Bexar,144,Na,NA,"NA","NA",20,0,0,20,0,0
-Bexar,144,Na,NA,"NA","NA",364,0,0,364,0,0
-Bexar,0,Na,NA,"NA","NA",0,0,0,0,0,0
-Bexar,0,Na,NA,"NA","NA",0,0,0,0,0,0
-Bexar,18.59%,Na,NA,"NA","NA",37,0,0,37,0,0
-Bexar,18.59%,Na,NA,"NA","NA",2,0,0,2,0,0
-Bexar,18.59%,Na,NA,"NA","NA",56,0,0,56,0,0
-Bexar,81.41%,Na,NA,"NA","NA",99,0,0,99,0,0
-Bexar,81.41%,Na,NA,"NA","NA",18,0,0,18,0,0
-Bexar,81.41%,Na,NA,"NA","NA",299,0,0,299,0,0
-Bexar,100.00%,Na,NA,"NA","NA",136,0,0,136,0,0
-Bexar,100.00%,Na,NA,"NA","NA",20,0,0,20,0,0
-Bexar,100.00%,Na,NA,"NA","NA",355,0,0,355,0,0
-Bexar,16.98%,Na,NA,"NA","NA",34,0,0,34,0,0
-Bexar,16.98%,Na,NA,"NA","NA",3,0,0,3,0,0
-Bexar,16.98%,Na,NA,"NA","NA",52,0,0,52,0,0
-Bexar,81.30%,Na,NA,"NA","NA",104,0,0,104,0,0
-Bexar,81.30%,Na,NA,"NA","NA",17,0,0,17,0,0
-Bexar,81.30%,Na,NA,"NA","NA",305,0,0,305,0,0
-Bexar,0.95%,Na,NA,"NA","NA",1,0,0,1,0,0
-Bexar,0.95%,Na,NA,"NA","NA",0,0,0,0,0,0
-Bexar,0.95%,Na,NA,"NA","NA",4,0,0,4,0,0
-Bexar,0.76%,Na,NA,"NA","NA",3,0,0,3,0,0
-Bexar,0.76%,Na,NA,"NA","NA",0,0,0,0,0,0
-Bexar,0.76%,Na,NA,"NA","NA",1,0,0,1,0,0
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day,provisional
+Cooke,1,U.S. House,26,REP,Michael C. Burgess,235,7,137,73,18
+Cooke,1C,U.S. House,26,REP,Michael C. Burgess,1365,50,817,480,18
+Cooke,2,U.S. House,26,REP,Michael C. Burgess,527,21,283,205,18
+Cooke,3,U.S. House,26,REP,Michael C. Burgess,423,8,222,175,18
+Cooke,4,U.S. House,26,REP,Michael C. Burgess,204,6,115,65,18
+Cooke,4C,U.S. House,26,REP,Michael C. Burgess,865,32,468,347,18
+Cooke,6,U.S. House,26,REP,Michael C. Burgess,1191,26,556,591,18
+Cooke,7,U.S. House,26,REP,Michael C. Burgess,813,13,425,357,18
+Cooke,8,U.S. House,26,REP,Michael C. Burgess,585,8,286,273,18
+Cooke,10,U.S. House,26,REP,Michael C. Burgess,1229,27,607,577,18
+Cooke,11,U.S. House,26,REP,Michael C. Burgess,1252,14,557,663,18
+Cooke,12,U.S. House,26,REP,Michael C. Burgess,703,9,243,433,18
+Cooke,17,U.S. House,26,REP,Michael C. Burgess,354,5,86,245,18
+Cooke,18,U.S. House,26,REP,Michael C. Burgess,1141,14,275,834,18
+Cooke,21,U.S. House,26,REP,Michael C. Burgess,861,14,290,539,18
+Cooke,22,U.S. House,26,REP,Michael C. Burgess,1410,34,662,696,18
+Cooke,33,U.S. House,26,REP,Michael C. Burgess,298,2,124,154,18
+Cooke,1,"Lib Us Representative, District 26",,,Mike Kolls,48,1,18,11,18
+Cooke,1C,"Lib Us Representative, District 26",,,Mike Kolls,343,20,186,119,18
+Cooke,2,"Lib Us Representative, District 26",,,Mike Kolls,191,7,86,80,18
+Cooke,3,"Lib Us Representative, District 26",,,Mike Kolls,52,1,21,12,18
+Cooke,4,"Lib Us Representative, District 26",,,Mike Kolls,39,2,10,9,18
+Cooke,4C,"Lib Us Representative, District 26",,,Mike Kolls,206,15,98,75,18
+Cooke,6,"Lib Us Representative, District 26",,,Mike Kolls,114,5,54,37,18
+Cooke,7,"Lib Us Representative, District 26",,,Mike Kolls,92,3,40,31,18
+Cooke,8,"Lib Us Representative, District 26",,,Mike Kolls,68,2,27,21,18
+Cooke,10,"Lib Us Representative, District 26",,,Mike Kolls,181,9,86,68,18
+Cooke,11,"Lib Us Representative, District 26",,,Mike Kolls,187,11,82,76,18
+Cooke,12,"Lib Us Representative, District 26",,,Mike Kolls,95,3,36,38,18
+Cooke,17,"Lib Us Representative, District 26",,,Mike Kolls,22,1,2,1,18
+Cooke,18,"Lib Us Representative, District 26",,,Mike Kolls,93,1,34,40,18
+Cooke,21,"Lib Us Representative, District 26",,,Mike Kolls,69,0,20,31,18
+Cooke,22,"Lib Us Representative, District 26",,,Mike Kolls,181,6,74,83,18
+Cooke,33,"Lib Us Representative, District 26",,,Mike Kolls,39,0,10,11,18
+Cooke,1,Governor,,REP,Greg Abbott,230,7,135,70,18
+Cooke,1C,Governor,,REP,Greg Abbott,1282,45,769,450,18
+Cooke,2,Governor,,REP,Greg Abbott,500,20,272,190,18
+Cooke,3,Governor,,REP,Greg Abbott,415,9,217,171,18
+Cooke,4,Governor,,REP,Greg Abbott,201,6,110,67,18
+Cooke,4C,Governor,,REP,Greg Abbott,837,30,452,337,18
+Cooke,6,Governor,,REP,Greg Abbott,1170,25,546,581,18
+Cooke,7,Governor,,REP,Greg Abbott,801,13,421,349,18
+Cooke,8,Governor,,REP,Greg Abbott,572,8,281,265,18
+Cooke,10,Governor,,REP,Greg Abbott,1199,28,602,551,18
+Cooke,11,Governor,,REP,Greg Abbott,1225,14,545,648,18
+Cooke,12,Governor,,REP,Greg Abbott,689,8,242,421,18
+Cooke,17,Governor,,REP,Greg Abbott,352,5,83,246,18
+Cooke,18,Governor,,REP,Greg Abbott,1146,10,276,842,18
+Cooke,21,Governor,,REP,Greg Abbott,850,13,285,534,18
+Cooke,22,Governor,,REP,Greg Abbott,1354,31,631,674,18
+Cooke,33,Governor,,REP,Greg Abbott,298,2,123,155,18
+Cooke,1,Governor,,DEM,Beto O' Rourke,56,1,24,13,18
+Cooke,1C,Governor,,DEM,Beto O' Rourke,479,35,266,160,18
+Cooke,2,Governor,,DEM,Beto O' Rourke,243,9,113,103,18
+Cooke,3,Governor,,DEM,Beto O' Rourke,71,2,30,21,18
+Cooke,4,Governor,,DEM,Beto O' Rourke,47,3,16,10,18
+Cooke,4C,Governor,,DEM,Beto O' Rourke,271,16,135,102,18
+Cooke,6,Governor,,DEM,Beto O' Rourke,141,7,67,49,18
+Cooke,7,Governor,,DEM,Beto O' Rourke,117,4,51,44,18
+Cooke,8,Governor,,DEM,Beto O' Rourke,78,2,33,25,18
+Cooke,10,Governor,,DEM,Beto O' Rourke,213,11,101,83,18
+Cooke,11,Governor,,DEM,Beto O' Rourke,258,17,114,109,18
+Cooke,12,Governor,,DEM,Beto O' Rourke,117,6,41,52,18
+Cooke,17,Governor,,DEM,Beto O' Rourke,32,1,7,6,18
+Cooke,18,Governor,,DEM,Beto O' Rourke,105,5,36,46,18
+Cooke,21,Governor,,DEM,Beto O' Rourke,90,3,30,39,18
+Cooke,22,Governor,,DEM,Beto O' Rourke,251,17,110,106,18
+Cooke,33,Governor,,DEM,Beto O' Rourke,45,2,15,10,18
+Cooke,1,Lib Governor,,,Mark Tippetts,21,0,1,2,18
+Cooke,1C,Lib Governor,,,Mark Tippetts,42,2,13,9,18
+Cooke,2,Lib Governor,,,Mark Tippetts,32,0,4,10,18
+Cooke,3,Lib Governor,,,Mark Tippetts,23,0,4,1,18
+Cooke,4,Lib Governor,,,Mark Tippetts,19,0,1,0,18
+Cooke,4C,Lib Governor,,,Mark Tippetts,28,1,4,5,18
+Cooke,6,Lib Governor,,,Mark Tippetts,32,2,3,9,18
+Cooke,7,Lib Governor,,,Mark Tippetts,26,0,6,2,18
+Cooke,8,Lib Governor,,,Mark Tippetts,24,0,3,3,18
+Cooke,10,Lib Governor,,,Mark Tippetts,33,0,4,11,18
+Cooke,11,Lib Governor,,,Mark Tippetts,28,0,3,7,18
+Cooke,12,Lib Governor,,,Mark Tippetts,29,0,5,6,18
+Cooke,17,Lib Governor,,,Mark Tippetts,21,0,2,1,18
+Cooke,18,Lib Governor,,,Mark Tippetts,29,0,3,8,18
+Cooke,21,Lib Governor,,,Mark Tippetts,27,0,3,6,18
+Cooke,22,Lib Governor,,,Mark Tippetts,41,1,8,14,18
+Cooke,33,Lib Governor,,,Mark Tippetts,21,0,2,1,18
+Cooke,1,Grn Governor,,,Delilah Barrios,18,0,0,0,18
+Cooke,1C,Grn Governor,,,Delilah Barrios,26,0,2,6,18
+Cooke,2,Grn Governor,,,Delilah Barrios,23,0,4,1,18
+Cooke,3,Grn Governor,,,Delilah Barrios,19,0,0,1,18
+Cooke,4,Grn Governor,,,Delilah Barrios,19,0,1,0,18
+Cooke,4C,Grn Governor,,,Delilah Barrios,21,0,1,2,18
+Cooke,6,Grn Governor,,,Delilah Barrios,20,0,0,2,18
+Cooke,7,Grn Governor,,,Delilah Barrios,20,0,0,2,18
+Cooke,8,Grn Governor,,,Delilah Barrios,21,0,0,3,18
+Cooke,10,Grn Governor,,,Delilah Barrios,20,0,0,2,18
+Cooke,11,Grn Governor,,,Delilah Barrios,19,0,1,0,18
+Cooke,12,Grn Governor,,,Delilah Barrios,20,0,1,1,18
+Cooke,17,Grn Governor,,,Delilah Barrios,18,0,0,0,18
+Cooke,18,Grn Governor,,,Delilah Barrios,19,0,0,1,18
+Cooke,21,Grn Governor,,,Delilah Barrios,18,0,0,0,18
+Cooke,22,Grn Governor,,,Delilah Barrios,19,0,0,1,18
+Cooke,33,Grn Governor,,,Delilah Barrios,18,0,0,0,18
+Cooke,1,Lieutenant Governor,,REP,Dan Patrick,227,7,135,67,18
+Cooke,1C,Lieutenant Governor,,REP,Dan Patrick,1228,44,726,440,18
+Cooke,2,Lieutenant Governor,,REP,Dan Patrick,482,18,260,186,18
+Cooke,3,Lieutenant Governor,,REP,Dan Patrick,403,9,208,168,18
+Cooke,4,Lieutenant Governor,,REP,Dan Patrick,196,6,106,66,18
+Cooke,4C,Lieutenant Governor,,REP,Dan Patrick,818,29,441,330,18
+Cooke,6,Lieutenant Governor,,REP,Dan Patrick,1151,24,536,573,18
+Cooke,7,Lieutenant Governor,,REP,Dan Patrick,778,13,408,339,18
+Cooke,8,Lieutenant Governor,,REP,Dan Patrick,562,8,276,260,18
+Cooke,10,Lieutenant Governor,,REP,Dan Patrick,1180,27,593,542,18
+Cooke,11,Lieutenant Governor,,REP,Dan Patrick,1200,14,533,635,18
+Cooke,12,Lieutenant Governor,,REP,Dan Patrick,680,8,236,418,18
+Cooke,17,Lieutenant Governor,,REP,Dan Patrick,342,3,81,240,18
+Cooke,18,Lieutenant Governor,,REP,Dan Patrick,1114,10,264,822,18
+Cooke,21,Lieutenant Governor,,REP,Dan Patrick,820,13,273,516,18
+Cooke,22,Lieutenant Governor,,REP,Dan Patrick,1304,31,608,647,18
+Cooke,33,Lieutenant Governor,,REP,Dan Patrick,279,2,113,146,18
+Cooke,1,Lieutenant Governor,,DEM,Mike Collier,55,1,21,15,18
+Cooke,1C,Lieutenant Governor,,DEM,Mike Collier,495,36,282,159,18
+Cooke,2,Lieutenant Governor,,DEM,Mike Collier,243,10,117,98,18
+Cooke,3,Lieutenant Governor,,DEM,Mike Collier,79,2,37,22,18
+Cooke,4,Lieutenant Governor,,DEM,Mike Collier,46,3,15,10,18
+Cooke,4C,Lieutenant Governor,,DEM,Mike Collier,274,17,138,101,18
+Cooke,6,Lieutenant Governor,,DEM,Mike Collier,147,9,70,50,18
+Cooke,7,Lieutenant Governor,,DEM,Mike Collier,118,4,51,45,18
+Cooke,8,Lieutenant Governor,,DEM,Mike Collier,86,2,37,29,18
+Cooke,10,Lieutenant Governor,,DEM,Mike Collier,222,12,103,89,18
+Cooke,11,Lieutenant Governor,,DEM,Mike Collier,264,17,113,116,18
+Cooke,12,Lieutenant Governor,,DEM,Mike Collier,125,6,47,54,18
+Cooke,17,Lieutenant Governor,,DEM,Mike Collier,38,2,11,7,18
+Cooke,18,Lieutenant Governor,,DEM,Mike Collier,117,6,38,55,18
+Cooke,21,Lieutenant Governor,,DEM,Mike Collier,99,3,31,47,18
+Cooke,22,Lieutenant Governor,,DEM,Mike Collier,282,18,123,123,18
+Cooke,33,Lieutenant Governor,,DEM,Mike Collier,58,2,23,15,18
+Cooke,1,Lib Lieutenant Governor,,,Shanna Steele,24,0,3,3,18
+Cooke,1C,Lib Lieutenant Governor,,,Shanna Steele,70,2,31,19,18
+Cooke,2,Lib Lieutenant Governor,,,Shanna Steele,43,1,10,14,18
+Cooke,3,Lib Lieutenant Governor,,,Shanna Steele,26,0,5,3,18
+Cooke,4,Lib Lieutenant Governor,,,Shanna Steele,24,0,6,0,18
+Cooke,4C,Lib Lieutenant Governor,,,Shanna Steele,44,2,13,11,18
+Cooke,6,Lib Lieutenant Governor,,,Shanna Steele,42,0,8,16,18
+Cooke,7,Lib Lieutenant Governor,,,Shanna Steele,39,0,13,8,18
+Cooke,8,Lib Lieutenant Governor,,,Shanna Steele,28,0,4,6,18
+Cooke,10,Lib Lieutenant Governor,,,Shanna Steele,43,0,12,13,18
+Cooke,11,Lib Lieutenant Governor,,,Shanna Steele,41,0,14,9,18
+Cooke,12,Lib Lieutenant Governor,,,Shanna Steele,33,0,6,9,18
+Cooke,17,Lib Lieutenant Governor,,,Shanna Steele,19,0,0,1,18
+Cooke,18,Lib Lieutenant Governor,,,Shanna Steele,40,0,12,10,18
+Cooke,21,Lib Lieutenant Governor,,,Shanna Steele,38,0,10,10,18
+Cooke,22,Lib Lieutenant Governor,,,Shanna Steele,56,0,16,22,18
+Cooke,33,Lib Lieutenant Governor,,,Shanna Steele,25,0,3,4,18
+Cooke,1,Attorney General,,REP,Ken Paxton,230,7,133,72,18
+Cooke,1C,Attorney General,,REP,Ken Paxton,1228,44,730,436,18
+Cooke,2,Attorney General,,REP,Ken Paxton,494,18,266,192,18
+Cooke,3,Attorney General,,REP,Ken Paxton,400,9,208,165,18
+Cooke,4,Attorney General,,REP,Ken Paxton,199,6,107,68,18
+Cooke,4C,Attorney General,,REP,Ken Paxton,805,30,432,325,18
+Cooke,6,Attorney General,,REP,Ken Paxton,1153,25,537,573,18
+Cooke,7,Attorney General,,REP,Ken Paxton,779,12,410,339,18
+Cooke,8,Attorney General,,REP,Ken Paxton,564,8,277,261,18
+Cooke,10,Attorney General,,REP,Ken Paxton,1176,27,588,543,18
+Cooke,11,Attorney General,,REP,Ken Paxton,1198,13,534,633,18
+Cooke,12,Attorney General,,REP,Ken Paxton,676,8,233,417,18
+Cooke,17,Attorney General,,REP,Ken Paxton,343,4,82,239,18
+Cooke,18,Attorney General,,REP,Ken Paxton,1094,10,259,807,18
+Cooke,21,Attorney General,,REP,Ken Paxton,821,12,270,521,18
+Cooke,22,Attorney General,,REP,Ken Paxton,1301,30,606,647,18
+Cooke,33,Attorney General,,REP,Ken Paxton,285,2,115,150,18
+Cooke,1,Attorney General,,DEM,Rochelle Mercedes Garza,52,1,22,11,18
+Cooke,1C,Attorney General,,DEM,Rochelle Mercedes Garza,478,34,266,160,18
+Cooke,2,Attorney General,,DEM,Rochelle Mercedes Garza,234,10,112,94,18
+Cooke,3,Attorney General,,DEM,Rochelle Mercedes Garza,75,2,33,22,18
+Cooke,4,Attorney General,,DEM,Rochelle Mercedes Garza,47,3,17,9,18
+Cooke,4C,Attorney General,,DEM,Rochelle Mercedes Garza,266,17,134,97,18
+Cooke,6,Attorney General,,DEM,Rochelle Mercedes Garza,140,9,68,45,18
+Cooke,7,Attorney General,,DEM,Rochelle Mercedes Garza,112,4,49,41,18
+Cooke,8,Attorney General,,DEM,Rochelle Mercedes Garza,72,2,30,22,18
+Cooke,10,Attorney General,,DEM,Rochelle Mercedes Garza,211,11,100,82,18
+Cooke,11,Attorney General,,DEM,Rochelle Mercedes Garza,244,18,108,100,18
+Cooke,12,Attorney General,,DEM,Rochelle Mercedes Garza,115,6,43,48,18
+Cooke,17,Attorney General,,DEM,Rochelle Mercedes Garza,33,2,7,6,18
+Cooke,18,Attorney General,,DEM,Rochelle Mercedes Garza,107,6,38,45,18
+Cooke,21,Attorney General,,DEM,Rochelle Mercedes Garza,91,3,31,39,18
+Cooke,22,Attorney General,,DEM,Rochelle Mercedes Garza,259,16,113,112,18
+Cooke,33,Attorney General,,DEM,Rochelle Mercedes Garza,51,2,19,12,18
+Cooke,1,Lib Attorney General,,,Mark Ash,24,0,4,2,18
+Cooke,1C,Lib Attorney General,,,Mark Ash,85,4,41,22,18
+Cooke,2,Lib Attorney General,,,Mark Ash,43,1,12,12,18
+Cooke,3,Lib Attorney General,,,Mark Ash,28,0,6,4,18
+Cooke,4,Lib Attorney General,,,Mark Ash,21,0,3,0,18
+Cooke,4C,Lib Attorney General,,,Mark Ash,56,2,19,17,18
+Cooke,6,Lib Attorney General,,,Mark Ash,47,0,9,20,18
+Cooke,7,Lib Attorney General,,,Mark Ash,40,1,11,10,18
+Cooke,8,Lib Attorney General,,,Mark Ash,40,0,10,12,18
+Cooke,10,Lib Attorney General,,,Mark Ash,53,0,16,19,18
+Cooke,11,Lib Attorney General,,,Mark Ash,57,0,14,25,18
+Cooke,12,Lib Attorney General,,,Mark Ash,42,0,13,11,18
+Cooke,17,Lib Attorney General,,,Mark Ash,21,0,1,2,18
+Cooke,18,Lib Attorney General,,,Mark Ash,61,0,12,31,18
+Cooke,21,Lib Attorney General,,,Mark Ash,44,0,13,13,18
+Cooke,22,Lib Attorney General,,,Mark Ash,81,2,27,34,18
+Cooke,33,Lib Attorney General,,,Mark Ash,27,0,5,4,18
+Cooke,1,Comptroller of Public Accounts,,REP,Glenn Hegar,233,7,136,72,18
+Cooke,1C,Comptroller of Public Accounts,,REP,Glenn Hegar,1280,45,768,449,18
+Cooke,2,Comptroller of Public Accounts,,REP,Glenn Hegar,488,20,264,186,18
+Cooke,3,Comptroller of Public Accounts,,REP,Glenn Hegar,416,8,220,170,18
+Cooke,4,Comptroller of Public Accounts,,REP,Glenn Hegar,200,6,111,65,18
+Cooke,4C,Comptroller of Public Accounts,,REP,Glenn Hegar,841,33,457,333,18
+Cooke,6,Comptroller of Public Accounts,,REP,Glenn Hegar,1166,25,545,578,18
+Cooke,7,Comptroller of Public Accounts,,REP,Glenn Hegar,790,13,417,342,18
+Cooke,8,Comptroller of Public Accounts,,REP,Glenn Hegar,567,8,278,263,18
+Cooke,10,Comptroller of Public Accounts,,REP,Glenn Hegar,1215,28,603,566,18
+Cooke,11,Comptroller of Public Accounts,,REP,Glenn Hegar,1229,14,548,649,18
+Cooke,12,Comptroller of Public Accounts,,REP,Glenn Hegar,689,9,243,419,18
+Cooke,17,Comptroller of Public Accounts,,REP,Glenn Hegar,351,5,85,243,18
+Cooke,18,Comptroller of Public Accounts,,REP,Glenn Hegar,1139,11,275,835,18
+Cooke,21,Comptroller of Public Accounts,,REP,Glenn Hegar,847,13,283,533,18
+Cooke,22,Comptroller of Public Accounts,,REP,Glenn Hegar,1377,32,639,688,18
+Cooke,33,Comptroller of Public Accounts,,REP,Glenn Hegar,294,2,124,150,18
+Cooke,1,Comptroller of Public Accounts,,DEM,Janet T. Dudding,51,1,21,11,18
+Cooke,1C,Comptroller of Public Accounts,,DEM,Janet T. Dudding,424,32,234,140,18
+Cooke,2,Comptroller of Public Accounts,,DEM,Janet T. Dudding,238,9,113,98,18
+Cooke,3,Comptroller of Public Accounts,,DEM,Janet T. Dudding,64,2,24,20,18
+Cooke,4,Comptroller of Public Accounts,,DEM,Janet T. Dudding,42,3,14,7,18
+Cooke,4C,Comptroller of Public Accounts,,DEM,Janet T. Dudding,249,15,123,93,18
+Cooke,6,Comptroller of Public Accounts,,DEM,Janet T. Dudding,134,9,58,49,18
+Cooke,7,Comptroller of Public Accounts,,DEM,Janet T. Dudding,110,4,46,42,18
+Cooke,8,Comptroller of Public Accounts,,DEM,Janet T. Dudding,78,2,32,26,18
+Cooke,10,Comptroller of Public Accounts,,DEM,Janet T. Dudding,193,10,95,70,18
+Cooke,11,Comptroller of Public Accounts,,DEM,Janet T. Dudding,226,16,102,90,18
+Cooke,12,Comptroller of Public Accounts,,DEM,Janet T. Dudding,106,5,36,47,18
+Cooke,17,Comptroller of Public Accounts,,DEM,Janet T. Dudding,28,1,5,4,18
+Cooke,18,Comptroller of Public Accounts,,DEM,Janet T. Dudding,84,4,31,31,18
+Cooke,21,Comptroller of Public Accounts,,DEM,Janet T. Dudding,78,3,25,32,18
+Cooke,22,Comptroller of Public Accounts,,DEM,Janet T. Dudding,220,15,100,87,18
+Cooke,33,Comptroller of Public Accounts,,DEM,Janet T. Dudding,42,2,11,11,18
+Cooke,1,Lib Comptroller of Public Accounts,,,V. Alonzo Echevarria-Garza,21,0,2,1,18
+Cooke,1C,Lib Comptroller of Public Accounts,,,V. Alonzo Echevarria-Garza,69,2,26,23,18
+Cooke,2,Lib Comptroller of Public Accounts,,,V. Alonzo Echevarria-Garza,39,0,7,14,18
+Cooke,3,Lib Comptroller of Public Accounts,,,V. Alonzo Echevarria-Garza,22,0,4,0,18
+Cooke,4,Lib Comptroller of Public Accounts,,,V. Alonzo Echevarria-Garza,24,0,3,3,18
+Cooke,4C,Lib Comptroller of Public Accounts,,,V. Alonzo Echevarria-Garza,40,1,7,14,18
+Cooke,6,Lib Comptroller of Public Accounts,,,V. Alonzo Echevarria-Garza,33,0,6,9,18
+Cooke,7,Lib Comptroller of Public Accounts,,,V. Alonzo Echevarria-Garza,33,0,8,7,18
+Cooke,8,Lib Comptroller of Public Accounts,,,V. Alonzo Echevarria-Garza,29,0,6,5,18
+Cooke,10,Lib Comptroller of Public Accounts,,,V. Alonzo Echevarria-Garza,34,1,5,10,18
+Cooke,11,Lib Comptroller of Public Accounts,,,V. Alonzo Echevarria-Garza,35,0,5,12,18
+Cooke,12,Lib Comptroller of Public Accounts,,,V. Alonzo Echevarria-Garza,32,0,5,9,18
+Cooke,17,Lib Comptroller of Public Accounts,,,V. Alonzo Echevarria-Garza,19,0,1,0,18
+Cooke,18,Lib Comptroller of Public Accounts,,,V. Alonzo Echevarria-Garza,30,0,3,9,18
+Cooke,21,Lib Comptroller of Public Accounts,,,V. Alonzo Echevarria-Garza,26,0,3,5,18
+Cooke,22,Lib Comptroller of Public Accounts,,,V. Alonzo Echevarria-Garza,34,0,5,11,18
+Cooke,33,Lib Comptroller of Public Accounts,,,V. Alonzo Echevarria-Garza,21,0,2,1,18
+Cooke,1,Commissioner of the General Land Office,,REP,Dawn Buckingham,227,7,131,71,18
+Cooke,1C,Commissioner of the General Land Office,,REP,Dawn Buckingham,1277,39,761,459,18
+Cooke,2,Commissioner of the General Land Office,,REP,Dawn Buckingham,497,19,265,195,18
+Cooke,3,Commissioner of the General Land Office,,REP,Dawn Buckingham,413,8,215,172,18
+Cooke,4,Commissioner of the General Land Office,,REP,Dawn Buckingham,201,6,110,67,18
+Cooke,4C,Commissioner of the General Land Office,,REP,Dawn Buckingham,825,31,445,331,18
+Cooke,6,Commissioner of the General Land Office,,REP,Dawn Buckingham,1168,24,546,580,18
+Cooke,7,Commissioner of the General Land Office,,REP,Dawn Buckingham,792,13,417,344,18
+Cooke,8,Commissioner of the General Land Office,,REP,Dawn Buckingham,574,8,279,269,18
+Cooke,10,Commissioner of the General Land Office,,REP,Dawn Buckingham,1205,28,597,562,18
+Cooke,11,Commissioner of the General Land Office,,REP,Dawn Buckingham,1227,12,546,651,18
+Cooke,12,Commissioner of the General Land Office,,REP,Dawn Buckingham,689,8,239,424,18
+Cooke,17,Commissioner of the General Land Office,,REP,Dawn Buckingham,347,4,84,241,18
+Cooke,18,Commissioner of the General Land Office,,REP,Dawn Buckingham,1134,9,276,831,18
+Cooke,21,Commissioner of the General Land Office,,REP,Dawn Buckingham,840,13,281,528,18
+Cooke,22,Commissioner of the General Land Office,,REP,Dawn Buckingham,1367,30,636,683,18
+Cooke,33,Commissioner of the General Land Office,,REP,Dawn Buckingham,289,2,123,146,18
+Cooke,1,Commissioner of the General Land Office,,DEM,Jay Kleberg,54,1,23,12,18
+Cooke,1C,Commissioner of the General Land Office,,DEM,Jay Kleberg,451,38,252,143,18
+Cooke,2,Commissioner of the General Land Office,,DEM,Jay Kleberg,230,9,109,94,18
+Cooke,3,Commissioner of the General Land Office,,DEM,Jay Kleberg,67,2,29,18,18
+Cooke,4,Commissioner of the General Land Office,,DEM,Jay Kleberg,45,3,15,9,18
+Cooke,4C,Commissioner of the General Land Office,,DEM,Jay Kleberg,256,17,128,93,18
+Cooke,6,Commissioner of the General Land Office,,DEM,Jay Kleberg,139,10,61,50,18
+Cooke,7,Commissioner of the General Land Office,,DEM,Jay Kleberg,109,4,44,43,18
+Cooke,8,Commissioner of the General Land Office,,DEM,Jay Kleberg,76,2,33,23,18
+Cooke,10,Commissioner of the General Land Office,,DEM,Jay Kleberg,197,10,93,76,18
+Cooke,11,Commissioner of the General Land Office,,DEM,Jay Kleberg,234,17,103,96,18
+Cooke,12,Commissioner of the General Land Office,,DEM,Jay Kleberg,109,6,41,44,18
+Cooke,17,Commissioner of the General Land Office,,DEM,Jay Kleberg,31,1,7,5,18
+Cooke,18,Commissioner of the General Land Office,,DEM,Jay Kleberg,94,6,31,39,18
+Cooke,21,Commissioner of the General Land Office,,DEM,Jay Kleberg,87,3,30,36,18
+Cooke,22,Commissioner of the General Land Office,,DEM,Jay Kleberg,229,18,103,90,18
+Cooke,33,Commissioner of the General Land Office,,DEM,Jay Kleberg,45,2,13,12,18
+Cooke,1,Grn Commissioner of the General Land Office,,,"Alfred Molison, Jr.",22,0,3,1,18
+Cooke,1C,Grn Commissioner of the General Land Office,,,"Alfred Molison, Jr.",43,2,13,10,18
+Cooke,2,Grn Commissioner of the General Land Office,,,"Alfred Molison, Jr.",32,0,8,6,18
+Cooke,3,Grn Commissioner of the General Land Office,,,"Alfred Molison, Jr.",21,0,2,1,18
+Cooke,4,Grn Commissioner of the General Land Office,,,"Alfred Molison, Jr.",18,0,0,0,18
+Cooke,4C,Grn Commissioner of the General Land Office,,,"Alfred Molison, Jr.",39,1,8,12,18
+Cooke,6,Grn Commissioner of the General Land Office,,,"Alfred Molison, Jr.",23,0,3,2,18
+Cooke,7,Grn Commissioner of the General Land Office,,,"Alfred Molison, Jr.",29,0,7,4,18
+Cooke,8,Grn Commissioner of the General Land Office,,,"Alfred Molison, Jr.",22,0,3,1,18
+Cooke,10,Grn Commissioner of the General Land Office,,,"Alfred Molison, Jr.",33,1,7,7,18
+Cooke,11,Grn Commissioner of the General Land Office,,,"Alfred Molison, Jr.",30,0,4,8,18
+Cooke,12,Grn Commissioner of the General Land Office,,,"Alfred Molison, Jr.",27,0,3,6,18
+Cooke,17,Grn Commissioner of the General Land Office,,,"Alfred Molison, Jr.",19,0,1,0,18
+Cooke,18,Grn Commissioner of the General Land Office,,,"Alfred Molison, Jr.",24,0,3,3,18
+Cooke,21,Grn Commissioner of the General Land Office,,,"Alfred Molison, Jr.",24,0,1,5,18
+Cooke,22,Grn Commissioner of the General Land Office,,,"Alfred Molison, Jr.",30,0,3,9,18
+Cooke,33,Grn Commissioner of the General Land Office,,,"Alfred Molison, Jr.",21,0,1,2,18
+Cooke,1,Commissioner of Agriculture,,REP,Sid Miller,230,7,133,72,18
+Cooke,1C,Commissioner of Agriculture,,REP,Sid Miller,1292,45,767,462,18
+Cooke,2,Commissioner of Agriculture,,REP,Sid Miller,492,19,261,194,18
+Cooke,3,Commissioner of Agriculture,,REP,Sid Miller,413,8,216,171,18
+Cooke,4,Commissioner of Agriculture,,REP,Sid Miller,201,6,110,67,18
+Cooke,4C,Commissioner of Agriculture,,REP,Sid Miller,837,32,455,332,18
+Cooke,6,Commissioner of Agriculture,,REP,Sid Miller,1164,25,536,585,18
+Cooke,7,Commissioner of Agriculture,,REP,Sid Miller,792,13,419,342,18
+Cooke,8,Commissioner of Agriculture,,REP,Sid Miller,571,8,279,266,18
+Cooke,10,Commissioner of Agriculture,,REP,Sid Miller,1208,28,598,564,18
+Cooke,11,Commissioner of Agriculture,,REP,Sid Miller,1227,14,543,652,18
+Cooke,12,Commissioner of Agriculture,,REP,Sid Miller,692,8,242,424,18
+Cooke,17,Commissioner of Agriculture,,REP,Sid Miller,348,4,86,240,18
+Cooke,18,Commissioner of Agriculture,,REP,Sid Miller,1135,10,273,834,18
+Cooke,21,Commissioner of Agriculture,,REP,Sid Miller,853,13,286,536,18
+Cooke,22,Commissioner of Agriculture,,REP,Sid Miller,1355,30,630,677,18
+Cooke,33,Commissioner of Agriculture,,REP,Sid Miller,291,2,122,149,18
+Cooke,1,Commissioner of Agriculture,,DEM,Susan Hays,54,1,22,13,18
+Cooke,1C,Commissioner of Agriculture,,DEM,Susan Hays,456,32,261,145,18
+Cooke,2,Commissioner of Agriculture,,DEM,Susan Hays,241,9,117,97,18
+Cooke,3,Commissioner of Agriculture,,DEM,Susan Hays,67,2,27,20,18
+Cooke,4,Commissioner of Agriculture,,DEM,Susan Hays,44,3,14,9,18
+Cooke,4C,Commissioner of Agriculture,,DEM,Susan Hays,261,16,126,101,18
+Cooke,6,Commissioner of Agriculture,,DEM,Susan Hays,145,9,71,47,18
+Cooke,7,Commissioner of Agriculture,,DEM,Susan Hays,123,4,50,51,18
+Cooke,8,Commissioner of Agriculture,,DEM,Susan Hays,80,2,34,26,18
+Cooke,10,Commissioner of Agriculture,,DEM,Susan Hays,207,11,99,79,18
+Cooke,11,Commissioner of Agriculture,,DEM,Susan Hays,246,17,111,100,18
+Cooke,12,Commissioner of Agriculture,,DEM,Susan Hays,112,6,40,48,18
+Cooke,17,Commissioner of Agriculture,,DEM,Susan Hays,30,1,6,5,18
+Cooke,18,Commissioner of Agriculture,,DEM,Susan Hays,103,5,34,46,18
+Cooke,21,Commissioner of Agriculture,,DEM,Susan Hays,80,3,24,35,18
+Cooke,22,Commissioner of Agriculture,,DEM,Susan Hays,248,18,111,101,18
+Cooke,33,Commissioner of Agriculture,,DEM,Susan Hays,45,2,13,12,18
+Cooke,1,Railroad Commissioner,,REP,Wayne Christian,227,7,132,70,18
+Cooke,1C,Railroad Commissioner,,REP,Wayne Christian,1270,44,763,445,18
+Cooke,2,Railroad Commissioner,,REP,Wayne Christian,491,20,264,189,18
+Cooke,3,Railroad Commissioner,,REP,Wayne Christian,404,8,210,168,18
+Cooke,4,Railroad Commissioner,,REP,Wayne Christian,199,6,109,66,18
+Cooke,4C,Railroad Commissioner,,REP,Wayne Christian,823,33,443,329,18
+Cooke,6,Railroad Commissioner,,REP,Wayne Christian,1153,24,535,576,18
+Cooke,7,Railroad Commissioner,,REP,Wayne Christian,783,13,413,339,18
+Cooke,8,Railroad Commissioner,,REP,Wayne Christian,566,7,278,263,18
+Cooke,10,Railroad Commissioner,,REP,Wayne Christian,1195,28,593,556,18
+Cooke,11,Railroad Commissioner,,REP,Wayne Christian,1216,11,540,647,18
+Cooke,12,Railroad Commissioner,,REP,Wayne Christian,677,8,235,416,18
+Cooke,17,Railroad Commissioner,,REP,Wayne Christian,349,4,84,243,18
+Cooke,18,Railroad Commissioner,,REP,Wayne Christian,1129,10,271,830,18
+Cooke,21,Railroad Commissioner,,REP,Wayne Christian,836,13,277,528,18
+Cooke,22,Railroad Commissioner,,REP,Wayne Christian,1349,30,633,668,18
+Cooke,33,Railroad Commissioner,,REP,Wayne Christian,288,2,121,147,18
+Cooke,1,Railroad Commissioner,,DEM,Luke Warford,52,1,21,12,18
+Cooke,1C,Railroad Commissioner,,DEM,Luke Warford,407,31,231,127,18
+Cooke,2,Railroad Commissioner,,DEM,Luke Warford,221,9,107,87,18
+Cooke,3,Railroad Commissioner,,DEM,Luke Warford,65,2,26,19,18
+Cooke,4,Railroad Commissioner,,DEM,Luke Warford,44,3,15,8,18
+Cooke,4C,Railroad Commissioner,,DEM,Luke Warford,240,15,123,84,18
+Cooke,6,Railroad Commissioner,,DEM,Luke Warford,132,9,62,43,18
+Cooke,7,Railroad Commissioner,,DEM,Luke Warford,104,3,43,40,18
+Cooke,8,Railroad Commissioner,,DEM,Luke Warford,72,2,31,21,18
+Cooke,10,Railroad Commissioner,,DEM,Luke Warford,193,10,92,73,18
+Cooke,11,Railroad Commissioner,,DEM,Luke Warford,225,18,101,88,18
+Cooke,12,Railroad Commissioner,,DEM,Luke Warford,102,6,40,38,18
+Cooke,17,Railroad Commissioner,,DEM,Luke Warford,29,1,6,4,18
+Cooke,18,Railroad Commissioner,,DEM,Luke Warford,89,6,29,36,18
+Cooke,21,Railroad Commissioner,,DEM,Luke Warford,79,3,28,30,18
+Cooke,22,Railroad Commissioner,,DEM,Luke Warford,224,18,99,89,18
+Cooke,33,Railroad Commissioner,,DEM,Luke Warford,43,2,11,12,18
+Cooke,1,Lib Railroad Commissioner,,,Jaime Andres Diez,21,0,0,3,18
+Cooke,1C,Lib Railroad Commissioner,,,Jaime Andres Diez,75,1,27,29,18
+Cooke,2,Lib Railroad Commissioner,,,Jaime Andres Diez,43,0,10,15,18
+Cooke,3,Lib Railroad Commissioner,,,Jaime Andres Diez,24,0,4,2,18
+Cooke,4,Lib Railroad Commissioner,,,Jaime Andres Diez,21,0,1,2,18
+Cooke,4C,Lib Railroad Commissioner,,,Jaime Andres Diez,41,1,6,16,18
+Cooke,6,Lib Railroad Commissioner,,,Jaime Andres Diez,39,1,7,13,18
+Cooke,7,Lib Railroad Commissioner,,,Jaime Andres Diez,33,0,9,6,18
+Cooke,8,Lib Railroad Commissioner,,,Jaime Andres Diez,31,1,4,8,18
+Cooke,10,Lib Railroad Commissioner,,,Jaime Andres Diez,35,1,7,9,18
+Cooke,11,Lib Railroad Commissioner,,,Jaime Andres Diez,39,1,7,13,18
+Cooke,12,Lib Railroad Commissioner,,,Jaime Andres Diez,35,0,5,12,18
+Cooke,17,Lib Railroad Commissioner,,,Jaime Andres Diez,19,0,1,0,18
+Cooke,18,Lib Railroad Commissioner,,,Jaime Andres Diez,33,0,6,9,18
+Cooke,21,Lib Railroad Commissioner,,,Jaime Andres Diez,33,0,7,8,18
+Cooke,22,Lib Railroad Commissioner,,,Jaime Andres Diez,43,0,7,18,18
+Cooke,33,Lib Railroad Commissioner,,,Jaime Andres Diez,23,0,2,3,18
+Cooke,1,Grn Railroad Commissioner,,,Hunter Wayne Crow,21,0,3,0,18
+Cooke,1C,Grn Railroad Commissioner,,,Hunter Wayne Crow,34,2,9,5,18
+Cooke,2,Grn Railroad Commissioner,,,Hunter Wayne Crow,26,0,3,5,18
+Cooke,3,Grn Railroad Commissioner,,,Hunter Wayne Crow,24,0,5,1,18
+Cooke,4,Grn Railroad Commissioner,,,Hunter Wayne Crow,19,0,1,0,18
+Cooke,4C,Grn Railroad Commissioner,,,Hunter Wayne Crow,31,0,7,6,18
+Cooke,6,Grn Railroad Commissioner,,,Hunter Wayne Crow,24,0,3,3,18
+Cooke,7,Grn Railroad Commissioner,,,Hunter Wayne Crow,29,1,4,6,18
+Cooke,8,Grn Railroad Commissioner,,,Hunter Wayne Crow,23,0,2,3,18
+Cooke,10,Grn Railroad Commissioner,,,Hunter Wayne Crow,26,0,4,4,18
+Cooke,11,Grn Railroad Commissioner,,,Hunter Wayne Crow,29,0,5,6,18
+Cooke,12,Grn Railroad Commissioner,,,Hunter Wayne Crow,25,0,2,5,18
+Cooke,17,Grn Railroad Commissioner,,,Hunter Wayne Crow,19,0,1,0,18
+Cooke,18,Grn Railroad Commissioner,,,Hunter Wayne Crow,26,0,4,4,18
+Cooke,21,Grn Railroad Commissioner,,,Hunter Wayne Crow,21,0,0,3,18
+Cooke,22,Grn Railroad Commissioner,,,Hunter Wayne Crow,29,0,4,7,18
+Cooke,33,Grn Railroad Commissioner,,,Hunter Wayne Crow,20,0,2,0,18
+Cooke,1,"Justice, Supreme Court, Place 3",,REP,Debra Lehrmann,228,7,132,71,18
+Cooke,1C,"Justice, Supreme Court, Place 4",,REP,Debra Lehrmann,1267,45,759,445,18
+Cooke,2,"Justice, Supreme Court, Place 5",,REP,Debra Lehrmann,496,19,262,197,18
+Cooke,3,"Justice, Supreme Court, Place 6",,REP,Debra Lehrmann,415,8,215,174,18
+Cooke,4,"Justice, Supreme Court, Place 7",,REP,Debra Lehrmann,202,6,110,68,18
+Cooke,4C,"Justice, Supreme Court, Place 8",,REP,Debra Lehrmann,830,32,452,328,18
+Cooke,6,"Justice, Supreme Court, Place 9",,REP,Debra Lehrmann,1149,24,538,569,18
+Cooke,7,"Justice, Supreme Court, Place 10",,REP,Debra Lehrmann,783,13,417,335,18
+Cooke,8,"Justice, Supreme Court, Place 11",,REP,Debra Lehrmann,568,7,278,265,18
+Cooke,10,"Justice, Supreme Court, Place 12",,REP,Debra Lehrmann,1204,28,596,562,18
+Cooke,11,"Justice, Supreme Court, Place 13",,REP,Debra Lehrmann,1225,11,545,651,18
+Cooke,12,"Justice, Supreme Court, Place 14",,REP,Debra Lehrmann,682,8,242,414,18
+Cooke,17,"Justice, Supreme Court, Place 15",,REP,Debra Lehrmann,349,4,84,243,18
+Cooke,18,"Justice, Supreme Court, Place 16",,REP,Debra Lehrmann,1133,13,277,825,18
+Cooke,21,"Justice, Supreme Court, Place 17",,REP,Debra Lehrmann,839,13,280,528,18
+Cooke,22,"Justice, Supreme Court, Place 18",,REP,Debra Lehrmann,1362,31,638,675,18
+Cooke,33,"Justice, Supreme Court, Place 19",,REP,Debra Lehrmann,290,2,122,148,18
+Cooke,1,"Justice, Supreme Court, Place 3",,DEM,Irin A. Nowell,51,1,20,12,18
+Cooke,1C,"Justice, Supreme Court, Place 3",,DEM,Irin A. Nowell,435,29,243,145,18
+Cooke,2,"Justice, Supreme Court, Place 3",,DEM,Irin A. Nowell,230,9,109,94,18
+Cooke,3,"Justice, Supreme Court, Place 3",,DEM,Irin A. Nowell,66,2,29,17,18
+Cooke,4,"Justice, Supreme Court, Place 3",,DEM,Irin A. Nowell,41,3,14,6,18
+Cooke,4C,"Justice, Supreme Court, Place 3",,DEM,Irin A. Nowell,250,16,124,92,18
+Cooke,6,"Justice, Supreme Court, Place 3",,DEM,Irin A. Nowell,140,9,64,49,18
+Cooke,7,"Justice, Supreme Court, Place 3",,DEM,Irin A. Nowell,112,4,48,42,18
+Cooke,8,"Justice, Supreme Court, Place 3",,DEM,Irin A. Nowell,75,2,31,24,18
+Cooke,10,"Justice, Supreme Court, Place 3",,DEM,Irin A. Nowell,188,11,91,68,18
+Cooke,11,"Justice, Supreme Court, Place 3",,DEM,Irin A. Nowell,232,18,105,91,18
+Cooke,12,"Justice, Supreme Court, Place 3",,DEM,Irin A. Nowell,103,6,34,45,18
+Cooke,17,"Justice, Supreme Court, Place 3",,DEM,Irin A. Nowell,30,1,7,4,18
+Cooke,18,"Justice, Supreme Court, Place 3",,DEM,Irin A. Nowell,84,3,31,32,18
+Cooke,21,"Justice, Supreme Court, Place 3",,DEM,Irin A. Nowell,83,2,28,35,18
+Cooke,22,"Justice, Supreme Court, Place 3",,DEM,Irin A. Nowell,215,17,90,90,18
+Cooke,33,"Justice, Supreme Court, Place 3",,DEM,Irin A. Nowell,44,2,13,11,18
+Cooke,1,"Lib Justice, Supreme Court, Place 3",,,Thomas Edward Oxford,23,0,3,2,18
+Cooke,1C,"Lib Justice, Supreme Court, Place 3",,,Thomas Edward Oxford,65,2,27,18,18
+Cooke,2,"Lib Justice, Supreme Court, Place 3",,,Thomas Edward Oxford,35,0,11,6,18
+Cooke,3,"Lib Justice, Supreme Court, Place 3",,,Thomas Edward Oxford,19,0,1,0,18
+Cooke,4,"Lib Justice, Supreme Court, Place 3",,,Thomas Edward Oxford,22,0,2,2,18
+Cooke,4C,"Lib Justice, Supreme Court, Place 3",,,Thomas Edward Oxford,40,1,5,16,18
+Cooke,6,"Lib Justice, Supreme Court, Place 3",,,Thomas Edward Oxford,37,1,6,12,18
+Cooke,7,"Lib Justice, Supreme Court, Place 3",,,Thomas Edward Oxford,37,0,7,12,18
+Cooke,8,"Lib Justice, Supreme Court, Place 3",,,Thomas Edward Oxford,32,1,5,8,18
+Cooke,10,"Lib Justice, Supreme Court, Place 3",,,Thomas Edward Oxford,41,0,9,14,18
+Cooke,11,"Lib Justice, Supreme Court, Place 3",,,Thomas Edward Oxford,34,0,3,13,18
+Cooke,12,"Lib Justice, Supreme Court, Place 3",,,Thomas Edward Oxford,37,0,5,14,18
+Cooke,17,"Lib Justice, Supreme Court, Place 3",,,Thomas Edward Oxford,19,0,0,1,18
+Cooke,18,"Lib Justice, Supreme Court, Place 3",,,Thomas Edward Oxford,39,0,5,16,18
+Cooke,21,"Lib Justice, Supreme Court, Place 3",,,Thomas Edward Oxford,30,0,5,7,18
+Cooke,22,"Lib Justice, Supreme Court, Place 3",,,Thomas Edward Oxford,42,0,11,13,18
+Cooke,33,"Lib Justice, Supreme Court, Place 3",,,Thomas Edward Oxford,21,0,1,2,18
+Cooke,1,"Justice, Supreme Court, Place 5",,REP,Rebeca Huddle,226,7,131,70,18
+Cooke,1C,"Justice, Supreme Court, Place 5",,REP,Rebeca Huddle,1283,44,770,451,18
+Cooke,2,"Justice, Supreme Court, Place 6",,REP,Rebeca Huddle,501,19,269,195,18
+Cooke,3,"Justice, Supreme Court, Place 6",,REP,Rebeca Huddle,418,8,217,175,18
+Cooke,4,"Justice, Supreme Court, Place 7",,REP,Rebeca Huddle,202,6,110,68,18
+Cooke,4C,"Justice, Supreme Court, Place 7",,REP,Rebeca Huddle,834,33,448,335,18
+Cooke,6,"Justice, Supreme Court, Place 8",,REP,Rebeca Huddle,1165,25,543,579,18
+Cooke,7,"Justice, Supreme Court, Place 8",,REP,Rebeca Huddle,796,13,422,343,18
+Cooke,8,"Justice, Supreme Court, Place 9",,REP,Rebeca Huddle,573,8,279,268,18
+Cooke,10,"Justice, Supreme Court, Place 9",,REP,Rebeca Huddle,1203,28,595,562,18
+Cooke,11,"Justice, Supreme Court, Place 10",,REP,Rebeca Huddle,1238,12,544,664,18
+Cooke,12,"Justice, Supreme Court, Place 10",,REP,Rebeca Huddle,693,8,243,424,18
+Cooke,17,"Justice, Supreme Court, Place 11",,REP,Rebeca Huddle,351,5,86,242,18
+Cooke,18,"Justice, Supreme Court, Place 11",,REP,Rebeca Huddle,1142,13,276,835,18
+Cooke,21,"Justice, Supreme Court, Place 12",,REP,Rebeca Huddle,847,13,283,533,18
+Cooke,22,"Justice, Supreme Court, Place 12",,REP,Rebeca Huddle,1368,32,637,681,18
+Cooke,33,"Justice, Supreme Court, Place 13",,REP,Rebeca Huddle,289,2,123,146,18
+Cooke,1,"Justice, Supreme Court, Place 5",,DEM,Amanda Reichek,54,1,21,14,18
+Cooke,1C,"Justice, Supreme Court, Place 5",,DEM,Amanda Reichek,463,32,260,153,18
+Cooke,2,"Justice, Supreme Court, Place 5",,DEM,Amanda Reichek,243,9,116,100,18
+Cooke,3,"Justice, Supreme Court, Place 5",,DEM,Amanda Reichek,65,2,29,16,18
+Cooke,4,"Justice, Supreme Court, Place 5",,DEM,Amanda Reichek,43,3,15,7,18
+Cooke,4C,"Justice, Supreme Court, Place 5",,DEM,Amanda Reichek,264,15,131,100,18
+Cooke,6,"Justice, Supreme Court, Place 5",,DEM,Amanda Reichek,142,9,64,51,18
+Cooke,7,"Justice, Supreme Court, Place 5",,DEM,Amanda Reichek,117,4,49,46,18
+Cooke,8,"Justice, Supreme Court, Place 5",,DEM,Amanda Reichek,81,2,35,26,18
+Cooke,10,"Justice, Supreme Court, Place 5",,DEM,Amanda Reichek,205,11,97,79,18
+Cooke,11,"Justice, Supreme Court, Place 5",,DEM,Amanda Reichek,230,16,107,89,18
+Cooke,12,"Justice, Supreme Court, Place 5",,DEM,Amanda Reichek,107,6,36,47,18
+Cooke,17,"Justice, Supreme Court, Place 5",,DEM,Amanda Reichek,31,1,6,6,18
+Cooke,18,"Justice, Supreme Court, Place 5",,DEM,Amanda Reichek,91,3,33,37,18
+Cooke,21,"Justice, Supreme Court, Place 5",,DEM,Amanda Reichek,85,2,29,36,18
+Cooke,22,"Justice, Supreme Court, Place 5",,DEM,Amanda Reichek,231,16,100,97,18
+Cooke,33,"Justice, Supreme Court, Place 5",,DEM,Amanda Reichek,47,2,13,14,18
+Cooke,1,"Justice, Supreme Court, Place 9",,REP,Evan Young,226,7,131,70,18
+Cooke,1C,"Justice, Supreme Court, Place 9",,REP,Evan Young,1280,46,767,449,18
+Cooke,2,"Justice, Supreme Court, Place 9",,REP,Evan Young,491,20,262,191,18
+Cooke,3,"Justice, Supreme Court, Place 9",,REP,Evan Young,410,8,216,168,18
+Cooke,4,"Justice, Supreme Court, Place 9",,REP,Evan Young,198,6,108,66,18
+Cooke,4C,"Justice, Supreme Court, Place 9",,REP,Evan Young,839,33,454,334,18
+Cooke,6,"Justice, Supreme Court, Place 9",,REP,Evan Young,1161,25,541,577,18
+Cooke,7,"Justice, Supreme Court, Place 9",,REP,Evan Young,794,13,421,342,18
+Cooke,8,"Justice, Supreme Court, Place 9",,REP,Evan Young,572,8,277,269,18
+Cooke,10,"Justice, Supreme Court, Place 9",,REP,Evan Young,1204,27,597,562,18
+Cooke,11,"Justice, Supreme Court, Place 9",,REP,Evan Young,1229,12,546,653,18
+Cooke,12,"Justice, Supreme Court, Place 9",,REP,Evan Young,687,8,244,417,18
+Cooke,17,"Justice, Supreme Court, Place 9",,REP,Evan Young,346,4,84,240,18
+Cooke,18,"Justice, Supreme Court, Place 9",,REP,Evan Young,1138,13,277,830,18
+Cooke,21,"Justice, Supreme Court, Place 9",,REP,Evan Young,843,13,282,530,18
+Cooke,22,"Justice, Supreme Court, Place 9",,REP,Evan Young,1367,31,642,676,18
+Cooke,33,"Justice, Supreme Court, Place 9",,REP,Evan Young,294,2,126,148,18
+Cooke,1,"Justice, Supreme Court, Place 9",,DEM,Julia Maldonado,55,1,22,14,18
+Cooke,1C,"Justice, Supreme Court, Place 9",,DEM,Julia Maldonado,458,29,256,155,18
+Cooke,2,"Justice, Supreme Court, Place 9",,DEM,Julia Maldonado,241,9,114,100,18
+Cooke,3,"Justice, Supreme Court, Place 9",,DEM,Julia Maldonado,71,2,28,23,18
+Cooke,4,"Justice, Supreme Court, Place 9",,DEM,Julia Maldonado,47,3,16,10,18
+Cooke,4C,"Justice, Supreme Court, Place 9",,DEM,Julia Maldonado,259,14,127,100,18
+Cooke,6,"Justice, Supreme Court, Place 9",,DEM,Julia Maldonado,137,8,61,50,18
+Cooke,7,"Justice, Supreme Court, Place 9",,DEM,Julia Maldonado,121,4,52,47,18
+Cooke,8,"Justice, Supreme Court, Place 9",,DEM,Julia Maldonado,81,2,35,26,18
+Cooke,10,"Justice, Supreme Court, Place 9",,DEM,Julia Maldonado,203,11,96,78,18
+Cooke,11,"Justice, Supreme Court, Place 9",,DEM,Julia Maldonado,237,16,105,98,18
+Cooke,12,"Justice, Supreme Court, Place 9",,DEM,Julia Maldonado,114,6,37,53,18
+Cooke,17,"Justice, Supreme Court, Place 9",,DEM,Julia Maldonado,32,1,7,6,18
+Cooke,18,"Justice, Supreme Court, Place 9",,DEM,Julia Maldonado,88,3,33,34,18
+Cooke,21,"Justice, Supreme Court, Place 9",,DEM,Julia Maldonado,84,2,30,34,18
+Cooke,22,"Justice, Supreme Court, Place 9",,DEM,Julia Maldonado,226,15,96,97,18
+Cooke,33,"Justice, Supreme Court, Place 9",,DEM,Julia Maldonado,42,2,10,12,18
+Cooke,1,"Judge, Court of Criminal Appeals, Place 5",,REP,Scott Walker,226,7,133,68,18
+Cooke,1C,"Judge, Court of Criminal Appeals, Place 5",,REP,Scott Walker,1273,42,763,450,18
+Cooke,2,"Judge, Court of Criminal Appeals, Place 5",,REP,Scott Walker,492,20,265,189,18
+Cooke,3,"Judge, Court of Criminal Appeals, Place 5",,REP,Scott Walker,409,8,214,169,18
+Cooke,4,"Judge, Court of Criminal Appeals, Place 5",,REP,Scott Walker,201,6,109,68,18
+Cooke,4C,"Judge, Court of Criminal Appeals, Place 5",,REP,Scott Walker,842,32,452,340,18
+Cooke,6,"Judge, Court of Criminal Appeals, Place 5",,REP,Scott Walker,1159,25,539,577,18
+Cooke,7,"Judge, Court of Criminal Appeals, Place 5",,REP,Scott Walker,792,13,418,343,18
+Cooke,8,"Judge, Court of Criminal Appeals, Place 5",,REP,Scott Walker,572,8,280,266,18
+Cooke,10,"Judge, Court of Criminal Appeals, Place 5",,REP,Scott Walker,1207,28,599,562,18
+Cooke,11,"Judge, Court of Criminal Appeals, Place 5",,REP,Scott Walker,1230,11,545,656,18
+Cooke,12,"Judge, Court of Criminal Appeals, Place 5",,REP,Scott Walker,691,8,244,421,18
+Cooke,17,"Judge, Court of Criminal Appeals, Place 5",,REP,Scott Walker,347,4,85,240,18
+Cooke,18,"Judge, Court of Criminal Appeals, Place 5",,REP,Scott Walker,1138,10,275,835,18
+Cooke,21,"Judge, Court of Criminal Appeals, Place 5",,REP,Scott Walker,842,13,281,530,18
+Cooke,22,"Judge, Court of Criminal Appeals, Place 5",,REP,Scott Walker,1372,31,639,684,18
+Cooke,33,"Judge, Court of Criminal Appeals, Place 5",,REP,Scott Walker,288,2,123,145,18
+Cooke,1,"Judge, Court of Criminal Appeals, Place 5",,DEM,Dana Huffman,57,1,23,15,18
+Cooke,1C,"Judge, Court of Criminal Appeals, Place 5",,DEM,Dana Huffman,467,34,263,152,18
+Cooke,2,"Judge, Court of Criminal Appeals, Place 5",,DEM,Dana Huffman,245,9,115,103,18
+Cooke,3,"Judge, Court of Criminal Appeals, Place 5",,DEM,Dana Huffman,70,2,28,22,18
+Cooke,4,"Judge, Court of Criminal Appeals, Place 5",,DEM,Dana Huffman,45,3,16,8,18
+Cooke,4C,"Judge, Court of Criminal Appeals, Place 5",,DEM,Dana Huffman,257,16,129,94,18
+Cooke,6,"Judge, Court of Criminal Appeals, Place 5",,DEM,Dana Huffman,147,9,66,54,18
+Cooke,7,"Judge, Court of Criminal Appeals, Place 5",,DEM,Dana Huffman,122,4,54,46,18
+Cooke,8,"Judge, Court of Criminal Appeals, Place 5",,DEM,Dana Huffman,84,2,35,29,18
+Cooke,10,"Judge, Court of Criminal Appeals, Place 5",,DEM,Dana Huffman,205,11,96,80,18
+Cooke,11,"Judge, Court of Criminal Appeals, Place 5",,DEM,Dana Huffman,237,17,107,95,18
+Cooke,12,"Judge, Court of Criminal Appeals, Place 5",,DEM,Dana Huffman,112,6,38,50,18
+Cooke,17,"Judge, Court of Criminal Appeals, Place 5",,DEM,Dana Huffman,30,1,6,5,18
+Cooke,18,"Judge, Court of Criminal Appeals, Place 5",,DEM,Dana Huffman,94,4,35,37,18
+Cooke,21,"Judge, Court of Criminal Appeals, Place 5",,DEM,Dana Huffman,88,2,30,38,18
+Cooke,22,"Judge, Court of Criminal Appeals, Place 5",,DEM,Dana Huffman,228,16,98,96,18
+Cooke,33,"Judge, Court of Criminal Appeals, Place 5",,DEM,Dana Huffman,47,2,12,15,18
+Cooke,1,"Judge, Court of Criminal Appeals, Place 6",,REP,"Jesse F. McClure, III",225,6,131,70,18
+Cooke,1C,"Judge, Court of Criminal Appeals, Place 6",,REP,"Jesse F. McClure, III",1275,47,763,447,18
+Cooke,2,"Judge, Court of Criminal Appeals, Place 6",,REP,"Jesse F. McClure, III",501,20,268,195,18
+Cooke,3,"Judge, Court of Criminal Appeals, Place 6",,REP,"Jesse F. McClure, III",413,8,214,173,18
+Cooke,4,"Judge, Court of Criminal Appeals, Place 6",,REP,"Jesse F. McClure, III",200,6,107,69,18
+Cooke,4C,"Judge, Court of Criminal Appeals, Place 6",,REP,"Jesse F. McClure, III",835,30,450,337,18
+Cooke,6,"Judge, Court of Criminal Appeals, Place 6",,REP,"Jesse F. McClure, III",1156,25,536,577,18
+Cooke,7,"Judge, Court of Criminal Appeals, Place 6",,REP,"Jesse F. McClure, III",794,13,420,343,18
+Cooke,8,"Judge, Court of Criminal Appeals, Place 6",,REP,"Jesse F. McClure, III",572,8,279,267,18
+Cooke,10,"Judge, Court of Criminal Appeals, Place 6",,REP,"Jesse F. McClure, III",1207,28,596,565,18
+Cooke,11,"Judge, Court of Criminal Appeals, Place 6",,REP,"Jesse F. McClure, III",1231,11,549,653,18
+Cooke,12,"Judge, Court of Criminal Appeals, Place 6",,REP,"Jesse F. McClure, III",686,8,239,421,18
+Cooke,17,"Judge, Court of Criminal Appeals, Place 6",,REP,"Jesse F. McClure, III",347,4,85,240,18
+Cooke,18,"Judge, Court of Criminal Appeals, Place 6",,REP,"Jesse F. McClure, III",1134,10,275,831,18
+Cooke,21,"Judge, Court of Criminal Appeals, Place 6",,REP,"Jesse F. McClure, III",841,13,282,528,18
+Cooke,22,"Judge, Court of Criminal Appeals, Place 6",,REP,"Jesse F. McClure, III",1373,31,641,683,18
+Cooke,33,"Judge, Court of Criminal Appeals, Place 6",,REP,"Jesse F. McClure, III",291,2,123,148,18
+Cooke,1,"Judge, Court of Criminal Appeals, Place 6",,DEM,Robert Johnson,54,1,21,14,18
+Cooke,1C,"Judge, Court of Criminal Appeals, Place 6",,DEM,Robert Johnson,458,31,257,152,18
+Cooke,2,"Judge, Court of Criminal Appeals, Place 6",,DEM,Robert Johnson,235,9,111,97,18
+Cooke,3,"Judge, Court of Criminal Appeals, Place 6",,DEM,Robert Johnson,66,2,28,18,18
+Cooke,4,"Judge, Court of Criminal Appeals, Place 6",,DEM,Robert Johnson,44,3,16,7,18
+Cooke,4C,"Judge, Court of Criminal Appeals, Place 6",,DEM,Robert Johnson,255,13,129,95,18
+Cooke,6,"Judge, Court of Criminal Appeals, Place 6",,DEM,Robert Johnson,146,9,69,50,18
+Cooke,7,"Judge, Court of Criminal Appeals, Place 6",,DEM,Robert Johnson,117,4,50,45,18
+Cooke,8,"Judge, Court of Criminal Appeals, Place 6",,DEM,Robert Johnson,81,2,35,26,18
+Cooke,10,"Judge, Court of Criminal Appeals, Place 6",,DEM,Robert Johnson,201,11,96,76,18
+Cooke,11,"Judge, Court of Criminal Appeals, Place 6",,DEM,Robert Johnson,233,17,103,95,18
+Cooke,12,"Judge, Court of Criminal Appeals, Place 6",,DEM,Robert Johnson,112,6,40,48,18
+Cooke,17,"Judge, Court of Criminal Appeals, Place 6",,DEM,Robert Johnson,28,1,5,4,18
+Cooke,18,"Judge, Court of Criminal Appeals, Place 6",,DEM,Robert Johnson,93,4,34,37,18
+Cooke,21,"Judge, Court of Criminal Appeals, Place 6",,DEM,Robert Johnson,86,2,28,38,18
+Cooke,22,"Judge, Court of Criminal Appeals, Place 6",,DEM,Robert Johnson,222,16,95,93,18
+Cooke,33,"Judge, Court of Criminal Appeals, Place 6",,DEM,Robert Johnson,43,2,12,11,18
+Cooke,1,"Member, State BoE, Dist 12",,REP,Pam Little,227,6,134,69,18
+Cooke,1C,"Member, State BoE, Dist 12",,REP,Pam Little,1256,47,748,443,18
+Cooke,2,"Member, State BoE, Dist 12",,REP,Pam Little,481,18,260,185,18
+Cooke,3,"Member, State BoE, Dist 12",,REP,Pam Little,402,8,209,167,18
+Cooke,4,"Member, State BoE, Dist 12",,REP,Pam Little,200,6,109,67,18
+Cooke,4C,"Member, State BoE, Dist 12",,REP,Pam Little,813,29,441,325,18
+Cooke,6,"Member, State BoE, Dist 12",,REP,Pam Little,1154,23,538,575,18
+Cooke,7,"Member, State BoE, Dist 12",,REP,Pam Little,788,13,416,341,18
+Cooke,8,"Member, State BoE, Dist 12",,REP,Pam Little,564,7,274,265,18
+Cooke,10,"Member, State BoE, Dist 12",,REP,Pam Little,1186,28,584,556,18
+Cooke,11,"Member, State BoE, Dist 12",,REP,Pam Little,1205,12,534,641,18
+Cooke,12,"Member, State BoE, Dist 12",,REP,Pam Little,673,8,236,411,18
+Cooke,17,"Member, State BoE, Dist 12",,REP,Pam Little,344,4,85,237,18
+Cooke,18,"Member, State BoE, Dist 12",,REP,Pam Little,1121,12,271,820,18
+Cooke,21,"Member, State BoE, Dist 12",,REP,Pam Little,832,13,277,524,18
+Cooke,22,"Member, State BoE, Dist 12",,REP,Pam Little,1357,30,636,673,18
+Cooke,33,"Member, State BoE, Dist 12",,REP,Pam Little,283,2,119,144,18
+Cooke,1,"Member, State BoE, Dist 12",,DEM,Alex Cornwallis,54,1,21,14,18
+Cooke,1C,"Member, State BoE, Dist 12",,DEM,Alex Cornwallis,432,29,244,141,18
+Cooke,2,"Member, State BoE, Dist 12",,DEM,Alex Cornwallis,232,9,114,91,18
+Cooke,3,"Member, State BoE, Dist 12",,DEM,Alex Cornwallis,65,2,27,18,18
+Cooke,4,"Member, State BoE, Dist 12",,DEM,Alex Cornwallis,42,3,14,7,18
+Cooke,4C,"Member, State BoE, Dist 12",,DEM,Alex Cornwallis,254,16,126,94,18
+Cooke,6,"Member, State BoE, Dist 12",,DEM,Alex Cornwallis,135,9,62,46,18
+Cooke,7,"Member, State BoE, Dist 12",,DEM,Alex Cornwallis,101,4,42,37,18
+Cooke,8,"Member, State BoE, Dist 12",,DEM,Alex Cornwallis,72,2,33,19,18
+Cooke,10,"Member, State BoE, Dist 12",,DEM,Alex Cornwallis,187,11,90,68,18
+Cooke,11,"Member, State BoE, Dist 12",,DEM,Alex Cornwallis,229,17,100,94,18
+Cooke,12,"Member, State BoE, Dist 12",,DEM,Alex Cornwallis,107,6,35,48,18
+Cooke,17,"Member, State BoE, Dist 12",,DEM,Alex Cornwallis,31,1,7,5,18
+Cooke,18,"Member, State BoE, Dist 12",,DEM,Alex Cornwallis,91,4,29,40,18
+Cooke,21,"Member, State BoE, Dist 12",,DEM,Alex Cornwallis,81,2,28,33,18
+Cooke,22,"Member, State BoE, Dist 12",,DEM,Alex Cornwallis,211,17,92,84,18
+Cooke,33,"Member, State BoE, Dist 12",,DEM,Alex Cornwallis,47,2,13,14,18
+Cooke,1,"Lib Member, State BoE, Dist 12",,,Christy Mowrey,21,0,1,2,18
+Cooke,1C,"Lib Member, State BoE, Dist 12",,,Christy Mowrey,80,2,35,25,18
+Cooke,2,"Lib Member, State BoE, Dist 12",,,Christy Mowrey,47,1,10,18,18
+Cooke,3,"Lib Member, State BoE, Dist 12",,,Christy Mowrey,30,0,5,7,18
+Cooke,4,"Lib Member, State BoE, Dist 12",,,Christy Mowrey,21,0,2,1,18
+Cooke,4C,"Lib Member, State BoE, Dist 12",,,Christy Mowrey,48,2,14,14,18
+Cooke,6,"Lib Member, State BoE, Dist 12",,,Christy Mowrey,40,2,8,12,18
+Cooke,7,"Lib Member, State BoE, Dist 12",,,Christy Mowrey,42,0,13,11,18
+Cooke,8,"Lib Member, State BoE, Dist 12",,,Christy Mowrey,35,1,7,9,18
+Cooke,10,"Lib Member, State BoE, Dist 12",,,Christy Mowrey,55,0,21,16,18
+Cooke,11,"Lib Member, State BoE, Dist 12",,,Christy Mowrey,49,0,13,18,18
+Cooke,12,"Lib Member, State BoE, Dist 12",,,Christy Mowrey,41,0,12,11,18
+Cooke,17,"Lib Member, State BoE, Dist 12",,,Christy Mowrey,19,0,0,1,18
+Cooke,18,"Lib Member, State BoE, Dist 12",,,Christy Mowrey,42,0,10,14,18
+Cooke,21,"Lib Member, State BoE, Dist 12",,,Christy Mowrey,38,0,7,13,18
+Cooke,22,"Lib Member, State BoE, Dist 12",,,Christy Mowrey,51,0,13,20,18
+Cooke,33,"Lib Member, State BoE, Dist 12",,,Christy Mowrey,23,0,2,3,18
+Cooke,1,"Justice, 2nd Ct of App Dist, Pl 3",,REP,Elizabeth Kerr,229,6,133,72,18
+Cooke,1C,"Justice, 2nd Ct of App Dist, Pl 3",,REP,Elizabeth Kerr,1302,46,774,464,18
+Cooke,2,"Justice, 2nd Ct of App Dist, Pl 3",,REP,Elizabeth Kerr,495,17,269,191,18
+Cooke,3,"Justice, 2nd Ct of App Dist, Pl 3",,REP,Elizabeth Kerr,412,8,213,173,18
+Cooke,4,"Justice, 2nd Ct of App Dist, Pl 3",,REP,Elizabeth Kerr,203,6,111,68,18
+Cooke,4C,"Justice, 2nd Ct of App Dist, Pl 3",,REP,Elizabeth Kerr,847,32,457,340,18
+Cooke,6,"Justice, 2nd Ct of App Dist, Pl 3",,REP,Elizabeth Kerr,1171,24,546,583,18
+Cooke,7,"Justice, 2nd Ct of App Dist, Pl 3",,REP,Elizabeth Kerr,796,13,419,346,18
+Cooke,8,"Justice, 2nd Ct of App Dist, Pl 3",,REP,Elizabeth Kerr,574,8,279,269,18
+Cooke,10,"Justice, 2nd Ct of App Dist, Pl 3",,REP,Elizabeth Kerr,1212,28,602,564,18
+Cooke,11,"Justice, 2nd Ct of App Dist, Pl 3",,REP,Elizabeth Kerr,1230,12,541,659,18
+Cooke,12,"Justice, 2nd Ct of App Dist, Pl 3",,REP,Elizabeth Kerr,694,8,244,424,18
+Cooke,17,"Justice, 2nd Ct of App Dist, Pl 3",,REP,Elizabeth Kerr,348,4,84,242,18
+Cooke,18,"Justice, 2nd Ct of App Dist, Pl 3",,REP,Elizabeth Kerr,1141,11,273,839,18
+Cooke,21,"Justice, 2nd Ct of App Dist, Pl 3",,REP,Elizabeth Kerr,848,13,282,535,18
+Cooke,22,"Justice, 2nd Ct of App Dist, Pl 3",,REP,Elizabeth Kerr,1384,31,649,686,18
+Cooke,33,"Justice, 2nd Ct of App Dist, Pl 3",,REP,Elizabeth Kerr,295,2,124,151,18
+Cooke,1,"Justice, 2nd Ct of App Dist, Pl 3",,DEM,Delonia A. Watson,53,1,21,13,18
+Cooke,1C,"Justice, 2nd Ct of App Dist, Pl 3",,DEM,Delonia A. Watson,449,30,256,145,18
+Cooke,2,"Justice, 2nd Ct of App Dist, Pl 3",,DEM,Delonia A. Watson,244,11,114,101,18
+Cooke,3,"Justice, 2nd Ct of App Dist, Pl 3",,DEM,Delonia A. Watson,61,2,23,18,18
+Cooke,4,"Justice, 2nd Ct of App Dist, Pl 3",,DEM,Delonia A. Watson,43,3,15,7,18
+Cooke,4C,"Justice, 2nd Ct of App Dist, Pl 3",,DEM,Delonia A. Watson,253,15,125,95,18
+Cooke,6,"Justice, 2nd Ct of App Dist, Pl 3",,DEM,Delonia A. Watson,140,9,65,48,18
+Cooke,7,"Justice, 2nd Ct of App Dist, Pl 3",,DEM,Delonia A. Watson,119,4,52,45,18
+Cooke,8,"Justice, 2nd Ct of App Dist, Pl 3",,DEM,Delonia A. Watson,81,2,35,26,18
+Cooke,10,"Justice, 2nd Ct of App Dist, Pl 3",,DEM,Delonia A. Watson,199,11,92,78,18
+Cooke,11,"Justice, 2nd Ct of App Dist, Pl 3",,DEM,Delonia A. Watson,231,17,107,89,18
+Cooke,12,"Justice, 2nd Ct of App Dist, Pl 3",,DEM,Delonia A. Watson,111,6,39,48,18
+Cooke,17,"Justice, 2nd Ct of App Dist, Pl 3",,DEM,Delonia A. Watson,31,1,7,5,18
+Cooke,18,"Justice, 2nd Ct of App Dist, Pl 3",,DEM,Delonia A. Watson,88,3,32,35,18
+Cooke,21,"Justice, 2nd Ct of App Dist, Pl 3",,DEM,Delonia A. Watson,81,2,27,34,18
+Cooke,22,"Justice, 2nd Ct of App Dist, Pl 3",,DEM,Delonia A. Watson,211,16,91,86,18
+Cooke,33,"Justice, 2nd Ct of App Dist, Pl 3",,DEM,Delonia A. Watson,43,2,12,11,18
+Cooke,1,County Judge,,REP,John O. Roane,234,6,137,73,18
+Cooke,1C,County Judge,,REP,John O. Roane,1299,52,765,464,18
+Cooke,2,County Judge,,REP,John O. Roane,500,20,268,194,18
+Cooke,3,County Judge,,REP,John O. Roane,401,9,202,172,18
+Cooke,4,County Judge,,REP,John O. Roane,198,6,109,65,18
+Cooke,4C,County Judge,,REP,John O. Roane,853,32,467,336,18
+Cooke,6,County Judge,,REP,John O. Roane,1162,24,538,582,18
+Cooke,7,County Judge,,REP,John O. Roane,797,13,414,352,18
+Cooke,8,County Judge,,REP,John O. Roane,571,8,279,266,18
+Cooke,10,County Judge,,REP,John O. Roane,1241,28,613,582,18
+Cooke,11,County Judge,,REP,John O. Roane,1262,17,546,681,18
+Cooke,12,County Judge,,REP,John O. Roane,695,9,239,429,18
+Cooke,17,County Judge,,REP,John O. Roane,337,2,78,239,18
+Cooke,18,County Judge,,REP,John O. Roane,1085,11,272,784,18
+Cooke,21,County Judge,,REP,John O. Roane,836,13,280,525,18
+Cooke,22,County Judge,,REP,John O. Roane,1398,32,655,693,18
+Cooke,33,County Judge,,REP,John O. Roane,298,2,122,156,18
+Cooke,1,County Judge,,DEM,Denny Hook,52,1,21,12,18
+Cooke,1C,County Judge,,DEM,Denny Hook,468,29,270,151,18
+Cooke,2,County Judge,,DEM,Denny Hook,250,9,122,101,18
+Cooke,3,County Judge,,DEM,Denny Hook,61,2,21,20,18
+Cooke,4,County Judge,,DEM,Denny Hook,49,3,17,11,18
+Cooke,4C,County Judge,,DEM,Denny Hook,261,15,126,102,18
+Cooke,6,County Judge,,DEM,Denny Hook,150,9,69,54,18
+Cooke,7,County Judge,,DEM,Denny Hook,122,4,56,44,18
+Cooke,8,County Judge,,DEM,Denny Hook,85,2,36,29,18
+Cooke,10,County Judge,,DEM,Denny Hook,181,11,89,63,18
+Cooke,11,County Judge,,DEM,Denny Hook,216,14,103,81,18
+Cooke,12,County Judge,,DEM,Denny Hook,116,5,45,48,18
+Cooke,17,County Judge,,DEM,Denny Hook,39,4,10,7,18
+Cooke,18,County Judge,,DEM,Denny Hook,147,5,37,87,18
+Cooke,21,County Judge,,DEM,Denny Hook,99,3,29,49,18
+Cooke,22,County Judge,,DEM,Denny Hook,215,16,87,94,18
+Cooke,33,County Judge,,DEM,Denny Hook,42,2,15,7,18
