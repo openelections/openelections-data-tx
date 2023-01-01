@@ -107,12 +107,12 @@ for (f in list){
         #######################################################################
         else if (toupper(ext) %in% c(".CSV",".XLSX",".XLS")){
             dd <- def[toupper(def$counties) == toupper(county),]
-            if (toupper(county) == "BANDERA"){ # DEM and REP don't match
-                if (party == "REP"){
-                    dd$early_voting[1] <- "Early Voting Votes"
-                    dd$election_day[1] <- "Election Day Voting Votes"
-                }
-            }
+            # if (toupper(county) == "BANDERA"){ # DEM and REP don't match
+            #     if (party == "REP"){
+            #         dd$early_voting[1] <- "Early Voting Votes"
+            #         dd$election_day[1] <- "Election Day Voting Votes"
+            #     }
+            # }
             zdd <<- dd #DEBUG-RM
             if (is.na(dd$desc[1]) | dd$desc[1] == "NA") next
             gotxx <- FALSE
@@ -538,12 +538,16 @@ for (f in list){
             xx$party[grepl("^\\(D\\) ",xx$office, ignore.case = TRUE)] <- "DEM" # El Paso County
             xx$party[grepl("^Rep ",xx$office, ignore.case = TRUE)] <- "REP"
             xx$party[grepl("^Dem ",xx$office, ignore.case = TRUE)] <- "DEM"
+            xx$party[grepl("^Lib ",xx$office, ignore.case = TRUE)] <- "LIB" # Cooke County
+            xx$party[grepl("^Grn ",xx$office, ignore.case = TRUE)] <- "GRN" # Cooke County
             xx$office <- gsub(" \\(R\\)$","",xx$office, ignore.case = TRUE) # Hays County
             xx$office <- gsub(" \\(D\\)$","",xx$office, ignore.case = TRUE) # Hays County
             xx$office <- gsub("^\\(R\\) ","",xx$office, ignore.case = TRUE) # El Paso County
             xx$office <- gsub("^\\(D\\) ","",xx$office, ignore.case = TRUE) # El Paso County
             xx$office <- gsub("^Rep\\.? ","",xx$office, ignore.case = TRUE)
             xx$office <- gsub("^Dem\\.? ","",xx$office, ignore.case = TRUE)
+            xx$office <- gsub("^Lib\\.? ","",xx$office, ignore.case = TRUE) # Cooke County
+            xx$office <- gsub("^Grn\\.? ","",xx$office, ignore.case = TRUE) # Cooke County
             xx$office <- gsub("^Rep ","",xx$office, ignore.case = TRUE) # delete double Rep
             xx$office <- gsub("^Dem ","",xx$office, ignore.case = TRUE) # delete double Dem
             xx$office <- gsub(" Of "," of ",xx$office)
