@@ -47,7 +47,9 @@ list <- list.files(dir, pattern = "*", full.names = FALSE)
 len <- length(list)
 print(paste0("nfiles=",len))
 for (f in list){
-    print(paste0("f=",f)) #DEBUG
+    if (match_county == ""){
+        print(paste0("f=",f)) #DEBUG
+    }
     mm <- str_match(f, "^([A-Z_]+)_COUNTY")
     if(!is.na(mm[1,1])){
         county0 <- mm[1,2]
@@ -518,6 +520,9 @@ for (f in list){
             #xx$precinct <- gsub("^PCT ","",xx$precinct, ignore.case = TRUE) # Wharton County
             xx$party[xx$party == "(D)"] <- "DEM" # El Paso County
             xx$party[xx$party == "(R)"] <- "REP" # El Paso County
+            xx$party[xx$party == "(G)"] <- "GRN" # El Paso County
+            xx$party[xx$party == "(I)"] <- "IND" # El Paso County
+            xx$party[xx$party == "(L)"] <- "LIB" # El Paso County
             xx$party[grepl("^Democratic",xx$party, ignore.case = TRUE)] <- "DEM" #Brazos County
             xx$party[grepl("^Republican",xx$party, ignore.case = TRUE)] <- "REP" #Brazos County
             xx$candidate <- str_squish(xx$candidate) # change all multiple spaces to a single space - Ellis County
@@ -570,6 +575,11 @@ for (f in list){
             xx$candidate <- gsub("^REP ","",xx$candidate, ignore.case = TRUE) # Rusk County
             xx$candidate <- gsub("^LIB ","",xx$candidate, ignore.case = TRUE) # Rusk County
             xx$candidate <- gsub("^GRN ","",xx$candidate, ignore.case = TRUE) # Rusk County
+            xx$candidate <- gsub("^\\(D\\)","",xx$candidate, ignore.case = TRUE) # El Paso County
+            xx$candidate <- gsub("^\\(R\\)","",xx$candidate, ignore.case = TRUE) # El Paso County
+            xx$candidate <- gsub("^\\(G\\)","",xx$candidate, ignore.case = TRUE) # El Paso County
+            xx$candidate <- gsub("^\\(I\\)","",xx$candidate, ignore.case = TRUE) # El Paso County
+            xx$candidate <- gsub("^\\(L\\)","",xx$candidate, ignore.case = TRUE) # El Paso County
             
             for (i in 1:NROW(xx)){
                 mm <- str_match(xx$office[i], "U.S. House\\,? Dist\\.?(?:rict)?(?: No.)? (\\d+)")
