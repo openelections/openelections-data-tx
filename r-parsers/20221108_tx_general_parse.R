@@ -24,6 +24,7 @@ library("readxl")
 # NOTE: Had to use just the subdirectory 2022- 1 March Primary PctxPct due to file paths becoming too long for Windows.
 #dir <- "..\\2022- 1 March Primary PctxPct\\"
 dir <- "..\\2022- 8 November GE Pctxpct\\"
+print(paste0("STARTTIME=",Sys.time()))
 ###############################################################################
 # set to county in upper case (like "EL PASO") to limit search;
 # set to "" to search all counties
@@ -389,22 +390,30 @@ for (f in list){
                     gotxx <- TRUE
                 }
                 else if (!is.na(dd$desc2[1]) & dd$desc2[1] == "opc_hdr"){
-                    if (toupper(ext) == ".CSV"){
+                    if (toupper(ext) %in% c(".CSV",".XLSX",".XLS")){ # added XLSX for Dallas County
                         #xxparty <- read_delim(filenamex, ' ', col_names = FALSE, n_max = 1)
                         #hdr usually ordered by office, party, candidate
                         oskip <- as.numeric(dd$office[1]) + nskip - 1
                         pskip <- as.numeric(dd$party[1]) + nskip - 1
                         cskip <- as.numeric(dd$candidate[1]) + nskip - 1
-                        ohdr <- read_csv(filename, col_names = FALSE, skip = oskip, n_max = 1)
-                        phdr <- read_csv(filename, col_names = FALSE, skip = pskip, n_max = 1)
-                        chdr <- read_csv(filename, col_names = FALSE, skip = cskip, n_max = 1)
+                        if (toupper(ext) == ".CSV"){
+                            ohdr <- read_csv(filename, col_names = FALSE, skip = oskip, n_max = 1)
+                            phdr <- read_csv(filename, col_names = FALSE, skip = pskip, n_max = 1)
+                            chdr <- read_csv(filename, col_names = FALSE, skip = cskip, n_max = 1)
+                            vv <- read_csv(filename, col_types = "c", skip = (nskip+2))
+                        }
+                        else{
+                            ohdr <- read_excel(filename, sheet = nsheet, col_names = FALSE, col_types = "text", skip = oskip)
+                            phdr <- read_excel(filename, sheet = nsheet, col_names = FALSE, col_types = "text", skip = pskip)
+                            chdr <- read_excel(filename, sheet = nsheet, col_names = FALSE, col_types = "text", skip = cskip)
+                            vv <-   read_excel(filename, sheet = nsheet, col_names = TRUE,  col_types = "text", skip = (nskip+2))
+                        }
                         col1 <- as.numeric(dd$votes[1])
                         office    <- as.character(ohdr[1,col1:NCOL(ohdr)])
                         party     <- as.character(phdr[1,col1:NCOL(phdr)])
                         candidate <- as.character(chdr[1,col1:NCOL(chdr)])
                         #candidate <- candidate[!is.na(candidate)]
-                        vv <- read_csv(filename, col_types = "c", skip = (nskip+2))
-                        xx <- data.frame(office,party,candidate)
+                        xx <- data.frame(office,party,candidate,stringsAsFactors = FALSE)
                         xx$county <- county
                         xx$precinct <- NA
                         xx$district <- NA
@@ -458,7 +467,6 @@ for (f in list){
                         for (i in 1:NROW(vv)){
                             precinct <- vv[i, as.numeric(iprecinct)]
                             #print(paste0("i|precinct=",i,"|",precinct,"|")) #DEBUG-RM
-                            zvv <<- vv #DEBUG-RM
                             if (last_precinct != precinct){
                                 j <- 1
                                 if (i > 1){
@@ -482,6 +490,8 @@ for (f in list){
                         xx$precinct <- as.character(last_precinct)
                         yy <- rbind(yy,xx)
                     }
+                    print(paste0("PROCESSED ",NROW(vv)," ROWS")) #DEBUG
+                    print(paste0("PROC TIME=",Sys.time()))
                     # else{
                     #     vv <- read_excel(filename, sheet = nsheet, skip = nskip)
                     # }
@@ -545,6 +555,11 @@ for (f in list){
             xx$party[grepl("^Dem ",xx$office, ignore.case = TRUE)] <- "DEM"
             xx$party[grepl("^Lib ",xx$office, ignore.case = TRUE)] <- "LIB" # Cooke County
             xx$party[grepl("^Grn ",xx$office, ignore.case = TRUE)] <- "GRN" # Cooke County
+            xx$party[grepl("^DEM ",xx$candidate, ignore.case = TRUE)] <- "DEM" # Dallas County
+            xx$party[grepl("^REP ",xx$candidate, ignore.case = TRUE)] <- "REP" # Dallas County
+            xx$party[grepl("^GRN ",xx$candidate, ignore.case = TRUE)] <- "GRN" # Dallas County
+            xx$party[grepl("^IND ",xx$candidate, ignore.case = TRUE)] <- "IND" # Dallas County
+            xx$party[grepl("^LIB ",xx$candidate, ignore.case = TRUE)] <- "LIB" # Dallas County
             xx$office <- gsub(" \\(R\\)$","",xx$office, ignore.case = TRUE) # Hays County
             xx$office <- gsub(" \\(D\\)$","",xx$office, ignore.case = TRUE) # Hays County
             xx$office <- gsub("^\\(R\\) ","",xx$office, ignore.case = TRUE) # El Paso County
@@ -811,5 +826,6 @@ for (f in list){
                 write_csv(dd, file_party)
             }
         }
+        print(paste0("STOP TIME=",Sys.time()))
     }
 }
