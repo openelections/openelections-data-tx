@@ -1,7 +1,7 @@
 status,counties,desc,desc2,merge,sheet,skip,county,precinct,reg_voters,office,district,party,candidate,votes,early_voting,election_day,provisional,provisional_counted,mail,absentee,under_votes,over_votes,(other),U.S. Senate,U.S. House,State Senate,State House,Notes
 done,Anderson,fw263,,NA,,,,,,,,,,,,,,,,,,,,,,,,
 done,Andrews,fw263,,R+D,,,,,,,,,,,,,,,,,,,,,,,,
-primary22,Angelina,fw263,,NA,,,,,,,,,,,,,,,,,,,,,,,,
+done,Angelina,fw263,,NA,,,,,,,,,,,,,,,,,,,,,,,,Had to change extension from CSV to TXT.
 ,Aransas,pdf,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Archer,csv,longx,,,,,Precinct_name,,Contest_title,|District No.| District No.,,candidate_name,total_votes,early_votes,election_votes,,,,,total_under_votes,total_over_votes,y,,United States Representative,State Senator,State Representative,"No clear way to determine party of primary, only Contest_Id, a number, seems to be a possible clue."
 ,Armstrong,pdf,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -37,7 +37,7 @@ done,Carson,fw179,,NA,,,,,,,,,,,,,,,,,,,,,,,,
 ,Chambers,NA,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Cherokee,NA,,,,,,,,,,,,,,,,,,,,,,,,,,
 done,Childress,fw161,,,,,,,,,,,,,,,,,,,,,,,,,,
-p,Clay,fw263,,NA,,,,,,,,,,,,,,,,,,,,,,,,
+p,Clay,pdf,,NA,,,,,,,,,,,,,,,,,,,,,,,,"Primary was fw263, general is pdf."
 ,Cochran,NA,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Coke,NA,,,,,,,,,,,,,,,,,,,,,,,,,,
 done,Coleman,fw263,,D+R,,,,,,,,,,,,,,,,,,,,,,,,
@@ -55,7 +55,7 @@ done,Cooke,xlsx,long,,SOSDATA,,political_subdivision,precinct_number,reg_voters,
 ,Crosby,NA,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Culberson,NA,,,,,,,,,,,,,,,,,,,,,,,,,,
 p,Dallam,fw263,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Dallas_skip,xlsx,opc_hdr,,,,1,3,,1,,2,3,5,1,4,,3,2,0,,,,,,,,
+,Dallas,xlsx,opc_hdr,,,0,1,3,,1,"|, Dist",2,3,4,1,4,,3,2,0,,,,,,,,
 p,Dallas_skip,xls,mtab_ocxx,R+D,Table of Contents,3,,1,2,1,,,2,5,1,4,,3,,2,,,,,,,,"Had to unzip, open xls and resave as xlsx with multiple sheets. Also, EV (early-voting) Mail is counted as Absentee to be consistent with other current TX counties."
 ,Dawson,NA,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Deaf Smith,NA,,,,,,,,,,,,,,,,,,,,,,,,,,
