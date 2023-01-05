@@ -728,6 +728,15 @@ for (f in list){
                 if (sumlimited == 0){
                     xx <- xx[-ilimited]
                 }
+                if (toupper(county) == "CRANE"){
+                    ielection_day <- which(names(xx) == "election_day")
+                    sumelection_day <- sum(xx$election_day, na.rm = TRUE)
+                    if (sumelection_day == 0){
+                        xx <- xx[-ielection_day]
+                        iearly_voting <- which(names(xx) == "early_voting") # Crane County
+                        xx <- xx[-iearly_voting]
+                    }
+                }
             }
             # fix missing precincts if surrounded by same precinct - Austin County
             ipna <- which(is.na(xx$precinct))
