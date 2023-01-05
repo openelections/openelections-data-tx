@@ -93,11 +93,12 @@ for (f in list){
                 nms   <- c("irace","icandidate","iprecinct","votes","election_day","early_voting","absentee","provisional",
                            "unused","party","party2","office","candidate","precinct","precinct2","racetype")
                 nmsxx <- c("county","precinct","office","district","party","candidate","votes",
-                           "absentee","early_voting","election_day","mail","provisional")
+                           "absentee","early_voting","election_day","mail","provisional","limited")
                 xx <- read_fwf(file_txt, fwf_positions(start, end, nms), col_types = "cccccccccccccccc")
                 xx$county <- str_to_title(county) # match standard
                 xx$district <- ""
                 xx$mail <- 0
+                xx$limited <- 0
                 xx <- xx[nmsxx]
                 xvotes <- TRUE
             }
@@ -155,7 +156,7 @@ for (f in list){
                     nmsxx <- c("county","precinct","office","district","party","candidate")
                     xx <- xx[nmsxx]
                     #nmsxx <- c("county","precinct","office","district","party","candidate","votes",
-                    #           "absentee","early_voting","election_day","mail","provisional")
+                    #           "absentee","early_voting","election_day","mail","provisional","limited")
                     xvotes <- FALSE
                     xx$votes <- 0
                     if (!is.na(dd$absentee[1])){
@@ -213,6 +214,17 @@ for (f in list){
                         xx$provisional <- 0
                         got_provisional <- FALSE
                     }
+                    if (!is.na(dd$limited[1])){
+                        xx$limited <- as.numeric(vv[[dd$limited[1]]])
+                        xx$limited[is.na(xx$limited)] <- 0
+                        xx$votes <- xx$votes + xx$limited
+                        got_limited <- TRUE
+                        xvotes <- TRUE
+                    }
+                    else{
+                        xx$limited <- 0
+                        got_limited <- FALSE
+                    }
                     if (!is.na(dd$votes[1])){
                         xx$votes <- vv[[dd$votes[1]]]
                         got_votes <- TRUE
@@ -225,7 +237,7 @@ for (f in list){
                     skip0 <- 2 #number of rows to skip to read candidates
                     tt <- read_excel(filename, sheet = nsheet, col_types = "text", skip = nskip)
                     yy <- NULL
-                    if (toupper(county) == "DALLAS"){
+                    if (toupper(county) == "DALLAS"){ #add limited?
                         vv <- read_excel(filename, sheet = "Registered Voters", col_types = "text",
                                          skip = 0)
                         xx <- data.frame(vv$Precinct)
@@ -305,6 +317,7 @@ for (f in list){
                             ielection_day <- as.numeric(dd$election_day[1])+j-1
                             imail         <- as.numeric(dd$mail[1])+j-1
                             iprovisional  <- as.numeric(dd$provisional_counted[1])+j-1
+                            ilimited      <- as.numeric(dd$limited[1])+j-1
                             imax <- 0
                             xx$votes <- as.numeric(vv[[ivotes]])
                             if (!is.na(iabsentee)){
@@ -366,6 +379,18 @@ for (f in list){
                             else{
                                 xx$provisional <- 0
                                 got_provisional <- FALSE
+                            }
+                            if (!is.na(ilimited)){
+                                xx$limited <- as.numeric(vv[[ilimited]])
+                                xx$limited[is.na(xx$limited)] <- 0
+                                xx$votes <- xx$votes + xx$limited
+                                got_limited <- TRUE
+                                xvotes <- TRUE
+                                if (imax < ilimited) imax <- ilimited
+                            }
+                            else{
+                                xx$limited <- 0
+                                got_limited <- FALSE
                             }
                             if (!is.na(ivotes)){
                                 xx$votes <- vv[[ivotes]]
@@ -455,6 +480,13 @@ for (f in list){
                             xx$provisional <- 0
                             colname <- c(colname, "provisional")
                             colindx <- c(colindx, iprovisional)
+                            xvotes <- TRUE
+                        }
+                        if (!is.na(dd$limited[1])){
+                            ilimited <- as.numeric(dd$limited[1])
+                            xx$limited <- 0
+                            colname <- c(colname, "limited")
+                            colindx <- c(colindx, ilimited)
                             xvotes <- TRUE
                         }
                         j <- 1
@@ -632,6 +664,7 @@ for (f in list){
                 xx$election_day <- as.numeric(xx$election_day)
                 xx$mail         <- as.numeric(xx$mail)
                 xx$provisional  <- as.numeric(xx$provisional)
+                xx$limited      <- as.numeric(xx$limited)
             }
             
             # Only delete if all votes for all lines in an office group are zero
@@ -648,7 +681,7 @@ for (f in list){
                         }
                     }
                     if (xvotes){
-                        nonzero <- (xx$votes[i] != 0 | xx$absentee[i] != 0 | xx$early_voting[i] != 0 | xx$election_day[i] != 0 | xx$mail[i] != 0 | xx$provisional[i] != 0)
+                        nonzero <- (xx$votes[i] != 0 | xx$absentee[i] != 0 | xx$early_voting[i] != 0 | xx$election_day[i] != 0 | xx$mail[i] != 0 | xx$provisional[i] != 0 | xx$limited[i] != 0)
                     }
                     else{
                         nonzero <- (xx$votes[i] != 0)
@@ -659,7 +692,7 @@ for (f in list){
                 else{
                     if (is.na(nonzero) | !nonzero){
                         if (xvotes){
-                            nonzero <- (xx$votes[i] != 0 | xx$absentee[i] != 0 | xx$early_voting[i] != 0 | xx$election_day[i] != 0 | xx$mail[i] != 0 | xx$provisional[i] != 0)
+                            nonzero <- (xx$votes[i] != 0 | xx$absentee[i] != 0 | xx$early_voting[i] != 0 | xx$election_day[i] != 0 | xx$mail[i] != 0 | xx$provisional[i] != 0 | xx$limited[i] != 0)
                         }
                         else{
                             nonzero <- (xx$votes[i] != 0)
@@ -688,6 +721,12 @@ for (f in list){
                 summail <- sum(xx$mail, na.rm = TRUE)
                 if (summail == 0){
                     xx <- xx[-imail]
+                }
+                # delete limited if their sum = 0
+                ilimited <- which(names(xx) == "limited")
+                sumlimited <- sum(xx$limited, na.rm = TRUE)
+                if (sumlimited == 0){
+                    xx <- xx[-ilimited]
                 }
             }
             # fix missing precincts if surrounded by same precinct - Austin County
