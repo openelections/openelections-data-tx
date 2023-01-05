@@ -44,18 +44,18 @@ done,Coleman,fw263,,D+R,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Collin,CSV,opc_hdr,,,,1,3,4,1,,2,3,5,2,1,,4,3,0,5,,,,,,,,
 ,Collingsworth,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
 done,Colorado,fw179,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Comal,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Comal,xlsx,mtab_PPR,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Comanche,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Concho,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
 done,Cooke,xlsx,long,,SOSDATA,,political_subdivision,precinct_number,reg_voters,race_name,|District,,candidate_name,,Early_votes,Election Day_votes,total provisional ballots,total provisional ballots counted,,Absentee_votes,,,,,,,,,
-,Coryell,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+done,Coryell,cvs,long,,,,political_subdivision,precinct_number,reg_voters,race_name,|District No.,party code,candidate_name,,early_votes,election_votes,total provisional ballots,total provisional ballots counted,,,,,,,,,,,No absentee or mail votes.
 ,Cottle,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Crane,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+done,Crane,csv,opc_hdr,,,,1,3,4,1,,2,3,5,1,0,,0,0,0,0,,,,,,,,Only vote total. Marked early_voting fixed in code.
 ,Crockett,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Crosby,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Culberson,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-p,Dallam,fw263,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Dallas,xlsx,opc_hdr,,,0,1,3,,1,"|, Dist",2,3,4,1,4,,3,2,0,0,,,,,,,,
+done,Dallam,CSV,opc_hdr,,,,1,3,4,1,"|, Dist",2,3,5,2,3,,0,0,1,0,,,,,,,,"Was fw263, now CSV opc_hdr. From size of numbers, judging row order same as Caldwell County."
+done,Dallas_slow,xlsx,opc_hdr,,,0,1,3,,1,"|, Dist",2,3,4,1,4,,3,2,0,0,,,,,,,,Slow processing. Change county to Dallas to run.
 p,Dallas_skip,xls,mtab_ocxx,R+D,Table of Contents,3,,1,2,1,,,2,5,1,4,,3,,2,0,,,,,,,,"Had to unzip, open xls and resave as xlsx with multiple sheets. Also, EV (early-voting) Mail is counted as Absentee to be consistent with other current TX counties."
 ,Dawson,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Deaf Smith,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
