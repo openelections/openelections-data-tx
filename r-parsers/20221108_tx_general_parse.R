@@ -529,6 +529,9 @@ for (f in list){
                     # }
                     # Additional logic here
                     yy <- yy[!is.na(yy$votes),]
+                    if (toupper(county) == "DALLAS"){ # do this for all opc_hdr counties?
+                        yy <- yy[yy$votes != 0,]
+                    }
                     zyy <<- yy #DEBUG-RM
                     xx <- yy
                     gotxx <- TRUE
