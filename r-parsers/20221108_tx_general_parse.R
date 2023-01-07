@@ -17,6 +17,19 @@
 library("tidyverse")
 library("readxl")
 
+duplicated_precinct <- c("BANDERA","DENTON","LUBBOCK")
+duplicated_all <- c("COOKE","CORYELL","EASTLAND")
+duplicated_other <- c("BEE")
+duplicated_any <- c(duplicated_precinct,duplicated_all,duplicated_other)
+
+valid_provisionals <- function(county){
+    if (toupper(county) %in% duplicated_any){
+        print(paste0("########## WARNING: IGNORING INVALID PROVISIONALS IN ",county)) #DEBUG
+        return(FALSE)
+    }
+    return(TRUE)
+}
+
 # Source files expected to be at following location relative to directory r-parsers.
 # The working directory should be set to r-parsers. It can be set via the setwd command.
 # If you get the message "nfiles=0", the value of dir below is incorrect. Modify it to match the directory.
@@ -75,7 +88,21 @@ for (f in list){
             nc <- nchar(rr[1])
             print(paste0(nc,"  ",county0))
             gotxx <- TRUE
+            # if (nc == 161){ # Donley County (in progress)
+            #     #desc      r c ip vo pa p2 of  ca  pr  p2  rt
+            #     start <- c(1,5, 8,12,19,21,28, 84,122,152,177)
+            #     end   <- c(4,7,11,18,20,27,83,121,151,176,179)
+            #     nms   <- c("irace","icandidate","iprecinct","votes",
+            #                "party","party2","office","candidate","precinct","precinct2","racetype")
+            #     nmsxx <- c("county","precinct","office","district","party","candidate","votes")
+            #     xx <- read_fwf(file_txt, fwf_positions(start, end, nms), col_types = "ccccccccccc")
+            #     xx$county <- str_to_title(county) # match standard
+            #     xx$district <- ""
+            #     xx <- xx[nmsxx]
+            #     xvotes <- FALSE
+            # }
             if (nc == 179){
+                #desc      r c ip vo pa p2 of  ca  pr  p2  rt
                 start <- c(1,5, 8,12,18,21,28, 84,122,152,177)
                 end   <- c(4,7,11,17,20,27,83,121,151,176,179)
                 nms   <- c("irace","icandidate","iprecinct","votes",
@@ -203,7 +230,7 @@ for (f in list){
                         xx$mail <- 0
                         got_mail <- FALSE
                     }
-                    if (!is.na(dd$provisional_counted[1])){
+                    if (!is.na(dd$provisional_counted[1]) & valid_provisionals(county)){
                         xx$provisional <- as.numeric(vv[[dd$provisional_counted[1]]])
                         xx$provisional[is.na(xx$provisional)] <- 0
                         xx$votes <- xx$votes + xx$provisional
@@ -368,7 +395,7 @@ for (f in list){
                                 xx$mail <- 0
                                 got_mail <- FALSE
                             }
-                            if (!is.na(iprovisional)){
+                            if (!is.na(iprovisional) & valid_provisionals(county)){
                                 xx$provisional <- as.numeric(vv[[iprovisional]])
                                 xx$provisional[is.na(xx$provisional)] <- 0
                                 xx$votes <- xx$votes + xx$provisional
@@ -475,7 +502,7 @@ for (f in list){
                             colindx <- c(colindx, imail)
                             xvotes <- TRUE
                         }
-                        if (!is.na(dd$provisional_counted[1])){
+                        if (!is.na(dd$provisional_counted[1]) & valid_provisionals(county)){
                             iprovisional <- as.numeric(dd$provisional_counted[1])
                             xx$provisional <- 0
                             colname <- c(colname, "provisional")
@@ -710,7 +737,7 @@ for (f in list){
                 # delete provisional if their sum = 0
                 iprov <- which(names(xx) == "provisional")
                 sumprov <- sum(xx$provisional, na.rm = TRUE)
-                if (sumprov == 0){
+                if (sumprov == 0 | valid_provisionals(county) == FALSE){
                     xx <- xx[-iprov]
                 }
                 # delete absentee if their sum = 0
