@@ -67,16 +67,16 @@ no party,Denton,xlsx,long,,,,Political Subdivision,Precinct Number,Total Number 
 p,Donley,fw161,just 1 precinct?,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Duval,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
 done,Eastland,CSV,long,,,1,political_subdivision,precinct_number,reg_voters,race_name,|District,party code,canidate_name,,early_votes,election_votes,total provisional ballots,total provisional ballots counted,,,,,,,,,,,Had to copy first part of header to line 2 due to error. Header canidate_name misspelled. No absentee or mail votes. Note: total provisional ballots counted is improperly duplicated for every candidate and are ignored by the code.
-,Ector,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+done,Ector,xlsx,long,,,,Political_Subdivision,Precinct_name,Reg_voters,Contest_title,"|, District",Party_Code,candidate_name,total_votes,early_votes,election_votes,,,,absentee_votes,,total_under_votes,total_over_votes,,,,,,No provisional votes.
 ,Edwards,fw209(ASC),,,,,,,,,,,,,,,,,,,,,,,,,,,
 done,Ellis,fw179,,R+D,,,,,,,,,,,,,,,,,,,,,,,,,
 done,El Paso,fw263,,,,,,,,,,,,,,,,,,,,,,,,,,,Uses (D) for DEM and (R) for REP for party (fixed by parser).
-,Erath,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Erath,pdf,PSRR,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Falls,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Fannin,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Fayette,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+done,Fannin,CSV,long,,,,political_division,precinct_number,reg-voters,race-name,|DISTRICT,party code,candidate_name,,Early Voting Votes,election_votes,total provisional ballots,total provisional ballots counted,,Absentee Voting Votes,,,,,,,,,early_votes = Early Voting Votes + Absentee Voting Votes. Provisional votes are duplicated and invalid.
+,Fayette,xlsx,table,,,,,,,,,,,,,,,,,,,,,,,,,,
 done,Fisher,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Floyd,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+done,Floyd,CSV,long,,,,political_subdivision,precinct_number,reg_voters,race_name,"|, District No.",party_code,candidate_name,,early_votes,election votes,total provisional ballots,total provisional ballots counted,,,,,,,,,,,All provisionals are zero. No absentee or mail listed separately.
 ,Foard,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
 done,Fort Bend,zip,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Franklin,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
