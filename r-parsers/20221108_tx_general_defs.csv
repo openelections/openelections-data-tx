@@ -66,7 +66,7 @@ no party,Denton,xlsx,long,,,,Political Subdivision,Precinct Number,Total Number 
 ,Dimmit,pdf,table,,,,,,,,,,,,,,,,,,,,,,,,,,
 p,Donley,fw161,just 1 precinct?,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Duval,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Eastland,CSV,long,,,1,political_subdivision,precinct_number,reg_voters,race_name,|District,party code,canidate_name,,early_votes,election_votes,total provisional ballots,,,,,,,,,,,,Had to copy first part of header to line 2 due to error. Header canidate_name misspelled. No absentee or mail votes. Removed total provisional ballots counted because this is incorrectly counted for every candidate.
+done,Eastland,CSV,long,,,1,political_subdivision,precinct_number,reg_voters,race_name,|District,party code,canidate_name,,early_votes,election_votes,total provisional ballots,total provisional ballots counted,,,,,,,,,,,Had to copy first part of header to line 2 due to error. Header canidate_name misspelled. No absentee or mail votes. Note: total provisional ballots counted is improperly duplicated for every candidate and are ignored by the code.
 ,Ector,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Edwards,fw209(ASC),,,,,,,,,,,,,,,,,,,,,,,,,,,
 done,Ellis,fw179,,R+D,,,,,,,,,,,,,,,,,,,,,,,,,
