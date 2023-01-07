@@ -77,21 +77,21 @@ done,Fannin,CSV,long,,,,political_division,precinct_number,reg-voters,race-name,
 ,Fayette,xlsx,table,,,,,,,,,,,,,,,,,,,,,,,,,,
 done,Fisher,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
 done,Floyd,CSV,long,,,,political_subdivision,precinct_number,reg_voters,race_name,"|, District No.",party_code,candidate_name,,early_votes,election votes,total provisional ballots,total provisional ballots counted,,,,,,,,,,,All provisionals are zero. No absentee or mail listed separately.
-,Foard,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-done,Fort Bend,zip,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Franklin,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-done,Freestone,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Frio,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Gaines,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Galveston,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Garza,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Foard,pdf,table_image,,,,,,,,,,,,,,,,,,,,,,,,,,
+done,Fort Bend,fw263,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Franklin,xlsx,p*r,,,,,,,,,,,,,,,,,,,,,,,,,,
+done,Freestone,fw179,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Frio,pdf,SRR_image,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Gaines,CSV,long,,,,political_subdivision,precinct_split,Registered Voters,race_name,"|, District No.",party_code,candidate_name,total_votes,early_votes,election_votes,total_provisionals,total_provisionals counted,,absentee_votes,,,,,,,,,Provisional votes duplicated for all records
+,Galveston,csv_skip,long,,,,,Precinct,RegisteredVotes,,,,Choice,Votes,,,,,,,,UnderVotes,OverVotes,,,,,,
+,Garza,pdf,SRR,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Gillespie,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Glasscock,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-done,Goliad,fw263,,,,,,,,,,,,,,,,,,,,,,,,,,,
+done,Goliad,fw263,,,,,,,,,,,,,,,,,,,,,,,,,,,Also has a CSV version. Compare to fw263 version.
 ,Gonzales,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Gray,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Gray,csv,long,,,,political_subdivision,precinct_number,reg_voters,race_name,"|, District No.",party code,candidate_name,,early_votes,election_votes ,total provisional ballots,total provisional ballots counted,,,,,,,,,,,Provisional votes duplicated by precincts. No absentee or mail votes.
 p,Grayson,fw263,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Gregg,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Gregg,csv,long,,,,political_subdivision,precinct_number,reg_voters,race_name,|DISTRICT,party code,candidate_name,,early_votes,election_votes,total provisional ballots,total provisional ballots counted,,,,,,,,,,,Provisional votes duplicated for all records.
 ,Grimes,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
 done,Guadalupe,fw263,,,,,,,,,,,,,,,,,,,,,,,,,,,"Has ""County  Commissioner"" with 2 spaces (fixed by parser)."
 ,Hale,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
