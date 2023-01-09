@@ -114,20 +114,20 @@ done,Hockley,fw179,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Hopkins,csv,Textbox,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Houston,pdf,SRR,,,,,,,,,,,,,,,,,,,,,,,,,,
 done,Howard,CSV,opc_hdr,,,,1,3,,1,"|, District",2,3,4,2,1,,4,3,5,0,,,,,,,,All of line 5 was zero. Set to absentee.
-,Hudspeth,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Hunt,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Hutchinson,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Hudspeth,xlsx,p*c+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Hunt,csv,long_noparty,,,,,,,,,,,,,,,,,,,,,,,,,,
+done,Hutchinson,CSV,opc_hdr,,,,1,3,4,1,"|, Dist",2,3,5,2,3,,0,0,1,0,,,,,,,,No provisional or mail votes.
 ,Irion,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Jack,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+done,Jack,CSV,long,,,1,,#Precinct,Registered Voters,Contest Title,"|, District No.",Choice Party,Choice Name,Total Votes,Early Voting Votes,Election Day Voting Votes,,,,Absentee Voting Votes,,Total Undervotes,Total Overvotes,,,,,,No provisional or mail votes.
 ,Jackson,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Jasper,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Jasper,pdf,SRR,,,,,,,,,,,,,,,,,,,,,,,,,,
 done,Jeff Davis,fw259,,,,,,,,,,,,,,,,,,,,,,,,,,,
-done,Jefferson,xlsx,mtab_oc,R+D,Table of Contents,3,,1,2,1,,,2,4,3,1,,,,2,0,,,,,,,,"Had to unzip, open xls and resave as xlsx with multiple sheets. Also, EV (early-voting) Mail is counted as Absentee to be consistent with other current TX counties."
-,Jim Hogg,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Jim Wells,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Johnson,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+done,Jefferson,fw263,mtab_oc,R+D,Table of Contents,3,,1,2,1,,,2,4,3,1,,,,2,0,,,,,,,,"Was mtab_oc, now fw263. Had to unzip, open xls and resave as xlsx with multiple sheets. Also, EV (early-voting) Mail is counted as Absentee to be consistent with other current TX counties."
+,Jim Hogg,pdf,PRR,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Jim Wells,pdf,PRR,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Johnson,pdf,p*cv,,,,,,,,,,,,,,,,,,,,,,,,,,
 done,Jones,fw179(ASC),,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Karnes,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Karnes,xlsx,mtab_oc,,Table of Contents,3,,1,2,1,"|, Dist",,2,5,2,3,,4,,1,,,,,,,,,"Had to unzip, open xls and resave as xlsx with multiple sheets. NOTE: FOR MTAB_OC, SET MISSING VOTE TYPES TO BLANK, NOT ZERO."
 ,Kaufman,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
 p,Kendall,fw263,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Kenedy,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
