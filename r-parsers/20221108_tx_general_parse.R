@@ -18,7 +18,7 @@ library("tidyverse")
 library("readxl")
 
 duplicated_precinct <- c("BANDERA","DENTON","FANNIN","GRAY","LUBBOCK")
-duplicated_all <- c("COOKE","CORYELL","EASTLAND","GAINES","GREGG","UVALDE")
+duplicated_all <- c("COOKE","CORYELL","EASTLAND","GAINES","GREGG","LLANO","UVALDE")
 duplicated_other <- c("BEE")
 duplicated_any <- c(duplicated_precinct,duplicated_all,duplicated_other)
 
