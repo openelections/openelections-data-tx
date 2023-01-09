@@ -79,41 +79,41 @@ done,Fisher,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
 done,Floyd,CSV,long,,,,political_subdivision,precinct_number,reg_voters,race_name,"|, District No.",party_code,candidate_name,,early_votes,election votes,total provisional ballots,total provisional ballots counted,,,,,,,,,,,All provisionals are zero. No absentee or mail listed separately.
 ,Foard,pdf,table_image,,,,,,,,,,,,,,,,,,,,,,,,,,
 done,Fort Bend,fw263,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Franklin,xlsx,p*r,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Franklin,xlsx,p*c,,,,,,,,,,,,,,,,,,,,,,,,,,
 done,Freestone,fw179,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Frio,pdf,SRR_image,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Gaines,CSV,long,,,,political_subdivision,precinct_split,Registered Voters,race_name,"|, District No.",party_code,candidate_name,total_votes,early_votes,election_votes,total_provisionals,total_provisionals counted,,absentee_votes,,,,,,,,,Provisional votes duplicated for all records
+done,Gaines,CSV,long,,,,political_subdivision,precinct_split,Registered Voters,race_name,"|, District No.",party_code,candidate_name,total_votes,early_votes,election_votes,total_provisionals,total_provisionals counted,,absentee_votes,,,,,,,,,Provisional votes duplicated for all records
 ,Galveston,csv_skip,long,,,,,Precinct,RegisteredVotes,,,,Choice,Votes,,,,,,,,UnderVotes,OverVotes,,,,,,
 ,Garza,pdf,SRR,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Gillespie,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Glasscock,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
 done,Goliad,fw263,,,,,,,,,,,,,,,,,,,,,,,,,,,Also has a CSV version. Compare to fw263 version.
 ,Gonzales,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Gray,csv,long,,,,political_subdivision,precinct_number,reg_voters,race_name,"|, District No.",party code,candidate_name,,early_votes,election_votes ,total provisional ballots,total provisional ballots counted,,,,,,,,,,,Provisional votes duplicated by precincts. No absentee or mail votes.
+done,Gray,csv,long,,,,political_subdivision,precinct_number,reg_voters,race_name,"|, District No.",party code,candidate_name,,early_votes,election_votes ,total provisional ballots,total provisional ballots counted,,,,,,,,,,,Provisional votes duplicated by precincts. No absentee or mail votes.
 p,Grayson,fw263,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Gregg,csv,long,,,,political_subdivision,precinct_number,reg_voters,race_name,|DISTRICT,party code,candidate_name,,early_votes,election_votes,total provisional ballots,total provisional ballots counted,,,,,,,,,,,Provisional votes duplicated for all records.
+done,Gregg,csv,long,,,,political_subdivision,precinct_number,reg_voters,race_name,|DISTRICT,party code,candidate_name,,early_votes,election_votes,total provisional ballots,total provisional ballots counted,,,,,,,,,,,Provisional votes duplicated for all records.
 ,Grimes,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
 done,Guadalupe,fw263,,,,,,,,,,,,,,,,,,,,,,,,,,,"Has ""County  Commissioner"" with 2 spaces (fixed by parser)."
-,Hale,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-p,Hall,fw263,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Hamilton,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+done,Hale,CSV,long,,,1,,#Precinct,Registered Voters,Contest Title,"|, District No.",Choice Party,Choice Name,Total Votes,Early Voting Votes,Election Day Voting Votes,,,,Absentee Voting Votes,,Total Undervotes,Total Overvotes,,,,,,No provisional votes.
+p,Hall,xlsx,p*c,,,,,,,,,,,,,,,,,,,,,,,,,,"Was fw263, now xlsx p*c"
+,Hamilton,pdf,SRR_image,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Hansford,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Hardeman,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Hardeman,pdf,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Hardin,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Harris,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Harrison,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Harrison,pdf,PRR,,,,,,,,,,,,,,,,,,,,,,,,,,
 done,Hartley,fw179,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Haskell,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-done,Hays,CSV,long,NA,,1,,Precinct ID,Registered Voters,Contest Title,,Choice Party,Choice Name,Total Votes,Early Voting Votes,Election Day Voting Votes,,,,Absentee Voting Votes,,,,,,U.S. Representative,State Senator,State Representative,Delete (D) or (R) at the end of all Offices.
+done,Hays,CSV,long,NA,,1,,#Precinct,Registered Voters,Contest Title,"|, District",Choice Party,Choice Name,Total Votes,Early Voting Votes,Election Day Voting Votes,,,,Absentee Voting Votes,,Total Undervotes,Total Overvotes,,,U.S. Representative,State Senator,State Representative,Delete (D) or (R) at the end of all Offices for primary elections.
 done,Hemphill,fw179,,,,,,,,,,,,,,,,,,,,,,,,,,,
 done,Henderson,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Hidalgo,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Hill,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Hidalgo,pdf,PRR,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Hill,pdf,,,,,,,,,,,,,,,,,,,,,,,,,,,
 done,Hockley,fw179,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Hood,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Hopkins,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Houston,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Howard,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Hopkins,csv,Textbox,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Houston,pdf,SRR,,,,,,,,,,,,,,,,,,,,,,,,,,
+done,Howard,CSV,opc_hdr,,,,1,3,,1,"|, District",2,3,4,2,1,,4,3,5,0,,,,,,,,All of line 5 was zero. Set to absentee.
 ,Hudspeth,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Hunt,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Hutchinson,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -231,7 +231,7 @@ p,Tarrant_skip,xlsx,mtab_oc,R+D,Table of Contents,3,,1,2,1,,,2,4,2,3,,,,1,0,,,,,
 ,Tyler,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Upshur,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
 done,Upton,fw179,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Uvalde,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+done,Uvalde,CSV,long,,,,political_subdivision,precinct_number,reg_voters,race_name,"|, District No.",party_code,candidate_name,,early_votes,election_votes,total_provisional_ballots,total_provisional_ballots_counted,,,,,,,,,,,Provisional votes duplicated for all records. Change county names of 2nd and 3rd files to use only 1st file.
 ,Val Verde,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Van Zandt,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Victoria,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -18,7 +18,7 @@ library("tidyverse")
 library("readxl")
 
 duplicated_precinct <- c("BANDERA","DENTON","FANNIN","GRAY","LUBBOCK")
-duplicated_all <- c("COOKE","CORYELL","EASTLAND","GAINES","GREGG")
+duplicated_all <- c("COOKE","CORYELL","EASTLAND","GAINES","GREGG","UVALDE")
 duplicated_other <- c("BEE")
 duplicated_any <- c(duplicated_precinct,duplicated_all,duplicated_other)
 
@@ -589,6 +589,9 @@ for (f in list){
             file_std <- paste0(dir,"out/",f_std)
             # Changes to match standard
             xx$precinct <- gsub("^Precinct [0]*","",xx$precinct, ignore.case = TRUE)
+            if (toupper(county) == "COLLIN"){
+                xx$precinct <- gsub("^PCT [0]*","",xx$precinct, ignore.case = TRUE)
+            }
             #xx$precinct <- gsub("^PCT ","",xx$precinct, ignore.case = TRUE) # Wharton County
             xx$party[xx$party == "(D)"] <- "DEM" # El Paso County
             xx$party[xx$party == "(R)"] <- "REP" # El Paso County
