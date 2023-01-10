@@ -150,21 +150,21 @@ done,Limestone,fw179,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Lipscomb,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Live Oak,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Llano,CSV,long,,,,political_subdivision,precinct_number,reg_voters,race_name,"|, District No.",party_code,candidate_name,,early_votes,election_votes,total provisional ballots,total provisional ballots counted,,,,,,,,,,,Provisional votes duplicated for all records.
-,Loving,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Loving,pdf,table_image,,,,,,,,,,,,,,,,,,,,,,,,,,
 done,Lubbock,xlsx,long,R+D,Sheet1,,Political Subdivision,Precinct Number,Total Number of Registered Voters,Race Name,,,Candidate Name,,Early Vote Totals,Election Day Vote Totals,Total Provisional Ballots,Total Provisional Ballots Counted,,,,,,,,United States Representative,State Senator,State Representative,#NAME?
 ,Lynn,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,McCulloch,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,McCulloch,pdf,PRR_image,,,,,,,,,,,,,,,,,,,,,,,,,,
 done,McLennan,xls,long,R+D,,,Political_subdivision,Precinct_name,Reg_voters,Contest_title,,Party_Code,candidate_name,total_votes,early_votes,election_votes,,,,absentee_votes,,total_under_votes,total_over_votes,,,United States Representative,State Senator,State Representative,"Sheet is Sheet1 for DEM, DetailVoteTotals03.01.22 for REP"
-,McMullen,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Madison,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,McMullen,pdf,table_image,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Madison,pdf,PRR,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Marion,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Martin,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+done,Martin,CSV,long,,,1,Pol Subdivision,#Precinct,Registered Voters,Contest Title,"|, District No.",Choice Party,Choice Name,Total Votes,Early Voting Votes,Election Day Voting Votes,,,,Absentee Voting Votes,,Total Undervotes,Total Overvotes,,,,,,No provisional or mail. Had to copy header of 1st 5 columns to 2nd row.
 ,Mason,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Matagorda,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Maverick,xlsx,multitab by vote type,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Medina,PDF,,,,,,,,,,,,,,,,,,,,,,,,,,,In file MJ9GJ1~3.PDF
-,Menard,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Midland,fw263(d)/pdf(r),,,,,,,,,,,,,,,,,,,,,,,,,,,Has a fixed-width-263 file for the Democratic primary but a PDF file for the Republican primary.
+,Maverick,xlsx,p*cv - multitab by vote type,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Medina,pdf,PRR,,,,,,,,,,,,,,,,,,,,,,,,,,In file MJ9GJ1~3.PDF
+done,Menard,xls,long,,,,Political_subdivision,Precinct_name,Reg_voters,Contest_title,"|, District",Party_Code,candidate_name,total_votes,early_votes,election_votes,,,,absentee_votes,,total_under_votes,total_over_votes,,,,,,No provisional or mail.
+done,Midland,fw263,,,,,,,,,,,,,,,,,,,,,,,,,,,"Had to change extension from "".txt 2"" to "".txt""."
 ,Milam,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Mills,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Mitchell,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
