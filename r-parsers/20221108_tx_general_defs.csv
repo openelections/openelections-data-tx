@@ -165,23 +165,23 @@ done,Martin,CSV,long,,,1,Pol Subdivision,#Precinct,Registered Voters,Contest Tit
 ,Medina,pdf,PRR,,,,,,,,,,,,,,,,,,,,,,,,,,In file MJ9GJ1~3.PDF
 done,Menard,xls,long,,,,Political_subdivision,Precinct_name,Reg_voters,Contest_title,"|, District",Party_Code,candidate_name,total_votes,early_votes,election_votes,,,,absentee_votes,,total_under_votes,total_over_votes,,,,,,No provisional or mail.
 done,Midland,fw263,,,,,,,,,,,,,,,,,,,,,,,,,,,"Had to change extension from "".txt 2"" to "".txt""."
-,Milam,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Milam,pdf,PRR_image,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Mills,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Mitchell,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Mitchell,pdf,SRR_image,,,,,,,,,,,,,,,,,,,,,,,,,,
 done,Montague,fw263,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Montgomery,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+done,Montgomery,xlsx,long,,,,political subdivision_,precinct number,reg voters,race name,"|, District",party code,candidate name,,early votes,election votes,total provisional ballots,total provisional ballots counted,,,,,,,,,,,Provisinal duplicated by precinct.
 done,Moore,fw263,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Morris,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Motley,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Nacogdoches,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Morris,pdf,SRR_image,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Motley,zipped_html,PRR,,,,,,,,,,,,,,,,,,,,,,,,,,Had to unzip. Contained a directory of html files of PRRs.
+done,Nacogdoches,xlsx,long,,,,Political Subdivision,Precinct Number,Total Number of Registered Voters,Contest Name,"|, District No.",Candidate Party,Candidate Name,Total Votes,Early Voting In Person Votes,Election Day Voting Votes,Total Provisional Ballots,Total Provisional Ballots Counted,Mail Ballot Votes,,,,,,,,,,Provisional duplicated for all records. Mail instead of absentee votes.
 ,Navarro,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Newton,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Newton,pdf,table,,,,,,,,,,,,,,,,,,,,,,,,,,
 done,Nolan,fw263,,,,,,,,,,,,,,,,,,,,,,,,,,,
-done,Nueces,csv,long,NA,,1,,Precinct ID,Registered Voters,Contest Title,,Choice Party,Choice Name,Total Votes,Early Voting Votes,Election Day Voting Votes,,,,Absentee Voting Votes,,Total Undervotes,Total Overvotes,,,United States Representative,State Senator,State Representative,
-,Ochiltree,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+done,Nueces,csv,long,NA,,1,,#Precinct,Registered Voters,Contest Title,"|, District",Choice Party,Choice Name,Total Votes,Early Voting Votes,Election Day Voting Votes,,,,Absentee Voting Votes,,Total Undervotes,Total Overvotes,,,United States Representative,State Senator,State Representative,
+,Ochiltree,pdf,SRR_image,,,,,,,,,,,,,,,,,,,,,,,,,,
 done,Oldham,fw179,,,,,,,,,,,,,,,,,,,,,,,,,,,
 done,Orange,fw179,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Palo Pinto,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+done,Palo Pinto,CSV,long,,,,political_subdivision,precinct_number,reg_voters,race_name,"|, District No.",party code,candidate_name,,Early Voting Votes,election_votes,Total Provsional ballots,total provisionals ballots counted,,Absentee Voting Votes,,,,,,,,,Provisinal total in 1st row.
 ,Panola,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Parker,xlsx,multitab by precinct,,,,,,,,,,,,,,,,,,,,,,,,,,
 done,Parmer,fw101,,,,,,,,,,,,,,,,,,,,,,,,,,,

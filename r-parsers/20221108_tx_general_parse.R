@@ -17,9 +17,9 @@
 library("tidyverse")
 library("readxl")
 
-duplicated_precinct <- c("BANDERA","DENTON","FANNIN","GRAY","LUBBOCK")
-duplicated_all <- c("COOKE","CORYELL","EASTLAND","GAINES","GREGG","LLANO","UVALDE")
-duplicated_other <- c("BEE")
+duplicated_precinct <- c("BANDERA","DENTON","FANNIN","GRAY","LUBBOCK","MONTGOMERY")
+duplicated_all <- c("COOKE","CORYELL","EASTLAND","GAINES","GREGG","LLANO","NACOGDOCHES","UVALDE")
+duplicated_other <- c("BEE","PALO PINTO")
 duplicated_any <- c(duplicated_precinct,duplicated_all,duplicated_other)
 
 valid_provisionals <- function(county){
