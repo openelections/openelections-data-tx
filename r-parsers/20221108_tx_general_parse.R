@@ -17,8 +17,8 @@
 library("tidyverse")
 library("readxl")
 
-duplicated_precinct <- c("BANDERA","DENTON","FANNIN","GRAY","LUBBOCK","MONTGOMERY","RANDALL","REAGAN")
-duplicated_all <- c("COOKE","CORYELL","EASTLAND","GAINES","GREGG","LLANO","NACOGDOCHES","UVALDE")
+duplicated_precinct <- c("BANDERA","DENTON","FANNIN","GRAY","LUBBOCK","MONTGOMERY","RANDALL","REAGAN","REFUGIO")
+duplicated_all <- c("COOKE","CORYELL","EASTLAND","GAINES","GREGG","LLANO","NACOGDOCHES","RED RIVER","UVALDE")
 duplicated_other <- c("BEE","PALO PINTO")
 duplicated_any <- c(duplicated_precinct,duplicated_all,duplicated_other)
 
@@ -460,6 +460,15 @@ for (f in list){
                             chdr <- read_excel(filename, sheet = nsheet, col_names = FALSE, col_types = "text", skip = cskip)
                             vv <-   read_excel(filename, sheet = nsheet, col_names = TRUE,  col_types = "text", skip = (nskip+2))
                         }
+                        if (toupper(county) == "REEVES"){ # do for all counties?
+                            if (sum(!is.na(vv[,NCOL(vv)])) == 0){ # delete last column if all NAs #Reeve County
+                                vv <- vv[,1:(NCOL(vv)-1)]
+                                ohdr <- ohdr[,1:(NCOL(ohdr)-1)]
+                                phdr <- phdr[,1:(NCOL(phdr)-1)]
+                                chdr <- chdr[,1:(NCOL(chdr)-1)]
+                                print("########## DELETED LAST COLUMN OF NAs")
+                            }
+                        }
                         col1 <- as.numeric(dd$votes[1])
                         office    <- as.character(ohdr[1,col1:NCOL(ohdr)])
                         party     <- as.character(phdr[1,col1:NCOL(phdr)])
@@ -476,45 +485,61 @@ for (f in list){
                         xvotes <- FALSE
                         if (!is.na(dd$absentee[1])){
                             iabsentee <- as.numeric(dd$absentee[1])
-                            xx$absentee <- 0
-                            colname <- c(colname, "absentee")
-                            colindx <- c(colindx, iabsentee)
-                            xvotes <- TRUE
+                            if (iabsentee > 0){
+                                xx$absentee <- 0
+                                colname <- c(colname, "absentee")
+                                colindx <- c(colindx, iabsentee)
+                                xvotes <- TRUE
+                            }
                         }
                         if (!is.na(dd$early_voting[1])){
                             iearly_voting <- as.numeric(dd$early_voting[1])
-                            xx$early_voting <- 0
-                            colname <- c(colname, "early_voting")
-                            colindx <- c(colindx, iearly_voting)
-                            xvotes <- TRUE
+                            if (iearly_voting > 0){
+                                xx$early_voting <- 0
+                                colname <- c(colname, "early_voting")
+                                colindx <- c(colindx, iearly_voting)
+                                xvotes <- TRUE
+                            }
                         }
                         if (!is.na(dd$election_day[1])){
                             ielection_day <- as.numeric(dd$election_day[1])
-                            xx$election_day <- 0
-                            colname <- c(colname, "election_day")
-                            colindx <- c(colindx, ielection_day)
-                            xvotes <- TRUE
+                            if (ielection_day > 0){
+                                xx$election_day <- 0
+                                colname <- c(colname, "election_day")
+                                colindx <- c(colindx, ielection_day)
+                                xvotes <- TRUE
+                            }
                         }
                         if (!is.na(dd$mail[1])){
                             imail <- as.numeric(dd$mail[1])
-                            xx$mail <- 0
-                            colname <- c(colname, "mail")
-                            colindx <- c(colindx, imail)
-                            xvotes <- TRUE
+                            if (imail > 0){
+                                xx$mail <- 0
+                                colname <- c(colname, "mail")
+                                colindx <- c(colindx, imail)
+                                xvotes <- TRUE
+                            }
                         }
                         if (!is.na(dd$provisional_counted[1]) & valid_provisionals(county)){
                             iprovisional <- as.numeric(dd$provisional_counted[1])
-                            xx$provisional <- 0
-                            colname <- c(colname, "provisional")
-                            colindx <- c(colindx, iprovisional)
-                            xvotes <- TRUE
+                            if (iprovisional > 0){
+                                xx$provisional <- 0
+                                colname <- c(colname, "provisional")
+                                colindx <- c(colindx, iprovisional)
+                                xvotes <- TRUE
+                            }
                         }
                         if (!is.na(dd$limited[1])){
                             ilimited <- as.numeric(dd$limited[1])
-                            xx$limited <- 0
-                            colname <- c(colname, "limited")
-                            colindx <- c(colindx, ilimited)
-                            xvotes <- TRUE
+                            if (ilimited > 0){
+                                xx$limited <- 0
+                                colname <- c(colname, "limited")
+                                colindx <- c(colindx, ilimited)
+                                xvotes <- TRUE
+                            }
+                        }
+                        if (is.null(colname)){ # assume single row to be vote total - Reeves County
+                            colname <- c(colname, "votes")
+                            colindx <- c(colindx, 1)
                         }
                         j <- 1
                         last_precinct <- ""
@@ -542,8 +567,12 @@ for (f in list){
                             }
                             #xx$precinct <- precinct
                             voteinfo <- as.character(vv[i,col1:NCOL(vv)])
-                            xx[[colname[which(colindx == j)]]] <- voteinfo
-                            xx$votes <- xx$votes + as.numeric(voteinfo)
+                            ###voteinfo[is.na(voteinfo)] <- 0 # Reeves County (last column is NA)
+                            thiscolname <- colname[which(colindx == j)]
+                            xx[[thiscolname]] <- voteinfo
+                            if (thiscolname != "votes"){ # don't add total votes again
+                                xx$votes <- as.numeric(xx$votes) + as.numeric(voteinfo)
+                            }
                             j <- j+1
                         }
                         xx$precinct <- as.character(last_precinct)

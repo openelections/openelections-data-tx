@@ -193,9 +193,9 @@ done,Potter,CSV,long,,,1,,#Precinct,Registered Voters,Contest Title,"|, District
 done,Randall,CSV,long,,,,political_subdivision,precinct_number,reg_voters,race_name,"|, District",party code,candidate_name,,early_votes,election_votes,total provisional ballots,total provisional ballots counted,,,,,,,,,,,Provisional duplicated by precinct. No absentee or mail.
 done,Reagan,CSV,long,,,1,political_ subdivision,precinct_number,reg_voters,race_name,"|, District No.",party code,candidate_name,,early_votes,election_votes,total provisional ballots,total provisional ballots counted,,,,,,,,,,,Provisional duplicated by precinct. No absentee or mail.
 ,Real,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Red River,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Reeves,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Refugio,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+done,Red River,CSV,long,,,1,political_subdivison,precinct_number,reg_voters,race_name,"|, District No.",party code,candidate_name,,Early Voting Votes,election_votes,total provisional ballots ,total provisional ballots counted ,,Absentee Voting Votes,,,,,,,,,Provisional duplicated in all rows. early_votes = Absentee Voting Votes + Early Voting Votes
+done,Reeves,CSV,opc_hdr,,,,1,3,4,1,"|, Dist",2,3,5,0,0,,0,0,0,0,,,,,,,,Total votes only.
+done,Refugio,CSV,long,,,,political_subdivision,precinct_number,reg_voters,race_name,"|, District No.",party code,candidate_name,,early_votes,election_votes,total provisional ballots,total provisional ballots counted,,,,,,,,,,,Provisional duplicated by precinct. No absentee or mail.
 ,Roberts,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
 done,Robertson,fw263,,,,,,,,,,,,,,,,,,,,,,,,,,,
 done,Rockwall,fw263,,,,,,,,,,,,,,,,,,,,,,,,,,,"Only has data for Ballots Cast, with 26 Democratic and 26 Republican lines."
