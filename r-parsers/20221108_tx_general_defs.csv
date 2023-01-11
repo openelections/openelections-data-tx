@@ -177,21 +177,21 @@ done,Nacogdoches,xlsx,long,,,,Political Subdivision,Precinct Number,Total Number
 ,Navarro,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Newton,pdf,table,,,,,,,,,,,,,,,,,,,,,,,,,,
 done,Nolan,fw263,,,,,,,,,,,,,,,,,,,,,,,,,,,
-done,Nueces,csv,long,NA,,1,,#Precinct,Registered Voters,Contest Title,"|, District",Choice Party,Choice Name,Total Votes,Early Voting Votes,Election Day Voting Votes,,,,Absentee Voting Votes,,Total Undervotes,Total Overvotes,,,United States Representative,State Senator,State Representative,
+done,Nueces,csv,long,NA,,1,,#Precinct,Registered Voters,Contest Title,"|, District",Choice Party,Choice Name,Total Votes,Early Voting Votes,Election Day Voting Votes,,,,Absentee Voting Votes,,Total Undervotes,Total Overvotes,,,United States Representative,State Senator,State Representative,No provisional or mail.
 ,Ochiltree,pdf,SRR_image,,,,,,,,,,,,,,,,,,,,,,,,,,
 done,Oldham,fw179,,,,,,,,,,,,,,,,,,,,,,,,,,,
 done,Orange,fw179,,,,,,,,,,,,,,,,,,,,,,,,,,,
 done,Palo Pinto,CSV,long,,,,political_subdivision,precinct_number,reg_voters,race_name,"|, District No.",party code,candidate_name,,Early Voting Votes,election_votes,Total Provsional ballots,total provisionals ballots counted,,Absentee Voting Votes,,,,,,,,,Provisinal total in 1st row.
 ,Panola,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Parker,xlsx,multitab by precinct,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Parker,xlsx,multitab by race,,,,,,,,,,,,,,,,,,,,,,,,,,
 done,Parmer,fw101,,,,,,,,,,,,,,,,,,,,,,,,,,,
 done,Pecos,fw263,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Polk,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Potter,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Polk,pdf,PRR,,,,,,,,,,,,,,,,,,,,,,,,,,
+done,Potter,CSV,long,,,1,,#Precinct,Registered Voters,Contest Title,"|, District",Choice Party,Choice Name,Total Votes,Early Voting Votes,Election Day Voting Votes,,,,Absentee Voting Votes,,Total Undervotes,Total Overvotes,,,,,,No provisional or mail.
 ,Presidio,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Rains,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Randall,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Reagan,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Rains,pdf,PRR,,,,,,,,,,,,,,,,,,,,,,,,,,
+done,Randall,CSV,long,,,,political_subdivision,precinct_number,reg_voters,race_name,"|, District",party code,candidate_name,,early_votes,election_votes,total provisional ballots,total provisional ballots counted,,,,,,,,,,,Provisional duplicated by precinct. No absentee or mail.
+done,Reagan,CSV,long,,,1,political_ subdivision,precinct_number,reg_voters,race_name,"|, District No.",party code,candidate_name,,early_votes,election_votes,total provisional ballots,total provisional ballots counted,,,,,,,,,,,Provisional duplicated by precinct. No absentee or mail.
 ,Real,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Red River,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Reeves,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,
