@@ -17,14 +17,16 @@
 library("tidyverse")
 library("readxl")
 
-duplicated_precinct <- c("BANDERA","DENTON","FANNIN","GRAY","LUBBOCK","MONTGOMERY","RANDALL","REAGAN","REFUGIO")
-duplicated_all <- c("COOKE","CORYELL","EASTLAND","GAINES","GREGG","LLANO","NACOGDOCHES","RED RIVER","UVALDE")
-duplicated_other <- c("BEE","PALO PINTO")
-duplicated_any <- c(duplicated_precinct,duplicated_all,duplicated_other)
+# duplicated_precinct <- c("BANDERA","DENTON","FANNIN","GRAY","LUBBOCK","MONTGOMERY","RANDALL","REAGAN","REFUGIO")
+# duplicated_all <- c("COOKE","CORYELL","EASTLAND","GAINES","GREGG","LLANO","NACOGDOCHES","RED RIVER","UVALDE")
+# duplicated_other <- c("BEE","PALO PINTO")
+# duplicated_any <- c(duplicated_precinct,duplicated_all,duplicated_other)
 
 valid_provisionals <- function(county){
-    if (toupper(county) %in% duplicated_any){
-        print(paste0("########## WARNING: IGNORING INVALID PROVISIONALS IN ",county)) #DEBUG
+    dd <- def[toupper(def$counties) == toupper(county),]
+    #if (toupper(county) %in% duplicated_any){
+    if (!is.na(dd$prov_dupl[1])){
+            print(paste0("########## WARNING: IGNORING PROVISIONALS DUPLICATED BY ",dd$prov_dupl[1]," IN ",county)) #DEBUG
         return(FALSE)
     }
     return(TRUE)
@@ -43,6 +45,7 @@ print(paste0("STARTTIME=",Sys.time()))
 # set to "" to search all counties
 ###############################################################################
 match_county <- "" # set to county in upper case (like "EL PASO") to limit search; set to "" to search all counties
+start_county <- "" # set to county in upper case at which to start processing; if blank, start at beginning
 
 if (!file.exists("20221108_tx_general_defs.csv")){
     setwd("./r-parsers")
@@ -70,6 +73,9 @@ for (f in list){
         county <- gsub("_"," ",county0)
         if (match_county != ""){
             if (county != match_county) next
+        }
+        if (start_county != ""){
+            if (county < start_county) next
         }
         nn <- str_match(f, "\\.([A-Za-z]+)$")
         ext <- ""
@@ -486,7 +492,6 @@ for (f in list){
                         if (!is.na(dd$absentee[1])){
                             iabsentee <- as.numeric(dd$absentee[1])
                             if (iabsentee > 0){
-                                xx$absentee <- 0
                                 colname <- c(colname, "absentee")
                                 colindx <- c(colindx, iabsentee)
                                 xvotes <- TRUE
@@ -495,7 +500,6 @@ for (f in list){
                         if (!is.na(dd$early_voting[1])){
                             iearly_voting <- as.numeric(dd$early_voting[1])
                             if (iearly_voting > 0){
-                                xx$early_voting <- 0
                                 colname <- c(colname, "early_voting")
                                 colindx <- c(colindx, iearly_voting)
                                 xvotes <- TRUE
@@ -504,7 +508,6 @@ for (f in list){
                         if (!is.na(dd$election_day[1])){
                             ielection_day <- as.numeric(dd$election_day[1])
                             if (ielection_day > 0){
-                                xx$election_day <- 0
                                 colname <- c(colname, "election_day")
                                 colindx <- c(colindx, ielection_day)
                                 xvotes <- TRUE
@@ -513,7 +516,6 @@ for (f in list){
                         if (!is.na(dd$mail[1])){
                             imail <- as.numeric(dd$mail[1])
                             if (imail > 0){
-                                xx$mail <- 0
                                 colname <- c(colname, "mail")
                                 colindx <- c(colindx, imail)
                                 xvotes <- TRUE
@@ -522,7 +524,6 @@ for (f in list){
                         if (!is.na(dd$provisional_counted[1]) & valid_provisionals(county)){
                             iprovisional <- as.numeric(dd$provisional_counted[1])
                             if (iprovisional > 0){
-                                xx$provisional <- 0
                                 colname <- c(colname, "provisional")
                                 colindx <- c(colindx, iprovisional)
                                 xvotes <- TRUE
@@ -531,11 +532,18 @@ for (f in list){
                         if (!is.na(dd$limited[1])){
                             ilimited <- as.numeric(dd$limited[1])
                             if (ilimited > 0){
-                                xx$limited <- 0
                                 colname <- c(colname, "limited")
                                 colindx <- c(colindx, ilimited)
                                 xvotes <- TRUE
                             }
+                        }
+                        if (xvotes){
+                            xx$absentee <- 0
+                            xx$early_voting <- 0
+                            xx$election_day <- 0
+                            xx$mail <- 0
+                            xx$provisional <- 0
+                            xx$limited <- 0
                         }
                         if (is.null(colname)){ # assume single row to be vote total - Reeves County
                             colname <- c(colname, "votes")
