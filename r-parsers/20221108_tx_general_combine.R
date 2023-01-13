@@ -92,3 +92,4 @@ catfile(ff,paste0("len=",len))
 #           "20201103__tx__general__maverick__precinct.csv") #create test file
 catfile(ff,list)
 getElectionfile(unlist(list), outfile, ff)
+catfile(ff,paste0("len=",len))
