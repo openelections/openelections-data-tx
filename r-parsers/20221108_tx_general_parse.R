@@ -44,7 +44,7 @@ print(paste0("STARTTIME=",Sys.time()))
 # set to county in upper case (like "EL PASO") to limit search;
 # set to "" to search all counties
 ###############################################################################
-match_county <- "" # set to county in upper case (like "EL PASO") to limit search; set to "" to search all counties
+match_county <- "" # set to county (like "EL PASO") to limit search; set to "" to search all counties
 start_county <- "" # set to county in upper case at which to start processing; if blank, start at beginning
 
 if (!file.exists("20221108_tx_general_defs.csv")){
@@ -72,7 +72,7 @@ for (f in list){
         county0 <- mm[1,2]
         county <- gsub("_"," ",county0)
         if (match_county != ""){
-            if (county != match_county) next
+            if (county != toupper(match_county)) next
         }
         if (start_county != ""){
             if (county < start_county) next
