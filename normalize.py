@@ -90,7 +90,7 @@ def column_names(path, show_unmapped=False):
             f.seek(0)
             f.readline()
             row_data = f.read()
-        except:
+        except Exception:
             print(path)
             raise
         
