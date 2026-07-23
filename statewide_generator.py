@@ -89,7 +89,7 @@ def generate_consolidated_file(year, path, output_file):
                     elif all(k in set(row) for k in ['election_day', 'early_voting', 'mail']):
                         results.append([row['county'], row['precinct'], row['office'], row['district'], row['candidate'], row['party'], row['votes'], None, row['election_day'], row['early_voting'], None, None, None])
                     elif all(k in set(row) for k in ['election_day', 'early_voting']):
-                        results.append([row['county'], row['precinct'], row['office'], row['district'], row['candidate'], row['party'], row['votes'], None, row['election_day'], row['early_voting'], None, None, None, None])
+                        results.append([row['county'], row['precinct'], row['office'], row['district'], row['candidate'], row['party'], row['votes'], None, row['election_day'], row['early_voting'], None, None, None])
                     else:
                         results.append([row['county'], row['precinct'], row['office'], row['district'], row['candidate'], row['party'], row['votes'], None, None, None, None, None, None])
 
