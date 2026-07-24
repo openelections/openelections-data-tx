@@ -121,7 +121,7 @@ def extract_precinct_info(sheet_data: List[List], sheet_name: str) -> Tuple[Opti
                                     if ballots_cast > 0:
                                         print(f"    DEBUG: Found ballots cast value: {ballots_cast}")
                                         break
-                                except:
+                                except Exception:
                                     continue
             
             # Check for "registered voters" pattern
@@ -171,7 +171,7 @@ def extract_precinct_info(sheet_data: List[List], sheet_name: str) -> Tuple[Opti
                                             ballots_cast = cast_votes
                                             print(f"    DEBUG: Found cast votes value: {ballots_cast}")
                                             break
-                                    except:
+                                    except Exception:
                                         continue
                             if ballots_cast > 0:
                                 break

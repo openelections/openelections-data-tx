@@ -86,7 +86,7 @@ def scrapper(file,title):
                     name = df.loc[index]['Summary Results Report'].rsplit(' ',1)[0]
                     df.loc[index,'total'] = count
                     df.loc[index,'Summary Results Report'] = name
-                except:
+                except Exception:
                     break
 
 
