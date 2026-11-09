@@ -56,6 +56,12 @@ def expand_abbrevs(t):
     full forms used by the Secretary of State canvass (court of appeals districts
     etc.), so precinct rows and the county-level file can be joined by name."""
     t = re.sub(r"\bCT OF APP\b", "COURT OF APPEALS", t, flags=re.I)
+    t = re.sub(r"\bAPPLS\b", "APPEALS", t, flags=re.I)
+    t = re.sub(r"\bCT\s+APPEALS\b", "COURT OF APPEALS", t, flags=re.I)
+    t = re.sub(r"\bFAM\b\.?", "FAMILY", t, flags=re.I)
+    t = re.sub(r"\bCT\s+CRIM(INAL)?\s+APP(EALS)?\b", "COURT OF CRIMINAL APPEALS", t, flags=re.I)
+    t = re.sub(r"\bJ\s+DIST\b", "JUDICIAL DISTRICT", t, flags=re.I)
+    t = re.sub(r"\bJUD\b\.?", "JUDICIAL", t, flags=re.I)
     t = re.sub(r"\bCT OF CRIM APP\b", "COURT OF CRIMINAL APPEALS", t, flags=re.I)
     t = re.sub(r"\bCOURT OF CRIM APP\b", "COURT OF CRIMINAL APPEALS", t, flags=re.I)
     t = re.sub(r"\bCOURT OF APP\b", "COURT OF APPEALS", t, flags=re.I)
@@ -99,7 +105,7 @@ def normalize_office(title, fallback_commas=True):
     # Courts of appeals: the county-level file keeps the place in the office text
     m = re.match(
         r"(CHIEF )?JUSTICE,?\s*(\d+)(ST|ND|RD|TH)?\s+COURT OF APPEALS DISTRICT"
-        r",?\s*PLACE\s*(\d+)(.*)$", u)
+        r"[,.]?\s*(?:PLACE|PL\.?|P)\s*(\d+)(.*)$", u)
     if m:
         suffix = " - Unexpired Term" if "UNEXPIRED" in m.group(5).upper() else ""
         suffix_ord = (m.group(3) or "").lower()
@@ -138,10 +144,10 @@ def normalize_office(title, fallback_commas=True):
     if "SUPREME COURT" in u:
         if "CHIEF" in u:
             return ("Supreme Court", "Chief")
-        m = re.search(r"PLACE\s*(\d+)", u, re.I)
+        m = re.search(r"(?:\bPLACE|PL\.?|P)\s*(\d+)", u, re.I)
         return ("Supreme Court", "Place " + m.group(1) if m else "")
     if "COURT OF CRIMINAL APPEALS" in u:
-        m = re.search(r"PLACE\s*(\d+)", u, re.I)
+        m = re.search(r"(?:\bPLACE|PL\.?|P)\s*(\d+)", u, re.I)
         return ("Court of Criminal Appeals", "Place " + m.group(1) if m else "")
     if "STATE BOARD OF EDUCATION" in u:
         return ("State Board of Education", district_from(u))

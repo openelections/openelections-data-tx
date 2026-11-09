@@ -114,10 +114,12 @@ def verify(precinct_paths, baseline, json_out=None):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("precinct_csvs", nargs="+")
+    ap.add_argument("--baseline", default=None,
+                    help="county-level CSV to verify against")
     ap.add_argument("--json-report")
     ap.add_argument("-q", "--quiet", action="store_true")
     args = ap.parse_args()
-    baseline = load_county_baseline()
+    baseline = load_county_baseline(args.baseline)
     per_file, diffs = verify(args.precinct_csvs, baseline)
     for path, info in per_file.items():
         if not args.quiet:

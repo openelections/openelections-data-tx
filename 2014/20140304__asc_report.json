@@ -1,0 +1,160 @@
+{
+ "bastrop": {
+  "summary": "rows=4629 offices=22(+10 props) missing=0 extra=23 props_mine=0 total_mm=0 total_diffs=22 zero_override=0 cand_mm=0"
+ },
+ "bexar": {
+  "summary": "rows=310417 offices=49(+10 props) missing=0 extra=85 props_mine=0 total_mm=0 total_diffs=49 zero_override=0 cand_mm=78",
+  "details": [
+   "CAND REP | SANDEE BRYAN MARION: precinct=47205 baseline=47216",
+   "CAND REP | BARRY SMITHERMAN: precinct=14335 baseline=14341",
+   "CAND REP | DAN BRANCH: precinct=21435 baseline=21442",
+   "CAND REP | KEN PAXTON: precinct=25294 baseline=25303",
+   "CAND REP | ERIC OPIELA: precinct=11842 baseline=11847",
+   "CAND REP | J ALLEN CARNES: precinct=7111 baseline=7112",
+   "CAND REP | JOE COTTEN: precinct=8086 baseline=8087",
+   "CAND REP | SID MILLER: precinct=17892 baseline=17904",
+   "CAND REP | TOMMY MERRITT: precinct=12260 baseline=12265",
+   "CAND REP | DEBRA MEDINA: precinct=11176 baseline=11181"
+  ]
+ },
+ "dallam": {
+  "summary": "rows=363 offices=20(+6 props) missing=0 extra=12 props_mine=0 total_mm=0 total_diffs=0 zero_override=0 cand_mm=0"
+ },
+ "dallas": {
+  "summary": "rows=170036 offices=80(+10 props) missing=0 extra=67 props_mine=0 total_mm=0 total_diffs=28 zero_override=0 cand_mm=2",
+  "details": [
+   "CAND REP | BARBARA WALTHER: precinct=38137 baseline=38147",
+   "CAND DEM | GEORGE WHITE: precinct=2958 baseline=2956"
+  ]
+ },
+ "fayette": {
+  "summary": "rows=2704 offices=19(+10 props) missing=0 extra=21 props_mine=0 total_mm=0 total_diffs=14 zero_override=0 cand_mm=0"
+ },
+ "hemphill": {
+  "summary": "rows=594 offices=20(+10 props) missing=0 extra=13 props_mine=0 total_mm=0 total_diffs=1 zero_override=0 cand_mm=25",
+  "details": [
+   "CAND DEM | SAM HOUSTON: precinct=None baseline=13",
+   "CAND DEM | HUGH ASA FITZSIMONS III: precinct=None baseline=7",
+   "CAND DEM | JIM HOGAN: precinct=None baseline=8",
+   "CAND DEM | RICHARD KINKY FRIEDMAN: precinct=None baseline=2",
+   "CAND REP | ERIC OPIELA: precinct=34 baseline=33",
+   "CAND DEM | MIKE COLLIER: precinct=None baseline=12",
+   "CAND DEM | JOHN GRANBERG: precinct=None baseline=13",
+   "CAND REP | STEVEN R EMMERT: precinct=504 baseline=505",
+   "CAND DEM | REYNALDO RAY MADRIGAL: precinct=None baseline=1",
+   "CAND DEM | WENDY R DAVIS: precinct=None baseline=19"
+  ]
+ },
+ "hidalgo": {
+  "summary": "rows=64669 offices=31(+10 props) missing=1 extra=37 props_mine=0 total_mm=0 total_diffs=31 zero_override=0 cand_mm=2",
+  "details": [
+   "MISSING: [('CRIMINAL DISTRICT ATTORNEY', 'HIDALGO')]",
+   "CAND DEM | RENE GUERRA: precinct=None baseline=16480",
+   "CAND DEM | RICARDO RODRIGUEZ: precinct=None baseline=29180"
+  ]
+ },
+ "jefferson": {
+  "summary": "rows=29898 offices=28(+10 props) missing=0 extra=28 props_mine=0 total_mm=0 total_diffs=28 zero_override=0 cand_mm=1",
+  "details": [
+   "CAND REP | CAROLYN DRAWHORN WIEDENFELD: precinct=None baseline=7648"
+  ]
+ },
+ "lamar": {
+  "summary": "rows=6824 offices=18(+10 props) missing=0 extra=24 props_mine=0 total_mm=0 total_diffs=18 zero_override=0 cand_mm=0"
+ },
+ "lamb": {
+  "summary": "rows=2237 offices=19(+10 props) missing=0 extra=21 props_mine=0 total_mm=0 total_diffs=19 zero_override=0 cand_mm=1",
+  "details": [
+   "CAND DEM | NEAL MARCHBANKS: precinct=69 baseline=0"
+  ]
+ },
+ "lavaca": {
+  "summary": "rows=3927 offices=19(+10 props) missing=0 extra=17 props_mine=0 total_mm=0 total_diffs=19 zero_override=0 cand_mm=0"
+ },
+ "midland": {
+  "summary": "rows=10319 offices=24(+10 props) missing=0 extra=24 props_mine=0 total_mm=0 total_diffs=24 zero_override=0 cand_mm=1",
+  "details": [
+   "CAND DEM | WENDY R DAVIS: precinct=766 baseline=765"
+  ]
+ },
+ "montague": {
+  "summary": "rows=3126 offices=20(+10 props) missing=0 extra=19 props_mine=0 total_mm=0 total_diffs=20 zero_override=0 cand_mm=0"
+ },
+ "moore": {
+  "summary": "rows=840 offices=20(+6 props) missing=0 extra=6 props_mine=0 total_mm=0 total_diffs=11 zero_override=0 cand_mm=0"
+ },
+ "rusk": {
+  "summary": "rows=4442 offices=19(+10 props) missing=0 extra=17 props_mine=0 total_mm=0 total_diffs=19 zero_override=0 cand_mm=1",
+  "details": [
+   "CAND DEM | REYNALDO RAY MADRIGAL: precinct=50 baseline=5"
+  ]
+ },
+ "san_jacinto": {
+  "summary": "rows=2614 offices=22(+10 props) missing=0 extra=24 props_mine=0 total_mm=0 total_diffs=22 zero_override=0 cand_mm=0"
+ },
+ "shelby": {
+  "summary": "rows=813 offices=20(+10 props) missing=6 extra=8 props_mine=0 total_mm=0 total_diffs=20 zero_override=0 cand_mm=54",
+  "details": [
+   "MISSING: [('12 COURT OF APPEALS DISTRICT', ''), ('COURT OF CRIMINAL APPEALS', '4'), ('COURT OF CRIMINAL APPEALS', '9'), ('STATE REPRESENTATIVE', '9'), ('STATE SENATE', '3'), ('SUPREME COURT', '8')]",
+   "CAND REP | JIM WORTHEN: precinct=None baseline=2125",
+   "CAND REP | BARRY SMITHERMAN: precinct=None baseline=684",
+   "CAND REP | DAN BRANCH: precinct=None baseline=1069",
+   "CAND REP | KEN PAXTON: precinct=None baseline=860",
+   "CAND REP | ERIC OPIELA: precinct=None baseline=122",
+   "CAND REP | J ALLEN CARNES: precinct=None baseline=385",
+   "CAND REP | JOE COTTEN: precinct=None baseline=653",
+   "CAND REP | SID MILLER: precinct=None baseline=568",
+   "CAND REP | TOMMY MERRITT: precinct=None baseline=703",
+   "CAND REP | DEBRA MEDINA: precinct=None baseline=799"
+  ]
+ },
+ "swisher": {
+  "summary": "rows=992 offices=21(+10 props) missing=0 extra=6 props_mine=0 total_mm=0 total_diffs=21 zero_override=0 cand_mm=22",
+  "details": [
+   "CAND DEM | SAM HOUSTON: precinct=None baseline=381",
+   "CAND DEM | HUGH ASA FITZSIMONS III: precinct=None baseline=47",
+   "CAND DEM | JIM HOGAN: precinct=None baseline=223",
+   "CAND DEM | RICHARD KINKY FRIEDMAN: precinct=None baseline=151",
+   "CAND DEM | MIKE COLLIER: precinct=None baseline=367",
+   "CAND DEM | JOHN GRANBERG: precinct=None baseline=346",
+   "CAND REP | ROB KINKAID: precinct=None baseline=351",
+   "CAND DEM | REYNALDO RAY MADRIGAL: precinct=None baseline=169",
+   "CAND DEM | WENDY R DAVIS: precinct=None baseline=289",
+   "CAND DEM | JOHN COOK: precinct=None baseline=357"
+  ]
+ },
+ "van_zandt": {
+  "summary": "rows=3837 offices=21(+10 props) missing=0 extra=22 props_mine=0 total_mm=0 total_diffs=21 zero_override=0 cand_mm=43",
+  "details": [
+   "CAND REP | JIM WORTHEN: precinct=4707 baseline=4701",
+   "CAND REP | BARRY SMITHERMAN: precinct=956 baseline=955",
+   "CAND REP | DAN BRANCH: precinct=2245 baseline=2243",
+   "CAND REP | KEN PAXTON: precinct=2725 baseline=2720",
+   "CAND REP | JOE COTTEN: precinct=915 baseline=914",
+   "CAND REP | SID MILLER: precinct=1783 baseline=1780",
+   "CAND REP | TOMMY MERRITT: precinct=1116 baseline=1113",
+   "CAND REP | DEBRA MEDINA: precinct=1311 baseline=1309",
+   "CAND REP | GLENN HEGAR: precinct=3191 baseline=3190",
+   "CAND REP | HARVEY HILDERBRAN: precinct=900 baseline=898"
+  ]
+ },
+ "washington": {
+  "summary": "rows=4755 offices=22(+10 props) missing=0 extra=22 props_mine=0 total_mm=0 total_diffs=22 zero_override=0 cand_mm=1",
+  "details": [
+   "CAND REP | NATHAN HECHT: precinct=2267 baseline=3267"
+  ]
+ },
+ "williamson": {
+  "summary": "rows=21413 offices=23(+10 props) missing=0 extra=30 props_mine=0 total_mm=0 total_diffs=23 zero_override=0 cand_mm=2",
+  "details": [
+   "CAND DEM | JIM HOGAN: precinct=2235 baseline=2285",
+   "CAND DEM | RICHARD KINKY FRIEDMAN: precinct=2285 baseline=2235"
+  ]
+ },
+ "yoakum": {
+  "summary": "rows=821 offices=20(+6 props) missing=0 extra=14 props_mine=0 total_mm=0 total_diffs=11 zero_override=0 cand_mm=1",
+  "details": [
+   "CAND REP | DAN PATRICK: precinct=239 baseline=236"
+  ]
+ }
+}
