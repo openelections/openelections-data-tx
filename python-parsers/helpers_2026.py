@@ -56,6 +56,8 @@ def expand_abbrevs(t):
     full forms used by the Secretary of State canvass (court of appeals districts
     etc.), so precinct rows and the county-level file can be joined by name."""
     t = re.sub(r"\bCT OF APP\b", "COURT OF APPEALS", t, flags=re.I)
+    t = re.sub(r"\bCRT\b", "COURT", t, flags=re.I)
+    t = re.sub(r"\bAPP\b\.?", "APPEALS", t, flags=re.I)
     t = re.sub(r"\bAPPLS\b", "APPEALS", t, flags=re.I)
     t = re.sub(r"\bCT\s+APPEALS\b", "COURT OF APPEALS", t, flags=re.I)
     t = re.sub(r"\bFAM\b\.?", "FAMILY", t, flags=re.I)
@@ -186,7 +188,7 @@ def title_case_office(t):
     s = " ".join(out)
     s = s.replace(", ", ", ")
     s = re.sub(r",\s*$", "", s)
-    s = re.sub(r"\s*No\.?\s*", " ", s, flags=re.I)
+    s = re.sub(r"(?<![A-Za-z])[Nn]o\.?(?![A-Za-z])", " ", s)
     return re.sub(r"\s+", " ", s).strip()
 
 

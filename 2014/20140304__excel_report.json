@@ -1,0 +1,603 @@
+{
+ "culberson": {
+  "rows": 148,
+  "offices_baseline": 19,
+  "offices_missing": [
+   [
+    "8 COURT OF APPEALS DISTRICT",
+    ""
+   ],
+   [
+    "COURT OF CRIMINAL APPEALS",
+    "3"
+   ],
+   [
+    "COURT OF CRIMINAL APPEALS",
+    "4"
+   ],
+   [
+    "COURT OF CRIMINAL APPEALS",
+    "9"
+   ],
+   [
+    "DISTRICT JUDGE",
+    "205 JD"
+   ],
+   [
+    "LIEUTENANT GOVERNOR",
+    ""
+   ],
+   [
+    "SUPREME COURT",
+    "8"
+   ],
+   [
+    "U S HOUSE",
+    "23"
+   ]
+  ],
+  "offices_extra": [
+   [
+    "8 COURT COURT OF APPEALS DISTRICT",
+    ""
+   ],
+   [
+    "A LIVING WAGE FOR ALL",
+    ""
+   ],
+   [
+    "DISTRICT JUDGE 205 JUDICIAL D",
+    ""
+   ],
+   [
+    "JUDGE COURT CRIMINAL COURT OF APPEALS DISTRICT",
+    ""
+   ],
+   [
+    "LT GOVERNOR",
+    ""
+   ],
+   [
+    "MEDICAID EXPANSION",
+    ""
+   ],
+   [
+    "ON IMMIGRATION REFORM",
+    ""
+   ],
+   [
+    "ON NON DISCRIMATION",
+    ""
+   ],
+   [
+    "TOTAL VOTERS REGISTERED",
+    ""
+   ],
+   [
+    "TOTAL VOTES CAST",
+    ""
+   ],
+   [
+    "U S REP",
+    "23"
+   ]
+  ],
+  "props_base": 10,
+  "props_mine": 0,
+  "total_mismatch": [],
+  "total_row_diffs": [
+   [
+    [
+     "8 COURT OF APPEALS DISTRICT",
+     ""
+    ],
+    0,
+    403
+   ],
+   [
+    [
+     "ATTORNEY GENERAL",
+     ""
+    ],
+    321,
+    19
+   ],
+   [
+    [
+     "COMMISSIONER OF AGRICULTURE",
+     ""
+    ],
+    374,
+    19
+   ],
+   [
+    [
+     "COMPTROLLER",
+     ""
+    ],
+    294,
+    18
+   ],
+   [
+    [
+     "COURT OF CRIMINAL APPEALS",
+     "3"
+    ],
+    0,
+    19
+   ],
+   [
+    [
+     "COURT OF CRIMINAL APPEALS",
+     "4"
+    ],
+    0,
+    19
+   ],
+   [
+    [
+     "COURT OF CRIMINAL APPEALS",
+     "9"
+    ],
+    0,
+    18
+   ],
+   [
+    [
+     "DISTRICT JUDGE",
+     "205 JD"
+    ],
+    0,
+    472
+   ],
+   [
+    [
+     "GOVERNOR",
+     ""
+    ],
+    452,
+    21
+   ],
+   [
+    [
+     "LAND COMMISSIONER",
+     ""
+    ],
+    319,
+    20
+   ],
+   [
+    [
+     "LIEUTENANT GOVERNOR",
+     ""
+    ],
+    0,
+    18
+   ],
+   [
+    [
+     "RAILROAD COMMISSIONER",
+     ""
+    ],
+    352,
+    19
+   ],
+   [
+    [
+     "SUPREME COURT",
+     "6"
+    ],
+    279,
+    19
+   ],
+   [
+    [
+     "SUPREME COURT",
+     "7"
+    ],
+    298,
+    15
+   ],
+   [
+    [
+     "SUPREME COURT",
+     "8"
+    ],
+    0,
+    19
+   ],
+   [
+    [
+     "SUPREME COURT",
+     "CHIEF"
+    ],
+    298,
+    20
+   ],
+   [
+    [
+     "U S HOUSE",
+     "23"
+    ],
+    0,
+    21
+   ],
+   [
+    [
+     "US SENATEE",
+     ""
+    ],
+    380,
+    20
+   ]
+  ],
+  "candidate_mismatch": [
+   [
+    "DEM",
+    "ANN CRAWFORD MCCLURE",
+    null,
+    175
+   ],
+   [
+    "DEM",
+    "MARIO ALBERTO GONZALEZ",
+    null,
+    228
+   ],
+   [
+    "REP",
+    "BARRY SMITHERMAN",
+    null,
+    4
+   ],
+   [
+    "REP",
+    "DAN BRANCH",
+    null,
+    2
+   ],
+   [
+    "REP",
+    "KEN PAXTON",
+    null,
+    13
+   ],
+   [
+    "REP",
+    "ERIC OPIELA",
+    null,
+    0
+   ],
+   [
+    "REP",
+    "J ALLEN CARNES",
+    null,
+    1
+   ],
+   [
+    "REP",
+    "JOE COTTEN",
+    null,
+    7
+   ],
+   [
+    "REP",
+    "SID MILLER",
+    null,
+    9
+   ],
+   [
+    "REP",
+    "TOMMY MERRITT",
+    null,
+    2
+   ],
+   [
+    "REP",
+    "DEBRA MEDINA",
+    null,
+    4
+   ],
+   [
+    "REP",
+    "GLENN HEGAR",
+    null,
+    9
+   ],
+   [
+    "REP",
+    "HARVEY HILDERBRAN",
+    null,
+    4
+   ],
+   [
+    "REP",
+    "RAUL TORRES",
+    null,
+    1
+   ],
+   [
+    "DEM",
+    "JOHN GRANBERG",
+    null,
+    279
+   ],
+   [
+    "REP",
+    "BARBARA WALTHER",
+    null,
+    3
+   ],
+   [
+    "REP",
+    "BERT RICHARDSON",
+    null,
+    16
+   ],
+   [
+    "REP",
+    "JANI JO WOOD",
+    null,
+    3
+   ],
+   [
+    "REP",
+    "KEVIN PATRICK YEARY",
+    null,
+    8
+   ],
+   [
+    "REP",
+    "RICHARD DEAN DAVIS",
+    null,
+    8
+   ],
+   [
+    "REP",
+    "DAVID NEWELL",
+    null,
+    9
+   ],
+   [
+    "REP",
+    "W C BUD KIRKENDALL",
+    null,
+    9
+   ],
+   [
+    "DEM",
+    "DANIEL DANNY ANCHONDO",
+    null,
+    160
+   ],
+   [
+    "DEM",
+    "FRANCISCO X DOMINGUEZ",
+    null,
+    105
+   ],
+   [
+    "DEM",
+    "RICK OLIVO",
+    null,
+    207
+   ],
+   [
+    "REP",
+    "GREG ABBOTT",
+    null,
+    12
+   ],
+   [
+    "REP",
+    "LISA FRITSCH",
+    null,
+    3
+   ],
+   [
+    "REP",
+    "MIRIAM MARTINEZ",
+    null,
+    2
+   ],
+   [
+    "REP",
+    "SECEDE KILGORE",
+    null,
+    4
+   ],
+   [
+    "REP",
+    "DAVID WATTS",
+    null,
+    11
+   ],
+   [
+    "REP",
+    "GEORGE P BUSH",
+    null,
+    9
+   ],
+   [
+    "DEM",
+    "LETICIA VAN DE PUTTE",
+    null,
+    306
+   ],
+   [
+    "REP",
+    "DAN PATRICK",
+    null,
+    11
+   ],
+   [
+    "REP",
+    "DAVID DEWHURST",
+    null,
+    1
+   ],
+   [
+    "REP",
+    "JERRY PATTERSON",
+    null,
+    2
+   ],
+   [
+    "REP",
+    "TODD STAPLES",
+    null,
+    4
+   ],
+   [
+    "REP",
+    "BECKY BERGER",
+    null,
+    2
+   ],
+   [
+    "REP",
+    "MALACHI BOYULS",
+    null,
+    2
+   ],
+   [
+    "REP",
+    "RYAN SITTON",
+    null,
+    1
+   ],
+   [
+    "REP",
+    "WAYNE CHRISTIAN",
+    null,
+    14
+   ],
+   [
+    "DEM",
+    "PONCHO NEV REZ",
+    null,
+    302
+   ],
+   [
+    "REP",
+    "JEFF BROWN",
+    null,
+    13
+   ],
+   [
+    "REP",
+    "JOE POOL",
+    null,
+    6
+   ],
+   [
+    "REP",
+    "JEFF BOYD",
+    null,
+    15
+   ],
+   [
+    "REP",
+    "PHIL JOHNSON",
+    null,
+    15
+   ],
+   [
+    "REP",
+    "SHARON MCCALLY",
+    null,
+    4
+   ],
+   [
+    "REP",
+    "NATHAN HECHT",
+    null,
+    9
+   ],
+   [
+    "REP",
+    "ROBERT TALTON",
+    null,
+    11
+   ],
+   [
+    "DEM",
+    "PETE P GALLEGO",
+    null,
+    483
+   ],
+   [
+    "REP",
+    "FRANCISCO QUICO CANSECO",
+    null,
+    3
+   ],
+   [
+    "REP",
+    "ROBERT LOWRY",
+    null,
+    12
+   ],
+   [
+    "REP",
+    "WILL HURD",
+    null,
+    6
+   ],
+   [
+    "REP",
+    "CHRIS MAPP",
+    null,
+    0
+   ],
+   [
+    "REP",
+    "CURT CLEAVER",
+    null,
+    0
+   ],
+   [
+    "REP",
+    "DWAYNE STOVALL",
+    null,
+    0
+   ],
+   [
+    "REP",
+    "JOHN CORNYN",
+    null,
+    6
+   ],
+   [
+    "REP",
+    "KEN COPE",
+    null,
+    4
+   ],
+   [
+    "REP",
+    "LINDA VEGA",
+    null,
+    3
+   ],
+   [
+    "REP",
+    "REID REASOR",
+    null,
+    1
+   ],
+   [
+    "REP",
+    "STEVE STOCKMAN",
+    null,
+    6
+   ]
+  ],
+  "zero_override": [],
+  "reconstructed_ok": 0,
+  "bad_rows": [],
+  "sources": [
+   "CULBERSON_COUNTY-2014_Democratic_Party_Primary_Election_342014-Precinct Totals 2014.xlsx"
+  ]
+ }
+}

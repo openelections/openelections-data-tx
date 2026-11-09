@@ -12,6 +12,7 @@ Usage:
   uv run python3 python-parsers/build_2014.py asc --continue # skip already-written
 """
 import argparse
+import csv
 import importlib
 import json
 import os
@@ -49,6 +50,104 @@ def done_counties_from_files():
             if "__" not in c:
                 done.add(c)
     return done
+
+
+EXCEL_COUNTY_NAMES = {}
+
+
+def county_names():
+    import csv
+    names = {}
+    for county, title in EXCEL_COUNTY_NAMES.items():
+        names[county] = title
+    return names
+
+
+PARTY_SLUG = {"DEM": "democratic", "REP": "republican"}
+
+
+def out_path(county, party=None):
+    if party in PARTY_SLUG:
+        return os.path.join(OUTDIR,
+                            f"20140304__tx__primary__{PARTY_SLUG[party]}__{county}__precinct.csv")
+    return os.path.join(OUTDIR, f"20140304__tx__primary__{county}__precinct.csv")
+
+
+def sources_for_county(county, exts=("xls", "xlsx", "xlsm")):
+    srcs = []
+    parties = set()
+    for e in inv_entries:
+        if e.get("skip") or e["county"] != county:
+            continue
+        fpath = os.path.join(SRC, e["file"])
+        if not fpath.lower().endswith(tuple("." + x for x in exts)):
+            continue
+        srcs.append(fpath)
+        if e.get("party"):
+            parties.add(e["party"])
+        else:
+            parties.add("UNK")
+    return srcs, parties
+
+
+def run_excel(counties):
+    sys.path.insert(0, SRC)
+    import parse_2014_excel as xl
+    import repair_2014 as rp
+    from verify_2014 import load_baseline, verify
+
+    cand, totals, corrupt = load_baseline()
+    rmap = rp.build_map()
+    report = {}
+    for county in counties:
+        srcs, parties = sources_for_county(county)
+        party = next(iter(parties)) if len(parties) == 1 and "UNK" not in parties else None
+        title = county_title(county)
+        op = out_path(county, party)
+        if os.path.exists(op) and os.path.getsize(op) > 200:
+            print(f"-- {county}: output exists, skipping")
+            continue
+        if not srcs:
+            print(f"-- {county}: no excel sources")
+            continue
+        print(f"== {county}: {len(srcs)} sources")
+        try:
+            n = xl.run_county(title, op, srcs)
+            if not n:
+                import parse_2014_wide as w
+                n = w.run_county(title, op, srcs)
+            if not n:
+                report[county] = {"error": f"parse produced no rows (sources: {[os.path.basename(p) for p in srcs]})"}
+                print("   !! nothing parsed")
+                continue
+        except Exception as ex:
+            report[county] = {"error": f"parse failed: {ex}"}
+            print(f"   !! parse error: {ex}")
+            continue
+        # if the deduped sources turned out to cover a single party only,
+        # move the output to the party-prefixed conventional name
+        with open(op) as fh:
+            rows = list(csv.DictReader(fh))
+        pset = {r.get("party") or "" for r in rows}
+        if len(pset) == 1:
+            only = next(iter(pset))
+            if only in ("DEM", "REP"):
+                newop = out_path(county, only)
+                os.replace(op, newop)
+                print(f"   single-party data ({only}); renamed to {os.path.basename(newop)}")
+                op = newop
+        try:
+            rp.repair_file(op, rmap)
+            res = verify(op, cand, totals, corrupt)
+        except Exception as ex:
+            report[county] = {"error": f"verify failed: {ex}"}
+            print(f"   !! verify error: {ex}")
+            continue
+        res["sources"] = [os.path.basename(p) for p in srcs]
+        report[county] = res
+        print(f"   rows={res.get('rows')} missing={len(res.get('offices_missing', []))} "
+              f"total_mm={len(res.get('total_mismatch', []))} cand_mm={len(res.get('candidate_mismatch', []))}")
+    return report
 
 
 def run_asc(counties):
@@ -130,7 +229,7 @@ def load_inventory_entries():
 def main():
     global inv_entries
     ap = argparse.ArgumentParser()
-    ap.add_argument("group", choices=["asc"])
+    ap.add_argument("group", choices=["asc", "excel"])
     ap.add_argument("--only")
     ap.add_argument("--force", action="store_true")
     args = ap.parse_args()
@@ -144,14 +243,30 @@ def main():
         ext = fpath.lower().rsplit(".", 1)[-1]
         if args.group == "asc" and ext in ("asc", "001", "lst", "wrk"):
             counties.add(e["county"])
+        elif args.group == "excel" and ext in ("xls", "xlsx", "xlsm", "xlsb"):
+            counties.add(e["county"])
     if args.only:
         want = {c.strip() for c in args.only.split(",")}
         counties &= want
 
     if args.group == "asc":
         report = run_asc(sorted(counties))
-    else:
-        report = {}
+    elif args.group == "excel":
+        report = run_excel(sorted(counties))
+        rep_path = os.path.join(ROOT, "2014", "20140304__excel_report.json")
+        with open(rep_path, "w") as fh:
+            json.dump(report, fh, indent=1, default=str)
+        print(f"report -> {rep_path}")
+        ok = [c for c, r in sorted(report.items()) if not r.get("error")
+              and not r.get("total_mismatch") and not r.get("candidate_mismatch")]
+        print(f"fully verified: {len(ok)}: {ok}")
+        problems = {c: r.get("error", f"{len(r.get('offices_missing', []))} missing, "
+                              f"{len(r.get('candidate_mismatch', []))} cand_mm")
+                    for c, r in sorted(report.items())
+                    if r.get("error") or r.get("total_mismatch") or r.get("candidate_mismatch")}
+        for c, why in problems.items():
+            print(f"  {c}: {why}")
+        return
 
     rep_path = os.path.join(ROOT, "2014", "20140304__asc_report.json")
     existing = {}

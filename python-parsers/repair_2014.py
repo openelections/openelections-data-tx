@@ -26,7 +26,9 @@ BASELINE = os.path.join(os.path.dirname(os.path.abspath(__file__)), os.pardir,
 
 TARGET_RE = re.compile(
     r"COURT OF CRIMINAL APPEALS|COURT OF APPEALS DISTRICT|SUPREME COURT|"
-    r"STATE BOARD OF EDUCATION", re.I)
+    r"STATE BOARD OF EDUCATION|STATE REPRESENTATIVE|STATE HOUSE|STATE SENATE\b|"
+    r"U\.?\s?S\.? HOUSE|U\.?\s?S\.? SENATE|U\.?\s?S\.? REPRESENTATIVE|"
+    r"U S REPRESENTATIVE|US REPRESENTATIVE", re.I)
 
 
 def collapse(s):
@@ -42,11 +44,14 @@ def build_map(baseline_path=None):
             off = r["office"] or ""
             d = (r["district"] or "").strip()
             c = (r["candidate"] or "").strip()
-            if not c or c == "Total" or not d:
+            if not c or c == "Total" or not c:
                 continue
             if not TARGET_RE.search(off.upper()):
                 continue
-            mp[(r["party"], collapse(c))][f"{off}|{d}"] += 1
+            # keep every (office, district) pair for the candidate; rows whose
+            # district is empty (e.g. 'Chief Justice, Supreme Court') are the
+            # pair themselves
+            mp[(r["party"], collapse(c))][f"{off}|{(d or '').strip()}"] += 1
     return mp
 
 

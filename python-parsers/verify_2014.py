@@ -42,6 +42,18 @@ NAME_ALIASES = {
     "ERNEST WHILE": "ERNEST WHITE",
     "RUBN HINOJOSA": "RUBEN HINOJOSA",  # SOS county file drops the accented e   # county-level file spells Dallas judge's
                                       # name wrong; precinct source has White
+    # source-level typos confirmed per county (2014 excel group):
+    "CYNTHIA L MUNIZ": "CYNTHIA L MUIZ",  # Zavala source vs baseline spelling
+    "JOE COTTON": "JOE COTTEN",           # Coleman/Hall source typo
+    "JOHN CORYN": "JOHN CORNYN",          # Newton source typo
+    "BAN BRANCH": "DAN BRANCH",           # Hall source typo
+    "PONCHO NEVAREZ": "PONCHO NEV REZ",   # Kinney source vs baseline mojibake
+    "ROBERT LOWERY": "ROBERT LOWRY",      # Kinney source typo
+    "WYANE CHRISTIAN": "WAYNE CHRISTIAN", # Childress source typo
+    "W C BUD KIRKENDELL": "W C BUD KIRKENDALL",  # Childress source typo
+    "BERT RICHARSON": "BERT RICHARDSON",  # Hockley source typo
+    "GREG ABBOT": "GREG ABBOTT",          # Hockley source typo
+    "SECEDE KILGOR": "SECEDE KILGORE",    # Hockley source typo
 }
 
 
@@ -140,7 +152,8 @@ def canon_office(office, district="", county_name=""):
     s = re.sub(r"^\s*JUDGE\s+(?=\d)", "DISTRICT JUDGE ", s)
     # Courts of appeals: baseline 'Justice 13th Court of Appeals District' +
     # district '6'; parser form carries 'Place 6' inside the office text.
-    s = re.sub(r"COURT OF APPEALS(?!\s+DISTRICT)(\s+|$)", "COURT OF APPEALS DISTRICT\1", s)
+    s = re.sub(r"COURT OF APPEALS(?!\s+DISTRICT)(\s+|$)", "COURT OF APPEALS DISTRICT ", s)
+    s = s.rstrip(" ")
     mcoa = re.match(r"^(?:(?:CHIEF )?JUSTICE[,.]?\s*)?(\d+)(ST|ND|RD|TH)?\s+COURT OF APPEALS DISTRICT"
                     r"(?:[,.]?\s*(?:PLACE|PL\.?|P)\s*(\d+))?(\s.*)?$", s)
     if mcoa:
@@ -153,6 +166,21 @@ def canon_office(office, district="", county_name=""):
             district += " UNEXPIRED"
     s = re.sub(r"^(?:CHIEF )?JUSTICE,?\s+(?=\d)", "", s)
     s = re.sub(r"^\s*JUDGE\s+(?=COURT OF CRIMINAL APPEALS)", "", s)
+    # 'Judge, Supreme Court, Place 8' — the role prefix has no place meaning
+    s = re.sub(r"^\s*JUDGE,?\s+(?=SUPREME COURT)", "", s)
+    s = re.sub(r"\bSPREME\b", "SUPREME", s)  # Hockley's 'Justice Spreme Court'
+    msc = re.match(r"^(?:CHIEF )?JUSTICE\s+SUPREME COURT[,.]?\s*PLACE\s*(\d+)(.*)$", s)
+    if msc:
+        s = "SUPREME COURT"
+        tail = msc.group(2) or ""
+        district = (district or "") + (" PLACE " + msc.group(1))
+        if "UNEXPIRED" in tail.upper() and district:
+            district += " UNEXPIRED"
+    mcca = re.match(r"^(?:CHIEF )?(?:JUDGE|JUSTICE)\s+COURT OF CRIMINAL APPEALS[,.]?\s*"
+                    r"(?:PLACE|PL\.?|P)\s*(\d+)(.*)$", s)
+    if mcca:
+        s = "COURT OF CRIMINAL APPEALS"
+        district = (district or "") + (" PLACE " + mcca.group(1))
     s = re.sub(r"^(?:CHIEF )?JUSTICE,?\s+(?=\d)", "", s)
     s = re.sub(r"^\s*JUSTICE\s+(?=\d)", "", s)
     s = re.sub(r"^\s*JUSTICE\s+(?=SUPREME COURT)", "", s)
@@ -218,6 +246,7 @@ def load_precinct(path):
     sums_o = defaultdict(int)
     ovu = defaultdict(lambda: [0, 0])  # office key -> [over, under]
     rows = 0
+    bad_rows = []
     mm = re.match(r"20140304__tx__primary(?:__\w+)?__([a-z_]+)__precinct", os.path.basename(path))
     c_name = (mm.group(1).upper().replace("_", " ") if mm else "")
     with open(path) as fh:
@@ -226,8 +255,12 @@ def load_precinct(path):
                 continue
             if r["office"].upper().startswith(("REGISTERED VOTERS - TOTAL", "BALLOTS CAST - ")):
                 continue
+            vs = str(r["votes"]).replace(",", "").strip()
+            if not vs or not re.fullmatch(r"-?\d+", vs):
+                bad_rows.append(f"{r['precinct']}|{r['office']}|{r['candidate']}|{r['votes']!r}")
+                continue
             rows += 1
-            v = int(str(r["votes"]).replace(",", ""))
+            v = int(vs)
             k = office_key(r["office"].strip(), (r["district"] or "").strip(), c_name)
             c = (r["candidate"] or "").upper()
             sums_c[k + ((r["party"] or "").strip(), name_key(r["candidate"]))] += v
@@ -237,11 +270,11 @@ def load_precinct(path):
                 ovu[k][1] += v
             else:
                 sums_o[k] += v
-    return sums_c, sums_o, ovu, rows
+    return sums_c, sums_o, ovu, rows, bad_rows
 
 
 def verify(path, cand, totals, corrupt_rows):
-    sums_c, sums_o, ovu, rows = load_precinct(path)
+    sums_c, sums_o, ovu, rows, bad_rows = load_precinct(path)
     county = os.path.basename(path)
     m = re.match(r"20140304__tx__primary(?:__\w+)?__([a-z_]+)__precinct", county)
     if m:
@@ -278,6 +311,7 @@ def verify(path, cand, totals, corrupt_rows):
         "candidate_mismatch": [],
         "zero_override": [],   # baseline 0 vs precinct >0, office totals tie out
         "reconstructed_ok": 0,
+        "bad_rows": bad_rows,
     }
     results["offices_missing"] = [k for k in results["offices_missing"]
                                   if not k[0].startswith(PROP_SENTINEL)
@@ -342,7 +376,8 @@ def main():
               f"offices={r['offices_baseline']}(+{r['props_base']} props) missing={len(r['offices_missing'])} "
               f"extra={len(r['offices_extra'])} props_mine={r['props_mine']} "
               f"total_mm={len(r['total_mismatch'])} total_diffs={len(r['total_row_diffs'])} "
-              f"zero_override={len(r['zero_override'])} cand_mm={len(r['candidate_mismatch'])}")
+              f"zero_override={len(r['zero_override'])} cand_mm={len(r['candidate_mismatch'])}"
+              f" bad_rows={len(r['bad_rows'])}")
         if r["offices_missing"]:
             print("   MISSING:", r["offices_missing"][:6])
         if r["offices_extra"]:
