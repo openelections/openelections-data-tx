@@ -48,39 +48,40 @@ def _char_positions(line):
 
 
 def parse_canvass(county, sources, party_default=None):
-    """Per page: race title line ('President -'), a fixed-column header line
-    ('Precinct/Absentee/...'), then (rotated) candidate name columns, then
-    data rows 'precinct + 6 fixed + N candidate ints'. Values read by
-    character position; candidate headers clustered by x-overlap."""
+    """Per page: race title line ('President DEM -'), then the fixed column
+    header ('Precinct/Early/...'), then (rotated) candidate name columns,
+    then data rows 'precinct + 6 fixed + one int per candidate column'.
+    Values read by character position and matched to the nearest name
+    column."""
     out = []
     for src in sources:
         party = _base.party_from_filename(src, party_default or "")
         import subprocess
-        txt = subprocess.run(["pdftotext", "-layout", "-nopgbrk", src, "-"],
+        txt = subprocess.run(["pdftotext", "-layout", src, "-"],
                              capture_output=True, timeout=300) \
             .stdout.decode("latin-1", errors="replace")
         for ptxt in txt.split("\x0c"):
             cur_race = None
-            cand_ranges = []
+            cand_cols = []       # x0, x1, words
             fixed = {}
             data_rows = []
             for line in ptxt.splitlines():
                 toks = _char_positions(line)
-                if re.search(r"\d{4}-\d\d-\d\d", line) \
-                        or "Total Number of Voters" in line \
+                if re.search(r"\d{4}-\d\d-\d\d", line) or "Total Number" in line \
                         or "Precincts Reporting" in line \
-                        or "Page " in line and " of " in line:
+                        or ("Page " in line and " of " in line):
+                    continue
+                m = re.match(r"^\s*([A-Z][^\-]{2,60})\s-\s*$", line)
+                if m and not re.search(r"Voters|Official|Ballot|County|Number",
+                                       line, re.I) and re.search(
+                        r"President|Senator|Representative|Commissioner|Justice|"
+                        r"Judge|Board|Court|Attorney", line, re.I):
+                    cur_race = m.group(1).strip()
+                    cand_cols = []
+                    fixed = {}
+                    data_rows = []
                     continue
                 if not cur_race:
-                    m = re.match(r"^\s*([A-Z][^\-]{2,60})\s-\s*$", line)
-                    if m and not re.search(r"Voters|Official|Ballot|County|Number",
-                                           line, re.I) and re.search(
-                            r"President|Senator|Representative|Commissioner|Justice|"
-                            r"Judge|Board|Court|Attorney", line, re.I):
-                        cur_race = m.group(1).strip()
-                        cand_ranges = []
-                        fixed = {}
-                        data_rows = []
                     continue
                 if re.search(r"Precinct\s+(Absentee|Early)", line):
                     fixed = {}
@@ -92,7 +93,8 @@ def parse_canvass(county, sources, party_default=None):
                     continue
                 if re.search(r"Ballots\s+Ballots|Cast\s+Cast", line):
                     continue
-                if re.match(r"^\s*(\d{1,4}|Totals)\b", line):
+                m2 = re.match(r"^\s*(\d{1,4}|Totals)\b", line)
+                if m2:
                     data_rows.append(line)
                     continue
                 if toks and not re.fullmatch(r"[\d,]+", toks[0][1]) \
@@ -104,57 +106,62 @@ def parse_canvass(county, sources, party_default=None):
                         for st, t in toks:
                             lo, hi = st, st + len(t) - 1
                             merged = False
-                            for rng in cand_ranges:
-                                if lo <= rng[1] + 2 and hi >= rng[0] - 2:
-                                    rng[0] = min(rng[0], lo)
-                                    rng[1] = max(rng[1], hi)
-                                    rng[2].append((lo, t))
+                            for col in cand_cols:
+                                if lo <= col["x1"] + 2 and hi >= col["x0"] - 2:
+                                    col["x0"] = min(col["x0"], lo)
+                                    col["x1"] = max(col["x1"], hi)
+                                    col["words"].append((lo, t))
                                     merged = True
                                     break
                             if not merged:
-                                cand_ranges.append([lo, hi, [(lo, t)]])
-            if not cand_ranges or not data_rows:
+                                cand_cols.append({"x0": lo, "x1": hi,
+                                                  "words": [(lo, t)]})
+            if not cand_cols or not data_rows:
                 continue
-            cols = [(r[0], re.sub(r"\s+", " ",
-                    ' '.join(t for _s, t in sorted(r[2], key=lambda x: x[0]))).strip())
-                    for r in sorted(cand_ranges, key=lambda r: r[0])]
-            cols = [(x, n) for x, n in cols
-                    if n and n[:6].lower() not in ('totals', 'continu')
-                    and not re.fullmatch(r"\d+", n)]
+            cols = sorted(cand_cols, key=lambda col: col["x0"])
+            cols = [col for col in cols
+                    if re.sub(r"\s+", " ", ' '.join(t for _s, t in
+                            sorted(col["words"], key=lambda w: w[0]))).strip()[:6]
+                    .lower() not in ('totals', 'continu')]
             if not cols:
                 continue
             for line in data_rows:
                 toks = _char_positions(line)
-                if not toks or not re.fullmatch(r"\d{1,4}", toks[0][1], re.I):
+                pct = toks[0][1] if toks else None
+                if pct is None or pct.lower().startswith('total'):
                     continue
-                pct = precinct_name(toks[0][1])
-                if pct.lower().startswith('total'):
-                    continue
-                pstart = fixed.get("percent", (10 ** 6, 10 ** 6))[0]
-                # candidate values ordered by x map 1:1 to the name columns
-                # (which are also x-ordered); the running-'Totals' column sits
-                # right of the last name and has no header
                 ints_all = [(st, int(t.replace(",", ""))) for st, t in toks
                             if re.fullmatch(r"\d{1,4}", t, re.I)]
-                # the first int is the precinct
-                vals = ints_all[1:]
-                # drop the fixed columns: absentee/early/election/total are
-                # the first 4 ints after precinct whose x sit left of the
-                # leftmost name anchor (cols[0][0]); the 'registered' value
-                # also sits left (x < cols[0][0]); if a value lands right of
-                # the rightmost name anchor (x > cols[-1][0]) it is the
-                # running-'Totals' column (no header) — skipped
-                cvals = [v for xst, v in vals if xst >= cols[0][0] - 20
-                         and xst <= cols[-1][0] + 40]
-                if len(cvals) != len(cols):
+                taken = set()
+                row_out = True
+                for col in cols:
+                    center = (col["x0"] + col["x1"]) / 2
+                    cands = sorted((abs(st - center), st, v) for st, v in ints_all)
+                    pick = None
+                    for d, st, v in cands:
+                        if st in taken:
+                            continue
+                        if col["x0"] - 12 <= st <= col["x1"] + 45:
+                            pick = (st, v)
+                            break
+                    if pick is None:
+                        row_out = False
+                        break
+                    taken.add(pick[0])
+                    col.setdefault("value", pick[1])
+                if not row_out:
                     continue
-                for (cx, cname), v in zip(cols, cvals):
+                for col in cols:
+                    v = col.pop("value", None)
+                    if v is None:
+                        row_out = False
+                        break
                     out.append({"precinct": pct, "race": cur_race,
-                                "candidate": cname,
+                                "candidate": re.sub(r"\s+", " ",
+                                    ' '.join(t for _s, t in sorted(
+                                        col["words"], key=lambda w: w[0]))),
                                 "votes": v, "party": party})
     return out
-
-
 
 
 def load_baseline_names():
