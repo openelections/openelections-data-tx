@@ -97,20 +97,13 @@ Clean: colorado, coryell, dewitt, eastland, falls, hopkins, madison, mitchell, m
 * **Widespread small diffs**: dozens of counties show a small number of candidates whose precinct sums differ from the SOS canvass by exactly ±1 (93 occurrences across the ASC group alone). Direction and magnitude suggest a single provisional/late ballot in the canvass absent from the county's exports; the export values are kept as parsed.
 * **Typos recovered by aliases** (kept in the outputs, mapped for verification): `Raplh M. Hall` (Morris), `Tawana L. Cadien` (Austin; SOS file says W.), `John Grunwold` (Calhoun), `Elizabeth Murray-Kolb` / `MurrayKolb` spelling variants.
 
-## Remaining work (not yet converted)
-
-* **Excel wide/pivoted layouts** (candidates down rows, precincts across columns): bowie, cass, brewster, brazos, hansford, hockley, live_oak, mcmullen, oldham, panola, parker, runnels, shackelford, terrell, terry, willacy, cottle, childress, concho (REP file) — needs a 2012 wide-table parser (2014's `parse_2014_wide.py` is the model).
-* **Delta/Dickens/Hall/McCulloch**: written but with open office/mismatch items to resolve (see JSON report); McCulloch's Republican side exists only as PDFs.
-* **Text group** (19 counties: bell, collin, concho, cooke, duval, el_paso, fannin, grimes, guadalupe, howard, lampasas, marion, motley, san_patricio, sutton, waller, wilbarger, zapata, bandera).
-* **PDF group** (17 counties) — see `LLM_EXTRACTION_CASE_STUDY.md`; Comanche/Fisher ship ED/EV page images.
-* **doc/docx** (brown, dimmit, kleberg), **zips** (collin, rockwall), and the PCL-printer-data files (Hill, Matagorda).
-* Several counties' second party exists only as PDFs (e.g. McCulloch REP, Dickens has both as xlsx; check inventory skip lists).
-
-## 2012 parser quirks handled (for future sessions)
-
-* 2012 Hart exports abbreviate contest titles: `Judge, CT of Criminal AP, P7`, `Member, State BoE, DIST 9`, `Railroad Commissioner, UNEXP`, `Dem Judge, 14th Judicial District DEM COUNTY WIDE`; several counties truncate titles at 56 chars (`Justice, 4th Crt Appeals Dist, Pl, 2`).
-* Some counties ship one file for both parties (in-row party labels, `NON` for party-neutral rows); Dallas prefixes every office with `Dem `/`Rep ` and repeats a party-echo fragment at the end.
-* Excel counties: party column often empty — recovered from the SOS baseline by candidate name (`parse_2012_excel.build_name_party_map`); some counties label their *total* votes column 'Election Day Votes' (Hamilton) — detected per sheet by matching against the baseline.
-* The SOS county file reports the presidential preference twice (`President/VicePresident` statewide and by congressional district as `President Congressional`); the duplicate rows are ignored by the verifier.
-* Baseline quirks: 21 corrupt rows (votes column collapsed) in 13 counties; `Total` rows carry blank party.
+## Remaining work after the text pass:
+* text counties **grimes / lampasas / waller** (Hart CSV dialect whose
+  Court-of-Appeals race titles need a dedicated office cleanup) and
+  **guadalupe** (SOS 'EXPORT DATA' rows with truncated race labels and labels
+  stacked over candidate columns; needs its own handler), **zapata**
+  ( hart header offset 3 — header matcher picks no candidate column).
+* text sources that carry no results data: howard (voter history), bandera
+  EPB files (mail applications), zapata 'List of Voters by Party'.
+* pdf (17), doc/docx (3), zip (2), PCL-printer (hill/matagorda) groups.
 

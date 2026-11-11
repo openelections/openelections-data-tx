@@ -100,9 +100,17 @@ def parse_and_write(county, group, by_party, force=False):
         sources = [p for party in ("DEM", "REP", "UNK") for p in by_party.get(party, [])]
         run = parser.run_county
     elif group == "text":
+        import parse_2012_excel as excel
         import parse_2012_text as parser
+        import parse_2012_wide as wide
+
+        def run(county, out, srcs):
+            excel.run_county(county, out, srcs)
+            if not os.path.exists(out) or os.path.getsize(out) < 200:
+                parser.run_county(county, out, srcs)
+                if not os.path.exists(out) or os.path.getsize(out) < 200:
+                    wide.run_county(county, out, srcs)
         sources = [p for party in ("DEM", "REP", "UNK") for p in by_party.get(party, [])]
-        run = parser.run_county
     else:
         raise SystemExit(f"unknown group {group}")
     tmp_op = op + ".tmp"

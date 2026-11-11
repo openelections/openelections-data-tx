@@ -83,10 +83,42 @@ def fix_parties(rows, name_party):
     return rows
 
 
+def _read_text_sheet(path):
+    """Delimited text exports: one 'sheet' with csv-parsed rows (waller's
+    doubled double-quotes normalized)."""
+    import csv as _csv, io as _io
+    raw = open(path, "r", encoding="latin-1", errors="replace").read()
+    name = os.path.basename(path)
+    if raw.count('""') > 20 and '"Precinct' not in raw[:4000].replace('""', '"'):
+        pass
+    # waller-style: the whole file is wrapped once in quotes with doubled
+    # quotes inside; collapse them first
+    if raw.startswith('"') and '""' in raw[:2000]:
+        raw = raw.lstrip('"').rstrip('"').rstrip('"') \
+            if raw.rstrip().endswith('"""') else raw.strip('"')
+        raw = raw.replace('""', '"')
+    sniffer = _csv.Sniffer()
+    delim = ","
+    try:
+        delim = sniffer.sniff(raw[:2000], delimiters=",\t ").delimiter
+    except Exception:
+        pass
+    if "\t" in raw[:2000] and delim == ",":
+        delim = "\t"
+    rows = list(_csv.reader(_io.StringIO(raw), delimiter=delim))
+    rows = [r for r in rows if any(c.strip() for c in r if isinstance(c, str))] if False else rows
+    rows = [r for r in rows if any(str(c).strip() for c in r)]
+    return [(name, rows)]
+
+
 def load_sheets(path):
     """Magic-number-based sheet loader (some .xls files are xlsx inside)."""
     with open(path, "rb") as fh:
         head = fh.read(8)
+    with open(path, "rb") as fh:
+        head2 = fh.read(8)
+    if head[:2] not in (b"PK",) and head[:8] != b"\xd0\xcf\x11\xe0\xa1\xb1\x1a\xe1":
+        return _read_text_sheet(path)
     if head[:2] == b"PK":
         try:
             import io

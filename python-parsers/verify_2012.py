@@ -106,6 +106,9 @@ def _pre_canon(t):
     t = re.sub(r"\bMEMBER,?\s+(STATE\s+)?BOARD(?=\s+OF\s+EDUCATION)", "MEMBER STATE BOARD",
                t, flags=re.I)
     # Bosque-style reordering
+    m = re.match(r"JUDGE\s+CRIMINAL\s+APPEALS,?\s*(?:PL(?:ACE)?\.?\s*)?(\d+)?\s*$", t, re.I)
+    if m:
+        t = "Judge Court of Criminal Appeals" + (f" Place {m.group(1)}" if m.group(1) else "")
     m = re.match(r"CRIMINAL\s+APPEALS\s+JUDGE,?\s*(?:PL(?:ACE)?\.?\s*)?(\d+)?\s*$", t, re.I)
     if m:
         t = "Judge Court of Criminal Appeals" + (f" Place {m.group(1)}" if m.group(1) else "")
@@ -136,6 +139,7 @@ def _pre_canon(t):
 def _post_key2(s, d):
     """Post-canon fixes shared with the baseline mapping."""
     if s.startswith("DISTRICT JUDGE") and s != "DISTRICT JUDGE":
+        d = re.sub(r"\b(\d+)(?:ST|ND|RD|TH)\b", r"\1", d)
         # 'District Judge 2nd 25th Judicial District' -> district '2 25'
         tail = s[len("DISTRICT JUDGE"):].strip()
         d = re.sub(r"\bJUDICIAL\s+DISTRICT\b", "", f"{d} {tail}", flags=re.I).strip()

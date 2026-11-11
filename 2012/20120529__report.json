@@ -37637,517 +37637,6 @@
   "file": "20120529__tx__primary__young__precinct.csv",
   "format": "excel"
  },
- "zapata": {
-  "rows": 375,
-  "offices_baseline": 20,
-  "offices_missing": [],
-  "offices_extra": [
-   [
-    "BALANCED BUDGET CONTROLLING GOVERNMENT GROWTH",
-    ""
-   ],
-   [
-    "CONSTABLE PRECINCT 1",
-    ""
-   ],
-   [
-    "CONSTABLE PRECINCT 2",
-    ""
-   ],
-   [
-    "CONSTABLE PRECINCT 3",
-    ""
-   ],
-   [
-    "CONSTABLE PRECINCT 4",
-    ""
-   ],
-   [
-    "COUNTY ATTORNEY",
-    ""
-   ],
-   [
-    "COUNTY CHAIRMAN",
-    ""
-   ],
-   [
-    "COUNTY COMMISSIONER PRECINCT 1",
-    ""
-   ],
-   [
-    "COUNTY COMMISSIONER PRECINCT 3",
-    ""
-   ],
-   [
-    "PUBLIC PRAYER",
-    ""
-   ],
-   [
-    "REDISTRICTING",
-    ""
-   ],
-   [
-    "REPEALING OBAMACARE",
-    ""
-   ],
-   [
-    "SCHOOL CHOICE",
-    ""
-   ],
-   [
-    "SHERIFF",
-    ""
-   ],
-   [
-    "TAX ASSESSOR COLLECTOR",
-    ""
-   ]
-  ],
-  "props_base": 8,
-  "props_mine": 3,
-  "total_mismatch": [],
-  "total_row_diffs": [
-   [
-    [
-     "4 COURT OF APPEALS DISTRICT",
-     "2"
-    ],
-    1914,
-    15
-   ],
-   [
-    [
-     "4 COURT OF APPEALS DISTRICT",
-     "3"
-    ],
-    1920,
-    13
-   ],
-   [
-    [
-     "4 COURT OF APPEALS DISTRICT",
-     "4"
-    ],
-    1876,
-    14
-   ],
-   [
-    [
-     "4 COURT OF APPEALS DISTRICT",
-     "5"
-    ],
-    1795,
-    13
-   ],
-   [
-    [
-     "4 COURT OF APPEALS DISTRICT",
-     "7"
-    ],
-    2233,
-    12
-   ],
-   [
-    [
-     "COURT OF CRIMINAL APPEALS",
-     "7"
-    ],
-    10,
-    14
-   ],
-   [
-    [
-     "COURT OF CRIMINAL APPEALS",
-     "8"
-    ],
-    10,
-    13
-   ],
-   [
-    [
-     "COURT OF CRIMINAL APPEALS",
-     "PRESIDING"
-    ],
-    1805,
-    14
-   ],
-   [
-    [
-     "PRESIDENT",
-     ""
-    ],
-    2540,
-    21
-   ],
-   [
-    [
-     "RAILROAD COMMISSIONER",
-     ""
-    ],
-    1866,
-    14
-   ],
-   [
-    [
-     "RAILROAD COMMISSIONER UNEXPIRED",
-     ""
-    ],
-    9,
-    14
-   ],
-   [
-    [
-     "STATE BOARD OF EDUCATION",
-     "1"
-    ],
-    2228,
-    15
-   ],
-   [
-    [
-     "STATE SENATE",
-     "21"
-    ],
-    2196,
-    14
-   ],
-   [
-    [
-     "SUPREME COURT",
-     "2"
-    ],
-    9,
-    14
-   ],
-   [
-    [
-     "SUPREME COURT",
-     "4"
-    ],
-    9,
-    14
-   ],
-   [
-    [
-     "SUPREME COURT",
-     "6"
-    ],
-    1826,
-    12
-   ],
-   [
-    [
-     "U S HOUSE",
-     "28"
-    ],
-    2445,
-    16
-   ],
-   [
-    [
-     "US SENATEE",
-     ""
-    ],
-    1991,
-    17
-   ]
-  ],
-  "candidate_mismatch": [
-   [
-    "4 COURT OF APPEALS DISTRICT",
-    "2",
-    "REP",
-    "MARIALYN BARNARD",
-    10,
-    15
-   ],
-   [
-    "4 COURT OF APPEALS DISTRICT",
-    "3",
-    "REP",
-    "REBECCA SIMMONS",
-    9,
-    13
-   ],
-   [
-    "4 COURT OF APPEALS DISTRICT",
-    "4",
-    "REP",
-    "STEVE HILBIG",
-    9,
-    14
-   ],
-   [
-    "4 COURT OF APPEALS DISTRICT",
-    "5",
-    "REP",
-    "KAREN ANGELINI",
-    9,
-    13
-   ],
-   [
-    "4 COURT OF APPEALS DISTRICT",
-    "7",
-    "REP",
-    "PHYLIS J SPEEDLIN",
-    8,
-    12
-   ],
-   [
-    "COURT OF CRIMINAL APPEALS",
-    "7",
-    "REP",
-    "BARBARA PARKER HERVEY",
-    10,
-    14
-   ],
-   [
-    "COURT OF CRIMINAL APPEALS",
-    "8",
-    "REP",
-    "ELSA ALCALA",
-    10,
-    13
-   ],
-   [
-    "COURT OF CRIMINAL APPEALS",
-    "PRESIDING",
-    "REP",
-    "SHARON KELLER",
-    11,
-    14
-   ],
-   [
-    "PRESIDENT",
-    "",
-    "REP",
-    "CHARLES BUDDY ROEMER",
-    null,
-    0
-   ],
-   [
-    "PRESIDENT",
-    "",
-    "REP",
-    "JOHN DAVIS",
-    null,
-    0
-   ],
-   [
-    "PRESIDENT",
-    "",
-    "REP",
-    "JON HUNTSMAN",
-    null,
-    0
-   ],
-   [
-    "PRESIDENT",
-    "",
-    "REP",
-    "MITT ROMNEY",
-    13,
-    17
-   ],
-   [
-    "PRESIDENT",
-    "",
-    "REP",
-    "NEWT GINGRICH",
-    null,
-    0
-   ],
-   [
-    "PRESIDENT",
-    "",
-    "REP",
-    "RICK SANTORUM",
-    null,
-    0
-   ],
-   [
-    "PRESIDENT",
-    "",
-    "REP",
-    "RON PAUL",
-    1,
-    3
-   ],
-   [
-    "PRESIDENT",
-    "",
-    "REP",
-    "UNCOMMITTED",
-    null,
-    0
-   ],
-   [
-    "RAILROAD COMMISSIONER",
-    "",
-    "REP",
-    "CHRISTI CRADDICK",
-    null,
-    0
-   ],
-   [
-    "RAILROAD COMMISSIONER",
-    "",
-    "REP",
-    "JOE COTTEN",
-    null,
-    4
-   ],
-   [
-    "RAILROAD COMMISSIONER",
-    "",
-    "REP",
-    "WARREN CHISUM",
-    3,
-    4
-   ],
-   [
-    "RAILROAD COMMISSIONER UNEXPIRED",
-    "",
-    "REP",
-    "BARRY SMITHERMAN",
-    1,
-    2
-   ],
-   [
-    "RAILROAD COMMISSIONER UNEXPIRED",
-    "",
-    "REP",
-    "GREG PARKER",
-    5,
-    9
-   ],
-   [
-    "STATE BOARD OF EDUCATION",
-    "1",
-    "DEM",
-    "MARTHA M DOMINGUZ",
-    null,
-    1390
-   ],
-   [
-    "STATE BOARD OF EDUCATION",
-    "1",
-    "REP",
-    "CARLOS CHARLIE GARZA",
-    11,
-    15
-   ],
-   [
-    "STATE SENATE",
-    "21",
-    "REP",
-    "GRANT ROSTIG",
-    10,
-    14
-   ],
-   [
-    "SUPREME COURT",
-    "2",
-    "REP",
-    "DON WILLETT",
-    3,
-    4
-   ],
-   [
-    "SUPREME COURT",
-    "2",
-    "REP",
-    "STEVE SMITH",
-    6,
-    10
-   ],
-   [
-    "SUPREME COURT",
-    "4",
-    "REP",
-    "JOE POOL JR",
-    1,
-    4
-   ],
-   [
-    "SUPREME COURT",
-    "4",
-    "REP",
-    "JOHN DEVINE",
-    null,
-    2
-   ],
-   [
-    "SUPREME COURT",
-    "6",
-    "REP",
-    "NATHAN HECHT",
-    9,
-    12
-   ],
-   [
-    "U S HOUSE",
-    "28",
-    "REP",
-    "WILLIAM R HAYWARD",
-    11,
-    16
-   ],
-   [
-    "US SENATEE",
-    "",
-    "REP",
-    "BEN GAMBINI",
-    null,
-    1
-   ],
-   [
-    "US SENATEE",
-    "",
-    "REP",
-    "CRAIG JAMES",
-    null,
-    1
-   ],
-   [
-    "US SENATEE",
-    "",
-    "REP",
-    "CURT CLEAVER",
-    null,
-    1
-   ],
-   [
-    "US SENATEE",
-    "",
-    "REP",
-    "DAVID DEWHURST",
-    6,
-    8
-   ],
-   [
-    "US SENATEE",
-    "",
-    "REP",
-    "JOE AGRIS",
-    null,
-    0
-   ],
-   [
-    "US SENATEE",
-    "",
-    "REP",
-    "LELA PITTENGER",
-    null,
-    0
-   ]
-  ],
-  "zero_override": [],
-  "reconstructed_ok": 0,
-  "bad_rows": [],
-  "file": "20120529__tx__primary__democratic__zapata__precinct.csv",
-  "format": "excel"
- },
  "mcmullen": {
   "rows": 481,
   "offices_baseline": 21,
@@ -38631,55 +38120,47 @@
   "offices_missing": [],
   "offices_extra": [
    [
-    "BALANCED BUDGET CONTROLLING GOVERNMENT GROWTH REP",
+    "BALANCED BUDGET CONTROLLING GOVERNMENT GROWTH",
     ""
    ],
    [
-    "CONSTABLE REP",
+    "CONSTABLE",
     ""
    ],
    [
-    "COUNTY ATTORNEY REP",
+    "COUNTY ATTORNEY",
     ""
    ],
    [
-    "COUNTY CHAIRMAN DEM",
+    "COUNTY CHAIRMAN",
     ""
    ],
    [
-    "COUNTY CHAIRMAN REP",
+    "COUNTY COMMISSIONER PRECINCT 1",
     ""
    ],
    [
-    "COUNTY COMMISSIONER PRECINCT 1 REP",
+    "COUNTY COMMISSIONER PRECINCT 3",
     ""
    ],
    [
-    "COUNTY COMMISSIONER PRECINCT 3 DEM",
+    "PUBLIC PRAYER",
     ""
    ],
    [
-    "COUNTY COMMISSIONER PRECINCT 3 REP",
+    "REDISTRICTING",
     ""
    ],
    [
-    "PUBLIC PRAYER REP",
+    "REPEALING OBAMACARE",
     ""
    ],
    [
-    "REDISTRICTING REP",
+    "SCHOOL CHOICE",
     ""
    ],
    [
-    "REPEALING OBAMACARE REP",
-    ""
-   ],
-   [
-    "SCHOOL CHOICE REP",
-    ""
-   ],
-   [
-    "SHERIFF REP",
+    "SHERIFF",
     ""
    ]
   ],
@@ -38778,163 +38259,19 @@
   ],
   "candidate_mismatch": [
    [
-    "3 COURT OF APPEALS DISTRICT",
-    "2",
-    "DEM",
-    "J ANDREW HATHCOCK",
-    null,
-    34
-   ],
-   [
-    "3 COURT OF APPEALS DISTRICT",
-    "3",
-    "DEM",
-    "DIANE HENSON",
-    null,
-    39
-   ],
-   [
-    "3 COURT OF APPEALS DISTRICT",
-    "5",
-    "DEM",
-    "KAREN L WATKINS",
-    null,
-    34
-   ],
-   [
-    "3 COURT OF APPEALS DISTRICT",
-    "6",
-    "DEM",
-    "BRYAN CASE",
-    null,
-    35
-   ],
-   [
-    "COURT OF CRIMINAL APPEALS",
-    "PRESIDING",
-    "DEM",
-    "KEITH HAMPTON",
-    null,
-    38
-   ],
-   [
-    "PRESIDENT",
-    "",
-    "DEM",
-    "BARACK OBAMA",
-    null,
-    29
-   ],
-   [
-    "PRESIDENT",
-    "",
-    "DEM",
-    "BOB ELY",
-    null,
-    4
-   ],
-   [
-    "PRESIDENT",
-    "",
-    "DEM",
-    "DARCY G RICHARDSON",
-    null,
-    6
-   ],
-   [
-    "PRESIDENT",
-    "",
-    "DEM",
-    "JOHN WOLFE",
-    null,
-    3
-   ],
-   [
-    "RAILROAD COMMISSIONER",
-    "",
-    "DEM",
-    "DALE HENRY",
-    null,
-    38
-   ],
-   [
-    "STATE BOARD OF EDUCATION",
-    "1",
-    "DEM",
-    "ANDRES MURO",
-    null,
-    6
-   ],
-   [
     "STATE BOARD OF EDUCATION",
     "1",
     "DEM",
     "MARTHA M DOMINGUZ",
     null,
     30
-   ],
-   [
-    "STATE BOARD OF EDUCATION",
-    "1",
-    "DEM",
-    "SERGIO MORA",
-    null,
-    6
-   ],
-   [
-    "SUPREME COURT",
-    "6",
-    "DEM",
-    "MICHELE PETTY",
-    null,
-    38
-   ],
-   [
-    "U S HOUSE",
-    "11",
-    "DEM",
-    "JIM RILEY",
-    null,
-    36
-   ],
-   [
-    "US SENATEE",
-    "",
-    "DEM",
-    "ADDIE DAINELL ALLEN",
-    null,
-    6
-   ],
-   [
-    "US SENATEE",
-    "",
-    "DEM",
-    "GRADY YARBROUGH",
-    null,
-    15
-   ],
-   [
-    "US SENATEE",
-    "",
-    "DEM",
-    "PAUL SADLER",
-    null,
-    13
-   ],
-   [
-    "US SENATEE",
-    "",
-    "DEM",
-    "SEAN HUBBARD",
-    null,
-    8
    ]
   ],
   "zero_override": [],
   "reconstructed_ok": 0,
   "bad_rows": [],
-  "file": "20120529__tx__primary__republican__concho__precinct.csv",
-  "format": "excel"
+  "file": "20120529__tx__primary__democratic__concho__precinct.csv",
+  "format": "text"
  },
  "willacy": {
   "rows": 60,
@@ -40493,14 +39830,6 @@
     "PRESIDENT",
     "",
     "REP",
-    "JON HUNTSMAN",
-    null,
-    1
-   ],
-   [
-    "PRESIDENT",
-    "",
-    "REP",
     "MITT ROMNEY",
     1700,
     1702
@@ -40809,5 +40138,4520 @@
   "bad_rows": [],
   "file": "20120529__tx__primary__childress__precinct.csv",
   "format": "excel"
+ },
+ "el_paso": {
+  "rows": 24051,
+  "offices_baseline": 34,
+  "offices_missing": [
+   [
+    "8 COURT OF APPEALS DISTRICT",
+    ""
+   ],
+   [
+    "PRESIDENT",
+    ""
+   ],
+   [
+    "RAILROAD COMMISSIONER UNEXPIRED",
+    ""
+   ]
+  ],
+  "offices_extra": [
+   [
+    "CHIEF JUSTICE COURT OF APPEALS DISTRICT 8 DISTRICT",
+    ""
+   ],
+   [
+    "CONSTABLE PRECINCT 1",
+    ""
+   ],
+   [
+    "CONSTABLE PRECINCT 2",
+    ""
+   ],
+   [
+    "CONSTABLE PRECINCT 3",
+    ""
+   ],
+   [
+    "CONSTABLE PRECINCT 4",
+    ""
+   ],
+   [
+    "CONSTABLE PRECINCT 5",
+    ""
+   ],
+   [
+    "CONSTABLE PRECINCT 6",
+    ""
+   ],
+   [
+    "CONSTABLE PRECINCT 7",
+    ""
+   ],
+   [
+    "COUNTY ATTORNEY",
+    ""
+   ],
+   [
+    "COUNTY CHAIRMAN",
+    ""
+   ],
+   [
+    "COUNTY COMMISSIONER PRECINCT 1",
+    ""
+   ],
+   [
+    "COUNTY COMMISSIONER PRECINCT 3",
+    ""
+   ],
+   [
+    "COUNTY TAX ASSESSOR COLLECTOR",
+    ""
+   ],
+   [
+    "JUDGE COUNTY CRIMINAL COURT 3",
+    ""
+   ],
+   [
+    "JUDGE COUNTY CRIMINAL COURT 4",
+    ""
+   ],
+   [
+    "PARTY REFERENDUM 1",
+    ""
+   ],
+   [
+    "PARTY REFERENDUM 2",
+    ""
+   ],
+   [
+    "PARTY REFERENDUM 3",
+    ""
+   ],
+   [
+    "SHERIFF",
+    ""
+   ],
+   [
+    "US PRESIDENT",
+    ""
+   ]
+  ],
+  "props_base": 8,
+  "props_mine": 5,
+  "total_mismatch": [],
+  "total_row_diffs": [
+   [
+    [
+     "8 COURT OF APPEALS DISTRICT",
+     ""
+    ],
+    0,
+    41527
+   ],
+   [
+    [
+     "8 COURT OF APPEALS DISTRICT",
+     "2"
+    ],
+    51861,
+    8040
+   ],
+   [
+    [
+     "COURT OF CRIMINAL APPEALS",
+     "PRESIDING"
+    ],
+    39375,
+    7962
+   ],
+   [
+    [
+     "DISTRICT JUDGE",
+     "243"
+    ],
+    49551,
+    7967
+   ],
+   [
+    [
+     "DISTRICT JUDGE",
+     "388"
+    ],
+    50470,
+    7815
+   ],
+   [
+    [
+     "PRESIDENT",
+     ""
+    ],
+    0,
+    11556
+   ],
+   [
+    [
+     "RAILROAD COMMISSIONER",
+     ""
+    ],
+    50862,
+    9416
+   ],
+   [
+    [
+     "RAILROAD COMMISSIONER UNEXPIRED",
+     ""
+    ],
+    0,
+    9398
+   ],
+   [
+    [
+     "STATE BOARD OF EDUCATION",
+     "1"
+    ],
+    48229,
+    7906
+   ],
+   [
+    [
+     "STATE REPRESENTATIVE",
+     "78"
+    ],
+    9961,
+    3426
+   ],
+   [
+    [
+     "STATE SENATE",
+     "29"
+    ],
+    43135,
+    7974
+   ],
+   [
+    [
+     "SUPREME COURT",
+     "6"
+    ],
+    40338,
+    7887
+   ],
+   [
+    [
+     "U S HOUSE",
+     "16"
+    ],
+    55040,
+    8949
+   ],
+   [
+    [
+     "U S HOUSE",
+     "23"
+    ],
+    4074,
+    215
+   ],
+   [
+    [
+     "US SENATEE",
+     ""
+    ],
+    49298,
+    10901
+   ]
+  ],
+  "candidate_mismatch": [
+   [
+    "8 COURT OF APPEALS DISTRICT",
+    "",
+    "DEM",
+    "ANN CRAWFORD MCCLURE",
+    null,
+    23004
+   ],
+   [
+    "8 COURT OF APPEALS DISTRICT",
+    "",
+    "DEM",
+    "LUIS C LABRADO",
+    null,
+    18523
+   ],
+   [
+    "8 COURT OF APPEALS DISTRICT",
+    "2",
+    "DEM",
+    "MARCOS LIZARRAGA",
+    null,
+    14806
+   ],
+   [
+    "8 COURT OF APPEALS DISTRICT",
+    "2",
+    "DEM",
+    "TOM STANTON",
+    null,
+    12132
+   ],
+   [
+    "8 COURT OF APPEALS DISTRICT",
+    "2",
+    "DEM",
+    "YVONNE RODRIGUEZ",
+    null,
+    16883
+   ],
+   [
+    "8 COURT OF APPEALS DISTRICT",
+    "2",
+    "REP",
+    "CHRIS ANTCLIFF",
+    null,
+    8040
+   ],
+   [
+    "8 COURT OF APPEALS DISTRICT",
+    "3",
+    "DEM",
+    "GUADALUPE LUPE RIVERA",
+    null,
+    35947
+   ],
+   [
+    "COURT OF CRIMINAL APPEALS",
+    "7",
+    "REP",
+    "BARBARA PARKER HERVEY",
+    null,
+    7993
+   ],
+   [
+    "COURT OF CRIMINAL APPEALS",
+    "8",
+    "REP",
+    "ELSA ALCALA",
+    null,
+    7854
+   ],
+   [
+    "COURT OF CRIMINAL APPEALS",
+    "PRESIDING",
+    "DEM",
+    "KEITH HAMPTON",
+    null,
+    31413
+   ],
+   [
+    "COURT OF CRIMINAL APPEALS",
+    "PRESIDING",
+    "REP",
+    "SHARON KELLER",
+    null,
+    7962
+   ],
+   [
+    "CRIMINAL DISTRICT JUDGE",
+    "1",
+    "DEM",
+    "DIANE NAVARRETE",
+    null,
+    16354
+   ],
+   [
+    "CRIMINAL DISTRICT JUDGE",
+    "1",
+    "DEM",
+    "JOSE CASTILLO",
+    null,
+    10446
+   ],
+   [
+    "CRIMINAL DISTRICT JUDGE",
+    "1",
+    "DEM",
+    "THERESA TC CABALLERO",
+    null,
+    18078
+   ],
+   [
+    "DISTRICT ATTORNEY",
+    "34",
+    "DEM",
+    "JAIME ESPARZA",
+    null,
+    32299
+   ],
+   [
+    "DISTRICT ATTORNEY",
+    "34",
+    "DEM",
+    "JAMES LUCAS",
+    null,
+    12200
+   ],
+   [
+    "DISTRICT JUDGE",
+    "243",
+    "DEM",
+    "LUIS AGUILAR",
+    null,
+    23638
+   ],
+   [
+    "DISTRICT JUDGE",
+    "243",
+    "DEM",
+    "RICHARD CONTRERAS",
+    null,
+    17946
+   ],
+   [
+    "DISTRICT JUDGE",
+    "243",
+    "REP",
+    "BILLY DON HICKS",
+    null,
+    7967
+   ],
+   [
+    "DISTRICT JUDGE",
+    "34",
+    "DEM",
+    "BILL MOODY",
+    null,
+    34759
+   ],
+   [
+    "DISTRICT JUDGE",
+    "346",
+    "DEM",
+    "ANGIE J BARILL",
+    null,
+    33058
+   ],
+   [
+    "DISTRICT JUDGE",
+    "383",
+    "DEM",
+    "LISA A HAYES",
+    null,
+    18340
+   ],
+   [
+    "DISTRICT JUDGE",
+    "383",
+    "DEM",
+    "MIKE HERRERA",
+    null,
+    23680
+   ],
+   [
+    "DISTRICT JUDGE",
+    "384",
+    "DEM",
+    "PATRICK M GARCIA",
+    null,
+    33248
+   ],
+   [
+    "DISTRICT JUDGE",
+    "388",
+    "DEM",
+    "DON WILLIAMS",
+    null,
+    9196
+   ],
+   [
+    "DISTRICT JUDGE",
+    "388",
+    "DEM",
+    "LAURA STRATHMANN",
+    null,
+    14339
+   ],
+   [
+    "DISTRICT JUDGE",
+    "388",
+    "DEM",
+    "LUCILA F CAMARENA",
+    null,
+    14341
+   ],
+   [
+    "DISTRICT JUDGE",
+    "388",
+    "DEM",
+    "PHILIP PHIL MULLIN",
+    null,
+    4779
+   ],
+   [
+    "DISTRICT JUDGE",
+    "388",
+    "REP",
+    "PAULA L THOMAS",
+    null,
+    7815
+   ],
+   [
+    "DISTRICT JUDGE",
+    "409",
+    "DEM",
+    "SAM MEDRANO JR",
+    null,
+    32480
+   ],
+   [
+    "DISTRICT JUDGE",
+    "41",
+    "DEM",
+    "ANNA PEREZ",
+    null,
+    19776
+   ],
+   [
+    "DISTRICT JUDGE",
+    "41",
+    "DEM",
+    "DOLORES REYES",
+    null,
+    10991
+   ],
+   [
+    "DISTRICT JUDGE",
+    "41",
+    "DEM",
+    "MIKE CERVANTES",
+    null,
+    12666
+   ],
+   [
+    "DISTRICT JUDGE",
+    "448",
+    "DEM",
+    "DAVID H CAVAZOS",
+    null,
+    5808
+   ],
+   [
+    "DISTRICT JUDGE",
+    "448",
+    "DEM",
+    "RAY GUTIERREZ",
+    null,
+    7496
+   ],
+   [
+    "DISTRICT JUDGE",
+    "448",
+    "DEM",
+    "REGINA ARDITTI",
+    null,
+    20717
+   ],
+   [
+    "DISTRICT JUDGE",
+    "448",
+    "DEM",
+    "SERGIO H ENRIQUEZ",
+    null,
+    9279
+   ],
+   [
+    "DISTRICT JUDGE",
+    "65",
+    "DEM",
+    "YAHARA L GUTIERREZ",
+    null,
+    32284
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "DEM",
+    "BARACK OBAMA",
+    null,
+    39222
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "DEM",
+    "BOB ELY",
+    null,
+    1255
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "DEM",
+    "DARCY G RICHARDSON",
+    null,
+    2849
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "DEM",
+    "JOHN WOLFE",
+    null,
+    2595
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "REP",
+    "CHARLES BUDDY ROEMER",
+    null,
+    52
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "REP",
+    "JOHN DAVIS",
+    null,
+    55
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "REP",
+    "JON HUNTSMAN",
+    null,
+    32
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "REP",
+    "MICHELE BACHMANN",
+    null,
+    192
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "REP",
+    "MITT ROMNEY",
+    null,
+    8176
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "REP",
+    "NEWT GINGRICH",
+    null,
+    500
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "REP",
+    "RICK SANTORUM",
+    null,
+    849
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "REP",
+    "RON PAUL",
+    null,
+    1168
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "REP",
+    "UNCOMMITTED",
+    null,
+    532
+   ],
+   [
+    "RAILROAD COMMISSIONER",
+    "",
+    "DEM",
+    "DALE HENRY",
+    null,
+    32048
+   ],
+   [
+    "RAILROAD COMMISSIONER",
+    "",
+    "REP",
+    "BECKY BERGER",
+    null,
+    1497
+   ],
+   [
+    "RAILROAD COMMISSIONER",
+    "",
+    "REP",
+    "BERYL BURGESS",
+    null,
+    776
+   ],
+   [
+    "RAILROAD COMMISSIONER",
+    "",
+    "REP",
+    "CHRISTI CRADDICK",
+    null,
+    2446
+   ],
+   [
+    "RAILROAD COMMISSIONER",
+    "",
+    "REP",
+    "JOE COTTEN",
+    null,
+    2234
+   ],
+   [
+    "RAILROAD COMMISSIONER",
+    "",
+    "REP",
+    "ROLAND SLEDGE",
+    null,
+    701
+   ],
+   [
+    "RAILROAD COMMISSIONER",
+    "",
+    "REP",
+    "WARREN CHISUM",
+    null,
+    1762
+   ],
+   [
+    "RAILROAD COMMISSIONER UNEXPIRED",
+    "",
+    "REP",
+    "AL LEE",
+    null,
+    952
+   ],
+   [
+    "RAILROAD COMMISSIONER UNEXPIRED",
+    "",
+    "REP",
+    "BARRY SMITHERMAN",
+    null,
+    2980
+   ],
+   [
+    "RAILROAD COMMISSIONER UNEXPIRED",
+    "",
+    "REP",
+    "ELIZABETH MURRAYKOLB",
+    null,
+    2781
+   ],
+   [
+    "RAILROAD COMMISSIONER UNEXPIRED",
+    "",
+    "REP",
+    "GREG PARKER",
+    null,
+    2685
+   ],
+   [
+    "STATE BOARD OF EDUCATION",
+    "1",
+    "DEM",
+    "ANDRES MURO",
+    null,
+    7628
+   ],
+   [
+    "STATE BOARD OF EDUCATION",
+    "1",
+    "DEM",
+    "MARTHA M DOMINGUZ",
+    null,
+    24026
+   ],
+   [
+    "STATE BOARD OF EDUCATION",
+    "1",
+    "DEM",
+    "SERGIO MORA",
+    null,
+    8669
+   ],
+   [
+    "STATE BOARD OF EDUCATION",
+    "1",
+    "REP",
+    "CARLOS CHARLIE GARZA",
+    null,
+    7906
+   ],
+   [
+    "STATE REPRESENTATIVE",
+    "75",
+    "DEM",
+    "HECTOR ENRIQUEZ",
+    null,
+    2191
+   ],
+   [
+    "STATE REPRESENTATIVE",
+    "75",
+    "DEM",
+    "MARY E GONZALEZ",
+    null,
+    3165
+   ],
+   [
+    "STATE REPRESENTATIVE",
+    "75",
+    "DEM",
+    "TONY SAN ROMAN",
+    null,
+    722
+   ],
+   [
+    "STATE REPRESENTATIVE",
+    "76",
+    "DEM",
+    "NAOMI R GONZALEZ",
+    null,
+    7466
+   ],
+   [
+    "STATE REPRESENTATIVE",
+    "77",
+    "DEM",
+    "AARON BARRAZA",
+    null,
+    3915
+   ],
+   [
+    "STATE REPRESENTATIVE",
+    "77",
+    "DEM",
+    "MARISA MARQUEZ",
+    null,
+    6406
+   ],
+   [
+    "STATE REPRESENTATIVE",
+    "78",
+    "DEM",
+    "JOE MOODY",
+    null,
+    6535
+   ],
+   [
+    "STATE REPRESENTATIVE",
+    "78",
+    "REP",
+    "DONALD R DEE MARGO",
+    null,
+    3426
+   ],
+   [
+    "STATE REPRESENTATIVE",
+    "79",
+    "DEM",
+    "JOE C PICKETT",
+    null,
+    6757
+   ],
+   [
+    "STATE SENATE",
+    "29",
+    "DEM",
+    "JOSE R RODRIGUEZ",
+    null,
+    35161
+   ],
+   [
+    "STATE SENATE",
+    "29",
+    "REP",
+    "DAN CHAVEZ",
+    null,
+    7974
+   ],
+   [
+    "SUPREME COURT",
+    "2",
+    "REP",
+    "DON WILLETT",
+    null,
+    4299
+   ],
+   [
+    "SUPREME COURT",
+    "2",
+    "REP",
+    "STEVE SMITH",
+    null,
+    5018
+   ],
+   [
+    "SUPREME COURT",
+    "4",
+    "REP",
+    "DAVID MEDINA",
+    null,
+    4268
+   ],
+   [
+    "SUPREME COURT",
+    "4",
+    "REP",
+    "JOE POOL JR",
+    null,
+    2294
+   ],
+   [
+    "SUPREME COURT",
+    "4",
+    "REP",
+    "JOHN DEVINE",
+    null,
+    3014
+   ],
+   [
+    "SUPREME COURT",
+    "6",
+    "DEM",
+    "MICHELE PETTY",
+    null,
+    32451
+   ],
+   [
+    "SUPREME COURT",
+    "6",
+    "REP",
+    "NATHAN HECHT",
+    null,
+    7887
+   ],
+   [
+    "U S HOUSE",
+    "16",
+    "DEM",
+    "BEN E BUDDY MENDOZA",
+    null,
+    701
+   ],
+   [
+    "U S HOUSE",
+    "16",
+    "DEM",
+    "BETO OROURKE",
+    null,
+    23261
+   ],
+   [
+    "U S HOUSE",
+    "16",
+    "DEM",
+    "JEROME TILGHMAN",
+    null,
+    1270
+   ],
+   [
+    "U S HOUSE",
+    "16",
+    "DEM",
+    "PAUL JOHNSON JR",
+    null,
+    419
+   ],
+   [
+    "U S HOUSE",
+    "16",
+    "DEM",
+    "SILVESTRE REYES",
+    null,
+    20440
+   ],
+   [
+    "U S HOUSE",
+    "16",
+    "REP",
+    "BARBARA CARRASCO",
+    null,
+    5268
+   ],
+   [
+    "U S HOUSE",
+    "16",
+    "REP",
+    "COREY DEAN ROEN",
+    null,
+    3681
+   ],
+   [
+    "U S HOUSE",
+    "23",
+    "DEM",
+    "CIRO D RODRIGUEZ",
+    null,
+    1859
+   ],
+   [
+    "U S HOUSE",
+    "23",
+    "DEM",
+    "JOHN M BUSTAMANTE",
+    null,
+    776
+   ],
+   [
+    "U S HOUSE",
+    "23",
+    "DEM",
+    "PETE P GALLEGO",
+    null,
+    1224
+   ],
+   [
+    "U S HOUSE",
+    "23",
+    "REP",
+    "FRANCISCO QUICO CANSECO",
+    null,
+    215
+   ],
+   [
+    "US SENATEE",
+    "",
+    "DEM",
+    "ADDIE DAINELL ALLEN",
+    null,
+    11112
+   ],
+   [
+    "US SENATEE",
+    "",
+    "DEM",
+    "GRADY YARBROUGH",
+    null,
+    10023
+   ],
+   [
+    "US SENATEE",
+    "",
+    "DEM",
+    "PAUL SADLER",
+    null,
+    11461
+   ],
+   [
+    "US SENATEE",
+    "",
+    "DEM",
+    "SEAN HUBBARD",
+    null,
+    5801
+   ],
+   [
+    "US SENATEE",
+    "",
+    "REP",
+    "BEN GAMBINI",
+    null,
+    208
+   ],
+   [
+    "US SENATEE",
+    "",
+    "REP",
+    "CRAIG JAMES",
+    null,
+    465
+   ],
+   [
+    "US SENATEE",
+    "",
+    "REP",
+    "CURT CLEAVER",
+    null,
+    221
+   ],
+   [
+    "US SENATEE",
+    "",
+    "REP",
+    "DAVID DEWHURST",
+    null,
+    3953
+   ],
+   [
+    "US SENATEE",
+    "",
+    "REP",
+    "GLENN ADDISON",
+    null,
+    297
+   ],
+   [
+    "US SENATEE",
+    "",
+    "REP",
+    "JOE AGRIS",
+    null,
+    216
+   ],
+   [
+    "US SENATEE",
+    "",
+    "REP",
+    "LELA PITTENGER",
+    null,
+    352
+   ],
+   [
+    "US SENATEE",
+    "",
+    "REP",
+    "TED CRUZ",
+    null,
+    4869
+   ],
+   [
+    "US SENATEE",
+    "",
+    "REP",
+    "TOM LEPPERT",
+    null,
+    320
+   ]
+  ],
+  "zero_override": [],
+  "reconstructed_ok": 0,
+  "bad_rows": [],
+  "file": "20120529__tx__primary__el_paso__precinct.csv",
+  "format": "text"
+ },
+ "bell": {
+  "rows": 5210,
+  "offices_baseline": 24,
+  "offices_missing": [
+   [
+    "DISTRICT ATTORNEY",
+    "27"
+   ]
+  ],
+  "offices_extra": [
+   [
+    "BALANCED BUDGET",
+    ""
+   ],
+   [
+    "CONSTABLE PRECINCT 1",
+    ""
+   ],
+   [
+    "CONSTABLE PRECINCT 2",
+    ""
+   ],
+   [
+    "CONSTABLE PRECINCT 3",
+    ""
+   ],
+   [
+    "CONSTABLE PRECINCT 4",
+    ""
+   ],
+   [
+    "COUNTY ATTORNEY",
+    ""
+   ],
+   [
+    "COUNTY CHAIRMAN",
+    ""
+   ],
+   [
+    "COUNTY CHAIRMAN DEMOCRATIC PARTY",
+    ""
+   ],
+   [
+    "COUNTY COMMISSIONER PRECINCT 1",
+    ""
+   ],
+   [
+    "COUNTY COMMISSIONER PRECINCT 3",
+    ""
+   ],
+   [
+    "COUNTY TAX ASSESSOR COLLECTOR",
+    ""
+   ],
+   [
+    "DISTRICT ATTORNEY",
+    ""
+   ],
+   [
+    "JUSTICE OF THE PEACE PCT 3 PLACE 1",
+    ""
+   ],
+   [
+    "JUSTICE OF THE PEACE PCT 4 PLACE 1",
+    ""
+   ],
+   [
+    "PUBLIC PRAYER",
+    ""
+   ],
+   [
+    "REDISTRICTING",
+    ""
+   ],
+   [
+    "REPEALING OBAMACARE",
+    ""
+   ],
+   [
+    "SCHOOL CHOICE",
+    ""
+   ],
+   [
+    "SHERIFF",
+    ""
+   ]
+  ],
+  "props_base": 8,
+  "props_mine": 3,
+  "total_mismatch": [],
+  "total_row_diffs": [
+   [
+    [
+     "3 COURT OF APPEALS DISTRICT",
+     "2"
+    ],
+    1947,
+    11194
+   ],
+   [
+    [
+     "3 COURT OF APPEALS DISTRICT",
+     "3"
+    ],
+    1979,
+    12382
+   ],
+   [
+    [
+     "3 COURT OF APPEALS DISTRICT",
+     "5"
+    ],
+    1988,
+    11283
+   ],
+   [
+    [
+     "3 COURT OF APPEALS DISTRICT",
+     "6"
+    ],
+    1885,
+    11680
+   ],
+   [
+    [
+     "COURT OF CRIMINAL APPEALS",
+     "7"
+    ],
+    11,
+    11299
+   ],
+   [
+    [
+     "COURT OF CRIMINAL APPEALS",
+     "8"
+    ],
+    9,
+    11143
+   ],
+   [
+    [
+     "COURT OF CRIMINAL APPEALS",
+     "PRESIDING"
+    ],
+    1965,
+    11505
+   ],
+   [
+    [
+     "DISTRICT ATTORNEY",
+     "27"
+    ],
+    0,
+    12396
+   ],
+   [
+    [
+     "DISTRICT JUDGE",
+     "146"
+    ],
+    15,
+    15764
+   ],
+   [
+    [
+     "DISTRICT JUDGE",
+     "27"
+    ],
+    17,
+    14854
+   ],
+   [
+    [
+     "DISTRICT JUDGE",
+     "426"
+    ],
+    13,
+    12124
+   ],
+   [
+    [
+     "PRESIDENT",
+     ""
+    ],
+    2397,
+    16904
+   ],
+   [
+    [
+     "RAILROAD COMMISSIONER",
+     ""
+    ],
+    2002,
+    13121
+   ],
+   [
+    [
+     "RAILROAD COMMISSIONER UNEXPIRED",
+     ""
+    ],
+    12,
+    12545
+   ],
+   [
+    [
+     "STATE BOARD OF EDUCATION",
+     "10"
+    ],
+    2008,
+    12803
+   ],
+   [
+    [
+     "STATE REPRESENTATIVE",
+     "54"
+    ],
+    1058,
+    4413
+   ],
+   [
+    [
+     "STATE REPRESENTATIVE",
+     "55"
+    ],
+    11,
+    11152
+   ],
+   [
+    [
+     "STATE SENATE",
+     "24"
+    ],
+    10,
+    12579
+   ],
+   [
+    [
+     "SUPREME COURT",
+     "2"
+    ],
+    13,
+    12686
+   ],
+   [
+    [
+     "SUPREME COURT",
+     "4"
+    ],
+    13,
+    12705
+   ],
+   [
+    [
+     "SUPREME COURT",
+     "6"
+    ],
+    1937,
+    10965
+   ],
+   [
+    [
+     "U S HOUSE",
+     "25"
+    ],
+    197,
+    228
+   ],
+   [
+    [
+     "U S HOUSE",
+     "31"
+    ],
+    1825,
+    16018
+   ],
+   [
+    [
+     "US SENATEE",
+     ""
+    ],
+    2230,
+    16249
+   ]
+  ],
+  "candidate_mismatch": [
+   [
+    "3 COURT OF APPEALS DISTRICT",
+    "2",
+    "REP",
+    "JEFF ROSE",
+    10,
+    11194
+   ],
+   [
+    "3 COURT OF APPEALS DISTRICT",
+    "3",
+    "REP",
+    "MADELEINE CONNOR",
+    4,
+    5148
+   ],
+   [
+    "3 COURT OF APPEALS DISTRICT",
+    "3",
+    "REP",
+    "SCOTT FIELD",
+    11,
+    7234
+   ],
+   [
+    "3 COURT OF APPEALS DISTRICT",
+    "5",
+    "REP",
+    "DAVID PURYEAR",
+    13,
+    11283
+   ],
+   [
+    "3 COURT OF APPEALS DISTRICT",
+    "6",
+    "REP",
+    "BOB PEMBERTON",
+    12,
+    11680
+   ],
+   [
+    "COURT OF CRIMINAL APPEALS",
+    "7",
+    "REP",
+    "BARBARA PARKER HERVEY",
+    11,
+    11299
+   ],
+   [
+    "COURT OF CRIMINAL APPEALS",
+    "8",
+    "REP",
+    "ELSA ALCALA",
+    9,
+    11143
+   ],
+   [
+    "COURT OF CRIMINAL APPEALS",
+    "PRESIDING",
+    "REP",
+    "SHARON KELLER",
+    10,
+    11505
+   ],
+   [
+    "DISTRICT ATTORNEY",
+    "27",
+    "REP",
+    "HENRY GARZA",
+    null,
+    12396
+   ],
+   [
+    "DISTRICT JUDGE",
+    "146",
+    "REP",
+    "BRETT PRITCHARD",
+    8,
+    4670
+   ],
+   [
+    "DISTRICT JUDGE",
+    "146",
+    "REP",
+    "JACK JONES",
+    4,
+    5894
+   ],
+   [
+    "DISTRICT JUDGE",
+    "146",
+    "REP",
+    "MARY BLACK PEARSON",
+    3,
+    5200
+   ],
+   [
+    "DISTRICT JUDGE",
+    "27",
+    "REP",
+    "JOHN GAUNTT",
+    8,
+    7971
+   ],
+   [
+    "DISTRICT JUDGE",
+    "27",
+    "REP",
+    "PAUL L LEPAK",
+    9,
+    6883
+   ],
+   [
+    "DISTRICT JUDGE",
+    "426",
+    "REP",
+    "FANCY H JEZEK",
+    13,
+    12124
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "DEM",
+    "BARACK OBAMA",
+    2193,
+    2246
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "REP",
+    "CHARLES BUDDY ROEMER",
+    0,
+    31
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "REP",
+    "JOHN DAVIS",
+    0,
+    35
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "REP",
+    "JON HUNTSMAN",
+    0,
+    79
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "REP",
+    "MICHELE BACHMANN",
+    0,
+    137
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "REP",
+    "MITT ROMNEY",
+    13,
+    11950
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "REP",
+    "NEWT GINGRICH",
+    0,
+    893
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "REP",
+    "RICK SANTORUM",
+    0,
+    1247
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "REP",
+    "RON PAUL",
+    4,
+    1795
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "REP",
+    "UNCOMMITTED",
+    0,
+    737
+   ],
+   [
+    "RAILROAD COMMISSIONER",
+    "",
+    "REP",
+    "BECKY BERGER",
+    0,
+    2022
+   ],
+   [
+    "RAILROAD COMMISSIONER",
+    "",
+    "REP",
+    "BERYL BURGESS",
+    0,
+    761
+   ],
+   [
+    "RAILROAD COMMISSIONER",
+    "",
+    "REP",
+    "CHRISTI CRADDICK",
+    2,
+    3950
+   ],
+   [
+    "RAILROAD COMMISSIONER",
+    "",
+    "REP",
+    "JOE COTTEN",
+    1,
+    1508
+   ],
+   [
+    "RAILROAD COMMISSIONER",
+    "",
+    "REP",
+    "ROLAND SLEDGE",
+    1,
+    682
+   ],
+   [
+    "RAILROAD COMMISSIONER",
+    "",
+    "REP",
+    "WARREN CHISUM",
+    11,
+    4198
+   ],
+   [
+    "RAILROAD COMMISSIONER UNEXPIRED",
+    "",
+    "REP",
+    "AL LEE",
+    0,
+    754
+   ],
+   [
+    "RAILROAD COMMISSIONER UNEXPIRED",
+    "",
+    "REP",
+    "BARRY SMITHERMAN",
+    5,
+    4268
+   ],
+   [
+    "RAILROAD COMMISSIONER UNEXPIRED",
+    "",
+    "REP",
+    "ELIZABETH MURRAYKOLB",
+    1,
+    3153
+   ],
+   [
+    "RAILROAD COMMISSIONER UNEXPIRED",
+    "",
+    "REP",
+    "GREG PARKER",
+    6,
+    4370
+   ],
+   [
+    "STATE BOARD OF EDUCATION",
+    "10",
+    "REP",
+    "JEFF FLEECE",
+    2,
+    1429
+   ],
+   [
+    "STATE BOARD OF EDUCATION",
+    "10",
+    "REP",
+    "REBECCA OSBORNE",
+    5,
+    5643
+   ],
+   [
+    "STATE BOARD OF EDUCATION",
+    "10",
+    "REP",
+    "TOM MAYNARD",
+    5,
+    5731
+   ],
+   [
+    "STATE REPRESENTATIVE",
+    "54",
+    "REP",
+    "JIMMIE DON AYCOCK",
+    3,
+    4413
+   ],
+   [
+    "STATE REPRESENTATIVE",
+    "55",
+    "REP",
+    "JOHN ALANIZ",
+    6,
+    4752
+   ],
+   [
+    "STATE REPRESENTATIVE",
+    "55",
+    "REP",
+    "RALPH SHEFFIELD",
+    5,
+    6400
+   ],
+   [
+    "STATE SENATE",
+    "24",
+    "REP",
+    "TROY FRASER",
+    10,
+    12579
+   ],
+   [
+    "SUPREME COURT",
+    "2",
+    "REP",
+    "DON WILLETT",
+    8,
+    6155
+   ],
+   [
+    "SUPREME COURT",
+    "2",
+    "REP",
+    "STEVE SMITH",
+    5,
+    6531
+   ],
+   [
+    "SUPREME COURT",
+    "4",
+    "REP",
+    "DAVID MEDINA",
+    6,
+    6219
+   ],
+   [
+    "SUPREME COURT",
+    "4",
+    "REP",
+    "JOE POOL JR",
+    4,
+    3351
+   ],
+   [
+    "SUPREME COURT",
+    "4",
+    "REP",
+    "JOHN DEVINE",
+    3,
+    3135
+   ],
+   [
+    "SUPREME COURT",
+    "6",
+    "REP",
+    "NATHAN HECHT",
+    8,
+    10965
+   ],
+   [
+    "U S HOUSE",
+    "25",
+    "REP",
+    "BILL BURCH",
+    0,
+    26
+   ],
+   [
+    "U S HOUSE",
+    "25",
+    "REP",
+    "BRIAN MATTHEWS",
+    0,
+    5
+   ],
+   [
+    "U S HOUSE",
+    "25",
+    "REP",
+    "CHAD WILBANKS",
+    0,
+    2
+   ],
+   [
+    "U S HOUSE",
+    "25",
+    "REP",
+    "CHARLIE HOLCOMB",
+    0,
+    12
+   ],
+   [
+    "U S HOUSE",
+    "25",
+    "REP",
+    "DAVE GARRISON",
+    0,
+    10
+   ],
+   [
+    "U S HOUSE",
+    "25",
+    "REP",
+    "DIANNE COSTA",
+    0,
+    40
+   ],
+   [
+    "U S HOUSE",
+    "25",
+    "REP",
+    "ERNIE BELTZ JR",
+    0,
+    2
+   ],
+   [
+    "U S HOUSE",
+    "25",
+    "REP",
+    "JAMES PATRIOT DILLON",
+    null,
+    3
+   ],
+   [
+    "U S HOUSE",
+    "25",
+    "REP",
+    "JUSTIN HEWLETT",
+    0,
+    11
+   ],
+   [
+    "U S HOUSE",
+    "25",
+    "REP",
+    "MICHAEL WILLIAMS",
+    0,
+    28
+   ],
+   [
+    "U S HOUSE",
+    "25",
+    "REP",
+    "ROGER WILLIAMS",
+    0,
+    32
+   ],
+   [
+    "U S HOUSE",
+    "25",
+    "REP",
+    "WES RIDDLE",
+    0,
+    57
+   ],
+   [
+    "U S HOUSE",
+    "31",
+    "REP",
+    "ERIC KLINGEMANN",
+    6,
+    2851
+   ],
+   [
+    "U S HOUSE",
+    "31",
+    "REP",
+    "JOHN R CARTER",
+    9,
+    13167
+   ],
+   [
+    "US SENATEE",
+    "",
+    "DEM",
+    "GRADY YARBROUGH",
+    539,
+    518
+   ],
+   [
+    "US SENATEE",
+    "",
+    "DEM",
+    "PAUL SADLER",
+    518,
+    539
+   ],
+   [
+    "US SENATEE",
+    "",
+    "REP",
+    "BEN GAMBINI",
+    0,
+    88
+   ],
+   [
+    "US SENATEE",
+    "",
+    "REP",
+    "CRAIG JAMES",
+    1,
+    520
+   ],
+   [
+    "US SENATEE",
+    "",
+    "REP",
+    "CURT CLEAVER",
+    0,
+    69
+   ],
+   [
+    "US SENATEE",
+    "",
+    "REP",
+    "DAVID DEWHURST",
+    7,
+    8031
+   ],
+   [
+    "US SENATEE",
+    "",
+    "REP",
+    "GLENN ADDISON",
+    2,
+    458
+   ],
+   [
+    "US SENATEE",
+    "",
+    "REP",
+    "JOE AGRIS",
+    null,
+    129
+   ],
+   [
+    "US SENATEE",
+    "",
+    "REP",
+    "LELA PITTENGER",
+    0,
+    300
+   ],
+   [
+    "US SENATEE",
+    "",
+    "REP",
+    "TED CRUZ",
+    4,
+    4620
+   ],
+   [
+    "US SENATEE",
+    "",
+    "REP",
+    "TOM LEPPERT",
+    3,
+    2034
+   ]
+  ],
+  "zero_override": [],
+  "reconstructed_ok": 0,
+  "bad_rows": [],
+  "file": "20120529__tx__primary__bell__precinct.csv",
+  "format": "text"
+ },
+ "collin": {
+  "rows": 23783,
+  "offices_baseline": 33,
+  "offices_missing": [
+   [
+    "RAILROAD COMMISSIONER UNEXPIRED",
+    ""
+   ]
+  ],
+  "offices_extra": [
+   [
+    "BALANCED BUDGET CONTROLLING GOVERNMENT GROWTH",
+    ""
+   ],
+   [
+    "CONSTABLE PRECINCT 1",
+    ""
+   ],
+   [
+    "CONSTABLE PRECINCT 2",
+    ""
+   ],
+   [
+    "CONSTABLE PRECINCT 3",
+    ""
+   ],
+   [
+    "CONSTABLE PRECINCT 4",
+    ""
+   ],
+   [
+    "COUNTY CHAIRMAN",
+    ""
+   ],
+   [
+    "COUNTY COMMISSIONER PRECINCT 1",
+    ""
+   ],
+   [
+    "COUNTY COMMISSIONER PRECINCT 3",
+    ""
+   ],
+   [
+    "COUNTY TAX ASSESSOR COLLECTOR",
+    ""
+   ],
+   [
+    "DISTRICT CLERK",
+    ""
+   ],
+   [
+    "JUDGE COUNTY COURT AT LAW NUMBER 2",
+    ""
+   ],
+   [
+    "JUSTICE OF THE PEACE PRECINCT 3 PLACE 1",
+    ""
+   ],
+   [
+    "PUBLIC PRAYER",
+    ""
+   ],
+   [
+    "REDISTRICTING",
+    ""
+   ],
+   [
+    "REF 1",
+    ""
+   ],
+   [
+    "REF 2",
+    ""
+   ],
+   [
+    "REF 3",
+    ""
+   ],
+   [
+    "REPEALING OBAMACARE",
+    ""
+   ],
+   [
+    "SCHOOL CHOICE",
+    ""
+   ],
+   [
+    "SHERIFF",
+    ""
+   ]
+  ],
+  "props_base": 8,
+  "props_mine": 0,
+  "total_mismatch": [],
+  "total_row_diffs": [
+   [
+    [
+     "5 COURT OF APPEALS DISTRICT",
+     "11"
+    ],
+    31107,
+    26754
+   ],
+   [
+    [
+     "5 COURT OF APPEALS DISTRICT",
+     "12"
+    ],
+    31459,
+    27237
+   ],
+   [
+    [
+     "5 COURT OF APPEALS DISTRICT",
+     "2"
+    ],
+    34921,
+    30574
+   ],
+   [
+    [
+     "5 COURT OF APPEALS DISTRICT",
+     "5"
+    ],
+    32197,
+    27777
+   ],
+   [
+    [
+     "5 COURT OF APPEALS DISTRICT",
+     "9"
+    ],
+    32257,
+    28007
+   ],
+   [
+    [
+     "COURT OF CRIMINAL APPEALS",
+     "PRESIDING"
+    ],
+    33376,
+    28990
+   ],
+   [
+    [
+     "PRESIDENT",
+     ""
+    ],
+    53910,
+    48376
+   ],
+   [
+    [
+     "RAILROAD COMMISSIONER",
+     ""
+    ],
+    75345,
+    36856
+   ],
+   [
+    [
+     "RAILROAD COMMISSIONER UNEXPIRED",
+     ""
+    ],
+    0,
+    34052
+   ],
+   [
+    [
+     "STATE BOARD OF EDUCATION",
+     "12"
+    ],
+    39878,
+    35435
+   ],
+   [
+    [
+     "STATE SENATE",
+     "8"
+    ],
+    33073,
+    29196
+   ],
+   [
+    [
+     "SUPREME COURT",
+     "6"
+    ],
+    33724,
+    29260
+   ],
+   [
+    [
+     "U S HOUSE",
+     "32"
+    ],
+    1521,
+    1270
+   ],
+   [
+    [
+     "U S HOUSE",
+     "4"
+    ],
+    2602,
+    2474
+   ],
+   [
+    [
+     "US SENATEE",
+     ""
+    ],
+    51658,
+    46765
+   ]
+  ],
+  "candidate_mismatch": [
+   [
+    "5 COURT OF APPEALS DISTRICT",
+    "",
+    "REP",
+    "CAROLYN WRIGHT",
+    null,
+    28219
+   ],
+   [
+    "5 COURT OF APPEALS DISTRICT",
+    "10",
+    "REP",
+    "MOLLY FRANCIS",
+    null,
+    27324
+   ],
+   [
+    "5 COURT OF APPEALS DISTRICT",
+    "11",
+    "DEM",
+    "TONYA J HOLT",
+    null,
+    4353
+   ],
+   [
+    "5 COURT OF APPEALS DISTRICT",
+    "11",
+    "REP",
+    "DOUGLAS S LANG",
+    null,
+    26754
+   ],
+   [
+    "5 COURT OF APPEALS DISTRICT",
+    "12",
+    "DEM",
+    "LAWRENCE J PRAEGER",
+    null,
+    4222
+   ],
+   [
+    "5 COURT OF APPEALS DISTRICT",
+    "12",
+    "REP",
+    "ROBERT M BOB FILLMORE",
+    null,
+    27237
+   ],
+   [
+    "5 COURT OF APPEALS DISTRICT",
+    "13",
+    "REP",
+    "ELIZABETH LANG MIERS",
+    null,
+    26769
+   ],
+   [
+    "5 COURT OF APPEALS DISTRICT",
+    "2",
+    "DEM",
+    "DAN WOOD",
+    null,
+    4347
+   ],
+   [
+    "5 COURT OF APPEALS DISTRICT",
+    "2",
+    "REP",
+    "BILL WHITEHILL",
+    null,
+    7519
+   ],
+   [
+    "5 COURT OF APPEALS DISTRICT",
+    "2",
+    "REP",
+    "DAVID EVANS",
+    null,
+    10192
+   ],
+   [
+    "5 COURT OF APPEALS DISTRICT",
+    "2",
+    "REP",
+    "JEFF COEN",
+    null,
+    3505
+   ],
+   [
+    "5 COURT OF APPEALS DISTRICT",
+    "2",
+    "REP",
+    "JENNIFER BALIDO",
+    null,
+    3807
+   ],
+   [
+    "5 COURT OF APPEALS DISTRICT",
+    "2",
+    "REP",
+    "KEVIN KEITH",
+    null,
+    5551
+   ],
+   [
+    "5 COURT OF APPEALS DISTRICT",
+    "5",
+    "DEM",
+    "PENNY ROBE PHILLIPS",
+    null,
+    4420
+   ],
+   [
+    "5 COURT OF APPEALS DISTRICT",
+    "5",
+    "REP",
+    "JIM MOSELEY",
+    null,
+    27777
+   ],
+   [
+    "5 COURT OF APPEALS DISTRICT",
+    "9",
+    "DEM",
+    "DAVID HANSCHEN",
+    null,
+    4250
+   ],
+   [
+    "5 COURT OF APPEALS DISTRICT",
+    "9",
+    "REP",
+    "DAVID LEWIS",
+    null,
+    15089
+   ],
+   [
+    "5 COURT OF APPEALS DISTRICT",
+    "9",
+    "REP",
+    "MARTIN E RICHTER",
+    null,
+    12918
+   ],
+   [
+    "COURT OF CRIMINAL APPEALS",
+    "7",
+    "REP",
+    "BARBARA PARKER HERVEY",
+    null,
+    28610
+   ],
+   [
+    "COURT OF CRIMINAL APPEALS",
+    "8",
+    "REP",
+    "ELSA ALCALA",
+    null,
+    28330
+   ],
+   [
+    "COURT OF CRIMINAL APPEALS",
+    "PRESIDING",
+    "DEM",
+    "KEITH HAMPTON",
+    null,
+    4386
+   ],
+   [
+    "COURT OF CRIMINAL APPEALS",
+    "PRESIDING",
+    "REP",
+    "SHARON KELLER",
+    null,
+    28990
+   ],
+   [
+    "DISTRICT JUDGE",
+    "199",
+    "REP",
+    "ANGELA TUCKER",
+    null,
+    19510
+   ],
+   [
+    "DISTRICT JUDGE",
+    "199",
+    "REP",
+    "BOB DRY",
+    null,
+    14963
+   ],
+   [
+    "DISTRICT JUDGE",
+    "380",
+    "REP",
+    "BEN SMITH",
+    null,
+    12163
+   ],
+   [
+    "DISTRICT JUDGE",
+    "380",
+    "REP",
+    "CHIP JARVIS",
+    null,
+    4600
+   ],
+   [
+    "DISTRICT JUDGE",
+    "380",
+    "REP",
+    "JODY JOHNSON",
+    null,
+    7475
+   ],
+   [
+    "DISTRICT JUDGE",
+    "380",
+    "REP",
+    "TERRI GREEN",
+    null,
+    9683
+   ],
+   [
+    "DISTRICT JUDGE",
+    "401",
+    "REP",
+    "JAMES C MOSSER",
+    null,
+    9854
+   ],
+   [
+    "DISTRICT JUDGE",
+    "401",
+    "REP",
+    "MARK RUSCH",
+    null,
+    19872
+   ],
+   [
+    "DISTRICT JUDGE",
+    "416",
+    "REP",
+    "CHRIS OLDNER",
+    null,
+    26534
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "DEM",
+    "BARACK OBAMA",
+    null,
+    5349
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "DEM",
+    "BOB ELY",
+    null,
+    42
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "DEM",
+    "DARCY G RICHARDSON",
+    null,
+    90
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "DEM",
+    "JOHN WOLFE",
+    null,
+    53
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "REP",
+    "CHARLES BUDDY ROEMER",
+    null,
+    189
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "REP",
+    "JOHN DAVIS",
+    null,
+    70
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "REP",
+    "JON HUNTSMAN",
+    null,
+    298
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "REP",
+    "MICHELE BACHMANN",
+    null,
+    329
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "REP",
+    "MITT ROMNEY",
+    null,
+    34244
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "REP",
+    "NEWT GINGRICH",
+    null,
+    1869
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "REP",
+    "RICK SANTORUM",
+    null,
+    4899
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "REP",
+    "RON PAUL",
+    null,
+    4869
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "REP",
+    "UNCOMMITTED",
+    null,
+    1609
+   ],
+   [
+    "RAILROAD COMMISSIONER",
+    "",
+    "DEM",
+    "DALE HENRY",
+    null,
+    4437
+   ],
+   [
+    "RAILROAD COMMISSIONER",
+    "",
+    "REP",
+    "BECKY BERGER",
+    null,
+    4316
+   ],
+   [
+    "RAILROAD COMMISSIONER",
+    "",
+    "REP",
+    "BERYL BURGESS",
+    null,
+    1018
+   ],
+   [
+    "RAILROAD COMMISSIONER",
+    "",
+    "REP",
+    "CHRISTI CRADDICK",
+    null,
+    13751
+   ],
+   [
+    "RAILROAD COMMISSIONER",
+    "",
+    "REP",
+    "JOE COTTEN",
+    null,
+    2571
+   ],
+   [
+    "RAILROAD COMMISSIONER",
+    "",
+    "REP",
+    "ROLAND SLEDGE",
+    null,
+    3402
+   ],
+   [
+    "RAILROAD COMMISSIONER",
+    "",
+    "REP",
+    "WARREN CHISUM",
+    null,
+    11798
+   ],
+   [
+    "RAILROAD COMMISSIONER UNEXPIRED",
+    "",
+    "REP",
+    "AL LEE",
+    null,
+    3698
+   ],
+   [
+    "RAILROAD COMMISSIONER UNEXPIRED",
+    "",
+    "REP",
+    "BARRY SMITHERMAN",
+    null,
+    17738
+   ],
+   [
+    "RAILROAD COMMISSIONER UNEXPIRED",
+    "",
+    "REP",
+    "ELIZABETH MURRAYKOLB",
+    null,
+    5822
+   ],
+   [
+    "RAILROAD COMMISSIONER UNEXPIRED",
+    "",
+    "REP",
+    "GREG PARKER",
+    null,
+    6794
+   ],
+   [
+    "STATE BOARD OF EDUCATION",
+    "12",
+    "DEM",
+    "LOIS PARROTT",
+    null,
+    4443
+   ],
+   [
+    "STATE BOARD OF EDUCATION",
+    "12",
+    "REP",
+    "GAIL SPURLOCK",
+    null,
+    11010
+   ],
+   [
+    "STATE BOARD OF EDUCATION",
+    "12",
+    "REP",
+    "GEORGE M CLAYTON",
+    null,
+    6986
+   ],
+   [
+    "STATE BOARD OF EDUCATION",
+    "12",
+    "REP",
+    "GERALDINE TINCY MILLER",
+    null,
+    9558
+   ],
+   [
+    "STATE BOARD OF EDUCATION",
+    "12",
+    "REP",
+    "PAM LITTLE",
+    null,
+    7881
+   ],
+   [
+    "STATE REPRESENTATIVE",
+    "33",
+    "REP",
+    "JIM PRUITT",
+    null,
+    1049
+   ],
+   [
+    "STATE REPRESENTATIVE",
+    "33",
+    "REP",
+    "SCOTT TURNER",
+    null,
+    3297
+   ],
+   [
+    "STATE REPRESENTATIVE",
+    "66",
+    "REP",
+    "VAN TAYLOR",
+    null,
+    6190
+   ],
+   [
+    "STATE REPRESENTATIVE",
+    "67",
+    "REP",
+    "JEFF LEACH",
+    null,
+    3250
+   ],
+   [
+    "STATE REPRESENTATIVE",
+    "67",
+    "REP",
+    "JERAN AKERS",
+    null,
+    1209
+   ],
+   [
+    "STATE REPRESENTATIVE",
+    "67",
+    "REP",
+    "JOHN PITCHFORD",
+    null,
+    476
+   ],
+   [
+    "STATE REPRESENTATIVE",
+    "67",
+    "REP",
+    "JON COLE",
+    null,
+    3473
+   ],
+   [
+    "STATE REPRESENTATIVE",
+    "67",
+    "REP",
+    "ROGER BURNS",
+    null,
+    2347
+   ],
+   [
+    "STATE REPRESENTATIVE",
+    "70",
+    "REP",
+    "BRACY WILSON",
+    null,
+    3909
+   ],
+   [
+    "STATE REPRESENTATIVE",
+    "70",
+    "REP",
+    "SCOTT SANFORD",
+    null,
+    6018
+   ],
+   [
+    "STATE REPRESENTATIVE",
+    "89",
+    "REP",
+    "JODIE LAUBENBERG",
+    null,
+    6710
+   ],
+   [
+    "STATE SENATE",
+    "30",
+    "REP",
+    "CRAIG ESTES",
+    null,
+    3244
+   ],
+   [
+    "STATE SENATE",
+    "30",
+    "REP",
+    "JIM HERBLIN",
+    null,
+    2269
+   ],
+   [
+    "STATE SENATE",
+    "8",
+    "DEM",
+    "JACK G B TERNAN JR",
+    null,
+    3877
+   ],
+   [
+    "STATE SENATE",
+    "8",
+    "REP",
+    "KEN PAXTON",
+    null,
+    29196
+   ],
+   [
+    "SUPREME COURT",
+    "2",
+    "REP",
+    "DON WILLETT",
+    null,
+    24012
+   ],
+   [
+    "SUPREME COURT",
+    "2",
+    "REP",
+    "STEVE SMITH",
+    null,
+    10515
+   ],
+   [
+    "SUPREME COURT",
+    "4",
+    "REP",
+    "DAVID MEDINA",
+    null,
+    12014
+   ],
+   [
+    "SUPREME COURT",
+    "4",
+    "REP",
+    "JOE POOL JR",
+    null,
+    10745
+   ],
+   [
+    "SUPREME COURT",
+    "4",
+    "REP",
+    "JOHN DEVINE",
+    null,
+    9665
+   ],
+   [
+    "SUPREME COURT",
+    "6",
+    "DEM",
+    "MICHELE PETTY",
+    null,
+    4464
+   ],
+   [
+    "SUPREME COURT",
+    "6",
+    "REP",
+    "NATHAN HECHT",
+    null,
+    29260
+   ],
+   [
+    "U S HOUSE",
+    "3",
+    "REP",
+    "HARRY PIERCE",
+    null,
+    4848
+   ],
+   [
+    "U S HOUSE",
+    "3",
+    "REP",
+    "JOSH CAESAR",
+    null,
+    2002
+   ],
+   [
+    "U S HOUSE",
+    "3",
+    "REP",
+    "SAM JOHNSON",
+    null,
+    33592
+   ],
+   [
+    "U S HOUSE",
+    "32",
+    "DEM",
+    "KATHERINE SAVERS MCGOVERN",
+    null,
+    210
+   ],
+   [
+    "U S HOUSE",
+    "32",
+    "DEM",
+    "WALTER HOFHEINZ",
+    null,
+    41
+   ],
+   [
+    "U S HOUSE",
+    "32",
+    "REP",
+    "PETE SESSIONS",
+    null,
+    1270
+   ],
+   [
+    "U S HOUSE",
+    "4",
+    "DEM",
+    "VALINDA HATHCOX",
+    null,
+    128
+   ],
+   [
+    "U S HOUSE",
+    "4",
+    "REP",
+    "LOU GIGLIOTTI",
+    null,
+    381
+   ],
+   [
+    "U S HOUSE",
+    "4",
+    "REP",
+    "RALPH M HALL",
+    null,
+    1510
+   ],
+   [
+    "U S HOUSE",
+    "4",
+    "REP",
+    "STEVE CLARK",
+    null,
+    583
+   ],
+   [
+    "US SENATEE",
+    "",
+    "DEM",
+    "ADDIE DAINELL ALLEN",
+    null,
+    1005
+   ],
+   [
+    "US SENATEE",
+    "",
+    "DEM",
+    "GRADY YARBROUGH",
+    null,
+    866
+   ],
+   [
+    "US SENATEE",
+    "",
+    "DEM",
+    "PAUL SADLER",
+    null,
+    1989
+   ],
+   [
+    "US SENATEE",
+    "",
+    "DEM",
+    "SEAN HUBBARD",
+    null,
+    1033
+   ],
+   [
+    "US SENATEE",
+    "",
+    "REP",
+    "BEN GAMBINI",
+    null,
+    119
+   ],
+   [
+    "US SENATEE",
+    "",
+    "REP",
+    "CRAIG JAMES",
+    null,
+    1994
+   ],
+   [
+    "US SENATEE",
+    "",
+    "REP",
+    "CURT CLEAVER",
+    null,
+    129
+   ],
+   [
+    "US SENATEE",
+    "",
+    "REP",
+    "DAVID DEWHURST",
+    null,
+    14334
+   ],
+   [
+    "US SENATEE",
+    "",
+    "REP",
+    "GLENN ADDISON",
+    null,
+    409
+   ],
+   [
+    "US SENATEE",
+    "",
+    "REP",
+    "JOE AGRIS",
+    null,
+    68
+   ],
+   [
+    "US SENATEE",
+    "",
+    "REP",
+    "LELA PITTENGER",
+    null,
+    485
+   ],
+   [
+    "US SENATEE",
+    "",
+    "REP",
+    "TED CRUZ",
+    null,
+    16580
+   ],
+   [
+    "US SENATEE",
+    "",
+    "REP",
+    "TOM LEPPERT",
+    null,
+    12647
+   ]
+  ],
+  "zero_override": [],
+  "reconstructed_ok": 0,
+  "bad_rows": [],
+  "file": "20120529__tx__primary__collin__precinct.csv",
+  "format": "text"
+ },
+ "sutton": {
+  "rows": 1140,
+  "offices_baseline": 20,
+  "offices_missing": [],
+  "offices_extra": [
+   [
+    "BALANCED BUDGET",
+    ""
+   ],
+   [
+    "COUNTY ATTORNEY",
+    ""
+   ],
+   [
+    "COUNTY CHAIRMAN",
+    ""
+   ],
+   [
+    "COUNTY COMMISSIONER PRECINCT 1",
+    ""
+   ],
+   [
+    "COUNTY COMMISSIONER PRECINCT 3",
+    ""
+   ],
+   [
+    "COUNTY TAX ASSESSOR COLLECTOR",
+    ""
+   ],
+   [
+    "PUBLIC PRAYER",
+    ""
+   ],
+   [
+    "REDISTRICTING",
+    ""
+   ],
+   [
+    "REGISTERED VOTERS DEMOCRATIC PARTY",
+    ""
+   ],
+   [
+    "REGISTERED VOTERS REPUBLICAN PARTY",
+    ""
+   ],
+   [
+    "REPEALING OBAMACARE",
+    ""
+   ],
+   [
+    "SCHOOL CHOICE",
+    ""
+   ],
+   [
+    "SHERIFF",
+    ""
+   ]
+  ],
+  "props_base": 8,
+  "props_mine": 3,
+  "total_mismatch": [],
+  "total_row_diffs": [
+   [
+    [
+     "4 COURT OF APPEALS DISTRICT",
+     "2"
+    ],
+    668,
+    162
+   ],
+   [
+    [
+     "4 COURT OF APPEALS DISTRICT",
+     "3"
+    ],
+    676,
+    171
+   ],
+   [
+    [
+     "4 COURT OF APPEALS DISTRICT",
+     "4"
+    ],
+    644,
+    156
+   ],
+   [
+    [
+     "4 COURT OF APPEALS DISTRICT",
+     "5"
+    ],
+    622,
+    154
+   ],
+   [
+    [
+     "4 COURT OF APPEALS DISTRICT",
+     "7"
+    ],
+    716,
+    150
+   ],
+   [
+    [
+     "COURT OF CRIMINAL APPEALS",
+     "7"
+    ],
+    352,
+    176
+   ],
+   [
+    [
+     "COURT OF CRIMINAL APPEALS",
+     "8"
+    ],
+    324,
+    162
+   ],
+   [
+    [
+     "COURT OF CRIMINAL APPEALS",
+     "PRESIDING"
+    ],
+    702,
+    176
+   ],
+   [
+    [
+     "DISTRICT ATTORNEY",
+     "112"
+    ],
+    882,
+    80
+   ],
+   [
+    [
+     "PRESIDENT",
+     ""
+    ],
+    1010,
+    248
+   ],
+   [
+    [
+     "RAILROAD COMMISSIONER",
+     ""
+    ],
+    716,
+    180
+   ],
+   [
+    [
+     "RAILROAD COMMISSIONER UNEXPIRED",
+     ""
+    ],
+    352,
+    176
+   ],
+   [
+    [
+     "STATE BOARD OF EDUCATION",
+     "1"
+    ],
+    730,
+    158
+   ],
+   [
+    [
+     "STATE REPRESENTATIVE",
+     "53"
+    ],
+    422,
+    211
+   ],
+   [
+    [
+     "STATE SENATE",
+     "28"
+    ],
+    408,
+    204
+   ],
+   [
+    [
+     "SUPREME COURT",
+     "2"
+    ],
+    382,
+    191
+   ],
+   [
+    [
+     "SUPREME COURT",
+     "4"
+    ],
+    368,
+    184
+   ],
+   [
+    [
+     "SUPREME COURT",
+     "6"
+    ],
+    696,
+    171
+   ],
+   [
+    [
+     "U S HOUSE",
+     "23"
+    ],
+    970,
+    179
+   ],
+   [
+    [
+     "US SENATEE",
+     ""
+    ],
+    906,
+    237
+   ]
+  ],
+  "candidate_mismatch": [
+   [
+    "4 COURT OF APPEALS DISTRICT",
+    "2",
+    "DEM",
+    "BALDEMAR GARZA",
+    null,
+    170
+   ],
+   [
+    "4 COURT OF APPEALS DISTRICT",
+    "2",
+    "REP",
+    "MARIALYN BARNARD",
+    null,
+    162
+   ],
+   [
+    "4 COURT OF APPEALS DISTRICT",
+    "3",
+    "DEM",
+    "PATRICIA ALVAREZ",
+    null,
+    172
+   ],
+   [
+    "4 COURT OF APPEALS DISTRICT",
+    "3",
+    "REP",
+    "REBECCA SIMMONS",
+    null,
+    171
+   ],
+   [
+    "4 COURT OF APPEALS DISTRICT",
+    "4",
+    "DEM",
+    "LUZ ELENA CHAPA",
+    null,
+    170
+   ],
+   [
+    "4 COURT OF APPEALS DISTRICT",
+    "4",
+    "REP",
+    "STEVE HILBIG",
+    null,
+    156
+   ],
+   [
+    "4 COURT OF APPEALS DISTRICT",
+    "5",
+    "DEM",
+    "DAVID D TOWLER",
+    null,
+    168
+   ],
+   [
+    "4 COURT OF APPEALS DISTRICT",
+    "5",
+    "REP",
+    "KAREN ANGELINI",
+    null,
+    154
+   ],
+   [
+    "4 COURT OF APPEALS DISTRICT",
+    "7",
+    "DEM",
+    "CARMEN A SAMANIEGO",
+    null,
+    116
+   ],
+   [
+    "4 COURT OF APPEALS DISTRICT",
+    "7",
+    "DEM",
+    "REBECA C MARTINEZ",
+    null,
+    92
+   ],
+   [
+    "4 COURT OF APPEALS DISTRICT",
+    "7",
+    "REP",
+    "PHYLIS J SPEEDLIN",
+    null,
+    150
+   ],
+   [
+    "COURT OF CRIMINAL APPEALS",
+    "7",
+    "REP",
+    "BARBARA PARKER HERVEY",
+    null,
+    176
+   ],
+   [
+    "COURT OF CRIMINAL APPEALS",
+    "8",
+    "REP",
+    "ELSA ALCALA",
+    null,
+    162
+   ],
+   [
+    "COURT OF CRIMINAL APPEALS",
+    "PRESIDING",
+    "DEM",
+    "KEITH HAMPTON",
+    null,
+    175
+   ],
+   [
+    "COURT OF CRIMINAL APPEALS",
+    "PRESIDING",
+    "REP",
+    "SHARON KELLER",
+    null,
+    176
+   ],
+   [
+    "DISTRICT ATTORNEY",
+    "112",
+    "DEM",
+    "JAMES D JEPSON",
+    null,
+    34
+   ],
+   [
+    "DISTRICT ATTORNEY",
+    "112",
+    "DEM",
+    "LAURIE K ENGLISH",
+    null,
+    46
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "DEM",
+    "BARACK OBAMA",
+    null,
+    147
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "DEM",
+    "BOB ELY",
+    null,
+    25
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "DEM",
+    "DARCY G RICHARDSON",
+    null,
+    42
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "DEM",
+    "JOHN WOLFE",
+    null,
+    43
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "REP",
+    "JOHN DAVIS",
+    null,
+    1
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "REP",
+    "JON HUNTSMAN",
+    null,
+    1
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "REP",
+    "MICHELE BACHMANN",
+    null,
+    3
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "REP",
+    "MITT ROMNEY",
+    null,
+    203
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "REP",
+    "NEWT GINGRICH",
+    null,
+    13
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "REP",
+    "RICK SANTORUM",
+    null,
+    7
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "REP",
+    "RON PAUL",
+    null,
+    12
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "REP",
+    "UNCOMMITTED",
+    null,
+    8
+   ],
+   [
+    "RAILROAD COMMISSIONER",
+    "",
+    "DEM",
+    "DALE HENRY",
+    null,
+    178
+   ],
+   [
+    "RAILROAD COMMISSIONER",
+    "",
+    "REP",
+    "BECKY BERGER",
+    null,
+    22
+   ],
+   [
+    "RAILROAD COMMISSIONER",
+    "",
+    "REP",
+    "BERYL BURGESS",
+    null,
+    19
+   ],
+   [
+    "RAILROAD COMMISSIONER",
+    "",
+    "REP",
+    "CHRISTI CRADDICK",
+    null,
+    49
+   ],
+   [
+    "RAILROAD COMMISSIONER",
+    "",
+    "REP",
+    "JOE COTTEN",
+    null,
+    25
+   ],
+   [
+    "RAILROAD COMMISSIONER",
+    "",
+    "REP",
+    "ROLAND SLEDGE",
+    null,
+    20
+   ],
+   [
+    "RAILROAD COMMISSIONER",
+    "",
+    "REP",
+    "WARREN CHISUM",
+    null,
+    45
+   ],
+   [
+    "RAILROAD COMMISSIONER UNEXPIRED",
+    "",
+    "REP",
+    "AL LEE",
+    null,
+    21
+   ],
+   [
+    "RAILROAD COMMISSIONER UNEXPIRED",
+    "",
+    "REP",
+    "BARRY SMITHERMAN",
+    null,
+    50
+   ],
+   [
+    "RAILROAD COMMISSIONER UNEXPIRED",
+    "",
+    "REP",
+    "ELIZABETH MURRAYKOLB",
+    null,
+    37
+   ],
+   [
+    "RAILROAD COMMISSIONER UNEXPIRED",
+    "",
+    "REP",
+    "GREG PARKER",
+    null,
+    68
+   ],
+   [
+    "STATE BOARD OF EDUCATION",
+    "1",
+    "DEM",
+    "ANDRES MURO",
+    null,
+    35
+   ],
+   [
+    "STATE BOARD OF EDUCATION",
+    "1",
+    "DEM",
+    "MARTHA M DOMINGUZ",
+    null,
+    137
+   ],
+   [
+    "STATE BOARD OF EDUCATION",
+    "1",
+    "DEM",
+    "SERGIO MORA",
+    null,
+    35
+   ],
+   [
+    "STATE BOARD OF EDUCATION",
+    "1",
+    "REP",
+    "CARLOS CHARLIE GARZA",
+    null,
+    158
+   ],
+   [
+    "STATE REPRESENTATIVE",
+    "53",
+    "REP",
+    "CARY WISE",
+    null,
+    49
+   ],
+   [
+    "STATE REPRESENTATIVE",
+    "53",
+    "REP",
+    "HARVEY HILDERBRAN",
+    null,
+    162
+   ],
+   [
+    "STATE SENATE",
+    "28",
+    "REP",
+    "E M GARZA",
+    null,
+    20
+   ],
+   [
+    "STATE SENATE",
+    "28",
+    "REP",
+    "ROBERT DUNCAN",
+    null,
+    184
+   ],
+   [
+    "SUPREME COURT",
+    "2",
+    "REP",
+    "DON WILLETT",
+    null,
+    77
+   ],
+   [
+    "SUPREME COURT",
+    "2",
+    "REP",
+    "STEVE SMITH",
+    null,
+    114
+   ],
+   [
+    "SUPREME COURT",
+    "4",
+    "REP",
+    "DAVID MEDINA",
+    null,
+    56
+   ],
+   [
+    "SUPREME COURT",
+    "4",
+    "REP",
+    "JOE POOL JR",
+    null,
+    63
+   ],
+   [
+    "SUPREME COURT",
+    "4",
+    "REP",
+    "JOHN DEVINE",
+    null,
+    65
+   ],
+   [
+    "SUPREME COURT",
+    "6",
+    "DEM",
+    "MICHELE PETTY",
+    null,
+    177
+   ],
+   [
+    "SUPREME COURT",
+    "6",
+    "REP",
+    "NATHAN HECHT",
+    null,
+    171
+   ],
+   [
+    "U S HOUSE",
+    "23",
+    "DEM",
+    "CIRO D RODRIGUEZ",
+    null,
+    129
+   ],
+   [
+    "U S HOUSE",
+    "23",
+    "DEM",
+    "JOHN M BUSTAMANTE",
+    null,
+    53
+   ],
+   [
+    "U S HOUSE",
+    "23",
+    "DEM",
+    "PETE P GALLEGO",
+    null,
+    124
+   ],
+   [
+    "U S HOUSE",
+    "23",
+    "REP",
+    "FRANCISCO QUICO CANSECO",
+    null,
+    179
+   ],
+   [
+    "US SENATEE",
+    "",
+    "DEM",
+    "ADDIE DAINELL ALLEN",
+    null,
+    37
+   ],
+   [
+    "US SENATEE",
+    "",
+    "DEM",
+    "GRADY YARBROUGH",
+    null,
+    59
+   ],
+   [
+    "US SENATEE",
+    "",
+    "DEM",
+    "PAUL SADLER",
+    null,
+    77
+   ],
+   [
+    "US SENATEE",
+    "",
+    "DEM",
+    "SEAN HUBBARD",
+    null,
+    43
+   ],
+   [
+    "US SENATEE",
+    "",
+    "REP",
+    "BEN GAMBINI",
+    null,
+    1
+   ],
+   [
+    "US SENATEE",
+    "",
+    "REP",
+    "CRAIG JAMES",
+    null,
+    10
+   ],
+   [
+    "US SENATEE",
+    "",
+    "REP",
+    "CURT CLEAVER",
+    null,
+    1
+   ],
+   [
+    "US SENATEE",
+    "",
+    "REP",
+    "DAVID DEWHURST",
+    null,
+    152
+   ],
+   [
+    "US SENATEE",
+    "",
+    "REP",
+    "GLENN ADDISON",
+    null,
+    2
+   ],
+   [
+    "US SENATEE",
+    "",
+    "REP",
+    "LELA PITTENGER",
+    null,
+    2
+   ],
+   [
+    "US SENATEE",
+    "",
+    "REP",
+    "TED CRUZ",
+    null,
+    66
+   ],
+   [
+    "US SENATEE",
+    "",
+    "REP",
+    "TOM LEPPERT",
+    null,
+    3
+   ]
+  ],
+  "zero_override": [],
+  "reconstructed_ok": 0,
+  "bad_rows": [],
+  "zeros_missing": [
+   [
+    "",
+    "REP",
+    "CHARLES BUDDY ROEMER"
+   ],
+   [
+    "",
+    "REP",
+    "JOE AGRIS"
+   ]
+  ],
+  "file": "20120529__tx__primary__sutton__precinct.csv",
+  "format": "text"
+ },
+ "cooke": {
+  "rows": 2946,
+  "offices_baseline": 20,
+  "offices_missing": [],
+  "offices_extra": [
+   [
+    "BALANCED BUDGET",
+    ""
+   ],
+   [
+    "BALLOTS CAST",
+    ""
+   ],
+   [
+    "CONSTABLE PRECINCT 1",
+    ""
+   ],
+   [
+    "CONSTABLE PRECINCT 4",
+    ""
+   ],
+   [
+    "COUNTY ATTORNEY",
+    ""
+   ],
+   [
+    "COUNTY COMMISSIONER PRECINCT 1",
+    ""
+   ],
+   [
+    "COUNTY COMMISSIONER PRECINCT 3",
+    ""
+   ],
+   [
+    "COUNTY TAX ASSESSOR COLLECTOR",
+    ""
+   ],
+   [
+    "PUBLIC PRAYER",
+    ""
+   ],
+   [
+    "REDISTRICTING",
+    ""
+   ],
+   [
+    "REGISTERED VOTERS",
+    ""
+   ],
+   [
+    "REGISTERED VOTERS DEMOCRATIC PARTY",
+    ""
+   ],
+   [
+    "REPEALING OBAMACARE",
+    ""
+   ],
+   [
+    "SCHOOL CHOICE",
+    ""
+   ],
+   [
+    "SHERIFF",
+    ""
+   ]
+  ],
+  "props_base": 8,
+  "props_mine": 3,
+  "total_mismatch": [],
+  "total_row_diffs": [
+   [
+    [
+     "COURT OF CRIMINAL APPEALS",
+     "PRESIDING"
+    ],
+    3656,
+    3485
+   ],
+   [
+    [
+     "PRESIDENT",
+     ""
+    ],
+    5471,
+    5278
+   ],
+   [
+    [
+     "RAILROAD COMMISSIONER",
+     ""
+    ],
+    4310,
+    4137
+   ],
+   [
+    [
+     "STATE BOARD OF EDUCATION",
+     "15"
+    ],
+    3996,
+    3828
+   ],
+   [
+    [
+     "STATE REPRESENTATIVE",
+     "68"
+    ],
+    5299,
+    5148
+   ],
+   [
+    [
+     "SUPREME COURT",
+     "6"
+    ],
+    3645,
+    3472
+   ],
+   [
+    [
+     "US SENATEE",
+     ""
+    ],
+    5310,
+    5129
+   ]
+  ],
+  "candidate_mismatch": [],
+  "zero_override": [],
+  "reconstructed_ok": 0,
+  "bad_rows": [],
+  "file": "20120529__tx__primary__cooke__precinct.csv",
+  "format": "text"
+ },
+ "fannin": {
+  "rows": 1479,
+  "offices_baseline": 17,
+  "offices_missing": [
+   [
+    "DISTRICT JUDGE",
+    "336"
+   ]
+  ],
+  "offices_extra": [
+   [
+    "336 DISTRICT JUDGE",
+    ""
+   ],
+   [
+    "CONSTABLE PRECINCT 1",
+    ""
+   ],
+   [
+    "CONSTABLE PRECINCT 2",
+    ""
+   ],
+   [
+    "CONSTABLE PRECINCT 3",
+    ""
+   ],
+   [
+    "COUNTY CHAIR",
+    ""
+   ],
+   [
+    "COUNTY COMMISSIONER PRECINCT 1",
+    ""
+   ],
+   [
+    "COUNTY COMMISSIONER PRECINCT 3",
+    ""
+   ],
+   [
+    "COUNTY TAX ASSESSOR COLLECTOR",
+    ""
+   ],
+   [
+    "DEMOCRAT COUNTY CHAIR",
+    ""
+   ],
+   [
+    "REFERENDUM 1",
+    ""
+   ],
+   [
+    "REFERENDUM 2",
+    ""
+   ],
+   [
+    "REFERENDUM 3",
+    ""
+   ],
+   [
+    "SHERIFF",
+    ""
+   ]
+  ],
+  "props_base": 8,
+  "props_mine": 5,
+  "total_mismatch": [],
+  "total_row_diffs": [
+   [
+    [
+     "6 COURT OF APPEALS DISTRICT",
+     "2"
+    ],
+    2431,
+    2136
+   ],
+   [
+    [
+     "COURT OF CRIMINAL APPEALS",
+     "PRESIDING"
+    ],
+    2406,
+    2082
+   ],
+   [
+    [
+     "DISTRICT JUDGE",
+     "336"
+    ],
+    0,
+    2323
+   ],
+   [
+    [
+     "PRESIDENT",
+     ""
+    ],
+    3192,
+    2843
+   ],
+   [
+    [
+     "RAILROAD COMMISSIONER",
+     ""
+    ],
+    2624,
+    2304
+   ],
+   [
+    [
+     "STATE REPRESENTATIVE",
+     "62"
+    ],
+    2594,
+    2313
+   ],
+   [
+    [
+     "SUPREME COURT",
+     "6"
+    ],
+    2392,
+    2064
+   ],
+   [
+    [
+     "U S HOUSE",
+     "4"
+    ],
+    3109,
+    2797
+   ],
+   [
+    [
+     "US SENATEE",
+     ""
+    ],
+    3041,
+    2701
+   ]
+  ],
+  "candidate_mismatch": [
+   [
+    "DISTRICT JUDGE",
+    "336",
+    "REP",
+    "LAURI BLAKE",
+    null,
+    2323
+   ],
+   [
+    "PRESIDENT",
+    "",
+    "REP",
+    "UNCOMMITTED",
+    null,
+    188
+   ]
+  ],
+  "zero_override": [],
+  "reconstructed_ok": 0,
+  "bad_rows": [],
+  "file": "20120529__tx__primary__fannin__precinct.csv",
+  "format": "text"
+ },
+ "marion": {
+  "rows": 886,
+  "offices_baseline": 15,
+  "offices_missing": [],
+  "offices_extra": [
+   [
+    "BALANCED BUDGET CONTROLLING GOVERNMENT GROWTH",
+    ""
+   ],
+   [
+    "CONSTABLE PRECINCT 1",
+    ""
+   ],
+   [
+    "CONSTABLE PRECINCT 2",
+    ""
+   ],
+   [
+    "COUNTY ATTORNEY",
+    ""
+   ],
+   [
+    "COUNTY CHAIRMAN",
+    ""
+   ],
+   [
+    "COUNTY COMMISSIONER PRECINCT 1",
+    ""
+   ],
+   [
+    "COUNTY COMMISSIONER PRECINCT 3",
+    ""
+   ],
+   [
+    "PUBLIC PRAYER",
+    ""
+   ],
+   [
+    "REDISTRICTING",
+    ""
+   ],
+   [
+    "REPEALING OBAMACARE",
+    ""
+   ],
+   [
+    "SCHOOL CHOICE",
+    ""
+   ],
+   [
+    "SHERIFF",
+    ""
+   ],
+   [
+    "TAX ASSESSOR COLLECTOR",
+    ""
+   ]
+  ],
+  "props_base": 8,
+  "props_mine": 3,
+  "total_mismatch": [],
+  "total_row_diffs": [
+   [
+    [
+     "6 COURT OF APPEALS DISTRICT",
+     "2"
+    ],
+    1116,
+    549
+   ],
+   [
+    [
+     "COURT OF CRIMINAL APPEALS",
+     "PRESIDING"
+    ],
+    1110,
+    475
+   ],
+   [
+    [
+     "PRESIDENT",
+     ""
+    ],
+    1482,
+    648
+   ],
+   [
+    [
+     "RAILROAD COMMISSIONER",
+     ""
+    ],
+    1184,
+    532
+   ],
+   [
+    [
+     "STATE SENATE",
+     "1"
+    ],
+    1073,
+    490
+   ],
+   [
+    [
+     "SUPREME COURT",
+     "6"
+    ],
+    1106,
+    467
+   ],
+   [
+    [
+     "U S HOUSE",
+     "4"
+    ],
+    1193,
+    588
+   ],
+   [
+    [
+     "US SENATEE",
+     ""
+    ],
+    1379,
+    601
+   ]
+  ],
+  "candidate_mismatch": [
+   [
+    "6 COURT OF APPEALS DISTRICT",
+    "2",
+    "REP",
+    "BAILEY C MOSELEY",
+    null,
+    374
+   ]
+  ],
+  "zero_override": [],
+  "reconstructed_ok": 0,
+  "bad_rows": [],
+  "file": "20120529__tx__primary__marion__precinct.csv",
+  "format": "text"
+ },
+ "san_patricio": {
+  "rows": 2628,
+  "offices_baseline": 21,
+  "offices_missing": [],
+  "offices_extra": [
+   [
+    "BALANCED BUDGET CONTROLLING GOVERNMENT GROWTH",
+    ""
+   ],
+   [
+    "CONSTABLE PRECINCT 1",
+    ""
+   ],
+   [
+    "CONSTABLE PRECINCT 2",
+    ""
+   ],
+   [
+    "CONSTABLE PRECINCT 4",
+    ""
+   ],
+   [
+    "CONSTABLE PRECINCT 5",
+    ""
+   ],
+   [
+    "CONSTABLE PRECINCT 6",
+    ""
+   ],
+   [
+    "CONSTABLE PRECINCT 8",
+    ""
+   ],
+   [
+    "COUNTY ATTORNEY",
+    ""
+   ],
+   [
+    "COUNTY CHAIR",
+    ""
+   ],
+   [
+    "COUNTY COMMISSIONER PRECINCT 1",
+    ""
+   ],
+   [
+    "COUNTY COMMISSIONER PRECINCT 3",
+    ""
+   ],
+   [
+    "COUNTY TAX ASSESSOR COLLECTOR",
+    ""
+   ],
+   [
+    "PUBLIC PRAYER",
+    ""
+   ],
+   [
+    "REDISTRICTING",
+    ""
+   ],
+   [
+    "REFERENDUM 1",
+    ""
+   ],
+   [
+    "REFERENDUM 2",
+    ""
+   ],
+   [
+    "REFERENDUM 3",
+    ""
+   ],
+   [
+    "REPEALING OBARMACARE",
+    ""
+   ],
+   [
+    "SCHOOL CHOICE",
+    ""
+   ],
+   [
+    "SHERIFF",
+    ""
+   ]
+  ],
+  "props_base": 8,
+  "props_mine": 0,
+  "total_mismatch": [],
+  "total_row_diffs": [
+   [
+    [
+     "13 COURT OF APPEALS DISTRICT",
+     ""
+    ],
+    3921,
+    2413
+   ],
+   [
+    [
+     "13 COURT OF APPEALS DISTRICT",
+     "2"
+    ],
+    4082,
+    2506
+   ],
+   [
+    [
+     "13 COURT OF APPEALS DISTRICT",
+     "4"
+    ],
+    4322,
+    2782
+   ],
+   [
+    [
+     "13 COURT OF APPEALS DISTRICT",
+     "5"
+    ],
+    3926,
+    2457
+   ],
+   [
+    [
+     "COURT OF CRIMINAL APPEALS",
+     "PRESIDING"
+    ],
+    3868,
+    2439
+   ],
+   [
+    [
+     "DISTRICT JUDGE",
+     "343"
+    ],
+    4246,
+    2575
+   ],
+   [
+    [
+     "PRESIDENT",
+     ""
+    ],
+    5839,
+    3349
+   ],
+   [
+    [
+     "RAILROAD COMMISSIONER",
+     ""
+    ],
+    4254,
+    2793
+   ],
+   [
+    [
+     "STATE BOARD OF EDUCATION",
+     "2"
+    ],
+    4721,
+    2790
+   ],
+   [
+    [
+     "STATE REPRESENTATIVE",
+     "43"
+    ],
+    5534,
+    3285
+   ],
+   [
+    [
+     "STATE SENATE",
+     "21"
+    ],
+    3826,
+    2272
+   ],
+   [
+    [
+     "SUPREME COURT",
+     "6"
+    ],
+    3884,
+    2425
+   ],
+   [
+    [
+     "U S HOUSE",
+     "27"
+    ],
+    3647,
+    2793
+   ],
+   [
+    [
+     "U S HOUSE",
+     "34"
+    ],
+    2032,
+    492
+   ],
+   [
+    [
+     "US SENATEE",
+     ""
+    ],
+    5060,
+    3300
+   ]
+  ],
+  "candidate_mismatch": [
+   [
+    "RAILROAD COMMISSIONER",
+    "",
+    "REP",
+    "BECKY BERGER",
+    427,
+    421
+   ]
+  ],
+  "zero_override": [],
+  "reconstructed_ok": 0,
+  "bad_rows": [],
+  "file": "20120529__tx__primary__san_patricio__precinct.csv",
+  "format": "text"
  }
 }
