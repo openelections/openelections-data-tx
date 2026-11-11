@@ -1,0 +1,97 @@
+# May 29, 2012 primary — precinct-level conversion and verification report
+
+Generated 2026-11-10. Sources: `openelections-sources-tx/2012/primary/`; baseline: `2012/20120529__tx__primary__county.csv`.
+
+## Wide/pivoted spreadsheet group (final pass)
+
+`python-parsers/parse_2012_wide.py` has six layout kinds (candidate_rows,
+fixed_cols, narrow, named_cols, transposed) plus baseline-driven office
+repair that falls back to surname / first-token / truncation-tolerant and
+one-edit surname matching, all party-scoped and office-scoped when the row's
+raw office text resolves.
+
+Converted and committed in this group:
+* **bowie** — REP sums match the canvass; DEM export lacks early-vote data
+  (every Dem sum falls ~460 short of the canvass).
+* **hockley** — COMBINED sheet; source mis-enters Huntsman's precinct-16 cell
+  as 96; two -1 diffs.
+* **hansford** — REP-only source; per-precinct cells internally incomplete
+  (row totals equal the canvass).
+* **parker** — Hart-template narrow, 3969 rows, **fully verified** (0 diffs).
+* **mcmullen** — one DEM + one REP file each carrying EV (per precinct) and
+  ED sheets; 9 residual diffs: some EV-file rows lost to truncated/typo'd
+  names, County Chair Rostig contest absent from the export (50 votes),
+  scattered ±1s.
+* **oldham** — truncated candidate names; 1 residual diff: Romney +10 (the
+  sheet's EARLY column overlaps its own precinct columns in that row; both
+  the sheet TOTAL and the canvass say 176).
+* **concho** (REP) — hart narrow template; full DEM side (DEM csv is a text
+  file for the text group).
+* **oldham/panola/concho/willacy** are single-party (`republican__`-prefixed):
+  panola's DEM source is a mail-ballot log with no results; willacy's DEM
+  side is a mislabeled PDF; their REP content verifies.
+
+Attempted, outputs withdrawn (still need work):
+* **terrell** — DEM xlsx with surname-only names; 7 offices still missing.
+* **brewster** — transposed grid; 6 races missing, names truncated mid-way.
+* **cass** — TOTALS sheet selected but still 2x totals; sheet bands stacked.
+* **childress** — Type-row sheets; sums run 6x (both party files carry the
+  same rows and the sections must be split per phase).
+
+County-wide early-vote totals that cannot be split by precinct (panola EV
+column, oldham EARLY column) are emitted as `Absentee` pseudo-precinct rows,
+which makes candidate sums tie with the canvass except where noted.
+
+## What was done
+
+* **115 county precinct files written** with the filename base `20120529__tx__primary`. 105 counties cover both parties; 10 (`democratic__`/`republican__`-prefixed) cover a single party because the county's other party is only available as PDF/other formats (e.g. McCulloch, Medina, Sherman, Washington).
+* ASC/Hart-export counties parsed with `python-parsers/parse_2012_asc.py` (180-char record layout; `.001` Hart exports and Calhoun's EL30A `.LST` text report included).
+* Excel counties parsed with `python-parsers/parse_2012_excel.py` (wraps the 2014 Detail-Vote-Totals parser; adds the 2012 quirks listed below).
+* Every file was verified against the county-level file: per-candidate precinct sums are compared to the SOS county canvass (candidate rows are authoritative; the baseline's `Total` rows are advisory). Office names are matched on canonical keys; the 2012 propositions are checked for coverage only.
+* All written CSVs pass the openelections-data-tests suites (re-checked after each pass) (`duplicate_entries`, `file_format`, `missing_values`, `vote_breakdown_totals`, harness v2.2.0).
+
+## Verification result summary
+
+* Clean (no candidate mismatches, no missing offices): **17** of 115 counties
+* Small diffs (each mismatch ±1 vote, no missing offices): **17** counties
+* Notable mismatches remain: **81** counties (counts per county below) — see the JSON report `2012/20120529__report.json` for office-by-office detail.
+
+Clean: colorado, coryell, dewitt, eastland, falls, hopkins, madison, mitchell, montgomery, nacogdoches, nolan, orange, san_jacinto, stonewall, upshur, wheeler, young
+
+## Source defects found (files excluded or partially usable)
+
+| County | Source | Problem |
+|---|---|---|
+| Tyler | `12PTYLER.ASC` (both parties) | every vote field in the export is 0; no results recoverable — file skipped |
+| Fayette | `10GFAYET.ASC` | mislabeled: the export is the **2010 general election**, not the 2012 primary — file skipped |
+| Chambers | `AEROLST.WRK` | EL45A summary (county totals) only; no precinct breakdown — skipped |
+| Lamb | `12PLAMB.ALG`; Webb `12PWEBB.CVS` | Hart report-definition binaries, no results data — skipped |
+| Bandera | Bandera sources are the 2011 amendment election (`2011_Constitutional_Amendment`); the 2012 primary files are absentee-only `EPB_ABSENTEE.csv` — not precinct-level |
+
+## Documented source-vs-canvass discrepancies
+
+* **Wharton**: the county exports (`12PWHART.001`) carry only a fraction of the contests (19 of ~20 offices missing).
+* **Cameron**: exports omit the 13th Court of Appeals places and District Judge courts 138/404/444/445 entirely.
+* **Smith**: exports omit the Criminal District Judge races (courts 7 and 114).
+* **Victoria / Hood / parts of Wharton**: Hart title fields are truncated at 56 characters, which cuts the Place numbers off Court of Appeals / CCA judge races; those races are written with an empty district and are candidates under a single office. The votes are present but the place disambiguation cannot be recovered from the export alone.
+* **Bexar**: the county's exports (both parties) run consistently **+5 or so votes over** the SOS county canvass; all Dem/Rep statewide candidates show the same excess.
+* **Widespread small diffs**: dozens of counties show a small number of candidates whose precinct sums differ from the SOS canvass by exactly ±1 (93 occurrences across the ASC group alone). Direction and magnitude suggest a single provisional/late ballot in the canvass absent from the county's exports; the export values are kept as parsed.
+* **Typos recovered by aliases** (kept in the outputs, mapped for verification): `Raplh M. Hall` (Morris), `Tawana L. Cadien` (Austin; SOS file says W.), `John Grunwold` (Calhoun), `Elizabeth Murray-Kolb` / `MurrayKolb` spelling variants.
+
+## Remaining work (not yet converted)
+
+* **Excel wide/pivoted layouts** (candidates down rows, precincts across columns): bowie, cass, brewster, brazos, hansford, hockley, live_oak, mcmullen, oldham, panola, parker, runnels, shackelford, terrell, terry, willacy, cottle, childress, concho (REP file) — needs a 2012 wide-table parser (2014's `parse_2014_wide.py` is the model).
+* **Delta/Dickens/Hall/McCulloch**: written but with open office/mismatch items to resolve (see JSON report); McCulloch's Republican side exists only as PDFs.
+* **Text group** (19 counties: bell, collin, concho, cooke, duval, el_paso, fannin, grimes, guadalupe, howard, lampasas, marion, motley, san_patricio, sutton, waller, wilbarger, zapata, bandera).
+* **PDF group** (17 counties) — see `LLM_EXTRACTION_CASE_STUDY.md`; Comanche/Fisher ship ED/EV page images.
+* **doc/docx** (brown, dimmit, kleberg), **zips** (collin, rockwall), and the PCL-printer-data files (Hill, Matagorda).
+* Several counties' second party exists only as PDFs (e.g. McCulloch REP, Dickens has both as xlsx; check inventory skip lists).
+
+## 2012 parser quirks handled (for future sessions)
+
+* 2012 Hart exports abbreviate contest titles: `Judge, CT of Criminal AP, P7`, `Member, State BoE, DIST 9`, `Railroad Commissioner, UNEXP`, `Dem Judge, 14th Judicial District DEM COUNTY WIDE`; several counties truncate titles at 56 chars (`Justice, 4th Crt Appeals Dist, Pl, 2`).
+* Some counties ship one file for both parties (in-row party labels, `NON` for party-neutral rows); Dallas prefixes every office with `Dem `/`Rep ` and repeats a party-echo fragment at the end.
+* Excel counties: party column often empty — recovered from the SOS baseline by candidate name (`parse_2012_excel.build_name_party_map`); some counties label their *total* votes column 'Election Day Votes' (Hamilton) — detected per sheet by matching against the baseline.
+* The SOS county file reports the presidential preference twice (`President/VicePresident` statewide and by congressional district as `President Congressional`); the duplicate rows are ignored by the verifier.
+* Baseline quirks: 21 corrupt rows (votes column collapsed) in 13 counties; `Total` rows carry blank party.
+

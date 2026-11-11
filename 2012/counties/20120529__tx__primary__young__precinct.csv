@@ -1,0 +1,580 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day
+Young,5  6,President,,REP,Michele Bachmann,10,7,3
+Young,5  6,President,,REP,Mitt Romney,575,392,183
+Young,5  6,President,,REP,Newt Gingrich,38,25,13
+Young,5  6,President,,REP,Jon Huntsman,4,4,
+Young,5  6,President,,REP,Rick Santorum,44,31,13
+Young,5  6,President,,REP,John Davis,2,1,1
+Young,5  6,President,,REP,Ron Paul,69,40,29
+Young,5  6,President,,REP,Uncommitted,45,30,15
+Young,5  6,President,,DEM,Bob Ely,3,2,1
+Young,5  6,President,,DEM,Barack Obama,46,22,24
+Young,5  6,President,,DEM,John Wolfe,3,3,
+Young,5  6,U.S. Senate,,REP,Craig James,83,55,28
+Young,5  6,U.S. Senate,,REP,Ben Gambini,7,5,2
+Young,5  6,U.S. Senate,,REP,Lela Pittenger,12,8,4
+Young,5  6,U.S. Senate,,REP,Tom Leppert,84,57,27
+Young,5  6,U.S. Senate,,REP,Ted Cruz,122,65,57
+Young,5  6,U.S. Senate,,REP,David Dewhurst,427,304,123
+Young,5  6,U.S. Senate,,REP,Glenn Addison,7,4,3
+Young,5  6,U.S. Senate,,REP,Curt Cleaver,3,1,2
+Young,5  6,U.S. Senate,,DEM,Addie Dainell Allen,10,6,4
+Young,5  6,U.S. Senate,,DEM,Sean Hubbard,5,3,2
+Young,5  6,U.S. Senate,,DEM,Paul Sadler,19,8,11
+Young,5  6,U.S. Senate,,DEM,Grady Yarbrough,16,9,7
+Young,5  6,U.S. House,19,REP,Chris Winn,102,67,35
+Young,5  6,U.S. House,19,REP,Randy Neugebauer,652,438,214
+Young,5  6,Railroad Commissioner,,REP,Becky Berger,130,85,45
+Young,5  6,Railroad Commissioner,,REP,Joe Cotten,102,78,24
+Young,5  6,Railroad Commissioner,,REP,Warren Chisum,151,106,45
+Young,5  6,Railroad Commissioner,,REP,Christi Craddick,146,100,46
+Young,5  6,Railroad Commissioner,,REP,Beryl Burgess,40,23,17
+Young,5  6,Railroad Commissioner,,REP,Roland Sledge,59,36,23
+Young,5  6,Railroad Commissioner Unexpired Term,,REP,Greg Parker,299,202,97
+Young,5  6,Railroad Commissioner Unexpired Term,,REP,Al Lee,36,24,12
+Young,5  6,Railroad Commissioner Unexpired Term,,REP,Elizabeth Murray-Kolb,128,87,41
+Young,5  6,Railroad Commissioner Unexpired Term,,REP,Barry Smitherman,157,112,45
+Young,5  6,Railroad Commissioner,,DEM,Dale Henry,48,26,22
+Young,5  6,Supreme Court,Place 2,REP,Don Willett,344,243,101
+Young,5  6,Supreme Court,Place 2,REP,Steve Smith,260,177,83
+Young,5  6,Supreme Court,Place 4,REP,John Devine,174,122,52
+Young,5  6,Supreme Court,Place 4,REP,David Medina,209,141,68
+Young,5  6,Supreme Court,Place 4,REP,"Joe Pool, Jr.",216,155,61
+Young,5  6,Supreme Court,Place 6,REP,Nathan Hecht,564,392,172
+Young,5  6,Supreme Court,Place 6,DEM,Michele Petty,48,26,22
+Young,5  6,Court of Criminal Appeals,,REP,Sharon Keller,579,400,179
+Young,5  6,Court of Criminal Appeals,,DEM,Keith Hampton,49,26,23
+Young,5  6,Court of Criminal Appeals,Place 7,REP,Barbara Parker Hervey,513,356,157
+Young,5  6,Court of Criminal Appeals,Place 8,REP,Elsa Alcala,539,376,163
+Young,5  6,State Board of Education,15,REP,Marty Rowley,282,200,82
+Young,5  6,State Board of Education,15,REP,Anette Carlisle,287,197,90
+Young,5  6,State Board of Education,15,DEM,Steven D. Schafersman,48,26,22
+Young,5  6,State Senate,30,REP,Jim Herblin,173,126,47
+Young,5  6,State Senate,30,REP,Craig Estes,556,370,186
+Young,5  6,State House,68,REP,Trent McKnight,466,306,160
+Young,5  6,State House,68,REP,David Isbell,64,37,27
+Young,5  6,State House,68,REP,Drew Springer,188,139,49
+Young,5  6,State House,68,REP,Paul Braswell,23,17,6
+Young,5  6,State House,68,DEM,Lanhon Odom,41,22,19
+Young,5  6,Chief Justice 2nd Court Of Appeals District,,REP,Terrie Livingston,539,372,167
+Young,5  6,Justice 2nd Court Of Appeals District Place 4,,REP,Bob McCoy,541,375,166
+Young,5  6,Justice 2nd Court Of Appeals District Place 5,,REP,Sue Walker,545,377,168
+Young,5  6,Justice 2nd Court Of Appeals District Place 6,,REP,LeeAnn Campbell Dauphinot,541,372,169
+Young,5  6,District Judge 90th Judicial District,,REP,Stephen E. Bristow,682,471,211
+Young,5  6,District Attorney 90th Judicial District,,REP,Dee Peavy,558,382,176
+Young,5  6,District Attorney 90th Judicial District,,REP,Brenda Gray,221,144,77
+Young,5  6,County Attorney,,REP,Louis Dayne Miller,604,414,190
+Young,5  6,Sheriff,,REP,Joe Siskar,327,218,109
+Young,5  6,Sheriff,,REP,Bryan Walls,452,305,147
+Young,5  6,Tax Assessor-collector,,REP,Nancy Thomas,639,429,210
+Young,5  6,Constable Precinct 1,,REP,Joey Parker,160,112,48
+Young,5  6,Constable Precinct 1,,REP,Tommy Martin,412,274,138
+Young,5  6,Constable Precinct 1,,REP,Jason Hearne,168,114,54
+Young,5  6,School Choice:,,REP,Yes,651,444,207
+Young,5  6,School Choice:,,REP,No,116,73,43
+Young,5  6,Repealing Obamacare:,,REP,Yes,730,492,238
+Young,5  6,Repealing Obamacare:,,REP,No,52,33,19
+Young,5  6,Public Prayer,,REP,Yes,736,501,235
+Young,5  6,Public Prayer,,REP,No,53,29,24
+Young,5  6,Balanced Budget / Controlling Government Growth,,REP,Yes,738,502,236
+Young,5  6,Balanced Budget / Controlling Government Growth,,REP,No,30,18,12
+Young,5  6,Redistricting,,REP,Yes,566,383,183
+Young,5  6,Redistricting,,REP,No,157,102,55
+Young,5  6,Proposition 1,,,For,44,21,23
+Young,5  6,Proposition 1,,REP,Against,10,7,3
+Young,5  6,Proposition 2,,,For,47,24,23
+Young,5  6,Proposition 2,,REP,Against,6,3,3
+Young,5  6,Proposition 3,,,For,38,21,17
+Young,5  6,Proposition 3,,REP,Against,15,7,8
+Young,7,President,,REP,Michele Bachmann,1,1,
+Young,7,President,,REP,Mitt Romney,21,10,11
+Young,7,President,,REP,Newt Gingrich,3,,3
+Young,7,President,,REP,Rick Santorum,3,2,1
+Young,7,President,,REP,Ron Paul,3,3,
+Young,7,President,,REP,Uncommitted,1,,1
+Young,7,U.S. Senate,,REP,Craig James,1,,1
+Young,7,U.S. Senate,,REP,Tom Leppert,3,3,
+Young,7,U.S. Senate,,REP,Ted Cruz,5,3,2
+Young,7,U.S. Senate,,REP,David Dewhurst,21,9,12
+Young,7,U.S. House,19,REP,Chris Winn,3,2,1
+Young,7,U.S. House,19,REP,Randy Neugebauer,27,13,14
+Young,7,Railroad Commissioner,,REP,Becky Berger,5,1,4
+Young,7,Railroad Commissioner,,REP,Joe Cotten,6,2,4
+Young,7,Railroad Commissioner,,REP,Warren Chisum,3,2,1
+Young,7,Railroad Commissioner,,REP,Christi Craddick,2,1,1
+Young,7,Railroad Commissioner,,REP,Beryl Burgess,3,3,
+Young,7,Railroad Commissioner,,REP,Roland Sledge,2,,2
+Young,7,Railroad Commissioner Unexpired Term,,REP,Greg Parker,16,6,10
+Young,7,Railroad Commissioner Unexpired Term,,REP,Al Lee,1,1,
+Young,7,Railroad Commissioner Unexpired Term,,REP,Elizabeth Murray-Kolb,2,,2
+Young,7,Railroad Commissioner Unexpired Term,,REP,Barry Smitherman,4,3,1
+Young,7,Supreme Court,Place 2,REP,Don Willett,12,6,6
+Young,7,Supreme Court,Place 2,REP,Steve Smith,11,5,6
+Young,7,Supreme Court,Place 4,REP,John Devine,9,5,4
+Young,7,Supreme Court,Place 4,REP,David Medina,8,4,4
+Young,7,Supreme Court,Place 4,REP,"Joe Pool, Jr.",5,2,3
+Young,7,Supreme Court,Place 6,REP,Nathan Hecht,19,9,10
+Young,7,Court of Criminal Appeals,,REP,Sharon Keller,20,9,11
+Young,7,Court of Criminal Appeals,Place 7,REP,Barbara Parker Hervey,18,8,10
+Young,7,Court of Criminal Appeals,Place 8,REP,Elsa Alcala,18,8,10
+Young,7,State Board of Education,15,REP,Marty Rowley,11,8,3
+Young,7,State Board of Education,15,REP,Anette Carlisle,10,1,9
+Young,7,State Senate,30,REP,Jim Herblin,3,2,1
+Young,7,State Senate,30,REP,Craig Estes,25,12,13
+Young,7,State House,68,REP,Trent McKnight,26,12,14
+Young,7,State House,68,REP,David Isbell,1,1,
+Young,7,State House,68,REP,Drew Springer,3,2,1
+Young,7,Chief Justice 2nd Court Of Appeals District,,REP,Terrie Livingston,19,8,11
+Young,7,Justice 2nd Court Of Appeals District Place 4,,REP,Bob McCoy,20,8,12
+Young,7,Justice 2nd Court Of Appeals District Place 5,,REP,Sue Walker,18,8,10
+Young,7,Justice 2nd Court Of Appeals District Place 6,,REP,LeeAnn Campbell Dauphinot,17,8,9
+Young,7,District Judge 90th Judicial District,,REP,Stephen E. Bristow,23,10,13
+Young,7,District Attorney 90th Judicial District,,REP,Dee Peavy,17,6,11
+Young,7,District Attorney 90th Judicial District,,REP,Brenda Gray,11,7,4
+Young,7,County Attorney,,REP,Louis Dayne Miller,19,10,9
+Young,7,Sheriff,,REP,Joe Siskar,15,7,8
+Young,7,Sheriff,,REP,Bryan Walls,16,9,7
+Young,7,Tax Assessor-collector,,REP,Nancy Thomas,19,10,9
+Young,7,Constable Precinct 3,,REP,Freddie Page,13,3,10
+Young,7,Constable Precinct 3,,REP,Stephen D. Scott,11,8,3
+Young,7,School Choice:,,REP,Yes,26,14,12
+Young,7,School Choice:,,REP,No,2,1,1
+Young,7,Repealing Obamacare:,,REP,Yes,31,16,15
+Young,7,Public Prayer,,REP,Yes,29,15,14
+Young,7,Public Prayer,,REP,No,1,1,
+Young,7,Balanced Budget / Controlling Government Growth,,REP,Yes,29,15,14
+Young,7,Redistricting,,REP,Yes,22,11,11
+Young,7,Redistricting,,REP,No,4,2,2
+Young,10,President,,REP,Mitt Romney,59,15,44
+Young,10,President,,REP,Newt Gingrich,5,2,3
+Young,10,President,,REP,Jon Huntsman,2,1,1
+Young,10,President,,REP,Rick Santorum,10,,10
+Young,10,President,,REP,Ron Paul,7,1,6
+Young,10,President,,REP,Uncommitted,9,4,5
+Young,10,President,,DEM,Bob Ely,2,,2
+Young,10,President,,DEM,Barack Obama,4,1,3
+Young,10,President,,DEM,Darcy G. Richardson,2,1,1
+Young,10,President,,DEM,John Wolfe,3,,3
+Young,10,U.S. Senate,,REP,Craig James,8,2,6
+Young,10,U.S. Senate,,REP,Ben Gambini,3,1,2
+Young,10,U.S. Senate,,REP,Lela Pittenger,1,,1
+Young,10,U.S. Senate,,REP,Tom Leppert,2,1,1
+Young,10,U.S. Senate,,REP,Ted Cruz,25,5,20
+Young,10,U.S. Senate,,REP,David Dewhurst,39,10,29
+Young,10,U.S. Senate,,REP,Joe Agris,2,,2
+Young,10,U.S. Senate,,REP,Curt Cleaver,3,2,1
+Young,10,U.S. Senate,,DEM,Addie Dainell Allen,2,,2
+Young,10,U.S. Senate,,DEM,Paul Sadler,5,2,3
+Young,10,U.S. Senate,,DEM,Grady Yarbrough,5,,5
+Young,10,U.S. House,19,REP,Chris Winn,15,6,9
+Young,10,U.S. House,19,REP,Randy Neugebauer,71,15,56
+Young,10,Railroad Commissioner,,REP,Becky Berger,13,4,9
+Young,10,Railroad Commissioner,,REP,Joe Cotten,16,2,14
+Young,10,Railroad Commissioner,,REP,Warren Chisum,12,6,6
+Young,10,Railroad Commissioner,,REP,Christi Craddick,7,2,5
+Young,10,Railroad Commissioner,,REP,Beryl Burgess,5,,5
+Young,10,Railroad Commissioner,,REP,Roland Sledge,15,3,12
+Young,10,Railroad Commissioner Unexpired Term,,REP,Greg Parker,35,6,29
+Young,10,Railroad Commissioner Unexpired Term,,REP,Al Lee,7,4,3
+Young,10,Railroad Commissioner Unexpired Term,,REP,Elizabeth Murray-Kolb,7,3,4
+Young,10,Railroad Commissioner Unexpired Term,,REP,Barry Smitherman,15,3,12
+Young,10,Railroad Commissioner,,DEM,Dale Henry,11,2,9
+Young,10,Supreme Court,Place 2,REP,Don Willett,27,4,23
+Young,10,Supreme Court,Place 2,REP,Steve Smith,37,12,25
+Young,10,Supreme Court,Place 4,REP,John Devine,19,7,12
+Young,10,Supreme Court,Place 4,REP,David Medina,20,4,16
+Young,10,Supreme Court,Place 4,REP,"Joe Pool, Jr.",25,5,20
+Young,10,Supreme Court,Place 6,REP,Nathan Hecht,56,12,44
+Young,10,Supreme Court,Place 6,DEM,Michele Petty,12,2,10
+Young,10,Court of Criminal Appeals,,REP,Sharon Keller,56,13,43
+Young,10,Court of Criminal Appeals,,DEM,Keith Hampton,12,2,10
+Young,10,Court of Criminal Appeals,Place 7,REP,Barbara Parker Hervey,51,13,38
+Young,10,Court of Criminal Appeals,Place 8,REP,Elsa Alcala,53,13,40
+Young,10,State Board of Education,15,REP,Marty Rowley,35,8,27
+Young,10,State Board of Education,15,REP,Anette Carlisle,24,7,17
+Young,10,State Board of Education,15,DEM,Steven D. Schafersman,12,2,10
+Young,10,State Senate,30,REP,Jim Herblin,30,8,22
+Young,10,State Senate,30,REP,Craig Estes,49,12,37
+Young,10,State House,68,REP,Trent McKnight,61,14,47
+Young,10,State House,68,REP,David Isbell,1,1,
+Young,10,State House,68,REP,Drew Springer,24,6,18
+Young,10,State House,68,DEM,Lanhon Odom,10,2,8
+Young,10,Chief Justice 2nd Court Of Appeals District,,REP,Terrie Livingston,56,14,42
+Young,10,Justice 2nd Court Of Appeals District Place 4,,REP,Bob McCoy,58,13,45
+Young,10,Justice 2nd Court Of Appeals District Place 5,,REP,Sue Walker,55,13,42
+Young,10,Justice 2nd Court Of Appeals District Place 6,,REP,LeeAnn Campbell Dauphinot,58,15,43
+Young,10,District Judge 90th Judicial District,,REP,Stephen E. Bristow,64,19,45
+Young,10,District Attorney 90th Judicial District,,REP,Dee Peavy,47,14,33
+Young,10,District Attorney 90th Judicial District,,REP,Brenda Gray,39,10,29
+Young,10,County Attorney,,REP,Louis Dayne Miller,58,17,41
+Young,10,Sheriff,,REP,Joe Siskar,57,14,43
+Young,10,Sheriff,,REP,Bryan Walls,33,10,23
+Young,10,Tax Assessor-collector,,REP,Nancy Thomas,69,19,50
+Young,10,County Commissioner Precinct 3,,REP,Stacey K. Rogers,72,18,54
+Young,10,County Commissioner Precinct 3,,DEM,Steve Sosinksi,10,2,8
+Young,10,Constable Precinct 3,,REP,Freddie Page,41,11,30
+Young,10,Constable Precinct 3,,REP,Stephen D. Scott,30,9,21
+Young,10,School Choice:,,REP,Yes,65,16,49
+Young,10,School Choice:,,REP,No,16,5,11
+Young,10,Repealing Obamacare:,,REP,Yes,80,21,59
+Young,10,Repealing Obamacare:,,REP,No,10,2,8
+Young,10,Public Prayer,,REP,Yes,77,22,55
+Young,10,Public Prayer,,REP,No,11,,11
+Young,10,Balanced Budget / Controlling Government Growth,,REP,Yes,82,20,62
+Young,10,Balanced Budget / Controlling Government Growth,,REP,No,5,3,2
+Young,10,Redistricting,,REP,Yes,48,9,39
+Young,10,Redistricting,,REP,No,31,11,20
+Young,10,Proposition 1,,,For,11,2,9
+Young,10,Proposition 1,,REP,Against,1,,1
+Young,10,Proposition 2,,,For,10,2,8
+Young,10,Proposition 2,,REP,Against,2,,2
+Young,10,Proposition 3,,,For,11,2,9
+Young,10,Proposition 3,,REP,Against,1,,1
+Young,16  20,President,,REP,Michele Bachmann,2,2,
+Young,16  20,President,,REP,Mitt Romney,106,43,63
+Young,16  20,President,,REP,Newt Gingrich,2,1,1
+Young,16  20,President,,REP,Rick Santorum,11,2,9
+Young,16  20,President,,REP,Ron Paul,5,4,1
+Young,16  20,President,,REP,Uncommitted,7,1,6
+Young,16  20,President,,DEM,Bob Ely,1,,1
+Young,16  20,President,,DEM,Barack Obama,4,1,3
+Young,16  20,President,,DEM,John Wolfe,2,1,1
+Young,16  20,U.S. Senate,,REP,Craig James,17,7,10
+Young,16  20,U.S. Senate,,REP,Ben Gambini,1,,1
+Young,16  20,U.S. Senate,,REP,Lela Pittenger,3,,3
+Young,16  20,U.S. Senate,,REP,Tom Leppert,6,1,5
+Young,16  20,U.S. Senate,,REP,Ted Cruz,32,14,18
+Young,16  20,U.S. Senate,,REP,David Dewhurst,52,18,34
+Young,16  20,U.S. Senate,,REP,Glenn Addison,4,3,1
+Young,16  20,U.S. Senate,,DEM,Addie Dainell Allen,2,1,1
+Young,16  20,U.S. Senate,,DEM,Paul Sadler,3,1,2
+Young,16  20,U.S. Senate,,DEM,Grady Yarbrough,2,,2
+Young,16  20,U.S. House,19,REP,Chris Winn,25,11,14
+Young,16  20,U.S. House,19,REP,Randy Neugebauer,99,38,61
+Young,16  20,Railroad Commissioner,,REP,Becky Berger,34,17,17
+Young,16  20,Railroad Commissioner,,REP,Joe Cotten,18,8,10
+Young,16  20,Railroad Commissioner,,REP,Warren Chisum,18,8,10
+Young,16  20,Railroad Commissioner,,REP,Christi Craddick,9,4,5
+Young,16  20,Railroad Commissioner,,REP,Beryl Burgess,6,,6
+Young,16  20,Railroad Commissioner,,REP,Roland Sledge,14,1,13
+Young,16  20,Railroad Commissioner Unexpired Term,,REP,Greg Parker,52,20,32
+Young,16  20,Railroad Commissioner Unexpired Term,,REP,Al Lee,4,1,3
+Young,16  20,Railroad Commissioner Unexpired Term,,REP,Elizabeth Murray-Kolb,15,4,11
+Young,16  20,Railroad Commissioner Unexpired Term,,REP,Barry Smitherman,26,10,16
+Young,16  20,Railroad Commissioner,,DEM,Dale Henry,8,2,6
+Young,16  20,Supreme Court,Place 2,REP,Don Willett,57,20,37
+Young,16  20,Supreme Court,Place 2,REP,Steve Smith,39,16,23
+Young,16  20,Supreme Court,Place 4,REP,John Devine,29,15,14
+Young,16  20,Supreme Court,Place 4,REP,David Medina,33,8,25
+Young,16  20,Supreme Court,Place 4,REP,"Joe Pool, Jr.",31,12,19
+Young,16  20,Supreme Court,Place 6,REP,Nathan Hecht,87,32,55
+Young,16  20,Supreme Court,Place 6,DEM,Michele Petty,6,2,4
+Young,16  20,Court of Criminal Appeals,,REP,Sharon Keller,81,31,50
+Young,16  20,Court of Criminal Appeals,,DEM,Keith Hampton,8,2,6
+Young,16  20,Court of Criminal Appeals,Place 7,REP,Barbara Parker Hervey,82,31,51
+Young,16  20,Court of Criminal Appeals,Place 8,REP,Elsa Alcala,81,31,50
+Young,16  20,State Board of Education,15,REP,Marty Rowley,51,24,27
+Young,16  20,State Board of Education,15,REP,Anette Carlisle,41,12,29
+Young,16  20,State Board of Education,15,DEM,Steven D. Schafersman,6,2,4
+Young,16  20,State Senate,30,REP,Jim Herblin,43,20,23
+Young,16  20,State Senate,30,REP,Craig Estes,77,26,51
+Young,16  20,State House,68,REP,Trent McKnight,74,30,44
+Young,16  20,State House,68,REP,David Isbell,11,5,6
+Young,16  20,State House,68,REP,Drew Springer,28,10,18
+Young,16  20,State House,68,REP,Paul Braswell,9,4,5
+Young,16  20,State House,68,DEM,Lanhon Odom,5,2,3
+Young,16  20,Chief Justice 2nd Court Of Appeals District,,REP,Terrie Livingston,85,32,53
+Young,16  20,Justice 2nd Court Of Appeals District Place 4,,REP,Bob McCoy,82,32,50
+Young,16  20,Justice 2nd Court Of Appeals District Place 5,,REP,Sue Walker,81,31,50
+Young,16  20,Justice 2nd Court Of Appeals District Place 6,,REP,LeeAnn Campbell Dauphinot,79,30,49
+Young,16  20,District Judge 90th Judicial District,,REP,Stephen E. Bristow,99,36,63
+Young,16  20,District Attorney 90th Judicial District,,REP,Dee Peavy,62,25,37
+Young,16  20,District Attorney 90th Judicial District,,REP,Brenda Gray,66,25,41
+Young,16  20,County Attorney,,REP,Louis Dayne Miller,91,34,57
+Young,16  20,Sheriff,,REP,Joe Siskar,76,30,46
+Young,16  20,Sheriff,,REP,Bryan Walls,52,20,32
+Young,16  20,Tax Assessor-collector,,REP,Nancy Thomas,111,43,68
+Young,16  20,Constable Precinct 3,,REP,Freddie Page,66,28,38
+Young,16  20,Constable Precinct 3,,REP,Stephen D. Scott,43,14,29
+Young,16  20,School Choice:,,REP,Yes,116,45,71
+Young,16  20,School Choice:,,REP,No,11,5,6
+Young,16  20,Repealing Obamacare:,,REP,Yes,123,48,75
+Young,16  20,Repealing Obamacare:,,REP,No,5,2,3
+Young,16  20,Public Prayer,,REP,Yes,122,46,76
+Young,16  20,Public Prayer,,REP,No,9,5,4
+Young,16  20,Balanced Budget / Controlling Government Growth,,REP,Yes,124,49,75
+Young,16  20,Balanced Budget / Controlling Government Growth,,REP,No,3,1,2
+Young,16  20,Redistricting,,REP,Yes,100,37,63
+Young,16  20,Redistricting,,REP,No,20,9,11
+Young,16  20,Proposition 1,,,For,6,1,5
+Young,16  20,Proposition 1,,REP,Against,1,,1
+Young,16  20,Proposition 2,,,For,4,1,3
+Young,16  20,Proposition 2,,REP,Against,2,1,1
+Young,16  20,Proposition 3,,,For,4,2,2
+Young,16  20,Proposition 3,,REP,Against,3,,3
+Young,22,President,,REP,Michele Bachmann,8,5,3
+Young,22,President,,REP,Mitt Romney,734,464,270
+Young,22,President,,REP,"Charles ""Buddy"" Roemer",1,,1
+Young,22,President,,REP,Newt Gingrich,43,29,14
+Young,22,President,,REP,Jon Huntsman,3,2,1
+Young,22,President,,REP,Rick Santorum,72,38,34
+Young,22,President,,REP,John Davis,2,1,1
+Young,22,President,,REP,Ron Paul,59,32,27
+Young,22,President,,REP,Uncommitted,55,38,17
+Young,22,President,,DEM,Barack Obama,24,16,8
+Young,22,President,,DEM,John Wolfe,7,2,5
+Young,22,U.S. Senate,,REP,Craig James,106,61,45
+Young,22,U.S. Senate,,REP,Ben Gambini,11,7,4
+Young,22,U.S. Senate,,REP,Lela Pittenger,13,12,1
+Young,22,U.S. Senate,,REP,Tom Leppert,92,63,29
+Young,22,U.S. Senate,,REP,Ted Cruz,173,107,66
+Young,22,U.S. Senate,,REP,David Dewhurst,495,314,181
+Young,22,U.S. Senate,,REP,Glenn Addison,5,3,2
+Young,22,U.S. Senate,,REP,Joe Agris,3,2,1
+Young,22,U.S. Senate,,REP,Curt Cleaver,5,2,3
+Young,22,U.S. Senate,,DEM,Addie Dainell Allen,4,2,2
+Young,22,U.S. Senate,,DEM,Sean Hubbard,1,1,
+Young,22,U.S. Senate,,DEM,Paul Sadler,13,9,4
+Young,22,U.S. Senate,,DEM,Grady Yarbrough,8,3,5
+Young,22,U.S. House,19,REP,Chris Winn,109,68,41
+Young,22,U.S. House,19,REP,Randy Neugebauer,827,516,311
+Young,22,Railroad Commissioner,,REP,Becky Berger,161,110,51
+Young,22,Railroad Commissioner,,REP,Joe Cotten,107,66,41
+Young,22,Railroad Commissioner,,REP,Warren Chisum,163,104,59
+Young,22,Railroad Commissioner,,REP,Christi Craddick,179,113,66
+Young,22,Railroad Commissioner,,REP,Beryl Burgess,62,37,25
+Young,22,Railroad Commissioner,,REP,Roland Sledge,79,43,36
+Young,22,Railroad Commissioner Unexpired Term,,REP,Greg Parker,352,216,136
+Young,22,Railroad Commissioner Unexpired Term,,REP,Al Lee,46,32,14
+Young,22,Railroad Commissioner Unexpired Term,,REP,Elizabeth Murray-Kolb,138,86,52
+Young,22,Railroad Commissioner Unexpired Term,,REP,Barry Smitherman,209,136,73
+Young,22,Railroad Commissioner,,DEM,Dale Henry,30,17,13
+Young,22,Supreme Court,Place 2,REP,Don Willett,433,287,146
+Young,22,Supreme Court,Place 2,REP,Steve Smith,304,173,131
+Young,22,Supreme Court,Place 4,REP,John Devine,225,133,92
+Young,22,Supreme Court,Place 4,REP,David Medina,273,180,93
+Young,22,Supreme Court,Place 4,REP,"Joe Pool, Jr.",221,137,84
+Young,22,Supreme Court,Place 6,REP,Nathan Hecht,695,433,262
+Young,22,Supreme Court,Place 6,DEM,Michele Petty,29,16,13
+Young,22,Court of Criminal Appeals,,REP,Sharon Keller,698,433,265
+Young,22,Court of Criminal Appeals,,DEM,Keith Hampton,28,15,13
+Young,22,Court of Criminal Appeals,Place 7,REP,Barbara Parker Hervey,651,406,245
+Young,22,Court of Criminal Appeals,Place 8,REP,Elsa Alcala,655,410,245
+Young,22,State Board of Education,15,REP,Marty Rowley,391,237,154
+Young,22,State Board of Education,15,REP,Anette Carlisle,294,195,99
+Young,22,State Board of Education,15,DEM,Steven D. Schafersman,29,16,13
+Young,22,State Senate,30,REP,Jim Herblin,243,165,78
+Young,22,State Senate,30,REP,Craig Estes,670,415,255
+Young,22,State House,68,REP,Trent McKnight,536,334,202
+Young,22,State House,68,REP,David Isbell,76,31,45
+Young,22,State House,68,REP,Drew Springer,263,185,78
+Young,22,State House,68,REP,Paul Braswell,32,20,12
+Young,22,State House,68,DEM,Lanhon Odom,22,13,9
+Young,22,Chief Justice 2nd Court Of Appeals District,,REP,Terrie Livingston,666,412,254
+Young,22,Justice 2nd Court Of Appeals District Place 4,,REP,Bob McCoy,661,413,248
+Young,22,Justice 2nd Court Of Appeals District Place 5,,REP,Sue Walker,661,414,247
+Young,22,Justice 2nd Court Of Appeals District Place 6,,REP,LeeAnn Campbell Dauphinot,659,414,245
+Young,22,District Judge 90th Judicial District,,REP,Stephen E. Bristow,826,523,303
+Young,22,District Attorney 90th Judicial District,,REP,Dee Peavy,676,419,257
+Young,22,District Attorney 90th Judicial District,,REP,Brenda Gray,303,195,108
+Young,22,County Attorney,,REP,Louis Dayne Miller,753,477,276
+Young,22,Sheriff,,REP,Joe Siskar,343,195,148
+Young,22,Sheriff,,REP,Bryan Walls,631,414,217
+Young,22,Tax Assessor-collector,,REP,Nancy Thomas,784,488,296
+Young,22,County Commissioner Precinct 1,,REP,Mike Sipes,506,313,193
+Young,22,County Commissioner Precinct 1,,REP,Mark Shepard,229,139,90
+Young,22,County Commissioner Precinct 1,,REP,B.J. Cook,246,164,82
+Young,22,Constable Precinct 1,,REP,Joey Parker,186,121,65
+Young,22,Constable Precinct 1,,REP,Tommy Martin,541,344,197
+Young,22,Constable Precinct 1,,REP,Jason Hearne,209,129,80
+Young,22,School Choice:,,REP,Yes,821,509,312
+Young,22,School Choice:,,REP,No,125,80,45
+Young,22,Repealing Obamacare:,,REP,Yes,913,571,342
+Young,22,Repealing Obamacare:,,REP,No,51,29,22
+Young,22,Public Prayer,,REP,Yes,911,565,346
+Young,22,Public Prayer,,REP,No,68,48,20
+Young,22,Balanced Budget / Controlling Government Growth,,REP,Yes,923,575,348
+Young,22,Balanced Budget / Controlling Government Growth,,REP,No,29,22,7
+Young,22,Redistricting,,REP,Yes,682,417,265
+Young,22,Redistricting,,REP,No,216,147,69
+Young,22,Proposition 1,,,For,21,12,9
+Young,22,Proposition 1,,REP,Against,11,6,5
+Young,22,Proposition 2,,,For,25,15,10
+Young,22,Proposition 2,,REP,Against,6,2,4
+Young,22,Proposition 3,,,For,20,12,8
+Young,22,Proposition 3,,REP,Against,12,6,6
+Young,23,President,,REP,Michele Bachmann,7,5,2
+Young,23,President,,REP,Mitt Romney,299,148,151
+Young,23,President,,REP,"Charles ""Buddy"" Roemer",2,1,1
+Young,23,President,,REP,Newt Gingrich,17,9,8
+Young,23,President,,REP,Rick Santorum,35,16,19
+Young,23,President,,REP,Ron Paul,23,14,9
+Young,23,President,,REP,Uncommitted,26,15,11
+Young,23,President,,DEM,Bob Ely,3,1,2
+Young,23,President,,DEM,Barack Obama,23,16,7
+Young,23,President,,DEM,Darcy G. Richardson,2,1,1
+Young,23,President,,DEM,John Wolfe,5,3,2
+Young,23,U.S. Senate,,REP,Craig James,48,23,25
+Young,23,U.S. Senate,,REP,Ben Gambini,2,1,1
+Young,23,U.S. Senate,,REP,Lela Pittenger,8,4,4
+Young,23,U.S. Senate,,REP,Tom Leppert,19,11,8
+Young,23,U.S. Senate,,REP,Ted Cruz,90,27,63
+Young,23,U.S. Senate,,REP,David Dewhurst,209,121,88
+Young,23,U.S. Senate,,REP,Glenn Addison,5,2,3
+Young,23,U.S. Senate,,REP,Joe Agris,1,1,
+Young,23,U.S. Senate,,REP,Curt Cleaver,4,2,2
+Young,23,U.S. Senate,,DEM,Addie Dainell Allen,1,1,
+Young,23,U.S. Senate,,DEM,Sean Hubbard,6,3,3
+Young,23,U.S. Senate,,DEM,Paul Sadler,14,9,5
+Young,23,U.S. Senate,,DEM,Grady Yarbrough,10,6,4
+Young,23,U.S. House,19,REP,Chris Winn,64,26,38
+Young,23,U.S. House,19,REP,Randy Neugebauer,330,168,162
+Young,23,Railroad Commissioner,,REP,Becky Berger,55,27,28
+Young,23,Railroad Commissioner,,REP,Joe Cotten,63,30,33
+Young,23,Railroad Commissioner,,REP,Warren Chisum,80,38,42
+Young,23,Railroad Commissioner,,REP,Christi Craddick,58,34,24
+Young,23,Railroad Commissioner,,REP,Beryl Burgess,26,11,15
+Young,23,Railroad Commissioner,,REP,Roland Sledge,36,13,23
+Young,23,Railroad Commissioner Unexpired Term,,REP,Greg Parker,184,89,95
+Young,23,Railroad Commissioner Unexpired Term,,REP,Al Lee,9,2,7
+Young,23,Railroad Commissioner Unexpired Term,,REP,Elizabeth Murray-Kolb,42,24,18
+Young,23,Railroad Commissioner Unexpired Term,,REP,Barry Smitherman,84,42,42
+Young,23,Railroad Commissioner,,DEM,Dale Henry,31,21,10
+Young,23,Supreme Court,Place 2,REP,Don Willett,189,95,94
+Young,23,Supreme Court,Place 2,REP,Steve Smith,124,59,65
+Young,23,Supreme Court,Place 4,REP,John Devine,112,61,51
+Young,23,Supreme Court,Place 4,REP,David Medina,116,54,62
+Young,23,Supreme Court,Place 4,REP,"Joe Pool, Jr.",85,40,45
+Young,23,Supreme Court,Place 6,REP,Nathan Hecht,291,144,147
+Young,23,Supreme Court,Place 6,DEM,Michele Petty,31,20,11
+Young,23,Court of Criminal Appeals,,REP,Sharon Keller,293,144,149
+Young,23,Court of Criminal Appeals,,DEM,Keith Hampton,30,19,11
+Young,23,Court of Criminal Appeals,Place 7,REP,Barbara Parker Hervey,276,141,135
+Young,23,Court of Criminal Appeals,Place 8,REP,Elsa Alcala,289,145,144
+Young,23,State Board of Education,15,REP,Marty Rowley,163,86,77
+Young,23,State Board of Education,15,REP,Anette Carlisle,130,61,69
+Young,23,State Board of Education,15,DEM,Steven D. Schafersman,31,20,11
+Young,23,State Senate,30,REP,Jim Herblin,119,66,53
+Young,23,State Senate,30,REP,Craig Estes,268,129,139
+Young,23,State House,68,REP,Trent McKnight,288,150,138
+Young,23,State House,68,REP,David Isbell,14,3,11
+Young,23,State House,68,REP,Drew Springer,90,43,47
+Young,23,State House,68,REP,Paul Braswell,4,1,3
+Young,23,State House,68,DEM,Lanhon Odom,28,18,10
+Young,23,Chief Justice 2nd Court Of Appeals District,,REP,Terrie Livingston,290,146,144
+Young,23,Justice 2nd Court Of Appeals District Place 4,,REP,Bob McCoy,289,144,145
+Young,23,Justice 2nd Court Of Appeals District Place 5,,REP,Sue Walker,283,142,141
+Young,23,Justice 2nd Court Of Appeals District Place 6,,REP,LeeAnn Campbell Dauphinot,291,146,145
+Young,23,District Judge 90th Judicial District,,REP,Stephen E. Bristow,310,154,156
+Young,23,District Attorney 90th Judicial District,,REP,Dee Peavy,230,113,117
+Young,23,District Attorney 90th Judicial District,,REP,Brenda Gray,167,88,79
+Young,23,County Attorney,,REP,Louis Dayne Miller,287,145,142
+Young,23,Sheriff,,REP,Joe Siskar,122,63,59
+Young,23,Sheriff,,REP,Bryan Walls,266,132,134
+Young,23,Tax Assessor-collector,,REP,Nancy Thomas,337,172,165
+Young,23,County Commissioner Precinct 3,,REP,Stacey K. Rogers,361,185,176
+Young,23,County Commissioner Precinct 3,,DEM,Steve Sosinksi,30,20,10
+Young,23,Constable Precinct 3,,REP,Freddie Page,288,150,138
+Young,23,Constable Precinct 3,,REP,Stephen D. Scott,94,44,50
+Young,23,School Choice:,,REP,Yes,318,156,162
+Young,23,School Choice:,,REP,No,64,35,29
+Young,23,Repealing Obamacare:,,REP,Yes,380,188,192
+Young,23,Repealing Obamacare:,,REP,No,18,11,7
+Young,23,Public Prayer,,REP,Yes,374,193,181
+Young,23,Public Prayer,,REP,No,29,10,19
+Young,23,Balanced Budget / Controlling Government Growth,,REP,Yes,379,191,188
+Young,23,Balanced Budget / Controlling Government Growth,,REP,No,16,8,8
+Young,23,Redistricting,,REP,Yes,292,144,148
+Young,23,Redistricting,,REP,No,68,39,29
+Young,23,Proposition 1,,,For,28,18,10
+Young,23,Proposition 1,,REP,Against,6,4,2
+Young,23,Proposition 2,,,For,30,20,10
+Young,23,Proposition 2,,REP,Against,5,3,2
+Young,23,Proposition 3,,,For,21,16,5
+Young,23,Proposition 3,,REP,Against,14,7,7
+Young,24,President,,REP,Michele Bachmann,5,2,3
+Young,24,President,,REP,Mitt Romney,233,131,102
+Young,24,President,,REP,Newt Gingrich,12,5,7
+Young,24,President,,REP,Rick Santorum,14,10,4
+Young,24,President,,REP,Ron Paul,39,22,17
+Young,24,President,,REP,Uncommitted,21,12,9
+Young,24,President,,DEM,Bob Ely,2,1,1
+Young,24,President,,DEM,Barack Obama,23,12,11
+Young,24,President,,DEM,John Wolfe,1,,1
+Young,24,U.S. Senate,,REP,Craig James,54,28,26
+Young,24,U.S. Senate,,REP,Ben Gambini,5,2,3
+Young,24,U.S. Senate,,REP,Lela Pittenger,2,1,1
+Young,24,U.S. Senate,,REP,Tom Leppert,24,16,8
+Young,24,U.S. Senate,,REP,Ted Cruz,56,24,32
+Young,24,U.S. Senate,,REP,David Dewhurst,149,88,61
+Young,24,U.S. Senate,,REP,Glenn Addison,7,4,3
+Young,24,U.S. Senate,,REP,Joe Agris,1,1,
+Young,24,U.S. Senate,,REP,Curt Cleaver,2,2,
+Young,24,U.S. Senate,,DEM,Addie Dainell Allen,4,1,3
+Young,24,U.S. Senate,,DEM,Sean Hubbard,4,4,
+Young,24,U.S. Senate,,DEM,Paul Sadler,4,2,2
+Young,24,U.S. Senate,,DEM,Grady Yarbrough,10,3,7
+Young,24,U.S. House,19,REP,Chris Winn,45,22,23
+Young,24,U.S. House,19,REP,Randy Neugebauer,268,156,112
+Young,24,Railroad Commissioner,,REP,Becky Berger,56,28,28
+Young,24,Railroad Commissioner,,REP,Joe Cotten,47,25,22
+Young,24,Railroad Commissioner,,REP,Warren Chisum,60,36,24
+Young,24,Railroad Commissioner,,REP,Christi Craddick,54,37,17
+Young,24,Railroad Commissioner,,REP,Beryl Burgess,21,11,10
+Young,24,Railroad Commissioner,,REP,Roland Sledge,18,4,14
+Young,24,Railroad Commissioner Unexpired Term,,REP,Greg Parker,129,70,59
+Young,24,Railroad Commissioner Unexpired Term,,REP,Al Lee,17,8,9
+Young,24,Railroad Commissioner Unexpired Term,,REP,Elizabeth Murray-Kolb,49,29,20
+Young,24,Railroad Commissioner Unexpired Term,,REP,Barry Smitherman,54,30,24
+Young,24,Railroad Commissioner,,DEM,Dale Henry,24,11,13
+Young,24,Supreme Court,Place 2,REP,Don Willett,140,76,64
+Young,24,Supreme Court,Place 2,REP,Steve Smith,108,60,48
+Young,24,Supreme Court,Place 4,REP,John Devine,69,33,36
+Young,24,Supreme Court,Place 4,REP,David Medina,98,59,39
+Young,24,Supreme Court,Place 4,REP,"Joe Pool, Jr.",84,47,37
+Young,24,Supreme Court,Place 6,REP,Nathan Hecht,242,133,109
+Young,24,Supreme Court,Place 6,DEM,Michele Petty,23,11,12
+Young,24,Court of Criminal Appeals,,REP,Sharon Keller,246,131,115
+Young,24,Court of Criminal Appeals,,DEM,Keith Hampton,23,11,12
+Young,24,Court of Criminal Appeals,Place 7,REP,Barbara Parker Hervey,232,126,106
+Young,24,Court of Criminal Appeals,Place 8,REP,Elsa Alcala,235,128,107
+Young,24,State Board of Education,15,REP,Marty Rowley,124,68,56
+Young,24,State Board of Education,15,REP,Anette Carlisle,110,58,52
+Young,24,State Board of Education,15,DEM,Steven D. Schafersman,23,11,12
+Young,24,State Senate,30,REP,Jim Herblin,86,46,40
+Young,24,State Senate,30,REP,Craig Estes,210,122,88
+Young,24,State House,68,REP,Trent McKnight,166,94,72
+Young,24,State House,68,REP,David Isbell,30,12,18
+Young,24,State House,68,REP,Drew Springer,90,58,32
+Young,24,State House,68,REP,Paul Braswell,12,5,7
+Young,24,State House,68,DEM,Lanhon Odom,22,10,12
+Young,24,Chief Justice 2nd Court Of Appeals District,,REP,Terrie Livingston,238,125,113
+Young,24,Justice 2nd Court Of Appeals District Place 4,,REP,Bob McCoy,235,123,112
+Young,24,Justice 2nd Court Of Appeals District Place 5,,REP,Sue Walker,242,131,111
+Young,24,Justice 2nd Court Of Appeals District Place 6,,REP,LeeAnn Campbell Dauphinot,236,127,109
+Young,24,District Judge 90th Judicial District,,REP,Stephen E. Bristow,290,163,127
+Young,24,District Attorney 90th Judicial District,,REP,Dee Peavy,243,136,107
+Young,24,District Attorney 90th Judicial District,,REP,Brenda Gray,90,51,39
+Young,24,County Attorney,,REP,Louis Dayne Miller,254,144,110
+Young,24,Sheriff,,REP,Joe Siskar,148,82,66
+Young,24,Sheriff,,REP,Bryan Walls,180,105,75
+Young,24,Tax Assessor-collector,,REP,Nancy Thomas,261,151,110
+Young,24,Constable Precinct 1,,REP,Joey Parker,85,42,43
+Young,24,Constable Precinct 1,,REP,Tommy Martin,164,107,57
+Young,24,Constable Precinct 1,,REP,Jason Hearne,63,28,35
+Young,24,School Choice:,,REP,Yes,275,159,116
+Young,24,School Choice:,,REP,No,44,23,21
+Young,24,Repealing Obamacare:,,REP,Yes,313,180,133
+Young,24,Repealing Obamacare:,,REP,No,15,7,8
+Young,24,Public Prayer,,REP,Yes,311,178,133
+Young,24,Public Prayer,,REP,No,23,12,11
+Young,24,Balanced Budget / Controlling Government Growth,,REP,Yes,308,177,131
+Young,24,Balanced Budget / Controlling Government Growth,,REP,No,9,2,7
+Young,24,Redistricting,,REP,Yes,227,124,103
+Young,24,Redistricting,,REP,No,74,45,29
+Young,24,Proposition 1,,,For,20,9,11
+Young,24,Proposition 1,,REP,Against,6,4,2
+Young,24,Proposition 2,,,For,24,11,13
+Young,24,Proposition 2,,REP,Against,2,2,
+Young,24,Proposition 3,,,For,14,7,7
+Young,24,Proposition 3,,REP,Against,12,6,6
