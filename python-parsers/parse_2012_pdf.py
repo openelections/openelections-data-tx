@@ -73,6 +73,124 @@ def _party_of(race, filename_party):
     return filename_party
 
 
+XH_NS = '{http://www.w3.org/1999/xhtml}'
+
+
+def bbox_words(source):
+    """(page_no, x, y, text) words from pdftotext -bbox XML."""
+    import xml.etree.ElementTree as ET
+    r = subprocess.run(["pdftotext", "-bbox", source, "-"],
+                       capture_output=True, timeout=300)
+    root = ET.fromstring(r.stdout.decode("utf-8", errors="replace"))
+    out = []
+    page = 0
+    for el in root.iter():
+        if el.tag == XH_NS + 'page':
+            page += 1
+        elif el.tag == XH_NS + 'word':
+            try:
+                out.append((page, float(el.get('xMin')), float(el.get('yMin')),
+                            float(el.get('xMax')), float(el.get('yMax')),
+                            el.text or ''))
+            except (TypeError, ValueError):
+                continue
+    return out
+
+
+def _lines(words, tol=3.0):
+    """5-tuples (x, y, x1, y1, text) of one page -> [(y, [words])] where
+    the words share the same y band."""
+    ws = sorted(words, key=lambda w: (round(w[1], 1), w[0]))
+    out = []
+    for w in ws:
+        if out and abs(w[1] - out[-1][0][1]) < tol:
+            out[-1].append(w)
+        else:
+            out.append([w])
+    return [(l[0][1], l) for l in out]
+
+
+def parse_canvass(county, sources, party_default=None):
+    """'Canvass — Total Voters' grids (jim_hogg, llano): pages where the
+    visual columns are candidate headers (rotated text lines) above the
+    data rows; each data row = precinct + 6 fixed numbers + one integer per
+    candidate column. Candidate headers are clustered by x-overlap in the
+    header band between the race title and the first data row."""
+    import parse_2014_asc as _asc
+    out = []
+    for src in sources:
+        party = _asc.party_from_filename(src, party_default or "")
+        pages = {}
+        for pg, x, y, x1, y1, t in bbox_words(src):
+            pages.setdefault(pg, []).append((x, y, x1, y1, (t or '').strip()))
+        for pg in sorted(pages):
+            wds = pages[pg]
+            lines = _lines(wds)
+            FIXED = {'precinct', 'absentee', 'early', 'election', 'total',
+                     'registered', 'percent', 'ballots', 'cast', 'voters',
+                     'turnout'}
+            data_y = None
+            for y, l in lines:
+                ints = sum(1 for w in l if re.fullmatch(r"\d{1,4}", w[4], re.I))
+                if ints >= 5 and re.fullmatch(r"\d{1,4}", l[0][4], re.I):
+                    data_y = y
+                    break
+            race_title = None
+            race_y = None
+            for y, l in lines:
+                if y >= (data_y or 0):
+                    break
+                txt = ' '.join(w[4] for w in l)
+                m = re.match(r"^([A-Z][^\-]{2,60})\s-\s*$", txt.strip())
+                if m and not re.search(r"Voters|Official|Page\b|Ballot|County|Number",
+                                       txt, re.I) and re.search(
+                        r"President|Senator|Representative|Commissioner|Justice|"
+                        r"Judge|Board|Court|Attorney", txt, re.I):
+                    race_title = m.group(1).strip()
+                    race_y = y
+            if not race_title:
+                continue
+            region = [w for w in wds if w[1] > race_y + 1
+                      and (data_y is None or w[1] < data_y)
+                      and w[4].lower() not in FIXED
+                      and not re.fullmatch(r"[\d.,%]+", w[4])]
+            # cluster by x-overlap
+            clusters = []
+            for w in sorted(region, key=lambda w: w[0]):
+                if clusters and w[0] - clusters[-1]['x1'] <= 14:
+                    clusters[-1]['x1'] = max(clusters[-1]['x1'], w[2])
+                    clusters[-1]['words'].append(w)
+                else:
+                    clusters.append({'x0': w[0], 'x1': w[2], 'words': [w]})
+            cols = []
+            for c in clusters:
+                ws = sorted(c['words'], key=lambda w: w[1])
+                txt = re.sub(r"\s+", " ", ' '.join(w[4] for w in ws)).strip()
+                if txt and txt[:6].lower() not in ('totals', 'continu') \
+                        and not re.fullmatch(r"\d+", txt):
+                    cols.append((c['x0'], txt))
+            if not cols:
+                continue
+            for y, l in lines:
+                if y < (data_y or 0):
+                    continue
+                toks = [(w[0], w[4]) for w in l]
+                if not toks or not re.fullmatch(r"\d{1,4}", toks[0][1], re.I):
+                    continue
+                pct = precinct_name(toks[0][1])
+                if pct.lower().startswith('total'):
+                    continue
+                pcts = [t for _x, t in toks if re.fullmatch(r"[\d,]+%", t)]
+                cvals = [int(t.replace(",", "")) for _x, t in toks
+                         if re.fullmatch(r"\d{1,4}", t, re.I) and _x > 430][:len(cols)]
+                if len(cvals) < len(cols):
+                    continue
+                for (cx, cname), v in zip(cols, cvals):
+                    out.append({"precinct": pct, "race": race_title,
+                                "candidate": cname, "votes": v, "party": party})
+    return out
+
+
 def parse_report_raw(county, source, party_default=None):
     """raw-mode fallback for exports whose wide tables lose columns in
     -layout mode (cherokee's RR Unexpired race etc.): raw puts counts BEFORE
@@ -156,6 +274,10 @@ def parse_report(county, sources, party_default=None):
 
 def run_county(county, out, sources, party_default=None):
     recs = parse_report(county, sources)
+    if not recs:
+        recs = parse_canvass(county, sources, party_default)
+        if recs:
+            print('  canvass-grid parse used')
     if recs:
         # wrapped-table fallback: raw rows for (precinct, race, cand) keys
         # missing from the layout parse
