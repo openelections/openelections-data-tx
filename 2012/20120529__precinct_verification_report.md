@@ -31,12 +31,31 @@ Converted and committed in this group:
   panola's DEM source is a mail-ballot log with no results; willacy's DEM
   side is a mislabeled PDF; their REP content verifies.
 
-Attempted, outputs withdrawn (still need work):
-* **terrell** — DEM xlsx with surname-only names; 7 offices still missing.
-* **brewster** — transposed grid; 6 races missing, names truncated mid-way.
-* **cass** — TOTALS sheet selected but still 2x totals; sheet bands stacked.
-* **childress** — Type-row sheets; sums run 6x (both party files carry the
-  same rows and the sections must be split per phase).
+All 13 leftover wide counties are now converted (final pass added the
+`typed_rows` kind for childress, TOTAL-table gating for brewster's stacked
+Early/Election/TOTAL grids, a report-total column exclusion for cass, and
+baseline-driven office/name repair that is office-scoped and
+typo-tolerant — covering terrell's surname-only lists ('Rodriquez',
+'Buchamante', 'Uresh') and county-wide early-vote columns (panola/oldham,
+emitted as `Absentee` pseudo-precinct rows)):
+
+* **terrell** (`democratic__`) — hart-template DEM xlsx; name repair resolved
+  the surname-only/typo'd candidates. The file contains DEM races only: the
+  5 missing offices + REP diffs are the absent REP side (no REP machine
+  source). District Judge 63 'Enrique' is the SOS spelling (export spelled
+  it Fernandez) — reconciled by an office-scoped name fix.
+* **brewster** (`democratic__`) — transposed grids (four sheets: candidates
+  across columns, first/last name split over two lines, three stacked
+  Early/Election/TOTAL tables of which the TOTAL table is used). DEM file
+  only; the 6 missing offices + REP diffs are the absent REP side. One DEM
+  residual: Addie Dainell Allen -3 vs the canvass.
+* **cass** (`republican__`) — EARLY/GRAND/TOTALS sheets, TOTALS used with the
+  report-total column excluded. 20 REP diffs are ±0-2 (and Davis/Huntsman
+  gaps); DEM side has no source in the repo (14 DEM candidate gaps).
+* **childress** — Type-row sheets (Early/Election rows per candidate,
+  summed). 8 documented diffs: the export omits State Rep 68 (Odom) and
+  SBOE 15 (Schafersman) and disagrees with the canvass on Cleaver
+  (21 vs 3), Duncan (533 vs 577), Hervey (-10) and scattered ±1s.
 
 County-wide early-vote totals that cannot be split by precinct (panola EV
 column, oldham EARLY column) are emitted as `Absentee` pseudo-precinct rows,

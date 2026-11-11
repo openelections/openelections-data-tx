@@ -295,11 +295,14 @@ def parse_fixed_cols(name, sheet, county, cfg):
         return out
     labs = [(c, str(v).strip()) for c, v in enumerate(sheet[label_row])
             if v not in (None, "") and str(v) != "None"]
+    excl_fc = cfg.get("exclude_label_re")
     col_map = {}
     for c, s in labs:
         if vote_from is not None and c < vote_from:
             continue
         if total_col is not None and c == total_col:
+            continue
+        if excl_fc and re.search(excl_fc, lab_name(s), re.I):
             continue
         col_map[c] = lab_name(s)
     if not col_map and not total_col:
@@ -492,17 +495,30 @@ def parse_transposed(name, sheet, county, cfg):
         l = str(sheet[name_rows[1]][c] or "").strip() if name_rows[1] < len(sheet) else ""
         if not l and not f:
             continue
-        name = re.sub(r"\s+", " ", (l + " " + f) if l else f).strip()
+        name = re.sub(r"\s+", " ", (f + " " + l) if l else f).strip()
         if name:
             colinfo[c] = (cur_race, name)
+    # the sheet stacks EARLY / ELECTION / TOTAL tables under the same column
+    # layout; use only the precinct rows of the section introduced by the row
+    # whose first cell starts with 'TOTAL'
+    start = None
     for i, row in enumerate(sheet):
-        if i < data_from:
+        if row and str(row[precinct_col]).strip().upper().startswith("TOTAL"):
+            start = i + 1
+            break
+    sect_re = re.compile(r"^(TOTAL|PRECINCT|EV\s+TOT|ED\s+TOT|ELECTION)", re.I)
+    for i, row in enumerate(sheet):
+        if start is not None:
+            if i < start:
+                continue
+        elif i < data_from:
             continue
         cells = list(row) + [None] * 4
         pcv = cells[precinct_col]
-        pct = lab_name(pcv) if pcv not in (None, "") else None
-        if pct is None and num(pcv) is None:
+        if pcv in (None, "") or not precinctish(str(pcv)) \
+                or sect_re.match(str(pcv).strip()):
             continue
+        pct = lab_name(pcv)
         for c, (race, cand) in colinfo.items():
             v = num(cells[c]) if c < len(cells) else None
             if v is None:
@@ -510,6 +526,58 @@ def parse_transposed(name, sheet, county, cfg):
             out.append({"office": race, "district": "", "candidate": cand,
                         "precinct": pct, "votes": v, "phase": "",
                         "party": None, "party2": None})
+    return out
+
+
+
+
+
+def parse_typed_rows(name, sheet, county, cfg):
+    """childress-style: rows of (precinct, candidate, party, Type, Count)
+    under '****'-marked office rows; Early + Election rows per group are
+    summed, a Total row overrides."""
+    out = []
+    marker_col = cfg.get("office_marker_col", 0)
+    race_col = cfg.get("race_col", 1)
+    pct_col = cfg.get("pct_col", 0)
+    cand_col = cfg.get("cand_col", 1)
+    party_col = cfg.get("party_col", 2)
+    type_col = cfg.get("type_col", 3)
+    count_col = cfg.get("count_col", 4)
+    skip_re = re.compile(cfg.get("skip_sheet_re", r"200\d-"), re.I)
+    head_txt = " ".join(str(c) for row in sheet[:6] for c in row if c)
+    if re.search(skip_re, head_txt):
+        return out
+    race = None
+    groups = {}
+    for row in sheet:
+        cells = list(row) + [None] * 6
+        c0 = str(cells[marker_col]).strip() if cells[marker_col] not in (None, "") else ""
+        if c0 == "****" and cells[race_col] not in (None, ""):
+            race = str(cells[race_col]).strip()
+            continue
+        c2 = str(cells[cand_col]).strip() if cells[cand_col] not in (None, "") else ""
+        if not c2 or race is None:
+            continue
+        pcv = cells[pct_col]
+        if pcv in (None, ""):
+            continue
+        pct = lab_name(pcv)
+        tval = str(cells[type_col] or "").strip().upper()
+        cnt = num(cells[count_col])
+        if cnt is None:
+            continue
+        key = (race, c2, pct)
+        g = groups.setdefault(key, {"total": None, "sum": 0})
+        if tval.startswith("TOTAL"):
+            g["total"] = cnt
+        else:
+            g["sum"] += cnt
+    for (race, cand, pct), g in groups.items():
+        votes = g["total"] if g["total"] is not None else g["sum"]
+        out.append({"office": race, "district": "", "candidate": cand,
+                    "precinct": pct, "votes": votes, "phase": "",
+                    "party": None, "party2": None})
     return out
 
 
@@ -523,7 +591,8 @@ HANDLERS = {
                                "label_row": 0}),
     "terry": ("fixed_cols", {"party_col": 0, "race_col": 1, "cand_col": 2}),
     "cass": ("fixed_cols", {"race_col": 0, "cand_col": 1, "vote_from": 4,
-                            "label_row": 0, "sheets": ("TOTALS",)}),
+                            "label_row": 0, "sheets": ("TOTALS",),
+                            "exclude_label_re": r"^TOTAL"}),
     "childress": ("fixed_cols", {"race_col": 1, "cand_col": 1, "party_col": 2,
                                  "type_col": 3, "vote_from": 0}),
     "concho": ("narrow", {"cols": {"precinct": 0, "race": 10, "candidate": 14,
@@ -544,8 +613,13 @@ HANDLERS = {
                                   "countywide_col_re": r"^EV$",
                                   "exclude_label_re": r"^(TOTAL|EARLY)"}),
     "willacy": ("named_cols", {"race_col": 0, "label_row": 0, "total_col": 8}),
-    "brewster": ("transposed", {"title_row": 3, "name_rows": (4, 5),
-                                "precinct_col": 0, "data_from": 6}),
+    "brewster": ("fixed_cols", {"race_col": 0, "cand_col": 1, "vote_from": 4,
+                                "label_row": 0, "sheets": ("TOTALS",)},
+                 ) if False else ("transposed", {"title_row": 3, "name_rows": (4, 5),
+                                                 "precinct_col": 0, "data_from": 6}),
+    "childress": ("typed_rows", {"office_marker_col": 0, "race_col": 1,
+                                 "pct_col": 0, "cand_col": 1, "party_col": 2,
+                                 "type_col": 3, "count_col": 4}),
 }
 
 
@@ -635,6 +709,130 @@ def _lev1(a, b):
     return a[i + (1 if len(a) > len(b) else 0):] == b[i:]
 
 
+def load_baseline_names():
+    """(county, s, d, party, name_key) -> raw candidate name, from the SOS
+    county file (for repairing surname-only candidate lists)."""
+    import csv as _csv
+    from verify_2012 import name_key_2012, base_office as _bo
+    out = {}
+    path = os.path.join(os.path.dirname(os.path.abspath(__file__)), os.pardir,
+                        "2012", "20120529__tx__primary__county.csv")
+    with open(path) as fh:
+        for r in _csv.DictReader(fh):
+            c = (r["candidate"] or "").strip()
+            if not c or c == "Total":
+                continue
+            s_, d_ = _bo(r["office"], (r["district"] or "").strip(),
+                         r["county"].strip())
+            out[(r["county"].strip().upper(), s_, d_,
+                 (r["party"] or "").strip().upper(),
+                 name_key_2012(c))] = c
+    return out
+
+
+def _oc_of(raw_office, raw_district, county):
+    from verify_2012 import precinct_office
+    try:
+        return precinct_office(expand_2012(raw_office or ""), raw_district or "", county.upper())
+    except Exception:
+        return None
+
+
+def _name_matcher(county):
+    """Build the SOS name index for one county. Returns a matcher
+    (candidate_text, party, office_key_or_None) -> raw SOS name."""
+    from verify_2012 import name_key_2012
+    names = load_baseline_names()
+    nm = county.upper()
+    full, by_office, surname, firsts = {}, {}, {}, {}
+    for (cnty, s_, d_, party_, k), raw in names.items():
+        if cnty != nm:
+            continue
+        full[(party_, k)] = raw
+        by_office.setdefault((s_, d_, party_), []).append((k, raw))
+        parts = k.split()
+        if parts:
+            surname.setdefault((parts[-1], party_), []).append((k, s_, d_, raw))
+            firsts.setdefault((parts[0], party_), []).append((k, s_, d_, raw))
+    amb_s = {s_k for s_k, lst in surname.items()
+             if len({e[1] for e in lst}) >= 2 and len(lst) > 1}
+
+    def _lev(a, b, cap=2):
+        if abs(len(a) - len(b)) > cap:
+            return cap + 1
+        prev = list(range(len(b) + 1))
+        for i, ca in enumerate(a, 1):
+            cur = [i]
+            for j, cb in enumerate(b, 1):
+                cur.append(min(prev[j] + 1, cur[j - 1] + 1,
+                               prev[j - 1] + (ca != cb)))
+            prev = cur
+        return prev[-1]
+
+    def fuzzy_surname(tok, party, office):
+        if not office:
+            return None
+        cand = []
+        for k, raw in by_office.get(office + (party,), []):
+            bk = k.split()
+            btok = bk[-1] if bk and bk[-1] not in ("JR", "II", "III", "SR") else None
+            if not btok:
+                continue
+            if _lev(btok, tok) <= 2 and abs(len(btok) - len(tok)) <= 2:
+                cand.append(raw)
+        return cand[0] if len(cand) == 1 else None
+
+    def match(cand_text, party, office):
+        k = name_key_2012(cand_text)
+        party = party or ""
+        if (party, k) in full:
+            return full[(party, k)]
+        parts = k.split()
+        if len(parts) == 2:
+            rev = name_key_2012(" ".join(reversed(parts)))
+            if (party, rev) in full:
+                return full[(party, rev)]
+        s_k = (parts[-1] if parts else "", party)
+        if len(parts) == 3 and parts[-1] in ("JR", "II", "III"):
+            s_k = (parts[-2], party)
+        oc_hits = []
+        if office:
+            oc_hits = [raw for (k2, raw) in by_office.get(office + (party,), [])
+                       if k2.split()[-1] == s_k[0]
+                       or (parts and k2.split()[-1][:4] == s_k[0][:4]
+                           and abs(len(k2.split()[-1]) - len(s_k[0])) <= 2)]
+        if len(oc_hits) == 1:
+            return oc_hits[0]
+        if s_k not in amb_s and len(surname.get(s_k, [])) == 1:
+            return surname[s_k][0][3]
+        if parts and len(parts) == 2 and parts[1].isdigit() and len(parts[0]) >= 3:
+            cands = [raw for (k2, raw) in firsts.get((parts[0], party), [])
+                     if k2.split()[1].startswith(parts[1])]
+            if len(cands) == 1:
+                return cands[0]
+        if office:
+            m = fuzzy_surname(s_k[0], party, office)
+            if m:
+                return m
+        return None
+    return match
+
+
+def repair_names(recs, county):
+    """Counties whose export lists candidates by surname only (terrell) get
+    the full SOS name, resolved within the row's office first, then the
+    party-scoped surname/first-token/partial-initial match."""
+    match = _name_matcher(county)
+    n = 0
+    for r in recs:
+        oc = _oc_of(r.get("office"), r.get("district"), county)
+        raw = match(r["candidate"], r.get("party"), oc)
+        if raw is not None and r["candidate"] != raw:
+            r["candidate"] = raw
+            n += 1
+    return n
+
+
 def repair_offices(recs, county):
     """County-side races whose office text is fragmented/unreliable get their
     office from the SOS baseline by candidate name (statewide candidates are
@@ -717,11 +915,7 @@ def repair_offices(recs, county):
             parts = k.split()
             scope = None
             raw_office = r.get("office") or ""
-            oc = None
-            try:
-                oc = precinct_office(raw_office, r.get("district") or "", nm)
-            except Exception:
-                oc = None
+            oc = _oc_of(raw_office, r.get("district"), county)
             if oc:
                 hits_oc = {kc2 for kc2, cv in cand.items()
                            if kc2[0] == nm and kc2[1] == oc[0] and kc2[2] == oc[1]}
@@ -814,6 +1008,8 @@ def run_county(county, out, sources):
                 recs += parse_named_cols(name, sheet, county, local_cfg)
             elif kind_local == "transposed":
                 recs += parse_transposed(name, sheet, county, local_cfg)
+            elif kind_local == "typed_rows":
+                recs += parse_typed_rows(name, sheet, county, local_cfg)
         sig = tuple(sorted((str(r["precinct"]), str(r["office"]),
                             str(r["candidate"]), r["votes"]) for r in recs[pre:]))
         if sig in seen_sigs:
@@ -843,6 +1039,7 @@ def run_county(county, out, sources):
         print(f"  dropped {len(recs) - len(ded)} exact duplicate rows")
     recs = ded
     n_rep = repair_offices(recs, county)
+    n_nm = repair_names(recs, county)
     recs = merge_records(county, recs)
     rows = []
     for r in recs:

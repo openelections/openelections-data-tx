@@ -38,6 +38,15 @@ BASELINE_DEFAULT = os.path.join(HERE, os.pardir, "2012", "20120529__tx__primary_
 BASE_PARTY = {"D": "DEM", "R": "REP", "DEM": "DEM", "REP": "REP",
               "DEMOCRATIC": "DEM", "REPUBLICAN": "REP"}
 
+# exports that spell a candidate against the SOS county file under a
+# nickname/short form, keyed (county, office_key_s, name_key)
+OFFICE_NAME_FIXES = {
+    # Terrell/Val Verde export spells the 63rd District Judge 'Fernandez'
+    # where the SOS file carries the truncated 'Enrique'
+    ("TERRELL", "DISTRICT JUDGE", "FERNANDEZ"): "ENRIQUE",
+    ("VAL_VERDE", "DISTRICT JUDGE", "FERNANDEZ"): "ENRIQUE",
+}
+
 # source-level name typos confirmed against the county-level file
 NAME_ALIASES_2012 = {
     "TAWANA L CADIEN": "TAWANA W CADIEN",   # Austin county export vs SOS file
@@ -62,6 +71,10 @@ NAME_ALIASES_2012 = {
     "REBECCA SIMM": "REBECCA SIMMONS",          # McMullen county export
     "PHYLIS J SPE": "PHYLIS J SPEEDLIN",        # McMullen county export
     "PHYLIS J SPEEDIN": "PHYLIS J SPEEDLIN",    # McMullen county export
+    "BARBARA PARKER HERVE": "BARBARA PARKER HERVEY",  # Terrell/Childress export
+    "NEW GINRICH": "NEWT GINGRICH",             # Childress export
+    "NEWT GINRICH": "NEWT GINGRICH",            # Childress export
+    "PONCHO NEV REZ": "PONCHO NEVAREZ",         # Terrell county export spacing
     "WILLIAM R HAGAR": "WILLIAM R HAGER",       # McMullen/Midland export variants
     "TOM LEPPER": "TOM LEPPERT",                # McMullen county export
     "LELA PETTENGE": "LELA PITTENGER",          # McMullen county export
@@ -78,6 +91,10 @@ def name_key_2012(s):
 def _pre_canon(t):
     """Fixes on already-normalized parser office text before canon_office."""
     t = re.sub(r"\s+(?<=\S)\s+(REP|DEM)$", "", t, flags=re.I)  # concho party suffix
+    if t.upper().startswith("STATE SENATOR"):
+        t = "STATE SENATE " + t[len("STATE SENATOR"):]
+    if re.search(r"\bPONCHO\b", t.upper()):
+        t = t  # handled via name alias
     t = re.sub(r"\bREPRESENATIVE\b", "REPRESENTATIVE", t, flags=re.I)  # Hamilton typo
     t = re.sub(r"\bCRIMINAL\s+APPEA[L]?[S]?\s+COURT\b", "COURT OF CRIMINAL APPEALS",
                t, flags=re.I)
@@ -104,6 +121,10 @@ def _pre_canon(t):
     if m:  # Montague 'District Attorney 97th District' -> office + bare district
         t = f"{m.group(1)} District {m.group(2)}"
     t = re.sub(r"\bCTOF\s*AP?P?E?A?L?S?\.?\b", "COURT OF APPEALS", t, flags=re.I)
+    t = re.sub(r"\bBOARD OF ELECTION\b", "BOARD OF EDUCATION", t, flags=re.I)  # Childress
+    if re.search(r"RAILROAD", t, re.I) and re.search(r"\bEXPIRED\b", t, re.I) \
+            and not re.search(r"UNEXPIRED", t, re.I):
+        t = re.sub(r"RAILROAD[ \w,]*EXPIRED", "RAILROAD COMMISSIONER UNEXPIRED TERM", t, flags=re.I)
     m = re.match(r"(CHIEF )?JUSTICE\s+PLACE\s+(\d+)\s+(\d+)(?:ST|ND|RD|TH)?\s+"
                  r"COURT OF APPEALS DISTRICT", t, re.I)
     if m:  # Williamson: place before the court number
@@ -238,8 +259,11 @@ def load_precinct(path):
             if k[0] == "RAILROAD COMMISSIONER" and re.search(
                     r"UNEXPIRED", (office + " " + str(r.get("district") or "")).upper()):
                 k = ("RAILROAD COMMISSIONER UNEXPIRED", "")
+            raw_nm = name_key_2012(r["candidate"])
+            fixed = OFFICE_NAME_FIXES.get((c_name, k[0], raw_nm))
             c = (r["candidate"] or "").upper()
-            sums_c[k + ((r["party"] or "").strip(), name_key_2012(r["candidate"]))] += v
+            sums_c[k + ((r["party"] or "").strip(),
+                        name_key_2012(fixed or r["candidate"]))] += v
             if re.match(r"^OVER VOTES?$", c):
                 ovu[k][0] += v
             elif re.match(r"^UNDER VOTES?$", c):
