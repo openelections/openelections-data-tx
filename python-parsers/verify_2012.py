@@ -71,6 +71,7 @@ NAME_ALIASES_2012 = {
     "REBECCA SIMM": "REBECCA SIMMONS",          # McMullen county export
     "PHYLIS J SPE": "PHYLIS J SPEEDLIN",        # McMullen county export
     "PHYLIS J SPEEDIN": "PHYLIS J SPEEDLIN",    # McMullen county export
+    "DERBHA HOUSTON JONES": "DERBHA JONES",     # Denton county export
     "BARBARA PARKER HERVE": "BARBARA PARKER HERVEY",  # Terrell/Childress export
     "NEW GINRICH": "NEWT GINGRICH",             # Childress export
     "NEWT GINRICH": "NEWT GINGRICH",            # Childress export
@@ -125,6 +126,9 @@ def _pre_canon(t):
         t = f"{m.group(1)} District {m.group(2)}"
     t = re.sub(r"\bCTOF\s*AP?P?E?A?L?S?\.?\b", "COURT OF APPEALS", t, flags=re.I)
     t = re.sub(r"\bBOARD OF ELECTION\b", "BOARD OF EDUCATION", t, flags=re.I)  # Childress
+    m = re.match(r"JUSTICE[,\s]+-?\s*(\d+)(?:ST|ND|RD|TH)?\s+COURT OF APPEALS\s+PLACE\s*(\d+)", t, re.I)
+    if m:
+        t = f"{m.group(1)} COURT OF APPEALS DISTRICT PLACE {m.group(2)}"
     if re.search(r"RAILROAD", t, re.I) and re.search(r"\bEXPIRED\b", t, re.I) \
             and not re.search(r"UNEXPIRED", t, re.I):
         t = re.sub(r"RAILROAD[ \w,]*EXPIRED", "RAILROAD COMMISSIONER UNEXPIRED TERM", t, flags=re.I)
@@ -152,6 +156,7 @@ def _post_key2(s, d):
         d = re.sub(r"\s*UNEXPIRED(\s+TERM)?\b", "", d, flags=re.I).strip()
         d = re.sub(r"\s+\bJ\b\s*", " ", d).strip()  # stray truncated 'J' (Midland)
         d = re.sub(r"\bDISTRICT\b\s*$", "", d).strip()
+        d = re.sub(r"\s+DISTRICT\s+COURT\s*$", "", d).strip()
         d = _strip_jd(d)
     return (s, d)
 

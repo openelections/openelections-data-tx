@@ -97,7 +97,25 @@ Clean: colorado, coryell, dewitt, eastland, falls, hopkins, madison, mitchell, m
 * **Widespread small diffs**: dozens of counties show a small number of candidates whose precinct sums differ from the SOS canvass by exactly ±1 (93 occurrences across the ASC group alone). Direction and magnitude suggest a single provisional/late ballot in the canvass absent from the county's exports; the export values are kept as parsed.
 * **Typos recovered by aliases** (kept in the outputs, mapped for verification): `Raplh M. Hall` (Morris), `Tawana L. Cadien` (Austin; SOS file says W.), `John Grunwold` (Calhoun), `Elizabeth Murray-Kolb` / `MurrayKolb` spelling variants.
 
-## Remaining work after the text pass:
+## PDF text-layer group (final pass): `parse_2012_pdf.py` parses the
+'Precinct Report' text-layer PDFs via `pdftotext`, with a raw-mode fallback
+for wrapped tables (cherokee's RR Unexpired race) and an 'Unexpired Term'
+marker. Converted & committed: **bee, cherokee, coke, gray, jack,
+jim_wells, denton** (both parties; denton's dash-form office names
+'District Judge - 16th District Court' canonicalized) and **willacy**
+(DEM pdf; its Republican side was already committed from the REP totals
+xlsx). Residual documented diffs vs the canvass: bee's CoA/CCA candidates
+run ~105 votes short of the canvass (bee export covers 16 of 17 precincts),
+denton misses rows on some wrapped pages (11 diffs incl. 10,000-vote
+Shipman discrepancy — 24703 vs 14703), willacy differs on CCA/CoA/Unexpired
+(REP side absent from the DEM export). Data tests pass.
+
+Still uncommitted: **jim_hogg and llano** — 'Canvass — Total Voters' grids
+whose candidate names are scattered column headers, not row labels; they
+need an x-position-based mapping (pdftotext -bbox) rather than the
+row-block parser, and were withdrawn rather than committed wrong.
+
+Remaining work after the text pass:
 * text counties **grimes / lampasas / waller** (Hart CSV dialect whose
   Court-of-Appeals race titles need a dedicated office cleanup) and
   **guadalupe** (SOS 'EXPORT DATA' rows with truncated race labels and labels
