@@ -110,6 +110,73 @@ denton misses rows on some wrapped pages (11 diffs incl. 10,000-vote
 Shipman discrepancy — 24703 vs 14703), willacy differs on CCA/CoA/Unexpired
 (REP side absent from the DEM export). Data tests pass.
 
+Still uncommitted: **jim_hogg** and **llano**. `parse_2012_canvass.py`
+v3 (per-race-block parsing: race titles matched per page, fixed-column
+headers, candidate name words clustered by x-overlap, values assigned to
+name columns by character position, Precinct-999 rows only) resolves
+jim_hogg's reversed names and produces 135 rows; llano produces 522 rows
+with correct Romney/Dewhurst/Cruz sums. Remaining llano blockers:
+(1) `-nopgbrk` merges pages so the race title resets — fixed by using real
+formfeeds, but (2) most canvass titles contain dashes ('U.S. Representative
+District', 'Justice, Court of Appeals...') beyond the race-title regex
+range; (3) pages 5+ of the llano canvass print their race titles in a
+format not yet covered (only President/U.S. Senator pages parse). The
+'Enrique'/'Fernandez' office-scoped name fix is in
+verify_2012.OFFICE_NAME_FIXES.
+
+County-wide early-vote totals that cannot be split by precinct (panola EV
+column, oldham EARLY column) are emitted as `Absentee` pseudo-precinct rows,
+which makes candidate sums tie with the canvass except where noted.
+
+## What was done
+
+* **115 county precinct files written** with the filename base `20120529__tx__primary`. 105 counties cover both parties; 10 (`democratic__`/`republican__`-prefixed) cover a single party because the county's other party is only available as PDF/other formats (e.g. McCulloch, Medina, Sherman, Washington).
+* ASC/Hart-export counties parsed with `python-parsers/parse_2012_asc.py` (180-char record layout; `.001` Hart exports and Calhoun's EL30A `.LST` text report included).
+* Excel counties parsed with `python-parsers/parse_2012_excel.py` (wraps the 2014 Detail-Vote-Totals parser; adds the 2012 quirks listed below).
+* Every file was verified against the county-level file: per-candidate precinct sums are compared to the SOS county canvass (candidate rows are authoritative; the baseline's `Total` rows are advisory). Office names are matched on canonical keys; the 2012 propositions are checked for coverage only.
+* All written CSVs pass the openelections-data-tests suites (re-checked after each pass) (`duplicate_entries`, `file_format`, `missing_values`, `vote_breakdown_totals`, harness v2.2.0).
+
+## Verification result summary
+
+* Clean (no candidate mismatches, no missing offices): **17** of 115 counties
+* Small diffs (each mismatch ±1 vote, no missing offices): **17** counties
+* Notable mismatches remain: **81** counties (counts per county below) — see the JSON report `2012/20120529__report.json` for office-by-office detail.
+
+Clean: colorado, coryell, dewitt, eastland, falls, hopkins, madison, mitchell, montgomery, nacogdoches, nolan, orange, san_jacinto, stonewall, upshur, wheeler, young
+
+## Source defects found (files excluded or partially usable)
+
+| County | Source | Problem |
+|---|---|---|
+| Tyler | `12PTYLER.ASC` (both parties) | every vote field in the export is 0; no results recoverable — file skipped |
+| Fayette | `10GFAYET.ASC` | mislabeled: the export is the **2010 general election**, not the 2012 primary — file skipped |
+| Chambers | `AEROLST.WRK` | EL45A summary (county totals) only; no precinct breakdown — skipped |
+| Lamb | `12PLAMB.ALG`; Webb `12PWEBB.CVS` | Hart report-definition binaries, no results data — skipped |
+| Bandera | Bandera sources are the 2011 amendment election (`2011_Constitutional_Amendment`); the 2012 primary files are absentee-only `EPB_ABSENTEE.csv` — not precinct-level |
+
+## Documented source-vs-canvass discrepancies
+
+* **Wharton**: the county exports (`12PWHART.001`) carry only a fraction of the contests (19 of ~20 offices missing).
+* **Cameron**: exports omit the 13th Court of Appeals places and District Judge courts 138/404/444/445 entirely.
+* **Smith**: exports omit the Criminal District Judge races (courts 7 and 114).
+* **Victoria / Hood / parts of Wharton**: Hart title fields are truncated at 56 characters, which cuts the Place numbers off Court of Appeals / CCA judge races; those races are written with an empty district and are candidates under a single office. The votes are present but the place disambiguation cannot be recovered from the export alone.
+* **Bexar**: the county's exports (both parties) run consistently **+5 or so votes over** the SOS county canvass; all Dem/Rep statewide candidates show the same excess.
+* **Widespread small diffs**: dozens of counties show a small number of candidates whose precinct sums differ from the SOS canvass by exactly ±1 (93 occurrences across the ASC group alone). Direction and magnitude suggest a single provisional/late ballot in the canvass absent from the county's exports; the export values are kept as parsed.
+* **Typos recovered by aliases** (kept in the outputs, mapped for verification): `Raplh M. Hall` (Morris), `Tawana L. Cadien` (Austin; SOS file says W.), `John Grunwold` (Calhoun), `Elizabeth Murray-Kolb` / `MurrayKolb` spelling variants.
+
+## PDF text-layer group (final pass): `parse_2012_pdf.py` parses the
+'Precinct Report' text-layer PDFs via `pdftotext`, with a raw-mode fallback
+for wrapped tables (cherokee's RR Unexpired race) and an 'Unexpired Term'
+marker. Converted & committed: **bee, cherokee, coke, gray, jack,
+jim_wells, denton** (both parties; denton's dash-form office names
+'District Judge - 16th District Court' canonicalized) and **willacy**
+(DEM pdf; its Republican side was already committed from the REP totals
+xlsx). Residual documented diffs vs the canvass: bee's CoA/CCA candidates
+run ~105 votes short of the canvass (bee export covers 16 of 17 precincts),
+denton misses rows on some wrapped pages (11 diffs incl. 10,000-vote
+Shipman discrepancy — 24703 vs 14703), willacy differs on CCA/CoA/Unexpired
+(REP side absent from the DEM export). Data tests pass.
+
 Still uncommitted: **jim_hogg** and **llano**. `parse_2012_canvass.py` now
 parses both canvasses with the two-phase approach (race titles, fixed
 columns, rotated candidate name columns clustered by x-overlap, and data
